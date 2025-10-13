@@ -82,7 +82,7 @@ export default function SportsIconGrid() {
   }
 
   return (
-    <div className="bg-white">
+    <div>
       <div className="w-full px-4 sm:px-6 lg:px-8 py-8">
         <div className="text-center mb-6 max-w-screen-2xl mx-auto">
           <h3 className="text-xl sm:text-2xl font-bold text-gray-900">Explore by Sport</h3>
@@ -98,7 +98,7 @@ export default function SportsIconGrid() {
                 href={`/search?sport=${encodeURIComponent(sport)}`}
                 className="group inline-block w-full break-inside-avoid mb-4"
               >
-                <div className="flex flex-col items-center gap-3 p-4 bg-white border border-red-200 rounded-xl hover:shadow-lg hover:border-red-300 transition-all">
+                <div className="flex flex-col items-center gap-3 p-4 bg-black border border-red-900/40 rounded-xl hover:shadow-lg hover:border-red-700/60 transition-all">
                   <div className="relative w-16 h-16 md:w-20 md:h-20 overflow-hidden rounded-lg border border-red-200 bg-red-50">
                     {/* Using next/image for optimization; fall back handled by static assets */}
                     <Image src={imgSrc} alt={`${sport} icon`} fill sizes="80px" className="object-contain" />

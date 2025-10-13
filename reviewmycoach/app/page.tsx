@@ -6,9 +6,9 @@ import SportsIconGrid from "./components/SportsIconGrid";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen">
       {/* Hero Section - Dynamic Gradient with Floating Elements */}
-      <div className="relative bg-white text-neutral-800 overflow-hidden">
+      <div className="relative text-neutral-200 overflow-hidden">
         {/* Floating geometric shapes */}
         <div className="absolute inset-0 opacity-40 pointer-events-none">
           <div className="absolute top-20 left-10 w-32 h-32 bg-gray-100 rounded-full blur-3xl"></div>
@@ -65,16 +65,16 @@ export default function Home() {
           {/* Trending Sports Pills */}
           <div className="flex flex-wrap justify-center gap-3 text-sm mt-12">
             <span className="text-gray-900 mr-2">Trending:</span>
-            <Link href="/search?q=basketball" className="bg-white text-gray-900 px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-lg border border-[var(--brand-silver-blue)]/50">
+            <Link href="/search?q=basketball" className="bg-white text-gray-900 px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-lg border border-gray-700">
               🏀 Basketball
             </Link>
-            <Link href="/search?q=soccer" className="bg-white text-gray-900 px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-lg border border-[var(--brand-silver-blue)]/50">
+            <Link href="/search?q=soccer" className="bg-white text-gray-900 px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-lg border border-gray-700">
               ⚽ Soccer
             </Link>
-            <Link href="/search?q=tennis" className="bg-white text-gray-900 px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-lg border border-[var(--brand-silver-blue)]/50">
+            <Link href="/search?q=tennis" className="bg-white text-gray-900 px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-lg border border-gray-700">
               🎾 Tennis
             </Link>
-            <Link href="/search?q=swimming" className="bg-white text-gray-900 px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-lg border border-[var(--brand-silver-blue)]/50">
+            <Link href="/search?q=swimming" className="bg-white text-gray-900 px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-lg border border-gray-700">
               🏊 Swimming
             </Link>
           </div>
@@ -166,7 +166,7 @@ export default function Home() {
           </div>
 
       {/* How It Works Section */}
-      <div className="bg-gray-50 py-20">
+      <div className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">How It Works</h2>
@@ -178,7 +178,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {/* Step 1 */}
             <div className="text-center">
-              <div className="w-16 h-16 bg-white border border-gray-200 rounded-full flex items-center justify-center mx-auto mb-6">
+              <div className="w-16 h-16 bg-black border border-gray-800 rounded-full flex items-center justify-center mx-auto mb-6">
                 <span className="text-2xl font-bold text-gray-800">1</span>
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-4">Search & Discover</h3>
@@ -189,7 +189,7 @@ export default function Home() {
 
             {/* Step 2 */}
             <div className="text-center">
-              <div className="w-16 h-16 bg-white border border-gray-200 rounded-full flex items-center justify-center mx-auto mb-6">
+              <div className="w-16 h-16 bg-black border border-gray-800 rounded-full flex items-center justify-center mx-auto mb-6">
                 <span className="text-2xl font-bold text-gray-800">2</span>
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-4">Connect & Book</h3>
@@ -200,7 +200,7 @@ export default function Home() {
 
             {/* Step 3 */}
             <div className="text-center">
-              <div className="w-16 h-16 bg-white border border-gray-200 rounded-full flex items-center justify-center mx-auto mb-6">
+              <div className="w-16 h-16 bg-black border border-gray-800 rounded-full flex items-center justify-center mx-auto mb-6">
                 <span className="text-2xl font-bold text-gray-800">3</span>
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-4">Train & Improve</h3>
@@ -233,7 +233,7 @@ export default function Home() {
             </Link>
             <Link
               href="/signup"
-              className="inline-flex items-center justify-center px-8 py-4 border-2 border-[var(--brand-silver-blue)] text-gray-800 rounded-xl font-bold text-lg hover:bg-[color:rgb(163_182_196_/_.15)] hover:text-gray-900 transition-all duration-300"
+              className="inline-flex items-center justify-center px-8 py-4 border-2 border-gray-700 text-gray-200 rounded-xl font-bold text-lg hover:bg-gray-800 hover:text-gray-200 transition-all duration-300"
             >
               Join as Coach
               <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">

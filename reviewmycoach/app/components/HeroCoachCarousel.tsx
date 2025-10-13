@@ -159,8 +159,8 @@ export default function HeroCoachCarousel() {
   return (
     <div className="relative h-48 overflow-hidden">
       {/* Fade overlays (light inner shadows) */}
-      <div className="absolute left-0 top-0 z-10 w-20 h-full bg-gradient-to-r from-white to-transparent pointer-events-none"></div>
-      <div className="absolute right-0 top-0 z-10 w-20 h-full bg-gradient-to-l from-white to-transparent pointer-events-none"></div>
+      <div className="absolute left-0 top-0 z-10 w-20 h-full bg-gradient-to-r from-black to-transparent pointer-events-none"></div>
+      <div className="absolute right-0 top-0 z-10 w-20 h-full bg-gradient-to-l from-black to-transparent pointer-events-none"></div>
       
       {/* Scrolling container */}
       <div className="flex space-x-4 animate-scroll-left px-4">
@@ -171,7 +171,7 @@ export default function HeroCoachCarousel() {
             <Link
               key={`${coach.id}-${index}`}
               href={profileUrl}
-              className="flex-shrink-0 w-80 h-40 bg-white/80 backdrop-blur border border-gray-200 rounded-2xl p-4 hover:bg-white shadow-sm hover:shadow-xl hover:border-gray-300 transition-all duration-300 group"
+              className="flex-shrink-0 w-80 h-40 bg-black/90 border border-gray-800 rounded-2xl p-4 hover:bg-black shadow-sm hover:shadow-xl hover:border-gray-700 transition-all duration-300 group"
             >
               <div className="flex items-start space-x-3 h-full">
                 {/* Profile Image */}

@@ -166,8 +166,7 @@ export default function GlobalSearchBar({
           onFocus={() => setIsOpen(true)}
           onKeyDown={handleKeyDown}
           placeholder={placeholder}
-          className="w-full pl-10 pr-5 py-3 bg-white border border-gray-300 rounded-full focus:ring-2 focus:ring-red-200 focus:border-red-300 text-gray-900 placeholder-gray-500 transition-all duration-200 shadow-sm hover:shadow-md focus:shadow-md text-base"
-          style={{ backgroundColor: '#ffffff', color: '#111111', borderColor: '#d1d5db', boxShadow: '0 2px 8px rgba(0,0,0,0.08)' }}
+          className="w-full pl-10 pr-5 py-3 border border-gray-300 rounded-full focus:ring-2 focus:ring-red-200 focus:border-red-300 placeholder-gray-500 transition-all duration-200 shadow-sm hover:shadow-md focus:shadow-md text-base"
           autoComplete="off"
         />
         {loading && (
@@ -182,7 +181,7 @@ export default function GlobalSearchBar({
 
       {/* Search Suggestions Dropdown */}
       {isOpen && showSuggestions && (searchTerm.length >= 2 || suggestions.length > 0) && (
-        <div className="absolute z-50 w-full mt-2 bg-white border border-gray-200 rounded-xl shadow-xl max-h-64 overflow-y-auto">
+        <div className="absolute z-50 w-full mt-2 border border-gray-200 rounded-xl shadow-xl max-h-64 overflow-y-auto">
           {suggestions.length > 0 ? (
             <>
               {suggestions.map((suggestion, index) => (

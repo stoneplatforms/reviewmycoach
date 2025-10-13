@@ -91,25 +91,25 @@ function SubscriptionSuccessContent() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen">
       {/* Header */}
-      <div className="bg-white shadow-sm">
+      <div className="border-b border-gray-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
             <div className="flex items-center space-x-4">
-              <Link href="/" className="text-xl font-bold text-[var(--brand-silver-blue)]">
+              <Link href="/" className="text-xl font-bold text-gray-200">
                 ReviewMyCoach
               </Link>
-              <span className="text-gray-400">|</span>
-              <h1 className="text-xl font-semibold text-gray-900">Coach Pro</h1>
+              <span className="text-gray-600">|</span>
+              <h1 className="text-xl font-semibold text-gray-100">Coach Pro</h1>
             </div>
             <div className="flex items-center space-x-4">
-              <Link href="/dashboard" className="text-gray-600 hover:text-gray-900">
+              <Link href="/dashboard" className="text-gray-400 hover:text-gray-200">
                 Dashboard
               </Link>
               <button
                 onClick={() => router.push('/profile')}
-                className="text-gray-600 hover:text-gray-900"
+                className="text-gray-400 hover:text-gray-200"
               >
                 Profile
               </button>
@@ -127,32 +127,32 @@ function SubscriptionSuccessContent() {
             </svg>
           </div>
 
-          <h1 className="text-3xl font-bold text-gray-900 mb-4">
+          <h1 className="text-3xl font-bold text-gray-100 mb-4">
             Welcome to Coach Pro! 🎉
           </h1>
-          <p className="text-lg text-gray-600 mb-8">
+          <p className="text-lg text-gray-400 mb-8">
             Your subscription has been successfully activated. You now have access to all Coach Pro features.
           </p>
 
           {subscriptionDetails && (
-            <div className="bg-white rounded-lg shadow p-8 mb-8 max-w-md mx-auto">
-              <h2 className="text-xl font-semibold text-gray-900 mb-4">Subscription Details</h2>
-              <div className="space-y-3 text-left">
+            <div className="rounded-lg border border-gray-800 p-8 mb-8 max-w-md mx-auto">
+              <h2 className="text-xl font-semibold text-gray-100 mb-4">Subscription Details</h2>
+              <div className="space-y-3 text-left text-gray-300">
                 <div className="flex justify-between">
-                  <span className="text-gray-600">Plan:</span>
-                  <span className="font-medium text-gray-900">
+                  <span className="text-gray-400">Plan:</span>
+                  <span className="font-medium text-gray-100">
                     Coach Pro {subscriptionDetails.plan === 'yearly' ? 'Yearly' : 'Monthly'}
                   </span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-gray-600">Status:</span>
-                  <span className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-green-100 text-green-800">
+                  <span className="text-gray-400">Status:</span>
+                  <span className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-green-900/30 text-green-300 border border-green-800/60">
                     Active
                   </span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-gray-600">Next Billing:</span>
-                  <span className="font-medium text-gray-900">
+                  <span className="text-gray-400">Next Billing:</span>
+                  <span className="font-medium text-gray-100">
                     {new Date(subscriptionDetails.nextBilling).toLocaleDateString()}
                   </span>
                 </div>
@@ -160,31 +160,31 @@ function SubscriptionSuccessContent() {
             </div>
           )}
 
-          <div className="bg-[color:rgb(163_182_196_/_.08)] rounded-lg p-6 mb-8 border border-[var(--brand-silver-blue)]/40">
-            <h2 className="text-lg font-semibold text-[var(--brand-white)] mb-3">
+          <div className="bg-neutral-900 rounded-lg p-6 mb-8 border border-gray-800">
+            <h2 className="text-lg font-semibold text-gray-100 mb-3">
               What's Next?
             </h2>
-            <ul className="text-left space-y-2 text-[var(--brand-silver-blue)]">
+            <ul className="text-left space-y-2 text-gray-300">
               <li className="flex items-center">
-                <svg className="h-4 w-4 text-[var(--brand-silver-blue)] mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg className="h-4 w-4 text-gray-400 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
                 Explore your enhanced dashboard with new Pro features
               </li>
               <li className="flex items-center">
-                <svg className="h-4 w-4 text-[var(--brand-silver-blue)] mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg className="h-4 w-4 text-gray-400 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
                 Start applying to unlimited job listings
               </li>
               <li className="flex items-center">
-                <svg className="h-4 w-4 text-[var(--brand-silver-blue)] mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg className="h-4 w-4 text-gray-400 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
                 Set up your custom profile theme
               </li>
               <li className="flex items-center">
-                <svg className="h-4 w-4 text-[var(--brand-silver-blue)] mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg className="h-4 w-4 text-gray-400 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
                 Check out your advanced analytics
@@ -208,13 +208,13 @@ function SubscriptionSuccessContent() {
           </div>
 
           <div className="mt-8 text-center">
-            <p className="text-sm text-gray-500">
+            <p className="text-sm text-gray-400">
               Need help getting started? Check out our{' '}
-              <a href="#" className="text-[var(--brand-silver-blue)] hover:text-[#8fa3b1]">
+              <a href="#" className="underline hover:text-gray-200">
                 Coach Pro Guide
               </a>
               {' '}or{' '}
-              <a href="#" className="text-[var(--brand-silver-blue)] hover:text-[#8fa3b1]">
+              <a href="#" className="underline hover:text-gray-200">
                 contact support
               </a>
               .

@@ -125,7 +125,7 @@ export default function RecentReviews() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-white mb-6">
-              Latest <span className="text-[var(--brand-silver-blue)]">Reviews</span>
+              Latest <span className="text-neutral-300">Reviews</span>
             </h2>
             <p className="text-xl text-neutral-400">See what athletes are saying about their coaches</p>
           </div>
@@ -163,7 +163,7 @@ export default function RecentReviews() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-white mb-6">
-            Latest <span className="text-[var(--brand-silver-blue)]">Reviews</span>
+            Latest <span className="text-neutral-300">Reviews</span>
           </h2>
           <p className="text-xl text-neutral-400">See what athletes are saying about their coaches</p>
           {usingFallback && (
@@ -182,9 +182,9 @@ export default function RecentReviews() {
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {reviews.map((review) => (
-              <div key={review.id} className="bg-neutral-900 rounded-2xl p-6 border border-neutral-800 hover:border-[var(--brand-silver-blue)]/50 transition-all duration-300 hover:shadow-2xl hover:shadow-black/30">
+              <div key={review.id} className="bg-neutral-900 rounded-2xl p-6 border border-neutral-800 hover:border-neutral-700 transition-all duration-300 hover:shadow-2xl hover:shadow-black/30">
                 <div className="flex items-center mb-4">
-                  <div className="w-12 h-12 bg-[color:rgb(163_182_196_/_.15)] rounded-full flex items-center justify-center text-white font-bold text-sm mr-4">
+                  <div className="w-12 h-12 bg-neutral-800 rounded-full flex items-center justify-center text-white font-bold text-sm mr-4">
                     {review.studentName.charAt(0).toUpperCase()}
                   </div>
                   <div className="flex-1">
@@ -218,14 +218,14 @@ export default function RecentReviews() {
                   {!usingFallback ? (
                     <Link 
                       href={`/coach/${review.coachId}`}
-                      className="text-[var(--brand-silver-blue)] hover:text-[#8fa3b1] text-sm font-medium transition-colors"
+                      className="text-neutral-300 hover:text-neutral-200 text-sm font-medium transition-colors underline"
                     >
                       View Coach →
                     </Link>
                   ) : (
                     <Link 
                       href="/coaches"
-                      className="text-[var(--brand-silver-blue)] hover:text-[#8fa3b1] text-sm font-medium transition-colors"
+                      className="text-neutral-300 hover:text-neutral-200 text-sm font-medium transition-colors underline"
                     >
                       Find Coaches →
                     </Link>
