@@ -62,6 +62,9 @@ export default function Navbar() {
             <Link href="/search" className="text-black px-3 py-2 rounded-full text-base font-bold transition-colors hover:bg-gray-100">
               Find Coaches
             </Link>
+            <Link href="/about" className="text-black px-3 py-2 rounded-full text-base font-bold transition-colors hover:bg-gray-100">
+              About
+            </Link>
             <Link href="/classes" className="text-black px-3 py-2 rounded-full text-base font-bold transition-colors hover:bg-gray-100">
               Classes
             </Link>
@@ -198,6 +201,13 @@ export default function Navbar() {
               className="text-neutral-200 hover:text-white block px-3 py-2 rounded-md text-base font-medium transition-all hover:bg-neutral-900"
             >
               Find Coaches
+            </Link>
+            <Link
+              href="/about"
+              onClick={closeMenu}
+              className="text-neutral-200 hover:text-white block px-3 py-2 rounded-md text-base font-medium transition-all hover:bg-neutral-900"
+            >
+              About
             </Link>
             <Link
               href="/classes"
