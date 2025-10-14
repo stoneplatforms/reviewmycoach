@@ -4,6 +4,8 @@ import SearchPageClient from './SearchPageClient';
 export const metadata = {
   title: 'Search Coaches | ReviewMyCoach',
   description: 'Find the perfect coach for your sport. Search and filter by location, sport, gender, and organization.',
+  robots: { index: false, follow: true },
+  alternates: { canonical: '/search' },
 };
 
 export default function SearchPage() {

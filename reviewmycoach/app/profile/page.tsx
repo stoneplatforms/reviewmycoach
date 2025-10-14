@@ -615,3 +615,10 @@ export default function ProfilePage() {
     </div>
   );
 } 
+
+export const metadata = {
+  title: 'Profile Settings | ReviewMyCoach',
+  description: 'Manage your account settings, profile visibility, and credentials.',
+  robots: { index: false, follow: false },
+  alternates: { canonical: '/profile' },
+};

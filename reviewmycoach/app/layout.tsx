@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Navbar from "./components/Navbar";
+import JsonLd from "./components/JsonLd";
 import Link from "next/link";
 
 const geistSans = Geist({
@@ -15,8 +16,59 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ReviewMyCoach - Find and Review Sports Coaches",
-  description: "Discover, review, and rate sports coaches. Similar to Rate My Professor, but for coaches across all sports and disciplines.",
+  metadataBase: new URL('https://reviewmycoach.com'),
+  title: {
+    default: 'ReviewMyCoach - Find and Review Sports Coaches',
+    template: '%s | ReviewMyCoach',
+  },
+  description:
+    'Discover, review, and rate sports coaches. Similar to Rate My Professors, but for coaches across all sports and disciplines.',
+  applicationName: 'ReviewMyCoach',
+  keywords: [
+    'sports coaches',
+    'find a coach',
+    'coach reviews',
+    'athlete training',
+    'rate my coach',
+  ],
+  alternates: {
+    canonical: '/',
+  },
+  openGraph: {
+    type: 'website',
+    url: 'https://reviewmycoach.com/',
+    title: 'ReviewMyCoach - Find and Review Sports Coaches',
+    description:
+      'Find the right coach with verified profiles, real reviews, and transparent details across sports.',
+    siteName: 'ReviewMyCoach',
+    images: [
+      {
+        url: '/logos/reviewmycoachlogo.png',
+        width: 1200,
+        height: 630,
+        alt: 'ReviewMyCoach logo',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    site: '@reviewmycoach',
+    creator: '@reviewmycoach',
+    title: 'ReviewMyCoach - Find and Review Sports Coaches',
+    description:
+      'Find the right coach with verified profiles, real reviews, and transparent details across sports.',
+    images: ['/logos/reviewmycoachlogo.png'],
+  },
+  manifest: '/site.webmanifest',
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/logos/reviewmycoachlogo.png',
+  },
+  themeColor: '#000000',
+  other: {
+    'rating:platform': 'ReviewMyCoach',
+  },
 };
 
 export default function RootLayout({
@@ -29,6 +81,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <JsonLd />
         <Navbar />
         <main className="min-h-screen">
         {children}

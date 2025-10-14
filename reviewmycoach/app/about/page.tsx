@@ -70,4 +70,10 @@ export default function AboutPage() {
   );
 }
 
+export const metadata = {
+  title: 'About ReviewMyCoach',
+  description: 'Learn about ReviewMyCoach and founder Henry Kang — the vision behind "Rate My Professors for coaches" to help athletes find the right coaching fit.',
+  alternates: { canonical: '/about' },
+};
+
 

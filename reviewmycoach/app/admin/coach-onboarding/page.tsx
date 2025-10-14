@@ -987,3 +987,10 @@ export default function CoachOnboarding() {
     </div>
   );
 } 
+
+export const metadata = {
+  title: 'Admin • Coach Onboarding | ReviewMyCoach',
+  description: 'Create and manage coach profiles as an administrator.',
+  robots: { index: false, follow: false },
+  alternates: { canonical: '/admin/coach-onboarding' },
+};

@@ -327,3 +327,10 @@ export default function Dashboard() {
     </>
   );
 } 
+
+export const metadata = {
+  title: 'Dashboard | ReviewMyCoach',
+  description: 'Manage your profile, reviews, and activity on ReviewMyCoach.',
+  robots: { index: false, follow: false },
+  alternates: { canonical: '/dashboard' },
+};

@@ -93,4 +93,10 @@ export default function TermsPage() {
   );
 }
 
+export const metadata = {
+  title: 'Terms of Service | ReviewMyCoach',
+  description: 'ReviewMyCoach Terms of Service governing access, content, payments, and usage of the platform.',
+  alternates: { canonical: '/terms' },
+};
+
 

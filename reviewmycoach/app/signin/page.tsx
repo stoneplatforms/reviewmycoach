@@ -224,3 +224,10 @@ export default function SignIn() {
     </Suspense>
   );
 } 
+
+export const metadata = {
+  title: 'Sign In | ReviewMyCoach',
+  description: 'Access your ReviewMyCoach account to manage your profile, reviews, and bookings.',
+  robots: { index: false, follow: false },
+  alternates: { canonical: '/signin' },
+};

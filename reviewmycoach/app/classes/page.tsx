@@ -423,3 +423,9 @@ export default function ClassesPage() {
     </div>
   );
 }
+
+export const metadata = {
+  title: 'Classes | ReviewMyCoach',
+  description: 'Find virtual and in-person sports classes from expert coaches. Filter by sport, level, price, and more.',
+  alternates: { canonical: '/classes' },
+};

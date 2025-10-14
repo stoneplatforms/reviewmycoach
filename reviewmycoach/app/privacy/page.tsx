@@ -95,4 +95,10 @@ export default function PrivacyPage() {
   );
 }
 
+export const metadata = {
+  title: 'Privacy Policy | ReviewMyCoach',
+  description: 'How ReviewMyCoach collects, uses, and protects your data, including account, usage, and payment information.',
+  alternates: { canonical: '/privacy' },
+};
+
 

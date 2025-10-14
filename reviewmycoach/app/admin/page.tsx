@@ -406,3 +406,10 @@ export default function AdminDashboard() {
     </div>
   );
 } 
+
+export const metadata = {
+  title: 'Admin | ReviewMyCoach',
+  description: 'Administration panel for content moderation and coach management.',
+  robots: { index: false, follow: false },
+  alternates: { canonical: '/admin' },
+};

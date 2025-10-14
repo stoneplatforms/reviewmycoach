@@ -648,3 +648,10 @@ export default function SignUp() {
     </div>
   );
 } 
+
+export const metadata = {
+  title: 'Create Account | ReviewMyCoach',
+  description: 'Join ReviewMyCoach to find coaches, leave reviews, and manage your coaching profile.',
+  robots: { index: false, follow: false },
+  alternates: { canonical: '/signup' },
+};

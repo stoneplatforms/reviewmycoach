@@ -995,3 +995,10 @@ export default function Onboarding() {
     </div>
   );
 } 
+
+export const metadata = {
+  title: 'Onboarding | ReviewMyCoach',
+  description: 'Set up your account to start finding or managing coaches on ReviewMyCoach.',
+  robots: { index: false, follow: false },
+  alternates: { canonical: '/onboarding' },
+};

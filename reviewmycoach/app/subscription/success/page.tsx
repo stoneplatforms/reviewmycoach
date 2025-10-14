@@ -233,3 +233,10 @@ export default function SubscriptionSuccessPage() {
     </Suspense>
   );
 } 
+
+export const metadata = {
+  title: 'Subscription Success | ReviewMyCoach',
+  description: 'Your Coach Pro subscription is active. Explore Pro features and manage your account.',
+  robots: { index: false, follow: false },
+  alternates: { canonical: '/subscription/success' },
+};

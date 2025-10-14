@@ -582,3 +582,9 @@ export default function CoachesMarketplace() {
     </div>
   );
 } 
+
+export const metadata = {
+  title: 'Find Coaches | ReviewMyCoach',
+  description: 'Browse verified coaches, jobs, services, and courses across sports. Compare ratings, pricing, and availability.',
+  alternates: { canonical: '/coaches' },
+};
