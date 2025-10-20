@@ -1,0 +1,541 @@
+COACH ENTRIES FOUND - 2025-10-04 18:12:05
+============================================================
+
+Total coaches found: 79
+
+PARSED ENTRIES:
+----------------------------------------
+1. Andy Rang
+   Email: ranga@trine.edu
+   Username: ranga
+   Phone: 260.665.4143
+   Original line: Andy Rang Assistant A.D./Head Women's Basketball Coach 260.665.4143 ranga@trine.edu
+
+2. Kacie Allison
+   Email: allisonk@trine.edu
+   Username: allisonk
+   Original line: Kacie Allison Strength and Condition Coach allisonk@trine.edu
+
+3. Q'Darr Robinson
+   Email: robinsonq@trine.edu
+   Username: robinsonq
+   Original line: Q'Darr Robinson Strength and Condition Coach robinsonq@trine.edu
+
+4. Mikayla Sutherland
+   Email: sutherlandm@trine.edu
+   Username: sutherlandm
+   Phone: 260.665.4418
+   Original line: Mikayla Sutherland Head Coach 260.665.4418 sutherlandm@trine.edu
+
+5. Brett Ratcliffe
+   Email: ratcliffeb@trine.edu
+   Username: ratcliffeb
+   Phone: 260.665.4735
+   Original line: Brett Ratcliffe Head Coach 260.665.4735 ratcliffeb@trine.edu
+
+6. Chris Rhodes
+   Email: rhodesc@trine.edu
+   Username: rhodesc
+   Phone: 260.665.4838
+   Original line: Chris Rhodes Assistant Coach - Offense, Recruiting, Weights Coordinator 260.665.4838 rhodesc@trine.edu
+
+7. Christina Richardville
+   Email: richardvillec@trine.edu
+   Username: richardvillec
+   Phone: 269.665.4589
+   Original line: Christina Richardville Head Coach 269.665.4589 richardvillec@trine.edu
+
+8. Troy Abbs
+   Email: abbst@trine.edu
+   Username: abbst
+   Phone: 260.665.4649
+   Original line: Troy Abbs Head Coach 260.665.4649 abbst@trine.edu
+
+9. Wayne Racine
+   Email: racinew@trine.edu
+   Username: racinew
+   Phone: 260.665.4651
+   Original line: Wayne Racine Assistant Coach - Linebackers/Co-Special Teams Coordinator/Equipment 260.665.4651 racinew@trine.edu
+
+10. Doc Gamble
+   Email: gamblec@trine.edu
+   Username: gamblec
+   Phone: 260.665.4652
+   Original line: Doc Gamble Assistant Coach - Running Backs/Co-Special Teams Cooridnator/Academic 260.665.4652 gamblec@trine.edu
+
+11. Justin Engle
+   Email: englej1@trine.edu
+   Username: englej1
+   Original line: Justin Engle Assistant Coach - Receivers/JV Head Coach/Assistant Special Teams englej1@trine.edu
+
+12. Toney Bergman
+   Email: bergmant@trine.edu
+   Username: bergmant
+   Original line: Toney Bergman Assistant Coach - Corners bergmant@trine.edu
+
+13. Joe Oiler
+   Email: oilerj@trine.edu
+   Username: oilerj
+   Original line: Joe Oiler Assistant Coach - Outside Linebackers/Nickels oilerj@trine.edu
+
+14. Clint Davis
+   Email: davisc1@trine.edu
+   Username: davisc1
+   Original line: Clint Davis Assistant Coach - Tight Ends davisc1@trine.edu
+
+15. Casey Rowe
+   Email: williamsj@trine.edu
+   Username: williamsj
+   Original line: Casey Rowe Assistant Coach - Defensive Line/JV Defensive Coordinator williamsj@trine.edu
+
+16. Neal Simmons
+   Email: simmonsn@trine.edu
+   Username: simmonsn
+   Original line: Neal Simmons Assistant Coach - Sideline Management/Recruiting simmonsn@trine.edu
+
+17. Jon VanderWal
+   Email: vanderwalj@trine.edu
+   Username: vanderwalj
+   Phone: 260.665.4843
+   Original line: Jon VanderWal Head Coach 260.665.4843 vanderwalj@trine.edu
+
+18. Isaac Anderson
+   Email: andersoni@trine.edu
+   Username: andersoni
+   Original line: Isaac Anderson Assistant Coach andersoni@trine.edu
+
+19. John Wysong
+   Email: wysongj@trine.edu
+   Username: wysongj
+   Original line: John Wysong Assistant Coach wysongj@trine.edu
+
+20. Alex Trevino
+   Email: trevinod@trine.edu
+   Username: trevinod
+   Original line: Alex Trevino Assistant Coach trevinod@trine.edu
+
+21. Hope Gramly
+   Email: gramlyh@trine.edu
+   Username: gramlyh
+   Phone: 260.665.4363
+   Original line: Hope Gramly Head Bowling Coach 260.665.4363 gramlyh@trine.edu
+
+22. Zach Raber
+   Email: raberz@trine.edu
+   Username: raberz
+   Phone: 260.665.4126
+   Original line: Zach Raber Head Coach (Cross Country) / Associate Head Coach (Track & Field) - Long 260.665.4126 raberz@trine.edu
+
+23. Simon Shawk
+   Email: shawks@trine.edu
+   Username: shawks
+   Phone: 260.665.4888
+   Original line: Simon Shawk Assistant Coach 260.665.4888 shawks@trine.edu
+
+24. Noah Acker
+   Email: nmacker16@trine.edu
+   Username: nmacker16
+   Original line: Noah Acker Volunteer Assistant Coach nmacker16@trine.edu
+
+25. Mitch Lowney
+   Email: lowneym@trine.edu
+   Username: lowneym
+   Phone: 260.665.4742
+   Original line: Mitch Lowney Head Coach 260.665.4742 lowneym@trine.edu
+
+26. Alex Todd
+   Email: todda@trine.edu
+   Username: todda
+   Phone: 260.665.4259
+   Original line: Alex Todd Head Men's Ice Hockey Coach 260.665.4259 todda@trine.edu
+
+27. Lukas Samuelsson
+   Email: samuelssonl@trine.edu
+   Username: samuelssonl
+   Phone: 260.665.4470
+   Original line: Lukas Samuelsson Assistant Coach 260.665.4470 samuelssonl@trine.edu
+
+28. Brennon Wachter
+   Email: wachterb@trine.edu
+   Username: wachterb
+   Phone: 260.665.4470
+   Original line: Brennon Wachter Head Coach 260.665.4470 wachterb@trine.edu
+
+29. Cade Murnan-Mechor
+   Email: murnanc@trine.edu
+   Username: murnanc
+   Phone: 260.665.4286
+   Original line: Cade Murnan-Mechor Head Coach 260.665.4286 murnanc@trine.edu
+
+30. Ryan Kuhn
+   Email: kuhnr@trine.edu
+   Username: kuhnr
+   Phone: 260.665.4462
+   Original line: Ryan Kuhn Head Coach 260.665.4462 kuhnr@trine.edu
+
+31. Sam Puzevic
+   Email: puzevics@trine.edu
+   Username: puzevics
+   Original line: Sam Puzevic Assistant Coach puzevics@trine.edu
+
+32. Vinnie Lang
+   Email: langv@trine.edu
+   Username: langv
+   Phone: 260.665.4462
+   Original line: Vinnie Lang Assistant Coach 260.665.4462 langv@trine.edu
+
+33. Danny Breda
+   Email: bredad@trine.edu
+   Username: bredad
+   Phone: 260.665.4570
+   Original line: Danny Breda Head Coach 260.665.4570 bredad@trine.edu
+
+34. Tim McClements
+   Email: mcclementst@trine.edu
+   Username: mcclementst
+   Phone: 260.665.4294
+   Original line: Tim McClements Head Coach 260.665.4294 mcclementst@trine.edu
+
+35. Adrian Renteria
+   Email: renteriaa@trine.edu
+   Username: renteriaa
+   Phone: 260.665.4294
+   Original line: Adrian Renteria Assistant Coach 260.665.4294 renteriaa@trine.edu
+
+36. Erin Kolar
+   Email: kolare@trine.edu
+   Username: kolare
+   Phone: 260.665.4640
+   Original line: Erin Kolar Head Coach 260.665.4640 kolare@trine.edu
+
+37. Eric Schilthuis
+   Email: schilthuise@trine.edu
+   Username: schilthuise
+   Phone: 260.665.4662
+   Original line: Eric Schilthuis Assistant Coach 260.665.4662 schilthuise@trine.edu
+
+38. Marek Kolar
+   Email: kolarm@trine.edu
+   Username: kolarm
+   Phone: 260.665.4180
+   Original line: Marek Kolar Assistant Coach 260.665.4180 kolarm@trine.edu
+
+39. Ben Markison
+   Email: markisonb@trine.edu
+   Username: markisonb
+   Phone: 260.665.4992
+   Original line: Ben Markison Head Coach 260.665.4992 markisonb@trine.edu
+
+40. Zach Raber
+   Email: raberz@trine.edu
+   Username: raberz
+   Phone: 260.665.4126
+   Original line: Zach Raber Head Coach (Cross Country) / Associate Head Coach (Track & Field) - Long 260.665.4126 raberz@trine.edu
+
+41. Seth Ware
+   Email: sgware@trine.edu
+   Username: sgware
+   Original line: Seth Ware Assistant Coach - Sprints, Hurdles & Combined Events sgware@trine.edu
+
+42. Simon Shawk
+   Email: shawks@trine.edu
+   Username: shawks
+   Phone: 260.665.4888
+   Original line: Simon Shawk Assistant Coach 260.665.4888 shawks@trine.edu
+
+43. Brandt Marshall
+   Email: marshallb@trine.edu
+   Username: marshallb
+   Phone: 260.665.4712
+   Original line: Brandt Marshall Assistant Coach - Pole Vault 260.665.4712 marshallb@trine.edu
+
+44. Amanda Cope
+   Email: copea@trine.edu
+   Username: copea
+   Original line: Amanda Cope Assistant Coach - Throws copea@trine.edu
+
+45. William Dowdy
+   Email: dowdyw@trine.edu
+   Username: dowdyw
+   Phone: 260.665.4367
+   Original line: William Dowdy Head Coach 260.665.4367 dowdyw@trine.edu
+
+46. Disney Stallworth
+   Email: stallworthd@trine.edu
+   Username: stallworthd
+   Phone: 317.590.1649
+   Original line: Disney Stallworth Assistant Coach 317.590.1649 stallworthd@trine.edu
+
+47. Josh Stephenson
+   Email: stephensonj@trine.edu
+   Username: stephensonj
+   Phone: 260.665.4856
+   Original line: Josh Stephenson Head Coach 260.665.4856 stephensonj@trine.edu
+
+48. Donnie Danklefsen
+   Email: danklefsend@trine.edu
+   Username: danklefsend
+   Phone: 260.665.4444
+   Original line: Donnie Danklefsen Head Coach 260.665.4444 danklefsend@trine.edu
+
+49. Zech Huston
+   Email: hustonz@trine.edu
+   Username: hustonz
+   Phone: 260.665.4872
+   Original line: Zech Huston Assistant Coach 260.665.4872 hustonz@trine.edu
+
+50. Dennis Smith
+   Email: smithd@trine.edu
+   Username: smithd
+   Original line: Dennis Smith Assistant Coach smithd@trine.edu
+
+51. Rachel Franchock
+   Email: franchockr@trine.edu
+   Username: franchockr
+   Phone: 260.665.4837
+   Original line: Rachel Franchock Head Coach 260.665.4837 franchockr@trine.edu
+
+52. Zak Yousef
+   Email: zsyousef19@trine.edu
+   Username: zsyousef19
+   Phone: 260.665.4391
+   Original line: Zak Yousef Assistant Coach 260.665.4391 zsyousef19@trine.edu
+
+53. Andy Rang
+   Email: ranga@trine.edu
+   Username: ranga
+   Phone: 260.665.4143
+   Original line: Andy Rang Assistant A.D./Head Women's Basketball Coach 260.665.4143 ranga@trine.edu
+
+54. Josh Kruzel
+   Email: kruzelj@trine.edu
+   Username: kruzelj
+   Phone: 260.665.4727
+   Original line: Josh Kruzel Assistant Coach 260.665.4727 kruzelj@trine.edu
+
+55. Craig Taylor
+   Email: taylorc@trine.edu
+   Username: taylorc
+   Original line: Craig Taylor Assistant Coach taylorc@trine.edu
+
+56. Hope Gramly
+   Email: gramlyh@trine.edu
+   Username: gramlyh
+   Phone: 260.665.4363
+   Original line: Hope Gramly Head Bowling Coach 260.665.4363 gramlyh@trine.edu
+
+57. Zach Raber
+   Email: raberz@trine.edu
+   Username: raberz
+   Phone: 260.665.4126
+   Original line: Zach Raber Head Coach (Cross Country) / Associate Head Coach (Track & Field) - Long 260.665.4126 raberz@trine.edu
+
+58. Simon Shawk
+   Email: shawks@trine.edu
+   Username: shawks
+   Phone: 260.665.4888
+   Original line: Simon Shawk Assistant Coach 260.665.4888 shawks@trine.edu
+
+59. Noah Acker
+   Email: nmacker16@trine.edu
+   Username: nmacker16
+   Original line: Noah Acker Volunteer Assistant Coach nmacker16@trine.edu
+
+60. Mackenna Kelly
+   Email: kellym@trine.edu
+   Username: kellym
+   Phone: 260.665.4203
+   Original line: Mackenna Kelly Head Coach 260.665.4203 kellym@trine.edu
+
+61. Melissa Paluch
+   Email: paluchm@trine.edu
+   Username: paluchm
+   Phone: 260.665.4303
+   Original line: Melissa Paluch Head Coach 260.665.4303 paluchm@trine.edu
+
+62. Abbie Bost
+   Email: albost19@trine.edu
+   Username: albost19
+   Phone: 260.665.4386
+   Original line: Abbie Bost Assistant Coach 260.665.4386 albost19@trine.edu
+
+63. Kevin Cooke
+   Email: cookek@trine.edu
+   Username: cookek
+   Phone: 260.665.4463
+   Original line: Kevin Cooke Head Women's Lacrosse Coach 260.665.4463 cookek@trine.edu
+
+64. Adam Lang
+   Email: langa@trine.edu
+   Username: langa
+   Original line: Adam Lang Assistant Coach and Director of Video Analysis langa@trine.edu
+
+65. Aidan Lang
+   Email: langa1@trine.edu
+   Username: langa1
+   Original line: Aidan Lang Interim Head Coach langa1@trine.edu
+
+66. Adam Lang
+   Email: langa@trine.edu
+   Username: langa
+   Original line: Adam Lang Assistant Coach and Director of Video Analysis langa@trine.edu
+
+67. Erin Kolar
+   Email: kolare@trine.edu
+   Username: kolare
+   Phone: 260.665.4640
+   Original line: Erin Kolar Head Coach 260.665.4640 kolare@trine.edu
+
+68. Eric Schilthuis
+   Email: schilthuise@trine.edu
+   Username: schilthuise
+   Phone: 260.665.4662
+   Original line: Eric Schilthuis Assistant Coach 260.665.4662 schilthuise@trine.edu
+
+69. Marek Kolar
+   Email: kolarm@trine.edu
+   Username: kolarm
+   Phone: 260.665.4180
+   Original line: Marek Kolar Assistant Coach 260.665.4180 kolarm@trine.edu
+
+70. Ben Markison
+   Email: markisonb@trine.edu
+   Username: markisonb
+   Phone: 260.665.4992
+   Original line: Ben Markison Head Coach 260.665.4992 markisonb@trine.edu
+
+71. Zach Raber
+   Email: raberz@trine.edu
+   Username: raberz
+   Phone: 260.665.4126
+   Original line: Zach Raber Head Coach (Cross Country) / Associate Head Coach (Track & Field) - Long 260.665.4126 raberz@trine.edu
+
+72. Seth Ware
+   Email: sgware@trine.edu
+   Username: sgware
+   Original line: Seth Ware Assistant Coach - Sprints, Hurdles & Combined Events sgware@trine.edu
+
+73. Simon Shawk
+   Email: shawks@trine.edu
+   Username: shawks
+   Phone: 260.665.4888
+   Original line: Simon Shawk Assistant Coach 260.665.4888 shawks@trine.edu
+
+74. Brandt Marshall
+   Email: marshallb@trine.edu
+   Username: marshallb
+   Phone: 260.665.4712
+   Original line: Brandt Marshall Assistant Coach - Pole Vault 260.665.4712 marshallb@trine.edu
+
+75. Amanda Cope
+   Email: copea@trine.edu
+   Username: copea
+   Original line: Amanda Cope Assistant Coach - Throws copea@trine.edu
+
+76. Stacy Dibley
+   Email: smdibley16@trine.edu
+   Username: smdibley16
+   Phone: 260.665.4860
+   Original line: Stacy Dibley Head Coach 260.665.4860 smdibley16@trine.edu
+
+77. Jamie Wozniak
+   Email: wozniakj@trine.edu
+   Username: wozniakj
+   Phone: 260.665.4145
+   Original line: Jamie Wozniak Head Coach 260.665.4145 wozniakj@trine.edu
+
+78. Disney Stallworth
+   Email: stallworthd@trine.edu
+   Username: stallworthd
+   Phone: 317.590.1649
+   Original line: Disney Stallworth Assistant Coach 317.590.1649 stallworthd@trine.edu
+
+79. Isaac Hawkins
+   Email: idhawkins17@trine.edu
+   Username: idhawkins17
+   Phone: 260.665.4890
+   Original line: Isaac Hawkins Head Coach 260.665.4890 idhawkins17@trine.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Andy Rang Assistant A.D./Head Women's Basketball Coach 260.665.4143 ranga@trine.edu
+• Kacie Allison Strength and Condition Coach allisonk@trine.edu
+• Q'Darr Robinson Strength and Condition Coach robinsonq@trine.edu
+• Mikayla Sutherland Head Coach 260.665.4418 sutherlandm@trine.edu
+• Brett Ratcliffe Head Coach 260.665.4735 ratcliffeb@trine.edu
+• Chris Rhodes Assistant Coach - Offense, Recruiting, Weights Coordinator 260.665.4838 rhodesc@trine.edu
+• Christina Richardville Head Coach 269.665.4589 richardvillec@trine.edu
+• Troy Abbs Head Coach 260.665.4649 abbst@trine.edu
+• Wayne Racine Assistant Coach - Linebackers/Co-Special Teams Coordinator/Equipment 260.665.4651 racinew@trine.edu
+• Doc Gamble Assistant Coach - Running Backs/Co-Special Teams Cooridnator/Academic 260.665.4652 gamblec@trine.edu
+• Justin Engle Assistant Coach - Receivers/JV Head Coach/Assistant Special Teams englej1@trine.edu
+• Toney Bergman Assistant Coach - Corners bergmant@trine.edu
+• Joe Oiler Assistant Coach - Outside Linebackers/Nickels oilerj@trine.edu
+• Clint Davis Assistant Coach - Tight Ends davisc1@trine.edu
+• Casey Rowe Assistant Coach - Defensive Line/JV Defensive Coordinator williamsj@trine.edu
+• Neal Simmons Assistant Coach - Sideline Management/Recruiting simmonsn@trine.edu
+• Jon VanderWal Head Coach 260.665.4843 vanderwalj@trine.edu
+• Isaac Anderson Assistant Coach andersoni@trine.edu
+• John Wysong Assistant Coach wysongj@trine.edu
+• Alex Trevino Assistant Coach trevinod@trine.edu
+• Hope Gramly Head Bowling Coach 260.665.4363 gramlyh@trine.edu
+• Zach Raber Head Coach (Cross Country) / Associate Head Coach (Track & Field) - Long 260.665.4126 raberz@trine.edu
+• Simon Shawk Assistant Coach 260.665.4888 shawks@trine.edu
+• Noah Acker Volunteer Assistant Coach nmacker16@trine.edu
+• Mitch Lowney Head Coach 260.665.4742 lowneym@trine.edu
+• Alex Todd Head Men's Ice Hockey Coach 260.665.4259 todda@trine.edu
+• Lukas Samuelsson Assistant Coach 260.665.4470 samuelssonl@trine.edu
+• Brennon Wachter Head Coach 260.665.4470 wachterb@trine.edu
+• Cade Murnan-Mechor Head Coach 260.665.4286 murnanc@trine.edu
+• Ryan Kuhn Head Coach 260.665.4462 kuhnr@trine.edu
+• Sam Puzevic Assistant Coach puzevics@trine.edu
+• Vinnie Lang Assistant Coach 260.665.4462 langv@trine.edu
+• Danny Breda Head Coach 260.665.4570 bredad@trine.edu
+• Tim McClements Head Coach 260.665.4294 mcclementst@trine.edu
+• Adrian Renteria Assistant Coach 260.665.4294 renteriaa@trine.edu
+• Erin Kolar Head Coach 260.665.4640 kolare@trine.edu
+• Eric Schilthuis Assistant Coach 260.665.4662 schilthuise@trine.edu
+• Marek Kolar Assistant Coach 260.665.4180 kolarm@trine.edu
+• Ben Markison Head Coach 260.665.4992 markisonb@trine.edu
+• Zach Raber Head Coach (Cross Country) / Associate Head Coach (Track & Field) - Long 260.665.4126 raberz@trine.edu
+• Seth Ware Assistant Coach - Sprints, Hurdles & Combined Events sgware@trine.edu
+• Simon Shawk Assistant Coach 260.665.4888 shawks@trine.edu
+• Brandt Marshall Assistant Coach - Pole Vault 260.665.4712 marshallb@trine.edu
+• Amanda Cope Assistant Coach - Throws copea@trine.edu
+• William Dowdy Head Coach 260.665.4367 dowdyw@trine.edu
+• Disney Stallworth Assistant Coach 317.590.1649 stallworthd@trine.edu
+• Josh Stephenson Head Coach 260.665.4856 stephensonj@trine.edu
+• Donnie Danklefsen Head Coach 260.665.4444 danklefsend@trine.edu
+• Zech Huston Assistant Coach 260.665.4872 hustonz@trine.edu
+• Dennis Smith Assistant Coach smithd@trine.edu
+• Rachel Franchock Head Coach 260.665.4837 franchockr@trine.edu
+• Zak Yousef Assistant Coach 260.665.4391 zsyousef19@trine.edu
+• Andy Rang Assistant A.D./Head Women's Basketball Coach 260.665.4143 ranga@trine.edu
+• Josh Kruzel Assistant Coach 260.665.4727 kruzelj@trine.edu
+• Craig Taylor Assistant Coach taylorc@trine.edu
+• Hope Gramly Head Bowling Coach 260.665.4363 gramlyh@trine.edu
+• Zach Raber Head Coach (Cross Country) / Associate Head Coach (Track & Field) - Long 260.665.4126 raberz@trine.edu
+• Simon Shawk Assistant Coach 260.665.4888 shawks@trine.edu
+• Noah Acker Volunteer Assistant Coach nmacker16@trine.edu
+• Mackenna Kelly Head Coach 260.665.4203 kellym@trine.edu
+• Melissa Paluch Head Coach 260.665.4303 paluchm@trine.edu
+• Abbie Bost Assistant Coach 260.665.4386 albost19@trine.edu
+• Kevin Cooke Head Women's Lacrosse Coach 260.665.4463 cookek@trine.edu
+• Adam Lang Assistant Coach and Director of Video Analysis langa@trine.edu
+• Aidan Lang Interim Head Coach langa1@trine.edu
+• Adam Lang Assistant Coach and Director of Video Analysis langa@trine.edu
+• Erin Kolar Head Coach 260.665.4640 kolare@trine.edu
+• Eric Schilthuis Assistant Coach 260.665.4662 schilthuise@trine.edu
+• Marek Kolar Assistant Coach 260.665.4180 kolarm@trine.edu
+• Ben Markison Head Coach 260.665.4992 markisonb@trine.edu
+• Zach Raber Head Coach (Cross Country) / Associate Head Coach (Track & Field) - Long 260.665.4126 raberz@trine.edu
+• Seth Ware Assistant Coach - Sprints, Hurdles & Combined Events sgware@trine.edu
+• Simon Shawk Assistant Coach 260.665.4888 shawks@trine.edu
+• Brandt Marshall Assistant Coach - Pole Vault 260.665.4712 marshallb@trine.edu
+• Amanda Cope Assistant Coach - Throws copea@trine.edu
+• Stacy Dibley Head Coach 260.665.4860 smdibley16@trine.edu
+• Jamie Wozniak Head Coach 260.665.4145 wozniakj@trine.edu
+• Disney Stallworth Assistant Coach 317.590.1649 stallworthd@trine.edu
+• Isaac Hawkins Head Coach 260.665.4890 idhawkins17@trine.edu

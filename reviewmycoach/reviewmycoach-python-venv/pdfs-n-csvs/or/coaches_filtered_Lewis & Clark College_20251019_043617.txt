@@ -1,0 +1,275 @@
+COACH ENTRIES FOUND - 2025-10-19 04:36:18
+============================================================
+
+Total coaches found: 44
+
+PARSED ENTRIES:
+----------------------------------------
+1. Angela Dendas-Pleasant
+   Email: adendas@lclark.edu
+   Username: adendas
+   Original line: Angela Dendas-Pleasant Assistant Athletic Director, Head Strength & Conditioning Coach, Senior adendas@lclark.edu 503-768-
+
+2. John Corkle
+   Email: johncorkle@lclark.edu
+   Username: johncorkle
+   Original line: John Corkle Assistant Strength & Conditioning Coach johncorkle@lclark.edu
+
+3. Matt Kosderka
+   Email: mkosderka@lclark.edu
+   Username: mkosderka
+   Original line: Matt Kosderka Head Baseball Coach mkosderka@lclark.edu 503-768-
+
+4. Jack Thomson
+   Email: jthomson@lclark.edu
+   Username: jthomson
+   Original line: Jack Thomson Assistant Coach jthomson@lclark.edu
+
+5. Shanan Rosenberg
+   Email: shanan@lclark.edu
+   Username: shanan
+   Original line: Shanan Rosenberg Head Men's Basketball Coach shanan@lclark.edu 503-768-
+
+6. Shawn Carson
+   Email: carsonshawn@lclark.edu
+   Username: carsonshawn
+   Original line: Shawn Carson Assistant Coach carsonshawn@lclark.edu 503-768-
+
+7. Ann Dorris
+   Email: anndorris@lclark.edu
+   Username: anndorris
+   Original line: Ann Dorris Head Women’s Basketball Coach anndorris@lclark.edu 503-768-
+
+8. Kaycie Dunkerley
+   Email: kdunkerley@lclark.edu
+   Username: kdunkerley
+   Original line: Kaycie Dunkerley Assistant Coach kdunkerley@lclark.edu 503-768-
+
+9. Chris Reed
+   Email: ReedJ@lclark.edu
+   Username: ReedJ
+   Original line: Chris Reed Head Men's and Women's Cross Country & Track & Field Coach ReedJ@lclark.edu 503-768-
+
+10. Sarai Seekamp
+   Email: sseekamp@lclark.edu
+   Username: sseekamp
+   Original line: Sarai Seekamp Assistant Coach sseekamp@lclark.edu
+
+11. Kyle Dreibelbis
+   Email: kdreibelbis@lclark.edu
+   Username: kdreibelbis
+   Original line: Kyle Dreibelbis Assistant Coach kdreibelbis@lclark.edu
+
+12. Brett Elliott
+   Email: brettelliott@lclark.edu
+   Username: brettelliott
+   Original line: Brett Elliott Head Football Coach brettelliott@lclark.edu 503-768-
+
+13. Mike Machado
+   Email: mmachado@lclark.edu
+   Username: mmachado
+   Original line: Mike Machado Offensive Coordinator, Wide Receivers Coach mmachado@lclark.edu 503-768-
+
+14. Eryk Schaftlein
+   Email: eschaftlein@lclark.edu
+   Username: eschaftlein
+   Original line: Eryk Schaftlein Assistant Coach - Offensive Line eschaftlein@lclark.edu
+
+15. Austin Jones
+   Email: austinjones@lclark.edu
+   Username: austinjones
+   Original line: Austin Jones Assistant Coach - Defensive Backs austinjones@lclark.edu
+
+16. Evan Powers
+   Email: epowers@lclark.edu
+   Username: epowers
+   Original line: Evan Powers Assistant Coach - Running Backs epowers@lclark.edu
+
+17. Michael Preston
+   Email: michaelpreston@lclark.edu
+   Username: michaelpreston
+   Original line: Michael Preston Assistant Coach - Tight Ends michaelpreston@lclark.edu
+
+18. Rusty Nozoe
+   Email: rnozoe@lclark.edu
+   Username: rnozoe
+   Original line: Rusty Nozoe Assistant Coach - Defensive Line rnozoe@lclark.edu
+
+19. Devon Guest
+   Email: dguest@lclark.edu
+   Username: dguest
+   Original line: Devon Guest Assistant Wide Receivers Coach dguest@lclark.edu
+
+20. Brad Breier
+   Email: bbreier@lclark.edu
+   Username: bbreier
+   Original line: Brad Breier Head Men's and Women's Golf Coach bbreier@lclark.edu 503-768-
+
+21. Lindsay Newman
+   Email: lnewman@lclark.edu
+   Username: lnewman
+   Original line: Lindsay Newman Head Women's Lacrosse Coach lnewman@lclark.edu 503-768-
+
+22. Charlotte Copp
+   Email: charlottecopp@lclark.edu
+   Username: charlottecopp
+   Original line: Charlotte Copp Head Men's and Women's Crew Coach charlottecopp@lclark.edu 503-768-
+
+23. Shawna Cyrus
+   Email: scyrus@lclark.edu
+   Username: scyrus
+   Original line: Shawna Cyrus Head Softball Coach scyrus@lclark.edu 503-768-
+
+24. Shianne Smith
+   Email: shiannesmith@lclark.edu
+   Username: shiannesmith
+   Original line: Shianne Smith Assistant Coach shiannesmith@lclark.edu
+
+25. Fraser Morrison
+   Email: fraserm@lclark.edu
+   Username: fraserm
+   Original line: Fraser Morrison Head Men's Soccer Coach fraserm@lclark.edu
+
+26. Bill Irwin
+   Email: wirwin@lclark.edu
+   Username: wirwin
+   Original line: Bill Irwin Assistant Coach wirwin@lclark.edu
+
+27. Rebecca McCullough
+   Email: rkmccullough@lclark.edu
+   Username: rkmccullough
+   Original line: Rebecca McCullough Assistant Coach rkmccullough@lclark.edu 206-683-
+
+28. Jim Tursi
+   Email: tursi@lclark.edu
+   Username: tursi
+   Original line: Jim Tursi Director of Soccer, Head Women's Soccer Coach tursi@lclark.edu 503-680-
+
+29. Bill Irwin
+   Email: wirwin@lclark.edu
+   Username: wirwin
+   Original line: Bill Irwin Assistant Coach wirwin@lclark.edu
+
+30. Rebecca McCullough
+   Email: rkmccullough@lclark.edu
+   Username: rkmccullough
+   Original line: Rebecca McCullough Assistant Coach rkmccullough@lclark.edu 206-683-
+
+31. Caitlin DeNise
+   Email: caitlindenise@lclark.edu
+   Username: caitlindenise
+   Original line: Caitlin DeNise Men's and Women's Swimming Head Coach caitlindenise@lclark.edu 503-768-
+
+32. Jimmy Chau
+   Email: chau@lclark.edu
+   Username: chau
+   Original line: Jimmy Chau Head Men's and Women's Tennis Coach/Director of Tennis chau@lclark.edu 503-768-
+
+33. Phalkun Mam
+   Email: phalkunmam@lclark.edu
+   Username: phalkunmam
+   Original line: Phalkun Mam Head Men's Tennis Assistant Coach phalkunmam@lclark.edu
+
+34. Jimmy Chau
+   Email: chau@lclark.edu
+   Username: chau
+   Original line: Jimmy Chau Head Men's and Women's Tennis Coach/Director of Tennis chau@lclark.edu 503-768-
+
+35. Amy Sweet
+   Email: amysweet@lclark.edu
+   Username: amysweet
+   Original line: Amy Sweet Head Women's Tennis Assistant Coach amysweet@lclark.edu
+
+36. Phalkun Mam
+   Email: phalkunmam@lclark.edu
+   Username: phalkunmam
+   Original line: Phalkun Mam Head Men's Tennis Assistant Coach phalkunmam@lclark.edu
+
+37. Chris Reed
+   Email: ReedJ@lclark.edu
+   Username: ReedJ
+   Original line: Chris Reed Head Men's and Women's Cross Country & Track & Field Coach ReedJ@lclark.edu 503-768-
+
+38. Sarai Seekamp
+   Email: sseekamp@lclark.edu
+   Username: sseekamp
+   Original line: Sarai Seekamp Assistant Coach sseekamp@lclark.edu
+
+39. Kyle Dreibelbis
+   Email: kdreibelbis@lclark.edu
+   Username: kdreibelbis
+   Original line: Kyle Dreibelbis Assistant Coach kdreibelbis@lclark.edu
+
+40. Jordan Latt
+   Email: jordanl@lclark.edu
+   Username: jordanl
+   Original line: Jordan Latt Assistant Coach jordanl@lclark.edu
+
+41. Adam Riddle
+   Email: ariddle@lclark.edu
+   Username: ariddle
+   Original line: Adam Riddle Assistant Coach ariddle@lclark.edu
+
+42. Joan Grant
+   Email: joangrant@lclark.edu
+   Username: joangrant
+   Original line: Joan Grant Assistant Coach joangrant@lclark.edu
+
+43. Erin Labasan
+   Email: elabasan@lclark.edu
+   Username: elabasan
+   Original line: Erin Labasan Head Volleyball Coach elabasan@lclark.edu 503-768-
+
+44. Isabel Valentine
+   Email: isabelvalentine@lclark.edu
+   Username: isabelvalentine
+   Original line: Isabel Valentine Assistant Coach isabelvalentine@lclark.edu 503-768-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Angela Dendas-Pleasant Assistant Athletic Director, Head Strength & Conditioning Coach, Senior adendas@lclark.edu 503-768-
+• John Corkle Assistant Strength & Conditioning Coach johncorkle@lclark.edu
+• Matt Kosderka Head Baseball Coach mkosderka@lclark.edu 503-768-
+• Jack Thomson Assistant Coach jthomson@lclark.edu
+• Shanan Rosenberg Head Men's Basketball Coach shanan@lclark.edu 503-768-
+• Shawn Carson Assistant Coach carsonshawn@lclark.edu 503-768-
+• Ann Dorris Head Women’s Basketball Coach anndorris@lclark.edu 503-768-
+• Kaycie Dunkerley Assistant Coach kdunkerley@lclark.edu 503-768-
+• Chris Reed Head Men's and Women's Cross Country & Track & Field Coach ReedJ@lclark.edu 503-768-
+• Sarai Seekamp Assistant Coach sseekamp@lclark.edu
+• Kyle Dreibelbis Assistant Coach kdreibelbis@lclark.edu
+• Brett Elliott Head Football Coach brettelliott@lclark.edu 503-768-
+• Mike Machado Offensive Coordinator, Wide Receivers Coach mmachado@lclark.edu 503-768-
+• Eryk Schaftlein Assistant Coach - Offensive Line eschaftlein@lclark.edu
+• Austin Jones Assistant Coach - Defensive Backs austinjones@lclark.edu
+• Evan Powers Assistant Coach - Running Backs epowers@lclark.edu
+• Michael Preston Assistant Coach - Tight Ends michaelpreston@lclark.edu
+• Rusty Nozoe Assistant Coach - Defensive Line rnozoe@lclark.edu
+• Devon Guest Assistant Wide Receivers Coach dguest@lclark.edu
+• Brad Breier Head Men's and Women's Golf Coach bbreier@lclark.edu 503-768-
+• Lindsay Newman Head Women's Lacrosse Coach lnewman@lclark.edu 503-768-
+• Charlotte Copp Head Men's and Women's Crew Coach charlottecopp@lclark.edu 503-768-
+• Shawna Cyrus Head Softball Coach scyrus@lclark.edu 503-768-
+• Shianne Smith Assistant Coach shiannesmith@lclark.edu
+• Fraser Morrison Head Men's Soccer Coach fraserm@lclark.edu
+• Bill Irwin Assistant Coach wirwin@lclark.edu
+• Rebecca McCullough Assistant Coach rkmccullough@lclark.edu 206-683-
+• Jim Tursi Director of Soccer, Head Women's Soccer Coach tursi@lclark.edu 503-680-
+• Bill Irwin Assistant Coach wirwin@lclark.edu
+• Rebecca McCullough Assistant Coach rkmccullough@lclark.edu 206-683-
+• Caitlin DeNise Men's and Women's Swimming Head Coach caitlindenise@lclark.edu 503-768-
+• Jimmy Chau Head Men's and Women's Tennis Coach/Director of Tennis chau@lclark.edu 503-768-
+• Phalkun Mam Head Men's Tennis Assistant Coach phalkunmam@lclark.edu
+• Jimmy Chau Head Men's and Women's Tennis Coach/Director of Tennis chau@lclark.edu 503-768-
+• Amy Sweet Head Women's Tennis Assistant Coach amysweet@lclark.edu
+• Phalkun Mam Head Men's Tennis Assistant Coach phalkunmam@lclark.edu
+• Chris Reed Head Men's and Women's Cross Country & Track & Field Coach ReedJ@lclark.edu 503-768-
+• Sarai Seekamp Assistant Coach sseekamp@lclark.edu
+• Kyle Dreibelbis Assistant Coach kdreibelbis@lclark.edu
+• Jordan Latt Assistant Coach jordanl@lclark.edu
+• Adam Riddle Assistant Coach ariddle@lclark.edu
+• Joan Grant Assistant Coach joangrant@lclark.edu
+• Erin Labasan Head Volleyball Coach elabasan@lclark.edu 503-768-
+• Isabel Valentine Assistant Coach isabelvalentine@lclark.edu 503-768-

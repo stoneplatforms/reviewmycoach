@@ -1,0 +1,556 @@
+COACH ENTRIES FOUND - 2025-10-04 18:12:02
+============================================================
+
+Total coaches found: 81
+
+PARSED ENTRIES:
+----------------------------------------
+1. Katy Lonergan
+   Email: klonerg2@nd.edu
+   Username: klonerg2
+   Original line: Katy Lonergan Advisor to the Head Football Coach, Associate klonerg2@nd.edu
+
+2. Travis Duffle
+   Email: tduffle@nd.edu
+   Username: tduffle
+   Phone: 631-7475
+   Original line: Travis Duffle Sr. Strength & Conditioning Coach - Football 631-7475 tduffle@nd.edu
+
+3. Tony Fusco
+   Email: afusco2@nd.edu
+   Username: afusco2
+   Phone: 631-7475
+   Original line: Tony Fusco Sr. Strength & Conditioning Coach - Football 631-7475 afusco2@nd.edu
+
+4. Jarrett Moore
+   Email: jmoore36@nd.edu
+   Username: jmoore36
+   Phone: 631-7784
+   Original line: Jarrett Moore Sr. Strength & Conditioning Coach 631-7784 jmoore36@nd.edu
+
+5. Stu Roche
+   Email: sroche2@nd.edu
+   Username: sroche2
+   Phone: 631-7784
+   Original line: Stu Roche Sr. Strength & Conditioning Coach 631-7784 sroche2@nd.edu
+
+6. Kyle Skinner
+   Email: kskinne1@nd.edu
+   Username: kskinne1
+   Phone: 631-5832
+   Original line: Kyle Skinner Sr. Strength & Conditioning Coach 631-5832 kskinne1@nd.edu
+
+7. Zachary Korten
+   Email: zkorten@nd.edu
+   Username: zkorten
+   Phone: 631-2650
+   Original line: Zachary Korten Strength & Conditioning Coach 631-2650 zkorten@nd.edu
+
+8. Meghan Reuter
+   Email: mreuter@nd.edu
+   Username: mreuter
+   Original line: Meghan Reuter Strength & Conditioning Coach mreuter@nd.edu
+
+9. Valerie Smith-Hale
+   Email: vsmith4@nd.edu
+   Username: vsmith4
+   Phone: 631-5832
+   Original line: Valerie Smith-Hale Strength & Conditioning Coach 631-5832 vsmith4@nd.edu
+
+10. Kyle Getter
+   Email: kgetter@nd.edu
+   Username: kgetter
+   Phone: 631-5359
+   Original line: Kyle Getter Associate Head Coach 631-5359 kgetter@nd.edu
+
+11. Mike Farrelly
+   Email: mfarre23@nd.edu
+   Username: mfarre23
+   Phone: 631-4805
+   Original line: Mike Farrelly Assistant Coach 631-4805 mfarre23@nd.edu
+
+12. Ryan Owens
+   Email: rowens5@nd.edu
+   Username: rowens5
+   Phone: 631-5357
+   Original line: Ryan Owens Assistant Coach 631-5357 rowens5@nd.edu
+
+13. Tre Whitted
+   Email: lwhitted@nd.edu
+   Username: lwhitted
+   Phone: 631-6193
+   Original line: Tre Whitted Assistant Coach 631-6193 lwhitted@nd.edu
+
+14. Grady Eifert
+   Email: geifert2@nd.edu
+   Username: geifert2
+   Phone: 631-5356
+   Original line: Grady Eifert Assistant Coach 631-5356 geifert2@nd.edu
+
+15. Basketball Coach
+   Email: sarah.bailey@nd.edu
+   Username: sarah.bailey
+   Original line: Basketball Coach requests: sarah.bailey@nd.edu
+
+16. Carol Owens
+   Email: owens.16@nd.edu
+   Username: owens.16
+   Phone: 631-5428
+   Original line: Carol Owens Associate Head Coach 631-5428 owens.16@nd.edu
+
+17. Michaela Mabrey
+   Email: Michaela.E.Mabrey.1@nd.edu
+   Username: Michaela.E.Mabrey.1
+   Original line: Michaela Mabrey Assistant Coach & Recruiting Coordinator Michaela.E.Mabrey.1@nd.edu
+
+18. Charel Allen
+   Email: callen7@nd.edu
+   Username: callen7
+   Original line: Charel Allen Assistant Coach callen7@nd.edu
+
+19. Carlos Knox
+   Email: cknox2@nd.edu
+   Username: cknox2
+   Original line: Carlos Knox Assistant Coach cknox2@nd.edu
+
+20. Sarah Bailey
+   Email: sarah.bailey@nd.edu
+   Username: sarah.bailey
+   Original line: Sarah Bailey Assistant to the Head Coach sarah.bailey@nd.edu
+
+21. Delayna Myers
+   Email: ndcheer@nd.edu
+   Username: ndcheer
+   Phone: 631-9126
+   Original line: Delayna Myers Head Coach & Program Director 631-9126 ndcheer@nd.edu
+
+22. Andrew Weiss
+   Email: aweiss2@nd.edu
+   Username: aweiss2
+   Phone: 274-6929
+   Original line: Andrew Weiss Assistant Coach 274-6929 aweiss2@nd.edu
+
+23. Gavin Mack
+   Email: gmack@nd.edu
+   Username: gmack
+   Phone: 631-9126
+   Original line: Gavin Mack Assistant Coach 631-9126 gmack@nd.edu
+
+24. Liz Ettinger
+   Email: eettinge@nd.edu
+   Username: eettinge
+   Phone: (248) 520-4088
+   Original line: Liz Ettinger Assistant Coach 248-520-4088 eettinge@nd.edu
+
+25. Chris Neal
+   Email: cneal4@nd.edu
+   Username: cneal4
+   Phone: 631-8491
+   Original line: Chris Neal Head Men's Cross Country Coach and Assistant 631-8491 cneal4@nd.edu
+
+26. Emily Hosker-Thornhill
+   Email: ehoskert@nd.edu
+   Username: ehoskert
+   Phone: 631-3383
+   Original line: Emily Hosker-Thornhill Assistant Coach 631-3383 ehoskert@nd.edu
+
+27. Jared Schatz
+   Email: jschatz2@nd.edu
+   Username: jschatz2
+   Phone: 631-5418
+   Original line: Jared Schatz Assistant Coach (Men's Middle Distance) 631-5418 jschatz2@nd.edu
+
+28. Gia Kvaratskhelia
+   Email: gkvarats@nd.edu
+   Username: gkvarats
+   Phone: 631-4840
+   Original line: Gia Kvaratskhelia Head Coach 631-4840 gkvarats@nd.edu
+
+29. Cedric Loiseau
+   Email: cedric.loiseau.1@nd.edu
+   Username: cedric.loiseau.1
+   Phone: 631-4840
+   Original line: Cedric Loiseau Associate Head Coach, Epee 631-4840 cedric.loiseau.1@nd.edu
+
+30. Christian Rascioni
+   Email: crascion@nd.edu
+   Username: crascion
+   Phone: 631-4840
+   Original line: Christian Rascioni Assistant Coach, Sabre 631-4840 crascion@nd.edu
+
+31. Rolando Tucker-Leon
+   Email: rtuckerl@nd.edu
+   Username: rtuckerl
+   Original line: Rolando Tucker-Leon Assistant Coach rtuckerl@nd.edu
+
+32. Katy Lonergan
+   Email: klonerg2@nd.edu
+   Username: klonerg2
+   Original line: Katy Lonergan Advisor to the Head Football Coach, Associate klonerg2@nd.edu
+
+33. John Handrigan
+   Email: jhandrig@nd.edu
+   Username: jhandrig
+   Phone: 631-6849
+   Original line: John Handrigan Head Coach and Director of Golf 631-6849 jhandrig@nd.edu
+
+34. Zac Zedrick
+   Email: zzedrick@nd.edu
+   Username: zzedrick
+   Phone: (574) 631-6849
+   Original line: Zac Zedrick Associate Head Coach 574-631-6849 zzedrick@nd.edu
+
+35. Brad Karpick
+   Email: bkarpick@nd.edu
+   Username: bkarpick
+   Phone: (319) 212-1872
+   Original line: Brad Karpick Assistant Coach 319-212-1872 bkarpick@nd.edu
+
+36. Kara Carter
+   Email: kcarter9@nd.edu
+   Username: kcarter9
+   Original line: Kara Carter Assistant Coach and Director of Operations kcarter9@nd.edu
+
+37. Breanna Jenco
+   Email: bjenco@nd.edu
+   Username: bjenco
+   Phone: (317) 410-8689
+   Original line: Breanna Jenco Women's Golf Head Coach 317-410-8689 bjenco@nd.edu
+
+38. Brad Karpick
+   Email: bkarpick@nd.edu
+   Username: bkarpick
+   Phone: (319) 212-1872
+   Original line: Brad Karpick Assistant Coach 319-212-1872 bkarpick@nd.edu
+
+39. Kara Carter
+   Email: kcarter9@nd.edu
+   Username: kcarter9
+   Original line: Kara Carter Assistant Coach and Director of Operations kcarter9@nd.edu
+
+40. Brock Sheahan
+   Email: ndhockey@nd.edu
+   Username: ndhockey
+   Phone: 631-3630
+   Original line: Brock Sheahan Catalino Family Head Hockey Coach 631-3630 ndhockey@nd.edu
+
+41. Mike Garman
+   Email: mgarman@nd.edu
+   Username: mgarman
+   Phone: 631-3630
+   Original line: Mike Garman Associate Head Coach 631-3630 mgarman@nd.edu
+
+42. Andrew Oglevie
+   Email: aoglevie@nd.edu
+   Username: aoglevie
+   Phone: 631-3630
+   Original line: Andrew Oglevie Assistant Coach 631-3630 aoglevie@nd.edu
+
+43. Kevin Corrigan
+   Email: Kevin.M.Corrigan.1@nd.edu
+   Username: Kevin.M.Corrigan.1
+   Phone: 631-5108
+   Original line: Kevin Corrigan Baumer Family Head Men's Lacrosse Coach 631-5108 Kevin.M.Corrigan.1@nd.edu
+
+44. Ryan Wellner
+   Email: rwellner@nd.edu
+   Username: rwellner
+   Phone: 631-8554
+   Original line: Ryan Wellner Assistant Coach 631-8554 rwellner@nd.edu
+
+45. Chris Wojcik
+   Email: cwojcik2@nd.edu
+   Username: cwojcik2
+   Phone: 631-3383
+   Original line: Chris Wojcik Assistant Coach 631-3383 cwojcik2@nd.edu
+
+46. Ryder Garnsey
+   Email: rgarnsey@nd.edu
+   Username: rgarnsey
+   Phone: 631-3383
+   Original line: Ryder Garnsey Corrigan Family Men’s Lacrosse Assistant Coach 631-3383 rgarnsey@nd.edu
+
+47. Christine Halfpenny
+   Email: chalfpenny@nd.edu
+   Username: chalfpenny
+   Phone: 631-4840
+   Original line: Christine Halfpenny Women's Lacrosse Head Coach 631-4840 chalfpenny@nd.edu
+
+48. Caroline Curnal
+   Email: ccurnal@nd.edu
+   Username: ccurnal
+   Phone: 631-8352
+   Original line: Caroline Curnal Assistant Coach 631-8352 ccurnal@nd.edu
+
+49. Martin Stone
+   Email: mstone@nd.edu
+   Username: mstone
+   Phone: 631-3071
+   Original line: Martin Stone Rowing Head Coach 631-3071 mstone@nd.edu
+
+50. Teresa Logemann
+   Email: tlogeman@nd.edu
+   Username: tlogeman
+   Phone: 631-3380
+   Original line: Teresa Logemann Assistant Coach 631-3380 tlogeman@nd.edu
+
+51. Jami Montesano
+   Email: jmontesa@nd.edu
+   Username: jmontesa
+   Phone: 631-3658
+   Original line: Jami Montesano Assistant Coach 631-3658 jmontesa@nd.edu
+
+52. Dorottya (Dori)
+   Email: dbene@nd.edu
+   Username: dbene
+   Original line: Dorottya (Dori) Bene Assistant Coach dbene@nd.edu
+
+53. Marnie Stahl
+   Email: mstahl1@nd.edu
+   Username: mstahl1
+   Phone: 631-3379
+   Original line: Marnie Stahl Coach Fellow 631-3379 mstahl1@nd.edu
+
+54. Mike Graczyk
+   Email: mgraczyk@nd.edu
+   Username: mgraczyk
+   Phone: 631-8039
+   Original line: Mike Graczyk Assistant Coach 631-8039 mgraczyk@nd.edu
+
+55. Jeff Rowland
+   Email: jrowlan2@nd.edu
+   Username: jrowlan2
+   Phone: 631-3383
+   Original line: Jeff Rowland Assistant Coach 631-3383 jrowlan2@nd.edu
+
+56. Martin Rennie
+   Email: mrennie2@nd.edu
+   Username: mrennie2
+   Phone: 631-3376
+   Original line: Martin Rennie Assistant Coach 631-3376 mrennie2@nd.edu
+
+57. Gina Lewandowski
+   Email: glewando@nd.edu
+   Username: glewando
+   Phone: 631-8431
+   Original line: Gina Lewandowski Assistant Coach 631-8431 glewando@nd.edu
+
+58. Kris Ganeff
+   Email: ganeff.2@nd.edu
+   Username: ganeff.2
+   Phone: 631-9125
+   Original line: Kris Ganeff Head Softball Coach 631-9125 ganeff.2@nd.edu
+
+59. Boo De
+   Email: bgillett@nd.edu
+   Username: bgillett
+   Phone: 631-8295
+   Original line: Boo De Oliveira Assistant Coach 631-8295 bgillett@nd.edu
+
+60. Mike Perniciaro
+   Email: mpernici@nd.edu
+   Username: mpernici
+   Phone: 631-8845
+   Original line: Mike Perniciaro Assistant Coach 631-8845 mpernici@nd.edu
+
+61. Joshua Arndt
+   Email: jarndt4@nd.edu
+   Username: jarndt4
+   Original line: Joshua Arndt Head Diving Coach jarndt4@nd.edu
+
+62. Max McHugh
+   Email: mmchugh7@nd.edu
+   Username: mmchugh7
+   Original line: Max McHugh Assistant Coach mmchugh7@nd.edu
+
+63. Trevor Carroll
+   Email: tcarrol4@nd.edu
+   Username: tcarrol4
+   Original line: Trevor Carroll Associate Coach tcarrol4@nd.edu
+
+64. Joao Bevilaqua
+   Email: jbevilaq@nd.edu
+   Username: jbevilaq
+   Original line: Joao Bevilaqua de Assistant Coach jbevilaq@nd.edu
+
+65. Joshua Arndt
+   Email: jarndt4@nd.edu
+   Username: jarndt4
+   Original line: Joshua Arndt Head Diving Coach jarndt4@nd.edu
+
+66. Max McHugh
+   Email: mmchugh7@nd.edu
+   Username: mmchugh7
+   Original line: Max McHugh Assistant Coach mmchugh7@nd.edu
+
+67. Trevor Carroll
+   Email: tcarrol4@nd.edu
+   Username: tcarrol4
+   Original line: Trevor Carroll Associate Coach tcarrol4@nd.edu
+
+68. Joao Bevilaqua
+   Email: jbevilaq@nd.edu
+   Username: jbevilaq
+   Original line: Joao Bevilaqua de Assistant Coach jbevilaq@nd.edu
+
+69. Ryan Sachire
+   Email: rsachir1@nd.edu
+   Username: rsachir1
+   Phone: 631-4841
+   Original line: Ryan Sachire Callaghan Family Head Men's Tennis Coach 631-4841 rsachir1@nd.edu
+
+70. Alex Kasarov
+   Email: akasarov@nd.edu
+   Username: akasarov
+   Original line: Alex Kasarov Shields Family Assistant Men's Tennis Coach & akasarov@nd.edu
+
+71. Sam Kercheval
+   Email: skerchev@nd.edu
+   Username: skerchev
+   Phone: 631-6929
+   Original line: Sam Kercheval Assistant Men's Tennis Coach 631-6929 skerchev@nd.edu
+
+72. Alison Silverio
+   Email: asilveri@nd.edu
+   Username: asilveri
+   Phone: 631-5149
+   Original line: Alison Silverio Head Coach 631-5149 asilveri@nd.edu
+
+73. Jason Kerst
+   Email: jkerst@nd.edu
+   Username: jkerst
+   Phone: 631-6929
+   Original line: Jason Kerst Assistant Coach 631-6929 jkerst@nd.edu
+
+74. Chris Neal
+   Email: cneal4@nd.edu
+   Username: cneal4
+   Phone: 631-8491
+   Original line: Chris Neal Head Men's Cross Country Coach and Assistant 631-8491 cneal4@nd.edu
+
+75. Emily Hosker-Thornhill
+   Email: ehoskert@nd.edu
+   Username: ehoskert
+   Phone: 631-3383
+   Original line: Emily Hosker-Thornhill Assistant Coach 631-3383 ehoskert@nd.edu
+
+76. Jared Schatz
+   Email: jschatz2@nd.edu
+   Username: jschatz2
+   Phone: 631-5418
+   Original line: Jared Schatz Assistant Coach (Men's Middle Distance) 631-5418 jschatz2@nd.edu
+
+77. Rodney Zuyderwyk
+   Email: rzuyderw@nd.edu
+   Username: rzuyderw
+   Phone: 631-1694
+   Original line: Rodney Zuyderwyk Assistant Coach (Hurdles, Vertical Jumps, Multi- 631-1694 rzuyderw@nd.edu
+
+78. Cathrine Erickson
+   Email: cericks2@nd.edu
+   Username: cericks2
+   Phone: 631-3383
+   Original line: Cathrine Erickson Assistant Coach, Throwing 631-3383 cericks2@nd.edu
+
+79. Luke Grady
+   Email: lgrady2@nd.edu
+   Username: lgrady2
+   Original line: Luke Grady Coach Fellow, Sprints & Hurdles lgrady2@nd.edu
+
+80. Salima Rockwell
+   Email: srockwe3@nd.edu
+   Username: srockwe3
+   Phone: 631-5987
+   Original line: Salima Rockwell Head Coach 631-5987 srockwe3@nd.edu
+
+81. Paul Koncir
+   Email: pkoncir@nd.edu
+   Username: pkoncir
+   Phone: 631-4840
+   Original line: Paul Koncir Assistant Coach/Technical Coordinator 631-4840 pkoncir@nd.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Katy Lonergan Advisor to the Head Football Coach, Associate klonerg2@nd.edu
+• Travis Duffle Sr. Strength & Conditioning Coach - Football 631-7475 tduffle@nd.edu
+• Tony Fusco Sr. Strength & Conditioning Coach - Football 631-7475 afusco2@nd.edu
+• Jarrett Moore Sr. Strength & Conditioning Coach 631-7784 jmoore36@nd.edu
+• Stu Roche Sr. Strength & Conditioning Coach 631-7784 sroche2@nd.edu
+• Kyle Skinner Sr. Strength & Conditioning Coach 631-5832 kskinne1@nd.edu
+• Zachary Korten Strength & Conditioning Coach 631-2650 zkorten@nd.edu
+• Meghan Reuter Strength & Conditioning Coach mreuter@nd.edu
+• Valerie Smith-Hale Strength & Conditioning Coach 631-5832 vsmith4@nd.edu
+• Kyle Getter Associate Head Coach 631-5359 kgetter@nd.edu
+• Mike Farrelly Assistant Coach 631-4805 mfarre23@nd.edu
+• Ryan Owens Assistant Coach 631-5357 rowens5@nd.edu
+• Tre Whitted Assistant Coach 631-6193 lwhitted@nd.edu
+• Grady Eifert Assistant Coach 631-5356 geifert2@nd.edu
+• Basketball Coach requests: sarah.bailey@nd.edu
+• Carol Owens Associate Head Coach 631-5428 owens.16@nd.edu
+• Michaela Mabrey Assistant Coach & Recruiting Coordinator Michaela.E.Mabrey.1@nd.edu
+• Charel Allen Assistant Coach callen7@nd.edu
+• Carlos Knox Assistant Coach cknox2@nd.edu
+• Sarah Bailey Assistant to the Head Coach sarah.bailey@nd.edu
+• Delayna Myers Head Coach & Program Director 631-9126 ndcheer@nd.edu
+• Andrew Weiss Assistant Coach 274-6929 aweiss2@nd.edu
+• Gavin Mack Assistant Coach 631-9126 gmack@nd.edu
+• Liz Ettinger Assistant Coach 248-520-4088 eettinge@nd.edu
+• Chris Neal Head Men's Cross Country Coach and Assistant 631-8491 cneal4@nd.edu
+• Emily Hosker-Thornhill Assistant Coach 631-3383 ehoskert@nd.edu
+• Jared Schatz Assistant Coach (Men's Middle Distance) 631-5418 jschatz2@nd.edu
+• Gia Kvaratskhelia Head Coach 631-4840 gkvarats@nd.edu
+• Cedric Loiseau Associate Head Coach, Epee 631-4840 cedric.loiseau.1@nd.edu
+• Christian Rascioni Assistant Coach, Sabre 631-4840 crascion@nd.edu
+• Rolando Tucker-Leon Assistant Coach rtuckerl@nd.edu
+• Katy Lonergan Advisor to the Head Football Coach, Associate klonerg2@nd.edu
+• John Handrigan Head Coach and Director of Golf 631-6849 jhandrig@nd.edu
+• Zac Zedrick Associate Head Coach 574-631-6849 zzedrick@nd.edu
+• Brad Karpick Assistant Coach 319-212-1872 bkarpick@nd.edu
+• Kara Carter Assistant Coach and Director of Operations kcarter9@nd.edu
+• Breanna Jenco Women's Golf Head Coach 317-410-8689 bjenco@nd.edu
+• Brad Karpick Assistant Coach 319-212-1872 bkarpick@nd.edu
+• Kara Carter Assistant Coach and Director of Operations kcarter9@nd.edu
+• Brock Sheahan Catalino Family Head Hockey Coach 631-3630 ndhockey@nd.edu
+• Mike Garman Associate Head Coach 631-3630 mgarman@nd.edu
+• Andrew Oglevie Assistant Coach 631-3630 aoglevie@nd.edu
+• Kevin Corrigan Baumer Family Head Men's Lacrosse Coach 631-5108 Kevin.M.Corrigan.1@nd.edu
+• Ryan Wellner Assistant Coach 631-8554 rwellner@nd.edu
+• Chris Wojcik Assistant Coach 631-3383 cwojcik2@nd.edu
+• Ryder Garnsey Corrigan Family Men’s Lacrosse Assistant Coach 631-3383 rgarnsey@nd.edu
+• Christine Halfpenny Women's Lacrosse Head Coach 631-4840 chalfpenny@nd.edu
+• Caroline Curnal Assistant Coach 631-8352 ccurnal@nd.edu
+• Martin Stone Rowing Head Coach 631-3071 mstone@nd.edu
+• Teresa Logemann Assistant Coach 631-3380 tlogeman@nd.edu
+• Jami Montesano Assistant Coach 631-3658 jmontesa@nd.edu
+• Dorottya (Dori) Bene Assistant Coach dbene@nd.edu
+• Marnie Stahl Coach Fellow 631-3379 mstahl1@nd.edu
+• Mike Graczyk Assistant Coach 631-8039 mgraczyk@nd.edu
+• Jeff Rowland Assistant Coach 631-3383 jrowlan2@nd.edu
+• Martin Rennie Assistant Coach 631-3376 mrennie2@nd.edu
+• Gina Lewandowski Assistant Coach 631-8431 glewando@nd.edu
+• Kris Ganeff Head Softball Coach 631-9125 ganeff.2@nd.edu
+• Boo De Oliveira Assistant Coach 631-8295 bgillett@nd.edu
+• Mike Perniciaro Assistant Coach 631-8845 mpernici@nd.edu
+• Joshua Arndt Head Diving Coach jarndt4@nd.edu
+• Max McHugh Assistant Coach mmchugh7@nd.edu
+• Trevor Carroll Associate Coach tcarrol4@nd.edu
+• Joao Bevilaqua de Assistant Coach jbevilaq@nd.edu
+• Joshua Arndt Head Diving Coach jarndt4@nd.edu
+• Max McHugh Assistant Coach mmchugh7@nd.edu
+• Trevor Carroll Associate Coach tcarrol4@nd.edu
+• Joao Bevilaqua de Assistant Coach jbevilaq@nd.edu
+• Ryan Sachire Callaghan Family Head Men's Tennis Coach 631-4841 rsachir1@nd.edu
+• Alex Kasarov Shields Family Assistant Men's Tennis Coach & akasarov@nd.edu
+• Sam Kercheval Assistant Men's Tennis Coach 631-6929 skerchev@nd.edu
+• Alison Silverio Head Coach 631-5149 asilveri@nd.edu
+• Jason Kerst Assistant Coach 631-6929 jkerst@nd.edu
+• Chris Neal Head Men's Cross Country Coach and Assistant 631-8491 cneal4@nd.edu
+• Emily Hosker-Thornhill Assistant Coach 631-3383 ehoskert@nd.edu
+• Jared Schatz Assistant Coach (Men's Middle Distance) 631-5418 jschatz2@nd.edu
+• Rodney Zuyderwyk Assistant Coach (Hurdles, Vertical Jumps, Multi- 631-1694 rzuyderw@nd.edu
+• Cathrine Erickson Assistant Coach, Throwing 631-3383 cericks2@nd.edu
+• Luke Grady Coach Fellow, Sprints & Hurdles lgrady2@nd.edu
+• Salima Rockwell Head Coach 631-5987 srockwe3@nd.edu
+• Paul Koncir Assistant Coach/Technical Coordinator 631-4840 pkoncir@nd.edu

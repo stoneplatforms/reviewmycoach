@@ -1,0 +1,323 @@
+COACH ENTRIES FOUND - 2025-10-06 18:38:18
+============================================================
+
+Total coaches found: 52
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mathew Bair
+   Email: mathew.bair@indwes.edu
+   Username: mathew.bair
+   Original line: Mathew Bair Head Coach 765- mathew.bair@indwes.edu
+
+2. Carlos Leyva
+   Email: carlos.leyva@indwes.edu
+   Username: carlos.leyva
+   Original line: Carlos Leyva Assistant Coach carlos.leyva@indwes.edu
+
+3. Logan Wagner
+   Email: logan.wagner@indwes.edu
+   Username: logan.wagner
+   Original line: Logan Wagner Assistant Coach 765- logan.wagner@indwes.edu
+
+4. Steve Friend
+   Email: steve.friend@indwes.edu
+   Username: steve.friend
+   Original line: Steve Friend Assistant Coach 765- steve.friend@indwes.edu
+
+5. Dalton Miller
+   Email: dalton.miller2@myemail.indwes.edu
+   Username: dalton.miller2
+   Original line: Dalton Miller Pitching Coach 765- dalton.miller2@myemail.indwes.edu
+
+6. Chris Gallagher
+   Email: chris.gallagher@indwes.edu
+   Username: chris.gallagher
+   Original line: Chris Gallagher Pitching Coach and Camp chris.gallagher@indwes.edu
+
+7. Greg Tonagel
+   Email: greg.tonagel@indwes.edu
+   Username: greg.tonagel
+   Original line: Greg Tonagel Head Coach 765- greg.tonagel@indwes.edu IWUHoops
+
+8. Jeff Clark
+   Email: jeff.clark@indwes.edu
+   Username: jeff.clark
+   Original line: Jeff Clark Associate Head Coach 765- jeff.clark@indwes.edu
+
+9. Caleb Muthiah
+   Email: caleb.muthiah@indwes.edu
+   Username: caleb.muthiah
+   Original line: Caleb Muthiah Assistant Coach caleb.muthiah@indwes.edu
+
+10. Ethan Whaley
+   Email: ethan.whaley@indwes.edu
+   Username: ethan.whaley
+   Original line: Ethan Whaley Head Coach 765- ethan.whaley@indwes.edu IWU_WBB
+
+11. Anne Secrest
+   Email: anne.secrest@indwes.edu
+   Username: anne.secrest
+   Original line: Anne Secrest Assistant Coach anne.secrest@indwes.edu
+
+12. Wesley Sloan
+   Email: wesley.sloan@indwes.edu
+   Username: wesley.sloan
+   Original line: Wesley Sloan Assistant Coach 765- wesley.sloan@indwes.edu
+
+13. Chris Karlin
+   Email: chris.karlin@indwes.edu
+   Username: chris.karlin
+   Original line: Chris Karlin Head Coach chris.karlin@indwes.edu
+
+14. Lindsay Reep
+   Email: lindsay.reep@indwes.edu
+   Username: lindsay.reep
+   Original line: Lindsay Reep Head Coach lindsay.reep@indwes.edu iwucheer_
+
+15. Sean Chamberlain
+   Email: sean.chamberlain@indwes.edu
+   Username: sean.chamberlain
+   Original line: Sean Chamberlain Assistant Coach sean.chamberlain@indwes.edu
+
+16. Brody Beiler
+   Email: brody.beiler@indwes.edu
+   Username: brody.beiler
+   Original line: Brody Beiler Head Coach brody.beiler@indwes.edu
+
+17. Wes Kundo
+   Email: wes.kundo@indwes.edu
+   Username: wes.kundo
+   Original line: Wes Kundo Assistant Coach wes.kundo@indwes.edu
+
+18. Luke Pohl
+   Email: luke.pohl@indwes.edu
+   Username: luke.pohl
+   Original line: Luke Pohl Assistant Coach luke.pohl@indwes.edu
+
+19. Ryan Plummer
+   Email: ryan.plummer@indwes.edu
+   Username: ryan.plummer
+   Original line: Ryan Plummer Head Coach 765- ryan.plummer@indwes.edu
+
+20. Andrew Rode
+   Email: andrew.rode@indwes.edu
+   Username: andrew.rode
+   Original line: Andrew Rode Head Coach 765- andrew.rode@indwes.edu @Coach_Rode
+
+21. Austin Taylor
+   Email: austin.taylor@indwes.edu
+   Username: austin.taylor
+   Original line: Austin Taylor Defensive 765- austin.taylor@indwes.edu @Coach__AT
+
+22. Devin Bacchus
+   Email: devin.bacchus@myemail.indwes.edu
+   Username: devin.bacchus
+   Original line: Devin Bacchus Special Teams 765- devin.bacchus@myemail.indwes.edu @CoachBacchusIWU
+
+23. John Dutton
+   Email: john.dutton@indwes.edu
+   Username: john.dutton
+   Original line: John Dutton Tight Ends Coach 765- john.dutton@indwes.edu @CoachJDutton
+
+24. Will Keaveney
+   Email: will.keaveney@indwes.edu
+   Username: will.keaveney
+   Original line: Will Keaveney Running Backs Coach 765- will.keaveney@indwes.edu @CoachKeaveney
+
+25. Koby Orris
+   Email: koby.orris@indwes.edu
+   Username: koby.orris
+   Original line: Koby Orris Safeties Coach 765- koby.orris@indwes.edu
+
+26. Wilson Wirebaugh
+   Email: wilson.wirebaugh@myemail.indwes.edu
+   Username: wilson.wirebaugh
+   Original line: Wilson Wirebaugh Sams Coach 765- wilson.wirebaugh@myemail.indwes.edu
+
+27. CD Daniels
+   Email: cd.daniels@indwes.edu
+   Username: cd.daniels
+   Original line: CD Daniels Cornerbacks Coach 765- cd.daniels@indwes.edu
+
+28. Kyle Bloom
+   Email: kyle.bloom@indwes.edu
+   Username: kyle.bloom
+   Original line: Kyle Bloom Head Coach 765- kyle.bloom@indwes.edu IWUGOLF
+
+29. Matt Reeb
+   Email: matt.reeb@indwes.edu
+   Username: matt.reeb
+   Original line: Matt Reeb Head Coach 765- matt.reeb@indwes.edu ReebMatt
+
+30. Drew Glover
+   Email: Andrew.Glover@indwes.edu
+   Username: Andrew.Glover
+   Original line: Drew Glover Assistant Coach Andrew.Glover@indwes.edu DrewGlo40723753
+
+31. Jaxon Carpenter
+   Email: jax.carpenter@myemail.indwes.edu
+   Username: jax.carpenter
+   Original line: Jaxon Carpenter Graduate Assistant Coach jax.carpenter@myemail.indwes.edu
+
+32. Hannah Shay
+   Email: hannah.shay@indwes.edu
+   Username: hannah.shay
+   Original line: Hannah Shay Head Coach hannah.shay@indwes.edu
+
+33. Sydney Stott
+   Email: sydney.stott@myemail.indwes.edu
+   Username: sydney.stott
+   Original line: Sydney Stott Assistant Coach sydney.stott@myemail.indwes.edu
+
+34. Olivia Schmidt
+   Email: olivia.schmidt@indwes.edu
+   Username: olivia.schmidt
+   Original line: Olivia Schmidt Assistant Coach olivia.schmidt@indwes.edu
+
+35. Payton Fraley
+   Email: payton.fraley@indwes.edu
+   Username: payton.fraley
+   Original line: Payton Fraley Graduate Assistant Coach payton.fraley@indwes.edu
+
+36. Kelsey Kooistra
+   Email: kelsey.kooistra@indwes.edu
+   Username: kelsey.kooistra
+   Original line: Kelsey Kooistra Head Coach kelsey.kooistra@indwes.edu
+
+37. Kevin Juber
+   Email: kevin.juber@indwes.edu
+   Username: kevin.juber
+   Original line: Kevin Juber Assistant Coach kevin.juber@indwes.edu
+
+38. Evelyn Waymire
+   Email: iwusoftball@indwes.edu
+   Username: iwusoftball
+   Original line: Evelyn Waymire Assistant Coach iwusoftball@indwes.edu evie_waymire
+
+39. Stephen Wolcott
+   Email: stephen.wolcott@indwes.edu
+   Username: stephen.wolcott
+   Original line: Stephen Wolcott Head Coach stephen.wolcott@indwes.edu
+
+40. James Gleghorn
+   Email: james.gleghorn@indwes.edu
+   Username: james.gleghorn
+   Original line: James Gleghorn Head Coach 678- james.gleghorn@indwes.edu
+
+41. Caleb Snyder
+   Email: caleb.snyder@indwes.edu
+   Username: caleb.snyder
+   Original line: Caleb Snyder Head Coach 765- caleb.snyder@indwes.edu
+
+42. Brody Beiler
+   Email: brody.beiler@indwes.edu
+   Username: brody.beiler
+   Original line: Brody Beiler Assistant Coach - Distance brody.beiler@indwes.edu
+
+43. Lauren Snyder
+   Email: lauren.snyder@indwes.edu
+   Username: lauren.snyder
+   Original line: Lauren Snyder Assistant Coach - Operations lauren.snyder@indwes.edu
+
+44. Chris Coy
+   Email: chris.coy@indwes.edu
+   Username: chris.coy
+   Original line: Chris Coy Assistant Coach - Hurdles and chris.coy@indwes.edu
+
+45. Tim Schortgen
+   Email: Tim.Schortgen@indwes.edu
+   Username: Tim.Schortgen
+   Original line: Tim Schortgen Assistant Coach - Throws Tim.Schortgen@indwes.edu
+
+46. Dan Heinig
+   Email: dan.heinig@indwes.edu
+   Username: dan.heinig
+   Original line: Dan Heinig Assistant Coach - Throws dan.heinig@indwes.edu
+
+47. Dalen Beck
+   Email: dalen.beck@indwes.edu
+   Username: dalen.beck
+   Original line: Dalen Beck Assistant Coach - Jumps dalen.beck@indwes.edu
+
+48. Luke Currens
+   Email: luke.currens@indwes.edu
+   Username: luke.currens
+   Original line: Luke Currens Assistant Coach - Sprints luke.currens@indwes.edu
+
+49. Jason Ewer
+   Email: Jason.Ewer@indwes.edu
+   Username: Jason.Ewer
+   Original line: Jason Ewer Assistant Coach - Pole Vault Jason.Ewer@indwes.edu
+
+50. Luke Pohl
+   Email: luke.pohl@indwes.edu
+   Username: luke.pohl
+   Original line: Luke Pohl Assistant Coach - Distance luke.pohl@indwes.edu
+
+51. Jill Shigley
+   Email: jill.shigley@indwes.edu
+   Username: jill.shigley
+   Original line: Jill Shigley Assistant Coach - Distance jill.shigley@indwes.edu
+
+52. Candace Moats
+   Email: candace.moats@indwes.edu
+   Username: candace.moats
+   Original line: Candace Moats Head Coach 765- candace.moats@indwes.edu MoatsCandace
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mathew Bair Head Coach 765- mathew.bair@indwes.edu
+• Carlos Leyva Assistant Coach carlos.leyva@indwes.edu
+• Logan Wagner Assistant Coach 765- logan.wagner@indwes.edu
+• Steve Friend Assistant Coach 765- steve.friend@indwes.edu
+• Dalton Miller Pitching Coach 765- dalton.miller2@myemail.indwes.edu
+• Chris Gallagher Pitching Coach and Camp chris.gallagher@indwes.edu
+• Greg Tonagel Head Coach 765- greg.tonagel@indwes.edu IWUHoops
+• Jeff Clark Associate Head Coach 765- jeff.clark@indwes.edu
+• Caleb Muthiah Assistant Coach caleb.muthiah@indwes.edu
+• Ethan Whaley Head Coach 765- ethan.whaley@indwes.edu IWU_WBB
+• Anne Secrest Assistant Coach anne.secrest@indwes.edu
+• Wesley Sloan Assistant Coach 765- wesley.sloan@indwes.edu
+• Chris Karlin Head Coach chris.karlin@indwes.edu
+• Lindsay Reep Head Coach lindsay.reep@indwes.edu iwucheer_
+• Sean Chamberlain Assistant Coach sean.chamberlain@indwes.edu
+• Brody Beiler Head Coach brody.beiler@indwes.edu
+• Wes Kundo Assistant Coach wes.kundo@indwes.edu
+• Luke Pohl Assistant Coach luke.pohl@indwes.edu
+• Ryan Plummer Head Coach 765- ryan.plummer@indwes.edu
+• Andrew Rode Head Coach 765- andrew.rode@indwes.edu @Coach_Rode
+• Austin Taylor Defensive 765- austin.taylor@indwes.edu @Coach__AT
+• Devin Bacchus Special Teams 765- devin.bacchus@myemail.indwes.edu @CoachBacchusIWU
+• John Dutton Tight Ends Coach 765- john.dutton@indwes.edu @CoachJDutton
+• Will Keaveney Running Backs Coach 765- will.keaveney@indwes.edu @CoachKeaveney
+• Koby Orris Safeties Coach 765- koby.orris@indwes.edu
+• Wilson Wirebaugh Sams Coach 765- wilson.wirebaugh@myemail.indwes.edu
+• CD Daniels Cornerbacks Coach 765- cd.daniels@indwes.edu
+• Kyle Bloom Head Coach 765- kyle.bloom@indwes.edu IWUGOLF
+• Matt Reeb Head Coach 765- matt.reeb@indwes.edu ReebMatt
+• Drew Glover Assistant Coach Andrew.Glover@indwes.edu DrewGlo40723753
+• Jaxon Carpenter Graduate Assistant Coach jax.carpenter@myemail.indwes.edu
+• Hannah Shay Head Coach hannah.shay@indwes.edu
+• Sydney Stott Assistant Coach sydney.stott@myemail.indwes.edu
+• Olivia Schmidt Assistant Coach olivia.schmidt@indwes.edu
+• Payton Fraley Graduate Assistant Coach payton.fraley@indwes.edu
+• Kelsey Kooistra Head Coach kelsey.kooistra@indwes.edu
+• Kevin Juber Assistant Coach kevin.juber@indwes.edu
+• Evelyn Waymire Assistant Coach iwusoftball@indwes.edu evie_waymire
+• Stephen Wolcott Head Coach stephen.wolcott@indwes.edu
+• James Gleghorn Head Coach 678- james.gleghorn@indwes.edu
+• Caleb Snyder Head Coach 765- caleb.snyder@indwes.edu
+• Brody Beiler Assistant Coach - Distance brody.beiler@indwes.edu
+• Lauren Snyder Assistant Coach - Operations lauren.snyder@indwes.edu
+• Chris Coy Assistant Coach - Hurdles and chris.coy@indwes.edu
+• Tim Schortgen Assistant Coach - Throws Tim.Schortgen@indwes.edu
+• Dan Heinig Assistant Coach - Throws dan.heinig@indwes.edu
+• Dalen Beck Assistant Coach - Jumps dalen.beck@indwes.edu
+• Luke Currens Assistant Coach - Sprints luke.currens@indwes.edu
+• Jason Ewer Assistant Coach - Pole Vault Jason.Ewer@indwes.edu
+• Luke Pohl Assistant Coach - Distance luke.pohl@indwes.edu
+• Jill Shigley Assistant Coach - Distance jill.shigley@indwes.edu
+• Candace Moats Head Coach 765- candace.moats@indwes.edu MoatsCandace

@@ -1,0 +1,450 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:20
+============================================================
+
+Total coaches found: 73
+
+PARSED ENTRIES:
+----------------------------------------
+1. Landin Mitchell
+   Email: v_mitcland@gvsu.edu
+   Username: v_mitcland
+   Original line: Landin Mitchell Sports Performance Coach v_mitcland@gvsu.edu
+
+2. Joe Tegtmeier
+   Email: tegtmeij@gvsu.edu
+   Username: tegtmeij
+   Original line: Joe Tegtmeier Sports Performance Coach tegtmeij@gvsu.edu
+
+3. Hannah Klingerman
+   Email: v_klinghan@gvsu.edu
+   Username: v_klinghan
+   Original line: Hannah Klingerman Sports Performance Coach v_klinghan@gvsu.edu
+
+4. Chris Gillies
+   Email: v_gilliesc@gvsu.edu
+   Username: v_gilliesc
+   Original line: Chris Gillies Sports Performance Coach v_gilliesc@gvsu.edu
+
+5. Jordan Keur
+   Email: keurj@gvsu.edu
+   Username: keurj
+   Original line: Jordan Keur Head Coach keurj@gvsu.edu 616-331-
+
+6. Peter Romsek
+   Email: romsekpe@gvsu.edu
+   Username: romsekpe
+   Original line: Peter Romsek Assistant Coach / Recruiting romsekpe@gvsu.edu
+
+7. Connor Elsey
+   Email: elseycon@gvsu.edu
+   Username: elseycon
+   Original line: Connor Elsey Assistant Coach / Director of elseycon@gvsu.edu
+
+8. Brian Martin
+   Email: martibr1@gvsu.edu
+   Username: martibr1
+   Original line: Brian Martin Assistant Coach martibr1@gvsu.edu
+
+9. Nate Logan
+   Email: v_loganna@gvsu.edu
+   Username: v_loganna
+   Original line: Nate Logan Assistant Coach v_loganna@gvsu.edu
+
+10. Cornell Mann
+   Email: manncor@gvsu.edu
+   Username: manncor
+   Original line: Cornell Mann Head Coach manncor@gvsu.edu @8mileCorn
+
+11. DJ Mocini
+   Email: mocinid@gvsu.edu
+   Username: mocinid
+   Original line: DJ Mocini Assistant Coach mocinid@gvsu.edu 616-331-
+
+12. Sterling Johnson
+   Email: johnsst7@gvsu.edu
+   Username: johnsst7
+   Original line: Sterling Johnson Assistant Coach johnsst7@gvsu.edu (616) 331-
+
+13. Caileb Brown
+   Email: browncc1@gvsu.edu
+   Username: browncc1
+   Original line: Caileb Brown Assistant Coach browncc1@gvsu.edu
+
+14. Mike Williams
+   Email: willimi@gvsu.edu
+   Username: willimi
+   Original line: Mike Williams Head Coach willimi@gvsu.edu (616) 331- Mike_WilliamsGV
+
+15. Phil Sayers
+   Email: sayersph@gvsu.edu
+   Username: sayersph
+   Original line: Phil Sayers Associate Head Coach sayersph@gvsu.edu (616) 331- CoachSayers
+
+16. Amanda Parker
+   Email: parkera1@gvsu.edu
+   Username: parkera1
+   Original line: Amanda Parker Assistant Coach parkera1@gvsu.edu (616) 331- @a44parker5
+
+17. Jerry Baltes
+   Email: baltesj@gvsu.edu
+   Username: baltesj
+   Original line: Jerry Baltes Head Coach baltesj@gvsu.edu (616) 331- baltesjerry
+
+18. Jordan Cini
+   Email: v_cinij@gvsu.edu
+   Username: v_cinij
+   Original line: Jordan Cini Volunteer Coach - Distance v_cinij@gvsu.edu
+
+19. Silas DeKalita
+   Email: silasd@gvsu.edu
+   Username: silasd
+   Original line: Silas DeKalita Assistant Coach - Distance silasd@gvsu.edu
+
+20. Alan Peterson
+   Email: peteral1@gvsu.edu
+   Username: peteral1
+   Original line: Alan Peterson Assistant Coach - Distance peteral1@gvsu.edu (616) 331-
+
+21. Seamus Noonan
+   Email: noonseam@gvsu.edu
+   Username: noonseam
+   Original line: Seamus Noonan Assistant Coach - Distance noonseam@gvsu.edu 616-510-
+
+22. Andrew Hylen
+   Email: hylena@mail.gvsu.edu
+   Username: hylena
+   Original line: Andrew Hylen Assistant Coach - Distance hylena@mail.gvsu.edu 616-431-
+
+23. Klaudia O'Malley
+   Email: omallekl@mail.gvsu.edu
+   Username: omallekl
+   Original line: Klaudia O'Malley Assistant Coach - Distance omallekl@mail.gvsu.edu 231-667-
+
+24. Scott Wooster
+   Email: woosters@gvsu.edu
+   Username: woosters
+   Original line: Scott Wooster Head Coach woosters@gvsu.edu (616) 331- @CoachWooster
+
+25. Jim Louis
+   Email: louisjim@gvsu.edu
+   Username: louisjim
+   Original line: Jim Louis Defensive louisjim@gvsu.edu (616) 331- CoachLouisGVSU
+
+26. Nick Postma
+   Email: postman@gvsu.edu
+   Username: postman
+   Original line: Nick Postma Associate Head postman@gvsu.edu (616) 331- CoachPostmaGV
+
+27. Jacob Studdard
+   Email: studdaja@gvsu.edu
+   Username: studdaja
+   Original line: Jacob Studdard Running Backs/Special studdaja@gvsu.edu (616) 331- @CoachStuddGV
+
+28. Mac Carruth
+   Email: carrutki@gvsu.edu
+   Username: carrutki
+   Original line: Mac Carruth Defensive Line Coach carrutki@gvsu.edu (616) 331-
+
+29. Gareth Lappin
+   Email: lapping@gvsu.edu
+   Username: lapping
+   Original line: Gareth Lappin Head Coach lapping@gvsu.edu (616) 331-
+
+30. Steve Milewski
+   Email: milewsks@gvsu.edu
+   Username: milewsks
+   Original line: Steve Milewski Assistant Coach milewsks@gvsu.edu (616) 331-
+
+31. Rebecca Mailloux
+   Email: maillour@gvsu.edu
+   Username: maillour
+   Original line: Rebecca Mailloux Head Coach maillour@gvsu.edu (616) 331-
+
+32. Katie Chipman
+   Email: chipmaka@gvsu.edu
+   Username: chipmaka
+   Original line: Katie Chipman Assistant Coach chipmaka@gvsu.edu (616) 331-
+
+33. Andy Boyce
+   Email: boyceand@gvsu.edu
+   Username: boyceand
+   Original line: Andy Boyce Head Coach boyceand@gvsu.edu (616) 331-
+
+34. Steve Burciaga
+   Email: burciags@gvsu.edu
+   Username: burciags
+   Original line: Steve Burciaga Head Diving Coach burciags@gvsu.edu (616) 331-
+
+35. Colin Murphy
+   Email: murpcoli@gvsu.edu
+   Username: murpcoli
+   Original line: Colin Murphy Assistant Coach murpcoli@gvsu.edu
+
+36. Dominique Hamman
+   Email: hammad@gvsu.edu
+   Username: hammad
+   Original line: Dominique Hamman Head Coach hammad@gvsu.edu
+
+37. Hilary (Duda)
+   Email: dudah@gvsu.edu
+   Username: dudah
+   Original line: Hilary (Duda) McFadden Assistant Coach dudah@gvsu.edu
+
+38. Jackie Wolford
+   Email: wolforja@gvsu.edu
+   Username: wolforja
+   Original line: Jackie Wolford Assistant Coach wolforja@gvsu.edu
+
+39. Katelyn Longino
+   Email: longinok@gvsu.edu
+   Username: longinok
+   Original line: Katelyn Longino Head Coach longinok@gvsu.edu (616) 331-
+
+40. Jade Smith
+   Email: smitjl2@gvsu.edu
+   Username: smitjl2
+   Original line: Jade Smith Assistant Coach smitjl2@gvsu.edu (616) 331-
+
+41. TJ Ifaturoti
+   Email: ifaturad@gvsu.edu
+   Username: ifaturad
+   Original line: TJ Ifaturoti Assistant Coach ifaturad@gvsu.edu
+
+42. Dana Callihan
+   Email: callihad@gvsu.edu
+   Username: callihad
+   Original line: Dana Callihan Head Coach callihad@gvsu.edu (616) 331-
+
+43. Jen Rivera
+   Email: riverjen@gvsu.edu
+   Username: riverjen
+   Original line: Jen Rivera Associate Head Coach riverjen@gvsu.edu (616) 331-
+
+44. Aaron Daldos
+   Email: daldosaa@gvsu.edu
+   Username: daldosaa
+   Original line: Aaron Daldos Assistant Coach daldosaa@gvsu.edu
+
+45. Joanna Cirrincione
+   Email: cirrinjo@gvsu.edu
+   Username: cirrinjo
+   Original line: Joanna Cirrincione Assistant Coach cirrinjo@gvsu.edu
+
+46. Samantha Barr
+   Email: barrsam3@gvsu.edu
+   Username: barrsam3
+   Original line: Samantha Barr Head Coach barrsam3@gvsu.edu (616) 331-
+
+47. Sean Miller
+   Email: millese6@gvsu.edu
+   Username: millese6
+   Original line: Sean Miller Assistant Coach millese6@gvsu.edu
+
+48. Victor Lopes
+   Email: v_lopesvi@gvsu.edu
+   Username: v_lopesvi
+   Original line: Victor Lopes Assistant Coach v_lopesvi@gvsu.edu
+
+49. Jerry Baltes
+   Email: baltesj@gvsu.edu
+   Username: baltesj
+   Original line: Jerry Baltes Head Coach baltesj@gvsu.edu (616) 331- baltesjerry
+
+50. Lou Andreadis
+   Email: andreadl@gvsu.edu
+   Username: andreadl
+   Original line: Lou Andreadis Associate Head Coach - andreadl@gvsu.edu (616) 331-
+
+51. Steve Jones
+   Email: jonsteve@gvsu.edu
+   Username: jonsteve
+   Original line: Steve Jones Assistant Coach - Jumps jonsteve@gvsu.edu (616) 331-
+
+52. Eric Kramer
+   Email: kramerer@gvsu.edu
+   Username: kramerer
+   Original line: Eric Kramer Assistant Coach - Sprints & kramerer@gvsu.edu
+
+53. Matt Conly
+   Email: conlym@gvsu.edu
+   Username: conlym
+   Original line: Matt Conly Assistant Coach - Throws conlym@gvsu.edu
+
+54. Alan Peterson
+   Email: peteral1@gvsu.edu
+   Username: peteral1
+   Original line: Alan Peterson Assistant Coach - Distance peteral1@gvsu.edu (616) 331-
+
+55. Silas DeKalita
+   Email: silasd@gvsu.edu
+   Username: silasd
+   Original line: Silas DeKalita Assistant Coach - Distance silasd@gvsu.edu
+
+56. Jordan Cini
+   Email: v_cinij@gvsu.edu
+   Username: v_cinij
+   Original line: Jordan Cini Volunteer Coach - Distance v_cinij@gvsu.edu
+
+57. Tony Bonacci
+   Email: g_bonaccit@gvsu.edu
+   Username: g_bonaccit
+   Original line: Tony Bonacci Volunteer Coach - Team g_bonaccit@gvsu.edu
+
+58. Dave Pelletier
+   Email: v_pelletid@gvsu.edu
+   Username: v_pelletid
+   Original line: Dave Pelletier Volunteer Coach v_pelletid@gvsu.edu
+
+59. Rich Kanski
+   Email: richakan@gvsu.edu
+   Username: richakan
+   Original line: Rich Kanski Assistant Coach - Jumps richakan@gvsu.edu 616-516-
+
+60. Eli Kosiba
+   Email: kosibae@mail.gvsu.edu
+   Username: kosibae
+   Original line: Eli Kosiba Assistant Coach - Jumps kosibae@mail.gvsu.edu 219-869-
+
+61. Myles Kerner
+   Email: kernermy@mail.gvsu.edu
+   Username: kernermy
+   Phone: 616.262.1179
+   Original line: Myles Kerner Assistant Coach - Throws kernermy@mail.gvsu.edu 616.262.1179
+
+62. Seamus Noonan
+   Email: noonseam@gvsu.edu
+   Username: noonseam
+   Original line: Seamus Noonan Assistant Coach - Distance noonseam@gvsu.edu 616-510-
+
+63. Andrew Hylen
+   Email: hylena@mail.gvsu.edu
+   Username: hylena
+   Original line: Andrew Hylen Assistant Coach - Distance hylena@mail.gvsu.edu 616-431-
+
+64. Michael McNeil
+   Email: mcneimic@mail.gvsu.edu
+   Username: mcneimic
+   Original line: Michael McNeil Assistant Coach - mcneimic@mail.gvsu.edu 216-315-
+
+65. Klaudia O'Malley
+   Email: omallekl@mail.gvsu.edu
+   Username: omallekl
+   Original line: Klaudia O'Malley Assistant Coach - Distance omallekl@mail.gvsu.edu 231-667-
+
+66. Preston Nichols
+   Email: nicholpr@mail.gvsu.edu
+   Username: nicholpr
+   Original line: Preston Nichols Student Assistant Coach - nicholpr@mail.gvsu.edu 269-235-
+
+67. Jason Johnson
+   Email: johnjaso@gvsu.edu
+   Username: johnjaso
+   Original line: Jason Johnson Head Coach johnjaso@gvsu.edu (616) 331-
+
+68. Jamie Ashmore
+   Email: ashmorja@gvsu.edu
+   Username: ashmorja
+   Original line: Jamie Ashmore Assistant Coach ashmorja@gvsu.edu 616-331-
+
+69. Erin Murphy
+   Email: olearyer@gvsu.edu
+   Username: olearyer
+   Original line: Erin Murphy Assistant Coach olearyer@gvsu.edu
+
+70. Sara Enright
+   Email: enrights@gvsu.edu
+   Username: enrights
+   Original line: Sara Enright Assistant Coach enrights@gvsu.edu
+
+71. Nick Mason
+   Email: masonne@gvsu.edu
+   Username: masonne
+   Original line: Nick Mason Assistant Coach masonne@gvsu.edu (616) 331-
+
+72. Jake Short
+   Email: shortjak@gvsu.edu
+   Username: shortjak
+   Original line: Jake Short Head Coach shortjak@gvsu.edu
+
+73. Marlynne Deede
+   Email: deedem@gvsu.edu
+   Username: deedem
+   Original line: Marlynne Deede Assistant Coach deedem@gvsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Landin Mitchell Sports Performance Coach v_mitcland@gvsu.edu
+• Joe Tegtmeier Sports Performance Coach tegtmeij@gvsu.edu
+• Hannah Klingerman Sports Performance Coach v_klinghan@gvsu.edu
+• Chris Gillies Sports Performance Coach v_gilliesc@gvsu.edu
+• Jordan Keur Head Coach keurj@gvsu.edu 616-331-
+• Peter Romsek Assistant Coach / Recruiting romsekpe@gvsu.edu
+• Connor Elsey Assistant Coach / Director of elseycon@gvsu.edu
+• Brian Martin Assistant Coach martibr1@gvsu.edu
+• Nate Logan Assistant Coach v_loganna@gvsu.edu
+• Cornell Mann Head Coach manncor@gvsu.edu @8mileCorn
+• DJ Mocini Assistant Coach mocinid@gvsu.edu 616-331-
+• Sterling Johnson Assistant Coach johnsst7@gvsu.edu (616) 331-
+• Caileb Brown Assistant Coach browncc1@gvsu.edu
+• Mike Williams Head Coach willimi@gvsu.edu (616) 331- Mike_WilliamsGV
+• Phil Sayers Associate Head Coach sayersph@gvsu.edu (616) 331- CoachSayers
+• Amanda Parker Assistant Coach parkera1@gvsu.edu (616) 331- @a44parker5
+• Jerry Baltes Head Coach baltesj@gvsu.edu (616) 331- baltesjerry
+• Jordan Cini Volunteer Coach - Distance v_cinij@gvsu.edu
+• Silas DeKalita Assistant Coach - Distance silasd@gvsu.edu
+• Alan Peterson Assistant Coach - Distance peteral1@gvsu.edu (616) 331-
+• Seamus Noonan Assistant Coach - Distance noonseam@gvsu.edu 616-510-
+• Andrew Hylen Assistant Coach - Distance hylena@mail.gvsu.edu 616-431-
+• Klaudia O'Malley Assistant Coach - Distance omallekl@mail.gvsu.edu 231-667-
+• Scott Wooster Head Coach woosters@gvsu.edu (616) 331- @CoachWooster
+• Jim Louis Defensive louisjim@gvsu.edu (616) 331- CoachLouisGVSU
+• Nick Postma Associate Head postman@gvsu.edu (616) 331- CoachPostmaGV
+• Jacob Studdard Running Backs/Special studdaja@gvsu.edu (616) 331- @CoachStuddGV
+• Mac Carruth Defensive Line Coach carrutki@gvsu.edu (616) 331-
+• Gareth Lappin Head Coach lapping@gvsu.edu (616) 331-
+• Steve Milewski Assistant Coach milewsks@gvsu.edu (616) 331-
+• Rebecca Mailloux Head Coach maillour@gvsu.edu (616) 331-
+• Katie Chipman Assistant Coach chipmaka@gvsu.edu (616) 331-
+• Andy Boyce Head Coach boyceand@gvsu.edu (616) 331-
+• Steve Burciaga Head Diving Coach burciags@gvsu.edu (616) 331-
+• Colin Murphy Assistant Coach murpcoli@gvsu.edu
+• Dominique Hamman Head Coach hammad@gvsu.edu
+• Hilary (Duda) McFadden Assistant Coach dudah@gvsu.edu
+• Jackie Wolford Assistant Coach wolforja@gvsu.edu
+• Katelyn Longino Head Coach longinok@gvsu.edu (616) 331-
+• Jade Smith Assistant Coach smitjl2@gvsu.edu (616) 331-
+• TJ Ifaturoti Assistant Coach ifaturad@gvsu.edu
+• Dana Callihan Head Coach callihad@gvsu.edu (616) 331-
+• Jen Rivera Associate Head Coach riverjen@gvsu.edu (616) 331-
+• Aaron Daldos Assistant Coach daldosaa@gvsu.edu
+• Joanna Cirrincione Assistant Coach cirrinjo@gvsu.edu
+• Samantha Barr Head Coach barrsam3@gvsu.edu (616) 331-
+• Sean Miller Assistant Coach millese6@gvsu.edu
+• Victor Lopes Assistant Coach v_lopesvi@gvsu.edu
+• Jerry Baltes Head Coach baltesj@gvsu.edu (616) 331- baltesjerry
+• Lou Andreadis Associate Head Coach - andreadl@gvsu.edu (616) 331-
+• Steve Jones Assistant Coach - Jumps jonsteve@gvsu.edu (616) 331-
+• Eric Kramer Assistant Coach - Sprints & kramerer@gvsu.edu
+• Matt Conly Assistant Coach - Throws conlym@gvsu.edu
+• Alan Peterson Assistant Coach - Distance peteral1@gvsu.edu (616) 331-
+• Silas DeKalita Assistant Coach - Distance silasd@gvsu.edu
+• Jordan Cini Volunteer Coach - Distance v_cinij@gvsu.edu
+• Tony Bonacci Volunteer Coach - Team g_bonaccit@gvsu.edu
+• Dave Pelletier Volunteer Coach v_pelletid@gvsu.edu
+• Rich Kanski Assistant Coach - Jumps richakan@gvsu.edu 616-516-
+• Eli Kosiba Assistant Coach - Jumps kosibae@mail.gvsu.edu 219-869-
+• Myles Kerner Assistant Coach - Throws kernermy@mail.gvsu.edu 616.262.1179
+• Seamus Noonan Assistant Coach - Distance noonseam@gvsu.edu 616-510-
+• Andrew Hylen Assistant Coach - Distance hylena@mail.gvsu.edu 616-431-
+• Michael McNeil Assistant Coach - mcneimic@mail.gvsu.edu 216-315-
+• Klaudia O'Malley Assistant Coach - Distance omallekl@mail.gvsu.edu 231-667-
+• Preston Nichols Student Assistant Coach - nicholpr@mail.gvsu.edu 269-235-
+• Jason Johnson Head Coach johnjaso@gvsu.edu (616) 331-
+• Jamie Ashmore Assistant Coach ashmorja@gvsu.edu 616-331-
+• Erin Murphy Assistant Coach olearyer@gvsu.edu
+• Sara Enright Assistant Coach enrights@gvsu.edu
+• Nick Mason Assistant Coach masonne@gvsu.edu (616) 331-
+• Jake Short Head Coach shortjak@gvsu.edu
+• Marlynne Deede Assistant Coach deedem@gvsu.edu

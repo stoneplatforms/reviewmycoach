@@ -1,0 +1,7 @@
+Low-quality parsing detected in University of Connecticut (UConn).pdf.
+Sample problematic entries (5):
+- Associate Head Strength and Conditioning Coach (Men’s Soccer, Rowing, Golf) gavin.j.roberts@uconn.edu
+- Assistant Strength and Conditioning Coach (Swimming & Diving, Softball) tyson.brown@uconn.edu
+- Head Coach jeffrey.hourigan@uconn.edu
+- Associate Head Coach joshua.macdonald@uconn.edu
+- Pitching Coach/Recruiting Coordinator christopher.podeszwa@uconn.edu

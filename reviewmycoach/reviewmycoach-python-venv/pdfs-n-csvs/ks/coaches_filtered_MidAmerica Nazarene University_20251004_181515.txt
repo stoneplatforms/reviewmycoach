@@ -1,0 +1,167 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:15
+============================================================
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nolan Hoff
+   Email: nhoff@mnu.edu
+   Username: nhoff
+   Original line: Nolan Hoff Interim Head Coach nhoff@mnu.edu 913- Cook
+
+2. Reece Helland
+   Email: rdhelland@mnu.edu
+   Username: rdhelland
+   Original line: Reece Helland Assistant Coach rdhelland@mnu.edu Cook
+
+3. Adam Hepker
+   Email: ahepker@mnu.edu
+   Username: ahepker
+   Original line: Adam Hepker Head Coach @ahepker14 ahepker@mnu.edu 913- Cook
+
+4. Trey Brown
+   Email: tmbrown2@mnu.edu
+   Username: tmbrown2
+   Original line: Trey Brown Assistant Coach tmbrown2@mnu.edu Cook
+
+5. Gabriel Jordan
+   Email: gjordan@mnu.edu
+   Username: gjordan
+   Original line: Gabriel Jordan Assistant Coach gjordan@mnu.edu Cook
+
+6. Jon Lewis
+   Email: jalewis@mnu.edu
+   Username: jalewis
+   Original line: Jon Lewis Head Coach @CoachJonLewis jalewis@mnu.edu 913- Cook
+
+7. Alexis McAfee
+   Email: ammcafee@mnu.edu
+   Username: ammcafee
+   Original line: Alexis McAfee Assistant Coach ammcafee@mnu.edu 913- Cook
+
+8. Evan Knight
+   Email: edknight@mnu.edu
+   Username: edknight
+   Original line: Evan Knight Head Coach edknight@mnu.edu 913- Lanpher
+
+9. Devan Sawyerr
+   Email: desawyerr@mnu.edu
+   Username: desawyerr
+   Original line: Devan Sawyerr Assistant Coach desawyerr@mnu.edu 916- Lanpher
+
+10. Nathan Houser
+   Email: nrhouser@mnu.edu
+   Username: nrhouser
+   Original line: Nathan Houser Assistant Coach (Throws) nrhouser@mnu.edu 913- Lanpher
+
+11. Ivan Cordova
+   Email: ijcordova@mnu.edu
+   Username: ijcordova
+   Original line: Ivan Cordova Head Coach @CoachCordovaDC ijcordova@mnu.edu Lanpher
+
+12. AJ Sambol
+   Email: ajsambol@mnu.edu
+   Username: ajsambol
+   Original line: AJ Sambol AHC/Offensive Line/Run @coach_sambolMNU ajsambol@mnu.edu 913- Lanpher
+
+13. CJ Collins
+   Email: cpcollins@mnu.edu
+   Username: cpcollins
+   Original line: CJ Collins Quarterbacks @CoachCollinsCJ cpcollins@mnu.edu Lanpher
+
+14. Scott Seymour
+   Email: sdseymour@mnu.edu
+   Username: sdseymour
+   Original line: Scott Seymour Head Coach @_Coach_Seymour sdseymour@mnu.edu 405- Lanpher
+
+15. Tristan Rabbe
+   Email: tjrabbe@mnu.edu
+   Username: tjrabbe
+   Original line: Tristan Rabbe Assistant Coach / tjrabbe@mnu.edu 507- Lanpher
+
+16. Kevin Wardlaw
+   Email: kpwardlaw@mnu.edu
+   Username: kpwardlaw
+   Original line: Kevin Wardlaw Head Coach @mnusoccer kpwardlaw@mnu.edu 913- Cook
+
+17. Atanas Karagyaurov
+   Email: apkaragyaurov@mnu.edu
+   Username: apkaragyaurov
+   Original line: Atanas Karagyaurov Associate Head Coach apkaragyaurov@mnu.edu 763- Cook
+
+18. Jose Ramos
+   Email: jhramos@mnu.edu
+   Username: jhramos
+   Original line: Jose Ramos Head Coach jhramos@mnu.edu 913- Cook
+
+19. Kayla Wyrsch
+   Email: kvwyrsch@mnu.edu
+   Username: kvwyrsch
+   Original line: Kayla Wyrsch Assistant Coach kvwyrsch@mnu.edu Cook
+
+20. Alistair Hughes
+   Email: ahughes@mnu.edu
+   Username: ahughes
+   Original line: Alistair Hughes Assistant Coach ahughes@mnu.edu 913-
+
+21. Jen Felvus
+   Email: jjfelvus@mnu.edu
+   Username: jjfelvus
+   Original line: Jen Felvus Head Coach jjfelvus@mnu.edu 913- Cook
+
+22. Elizabeth Thomas
+   Email: ethomas2@mnu.edu
+   Username: ethomas2
+   Original line: Elizabeth Thomas Assistant Coach / ethomas2@mnu.edu 913- Cook
+
+23. Olivia Pino
+   Email: olpino@mnu.edu
+   Username: olpino
+   Original line: Olivia Pino Assistant Coach/Varsity olpino@mnu.edu
+
+24. Molly Karagyaurov
+   Email: mlkaragyaurov@mnu.edu
+   Username: mlkaragyaurov
+   Original line: Molly Karagyaurov Head Coach @MNUVolleyball mlkaragyaurov@mnu.edu 913- Cook
+
+25. Jennifer Scott
+   Email: jtroth@mnu.edu
+   Username: jtroth
+   Original line: Jennifer Scott Assistant Coach / jtroth@mnu.edu 913- Cook
+
+26. Whitney Rodden
+   Email: wtrodden@mnu.edu
+   Username: wtrodden
+   Original line: Whitney Rodden Head Coach wtrodden@mnu.edu 913- Land
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Nolan Hoff Interim Head Coach nhoff@mnu.edu 913- Cook
+• Reece Helland Assistant Coach rdhelland@mnu.edu Cook
+• Adam Hepker Head Coach @ahepker14 ahepker@mnu.edu 913- Cook
+• Trey Brown Assistant Coach tmbrown2@mnu.edu Cook
+• Gabriel Jordan Assistant Coach gjordan@mnu.edu Cook
+• Jon Lewis Head Coach @CoachJonLewis jalewis@mnu.edu 913- Cook
+• Alexis McAfee Assistant Coach ammcafee@mnu.edu 913- Cook
+• Evan Knight Head Coach edknight@mnu.edu 913- Lanpher
+• Devan Sawyerr Assistant Coach desawyerr@mnu.edu 916- Lanpher
+• Nathan Houser Assistant Coach (Throws) nrhouser@mnu.edu 913- Lanpher
+• Ivan Cordova Head Coach @CoachCordovaDC ijcordova@mnu.edu Lanpher
+• AJ Sambol AHC/Offensive Line/Run @coach_sambolMNU ajsambol@mnu.edu 913- Lanpher
+• CJ Collins Quarterbacks @CoachCollinsCJ cpcollins@mnu.edu Lanpher
+• Scott Seymour Head Coach @_Coach_Seymour sdseymour@mnu.edu 405- Lanpher
+• Tristan Rabbe Assistant Coach / tjrabbe@mnu.edu 507- Lanpher
+• Kevin Wardlaw Head Coach @mnusoccer kpwardlaw@mnu.edu 913- Cook
+• Atanas Karagyaurov Associate Head Coach apkaragyaurov@mnu.edu 763- Cook
+• Jose Ramos Head Coach jhramos@mnu.edu 913- Cook
+• Kayla Wyrsch Assistant Coach kvwyrsch@mnu.edu Cook
+• Alistair Hughes Assistant Coach ahughes@mnu.edu 913-
+• Jen Felvus Head Coach jjfelvus@mnu.edu 913- Cook
+• Elizabeth Thomas Assistant Coach / ethomas2@mnu.edu 913- Cook
+• Olivia Pino Assistant Coach/Varsity olpino@mnu.edu
+• Molly Karagyaurov Head Coach @MNUVolleyball mlkaragyaurov@mnu.edu 913- Cook
+• Jennifer Scott Assistant Coach / jtroth@mnu.edu 913- Cook
+• Whitney Rodden Head Coach wtrodden@mnu.edu 913- Land

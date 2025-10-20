@@ -1,0 +1,245 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:25
+============================================================
+
+Total coaches found: 39
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mark Standiford
+   Email: marks@tabor.edu
+   Username: marks
+   Original line: Mark Standiford Head Baseball Coach marks@tabor.edu Ext. 1631
+
+2. Andy Davis
+   Email: andyd@tabor.edu
+   Username: andyd
+   Original line: Andy Davis Assistant Baseball Coach andyd@tabor.edu Ext. 1602
+
+3. Jake Jones
+   Email: jacobcjones@tabor.edu
+   Username: jacobcjones
+   Original line: Jake Jones Assistant Baseball Coach jacobcjones@tabor.edu Ext. 1633
+
+4. Reyden Rull
+   Email: reyden.rull@tabor.edu
+   Username: reyden.rull
+   Original line: Reyden Rull Graduate Assistant Baseball Coach reyden.rull@tabor.edu
+
+5. Tanner Tompkins
+   Email: tanner.tompkins@tabor.edu
+   Username: tanner.tompkins
+   Original line: Tanner Tompkins Graduate Assistant Baseball Coach tanner.tompkins@tabor.edu
+
+6. Josh Roach
+   Email: joshua.roach@tabor.edu
+   Username: joshua.roach
+   Original line: Josh Roach Head Men's Basketball Coach joshua.roach@tabor.edu
+
+7. Mike Gombos
+   Email: michael.gombos@tabor.edu
+   Username: michael.gombos
+   Original line: Mike Gombos Assistant Men's Basketball Coach michael.gombos@tabor.edu
+
+8. Shawn Reed
+   Email: shawnr@tabor.edu
+   Username: shawnr
+   Original line: Shawn Reed Head Women's Basketball Coach shawnr@tabor.edu Ext. 1309
+
+9. Kate Brickell
+   Email: katebrickell@tabor.edu
+   Username: katebrickell
+   Original line: Kate Brickell Assistant Women's Basketball Coach katebrickell@tabor.edu Ext. 1303
+
+10. Kassidy Beam
+   Email: kassidybeam@tabor.edu
+   Username: kassidybeam
+   Original line: Kassidy Beam Graduate Assistant Women's Basketball Coach kassidybeam@tabor.edu
+
+11. Krista Matlock
+   Email: kristamatlock@tabor.edu
+   Username: kristamatlock
+   Original line: Krista Matlock Head Cheerleading Coach kristamatlock@tabor.edu Ext. 1604
+
+12. Rylee Yoder
+   Email: ryleeyoder@tabor.edu
+   Username: ryleeyoder
+   Original line: Rylee Yoder Associate Head Cheerleading Coach ryleeyoder@tabor.edu Ext. 1604
+
+13. Krista Matlock
+   Email: kristamatlock@tabor.edu
+   Username: kristamatlock
+   Original line: Krista Matlock Head Dance Coach kristamatlock@tabor.edu
+
+14. Amanda Abrahams
+   Email: amanda.abrahams@tabor.edu
+   Username: amanda.abrahams
+   Original line: Amanda Abrahams Associate Head Dance Coach amanda.abrahams@tabor.edu
+
+15. Mike Gardner
+   Email: michaelg@tabor.edu
+   Username: michaelg
+   Original line: Mike Gardner Head Football Coach michaelg@tabor.edu Ext. 1637
+
+16. Armando Meza-Casillas
+   Email: armandomezacasillas@tabor.edu
+   Username: armandomezacasillas
+   Original line: Armando Meza-Casillas Linebackers Coach armandomezacasillas@tabor.edu
+
+17. Ian McCall
+   Email: ianmccall@tabor.edu
+   Username: ianmccall
+   Original line: Ian McCall Running Backs Coach ianmccall@tabor.edu
+
+18. JoJuan Thompson
+   Email: jojuanthompson@tabor.edu
+   Username: jojuanthompson
+   Original line: JoJuan Thompson Defensive Line Coach jojuanthompson@tabor.edu
+
+19. Christian Tuiasosopo
+   Email: christia.tuiasosop@tabor.edu
+   Username: christia.tuiasosop
+   Original line: Christian Tuiasosopo Defensive Backs Coach christia.tuiasosop@tabor.edu
+
+20. Deonte Hill
+   Email: deonte.hill@tabor.edu
+   Username: deonte.hill
+   Original line: Deonte Hill Wide Receivers Coach deonte.hill@tabor.edu
+
+21. Brooks Gardner
+   Email: brooksgardner@tabor.edu
+   Username: brooksgardner
+   Original line: Brooks Gardner Outside Linebackers Coach brooksgardner@tabor.edu
+
+22. Rafael Marins
+   Email: rafaelamarins@tabor.edu
+   Username: rafaelamarins
+   Original line: Rafael Marins Head Men's Soccer Coach rafaelamarins@tabor.edu Ext. 1638
+
+23. Rory Cameron
+   Email: rory.cameron@tabor.edu
+   Username: rory.cameron
+   Original line: Rory Cameron Graduate Assistant Men's Soccer Coach rory.cameron@tabor.edu
+
+24. Eric Brown
+   Email: ericbrown@tabor.edu
+   Username: ericbrown
+   Original line: Eric Brown Graduate Assistant Men's Soccer Coach ericbrown@tabor.edu
+
+25. Murilo DeOliveira
+   Email: murilo.deoliveir@tabor.edu
+   Username: murilo.deoliveir
+   Original line: Murilo DeOliveira Graduate Assistant Men's Soccer Coach murilo.deoliveir@tabor.edu
+
+26. Thomas Gaskell
+   Email: thomasogaskell@tabor.edu
+   Username: thomasogaskell
+   Original line: Thomas Gaskell Head Women's Soccer Coach thomasogaskell@tabor.edu Ext. 1605
+
+27. Paula Moreno
+   Email: paula.moreno@tabor.edu
+   Username: paula.moreno
+   Original line: Paula Moreno Graduate Assistant Women's Soccer Coach paula.moreno@tabor.edu
+
+28. Beatriz Rodrigues
+   Email: beatriz.rodrigues@tabor.edu
+   Username: beatriz.rodrigues
+   Original line: Beatriz Rodrigues Graduate Assistant Women's Soccer Coach beatriz.rodrigues@tabor.edu
+
+29. Jeremy Nelson
+   Email: jeremy.nelson@tabor.edu
+   Username: jeremy.nelson
+   Original line: Jeremy Nelson Head Men's and Women's Tennis Coach jeremy.nelson@tabor.edu
+
+30. Jeremy Nelson
+   Email: jeremy.nelson@tabor.edu
+   Username: jeremy.nelson
+   Original line: Jeremy Nelson Head Men's and Women's Tennis Coach jeremy.nelson@tabor.edu
+
+31. Jeff Brewer
+   Email: jeffreybrewer@tabor.edu
+   Username: jeffreybrewer
+   Original line: Jeff Brewer Head Softball Coach jeffreybrewer@tabor.edu Ext. 1640
+
+32. Jordyn Farren
+   Email: jordyn.farren@tabor.edu
+   Username: jordyn.farren
+   Original line: Jordyn Farren Graduate Assistant Softball Coach jordyn.farren@tabor.edu (209)912-
+
+33. Darcy Gillen
+   Email: darcy.gillen@tabor.edu
+   Username: darcy.gillen
+   Original line: Darcy Gillen Graduate Assistant Softball Coach darcy.gillen@tabor.edu
+
+34. Cheyenne Washington
+   Email: cheyenne.washingto@tabor.edu
+   Username: cheyenne.washingto
+   Original line: Cheyenne Washington Graduate Assistant Softball Coach cheyenne.washingto@tabor.edu
+
+35. Maya Bivens-Sommerville
+   Email: maya.bivens@tabor.edu
+   Username: maya.bivens
+   Original line: Maya Bivens-Sommerville Graduate Assistant Softball Coach maya.bivens@tabor.edu
+
+36. Adam Brewster
+   Email: adam.brewster@tabor.edu
+   Username: adam.brewster
+   Original line: Adam Brewster Head Volleyball Coach adam.brewster@tabor.edu Ext. 1310
+
+37. Adrianne Zabel
+   Email: adrianne.ferris@tabor.edu
+   Username: adrianne.ferris
+   Original line: Adrianne Zabel Assistant Volleyball Coach adrianne.ferris@tabor.edu
+
+38. Josh Jones
+   Email: joshuajones@tabor.edu
+   Username: joshuajones
+   Original line: Josh Jones Head Men's & Women's Golf Coach joshuajones@tabor.edu Ext. 1032
+
+39. Josh Jones
+   Email: joshuajones@tabor.edu
+   Username: joshuajones
+   Original line: Josh Jones Head Men's & Women's Golf Coach joshuajones@tabor.edu Ext. 1032
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mark Standiford Head Baseball Coach marks@tabor.edu Ext. 1631
+• Andy Davis Assistant Baseball Coach andyd@tabor.edu Ext. 1602
+• Jake Jones Assistant Baseball Coach jacobcjones@tabor.edu Ext. 1633
+• Reyden Rull Graduate Assistant Baseball Coach reyden.rull@tabor.edu
+• Tanner Tompkins Graduate Assistant Baseball Coach tanner.tompkins@tabor.edu
+• Josh Roach Head Men's Basketball Coach joshua.roach@tabor.edu
+• Mike Gombos Assistant Men's Basketball Coach michael.gombos@tabor.edu
+• Shawn Reed Head Women's Basketball Coach shawnr@tabor.edu Ext. 1309
+• Kate Brickell Assistant Women's Basketball Coach katebrickell@tabor.edu Ext. 1303
+• Kassidy Beam Graduate Assistant Women's Basketball Coach kassidybeam@tabor.edu
+• Krista Matlock Head Cheerleading Coach kristamatlock@tabor.edu Ext. 1604
+• Rylee Yoder Associate Head Cheerleading Coach ryleeyoder@tabor.edu Ext. 1604
+• Krista Matlock Head Dance Coach kristamatlock@tabor.edu
+• Amanda Abrahams Associate Head Dance Coach amanda.abrahams@tabor.edu
+• Mike Gardner Head Football Coach michaelg@tabor.edu Ext. 1637
+• Armando Meza-Casillas Linebackers Coach armandomezacasillas@tabor.edu
+• Ian McCall Running Backs Coach ianmccall@tabor.edu
+• JoJuan Thompson Defensive Line Coach jojuanthompson@tabor.edu
+• Christian Tuiasosopo Defensive Backs Coach christia.tuiasosop@tabor.edu
+• Deonte Hill Wide Receivers Coach deonte.hill@tabor.edu
+• Brooks Gardner Outside Linebackers Coach brooksgardner@tabor.edu
+• Rafael Marins Head Men's Soccer Coach rafaelamarins@tabor.edu Ext. 1638
+• Rory Cameron Graduate Assistant Men's Soccer Coach rory.cameron@tabor.edu
+• Eric Brown Graduate Assistant Men's Soccer Coach ericbrown@tabor.edu
+• Murilo DeOliveira Graduate Assistant Men's Soccer Coach murilo.deoliveir@tabor.edu
+• Thomas Gaskell Head Women's Soccer Coach thomasogaskell@tabor.edu Ext. 1605
+• Paula Moreno Graduate Assistant Women's Soccer Coach paula.moreno@tabor.edu
+• Beatriz Rodrigues Graduate Assistant Women's Soccer Coach beatriz.rodrigues@tabor.edu
+• Jeremy Nelson Head Men's and Women's Tennis Coach jeremy.nelson@tabor.edu
+• Jeremy Nelson Head Men's and Women's Tennis Coach jeremy.nelson@tabor.edu
+• Jeff Brewer Head Softball Coach jeffreybrewer@tabor.edu Ext. 1640
+• Jordyn Farren Graduate Assistant Softball Coach jordyn.farren@tabor.edu (209)912-
+• Darcy Gillen Graduate Assistant Softball Coach darcy.gillen@tabor.edu
+• Cheyenne Washington Graduate Assistant Softball Coach cheyenne.washingto@tabor.edu
+• Maya Bivens-Sommerville Graduate Assistant Softball Coach maya.bivens@tabor.edu
+• Adam Brewster Head Volleyball Coach adam.brewster@tabor.edu Ext. 1310
+• Adrianne Zabel Assistant Volleyball Coach adrianne.ferris@tabor.edu
+• Josh Jones Head Men's & Women's Golf Coach joshuajones@tabor.edu Ext. 1032
+• Josh Jones Head Men's & Women's Golf Coach joshuajones@tabor.edu Ext. 1032

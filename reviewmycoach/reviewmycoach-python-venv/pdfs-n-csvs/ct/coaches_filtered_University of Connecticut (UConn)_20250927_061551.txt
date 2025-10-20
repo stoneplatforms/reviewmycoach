@@ -1,0 +1,366 @@
+COACH ENTRIES FOUND - 2025-09-27 06:15:53
+============================================================
+
+Total coaches found: 69
+
+PARSED ENTRIES:
+----------------------------------------
+1.  
+   Email: gavin.j.roberts@uconn.edu
+   Username: gavin.j.roberts
+   Original line: Associate Head Strength and Conditioning Coach (Men’s Soccer, Rowing, Golf) gavin.j.roberts@uconn.edu
+
+2. Michael Rozzi
+   Email: michael.rozzi@uconn.edu
+   Username: michael.rozzi
+   Original line: Michael Rozzi Assistant Strength and Conditioning Coach (Women’s Cross Country/Men’s and Women’s Track & Field, Women’s Field Hockey) michael.rozzi@uconn.edu
+
+3. Michael Rozzi
+   Email: kyle.cusson@uconn.edu
+   Username: kyle.cusson
+   Original line: Michael Rozzi Assistant Strength and Conditioning Coach (Women’s Cross Country/Men’s and Women’s Track & Field, Women’s Field Hockey) kyle.cusson@uconn.edu
+
+4.  
+   Email: tyson.brown@uconn.edu
+   Username: tyson.brown
+   Original line: Assistant Strength and Conditioning Coach (Swimming & Diving, Softball) tyson.brown@uconn.edu
+
+5.  
+   Email: jeffrey.hourigan@uconn.edu
+   Username: jeffrey.hourigan
+   Original line: Head Coach jeffrey.hourigan@uconn.edu
+
+6.  
+   Email: joshua.macdonald@uconn.edu
+   Username: joshua.macdonald
+   Original line: Associate Head Coach joshua.macdonald@uconn.edu
+
+7.  
+   Email: christopher.podeszwa@uconn.edu
+   Username: christopher.podeszwa
+   Original line: Pitching Coach/Recruiting Coordinator christopher.podeszwa@uconn.edu
+
+8.  
+   Email: christopher.jones@uconn.edu
+   Username: christopher.jones
+   Phone: (860) 486-2720
+   Original line: Assistant Coach christopher.jones@uconn.edu
+
+9. Full Bio
+   Email: kimani.young@uconn.edu
+   Username: kimani.young
+   Original line: Full Bio Head Coach kimani.young@uconn.edu
+
+10.  
+   Email: lukemurray@uconn.edu
+   Username: lukemurray
+   Original line: Associate Head Coach lukemurray@uconn.edu
+
+11.  
+   Email: michael.nardi@uconn.edu
+   Username: michael.nardi
+   Original line: Assistant Coach michael.nardi@uconn.edu
+
+12.  
+   Email: tmoore@uconn.edu
+   Username: tmoore
+   Original line: Assistant Coach tmoore@uconn.edu
+
+13. Full Bio
+   Email: jamelle.elliott@uconn.edu
+   Username: jamelle.elliott
+   Original line: Full Bio Associate Head Coach jamelle.elliott@uconn.edu
+
+14.  
+   Email: morgan.valley@uconn.edu
+   Username: morgan.valley
+   Original line: Assistant Coach morgan.valley@uconn.edu
+
+15.  
+   Email: tonya.cardoza@uconn.edu
+   Username: tonya.cardoza
+   Original line: Assistant Coach tonya.cardoza@uconn.edu
+
+16.  
+   Email: sarah.darras@uconn.edu
+   Username: sarah.darras
+   Original line: Assistant Coach sarah.darras@uconn.edu
+
+17.  
+   Email: james.3.sullivan@uconn.edu
+   Username: james.3.sullivan
+   Original line: Associate Head Track & Field Coach (Sprints, Hurdles, Women's Multi-Events james.3.sullivan@uconn.edu
+
+18.  
+   Email: Connor.mahoney-ashberry@uconn.edu
+   Username: Connor.mahoney-ashberry
+   Original line: Assistant Coach Connor.mahoney-ashberry@uconn.edu
+
+19.  
+   Email: darryl.sullivan@uconn.edu
+   Username: darryl.sullivan
+   Original line: Assistant Coach darryl.sullivan@uconn.edu
+
+20.  
+   Email: hannah.jefcoat@uconn.edu
+   Username: hannah.jefcoat
+   Phone: (860) 486-0524
+   Original line: Assistant Track & Field Coach hannah.jefcoat@uconn.edu
+
+21.  
+   Email: sarah.mansfield@uconn.edu
+   Username: sarah.mansfield
+   Original line: Head Coach sarah.mansfield@uconn.edu
+
+22.  
+   Email: christyn.davidson@uconn.edu
+   Username: christyn.davidson
+   Original line: Associate Head Coach christyn.davidson@uconn.edu
+
+23.  
+   Email: nancy.stevens@uconn.edu
+   Username: nancy.stevens
+   Phone: (860) 486-2718
+   Original line: Assistant Coach nancy.stevens@uconn.edu
+
+24. Full Bio
+   Email: football@uconn.edu
+   Username: football
+   Original line: Full Bio Head Coach football@uconn.edu
+
+25.  
+   Email: football@uconn.edu
+   Username: football
+   Original line: Assistant Coach, Defensive Coordinator football@uconn.edu
+
+26.  
+   Email: football@uconn.edu
+   Username: football
+   Original line: Assistant Coach, Offensive Coordinator football@uconn.edu
+
+27.  
+   Email: football@uconn.edu
+   Username: football
+   Original line: Assistant Coach, Special Teams Coordinator / Sam's football@uconn.edu
+
+28.  
+   Email: football@uconn.edu
+   Username: football
+   Original line: Assistant Head Coach / Defensive Line football@uconn.edu
+
+29.  
+   Email: football@uconn.edu
+   Username: football
+   Original line: Assistant Coach, Passing Game Coordinator / Quarterbacks football@uconn.edu
+
+30.  
+   Email: football@uconn.edu
+   Username: football
+   Original line: Assistant Coach, Offensive Line football@uconn.edu
+
+31.  
+   Email: football@uconn.edu
+   Username: football
+   Original line: Assistant Coach, Wide Receivers football@uconn.edu
+
+32.  
+   Email: football@uconn.edu
+   Username: football
+   Original line: Assistant Coach Running Backs football@uconn.edu
+
+33.  
+   Email: football@uconn.edu
+   Username: football
+   Original line: Assistant Coach Tight Ends football@uconn.edu
+
+34.  
+   Email: football@uconn.edu
+   Username: football
+   Original line: Assistant Coach Pass Game Coordinator / Secondary football@uconn.edu
+
+35.  
+   Email: football@uconn.edu
+   Username: football
+   Original line: Assistant Coach Run Game Coordinator / Linebackers football@uconn.edu
+
+36.  
+   Email: football@uconn.edu
+   Username: football
+   Original line: Assistant Strength and Conditioning Coach football@uconn.edu
+
+37.  
+   Email: hca25001@uconn.edu
+   Username: hca25001
+   Original line: Assistant Strength and Conditioning Coach hca25001@uconn.edu
+
+38.  
+   Email: jon.wortmann@uconn.edu
+   Username: jon.wortmann
+   Phone: (860) 486-6783
+   Original line: Head Coach jon.wortmann@uconn.edu
+
+39. Full Bio
+   Email: tyler.helton@uconn.edu
+   Username: tyler.helton
+   Original line: Full Bio Head Coach tyler.helton@uconn.edu
+
+40.  
+   Email: nicholas.peruzzi@uconn.edu
+   Username: nicholas.peruzzi
+   Original line: Associate Head Coach nicholas.peruzzi@uconn.edu
+
+41.  
+   Email: jacob.paluch@uconn.edu
+   Username: jacob.paluch
+   Original line: Assistant Coach jacob.paluch@uconn.edu
+
+42.  
+   Email: casey.handrahan@uconn.edu
+   Username: casey.handrahan
+   Original line: Head Coach casey.handrahan@uconn.edu
+
+43.  
+   Email: elizabeth.wulf@uconn.edu
+   Username: elizabeth.wulf
+   Original line: Associate Head Coach elizabeth.wulf@uconn.edu
+
+44.  
+   Email: matthew.lamalfa@uconn.edu
+   Username: matthew.lamalfa
+   Phone: (860) 486-3848
+   Original line: Assistant Coach matthew.lamalfa@uconn.edu
+
+45.  
+   Email: allyson.zoppa@uconn.edu
+   Username: allyson.zoppa
+   Original line: Head Coach allyson.zoppa@uconn.edu
+
+46.  
+   Email: audrey.l.kelley@uconn.edu
+   Username: audrey.l.kelley
+   Original line: Associate Head Coach audrey.l.kelley@uconn.edu
+
+47.  
+   Email: hailey.mercuri@uconn.edu
+   Username: hailey.mercuri
+   Phone: (860) 486-0518
+   Original line: Assistant Coach | Recruiting Coordinator hailey.mercuri@uconn.edu
+
+48.  
+   Email: kaitlin.frederick@uconn.edu
+   Username: kaitlin.frederick
+   Original line: Head Coach kaitlin.frederick@uconn.edu
+
+49.  
+   Email: madison.carter@uconn.edu
+   Username: madison.carter
+   Original line: Associate Head Coach madison.carter@uconn.edu
+
+50.  
+   Email: elizabeth.robertshaw@uconn.edu
+   Username: elizabeth.robertshaw
+   Original line: Assistant Coach elizabeth.robertshaw@uconn.edu
+
+51.  
+   Email: riley.daly@uconn.edu
+   Username: riley.daly
+   Phone: (860) 486-4231
+   Original line: Assistant Coach riley.daly@uconn.edu
+
+52.  
+   Email: stefan.defregger@uconn.edu
+   Username: stefan.defregger
+   Original line: Head Coach stefan.defregger@uconn.edu
+
+53.  
+   Email: kamali.webson@uconn.edu
+   Username: kamali.webson
+   Original line: Associate Head Coach kamali.webson@uconn.edu
+
+54.  
+   Email: robert.montanaro@uconn.edu
+   Username: robert.montanaro
+   Original line: Assistant Coach robert.montanaro@uconn.edu
+
+55.  
+   Email: maria.murray@uconn.edu
+   Username: maria.murray
+   Original line: Assistant Coach maria.murray@uconn.edu
+
+56.  
+   Email: carey.obrien@uconn.edu
+   Username: carey.obrien
+   Original line: Head Coach carey.obrien@uconn.edu
+
+57.  
+   Email: carson.dambrosio@uconn.edu
+   Username: carson.dambrosio
+   Original line: Associate Head Coach carson.dambrosio@uconn.edu
+
+58.  
+   Email: christopher.jones@uconn.edu
+   Username: christopher.jones
+   Phone: (860) 486-5020
+   Original line: Assistant Coach christopher.jones@uconn.edu
+
+59.  
+   Email: mackenzie.keyes@uconn.edu
+   Username: mackenzie.keyes
+   Original line: Head Coach mackenzie.keyes@uconn.edu
+
+60.  
+   Email: giselle.juarez@uconn.edu
+   Username: giselle.juarez
+   Original line: Assistant Coach giselle.juarez@uconn.edu
+
+61.  
+   Email: sydney.2.fleming@uconn.edu
+   Username: sydney.2.fleming
+   Original line: Assistant Coach sydney.2.fleming@uconn.edu
+
+62.  
+   Email: shaliya.heard@uconn.edu
+   Username: shaliya.heard
+   Original line: Assistant Coach shaliya.heard@uconn.edu
+
+63.  
+   Email: mjp24002@uconn.edu
+   Username: mjp24002
+   Original line: Head Coach mjp24002@uconn.edu
+
+64.  
+   Email: nicole.monanian@uconn.edu
+   Username: nicole.monanian
+   Phone: (860) 486-0766
+   Original line: Head Diving Coach nicole.monanian@uconn.edu
+
+65.  
+   Email: daniela.vidal_romero@uconn.edu
+   Username: daniela.vidal_romero
+   Phone: (860) 486-2612
+   Original line: Head Coach daniela.vidal_romero@uconn.edu
+
+66.  
+   Email: peter.netisingha@uconn.edu
+   Username: peter.netisingha
+   Original line: Head Coach peter.netisingha@uconn.edu
+
+67.  
+   Email: lindsey.froehlich@uconn.edu
+   Username: lindsey.froehlich
+   Original line: Assistant Coach lindsey.froehlich@uconn.edu
+
+68.  
+   Email: sebastian.pokluda@uconn.edu
+   Username: sebastian.pokluda
+   Original line: Assistant Coach sebastian.pokluda@uconn.edu
+
+69.  
+   Email: jmd20023@uconn.edu
+   Username: jmd20023
+   Original line: Assistant Coach jmd20023@uconn.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

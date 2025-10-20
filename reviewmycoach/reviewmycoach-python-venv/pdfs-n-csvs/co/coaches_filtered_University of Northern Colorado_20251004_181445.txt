@@ -1,0 +1,209 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:46
+============================================================
+
+Total coaches found: 33
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: mike.anderson@unco.edu
+   Username: mike.anderson
+   Original line: Head Coach mike.anderson@unco.edu
+
+2. Assistant Coach
+   Email: shane.opitz@unco.edu
+   Username: shane.opitz
+   Original line: Assistant Coach shane.opitz@unco.edu
+
+3. Assistant Coach/Director
+   Email: alex.werbach@unco.edu
+   Username: alex.werbach
+   Original line: Assistant Coach/Director of Baseball Operations alex.werbach@unco.edu
+
+4. Assistant Coach/Camp
+   Email: nicholas.chiseri@unco.edu
+   Username: nicholas.chiseri
+   Original line: Assistant Coach/Camp Coordinator nicholas.chiseri@unco.edu
+
+5. Head Coach
+   Email: stephen.smiley@unco.edu
+   Username: stephen.smiley
+   Original line: Head Coach stephen.smiley@unco.edu
+
+6. Assistant Head
+   Email: dorian.green@unco.edu
+   Username: dorian.green
+   Original line: Assistant Head Coach and Director of Advanced Scouting dorian.green@unco.edu
+
+7. Assistant Head
+   Email: houston.reed@unco.edu
+   Username: houston.reed
+   Original line: Assistant Head Coach and Recruiting Coordinator houston.reed@unco.edu
+
+8. Assistant Coach
+   Email: brett.cloepfil@unco.edu
+   Username: brett.cloepfil
+   Original line: Assistant Coach and Director of Performance brett.cloepfil@unco.edu
+
+9. Assistant Coach
+   Email: colin.gause@unco.edu
+   Username: colin.gause
+   Original line: Assistant Coach and Director of Basketball Operations colin.gause@unco.edu
+
+10. Assistant Coach
+   Email: dondrale.campbell@unco.edu
+   Username: dondrale.campbell
+   Original line: Assistant Coach and Director of Player Development dondrale.campbell@unco.edu
+
+11. Head Women's
+   Email: Kristen.Mattio@unco.edu
+   Username: Kristen.Mattio
+   Original line: Head Women's Basketball Coach Kristen.Mattio@unco.edu
+
+12. Associate Head
+   Email: Camille.Perkins@unco.edu
+   Username: Camille.Perkins
+   Original line: Associate Head Women's Basketball Coach Camille.Perkins@unco.edu
+
+13. Assistant Women's
+   Email: jerad.stottlemyre@unco.edu
+   Username: jerad.stottlemyre
+   Original line: Assistant Women's Basketball Coach jerad.stottlemyre@unco.edu
+
+14. Assistant Women's
+   Email: katie.mayes@unco.edu
+   Username: katie.mayes
+   Original line: Assistant Women's Basketball Coach katie.mayes@unco.edu
+
+15. Head Football
+   Email: unc_football@unco.edu
+   Username: unc_football
+   Original line: Head Football Coach unc_football@unco.edu
+
+16. Assistant Head
+   Email: unc_football@unco.edu
+   Username: unc_football
+   Original line: Assistant Head Coach | Defensive Line, NFL Liaison unc_football@unco.edu
+
+17. Assistant Coach
+   Email: unc_football@unco.edu
+   Username: unc_football
+   Original line: Assistant Coach | Run Game Coordinator | Offensive Line unc_football@unco.edu
+
+18. Assistant Coach
+   Email: unc_football@unco.edu
+   Username: unc_football
+   Original line: Assistant Coach | Tight Ends unc_football@unco.edu
+
+19. Assistant Coach
+   Email: unc_football@unco.edu
+   Username: unc_football
+   Original line: Assistant Coach | Wide Receivers | Returners unc_football@unco.edu
+
+20. Assistant Coach
+   Email: unc_football@unco.edu
+   Username: unc_football
+   Original line: Assistant Coach | Running Backs unc_football@unco.edu
+
+21. Director of
+   Email: unc_football@unco.edu
+   Username: unc_football
+   Original line: Director of Player Personnel | Specialist Coach unc_football@unco.edu
+
+22. Head Coach
+   Email: dede.pendleton@unco.edu
+   Username: dede.pendleton
+   Original line: Head Coach dede.pendleton@unco.edu
+
+23. Assistant Coach
+   Email: harold.simmons@unco.edu
+   Username: harold.simmons
+   Original line: Assistant Coach harold.simmons@unco.edu
+
+24. Assistant Coach
+   Email: tori.martinez@unco.edu
+   Username: tori.martinez
+   Original line: Assistant Coach tori.martinez@unco.edu
+
+25. Head Coach
+   Email: tim.barrera@unco.edu
+   Username: tim.barrera
+   Original line: Head Coach tim.barrera@unco.edu
+
+26. Assistant Coach
+   Email: amy.sickler@unco.edu
+   Username: amy.sickler
+   Original line: Assistant Coach amy.sickler@unco.edu
+
+27. Assistant Coach
+   Email: everton.doprado@unco.edu
+   Username: everton.doprado
+   Original line: Assistant Coach everton.doprado@unco.edu
+
+28. Head Coach
+   Email: Lisa.Ebeling@unco.edu
+   Username: Lisa.Ebeling
+   Original line: Head Coach Lisa.Ebeling@unco.edu
+
+29. Diving Coach
+   Email: jacob.butler@unco.edu
+   Username: jacob.butler
+   Original line: Diving Coach jacob.butler@unco.edu
+
+30. Head Coach
+   Email: Lyndsey.Oates@unco.edu
+   Username: Lyndsey.Oates
+   Original line: Head Coach Lyndsey.Oates@unco.edu
+
+31. Associate Head
+   Email: Pii.Aiu@unco.edu
+   Username: Pii.Aiu
+   Original line: Associate Head Coach Pii.Aiu@unco.edu
+
+32. Assistant Coach
+   Email: Janae.McDonnell@unco.edu
+   Username: Janae.McDonnell
+   Original line: Assistant Coach Janae.McDonnell@unco.edu
+
+33. Assistant Coach
+   Email: earl.hall@unco.edu
+   Username: earl.hall
+   Original line: Assistant Coach earl.hall@unco.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach mike.anderson@unco.edu
+• Assistant Coach shane.opitz@unco.edu
+• Assistant Coach/Director of Baseball Operations alex.werbach@unco.edu
+• Assistant Coach/Camp Coordinator nicholas.chiseri@unco.edu
+• Head Coach stephen.smiley@unco.edu
+• Assistant Head Coach and Director of Advanced Scouting dorian.green@unco.edu
+• Assistant Head Coach and Recruiting Coordinator houston.reed@unco.edu
+• Assistant Coach and Director of Performance brett.cloepfil@unco.edu
+• Assistant Coach and Director of Basketball Operations colin.gause@unco.edu
+• Assistant Coach and Director of Player Development dondrale.campbell@unco.edu
+• Head Women's Basketball Coach Kristen.Mattio@unco.edu
+• Associate Head Women's Basketball Coach Camille.Perkins@unco.edu
+• Assistant Women's Basketball Coach jerad.stottlemyre@unco.edu
+• Assistant Women's Basketball Coach katie.mayes@unco.edu
+• Head Football Coach unc_football@unco.edu
+• Assistant Head Coach | Defensive Line, NFL Liaison unc_football@unco.edu
+• Assistant Coach | Run Game Coordinator | Offensive Line unc_football@unco.edu
+• Assistant Coach | Tight Ends unc_football@unco.edu
+• Assistant Coach | Wide Receivers | Returners unc_football@unco.edu
+• Assistant Coach | Running Backs unc_football@unco.edu
+• Director of Player Personnel | Specialist Coach unc_football@unco.edu
+• Head Coach dede.pendleton@unco.edu
+• Assistant Coach harold.simmons@unco.edu
+• Assistant Coach tori.martinez@unco.edu
+• Head Coach tim.barrera@unco.edu
+• Assistant Coach amy.sickler@unco.edu
+• Assistant Coach everton.doprado@unco.edu
+• Head Coach Lisa.Ebeling@unco.edu
+• Diving Coach jacob.butler@unco.edu
+• Head Coach Lyndsey.Oates@unco.edu
+• Associate Head Coach Pii.Aiu@unco.edu
+• Assistant Coach Janae.McDonnell@unco.edu
+• Assistant Coach earl.hall@unco.edu

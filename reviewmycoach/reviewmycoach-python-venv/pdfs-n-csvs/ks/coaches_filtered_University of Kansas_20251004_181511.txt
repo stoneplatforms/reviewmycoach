@@ -1,0 +1,203 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:14
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: billself@ku.edu
+   Username: billself
+   Original line: Head Coach billself@ku.edu
+
+2. Assistant Coach
+   Email: ktownmbb@ku.edu
+   Username: ktownmbb
+   Original line: Assistant Coach ktownmbb@ku.edu
+
+3. Assistant Coach
+   Email: jdcase@ku.edu
+   Username: jdcase
+   Original line: Assistant Coach jdcase@ku.edu
+
+4.  
+   Email: coachnijem@ku.edu
+   Username: coachnijem
+   Original line: coachnijem@ku.edu Full Bio
+
+5. Administrative Assistant
+   Email: joanstep@ku.edu
+   Username: joanstep
+   Original line: Administrative Assistant to the Head Coach joanstep@ku.edu
+
+6. Head Coach
+   Email: kansasfootball@ku.edu
+   Username: kansasfootball
+   Original line: Head Coach kansasfootball@ku.edu
+
+7. Assistant Head
+   Email: kansasfootball@ku.edu
+   Username: kansasfootball
+   Original line: Assistant Head Coach - Linebackers kansasfootball@ku.edu
+
+8. Assistant Head
+   Email: kansasfootball@ku.edu
+   Username: kansasfootball
+   Original line: Assistant Head Coach - Running Backs kansasfootball@ku.edu
+
+9. Assistant Coach
+   Email: kansasfootball@ku.edu
+   Username: kansasfootball
+   Original line: Assistant Coach - Offensive Line kansasfootball@ku.edu
+
+10. Assistant Coach
+   Email: kansasfootball@ku.edu
+   Username: kansasfootball
+   Original line: Assistant Coach - Defensive Ends/Special Teams Coordinator kansasfootball@ku.edu
+
+11. Assistant Coach
+   Email: kansasfootball@ku.edu
+   Username: kansasfootball
+   Original line: Assistant Coach - Defensive Tackles kansasfootball@ku.edu
+
+12. Assistant Coach
+   Email: kansasfootball@ku.edu
+   Username: kansasfootball
+   Original line: Assistant Coach - Wide Receivers kansasfootball@ku.edu
+
+13. Assistant Coach
+   Email: kansasfootball@ku.edu
+   Username: kansasfootball
+   Original line: Assistant Coach - Defensive Backs kansasfootball@ku.edu
+
+14. Head Coach
+   Email: jayhawkgolf@ku.edu
+   Username: jayhawkgolf
+   Original line: Head Coach jayhawkgolf@ku.edu
+
+15. Associate Head
+   Email: a.blake@ku.edu
+   Username: a.blake
+   Original line: Associate Head Coach a.blake@ku.edu
+
+16. Head Coach
+   Email: lkuhle@ku.edu
+   Username: lkuhle
+   Original line: Head Coach lkuhle@ku.edu
+
+17. Associate Head
+   Email: Bidne@ku.edu
+   Username: Bidne
+   Original line: Associate Head Coach Bidne@ku.edu
+
+18. Associate Head
+   Email: smahat@ku.edu
+   Username: smahat
+   Original line: Associate Head Coach smahat@ku.edu
+
+19. Head Coach
+   Email: jmcfalls@ku.edu
+   Username: jmcfalls
+   Original line: Head Coach jmcfalls@ku.edu
+
+20. Swimming Head
+   Email: ccswim@ku.edu
+   Username: ccswim
+   Original line: Swimming Head Coach ccswim@ku.edu
+
+21. Diving Head
+   Email: zephyrus@ku.edu
+   Username: zephyrus
+   Original line: Diving Head Coach zephyrus@ku.edu
+
+22. Head Coach
+   Email: sredwine@ku.edu
+   Username: sredwine
+   Original line: Head Coach sredwine@ku.edu
+
+23. Associate Head
+   Email: thays@ku.edu
+   Username: thays
+   Original line: Associate Head Coach/General Manager- Vertical Jumps thays@ku.edu
+
+24. Associate Head
+   Email: throwcoach@ku.edu
+   Username: throwcoach
+   Original line: Associate Head Coach - Throws throwcoach@ku.edu
+
+25. Assistant Coach
+   Email: pwthornton@ku.edu
+   Username: pwthornton
+   Original line: Assistant Coach - Horizontal Jumps/Multis pwthornton@ku.edu
+
+26. Assistant Head
+   Email: mwhittlesey@ku.edu
+   Username: mwhittlesey
+   Original line: Assistant Head Coach of Cross Country / Assistant Coach - Distance and Middle Distance mwhittlesey@ku.edu
+
+27. Assistant Coach
+   Email: nfortenberry@ku.edu
+   Username: nfortenberry
+   Original line: Assistant Coach - Sprints/Hurdles nfortenberry@ku.edu
+
+28. Assistant Coach
+   Email: bwell@ku.edu
+   Username: bwell
+   Original line: Assistant Coach - Horizontal Jumps bwell@ku.edu
+
+29. Director of
+   Email: roser@ku.edu
+   Username: roser
+   Original line: Director of Operations/Recruiting Coordinator/Assistant Coach roser@ku.edu
+
+30. Rock Chalk
+   Email: katieburris@ku.edu
+   Username: katieburris
+   Original line: Rock Chalk Dance Coach katieburris@ku.edu
+
+31. Cheer Coach
+   Email: drake.stafford@ku.edu
+   Username: drake.stafford
+   Original line: Cheer Coach drake.stafford@ku.edu
+
+32.  
+   Email: coachnijem@ku.edu
+   Username: coachnijem
+   Original line: coachnijem@ku.edu Full Bio
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach billself@ku.edu
+• Assistant Coach ktownmbb@ku.edu
+• Assistant Coach jdcase@ku.edu
+• coachnijem@ku.edu Full Bio
+• Administrative Assistant to the Head Coach joanstep@ku.edu
+• Head Coach kansasfootball@ku.edu
+• Assistant Head Coach - Linebackers kansasfootball@ku.edu
+• Assistant Head Coach - Running Backs kansasfootball@ku.edu
+• Assistant Coach - Offensive Line kansasfootball@ku.edu
+• Assistant Coach - Defensive Ends/Special Teams Coordinator kansasfootball@ku.edu
+• Assistant Coach - Defensive Tackles kansasfootball@ku.edu
+• Assistant Coach - Wide Receivers kansasfootball@ku.edu
+• Assistant Coach - Defensive Backs kansasfootball@ku.edu
+• Head Coach jayhawkgolf@ku.edu
+• Associate Head Coach a.blake@ku.edu
+• Head Coach lkuhle@ku.edu
+• Associate Head Coach Bidne@ku.edu
+• Associate Head Coach smahat@ku.edu
+• Head Coach jmcfalls@ku.edu
+• Swimming Head Coach ccswim@ku.edu
+• Diving Head Coach zephyrus@ku.edu
+• Head Coach sredwine@ku.edu
+• Associate Head Coach/General Manager- Vertical Jumps thays@ku.edu
+• Associate Head Coach - Throws throwcoach@ku.edu
+• Assistant Coach - Horizontal Jumps/Multis pwthornton@ku.edu
+• Assistant Head Coach of Cross Country / Assistant Coach - Distance and Middle Distance mwhittlesey@ku.edu
+• Assistant Coach - Sprints/Hurdles nfortenberry@ku.edu
+• Assistant Coach - Horizontal Jumps bwell@ku.edu
+• Director of Operations/Recruiting Coordinator/Assistant Coach roser@ku.edu
+• Rock Chalk Dance Coach katieburris@ku.edu
+• Cheer Coach drake.stafford@ku.edu
+• coachnijem@ku.edu Full Bio

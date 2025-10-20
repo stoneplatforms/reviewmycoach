@@ -1,0 +1,247 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:47
+============================================================
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. Griffin Fleming
+   Email: ghfleming@mc.edu
+   Username: ghfleming
+   Original line: Griffin Fleming Dance Coach/Fan Engagement ghfleming@mc.edu
+
+2. Anna Nelson
+   Email: anelson2@mc.edu
+   Username: anelson2
+   Original line: Anna Nelson Assistant Coach/Fan Engagement anelson2@mc.edu
+
+3. Leigh Streetman
+   Email: lstreetman@mc.edu
+   Username: lstreetman
+   Phone: 601.925.3361
+   Original line: Leigh Streetman Head Coach lstreetman@mc.edu 601.925.3361
+
+4. Michele Ricker
+   Email: mricker@mc.edu
+   Username: mricker
+   Phone: 601.925.3925
+   Original line: Michele Ricker Head Cheer Coach mricker@mc.edu 601.925.3925
+
+5. Malik James
+   Email: mdjames@mc.edu
+   Username: mdjames
+   Phone: 601.925.3839
+   Original line: Malik James Assistant Cheer Coach mdjames@mc.edu 601.925.3839
+
+6. Griffin Fleming
+   Email: ghfleming@mc.edu
+   Username: ghfleming
+   Original line: Griffin Fleming Dance Coach/Fan Engagement ghfleming@mc.edu
+
+7. Jeremy Haworth
+   Email: jshaworth@mc.edu
+   Username: jshaworth
+   Phone: 601.925.3346
+   Original line: Jeremy Haworth Head Coach jshaworth@mc.edu 601.925.3346
+
+8. Zack Ingram
+   Email: zingram1@mc.edu
+   Username: zingram1
+   Phone: 601.925.7828
+   Original line: Zack Ingram Assistant Coach zingram1@mc.edu 601.925.7828
+
+9. Colt Chrestman
+   Email: cwchrestman@mc.edu
+   Username: cwchrestman
+   Phone: 601.925.3353
+   Original line: Colt Chrestman Assistant Coach cwchrestman@mc.edu 601.925.3353
+
+10. Josh Brooks
+   Email: jbrooks@mc.edu
+   Username: jbrooks
+   Phone: 601.925.3365
+   Original line: Josh Brooks Head Coach jbrooks@mc.edu 601.925.3365
+
+11. John Works
+   Email: jworks@mc.edu
+   Username: jworks
+   Phone: 601.925.3364
+   Original line: John Works Assistant Coach jworks@mc.edu 601.925.3364
+
+12. Terik Richardson
+   Email: trichardson1@mc.edu
+   Username: trichardson1
+   Phone: 601.925.3364
+   Original line: Terik Richardson Assistant Coach trichardson1@mc.edu 601.925.3364
+
+13. Jordan Marshall
+   Email: jcmarshall@mc.edu
+   Username: jcmarshall
+   Phone: 601.925.3364
+   Original line: Jordan Marshall Assistant Coach jcmarshall@mc.edu 601.925.3364
+
+14. Rachel Travis
+   Email: rtravis@mc.edu
+   Username: rtravis
+   Phone: 601.925.3360
+   Original line: Rachel Travis Head Coach rtravis@mc.edu 601.925.3360
+
+15. KaVonne Towns
+   Email: ktowns1@mc.edu
+   Username: ktowns1
+   Phone: 601.925.3363
+   Original line: KaVonne Towns Associate Head Coach and Recruiting Coordinator ktowns1@mc.edu 601.925.3363
+
+16. Kaitlyn Keathley
+   Email: kkeathley@mc.edu
+   Username: kkeathley
+   Original line: Kaitlyn Keathley Assistant Coach kkeathley@mc.edu
+
+17. Joe Snyder
+   Email: jsnyder@mc.edu
+   Username: jsnyder
+   Phone: 601.925.7653
+   Original line: Joe Snyder Head Coach of Cross Country / Track & Field jsnyder@mc.edu 601.925.7653
+
+18. Chris Webber
+   Email: cawebber@mc.edu
+   Username: cawebber
+   Phone: (601) 925-7653
+   Original line: Chris Webber Associate Head Coach / Cross Country cawebber@mc.edu 601-925-7653
+
+19. Mike Fairfax
+   Email: mfairfax@mc.edu
+   Username: mfairfax
+   Original line: Mike Fairfax Associate Head Track and Field Coach mfairfax@mc.edu
+
+20. Ethan Doan
+   Email: doan@mc.edu
+   Username: doan
+   Phone: 601.925.3810
+   Original line: Ethan Doan Head Coach doan@mc.edu 601.925.3810
+
+21. Brent Belton
+   Email: bbelton@mc.edu
+   Username: bbelton
+   Phone: 601.951.3637
+   Original line: Brent Belton Head Coach bbelton@mc.edu 601.951.3637
+
+22. Rafael Costa
+   Email: rcosta@mc.edu
+   Username: rcosta
+   Phone: 601.925.3934
+   Original line: Rafael Costa Head Coach rcosta@mc.edu 601.925.3934
+
+23. Owen Connelly
+   Email: ofconnelly@mc.edu
+   Username: ofconnelly
+   Phone: 601.925.7639
+   Original line: Owen Connelly Assistant Coach ofconnelly@mc.edu 601.925.7639
+
+24. Darryl Longabaugh
+   Email: longabau@mc.edu
+   Username: longabau
+   Phone: 601.925.3892
+   Original line: Darryl Longabaugh Head Coach longabau@mc.edu 601.925.3892
+
+25. Adam Johnson
+   Email: agjohnson@mc.edu
+   Username: agjohnson
+   Phone: 601.925.7640
+   Original line: Adam Johnson Associate Head Coach agjohnson@mc.edu 601.925.7640
+
+26. Leigh Streetman
+   Email: lstreetman@mc.edu
+   Username: lstreetman
+   Phone: 601.925.3361
+   Original line: Leigh Streetman Head Coach lstreetman@mc.edu 601.925.3361
+
+27. Brooke Fagan
+   Email: bnfagan@mc.edu
+   Username: bnfagan
+   Phone: 601.925.7886
+   Original line: Brooke Fagan Assistant Coach bnfagan@mc.edu 601.925.7886
+
+28. Michael Ward
+   Email: mward2@mc.edu
+   Username: mward2
+   Phone: 601.925.3959
+   Original line: Michael Ward Head Coach mward2@mc.edu 601.925.3959
+
+29. Colleen Roberts
+   Email: croberts3@mc.edu
+   Username: croberts3
+   Phone: 601.925.3959
+   Original line: Colleen Roberts Assistant Coach croberts3@mc.edu 601.925.3959
+
+30. Nick Rosatti
+   Email: nrosatti@mc.edu
+   Username: nrosatti
+   Phone: 601.925.3959
+   Original line: Nick Rosatti Assistant Coach nrosatti@mc.edu 601.925.3959
+
+31. Bentley Odom
+   Email: bodom@mc.edu
+   Username: bodom
+   Phone: 601.925.3357
+   Original line: Bentley Odom Head Coach bodom@mc.edu 601.925.3357
+
+32. Anna Nelson
+   Email: anelson2@mc.edu
+   Username: anelson2
+   Original line: Anna Nelson Assistant Coach/Fan Engagement anelson2@mc.edu
+
+33. Hayle Tillman
+   Email: hltillman1@mc.edu
+   Username: hltillman1
+   Original line: Hayle Tillman Graduate Assistant Coach hltillman1@mc.edu
+
+34. Lydia Paulette
+   Email: lmpaulette@mc.edu
+   Username: lmpaulette
+   Original line: Lydia Paulette Graduate Assistant Coach lmpaulette@mc.edu
+
+35. Ali Wiggins
+   Email: amwiggins@mc.edu
+   Username: amwiggins
+   Original line: Ali Wiggins Graduate Assistant Coach amwiggins@mc.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Griffin Fleming Dance Coach/Fan Engagement ghfleming@mc.edu
+• Anna Nelson Assistant Coach/Fan Engagement anelson2@mc.edu
+• Leigh Streetman Head Coach lstreetman@mc.edu 601.925.3361
+• Michele Ricker Head Cheer Coach mricker@mc.edu 601.925.3925
+• Malik James Assistant Cheer Coach mdjames@mc.edu 601.925.3839
+• Griffin Fleming Dance Coach/Fan Engagement ghfleming@mc.edu
+• Jeremy Haworth Head Coach jshaworth@mc.edu 601.925.3346
+• Zack Ingram Assistant Coach zingram1@mc.edu 601.925.7828
+• Colt Chrestman Assistant Coach cwchrestman@mc.edu 601.925.3353
+• Josh Brooks Head Coach jbrooks@mc.edu 601.925.3365
+• John Works Assistant Coach jworks@mc.edu 601.925.3364
+• Terik Richardson Assistant Coach trichardson1@mc.edu 601.925.3364
+• Jordan Marshall Assistant Coach jcmarshall@mc.edu 601.925.3364
+• Rachel Travis Head Coach rtravis@mc.edu 601.925.3360
+• KaVonne Towns Associate Head Coach and Recruiting Coordinator ktowns1@mc.edu 601.925.3363
+• Kaitlyn Keathley Assistant Coach kkeathley@mc.edu
+• Joe Snyder Head Coach of Cross Country / Track & Field jsnyder@mc.edu 601.925.7653
+• Chris Webber Associate Head Coach / Cross Country cawebber@mc.edu 601-925-7653
+• Mike Fairfax Associate Head Track and Field Coach mfairfax@mc.edu
+• Ethan Doan Head Coach doan@mc.edu 601.925.3810
+• Brent Belton Head Coach bbelton@mc.edu 601.951.3637
+• Rafael Costa Head Coach rcosta@mc.edu 601.925.3934
+• Owen Connelly Assistant Coach ofconnelly@mc.edu 601.925.7639
+• Darryl Longabaugh Head Coach longabau@mc.edu 601.925.3892
+• Adam Johnson Associate Head Coach agjohnson@mc.edu 601.925.7640
+• Leigh Streetman Head Coach lstreetman@mc.edu 601.925.3361
+• Brooke Fagan Assistant Coach bnfagan@mc.edu 601.925.7886
+• Michael Ward Head Coach mward2@mc.edu 601.925.3959
+• Colleen Roberts Assistant Coach croberts3@mc.edu 601.925.3959
+• Nick Rosatti Assistant Coach nrosatti@mc.edu 601.925.3959
+• Bentley Odom Head Coach bodom@mc.edu 601.925.3357
+• Anna Nelson Assistant Coach/Fan Engagement anelson2@mc.edu
+• Hayle Tillman Graduate Assistant Coach hltillman1@mc.edu
+• Lydia Paulette Graduate Assistant Coach lmpaulette@mc.edu
+• Ali Wiggins Graduate Assistant Coach amwiggins@mc.edu

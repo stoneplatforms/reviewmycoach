@@ -1,0 +1,101 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:44
+============================================================
+
+Total coaches found: 15
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jon Trilli
+   Email: mbb@msutexas.edu
+   Username: mbb
+   Original line: Jon Trilli Head Men's Basketball Coach mbb@msutexas.edu 397-
+
+2. Brenita Jackson
+   Email: brenita.jackson@msutexas.edu
+   Username: brenita.jackson
+   Original line: Brenita Jackson Head Women's Basketball Coach brenita.jackson@msutexas.edu 397-
+
+3. Rich Renner
+   Email: rich.renner@msutexas.edu
+   Username: rich.renner
+   Original line: Rich Renner Head Football Coach rich.renner@msutexas.edu 397- MustangsDC
+
+4. Blake Frazier
+   Email: adam.frazier@msutexas.edu
+   Username: adam.frazier
+   Original line: Blake Frazier Assistant Football Coach / adam.frazier@msutexas.edu 397-
+
+5. Kirk Bryant
+   Email: kirk.bryant@msutexas.edu
+   Username: kirk.bryant
+   Original line: Kirk Bryant Assistant Football Coach / kirk.bryant@msutexas.edu 397-
+
+6. Cedric Leonard
+   Email: cedric.leonard@msutexas.edu
+   Username: cedric.leonard
+   Original line: Cedric Leonard Assistant Football Coach / cedric.leonard@msutexas.edu 397- FBCoachLeonard
+
+7. Clyde Logan
+   Email: clyde.logan@msutexas.edu
+   Username: clyde.logan
+   Original line: Clyde Logan Assistant Football Coach / clyde.logan@msutexas.edu 397-
+
+8. Tyler Preston
+   Email: tyler.preston@msutexas.edu
+   Username: tyler.preston
+   Original line: Tyler Preston Assistant Football Coach / tyler.preston@msutexas.edu 397-
+
+9. Domonique Young
+   Email: domonique.young@msutexas.edu
+   Username: domonique.young
+   Original line: Domonique Young Assistant Football Coach / Wide domonique.young@msutexas.edu 397-
+
+10. Michael Meachum
+   Email: michael.meachum@msutexas.edu
+   Username: michael.meachum
+   Original line: Michael Meachum Head Men's Soccer Coach michael.meachum@msutexas.edu 397- The_Big_MMeach
+
+11. Ryan Spence
+   Email: ryan.spence@msutexas.edu
+   Username: ryan.spence
+   Original line: Ryan Spence Head Women's Soccer Coach ryan.spence@msutexas.edu 397-
+
+12. Kae Lani
+   Email: kaelani.bryan@msutexas.edu
+   Username: kaelani.bryan
+   Original line: Kae Lani Bryan Head Softball Coach kaelani.bryan@msutexas.edu 397-
+
+13. Katelynn Taylor
+   Email: katelynn.taylor@msutexas.edu
+   Username: katelynn.taylor
+   Original line: Katelynn Taylor Assistant Softball Coach katelynn.taylor@msutexas.edu 397-
+
+14. Stephanie Radecki
+   Email: stephanie.radecki@msutexas.edu
+   Username: stephanie.radecki
+   Original line: Stephanie Radecki Head Volleyball Coach stephanie.radecki@msutexas.edu 397- sbradecki
+
+15. Jennifer McCall
+   Email: jennifer.mccall@msutexas.edu
+   Username: jennifer.mccall
+   Original line: Jennifer McCall Associate Head Volleyball Coach jennifer.mccall@msutexas.edu 397-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jon Trilli Head Men's Basketball Coach mbb@msutexas.edu 397-
+• Brenita Jackson Head Women's Basketball Coach brenita.jackson@msutexas.edu 397-
+• Rich Renner Head Football Coach rich.renner@msutexas.edu 397- MustangsDC
+• Blake Frazier Assistant Football Coach / adam.frazier@msutexas.edu 397-
+• Kirk Bryant Assistant Football Coach / kirk.bryant@msutexas.edu 397-
+• Cedric Leonard Assistant Football Coach / cedric.leonard@msutexas.edu 397- FBCoachLeonard
+• Clyde Logan Assistant Football Coach / clyde.logan@msutexas.edu 397-
+• Tyler Preston Assistant Football Coach / tyler.preston@msutexas.edu 397-
+• Domonique Young Assistant Football Coach / Wide domonique.young@msutexas.edu 397-
+• Michael Meachum Head Men's Soccer Coach michael.meachum@msutexas.edu 397- The_Big_MMeach
+• Ryan Spence Head Women's Soccer Coach ryan.spence@msutexas.edu 397-
+• Kae Lani Bryan Head Softball Coach kaelani.bryan@msutexas.edu 397-
+• Katelynn Taylor Assistant Softball Coach katelynn.taylor@msutexas.edu 397-
+• Stephanie Radecki Head Volleyball Coach stephanie.radecki@msutexas.edu 397- sbradecki
+• Jennifer McCall Associate Head Volleyball Coach jennifer.mccall@msutexas.edu 397-

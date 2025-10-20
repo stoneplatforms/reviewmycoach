@@ -1,0 +1,247 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:30
+============================================================
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. Terry Davis
+   Email: t-davis10@wiu.edu
+   Username: t-davis10
+   Phone: 298-1521
+   Original line: Terry Davis Head Baseball Coach t-davis10@wiu.edu 298-1521
+
+2. Josh Merrigan
+   Email: J-Merrigan@wiu.edu
+   Username: J-Merrigan
+   Phone: 298-1521
+   Original line: Josh Merrigan Assistant Baseball Coach J-Merrigan@wiu.edu 298-1521
+
+3. Chad Boudreau
+   Email: c-boudreau@wiu.edu
+   Username: c-boudreau
+   Phone: 298-1224
+   Original line: Chad Boudreau Head Coach c-boudreau@wiu.edu 298-1224 CoachBoudyWIU
+
+4. Bryan Martin
+   Email: b-martin4@wiu.edu
+   Username: b-martin4
+   Phone: (319) 531-6999
+   Original line: Bryan Martin Assistant Coach b-martin4@wiu.edu 319-531-6999
+
+5. Kris Glover
+   Email: k-glover3@wiu.edu
+   Username: k-glover3
+   Phone: 298-1224
+   Original line: Kris Glover Assistant Coach k-glover3@wiu.edu 298-1224 krisglover35
+
+6. Solon Ellis
+   Email: sf-ellis@wiu.edu
+   Username: sf-ellis
+   Original line: Solon Ellis Assistant Coach sf-ellis@wiu.edu
+
+7. Chuck Ruffing
+   Email: c-ruffing@wiu.edu
+   Username: c-ruffing
+   Phone: 298-1124
+   Original line: Chuck Ruffing Assistant Coach c-ruffing@wiu.edu 298-1124
+
+8. JD Gravina
+   Email: J-Gravina@wiu.edu
+   Username: J-Gravina
+   Phone: 298-1893
+   Original line: JD Gravina Head Coach J-Gravina@wiu.edu 298-1893 JDGravina
+
+9. Dan Chapla
+   Email: dj-chapla@wiu.edu
+   Username: dj-chapla
+   Phone: 298-1893
+   Original line: Dan Chapla Associate Head Coach dj-chapla@wiu.edu 298-1893 Dchap45
+
+10. Alexa Tovella
+   Email: a-tovella@wiu.edu
+   Username: a-tovella
+   Phone: 298-1893
+   Original line: Alexa Tovella Assistant Coach a-tovella@wiu.edu 298-1893 coachalexa4
+
+11. Olivia Travis
+   Email: o-travis@wiu.edu
+   Username: o-travis
+   Phone: 298-1893
+   Original line: Olivia Travis Assistant Coach o-travis@wiu.edu 298-1893
+
+12. Denise Cremer
+   Email: cheerleading@wiu.edu
+   Username: cheerleading
+   Original line: Denise Cremer Head Coach cheerleading@wiu.edu
+
+13. Brandon Kreczmer
+   Email: bj-kreczmer@wiu.edu
+   Username: bj-kreczmer
+   Phone: 298-1515
+   Original line: Brandon Kreczmer Associate Head Coach / Linebackers Coach bj-kreczmer@wiu.edu 298-1515 KreczmerWIU
+
+14. Brad Wilson
+   Email: b-wilson6@wiu.edu
+   Username: b-wilson6
+   Phone: 298-1515
+   Original line: Brad Wilson Assistant Head Coach/Offensive b-wilson6@wiu.edu 298-1515 CoachBWilson
+
+15. Karl Mofor
+   Email: k-mofor@wiu.edu
+   Username: k-mofor
+   Phone: 298-1515
+   Original line: Karl Mofor Running Backs Coach k-mofor@wiu.edu 298-1515 CoachKarlMofor
+
+16. Joshua Caraway
+   Email: j-caraway@wiu.edu
+   Username: j-caraway
+   Phone: 298-1515
+   Original line: Joshua Caraway Special Teams Coordinator / Tight Ends j-caraway@wiu.edu 298-1515 CoachJCaraway
+
+17. Elven Walker
+   Email: e-walker5@wiu.edu
+   Username: e-walker5
+   Phone: 298-1515
+   Original line: Elven Walker IV Cornerbacks Coach e-walker5@wiu.edu 298-1515 CoachWalkerIV
+
+18. Caleb Bonner
+   Email: cr-bonner@wiu.edu
+   Username: cr-bonner
+   Phone: 298-1515
+   Original line: Caleb Bonner Nickel Coach cr-bonner@wiu.edu 298-1515 Coach_CBonner
+
+19. Zach Trevino
+   Email: z-trevino@wiu.edu
+   Username: z-trevino
+   Phone: 298-1515
+   Original line: Zach Trevino Offensive Graduate Assistant / z-trevino@wiu.edu 298-1515 CoachTrevino_
+
+20. Isaiah Washington
+   Email: is-washington2@wiu.edu
+   Username: is-washington2
+   Original line: Isaiah Washington Wide Receivers Coach is-washington2@wiu.edu
+
+21. Eric Johnson
+   Email: EP-Johnson@wiu.edu
+   Username: EP-Johnson
+   Phone: 298-1190
+   Original line: Dr. Eric Johnson Head Coach EP-Johnson@wiu.edu 298-1190
+
+22. Will Kelson
+   Email: wp-kelson@wiu.edu
+   Username: wp-kelson
+   Phone: 298-1190
+   Original line: Will Kelson Assistant Coach wp-kelson@wiu.edu 298-1190
+
+23. Ross Henderson
+   Email: rg-henderson@wiu.edu
+   Username: rg-henderson
+   Phone: 298-1190
+   Original line: Ross Henderson Head Coach rg-henderson@wiu.edu 298-1190
+
+24. Kooten Johnson
+   Email: kl-johnson5@wiu.edu
+   Username: kl-johnson5
+   Phone: 298-1190
+   Original line: Kooten Johnson Assistant Coach kl-johnson5@wiu.edu 298-1190
+
+25. Will Kelson
+   Email: wp-kelson@wiu.edu
+   Username: wp-kelson
+   Phone: 298-1190
+   Original line: Will Kelson Assistant Coach wp-kelson@wiu.edu 298-1190
+
+26. Alisa Goler
+   Email: ah-goler@wiu.edu
+   Username: ah-goler
+   Phone: 298-1753
+   Original line: Alisa Goler Head Coach ah-goler@wiu.edu 298-1753 agoler35
+
+27. Collin Hopkins
+   Email: cm-hopkins@wiu.edu
+   Username: cm-hopkins
+   Phone: 298-1753
+   Original line: Collin Hopkins Assistant Coach cm-hopkins@wiu.edu 298-1753 TheRealChopkins
+
+28. Tori McQueen
+   Email: tl-mcqueen@wiu.edu
+   Username: tl-mcqueen
+   Phone: 298-1753
+   Original line: Tori McQueen Graduate Assistant Coach tl-mcqueen@wiu.edu 298-1753
+
+29. Luke Ogren
+   Email: ld-ogren@wiu.edu
+   Username: ld-ogren
+   Original line: Luke Ogren Head Coach ld-ogren@wiu.edu
+
+30. Matt Rosado
+   Email: m-rosado@wiu.edu
+   Username: m-rosado
+   Original line: Matt Rosado Interim Head Coach Track & Field/ Cross m-rosado@wiu.edu
+
+31. Tom Unruh
+   Email: ta-unruh@wiu.edu
+   Username: ta-unruh
+   Original line: Tom Unruh Assistant Coach (Pole Vault) ta-unruh@wiu.edu
+
+32. Logan Lommel
+   Email: le-lommel@wiu.edu
+   Username: le-lommel
+   Original line: Logan Lommel Volunteer Assistant Coach le-lommel@wiu.edu
+
+33. Dale Starr
+   Email: dp-starr@wiu.edu
+   Username: dp-starr
+   Phone: 298-1855
+   Original line: Dale Starr Head Coach dp-starr@wiu.edu 298-1855 DaleStarr4
+
+34. Alex Becerra
+   Email: a-becerra2@wiu.edu
+   Username: a-becerra2
+   Original line: Alex Becerra Assistant Coach/Recruiting Coordinator a-becerra2@wiu.edu
+
+35. Derek Sapp
+   Email: ds-sapp@wiu.edu
+   Username: ds-sapp
+   Original line: Derek Sapp Head Coach Women's Bowling ds-sapp@wiu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Terry Davis Head Baseball Coach t-davis10@wiu.edu 298-1521
+• Josh Merrigan Assistant Baseball Coach J-Merrigan@wiu.edu 298-1521
+• Chad Boudreau Head Coach c-boudreau@wiu.edu 298-1224 CoachBoudyWIU
+• Bryan Martin Assistant Coach b-martin4@wiu.edu 319-531-6999
+• Kris Glover Assistant Coach k-glover3@wiu.edu 298-1224 krisglover35
+• Solon Ellis Assistant Coach sf-ellis@wiu.edu
+• Chuck Ruffing Assistant Coach c-ruffing@wiu.edu 298-1124
+• JD Gravina Head Coach J-Gravina@wiu.edu 298-1893 JDGravina
+• Dan Chapla Associate Head Coach dj-chapla@wiu.edu 298-1893 Dchap45
+• Alexa Tovella Assistant Coach a-tovella@wiu.edu 298-1893 coachalexa4
+• Olivia Travis Assistant Coach o-travis@wiu.edu 298-1893
+• Denise Cremer Head Coach cheerleading@wiu.edu
+• Brandon Kreczmer Associate Head Coach / Linebackers Coach bj-kreczmer@wiu.edu 298-1515 KreczmerWIU
+• Brad Wilson Assistant Head Coach/Offensive b-wilson6@wiu.edu 298-1515 CoachBWilson
+• Karl Mofor Running Backs Coach k-mofor@wiu.edu 298-1515 CoachKarlMofor
+• Joshua Caraway Special Teams Coordinator / Tight Ends j-caraway@wiu.edu 298-1515 CoachJCaraway
+• Elven Walker IV Cornerbacks Coach e-walker5@wiu.edu 298-1515 CoachWalkerIV
+• Caleb Bonner Nickel Coach cr-bonner@wiu.edu 298-1515 Coach_CBonner
+• Zach Trevino Offensive Graduate Assistant / z-trevino@wiu.edu 298-1515 CoachTrevino_
+• Isaiah Washington Wide Receivers Coach is-washington2@wiu.edu
+• Dr. Eric Johnson Head Coach EP-Johnson@wiu.edu 298-1190
+• Will Kelson Assistant Coach wp-kelson@wiu.edu 298-1190
+• Ross Henderson Head Coach rg-henderson@wiu.edu 298-1190
+• Kooten Johnson Assistant Coach kl-johnson5@wiu.edu 298-1190
+• Will Kelson Assistant Coach wp-kelson@wiu.edu 298-1190
+• Alisa Goler Head Coach ah-goler@wiu.edu 298-1753 agoler35
+• Collin Hopkins Assistant Coach cm-hopkins@wiu.edu 298-1753 TheRealChopkins
+• Tori McQueen Graduate Assistant Coach tl-mcqueen@wiu.edu 298-1753
+• Luke Ogren Head Coach ld-ogren@wiu.edu
+• Matt Rosado Interim Head Coach Track & Field/ Cross m-rosado@wiu.edu
+• Tom Unruh Assistant Coach (Pole Vault) ta-unruh@wiu.edu
+• Logan Lommel Volunteer Assistant Coach le-lommel@wiu.edu
+• Dale Starr Head Coach dp-starr@wiu.edu 298-1855 DaleStarr4
+• Alex Becerra Assistant Coach/Recruiting Coordinator a-becerra2@wiu.edu
+• Derek Sapp Head Coach Women's Bowling ds-sapp@wiu.edu

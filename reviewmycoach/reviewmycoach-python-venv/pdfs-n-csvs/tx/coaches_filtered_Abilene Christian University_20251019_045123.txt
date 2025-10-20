@@ -1,0 +1,227 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:23
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rece Stafford
+   Email: rms17b@acu.edu
+   Username: rms17b
+   Original line: Rece Stafford Assistant Strength and Conditioning Coach (Football, rms17b@acu.edu
+
+2. Trey Kiser
+   Email: txk25c@acu.edu
+   Username: txk25c
+   Original line: Trey Kiser Assistant Strength and Conditioning Coach (Soccer, txk25c@acu.edu
+
+3. Matt McGuire
+   Email: mrm22b@acu.edu
+   Username: mrm22b
+   Original line: Matt McGuire Assistant Strength and Conditioning Coach (Tennis, mrm22b@acu.edu
+
+4. Blaze Lambert
+   Email: blaze.lambert@acu.edu
+   Username: blaze.lambert
+   Original line: Blaze Lambert Associate Head Coach blaze.lambert@acu.edu
+
+5. Casey Demko
+   Email: cjd22a@acu.edu
+   Username: cjd22a
+   Original line: Casey Demko Assistant Coach cjd22a@acu.edu
+
+6. Daniel Furuto
+   Email: djf18b@acu.edu
+   Username: djf18b
+   Original line: Daniel Furuto Assistant Coach / Offensive Coordinator djf18b@acu.edu
+
+7. Ted Crass
+   Email: ted.crass@acu.edu
+   Username: ted.crass
+   Original line: Ted Crass Assistant Coach ted.crass@acu.edu
+
+8. Cameron Henderson
+   Email: cgh23a@acu.edu
+   Username: cgh23a
+   Original line: Cameron Henderson Assistant Coach cgh23a@acu.edu
+
+9. Doug Karleskint
+   Email: doug.karleskint@acu.edu
+   Username: doug.karleskint
+   Original line: Doug Karleskint Assistant Coach doug.karleskint@acu.edu
+
+10. Danny Young
+   Email: dey25a@acu.edu
+   Username: dey25a
+   Original line: Danny Young Assistant Coach dey25a@acu.edu
+
+11. Julie Goodenough
+   Email: julie.goodenough@acu.edu
+   Username: julie.goodenough
+   Original line: Julie Goodenough Head Coach julie.goodenough@acu.edu
+
+12. Yannick Denson
+   Email: yed24a@acu.edu
+   Username: yed24a
+   Original line: Yannick Denson Associate Head Coach / Recruiting Coordinator yed24a@acu.edu
+
+13. Tatum Veitenheimer
+   Email: tlv24a@acu.edu
+   Username: tlv24a
+   Original line: Tatum Veitenheimer Assistant Coach / Internal Recruiting Coordinator tlv24a@acu.edu
+
+14. Chris Garcia
+   Email: cag14e@acu.edu
+   Username: cag14e
+   Original line: Chris Garcia Assistant Coach / Creative Recruiting Coordinator cag14e@acu.edu
+
+15. Malone Graham
+   Email: mxg23g@acu.edu
+   Username: mxg23g
+   Original line: Malone Graham Assistant Coach / Director of Basketball Operations mxg23g@acu.edu
+
+16. Graham Harrell
+   Email: gsh25b@acu.edu
+   Username: gsh25b
+   Original line: Graham Harrell Associate Head Coach / Co-Offensive Coordinator / gsh25b@acu.edu
+
+17. Ryan Pugh
+   Email: rap22b@acu.edu
+   Username: rap22b
+   Original line: Ryan Pugh Offensive Line Coach rap22b@acu.edu
+
+18. Jason Smith
+   Email: jks24a@acu.edu
+   Username: jks24a
+   Original line: Jason Smith Running Backs Coach jks24a@acu.edu
+
+19. Conor Dubin
+   Email: ctd22a@acu.edu
+   Username: ctd22a
+   Original line: Conor Dubin Linebackers Coach ctd22a@acu.edu
+
+20. Stanton Keane
+   Email: smk25b@acu.edu
+   Username: smk25b
+   Original line: Stanton Keane Tight Ends Coach smk25b@acu.edu
+
+21. Rob Bennett
+   Email: rob.bennett@acu.edu
+   Username: rob.bennett
+   Original line: Rob Bennett Head Coach rob.bennett@acu.edu
+
+22. Jordan Burchette
+   Email: jrb25c@acu.edu
+   Username: jrb25c
+   Original line: Jordan Burchette Assistant Coach jrb25c@acu.edu
+
+23. Stephen Salas
+   Email: stephen.salas@acu.edu
+   Username: stephen.salas
+   Original line: Stephen Salas Head Coach stephen.salas@acu.edu
+
+24. Audrey Adkison
+   Email: audrey.adkison@acu.edu
+   Username: audrey.adkison
+   Original line: Audrey Adkison Associate Head Coach audrey.adkison@acu.edu
+
+25. Kylie Gazza
+   Email: kylie.gazza@acu.edu
+   Username: kylie.gazza
+   Original line: Kylie Gazza Assistant Coach kylie.gazza@acu.edu
+
+26. Jo Koons
+   Email: Jo.Koons@acu.edu
+   Username: Jo.Koons
+   Original line: Jo Koons Head Coach Jo.Koons@acu.edu
+
+27. Campbell Hutcherson
+   Email: cxh25h@acu.edu
+   Username: cxh25h
+   Original line: Campbell Hutcherson Assistant Coach cxh25h@acu.edu
+
+28. Kenedy Hines
+   Email: Kenedy.Hines@acu.edu
+   Username: Kenedy.Hines
+   Original line: Kenedy Hines Assistant Coach Kenedy.Hines@acu.edu
+
+29. Juan Nuñez
+   Email: juan.nunez@acu.edu
+   Username: juan.nunez
+   Original line: Juan Nuñez Head Coach juan.nunez@acu.edu
+
+30. Bryan Rainwater
+   Email: bcr04a@acu.edu
+   Username: bcr04a
+   Original line: Bryan Rainwater Head Coach bcr04a@acu.edu
+
+31. Anthony Acklin
+   Email: aea24c@acu.edu
+   Username: aea24c
+   Original line: Anthony Acklin Associate Head Coach - Sprints/Hurdles/Jumps/Multis aea24c@acu.edu
+
+32. Nathan Meeuwenberg
+   Email: nkm23a@acu.edu
+   Username: nkm23a
+   Original line: Nathan Meeuwenberg Assistant Coach - Middle Distance/Distance/Cross nkm23a@acu.edu
+
+33. Nathan Ott
+   Email: nro25a@acu.edu
+   Username: nro25a
+   Original line: Nathan Ott Assistant Coach - Throws nro25a@acu.edu
+
+34. Ijeoma Moronu
+   Email: ijeoma.moronu@acu.edu
+   Username: ijeoma.moronu
+   Original line: Ijeoma Moronu Alstrup Head Coach ijeoma.moronu@acu.edu
+
+35. Chris Alstrup
+   Email: Csa23a@acu.edu
+   Username: Csa23a
+   Original line: Chris Alstrup Assistant Coach Csa23a@acu.edu
+
+36. Janice Pressley
+   Email: jmp25a@acu.edu
+   Username: jmp25a
+   Original line: Janice Pressley Assistant Coach jmp25a@acu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rece Stafford Assistant Strength and Conditioning Coach (Football, rms17b@acu.edu
+• Trey Kiser Assistant Strength and Conditioning Coach (Soccer, txk25c@acu.edu
+• Matt McGuire Assistant Strength and Conditioning Coach (Tennis, mrm22b@acu.edu
+• Blaze Lambert Associate Head Coach blaze.lambert@acu.edu
+• Casey Demko Assistant Coach cjd22a@acu.edu
+• Daniel Furuto Assistant Coach / Offensive Coordinator djf18b@acu.edu
+• Ted Crass Assistant Coach ted.crass@acu.edu
+• Cameron Henderson Assistant Coach cgh23a@acu.edu
+• Doug Karleskint Assistant Coach doug.karleskint@acu.edu
+• Danny Young Assistant Coach dey25a@acu.edu
+• Julie Goodenough Head Coach julie.goodenough@acu.edu
+• Yannick Denson Associate Head Coach / Recruiting Coordinator yed24a@acu.edu
+• Tatum Veitenheimer Assistant Coach / Internal Recruiting Coordinator tlv24a@acu.edu
+• Chris Garcia Assistant Coach / Creative Recruiting Coordinator cag14e@acu.edu
+• Malone Graham Assistant Coach / Director of Basketball Operations mxg23g@acu.edu
+• Graham Harrell Associate Head Coach / Co-Offensive Coordinator / gsh25b@acu.edu
+• Ryan Pugh Offensive Line Coach rap22b@acu.edu
+• Jason Smith Running Backs Coach jks24a@acu.edu
+• Conor Dubin Linebackers Coach ctd22a@acu.edu
+• Stanton Keane Tight Ends Coach smk25b@acu.edu
+• Rob Bennett Head Coach rob.bennett@acu.edu
+• Jordan Burchette Assistant Coach jrb25c@acu.edu
+• Stephen Salas Head Coach stephen.salas@acu.edu
+• Audrey Adkison Associate Head Coach audrey.adkison@acu.edu
+• Kylie Gazza Assistant Coach kylie.gazza@acu.edu
+• Jo Koons Head Coach Jo.Koons@acu.edu
+• Campbell Hutcherson Assistant Coach cxh25h@acu.edu
+• Kenedy Hines Assistant Coach Kenedy.Hines@acu.edu
+• Juan Nuñez Head Coach juan.nunez@acu.edu
+• Bryan Rainwater Head Coach bcr04a@acu.edu
+• Anthony Acklin Associate Head Coach - Sprints/Hurdles/Jumps/Multis aea24c@acu.edu
+• Nathan Meeuwenberg Assistant Coach - Middle Distance/Distance/Cross nkm23a@acu.edu
+• Nathan Ott Assistant Coach - Throws nro25a@acu.edu
+• Ijeoma Moronu Alstrup Head Coach ijeoma.moronu@acu.edu
+• Chris Alstrup Assistant Coach Csa23a@acu.edu
+• Janice Pressley Assistant Coach jmp25a@acu.edu

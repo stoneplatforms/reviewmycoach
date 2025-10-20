@@ -1,0 +1,239 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:52
+============================================================
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. Robin Frohlich
+   Email: rfrohlich@simpsonu.edu
+   Username: rfrohlich
+   Original line: Robin Frohlich Assistant Women's Soccer Coach rfrohlich@simpsonu.edu
+
+2. Wilson Kessel
+   Email: wkessel@simpsonu.edu
+   Username: wkessel
+   Phone: (206) 799-1423
+   Original line: Wilson Kessel Associate Head Baseball Coach 206-799-1423 (c) wkessel@simpsonu.edu
+
+3. Dan Tating
+   Email: dtating@simpsonu.edu
+   Username: dtating
+   Phone: (530) 226-4184
+   Original line: Dan Tating Head Baseball Coach 530-226-4184 (o) dtating@simpsonu.edu
+
+4. Wilson Kessel
+   Email: wkessel@simpsonu.edu
+   Username: wkessel
+   Phone: (206) 799-1423
+   Original line: Wilson Kessel Associate Head Baseball Coach 206-799-1423 (c) wkessel@simpsonu.edu
+
+5. Paul Barrington
+   Email: pbarrington@simpsonu.edu
+   Username: pbarrington
+   Original line: Paul Barrington Assistant Baseball Coach pbarrington@simpsonu.edu
+
+6. David Cone
+   Email: dcone@simpsonu.edu
+   Username: dcone
+   Phone: (530) 226-4185
+   Original line: David Cone Head Men's Basketball Coach 530-226-4185 (o) dcone@simpsonu.edu
+
+7. Jordan Spaschak
+   Email: jspaschak@simpsonu.edu
+   Username: jspaschak
+   Original line: Jordan Spaschak Assistant Men's Basketball Coach jspaschak@simpsonu.edu
+
+8. Matt Doyon
+   Email: ddoyon@simpsonu.edu
+   Username: ddoyon
+   Original line: Matt Doyon Assistant Men's Basketball Coach ddoyon@simpsonu.edu
+
+9. Anthony Taylor
+   Email: ataylor@simpsonu.edu
+   Username: ataylor
+   Original line: Anthony Taylor Head Coach (760) 214 - 3703 ataylor@simpsonu.edu
+
+10. Michael Bray
+   Email: mbray@simpsonu.edu
+   Username: mbray
+   Original line: Michael Bray Head Coach mbray@simpsonu.edu
+
+11. Lance Jacobs
+   Email: ljacobs@simpsonu.edu
+   Username: ljacobs
+   Original line: Lance Jacobs Women's Beach Volleyball Head Coach ljacobs@simpsonu.edu
+
+12. Niki Burbank
+   Email: nburbank@simpsonu.edu
+   Username: nburbank
+   Original line: Niki Burbank Head Competitive Cheer Coach nburbank@simpsonu.edu
+
+13. Jonathan Hall
+   Email: jhall@simpsonu.edu
+   Username: jhall
+   Original line: Jonathan Hall Head Cross Country & Track & Field Coach jhall@simpsonu.edu
+
+14. Hayden Barnhurst
+   Email: hbarnhurst@simpsonu.edu
+   Username: hbarnhurst
+   Original line: Hayden Barnhurst Head Coach hbarnhurst@simpsonu.edu
+
+15. Shawn Daniel
+   Email: sdaniel@simpsonu.edu
+   Username: sdaniel
+   Phone: (530) 226-4505
+   Original line: Shawn Daniel Head Football Coach 530-226-4505 (o) sdaniel@simpsonu.edu
+
+16. Garrett Sandow
+   Email: gsandow@simpsonu.edu
+   Username: gsandow
+   Original line: Garrett Sandow Quarterbacks Coach gsandow@simpsonu.edu
+
+17. Andrew Motuapuaka
+   Email: amotuapuaka@simpsonu.edu
+   Username: amotuapuaka
+   Original line: Andrew Motuapuaka Special Teams Coordinator/Linebackers Coach amotuapuaka@simpsonu.edu
+
+18. Trevor Utter
+   Email: tutter@simpsonu.edu
+   Username: tutter
+   Phone: (406) 291-1154
+   Original line: Trevor Utter Wide Receivers/Tight Ends Coach 406-291-1154 tutter@simpsonu.edu
+
+19. Manny Casados
+   Email: coachcasadossu@gmail.com
+   Username: coachcasadossu
+   Phone: (530) 526-0189
+   Original line: Manny Casados Volunteer Assistant Coach 530-526-0189 coachcasadossu@gmail.com
+
+20. Jason Deaver
+   Email: jdeaver@simpsonu.edu
+   Username: jdeaver
+   Phone: (530)524-9090
+   Original line: Jason Deaver Golf Head Coach (530)524-9090 (C) jdeaver@simpsonu.edu
+
+21. Wayne Stower
+   Email: wstower@simpsonu.edu
+   Username: wstower
+   Phone: (530) 226-4530
+   Original line: Wayne Stower Head Softball Coach 530-226-4530 (o) wstower@simpsonu.edu
+
+22. Tom Ackernecht
+   Email: tackernect@simpsonu.edu
+   Username: tackernect
+   Original line: Tom Ackernecht Assistant Softball Coach tackernect@simpsonu.edu
+
+23. Raegan Breedlove
+   Email: rbreedlove2020@yahoo.com
+   Username: rbreedlove2020
+   Phone: (530)510-1792
+   Original line: Raegan Breedlove Pitching Coach (530)510-1792 rbreedlove2020@yahoo.com
+
+24. Gary Weaver
+   Email: Gweaver@simpsonu.edu
+   Username: Gweaver
+   Phone: (530) 226-4509
+   Original line: Gary Weaver Head Men's Soccer Coach 530-226-4509 (o) Gweaver@simpsonu.edu
+
+25. Daniel Morales
+   Email: dmorales@simpsonu.edu
+   Username: dmorales
+   Phone: (307) 321-4581
+   Original line: Daniel Morales Goalkeeper Coach (307) 321-4581 dmorales@simpsonu.edu
+
+26. Milton Carrera
+   Email: mcarrera@simpsonu.edu
+   Username: mcarrera
+   Phone: (530) 366-4410
+   Original line: Milton Carrera Head Women's Soccer Coach 530-366-4410 (c) mcarrera@simpsonu.edu
+
+27. Robin Frohlich
+   Email: rfrohlich@simpsonu.edu
+   Username: rfrohlich
+   Original line: Robin Frohlich Assistant Women's Soccer Coach rfrohlich@simpsonu.edu
+
+28. Victor Torres
+   Email: victort_70@yahoo.com
+   Username: victort_70
+   Phone: (530)941-8833
+   Original line: Victor Torres Sr. Goalkeepers Coach (530)941-8833 victort_70@yahoo.com
+
+29. Felix Moreno
+   Email: fmoreno@simpsonu.edu
+   Username: fmoreno
+   Phone: (530)933-1490
+   Original line: Felix Moreno Head Coach (530)933-1490 (C) fmoreno@simpsonu.edu
+
+30. Jonathan Hall
+   Email: jhall@simpsonu.edu
+   Username: jhall
+   Original line: Jonathan Hall Head Cross Country & Track & Field Coach jhall@simpsonu.edu
+
+31. Steven Brasher
+   Email: sbrasher@simpsonu.edu
+   Username: sbrasher
+   Phone: (916) 837-1553
+   Original line: Steven Brasher Head Men's Volleyball Coach 916-837-1553 (c) sbrasher@simpsonu.edu
+
+32. Steven Brasher
+   Email: sbrasher@simpsonu.edu
+   Username: sbrasher
+   Phone: (916) 837-1553
+   Original line: Steven Brasher Head Men's Volleyball Coach 916-837-1553 (c) sbrasher@simpsonu.edu
+
+33. Rodney Forseth
+   Email: rforseth@simpsonu.edu
+   Username: rforseth
+   Phone: (530) 524-5833
+   Original line: Rodney Forseth Head Men's Wrestling Coach 530-524-5833 (c) rforseth@simpsonu.edu
+
+34. Don Williams
+   Email: dwilliams@simpsonu.edu
+   Username: dwilliams
+   Original line: Don Williams Assistant Men's Wrestling Coach dwilliams@simpsonu.edu
+
+35. Erin Razo
+   Email: erazo@simpsonu.edu
+   Username: erazo
+   Original line: Erin Razo Head Coach Women's Wrestling erazo@simpsonu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Robin Frohlich Assistant Women's Soccer Coach rfrohlich@simpsonu.edu
+• Wilson Kessel Associate Head Baseball Coach 206-799-1423 (c) wkessel@simpsonu.edu
+• Dan Tating Head Baseball Coach 530-226-4184 (o) dtating@simpsonu.edu
+• Wilson Kessel Associate Head Baseball Coach 206-799-1423 (c) wkessel@simpsonu.edu
+• Paul Barrington Assistant Baseball Coach pbarrington@simpsonu.edu
+• David Cone Head Men's Basketball Coach 530-226-4185 (o) dcone@simpsonu.edu
+• Jordan Spaschak Assistant Men's Basketball Coach jspaschak@simpsonu.edu
+• Matt Doyon Assistant Men's Basketball Coach ddoyon@simpsonu.edu
+• Anthony Taylor Head Coach (760) 214 - 3703 ataylor@simpsonu.edu
+• Michael Bray Head Coach mbray@simpsonu.edu
+• Lance Jacobs Women's Beach Volleyball Head Coach ljacobs@simpsonu.edu
+• Niki Burbank Head Competitive Cheer Coach nburbank@simpsonu.edu
+• Jonathan Hall Head Cross Country & Track & Field Coach jhall@simpsonu.edu
+• Hayden Barnhurst Head Coach hbarnhurst@simpsonu.edu
+• Shawn Daniel Head Football Coach 530-226-4505 (o) sdaniel@simpsonu.edu
+• Garrett Sandow Quarterbacks Coach gsandow@simpsonu.edu
+• Andrew Motuapuaka Special Teams Coordinator/Linebackers Coach amotuapuaka@simpsonu.edu
+• Trevor Utter Wide Receivers/Tight Ends Coach 406-291-1154 tutter@simpsonu.edu
+• Manny Casados Volunteer Assistant Coach 530-526-0189 coachcasadossu@gmail.com
+• Jason Deaver Golf Head Coach (530)524-9090 (C) jdeaver@simpsonu.edu
+• Wayne Stower Head Softball Coach 530-226-4530 (o) wstower@simpsonu.edu
+• Tom Ackernecht Assistant Softball Coach tackernect@simpsonu.edu
+• Raegan Breedlove Pitching Coach (530)510-1792 rbreedlove2020@yahoo.com
+• Gary Weaver Head Men's Soccer Coach 530-226-4509 (o) Gweaver@simpsonu.edu
+• Daniel Morales Goalkeeper Coach (307) 321-4581 dmorales@simpsonu.edu
+• Milton Carrera Head Women's Soccer Coach 530-366-4410 (c) mcarrera@simpsonu.edu
+• Robin Frohlich Assistant Women's Soccer Coach rfrohlich@simpsonu.edu
+• Victor Torres Sr. Goalkeepers Coach (530)941-8833 victort_70@yahoo.com
+• Felix Moreno Head Coach (530)933-1490 (C) fmoreno@simpsonu.edu
+• Jonathan Hall Head Cross Country & Track & Field Coach jhall@simpsonu.edu
+• Steven Brasher Head Men's Volleyball Coach 916-837-1553 (c) sbrasher@simpsonu.edu
+• Steven Brasher Head Men's Volleyball Coach 916-837-1553 (c) sbrasher@simpsonu.edu
+• Rodney Forseth Head Men's Wrestling Coach 530-524-5833 (c) rforseth@simpsonu.edu
+• Don Williams Assistant Men's Wrestling Coach dwilliams@simpsonu.edu
+• Erin Razo Head Coach Women's Wrestling erazo@simpsonu.edu

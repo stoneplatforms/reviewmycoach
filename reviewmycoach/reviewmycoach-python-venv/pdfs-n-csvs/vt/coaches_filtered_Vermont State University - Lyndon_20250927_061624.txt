@@ -1,0 +1,44 @@
+COACH ENTRIES FOUND - 2025-09-27 06:16:24
+============================================================
+
+Total coaches found: 5
+
+PARSED ENTRIES:
+----------------------------------------
+1. David Pasiak
+   Email: David.Pasiak@VermontState.edu
+   Username: David.Pasiak
+   Phone: 802.427.1320
+   Original line: David Pasiak Head Men's Basketball Coach / David.Pasiak@VermontState.edu 802.427.1320 DavePasiak
+
+2. Cameron Curler
+   Email: Cameron.Curler@VermontState.edu
+   Username: Cameron.Curler
+   Phone: 802.345.2641
+   Original line: Cameron Curler Head Baseball Coach Cameron.Curler@VermontState.edu 802.345.2641 CCurler8
+
+3. Nate Stewart
+   Email: Nathan.Stewart@vermontstate.edu
+   Username: Nathan.Stewart
+   Original line: Nate Stewart Assistant Baseball Coach Nathan.Stewart@vermontstate.edu
+
+4. David Pasiak
+   Email: David.Pasiak@VermontState.edu
+   Username: David.Pasiak
+   Phone: 802.427.1320
+   Original line: David Pasiak Head Men's Basketball Coach / David.Pasiak@VermontState.edu 802.427.1320 DavePasiak
+
+5. Antonia Peretti
+   Email: Antonia.Peretti@vermontstate.edu
+   Username: Antonia.Peretti
+   Original line: Antonia Peretti Head Softball Coach Antonia.Peretti@vermontstate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• David Pasiak Head Men's Basketball Coach / David.Pasiak@VermontState.edu 802.427.1320 DavePasiak
+• Cameron Curler Head Baseball Coach Cameron.Curler@VermontState.edu 802.345.2641 CCurler8
+• Nate Stewart Assistant Baseball Coach Nathan.Stewart@vermontstate.edu
+• David Pasiak Head Men's Basketball Coach / David.Pasiak@VermontState.edu 802.427.1320 DavePasiak
+• Antonia Peretti Head Softball Coach Antonia.Peretti@vermontstate.edu

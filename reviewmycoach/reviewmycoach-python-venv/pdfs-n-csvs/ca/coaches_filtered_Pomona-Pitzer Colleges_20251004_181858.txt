@@ -1,0 +1,503 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:59
+============================================================
+
+Total coaches found: 82
+
+PARSED ENTRIES:
+----------------------------------------
+1. Valerie Townsend
+   Email: vgc04747@pomona.edu
+   Username: vgc04747
+   Original line: Valerie Townsend Volleyball Coach; Physical Education Coordinator vgc04747@pomona.edu 909-607-
+
+2. Greg Hook
+   Email: gregory.hook@pomona.edu
+   Username: gregory.hook
+   Original line: Greg Hook Head Athletic Performance Coach gregory.hook@pomona.edu 909 607-
+
+3. Michael Surina
+   Email: Michael.Surina@pomona.edu
+   Username: Michael.Surina
+   Original line: Michael Surina Assistant Baseball Coach and Recruiting Coordinator Michael.Surina@pomona.edu
+
+4. Jason Staub
+   Email: Jason.Staub@Pomona.edu
+   Username: Jason.Staub
+   Original line: Jason Staub Assistant Coach – Baseball | Strength & Conditioning Coach Jason.Staub@Pomona.edu
+
+5. Anthony Lim
+   Email: Anthony.Lim@Pomona.edu
+   Username: Anthony.Lim
+   Original line: Anthony Lim Assistant Baseball Coach Anthony.Lim@Pomona.edu
+
+6. Thomas Thongmee
+   Email: tthongme@pitzer.edu
+   Username: tthongme
+   Original line: Thomas Thongmee Director of Baseball Analytics/Offensive Line Coach, Recruiting tthongme@pitzer.edu
+
+7. Alaina Woo
+   Email: alaina.woo@pomona.edu
+   Username: alaina.woo
+   Original line: Alaina Woo Head Women's Basketball Coach alaina.woo@pomona.edu (909)
+
+8. Margeaux Gupilan
+   Email: margeaux.gupilan@pomona.edu
+   Username: margeaux.gupilan
+   Original line: Margeaux Gupilan Assistant Women's Basketball Coach margeaux.gupilan@pomona.edu
+
+9. Raquel Viramontes
+   Email: raquel.viramontes@pomona.edu
+   Username: raquel.viramontes
+   Original line: Raquel Viramontes Assistant Women's Basketball Coach raquel.viramontes@pomona.edu
+
+10. Charles Katsiaficas
+   Email: charles.katsiaficas@pomona.edu
+   Username: charles.katsiaficas
+   Original line: Charles Katsiaficas Men's Basketball Coach charles.katsiaficas@pomona.edu 909-621-
+
+11. Shawn Lokar
+   Email: Shawn.Lokar@pomona.edu
+   Username: Shawn.Lokar
+   Original line: Shawn Lokar Assistant Men's Basketball Coach Shawn.Lokar@pomona.edu
+
+12. John Walsh
+   Email: john.walsh@pomona.edu
+   Username: john.walsh
+   Original line: John Walsh Head Football Coach john.walsh@pomona.edu 909-621-
+
+13. Jon Hart
+   Email: jhartcoach@hotmail.com
+   Username: jhartcoach
+   Original line: Jon Hart Outside Linebacker Coach/ Kicker Coach jhartcoach@hotmail.com
+
+14. Kevin Cummings
+   Email: KCummings@pennylane.org
+   Username: KCummings
+   Original line: Kevin Cummings Running Backs Coach KCummings@pennylane.org
+
+15. RJ Maki
+   Email: Robert.maki@pomona.edu
+   Username: Robert.maki
+   Original line: RJ Maki Wide Receivers Coach; BTEP Coordinator Robert.maki@pomona.edu
+
+16. Thomas Thongmee
+   Email: tthongme@pitzer.edu
+   Username: tthongme
+   Original line: Thomas Thongmee Director of Baseball Analytics/Offensive Line Coach, Recruiting tthongme@pitzer.edu
+
+17. Vaishnav Siddapureddy
+   Email: vrsa2018@pomona.edu
+   Username: vrsa2018
+   Original line: Vaishnav Siddapureddy Defensive Backs Coach vrsa2018@pomona.edu
+
+18. Dennis Hester
+   Email: Dennis.Hester@Pomona.edu
+   Username: Dennis.Hester
+   Original line: Dennis Hester Quarterbacks Coach Dennis.Hester@Pomona.edu
+
+19. John Wurzer
+   Email: John.Wurzer@pomona.edu
+   Username: John.Wurzer
+   Original line: John Wurzer Head Golf Coach John.Wurzer@pomona.edu
+
+20. Sarah Queener
+   Email: sarah.queener@pomona.edu
+   Username: sarah.queener
+   Original line: Sarah Queener Women's Lacrosse Coach sarah.queener@pomona.edu 315-719-
+
+21. Brian Eisenberg
+   Email: Brian.Eisenberg@pomona.edu
+   Username: Brian.Eisenberg
+   Original line: Brian Eisenberg Assistant Lacrosse Coach Brian.Eisenberg@pomona.edu
+
+22. Sylvia Queener
+   Email: Sylvia.queener@pomona.edu
+   Username: Sylvia.queener
+   Original line: Sylvia Queener Assistant Women's Lacrosse Coach Sylvia.queener@pomona.edu
+
+23. Jennifer Scanlon
+   Email: jennifer.scanlon@pomona.edu
+   Username: jennifer.scanlon
+   Original line: Jennifer Scanlon Women's Soccer Coach jennifer.scanlon@pomona.edu 909-607-
+
+24. Miranda Armstrong
+   Email: ppsoccer@pomona.edu
+   Username: ppsoccer
+   Original line: Miranda Armstrong Assistant Soccer Coach ppsoccer@pomona.edu
+
+25. Bernard Hoffrogge
+   Email: ppsoccer@pomona.edu
+   Username: ppsoccer
+   Original line: Bernard Hoffrogge Assistant Soccer Coach ppsoccer@pomona.edu
+
+26. Ann-Marie O'Connell
+   Email: ppsoccer@pomona.edu
+   Username: ppsoccer
+   Original line: Ann-Marie O'Connell Assistant Coach ppsoccer@pomona.edu
+
+27. Clint Moore
+   Email: Clint.Moore@Pomona.edu
+   Username: Clint.Moore
+   Original line: Clint Moore Head Men's Soccer Coach Clint.Moore@Pomona.edu
+
+28. Jen Clark
+   Email: jennifer.clark@pomona.edu
+   Username: jennifer.clark
+   Original line: Jen Clark Assistant Soccer Coach jennifer.clark@pomona.edu
+
+29. Jorge Guillen
+   Email: jorge.guillen-lopez@pomona.edu
+   Username: jorge.guillen-lopez
+   Original line: Jorge Guillen Lopez Assistant Soccer Coach jorge.guillen-lopez@pomona.edu
+
+30. JoAnne Ferguson
+   Email: joanne.ferguson@pomona.edu
+   Username: joanne.ferguson
+   Original line: JoAnne Ferguson Softball Coach joanne.ferguson@pomona.edu 909-607-
+
+31. Julie Smith
+   Email: Julie.Smith@Pomona.edu
+   Username: Julie.Smith
+   Original line: Julie Smith Associate Head Softball Coach Julie.Smith@Pomona.edu
+
+32. Liz Rodarte
+   Email: Elizabeth.Rodarte@Pomona.edu
+   Username: Elizabeth.Rodarte
+   Original line: Liz Rodarte Assistant Softball Coach Elizabeth.Rodarte@Pomona.edu
+
+33. Ann-Marie O'Connell
+   Email: ppsoccer@pomona.edu
+   Username: ppsoccer
+   Original line: Ann-Marie O'Connell Assistant Coach ppsoccer@pomona.edu
+
+34. Mike Morgan
+   Email: Michael.Morgan@pomona.edu
+   Username: Michael.Morgan
+   Original line: Mike Morgan Head Women's Tennis Coach Michael.Morgan@pomona.edu 909-607-
+
+35. Steve Bickham
+   Email: steve.bickham@pomona.edu
+   Username: steve.bickham
+   Original line: Steve Bickham Men's Tennis Coach steve.bickham@pomona.edu 909-621-
+
+36. Matthew Feng
+   Email: matthew.feng@pomona.edu
+   Username: matthew.feng
+   Original line: Matthew Feng Assistant Men's Tennis Coach matthew.feng@pomona.edu
+
+37. Kirk Reynolds
+   Email: kreynolds@pomona.edu
+   Username: kreynolds
+   Original line: Kirk Reynolds Head Women's Cross Country and Track & Field Coach kreynolds@pomona.edu 909-621-
+
+38. Emma DeLira
+   Email: Emmanuelle.DeLira@pomona.edu
+   Username: Emmanuelle.DeLira
+   Original line: Emma DeLira Associate Head Coach of Cross Country and Track & Field/Recruiting Emmanuelle.DeLira@pomona.edu
+
+39. Christian Mora
+   Email: Christian.Mora@pomona.edu
+   Username: Christian.Mora
+   Original line: Christian Mora Assistant Cross Country Coach Christian.Mora@pomona.edu
+
+40. Adam Alnazer
+   Email: Ahmad.Alnazer@pomona.edu
+   Username: Ahmad.Alnazer
+   Original line: Adam Alnazer Assistant Cross Country Coach Ahmad.Alnazer@pomona.edu
+
+41. Amber Williams
+   Email: Amber.Williams@Pomona.edu
+   Username: Amber.Williams
+   Original line: Amber Williams Men's Cross Country and Track & Field Coach Amber.Williams@Pomona.edu 909-607-
+
+42. Emma DeLira
+   Email: Emmanuelle.DeLira@pomona.edu
+   Username: Emmanuelle.DeLira
+   Original line: Emma DeLira Associate Head Coach of Cross Country and Track & Field/Recruiting Emmanuelle.DeLira@pomona.edu
+
+43. Christian Mora
+   Email: Christian.Mora@pomona.edu
+   Username: Christian.Mora
+   Original line: Christian Mora Assistant Cross Country Coach Christian.Mora@pomona.edu
+
+44. Adam Alnazer
+   Email: Ahmad.Alnazer@pomona.edu
+   Username: Ahmad.Alnazer
+   Original line: Adam Alnazer Assistant Cross Country Coach Ahmad.Alnazer@pomona.edu
+
+45. Kirk Reynolds
+   Email: kreynolds@pomona.edu
+   Username: kreynolds
+   Original line: Kirk Reynolds Head Women's Cross Country and Track & Field Coach kreynolds@pomona.edu 909-621-
+
+46. Emma DeLira
+   Email: Emmanuelle.DeLira@pomona.edu
+   Username: Emmanuelle.DeLira
+   Original line: Emma DeLira Associate Head Coach of Cross Country and Track & Field/Recruiting Emmanuelle.DeLira@pomona.edu
+
+47. Greg Hook
+   Email: gregory.hook@pomona.edu
+   Username: gregory.hook
+   Original line: Greg Hook Head Athletic Performance Coach gregory.hook@pomona.edu 909 607-
+
+48. Bob Ramsey
+   Email: Robert.Ramsey2@pomona.edu
+   Username: Robert.Ramsey2
+   Original line: Bob Ramsey Assistant Track & Field Coach - Jumps Robert.Ramsey2@pomona.edu
+
+49. Amber Williams
+   Email: Amber.Williams@Pomona.edu
+   Username: Amber.Williams
+   Original line: Amber Williams Men's Cross Country and Track & Field Coach Amber.Williams@Pomona.edu 909-607-
+
+50. Emma DeLira
+   Email: Emmanuelle.DeLira@pomona.edu
+   Username: Emmanuelle.DeLira
+   Original line: Emma DeLira Associate Head Coach of Cross Country and Track & Field/Recruiting Emmanuelle.DeLira@pomona.edu
+
+51. Greg Hook
+   Email: gregory.hook@pomona.edu
+   Username: gregory.hook
+   Original line: Greg Hook Head Athletic Performance Coach gregory.hook@pomona.edu 909 607-
+
+52. Bob Ramsey
+   Email: Robert.Ramsey2@pomona.edu
+   Username: Robert.Ramsey2
+   Original line: Bob Ramsey Assistant Track & Field Coach - Jumps Robert.Ramsey2@pomona.edu
+
+53. Valerie Townsend
+   Email: vgc04747@pomona.edu
+   Username: vgc04747
+   Original line: Valerie Townsend Volleyball Coach; Physical Education Coordinator vgc04747@pomona.edu 909-607-
+
+54. Cassidy Gonzales
+   Email: PPVB@pomona.edu
+   Username: PPVB
+   Original line: Cassidy Gonzales Assistant Coach PPVB@pomona.edu
+
+55. Jodi Postlmayr
+   Email: PPVB@pomona.edu
+   Username: PPVB
+   Original line: Jodi Postlmayr Assistant Coach PPVB@pomona.edu
+
+56. Alecza Abary
+   Email: aanb2024@pomona.edu
+   Username: aanb2024
+   Original line: Alecza Abary Assistant Volleyball Coach aanb2024@pomona.edu
+
+57. Jean-Paul Gowdy
+   Email: Jean-Paul.Gowdy@pomona.edu
+   Username: Jean-Paul.Gowdy
+   Original line: Jean-Paul Gowdy Head Men's and Women's Swimming and Diving Coach Jean-Paul.Gowdy@pomona.edu 909-607-
+
+58. Jenel Day
+   Email: jlag2021@pomona.edu
+   Username: jlag2021
+   Original line: Jenel Day Associate Head Swimming & Diving Coach jlag2021@pomona.edu 909-607-
+
+59. Chris Depew
+   Email: chris.depew@pomona.edu
+   Username: chris.depew
+   Original line: Chris Depew Assistant Swimming & Diving Coach chris.depew@pomona.edu
+
+60. Cara Wong
+   Email: cara.wong@cgu.edu
+   Username: cara.wong
+   Original line: Cara Wong Assistant Swimming & Diving Coach cara.wong@cgu.edu
+
+61. Anna Haaksma
+   Email: Anna.Haaksma@pomona.edu
+   Username: Anna.Haaksma
+   Original line: Anna Haaksma Assistant Swimming & Diving Coach Anna.Haaksma@pomona.edu
+
+62. Paige Tattersall
+   Email: paige.tattersall@pomona.edu
+   Username: paige.tattersall
+   Original line: Paige Tattersall Assistant Swimming & Diving Coach paige.tattersall@pomona.edu
+
+63. Miguel Rodriguez
+   Email: mar02003@mymail.pomona.edu
+   Username: mar02003
+   Original line: Miguel Rodriguez Diving Coach mar02003@mymail.pomona.edu
+
+64. Jean-Paul Gowdy
+   Email: Jean-Paul.Gowdy@pomona.edu
+   Username: Jean-Paul.Gowdy
+   Original line: Jean-Paul Gowdy Head Men's and Women's Swimming and Diving Coach Jean-Paul.Gowdy@pomona.edu 909-607-
+
+65. Jenel Day
+   Email: jlag2021@pomona.edu
+   Username: jlag2021
+   Original line: Jenel Day Associate Head Swimming & Diving Coach jlag2021@pomona.edu 909-607-
+
+66. Chris Depew
+   Email: chris.depew@pomona.edu
+   Username: chris.depew
+   Original line: Chris Depew Assistant Swimming & Diving Coach chris.depew@pomona.edu
+
+67. Cara Wong
+   Email: cara.wong@cgu.edu
+   Username: cara.wong
+   Original line: Cara Wong Assistant Swimming & Diving Coach cara.wong@cgu.edu
+
+68. Anna Haaksma
+   Email: Anna.Haaksma@pomona.edu
+   Username: Anna.Haaksma
+   Original line: Anna Haaksma Assistant Swimming & Diving Coach Anna.Haaksma@pomona.edu
+
+69. Paige Tattersall
+   Email: paige.tattersall@pomona.edu
+   Username: paige.tattersall
+   Original line: Paige Tattersall Assistant Swimming & Diving Coach paige.tattersall@pomona.edu
+
+70. Miguel Rodriguez
+   Email: mar02003@mymail.pomona.edu
+   Username: mar02003
+   Original line: Miguel Rodriguez Diving Coach mar02003@mymail.pomona.edu
+
+71. Alex Rodriguez
+   Email: alexander.rodriguez@pomona.edu
+   Username: alexander.rodriguez
+   Original line: Alex Rodriguez Men's & Women's Water Polo Coach alexander.rodriguez@pomona.edu (909)
+
+72. Alex La
+   Email: alex.la@pomona.edu
+   Username: alex.la
+   Original line: Alex La Associate Head Water Polo Coach alex.la@pomona.edu (909)
+
+73. Guillermo Ocasio
+   Email: Guillermo.ocasio@pomona.edu
+   Username: Guillermo.ocasio
+   Original line: Guillermo Ocasio Assistant Water Polo Coach Guillermo.ocasio@pomona.edu 949-836-
+
+74. Mary Brooks
+   Email: Mary.Brooks@Pomona.edu
+   Username: Mary.Brooks
+   Original line: Mary Brooks Assistant Water Polo Coach Mary.Brooks@Pomona.edu
+
+75. Brian Heider
+   Email: brian.heider@pomona.edu
+   Username: brian.heider
+   Original line: Brian Heider Assistant Water Polo Coach brian.heider@pomona.edu
+
+76. Alex Rodriguez
+   Email: alexander.rodriguez@pomona.edu
+   Username: alexander.rodriguez
+   Original line: Alex Rodriguez Men's & Women's Water Polo Coach alexander.rodriguez@pomona.edu (909)
+
+77. Alex La
+   Email: alex.la@pomona.edu
+   Username: alex.la
+   Original line: Alex La Associate Head Water Polo Coach alex.la@pomona.edu (909)
+
+78. Guillermo Ocasio
+   Email: Guillermo.ocasio@pomona.edu
+   Username: Guillermo.ocasio
+   Original line: Guillermo Ocasio Assistant Water Polo Coach Guillermo.ocasio@pomona.edu 949-836-
+
+79. Mary Brooks
+   Email: Mary.Brooks@Pomona.edu
+   Username: Mary.Brooks
+   Original line: Mary Brooks Assistant Water Polo Coach Mary.Brooks@Pomona.edu
+
+80. Roger Caron
+   Email: roger.caron@pomona.edu
+   Username: roger.caron
+   Original line: Roger Caron Former Football Coach roger.caron@pomona.edu
+
+81. Ann Lebedeff
+   Email: alebedeff@pomona.edu
+   Username: alebedeff
+   Original line: Ann Lebedeff Former Women's Tennis Coach alebedeff@pomona.edu
+
+82. Kathy Connell
+   Email: drktc52@charter.net
+   Username: drktc52
+   Original line: Kathy Connell Former Women's Basketball Coach drktc52@charter.net
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Valerie Townsend Volleyball Coach; Physical Education Coordinator vgc04747@pomona.edu 909-607-
+• Greg Hook Head Athletic Performance Coach gregory.hook@pomona.edu 909 607-
+• Michael Surina Assistant Baseball Coach and Recruiting Coordinator Michael.Surina@pomona.edu
+• Jason Staub Assistant Coach – Baseball | Strength & Conditioning Coach Jason.Staub@Pomona.edu
+• Anthony Lim Assistant Baseball Coach Anthony.Lim@Pomona.edu
+• Thomas Thongmee Director of Baseball Analytics/Offensive Line Coach, Recruiting tthongme@pitzer.edu
+• Alaina Woo Head Women's Basketball Coach alaina.woo@pomona.edu (909)
+• Margeaux Gupilan Assistant Women's Basketball Coach margeaux.gupilan@pomona.edu
+• Raquel Viramontes Assistant Women's Basketball Coach raquel.viramontes@pomona.edu
+• Charles Katsiaficas Men's Basketball Coach charles.katsiaficas@pomona.edu 909-621-
+• Shawn Lokar Assistant Men's Basketball Coach Shawn.Lokar@pomona.edu
+• John Walsh Head Football Coach john.walsh@pomona.edu 909-621-
+• Jon Hart Outside Linebacker Coach/ Kicker Coach jhartcoach@hotmail.com
+• Kevin Cummings Running Backs Coach KCummings@pennylane.org
+• RJ Maki Wide Receivers Coach; BTEP Coordinator Robert.maki@pomona.edu
+• Thomas Thongmee Director of Baseball Analytics/Offensive Line Coach, Recruiting tthongme@pitzer.edu
+• Vaishnav Siddapureddy Defensive Backs Coach vrsa2018@pomona.edu
+• Dennis Hester Quarterbacks Coach Dennis.Hester@Pomona.edu
+• John Wurzer Head Golf Coach John.Wurzer@pomona.edu
+• Sarah Queener Women's Lacrosse Coach sarah.queener@pomona.edu 315-719-
+• Brian Eisenberg Assistant Lacrosse Coach Brian.Eisenberg@pomona.edu
+• Sylvia Queener Assistant Women's Lacrosse Coach Sylvia.queener@pomona.edu
+• Jennifer Scanlon Women's Soccer Coach jennifer.scanlon@pomona.edu 909-607-
+• Miranda Armstrong Assistant Soccer Coach ppsoccer@pomona.edu
+• Bernard Hoffrogge Assistant Soccer Coach ppsoccer@pomona.edu
+• Ann-Marie O'Connell Assistant Coach ppsoccer@pomona.edu
+• Clint Moore Head Men's Soccer Coach Clint.Moore@Pomona.edu
+• Jen Clark Assistant Soccer Coach jennifer.clark@pomona.edu
+• Jorge Guillen Lopez Assistant Soccer Coach jorge.guillen-lopez@pomona.edu
+• JoAnne Ferguson Softball Coach joanne.ferguson@pomona.edu 909-607-
+• Julie Smith Associate Head Softball Coach Julie.Smith@Pomona.edu
+• Liz Rodarte Assistant Softball Coach Elizabeth.Rodarte@Pomona.edu
+• Ann-Marie O'Connell Assistant Coach ppsoccer@pomona.edu
+• Mike Morgan Head Women's Tennis Coach Michael.Morgan@pomona.edu 909-607-
+• Steve Bickham Men's Tennis Coach steve.bickham@pomona.edu 909-621-
+• Matthew Feng Assistant Men's Tennis Coach matthew.feng@pomona.edu
+• Kirk Reynolds Head Women's Cross Country and Track & Field Coach kreynolds@pomona.edu 909-621-
+• Emma DeLira Associate Head Coach of Cross Country and Track & Field/Recruiting Emmanuelle.DeLira@pomona.edu
+• Christian Mora Assistant Cross Country Coach Christian.Mora@pomona.edu
+• Adam Alnazer Assistant Cross Country Coach Ahmad.Alnazer@pomona.edu
+• Amber Williams Men's Cross Country and Track & Field Coach Amber.Williams@Pomona.edu 909-607-
+• Emma DeLira Associate Head Coach of Cross Country and Track & Field/Recruiting Emmanuelle.DeLira@pomona.edu
+• Christian Mora Assistant Cross Country Coach Christian.Mora@pomona.edu
+• Adam Alnazer Assistant Cross Country Coach Ahmad.Alnazer@pomona.edu
+• Kirk Reynolds Head Women's Cross Country and Track & Field Coach kreynolds@pomona.edu 909-621-
+• Emma DeLira Associate Head Coach of Cross Country and Track & Field/Recruiting Emmanuelle.DeLira@pomona.edu
+• Greg Hook Head Athletic Performance Coach gregory.hook@pomona.edu 909 607-
+• Bob Ramsey Assistant Track & Field Coach - Jumps Robert.Ramsey2@pomona.edu
+• Amber Williams Men's Cross Country and Track & Field Coach Amber.Williams@Pomona.edu 909-607-
+• Emma DeLira Associate Head Coach of Cross Country and Track & Field/Recruiting Emmanuelle.DeLira@pomona.edu
+• Greg Hook Head Athletic Performance Coach gregory.hook@pomona.edu 909 607-
+• Bob Ramsey Assistant Track & Field Coach - Jumps Robert.Ramsey2@pomona.edu
+• Valerie Townsend Volleyball Coach; Physical Education Coordinator vgc04747@pomona.edu 909-607-
+• Cassidy Gonzales Assistant Coach PPVB@pomona.edu
+• Jodi Postlmayr Assistant Coach PPVB@pomona.edu
+• Alecza Abary Assistant Volleyball Coach aanb2024@pomona.edu
+• Jean-Paul Gowdy Head Men's and Women's Swimming and Diving Coach Jean-Paul.Gowdy@pomona.edu 909-607-
+• Jenel Day Associate Head Swimming & Diving Coach jlag2021@pomona.edu 909-607-
+• Chris Depew Assistant Swimming & Diving Coach chris.depew@pomona.edu
+• Cara Wong Assistant Swimming & Diving Coach cara.wong@cgu.edu
+• Anna Haaksma Assistant Swimming & Diving Coach Anna.Haaksma@pomona.edu
+• Paige Tattersall Assistant Swimming & Diving Coach paige.tattersall@pomona.edu
+• Miguel Rodriguez Diving Coach mar02003@mymail.pomona.edu
+• Jean-Paul Gowdy Head Men's and Women's Swimming and Diving Coach Jean-Paul.Gowdy@pomona.edu 909-607-
+• Jenel Day Associate Head Swimming & Diving Coach jlag2021@pomona.edu 909-607-
+• Chris Depew Assistant Swimming & Diving Coach chris.depew@pomona.edu
+• Cara Wong Assistant Swimming & Diving Coach cara.wong@cgu.edu
+• Anna Haaksma Assistant Swimming & Diving Coach Anna.Haaksma@pomona.edu
+• Paige Tattersall Assistant Swimming & Diving Coach paige.tattersall@pomona.edu
+• Miguel Rodriguez Diving Coach mar02003@mymail.pomona.edu
+• Alex Rodriguez Men's & Women's Water Polo Coach alexander.rodriguez@pomona.edu (909)
+• Alex La Associate Head Water Polo Coach alex.la@pomona.edu (909)
+• Guillermo Ocasio Assistant Water Polo Coach Guillermo.ocasio@pomona.edu 949-836-
+• Mary Brooks Assistant Water Polo Coach Mary.Brooks@Pomona.edu
+• Brian Heider Assistant Water Polo Coach brian.heider@pomona.edu
+• Alex Rodriguez Men's & Women's Water Polo Coach alexander.rodriguez@pomona.edu (909)
+• Alex La Associate Head Water Polo Coach alex.la@pomona.edu (909)
+• Guillermo Ocasio Assistant Water Polo Coach Guillermo.ocasio@pomona.edu 949-836-
+• Mary Brooks Assistant Water Polo Coach Mary.Brooks@Pomona.edu
+• Roger Caron Former Football Coach roger.caron@pomona.edu
+• Ann Lebedeff Former Women's Tennis Coach alebedeff@pomona.edu
+• Kathy Connell Former Women's Basketball Coach drktc52@charter.net

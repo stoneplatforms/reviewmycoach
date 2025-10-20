@@ -1,0 +1,179 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:39
+============================================================
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Lane Brewer
+   Email: lbrewer@emporia.edu
+   Username: lbrewer
+   Original line: Lane Brewer Assistant Sports Performance Coach lbrewer@emporia.edu
+
+2. John Martin
+   Email: jmartin@emporia.edu
+   Username: jmartin
+   Original line: John Martin Head Baseball Coach jmartin@emporia.edu
+
+3. Anthony Caenepeel
+   Email: acaenepe@emporia.edu
+   Username: acaenepe
+   Original line: Anthony Caenepeel Pitching Coach acaenepe@emporia.edu
+
+4. Tom Billeter
+   Email: tbillete@emporia.edu
+   Username: tbillete
+   Original line: Tom Billeter Head Coach tbillete@emporia.edu
+
+5. Casey Schlatter
+   Email: cschlatt@emporia.edu
+   Username: cschlatt
+   Original line: Casey Schlatter Associate Head Coach cschlatt@emporia.edu
+
+6. Devin Whitelow
+   Email: dwhitelo@emporia.edu
+   Username: dwhitelo
+   Original line: Devin Whitelow Assistant Coach dwhitelo@emporia.edu
+
+7. MJ Baker
+   Email: mbaker25@emporia.edu
+   Username: mbaker25
+   Original line: MJ Baker Head Coach mbaker25@emporia.edu 757- 814-
+
+8. Josh Boland
+   Email: jboland@emporia.edu
+   Username: jboland
+   Original line: Josh Boland Assistant Coach jboland@emporia.edu
+
+9. Taylor Jones
+   Email: tjones33@emporia.edu
+   Username: tjones33
+   Original line: Taylor Jones Assistant Coach tjones33@emporia.edu
+
+10. Eric McCabe
+   Email: emccabe2@emporia.edu
+   Username: emccabe2
+   Original line: Eric McCabe Head Coach emccabe2@emporia.edu 620-341-
+
+11. Garin Higgins
+   Email: ghiggins@emporia.edu
+   Username: ghiggins
+   Original line: Garin Higgins Head Football Coach ghiggins@emporia.edu @CoachGHiggins
+
+12. Mike LoPorto
+   Email: mloporto@emporia.edu
+   Username: mloporto
+   Original line: Mike LoPorto Associate Head Coach/Defensive mloporto@emporia.edu @CoachMLoPo
+
+13. Vincent Cashdollar
+   Email: vcashdol@emporia.edu
+   Username: vcashdol
+   Original line: Vincent Cashdollar Offensive Coordinator/Offensive Line vcashdol@emporia.edu @CoachCash1
+
+14. Jace McDown
+   Email: jmcdown@emporia.edu
+   Username: jmcdown
+   Original line: Jace McDown Co-Defensive Coordinator/Defensive jmcdown@emporia.edu @coachmcdown
+
+15. Jane Grimley-Gunn
+   Email: jgrimley@emporia.edu
+   Username: jgrimley
+   Original line: Jane Grimley-Gunn Head Soccer Coach jgrimley@emporia.edu 856-341-
+
+16. Thomas Bledsoe
+   Email: tbledso1@emporia.edu
+   Username: tbledso1
+   Original line: Thomas Bledsoe Assistant Coach tbledso1@emporia.edu
+
+17. April Rosales
+   Email: ahuddles@emporia.edu
+   Username: ahuddles
+   Original line: April Rosales Head Softball Coach ahuddles@emporia.edu 620-341- @EState_Softball
+
+18. Megan Hill
+   Email: mdavison@emporia.edu
+   Username: mdavison
+   Original line: Megan Hill Assistant Coach mdavison@emporia.edu 620-341-
+
+19. Aaron Hammond
+   Email: aaronhammond1988@gmail.com
+   Username: aaronhammond1988
+   Original line: Aaron Hammond Assistant Coach aaronhammond1988@gmail.com 620-341-
+
+20. Dustin Snyder
+   Email: dsnyder4@g.emporia.edu
+   Username: dsnyder4
+   Original line: Dustin Snyder Assistant Coach dsnyder4@g.emporia.edu 620-341-
+
+21. Cyrielle Peyroche
+   Email: cpeyroch@emporia.edu
+   Username: cpeyroch
+   Original line: Cyrielle Peyroche Head Coach cpeyroch@emporia.edu (620) 803-
+
+22. John Blackburn
+   Email: jblackbu@emporia.edu
+   Username: jblackbu
+   Original line: John Blackburn Director of Tennis/Men's Head Coach jblackbu@emporia.edu
+
+23. Seth Mischke
+   Email: smischke@emporia.edu
+   Username: smischke
+   Original line: Seth Mischke Head Coach smischke@emporia.edu
+
+24. Kellsey Trimble
+   Email: ktrimbl1@emporia.edu
+   Username: ktrimbl1
+   Original line: Kellsey Trimble Assistant Coach-Throws ktrimbl1@emporia.edu 620-341-
+
+25. Payson Maydew
+   Email: pmaydew@emporia.edu
+   Username: pmaydew
+   Original line: Payson Maydew Assistant Coach - Combined Events pmaydew@emporia.edu 620-341-
+
+26. Tim Byers
+   Email: tbyers2@emporia.edu
+   Username: tbyers2
+   Original line: Tim Byers Assistant Coach - Sprints/Jumps tbyers2@emporia.edu
+
+27. Ken Murczek
+   Email: kmurczek@emporia.edu
+   Username: kmurczek
+   Original line: Ken Murczek Head Volleyball Coach kmurczek@emporia.edu
+
+28. Jeff Grove
+   Email: jgrove1@emporia.edu
+   Username: jgrove1
+   Original line: Jeff Grove Associate Head Coach jgrove1@emporia.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Lane Brewer Assistant Sports Performance Coach lbrewer@emporia.edu
+• John Martin Head Baseball Coach jmartin@emporia.edu
+• Anthony Caenepeel Pitching Coach acaenepe@emporia.edu
+• Tom Billeter Head Coach tbillete@emporia.edu
+• Casey Schlatter Associate Head Coach cschlatt@emporia.edu
+• Devin Whitelow Assistant Coach dwhitelo@emporia.edu
+• MJ Baker Head Coach mbaker25@emporia.edu 757- 814-
+• Josh Boland Assistant Coach jboland@emporia.edu
+• Taylor Jones Assistant Coach tjones33@emporia.edu
+• Eric McCabe Head Coach emccabe2@emporia.edu 620-341-
+• Garin Higgins Head Football Coach ghiggins@emporia.edu @CoachGHiggins
+• Mike LoPorto Associate Head Coach/Defensive mloporto@emporia.edu @CoachMLoPo
+• Vincent Cashdollar Offensive Coordinator/Offensive Line vcashdol@emporia.edu @CoachCash1
+• Jace McDown Co-Defensive Coordinator/Defensive jmcdown@emporia.edu @coachmcdown
+• Jane Grimley-Gunn Head Soccer Coach jgrimley@emporia.edu 856-341-
+• Thomas Bledsoe Assistant Coach tbledso1@emporia.edu
+• April Rosales Head Softball Coach ahuddles@emporia.edu 620-341- @EState_Softball
+• Megan Hill Assistant Coach mdavison@emporia.edu 620-341-
+• Aaron Hammond Assistant Coach aaronhammond1988@gmail.com 620-341-
+• Dustin Snyder Assistant Coach dsnyder4@g.emporia.edu 620-341-
+• Cyrielle Peyroche Head Coach cpeyroch@emporia.edu (620) 803-
+• John Blackburn Director of Tennis/Men's Head Coach jblackbu@emporia.edu
+• Seth Mischke Head Coach smischke@emporia.edu
+• Kellsey Trimble Assistant Coach-Throws ktrimbl1@emporia.edu 620-341-
+• Payson Maydew Assistant Coach - Combined Events pmaydew@emporia.edu 620-341-
+• Tim Byers Assistant Coach - Sprints/Jumps tbyers2@emporia.edu
+• Ken Murczek Head Volleyball Coach kmurczek@emporia.edu
+• Jeff Grove Associate Head Coach jgrove1@emporia.edu

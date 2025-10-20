@@ -1,0 +1,101 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:22
+============================================================
+
+Total coaches found: 15
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: sabol1jr@cmich.edu
+   Username: sabol1jr
+   Original line: Head Coach sabol1jr@cmich.edu
+
+2. Assistant Coach
+   Email: walte2dl@cmich.edu
+   Username: walte2dl
+   Original line: Assistant Coach walte2dl@cmich.edu
+
+3. Assistant Coach
+   Email: hilt1aj@cmich.edu
+   Username: hilt1aj
+   Original line: Assistant Coach hilt1aj@cmich.edu
+
+4. Assistant Coach
+   Email: sumne2jw@cmich.edu
+   Username: sumne2jw
+   Original line: Assistant Coach sumne2jw@cmich.edu
+
+5. Associate Head
+   Email: butle3c@cmich.edu
+   Username: butle3c
+   Original line: Associate Head Coach, Recruiting Coordinator butle3c@cmich.edu
+
+6. Associate Head
+   Email: probs1n@cmich.edu
+   Username: probs1n
+   Original line: Associate Head Coach (Sprints, Jumps) probs1n@cmich.edu
+
+7. Head Coach
+   Email: johns56j@cmich.edu
+   Username: johns56j
+   Original line: Head Coach johns56j@cmich.edu
+
+8. Head Coach
+   Email: FBRecruiting@cmich.edu
+   Username: FBRecruiting
+   Original line: Head Coach FBRecruiting@cmich.edu
+
+9. Head Coach
+   Email: jenni5k@cmich.edu
+   Username: jenni5k
+   Original line: Head Coach jenni5k@cmich.edu
+
+10. Head Coach
+   Email: macdo1cn@cmich.edu
+   Username: macdo1cn
+   Original line: Head Coach macdo1cn@cmich.edu
+
+11. Head Coach
+   Email: ward3e@cmich.edu
+   Username: ward3e
+   Original line: Head Coach ward3e@cmich.edu
+
+12. Head Coach
+   Email: grove1j@cmich.edu
+   Username: grove1j
+   Original line: Head Coach grove1j@cmich.edu
+
+13. Head Coach
+   Email: mccall.salmon@cmich.edu
+   Username: mccall.salmon
+   Original line: Head Coach mccall.salmon@cmich.edu
+
+14. Assistant Coach
+   Email: josli1c@cmich.edu
+   Username: josli1c
+   Original line: Assistant Coach josli1c@cmich.edu
+
+15. Head Coach
+   Email: borre1tr@cmich.edu
+   Username: borre1tr
+   Original line: Head Coach Emeritus borre1tr@cmich.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach sabol1jr@cmich.edu
+• Assistant Coach walte2dl@cmich.edu
+• Assistant Coach hilt1aj@cmich.edu
+• Assistant Coach sumne2jw@cmich.edu
+• Associate Head Coach, Recruiting Coordinator butle3c@cmich.edu
+• Associate Head Coach (Sprints, Jumps) probs1n@cmich.edu
+• Head Coach johns56j@cmich.edu
+• Head Coach FBRecruiting@cmich.edu
+• Head Coach jenni5k@cmich.edu
+• Head Coach macdo1cn@cmich.edu
+• Head Coach ward3e@cmich.edu
+• Head Coach grove1j@cmich.edu
+• Head Coach mccall.salmon@cmich.edu
+• Assistant Coach josli1c@cmich.edu
+• Head Coach Emeritus borre1tr@cmich.edu

@@ -1,0 +1,286 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:42
+============================================================
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rick De
+   Email: ricardo.de-armas@montreat.edu
+   Username: ricardo.de-armas
+   Phone: (828) 333-7823
+   Original line: Rick De Armas Assistant Baseball Coach ricardo.de-armas@montreat.edu 828-333-7823
+
+2. Tripp Storrs
+   Email: richard.storrs@montreat.edu
+   Username: richard.storrs
+   Phone: (828) 419-6242
+   Original line: Tripp Storrs Pitching Coach richard.storrs@montreat.edu 828-419-6242
+
+3. Brian Pegg
+   Email: brian.pegg@montreat.edu
+   Username: brian.pegg
+   Original line: Brian Pegg Assistant Baseball Coach brian.pegg@montreat.edu
+
+4. Zeb Marquis
+   Email: zebadiah.marquis@montreat.edu
+   Username: zebadiah.marquis
+   Original line: Zeb Marquis Assistant Baseball Coach zebadiah.marquis@montreat.edu
+
+5. Anthony Barringer
+   Email: anthony.barringer@montreat.edu
+   Username: anthony.barringer
+   Phone: (828) 419-2217
+   Original line: Anthony Barringer Head Men's Basketball Coach anthony.barringer@montreat.edu 828-419-2217
+
+6. Ben McCrickard
+   Email: benjamin.mccrickard@montreat.edu
+   Username: benjamin.mccrickard
+   Phone: (828) 669-8012
+   Original line: Ben McCrickard Assistant Men's Basketball Coach benjamin.mccrickard@montreat.edu 828-669-8012
+
+7. Isaiah Brown
+   Email: paul.brown@montreat.edu
+   Username: paul.brown
+   Phone: (828) 419-2210
+   Original line: Isaiah Brown Assistant Volleyball Coach | Assistant Men's paul.brown@montreat.edu 828-419-2210
+
+8. Jamie Moore
+   Email: jamie.moore@montreat.edu
+   Username: jamie.moore
+   Phone: (828) 419-2349
+   Original line: Jamie Moore Head Women's Basketball Coach jamie.moore@montreat.edu 828-419-2349
+
+9. Matt Harner
+   Email: john.harner@montreat.edu
+   Username: john.harner
+   Phone: (828) 560-3513
+   Original line: Matt Harner Assistant Women's Basketball Coach john.harner@montreat.edu 828-560-3513
+
+10. Rylan Hincher
+   Email: rylan.hincher@montreat.edu
+   Username: rylan.hincher
+   Phone: (828) 419-2286
+   Original line: Rylan Hincher Head Cross Country Coach | Assistant Track rylan.hincher@montreat.edu 828-419-2286
+
+11. Rylan Hincher
+   Email: rylan.hincher@montreat.edu
+   Username: rylan.hincher
+   Phone: (828) 419-2286
+   Original line: Rylan Hincher Head Cross Country Coach | Assistant Track rylan.hincher@montreat.edu 828-419-2286
+
+12. John Sullivan
+   Email: jsullivan@montreat.edu
+   Username: jsullivan
+   Phone: (828) 669-8012
+   Original line: John Sullivan Head Men's & Women's Golf Coach jsullivan@montreat.edu 828-669-8012
+
+13. Maggie Fondren
+   Email: maggie.fondren@montreat.edu
+   Username: maggie.fondren
+   Original line: Maggie Fondren Assistant Men's & Women's Golf Coach maggie.fondren@montreat.edu
+
+14. John Sullivan
+   Email: jsullivan@montreat.edu
+   Username: jsullivan
+   Phone: (828) 669-8012
+   Original line: John Sullivan Head Men's & Women's Golf Coach jsullivan@montreat.edu 828-669-8012
+
+15. Maggie Fondren
+   Email: maggie.fondren@montreat.edu
+   Username: maggie.fondren
+   Original line: Maggie Fondren Assistant Men's & Women's Golf Coach maggie.fondren@montreat.edu
+
+16. Brian Holland
+   Email: brian.holland@montreat.edu
+   Username: brian.holland
+   Phone: (828) 419-2201
+   Original line: Brian Holland Head Men's Lacrosse Coach brian.holland@montreat.edu 828-419-2201
+
+17. Matthew Quill
+   Email: matthew.quill@montreat.edu
+   Username: matthew.quill
+   Phone: (828) 419-2979
+   Original line: Matthew Quill Assistant Men's Lacrosse Coach matthew.quill@montreat.edu 828-419-2979
+
+18. Kayla Bone
+   Email: kayla.bone@montreat.edu
+   Username: kayla.bone
+   Phone: (828) 419-2214
+   Original line: Kayla Bone Head Women's Lacrosse Coach kayla.bone@montreat.edu 828-419-2214
+
+19. Aleea Bone
+   Email: aleea.bone@montreat.edu
+   Username: aleea.bone
+   Original line: Aleea Bone Assistant Women's Lacrosse Coach aleea.bone@montreat.edu
+
+20. Michael Bruce
+   Email: brucemj@montreat.edu
+   Username: brucemj
+   Phone: (828) 419-2980
+   Original line: Michael Bruce Head Men's Soccer Coach brucemj@montreat.edu 828-419-2980
+
+21. Adam Lund
+   Email: adam.lund@montreat.edu
+   Username: adam.lund
+   Phone: (828) 419-2313
+   Original line: Adam Lund Assistant Men's Soccer Coach | Director of adam.lund@montreat.edu 828-419-2313
+
+22. Beth Morgan
+   Email: bethany.morgan@montreat.edu
+   Username: bethany.morgan
+   Phone: (828) 348-8672
+   Original line: Beth Morgan Assistant Women's Soccer Coach | Women's bethany.morgan@montreat.edu 828-348-8672
+
+23. Kelsey McCue-Long
+   Email: kelsey.mccue@montreat.edu
+   Username: kelsey.mccue
+   Phone: (828) 419-2302
+   Original line: Kelsey McCue-Long Head Softball Coach kelsey.mccue@montreat.edu 828-419-2302
+
+24. Kyndall Chandler
+   Email: kchandler@montreat.edu
+   Username: kchandler
+   Original line: Kyndall Chandler Assistant Softball Coach kchandler@montreat.edu
+
+25. Leah Coffing
+   Email: leah.coffing@montreat.edu
+   Username: leah.coffing
+   Original line: Leah Coffing Assistant Softball Coach leah.coffing@montreat.edu
+
+26. Riley Lingerfelt
+   Email: riley.lingerfelt@montreat.edu
+   Username: riley.lingerfelt
+   Original line: Riley Lingerfelt Assistant Softball Coach riley.lingerfelt@montreat.edu
+
+27. Marcos Salazar
+   Email: marcos.salazar@montreat.edu
+   Username: marcos.salazar
+   Phone: (828) 419-2207
+   Original line: Marcos Salazar Head Men's and Women's Tennis Coach marcos.salazar@montreat.edu 828-419-2207
+
+28. Marcos Salazar
+   Email: marcos.salazar@montreat.edu
+   Username: marcos.salazar
+   Phone: (828) 419-2207
+   Original line: Marcos Salazar Head Men's and Women's Tennis Coach marcos.salazar@montreat.edu 828-419-2207
+
+29. Holland McCoy
+   Email: holland.mccoy@montreat.edu
+   Username: holland.mccoy
+   Phone: (828) 419-2224
+   Original line: Holland McCoy Associate Head Track & Field Coach holland.mccoy@montreat.edu 828-419-2224
+
+30. Rylan Hincher
+   Email: rylan.hincher@montreat.edu
+   Username: rylan.hincher
+   Phone: (828) 419-2286
+   Original line: Rylan Hincher Head Cross Country Coach | Assistant Track rylan.hincher@montreat.edu 828-419-2286
+
+31. Holland McCoy
+   Email: holland.mccoy@montreat.edu
+   Username: holland.mccoy
+   Phone: (828) 419-2224
+   Original line: Holland McCoy Associate Head Track & Field Coach holland.mccoy@montreat.edu 828-419-2224
+
+32. Rylan Hincher
+   Email: rylan.hincher@montreat.edu
+   Username: rylan.hincher
+   Phone: (828) 419-2286
+   Original line: Rylan Hincher Head Cross Country Coach | Assistant Track rylan.hincher@montreat.edu 828-419-2286
+
+33. Cristina Viera
+   Email: cristina.viera@montreat.edu
+   Username: cristina.viera
+   Phone: (828) 357-4180
+   Original line: Cristina Viera Head Volleyball Coach cristina.viera@montreat.edu 828-357-4180
+
+34. Isaiah Brown
+   Email: paul.brown@montreat.edu
+   Username: paul.brown
+   Phone: (828) 419-2210
+   Original line: Isaiah Brown Assistant Volleyball Coach | Assistant Men's paul.brown@montreat.edu 828-419-2210
+
+35. Jim Connaghan
+   Email: james.connaghan@montreat.edu
+   Username: james.connaghan
+   Phone: (828) 333-7624
+   Original line: Jim Connaghan Head Men's Wrestling Coach james.connaghan@montreat.edu 828-333-7624
+
+36. Jake Power
+   Email: jacob.power@montreat.edu
+   Username: jacob.power
+   Original line: Jake Power Assistant Men's Wrestling Coach jacob.power@montreat.edu
+
+37. Koby Reyes
+   Email: koby.reyes@montreat.edu
+   Username: koby.reyes
+   Phone: (828) 419-2212
+   Original line: Koby Reyes Head Women's Wrestling Coach koby.reyes@montreat.edu 828-419-2212
+
+38. Landon Chambers
+   Email: landon.chambers@montreat.edu
+   Username: landon.chambers
+   Original line: Landon Chambers Assistant Women's Wrestling Coach landon.chambers@montreat.edu
+
+39. Olivia Peterson
+   Email: olivia.peterson@montreat.edu
+   Username: olivia.peterson
+   Original line: Olivia Peterson Assistant Cheer & Dance Coach olivia.peterson@montreat.edu
+
+40. Hub Powell
+   Email: hub.powell@montreat.edu
+   Username: hub.powell
+   Phone: (828) 419-2164
+   Original line: Hub Powell Head Clay Target Shooting Coach hub.powell@montreat.edu 828-419-2164
+
+41. Doug Cline
+   Email: doug.cline@montreat.edu
+   Username: doug.cline
+   Original line: Doug Cline Head Cycling Coach doug.cline@montreat.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rick De Armas Assistant Baseball Coach ricardo.de-armas@montreat.edu 828-333-7823
+• Tripp Storrs Pitching Coach richard.storrs@montreat.edu 828-419-6242
+• Brian Pegg Assistant Baseball Coach brian.pegg@montreat.edu
+• Zeb Marquis Assistant Baseball Coach zebadiah.marquis@montreat.edu
+• Anthony Barringer Head Men's Basketball Coach anthony.barringer@montreat.edu 828-419-2217
+• Ben McCrickard Assistant Men's Basketball Coach benjamin.mccrickard@montreat.edu 828-669-8012
+• Isaiah Brown Assistant Volleyball Coach | Assistant Men's paul.brown@montreat.edu 828-419-2210
+• Jamie Moore Head Women's Basketball Coach jamie.moore@montreat.edu 828-419-2349
+• Matt Harner Assistant Women's Basketball Coach john.harner@montreat.edu 828-560-3513
+• Rylan Hincher Head Cross Country Coach | Assistant Track rylan.hincher@montreat.edu 828-419-2286
+• Rylan Hincher Head Cross Country Coach | Assistant Track rylan.hincher@montreat.edu 828-419-2286
+• John Sullivan Head Men's & Women's Golf Coach jsullivan@montreat.edu 828-669-8012
+• Maggie Fondren Assistant Men's & Women's Golf Coach maggie.fondren@montreat.edu
+• John Sullivan Head Men's & Women's Golf Coach jsullivan@montreat.edu 828-669-8012
+• Maggie Fondren Assistant Men's & Women's Golf Coach maggie.fondren@montreat.edu
+• Brian Holland Head Men's Lacrosse Coach brian.holland@montreat.edu 828-419-2201
+• Matthew Quill Assistant Men's Lacrosse Coach matthew.quill@montreat.edu 828-419-2979
+• Kayla Bone Head Women's Lacrosse Coach kayla.bone@montreat.edu 828-419-2214
+• Aleea Bone Assistant Women's Lacrosse Coach aleea.bone@montreat.edu
+• Michael Bruce Head Men's Soccer Coach brucemj@montreat.edu 828-419-2980
+• Adam Lund Assistant Men's Soccer Coach | Director of adam.lund@montreat.edu 828-419-2313
+• Beth Morgan Assistant Women's Soccer Coach | Women's bethany.morgan@montreat.edu 828-348-8672
+• Kelsey McCue-Long Head Softball Coach kelsey.mccue@montreat.edu 828-419-2302
+• Kyndall Chandler Assistant Softball Coach kchandler@montreat.edu
+• Leah Coffing Assistant Softball Coach leah.coffing@montreat.edu
+• Riley Lingerfelt Assistant Softball Coach riley.lingerfelt@montreat.edu
+• Marcos Salazar Head Men's and Women's Tennis Coach marcos.salazar@montreat.edu 828-419-2207
+• Marcos Salazar Head Men's and Women's Tennis Coach marcos.salazar@montreat.edu 828-419-2207
+• Holland McCoy Associate Head Track & Field Coach holland.mccoy@montreat.edu 828-419-2224
+• Rylan Hincher Head Cross Country Coach | Assistant Track rylan.hincher@montreat.edu 828-419-2286
+• Holland McCoy Associate Head Track & Field Coach holland.mccoy@montreat.edu 828-419-2224
+• Rylan Hincher Head Cross Country Coach | Assistant Track rylan.hincher@montreat.edu 828-419-2286
+• Cristina Viera Head Volleyball Coach cristina.viera@montreat.edu 828-357-4180
+• Isaiah Brown Assistant Volleyball Coach | Assistant Men's paul.brown@montreat.edu 828-419-2210
+• Jim Connaghan Head Men's Wrestling Coach james.connaghan@montreat.edu 828-333-7624
+• Jake Power Assistant Men's Wrestling Coach jacob.power@montreat.edu
+• Koby Reyes Head Women's Wrestling Coach koby.reyes@montreat.edu 828-419-2212
+• Landon Chambers Assistant Women's Wrestling Coach landon.chambers@montreat.edu
+• Olivia Peterson Assistant Cheer & Dance Coach olivia.peterson@montreat.edu
+• Hub Powell Head Clay Target Shooting Coach hub.powell@montreat.edu 828-419-2164
+• Doug Cline Head Cycling Coach doug.cline@montreat.edu

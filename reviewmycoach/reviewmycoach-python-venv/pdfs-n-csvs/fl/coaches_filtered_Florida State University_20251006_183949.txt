@@ -1,0 +1,137 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:52
+============================================================
+
+Total coaches found: 21
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: coachjarrett@fsu.edu
+   Username: coachjarrett
+   Original line: Head Coach coachjarrett@fsu.edu
+
+2. Director of
+   Email: atphillips@fsu.edu
+   Username: atphillips
+   Original line: Director of Coaching Video atphillips@fsu.edu
+
+3. Head Coach
+   Email: golfrecruiting@fsu.edu
+   Username: golfrecruiting
+   Original line: Head Coach and Director of Golf golfrecruiting@fsu.edu
+
+4. Associate Head
+   Email: mwhall@fsu.edu
+   Username: mwhall
+   Original line: Associate Head Coach mwhall@fsu.edu
+
+5. Head Coach
+   Email: dhultquist@fsu.edu
+   Username: dhultquist
+   Original line: Head Coach dhultquist@fsu.edu
+
+6. Assistant Coach
+   Email: ssitaram2@fsu.edu
+   Username: ssitaram2
+   Original line: Assistant Coach ssitaram2@fsu.edu
+
+7. Assistant Strength
+   Email: emyyra@fsu.edu
+   Username: emyyra
+   Original line: Assistant Strength and Conditioning Coach emyyra@fsu.edu Full Bio
+
+8. Assistant Strength
+   Email: bvictoria@fsu.edu
+   Username: bvictoria
+   Original line: Assistant Strength and Conditioning Coach bvictoria@fsu.edu Full Bio
+
+9. Assistant Strength
+   Email: mpeele@fsu.edu
+   Username: mpeele
+   Original line: Assistant Strength and Conditioning Coach mpeele@fsu.edu Full Bio
+
+10. Strength and
+   Email: egq22@fsu.edu
+   Username: egq22
+   Original line: Strength and Conditioning Coach egq22@fsu.edu Full Bio
+
+11. Associate Head
+   Email: wswood@fsu.edu
+   Username: wswood
+   Original line: Associate Head Swimming Coach wswood@fsu.edu
+
+12. Head Diving
+   Email: Wmattice2@fsu.edu
+   Username: Wmattice2
+   Original line: Head Diving Coach Wmattice2@fsu.edu
+
+13. Associate Head
+   Email: rargro@fsu.edu
+   Username: rargro
+   Original line: Associate Head Coach (Men's Track & Field, Men's Sprints) rargro@fsu.edu
+
+14. Head Coach
+   Email: ccpoole@fsu.edu
+   Username: ccpoole
+   Original line: Head Coach ccpoole@fsu.edu
+
+15. Associate Head
+   Email: Lmallman@fsu.edu
+   Username: Lmallman
+   Original line: Associate Head Coach Lmallman@fsu.edu
+
+16. Assistant Coach
+   Email: hwatts@fsu.edu
+   Username: hwatts
+   Original line: Assistant Coach hwatts@fsu.edu
+
+17. Head Coach
+   Email: golfrecruiting@fsu.edu
+   Username: golfrecruiting
+   Original line: Head Coach golfrecruiting@fsu.edu
+
+18. Associate Head
+   Email: mwhall@fsu.edu
+   Username: mwhall
+   Original line: Associate Head Coach mwhall@fsu.edu
+
+19. Head Coach
+   Email: jhyde@fsu.edu
+   Username: jhyde
+   Original line: Head Coach jhyde@fsu.edu
+
+20. Deputy Head
+   Email: mardizzone@fsu.edu
+   Username: mardizzone
+   Original line: Deputy Head Coach mardizzone@fsu.edu
+
+21. Non-Coaching Staff
+   Email: dmr05d@fsu.edu
+   Username: dmr05d
+   Original line: Non-Coaching Staff Member/Stringer dmr05d@fsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach coachjarrett@fsu.edu
+• Director of Coaching Video atphillips@fsu.edu
+• Head Coach and Director of Golf golfrecruiting@fsu.edu
+• Associate Head Coach mwhall@fsu.edu
+• Head Coach dhultquist@fsu.edu
+• Assistant Coach ssitaram2@fsu.edu
+• Assistant Strength and Conditioning Coach emyyra@fsu.edu Full Bio
+• Assistant Strength and Conditioning Coach bvictoria@fsu.edu Full Bio
+• Assistant Strength and Conditioning Coach mpeele@fsu.edu Full Bio
+• Strength and Conditioning Coach egq22@fsu.edu Full Bio
+• Associate Head Swimming Coach wswood@fsu.edu
+• Head Diving Coach Wmattice2@fsu.edu
+• Associate Head Coach (Men's Track & Field, Men's Sprints) rargro@fsu.edu
+• Head Coach ccpoole@fsu.edu
+• Associate Head Coach Lmallman@fsu.edu
+• Assistant Coach hwatts@fsu.edu
+• Head Coach golfrecruiting@fsu.edu
+• Associate Head Coach mwhall@fsu.edu
+• Head Coach jhyde@fsu.edu
+• Deputy Head Coach mardizzone@fsu.edu
+• Non-Coaching Staff Member/Stringer dmr05d@fsu.edu

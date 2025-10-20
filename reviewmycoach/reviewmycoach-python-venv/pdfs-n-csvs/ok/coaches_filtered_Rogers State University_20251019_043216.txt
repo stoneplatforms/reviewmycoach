@@ -1,0 +1,189 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:16
+============================================================
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chris Klimas
+   Email: cklimas@rsu.edu
+   Username: cklimas
+   Phone: (918) 343-7787
+   Original line: Chris Klimas Head Coach cklimas@rsu.edu 918-343-7787
+
+2. Cam Margaris
+   Email: cmargaris@rsu.edu
+   Username: cmargaris
+   Phone: (918) 343-6815
+   Original line: Cam Margaris Assistant Coach cmargaris@rsu.edu 918-343-6815
+
+3. Justin Barkley
+   Email: jbarkley@rsu.edu
+   Username: jbarkley
+   Phone: (918) 343-6804
+   Original line: Justin Barkley Head Coach jbarkley@rsu.edu 918-343-6804
+
+4. Jimmy Boone
+   Email: jboone@rsu.edu
+   Username: jboone
+   Phone: (918) 343-7678
+   Original line: Jimmy Boone Associate Head Coach jboone@rsu.edu 918-343-7678
+
+5. Cody Johnson
+   Email: cjohnson@rsu.edu
+   Username: cjohnson
+   Phone: (918) 343-6864
+   Original line: Cody Johnson Assistant Coach cjohnson@rsu.edu 918-343-6864
+
+6. Heather Davis
+   Email: hdavis@rsu.edu
+   Username: hdavis
+   Phone: (918) 343-7883
+   Original line: Heather Davis Head Coach hdavis@rsu.edu 918-343-7883
+
+7. Shillalie Jones
+   Email: shillaliejones@rsu.edu
+   Username: shillaliejones
+   Original line: Shillalie Jones Assistant Coach shillaliejones@rsu.edu
+
+8. Tyler O'Connor
+   Email: toconnor@rsu.edu
+   Username: toconnor
+   Original line: Tyler O'Connor Assistant Coach toconnor@rsu.edu
+
+9. Matt Kennedy
+   Email: mkennedy@rsu.edu
+   Username: mkennedy
+   Phone: (918) 343-7689
+   Original line: Matt Kennedy Head Coach mkennedy@rsu.edu 918-343-7689
+
+10. Blaine Phillippi
+   Email: bphillippi@rsu.edu
+   Username: bphillippi
+   Phone: (918) 343-7288
+   Original line: Blaine Phillippi Assistant Coach bphillippi@rsu.edu 918-343-7288
+
+11. Matt Kennedy
+   Email: mkennedy@rsu.edu
+   Username: mkennedy
+   Phone: (918) 343-7689
+   Original line: Matt Kennedy Head Coach mkennedy@rsu.edu 918-343-7689
+
+12. Blaine Phillippi
+   Email: bphillippi@rsu.edu
+   Username: bphillippi
+   Phone: (918) 343-7288
+   Original line: Blaine Phillippi Assistant Coach bphillippi@rsu.edu 918-343-7288
+
+13. Steve Brown
+   Email: sbrown@rsu.edu
+   Username: sbrown
+   Phone: (918) 343-7988
+   Original line: Steve Brown Head Coach sbrown@rsu.edu 918-343-7988
+
+14. Lexi Johnson
+   Email: ajohnson@rsu.edu
+   Username: ajohnson
+   Original line: Lexi Johnson Head Coach ajohnson@rsu.edu
+
+15. Jake Simpson
+   Email: jsimpson@rsu.edu
+   Username: jsimpson
+   Phone: (918) 343-7995
+   Original line: Jake Simpson Head Coach jsimpson@rsu.edu 918-343-7995
+
+16. Jason Rogers
+   Email: jrogers@rsu.edu
+   Username: jrogers
+   Phone: (918) 343-7995
+   Original line: Jason Rogers Assistant Coach jrogers@rsu.edu 918-343-7995
+
+17. Chris Jones
+   Email: cjones@rsu.edu
+   Username: cjones
+   Phone: (918) 343-7996
+   Original line: Chris Jones Head Coach cjones@rsu.edu 918-343-7996
+
+18. Jordan Watson
+   Email: jwatson@rsu.edu
+   Username: jwatson
+   Phone: (918) 343-7290
+   Original line: Jordan Watson Assistant Coach/Recruiting Coordinator jwatson@rsu.edu 918-343-7290
+
+19. Andrea Vaughan
+   Email: avaughan@rsu.edu
+   Username: avaughan
+   Phone: (918) 343-7562
+   Original line: Andrea Vaughan Head Coach avaughan@rsu.edu 918-343-7562
+
+20. Malori Belcher
+   Email: mmoss@rsu.edu
+   Username: mmoss
+   Phone: (918) 343-6813
+   Original line: Malori Belcher Assistant Coach mmoss@rsu.edu 918-343-6813
+
+21. Matt Kennedy
+   Email: mkennedy@rsu.edu
+   Username: mkennedy
+   Phone: (918) 343-7689
+   Original line: Matt Kennedy Head Coach mkennedy@rsu.edu 918-343-7689
+
+22. Blaine Phillippi
+   Email: bphillippi@rsu.edu
+   Username: bphillippi
+   Phone: (918) 343-7288
+   Original line: Blaine Phillippi Assistant Coach bphillippi@rsu.edu 918-343-7288
+
+23. Matt Kennedy
+   Email: mkennedy@rsu.edu
+   Username: mkennedy
+   Phone: (918) 343-7689
+   Original line: Matt Kennedy Head Coach mkennedy@rsu.edu 918-343-7689
+
+24. Blaine Phillippi
+   Email: bphillippi@rsu.edu
+   Username: bphillippi
+   Phone: (918) 343-7288
+   Original line: Blaine Phillippi Assistant Coach bphillippi@rsu.edu 918-343-7288
+
+25. Titus Massey
+   Email: tmassey@rsu.edu
+   Username: tmassey
+   Original line: Titus Massey Head Coach tmassey@rsu.edu
+
+26. Taylor Marshall
+   Email: tmarshall@rsu.edu
+   Username: tmarshall
+   Phone: (918) 343-7893
+   Original line: Taylor Marshall Head Coach tmarshall@rsu.edu 918-343-7893
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chris Klimas Head Coach cklimas@rsu.edu 918-343-7787
+• Cam Margaris Assistant Coach cmargaris@rsu.edu 918-343-6815
+• Justin Barkley Head Coach jbarkley@rsu.edu 918-343-6804
+• Jimmy Boone Associate Head Coach jboone@rsu.edu 918-343-7678
+• Cody Johnson Assistant Coach cjohnson@rsu.edu 918-343-6864
+• Heather Davis Head Coach hdavis@rsu.edu 918-343-7883
+• Shillalie Jones Assistant Coach shillaliejones@rsu.edu
+• Tyler O'Connor Assistant Coach toconnor@rsu.edu
+• Matt Kennedy Head Coach mkennedy@rsu.edu 918-343-7689
+• Blaine Phillippi Assistant Coach bphillippi@rsu.edu 918-343-7288
+• Matt Kennedy Head Coach mkennedy@rsu.edu 918-343-7689
+• Blaine Phillippi Assistant Coach bphillippi@rsu.edu 918-343-7288
+• Steve Brown Head Coach sbrown@rsu.edu 918-343-7988
+• Lexi Johnson Head Coach ajohnson@rsu.edu
+• Jake Simpson Head Coach jsimpson@rsu.edu 918-343-7995
+• Jason Rogers Assistant Coach jrogers@rsu.edu 918-343-7995
+• Chris Jones Head Coach cjones@rsu.edu 918-343-7996
+• Jordan Watson Assistant Coach/Recruiting Coordinator jwatson@rsu.edu 918-343-7290
+• Andrea Vaughan Head Coach avaughan@rsu.edu 918-343-7562
+• Malori Belcher Assistant Coach mmoss@rsu.edu 918-343-6813
+• Matt Kennedy Head Coach mkennedy@rsu.edu 918-343-7689
+• Blaine Phillippi Assistant Coach bphillippi@rsu.edu 918-343-7288
+• Matt Kennedy Head Coach mkennedy@rsu.edu 918-343-7689
+• Blaine Phillippi Assistant Coach bphillippi@rsu.edu 918-343-7288
+• Titus Massey Head Coach tmassey@rsu.edu
+• Taylor Marshall Head Coach tmarshall@rsu.edu 918-343-7893

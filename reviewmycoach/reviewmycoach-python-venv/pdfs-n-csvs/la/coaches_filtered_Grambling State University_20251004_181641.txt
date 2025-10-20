@@ -1,0 +1,49 @@
+COACH ENTRIES FOUND - 2025-10-04 18:16:42
+============================================================
+
+Total coaches found: 6
+
+PARSED ENTRIES:
+----------------------------------------
+1. Davin Pierre
+   Email: pierred@gram.edu
+   Username: pierred
+   Phone: 318.274.2416
+   Original line: Davin Pierre Head Coach pierred@gram.edu 318.274.2416 @Davin_Pierre
+
+2. Perez Knowles
+   Email: knowlesp@gram.edu
+   Username: knowlesp
+   Original line: Perez Knowles Assistant Coach/Pitching knowlesp@gram.edu
+
+3. Justin Wagar
+   Email: wagarj@gram.edu
+   Username: wagarj
+   Original line: Justin Wagar Head Coach wagarj@gram.edu
+
+4. Omar Anderson
+   Email: Andersono@gram.edu
+   Username: Andersono
+   Original line: Omar Anderson Associate Head Coach Andersono@gram.edu
+
+5. LaMonte Vaughn
+   Email: vaughnl@gram.edu
+   Username: vaughnl
+   Phone: 318.274.6387
+   Original line: LaMonte Vaughn Jr. Head Coach vaughnl@gram.edu 318.274.6387
+
+6. Paige Phillips
+   Email: phillipsp@gram.edu
+   Username: phillipsp
+   Original line: Paige Phillips Head Coach phillipsp@gram.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Davin Pierre Head Coach pierred@gram.edu 318.274.2416 @Davin_Pierre
+• Perez Knowles Assistant Coach/Pitching knowlesp@gram.edu
+• Justin Wagar Head Coach wagarj@gram.edu
+• Omar Anderson Associate Head Coach Andersono@gram.edu
+• LaMonte Vaughn Jr. Head Coach vaughnl@gram.edu 318.274.6387
+• Paige Phillips Head Coach phillipsp@gram.edu

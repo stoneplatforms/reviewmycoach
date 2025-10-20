@@ -1,0 +1,179 @@
+COACH ENTRIES FOUND - 2025-09-27 16:42:45
+============================================================
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Eric Walsh
+   Email: eiwalsh@alaska.edu
+   Username: eiwalsh
+   Original line: Eric Walsh Head Coach - Strength & Conditioning eiwalsh@alaska.edu 907-786-
+
+2. Isabel Evans
+   Email: ipevans@alaska.edu
+   Username: ipevans
+   Original line: Isabel Evans Assistant Coach - Strength & Conditioning ipevans@alaska.edu 907-786-
+
+3. Rusty Osborne
+   Email: grosborne@alaska.edu
+   Username: grosborne
+   Original line: Rusty Osborne Head Coach grosborne@alaska.edu 907-786-
+
+4. Ryan Engebretsen
+   Email: rengebr3@alaska.edu
+   Username: rengebr3
+   Original line: Ryan Engebretsen Assistant Coach rengebr3@alaska.edu 907-786-
+
+5. Ashton Pomrehn
+   Email: apomrehn@alaska.edu
+   Username: apomrehn
+   Original line: Ashton Pomrehn Assistant Coach apomrehn@alaska.edu 907-786- coachpomrehn
+
+6. Matt Thune
+   Email: mpthune@alaska.edu
+   Username: mpthune
+   Original line: Matt Thune Head Coach mpthune@alaska.edu 907-786- CoachThune
+
+7. Jaelen Tatum
+   Email: jltatum@alaska.edu
+   Username: jltatum
+   Original line: Jaelen Tatum Assistant Coach jltatum@alaska.edu 907-786-
+
+8. Ryan McWilliams
+   Email: rbmcwilliams@alaska.edu
+   Username: rbmcwilliams
+   Original line: Ryan McWilliams Head Coach rbmcwilliams@alaska.edu 907-786-
+
+9. Chas Davis
+   Email: cddavis2@alaska.edu
+   Username: cddavis2
+   Original line: Chas Davis Associate Head Cross Country Coach/Asst. Track and cddavis2@alaska.edu 907-786- @CoachChasDavis
+
+10. Ray Shadowens
+   Email: rnshadowens@alaska.edu
+   Username: rnshadowens
+   Original line: Ray Shadowens Associate Head Coach Track & Field/Asst. Cross rnshadowens@alaska.edu 907-786-
+
+11. Danielle Patterson
+   Email: dfpatterson@alaska.edu
+   Username: dfpatterson
+   Original line: Danielle Patterson Assistant Coach dfpatterson@alaska.edu 907-786-
+
+12. Marie-Sophie Boggasch
+   Email: mboggasch@alaska.edu
+   Username: mboggasch
+   Original line: Marie-Sophie Boggasch Head Coach mboggasch@alaska.edu 907-786-
+
+13. Kendra McPheters
+   Email: krmcpheters@alaska.edu
+   Username: krmcpheters
+   Original line: Kendra McPheters Assistant Coach krmcpheters@alaska.edu 907-786- @UAACoachKay
+
+14. Katie Davenport
+   Email: kbdavenport@alaska.edu
+   Username: kbdavenport
+   Original line: Katie Davenport Assistant Coach kbdavenport@alaska.edu 907-786-
+
+15. Matt Shasby
+   Email: mrshasby@alaska.edu
+   Username: mrshasby
+   Original line: Matt Shasby Head Coach mrshasby@alaska.edu 907-786-
+
+16. Chris Kamal
+   Email: cdkamal@alaska.edu
+   Username: cdkamal
+   Original line: Chris Kamal Assistant Coach cdkamal@alaska.edu 907-786-
+
+17. Aaron McPheters
+   Email: amcpheters@alaska.edu
+   Username: amcpheters
+   Original line: Aaron McPheters Assistant Coach amcpheters@alaska.edu 907-786-
+
+18. Evan Trupp
+   Email: ertrupp@alaska.edu
+   Username: ertrupp
+   Original line: Evan Trupp Assistant Coach ertrupp@alaska.edu 907-786-
+
+19. Sparky Anderson
+   Email: sparky@alaska.edu
+   Username: sparky
+   Original line: Sparky Anderson Head Coach sparky@alaska.edu 907-786-
+
+20. Trond Flagstad
+   Email: tvflagstad@alaska.edu
+   Username: tvflagstad
+   Original line: Trond Flagstad Associate Head Coach Men's and Women's Nordic tvflagstad@alaska.edu 907-786-
+
+21. Jan Ronner
+   Email: jmronner@alaska.edu
+   Username: jmronner
+   Original line: Jan Ronner Graduate Assistant Coach jmronner@alaska.edu 907-786-
+
+22. Ryan McWilliams
+   Email: rbmcwilliams@alaska.edu
+   Username: rbmcwilliams
+   Original line: Ryan McWilliams Head Coach rbmcwilliams@alaska.edu 907-786-
+
+23. Ray Shadowens
+   Email: rnshadowens@alaska.edu
+   Username: rnshadowens
+   Original line: Ray Shadowens Associate Head Coach Track & Field/Asst. Cross rnshadowens@alaska.edu 907-786-
+
+24. Chas Davis
+   Email: cddavis2@alaska.edu
+   Username: cddavis2
+   Original line: Chas Davis Associate Head Cross Country Coach/Asst. Track and cddavis2@alaska.edu 907-786- @CoachChasDavis
+
+25. Danielle Patterson
+   Email: dfpatterson@alaska.edu
+   Username: dfpatterson
+   Original line: Danielle Patterson Assistant Coach dfpatterson@alaska.edu 907-786-
+
+26. Stacie Meisner
+   Email: smmeisner@alaska.edu
+   Username: smmeisner
+   Original line: Stacie Meisner Head Coach smmeisner@alaska.edu 907-786-
+
+27. Morgan Hooe
+   Email: mehooe@alaska.edu
+   Username: mehooe
+   Original line: Morgan Hooe Assistant Coach mehooe@alaska.edu 907-786-
+
+28. AveRee Reynolds
+   Email: akreynolds@alaska.edu
+   Username: akreynolds
+   Original line: AveRee Reynolds Assistant Coach akreynolds@alaska.edu 907-786-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Eric Walsh Head Coach - Strength & Conditioning eiwalsh@alaska.edu 907-786-
+• Isabel Evans Assistant Coach - Strength & Conditioning ipevans@alaska.edu 907-786-
+• Rusty Osborne Head Coach grosborne@alaska.edu 907-786-
+• Ryan Engebretsen Assistant Coach rengebr3@alaska.edu 907-786-
+• Ashton Pomrehn Assistant Coach apomrehn@alaska.edu 907-786- coachpomrehn
+• Matt Thune Head Coach mpthune@alaska.edu 907-786- CoachThune
+• Jaelen Tatum Assistant Coach jltatum@alaska.edu 907-786-
+• Ryan McWilliams Head Coach rbmcwilliams@alaska.edu 907-786-
+• Chas Davis Associate Head Cross Country Coach/Asst. Track and cddavis2@alaska.edu 907-786- @CoachChasDavis
+• Ray Shadowens Associate Head Coach Track & Field/Asst. Cross rnshadowens@alaska.edu 907-786-
+• Danielle Patterson Assistant Coach dfpatterson@alaska.edu 907-786-
+• Marie-Sophie Boggasch Head Coach mboggasch@alaska.edu 907-786-
+• Kendra McPheters Assistant Coach krmcpheters@alaska.edu 907-786- @UAACoachKay
+• Katie Davenport Assistant Coach kbdavenport@alaska.edu 907-786-
+• Matt Shasby Head Coach mrshasby@alaska.edu 907-786-
+• Chris Kamal Assistant Coach cdkamal@alaska.edu 907-786-
+• Aaron McPheters Assistant Coach amcpheters@alaska.edu 907-786-
+• Evan Trupp Assistant Coach ertrupp@alaska.edu 907-786-
+• Sparky Anderson Head Coach sparky@alaska.edu 907-786-
+• Trond Flagstad Associate Head Coach Men's and Women's Nordic tvflagstad@alaska.edu 907-786-
+• Jan Ronner Graduate Assistant Coach jmronner@alaska.edu 907-786-
+• Ryan McWilliams Head Coach rbmcwilliams@alaska.edu 907-786-
+• Ray Shadowens Associate Head Coach Track & Field/Asst. Cross rnshadowens@alaska.edu 907-786-
+• Chas Davis Associate Head Cross Country Coach/Asst. Track and cddavis2@alaska.edu 907-786- @CoachChasDavis
+• Danielle Patterson Assistant Coach dfpatterson@alaska.edu 907-786-
+• Stacie Meisner Head Coach smmeisner@alaska.edu 907-786-
+• Morgan Hooe Assistant Coach mehooe@alaska.edu 907-786-
+• AveRee Reynolds Assistant Coach akreynolds@alaska.edu 907-786-

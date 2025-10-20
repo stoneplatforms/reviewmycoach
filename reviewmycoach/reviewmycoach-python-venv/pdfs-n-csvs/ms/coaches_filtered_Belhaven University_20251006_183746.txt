@@ -1,0 +1,172 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:46
+============================================================
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kevin Griffin
+   Email: kgriffin@belhaven.edu
+   Username: kgriffin
+   Phone: 601.968.8768
+   Original line: Kevin Griffin Head Softball Coach / Associate AD kgriffin@belhaven.edu 601.968.8768
+
+2. Courtney Fairley
+   Email: cfairley@belhaven.edu
+   Username: cfairley
+   Phone: 601.968.8785
+   Original line: Courtney Fairley Assistant Head Softball Coach / Senior Woman Administrator (SWA) cfairley@belhaven.edu 601.968.8785
+
+3. Joseph Dendy
+   Email: jdendy@belhaven.edu
+   Username: jdendy
+   Original line: Joseph Dendy Head Men's Golf Coach / Director of Game Day Operations jdendy@belhaven.edu
+
+4. Patrick Robey
+   Email: probey@belhaven.edu
+   Username: probey
+   Original line: Patrick Robey Head Baseball Coach probey@belhaven.edu
+
+5. Kyle Cedotal
+   Email: kcedotal@belhaven.edu
+   Username: kcedotal
+   Original line: Kyle Cedotal Assistant Baseball Coach kcedotal@belhaven.edu
+
+6. Justin Simanek
+   Email: jsimanek@belhaven.edu
+   Username: jsimanek
+   Phone: 601.973.5030
+   Original line: Justin Simanek Pitching Coach jsimanek@belhaven.edu 601.973.5030
+
+7. Boomer Roberts
+   Email: broberts@belhaven.edu
+   Username: broberts
+   Original line: Boomer Roberts Head Men's Basketball Coach broberts@belhaven.edu
+
+8. Jonathan Comer
+   Email: jcomer@belhaven.edu
+   Username: jcomer
+   Original line: Jonathan Comer Assistant Men's Basketball Coach jcomer@belhaven.edu
+
+9. Steve Calder
+   Email: scalder@belhaven.edu
+   Username: scalder
+   Phone: 601.968.8842
+   Original line: Steve Calder Head Women’s Basketball Coach scalder@belhaven.edu 601.968.8842
+
+10. Lauren Brooks
+   Email: lbrooks@belhaven.edu
+   Username: lbrooks
+   Phone: 601.968.8812
+   Original line: Lauren Brooks Assistant Women's Basketball Coach lbrooks@belhaven.edu 601.968.8812
+
+11. CJ Nightingale
+   Email: cjnightingale@belhaven.edu
+   Username: cjnightingale
+   Original line: CJ Nightingale Head Football Coach cjnightingale@belhaven.edu
+
+12. Joseph Dendy
+   Email: jdendy@belhaven.edu
+   Username: jdendy
+   Original line: Joseph Dendy Head Men's Golf Coach / Director of Game Day Operations jdendy@belhaven.edu
+
+13. James Gledhill
+   Email: jgledhill@belhaven.edu
+   Username: jgledhill
+   Phone: 601.965.7013
+   Original line: James Gledhill Head Men's Soccer Coach jgledhill@belhaven.edu 601.965.7013
+
+14. Jason Ward
+   Email: jward@belhaven.edu
+   Username: jward
+   Phone: 601.965.7013
+   Original line: Jason Ward Assistant Men's Soccer Coach jward@belhaven.edu 601.965.7013
+
+15. Kimberly Harrell
+   Email: kharrell@belhaven.edu
+   Username: kharrell
+   Phone: 601.968.8708
+   Original line: Dr. Kimberly Harrell Head Women's Soccer Coach kharrell@belhaven.edu 601.968.8708
+
+16. Jonny Ellis
+   Email: jellis@belhaven.edu
+   Username: jellis
+   Phone: 601.968.8708
+   Original line: Jonny Ellis Assistant Women's Soccer Coach jellis@belhaven.edu 601.968.8708
+
+17. Keaton Halbert
+   Email: khalbert@belhaven.edu
+   Username: khalbert
+   Phone: 601.968.8708
+   Original line: Keaton Halbert Goalkeeper Coach khalbert@belhaven.edu 601.968.8708
+
+18. Kevin Griffin
+   Email: kgriffin@belhaven.edu
+   Username: kgriffin
+   Phone: 601.968.8768
+   Original line: Kevin Griffin Head Softball Coach / Associate AD kgriffin@belhaven.edu 601.968.8768
+
+19. Courtney Fairley
+   Email: cfairley@belhaven.edu
+   Username: cfairley
+   Phone: 601.968.8785
+   Original line: Courtney Fairley Assistant Head Softball Coach / Senior Woman Administrator (SWA) cfairley@belhaven.edu 601.968.8785
+
+20. Kennedy Carruth
+   Email: kcarruth@belhaven.edu
+   Username: kcarruth
+   Phone: 601.968.8785
+   Original line: Kennedy Carruth Pitching Coach kcarruth@belhaven.edu 601.968.8785
+
+21. Ashton Hartley
+   Email: ahartley@belhaven.edu
+   Username: ahartley
+   Phone: 601.968.8805
+   Original line: Ashton Hartley Head Coach - Men's & Women's Tennis ahartley@belhaven.edu 601.968.8805
+
+22. Butch Ard
+   Email: bard@belhaven.edu
+   Username: bard
+   Phone: 601.968.8806
+   Original line: Butch Ard Director and Head Coach for Track & Field / Cross Country bard@belhaven.edu 601.968.8806
+
+23. Christi DeLaughter
+   Email: cdelaughter@belhaven.edu
+   Username: cdelaughter
+   Phone: 601.968.8806
+   Original line: Christi DeLaughter Assistant Coach - Track & Field / Cross Country cdelaughter@belhaven.edu 601.968.8806
+
+24. Olivia Killelea
+   Email: okillelea@belhaven.edu
+   Username: okillelea
+   Phone: 601.968.8891
+   Original line: Olivia Killelea Head Volleyball Coach okillelea@belhaven.edu 601.968.8891
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kevin Griffin Head Softball Coach / Associate AD kgriffin@belhaven.edu 601.968.8768
+• Courtney Fairley Assistant Head Softball Coach / Senior Woman Administrator (SWA) cfairley@belhaven.edu 601.968.8785
+• Joseph Dendy Head Men's Golf Coach / Director of Game Day Operations jdendy@belhaven.edu
+• Patrick Robey Head Baseball Coach probey@belhaven.edu
+• Kyle Cedotal Assistant Baseball Coach kcedotal@belhaven.edu
+• Justin Simanek Pitching Coach jsimanek@belhaven.edu 601.973.5030
+• Boomer Roberts Head Men's Basketball Coach broberts@belhaven.edu
+• Jonathan Comer Assistant Men's Basketball Coach jcomer@belhaven.edu
+• Steve Calder Head Women’s Basketball Coach scalder@belhaven.edu 601.968.8842
+• Lauren Brooks Assistant Women's Basketball Coach lbrooks@belhaven.edu 601.968.8812
+• CJ Nightingale Head Football Coach cjnightingale@belhaven.edu
+• Joseph Dendy Head Men's Golf Coach / Director of Game Day Operations jdendy@belhaven.edu
+• James Gledhill Head Men's Soccer Coach jgledhill@belhaven.edu 601.965.7013
+• Jason Ward Assistant Men's Soccer Coach jward@belhaven.edu 601.965.7013
+• Dr. Kimberly Harrell Head Women's Soccer Coach kharrell@belhaven.edu 601.968.8708
+• Jonny Ellis Assistant Women's Soccer Coach jellis@belhaven.edu 601.968.8708
+• Keaton Halbert Goalkeeper Coach khalbert@belhaven.edu 601.968.8708
+• Kevin Griffin Head Softball Coach / Associate AD kgriffin@belhaven.edu 601.968.8768
+• Courtney Fairley Assistant Head Softball Coach / Senior Woman Administrator (SWA) cfairley@belhaven.edu 601.968.8785
+• Kennedy Carruth Pitching Coach kcarruth@belhaven.edu 601.968.8785
+• Ashton Hartley Head Coach - Men's & Women's Tennis ahartley@belhaven.edu 601.968.8805
+• Butch Ard Director and Head Coach for Track & Field / Cross Country bard@belhaven.edu 601.968.8806
+• Christi DeLaughter Assistant Coach - Track & Field / Cross Country cdelaughter@belhaven.edu 601.968.8806
+• Olivia Killelea Head Volleyball Coach okillelea@belhaven.edu 601.968.8891

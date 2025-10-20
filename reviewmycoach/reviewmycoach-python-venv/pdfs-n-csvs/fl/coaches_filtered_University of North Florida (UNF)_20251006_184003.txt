@@ -1,0 +1,101 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:04
+============================================================
+
+Total coaches found: 15
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: r.kennen@unf.edu
+   Username: r.kennen
+   Original line: Head Coach r.kennen@unf.edu
+
+2. Assistant Coach
+   Email: b.evans@unf.edu
+   Username: b.evans
+   Original line: Assistant Coach b.evans@unf.edu
+
+3. Assistant Coach
+   Email: s.perkins@unf.edu
+   Username: s.perkins
+   Original line: Assistant Coach s.perkins@unf.edu
+
+4. Head Coach
+   Email: erika.lambert@unf.edu
+   Username: erika.lambert
+   Original line: Head Coach erika.lambert@unf.edu
+
+5. Associate Head
+   Email: sjlobdell@unf.edu
+   Username: sjlobdell
+   Original line: Associate Head Coach sjlobdell@unf.edu
+
+6. Assistant Coach
+   Email: c.dixon@unf.edu
+   Username: c.dixon
+   Original line: Assistant Coach / Recruiting Coordinator c.dixon@unf.edu
+
+7. Assistant Coach
+   Email: g.hubbard@unf.edu
+   Username: g.hubbard
+   Original line: Assistant Coach g.hubbard@unf.edu
+
+8. Assistant Coach
+   Email: j.adams@unf.edu
+   Username: j.adams
+   Original line: Assistant Coach / Director of Basketball Operations j.adams@unf.edu
+
+9. Head Coach
+   Email: doug.wright@unf.edu
+   Username: doug.wright
+   Original line: Head Coach doug.wright@unf.edu
+
+10. Associate Head
+   Email: c.cobb@unf.edu
+   Username: c.cobb
+   Original line: Associate Head Coach c.cobb@unf.edu
+
+11. Head Coach
+   Email: eric.faulconer@unf.edu
+   Username: eric.faulconer
+   Original line: Head Coach eric.faulconer@unf.edu
+
+12. Head Coach
+   Email: jeff.conrad@unf.edu
+   Username: jeff.conrad
+   Original line: Head Coach jeff.conrad@unf.edu
+
+13. Head Coach
+   Email: ian.coffey@unf.edu
+   Username: ian.coffey
+   Original line: Head Coach ian.coffey@unf.edu
+
+14. Head Coach
+   Email: c.dunagan@unf.edu
+   Username: c.dunagan
+   Original line: Head Coach c.dunagan@unf.edu
+
+15. Head Coach
+   Email: kristen.wright@unf.edu
+   Username: kristen.wright
+   Original line: Head Coach kristen.wright@unf.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach r.kennen@unf.edu
+• Assistant Coach b.evans@unf.edu
+• Assistant Coach s.perkins@unf.edu
+• Head Coach erika.lambert@unf.edu
+• Associate Head Coach sjlobdell@unf.edu
+• Assistant Coach / Recruiting Coordinator c.dixon@unf.edu
+• Assistant Coach g.hubbard@unf.edu
+• Assistant Coach / Director of Basketball Operations j.adams@unf.edu
+• Head Coach doug.wright@unf.edu
+• Associate Head Coach c.cobb@unf.edu
+• Head Coach eric.faulconer@unf.edu
+• Head Coach jeff.conrad@unf.edu
+• Head Coach ian.coffey@unf.edu
+• Head Coach c.dunagan@unf.edu
+• Head Coach kristen.wright@unf.edu

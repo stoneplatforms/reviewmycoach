@@ -1,0 +1,395 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:43
+============================================================
+
+Total coaches found: 64
+
+PARSED ENTRIES:
+----------------------------------------
+1. Andrew Ram
+   Email: andrew.ram@cms.claremont.edu
+   Username: andrew.ram
+   Original line: Andrew Ram Assistant Strength and Conditioning Coach andrew.ram@cms.claremont.edu
+
+2. Chanel Murchison
+   Email: chanel.murchison@cms.claremont.edu
+   Username: chanel.murchison
+   Original line: Chanel Murchison Head Coach / D&I Committee Co-Chair 909-607- chanel.murchison@cms.claremont.edu
+
+3. Paul Settles
+   Email: paul.settles@cms.claremont.edu
+   Username: paul.settles
+   Original line: Paul Settles Head Coach / SAAC Advisor 909-241- paul.settles@cms.claremont.edu
+
+4. Bill Walkenbach
+   Email: bill.walkenbach@cms.claremont.edu
+   Username: bill.walkenbach
+   Original line: Bill Walkenbach Head Coach 909-607- bill.walkenbach@cms.claremont.edu
+
+5. Quinn Heiner
+   Email: quinn.heiner@cms.claremont.edu
+   Username: quinn.heiner
+   Original line: Quinn Heiner Associate Head Coach/Recruiting Coordinator quinn.heiner@cms.claremont.edu
+
+6. David Higuera
+   Email: david.higuera@cms.claremont.edu
+   Username: david.higuera
+   Original line: David Higuera Assistant Coach david.higuera@cms.claremont.edu
+
+7. Keith Walker
+   Email: keith.walker@cms.claremont.edu
+   Username: keith.walker
+   Original line: Keith Walker Assistant Coach keith.walker@cms.claremont.edu
+
+8. Ken Scalmanini
+   Email: ken.scalmanini@cms.claremont.edu
+   Username: ken.scalmanini
+   Original line: Ken Scalmanini Head Coach 909-607- ken.scalmanini@cms.claremont.edu
+
+9. Michael Wells
+   Email: michael.wells@cms.claremont.edu
+   Username: michael.wells
+   Original line: Michael Wells Associate Head Coach michael.wells@cms.claremont.edu
+
+10. Jim Hennacy
+   Email: james.hennacy@cms.claremont.edu
+   Username: james.hennacy
+   Original line: Jim Hennacy Assistant Coach james.hennacy@cms.claremont.edu
+
+11. Chanel Murchison
+   Email: chanel.murchison@cms.claremont.edu
+   Username: chanel.murchison
+   Original line: Chanel Murchison Head Coach / D&I Committee Co-Chair 909-607- chanel.murchison@cms.claremont.edu
+
+12. Mollie Williams
+   Email: mollie.williams@cms.claremont.edu
+   Username: mollie.williams
+   Original line: Mollie Williams Assistant Coach 909-607- mollie.williams@cms.claremont.edu
+
+13. Andre McLean
+   Email: andre.mclean@cms.claremont.edu
+   Username: andre.mclean
+   Original line: Andre McLean Assistant Coach andre.mclean@cms.claremont.edu
+
+14. Myron Jacobs
+   Email: myron.jacobs@cms.claremont.edu
+   Username: myron.jacobs
+   Original line: Myron Jacobs Assistant Coach myron.jacobs@cms.claremont.edu
+
+15. Mike Anderson
+   Email: Michael.Anderson@cms.claremont.edu
+   Username: Michael.Anderson
+   Original line: Mike Anderson Assistant Coach Michael.Anderson@cms.claremont.edu
+
+16. Jordan Oster
+   Email: jordan.oster@cms.claremont.edu
+   Username: jordan.oster
+   Original line: Jordan Oster Assistant Coach jordan.oster@cms.claremont.edu
+
+17. Sidney Smith
+   Email: sidney.smith@cms.claremont.edu
+   Username: sidney.smith
+   Original line: Sidney Smith Assistant Coach sidney.smith@cms.claremont.edu
+
+18. Marina Muncan
+   Email: marina.muncan@cms.claremont.edu
+   Username: marina.muncan
+   Original line: Marina Muncan Head XC Coach / Asst. Coach, Distance 909-607- marina.muncan@cms.claremont.edu
+
+19. Bailey Rockholt
+   Email: bailey.rockholt@cms.claremont.edu
+   Username: bailey.rockholt
+   Original line: Bailey Rockholt Assistant Coach bailey.rockholt@cms.claremont.edu
+
+20. Nicolas Acosta
+   Email: Nicolas.Acosta@cms.claremont.edu
+   Username: Nicolas.Acosta
+   Original line: Nicolas Acosta Assistant Coach Nicolas.Acosta@cms.claremont.edu
+
+21. Alexandra Lambros
+   Email: alexandra.lambros@cms.claremont.edu
+   Username: alexandra.lambros
+   Original line: Alexandra Lambros Assistant Coach alexandra.lambros@cms.claremont.edu
+
+22. Kyle Sweeney
+   Email: kyle.sweeney@cms.claremont.edu
+   Username: kyle.sweeney
+   Original line: Kyle Sweeney Head Coach 909-607- kyle.sweeney@cms.claremont.edu
+
+23. Mitchell Fedorka
+   Email: Mitchell.Fedorka@cms.claremont.edu
+   Username: Mitchell.Fedorka
+   Original line: Mitchell Fedorka Head Coach 909-607- Mitchell.Fedorka@cms.claremont.edu
+
+24. Alec Spencer
+   Email: Alec.Spencer@cms.claremont.edu
+   Username: Alec.Spencer
+   Original line: Alec Spencer Assistant Coach Alec.Spencer@cms.claremont.edu
+
+25. Peter Bonilla
+   Email: Peter.Bonilla@cms.claremont.edu
+   Username: Peter.Bonilla
+   Original line: Peter Bonilla Assistant Coach Peter.Bonilla@cms.claremont.edu
+
+26. Keilee Bessho
+   Email: keilee.bessho@cms.claremont.edu
+   Username: keilee.bessho
+   Original line: Keilee Bessho Head Coach 909-607- keilee.bessho@cms.claremont.edu
+
+27. Lauren Uhr
+   Email: lauren.uhr@cms.claremont.edu
+   Username: lauren.uhr
+   Original line: Lauren Uhr Head Coach 909-607- lauren.uhr@cms.claremont.edu
+
+28. Ashley Herrick
+   Email: ashley.herrick@cms.claremont.edu
+   Username: ashley.herrick
+   Original line: Ashley Herrick Assistant Coach ashley.herrick@cms.claremont.edu
+
+29. Edward Cartee
+   Email: edward.cartee@cms.claremont.edu
+   Username: edward.cartee
+   Original line: Edward Cartee Head Coach 909-607- edward.cartee@cms.claremont.edu
+
+30. Parker Roberson
+   Email: parker.roberson@cms.claremont.edu
+   Username: parker.roberson
+   Original line: Parker Roberson Assistant Coach parker.roberson@cms.claremont.edu
+
+31. Julian Ortega
+   Email: julian.ortega@cms.claremont.edu
+   Username: julian.ortega
+   Original line: Julian Ortega Assistant Coach (Goalkeepers) julian.ortega@cms.claremont.edu
+
+32. David Nolan
+   Email: david.nolan@cms.claremont.edu
+   Username: david.nolan
+   Original line: David Nolan Head Coach 909-607- david.nolan@cms.claremont.edu
+
+33. Michael O'Connor
+   Email: Connor@cms.claremont.edu
+   Username: Connor
+   Original line: Michael O'Connor Assistant Coach/Recruiting Relations MIchael.O'Connor@cms.claremont.edu
+
+34. Julia Gomez
+   Email: Julia.Gomez@cms.claremont.edu
+   Username: Julia.Gomez
+   Original line: Julia Gomez Assistant Coach Julia.Gomez@cms.claremont.edu
+
+35. Caelyn Smith
+   Email: caelyn.smith@cms.claremont.edu
+   Username: caelyn.smith
+   Original line: Caelyn Smith Assistant Coach caelyn.smith@cms.claremont.edu
+
+36. Skania Valencia
+   Email: skania.valencia@cms.claremont.edu
+   Username: skania.valencia
+   Original line: Skania Valencia Head Coach 909-607- skania.valencia@cms.claremont.edu
+
+37. Bella Rocco
+   Email: isabel.rocco@cms.claremont.edu
+   Username: isabel.rocco
+   Original line: Bella Rocco Assistant Coach isabel.rocco@cms.claremont.edu
+
+38. Ralph Navarro
+   Email: ralph.navarro@cms.claremont.edu
+   Username: ralph.navarro
+   Original line: Ralph Navarro Assistant Coach ralph.navarro@cms.claremont.edu
+
+39. Charlie Griffiths
+   Email: charles.griffiths@cms.claremont.edu
+   Username: charles.griffiths
+   Original line: Charlie Griffiths Head Coach 909-607- charles.griffiths@cms.claremont.edu
+
+40. Ahmed Elsayed
+   Email: ahmed.elsayed@cms.claremont.edu
+   Username: ahmed.elsayed
+   Original line: Ahmed Elsayed Diving Coach 909-607- ahmed.elsayed@cms.claremont.edu
+
+41. Thomas Jansen
+   Email: thomas.jansen@cms.claremont.edu
+   Username: thomas.jansen
+   Original line: Thomas Jansen Assistant Coach thomas.jansen@cms.claremont.edu
+
+42. Sam Baron
+   Email: Samantha.Baron@cms.claremont.edu
+   Username: Samantha.Baron
+   Original line: Sam Baron Assistant Coach Samantha.Baron@cms.claremont.edu
+
+43. Paul Settles
+   Email: paul.settles@cms.claremont.edu
+   Username: paul.settles
+   Original line: Paul Settles Head Coach / SAAC Advisor 909-241- paul.settles@cms.claremont.edu
+
+44. David Schwarz
+   Email: david.schwarz@cms.claremont.edu
+   Username: david.schwarz
+   Original line: David Schwarz Head Coach 909-607- david.schwarz@cms.claremont.edu
+
+45. Emily Orlove
+   Email: emily.orlove@cms.claremont.edu
+   Username: emily.orlove
+   Original line: Emily Orlove Assistant Coach emily.orlove@cms.claremont.edu
+
+46. Angela Kulikov
+   Email: Angela.kulikov@cms.claremont.edu
+   Username: Angela.kulikov
+   Original line: Angela Kulikov Assistant Coach Angela.kulikov@cms.claremont.edu
+
+47. Lindsay Brown
+   Email: Lindsay.Brown@cms.claremont.edu
+   Username: Lindsay.Brown
+   Original line: Lindsay Brown Assistant Coach Lindsay.Brown@cms.claremont.edu
+
+48. Glenn Stewart
+   Email: glenn.stewart@cms.claremont.edu
+   Username: glenn.stewart
+   Original line: Glenn Stewart Head Coach 909-607- glenn.stewart@cms.claremont.edu
+
+49. Marina Muncan
+   Email: marina.muncan@cms.claremont.edu
+   Username: marina.muncan
+   Original line: Marina Muncan Head XC Coach / Asst. Coach, Distance 909-607- marina.muncan@cms.claremont.edu
+
+50. Veronica Bell
+   Email: Veronica.Amarasekara@cms.claremont.edu
+   Username: Veronica.Amarasekara
+   Original line: Veronica Bell Amarasekara Assistant Coach, Jumps 909-607- Veronica.Amarasekara@cms.claremont.edu
+
+51. Jeff Venglass
+   Email: Jeff.Venglass@cms.claremont.edu
+   Username: Jeff.Venglass
+   Original line: Jeff Venglass Assistant Coach, Throws 909-607- Jeff.Venglass@cms.claremont.edu
+
+52. Emily Ramey-Root
+   Email: emily.root@cms.claremont.edu
+   Username: emily.root
+   Original line: Emily Ramey-Root Assistant Coach 909-607- emily.root@cms.claremont.edu
+
+53. Kurt Vlasich
+   Email: kurt.vlasich@cms.claremont.edu
+   Username: kurt.vlasich
+   Original line: Kurt Vlasich Head Coach 909-607- kurt.vlasich@cms.claremont.edu
+
+54. Megan Kronschnabel
+   Email: Megan.Kronschnabel@ClaremontMcKenna.edu
+   Username: Megan.Kronschnabel
+   Original line: Megan Kronschnabel Head Assistant Coach/Recruiting Coordinator Megan.Kronschnabel@ClaremontMcKenna.edu
+
+55. Kylie Thomas
+   Email: kylie.thomas@cms.claremont.edu
+   Username: kylie.thomas
+   Original line: Kylie Thomas Assistant Coach kylie.thomas@cms.claremont.edu
+
+56. Xenia Villagomez
+   Email: Xenia.Villagomez@cms.claremont.edu
+   Username: Xenia.Villagomez
+   Original line: Xenia Villagomez Assistant Coach Xenia.Villagomez@cms.claremont.edu
+
+57. Greg Lonzo
+   Email: greg.lonzo@cms.claremont.edu
+   Username: greg.lonzo
+   Original line: Greg Lonzo Head Coach 909-607- greg.lonzo@cms.claremont.edu
+
+58. Dave Merryman
+   Email: david.merryman@cms.claremont.edu
+   Username: david.merryman
+   Original line: Dave Merryman Assistant Coach david.merryman@cms.claremont.edu
+
+59. Dominic Vicino
+   Email: Dominic.Vicino@cms.claremont.edu
+   Username: Dominic.Vicino
+   Original line: Dominic Vicino Assistant Coach Dominic.Vicino@cms.claremont.edu
+
+60. William Thomas
+   Email: william.thomas@cms.claremont.edu
+   Username: william.thomas
+   Original line: William Thomas Assistant Coach william.thomas@cms.claremont.edu
+
+61. Greg Lonzo
+   Email: greg.lonzo@cms.claremont.edu
+   Username: greg.lonzo
+   Original line: Greg Lonzo Head Coach 909-607- greg.lonzo@cms.claremont.edu
+
+62. Dave Merryman
+   Email: david.merryman@cms.claremont.edu
+   Username: david.merryman
+   Original line: Dave Merryman Assistant Coach david.merryman@cms.claremont.edu
+
+63. Dominic Vicino
+   Email: Dominic.Vicino@cms.claremont.edu
+   Username: Dominic.Vicino
+   Original line: Dominic Vicino Assistant Coach Dominic.Vicino@cms.claremont.edu
+
+64. William Thomas
+   Email: william.thomas@cms.claremont.edu
+   Username: william.thomas
+   Original line: William Thomas Assistant Coach william.thomas@cms.claremont.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Andrew Ram Assistant Strength and Conditioning Coach andrew.ram@cms.claremont.edu
+• Chanel Murchison Head Coach / D&I Committee Co-Chair 909-607- chanel.murchison@cms.claremont.edu
+• Paul Settles Head Coach / SAAC Advisor 909-241- paul.settles@cms.claremont.edu
+• Bill Walkenbach Head Coach 909-607- bill.walkenbach@cms.claremont.edu
+• Quinn Heiner Associate Head Coach/Recruiting Coordinator quinn.heiner@cms.claremont.edu
+• David Higuera Assistant Coach david.higuera@cms.claremont.edu
+• Keith Walker Assistant Coach keith.walker@cms.claremont.edu
+• Ken Scalmanini Head Coach 909-607- ken.scalmanini@cms.claremont.edu
+• Michael Wells Associate Head Coach michael.wells@cms.claremont.edu
+• Jim Hennacy Assistant Coach james.hennacy@cms.claremont.edu
+• Chanel Murchison Head Coach / D&I Committee Co-Chair 909-607- chanel.murchison@cms.claremont.edu
+• Mollie Williams Assistant Coach 909-607- mollie.williams@cms.claremont.edu
+• Andre McLean Assistant Coach andre.mclean@cms.claremont.edu
+• Myron Jacobs Assistant Coach myron.jacobs@cms.claremont.edu
+• Mike Anderson Assistant Coach Michael.Anderson@cms.claremont.edu
+• Jordan Oster Assistant Coach jordan.oster@cms.claremont.edu
+• Sidney Smith Assistant Coach sidney.smith@cms.claremont.edu
+• Marina Muncan Head XC Coach / Asst. Coach, Distance 909-607- marina.muncan@cms.claremont.edu
+• Bailey Rockholt Assistant Coach bailey.rockholt@cms.claremont.edu
+• Nicolas Acosta Assistant Coach Nicolas.Acosta@cms.claremont.edu
+• Alexandra Lambros Assistant Coach alexandra.lambros@cms.claremont.edu
+• Kyle Sweeney Head Coach 909-607- kyle.sweeney@cms.claremont.edu
+• Mitchell Fedorka Head Coach 909-607- Mitchell.Fedorka@cms.claremont.edu
+• Alec Spencer Assistant Coach Alec.Spencer@cms.claremont.edu
+• Peter Bonilla Assistant Coach Peter.Bonilla@cms.claremont.edu
+• Keilee Bessho Head Coach 909-607- keilee.bessho@cms.claremont.edu
+• Lauren Uhr Head Coach 909-607- lauren.uhr@cms.claremont.edu
+• Ashley Herrick Assistant Coach ashley.herrick@cms.claremont.edu
+• Edward Cartee Head Coach 909-607- edward.cartee@cms.claremont.edu
+• Parker Roberson Assistant Coach parker.roberson@cms.claremont.edu
+• Julian Ortega Assistant Coach (Goalkeepers) julian.ortega@cms.claremont.edu
+• David Nolan Head Coach 909-607- david.nolan@cms.claremont.edu
+• Michael O'Connor Assistant Coach/Recruiting Relations MIchael.O'Connor@cms.claremont.edu
+• Julia Gomez Assistant Coach Julia.Gomez@cms.claremont.edu
+• Caelyn Smith Assistant Coach caelyn.smith@cms.claremont.edu
+• Skania Valencia Head Coach 909-607- skania.valencia@cms.claremont.edu
+• Bella Rocco Assistant Coach isabel.rocco@cms.claremont.edu
+• Ralph Navarro Assistant Coach ralph.navarro@cms.claremont.edu
+• Charlie Griffiths Head Coach 909-607- charles.griffiths@cms.claremont.edu
+• Ahmed Elsayed Diving Coach 909-607- ahmed.elsayed@cms.claremont.edu
+• Thomas Jansen Assistant Coach thomas.jansen@cms.claremont.edu
+• Sam Baron Assistant Coach Samantha.Baron@cms.claremont.edu
+• Paul Settles Head Coach / SAAC Advisor 909-241- paul.settles@cms.claremont.edu
+• David Schwarz Head Coach 909-607- david.schwarz@cms.claremont.edu
+• Emily Orlove Assistant Coach emily.orlove@cms.claremont.edu
+• Angela Kulikov Assistant Coach Angela.kulikov@cms.claremont.edu
+• Lindsay Brown Assistant Coach Lindsay.Brown@cms.claremont.edu
+• Glenn Stewart Head Coach 909-607- glenn.stewart@cms.claremont.edu
+• Marina Muncan Head XC Coach / Asst. Coach, Distance 909-607- marina.muncan@cms.claremont.edu
+• Veronica Bell Amarasekara Assistant Coach, Jumps 909-607- Veronica.Amarasekara@cms.claremont.edu
+• Jeff Venglass Assistant Coach, Throws 909-607- Jeff.Venglass@cms.claremont.edu
+• Emily Ramey-Root Assistant Coach 909-607- emily.root@cms.claremont.edu
+• Kurt Vlasich Head Coach 909-607- kurt.vlasich@cms.claremont.edu
+• Megan Kronschnabel Head Assistant Coach/Recruiting Coordinator Megan.Kronschnabel@ClaremontMcKenna.edu
+• Kylie Thomas Assistant Coach kylie.thomas@cms.claremont.edu
+• Xenia Villagomez Assistant Coach Xenia.Villagomez@cms.claremont.edu
+• Greg Lonzo Head Coach 909-607- greg.lonzo@cms.claremont.edu
+• Dave Merryman Assistant Coach david.merryman@cms.claremont.edu
+• Dominic Vicino Assistant Coach Dominic.Vicino@cms.claremont.edu
+• William Thomas Assistant Coach william.thomas@cms.claremont.edu
+• Greg Lonzo Head Coach 909-607- greg.lonzo@cms.claremont.edu
+• Dave Merryman Assistant Coach david.merryman@cms.claremont.edu
+• Dominic Vicino Assistant Coach Dominic.Vicino@cms.claremont.edu
+• William Thomas Assistant Coach william.thomas@cms.claremont.edu

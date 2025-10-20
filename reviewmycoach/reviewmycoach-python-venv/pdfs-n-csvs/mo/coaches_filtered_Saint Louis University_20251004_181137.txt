@@ -1,0 +1,287 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:38
+============================================================
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Grace Shultz
+   Email: grace.shultz@slu.edu
+   Username: grace.shultz
+   Original line: Grace Shultz Cheer Coach grace.shultz@slu.edu
+
+2. Emily Cichon
+   Email: emily.m.thibon@slu.edu
+   Username: emily.m.thibon
+   Original line: Emily Cichon Dance Coach emily.m.thibon@slu.edu
+
+3. Stephanie Dankenbring
+   Email: stephanie.dankenbring@slu.edu
+   Username: stephanie.dankenbring
+   Original line: Stephanie Dankenbring Assistant Dance Coach stephanie.dankenbring@slu.edu
+
+4. Clare LaBlance
+   Email: clare.lablance@slu.edu
+   Username: clare.lablance
+   Original line: Clare LaBlance Assistant Dance Coach clare.lablance@slu.edu
+
+5. Miles Miller
+   Email: miles.miller@slu.edu
+   Username: miles.miller
+   Original line: Miles Miller Interim Head Coach 314-977- miles.miller@slu.edu
+
+6. Jason Eary
+   Email: jason.eary@slu.edu
+   Username: jason.eary
+   Original line: Jason Eary Assistant Coach 314-977- jason.eary@slu.edu
+
+7. Zak Boisvert
+   Email: zachary.boisvert@slu.edu
+   Username: zachary.boisvert
+   Original line: Zak Boisvert Assistant Coach 314-977- zachary.boisvert@slu.edu
+
+8. Antone Gray
+   Email: antone.gray@slu.edu
+   Username: antone.gray
+   Original line: Antone Gray Assistant Coach 314-977- antone.gray@slu.edu
+
+9. Corey Tate
+   Email: corey.tate@slu.edu
+   Username: corey.tate
+   Original line: Corey Tate Assistant Coach 314-977- corey.tate@slu.edu
+
+10. Rob Gardiner
+   Email: robert.gardiner@slu.edu
+   Username: robert.gardiner
+   Original line: Rob Gardiner Assistant Coach 314-977- robert.gardiner@slu.edu
+
+11. Phil Gaetano
+   Email: philip.gaetano@slu.edu
+   Username: philip.gaetano
+   Original line: Phil Gaetano Assistant Coach 314-977- philip.gaetano@slu.edu
+
+12. Rebecca Tillett
+   Email: rebecca.tillett@slu.edu
+   Username: rebecca.tillett
+   Original line: Rebecca Tillett Head Coach 314-977- rebecca.tillett@slu.edu
+
+13. Jimmy Colloton
+   Email: jimmy.colloton@slu.edu
+   Username: jimmy.colloton
+   Original line: Jimmy Colloton Associate Head Coach 314-977- jimmy.colloton@slu.edu
+
+14. Ka'lia Johnson
+   Email: kalia.johnson@slu.edu
+   Username: kalia.johnson
+   Original line: Ka'lia Johnson Assistant Coach (314) 977- kalia.johnson@slu.edu
+
+15. Frozena Jerro
+   Email: frozena.jerro@slu.edu
+   Username: frozena.jerro
+   Original line: Frozena Jerro Assistant Coach/Recruiting Coordinator (314) 977- frozena.jerro@slu.edu
+
+16. Chyna Latimer
+   Email: chyna.latimer@slu.edu
+   Username: chyna.latimer
+   Original line: Chyna Latimer Director of Basketball Operations/Assistant Coach (314) 977- chyna.latimer@slu.edu
+
+17. Jon Bell
+   Email: jon.bell@slu.edu
+   Username: jon.bell
+   Original line: Jon Bell Head Coach 314-977- jon.bell@slu.edu
+
+18. Rexi Parcells
+   Email: rexi.parcells@slu.edu
+   Username: rexi.parcells
+   Original line: Rexi Parcells Assistant Coach rexi.parcells@slu.edu
+
+19. Laura Hurff
+   Email: laura.hurff@slu.edu
+   Username: laura.hurff
+   Original line: Laura Hurff Interim Head Coach laura.hurff@slu.edu
+
+20. Teresa Schmidt
+   Email: teresa.schmidt.1@slu.edu
+   Username: teresa.schmidt.1
+   Original line: Teresa Schmidt Interim Assistant Coach teresa.schmidt.1@slu.edu
+
+21. Kevin Kalish
+   Email: kkalish2@slu.edu
+   Username: kkalish2
+   Original line: Kevin Kalish Head Coach 314-977- kkalish2@slu.edu
+
+22. Kevin Stoll
+   Email: kevin.stoll@slu.edu
+   Username: kevin.stoll
+   Original line: Kevin Stoll Assistant Coach 314-977- kevin.stoll@slu.edu
+
+23. Jack Roberts
+   Email: jack.roberts@slu.edu
+   Username: jack.roberts
+   Original line: Jack Roberts Assistant Coach 314-977- jack.roberts@slu.edu
+
+24. Carlos Tofern
+   Email: jan.tofern@slu.edu
+   Username: jan.tofern
+   Original line: Carlos Tofern Assistant Coach (Goalkeepers) jan.tofern@slu.edu
+
+25. Katie Shields
+   Email: katie.shields@slu.edu
+   Username: katie.shields
+   Original line: Katie Shields Head Coach 314-977- katie.shields@slu.edu
+
+26. Megan Link
+   Email: megan.link@slu.edu
+   Username: megan.link
+   Original line: Megan Link Associate Head Coach 636-373- megan.link@slu.edu
+
+27. Cal McKee
+   Email: caleb.mckee@slu.edu
+   Username: caleb.mckee
+   Original line: Cal McKee Assistant Coach 314-422- caleb.mckee@slu.edu
+
+28. Brionna Halverson
+   Email: brionna.halverson@slu.edu
+   Username: brionna.halverson
+   Original line: Brionna Halverson Assistant Coach 417-399- brionna.halverson@slu.edu
+
+29. Christy Connoyer
+   Email: christy.connoyer@slu.edu
+   Username: christy.connoyer
+   Original line: Christy Connoyer Head Coach 314-977- christy.connoyer@slu.edu
+
+30. Maxine Rodriguez
+   Email: maxine.rodriguez@slu.edu
+   Username: maxine.rodriguez
+   Original line: Maxine Rodriguez Associate Head Coach 314-977- maxine.rodriguez@slu.edu
+
+31. Carter LaValley
+   Email: carterlavalley@slu.edu
+   Username: carterlavalley
+   Original line: Carter LaValley Assistant Coach carterlavalley@slu.edu
+
+32. Ryan McCoy
+   Email: ryan.mccoy@slu.edu
+   Username: ryan.mccoy
+   Original line: Ryan McCoy Head Coach (314) 977- ryan.mccoy@slu.edu
+
+33. Austin Mayer
+   Email: austin.mayer@slu.edu
+   Username: austin.mayer
+   Original line: Austin Mayer Assistant Coach austin.mayer@slu.edu
+
+34. Cortney Teague
+   Email: cortney.teague@slu.edu
+   Username: cortney.teague
+   Original line: Cortney Teague Diving Coach cortney.teague@slu.edu
+
+35. James Tobin
+   Email: james.tobin.1@slu.edu
+   Username: james.tobin.1
+   Original line: James Tobin Head Coach (314) 977- james.tobin.1@slu.edu
+
+36. Lizzie Barlow
+   Email: elizabeth.barlow@health.slu.edu
+   Username: elizabeth.barlow
+   Original line: Lizzie Barlow Assistant Coach elizabeth.barlow@health.slu.edu
+
+37. James Tobin
+   Email: james.tobin.1@slu.edu
+   Username: james.tobin.1
+   Original line: James Tobin Head Coach (314) 977- james.tobin.1@slu.edu
+
+38. Lizzie Barlow
+   Email: elizabeth.barlow@health.slu.edu
+   Username: elizabeth.barlow
+   Original line: Lizzie Barlow Assistant Coach elizabeth.barlow@health.slu.edu
+
+39. Jon Bell
+   Email: jon.bell@slu.edu
+   Username: jon.bell
+   Original line: Jon Bell Head Coach 314-977- jon.bell@slu.edu
+
+40. Rexi Parcells
+   Email: rexi.parcells@slu.edu
+   Username: rexi.parcells
+   Original line: Rexi Parcells Assistant Coach rexi.parcells@slu.edu
+
+41. Lindsay Walker
+   Email: lindsay.walker@slu.edu
+   Username: lindsay.walker
+   Original line: Lindsay Walker Assistant Coach 314-977- lindsay.walker@slu.edu
+
+42. Lina Schubert
+   Email: lina.schubert@slu.edu
+   Username: lina.schubert
+   Original line: Lina Schubert Assistant Coach lina.schubert@slu.edu
+
+43. Andrea Beaty-Cain
+   Email: andrea.beaty@slu.edu
+   Username: andrea.beaty
+   Original line: Andrea Beaty-Cain Head Coach 314-977- andrea.beaty@slu.edu
+
+44. Steven Zarzycki
+   Email: steven.zarzycki@slu.edu
+   Username: steven.zarzycki
+   Original line: Steven Zarzycki Assistant Coach steven.zarzycki@slu.edu
+
+45. Kyle Cohan
+   Email: kyle.cohan@slu.edu
+   Username: kyle.cohan
+   Original line: Kyle Cohan Assistant Coach kyle.cohan@slu.edu
+
+46. Anna Bair
+   Email: anna.bair@slu.edu
+   Username: anna.bair
+   Original line: Anna Bair Assistant Coach anna.bair@slu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Grace Shultz Cheer Coach grace.shultz@slu.edu
+• Emily Cichon Dance Coach emily.m.thibon@slu.edu
+• Stephanie Dankenbring Assistant Dance Coach stephanie.dankenbring@slu.edu
+• Clare LaBlance Assistant Dance Coach clare.lablance@slu.edu
+• Miles Miller Interim Head Coach 314-977- miles.miller@slu.edu
+• Jason Eary Assistant Coach 314-977- jason.eary@slu.edu
+• Zak Boisvert Assistant Coach 314-977- zachary.boisvert@slu.edu
+• Antone Gray Assistant Coach 314-977- antone.gray@slu.edu
+• Corey Tate Assistant Coach 314-977- corey.tate@slu.edu
+• Rob Gardiner Assistant Coach 314-977- robert.gardiner@slu.edu
+• Phil Gaetano Assistant Coach 314-977- philip.gaetano@slu.edu
+• Rebecca Tillett Head Coach 314-977- rebecca.tillett@slu.edu
+• Jimmy Colloton Associate Head Coach 314-977- jimmy.colloton@slu.edu
+• Ka'lia Johnson Assistant Coach (314) 977- kalia.johnson@slu.edu
+• Frozena Jerro Assistant Coach/Recruiting Coordinator (314) 977- frozena.jerro@slu.edu
+• Chyna Latimer Director of Basketball Operations/Assistant Coach (314) 977- chyna.latimer@slu.edu
+• Jon Bell Head Coach 314-977- jon.bell@slu.edu
+• Rexi Parcells Assistant Coach rexi.parcells@slu.edu
+• Laura Hurff Interim Head Coach laura.hurff@slu.edu
+• Teresa Schmidt Interim Assistant Coach teresa.schmidt.1@slu.edu
+• Kevin Kalish Head Coach 314-977- kkalish2@slu.edu
+• Kevin Stoll Assistant Coach 314-977- kevin.stoll@slu.edu
+• Jack Roberts Assistant Coach 314-977- jack.roberts@slu.edu
+• Carlos Tofern Assistant Coach (Goalkeepers) jan.tofern@slu.edu
+• Katie Shields Head Coach 314-977- katie.shields@slu.edu
+• Megan Link Associate Head Coach 636-373- megan.link@slu.edu
+• Cal McKee Assistant Coach 314-422- caleb.mckee@slu.edu
+• Brionna Halverson Assistant Coach 417-399- brionna.halverson@slu.edu
+• Christy Connoyer Head Coach 314-977- christy.connoyer@slu.edu
+• Maxine Rodriguez Associate Head Coach 314-977- maxine.rodriguez@slu.edu
+• Carter LaValley Assistant Coach carterlavalley@slu.edu
+• Ryan McCoy Head Coach (314) 977- ryan.mccoy@slu.edu
+• Austin Mayer Assistant Coach austin.mayer@slu.edu
+• Cortney Teague Diving Coach cortney.teague@slu.edu
+• James Tobin Head Coach (314) 977- james.tobin.1@slu.edu
+• Lizzie Barlow Assistant Coach elizabeth.barlow@health.slu.edu
+• James Tobin Head Coach (314) 977- james.tobin.1@slu.edu
+• Lizzie Barlow Assistant Coach elizabeth.barlow@health.slu.edu
+• Jon Bell Head Coach 314-977- jon.bell@slu.edu
+• Rexi Parcells Assistant Coach rexi.parcells@slu.edu
+• Lindsay Walker Assistant Coach 314-977- lindsay.walker@slu.edu
+• Lina Schubert Assistant Coach lina.schubert@slu.edu
+• Andrea Beaty-Cain Head Coach 314-977- andrea.beaty@slu.edu
+• Steven Zarzycki Assistant Coach steven.zarzycki@slu.edu
+• Kyle Cohan Assistant Coach kyle.cohan@slu.edu
+• Anna Bair Assistant Coach anna.bair@slu.edu

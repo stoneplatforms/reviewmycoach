@@ -1,0 +1,71 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:06
+============================================================
+
+Total coaches found: 10
+
+PARSED ENTRIES:
+----------------------------------------
+1. Doug Buysse
+   Email: dbuysse@iu.edu
+   Username: dbuysse
+   Original line: Doug Buysse Head Coach dbuysse@iu.edu 574-520-
+
+2. Zane Gonzalez
+   Email: zagonzal@iu.edu
+   Username: zagonzal
+   Original line: Zane Gonzalez Associate Head Coach zagonzal@iu.edu
+
+3. Kevin Phelps
+   Email: kevphelp@iu.edu
+   Username: kevphelp
+   Original line: Kevin Phelps Assistant Coach kevphelp@iu.edu
+
+4. Scott Cooper
+   Email: scthcoop@iu.edu
+   Username: scthcoop
+   Original line: Scott Cooper Head Coach scthcoop@iu.edu 574-520-
+
+5. Jason Clune
+   Email: jaclune@iu.edu
+   Username: jaclune
+   Original line: Jason Clune Assistant Coach jaclune@iu.edu
+
+6. Steve Bruce
+   Email: stbruce@iu.edu
+   Username: stbruce
+   Original line: Steve Bruce Head Coach stbruce@iu.edu 574-520-
+
+7. Terry Leek
+   Email: leekt@iu.edu
+   Username: leekt
+   Original line: Terry Leek Associate Head Coach leekt@iu.edu
+
+8. Bobby Barnes
+   Email: bobarnes@iu.edu
+   Username: bobarnes
+   Original line: Bobby Barnes Head Coach bobarnes@iu.edu 574-520-
+
+9. Annie Dehnke
+   Email: andehnke@iu.edu
+   Username: andehnke
+   Original line: Annie Dehnke Head Softball Coach andehnke@iu.edu
+
+10. Cali Topolski
+   Email: ctopolsk@iu.edu
+   Username: ctopolsk
+   Original line: Cali Topolski Head Coach ctopolsk@iu.edu 574-520-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Doug Buysse Head Coach dbuysse@iu.edu 574-520-
+• Zane Gonzalez Associate Head Coach zagonzal@iu.edu
+• Kevin Phelps Assistant Coach kevphelp@iu.edu
+• Scott Cooper Head Coach scthcoop@iu.edu 574-520-
+• Jason Clune Assistant Coach jaclune@iu.edu
+• Steve Bruce Head Coach stbruce@iu.edu 574-520-
+• Terry Leek Associate Head Coach leekt@iu.edu
+• Bobby Barnes Head Coach bobarnes@iu.edu 574-520-
+• Annie Dehnke Head Softball Coach andehnke@iu.edu
+• Cali Topolski Head Coach ctopolsk@iu.edu 574-520-

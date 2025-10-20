@@ -1,0 +1,215 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:01
+============================================================
+
+Total coaches found: 34
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jannelle Iaquinto
+   Email: jiaquinto@barry.edu
+   Username: jiaquinto
+   Original line: Jannelle Iaquinto Associate Athletic jiaquinto@barry.edu 305- @CoachIaquinto
+
+2. DJ Price
+   Email: dprice@barry.edu
+   Username: dprice
+   Original line: DJ Price Head Coach dprice@barry.edu 305- @CoachDJPrice
+
+3. Dean Kanganis
+   Email: dkanganis@barry.edu
+   Username: dkanganis
+   Original line: Dean Kanganis Associate Head dkanganis@barry.edu 305- @CoachDKanganis
+
+4. Ben Terwilliger
+   Email: bterwilliger@barry.edu
+   Username: bterwilliger
+   Original line: Ben Terwilliger Assistant Coach/Pitching bterwilliger@barry.edu 305-
+
+5. Justin Furr
+   Email: jfurr@barry.edu
+   Username: jfurr
+   Original line: Justin Furr Head Coach jfurr@barry.edu 305- @CoachJFurr
+
+6. Kevin Donahue
+   Email: kdonahue@barry.edu
+   Username: kdonahue
+   Original line: Kevin Donahue Assistant Coach kdonahue@barry.edu (305)
+
+7. Allison Bustamante
+   Email: abustamante@barry.edu
+   Username: abustamante
+   Original line: Allison Bustamante Head Coach abustamante@barry.edu 305-
+
+8. Michael Spiliopoulos
+   Email: mspiliopoulos@barry.edu
+   Username: mspiliopoulos
+   Original line: Michael Spiliopoulos Assistant Coach mspiliopoulos@barry.edu 305-
+
+9. Jacob Powell
+   Email: japowell@barry.edu
+   Username: japowell
+   Original line: Jacob Powell Assistant Coach japowell@barry.edu 305-
+
+10. Kevin Padin
+   Email: kpadin@barry.edu
+   Username: kpadin
+   Original line: Dr. Kevin Padin Head Coach kpadin@barry.edu 305-
+
+11. James Conley
+   Email: jconley@barry.edu
+   Username: jconley
+   Original line: James Conley Assistant Coach jconley@barry.edu 305-
+
+12. Jamal Dorvilier
+   Email: jdorvilier@barry.edu
+   Username: jdorvilier
+   Original line: Jamal Dorvilier Assistant Coach jdorvilier@barry.edu 786-
+
+13. Lance Hotchkiss
+   Email: lhotchkiss@barry.edu
+   Username: lhotchkiss
+   Original line: Lance Hotchkiss Head Coach lhotchkiss@barry.edu 305-
+
+14. Carlos Velez
+   Email: cvelez@barry.edu
+   Username: cvelez
+   Original line: Carlos Velez Head Coach cvelez@barry.edu 305- @The_realcvelez
+
+15. Braydon Bennett
+   Email: bbennett@barry.edu
+   Username: bbennett
+   Original line: Braydon Bennett Head Coach bbennett@barry.edu 305-
+
+16. Colin Regan
+   Email: cregan@barry.edu
+   Username: cregan
+   Original line: Colin Regan Head Coach cregan@barry.edu
+
+17. Kyla Pullen
+   Email: kpullen@barry.edu
+   Username: kpullen
+   Original line: Kyla Pullen Assistant Coach kpullen@barry.edu 305-
+
+18. Sean Cotter
+   Email: scotter@barry.edu
+   Username: scotter
+   Original line: Sean Cotter Head Coach scotter@barry.edu 305-
+
+19. Holly Kathios
+   Email: hkathios@barry.edu
+   Username: hkathios
+   Original line: Holly Kathios Associate Head Coach hkathios@barry.edu 305-
+
+20. Amber Jack
+   Email: ajack@barry.edu
+   Username: ajack
+   Original line: Amber Jack Assistant Coach ajack@barry.edu 305- @coachAJ_40
+
+21. Petsa Ivanovic
+   Email: pivanovic@barry.edu
+   Username: pivanovic
+   Original line: Petsa Ivanovic Head Coach pivanovic@barry.edu 305-
+
+22. Ivan Barriga
+   Email: ibarriga@barry.edu
+   Username: ibarriga
+   Original line: Ivan Barriga Associate Head Coach ibarriga@barry.edu 305-
+
+23. Jay Harris
+   Email: jaharris@barry.edu
+   Username: jaharris
+   Original line: Jay Harris Head Coach jaharris@barry.edu 305-
+
+24. Jake Castro
+   Email: jcastro@barry.edu
+   Username: jcastro
+   Original line: Jake Castro Assistant Coach jcastro@barry.edu 305-
+
+25. Noah Moran
+   Email: nmoran@barry.edu
+   Username: nmoran
+   Original line: Noah Moran Head Coach nmoran@barry.edu 305-
+
+26. Nanda Alves
+   Email: malves@barry.edu
+   Username: malves
+   Original line: Nanda Alves Associate Head Coach malves@barry.edu 305-
+
+27. Fred Bonal
+   Email: fbonal@barry.edu
+   Username: fbonal
+   Original line: Fred Bonal Associate Head Coach fbonal@barry.edu 305-
+
+28. Yeffrens Lopez
+   Email: yjlopez@barry.edu
+   Username: yjlopez
+   Original line: Yeffrens Lopez Associate Head Coach yjlopez@barry.edu 305-
+
+29. Alejandro Palacios
+   Email: aortegapalacios@barry.edu
+   Username: aortegapalacios
+   Original line: Alejandro Palacios Assistant Coach aortegapalacios@barry.edu
+
+30. Kevin Padin
+   Email: kpadin@barry.edu
+   Username: kpadin
+   Original line: Dr. Kevin Padin Head Coach kpadin@barry.edu 305-
+
+31. James Conley
+   Email: jconley@barry.edu
+   Username: jconley
+   Original line: James Conley Assistant Coach jconley@barry.edu 305-
+
+32. Jamal Dorvilier
+   Email: jdorvilier@barry.edu
+   Username: jdorvilier
+   Original line: Jamal Dorvilier Assistant Coach jdorvilier@barry.edu 786-
+
+33. Steven Soriano
+   Email: ssoriano@barry.edu
+   Username: ssoriano
+   Original line: Steven Soriano Associate Head Coach ssoriano@barry.edu 786-
+
+34. Jannelle Iaquinto
+   Email: jiaquinto@barry.edu
+   Username: jiaquinto
+   Original line: Jannelle Iaquinto Associate Athletic jiaquinto@barry.edu 305- @CoachIaquinto
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jannelle Iaquinto Associate Athletic jiaquinto@barry.edu 305- @CoachIaquinto
+• DJ Price Head Coach dprice@barry.edu 305- @CoachDJPrice
+• Dean Kanganis Associate Head dkanganis@barry.edu 305- @CoachDKanganis
+• Ben Terwilliger Assistant Coach/Pitching bterwilliger@barry.edu 305-
+• Justin Furr Head Coach jfurr@barry.edu 305- @CoachJFurr
+• Kevin Donahue Assistant Coach kdonahue@barry.edu (305)
+• Allison Bustamante Head Coach abustamante@barry.edu 305-
+• Michael Spiliopoulos Assistant Coach mspiliopoulos@barry.edu 305-
+• Jacob Powell Assistant Coach japowell@barry.edu 305-
+• Dr. Kevin Padin Head Coach kpadin@barry.edu 305-
+• James Conley Assistant Coach jconley@barry.edu 305-
+• Jamal Dorvilier Assistant Coach jdorvilier@barry.edu 786-
+• Lance Hotchkiss Head Coach lhotchkiss@barry.edu 305-
+• Carlos Velez Head Coach cvelez@barry.edu 305- @The_realcvelez
+• Braydon Bennett Head Coach bbennett@barry.edu 305-
+• Colin Regan Head Coach cregan@barry.edu
+• Kyla Pullen Assistant Coach kpullen@barry.edu 305-
+• Sean Cotter Head Coach scotter@barry.edu 305-
+• Holly Kathios Associate Head Coach hkathios@barry.edu 305-
+• Amber Jack Assistant Coach ajack@barry.edu 305- @coachAJ_40
+• Petsa Ivanovic Head Coach pivanovic@barry.edu 305-
+• Ivan Barriga Associate Head Coach ibarriga@barry.edu 305-
+• Jay Harris Head Coach jaharris@barry.edu 305-
+• Jake Castro Assistant Coach jcastro@barry.edu 305-
+• Noah Moran Head Coach nmoran@barry.edu 305-
+• Nanda Alves Associate Head Coach malves@barry.edu 305-
+• Fred Bonal Associate Head Coach fbonal@barry.edu 305-
+• Yeffrens Lopez Associate Head Coach yjlopez@barry.edu 305-
+• Alejandro Palacios Assistant Coach aortegapalacios@barry.edu
+• Dr. Kevin Padin Head Coach kpadin@barry.edu 305-
+• James Conley Assistant Coach jconley@barry.edu 305-
+• Jamal Dorvilier Assistant Coach jdorvilier@barry.edu 786-
+• Steven Soriano Associate Head Coach ssoriano@barry.edu 786-
+• Jannelle Iaquinto Associate Athletic jiaquinto@barry.edu 305- @CoachIaquinto

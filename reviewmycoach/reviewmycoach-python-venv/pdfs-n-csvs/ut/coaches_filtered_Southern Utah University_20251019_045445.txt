@@ -1,0 +1,269 @@
+COACH ENTRIES FOUND - 2025-10-19 04:54:45
+============================================================
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Austin Halligan
+   Email: austinhalligan@suu.edu
+   Username: austinhalligan
+   Original line: Austin Halligan Assistant Sports Performance Coach austinhalligan@suu.edu
+
+2. Matthew Haws
+   Email: matthewhaws@suu.edu
+   Username: matthewhaws
+   Original line: Matthew Haws Assistant Sports Performance Coach matthewhaws@suu.edu
+
+3. DeLane Fitzgerald
+   Email: dlfitzgerald@suu.edu
+   Username: dlfitzgerald
+   Original line: DeLane Fitzgerald Head Coach 435-586- dlfitzgerald@suu.edu
+
+4. John Kelling
+   Email: johnkelling@suu.edu
+   Username: johnkelling
+   Original line: John Kelling Associate Head Coach / Defensive Coordinator / Linebackers Coach 435-586- johnkelling@suu.edu
+
+5. Darrius G.
+   Email: darriussmith@suu.edu
+   Username: darriussmith
+   Original line: Darrius G. Smith Assistant Head Coach / Running Backs Coach / Recruiting Coordinator 435-586- darriussmith@suu.edu
+
+6. Shay McClure
+   Email: shaymcclure@suu.edu
+   Username: shaymcclure
+   Original line: Shay McClure Safeties Coach / Special Teams Coordinator 435-586- shaymcclure@suu.edu
+
+7. Shawn Magginson
+   Email: shawnmagginson@suu.edu
+   Username: shawnmagginson
+   Original line: Shawn Magginson Defensive Ends Coach 435-586- shawnmagginson@suu.edu
+
+8. Will Brunson
+   Email: williambrunson@suu.edu
+   Username: williambrunson
+   Original line: Will Brunson Pass Game Coordinator / Quarterbacks Coach 435-586- williambrunson@suu.edu
+
+9. Ryan Hunt
+   Email: hunt@suu.edu
+   Username: hunt
+   Original line: Ryan Hunt Interior Defensive Line Coach/Director of Football Operations 435-586- hunt@suu.edu
+
+10. Zack Strand
+   Email: zechariahstrand@suu.edu
+   Username: zechariahstrand
+   Original line: Zack Strand Head Football Strength and Conditioning Coach 435-586- zechariahstrand@suu.edu
+
+11. Shaun Gutting
+   Email: shaungutting@suu.edu
+   Username: shaungutting
+   Original line: Shaun Gutting Assistant Coach shaungutting@suu.edu
+
+12. Donald Williams
+   Email: donaldwilliams@suu.edu
+   Username: donaldwilliams
+   Original line: Donald Williams Assistant Coach 408-687- donaldwilliams@suu.edu
+
+13. Tennessee Owens
+   Email: bensonowens@suu.edu
+   Username: bensonowens
+   Original line: Tennessee Owens Assistant Coach bensonowens@suu.edu
+
+14. Austin Halligan
+   Email: austinhalligan@suu.edu
+   Username: austinhalligan
+   Original line: Austin Halligan Assistant Sports Performance Coach austinhalligan@suu.edu
+
+15. Tracy Mason
+   Email: tracysanders@suu.edu
+   Username: tracysanders
+   Original line: Tracy Mason Head Coach tracysanders@suu.edu
+
+16. Allyson Fasnacht
+   Email: allysonfasnacht@suu.edu
+   Username: allysonfasnacht
+   Original line: Allyson Fasnacht Associate Head Coach allysonfasnacht@suu.edu
+
+17. Jay Johnson
+   Email: geraldjohnson@suu.edu
+   Username: geraldjohnson
+   Original line: Jay Johnson Assistant Coach geraldjohnson@suu.edu
+
+18. Advit Raghavan
+   Email: advitraghavan@suu.edu
+   Username: advitraghavan
+   Original line: Advit Raghavan Assistant Coach advitraghavan@suu.edu
+
+19. Tamia Braggs
+   Email: tamiabraggs@suu.edu
+   Username: tamiabraggs
+   Original line: Tamia Braggs Assistant Coach / Director of Basketball Operations tamiabraggs@suu.edu
+
+20. Taycee Measom
+   Email: thunderbirdcheer@suu.edu
+   Username: thunderbirdcheer
+   Original line: Taycee Measom Assistant Cheer & Stunt Coach thunderbirdcheer@suu.edu
+
+21. Averi Rutherford
+   Email: averirutherford@suu.edu
+   Username: averirutherford
+   Original line: Averi Rutherford Head Dance Coach averirutherford@suu.edu
+
+22. Logan Petty
+   Email: loganpetty1@suu.edu
+   Username: loganpetty1
+   Original line: Logan Petty Assistant Coach (Distance) loganpetty1@suu.edu
+
+23. Caylyn McKinlay
+   Email: caylynponich@suu.edu
+   Username: caylynponich
+   Original line: Caylyn McKinlay Head Women's Golf Coach caylynponich@suu.edu
+
+24. John Evans
+   Email: 33jle33@gmail.com
+   Username: 33jle33
+   Original line: John Evans Assistant Coach 435-590- 33jle33@gmail.com
+
+25. Reed McArthur
+   Email: reedmac@infowest.com
+   Username: reedmac
+   Original line: Reed McArthur Assistant Coach 435-627- reedmac@infowest.com
+
+26. Matthew Haws
+   Email: matthewhaws@suu.edu
+   Username: matthewhaws
+   Original line: Matthew Haws Assistant Sports Performance Coach matthewhaws@suu.edu
+
+27. Scotty Bauman
+   Email: bauman@suu.edu
+   Username: bauman
+   Original line: Scotty Bauman Head Coach 435-586- bauman@suu.edu
+
+28. Jamie Wysong
+   Email: jamiewysong@suu.edu
+   Username: jamiewysong
+   Original line: Jamie Wysong Associate Head Coach 435-586- jamiewysong@suu.edu
+
+29. Jeff Richards
+   Email: jrichards@suu.edu
+   Username: jrichards
+   Original line: Jeff Richards Assistant Coach 435-586- jrichards@suu.edu
+
+30. Matthew Haws
+   Email: matthewhaws@suu.edu
+   Username: matthewhaws
+   Original line: Matthew Haws Assistant Sports Performance Coach matthewhaws@suu.edu
+
+31. Kai Edwards
+   Email: kaiedwards@suu.edu
+   Username: kaiedwards
+   Original line: Kai Edwards Head Coach kaiedwards@suu.edu
+
+32. Steven Lindquist
+   Email: stevenlindquist@suu.edu
+   Username: stevenlindquist
+   Original line: Steven Lindquist Associate Head Coach stevenlindquist@suu.edu
+
+33. Taylor McQuillin
+   Email: taylormcquillin@suu.edu
+   Username: taylormcquillin
+   Original line: Taylor McQuillin Associate Head Coach taylormcquillin@suu.edu
+
+34. Miranda Lopez
+   Email: mirandalopez@suu.edu
+   Username: mirandalopez
+   Original line: Miranda Lopez Assistant Coach mirandalopez@suu.edu
+
+35. Austin Halligan
+   Email: austinhalligan@suu.edu
+   Username: austinhalligan
+   Original line: Austin Halligan Assistant Sports Performance Coach austinhalligan@suu.edu
+
+36. Logan Petty
+   Email: loganpetty1@suu.edu
+   Username: loganpetty1
+   Original line: Logan Petty Assistant Coach (Distance) loganpetty1@suu.edu
+
+37. Matthew Haws
+   Email: matthewhaws@suu.edu
+   Username: matthewhaws
+   Original line: Matthew Haws Assistant Sports Performance Coach matthewhaws@suu.edu
+
+38. Austin Halligan
+   Email: austinhalligan@suu.edu
+   Username: austinhalligan
+   Original line: Austin Halligan Assistant Sports Performance Coach austinhalligan@suu.edu
+
+39. Carlos Valle
+   Email: carlosvalle@suu.edu
+   Username: carlosvalle
+   Original line: Carlos Valle Assistant Track and Field Coach (Throws) carlosvalle@suu.edu
+
+40. Cedar English
+   Email: cedarenglish@suu.edu
+   Username: cedarenglish
+   Original line: Cedar English Track & Field Assistant Jumps Coach cedarenglish@suu.edu
+
+41. Dylan Gibson
+   Email: dylangibson@suu.edu
+   Username: dylangibson
+   Original line: Dylan Gibson Track & Field Assistant Sprints Coach dylangibson@suu.edu
+
+42. Matthew Haws
+   Email: matthewhaws@suu.edu
+   Username: matthewhaws
+   Original line: Matthew Haws Assistant Sports Performance Coach matthewhaws@suu.edu
+
+43. Danielle Jensen
+   Email: daniellejensen@suu.edu
+   Username: daniellejensen
+   Original line: Danielle Jensen Head Volleyball Coach daniellejensen@suu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Austin Halligan Assistant Sports Performance Coach austinhalligan@suu.edu
+• Matthew Haws Assistant Sports Performance Coach matthewhaws@suu.edu
+• DeLane Fitzgerald Head Coach 435-586- dlfitzgerald@suu.edu
+• John Kelling Associate Head Coach / Defensive Coordinator / Linebackers Coach 435-586- johnkelling@suu.edu
+• Darrius G. Smith Assistant Head Coach / Running Backs Coach / Recruiting Coordinator 435-586- darriussmith@suu.edu
+• Shay McClure Safeties Coach / Special Teams Coordinator 435-586- shaymcclure@suu.edu
+• Shawn Magginson Defensive Ends Coach 435-586- shawnmagginson@suu.edu
+• Will Brunson Pass Game Coordinator / Quarterbacks Coach 435-586- williambrunson@suu.edu
+• Ryan Hunt Interior Defensive Line Coach/Director of Football Operations 435-586- hunt@suu.edu
+• Zack Strand Head Football Strength and Conditioning Coach 435-586- zechariahstrand@suu.edu
+• Shaun Gutting Assistant Coach shaungutting@suu.edu
+• Donald Williams Assistant Coach 408-687- donaldwilliams@suu.edu
+• Tennessee Owens Assistant Coach bensonowens@suu.edu
+• Austin Halligan Assistant Sports Performance Coach austinhalligan@suu.edu
+• Tracy Mason Head Coach tracysanders@suu.edu
+• Allyson Fasnacht Associate Head Coach allysonfasnacht@suu.edu
+• Jay Johnson Assistant Coach geraldjohnson@suu.edu
+• Advit Raghavan Assistant Coach advitraghavan@suu.edu
+• Tamia Braggs Assistant Coach / Director of Basketball Operations tamiabraggs@suu.edu
+• Taycee Measom Assistant Cheer & Stunt Coach thunderbirdcheer@suu.edu
+• Averi Rutherford Head Dance Coach averirutherford@suu.edu
+• Logan Petty Assistant Coach (Distance) loganpetty1@suu.edu
+• Caylyn McKinlay Head Women's Golf Coach caylynponich@suu.edu
+• John Evans Assistant Coach 435-590- 33jle33@gmail.com
+• Reed McArthur Assistant Coach 435-627- reedmac@infowest.com
+• Matthew Haws Assistant Sports Performance Coach matthewhaws@suu.edu
+• Scotty Bauman Head Coach 435-586- bauman@suu.edu
+• Jamie Wysong Associate Head Coach 435-586- jamiewysong@suu.edu
+• Jeff Richards Assistant Coach 435-586- jrichards@suu.edu
+• Matthew Haws Assistant Sports Performance Coach matthewhaws@suu.edu
+• Kai Edwards Head Coach kaiedwards@suu.edu
+• Steven Lindquist Associate Head Coach stevenlindquist@suu.edu
+• Taylor McQuillin Associate Head Coach taylormcquillin@suu.edu
+• Miranda Lopez Assistant Coach mirandalopez@suu.edu
+• Austin Halligan Assistant Sports Performance Coach austinhalligan@suu.edu
+• Logan Petty Assistant Coach (Distance) loganpetty1@suu.edu
+• Matthew Haws Assistant Sports Performance Coach matthewhaws@suu.edu
+• Austin Halligan Assistant Sports Performance Coach austinhalligan@suu.edu
+• Carlos Valle Assistant Track and Field Coach (Throws) carlosvalle@suu.edu
+• Cedar English Track & Field Assistant Jumps Coach cedarenglish@suu.edu
+• Dylan Gibson Track & Field Assistant Sprints Coach dylangibson@suu.edu
+• Matthew Haws Assistant Sports Performance Coach matthewhaws@suu.edu
+• Danielle Jensen Head Volleyball Coach daniellejensen@suu.edu

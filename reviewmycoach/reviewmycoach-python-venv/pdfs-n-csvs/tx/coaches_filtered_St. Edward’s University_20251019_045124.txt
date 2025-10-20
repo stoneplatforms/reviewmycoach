@@ -1,0 +1,161 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:24
+============================================================
+
+Total coaches found: 25
+
+PARSED ENTRIES:
+----------------------------------------
+1. Zachary Phillips
+   Email: zphillip@stedwards.edu
+   Username: zphillip
+   Original line: Zachary Phillips Assistant Strength and Conditioning Coach zphillip@stedwards.edu
+
+2. Ryan Femath
+   Email: rfemath@stedwards.edu
+   Username: rfemath
+   Original line: Ryan Femath Head Baseball Coach rfemath@stedwards.edu
+
+3. Ransom LaLonde
+   Email: rlalond@stedwards.edu
+   Username: rlalond
+   Original line: Ransom LaLonde Associate Head Coach rlalond@stedwards.edu 512-428-
+
+4. Jeremy Flores
+   Email: jflore74@stedwards.edu
+   Username: jflore74
+   Original line: Jeremy Flores Assistant Baseball Coach jflore74@stedwards.edu
+
+5. Andre Cook
+   Email: andrec@stedwards.edu
+   Username: andrec
+   Original line: Andre Cook Head Men's Basketball Coach andrec@stedwards.edu
+
+6. Nelson Terroba
+   Email: nterroba@stedwards.edu
+   Username: nterroba
+   Original line: Nelson Terroba Assistant Men's Basketball Coach nterroba@stedwards.edu
+
+7. J.J. Riehl
+   Email: jessier@stedwards.edu
+   Username: jessier
+   Original line: J.J. Riehl Head Women's Basketball Coach jessier@stedwards.edu 512-448-
+
+8. Khiani Clark
+   Email: kclark1@stedwards.edu
+   Username: kclark1
+   Original line: Khiani Clark Assistant Women's Basketball Coach kclark1@stedwards.edu
+
+9. Shakera Barnes
+   Email: sbarnes1@stedwards.edu
+   Username: sbarnes1
+   Original line: Shakera Barnes Assistant Coach sbarnes1@stedwards.edu
+
+10. Sean Garland
+   Email: sgarland@stedwards.edu
+   Username: sgarland
+   Original line: Sean Garland Head STUNT and Cheer Coach sgarland@stedwards.edu
+
+11. Sidney Mcintosh
+   Email: smcintos@stedwards.edu
+   Username: smcintos
+   Original line: Sidney Mcintosh Assistant Stunt and Cheer Coach smcintos@stedwards.edu
+
+12. Chase Rathke
+   Email: crathke1@stedwards.edu
+   Username: crathke1
+   Original line: Chase Rathke Head Cross Country and Track & Field Coach crathke1@stedwards.edu
+
+13. Antwain Morgan
+   Email: amorgan8@stedwards.edu
+   Username: amorgan8
+   Original line: Antwain Morgan Assistant Cross Country and Track & Field Coach amorgan8@stedwards.edu
+
+14. Linsey Montgomery
+   Email: lmontgom@stedwards.edu
+   Username: lmontgom
+   Original line: Linsey Montgomery Assistant Cross Country and Track & Field Coach lmontgom@stedwards.edu
+
+15. Brian Young
+   Email: briany@stedwards.edu
+   Username: briany
+   Original line: Brian Young Head Men's Soccer Coach briany@stedwards.edu 512-448-
+
+16. Corey Miller
+   Email: cmille13@stedwards.edu
+   Username: cmille13
+   Original line: Corey Miller Associate Head Men's Soccer Coach cmille13@stedwards.edu 512-428-
+
+17. Kat Nichols
+   Email: knichol3@stedwards.edu
+   Username: knichol3
+   Original line: Kat Nichols Assistant Women's Soccer Coach knichol3@stedwards.edu
+
+18. Tanya Noujaim
+   Email: tanyanoujaim@gmail.com
+   Username: tanyanoujaim
+   Original line: Tanya Noujaim Volunteer Assistant Women’s Soccer Coach tanyanoujaim@gmail.com
+
+19. Tom Shortland
+   Email: tshortlan@lonestar-sc.com
+   Username: tshortlan
+   Original line: Tom Shortland Volunteer Assistant Women’s Soccer Coach tshortlan@lonestar-sc.com
+
+20. Hailey Post
+   Email: hpost@stedwards.edu
+   Username: hpost
+   Original line: Hailey Post Head Softball Coach hpost@stedwards.edu
+
+21. Shelby Janda
+   Email: sjanda@stedwards.edu
+   Username: sjanda
+   Original line: Shelby Janda Assistant Softball Coach sjanda@stedwards.edu 512-448-
+
+22. Sean Garland
+   Email: sgarland@stedwards.edu
+   Username: sgarland
+   Original line: Sean Garland Head STUNT and Cheer Coach sgarland@stedwards.edu
+
+23. Sidney Mcintosh
+   Email: smcintos@stedwards.edu
+   Username: smcintos
+   Original line: Sidney Mcintosh Assistant Stunt and Cheer Coach smcintos@stedwards.edu
+
+24. Jeremy Garcia
+   Email: jgarc190@stedwards.edu
+   Username: jgarc190
+   Original line: Jeremy Garcia Head Volleyball Coach jgarc190@stedwards.edu
+
+25. Taylan Cook
+   Email: tcook6@stedwards.edu
+   Username: tcook6
+   Original line: Taylan Cook Assistant Volleyball Coach tcook6@stedwards.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Zachary Phillips Assistant Strength and Conditioning Coach zphillip@stedwards.edu
+• Ryan Femath Head Baseball Coach rfemath@stedwards.edu
+• Ransom LaLonde Associate Head Coach rlalond@stedwards.edu 512-428-
+• Jeremy Flores Assistant Baseball Coach jflore74@stedwards.edu
+• Andre Cook Head Men's Basketball Coach andrec@stedwards.edu
+• Nelson Terroba Assistant Men's Basketball Coach nterroba@stedwards.edu
+• J.J. Riehl Head Women's Basketball Coach jessier@stedwards.edu 512-448-
+• Khiani Clark Assistant Women's Basketball Coach kclark1@stedwards.edu
+• Shakera Barnes Assistant Coach sbarnes1@stedwards.edu
+• Sean Garland Head STUNT and Cheer Coach sgarland@stedwards.edu
+• Sidney Mcintosh Assistant Stunt and Cheer Coach smcintos@stedwards.edu
+• Chase Rathke Head Cross Country and Track & Field Coach crathke1@stedwards.edu
+• Antwain Morgan Assistant Cross Country and Track & Field Coach amorgan8@stedwards.edu
+• Linsey Montgomery Assistant Cross Country and Track & Field Coach lmontgom@stedwards.edu
+• Brian Young Head Men's Soccer Coach briany@stedwards.edu 512-448-
+• Corey Miller Associate Head Men's Soccer Coach cmille13@stedwards.edu 512-428-
+• Kat Nichols Assistant Women's Soccer Coach knichol3@stedwards.edu
+• Tanya Noujaim Volunteer Assistant Women’s Soccer Coach tanyanoujaim@gmail.com
+• Tom Shortland Volunteer Assistant Women’s Soccer Coach tshortlan@lonestar-sc.com
+• Hailey Post Head Softball Coach hpost@stedwards.edu
+• Shelby Janda Assistant Softball Coach sjanda@stedwards.edu 512-448-
+• Sean Garland Head STUNT and Cheer Coach sgarland@stedwards.edu
+• Sidney Mcintosh Assistant Stunt and Cheer Coach smcintos@stedwards.edu
+• Jeremy Garcia Head Volleyball Coach jgarc190@stedwards.edu
+• Taylan Cook Assistant Volleyball Coach tcook6@stedwards.edu

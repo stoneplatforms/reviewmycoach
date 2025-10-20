@@ -1,0 +1,461 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:16
+============================================================
+
+Total coaches found: 75
+
+PARSED ENTRIES:
+----------------------------------------
+1. Courtney Kust
+   Email: kust@hope.edu
+   Username: kust
+   Original line: Courtney Kust Associate Head Coach and Assistant Athletic Director kust@hope.edu 616-395-
+
+2. Chris Scheldt
+   Email: scheldt@hope.edu
+   Username: scheldt
+   Original line: Chris Scheldt Assistant Coach/Defensive Coordinator and Head Equipment scheldt@hope.edu 616-395-
+
+3. Dan Margritz
+   Email: margritz@hope.edu
+   Username: margritz
+   Original line: Dan Margritz Strength and Conditioning Coach margritz@hope.edu 616-395-
+
+4. Ryan Dorow
+   Email: dorow@hope.edu
+   Username: dorow
+   Original line: Ryan Dorow Head Coach dorow@hope.edu 616-395-
+
+5. Tom Kort
+   Email: kort@hope.edu
+   Username: kort
+   Original line: Tom Kort Assistant Coach and Recruiting Coordinator kort@hope.edu 616-395-
+
+6. Nathan Wargolet
+   Email: wargolet@hope.edu
+   Username: wargolet
+   Original line: Nathan Wargolet Pitching Coach wargolet@hope.edu 616-395-
+
+7. Greg Mitchell
+   Email: mitchell@hope.edu
+   Username: mitchell
+   Original line: Greg Mitchell Head Coach mitchell@hope.edu 616-395-
+
+8. Ken George
+   Email: georgek@hope.edu
+   Username: georgek
+   Original line: Ken George Assistant Coach georgek@hope.edu 616-395-
+
+9. Tom Davelaar
+   Email: davelaar@hope.edu
+   Username: davelaar
+   Original line: Tom Davelaar Assistant Coach davelaar@hope.edu
+
+10. Ryan Klingler
+   Email: klingler@hope.edu
+   Username: klingler
+   Original line: Ryan Klingler Assistant Coach klingler@hope.edu
+
+11. Craig Kopas
+   Email: kopas@hope.edu
+   Username: kopas
+   Original line: Craig Kopas Assistant Coach kopas@hope.edu
+
+12. Brian Morehouse
+   Email: morehouse@hope.edu
+   Username: morehouse
+   Original line: Brian Morehouse Head Coach, DeVos Fieldhouse Director morehouse@hope.edu 616-395-
+
+13. Courtney Kust
+   Email: kust@hope.edu
+   Username: kust
+   Original line: Courtney Kust Associate Head Coach and Assistant Athletic Director kust@hope.edu 616-395-
+
+14. Colly Carlson
+   Email: carlsonc@hope.edu
+   Username: carlsonc
+   Original line: Colly Carlson Assistant Coach carlsonc@hope.edu
+
+15. Austin Randel
+   Email: randel@hope.edu
+   Username: randel
+   Original line: Austin Randel Assistant Coach randel@hope.edu
+
+16. Mark Northuis
+   Email: northuis@hope.edu
+   Username: northuis
+   Original line: Mark Northuis Head Men's Cross Country Coach, Assistant Track and Field northuis@hope.edu 616-395-
+
+17. Brian VanZanten
+   Email: vanzanten@hope.edu
+   Username: vanzanten
+   Original line: Brian VanZanten Associate Head Coach vanzanten@hope.edu
+
+18. Brian VanZanten
+   Email: vanzanten@hope.edu
+   Username: vanzanten
+   Original line: Brian VanZanten Associate Head Coach vanzanten@hope.edu
+
+19. Mark Northuis
+   Email: northuis@hope.edu
+   Username: northuis
+   Original line: Mark Northuis Head Women's Cross Country Coach, Assistant Track and Field northuis@hope.edu 616-395-
+
+20. Peter Stuursma
+   Email: stuursma@hope.edu
+   Username: stuursma
+   Original line: Peter Stuursma Head Coach stuursma@hope.edu 616-395-
+
+21. Andrew Hawken
+   Email: hawken@hope.edu
+   Username: hawken
+   Original line: Andrew Hawken Offensive Coordinator and Quarterbacks Coach hawken@hope.edu 616-395-
+
+22. Hunter Thompson
+   Email: thompson@hope.edu
+   Username: thompson
+   Original line: Hunter Thompson Offensive Line Coach and Recruiting Coordinator thompson@hope.edu 616-395-
+
+23. Jacob Pardonnet
+   Email: pardonnet@hope.edu
+   Username: pardonnet
+   Original line: Jacob Pardonnet Defensive Coordinator and Linebackers Coach pardonnet@hope.edu 616-395-
+
+24. Jinks Arnold
+   Email: arnoldj@hope.edu
+   Username: arnoldj
+   Original line: Jinks Arnold Cornerbacks Coach/Special Teams Coordinator arnoldj@hope.edu 616-395-
+
+25. Matt Bird
+   Email: bird@hope.edu
+   Username: bird
+   Original line: Matt Bird Wide Receivers Coach bird@hope.edu
+
+26. Jim Caserta
+   Email: caserta@hope.edu
+   Username: caserta
+   Original line: Jim Caserta Running Backs Coach caserta@hope.edu
+
+27. Dave Lidgard
+   Email: lidgard@hope.edu
+   Username: lidgard
+   Original line: Dave Lidgard Tight Ends/H-Backs Coach lidgard@hope.edu
+
+28. Cal Pimpleton
+   Email: pimpleton@hope.edu
+   Username: pimpleton
+   Original line: Cal Pimpleton Defensive Line Coach pimpleton@hope.edu
+
+29. KJ Landis
+   Email: landis@hope.edu
+   Username: landis
+   Original line: KJ Landis Safeties Coach landis@hope.edu
+
+30. Ted Manning
+   Email: manning@hope.edu
+   Username: manning
+   Original line: Ted Manning Assistant Defensive Line Coach manning@hope.edu
+
+31. Scott Lokers
+   Email: lokers@hope.edu
+   Username: lokers
+   Original line: Scott Lokers Head Coach lokers@hope.edu 616-395-
+
+32. Megan Radaz
+   Email: radaz@hope.edu
+   Username: radaz
+   Original line: Megan Radaz Head Coach radaz@hope.edu 616-395-
+
+33. Michael Schanhals
+   Email: schanhals@hope.edu
+   Username: schanhals
+   Original line: Michael Schanhals Head Coach schanhals@hope.edu 616-395-
+
+34. Chris Scheldt
+   Email: scheldt@hope.edu
+   Username: scheldt
+   Original line: Chris Scheldt Assistant Coach/Defensive Coordinator and Head Equipment scheldt@hope.edu 616-395-
+
+35. Pablo Peschiera
+   Email: peschiera@hope.edu
+   Username: peschiera
+   Original line: Pablo Peschiera Assistant Coach peschiera@hope.edu
+
+36. David Blahnik
+   Email: menssoccer@hope.edu
+   Username: menssoccer
+   Original line: David Blahnik Head Coach menssoccer@hope.edu 616-395-
+
+37. Holly Van
+   Email: womenssoccer@hope.edu
+   Username: womenssoccer
+   Original line: Holly Van Noord Head Coach womenssoccer@hope.edu 616-395-
+
+38. Michelle Brander
+   Email: brander@hope.edu
+   Username: brander
+   Original line: Michelle Brander Metiva Head Coach and Dow Center Director brander@hope.edu 616-893-
+
+39. Dani Szep
+   Email: szep@hope.edu
+   Username: szep
+   Original line: Dani Szep Assistant Coach szep@hope.edu
+
+40. Evie Uithoven
+   Email: coachevieu@gmail.com
+   Username: coachevieu
+   Original line: Evie Uithoven Assistant Coach coachevieu@gmail.com
+
+41. Mercede Daugherty
+   Email: daughertym@hope.edu
+   Username: daughertym
+   Original line: Mercede Daugherty Assistant Coach daughertym@hope.edu
+
+42. Jake Taber
+   Email: taber@hope.edu
+   Username: taber
+   Original line: Jake Taber Head Coach taber@hope.edu 616-395-
+
+43. Dave Jolly
+   Email: jolly@hope.edu
+   Username: jolly
+   Original line: Dave Jolly Assistant Coach; Director of Intramurals jolly@hope.edu 616-395-
+
+44. Rebecca Garza
+   Email: garza@hope.edu
+   Username: garza
+   Original line: Rebecca Garza Diving Coach garza@hope.edu
+
+45. Madison Whitman
+   Email: whitman@hope.edu
+   Username: whitman
+   Original line: Madison Whitman Assistant Coach whitman@hope.edu
+
+46. Aubrey Syron
+   Email: syrona12@hope.edu
+   Username: syrona12
+   Original line: Aubrey Syron Assistant Coach syrona12@hope.edu
+
+47. Jake Taber
+   Email: taber@hope.edu
+   Username: taber
+   Original line: Jake Taber Head Coach taber@hope.edu 616-395-
+
+48. Dave Jolly
+   Email: jolly@hope.edu
+   Username: jolly
+   Original line: Dave Jolly Assistant Coach; Director of Intramurals jolly@hope.edu 616-395-
+
+49. Rebecca Garza
+   Email: garza@hope.edu
+   Username: garza
+   Original line: Rebecca Garza Diving Coach garza@hope.edu
+
+50. Madison Whitman
+   Email: whitman@hope.edu
+   Username: whitman
+   Original line: Madison Whitman Assistant Coach whitman@hope.edu
+
+51. Aubrey Syron
+   Email: syrona12@hope.edu
+   Username: syrona12
+   Original line: Aubrey Syron Assistant Coach syrona12@hope.edu
+
+52. Austin Hunt
+   Email: hunta@hope.edu
+   Username: hunta
+   Original line: Austin Hunt Head Coach hunta@hope.edu 269-447-
+
+53. Austin Hunt
+   Email: hunta@hope.edu
+   Username: hunta
+   Original line: Austin Hunt Head Coach hunta@hope.edu 269-447-
+
+54. Jordan Bartolazzi
+   Email: bartolazzij42@hope.edu
+   Username: bartolazzij42
+   Original line: Jordan Bartolazzi Head Coach bartolazzij42@hope.edu 616-395-
+
+55. Mark Northuis
+   Email: northuis@hope.edu
+   Username: northuis
+   Original line: Mark Northuis Head Men's Cross Country Coach, Assistant Track and Field northuis@hope.edu 616-395-
+
+56. Jon Lunderberg
+   Email: lunderbergj@hope.edu
+   Username: lunderbergj
+   Original line: Jon Lunderberg Assistant Coach — Pole Vault lunderbergj@hope.edu 616-395-
+
+57. Paul Markel
+   Email: markel@hope.edu
+   Username: markel
+   Original line: Paul Markel Assistant Coach — Throws markel@hope.edu 616-395-
+
+58. Jordan Bartolazzi
+   Email: bartolazzij42@hope.edu
+   Username: bartolazzij42
+   Original line: Jordan Bartolazzi Head Coach bartolazzij42@hope.edu 616-395-
+
+59. Mark Northuis
+   Email: northuis@hope.edu
+   Username: northuis
+   Original line: Mark Northuis Head Women's Cross Country Coach, Assistant Track and Field northuis@hope.edu 616-395-
+
+60. Jon Lunderberg
+   Email: lunderbergj@hope.edu
+   Username: lunderbergj
+   Original line: Jon Lunderberg Assistant Coach — Pole Vault lunderbergj@hope.edu 616-395-
+
+61. Paul Markel
+   Email: markel@hope.edu
+   Username: markel
+   Original line: Paul Markel Assistant Coach — Throws markel@hope.edu 616-395-
+
+62. Becky Schmidt
+   Email: schmidt@hope.edu
+   Username: schmidt
+   Original line: Becky Schmidt Head Coach; Assistant Professor of Kinesiology schmidt@hope.edu 616-395-
+
+63. Carrie Lehocky
+   Email: lehocky@hope.edu
+   Username: lehocky
+   Original line: Carrie Lehocky Associate Head Coach lehocky@hope.edu 616-395-
+
+64. Taylor Babec
+   Email: volleyball@hope.edu
+   Username: volleyball
+   Original line: Taylor Babec Assistant Coach and Recruiting Coordinator volleyball@hope.edu 616-395-
+
+65. McKenna Bethke
+   Email: cheer@hope.edu
+   Username: cheer
+   Original line: McKenna Bethke Head Coach cheer@hope.edu 616-395-
+
+66. Chris Van
+   Email: vantimmeren@hope.edu
+   Username: vantimmeren
+   Original line: Chris Van Timmeren Head Coach vantimmeren@hope.edu 616-292-
+
+67. Caleb Digison
+   Email: caleb.digison1@gmail.com
+   Username: caleb.digison1
+   Original line: Caleb Digison Assistant Coach caleb.digison1@gmail.com 989-488-
+
+68. Kevin Deane
+   Email: kevin.deane92@gmail.com
+   Username: kevin.deane92
+   Original line: Kevin Deane Assistant Coach kevin.deane92@gmail.com 248-736-
+
+69. Zac Smith
+   Email: zacbanditsgoalie@gmail.com
+   Username: zacbanditsgoalie
+   Original line: Zac Smith Assistant Coach zacbanditsgoalie@gmail.com 616-240-
+
+70. Brad Baysore
+   Email: brad.baysore21@gmail.com
+   Username: brad.baysore21
+   Original line: Brad Baysore Assistant Coach brad.baysore21@gmail.com 616-498-
+
+71. Trevor Campbell
+   Email: trevordeancampbell@gmail.com
+   Username: trevordeancampbell
+   Original line: Trevor Campbell Assistant Coach trevordeancampbell@gmail.com 815-536-
+
+72. Phil Hoort
+   Email: philhoort@gmail.com
+   Username: philhoort
+   Original line: Phil Hoort Head Coach philhoort@gmail.com
+
+73. Alan Hoort
+   Email: alanhoort@gmail.com
+   Username: alanhoort
+   Original line: Alan Hoort Assistant Coach alanhoort@gmail.com
+
+74. Trevor Nyenhuis
+   Email: trevor.nyenhuis@gmail.com
+   Username: trevor.nyenhuis
+   Original line: Trevor Nyenhuis Goalie Coach trevor.nyenhuis@gmail.com
+
+75. Lenny Schumacher
+   Email: bschmacher@jrautomotion.com
+   Username: bschmacher
+   Original line: Lenny Schumacher Assistant Coach bschmacher@jrautomotion.com
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Courtney Kust Associate Head Coach and Assistant Athletic Director kust@hope.edu 616-395-
+• Chris Scheldt Assistant Coach/Defensive Coordinator and Head Equipment scheldt@hope.edu 616-395-
+• Dan Margritz Strength and Conditioning Coach margritz@hope.edu 616-395-
+• Ryan Dorow Head Coach dorow@hope.edu 616-395-
+• Tom Kort Assistant Coach and Recruiting Coordinator kort@hope.edu 616-395-
+• Nathan Wargolet Pitching Coach wargolet@hope.edu 616-395-
+• Greg Mitchell Head Coach mitchell@hope.edu 616-395-
+• Ken George Assistant Coach georgek@hope.edu 616-395-
+• Tom Davelaar Assistant Coach davelaar@hope.edu
+• Ryan Klingler Assistant Coach klingler@hope.edu
+• Craig Kopas Assistant Coach kopas@hope.edu
+• Brian Morehouse Head Coach, DeVos Fieldhouse Director morehouse@hope.edu 616-395-
+• Courtney Kust Associate Head Coach and Assistant Athletic Director kust@hope.edu 616-395-
+• Colly Carlson Assistant Coach carlsonc@hope.edu
+• Austin Randel Assistant Coach randel@hope.edu
+• Mark Northuis Head Men's Cross Country Coach, Assistant Track and Field northuis@hope.edu 616-395-
+• Brian VanZanten Associate Head Coach vanzanten@hope.edu
+• Brian VanZanten Associate Head Coach vanzanten@hope.edu
+• Mark Northuis Head Women's Cross Country Coach, Assistant Track and Field northuis@hope.edu 616-395-
+• Peter Stuursma Head Coach stuursma@hope.edu 616-395-
+• Andrew Hawken Offensive Coordinator and Quarterbacks Coach hawken@hope.edu 616-395-
+• Hunter Thompson Offensive Line Coach and Recruiting Coordinator thompson@hope.edu 616-395-
+• Jacob Pardonnet Defensive Coordinator and Linebackers Coach pardonnet@hope.edu 616-395-
+• Jinks Arnold Cornerbacks Coach/Special Teams Coordinator arnoldj@hope.edu 616-395-
+• Matt Bird Wide Receivers Coach bird@hope.edu
+• Jim Caserta Running Backs Coach caserta@hope.edu
+• Dave Lidgard Tight Ends/H-Backs Coach lidgard@hope.edu
+• Cal Pimpleton Defensive Line Coach pimpleton@hope.edu
+• KJ Landis Safeties Coach landis@hope.edu
+• Ted Manning Assistant Defensive Line Coach manning@hope.edu
+• Scott Lokers Head Coach lokers@hope.edu 616-395-
+• Megan Radaz Head Coach radaz@hope.edu 616-395-
+• Michael Schanhals Head Coach schanhals@hope.edu 616-395-
+• Chris Scheldt Assistant Coach/Defensive Coordinator and Head Equipment scheldt@hope.edu 616-395-
+• Pablo Peschiera Assistant Coach peschiera@hope.edu
+• David Blahnik Head Coach menssoccer@hope.edu 616-395-
+• Holly Van Noord Head Coach womenssoccer@hope.edu 616-395-
+• Michelle Brander Metiva Head Coach and Dow Center Director brander@hope.edu 616-893-
+• Dani Szep Assistant Coach szep@hope.edu
+• Evie Uithoven Assistant Coach coachevieu@gmail.com
+• Mercede Daugherty Assistant Coach daughertym@hope.edu
+• Jake Taber Head Coach taber@hope.edu 616-395-
+• Dave Jolly Assistant Coach; Director of Intramurals jolly@hope.edu 616-395-
+• Rebecca Garza Diving Coach garza@hope.edu
+• Madison Whitman Assistant Coach whitman@hope.edu
+• Aubrey Syron Assistant Coach syrona12@hope.edu
+• Jake Taber Head Coach taber@hope.edu 616-395-
+• Dave Jolly Assistant Coach; Director of Intramurals jolly@hope.edu 616-395-
+• Rebecca Garza Diving Coach garza@hope.edu
+• Madison Whitman Assistant Coach whitman@hope.edu
+• Aubrey Syron Assistant Coach syrona12@hope.edu
+• Austin Hunt Head Coach hunta@hope.edu 269-447-
+• Austin Hunt Head Coach hunta@hope.edu 269-447-
+• Jordan Bartolazzi Head Coach bartolazzij42@hope.edu 616-395-
+• Mark Northuis Head Men's Cross Country Coach, Assistant Track and Field northuis@hope.edu 616-395-
+• Jon Lunderberg Assistant Coach — Pole Vault lunderbergj@hope.edu 616-395-
+• Paul Markel Assistant Coach — Throws markel@hope.edu 616-395-
+• Jordan Bartolazzi Head Coach bartolazzij42@hope.edu 616-395-
+• Mark Northuis Head Women's Cross Country Coach, Assistant Track and Field northuis@hope.edu 616-395-
+• Jon Lunderberg Assistant Coach — Pole Vault lunderbergj@hope.edu 616-395-
+• Paul Markel Assistant Coach — Throws markel@hope.edu 616-395-
+• Becky Schmidt Head Coach; Assistant Professor of Kinesiology schmidt@hope.edu 616-395-
+• Carrie Lehocky Associate Head Coach lehocky@hope.edu 616-395-
+• Taylor Babec Assistant Coach and Recruiting Coordinator volleyball@hope.edu 616-395-
+• McKenna Bethke Head Coach cheer@hope.edu 616-395-
+• Chris Van Timmeren Head Coach vantimmeren@hope.edu 616-292-
+• Caleb Digison Assistant Coach caleb.digison1@gmail.com 989-488-
+• Kevin Deane Assistant Coach kevin.deane92@gmail.com 248-736-
+• Zac Smith Assistant Coach zacbanditsgoalie@gmail.com 616-240-
+• Brad Baysore Assistant Coach brad.baysore21@gmail.com 616-498-
+• Trevor Campbell Assistant Coach trevordeancampbell@gmail.com 815-536-
+• Phil Hoort Head Coach philhoort@gmail.com
+• Alan Hoort Assistant Coach alanhoort@gmail.com
+• Trevor Nyenhuis Goalie Coach trevor.nyenhuis@gmail.com
+• Lenny Schumacher Assistant Coach bschmacher@jrautomotion.com

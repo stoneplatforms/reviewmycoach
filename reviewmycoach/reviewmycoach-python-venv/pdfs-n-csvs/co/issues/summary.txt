@@ -1,0 +1,5 @@
+Printing results: Success=16 Skipped=0 Errors=0
+
+PDFs with zero coaches detected:
+- Colorado State University.pdf
+- United States Air Force Academy.pdf

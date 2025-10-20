@@ -1,0 +1,6 @@
+Mayville State University.pdf :: https://msujimmies.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://msujimmies.com/staff-directory/index
+Call log:
+  - navigating to "https://msujimmies.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://msujimmies.com/staff-directory?print=true, https://msujimmies.com/staff-directory/print, https://msujimmies.com/staff-directory, https://msujimmies.com/staff-directory/index?print=true, https://msujimmies.com/staff-directory/index/print, https://msujimmies.com/staff-directory/index
+

@@ -1,0 +1,176 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:43
+============================================================
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kevin Easley
+   Email: kevin.easley@life.edu
+   Username: kevin.easley
+   Original line: Kevin Easley Head Coach kevin.easley@life.edu 770-426 2616 ext.
+
+2. Ashawnte Hawkins
+   Email: ashawnte.hawkins@life.edu
+   Username: ashawnte.hawkins
+   Phone: (770) 426-2879
+   Original line: Ashawnte Hawkins Head Coach ashawnte.hawkins@life.edu 770-426-2879
+
+3. William Green
+   Email: william.green3905@life.edu
+   Username: william.green3905
+   Original line: Dr. William Green Assistant Coach william.green3905@life.edu
+
+4. Cameron Horton
+   Email: cameron.horton@life.edu
+   Username: cameron.horton
+   Original line: Cameron Horton Assistant Coach cameron.horton@life.edu
+
+5. Zack Desmarais
+   Email: zack.desmarais@life.edu
+   Username: zack.desmarais
+   Phone: (770) 362-2742
+   Original line: Zack Desmarais Head Coach zack.desmarais@life.edu 770-362-2742
+
+6. John Snow
+   Email: john.snow@life.edu
+   Username: john.snow
+   Phone: (770) 480-9660
+   Original line: John Snow Head Coach john.snow@life.edu 770-480-9660
+
+7. Kylar Ferguson
+   Email: kylar.ferguson@life.edu
+   Username: kylar.ferguson
+   Phone: 426.2616
+   Original line: Kylar Ferguson Head Coach kylar.ferguson@life.edu 770-426.2616, x 2860
+
+8. Benny Mateialona
+   Email: bmateialona@life.edu
+   Username: bmateialona
+   Original line: Benny Mateialona Associate Head Coach – Men’s Rugby bmateialona@life.edu
+
+9. Ryszard Chadwick
+   Email: ryszard.chadwick@life.edu
+   Username: ryszard.chadwick
+   Original line: Ryszard Chadwick Head Coach ryszard.chadwick@life.edu
+
+10. Alex Pama
+   Email: Alex.Pama@LIFE.edu
+   Username: Alex.Pama
+   Phone: (404) 667-8764
+   Original line: Alex Pama Head Coach Alex.Pama@LIFE.edu 404-667-8764
+
+11. Matheus Brandao
+   Email: matheus.brandao@student.life.edu
+   Username: matheus.brandao
+   Original line: Matheus Brandao Asst. Coach/Video Data Analysis matheus.brandao@student.life.edu
+
+12. Juan Cruz
+   Email: Juancruz.parisisitja@student.life.edu
+   Username: Juancruz.parisisitja
+   Original line: Juan Cruz Assistant Coach Juancruz.parisisitja@student.life.edu
+
+13. Meg McGonigle
+   Email: meg.goddard@life.edu
+   Username: meg.goddard
+   Original line: Meg McGonigle Head Coach meg.goddard@life.edu
+
+14. Azita Hemmati
+   Email: azita.hemmati@life.edu
+   Username: azita.hemmati
+   Phone: 756-8727
+   Original line: Azita Hemmati Assistant Coach azita.hemmati@life.edu 678- 756-8727
+
+15. Tosha Sumner
+   Email: tosha.sumner@life.edu
+   Username: tosha.sumner
+   Original line: Tosha Sumner Assistant Coach tosha.sumner@life.edu
+
+16. Chris Rogers
+   Email: christopher.rogers@life.edu
+   Username: christopher.rogers
+   Original line: Chris Rogers Throws Coach christopher.rogers@life.edu
+
+17. Tosha Sumner
+   Email: tosha.sumner@life.edu
+   Username: tosha.sumner
+   Original line: Tosha Sumner Assistant Coach tosha.sumner@life.edu
+
+18. Chris Rogers
+   Email: christopher.rogers@life.edu
+   Username: christopher.rogers
+   Original line: Chris Rogers Throws Coach christopher.rogers@life.edu
+
+19. CJ Shearer
+   Email: charles.shearer@life.edu
+   Username: charles.shearer
+   Phone: (407) 701-9629
+   Original line: CJ Shearer Head Coach charles.shearer@life.edu 407-701-9629
+
+20. Tim Walker
+   Email: timothy.walker2@life.edu
+   Username: timothy.walker2
+   Original line: Tim Walker Head Coach timothy.walker2@life.edu
+
+21. Jordan Benjamin
+   Email: Jordan.Benjamin3820@life.edu
+   Username: Jordan.Benjamin3820
+   Original line: Jordan Benjamin Assistant Coach Jordan.Benjamin3820@life.edu
+
+22. Omi Acosta
+   Email: Omi.Acosta@LIFE.edu
+   Username: Omi.Acosta
+   Phone: (678) 331-4480
+   Original line: Omi Acosta Head Coach Omi.Acosta@LIFE.edu 678-331-4480
+
+23. Jake Laden
+   Email: jacob.laden@life.edu
+   Username: jacob.laden
+   Original line: Jake Laden Associate Head Coach jacob.laden@life.edu
+
+24. Ashley Flavin
+   Email: ashley.flavin@life.edu
+   Username: ashley.flavin
+   Phone: (405) 795-2779
+   Original line: Ashley Flavin Head Coach ashley.flavin@life.edu 405-795-2779
+
+25. Benny Mateialona
+   Email: bmateialona@life.edu
+   Username: bmateialona
+   Original line: Benny Mateialona Associate Head Coach – Men’s Rugby bmateialona@life.edu
+
+26. Sara Killough
+   Email: sara.killough@life.edu
+   Username: sara.killough
+   Original line: Sara Killough Head Coach sara.killough@life.edu 770-426 2616 ext.
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kevin Easley Head Coach kevin.easley@life.edu 770-426 2616 ext.
+• Ashawnte Hawkins Head Coach ashawnte.hawkins@life.edu 770-426-2879
+• Dr. William Green Assistant Coach william.green3905@life.edu
+• Cameron Horton Assistant Coach cameron.horton@life.edu
+• Zack Desmarais Head Coach zack.desmarais@life.edu 770-362-2742
+• John Snow Head Coach john.snow@life.edu 770-480-9660
+• Kylar Ferguson Head Coach kylar.ferguson@life.edu 770-426.2616, x 2860
+• Benny Mateialona Associate Head Coach – Men’s Rugby bmateialona@life.edu
+• Ryszard Chadwick Head Coach ryszard.chadwick@life.edu
+• Alex Pama Head Coach Alex.Pama@LIFE.edu 404-667-8764
+• Matheus Brandao Asst. Coach/Video Data Analysis matheus.brandao@student.life.edu
+• Juan Cruz Assistant Coach Juancruz.parisisitja@student.life.edu
+• Meg McGonigle Head Coach meg.goddard@life.edu
+• Azita Hemmati Assistant Coach azita.hemmati@life.edu 678- 756-8727
+• Tosha Sumner Assistant Coach tosha.sumner@life.edu
+• Chris Rogers Throws Coach christopher.rogers@life.edu
+• Tosha Sumner Assistant Coach tosha.sumner@life.edu
+• Chris Rogers Throws Coach christopher.rogers@life.edu
+• CJ Shearer Head Coach charles.shearer@life.edu 407-701-9629
+• Tim Walker Head Coach timothy.walker2@life.edu
+• Jordan Benjamin Assistant Coach Jordan.Benjamin3820@life.edu
+• Omi Acosta Head Coach Omi.Acosta@LIFE.edu 678-331-4480
+• Jake Laden Associate Head Coach jacob.laden@life.edu
+• Ashley Flavin Head Coach ashley.flavin@life.edu 405-795-2779
+• Benny Mateialona Associate Head Coach – Men’s Rugby bmateialona@life.edu
+• Sara Killough Head Coach sara.killough@life.edu 770-426 2616 ext.

@@ -1,0 +1,137 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:43
+============================================================
+
+Total coaches found: 21
+
+PARSED ENTRIES:
+----------------------------------------
+1. Assistant Coach
+   Email: jblount@iastate.edu
+   Username: jblount
+   Original line: Assistant Coach jblount@iastate.edu
+
+2. Assistant Coach
+   Email: kgreen2@iastate.edu
+   Username: kgreen2
+   Original line: Assistant Coach kgreen2@iastate.edu
+
+3. Head Coach
+   Email: coachf@iastate.edu
+   Username: coachf
+   Original line: Head Coach coachf@iastate.edu
+
+4. Associate Head
+   Email: jsteyer@iastate.edu
+   Username: jsteyer
+   Original line: Associate Head Coach jsteyer@iastate.edu
+
+5. Assistant Coach/General
+   Email: billyfen@iastate.edu
+   Username: billyfen
+   Original line: Assistant Coach/General Manager billyfen@iastate.edu
+
+6. Assistant Coach
+   Email: laharris@iastate.edu
+   Username: laharris
+   Original line: Assistant Coach laharris@iastate.edu
+
+7. Assistant Coach
+   Email: emilyh2@iastate.edu
+   Username: emilyh2
+   Original line: Assistant Coach emilyh2@iastate.edu
+
+8. Head Coach
+   Email: tank@iastate.edu
+   Username: tank
+   Original line: Head Coach tank@iastate.edu
+
+9. Head Coach
+   Email: martensc@iastate.edu
+   Username: martensc
+   Original line: Head Coach martensc@iastate.edu
+
+10. Associate Head
+   Email: triggs@iastate.edu
+   Username: triggs
+   Original line: Associate Head Coach triggs@iastate.edu
+
+11. Head Coach
+   Email: amgreig@iastate.edu
+   Username: amgreig
+   Original line: Head Coach amgreig@iastate.edu
+
+12. Head Coach
+   Email: jdpinker@iastate.edu
+   Username: jdpinker
+   Original line: Head Coach jdpinker@iastate.edu
+
+13. Associate Head
+   Email: ksinnott@iastate.edu
+   Username: ksinnott
+   Original line: Associate Head Coach ksinnott@iastate.edu
+
+14. Assistant Coach
+   Email: lubrun@iastate.edu
+   Username: lubrun
+   Original line: Assistant Coach lubrun@iastate.edu
+
+15. Head Cheer
+   Email: Krsmith@iastate.edu
+   Username: Krsmith
+   Original line: Head Cheer Coach/Spirit Squad Coordinator Krsmith@iastate.edu
+
+16. Assistant Strength
+   Email: mprado@iastate.edu
+   Username: mprado
+   Original line: Assistant Strength & Conditioning Coach mprado@iastate.edu
+
+17. Assistant Strength
+   Email: alexmc@iastate.edu
+   Username: alexmc
+   Original line: Assistant Strength and Conditioning Coach (Olympic Sports) alexmc@iastate.edu
+
+18. Head Diving
+   Email: jwarrick@iastate.edu
+   Username: jwarrick
+   Original line: Head Diving Coach jwarrick@iastate.edu
+
+19. Head Coach
+   Email: kdresser@iastate.edu
+   Username: kdresser
+   Original line: Head Coach kdresser@iastate.edu
+
+20. Assistant Coach
+   Email: bmetcalf@iastate.edu
+   Username: bmetcalf
+   Original line: Assistant Coach bmetcalf@iastate.edu
+
+21. Assistant Coach
+   Email: dstjhn@iastate.edu
+   Username: dstjhn
+   Original line: Assistant Coach dstjhn@iastate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Assistant Coach jblount@iastate.edu
+• Assistant Coach kgreen2@iastate.edu
+• Head Coach coachf@iastate.edu
+• Associate Head Coach jsteyer@iastate.edu
+• Assistant Coach/General Manager billyfen@iastate.edu
+• Assistant Coach laharris@iastate.edu
+• Assistant Coach emilyh2@iastate.edu
+• Head Coach tank@iastate.edu
+• Head Coach martensc@iastate.edu
+• Associate Head Coach triggs@iastate.edu
+• Head Coach amgreig@iastate.edu
+• Head Coach jdpinker@iastate.edu
+• Associate Head Coach ksinnott@iastate.edu
+• Assistant Coach lubrun@iastate.edu
+• Head Cheer Coach/Spirit Squad Coordinator Krsmith@iastate.edu
+• Assistant Strength & Conditioning Coach mprado@iastate.edu
+• Assistant Strength and Conditioning Coach (Olympic Sports) alexmc@iastate.edu
+• Head Diving Coach jwarrick@iastate.edu
+• Head Coach kdresser@iastate.edu
+• Assistant Coach bmetcalf@iastate.edu
+• Assistant Coach dstjhn@iastate.edu

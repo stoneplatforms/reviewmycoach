@@ -1,0 +1,171 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:39
+============================================================
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Preston Martin
+   Email: preston.martin@sbuniv.edu
+   Username: preston.martin
+   Original line: Preston Martin Head Strength & Conditioning Coach preston.martin@sbuniv.edu
+
+2. Charles Bradley
+   Email: ctbradley@sbuniv.edu
+   Username: ctbradley
+   Original line: Charles Bradley Head Baseball Coach ctbradley@sbuniv.edu (417)-328-
+
+3. Pat Miner
+   Email: patrick.miner@sbuniv.edu
+   Username: patrick.miner
+   Original line: Pat Miner Assistant Baseball Coach/Recruiting patrick.miner@sbuniv.edu
+
+4. Aaron Niven
+   Email: aniven@sbuniv.edu
+   Username: aniven
+   Original line: Aaron Niven Head Men's Basketball Coach aniven@sbuniv.edu (417) 328-
+
+5. Derald Henderson
+   Email: derald.henderson@sbuniv.edu
+   Username: derald.henderson
+   Original line: Derald Henderson Assistant Men's Basketball Coach derald.henderson@sbuniv.edu
+
+6. Wyketha Harrell
+   Email: wyketha.harrell@sbuniv.edu
+   Username: wyketha.harrell
+   Phone: (417) 328-1706
+   Original line: Wyketha Harrell Head Women's Basketball Coach wyketha.harrell@sbuniv.edu 417-328-1706
+
+7. Lola Reed
+   Email: lola.bracy@sbuniv.edu
+   Username: lola.bracy
+   Phone: (314) 717-9827
+   Original line: Lola Reed Assistant Women's Basketball Coach lola.bracy@sbuniv.edu 314-717-9827
+
+8. Paityn Walker
+   Email: paityn.walker@sbuniv.edu
+   Username: paityn.walker
+   Original line: Paityn Walker Head Beach Volleyball Coach paityn.walker@sbuniv.edu
+
+9. Ashley Vest
+   Email: ashley.vest@sbuniv.edu
+   Username: ashley.vest
+   Phone: (417) 399-3014
+   Original line: Ashley Vest Head Cheer and Stunt Coach ashley.vest@sbuniv.edu 417-399-3014
+
+10. Corey McElhaney
+   Email: cmcelhaney@sbuniv.edu
+   Username: cmcelhaney
+   Original line: Corey McElhaney Head Track & Field/Cross Country Coach cmcelhaney@sbuniv.edu (417) 328-
+
+11. Sterlen Paul
+   Email: spaul@sbuniv.edu
+   Username: spaul
+   Original line: Sterlen Paul Assistant Track & Field/Cross Country Coach spaul@sbuniv.edu
+
+12. Mike McIntosh
+   Email: mmcintosh@sbuniv.edu
+   Username: mmcintosh
+   Original line: Mike McIntosh Assistant Track & Field/Cross Country Coach mmcintosh@sbuniv.edu (417)-328-
+
+13. Kimone Green
+   Email: kgreen@sbuniv.edu
+   Username: kgreen
+   Original line: Kimone Green Volunteer Track & Field/Cross Country Coach kgreen@sbuniv.edu
+
+14. Paul Hansen
+   Email: paul.hansen@sbuniv.edu
+   Username: paul.hansen
+   Original line: Paul Hansen Head Football Coach paul.hansen@sbuniv.edu
+
+15. Tyler Curts
+   Email: tcurts@sbuniv.edu
+   Username: tcurts
+   Original line: Tyler Curts Defensive Coordinator / Linebackers Coach tcurts@sbuniv.edu (417) 328-
+
+16. Donavan Newman
+   Email: donavan.newman@sbuniv.edu
+   Username: donavan.newman
+   Original line: Donavan Newman Wide Receivers Coach donavan.newman@sbuniv.edu
+
+17. Ethan Smith
+   Email: ethan.smith@sbuniv.edu
+   Username: ethan.smith
+   Original line: Ethan Smith Special Teams Coordinator/Defensive Line Coach ethan.smith@sbuniv.edu
+
+18. Kenny Thomason
+   Email: kenny.thomason@sbuniv.edu
+   Username: kenny.thomason
+   Original line: Kenny Thomason Offensive Line Coach/Run Game Coordinator kenny.thomason@sbuniv.edu
+
+19. Steve Bushre
+   Email: steve.bushre@sbuniv.edu
+   Username: steve.bushre
+   Original line: Steve Bushre Head Men's Soccer Coach steve.bushre@sbuniv.edu
+
+20. Andrew Percic
+   Email: andrew.percic@sbuniv.edu
+   Username: andrew.percic
+   Original line: Andrew Percic Head Women's Soccer Coach andrew.percic@sbuniv.edu
+
+21. Tripp Swisher
+   Email: tswisher@sbuniv.edu
+   Username: tswisher
+   Phone: (417) 328-1738
+   Original line: Tripp Swisher Head Softball Coach tswisher@sbuniv.edu 417-328-1738
+
+22. Brady Matthews
+   Email: brady.matthews@sbuniv.edu
+   Username: brady.matthews
+   Original line: Brady Matthews Head Tennis Coach brady.matthews@sbuniv.edu
+
+23. John Bryant
+   Email: jabryant@sbuniv.edu
+   Username: jabryant
+   Original line: John Bryant Tennis Coach jabryant@sbuniv.edu
+
+24. James Hanger
+   Email: jhanger@sbuniv.edu
+   Username: jhanger
+   Original line: James Hanger Women's Volleyball Head Coach jhanger@sbuniv.edu (417) 328-
+
+25. Pono Yin
+   Email: bronson.yin@sbuniv.edu
+   Username: bronson.yin
+   Original line: Pono Yin Men's Volleyball Head Coach bronson.yin@sbuniv.edu
+
+26. Gavin Hagar
+   Email: gavin.hagar@sbuniv.edu
+   Username: gavin.hagar
+   Original line: Gavin Hagar Head Men's & Women's Swimming Coach gavin.hagar@sbuniv.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Preston Martin Head Strength & Conditioning Coach preston.martin@sbuniv.edu
+• Charles Bradley Head Baseball Coach ctbradley@sbuniv.edu (417)-328-
+• Pat Miner Assistant Baseball Coach/Recruiting patrick.miner@sbuniv.edu
+• Aaron Niven Head Men's Basketball Coach aniven@sbuniv.edu (417) 328-
+• Derald Henderson Assistant Men's Basketball Coach derald.henderson@sbuniv.edu
+• Wyketha Harrell Head Women's Basketball Coach wyketha.harrell@sbuniv.edu 417-328-1706
+• Lola Reed Assistant Women's Basketball Coach lola.bracy@sbuniv.edu 314-717-9827
+• Paityn Walker Head Beach Volleyball Coach paityn.walker@sbuniv.edu
+• Ashley Vest Head Cheer and Stunt Coach ashley.vest@sbuniv.edu 417-399-3014
+• Corey McElhaney Head Track & Field/Cross Country Coach cmcelhaney@sbuniv.edu (417) 328-
+• Sterlen Paul Assistant Track & Field/Cross Country Coach spaul@sbuniv.edu
+• Mike McIntosh Assistant Track & Field/Cross Country Coach mmcintosh@sbuniv.edu (417)-328-
+• Kimone Green Volunteer Track & Field/Cross Country Coach kgreen@sbuniv.edu
+• Paul Hansen Head Football Coach paul.hansen@sbuniv.edu
+• Tyler Curts Defensive Coordinator / Linebackers Coach tcurts@sbuniv.edu (417) 328-
+• Donavan Newman Wide Receivers Coach donavan.newman@sbuniv.edu
+• Ethan Smith Special Teams Coordinator/Defensive Line Coach ethan.smith@sbuniv.edu
+• Kenny Thomason Offensive Line Coach/Run Game Coordinator kenny.thomason@sbuniv.edu
+• Steve Bushre Head Men's Soccer Coach steve.bushre@sbuniv.edu
+• Andrew Percic Head Women's Soccer Coach andrew.percic@sbuniv.edu
+• Tripp Swisher Head Softball Coach tswisher@sbuniv.edu 417-328-1738
+• Brady Matthews Head Tennis Coach brady.matthews@sbuniv.edu
+• John Bryant Tennis Coach jabryant@sbuniv.edu
+• James Hanger Women's Volleyball Head Coach jhanger@sbuniv.edu (417) 328-
+• Pono Yin Men's Volleyball Head Coach bronson.yin@sbuniv.edu
+• Gavin Hagar Head Men's & Women's Swimming Coach gavin.hagar@sbuniv.edu

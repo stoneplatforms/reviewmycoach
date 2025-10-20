@@ -1,0 +1,162 @@
+COACH ENTRIES FOUND - 2025-10-06 18:36:19
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Michelle Richardson
+   Email: wsoccer@chaminade.edu
+   Username: wsoccer
+   Phone: (808) 739-7434
+   Original line: Michelle Richardson Head Coach/Senior Women's Administrator wsoccer@chaminade.edu 808-739-7434
+
+2. Chad Konishi
+   Email: baseball@chaminade.edu
+   Username: baseball
+   Original line: Chad Konishi Head Coach baseball@chaminade.edu
+
+3. Keith Komeiji
+   Email: baseball@chaminade.edu
+   Username: baseball
+   Original line: Keith Komeiji Assistant Coach baseball@chaminade.edu
+
+4. Chester Wilson
+   Email: baseball@chaminade.edu
+   Username: baseball
+   Original line: Chester Wilson Assistant Coach baseball@chaminade.edu
+
+5. Eric Bovaird
+   Email: mbasketball@chaminade.edu
+   Username: mbasketball
+   Phone: (808) 739-4696
+   Original line: Eric Bovaird Head Coach mbasketball@chaminade.edu 808-739-4696
+
+6. Dantley Walker
+   Email: mbasketball@chaminade.edu
+   Username: mbasketball
+   Phone: (808) 739-7431
+   Original line: Dantley Walker Associate Head Coach mbasketball@chaminade.edu 808-739-7431
+
+7. Roman Young
+   Email: mbasketball@chaminade.edu
+   Username: mbasketball
+   Original line: Roman Young Assistant Coach mbasketball@chaminade.edu
+
+8. Arthur King
+   Email: mbasketball@chaminade.edu
+   Username: mbasketball
+   Original line: Arthur King Assistant Coach mbasketball@chaminade.edu
+
+9. Travis Brewster
+   Email: wbasketball@chaminade.edu
+   Username: wbasketball
+   Original line: Travis Brewster Head Coach wbasketball@chaminade.edu
+
+10. Hilary Arakaki
+   Email: wbasketball@chaminade.edu
+   Username: wbasketball
+   Original line: Hilary Arakaki Assistant Coach wbasketball@chaminade.edu
+
+11. Diamond Carter
+   Email: wbasketball@chaminade.edu
+   Username: wbasketball
+   Original line: Diamond Carter Assistant Coach wbasketball@chaminade.edu
+
+12. Kahala Kabalis
+   Email: wvolleyball@chaminade.edu
+   Username: wvolleyball
+   Phone: (808) 739-4697
+   Original line: Kahala Kabalis Hoke Head Coach wvolleyball@chaminade.edu 808-739-4697
+
+13. Kolby Kanetake
+   Email: wvolleyball@chaminade.edu
+   Username: wvolleyball
+   Phone: (808) 739-7432
+   Original line: Kolby Kanetake Associate Head Coach wvolleyball@chaminade.edu 808-739-7432
+
+14. Shadrack Nabea
+   Email: crosscountry@chaminade.edu
+   Username: crosscountry
+   Phone: (808) 739-7417
+   Original line: Shadrack Nabea Head Coach crosscountry@chaminade.edu 808-739-7417
+
+15. Renee Yuen
+   Email: mgolf@chaminade.edu
+   Username: mgolf
+   Phone: (808) 739-7419
+   Original line: Renee Yuen Head Coach mgolf@chaminade.edu 808-739-7419
+
+16. Joshua Woodard
+   Email: msoccer@chaminade.edu
+   Username: msoccer
+   Phone: (808) 739-7418
+   Original line: Joshua Woodard Head Coach msoccer@chaminade.edu 808-739-7418
+
+17. Michelle Richardson
+   Email: wsoccer@chaminade.edu
+   Username: wsoccer
+   Phone: (808) 739-7434
+   Original line: Michelle Richardson Head Coach/Senior Women's Administrator wsoccer@chaminade.edu 808-739-7434
+
+18. Conor Whittaker
+   Email: wsoccer@chaminade.edu
+   Username: wsoccer
+   Original line: Conor Whittaker Assistant Coach wsoccer@chaminade.edu
+
+19. Kent Yamaguchi
+   Email: softball@chaminade.edu
+   Username: softball
+   Phone: (808) 739-7435
+   Original line: Kent Yamaguchi Head Coach softball@chaminade.edu 808-739-7435
+
+20. Ty Aki
+   Email: wtennis@chaminade.edu
+   Username: wtennis
+   Phone: (808) 739-7416
+   Original line: Ty Aki Head Coach wtennis@chaminade.edu 808-739-7416
+
+21. Kahala Kabalis
+   Email: wvolleyball@chaminade.edu
+   Username: wvolleyball
+   Phone: (808) 739-4697
+   Original line: Kahala Kabalis Hoke Head Coach wvolleyball@chaminade.edu 808-739-4697
+
+22. Kolby Kanetake
+   Email: wvolleyball@chaminade.edu
+   Username: wvolleyball
+   Phone: (808) 739-7432
+   Original line: Kolby Kanetake Associate Head Coach wvolleyball@chaminade.edu 808-739-7432
+
+23. Hobie Vannoy
+   Email: wvolleyball@chaminade.edu
+   Username: wvolleyball
+   Original line: Hobie Vannoy Assistant Coach wvolleyball@chaminade.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Michelle Richardson Head Coach/Senior Women's Administrator wsoccer@chaminade.edu 808-739-7434
+• Chad Konishi Head Coach baseball@chaminade.edu
+• Keith Komeiji Assistant Coach baseball@chaminade.edu
+• Chester Wilson Assistant Coach baseball@chaminade.edu
+• Eric Bovaird Head Coach mbasketball@chaminade.edu 808-739-4696
+• Dantley Walker Associate Head Coach mbasketball@chaminade.edu 808-739-7431
+• Roman Young Assistant Coach mbasketball@chaminade.edu
+• Arthur King Assistant Coach mbasketball@chaminade.edu
+• Travis Brewster Head Coach wbasketball@chaminade.edu
+• Hilary Arakaki Assistant Coach wbasketball@chaminade.edu
+• Diamond Carter Assistant Coach wbasketball@chaminade.edu
+• Kahala Kabalis Hoke Head Coach wvolleyball@chaminade.edu 808-739-4697
+• Kolby Kanetake Associate Head Coach wvolleyball@chaminade.edu 808-739-7432
+• Shadrack Nabea Head Coach crosscountry@chaminade.edu 808-739-7417
+• Renee Yuen Head Coach mgolf@chaminade.edu 808-739-7419
+• Joshua Woodard Head Coach msoccer@chaminade.edu 808-739-7418
+• Michelle Richardson Head Coach/Senior Women's Administrator wsoccer@chaminade.edu 808-739-7434
+• Conor Whittaker Assistant Coach wsoccer@chaminade.edu
+• Kent Yamaguchi Head Coach softball@chaminade.edu 808-739-7435
+• Ty Aki Head Coach wtennis@chaminade.edu 808-739-7416
+• Kahala Kabalis Hoke Head Coach wvolleyball@chaminade.edu 808-739-4697
+• Kolby Kanetake Associate Head Coach wvolleyball@chaminade.edu 808-739-7432
+• Hobie Vannoy Assistant Coach wvolleyball@chaminade.edu

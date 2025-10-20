@@ -1,0 +1,266 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:30
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Samantha Spieler
+   Email: samantha.spieler@hsutx.edu
+   Username: samantha.spieler
+   Phone: (325) 670-1740
+   Original line: Samantha Spieler Head Spurs Coach samantha.spieler@hsutx.edu (325) 670-1740
+
+2. Tiffany McMurray
+   Email: tiffany.mcmurray@hsutx.edu
+   Username: tiffany.mcmurray
+   Phone: (325) 670-1663
+   Original line: Tiffany McMurray Cheerleading Coach tiffany.mcmurray@hsutx.edu (325) 670-1663
+
+3. Brenda Andress
+   Email: brenda.andress@hsutx.edu
+   Username: brenda.andress
+   Phone: (325) 670-1693
+   Original line: Brenda Andress Head Cycling Coach brenda.andress@hsutx.edu (325) 670-1693
+
+4. James Burk
+   Email: james.burk@hsutx.edu
+   Username: james.burk
+   Phone: (325) 670-1062
+   Original line: James Burk Head Strength and Conditioning Coach james.burk@hsutx.edu (325) 670-1062
+
+5. Jaxson Money
+   Email: jaxson.money@hsutx.edu
+   Username: jaxson.money
+   Phone: (325) 670-1141
+   Original line: Jaxson Money Tight Ends/Assistant Strength Coach jaxson.money@hsutx.edu (325) 670-1141
+
+6. Mitch Wilson
+   Email: mitch.wilson@hsutx.edu
+   Username: mitch.wilson
+   Phone: (325) 670-1493
+   Original line: Mitch Wilson Head Baseball Coach mitch.wilson@hsutx.edu (325) 670-1493
+
+7. Andrew Loudermilk
+   Email: andrew.loudermilk@hsutx.edu
+   Username: andrew.loudermilk
+   Phone: (325) 670-1730
+   Original line: Andrew Loudermilk Assistant Coach andrew.loudermilk@hsutx.edu (325) 670-1730
+
+8. Austin Vaught
+   Email: austin.vaught@hsutx.edu
+   Username: austin.vaught
+   Phone: (325) 670-1723
+   Original line: Austin Vaught Assistant Coach austin.vaught@hsutx.edu (325) 670-1723
+
+9. Matt Brackett
+   Email: matt.brackett@hsutx.edu
+   Username: matt.brackett
+   Phone: (325) 670-1474
+   Original line: Matt Brackett Head Basketball Coach matt.brackett@hsutx.edu (325) 670-1474
+
+10. Maverick Harris
+   Email: maverick.harris@hsutx.edu
+   Username: maverick.harris
+   Phone: (325) 670-1676
+   Original line: Maverick Harris Assistant Men's Basketball Coach maverick.harris@hsutx.edu (325) 670-1676
+
+11. Jesse Burleson
+   Email: jburleson@hsutx.edu
+   Username: jburleson
+   Phone: (325) 670-1554
+   Original line: Jesse Burleson Head Coach jburleson@hsutx.edu (325) 670-1554
+
+12. Logan Floyd
+   Email: logan.floyd@hsutx.edu
+   Username: logan.floyd
+   Phone: (325) 670-1172
+   Original line: Logan Floyd Cornerback Coach logan.floyd@hsutx.edu (325) 670-1172
+
+13. Gaylon Glynn
+   Email: gaylon.glynn@hsutx.edu
+   Username: gaylon.glynn
+   Original line: Gaylon Glynn RB Coach/Recruiting Coordinator/Operations gaylon.glynn@hsutx.edu
+
+14. Matt Mitchell
+   Email: matt.mitchell@hsutx.edu
+   Username: matt.mitchell
+   Phone: (325) 670-1116
+   Original line: Matt Mitchell Linebackers Coach matt.mitchell@hsutx.edu (325) 670-1116
+
+15. Jaxson Money
+   Email: jaxson.money@hsutx.edu
+   Username: jaxson.money
+   Phone: (325) 670-1141
+   Original line: Jaxson Money Tight Ends/Assistant Strength Coach jaxson.money@hsutx.edu (325) 670-1141
+
+16. Bart Craig
+   Email: bart.craig@hsutx.edu
+   Username: bart.craig
+   Phone: (325) 670-1374
+   Original line: Bart Craig Head Golf Coach bart.craig@hsutx.edu (325) 670-1374
+
+17. Emily Watson
+   Email: emily.watson@hsutx.edu
+   Username: emily.watson
+   Phone: (325) 670-1375
+   Original line: Emily Watson Assistant M/W Golf Coach/Compliance emily.watson@hsutx.edu (325) 670-1375
+
+18. Brad Bankhead
+   Email: brad.bankhead@hsutx.edu
+   Username: brad.bankhead
+   Phone: (325) 670-1862
+   Original line: Brad Bankhead Head Coach brad.bankhead@hsutx.edu (325) 670-1862
+
+19. Austin Wills
+   Email: austin.wills@hsutx.edu
+   Username: austin.wills
+   Phone: (325) 670-1164
+   Original line: Austin Wills Assistant Coach austin.wills@hsutx.edu (325) 670-1164
+
+20. Shane Williford
+   Email: swilliford@hsutx.edu
+   Username: swilliford
+   Phone: (325) 280-1634
+   Original line: Shane Williford Head Tennis Coach swilliford@hsutx.edu (325) 280-1634
+
+21. Isaac Hamilton
+   Email: Isaac.hamilton@hsutx.edu
+   Username: Isaac.hamilton
+   Phone: (325) 670-1192
+   Original line: Isaac Hamilton Head Coach Isaac.hamilton@hsutx.edu (325) 670-1192
+
+22. Sydney Tencate
+   Email: sydney.tencate@hsutx.edu
+   Username: sydney.tencate
+   Phone: (325) 670-1057
+   Original line: Sydney Tencate Assistant Coach sydney.tencate@hsutx.edu (325) 670-1057
+
+23. Joshua Hunter
+   Email: joshua.hunter@hsutx.edu
+   Username: joshua.hunter
+   Original line: Joshua Hunter Assistant Coach joshua.hunter@hsutx.edu
+
+24. Kendra Whitehead
+   Email: kendra.whitehead@hsutx.edu
+   Username: kendra.whitehead
+   Phone: (325) 670-1468
+   Original line: Kendra Whitehead Head Coach/SWA kendra.whitehead@hsutx.edu (325) 670-1468
+
+25. Cecily Woolfolk
+   Email: cecily.woolfolk@hsutx.edu
+   Username: cecily.woolfolk
+   Phone: (325) 670-1740
+   Original line: Cecily Woolfolk Assistant Coach cecily.woolfolk@hsutx.edu (325) 670-1740
+
+26. Bart Craig
+   Email: bart.craig@hsutx.edu
+   Username: bart.craig
+   Phone: (325) 670-1374
+   Original line: Bart Craig Head Golf Coach bart.craig@hsutx.edu (325) 670-1374
+
+27. Emily Watson
+   Email: emily.watson@hsutx.edu
+   Username: emily.watson
+   Phone: (325) 670-1375
+   Original line: Emily Watson Assistant M/W Golf Coach/Compliance emily.watson@hsutx.edu (325) 670-1375
+
+28. Rusty Oglesby
+   Email: rusty.oglesby@hsutx.edu
+   Username: rusty.oglesby
+   Phone: (325) 670-1738
+   Original line: Rusty Oglesby Head Coach rusty.oglesby@hsutx.edu (325) 670-1738
+
+29. Talin Rizo
+   Email: cowgirlsoccer@hsutx.edu
+   Username: cowgirlsoccer
+   Phone: (325) 670-1186
+   Original line: Talin Rizo Associate Head Coach cowgirlsoccer@hsutx.edu (325) 670-1186
+
+30. Casey Wilson
+   Email: casey.wilson@hsutx.edu
+   Username: casey.wilson
+   Phone: (325) 670-1053
+   Original line: Casey Wilson Head Softball Coach casey.wilson@hsutx.edu (325) 670-1053
+
+31. Aubrianna Salazar
+   Email: aubrianna.salazar@hsutx.edu
+   Username: aubrianna.salazar
+   Original line: Aubrianna Salazar Assistant Softball Coach aubrianna.salazar@hsutx.edu
+
+32. Shane Williford
+   Email: swilliford@hsutx.edu
+   Username: swilliford
+   Phone: (325) 280-1634
+   Original line: Shane Williford Head Tennis Coach swilliford@hsutx.edu (325) 280-1634
+
+33. Isaac Hamilton
+   Email: Isaac.hamilton@hsutx.edu
+   Username: Isaac.hamilton
+   Phone: (325) 670-1192
+   Original line: Isaac Hamilton Head Coach Isaac.hamilton@hsutx.edu (325) 670-1192
+
+34. Sydney Tencate
+   Email: sydney.tencate@hsutx.edu
+   Username: sydney.tencate
+   Phone: (325) 670-1057
+   Original line: Sydney Tencate Assistant Coach sydney.tencate@hsutx.edu (325) 670-1057
+
+35. Joshua Hunter
+   Email: joshua.hunter@hsutx.edu
+   Username: joshua.hunter
+   Original line: Joshua Hunter Assistant Coach joshua.hunter@hsutx.edu
+
+36. Kendall Crisp
+   Email: kendall.crisp@hsutx.edu
+   Username: kendall.crisp
+   Phone: (325) 670-1731
+   Original line: Kendall Crisp Head Coach kendall.crisp@hsutx.edu (325) 670-1731
+
+37. Kyrah Bailey
+   Email: kyrah.bailey@hsutx.edu
+   Username: kyrah.bailey
+   Phone: (325) 670-1042
+   Original line: Kyrah Bailey Assistant Coach kyrah.bailey@hsutx.edu (325) 670-1042
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Samantha Spieler Head Spurs Coach samantha.spieler@hsutx.edu (325) 670-1740
+• Tiffany McMurray Cheerleading Coach tiffany.mcmurray@hsutx.edu (325) 670-1663
+• Brenda Andress Head Cycling Coach brenda.andress@hsutx.edu (325) 670-1693
+• James Burk Head Strength and Conditioning Coach james.burk@hsutx.edu (325) 670-1062
+• Jaxson Money Tight Ends/Assistant Strength Coach jaxson.money@hsutx.edu (325) 670-1141
+• Mitch Wilson Head Baseball Coach mitch.wilson@hsutx.edu (325) 670-1493
+• Andrew Loudermilk Assistant Coach andrew.loudermilk@hsutx.edu (325) 670-1730
+• Austin Vaught Assistant Coach austin.vaught@hsutx.edu (325) 670-1723
+• Matt Brackett Head Basketball Coach matt.brackett@hsutx.edu (325) 670-1474
+• Maverick Harris Assistant Men's Basketball Coach maverick.harris@hsutx.edu (325) 670-1676
+• Jesse Burleson Head Coach jburleson@hsutx.edu (325) 670-1554
+• Logan Floyd Cornerback Coach logan.floyd@hsutx.edu (325) 670-1172
+• Gaylon Glynn RB Coach/Recruiting Coordinator/Operations gaylon.glynn@hsutx.edu
+• Matt Mitchell Linebackers Coach matt.mitchell@hsutx.edu (325) 670-1116
+• Jaxson Money Tight Ends/Assistant Strength Coach jaxson.money@hsutx.edu (325) 670-1141
+• Bart Craig Head Golf Coach bart.craig@hsutx.edu (325) 670-1374
+• Emily Watson Assistant M/W Golf Coach/Compliance emily.watson@hsutx.edu (325) 670-1375
+• Brad Bankhead Head Coach brad.bankhead@hsutx.edu (325) 670-1862
+• Austin Wills Assistant Coach austin.wills@hsutx.edu (325) 670-1164
+• Shane Williford Head Tennis Coach swilliford@hsutx.edu (325) 280-1634
+• Isaac Hamilton Head Coach Isaac.hamilton@hsutx.edu (325) 670-1192
+• Sydney Tencate Assistant Coach sydney.tencate@hsutx.edu (325) 670-1057
+• Joshua Hunter Assistant Coach joshua.hunter@hsutx.edu
+• Kendra Whitehead Head Coach/SWA kendra.whitehead@hsutx.edu (325) 670-1468
+• Cecily Woolfolk Assistant Coach cecily.woolfolk@hsutx.edu (325) 670-1740
+• Bart Craig Head Golf Coach bart.craig@hsutx.edu (325) 670-1374
+• Emily Watson Assistant M/W Golf Coach/Compliance emily.watson@hsutx.edu (325) 670-1375
+• Rusty Oglesby Head Coach rusty.oglesby@hsutx.edu (325) 670-1738
+• Talin Rizo Associate Head Coach cowgirlsoccer@hsutx.edu (325) 670-1186
+• Casey Wilson Head Softball Coach casey.wilson@hsutx.edu (325) 670-1053
+• Aubrianna Salazar Assistant Softball Coach aubrianna.salazar@hsutx.edu
+• Shane Williford Head Tennis Coach swilliford@hsutx.edu (325) 280-1634
+• Isaac Hamilton Head Coach Isaac.hamilton@hsutx.edu (325) 670-1192
+• Sydney Tencate Assistant Coach sydney.tencate@hsutx.edu (325) 670-1057
+• Joshua Hunter Assistant Coach joshua.hunter@hsutx.edu
+• Kendall Crisp Head Coach kendall.crisp@hsutx.edu (325) 670-1731
+• Kyrah Bailey Assistant Coach kyrah.bailey@hsutx.edu (325) 670-1042

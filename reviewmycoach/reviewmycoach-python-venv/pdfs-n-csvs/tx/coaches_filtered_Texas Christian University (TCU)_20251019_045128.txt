@@ -1,0 +1,83 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:30
+============================================================
+
+Total coaches found: 12
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Jumping
+   Email: l.fiorentino@tcu.edu
+   Username: l.fiorentino
+   Original line: Head Jumping Seat Coach l.fiorentino@tcu.edu
+
+2. Assistant to
+   Email: andrea.roberts@tcu.edu
+   Username: andrea.roberts
+   Original line: Assistant to the Head Football Coach andrea.roberts@tcu.edu
+
+3. Head Coach
+   Email: d.roditi@tcu.edu
+   Username: d.roditi
+   Original line: Head Coach d.roditi@tcu.edu
+
+4. Assistant Coach
+   Email: d.j.bowen@tcu.edu
+   Username: d.j.bowen
+   Original line: Assistant Coach d.j.bowen@tcu.edu
+
+5. Head Coach
+   Email: l.t.walker@tcu.edu
+   Username: l.t.walker
+   Original line: Head Coach l.t.walker@tcu.edu
+
+6. Associate Head
+   Email: p.sullivan12@tcu.edu
+   Username: p.sullivan12
+   Original line: Associate Head Coach p.sullivan12@tcu.edu
+
+7. Head Coach
+   Email: j.garrison1@tcu.edu
+   Username: j.garrison1
+   Original line: Head Coach j.garrison1@tcu.edu
+
+8. Assistant Coach
+   Email: k.woodward@tcu.edu
+   Username: k.woodward
+   Original line: Assistant Coach k.woodward@tcu.edu
+
+9. Head Coach
+   Email: JASON.WILLIAMS1@tcu.edu
+   Username: JASON.WILLIAMS1
+   Original line: Head Coach JASON.WILLIAMS1@tcu.edu
+
+10. Associate Head
+   Email: MORGAN.THOMAS1@tcu.edu
+   Username: MORGAN.THOMAS1
+   Original line: Associate Head Coach | Recruiting Coordinator MORGAN.THOMAS1@tcu.edu
+
+11. Assistant Coach
+   Email: keith.smith@tcu.edu
+   Username: keith.smith
+   Original line: Assistant Coach keith.smith@tcu.edu
+
+12. Head Coach
+   Email: h.gutierrez@tcu.edu
+   Username: h.gutierrez
+   Original line: Head Coach h.gutierrez@tcu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Jumping Seat Coach l.fiorentino@tcu.edu
+• Assistant to the Head Football Coach andrea.roberts@tcu.edu
+• Head Coach d.roditi@tcu.edu
+• Assistant Coach d.j.bowen@tcu.edu
+• Head Coach l.t.walker@tcu.edu
+• Associate Head Coach p.sullivan12@tcu.edu
+• Head Coach j.garrison1@tcu.edu
+• Assistant Coach k.woodward@tcu.edu
+• Head Coach JASON.WILLIAMS1@tcu.edu
+• Associate Head Coach | Recruiting Coordinator MORGAN.THOMAS1@tcu.edu
+• Assistant Coach keith.smith@tcu.edu
+• Head Coach h.gutierrez@tcu.edu

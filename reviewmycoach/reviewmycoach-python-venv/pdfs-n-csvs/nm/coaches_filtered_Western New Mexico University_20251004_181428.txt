@@ -1,0 +1,92 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:29
+============================================================
+
+Total coaches found: 13
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jen Whetten
+   Email: jennifer.whetten@wnmu.edu
+   Username: jennifer.whetten
+   Original line: Jen Whetten Head Sports Performance Coach jennifer.whetten@wnmu.edu
+
+2. Mark Bunker
+   Email: mark.bunker@wnmu.edu
+   Username: mark.bunker
+   Original line: Mark Bunker Head Men's Basketball Coach mark.bunker@wnmu.edu (575) 538-
+
+3. Jacobe Julien
+   Email: Jacobe.Julien@wnmu.edu
+   Username: Jacobe.Julien
+   Original line: Jacobe Julien Men's Basketball Assistant Coach Jacobe.Julien@wnmu.edu (575) 538-
+
+4. Micaela Medina
+   Email: medinam8@wnmu.edu
+   Username: medinam8
+   Original line: Micaela Medina Women's Basketball Assistant Coach medinam8@wnmu.edu
+
+5. Macario Campos
+   Email: teamelite@hotmail.com
+   Username: teamelite
+   Original line: Macario Campos Head Coach - Cross Country/Track & Field teamelite@hotmail.com (575) 538-
+
+6. Billy Hickman
+   Email: William.Hickman@wnmu.edu
+   Username: William.Hickman
+   Original line: Billy Hickman Head Football Coach William.Hickman@wnmu.edu
+
+7. Harry O'Callaghan
+   Email: wnmugolf@wnmu.edu
+   Username: wnmugolf
+   Original line: Harry O'Callaghan Head Men's & Women's Golf Coach wnmugolf@wnmu.edu (575) 538-
+
+8. Ashley Hickman
+   Email: ashley.hickman@wnmu.edu
+   Username: ashley.hickman
+   Phone: (575) 538-6091
+   Original line: Ashley Hickman Head Softball Coach ashley.hickman@wnmu.edu 575-538-6091
+
+9. Jeff Young
+   Email: jeffery.young@wnmu.edu
+   Username: jeffery.young
+   Phone: (575) 538-6091
+   Original line: Jeff Young Assistant Softball Coach jeffery.young@wnmu.edu 575-538-6091
+
+10. Jesus Baltazar
+   Email: Jesus.Baltazar@wnmu.edu
+   Username: Jesus.Baltazar
+   Original line: Jesus Baltazar Head Tennis Coach Jesus.Baltazar@wnmu.edu (575) 538-
+
+11. Geno Frugoli
+   Email: geno.frugoli@wnmu.edu
+   Username: geno.frugoli
+   Phone: (575) 538-6225
+   Original line: Geno Frugoli Head Volleyball Coach geno.frugoli@wnmu.edu 575-538-6225
+
+12. Jerry Hulla
+   Email: Jerry.Hulla@wnmu.edu
+   Username: Jerry.Hulla
+   Original line: Jerry Hulla Assistant Volleyball Coach Jerry.Hulla@wnmu.edu
+
+13. Macario Campos
+   Email: teamelite@hotmail.com
+   Username: teamelite
+   Original line: Macario Campos Head Coach - Cross Country/Track & Field teamelite@hotmail.com (575) 538-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jen Whetten Head Sports Performance Coach jennifer.whetten@wnmu.edu
+• Mark Bunker Head Men's Basketball Coach mark.bunker@wnmu.edu (575) 538-
+• Jacobe Julien Men's Basketball Assistant Coach Jacobe.Julien@wnmu.edu (575) 538-
+• Micaela Medina Women's Basketball Assistant Coach medinam8@wnmu.edu
+• Macario Campos Head Coach - Cross Country/Track & Field teamelite@hotmail.com (575) 538-
+• Billy Hickman Head Football Coach William.Hickman@wnmu.edu
+• Harry O'Callaghan Head Men's & Women's Golf Coach wnmugolf@wnmu.edu (575) 538-
+• Ashley Hickman Head Softball Coach ashley.hickman@wnmu.edu 575-538-6091
+• Jeff Young Assistant Softball Coach jeffery.young@wnmu.edu 575-538-6091
+• Jesus Baltazar Head Tennis Coach Jesus.Baltazar@wnmu.edu (575) 538-
+• Geno Frugoli Head Volleyball Coach geno.frugoli@wnmu.edu 575-538-6225
+• Jerry Hulla Assistant Volleyball Coach Jerry.Hulla@wnmu.edu
+• Macario Campos Head Coach - Cross Country/Track & Field teamelite@hotmail.com (575) 538-

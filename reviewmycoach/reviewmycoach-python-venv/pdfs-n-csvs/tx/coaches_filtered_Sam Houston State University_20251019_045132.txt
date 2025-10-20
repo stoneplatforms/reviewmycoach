@@ -1,0 +1,254 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:33
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Caroline Garlington
+   Email: cxg140@shsu.edu
+   Username: cxg140
+   Original line: Caroline Garlington Academic Success Coach - Football cxg140@shsu.edu
+
+2. Jay Sirianni
+   Email: jsirianni@shsu.edu
+   Username: jsirianni
+   Phone: (936) 294-2580
+   Original line: Jay Sirianni Head Coach 936 294-2580 jsirianni@shsu.edu
+
+3. Shane Wedd
+   Email: swedd@shsu.edu
+   Username: swedd
+   Phone: (936) 294-1731
+   Original line: Shane Wedd Associate Head Coach 936 294-1731 swedd@shsu.edu
+
+4. Kyle Simonds
+   Email: kss057@shsu.edu
+   Username: kss057
+   Phone: (936) 294-4169
+   Original line: Kyle Simonds Assistant Coach 936 294-4169 kss057@shsu.edu
+
+5. David Wood
+   Email: dmw079@shsu.edu
+   Username: dmw079
+   Phone: (936) 294-4169
+   Original line: David Wood Assistant Coach 936 294-4169 dmw079@shsu.edu
+
+6. Brad Hagen
+   Email: bkh003@shsu.edu
+   Username: bkh003
+   Phone: (936) 294-3350
+   Original line: Brad Hagen Head Coach 936 294-3350 bkh003@shsu.edu
+
+7. Patrick Torres
+   Email: pht007@shsu.edu
+   Username: pht007
+   Phone: (936) 294-3127
+   Original line: Patrick Torres Head Coach (Cross Country) / Assistant Coach (Distance) 936 294-3127 pht007@shsu.edu
+
+8. Eric Raisbeck
+   Email: ejr063@shsu.edu
+   Username: ejr063
+   Phone: (936) 294-1735
+   Original line: Eric Raisbeck Associate Head Coach / Special Teams Coordinator / Slot Receivers 936 294-1735 ejr063@shsu.edu
+
+9. Brandt Kieschnick
+   Email: brandt@shsu.edu
+   Username: brandt
+   Phone: (936) 294-1051
+   Original line: Brandt Kieschnick Head Coach 936 294-1051 brandt@shsu.edu
+
+10. Lake Leroux
+   Email: lal059@shsu.edu
+   Username: lal059
+   Phone: (936) 294-1521
+   Original line: Lake Leroux Associate Head Coach 936 294-1521 lal059@shsu.edu
+
+11. Rosa Barnak
+   Email: rxb121@shsu.edu
+   Username: rxb121
+   Phone: (936) 294-1521
+   Original line: Rosa Barnak Assistant Coach 936 294-1521 rxb121@shsu.edu
+
+12. Chad Sewell
+   Email: cxs128@shsu.edu
+   Username: cxs128
+   Phone: (936) 294-1521
+   Original line: Chad Sewell Assistant Coach 936 294-1521 cxs128@shsu.edu
+
+13. Jenna Young
+   Email: jlp081@shsu.edu
+   Username: jlp081
+   Phone: (936) 294-1521
+   Original line: Jenna Young Volunteer Assistant Coach 936 294-1521 jlp081@shsu.edu
+
+14. Chris Mudge
+   Email: cmudge@shsu.edu
+   Username: cmudge
+   Phone: (936) 294-1748
+   Original line: Chris Mudge Head Coach 936 294-1748 cmudge@shsu.edu
+
+15. Anthony Fobb
+   Email: amf126@shsu.edu
+   Username: amf126
+   Original line: Anthony Fobb Assistant Coach amf126@shsu.edu
+
+16. Joe Kuligoski
+   Email: jdk054@shsu.edu
+   Username: jdk054
+   Original line: Joe Kuligoski Assistant Coach jdk054@shsu.edu
+
+17. Angres Thorpe
+   Email: amt174@shsu.edu
+   Username: amt174
+   Original line: Angres Thorpe Assistant Coach amt174@shsu.edu
+
+18. Ravon Justice
+   Email: justice@shsu.edu
+   Username: justice
+   Phone: (936) 294-1994
+   Original line: Ravon Justice Head Coach 936 294-1994 justice@shsu.edu
+
+19. Brittany Mason
+   Email: bnm060@shsu.edu
+   Username: bnm060
+   Phone: (936) 294-3915
+   Original line: Brittany Mason Assistant Coach 936-294-3915 bnm060@shsu.edu
+
+20. Martin Pazanin
+   Email: mkp035@shsu.edu
+   Username: mkp035
+   Original line: Martin Pazanin Assistant Coach mkp035@shsu.edu
+
+21. Ayriell Robinson
+   Email: asr068@shsu.edu
+   Username: asr068
+   Original line: Ayriell Robinson Assistant Coach asr068@shsu.edu
+
+22. Kendall Ayers
+   Email: kja055@shsu.edu
+   Username: kja055
+   Phone: (936) 294-1244
+   Original line: Kendall Ayers Head Coach 936 294-1244 kja055@shsu.edu
+
+23. Max Flores
+   Email: Mxf130@shsu.edu
+   Username: Mxf130
+   Original line: Max Flores Associate Head Coach (832) 752- Mxf130@shsu.edu
+
+24. Alyssa Gregory
+   Email: adg093@shsu.edu
+   Username: adg093
+   Phone: (936) 294-4138
+   Original line: Alyssa Gregory Assistant Coach 936 294-4138 adg093@shsu.edu
+
+25. Garrett Valis
+   Email: samhoustonsb@shsu.edu
+   Username: samhoustonsb
+   Phone: (936) 294-3920
+   Original line: Garrett Valis Head Coach 936 294-3920 samhoustonsb@shsu.edu
+
+26. Tess Soefje
+   Email: samhoustonsb@shsu.edu
+   Username: samhoustonsb
+   Phone: (936) 294-4166
+   Original line: Tess Soefje Assistant Coach 936 294-4166 samhoustonsb@shsu.edu
+
+27. Lexi Smith
+   Email: samhoustonsb@shsu.edu
+   Username: samhoustonsb
+   Phone: (936) 294-1745
+   Original line: Lexi Smith Assistant Coach 936 294-1745 samhoustonsb@shsu.edu
+
+28. Rob Hubbard
+   Email: rxh043@shsu.edu
+   Username: rxh043
+   Phone: (936) 294-1744
+   Original line: Rob Hubbard Head Coach 936 294-1744 rxh043@shsu.edu
+
+29. David Self
+   Email: dself@shsu.edu
+   Username: dself
+   Phone: (936) 294-3355
+   Original line: David Self Head Coach (Sprints) 936 294-3355 dself@shsu.edu
+
+30. TJ Pride
+   Email: tlp057@shsu.edu
+   Username: tlp057
+   Original line: TJ Pride Assistant Coach (Horizontals/Pole Vault/Combined) tlp057@shsu.edu
+
+31. Patrick Torres
+   Email: pht007@shsu.edu
+   Username: pht007
+   Phone: (936) 294-3127
+   Original line: Patrick Torres Head Coach (Cross Country) / Assistant Coach (Distance) 936 294-3127 pht007@shsu.edu
+
+32. Micah Guthland
+   Email: mrg095@shsu.edu
+   Username: mrg095
+   Original line: Micah Guthland Assistant Coach (Throws) mrg095@shsu.edu
+
+33. Brenda Gray
+   Email: bgray@shsu.edu
+   Username: bgray
+   Phone: (936) 294-1736
+   Original line: Brenda Gray Head Coach 936 294-1736 bgray@shsu.edu
+
+34. Brad Keenan
+   Email: bjk034@shsu.edu
+   Username: bjk034
+   Phone: (936) 294-3596
+   Original line: Brad Keenan Assistant Coach / Head Coach - Beach 936 294-3596 bjk034@shsu.edu
+
+35. Matthew Cash
+   Email: mrc021@shsu.edu
+   Username: mrc021
+   Phone: (936) 294-3596
+   Original line: Matthew Cash Assistant Coach 936 294-3596 mrc021@shsu.edu
+
+36. Tayler Gray
+   Email: tlg016@shsu.edu
+   Username: tlg016
+   Phone: (936) 294-3596
+   Original line: Tayler Gray Volunteer Assistant Coach 936 294-3596 tlg016@shsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Caroline Garlington Academic Success Coach - Football cxg140@shsu.edu
+• Jay Sirianni Head Coach 936 294-2580 jsirianni@shsu.edu
+• Shane Wedd Associate Head Coach 936 294-1731 swedd@shsu.edu
+• Kyle Simonds Assistant Coach 936 294-4169 kss057@shsu.edu
+• David Wood Assistant Coach 936 294-4169 dmw079@shsu.edu
+• Brad Hagen Head Coach 936 294-3350 bkh003@shsu.edu
+• Patrick Torres Head Coach (Cross Country) / Assistant Coach (Distance) 936 294-3127 pht007@shsu.edu
+• Eric Raisbeck Associate Head Coach / Special Teams Coordinator / Slot Receivers 936 294-1735 ejr063@shsu.edu
+• Brandt Kieschnick Head Coach 936 294-1051 brandt@shsu.edu
+• Lake Leroux Associate Head Coach 936 294-1521 lal059@shsu.edu
+• Rosa Barnak Assistant Coach 936 294-1521 rxb121@shsu.edu
+• Chad Sewell Assistant Coach 936 294-1521 cxs128@shsu.edu
+• Jenna Young Volunteer Assistant Coach 936 294-1521 jlp081@shsu.edu
+• Chris Mudge Head Coach 936 294-1748 cmudge@shsu.edu
+• Anthony Fobb Assistant Coach amf126@shsu.edu
+• Joe Kuligoski Assistant Coach jdk054@shsu.edu
+• Angres Thorpe Assistant Coach amt174@shsu.edu
+• Ravon Justice Head Coach 936 294-1994 justice@shsu.edu
+• Brittany Mason Assistant Coach 936-294-3915 bnm060@shsu.edu
+• Martin Pazanin Assistant Coach mkp035@shsu.edu
+• Ayriell Robinson Assistant Coach asr068@shsu.edu
+• Kendall Ayers Head Coach 936 294-1244 kja055@shsu.edu
+• Max Flores Associate Head Coach (832) 752- Mxf130@shsu.edu
+• Alyssa Gregory Assistant Coach 936 294-4138 adg093@shsu.edu
+• Garrett Valis Head Coach 936 294-3920 samhoustonsb@shsu.edu
+• Tess Soefje Assistant Coach 936 294-4166 samhoustonsb@shsu.edu
+• Lexi Smith Assistant Coach 936 294-1745 samhoustonsb@shsu.edu
+• Rob Hubbard Head Coach 936 294-1744 rxh043@shsu.edu
+• David Self Head Coach (Sprints) 936 294-3355 dself@shsu.edu
+• TJ Pride Assistant Coach (Horizontals/Pole Vault/Combined) tlp057@shsu.edu
+• Patrick Torres Head Coach (Cross Country) / Assistant Coach (Distance) 936 294-3127 pht007@shsu.edu
+• Micah Guthland Assistant Coach (Throws) mrg095@shsu.edu
+• Brenda Gray Head Coach 936 294-1736 bgray@shsu.edu
+• Brad Keenan Assistant Coach / Head Coach - Beach 936 294-3596 bjk034@shsu.edu
+• Matthew Cash Assistant Coach 936 294-3596 mrc021@shsu.edu
+• Tayler Gray Volunteer Assistant Coach 936 294-3596 tlg016@shsu.edu

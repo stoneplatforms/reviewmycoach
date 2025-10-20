@@ -1,0 +1,182 @@
+COACH ENTRIES FOUND - 2025-10-04 18:16:45
+============================================================
+
+Total coaches found: 25
+
+PARSED ENTRIES:
+----------------------------------------
+1. Patrick Gary
+   Email: pgary@xula.edu
+   Username: pgary
+   Phone: (504) 520-7510
+   Original line: Patrick Gary Assistant Athletics Director of Student Development / CARE Coach pgary@xula.edu 504-520-7510
+
+2. Xavier Paul
+   Email: xpaul@xula.edu
+   Username: xpaul
+   Phone: (504) 520-7262
+   Original line: Xavier Paul Baseball Head Coach xpaul@xula.edu 504-520-7262
+
+3. Kent Evans
+   Email: kevans25@xula.edu
+   Username: kevans25
+   Phone: (504) 520-7313
+   Original line: Kent Evans Baseball Assistant Coach kevans25@xula.edu 504-520-7313
+
+4. Alfred Williams
+   Email: awilli39@xula.edu
+   Username: awilli39
+   Phone: (504) 520-5448
+   Original line: Alfred Williams Men's Basketball Co-Head Coach awilli39@xula.edu 504-520-5448
+
+5. Tyrone Mitchell
+   Email: tmitch17@xula.edu
+   Username: tmitch17
+   Phone: (504) 520-6778
+   Original line: Tyrone Mitchell Men's Basketball Co-Head Coach tmitch17@xula.edu 504-520-6778
+
+6. Jeff Dixon
+   Email: jdixon8@xula.edu
+   Username: jdixon8
+   Original line: Jeff Dixon Men's Basketball Assistant Coach jdixon8@xula.edu
+
+7. Bo Browder
+   Email: rbrowder@xula.edu
+   Username: rbrowder
+   Phone: (504) 520-7333
+   Original line: Bo Browder Women's Basketball Head Coach rbrowder@xula.edu 504-520-7333
+
+8. Whitney Kelley
+   Email: wgathrig@xula.edu
+   Username: wgathrig
+   Phone: (504) 520-7513
+   Original line: Whitney Kelley Women's Basketball Associate Head Coach wgathrig@xula.edu 504-520-7513
+
+9. Glenn Caston
+   Email: gcaston@xula.edu
+   Username: gcaston
+   Phone: (504) 520-7156
+   Original line: Glenn Caston Competitive Cheer Head Coach gcaston@xula.edu 504-520-7156
+
+10. Alexis Hart
+   Email: xulacheer@xula.edu
+   Username: xulacheer
+   Original line: Alexis Hart Competitive Cheer Assistant Coach xulacheer@xula.edu
+
+11. Yhann Plummer
+   Email: yplummer@xula.edu
+   Username: yplummer
+   Phone: (504) 520-5007
+   Original line: Yhann Plummer Men's and Women's Cross Country / Track and Field Head Coach yplummer@xula.edu 504-520-5007
+
+12. Andrew Kidd
+   Email: akidd3@xula.edu
+   Username: akidd3
+   Phone: (504) 520-5007
+   Original line: Andrew Kidd Men's and Women's Cross Country / Track and Field Assistant Coach akidd3@xula.edu 504-520-5007
+
+13. Tamara Clayton
+   Email: tclayto4@xula.edu
+   Username: tclayto4
+   Phone: (504) 520-7446
+   Original line: Tamara Clayton Men's and Women's Rowing Head Coach tclayto4@xula.edu 504-520-7446
+
+14. Lucas Cordeiro
+   Email: lcordeir@xula.edu
+   Username: lcordeir
+   Phone: (504) 520-7362
+   Original line: Lucas Cordeiro Men's Soccer Head Coach lcordeir@xula.edu 504-520-7362
+
+15. Will Rodrigues
+   Email: wrodrigu@xula.edu
+   Username: wrodrigu
+   Original line: Will Rodrigues Men's Soccer Assistant Coach wrodrigu@xula.edu
+
+16. Ashley Cordeiro
+   Email: acordeir@xula.edu
+   Username: acordeir
+   Phone: (504) 520-7328
+   Original line: Ashley Cordeiro Women's Soccer Head Coach acordeir@xula.edu 504-520-7328
+
+17. Daniel Cordeiro
+   Email: dcordeir@xula.edu
+   Username: dcordeir
+   Phone: (504) 520-5344
+   Original line: Daniel Cordeiro Women's Soccer Assistant Coach dcordeir@xula.edu 504-520-5344
+
+18. Kailey Anderson
+   Email: kander35@xula.edu
+   Username: kander35
+   Phone: (504) 520-7160
+   Original line: Kailey Anderson Softball Head Coach kander35@xula.edu 504-520-7160
+
+19. Ambria Dorsey
+   Email: adorsey6@xula.edu
+   Username: adorsey6
+   Phone: (504) 520-5313
+   Original line: Ambria Dorsey Softball Assistant Coach adorsey6@xula.edu 504-520-5313
+
+20. A.D. Brown
+   Email: coach.ad@aol.com
+   Username: coach.ad
+   Phone: (504) 444-5532
+   Original line: A.D. Brown Softball Assistant Coach / Recruiting Coordinator coach.ad@aol.com 504-444-5532
+
+21. Alan Green
+   Email: amgreen@xula.edu
+   Username: amgreen
+   Phone: (504) 520-5008
+   Original line: Alan Green Director of Tennis / Head Coach amgreen@xula.edu 504-520-5008
+
+22. Sebastian Perez
+   Email: jperez3@xula.edu
+   Username: jperez3
+   Original line: Sebastian Perez Men's and Women's Tennis Assistant Coach jperez3@xula.edu
+
+23. Yhann Plummer
+   Email: yplummer@xula.edu
+   Username: yplummer
+   Phone: (504) 520-5007
+   Original line: Yhann Plummer Men's and Women's Cross Country / Track and Field Head Coach yplummer@xula.edu 504-520-5007
+
+24. Andrew Kidd
+   Email: akidd3@xula.edu
+   Username: akidd3
+   Phone: (504) 520-5007
+   Original line: Andrew Kidd Men's and Women's Cross Country / Track and Field Assistant Coach akidd3@xula.edu 504-520-5007
+
+25. Gabby Waden
+   Email: gwaden@xula.edu
+   Username: gwaden
+   Phone: (504) 520-7255
+   Original line: Gabby Waden Women's Volleyball Assistant Coach gwaden@xula.edu 504-520-7255
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Patrick Gary Assistant Athletics Director of Student Development / CARE Coach pgary@xula.edu 504-520-7510
+• Xavier Paul Baseball Head Coach xpaul@xula.edu 504-520-7262
+• Kent Evans Baseball Assistant Coach kevans25@xula.edu 504-520-7313
+• Alfred Williams Men's Basketball Co-Head Coach awilli39@xula.edu 504-520-5448
+• Tyrone Mitchell Men's Basketball Co-Head Coach tmitch17@xula.edu 504-520-6778
+• Jeff Dixon Men's Basketball Assistant Coach jdixon8@xula.edu
+• Bo Browder Women's Basketball Head Coach rbrowder@xula.edu 504-520-7333
+• Whitney Kelley Women's Basketball Associate Head Coach wgathrig@xula.edu 504-520-7513
+• Glenn Caston Competitive Cheer Head Coach gcaston@xula.edu 504-520-7156
+• Alexis Hart Competitive Cheer Assistant Coach xulacheer@xula.edu
+• Yhann Plummer Men's and Women's Cross Country / Track and Field Head Coach yplummer@xula.edu 504-520-5007
+• Andrew Kidd Men's and Women's Cross Country / Track and Field Assistant Coach akidd3@xula.edu 504-520-5007
+• Tamara Clayton Men's and Women's Rowing Head Coach tclayto4@xula.edu 504-520-7446
+• Lucas Cordeiro Men's Soccer Head Coach lcordeir@xula.edu 504-520-7362
+• Will Rodrigues Men's Soccer Assistant Coach wrodrigu@xula.edu
+• Ashley Cordeiro Women's Soccer Head Coach acordeir@xula.edu 504-520-7328
+• Daniel Cordeiro Women's Soccer Assistant Coach dcordeir@xula.edu 504-520-5344
+• Kailey Anderson Softball Head Coach kander35@xula.edu 504-520-7160
+• Ambria Dorsey Softball Assistant Coach adorsey6@xula.edu 504-520-5313
+• A.D. Brown Softball Assistant Coach / Recruiting Coordinator coach.ad@aol.com 504-444-5532
+• Alan Green Director of Tennis / Head Coach amgreen@xula.edu 504-520-5008
+• Sebastian Perez Men's and Women's Tennis Assistant Coach jperez3@xula.edu
+• Yhann Plummer Men's and Women's Cross Country / Track and Field Head Coach yplummer@xula.edu 504-520-5007
+• Andrew Kidd Men's and Women's Cross Country / Track and Field Assistant Coach akidd3@xula.edu 504-520-5007
+• Gabby Waden Women's Volleyball Assistant Coach gwaden@xula.edu 504-520-7255

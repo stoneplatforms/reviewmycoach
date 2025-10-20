@@ -1,0 +1,281 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:19
+============================================================
+
+Total coaches found: 45
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kayla Foster
+   Email: kmfoste2@uncg.edu
+   Username: kmfoste2
+   Original line: Kayla Foster Head Dance Team Coach kmfoste2@uncg.edu 336-408-
+
+2. Krystal Morrow
+   Email: kymorrow@uncg.edu
+   Username: kymorrow
+   Original line: Krystal Morrow Head Cheer Team Coach kymorrow@uncg.edu 336-317-
+
+3. Danny Wheel
+   Email: bdwheel@uncg.edu
+   Username: bdwheel
+   Original line: Danny Wheel Head Strength and Conditioning Coach bdwheel@uncg.edu 336-908-
+
+4. Darian Rahmat
+   Email: dcrahmat@uncg.edu
+   Username: dcrahmat
+   Original line: Darian Rahmat Assistant Strength & Conditioning Coach dcrahmat@uncg.edu
+
+5. Jorge Vasquez
+   Email: j_vasquez2@uncg.edu
+   Username: j_vasquez2
+   Original line: Jorge Vasquez Assistant Strength & Conditioning Coach j_vasquez2@uncg.edu
+
+6. Cody Ellis
+   Email: cmellis4@uncg.edu
+   Username: cmellis4
+   Original line: Cody Ellis Head Coach cmellis4@uncg.edu
+
+7. Seth Maness
+   Email: S_MANESS@uncg.edu
+   Username: S_MANESS
+   Original line: Seth Maness Pitching Coach/Recruiting Coordinator S_MANESS@uncg.edu
+
+8. Kris Taveras
+   Email: KNTAVERAS@uncg.edu
+   Username: KNTAVERAS
+   Original line: Kris Taveras Assistant Coach KNTAVERAS@uncg.edu
+
+9. Kevin Westlake
+   Email: kpwestlake@uncg.edu
+   Username: kpwestlake
+   Original line: Kevin Westlake Assistant Coach kpwestlake@uncg.edu
+
+10. Trina Patterson
+   Email: ttpatter@uncg.edu
+   Username: ttpatter
+   Original line: Trina Patterson Head Coach ttpatter@uncg.edu 336-334-
+
+11. Cetera DeGraffenreid
+   Email: cndegraf@uncg.edu
+   Username: cndegraf
+   Original line: Cetera DeGraffenreid Associate Head Coach cndegraf@uncg.edu
+
+12. Alex Miller
+   Email: a_miller2@uncg.edu
+   Username: a_miller2
+   Original line: Alex Miller Assistant Coach a_miller2@uncg.edu
+
+13. Fred Applin
+   Email: fcapplin@uncg.edu
+   Username: fcapplin
+   Original line: Fred Applin Assistant Coach fcapplin@uncg.edu
+
+14. Ashley Yu
+   Email: A_YU@uncg.edu
+   Username: A_YU
+   Original line: Ashley Yu Assistant Coach/Director of Player Development A_YU@uncg.edu
+
+15. Letoya McBride
+   Email: LNTWITTY@uncg.edu
+   Username: LNTWITTY
+   Original line: Letoya McBride Director of Basketball Operations/Assistant Coach LNTWITTY@uncg.edu
+
+16. Mike Jones
+   Email: mens.basketball@uncg.edu
+   Username: mens.basketball
+   Original line: Mike Jones Head Coach mens.basketball@uncg.edu
+
+17. Brett Gilbert
+   Email: begilbert@uncg.edu
+   Username: begilbert
+   Original line: Brett Gilbert Assistant Coach begilbert@uncg.edu
+
+18. Bryant Stith
+   Email: blstith@uncg.edu
+   Username: blstith
+   Original line: Bryant Stith Assistant Coach blstith@uncg.edu
+
+19. Josh Gross
+   Email: jdgross@uncg.edu
+   Username: jdgross
+   Original line: Josh Gross Assistant Coach jdgross@uncg.edu
+
+20. C.J. Lee
+   Email: cbleeii@uncg.edu
+   Username: cbleeii
+   Original line: C.J. Lee Assistant Coach/Director of Basketball Operations cbleeii@uncg.edu 336-890-
+
+21. Randy Phillips
+   Email: rdphillips@uncg.edu
+   Username: rdphillips
+   Original line: Randy Phillips Assistant Coach/Program Manager rdphillips@uncg.edu
+
+22. Kaleigh Roach
+   Email: k_roach@uncg.edu
+   Username: k_roach
+   Original line: Kaleigh Roach Head Coach k_roach@uncg.edu
+
+23. Bruce Jackson
+   Email: bljackson2@uncg.edu
+   Username: bljackson2
+   Original line: Bruce Jackson Assistant Coach bljackson2@uncg.edu 336-847-
+
+24. Ashley Leonard
+   Email: ahleonard@uncg.edu
+   Username: ahleonard
+   Original line: Ashley Leonard Head Coach ahleonard@uncg.edu 252-290-
+
+25. Lori Beth
+   Email: L_ADAMS3@uncg.edu
+   Username: L_ADAMS3
+   Original line: Lori Beth Adams Assistant Coach L_ADAMS3@uncg.edu
+
+26. Terrance Stewart
+   Email: terrance.stewart@uncg.edu
+   Username: terrance.stewart
+   Original line: Terrance Stewart Head Coach terrance.stewart@uncg.edu 336-202-
+
+27. Dirk Fennie
+   Email: dhfennie@uncg.edu
+   Username: dhfennie
+   Original line: Dirk Fennie Associate Head Coach dhfennie@uncg.edu 336-601-
+
+28. Stefani Workman
+   Email: snworkma@uncg.edu
+   Username: snworkma
+   Original line: Stefani Workman Head Coach snworkma@uncg.edu
+
+29. Mitch Williams
+   Email: m_williams3@uncg.edu
+   Username: m_williams3
+   Original line: Mitch Williams Assistant Coach m_williams3@uncg.edu
+
+30. Jaida Scott
+   Email: j_scott4@uncg.edu
+   Username: j_scott4
+   Original line: Jaida Scott Assistant Coach j_scott4@uncg.edu 954-830-
+
+31. Eric Winkler
+   Email: e_winkler@uncg.edu
+   Username: e_winkler
+   Original line: Eric Winkler Assistant Coach e_winkler@uncg.edu
+
+32. Chris Rich
+   Email: msoccer@uncg.edu
+   Username: msoccer
+   Original line: Chris Rich Head Coach msoccer@uncg.edu
+
+33. Jonathan Lagos
+   Email: msoccer@uncg.edu
+   Username: msoccer
+   Original line: Jonathan Lagos Associate Head Coach msoccer@uncg.edu
+
+34. Peter Merritt
+   Email: msoccer@uncg.edu
+   Username: msoccer
+   Original line: Peter Merritt Assistant Coach msoccer@uncg.edu 336-334-
+
+35. Manbi Nyepon
+   Email: msoccer@uncg.edu
+   Username: msoccer
+   Original line: Manbi Nyepon Assistant Coach/Goalkeeper Coach msoccer@uncg.edu
+
+36. Janelle Breneman
+   Email: jbreneman@uncg.edu
+   Username: jbreneman
+   Original line: Janelle Breneman Head Coach jbreneman@uncg.edu 336-541-
+
+37. Brynne Dordel
+   Email: bjdordel@uncg.edu
+   Username: bjdordel
+   Original line: Brynne Dordel Pitching Coach bjdordel@uncg.edu
+
+38. Ally Davis
+   Email: abdavis8@uncg.edu
+   Username: abdavis8
+   Original line: Ally Davis Assistant Coach abdavis8@uncg.edu
+
+39. JoJo Hyatt
+   Email: h_hyatt@uncg.edu
+   Username: h_hyatt
+   Original line: JoJo Hyatt Assistant Coach h_hyatt@uncg.edu
+
+40. Mat Iandolo
+   Email: mmiandolo@uncg.edu
+   Username: mmiandolo
+   Original line: Mat Iandolo Head Coach mmiandolo@uncg.edu
+
+41. Jeff Trivette
+   Email: uncgtennis@uncg.edu
+   Username: uncgtennis
+   Original line: Jeff Trivette Director of Tennis/Men's Head Coach uncgtennis@uncg.edu 336-209-
+
+42. Kaleigh Roach
+   Email: k_roach@uncg.edu
+   Username: k_roach
+   Original line: Kaleigh Roach Head Coach k_roach@uncg.edu
+
+43. Bruce Jackson
+   Email: bljackson2@uncg.edu
+   Username: bljackson2
+   Original line: Bruce Jackson Assistant Coach bljackson2@uncg.edu 336-847-
+
+44. Felicia Turner
+   Email: faturner@uncg.edu
+   Username: faturner
+   Original line: Felicia Turner Head Coach faturner@uncg.edu
+
+45. Trent Dunahoo
+   Email: tcdunahoo@uncg.edu
+   Username: tcdunahoo
+   Original line: Trent Dunahoo Assistant Coach tcdunahoo@uncg.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kayla Foster Head Dance Team Coach kmfoste2@uncg.edu 336-408-
+• Krystal Morrow Head Cheer Team Coach kymorrow@uncg.edu 336-317-
+• Danny Wheel Head Strength and Conditioning Coach bdwheel@uncg.edu 336-908-
+• Darian Rahmat Assistant Strength & Conditioning Coach dcrahmat@uncg.edu
+• Jorge Vasquez Assistant Strength & Conditioning Coach j_vasquez2@uncg.edu
+• Cody Ellis Head Coach cmellis4@uncg.edu
+• Seth Maness Pitching Coach/Recruiting Coordinator S_MANESS@uncg.edu
+• Kris Taveras Assistant Coach KNTAVERAS@uncg.edu
+• Kevin Westlake Assistant Coach kpwestlake@uncg.edu
+• Trina Patterson Head Coach ttpatter@uncg.edu 336-334-
+• Cetera DeGraffenreid Associate Head Coach cndegraf@uncg.edu
+• Alex Miller Assistant Coach a_miller2@uncg.edu
+• Fred Applin Assistant Coach fcapplin@uncg.edu
+• Ashley Yu Assistant Coach/Director of Player Development A_YU@uncg.edu
+• Letoya McBride Director of Basketball Operations/Assistant Coach LNTWITTY@uncg.edu
+• Mike Jones Head Coach mens.basketball@uncg.edu
+• Brett Gilbert Assistant Coach begilbert@uncg.edu
+• Bryant Stith Assistant Coach blstith@uncg.edu
+• Josh Gross Assistant Coach jdgross@uncg.edu
+• C.J. Lee Assistant Coach/Director of Basketball Operations cbleeii@uncg.edu 336-890-
+• Randy Phillips Assistant Coach/Program Manager rdphillips@uncg.edu
+• Kaleigh Roach Head Coach k_roach@uncg.edu
+• Bruce Jackson Assistant Coach bljackson2@uncg.edu 336-847-
+• Ashley Leonard Head Coach ahleonard@uncg.edu 252-290-
+• Lori Beth Adams Assistant Coach L_ADAMS3@uncg.edu
+• Terrance Stewart Head Coach terrance.stewart@uncg.edu 336-202-
+• Dirk Fennie Associate Head Coach dhfennie@uncg.edu 336-601-
+• Stefani Workman Head Coach snworkma@uncg.edu
+• Mitch Williams Assistant Coach m_williams3@uncg.edu
+• Jaida Scott Assistant Coach j_scott4@uncg.edu 954-830-
+• Eric Winkler Assistant Coach e_winkler@uncg.edu
+• Chris Rich Head Coach msoccer@uncg.edu
+• Jonathan Lagos Associate Head Coach msoccer@uncg.edu
+• Peter Merritt Assistant Coach msoccer@uncg.edu 336-334-
+• Manbi Nyepon Assistant Coach/Goalkeeper Coach msoccer@uncg.edu
+• Janelle Breneman Head Coach jbreneman@uncg.edu 336-541-
+• Brynne Dordel Pitching Coach bjdordel@uncg.edu
+• Ally Davis Assistant Coach abdavis8@uncg.edu
+• JoJo Hyatt Assistant Coach h_hyatt@uncg.edu
+• Mat Iandolo Head Coach mmiandolo@uncg.edu
+• Jeff Trivette Director of Tennis/Men's Head Coach uncgtennis@uncg.edu 336-209-
+• Kaleigh Roach Head Coach k_roach@uncg.edu
+• Bruce Jackson Assistant Coach bljackson2@uncg.edu 336-847-
+• Felicia Turner Head Coach faturner@uncg.edu
+• Trent Dunahoo Assistant Coach tcdunahoo@uncg.edu

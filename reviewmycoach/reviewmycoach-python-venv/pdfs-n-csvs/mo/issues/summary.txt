@@ -1,0 +1,29 @@
+Printing results: Success=32 Skipped=3 Errors=0
+
+Skipped/Failed links:
+- Westminster College (MO).pdf: https://wcbluedevilathletics.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://wcbluedevilathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://wcbluedevilathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://wcbluedevilathletics.com/staff-directory?print=true, https://wcbluedevilathletics.com/staff-directory/print, https://wcbluedevilathletics.com/staff-directory, https://wcbluedevilathletics.com/staff-directory/index?print=true, https://wcbluedevilathletics.com/staff-directory/index/print, https://wcbluedevilathletics.com/staff-directory/index
+- Baptist Bible College.pdf: https://bbceagles.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bbceagles.com/staff-directory/index
+Call log:
+  - navigating to "https://bbceagles.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://bbceagles.com/staff-directory?print=true, https://bbceagles.com/staff-directory/print, https://bbceagles.com/staff-directory, https://bbceagles.com/staff-directory/index?print=true, https://bbceagles.com/staff-directory/index/print, https://bbceagles.com/staff-directory/index
+- Fontbonne University.pdf: https://athletics.fontbonne.edu/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://athletics.fontbonne.edu/staff-directory/index
+Call log:
+  - navigating to "https://athletics.fontbonne.edu/staff-directory/index", waiting until "networkidle"
+
+  tried: https://athletics.fontbonne.edu/staff-directory?print=true, https://athletics.fontbonne.edu/staff-directory/print, https://athletics.fontbonne.edu/staff-directory, https://athletics.fontbonne.edu/staff-directory/index?print=true, https://athletics.fontbonne.edu/staff-directory/index/print, https://athletics.fontbonne.edu/staff-directory/index
+
+PDFs with zero coaches detected:
+- Culver-Stockton College.pdf
+- Southeast Missouri State University.pdf
+- University of Missouri (Mizzou).pdf
+- Avila University.pdf
+- Central Methodist University.pdf
+- Missouri Valley College.pdf
+- Greenville University (IL, MO conf).pdf
+- Truman State University.pdf
+- Lindenwood University (reclassified DI).pdf

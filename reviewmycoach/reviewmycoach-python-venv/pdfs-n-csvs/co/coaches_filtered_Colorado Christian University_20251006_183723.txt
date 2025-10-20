@@ -1,0 +1,167 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:23
+============================================================
+
+Total coaches found: 25
+
+PARSED ENTRIES:
+----------------------------------------
+1. Andrew Liberty
+   Email: aliberty@ccu.edu
+   Username: aliberty
+   Phone: (561) 542-9294
+   Original line: Andrew Liberty Head Coach aliberty@ccu.edu (561) 542-9294
+
+2. Joe Gimbel
+   Email: jgimbel@ccu.edu
+   Username: jgimbel
+   Original line: Joe Gimbel Assistant Coach jgimbel@ccu.edu
+
+3. Lyndsey Marshall
+   Email: lymarshall@ccu.edu
+   Username: lymarshall
+   Original line: Lyndsey Marshall Assistant Cross-Country/ Track Coach lymarshall@ccu.edu
+
+4. Josh Pierantoni
+   Email: jdpierantoni@ccu.edu
+   Username: jdpierantoni
+   Original line: Josh Pierantoni Assistant Cross-Country/ Track Coach jdpierantoni@ccu.edu
+
+5. Rachael Heidt
+   Email: rlopez2@ccu.edu
+   Username: rlopez2
+   Original line: Rachael Heidt Assistant Coach rlopez2@ccu.edu
+
+6. Cameron Sandland
+   Email: cesandland@ccu.edu
+   Username: cesandland
+   Original line: Cameron Sandland Head Coach cesandland@ccu.edu
+
+7. Ashlyn Kennedy
+   Email: ackennedy@ccu.edu
+   Username: ackennedy
+   Phone: (901) 849-4263
+   Original line: Ashlyn Kennedy Head Coach ackennedy@ccu.edu 901-849-4263
+
+8. Liam Simmons
+   Email: lisimmons@ccu.edu
+   Username: lisimmons
+   Phone: (303) 963-3191
+   Original line: Liam Simmons Head Coach lisimmons@ccu.edu (303) 963-3191
+
+9. Davon Jackson
+   Email: davjackson@ccu.edu
+   Username: davjackson
+   Original line: Davon Jackson Assistant Coach davjackson@ccu.edu
+
+10. Caleb Cole
+   Email: cacole@ccu.edu
+   Username: cacole
+   Original line: Caleb Cole Head Coach | Director of Soccer cacole@ccu.edu
+
+11. Jack Dickhausen
+   Email: jdickhausen@ccu.edu
+   Username: jdickhausen
+   Original line: Jack Dickhausen First Assistant Coach jdickhausen@ccu.edu
+
+12. Michel Pinoncely
+   Email: mpinoncely@ccu.edu
+   Username: mpinoncely
+   Original line: Michel Pinoncely Goalkeeper Coach mpinoncely@ccu.edu
+
+13. Larry Hays
+   Email: lahays@ccu.edu
+   Username: lahays
+   Phone: (303) 963-3192
+   Original line: Larry Hays Head Coach lahays@ccu.edu 303-963-3192
+
+14. Kenzie Liberty
+   Email: mliberty@ccu.edu
+   Username: mliberty
+   Original line: Kenzie Liberty Assistant Coach mliberty@ccu.edu
+
+15. Katie Thornton
+   Email: katelynmthornton@gmail.com
+   Username: katelynmthornton
+   Original line: Katie Thornton Pitching Coach katelynmthornton@gmail.com
+
+16. Lyndsey Marshall
+   Email: lymarshall@ccu.edu
+   Username: lymarshall
+   Original line: Lyndsey Marshall Assistant Cross-Country/ Track Coach lymarshall@ccu.edu
+
+17. Josh Pierantoni
+   Email: jdpierantoni@ccu.edu
+   Username: jdpierantoni
+   Original line: Josh Pierantoni Assistant Cross-Country/ Track Coach jdpierantoni@ccu.edu
+
+18. Rachael Heidt
+   Email: rlopez2@ccu.edu
+   Username: rlopez2
+   Original line: Rachael Heidt Assistant Coach rlopez2@ccu.edu
+
+19. Carissa Ratliff
+   Email: cjratliff@ccu.edu
+   Username: cjratliff
+   Original line: Carissa Ratliff Head Coach cjratliff@ccu.edu
+
+20. Sydney Priddy
+   Email: spriddy@ccu.edu
+   Username: spriddy
+   Original line: Sydney Priddy Assistant Coach spriddy@ccu.edu
+
+21. Caleb Cole
+   Email: cacole@ccu.edu
+   Username: cacole
+   Original line: Caleb Cole Head Coach | Director of Soccer cacole@ccu.edu
+
+22. Zoe Sims
+   Email: zoesims@ccu.edu
+   Username: zoesims
+   Original line: Zoe Sims First Assistant Coach zoesims@ccu.edu
+
+23. Michel Pinoncely
+   Email: mpinoncely@ccu.edu
+   Username: mpinoncely
+   Original line: Michel Pinoncely Goalkeeper Coach mpinoncely@ccu.edu
+
+24. Bobby Blanken
+   Email: ccuvolleyball@ccu.edu
+   Username: ccuvolleyball
+   Phone: (303) 963-3184
+   Original line: Bobby Blanken Head Coach ccuvolleyball@ccu.edu 303-963-3184
+
+25. Lydia Bartalo
+   Email: ccuvolleyball@ccu.edu
+   Username: ccuvolleyball
+   Phone: (303) 963-3183
+   Original line: Lydia Bartalo First Assistant Coach ccuvolleyball@ccu.edu 303-963-3183
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Andrew Liberty Head Coach aliberty@ccu.edu (561) 542-9294
+• Joe Gimbel Assistant Coach jgimbel@ccu.edu
+• Lyndsey Marshall Assistant Cross-Country/ Track Coach lymarshall@ccu.edu
+• Josh Pierantoni Assistant Cross-Country/ Track Coach jdpierantoni@ccu.edu
+• Rachael Heidt Assistant Coach rlopez2@ccu.edu
+• Cameron Sandland Head Coach cesandland@ccu.edu
+• Ashlyn Kennedy Head Coach ackennedy@ccu.edu 901-849-4263
+• Liam Simmons Head Coach lisimmons@ccu.edu (303) 963-3191
+• Davon Jackson Assistant Coach davjackson@ccu.edu
+• Caleb Cole Head Coach | Director of Soccer cacole@ccu.edu
+• Jack Dickhausen First Assistant Coach jdickhausen@ccu.edu
+• Michel Pinoncely Goalkeeper Coach mpinoncely@ccu.edu
+• Larry Hays Head Coach lahays@ccu.edu 303-963-3192
+• Kenzie Liberty Assistant Coach mliberty@ccu.edu
+• Katie Thornton Pitching Coach katelynmthornton@gmail.com
+• Lyndsey Marshall Assistant Cross-Country/ Track Coach lymarshall@ccu.edu
+• Josh Pierantoni Assistant Cross-Country/ Track Coach jdpierantoni@ccu.edu
+• Rachael Heidt Assistant Coach rlopez2@ccu.edu
+• Carissa Ratliff Head Coach cjratliff@ccu.edu
+• Sydney Priddy Assistant Coach spriddy@ccu.edu
+• Caleb Cole Head Coach | Director of Soccer cacole@ccu.edu
+• Zoe Sims First Assistant Coach zoesims@ccu.edu
+• Michel Pinoncely Goalkeeper Coach mpinoncely@ccu.edu
+• Bobby Blanken Head Coach ccuvolleyball@ccu.edu 303-963-3184
+• Lydia Bartalo First Assistant Coach ccuvolleyball@ccu.edu 303-963-3183

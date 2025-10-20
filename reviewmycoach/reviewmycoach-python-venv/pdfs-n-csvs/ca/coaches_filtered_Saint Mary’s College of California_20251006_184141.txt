@@ -1,0 +1,281 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:41
+============================================================
+
+Total coaches found: 44
+
+PARSED ENTRIES:
+----------------------------------------
+1. Eric Valenzuela
+   Email: emv5@stmarys-ca.edu
+   Username: emv5
+   Phone: (925) 631-4637
+   Original line: Eric Valenzuela Head Coach 631-4637 emv5@stmarys-ca.edu
+
+2. Daniel Costanza
+   Email: djc7@stmarys-ca.edu
+   Username: djc7
+   Phone: (925) 631-4658
+   Original line: Daniel Costanza Associate Head Coach & Recruiting Coordinator 631-4658 djc7@stmarys-ca.edu
+
+3. Jack Meggs
+   Email: jwm11@stmarys-ca.edu
+   Username: jwm11
+   Original line: Jack Meggs Associate Head Coach jwm11@stmarys-ca.edu
+
+4. Daniel Molinari
+   Email: dm81@stmarys-ca.edu
+   Username: dm81
+   Original line: Daniel Molinari Assistant Coach dm81@stmarys-ca.edu
+
+5. Joe Rahon
+   Email: jsr6@stmarys-ca.edu
+   Username: jsr6
+   Original line: Joe Rahon Associate Head Coach jsr6@stmarys-ca.edu
+
+6. EJ Rowland
+   Email: ejr23@stmarys-ca.edu
+   Username: ejr23
+   Original line: EJ Rowland Assistant Coach ejr23@stmarys-ca.edu
+
+7. Dan Sheets
+   Email: dks7@stmarys-ca.edu
+   Username: dks7
+   Original line: Dan Sheets Assistant Coach dks7@stmarys-ca.edu
+
+8. Trey Touchet
+   Email: tat1@stmarys-ca.edu
+   Username: tat1
+   Original line: Trey Touchet Assistant Coach tat1@stmarys-ca.edu
+
+9. Jeff Cammon
+   Email: jjc28@stmarys-ca.edu
+   Username: jjc28
+   Original line: Jeff Cammon Head Coach jjc28@stmarys-ca.edu
+
+10. Kevin Adams
+   Email: kwa2@stmarys-ca.edu
+   Username: kwa2
+   Original line: Kevin Adams Assistant Coach kwa2@stmarys-ca.edu
+
+11. Lexi Petersen
+   Email: amp38@stmarys-ca.edu
+   Username: amp38
+   Original line: Lexi Petersen Assistant Coach amp38@stmarys-ca.edu
+
+12. Brendan Wheeler
+   Email: bw16@stmarys-ca.edu
+   Username: bw16
+   Original line: Brendan Wheeler Assistant Coach bw16@stmarys-ca.edu
+
+13. Brittany Boyd-Jones
+   Email: bb36@stmarys-ca.edu
+   Username: bb36
+   Original line: Brittany Boyd-Jones Assistant Coach bb36@stmarys-ca.edu
+
+14. Marty Kinsey
+   Email: mmk1@stmarys-ca.edu
+   Username: mmk1
+   Phone: (925) 878-9423
+   Original line: Marty Kinsey Women's Head Coach 878-9423 mmk1@stmarys-ca.edu
+
+15. Harlan Lopez
+   Email: hl11@stmarys-ca.edu
+   Username: hl11
+   Original line: Harlan Lopez Men's Head Coach hl11@stmarys-ca.edu
+
+16. Marc Kaiser
+   Email: mhk1@stmarys-ca.edu
+   Username: mhk1
+   Original line: Marc Kaiser Assistant Coach mhk1@stmarys-ca.edu
+
+17. Matt Giusto
+   Email: mjg26@stmarys-ca.edu
+   Username: mjg26
+   Original line: Matt Giusto Assistant Coach mjg26@stmarys-ca.edu
+
+18. Scott Hardy
+   Email: shardy@stmarys-ca.edu
+   Username: shardy
+   Phone: (925) 631-4954
+   Original line: Scott Hardy Head Coach 631-4954 shardy@stmarys-ca.edu
+
+19. Brian Ebke
+   Email: be6@stmarys-ca.edu
+   Username: be6
+   Original line: Brian Ebke Head Coach be6@stmarys-ca.edu
+
+20. Ilyana Achziger
+   Email: iva1@stmarys-ca.edu
+   Username: iva1
+   Original line: Ilyana Achziger Assistant Coach iva1@stmarys-ca.edu
+
+21. Hannah Rosa
+   Email: hkr3@stmarys-ca.edu
+   Username: hkr3
+   Original line: Hannah Rosa Assistant Coach hkr3@stmarys-ca.edu
+
+22. Adam Cooper
+   Email: acooper@stmarys-ca.edu
+   Username: acooper
+   Phone: (925) 631-4657
+   Original line: Adam Cooper Head Coach 631-4657 acooper@stmarys-ca.edu
+
+23. Shawn Nicklaw
+   Email: srn6@stmarys-ca.edu
+   Username: srn6
+   Original line: Shawn Nicklaw Associate Head Coach srn6@stmarys-ca.edu
+
+24. Remi Prieur
+   Email: rdp2@stmarys-ca.edu
+   Username: rdp2
+   Original line: Remi Prieur Assistant Coach rdp2@stmarys-ca.edu
+
+25. Theresa Romagnolo
+   Email: romagnolo@stmarys-ca.edu
+   Username: romagnolo
+   Original line: Theresa Romagnolo Head Coach 206-303- romagnolo@stmarys-ca.edu
+
+26. Emily Kruger
+   Email: wsoccer@stmarys-ca.edu
+   Username: wsoccer
+   Original line: Emily Kruger Assistant Coach wsoccer@stmarys-ca.edu
+
+27. Mariah Cameron
+   Email: wsoccer@stmarys-ca.edu
+   Username: wsoccer
+   Original line: Mariah Cameron Assistant Coach wsoccer@stmarys-ca.edu
+
+28. Sophie Elam
+   Email: sae7@stmarys-ca.edu
+   Username: sae7
+   Original line: Sophie Elam Assistant Coach sae7@stmarys-ca.edu
+
+29. Sonja Garnett
+   Email: smg25@stmarys-ca.edu
+   Username: smg25
+   Phone: (925) 631-8184
+   Original line: Sonja Garnett Head Coach 631-8184 smg25@stmarys-ca.edu
+
+30. Angelica Terrel
+   Email: at60@stmarys-ca.edu
+   Username: at60
+   Original line: Angelica Terrel Assistant Coach at60@stmarys-ca.edu
+
+31. Frankie Hammoude
+   Email: fah4@stmarys-ca.edu
+   Username: fah4
+   Original line: Frankie Hammoude Assistant Coach fah4@stmarys-ca.edu
+
+32. Juju Sargent
+   Email: js122@stmarys-ca.edu
+   Username: js122
+   Original line: Juju Sargent Assistant Coach js122@stmarys-ca.edu
+
+33. Dan Cardiff
+   Email: dhc1@stmarys-ca.edu
+   Username: dhc1
+   Original line: Dan Cardiff Head Coach dhc1@stmarys-ca.edu
+
+34. Marcus Ferreira
+   Email: mwf5@stmarys-ca.edu
+   Username: mwf5
+   Original line: Marcus Ferreira Assistant Coach mwf5@stmarys-ca.edu
+
+35. Katharina Winterhalter
+   Email: kfw1@stmarys-ca.edu
+   Username: kfw1
+   Original line: Katharina Winterhalter Head Coach 925-631- kfw1@stmarys-ca.edu
+
+36. Claudia de
+   Email: cd48@stmarys-ca.edu
+   Username: cd48
+   Original line: Claudia de las Heras Armenteras Assistant Coach cd48@stmarys-ca.edu
+
+37. Lisa Alipaz
+   Email: lalipaz@stmarys-ca.edu
+   Username: lalipaz
+   Original line: Lisa Alipaz Assistant Coach lalipaz@stmarys-ca.edu
+
+38. Tyler Hildebrand
+   Email: th29@stmarys-ca.edu
+   Username: th29
+   Original line: Tyler Hildebrand Head Coach 562-234- th29@stmarys-ca.edu
+
+39. Brian Cook
+   Email: brc8@stmarys-ca.edu
+   Username: brc8
+   Original line: Brian Cook Associate Head Coach brc8@stmarys-ca.edu
+
+40. Colin Hassoun
+   Email: czh4@stmarys-ca.edu
+   Username: czh4
+   Original line: Colin Hassoun Assistant Coach/Recruiting Coordinator czh4@stmarys-ca.edu
+
+41. Paige McLeod
+   Email: pkm4@stmarys-ca.edu
+   Username: pkm4
+   Original line: Paige McLeod Assistant Coach pkm4@stmarys-ca.edu
+
+42. Janice Harrer
+   Email: jmh33@stmarys-ca.edu
+   Username: jmh33
+   Original line: Janice Harrer Head Coach jmh33@stmarys-ca.edu
+
+43. Taylor Crabb
+   Email: tkc5@stmarys-ca.edu
+   Username: tkc5
+   Original line: Taylor Crabb Assistant Coach tkc5@stmarys-ca.edu
+
+44. Scott Standring
+   Email: ses15@stmarys-ca.edu
+   Username: ses15
+   Original line: Scott Standring Assistant Coach ses15@stmarys-ca.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Eric Valenzuela Head Coach 631-4637 emv5@stmarys-ca.edu
+• Daniel Costanza Associate Head Coach & Recruiting Coordinator 631-4658 djc7@stmarys-ca.edu
+• Jack Meggs Associate Head Coach jwm11@stmarys-ca.edu
+• Daniel Molinari Assistant Coach dm81@stmarys-ca.edu
+• Joe Rahon Associate Head Coach jsr6@stmarys-ca.edu
+• EJ Rowland Assistant Coach ejr23@stmarys-ca.edu
+• Dan Sheets Assistant Coach dks7@stmarys-ca.edu
+• Trey Touchet Assistant Coach tat1@stmarys-ca.edu
+• Jeff Cammon Head Coach jjc28@stmarys-ca.edu
+• Kevin Adams Assistant Coach kwa2@stmarys-ca.edu
+• Lexi Petersen Assistant Coach amp38@stmarys-ca.edu
+• Brendan Wheeler Assistant Coach bw16@stmarys-ca.edu
+• Brittany Boyd-Jones Assistant Coach bb36@stmarys-ca.edu
+• Marty Kinsey Women's Head Coach 878-9423 mmk1@stmarys-ca.edu
+• Harlan Lopez Men's Head Coach hl11@stmarys-ca.edu
+• Marc Kaiser Assistant Coach mhk1@stmarys-ca.edu
+• Matt Giusto Assistant Coach mjg26@stmarys-ca.edu
+• Scott Hardy Head Coach 631-4954 shardy@stmarys-ca.edu
+• Brian Ebke Head Coach be6@stmarys-ca.edu
+• Ilyana Achziger Assistant Coach iva1@stmarys-ca.edu
+• Hannah Rosa Assistant Coach hkr3@stmarys-ca.edu
+• Adam Cooper Head Coach 631-4657 acooper@stmarys-ca.edu
+• Shawn Nicklaw Associate Head Coach srn6@stmarys-ca.edu
+• Remi Prieur Assistant Coach rdp2@stmarys-ca.edu
+• Theresa Romagnolo Head Coach 206-303- romagnolo@stmarys-ca.edu
+• Emily Kruger Assistant Coach wsoccer@stmarys-ca.edu
+• Mariah Cameron Assistant Coach wsoccer@stmarys-ca.edu
+• Sophie Elam Assistant Coach sae7@stmarys-ca.edu
+• Sonja Garnett Head Coach 631-8184 smg25@stmarys-ca.edu
+• Angelica Terrel Assistant Coach at60@stmarys-ca.edu
+• Frankie Hammoude Assistant Coach fah4@stmarys-ca.edu
+• Juju Sargent Assistant Coach js122@stmarys-ca.edu
+• Dan Cardiff Head Coach dhc1@stmarys-ca.edu
+• Marcus Ferreira Assistant Coach mwf5@stmarys-ca.edu
+• Katharina Winterhalter Head Coach 925-631- kfw1@stmarys-ca.edu
+• Claudia de las Heras Armenteras Assistant Coach cd48@stmarys-ca.edu
+• Lisa Alipaz Assistant Coach lalipaz@stmarys-ca.edu
+• Tyler Hildebrand Head Coach 562-234- th29@stmarys-ca.edu
+• Brian Cook Associate Head Coach brc8@stmarys-ca.edu
+• Colin Hassoun Assistant Coach/Recruiting Coordinator czh4@stmarys-ca.edu
+• Paige McLeod Assistant Coach pkm4@stmarys-ca.edu
+• Janice Harrer Head Coach jmh33@stmarys-ca.edu
+• Taylor Crabb Assistant Coach tkc5@stmarys-ca.edu
+• Scott Standring Assistant Coach ses15@stmarys-ca.edu

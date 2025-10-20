@@ -1,0 +1,264 @@
+COACH ENTRIES FOUND - 2025-09-27 16:44:09
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Alexandra Casanova
+   Email: acasanov@samford.edu
+   Username: acasanov
+   Original line: Alexandra Casanova Head Dance Coach acasanov@samford.edu
+
+2. John Kennington
+   Email: jkennin1@samford.edu
+   Username: jkennin1
+   Phone: (205) 726-2011
+   Original line: John Kennington Assistant Sports Performance Coach jkennin1@samford.edu 205-726-2011
+
+3. Alex Miller
+   Email: rmille13@samford.edu
+   Username: rmille13
+   Original line: Alex Miller Assistant Sports Performance Coach rmille13@samford.edu
+
+4. Tony David
+   Email: tgdavid@samford.edu
+   Username: tgdavid
+   Original line: Tony David Head Coach tgdavid@samford.edu
+
+5. Tyler Shrout
+   Email: tshrout@samford.edu
+   Username: tshrout
+   Original line: Tyler Shrout Associate Head Coach (Pitching)/Recruiting Coordinator tshrout@samford.edu
+
+6. Gil Walker
+   Email: rwalker2@samford.edu
+   Username: rwalker2
+   Original line: Gil Walker Assistant Coach rwalker2@samford.edu
+
+7. Branden Fryman
+   Email: bfryman@samford.edu
+   Username: bfryman
+   Original line: Branden Fryman Assistant Coach bfryman@samford.edu
+
+8. Lennie Acuff
+   Email: cacuff2@samford.edu
+   Username: cacuff2
+   Original line: Lennie Acuff Head Coach cacuff2@samford.edu
+
+9. Matt Wise
+   Email: mwise3@samford.edu
+   Username: mwise3
+   Original line: Matt Wise Head Coach mwise3@samford.edu
+
+10. Sally Higgins
+   Email: shiggins@samford.edu
+   Username: shiggins
+   Original line: Sally Higgins Assistant Coach shiggins@samford.edu 205-726-
+
+11. Charity Brown
+   Email: Cbrown20@samford.edu
+   Username: Cbrown20
+   Original line: Charity Brown Assistant Coach Cbrown20@samford.edu
+
+12. Walker Martin
+   Email: wmartin3@samford.edu
+   Username: wmartin3
+   Original line: Walker Martin Assistant Coach/Director of Basketball Operations wmartin3@samford.edu
+
+13. Hannah Barber
+   Email: hbarber1@samford.edu
+   Username: hbarber1
+   Original line: Hannah Barber Assistant Coach hbarber1@samford.edu
+
+14. Chris Hatcher
+   Email: football@samford.edu
+   Username: football
+   Original line: Chris Hatcher Head Football Coach football@samford.edu 205-726-
+
+15. Ricky Turner
+   Email: football@samford.edu
+   Username: football
+   Original line: Ricky Turner Assistant Head Coach -- Offensive Coordinator/Wide Receivers football@samford.edu 205-726-
+
+16. Shawn Bostick
+   Email: football@samford.edu
+   Username: football
+   Original line: Shawn Bostick Associate Head Coach-Offensive Line football@samford.edu 205-726-
+
+17. K.D. Humphries
+   Email: khumphr1@samford.edu
+   Username: khumphr1
+   Original line: K.D. Humphries Assistant Coach--Running Backs/Run Game Coordinator khumphr1@samford.edu 205-726-
+
+18. Darien Moody
+   Email: football@samford.edu
+   Username: football
+   Original line: Darien Moody Assistant Coach--Defensive Line football@samford.edu
+
+19. Peter Renkoski
+   Email: football@samford.edu
+   Username: football
+   Original line: Peter Renkoski Assistant Coach--Tight Ends/Assistant Offensive Line football@samford.edu
+
+20. Chazmon Scales
+   Email: football@samford.edu
+   Username: football
+   Original line: Chazmon Scales Assistant Coach--Cornerbacks football@samford.edu
+
+21. Blake Catlett
+   Email: football@samford.edu
+   Username: football
+   Original line: Blake Catlett Assistant Coach--Defensive Ends football@samford.edu
+
+22. Cal King
+   Email: football@samford.edu
+   Username: football
+   Original line: Cal King Assistant Coach--Linebackers football@samford.edu
+
+23. Tyler Zielenske
+   Email: football@samford.edu
+   Username: football
+   Original line: Tyler Zielenske Assistant Coach--Special Teams Coordinator/Recruiting Coordinator football@samford.edu
+
+24. Thomas Morton
+   Email: football@samford.edu
+   Username: football
+   Original line: Thomas Morton Assistant Coach--Quarterbacks football@samford.edu
+
+25. Al DelGreco
+   Email: adelgrec@samford.edu
+   Username: adelgrec
+   Original line: Al DelGreco Head Coach adelgrec@samford.edu 205-726-
+
+26. Shane Warren
+   Email: dwarren6@samford.edu
+   Username: dwarren6
+   Original line: Shane Warren Head Coach dwarren6@samford.edu
+
+27. Emily Johnson
+   Email: ejohns36@samford.edu
+   Username: ejohns36
+   Original line: Emily Johnson Assistant Coach ejohns36@samford.edu
+
+28. Todd Yelton
+   Email: atyelton@samford.edu
+   Username: atyelton
+   Original line: Todd Yelton Head Coach atyelton@samford.edu 205-726-
+
+29. Carl Goody
+   Email: cgoody@samford.edu
+   Username: cgoody
+   Original line: Carl Goody Associate Head Coach cgoody@samford.edu
+
+30. Alex Durbin
+   Email: adurbin4@samford.edu
+   Username: adurbin4
+   Original line: Alex Durbin Assistant Coach adurbin4@samford.edu
+
+31. Megan Curry
+   Email: Megan.Curry@samford.edu
+   Username: Megan.Curry
+   Original line: Megan Curry Head Softball Coach Megan.Curry@samford.edu
+
+32. Sarah Cespedes
+   Email: scespede@samford.edu
+   Username: scespede
+   Original line: Sarah Cespedes Assistant Coach scespede@samford.edu
+
+33. Logan Calhoun
+   Email: lcalhou1@samford.edu
+   Username: lcalhou1
+   Original line: Logan Calhoun Assistant Coach lcalhou1@samford.edu
+
+34. Bella Furgason
+   Email: ifurgaso@samford.edu
+   Username: ifurgaso
+   Original line: Bella Furgason Assistant Coach ifurgaso@samford.edu
+
+35. Oliver Reynolds
+   Email: oareynol@samford.edu
+   Username: oareynol
+   Original line: Oliver Reynolds Head Coach oareynol@samford.edu
+
+36. David Vest
+   Email: dvest@samford.edu
+   Username: dvest
+   Original line: David Vest Head Coach dvest@samford.edu 205-726-
+
+37. Rod Tiffin
+   Email: rtiffin@samford.edu
+   Username: rtiffin
+   Original line: Rod Tiffin Head Track and Field Coach/Director of Cross Country rtiffin@samford.edu 205-726-
+
+38. Wes Penberthy
+   Email: wpenbert@samford.edu
+   Username: wpenbert
+   Original line: Wes Penberthy Head Cross Country Coach / Distance Track Coach wpenbert@samford.edu
+
+39. Tom Esslinger
+   Email: tkesslin@samford.edu
+   Username: tkesslin
+   Original line: Tom Esslinger Assistant Coach tkesslin@samford.edu
+
+40. Keylor Chan
+   Email: kchan1@samford.edu
+   Username: kchan1
+   Original line: Keylor Chan Head Coach kchan1@samford.edu 205-726-
+
+41. Ben Sabin
+   Email: bsabin@samford.edu
+   Username: bsabin
+   Original line: Ben Sabin Associate Head Coach bsabin@samford.edu 205-726-
+
+42. Sabel Sabin
+   Email: ssabin1@samford.edu
+   Username: ssabin1
+   Original line: Sabel Sabin Associate Head Coach ssabin1@samford.edu 205-726-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Alexandra Casanova Head Dance Coach acasanov@samford.edu
+• John Kennington Assistant Sports Performance Coach jkennin1@samford.edu 205-726-2011
+• Alex Miller Assistant Sports Performance Coach rmille13@samford.edu
+• Tony David Head Coach tgdavid@samford.edu
+• Tyler Shrout Associate Head Coach (Pitching)/Recruiting Coordinator tshrout@samford.edu
+• Gil Walker Assistant Coach rwalker2@samford.edu
+• Branden Fryman Assistant Coach bfryman@samford.edu
+• Lennie Acuff Head Coach cacuff2@samford.edu
+• Matt Wise Head Coach mwise3@samford.edu
+• Sally Higgins Assistant Coach shiggins@samford.edu 205-726-
+• Charity Brown Assistant Coach Cbrown20@samford.edu
+• Walker Martin Assistant Coach/Director of Basketball Operations wmartin3@samford.edu
+• Hannah Barber Assistant Coach hbarber1@samford.edu
+• Chris Hatcher Head Football Coach football@samford.edu 205-726-
+• Ricky Turner Assistant Head Coach -- Offensive Coordinator/Wide Receivers football@samford.edu 205-726-
+• Shawn Bostick Associate Head Coach-Offensive Line football@samford.edu 205-726-
+• K.D. Humphries Assistant Coach--Running Backs/Run Game Coordinator khumphr1@samford.edu 205-726-
+• Darien Moody Assistant Coach--Defensive Line football@samford.edu
+• Peter Renkoski Assistant Coach--Tight Ends/Assistant Offensive Line football@samford.edu
+• Chazmon Scales Assistant Coach--Cornerbacks football@samford.edu
+• Blake Catlett Assistant Coach--Defensive Ends football@samford.edu
+• Cal King Assistant Coach--Linebackers football@samford.edu
+• Tyler Zielenske Assistant Coach--Special Teams Coordinator/Recruiting Coordinator football@samford.edu
+• Thomas Morton Assistant Coach--Quarterbacks football@samford.edu
+• Al DelGreco Head Coach adelgrec@samford.edu 205-726-
+• Shane Warren Head Coach dwarren6@samford.edu
+• Emily Johnson Assistant Coach ejohns36@samford.edu
+• Todd Yelton Head Coach atyelton@samford.edu 205-726-
+• Carl Goody Associate Head Coach cgoody@samford.edu
+• Alex Durbin Assistant Coach adurbin4@samford.edu
+• Megan Curry Head Softball Coach Megan.Curry@samford.edu
+• Sarah Cespedes Assistant Coach scespede@samford.edu
+• Logan Calhoun Assistant Coach lcalhou1@samford.edu
+• Bella Furgason Assistant Coach ifurgaso@samford.edu
+• Oliver Reynolds Head Coach oareynol@samford.edu
+• David Vest Head Coach dvest@samford.edu 205-726-
+• Rod Tiffin Head Track and Field Coach/Director of Cross Country rtiffin@samford.edu 205-726-
+• Wes Penberthy Head Cross Country Coach / Distance Track Coach wpenbert@samford.edu
+• Tom Esslinger Assistant Coach tkesslin@samford.edu
+• Keylor Chan Head Coach kchan1@samford.edu 205-726-
+• Ben Sabin Associate Head Coach bsabin@samford.edu 205-726-
+• Sabel Sabin Associate Head Coach ssabin1@samford.edu 205-726-

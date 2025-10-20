@@ -1,0 +1,105 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:04
+============================================================
+
+Total coaches found: 14
+
+PARSED ENTRIES:
+----------------------------------------
+1. Latrece Blair
+   Email: latblair@iu.edu
+   Username: latblair
+   Phone: (219) 320-2296
+   Original line: Latrece Blair Head Sideline Cheer Coach latblair@iu.edu 219-320-2296
+
+2. Javier Heridia
+   Email: jaheridi@iu.edu
+   Username: jaheridi
+   Phone: (219) 980-6794
+   Original line: Javier Heridia Head Coach jaheridi@iu.edu 219-980-6794
+
+3. Benjamin Chinn
+   Email: bachinn@iu.edu
+   Username: bachinn
+   Original line: Benjamin Chinn Assistant Coach bachinn@iu.edu
+
+4. Devin Ellis
+   Email: devellis@iu.edu
+   Username: devellis
+   Phone: (219) 980-6794
+   Original line: Devin Ellis Assistant Coach devellis@iu.edu 219-980-6794
+
+5. Steve Hatchett
+   Email: stehatch@iu.edu
+   Username: stehatch
+   Phone: (219) 980-6794
+   Original line: Steve Hatchett Assistant Coach stehatch@iu.edu 219-980-6794
+
+6. Nicki Monahan-Keith
+   Email: nmonahan@iu.edu
+   Username: nmonahan
+   Phone: (219) 405-2599
+   Original line: Nicki Monahan-Keith Head Coach nmonahan@iu.edu 219-405-2599
+
+7. Brittany Dickerson
+   Email: bdicker@iu.edu
+   Username: bdicker
+   Phone: (219) 980-6793
+   Original line: Brittany Dickerson Head Men's and Women's Cross Country Coach bdicker@iu.edu 219-980-6793
+
+8. Brittany Dickerson
+   Email: bdicker@iu.edu
+   Username: bdicker
+   Phone: (219) 980-6793
+   Original line: Brittany Dickerson Head Men's and Women's Cross Country Coach bdicker@iu.edu 219-980-6793
+
+9. Ben Kososkie
+   Email: bkososk@iu.edu
+   Username: bkososk
+   Phone: (219) 980-6775
+   Original line: Ben Kososkie Head Coach bkososk@iu.edu 219-980-6775
+
+10. Cristian Canelo
+   Email: ccanelo@iu.edu
+   Username: ccanelo
+   Original line: Cristian Canelo Assistant Coach ccanelo@iu.edu
+
+11. Jamie McNicholas
+   Email: jmcnich@iu.edu
+   Username: jmcnich
+   Phone: (252) 301-7405
+   Original line: Jamie McNicholas Head Coach jmcnich@iu.edu 252-301-7405
+
+12. Olivia Hansen
+   Email: ohansen@iu.edu
+   Username: ohansen
+   Original line: Olivia Hansen Graduate Assistant Coach ohansen@iu.edu
+
+13. Alondra Avalos
+   Email: avalosal@iu.edu
+   Username: avalosal
+   Phone: (219) 980-6894
+   Original line: Alondra Avalos Head Coach avalosal@iu.edu 219-980-6894
+
+14. Cara Nebel
+   Email: cnebel@iu.edu
+   Username: cnebel
+   Original line: Cara Nebel Assistant Coach cnebel@iu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Latrece Blair Head Sideline Cheer Coach latblair@iu.edu 219-320-2296
+• Javier Heridia Head Coach jaheridi@iu.edu 219-980-6794
+• Benjamin Chinn Assistant Coach bachinn@iu.edu
+• Devin Ellis Assistant Coach devellis@iu.edu 219-980-6794
+• Steve Hatchett Assistant Coach stehatch@iu.edu 219-980-6794
+• Nicki Monahan-Keith Head Coach nmonahan@iu.edu 219-405-2599
+• Brittany Dickerson Head Men's and Women's Cross Country Coach bdicker@iu.edu 219-980-6793
+• Brittany Dickerson Head Men's and Women's Cross Country Coach bdicker@iu.edu 219-980-6793
+• Ben Kososkie Head Coach bkososk@iu.edu 219-980-6775
+• Cristian Canelo Assistant Coach ccanelo@iu.edu
+• Jamie McNicholas Head Coach jmcnich@iu.edu 252-301-7405
+• Olivia Hansen Graduate Assistant Coach ohansen@iu.edu
+• Alondra Avalos Head Coach avalosal@iu.edu 219-980-6894
+• Cara Nebel Assistant Coach cnebel@iu.edu

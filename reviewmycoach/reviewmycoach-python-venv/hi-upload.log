@@ -1,0 +1,120 @@
+-> Reading CSV: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/hi/Hawaii College Athletics.csv
+-> Output PDFs to: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/hi
+
+Printing completed in 69.2s
+Success: 4 | Skipped: 0 | Errors: 0
+
+Resolved URLs used:
+- Chaminade University of Honolulu.pdf: https://goswords.com/staff-directory?print=true
+- Hawaii Pacific University.pdf: https://hpusharks.com/staff-directory?print=true
+- University of Hawaii at Manoa.pdf: https://hawaiiathletics.com/staff-directory?print=true
+- University of Hawaii at Hilo.pdf: https://hiloathletics.com/staff-directory?print=true
+
+Parsing printed PDFs and preparing upload entries...
+✔ Total coach entries prepared: 95
+🔄 Updating unclaimed profile for wsoccer@chaminade.edu
+✔ Updated unclaimed coach profile: Michelle Richardson (wsoccer@chaminade.edu) → coaches/wsoccer | Phone: (808) 739-7434
+🔄 Updating unclaimed profile for baseball@chaminade.edu
+✔ Updated unclaimed coach profile: Chad Konishi (baseball@chaminade.edu) → coaches/baseball
+✔ Created unclaimed coach profile: Eric Bovaird (mbasketball@chaminade.edu) → coaches/mbasketball | Phone: (808) 739-4696
+🔄 Updating unclaimed profile for wbasketball@chaminade.edu
+✔ Updated unclaimed coach profile: Travis Brewster (wbasketball@chaminade.edu) → coaches/wbasketball
+✔ Created unclaimed coach profile: Kahala Kabalis (wvolleyball@chaminade.edu) → coaches/wvolleyball | Phone: (808) 739-4697
+🔄 Updating unclaimed profile for crosscountry@chaminade.edu
+✔ Updated unclaimed coach profile: Shadrack Nabea (crosscountry@chaminade.edu) → coaches/crosscountry | Phone: (808) 739-7417
+✔ Created unclaimed coach profile: Renee Yuen (mgolf@chaminade.edu) → coaches/mgolf | Phone: (808) 739-7419
+🔄 Updating unclaimed profile for msoccer@chaminade.edu
+✔ Updated unclaimed coach profile: Joshua Woodard (msoccer@chaminade.edu) → coaches/msoccer | Phone: (808) 739-7418
+🔄 Updating unclaimed profile for softball@chaminade.edu
+✔ Updated unclaimed coach profile: Kent Yamaguchi (softball@chaminade.edu) → coaches/softball | Phone: (808) 739-7435
+✔ Created unclaimed coach profile: Ty Aki (wtennis@chaminade.edu) → coaches/wtennis | Phone: (808) 739-7416
+✔ Created unclaimed coach profile: Jenic Tumaneng (jtumaneng@hpu.edu) → coaches/jtumaneng
+✔ Created unclaimed coach profile: Chris Fisher (cfisher@hpu.edu) → coaches/cfisher | Phone: 808.544.9371
+✔ Created unclaimed coach profile: Joshua Graham (jggraham@hpu.edu) → coaches/jggraham
+✔ Created unclaimed coach profile: Connor Artigue (cartigue@hpu.edu) → coaches/cartigue
+✔ Created unclaimed coach profile: Sarah Inafuku (sinafuku@hpu.edu) → coaches/sinafuku
+✔ Created unclaimed coach profile: Kevin Schwarz (keschwarz@hpu.edu) → coaches/keschwarz | Phone: (808) 369-4779
+✔ Created unclaimed coach profile: Jesse Nakanishi (jnakanis@hpu.edu) → coaches/jnakanis | Phone: 808.544.0221
+✔ Created unclaimed coach profile: Cameron Flabel (cflabel@hpu.edu) → coaches/cflabel
+✔ Created unclaimed coach profile: Brent Gibson (bregibson@hpu.edu) → coaches/bregibson
+✔ Created unclaimed coach profile: Callie Jackson (cajackson@hpu.edu) → coaches/cajackson
+✔ Created unclaimed coach profile: Alex Takemura (atakemura@hpu.edu) → coaches/atakemura
+✔ Created unclaimed coach profile: Dane Fujinaka (dfujinaka@hpu.edu) → coaches/dfujinaka | Phone: 808.356.5230
+✔ Created unclaimed coach profile: Brian Zablan (bzablan@hpu.edu) → coaches/bzablan
+✔ Created unclaimed coach profile: Ed Kageyama (ekageyama@hpu.edu) → coaches/ekageyama
+✔ Created unclaimed coach profile: Cyd Okino (cokino@hpu.edu) → coaches/cokino
+✔ Created unclaimed coach profile: Daniel Pollock (dcpollock@hpu.edu) → coaches/dcpollock
+✔ Created unclaimed coach profile: Chelsea Patton (cpatton@hpu.edu) → coaches/cpatton
+✔ Created unclaimed coach profile: Daisha Paulino (dpaulino@hpu.edu) → coaches/dpaulino
+✔ Created unclaimed coach profile: James Burns (jmburns@hpu.edu) → coaches/jmburns
+✔ Created unclaimed coach profile: Rich Hill (rhill20@hawaii.edu) → coaches/rhill20
+✔ Created unclaimed coach profile: Dave Nakama (dnakama4@hawaii.edu) → coaches/dnakama4
+✔ Created unclaimed coach profile: Keith Zuniga (zunigak@hawaii.edu) → coaches/zunigak
+✔ Created unclaimed coach profile: Eran Ganot (uhmbkb@hawaii.edu) → coaches/uhmbkb
+✔ Created unclaimed coach profile: Brad Davidson (bmdavids@hawaii.edu) → coaches/bmdavids
+✔ Created unclaimed coach profile: Rob Jones (rtjones7@hawaii.edu) → coaches/rtjones7
+✔ Created unclaimed coach profile: Gibson Johnson (gibsonw@hawaii.edu) → coaches/gibsonw
+✔ Created unclaimed coach profile: Clay Wilson (cswilson@hawaii.edu) → coaches/cswilson
+✔ Created unclaimed coach profile: Laura Beeman (wahinebb@hawaii.edu) → coaches/wahinebb
+✔ Created unclaimed coach profile: Alex Delanian (delanian@hawaii.edu) → coaches/delanian
+✔ Created unclaimed coach profile: Khalilah Mitchell (khalilah@hawaii.edu) → coaches/khalilah
+✔ Created unclaimed coach profile: Derrick Florence (dflo23@hawaii.edu) → coaches/dflo23
+✔ Created unclaimed coach profile: Jason Hill (jhill22@hawaii.edu) → coaches/jhill22
+✔ Created unclaimed coach profile: Danny Alvarez (dalvarez@hawaii.edu) → coaches/dalvarez
+✔ Created unclaimed coach profile: Victoria Prince (vprince@hawaii.edu) → coaches/vprince
+✔ Created unclaimed coach profile: Mike Keolaokalani (mkbaker@hawaii.edu) → coaches/mkbaker
+✔ Created unclaimed coach profile: Sabrina Mendoza (simendoz@hawaii.edu) → coaches/simendoz
+✔ Created unclaimed coach profile: Timmy Chang (uhwarriorsfootball@gmail.com) → coaches/uhwarriorsfootball
+✔ Created unclaimed coach profile: Scott Simpson (scottsim@hawaii.edu) → coaches/scottsim
+✔ Created unclaimed coach profile: Julie Brooks (juliedb@hawaii.edu) → coaches/juliedb
+✔ Created unclaimed coach profile: Andy Johnson (andrewj@hawaii.edu) → coaches/andrewj
+✔ Created unclaimed coach profile: Jesse Andrews (andrewsjesse@gmail.com) → coaches/andrewsjesse
+✔ Created unclaimed coach profile: Michele Nagamine (mnaga@hawaii.edu) → coaches/mnaga
+✔ Created unclaimed coach profile: Kaula Rowe (rowe9@hawaii.edu) → coaches/rowe9
+✔ Created unclaimed coach profile: Daniel Saucedo (djsauce@hawaii.edu) → coaches/djsauce
+✔ Created unclaimed coach profile: Panita Thanatharn (panita@hawaii.edu) → coaches/panita
+✔ Created unclaimed coach profile: Mariah Ramirez (mariahvr@hawaii.edu) → coaches/mariahvr
+✔ Created unclaimed coach profile: Alyssa Gonzalez (alyssago@hawaii.edu) → coaches/alyssago
+✔ Created unclaimed coach profile: Steve Allnutt (allnutt@hawaii.edu) → coaches/allnutt
+✔ Created unclaimed coach profile: Brandon Blaisdell (bblaisde@hawaii.edu) → coaches/bblaisde
+✔ Created unclaimed coach profile: Lauren Sale (laurenfs@hawaii.edu) → coaches/laurenfs
+✔ Created unclaimed coach profile: Tim Gallagher (tkgallag@hawaii.edu) → coaches/tkgallag
+✔ Created unclaimed coach profile: Hendrik Bode (hbode@hawaii.edu) → coaches/hbode
+✔ Created unclaimed coach profile: Hayden Snyder (snyderh@hawaii.edu) → coaches/snyderh
+✔ Created unclaimed coach profile: Jun Hernandez (rogelioh@hawaii.edu) → coaches/rogelioh
+✔ Created unclaimed coach profile: Charlie Wade (cwade@hawaii.edu) → coaches/cwade
+✔ Created unclaimed coach profile: Kupono Fey (kfey@hawaii.edu) → coaches/kfey
+✔ Created unclaimed coach profile: Robyn Ah (robynma@hawaii.edu) → coaches/robynma
+✔ Created unclaimed coach profile: Kaleo Baxter (gkbaxter@hawaii.edu) → coaches/gkbaxter
+✔ Created unclaimed coach profile: Nick Castello (ncastell@hawaii.edu) → coaches/ncastell
+✔ Created unclaimed coach profile: James Robinson (jamesrro@hawaii.edu) → coaches/jamesrro
+✔ Created unclaimed coach profile: Candice Vorbeck (cvorbeck@hawaii.edu) → coaches/cvorbeck
+✔ Created unclaimed coach profile: Brooke Maxson (bmaxson@hawaii.edu) → coaches/bmaxson
+✔ Created unclaimed coach profile: Kallen Miyataki (kmiyatak@hawaii.edu) → coaches/kmiyatak
+✔ Created unclaimed coach profile: Garett Yukumoto (garetty@hawaii.edu) → coaches/garetty
+✔ Created unclaimed coach profile: Jensen Sato (jsato6@hawaii.edu) → coaches/jsato6
+✔ Created unclaimed coach profile: Blayne Sato (bsato4@hawaii.edu) → coaches/bsato4
+✔ Created unclaimed coach profile: Kaniela Aiona (kkaiona@hawaii.edu) → coaches/kkaiona
+✔ Created unclaimed coach profile: Anthony Haskett (haskett@hawaii.edu) → coaches/haskett
+✔ Created unclaimed coach profile: David Kaneshiro (davidlhk@hawaii.edu) → coaches/davidlhk
+✔ Created unclaimed coach profile: Donn Kansako (kansako@hawaii.edu) → coaches/kansako
+✔ Created unclaimed coach profile: Alan Ryan (alanr@hawaii.edu) → coaches/alanr
+✔ Created unclaimed coach profile: Earl Tamiya (tamiya@hawaii.edu) → coaches/tamiya
+✔ Created unclaimed coach profile: Kevin Ginoza (kginoza7@hawaii.edu) → coaches/kginoza7
+✔ Created unclaimed coach profile: Sean Maekawa (smaekawa@hawaii.edu) → coaches/smaekawa
+✔ Created unclaimed coach profile: Shea Miyashiro (sheamiya@hawaii.edu) → coaches/sheamiya
+✔ Created unclaimed coach profile: Jim DeMello (demello@hawaii.edu) → coaches/demello
+✔ Created unclaimed coach profile: Diego Marroquin (dmarr@hawaii.edu) → coaches/dmarr
+✔ Created unclaimed coach profile: Terry Yamane (terryy@hawaii.edu) → coaches/terryy
+✔ Created unclaimed coach profile: Gene Okamura (geneo@hawaii.edu) → coaches/geneo
+✔ Created unclaimed coach profile: Aisha Sueda (aishas@hawaii.edu) → coaches/aishas
+✔ Created unclaimed coach profile: Fred Entilla (entilla@hawaii.edu) → coaches/entilla
+✔ Created unclaimed coach profile: Joey Estrella (josephe@hawaii.edu) → coaches/josephe
+✔ Created unclaimed coach profile: Leah Gonzales (leahjgon@hawaii.edu) → coaches/leahjgon
+✔ Created unclaimed coach profile: Reed Sunahara (reed28@hawaii.edu) → coaches/reed28
+✔ Created unclaimed coach profile: Emil Osorio (eosorio@hawaii.edu) → coaches/eosorio
+
+📊 Upload Summary:
+✔ 95 coach profiles created/updated
+⏭️  0 profiles skipped (already claimed)
+📧 Coaches can now claim their profiles during onboarding using their email address

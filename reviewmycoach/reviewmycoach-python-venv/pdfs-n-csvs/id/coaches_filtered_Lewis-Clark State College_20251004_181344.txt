@@ -1,0 +1,171 @@
+COACH ENTRIES FOUND - 2025-10-04 18:13:48
+============================================================
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jeremiah Robbins
+   Email: jwrobbins@lcsc.edu
+   Username: jwrobbins
+   Phone: (208) 792-2272
+   Original line: Jeremiah Robbins Head Coach jwrobbins@lcsc.edu 208-792-2272
+
+2. Billy Silvestri
+   Email: wbsilvestri@lcsc.edu
+   Username: wbsilvestri
+   Phone: (208) 792-2279
+   Original line: Billy Silvestri Assistant coach wbsilvestri@lcsc.edu 208-792-2279
+
+3. Brandon Vial
+   Email: bjvial@lcsc.edu
+   Username: bjvial
+   Original line: Brandon Vial Assistant coach bjvial@lcsc.edu
+
+4. Austin Johnson
+   Email: abjohnson@lcsc.edu
+   Username: abjohnson
+   Phone: (208) 792-2865
+   Original line: Austin Johnson Head Coach abjohnson@lcsc.edu 208-792-2865
+
+5. CJ Johnson
+   Email: cjjohnson@lcsc.edu
+   Username: cjjohnson
+   Phone: (208) 792-2271
+   Original line: CJ Johnson Associate Head Coach cjjohnson@lcsc.edu 208-792-2271
+
+6. Caden Lewis
+   Email: cjlewis@lcsc.edu
+   Username: cjlewis
+   Phone: (208)792-2271
+   Original line: Caden Lewis Assistant coach cjlewis@lcsc.edu (208)792-2271
+
+7. Caelyn Orlandi
+   Email: cborlandi@lcsc.edu
+   Username: cborlandi
+   Phone: (208) 792-2274
+   Original line: Caelyn Orlandi Head Coach cborlandi@lcsc.edu 208-792-2274
+
+8. Cali Moore
+   Email: cmmoore@lcsc.edu
+   Username: cmmoore
+   Phone: (208) 792-2155
+   Original line: Cali Moore Assistant coach cmmoore@lcsc.edu 208-792-2155
+
+9. Mike Collins
+   Email: mcollins@lcsc.edu
+   Username: mcollins
+   Phone: (208) 792-2308
+   Original line: Mike Collins Head Coach mcollins@lcsc.edu 208-792-2308
+
+10. Kurtis Bonner
+   Email: kdbonner@lcsc.edu
+   Username: kdbonner
+   Original line: Kurtis Bonner Assistant coach kdbonner@lcsc.edu
+
+11. Sydnee Vial
+   Email: snsoderberg@lcsc.edu
+   Username: snsoderberg
+   Phone: (208) 792-2164
+   Original line: Sydnee Vial Head Coach snsoderberg@lcsc.edu 208-792-2164
+
+12. Sophia Ralstin
+   Email: smralstin@lcsc.edu
+   Username: smralstin
+   Original line: Sophia Ralstin Assistant coach smralstin@lcsc.edu
+
+13. Zach Anderson
+   Email: ztanderson@lcsc.edu
+   Username: ztanderson
+   Phone: (208) 792-2088
+   Original line: Zach Anderson Head Coach ztanderson@lcsc.edu 208-792-2088
+
+14. Kai Fong
+   Email: kfong@lcsc.edu
+   Username: kfong
+   Phone: (208) 792-2309
+   Original line: Kai Fong Head Coach kfong@lcsc.edu 208-792-2309
+
+15. Bonolo Arroyo
+   Email: btarroyovalenzuela@lcsc.edu
+   Username: btarroyovalenzuela
+   Phone: (208) 297-2309
+   Original line: Bonolo Arroyo Valenzuela Assistant coach btarroyovalenzuela@lcsc.edu 208-297-2309
+
+16. Mei Fong
+   Email: yuen.mei.f@gmail.com
+   Username: yuen.mei.f
+   Original line: Mei Fong Assistant coach yuen.mei.f@gmail.com
+
+17. Mike Collins
+   Email: mcollins@lcsc.edu
+   Username: mcollins
+   Phone: (208) 792-2308
+   Original line: Mike Collins Head Coach mcollins@lcsc.edu 208-792-2308
+
+18. Matthew Kelley
+   Email: coachmatthewkelley@gmail.com
+   Username: coachmatthewkelley
+   Original line: Matthew Kelley Assistant coach coachmatthewkelley@gmail.com
+
+19. Jacob Whittaker
+   Email: jrwhittaker@lcsc.edu
+   Username: jrwhittaker
+   Phone: (509) 552-0373
+   Original line: Jacob Whittaker Assistant coach jrwhittaker@lcsc.edu 509-552-0373
+
+20. Kurtis Bonner
+   Email: kdbonner@lcsc.edu
+   Username: kdbonner
+   Original line: Kurtis Bonner Assistant coach kdbonner@lcsc.edu
+
+21. Katie (Hinrichs)
+   Email: khpalmer@lcsc.edu
+   Username: khpalmer
+   Phone: (509) 432-4761
+   Original line: Katie (Hinrichs) Palmer Head Coach khpalmer@lcsc.edu 509-432-4761
+
+22. Nick Bogar
+   Email: npbogar@lcsc.edu
+   Username: npbogar
+   Original line: Nick Bogar Assistant coach npbogar@lcsc.edu
+
+23. Sydnee Vial
+   Email: snsoderberg@lcsc.edu
+   Username: snsoderberg
+   Phone: (208) 792-2164
+   Original line: Sydnee Vial Head Coach snsoderberg@lcsc.edu 208-792-2164
+
+24. Sophia Ralstin
+   Email: smralstin@lcsc.edu
+   Username: smralstin
+   Original line: Sophia Ralstin Assistant coach smralstin@lcsc.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jeremiah Robbins Head Coach jwrobbins@lcsc.edu 208-792-2272
+• Billy Silvestri Assistant coach wbsilvestri@lcsc.edu 208-792-2279
+• Brandon Vial Assistant coach bjvial@lcsc.edu
+• Austin Johnson Head Coach abjohnson@lcsc.edu 208-792-2865
+• CJ Johnson Associate Head Coach cjjohnson@lcsc.edu 208-792-2271
+• Caden Lewis Assistant coach cjlewis@lcsc.edu (208)792-2271
+• Caelyn Orlandi Head Coach cborlandi@lcsc.edu 208-792-2274
+• Cali Moore Assistant coach cmmoore@lcsc.edu 208-792-2155
+• Mike Collins Head Coach mcollins@lcsc.edu 208-792-2308
+• Kurtis Bonner Assistant coach kdbonner@lcsc.edu
+• Sydnee Vial Head Coach snsoderberg@lcsc.edu 208-792-2164
+• Sophia Ralstin Assistant coach smralstin@lcsc.edu
+• Zach Anderson Head Coach ztanderson@lcsc.edu 208-792-2088
+• Kai Fong Head Coach kfong@lcsc.edu 208-792-2309
+• Bonolo Arroyo Valenzuela Assistant coach btarroyovalenzuela@lcsc.edu 208-297-2309
+• Mei Fong Assistant coach yuen.mei.f@gmail.com
+• Mike Collins Head Coach mcollins@lcsc.edu 208-792-2308
+• Matthew Kelley Assistant coach coachmatthewkelley@gmail.com
+• Jacob Whittaker Assistant coach jrwhittaker@lcsc.edu 509-552-0373
+• Kurtis Bonner Assistant coach kdbonner@lcsc.edu
+• Katie (Hinrichs) Palmer Head Coach khpalmer@lcsc.edu 509-432-4761
+• Nick Bogar Assistant coach npbogar@lcsc.edu
+• Sydnee Vial Head Coach snsoderberg@lcsc.edu 208-792-2164
+• Sophia Ralstin Assistant coach smralstin@lcsc.edu

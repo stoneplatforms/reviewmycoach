@@ -1,0 +1,24 @@
+Gustavus Adolphus College.pdf :: https://athletics.gustavus.edu/staff-directory :: Navigation failed: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://athletics.gustavus.edu/staff-directory/index
+Call log:
+  - navigating to "https://athletics.gustavus.edu/staff-directory/index", waiting until "networkidle"
+
+  tried: https://athletics.gustavus.edu/staff-directory?print=true, https://athletics.gustavus.edu/staff-directory/print, https://athletics.gustavus.edu/staff-directory, https://athletics.gustavus.edu/staff-directory/index?print=true, https://athletics.gustavus.edu/staff-directory/index/print, https://athletics.gustavus.edu/staff-directory/index
+
+Martin Luther College.pdf :: https://mlc-knights.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mlc-knights.com/staff-directory/index
+Call log:
+  - navigating to "https://mlc-knights.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://mlc-knights.com/staff-directory?print=true, https://mlc-knights.com/staff-directory/print, https://mlc-knights.com/staff-directory, https://mlc-knights.com/staff-directory/index?print=true, https://mlc-knights.com/staff-directory/index/print, https://mlc-knights.com/staff-directory/index
+
+North Central University (MN).pdf :: https://athletics.northcentral.edu/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://athletics.northcentral.edu/staff-directory/index
+Call log:
+  - navigating to "https://athletics.northcentral.edu/staff-directory/index", waiting until "networkidle"
+
+  tried: https://athletics.northcentral.edu/staff-directory?print=true, https://athletics.northcentral.edu/staff-directory/print, https://athletics.northcentral.edu/staff-directory, https://athletics.northcentral.edu/staff-directory/index?print=true, https://athletics.northcentral.edu/staff-directory/index/print, https://athletics.northcentral.edu/staff-directory/index
+
+Mayville State University (ND, competes regionally).pdf :: https://msujimmies.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://msujimmies.com/staff-directory/index
+Call log:
+  - navigating to "https://msujimmies.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://msujimmies.com/staff-directory?print=true, https://msujimmies.com/staff-directory/print, https://msujimmies.com/staff-directory, https://msujimmies.com/staff-directory/index?print=true, https://msujimmies.com/staff-directory/index/print, https://msujimmies.com/staff-directory/index
+

@@ -1,0 +1,81 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:28
+============================================================
+
+Total coaches found: 10
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tim MacAllister
+   Email: tmacallister@ccga.edu
+   Username: tmacallister
+   Phone: (912) 279-5872
+   Original line: Tim MacAllister Head Coach 912-279-5872 tmacallister@ccga.edu
+
+2. Adam Sizemore
+   Email: asizemore@ccga.edu
+   Username: asizemore
+   Phone: (912) 279-5942
+   Original line: Adam Sizemore Assistant Coach 912-279-5942 asizemore@ccga.edu
+
+3. Corey Harris
+   Email: charris@ccga.edu
+   Username: charris
+   Phone: (912) 279-5845
+   Original line: Corey Harris Head Coach 912-279-5845 charris@ccga.edu
+
+4. Jodi Mullins
+   Email: jmullins@ccga.edu
+   Username: jmullins
+   Phone: (912) 279-5942
+   Original line: Jodi Mullins Assistant Coach 912-279-5942 jmullins@ccga.edu
+
+5. Mike Cook
+   Email: mcook@ccga.edu
+   Username: mcook
+   Phone: (912) 266-3750
+   Original line: Mike Cook Head Coach 912-266-3750 mcook@ccga.edu
+
+6. Nicole Johns
+   Email: njohns@ccga.edu
+   Username: njohns
+   Phone: (912) 278-0297
+   Original line: Nicole Johns Head Coach 912-278-0297 njohns@ccga.edu
+
+7. Mike Minick
+   Email: mminick@ccga.edu
+   Username: mminick
+   Phone: (912) 279-5940
+   Original line: Mike Minick Head Coach 912-279-5940 mminick@ccga.edu
+
+8. Terry Stewart
+   Email: tstewart@ccga.edu
+   Username: tstewart
+   Phone: (912) 279-5945
+   Original line: Terry Stewart Assistant Coach 912-279-5945 tstewart@ccga.edu
+
+9. Courtney Rutherford
+   Email: crutherford@ccga.edu
+   Username: crutherford
+   Phone: (912) 279-5892
+   Original line: Courtney Rutherford Head Coach Men's Tennis 912-279-5892 crutherford@ccga.edu
+
+10. Courtney Rutherford
+   Email: crutherford@ccga.edu
+   Username: crutherford
+   Phone: (912) 279-5892
+   Original line: Courtney Rutherford Head Coach Women's Tennis 912-279-5892 crutherford@ccga.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tim MacAllister Head Coach 912-279-5872 tmacallister@ccga.edu
+• Adam Sizemore Assistant Coach 912-279-5942 asizemore@ccga.edu
+• Corey Harris Head Coach 912-279-5845 charris@ccga.edu
+• Jodi Mullins Assistant Coach 912-279-5942 jmullins@ccga.edu
+• Mike Cook Head Coach 912-266-3750 mcook@ccga.edu
+• Nicole Johns Head Coach 912-278-0297 njohns@ccga.edu
+• Mike Minick Head Coach 912-279-5940 mminick@ccga.edu
+• Terry Stewart Assistant Coach 912-279-5945 tstewart@ccga.edu
+• Courtney Rutherford Head Coach Men's Tennis 912-279-5892 crutherford@ccga.edu
+• Courtney Rutherford Head Coach Women's Tennis 912-279-5892 crutherford@ccga.edu

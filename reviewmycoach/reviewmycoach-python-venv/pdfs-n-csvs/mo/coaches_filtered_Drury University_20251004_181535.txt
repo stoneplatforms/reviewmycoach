@@ -1,0 +1,350 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:36
+============================================================
+
+Total coaches found: 51
+
+PARSED ENTRIES:
+----------------------------------------
+1. Scott Nasby
+   Email: snasby@drury.edu
+   Username: snasby
+   Phone: (417) 873-6363
+   Original line: Scott Nasby Head Coach, Baseball snasby@drury.edu 417-873-6363
+
+2. Gage Jacobs
+   Email: djacobs003@drury.edu
+   Username: djacobs003
+   Phone: (417) 873-7847
+   Original line: Gage Jacobs Assistant Coach, Baseball djacobs003@drury.edu 417-873-7847
+
+3. Eric Briggs
+   Email: jbriggs003@drury.edu
+   Username: jbriggs003
+   Phone: (417) 873-6363
+   Original line: Eric Briggs Assistant Coach, Baseball jbriggs003@drury.edu 417-873-6363
+
+4. Paul Evans
+   Email: pevans004@drury.edu
+   Username: pevans004
+   Original line: Paul Evans Assistant Coach, Baseball pevans004@drury.edu
+
+5. Cole Hill
+   Email: chill018@drury.edu
+   Username: chill018
+   Original line: Cole Hill Assistant Coach, Baseball chill018@drury.edu (918)805-
+
+6. Chris Foster
+   Email: cfoster012@drury.edu
+   Username: cfoster012
+   Phone: (417) 873-7321
+   Original line: Chris Foster Head Coach, Men's Basketball cfoster012@drury.edu 417-873-7321
+
+7. Sam Briscoe
+   Email: sbriscoe@drury.edu
+   Username: sbriscoe
+   Phone: (417) 873-7297
+   Original line: Sam Briscoe Assistant Coach, Men's Basketball sbriscoe@drury.edu 417-873-7297
+
+8. Brian Pearson
+   Email: bpearson003@drury.edu
+   Username: bpearson003
+   Original line: Brian Pearson Assistant Coach, Men's Basketball bpearson003@drury.edu
+
+9. Kaci Bailey
+   Email: kbailey012@drury.edu
+   Username: kbailey012
+   Phone: (417) 873-7853
+   Original line: Kaci Bailey Head Coach, Women's Basketball kbailey012@drury.edu 417-873-7853
+
+10. Destiny Smith
+   Email: dsmith060@drury.edu
+   Username: dsmith060
+   Phone: (417) 873-6810
+   Original line: Destiny Smith Assistant Coach, Women's Basketball dsmith060@drury.edu 417-873-6810
+
+11. Payton Richards
+   Email: prichards003@drury.edu
+   Username: prichards003
+   Phone: (417) 873-6995
+   Original line: Payton Richards Assistant Coach / Recruiting Coord., Women's Basketball prichards003@drury.edu 417-873-6995
+
+12. Luke Karamitros
+   Email: lkaramitros@drury.edu
+   Username: lkaramitros
+   Phone: (417) 873-6388
+   Original line: Luke Karamitros Head Coach, Men's & Women's Cross Country / Track & Field lkaramitros@drury.edu 417-873-6388
+
+13. Bryan Daniels
+   Email: bdaniels002@drury.edu
+   Username: bdaniels002
+   Phone: (417) 873-6362
+   Original line: Bryan Daniels Head Coach, Men's Golf bdaniels002@drury.edu 417-873-6362
+
+14. Faith Hopkins
+   Email: fhopkins@drury.edu
+   Username: fhopkins
+   Phone: (214) 620-9263
+   Original line: Faith Hopkins Head Coach, Women's Golf fhopkins@drury.edu 214-620-9263
+
+15. Ben Taylor
+   Email: btaylor03@drury.edu
+   Username: btaylor03
+   Phone: (417) 873-7830
+   Original line: Ben Taylor Head Coach, Men's Soccer btaylor03@drury.edu 417-873-7830
+
+16. Mark Campbell
+   Email: mcampbell015@drury.edu
+   Username: mcampbell015
+   Original line: Mark Campbell Assistant Coach, Men's Soccer mcampbell015@drury.edu
+
+17. Justin Olson
+   Email: jolson003@drury.edu
+   Username: jolson003
+   Original line: Justin Olson Women's Soccer, Head Coach jolson003@drury.edu (417) 873-
+
+18. Josh Lewis-Evans
+   Email: jlewis-evans@drury.edu
+   Username: jlewis-evans
+   Phone: (417) 763-8223
+   Original line: Josh Lewis-Evans Assistant Coach, Women's Soccer jlewis-evans@drury.edu 417-763-8223
+
+19. Mackenzie Serrano
+   Email: mserrano004@drury.edu
+   Username: mserrano004
+   Original line: Mackenzie Serrano Assistant Coach, Women's Soccer mserrano004@drury.edu
+
+20. Nico Helin
+   Email: nhelin@drury.edu
+   Username: nhelin
+   Original line: Nico Helin Goalkeepers Coach (Volunteer), Women's Soccer nhelin@drury.edu
+
+21. Brooke Gajewski
+   Email: bgajewski@drury.edu
+   Username: bgajewski
+   Phone: (417) 873-6364
+   Original line: Brooke Gajewski Head Coach, Softball bgajewski@drury.edu 417-873-6364
+
+22. Miranda Gajewski
+   Email: mgajewski@drury.edu
+   Username: mgajewski
+   Original line: Miranda Gajewski Assistant Coach, Softball mgajewski@drury.edu
+
+23. Tyler Dunlap
+   Email: tdunlap002@drury.edu
+   Username: tdunlap002
+   Phone: (417) 987-3314
+   Original line: Tyler Dunlap Head Coach, Cheer and STUNT tdunlap002@drury.edu 417-987-3314
+
+24. Trinity Morgan
+   Email: tmorgan009@drury.edu
+   Username: tmorgan009
+   Original line: Trinity Morgan Assistant Coach, Cheer and STUNT tmorgan009@drury.edu
+
+25. Brian Reynolds
+   Email: breynold@drury.edu
+   Username: breynold
+   Phone: (417) 873-7293
+   Original line: Brian Reynolds Head Coach, Men's and Women's Swimming & Diving breynold@drury.edu 417-873-7293
+
+26. Richard Hackett
+   Email: rhackett@drury.edu
+   Username: rhackett
+   Phone: (417) 873-6877
+   Original line: Richard Hackett Head Coach, Diving rhackett@drury.edu 417-873-6877
+
+27. Patrick Waggoner
+   Email: pwaggoner002@drury.edu
+   Username: pwaggoner002
+   Original line: Patrick Waggoner Assistant Coach, Men's and Women's Swimming & Diving pwaggoner002@drury.edu
+
+28. Luke Karamitros
+   Email: lkaramitros@drury.edu
+   Username: lkaramitros
+   Phone: (417) 873-6388
+   Original line: Luke Karamitros Head Coach, Men's & Women's Cross Country / Track & Field lkaramitros@drury.edu 417-873-6388
+
+29. Ben Dodson
+   Email: bdodson@drury.edu
+   Username: bdodson
+   Original line: Ben Dodson Assistant Coach, Track & Field bdodson@drury.edu
+
+30. Brock Voth
+   Email: bvoth002@drury.edu
+   Username: bvoth002
+   Original line: Brock Voth Assistant Coach, Track & Field bvoth002@drury.edu
+
+31. Tim Garner
+   Email: tgarner002@drury.edu
+   Username: tgarner002
+   Phone: (417) 873-6846
+   Original line: Tim Garner Head Coach, Men's and Women's Tennis tgarner002@drury.edu 417-873-6846
+
+32. Terry Dean
+   Email: tdean002@drury.edu
+   Username: tdean002
+   Original line: Terry Dean Head Coach, Triathlon tdean002@drury.edu
+
+33. Jenifer Bahner-Hill
+   Email: jbahner@drury.edu
+   Username: jbahner
+   Phone: (417) 873-6824
+   Original line: Jenifer Bahner-Hill Head Coach, Volleyball jbahner@drury.edu 417-873-6824
+
+34. Julia Krebs
+   Email: jkrebs002@drury.edu
+   Username: jkrebs002
+   Phone: (417) 873-7252
+   Original line: Julia Krebs Assistant Coach, Volleyball jkrebs002@drury.edu 417-873-7252
+
+35. James Reynolds
+   Email: jreynolds006@drury.edu
+   Username: jreynolds006
+   Phone: (417) 493-9716
+   Original line: James Reynolds Head Coach, Wrestling jreynolds006@drury.edu 417-493-9716
+
+36. Rick Emmitt
+   Email: remmitt@drury.edu
+   Username: remmitt
+   Phone: (417) 873-7374
+   Original line: Rick Emmitt Head Coach, Bass Fishing remmitt@drury.edu 417-873-7374
+
+37. Ted Barbee
+   Email: tbarbee@drury.edu
+   Username: tbarbee
+   Phone: (417) 719-0828
+   Original line: Ted Barbee Head Coach, Men's Bowling tbarbee@drury.edu 417-719-0828
+
+38. Tyler Dunlap
+   Email: tdunlap002@drury.edu
+   Username: tdunlap002
+   Phone: (417) 987-3314
+   Original line: Tyler Dunlap Head Coach, Cheer and STUNT tdunlap002@drury.edu 417-987-3314
+
+39. Trinity Morgan
+   Email: tmorgan009@drury.edu
+   Username: tmorgan009
+   Original line: Trinity Morgan Assistant Coach, Cheer and STUNT tmorgan009@drury.edu
+
+40. MacKenzie Burghardt
+   Email: mburghardt001@drury.edu
+   Username: mburghardt001
+   Original line: MacKenzie Burghardt Head Coach, Dance mburghardt001@drury.edu
+
+41. Dustin Rich
+   Email: drich010@drury.edu
+   Username: drich010
+   Phone: (417) 827-6503
+   Original line: Dustin Rich Head Coach, Men's Lacrosse drich010@drury.edu 417-827-6503
+
+42. Tanner Crockett
+   Email: tcrockett@drury.edu
+   Username: tcrockett
+   Original line: Tanner Crockett Assistant Coach, Men's Lacrosse tcrockett@drury.edu
+
+43. Bryan Bevel
+   Email: bbevel@drury.edu
+   Username: bbevel
+   Phone: (417) 873-7677
+   Original line: Bryan Bevel Head Coach, Men's Rugby bbevel@drury.edu 417-873-7677
+
+44. Katie Scott
+   Email: kscott019@drury.edu
+   Username: kscott019
+   Phone: (417) 873-7678
+   Original line: Katie Scott Head Coach, Women's Rugby kscott019@drury.edu 417-873-7678
+
+45. Jeremy Law
+   Email: jlaw020@drury.edu
+   Username: jlaw020
+   Phone: (417) 873-7681
+   Original line: Jeremy Law Head Coach, Ice Hockey jlaw020@drury.edu 417-873-7681
+
+46. Cliff Cook
+   Email: ccook017@drury.edu
+   Username: ccook017
+   Phone: (817) 690-9486
+   Original line: Cliff Cook Assistant Coach, Ice Hockey ccook017@drury.edu 817-690-9486
+
+47. Brett Loethen
+   Email: bloethen@drury.edu
+   Username: bloethen
+   Original line: Brett Loethen Head Coach, Ice Hockey-D3 bloethen@drury.edu
+
+48. Jarrod Smith
+   Email: jsmith17@drury.edu
+   Username: jsmith17
+   Phone: (417) 873-6847
+   Original line: Jarrod Smith Head Coach, Pickleball jsmith17@drury.edu 417-873-6847
+
+49. Robert Brucken
+   Email: rbrucken@drury.edu
+   Username: rbrucken
+   Phone: (417) 873-7680
+   Original line: Robert Brucken Head Coach, Women's Lacrosse rbrucken@drury.edu 417-873-7680
+
+50. Josh Burgess
+   Email: jburgess@drury.edu
+   Username: jburgess
+   Original line: Josh Burgess Assistant Coach, Women's Lacrosse jburgess@drury.edu
+
+51. Kevin Boyer
+   Email: kboyer002@drury.edu
+   Username: kboyer002
+   Phone: (417) 873-6347
+   Original line: Kevin Boyer Head Coach, Shotgun Sports kboyer002@drury.edu 417-873-6347
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Scott Nasby Head Coach, Baseball snasby@drury.edu 417-873-6363
+• Gage Jacobs Assistant Coach, Baseball djacobs003@drury.edu 417-873-7847
+• Eric Briggs Assistant Coach, Baseball jbriggs003@drury.edu 417-873-6363
+• Paul Evans Assistant Coach, Baseball pevans004@drury.edu
+• Cole Hill Assistant Coach, Baseball chill018@drury.edu (918)805-
+• Chris Foster Head Coach, Men's Basketball cfoster012@drury.edu 417-873-7321
+• Sam Briscoe Assistant Coach, Men's Basketball sbriscoe@drury.edu 417-873-7297
+• Brian Pearson Assistant Coach, Men's Basketball bpearson003@drury.edu
+• Kaci Bailey Head Coach, Women's Basketball kbailey012@drury.edu 417-873-7853
+• Destiny Smith Assistant Coach, Women's Basketball dsmith060@drury.edu 417-873-6810
+• Payton Richards Assistant Coach / Recruiting Coord., Women's Basketball prichards003@drury.edu 417-873-6995
+• Luke Karamitros Head Coach, Men's & Women's Cross Country / Track & Field lkaramitros@drury.edu 417-873-6388
+• Bryan Daniels Head Coach, Men's Golf bdaniels002@drury.edu 417-873-6362
+• Faith Hopkins Head Coach, Women's Golf fhopkins@drury.edu 214-620-9263
+• Ben Taylor Head Coach, Men's Soccer btaylor03@drury.edu 417-873-7830
+• Mark Campbell Assistant Coach, Men's Soccer mcampbell015@drury.edu
+• Justin Olson Women's Soccer, Head Coach jolson003@drury.edu (417) 873-
+• Josh Lewis-Evans Assistant Coach, Women's Soccer jlewis-evans@drury.edu 417-763-8223
+• Mackenzie Serrano Assistant Coach, Women's Soccer mserrano004@drury.edu
+• Nico Helin Goalkeepers Coach (Volunteer), Women's Soccer nhelin@drury.edu
+• Brooke Gajewski Head Coach, Softball bgajewski@drury.edu 417-873-6364
+• Miranda Gajewski Assistant Coach, Softball mgajewski@drury.edu
+• Tyler Dunlap Head Coach, Cheer and STUNT tdunlap002@drury.edu 417-987-3314
+• Trinity Morgan Assistant Coach, Cheer and STUNT tmorgan009@drury.edu
+• Brian Reynolds Head Coach, Men's and Women's Swimming & Diving breynold@drury.edu 417-873-7293
+• Richard Hackett Head Coach, Diving rhackett@drury.edu 417-873-6877
+• Patrick Waggoner Assistant Coach, Men's and Women's Swimming & Diving pwaggoner002@drury.edu
+• Luke Karamitros Head Coach, Men's & Women's Cross Country / Track & Field lkaramitros@drury.edu 417-873-6388
+• Ben Dodson Assistant Coach, Track & Field bdodson@drury.edu
+• Brock Voth Assistant Coach, Track & Field bvoth002@drury.edu
+• Tim Garner Head Coach, Men's and Women's Tennis tgarner002@drury.edu 417-873-6846
+• Terry Dean Head Coach, Triathlon tdean002@drury.edu
+• Jenifer Bahner-Hill Head Coach, Volleyball jbahner@drury.edu 417-873-6824
+• Julia Krebs Assistant Coach, Volleyball jkrebs002@drury.edu 417-873-7252
+• James Reynolds Head Coach, Wrestling jreynolds006@drury.edu 417-493-9716
+• Rick Emmitt Head Coach, Bass Fishing remmitt@drury.edu 417-873-7374
+• Ted Barbee Head Coach, Men's Bowling tbarbee@drury.edu 417-719-0828
+• Tyler Dunlap Head Coach, Cheer and STUNT tdunlap002@drury.edu 417-987-3314
+• Trinity Morgan Assistant Coach, Cheer and STUNT tmorgan009@drury.edu
+• MacKenzie Burghardt Head Coach, Dance mburghardt001@drury.edu
+• Dustin Rich Head Coach, Men's Lacrosse drich010@drury.edu 417-827-6503
+• Tanner Crockett Assistant Coach, Men's Lacrosse tcrockett@drury.edu
+• Bryan Bevel Head Coach, Men's Rugby bbevel@drury.edu 417-873-7677
+• Katie Scott Head Coach, Women's Rugby kscott019@drury.edu 417-873-7678
+• Jeremy Law Head Coach, Ice Hockey jlaw020@drury.edu 417-873-7681
+• Cliff Cook Assistant Coach, Ice Hockey ccook017@drury.edu 817-690-9486
+• Brett Loethen Head Coach, Ice Hockey-D3 bloethen@drury.edu
+• Jarrod Smith Head Coach, Pickleball jsmith17@drury.edu 417-873-6847
+• Robert Brucken Head Coach, Women's Lacrosse rbrucken@drury.edu 417-873-7680
+• Josh Burgess Assistant Coach, Women's Lacrosse jburgess@drury.edu
+• Kevin Boyer Head Coach, Shotgun Sports kboyer002@drury.edu 417-873-6347

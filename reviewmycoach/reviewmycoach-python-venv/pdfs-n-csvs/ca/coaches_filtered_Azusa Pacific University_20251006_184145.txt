@@ -1,0 +1,183 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:45
+============================================================
+
+Total coaches found: 27
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nate Nasca
+   Email: nnasca@apu.edu
+   Username: nnasca
+   Phone: (626) 815-5355
+   Original line: Nate Nasca Strength & Conditioning Coach (626) 815-5355 nnasca@apu.edu
+
+2. Reigh Lea
+   Email: rmoore@apu.edu
+   Username: rmoore
+   Phone: (626) 815-4630
+   Original line: Reigh Lea Moore Head Coach (626) 815-4630 rmoore@apu.edu
+
+3. Abbigale Abramson
+   Email: aabramson@apu.edu
+   Username: aabramson
+   Original line: Abbigale Abramson Assistant Coach aabramson@apu.edu
+
+4. Kirk Nieuwenhuis
+   Email: knieuwenhuis@apu.edu
+   Username: knieuwenhuis
+   Phone: (626) 815-2181
+   Original line: Kirk Nieuwenhuis Head Coach (626) 815-2181 knieuwenhuis@apu.edu
+
+5. Jerry Peña
+   Email: gpena@apu.edu
+   Username: gpena
+   Phone: (626) 815-4596
+   Original line: Jerry Peña Assistant Coach/Recruiting Coordinator (626) 815-4596 gpena@apu.edu
+
+6. B.J. Porter
+   Email: rporter@apu.edu
+   Username: rporter
+   Original line: B.J. Porter Head Coach rporter@apu.edu
+
+7. Dan Ploog
+   Email: dploog@apu.edu
+   Username: dploog
+   Original line: Dan Ploog Head Coach dploog@apu.edu
+
+8. Paige Uyehara
+   Email: puyehara@apu.edu
+   Username: puyehara
+   Original line: Paige Uyehara Assistant Coach puyehara@apu.edu
+
+9. Jebreh Harris
+   Email: jharris@apu.edu
+   Username: jharris
+   Original line: Jebreh Harris Head Coach (Cross Country) / Assistant Coach (Track & Field) jharris@apu.edu
+
+10. A.J. Parnell
+   Email: aparnell@apu.edu
+   Username: aparnell
+   Phone: (626) 815-4645
+   Original line: A.J. Parnell Head Coach (626) 815-4645 aparnell@apu.edu
+
+11. Dave Blomquist
+   Email: dblomquist@apu.edu
+   Username: dblomquist
+   Phone: (626) 815-4529
+   Original line: Dave Blomquist Head Coach (626) 815-4529 dblomquist@apu.edu
+
+12. Sergio Orozco
+   Email: sdorozco@apu.edu
+   Username: sdorozco
+   Original line: Sergio Orozco Goalkeeper Coach sdorozco@apu.edu
+
+13. Brooke Lincoln
+   Email: blincoln@apu.edu
+   Username: blincoln
+   Phone: (626) 815-5370
+   Original line: Brooke Lincoln Head Women's Soccer Coach (626) 815-5370 blincoln@apu.edu
+
+14. Adam James
+   Email: ajames@apu.edu
+   Username: ajames
+   Original line: Adam James Assistant Coach ajames@apu.edu
+
+15. Sergio Orozco
+   Email: sdorozco@apu.edu
+   Username: sdorozco
+   Original line: Sergio Orozco Goalkeeper Coach sdorozco@apu.edu
+
+16. Carrie Webber
+   Email: cwebber@apu.edu
+   Username: cwebber
+   Phone: (626) 815-5443
+   Original line: Carrie Webber Head Coach (626) 815-5443 cwebber@apu.edu
+
+17. Sarah Parten
+   Email: sparten@apu.edu
+   Username: sparten
+   Original line: Sarah Parten Assistant Coach sparten@apu.edu
+
+18. Tim Kyle
+   Email: tkyle@apu.edu
+   Username: tkyle
+   Phone: (626) 815-5024
+   Original line: Tim Kyle Head Coach (626) 815-5024 tkyle@apu.edu
+
+19. Jodi Lepp
+   Email: jlepp@apu.edu
+   Username: jlepp
+   Original line: Jodi Lepp Assistant Coach jlepp@apu.edu
+
+20. Eric Barnard
+   Email: ebarnard@apu.edu
+   Username: ebarnard
+   Original line: Eric Barnard Assistant Coach ebarnard@apu.edu
+
+21. Eric Barnard
+   Email: ebarnard@apu.edu
+   Username: ebarnard
+   Original line: Eric Barnard Assistant Coach ebarnard@apu.edu
+
+22. Jebreh Harris
+   Email: jharris@apu.edu
+   Username: jharris
+   Original line: Jebreh Harris Head Coach (Cross Country) / Assistant Coach (Track & Field) jharris@apu.edu
+
+23. Chris Keife
+   Email: apuvolleyball@apu.edu
+   Username: apuvolleyball
+   Phone: (626) 815-5332
+   Original line: Chris Keife Head Coach (626) 815-5332 apuvolleyball@apu.edu
+
+24. Ralph Rivas
+   Email: apuvolleyball@apu.edu
+   Username: apuvolleyball
+   Original line: Ralph Rivas Assistant Coach apuvolleyball@apu.edu
+
+25. Priscilla Gomez
+   Email: pmgomez@apu.edu
+   Username: pmgomez
+   Original line: Priscilla Gomez Head Coach pmgomez@apu.edu
+
+26. Alba Espinar
+   Email: aespinargomez@apu.edu
+   Username: aespinargomez
+   Original line: Alba Espinar Assistant Coach aespinargomez@apu.edu
+
+27. Lucille Flores
+   Email: lflores@apu.edu
+   Username: lflores
+   Original line: Lucille Flores Head Coach lflores@apu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Nate Nasca Strength & Conditioning Coach (626) 815-5355 nnasca@apu.edu
+• Reigh Lea Moore Head Coach (626) 815-4630 rmoore@apu.edu
+• Abbigale Abramson Assistant Coach aabramson@apu.edu
+• Kirk Nieuwenhuis Head Coach (626) 815-2181 knieuwenhuis@apu.edu
+• Jerry Peña Assistant Coach/Recruiting Coordinator (626) 815-4596 gpena@apu.edu
+• B.J. Porter Head Coach rporter@apu.edu
+• Dan Ploog Head Coach dploog@apu.edu
+• Paige Uyehara Assistant Coach puyehara@apu.edu
+• Jebreh Harris Head Coach (Cross Country) / Assistant Coach (Track & Field) jharris@apu.edu
+• A.J. Parnell Head Coach (626) 815-4645 aparnell@apu.edu
+• Dave Blomquist Head Coach (626) 815-4529 dblomquist@apu.edu
+• Sergio Orozco Goalkeeper Coach sdorozco@apu.edu
+• Brooke Lincoln Head Women's Soccer Coach (626) 815-5370 blincoln@apu.edu
+• Adam James Assistant Coach ajames@apu.edu
+• Sergio Orozco Goalkeeper Coach sdorozco@apu.edu
+• Carrie Webber Head Coach (626) 815-5443 cwebber@apu.edu
+• Sarah Parten Assistant Coach sparten@apu.edu
+• Tim Kyle Head Coach (626) 815-5024 tkyle@apu.edu
+• Jodi Lepp Assistant Coach jlepp@apu.edu
+• Eric Barnard Assistant Coach ebarnard@apu.edu
+• Eric Barnard Assistant Coach ebarnard@apu.edu
+• Jebreh Harris Head Coach (Cross Country) / Assistant Coach (Track & Field) jharris@apu.edu
+• Chris Keife Head Coach (626) 815-5332 apuvolleyball@apu.edu
+• Ralph Rivas Assistant Coach apuvolleyball@apu.edu
+• Priscilla Gomez Head Coach pmgomez@apu.edu
+• Alba Espinar Assistant Coach aespinargomez@apu.edu
+• Lucille Flores Head Coach lflores@apu.edu

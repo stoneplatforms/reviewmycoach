@@ -1,0 +1,197 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:41
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Fuller Smith
+   Email: fsmith1@tarleton.edu
+   Username: fsmith1
+   Original line: Fuller Smith Head Baseball Coach fsmith1@tarleton.edu 254- @FSmith27
+
+2. Glynn Cyprien
+   Email: gcyprien@tarleton.edu
+   Username: gcyprien
+   Original line: Glynn Cyprien Associate Head Men's gcyprien@tarleton.edu 254- @CoachCyprien
+
+3. Joseph Jones
+   Email: jcjones@tarleton.edu
+   Username: jcjones
+   Original line: Joseph Jones Men's Basketball jcjones@tarleton.edu 254- @CoachJoJones
+
+4. Todd Whitten
+   Email: lane@tarleton.edu
+   Username: lane
+   Original line: Todd Whitten Head Football Coach lane@tarleton.edu 254- @TarletonFB
+
+5. Tyrone Nix
+   Email: tnix@tarleton.edu
+   Username: tnix
+   Original line: Tyrone Nix Assistant Head Football tnix@tarleton.edu 254- @CoachTyroneNix
+
+6. Adam Austin
+   Email: aaustin@tarleton.edu
+   Username: aaustin
+   Original line: Adam Austin Assistant Football Coach aaustin@tarleton.edu 254- @QBsWork16
+
+7. Scott Carey
+   Email: wscarey@tarleton.edu
+   Username: wscarey
+   Original line: Scott Carey Assistant Football Coach wscarey@tarleton.edu 254- @coachscarey
+
+8. Michael Walton
+   Email: mwalton@tarleton.edu
+   Username: mwalton
+   Original line: Michael Walton Assistant Football Coach mwalton@tarleton.edu 254- @CoachWaltonTSU
+
+9. Fred Tate
+   Email: ftate@tarleton.edu
+   Username: ftate
+   Original line: Fred Tate Assistant Football Coach ftate@tarleton.edu 254- @FredrickTate2
+
+10. Jake Stone
+   Email: jstone@tarleton.edu
+   Username: jstone
+   Original line: Jake Stone Assistant Football Coach jstone@tarleton.edu 254- @FBCoachStone
+
+11. Tate Whitten
+   Email: ptwhitten@tarleton.edu
+   Username: ptwhitten
+   Original line: Tate Whitten Assistant Football Coach ptwhitten@tarleton.edu 254- @CoachTateW
+
+12. Pepe Pearson
+   Email: ppearson@tarleton.edu
+   Username: ppearson
+   Original line: Pepe Pearson Assistant Football Coach ppearson@tarleton.edu 254- @CoachPepPearson
+
+13. Devante Sims
+   Email: dsims1@tarleton.edu
+   Username: dsims1
+   Original line: Devante Sims Assistant Football Coach dsims1@tarleton.edu 254- @Coach_Sims1
+
+14. Beau Blair
+   Email: bblair@tarleton.edu
+   Username: bblair
+   Original line: Beau Blair Assistant Football Coach bblair@tarleton.edu 254- @CoachBeauBlair
+
+15. Braden Hucks
+   Email: bhucks@tarleton.edu
+   Username: bhucks
+   Original line: Braden Hucks Offensive Assistant bhucks@tarleton.edu 254- @CoachHucks
+
+16. Jonathan Beasley
+   Email: jbeasley@tarleton.edu
+   Username: jbeasley
+   Original line: Jonathan Beasley Director of Football jbeasley@tarleton.edu 254- @beasley_coach
+
+17. Dylan Wagner
+   Email: dwagner@tarleton.edu
+   Username: dwagner
+   Original line: Dylan Wagner Director of Recruiting dwagner@tarleton.edu 254- @CoachDJWagner
+
+18. Chance Cain
+   Email: ccain@tarleton.edu
+   Username: ccain
+   Original line: Chance Cain Head Men's Golf Coach ccain@tarleton.edu 432- @ccain37
+
+19. Pete Cuadrado
+   Email: pcuadrado@tarleton.edu
+   Username: pcuadrado
+   Original line: Pete Cuadrado Head Soccer Coach pcuadrado@tarleton.edu 254- @TarletonSoccer
+
+20. Rex Carrell
+   Email: rcarrell@tarleton.edu
+   Username: rcarrell
+   Original line: Rex Carrell Assistant Soccer Coach rcarrell@tarleton.edu 602- @rex_carrell
+
+21. Lexi Stinson
+   Email: astinson1@tarleton.edu
+   Username: astinson1
+   Original line: Lexi Stinson Assistant Soccer Coach astinson1@tarleton.edu 602- @lexistinson
+
+22. Bayleigh Chaviers-Bledsoe
+   Email: bayleigh.chaviers@go.tarleton.edu
+   Username: bayleigh.chaviers
+   Original line: Bayleigh Chaviers-Bledsoe Assistant Soccer Coach bayleigh.chaviers@go.tarleton.edu 602- @TarletonSoccer
+
+23. Mark Cumpian
+   Email: cumpian@tarleton.edu
+   Username: cumpian
+   Original line: Mark Cumpian Head Softball Coach cumpian@tarleton.edu 254- @Coach_Cump
+
+24. Stefanie Phillips
+   Email: smphillips@tarleton.edu
+   Username: smphillips
+   Original line: Stefanie Phillips Associate Head Coach smphillips@tarleton.edu 254- @Tarleton_SB
+
+25. Nyka Wood
+   Email: nwood@tarleton.edu
+   Username: nwood
+   Original line: Nyka Wood Assistant Softball Coach nwood@tarleton.edu 254- @nyka_wood
+
+26. Abigail Wild
+   Email: awild@tarleton.edu
+   Username: awild
+   Original line: Abigail Wild Assistant Tennis Coach awild@tarleton.edu
+
+27. Timothy Thompson
+   Email: TTHOMPSON1@tarleton.edu
+   Username: TTHOMPSON1
+   Original line: Timothy Thompson Assistant Track and TTHOMPSON1@tarleton.edu 254- @The_CoachT87
+
+28. Christopher Zent
+   Email: czent@tarleton.edu
+   Username: czent
+   Original line: Christopher Zent Assistant Track and czent@tarleton.edu 254- @CoachZent
+
+29. Jazmyne Johnson
+   Email: jjohnson1@tarleton.edu
+   Username: jjohnson1
+   Original line: Jazmyne Johnson Head Volleyball Coach jjohnson1@tarleton.edu @_jazjohnson
+
+30. Blaine Hamilton
+   Email: bhamilton@tarleton.edu
+   Username: bhamilton
+   Original line: Blaine Hamilton Head Cheer Coach bhamilton@tarleton.edu 254- @TarletonSports
+
+31. Madison Scott
+   Email: mscott1@tarleton.edu
+   Username: mscott1
+   Original line: Madison Scott Assistant Cheer Coach mscott1@tarleton.edu 254- @TarletonSports
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Fuller Smith Head Baseball Coach fsmith1@tarleton.edu 254- @FSmith27
+• Glynn Cyprien Associate Head Men's gcyprien@tarleton.edu 254- @CoachCyprien
+• Joseph Jones Men's Basketball jcjones@tarleton.edu 254- @CoachJoJones
+• Todd Whitten Head Football Coach lane@tarleton.edu 254- @TarletonFB
+• Tyrone Nix Assistant Head Football tnix@tarleton.edu 254- @CoachTyroneNix
+• Adam Austin Assistant Football Coach aaustin@tarleton.edu 254- @QBsWork16
+• Scott Carey Assistant Football Coach wscarey@tarleton.edu 254- @coachscarey
+• Michael Walton Assistant Football Coach mwalton@tarleton.edu 254- @CoachWaltonTSU
+• Fred Tate Assistant Football Coach ftate@tarleton.edu 254- @FredrickTate2
+• Jake Stone Assistant Football Coach jstone@tarleton.edu 254- @FBCoachStone
+• Tate Whitten Assistant Football Coach ptwhitten@tarleton.edu 254- @CoachTateW
+• Pepe Pearson Assistant Football Coach ppearson@tarleton.edu 254- @CoachPepPearson
+• Devante Sims Assistant Football Coach dsims1@tarleton.edu 254- @Coach_Sims1
+• Beau Blair Assistant Football Coach bblair@tarleton.edu 254- @CoachBeauBlair
+• Braden Hucks Offensive Assistant bhucks@tarleton.edu 254- @CoachHucks
+• Jonathan Beasley Director of Football jbeasley@tarleton.edu 254- @beasley_coach
+• Dylan Wagner Director of Recruiting dwagner@tarleton.edu 254- @CoachDJWagner
+• Chance Cain Head Men's Golf Coach ccain@tarleton.edu 432- @ccain37
+• Pete Cuadrado Head Soccer Coach pcuadrado@tarleton.edu 254- @TarletonSoccer
+• Rex Carrell Assistant Soccer Coach rcarrell@tarleton.edu 602- @rex_carrell
+• Lexi Stinson Assistant Soccer Coach astinson1@tarleton.edu 602- @lexistinson
+• Bayleigh Chaviers-Bledsoe Assistant Soccer Coach bayleigh.chaviers@go.tarleton.edu 602- @TarletonSoccer
+• Mark Cumpian Head Softball Coach cumpian@tarleton.edu 254- @Coach_Cump
+• Stefanie Phillips Associate Head Coach smphillips@tarleton.edu 254- @Tarleton_SB
+• Nyka Wood Assistant Softball Coach nwood@tarleton.edu 254- @nyka_wood
+• Abigail Wild Assistant Tennis Coach awild@tarleton.edu
+• Timothy Thompson Assistant Track and TTHOMPSON1@tarleton.edu 254- @The_CoachT87
+• Christopher Zent Assistant Track and czent@tarleton.edu 254- @CoachZent
+• Jazmyne Johnson Head Volleyball Coach jjohnson1@tarleton.edu @_jazjohnson
+• Blaine Hamilton Head Cheer Coach bhamilton@tarleton.edu 254- @TarletonSports
+• Madison Scott Assistant Cheer Coach mscott1@tarleton.edu 254- @TarletonSports

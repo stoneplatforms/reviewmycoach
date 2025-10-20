@@ -1,0 +1,257 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:41
+============================================================
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Clint Helton
+   Email: clint.helton@maryvillecollege.edu
+   Username: clint.helton
+   Original line: Clint Helton Head Baseball Coach clint.helton@maryvillecollege.edu (865) 981-
+
+2. Rocky Mauriello
+   Email: rocky.mauriello@maryvillecollege.edu
+   Username: rocky.mauriello
+   Original line: Rocky Mauriello Assistant Baseball Coach / Pitching Coach rocky.mauriello@maryvillecollege.edu
+
+3. Drew Henry
+   Email: drew.henry@maryvillecollege.edu
+   Username: drew.henry
+   Original line: Drew Henry Assistant Baseball Coach drew.henry@maryvillecollege.edu
+
+4. Jimmy Reese
+   Email: james.reese@maryvillecollege.edu
+   Username: james.reese
+   Original line: Jimmy Reese Assistant Baseball Coach james.reese@maryvillecollege.edu
+
+5. Myles Rasnick
+   Email: myles.rasnick@maryvillecollege.edu
+   Username: myles.rasnick
+   Original line: Myles Rasnick Assistant Men's Basketball Coach myles.rasnick@maryvillecollege.edu
+
+6. Jeff McCord
+   Email: jeff.mccord@maryvillecollege.edu
+   Username: jeff.mccord
+   Original line: Jeff McCord Volunteer Coach jeff.mccord@maryvillecollege.edu (865) 981-
+
+7. Darrin Travillian
+   Email: darrin.travillian@maryvillecollege.edu
+   Username: darrin.travillian
+   Original line: Darrin Travillian Head Women's Basketball Coach darrin.travillian@maryvillecollege.edu (865) 981-
+
+8. Elsa Eckenrod
+   Email: elsa.eckenrod@maryvillecollege.edu
+   Username: elsa.eckenrod
+   Original line: Elsa Eckenrod Assistant Women's Basketball Coach elsa.eckenrod@maryvillecollege.edu
+
+9. Nikki Whaley
+   Email: nikki.whaley@maryvillecollege.edu
+   Username: nikki.whaley
+   Original line: Nikki Whaley Head Cheer Coach nikki.whaley@maryvillecollege.edu
+
+10. Kaitlyn Carringer-Adams
+   Email: kaitlyn.carringeradams@maryvillecollege.edu
+   Username: kaitlyn.carringeradams
+   Original line: Kaitlyn Carringer-Adams Head Cross Country/Assistant Track & Field Coach kaitlyn.carringeradams@maryvillecollege.edu
+
+11. Kaitlyn Carringer-Adams
+   Email: kaitlyn.carringeradams@maryvillecollege.edu
+   Username: kaitlyn.carringeradams
+   Original line: Kaitlyn Carringer-Adams Head Cross Country/Assistant Track & Field Coach kaitlyn.carringeradams@maryvillecollege.edu
+
+12. Christen Khym
+   Email: christen.khym@maryvillecollege.edu
+   Username: christen.khym
+   Original line: Christen Khym Head Equestrian Coach christen.khym@maryvillecollege.edu
+
+13. Ben Fox
+   Email: ben.fox@maryvillecollege.edu
+   Username: ben.fox
+   Original line: Ben Fox Head Football Coach ben.fox@maryvillecollege.edu (865) 981-
+
+14. Scott Brumett
+   Email: scott.brumett@maryvillecollege.edu
+   Username: scott.brumett
+   Original line: Scott Brumett Associate Head Football Coach / Defensive Coordinator / scott.brumett@maryvillecollege.edu (865) 981-
+
+15. Jake Flaherty
+   Email: jake.flaherty@maryvillecollege.edu
+   Username: jake.flaherty
+   Original line: Jake Flaherty Assistant Football Coach / Special Teams Coordinator / jake.flaherty@maryvillecollege.edu (865) 981-
+
+16. Albert Long-Hill
+   Email: albert.longhill@maryvillecollege.edu
+   Username: albert.longhill
+   Original line: Albert Long-Hill Assistant Football Coach / Defensive Line albert.longhill@maryvillecollege.edu 865-981-
+
+17. David Martin
+   Email: david.martin@maryvillecollege.edu
+   Username: david.martin
+   Original line: David Martin Assistant Football Coach / Recruiting Coordinator / Tight david.martin@maryvillecollege.edu (865) 981-
+
+18. Michael McGuire
+   Email: michael.mcguire@maryvillecollege.edu
+   Username: michael.mcguire
+   Original line: Michael McGuire Assistant Football Coach / Offensive Coord. / Offensive michael.mcguire@maryvillecollege.edu
+
+19. Brian Milan
+   Email: brian.milan@maryvillecollege.edu
+   Username: brian.milan
+   Original line: Brian Milan Assistant Football Coach / Defensive Backs brian.milan@maryvillecollege.edu
+
+20. Josh Elkins
+   Email: josh.elkins@maryvillecollege.edu
+   Username: josh.elkins
+   Original line: Josh Elkins Strength & Conditioning Coach josh.elkins@maryvillecollege.edu (865) 696-
+
+21. Jesse Lawley
+   Email: jesse.lawley@maryvillecollege.edu
+   Username: jesse.lawley
+   Original line: Jesse Lawley Head Women's Golf Coach jesse.lawley@maryvillecollege.edu (256) 613-
+
+22. Jon Baker
+   Email: jon.baker@maryvillecollege.edu
+   Username: jon.baker
+   Original line: Jon Baker Head Women's Soccer Coach jon.baker@maryvillecollege.edu (865) 981-
+
+23. Izzy Pavlak
+   Email: izzy.pavlak@maryvillecollege.edu
+   Username: izzy.pavlak
+   Original line: Izzy Pavlak Assistant Women's Soccer Coach izzy.pavlak@maryvillecollege.edu
+
+24. John LaCava
+   Email: john.lacava@maryvillecollege.edu
+   Username: john.lacava
+   Original line: John LaCava Assistant Soccer Coach john.lacava@maryvillecollege.edu
+
+25. Luke Wheat
+   Email: luke.wheat@maryvillecollege.edu
+   Username: luke.wheat
+   Original line: Luke Wheat Assistant Soccer Coach luke.wheat@maryvillecollege.edu
+
+26. Pepe Fernandez
+   Email: pepe.fernandez@maryvillecollege.edu
+   Username: pepe.fernandez
+   Original line: Pepe Fernandez Head Men's Soccer Coach pepe.fernandez@maryvillecollege.edu (865) 981-
+
+27. Jameson Elmore
+   Email: jameson.elmore@maryvillecollege.edu
+   Username: jameson.elmore
+   Original line: Jameson Elmore Assistant Men's Soccer Coach jameson.elmore@maryvillecollege.edu (865) 981-
+
+28. John LaCava
+   Email: john.lacava@maryvillecollege.edu
+   Username: john.lacava
+   Original line: John LaCava Assistant Soccer Coach john.lacava@maryvillecollege.edu
+
+29. Luke Wheat
+   Email: luke.wheat@maryvillecollege.edu
+   Username: luke.wheat
+   Original line: Luke Wheat Assistant Soccer Coach luke.wheat@maryvillecollege.edu
+
+30. Bayleigh Masterson
+   Email: bayleigh.masterson@maryvillecollege.edu
+   Username: bayleigh.masterson
+   Original line: Bayleigh Masterson Head Softball Coach bayleigh.masterson@maryvillecollege.edu (865) 981-
+
+31. Jenica Brown
+   Email: jenica.brown@maryvillecollege.edu
+   Username: jenica.brown
+   Original line: Jenica Brown Assistant Softball Coach jenica.brown@maryvillecollege.edu (865) 981-
+
+32. Jasmin King
+   Email: jasmin.king@maryvillecollege.edu
+   Username: jasmin.king
+   Original line: Jasmin King Head STUNT Coach jasmin.king@maryvillecollege.edu
+
+33. Josh Elkins
+   Email: josh.elkins@maryvillecollege.edu
+   Username: josh.elkins
+   Original line: Josh Elkins Strength & Conditioning Coach josh.elkins@maryvillecollege.edu (865) 696-
+
+34. Doug Corbett
+   Email: doug.corbett@maryvillecollege.edu
+   Username: doug.corbett
+   Original line: Doug Corbett Head Tennis Coach doug.corbett@maryvillecollege.edu (865) 981-
+
+35. Doug Corbett
+   Email: doug.corbett@maryvillecollege.edu
+   Username: doug.corbett
+   Original line: Doug Corbett Head Tennis Coach doug.corbett@maryvillecollege.edu (865) 981-
+
+36. Hunter Miniard
+   Email: hunter.miniard@maryvillecollege.edu
+   Username: hunter.miniard
+   Original line: Hunter Miniard Assistant Track & Field Coach hunter.miniard@maryvillecollege.edu (865) 981-
+
+37. Kaitlyn Carringer-Adams
+   Email: kaitlyn.carringeradams@maryvillecollege.edu
+   Username: kaitlyn.carringeradams
+   Original line: Kaitlyn Carringer-Adams Head Cross Country/Assistant Track & Field Coach kaitlyn.carringeradams@maryvillecollege.edu
+
+38. Hunter Miniard
+   Email: hunter.miniard@maryvillecollege.edu
+   Username: hunter.miniard
+   Original line: Hunter Miniard Assistant Track & Field Coach hunter.miniard@maryvillecollege.edu (865) 981-
+
+39. Kaitlyn Carringer-Adams
+   Email: kaitlyn.carringeradams@maryvillecollege.edu
+   Username: kaitlyn.carringeradams
+   Original line: Kaitlyn Carringer-Adams Head Cross Country/Assistant Track & Field Coach kaitlyn.carringeradams@maryvillecollege.edu
+
+40. Brienna Laskowski
+   Email: brienna.laskowski@maryvillecollege.edu
+   Username: brienna.laskowski
+   Original line: Brienna Laskowski Head Volleyball Coach brienna.laskowski@maryvillecollege.edu (865) 981-
+
+41. Amii Ingalls
+   Email: amii.ingalls@maryvillecollege.edu
+   Username: amii.ingalls
+   Original line: Amii Ingalls Assistant Volleyball Coach amii.ingalls@maryvillecollege.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Clint Helton Head Baseball Coach clint.helton@maryvillecollege.edu (865) 981-
+• Rocky Mauriello Assistant Baseball Coach / Pitching Coach rocky.mauriello@maryvillecollege.edu
+• Drew Henry Assistant Baseball Coach drew.henry@maryvillecollege.edu
+• Jimmy Reese Assistant Baseball Coach james.reese@maryvillecollege.edu
+• Myles Rasnick Assistant Men's Basketball Coach myles.rasnick@maryvillecollege.edu
+• Jeff McCord Volunteer Coach jeff.mccord@maryvillecollege.edu (865) 981-
+• Darrin Travillian Head Women's Basketball Coach darrin.travillian@maryvillecollege.edu (865) 981-
+• Elsa Eckenrod Assistant Women's Basketball Coach elsa.eckenrod@maryvillecollege.edu
+• Nikki Whaley Head Cheer Coach nikki.whaley@maryvillecollege.edu
+• Kaitlyn Carringer-Adams Head Cross Country/Assistant Track & Field Coach kaitlyn.carringeradams@maryvillecollege.edu
+• Kaitlyn Carringer-Adams Head Cross Country/Assistant Track & Field Coach kaitlyn.carringeradams@maryvillecollege.edu
+• Christen Khym Head Equestrian Coach christen.khym@maryvillecollege.edu
+• Ben Fox Head Football Coach ben.fox@maryvillecollege.edu (865) 981-
+• Scott Brumett Associate Head Football Coach / Defensive Coordinator / scott.brumett@maryvillecollege.edu (865) 981-
+• Jake Flaherty Assistant Football Coach / Special Teams Coordinator / jake.flaherty@maryvillecollege.edu (865) 981-
+• Albert Long-Hill Assistant Football Coach / Defensive Line albert.longhill@maryvillecollege.edu 865-981-
+• David Martin Assistant Football Coach / Recruiting Coordinator / Tight david.martin@maryvillecollege.edu (865) 981-
+• Michael McGuire Assistant Football Coach / Offensive Coord. / Offensive michael.mcguire@maryvillecollege.edu
+• Brian Milan Assistant Football Coach / Defensive Backs brian.milan@maryvillecollege.edu
+• Josh Elkins Strength & Conditioning Coach josh.elkins@maryvillecollege.edu (865) 696-
+• Jesse Lawley Head Women's Golf Coach jesse.lawley@maryvillecollege.edu (256) 613-
+• Jon Baker Head Women's Soccer Coach jon.baker@maryvillecollege.edu (865) 981-
+• Izzy Pavlak Assistant Women's Soccer Coach izzy.pavlak@maryvillecollege.edu
+• John LaCava Assistant Soccer Coach john.lacava@maryvillecollege.edu
+• Luke Wheat Assistant Soccer Coach luke.wheat@maryvillecollege.edu
+• Pepe Fernandez Head Men's Soccer Coach pepe.fernandez@maryvillecollege.edu (865) 981-
+• Jameson Elmore Assistant Men's Soccer Coach jameson.elmore@maryvillecollege.edu (865) 981-
+• John LaCava Assistant Soccer Coach john.lacava@maryvillecollege.edu
+• Luke Wheat Assistant Soccer Coach luke.wheat@maryvillecollege.edu
+• Bayleigh Masterson Head Softball Coach bayleigh.masterson@maryvillecollege.edu (865) 981-
+• Jenica Brown Assistant Softball Coach jenica.brown@maryvillecollege.edu (865) 981-
+• Jasmin King Head STUNT Coach jasmin.king@maryvillecollege.edu
+• Josh Elkins Strength & Conditioning Coach josh.elkins@maryvillecollege.edu (865) 696-
+• Doug Corbett Head Tennis Coach doug.corbett@maryvillecollege.edu (865) 981-
+• Doug Corbett Head Tennis Coach doug.corbett@maryvillecollege.edu (865) 981-
+• Hunter Miniard Assistant Track & Field Coach hunter.miniard@maryvillecollege.edu (865) 981-
+• Kaitlyn Carringer-Adams Head Cross Country/Assistant Track & Field Coach kaitlyn.carringeradams@maryvillecollege.edu
+• Hunter Miniard Assistant Track & Field Coach hunter.miniard@maryvillecollege.edu (865) 981-
+• Kaitlyn Carringer-Adams Head Cross Country/Assistant Track & Field Coach kaitlyn.carringeradams@maryvillecollege.edu
+• Brienna Laskowski Head Volleyball Coach brienna.laskowski@maryvillecollege.edu (865) 981-
+• Amii Ingalls Assistant Volleyball Coach amii.ingalls@maryvillecollege.edu

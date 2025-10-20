@@ -1,0 +1,12 @@
+Vincennes University.pdf :: https://vuathletics.com/staff-directory :: Navigation failed: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://vuathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://vuathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://vuathletics.com/staff-directory?print=true, https://vuathletics.com/staff-directory/print, https://vuathletics.com/staff-directory, https://vuathletics.com/staff-directory/index?print=true, https://vuathletics.com/staff-directory/index/print, https://vuathletics.com/staff-directory/index
+
+Hanover College.pdf :: https://hanoverpanthers.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hanoverpanthers.com/staff-directory/index
+Call log:
+  - navigating to "https://hanoverpanthers.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://hanoverpanthers.com/staff-directory?print=true, https://hanoverpanthers.com/staff-directory/print, https://hanoverpanthers.com/staff-directory, https://hanoverpanthers.com/staff-directory/index?print=true, https://hanoverpanthers.com/staff-directory/index/print, https://hanoverpanthers.com/staff-directory/index
+

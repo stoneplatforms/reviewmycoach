@@ -1,0 +1,101 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:39
+============================================================
+
+Total coaches found: 15
+
+PARSED ENTRIES:
+----------------------------------------
+1. Robin Ramirez
+   Email: robin.ramirez@salem.edu
+   Username: robin.ramirez
+   Original line: Robin Ramirez Head Coach / Deputy Athletic Director robin.ramirez@salem.edu
+
+2. Danielle Dawson
+   Email: danielle.dawson@salem.edu
+   Username: danielle.dawson
+   Original line: Danielle Dawson Head Coach / Assistant Athletic Director danielle.dawson@salem.edu
+
+3. Kelley Coats
+   Email: kelley.coats@salem.edu
+   Username: kelley.coats
+   Original line: Kelley Coats Senior Woman Administrator / Assistant Volleyball Coach / Tiitle IX Coordinator kelley.coats@salem.edu
+
+4. C. Renee
+   Email: renee.foster@salem.edu
+   Username: renee.foster
+   Original line: C. Renee Foster Head Coach renee.foster@salem.edu
+
+5. Lynette Johnson
+   Email: lynette.johnson@salem.edu
+   Username: lynette.johnson
+   Original line: Lynette Johnson Assistant Coach lynette.johnson@salem.edu
+
+6. Danielle Dawson
+   Email: danielle.dawson@salem.edu
+   Username: danielle.dawson
+   Original line: Danielle Dawson Head Coach / Assistant Athletic Director danielle.dawson@salem.edu
+
+7. Robin Ramirez
+   Email: robin.ramirez@salem.edu
+   Username: robin.ramirez
+   Original line: Robin Ramirez Head Coach / Deputy Athletic Director robin.ramirez@salem.edu
+
+8. Ryan Carriker
+   Email: ryan.carriker@salem.edu
+   Username: ryan.carriker
+   Original line: Ryan Carriker Head Coach ryan.carriker@salem.edu
+
+9. Brian Mason
+   Email: brian.mason@salem.edu
+   Username: brian.mason
+   Original line: Brian Mason Associate Head Coach brian.mason@salem.edu
+
+10. Savanah Atkins
+   Email: savanah.atkins@salem.edu
+   Username: savanah.atkins
+   Original line: Savanah Atkins Assistant Coach savanah.atkins@salem.edu
+
+11. Jacob Dyson
+   Email: jacob.dyson@salem.edu
+   Username: jacob.dyson
+   Original line: Jacob Dyson Assistant Coach jacob.dyson@salem.edu
+
+12. Ed Steele
+   Email: ed.steele@salem.edu
+   Username: ed.steele
+   Original line: Ed Steele Head Coach ed.steele@salem.edu
+
+13. Barry Rymer
+   Email: barry.rymer@salem.edu
+   Username: barry.rymer
+   Original line: Barry Rymer Head Coach barry.rymer@salem.edu
+
+14. Kelley Coats
+   Email: kelley.coats@salem.edu
+   Username: kelley.coats
+   Original line: Kelley Coats Senior Woman Administrator / Assistant Volleyball Coach / Tiitle IX Coordinator kelley.coats@salem.edu
+
+15. Lynette Johnson
+   Email: lynette.johnson@salem.edu
+   Username: lynette.johnson
+   Original line: Lynette Johnson Assistant Coach lynette.johnson@salem.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Robin Ramirez Head Coach / Deputy Athletic Director robin.ramirez@salem.edu
+• Danielle Dawson Head Coach / Assistant Athletic Director danielle.dawson@salem.edu
+• Kelley Coats Senior Woman Administrator / Assistant Volleyball Coach / Tiitle IX Coordinator kelley.coats@salem.edu
+• C. Renee Foster Head Coach renee.foster@salem.edu
+• Lynette Johnson Assistant Coach lynette.johnson@salem.edu
+• Danielle Dawson Head Coach / Assistant Athletic Director danielle.dawson@salem.edu
+• Robin Ramirez Head Coach / Deputy Athletic Director robin.ramirez@salem.edu
+• Ryan Carriker Head Coach ryan.carriker@salem.edu
+• Brian Mason Associate Head Coach brian.mason@salem.edu
+• Savanah Atkins Assistant Coach savanah.atkins@salem.edu
+• Jacob Dyson Assistant Coach jacob.dyson@salem.edu
+• Ed Steele Head Coach ed.steele@salem.edu
+• Barry Rymer Head Coach barry.rymer@salem.edu
+• Kelley Coats Senior Woman Administrator / Assistant Volleyball Coach / Tiitle IX Coordinator kelley.coats@salem.edu
+• Lynette Johnson Assistant Coach lynette.johnson@salem.edu

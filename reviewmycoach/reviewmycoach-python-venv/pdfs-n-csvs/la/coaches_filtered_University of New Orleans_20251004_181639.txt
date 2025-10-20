@@ -1,0 +1,83 @@
+COACH ENTRIES FOUND - 2025-10-04 18:16:39
+============================================================
+
+Total coaches found: 12
+
+PARSED ENTRIES:
+----------------------------------------
+1. Andrew Gipson
+   Email: bgipson@uno.edu
+   Username: bgipson
+   Original line: Andrew Gipson Head Coach bgipson@uno.edu
+
+2. Stacy Hollowell
+   Email: shollowe@uno.edu
+   Username: shollowe
+   Original line: Stacy Hollowell Head Coach shollowe@uno.edu stacyhollowell coachstacyhollowell
+
+3. Silvey Dominguez
+   Email: sdoming1@uno.edu
+   Username: sdoming1
+   Original line: Silvey Dominguez Assistant Coach sdoming1@uno.edu SilveyD
+
+4. Javan Felix
+   Email: jfelix1@uno.edu
+   Username: jfelix1
+   Original line: Javan Felix Assistant Coach jfelix1@uno.edu JavanFelix3
+
+5. Trelanne Powell
+   Email: tpowell2@uno.edu
+   Username: tpowell2
+   Original line: Trelanne Powell Head Coach tpowell2@uno.edu (504) Trelanne_Mp trelanne.mp
+
+6. Brittany White
+   Email: bwhite5@uno.edu
+   Username: bwhite5
+   Original line: Brittany White Associate Head bwhite5@uno.edu CoachB_white coachb_white
+
+7. Lonnika Thompson
+   Email: lthomps5@uno.edu
+   Username: lthomps5
+   Original line: Lonnika Thompson Assistant Coach lthomps5@uno.edu coach_l_t coachlt_2
+
+8. Ryan Havice
+   Email: rhavice@uno.edu
+   Username: rhavice
+   Original line: Ryan Havice Head Coach rhavice@uno.edu (504)
+
+9. Jeff Lorio
+   Email: jlorio2@uno.edu
+   Username: jlorio2
+   Original line: Jeff Lorio Head Coach jlorio2@uno.edu (504)
+
+10. Burzis Kanga
+   Email: bkanga@uno.edu
+   Username: bkanga
+   Original line: Burzis Kanga Head Coach bkanga@uno.edu (504)
+
+11. Clayton O'Callaghan
+   Email: cocalla1@uno.edu
+   Username: cocalla1
+   Original line: Clayton O'Callaghan Track and Field / cocalla1@uno.edu (504) _Coach_OC _coach_oc
+
+12. Teagan Symons
+   Email: trsymons@my.uno.edu
+   Username: trsymons
+   Original line: Teagan Symons Assistant Coach trsymons@my.uno.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Andrew Gipson Head Coach bgipson@uno.edu
+• Stacy Hollowell Head Coach shollowe@uno.edu stacyhollowell coachstacyhollowell
+• Silvey Dominguez Assistant Coach sdoming1@uno.edu SilveyD
+• Javan Felix Assistant Coach jfelix1@uno.edu JavanFelix3
+• Trelanne Powell Head Coach tpowell2@uno.edu (504) Trelanne_Mp trelanne.mp
+• Brittany White Associate Head bwhite5@uno.edu CoachB_white coachb_white
+• Lonnika Thompson Assistant Coach lthomps5@uno.edu coach_l_t coachlt_2
+• Ryan Havice Head Coach rhavice@uno.edu (504)
+• Jeff Lorio Head Coach jlorio2@uno.edu (504)
+• Burzis Kanga Head Coach bkanga@uno.edu (504)
+• Clayton O'Callaghan Track and Field / cocalla1@uno.edu (504) _Coach_OC _coach_oc
+• Teagan Symons Assistant Coach trsymons@my.uno.edu

@@ -1,0 +1,77 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:25
+============================================================
+
+Total coaches found: 11
+
+PARSED ENTRIES:
+----------------------------------------
+1. Joe Blackwell
+   Email: Joe.blackwell@swcu.edu
+   Username: Joe.blackwell
+   Original line: Joe Blackwell Head Coach Joe.blackwell@swcu.edu Ext: @SCUBaseball scu_baseball
+
+2. Quinn Wooldridge
+   Email: Quinn.Wooldridge@swcu.edu
+   Username: Quinn.Wooldridge
+   Original line: Quinn Wooldridge Head Coach Quinn.Wooldridge@swcu.edu
+
+3. Ron Moore
+   Email: Ron.Moore@swcu.edu
+   Username: Ron.Moore
+   Original line: Ron Moore Head Coach Ron.Moore@swcu.edu
+
+4. Ron Moore
+   Email: Ron.Moore@swcu.edu
+   Username: Ron.Moore
+   Original line: Ron Moore Head Coach Ron.Moore@swcu.edu
+
+5. Juan De
+   Email: juan.castillo@swcu.edu
+   Username: juan.castillo
+   Original line: Juan De Dios Castillo Head Coach juan.castillo@swcu.edu @DrJuanDDios swcuwomenssoccer
+
+6. Kent Williams
+   Email: kent.williams@swcu.edu
+   Username: kent.williams
+   Original line: Kent Williams Head Coach kent.williams@swcu.edu @SCU_Softball scu_ladyeaglessoftball
+
+7. Matt Parent
+   Email: matt.parent@swcu.edu
+   Username: matt.parent
+   Original line: Matt Parent Head Coach matt.parent@swcu.edu
+
+8. Matt Parent
+   Email: matt.parent@swcu.edu
+   Username: matt.parent
+   Original line: Matt Parent Head Coach matt.parent@swcu.edu
+
+9. Veronica Austin
+   Email: Veronica.austin@swcu.edu
+   Username: Veronica.austin
+   Original line: Veronica Austin Head Coach Veronica.austin@swcu.edu
+
+10. Bryn Chapman
+   Email: Bryn.Chapman@swcu.edu
+   Username: Bryn.Chapman
+   Original line: Bryn Chapman Head Coach Bryn.Chapman@swcu.edu
+
+11. Michael May
+   Email: Michael.May@swcu.edu
+   Username: Michael.May
+   Original line: Michael May Head Coach Michael.May@swcu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Joe Blackwell Head Coach Joe.blackwell@swcu.edu Ext: @SCUBaseball scu_baseball
+• Quinn Wooldridge Head Coach Quinn.Wooldridge@swcu.edu
+• Ron Moore Head Coach Ron.Moore@swcu.edu
+• Ron Moore Head Coach Ron.Moore@swcu.edu
+• Juan De Dios Castillo Head Coach juan.castillo@swcu.edu @DrJuanDDios swcuwomenssoccer
+• Kent Williams Head Coach kent.williams@swcu.edu @SCU_Softball scu_ladyeaglessoftball
+• Matt Parent Head Coach matt.parent@swcu.edu
+• Matt Parent Head Coach matt.parent@swcu.edu
+• Veronica Austin Head Coach Veronica.austin@swcu.edu
+• Bryn Chapman Head Coach Bryn.Chapman@swcu.edu
+• Michael May Head Coach Michael.May@swcu.edu

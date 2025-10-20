@@ -1,0 +1,71 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:08
+============================================================
+
+Total coaches found: 10
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brion Dunlap
+   Email: bdunlap@claflin.edu
+   Username: bdunlap
+   Original line: Brion Dunlap Men's Basketball Head Coach bdunlap@claflin.edu (803) 535-
+
+2. Edward Newton
+   Email: enewton@claflin.edu
+   Username: enewton
+   Original line: Edward Newton Assistant Men's Basketball Coach enewton@claflin.edu (803) 535-
+
+3. Mr. Terrence
+   Email: terrence.jenkins@claflin.edu
+   Username: terrence.jenkins
+   Original line: Mr. Terrence Jenkins Women's Basketball Head Coach terrence.jenkins@claflin.edu 803-535-
+
+4. Mr. Michael
+   Email: mbland@claflin.edu
+   Username: mbland
+   Original line: Mr. Michael Bland Assistant Women's Baketball Coach mbland@claflin.edu 803-535-
+
+5. Ricky Holden
+   Email: rholden@claflin.edu
+   Username: rholden
+   Original line: Ricky Holden Softball Head Coach rholden@claflin.edu (803) 535-
+
+6. Jaelyn Jackson
+   Email: jaejackson@claflin.edu
+   Username: jaejackson
+   Original line: Jaelyn Jackson Assistant Softball Coach jaejackson@claflin.edu (803) 535-
+
+7. Jaylan Bledsoe
+   Email: jbledsoe@claflin.edu
+   Username: jbledsoe
+   Original line: Jaylan Bledsoe Baseball Head Coach jbledsoe@claflin.edu (803) 535-
+
+8. Lauren Calvin
+   Email: lcalvin@claflin.edu
+   Username: lcalvin
+   Original line: Lauren Calvin Volleyball Head Coach lcalvin@claflin.edu (803) 535-
+
+9. Malcolm Watts
+   Email: mawatts@claflin.edu
+   Username: mawatts
+   Original line: Malcolm Watts Track & Field/Cross Country Head Coach mawatts@claflin.edu (803) 535-
+
+10. Markayla Hunter
+   Email: mhunter@claflin.edu
+   Username: mhunter
+   Original line: Markayla Hunter Head Cheerleading Coach mhunter@claflin.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brion Dunlap Men's Basketball Head Coach bdunlap@claflin.edu (803) 535-
+• Edward Newton Assistant Men's Basketball Coach enewton@claflin.edu (803) 535-
+• Mr. Terrence Jenkins Women's Basketball Head Coach terrence.jenkins@claflin.edu 803-535-
+• Mr. Michael Bland Assistant Women's Baketball Coach mbland@claflin.edu 803-535-
+• Ricky Holden Softball Head Coach rholden@claflin.edu (803) 535-
+• Jaelyn Jackson Assistant Softball Coach jaejackson@claflin.edu (803) 535-
+• Jaylan Bledsoe Baseball Head Coach jbledsoe@claflin.edu (803) 535-
+• Lauren Calvin Volleyball Head Coach lcalvin@claflin.edu (803) 535-
+• Malcolm Watts Track & Field/Cross Country Head Coach mawatts@claflin.edu (803) 535-
+• Markayla Hunter Head Cheerleading Coach mhunter@claflin.edu

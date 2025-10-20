@@ -1,0 +1,193 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:19
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Shannon Witzel
+   Email: switzel@spalding.edu
+   Username: switzel
+   Original line: Shannon Witzel Head Women's Lacrosse Coach / Event Operations (Fall, Winter) switzel@spalding.edu (502) 873-
+
+2. Taryn Glass
+   Email: tglass03@spalding.edu
+   Username: tglass03
+   Original line: Taryn Glass Head Volleyball Coach / Event Operations (Winter, Spring) tglass03@spalding.edu (502) 873-
+
+3. Matt Downs
+   Email: mdowns03@spalding.edu
+   Username: mdowns03
+   Original line: Matt Downs '12 Head Baseball Coach mdowns03@spalding.edu (502) 873-
+
+4. Micah Saltzberg
+   Email: msaltzberg@spalding.edu
+   Username: msaltzberg
+   Original line: Micah Saltzberg Assistant Coach/Recruiting Coordinator msaltzberg@spalding.edu
+
+5. Kevin Gray
+   Email: kgray@spalding.edu
+   Username: kgray
+   Original line: Kevin Gray Head Men's Basketball Coach kgray@spalding.edu (502) 585-
+
+6. Tim Gray
+   Email: tgray01@spalding.edu
+   Username: tgray01
+   Original line: Tim Gray Associate Head Coach tgray01@spalding.edu
+
+7. Devonte Carson
+   Email: dcarson@spalding.edu
+   Username: dcarson
+   Original line: Devonte Carson Assistant Coach dcarson@spalding.edu
+
+8. Raven Merriweather
+   Email: rmerriweather@spalding.edu
+   Username: rmerriweather
+   Original line: Raven Merriweather Head Women's Basketball Coach rmerriweather@spalding.edu
+
+9. Stephen Gray
+   Email: sgray02@spalding.edu
+   Username: sgray02
+   Original line: Stephen Gray Head Cross Country and Track & Field Coach sgray02@spalding.edu (502) 873-
+
+10. Crystal Pettigrew
+   Email: cpettigrew@spalding.edu
+   Username: cpettigrew
+   Original line: Crystal Pettigrew Assistant Coach cpettigrew@spalding.edu
+
+11. Peter McGowan
+   Email: pmcgowan@spalding.edu
+   Username: pmcgowan
+   Original line: Peter McGowan Assistant Coach pmcgowan@spalding.edu
+
+12. Jeff Nelson
+   Email: jnelson07@spalding.edu
+   Username: jnelson07
+   Original line: Jeff Nelson Head Coach jnelson07@spalding.edu (502) 821-
+
+13. Jeff Nelson
+   Email: jnelson07@spalding.edu
+   Username: jnelson07
+   Original line: Jeff Nelson Head Coach jnelson07@spalding.edu (502) 821-
+
+14. Kurt Ohlen
+   Email: kohlen@spalding.edu
+   Username: kohlen
+   Original line: Kurt Ohlen Head Men's Lacrosse Coach kohlen@spalding.edu (502) 873-
+
+15. Slater Bender
+   Email: sbender03@spalding.edu
+   Username: sbender03
+   Original line: Slater Bender Assistant Coach sbender03@spalding.edu
+
+16. Shannon Witzel
+   Email: switzel@spalding.edu
+   Username: switzel
+   Original line: Shannon Witzel Head Women's Lacrosse Coach switzel@spalding.edu (502) 873-
+
+17. Diana Bruder
+   Email: dbruder@spalding.edu
+   Username: dbruder
+   Original line: Diana Bruder Assistant Coach dbruder@spalding.edu
+
+18. Darren Yeagle
+   Email: dyeagle@spalding.edu
+   Username: dyeagle
+   Original line: Darren Yeagle Assistant Men's Soccer Coach dyeagle@spalding.edu (502) 873-
+
+19. Jordan Vejar
+   Email: jvejar@spalding.edu
+   Username: jvejar
+   Original line: Jordan Vejar Head Coach jvejar@spalding.edu (812) 786-
+
+20. Emma Dufresne
+   Email: edufresne@spalding.edu
+   Username: edufresne
+   Phone: (864) 622-9303
+   Original line: Emma Dufresne Assistant Coach edufresne@spalding.edu 864-622-9303
+
+21. Bryce Mayden
+   Email: bmayden@spalding.edu
+   Username: bmayden
+   Phone: (812) 987-6066
+   Original line: Bryce Mayden Graduate Assistant Coach bmayden@spalding.edu 812-987-6066
+
+22. Art Williams
+   Email: awilliams@spalding.edu
+   Username: awilliams
+   Original line: Art Williams Head Softball Coach awilliams@spalding.edu (502) 873-
+
+23. Jennifer Grider
+   Email: jfranconia@spalding.edu
+   Username: jfranconia
+   Original line: Jennifer Grider '12 Assistant Softball Coach jfranconia@spalding.edu
+
+24. Stephen Gray
+   Email: sgray02@spalding.edu
+   Username: sgray02
+   Original line: Stephen Gray Head Cross Country and Track & Field Coach sgray02@spalding.edu (502) 873-
+
+25. Crystal Pettigrew
+   Email: cpettigrew@spalding.edu
+   Username: cpettigrew
+   Original line: Crystal Pettigrew Assistant Coach cpettigrew@spalding.edu
+
+26. Eric Garvey
+   Email: egarvey01@spalding.edu
+   Username: egarvey01
+   Original line: Eric Garvey Head Men's Volleyball Coach egarvey01@spalding.edu
+
+27. Taryn Glass
+   Email: tglass03@spalding.edu
+   Username: tglass03
+   Original line: Taryn Glass Head Volleyball Coach tglass03@spalding.edu (502) 873-
+
+28. Janaya Simmons
+   Email: jsimmons03@spalding.edu
+   Username: jsimmons03
+   Original line: Janaya Simmons Assistant Coach jsimmons03@spalding.edu
+
+29. Trevor Johnson
+   Email: tjohnson20@spalding.edu
+   Username: tjohnson20
+   Original line: Trevor Johnson Head Esports Coach tjohnson20@spalding.edu
+
+30. Eric Street
+   Email: estreet@spalding.edu
+   Username: estreet
+   Original line: Eric Street Assistant Coach estreet@spalding.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Shannon Witzel Head Women's Lacrosse Coach / Event Operations (Fall, Winter) switzel@spalding.edu (502) 873-
+• Taryn Glass Head Volleyball Coach / Event Operations (Winter, Spring) tglass03@spalding.edu (502) 873-
+• Matt Downs '12 Head Baseball Coach mdowns03@spalding.edu (502) 873-
+• Micah Saltzberg Assistant Coach/Recruiting Coordinator msaltzberg@spalding.edu
+• Kevin Gray Head Men's Basketball Coach kgray@spalding.edu (502) 585-
+• Tim Gray Associate Head Coach tgray01@spalding.edu
+• Devonte Carson Assistant Coach dcarson@spalding.edu
+• Raven Merriweather Head Women's Basketball Coach rmerriweather@spalding.edu
+• Stephen Gray Head Cross Country and Track & Field Coach sgray02@spalding.edu (502) 873-
+• Crystal Pettigrew Assistant Coach cpettigrew@spalding.edu
+• Peter McGowan Assistant Coach pmcgowan@spalding.edu
+• Jeff Nelson Head Coach jnelson07@spalding.edu (502) 821-
+• Jeff Nelson Head Coach jnelson07@spalding.edu (502) 821-
+• Kurt Ohlen Head Men's Lacrosse Coach kohlen@spalding.edu (502) 873-
+• Slater Bender Assistant Coach sbender03@spalding.edu
+• Shannon Witzel Head Women's Lacrosse Coach switzel@spalding.edu (502) 873-
+• Diana Bruder Assistant Coach dbruder@spalding.edu
+• Darren Yeagle Assistant Men's Soccer Coach dyeagle@spalding.edu (502) 873-
+• Jordan Vejar Head Coach jvejar@spalding.edu (812) 786-
+• Emma Dufresne Assistant Coach edufresne@spalding.edu 864-622-9303
+• Bryce Mayden Graduate Assistant Coach bmayden@spalding.edu 812-987-6066
+• Art Williams Head Softball Coach awilliams@spalding.edu (502) 873-
+• Jennifer Grider '12 Assistant Softball Coach jfranconia@spalding.edu
+• Stephen Gray Head Cross Country and Track & Field Coach sgray02@spalding.edu (502) 873-
+• Crystal Pettigrew Assistant Coach cpettigrew@spalding.edu
+• Eric Garvey Head Men's Volleyball Coach egarvey01@spalding.edu
+• Taryn Glass Head Volleyball Coach tglass03@spalding.edu (502) 873-
+• Janaya Simmons Assistant Coach jsimmons03@spalding.edu
+• Trevor Johnson Head Esports Coach tjohnson20@spalding.edu
+• Eric Street Assistant Coach estreet@spalding.edu

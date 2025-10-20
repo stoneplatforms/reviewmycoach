@@ -1,0 +1,173 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:49
+============================================================
+
+Total coaches found: 27
+
+PARSED ENTRIES:
+----------------------------------------
+1. Laura Watten
+   Email: wattenl@cookman.edu
+   Username: wattenl
+   Original line: Laura Watten Softball Head Coach / Senior Woman 386-481- wattenl@cookman.edu
+
+2. Hunter Anne
+   Email: postierh@cookman.edu
+   Username: postierh
+   Original line: Hunter Anne Postier Assistant Strength Coach postierh@cookman.edu
+
+3. Jonathan Hernandez
+   Email: hernandezj@cookman.edu
+   Username: hernandezj
+   Original line: Jonathan Hernandez Head Coach 386-481- hernandezj@cookman.edu
+
+4. Derek Cartaya
+   Email: cartayad@cookman.edu
+   Username: cartayad
+   Original line: Derek Cartaya Assistant Coach / Recruiting Coordinator cartayad@cookman.edu
+
+5. Joel Sanchez
+   Email: sanchezj@cookman.edu
+   Username: sanchezj
+   Original line: Joel Sanchez Assistant Coach sanchezj@cookman.edu
+
+6. Patrick Eberhart
+   Email: EberhartP@cookman.edu
+   Username: EberhartP
+   Original line: Patrick Eberhart Assistant Coach EberhartP@cookman.edu
+
+7. Billy Garrett
+   Email: garrettw@cookman.edu
+   Username: garrettw
+   Original line: Billy Garrett Assistant Coach garrettw@cookman.edu
+
+8. Richard Grant
+   Email: grantr@cookman.edu
+   Username: grantr
+   Original line: Richard Grant Assistant Coach grantr@cookman.edu
+
+9. Ambrose Mosley
+   Email: mosleyam@cookman.edu
+   Username: mosleyam
+   Original line: Ambrose Mosley Assistant Coach / Director of Operations mosleyam@cookman.edu
+
+10. Janell Crayton
+   Email: craytonj@cookman.edu
+   Username: craytonj
+   Original line: Janell Crayton Del Rosario Head Coach 386-481- craytonj@cookman.edu
+
+11. Erika Harris
+   Email: harriser@cookman.edu
+   Username: harriser
+   Original line: Erika Harris Assistant Coach 386-481- harriser@cookman.edu
+
+12. Ronni Williams
+   Email: williamsron@cookman.edu
+   Username: williamsron
+   Original line: Ronni Williams Assistant Coach 386-481- williamsron@cookman.edu
+
+13. Amber Easter
+   Email: eastera@cookman.edu
+   Username: eastera
+   Original line: Amber Easter Assistant Coach 386-481- eastera@cookman.edu
+
+14. Keyana Mattox
+   Email: brownke@cookman.edu
+   Username: brownke
+   Original line: Keyana Mattox Assistant Coach / Director of Operations 386-481- brownke@cookman.edu
+
+15. LaToya Kemp
+   Email: KempL@cookman.edu
+   Username: KempL
+   Original line: LaToya Kemp Head Coach KempL@cookman.edu
+
+16. Donte’ Pimpleton
+   Email: pimpleton@cookman.edu
+   Username: pimpleton
+   Original line: Donte’ Pimpleton Asst. Head Coach / Offensive Coord. / QBs pimpleton@cookman.edu
+
+17. Christopher Stokes
+   Email: stokesc@cookman.edu
+   Username: stokesc
+   Original line: Christopher Stokes Head Coach stokesc@cookman.edu
+
+18. Laura Watten
+   Email: wattenl@cookman.edu
+   Username: wattenl
+   Original line: Laura Watten Softball Head Coach / Senior Woman 386-481- wattenl@cookman.edu
+
+19. Jaimie Hoover
+   Email: hooverj@cookman.edu
+   Username: hooverj
+   Original line: Jaimie Hoover Assistant Coach hooverj@cookman.edu
+
+20. Chris Wollett
+   Email: wollettc@cookman.edu
+   Username: wollettc
+   Original line: Chris Wollett Head Coach 386-481- wollettc@cookman.edu
+
+21. Courtney Walker
+   Email: Walkerc@cookman.edu
+   Username: Walkerc
+   Original line: Courtney Walker Associate Head Coach / Jumps 386-481- Walkerc@cookman.edu
+
+22. Jalilisa Marcus
+   Email: marcusj@cookman.edu
+   Username: marcusj
+   Original line: Jalilisa Marcus Assistant Coach / Women's Sprints & Relays marcusj@cookman.edu
+
+23. Carlin Berryhill
+   Email: berryhillc@cookman.edu
+   Username: berryhillc
+   Original line: Carlin Berryhill Assistant Coach / Distance / Cross Country berryhillc@cookman.edu
+
+24. Clive Terrelonge
+   Email: terrelongec@cookman.edu
+   Username: terrelongec
+   Original line: Clive Terrelonge Assistant Coach / Multis terrelongec@cookman.edu
+
+25. Cory McKinney
+   Email: mckinneyc@cookman.edu
+   Username: mckinneyc
+   Original line: Cory McKinney Assistant Coach / Throws mckinneyc@cookman.edu
+
+26. Brittany Williams
+   Email: williamsb@cookman.edu
+   Username: williamsb
+   Original line: Brittany Williams Head Coach 386-481- williamsb@cookman.edu
+
+27. Rachel Henderson
+   Email: hendersonr@cookman.edu
+   Username: hendersonr
+   Original line: Rachel Henderson Assistant Coach hendersonr@cookman.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Laura Watten Softball Head Coach / Senior Woman 386-481- wattenl@cookman.edu
+• Hunter Anne Postier Assistant Strength Coach postierh@cookman.edu
+• Jonathan Hernandez Head Coach 386-481- hernandezj@cookman.edu
+• Derek Cartaya Assistant Coach / Recruiting Coordinator cartayad@cookman.edu
+• Joel Sanchez Assistant Coach sanchezj@cookman.edu
+• Patrick Eberhart Assistant Coach EberhartP@cookman.edu
+• Billy Garrett Assistant Coach garrettw@cookman.edu
+• Richard Grant Assistant Coach grantr@cookman.edu
+• Ambrose Mosley Assistant Coach / Director of Operations mosleyam@cookman.edu
+• Janell Crayton Del Rosario Head Coach 386-481- craytonj@cookman.edu
+• Erika Harris Assistant Coach 386-481- harriser@cookman.edu
+• Ronni Williams Assistant Coach 386-481- williamsron@cookman.edu
+• Amber Easter Assistant Coach 386-481- eastera@cookman.edu
+• Keyana Mattox Assistant Coach / Director of Operations 386-481- brownke@cookman.edu
+• LaToya Kemp Head Coach KempL@cookman.edu
+• Donte’ Pimpleton Asst. Head Coach / Offensive Coord. / QBs pimpleton@cookman.edu
+• Christopher Stokes Head Coach stokesc@cookman.edu
+• Laura Watten Softball Head Coach / Senior Woman 386-481- wattenl@cookman.edu
+• Jaimie Hoover Assistant Coach hooverj@cookman.edu
+• Chris Wollett Head Coach 386-481- wollettc@cookman.edu
+• Courtney Walker Associate Head Coach / Jumps 386-481- Walkerc@cookman.edu
+• Jalilisa Marcus Assistant Coach / Women's Sprints & Relays marcusj@cookman.edu
+• Carlin Berryhill Assistant Coach / Distance / Cross Country berryhillc@cookman.edu
+• Clive Terrelonge Assistant Coach / Multis terrelongec@cookman.edu
+• Cory McKinney Assistant Coach / Throws mckinneyc@cookman.edu
+• Brittany Williams Head Coach 386-481- williamsb@cookman.edu
+• Rachel Henderson Assistant Coach hendersonr@cookman.edu

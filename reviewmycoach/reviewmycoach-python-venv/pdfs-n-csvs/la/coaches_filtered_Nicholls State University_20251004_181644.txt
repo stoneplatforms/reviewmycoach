@@ -1,0 +1,113 @@
+COACH ENTRIES FOUND - 2025-10-04 18:16:44
+============================================================
+
+Total coaches found: 17
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jordy Champagne
+   Email: jordy.champagne@nicholls.edu
+   Username: jordy.champagne
+   Original line: Jordy Champagne Assistant Strength and Conditioning Coach jordy.champagne@nicholls.edu
+
+2. Justin Payne
+   Email: justin.payne@nicholls.edu
+   Username: justin.payne
+   Original line: Justin Payne Head Coach justin.payne@nicholls.edu
+
+3. Nicholas Graham
+   Email: nick.graham@nicholls.edu
+   Username: nick.graham
+   Original line: Nicholas Graham Assistant Coach nick.graham@nicholls.edu
+
+4. Tykeria Williams
+   Email: tykeria.williams@nicholls.edu
+   Username: tykeria.williams
+   Original line: Tykeria Williams Assistant Coach tykeria.williams@nicholls.edu
+
+5. Jada Terry
+   Email: jada.terry@nicholls.edu
+   Username: jada.terry
+   Original line: Jada Terry Assistant Coach jada.terry@nicholls.edu
+
+6. Jordy Champagne
+   Email: jordy.champagne@nicholls.edu
+   Username: jordy.champagne
+   Original line: Jordy Champagne Assistant Strength and Conditioning Coach jordy.champagne@nicholls.edu
+
+7. James Schilling
+   Email: james.schilling@nicholls.edu
+   Username: james.schilling
+   Original line: James Schilling Head Coach james.schilling@nicholls.edu
+
+8. Kristy Helmers
+   Email: kristy.helmers@nicholls.edu
+   Username: kristy.helmers
+   Original line: Kristy Helmers Head Coach kristy.helmers@nicholls.edu
+
+9. Brady Schlesman
+   Email: brady.schlesman@nicholls.edu
+   Username: brady.schlesman
+   Original line: Brady Schlesman Associate Head Coach brady.schlesman@nicholls.edu
+
+10. Ron Frost
+   Email: ron.frost@nicholls.edu
+   Username: ron.frost
+   Original line: Ron Frost Head Coach ron.frost@nicholls.edu
+
+11. Nicole Pinney
+   Email: nicole.pinney@nicholls.edu
+   Username: nicole.pinney
+   Original line: Nicole Pinney Assistant Coach nicole.pinney@nicholls.edu
+
+12. Apdiel Vazquez
+   Email: apdiel.vazquez@nicholls.edu
+   Username: apdiel.vazquez
+   Original line: Apdiel Vazquez Assistant Coach apdiel.vazquez@nicholls.edu
+
+13. Kaitlin Canzoneri
+   Email: kaitlin.canzoneri@nicholls.edu
+   Username: kaitlin.canzoneri
+   Original line: Kaitlin Canzoneri Interim Head Coach kaitlin.canzoneri@nicholls.edu
+
+14. Stefanie Slekis
+   Email: stefanie.slekis@nicholls.edu
+   Username: stefanie.slekis
+   Original line: Stefanie Slekis Head Track & Field/Cross Country Coach stefanie.slekis@nicholls.edu (985) 449-
+
+15. Dustin Wager
+   Email: dwager@nicholls.edu
+   Username: dwager
+   Original line: Dustin Wager Assistant Coach dwager@nicholls.edu
+
+16. Jonea Rima
+   Email: jonea.rima@nicholls.edu
+   Username: jonea.rima
+   Original line: Jonea Rima Head Coach jonea.rima@nicholls.edu (985) 448-
+
+17. Isabel Almendarez
+   Email: isabel.almendarez@nicholls.edu
+   Username: isabel.almendarez
+   Original line: Isabel Almendarez Assistant Coach isabel.almendarez@nicholls.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jordy Champagne Assistant Strength and Conditioning Coach jordy.champagne@nicholls.edu
+• Justin Payne Head Coach justin.payne@nicholls.edu
+• Nicholas Graham Assistant Coach nick.graham@nicholls.edu
+• Tykeria Williams Assistant Coach tykeria.williams@nicholls.edu
+• Jada Terry Assistant Coach jada.terry@nicholls.edu
+• Jordy Champagne Assistant Strength and Conditioning Coach jordy.champagne@nicholls.edu
+• James Schilling Head Coach james.schilling@nicholls.edu
+• Kristy Helmers Head Coach kristy.helmers@nicholls.edu
+• Brady Schlesman Associate Head Coach brady.schlesman@nicholls.edu
+• Ron Frost Head Coach ron.frost@nicholls.edu
+• Nicole Pinney Assistant Coach nicole.pinney@nicholls.edu
+• Apdiel Vazquez Assistant Coach apdiel.vazquez@nicholls.edu
+• Kaitlin Canzoneri Interim Head Coach kaitlin.canzoneri@nicholls.edu
+• Stefanie Slekis Head Track & Field/Cross Country Coach stefanie.slekis@nicholls.edu (985) 449-
+• Dustin Wager Assistant Coach dwager@nicholls.edu
+• Jonea Rima Head Coach jonea.rima@nicholls.edu (985) 448-
+• Isabel Almendarez Assistant Coach isabel.almendarez@nicholls.edu

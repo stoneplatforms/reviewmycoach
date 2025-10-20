@@ -1,0 +1,369 @@
+COACH ENTRIES FOUND - 2025-10-19 03:59:49
+============================================================
+
+Total coaches found: 53
+
+PARSED ENTRIES:
+----------------------------------------
+1. Will Martin
+   Email: wmarti19@uwyo.edu
+   Username: wmarti19
+   Original line: Will Martin Assistant Coach wmarti19@uwyo.edu TBD
+
+2. Chris McMillian
+   Email: cmcmill1@uwyo.edu
+   Username: cmcmill1
+   Original line: Chris McMillian Assistant Coach cmcmill1@uwyo.edu TBD
+
+3. Nic Reynolds
+   Email: nreynol4@uwyo.edu
+   Username: nreynol4
+   Phone: (307) 766-5116
+   Original line: Nic Reynolds Assistant Coach nreynol4@uwyo.edu (307) 766-5116
+
+4. Chris Thomas
+   Email: cthoma56@uwyo.edu
+   Username: cthoma56
+   Original line: Chris Thomas Assistant Coach cthoma56@uwyo.edu TBD
+
+5. Nick Whitmore
+   Email: nwhitmor@uwyo.edu
+   Username: nwhitmor
+   Phone: (307) 766-5114
+   Original line: Nick Whitmore Assistant Coach nwhitmor@uwyo.edu (307) 766-5114
+
+6. Jimmy Edel
+   Email: jedel@uwyo.edu
+   Username: jedel
+   Phone: (307) 766-5585
+   Original line: Jimmy Edel Sports Performance Coach - Men's jedel@uwyo.edu (307) 766-5585
+
+7. Natalie Baker
+   Email: nbaker5@uwyo.edu
+   Username: nbaker5
+   Phone: (307) 766-3715
+   Original line: Natalie Baker Assistant Coach nbaker5@uwyo.edu (307) 766-3715
+
+8. Taylor Ignoto
+   Email: tignoto@uwyo.edu
+   Username: tignoto
+   Phone: (307) 766-3715
+   Original line: Taylor Ignoto Assistant Coach tignoto@uwyo.edu (307) 766-3715
+
+9. Fallon Lewis
+   Email: flewis2@uwyo.edu
+   Username: flewis2
+   Phone: (307) 766-3715
+   Original line: Fallon Lewis Assistant Coach flewis2@uwyo.edu (307) 766-3715
+
+10. Candace Thornton
+   Email: cthornt4@uwyo.edu
+   Username: cthornt4
+   Phone: (307) 766-3715
+   Original line: Candace Thornton Assistant Coach cthornt4@uwyo.edu (307) 766-3715
+
+11. Monica Brooks
+   Email: mbrook10@uwyo.edu
+   Username: mbrook10
+   Phone: (307) 766-3715
+   Original line: Monica Brooks Assistant Coach/Director of Operations mbrook10@uwyo.edu (307) 766-3715
+
+12. Marquelle Dent
+   Email: mdent2@uwyo.edu
+   Username: mdent2
+   Phone: (307) 766-3715
+   Original line: Marquelle Dent Special Assistant to the Head Coach mdent2@uwyo.edu (307) 766-3715
+
+13. Jay Sawvel
+   Email: hdalles@uwyo.edu
+   Username: hdalles
+   Phone: (307) 766-3155
+   Original line: Jay Sawvel Head Coach hdalles@uwyo.edu (307) 766-3155
+
+14. Bryce Missey
+   Email: bmissey@uwyo.edu
+   Username: bmissey
+   Phone: (307) 766-3155
+   Original line: Bryce Missey Assistant Quarterbacks Coach bmissey@uwyo.edu (307) 766-3155
+
+15. Joe Jensen
+   Email: joej@uwyo.edu
+   Username: joej
+   Phone: (307) 760-9117
+   Original line: Joe Jensen Head Men’s Golf Coach/Director of Jacoby joej@uwyo.edu (307) 760-9117
+
+16. Josey Stender
+   Email: jstender@uwyo.edu
+   Username: jstender
+   Phone: (307) 760-0332
+   Original line: Josey Stender Head Women’s Golf Coach jstender@uwyo.edu (307) 760-0332
+
+17. Blake Isakson
+   Email: bisakso1@uwyo.edu
+   Username: bisakso1
+   Phone: (602) 456-9616
+   Original line: Blake Isakson Assistant Coach bisakso1@uwyo.edu (602) 456-9616
+
+18. Seth Glause
+   Email: sglause@uwyo.edu
+   Username: sglause
+   Phone: (307) 766-2240
+   Original line: Seth Glause Head Coach sglause@uwyo.edu (307) 766-2240
+
+19. Jacey Hupp
+   Email: jhupp@uwyo.edu
+   Username: jhupp
+   Phone: (605) 353-5955
+   Original line: Jacey Hupp Assistant Coach jhupp@uwyo.edu (605) 353-5955
+
+20. Josh Purdum
+   Email: jpurdum1@uwyo.edu
+   Username: jpurdum1
+   Phone: (307) 766-4035
+   Original line: Josh Purdum Head Coach jpurdum1@uwyo.edu (307) 766-4035
+
+21. Rachael Doyle-Guetlein
+   Email: rdoylegu@uwyo.edu
+   Username: rdoylegu
+   Phone: (307) 766-4035
+   Original line: Rachael Doyle-Guetlein Associate Head Coach rdoylegu@uwyo.edu (307) 766-4035
+
+22. Sydney Drinkwater
+   Email: sdrinkwa@uwyo.edu
+   Username: sdrinkwa
+   Phone: (307) 766-4035
+   Original line: Sydney Drinkwater Assistant Coach sdrinkwa@uwyo.edu (307) 766-4035
+
+23. Taylor Russow
+   Email: tburton6@uwyo.edu
+   Username: tburton6
+   Phone: (307) 766-4035
+   Original line: Taylor Russow Assistant Coach tburton6@uwyo.edu (307) 766-4035
+
+24. Victor Evans
+   Email: vevans6@uwyo.edu
+   Username: vevans6
+   Original line: Victor Evans Associate Sports Performance Coach for vevans6@uwyo.edu TBD
+
+25. Robert Marco
+   Email: rmarco@uwyo.edu
+   Username: rmarco
+   Original line: Robert Marco Associate Sports Performance Coach for rmarco@uwyo.edu TBD
+
+26. Gaines Jordan
+   Email: ajorda17@uwyo.edu
+   Username: ajorda17
+   Original line: Gaines Jordan Assistant Sports Performance Coach for ajorda17@uwyo.edu TBD
+
+27. Adam Lange
+   Email: alange4@uwyo.edu
+   Username: alange4
+   Original line: Adam Lange Assistant Sports Performance Coach for alange4@uwyo.edu TBD
+
+28. Jimmy Edel
+   Email: jedel@uwyo.edu
+   Username: jedel
+   Phone: (307) 766-5585
+   Original line: Jimmy Edel Sports Performance Coach - Men's jedel@uwyo.edu (307) 766-5585
+
+29. Julia Korklewski
+   Email: jkorklew@uwyo.edu
+   Username: jkorklew
+   Original line: Julia Korklewski Assistant Sports Performance Coach jkorklew@uwyo.edu
+
+30. Josh Little
+   Email: jlittl16@uwyo.edu
+   Username: jlittl16
+   Phone: (307) 766-5585
+   Original line: Josh Little Assistant Sports Performance Coach - Track jlittl16@uwyo.edu (307) 766-5585
+
+31. Austin Pfeffer
+   Email: apfeffer@uwyo.edu
+   Username: apfeffer
+   Phone: (307) 766-5585
+   Original line: Austin Pfeffer Assistant Sports Performance Coach - Golf & apfeffer@uwyo.edu (307) 766-5585
+
+32. Dave Denniston
+   Email: ddennist@uwyo.edu
+   Username: ddennist
+   Phone: (303) 517-6450
+   Original line: Dave Denniston Head Coach ddennist@uwyo.edu (303) 517-6450
+
+33. Mark Murdock
+   Email: mmurdoc4@uwyo.edu
+   Username: mmurdoc4
+   Phone: (970) 673-2708
+   Original line: Mark Murdock Head Diving Coach mmurdoc4@uwyo.edu (970) 673-2708
+
+34. Sydney Buckley-Murdock
+   Email: sbuckle5@uwyo.edu
+   Username: sbuckle5
+   Original line: Sydney Buckley-Murdock Assistant Coach sbuckle5@uwyo.edu
+
+35. Jonathan Reeder
+   Email: jreeder4@uwyo.edu
+   Username: jreeder4
+   Original line: Jonathan Reeder Assistant Coach/Men's Recruiting jreeder4@uwyo.edu
+
+36. Kellen Chadderdon
+   Email: kchadder@uwyo.edu
+   Username: kchadder
+   Original line: Kellen Chadderdon Assistant Coach/Director of Operations kchadder@uwyo.edu
+
+37. Dean Clower
+   Email: eclower@uwyo.edu
+   Username: eclower
+   Phone: (307) 760-6199
+   Original line: Dean Clower Head Coach eclower@uwyo.edu (307) 760-6199
+
+38. Julie Gonzalez
+   Email: jgonza29@uwyo.edu
+   Username: jgonza29
+   Phone: (919) 432-7512
+   Original line: Julie Gonzalez Associate Head Coach jgonza29@uwyo.edu (919) 432-7512
+
+39. Philippe Zehender
+   Email: pzehende@uwyo.edu
+   Username: pzehende
+   Original line: Philippe Zehender Assistant Coach pzehende@uwyo.edu
+
+40. Bryan Berryhill
+   Email: bberryhi@uwyo.edu
+   Username: bberryhi
+   Phone: (307) 766-5114
+   Original line: Bryan Berryhill Head Track and Field Coach - Middle bberryhi@uwyo.edu (307) 766-5114
+
+41. Quincy Howe
+   Email: qhowe13@uwyo.edu
+   Username: qhowe13
+   Phone: (307) 766-5114
+   Original line: Quincy Howe Associate Head Coach - Jumps qhowe13@uwyo.edu (307) 766-5114
+
+42. Scott Dahlberg
+   Email: sdahlbe2@uwyo.edu
+   Username: sdahlbe2
+   Phone: (307) 766-5114
+   Original line: Scott Dahlberg Head Cross Country Coach sdahlbe2@uwyo.edu (307) 766-5114
+
+43. Paul Barrett
+   Email: pbarrett@uwyo.edu
+   Username: pbarrett
+   Phone: (307) 766-5114
+   Original line: Paul Barrett Assistant Coach - Throws pbarrett@uwyo.edu (307) 766-5114
+
+44. Oisin O'Gailin
+   Email: oogailin@uwyo.edu
+   Username: oogailin
+   Phone: (307) 766-5114
+   Original line: Oisin O'Gailin Assistant Coach - Cross Country/Distance oogailin@uwyo.edu (307) 766-5114
+
+45. Ben Santos
+   Email: bsantos3@uwyo.edu
+   Username: bsantos3
+   Phone: (307) 766-5114
+   Original line: Ben Santos Assistant Coach - Sprints/Hurdles bsantos3@uwyo.edu (307) 766-5114
+
+46. Kaylee Prigge
+   Email: kkoetter@uwyo.edu
+   Username: kkoetter
+   Phone: (307) 766-3715
+   Original line: Kaylee Prigge Head Coach kkoetter@uwyo.edu (307) 766-3715
+
+47. Becky Baker
+   Email: rstewar6@uwyo.edu
+   Username: rstewar6
+   Phone: (307) 766-3715
+   Original line: Becky Baker Associate Head Coach rstewar6@uwyo.edu (307) 766-3715
+
+48. Justin Dueck
+   Email: jdueck@uwyo.edu
+   Username: jdueck
+   Phone: (307) 766-3715
+   Original line: Justin Dueck Assistant Coach/Recruiting Coordinator jdueck@uwyo.edu (307) 766-3715
+
+49. Elly Frierson
+   Email: efrierso@uwyo.edu
+   Username: efrierso
+   Phone: (307) 766-6987
+   Original line: Elly Frierson Assistant Coach/Director of Operations efrierso@uwyo.edu (307) 766-6987
+
+50. Mark Branch
+   Email: mbranch@uwyo.edu
+   Username: mbranch
+   Phone: (307) 766-5382
+   Original line: Mark Branch Head Coach mbranch@uwyo.edu (307) 766-5382
+
+51. McCade Ford
+   Email: mford8@uwyo.edu
+   Username: mford8
+   Phone: (307) 766-3908
+   Original line: McCade Ford Associate Head Coach mford8@uwyo.edu (307) 766-3908
+
+52. Branson Ashworth
+   Email: bashwort@uwyo.edu
+   Username: bashwort
+   Phone: (307) 766-3908
+   Original line: Branson Ashworth Assistant Coach bashwort@uwyo.edu (307) 766-3908
+
+53. Josh Heil
+   Email: jheil4@uwyo.edu
+   Username: jheil4
+   Original line: Josh Heil Assistant Coach jheil4@uwyo.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Will Martin Assistant Coach wmarti19@uwyo.edu TBD
+• Chris McMillian Assistant Coach cmcmill1@uwyo.edu TBD
+• Nic Reynolds Assistant Coach nreynol4@uwyo.edu (307) 766-5116
+• Chris Thomas Assistant Coach cthoma56@uwyo.edu TBD
+• Nick Whitmore Assistant Coach nwhitmor@uwyo.edu (307) 766-5114
+• Jimmy Edel Sports Performance Coach - Men's jedel@uwyo.edu (307) 766-5585
+• Natalie Baker Assistant Coach nbaker5@uwyo.edu (307) 766-3715
+• Taylor Ignoto Assistant Coach tignoto@uwyo.edu (307) 766-3715
+• Fallon Lewis Assistant Coach flewis2@uwyo.edu (307) 766-3715
+• Candace Thornton Assistant Coach cthornt4@uwyo.edu (307) 766-3715
+• Monica Brooks Assistant Coach/Director of Operations mbrook10@uwyo.edu (307) 766-3715
+• Marquelle Dent Special Assistant to the Head Coach mdent2@uwyo.edu (307) 766-3715
+• Jay Sawvel Head Coach hdalles@uwyo.edu (307) 766-3155
+• Bryce Missey Assistant Quarterbacks Coach bmissey@uwyo.edu (307) 766-3155
+• Joe Jensen Head Men’s Golf Coach/Director of Jacoby joej@uwyo.edu (307) 760-9117
+• Josey Stender Head Women’s Golf Coach jstender@uwyo.edu (307) 760-0332
+• Blake Isakson Assistant Coach bisakso1@uwyo.edu (602) 456-9616
+• Seth Glause Head Coach sglause@uwyo.edu (307) 766-2240
+• Jacey Hupp Assistant Coach jhupp@uwyo.edu (605) 353-5955
+• Josh Purdum Head Coach jpurdum1@uwyo.edu (307) 766-4035
+• Rachael Doyle-Guetlein Associate Head Coach rdoylegu@uwyo.edu (307) 766-4035
+• Sydney Drinkwater Assistant Coach sdrinkwa@uwyo.edu (307) 766-4035
+• Taylor Russow Assistant Coach tburton6@uwyo.edu (307) 766-4035
+• Victor Evans Associate Sports Performance Coach for vevans6@uwyo.edu TBD
+• Robert Marco Associate Sports Performance Coach for rmarco@uwyo.edu TBD
+• Gaines Jordan Assistant Sports Performance Coach for ajorda17@uwyo.edu TBD
+• Adam Lange Assistant Sports Performance Coach for alange4@uwyo.edu TBD
+• Jimmy Edel Sports Performance Coach - Men's jedel@uwyo.edu (307) 766-5585
+• Julia Korklewski Assistant Sports Performance Coach jkorklew@uwyo.edu
+• Josh Little Assistant Sports Performance Coach - Track jlittl16@uwyo.edu (307) 766-5585
+• Austin Pfeffer Assistant Sports Performance Coach - Golf & apfeffer@uwyo.edu (307) 766-5585
+• Dave Denniston Head Coach ddennist@uwyo.edu (303) 517-6450
+• Mark Murdock Head Diving Coach mmurdoc4@uwyo.edu (970) 673-2708
+• Sydney Buckley-Murdock Assistant Coach sbuckle5@uwyo.edu
+• Jonathan Reeder Assistant Coach/Men's Recruiting jreeder4@uwyo.edu
+• Kellen Chadderdon Assistant Coach/Director of Operations kchadder@uwyo.edu
+• Dean Clower Head Coach eclower@uwyo.edu (307) 760-6199
+• Julie Gonzalez Associate Head Coach jgonza29@uwyo.edu (919) 432-7512
+• Philippe Zehender Assistant Coach pzehende@uwyo.edu
+• Bryan Berryhill Head Track and Field Coach - Middle bberryhi@uwyo.edu (307) 766-5114
+• Quincy Howe Associate Head Coach - Jumps qhowe13@uwyo.edu (307) 766-5114
+• Scott Dahlberg Head Cross Country Coach sdahlbe2@uwyo.edu (307) 766-5114
+• Paul Barrett Assistant Coach - Throws pbarrett@uwyo.edu (307) 766-5114
+• Oisin O'Gailin Assistant Coach - Cross Country/Distance oogailin@uwyo.edu (307) 766-5114
+• Ben Santos Assistant Coach - Sprints/Hurdles bsantos3@uwyo.edu (307) 766-5114
+• Kaylee Prigge Head Coach kkoetter@uwyo.edu (307) 766-3715
+• Becky Baker Associate Head Coach rstewar6@uwyo.edu (307) 766-3715
+• Justin Dueck Assistant Coach/Recruiting Coordinator jdueck@uwyo.edu (307) 766-3715
+• Elly Frierson Assistant Coach/Director of Operations efrierso@uwyo.edu (307) 766-6987
+• Mark Branch Head Coach mbranch@uwyo.edu (307) 766-5382
+• McCade Ford Associate Head Coach mford8@uwyo.edu (307) 766-3908
+• Branson Ashworth Assistant Coach bashwort@uwyo.edu (307) 766-3908
+• Josh Heil Assistant Coach jheil4@uwyo.edu

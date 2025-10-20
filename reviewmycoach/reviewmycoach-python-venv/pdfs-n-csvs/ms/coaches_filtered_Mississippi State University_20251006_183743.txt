@@ -1,0 +1,131 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:45
+============================================================
+
+Total coaches found: 20
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Baseball
+   Email: hailstatebaseball@athletics.msstate.edu
+   Username: hailstatebaseball
+   Original line: Head Baseball Coach hailstatebaseball@athletics.msstate.edu
+
+2. Associate Head
+   Email: hailstatebaseball@athletics.msstate.edu
+   Username: hailstatebaseball
+   Original line: Associate Head Baseball Coach hailstatebaseball@athletics.msstate.edu
+
+3. Assistant Baseball
+   Email: hailstatebaseball@athletics.msstate.edu
+   Username: hailstatebaseball
+   Original line: Assistant Baseball Coach hailstatebaseball@athletics.msstate.edu
+
+4. Assistant Baseball
+   Email: hailstatebaseball@athletics.msstate.edu
+   Username: hailstatebaseball
+   Original line: Assistant Baseball Coach hailstatebaseball@athletics.msstate.edu
+
+5. Executive Assistant
+   Email: shulme@athletics.msstate.edu
+   Username: shulme
+   Original line: Executive Assistant to the Head Football Coach shulme@athletics.msstate.edu
+
+6. Head Men's
+   Email: dsmith@athletics.msstate.edu
+   Username: dsmith
+   Original line: Head Men's Golf Coach dsmith@athletics.msstate.edu
+
+7. Head Women's
+   Email: cewing@athletics.msstate.edu
+   Username: cewing
+   Original line: Head Women's Golf Coach cewing@athletics.msstate.edu
+
+8. Head Soccer
+   Email: nzimmerman@athletics.msstate.edu
+   Username: nzimmerman
+   Original line: Head Soccer Coach nzimmerman@athletics.msstate.edu
+
+9. Associate Head
+   Email: jgarbar@athletics.msstate.edu
+   Username: jgarbar
+   Original line: Associate Head Soccer Coach jgarbar@athletics.msstate.edu
+
+10. Assistant Soccer
+   Email: kstratton@athletics.msstate.edu
+   Username: kstratton
+   Original line: Assistant Soccer Coach kstratton@athletics.msstate.edu
+
+11. Assistant Soccer
+   Email: hzapata@athletics.msstate.edu
+   Username: hzapata
+   Original line: Assistant Soccer Coach / Recruiting Coordinator hzapata@athletics.msstate.edu
+
+12.  
+   Email: coachricketts@athletics.msstate.edu
+   Username: coachricketts
+   Original line: coachricketts@athletics.msstate.edu Full Bio
+
+13. Head Men's
+   Email: mroberts@athletics.msstate.edu
+   Username: mroberts
+   Original line: Head Men's Tennis Coach mroberts@athletics.msstate.edu
+
+14. Assistant Men's
+   Email: tgotkowski@athletics.msstate.edu
+   Username: tgotkowski
+   Original line: Assistant Men's Tennis Coach tgotkowski@athletics.msstate.edu
+
+15. Head Women's
+   Email: chooshyar@athletics.msstate.edu
+   Username: chooshyar
+   Original line: Head Women's Tennis Coach chooshyar@athletics.msstate.edu
+
+16. Assistant Women's
+   Email: trusso@athletics.msstate.edu
+   Username: trusso
+   Original line: Assistant Women's Tennis Coach trusso@athletics.msstate.edu
+
+17. Assistant Women's
+   Email: ntippen@athletics.msstate.edu
+   Username: ntippen
+   Original line: Assistant Women's Tennis Coach ntippen@athletics.msstate.edu
+
+18. Head Track
+   Email: cwoods@athletics.msstate.edu
+   Username: cwoods
+   Original line: Head Track & Field Coach cwoods@athletics.msstate.edu
+
+19. Associate Head
+   Email: athomas@athletics.msstate.edu
+   Username: athomas
+   Original line: Associate Head Track & Field Coach athomas@athletics.msstate.edu
+
+20. Associate Head
+   Email: clyles@athletics.msstate.edu
+   Username: clyles
+   Original line: Associate Head Track & Field Coach clyles@athletics.msstate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Baseball Coach hailstatebaseball@athletics.msstate.edu
+• Associate Head Baseball Coach hailstatebaseball@athletics.msstate.edu
+• Assistant Baseball Coach hailstatebaseball@athletics.msstate.edu
+• Assistant Baseball Coach hailstatebaseball@athletics.msstate.edu
+• Executive Assistant to the Head Football Coach shulme@athletics.msstate.edu
+• Head Men's Golf Coach dsmith@athletics.msstate.edu
+• Head Women's Golf Coach cewing@athletics.msstate.edu
+• Head Soccer Coach nzimmerman@athletics.msstate.edu
+• Associate Head Soccer Coach jgarbar@athletics.msstate.edu
+• Assistant Soccer Coach kstratton@athletics.msstate.edu
+• Assistant Soccer Coach / Recruiting Coordinator hzapata@athletics.msstate.edu
+• coachricketts@athletics.msstate.edu Full Bio
+• Head Men's Tennis Coach mroberts@athletics.msstate.edu
+• Assistant Men's Tennis Coach tgotkowski@athletics.msstate.edu
+• Head Women's Tennis Coach chooshyar@athletics.msstate.edu
+• Assistant Women's Tennis Coach trusso@athletics.msstate.edu
+• Assistant Women's Tennis Coach ntippen@athletics.msstate.edu
+• Head Track & Field Coach cwoods@athletics.msstate.edu
+• Associate Head Track & Field Coach athomas@athletics.msstate.edu
+• Associate Head Track & Field Coach clyles@athletics.msstate.edu

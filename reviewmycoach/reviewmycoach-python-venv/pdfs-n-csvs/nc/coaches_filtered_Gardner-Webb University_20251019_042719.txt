@@ -1,0 +1,263 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:19
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jim Chester
+   Email: jchester1@gardner-webb.edu
+   Username: jchester1
+   Original line: Jim Chester Head Coach (704) jchester1@gardner-webb.edu @CoachJChester
+
+2. Tom Cockill
+   Email: tcockill@gardner-webb.edu
+   Username: tcockill
+   Original line: Tom Cockill Assistant Coach tcockill@gardner-webb.edu @tomc_28
+
+3. Curtis Robison
+   Email: crobison@gardner-webb.edu
+   Username: crobison
+   Original line: Curtis Robison Assistant Coach crobison@gardner-webb.edu
+
+4. Jeremy Luther
+   Email: jluther@gardner-webb.edu
+   Username: jluther
+   Original line: Jeremy Luther Head Coach jluther@gardner-webb.edu @CoachJLuther
+
+5. Jake DeLaney
+   Email: jdelaney2@gardner-webb.edu
+   Username: jdelaney2
+   Original line: Jake DeLaney Associate Head Coach jdelaney2@gardner-webb.edu
+
+6. Adam Sweeney
+   Email: asweeney@gardner-webb.edu
+   Username: asweeney
+   Original line: Adam Sweeney Assistant Coach asweeney@gardner-webb.edu
+
+7. Christian Turner
+   Email: cturner6@gardner-webb.edu
+   Username: cturner6
+   Original line: Christian Turner Assistant Coach cturner6@gardner-webb.edu
+
+8. Mitch Hollis
+   Email: mhollis1@gardner-webb.edu
+   Username: mhollis1
+   Original line: Mitch Hollis Assistant Coach mhollis1@gardner-webb.edu
+
+9. Terri Williams
+   Email: twilliams56@gardner-webb.edu
+   Username: twilliams56
+   Original line: Terri Williams Head Coach twilliams56@gardner-webb.edu
+
+10. Lenea Brewton
+   Email: lbwalker@gardner-webb.edu
+   Username: lbwalker
+   Original line: Lenea Brewton Walker Head Coach (704) lbwalker@gardner-webb.edu
+
+11. Andrew Day
+   Email: andrew@alldaycheerleading.com
+   Username: andrew
+   Original line: Andrew Day Assistant Coach (704) andrew@alldaycheerleading.com
+
+12. Greg Thiel
+   Email: gthiel@gardner-webb.edu
+   Username: gthiel
+   Original line: Greg Thiel Head Coach gthiel@gardner-webb.edu
+
+13. Roman Wright
+   Email: rwright11@gardner-webb.edu
+   Username: rwright11
+   Original line: Roman Wright Assistant Coach rwright11@gardner-webb.edu
+
+14. MyQuon Stout
+   Email: mstout@gardner-webb.edu
+   Username: mstout
+   Original line: MyQuon Stout Defensive Line Coach mstout@gardner-webb.edu
+
+15. Tee Burton
+   Email: tburton@gardner-webb.edu
+   Username: tburton
+   Original line: Tee Burton Head Coach (704) tburton@gardner-webb.edu
+
+16. Zack Byers
+   Email: zbyers1@gardner-webb.edu
+   Username: zbyers1
+   Original line: Zack Byers Volunteer Coach zbyers1@gardner-webb.edu
+
+17. Tee Burton
+   Email: tburton@gardner-webb.edu
+   Username: tburton
+   Original line: Tee Burton Head Coach (704) tburton@gardner-webb.edu
+
+18. Zack Byers
+   Email: zbyers1@gardner-webb.edu
+   Username: zbyers1
+   Original line: Zack Byers Volunteer Coach zbyers1@gardner-webb.edu
+
+19. Chris Harris
+   Email: charris39@gardner-webb.edu
+   Username: charris39
+   Original line: Chris Harris Head Coach charris39@gardner-webb.edu
+
+20. Ellie Rumbaugh
+   Email: erumbaugh@gardner-webb.edu
+   Username: erumbaugh
+   Original line: Ellie Rumbaugh Assistant Coach erumbaugh@gardner-webb.edu
+
+21. Scott Wells
+   Email: swells5@gardner-webb.edu
+   Username: swells5
+   Original line: Scott Wells Head Coach (704) swells5@gardner-webb.edu
+
+22. Carl Reynolds
+   Email: creynolds7@gardner-webb.edu
+   Username: creynolds7
+   Original line: Carl Reynolds Associate Head Coach creynolds7@gardner-webb.edu
+
+23. Daniel Babbert
+   Email: dbabbert@gardner-webb.edu
+   Username: dbabbert
+   Original line: Daniel Babbert Assistant Coach (908) dbabbert@gardner-webb.edu
+
+24. Ben Goddard
+   Email: bengoddard@yahoo.com
+   Username: bengoddard
+   Original line: Ben Goddard Assistant Coach bengoddard@yahoo.com
+
+25. Calum Erlenborn
+   Email: cerlenborn@gardner-webb.edu
+   Username: cerlenborn
+   Original line: Calum Erlenborn Assistant Coach cerlenborn@gardner-webb.edu
+
+26. Erik Solberg
+   Email: esolberg@gardner-webb.edu
+   Username: esolberg
+   Original line: Erik Solberg Head Coach esolberg@gardner-webb.edu
+
+27. Mallory Coleman
+   Email: mcoleman7@gardner-webb.edu
+   Username: mcoleman7
+   Original line: Mallory Coleman Assistant Coach mcoleman7@gardner-webb.edu
+
+28. Bailey Wigness
+   Email: bwigness@gardner-webb.edu
+   Username: bwigness
+   Original line: Bailey Wigness Head Coach bwigness@gardner-webb.edu
+
+29. Nick Puglisi
+   Email: npuglisi@gardner-webb.edu
+   Username: npuglisi
+   Original line: Nick Puglisi Assistant Coach npuglisi@gardner-webb.edu
+
+30. Sylvia Kirk
+   Email: skirk1@gardner-webb.edu
+   Username: skirk1
+   Original line: Sylvia Kirk Assistant Coach/Pitching Coach skirk1@gardner-webb.edu
+
+31. Mike Blum
+   Email: mblum@gardner-webb.edu
+   Username: mblum
+   Original line: Mike Blum Head Coach (704) mblum@gardner-webb.edu
+
+32. Michael Southward
+   Email: msouthward@gardner-webb.edu
+   Username: msouthward
+   Original line: Michael Southward Assistant Coach msouthward@gardner-webb.edu
+
+33. Mike Griffith
+   Email: mgriffith@gardner-webb.edu
+   Username: mgriffith
+   Original line: Mike Griffith Head Coach (704) mgriffith@gardner-webb.edu
+
+34. Tyler Macy
+   Email: tmacy@gardner-webb.edu
+   Username: tmacy
+   Original line: Tyler Macy Assistant Men's Tennis Coach tmacy@gardner-webb.edu
+
+35. Sebastian Harris
+   Email: Sharris17@gardner-webb.edu
+   Username: Sharris17
+   Original line: Sebastian Harris Assistant Coach Sharris17@gardner-webb.edu
+
+36. Jim Corn
+   Email: jcorn@gardner-webb.edu
+   Username: jcorn
+   Original line: Jim Corn Head Coach (704) jcorn@gardner-webb.edu
+
+37. Greg Thiel
+   Email: gthiel@gardner-webb.edu
+   Username: gthiel
+   Original line: Greg Thiel Head Coach gthiel@gardner-webb.edu
+
+38. Roman Wright
+   Email: rwright11@gardner-webb.edu
+   Username: rwright11
+   Original line: Roman Wright Assistant Coach rwright11@gardner-webb.edu
+
+39. Alex Hinsey
+   Email: ahinsey@gardner-webb.edu
+   Username: ahinsey
+   Original line: Alex Hinsey Head Coach ahinsey@gardner-webb.edu
+
+40. Matt Hamilton
+   Email: mhamilton12@gardner-webb.edu
+   Username: mhamilton12
+   Original line: Matt Hamilton Assistant Coach mhamilton12@gardner-webb.edu
+
+41. Daniel Elliott
+   Email: delliott@gardner-webb.edu
+   Username: delliott
+   Original line: Daniel Elliott Head Coach (704) delliott@gardner-webb.edu
+
+42. Keaton Kluever
+   Email: kkluever@gardner-webb.edu
+   Username: kkluever
+   Original line: Keaton Kluever Assistant Coach kkluever@gardner-webb.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jim Chester Head Coach (704) jchester1@gardner-webb.edu @CoachJChester
+• Tom Cockill Assistant Coach tcockill@gardner-webb.edu @tomc_28
+• Curtis Robison Assistant Coach crobison@gardner-webb.edu
+• Jeremy Luther Head Coach jluther@gardner-webb.edu @CoachJLuther
+• Jake DeLaney Associate Head Coach jdelaney2@gardner-webb.edu
+• Adam Sweeney Assistant Coach asweeney@gardner-webb.edu
+• Christian Turner Assistant Coach cturner6@gardner-webb.edu
+• Mitch Hollis Assistant Coach mhollis1@gardner-webb.edu
+• Terri Williams Head Coach twilliams56@gardner-webb.edu
+• Lenea Brewton Walker Head Coach (704) lbwalker@gardner-webb.edu
+• Andrew Day Assistant Coach (704) andrew@alldaycheerleading.com
+• Greg Thiel Head Coach gthiel@gardner-webb.edu
+• Roman Wright Assistant Coach rwright11@gardner-webb.edu
+• MyQuon Stout Defensive Line Coach mstout@gardner-webb.edu
+• Tee Burton Head Coach (704) tburton@gardner-webb.edu
+• Zack Byers Volunteer Coach zbyers1@gardner-webb.edu
+• Tee Burton Head Coach (704) tburton@gardner-webb.edu
+• Zack Byers Volunteer Coach zbyers1@gardner-webb.edu
+• Chris Harris Head Coach charris39@gardner-webb.edu
+• Ellie Rumbaugh Assistant Coach erumbaugh@gardner-webb.edu
+• Scott Wells Head Coach (704) swells5@gardner-webb.edu
+• Carl Reynolds Associate Head Coach creynolds7@gardner-webb.edu
+• Daniel Babbert Assistant Coach (908) dbabbert@gardner-webb.edu
+• Ben Goddard Assistant Coach bengoddard@yahoo.com
+• Calum Erlenborn Assistant Coach cerlenborn@gardner-webb.edu
+• Erik Solberg Head Coach esolberg@gardner-webb.edu
+• Mallory Coleman Assistant Coach mcoleman7@gardner-webb.edu
+• Bailey Wigness Head Coach bwigness@gardner-webb.edu
+• Nick Puglisi Assistant Coach npuglisi@gardner-webb.edu
+• Sylvia Kirk Assistant Coach/Pitching Coach skirk1@gardner-webb.edu
+• Mike Blum Head Coach (704) mblum@gardner-webb.edu
+• Michael Southward Assistant Coach msouthward@gardner-webb.edu
+• Mike Griffith Head Coach (704) mgriffith@gardner-webb.edu
+• Tyler Macy Assistant Men's Tennis Coach tmacy@gardner-webb.edu
+• Sebastian Harris Assistant Coach Sharris17@gardner-webb.edu
+• Jim Corn Head Coach (704) jcorn@gardner-webb.edu
+• Greg Thiel Head Coach gthiel@gardner-webb.edu
+• Roman Wright Assistant Coach rwright11@gardner-webb.edu
+• Alex Hinsey Head Coach ahinsey@gardner-webb.edu
+• Matt Hamilton Assistant Coach mhamilton12@gardner-webb.edu
+• Daniel Elliott Head Coach (704) delliott@gardner-webb.edu
+• Keaton Kluever Assistant Coach kkluever@gardner-webb.edu

@@ -1,0 +1,450 @@
+COACH ENTRIES FOUND - 2025-09-27 06:16:24
+============================================================
+
+Total coaches found: 65
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mike Leonard
+   Email: baseball@middlebury.edu
+   Username: baseball
+   Phone: 802.443.5264
+   Original line: Mike Leonard Head Baseball Coach baseball@middlebury.edu 802.443.5264
+
+2. Mike Phelps
+   Email: baseball@middlebury.edu
+   Username: baseball
+   Phone: 802.443.3613
+   Original line: Mike Phelps Assistant Baseball Coach baseball@middlebury.edu 802.443.3613
+
+3. Devin Burke
+   Email: baseball@middlebury.edu
+   Username: baseball
+   Original line: Devin Burke Assistant Baseball/Pitching Coach baseball@middlebury.edu
+
+4. Garrett Eddy
+   Email: baseball@middlebury.edu
+   Username: baseball
+   Original line: Garrett Eddy Assistant Baseball Coach baseball@middlebury.edu
+
+5. Matt Goldsmith
+   Email: mbb@middlebury.edu
+   Username: mbb
+   Phone: 802.443.5269
+   Original line: Matt Goldsmith Russell L. Reilly Head Coach of Men's Basketball mbb@middlebury.edu 802.443.5269
+
+6. Sam Rubinstein
+   Email: samr@middlebury.edu
+   Username: samr
+   Phone: 802.443.3590
+   Original line: Sam Rubinstein Assistant Men's Basketball Coach samr@middlebury.edu 802.443.3590
+
+7. KJ Krasco
+   Email: kkrasco@middlebury.edu
+   Username: kkrasco
+   Phone: 802.443.3492
+   Original line: KJ Krasco Head Women's Basketball Coach kkrasco@middlebury.edu 802.443.3492
+
+8. Catherine Harrison
+   Email: charrison@middlebury.edu
+   Username: charrison
+   Phone: 802.443.3492
+   Original line: Catherine Harrison Assistant Women's Basketball Coach charrison@middlebury.edu 802.443.3492
+
+9. Nicole Wilkerson
+   Email: nwilkers@middlebury.edu
+   Username: nwilkers
+   Phone: 802.443.3159
+   Original line: Nicole Wilkerson Head Cross Country Coach nwilkers@middlebury.edu 802.443.3159
+
+10. Bruce Ingersoll
+   Email: bingersoll@middlebury.edu
+   Username: bingersoll
+   Phone: 802.443.2938
+   Original line: Bruce Ingersoll Assistant Cross Country/Track & Field Coach bingersoll@middlebury.edu 802.443.2938
+
+11. Nicole Wilkerson
+   Email: nwilkers@middlebury.edu
+   Username: nwilkers
+   Phone: 802.443.3159
+   Original line: Nicole Wilkerson Head Cross Country Coach nwilkers@middlebury.edu 802.443.3159
+
+12. Bruce Ingersoll
+   Email: bingersoll@middlebury.edu
+   Username: bingersoll
+   Phone: 802.443.2938
+   Original line: Bruce Ingersoll Assistant Cross Country/Track & Field Coach bingersoll@middlebury.edu 802.443.2938
+
+13. Katharine DeLorenzo
+   Email: kdeloren@middlebury.edu
+   Username: kdeloren
+   Phone: 802.443.5422
+   Original line: Katharine DeLorenzo Borgen Family Head Coach of Field Hockey kdeloren@middlebury.edu 802.443.5422
+
+14. Jackie Mountford
+   Email: jmountford@middlebury.edu
+   Username: jmountford
+   Phone: 802.443.5422
+   Original line: Jackie Mountford Assistant Field Hockey Coach jmountford@middlebury.edu 802.443.5422
+
+15. Lisa McNamara
+   Email: lisam@middlebury.edu
+   Username: lisam
+   Original line: Lisa McNamara Assistant Field Hockey Coach lisam@middlebury.edu
+
+16. Doug Mandigo
+   Email: dtmandigo@middlebury.edu
+   Username: dtmandigo
+   Phone: 802.443.5266
+   Original line: Doug Mandigo Michael G. Heinecken Head Coach of Football dtmandigo@middlebury.edu 802.443.5266
+
+17. Justin Kumpulanian
+   Email: jkumpulanian@middlebury.edu
+   Username: jkumpulanian
+   Original line: Justin Kumpulanian Head Men's Golf Coach jkumpulanian@middlebury.edu
+
+18. Paul Politano
+   Email: ppolitano@middlebury.edu
+   Username: ppolitano
+   Phone: 802.443.5998
+   Original line: Paul Politano Assistant Men's/Women's Golf Coach ppolitano@middlebury.edu 802.443.5998
+
+19. Tim Walko
+   Email: twalko@middlebury.edu
+   Username: twalko
+   Original line: Tim Walko Head Women's Golf Coach twalko@middlebury.edu
+
+20. Paul Politano
+   Email: ppolitano@middlebury.edu
+   Username: ppolitano
+   Phone: 802.443.5998
+   Original line: Paul Politano Assistant Men's/Women's Golf Coach ppolitano@middlebury.edu 802.443.5998
+
+21. Chloe Levins
+   Email: clevins@middlebury.edu
+   Username: clevins
+   Original line: Chloe Levins Assistant Women's Golf Coach clevins@middlebury.edu
+
+22. Jack Ceglarski
+   Email: jceglarski@middlebury.edu
+   Username: jceglarski
+   Phone: 802.443.5991
+   Original line: Jack Ceglarski Head Men's Hockey Coach jceglarski@middlebury.edu 802.443.5991
+
+23. Bill Mandigo
+   Email: wmandigo@middlebury.edu
+   Username: wmandigo
+   Phone: 802.443.5398
+   Original line: Bill Mandigo Head Women's Hockey Coach wmandigo@middlebury.edu 802.443.5398
+
+24. Emily McNamara
+   Email: emcnamar@middlebury.edu
+   Username: emcnamar
+   Original line: Emily McNamara Assistant Women's Hockey Coach emcnamar@middlebury.edu
+
+25. Dave Campbell
+   Email: mlacrosse@middlebury.edu
+   Username: mlacrosse
+   Phone: 802.443.5263
+   Original line: Dave Campbell Head Men's Lacrosse Coach mlacrosse@middlebury.edu 802.443.5263
+
+26. Evan Lombardo
+   Email: elombardo@middlebury.edu
+   Username: elombardo
+   Phone: 802.443.5263
+   Original line: Evan Lombardo Assistant Men's Lacrosse Coach elombardo@middlebury.edu 802.443.5263
+
+27. Gus Brakeley
+   Email: abrakele@middlebury.edu
+   Username: abrakele
+   Phone: 802.443.3224
+   Original line: Gus Brakeley Assistant Men's Lacrosse Coach abrakele@middlebury.edu 802.443.3224
+
+28. Kate Livesay
+   Email: wlax@middlebury.edu
+   Username: wlax
+   Phone: 802.443.5262
+   Original line: Kate Livesay Head Women's Lacrosse Coach wlax@middlebury.edu 802.443.5262
+
+29. Olivia Seymour
+   Email: wlax@middlebury.edu
+   Username: wlax
+   Phone: 802.443.5262
+   Original line: Olivia Seymour Assistant Women's Lacrosse Coach wlax@middlebury.edu 802.443.5262
+
+30. Amy Patton
+   Email: arpatton@middlebury.edu
+   Username: arpatton
+   Phone: 802.443.5262
+   Original line: Amy Patton Assistant Women's Lacrosse Coach arpatton@middlebury.edu 802.443.5262
+
+31. Bowen Holden
+   Email: bholden@middlebury.edu
+   Username: bholden
+   Original line: Bowen Holden Assistant Women's Lacrosse Coach bholden@middlebury.edu
+
+32. Abby Copeland
+   Email: acopeland@middlebury.edu
+   Username: acopeland
+   Phone: 802.443.5270
+   Original line: Abby Copeland Head Alpine Coach acopeland@middlebury.edu 802.443.5270
+
+33. Parker Acosta
+   Email: pacosta@middlebury.edu
+   Username: pacosta
+   Original line: Parker Acosta Assistant Alpine Coach pacosta@middlebury.edu
+
+34. Andrew Johnson
+   Email: arjohnson@middlebury.edu
+   Username: arjohnson
+   Phone: 802.443.5963
+   Original line: Andrew Johnson Terry L. Aldrich Head Coach of Nordic Skiing arjohnson@middlebury.edu 802.443.5963
+
+35. Kate Johnson
+   Email: kbjohnson@middlebury.edu
+   Username: kbjohnson
+   Phone: 802.443.5963
+   Original line: Kate Johnson Assistant Nordic Coach kbjohnson@middlebury.edu 802.443.5963
+
+36. Alex Elias
+   Email: aelias@middlebury.edu
+   Username: aelias
+   Phone: 802.443.5255
+   Original line: Alex Elias Head Men's Soccer Coach aelias@middlebury.edu 802.443.5255
+
+37. Tim Peng
+   Email: tp@middlebury.edu
+   Username: tp
+   Phone: 802.443.5255
+   Original line: Tim Peng Assistant Men's Soccer Coach tp@middlebury.edu 802.443.5255
+
+38. Ben Potter
+   Email: bpotter@middlebury.edu
+   Username: bpotter
+   Phone: 802.443.5255
+   Original line: Ben Potter Assistant Men's Soccer Coach bpotter@middlebury.edu 802.443.5255
+
+39. Leland Gazo
+   Email: lagazo@middlebury.edu
+   Username: lagazo
+   Phone: 802.443.5255
+   Original line: Leland Gazo Assistant Men's Soccer Coach - Goalkeepers lagazo@middlebury.edu 802.443.5255
+
+40. Peter Kim
+   Email: wsoc@middlebury.edu
+   Username: wsoc
+   Phone: 802.443.5410
+   Original line: Peter Kim Head Women's Soccer Coach wsoc@middlebury.edu 802.443.5410
+
+41. Phoebe Martell-Crawford
+   Email: pmartellcrawford@middlebury.edu
+   Username: pmartellcrawford
+   Phone: 802.443.5410
+   Original line: Phoebe Martell-Crawford Assistant Women's Soccer Coach pmartellcrawford@middlebury.edu 802.443.5410
+
+42. Kelly Bevere
+   Email: softball@middlebury.edu
+   Username: softball
+   Phone: 802.443.5386
+   Original line: Kelly Bevere Head Softball Coach softball@middlebury.edu 802.443.5386
+
+43. Raeanna Dunn
+   Email: raeannad@middlebury.edu
+   Username: raeannad
+   Phone: 802.443.5386
+   Original line: Raeanna Dunn Assistant Softball Coach raeannad@middlebury.edu 802.443.5386
+
+44. Mark Lewis
+   Email: markl@middlebury.edu
+   Username: markl
+   Phone: 802.443.3458
+   Original line: Mark Lewis John R. Illig Head Coach of Squash markl@middlebury.edu 802.443.3458
+
+45. Teddy Best
+   Email: tsbest@middlebury.edu
+   Username: tsbest
+   Original line: Teddy Best Assistant Squash Coach tsbest@middlebury.edu
+
+46. Mark Lewis
+   Email: markl@middlebury.edu
+   Username: markl
+   Phone: 802.443.3458
+   Original line: Mark Lewis John R. Illig Head Coach of Squash markl@middlebury.edu 802.443.3458
+
+47. Teddy Best
+   Email: tsbest@middlebury.edu
+   Username: tsbest
+   Original line: Teddy Best Assistant Squash Coach tsbest@middlebury.edu
+
+48. Bob Rueppel
+   Email: rrueppel@middlebury.edu
+   Username: rrueppel
+   Phone: 802.443.5010
+   Original line: Bob Rueppel Head Coach - Director of Natatorium rrueppel@middlebury.edu 802.443.5010
+
+49. Gunnar Teigen
+   Email: gteigen@middlebury.edu
+   Username: gteigen
+   Original line: Gunnar Teigen Assistant Swimming Coach gteigen@middlebury.edu
+
+50. Bradley Schott
+   Email: bschott@middlebury.edu
+   Username: bschott
+   Phone: 802.443.2206
+   Original line: Bradley Schott Diving Coach bschott@middlebury.edu 802.443.2206
+
+51. Bob Rueppel
+   Email: rrueppel@middlebury.edu
+   Username: rrueppel
+   Phone: 802.443.5010
+   Original line: Bob Rueppel Head Coach - Director of Natatorium rrueppel@middlebury.edu 802.443.5010
+
+52. Gunnar Teigen
+   Email: gteigen@middlebury.edu
+   Username: gteigen
+   Original line: Gunnar Teigen Assistant Swimming Coach gteigen@middlebury.edu
+
+53. Bradley Schott
+   Email: bschott@middlebury.edu
+   Username: bschott
+   Phone: 802.443.2206
+   Original line: Bradley Schott Diving Coach bschott@middlebury.edu 802.443.2206
+
+54. Andrew Thomson
+   Email: athomson@middlebury.edu
+   Username: athomson
+   Phone: 802.443.3207
+   Original line: Andrew Thomson Head Men's Tennis Coach athomson@middlebury.edu 802.443.3207
+
+55. Olivia Leavitt
+   Email: oleavitt@middlebury.edu
+   Username: oleavitt
+   Phone: 802.443.3416
+   Original line: Olivia Leavitt Head Women's Tennis Coach oleavitt@middlebury.edu 802.443.3416
+
+56. Sam Concannon
+   Email: sconcannon@middlebury.edu
+   Username: sconcannon
+   Original line: Sam Concannon Assistant Women's Tennis Coach sconcannon@middlebury.edu
+
+57. Martin Beatty
+   Email: beatty@middlebury.edu
+   Username: beatty
+   Phone: 802.443.5956
+   Original line: Martin Beatty Head Track & Field Coach beatty@middlebury.edu 802.443.5956
+
+58. Nicole Wilkerson
+   Email: nwilkers@middlebury.edu
+   Username: nwilkers
+   Phone: 802.443.3159
+   Original line: Nicole Wilkerson Assistant Track & Field Coach nwilkers@middlebury.edu 802.443.3159
+
+59. Bruce Ingersoll
+   Email: bingersoll@middlebury.edu
+   Username: bingersoll
+   Phone: 802.443.2938
+   Original line: Bruce Ingersoll Assistant Cross Country/Track & Field Coach bingersoll@middlebury.edu 802.443.2938
+
+60. Kevin Chu
+   Email: kchu@middlebury.edu
+   Username: kchu
+   Original line: Kevin Chu Assistant Track & Field Coach kchu@middlebury.edu
+
+61. Martin Beatty
+   Email: beatty@middlebury.edu
+   Username: beatty
+   Phone: 802.443.5956
+   Original line: Martin Beatty Head Track & Field Coach beatty@middlebury.edu 802.443.5956
+
+62. Nicole Wilkerson
+   Email: nwilkers@middlebury.edu
+   Username: nwilkers
+   Phone: 802.443.3159
+   Original line: Nicole Wilkerson Assistant Track & Field Coach nwilkers@middlebury.edu 802.443.3159
+
+63. Bruce Ingersoll
+   Email: bingersoll@middlebury.edu
+   Username: bingersoll
+   Phone: 802.443.2938
+   Original line: Bruce Ingersoll Assistant Cross Country/Track & Field Coach bingersoll@middlebury.edu 802.443.2938
+
+64. Kevin Chu
+   Email: kchu@middlebury.edu
+   Username: kchu
+   Original line: Kevin Chu Assistant Track & Field Coach kchu@middlebury.edu
+
+65. Sarah Raunecker
+   Email: srauneck@middlebury.edu
+   Username: srauneck
+   Phone: 802.443.5613
+   Original line: Sarah Raunecker Head Volleyball Coach srauneck@middlebury.edu 802.443.5613
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mike Leonard Head Baseball Coach baseball@middlebury.edu 802.443.5264
+• Mike Phelps Assistant Baseball Coach baseball@middlebury.edu 802.443.3613
+• Devin Burke Assistant Baseball/Pitching Coach baseball@middlebury.edu
+• Garrett Eddy Assistant Baseball Coach baseball@middlebury.edu
+• Matt Goldsmith Russell L. Reilly Head Coach of Men's Basketball mbb@middlebury.edu 802.443.5269
+• Sam Rubinstein Assistant Men's Basketball Coach samr@middlebury.edu 802.443.3590
+• KJ Krasco Head Women's Basketball Coach kkrasco@middlebury.edu 802.443.3492
+• Catherine Harrison Assistant Women's Basketball Coach charrison@middlebury.edu 802.443.3492
+• Nicole Wilkerson Head Cross Country Coach nwilkers@middlebury.edu 802.443.3159
+• Bruce Ingersoll Assistant Cross Country/Track & Field Coach bingersoll@middlebury.edu 802.443.2938
+• Nicole Wilkerson Head Cross Country Coach nwilkers@middlebury.edu 802.443.3159
+• Bruce Ingersoll Assistant Cross Country/Track & Field Coach bingersoll@middlebury.edu 802.443.2938
+• Katharine DeLorenzo Borgen Family Head Coach of Field Hockey kdeloren@middlebury.edu 802.443.5422
+• Jackie Mountford Assistant Field Hockey Coach jmountford@middlebury.edu 802.443.5422
+• Lisa McNamara Assistant Field Hockey Coach lisam@middlebury.edu
+• Doug Mandigo Michael G. Heinecken Head Coach of Football dtmandigo@middlebury.edu 802.443.5266
+• Justin Kumpulanian Head Men's Golf Coach jkumpulanian@middlebury.edu
+• Paul Politano Assistant Men's/Women's Golf Coach ppolitano@middlebury.edu 802.443.5998
+• Tim Walko Head Women's Golf Coach twalko@middlebury.edu
+• Paul Politano Assistant Men's/Women's Golf Coach ppolitano@middlebury.edu 802.443.5998
+• Chloe Levins Assistant Women's Golf Coach clevins@middlebury.edu
+• Jack Ceglarski Head Men's Hockey Coach jceglarski@middlebury.edu 802.443.5991
+• Bill Mandigo Head Women's Hockey Coach wmandigo@middlebury.edu 802.443.5398
+• Emily McNamara Assistant Women's Hockey Coach emcnamar@middlebury.edu
+• Dave Campbell Head Men's Lacrosse Coach mlacrosse@middlebury.edu 802.443.5263
+• Evan Lombardo Assistant Men's Lacrosse Coach elombardo@middlebury.edu 802.443.5263
+• Gus Brakeley Assistant Men's Lacrosse Coach abrakele@middlebury.edu 802.443.3224
+• Kate Livesay Head Women's Lacrosse Coach wlax@middlebury.edu 802.443.5262
+• Olivia Seymour Assistant Women's Lacrosse Coach wlax@middlebury.edu 802.443.5262
+• Amy Patton Assistant Women's Lacrosse Coach arpatton@middlebury.edu 802.443.5262
+• Bowen Holden Assistant Women's Lacrosse Coach bholden@middlebury.edu
+• Abby Copeland Head Alpine Coach acopeland@middlebury.edu 802.443.5270
+• Parker Acosta Assistant Alpine Coach pacosta@middlebury.edu
+• Andrew Johnson Terry L. Aldrich Head Coach of Nordic Skiing arjohnson@middlebury.edu 802.443.5963
+• Kate Johnson Assistant Nordic Coach kbjohnson@middlebury.edu 802.443.5963
+• Alex Elias Head Men's Soccer Coach aelias@middlebury.edu 802.443.5255
+• Tim Peng Assistant Men's Soccer Coach tp@middlebury.edu 802.443.5255
+• Ben Potter Assistant Men's Soccer Coach bpotter@middlebury.edu 802.443.5255
+• Leland Gazo Assistant Men's Soccer Coach - Goalkeepers lagazo@middlebury.edu 802.443.5255
+• Peter Kim Head Women's Soccer Coach wsoc@middlebury.edu 802.443.5410
+• Phoebe Martell-Crawford Assistant Women's Soccer Coach pmartellcrawford@middlebury.edu 802.443.5410
+• Kelly Bevere Head Softball Coach softball@middlebury.edu 802.443.5386
+• Raeanna Dunn Assistant Softball Coach raeannad@middlebury.edu 802.443.5386
+• Mark Lewis John R. Illig Head Coach of Squash markl@middlebury.edu 802.443.3458
+• Teddy Best Assistant Squash Coach tsbest@middlebury.edu
+• Mark Lewis John R. Illig Head Coach of Squash markl@middlebury.edu 802.443.3458
+• Teddy Best Assistant Squash Coach tsbest@middlebury.edu
+• Bob Rueppel Head Coach - Director of Natatorium rrueppel@middlebury.edu 802.443.5010
+• Gunnar Teigen Assistant Swimming Coach gteigen@middlebury.edu
+• Bradley Schott Diving Coach bschott@middlebury.edu 802.443.2206
+• Bob Rueppel Head Coach - Director of Natatorium rrueppel@middlebury.edu 802.443.5010
+• Gunnar Teigen Assistant Swimming Coach gteigen@middlebury.edu
+• Bradley Schott Diving Coach bschott@middlebury.edu 802.443.2206
+• Andrew Thomson Head Men's Tennis Coach athomson@middlebury.edu 802.443.3207
+• Olivia Leavitt Head Women's Tennis Coach oleavitt@middlebury.edu 802.443.3416
+• Sam Concannon Assistant Women's Tennis Coach sconcannon@middlebury.edu
+• Martin Beatty Head Track & Field Coach beatty@middlebury.edu 802.443.5956
+• Nicole Wilkerson Assistant Track & Field Coach nwilkers@middlebury.edu 802.443.3159
+• Bruce Ingersoll Assistant Cross Country/Track & Field Coach bingersoll@middlebury.edu 802.443.2938
+• Kevin Chu Assistant Track & Field Coach kchu@middlebury.edu
+• Martin Beatty Head Track & Field Coach beatty@middlebury.edu 802.443.5956
+• Nicole Wilkerson Assistant Track & Field Coach nwilkers@middlebury.edu 802.443.3159
+• Bruce Ingersoll Assistant Cross Country/Track & Field Coach bingersoll@middlebury.edu 802.443.2938
+• Kevin Chu Assistant Track & Field Coach kchu@middlebury.edu
+• Sarah Raunecker Head Volleyball Coach srauneck@middlebury.edu 802.443.5613

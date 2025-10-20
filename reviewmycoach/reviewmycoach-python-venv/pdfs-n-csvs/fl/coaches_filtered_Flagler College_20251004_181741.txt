@@ -1,0 +1,227 @@
+COACH ENTRIES FOUND - 2025-10-04 18:17:41
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brantley Eastman
+   Email: beastman@flagler.edu
+   Username: beastman
+   Original line: Brantley Eastman Assistant Sports Perfomance Coach beastman@flagler.edu
+
+2. Greg Guilliams
+   Email: gguilliams@flagler.edu
+   Username: gguilliams
+   Original line: Greg Guilliams Head Baseball Coach gguilliams@flagler.edu (904) 819-
+
+3. Gio Alfonzo
+   Email: galfonzo@flagler.edu
+   Username: galfonzo
+   Original line: Gio Alfonzo Assistant Baseball Coach/Recruiting Coordinator galfonzo@flagler.edu (904) 819-
+
+4. Blake Selland
+   Email: bselland@flagler.edu
+   Username: bselland
+   Original line: Blake Selland Head Men's Basketball Coach bselland@flagler.edu (904) 819-
+
+5. Luke Metzger
+   Email: lmetzger@flagler.edu
+   Username: lmetzger
+   Original line: Luke Metzger Assistant Men's Basketball Coach lmetzger@flagler.edu (904) 819-
+
+6. Mekhii Noble
+   Email: mnoble@flagler.edu
+   Username: mnoble
+   Original line: Mekhii Noble Assistant Men's Basketball Coach mnoble@flagler.edu
+
+7. Mo Smith
+   Email: msmith@flagler.edu
+   Username: msmith
+   Original line: Mo Smith Head Women's Basketball Coach msmith@flagler.edu (904) 819-
+
+8. Sydney Roberts
+   Email: sroberts@flagler.edu
+   Username: sroberts
+   Original line: Sydney Roberts Assistant Women's Basketball Coach sroberts@flagler.edu (904) 819-
+
+9. Joe Harding
+   Email: jharding@flagler.edu
+   Username: jharding
+   Original line: Joe Harding Assistant Women's Basketball Coach jharding@flagler.edu (904) 819-
+
+10. Cazzie Russell
+   Email: crussell@flagler.edu
+   Username: crussell
+   Original line: Cazzie Russell Special Assistant to the Head Coach crussell@flagler.edu
+
+11. Brian Beil
+   Email: bbeil@flagler.edu
+   Username: bbeil
+   Original line: Brian Beil Head Coach/Director of Cross Country/Track bbeil@flagler.edu (904) 819-
+
+12. Enola Savel
+   Email: esavel@flagler.edu
+   Username: esavel
+   Original line: Enola Savel Assistant Cross Country/Track Coach/Recruiting esavel@flagler.edu
+
+13. Brian Beil
+   Email: bbeil@flagler.edu
+   Username: bbeil
+   Original line: Brian Beil Head Coach/Director of Cross Country/Track bbeil@flagler.edu (904) 819-
+
+14. Enola Savel
+   Email: esavel@flagler.edu
+   Username: esavel
+   Original line: Enola Savel Assistant Cross Country/Track Coach/Recruiting esavel@flagler.edu
+
+15. Alex Naumovski
+   Email: anaumovski@flagler.edu
+   Username: anaumovski
+   Original line: Alex Naumovski Assistant Golf Coach anaumovski@flagler.edu
+
+16. Alex Naumovski
+   Email: anaumovski@flagler.edu
+   Username: anaumovski
+   Original line: Alex Naumovski Assistant Golf Coach anaumovski@flagler.edu
+
+17. Brian Duncan
+   Email: bduncan@flagler.edu
+   Username: bduncan
+   Original line: Brian Duncan Head Men's Lacrosse Coach bduncan@flagler.edu (904) 826-
+
+18. Tim King
+   Email: tmking@flagler.edu
+   Username: tmking
+   Original line: Tim King Assistant Men's Lacrosse Coach tmking@flagler.edu
+
+19. James Foote
+   Email: jfoote@flagler.edu
+   Username: jfoote
+   Original line: James Foote Assistant Men's Lacrosse Coach jfoote@flagler.edu
+
+20. Efrain Gutierrez
+   Email: egutierrez@flagler.edu
+   Username: egutierrez
+   Original line: Efrain Gutierrez Assistant Men's Lacrosse Coach egutierrez@flagler.edu
+
+21. Grant Kelam
+   Email: gkelam@flagler.edu
+   Username: gkelam
+   Original line: Grant Kelam Head Women's Lacrosse Coach gkelam@flagler.edu (904) 826-
+
+22. Thomas Coombes
+   Email: msoc@flagler.edu
+   Username: msoc
+   Original line: Thomas Coombes Head Men's Soccer Coach msoc@flagler.edu (904) 819-
+
+23. Michael Lamb
+   Email: msoc@flagler.edu
+   Username: msoc
+   Original line: Michael Lamb Assistant Men's Soccer Coach msoc@flagler.edu
+
+24. Ashley Martin
+   Email: amartin@flagler.edu
+   Username: amartin
+   Original line: Ashley Martin Head Women's Soccer Coach amartin@flagler.edu (904) 819-
+
+25. Tim Stoltenberg
+   Email: tstoltenberg@flagler.edu
+   Username: tstoltenberg
+   Original line: Tim Stoltenberg Assistant Women's Soccer Coach tstoltenberg@flagler.edu
+
+26. Kathryn Grant
+   Email: kgrant@flagler.edu
+   Username: kgrant
+   Original line: Kathryn Grant Head Softball Coach kgrant@flagler.edu (904) 819-
+
+27. Kaylee Allen
+   Email: kallen@flagler.edu
+   Username: kallen
+   Original line: Kaylee Allen Assistant Softball Coach kallen@flagler.edu (904) 819-
+
+28. Jonas Piibor
+   Email: jpiibor@flagler.edu
+   Username: jpiibor
+   Original line: Jonas Piibor Head Men's Tennis Coach jpiibor@flagler.edu (904) 826-
+
+29. Rodrigo Puebla
+   Email: rpuebla@flagler.edu
+   Username: rpuebla
+   Original line: Rodrigo Puebla Head Women's Tennis Coach rpuebla@flagler.edu (904) 826-
+
+30. Brian Beil
+   Email: bbeil@flagler.edu
+   Username: bbeil
+   Original line: Brian Beil Head Coach/Director of Cross Country/Track bbeil@flagler.edu (904) 819-
+
+31. Enola Savel
+   Email: esavel@flagler.edu
+   Username: esavel
+   Original line: Enola Savel Assistant Cross Country/Track Coach/Recruiting esavel@flagler.edu
+
+32. Brian Beil
+   Email: bbeil@flagler.edu
+   Username: bbeil
+   Original line: Brian Beil Head Coach/Director of Cross Country/Track bbeil@flagler.edu (904) 819-
+
+33. Enola Savel
+   Email: esavel@flagler.edu
+   Username: esavel
+   Original line: Enola Savel Assistant Cross Country/Track Coach/Recruiting esavel@flagler.edu
+
+34. Jeff Reynolds
+   Email: jlreynolds@flagler.edu
+   Username: jlreynolds
+   Original line: Jeff Reynolds Head Women's Volleyball Coach jlreynolds@flagler.edu (904) 819-
+
+35. Asima Mulalic
+   Email: amulalic@flagler.edu
+   Username: amulalic
+   Original line: Asima Mulalic Assistant Women's Volleyball Coach amulalic@flagler.edu
+
+36. Shelby Turman
+   Email: sking@flagler.edu
+   Username: sking
+   Original line: Shelby Turman Head Cheerleading Coach sking@flagler.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brantley Eastman Assistant Sports Perfomance Coach beastman@flagler.edu
+• Greg Guilliams Head Baseball Coach gguilliams@flagler.edu (904) 819-
+• Gio Alfonzo Assistant Baseball Coach/Recruiting Coordinator galfonzo@flagler.edu (904) 819-
+• Blake Selland Head Men's Basketball Coach bselland@flagler.edu (904) 819-
+• Luke Metzger Assistant Men's Basketball Coach lmetzger@flagler.edu (904) 819-
+• Mekhii Noble Assistant Men's Basketball Coach mnoble@flagler.edu
+• Mo Smith Head Women's Basketball Coach msmith@flagler.edu (904) 819-
+• Sydney Roberts Assistant Women's Basketball Coach sroberts@flagler.edu (904) 819-
+• Joe Harding Assistant Women's Basketball Coach jharding@flagler.edu (904) 819-
+• Cazzie Russell Special Assistant to the Head Coach crussell@flagler.edu
+• Brian Beil Head Coach/Director of Cross Country/Track bbeil@flagler.edu (904) 819-
+• Enola Savel Assistant Cross Country/Track Coach/Recruiting esavel@flagler.edu
+• Brian Beil Head Coach/Director of Cross Country/Track bbeil@flagler.edu (904) 819-
+• Enola Savel Assistant Cross Country/Track Coach/Recruiting esavel@flagler.edu
+• Alex Naumovski Assistant Golf Coach anaumovski@flagler.edu
+• Alex Naumovski Assistant Golf Coach anaumovski@flagler.edu
+• Brian Duncan Head Men's Lacrosse Coach bduncan@flagler.edu (904) 826-
+• Tim King Assistant Men's Lacrosse Coach tmking@flagler.edu
+• James Foote Assistant Men's Lacrosse Coach jfoote@flagler.edu
+• Efrain Gutierrez Assistant Men's Lacrosse Coach egutierrez@flagler.edu
+• Grant Kelam Head Women's Lacrosse Coach gkelam@flagler.edu (904) 826-
+• Thomas Coombes Head Men's Soccer Coach msoc@flagler.edu (904) 819-
+• Michael Lamb Assistant Men's Soccer Coach msoc@flagler.edu
+• Ashley Martin Head Women's Soccer Coach amartin@flagler.edu (904) 819-
+• Tim Stoltenberg Assistant Women's Soccer Coach tstoltenberg@flagler.edu
+• Kathryn Grant Head Softball Coach kgrant@flagler.edu (904) 819-
+• Kaylee Allen Assistant Softball Coach kallen@flagler.edu (904) 819-
+• Jonas Piibor Head Men's Tennis Coach jpiibor@flagler.edu (904) 826-
+• Rodrigo Puebla Head Women's Tennis Coach rpuebla@flagler.edu (904) 826-
+• Brian Beil Head Coach/Director of Cross Country/Track bbeil@flagler.edu (904) 819-
+• Enola Savel Assistant Cross Country/Track Coach/Recruiting esavel@flagler.edu
+• Brian Beil Head Coach/Director of Cross Country/Track bbeil@flagler.edu (904) 819-
+• Enola Savel Assistant Cross Country/Track Coach/Recruiting esavel@flagler.edu
+• Jeff Reynolds Head Women's Volleyball Coach jlreynolds@flagler.edu (904) 819-
+• Asima Mulalic Assistant Women's Volleyball Coach amulalic@flagler.edu
+• Shelby Turman Head Cheerleading Coach sking@flagler.edu

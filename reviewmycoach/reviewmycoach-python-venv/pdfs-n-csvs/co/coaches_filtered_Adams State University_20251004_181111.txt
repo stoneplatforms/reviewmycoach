@@ -1,0 +1,133 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:11
+============================================================
+
+Total coaches found: 20
+
+PARSED ENTRIES:
+----------------------------------------
+1. Alexa Hardick
+   Email: ahardick@adams.edu
+   Username: ahardick
+   Original line: Alexa Hardick Tripp Assistant Coach ahardick@adams.edu
+
+2. Angelline Nageak
+   Email: nageakai@adams.edu
+   Username: nageakai
+   Original line: Angelline Nageak Assistant Coach nageakai@adams.edu
+
+3. Damon Martin
+   Email: ddmartin@adams.edu
+   Username: ddmartin
+   Phone: 587-7266
+   Original line: Damon Martin Head Coach / ddmartin@adams.edu 587-7266
+
+4. Alec Duncan
+   Email: aduncan@adams.edu
+   Username: aduncan
+   Original line: Alec Duncan Assistant Coach aduncan@adams.edu 719-587-
+
+5. Kyle Masterson
+   Email: kmasterson@adams.edu
+   Username: kmasterson
+   Original line: Kyle Masterson Assistant Coach kmasterson@adams.edu 719-587-
+
+6. Will O'Keefe
+   Email: wokeefe@adams.edu
+   Username: wokeefe
+   Original line: Will O'Keefe Assistant Coach wokeefe@adams.edu 719-587-
+
+7. Nick Gossage
+   Email: ngossage@adams.edu
+   Username: ngossage
+   Original line: Nick Gossage Assistant Coach / ngossage@adams.edu
+
+8. Demari Reynolds
+   Email: reynoldsdr@adams.edu
+   Username: reynoldsdr
+   Original line: Demari Reynolds Assistant Coach / reynoldsdr@adams.edu
+
+9. Daniel Rowlett
+   Email: drowlett@adams.edu
+   Username: drowlett
+   Original line: Daniel Rowlett Assistant Coach / drowlett@adams.edu
+
+10. Ziere Banner
+   Email: banneraz@adams.edu
+   Username: banneraz
+   Original line: Ziere Banner Assistant Coach / banneraz@adams.edu
+
+11. Viliami Schaumkel
+   Email: schaumkelv@adams.edu
+   Username: schaumkelv
+   Original line: Viliami Schaumkel Assistant Coach - schaumkelv@adams.edu
+
+12. Dan Gallas
+   Email: dgallas@adams.edu
+   Username: dgallas
+   Original line: Dan Gallas Assistant Coach - dgallas@adams.edu
+
+13. Peter Freeman
+   Email: pfreeman@adams.edu
+   Username: pfreeman
+   Original line: Peter Freeman Head Coach pfreeman@adams.edu
+
+14. Dane Craig
+   Email: dcraig@adams.edu
+   Username: dcraig
+   Original line: Dane Craig Head Softball Coach dcraig@adams.edu
+
+15. Melinda Hunzeker
+   Email: mhunzeker@adams.edu
+   Username: mhunzeker
+   Original line: Melinda Hunzeker Head Coach mhunzeker@adams.edu
+
+16. Damon Martin
+   Email: ddmartin@adams.edu
+   Username: ddmartin
+   Phone: 587-7266
+   Original line: Damon Martin Head Coach / ddmartin@adams.edu 587-7266
+
+17. Alec Duncan
+   Email: aduncan@adams.edu
+   Username: aduncan
+   Original line: Alec Duncan Assistant Coach aduncan@adams.edu 719-587-
+
+18. Kyle Masterson
+   Email: kmasterson@adams.edu
+   Username: kmasterson
+   Original line: Kyle Masterson Assistant Coach kmasterson@adams.edu 719-587-
+
+19. Will O'Keefe
+   Email: wokeefe@adams.edu
+   Username: wokeefe
+   Original line: Will O'Keefe Assistant Coach wokeefe@adams.edu 719-587-
+
+20. Kyle Sand
+   Email: ksand@adams.edu
+   Username: ksand
+   Original line: Kyle Sand Head Coach ksand@adams.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Alexa Hardick Tripp Assistant Coach ahardick@adams.edu
+• Angelline Nageak Assistant Coach nageakai@adams.edu
+• Damon Martin Head Coach / ddmartin@adams.edu 587-7266
+• Alec Duncan Assistant Coach aduncan@adams.edu 719-587-
+• Kyle Masterson Assistant Coach kmasterson@adams.edu 719-587-
+• Will O'Keefe Assistant Coach wokeefe@adams.edu 719-587-
+• Nick Gossage Assistant Coach / ngossage@adams.edu
+• Demari Reynolds Assistant Coach / reynoldsdr@adams.edu
+• Daniel Rowlett Assistant Coach / drowlett@adams.edu
+• Ziere Banner Assistant Coach / banneraz@adams.edu
+• Viliami Schaumkel Assistant Coach - schaumkelv@adams.edu
+• Dan Gallas Assistant Coach - dgallas@adams.edu
+• Peter Freeman Head Coach pfreeman@adams.edu
+• Dane Craig Head Softball Coach dcraig@adams.edu
+• Melinda Hunzeker Head Coach mhunzeker@adams.edu
+• Damon Martin Head Coach / ddmartin@adams.edu 587-7266
+• Alec Duncan Assistant Coach aduncan@adams.edu 719-587-
+• Kyle Masterson Assistant Coach kmasterson@adams.edu 719-587-
+• Will O'Keefe Assistant Coach wokeefe@adams.edu 719-587-
+• Kyle Sand Head Coach ksand@adams.edu

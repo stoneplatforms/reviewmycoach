@@ -1,0 +1,295 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:02
+============================================================
+
+Total coaches found: 44
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jon Sjogren
+   Email: baseball@rollins.edu
+   Username: baseball
+   Phone: (407) 691-1346
+   Original line: Jon Sjogren Head Coach 407-691-1346 baseball@rollins.edu
+
+2. Patrick Szczerba
+   Email: pszczerba@rollins.edu
+   Username: pszczerba
+   Phone: (407) 691-1346
+   Original line: Patrick Szczerba Associate Head Coach/Recruiting Coordinator 407-691-1346 pszczerba@rollins.edu
+
+3. Chuck Schall
+   Email: cschall@rollins.edu
+   Username: cschall
+   Original line: Chuck Schall Assistant Coach cschall@rollins.edu
+
+4. Jim Newlin
+   Email: jnewlin@rollins.edu
+   Username: jnewlin
+   Original line: Jim Newlin JV Baseball Head Coach jnewlin@rollins.edu
+
+5. Kevin Hogan
+   Email: khogan@rollins.edu
+   Username: khogan
+   Phone: (407) 646-2291
+   Original line: Kevin Hogan Head Coach 407-646-2291 khogan@rollins.edu
+
+6. Kevin Dux
+   Email: kdux@rollins.edu
+   Username: kdux
+   Original line: Kevin Dux Assistant Coach kdux@rollins.edu
+
+7. Kyle Frakes
+   Email: ofrakes@rollins.edu
+   Username: ofrakes
+   Phone: (407) 646-2566
+   Original line: Kyle Frakes Head Men's Golf Coach / Assistant Men's Basketball Coach 407-646-2566 ofrakes@rollins.edu
+
+8. Glenn Wilkes
+   Email: gwilkes@rollins.edu
+   Username: gwilkes
+   Phone: (407) 646-2476
+   Original line: Glenn Wilkes Jr. Head Coach 407-646-2476 gwilkes@rollins.edu
+
+9. Kourtnie Berry
+   Email: kberry@rollins.edu
+   Username: kberry
+   Phone: (407) 646-2367
+   Original line: Kourtnie Berry Assistant Coach/Recruiting Coordinator 407-646-2367 kberry@rollins.edu
+
+10. Caroline Swartz
+   Email: cswartz@rollins.edu
+   Username: cswartz
+   Original line: Caroline Swartz Graduate Assistant Coach cswartz@rollins.edu
+
+11. Kyle Frakes
+   Email: ofrakes@rollins.edu
+   Username: ofrakes
+   Phone: (407) 646-2566
+   Original line: Kyle Frakes Head Men's Golf Coach / Assistant Men's Basketball Coach 407-646-2566 ofrakes@rollins.edu
+
+12. Robert Greninger
+   Email: rpgreninger@rollins.edu
+   Username: rpgreninger
+   Original line: Robert Greninger Volunteer Assistant Coach rpgreninger@rollins.edu
+
+13. Devanshi Naik
+   Email: dnaik@rollins.edu
+   Username: dnaik
+   Original line: Devanshi Naik Assistant Coach dnaik@rollins.edu
+
+14. Chris Lewis
+   Email: cdlewis@rollins.edu
+   Username: cdlewis
+   Phone: (407) 646-2418
+   Original line: Chris Lewis Head Coach 407-646-2418 cdlewis@rollins.edu
+
+15. Gary DiClementi
+   Email: gdiclementi@rollins.edu
+   Username: gdiclementi
+   Phone: (407) 646-2017
+   Original line: Gary DiClementi Associate Head Coach 407-646-2017 gdiclementi@rollins.edu
+
+16. Tom Kienle
+   Email: tkienle@rollins.edu
+   Username: tkienle
+   Original line: Tom Kienle Head Coach tkienle@rollins.edu
+
+17. Caroline Lamere
+   Email: clamere@rollins.edu
+   Username: clamere
+   Original line: Caroline Lamere Assistant Coach clamere@rollins.edu
+
+18. Tony Williams
+   Email: ajwilliams1@rollins.edu
+   Username: ajwilliams1
+   Original line: Tony Williams Assistant Coach ajwilliams1@rollins.edu
+
+19. Taylor Kienle
+   Email: tkienle1@rollins.edu
+   Username: tkienle1
+   Original line: Taylor Kienle Assistant Coach/Recruiting Coordinator tkienle1@rollins.edu
+
+20. Shawn Pistor
+   Email: spistor@rollins.edu
+   Username: spistor
+   Phone: (407) 646-2375
+   Original line: Shawn Pistor Director of Rowing/Head Men's Rowing Coach 407-646-2375 spistor@rollins.edu
+
+21. Brandon Thompson
+   Email: bthompson@rollins.edu
+   Username: bthompson
+   Original line: Brandon Thompson Head Women's Coach/Recruiting Coordinator bthompson@rollins.edu
+
+22. Brandon Thompson
+   Email: bthompson@rollins.edu
+   Username: bthompson
+   Original line: Brandon Thompson Head Women's Coach/Recruiting Coordinator bthompson@rollins.edu
+
+23. Shawn Pistor
+   Email: spistor@rollins.edu
+   Username: spistor
+   Phone: (407) 646-2375
+   Original line: Shawn Pistor Director of Rowing/Head Men's Rowing Coach 407-646-2375 spistor@rollins.edu
+
+24. Esteban Forrer
+   Email: eforrer@rollins.edu
+   Username: eforrer
+   Phone: (407) 691-1354
+   Original line: Esteban Forrer Head Coach 407-691-1354 eforrer@rollins.edu
+
+25. Keith Buckley
+   Email: kbuckley@rollins.edu
+   Username: kbuckley
+   Phone: (407) 646-2513
+   Original line: Keith Buckley Head Coach 407-646-2513 kbuckley@rollins.edu
+
+26. Luke Boden
+   Email: lboden@rollins.edu
+   Username: lboden
+   Phone: (407) 646-2374
+   Original line: Luke Boden Assistant Coach/Recruiting Coordinator 407-646-2374 lboden@rollins.edu
+
+27. Alex Mathias
+   Email: amathias@rollins.edu
+   Username: amathias
+   Original line: Alex Mathias Assistant Coach amathias@rollins.edu
+
+28. Harry New
+   Email: hnew@rollins.edu
+   Username: hnew
+   Original line: Harry New Volunteer Assistant Coach hnew@rollins.edu
+
+29. Alicia Schuck
+   Email: aschuck@rollins.edu
+   Username: aschuck
+   Phone: (407) 646-2142
+   Original line: Alicia Schuck Head Coach 407-646-2142 aschuck@rollins.edu
+
+30. Laszlo van
+   Email: lvanstraelen@rollins.edu
+   Username: lvanstraelen
+   Original line: Laszlo van Straelen Assistant Coach/Recruiting Coordinator lvanstraelen@rollins.edu
+
+31. Christine Roser-LeFevers
+   Email: croser@rollins.edu
+   Username: croser
+   Phone: (407) 646-2412
+   Original line: Christine Roser-LeFevers Head Coach 407-646-2412 croser@rollins.edu
+
+32. Jackie McKenna
+   Email: jmckenna@rollins.edu
+   Username: jmckenna
+   Original line: Jackie McKenna Assistant Coach jmckenna@rollins.edu
+
+33. Alissa Smith
+   Email: asmith1@rollins.edu
+   Username: asmith1
+   Original line: Alissa Smith Volunteer Assistant Coach asmith1@rollins.edu
+
+34. Walker Thaning
+   Email: wthaning@rollins.edu
+   Username: wthaning
+   Original line: Walker Thaning Head Coach wthaning@rollins.edu
+
+35. Tim Stollings
+   Email: tstollings@rollins.edu
+   Username: tstollings
+   Original line: Tim Stollings Assistant Coach tstollings@rollins.edu
+
+36. Walker Thaning
+   Email: wthaning@rollins.edu
+   Username: wthaning
+   Original line: Walker Thaning Head Coach wthaning@rollins.edu
+
+37. Tim Stollings
+   Email: tstollings@rollins.edu
+   Username: tstollings
+   Original line: Tim Stollings Assistant Coach tstollings@rollins.edu
+
+38. Jay Friedman
+   Email: jfriedman@rollins.edu
+   Username: jfriedman
+   Phone: (407) 646-2665
+   Original line: Jay Friedman Head Coach 407-646-2665 jfriedman@rollins.edu
+
+39. Tasi Purcell
+   Email: apurcellbatista@rollins.edu
+   Username: apurcellbatista
+   Phone: (407) 646-2482
+   Original line: Tasi Purcell Batista Head Coach 407-646-2482 apurcellbatista@rollins.edu
+
+40. Katie Groves
+   Email: kgroves@rollins.edu
+   Username: kgroves
+   Original line: Katie Groves Assistant Coach kgroves@rollins.edu
+
+41. Mika Robinson
+   Email: msrobinson@rollins.edu
+   Username: msrobinson
+   Phone: (407) 646-2631
+   Original line: Mika Robinson Head Coach 407-646-2631 msrobinson@rollins.edu
+
+42. Cameron Stevens
+   Email: ccstevens@rollins.edu
+   Username: ccstevens
+   Original line: Cameron Stevens Assistant Coach ccstevens@rollins.edu
+
+43. Noah Vazquez
+   Email: nvazquez1@rollins.edu
+   Username: nvazquez1
+   Original line: Noah Vazquez Assistant Coach nvazquez1@rollins.edu
+
+44. Marc Bedsole
+   Email: mbedsole@rollins.edu
+   Username: mbedsole
+   Phone: (407) 646-1530
+   Original line: Marc Bedsole Head Coach 407-646-1530 mbedsole@rollins.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jon Sjogren Head Coach 407-691-1346 baseball@rollins.edu
+• Patrick Szczerba Associate Head Coach/Recruiting Coordinator 407-691-1346 pszczerba@rollins.edu
+• Chuck Schall Assistant Coach cschall@rollins.edu
+• Jim Newlin JV Baseball Head Coach jnewlin@rollins.edu
+• Kevin Hogan Head Coach 407-646-2291 khogan@rollins.edu
+• Kevin Dux Assistant Coach kdux@rollins.edu
+• Kyle Frakes Head Men's Golf Coach / Assistant Men's Basketball Coach 407-646-2566 ofrakes@rollins.edu
+• Glenn Wilkes Jr. Head Coach 407-646-2476 gwilkes@rollins.edu
+• Kourtnie Berry Assistant Coach/Recruiting Coordinator 407-646-2367 kberry@rollins.edu
+• Caroline Swartz Graduate Assistant Coach cswartz@rollins.edu
+• Kyle Frakes Head Men's Golf Coach / Assistant Men's Basketball Coach 407-646-2566 ofrakes@rollins.edu
+• Robert Greninger Volunteer Assistant Coach rpgreninger@rollins.edu
+• Devanshi Naik Assistant Coach dnaik@rollins.edu
+• Chris Lewis Head Coach 407-646-2418 cdlewis@rollins.edu
+• Gary DiClementi Associate Head Coach 407-646-2017 gdiclementi@rollins.edu
+• Tom Kienle Head Coach tkienle@rollins.edu
+• Caroline Lamere Assistant Coach clamere@rollins.edu
+• Tony Williams Assistant Coach ajwilliams1@rollins.edu
+• Taylor Kienle Assistant Coach/Recruiting Coordinator tkienle1@rollins.edu
+• Shawn Pistor Director of Rowing/Head Men's Rowing Coach 407-646-2375 spistor@rollins.edu
+• Brandon Thompson Head Women's Coach/Recruiting Coordinator bthompson@rollins.edu
+• Brandon Thompson Head Women's Coach/Recruiting Coordinator bthompson@rollins.edu
+• Shawn Pistor Director of Rowing/Head Men's Rowing Coach 407-646-2375 spistor@rollins.edu
+• Esteban Forrer Head Coach 407-691-1354 eforrer@rollins.edu
+• Keith Buckley Head Coach 407-646-2513 kbuckley@rollins.edu
+• Luke Boden Assistant Coach/Recruiting Coordinator 407-646-2374 lboden@rollins.edu
+• Alex Mathias Assistant Coach amathias@rollins.edu
+• Harry New Volunteer Assistant Coach hnew@rollins.edu
+• Alicia Schuck Head Coach 407-646-2142 aschuck@rollins.edu
+• Laszlo van Straelen Assistant Coach/Recruiting Coordinator lvanstraelen@rollins.edu
+• Christine Roser-LeFevers Head Coach 407-646-2412 croser@rollins.edu
+• Jackie McKenna Assistant Coach jmckenna@rollins.edu
+• Alissa Smith Volunteer Assistant Coach asmith1@rollins.edu
+• Walker Thaning Head Coach wthaning@rollins.edu
+• Tim Stollings Assistant Coach tstollings@rollins.edu
+• Walker Thaning Head Coach wthaning@rollins.edu
+• Tim Stollings Assistant Coach tstollings@rollins.edu
+• Jay Friedman Head Coach 407-646-2665 jfriedman@rollins.edu
+• Tasi Purcell Batista Head Coach 407-646-2482 apurcellbatista@rollins.edu
+• Katie Groves Assistant Coach kgroves@rollins.edu
+• Mika Robinson Head Coach 407-646-2631 msrobinson@rollins.edu
+• Cameron Stevens Assistant Coach ccstevens@rollins.edu
+• Noah Vazquez Assistant Coach nvazquez1@rollins.edu
+• Marc Bedsole Head Coach 407-646-1530 mbedsole@rollins.edu

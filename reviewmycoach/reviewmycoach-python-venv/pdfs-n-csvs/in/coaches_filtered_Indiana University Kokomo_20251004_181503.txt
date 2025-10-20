@@ -1,0 +1,143 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:03
+============================================================
+
+Total coaches found: 22
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kolin Conner
+   Email: koconner@iu.edu
+   Username: koconner
+   Original line: Kolin Conner Head Coach koconner@iu.edu
+
+2. Joe Kenney
+   Email: joekenn@iu.edu
+   Username: joekenn
+   Original line: Joe Kenney Assistant Coach joekenn@iu.edu
+
+3. Eric Echelbarger
+   Email: eechelba@iu.edu
+   Username: eechelba
+   Original line: Eric Echelbarger Head Coach 765-455- eechelba@iu.edu
+
+4. Tre'Quan Spivey
+   Email: trespive@iu.edu
+   Username: trespive
+   Original line: Tre'Quan Spivey Associate Head Coach 765-455- trespive@iu.edu
+
+5. Lennon Hardy
+   Email: lenhardy@iu.edu
+   Username: lenhardy
+   Original line: Lennon Hardy Assistant Coach lenhardy@iu.edu
+
+6. Lisa Pflueger
+   Email: lpfluege@iu.edu
+   Username: lpfluege
+   Original line: Lisa Pflueger Head Coach lpfluege@iu.edu
+
+7. Josh Colvin
+   Email: jocolvin@iu.edu
+   Username: jocolvin
+   Original line: Josh Colvin Head Coach | Recruiting Coordinator 765-455- jocolvin@iu.edu
+
+8. Jordan Fivecoate
+   Email: jordfive@iu.edu
+   Username: jordfive
+   Original line: Jordan Fivecoate Associate Head Coach 765-455- jordfive@iu.edu
+
+9. Nick Liegey
+   Email: nliegey@iu.edu
+   Username: nliegey
+   Original line: Nick Liegey Head Coach nliegey@iu.edu
+
+10. Colton Wallace
+   Email: cowalla@iu.edu
+   Username: cowalla
+   Original line: Colton Wallace Assistant Coach (Overwatch) cowalla@iu.edu
+
+11. Alex Eubanks
+   Email: algueban@iu.edu
+   Username: algueban
+   Original line: Alex Eubanks Volunteer Coach algueban@iu.edu
+
+12. Pete Thatcher
+   Email: petethatcher@yahoo.com
+   Username: petethatcher
+   Original line: Pete Thatcher Co-Head Coach 765-860- petethatcher@yahoo.com
+
+13. Greg Kloenne
+   Email: golferwr@gmail.com
+   Username: golferwr
+   Original line: Greg Kloenne Co-Head Coach 765-210- golferwr@gmail.com
+
+14. Brandi Jones
+   Email: jones538@iu.edu
+   Username: jones538
+   Original line: Brandi Jones Head Coach jones538@iu.edu
+
+15. Sohaila Akhavein
+   Email: soakhave@iu.edu
+   Username: soakhave
+   Original line: Sohaila Akhavein Head Coach 765-455- soakhave@iu.edu
+
+16. Austin Hensley
+   Email: auhens@iu.edu
+   Username: auhens
+   Original line: Austin Hensley Goalkeeper Coach auhens@iu.edu
+
+17. Josh Colvin
+   Email: jocolvin@iu.edu
+   Username: jocolvin
+   Original line: Josh Colvin Head Coach | Recruiting Coordinator 765-455- jocolvin@iu.edu
+
+18. Jordan Fivecoate
+   Email: jordfive@iu.edu
+   Username: jordfive
+   Original line: Jordan Fivecoate Associate Head Coach 765-455- jordfive@iu.edu
+
+19. Grant Gaylor
+   Email: gwgaylor@iu.edu
+   Username: gwgaylor
+   Original line: Grant Gaylor Assistant Coach - Throws 765-455- gwgaylor@iu.edu
+
+20. Heather Hayes
+   Email: herhayes@iu.edu
+   Username: herhayes
+   Original line: Heather Hayes Head Coach 765-455- herhayes@iu.edu
+
+21. Lori Elson
+   Email: lorielso@iu.edu
+   Username: lorielso
+   Original line: Lori Elson Assistant Coach 765-455- lorielso@iu.edu
+
+22. Sarah Morin
+   Email: sgmorin@iu.edu
+   Username: sgmorin
+   Original line: Sarah Morin Assistant Coach/Recruiting Coordinator 765-455- sgmorin@iu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kolin Conner Head Coach koconner@iu.edu
+• Joe Kenney Assistant Coach joekenn@iu.edu
+• Eric Echelbarger Head Coach 765-455- eechelba@iu.edu
+• Tre'Quan Spivey Associate Head Coach 765-455- trespive@iu.edu
+• Lennon Hardy Assistant Coach lenhardy@iu.edu
+• Lisa Pflueger Head Coach lpfluege@iu.edu
+• Josh Colvin Head Coach | Recruiting Coordinator 765-455- jocolvin@iu.edu
+• Jordan Fivecoate Associate Head Coach 765-455- jordfive@iu.edu
+• Nick Liegey Head Coach nliegey@iu.edu
+• Colton Wallace Assistant Coach (Overwatch) cowalla@iu.edu
+• Alex Eubanks Volunteer Coach algueban@iu.edu
+• Pete Thatcher Co-Head Coach 765-860- petethatcher@yahoo.com
+• Greg Kloenne Co-Head Coach 765-210- golferwr@gmail.com
+• Brandi Jones Head Coach jones538@iu.edu
+• Sohaila Akhavein Head Coach 765-455- soakhave@iu.edu
+• Austin Hensley Goalkeeper Coach auhens@iu.edu
+• Josh Colvin Head Coach | Recruiting Coordinator 765-455- jocolvin@iu.edu
+• Jordan Fivecoate Associate Head Coach 765-455- jordfive@iu.edu
+• Grant Gaylor Assistant Coach - Throws 765-455- gwgaylor@iu.edu
+• Heather Hayes Head Coach 765-455- herhayes@iu.edu
+• Lori Elson Assistant Coach 765-455- lorielso@iu.edu
+• Sarah Morin Assistant Coach/Recruiting Coordinator 765-455- sgmorin@iu.edu

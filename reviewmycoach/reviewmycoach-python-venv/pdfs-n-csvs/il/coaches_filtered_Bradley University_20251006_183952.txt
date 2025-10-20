@@ -1,0 +1,197 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:52
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Justin Dedman
+   Email: jdedman@bradley.edu
+   Username: jdedman
+   Original line: Justin Dedman Baseball Head Coach jdedman@bradley.edu @hittingmental
+
+2. Curtis Kellogg
+   Email: ckellogg1@bradley.edu
+   Username: ckellogg1
+   Original line: Curtis Kellogg Assistant Baseball Coach ckellogg1@bradley.edu @curtyk22
+
+3. Jeff Bolen
+   Email: jbolen@bradley.edu
+   Username: jbolen
+   Original line: Jeff Bolen Assistant Baseball Coach jbolen@bradley.edu @coachbolenjc
+
+4. Sean Winston
+   Email: swinston@bradley.edu
+   Username: swinston
+   Original line: Sean Winston Assistant Baseball Coach swinston@bradley.edu
+
+5. Brian Jones
+   Email: bjones@bradley.edu
+   Username: bjones
+   Original line: Brian Jones Men's Basketball Assistant Coach 309-677- bjones@bradley.edu
+
+6. Mike Black
+   Email: mblack@bradley.edu
+   Username: mblack
+   Original line: Mike Black Men's Basketball Assistant Coach 309-677- mblack@bradley.edu
+
+7. Bobby Suarez
+   Email: rsuarez@fsmail.bradley.edu
+   Username: rsuarez
+   Original line: Bobby Suarez Men's Basketball Assistant Coach rsuarez@fsmail.bradley.edu
+
+8. Allan Hanson
+   Email: ahanson1@fsmail.bradley.edu
+   Username: ahanson1
+   Original line: Allan Hanson Men's Basketball Assistant Coach ahanson1@fsmail.bradley.edu
+
+9. Kamrein Street
+   Email: kstreet@fsmail.bradley.edu
+   Username: kstreet
+   Original line: Kamrein Street Special Assistant to Head Coach kstreet@fsmail.bradley.edu
+
+10. JerShon Cobb
+   Email: jcobb1@fsmail.bradley.edu
+   Username: jcobb1
+   Original line: JerShon Cobb Women's Basketball Assistant Coach jcobb1@fsmail.bradley.edu
+
+11. Ollie Goss
+   Email: ogoss@bradley.edu
+   Username: ogoss
+   Original line: Ollie Goss Women's Basketball Assistant Coach 309-677- ogoss@bradley.edu
+
+12. Stephanie Miller
+   Email: smiller1@fsmail.bradley.edu
+   Username: smiller1
+   Original line: Stephanie Miller Women's Basketball Assistant Coach smiller1@fsmail.bradley.edu
+
+13. Andrew Carlson
+   Email: acarlson2@fsmail.bradley.edu
+   Username: acarlson2
+   Original line: Andrew Carlson Cross Country and Track Head Coach acarlson2@fsmail.bradley.edu
+
+14. Mallory Mulzer
+   Email: mmulzer@fsmail.bradley.edu
+   Username: mmulzer
+   Original line: Mallory Mulzer Assistant Track and Field Coach mmulzer@fsmail.bradley.edu
+
+15. Cody Roder
+   Email: croder@fsmail.bradley.edu
+   Username: croder
+   Original line: Cody Roder Assistant Track & Field Coach croder@fsmail.bradley.edu
+
+16. Jeff Roche
+   Email: jjr@bradley.edu
+   Username: jjr
+   Original line: Jeff Roche Men's Golf Head Coach 309-677- jjr@bradley.edu
+
+17. Ethan Brue
+   Email: ebrue@fsmail.bradley.edu
+   Username: ebrue
+   Original line: Ethan Brue Assistant Men's Golf Coach, Recruiting ebrue@fsmail.bradley.edu
+
+18. Halley Morell
+   Email: hmorell@bradley.edu
+   Username: hmorell
+   Original line: Halley Morell Women's Golf Head Coach 309-677- hmorell@bradley.edu
+
+19. Tim Regan
+   Email: tregan@fsmail.bradley.edu
+   Username: tregan
+   Original line: Tim Regan Men's Soccer Head Coach 309-677- tregan@fsmail.bradley.edu
+
+20. Brian Barnett
+   Email: bbarnett@fsmail.bradley.edu
+   Username: bbarnett
+   Original line: Brian Barnett Men's Soccer Assistant Coach 309-677- bbarnett@fsmail.bradley.edu
+
+21. John Trask
+   Email: jtrask@fsmail.bradley.edu
+   Username: jtrask
+   Original line: John Trask Special Assistant to Head Coach & Director jtrask@fsmail.bradley.edu
+
+22. Sarah Willis
+   Email: swillis@bradley.edu
+   Username: swillis
+   Original line: Sarah Willis Softball Head Coach 309-677- swillis@bradley.edu @CoachSWillis22
+
+23. Lauren Gambone
+   Email: lgambone@bradley.edu
+   Username: lgambone
+   Original line: Lauren Gambone Softball Assistant Coach 309-677- lgambone@bradley.edu
+
+24. Wayne Noel
+   Email: wnoel@fsmail.bradley.edu
+   Username: wnoel
+   Original line: Wayne Noel Assistant Sports Performance Coach wnoel@fsmail.bradley.edu
+
+25. Andrew Carlson
+   Email: acarlson2@fsmail.bradley.edu
+   Username: acarlson2
+   Original line: Andrew Carlson Cross Country and Track Head Coach acarlson2@fsmail.bradley.edu
+
+26. Mallory Mulzer
+   Email: mmulzer@fsmail.bradley.edu
+   Username: mmulzer
+   Original line: Mallory Mulzer Assistant Track and Field Coach mmulzer@fsmail.bradley.edu
+
+27. Cody Roder
+   Email: croder@fsmail.bradley.edu
+   Username: croder
+   Original line: Cody Roder Assistant Track & Field Coach croder@fsmail.bradley.edu
+
+28. Alicia Williams
+   Email: aawilliams@bradley.edu
+   Username: aawilliams
+   Original line: Alicia Williams Volleyball Head Coach 309-677- aawilliams@bradley.edu
+
+29. Karagan Coggin
+   Email: kcoggin@fsmail.bradley.edu
+   Username: kcoggin
+   Original line: Karagan Coggin Volleyball Assistant Coach kcoggin@fsmail.bradley.edu
+
+30. Will McCall
+   Email: wmccall@fsmail.bradley.edu
+   Username: wmccall
+   Original line: Will McCall Volleyball Assistant Coach wmccall@fsmail.bradley.edu
+
+31. Matthew Schiferl
+   Email: mschiferl@fsmail.bradley.edu
+   Username: mschiferl
+   Original line: Matthew Schiferl Volleyball Assistant Coach mschiferl@fsmail.bradley.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Justin Dedman Baseball Head Coach jdedman@bradley.edu @hittingmental
+• Curtis Kellogg Assistant Baseball Coach ckellogg1@bradley.edu @curtyk22
+• Jeff Bolen Assistant Baseball Coach jbolen@bradley.edu @coachbolenjc
+• Sean Winston Assistant Baseball Coach swinston@bradley.edu
+• Brian Jones Men's Basketball Assistant Coach 309-677- bjones@bradley.edu
+• Mike Black Men's Basketball Assistant Coach 309-677- mblack@bradley.edu
+• Bobby Suarez Men's Basketball Assistant Coach rsuarez@fsmail.bradley.edu
+• Allan Hanson Men's Basketball Assistant Coach ahanson1@fsmail.bradley.edu
+• Kamrein Street Special Assistant to Head Coach kstreet@fsmail.bradley.edu
+• JerShon Cobb Women's Basketball Assistant Coach jcobb1@fsmail.bradley.edu
+• Ollie Goss Women's Basketball Assistant Coach 309-677- ogoss@bradley.edu
+• Stephanie Miller Women's Basketball Assistant Coach smiller1@fsmail.bradley.edu
+• Andrew Carlson Cross Country and Track Head Coach acarlson2@fsmail.bradley.edu
+• Mallory Mulzer Assistant Track and Field Coach mmulzer@fsmail.bradley.edu
+• Cody Roder Assistant Track & Field Coach croder@fsmail.bradley.edu
+• Jeff Roche Men's Golf Head Coach 309-677- jjr@bradley.edu
+• Ethan Brue Assistant Men's Golf Coach, Recruiting ebrue@fsmail.bradley.edu
+• Halley Morell Women's Golf Head Coach 309-677- hmorell@bradley.edu
+• Tim Regan Men's Soccer Head Coach 309-677- tregan@fsmail.bradley.edu
+• Brian Barnett Men's Soccer Assistant Coach 309-677- bbarnett@fsmail.bradley.edu
+• John Trask Special Assistant to Head Coach & Director jtrask@fsmail.bradley.edu
+• Sarah Willis Softball Head Coach 309-677- swillis@bradley.edu @CoachSWillis22
+• Lauren Gambone Softball Assistant Coach 309-677- lgambone@bradley.edu
+• Wayne Noel Assistant Sports Performance Coach wnoel@fsmail.bradley.edu
+• Andrew Carlson Cross Country and Track Head Coach acarlson2@fsmail.bradley.edu
+• Mallory Mulzer Assistant Track and Field Coach mmulzer@fsmail.bradley.edu
+• Cody Roder Assistant Track & Field Coach croder@fsmail.bradley.edu
+• Alicia Williams Volleyball Head Coach 309-677- aawilliams@bradley.edu
+• Karagan Coggin Volleyball Assistant Coach kcoggin@fsmail.bradley.edu
+• Will McCall Volleyball Assistant Coach wmccall@fsmail.bradley.edu
+• Matthew Schiferl Volleyball Assistant Coach mschiferl@fsmail.bradley.edu

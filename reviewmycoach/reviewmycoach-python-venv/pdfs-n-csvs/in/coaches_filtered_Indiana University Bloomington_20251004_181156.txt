@@ -1,0 +1,203 @@
+COACH ENTRIES FOUND - 2025-10-04 18:12:00
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Athletic Performance
+   Email: edramire@iu.edu
+   Username: edramire
+   Original line: Athletic Performance Coach edramire@iu.edu
+
+2. Athletic Performance
+   Email: dusnyder@iu.edu
+   Username: dusnyder
+   Original line: Athletic Performance Coach dusnyder@iu.edu
+
+3. Head Coach
+   Email: jeffmerc@iu.edu
+   Username: jeffmerc
+   Original line: Head Coach jeffmerc@iu.edu
+
+4. Associate Coach/Pitching
+   Email: dglant@iu.edu
+   Username: dglant
+   Original line: Associate Coach/Pitching dglant@iu.edu
+
+5. Assistant Coach/Hitting
+   Email: zweathe@iu.edu
+   Username: zweathe
+   Original line: Assistant Coach/Hitting & Recruiting Coordinator zweathe@iu.edu
+
+6. Assistant Coach/Pitching
+   Email: dsagerma@iu.edu
+   Username: dsagerma
+   Original line: Assistant Coach/Pitching & Catching dsagerma@iu.edu
+
+7. Head Coach
+   Email: wbasket@iu.edu
+   Username: wbasket
+   Original line: Head Coach wbasket@iu.edu
+
+8. Associate Head
+   Email: wierzbar@iu.edu
+   Username: wierzbar
+   Original line: Associate Head Coach wierzbar@iu.edu
+
+9. Assistant Coach
+   Email: apatberg@iu.edu
+   Username: apatberg
+   Original line: Assistant Coach apatberg@iu.edu
+
+10. Assistant Coach
+   Email: jwbye@iu.edu
+   Username: jwbye
+   Original line: Assistant Coach - Multis, Recruiting Coordinator/Director of Operations - Track jwbye@iu.edu
+
+11. Head Diving
+   Email: drjohans@iu.edu
+   Username: drjohans
+   Original line: Head Diving Coach drjohans@iu.edu
+
+12. Assistant Coach
+   Email: chockers@IU.edu
+   Username: chockers
+   Original line: Assistant Coach chockers@IU.edu
+
+13. Associate Head
+   Email: gklindbe@iu.edu
+   Username: gklindbe
+   Original line: Associate Head Coach, Recruiting Coordinator gklindbe@iu.edu
+
+14. Assistant Coach
+   Email: samsclif@iu.edu
+   Username: samsclif
+   Original line: Assistant Coach samsclif@iu.edu
+
+15. Athletic Performance
+   Email: dusnyder@iu.edu
+   Username: dusnyder
+   Original line: Athletic Performance Coach dusnyder@iu.edu
+
+16. Associate Head
+   Email: kprobson@iu.edu
+   Username: kprobson
+   Original line: Associate Head Coach/Recruiting Coordinator kprobson@iu.edu
+
+17. Assistant Coach
+   Email: clomeli@iu.edu
+   Username: clomeli
+   Original line: Assistant Coach clomeli@iu.edu
+
+18. Assistant Coach
+   Email: tannthom@iu.edu
+   Username: tannthom
+   Original line: Assistant Coach tannthom@iu.edu
+
+19. Head Coach
+   Email: softball@iu.edu
+   Username: softball
+   Original line: Head Coach softball@iu.edu
+
+20. Associate Head
+   Email: bell1@iu.edu
+   Username: bell1
+   Original line: Associate Head Coach bell1@iu.edu
+
+21. Head Coach
+   Email: rlooze@iu.edu
+   Username: rlooze
+   Original line: Head Coach rlooze@iu.edu
+
+22. Associate Head
+   Email: cormchit@iu.edu
+   Username: cormchit
+   Original line: Associate Head Coach (Swimming) cormchit@iu.edu
+
+23. Associate Head
+   Email: longjoh@iu.edu
+   Username: longjoh
+   Original line: Associate Head Coach (Swimming) longjoh@iu.edu
+
+24. Assistant Head
+   Email: lukeryan@iu.edu
+   Username: lukeryan
+   Original line: Assistant Head Coach/Director of Recruiting (Swimming) lukeryan@iu.edu
+
+25. Head Coach
+   Email: wurtzman@iu.edu
+   Username: wurtzman
+   Original line: Head Coach wurtzman@iu.edu
+
+26. Associate Head
+   Email: mikemurr@iu.edu
+   Username: mikemurr
+   Original line: Associate Head Coach mikemurr@iu.edu
+
+27. Assistant Coach
+   Email: jwbye@iu.edu
+   Username: jwbye
+   Original line: Assistant Coach - Multis, Recruiting Coordinator/Director of Operations - Track jwbye@iu.edu
+
+28. Head Coach
+   Email: wvolley@iu.edu
+   Username: wvolley
+   Original line: Head Coach wvolley@iu.edu
+
+29. Associate Head
+   Email: raclmorr@iu.edu
+   Username: raclmorr
+   Original line: Associate Head Coach and Recruiting Coordinator raclmorr@iu.edu
+
+30. Head Coach
+   Email: taymac@iu.edu
+   Username: taymac
+   Original line: Head Coach taymac@iu.edu
+
+31. Head Coach
+   Email: wrestl@iu.edu
+   Username: wrestl
+   Original line: Head Coach wrestl@iu.edu
+
+32. Assistant Coach
+   Email: rklefeve@iu.edu
+   Username: rklefeve
+   Original line: Assistant Coach rklefeve@iu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Athletic Performance Coach edramire@iu.edu
+• Athletic Performance Coach dusnyder@iu.edu
+• Head Coach jeffmerc@iu.edu
+• Associate Coach/Pitching dglant@iu.edu
+• Assistant Coach/Hitting & Recruiting Coordinator zweathe@iu.edu
+• Assistant Coach/Pitching & Catching dsagerma@iu.edu
+• Head Coach wbasket@iu.edu
+• Associate Head Coach wierzbar@iu.edu
+• Assistant Coach apatberg@iu.edu
+• Assistant Coach - Multis, Recruiting Coordinator/Director of Operations - Track jwbye@iu.edu
+• Head Diving Coach drjohans@iu.edu
+• Assistant Coach chockers@IU.edu
+• Associate Head Coach, Recruiting Coordinator gklindbe@iu.edu
+• Assistant Coach samsclif@iu.edu
+• Athletic Performance Coach dusnyder@iu.edu
+• Associate Head Coach/Recruiting Coordinator kprobson@iu.edu
+• Assistant Coach clomeli@iu.edu
+• Assistant Coach tannthom@iu.edu
+• Head Coach softball@iu.edu
+• Associate Head Coach bell1@iu.edu
+• Head Coach rlooze@iu.edu
+• Associate Head Coach (Swimming) cormchit@iu.edu
+• Associate Head Coach (Swimming) longjoh@iu.edu
+• Assistant Head Coach/Director of Recruiting (Swimming) lukeryan@iu.edu
+• Head Coach wurtzman@iu.edu
+• Associate Head Coach mikemurr@iu.edu
+• Assistant Coach - Multis, Recruiting Coordinator/Director of Operations - Track jwbye@iu.edu
+• Head Coach wvolley@iu.edu
+• Associate Head Coach and Recruiting Coordinator raclmorr@iu.edu
+• Head Coach taymac@iu.edu
+• Head Coach wrestl@iu.edu
+• Assistant Coach rklefeve@iu.edu

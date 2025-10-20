@@ -1,0 +1,263 @@
+COACH ENTRIES FOUND - 2025-10-19 04:58:20
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Dance
+   Email: mwilliams7@seattleu.edu
+   Username: mwilliams7
+   Original line: Head Dance Coach mwilliams7@seattleu.edu
+
+2. Blair Doak
+   Email: bdoak@seattleu.edu
+   Username: bdoak
+   Original line: Blair Doak Athletic Performance Coach bdoak@seattleu.edu
+
+3. Athletic Performance
+   Email: jcleveland@seattleu.edu
+   Username: jcleveland
+   Original line: Athletic Performance Coach jcleveland@seattleu.edu
+
+4. Athletic Performance
+   Email: sshelton@seattleu.edu
+   Username: sshelton
+   Original line: Athletic Performance Coach sshelton@seattleu.edu
+
+5. Donny Harrel
+   Email: harreld@seattleu.edu
+   Username: harreld
+   Original line: Donny Harrel Head Coach harreld@seattleu.edu
+
+6. Associate Head
+   Email: dawsonmillar@seattleu.edu
+   Username: dawsonmillar
+   Original line: Associate Head Coach dawsonmillar@seattleu.edu
+
+7. Danny Sales
+   Email: dsales@seattleu.edu
+   Username: dsales
+   Original line: Danny Sales Assistant Coach / Pitching dsales@seattleu.edu
+
+8. Grant Leep
+   Email: gleep@seattleu.edu
+   Username: gleep
+   Original line: Grant Leep Associate Head Coach gleep@seattleu.edu
+
+9. Assistant Coach
+   Email: sshpreyregin@seattleu.edu
+   Username: sshpreyregin
+   Original line: Assistant Coach sshpreyregin@seattleu.edu
+
+10. Colin Rardin
+   Email: crardin@seattleu.edu
+   Username: crardin
+   Original line: Colin Rardin Assistant Coach crardin@seattleu.edu
+
+11. Bryce Douglas
+   Email: bdouglas@seattleu.edu
+   Username: bdouglas
+   Original line: Bryce Douglas Assistant Coach bdouglas@seattleu.edu
+
+12. Assistant Coach
+   Email: jmotherwell@seattleu.edu
+   Username: jmotherwell
+   Original line: Assistant Coach jmotherwell@seattleu.edu
+
+13. Rachel Swartz
+   Email: rswartz@seattleu.edu
+   Username: rswartz
+   Original line: Rachel Swartz Assistant Coach rswartz@seattleu.edu
+
+14. Briana Gray
+   Email: bgray@seattleu.edu
+   Username: bgray
+   Original line: Briana Gray Assistant Coach bgray@seattleu.edu
+
+15. Head Coach
+   Email: jlesavage@seattleu.edu
+   Username: jlesavage
+   Original line: Head Coach jlesavage@seattleu.edu
+
+16. Alex Jensen
+   Email: ajensen@seattleu.edu
+   Username: ajensen
+   Original line: Alex Jensen Assistant Coach ajensen@seattleu.edu
+
+17. Head Coach
+   Email: golfrecruit@seattleu.edu
+   Username: golfrecruit
+   Original line: Head Coach golfrecruit@seattleu.edu
+
+18. Robby Hipp
+   Email: hippr@seattleu.edu
+   Username: hippr
+   Original line: Robby Hipp Assistant Coach hippr@seattleu.edu
+
+19. Head Coach
+   Email: golfrecruit@seattleu.edu
+   Username: golfrecruit
+   Original line: Head Coach golfrecruit@seattleu.edu
+
+20. Robby Hipp
+   Email: hippr@seattleu.edu
+   Username: hippr
+   Original line: Robby Hipp Assistant Coach hippr@seattleu.edu
+
+21. Jenn Thomas
+   Email: jthomas6@seattleu.edu
+   Username: jthomas6
+   Original line: Jenn Thomas Assistant Coach jthomas6@seattleu.edu
+
+22. Nate Daligcon
+   Email: daligcon@seattleu.edu
+   Username: daligcon
+   Original line: Nate Daligcon Head Coach daligcon@seattleu.edu
+
+23. Jason Farrell
+   Email: jfarrell2@seattleu.edu
+   Username: jfarrell2
+   Original line: Jason Farrell Assistant Coach jfarrell2@seattleu.edu
+
+24. Brooks Hopp
+   Email: bhopp@seattleu.edu
+   Username: bhopp
+   Original line: Brooks Hopp Assistant Coach bhopp@seattleu.edu
+
+25. Head Coach
+   Email: woodward@seattleu.edu
+   Username: woodward
+   Original line: Head Coach woodward@seattleu.edu
+
+26. Rich Schreiner
+   Email: rschrein@seattleu.edu
+   Username: rschrein
+   Original line: Rich Schreiner Associate Head Coach rschrein@seattleu.edu
+
+27. Chris Wells
+   Email: wellschristo@seattleu.edu
+   Username: wellschristo
+   Original line: Chris Wells Assistant Coach wellschristo@seattleu.edu
+
+28. Assistant Coach
+   Email: hkopmeyer@seattleu.edu
+   Username: hkopmeyer
+   Original line: Assistant Coach hkopmeyer@seattleu.edu
+
+29. Geoff Hirai
+   Email: hiraig@seattleu.edu
+   Username: hiraig
+   Original line: Geoff Hirai Head Coach hiraig@seattleu.edu
+
+30. Assistant Coach
+   Email: tyamaguchi@seattleu.edu
+   Username: tyamaguchi
+   Original line: Assistant Coach tyamaguchi@seattleu.edu
+
+31. Assistant Coach
+   Email: khumphreys1@seattleu.edu
+   Username: khumphreys1
+   Original line: Assistant Coach khumphreys1@seattleu.edu
+
+32. Joe Dykstra
+   Email: jdykstra@seattleu.edu
+   Username: jdykstra
+   Original line: Joe Dykstra Head Coach jdykstra@seattleu.edu
+
+33. Andy Lee
+   Email: leeandrew@seattleu.edu
+   Username: leeandrew
+   Original line: Andy Lee Assistant Coach leeandrew@seattleu.edu
+
+34. Joe Dykstra
+   Email: jdykstra@seattleu.edu
+   Username: jdykstra
+   Original line: Joe Dykstra Head Coach jdykstra@seattleu.edu
+
+35. Andy Lee
+   Email: leeandrew@seattleu.edu
+   Username: leeandrew
+   Original line: Andy Lee Assistant Coach leeandrew@seattleu.edu
+
+36. Head Coach
+   Email: khollander@seattleu.edu
+   Username: khollander
+   Original line: Head Coach khollander@seattleu.edu
+
+37. Head Coach
+   Email: jlesavage@seattleu.edu
+   Username: jlesavage
+   Original line: Head Coach jlesavage@seattleu.edu
+
+38. Alex Jensen
+   Email: ajensen@seattleu.edu
+   Username: ajensen
+   Original line: Alex Jensen Assistant Coach ajensen@seattleu.edu
+
+39. Tony Monroe
+   Email: monroea@seattleu.edu
+   Username: monroea
+   Original line: Tony Monroe Assistant Coach - Jumps/Sprints monroea@seattleu.edu
+
+40. Dan Behnke
+   Email: dbehnke@seattleu.edu
+   Username: dbehnke
+   Original line: Dan Behnke Head Coach dbehnke@seattleu.edu
+
+41. Assistant Coach/Recruiting
+   Email: kbraceros@seattleu.edu
+   Username: kbraceros
+   Original line: Assistant Coach/Recruiting Coordinator kbraceros@seattleu.edu
+
+42. Assistant Coach
+   Email: mwhyte@seattleu.edu
+   Username: mwhyte
+   Original line: Assistant Coach mwhyte@seattleu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Dance Coach mwilliams7@seattleu.edu
+• Blair Doak Athletic Performance Coach bdoak@seattleu.edu
+• Athletic Performance Coach jcleveland@seattleu.edu
+• Athletic Performance Coach sshelton@seattleu.edu
+• Donny Harrel Head Coach harreld@seattleu.edu
+• Associate Head Coach dawsonmillar@seattleu.edu
+• Danny Sales Assistant Coach / Pitching dsales@seattleu.edu
+• Grant Leep Associate Head Coach gleep@seattleu.edu
+• Assistant Coach sshpreyregin@seattleu.edu
+• Colin Rardin Assistant Coach crardin@seattleu.edu
+• Bryce Douglas Assistant Coach bdouglas@seattleu.edu
+• Assistant Coach jmotherwell@seattleu.edu
+• Rachel Swartz Assistant Coach rswartz@seattleu.edu
+• Briana Gray Assistant Coach bgray@seattleu.edu
+• Head Coach jlesavage@seattleu.edu
+• Alex Jensen Assistant Coach ajensen@seattleu.edu
+• Head Coach golfrecruit@seattleu.edu
+• Robby Hipp Assistant Coach hippr@seattleu.edu
+• Head Coach golfrecruit@seattleu.edu
+• Robby Hipp Assistant Coach hippr@seattleu.edu
+• Jenn Thomas Assistant Coach jthomas6@seattleu.edu
+• Nate Daligcon Head Coach daligcon@seattleu.edu
+• Jason Farrell Assistant Coach jfarrell2@seattleu.edu
+• Brooks Hopp Assistant Coach bhopp@seattleu.edu
+• Head Coach woodward@seattleu.edu
+• Rich Schreiner Associate Head Coach rschrein@seattleu.edu
+• Chris Wells Assistant Coach wellschristo@seattleu.edu
+• Assistant Coach hkopmeyer@seattleu.edu
+• Geoff Hirai Head Coach hiraig@seattleu.edu
+• Assistant Coach tyamaguchi@seattleu.edu
+• Assistant Coach khumphreys1@seattleu.edu
+• Joe Dykstra Head Coach jdykstra@seattleu.edu
+• Andy Lee Assistant Coach leeandrew@seattleu.edu
+• Joe Dykstra Head Coach jdykstra@seattleu.edu
+• Andy Lee Assistant Coach leeandrew@seattleu.edu
+• Head Coach khollander@seattleu.edu
+• Head Coach jlesavage@seattleu.edu
+• Alex Jensen Assistant Coach ajensen@seattleu.edu
+• Tony Monroe Assistant Coach - Jumps/Sprints monroea@seattleu.edu
+• Dan Behnke Head Coach dbehnke@seattleu.edu
+• Assistant Coach/Recruiting Coordinator kbraceros@seattleu.edu
+• Assistant Coach mwhyte@seattleu.edu

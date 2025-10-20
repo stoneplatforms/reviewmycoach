@@ -1,0 +1,233 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:00
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Volunteer Assistant
+   Email: drbell@bsu.edu
+   Username: drbell
+   Original line: Volunteer Assistant Coach, Strength and Conditioning drbell@bsu.edu
+
+2. Cheerleading Head
+   Email: wrichards@varsity.com
+   Username: wrichards
+   Original line: Cheerleading Head Coach wrichards@varsity.com
+
+3. Head Coach
+   Email: ramaloney@bsu.edu
+   Username: ramaloney
+   Original line: Head Coach ramaloney@bsu.edu
+
+4. Assistant Coach
+   Email: alex.maloney@bsu.edu
+   Username: alex.maloney
+   Original line: Assistant Coach / Recruiting Coordinator alex.maloney@bsu.edu
+
+5. Assistant Coach
+   Email: justin.wechsler@bsu.edu
+   Username: justin.wechsler
+   Original line: Assistant Coach / Pitching Coach justin.wechsler@bsu.edu
+
+6. Head Coach
+   Email: mbasketball@bsu.edu
+   Username: mbasketball
+   Original line: Head Coach mbasketball@bsu.edu
+
+7. Head Coach
+   Email: absallee@bsu.edu
+   Username: absallee
+   Original line: Head Coach absallee@bsu.edu
+
+8. Associate Head
+   Email: aemcdonald@bsu.edu
+   Username: aemcdonald
+   Original line: Associate Head Coach aemcdonald@bsu.edu
+
+9. Assistant Coach
+   Email: Moriah.Monaco@bsu.edu
+   Username: Moriah.Monaco
+   Original line: Assistant Coach Moriah.Monaco@bsu.edu
+
+10. Assistant Women's
+   Email: cassandra.morrissett@bsu.edu
+   Username: cassandra.morrissett
+   Original line: Assistant Women's Basketball Coach cassandra.morrissett@bsu.edu
+
+11. Assistant Women's
+   Email: mariah.king@bsu.edu
+   Username: mariah.king
+   Original line: Assistant Women's Basketball Coach mariah.king@bsu.edu
+
+12. Head Coach
+   Email: adrian.wheatley@bsu.edu
+   Username: adrian.wheatley
+   Original line: Head Coach adrian.wheatley@bsu.edu
+
+13. Head Coach
+   Email: caitlin.walsh@bsu.edu
+   Username: caitlin.walsh
+   Original line: Head Coach caitlin.walsh@bsu.edu
+
+14. Head Football
+   Email: football@bsu.edu
+   Username: football
+   Original line: Head Football Coach football@bsu.edu
+
+15. Defensive Coordinator/Linebackers
+   Email: football@bsu.edu
+   Username: football
+   Original line: Defensive Coordinator/Linebackers Coach football@bsu.edu
+
+16. Offensive Pass
+   Email: football@bsu.edu
+   Username: football
+   Original line: Offensive Pass Game Coordinator/Quarterbacks Coach football@bsu.edu
+
+17. Defensive Run
+   Email: football@bsu.edu
+   Username: football
+   Original line: Defensive Run Game Coordinator/Defensive Line Coach football@bsu.edu
+
+18. Offensive Line
+   Email: football@bsu.edu
+   Username: football
+   Original line: Offensive Line Coach football@bsu.edu
+
+19. Running Backs
+   Email: football@bsu.edu
+   Username: football
+   Original line: Running Backs Coach football@bsu.edu
+
+20. Tight Ends
+   Email: football@bsu.edu
+   Username: football
+   Original line: Tight Ends Coach football@bsu.edu
+
+21. Inside Receivers
+   Email: football@bsu.edu
+   Username: football
+   Original line: Inside Receivers Coach football@bsu.edu
+
+22. Safeties Coach
+   Email: football@bsu.edu
+   Username: football
+   Original line: Safeties Coach football@bsu.edu
+
+23. Snipers Coach
+   Email: football@bsu.edu
+   Username: football
+   Original line: Snipers Coach football@bsu.edu
+
+24. Wide Receivers
+   Email: football@bsu.edu
+   Username: football
+   Original line: Wide Receivers Coach football@bsu.edu
+
+25. Assistant Secondary
+   Email: football@bsu.edu
+   Username: football
+   Original line: Assistant Secondary Coach football@bsu.edu
+
+26. Head Coach
+   Email: mfleck@bsu.edu
+   Username: mfleck
+   Original line: Head Coach mfleck@bsu.edu
+
+27. Head Coach
+   Email: cameron.andry@bsu.edu
+   Username: cameron.andry
+   Original line: Head Coach cameron.andry@bsu.edu
+
+28. Head Coach
+   Email: jlsaleem@bsu.edu
+   Username: jlsaleem
+   Original line: Head Coach jlsaleem@bsu.edu
+
+29. Assistant Coach
+   Email: stwilson@bsu.edu
+   Username: stwilson
+   Original line: Assistant Coach stwilson@bsu.edu
+
+30. Head Coach
+   Email: helen.pena@bsu.edu
+   Username: helen.pena
+   Original line: Head Coach helen.pena@bsu.edu
+
+31. Associate Head
+   Email: matt.burns@bsu.edu
+   Username: matt.burns
+   Original line: Associate Head Coach / Recruiting Coordinator matt.burns@bsu.edu
+
+32. Assistant Coach
+   Email: avrey.steiner@bsu.edu
+   Username: avrey.steiner
+   Original line: Assistant Coach avrey.steiner@bsu.edu
+
+33. Head Coach
+   Email: jragnew@bsu.edu
+   Username: jragnew
+   Original line: Head Coach jragnew@bsu.edu
+
+34. Assistant Coach
+   Email: James.boone@bsu.edu
+   Username: James.boone
+   Original line: Assistant Coach James.boone@bsu.edu
+
+35. Head Coach
+   Email: kmiller2@bsu.edu
+   Username: kmiller2
+   Original line: Head Coach kmiller2@bsu.edu
+
+36. Assistant Coach
+   Email: darcy.dorton@bsu.edu
+   Username: darcy.dorton
+   Original line: Assistant Coach darcy.dorton@bsu.edu
+
+37. Assistant Coach
+   Email: tucker.bitting@bsu.edu
+   Username: tucker.bitting
+   Original line: Assistant Coach tucker.bitting@bsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Volunteer Assistant Coach, Strength and Conditioning drbell@bsu.edu
+• Cheerleading Head Coach wrichards@varsity.com
+• Head Coach ramaloney@bsu.edu
+• Assistant Coach / Recruiting Coordinator alex.maloney@bsu.edu
+• Assistant Coach / Pitching Coach justin.wechsler@bsu.edu
+• Head Coach mbasketball@bsu.edu
+• Head Coach absallee@bsu.edu
+• Associate Head Coach aemcdonald@bsu.edu
+• Assistant Coach Moriah.Monaco@bsu.edu
+• Assistant Women's Basketball Coach cassandra.morrissett@bsu.edu
+• Assistant Women's Basketball Coach mariah.king@bsu.edu
+• Head Coach adrian.wheatley@bsu.edu
+• Head Coach caitlin.walsh@bsu.edu
+• Head Football Coach football@bsu.edu
+• Defensive Coordinator/Linebackers Coach football@bsu.edu
+• Offensive Pass Game Coordinator/Quarterbacks Coach football@bsu.edu
+• Defensive Run Game Coordinator/Defensive Line Coach football@bsu.edu
+• Offensive Line Coach football@bsu.edu
+• Running Backs Coach football@bsu.edu
+• Tight Ends Coach football@bsu.edu
+• Inside Receivers Coach football@bsu.edu
+• Safeties Coach football@bsu.edu
+• Snipers Coach football@bsu.edu
+• Wide Receivers Coach football@bsu.edu
+• Assistant Secondary Coach football@bsu.edu
+• Head Coach mfleck@bsu.edu
+• Head Coach cameron.andry@bsu.edu
+• Head Coach jlsaleem@bsu.edu
+• Assistant Coach stwilson@bsu.edu
+• Head Coach helen.pena@bsu.edu
+• Associate Head Coach / Recruiting Coordinator matt.burns@bsu.edu
+• Assistant Coach avrey.steiner@bsu.edu
+• Head Coach jragnew@bsu.edu
+• Assistant Coach James.boone@bsu.edu
+• Head Coach kmiller2@bsu.edu
+• Assistant Coach darcy.dorton@bsu.edu
+• Assistant Coach tucker.bitting@bsu.edu

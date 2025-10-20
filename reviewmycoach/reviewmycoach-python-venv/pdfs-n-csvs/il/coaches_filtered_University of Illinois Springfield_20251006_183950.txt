@@ -1,0 +1,149 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:50
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Zach Leinen
+   Email: zlein@uis.edu
+   Username: zlein
+   Original line: Zach Leinen Assistant Sports Performance Coach zlein@uis.edu
+
+2. Shaina Ford
+   Email: sford24@uis.edu
+   Username: sford24
+   Original line: Shaina Ford Head Cheer Coach sford24@uis.edu
+
+3. Chris Rodriguez
+   Email: crodr100@uis.edu
+   Username: crodr100
+   Original line: Chris Rodriguez Head Coach crodr100@uis.edu
+
+4. Will Oberg
+   Email: wober2@uis.edu
+   Username: wober2
+   Original line: Will Oberg Assistant Coach wober2@uis.edu
+
+5. Matt Brock
+   Email: mbroc3@uis.edu
+   Username: mbroc3
+   Original line: Matt Brock Head Coach mbroc3@uis.edu
+
+6. Emmons King
+   Email: eking29@uis.edu
+   Username: eking29
+   Original line: Emmons King Head Coach eking29@uis.edu
+
+7. Tyler Pence
+   Email: tpenc2@uis.edu
+   Username: tpenc2
+   Original line: Tyler Pence Assistant Coach tpenc2@uis.edu
+
+8. Josh Edison
+   Email: jedis@uis.edu
+   Username: jedis
+   Original line: Josh Edison Head Coach jedis@uis.edu
+
+9. Julie Hofmanova
+   Email: jhofm@uis.edu
+   Username: jhofm
+   Original line: Julie Hofmanova Assistant Coach jhofm@uis.edu
+
+10. Henrique Leal
+   Email: hleal@uis.edu
+   Username: hleal
+   Original line: Henrique Leal Head Coach hleal@uis.edu
+
+11. Elina Ivanova
+   Email: eivan7@uis.edu
+   Username: eivan7
+   Original line: Elina Ivanova Assistant Coach eivan7@uis.edu
+
+12. Emmons King
+   Email: eking29@uis.edu
+   Username: eking29
+   Original line: Emmons King Head Coach eking29@uis.edu
+
+13. Tyler Pence
+   Email: tpenc2@uis.edu
+   Username: tpenc2
+   Original line: Tyler Pence Assistant Coach tpenc2@uis.edu
+
+14. Graham Shaw
+   Email: gshaw8@uis.edu
+   Username: gshaw8
+   Original line: Graham Shaw Head Coach gshaw8@uis.edu
+
+15. Joe Conway
+   Email: jconw2@uis.edu
+   Username: jconw2
+   Original line: Joe Conway Assistant Coach jconw2@uis.edu
+
+16. Shannon Guthrie
+   Email: snich2@uis.edu
+   Username: snich2
+   Original line: Shannon Guthrie Head Coach snich2@uis.edu 217-341-
+
+17. Ashli King
+   Email: aking38@uis.edu
+   Username: aking38
+   Original line: Ashli King Assistant Coach aking38@uis.edu
+
+18. Reagan Miles
+   Email: rmile2@uis.edu
+   Username: rmile2
+   Original line: Reagan Miles Assistant Coach rmile2@uis.edu
+
+19. Laura Ulrich
+   Email: lfarney@uis.edu
+   Username: lfarney
+   Original line: Laura Ulrich Head Coach lfarney@uis.edu
+
+20. Olivia Birt
+   Email: olett@uis.edu
+   Username: olett
+   Original line: Olivia Birt Head Coach olett@uis.edu
+
+21. D'Angelo Hughes
+   Email: dhugh10@uis.edu
+   Username: dhugh10
+   Original line: D'Angelo Hughes Assistant Coach dhugh10@uis.edu
+
+22. Scott Myers
+   Email: smyer24@uis.edu
+   Username: smyer24
+   Original line: Scott Myers Head Coach smyer24@uis.edu
+
+23. Hailey Parungao
+   Email: parungao@uis.edu
+   Username: parungao
+   Original line: Hailey Parungao Assistant Coach parungao@uis.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Zach Leinen Assistant Sports Performance Coach zlein@uis.edu
+• Shaina Ford Head Cheer Coach sford24@uis.edu
+• Chris Rodriguez Head Coach crodr100@uis.edu
+• Will Oberg Assistant Coach wober2@uis.edu
+• Matt Brock Head Coach mbroc3@uis.edu
+• Emmons King Head Coach eking29@uis.edu
+• Tyler Pence Assistant Coach tpenc2@uis.edu
+• Josh Edison Head Coach jedis@uis.edu
+• Julie Hofmanova Assistant Coach jhofm@uis.edu
+• Henrique Leal Head Coach hleal@uis.edu
+• Elina Ivanova Assistant Coach eivan7@uis.edu
+• Emmons King Head Coach eking29@uis.edu
+• Tyler Pence Assistant Coach tpenc2@uis.edu
+• Graham Shaw Head Coach gshaw8@uis.edu
+• Joe Conway Assistant Coach jconw2@uis.edu
+• Shannon Guthrie Head Coach snich2@uis.edu 217-341-
+• Ashli King Assistant Coach aking38@uis.edu
+• Reagan Miles Assistant Coach rmile2@uis.edu
+• Laura Ulrich Head Coach lfarney@uis.edu
+• Olivia Birt Head Coach olett@uis.edu
+• D'Angelo Hughes Assistant Coach dhugh10@uis.edu
+• Scott Myers Head Coach smyer24@uis.edu
+• Hailey Parungao Assistant Coach parungao@uis.edu

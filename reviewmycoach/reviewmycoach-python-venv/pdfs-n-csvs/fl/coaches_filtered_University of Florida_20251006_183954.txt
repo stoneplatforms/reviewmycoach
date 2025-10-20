@@ -1,0 +1,287 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:57
+============================================================
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: baseballmail@gators.ufl.edu
+   Username: baseballmail
+   Original line: Head Coach baseballmail@gators.ufl.edu
+
+2. Associate Head
+   Email: baseballmail@gators.ufl.edu
+   Username: baseballmail
+   Original line: Associate Head Coach baseballmail@gators.ufl.edu
+
+3. Assistant Coach
+   Email: baseballmail@gators.ufl.edu
+   Username: baseballmail
+   Original line: Assistant Coach baseballmail@gators.ufl.edu
+
+4. Pitching Coach
+   Email: baseballmail@gators.ufl.edu
+   Username: baseballmail
+   Original line: Pitching Coach baseballmail@gators.ufl.edu
+
+5. Head Coach
+   Email: KellyFi@gators.ufl.edu
+   Username: KellyFi
+   Original line: Head Coach KellyFi@gators.ufl.edu
+
+6. Assistant Coach
+   Email: DanB@gators.ufl.edu
+   Username: DanB
+   Original line: Assistant Coach DanB@gators.ufl.edu
+
+7. Assistant Coach/Recruiting
+   Email: CynthiaJ@gators.ufl.edu
+   Username: CynthiaJ
+   Original line: Assistant Coach/Recruiting Coordinator CynthiaJ@gators.ufl.edu
+
+8. Assistant Coach
+   Email: JackieM@gators.ufl.edu
+   Username: JackieM
+   Original line: Assistant Coach JackieM@gators.ufl.edu
+
+9. Assistant Coach
+   Email: JasS@gators.ufl.edu
+   Username: JasS
+   Original line: Assistant Coach JasS@gators.ufl.edu
+
+10. Assistant Coach
+   Email: FredW@gators.ufl.edu
+   Username: FredW
+   Original line: Assistant Coach FredW@gators.ufl.edu
+
+11. Head Coach
+   Email: FootballMail@gators.ufl.edu
+   Username: FootballMail
+   Original line: Head Coach FootballMail@gators.ufl.edu
+
+12. Assistant Coach
+   Email: FootballMail@gators.ufl.edu
+   Username: FootballMail
+   Original line: Assistant Coach / Offensive Line FootballMail@gators.ufl.edu
+
+13. Associate Head
+   Email: FootballMail@gators.ufl.edu
+   Username: FootballMail
+   Original line: Associate Head Coach / Running Backs FootballMail@gators.ufl.edu
+
+14. Assistant Coach
+   Email: FootballMail@gators.ufl.edu
+   Username: FootballMail
+   Original line: Assistant Coach - Co-Defensive Coordinator / Safeties FootballMail@gators.ufl.edu
+
+15. Assistant Coach
+   Email: FootballMail@gators.ufl.edu
+   Username: FootballMail
+   Original line: Assistant Coach / Wide Receivers FootballMail@gators.ufl.edu
+
+16. Assistant Coach
+   Email: FootballMail@gators.ufl.edu
+   Username: FootballMail
+   Original line: Assistant Coach / Defensive Backs FootballMail@gators.ufl.edu
+
+17. Assistant Coach
+   Email: RyanO@gators.ufl.edu
+   Username: RyanO
+   Original line: Assistant Coach / Quarterbacks RyanO@gators.ufl.edu
+
+18. Head Coach
+   Email: JCD@gators.ufl.edu
+   Username: JCD
+   Original line: Head Coach JCD@gators.ufl.edu
+
+19. Head Coach
+   Email: EmilyG@gators.ufl.edu
+   Username: EmilyG
+   Original line: Head Coach EmilyG@gators.ufl.edu
+
+20. Head Coach
+   Email: jennyr@gators.ufl.edu
+   Username: jennyr
+   Original line: Head Coach jennyr@gators.ufl.edu
+
+21. Associate Head
+   Email: adrianb@gators.ufl.edu
+   Username: adrianb
+   Original line: Associate Head Coach adrianb@gators.ufl.edu
+
+22. Associate Head
+   Email: owenf@gators.ufl.edu
+   Username: owenf
+   Original line: Associate Head Coach / General Manager owenf@gators.ufl.edu
+
+23. Assistant to
+   Email: MeredithL@gators.ufl.edu
+   Username: MeredithL
+   Original line: Assistant to the Head Coach MeredithL@gators.ufl.edu
+
+24. Head Coach
+   Email: amandao@gators.ufl.edu
+   Username: amandao
+   Original line: Head Coach amandao@gators.ufl.edu
+
+25. Assistant Coach
+   Email: HaleyH@gators.ufl.edu
+   Username: HaleyH
+   Original line: Assistant Coach HaleyH@gators.ufl.edu
+
+26. Head Coach,
+   Email: SawyerB@gators.ufl.edu
+   Username: SawyerB
+   Original line: Head Coach, Cheer SawyerB@gators.ufl.edu
+
+27. Assistant Coach
+   Email: SoccerMail@gators.ufl.edu
+   Username: SoccerMail
+   Original line: Assistant Coach SoccerMail@gators.ufl.edu
+
+28. Assistant Coach
+   Email: SoccerMail@gators.ufl.edu
+   Username: SoccerMail
+   Original line: Assistant Coach SoccerMail@gators.ufl.edu
+
+29. Men's and
+   Email: mswimrecruits@gators.ufl.edu
+   Username: mswimrecruits
+   Original line: Men's and Women's Head Coach mswimrecruits@gators.ufl.edu
+
+30. Men's and
+   Email: WhitneyH@gators.ufl.edu
+   Username: WhitneyH
+   Original line: Men's and Women's Sr. Associate Head Coach WhitneyH@gators.ufl.edu
+
+31. Diving Coach
+   Email: BryanG@gators.ufl.edu
+   Username: BryanG
+   Original line: Diving Coach BryanG@gators.ufl.edu
+
+32. Men's and
+   Email: JackS@gators.ufl.edu
+   Username: JackS
+   Original line: Men's and Women's Swimming Associate Head Coach JackS@gators.ufl.edu
+
+33. Strength &
+   Email: KatelynK@gators.ufl.edu
+   Username: KatelynK
+   Original line: Strength & Conditioning Coach KatelynK@gators.ufl.edu
+
+34. Strength &
+   Email: JasonTr@gators.ufl.edu
+   Username: JasonTr
+   Original line: Strength & Conditioning Coach (Women's Basketball) JasonTr@gators.ufl.edu
+
+35. Head Coach
+   Email: AdamS@gators.ufl.edu
+   Username: AdamS
+   Original line: Head Coach AdamS@gators.ufl.edu
+
+36. Head Coach
+   Email: PerN@gators.ufl.edu
+   Username: PerN
+   Original line: Head Coach PerN@gators.ufl.edu
+
+37. Associate Head
+   Email: AxelD@gators.ufl.edu
+   Username: AxelD
+   Original line: Associate Head Coach AxelD@gators.ufl.edu
+
+38. Head Coach
+   Email: mouseh@gators.ufl.edu
+   Username: mouseh
+   Original line: Head Coach - Sprints/Hurdles/Relays mouseh@gators.ufl.edu
+
+39. Associate Head
+   Email: nicp@gators.ufl.edu
+   Username: nicp
+   Original line: Associate Head Coach - Jumps nicp@gators.ufl.edu
+
+40. Associate Head
+   Email: mellaneew@gators.ufl.edu
+   Username: mellaneew
+   Original line: Associate Head Coach - Recruiting Coordinator/Sprints/Relays/High Jump mellaneew@gators.ufl.edu
+
+41. Assistant Coach
+   Email: YanickH@gators.ufl.edu
+   Username: YanickH
+   Original line: Assistant Coach I YanickH@gators.ufl.edu
+
+42. Assistant Coach
+   Email: EricW@gators.ufl.edu
+   Username: EricW
+   Original line: Assistant Coach - Throws EricW@gators.ufl.edu
+
+43. Assistant Coach
+   Email: WillP@gators.ufl.edu
+   Username: WillP
+   Original line: Assistant Coach WillP@gators.ufl.edu
+
+44. Assistant Coach
+   Email: HollandS@gators.ufl.edu
+   Username: HollandS
+   Original line: Assistant Coach - Hurdles/Sprints HollandS@gators.ufl.edu
+
+45. Assistant Coach
+   Email: CamP@gators.ufl.edu
+   Username: CamP
+   Original line: Assistant Coach CamP@gators.ufl.edu
+
+46. Assistant Coach
+   Email: VolleyballMail@gators.ufl.edu
+   Username: VolleyballMail
+   Original line: Assistant Coach VolleyballMail@gators.ufl.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach baseballmail@gators.ufl.edu
+• Associate Head Coach baseballmail@gators.ufl.edu
+• Assistant Coach baseballmail@gators.ufl.edu
+• Pitching Coach baseballmail@gators.ufl.edu
+• Head Coach KellyFi@gators.ufl.edu
+• Assistant Coach DanB@gators.ufl.edu
+• Assistant Coach/Recruiting Coordinator CynthiaJ@gators.ufl.edu
+• Assistant Coach JackieM@gators.ufl.edu
+• Assistant Coach JasS@gators.ufl.edu
+• Assistant Coach FredW@gators.ufl.edu
+• Head Coach FootballMail@gators.ufl.edu
+• Assistant Coach / Offensive Line FootballMail@gators.ufl.edu
+• Associate Head Coach / Running Backs FootballMail@gators.ufl.edu
+• Assistant Coach - Co-Defensive Coordinator / Safeties FootballMail@gators.ufl.edu
+• Assistant Coach / Wide Receivers FootballMail@gators.ufl.edu
+• Assistant Coach / Defensive Backs FootballMail@gators.ufl.edu
+• Assistant Coach / Quarterbacks RyanO@gators.ufl.edu
+• Head Coach JCD@gators.ufl.edu
+• Head Coach EmilyG@gators.ufl.edu
+• Head Coach jennyr@gators.ufl.edu
+• Associate Head Coach adrianb@gators.ufl.edu
+• Associate Head Coach / General Manager owenf@gators.ufl.edu
+• Assistant to the Head Coach MeredithL@gators.ufl.edu
+• Head Coach amandao@gators.ufl.edu
+• Assistant Coach HaleyH@gators.ufl.edu
+• Head Coach, Cheer SawyerB@gators.ufl.edu
+• Assistant Coach SoccerMail@gators.ufl.edu
+• Assistant Coach SoccerMail@gators.ufl.edu
+• Men's and Women's Head Coach mswimrecruits@gators.ufl.edu
+• Men's and Women's Sr. Associate Head Coach WhitneyH@gators.ufl.edu
+• Diving Coach BryanG@gators.ufl.edu
+• Men's and Women's Swimming Associate Head Coach JackS@gators.ufl.edu
+• Strength & Conditioning Coach KatelynK@gators.ufl.edu
+• Strength & Conditioning Coach (Women's Basketball) JasonTr@gators.ufl.edu
+• Head Coach AdamS@gators.ufl.edu
+• Head Coach PerN@gators.ufl.edu
+• Associate Head Coach AxelD@gators.ufl.edu
+• Head Coach - Sprints/Hurdles/Relays mouseh@gators.ufl.edu
+• Associate Head Coach - Jumps nicp@gators.ufl.edu
+• Associate Head Coach - Recruiting Coordinator/Sprints/Relays/High Jump mellaneew@gators.ufl.edu
+• Assistant Coach I YanickH@gators.ufl.edu
+• Assistant Coach - Throws EricW@gators.ufl.edu
+• Assistant Coach WillP@gators.ufl.edu
+• Assistant Coach - Hurdles/Sprints HollandS@gators.ufl.edu
+• Assistant Coach CamP@gators.ufl.edu
+• Assistant Coach VolleyballMail@gators.ufl.edu

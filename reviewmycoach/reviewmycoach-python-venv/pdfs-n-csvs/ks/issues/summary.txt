@@ -1,0 +1,9 @@
+Printing results: Success=21 Skipped=0 Errors=0
+
+PDFs with zero coaches detected:
+- Baker University.pdf
+- Kansas State University.pdf
+- Bethany College (KS).pdf
+- Sterling College (KS).pdf
+- Ottawa University.pdf
+- Southwestern College (KS).pdf

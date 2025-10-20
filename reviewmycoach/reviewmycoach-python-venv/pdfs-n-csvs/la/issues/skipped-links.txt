@@ -1,0 +1,6 @@
+Southern University at New Orleans (SUNO).pdf :: https://suno.edu/athletics :: Navigation failed: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://suno.edu/athletics/index
+Call log:
+  - navigating to "https://suno.edu/athletics/index", waiting until "networkidle"
+
+  tried: https://suno.edu/athletics?print=true, https://suno.edu/athletics/print, https://suno.edu/athletics, https://suno.edu/athletics/index?print=true, https://suno.edu/athletics/index/print, https://suno.edu/athletics/index
+

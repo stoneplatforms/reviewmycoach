@@ -1,0 +1,181 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:44
+============================================================
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Angelina Froese
+   Email: froesea@mcpherson.edu
+   Username: froesea
+   Original line: Angelina Froese Administrative Assistant / Assistant Coach froesea@mcpherson.edu (620) 242-
+
+2. Chris Dawson
+   Email: dawsonc@mcpherson.edu
+   Username: dawsonc
+   Original line: Chris Dawson Head Coach dawsonc@mcpherson.edu
+
+3. Mack Stephenson
+   Email: stephenm@mcpherson.edu
+   Username: stephenm
+   Original line: Mack Stephenson Pitching Coach stephenm@mcpherson.edu
+
+4. Nathan Robl
+   Email: robln@mcpherson.edu
+   Username: robln
+   Original line: Nathan Robl Hitting Coach / Catching Coach robln@mcpherson.edu
+
+5. Padraic Walsh
+   Email: walshp@mcpherson.edu
+   Username: walshp
+   Original line: Padraic Walsh Assistant Coach walshp@mcpherson.edu
+
+6. T.J. Eskildsen
+   Email: eskildst@mcpherson.edu
+   Username: eskildst
+   Original line: T.J. Eskildsen Head Coach eskildst@mcpherson.edu (620) 242-
+
+7. Louis Parker
+   Email: parkerl@mcpherson.edu
+   Username: parkerl
+   Original line: Louis Parker Associate Head Coach parkerl@mcpherson.edu
+
+8. Ethan Finckbone
+   Email: Finckboe@mcpherson.edu
+   Username: Finckboe
+   Original line: Ethan Finckbone Assistant Coach Finckboe@mcpherson.edu
+
+9. Alex Moorehead
+   Email: moorehea@mcpherson.edu
+   Username: moorehea
+   Original line: Alex Moorehead Women's Basketball Head Coach moorehea@mcpherson.edu
+
+10. Angelina Froese
+   Email: froesea@mcpherson.edu
+   Username: froesea
+   Original line: Angelina Froese Administrative Assistant / Assistant Coach froesea@mcpherson.edu (620) 242-
+
+11. Hannah Showalter
+   Email: showalth@mcpherson.edu
+   Username: showalth
+   Original line: Hannah Showalter Head Cross Country Coach Assistant Track and Field showalth@mcpherson.edu
+
+12. Jeremiah Fiscus
+   Email: fiscusj@mcpherson.edu
+   Username: fiscusj
+   Phone: (620) 242-0613
+   Original line: Jeremiah Fiscus Head Coach / Offensive Line / Tight Ends fiscusj@mcpherson.edu 620-242-0613
+
+13. Chris Jenkins
+   Email: jenkinsc@mcpherson.edu
+   Username: jenkinsc
+   Original line: Chris Jenkins Co-Offensive Coordinator / Wide Receiver Coach jenkinsc@mcpherson.edu
+
+14. Joshua Pisik
+   Email: pisikj@mcpherson.edu
+   Username: pisikj
+   Original line: Joshua Pisik Co-Offensive Coordinator / Quarterbacks Coach pisikj@mcpherson.edu
+
+15. Kaden Beavers
+   Email: beaversk@mcpherson.edu
+   Username: beaversk
+   Original line: Kaden Beavers Linebackers / Specialists Coach beaversk@mcpherson.edu
+
+16. Kenton Rocheford
+   Email: rochefok@mcpherson.edu
+   Username: rochefok
+   Original line: Kenton Rocheford Running Backs / Tight Ends Coach rochefok@mcpherson.edu
+
+17. Kent Freund
+   Email: freundk@mcpherson.edu
+   Username: freundk
+   Phone: (214) 264-7020
+   Original line: Kent Freund Head Coach freundk@mcpherson.edu 214-264-7020
+
+18. Miguel Perez
+   Email: perezm@mcpherson.edu
+   Username: perezm
+   Original line: Miguel Perez Assistant Men's Soccer Coach perezm@mcpherson.edu
+
+19. Ian Thomson
+   Email: thomsoni@mcpherson.edu
+   Username: thomsoni
+   Original line: Ian Thomson Head Coach thomsoni@mcpherson.edu
+
+20. Brad Pinkus
+   Email: pinkusb@mcpherson.edu
+   Username: pinkusb
+   Original line: Brad Pinkus Assistant Women's Soccer Coach pinkusb@mcpherson.edu
+
+21. Michael Davis
+   Email: davism@mcpherson.edu
+   Username: davism
+   Original line: Michael Davis Assistant Coach davism@mcpherson.edu
+
+22. Victor Garcia
+   Email: garciav@mcpherson.edu
+   Username: garciav
+   Original line: Victor Garcia Assistant Coach garciav@mcpherson.edu
+
+23. Hannah Showalter
+   Email: showalth@mcpherson.edu
+   Username: showalth
+   Original line: Hannah Showalter Head Cross Country Coach Assistant Track and Field showalth@mcpherson.edu
+
+24. Bri Sansoucie
+   Email: sansoucb@mcpherson.edu
+   Username: sansoucb
+   Original line: Bri Sansoucie Assistant Track and Field Coach sansoucb@mcpherson.edu
+
+25. John Purvis
+   Email: purvisj@mcpherson.edu
+   Username: purvisj
+   Original line: John Purvis Assistant Track and Field Coach purvisj@mcpherson.edu
+
+26. Cory Cahill
+   Email: cahillc@mcpherson.edu
+   Username: cahillc
+   Original line: Cory Cahill Head Coach cahillc@mcpherson.edu
+
+27. Callie Houlihan
+   Email: houlihac@mcpherson.edu
+   Username: houlihac
+   Original line: Callie Houlihan Assistant Coach houlihac@mcpherson.edu
+
+28. Mitchell Whitehead
+   Email: whitehem@mcpherson.edu
+   Username: whitehem
+   Original line: Mitchell Whitehead Head Coach whitehem@mcpherson.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Angelina Froese Administrative Assistant / Assistant Coach froesea@mcpherson.edu (620) 242-
+• Chris Dawson Head Coach dawsonc@mcpherson.edu
+• Mack Stephenson Pitching Coach stephenm@mcpherson.edu
+• Nathan Robl Hitting Coach / Catching Coach robln@mcpherson.edu
+• Padraic Walsh Assistant Coach walshp@mcpherson.edu
+• T.J. Eskildsen Head Coach eskildst@mcpherson.edu (620) 242-
+• Louis Parker Associate Head Coach parkerl@mcpherson.edu
+• Ethan Finckbone Assistant Coach Finckboe@mcpherson.edu
+• Alex Moorehead Women's Basketball Head Coach moorehea@mcpherson.edu
+• Angelina Froese Administrative Assistant / Assistant Coach froesea@mcpherson.edu (620) 242-
+• Hannah Showalter Head Cross Country Coach Assistant Track and Field showalth@mcpherson.edu
+• Jeremiah Fiscus Head Coach / Offensive Line / Tight Ends fiscusj@mcpherson.edu 620-242-0613
+• Chris Jenkins Co-Offensive Coordinator / Wide Receiver Coach jenkinsc@mcpherson.edu
+• Joshua Pisik Co-Offensive Coordinator / Quarterbacks Coach pisikj@mcpherson.edu
+• Kaden Beavers Linebackers / Specialists Coach beaversk@mcpherson.edu
+• Kenton Rocheford Running Backs / Tight Ends Coach rochefok@mcpherson.edu
+• Kent Freund Head Coach freundk@mcpherson.edu 214-264-7020
+• Miguel Perez Assistant Men's Soccer Coach perezm@mcpherson.edu
+• Ian Thomson Head Coach thomsoni@mcpherson.edu
+• Brad Pinkus Assistant Women's Soccer Coach pinkusb@mcpherson.edu
+• Michael Davis Assistant Coach davism@mcpherson.edu
+• Victor Garcia Assistant Coach garciav@mcpherson.edu
+• Hannah Showalter Head Cross Country Coach Assistant Track and Field showalth@mcpherson.edu
+• Bri Sansoucie Assistant Track and Field Coach sansoucb@mcpherson.edu
+• John Purvis Assistant Track and Field Coach purvisj@mcpherson.edu
+• Cory Cahill Head Coach cahillc@mcpherson.edu
+• Callie Houlihan Assistant Coach houlihac@mcpherson.edu
+• Mitchell Whitehead Head Coach whitehem@mcpherson.edu

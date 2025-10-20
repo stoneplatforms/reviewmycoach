@@ -1,0 +1,450 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:39
+============================================================
+
+Total coaches found: 81
+
+PARSED ENTRIES:
+----------------------------------------
+1.  
+   Email: haley.kramer@vanderbilt.edu
+   Username: haley.kramer
+   Original line: Head Coach haley.kramer@vanderbilt.edu
+
+2.  
+   Email: tom.bossung@vumc.org
+   Username: tom.bossung
+   Original line: Assistant Coach tom.bossung@vumc.org
+
+3.  
+   Email: darren.l.edgington@vanderbilt.edu
+   Username: darren.l.edgington
+   Original line: Associate Strength Coach (Volleyball, Men’s darren.l.edgington@vanderbilt.edu
+
+4.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Strength and Conditioning Coach (Baseball) football_recruiting@vanderbilt.edu
+
+5.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Strength and Conditioning Coach (Baseball) football_recruiting@vanderbilt.edu
+
+6.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Assistant Football Sports Performance Coach football_recruiting@vanderbilt.edu
+
+7.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Original line: Assistant Football Sports Performance Coach football_recruiting@vanderbilt.edu
+
+8.  
+   Email: joshua.c.willhite@vanderbilt.edu
+   Username: joshua.c.willhite
+   Original line: Assistant Football Sports Performance Coach joshua.c.willhite@vanderbilt.edu
+
+9.  
+   Email: eric.engelken@Vanderbilt.Edu
+   Username: eric.engelken
+   Original line: Assistant Strength Coach (Lacrosse, Swimming, eric.engelken@Vanderbilt.Edu
+
+10.  
+   Email: Julia.bell@vanderbilt.edu
+   Username: Julia.bell
+   Original line: Assistant Strength Coach (Track and Field, Cross Julia.bell@vanderbilt.edu
+
+11.  
+   Email: baseball@vanderbilt.edu
+   Username: baseball
+   Original line: Head Coach baseball@vanderbilt.edu
+
+12. Ty Blankmeyer
+   Email: walker.t.grisanti@vanderbilt.edu
+   Username: walker.t.grisanti
+   Phone: 615.322.3716
+   Original line: Ty Blankmeyer Assistant Coach walker.t.grisanti@vanderbilt.edu
+
+13.  
+   Email: baseball@vanderbilt.edu
+   Username: baseball
+   Phone: 615.322.3716
+   Original line: Strength and Conditioning Coach (Baseball) baseball@vanderbilt.edu
+
+14.  
+   Email: baseball@vanderbilt.edu
+   Username: baseball
+   Phone: 615.322.3716
+   Original line: Strength and Conditioning Coach (Baseball) baseball@vanderbilt.edu
+
+15.  
+   Email: kevin.demille@vanderbilt.edu
+   Username: kevin.demille
+   Original line: Assistant Coach • Recruiting Coordinator kevin.demille@vanderbilt.edu
+
+16.  
+   Email: eric.a.mundinger@vanderbilt.edu
+   Username: eric.a.mundinger
+   Original line: Assistant Coach • Recruiting Coordinator eric.a.mundinger@vanderbilt.edu
+
+17. Kaili McLaren
+   Email: chris.brann@vanderbilt.edu
+   Username: chris.brann
+   Phone: 615.343.8482
+   Original line: Kaili McLaren Assistant Coach chris.brann@vanderbilt.edu
+
+18. Kaili McLaren
+   Email: kristina.nelson@vanderbilt.edu
+   Username: kristina.nelson
+   Original line: Kaili McLaren Assistant Coach kristina.nelson@vanderbilt.edu
+
+19.  
+   Email: josie.barnes@vanderbilt.edu
+   Username: josie.barnes
+   Original line: Head Coach josie.barnes@vanderbilt.edu
+
+20.  
+   Email: isabel.l.allen@vanderbilt.edu
+   Username: isabel.l.allen
+   Phone: 615.343.4499
+   Original line: Associate Head Coach isabel.l.allen@vanderbilt.edu
+
+21.  
+   Email: renee.mackin@vanderbilt.edu
+   Username: renee.mackin
+   Phone: 615.322.4024
+   Original line: Assistant Coach renee.mackin@vanderbilt.edu
+
+22.  
+   Email: brittni.lageorge@vanderbilt.edu
+   Username: brittni.lageorge
+   Original line: Assistant Coach brittni.lageorge@vanderbilt.edu
+
+23.  
+   Email: lisa.r.morgan-richman@vanderbilt.edu
+   Username: lisa.r.morgan-richman
+   Original line: Assistant Coach • Cross Country, Distance lisa.r.morgan-richman@vanderbilt.edu
+
+24.  
+   Email: whitney.fountain@vanderbilt.edu
+   Username: whitney.fountain
+   Original line: Assistant Coach • Cross Country, Distance whitney.fountain@vanderbilt.edu
+
+25.  
+   Email: jenna.beverly@vanderbilt.edu
+   Username: jenna.beverly
+   Original line: Assistant Coach • Cross Country, Distance jenna.beverly@vanderbilt.edu
+
+26.  
+   Email: althea.thomas@vanderbilt.edu
+   Username: althea.thomas
+   Original line: Assistant Strength Coach (Track and Field, Cross althea.thomas@vanderbilt.edu
+
+27.  
+   Email: lisa.r.morgan-richman@vanderbilt.edu
+   Username: lisa.r.morgan-richman
+   Original line: Assistant Coach • Cross Country, Distance lisa.r.morgan-richman@vanderbilt.edu
+
+28.  
+   Email: whitney.fountain@vanderbilt.edu
+   Username: whitney.fountain
+   Original line: Assistant Coach • Cross Country, Distance whitney.fountain@vanderbilt.edu
+
+29.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Assistant Strength Coach (Track and Field, Cross football_recruiting@vanderbilt.edu
+
+30.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Chief Consultant to the Head Coach • Senior football_recruiting@vanderbilt.edu
+
+31.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Assistant Coach • Defensive Ends football_recruiting@vanderbilt.edu
+
+32.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Assistant Coach • Safeties football_recruiting@vanderbilt.edu
+
+33.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Assistant Coach • Cornerbacks football_recruiting@vanderbilt.edu
+
+34.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Assistant Coach • Offensive Line football_recruiting@vanderbilt.edu
+
+35.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Tight Ends Coach football_recruiting@vanderbilt.edu
+
+36.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Stars • Nickels Coach football_recruiting@vanderbilt.edu
+
+37.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Original line: Quarterbacks Coach football_recruiting@vanderbilt.edu
+
+38.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Coach football_recruiting@vanderbilt.edu
+
+39.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Assistant Running Backs Coach football_recruiting@vanderbilt.edu
+
+40.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Assistant Safeties Coach football_recruiting@vanderbilt.edu
+
+41.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Assistant Cornerbacks Coach football_recruiting@vanderbilt.edu
+
+42.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Assistant Wide Receivers Coach football_recruiting@vanderbilt.edu
+
+43.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Assistant Offensive Line Coach football_recruiting@vanderbilt.edu
+
+44.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.322.3565
+   Original line: Assistant Offensive Line Coach football_recruiting@vanderbilt.edu
+
+45.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Original line: Assistant Football Sports Performance Coach football_recruiting@vanderbilt.edu
+
+46.  
+   Email: football@vanderbilt.edu
+   Username: football
+   Phone: 615.322.3565
+   Original line: Assistant Football Sports Performance Coach football@vanderbilt.edu
+
+47.  
+   Email: football_recruiting@vanderbilt.edu
+   Username: football_recruiting
+   Phone: 615.343.4683
+   Original line: Executive Assistant to the Head Coach • football_recruiting@vanderbilt.edu
+
+48.  
+   Email: austin.m.cody@vanderbilt.edu
+   Username: austin.m.cody
+   Original line: Head Coach austin.m.cody@vanderbilt.edu
+
+49.  
+   Email: brady.w.edwards@Vanderbilt.Edu
+   Username: brady.w.edwards
+   Original line: Assistant Coach brady.w.edwards@Vanderbilt.Edu
+
+50.  
+   Email: greg.allen@vanderbilt.edu
+   Username: greg.allen
+   Original line: Assistant Coach • Director of Operations greg.allen@vanderbilt.edu
+
+51.  
+   Email: emilie.b.meason@vanderbilt.edu
+   Username: emilie.b.meason
+   Original line: Head Coach emilie.b.meason@vanderbilt.edu
+
+52.  
+   Email: vanessa.wang@Vanderbilt.Edu
+   Username: vanessa.wang
+   Original line: Associate Head Coach vanessa.wang@Vanderbilt.Edu
+
+53.  
+   Email: vulacrosserecruits@vanderbilt.edu
+   Username: vulacrosserecruits
+   Phone: 615.343.5341
+   Original line: Assistant Coach vulacrosserecruits@vanderbilt.edu
+
+54.  
+   Email: jill.doherty@vanderbilt.edu
+   Username: jill.doherty
+   Phone: 615.343.5341
+   Original line: Head Coach jill.doherty@vanderbilt.edu
+
+55.  
+   Email: sophia.k.leva@vanderbilt.edu
+   Username: sophia.k.leva
+   Original line: Associate Head Coach sophia.k.leva@vanderbilt.edu
+
+56. Morgan Barlow
+   Email: lisa.gracey@vanderbilt.edu
+   Username: lisa.gracey
+   Original line: Morgan Barlow Assistant Coach, Draw Specialist and Player lisa.gracey@vanderbilt.edu
+
+57.  
+   Email: vusoccer@vanderbilt.edu
+   Username: vusoccer
+   Original line: Head Coach vusoccer@vanderbilt.edu
+
+58.  
+   Email: vusoccer@vanderbilt.edu
+   Username: vusoccer
+   Original line: Associate Head Coach vusoccer@vanderbilt.edu
+
+59.  
+   Email: rachel.biddle@Vanderbilt.Edu
+   Username: rachel.biddle
+   Phone: 615.343.2828
+   Original line: Assistant Coach rachel.biddle@Vanderbilt.Edu
+
+60.  
+   Email: darren.l.edgington@vanderbilt.edu
+   Username: darren.l.edgington
+   Original line: Assistant Coach darren.l.edgington@vanderbilt.edu
+
+61. With reCshpeelcste tao Paidpveerrtising, we and 1060 selected , may use precise geolocation data, and idsewnitimficmaitniogn@ thvraonudgehr bdieltv.iecdeu scanning in order to store
+   Email: swimming@vanderbilt.edu
+   Username: swimming
+   Original line: With reCshpeelcste tao Paidpveerrtising, we and 1060 selected , may use precise geolocation data, and idsewnitimficmaitniogn@ thvraonudgehr bdieltv.iecdeu scanning in order to store Associate Head Coach • Recruiting Coordinator swimming@vanderbilt.edu
+
+62.  
+   Email: geoffrey.w.hernandez@vanderbilt.edu
+   Username: geoffrey.w.hernandez
+   Original line: Head Coach geoffrey.w.hernandez@vanderbilt.edu
+
+63.  
+   Email: filip.kraljevic@Vanderbilt.Edu
+   Username: filip.kraljevic
+   Phone: 615.343.8226
+   Original line: Assistant Coach filip.kraljevic@Vanderbilt.Edu
+
+64.  
+   Email: madison.pinnell@vanderbilt.edu
+   Username: madison.pinnell
+   Phone: 615.343.3485
+   Original line: Assistant Coach madison.pinnell@vanderbilt.edu
+
+65.  
+   Email: gavin.walker@Vanderbilt.Edu
+   Username: gavin.walker
+   Original line: Assistant Coach gavin.walker@Vanderbilt.Edu
+
+66.  
+   Email: daniel.cadavid@vumc.org
+   Username: daniel.cadavid
+   Original line: Associate Strength Coach (Volleyball, Men’s daniel.cadavid@vumc.org
+
+67.  
+   Email: jack.findel-hawkins@Vanderbilt.Edu
+   Username: jack.findel-hawkins
+   Original line: Head Coach jack.findel-hawkins@Vanderbilt.Edu
+
+68.  
+   Email: kelly.chen@Vanderbilt.Edu
+   Username: kelly.chen
+   Phone: 615.343.8226
+   Original line: Associate Head Coach kelly.chen@Vanderbilt.Edu
+
+69.  
+   Email: madison.pinnell@vanderbilt.edu
+   Username: madison.pinnell
+   Original line: Assistant Coach madison.pinnell@vanderbilt.edu
+
+70.  
+   Email: uma.a.sood@vanderbilt.edu
+   Username: uma.a.sood
+   Phone: 615.343.5744
+   Original line: Assistant Coach uma.a.sood@vanderbilt.edu
+
+71.  
+   Email: justin.byron@vanderbilt.edu
+   Username: justin.byron
+   Original line: Assistant Coach • Jumps, Multi • Recruiting justin.byron@vanderbilt.edu
+
+72.  
+   Email: candace.fuller@vanderbilt.edu
+   Username: candace.fuller
+   Original line: Associate Head Coach • Jumps, Multi • Recruiting candace.fuller@vanderbilt.edu
+
+73.  
+   Email: chad.balyo@vanderbilt.edu
+   Username: chad.balyo
+   Original line: Assistant Coach • Throws chad.balyo@vanderbilt.edu
+
+74.  
+   Email: lisa.r.morgan-richman@vanderbilt.edu
+   Username: lisa.r.morgan-richman
+   Original line: Assistant Coach • Cross Country, Distance lisa.r.morgan-richman@vanderbilt.edu
+
+75.  
+   Email: cameia.alexander@vanderbilt.edu
+   Username: cameia.alexander
+   Original line: Assistant Coach • Cross Country, Distance cameia.alexander@vanderbilt.edu
+
+76.  
+   Email: harold.rose@vanderbilt.edu
+   Username: harold.rose
+   Original line: Assistant Coach • Sprints, Hurdles harold.rose@vanderbilt.edu
+
+77.  
+   Email: whitney.fountain@vanderbilt.edu
+   Username: whitney.fountain
+   Original line: Assistant Coach • High Jump, Pole Vault whitney.fountain@vanderbilt.edu
+
+78.  
+   Email: jenna.beverly@vanderbilt.edu
+   Username: jenna.beverly
+   Original line: Assistant Coach • High Jump, Pole Vault jenna.beverly@vanderbilt.edu
+
+79.  
+   Email: volleyballrecruiting@vanderbilt.edu
+   Username: volleyballrecruiting
+   Original line: Assistant Strength Coach (Track and Field, Cross volleyballrecruiting@vanderbilt.edu
+
+80.  
+   Email: kimberly.williams@Vanderbilt.Edu
+   Username: kimberly.williams
+   Phone: 615.322.2083
+   Original line: Assistant Coach kimberly.williams@Vanderbilt.Edu
+
+81.  
+   Email: football@vanderbilt.edu
+   Username: football
+   Original line: Associate Strength Coach (Volleyball, Men’s football@vanderbilt.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

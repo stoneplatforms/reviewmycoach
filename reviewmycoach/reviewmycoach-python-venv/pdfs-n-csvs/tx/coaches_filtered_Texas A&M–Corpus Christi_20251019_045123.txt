@@ -1,0 +1,293 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:23
+============================================================
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. Derick Soza
+   Email: derick.soza@tamucc.edu
+   Username: derick.soza
+   Original line: Derick Soza Head Strength Coach (MBB, VB) (361) 825- derick.soza@tamucc.edu
+
+2. Kaley Bruce
+   Email: kaley.bruce@tamucc.edu
+   Username: kaley.bruce
+   Original line: Kaley Bruce Associate Head Strength Coach (WBB) kaley.bruce@tamucc.edu
+
+3. Kemper Bednar
+   Email: kemper.bednar@tamucc.edu
+   Username: kemper.bednar
+   Original line: Kemper Bednar Assistant Sports Performance Coach kemper.bednar@tamucc.edu
+
+4. Jim Shaw
+   Email: mensbasketball@tamucc.edu
+   Username: mensbasketball
+   Original line: Jim Shaw Head Men's Basketball Coach mensbasketball@tamucc.edu
+
+5. Ralph Davis
+   Email: ralph.davis@tamucc.edu
+   Username: ralph.davis
+   Original line: Ralph Davis Assistant Coach ralph.davis@tamucc.edu
+
+6. Terrence Rencher
+   Email: terrence.rencher@tamucc.edu
+   Username: terrence.rencher
+   Original line: Terrence Rencher Assistant Coach terrence.rencher@tamucc.edu
+
+7. Dylan Johnson
+   Email: dylan.johnson@tamucc.edu
+   Username: dylan.johnson
+   Original line: Dylan Johnson Assistant Coach dylan.johnson@tamucc.edu
+
+8. Robert Edwards
+   Email: robert.edwards@tamucc.edu
+   Username: robert.edwards
+   Original line: Robert Edwards Assistant Coach robert.edwards@tamucc.edu
+
+9. Toyelle Wilson
+   Email: toyelle.wilson@tamucc.edu
+   Username: toyelle.wilson
+   Original line: Toyelle Wilson Head Women's Basketball Coach toyelle.wilson@tamucc.edu
+
+10. Tron Griffin
+   Email: tron.griffin@tamucc.edu
+   Username: tron.griffin
+   Original line: Tron Griffin Associate Head Coach tron.griffin@tamucc.edu
+
+11. Nathaniel Bell
+   Email: nathaniel.bell@tamucc.edu
+   Username: nathaniel.bell
+   Original line: Nathaniel Bell Assistant Coach nathaniel.bell@tamucc.edu
+
+12. Austin Gunnell
+   Email: austin.gunnell@tamucc.edu
+   Username: austin.gunnell
+   Original line: Austin Gunnell Video Coordinator/Assistant Coach austin.gunnell@tamucc.edu
+
+13. Makala Roper
+   Email: makala.roper@tamucc.edu
+   Username: makala.roper
+   Original line: Makala Roper Assistant Coach makala.roper@tamucc.edu
+
+14. Scott Malone
+   Email: scott.malone@tamucc.edu
+   Username: scott.malone
+   Original line: Scott Malone Head Baseball Coach (361) 825- scott.malone@tamucc.edu
+
+15. Noe Ruiz
+   Email: noe.ruizjr@tamucc.edu
+   Username: noe.ruizjr
+   Original line: Noe Ruiz Jr. Assistant Coach noe.ruizjr@tamucc.edu
+
+16. Eric Sandoz
+   Email: Eric.sandoz@tamucc.edu
+   Username: Eric.sandoz
+   Original line: Eric Sandoz Assistant Coach/Pitching Coach Eric.sandoz@tamucc.edu
+
+17. Zach Henry
+   Email: Zach.henry@tamucc.edu
+   Username: Zach.henry
+   Original line: Zach Henry Assistant Coach Zach.henry@tamucc.edu
+
+18. Bryan Jackson
+   Email: bryan.jackson@tamucc.edu
+   Username: bryan.jackson
+   Original line: Bryan Jackson Head Coach Cross Country/Track & Field (361) 825- bryan.jackson@tamucc.edu
+
+19. Andrew Glass
+   Email: andrew.glass@tamucc.edu
+   Username: andrew.glass
+   Original line: Andrew Glass Associate Head Coach (Throws) andrew.glass@tamucc.edu
+
+20. Hector Puente
+   Email: hector.puente@tamucc.edu
+   Username: hector.puente
+   Original line: Hector Puente Assistant Coach/Recruiting Coordinator hector.puente@tamucc.edu
+
+21. Chris Adams
+   Email: chris.adams@tamucc.edu
+   Username: chris.adams
+   Original line: Chris Adams Head Women's Golf Coach chris.adams@tamucc.edu
+
+22. Alessia Trebbi
+   Email: alessia.trebbitindall@tamucc.edu
+   Username: alessia.trebbitindall
+   Original line: Alessia Trebbi Tindall Assistant Coach alessia.trebbitindall@tamucc.edu
+
+23. Daniel Clitnovici
+   Email: daniel.clitnovici@tamucc.edu
+   Username: daniel.clitnovici
+   Original line: Daniel Clitnovici Head Women's Soccer Coach daniel.clitnovici@tamucc.edu
+
+24. Chloe Roberts
+   Email: chloe.roberts@tamucc.edu
+   Username: chloe.roberts
+   Original line: Chloe Roberts Associate Head Coach/Recruiting chloe.roberts@tamucc.edu
+
+25. Kyle Clark
+   Email: kyle.clark@tamucc.edu
+   Username: kyle.clark
+   Original line: Kyle Clark Assistant Coach/Player Development kyle.clark@tamucc.edu
+
+26. Mark Montgomery
+   Email: mark.montgomery@tamucc.edu
+   Username: mark.montgomery
+   Original line: Mark Montgomery Head Softball Coach mark.montgomery@tamucc.edu
+
+27. Mark Suire
+   Email: mark.suire@tamucc.edu
+   Username: mark.suire
+   Original line: Mark Suire Assistant Coach mark.suire@tamucc.edu
+
+28. Mike Forsythe
+   Email: michael.forsythe@tamucc.edu
+   Username: michael.forsythe
+   Original line: Mike Forsythe Assistant Coach/Pitching Coach michael.forsythe@tamucc.edu
+
+29. Paityn Desormeaux
+   Email: paityn.desormeaux@tamucc.edu
+   Username: paityn.desormeaux
+   Original line: Paityn Desormeaux Graduate Assistant Coach paityn.desormeaux@tamucc.edu
+
+30. Olga Bazhanova
+   Email: olga.bazhanova@tamucc.edu
+   Username: olga.bazhanova
+   Original line: Olga Bazhanova Associate Head Coach - Men & Women's olga.bazhanova@tamucc.edu Recruits must fill out
+
+31. Avery Zavala
+   Email: avery.zavala@tamucc.edu
+   Username: avery.zavala
+   Original line: Avery Zavala Assistant Coach avery.zavala@tamucc.edu Recruits must fill out
+
+32. Emma Aucagne
+   Email: eaucagne@islander.tamucc.edu
+   Username: eaucagne
+   Original line: Emma Aucagne Graduate Assistant Coach eaucagne@islander.tamucc.edu Recruits must fill out
+
+33. Nathan Favier
+   Email: nfavier@islander.tamucc.edu
+   Username: nfavier
+   Original line: Nathan Favier Graduate Assistant Coach nfavier@islander.tamucc.edu
+
+34. Valeria Cherfus
+   Email: vcherfus@islander.tamucc.edu
+   Username: vcherfus
+   Original line: Valeria Cherfus Graduate Assistant Coach vcherfus@islander.tamucc.edu
+
+35. Olga Bazhanova
+   Email: olga.bazhanova@tamucc.edu
+   Username: olga.bazhanova
+   Original line: Olga Bazhanova Associate Head Coach - Men & Women's olga.bazhanova@tamucc.edu Recruits must fill out
+
+36. Avery Zavala
+   Email: avery.zavala@tamucc.edu
+   Username: avery.zavala
+   Original line: Avery Zavala Assistant Coach avery.zavala@tamucc.edu Recruits must fill out
+
+37. Emma Aucagne
+   Email: eaucagne@islander.tamucc.edu
+   Username: eaucagne
+   Original line: Emma Aucagne Graduate Assistant Coach eaucagne@islander.tamucc.edu Recruits must fill out
+
+38. Nathan Favier
+   Email: nfavier@islander.tamucc.edu
+   Username: nfavier
+   Original line: Nathan Favier Graduate Assistant Coach nfavier@islander.tamucc.edu
+
+39. Valeria Cherfus
+   Email: vcherfus@islander.tamucc.edu
+   Username: vcherfus
+   Original line: Valeria Cherfus Graduate Assistant Coach vcherfus@islander.tamucc.edu
+
+40. Bryan Jackson
+   Email: bryan.jackson@tamucc.edu
+   Username: bryan.jackson
+   Original line: Bryan Jackson Head Coach Cross Country/Track & Field (361) 825- bryan.jackson@tamucc.edu
+
+41. Andrew Glass
+   Email: andrew.glass@tamucc.edu
+   Username: andrew.glass
+   Original line: Andrew Glass Associate Head Coach (Throws) andrew.glass@tamucc.edu
+
+42. Hector Puente
+   Email: hector.puente@tamucc.edu
+   Username: hector.puente
+   Original line: Hector Puente Assistant Coach/Recruiting Coordinator hector.puente@tamucc.edu
+
+43. Steve Greene
+   Email: steve.greene@tamucc.edu
+   Username: steve.greene
+   Original line: Steve Greene Head Volleyball Coach (361) 825- steve.greene@tamucc.edu
+
+44. Mauri Carver
+   Email: mauri.carver@tamucc.edu
+   Username: mauri.carver
+   Original line: Mauri Carver Assistant Coach (361) 825- mauri.carver@tamucc.edu
+
+45. Hannah Delor
+   Email: hannah.delor@tamucc.edu
+   Username: hannah.delor
+   Original line: Hannah Delor Assistant Coach hannah.delor@tamucc.edu
+
+46. Gayle Stammer
+   Email: gayle.stammer@tamucc.edu
+   Username: gayle.stammer
+   Original line: Gayle Stammer Head Beach Volleyball Coach gayle.stammer@tamucc.edu
+
+47. Zane McFarlane
+   Email: zane.mcfarlane@tamucc.edu
+   Username: zane.mcfarlane
+   Original line: Zane McFarlane Associate Head Coach zane.mcfarlane@tamucc.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Derick Soza Head Strength Coach (MBB, VB) (361) 825- derick.soza@tamucc.edu
+• Kaley Bruce Associate Head Strength Coach (WBB) kaley.bruce@tamucc.edu
+• Kemper Bednar Assistant Sports Performance Coach kemper.bednar@tamucc.edu
+• Jim Shaw Head Men's Basketball Coach mensbasketball@tamucc.edu
+• Ralph Davis Assistant Coach ralph.davis@tamucc.edu
+• Terrence Rencher Assistant Coach terrence.rencher@tamucc.edu
+• Dylan Johnson Assistant Coach dylan.johnson@tamucc.edu
+• Robert Edwards Assistant Coach robert.edwards@tamucc.edu
+• Toyelle Wilson Head Women's Basketball Coach toyelle.wilson@tamucc.edu
+• Tron Griffin Associate Head Coach tron.griffin@tamucc.edu
+• Nathaniel Bell Assistant Coach nathaniel.bell@tamucc.edu
+• Austin Gunnell Video Coordinator/Assistant Coach austin.gunnell@tamucc.edu
+• Makala Roper Assistant Coach makala.roper@tamucc.edu
+• Scott Malone Head Baseball Coach (361) 825- scott.malone@tamucc.edu
+• Noe Ruiz Jr. Assistant Coach noe.ruizjr@tamucc.edu
+• Eric Sandoz Assistant Coach/Pitching Coach Eric.sandoz@tamucc.edu
+• Zach Henry Assistant Coach Zach.henry@tamucc.edu
+• Bryan Jackson Head Coach Cross Country/Track & Field (361) 825- bryan.jackson@tamucc.edu
+• Andrew Glass Associate Head Coach (Throws) andrew.glass@tamucc.edu
+• Hector Puente Assistant Coach/Recruiting Coordinator hector.puente@tamucc.edu
+• Chris Adams Head Women's Golf Coach chris.adams@tamucc.edu
+• Alessia Trebbi Tindall Assistant Coach alessia.trebbitindall@tamucc.edu
+• Daniel Clitnovici Head Women's Soccer Coach daniel.clitnovici@tamucc.edu
+• Chloe Roberts Associate Head Coach/Recruiting chloe.roberts@tamucc.edu
+• Kyle Clark Assistant Coach/Player Development kyle.clark@tamucc.edu
+• Mark Montgomery Head Softball Coach mark.montgomery@tamucc.edu
+• Mark Suire Assistant Coach mark.suire@tamucc.edu
+• Mike Forsythe Assistant Coach/Pitching Coach michael.forsythe@tamucc.edu
+• Paityn Desormeaux Graduate Assistant Coach paityn.desormeaux@tamucc.edu
+• Olga Bazhanova Associate Head Coach - Men & Women's olga.bazhanova@tamucc.edu Recruits must fill out
+• Avery Zavala Assistant Coach avery.zavala@tamucc.edu Recruits must fill out
+• Emma Aucagne Graduate Assistant Coach eaucagne@islander.tamucc.edu Recruits must fill out
+• Nathan Favier Graduate Assistant Coach nfavier@islander.tamucc.edu
+• Valeria Cherfus Graduate Assistant Coach vcherfus@islander.tamucc.edu
+• Olga Bazhanova Associate Head Coach - Men & Women's olga.bazhanova@tamucc.edu Recruits must fill out
+• Avery Zavala Assistant Coach avery.zavala@tamucc.edu Recruits must fill out
+• Emma Aucagne Graduate Assistant Coach eaucagne@islander.tamucc.edu Recruits must fill out
+• Nathan Favier Graduate Assistant Coach nfavier@islander.tamucc.edu
+• Valeria Cherfus Graduate Assistant Coach vcherfus@islander.tamucc.edu
+• Bryan Jackson Head Coach Cross Country/Track & Field (361) 825- bryan.jackson@tamucc.edu
+• Andrew Glass Associate Head Coach (Throws) andrew.glass@tamucc.edu
+• Hector Puente Assistant Coach/Recruiting Coordinator hector.puente@tamucc.edu
+• Steve Greene Head Volleyball Coach (361) 825- steve.greene@tamucc.edu
+• Mauri Carver Assistant Coach (361) 825- mauri.carver@tamucc.edu
+• Hannah Delor Assistant Coach hannah.delor@tamucc.edu
+• Gayle Stammer Head Beach Volleyball Coach gayle.stammer@tamucc.edu
+• Zane McFarlane Associate Head Coach zane.mcfarlane@tamucc.edu

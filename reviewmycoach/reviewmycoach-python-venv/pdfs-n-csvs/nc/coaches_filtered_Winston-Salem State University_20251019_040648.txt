@@ -1,0 +1,227 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:48
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Justin Williams
+   Email: williamsju@wssu.edu
+   Username: williamsju
+   Original line: Justin Williams Head Strength & Condition Coach williamsju@wssu.edu 336-750-
+
+2. Corey Thompson
+   Email: thompsonce@wssu.edu
+   Username: thompsonce
+   Original line: Corey Thompson Head Men’s Basketball Coach thompsonce@wssu.edu 336-750-
+
+3. Alphonza Kee,
+   Email: keea@wssu.edu
+   Username: keea
+   Original line: Alphonza Kee, II Assistant Men's Basketball Coach keea@wssu.edu 336-750-
+
+4. Tony Jones
+   Email: jonesja@wssu.edu
+   Username: jonesja
+   Original line: Tony Jones Assistant Men's Basketball Coach jonesja@wssu.edu 336-750-
+
+5. Tierra Terry
+   Email: ruddts@wssu.edu
+   Username: ruddts
+   Original line: Tierra Terry Head Women's Basketball Coach ruddts@wssu.edu 336-750-
+
+6. Jessica Freeman
+   Email: freemanjt@wssu.edu
+   Username: freemanjt
+   Original line: Jessica Freeman Assistant Women's Basketball Coach freemanjt@wssu.edu 336-750-
+
+7. Dylan Anderson
+   Email: andersondc@wssu.edu
+   Username: andersondc
+   Original line: Dylan Anderson Assistant Women's Basketball Coach andersondc@wssu.edu 336-750-
+
+8. NeSheila Washington
+   Email: washingtonnc@wssu.edu
+   Username: washingtonnc
+   Original line: NeSheila Washington Cheerleading Head Coach washingtonnc@wssu.edu (336) 750-
+
+9. Tevin Allen
+   Email: allentt@wssu.edu
+   Username: allentt
+   Original line: Tevin Allen Assistant Coach allentt@wssu.edu (336) 750-
+
+10. Jordan Curtis
+   Email: allentt@wssu.edu
+   Username: allentt
+   Original line: Jordan Curtis Stunt Coach allentt@wssu.edu 336-750-
+
+11. Deja Reid
+   Email: washingtonnc@wssu.edu
+   Username: washingtonnc
+   Original line: Deja Reid Assistant Cheer Coach washingtonnc@wssu.edu 336-750-
+
+12. Antonio Wells
+   Email: wellsas@wssu.edu
+   Username: wellsas
+   Original line: Antonio Wells Head Cross Country/Track & Field Head Coach wellsas@wssu.edu (336) 750-
+
+13. Paula Salmon
+   Email: salmonpt@wssu.edu
+   Username: salmonpt
+   Original line: Paula Salmon Assistant Track & Cross Country Coach salmonpt@wssu.edu 336-750-
+
+14. Antonio Wells
+   Email: wellsas@wssu.edu
+   Username: wellsas
+   Original line: Antonio Wells Head Cross Country/Track & Field Head Coach wellsas@wssu.edu (336) 750-
+
+15. Paula Salmon
+   Email: salmonpt@wssu.edu
+   Username: salmonpt
+   Original line: Paula Salmon Assistant Track & Cross Country Coach salmonpt@wssu.edu 336-750-
+
+16. Robert Massey
+   Email: masseyr@wssu.edu
+   Username: masseyr
+   Original line: Robert Massey Head Football Coach masseyr@wssu.edu 336-750-
+
+17. Markus McElveen
+   Email: mcelveenma@wssu.edu
+   Username: mcelveenma
+   Original line: Markus McElveen Associate Head Coach/Defensive Coordinator mcelveenma@wssu.edu (336) 750-
+
+18. Glenn Reese
+   Email: reesewg@wssu.edu
+   Username: reesewg
+   Original line: Glenn Reese Assistant Coach/Offensive Coordinator / reesewg@wssu.edu 336-750-
+
+19. Chris Holmes
+   Email: holmesch@wssu.edu
+   Username: holmesch
+   Original line: Chris Holmes Assistant Coach/Offensive Line / Run Game / Co- holmesch@wssu.edu 336-750-
+
+20. Zach Kellum
+   Email: kellumzh@wssu.edu
+   Username: kellumzh
+   Original line: Zach Kellum Assistant Coach /Wide Receivers kellumzh@wssu.edu 336-750-
+
+21. Isaiah McCain
+   Email: mccainij@wssu.edu
+   Username: mccainij
+   Original line: Isaiah McCain Assistant Coach/Defensive Line mccainij@wssu.edu 336-750-
+
+22. Zach Leslie
+   Email: kellumzh@wssu.edu
+   Username: kellumzh
+   Original line: Zach Leslie Assistant Wide Recievers Coach kellumzh@wssu.edu 336-750-
+
+23. Chrishon Springs
+   Email: mcelveenma@wssu.edu
+   Username: mcelveenma
+   Original line: Chrishon Springs Assistant Linebackers Coach mcelveenma@wssu.edu 336-750-
+
+24. Jasahn Rankin
+   Email: mcelveenma@wssu.edu
+   Username: mcelveenma
+   Original line: Jasahn Rankin Assistant Linebackers Coach mcelveenma@wssu.edu 336-750-
+
+25. Jordan Hicks
+   Email: hicksjt@wssu.edu
+   Username: hicksjt
+   Original line: Jordan Hicks Head Women's Flag Football Coach hicksjt@wssu.edu 336-750-
+
+26. Greg Morrisey
+   Email: morriseygl@wssu.edu
+   Username: morriseygl
+   Original line: Greg Morrisey Assistant Coach morriseygl@wssu.edu (336)750-
+
+27. Charles Penny,
+   Email: pennycw@wssu.edu
+   Username: pennycw
+   Original line: Charles Penny, II Head Golf Coach pennycw@wssu.edu (336) 750-
+
+28. Richard Guy
+   Email: guyrt@wssu.edu
+   Username: guyrt
+   Original line: Richard Guy Assistant Golf Coach guyrt@wssu.edu (336) 750-
+
+29. Tiffany Massey
+   Email: masseytm@wssu.edu
+   Username: masseytm
+   Original line: Tiffany Massey Head Softball Coach masseytm@wssu.edu (336) 750-
+
+30. BreAnna Steele
+   Email: bsteele123@rams.wssu.edu
+   Username: bsteele123
+   Original line: BreAnna Steele Assistant Softball Coach bsteele123@rams.wssu.edu (336) 750-
+
+31. Mark Yamane
+   Email: yamanemr@wssu.edu
+   Username: yamanemr
+   Original line: Mark Yamane Head Women's Tennis Coach yamanemr@wssu.edu 336-750-
+
+32. Antonio Wells
+   Email: wellsas@wssu.edu
+   Username: wellsas
+   Original line: Antonio Wells Head Cross Country/Track & Field Head Coach wellsas@wssu.edu (336) 750-
+
+33. Shana-Ann Caballes
+   Email: caballess@wssu.edu
+   Username: caballess
+   Original line: Shana-Ann Caballes Assistant Track & Field - Throws Coach caballess@wssu.edu 336-750-
+
+34. Paula Salmon
+   Email: salmonpt@wssu.edu
+   Username: salmonpt
+   Original line: Paula Salmon Assistant Track & Cross Country Coach salmonpt@wssu.edu 336-750-
+
+35. Christa Brown
+   Email: brownch2@wssu.edu
+   Username: brownch2
+   Original line: Christa Brown Head Volleyball Coach brownch2@wssu.edu 336-750-
+
+36. Janai Tillman
+   Email: brownch2@wssu.edu
+   Username: brownch2
+   Original line: Janai Tillman Assistant Volleyball Coach brownch2@wssu.edu 336-750-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Justin Williams Head Strength & Condition Coach williamsju@wssu.edu 336-750-
+• Corey Thompson Head Men’s Basketball Coach thompsonce@wssu.edu 336-750-
+• Alphonza Kee, II Assistant Men's Basketball Coach keea@wssu.edu 336-750-
+• Tony Jones Assistant Men's Basketball Coach jonesja@wssu.edu 336-750-
+• Tierra Terry Head Women's Basketball Coach ruddts@wssu.edu 336-750-
+• Jessica Freeman Assistant Women's Basketball Coach freemanjt@wssu.edu 336-750-
+• Dylan Anderson Assistant Women's Basketball Coach andersondc@wssu.edu 336-750-
+• NeSheila Washington Cheerleading Head Coach washingtonnc@wssu.edu (336) 750-
+• Tevin Allen Assistant Coach allentt@wssu.edu (336) 750-
+• Jordan Curtis Stunt Coach allentt@wssu.edu 336-750-
+• Deja Reid Assistant Cheer Coach washingtonnc@wssu.edu 336-750-
+• Antonio Wells Head Cross Country/Track & Field Head Coach wellsas@wssu.edu (336) 750-
+• Paula Salmon Assistant Track & Cross Country Coach salmonpt@wssu.edu 336-750-
+• Antonio Wells Head Cross Country/Track & Field Head Coach wellsas@wssu.edu (336) 750-
+• Paula Salmon Assistant Track & Cross Country Coach salmonpt@wssu.edu 336-750-
+• Robert Massey Head Football Coach masseyr@wssu.edu 336-750-
+• Markus McElveen Associate Head Coach/Defensive Coordinator mcelveenma@wssu.edu (336) 750-
+• Glenn Reese Assistant Coach/Offensive Coordinator / reesewg@wssu.edu 336-750-
+• Chris Holmes Assistant Coach/Offensive Line / Run Game / Co- holmesch@wssu.edu 336-750-
+• Zach Kellum Assistant Coach /Wide Receivers kellumzh@wssu.edu 336-750-
+• Isaiah McCain Assistant Coach/Defensive Line mccainij@wssu.edu 336-750-
+• Zach Leslie Assistant Wide Recievers Coach kellumzh@wssu.edu 336-750-
+• Chrishon Springs Assistant Linebackers Coach mcelveenma@wssu.edu 336-750-
+• Jasahn Rankin Assistant Linebackers Coach mcelveenma@wssu.edu 336-750-
+• Jordan Hicks Head Women's Flag Football Coach hicksjt@wssu.edu 336-750-
+• Greg Morrisey Assistant Coach morriseygl@wssu.edu (336)750-
+• Charles Penny, II Head Golf Coach pennycw@wssu.edu (336) 750-
+• Richard Guy Assistant Golf Coach guyrt@wssu.edu (336) 750-
+• Tiffany Massey Head Softball Coach masseytm@wssu.edu (336) 750-
+• BreAnna Steele Assistant Softball Coach bsteele123@rams.wssu.edu (336) 750-
+• Mark Yamane Head Women's Tennis Coach yamanemr@wssu.edu 336-750-
+• Antonio Wells Head Cross Country/Track & Field Head Coach wellsas@wssu.edu (336) 750-
+• Shana-Ann Caballes Assistant Track & Field - Throws Coach caballess@wssu.edu 336-750-
+• Paula Salmon Assistant Track & Cross Country Coach salmonpt@wssu.edu 336-750-
+• Christa Brown Head Volleyball Coach brownch2@wssu.edu 336-750-
+• Janai Tillman Assistant Volleyball Coach brownch2@wssu.edu 336-750-

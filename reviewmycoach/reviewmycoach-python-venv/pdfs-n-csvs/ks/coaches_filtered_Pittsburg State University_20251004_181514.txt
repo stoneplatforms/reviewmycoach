@@ -1,0 +1,227 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:14
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Evan VanBecelaere
+   Email: evanbecelaere@pittstate.edu
+   Username: evanbecelaere
+   Original line: Evan VanBecelaere Head Coach evanbecelaere@pittstate.edu 520-235-
+
+2. Cody Williams
+   Email: cody.williams@pittstate.edu
+   Username: cody.williams
+   Original line: Cody Williams Assistant Coach / Student-Athlete cody.williams@pittstate.edu 620-235-
+
+3. Brock Buckingham
+   Email: sbuckingham@pittstate.edu
+   Username: sbuckingham
+   Original line: Brock Buckingham Head Coach sbuckingham@pittstate.edu
+
+4. Kody Sindelar
+   Email: ksindelar@pittstate.edu
+   Username: ksindelar
+   Original line: Kody Sindelar Assistant Coach ksindelar@pittstate.edu 620-235-
+
+5. Austin Bonnel
+   Email: abonnel@pittstate.edu
+   Username: abonnel
+   Original line: Austin Bonnel Assistant Coach abonnel@pittstate.edu
+
+6. Jeff Boschee
+   Email: jboschee@pittstate.edu
+   Username: jboschee
+   Original line: Jeff Boschee Head Coach jboschee@pittstate.edu 620-235-
+
+7. Jamahl DePriest
+   Email: jdepriest@pittstate.edu
+   Username: jdepriest
+   Original line: Jamahl DePriest Associate Head Coach jdepriest@pittstate.edu 620-235-
+
+8. Bryan Yungeberg
+   Email: byungeberg-vann@pittstate.edu
+   Username: byungeberg-vann
+   Original line: Bryan Yungeberg Assistant Coach byungeberg-vann@pittstate.edu
+
+9. Blake Rogers
+   Email: kenneth.rogers@pittstate.edu
+   Username: kenneth.rogers
+   Original line: Blake Rogers Assistant Coach kenneth.rogers@pittstate.edu
+
+10. Amanda Davied
+   Email: addavied@pittstate.edu
+   Username: addavied
+   Original line: Amanda Davied Head Coach addavied@pittstate.edu 620-235-
+
+11. Kelby Fritz
+   Email: kelby.fritz@pittstate.edu
+   Username: kelby.fritz
+   Original line: Kelby Fritz Assistant Coach kelby.fritz@pittstate.edu
+
+12. Max Olsan
+   Email: molsan@pittstate.edu
+   Username: molsan
+   Original line: Max Olsan Assistant Coach molsan@pittstate.edu
+
+13. Hunter Berry
+   Email: hunter.berry@pittstate.edu
+   Username: hunter.berry
+   Original line: Hunter Berry Assistant Coach hunter.berry@pittstate.edu
+
+14. Kevin Bleil
+   Email: kbleil@pittstate.edu
+   Username: kbleil
+   Original line: Kevin Bleil Assistant Coach / Offensive Coordinator kbleil@pittstate.edu
+
+15. Lynn Nutt
+   Email: hnutt@pittstate.edu
+   Username: hnutt
+   Original line: Lynn Nutt Assistant Coach / Defensive Coordinator hnutt@pittstate.edu 620-235-
+
+16. Tyrell Everett
+   Email: teverett@pittstate.edu
+   Username: teverett
+   Original line: Tyrell Everett Assistant Head Coach / Co-Defensive teverett@pittstate.edu 620-235-
+
+17. Bill Bleil
+   Email: wbleil@pittstate.edu
+   Username: wbleil
+   Original line: Bill Bleil Assistant Coach / Offensive Line - Run wbleil@pittstate.edu 620-235-
+
+18. Gregg Hollins
+   Email: ghollins@pittstate.edu
+   Username: ghollins
+   Original line: Gregg Hollins Assistant Coach / Tight Ends & Special ghollins@pittstate.edu 620-235-
+
+19. Brandon Perkins
+   Email: brandon.perkins@pittstate.edu
+   Username: brandon.perkins
+   Original line: Brandon Perkins Assistant Coach / Cornerbacks - Def. brandon.perkins@pittstate.edu
+
+20. Mark Smith
+   Email: marksmith@pittstate.edu
+   Username: marksmith
+   Original line: Mark Smith Assistant Coach / Wide Receivers - marksmith@pittstate.edu 620-235-
+
+21. James Gilbert
+   Email: jgilbert@pittstate.edu
+   Username: jgilbert
+   Original line: James Gilbert Assistant Coach / Running Backs jgilbert@pittstate.edu 620-235-
+
+22. Parker Schrater
+   Email: parker.schrater@pittstate.edu
+   Username: parker.schrater
+   Original line: Parker Schrater Assistant Coach / Safeties parker.schrater@pittstate.edu
+
+23. Cody Williams
+   Email: cody.williams@pittstate.edu
+   Username: cody.williams
+   Original line: Cody Williams Assistant Coach / Student-Athlete cody.williams@pittstate.edu 620-235-
+
+24. Nick Long
+   Email: nlong@pittstate.edu
+   Username: nlong
+   Original line: Nick Long Head Coach nlong@pittstate.edu
+
+25. Josh Barnes
+   Email: jcbarnes@pittstate.edu
+   Username: jcbarnes
+   Original line: Josh Barnes Head Coach jcbarnes@pittstate.edu
+
+26. Abby Shoemaker
+   Email: abigail.shoemaker@pittstate.edu
+   Username: abigail.shoemaker
+   Original line: Abby Shoemaker Assistant Coach abigail.shoemaker@pittstate.edu
+
+27. Brian Mantooth
+   Email: bmantooth@pittstate.edu
+   Username: bmantooth
+   Original line: Brian Mantooth Associate Head Coach / Meet Director bmantooth@pittstate.edu 620-235-
+
+28. Jesse Miller
+   Email: jesselee.miller@pittstate.edu
+   Username: jesselee.miller
+   Original line: Jesse Miller Assistant Coach jesselee.miller@pittstate.edu (660) 752-
+
+29. Jason Crow
+   Email: jasoncrow@pittstate.edu
+   Username: jasoncrow
+   Original line: Jason Crow Assistant Coach jasoncrow@pittstate.edu
+
+30. Wes Branstetter
+   Email: wes.branstetter@pittstate.edu
+   Username: wes.branstetter
+   Original line: Wes Branstetter Head Coach wes.branstetter@pittstate.edu 918-639-
+
+31. Lucca Munhoz
+   Email: lmunhoz@pittstate.edu
+   Username: lmunhoz
+   Original line: Lucca Munhoz Assistant Coach lmunhoz@pittstate.edu
+
+32. Megan Besecker
+   Email: mbesecker@pittstate.edu
+   Username: mbesecker
+   Original line: Megan Besecker Head Coach mbesecker@pittstate.edu
+
+33. Erin Pavlin
+   Email: epavlin@pittstate.edu
+   Username: epavlin
+   Original line: Erin Pavlin Assistant Coach epavlin@pittstate.edu 620-235-
+
+34. Remi Vargas
+   Email: rvargas@pittstate.edu
+   Username: rvargas
+   Original line: Remi Vargas Assistant Coach rvargas@pittstate.edu
+
+35. Abbi Reasor
+   Email: abbi.reasor@pittstate.edu
+   Username: abbi.reasor
+   Original line: Abbi Reasor Spirit Squad Coach abbi.reasor@pittstate.edu
+
+36. Elizabeth Smith
+   Email: elizabeth.d.smith@pittstate.edu
+   Username: elizabeth.d.smith
+   Original line: Elizabeth Smith Dance Team Coach elizabeth.d.smith@pittstate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Evan VanBecelaere Head Coach evanbecelaere@pittstate.edu 520-235-
+• Cody Williams Assistant Coach / Student-Athlete cody.williams@pittstate.edu 620-235-
+• Brock Buckingham Head Coach sbuckingham@pittstate.edu
+• Kody Sindelar Assistant Coach ksindelar@pittstate.edu 620-235-
+• Austin Bonnel Assistant Coach abonnel@pittstate.edu
+• Jeff Boschee Head Coach jboschee@pittstate.edu 620-235-
+• Jamahl DePriest Associate Head Coach jdepriest@pittstate.edu 620-235-
+• Bryan Yungeberg Assistant Coach byungeberg-vann@pittstate.edu
+• Blake Rogers Assistant Coach kenneth.rogers@pittstate.edu
+• Amanda Davied Head Coach addavied@pittstate.edu 620-235-
+• Kelby Fritz Assistant Coach kelby.fritz@pittstate.edu
+• Max Olsan Assistant Coach molsan@pittstate.edu
+• Hunter Berry Assistant Coach hunter.berry@pittstate.edu
+• Kevin Bleil Assistant Coach / Offensive Coordinator kbleil@pittstate.edu
+• Lynn Nutt Assistant Coach / Defensive Coordinator hnutt@pittstate.edu 620-235-
+• Tyrell Everett Assistant Head Coach / Co-Defensive teverett@pittstate.edu 620-235-
+• Bill Bleil Assistant Coach / Offensive Line - Run wbleil@pittstate.edu 620-235-
+• Gregg Hollins Assistant Coach / Tight Ends & Special ghollins@pittstate.edu 620-235-
+• Brandon Perkins Assistant Coach / Cornerbacks - Def. brandon.perkins@pittstate.edu
+• Mark Smith Assistant Coach / Wide Receivers - marksmith@pittstate.edu 620-235-
+• James Gilbert Assistant Coach / Running Backs jgilbert@pittstate.edu 620-235-
+• Parker Schrater Assistant Coach / Safeties parker.schrater@pittstate.edu
+• Cody Williams Assistant Coach / Student-Athlete cody.williams@pittstate.edu 620-235-
+• Nick Long Head Coach nlong@pittstate.edu
+• Josh Barnes Head Coach jcbarnes@pittstate.edu
+• Abby Shoemaker Assistant Coach abigail.shoemaker@pittstate.edu
+• Brian Mantooth Associate Head Coach / Meet Director bmantooth@pittstate.edu 620-235-
+• Jesse Miller Assistant Coach jesselee.miller@pittstate.edu (660) 752-
+• Jason Crow Assistant Coach jasoncrow@pittstate.edu
+• Wes Branstetter Head Coach wes.branstetter@pittstate.edu 918-639-
+• Lucca Munhoz Assistant Coach lmunhoz@pittstate.edu
+• Megan Besecker Head Coach mbesecker@pittstate.edu
+• Erin Pavlin Assistant Coach epavlin@pittstate.edu 620-235-
+• Remi Vargas Assistant Coach rvargas@pittstate.edu
+• Abbi Reasor Spirit Squad Coach abbi.reasor@pittstate.edu
+• Elizabeth Smith Dance Team Coach elizabeth.d.smith@pittstate.edu

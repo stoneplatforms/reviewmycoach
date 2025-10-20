@@ -1,0 +1,299 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:42
+============================================================
+
+Total coaches found: 48
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nick DiBernardo
+   Email: nvdibern@sewanee.edu
+   Username: nvdibern
+   Original line: Nick DiBernardo Assistant Director of Athletics, Head Men's Lacrosse Coach (931) 598- nvdibern@sewanee.edu
+
+2. Jane Hawkins
+   Email: jhawkins@sewanee.edu
+   Username: jhawkins
+   Original line: Jane Hawkins Athletics Administrator, Cheerleading Coach (931) 598- jhawkins@sewanee.edu
+
+3. Nancy Mueller
+   Email: nlmuelle@sewanee.edu
+   Username: nlmuelle
+   Original line: Nancy Mueller Head Volleyball Coach; Assistant Compliance Director (Transfers) (931) 598- nlmuelle@sewanee.edu
+
+4. Will Merrell
+   Email: wmmerrel@sewanee.edu
+   Username: wmmerrel
+   Original line: Will Merrell C'15 Head Men's Basketball Coach, Assistant Compliance Director (Name, (931) 598- wmmerrel@sewanee.edu
+
+5. Joe Dombrowski
+   Email: jdombrow@sewanee.edu
+   Username: jdombrow
+   Original line: Joe Dombrowski Equipment Manager, Assistant Track & Field Coach (Throws) (931) 598- jdombrow@sewanee.edu
+
+6. Nate Burns
+   Email: ncburns@sewanee.edu
+   Username: ncburns
+   Original line: Nate Burns Head Baseball Coach (931) 598- ncburns@sewanee.edu
+
+7. Corvin Scott
+   Email: cdscott@sewanee.edu
+   Username: cdscott
+   Original line: Corvin Scott Assistant Baseball Coach (931) 598- cdscott@sewanee.edu
+
+8. Barry Vetter
+   Email: bwvetter@sewanee.edu
+   Username: bwvetter
+   Original line: Barry Vetter Assistant Baseball Coach bwvetter@sewanee.edu
+
+9. Will Merrell
+   Email: wmmerrel@sewanee.edu
+   Username: wmmerrel
+   Original line: Will Merrell C'15 Head Men's Basketball Coach, Assistant Compliance Director (Name, (931) 598- wmmerrel@sewanee.edu
+
+10. John Crump
+   Email: jacrump@sewanee.edu
+   Username: jacrump
+   Original line: John Crump Assistant Men's Basketball Coach jacrump@sewanee.edu
+
+11. Jaylynn Stewart
+   Email: jsstewar@sewanee.edu
+   Username: jsstewar
+   Original line: Jaylynn Stewart Head Women's Basketball Coach (931) 598- jsstewar@sewanee.edu
+
+12. Rhys Pepino
+   Email: repepino@sewanee.edu
+   Username: repepino
+   Original line: Rhys Pepino Assistant Women's Basketball Coach repepino@sewanee.edu
+
+13. Jane Hawkins
+   Email: jhawkins@sewanee.edu
+   Username: jhawkins
+   Original line: Jane Hawkins Athletics Administrator, Cheerleading Coach (931) 598- jhawkins@sewanee.edu
+
+14. Michael Curcio
+   Email: micurcio@sewanee.edu
+   Username: micurcio
+   Original line: Michael Curcio Head Cross Country, Track & Field Coach (931) 598- micurcio@sewanee.edu
+
+15. Savannah Mannes
+   Email: slmannes@sewanee.edu
+   Username: slmannes
+   Original line: Savannah Mannes Head Equestrian Coach (931) 598- slmannes@sewanee.edu
+
+16. Haley Overstreet
+   Email: hloverst@sewanee.edu
+   Username: hloverst
+   Original line: Haley Overstreet Head Field Hockey Coach (931) 598- hloverst@sewanee.edu
+
+17. Taylor Klesyk
+   Email: tjklesyk@sewanee.edu
+   Username: tjklesyk
+   Original line: Taylor Klesyk Assistant Field Hockey Coach tjklesyk@sewanee.edu
+
+18. Andy McCollum
+   Email: jamccoll@sewanee.edu
+   Username: jamccoll
+   Original line: Andy McCollum Head Football Coach jamccoll@sewanee.edu
+
+19. Gordon Hight
+   Email: football-ops@sewanee.edu
+   Username: football-ops
+   Original line: Gordon Hight Assistant Coach, Running Backs/Special Teams/Director of football-ops@sewanee.edu
+
+20. Mike McGhee
+   Email: mjmcghee@sewanee.edu
+   Username: mjmcghee
+   Original line: Mike McGhee Assistant Coach, Wide Receivers/Strength & Conditioning mjmcghee@sewanee.edu
+
+21. Justin Cunningham
+   Email: jacunnin@sewanee.edu
+   Username: jacunnin
+   Original line: Justin Cunningham Assistant Coach, Offensive Line jacunnin@sewanee.edu
+
+22. Andrew Holloway
+   Email: wahollow@sewanee.edu
+   Username: wahollow
+   Original line: Andrew Holloway Assistant Coach, Defensive Backs wahollow@sewanee.edu
+
+23. Keenan Hickton
+   Email: krhickto@sewanee.edu
+   Username: krhickto
+   Original line: Keenan Hickton Head Men's Golf Coach krhickto@sewanee.edu
+
+24. Taylor Mottern
+   Email: stmotter@sewanee.edu
+   Username: stmotter
+   Original line: Taylor Mottern C'18 Head Women's Golf Coach stmotter@sewanee.edu
+
+25. Nick DiBernardo
+   Email: nvdibern@sewanee.edu
+   Username: nvdibern
+   Original line: Nick DiBernardo Assistant Director of Athletics, Head Men's Lacrosse Coach (931) 598- nvdibern@sewanee.edu
+
+26. Mason Hoehn
+   Email: mahoehn@sewanee.edu
+   Username: mahoehn
+   Original line: Mason Hoehn C'16 Assistant Men's Lacrosse Coach (931) 598- mahoehn@sewanee.edu
+
+27. Joe Orem
+   Email: jrorem@sewanee.edu
+   Username: jrorem
+   Original line: Joe Orem C'24 Assistant Men's Lacrosse Coach jrorem@sewanee.edu
+
+28. Carly Normandeau
+   Email: ccnorman@sewanee.edu
+   Username: ccnorman
+   Original line: Carly Normandeau C'11 Assistant Women's Lacrosse Coach (931) 598- ccnorman@sewanee.edu
+
+29. Tony Pacella
+   Email: dapacell@sewanee.edu
+   Username: dapacell
+   Original line: Tony Pacella Head Men's Soccer Coach (931) 598- dapacell@sewanee.edu
+
+30. Luc Patberg
+   Email: lapatber@sewanee.edu
+   Username: lapatber
+   Original line: Luc Patberg Assistant Men's Soccer Coach (931) 598- lapatber@sewanee.edu
+
+31. Greg Cathell
+   Email: Greg.Cathell@sewanee.edu
+   Username: Greg.Cathell
+   Original line: Greg Cathell Head Women's Soccer Coach (931) 598- Greg.Cathell@sewanee.edu
+
+32. Brianna Fee
+   Email: bkfee@sewanee.edu
+   Username: bkfee
+   Original line: Brianna Fee Assistant Women's Soccer Coach bkfee@sewanee.edu
+
+33. Merritt Yackey
+   Email: meyackey@sewanee.edu
+   Username: meyackey
+   Original line: Merritt Yackey Head Softball Coach, Club Sports Director (931) 598- meyackey@sewanee.edu
+
+34. Natalie Winchester
+   Email: nawinche@sewanee.edu
+   Username: nawinche
+   Original line: Natalie Winchester Assistant Softball Coach nawinche@sewanee.edu
+
+35. Mark Fino
+   Email: mdfino@sewanee.edu
+   Username: mdfino
+   Original line: Mark Fino Head Swimming & Diving Coach, Aquatic Director mdfino@sewanee.edu
+
+36. Taylor Vander
+   Email: tavander@sewanee.edu
+   Username: tavander
+   Original line: Taylor Vander Jeugdt Assistant Swimming & Diving Coach tavander@sewanee.edu
+
+37. Charlie Dunham
+   Email: diving@sewanee.edu
+   Username: diving
+   Original line: Charlie Dunham Diving Coach diving@sewanee.edu
+
+38. Hamza Khan
+   Email: hrkhan@sewanee.edu
+   Username: hrkhan
+   Original line: Hamza Khan C'20 Head Men's Tennis Coach hrkhan@sewanee.edu
+
+39. Zulay Castañeda
+   Email: zacastan@sewanee.edu
+   Username: zacastan
+   Original line: Zulay Castañeda Assistant Men's & Women's Tennis Coach zacastan@sewanee.edu
+
+40. Doug Maynard
+   Email: dgmaynar@sewanee.edu
+   Username: dgmaynar
+   Original line: Doug Maynard Assistant Men's and Women's Tennis Coach (931) 598- dgmaynar@sewanee.edu
+
+41. Conchie Shackelford
+   Email: cshackel@sewanee.edu
+   Username: cshackel
+   Original line: Conchie Shackelford Head Women's Tennis Coach (931) 598- cshackel@sewanee.edu
+
+42. Zulay Castañeda
+   Email: zacastan@sewanee.edu
+   Username: zacastan
+   Original line: Zulay Castañeda Assistant Men's & Women's Tennis Coach zacastan@sewanee.edu
+
+43. Doug Maynard
+   Email: dgmaynar@sewanee.edu
+   Username: dgmaynar
+   Original line: Doug Maynard Assistant Men's and Women's Tennis Coach (931) 598- dgmaynar@sewanee.edu
+
+44. Michael Curcio
+   Email: micurcio@sewanee.edu
+   Username: micurcio
+   Original line: Michael Curcio Head Cross Country, Track & Field Coach (931) 598- micurcio@sewanee.edu
+
+45. Ben Yocum
+   Email: btyocum@sewanee.edu
+   Username: btyocum
+   Original line: Ben Yocum Assistant Cross Country, Track & Field Coach (931) 598- btyocum@sewanee.edu
+
+46. Joe Dombrowski
+   Email: jdombrow@sewanee.edu
+   Username: jdombrow
+   Original line: Joe Dombrowski Equipment Manager, Assistant Track & Field Coach (Throws) (931) 598- jdombrow@sewanee.edu
+
+47. Nancy Mueller
+   Email: nlmuelle@sewanee.edu
+   Username: nlmuelle
+   Original line: Nancy Mueller Head Volleyball Coach; Assistant Compliance Director (Transfers) (931) 598- nlmuelle@sewanee.edu
+
+48. Laurel Burkhardt
+   Email: lgburkha@sewanee.edu
+   Username: lgburkha
+   Original line: Laurel Burkhardt Assistant Volleyball Coach (931) 598- lgburkha@sewanee.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Nick DiBernardo Assistant Director of Athletics, Head Men's Lacrosse Coach (931) 598- nvdibern@sewanee.edu
+• Jane Hawkins Athletics Administrator, Cheerleading Coach (931) 598- jhawkins@sewanee.edu
+• Nancy Mueller Head Volleyball Coach; Assistant Compliance Director (Transfers) (931) 598- nlmuelle@sewanee.edu
+• Will Merrell C'15 Head Men's Basketball Coach, Assistant Compliance Director (Name, (931) 598- wmmerrel@sewanee.edu
+• Joe Dombrowski Equipment Manager, Assistant Track & Field Coach (Throws) (931) 598- jdombrow@sewanee.edu
+• Nate Burns Head Baseball Coach (931) 598- ncburns@sewanee.edu
+• Corvin Scott Assistant Baseball Coach (931) 598- cdscott@sewanee.edu
+• Barry Vetter Assistant Baseball Coach bwvetter@sewanee.edu
+• Will Merrell C'15 Head Men's Basketball Coach, Assistant Compliance Director (Name, (931) 598- wmmerrel@sewanee.edu
+• John Crump Assistant Men's Basketball Coach jacrump@sewanee.edu
+• Jaylynn Stewart Head Women's Basketball Coach (931) 598- jsstewar@sewanee.edu
+• Rhys Pepino Assistant Women's Basketball Coach repepino@sewanee.edu
+• Jane Hawkins Athletics Administrator, Cheerleading Coach (931) 598- jhawkins@sewanee.edu
+• Michael Curcio Head Cross Country, Track & Field Coach (931) 598- micurcio@sewanee.edu
+• Savannah Mannes Head Equestrian Coach (931) 598- slmannes@sewanee.edu
+• Haley Overstreet Head Field Hockey Coach (931) 598- hloverst@sewanee.edu
+• Taylor Klesyk Assistant Field Hockey Coach tjklesyk@sewanee.edu
+• Andy McCollum Head Football Coach jamccoll@sewanee.edu
+• Gordon Hight Assistant Coach, Running Backs/Special Teams/Director of football-ops@sewanee.edu
+• Mike McGhee Assistant Coach, Wide Receivers/Strength & Conditioning mjmcghee@sewanee.edu
+• Justin Cunningham Assistant Coach, Offensive Line jacunnin@sewanee.edu
+• Andrew Holloway Assistant Coach, Defensive Backs wahollow@sewanee.edu
+• Keenan Hickton Head Men's Golf Coach krhickto@sewanee.edu
+• Taylor Mottern C'18 Head Women's Golf Coach stmotter@sewanee.edu
+• Nick DiBernardo Assistant Director of Athletics, Head Men's Lacrosse Coach (931) 598- nvdibern@sewanee.edu
+• Mason Hoehn C'16 Assistant Men's Lacrosse Coach (931) 598- mahoehn@sewanee.edu
+• Joe Orem C'24 Assistant Men's Lacrosse Coach jrorem@sewanee.edu
+• Carly Normandeau C'11 Assistant Women's Lacrosse Coach (931) 598- ccnorman@sewanee.edu
+• Tony Pacella Head Men's Soccer Coach (931) 598- dapacell@sewanee.edu
+• Luc Patberg Assistant Men's Soccer Coach (931) 598- lapatber@sewanee.edu
+• Greg Cathell Head Women's Soccer Coach (931) 598- Greg.Cathell@sewanee.edu
+• Brianna Fee Assistant Women's Soccer Coach bkfee@sewanee.edu
+• Merritt Yackey Head Softball Coach, Club Sports Director (931) 598- meyackey@sewanee.edu
+• Natalie Winchester Assistant Softball Coach nawinche@sewanee.edu
+• Mark Fino Head Swimming & Diving Coach, Aquatic Director mdfino@sewanee.edu
+• Taylor Vander Jeugdt Assistant Swimming & Diving Coach tavander@sewanee.edu
+• Charlie Dunham Diving Coach diving@sewanee.edu
+• Hamza Khan C'20 Head Men's Tennis Coach hrkhan@sewanee.edu
+• Zulay Castañeda Assistant Men's & Women's Tennis Coach zacastan@sewanee.edu
+• Doug Maynard Assistant Men's and Women's Tennis Coach (931) 598- dgmaynar@sewanee.edu
+• Conchie Shackelford Head Women's Tennis Coach (931) 598- cshackel@sewanee.edu
+• Zulay Castañeda Assistant Men's & Women's Tennis Coach zacastan@sewanee.edu
+• Doug Maynard Assistant Men's and Women's Tennis Coach (931) 598- dgmaynar@sewanee.edu
+• Michael Curcio Head Cross Country, Track & Field Coach (931) 598- micurcio@sewanee.edu
+• Ben Yocum Assistant Cross Country, Track & Field Coach (931) 598- btyocum@sewanee.edu
+• Joe Dombrowski Equipment Manager, Assistant Track & Field Coach (Throws) (931) 598- jdombrow@sewanee.edu
+• Nancy Mueller Head Volleyball Coach; Assistant Compliance Director (Transfers) (931) 598- nlmuelle@sewanee.edu
+• Laurel Burkhardt Assistant Volleyball Coach (931) 598- lgburkha@sewanee.edu

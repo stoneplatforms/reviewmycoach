@@ -1,0 +1,16 @@
+Printing results: Success=18 Skipped=1 Errors=0
+
+Skipped/Failed links:
+- Southern University at New Orleans (SUNO).pdf: https://suno.edu/athletics -> Navigation failed: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://suno.edu/athletics/index
+Call log:
+  - navigating to "https://suno.edu/athletics/index", waiting until "networkidle"
+
+  tried: https://suno.edu/athletics?print=true, https://suno.edu/athletics/print, https://suno.edu/athletics, https://suno.edu/athletics/index?print=true, https://suno.edu/athletics/index/print, https://suno.edu/athletics/index
+
+PDFs with zero coaches detected:
+- Louisiana Tech University.pdf
+- Louisiana State University (LSU).pdf
+- Dillard University.pdf
+- Centenary College of Louisiana.pdf
+- Louisiana State University Shreveport (LSUS).pdf
+- University of Louisiana at Lafayette.pdf

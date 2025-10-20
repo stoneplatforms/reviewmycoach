@@ -1,0 +1,227 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:22
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Cheer
+   Email: jbuhaycastro@luc.edu
+   Username: jbuhaycastro
+   Original line: Head Cheer Coach Jackie Buhay-Castro 773-508- jbuhaycastro@luc.edu
+
+2. Head Dance
+   Email: gparenti@luc.edu
+   Username: gparenti
+   Original line: Head Dance Coach Gina Parenti-Boehman gparenti@luc.edu
+
+3. Assistant Sports
+   Email: rkim13@luc.edu
+   Username: rkim13
+   Original line: Assistant Sports Performance Coach Rich Kim rkim13@luc.edu
+
+4. Assistant Sports
+   Email: gtanglis@luc.edu
+   Username: gtanglis
+   Original line: Assistant Sports Performance Coach Gina Tanglis gtanglis@luc.edu
+
+5. Assistant Sports
+   Email: mfreeze1@luc.edu
+   Username: mfreeze1
+   Original line: Assistant Sports Performance Coach Michael Freeze mfreeze1@luc.edu
+
+6. Assistant Coach
+   Email: chuey@luc.edu
+   Username: chuey
+   Original line: Assistant Coach Chris Huey 773-508- chuey@luc.edu
+
+7. Assistant Coach
+   Email: btaylor14@luc.edu
+   Username: btaylor14
+   Original line: Assistant Coach Brendyn Taylor btaylor14@luc.edu
+
+8. Assistant Coach
+   Email: jbradley@luc.edu
+   Username: jbradley
+   Original line: Assistant Coach Justin Bradley 773-508- jbradley@luc.edu
+
+9. Assistant Coach
+   Email: kclemons@luc.edu
+   Username: kclemons
+   Original line: Assistant Coach Keith Clemons 773-508- kclemons@luc.edu
+
+10. Special Advisor
+   Email: dhipsher@luc.edu
+   Username: dhipsher
+   Original line: Special Advisor to the Head Coach Dan Hipsher dhipsher@luc.edu
+
+11. Assistant Coach
+   Email: jmccann2@luc.edu
+   Username: jmccann2
+   Original line: Assistant Coach Jordan McCann 773-508- jmccann2@luc.edu
+
+12. Assistant Coach
+   Email: acall@luc.edu
+   Username: acall
+   Original line: Assistant Coach Adam Call 773-508- acall@luc.edu
+
+13. Assistant Coach
+   Email: mhenson4@luc.edu
+   Username: mhenson4
+   Original line: Assistant Coach Mai-Loni Henson 773-508- mhenson4@luc.edu
+
+14. Assistant Coach
+   Email: jfogle@luc.edu
+   Username: jfogle
+   Original line: Assistant Coach Jasmyne Fogle 773-508- jfogle@luc.edu
+
+15. Assistant Coach
+   Email: afisher17@luc.edu
+   Username: afisher17
+   Original line: Assistant Coach Alyssa Fisher 773-508- afisher17@luc.edu
+
+16. Assistant Coach
+   Email: pmurray@luc.edu
+   Username: pmurray
+   Original line: Assistant Coach Patrick Murray 773-508- pmurray@luc.edu
+
+17. Assistant Coach
+   Email: ggaudreault@luc.edu
+   Username: ggaudreault
+   Original line: Assistant Coach Gabby Gaudreault 773-508- ggaudreault@luc.edu
+
+18. Head Coach
+   Email: ppougnet@luc.edu
+   Username: ppougnet
+   Original line: Head Coach Peter Pougnet ppougnet@luc.edu
+
+19. Head Coach
+   Email: mjohnston8@luc.edu
+   Username: mjohnston8
+   Original line: Head Coach Brandy Johnston mjohnston8@luc.edu
+
+20. Head Men's
+   Email: sbode@luc.edu
+   Username: sbode
+   Original line: Head Men's Soccer Coach Steve Bode 773-508- sbode@luc.edu
+
+21. Associate Head
+   Email: gbrennan@luc.edu
+   Username: gbrennan
+   Original line: Associate Head Coach Graham Brennan 773-508- gbrennan@luc.edu
+
+22. Assistant Coach
+   Email: rpinto@luc.edu
+   Username: rpinto
+   Original line: Assistant Coach Ricardo Pinto 773-508- rpinto@luc.edu
+
+23. Assistant Coach
+   Email: kkenton1@luc.edu
+   Username: kkenton1
+   Original line: Assistant Coach Kervin Kenton kkenton1@luc.edu
+
+24. Head Coach
+   Email: jsandoval11@luc.edu
+   Username: jsandoval11
+   Original line: Head Coach Jon Sandoval jsandoval11@luc.edu
+
+25. Assistant Coach
+   Email: nstampfly@luc.edu
+   Username: nstampfly
+   Original line: Assistant Coach Natalie Stampfly nstampfly@luc.edu
+
+26. Assistant Coach
+   Email: bmoody1@luc.edu
+   Username: bmoody1
+   Original line: Assistant Coach Brady Moody bmoody1@luc.edu
+
+27. Assistant Coach
+   Email: spalacios1@luc.edu
+   Username: spalacios1
+   Original line: Assistant Coach Sean Palacios spalacios1@luc.edu
+
+28. Head Coach
+   Email: aabbott1@luc.edu
+   Username: aabbott1
+   Original line: Head Coach Alicia Abbott 773-508- aabbott1@luc.edu
+
+29. Assistant Coach
+   Email: awoollard@luc.edu
+   Username: awoollard
+   Original line: Assistant Coach Alaynie Woollard awoollard@luc.edu
+
+30. Assistant Coach
+   Email: abrems@luc.edu
+   Username: abrems
+   Original line: Assistant Coach Ali Brems abrems@luc.edu
+
+31. Head Coach
+   Email: Sdavis6@luc.edu
+   Username: Sdavis6
+   Original line: Head Coach Shane Davis Sdavis6@luc.edu
+
+32. Associate Head
+   Email: kexline@luc.edu
+   Username: kexline
+   Original line: Associate Head Coach / Recruiting Coordinator Kyle Exline kexline@luc.edu
+
+33. Assistant Coach
+   Email: dsolbrig@luc.edu
+   Username: dsolbrig
+   Original line: Assistant Coach / International Recruiter Dalton Solbrig dsolbrig@luc.edu
+
+34. Head Coach
+   Email: aberkley@luc.edu
+   Username: aberkley
+   Original line: Head Coach Amanda Berkley 773-508- aberkley@luc.edu
+
+35. Associate Head
+   Email: msalow@luc.edu
+   Username: msalow
+   Original line: Associate Head Coach Morgan Salow 773-508- msalow@luc.edu
+
+36. Assistant Coach
+   Email: scarlone@luc.edu
+   Username: scarlone
+   Original line: Assistant Coach Sydney Cheatham-Carlone scarlone@luc.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Cheer Coach Jackie Buhay-Castro 773-508- jbuhaycastro@luc.edu
+• Head Dance Coach Gina Parenti-Boehman gparenti@luc.edu
+• Assistant Sports Performance Coach Rich Kim rkim13@luc.edu
+• Assistant Sports Performance Coach Gina Tanglis gtanglis@luc.edu
+• Assistant Sports Performance Coach Michael Freeze mfreeze1@luc.edu
+• Assistant Coach Chris Huey 773-508- chuey@luc.edu
+• Assistant Coach Brendyn Taylor btaylor14@luc.edu
+• Assistant Coach Justin Bradley 773-508- jbradley@luc.edu
+• Assistant Coach Keith Clemons 773-508- kclemons@luc.edu
+• Special Advisor to the Head Coach Dan Hipsher dhipsher@luc.edu
+• Assistant Coach Jordan McCann 773-508- jmccann2@luc.edu
+• Assistant Coach Adam Call 773-508- acall@luc.edu
+• Assistant Coach Mai-Loni Henson 773-508- mhenson4@luc.edu
+• Assistant Coach Jasmyne Fogle 773-508- jfogle@luc.edu
+• Assistant Coach Alyssa Fisher 773-508- afisher17@luc.edu
+• Assistant Coach Patrick Murray 773-508- pmurray@luc.edu
+• Assistant Coach Gabby Gaudreault 773-508- ggaudreault@luc.edu
+• Head Coach Peter Pougnet ppougnet@luc.edu
+• Head Coach Brandy Johnston mjohnston8@luc.edu
+• Head Men's Soccer Coach Steve Bode 773-508- sbode@luc.edu
+• Associate Head Coach Graham Brennan 773-508- gbrennan@luc.edu
+• Assistant Coach Ricardo Pinto 773-508- rpinto@luc.edu
+• Assistant Coach Kervin Kenton kkenton1@luc.edu
+• Head Coach Jon Sandoval jsandoval11@luc.edu
+• Assistant Coach Natalie Stampfly nstampfly@luc.edu
+• Assistant Coach Brady Moody bmoody1@luc.edu
+• Assistant Coach Sean Palacios spalacios1@luc.edu
+• Head Coach Alicia Abbott 773-508- aabbott1@luc.edu
+• Assistant Coach Alaynie Woollard awoollard@luc.edu
+• Assistant Coach Ali Brems abrems@luc.edu
+• Head Coach Shane Davis Sdavis6@luc.edu
+• Associate Head Coach / Recruiting Coordinator Kyle Exline kexline@luc.edu
+• Assistant Coach / International Recruiter Dalton Solbrig dsolbrig@luc.edu
+• Head Coach Amanda Berkley 773-508- aberkley@luc.edu
+• Associate Head Coach Morgan Salow 773-508- msalow@luc.edu
+• Assistant Coach Sydney Cheatham-Carlone scarlone@luc.edu

@@ -1,0 +1,137 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:59
+============================================================
+
+Total coaches found: 21
+
+PARSED ENTRIES:
+----------------------------------------
+1. Sam Snyder
+   Email: ssnyder@csusm.edu
+   Username: ssnyder
+   Original line: Sam Snyder Sports Performance Coach ssnyder@csusm.edu
+
+2. Jose Garcia
+   Email: jogarcia@csusm.edu
+   Username: jogarcia
+   Original line: Jose Garcia Head Baseball Coach jogarcia@csusm.edu 760-750-
+
+3. Mark Lindsay
+   Email: mlindsay@csusm.edu
+   Username: mlindsay
+   Original line: Mark Lindsay Assistant Baseball Coach mlindsay@csusm.edu 760-750-
+
+4. Brady Bergeson
+   Email: bbergeson@csusm.edu
+   Username: bbergeson
+   Original line: Brady Bergeson Head Men's Basketball Coach bbergeson@csusm.edu 760-750-
+
+5. Cory Coombe
+   Email: ccoombe@csusm.edu
+   Username: ccoombe
+   Original line: Cory Coombe Assistant Men's Basketball Coach ccoombe@csusm.edu 760-750-
+
+6. Jana Pearson
+   Email: jpearson@csusm.edu
+   Username: jpearson
+   Original line: Jana Pearson Head Women's Basketball Coach jpearson@csusm.edu 760-750-
+
+7. Alyssa Fisher
+   Email: afisher@csusm.edu
+   Username: afisher
+   Original line: Alyssa Fisher Assistant Women's Basketball Coach afisher@csusm.edu 760-750-
+
+8. Torrey Olson
+   Email: tolson@csusm.edu
+   Username: tolson
+   Original line: Torrey Olson Head Cross Country/Track & Field Coach tolson@csusm.edu 760-750-
+
+9. Anthony Heredia
+   Email: aheredia@csusm.edu
+   Username: aheredia
+   Original line: Anthony Heredia Assistant Cross Country/Track & Field Coach aheredia@csusm.edu
+
+10. Tracy Thompson
+   Email: tthompson@csusm.edu
+   Username: tthompson
+   Original line: Tracy Thompson Assistant Cross Country/Track & Field Coach tthompson@csusm.edu
+
+11. David Pleitez
+   Email: dpleitez@csusm.edu
+   Username: dpleitez
+   Original line: David Pleitez Assistant Cross Country/Track & Field Coach dpleitez@csusm.edu 750-760-
+
+12. Greg Hutton
+   Email: ghutton@csusm.edu
+   Username: ghutton
+   Original line: Greg Hutton Head Golf Coach ghutton@csusm.edu 760-750-
+
+13. Brook Brand
+   Email: bbrand@csusm.edu
+   Username: bbrand
+   Original line: Brook Brand Assistant Golf Coach bbrand@csusm.edu
+
+14. Ron Pulvers
+   Email: rpulvers@csusm.edu
+   Username: rpulvers
+   Original line: Ron Pulvers Head Men's Soccer Coach rpulvers@csusm.edu 760-750-
+
+15. Matt Aldama
+   Email: maldama@csusm.edu
+   Username: maldama
+   Original line: Matt Aldama Assistant Men's Soccer Coach maldama@csusm.edu
+
+16. Bobby Renneisen
+   Email: brenneis@csusm.edu
+   Username: brenneis
+   Original line: Bobby Renneisen Head Women's Soccer Coach brenneis@csusm.edu 760-750-
+
+17. Ryan Morissey
+   Email: rmorissey@csusm.edu
+   Username: rmorissey
+   Original line: Ryan Morissey Assistant Women's Soccer Coach rmorissey@csusm.edu 760-750-
+
+18. A.J. Robinson
+   Email: arobinson@csusm.edu
+   Username: arobinson
+   Original line: A.J. Robinson Head Softball Coach arobinson@csusm.edu 760-750-
+
+19. Alyssa Razo
+   Email: arazo@csusm.edu
+   Username: arazo
+   Original line: Alyssa Razo Assistant Softball Coach arazo@csusm.edu
+
+20. Andrea Leonard
+   Email: aleonard@csusm.edu
+   Username: aleonard
+   Original line: Andrea Leonard Head Volleyball Coach aleonard@csusm.edu 760-750-
+
+21. Dak Sivertson
+   Email: dsivertson@csusm.edu
+   Username: dsivertson
+   Original line: Dak Sivertson Assistant Volleyball Coach dsivertson@csusm.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Sam Snyder Sports Performance Coach ssnyder@csusm.edu
+• Jose Garcia Head Baseball Coach jogarcia@csusm.edu 760-750-
+• Mark Lindsay Assistant Baseball Coach mlindsay@csusm.edu 760-750-
+• Brady Bergeson Head Men's Basketball Coach bbergeson@csusm.edu 760-750-
+• Cory Coombe Assistant Men's Basketball Coach ccoombe@csusm.edu 760-750-
+• Jana Pearson Head Women's Basketball Coach jpearson@csusm.edu 760-750-
+• Alyssa Fisher Assistant Women's Basketball Coach afisher@csusm.edu 760-750-
+• Torrey Olson Head Cross Country/Track & Field Coach tolson@csusm.edu 760-750-
+• Anthony Heredia Assistant Cross Country/Track & Field Coach aheredia@csusm.edu
+• Tracy Thompson Assistant Cross Country/Track & Field Coach tthompson@csusm.edu
+• David Pleitez Assistant Cross Country/Track & Field Coach dpleitez@csusm.edu 750-760-
+• Greg Hutton Head Golf Coach ghutton@csusm.edu 760-750-
+• Brook Brand Assistant Golf Coach bbrand@csusm.edu
+• Ron Pulvers Head Men's Soccer Coach rpulvers@csusm.edu 760-750-
+• Matt Aldama Assistant Men's Soccer Coach maldama@csusm.edu
+• Bobby Renneisen Head Women's Soccer Coach brenneis@csusm.edu 760-750-
+• Ryan Morissey Assistant Women's Soccer Coach rmorissey@csusm.edu 760-750-
+• A.J. Robinson Head Softball Coach arobinson@csusm.edu 760-750-
+• Alyssa Razo Assistant Softball Coach arazo@csusm.edu
+• Andrea Leonard Head Volleyball Coach aleonard@csusm.edu 760-750-
+• Dak Sivertson Assistant Volleyball Coach dsivertson@csusm.edu

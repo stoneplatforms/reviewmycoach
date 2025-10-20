@@ -1,0 +1,251 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:31
+============================================================
+
+Total coaches found: 40
+
+PARSED ENTRIES:
+----------------------------------------
+1. Bobby Garza
+   Email: robertgarza@txwes.edu
+   Username: robertgarza
+   Original line: Bobby Garza Head Coach robertgarza@txwes.edu 817-531-
+
+2. Kelly Shoppach
+   Email: kshoppach@txwes.edu
+   Username: kshoppach
+   Original line: Kelly Shoppach Assistant Head Coach kshoppach@txwes.edu 817-531-
+
+3. Brian Wanamaker
+   Email: bwanamaker@txwes.edu
+   Username: bwanamaker
+   Original line: Brian Wanamaker Head Coach bwanamaker@txwes.edu 817-531-
+
+4. Tevin Baker
+   Email: tbaker@txwes.edu
+   Username: tbaker
+   Original line: Tevin Baker Assistant Coach/Head Development Coach tbaker@txwes.edu
+
+5. Jaden Conner
+   Email: conner@txwes.edu
+   Username: conner
+   Original line: Jaden Conner Development Coach conner@txwes.edu
+
+6. Scott Hyland
+   Email: hyland@txwes.edu
+   Username: hyland
+   Original line: Scott Hyland Head Coach Women's Basketball hyland@txwes.edu 817-531-
+
+7. Dwanisha Tate
+   Email: tate@txwes.edu
+   Username: tate
+   Original line: Dwanisha Tate Assistant Coach Women's Basketball tate@txwes.edu
+
+8. Wanda Talton
+   Email: talton@txwes.edu
+   Username: talton
+   Original line: Wanda Talton Assistant Coach talton@txwes.edu
+
+9. Emily Snow
+   Email: esnow@txwes.edu
+   Username: esnow
+   Original line: Emily Snow Head Dance Coach esnow@txwes.edu 817-531-
+
+10. Terrance Davis
+   Email: davis@txwes.edu
+   Username: davis
+   Original line: Terrance Davis Head Cheer Coach davis@txwes.edu 817-531-
+
+11. Duke Kicinski
+   Email: kicinski@txwes.edu
+   Username: kicinski
+   Original line: Duke Kicinski Head Coach/Throws kicinski@txwes.edu 817-905-
+
+12. Troy Taylor
+   Email: troytaylor@txwes.edu
+   Username: troytaylor
+   Original line: Troy Taylor Assistant Coach - Cross Country/Track & Field troytaylor@txwes.edu
+
+13. Brad Sherrod
+   Email: sherrod@txwes.edu
+   Username: sherrod
+   Original line: Brad Sherrod Head Football Coach sherrod@txwes.edu
+
+14. Ryan Glover
+   Email: glover@txwes.edu
+   Username: glover
+   Original line: Ryan Glover Recruiting Coordinator - Quarterbacks Coach - DFO glover@txwes.edu
+
+15. Darren Drago
+   Email: drago@txwes.edu
+   Username: drago
+   Original line: Darren Drago Defensive Coordinator - Linebacker Coach drago@txwes.edu
+
+16. Miles Brandon
+   Email: brandon@txwes.edu
+   Username: brandon
+   Original line: Miles Brandon Defensive Line Coach - Strength and Movement - brandon@txwes.edu
+
+17. Judah Lewis
+   Email: judahlewis@txwes.edu
+   Username: judahlewis
+   Original line: Judah Lewis Wide Receivers Coach judahlewis@txwes.edu
+
+18. Kishawn Kelley
+   Email: kkelley2@txwes.edu
+   Username: kkelley2
+   Original line: Kishawn Kelley Defensive Backs Coach kkelley2@txwes.edu
+
+19. Charles Welde
+   Email: welde@txwes.edu
+   Username: welde
+   Original line: Charles Welde Offensive Line Coach welde@txwes.edu
+
+20. Jaysen Price
+   Email: jprice2@txwes.edu
+   Username: jprice2
+   Original line: Jaysen Price Assistant Wide Receivers Coach jprice2@txwes.edu
+
+21. Ashalli Cannon
+   Email: ajcannon@txwes.edu
+   Username: ajcannon
+   Original line: Ashalli Cannon Student Assistant Coach ajcannon@txwes.edu
+
+22. Kevin Long
+   Email: kevinlong@txwes.edu
+   Username: kevinlong
+   Original line: Kevin Long Men's Head Golf Coach kevinlong@txwes.edu 817-531-
+
+23. Bobby Cornett
+   Email: rcornett@txwes.edu
+   Username: rcornett
+   Original line: Bobby Cornett Assistant Coach rcornett@txwes.edu 682-553-
+
+24. Matt Pitcock
+   Email: pitcock@txwes.edu
+   Username: pitcock
+   Original line: Matt Pitcock Head Men's Soccer Coach pitcock@txwes.edu
+
+25. Katie Bond
+   Email: knbaugh@txwes.edu
+   Username: knbaugh
+   Original line: Katie Bond (Baugh) Head Coach knbaugh@txwes.edu
+
+26. Jose Salazar
+   Email: jesalazar@txwes.edu
+   Username: jesalazar
+   Original line: Jose Salazar Assistant Coach jesalazar@txwes.edu
+
+27. Shannon Gower
+   Email: sgower@txwes.edu
+   Username: sgower
+   Original line: Shannon Gower Head Coach sgower@txwes.edu 817-531-
+
+28. Wade Morgan
+   Email: wlmorgan@txwes.edu
+   Username: wlmorgan
+   Original line: Wade Morgan Head Coach wlmorgan@txwes.edu
+
+29. Jasna Rather
+   Email: jrather@txwes.edu
+   Username: jrather
+   Original line: Jasna Rather Head Coach jrather@txwes.edu 817-531-
+
+30. Doru Gheorghe
+   Email: tgheorghe@txwes.edu
+   Username: tgheorghe
+   Original line: Doru Gheorghe Women's Coach tgheorghe@txwes.edu 817-531-
+
+31. Aminah Orozco
+   Email: orozco@txwes.edu
+   Username: orozco
+   Original line: Aminah Orozco Head Women's Volleyball Coach orozco@txwes.edu 817-531-
+
+32. JD Boyd
+   Email: jboyd@txwes.edu
+   Username: jboyd
+   Original line: JD Boyd Assistant Women’s Volleyball Coach jboyd@txwes.edu 817-531-
+
+33. Jose Lazo
+   Email: lazo@txwes.edu
+   Username: lazo
+   Original line: Jose Lazo Assistant Head Coach lazo@txwes.edu
+
+34. Quentin Perez
+   Email: perez@txwes.edu
+   Username: perez
+   Original line: Quentin Perez Head Coach perez@txwes.edu
+
+35. Jared Haberman
+   Email: haberman@txwes.edu
+   Username: haberman
+   Original line: Jared Haberman Assistant Head Coach haberman@txwes.edu 817-531-
+
+36. Jose Lazo
+   Email: lazo@txwes.edu
+   Username: lazo
+   Original line: Jose Lazo Assistant Head Coach lazo@txwes.edu
+
+37. Quentin Perez
+   Email: perez@txwes.edu
+   Username: perez
+   Original line: Quentin Perez Head Coach perez@txwes.edu
+
+38. Jared Haberman
+   Email: haberman@txwes.edu
+   Username: haberman
+   Original line: Jared Haberman Assistant Head Coach haberman@txwes.edu 817-531-
+
+39. Jorge Rodriguez
+   Email: jorgerodriguez@txwes.edu
+   Username: jorgerodriguez
+   Original line: Jorge Rodriguez Head Coach jorgerodriguez@txwes.edu 214-518-
+
+40. Jackye Barber
+   Email: barber@txwes.edu
+   Username: barber
+   Original line: Jackye Barber Assistant Coach barber@txwes.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Bobby Garza Head Coach robertgarza@txwes.edu 817-531-
+• Kelly Shoppach Assistant Head Coach kshoppach@txwes.edu 817-531-
+• Brian Wanamaker Head Coach bwanamaker@txwes.edu 817-531-
+• Tevin Baker Assistant Coach/Head Development Coach tbaker@txwes.edu
+• Jaden Conner Development Coach conner@txwes.edu
+• Scott Hyland Head Coach Women's Basketball hyland@txwes.edu 817-531-
+• Dwanisha Tate Assistant Coach Women's Basketball tate@txwes.edu
+• Wanda Talton Assistant Coach talton@txwes.edu
+• Emily Snow Head Dance Coach esnow@txwes.edu 817-531-
+• Terrance Davis Head Cheer Coach davis@txwes.edu 817-531-
+• Duke Kicinski Head Coach/Throws kicinski@txwes.edu 817-905-
+• Troy Taylor Assistant Coach - Cross Country/Track & Field troytaylor@txwes.edu
+• Brad Sherrod Head Football Coach sherrod@txwes.edu
+• Ryan Glover Recruiting Coordinator - Quarterbacks Coach - DFO glover@txwes.edu
+• Darren Drago Defensive Coordinator - Linebacker Coach drago@txwes.edu
+• Miles Brandon Defensive Line Coach - Strength and Movement - brandon@txwes.edu
+• Judah Lewis Wide Receivers Coach judahlewis@txwes.edu
+• Kishawn Kelley Defensive Backs Coach kkelley2@txwes.edu
+• Charles Welde Offensive Line Coach welde@txwes.edu
+• Jaysen Price Assistant Wide Receivers Coach jprice2@txwes.edu
+• Ashalli Cannon Student Assistant Coach ajcannon@txwes.edu
+• Kevin Long Men's Head Golf Coach kevinlong@txwes.edu 817-531-
+• Bobby Cornett Assistant Coach rcornett@txwes.edu 682-553-
+• Matt Pitcock Head Men's Soccer Coach pitcock@txwes.edu
+• Katie Bond (Baugh) Head Coach knbaugh@txwes.edu
+• Jose Salazar Assistant Coach jesalazar@txwes.edu
+• Shannon Gower Head Coach sgower@txwes.edu 817-531-
+• Wade Morgan Head Coach wlmorgan@txwes.edu
+• Jasna Rather Head Coach jrather@txwes.edu 817-531-
+• Doru Gheorghe Women's Coach tgheorghe@txwes.edu 817-531-
+• Aminah Orozco Head Women's Volleyball Coach orozco@txwes.edu 817-531-
+• JD Boyd Assistant Women’s Volleyball Coach jboyd@txwes.edu 817-531-
+• Jose Lazo Assistant Head Coach lazo@txwes.edu
+• Quentin Perez Head Coach perez@txwes.edu
+• Jared Haberman Assistant Head Coach haberman@txwes.edu 817-531-
+• Jose Lazo Assistant Head Coach lazo@txwes.edu
+• Quentin Perez Head Coach perez@txwes.edu
+• Jared Haberman Assistant Head Coach haberman@txwes.edu 817-531-
+• Jorge Rodriguez Head Coach jorgerodriguez@txwes.edu 214-518-
+• Jackye Barber Assistant Coach barber@txwes.edu

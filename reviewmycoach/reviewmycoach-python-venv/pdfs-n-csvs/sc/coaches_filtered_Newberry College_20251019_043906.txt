@@ -1,0 +1,263 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:07
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jay Snyder
+   Email: jay.snyder@newberry.edu
+   Username: jay.snyder
+   Original line: Jay Snyder Head Coach jay.snyder@newberry.edu
+
+2. Sean O'Hagan
+   Email: hagan@newberry.edu
+   Username: hagan
+   Original line: Sean O'Hagan Assistant Coach / Pitching sean.o'hagan@newberry.edu
+
+3. Korey Singh
+   Email: korey.singh@newberry.edu
+   Username: korey.singh
+   Original line: Korey Singh Assistant Coach korey.singh@newberry.edu
+
+4. Marcus Kirkland
+   Email: Marcus.Kirkland@Newberry.edu
+   Username: Marcus.Kirkland
+   Original line: Marcus Kirkland Head Coach Marcus.Kirkland@Newberry.edu
+
+5. Jelani Johnson
+   Email: Jelani.Johnson@newberry.edu
+   Username: Jelani.Johnson
+   Original line: Jelani Johnson Associate Head Coach Jelani.Johnson@newberry.edu
+
+6. Brian Hewitt
+   Email: brian.hewitt@newberry.edu
+   Username: brian.hewitt
+   Original line: Brian Hewitt Assistant Coach brian.hewitt@newberry.edu
+
+7. Luke Seals
+   Email: luke.seals@newberry.edu
+   Username: luke.seals
+   Original line: Luke Seals Assistant Coach luke.seals@newberry.edu
+
+8. Johnette Walker
+   Email: Johnette.Walker@newberry.edu
+   Username: Johnette.Walker
+   Original line: Johnette Walker Head Coach Johnette.Walker@newberry.edu (803) 321-
+
+9. Brittany Bigott
+   Email: brittany.bigott@newberry.edu
+   Username: brittany.bigott
+   Original line: Brittany Bigott Assistant Coach brittany.bigott@newberry.edu
+
+10. Maddy Thiemann
+   Email: maddy.thiemann@newberry.edu
+   Username: maddy.thiemann
+   Original line: Maddy Thiemann Head Coach maddy.thiemann@newberry.edu
+
+11. Hannah Dave
+   Email: hannah.dave@newberry.edu
+   Username: hannah.dave
+   Original line: Hannah Dave Head Coach hannah.dave@newberry.edu (803) 321-
+
+12. Khotsofalo Pheko
+   Email: khotsofalo.pheko@newberry.edu
+   Username: khotsofalo.pheko
+   Original line: Khotsofalo Pheko Assistant Coach khotsofalo.pheko@newberry.edu
+
+13. Todd Knight
+   Email: todd.knight@newberry.edu
+   Username: todd.knight
+   Original line: Todd Knight Head Coach todd.knight@newberry.edu (803) 321-
+
+14. Stephen Flynn
+   Email: steve.flynn@newberry.edu
+   Username: steve.flynn
+   Original line: Stephen Flynn Assistant Head Coach / steve.flynn@newberry.edu (803) 321-
+
+15. Jeremiah Jones
+   Email: jeremiah.jones@newberry.edu
+   Username: jeremiah.jones
+   Original line: Jeremiah Jones Inside Linebackers Coach jeremiah.jones@newberry.edu (803) 321-
+
+16. Deke Herrin
+   Email: david.herrin@newberry.edu
+   Username: david.herrin
+   Original line: Deke Herrin Wide Receivers Coach david.herrin@newberry.edu (803) 321-
+
+17. Randy Floars
+   Email: randy.floars@newberry.edu
+   Username: randy.floars
+   Original line: Randy Floars Offensive Line Coach / randy.floars@newberry.edu
+
+18. Juwan Moye
+   Email: Stephen.Moye@newberry.edu
+   Username: Stephen.Moye
+   Original line: Juwan Moye Defensive Line Coach Stephen.Moye@newberry.edu
+
+19. Lawson Reel
+   Email: W.reel@Newberry.edu
+   Username: W.reel
+   Original line: Lawson Reel Specialists Coach/Head W.reel@Newberry.edu
+
+20. JD McClain
+   Email: jacob.mcclain@newberry.edu
+   Username: jacob.mcclain
+   Original line: JD McClain Student Assistant Coach jacob.mcclain@newberry.edu
+
+21. Deshun Kitchings
+   Email: deshun.kitchings@newberry.edu
+   Username: deshun.kitchings
+   Original line: Deshun Kitchings Assistant Coach/Tight deshun.kitchings@newberry.edu
+
+22. Emmanuel Jones
+   Email: emmanuel.jones@newberry.edu
+   Username: emmanuel.jones
+   Original line: Emmanuel Jones Assistant Coach Defense emmanuel.jones@newberry.edu
+
+23. Jordan Walker
+   Email: jordan.walker@newberry.edu
+   Username: jordan.walker
+   Original line: Jordan Walker Student Assistant Coach jordan.walker@newberry.edu
+
+24. Anthony Blue
+   Email: anthony.blue@newberry.edu
+   Username: anthony.blue
+   Original line: Anthony Blue Assistant Coach Defense anthony.blue@newberry.edu
+
+25. Nick Cotter
+   Email: nick.cotter@newberry.edu
+   Username: nick.cotter
+   Original line: Nick Cotter Head Coach nick.cotter@newberry.edu (803) 321-
+
+26. Rodney Tapp
+   Email: rodney.tapp@newberry.edu
+   Username: rodney.tapp
+   Original line: Rodney Tapp Assistant Coach rodney.tapp@newberry.edu
+
+27. Lawson Reel
+   Email: W.reel@Newberry.edu
+   Username: W.reel
+   Original line: Lawson Reel Specialists Coach/Head W.reel@Newberry.edu
+
+28. Tyler Hall
+   Email: tyler.hall@newberry.edu
+   Username: tyler.hall
+   Original line: Tyler Hall Assistant Coach tyler.hall@newberry.edu
+
+29. Justin Cook
+   Email: justin.cook@newberry.edu
+   Username: justin.cook
+   Original line: Justin Cook Head Coach justin.cook@newberry.edu 803-321-
+
+30. Noah Vezzu
+   Email: noah.vezzu@newberry.edu
+   Username: noah.vezzu
+   Original line: Noah Vezzu Assistant Coach noah.vezzu@newberry.edu
+
+31. Deedee Alexander
+   Email: diana.alexander@newberry.edu
+   Username: diana.alexander
+   Original line: Deedee Alexander Head Coach diana.alexander@newberry.edu (803) 321-
+
+32. Nicole Borowinski
+   Email: Nicole.Borowinski@newberry.edu
+   Username: Nicole.Borowinski
+   Original line: Nicole Borowinski Associate Head Coach Nicole.Borowinski@newberry.edu
+
+33. Mitch Smith
+   Email: mitch.smith@newberry.edu
+   Username: mitch.smith
+   Original line: Mitch Smith Head Coach mitch.smith@newberry.edu (803) 321-
+
+34. Mackense Greico
+   Email: mackense.greico@newberry.edu
+   Username: mackense.greico
+   Original line: Mackense Greico Assistant Softball Coach mackense.greico@newberry.edu
+
+35. Aletta Macheli
+   Email: aletta.macheli@newberry.edu
+   Username: aletta.macheli
+   Original line: Aletta Macheli Head Coach aletta.macheli@newberry.edu
+
+36. Anthony Washington
+   Email: anthony.washington@newberry.edu
+   Username: anthony.washington
+   Original line: Anthony Washington Assistant Coach/Sprints & anthony.washington@newberry.edu 803-463-
+
+37. Caroline Smith
+   Email: caroline.smith@newberry.edu
+   Username: caroline.smith
+   Original line: Caroline Smith Assistant Coach/Throws caroline.smith@newberry.edu
+
+38. Marty Owens
+   Email: Marty.Owens@newberry.edu
+   Username: Marty.Owens
+   Original line: Marty Owens Head Coach Marty.Owens@newberry.edu
+
+39. Jasmine Chambers
+   Email: jasmine.chambers@newberry.edu
+   Username: jasmine.chambers
+   Original line: Jasmine Chambers Associate Head Coach jasmine.chambers@newberry.edu
+
+40. Joniah Howell
+   Email: joniah.howell@newberry.edu
+   Username: joniah.howell
+   Original line: Joniah Howell Head Coach joniah.howell@newberry.edu
+
+41. Deral Brown
+   Email: d.brown@newberry.edu
+   Username: d.brown
+   Original line: Deral Brown Head Wrestling Coach d.brown@newberry.edu (803) 321-
+
+42. Donnie Stephens
+   Email: Donald.Stephens@newberry.edu
+   Username: Donald.Stephens
+   Original line: Donnie Stephens Head Coach Donald.Stephens@newberry.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jay Snyder Head Coach jay.snyder@newberry.edu
+• Sean O'Hagan Assistant Coach / Pitching sean.o'hagan@newberry.edu
+• Korey Singh Assistant Coach korey.singh@newberry.edu
+• Marcus Kirkland Head Coach Marcus.Kirkland@Newberry.edu
+• Jelani Johnson Associate Head Coach Jelani.Johnson@newberry.edu
+• Brian Hewitt Assistant Coach brian.hewitt@newberry.edu
+• Luke Seals Assistant Coach luke.seals@newberry.edu
+• Johnette Walker Head Coach Johnette.Walker@newberry.edu (803) 321-
+• Brittany Bigott Assistant Coach brittany.bigott@newberry.edu
+• Maddy Thiemann Head Coach maddy.thiemann@newberry.edu
+• Hannah Dave Head Coach hannah.dave@newberry.edu (803) 321-
+• Khotsofalo Pheko Assistant Coach khotsofalo.pheko@newberry.edu
+• Todd Knight Head Coach todd.knight@newberry.edu (803) 321-
+• Stephen Flynn Assistant Head Coach / steve.flynn@newberry.edu (803) 321-
+• Jeremiah Jones Inside Linebackers Coach jeremiah.jones@newberry.edu (803) 321-
+• Deke Herrin Wide Receivers Coach david.herrin@newberry.edu (803) 321-
+• Randy Floars Offensive Line Coach / randy.floars@newberry.edu
+• Juwan Moye Defensive Line Coach Stephen.Moye@newberry.edu
+• Lawson Reel Specialists Coach/Head W.reel@Newberry.edu
+• JD McClain Student Assistant Coach jacob.mcclain@newberry.edu
+• Deshun Kitchings Assistant Coach/Tight deshun.kitchings@newberry.edu
+• Emmanuel Jones Assistant Coach Defense emmanuel.jones@newberry.edu
+• Jordan Walker Student Assistant Coach jordan.walker@newberry.edu
+• Anthony Blue Assistant Coach Defense anthony.blue@newberry.edu
+• Nick Cotter Head Coach nick.cotter@newberry.edu (803) 321-
+• Rodney Tapp Assistant Coach rodney.tapp@newberry.edu
+• Lawson Reel Specialists Coach/Head W.reel@Newberry.edu
+• Tyler Hall Assistant Coach tyler.hall@newberry.edu
+• Justin Cook Head Coach justin.cook@newberry.edu 803-321-
+• Noah Vezzu Assistant Coach noah.vezzu@newberry.edu
+• Deedee Alexander Head Coach diana.alexander@newberry.edu (803) 321-
+• Nicole Borowinski Associate Head Coach Nicole.Borowinski@newberry.edu
+• Mitch Smith Head Coach mitch.smith@newberry.edu (803) 321-
+• Mackense Greico Assistant Softball Coach mackense.greico@newberry.edu
+• Aletta Macheli Head Coach aletta.macheli@newberry.edu
+• Anthony Washington Assistant Coach/Sprints & anthony.washington@newberry.edu 803-463-
+• Caroline Smith Assistant Coach/Throws caroline.smith@newberry.edu
+• Marty Owens Head Coach Marty.Owens@newberry.edu
+• Jasmine Chambers Associate Head Coach jasmine.chambers@newberry.edu
+• Joniah Howell Head Coach joniah.howell@newberry.edu
+• Deral Brown Head Wrestling Coach d.brown@newberry.edu (803) 321-
+• Donnie Stephens Head Coach Donald.Stephens@newberry.edu

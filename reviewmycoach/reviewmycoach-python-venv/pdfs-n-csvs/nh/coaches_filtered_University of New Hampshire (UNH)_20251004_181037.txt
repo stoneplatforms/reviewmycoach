@@ -1,0 +1,238 @@
+COACH ENTRIES FOUND - 2025-10-04 18:10:44
+============================================================
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nathan Davis
+   Email: nathan.davis@unh.edu
+   Username: nathan.davis
+   Original line: Nathan Davis Head Coach nathan.davis@unh.edu
+
+2. Tyler Wilson
+   Email: tyler.wilson@unh.edu
+   Username: tyler.wilson
+   Original line: Tyler Wilson Assistant Coach tyler.wilson@unh.edu
+
+3. Luis Guzman
+   Email: luis.guzman@unh.edu
+   Username: luis.guzman
+   Original line: Luis Guzman Assistant Coach luis.guzman@unh.edu
+
+4. Matt Miller
+   Email: Matthew.Miller1@unh.edu
+   Username: Matthew.Miller1
+   Original line: Matt Miller Assistant Coach Matthew.Miller1@unh.edu
+
+5. Kevin Nichols
+   Email: kevin.nichols@unh.edu
+   Username: kevin.nichols
+   Original line: Kevin Nichols Assistant Coach kevin.nichols@unh.edu
+
+6. Megan Head
+   Email: Megan.Shoniker@unh.edu
+   Username: Megan.Shoniker
+   Original line: Megan Head Coach Megan.Shoniker@unh.edu
+
+7. Kennedi Assistant
+   Email: Kennedi.Thompson@unh.edu
+   Username: Kennedi.Thompson
+   Original line: Kennedi Assistant Coach / Kennedi.Thompson@unh.edu
+
+8. Jessica Assistant
+   Email: Jessica.George@unh.edu
+   Username: Jessica.George
+   Original line: Jessica Assistant Coach Jessica.George@unh.edu
+
+9. Alexa Brodie
+   Email: Alexa.Brodie@unh.edu
+   Username: Alexa.Brodie
+   Original line: Alexa Brodie Assistant Coach Alexa.Brodie@unh.edu
+
+10. Casey Carroll
+   Email: casey.carroll@unh.edu
+   Username: casey.carroll
+   Phone: (603) 862-3815
+   Original line: Casey Carroll Assistant Coach - casey.carroll@unh.edu 603-862-3815
+
+11. Alison Duffy
+   Email: Alison.Duffy@unh.edu
+   Username: Alison.Duffy
+   Original line: Alison Duffy Assistant Coach - Alison.Duffy@unh.edu
+
+12. Robin Balducci
+   Email: robin.balducci@unh.edu
+   Username: robin.balducci
+   Phone: (603) 674-2523
+   Original line: Robin Balducci Head Coach robin.balducci@unh.edu 603-674-2523
+
+13. Tommy Herion
+   Email: thomas.herion@unh.edu
+   Username: thomas.herion
+   Phone: (603) 862-1852
+   Original line: Tommy Herion Assistant Coach, thomas.herion@unh.edu 603-862-1852
+
+14. Nick Della
+   Email: Nicholas.DellaJacono@unh.edu
+   Username: Nicholas.DellaJacono
+   Phone: (603) 862-1852
+   Original line: Nick Della Assistant Coach,LB, Nicholas.DellaJacono@unh.edu 603-862-1852
+
+15. Lindsey Bruck
+   Email: lindsey.ayotte@unh.edu
+   Username: lindsey.ayotte
+   Phone: (603) 862-3834
+   Original line: Lindsey Bruck Head Coach lindsey.ayotte@unh.edu 603-862-3834
+
+16. Nick Cramer
+   Email: nick.cramer1@unh.edu
+   Username: nick.cramer1
+   Phone: (603) 862-3834
+   Original line: Nick Cramer Assistant Coach nick.cramer1@unh.edu 603-862-3834
+
+17. Alyssa Assistant
+   Email: alyssa.worthington@unh.edu
+   Username: alyssa.worthington
+   Phone: (603) 862-3834
+   Original line: Alyssa Assistant Coach alyssa.worthington@unh.edu 603-862-3834
+
+18. Hilary Witt
+   Email: hilary.witt@unh.edu
+   Username: hilary.witt
+   Original line: Hilary Witt Head Coach hilary.witt@unh.edu
+
+19. Sam Faber
+   Email: samantha.faber@unh.edu
+   Username: samantha.faber
+   Phone: (631) 235-7766
+   Original line: Sam Faber Assistant Coach samantha.faber@unh.edu 631-235-7766
+
+20. Taylor Bastien
+   Email: Taylor.Bastien@unh.edu
+   Username: Taylor.Bastien
+   Phone: (603) 862-4481
+   Original line: Taylor Bastien Head Coach Taylor.Bastien@unh.edu 603-862-4481
+
+21. Aaron Gray
+   Email: Aaron.Gray@unh.edu
+   Username: Aaron.Gray
+   Original line: Aaron Gray Assistant Coach Aaron.Gray@unh.edu
+
+22. Hannah Assistant
+   Email: Hannah.Goodwin@unh.edu
+   Username: Hannah.Goodwin
+   Original line: Hannah Assistant Coach Hannah.Goodwin@unh.edu
+
+23. Brian Blank
+   Email: brian.blank@unh.edu
+   Username: brian.blank
+   Phone: (603) 862-3893
+   Original line: Brian Blank Head Coach, Alpine brian.blank@unh.edu 603-862-3893
+
+24. Bella Amico
+   Email: bella.amico@unh.edu
+   Username: bella.amico
+   Original line: Bella Amico Assistant Coach, bella.amico@unh.edu
+
+25. Rich Weinrebe
+   Email: richard.weinrebe@unh.edu
+   Username: richard.weinrebe
+   Phone: (603) 862-3211
+   Original line: Rich Weinrebe Head Coach richard.weinrebe@unh.edu 603-862-3211
+
+26. Ian de
+   Email: ian.deoliveira@unh.edu
+   Username: ian.deoliveira
+   Phone: (603) 862-3211
+   Original line: Ian de Oliveira Assistant Coach ian.deoliveira@unh.edu 603-862-3211
+
+27. Alan Kehoe
+   Email: Alan.Kehoe@unh.edu
+   Username: Alan.Kehoe
+   Phone: (603) 862-3211
+   Original line: Alan Kehoe Assistant Coach Alan.Kehoe@unh.edu 603-862-3211
+
+28. Steve Welham
+   Email: steve.welham@unh.edu
+   Username: steve.welham
+   Phone: (603) 862-3822
+   Original line: Steve Welham Head Coach steve.welham@unh.edu 603-862-3822
+
+29. Jessica Nei
+   Email: jessica.nei@unh.edu
+   Username: jessica.nei
+   Original line: Jessica Nei Assistant Coach jessica.nei@unh.edu
+
+30. Stuart Horne
+   Email: stu.horne@unh.edu
+   Username: stu.horne
+   Phone: (603) 862-0744
+   Original line: Stuart Horne Assistant Coach stu.horne@unh.edu 603-862-0744
+
+31. Josh Willman
+   Email: josh.willman@unh.edu
+   Username: josh.willman
+   Phone: (603) 862-3832
+   Original line: Josh Willman Head Coach josh.willman@unh.edu 603-862-3832
+
+32. Nicole Benson
+   Email: nicole.benson@unh.edu
+   Username: nicole.benson
+   Original line: Nicole Benson Assistant Coach nicole.benson@unh.edu
+
+33. Christopher Head
+   Email: chris.feliciano@unh.edu
+   Username: chris.feliciano
+   Phone: (603) 862-4664
+   Original line: Christopher Head Coach chris.feliciano@unh.edu 603-862-4664
+
+34. Paige DeWitt
+   Email: paige.dewitt@unh.edu
+   Username: paige.dewitt
+   Original line: Paige DeWitt Assistant Coach paige.dewitt@unh.edu
+
+35. Alysa Wright
+   Email: alysa.wright@unh.edu
+   Username: alysa.wright
+   Original line: Alysa Wright Assistant Coach alysa.wright@unh.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Nathan Davis Head Coach nathan.davis@unh.edu
+• Tyler Wilson Assistant Coach tyler.wilson@unh.edu
+• Luis Guzman Assistant Coach luis.guzman@unh.edu
+• Matt Miller Assistant Coach Matthew.Miller1@unh.edu
+• Kevin Nichols Assistant Coach kevin.nichols@unh.edu
+• Megan Head Coach Megan.Shoniker@unh.edu
+• Kennedi Assistant Coach / Kennedi.Thompson@unh.edu
+• Jessica Assistant Coach Jessica.George@unh.edu
+• Alexa Brodie Assistant Coach Alexa.Brodie@unh.edu
+• Casey Carroll Assistant Coach - casey.carroll@unh.edu 603-862-3815
+• Alison Duffy Assistant Coach - Alison.Duffy@unh.edu
+• Robin Balducci Head Coach robin.balducci@unh.edu 603-674-2523
+• Tommy Herion Assistant Coach, thomas.herion@unh.edu 603-862-1852
+• Nick Della Assistant Coach,LB, Nicholas.DellaJacono@unh.edu 603-862-1852
+• Lindsey Bruck Head Coach lindsey.ayotte@unh.edu 603-862-3834
+• Nick Cramer Assistant Coach nick.cramer1@unh.edu 603-862-3834
+• Alyssa Assistant Coach alyssa.worthington@unh.edu 603-862-3834
+• Hilary Witt Head Coach hilary.witt@unh.edu
+• Sam Faber Assistant Coach samantha.faber@unh.edu 631-235-7766
+• Taylor Bastien Head Coach Taylor.Bastien@unh.edu 603-862-4481
+• Aaron Gray Assistant Coach Aaron.Gray@unh.edu
+• Hannah Assistant Coach Hannah.Goodwin@unh.edu
+• Brian Blank Head Coach, Alpine brian.blank@unh.edu 603-862-3893
+• Bella Amico Assistant Coach, bella.amico@unh.edu
+• Rich Weinrebe Head Coach richard.weinrebe@unh.edu 603-862-3211
+• Ian de Oliveira Assistant Coach ian.deoliveira@unh.edu 603-862-3211
+• Alan Kehoe Assistant Coach Alan.Kehoe@unh.edu 603-862-3211
+• Steve Welham Head Coach steve.welham@unh.edu 603-862-3822
+• Jessica Nei Assistant Coach jessica.nei@unh.edu
+• Stuart Horne Assistant Coach stu.horne@unh.edu 603-862-0744
+• Josh Willman Head Coach josh.willman@unh.edu 603-862-3832
+• Nicole Benson Assistant Coach nicole.benson@unh.edu
+• Christopher Head Coach chris.feliciano@unh.edu 603-862-4664
+• Paige DeWitt Assistant Coach paige.dewitt@unh.edu
+• Alysa Wright Assistant Coach alysa.wright@unh.edu

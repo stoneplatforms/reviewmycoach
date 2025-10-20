@@ -1,0 +1,209 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:36
+============================================================
+
+Total coaches found: 33
+
+PARSED ENTRIES:
+----------------------------------------
+1. Sean Dunston,
+   Email: dunstons@william.jewell.edu
+   Username: dunstons
+   Original line: Sean Dunston, J.D. Head Powerlifting Coach dunstons@william.jewell.edu 816-415- APC
+
+2. Mike Stockton
+   Email: mstockton@william.jewell.edu
+   Username: mstockton
+   Original line: Mike Stockton Head Baseball Coach mstockton@william.jewell.edu 816-415- Mabee 219
+
+3. Jake Johnson
+   Email: johnsonj@william.jewell.edu
+   Username: johnsonj
+   Original line: Jake Johnson Pitching Coach & Recruiting Coordinator johnsonj@william.jewell.edu 816-415- Mabee 210
+
+4. Kaden Fowler
+   Email: fowlerk@william.jewell.edu
+   Username: fowlerk
+   Original line: Kaden Fowler Assistant Baseball Coach fowlerk@william.jewell.edu Mabee 219
+
+5. Christian Hildebrandt
+   Email: hildebrandtc@william.jewell.edu
+   Username: hildebrandtc
+   Original line: Christian Hildebrandt '15 Associate Head Men's Basketball Coach hildebrandtc@william.jewell.edu 816-415- Mabee 213
+
+6. Mason Alexander,
+   Email: alexanderm@william.jewell.edu
+   Username: alexanderm
+   Original line: Mason Alexander, '23 Assistant Men's Basketball Coach alexanderm@william.jewell.edu 816-415- Mabee 213
+
+7. Jenni Croy
+   Email: croyj@william.jewell.edu
+   Username: croyj
+   Original line: Jenni Croy Head Women's Basketball Coach croyj@william.jewell.edu 816-415- Mabee 214
+
+8. Lesli Collins
+   Email: collinsl@william.jewell.edu
+   Username: collinsl
+   Original line: Lesli Collins Assistant Women's Basketball Coach collinsl@william.jewell.edu 816-415- Mabee 214
+
+9. Jason Ambroson
+   Email: ambrosonj@william.jewell.edu
+   Username: ambrosonj
+   Original line: Jason Ambroson Head Football Coach ambrosonj@william.jewell.edu 816-415- Brown Hall
+
+10. Corey Bethany,
+   Email: bethanyc@william.jewell.edu
+   Username: bethanyc
+   Original line: Corey Bethany, '00 Assistant Football Coach - Offensive Coordinator/Wide bethanyc@william.jewell.edu 816-415- Brown Hall
+
+11. Kevin Corless
+   Email: corlessk@william.jewell.edu
+   Username: corlessk
+   Original line: Kevin Corless Assistant Football Coach - Defensive corlessk@william.jewell.edu 816-415- Brown Hall
+
+12. Mark Faubion,
+   Email: faubionm@william.jewell.edu
+   Username: faubionm
+   Original line: Mark Faubion, '98 Assistant Football Coach - Special Teams faubionm@william.jewell.edu 816-415- Brown Hall
+
+13. Jack Connelly
+   Email: connellyj@william.jewell.edu
+   Username: connellyj
+   Original line: Jack Connelly Assistant Football Coach - Offensive Line connellyj@william.jewell.edu 816-415- Brown Hall
+
+14. Terrance Dennis
+   Email: dennist@william.jewell.edu
+   Username: dennist
+   Original line: Terrance Dennis Assistant Football Coach - Running Backs dennist@william.jewell.edu 816-415- Brown Hall
+
+15. Simeon Blair
+   Email: blairs@william.jewell.edu
+   Username: blairs
+   Original line: Simeon Blair Assistant Football Coach - Defensive Backs blairs@william.jewell.edu 816-415- Brown Hall
+
+16. Ian Barnes
+   Email: barnesi@william.jewell.edu
+   Username: barnesi
+   Original line: Ian Barnes Head Men's & Women's Golf Coach barnesi@william.jewell.edu 816-415- Mabee 218
+
+17. Becky Crosby
+   Email: crosbyr@william.jewell.edu
+   Username: crosbyr
+   Original line: Becky Crosby Assistant Men's & Women's Golf Coach crosbyr@william.jewell.edu
+
+18. Andrew Briones
+   Email: brionesa@william.jewell.edu
+   Username: brionesa
+   Original line: Andrew Briones Head Men's Lacrosse Coach brionesa@william.jewell.edu 816-415- Brown Hall
+
+19. Kevin Grelle
+   Email: grellek@william.jewell.edu
+   Username: grellek
+   Original line: Kevin Grelle Assistant Men's Lacrosse Coach grellek@william.jewell.edu 816-415- Brown Hall
+
+20. Mackenzie Porter
+   Email: porterm@william.jewell.edu
+   Username: porterm
+   Original line: Mackenzie Porter Head Women's Lacrosse Coach porterm@william.jewell.edu
+
+21. Sean Dunston,
+   Email: dunstons@william.jewell.edu
+   Username: dunstons
+   Original line: Sean Dunston, J.D. Head Powerlifting Coach dunstons@william.jewell.edu 816-415- APC
+
+22. Eddie Horn
+   Email: horne@william.jewell.edu
+   Username: horne
+   Original line: Eddie Horn Head Men's Soccer Coach horne@william.jewell.edu 816-415- Mabee 221
+
+23. Emily Key
+   Email: keye@william.jewell.edu
+   Username: keye
+   Original line: Emily Key Head Women's Soccer Coach keye@william.jewell.edu 816-415- Mabee 220
+
+24. Kaely Watt
+   Email: wattk@william.jewell.edu
+   Username: wattk
+   Original line: Kaely Watt Assistant Women's Soccer Coach wattk@william.jewell.edu 816-415-
+
+25. Taylor Wagner
+   Email: wagnert@william.jewell.edu
+   Username: wagnert
+   Original line: Taylor Wagner Assistant Women's Soccer Coach - High Performance wagnert@william.jewell.edu 816-415-
+
+26. Emma Ryan
+   Email: ryane@william.jewell.edu
+   Username: ryane
+   Original line: Emma Ryan Head Softball Coach ryane@william.jewell.edu 816-415-
+
+27. Greg Temple
+   Email: templeg@william.jewell.edu
+   Username: templeg
+   Original line: Greg Temple Head Men's and Women's Swimming Coach templeg@william.jewell.edu 816-415- Pool Office
+
+28. Ben Ford
+   Email: fordb@william.jewell.edu
+   Username: fordb
+   Original line: Ben Ford Head Men's and Women's Tennis Coach fordb@william.jewell.edu 816-415- Mabee 217
+
+29. Brian Cooper
+   Email: cooperb@william.jewell.edu
+   Username: cooperb
+   Original line: Brian Cooper Head Track & Field/Cross Country Coach cooperb@william.jewell.edu Mabee 212
+
+30. Joe Adams
+   Email: adamsj@william.jewell.edu
+   Username: adamsj
+   Original line: Joe Adams Head Volleyball Coach adamsj@william.jewell.edu 816-415- Mabee 222
+
+31. Rachel Hinojosa
+   Email: hinojosar@william.jewell.edu
+   Username: hinojosar
+   Original line: Rachel Hinojosa Assistant Volleyball Coach hinojosar@william.jewell.edu 816-415- Mabee 222
+
+32. Desiree Ramos
+   Email: ramosd@william.jewell.edu
+   Username: ramosd
+   Original line: Desiree Ramos Head Wrestling Coach ramosd@william.jewell.edu 816-415- Mabee 211
+
+33. Tanya Callaway
+   Email: callawayt@william.jewell.edu
+   Username: callawayt
+   Original line: Tanya Callaway Assistant Women's Wrestling Coach callawayt@william.jewell.edu 816-415- Mabee 211
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Sean Dunston, J.D. Head Powerlifting Coach dunstons@william.jewell.edu 816-415- APC
+• Mike Stockton Head Baseball Coach mstockton@william.jewell.edu 816-415- Mabee 219
+• Jake Johnson Pitching Coach & Recruiting Coordinator johnsonj@william.jewell.edu 816-415- Mabee 210
+• Kaden Fowler Assistant Baseball Coach fowlerk@william.jewell.edu Mabee 219
+• Christian Hildebrandt '15 Associate Head Men's Basketball Coach hildebrandtc@william.jewell.edu 816-415- Mabee 213
+• Mason Alexander, '23 Assistant Men's Basketball Coach alexanderm@william.jewell.edu 816-415- Mabee 213
+• Jenni Croy Head Women's Basketball Coach croyj@william.jewell.edu 816-415- Mabee 214
+• Lesli Collins Assistant Women's Basketball Coach collinsl@william.jewell.edu 816-415- Mabee 214
+• Jason Ambroson Head Football Coach ambrosonj@william.jewell.edu 816-415- Brown Hall
+• Corey Bethany, '00 Assistant Football Coach - Offensive Coordinator/Wide bethanyc@william.jewell.edu 816-415- Brown Hall
+• Kevin Corless Assistant Football Coach - Defensive corlessk@william.jewell.edu 816-415- Brown Hall
+• Mark Faubion, '98 Assistant Football Coach - Special Teams faubionm@william.jewell.edu 816-415- Brown Hall
+• Jack Connelly Assistant Football Coach - Offensive Line connellyj@william.jewell.edu 816-415- Brown Hall
+• Terrance Dennis Assistant Football Coach - Running Backs dennist@william.jewell.edu 816-415- Brown Hall
+• Simeon Blair Assistant Football Coach - Defensive Backs blairs@william.jewell.edu 816-415- Brown Hall
+• Ian Barnes Head Men's & Women's Golf Coach barnesi@william.jewell.edu 816-415- Mabee 218
+• Becky Crosby Assistant Men's & Women's Golf Coach crosbyr@william.jewell.edu
+• Andrew Briones Head Men's Lacrosse Coach brionesa@william.jewell.edu 816-415- Brown Hall
+• Kevin Grelle Assistant Men's Lacrosse Coach grellek@william.jewell.edu 816-415- Brown Hall
+• Mackenzie Porter Head Women's Lacrosse Coach porterm@william.jewell.edu
+• Sean Dunston, J.D. Head Powerlifting Coach dunstons@william.jewell.edu 816-415- APC
+• Eddie Horn Head Men's Soccer Coach horne@william.jewell.edu 816-415- Mabee 221
+• Emily Key Head Women's Soccer Coach keye@william.jewell.edu 816-415- Mabee 220
+• Kaely Watt Assistant Women's Soccer Coach wattk@william.jewell.edu 816-415-
+• Taylor Wagner Assistant Women's Soccer Coach - High Performance wagnert@william.jewell.edu 816-415-
+• Emma Ryan Head Softball Coach ryane@william.jewell.edu 816-415-
+• Greg Temple Head Men's and Women's Swimming Coach templeg@william.jewell.edu 816-415- Pool Office
+• Ben Ford Head Men's and Women's Tennis Coach fordb@william.jewell.edu 816-415- Mabee 217
+• Brian Cooper Head Track & Field/Cross Country Coach cooperb@william.jewell.edu Mabee 212
+• Joe Adams Head Volleyball Coach adamsj@william.jewell.edu 816-415- Mabee 222
+• Rachel Hinojosa Assistant Volleyball Coach hinojosar@william.jewell.edu 816-415- Mabee 222
+• Desiree Ramos Head Wrestling Coach ramosd@william.jewell.edu 816-415- Mabee 211
+• Tanya Callaway Assistant Women's Wrestling Coach callawayt@william.jewell.edu 816-415- Mabee 211

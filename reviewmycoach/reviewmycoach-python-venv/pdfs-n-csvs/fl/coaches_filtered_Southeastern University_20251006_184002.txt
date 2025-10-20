@@ -1,0 +1,229 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:02
+============================================================
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. Gabe Grinder
+   Email: gagrinder@seu.edu
+   Username: gagrinder
+   Original line: Gabe Grinder Head Coach gagrinder@seu.edu
+
+2. Josh Larrinaga
+   Email: jdlarrinaga@seu.edu
+   Username: jdlarrinaga
+   Original line: Josh Larrinaga Assistant Coach jdlarrinaga@seu.edu
+
+3. Pete Horner
+   Email: pjhorner@seu.edu
+   Username: pjhorner
+   Original line: Pete Horner Assistant Coach pjhorner@seu.edu
+
+4. Hudson Welty
+   Email: hwelty@seu.edu
+   Username: hwelty
+   Original line: Hudson Welty Head Coach hwelty@seu.edu
+
+5. Xavier Allison
+   Email: xrallison@seu.edu
+   Username: xrallison
+   Original line: Xavier Allison Assistant Coach xrallison@seu.edu
+
+6. Joshua Epperson
+   Email: jaepperson@seu.edu
+   Username: jaepperson
+   Original line: Joshua Epperson Head Coach jaepperson@seu.edu
+
+7. Alexis Tappe
+   Email: amtappe@seu.edu
+   Username: amtappe
+   Original line: Alexis Tappe Assistant Coach amtappe@seu.edu
+
+8. Dionne Thacker
+   Email: dthacker1@seu.edu
+   Username: dthacker1
+   Original line: Dionne Thacker Head Coach dthacker1@seu.edu
+
+9. Paul Kurtz
+   Email: pakurtz@seu.edu
+   Username: pakurtz
+   Phone: (863) 667-5100
+   Original line: Paul Kurtz Head Coach pakurtz@seu.edu 863-667-5100
+
+10. David Driggers
+   Email: dedriggers@seu.edu
+   Username: dedriggers
+   Original line: David Driggers Head Coach dedriggers@seu.edu
+
+11. Adam Waugh
+   Email: apwaugh@seu.edu
+   Username: apwaugh
+   Original line: Adam Waugh Head Coach apwaugh@seu.edu
+
+12. William Henry
+   Email: wdhenry@seu.edu
+   Username: wdhenry
+   Original line: William Henry Assistant Head Coach - Defensive Coordinator - Safeties wdhenry@seu.edu
+
+13. Tripp Dodd
+   Email: rldodd@seu.edu
+   Username: rldodd
+   Original line: Tripp Dodd Assistant Coach - Defensive Line rldodd@seu.edu
+
+14. Jeremy Harris
+   Email: jdharris2@seu.edu
+   Username: jdharris2
+   Original line: Jeremy Harris Assistant Coach - Defensive Backs jdharris2@seu.edu
+
+15. Jordan Heldreth
+   Email: jcheldreth@seu.edu
+   Username: jcheldreth
+   Original line: Jordan Heldreth Assistant Coach - Offensive Line - Run Game Coordinator jcheldreth@seu.edu
+
+16. Kyle Jones
+   Email: kejones@seu.edu
+   Username: kejones
+   Original line: Kyle Jones Assistant Coach - Linebackers kejones@seu.edu
+
+17. Shavis King
+   Email: sking@seu.edu
+   Username: sking
+   Original line: Shavis King Assistant Coach - Defensive Analyst sking@seu.edu
+
+18. Khalil Pope
+   Email: krpopeturner@seu.edu
+   Username: krpopeturner
+   Original line: Khalil Pope Assistant Coach - Wide Receivers krpopeturner@seu.edu
+
+19. Kenny Strong
+   Email: kstrong1@seu.edu
+   Username: kstrong1
+   Original line: Kenny Strong Assistant Coach - Running Backs kstrong1@seu.edu
+
+20. David Joyner
+   Email: djoyner@seu.edu
+   Username: djoyner
+   Original line: David Joyner Head Coach djoyner@seu.edu
+
+21. Mark Joyner
+   Email: mjoyner@seu.edu
+   Username: mjoyner
+   Original line: Mark Joyner Assistant Coach mjoyner@seu.edu
+
+22. Gerritson Craane
+   Email: gacraane@seu.edu
+   Username: gacraane
+   Original line: Gerritson Craane Interim Head Coach gacraane@seu.edu
+
+23. Skelly Kellar
+   Email: stkellar@seu.edu
+   Username: stkellar
+   Original line: Skelly Kellar Head Coach stkellar@seu.edu
+
+24. Brendon Wheeler
+   Email: bwheeler@seu.edu
+   Username: bwheeler
+   Original line: Brendon Wheeler Assistant Coach bwheeler@seu.edu
+
+25. Kayla Watkins
+   Email: kewatkins@seu.edu
+   Username: kewatkins
+   Phone: (863) 667-5158
+   Original line: Kayla Watkins Head Coach kewatkins@seu.edu 863-667-5158
+
+26. Madison Williams
+   Email: mwilliams2@seu.edu
+   Username: mwilliams2
+   Original line: Madison Williams Assistant Coach mwilliams2@seu.edu
+
+27. Drew Dickens
+   Email: aldickens@seu.edu
+   Username: aldickens
+   Phone: (863) 667-5071
+   Original line: Drew Dickens Head Coach aldickens@seu.edu 863-667-5071
+
+28. Kelsi Dickens
+   Email: kadickens@seu.edu
+   Username: kadickens
+   Original line: Kelsi Dickens Assistant Coach kadickens@seu.edu
+
+29. Nick Dodson
+   Email: ngdodson@seu.edu
+   Username: ngdodson
+   Phone: (863) 667-5595
+   Original line: Nick Dodson Head Coach ngdodson@seu.edu 863-667-5595
+
+30. Paul Kurtz
+   Email: pakurtz@seu.edu
+   Username: pakurtz
+   Phone: (863) 667-5100
+   Original line: Paul Kurtz Assistant Coach - Distance pakurtz@seu.edu 863-667-5100
+
+31. Amanda Phelps
+   Email: aphelps@seu.edu
+   Username: aphelps
+   Phone: (863) 667-5825
+   Original line: Amanda Phelps Head Coach aphelps@seu.edu 863-667-5825
+
+32. Aurora Alderman
+   Email: aalderman@seu.edu
+   Username: aalderman
+   Original line: Aurora Alderman Assistant Coach aalderman@seu.edu
+
+33. Deandra Small
+   Email: dsmall@seu.edu
+   Username: dsmall
+   Original line: Deandra Small Assistant Coach dsmall@seu.edu
+
+34. Travis Patrick
+   Email: tmpatrick@seu.edu
+   Username: tmpatrick
+   Phone: 863.667.5201
+   Original line: Travis Patrick Head Coach tmpatrick@seu.edu 863.667.5201
+
+35. Douglas Peppers
+   Email: drpeppers@seu.edu
+   Username: drpeppers
+   Phone: (863) 667-5042
+   Original line: Douglas Peppers Assistant Coach drpeppers@seu.edu 863-667-5042
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Gabe Grinder Head Coach gagrinder@seu.edu
+• Josh Larrinaga Assistant Coach jdlarrinaga@seu.edu
+• Pete Horner Assistant Coach pjhorner@seu.edu
+• Hudson Welty Head Coach hwelty@seu.edu
+• Xavier Allison Assistant Coach xrallison@seu.edu
+• Joshua Epperson Head Coach jaepperson@seu.edu
+• Alexis Tappe Assistant Coach amtappe@seu.edu
+• Dionne Thacker Head Coach dthacker1@seu.edu
+• Paul Kurtz Head Coach pakurtz@seu.edu 863-667-5100
+• David Driggers Head Coach dedriggers@seu.edu
+• Adam Waugh Head Coach apwaugh@seu.edu
+• William Henry Assistant Head Coach - Defensive Coordinator - Safeties wdhenry@seu.edu
+• Tripp Dodd Assistant Coach - Defensive Line rldodd@seu.edu
+• Jeremy Harris Assistant Coach - Defensive Backs jdharris2@seu.edu
+• Jordan Heldreth Assistant Coach - Offensive Line - Run Game Coordinator jcheldreth@seu.edu
+• Kyle Jones Assistant Coach - Linebackers kejones@seu.edu
+• Shavis King Assistant Coach - Defensive Analyst sking@seu.edu
+• Khalil Pope Assistant Coach - Wide Receivers krpopeturner@seu.edu
+• Kenny Strong Assistant Coach - Running Backs kstrong1@seu.edu
+• David Joyner Head Coach djoyner@seu.edu
+• Mark Joyner Assistant Coach mjoyner@seu.edu
+• Gerritson Craane Interim Head Coach gacraane@seu.edu
+• Skelly Kellar Head Coach stkellar@seu.edu
+• Brendon Wheeler Assistant Coach bwheeler@seu.edu
+• Kayla Watkins Head Coach kewatkins@seu.edu 863-667-5158
+• Madison Williams Assistant Coach mwilliams2@seu.edu
+• Drew Dickens Head Coach aldickens@seu.edu 863-667-5071
+• Kelsi Dickens Assistant Coach kadickens@seu.edu
+• Nick Dodson Head Coach ngdodson@seu.edu 863-667-5595
+• Paul Kurtz Assistant Coach - Distance pakurtz@seu.edu 863-667-5100
+• Amanda Phelps Head Coach aphelps@seu.edu 863-667-5825
+• Aurora Alderman Assistant Coach aalderman@seu.edu
+• Deandra Small Assistant Coach dsmall@seu.edu
+• Travis Patrick Head Coach tmpatrick@seu.edu 863.667.5201
+• Douglas Peppers Assistant Coach drpeppers@seu.edu 863-667-5042

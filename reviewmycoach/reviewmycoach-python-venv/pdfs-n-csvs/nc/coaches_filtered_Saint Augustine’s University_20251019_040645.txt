@@ -1,0 +1,47 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:45
+============================================================
+
+Total coaches found: 6
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chucky Brown
+   Email: teambrown@nc.rr.com
+   Username: teambrown
+   Original line: Chucky Brown Head Men's Basketball Coach teambrown@nc.rr.com 122 Atkinson
+
+2. Ebony Tanner
+   Email: emoore@st-aug.edu
+   Username: emoore
+   Original line: Ebony Tanner Head Women's Basketball Coach emoore@st-aug.edu (919) 516- 101 Atkinson @coachebonysau
+
+3. Donald Manley
+   Email: DManley@st-aug.edu
+   Username: DManley
+   Original line: Donald Manley Offensive Line Coach DManley@st-aug.edu
+
+4. Julius Wells
+   Email: jewells@st-aug.edu
+   Username: jewells
+   Original line: Julius Wells Head Men's Golf Coach jewells@st-aug.edu (704) 488- 119 Atkinson
+
+5. Elizabeth Gary
+   Email: eligary@st-aug.edu
+   Username: eligary
+   Original line: Elizabeth Gary Head Women's Track & Field Coach eligary@st-aug.edu (919) 345- 115 Atkinson
+
+6. Tacara Moxey
+   Email: tmoxey@st-aug.edu
+   Username: tmoxey
+   Original line: Tacara Moxey Head Volleyball Coach tmoxey@st-aug.edu (919) 516- 109 Atkinson
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chucky Brown Head Men's Basketball Coach teambrown@nc.rr.com 122 Atkinson
+• Ebony Tanner Head Women's Basketball Coach emoore@st-aug.edu (919) 516- 101 Atkinson @coachebonysau
+• Donald Manley Offensive Line Coach DManley@st-aug.edu
+• Julius Wells Head Men's Golf Coach jewells@st-aug.edu (704) 488- 119 Atkinson
+• Elizabeth Gary Head Women's Track & Field Coach eligary@st-aug.edu (919) 345- 115 Atkinson
+• Tacara Moxey Head Volleyball Coach tmoxey@st-aug.edu (919) 516- 109 Atkinson

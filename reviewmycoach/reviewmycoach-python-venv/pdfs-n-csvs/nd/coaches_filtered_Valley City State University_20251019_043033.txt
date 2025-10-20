@@ -1,0 +1,143 @@
+COACH ENTRIES FOUND - 2025-10-19 04:30:34
+============================================================
+
+Total coaches found: 22
+
+PARSED ENTRIES:
+----------------------------------------
+1. Will Rakowski
+   Email: william.rakowski@vcsu.edu
+   Username: william.rakowski
+   Original line: Will Rakowski Head Strength & Conditioning Coach 701-845- william.rakowski@vcsu.edu
+
+2. Collin Hoss
+   Email: collin.hoss@vcsu.edu
+   Username: collin.hoss
+   Original line: Collin Hoss Head Golf Coach/Assistant SID 701-845- collin.hoss@vcsu.edu
+
+3. Alec DeMaria
+   Email: alec.demaria@vcsu.edu
+   Username: alec.demaria
+   Original line: Alec DeMaria Head Baseball Coach 701-845- alec.demaria@vcsu.edu
+
+4. Cameron Pitts
+   Email: cameron.pitts@vcsu.edu
+   Username: cameron.pitts
+   Original line: Cameron Pitts Assistant Coach 701-845- cameron.pitts@vcsu.edu
+
+5. Ryan Montgomery
+   Email: ryan.montgomery@vcsu.edu
+   Username: ryan.montgomery
+   Original line: Ryan Montgomery Head Men's Basketball Coach 701-845- ryan.montgomery@vcsu.edu
+
+6. Trevor Flemmer
+   Email: trevor.flemmer@vcsu.edu
+   Username: trevor.flemmer
+   Original line: Trevor Flemmer Assistant Men's Basketball Coach 701-845- trevor.flemmer@vcsu.edu
+
+7. Vanessa Johnson
+   Email: vanessa.johnson.1@vcsu.edu
+   Username: vanessa.johnson.1
+   Original line: Vanessa Johnson Head Women's Basketball Coach 701-845- vanessa.johnson.1@vcsu.edu
+
+8. Laquone Robinson
+   Email: laquone.robinson@vcsu.edu
+   Username: laquone.robinson
+   Original line: Laquone Robinson Head Track & Field/Cross Country Coach 701-845- laquone.robinson@vcsu.edu
+
+9. Laquone Robinson
+   Email: laquone.robinson@vcsu.edu
+   Username: laquone.robinson
+   Original line: Laquone Robinson Head Track & Field/Cross Country Coach 701-845- laquone.robinson@vcsu.edu
+
+10. Dennis McCulloch
+   Email: dennis.mcculloch@vcsu.edu
+   Username: dennis.mcculloch
+   Original line: Dennis McCulloch Head Football Coach 701-845- dennis.mcculloch@vcsu.edu
+
+11. Gregg Horner
+   Email: gregg.horner@vcsu.edu
+   Username: gregg.horner
+   Original line: Gregg Horner Assistant Head Football Coach 701-845- gregg.horner@vcsu.edu
+
+12. Brandon Bouma
+   Email: brandon.bouma@vcsu.edu
+   Username: brandon.bouma
+   Original line: Brandon Bouma Assistant Football Coach 701-845- brandon.bouma@vcsu.edu
+
+13. Collin Hoss
+   Email: collin.hoss@vcsu.edu
+   Username: collin.hoss
+   Original line: Collin Hoss Head Golf Coach/Assistant SID 701-845- collin.hoss@vcsu.edu
+
+14. Collin Hoss
+   Email: collin.hoss@vcsu.edu
+   Username: collin.hoss
+   Original line: Collin Hoss Head Golf Coach/Assistant SID 701-845- collin.hoss@vcsu.edu
+
+15. Nick Galt
+   Email: nicholas.galt@vcsu.edu
+   Username: nicholas.galt
+   Original line: Nick Galt Head Coach Shooting Sports 701-845- nicholas.galt@vcsu.edu
+
+16. Matt Gable
+   Email: matt.gable@vcsu.edu
+   Username: matt.gable
+   Original line: Matt Gable Head Softball Coach 701-845- matt.gable@vcsu.edu
+
+17. Vance Christianson
+   Email: vance.christianson@ndus.edu
+   Username: vance.christianson
+   Original line: Vance Christianson Assistant Coach 701-845- vance.christianson@ndus.edu
+
+18. Riley Olstad
+   Email: riley.perryman@vcsu.edu
+   Username: riley.perryman
+   Original line: Riley Olstad Assistant Coach riley.perryman@vcsu.edu
+
+19. Laquone Robinson
+   Email: laquone.robinson@vcsu.edu
+   Username: laquone.robinson
+   Original line: Laquone Robinson Head Track & Field/Cross Country Coach 701-845- laquone.robinson@vcsu.edu
+
+20. Laquone Robinson
+   Email: laquone.robinson@vcsu.edu
+   Username: laquone.robinson
+   Original line: Laquone Robinson Head Track & Field/Cross Country Coach 701-845- laquone.robinson@vcsu.edu
+
+21. Michelle Meiklejohn
+   Email: michelle.meiklejohn@vcsu.edu
+   Username: michelle.meiklejohn
+   Original line: Michelle Meiklejohn Head Volleyball Coach 701-845- michelle.meiklejohn@vcsu.edu
+
+22. Jayden Wilson
+   Email: jayden.m.wilson@vcsu.edu
+   Username: jayden.m.wilson
+   Original line: Jayden Wilson Assistant Volleyball Coach 701-845- jayden.m.wilson@vcsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Will Rakowski Head Strength & Conditioning Coach 701-845- william.rakowski@vcsu.edu
+• Collin Hoss Head Golf Coach/Assistant SID 701-845- collin.hoss@vcsu.edu
+• Alec DeMaria Head Baseball Coach 701-845- alec.demaria@vcsu.edu
+• Cameron Pitts Assistant Coach 701-845- cameron.pitts@vcsu.edu
+• Ryan Montgomery Head Men's Basketball Coach 701-845- ryan.montgomery@vcsu.edu
+• Trevor Flemmer Assistant Men's Basketball Coach 701-845- trevor.flemmer@vcsu.edu
+• Vanessa Johnson Head Women's Basketball Coach 701-845- vanessa.johnson.1@vcsu.edu
+• Laquone Robinson Head Track & Field/Cross Country Coach 701-845- laquone.robinson@vcsu.edu
+• Laquone Robinson Head Track & Field/Cross Country Coach 701-845- laquone.robinson@vcsu.edu
+• Dennis McCulloch Head Football Coach 701-845- dennis.mcculloch@vcsu.edu
+• Gregg Horner Assistant Head Football Coach 701-845- gregg.horner@vcsu.edu
+• Brandon Bouma Assistant Football Coach 701-845- brandon.bouma@vcsu.edu
+• Collin Hoss Head Golf Coach/Assistant SID 701-845- collin.hoss@vcsu.edu
+• Collin Hoss Head Golf Coach/Assistant SID 701-845- collin.hoss@vcsu.edu
+• Nick Galt Head Coach Shooting Sports 701-845- nicholas.galt@vcsu.edu
+• Matt Gable Head Softball Coach 701-845- matt.gable@vcsu.edu
+• Vance Christianson Assistant Coach 701-845- vance.christianson@ndus.edu
+• Riley Olstad Assistant Coach riley.perryman@vcsu.edu
+• Laquone Robinson Head Track & Field/Cross Country Coach 701-845- laquone.robinson@vcsu.edu
+• Laquone Robinson Head Track & Field/Cross Country Coach 701-845- laquone.robinson@vcsu.edu
+• Michelle Meiklejohn Head Volleyball Coach 701-845- michelle.meiklejohn@vcsu.edu
+• Jayden Wilson Assistant Volleyball Coach 701-845- jayden.m.wilson@vcsu.edu

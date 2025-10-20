@@ -1,0 +1,233 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:32
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Adam Smith
+   Email: asmith10@ben.edu
+   Username: asmith10
+   Original line: Adam Smith Head Coach 630-829- asmith10@ben.edu
+
+2. Tyler Ingram
+   Email: jingram10@ben.edu
+   Username: jingram10
+   Original line: Tyler Ingram Assistant Coach 630-829- jingram10@ben.edu
+
+3. Sam Mallinas
+   Email: smallinas@ben.edu
+   Username: smallinas
+   Original line: Sam Mallinas Graduate Assistant Coach smallinas@ben.edu
+
+4. Jordan Townsend
+   Email: jtownsend@ben.edu
+   Username: jtownsend
+   Original line: Jordan Townsend Head Coach 630-829- jtownsend@ben.edu
+
+5. Jake Rhode
+   Email: jrhode@ben.edu
+   Username: jrhode
+   Original line: Jake Rhode Assistant Coach jrhode@ben.edu
+
+6. Frank Janczak
+   Email: fjanczak@ben.edu
+   Username: fjanczak
+   Original line: Frank Janczak Assistant Coach 630-829- fjanczak@ben.edu
+
+7. Charlie Towns
+   Email: ctowns@ben.edu
+   Username: ctowns
+   Original line: Charlie Towns Graduate Assistant Coach 630-829- ctowns@ben.edu
+
+8. Oliver Wiseman
+   Email: owiseman@ben.edu
+   Username: owiseman
+   Original line: Oliver Wiseman Head Coach 630-829- owiseman@ben.edu
+
+9. Todd Zasadil
+   Email: tzasadil@ben.edu
+   Username: tzasadil
+   Original line: Todd Zasadil Assistant Coach tzasadil@ben.edu
+
+10. Maxine Najera
+   Email: mnajera@ben.edu
+   Username: mnajera
+   Original line: Maxine Najera Assistant Coach 630-829- mnajera@ben.edu
+
+11. Ernest Downing
+   Email: edowning@ben.edu
+   Username: edowning
+   Original line: Ernest Downing Assistant Coach 312-701- edowning@ben.edu
+
+12. Jim Schroeder
+   Email: jschroeder@ben.edu
+   Username: jschroeder
+   Original line: Jim Schroeder Head Coach 630-829- jschroeder@ben.edu
+
+13. Rick Ponx
+   Email: rponx@ben.edu
+   Username: rponx
+   Original line: Rick Ponx Assistant Coach rponx@ben.edu
+
+14. Frank Janczak
+   Email: fjanczak@ben.edu
+   Username: fjanczak
+   Original line: Frank Janczak Head Coach 630-829- fjanczak@ben.edu
+
+15. Frank Janczak
+   Email: fjanczak@ben.edu
+   Username: fjanczak
+   Original line: Frank Janczak Head Coach 630-829- fjanczak@ben.edu
+
+16. Kate Heidkamp
+   Email: kheidkamp@ben.edu
+   Username: kheidkamp
+   Original line: Kate Heidkamp Head Coach 630-829- kheidkamp@ben.edu
+
+17. Lisa Gaskin
+   Email: lgaskin@ben.edu
+   Username: lgaskin
+   Original line: Lisa Gaskin Associate Head Coach 630-829- lgaskin@ben.edu
+
+18. Spencer Pappas
+   Email: spappas@ben.edu
+   Username: spappas
+   Original line: Spencer Pappas Head Coach 630-829- spappas@ben.edu
+
+19. Tomasz Kulak
+   Email: tkulak@ben.edu
+   Username: tkulak
+   Original line: Tomasz Kulak Assistant Coach tkulak@ben.edu
+
+20. Adrian Komperda
+   Email: akomperda@ben.edu
+   Username: akomperda
+   Original line: Adrian Komperda Assistant Coach akomperda@ben.edu
+
+21. Michal Szaflarski
+   Email: mszaflarski@ben.edu
+   Username: mszaflarski
+   Original line: Michal Szaflarski Assistant Coach mszaflarski@ben.edu
+
+22. Katie McCue
+   Email: kmccue@ben.edu
+   Username: kmccue
+   Original line: Katie McCue Head Coach 630-829- kmccue@ben.edu
+
+23. Joshua Whittaker
+   Email: jwhittaker@ben.edu
+   Username: jwhittaker
+   Original line: Joshua Whittaker Assistant Coach 464-242- jwhittaker@ben.edu
+
+24. Jeremiah Thompson
+   Email: jthompson12@ben.edu
+   Username: jthompson12
+   Original line: Jeremiah Thompson Graduate Assistant Coach jthompson12@ben.edu
+
+25. Marcel Morgan
+   Email: mmorgan10@ben.edu
+   Username: mmorgan10
+   Original line: Marcel Morgan Assistant Coach 630-829- mmorgan10@ben.edu
+
+26. Sharissa McQueen
+   Email: smcqueen@ben.edu
+   Username: smcqueen
+   Original line: Sharissa McQueen Assistant Coach smcqueen@ben.edu
+
+27. Keya Willis
+   Email: kwillis@ben.edu
+   Username: kwillis
+   Original line: Keya Willis Assistant Coach 708-921- kwillis@ben.edu
+
+28. Jeremiah Thompson
+   Email: jthompson12@ben.edu
+   Username: jthompson12
+   Original line: Jeremiah Thompson Graduate Assistant Coach jthompson12@ben.edu
+
+29. Sharissa McQueen
+   Email: smcqueen@ben.edu
+   Username: smcqueen
+   Original line: Sharissa McQueen Assistant Coach smcqueen@ben.edu
+
+30. Marcel Morgan
+   Email: mmorgan10@ben.edu
+   Username: mmorgan10
+   Original line: Marcel Morgan Assistant Coach 630-829- mmorgan10@ben.edu
+
+31. Keya Willis
+   Email: kwillis@ben.edu
+   Username: kwillis
+   Original line: Keya Willis Assistant Coach 708-921- kwillis@ben.edu
+
+32. Mike Stevens
+   Email: mstevens10@ben.edu
+   Username: mstevens10
+   Original line: Mike Stevens Head Coach mstevens10@ben.edu
+
+33. Jen Wildes
+   Email: jwildes@ben.edu
+   Username: jwildes
+   Original line: Jen Wildes Head Coach 630-829- jwildes@ben.edu
+
+34. Bailey Reiser
+   Email: breiser@ben.edu
+   Username: breiser
+   Original line: Bailey Reiser Head Coach, Dance breiser@ben.edu
+
+35. Nadleen Mubarak
+   Email: nmubarak@ben.edu
+   Username: nmubarak
+   Original line: Nadleen Mubarak Head Coach, Cheer 630-829- nmubarak@ben.edu
+
+36. Joann Diestro
+   Email: jdiestro@ben.edu
+   Username: jdiestro
+   Original line: Joann Diestro Head Coach 630-829- jdiestro@ben.edu
+
+37. Caroline Schwartz
+   Email: cschwartz10@ben.edu
+   Username: cschwartz10
+   Original line: Caroline Schwartz Head Coach cschwartz10@ben.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Adam Smith Head Coach 630-829- asmith10@ben.edu
+• Tyler Ingram Assistant Coach 630-829- jingram10@ben.edu
+• Sam Mallinas Graduate Assistant Coach smallinas@ben.edu
+• Jordan Townsend Head Coach 630-829- jtownsend@ben.edu
+• Jake Rhode Assistant Coach jrhode@ben.edu
+• Frank Janczak Assistant Coach 630-829- fjanczak@ben.edu
+• Charlie Towns Graduate Assistant Coach 630-829- ctowns@ben.edu
+• Oliver Wiseman Head Coach 630-829- owiseman@ben.edu
+• Todd Zasadil Assistant Coach tzasadil@ben.edu
+• Maxine Najera Assistant Coach 630-829- mnajera@ben.edu
+• Ernest Downing Assistant Coach 312-701- edowning@ben.edu
+• Jim Schroeder Head Coach 630-829- jschroeder@ben.edu
+• Rick Ponx Assistant Coach rponx@ben.edu
+• Frank Janczak Head Coach 630-829- fjanczak@ben.edu
+• Frank Janczak Head Coach 630-829- fjanczak@ben.edu
+• Kate Heidkamp Head Coach 630-829- kheidkamp@ben.edu
+• Lisa Gaskin Associate Head Coach 630-829- lgaskin@ben.edu
+• Spencer Pappas Head Coach 630-829- spappas@ben.edu
+• Tomasz Kulak Assistant Coach tkulak@ben.edu
+• Adrian Komperda Assistant Coach akomperda@ben.edu
+• Michal Szaflarski Assistant Coach mszaflarski@ben.edu
+• Katie McCue Head Coach 630-829- kmccue@ben.edu
+• Joshua Whittaker Assistant Coach 464-242- jwhittaker@ben.edu
+• Jeremiah Thompson Graduate Assistant Coach jthompson12@ben.edu
+• Marcel Morgan Assistant Coach 630-829- mmorgan10@ben.edu
+• Sharissa McQueen Assistant Coach smcqueen@ben.edu
+• Keya Willis Assistant Coach 708-921- kwillis@ben.edu
+• Jeremiah Thompson Graduate Assistant Coach jthompson12@ben.edu
+• Sharissa McQueen Assistant Coach smcqueen@ben.edu
+• Marcel Morgan Assistant Coach 630-829- mmorgan10@ben.edu
+• Keya Willis Assistant Coach 708-921- kwillis@ben.edu
+• Mike Stevens Head Coach mstevens10@ben.edu
+• Jen Wildes Head Coach 630-829- jwildes@ben.edu
+• Bailey Reiser Head Coach, Dance breiser@ben.edu
+• Nadleen Mubarak Head Coach, Cheer 630-829- nmubarak@ben.edu
+• Joann Diestro Head Coach 630-829- jdiestro@ben.edu
+• Caroline Schwartz Head Coach cschwartz10@ben.edu

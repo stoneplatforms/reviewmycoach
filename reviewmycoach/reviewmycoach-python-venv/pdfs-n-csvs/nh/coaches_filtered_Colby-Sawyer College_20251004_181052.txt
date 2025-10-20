@@ -1,0 +1,166 @@
+COACH ENTRIES FOUND - 2025-10-04 18:10:53
+============================================================
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Courtney Lampert
+   Email: clampert@colby-sawyer.edu
+   Username: clampert
+   Original line: Courtney Lampert '18 MSES '24 Strength, Conditioning & Performance Coach clampert@colby-sawyer.edu
+
+2. Andy Locke
+   Email: andy.locke@colby-sawyer.edu
+   Username: andy.locke
+   Phone: 526-3608
+   Original line: Andy Locke Head Coach andy.locke@colby-sawyer.edu 526-3608
+
+3. Tom White
+   Email: tom.white@colby-sawyer.edu
+   Username: tom.white
+   Phone: 526-3607
+   Original line: Tom White '09 Head Coach tom.white@colby-sawyer.edu 526-3607
+
+4. Ryan Connolly
+   Email: ryan.connolly@colby-sawyer.edu
+   Username: ryan.connolly
+   Original line: Ryan Connolly '08 Recruiting Coordinator / Pitching Coach ryan.connolly@colby-sawyer.edu
+
+5. Tim Moreau
+   Email: timothy.moreau@colby-sawyer.edu
+   Username: timothy.moreau
+   Original line: Tim Moreau Associate Head Coach timothy.moreau@colby-sawyer.edu
+
+6. Ryan Purrington
+   Email: ryan.purrington@colby-sawyer.edu
+   Username: ryan.purrington
+   Phone: 526-3605
+   Original line: Ryan Purrington Head Coach ryan.purrington@colby-sawyer.edu 526-3605
+
+7. Emily Dewdney
+   Email: emily.dewdney@colby-sawyer.edu
+   Username: emily.dewdney
+   Phone: 526-3489
+   Original line: Emily Dewdney Head Coach emily.dewdney@colby-sawyer.edu 526-3489
+
+8. Courtney Lampert
+   Email: clampert@colby-sawyer.edu
+   Username: clampert
+   Original line: Courtney Lampert '18 MSES '24 Assistant Coach clampert@colby-sawyer.edu
+
+9. Shannon Sciria
+   Email: shannon.sciria@colby-sawyer.edu
+   Username: shannon.sciria
+   Original line: Shannon Sciria '09 Head Coach shannon.sciria@colby-sawyer.edu
+
+10. Zachary Grady
+   Email: zachary.grady@colby-sawyer.edu
+   Username: zachary.grady
+   Phone: 526-3611
+   Original line: Zachary Grady Head Coach zachary.grady@colby-sawyer.edu 526-3611
+
+11. John Boynton
+   Email: john.boynton@colby-sawyer.edu
+   Username: john.boynton
+   Original line: John Boynton Associate Head Coach john.boynton@colby-sawyer.edu
+
+12. Jordan Barnett
+   Email: jordan.barnett@colby-sawyer.edu
+   Username: jordan.barnett
+   Original line: Jordan Barnett Assistant Coach jordan.barnett@colby-sawyer.edu
+
+13. Barry Schoonmaker
+   Email: bschoonmaker@colby-sawyer.edu
+   Username: bschoonmaker
+   Phone: 526-3606
+   Original line: Barry Schoonmaker Head Coach bschoonmaker@colby-sawyer.edu 526-3606
+
+14. Ryan Purrington
+   Email: ryan.purrington@colby-sawyer.edu
+   Username: ryan.purrington
+   Phone: 526-3605
+   Original line: Ryan Purrington Head Coach ryan.purrington@colby-sawyer.edu 526-3605
+
+15. Tim Viola
+   Email: tim.viola@colby-sawyer.edu
+   Username: tim.viola
+   Phone: 526-3763
+   Original line: Tim Viola Head Coach tim.viola@colby-sawyer.edu 526-3763
+
+16. Andrew Nimmo
+   Email: andrew.nimmo@colby-sawyer.edu
+   Username: andrew.nimmo
+   Original line: Andrew Nimmo Assistant Coach andrew.nimmo@colby-sawyer.edu
+
+17. Emily Dewdney
+   Email: emily.dewdney@colby-sawyer.edu
+   Username: emily.dewdney
+   Phone: 526-3489
+   Original line: Emily Dewdney Head Coach emily.dewdney@colby-sawyer.edu 526-3489
+
+18. Courtney Lampert
+   Email: clampert@colby-sawyer.edu
+   Username: clampert
+   Original line: Courtney Lampert '18 MSES '24 Assistant Coach clampert@colby-sawyer.edu
+
+19. Anthony Cosky
+   Email: anthony.cosky@colby-sawyer.edu
+   Username: anthony.cosky
+   Phone: 526-3138
+   Original line: Anthony Cosky Head Coach anthony.cosky@colby-sawyer.edu 526-3138
+
+20. Miro Gladovic
+   Email: miro.gladovic@colby-sawyer.edu
+   Username: miro.gladovic
+   Original line: Miro Gladovic Assistant Coach & Goalkeeper Coach miro.gladovic@colby-sawyer.edu
+
+21. Barry Schoonmaker
+   Email: bschoonmaker@colby-sawyer.edu
+   Username: bschoonmaker
+   Phone: 526-3606
+   Original line: Barry Schoonmaker Head Coach bschoonmaker@colby-sawyer.edu 526-3606
+
+22. Rita Dow
+   Email: rita.dow@colby-sawyer.edu
+   Username: rita.dow
+   Original line: Rita Dow Assistant Coach rita.dow@colby-sawyer.edu
+
+23. Pape Lukk
+   Email: pape.lukk@colby-sawyer.edu
+   Username: pape.lukk
+   Original line: Pape Lukk Head Coach pape.lukk@colby-sawyer.edu
+
+24. Kay'lee Justice
+   Email: kaylee.justice@colby-sawyer.edu
+   Username: kaylee.justice
+   Original line: Kay'lee Justice Head Coach kaylee.justice@colby-sawyer.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Courtney Lampert '18 MSES '24 Strength, Conditioning & Performance Coach clampert@colby-sawyer.edu
+• Andy Locke Head Coach andy.locke@colby-sawyer.edu 526-3608
+• Tom White '09 Head Coach tom.white@colby-sawyer.edu 526-3607
+• Ryan Connolly '08 Recruiting Coordinator / Pitching Coach ryan.connolly@colby-sawyer.edu
+• Tim Moreau Associate Head Coach timothy.moreau@colby-sawyer.edu
+• Ryan Purrington Head Coach ryan.purrington@colby-sawyer.edu 526-3605
+• Emily Dewdney Head Coach emily.dewdney@colby-sawyer.edu 526-3489
+• Courtney Lampert '18 MSES '24 Assistant Coach clampert@colby-sawyer.edu
+• Shannon Sciria '09 Head Coach shannon.sciria@colby-sawyer.edu
+• Zachary Grady Head Coach zachary.grady@colby-sawyer.edu 526-3611
+• John Boynton Associate Head Coach john.boynton@colby-sawyer.edu
+• Jordan Barnett Assistant Coach jordan.barnett@colby-sawyer.edu
+• Barry Schoonmaker Head Coach bschoonmaker@colby-sawyer.edu 526-3606
+• Ryan Purrington Head Coach ryan.purrington@colby-sawyer.edu 526-3605
+• Tim Viola Head Coach tim.viola@colby-sawyer.edu 526-3763
+• Andrew Nimmo Assistant Coach andrew.nimmo@colby-sawyer.edu
+• Emily Dewdney Head Coach emily.dewdney@colby-sawyer.edu 526-3489
+• Courtney Lampert '18 MSES '24 Assistant Coach clampert@colby-sawyer.edu
+• Anthony Cosky Head Coach anthony.cosky@colby-sawyer.edu 526-3138
+• Miro Gladovic Assistant Coach & Goalkeeper Coach miro.gladovic@colby-sawyer.edu
+• Barry Schoonmaker Head Coach bschoonmaker@colby-sawyer.edu 526-3606
+• Rita Dow Assistant Coach rita.dow@colby-sawyer.edu
+• Pape Lukk Head Coach pape.lukk@colby-sawyer.edu
+• Kay'lee Justice Head Coach kaylee.justice@colby-sawyer.edu

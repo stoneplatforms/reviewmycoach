@@ -1,0 +1,196 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:06
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ryan Kragh
+   Email: Ryan.Kragh@blc.edu
+   Username: Ryan.Kragh
+   Phone: (507) 344-7868
+   Original line: Ryan Kragh Co-Athletic Director / Head Baseball Coach Ryan.Kragh@blc.edu 507-344-7868
+
+2. Pat Garvin
+   Email: pat.garvin@blc.edu
+   Username: pat.garvin
+   Phone: (507) 344-7436
+   Original line: Pat Garvin Co-Athletic Director / Head Men's Basketball Coach pat.garvin@blc.edu 507-344-7436
+
+3. Emma Purfeerst
+   Email: emma.purfeerst@blc.edu
+   Username: emma.purfeerst
+   Phone: (507) 344-7863
+   Original line: Emma Purfeerst Head Women's Basketball Coach/Senior Woman Administrator emma.purfeerst@blc.edu 507-344-7863
+
+4. Danny Kneeland
+   Email: dkneeland@blc.edu
+   Username: dkneeland
+   Original line: Danny Kneeland Associate Head Baseball Coach / Game Management Supervisor dkneeland@blc.edu
+
+5. Ryan Kragh
+   Email: Ryan.Kragh@blc.edu
+   Username: Ryan.Kragh
+   Phone: (507) 344-7868
+   Original line: Ryan Kragh Co-Athletic Director / Head Baseball Coach Ryan.Kragh@blc.edu 507-344-7868
+
+6. Danny Kneeland
+   Email: dkneeland@blc.edu
+   Username: dkneeland
+   Original line: Danny Kneeland Associate Head Baseball Coach / Game Management Supervisor dkneeland@blc.edu
+
+7. Pat Garvin
+   Email: pat.garvin@blc.edu
+   Username: pat.garvin
+   Phone: (507) 344-7436
+   Original line: Pat Garvin Co-Athletic Director / Head Men's Basketball Coach pat.garvin@blc.edu 507-344-7436
+
+8. Brandon Polesky
+   Email: brandon.polesky@blc.edu
+   Username: brandon.polesky
+   Phone: (507) 344-7552
+   Original line: Brandon Polesky Associate Head Coach brandon.polesky@blc.edu 507-344-7552
+
+9. Emma Purfeerst
+   Email: emma.purfeerst@blc.edu
+   Username: emma.purfeerst
+   Phone: (507) 344-7863
+   Original line: Emma Purfeerst Head Women's Basketball Coach/Senior Woman Administrator emma.purfeerst@blc.edu 507-344-7863
+
+10. Dominic Santina
+   Email: dsantina@blc.edu
+   Username: dsantina
+   Original line: Dominic Santina Head Cross Country/Track and Field Coach dsantina@blc.edu
+
+11. Jakin Anderson
+   Email: janderson1@blc.edu
+   Username: janderson1
+   Original line: Jakin Anderson Assistant Coach janderson1@blc.edu
+
+12. Brianna Prince
+   Email: brianna.soutthivong@blc.edu
+   Username: brianna.soutthivong
+   Original line: Brianna Prince Assistant Coach - Cross Country / Track and Field brianna.soutthivong@blc.edu
+
+13. Mitch DeKruif
+   Email: mdekruif@blc.edu
+   Username: mdekruif
+   Original line: Mitch DeKruif Head Golf Coach mdekruif@blc.edu
+
+14. Nick Neubauer
+   Email: nneubauer@blc.edu
+   Username: nneubauer
+   Phone: (507) 344-7870
+   Original line: Nick Neubauer Assistant Coach nneubauer@blc.edu 507-344-7870
+
+15. Mitch DeKruif
+   Email: mdekruif@blc.edu
+   Username: mdekruif
+   Original line: Mitch DeKruif Head Golf Coach mdekruif@blc.edu
+
+16. Nick Neubauer
+   Email: nneubauer@blc.edu
+   Username: nneubauer
+   Phone: (507) 344-7870
+   Original line: Nick Neubauer Assistant Coach nneubauer@blc.edu 507-344-7870
+
+17. Derick Lyngholm
+   Email: Derick.Lyngholm@blc.edu
+   Username: Derick.Lyngholm
+   Phone: (507) 344-7384
+   Original line: Derick Lyngholm Head Men's Soccer Coach Derick.Lyngholm@blc.edu 507-344-7384
+
+18. Ryan Nichols
+   Email: rnichols@blc.edu
+   Username: rnichols
+   Original line: Ryan Nichols Head Women's Soccer Coach rnichols@blc.edu
+
+19. Kindra Dewanz
+   Email: kdewanz@blc.edu
+   Username: kdewanz
+   Original line: Kindra Dewanz Assistant Coach kdewanz@blc.edu
+
+20. Angela Dabu
+   Email: adabu1@blc.edu
+   Username: adabu1
+   Original line: Angela Dabu Head Softball Coach adabu1@blc.edu
+
+21. John Oothoudt
+   Email: joothoudt@blc.edu
+   Username: joothoudt
+   Original line: John Oothoudt Assistant Coach joothoudt@blc.edu
+
+22. Michael Janes
+   Email: mjanes@blc.edu
+   Username: mjanes
+   Original line: Michael Janes Head Tennis Coach mjanes@blc.edu
+
+23. Dominic Santina
+   Email: dsantina@blc.edu
+   Username: dsantina
+   Original line: Dominic Santina Head Cross Country/Track and Field Coach dsantina@blc.edu
+
+24. Jakin Anderson
+   Email: janderson1@blc.edu
+   Username: janderson1
+   Original line: Jakin Anderson Assistant Coach janderson1@blc.edu
+
+25. Brianna Prince
+   Email: brianna.soutthivong@blc.edu
+   Username: brianna.soutthivong
+   Original line: Brianna Prince Assistant Coach - Cross Country / Track and Field brianna.soutthivong@blc.edu
+
+26. Laura Evans
+   Email: levans1@blc.edu
+   Username: levans1
+   Phone: (507) 344-7724
+   Original line: Laura Evans Head Volleyball Coach levans1@blc.edu 507-344-7724
+
+27. Amy Jo
+   Email: amy.opsal@blc.edu
+   Username: amy.opsal
+   Original line: Amy Jo Opsal Assistant Coach amy.opsal@blc.edu
+
+28. Marcia Loeslie
+   Email: mloeslie@blc.edu
+   Username: mloeslie
+   Original line: Marcia Loeslie Assistant Coach mloeslie@blc.edu
+
+29. Kenn Mueller
+   Email: kmueller@blc.edu
+   Username: kmueller
+   Original line: Kenn Mueller Head Coach kmueller@blc.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ryan Kragh Co-Athletic Director / Head Baseball Coach Ryan.Kragh@blc.edu 507-344-7868
+• Pat Garvin Co-Athletic Director / Head Men's Basketball Coach pat.garvin@blc.edu 507-344-7436
+• Emma Purfeerst Head Women's Basketball Coach/Senior Woman Administrator emma.purfeerst@blc.edu 507-344-7863
+• Danny Kneeland Associate Head Baseball Coach / Game Management Supervisor dkneeland@blc.edu
+• Ryan Kragh Co-Athletic Director / Head Baseball Coach Ryan.Kragh@blc.edu 507-344-7868
+• Danny Kneeland Associate Head Baseball Coach / Game Management Supervisor dkneeland@blc.edu
+• Pat Garvin Co-Athletic Director / Head Men's Basketball Coach pat.garvin@blc.edu 507-344-7436
+• Brandon Polesky Associate Head Coach brandon.polesky@blc.edu 507-344-7552
+• Emma Purfeerst Head Women's Basketball Coach/Senior Woman Administrator emma.purfeerst@blc.edu 507-344-7863
+• Dominic Santina Head Cross Country/Track and Field Coach dsantina@blc.edu
+• Jakin Anderson Assistant Coach janderson1@blc.edu
+• Brianna Prince Assistant Coach - Cross Country / Track and Field brianna.soutthivong@blc.edu
+• Mitch DeKruif Head Golf Coach mdekruif@blc.edu
+• Nick Neubauer Assistant Coach nneubauer@blc.edu 507-344-7870
+• Mitch DeKruif Head Golf Coach mdekruif@blc.edu
+• Nick Neubauer Assistant Coach nneubauer@blc.edu 507-344-7870
+• Derick Lyngholm Head Men's Soccer Coach Derick.Lyngholm@blc.edu 507-344-7384
+• Ryan Nichols Head Women's Soccer Coach rnichols@blc.edu
+• Kindra Dewanz Assistant Coach kdewanz@blc.edu
+• Angela Dabu Head Softball Coach adabu1@blc.edu
+• John Oothoudt Assistant Coach joothoudt@blc.edu
+• Michael Janes Head Tennis Coach mjanes@blc.edu
+• Dominic Santina Head Cross Country/Track and Field Coach dsantina@blc.edu
+• Jakin Anderson Assistant Coach janderson1@blc.edu
+• Brianna Prince Assistant Coach - Cross Country / Track and Field brianna.soutthivong@blc.edu
+• Laura Evans Head Volleyball Coach levans1@blc.edu 507-344-7724
+• Amy Jo Opsal Assistant Coach amy.opsal@blc.edu
+• Marcia Loeslie Assistant Coach mloeslie@blc.edu
+• Kenn Mueller Head Coach kmueller@blc.edu

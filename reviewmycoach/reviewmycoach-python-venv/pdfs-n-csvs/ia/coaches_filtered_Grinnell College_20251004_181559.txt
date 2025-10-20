@@ -1,0 +1,269 @@
+COACH ENTRIES FOUND - 2025-10-04 18:16:00
+============================================================
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tim Hollibaugh
+   Email: hollibau@grinnell.edu
+   Username: hollibau
+   Original line: Tim Hollibaugh Head Baseball Coach hollibau@grinnell.edu 641-269- F119
+
+2. Sean Pfeiffer
+   Email: pfeiffers@grinnell.edu
+   Username: pfeiffers
+   Original line: Sean Pfeiffer Assistant Baseball Coach pfeiffers@grinnell.edu
+
+3. David Arseneault
+   Email: arseneau2@grinnell.edu
+   Username: arseneau2
+   Original line: David Arseneault Jr. Head Men's Basketball Coach arseneau2@grinnell.edu 641-269- F143
+
+4. DJ Damazo
+   Email: damazodj@grinnell.edu
+   Username: damazodj
+   Original line: DJ Damazo Assistant Men's Basketball Coach damazodj@grinnell.edu
+
+5. Dana Harrold
+   Email: harroldd@grinnell.edu
+   Username: harroldd
+   Original line: Dana Harrold Head Women's Basketball Coach harroldd@grinnell.edu 641-269- F136
+
+6. Jaxson Foster
+   Email: fosterja@grinnell.edu
+   Username: fosterja
+   Original line: Jaxson Foster Assistant Women's Basketball Coach fosterja@grinnell.edu
+
+7. Sarah Burnell
+   Email: burnells@grinnell.edu
+   Username: burnells
+   Original line: Sarah Burnell Head Men's Cross Country Coach burnells@grinnell.edu
+
+8. Sarah Burnell
+   Email: burnells@grinnell.edu
+   Username: burnells
+   Original line: Sarah Burnell Head Women's Cross Country Coach burnells@grinnell.edu
+
+9. Brent Barnes
+   Email: barnesbr@grinnell.edu
+   Username: barnesbr
+   Original line: Brent Barnes Head Football Coach barnesbr@grinnell.edu 641-269- F201-1
+
+10. Gene Blalock
+   Email: blalockg@grinnell.edu
+   Username: blalockg
+   Original line: Gene Blalock Assistant Football Coach blalockg@grinnell.edu 641-269- F121
+
+11. Malcolm J.
+   Email: gibsonma@grinnell.edu
+   Username: gibsonma
+   Original line: Malcolm J. Gibson Assistant Football Coach gibsonma@grinnell.edu
+
+12. Eddie Arias
+   Email: ariasedd@grinnell.edu
+   Username: ariasedd
+   Original line: Eddie Arias Assistant Football Coach ariasedd@grinnell.edu
+
+13. Connor McKay
+   Email: mckaycon@grinnell.edu
+   Username: mckaycon
+   Original line: Connor McKay Interim Golf Coach mckaycon@grinnell.edu
+
+14. Chris Zug
+   Email: zugchri@grinnell.edu
+   Username: zugchri
+   Original line: Chris Zug Assistant Golf Coach zugchri@grinnell.edu
+
+15. Lauren Chen
+   Email: chenlauren@grinnell.edu
+   Username: chenlauren
+   Original line: Lauren Chen Assistant Golf Coach chenlauren@grinnell.edu
+
+16. Connor McKay
+   Email: mckaycon@grinnell.edu
+   Username: mckaycon
+   Original line: Connor McKay Interim Golf Coach mckaycon@grinnell.edu
+
+17. Chris Zug
+   Email: zugchri@grinnell.edu
+   Username: zugchri
+   Original line: Chris Zug Assistant Golf Coach zugchri@grinnell.edu
+
+18. Lauren Chen
+   Email: chenlauren@grinnell.edu
+   Username: chenlauren
+   Original line: Lauren Chen Assistant Golf Coach chenlauren@grinnell.edu
+
+19. Brian Jaworski
+   Email: jaworski@grinnell.edu
+   Username: jaworski
+   Original line: Brian Jaworski Head Men's Soccer Coach jaworski@grinnell.edu 641-269- F141
+
+20. Weston McPhee
+   Email: mcpheew@grinnell.edu
+   Username: mcpheew
+   Original line: Weston McPhee Assistant Men's Soccer Coach/Goal mcpheew@grinnell.edu
+
+21. Kirsten Koester
+   Email: koesterk@grinnell.edu
+   Username: koesterk
+   Original line: Kirsten Koester Head Women's Soccer Coach koesterk@grinnell.edu 641-269- F129
+
+22. Lexy Determan
+   Email: determan@grinnell.edu
+   Username: determan
+   Original line: Lexy Determan Head Softball Coach determan@grinnell.edu
+
+23. Dalton Meredith
+   Email: meredithd@grinnell.edu
+   Username: meredithd
+   Original line: Dalton Meredith Assistant Softball Coach meredithd@grinnell.edu
+
+24. Matt Hedman
+   Email: hedmanmatthew@grinnell.edu
+   Username: hedmanmatthew
+   Original line: Matt Hedman Head Swimming and Diving Coach hedmanmatthew@grinnell.edu
+
+25. Beth Mitchell
+   Email: mitchellb@grinnell.edu
+   Username: mitchellb
+   Original line: Beth Mitchell Assistant Swimming and Diving Coach mitchellb@grinnell.edu
+
+26. Matt Hedman
+   Email: hedmanmatthew@grinnell.edu
+   Username: hedmanmatthew
+   Original line: Matt Hedman Head Swimming and Diving Coach hedmanmatthew@grinnell.edu
+
+27. Beth Mitchell
+   Email: mitchellb@grinnell.edu
+   Username: mitchellb
+   Original line: Beth Mitchell Assistant Swimming and Diving Coach mitchellb@grinnell.edu
+
+28. Zack Hasenyager
+   Email: hasenyag@grinnell.edu
+   Username: hasenyag
+   Original line: Zack Hasenyager Head Men's Tennis Coach hasenyag@grinnell.edu
+
+29. Dan Key
+   Email: keydaniel@grinnell.edu
+   Username: keydaniel
+   Original line: Dan Key Assistant Tennis Coach keydaniel@grinnell.edu
+
+30. Zack Hasenyager
+   Email: hasenyag@grinnell.edu
+   Username: hasenyag
+   Original line: Zack Hasenyager Head Women's Tennis Coach hasenyag@grinnell.edu
+
+31. Dan Key
+   Email: keydaniel@grinnell.edu
+   Username: keydaniel
+   Original line: Dan Key Assistant Tennis Coach keydaniel@grinnell.edu
+
+32. Andy Hamilton
+   Email: hamiltoa@grinnell.edu
+   Username: hamiltoa
+   Original line: Andy Hamilton Assistant Tennis Coach hamiltoa@grinnell.edu
+
+33. Jeff Pedersen
+   Email: pedersej@grinnell.edu
+   Username: pedersej
+   Original line: Jeff Pedersen Head Track and Field Coach pedersej@grinnell.edu 641-269- F131
+
+34. Sarah Burnell
+   Email: burnells@grinnell.edu
+   Username: burnells
+   Original line: Sarah Burnell Assistant Track and Field Coach burnells@grinnell.edu
+
+35. Jermelle Lewis
+   Email: lewisjer@grinnell.edu
+   Username: lewisjer
+   Original line: Jermelle Lewis Assistant Track and Field Coach lewisjer@grinnell.edu
+
+36. Will Freeman
+   Email: freemanw@grinnell.edu
+   Username: freemanw
+   Original line: Will Freeman Assistant Track and Field Coach freemanw@grinnell.edu
+
+37. Jeff Pedersen
+   Email: pedersej@grinnell.edu
+   Username: pedersej
+   Original line: Jeff Pedersen Head Track and Field Coach pedersej@grinnell.edu 641-269- F131
+
+38. Sarah Burnell
+   Email: burnells@grinnell.edu
+   Username: burnells
+   Original line: Sarah Burnell Assistant Track and Field Coach burnells@grinnell.edu
+
+39. Jermelle Lewis
+   Email: lewisjer@grinnell.edu
+   Username: lewisjer
+   Original line: Jermelle Lewis Assistant Track and Field Coach lewisjer@grinnell.edu
+
+40. Will Freeman
+   Email: freemanw@grinnell.edu
+   Username: freemanw
+   Original line: Will Freeman Assistant Track and Field Coach freemanw@grinnell.edu
+
+41. Eric Ragan
+   Email: raganeri@grinnell.edu
+   Username: raganeri
+   Original line: Eric Ragan Head Volleyball Coach raganeri@grinnell.edu 641-269- F142
+
+42. Kristland Damazo
+   Email: damazokr@grinnell.edu
+   Username: damazokr
+   Original line: Kristland Damazo Assistant Volleyball Coach damazokr@grinnell.edu
+
+43. Steve Lewis
+   Email: lewissteven@grinnell.edu
+   Username: lewissteven
+   Original line: Steve Lewis Head Strength and Conditioning Coach lewissteven@grinnell.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tim Hollibaugh Head Baseball Coach hollibau@grinnell.edu 641-269- F119
+• Sean Pfeiffer Assistant Baseball Coach pfeiffers@grinnell.edu
+• David Arseneault Jr. Head Men's Basketball Coach arseneau2@grinnell.edu 641-269- F143
+• DJ Damazo Assistant Men's Basketball Coach damazodj@grinnell.edu
+• Dana Harrold Head Women's Basketball Coach harroldd@grinnell.edu 641-269- F136
+• Jaxson Foster Assistant Women's Basketball Coach fosterja@grinnell.edu
+• Sarah Burnell Head Men's Cross Country Coach burnells@grinnell.edu
+• Sarah Burnell Head Women's Cross Country Coach burnells@grinnell.edu
+• Brent Barnes Head Football Coach barnesbr@grinnell.edu 641-269- F201-1
+• Gene Blalock Assistant Football Coach blalockg@grinnell.edu 641-269- F121
+• Malcolm J. Gibson Assistant Football Coach gibsonma@grinnell.edu
+• Eddie Arias Assistant Football Coach ariasedd@grinnell.edu
+• Connor McKay Interim Golf Coach mckaycon@grinnell.edu
+• Chris Zug Assistant Golf Coach zugchri@grinnell.edu
+• Lauren Chen Assistant Golf Coach chenlauren@grinnell.edu
+• Connor McKay Interim Golf Coach mckaycon@grinnell.edu
+• Chris Zug Assistant Golf Coach zugchri@grinnell.edu
+• Lauren Chen Assistant Golf Coach chenlauren@grinnell.edu
+• Brian Jaworski Head Men's Soccer Coach jaworski@grinnell.edu 641-269- F141
+• Weston McPhee Assistant Men's Soccer Coach/Goal mcpheew@grinnell.edu
+• Kirsten Koester Head Women's Soccer Coach koesterk@grinnell.edu 641-269- F129
+• Lexy Determan Head Softball Coach determan@grinnell.edu
+• Dalton Meredith Assistant Softball Coach meredithd@grinnell.edu
+• Matt Hedman Head Swimming and Diving Coach hedmanmatthew@grinnell.edu
+• Beth Mitchell Assistant Swimming and Diving Coach mitchellb@grinnell.edu
+• Matt Hedman Head Swimming and Diving Coach hedmanmatthew@grinnell.edu
+• Beth Mitchell Assistant Swimming and Diving Coach mitchellb@grinnell.edu
+• Zack Hasenyager Head Men's Tennis Coach hasenyag@grinnell.edu
+• Dan Key Assistant Tennis Coach keydaniel@grinnell.edu
+• Zack Hasenyager Head Women's Tennis Coach hasenyag@grinnell.edu
+• Dan Key Assistant Tennis Coach keydaniel@grinnell.edu
+• Andy Hamilton Assistant Tennis Coach hamiltoa@grinnell.edu
+• Jeff Pedersen Head Track and Field Coach pedersej@grinnell.edu 641-269- F131
+• Sarah Burnell Assistant Track and Field Coach burnells@grinnell.edu
+• Jermelle Lewis Assistant Track and Field Coach lewisjer@grinnell.edu
+• Will Freeman Assistant Track and Field Coach freemanw@grinnell.edu
+• Jeff Pedersen Head Track and Field Coach pedersej@grinnell.edu 641-269- F131
+• Sarah Burnell Assistant Track and Field Coach burnells@grinnell.edu
+• Jermelle Lewis Assistant Track and Field Coach lewisjer@grinnell.edu
+• Will Freeman Assistant Track and Field Coach freemanw@grinnell.edu
+• Eric Ragan Head Volleyball Coach raganeri@grinnell.edu 641-269- F142
+• Kristland Damazo Assistant Volleyball Coach damazokr@grinnell.edu
+• Steve Lewis Head Strength and Conditioning Coach lewissteven@grinnell.edu

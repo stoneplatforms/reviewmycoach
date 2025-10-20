@@ -1,0 +1,323 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:12
+============================================================
+
+Total coaches found: 52
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tierney Flaherty
+   Email: tierney.flaherty@eku.edu
+   Username: tierney.flaherty
+   Original line: Tierney Flaherty Assistant Beach Coach & Athletic Academic Advisor tierney.flaherty@eku.edu 859-622-
+
+2. Jan Weisberg
+   Email: jan.weisberg@eku.edu
+   Username: jan.weisberg
+   Original line: Jan Weisberg Head Coach jan.weisberg@eku.edu
+
+3. Logan Salow
+   Email: logan.salow@eku.edu
+   Username: logan.salow
+   Original line: Logan Salow Assistant Coach logan.salow@eku.edu
+
+4. Troy Squires
+   Email: troy.squires@eku.edu
+   Username: troy.squires
+   Original line: Troy Squires Assistant Coach troy.squires@eku.edu
+
+5. Andrew Stepp
+   Email: andrew.stepp@eku.edu
+   Username: andrew.stepp
+   Original line: Andrew Stepp Assistant Coach andrew.stepp@eku.edu
+
+6. A.W. Hamilton
+   Email: aw.hamilton@eku.edu
+   Username: aw.hamilton
+   Original line: A.W. Hamilton Head Coach aw.hamilton@eku.edu
+
+7. AJ Clark
+   Email: alvin.clark@eku.edu
+   Username: alvin.clark
+   Original line: AJ Clark Assistant Coach alvin.clark@eku.edu
+
+8. Ron Jirsa
+   Email: ron.jirsa@eku.edu
+   Username: ron.jirsa
+   Original line: Ron Jirsa Assistant Coach ron.jirsa@eku.edu
+
+9. Steve Lepore
+   Email: steve.lepore@eku.edu
+   Username: steve.lepore
+   Original line: Steve Lepore Associate Head Coach steve.lepore@eku.edu
+
+10. Jake Lorbach
+   Email: jacob.lorbach@eku.edu
+   Username: jacob.lorbach
+   Original line: Jake Lorbach Assistant Coach/Director of Scouting jacob.lorbach@eku.edu
+
+11. Greg Todd
+   Email: greg.todd@eku.edu
+   Username: greg.todd
+   Original line: Greg Todd Head Coach greg.todd@eku.edu
+
+12. Chad Gibney
+   Email: chad.gibney@eku.edu
+   Username: chad.gibney
+   Original line: Chad Gibney Assistant Coach/Recruiting Coordinator chad.gibney@eku.edu
+
+13. Brie Wajer
+   Email: gabrielle.wajer@eku.edu
+   Username: gabrielle.wajer
+   Original line: Brie Wajer Assistant Coach gabrielle.wajer@eku.edu
+
+14. Ashleigh Fox
+   Email: ashleigh.fox@eku.edu
+   Username: ashleigh.fox
+   Original line: Ashleigh Fox Assistant Coach ashleigh.fox@eku.edu
+
+15. Jeff Patton
+   Email: jeffrey.patton@eku.edu
+   Username: jeffrey.patton
+   Original line: Jeff Patton Head Coach jeffrey.patton@eku.edu 859-622-
+
+16. Tierney Flaherty
+   Email: tierney.flaherty@eku.edu
+   Username: tierney.flaherty
+   Original line: Tierney Flaherty Assistant Beach Coach & Athletic Academic Advisor tierney.flaherty@eku.edu 859-622-
+
+17. Jake Johnson
+   Email: jacob.johnson@eku.edu
+   Username: jacob.johnson
+   Original line: Jake Johnson Defensive Coordinator/Inside Linebackers Coach jacob.johnson@eku.edu
+
+18. Andy Richman
+   Email: andrew.richman@eku.edu
+   Username: andrew.richman
+   Original line: Andy Richman Offensive Coordinator/Running Backs Coach andrew.richman@eku.edu
+
+19. Caleb Cox
+   Email: caleb.cox@eku.edu
+   Username: caleb.cox
+   Original line: Caleb Cox General Manager / Wide Receivers Coach / Recruiting Coordinator caleb.cox@eku.edu
+
+20. Derek Day
+   Email: derek.day@eku.edu
+   Username: derek.day
+   Original line: Derek Day Special Teams Coordinator/Outside Linebackers Coach derek.day@eku.edu
+
+21. Mike Dietzel
+   Email: mike.dietzel@eku.edu
+   Username: mike.dietzel
+   Original line: Mike Dietzel Assistant Head Coach/Nickels Coach mike.dietzel@eku.edu
+
+22. Eric Ravellette
+   Email: eric.ravellette@eku.edu
+   Username: eric.ravellette
+   Original line: Eric Ravellette Offensive Line Coach eric.ravellette@eku.edu
+
+23. Maxwell Smith
+   Email: maxwell.smith@eku.edu
+   Username: maxwell.smith
+   Original line: Maxwell Smith Quarterbacks Coach maxwell.smith@eku.edu
+
+24. Rashad Watson
+   Email: rashad.watson@eku.edu
+   Username: rashad.watson
+   Original line: Rashad Watson Defensive Secondary Coach rashad.watson@eku.edu
+
+25. Josh McClurg
+   Email: josh.mcclurg@eku.edu
+   Username: josh.mcclurg
+   Original line: Josh McClurg Assistant Defensive Backs Coach josh.mcclurg@eku.edu
+
+26. Isaac McClain
+   Email: isaac.mcclain@eku.edu
+   Username: isaac.mcclain
+   Original line: Isaac McClain Tight Ends Coach isaac.mcclain@eku.edu
+
+27. Dayton LeBlanc
+   Email: dayton.leblanc@eku.edu
+   Username: dayton.leblanc
+   Original line: Dayton LeBlanc Defensive Line Coach dayton.leblanc@eku.edu
+
+28. Ryan Jackson
+   Email: ryan.jackson@eku.edu
+   Username: ryan.jackson
+   Original line: Ryan Jackson Assistant Offensive Line Coach ryan.jackson@eku.edu
+
+29. Alex Cline
+   Email: alex.cline@eku.edu
+   Username: alex.cline
+   Original line: Alex Cline Assistant Inside Linebackers Coach alex.cline@eku.edu
+
+30. Pat Stephens
+   Email: pat.stephens@eku.edu
+   Username: pat.stephens
+   Original line: Pat Stephens Head Coach pat.stephens@eku.edu 859-622-
+
+31. Noah Combs
+   Email: Noah.Combs@eku.edu
+   Username: Noah.Combs
+   Original line: Noah Combs Assistant Men's Golf Coach Noah.Combs@eku.edu
+
+32. Mandy Moore
+   Email: amanda.moore@eku.edu
+   Username: amanda.moore
+   Original line: Mandy Moore Head Coach amanda.moore@eku.edu 859-622-
+
+33. Evan Cox
+   Email: evan.cox@eku.edu
+   Username: evan.cox
+   Original line: Evan Cox Assistant Coach evan.cox@eku.edu
+
+34. Matt Cosinuke
+   Email: matthew.cosinuke@eku.edu
+   Username: matthew.cosinuke
+   Original line: Matt Cosinuke Head Coach matthew.cosinuke@eku.edu
+
+35. Darus Ward
+   Email: darus.ward@eku.edu
+   Username: darus.ward
+   Original line: Darus Ward Assistant Coach/Recruiting Coordinator darus.ward@eku.edu
+
+36. Tatum Tremain
+   Email: tatum.tremain@eku.edu
+   Username: tatum.tremain
+   Original line: Tatum Tremain Assistant Coach tatum.tremain@eku.edu
+
+37. Jane Worthington
+   Email: jane.worthington@eku.edu
+   Username: jane.worthington
+   Original line: Jane Worthington Head Coach jane.worthington@eku.edu
+
+38. Zoe Schafer
+   Email: zoe.schafer@eku.edu
+   Username: zoe.schafer
+   Original line: Zoe Schafer Assistant Coach zoe.schafer@eku.edu
+
+39. Mollie Paulick
+   Email: mollie.paulick@eku.edu
+   Username: mollie.paulick
+   Original line: Mollie Paulick Assistant Coach mollie.paulick@eku.edu
+
+40. Sammi Miller
+   Email: Samantha.miller@eku.edu
+   Username: Samantha.miller
+   Original line: Sammi Miller Assistant Coach Samantha.miller@eku.edu
+
+41. Chelsea Hamilton
+   Email: chelsea.hamilton@eku.edu
+   Username: chelsea.hamilton
+   Original line: Chelsea Hamilton All-Girl Head Cheer Coach chelsea.hamilton@eku.edu
+
+42. Jenna Beckham
+   Email: jenna.beckham@eku.edu
+   Username: jenna.beckham
+   Original line: Jenna Beckham Dance Team Co-Head Coach jenna.beckham@eku.edu
+
+43. Kiara Powell
+   Email: kiara.powell@eku.edu
+   Username: kiara.powell
+   Original line: Kiara Powell Dance Team Co-Head Coach kiara.powell@eku.edu
+
+44. Adam Cohen
+   Email: adam.cohen@eku.edu
+   Username: adam.cohen
+   Original line: Adam Cohen Head Coach adam.cohen@eku.edu
+
+45. Noel Maurin
+   Email: hans.maurin@eku.edu
+   Username: hans.maurin
+   Original line: Noel Maurin Associate Head Coach hans.maurin@eku.edu
+
+46. Cory Erdmann
+   Email: cory.erdmann@eku.edu
+   Username: cory.erdmann
+   Original line: Cory Erdmann Head Coach cory.erdmann@eku.edu 859-200-
+
+47. Rick Erdmann
+   Email: rick.erdmann@eku.edu
+   Username: rick.erdmann
+   Original line: Rick Erdmann Head Coach Emeritus rick.erdmann@eku.edu 859-622-
+
+48. Mia Forster
+   Email: mia.forster@eku.edu
+   Username: mia.forster
+   Original line: Mia Forster Associate Head Coach mia.forster@eku.edu
+
+49. Johnna Bazzani
+   Email: johnna.bazzani@eku.edu
+   Username: johnna.bazzani
+   Original line: Johnna Bazzani Head Coach johnna.bazzani@eku.edu
+
+50. Kendall Murr
+   Email: kendall.murr@eku.edu
+   Username: kendall.murr
+   Original line: Kendall Murr Assistant Coach/Recruiting Coordinator kendall.murr@eku.edu
+
+51. Macy Reihing
+   Email: macy.reihing@eku.edu
+   Username: macy.reihing
+   Original line: Macy Reihing Assistant Coach/Director of Volleyball Operations macy.reihing@eku.edu
+
+52. Ashllyn King
+   Email: ashllyn.king@eku.edu
+   Username: ashllyn.king
+   Original line: Ashllyn King Assistant coach ashllyn.king@eku.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tierney Flaherty Assistant Beach Coach & Athletic Academic Advisor tierney.flaherty@eku.edu 859-622-
+• Jan Weisberg Head Coach jan.weisberg@eku.edu
+• Logan Salow Assistant Coach logan.salow@eku.edu
+• Troy Squires Assistant Coach troy.squires@eku.edu
+• Andrew Stepp Assistant Coach andrew.stepp@eku.edu
+• A.W. Hamilton Head Coach aw.hamilton@eku.edu
+• AJ Clark Assistant Coach alvin.clark@eku.edu
+• Ron Jirsa Assistant Coach ron.jirsa@eku.edu
+• Steve Lepore Associate Head Coach steve.lepore@eku.edu
+• Jake Lorbach Assistant Coach/Director of Scouting jacob.lorbach@eku.edu
+• Greg Todd Head Coach greg.todd@eku.edu
+• Chad Gibney Assistant Coach/Recruiting Coordinator chad.gibney@eku.edu
+• Brie Wajer Assistant Coach gabrielle.wajer@eku.edu
+• Ashleigh Fox Assistant Coach ashleigh.fox@eku.edu
+• Jeff Patton Head Coach jeffrey.patton@eku.edu 859-622-
+• Tierney Flaherty Assistant Beach Coach & Athletic Academic Advisor tierney.flaherty@eku.edu 859-622-
+• Jake Johnson Defensive Coordinator/Inside Linebackers Coach jacob.johnson@eku.edu
+• Andy Richman Offensive Coordinator/Running Backs Coach andrew.richman@eku.edu
+• Caleb Cox General Manager / Wide Receivers Coach / Recruiting Coordinator caleb.cox@eku.edu
+• Derek Day Special Teams Coordinator/Outside Linebackers Coach derek.day@eku.edu
+• Mike Dietzel Assistant Head Coach/Nickels Coach mike.dietzel@eku.edu
+• Eric Ravellette Offensive Line Coach eric.ravellette@eku.edu
+• Maxwell Smith Quarterbacks Coach maxwell.smith@eku.edu
+• Rashad Watson Defensive Secondary Coach rashad.watson@eku.edu
+• Josh McClurg Assistant Defensive Backs Coach josh.mcclurg@eku.edu
+• Isaac McClain Tight Ends Coach isaac.mcclain@eku.edu
+• Dayton LeBlanc Defensive Line Coach dayton.leblanc@eku.edu
+• Ryan Jackson Assistant Offensive Line Coach ryan.jackson@eku.edu
+• Alex Cline Assistant Inside Linebackers Coach alex.cline@eku.edu
+• Pat Stephens Head Coach pat.stephens@eku.edu 859-622-
+• Noah Combs Assistant Men's Golf Coach Noah.Combs@eku.edu
+• Mandy Moore Head Coach amanda.moore@eku.edu 859-622-
+• Evan Cox Assistant Coach evan.cox@eku.edu
+• Matt Cosinuke Head Coach matthew.cosinuke@eku.edu
+• Darus Ward Assistant Coach/Recruiting Coordinator darus.ward@eku.edu
+• Tatum Tremain Assistant Coach tatum.tremain@eku.edu
+• Jane Worthington Head Coach jane.worthington@eku.edu
+• Zoe Schafer Assistant Coach zoe.schafer@eku.edu
+• Mollie Paulick Assistant Coach mollie.paulick@eku.edu
+• Sammi Miller Assistant Coach Samantha.miller@eku.edu
+• Chelsea Hamilton All-Girl Head Cheer Coach chelsea.hamilton@eku.edu
+• Jenna Beckham Dance Team Co-Head Coach jenna.beckham@eku.edu
+• Kiara Powell Dance Team Co-Head Coach kiara.powell@eku.edu
+• Adam Cohen Head Coach adam.cohen@eku.edu
+• Noel Maurin Associate Head Coach hans.maurin@eku.edu
+• Cory Erdmann Head Coach cory.erdmann@eku.edu 859-200-
+• Rick Erdmann Head Coach Emeritus rick.erdmann@eku.edu 859-622-
+• Mia Forster Associate Head Coach mia.forster@eku.edu
+• Johnna Bazzani Head Coach johnna.bazzani@eku.edu
+• Kendall Murr Assistant Coach/Recruiting Coordinator kendall.murr@eku.edu
+• Macy Reihing Assistant Coach/Director of Volleyball Operations macy.reihing@eku.edu
+• Ashllyn King Assistant coach ashllyn.king@eku.edu

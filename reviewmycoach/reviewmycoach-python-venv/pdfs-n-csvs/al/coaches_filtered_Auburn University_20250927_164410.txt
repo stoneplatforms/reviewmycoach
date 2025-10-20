@@ -1,0 +1,277 @@
+COACH ENTRIES FOUND - 2025-09-27 16:44:12
+============================================================
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: thompgb@auburn.edu
+   Username: thompgb
+   Original line: Head Coach thompgb@auburn.edu
+
+2. Associate Head
+   Email: nonemka@auburn.edu
+   Username: nonemka
+   Original line: Associate Head Coach nonemka@auburn.edu
+
+3. Associate Head
+   Email: gjg0006@auburn.edu
+   Username: gjg0006
+   Original line: Associate Head Coach gjg0006@auburn.edu
+
+4. Pitching Coach
+   Email: ejt0039@auburn.edu
+   Username: ejt0039
+   Original line: Pitching Coach ejt0039@auburn.edu
+
+5. Assistant Coach
+   Email: itb0010@auburn.edu
+   Username: itb0010
+   Phone: (334) 844-9760
+   Original line: Assistant Coach itb0010@auburn.edu (334) 844-9760
+
+6. Assistant Coach
+   Email: clw0126@auburn.edu
+   Username: clw0126
+   Phone: (334) 844-9760
+   Original line: Assistant Coach clw0126@auburn.edu (334) 844-9760
+
+7. Assistant Coach
+   Email: cgp0011@auburn.edu
+   Username: cgp0011
+   Phone: (334) 844-9760
+   Original line: Assistant Coach cgp0011@auburn.edu (334) 844-9760
+
+8. Assistant Coach
+   Email: cmm0059@auburn.edu
+   Username: cmm0059
+   Phone: (334) 844-9200
+   Original line: Assistant Coach cmm0059@auburn.edu 334-844-9200
+
+9. Assistant Coach
+   Email: reh0114@auburn.edu
+   Username: reh0114
+   Phone: (334) 844-9200
+   Original line: Assistant Coach reh0114@auburn.edu 334-844-9200
+
+10. HeadCoach 
+   Email: braswjl@auburn.edu
+   Username: braswjl
+   Phone: (334)734-0600
+   Original line: HeadCoach braswjl@auburn.edu (334)734-0600
+
+11. Head Coach
+   Email: braswjl@auburn.edu
+   Username: braswjl
+   Original line: Head Coach braswjl@auburn.edu (334) 734 0600
+
+12. Associate Head
+   Email: mdm0050@auburn.edu
+   Username: mdm0050
+   Phone: (334) 750-2333
+   Original line: Associate Head Coach mdm0050@auburn.edu (334) 750-2333
+
+13. Assistant Coach
+   Email: ezk0037@auburn.edu
+   Username: ezk0037
+   Phone: (334) 744-8439
+   Original line: Assistant Coach ezk0037@auburn.edu (334) 744-8439
+
+14. Head Coach
+   Email: willimg@auburn.edu
+   Username: willimg
+   Original line: Head Coach Emeritus willimg@auburn.edu
+
+15. Men's Golf
+   Email: npc0004@auburn.edu
+   Username: npc0004
+   Phone: (334) 750-8720
+   Original line: Men's Golf Head Coach npc0004@auburn.edu (334) 750-8720
+
+16. Associate Head
+   Email: cfw0018@auburn.edu
+   Username: cfw0018
+   Phone: (208) 310-1346
+   Original line: Associate Head Coach cfw0018@auburn.edu (208) 310-1346
+
+17. Associate Head
+   Email: kah0093@auburn.edu
+   Username: kah0093
+   Phone: (334) 750-2386
+   Original line: Associate Head Coach kah0093@auburn.edu (334) 750-2386
+
+18. Assistant Coach
+   Email: cje0025@auburn.edu
+   Username: cje0025
+   Original line: Assistant Coach cje0025@auburn.edu
+
+19. Head Coach
+   Email: jeffgraba@auburn.edu
+   Username: jeffgraba
+   Original line: Head Coach jeffgraba@auburn.edu
+
+20. Associate Head
+   Email: saracm@auburn.edu
+   Username: saracm
+   Phone: (401) 559-3334
+   Original line: Associate Head Coach saracm@auburn.edu 401-559-3334
+
+21. Assistant Coach
+   Email: kurth@auburn.edu
+   Username: kurth
+   Original line: Assistant Coach kurth@auburn.edu
+
+22. Brooke Leonard-
+   Email: cbl0052@auburn.edu
+   Username: cbl0052
+   Original line: Brooke Leonard- Assistant Coach cbl0052@auburn.edu
+
+23. Head Coach
+   Email: jarmstrong@auburn.edu
+   Username: jarmstrong
+   Original line: Head Coach jarmstrong@auburn.edu
+
+24. Associate Head
+   Email: dceranic@auburn.edu
+   Username: dceranic
+   Original line: Associate Head Coach dceranic@auburn.edu
+
+25. Assistant Coach
+   Email: ktm0048@auburn.edu
+   Username: ktm0048
+   Original line: Assistant Coach ktm0048@auburn.edu
+
+26. Assistant Coach
+   Email: bam0028@auburn.edu
+   Username: bam0028
+   Original line: Assistant Coach bam0028@auburn.edu
+
+27. Co-Head Coach
+   Email: cjm0207@auburn.edu
+   Username: cjm0207
+   Original line: Co-Head Coach cjm0207@auburn.edu
+
+28. Co-Head Coach
+   Email: kam0284@auburn.edu
+   Username: kam0284
+   Original line: Co-Head Coach kam0284@auburn.edu
+
+29. Assistant Coach
+   Email: rzc0116@auburn.edu
+   Username: rzc0116
+   Original line: Assistant Coach rzc0116@auburn.edu
+
+30. Assistant Coach
+   Email: djs0116@auburn.edu
+   Username: djs0116
+   Original line: Assistant Coach djs0116@auburn.edu
+
+31. Assistant Coach
+   Email: abbie.houck@auburn.edu
+   Username: abbie.houck
+   Phone: (334) 750-2514
+   Original line: Assistant Coach abbie.houck@auburn.edu (334) 750-2514
+
+32. Head Diving
+   Email: jdf0092@auburn.edu
+   Username: jdf0092
+   Phone: (334) 750-5438
+   Original line: Head Diving Coach jdf0092@auburn.edu (334) 750-5438
+
+33. Assistant Coach
+   Email: ajs0327@auburn.edu
+   Username: ajs0327
+   Phone: (334) 750-7871
+   Original line: Assistant Coach ajs0327@auburn.edu (334) 750-7871
+
+34. Head Coach
+   Email: rtr0015@auburn.edu
+   Username: rtr0015
+   Original line: Head Coach rtr0015@auburn.edu
+
+35. Assistant Coach
+   Email: jtm0182@auburn.edu
+   Username: jtm0182
+   Original line: Assistant Coach jtm0182@auburn.edu
+
+36. Assistant Coach
+   Email: rzd0055@auburn.edu
+   Username: rzd0055
+   Original line: Assistant Coach rzd0055@auburn.edu
+
+37. Head Coach
+   Email: jas0384@auburn.edu
+   Username: jas0384
+   Phone: (334) 844-7047
+   Original line: Head Coach jas0384@auburn.edu (334) 844-7047
+
+38. Assistant Coach
+   Email: pjf0018@auburn.edu
+   Username: pjf0018
+   Phone: (334) 844-7047
+   Original line: Assistant Coach pjf0018@auburn.edu (334) 844-7047
+
+39. Assistant Coach
+   Email: vzz0007@auburn.edu
+   Username: vzz0007
+   Phone: (334) 844-7047
+   Original line: Assistant Coach vzz0007@auburn.edu 334-844-7047
+
+40. Associate Head
+   Email: corbelli@auburn.edu
+   Username: corbelli
+   Phone: (334) 750-8764
+   Original line: Associate Head Coach corbelli@auburn.edu 334-750-8764
+
+41. Assistant Coach
+   Email: jdb0243@auburn.edu
+   Username: jdb0243
+   Phone: (334) 752-2286
+   Original line: Assistant Coach jdb0243@auburn.edu 334-752-2286
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach thompgb@auburn.edu
+• Associate Head Coach nonemka@auburn.edu
+• Associate Head Coach gjg0006@auburn.edu
+• Pitching Coach ejt0039@auburn.edu
+• Assistant Coach itb0010@auburn.edu (334) 844-9760
+• Assistant Coach clw0126@auburn.edu (334) 844-9760
+• Assistant Coach cgp0011@auburn.edu (334) 844-9760
+• Assistant Coach cmm0059@auburn.edu 334-844-9200
+• Assistant Coach reh0114@auburn.edu 334-844-9200
+• HeadCoach braswjl@auburn.edu (334)734-0600
+• Head Coach braswjl@auburn.edu (334) 734 0600
+• Associate Head Coach mdm0050@auburn.edu (334) 750-2333
+• Assistant Coach ezk0037@auburn.edu (334) 744-8439
+• Head Coach Emeritus willimg@auburn.edu
+• Men's Golf Head Coach npc0004@auburn.edu (334) 750-8720
+• Associate Head Coach cfw0018@auburn.edu (208) 310-1346
+• Associate Head Coach kah0093@auburn.edu (334) 750-2386
+• Assistant Coach cje0025@auburn.edu
+• Head Coach jeffgraba@auburn.edu
+• Associate Head Coach saracm@auburn.edu 401-559-3334
+• Assistant Coach kurth@auburn.edu
+• Brooke Leonard- Assistant Coach cbl0052@auburn.edu
+• Head Coach jarmstrong@auburn.edu
+• Associate Head Coach dceranic@auburn.edu
+• Assistant Coach ktm0048@auburn.edu
+• Assistant Coach bam0028@auburn.edu
+• Co-Head Coach cjm0207@auburn.edu
+• Co-Head Coach kam0284@auburn.edu
+• Assistant Coach rzc0116@auburn.edu
+• Assistant Coach djs0116@auburn.edu
+• Assistant Coach abbie.houck@auburn.edu (334) 750-2514
+• Head Diving Coach jdf0092@auburn.edu (334) 750-5438
+• Assistant Coach ajs0327@auburn.edu (334) 750-7871
+• Head Coach rtr0015@auburn.edu
+• Assistant Coach jtm0182@auburn.edu
+• Assistant Coach rzd0055@auburn.edu
+• Head Coach jas0384@auburn.edu (334) 844-7047
+• Assistant Coach pjf0018@auburn.edu (334) 844-7047
+• Assistant Coach vzz0007@auburn.edu 334-844-7047
+• Associate Head Coach corbelli@auburn.edu 334-750-8764
+• Assistant Coach jdb0243@auburn.edu 334-752-2286

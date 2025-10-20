@@ -1,0 +1,77 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:18
+============================================================
+
+Total coaches found: 11
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: charlottebaseball@charlotte.edu
+   Username: charlottebaseball
+   Original line: Head Coach charlottebaseball@charlotte.edu Full Bio
+
+2. Assistant Coach
+   Email: pcebuhar@charlotte.edu
+   Username: pcebuhar
+   Original line: Assistant Coach pcebuhar@charlotte.edu Full Bio
+
+3. Head Coach
+   Email: CharlotteMBB@charlotte.edu
+   Username: CharlotteMBB
+   Original line: Head Coach CharlotteMBB@charlotte.edu
+
+4. Assistant Coach
+   Email: CharlotteMBB@charlotte.edu
+   Username: CharlotteMBB
+   Original line: Assistant Coach CharlotteMBB@charlotte.edu
+
+5. Assistant Coach
+   Email: michael.wilmot@charlotte.edu
+   Username: michael.wilmot
+   Original line: Assistant Coach michael.wilmot@charlotte.edu
+
+6. Special Assistant
+   Email: CharlotteMBB@charlotte.edu
+   Username: CharlotteMBB
+   Original line: Special Assistant to the Head Coach CharlotteMBB@charlotte.edu
+
+7. Assistant to
+   Email: ggamble2@charlotte.edu
+   Username: ggamble2
+   Original line: Assistant to the Head Coach/Pro Liaison ggamble2@charlotte.edu
+
+8.  
+   Email: coach.cc@charlotte.edu
+   Username: coach.cc
+   Original line: coach.cc@charlotte.edu Full Bio
+
+9. Head Coach
+   Email: kyle.bailey@charlotte.edu
+   Username: kyle.bailey
+   Original line: Head Coach kyle.bailey@charlotte.edu
+
+10. Head Coach
+   Email: Anthony.Davison@charlotte.edu
+   Username: Anthony.Davison
+   Original line: Head Coach Anthony.Davison@charlotte.edu
+
+11. Head Coach
+   Email: jlynn9@charlotte.edu
+   Username: jlynn9
+   Original line: Head Coach Cross-Country/Assistant Track & Field Coach jlynn9@charlotte.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach charlottebaseball@charlotte.edu Full Bio
+• Assistant Coach pcebuhar@charlotte.edu Full Bio
+• Head Coach CharlotteMBB@charlotte.edu
+• Assistant Coach CharlotteMBB@charlotte.edu
+• Assistant Coach michael.wilmot@charlotte.edu
+• Special Assistant to the Head Coach CharlotteMBB@charlotte.edu
+• Assistant to the Head Coach/Pro Liaison ggamble2@charlotte.edu
+• coach.cc@charlotte.edu Full Bio
+• Head Coach kyle.bailey@charlotte.edu
+• Head Coach Anthony.Davison@charlotte.edu
+• Head Coach Cross-Country/Assistant Track & Field Coach jlynn9@charlotte.edu

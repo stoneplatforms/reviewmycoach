@@ -1,0 +1,347 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:09
+============================================================
+
+Total coaches found: 56
+
+PARSED ENTRIES:
+----------------------------------------
+1. Christine Silva
+   Email: csilva@anselm.edu
+   Username: csilva
+   Original line: Christine Silva Assistant Coach / Event Management Coordinator csilva@anselm.edu
+
+2. Garrett Callaghan
+   Email: gcallaghan@anselm.edu
+   Username: gcallaghan
+   Original line: Garrett Callaghan Assistant Coach / Event Management Coordinator gcallaghan@anselm.edu
+
+3. Matthew Williams
+   Email: mwilliams@anselm.edu
+   Username: mwilliams
+   Original line: Matthew Williams Head Strength & Conditioning Coach 603-641- mwilliams@anselm.edu
+
+4. Syerah Mulhern-Allred
+   Email: smulhernallred@anselm.edu
+   Username: smulhernallred
+   Original line: Syerah Mulhern-Allred Assistant Strength & Conditioning Coach 603-641- smulhernallred@anselm.edu
+
+5. Emma Mawn
+   Email: emawn@anselm.edu
+   Username: emawn
+   Original line: Emma Mawn Assistant Coach / Fitness Center Coordinator 603-641- emawn@anselm.edu
+
+6. Harry Oringer
+   Email: horinger@anselm.edu
+   Username: horinger
+   Original line: Harry Oringer Head Coach 603-656- horinger@anselm.edu
+
+7. Garrett Callaghan
+   Email: gcallaghan@anselm.edu
+   Username: gcallaghan
+   Original line: Garrett Callaghan Assistant Coach / Event Management Coordinator gcallaghan@anselm.edu
+
+8. Connor Simpson
+   Email: csimpson@anselm.edu
+   Username: csimpson
+   Original line: Connor Simpson Assistant Coach csimpson@anselm.edu
+
+9. Chris Santo
+   Email: csanto@anselm.edu
+   Username: csanto
+   Original line: Chris Santo Head Coach 603-641- csanto@anselm.edu
+
+10. Trey Witter
+   Email: trwitter@anselm.edu
+   Username: trwitter
+   Original line: Trey Witter Assistant Coach 603-641- trwitter@anselm.edu
+
+11. Corey Boilard
+   Email: cboilard@anselm.edu
+   Username: cboilard
+   Original line: Corey Boilard Head Coach 603-641- cboilard@anselm.edu
+
+12. Century McCartney
+   Email: cmccartney@anselm.edu
+   Username: cmccartney
+   Original line: Century McCartney Assistant Coach 603-641- cmccartney@anselm.edu
+
+13. Tim Frye
+   Email: tfrye@anselm.edu
+   Username: tfrye
+   Original line: Tim Frye Head Coach 603-641- tfrye@anselm.edu
+
+14. Brian Stankiewicz
+   Email: bstankiewicz@anselm.edu
+   Username: bstankiewicz
+   Original line: Brian Stankiewicz Head Coach 603-641- bstankiewicz@anselm.edu
+
+15. Brian Stankiewicz
+   Email: bstankiewicz@anselm.edu
+   Username: bstankiewicz
+   Original line: Brian Stankiewicz Head Coach 603-641- bstankiewicz@anselm.edu
+
+16. Carolyn King-Robitaille
+   Email: cking@anselm.edu
+   Username: cking
+   Original line: Carolyn King-Robitaille Head Coach 603-656- cking@anselm.edu
+
+17. Emma Mawn
+   Email: emawn@anselm.edu
+   Username: emawn
+   Original line: Emma Mawn Assistant Coach / Fitness Center Coordinator 603-641- emawn@anselm.edu
+
+18. Joe Adam
+   Email: jadam@anselm.edu
+   Username: jadam
+   Original line: Joe Adam Head Coach 603-656- jadam@anselm.edu
+
+19. Gage Hayes
+   Email: ghayes@anselm.edu
+   Username: ghayes
+   Original line: Gage Hayes Offensive Coordinator / Quarterbacks Coach 603-641- ghayes@anselm.edu
+
+20. Chadd Braine
+   Email: cbraine@anselm.edu
+   Username: cbraine
+   Original line: Chadd Braine Assistant Head Coach / Defensive Backs Coach / Special Teams 603-656- cbraine@anselm.edu
+
+21. Val Honorable
+   Email: vhonorable@anselm.edu
+   Username: vhonorable
+   Original line: Val Honorable Defensive Pass Game Coordinator / Cornerbacks Coach 603-641- vhonorable@anselm.edu
+
+22. Joe Bick
+   Email: jbick@anselm.edu
+   Username: jbick
+   Original line: Joe Bick Offensive Line Coach / Recruiting Coordinator 603-641- jbick@anselm.edu
+
+23. Trey McJunkin
+   Email: dmcjunkin@anselm.edu
+   Username: dmcjunkin
+   Original line: Trey McJunkin Wide Receivers Coach / Tight Ends Coach 603-641- dmcjunkin@anselm.edu
+
+24. Todd Pelletier
+   Email: tpelletier@anselm.edu
+   Username: tpelletier
+   Original line: Todd Pelletier Defensive Line Coach 603-641- tpelletier@anselm.edu
+
+25. Bryan Walker
+   Email: bwalker@anselm.edu
+   Username: bwalker
+   Original line: Bryan Walker Offensive Quality Control / Running Backs Coach 603-641- bwalker@anselm.edu
+
+26. Evan Thuotte
+   Email: ethuotte@anselm.edu
+   Username: ethuotte
+   Original line: Evan Thuotte Defensive Assistant Coach ethuotte@anselm.edu
+
+27. Shaun Bishop
+   Email: shbishop@anselm.edu
+   Username: shbishop
+   Original line: Shaun Bishop Head Coach 603-641- shbishop@anselm.edu
+
+28. Tara Watt
+   Email: tawatt@anselm.edu
+   Username: tawatt
+   Original line: Tara Watt Head Coach 603-641- tawatt@anselm.edu
+
+29. Larry Rocha
+   Email: lrocha@anselm.edu
+   Username: lrocha
+   Original line: Larry Rocha Head Coach 603-222- lrocha@anselm.edu
+
+30. John Herrick
+   Email: jherrick@anselm.edu
+   Username: jherrick
+   Original line: John Herrick Assistant Coach 603-222- jherrick@anselm.edu
+
+31. Sam Ftorek
+   Email: sftorek@anselm.edu
+   Username: sftorek
+   Original line: Sam Ftorek Head Coach 603-222- sftorek@anselm.edu
+
+32. Jessica Salisbury
+   Email: jsalisbury@anselm.edu
+   Username: jsalisbury
+   Original line: Jessica Salisbury Assistant Coach 603-641- jsalisbury@anselm.edu
+
+33. Drew Bourdeau
+   Email: dbourdeau@anselm.edu
+   Username: dbourdeau
+   Original line: Drew Bourdeau Head Coach 603-656- dbourdeau@anselm.edu
+
+34. Eric Coburn
+   Email: ecoburn@anselm.edu
+   Username: ecoburn
+   Original line: Eric Coburn Assistant Coach ecoburn@anselm.edu
+
+35. Mathew Howe
+   Email: mhowe@anselm.edu
+   Username: mhowe
+   Original line: Mathew Howe Assistant Coach mhowe@anselm.edu
+
+36. Meghan Smith
+   Email: mesmith@anselm.edu
+   Username: mesmith
+   Original line: Meghan Smith Head Coach 603-641- mesmith@anselm.edu
+
+37. Bruno Victal
+   Email: bvictal@anselm.edu
+   Username: bvictal
+   Original line: Bruno Victal Head Coach 603-222- bvictal@anselm.edu
+
+38. Tim Field
+   Email: timfield@anselm.edu
+   Username: timfield
+   Original line: Tim Field Assistant Coach 603-222- timfield@anselm.edu
+
+39. Zach Elliot
+   Email: zelliot@anselm.edu
+   Username: zelliot
+   Original line: Zach Elliot Assistant Coach zelliot@anselm.edu
+
+40. Lee Moyce
+   Email: lmoyce@anselm.edu
+   Username: lmoyce
+   Original line: Lee Moyce Head Coach 603-641- lmoyce@anselm.edu
+
+41. Christine Silva
+   Email: csilva@anselm.edu
+   Username: csilva
+   Original line: Christine Silva Assistant Coach / Event Management Coordinator csilva@anselm.edu
+
+42. Jeff Bailey
+   Email: jbailey@anselm.edu
+   Username: jbailey
+   Original line: Jeff Bailey Assistant Coach 603-641- jbailey@anselm.edu
+
+43. Jill Gagnon
+   Email: jgagnon@anselm.edu
+   Username: jgagnon
+   Original line: Jill Gagnon Head Coach 603-641- jgagnon@anselm.edu
+
+44. Alyssa DiMauro
+   Email: adimauro@anselm.edu
+   Username: adimauro
+   Original line: Alyssa DiMauro Assistant Coach 603-641- adimauro@anselm.edu
+
+45. Steve Kratenburg
+   Email: steve@nhsportshouse.com
+   Username: steve
+   Original line: Steve Kratenburg Volunteer Assistant Coach steve@nhsportshouse.com
+
+46. Nathan Taschereau
+   Email: ntaschereau@anselm.edu
+   Username: ntaschereau
+   Original line: Nathan Taschereau Head Coach 603-641- ntaschereau@anselm.edu
+
+47. Lexi Neuwirth
+   Email: aneuwirth@anselm.edu
+   Username: aneuwirth
+   Original line: Lexi Neuwirth Associate Head Coach 603-641- aneuwirth@anselm.edu
+
+48. George Jumpp
+   Email: gjumpp@anselm.edu
+   Username: gjumpp
+   Original line: George Jumpp Assistant Coach gjumpp@anselm.edu
+
+49. Nicholas Pope
+   Email: npope@anselm.edu
+   Username: npope
+   Original line: Nicholas Pope Assistant Coach (Throws) npope@anselm.edu
+
+50. Tori Allen
+   Email: tallen@anselm.edu
+   Username: tallen
+   Original line: Tori Allen Volunteer Assistant Coach tallen@anselm.edu
+
+51. Lexi Neuwirth
+   Email: aneuwirth@anselm.edu
+   Username: aneuwirth
+   Original line: Lexi Neuwirth Associate Head Coach 603-641- aneuwirth@anselm.edu
+
+52. George Jumpp
+   Email: gjumpp@anselm.edu
+   Username: gjumpp
+   Original line: George Jumpp Assistant Coach gjumpp@anselm.edu
+
+53. Nicholas Pope
+   Email: npope@anselm.edu
+   Username: npope
+   Original line: Nicholas Pope Assistant Coach (Throws) npope@anselm.edu
+
+54. Tori Allen
+   Email: tallen@anselm.edu
+   Username: tallen
+   Original line: Tori Allen Volunteer Assistant Coach tallen@anselm.edu
+
+55. Anna Platek
+   Email: amcgann@anselm.edu
+   Username: amcgann
+   Original line: Anna Platek Head Coach 603-641- amcgann@anselm.edu
+
+56. Melissa Ouellet
+   Email: mouellet@anselm.edu
+   Username: mouellet
+   Original line: Melissa Ouellet Assistant Coach 603-641- mouellet@anselm.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Christine Silva Assistant Coach / Event Management Coordinator csilva@anselm.edu
+• Garrett Callaghan Assistant Coach / Event Management Coordinator gcallaghan@anselm.edu
+• Matthew Williams Head Strength & Conditioning Coach 603-641- mwilliams@anselm.edu
+• Syerah Mulhern-Allred Assistant Strength & Conditioning Coach 603-641- smulhernallred@anselm.edu
+• Emma Mawn Assistant Coach / Fitness Center Coordinator 603-641- emawn@anselm.edu
+• Harry Oringer Head Coach 603-656- horinger@anselm.edu
+• Garrett Callaghan Assistant Coach / Event Management Coordinator gcallaghan@anselm.edu
+• Connor Simpson Assistant Coach csimpson@anselm.edu
+• Chris Santo Head Coach 603-641- csanto@anselm.edu
+• Trey Witter Assistant Coach 603-641- trwitter@anselm.edu
+• Corey Boilard Head Coach 603-641- cboilard@anselm.edu
+• Century McCartney Assistant Coach 603-641- cmccartney@anselm.edu
+• Tim Frye Head Coach 603-641- tfrye@anselm.edu
+• Brian Stankiewicz Head Coach 603-641- bstankiewicz@anselm.edu
+• Brian Stankiewicz Head Coach 603-641- bstankiewicz@anselm.edu
+• Carolyn King-Robitaille Head Coach 603-656- cking@anselm.edu
+• Emma Mawn Assistant Coach / Fitness Center Coordinator 603-641- emawn@anselm.edu
+• Joe Adam Head Coach 603-656- jadam@anselm.edu
+• Gage Hayes Offensive Coordinator / Quarterbacks Coach 603-641- ghayes@anselm.edu
+• Chadd Braine Assistant Head Coach / Defensive Backs Coach / Special Teams 603-656- cbraine@anselm.edu
+• Val Honorable Defensive Pass Game Coordinator / Cornerbacks Coach 603-641- vhonorable@anselm.edu
+• Joe Bick Offensive Line Coach / Recruiting Coordinator 603-641- jbick@anselm.edu
+• Trey McJunkin Wide Receivers Coach / Tight Ends Coach 603-641- dmcjunkin@anselm.edu
+• Todd Pelletier Defensive Line Coach 603-641- tpelletier@anselm.edu
+• Bryan Walker Offensive Quality Control / Running Backs Coach 603-641- bwalker@anselm.edu
+• Evan Thuotte Defensive Assistant Coach ethuotte@anselm.edu
+• Shaun Bishop Head Coach 603-641- shbishop@anselm.edu
+• Tara Watt Head Coach 603-641- tawatt@anselm.edu
+• Larry Rocha Head Coach 603-222- lrocha@anselm.edu
+• John Herrick Assistant Coach 603-222- jherrick@anselm.edu
+• Sam Ftorek Head Coach 603-222- sftorek@anselm.edu
+• Jessica Salisbury Assistant Coach 603-641- jsalisbury@anselm.edu
+• Drew Bourdeau Head Coach 603-656- dbourdeau@anselm.edu
+• Eric Coburn Assistant Coach ecoburn@anselm.edu
+• Mathew Howe Assistant Coach mhowe@anselm.edu
+• Meghan Smith Head Coach 603-641- mesmith@anselm.edu
+• Bruno Victal Head Coach 603-222- bvictal@anselm.edu
+• Tim Field Assistant Coach 603-222- timfield@anselm.edu
+• Zach Elliot Assistant Coach zelliot@anselm.edu
+• Lee Moyce Head Coach 603-641- lmoyce@anselm.edu
+• Christine Silva Assistant Coach / Event Management Coordinator csilva@anselm.edu
+• Jeff Bailey Assistant Coach 603-641- jbailey@anselm.edu
+• Jill Gagnon Head Coach 603-641- jgagnon@anselm.edu
+• Alyssa DiMauro Assistant Coach 603-641- adimauro@anselm.edu
+• Steve Kratenburg Volunteer Assistant Coach steve@nhsportshouse.com
+• Nathan Taschereau Head Coach 603-641- ntaschereau@anselm.edu
+• Lexi Neuwirth Associate Head Coach 603-641- aneuwirth@anselm.edu
+• George Jumpp Assistant Coach gjumpp@anselm.edu
+• Nicholas Pope Assistant Coach (Throws) npope@anselm.edu
+• Tori Allen Volunteer Assistant Coach tallen@anselm.edu
+• Lexi Neuwirth Associate Head Coach 603-641- aneuwirth@anselm.edu
+• George Jumpp Assistant Coach gjumpp@anselm.edu
+• Nicholas Pope Assistant Coach (Throws) npope@anselm.edu
+• Tori Allen Volunteer Assistant Coach tallen@anselm.edu
+• Anna Platek Head Coach 603-641- amcgann@anselm.edu
+• Melissa Ouellet Assistant Coach 603-641- mouellet@anselm.edu

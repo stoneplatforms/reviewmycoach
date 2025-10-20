@@ -1,0 +1,197 @@
+COACH ENTRIES FOUND - 2025-09-27 16:45:34
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Cody Hooten
+   Email: hootencj@hsu.edu
+   Username: hootencj
+   Original line: Cody Hooten Head Baseball Coach hootencj@hsu.edu 870-230- codyhooten
+
+2. Alan Hall
+   Email: hallap@hsu.edu
+   Username: hallap
+   Original line: Alan Hall Assistant Baseball Coach / Recruiting Coordinator hallap@hsu.edu A_Hall01
+
+3. Hayden Simpson
+   Email: simpsonh@hsu.edu
+   Username: simpsonh
+   Original line: Hayden Simpson Pitching Coach simpsonh@hsu.edu
+
+4. Peyton Gorman
+   Email: gormanp@hsu.edu
+   Username: gormanp
+   Original line: Peyton Gorman Graduate Assistant Baseball Coach gormanp@hsu.edu
+
+5. Jimmy Elgas
+   Email: elgasj@hsu.edu
+   Username: elgasj
+   Original line: Jimmy Elgas Head Men's Basketball Coach elgasj@hsu.edu 870-230- jimmyelgas1
+
+6. Maurice Heade
+   Email: headem@hsu.edu
+   Username: headem
+   Original line: Maurice Heade Assistant Men's Basketball Coach headem@hsu.edu
+
+7. Greg Lathem
+   Email: greglathem@yahoo.com
+   Username: greglathem
+   Original line: Greg Lathem Character Coach greglathem@yahoo.com
+
+8. Jill Thomas
+   Email: thomasjl@hsu.edu
+   Username: thomasjl
+   Original line: Jill Thomas Head Women's Basketball Coach thomasjl@hsu.edu 870-230- JThomasCoach
+
+9. Christina Harvey
+   Email: harveych@hsu.edu
+   Username: harveych
+   Original line: Christina Harvey Associate Women's Basketball Coach harveych@hsu.edu 870-230- coach_harveywbb
+
+10. Christopher Gardner-Murry
+   Email: gardnec@hsu.edu
+   Username: gardnec
+   Original line: Christopher Gardner-Murry Head Spirit Squad Coach gardnec@hsu.edu
+
+11. Annabel Harvey
+   Email: rowlana@hsu.edu
+   Username: rowlana
+   Original line: Annabel Harvey Head Tennis and Cross Country Coach rowlana@hsu.edu 870-230- annabel1997
+
+12. Greg Holsworth
+   Email: holswog@hsu.edu
+   Username: holswog
+   Original line: Greg Holsworth Head Football Coach holswog@hsu.edu 870-230- Coach_Hols
+
+13. Will Wagner
+   Email: wagnerw@hsu.edu
+   Username: wagnerw
+   Original line: Will Wagner Assistant Head Coach / Defensive Coordinator / wagnerw@hsu.edu Coachwillwagner
+
+14. Jake Warehime
+   Email: warehimej@hsu.edu
+   Username: warehimej
+   Original line: Jake Warehime Offensive Line Coach / Running Game warehimej@hsu.edu 870-230- CoachWarehime
+
+15. Chuck Ross
+   Email: rossc@hsu.edu
+   Username: rossc
+   Original line: Chuck Ross Cornerbacks / Recruiting Coordinator rossc@hsu.edu 870-230- __CoachRoss
+
+16. Dalton Bowles
+   Email: bowlesb@hsu.edu
+   Username: bowlesb
+   Original line: Dalton Bowles Wide Receivers Coach bowlesb@hsu.edu 870-230- daltonbowles3
+
+17. Darius Carey
+   Email: careyd@hsu.edu
+   Username: careyd
+   Original line: Darius Carey Defensive Line Coach careyd@hsu.edu @CoachCareyDL
+
+18. Logan Moragne
+   Email: moragnel@hsu.edu
+   Username: moragnel
+   Original line: Logan Moragne Running Backs Coach moragnel@hsu.edu
+
+19. Cody Clemmensen
+   Email: clemmensenc@hsu.edu
+   Username: clemmensenc
+   Original line: Cody Clemmensen Graduate Assistant - Tight Ends clemmensenc@hsu.edu CoachClemmensen
+
+20. Joel Worthington
+   Email: worthingtonj@hsu.edu
+   Username: worthingtonj
+   Original line: Joel Worthington Head Softball Coach worthingtonj@hsu.edu 870-230-
+
+21. Danni Ryan
+   Email: ryand@hsu.edu
+   Username: ryand
+   Original line: Danni Ryan Assistant Softball Coach ryand@hsu.edu 870-230-
+
+22. Morgan Max
+   Email: maxm@hsu.edu
+   Username: maxm
+   Original line: Morgan Max Graduate Assistant Softball Coach maxm@hsu.edu 870-230-
+
+23. Scotty Serio
+   Email: serios@hsu.edu
+   Username: serios
+   Original line: Scotty Serio Head Swimming and Diving Coach serios@hsu.edu 870-230-
+
+24. Aimee Miller
+   Email: millera@hsu.edu
+   Username: millera
+   Original line: Aimee Miller Graduate Assistant Swimming and Diving Coach millera@hsu.edu
+
+25. Maddox Tidwell
+   Email: tidwellm@hsu.edu
+   Username: tidwellm
+   Original line: Maddox Tidwell Assistant Swimming & Diving Coach tidwellm@hsu.edu
+
+26. Annabel Harvey
+   Email: rowlana@hsu.edu
+   Username: rowlana
+   Original line: Annabel Harvey Head Tennis and Cross Country Coach rowlana@hsu.edu 870-230- annabel1997
+
+27. Philip McDaniel
+   Email: mcdanip@hsu.edu
+   Username: mcdanip
+   Original line: Philip McDaniel Head Volleyball Coach mcdanip@hsu.edu 870-230-
+
+28. Mirela Polete
+   Email: poletem@hsu.edu
+   Username: poletem
+   Original line: Mirela Polete Vasconselos Assistant Coach poletem@hsu.edu
+
+29. Sydney Vance
+   Email: skeltos@hsu.edu
+   Username: skeltos
+   Original line: Sydney Vance Assistant Volleyball Coach skeltos@hsu.edu
+
+30. Lilouann Bechec
+   Email: mariegabriell@hsu.edu
+   Username: mariegabriell
+   Original line: Lilouann Bechec Graduate Assistant Volleyball Coach mariegabriell@hsu.edu
+
+31. Brett Charlton
+   Email: charltonb@hsu.edu
+   Username: charltonb
+   Original line: Brett Charlton Head Track and Field Coach charltonb@hsu.edu 870-230-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Cody Hooten Head Baseball Coach hootencj@hsu.edu 870-230- codyhooten
+• Alan Hall Assistant Baseball Coach / Recruiting Coordinator hallap@hsu.edu A_Hall01
+• Hayden Simpson Pitching Coach simpsonh@hsu.edu
+• Peyton Gorman Graduate Assistant Baseball Coach gormanp@hsu.edu
+• Jimmy Elgas Head Men's Basketball Coach elgasj@hsu.edu 870-230- jimmyelgas1
+• Maurice Heade Assistant Men's Basketball Coach headem@hsu.edu
+• Greg Lathem Character Coach greglathem@yahoo.com
+• Jill Thomas Head Women's Basketball Coach thomasjl@hsu.edu 870-230- JThomasCoach
+• Christina Harvey Associate Women's Basketball Coach harveych@hsu.edu 870-230- coach_harveywbb
+• Christopher Gardner-Murry Head Spirit Squad Coach gardnec@hsu.edu
+• Annabel Harvey Head Tennis and Cross Country Coach rowlana@hsu.edu 870-230- annabel1997
+• Greg Holsworth Head Football Coach holswog@hsu.edu 870-230- Coach_Hols
+• Will Wagner Assistant Head Coach / Defensive Coordinator / wagnerw@hsu.edu Coachwillwagner
+• Jake Warehime Offensive Line Coach / Running Game warehimej@hsu.edu 870-230- CoachWarehime
+• Chuck Ross Cornerbacks / Recruiting Coordinator rossc@hsu.edu 870-230- __CoachRoss
+• Dalton Bowles Wide Receivers Coach bowlesb@hsu.edu 870-230- daltonbowles3
+• Darius Carey Defensive Line Coach careyd@hsu.edu @CoachCareyDL
+• Logan Moragne Running Backs Coach moragnel@hsu.edu
+• Cody Clemmensen Graduate Assistant - Tight Ends clemmensenc@hsu.edu CoachClemmensen
+• Joel Worthington Head Softball Coach worthingtonj@hsu.edu 870-230-
+• Danni Ryan Assistant Softball Coach ryand@hsu.edu 870-230-
+• Morgan Max Graduate Assistant Softball Coach maxm@hsu.edu 870-230-
+• Scotty Serio Head Swimming and Diving Coach serios@hsu.edu 870-230-
+• Aimee Miller Graduate Assistant Swimming and Diving Coach millera@hsu.edu
+• Maddox Tidwell Assistant Swimming & Diving Coach tidwellm@hsu.edu
+• Annabel Harvey Head Tennis and Cross Country Coach rowlana@hsu.edu 870-230- annabel1997
+• Philip McDaniel Head Volleyball Coach mcdanip@hsu.edu 870-230-
+• Mirela Polete Vasconselos Assistant Coach poletem@hsu.edu
+• Sydney Vance Assistant Volleyball Coach skeltos@hsu.edu
+• Lilouann Bechec Graduate Assistant Volleyball Coach mariegabriell@hsu.edu
+• Brett Charlton Head Track and Field Coach charltonb@hsu.edu 870-230-

@@ -1,0 +1,192 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:46
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Aubrey Swindle
+   Email: answindle@fortlewis.edu
+   Username: answindle
+   Original line: Aubrey Swindle Wellness Coach answindle@fortlewis.edu
+
+2. Jordan Mast
+   Email: jmast@fortlewis.edu
+   Username: jmast
+   Original line: Jordan Mast Head Men's Basketball Coach jmast@fortlewis.edu (503) 913- @CoachJordanMast
+
+3. James Jansen
+   Email: jjansen@fortlewis.edu
+   Username: jjansen
+   Original line: James Jansen Associate Head Men's Basketball Coach jjansen@fortlewis.edu (530) 356- @CoachJamesJ
+
+4. Jeff Evans
+   Email: jevans@fortlewis.edu
+   Username: jevans
+   Original line: Jeff Evans Assistant Coach jevans@fortlewis.edu
+
+5. Lauren Zuniga
+   Email: lkdavis@fortlewis.edu
+   Username: lkdavis
+   Original line: Lauren Zuniga Head Women's Basketball Coach lkdavis@fortlewis.edu
+
+6. Maggie Espenmiller-McGraw
+   Email: mjespenmillermcgra@fortlewis.edu
+   Username: mjespenmillermcgra
+   Original line: Maggie Espenmiller-McGraw Assistant Women's Basketball Coach mjespenmillermcgra@fortlewis.edu
+
+7. Dalton Graham
+   Email: dgraham@fortlewis.edu
+   Username: dgraham
+   Original line: Dalton Graham Head Cross Country/Track & Field Coach dgraham@fortlewis.edu
+
+8. Johnny Cox
+   Email: jcox@fortlewis.edu
+   Username: jcox
+   Phone: (970) 247-7306
+   Original line: Johnny Cox Head Coach-Quarterbacks jcox@fortlewis.edu 247-7306 @FLCCoach_Cox
+
+9. John Grinde
+   Email: jgrinde@fortlewis.edu
+   Username: jgrinde
+   Phone: (970) 247-7248
+   Original line: John Grinde Assistant Coach-Offensive jgrinde@fortlewis.edu 247-7248 @FLCCoach_Grinde
+
+10. Spencer Brown
+   Email: esbrown@fortlewis.edu
+   Username: esbrown
+   Original line: Spencer Brown Assistant Coach-Defensive esbrown@fortlewis.edu @Coach_SBrown
+
+11. Emmanuel Jordan
+   Email: ejbible@fortlewis.edu
+   Username: ejbible
+   Original line: Emmanuel Jordan Bible Assistant Coach-Special Teams ejbible@fortlewis.edu @TheCoach7Bible
+
+12. Donny Moore
+   Email: dbmoore@fortlewis.edu
+   Username: dbmoore
+   Original line: Donny Moore Assistant Coach-Pass Game dbmoore@fortlewis.edu @DonnyMooreJr
+
+13. Josh Jones
+   Email: jkjones@fortlewis.edu
+   Username: jkjones
+   Original line: Josh Jones Assistant Coach-Running Backs/Tight jkjones@fortlewis.edu @coachjonesFLC
+
+14. Scott Grinde
+   Email: sjgrinde@fortlewis.edu
+   Username: sjgrinde
+   Original line: Scott Grinde Assistant Coach-Defensive Line sjgrinde@fortlewis.edu @GrindeScot76154
+
+15. Justin MacArthur
+   Email: jmacarthur@fortlewis.edu
+   Username: jmacarthur
+   Original line: Justin MacArthur Assistant Coach-Defensive jmacarthur@fortlewis.edu @CoachJMacArthur
+
+16. Sean Griswold
+   Email: sgriswold@fortlewis.edu
+   Username: sgriswold
+   Phone: (970) 247-7224
+   Original line: Sean Griswold Head Men's Golf Coach sgriswold@fortlewis.edu 247-7224
+
+17. Shea Sena
+   Email: ssena@fortlewis.edu
+   Username: ssena
+   Original line: Shea Sena Head Women's Golf Coach ssena@fortlewis.edu
+
+18. JoJo Lutz
+   Email: jrlutz@fortlewis.edu
+   Username: jrlutz
+   Original line: JoJo Lutz Head Women's Lacrosse Coach jrlutz@fortlewis.edu
+
+19. David Oberholtzer
+   Email: dwoberholtzer@fortlewis.edu
+   Username: dwoberholtzer
+   Phone: (970) 247-7461
+   Original line: David Oberholtzer Head Men's Soccer Coach dwoberholtzer@fortlewis.edu 247-7461
+
+20. Giulio Bregu
+   Email: gbregu@fortlewis.edu
+   Username: gbregu
+   Original line: Giulio Bregu Assistant Men's Soccer Coach gbregu@fortlewis.edu
+
+21. Matt Baldridge
+   Email: msbaldridge@fortlewis.edu
+   Username: msbaldridge
+   Original line: Matt Baldridge Assistant Men's Soccer Coach msbaldridge@fortlewis.edu
+
+22. Damian Clarke
+   Email: clarke_d@fortlewis.edu
+   Username: clarke_d
+   Phone: (970) 247-7640
+   Original line: Damian Clarke Head Women's Soccer Coach clarke_d@fortlewis.edu 247-7640
+
+23. Hope Fredrick
+   Email: hesiffert@fortlewis.edu
+   Username: hesiffert
+   Phone: (970) 247-6242
+   Original line: Hope Fredrick Associate Head Coach hesiffert@fortlewis.edu 247-6242
+
+24. Hayley Hollenga
+   Email: hnhollenga@fortlewis.edu
+   Username: hnhollenga
+   Original line: Hayley Hollenga Assistant Coach hnhollenga@fortlewis.edu
+
+25. Paige Rhodes
+   Email: apadair@fortlewis.edu
+   Username: apadair
+   Phone: (970) 247-7067
+   Original line: Paige Rhodes Head Softball Coach apadair@fortlewis.edu 247-7067
+
+26. Karina Cupples
+   Email: kmcupples@fortlewis.edu
+   Username: kmcupples
+   Original line: Karina Cupples Assistant Softball Coach kmcupples@fortlewis.edu
+
+27. Justin Wong
+   Email: jswong@fortlewis.edu
+   Username: jswong
+   Original line: Justin Wong Head Volleyball Coach jswong@fortlewis.edu
+
+28. Dalton Graham
+   Email: dgraham@fortlewis.edu
+   Username: dgraham
+   Original line: Dalton Graham Head Cross Country/Track & Field Coach dgraham@fortlewis.edu
+
+29. Joshua Drew
+   Email: jdrew@fortlewis.edu
+   Username: jdrew
+   Original line: Joshua Drew Associate Head Coach - Track and Field jdrew@fortlewis.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Aubrey Swindle Wellness Coach answindle@fortlewis.edu
+• Jordan Mast Head Men's Basketball Coach jmast@fortlewis.edu (503) 913- @CoachJordanMast
+• James Jansen Associate Head Men's Basketball Coach jjansen@fortlewis.edu (530) 356- @CoachJamesJ
+• Jeff Evans Assistant Coach jevans@fortlewis.edu
+• Lauren Zuniga Head Women's Basketball Coach lkdavis@fortlewis.edu
+• Maggie Espenmiller-McGraw Assistant Women's Basketball Coach mjespenmillermcgra@fortlewis.edu
+• Dalton Graham Head Cross Country/Track & Field Coach dgraham@fortlewis.edu
+• Johnny Cox Head Coach-Quarterbacks jcox@fortlewis.edu 247-7306 @FLCCoach_Cox
+• John Grinde Assistant Coach-Offensive jgrinde@fortlewis.edu 247-7248 @FLCCoach_Grinde
+• Spencer Brown Assistant Coach-Defensive esbrown@fortlewis.edu @Coach_SBrown
+• Emmanuel Jordan Bible Assistant Coach-Special Teams ejbible@fortlewis.edu @TheCoach7Bible
+• Donny Moore Assistant Coach-Pass Game dbmoore@fortlewis.edu @DonnyMooreJr
+• Josh Jones Assistant Coach-Running Backs/Tight jkjones@fortlewis.edu @coachjonesFLC
+• Scott Grinde Assistant Coach-Defensive Line sjgrinde@fortlewis.edu @GrindeScot76154
+• Justin MacArthur Assistant Coach-Defensive jmacarthur@fortlewis.edu @CoachJMacArthur
+• Sean Griswold Head Men's Golf Coach sgriswold@fortlewis.edu 247-7224
+• Shea Sena Head Women's Golf Coach ssena@fortlewis.edu
+• JoJo Lutz Head Women's Lacrosse Coach jrlutz@fortlewis.edu
+• David Oberholtzer Head Men's Soccer Coach dwoberholtzer@fortlewis.edu 247-7461
+• Giulio Bregu Assistant Men's Soccer Coach gbregu@fortlewis.edu
+• Matt Baldridge Assistant Men's Soccer Coach msbaldridge@fortlewis.edu
+• Damian Clarke Head Women's Soccer Coach clarke_d@fortlewis.edu 247-7640
+• Hope Fredrick Associate Head Coach hesiffert@fortlewis.edu 247-6242
+• Hayley Hollenga Assistant Coach hnhollenga@fortlewis.edu
+• Paige Rhodes Head Softball Coach apadair@fortlewis.edu 247-7067
+• Karina Cupples Assistant Softball Coach kmcupples@fortlewis.edu
+• Justin Wong Head Volleyball Coach jswong@fortlewis.edu
+• Dalton Graham Head Cross Country/Track & Field Coach dgraham@fortlewis.edu
+• Joshua Drew Associate Head Coach - Track and Field jdrew@fortlewis.edu

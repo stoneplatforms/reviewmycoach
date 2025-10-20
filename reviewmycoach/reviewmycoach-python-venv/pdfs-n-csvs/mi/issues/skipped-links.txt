@@ -1,0 +1,27 @@
+Kalamazoo College.pdf :: https://athletics.kzoo.edu/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://athletics.kzoo.edu/staff-directory/index
+Call log:
+  - navigating to "https://athletics.kzoo.edu/staff-directory/index", waiting until "networkidle"
+
+  tried: https://athletics.kzoo.edu/staff-directory?print=true, https://athletics.kzoo.edu/staff-directory/print, https://athletics.kzoo.edu/staff-directory, https://athletics.kzoo.edu/staff-directory/index?print=true, https://athletics.kzoo.edu/staff-directory/index/print, https://athletics.kzoo.edu/staff-directory/index
+
+Aquinas College.pdf :: https://athletics.aquinas.edu/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://athletics.aquinas.edu/staff-directory/index
+Call log:
+  - navigating to "https://athletics.aquinas.edu/staff-directory/index", waiting until "networkidle"
+
+  tried: https://athletics.aquinas.edu/staff-directory?print=true, https://athletics.aquinas.edu/staff-directory/print, https://athletics.aquinas.edu/staff-directory, https://athletics.aquinas.edu/staff-directory/index?print=true, https://athletics.aquinas.edu/staff-directory/index/print, https://athletics.aquinas.edu/staff-directory/index
+
+Cleary University.pdf :: https://goclearycougars.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://goclearycougars.com/staff-directory/index
+Call log:
+  - navigating to "https://goclearycougars.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://goclearycougars.com/staff-directory?print=true, https://goclearycougars.com/staff-directory/print, https://goclearycougars.com/staff-directory, https://goclearycougars.com/staff-directory/index?print=true, https://goclearycougars.com/staff-directory/index/print, https://goclearycougars.com/staff-directory/index
+
+Alma College.pdf :: https://goalmascots.com/staff-directory :: HTTP 404 returned
+  tried: https://goalmascots.com/staff-directory?print=true, https://goalmascots.com/staff-directory/print, https://goalmascots.com/staff-directory, https://goalmascots.com/staff-directory/index?print=true, https://goalmascots.com/staff-directory/index/print, https://goalmascots.com/staff-directory/index
+
+Olivet College.pdf :: https://olivetcomets.com/staff-directory :: Navigation failed: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://olivetcomets.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://olivetcomets.com/staff-directory?print=true, https://olivetcomets.com/staff-directory/print, https://olivetcomets.com/staff-directory, https://olivetcomets.com/staff-directory/index?print=true, https://olivetcomets.com/staff-directory/index/print, https://olivetcomets.com/staff-directory/index
+

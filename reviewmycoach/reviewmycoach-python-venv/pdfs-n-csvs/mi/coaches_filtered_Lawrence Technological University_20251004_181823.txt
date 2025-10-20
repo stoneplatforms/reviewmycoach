@@ -1,0 +1,377 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:23
+============================================================
+
+Total coaches found: 61
+
+PARSED ENTRIES:
+----------------------------------------
+1. Stan Eldridge
+   Email: seldridge@ltu.edu
+   Username: seldridge
+   Original line: Stan Eldridge Head Coach seldridge@ltu.edu 248-204-
+
+2. Jim Mancuso
+   Email: jmancuso@ltu.edu
+   Username: jmancuso
+   Original line: Jim Mancuso Assistant Coach jmancuso@ltu.edu 248-204-
+
+3. Tom Compian
+   Email: tcompian@ltu.edu
+   Username: tcompian
+   Original line: Tom Compian Assistant Coach tcompian@ltu.edu 248-204-
+
+4. Ryan Hilton
+   Email: rhilton@ltu.edu
+   Username: rhilton
+   Original line: Ryan Hilton Assistant Coach rhilton@ltu.edu 248-204-
+
+5. Anthony Hermelyn
+   Email: ahermelyn@ltu.edu
+   Username: ahermelyn
+   Original line: Anthony Hermelyn Assistant Coach ahermelyn@ltu.edu
+
+6. Brad Roth
+   Email: broth@ltu.edu
+   Username: broth
+   Original line: Brad Roth Assistant Coach broth@ltu.edu
+
+7. JoElla Fitzpatrick
+   Email: jfitzpat1@ltu.edu
+   Username: jfitzpat1
+   Original line: JoElla Fitzpatrick Head Coach jfitzpat1@ltu.edu
+
+8. JoElla Fitzpatrick
+   Email: jfitzpat1@ltu.edu
+   Username: jfitzpat1
+   Original line: JoElla Fitzpatrick Head Coach jfitzpat1@ltu.edu
+
+9. Josh Pickens
+   Email: jpickens@ltu.edu
+   Username: jpickens
+   Original line: Josh Pickens Head Coach jpickens@ltu.edu 248-204-
+
+10. Ty Searles
+   Email: tsearles@ltu.edu
+   Username: tsearles
+   Original line: Ty Searles Assistant Coach tsearles@ltu.edu 248-204-
+
+11. Joe Lightfoot
+   Email: jlightfoo@ltu.edu
+   Username: jlightfoo
+   Original line: Joe Lightfoot Assistant Coach jlightfoo@ltu.edu
+
+12. Kyle Capps
+   Email: Kcapps@ltu.edu
+   Username: Kcapps
+   Original line: Kyle Capps Assistant Coach Kcapps@ltu.edu
+
+13. Jon Putti
+   Email: jputti@ltu.edu
+   Username: jputti
+   Original line: Jon Putti Head Coach jputti@ltu.edu 2487637340
+
+14. Jeff Hicks
+   Email: jhicks@ltu.edu
+   Username: jhicks
+   Original line: Jeff Hicks Assistant Coach jhicks@ltu.edu 3135807777
+
+15. Jacob Kujawa
+   Email: jkujawa@ltu.edu
+   Username: jkujawa
+   Original line: Jacob Kujawa Assistant Coach jkujawa@ltu.edu 5866627634
+
+16. Eric Green
+   Email: egreen@ltu.edu
+   Username: egreen
+   Original line: Eric Green Head Coach egreen@ltu.edu 248-204-
+
+17. Jonathan Barbee
+   Email: jbarbee@ltu.edu
+   Username: jbarbee
+   Original line: Jonathan Barbee Assistant Coach jbarbee@ltu.edu
+
+18. Danielle Majors
+   Email: dmajors@ltu.edu
+   Username: dmajors
+   Original line: Danielle Majors Assistant Coach dmajors@ltu.edu
+
+19. Oscar Olejniczak
+   Email: oolejnicz@ltu.edu
+   Username: oolejnicz
+   Original line: Oscar Olejniczak Head Coach oolejnicz@ltu.edu (248) 204- @CoachOlejniczak
+
+20. Chuck Bullough
+   Email: cbullough@ltu.edu
+   Username: cbullough
+   Original line: Chuck Bullough Linebackers Coach cbullough@ltu.edu (248) 204-
+
+21. Dillon Dixon
+   Email: ddixon@ltu.edu
+   Username: ddixon
+   Original line: Dillon Dixon Cornerbacks Coach ddixon@ltu.edu @dillondixon2
+
+22. Ra-mon Watkins
+   Email: rwatkins@speedpro.com
+   Username: rwatkins
+   Original line: Ra-mon Watkins Wide Receivers Coach rwatkins@speedpro.com @rwatkins38
+
+23. Scott Marzolino
+   Email: smarzolin@ltu.edu
+   Username: smarzolin
+   Original line: Scott Marzolino Head Coach smarzolin@ltu.edu 248-204-
+
+24. Josh Stein
+   Email: Jstein@ltu.edu
+   Username: Jstein
+   Original line: Josh Stein Assistant Coach Jstein@ltu.edu
+
+25. Ken Gaffney
+   Email: kgaffney@ltu.edu
+   Username: kgaffney
+   Original line: Ken Gaffney Head Coach kgaffney@ltu.edu 248-204-
+
+26. Michael Woynick
+   Email: mwoynick@ltu.edu
+   Username: mwoynick
+   Original line: Michael Woynick Assistant Coach mwoynick@ltu.edu 734-679-
+
+27. Bryce Ebert
+   Email: bebert@ltu.edu
+   Username: bebert
+   Original line: Bryce Ebert Assistant Coach bebert@ltu.edu 503-523-
+
+28. Griffin Grzenkowicz
+   Email: ggrzenkow@ltu.edu
+   Username: ggrzenkow
+   Original line: Griffin Grzenkowicz Assistant Coach ggrzenkow@ltu.edu 517-375-
+
+29. Max VanAntwerp
+   Email: mvanantwe@ltu.edu
+   Username: mvanantwe
+   Original line: Max VanAntwerp Assistant Coach mvanantwe@ltu.edu 248-719-
+
+30. Christopher Pobur
+   Email: cpobur@ltu.edu
+   Username: cpobur
+   Original line: Christopher Pobur Assistant Coach cpobur@ltu.edu (248)-941-
+
+31. Shane Lewandowski
+   Email: slewando1@ltu.edu
+   Username: slewando1
+   Original line: Shane Lewandowski Head Coach slewando1@ltu.edu 248-204-
+
+32. Josh Abruzzo
+   Email: jabruzzo@ltu.edu
+   Username: jabruzzo
+   Original line: Josh Abruzzo Assistant Coach / jabruzzo@ltu.edu 248-204-
+
+33. TJ Kaminski
+   Email: tkaminski@ltu.edu
+   Username: tkaminski
+   Original line: TJ Kaminski Assistant Coach / Face- tkaminski@ltu.edu 248-204-
+
+34. Will Dyer
+   Email: wdyer@ltu.edu
+   Username: wdyer
+   Original line: Will Dyer Head Coach wdyer@ltu.edu 248-204-
+
+35. Kyle Winningham
+   Email: kwinningh@ltu.edu
+   Username: kwinningh
+   Original line: Kyle Winningham Assistant Coach kwinningh@ltu.edu 734-673-
+
+36. Jason Clare
+   Email: jasec27@gmail.com
+   Username: jasec27
+   Original line: Jason Clare Assistant Coach jasec27@gmail.com
+
+37. Trevor Miller
+   Email: tmiller4@ltu.edu
+   Username: tmiller4
+   Original line: Trevor Miller Rocket League Coach tmiller4@ltu.edu
+
+38. Codi McPeek
+   Email: Cmcpeek@ltu.edu
+   Username: Cmcpeek
+   Original line: Codi McPeek Valorant Coach Cmcpeek@ltu.edu
+
+39. Alex Burghardt
+   Email: aburghard@ltu.edu
+   Username: aburghard
+   Original line: Alex Burghardt Call of Duty Coach aburghard@ltu.edu
+
+40. Jacob Heyer
+   Email: jheyer@ltu.edu
+   Username: jheyer
+   Original line: Jacob Heyer Rainbow 6 Siege Coach jheyer@ltu.edu
+
+41. Jacob Guinee
+   Email: guinee.jacob97@gmail.com
+   Username: guinee.jacob97
+   Original line: Jacob Guinee Overwatch 2 Coach guinee.jacob97@gmail.com
+
+42. Griffin Mertz
+   Email: gmertz@ltu.edu
+   Username: gmertz
+   Original line: Griffin Mertz Head Coach gmertz@ltu.edu
+
+43. Jasmine Wilks
+   Email: jwilks@ltu.edu
+   Username: jwilks
+   Original line: Jasmine Wilks Head Coach jwilks@ltu.edu 614-843-
+
+44. Jimmy Crabill
+   Email: jcrabill@ltu.edu
+   Username: jcrabill
+   Original line: Jimmy Crabill Assistant Coach - jcrabill@ltu.edu
+
+45. Antonio Combs
+   Email: acombs@ltu.edu
+   Username: acombs
+   Original line: Antonio Combs Jumps Coach / Strength acombs@ltu.edu
+
+46. Jonathan Barbee
+   Email: jbarbee@ltu.edu
+   Username: jbarbee
+   Original line: Jonathan Barbee Assistant Coach - jbarbee@ltu.edu
+
+47. Gustavo Heidrich
+   Email: gheidrich@ltu.edu
+   Username: gheidrich
+   Original line: Gustavo Heidrich Head Coach gheidrich@ltu.edu
+
+48. Nestor Addah
+   Email: naddah@ltu.edu
+   Username: naddah
+   Original line: Nestor Addah Assistant Coach naddah@ltu.edu
+
+49. Paige Wright
+   Email: pwright2@ltu.edu
+   Username: pwright2
+   Original line: Paige Wright Head Coach pwright2@ltu.edu
+
+50. Avery Turner
+   Email: turner.at4@yahoo.com
+   Username: turner.at4
+   Original line: Avery Turner Assistant Coach turner.at4@yahoo.com
+
+51. Jon Putti
+   Email: jputti@ltu.edu
+   Username: jputti
+   Original line: Jon Putti Head Coach jputti@ltu.edu 2487637340
+
+52. Roger Beaty
+   Email: rbeaty1@ltu.edu
+   Username: rbeaty1
+   Original line: Roger Beaty Assistant Coach rbeaty1@ltu.edu 5865969410
+
+53. Lexi Bohlinger
+   Email: abohlinge@ltu.edu
+   Username: abohlinge
+   Original line: Lexi Bohlinger Head Coach abohlinge@ltu.edu
+
+54. Anabelle Acluche
+   Email: aacluche@ltu.edu
+   Username: aacluche
+   Original line: Anabelle Acluche Assistant Coach aacluche@ltu.edu 248-820-
+
+55. JaJuan Jones
+   Email: jjones5@ltu.edu
+   Username: jjones5
+   Original line: JaJuan Jones Assistant Coach jjones5@ltu.edu 313-740-
+
+56. Michael Mease
+   Email: mmease@ltu.edu
+   Username: mmease
+   Original line: Michael Mease Head Coach mmease@ltu.edu
+
+57. Rachel Mease
+   Email: rmease@ltu.edu
+   Username: rmease
+   Original line: Rachel Mease Assistant Coach rmease@ltu.edu
+
+58. Dave Langlois
+   Email: dlanglois@ltu.edu
+   Username: dlanglois
+   Original line: Dave Langlois Assistant Coach dlanglois@ltu.edu
+
+59. Andy Richards
+   Email: arichards@ltu.edu
+   Username: arichards
+   Original line: Andy Richards Head Coach arichards@ltu.edu 248-204-
+
+60. Gustavo Heidrich
+   Email: gheidrich@ltu.edu
+   Username: gheidrich
+   Original line: Gustavo Heidrich Head Coach gheidrich@ltu.edu
+
+61. David Nichols
+   Email: dnichols@ltu.edu
+   Username: dnichols
+   Original line: David Nichols Assistant Coach dnichols@ltu.edu 954-309-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Stan Eldridge Head Coach seldridge@ltu.edu 248-204-
+• Jim Mancuso Assistant Coach jmancuso@ltu.edu 248-204-
+• Tom Compian Assistant Coach tcompian@ltu.edu 248-204-
+• Ryan Hilton Assistant Coach rhilton@ltu.edu 248-204-
+• Anthony Hermelyn Assistant Coach ahermelyn@ltu.edu
+• Brad Roth Assistant Coach broth@ltu.edu
+• JoElla Fitzpatrick Head Coach jfitzpat1@ltu.edu
+• JoElla Fitzpatrick Head Coach jfitzpat1@ltu.edu
+• Josh Pickens Head Coach jpickens@ltu.edu 248-204-
+• Ty Searles Assistant Coach tsearles@ltu.edu 248-204-
+• Joe Lightfoot Assistant Coach jlightfoo@ltu.edu
+• Kyle Capps Assistant Coach Kcapps@ltu.edu
+• Jon Putti Head Coach jputti@ltu.edu 2487637340
+• Jeff Hicks Assistant Coach jhicks@ltu.edu 3135807777
+• Jacob Kujawa Assistant Coach jkujawa@ltu.edu 5866627634
+• Eric Green Head Coach egreen@ltu.edu 248-204-
+• Jonathan Barbee Assistant Coach jbarbee@ltu.edu
+• Danielle Majors Assistant Coach dmajors@ltu.edu
+• Oscar Olejniczak Head Coach oolejnicz@ltu.edu (248) 204- @CoachOlejniczak
+• Chuck Bullough Linebackers Coach cbullough@ltu.edu (248) 204-
+• Dillon Dixon Cornerbacks Coach ddixon@ltu.edu @dillondixon2
+• Ra-mon Watkins Wide Receivers Coach rwatkins@speedpro.com @rwatkins38
+• Scott Marzolino Head Coach smarzolin@ltu.edu 248-204-
+• Josh Stein Assistant Coach Jstein@ltu.edu
+• Ken Gaffney Head Coach kgaffney@ltu.edu 248-204-
+• Michael Woynick Assistant Coach mwoynick@ltu.edu 734-679-
+• Bryce Ebert Assistant Coach bebert@ltu.edu 503-523-
+• Griffin Grzenkowicz Assistant Coach ggrzenkow@ltu.edu 517-375-
+• Max VanAntwerp Assistant Coach mvanantwe@ltu.edu 248-719-
+• Christopher Pobur Assistant Coach cpobur@ltu.edu (248)-941-
+• Shane Lewandowski Head Coach slewando1@ltu.edu 248-204-
+• Josh Abruzzo Assistant Coach / jabruzzo@ltu.edu 248-204-
+• TJ Kaminski Assistant Coach / Face- tkaminski@ltu.edu 248-204-
+• Will Dyer Head Coach wdyer@ltu.edu 248-204-
+• Kyle Winningham Assistant Coach kwinningh@ltu.edu 734-673-
+• Jason Clare Assistant Coach jasec27@gmail.com
+• Trevor Miller Rocket League Coach tmiller4@ltu.edu
+• Codi McPeek Valorant Coach Cmcpeek@ltu.edu
+• Alex Burghardt Call of Duty Coach aburghard@ltu.edu
+• Jacob Heyer Rainbow 6 Siege Coach jheyer@ltu.edu
+• Jacob Guinee Overwatch 2 Coach guinee.jacob97@gmail.com
+• Griffin Mertz Head Coach gmertz@ltu.edu
+• Jasmine Wilks Head Coach jwilks@ltu.edu 614-843-
+• Jimmy Crabill Assistant Coach - jcrabill@ltu.edu
+• Antonio Combs Jumps Coach / Strength acombs@ltu.edu
+• Jonathan Barbee Assistant Coach - jbarbee@ltu.edu
+• Gustavo Heidrich Head Coach gheidrich@ltu.edu
+• Nestor Addah Assistant Coach naddah@ltu.edu
+• Paige Wright Head Coach pwright2@ltu.edu
+• Avery Turner Assistant Coach turner.at4@yahoo.com
+• Jon Putti Head Coach jputti@ltu.edu 2487637340
+• Roger Beaty Assistant Coach rbeaty1@ltu.edu 5865969410
+• Lexi Bohlinger Head Coach abohlinge@ltu.edu
+• Anabelle Acluche Assistant Coach aacluche@ltu.edu 248-820-
+• JaJuan Jones Assistant Coach jjones5@ltu.edu 313-740-
+• Michael Mease Head Coach mmease@ltu.edu
+• Rachel Mease Assistant Coach rmease@ltu.edu
+• Dave Langlois Assistant Coach dlanglois@ltu.edu
+• Andy Richards Head Coach arichards@ltu.edu 248-204-
+• Gustavo Heidrich Head Coach gheidrich@ltu.edu
+• David Nichols Assistant Coach dnichols@ltu.edu 954-309-

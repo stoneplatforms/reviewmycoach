@@ -1,0 +1,251 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:04
+============================================================
+
+Total coaches found: 40
+
+PARSED ENTRIES:
+----------------------------------------
+1. P.J. Zocchi
+   Email: pzocchi@andersonuniversity.edu
+   Username: pzocchi
+   Original line: P.J. Zocchi Head Coach (864) 231- pzocchi@andersonuniversity.edu
+
+2. Dylan Southerland
+   Email: dsoutherland@andersonuniversity.edu
+   Username: dsoutherland
+   Original line: Dylan Southerland Assistant Coach dsoutherland@andersonuniversity.edu
+
+3. Michael Skelly
+   Email: mskelly@andersonuniversity.edu
+   Username: mskelly
+   Original line: Michael Skelly Assistant Coach mskelly@andersonuniversity.edu
+
+4. Jimmie Williams
+   Email: jwilliams@andersonuniversity.edu
+   Username: jwilliams
+   Original line: Jimmie Williams Head Coach (864) 231- jwilliams@andersonuniversity.edu
+
+5. Jakob Lowrance
+   Email: jlowrance@andersonuniversity.edu
+   Username: jlowrance
+   Original line: Jakob Lowrance Assistant Coach jlowrance@andersonuniversity.edu
+
+6. Bill Neely
+   Email: wneely@andersonuniversity.edu
+   Username: wneely
+   Original line: Bill Neely Assistant Coach - Distance (864) 231- wneely@andersonuniversity.edu
+
+7. Bobby Lamb
+   Email: football@andersonuniversity.edu
+   Username: football
+   Original line: Bobby Lamb Head Coach football@andersonuniversity.edu
+
+8. Brett Hickman
+   Email: bhickman@andersonuniversity.edu
+   Username: bhickman
+   Original line: Brett Hickman Assistant Head Coach/Defensive Coordinator bhickman@andersonuniversity.edu
+
+9. Malik Chevry
+   Email: mchevry@andersonuniversity.edu
+   Username: mchevry
+   Original line: Malik Chevry Defensive Backs Coach / Recruiting Coordinator / Defensive (864) 231- mchevry@andersonuniversity.edu
+
+10. James Thurn
+   Email: jthurn@andersonuniversity.edu
+   Username: jthurn
+   Original line: James Thurn Offensive Coordinator/Offensive Line Coach jthurn@andersonuniversity.edu
+
+11. Caleb Fuller
+   Email: cafuller@andersonuniversity.edu
+   Username: cafuller
+   Original line: Caleb Fuller Defensive Line Coach / Defensive Run Game Coordinator cafuller@andersonuniversity.edu
+
+12. AJ Jones
+   Email: ajjones@andersonuniversity.edu
+   Username: ajjones
+   Original line: AJ Jones Inside Linebackers Coach / Co-Defensive Coordinator ajjones@andersonuniversity.edu
+
+13. Denton Moore
+   Email: dmoore@andersonuniversity.edu
+   Username: dmoore
+   Original line: Denton Moore Director of Golf/Head Women's Golf Coach (864) 231- dmoore@andersonuniversity.edu
+
+14. Daniel Coker
+   Email: dcoker@andersonuniversity.edu
+   Username: dcoker
+   Original line: Daniel Coker Head Men's Golf Coach dcoker@andersonuniversity.edu
+
+15. Albert Mitchell
+   Email: amitchell@andersonuniversity.edu
+   Username: amitchell
+   Original line: Albert Mitchell Head Coach (864) 231- amitchell@andersonuniversity.edu
+
+16. Matt Ledon
+   Email: mledon@andersonuniversity.edu
+   Username: mledon
+   Original line: Matt Ledon Associate Head Coach (864) 231- mledon@andersonuniversity.edu
+
+17. Mike McCallan
+   Email: mikemccallanjr@gmail.com
+   Username: mikemccallanjr
+   Original line: Mike McCallan Assistant Coach mikemccallanjr@gmail.com
+
+18. Chase Robertson
+   Email: crobertson122@andersonuniversity.edu
+   Username: crobertson122
+   Original line: Chase Robertson Assistant Coach crobertson122@andersonuniversity.edu
+
+19. Michael Zion
+   Email: mzion@andersonuniversity.edu
+   Username: mzion
+   Original line: Michael Zion Head Coach (864) 231- mzion@andersonuniversity.edu
+
+20. Sergio Tapia
+   Email: stapia@andersonuniversity.edu
+   Username: stapia
+   Original line: Sergio Tapia Associate Head Coach (864) 231- stapia@andersonuniversity.edu
+
+21. Valentina Borda
+   Email: vborda@andersonuniversity.edu
+   Username: vborda
+   Original line: Valentina Borda Assistant Coach vborda@andersonuniversity.edu
+
+22. Caleb Stephenson
+   Email: cstephenson@andersonuniversity.edu
+   Username: cstephenson
+   Original line: Caleb Stephenson Head Coach (864) 231- cstephenson@andersonuniversity.edu
+
+23. Bill Neely
+   Email: wneely@andersonuniversity.edu
+   Username: wneely
+   Original line: Bill Neely Assistant Coach - Distance (864) 231- wneely@andersonuniversity.edu
+
+24. Will Byars
+   Email: byarswill@yahoo.com
+   Username: byarswill
+   Original line: Will Byars Assistant Coach - Throws byarswill@yahoo.com
+
+25. Jonathon Barbaree
+   Email: jbarbaree@andersonuniversity.edu
+   Username: jbarbaree
+   Original line: Jonathon Barbaree Head Coach (864) 231- jbarbaree@andersonuniversity.edu
+
+26. Maya Wynn
+   Email: mwynn@andersonuniversity.edu
+   Username: mwynn
+   Original line: Maya Wynn Associate Head Coach (864) 231- mwynn@andersonuniversity.edu
+
+27. Lauren Hudson
+   Email: lhudson@andersonuniversity.edu
+   Username: lhudson
+   Original line: Lauren Hudson Head Coach lhudson@andersonuniversity.edu
+
+28. Bill Neely
+   Email: wneely@andersonuniversity.edu
+   Username: wneely
+   Original line: Bill Neely Assistant Coach - Distance (864) 231- wneely@andersonuniversity.edu
+
+29. Denton Moore
+   Email: dmoore@andersonuniversity.edu
+   Username: dmoore
+   Original line: Denton Moore Director of Golf/Head Women's Golf Coach (864) 231- dmoore@andersonuniversity.edu
+
+30. Nicole Voci
+   Email: nvoci@andersonuniversity.edu
+   Username: nvoci
+   Original line: Nicole Voci Head Coach (585) 754- nvoci@andersonuniversity.edu
+
+31. Alexandra Young
+   Email: ayoung@andersonuniversity.edu
+   Username: ayoung
+   Original line: Alexandra Young Assistant Coach ayoung@andersonuniversity.edu
+
+32. Kelly Roberts
+   Email: keroberts@andersonuniversity.edu
+   Username: keroberts
+   Original line: Kelly Roberts Head Coach (864) 231- keroberts@andersonuniversity.edu
+
+33. Sarah Jacobs
+   Email: sjacobs@andersonuniversity.edu
+   Username: sjacobs
+   Original line: Sarah Jacobs Head Coach (864) 231- sjacobs@andersonuniversity.edu
+
+34. Francisco Costa
+   Email: fcosta@andersonuniversity.edu
+   Username: fcosta
+   Original line: Francisco Costa Assistant Coach fcosta@andersonuniversity.edu
+
+35. Valentina Borda
+   Email: vborda@andersonuniversity.edu
+   Username: vborda
+   Original line: Valentina Borda Assistant Coach vborda@andersonuniversity.edu
+
+36. Caleb Stephenson
+   Email: cstephenson@andersonuniversity.edu
+   Username: cstephenson
+   Original line: Caleb Stephenson Head Coach (864) 231- cstephenson@andersonuniversity.edu
+
+37. Bill Neely
+   Email: wneely@andersonuniversity.edu
+   Username: wneely
+   Original line: Bill Neely Assistant Coach - Distance (864) 231- wneely@andersonuniversity.edu
+
+38. Will Byars
+   Email: byarswill@yahoo.com
+   Username: byarswill
+   Original line: Will Byars Assistant Coach - Throws byarswill@yahoo.com
+
+39. Todd Hay
+   Email: thay@andersonuniversity.edu
+   Username: thay
+   Original line: Todd Hay Head Coach (864) 622- thay@andersonuniversity.edu
+
+40. Savannah Calvert
+   Email: scox@andersonuniversity.edu
+   Username: scox
+   Original line: Savannah Calvert Assistant Coach/Recruiting Coordinator scox@andersonuniversity.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• P.J. Zocchi Head Coach (864) 231- pzocchi@andersonuniversity.edu
+• Dylan Southerland Assistant Coach dsoutherland@andersonuniversity.edu
+• Michael Skelly Assistant Coach mskelly@andersonuniversity.edu
+• Jimmie Williams Head Coach (864) 231- jwilliams@andersonuniversity.edu
+• Jakob Lowrance Assistant Coach jlowrance@andersonuniversity.edu
+• Bill Neely Assistant Coach - Distance (864) 231- wneely@andersonuniversity.edu
+• Bobby Lamb Head Coach football@andersonuniversity.edu
+• Brett Hickman Assistant Head Coach/Defensive Coordinator bhickman@andersonuniversity.edu
+• Malik Chevry Defensive Backs Coach / Recruiting Coordinator / Defensive (864) 231- mchevry@andersonuniversity.edu
+• James Thurn Offensive Coordinator/Offensive Line Coach jthurn@andersonuniversity.edu
+• Caleb Fuller Defensive Line Coach / Defensive Run Game Coordinator cafuller@andersonuniversity.edu
+• AJ Jones Inside Linebackers Coach / Co-Defensive Coordinator ajjones@andersonuniversity.edu
+• Denton Moore Director of Golf/Head Women's Golf Coach (864) 231- dmoore@andersonuniversity.edu
+• Daniel Coker Head Men's Golf Coach dcoker@andersonuniversity.edu
+• Albert Mitchell Head Coach (864) 231- amitchell@andersonuniversity.edu
+• Matt Ledon Associate Head Coach (864) 231- mledon@andersonuniversity.edu
+• Mike McCallan Assistant Coach mikemccallanjr@gmail.com
+• Chase Robertson Assistant Coach crobertson122@andersonuniversity.edu
+• Michael Zion Head Coach (864) 231- mzion@andersonuniversity.edu
+• Sergio Tapia Associate Head Coach (864) 231- stapia@andersonuniversity.edu
+• Valentina Borda Assistant Coach vborda@andersonuniversity.edu
+• Caleb Stephenson Head Coach (864) 231- cstephenson@andersonuniversity.edu
+• Bill Neely Assistant Coach - Distance (864) 231- wneely@andersonuniversity.edu
+• Will Byars Assistant Coach - Throws byarswill@yahoo.com
+• Jonathon Barbaree Head Coach (864) 231- jbarbaree@andersonuniversity.edu
+• Maya Wynn Associate Head Coach (864) 231- mwynn@andersonuniversity.edu
+• Lauren Hudson Head Coach lhudson@andersonuniversity.edu
+• Bill Neely Assistant Coach - Distance (864) 231- wneely@andersonuniversity.edu
+• Denton Moore Director of Golf/Head Women's Golf Coach (864) 231- dmoore@andersonuniversity.edu
+• Nicole Voci Head Coach (585) 754- nvoci@andersonuniversity.edu
+• Alexandra Young Assistant Coach ayoung@andersonuniversity.edu
+• Kelly Roberts Head Coach (864) 231- keroberts@andersonuniversity.edu
+• Sarah Jacobs Head Coach (864) 231- sjacobs@andersonuniversity.edu
+• Francisco Costa Assistant Coach fcosta@andersonuniversity.edu
+• Valentina Borda Assistant Coach vborda@andersonuniversity.edu
+• Caleb Stephenson Head Coach (864) 231- cstephenson@andersonuniversity.edu
+• Bill Neely Assistant Coach - Distance (864) 231- wneely@andersonuniversity.edu
+• Will Byars Assistant Coach - Throws byarswill@yahoo.com
+• Todd Hay Head Coach (864) 622- thay@andersonuniversity.edu
+• Savannah Calvert Assistant Coach/Recruiting Coordinator scox@andersonuniversity.edu

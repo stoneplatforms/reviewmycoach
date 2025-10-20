@@ -1,0 +1,3 @@
+Low-quality parsing detected in Indiana University Bloomington.pdf.
+Sample problematic entries (1):
+- Sasha Elliott Assistant Coach football@iu.edu

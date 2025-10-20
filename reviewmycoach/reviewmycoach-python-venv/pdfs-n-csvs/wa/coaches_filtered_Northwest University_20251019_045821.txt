@@ -1,0 +1,145 @@
+COACH ENTRIES FOUND - 2025-10-19 04:58:21
+============================================================
+
+Total coaches found: 21
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rick Skeen
+   Email: rick.skeen@northwestu.edu
+   Username: rick.skeen
+   Phone: 425.889.5275
+   Original line: Rick Skeen Head Coach rick.skeen@northwestu.edu 425.889.5275
+
+2. Leif Anderson
+   Email: leif.anderson@northwestu.edu
+   Username: leif.anderson
+   Original line: Leif Anderson Assistant Coach leif.anderson@northwestu.edu
+
+3. Dante Lewis
+   Email: dante.lewis@northwestu.edu
+   Username: dante.lewis
+   Original line: Dante Lewis Assistant Coach dante.lewis@northwestu.edu
+
+4. Randall Edens
+   Email: randall.edens@northwestu.edu
+   Username: randall.edens
+   Phone: (425) 889-5204
+   Original line: Randall Edens Head Coach randall.edens@northwestu.edu 425-889-5204
+
+5. Kristen Hammersmith
+   Email: kristen.hammersmith@northwestu.edu
+   Username: kristen.hammersmith
+   Original line: Kristen Hammersmith Assistant Coach kristen.hammersmith@northwestu.edu
+
+6. Meng Bak
+   Email: meng.bak@northwestu.edu
+   Username: meng.bak
+   Original line: Meng Bak Head Coach meng.bak@northwestu.edu
+
+7. Mark Mandi
+   Email: mark.mandi@northwestu.edu
+   Username: mark.mandi
+   Phone: (425) 889-7785
+   Original line: Mark Mandi Head Coach mark.mandi@northwestu.edu 425-889-7785
+
+8. Alison Mandi
+   Email: alison.mandi@northwestu.edu
+   Username: alison.mandi
+   Original line: Alison Mandi Assistant Coach alison.mandi@northwestu.edu
+
+9. Corban Phillips
+   Email: corban.phillips@northwestu.edu
+   Username: corban.phillips
+   Original line: Corban Phillips Assistant Coach corban.phillips@northwestu.edu
+
+10. Gary McIntosh
+   Email: gary.mcintosh@northwestu.edu
+   Username: gary.mcintosh
+   Phone: (425) 889-7790
+   Original line: Dr. Gary McIntosh Head Coach gary.mcintosh@northwestu.edu 425-889-7790
+
+11. Gabriel Dominguez
+   Email: gabriel.dominguez@northwestu.edu
+   Username: gabriel.dominguez
+   Original line: Gabriel Dominguez Assistant Coach gabriel.dominguez@northwestu.edu
+
+12. April VanAssche
+   Email: april.vanassche@northwestu.edu
+   Username: april.vanassche
+   Phone: (425) 889-5579
+   Original line: April VanAssche Head Coach april.vanassche@northwestu.edu 425-889-5579
+
+13. Mike Lockwood
+   Email: mike.lockwood@northwestu.edu
+   Username: mike.lockwood
+   Original line: Mike Lockwood Assistant Coach mike.lockwood@northwestu.edu
+
+14. Montse Youngsman
+   Email: montse.youngsman@northwestu.edu
+   Username: montse.youngsman
+   Original line: Montse Youngsman Assistant Coach montse.youngsman@northwestu.edu
+
+15. Maddi Wartes
+   Email: maddi.wartes@northwestu.edu
+   Username: maddi.wartes
+   Original line: Maddi Wartes Assistant Coach maddi.wartes@northwestu.edu
+
+16. Mark Mandi
+   Email: mark.mandi@northwestu.edu
+   Username: mark.mandi
+   Phone: (425) 889-7785
+   Original line: Mark Mandi Head Coach mark.mandi@northwestu.edu 425-889-7785
+
+17. Alison Mandi
+   Email: alison.mandi@northwestu.edu
+   Username: alison.mandi
+   Original line: Alison Mandi Assistant Coach alison.mandi@northwestu.edu
+
+18. Moreland Anderson
+   Email: moreland.anderson@northwestu.edu
+   Username: moreland.anderson
+   Phone: (503) 475-7831
+   Original line: Moreland Anderson Assistant Coach moreland.anderson@northwestu.edu 503-475-7831
+
+19. Corban Phillips
+   Email: corban.phillips@northwestu.edu
+   Username: corban.phillips
+   Original line: Corban Phillips Assistant Coach corban.phillips@northwestu.edu
+
+20. Steve Bain
+   Email: steven.bain@northwestu.edu
+   Username: steven.bain
+   Phone: (425) 889-5262
+   Original line: Steve Bain Head Coach steven.bain@northwestu.edu 425-889-5262
+
+21. Rachael Carbary
+   Email: rachael.carbary@northwestu.edu
+   Username: rachael.carbary
+   Original line: Rachael Carbary Assistant Coach rachael.carbary@northwestu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rick Skeen Head Coach rick.skeen@northwestu.edu 425.889.5275
+• Leif Anderson Assistant Coach leif.anderson@northwestu.edu
+• Dante Lewis Assistant Coach dante.lewis@northwestu.edu
+• Randall Edens Head Coach randall.edens@northwestu.edu 425-889-5204
+• Kristen Hammersmith Assistant Coach kristen.hammersmith@northwestu.edu
+• Meng Bak Head Coach meng.bak@northwestu.edu
+• Mark Mandi Head Coach mark.mandi@northwestu.edu 425-889-7785
+• Alison Mandi Assistant Coach alison.mandi@northwestu.edu
+• Corban Phillips Assistant Coach corban.phillips@northwestu.edu
+• Dr. Gary McIntosh Head Coach gary.mcintosh@northwestu.edu 425-889-7790
+• Gabriel Dominguez Assistant Coach gabriel.dominguez@northwestu.edu
+• April VanAssche Head Coach april.vanassche@northwestu.edu 425-889-5579
+• Mike Lockwood Assistant Coach mike.lockwood@northwestu.edu
+• Montse Youngsman Assistant Coach montse.youngsman@northwestu.edu
+• Maddi Wartes Assistant Coach maddi.wartes@northwestu.edu
+• Mark Mandi Head Coach mark.mandi@northwestu.edu 425-889-7785
+• Alison Mandi Assistant Coach alison.mandi@northwestu.edu
+• Moreland Anderson Assistant Coach moreland.anderson@northwestu.edu 503-475-7831
+• Corban Phillips Assistant Coach corban.phillips@northwestu.edu
+• Steve Bain Head Coach steven.bain@northwestu.edu 425-889-5262
+• Rachael Carbary Assistant Coach rachael.carbary@northwestu.edu

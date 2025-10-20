@@ -1,0 +1,232 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:21
+============================================================
+
+Total coaches found: 33
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ryan Bowen
+   Email: rpbowen@nwosu.edu
+   Username: rpbowen
+   Phone: (580) 327-8124
+   Original line: Ryan Bowen Head Baseball Coach rpbowen@nwosu.edu 327-8124
+
+2. Cade Phelps
+   Email: crphelps@nwosu.edu
+   Username: crphelps
+   Phone: (580) 327-8155
+   Original line: Cade Phelps Pitching Coach / Recruiting Coordinator crphelps@nwosu.edu 580-327-8155
+
+3. Jack Hammond
+   Email: gjhammond@nwosu.edu
+   Username: gjhammond
+   Phone: (580) 327-8155
+   Original line: Jack Hammond Assistant Coach / Head Junior Varsity Coach gjhammond@nwosu.edu 580-327-8155
+
+4. Robbie Harman
+   Email: rlharman@nwosu.edu
+   Username: rlharman
+   Phone: (580) 327-8467
+   Original line: Robbie Harman Head Men's Basketball Coach rlharman@nwosu.edu 580-327-8467
+
+5. Sam Casey
+   Email: slcasey@nwosu.edu
+   Username: slcasey
+   Phone: (580) 327-8644
+   Original line: Sam Casey Assistant Basketball Coach slcasey@nwosu.edu 580-327-8644
+
+6. Tasha Diesselhorst
+   Email: tmdiesselhorst@nwosu.edu
+   Username: tmdiesselhorst
+   Phone: (580) 327-8626
+   Original line: Tasha Diesselhorst Head Women's Basketball Coach tmdiesselhorst@nwosu.edu 327-8626
+
+7. Payton Jones
+   Email: pmjones@nwosu.edu
+   Username: pmjones
+   Phone: (580) 327-8630
+   Original line: Payton Jones Assistant Basketball Coach pmjones@nwosu.edu 580-327-8630
+
+8. Chloe Rogers
+   Email: cheer@nwosu.edu
+   Username: cheer
+   Original line: Chloe Rogers Head Cheer Coach cheer@nwosu.edu
+
+9. Ronnie Jones
+   Email: rjjones@nwosu.edu
+   Username: rjjones
+   Phone: (580) 327-8488
+   Original line: Ronnie Jones Head Football Coach rjjones@nwosu.edu 580-327-8488
+
+10. Jason Medrano
+   Email: jamedrano@nwosu.edu
+   Username: jamedrano
+   Phone: (580) 327-8654
+   Original line: Jason Medrano Assistant Head Coach / Offensive Coordinator / jamedrano@nwosu.edu 580-327-8654
+
+11. Damon Kepley
+   Email: ddkepley38@rangers.nwosu.edu
+   Username: ddkepley38
+   Original line: Damon Kepley Tight Ends/H Backs Coach/Special Teams ddkepley38@rangers.nwosu.edu
+
+12. Alex Bentrem
+   Email: aabentrem@nwosu.edu
+   Username: aabentrem
+   Phone: (580) 327-8631
+   Original line: Alex Bentrem Defensive Coordinator / Linebackers Coach aabentrem@nwosu.edu 580-327-8631
+
+13. Dominic Hogan
+   Email: dahogan@nwosu.edu
+   Username: dahogan
+   Original line: Dominic Hogan Recruiting Coordinator / Defensive Line Coach dahogan@nwosu.edu (580)-327-
+
+14. Trevin Chandler
+   Email: tachandler@nwosu.edu
+   Username: tachandler
+   Original line: Trevin Chandler Defensive Backs Coach/Pass Game Coordinator tachandler@nwosu.edu
+
+15. Scott Martin
+   Email: jsmartin@nwosu.edu
+   Username: jsmartin
+   Original line: Scott Martin Offensive Line Coach jsmartin@nwosu.edu
+
+16. Andrew Banua
+   Email: abbanua@nwosu.edu
+   Username: abbanua
+   Phone: (580) 327-8670
+   Original line: Andrew Banua Director of Football Operations / WR's Coach abbanua@nwosu.edu 580-327-8670
+
+17. John Flores
+   Email: jflores24@rangers.nwosu.edu
+   Username: jflores24
+   Original line: John Flores Running Backs Coach/Academic Coordinator jflores24@rangers.nwosu.edu
+
+18. Alex Hafner
+   Email: amhafner62@rangers.nwosu.edu
+   Username: amhafner62
+   Original line: Alex Hafner Assistant Defensive Backs Coach amhafner62@rangers.nwosu.edu
+
+19. Dan Campbell
+   Email: dpcampbell@nwosu.edu
+   Username: dpcampbell
+   Phone: (580) 327-8136
+   Original line: Dan Campbell Head Golf Coach dpcampbell@nwosu.edu 580-327-8136
+
+20. Shehna Akbary
+   Email: sakbary@nwosu.edu
+   Username: sakbary
+   Phone: (580) 327-8136
+   Original line: Shehna Akbary Assistant Golf Coach sakbary@nwosu.edu 580-327-8136
+
+21. Dan Campbell
+   Email: dpcampbell@nwosu.edu
+   Username: dpcampbell
+   Phone: (580) 327-8136
+   Original line: Dan Campbell Head Golf Coach dpcampbell@nwosu.edu 580-327-8136
+
+22. Shehna Akbary
+   Email: sakbary@nwosu.edu
+   Username: sakbary
+   Phone: (580) 327-8136
+   Original line: Shehna Akbary Assistant Golf Coach sakbary@nwosu.edu 580-327-8136
+
+23. Cali Griffin
+   Email: Crgriffin@nwosu.edu
+   Username: Crgriffin
+   Original line: Cali Griffin Head Rodeo Coach Crgriffin@nwosu.edu (580)-327-
+
+24. Emmett Edler
+   Email: ededler@nwosu.edu
+   Username: ededler
+   Phone: (580) 327-8688
+   Original line: Emmett Edler Assistant Rodeo Coach ededler@nwosu.edu 580-327-8688
+
+25. Cali Griffin
+   Email: Crgriffin@nwosu.edu
+   Username: Crgriffin
+   Original line: Cali Griffin Head Rodeo Coach Crgriffin@nwosu.edu (580)-327-
+
+26. Emmett Edler
+   Email: ededler@nwosu.edu
+   Username: ededler
+   Phone: (580) 327-8688
+   Original line: Emmett Edler Assistant Rodeo Coach ededler@nwosu.edu 580-327-8688
+
+27. Carla Briscoe
+   Email: cdbriscoe@nwosu.edu
+   Username: cdbriscoe
+   Phone: (580) 327-8103
+   Original line: Carla Briscoe Head Women's Soccer Coach cdbriscoe@nwosu.edu 580-327-8103
+
+28. Lily Anderson
+   Email: lmanderson@nwosu.edu
+   Username: lmanderson
+   Original line: Lily Anderson Assistant Soccer Coach lmanderson@nwosu.edu
+
+29. Efrain Barraza
+   Email: eabarraza@nwosu.edu
+   Username: eabarraza
+   Phone: (580) 327-8102
+   Original line: Efrain Barraza Head Softball Coach eabarraza@nwosu.edu 580-327-8102
+
+30. Jon Bingesser
+   Email: jcbingesser@nwosu.edu
+   Username: jcbingesser
+   Phone: (580) 327-8667
+   Original line: Jon Bingesser Head Volleyball Coach jcbingesser@nwosu.edu 580-327-8667
+
+31. Jill Lancaster
+   Email: jllancaster@nwosu.edu
+   Username: jllancaster
+   Phone: (580) 327-8668
+   Original line: Jill Lancaster Head Women's Track and Field Coach jllancaster@nwosu.edu 327-8668
+
+32. Zaccheus Beasley
+   Email: zdbeasley@nwosu.edu
+   Username: zdbeasley
+   Phone: (580) 327-8653
+   Original line: Zaccheus Beasley Assistant Men's & Women's Track Coach zdbeasley@nwosu.edu 580-327-8653
+
+33. Zaccheus Beasley
+   Email: zdbeasley@nwosu.edu
+   Username: zdbeasley
+   Phone: (580) 327-8653
+   Original line: Zaccheus Beasley Assistant Men's & Women's Track Coach zdbeasley@nwosu.edu 580-327-8653
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ryan Bowen Head Baseball Coach rpbowen@nwosu.edu 327-8124
+• Cade Phelps Pitching Coach / Recruiting Coordinator crphelps@nwosu.edu 580-327-8155
+• Jack Hammond Assistant Coach / Head Junior Varsity Coach gjhammond@nwosu.edu 580-327-8155
+• Robbie Harman Head Men's Basketball Coach rlharman@nwosu.edu 580-327-8467
+• Sam Casey Assistant Basketball Coach slcasey@nwosu.edu 580-327-8644
+• Tasha Diesselhorst Head Women's Basketball Coach tmdiesselhorst@nwosu.edu 327-8626
+• Payton Jones Assistant Basketball Coach pmjones@nwosu.edu 580-327-8630
+• Chloe Rogers Head Cheer Coach cheer@nwosu.edu
+• Ronnie Jones Head Football Coach rjjones@nwosu.edu 580-327-8488
+• Jason Medrano Assistant Head Coach / Offensive Coordinator / jamedrano@nwosu.edu 580-327-8654
+• Damon Kepley Tight Ends/H Backs Coach/Special Teams ddkepley38@rangers.nwosu.edu
+• Alex Bentrem Defensive Coordinator / Linebackers Coach aabentrem@nwosu.edu 580-327-8631
+• Dominic Hogan Recruiting Coordinator / Defensive Line Coach dahogan@nwosu.edu (580)-327-
+• Trevin Chandler Defensive Backs Coach/Pass Game Coordinator tachandler@nwosu.edu
+• Scott Martin Offensive Line Coach jsmartin@nwosu.edu
+• Andrew Banua Director of Football Operations / WR's Coach abbanua@nwosu.edu 580-327-8670
+• John Flores Running Backs Coach/Academic Coordinator jflores24@rangers.nwosu.edu
+• Alex Hafner Assistant Defensive Backs Coach amhafner62@rangers.nwosu.edu
+• Dan Campbell Head Golf Coach dpcampbell@nwosu.edu 580-327-8136
+• Shehna Akbary Assistant Golf Coach sakbary@nwosu.edu 580-327-8136
+• Dan Campbell Head Golf Coach dpcampbell@nwosu.edu 580-327-8136
+• Shehna Akbary Assistant Golf Coach sakbary@nwosu.edu 580-327-8136
+• Cali Griffin Head Rodeo Coach Crgriffin@nwosu.edu (580)-327-
+• Emmett Edler Assistant Rodeo Coach ededler@nwosu.edu 580-327-8688
+• Cali Griffin Head Rodeo Coach Crgriffin@nwosu.edu (580)-327-
+• Emmett Edler Assistant Rodeo Coach ededler@nwosu.edu 580-327-8688
+• Carla Briscoe Head Women's Soccer Coach cdbriscoe@nwosu.edu 580-327-8103
+• Lily Anderson Assistant Soccer Coach lmanderson@nwosu.edu
+• Efrain Barraza Head Softball Coach eabarraza@nwosu.edu 580-327-8102
+• Jon Bingesser Head Volleyball Coach jcbingesser@nwosu.edu 580-327-8667
+• Jill Lancaster Head Women's Track and Field Coach jllancaster@nwosu.edu 327-8668
+• Zaccheus Beasley Assistant Men's & Women's Track Coach zdbeasley@nwosu.edu 580-327-8653
+• Zaccheus Beasley Assistant Men's & Women's Track Coach zdbeasley@nwosu.edu 580-327-8653

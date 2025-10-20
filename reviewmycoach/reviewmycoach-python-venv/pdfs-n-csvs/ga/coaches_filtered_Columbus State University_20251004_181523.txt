@@ -1,0 +1,197 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:23
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kristin Culpepper
+   Email: culpepper_kristin@columbusstate.edu
+   Username: culpepper_kristin
+   Original line: Kristin Culpepper Head Women's Golf Coach / Senior Woman Administrator 706-565- culpepper_kristin@columbusstate.edu
+
+2. Greg Appleton
+   Email: appleton_greg@columbusstate.edu
+   Username: appleton_greg
+   Original line: Greg Appleton Head Coach 706-568- appleton_greg@columbusstate.edu
+
+3. Patrick Collins
+   Email: collins_patrick@columbusstate.edu
+   Username: collins_patrick
+   Original line: Patrick Collins Associate Head Coach 706-562- collins_patrick@columbusstate.edu
+
+4. Carson Bowers
+   Email: bowers_carson@columbusstate.edu
+   Username: bowers_carson
+   Original line: Carson Bowers Assistant Baseball Coach 706-562- bowers_carson@columbusstate.edu
+
+5. Ryan Insco
+   Email: insco_ryan@students.columbusstate.edu
+   Username: insco_ryan
+   Original line: Ryan Insco Graduate Assistant Coach 706-562- insco_ryan@students.columbusstate.edu
+
+6. Derek Wylie
+   Email: wylie_derek@columbusstate.edu
+   Username: wylie_derek
+   Original line: Derek Wylie Graduate Assistant Coach 706-562- wylie_derek@columbusstate.edu
+
+7. Jimbo Davis
+   Email: davis_james@columbusstate.edu
+   Username: davis_james
+   Original line: Jimbo Davis Head Coach 706-568- davis_james@columbusstate.edu
+
+8. Xavier Matthews
+   Email: matthews_xavier@columbusstate.edu
+   Username: matthews_xavier
+   Original line: Xavier Matthews Head Coach 706-507- matthews_xavier@columbusstate.edu
+
+9. Anthony McWilliams
+   Email: mcwilliams_anthony@columbusstate.edu
+   Username: mcwilliams_anthony
+   Original line: Anthony McWilliams Assistant Coach 706-507- mcwilliams_anthony@columbusstate.edu
+
+10. Shanila Chapman
+   Email: chapman_shanila@columbusstate.edu
+   Username: chapman_shanila
+   Original line: Shanila Chapman Assistant Coach 706-507- chapman_shanila@columbusstate.edu
+
+11. Anthony McWilliams
+   Email: mcwilliams_anthony@columbusstate.edu
+   Username: mcwilliams_anthony
+   Original line: Anthony McWilliams Assistant Coach 706-507- mcwilliams_anthony@columbusstate.edu
+
+12. Robert Moore
+   Email: moore_robert@columbusstate.edu
+   Username: moore_robert
+   Original line: Robert Moore Head Coach 706-587- moore_robert@columbusstate.edu
+
+13. Karl Ivey
+   Email: ivey_karl@columbusstate.edu
+   Username: ivey_karl
+   Original line: Karl Ivey Assistant Coach ivey_karl@columbusstate.edu
+
+14. Stuart Mills-Wells
+   Email: millswells_stuart@columbusstate.edu
+   Username: millswells_stuart
+   Original line: Stuart Mills-Wells Graduate Assistant Coach 706-565- millswells_stuart@columbusstate.edu
+
+15. Evan Isaacs
+   Email: isaacs_evan@columbusstate.edu
+   Username: isaacs_evan
+   Original line: Evan Isaacs Head Coach 706-565- isaacs_evan@columbusstate.edu
+
+16. Brad Huskisson
+   Email: huskisson_brad@columbusstate.edu
+   Username: huskisson_brad
+   Original line: Brad Huskisson Head Coach 706-569- huskisson_brad@columbusstate.edu
+
+17. Giulia Cianfriglia
+   Email: cianfriglia_giulia@columbusstate.edu
+   Username: cianfriglia_giulia
+   Original line: Giulia Cianfriglia Graduate Assistant Coach 706-569- cianfriglia_giulia@columbusstate.edu
+
+18. Xavier Matthews
+   Email: matthews_xavier@columbusstate.edu
+   Username: matthews_xavier
+   Original line: Xavier Matthews Head Coach 706-507- matthews_xavier@columbusstate.edu
+
+19. Anthony McWilliams
+   Email: mcwilliams_anthony@columbusstate.edu
+   Username: mcwilliams_anthony
+   Original line: Anthony McWilliams Assistant Coach 706-507- mcwilliams_anthony@columbusstate.edu
+
+20. Greg Hart
+   Email: hart_gregory@columbusstate.edu
+   Username: hart_gregory
+   Original line: Greg Hart Assistant Coach (Field Events) 706-507- hart_gregory@columbusstate.edu
+
+21. Shanila Chapman
+   Email: chapman_shanila@columbusstate.edu
+   Username: chapman_shanila
+   Original line: Shanila Chapman Assistant Coach 706-507- chapman_shanila@columbusstate.edu
+
+22. Matt Houser
+   Email: houser_matt@columbusstate.edu
+   Username: houser_matt
+   Original line: Matt Houser Head Coach 706-562- houser_matt@columbusstate.edu
+
+23. Jada Walton
+   Email: walton_jada1@columbusstate.edu
+   Username: walton_jada1
+   Original line: Jada Walton Assistant Coach walton_jada1@columbusstate.edu
+
+24. Veronika Roberts
+   Email: roberts_veronika@columbusstate.edu
+   Username: roberts_veronika
+   Original line: Veronika Roberts Graduate Assistant Coach 706-562- roberts_veronika@columbusstate.edu
+
+25. Hya Haywood
+   Email: haywood_hya@students.columbusstate.edu
+   Username: haywood_hya
+   Original line: Hya Haywood Graduate Assistant Coach haywood_hya@students.columbusstate.edu
+
+26. Kristin Culpepper
+   Email: culpepper_kristin@columbusstate.edu
+   Username: culpepper_kristin
+   Original line: Kristin Culpepper Head Women's Golf Coach / Senior Woman Administrator 706-565- culpepper_kristin@columbusstate.edu
+
+27. Jay Entlich
+   Email: entlich_jay@columbusstate.edu
+   Username: entlich_jay
+   Original line: Jay Entlich Head Coach 706-464- entlich_jay@columbusstate.edu
+
+28. Salsa Andrade
+   Email: andrade_mario@columbusstate.edu
+   Username: andrade_mario
+   Original line: Salsa Andrade Assistant Coach 706-464- andrade_mario@columbusstate.edu
+
+29. Shelby Watkins
+   Email: watkins_shelby@students.columbusstate.edu
+   Username: watkins_shelby
+   Original line: Shelby Watkins Graduate Assistant Coach 706-464- watkins_shelby@students.columbusstate.edu
+
+30. Jackie DeNova
+   Email: denova_jackie@columbusstate.edu
+   Username: denova_jackie
+   Original line: Jackie DeNova Volunteer Assistant Coach denova_jackie@columbusstate.edu
+
+31. Evan Isaacs
+   Email: isaacs_evan@columbusstate.edu
+   Username: isaacs_evan
+   Original line: Evan Isaacs Head Coach 706-565- isaacs_evan@columbusstate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kristin Culpepper Head Women's Golf Coach / Senior Woman Administrator 706-565- culpepper_kristin@columbusstate.edu
+• Greg Appleton Head Coach 706-568- appleton_greg@columbusstate.edu
+• Patrick Collins Associate Head Coach 706-562- collins_patrick@columbusstate.edu
+• Carson Bowers Assistant Baseball Coach 706-562- bowers_carson@columbusstate.edu
+• Ryan Insco Graduate Assistant Coach 706-562- insco_ryan@students.columbusstate.edu
+• Derek Wylie Graduate Assistant Coach 706-562- wylie_derek@columbusstate.edu
+• Jimbo Davis Head Coach 706-568- davis_james@columbusstate.edu
+• Xavier Matthews Head Coach 706-507- matthews_xavier@columbusstate.edu
+• Anthony McWilliams Assistant Coach 706-507- mcwilliams_anthony@columbusstate.edu
+• Shanila Chapman Assistant Coach 706-507- chapman_shanila@columbusstate.edu
+• Anthony McWilliams Assistant Coach 706-507- mcwilliams_anthony@columbusstate.edu
+• Robert Moore Head Coach 706-587- moore_robert@columbusstate.edu
+• Karl Ivey Assistant Coach ivey_karl@columbusstate.edu
+• Stuart Mills-Wells Graduate Assistant Coach 706-565- millswells_stuart@columbusstate.edu
+• Evan Isaacs Head Coach 706-565- isaacs_evan@columbusstate.edu
+• Brad Huskisson Head Coach 706-569- huskisson_brad@columbusstate.edu
+• Giulia Cianfriglia Graduate Assistant Coach 706-569- cianfriglia_giulia@columbusstate.edu
+• Xavier Matthews Head Coach 706-507- matthews_xavier@columbusstate.edu
+• Anthony McWilliams Assistant Coach 706-507- mcwilliams_anthony@columbusstate.edu
+• Greg Hart Assistant Coach (Field Events) 706-507- hart_gregory@columbusstate.edu
+• Shanila Chapman Assistant Coach 706-507- chapman_shanila@columbusstate.edu
+• Matt Houser Head Coach 706-562- houser_matt@columbusstate.edu
+• Jada Walton Assistant Coach walton_jada1@columbusstate.edu
+• Veronika Roberts Graduate Assistant Coach 706-562- roberts_veronika@columbusstate.edu
+• Hya Haywood Graduate Assistant Coach haywood_hya@students.columbusstate.edu
+• Kristin Culpepper Head Women's Golf Coach / Senior Woman Administrator 706-565- culpepper_kristin@columbusstate.edu
+• Jay Entlich Head Coach 706-464- entlich_jay@columbusstate.edu
+• Salsa Andrade Assistant Coach 706-464- andrade_mario@columbusstate.edu
+• Shelby Watkins Graduate Assistant Coach 706-464- watkins_shelby@students.columbusstate.edu
+• Jackie DeNova Volunteer Assistant Coach denova_jackie@columbusstate.edu
+• Evan Isaacs Head Coach 706-565- isaacs_evan@columbusstate.edu

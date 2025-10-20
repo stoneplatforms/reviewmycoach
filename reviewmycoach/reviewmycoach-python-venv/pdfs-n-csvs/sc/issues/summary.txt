@@ -1,0 +1,19 @@
+Printing results: Success=25 Skipped=2 Errors=0
+
+Skipped/Failed links:
+- Limestone University.pdf: https://golimestonesaints.com/staff-directory -> HTTP 404 returned
+  tried: https://golimestonesaints.com/staff-directory?print=true, https://golimestonesaints.com/staff-directory/print, https://golimestonesaints.com/staff-directory, https://golimestonesaints.com/staff-directory/index?print=true, https://golimestonesaints.com/staff-directory/index/print, https://golimestonesaints.com/staff-directory/index
+- Morris College.pdf: https://athletics.morris.edu -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://athletics.morris.edu/index
+Call log:
+  - navigating to "https://athletics.morris.edu/index", waiting until "networkidle"
+
+  tried: https://athletics.morris.edu?print=true, https://athletics.morris.edu/print, https://athletics.morris.edu, https://athletics.morris.edu/index?print=true, https://athletics.morris.edu/index/print, https://athletics.morris.edu/index
+
+PDFs with zero coaches detected:
+- Clemson University.pdf
+- University of South Carolina.pdf
+- Voorhees University.pdf
+- Coker University.pdf
+- North Greenville University.pdf
+- Winthrop University.pdf
+- The Citadel.pdf

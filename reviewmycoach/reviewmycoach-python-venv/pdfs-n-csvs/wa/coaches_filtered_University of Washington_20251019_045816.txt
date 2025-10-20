@@ -1,0 +1,77 @@
+COACH ENTRIES FOUND - 2025-10-19 04:58:19
+============================================================
+
+Total coaches found: 11
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Cheer
+   Email: rrtovar@uw.edu
+   Username: rrtovar
+   Original line: Head Cheer and Dance Coach rrtovar@uw.edu
+
+2.  
+   Email: coachgib@uw.edu
+   Username: coachgib
+   Original line: coachgib@uw.edu Full Bio
+
+3. Head Coach
+   Email: alanm4@uw.edu
+   Username: alanm4
+   Original line: Head Coach alanm4@uw.edu
+
+4. Men's Head
+   Email: rowing@uw.edu
+   Username: rowing
+   Original line: Men's Head Coach rowing@uw.edu
+
+5. Assistant Coach
+   Email: tewenk@uw.edu
+   Username: tewenk
+   Original line: Assistant Coach tewenk@uw.edu
+
+6. Head Coach
+   Email: yfarooq@uw.edu
+   Username: yfarooq
+   Original line: Head Coach yfarooq@uw.edu
+
+7. Head Freshman
+   Email: mjwana@uw.edu
+   Username: mjwana
+   Original line: Head Freshman Coach mjwana@uw.edu
+
+8. Head Coach
+   Email: huskysoccer@uw.edu
+   Username: huskysoccer
+   Original line: Head Coach huskysoccer@uw.edu
+
+9. Head Coach
+   Email: htarr@uw.edu
+   Username: htarr
+   Original line: Head Coach htarr@uw.edu
+
+10. Head Coach
+   Email: rsteph06@uw.edu
+   Username: rsteph06
+   Original line: Head Coach rsteph06@uw.edu
+
+11. Head Coach
+   Email: ltui@uw.edu
+   Username: ltui
+   Original line: Head Coach ltui@uw.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Cheer and Dance Coach rrtovar@uw.edu
+• coachgib@uw.edu Full Bio
+• Head Coach alanm4@uw.edu
+• Men's Head Coach rowing@uw.edu
+• Assistant Coach tewenk@uw.edu
+• Head Coach yfarooq@uw.edu
+• Head Freshman Coach mjwana@uw.edu
+• Head Coach huskysoccer@uw.edu
+• Head Coach htarr@uw.edu
+• Head Coach rsteph06@uw.edu
+• Head Coach ltui@uw.edu

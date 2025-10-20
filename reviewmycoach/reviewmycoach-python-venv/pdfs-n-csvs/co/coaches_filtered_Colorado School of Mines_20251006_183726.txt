@@ -1,0 +1,197 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:26
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Trevor Florendo
+   Email: tflorend@mines.edu
+   Username: tflorend
+   Original line: Trevor Florendo Head Strength and Conditioning Coach/Athletic tflorend@mines.edu 303-384- Korell 104
+
+2. Isaiah Castilleja
+   Email: ipcastil@mines.edu
+   Username: ipcastil
+   Original line: Isaiah Castilleja Assistant Strength & Conditioning Coach ipcastil@mines.edu 303-273- Volk 204B
+
+3. Robby Bales
+   Email: rbales@mines.edu
+   Username: rbales
+   Original line: Robby Bales Head Coach rbales@mines.edu 303-273- Volk 222
+
+4. Bryan King
+   Email: bryanking@mines.edu
+   Username: bryanking
+   Original line: Bryan King Assistant Coach/Recruiting Coordinator bryanking@mines.edu 303-273- Volk 222
+
+5. Justin Durnil
+   Email: justin.durnil@mines.edu
+   Username: justin.durnil
+   Original line: Justin Durnil Pitching Coach justin.durnil@mines.edu 303-273- Volk 222
+
+6. Pryor Orser
+   Email: porser@mines.edu
+   Username: porser
+   Original line: Pryor Orser Head Coach porser@mines.edu 303-273- Volk 326A
+
+7. Brad Schick
+   Email: bschick@mines.edu
+   Username: bschick
+   Original line: Brad Schick Assistant Coach bschick@mines.edu 303-273- Volk 326A
+
+8. Brittany Simpson
+   Email: bsimpson@mines.edu
+   Username: bsimpson
+   Original line: Brittany Simpson Head Coach bsimpson@mines.edu 303-273- Volk
+
+9. Taylor Harris
+   Email: taylor.harris@mines.edu
+   Username: taylor.harris
+   Original line: Taylor Harris Assistant Coach taylor.harris@mines.edu 303-273- Volk 315
+
+10. Daniele Favata
+   Email: Daniele.favata@mines.edu
+   Username: Daniele.favata
+   Original line: Daniele Favata Cheer Head Coach Daniele.favata@mines.edu Volk 140
+
+11. Michelle Sims
+   Email: msims@mines.edu
+   Username: msims
+   Original line: Michelle Sims Dance Head Coach msims@mines.edu Volk 140
+
+12. Chris Siemers
+   Email: csiemers@mines.edu
+   Username: csiemers
+   Original line: Chris Siemers Head Coach csiemers@mines.edu 303-273- Korell 113
+
+13. Tyler Kimble
+   Email: tkimble@mines.edu
+   Username: tkimble
+   Original line: Tyler Kimble Head Coach tkimble@mines.edu 303-273- Volk 112
+
+14. Greg Mulholland
+   Email: gmulholl@mines.edu
+   Username: gmulholl
+   Original line: Greg Mulholland Head Coach gmulholl@mines.edu 303-384- Volk 220
+
+15. Ben Fredrickson
+   Email: ben.fredrickson@mines.edu
+   Username: ben.fredrickson
+   Original line: Ben Fredrickson Assistant Coach ben.fredrickson@mines.edu Volk 220
+
+16. Kevin Fickes
+   Email: kfickes@mines.edu
+   Username: kfickes
+   Original line: Kevin Fickes Head Coach kfickes@mines.edu 303-273- Volk 220
+
+17. Shannon DeVoe
+   Email: smcdonne@mines.edu
+   Username: smcdonne
+   Original line: Shannon DeVoe Assistant Coach smcdonne@mines.edu 303-384- Volk 220
+
+18. Tobin Echo-Hawk
+   Email: tobin.echohawk@mines.edu
+   Username: tobin.echohawk
+   Original line: Tobin Echo-Hawk Head Coach tobin.echohawk@mines.edu 303-273- Volk 222
+
+19. Zoe Bacon
+   Email: zoe.bacon@mines.edu
+   Username: zoe.bacon
+   Original line: Zoe Bacon Assistant Coach zoe.bacon@mines.edu Volk 222
+
+20. Claire McDaniel
+   Email: cmcdaniel@mines.edu
+   Username: cmcdaniel
+   Original line: Claire McDaniel Head Coach cmcdaniel@mines.edu 303-273- SRC Pool
+
+21. Brad Shannon
+   Email: brad.shannon@mines.edu
+   Username: brad.shannon
+   Original line: Brad Shannon Assistant Coach brad.shannon@mines.edu 303-273- SRC Pool
+
+22. Katherine Andrie
+   Email: katherine.andrie@mines.edu
+   Username: katherine.andrie
+   Original line: Katherine Andrie Diving Coach katherine.andrie@mines.edu 303-273- SRC Pool
+
+23. Graham Walker
+   Email: graham.walker@mines.edu
+   Username: graham.walker
+   Original line: Graham Walker Assistant Coach graham.walker@mines.edu 303-273- SRC Pool
+
+24. Matt Sparks
+   Email: mdsparks@mines.edu
+   Username: mdsparks
+   Original line: Matt Sparks Head Coach mdsparks@mines.edu 303-273- Korell 122
+
+25. Chris Siemers
+   Email: csiemers@mines.edu
+   Username: csiemers
+   Original line: Chris Siemers Assistant Coach/Distance csiemers@mines.edu 303-273- Korell 113
+
+26. Michael Gusbeth
+   Email: mgusbeth@mines.edu
+   Username: mgusbeth
+   Original line: Michael Gusbeth Assistant Coach/Throws mgusbeth@mines.edu 303-273 Korell 112
+
+27. Jocelyn Sparks
+   Email: jrsparks@mines.edu
+   Username: jrsparks
+   Original line: Jocelyn Sparks Assistant Coach/Pole Vault jrsparks@mines.edu Korell 122
+
+28. Jamie Magalei
+   Email: jskadela@mines.edu
+   Username: jskadela
+   Original line: Jamie Magalei Head Coach jskadela@mines.edu 303-273- Volk 326B
+
+29. Heather Dewhirst
+   Email: harobert@mines.edu
+   Username: harobert
+   Original line: Heather Dewhirst Assistant Coach harobert@mines.edu 303-273- Volk 316
+
+30. Austin DeVoe
+   Email: adevoe@mines.edu
+   Username: adevoe
+   Original line: Austin DeVoe Head Coach adevoe@mines.edu 303-273- Volk 204A
+
+31. Dakota Bauer
+   Email: dtbauer@mines.edu
+   Username: dtbauer
+   Original line: Dakota Bauer Assistant Coach dtbauer@mines.edu 303-273- Volk 202
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Trevor Florendo Head Strength and Conditioning Coach/Athletic tflorend@mines.edu 303-384- Korell 104
+• Isaiah Castilleja Assistant Strength & Conditioning Coach ipcastil@mines.edu 303-273- Volk 204B
+• Robby Bales Head Coach rbales@mines.edu 303-273- Volk 222
+• Bryan King Assistant Coach/Recruiting Coordinator bryanking@mines.edu 303-273- Volk 222
+• Justin Durnil Pitching Coach justin.durnil@mines.edu 303-273- Volk 222
+• Pryor Orser Head Coach porser@mines.edu 303-273- Volk 326A
+• Brad Schick Assistant Coach bschick@mines.edu 303-273- Volk 326A
+• Brittany Simpson Head Coach bsimpson@mines.edu 303-273- Volk
+• Taylor Harris Assistant Coach taylor.harris@mines.edu 303-273- Volk 315
+• Daniele Favata Cheer Head Coach Daniele.favata@mines.edu Volk 140
+• Michelle Sims Dance Head Coach msims@mines.edu Volk 140
+• Chris Siemers Head Coach csiemers@mines.edu 303-273- Korell 113
+• Tyler Kimble Head Coach tkimble@mines.edu 303-273- Volk 112
+• Greg Mulholland Head Coach gmulholl@mines.edu 303-384- Volk 220
+• Ben Fredrickson Assistant Coach ben.fredrickson@mines.edu Volk 220
+• Kevin Fickes Head Coach kfickes@mines.edu 303-273- Volk 220
+• Shannon DeVoe Assistant Coach smcdonne@mines.edu 303-384- Volk 220
+• Tobin Echo-Hawk Head Coach tobin.echohawk@mines.edu 303-273- Volk 222
+• Zoe Bacon Assistant Coach zoe.bacon@mines.edu Volk 222
+• Claire McDaniel Head Coach cmcdaniel@mines.edu 303-273- SRC Pool
+• Brad Shannon Assistant Coach brad.shannon@mines.edu 303-273- SRC Pool
+• Katherine Andrie Diving Coach katherine.andrie@mines.edu 303-273- SRC Pool
+• Graham Walker Assistant Coach graham.walker@mines.edu 303-273- SRC Pool
+• Matt Sparks Head Coach mdsparks@mines.edu 303-273- Korell 122
+• Chris Siemers Assistant Coach/Distance csiemers@mines.edu 303-273- Korell 113
+• Michael Gusbeth Assistant Coach/Throws mgusbeth@mines.edu 303-273 Korell 112
+• Jocelyn Sparks Assistant Coach/Pole Vault jrsparks@mines.edu Korell 122
+• Jamie Magalei Head Coach jskadela@mines.edu 303-273- Volk 326B
+• Heather Dewhirst Assistant Coach harobert@mines.edu 303-273- Volk 316
+• Austin DeVoe Head Coach adevoe@mines.edu 303-273- Volk 204A
+• Dakota Bauer Assistant Coach dtbauer@mines.edu 303-273- Volk 202

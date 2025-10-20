@@ -1,0 +1,191 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:13
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Justin Scali
+   Email: jscali@piedmont.edu
+   Username: jscali
+   Original line: Justin Scali Head Baseball Coach & Assistant Athletic Director 1530 jscali@piedmont.edu
+
+2. Trey Pearce
+   Email: tpearce@piedmont.edu
+   Username: tpearce
+   Original line: Trey Pearce Associate Head Baseball Coach 2843 tpearce@piedmont.edu
+
+3. JC Cavin
+   Email: jcavin@piedmont.edu
+   Username: jcavin
+   Original line: JC Cavin Head Men's Basketball Coach jcavin@piedmont.edu
+
+4. Justin Hoshauer
+   Email: jhoshauer@piedmont.edu
+   Username: jhoshauer
+   Original line: Justin Hoshauer Assistant Men's Basketball Coach 1903 jhoshauer@piedmont.edu
+
+5. Jamie Purdy
+   Email: jpurdy@piedmont.edu
+   Username: jpurdy
+   Original line: Jamie Purdy Director of Intercollegiate Athletics & Head Women's Basketball Coach 1284 jpurdy@piedmont.edu
+
+6. Christian Buckmire
+   Email: cbuckmire@piedmont.edu
+   Username: cbuckmire
+   Original line: Christian Buckmire Assistant Women's Basketball Coach 1285 cbuckmire@piedmont.edu
+
+7. Gary Halverson
+   Email: ghalverson@piedmont.edu
+   Username: ghalverson
+   Original line: Gary Halverson Head Cross Country / Assistant Track & Field Coach ghalverson@piedmont.edu
+
+8. Jame Carney
+   Email: jcarney@piedmont.edu
+   Username: jcarney
+   Original line: Jame Carney Head Cycling Coach 1453 jcarney@piedmont.edu
+
+9. Emma Frost
+   Email: efrost@piedmont.edu
+   Username: efrost
+   Original line: Emma Frost Assistant Cycling Coach efrost@piedmont.edu
+
+10. Dustin Meadows
+   Email: dmeadows@piedmont.edu
+   Username: dmeadows
+   Original line: Dustin Meadows Head Men's Golf Coach 1194 dmeadows@piedmont.edu
+
+11. Blake Watson
+   Email: bwatson@piedmont.edu
+   Username: bwatson
+   Original line: Blake Watson Head Women's Golf Coach bwatson@piedmont.edu
+
+12. Tim Dunton
+   Email: tdunton@piedmont.edu
+   Username: tdunton
+   Original line: Tim Dunton Head Men's Lacrosse Coach & Assistant Athletic Director / Compliance 1057 tdunton@piedmont.edu
+
+13. Zach Czulada
+   Email: zczulada@piedmont.edu
+   Username: zczulada
+   Original line: Zach Czulada Assistant Men's Lacrosse Coach zczulada@piedmont.edu
+
+14. Brooke Thacker
+   Email: bthacker@piedmont.edu
+   Username: bthacker
+   Original line: Brooke Thacker Head Women's Lacrosse Coach 2829 bthacker@piedmont.edu
+
+15. Monti Hendrix
+   Email: mhendrix@piedmont.edu
+   Username: mhendrix
+   Original line: Monti Hendrix Assistant Women's Lacrosse Coach 1173 mhendrix@piedmont.edu
+
+16. Jimmy Stephens
+   Email: jstephens@piedmont.edu
+   Username: jstephens
+   Original line: Jimmy Stephens Head Men's Soccer Coach 1208 jstephens@piedmont.edu
+
+17. Zack Ernst
+   Email: zernst@piedmont.edu
+   Username: zernst
+   Original line: Zack Ernst Assistant Men's Soccer Coach 2830 zernst@piedmont.edu
+
+18. Timmy McCormack
+   Email: tmccormack@piedmont.edu
+   Username: tmccormack
+   Original line: Timmy McCormack Assistant Athletic Director & Head Women's Soccer Coach 1058 tmccormack@piedmont.edu
+
+19. Stephanie Lamm
+   Email: slamm@piedmont.edu
+   Username: slamm
+   Original line: Stephanie Lamm Assistant Women's Soccer Coach 2813 slamm@piedmont.edu
+
+20. Terry Martin
+   Email: wtmartin@piedmont.edu
+   Username: wtmartin
+   Original line: Terry Martin Head Softball Coach 1288 wtmartin@piedmont.edu
+
+21. Drew Greer
+   Email: dgreer@piedmont.edu
+   Username: dgreer
+   Original line: Drew Greer Assistant Softball Coach 1147 dgreer@piedmont.edu
+
+22. Teddy Guyer
+   Email: tguyer@piedmont.edu
+   Username: tguyer
+   Original line: Teddy Guyer Head Men's & Women's Swimming Coach 1555 tguyer@piedmont.edu
+
+23. Matt Williams
+   Email: mattwilliams@piedmont.edu
+   Username: mattwilliams
+   Original line: Matt Williams Head Men's Tennis Coach/Asst. Women's Tennis Coach 1234 mattwilliams@piedmont.edu
+
+24. Trey Martin
+   Email: tmartin@piedmont.edu
+   Username: tmartin
+   Original line: Trey Martin Head Women's Tennis Coach/Asst. Men's Tennis Coach 2822 tmartin@piedmont.edu
+
+25. Trey Martin
+   Email: tmartin@piedmont.edu
+   Username: tmartin
+   Original line: Trey Martin Head Women's Tennis Coach/Asst. Men's Tennis Coach 2822 tmartin@piedmont.edu
+
+26. Matt Williams
+   Email: mattwilliams@piedmont.edu
+   Username: mattwilliams
+   Original line: Matt Williams Head Men's Tennis Coach/Asst. Women's Tennis Coach 1234 mattwilliams@piedmont.edu
+
+27. Gary Halverson
+   Email: ghalverson@piedmont.edu
+   Username: ghalverson
+   Original line: Gary Halverson Head Cross Country / Assistant Track & Field Coach ghalverson@piedmont.edu
+
+28. Kat Tatum
+   Email: ktatum@piedmont.edu
+   Username: ktatum
+   Original line: Kat Tatum Head Volleyball Coach ktatum@piedmont.edu
+
+29. J'ernai Argilagos
+   Email: jargilagos@piedmont.edu
+   Username: jargilagos
+   Original line: J'ernai Argilagos Assistant Volleyball Coach jargilagos@piedmont.edu
+
+30. Cristen Rabern
+   Email: crabern@piedmont.edu
+   Username: crabern
+   Original line: Cristen Rabern Head Cheerleading Coach 1345 crabern@piedmont.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Justin Scali Head Baseball Coach & Assistant Athletic Director 1530 jscali@piedmont.edu
+• Trey Pearce Associate Head Baseball Coach 2843 tpearce@piedmont.edu
+• JC Cavin Head Men's Basketball Coach jcavin@piedmont.edu
+• Justin Hoshauer Assistant Men's Basketball Coach 1903 jhoshauer@piedmont.edu
+• Jamie Purdy Director of Intercollegiate Athletics & Head Women's Basketball Coach 1284 jpurdy@piedmont.edu
+• Christian Buckmire Assistant Women's Basketball Coach 1285 cbuckmire@piedmont.edu
+• Gary Halverson Head Cross Country / Assistant Track & Field Coach ghalverson@piedmont.edu
+• Jame Carney Head Cycling Coach 1453 jcarney@piedmont.edu
+• Emma Frost Assistant Cycling Coach efrost@piedmont.edu
+• Dustin Meadows Head Men's Golf Coach 1194 dmeadows@piedmont.edu
+• Blake Watson Head Women's Golf Coach bwatson@piedmont.edu
+• Tim Dunton Head Men's Lacrosse Coach & Assistant Athletic Director / Compliance 1057 tdunton@piedmont.edu
+• Zach Czulada Assistant Men's Lacrosse Coach zczulada@piedmont.edu
+• Brooke Thacker Head Women's Lacrosse Coach 2829 bthacker@piedmont.edu
+• Monti Hendrix Assistant Women's Lacrosse Coach 1173 mhendrix@piedmont.edu
+• Jimmy Stephens Head Men's Soccer Coach 1208 jstephens@piedmont.edu
+• Zack Ernst Assistant Men's Soccer Coach 2830 zernst@piedmont.edu
+• Timmy McCormack Assistant Athletic Director & Head Women's Soccer Coach 1058 tmccormack@piedmont.edu
+• Stephanie Lamm Assistant Women's Soccer Coach 2813 slamm@piedmont.edu
+• Terry Martin Head Softball Coach 1288 wtmartin@piedmont.edu
+• Drew Greer Assistant Softball Coach 1147 dgreer@piedmont.edu
+• Teddy Guyer Head Men's & Women's Swimming Coach 1555 tguyer@piedmont.edu
+• Matt Williams Head Men's Tennis Coach/Asst. Women's Tennis Coach 1234 mattwilliams@piedmont.edu
+• Trey Martin Head Women's Tennis Coach/Asst. Men's Tennis Coach 2822 tmartin@piedmont.edu
+• Trey Martin Head Women's Tennis Coach/Asst. Men's Tennis Coach 2822 tmartin@piedmont.edu
+• Matt Williams Head Men's Tennis Coach/Asst. Women's Tennis Coach 1234 mattwilliams@piedmont.edu
+• Gary Halverson Head Cross Country / Assistant Track & Field Coach ghalverson@piedmont.edu
+• Kat Tatum Head Volleyball Coach ktatum@piedmont.edu
+• J'ernai Argilagos Assistant Volleyball Coach jargilagos@piedmont.edu
+• Cristen Rabern Head Cheerleading Coach 1345 crabern@piedmont.edu

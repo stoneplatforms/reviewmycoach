@@ -1,0 +1,304 @@
+COACH ENTRIES FOUND - 2025-10-19 04:36:18
+============================================================
+
+Total coaches found: 45
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jacob Upwood
+   Email: upwoodjd@pacificu.edu
+   Username: upwoodjd
+   Phone: (971) 997-6543
+   Original line: Jacob Upwood Head Baseball Coach upwoodjd@pacificu.edu 971-997-6543
+
+2. Ryan Krout
+   Email: krou1316@pacificu.edu
+   Username: krou1316
+   Phone: (971) 517-5263
+   Original line: Ryan Krout Assistant Baseball Coach krou1316@pacificu.edu 971-517-5263
+
+3. Justin Lunt
+   Email: CoachLunt@pacificu.edu
+   Username: CoachLunt
+   Phone: (503) 352-2949
+   Original line: Justin Lunt Head Men's Basketball Coach CoachLunt@pacificu.edu 503-352-2949
+
+4. Brandon Hellstrom
+   Email: bhellstrom@pacificu.edu
+   Username: bhellstrom
+   Original line: Brandon Hellstrom Assistant Coach bhellstrom@pacificu.edu
+
+5. Ethan Moss
+   Email: moss1761@pacificu.edu
+   Username: moss1761
+   Original line: Ethan Moss Assistant Coach moss1761@pacificu.edu
+
+6. Alecia Parker
+   Email: Alecia.wilson@pacificu.edu
+   Username: Alecia.wilson
+   Phone: (503) 352-2835
+   Original line: Alecia Parker Head Women's Basketball Coach Alecia.wilson@pacificu.edu 503-352-2835
+
+7. Abby Anderson
+   Email: ande1318@pacificu.edu
+   Username: ande1318
+   Original line: Abby Anderson Assistant Coach/Head JV Coach ande1318@pacificu.edu
+
+8. Riley Stewart
+   Email: stew7633@pacificu.edu
+   Username: stew7633
+   Phone: (971) 997-6417
+   Original line: Riley Stewart Head Cross Country/Assistant Track Coach stew7633@pacificu.edu 971-997-6417
+
+9. Ryan Hunter-Simms
+   Email: Simms@pacificu.edu
+   Username: Simms
+   Phone: (503) 984-1844
+   Original line: Ryan Hunter-Simms Head Track & Field Coach / Assistant Cross Country Simms@pacificu.edu 503-984-1844
+
+10. Ian Falconer
+   Email: boxerfootball@pacificu.edu
+   Username: boxerfootball
+   Phone: (503) 352-1606
+   Original line: Ian Falconer Head Football Coach boxerfootball@pacificu.edu 503-352-1606
+
+11. Jim Craft
+   Email: coachjcraft@pacificu.edu
+   Username: coachjcraft
+   Phone: (503) 352-1603
+   Original line: Jim Craft Associate Head Coach coachjcraft@pacificu.edu 503-352-1603
+
+12. Kit Taura
+   Email: Coach_Taura@pacificu.edu
+   Username: Coach_Taura
+   Phone: (808) 349-0225
+   Original line: Kit Taura Offensive Line Coach/Strength and Conditioning Coordinator Coach_Taura@pacificu.edu 808-349-0225
+
+13. Justin Leatherman
+   Email: coachleathers@pacificu.edu
+   Username: coachleathers
+   Original line: Justin Leatherman Special Teams Co-Coordinator/Safeties coachleathers@pacificu.edu
+
+14. Nainoa Coelho-Lopes
+   Email: ncoelho-lopes@pacificu.edu
+   Username: ncoelho-lopes
+   Original line: Nainoa Coelho-Lopes Wide Receivers Coach/Special Teams Co-Coordinator ncoelho-lopes@pacificu.edu
+
+15. Zach Camy
+   Email: camy5036@pacificu.edu
+   Username: camy5036
+   Original line: Zach Camy Edge Coach camy5036@pacificu.edu
+
+16. Brayan Castellanos
+   Email: brayanc@pacificu.edu
+   Username: brayanc
+   Original line: Brayan Castellanos Running Backs Coach brayanc@pacificu.edu
+
+17. Ben LoPrimo
+   Email: CoachLoPrimo@pacificu.edu
+   Username: CoachLoPrimo
+   Original line: Ben LoPrimo Corners Coach CoachLoPrimo@pacificu.edu
+
+18. Erin Lind
+   Email: Elind22@pacificu.edu
+   Username: Elind22
+   Phone: (503) 352-2271
+   Original line: Erin Lind Head Golf Coach Elind22@pacificu.edu 503-352-2271
+
+19. Aaron Benedetti
+   Email: abenedetti@pga.com
+   Username: abenedetti
+   Phone: (503) 501-8900
+   Original line: Aaron Benedetti Assistant Golf Coach abenedetti@pga.com 503-501-8900
+
+20. Brittany Hartmann
+   Email: hartmann@pacificu.edu
+   Username: hartmann
+   Phone: (503) 752-4965
+   Original line: Brittany Hartmann Head Women's Lacrosse Coach hartmann@pacificu.edu 503-752-4965
+
+21. Alexa Jellison
+   Email: ajellison@pacificu.edu
+   Username: ajellison
+   Phone: (503) 349-3620
+   Original line: Alexa Jellison Assistant Coach / Offensive Coordinator ajellison@pacificu.edu 503-349-3620
+
+22. Reba McLane
+   Email: t115001c@pacificu.edu
+   Username: t115001c
+   Original line: Reba McLane Assistant Coach t115001c@pacificu.edu
+
+23. Claire Ratcliff
+   Email: ratcliff.claire@pacificu.edu
+   Username: ratcliff.claire
+   Original line: Claire Ratcliff Head Women's Rowing Coach ratcliff.claire@pacificu.edu
+
+24. Brandon Porter
+   Email: brandonporter@pacificu.edu
+   Username: brandonporter
+   Phone: (503) 352-2272
+   Original line: Brandon Porter Head Men's Soccer Coach brandonporter@pacificu.edu 503-352-2272
+
+25. Jory Shene
+   Email: shen5807@pacificu.edu
+   Username: shen5807
+   Original line: Jory Shene Goalkeepers Coach shen5807@pacificu.edu
+
+26. Scott Wood
+   Email: scottwood@pacificu.edu
+   Username: scottwood
+   Original line: Scott Wood First Assistant Coach scottwood@pacificu.edu
+
+27. Kellan McNamara
+   Email: kellan.mcnamara@pacificu.edu
+   Username: kellan.mcnamara
+   Phone: (406) 529-7241
+   Original line: Kellan McNamara Head Women's Soccer Coach kellan.mcnamara@pacificu.edu 406-529-7241
+
+28. Scott Wood
+   Email: scottwood@pacificu.edu
+   Username: scottwood
+   Original line: Scott Wood First Assistant Coach scottwood@pacificu.edu
+
+29. Jory Shene
+   Email: shen5807@pacificu.edu
+   Username: shen5807
+   Original line: Jory Shene Goalkeepers Coach shen5807@pacificu.edu
+
+30. Shelly Prochaska
+   Email: prochaska31@pacificu.edu
+   Username: prochaska31
+   Original line: Shelly Prochaska Head Softball Coach prochaska31@pacificu.edu 1-971-997-
+
+31. Tabor Waterstreet
+   Email: wate6932@pacificu.edu
+   Username: wate6932
+   Original line: Tabor Waterstreet Head Swimming Coach wate6932@pacificu.edu
+
+32. Charles Morse
+   Email: Charles_m@pacificu.edu
+   Username: Charles_m
+   Original line: Charles Morse Assistant Swimming Coach Charles_m@pacificu.edu
+
+33. Rayden Murata
+   Email: raydenmurata@pacificu.edu
+   Username: raydenmurata
+   Phone: (808) 393-0613
+   Original line: Rayden Murata Head Men's Tennis Coach raydenmurata@pacificu.edu 808-393-0613
+
+34. Traci Binder
+   Email: TraciBinder@Pacificu.edu
+   Username: TraciBinder
+   Phone: (503) 352-3138
+   Original line: Traci Binder Head Women's Tennis Coach TraciBinder@Pacificu.edu 503-352-3138
+
+35. Katherine Lomartire
+   Email: Katherine.Lomartire@pacificu.edu
+   Username: Katherine.Lomartire
+   Original line: Katherine Lomartire Assistant Women's Tennis Coach Katherine.Lomartire@pacificu.edu
+
+36. Ryan Hunter-Simms
+   Email: Simms@pacificu.edu
+   Username: Simms
+   Phone: (503) 984-1844
+   Original line: Ryan Hunter-Simms Head Track & Field Coach / Assistant Cross Country Simms@pacificu.edu 503-984-1844
+
+37. MacKenzie Beeler
+   Email: beelerm@pacificu.edu
+   Username: beelerm
+   Phone: (971) 997-6509
+   Original line: MacKenzie Beeler Assistant Track and Field Coach beelerm@pacificu.edu 971-997-6509
+
+38. Riley Stewart
+   Email: stew7633@pacificu.edu
+   Username: stew7633
+   Phone: (971) 997-6417
+   Original line: Riley Stewart Head Cross Country/Assistant Track Coach stew7633@pacificu.edu 971-997-6417
+
+39. Rachel Renville
+   Email: rachel.renville@pacificu.edu
+   Username: rachel.renville
+   Phone: (303) 552-7698
+   Original line: Rachel Renville Head Coach rachel.renville@pacificu.edu 303-552-7698
+
+40. Sara Parker
+   Email: sara.parker@pacificu.edu
+   Username: sara.parker
+   Original line: Sara Parker Assistant/ Head JV Coach/ Recruiting Coordinator sara.parker@pacificu.edu
+
+41. Zach Binkerd
+   Email: bink7072@pacificu.edu
+   Username: bink7072
+   Phone: (503) 352-2827
+   Original line: Zach Binkerd Head Men’s and Women’s Wrestling Coach bink7072@pacificu.edu 503-352-2827
+
+42. Karissa Komo
+   Email: komo5911@pacificu.edu
+   Username: komo5911
+   Original line: Karissa Komo Head Handball Coach komo5911@pacificu.edu
+
+43. David Steinberg
+   Email: djsteinb@pacificu.edu
+   Username: djsteinb
+   Phone: (503) 352-2806
+   Original line: David Steinberg Assistant Handball Coach djsteinb@pacificu.edu 503-352-2806
+
+44. Craig Trull
+   Email: cstrull81@gmail.com
+   Username: cstrull81
+   Original line: Craig Trull Assistant Handball Coach cstrull81@gmail.com
+
+45. Ashley Quesnoy
+   Email: boxerspiritsquad@gmail.com
+   Username: boxerspiritsquad
+   Original line: Ashley Quesnoy Head Boxer Spirit Squad Coach boxerspiritsquad@gmail.com
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jacob Upwood Head Baseball Coach upwoodjd@pacificu.edu 971-997-6543
+• Ryan Krout Assistant Baseball Coach krou1316@pacificu.edu 971-517-5263
+• Justin Lunt Head Men's Basketball Coach CoachLunt@pacificu.edu 503-352-2949
+• Brandon Hellstrom Assistant Coach bhellstrom@pacificu.edu
+• Ethan Moss Assistant Coach moss1761@pacificu.edu
+• Alecia Parker Head Women's Basketball Coach Alecia.wilson@pacificu.edu 503-352-2835
+• Abby Anderson Assistant Coach/Head JV Coach ande1318@pacificu.edu
+• Riley Stewart Head Cross Country/Assistant Track Coach stew7633@pacificu.edu 971-997-6417
+• Ryan Hunter-Simms Head Track & Field Coach / Assistant Cross Country Simms@pacificu.edu 503-984-1844
+• Ian Falconer Head Football Coach boxerfootball@pacificu.edu 503-352-1606
+• Jim Craft Associate Head Coach coachjcraft@pacificu.edu 503-352-1603
+• Kit Taura Offensive Line Coach/Strength and Conditioning Coordinator Coach_Taura@pacificu.edu 808-349-0225
+• Justin Leatherman Special Teams Co-Coordinator/Safeties coachleathers@pacificu.edu
+• Nainoa Coelho-Lopes Wide Receivers Coach/Special Teams Co-Coordinator ncoelho-lopes@pacificu.edu
+• Zach Camy Edge Coach camy5036@pacificu.edu
+• Brayan Castellanos Running Backs Coach brayanc@pacificu.edu
+• Ben LoPrimo Corners Coach CoachLoPrimo@pacificu.edu
+• Erin Lind Head Golf Coach Elind22@pacificu.edu 503-352-2271
+• Aaron Benedetti Assistant Golf Coach abenedetti@pga.com 503-501-8900
+• Brittany Hartmann Head Women's Lacrosse Coach hartmann@pacificu.edu 503-752-4965
+• Alexa Jellison Assistant Coach / Offensive Coordinator ajellison@pacificu.edu 503-349-3620
+• Reba McLane Assistant Coach t115001c@pacificu.edu
+• Claire Ratcliff Head Women's Rowing Coach ratcliff.claire@pacificu.edu
+• Brandon Porter Head Men's Soccer Coach brandonporter@pacificu.edu 503-352-2272
+• Jory Shene Goalkeepers Coach shen5807@pacificu.edu
+• Scott Wood First Assistant Coach scottwood@pacificu.edu
+• Kellan McNamara Head Women's Soccer Coach kellan.mcnamara@pacificu.edu 406-529-7241
+• Scott Wood First Assistant Coach scottwood@pacificu.edu
+• Jory Shene Goalkeepers Coach shen5807@pacificu.edu
+• Shelly Prochaska Head Softball Coach prochaska31@pacificu.edu 1-971-997-
+• Tabor Waterstreet Head Swimming Coach wate6932@pacificu.edu
+• Charles Morse Assistant Swimming Coach Charles_m@pacificu.edu
+• Rayden Murata Head Men's Tennis Coach raydenmurata@pacificu.edu 808-393-0613
+• Traci Binder Head Women's Tennis Coach TraciBinder@Pacificu.edu 503-352-3138
+• Katherine Lomartire Assistant Women's Tennis Coach Katherine.Lomartire@pacificu.edu
+• Ryan Hunter-Simms Head Track & Field Coach / Assistant Cross Country Simms@pacificu.edu 503-984-1844
+• MacKenzie Beeler Assistant Track and Field Coach beelerm@pacificu.edu 971-997-6509
+• Riley Stewart Head Cross Country/Assistant Track Coach stew7633@pacificu.edu 971-997-6417
+• Rachel Renville Head Coach rachel.renville@pacificu.edu 303-552-7698
+• Sara Parker Assistant/ Head JV Coach/ Recruiting Coordinator sara.parker@pacificu.edu
+• Zach Binkerd Head Men’s and Women’s Wrestling Coach bink7072@pacificu.edu 503-352-2827
+• Karissa Komo Head Handball Coach komo5911@pacificu.edu
+• David Steinberg Assistant Handball Coach djsteinb@pacificu.edu 503-352-2806
+• Craig Trull Assistant Handball Coach cstrull81@gmail.com
+• Ashley Quesnoy Head Boxer Spirit Squad Coach boxerspiritsquad@gmail.com

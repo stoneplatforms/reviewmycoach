@@ -1,0 +1,95 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:50
+============================================================
+
+Total coaches found: 14
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chelsey Garman,
+   Email: cgarman@sfsu.edu
+   Username: cgarman
+   Original line: Chelsey Garman, MS, CSCS, USAW Head Strength and Conditioning Coach cgarman@sfsu.edu
+
+2. Vince Inglima
+   Email: inglima@sfsu.edu
+   Username: inglima
+   Original line: Vince Inglima Head Men's Basketball Coach inglima@sfsu.edu 415-338-
+
+3. Alex Gilat
+   Email: agilat@sfsu.edu
+   Username: agilat
+   Original line: Alex Gilat Assistant Men's Basketball Coach agilat@sfsu.edu
+
+4. Moné Peoples
+   Email: coachmo@sfsu.edu
+   Username: coachmo
+   Original line: Moné Peoples Head Women's Basketball Coach coachmo@sfsu.edu
+
+5. Daron Sims
+   Email: dsims@sfsu.edu
+   Username: dsims
+   Original line: Daron Sims Assistant Women's Basketball Coach dsims@sfsu.edu
+
+6. John DeMartini
+   Email: jdemartini@sfsu.edu
+   Username: jdemartini
+   Original line: John DeMartini Head Women's Soccer Coach jdemartini@sfsu.edu
+
+7. Domenique Kastl
+   Email: dkastl@sfsu.edu
+   Username: dkastl
+   Original line: Domenique Kastl Assistant Women's Soccer Coach dkastl@sfsu.edu
+
+8. Alicia Reid
+   Email: aliciareid@sfsu.edu
+   Username: aliciareid
+   Original line: Alicia Reid Head Softball Coach aliciareid@sfsu.edu
+
+9. Kai DeLeon
+   Email: kdeleon4@sfsu.edu
+   Username: kdeleon4
+   Original line: Kai DeLeon Assistant Softball Coach kdeleon4@sfsu.edu
+
+10. Nia Trinidad
+   Email: ntrinidad@sfsu.edu
+   Username: ntrinidad
+   Original line: Nia Trinidad Assistant Softball Coach ntrinidad@sfsu.edu
+
+11. Matt Hoffman
+   Email: hoffmanm@sfsu.edu
+   Username: hoffmanm
+   Original line: Matt Hoffman Head Volleyball Coach hoffmanm@sfsu.edu 415-338-
+
+12. Izzy Issak
+   Email: iissak@sfsu.edu
+   Username: iissak
+   Original line: Izzy Issak Assistant Volleyball Coach iissak@sfsu.edu
+
+13. Jason Welch
+   Email: jasonwelch@sfsu.edu
+   Username: jasonwelch
+   Original line: Jason Welch Head Wrestling Coach jasonwelch@sfsu.edu
+
+14. Anthony Mancini
+   Email: amancini184@sfsu.edu
+   Username: amancini184
+   Original line: Anthony Mancini Assistant Wrestling Coach amancini184@sfsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chelsey Garman, MS, CSCS, USAW Head Strength and Conditioning Coach cgarman@sfsu.edu
+• Vince Inglima Head Men's Basketball Coach inglima@sfsu.edu 415-338-
+• Alex Gilat Assistant Men's Basketball Coach agilat@sfsu.edu
+• Moné Peoples Head Women's Basketball Coach coachmo@sfsu.edu
+• Daron Sims Assistant Women's Basketball Coach dsims@sfsu.edu
+• John DeMartini Head Women's Soccer Coach jdemartini@sfsu.edu
+• Domenique Kastl Assistant Women's Soccer Coach dkastl@sfsu.edu
+• Alicia Reid Head Softball Coach aliciareid@sfsu.edu
+• Kai DeLeon Assistant Softball Coach kdeleon4@sfsu.edu
+• Nia Trinidad Assistant Softball Coach ntrinidad@sfsu.edu
+• Matt Hoffman Head Volleyball Coach hoffmanm@sfsu.edu 415-338-
+• Izzy Issak Assistant Volleyball Coach iissak@sfsu.edu
+• Jason Welch Head Wrestling Coach jasonwelch@sfsu.edu
+• Anthony Mancini Assistant Wrestling Coach amancini184@sfsu.edu

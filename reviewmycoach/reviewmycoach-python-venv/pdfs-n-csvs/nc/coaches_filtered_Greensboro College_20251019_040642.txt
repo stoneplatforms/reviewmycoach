@@ -1,0 +1,303 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:42
+============================================================
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Karen Buxton
+   Email: karen.buxton@greensboro.edu
+   Username: karen.buxton
+   Phone: (336) 255-5655
+   Original line: Karen Buxton Head Women's Triathlon Coach | Associate Athletic karen.buxton@greensboro.edu (336) 255-5655
+
+2. Robert Heavner
+   Email: robert.heavner@greensboro.edu
+   Username: robert.heavner
+   Original line: Robert Heavner Men's Golf Head Coach | Director of Athletic robert.heavner@greensboro.edu
+
+3. Mike Johnston
+   Email: mike.johnston@greensboro.edu
+   Username: mike.johnston
+   Phone: (336) 272-7102
+   Original line: Mike Johnston Head Women's Soccer Coach | Sports Performance mike.johnston@greensboro.edu (336) 272-7102,
+
+4. Tyler Card
+   Email: tyler.card@greensboro.edu
+   Username: tyler.card
+   Phone: (336) 272-7102
+   Original line: Tyler Card Head Football Coach | Tight Ends tyler.card@greensboro.edu (336) 272-7102,
+
+5. Ju'Warren Byrd
+   Email: juwarren.byrd@greensboro.edu
+   Username: juwarren.byrd
+   Original line: Ju'Warren Byrd Assistant Coach | Defensive Line juwarren.byrd@greensboro.edu
+
+6. Jonathan Burton
+   Email: jonathan.burton@greensboro.edu
+   Username: jonathan.burton
+   Original line: Jonathan Burton Assistant Coach | Defensive Tackles jonathan.burton@greensboro.edu
+
+7. Richard Bonds
+   Email: richard.bonds@greensboro.edu
+   Username: richard.bonds
+   Original line: Richard Bonds Assistant Coach | Special Teams Coordinator | richard.bonds@greensboro.edu
+
+8. Remy Alston
+   Email: remene.alston@greensboro.edu
+   Username: remene.alston
+   Original line: Remy Alston Assistant Coach | Running Backs remene.alston@greensboro.edu
+
+9. Jordan Dandridge
+   Email: jordan.dandridge@greensboro.edu
+   Username: jordan.dandridge
+   Original line: Jordan Dandridge Assistant Coach | Wide Receivers jordan.dandridge@greensboro.edu
+
+10. Max Steele
+   Email: maximiliaan.steele@greensboro.edu
+   Username: maximiliaan.steele
+   Original line: Max Steele Assistant Coach | Outside Linebackers maximiliaan.steele@greensboro.edu
+
+11. Cedric Walthaw
+   Email: cedric.walthaw@greensboro.edu
+   Username: cedric.walthaw
+   Original line: Cedric Walthaw Strength & Conditioning Coach cedric.walthaw@greensboro.edu
+
+12. Michael McDuffie
+   Email: michael.mcduffie@greensboro.edu
+   Username: michael.mcduffie
+   Phone: (336) 272-7102
+   Original line: Michael McDuffie Men's Basketball Head Coach michael.mcduffie@greensboro.edu (336) 272-7102
+
+13. Cory Dumas
+   Email: cory.dumas@greensboro.edu
+   Username: cory.dumas
+   Original line: Cory Dumas Assistant Coach | Men's Basketball cory.dumas@greensboro.edu
+
+14. Aaron Fernandez
+   Email: aaron.fernandez@greensboro.edu
+   Username: aaron.fernandez
+   Phone: (336) 272-7102
+   Original line: Aaron Fernandez Women's Basketball Head Coach aaron.fernandez@greensboro.edu (336) 272-7102
+
+15. Eron Lutterloh
+   Email: eron.lutterloh@greensboro.edu
+   Username: eron.lutterloh
+   Phone: (336) 272-7102
+   Original line: Eron Lutterloh Assistant Coach | Women's Basketball eron.lutterloh@greensboro.edu (336) 272-7102
+
+16. Karen Holmes
+   Email: karen.holmes@greensboro.edu
+   Username: karen.holmes
+   Phone: (336) 272-7102
+   Original line: Karen Holmes Assistant Coach | Women's Basketball karen.holmes@greensboro.edu (336) 272-7102,
+
+17. Chris Fenisey
+   Email: chris.fenisey@greensboro.edu
+   Username: chris.fenisey
+   Phone: (336) 272-7102
+   Original line: Chris Fenisey Head Baseball Coach | Game Day Administrator chris.fenisey@greensboro.edu (336) 272-7102,
+
+18. Justin Ebert
+   Email: justin.ebert@greensboro.edu
+   Username: justin.ebert
+   Original line: Justin Ebert Assistant Coach | Baseball justin.ebert@greensboro.edu
+
+19. Ed Porcelli
+   Email: Edward.Porcelli@greensboro.edu
+   Username: Edward.Porcelli
+   Original line: Ed Porcelli Volunteer Assistant Coach | Baseball Edward.Porcelli@greensboro.edu
+
+20. Cooper Ferguson
+   Email: cooper.ferguson@greensboro.edu
+   Username: cooper.ferguson
+   Original line: Cooper Ferguson Volunteer Assistant Coach | Baseball cooper.ferguson@greensboro.edu
+
+21. Christian Dix
+   Email: christian.dix@greensboro.edu
+   Username: christian.dix
+   Original line: Christian Dix Volunteer Assistant Coach | Baseball christian.dix@greensboro.edu
+
+22. Brianna Strickland
+   Email: brianna.strickland@greensboro.edu
+   Username: brianna.strickland
+   Original line: Brianna Strickland Head Softball Coach brianna.strickland@greensboro.edu
+
+23. Megan Dray
+   Email: megan.martin@greensboro.edu
+   Username: megan.martin
+   Original line: Megan Dray Martin Assistant Coach | Softball megan.martin@greensboro.edu
+
+24. Ivy Ray
+   Email: ivy.ray@greensboro.edu
+   Username: ivy.ray
+   Original line: Ivy Ray Volunteer Assistant Coach | Softball ivy.ray@greensboro.edu
+
+25. Robert Heavner
+   Email: robert.heavner@greensboro.edu
+   Username: robert.heavner
+   Original line: Robert Heavner Men's Golf Head Coach | Director of Athletic robert.heavner@greensboro.edu
+
+26. Grayson Sutherland
+   Email: grayson.sutherland@greensboro.edu
+   Username: grayson.sutherland
+   Original line: Grayson Sutherland Assistant Coach | Men's Golf grayson.sutherland@greensboro.edu
+
+27. Nate Bates
+   Email: nate.bates@greensboro.edu
+   Username: nate.bates
+   Phone: (336) 272-7102
+   Original line: Nate Bates Head Men's Lacrosse Coach nate.bates@greensboro.edu (336) 272-7102,
+
+28. Zack Frohne
+   Email: zachary.frohne@greensboro.edu
+   Username: zachary.frohne
+   Original line: Zack Frohne Volunteer Assistant Coach | Men's Lacrosse zachary.frohne@greensboro.edu
+
+29. Mallory Zelawski
+   Email: mallory.zelawski@greensboro.edu
+   Username: mallory.zelawski
+   Phone: (336) 272-7102
+   Original line: Mallory Zelawski Head Women's Lacrosse Coach | SAAC Staff Liaison mallory.zelawski@greensboro.edu (336) 272-7102,
+
+30. Jacob Weinshank
+   Email: jacob.weinshank@greensboro.edu
+   Username: jacob.weinshank
+   Original line: Jacob Weinshank Head Men's Soccer Coach jacob.weinshank@greensboro.edu
+
+31. Cristian Del
+   Email: cristian.del_cid_portillo@greensboro.edu
+   Username: cristian.del_cid_portillo
+   Original line: Cristian Del Cid Assistant Coach | Men's Soccer cristian.del_cid_portillo@greensboro.edu
+
+32. Mike Johnston
+   Email: mike.johnston@greensboro.edu
+   Username: mike.johnston
+   Phone: (336) 272-7102
+   Original line: Mike Johnston Head Women's Soccer Coach | Sports Performance mike.johnston@greensboro.edu (336) 272-7102,
+
+33. Jake Papier
+   Email: jake.papier@greensboro.edu
+   Username: jake.papier
+   Phone: (336) 272-7102
+   Original line: Jake Papier Assistant Coach | Women's Soccer | Recruiting jake.papier@greensboro.edu (336) 272-7102,
+
+34. Skylar Mathis
+   Email: skylar.mathis@greensboro.edu
+   Username: skylar.mathis
+   Original line: Skylar Mathis Volunteer Assistant Coach | Women's Soccer skylar.mathis@greensboro.edu
+
+35. Amery Skinner
+   Email: amery.skinner@greensboro.edu
+   Username: amery.skinner
+   Original line: Amery Skinner Volunteer Assistant Coach | Women's Soccer amery.skinner@greensboro.edu
+
+36. Korey McCulley
+   Email: korey.mcculley@greensboro.edu
+   Username: korey.mcculley
+   Original line: Korey McCulley Head Men's and Women's Swim Coach korey.mcculley@greensboro.edu
+
+37. Diane Quillen
+   Email: diane.quillen@greensboro.edu
+   Username: diane.quillen
+   Original line: Diane Quillen Assistant Coach | Men's and Women's Swimming diane.quillen@greensboro.edu
+
+38. Kilee Kemp
+   Email: kilee.kemp@greensboro.edu
+   Username: kilee.kemp
+   Original line: Kilee Kemp Volunteer Assistant Coach | Men's and Women's kilee.kemp@greensboro.edu
+
+39. Berta Vidal
+   Email: b_vidalcarn@uncg.edu
+   Username: b_vidalcarn
+   Original line: Berta Vidal Carnero Volunteer Assistant Coach | Swimming b_vidalcarn@uncg.edu
+
+40. Karen Buxton
+   Email: karen.buxton@greensboro.edu
+   Username: karen.buxton
+   Phone: (336) 255-5655
+   Original line: Karen Buxton Head Women's Triathlon Coach | Associate Athletic karen.buxton@greensboro.edu (336) 255-5655
+
+41. Matthew Clancy
+   Email: matt.clancy@greensboro.edu
+   Username: matt.clancy
+   Phone: (336) 272-7102
+   Original line: Matthew Clancy Assistant Coach | Triathlon matt.clancy@greensboro.edu (336) 272-7102,
+
+42. Dan Bozarth
+   Email: dan.bozarth@greensboro.edu
+   Username: dan.bozarth
+   Phone: (336) 272-7102
+   Original line: Dan Bozarth Women's Volleyball Head Coach dan.bozarth@greensboro.edu (336) 272-7102,
+
+43. Maddi Page
+   Email: Madeline.Page@greensboro.edu
+   Username: Madeline.Page
+   Original line: Maddi Page Assistant Coach | Volleyball Madeline.Page@greensboro.edu
+
+44. Justin Harty
+   Email: justin.harty@greensboro.edu
+   Username: justin.harty
+   Phone: (336) 272-7102
+   Original line: Justin Harty Head Men's and Women's Wrestling Coach justin.harty@greensboro.edu (336) 272-7102,
+
+45. Jon Woodburn
+   Email: jon.woodburn@greensboro.edu
+   Username: jon.woodburn
+   Original line: Jon Woodburn Assistant Coach | Men's and Women's Wrestling | jon.woodburn@greensboro.edu
+
+46. Patrick Westervelt
+   Email: patrick.westervelt@greensboro.edu
+   Username: patrick.westervelt
+   Original line: Patrick Westervelt Head Men's and Women's Cross Country Coach patrick.westervelt@greensboro.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Karen Buxton Head Women's Triathlon Coach | Associate Athletic karen.buxton@greensboro.edu (336) 255-5655
+• Robert Heavner Men's Golf Head Coach | Director of Athletic robert.heavner@greensboro.edu
+• Mike Johnston Head Women's Soccer Coach | Sports Performance mike.johnston@greensboro.edu (336) 272-7102,
+• Tyler Card Head Football Coach | Tight Ends tyler.card@greensboro.edu (336) 272-7102,
+• Ju'Warren Byrd Assistant Coach | Defensive Line juwarren.byrd@greensboro.edu
+• Jonathan Burton Assistant Coach | Defensive Tackles jonathan.burton@greensboro.edu
+• Richard Bonds Assistant Coach | Special Teams Coordinator | richard.bonds@greensboro.edu
+• Remy Alston Assistant Coach | Running Backs remene.alston@greensboro.edu
+• Jordan Dandridge Assistant Coach | Wide Receivers jordan.dandridge@greensboro.edu
+• Max Steele Assistant Coach | Outside Linebackers maximiliaan.steele@greensboro.edu
+• Cedric Walthaw Strength & Conditioning Coach cedric.walthaw@greensboro.edu
+• Michael McDuffie Men's Basketball Head Coach michael.mcduffie@greensboro.edu (336) 272-7102
+• Cory Dumas Assistant Coach | Men's Basketball cory.dumas@greensboro.edu
+• Aaron Fernandez Women's Basketball Head Coach aaron.fernandez@greensboro.edu (336) 272-7102
+• Eron Lutterloh Assistant Coach | Women's Basketball eron.lutterloh@greensboro.edu (336) 272-7102
+• Karen Holmes Assistant Coach | Women's Basketball karen.holmes@greensboro.edu (336) 272-7102,
+• Chris Fenisey Head Baseball Coach | Game Day Administrator chris.fenisey@greensboro.edu (336) 272-7102,
+• Justin Ebert Assistant Coach | Baseball justin.ebert@greensboro.edu
+• Ed Porcelli Volunteer Assistant Coach | Baseball Edward.Porcelli@greensboro.edu
+• Cooper Ferguson Volunteer Assistant Coach | Baseball cooper.ferguson@greensboro.edu
+• Christian Dix Volunteer Assistant Coach | Baseball christian.dix@greensboro.edu
+• Brianna Strickland Head Softball Coach brianna.strickland@greensboro.edu
+• Megan Dray Martin Assistant Coach | Softball megan.martin@greensboro.edu
+• Ivy Ray Volunteer Assistant Coach | Softball ivy.ray@greensboro.edu
+• Robert Heavner Men's Golf Head Coach | Director of Athletic robert.heavner@greensboro.edu
+• Grayson Sutherland Assistant Coach | Men's Golf grayson.sutherland@greensboro.edu
+• Nate Bates Head Men's Lacrosse Coach nate.bates@greensboro.edu (336) 272-7102,
+• Zack Frohne Volunteer Assistant Coach | Men's Lacrosse zachary.frohne@greensboro.edu
+• Mallory Zelawski Head Women's Lacrosse Coach | SAAC Staff Liaison mallory.zelawski@greensboro.edu (336) 272-7102,
+• Jacob Weinshank Head Men's Soccer Coach jacob.weinshank@greensboro.edu
+• Cristian Del Cid Assistant Coach | Men's Soccer cristian.del_cid_portillo@greensboro.edu
+• Mike Johnston Head Women's Soccer Coach | Sports Performance mike.johnston@greensboro.edu (336) 272-7102,
+• Jake Papier Assistant Coach | Women's Soccer | Recruiting jake.papier@greensboro.edu (336) 272-7102,
+• Skylar Mathis Volunteer Assistant Coach | Women's Soccer skylar.mathis@greensboro.edu
+• Amery Skinner Volunteer Assistant Coach | Women's Soccer amery.skinner@greensboro.edu
+• Korey McCulley Head Men's and Women's Swim Coach korey.mcculley@greensboro.edu
+• Diane Quillen Assistant Coach | Men's and Women's Swimming diane.quillen@greensboro.edu
+• Kilee Kemp Volunteer Assistant Coach | Men's and Women's kilee.kemp@greensboro.edu
+• Berta Vidal Carnero Volunteer Assistant Coach | Swimming b_vidalcarn@uncg.edu
+• Karen Buxton Head Women's Triathlon Coach | Associate Athletic karen.buxton@greensboro.edu (336) 255-5655
+• Matthew Clancy Assistant Coach | Triathlon matt.clancy@greensboro.edu (336) 272-7102,
+• Dan Bozarth Women's Volleyball Head Coach dan.bozarth@greensboro.edu (336) 272-7102,
+• Maddi Page Assistant Coach | Volleyball Madeline.Page@greensboro.edu
+• Justin Harty Head Men's and Women's Wrestling Coach justin.harty@greensboro.edu (336) 272-7102,
+• Jon Woodburn Assistant Coach | Men's and Women's Wrestling | jon.woodburn@greensboro.edu
+• Patrick Westervelt Head Men's and Women's Cross Country Coach patrick.westervelt@greensboro.edu

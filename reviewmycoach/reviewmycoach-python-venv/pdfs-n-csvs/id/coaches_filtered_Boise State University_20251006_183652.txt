@@ -1,0 +1,213 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:06
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Erik Lindgren
+   Email: eriklindgren@boisestate.edu
+   Username: eriklindgren
+   Original line: Erik Lindgren Head Coach eriklindgren@boisestate.edu
+
+2. Hayden Miles
+   Email: haydenmiles@u.boisestate.edu
+   Username: haydenmiles
+   Original line: Hayden Miles Assistant Coach, haydenmiles@u.boisestate.edu
+
+3. Leon Rice
+   Email: leonrice@boisestate.edu
+   Username: leonrice
+   Original line: Leon Rice Head Coach leonrice@boisestate.edu
+
+4. Tim Duryea
+   Email: timduryea@boisestate.edu
+   Username: timduryea
+   Original line: Tim Duryea Assistant Coach timduryea@boisestate.edu
+
+5. Roberto Bergersen
+   Email: robertobergersen@boisestate.edu
+   Username: robertobergersen
+   Original line: Roberto Bergersen Assistant Coach robertobergersen@boisestate.edu
+
+6. Lexus Williams
+   Email: LexusWilliams@boisestate.edu
+   Username: LexusWilliams
+   Original line: Lexus Williams Assistant Coach LexusWilliams@boisestate.edu
+
+7. Heather Sower
+   Email: hsower@boisestate.edu
+   Username: hsower
+   Phone: (208) 426-1760
+   Original line: Heather Sower Assistant Coach 208-426-1760 hsower@boisestate.edu
+
+8. Cariann Ramirez
+   Email: cariannramirez@boisestate.edu
+   Username: cariannramirez
+   Phone: (208) 860-2740
+   Original line: Cariann Ramirez Assistant Coach 208-860-2740 cariannramirez@boisestate.edu
+
+9. Mike Petrino
+   Email: michaelpetrino@boisestate.edu
+   Username: michaelpetrino
+   Phone: (503) 319-2151
+   Original line: Mike Petrino Assistant Coach 503-319-2151 michaelpetrino@boisestate.edu
+
+10. Jackie Robinson
+   Email: jackiekarlrobins@boisestate.edu
+   Username: jackiekarlrobins
+   Original line: Jackie Robinson Assistant Coach jackiekarlrobins@boisestate.edu
+
+11. Alex Venardos
+   Email: alexvenardos@boisestate.edu
+   Username: alexvenardos
+   Original line: Alex Venardos Head Coach alexvenardos@boisestate.edu
+
+12. McKayla Hazard
+   Email: mckaylahazard@boisestate.edu
+   Username: mckaylahazard
+   Original line: McKayla Hazard Assistant Coach mckaylahazard@boisestate.edu
+
+13. Spencer Danielson
+   Email: Broncofootball@boisestate.edu
+   Username: Broncofootball
+   Original line: Spencer Danielson Head Coach Broncofootball@boisestate.edu
+
+14. Tyler Rausa
+   Email: Broncofootball@boisestate.edu
+   Username: Broncofootball
+   Original line: Tyler Rausa Specialist Coach Broncofootball@boisestate.edu
+
+15. Bailey Hawkins
+   Email: baileyhawkins@boisestate.edu
+   Username: baileyhawkins
+   Original line: Bailey Hawkins Head Coach baileyhawkins@boisestate.edu
+
+16. David Trainor
+   Email: davidtrainor@boisestate.edu
+   Username: davidtrainor
+   Original line: David Trainor Head Coach davidtrainor@boisestate.edu
+
+17. Collin Toner
+   Email: collintoner@boisestate.edu
+   Username: collintoner
+   Original line: Collin Toner Assistant Coach collintoner@boisestate.edu
+
+18. Kailin Downs
+   Email: kailindowns@boisestate.edu
+   Username: kailindowns
+   Phone: (541) 815-8507
+   Original line: Kailin Downs Head Coach 541-815-8507 kailindowns@boisestate.edu
+
+19. Chayse Gomez
+   Email: chaysegomez@boisestate.edu
+   Username: chaysegomez
+   Original line: Chayse Gomez Assistant Coach chaysegomez@boisestate.edu
+
+20. Tina Bird
+   Email: tbird@boisestate.edu
+   Username: tbird
+   Phone: (208) 559-8448
+   Original line: Tina Bird Head Coach 208-559-8448 tbird@boisestate.edu
+
+21. Patty Resnick
+   Email: pattyresnick@boisestate.edu
+   Username: pattyresnick
+   Phone: (208) 859-2612
+   Original line: Patty Resnick Assistant Coach 208-859-2612 pattyresnick@boisestate.edu
+
+22. Adriana Popp
+   Email: adrianapopp@boisestate.edu
+   Username: adrianapopp
+   Original line: Adriana Popp Assistant Coach adrianapopp@boisestate.edu
+
+23. Liz Ruiz
+   Email: lizruiz@boisestate.edu
+   Username: lizruiz
+   Phone: (208) 426-5425
+   Original line: Liz Ruiz Assistant Coach 208-426-5425 lizruiz@boisestate.edu
+
+24. Grace Hancock
+   Email: gracehancock@boisestate.edu
+   Username: gracehancock
+   Original line: Grace Hancock Assistant Coach gracehancock@boisestate.edu
+
+25. Luke Shields
+   Email: LukeShields@BoiseState.edu
+   Username: LukeShields
+   Phone: (208) 599-7628
+   Original line: Luke Shields Head Coach 208-599-7628 LukeShields@BoiseState.edu
+
+26. Diego Castillo
+   Email: DiegoCastillo@BoiseState.edu
+   Username: DiegoCastillo
+   Original line: Diego Castillo Assistant Coach DiegoCastillo@BoiseState.edu
+
+27. Pat McCurry
+   Email: patmccurry@boisestate.edu
+   Username: patmccurry
+   Original line: Pat McCurry Head Coach- Track patmccurry@boisestate.edu
+
+28. Kelsey Betthauser
+   Email: kelseybetthauser@boisestate.edu
+   Username: kelseybetthauser
+   Original line: Kelsey Betthauser Assistant Coach - kelseybetthauser@boisestate.edu
+
+29. Andrew Green
+   Email: andygreen547@boisestate.edu
+   Username: andygreen547
+   Original line: Andrew Green Assistant Coach - andygreen547@boisestate.edu
+
+30. Shawn Garus
+   Email: shawngarus@boisestate.edu
+   Username: shawngarus
+   Phone: (208) 871-4333
+   Original line: Shawn Garus Head Coach 208-871-4333 shawngarus@boisestate.edu
+
+31. Brindl Langley
+   Email: brindllangley@boisestate.edu
+   Username: brindllangley
+   Phone: (360) 773-8135
+   Original line: Brindl Langley Assistant Coach 360-773-8135 brindllangley@boisestate.edu
+
+32. Megan Yett
+   Email: MeganYett@boisestate.edu
+   Username: MeganYett
+   Original line: Megan Yett Assistant Coach MeganYett@boisestate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Erik Lindgren Head Coach eriklindgren@boisestate.edu
+• Hayden Miles Assistant Coach, haydenmiles@u.boisestate.edu
+• Leon Rice Head Coach leonrice@boisestate.edu
+• Tim Duryea Assistant Coach timduryea@boisestate.edu
+• Roberto Bergersen Assistant Coach robertobergersen@boisestate.edu
+• Lexus Williams Assistant Coach LexusWilliams@boisestate.edu
+• Heather Sower Assistant Coach 208-426-1760 hsower@boisestate.edu
+• Cariann Ramirez Assistant Coach 208-860-2740 cariannramirez@boisestate.edu
+• Mike Petrino Assistant Coach 503-319-2151 michaelpetrino@boisestate.edu
+• Jackie Robinson Assistant Coach jackiekarlrobins@boisestate.edu
+• Alex Venardos Head Coach alexvenardos@boisestate.edu
+• McKayla Hazard Assistant Coach mckaylahazard@boisestate.edu
+• Spencer Danielson Head Coach Broncofootball@boisestate.edu
+• Tyler Rausa Specialist Coach Broncofootball@boisestate.edu
+• Bailey Hawkins Head Coach baileyhawkins@boisestate.edu
+• David Trainor Head Coach davidtrainor@boisestate.edu
+• Collin Toner Assistant Coach collintoner@boisestate.edu
+• Kailin Downs Head Coach 541-815-8507 kailindowns@boisestate.edu
+• Chayse Gomez Assistant Coach chaysegomez@boisestate.edu
+• Tina Bird Head Coach 208-559-8448 tbird@boisestate.edu
+• Patty Resnick Assistant Coach 208-859-2612 pattyresnick@boisestate.edu
+• Adriana Popp Assistant Coach adrianapopp@boisestate.edu
+• Liz Ruiz Assistant Coach 208-426-5425 lizruiz@boisestate.edu
+• Grace Hancock Assistant Coach gracehancock@boisestate.edu
+• Luke Shields Head Coach 208-599-7628 LukeShields@BoiseState.edu
+• Diego Castillo Assistant Coach DiegoCastillo@BoiseState.edu
+• Pat McCurry Head Coach- Track patmccurry@boisestate.edu
+• Kelsey Betthauser Assistant Coach - kelseybetthauser@boisestate.edu
+• Andrew Green Assistant Coach - andygreen547@boisestate.edu
+• Shawn Garus Head Coach 208-871-4333 shawngarus@boisestate.edu
+• Brindl Langley Assistant Coach 360-773-8135 brindllangley@boisestate.edu
+• Megan Yett Assistant Coach MeganYett@boisestate.edu

@@ -1,0 +1,233 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:17
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Elijah Barnett
+   Email: ewbarnett@oakland.edu
+   Username: ewbarnett
+   Original line: Elijah Barnett Assistant Strength and Conditioning Coach ewbarnett@oakland.edu
+
+2. Brian Nelson
+   Email: baseball@oakland.edu
+   Username: baseball
+   Original line: Brian Nelson Head Coach baseball@oakland.edu
+
+3. Jeff Smith
+   Email: jsmith12@oakland.edu
+   Username: jsmith12
+   Original line: Jeff Smith Associate Head Coach jsmith12@oakland.edu
+
+4. Trey McDonald
+   Email: treymcdonald@oakland.edu
+   Username: treymcdonald
+   Original line: Trey McDonald Assistant Coach treymcdonald@oakland.edu
+
+5. Bobby Naubert
+   Email: naubert@oakland.edu
+   Username: naubert
+   Original line: Bobby Naubert Assistant Coach naubert@oakland.edu
+
+6. Keisha Newell
+   Email: kcnewell@oakland.edu
+   Username: kcnewell
+   Original line: Keisha Newell Head Coach kcnewell@oakland.edu
+
+7. Jonathan Hill
+   Email: jhill6@oakland.edu
+   Username: jhill6
+   Original line: Jonathan Hill Assistant Coach jhill6@oakland.edu
+
+8. Josh Lees
+   Email: jalees@Oakland.edu
+   Username: jalees
+   Original line: Josh Lees Assistant Coach jalees@Oakland.edu
+
+9. Missa Anderson
+   Email: canderson4@oakland.edu
+   Username: canderson4
+   Original line: Missa Anderson Assistant Coach canderson4@oakland.edu
+
+10. Paul Rice
+   Email: rice@oakland.edu
+   Username: rice
+   Original line: Paul Rice Head Coach of Cross Country/Track and Field (248) 370- rice@oakland.edu
+
+11. Pat Sarver
+   Email: sarver@oakland.edu
+   Username: sarver
+   Original line: Pat Sarver Assistant Coach (Distance) sarver@oakland.edu
+
+12. Brenna Irwin
+   Email: brirwin@oakland.edu
+   Username: brirwin
+   Original line: Brenna Irwin Head Coach brirwin@oakland.edu
+
+13. Carl Leone
+   Email: carlleone@oakland.edu
+   Username: carlleone
+   Original line: Carl Leone Head Coach carlleone@oakland.edu
+
+14. Kalle Wanagat
+   Email: kwanagat@oakland.edu
+   Username: kwanagat
+   Original line: Kalle Wanagat Assistant Coach kwanagat@oakland.edu
+
+15. Robby Pickett
+   Email: rpickett@oakland.edu
+   Username: rpickett
+   Original line: Robby Pickett Head Coach rpickett@oakland.edu
+
+16. Heather Fortushniak
+   Email: hfortushniak@oakland.edu
+   Username: hfortushniak
+   Original line: Heather Fortushniak Head Coach hfortushniak@oakland.edu
+
+17. Paul Doroh
+   Email: doroh@oakland.edu
+   Username: doroh
+   Original line: Paul Doroh Head Coach (248) 370- doroh@oakland.edu
+
+18. Joey Tinnion
+   Email: jtinnion@oakland.edu
+   Username: jtinnion
+   Original line: Joey Tinnion Assistant Coach jtinnion@oakland.edu
+
+19. Daire O'Riordan
+   Email: doriordan@oakland.edu
+   Username: doriordan
+   Original line: Daire O'Riordan Assistant Coach doriordan@oakland.edu
+
+20. Devin Zvosec
+   Email: devinzvosec@oakland.edu
+   Username: devinzvosec
+   Original line: Devin Zvosec Head Coach devinzvosec@oakland.edu
+
+21. Jessica Newton
+   Email: soccer@oakland.edu
+   Username: soccer
+   Original line: Jessica Newton Assistant Coach / Director of Player Development soccer@oakland.edu
+
+22. Jordan Craze
+   Email: wjcraze@oakland.edu
+   Username: wjcraze
+   Original line: Jordan Craze Assistant Coach / Goalkeeper Coach wjcraze@oakland.edu
+
+23. Chris Stelma
+   Email: cstelma@oakland.edu
+   Username: cstelma
+   Original line: Chris Stelma Head Coach cstelma@oakland.edu
+
+24. Taylor Turner
+   Email: taylorturner@oakland.edu
+   Username: taylorturner
+   Original line: Taylor Turner Assistant Coach taylorturner@oakland.edu
+
+25. Mitch Alters
+   Email: alters@oakland.edu
+   Username: alters
+   Original line: Mitch Alters Head Coach (248) 370- alters@oakland.edu
+
+26. Molly Hebzynski
+   Email: mshebzynski@oakland.edu
+   Username: mshebzynski
+   Original line: Molly Hebzynski Associate Head Coach (248) 370- mshebzynski@oakland.edu
+
+27. Jonny Simoes
+   Email: jesimoes@oakland.edu
+   Username: jesimoes
+   Original line: Jonny Simoes Assistant Coach jesimoes@oakland.edu
+
+28. Darin Abbasse
+   Email: dabbasse@oakland.edu
+   Username: dabbasse
+   Original line: Darin Abbasse Assistant Coach dabbasse@oakland.edu
+
+29. Paul Karas
+   Email: pgkaras@oakland.edu
+   Username: pgkaras
+   Original line: Paul Karas Assistant Coach pgkaras@oakland.edu
+
+30. David Brown
+   Email: dbrown7@oakland.edu
+   Username: dbrown7
+   Original line: David Brown Head Coach dbrown7@oakland.edu
+
+31. Paul Rice
+   Email: rice@oakland.edu
+   Username: rice
+   Original line: Paul Rice Head Coach of Cross Country/Track and Field (248) 370- rice@oakland.edu
+
+32. Tre Brown
+   Email: trebrown@oakland.edu
+   Username: trebrown
+   Original line: Tre Brown Assistant Coach (Sprints, Hurdles, Jumps) trebrown@oakland.edu
+
+33. Pat Sarver
+   Email: sarver@oakland.edu
+   Username: sarver
+   Original line: Pat Sarver Assistant Coach (Distance) sarver@oakland.edu
+
+34. Larry Wood
+   Email: lmwood@oakland.edu
+   Username: lmwood
+   Original line: Larry Wood Assistant Coach (Throws) (248) 370- lmwood@oakland.edu
+
+35. Krista Rice
+   Email: kkrice@oakland.edu
+   Username: kkrice
+   Original line: Krista Rice Head Coach kkrice@oakland.edu
+
+36. Kyle Stahl
+   Email: kstahl@oakland.edu
+   Username: kstahl
+   Original line: Kyle Stahl Assistant Coach / Recruiting Coordinator kstahl@oakland.edu
+
+37. Abby Kanakry
+   Email: akanakry@oakland.edu
+   Username: akanakry
+   Original line: Abby Kanakry Assistant Coach akanakry@oakland.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Elijah Barnett Assistant Strength and Conditioning Coach ewbarnett@oakland.edu
+• Brian Nelson Head Coach baseball@oakland.edu
+• Jeff Smith Associate Head Coach jsmith12@oakland.edu
+• Trey McDonald Assistant Coach treymcdonald@oakland.edu
+• Bobby Naubert Assistant Coach naubert@oakland.edu
+• Keisha Newell Head Coach kcnewell@oakland.edu
+• Jonathan Hill Assistant Coach jhill6@oakland.edu
+• Josh Lees Assistant Coach jalees@Oakland.edu
+• Missa Anderson Assistant Coach canderson4@oakland.edu
+• Paul Rice Head Coach of Cross Country/Track and Field (248) 370- rice@oakland.edu
+• Pat Sarver Assistant Coach (Distance) sarver@oakland.edu
+• Brenna Irwin Head Coach brirwin@oakland.edu
+• Carl Leone Head Coach carlleone@oakland.edu
+• Kalle Wanagat Assistant Coach kwanagat@oakland.edu
+• Robby Pickett Head Coach rpickett@oakland.edu
+• Heather Fortushniak Head Coach hfortushniak@oakland.edu
+• Paul Doroh Head Coach (248) 370- doroh@oakland.edu
+• Joey Tinnion Assistant Coach jtinnion@oakland.edu
+• Daire O'Riordan Assistant Coach doriordan@oakland.edu
+• Devin Zvosec Head Coach devinzvosec@oakland.edu
+• Jessica Newton Assistant Coach / Director of Player Development soccer@oakland.edu
+• Jordan Craze Assistant Coach / Goalkeeper Coach wjcraze@oakland.edu
+• Chris Stelma Head Coach cstelma@oakland.edu
+• Taylor Turner Assistant Coach taylorturner@oakland.edu
+• Mitch Alters Head Coach (248) 370- alters@oakland.edu
+• Molly Hebzynski Associate Head Coach (248) 370- mshebzynski@oakland.edu
+• Jonny Simoes Assistant Coach jesimoes@oakland.edu
+• Darin Abbasse Assistant Coach dabbasse@oakland.edu
+• Paul Karas Assistant Coach pgkaras@oakland.edu
+• David Brown Head Coach dbrown7@oakland.edu
+• Paul Rice Head Coach of Cross Country/Track and Field (248) 370- rice@oakland.edu
+• Tre Brown Assistant Coach (Sprints, Hurdles, Jumps) trebrown@oakland.edu
+• Pat Sarver Assistant Coach (Distance) sarver@oakland.edu
+• Larry Wood Assistant Coach (Throws) (248) 370- lmwood@oakland.edu
+• Krista Rice Head Coach kkrice@oakland.edu
+• Kyle Stahl Assistant Coach / Recruiting Coordinator kstahl@oakland.edu
+• Abby Kanakry Assistant Coach akanakry@oakland.edu

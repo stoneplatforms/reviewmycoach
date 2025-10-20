@@ -1,0 +1,387 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:17
+============================================================
+
+Total coaches found: 57
+
+PARSED ENTRIES:
+----------------------------------------
+1. Braden Tabor
+   Email: braden.tabor@centre.edu
+   Username: braden.tabor
+   Original line: Braden Tabor '21 Assistant Strength and Conditioning Coach braden.tabor@centre.edu
+
+2. Carter Conley
+   Email: carter.conley@centre.edu
+   Username: carter.conley
+   Phone: (859) 238-6039
+   Original line: Carter Conley '02 Assistant Strength and Conditioning Coach carter.conley@centre.edu (859) 238-6039
+
+3. Drew Briese
+   Email: drew.briese@centre.edu
+   Username: drew.briese
+   Phone: (859) 238-5489
+   Original line: Drew Briese '00 Head Coach drew.briese@centre.edu (859) 238-5489
+
+4. Taylor Valentine
+   Email: taylor.valentine@centre.edu
+   Username: taylor.valentine
+   Original line: Taylor Valentine Assistant Coach taylor.valentine@centre.edu
+
+5. Rory Costello
+   Email: rory.costello@centre.edu
+   Username: rory.costello
+   Original line: Rory Costello Assistant Coach rory.costello@centre.edu
+
+6. Samantha Alongi
+   Email: samantha.alongi@centre.edu
+   Username: samantha.alongi
+   Original line: Samantha Alongi Head Coach samantha.alongi@centre.edu
+
+7. Grant Lyon
+   Email: grant.lyon@centre.edu
+   Username: grant.lyon
+   Phone: (859) 238-8710
+   Original line: Grant Lyon '21 Director of Esports & Head Coach grant.lyon@centre.edu (859) 238-8710
+
+8. Andy Frye
+   Email: andy.frye@centre.edu
+   Username: andy.frye
+   Phone: (859) 238-5496
+   Original line: Andy Frye Head Coach andy.frye@centre.edu (859) 238-5496
+
+9. Nate Simmons
+   Email: nate.simmons@centre.edu
+   Username: nate.simmons
+   Phone: (859)238-5495
+   Original line: Nate Simmons Safeties Coach nate.simmons@centre.edu (859)238-5495
+
+10. Tom Lachendro
+   Email: thomas.lachendro@centre.edu
+   Username: thomas.lachendro
+   Phone: (859)238-8720
+   Original line: Tom Lachendro Defensive Line Coach thomas.lachendro@centre.edu (859)238-8720
+
+11. Robert Couch
+   Email: robert.couch@centre.edu
+   Username: robert.couch
+   Phone: (859)238-5484
+   Original line: Robert Couch Offensive Line Coach robert.couch@centre.edu (859)238-5484
+
+12. Parker Lewis
+   Email: parker.lewis@centre.edu
+   Username: parker.lewis
+   Original line: Parker Lewis Running Backs Coach parker.lewis@centre.edu
+
+13. Sam Murray
+   Email: sam.murray@centre.edu
+   Username: sam.murray
+   Original line: Sam Murray '22 Wide Receivers Coach sam.murray@centre.edu
+
+14. Nick Grant
+   Email: nick.grant@centre.edu
+   Username: nick.grant
+   Original line: Nick Grant '25 Cornerbacks Coach nick.grant@centre.edu
+
+15. Mark Peach
+   Email: mark.peach@centre.edu
+   Username: mark.peach
+   Original line: Mark Peach Inside Receivers Coach mark.peach@centre.edu
+
+16. Grace Goodbarn
+   Email: grace.goodbarn@centre.edu
+   Username: grace.goodbarn
+   Phone: (859) 238-8746
+   Original line: Grace Goodbarn Head Coach grace.goodbarn@centre.edu (859) 238-8746
+
+17. Meghan Speth
+   Email: meghan.speth@centre.edu
+   Username: meghan.speth
+   Original line: Meghan Speth '24 Assistant Coach meghan.speth@centre.edu
+
+18. Gavin Root
+   Email: gavin.root@centre.edu
+   Username: gavin.root
+   Phone: (859)238-5854
+   Original line: Gavin Root Interim Head Coach gavin.root@centre.edu (859)238-5854
+
+19. Ben Fuqua
+   Email: ben.fuqua@centre.edu
+   Username: ben.fuqua
+   Original line: Ben Fuqua Head Coach ben.fuqua@centre.edu
+
+20. Phil Havira
+   Email: phil.havira@centre.edu
+   Username: phil.havira
+   Phone: (859) 238-5878
+   Original line: Phil Havira '16 Head Coach phil.havira@centre.edu (859) 238-5878
+
+21. Tyler Covey
+   Email: tyler.covey@centre.edu
+   Username: tyler.covey
+   Original line: Tyler Covey Assistant Coach tyler.covey@centre.edu
+
+22. Chris Shelli
+   Email: christopher.shelli@centre.edu
+   Username: christopher.shelli
+   Original line: Chris Shelli Assistant Coach christopher.shelli@centre.edu
+
+23. Jeb Burch
+   Email: jeb.burch@centre.edu
+   Username: jeb.burch
+   Phone: (859) 238-5253
+   Original line: Jeb Burch '94 Head Coach jeb.burch@centre.edu (859) 238-5253
+
+24. Teddy Kolesnikov
+   Email: teddy.kolesnikov@centre.edu
+   Username: teddy.kolesnikov
+   Original line: Teddy Kolesnikov Assistant Coach teddy.kolesnikov@centre.edu
+
+25. Rich Benson
+   Email: richard.benson@centre.edu
+   Username: richard.benson
+   Phone: (859) 238-5559
+   Original line: Rich Benson Head Coach richard.benson@centre.edu (859) 238-5559
+
+26. Lisa Owens
+   Email: lisa.owens@centre.edu
+   Username: lisa.owens
+   Phone: (859) 238-5494
+   Original line: Lisa Owens Director of Cross Country and Track & Field / Head Coach lisa.owens@centre.edu (859) 238-5494
+
+27. Edwin Hagans
+   Email: edwin.hagans@centre.edu
+   Username: edwin.hagans
+   Phone: (859) 238-5928
+   Original line: Edwin Hagans Associate Head Coach edwin.hagans@centre.edu (859) 238-5928
+
+28. Jacob Carter
+   Email: jacob.carter@centre.edu
+   Username: jacob.carter
+   Phone: (859) 238-5861
+   Original line: Jacob Carter '12 Assistant Coach / Recruiting Coordinator jacob.carter@centre.edu (859) 238-5861
+
+29. Ernest Mosheleketi
+   Email: ernest.mosheleketi@centre.edu
+   Username: ernest.mosheleketi
+   Phone: (859) 238-5857
+   Original line: Ernest Mosheleketi Assistant Coach / Jumps ernest.mosheleketi@centre.edu (859) 238-5857
+
+30. Wilson Blakeman
+   Email: wilson.blakeman@centre.edu
+   Username: wilson.blakeman
+   Phone: (859) 238-5856
+   Original line: Wilson Blakeman '20 Assistant Coach wilson.blakeman@centre.edu (859) 238-5856
+
+31. John Hockersmith
+   Email: john.hockersmith@centre.edu
+   Username: john.hockersmith
+   Original line: John Hockersmith Assistant Coach / Hammer john.hockersmith@centre.edu
+
+32. Jim O'Hare
+   Email: james.ohare@centre.edu
+   Username: james.ohare
+   Original line: Jim O'Hare Assistant Coach / Pole Vault james.ohare@centre.edu
+
+33. Lisa Owens
+   Email: lisa.owens@centre.edu
+   Username: lisa.owens
+   Phone: (859) 238-5494
+   Original line: Lisa Owens Director of Cross Country and Track & Field / Head Coach lisa.owens@centre.edu (859) 238-5494
+
+34. Wilson Blakeman
+   Email: wilson.blakeman@centre.edu
+   Username: wilson.blakeman
+   Phone: (859) 238-5856
+   Original line: Wilson Blakeman '20 Assistant Coach wilson.blakeman@centre.edu (859) 238-5856
+
+35. Laura Villagrana
+   Email: laura.villagrana@centre.edu
+   Username: laura.villagrana
+   Phone: (859) 238-5859
+   Original line: Laura Villagrana Head Coach laura.villagrana@centre.edu (859) 238-5859
+
+36. Dean Brownley
+   Email: dean.brownley@centre.edu
+   Username: dean.brownley
+   Phone: (859) 238-5540
+   Original line: Dean Brownley Head Coach dean.brownley@centre.edu (859) 238-5540
+
+37. Tasha Singleton
+   Email: natasha.singleton@centre.edu
+   Username: natasha.singleton
+   Original line: Tasha Singleton Assistant Coach / Diving natasha.singleton@centre.edu
+
+38. Woody Franklin
+   Email: woody.franklin@centre.edu
+   Username: woody.franklin
+   Original line: Woody Franklin Diving Coach woody.franklin@centre.edu
+
+39. Megan Zerhusen
+   Email: megan.zerhusen@centre.edu
+   Username: megan.zerhusen
+   Original line: Megan Zerhusen Assistant Coach megan.zerhusen@centre.edu
+
+40. Wendie Austin
+   Email: w.austinrobinson@centre.edu
+   Username: w.austinrobinson
+   Phone: (859) 238-8756
+   Original line: Wendie Austin '94 Head Coach w.austinrobinson@centre.edu (859) 238-8756
+
+41. Abigail Wehby
+   Email: abigail.wehby@centre.edu
+   Username: abigail.wehby
+   Phone: (859) 238-8718
+   Original line: Abigail Wehby '21 Assistant Coach abigail.wehby@centre.edu (859) 238-8718
+
+42. CheyAnn Knudsen
+   Email: cheyann.knudsen@centre.edu
+   Username: cheyann.knudsen
+   Phone: (859) 238-6546
+   Original line: CheyAnn Knudsen Head Coach cheyann.knudsen@centre.edu (859) 238-6546
+
+43. Carter Hall
+   Email: carter.hall@centre.edu
+   Username: carter.hall
+   Original line: Carter Hall Head Coach carter.hall@centre.edu
+
+44. Jay Hoffman
+   Email: hoffman@centre.edu
+   Username: hoffman
+   Phone: (859) 238-5554
+   Original line: Jay Hoffman '96 Head Coach hoffman@centre.edu (859) 238-5554
+
+45. JK Gonzalez
+   Email: jk.gonzalez@centre.edu
+   Username: jk.gonzalez
+   Original line: JK Gonzalez '22 Assistant Coach jk.gonzalez@centre.edu
+
+46. Morgan Cook
+   Email: morgan.cook@centre.edu
+   Username: morgan.cook
+   Phone: (606)524-2645
+   Original line: Morgan Cook Head Coach morgan.cook@centre.edu (606)524-2645
+
+47. Lisa Owens
+   Email: lisa.owens@centre.edu
+   Username: lisa.owens
+   Phone: (859) 238-5494
+   Original line: Lisa Owens Director of Cross Country and Track & Field / Head Coach lisa.owens@centre.edu (859) 238-5494
+
+48. Edwin Hagans
+   Email: edwin.hagans@centre.edu
+   Username: edwin.hagans
+   Phone: (859) 238-5928
+   Original line: Edwin Hagans Associate Head Coach edwin.hagans@centre.edu (859) 238-5928
+
+49. Jacob Carter
+   Email: jacob.carter@centre.edu
+   Username: jacob.carter
+   Phone: (859) 238-5861
+   Original line: Jacob Carter '12 Assistant Coach / Recruiting Coordinator jacob.carter@centre.edu (859) 238-5861
+
+50. Ernest Mosheleketi
+   Email: ernest.mosheleketi@centre.edu
+   Username: ernest.mosheleketi
+   Phone: (859) 238-5857
+   Original line: Ernest Mosheleketi Assistant Coach / Jumps ernest.mosheleketi@centre.edu (859) 238-5857
+
+51. Wilson Blakeman
+   Email: wilson.blakeman@centre.edu
+   Username: wilson.blakeman
+   Phone: (859) 238-5856
+   Original line: Wilson Blakeman '20 Assistant Coach wilson.blakeman@centre.edu (859) 238-5856
+
+52. John Hockersmith
+   Email: john.hockersmith@centre.edu
+   Username: john.hockersmith
+   Original line: John Hockersmith Assistant Coach / Hammer john.hockersmith@centre.edu
+
+53. Jim O'Hare
+   Email: james.ohare@centre.edu
+   Username: james.ohare
+   Original line: Jim O'Hare Assistant Coach / Pole Vault james.ohare@centre.edu
+
+54. Patrick Robidoux
+   Email: patrick.robidoux@centre.edu
+   Username: patrick.robidoux
+   Phone: (859) 238-5475
+   Original line: Patrick Robidoux Head Coach patrick.robidoux@centre.edu (859) 238-5475
+
+55. Emma White
+   Email: emma.white@centre.edu
+   Username: emma.white
+   Original line: Emma White Assistant Coach emma.white@centre.edu
+
+56. Lisa Owens
+   Email: lisa.owens@centre.edu
+   Username: lisa.owens
+   Phone: (859) 238-5494
+   Original line: Lisa Owens Director of Cross Country and Track & Field / Head Coach lisa.owens@centre.edu (859) 238-5494
+
+57. Wilson Blakeman
+   Email: wilson.blakeman@centre.edu
+   Username: wilson.blakeman
+   Phone: (859) 238-5856
+   Original line: Wilson Blakeman '20 Assistant Coach wilson.blakeman@centre.edu (859) 238-5856
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Braden Tabor '21 Assistant Strength and Conditioning Coach braden.tabor@centre.edu
+• Carter Conley '02 Assistant Strength and Conditioning Coach carter.conley@centre.edu (859) 238-6039
+• Drew Briese '00 Head Coach drew.briese@centre.edu (859) 238-5489
+• Taylor Valentine Assistant Coach taylor.valentine@centre.edu
+• Rory Costello Assistant Coach rory.costello@centre.edu
+• Samantha Alongi Head Coach samantha.alongi@centre.edu
+• Grant Lyon '21 Director of Esports & Head Coach grant.lyon@centre.edu (859) 238-8710
+• Andy Frye Head Coach andy.frye@centre.edu (859) 238-5496
+• Nate Simmons Safeties Coach nate.simmons@centre.edu (859)238-5495
+• Tom Lachendro Defensive Line Coach thomas.lachendro@centre.edu (859)238-8720
+• Robert Couch Offensive Line Coach robert.couch@centre.edu (859)238-5484
+• Parker Lewis Running Backs Coach parker.lewis@centre.edu
+• Sam Murray '22 Wide Receivers Coach sam.murray@centre.edu
+• Nick Grant '25 Cornerbacks Coach nick.grant@centre.edu
+• Mark Peach Inside Receivers Coach mark.peach@centre.edu
+• Grace Goodbarn Head Coach grace.goodbarn@centre.edu (859) 238-8746
+• Meghan Speth '24 Assistant Coach meghan.speth@centre.edu
+• Gavin Root Interim Head Coach gavin.root@centre.edu (859)238-5854
+• Ben Fuqua Head Coach ben.fuqua@centre.edu
+• Phil Havira '16 Head Coach phil.havira@centre.edu (859) 238-5878
+• Tyler Covey Assistant Coach tyler.covey@centre.edu
+• Chris Shelli Assistant Coach christopher.shelli@centre.edu
+• Jeb Burch '94 Head Coach jeb.burch@centre.edu (859) 238-5253
+• Teddy Kolesnikov Assistant Coach teddy.kolesnikov@centre.edu
+• Rich Benson Head Coach richard.benson@centre.edu (859) 238-5559
+• Lisa Owens Director of Cross Country and Track & Field / Head Coach lisa.owens@centre.edu (859) 238-5494
+• Edwin Hagans Associate Head Coach edwin.hagans@centre.edu (859) 238-5928
+• Jacob Carter '12 Assistant Coach / Recruiting Coordinator jacob.carter@centre.edu (859) 238-5861
+• Ernest Mosheleketi Assistant Coach / Jumps ernest.mosheleketi@centre.edu (859) 238-5857
+• Wilson Blakeman '20 Assistant Coach wilson.blakeman@centre.edu (859) 238-5856
+• John Hockersmith Assistant Coach / Hammer john.hockersmith@centre.edu
+• Jim O'Hare Assistant Coach / Pole Vault james.ohare@centre.edu
+• Lisa Owens Director of Cross Country and Track & Field / Head Coach lisa.owens@centre.edu (859) 238-5494
+• Wilson Blakeman '20 Assistant Coach wilson.blakeman@centre.edu (859) 238-5856
+• Laura Villagrana Head Coach laura.villagrana@centre.edu (859) 238-5859
+• Dean Brownley Head Coach dean.brownley@centre.edu (859) 238-5540
+• Tasha Singleton Assistant Coach / Diving natasha.singleton@centre.edu
+• Woody Franklin Diving Coach woody.franklin@centre.edu
+• Megan Zerhusen Assistant Coach megan.zerhusen@centre.edu
+• Wendie Austin '94 Head Coach w.austinrobinson@centre.edu (859) 238-8756
+• Abigail Wehby '21 Assistant Coach abigail.wehby@centre.edu (859) 238-8718
+• CheyAnn Knudsen Head Coach cheyann.knudsen@centre.edu (859) 238-6546
+• Carter Hall Head Coach carter.hall@centre.edu
+• Jay Hoffman '96 Head Coach hoffman@centre.edu (859) 238-5554
+• JK Gonzalez '22 Assistant Coach jk.gonzalez@centre.edu
+• Morgan Cook Head Coach morgan.cook@centre.edu (606)524-2645
+• Lisa Owens Director of Cross Country and Track & Field / Head Coach lisa.owens@centre.edu (859) 238-5494
+• Edwin Hagans Associate Head Coach edwin.hagans@centre.edu (859) 238-5928
+• Jacob Carter '12 Assistant Coach / Recruiting Coordinator jacob.carter@centre.edu (859) 238-5861
+• Ernest Mosheleketi Assistant Coach / Jumps ernest.mosheleketi@centre.edu (859) 238-5857
+• Wilson Blakeman '20 Assistant Coach wilson.blakeman@centre.edu (859) 238-5856
+• John Hockersmith Assistant Coach / Hammer john.hockersmith@centre.edu
+• Jim O'Hare Assistant Coach / Pole Vault james.ohare@centre.edu
+• Patrick Robidoux Head Coach patrick.robidoux@centre.edu (859) 238-5475
+• Emma White Assistant Coach emma.white@centre.edu
+• Lisa Owens Director of Cross Country and Track & Field / Head Coach lisa.owens@centre.edu (859) 238-5494
+• Wilson Blakeman '20 Assistant Coach wilson.blakeman@centre.edu (859) 238-5856

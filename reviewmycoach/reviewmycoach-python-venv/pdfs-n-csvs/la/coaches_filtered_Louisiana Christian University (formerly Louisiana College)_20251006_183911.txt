@@ -1,0 +1,125 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:11
+============================================================
+
+Total coaches found: 19
+
+PARSED ENTRIES:
+----------------------------------------
+1. Reni Mason
+   Email: reni.mason@lcuniversity.edu
+   Username: reni.mason
+   Original line: Reni Mason Vice President of CoachMason1906 reni.mason@lcuniversity.edu 318-
+
+2. Mike Byrnes
+   Email: michael.byrnes@lcuniversity.edu
+   Username: michael.byrnes
+   Original line: Mike Byrnes Head Coach LCU_bsb michael.byrnes@lcuniversity.edu 318-
+
+3. Cody Laprarie
+   Email: cody.laprarie@lcuniversity.edu
+   Username: cody.laprarie
+   Original line: Cody Laprarie Hitting Coach LCU_bsb cody.laprarie@lcuniversity.edu 318-
+
+4. Anna Phillips
+   Email: anna.phillips@lcuniversity.edu
+   Username: anna.phillips
+   Original line: Anna Phillips Head Coach LCU_WBB anna.phillips@lcuniversity.edu 318-
+
+5. Stephanie Graham
+   Email: stephanie.graham@lcuniversity.edu
+   Username: stephanie.graham
+   Original line: Stephanie Graham Head Coach stephanie.graham@lcuniversity.edu
+
+6. Ben McLaughlin
+   Email: ben.mclaughlin@lcuniversity.edu
+   Username: ben.mclaughlin
+   Original line: Ben McLaughlin Head Coach ben.mclaughlin@lcuniversity.edu 318-
+
+7. Josh Graham
+   Email: joshua.graham@lcuniversity.edu
+   Username: joshua.graham
+   Original line: Josh Graham Associate Head Coach | CoachJZGraham joshua.graham@lcuniversity.edu
+
+8. Eric Morris
+   Email: eric.morris@lcuniversity.edu
+   Username: eric.morris
+   Original line: Eric Morris Out of State Recruiting @CoachMo54 eric.morris@lcuniversity.edu
+
+9. Jarod Freeman
+   Email: jarod.freeman@lcuniversity.edu
+   Username: jarod.freeman
+   Original line: Jarod Freeman Outside Linebackers Coach @coachJfreeman89 jarod.freeman@lcuniversity.edu
+
+10. Tyren Young
+   Email: tyren.young@lcuniversity.edu
+   Username: tyren.young
+   Original line: Tyren Young Cornerbacks Coach tyren.young@lcuniversity.edu
+
+11. Max Parden
+   Email: max.parden@lcuniversity.edu
+   Username: max.parden
+   Original line: Max Parden Quarterbacks Coach max.parden@lcuniversity.edu
+
+12. Noah Ylagan
+   Email: noah.ylagan@lcuniversity.edu
+   Username: noah.ylagan
+   Original line: Noah Ylagan Wide Receiver Coach | noah.ylagan@lcuniversity.edu
+
+13. Joe Campanele
+   Email: joe.campanele@lcuniversity.edu
+   Username: joe.campanele
+   Original line: Joe Campanele Running Back Coach joe.campanele@lcuniversity.edu
+
+14. Brody Page
+   Email: brody.page@lcuniversity.edu
+   Username: brody.page
+   Original line: Brody Page Defensive Assistant Coach brody.page@lcuniversity.edu
+
+15. Josh Graham
+   Email: joshua.graham@lcuniversity.edu
+   Username: joshua.graham
+   Original line: Josh Graham Head Coach joshua.graham@lcuniversity.edu
+
+16. Arick Lassiter
+   Email: arick.lassiter@lcuniversity.edu
+   Username: arick.lassiter
+   Original line: Arick Lassiter Head Coach arick.lassiter@lcuniversity.edu
+
+17. Mattie Stine
+   Email: mattie.stine@lcuniversity.edu
+   Username: mattie.stine
+   Original line: Mattie Stine Head Softball Coach mstine22 mattie.stine@lcuniversity.edu 337-
+
+18. Paige Hightower
+   Email: paige.hightower@lcuniversity.edu
+   Username: paige.hightower
+   Original line: Paige Hightower Assistant Coach paige.hightower@lcuniversity.edu
+
+19. Alexandra Starkova
+   Email: alexandra.starkova@lcuniversity.edu
+   Username: alexandra.starkova
+   Original line: Alexandra Starkova Head Coach LCU_WTEN alexandra.starkova@lcuniversity.edu 318-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Reni Mason Vice President of CoachMason1906 reni.mason@lcuniversity.edu 318-
+• Mike Byrnes Head Coach LCU_bsb michael.byrnes@lcuniversity.edu 318-
+• Cody Laprarie Hitting Coach LCU_bsb cody.laprarie@lcuniversity.edu 318-
+• Anna Phillips Head Coach LCU_WBB anna.phillips@lcuniversity.edu 318-
+• Stephanie Graham Head Coach stephanie.graham@lcuniversity.edu
+• Ben McLaughlin Head Coach ben.mclaughlin@lcuniversity.edu 318-
+• Josh Graham Associate Head Coach | CoachJZGraham joshua.graham@lcuniversity.edu
+• Eric Morris Out of State Recruiting @CoachMo54 eric.morris@lcuniversity.edu
+• Jarod Freeman Outside Linebackers Coach @coachJfreeman89 jarod.freeman@lcuniversity.edu
+• Tyren Young Cornerbacks Coach tyren.young@lcuniversity.edu
+• Max Parden Quarterbacks Coach max.parden@lcuniversity.edu
+• Noah Ylagan Wide Receiver Coach | noah.ylagan@lcuniversity.edu
+• Joe Campanele Running Back Coach joe.campanele@lcuniversity.edu
+• Brody Page Defensive Assistant Coach brody.page@lcuniversity.edu
+• Josh Graham Head Coach joshua.graham@lcuniversity.edu
+• Arick Lassiter Head Coach arick.lassiter@lcuniversity.edu
+• Mattie Stine Head Softball Coach mstine22 mattie.stine@lcuniversity.edu 337-
+• Paige Hightower Assistant Coach paige.hightower@lcuniversity.edu
+• Alexandra Starkova Head Coach LCU_WTEN alexandra.starkova@lcuniversity.edu 318-

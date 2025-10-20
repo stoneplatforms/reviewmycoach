@@ -1,0 +1,166 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:19
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tad Boyle
+   Email: marge.marcy@colorado.edu
+   Username: marge.marcy
+   Phone: (303) 492-6877
+   Original line: Tad Boyle Head Coach marge.marcy@colorado.edu 303-492-6877
+
+2. Bill Grier
+   Email: william.grier@colorado.edu
+   Username: william.grier
+   Phone: (303) 492-5694
+   Original line: Bill Grier Assistant Coach william.grier@colorado.edu 303-492-5694
+
+3. Danny Assistant
+   Email: marge.marcy@colorado.edu
+   Username: marge.marcy
+   Phone: (303) 492-6877
+   Original line: Danny Assistant Coach marge.marcy@colorado.edu 303-492-6877
+
+4. Taelor Karr
+   Email: taelor.karr@colorado.edu
+   Username: taelor.karr
+   Phone: (303) 492-7091
+   Original line: Taelor Karr Assistant Coach taelor.karr@colorado.edu 303-492-7091
+
+5. Jordynn Assistant
+   Email: jordynn.hernandez@colorado.edu
+   Username: jordynn.hernandez
+   Original line: Jordynn Assistant Coach jordynn.hernandez@colorado.edu
+
+6. Kate Mattison
+   Email: kate.mattison@colorado.edu
+   Username: kate.mattison
+   Phone: (720) 948-9402
+   Original line: Kate Mattison Assistant Coach - kate.mattison@colorado.edu 720-948-9402
+
+7. Dalton Hengst
+   Email: dalton.hengst@colorado.edu
+   Username: dalton.hengst
+   Phone: (720) 830-6590
+   Original line: Dalton Hengst Assistant Coach - dalton.hengst@colorado.edu 720-830-6590
+
+8. Burke Assistant
+   Email: burke.bockman@colorado.edu
+   Username: burke.bockman
+   Phone: (303) 492-5466
+   Original line: Burke Assistant Coach - burke.bockman@colorado.edu 303-492-5466
+
+9. Brian Cabral
+   Email: brian.cabral@colorado.edu
+   Username: brian.cabral
+   Original line: Brian Cabral Character Coach brian.cabral@colorado.edu
+
+10. Roy Edwards
+   Email: roy.edwards@colorado.edu
+   Username: roy.edwards
+   Original line: Roy Edwards Head Coach roy.edwards@colorado.edu
+
+11. Madeleine Head
+   Email: msheils@colorado.edu
+   Username: msheils
+   Original line: Madeleine Head Coach msheils@colorado.edu
+
+12. Mia Landegren
+   Email: mia.landegren@colorado.edu
+   Username: mia.landegren
+   Phone: (720) 908-7292
+   Original line: Mia Landegren Assistant Coach mia.landegren@colorado.edu 720-908-7292
+
+13. Ann Elliott
+   Email: ann.elliott@colorado.edu
+   Username: ann.elliott
+   Phone: (303) 492-8996
+   Original line: Ann Elliott Head Coach ann.elliott@colorado.edu 303-492-8996
+
+14. Sam McGee
+   Email: samantha.mcgee@colorado.edu
+   Username: samantha.mcgee
+   Phone: (303) 656-7604
+   Original line: Sam McGee Assistant Coach samantha.mcgee@colorado.edu 303-656-7604
+
+15. Wes Weber
+   Email: wesley.weber@colorado.edu
+   Username: wesley.weber
+   Original line: Wes Weber Assistant Coach wesley.weber@colorado.edu
+
+16. Ian Lochhead
+   Email: ian.lochhead@colorado.edu
+   Username: ian.lochhead
+   Phone: (303) 328-1133
+   Original line: Ian Lochhead Head Alpine Coach ian.lochhead@colorado.edu 303-328-1133
+
+17. Danny Head
+   Email: danny.sanchez@colorado.edu
+   Username: danny.sanchez
+   Phone: (303) 492-4709
+   Original line: Danny Head Coach danny.sanchez@colorado.edu 303-492-4709
+
+18. Jacy Drobney
+   Email: coloradosoccer@colorado.edu
+   Username: coloradosoccer
+   Phone: (303) 492-0632
+   Original line: Jacy Drobney Assistant Coach coloradosoccer@colorado.edu 303-492-0632
+
+19. Anthony Pham
+   Email: anthony.pham-1@colorado.edu
+   Username: anthony.pham-1
+   Phone: (720) 768-2901
+   Original line: Anthony Pham Head Coach anthony.pham-1@colorado.edu 720-768-2901
+
+20. Blake Mosley
+   Email: blake.mosley@colorado.edu
+   Username: blake.mosley
+   Phone: (808) 228-2051
+   Original line: Blake Mosley Assistant Coach blake.mosley@colorado.edu 808-228-2051
+
+21. Samson Assistant
+   Email: samson.larson@colorado.edu
+   Username: samson.larson
+   Original line: Samson Assistant Coach samson.larson@colorado.edu
+
+22. Jesse Head
+   Email: jesse.mahoney@colorado.edu
+   Username: jesse.mahoney
+   Phone: (303) 492-4913
+   Original line: Jesse Head Coach jesse.mahoney@colorado.edu 303-492-4913
+
+23. Evan Sanders
+   Email: evangella.sanders@colorado.edu
+   Username: evangella.sanders
+   Phone: (303) 492-4527
+   Original line: Evan Sanders Assistant Coach evangella.sanders@colorado.edu 303-492-4527
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tad Boyle Head Coach marge.marcy@colorado.edu 303-492-6877
+• Bill Grier Assistant Coach william.grier@colorado.edu 303-492-5694
+• Danny Assistant Coach marge.marcy@colorado.edu 303-492-6877
+• Taelor Karr Assistant Coach taelor.karr@colorado.edu 303-492-7091
+• Jordynn Assistant Coach jordynn.hernandez@colorado.edu
+• Kate Mattison Assistant Coach - kate.mattison@colorado.edu 720-948-9402
+• Dalton Hengst Assistant Coach - dalton.hengst@colorado.edu 720-830-6590
+• Burke Assistant Coach - burke.bockman@colorado.edu 303-492-5466
+• Brian Cabral Character Coach brian.cabral@colorado.edu
+• Roy Edwards Head Coach roy.edwards@colorado.edu
+• Madeleine Head Coach msheils@colorado.edu
+• Mia Landegren Assistant Coach mia.landegren@colorado.edu 720-908-7292
+• Ann Elliott Head Coach ann.elliott@colorado.edu 303-492-8996
+• Sam McGee Assistant Coach samantha.mcgee@colorado.edu 303-656-7604
+• Wes Weber Assistant Coach wesley.weber@colorado.edu
+• Ian Lochhead Head Alpine Coach ian.lochhead@colorado.edu 303-328-1133
+• Danny Head Coach danny.sanchez@colorado.edu 303-492-4709
+• Jacy Drobney Assistant Coach coloradosoccer@colorado.edu 303-492-0632
+• Anthony Pham Head Coach anthony.pham-1@colorado.edu 720-768-2901
+• Blake Mosley Assistant Coach blake.mosley@colorado.edu 808-228-2051
+• Samson Assistant Coach samson.larson@colorado.edu
+• Jesse Head Coach jesse.mahoney@colorado.edu 303-492-4913
+• Evan Sanders Assistant Coach evangella.sanders@colorado.edu 303-492-4527

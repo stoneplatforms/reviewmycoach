@@ -1,0 +1,284 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:42
+============================================================
+
+Total coaches found: 45
+
+PARSED ENTRIES:
+----------------------------------------
+1. Pat Evers
+   Email: pevers@maryville.edu
+   Username: pevers
+   Original line: Pat Evers Head Baseball Coach pevers@maryville.edu 314-529-
+
+2. Joey Polak
+   Email: jpolak1@maryville.edu
+   Username: jpolak1
+   Original line: Joey Polak Assistant Baseball Coach/Recruiting Coordinator jpolak1@maryville.edu 314-529-
+
+3. Andy Bunton
+   Email: abunton2@maryville.edu
+   Username: abunton2
+   Original line: Andy Bunton Assistant Baseball Coach abunton2@maryville.edu
+
+4. Michael Gould
+   Email: mgould3@live.maryville.edu
+   Username: mgould3
+   Original line: Michael Gould Assistant Baseball Coach mgould3@live.maryville.edu
+
+5. Preston Ingram
+   Email: pingram@maryville.edu
+   Username: pingram
+   Original line: Preston Ingram Head Men's Basketball Coach pingram@maryville.edu 314-529-
+
+6. Lance Egnatz
+   Email: legnatz@maryville.edu
+   Username: legnatz
+   Original line: Lance Egnatz Assistant Men's Basketball Coach legnatz@maryville.edu 314-529-
+
+7. Jarad Hollis
+   Email: jhollis@maryville.edu
+   Username: jhollis
+   Original line: Jarad Hollis Assistant Men's Basketball Coach jhollis@maryville.edu 314-529-
+
+8. Brita Hand
+   Email: bhand@maryville.edu
+   Username: bhand
+   Original line: Brita Hand Head Women's Basketball Coach bhand@maryville.edu
+
+9. Max Ethridge
+   Email: methridge@maryville.edu
+   Username: methridge
+   Original line: Max Ethridge Associate Head Women's Basketball Coach methridge@maryville.edu 608-417-
+
+10. Brie Murphy
+   Email: bmurphy5@maryville.edu
+   Username: bmurphy5
+   Original line: Brie Murphy Assistant Women's Basketball Coach bmurphy5@maryville.edu 314-529-
+
+11. Lauren Russo
+   Email: lpate@maryville.edu
+   Username: lpate
+   Original line: Lauren Russo Head Women's Bowling Coach lpate@maryville.edu
+
+12. Charles Pruitt
+   Email: cpruitt@maryville.edu
+   Username: cpruitt
+   Original line: Charles Pruitt Head Cross Country Coach cpruitt@maryville.edu
+
+13. Maggie Young
+   Email: myoung15@maryville.edu
+   Username: myoung15
+   Original line: Maggie Young Head Field Hockey Coach myoung15@maryville.edu 314-540-
+
+14. Alex Arnette
+   Email: aarnette@maryville.edu
+   Username: aarnette
+   Original line: Alex Arnette Assistant Coach aarnette@maryville.edu
+
+15. Brad Smith
+   Email: bsmith38@maryville.edu
+   Username: bsmith38
+   Original line: Brad Smith Head Men's and Women's Golf Coach bsmith38@maryville.edu 314-529-
+
+16. Scott Thomas
+   Email: sthomas7@maryville.edu
+   Username: sthomas7
+   Original line: Scott Thomas Assistant Golf Coach sthomas7@maryville.edu
+
+17. Kevin Gregory
+   Email: kgregory3@maryville.edu
+   Username: kgregory3
+   Original line: Kevin Gregory ACHA Men’s D1 Assistant Coach/ACHA Men’s D3 Head kgregory3@maryville.edu 314-660-
+
+18. Arren Romeril
+   Email: aromeril1@maryville.edu
+   Username: aromeril1
+   Phone: 314.529.6306
+   Original line: Arren Romeril ACHA Men’s D3 Head Coach aromeril1@maryville.edu 314.529.6306
+
+19. Scott Stark
+   Email: wstark@maryville.edu
+   Username: wstark
+   Original line: Scott Stark Head Men's Lacrosse Coach wstark@maryville.edu 314-529-
+
+20. Casey Mithun
+   Email: cmithun@maryville.edu
+   Username: cmithun
+   Original line: Casey Mithun Associate Men's Lacrosse Head Coach cmithun@maryville.edu
+
+21. Derek Radke
+   Email: dradke2@maryville.edu
+   Username: dradke2
+   Original line: Derek Radke Assistant Men's Lacrosse Coach dradke2@maryville.edu
+
+22. Melissa Gyllenborg
+   Email: mgyllenborg@maryville.edu
+   Username: mgyllenborg
+   Original line: Melissa Gyllenborg Head Women's Lacrosse Coach mgyllenborg@maryville.edu 314-529-
+
+23. Carly Shisler
+   Email: cshisler@maryville.edu
+   Username: cshisler
+   Original line: Carly Shisler Assistant Women's Lacrosse Coach cshisler@maryville.edu
+
+24. Adam Hall
+   Email: ahall26@maryville.edu
+   Username: ahall26
+   Original line: Adam Hall Head Men's Soccer Coach ahall26@maryville.edu 314-529-
+
+25. Roosevelt Peters
+   Email: rpeters2@maryville.edu
+   Username: rpeters2
+   Original line: Roosevelt Peters Assistant Men's Soccer Coach rpeters2@maryville.edu 314-343-
+
+26. Daniel Brennan
+   Email: dbrennan3@maryville.edu
+   Username: dbrennan3
+   Original line: Daniel Brennan Assistant Coach | Goalkeepers dbrennan3@maryville.edu
+
+27. Lori Lawson
+   Email: llawson@maryville.edu
+   Username: llawson
+   Phone: (314) 529-9311
+   Original line: Lori Lawson Head Women's Soccer Coach llawson@maryville.edu 314-529-9311
+
+28. Eric Delabar
+   Email: edelabar@maryville.edu
+   Username: edelabar
+   Phone: (314) 529-9311
+   Original line: Eric Delabar Assistant Women's Soccer Coach edelabar@maryville.edu 314-529-9311
+
+29. Ian McReynolds
+   Email: im.maryvillewsoc@gmail.com
+   Username: im.maryvillewsoc
+   Original line: Ian McReynolds Assistant Women's Soccer Coach im.maryvillewsoc@gmail.com
+
+30. Chanin Billings
+   Email: cbillings@maryville.edu
+   Username: cbillings
+   Original line: Chanin Billings Head Softball Coach cbillings@maryville.edu
+
+31. Kayleigh Behymer-Swan
+   Email: kswan@maryville.edu
+   Username: kswan
+   Original line: Kayleigh Behymer-Swan Assistant Softball Coach kswan@maryville.edu
+
+32. Kara Krawiecki
+   Email: kkrawiecki@maryville.edu
+   Username: kkrawiecki
+   Original line: Kara Krawiecki Head STUNT Coach kkrawiecki@maryville.edu
+
+33. David Reinhart
+   Email: dreinhart@maryville.edu
+   Username: dreinhart
+   Original line: David Reinhart Head Men's and Women's Tennis Coach dreinhart@maryville.edu 314-529-
+
+34. David Reinhart
+   Email: dreinhart@maryville.edu
+   Username: dreinhart
+   Original line: David Reinhart Head Men's and Women's Tennis Coach dreinhart@maryville.edu 314-529-
+
+35. Tommie Dabney
+   Email: tdabney@maryville.edu
+   Username: tdabney
+   Original line: Tommie Dabney Head Cross Country and Track & Field Coach tdabney@maryville.edu
+
+36. Charles Pruitt
+   Email: cpruitt@maryville.edu
+   Username: cpruitt
+   Original line: Charles Pruitt Head Cross Country Coach cpruitt@maryville.edu
+
+37. Zach Fiser
+   Email: zfiser@maryville.edu
+   Username: zfiser
+   Original line: Zach Fiser Javelin & Assistant Throws Coach zfiser@maryville.edu
+
+38. Issac Readnour
+   Email: ireadnour1@live.maryville.edu
+   Username: ireadnour1
+   Original line: Issac Readnour Volunteer Pole Vault Coach ireadnour1@live.maryville.edu
+
+39. Gretchen Moser
+   Email: gmoser@maryville.edu
+   Username: gmoser
+   Original line: Gretchen Moser Head Volleyball Coach gmoser@maryville.edu 314-651-
+
+40. Ben Briney
+   Email: bbriney@maryville.edu
+   Username: bbriney
+   Original line: Ben Briney Assistant Women's Volleyball Coach bbriney@maryville.edu
+
+41. Mike Haston
+   Email: mhaston@maryville.edu
+   Username: mhaston
+   Original line: Mike Haston Head Men's Volleyball Coach mhaston@maryville.edu 314-707-
+
+42. Ryan LeGrand
+   Email: rlegrand@maryville.edu
+   Username: rlegrand
+   Original line: Ryan LeGrand Assistant Men's Volleyball Coach rlegrand@maryville.edu 314-529-
+
+43. Charlie Sherertz
+   Email: csherertz@maryville.edu
+   Username: csherertz
+   Original line: Charlie Sherertz Head Wrestling Coach csherertz@maryville.edu
+
+44. Cardy Wilson
+   Email: cwilson29@maryville.edu
+   Username: cwilson29
+   Original line: Cardy Wilson Assistant Wrestling Coach cwilson29@maryville.edu
+
+45. Ryan Payton
+   Email: rpayton@maryville.edu
+   Username: rpayton
+   Original line: Ryan Payton ACHA Women’s D2 Head Coach rpayton@maryville.edu 314-609-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Pat Evers Head Baseball Coach pevers@maryville.edu 314-529-
+• Joey Polak Assistant Baseball Coach/Recruiting Coordinator jpolak1@maryville.edu 314-529-
+• Andy Bunton Assistant Baseball Coach abunton2@maryville.edu
+• Michael Gould Assistant Baseball Coach mgould3@live.maryville.edu
+• Preston Ingram Head Men's Basketball Coach pingram@maryville.edu 314-529-
+• Lance Egnatz Assistant Men's Basketball Coach legnatz@maryville.edu 314-529-
+• Jarad Hollis Assistant Men's Basketball Coach jhollis@maryville.edu 314-529-
+• Brita Hand Head Women's Basketball Coach bhand@maryville.edu
+• Max Ethridge Associate Head Women's Basketball Coach methridge@maryville.edu 608-417-
+• Brie Murphy Assistant Women's Basketball Coach bmurphy5@maryville.edu 314-529-
+• Lauren Russo Head Women's Bowling Coach lpate@maryville.edu
+• Charles Pruitt Head Cross Country Coach cpruitt@maryville.edu
+• Maggie Young Head Field Hockey Coach myoung15@maryville.edu 314-540-
+• Alex Arnette Assistant Coach aarnette@maryville.edu
+• Brad Smith Head Men's and Women's Golf Coach bsmith38@maryville.edu 314-529-
+• Scott Thomas Assistant Golf Coach sthomas7@maryville.edu
+• Kevin Gregory ACHA Men’s D1 Assistant Coach/ACHA Men’s D3 Head kgregory3@maryville.edu 314-660-
+• Arren Romeril ACHA Men’s D3 Head Coach aromeril1@maryville.edu 314.529.6306
+• Scott Stark Head Men's Lacrosse Coach wstark@maryville.edu 314-529-
+• Casey Mithun Associate Men's Lacrosse Head Coach cmithun@maryville.edu
+• Derek Radke Assistant Men's Lacrosse Coach dradke2@maryville.edu
+• Melissa Gyllenborg Head Women's Lacrosse Coach mgyllenborg@maryville.edu 314-529-
+• Carly Shisler Assistant Women's Lacrosse Coach cshisler@maryville.edu
+• Adam Hall Head Men's Soccer Coach ahall26@maryville.edu 314-529-
+• Roosevelt Peters Assistant Men's Soccer Coach rpeters2@maryville.edu 314-343-
+• Daniel Brennan Assistant Coach | Goalkeepers dbrennan3@maryville.edu
+• Lori Lawson Head Women's Soccer Coach llawson@maryville.edu 314-529-9311
+• Eric Delabar Assistant Women's Soccer Coach edelabar@maryville.edu 314-529-9311
+• Ian McReynolds Assistant Women's Soccer Coach im.maryvillewsoc@gmail.com
+• Chanin Billings Head Softball Coach cbillings@maryville.edu
+• Kayleigh Behymer-Swan Assistant Softball Coach kswan@maryville.edu
+• Kara Krawiecki Head STUNT Coach kkrawiecki@maryville.edu
+• David Reinhart Head Men's and Women's Tennis Coach dreinhart@maryville.edu 314-529-
+• David Reinhart Head Men's and Women's Tennis Coach dreinhart@maryville.edu 314-529-
+• Tommie Dabney Head Cross Country and Track & Field Coach tdabney@maryville.edu
+• Charles Pruitt Head Cross Country Coach cpruitt@maryville.edu
+• Zach Fiser Javelin & Assistant Throws Coach zfiser@maryville.edu
+• Issac Readnour Volunteer Pole Vault Coach ireadnour1@live.maryville.edu
+• Gretchen Moser Head Volleyball Coach gmoser@maryville.edu 314-651-
+• Ben Briney Assistant Women's Volleyball Coach bbriney@maryville.edu
+• Mike Haston Head Men's Volleyball Coach mhaston@maryville.edu 314-707-
+• Ryan LeGrand Assistant Men's Volleyball Coach rlegrand@maryville.edu 314-529-
+• Charlie Sherertz Head Wrestling Coach csherertz@maryville.edu
+• Cardy Wilson Assistant Wrestling Coach cwilson29@maryville.edu
+• Ryan Payton ACHA Women’s D2 Head Coach rpayton@maryville.edu 314-609-

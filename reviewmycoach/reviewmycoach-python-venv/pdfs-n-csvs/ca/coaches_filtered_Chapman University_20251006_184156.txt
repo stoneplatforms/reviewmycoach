@@ -1,0 +1,323 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:57
+============================================================
+
+Total coaches found: 52
+
+PARSED ENTRIES:
+----------------------------------------
+1. Scott Laverty
+   Email: baseball@chapman.edu
+   Username: baseball
+   Original line: Scott Laverty Head Coach baseball@chapman.edu (714) UC Riverside 605-431-1 (.584);
+
+2. Dave Edwards
+   Email: baseball@chapman.edu
+   Username: baseball
+   Original line: Dave Edwards Associate Head Coach/Pitching baseball@chapman.edu (714)
+
+3. Eric Deovlet
+   Email: baseball@chapman.edu
+   Username: baseball
+   Original line: Eric Deovlet Assistant Coach baseball@chapman.edu San Diego State
+
+4. Joe Torres
+   Email: baseball@chapman.edu
+   Username: baseball
+   Original line: Joe Torres Assistant Coach baseball@chapman.edu UC Davis (2019),
+
+5. Michael Goodrich
+   Email: migo88345@chapman.edu
+   Username: migo88345
+   Original line: Michael Goodrich Volunteer Assistant Coach migo88345@chapman.edu
+
+6. Dan Krikorian
+   Email: mbb@chapman.edu
+   Username: mbb
+   Original line: Dan Krikorian '07 Head Coach mbb@chapman.edu (714) Chapman (2007) 14-11 (.560); 2nd
+
+7. Kyle Milligan
+   Email: kmilligan@chapman.edu
+   Username: kmilligan
+   Original line: Kyle Milligan Associate Head Coach kmilligan@chapman.edu (714) Redlands (2016)
+
+8. Mike Molina
+   Email: mimolina@chapman.edu
+   Username: mimolina
+   Original line: Mike Molina '19 Volunteer Assistant Coach mimolina@chapman.edu (714) Chapman (2019,
+
+9. Ringo Bossenmeyer
+   Email: mbb@chapman.edu
+   Username: mbb
+   Original line: Ringo Bossenmeyer Assistant Coach mbb@chapman.edu
+
+10. Carol Jue
+   Email: jue@chapman.edu
+   Username: jue
+   Original line: Carol Jue Head Coach jue@chapman.edu (714) Claremont 383-197 (.660); 23rd
+
+11. Jennifer Lieu
+   Email: watanabe@chapman.edu
+   Username: watanabe
+   Original line: Jennifer Lieu Assistant Coach watanabe@chapman.edu (714) UC San Diego
+
+12. Tony Veney
+   Email: veney@chapman.edu
+   Username: veney
+   Original line: Tony Veney Head Coach veney@chapman.edu (714) UCLA (1976)
+
+13. Mircea Bogdan
+   Email: mbogdan@chapman.edu
+   Username: mbogdan
+   Original line: Mircea Bogdan Assistant Coach mbogdan@chapman.edu 714-744-
+
+14. Casey Shine
+   Email: shine@chapman.edu
+   Username: shine
+   Original line: Casey Shine Interim Head Coach shine@chapman.edu (714) Nevada (1996) 0-0 (1st season)
+
+15. David Bishop
+   Email: dbishop@chapman.edu
+   Username: dbishop
+   Original line: David Bishop Assistant Head Coach/Defensive dbishop@chapman.edu (714) Long Beach State 32nd season
+
+16. Ming Lao
+   Email: lao@chapman.edu
+   Username: lao
+   Original line: Ming Lao Head Coach lao@chapman.edu (714) Long Beach State
+
+17. Kristen Lee
+   Email: krilee@chapman.edu
+   Username: krilee
+   Original line: Kristen Lee '22 Assistant Coach krilee@chapman.edu (714) Chapman (2022)
+
+18. Ming Lao
+   Email: lao@chapman.edu
+   Username: lao
+   Original line: Ming Lao Head Coach lao@chapman.edu (714) Long Beach State
+
+19. Kristen Lee
+   Email: krilee@chapman.edu
+   Username: krilee
+   Original line: Kristen Lee '22 Assistant Coach krilee@chapman.edu (714) Chapman (2022)
+
+20. Delaney Benson
+   Email: debenson@chapman.edu
+   Username: debenson
+   Original line: Delaney Benson Head Coach debenson@chapman.edu (714) Fort Lewis 15-17 (.469); 3rd
+
+21. Larkin McDermott
+   Email: lmcdermott@chapman.edu
+   Username: lmcdermott
+   Original line: Larkin McDermott Assistant Coach lmcdermott@chapman.edu Whittier (2022)
+
+22. Eddie Carrillo
+   Email: carrillo@chapman.edu
+   Username: carrillo
+   Original line: Eddie Carrillo '90 Head Coach carrillo@chapman.edu (714) Chapman (1990) 262-210-57 (.549);
+
+23. Romeo Aguinaldo
+   Email: aguinald@chapman.edu
+   Username: aguinald
+   Original line: Romeo Aguinaldo Assistant Coach aguinald@chapman.edu
+
+24. Stephen Teal
+   Email: steal@chapman.edu
+   Username: steal
+   Original line: Stephen Teal Assistant Coach/Recruiting steal@chapman.edu
+
+25. TJ Perez
+   Email: typerez@chapman.edu
+   Username: typerez
+   Original line: TJ Perez Head Coach typerez@chapman.edu (714) Sonoma State 26-15-18 (.593); 4th
+
+26. Breanna Carrillo
+   Email: bcarrillo@chapman.edu
+   Username: bcarrillo
+   Original line: Breanna Carrillo Assistant Coach bcarrillo@chapman.edu CSUN
+
+27. Reanna Gibbs
+   Email: regibbs@chapman.edu
+   Username: regibbs
+   Original line: Reanna Gibbs Assistant Coach regibbs@chapman.edu
+
+28. Janet Lloyd
+   Email: jlloyd@chapman.edu
+   Username: jlloyd
+   Original line: Janet Lloyd '84 Head Coach jlloyd@chapman.edu (714) Chapman (1984), 781-463 (.628); 32nd
+
+29. Suzy Brazney
+   Email: softball@chapman.edu
+   Username: softball
+   Original line: Suzy Brazney Assistant Coach softball@chapman.edu (714) Cal Poly Pomona
+
+30. Monica Colunga
+   Email: softball@chapman.edu
+   Username: softball
+   Original line: Monica Colunga '83 Volunteer Assistant Coach softball@chapman.edu Chapman (1983)
+
+31. Jesse Martinson
+   Email: softball@chapman.edu
+   Username: softball
+   Original line: Jesse Martinson Volunteer Assistant Coach softball@chapman.edu
+
+32. Juliet Suess
+   Email: suess@chapman.edu
+   Username: suess
+   Original line: Juliet Suess Head Coach suess@chapman.edu Occidental (2014) HT - 22-6 (.786) | LT -
+
+33. Curt Wilson
+   Email: swimdive@chapman.edu
+   Username: swimdive
+   Original line: Curt Wilson Head Diving Coach swimdive@chapman.edu
+
+34. Jason Willman
+   Email: jwillman@chapman.edu
+   Username: jwillman
+   Original line: Jason Willman '22 Assistant Coach jwillman@chapman.edu Chapman (2022)
+
+35. Carly Miller
+   Email: swimdive@chapman.edu
+   Username: swimdive
+   Original line: Carly Miller Assistant Coach swimdive@chapman.edu
+
+36. Ken Dory
+   Email: swimdive@chapman.edu
+   Username: swimdive
+   Original line: Ken Dory Assistant Coach swimdive@chapman.edu
+
+37. Kylee Theiler
+   Email: swimdive@chapman.edu
+   Username: swimdive
+   Original line: Kylee Theiler Assistant Coach swimdive@chapman.edu
+
+38. Evan Parry
+   Email: parry@chapman.edu
+   Username: parry
+   Original line: Evan Parry Head Coach parry@chapman.edu (714) Malone (2001), First Season
+
+39. Kevin Springer
+   Email: kspringer@chapman.edu
+   Username: kspringer
+   Original line: Kevin Springer Assistant Coach kspringer@chapman.edu
+
+40. Keeley Arendt
+   Email: kear95177@chapman.edu
+   Username: kear95177
+   Original line: Keeley Arendt Assistant Coach kear95177@chapman.edu
+
+41. Evan Parry
+   Email: parry@chapman.edu
+   Username: parry
+   Original line: Evan Parry Head Coach parry@chapman.edu (714) Malone (2001), First Season
+
+42. Kevin Springer
+   Email: kspringer@chapman.edu
+   Username: kspringer
+   Original line: Kevin Springer Assistant Coach kspringer@chapman.edu
+
+43. Keeley Arendt
+   Email: kear95177@chapman.edu
+   Username: kear95177
+   Original line: Keeley Arendt Assistant Coach kear95177@chapman.edu
+
+44. Tony Veney
+   Email: veney@chapman.edu
+   Username: veney
+   Original line: Tony Veney Head Coach veney@chapman.edu (714) UCLA (1976)
+
+45. Corrine Blaine
+   Email: ostrovsky@chapman.edu
+   Username: ostrovsky
+   Original line: Corrine Blaine '14 Assistant Coach ostrovsky@chapman.edu Chapman (2014)
+
+46. Eric Ploessel
+   Email: ploessel@chapman.edu
+   Username: ploessel
+   Original line: Eric Ploessel Head Coach ploessel@chapman.edu (714) Long Beach State M - 214-253 (.458);
+
+47. Eric Ploessel
+   Email: ploessel@chapman.edu
+   Username: ploessel
+   Original line: Eric Ploessel Head Coach ploessel@chapman.edu (714) Long Beach State M - 214-253 (.458);
+
+48. Mircea Bogdan
+   Email: mbogdan@chapman.edu
+   Username: mbogdan
+   Original line: Mircea Bogdan Assistant Coach mbogdan@chapman.edu 714-744-
+
+49. Jesse McMillan
+   Email: jmcmillan@chapman.edu
+   Username: jmcmillan
+   Original line: Jesse McMillan Assistant Coach - Pole Vault jmcmillan@chapman.edu
+
+50. Mircea Bogdan
+   Email: mbogdan@chapman.edu
+   Username: mbogdan
+   Original line: Mircea Bogdan Assistant Coach mbogdan@chapman.edu 714-744-
+
+51. Jesse McMillan
+   Email: jmcmillan@chapman.edu
+   Username: jmcmillan
+   Original line: Jesse McMillan Assistant Coach - Pole Vault jmcmillan@chapman.edu
+
+52. Robyn McGillis
+   Email: romc79801@chapman.edu
+   Username: romc79801
+   Original line: Robyn McGillis Volunteer Assistant Coach romc79801@chapman.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Scott Laverty Head Coach baseball@chapman.edu (714) UC Riverside 605-431-1 (.584);
+• Dave Edwards Associate Head Coach/Pitching baseball@chapman.edu (714)
+• Eric Deovlet Assistant Coach baseball@chapman.edu San Diego State
+• Joe Torres Assistant Coach baseball@chapman.edu UC Davis (2019),
+• Michael Goodrich Volunteer Assistant Coach migo88345@chapman.edu
+• Dan Krikorian '07 Head Coach mbb@chapman.edu (714) Chapman (2007) 14-11 (.560); 2nd
+• Kyle Milligan Associate Head Coach kmilligan@chapman.edu (714) Redlands (2016)
+• Mike Molina '19 Volunteer Assistant Coach mimolina@chapman.edu (714) Chapman (2019,
+• Ringo Bossenmeyer Assistant Coach mbb@chapman.edu
+• Carol Jue Head Coach jue@chapman.edu (714) Claremont 383-197 (.660); 23rd
+• Jennifer Lieu Assistant Coach watanabe@chapman.edu (714) UC San Diego
+• Tony Veney Head Coach veney@chapman.edu (714) UCLA (1976)
+• Mircea Bogdan Assistant Coach mbogdan@chapman.edu 714-744-
+• Casey Shine Interim Head Coach shine@chapman.edu (714) Nevada (1996) 0-0 (1st season)
+• David Bishop Assistant Head Coach/Defensive dbishop@chapman.edu (714) Long Beach State 32nd season
+• Ming Lao Head Coach lao@chapman.edu (714) Long Beach State
+• Kristen Lee '22 Assistant Coach krilee@chapman.edu (714) Chapman (2022)
+• Ming Lao Head Coach lao@chapman.edu (714) Long Beach State
+• Kristen Lee '22 Assistant Coach krilee@chapman.edu (714) Chapman (2022)
+• Delaney Benson Head Coach debenson@chapman.edu (714) Fort Lewis 15-17 (.469); 3rd
+• Larkin McDermott Assistant Coach lmcdermott@chapman.edu Whittier (2022)
+• Eddie Carrillo '90 Head Coach carrillo@chapman.edu (714) Chapman (1990) 262-210-57 (.549);
+• Romeo Aguinaldo Assistant Coach aguinald@chapman.edu
+• Stephen Teal Assistant Coach/Recruiting steal@chapman.edu
+• TJ Perez Head Coach typerez@chapman.edu (714) Sonoma State 26-15-18 (.593); 4th
+• Breanna Carrillo Assistant Coach bcarrillo@chapman.edu CSUN
+• Reanna Gibbs Assistant Coach regibbs@chapman.edu
+• Janet Lloyd '84 Head Coach jlloyd@chapman.edu (714) Chapman (1984), 781-463 (.628); 32nd
+• Suzy Brazney Assistant Coach softball@chapman.edu (714) Cal Poly Pomona
+• Monica Colunga '83 Volunteer Assistant Coach softball@chapman.edu Chapman (1983)
+• Jesse Martinson Volunteer Assistant Coach softball@chapman.edu
+• Juliet Suess Head Coach suess@chapman.edu Occidental (2014) HT - 22-6 (.786) | LT -
+• Curt Wilson Head Diving Coach swimdive@chapman.edu
+• Jason Willman '22 Assistant Coach jwillman@chapman.edu Chapman (2022)
+• Carly Miller Assistant Coach swimdive@chapman.edu
+• Ken Dory Assistant Coach swimdive@chapman.edu
+• Kylee Theiler Assistant Coach swimdive@chapman.edu
+• Evan Parry Head Coach parry@chapman.edu (714) Malone (2001), First Season
+• Kevin Springer Assistant Coach kspringer@chapman.edu
+• Keeley Arendt Assistant Coach kear95177@chapman.edu
+• Evan Parry Head Coach parry@chapman.edu (714) Malone (2001), First Season
+• Kevin Springer Assistant Coach kspringer@chapman.edu
+• Keeley Arendt Assistant Coach kear95177@chapman.edu
+• Tony Veney Head Coach veney@chapman.edu (714) UCLA (1976)
+• Corrine Blaine '14 Assistant Coach ostrovsky@chapman.edu Chapman (2014)
+• Eric Ploessel Head Coach ploessel@chapman.edu (714) Long Beach State M - 214-253 (.458);
+• Eric Ploessel Head Coach ploessel@chapman.edu (714) Long Beach State M - 214-253 (.458);
+• Mircea Bogdan Assistant Coach mbogdan@chapman.edu 714-744-
+• Jesse McMillan Assistant Coach - Pole Vault jmcmillan@chapman.edu
+• Mircea Bogdan Assistant Coach mbogdan@chapman.edu 714-744-
+• Jesse McMillan Assistant Coach - Pole Vault jmcmillan@chapman.edu
+• Robyn McGillis Volunteer Assistant Coach romc79801@chapman.edu

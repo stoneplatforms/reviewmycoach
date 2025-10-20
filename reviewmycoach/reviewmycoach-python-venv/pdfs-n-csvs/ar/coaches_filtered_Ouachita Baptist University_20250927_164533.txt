@@ -1,0 +1,251 @@
+COACH ENTRIES FOUND - 2025-09-27 16:45:33
+============================================================
+
+Total coaches found: 40
+
+PARSED ENTRIES:
+----------------------------------------
+1. Bladen Reaves
+   Email: reavesb@obu.edu
+   Username: reavesb
+   Original line: Bladen Reaves Assistant Athletic Performance Coach (WREST / S&D / reavesb@obu.edu 870-245-
+
+2. Mike Emmitt
+   Email: emmittm@obu.edu
+   Username: emmittm
+   Original line: Mike Emmitt Assistant Athletic Performance Coach (XCTF / TEN / VB) emmittm@obu.edu 870-245-
+
+3. Luke Howard
+   Email: howardl@obu.edu
+   Username: howardl
+   Original line: Luke Howard Head Baseball Coach howardl@obu.edu 870-245-
+
+4. Dave Brown
+   Email: brownd@obu.edu
+   Username: brownd
+   Original line: Dave Brown Pitching Coach / Recruiting Coordinator brownd@obu.edu 870-245-
+
+5. Beau Burson
+   Email: bursonb@obu.edu
+   Username: bursonb
+   Original line: Beau Burson Assistant Baseball Coach bursonb@obu.edu 870-245-
+
+6. Tallon Heine
+   Email: heinet@obu.edu
+   Username: heinet
+   Original line: Tallon Heine Assistant Baseball Coach heinet@obu.edu
+
+7. Dennis Nutt
+   Email: nuttd@obu.edu
+   Username: nuttd
+   Original line: Dennis Nutt Head Men's Basketball Coach nuttd@obu.edu 870-245-
+
+8. Levin Thornton
+   Email: thorntonl@obu.edu
+   Username: thorntonl
+   Original line: Levin Thornton Assistant Men's Basketball Coach thorntonl@obu.edu 870-245-
+
+9. Rashard Stringfield
+   Email: stringfieldr@obu.edu
+   Username: stringfieldr
+   Original line: Rashard Stringfield Assistant Men's Basketball Coach stringfieldr@obu.edu
+
+10. Nick Long
+   Email: longn@obu.edu
+   Username: longn
+   Original line: Nick Long Women's Basketball Head Coach longn@obu.edu 870-245-
+
+11. Tyler Doyle
+   Email: doylet@obu.edu
+   Username: doylet
+   Original line: Tyler Doyle Assistant Women's Basketball Coach doylet@obu.edu 870-245-
+
+12. Steve Guymon
+   Email: guymons@obu.edu
+   Username: guymons
+   Original line: Steve Guymon Head Cross Country / Track & Field Coach guymons@obu.edu 870-245-
+
+13. John Jones
+   Email: jonesjo@obu.edu
+   Username: jonesjo
+   Original line: John Jones Assistant XC/TF Coach jonesjo@obu.edu 870-245-
+
+14. Pat Ponder
+   Email: ponderp@obu.edu
+   Username: ponderp
+   Original line: Pat Ponder Assistant XC/TF Coach ponderp@obu.edu 870-245-
+
+15. Richard Kratz
+   Email: kratzr@obu.edu
+   Username: kratzr
+   Original line: Richard Kratz Volunteer Assistant Coach kratzr@obu.edu
+
+16. Todd Knight
+   Email: knighttf@obu.edu
+   Username: knighttf
+   Original line: Todd Knight Head Football Coach knighttf@obu.edu 870-245-
+
+17. Jay Derby
+   Email: derbyj@obu.edu
+   Username: derbyj
+   Original line: Jay Derby Offensive Coordinator / Quarterbacks Coach derbyj@obu.edu 870-245-
+
+18. Brady Carson
+   Email: carsonb@obu.edu
+   Username: carsonb
+   Original line: Brady Carson Defensive Coordinator / Linebackers Coach carsonb@obu.edu
+
+19. Brett Shockley
+   Email: shockleyb@obu.edu
+   Username: shockleyb
+   Original line: Brett Shockley Recruiting Coordinator / Offensive Line & Tight Ends Coach shockleyb@obu.edu 870-245-
+
+20. Kane Bryen
+   Email: bryenk@obu.edu
+   Username: bryenk
+   Original line: Kane Bryen Defensive Run Game Coordinator / Defensive Line Coach bryenk@obu.edu 870-245-
+
+21. Jaden Davis
+   Email: davisjm@obu.edu
+   Username: davisjm
+   Original line: Jaden Davis Assistant Coach / Receivers & Special Teams davisjm@obu.edu
+
+22. Marc Guerrero
+   Email: guerrerom@obu.edu
+   Username: guerrerom
+   Original line: Marc Guerrero Assistant Coach / Defensive Backs guerrerom@obu.edu
+
+23. Whit Jones
+   Email: joneswc@obu.edu
+   Username: joneswc
+   Original line: Whit Jones Assistant Coach / Running Backs joneswc@obu.edu
+
+24. Spencer Knight
+   Email: knights@obu.edu
+   Username: knights
+   Original line: Spencer Knight Assistant Coach / Receivers knights@obu.edu 870-245-
+
+25. Josh Miller
+   Email: millerj@obu.edu
+   Username: millerj
+   Original line: Josh Miller Assistant Coach / Safeties millerj@obu.edu
+
+26. Wes Holifield
+   Email: holifieldw@obu.edu
+   Username: holifieldw
+   Original line: Wes Holifield Head Men's Soccer Coach holifieldw@obu.edu 870-245-
+
+27. Andrew Sanchez
+   Email: sancheza@obu.edu
+   Username: sancheza
+   Original line: Andrew Sanchez Assistant Men's Soccer Coach sancheza@obu.edu
+
+28. Kevin Wright
+   Email: wrightk@obu.edu
+   Username: wrightk
+   Original line: Kevin Wright Head Women's Soccer Coach wrightk@obu.edu 870-245-
+
+29. Ryan Spigner
+   Email: spignerrt@obu.edu
+   Username: spignerrt
+   Original line: Ryan Spigner Women's Soccer Assistant Coach spignerrt@obu.edu 870-245-
+
+30. Jeff Jackson
+   Email: jacksonj@obu.edu
+   Username: jacksonj
+   Original line: Jeff Jackson Head Softball Coach jacksonj@obu.edu 870-245-
+
+31. Kristi Seals
+   Email: sealsk@obu.edu
+   Username: sealsk
+   Original line: Kristi Seals Cheerleading & Mascot Coach sealsk@obu.edu 870-245-
+
+32. Ashley Carozza
+   Email: carozzaa@obu.edu
+   Username: carozzaa
+   Original line: Ashley Carozza Dance Coach carozzaa@obu.edu 870-245-
+
+33. Dawson Pritchard
+   Email: pritchardd@obu.edu
+   Username: pritchardd
+   Original line: Dawson Pritchard Swimming & Diving Head Coach pritchardd@obu.edu 870-245-
+
+34. Logan Kennedy
+   Email: kennedyl@obu.edu
+   Username: kennedyl
+   Original line: Logan Kennedy Swimming & Diving Assistant Coach kennedyl@obu.edu 870-245-
+
+35. Jake Shoemake
+   Email: shoemakej@obu.edu
+   Username: shoemakej
+   Original line: Jake Shoemake Head Men's Tennis Coach shoemakej@obu.edu
+
+36. Shelly Davilus
+   Email: daviluss@obu.edu
+   Username: daviluss
+   Original line: Shelly Davilus Head Women's Tennis Coach daviluss@obu.edu
+
+37. Allison Frizzell-Kizer
+   Email: frizzella@obu.edu
+   Username: frizzella
+   Original line: Allison Frizzell-Kizer Head Volleyball Coach frizzella@obu.edu 870-245-
+
+38. Darrell Davis
+   Email: davisd@obu.edu
+   Username: davisd
+   Original line: Darrell Davis Assistant Volleyball Coach davisd@obu.edu 870-245-
+
+39. Kevin Crutchmer
+   Email: crutchmerk@obu.edu
+   Username: crutchmerk
+   Original line: Kevin Crutchmer Head Wrestling Coach crutchmerk@obu.edu 870-245-
+
+40. Kyle Ash
+   Email: ashk@obu.edu
+   Username: ashk
+   Original line: Kyle Ash Assistant Wrestling Coach ashk@obu.edu 870-245-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Bladen Reaves Assistant Athletic Performance Coach (WREST / S&D / reavesb@obu.edu 870-245-
+• Mike Emmitt Assistant Athletic Performance Coach (XCTF / TEN / VB) emmittm@obu.edu 870-245-
+• Luke Howard Head Baseball Coach howardl@obu.edu 870-245-
+• Dave Brown Pitching Coach / Recruiting Coordinator brownd@obu.edu 870-245-
+• Beau Burson Assistant Baseball Coach bursonb@obu.edu 870-245-
+• Tallon Heine Assistant Baseball Coach heinet@obu.edu
+• Dennis Nutt Head Men's Basketball Coach nuttd@obu.edu 870-245-
+• Levin Thornton Assistant Men's Basketball Coach thorntonl@obu.edu 870-245-
+• Rashard Stringfield Assistant Men's Basketball Coach stringfieldr@obu.edu
+• Nick Long Women's Basketball Head Coach longn@obu.edu 870-245-
+• Tyler Doyle Assistant Women's Basketball Coach doylet@obu.edu 870-245-
+• Steve Guymon Head Cross Country / Track & Field Coach guymons@obu.edu 870-245-
+• John Jones Assistant XC/TF Coach jonesjo@obu.edu 870-245-
+• Pat Ponder Assistant XC/TF Coach ponderp@obu.edu 870-245-
+• Richard Kratz Volunteer Assistant Coach kratzr@obu.edu
+• Todd Knight Head Football Coach knighttf@obu.edu 870-245-
+• Jay Derby Offensive Coordinator / Quarterbacks Coach derbyj@obu.edu 870-245-
+• Brady Carson Defensive Coordinator / Linebackers Coach carsonb@obu.edu
+• Brett Shockley Recruiting Coordinator / Offensive Line & Tight Ends Coach shockleyb@obu.edu 870-245-
+• Kane Bryen Defensive Run Game Coordinator / Defensive Line Coach bryenk@obu.edu 870-245-
+• Jaden Davis Assistant Coach / Receivers & Special Teams davisjm@obu.edu
+• Marc Guerrero Assistant Coach / Defensive Backs guerrerom@obu.edu
+• Whit Jones Assistant Coach / Running Backs joneswc@obu.edu
+• Spencer Knight Assistant Coach / Receivers knights@obu.edu 870-245-
+• Josh Miller Assistant Coach / Safeties millerj@obu.edu
+• Wes Holifield Head Men's Soccer Coach holifieldw@obu.edu 870-245-
+• Andrew Sanchez Assistant Men's Soccer Coach sancheza@obu.edu
+• Kevin Wright Head Women's Soccer Coach wrightk@obu.edu 870-245-
+• Ryan Spigner Women's Soccer Assistant Coach spignerrt@obu.edu 870-245-
+• Jeff Jackson Head Softball Coach jacksonj@obu.edu 870-245-
+• Kristi Seals Cheerleading & Mascot Coach sealsk@obu.edu 870-245-
+• Ashley Carozza Dance Coach carozzaa@obu.edu 870-245-
+• Dawson Pritchard Swimming & Diving Head Coach pritchardd@obu.edu 870-245-
+• Logan Kennedy Swimming & Diving Assistant Coach kennedyl@obu.edu 870-245-
+• Jake Shoemake Head Men's Tennis Coach shoemakej@obu.edu
+• Shelly Davilus Head Women's Tennis Coach daviluss@obu.edu
+• Allison Frizzell-Kizer Head Volleyball Coach frizzella@obu.edu 870-245-
+• Darrell Davis Assistant Volleyball Coach davisd@obu.edu 870-245-
+• Kevin Crutchmer Head Wrestling Coach crutchmerk@obu.edu 870-245-
+• Kyle Ash Assistant Wrestling Coach ashk@obu.edu 870-245-

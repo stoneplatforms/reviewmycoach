@@ -1,0 +1,201 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:13
+============================================================
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Barry Gant
+   Email: bggant@alcorn.edu
+   Username: bggant
+   Phone: (601) 877-6513
+   Original line: Barry Gant Jr. Head Strength & Conditioning Coach 601-877-6513 bggant@alcorn.edu
+
+2. Cedric Thomas
+   Email: athletics@alcorn.edu
+   Username: athletics
+   Original line: Cedric Thomas Head Coach athletics@alcorn.edu
+
+3. Ryan Busz
+   Email: rbusz@alcorn.edu
+   Username: rbusz
+   Phone: (601) 877-3996
+   Original line: Ryan Busz Assistant Coach (Running Backs/Recruiting Coordinator) 601-877-3996 rbusz@alcorn.edu
+
+4. Leroy Frederick
+   Email: lfrederick@alcorn.edu
+   Username: lfrederick
+   Phone: (601) 877-6273
+   Original line: Leroy Frederick Assistant Coach (Tight Ends/Director of Football Operations) 601-877-6273 lfrederick@alcorn.edu
+
+5. Trumaine Watson
+   Email: tewatson@alcorn.edu
+   Username: tewatson
+   Phone: (601) 877-3996
+   Original line: Trumaine Watson Assistant Coach (Offensive Line) 601-877-3996 tewatson@alcorn.edu
+
+6. Derrien Covington
+   Email: dcovington@alcorn.edu
+   Username: dcovington
+   Phone: (601) 877-2357
+   Original line: Derrien Covington Assistant Coach (Defensive Line) 601-877-2357 dcovington@alcorn.edu
+
+7. Dwayne Taylor
+   Email: dtaylor@alcorn.edu
+   Username: dtaylor
+   Phone: (601) 877-3988
+   Original line: Dwayne Taylor Jr Assistant Coach (Cornerbacks) 601-877-3988 dtaylor@alcorn.edu
+
+8. Aaron Anguiano
+   Email: aanguiano@alcorn.edu
+   Username: aanguiano
+   Phone: (601) 877-3988
+   Original line: Aaron Anguiano Assistant Coach (Wide Receivers) 601-877-3988 aanguiano@alcorn.edu
+
+9. Tavarian McCullum
+   Email: tmccullum@alcorn.edu
+   Username: tmccullum
+   Phone: (601) 877-3988
+   Original line: Tavarian McCullum Assistant Coach (Nickels) 601-877-3988 tmccullum@alcorn.edu
+
+10. Jake Morton
+   Email: athletics@alcorn.edu
+   Username: athletics
+   Original line: Jake Morton Head Coach athletics@alcorn.edu
+
+11. Adam Braswell
+   Email: abraswell@alcorn.edu
+   Username: abraswell
+   Phone: (601) 877-6464
+   Original line: Adam Braswell Assistant Coach 601-877-6464 abraswell@alcorn.edu
+
+12. Devon Smith
+   Email: devonsmith@alcorn.edu
+   Username: devonsmith
+   Phone: (601) 877-6367
+   Original line: Devon Smith Assistant Coach 601-877-6367 devonsmith@alcorn.edu
+
+13. Nate Kilbert
+   Email: athletics@alcorn.edu
+   Username: athletics
+   Original line: Nate Kilbert Head Coach athletics@alcorn.edu
+
+14. Elvis Robinson
+   Email: erobinson@alcorn.edu
+   Username: erobinson
+   Phone: (601) 877-6510
+   Original line: Elvis Robinson Assistant Coach 601-877-6510 erobinson@alcorn.edu
+
+15. Lisa Powell
+   Email: llpowell@alcorn.edu
+   Username: llpowell
+   Phone: (601) 877-6487
+   Original line: Lisa Powell Assistant Coach 601-877-6487 llpowell@alcorn.edu
+
+16. Joncyee Sanders
+   Email: jssanders1@alcorn.edu
+   Username: jssanders1
+   Phone: (601) 877-6487
+   Original line: Joncyee Sanders Assistant Coach 601-877-6487 jssanders1@alcorn.edu
+
+17. Carlton Hardy
+   Email: chardy@alcorn.edu
+   Username: chardy
+   Phone: (601) 877-2457
+   Original line: Carlton Hardy Head Coach 601-877-2457 chardy@alcorn.edu
+
+18. Oscar Reed
+   Email: oscarreed@alcorn.edu
+   Username: oscarreed
+   Phone: (601) 877-2457
+   Original line: Oscar Reed Assistant Coach 601-877-2457 oscarreed@alcorn.edu
+
+19. Brianna Billie
+   Email: bbillie@alcorn.edu
+   Username: bbillie
+   Phone: (601) 877-6278
+   Original line: Brianna Billie Head Coach 601-877-6278 bbillie@alcorn.edu
+
+20. Deyonce Lewis
+   Email: deyonce@alcorn.edu
+   Username: deyonce
+   Phone: (601) 877-6468
+   Original line: Deyonce Lewis Assistant Coach 601-877-6468 deyonce@alcorn.edu
+
+21. Ken Kabiru
+   Email: kkabiru@alcorn.edu
+   Username: kkabiru
+   Phone: (601) 877-6517
+   Original line: Ken Kabiru Head Coach 601-877-6517 kkabiru@alcorn.edu
+
+22. Stas Smirnov
+   Email: ssmirnov@alcorn.edu
+   Username: ssmirnov
+   Phone: (601) 877-6518
+   Original line: Stas Smirnov Head Coach 601-877-6518 ssmirnov@alcorn.edu
+
+23. Alonzo Banks
+   Email: aobanks@alcorn.edu
+   Username: aobanks
+   Phone: (601) 877-2456
+   Original line: Alonzo Banks Head Coach 601-877-2456 aobanks@alcorn.edu
+
+24. Roy Lee
+   Email: royl@alcorn.edu
+   Username: royl
+   Phone: (601) 877-2453
+   Original line: Roy Lee Jr. Assistant Coach 601-877-2453 royl@alcorn.edu
+
+25. Gabrielle Harris
+   Email: gharris@alcorn.edu
+   Username: gharris
+   Phone: (601) 877-6558
+   Original line: Gabrielle Harris Interim Head Coach 601-877-6558 gharris@alcorn.edu
+
+26. Destini Banks
+   Email: dlbanks@alcorn.edu
+   Username: dlbanks
+   Original line: Destini Banks Assistant Coach dlbanks@alcorn.edu
+
+27. Timothy Queen
+   Email: cheer@alcorn.edu
+   Username: cheer
+   Original line: Dr. Timothy Queen Head Cheerleading Coach cheer@alcorn.edu
+
+28. Kala Blanton
+   Email: cheer@alcorn.edu
+   Username: cheer
+   Original line: Kala Blanton Assistant Coach cheer@alcorn.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Barry Gant Jr. Head Strength & Conditioning Coach 601-877-6513 bggant@alcorn.edu
+• Cedric Thomas Head Coach athletics@alcorn.edu
+• Ryan Busz Assistant Coach (Running Backs/Recruiting Coordinator) 601-877-3996 rbusz@alcorn.edu
+• Leroy Frederick Assistant Coach (Tight Ends/Director of Football Operations) 601-877-6273 lfrederick@alcorn.edu
+• Trumaine Watson Assistant Coach (Offensive Line) 601-877-3996 tewatson@alcorn.edu
+• Derrien Covington Assistant Coach (Defensive Line) 601-877-2357 dcovington@alcorn.edu
+• Dwayne Taylor Jr Assistant Coach (Cornerbacks) 601-877-3988 dtaylor@alcorn.edu
+• Aaron Anguiano Assistant Coach (Wide Receivers) 601-877-3988 aanguiano@alcorn.edu
+• Tavarian McCullum Assistant Coach (Nickels) 601-877-3988 tmccullum@alcorn.edu
+• Jake Morton Head Coach athletics@alcorn.edu
+• Adam Braswell Assistant Coach 601-877-6464 abraswell@alcorn.edu
+• Devon Smith Assistant Coach 601-877-6367 devonsmith@alcorn.edu
+• Nate Kilbert Head Coach athletics@alcorn.edu
+• Elvis Robinson Assistant Coach 601-877-6510 erobinson@alcorn.edu
+• Lisa Powell Assistant Coach 601-877-6487 llpowell@alcorn.edu
+• Joncyee Sanders Assistant Coach 601-877-6487 jssanders1@alcorn.edu
+• Carlton Hardy Head Coach 601-877-2457 chardy@alcorn.edu
+• Oscar Reed Assistant Coach 601-877-2457 oscarreed@alcorn.edu
+• Brianna Billie Head Coach 601-877-6278 bbillie@alcorn.edu
+• Deyonce Lewis Assistant Coach 601-877-6468 deyonce@alcorn.edu
+• Ken Kabiru Head Coach 601-877-6517 kkabiru@alcorn.edu
+• Stas Smirnov Head Coach 601-877-6518 ssmirnov@alcorn.edu
+• Alonzo Banks Head Coach 601-877-2456 aobanks@alcorn.edu
+• Roy Lee Jr. Assistant Coach 601-877-2453 royl@alcorn.edu
+• Gabrielle Harris Interim Head Coach 601-877-6558 gharris@alcorn.edu
+• Destini Banks Assistant Coach dlbanks@alcorn.edu
+• Dr. Timothy Queen Head Cheerleading Coach cheer@alcorn.edu
+• Kala Blanton Assistant Coach cheer@alcorn.edu

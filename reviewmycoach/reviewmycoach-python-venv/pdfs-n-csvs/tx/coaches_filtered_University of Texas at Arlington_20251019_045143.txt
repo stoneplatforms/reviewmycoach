@@ -1,0 +1,239 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:44
+============================================================
+
+Total coaches found: 38
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tyler Reece
+   Email: tyler.reece@uta.edu
+   Username: tyler.reece
+   Original line: Tyler Reece Assistant Strength & Conditioning Coach tyler.reece@uta.edu
+
+2. Graham Sokol
+   Email: graham.sokol@uta.edu
+   Username: graham.sokol
+   Original line: Graham Sokol Assistant Strength & Conditioning Coach graham.sokol@uta.edu
+
+3. Mike Buhmeyer
+   Email: michael.buhmeyer@uta.edu
+   Username: michael.buhmeyer
+   Original line: Mike Buhmeyer Men's Basketball Strength & Conditioning Coach michael.buhmeyer@uta.edu
+
+4. Mike Trapasso
+   Email: mike.trapasso@uta.edu
+   Username: mike.trapasso
+   Original line: Mike Trapasso Head Coach (817) 272- mike.trapasso@uta.edu
+
+5. Mike Taylor
+   Email: michael.taylor2@uta.edu
+   Username: michael.taylor2
+   Original line: Mike Taylor Assistant Coach (817) 272- michael.taylor2@uta.edu
+
+6. Cameron Rupp
+   Email: cameron.rupp@uta.edu
+   Username: cameron.rupp
+   Original line: Cameron Rupp Assistant Coach cameron.rupp@uta.edu
+
+7. Tyler Rice
+   Email: tyler.rice@uta.edu
+   Username: tyler.rice
+   Original line: Tyler Rice Assistant Coach tyler.rice@uta.edu
+
+8. Tyler Reece
+   Email: tyler.reece@uta.edu
+   Username: tyler.reece
+   Original line: Tyler Reece Assistant Strength & Conditioning Coach tyler.reece@uta.edu
+
+9. KT Turner
+   Email: kenneth.turner@uta.edu
+   Username: kenneth.turner
+   Original line: KT Turner Head Coach kenneth.turner@uta.edu
+
+10. Sean Stout
+   Email: sean.stout@uta.edu
+   Username: sean.stout
+   Original line: Sean Stout Assistant Coach (817) 272- sean.stout@uta.edu
+
+11. Jeremy Pope
+   Email: jeremy.pope@uta.edu
+   Username: jeremy.pope
+   Original line: Jeremy Pope Assistant Coach (817) 272- jeremy.pope@uta.edu
+
+12. Keith Pickens
+   Email: keith.pickens@uta.edu
+   Username: keith.pickens
+   Original line: Keith Pickens Assistant Coach (817) 272- keith.pickens@uta.edu
+
+13. Cody San
+   Email: cody.sanmiguel@uta.edu
+   Username: cody.sanmiguel
+   Original line: Cody San Miguel Assistant Coach (817) 272- cody.sanmiguel@uta.edu
+
+14. Derrick Obasohan
+   Email: derrick.obasohan2@uta.edu
+   Username: derrick.obasohan2
+   Original line: Derrick Obasohan Assistant Coach derrick.obasohan2@uta.edu
+
+15. Mike Buhmeyer
+   Email: michael.buhmeyer@uta.edu
+   Username: michael.buhmeyer
+   Original line: Mike Buhmeyer Men's Basketball Strength & Conditioning Coach michael.buhmeyer@uta.edu
+
+16. Shereka Wright
+   Email: shereka.wright@uta.edu
+   Username: shereka.wright
+   Original line: Shereka Wright Head Coach (817) 272- shereka.wright@uta.edu
+
+17. KaeLynn Boyd
+   Email: Kaelynn.Boyd@uta.edu
+   Username: Kaelynn.Boyd
+   Original line: KaeLynn Boyd Associate Head Coach/Recruiting Coordinator (817) 272- Kaelynn.Boyd@uta.edu
+
+18. Steven Reynolds,
+   Email: steven.reynolds@uta.edu
+   Username: steven.reynolds
+   Original line: Steven Reynolds, Jr. Assistant Coach steven.reynolds@uta.edu
+
+19. Ethan McIlhargey
+   Email: ethan.mcilhargey@uta.edu
+   Username: ethan.mcilhargey
+   Original line: Ethan McIlhargey Assistant Coach ethan.mcilhargey@uta.edu
+
+20. Christian Chapman
+   Email: christian.chapman@uta.edu
+   Username: christian.chapman
+   Original line: Christian Chapman Player Development/Assistant Coach christian.chapman@uta.edu
+
+21. John Sauerhage
+   Email: hog34536@uta.edu
+   Username: hog34536
+   Original line: John Sauerhage Head Coach (817) 272- hog34536@uta.edu
+
+22. Brandon Berger
+   Email: berger@uta.edu
+   Username: berger
+   Original line: Brandon Berger Associate Head Coach (Jumps, Multis) (817) 272- berger@uta.edu
+
+23. Jordan Durham
+   Email: jldurham@uta.edu
+   Username: jldurham
+   Original line: Jordan Durham Women's Associate Head Coach (Relays, Sprints) (817) 272- jldurham@uta.edu
+
+24. John Ridgway
+   Email: john.ridgway@uta.edu
+   Username: john.ridgway
+   Original line: John Ridgway Assistant Coach (Throws) (817) 272- john.ridgway@uta.edu
+
+25. Kevin Henderson
+   Email: kevin.henderson@uta.edu
+   Username: kevin.henderson
+   Original line: Kevin Henderson Assistant Coach (Hurdles, Sprints) (817) 272- kevin.henderson@uta.edu
+
+26. Elizabeth Composto
+   Email: elizabeth.composto@uta.edu
+   Username: elizabeth.composto
+   Original line: Elizabeth Composto Assistant Coach (Pole Vault) elizabeth.composto@uta.edu
+
+27. Logan Goulding
+   Email: logan.goulding@uta.edu
+   Username: logan.goulding
+   Original line: Logan Goulding Head Coach logan.goulding@uta.edu
+
+28. Zach Cole
+   Email: zachery.cole@uta.edu
+   Username: zachery.cole
+   Original line: Zach Cole Assistant Coach (817) 272- zachery.cole@uta.edu
+
+29. Catherine Matranga
+   Email: catherine.matranga@uta.edu
+   Username: catherine.matranga
+   Original line: Catherine Matranga Head Coach (817) 272- catherine.matranga@uta.edu
+
+30. Kara Dill
+   Email: kara.dill@uta.edu
+   Username: kara.dill
+   Original line: Kara Dill Head Coach (817) 272- kara.dill@uta.edu
+
+31. Hunter Bunch
+   Email: hunter.bunch@uta.edu
+   Username: hunter.bunch
+   Original line: Hunter Bunch Assistant Coach/Recruiting Coordinator hunter.bunch@uta.edu
+
+32. Elizabeth Mason
+   Email: elizabeth.mason@uta.edu
+   Username: elizabeth.mason
+   Original line: Elizabeth Mason Assistant Coach elizabeth.mason@uta.edu
+
+33. Diego Benitez
+   Email: dbenitez@uta.edu
+   Username: dbenitez
+   Original line: Diego Benitez Tennis Head Coach (817) 272- dbenitez@uta.edu
+
+34. Mikayel Khachatryan
+   Email: mikayel.khachatryan@uta.edu
+   Username: mikayel.khachatryan
+   Original line: Mikayel Khachatryan Assistant Coach mikayel.khachatryan@uta.edu
+
+35. Imanol Arconada
+   Email: imanol.arconada@uta.edu
+   Username: imanol.arconada
+   Original line: Imanol Arconada Assistant Coach imanol.arconada@uta.edu
+
+36. Tania Schatow
+   Email: tania.schatow@uta.edu
+   Username: tania.schatow
+   Original line: Tania Schatow Head Coach tania.schatow@uta.edu
+
+37. Alex Gettinger
+   Email: alex.gettinger@uta.edu
+   Username: alex.gettinger
+   Original line: Alex Gettinger Assistant Coach alex.gettinger@uta.edu
+
+38. Julianna Cramer
+   Email: julianna.cramer@uta.edu
+   Username: julianna.cramer
+   Original line: Julianna Cramer Assistant Coach julianna.cramer@uta.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tyler Reece Assistant Strength & Conditioning Coach tyler.reece@uta.edu
+• Graham Sokol Assistant Strength & Conditioning Coach graham.sokol@uta.edu
+• Mike Buhmeyer Men's Basketball Strength & Conditioning Coach michael.buhmeyer@uta.edu
+• Mike Trapasso Head Coach (817) 272- mike.trapasso@uta.edu
+• Mike Taylor Assistant Coach (817) 272- michael.taylor2@uta.edu
+• Cameron Rupp Assistant Coach cameron.rupp@uta.edu
+• Tyler Rice Assistant Coach tyler.rice@uta.edu
+• Tyler Reece Assistant Strength & Conditioning Coach tyler.reece@uta.edu
+• KT Turner Head Coach kenneth.turner@uta.edu
+• Sean Stout Assistant Coach (817) 272- sean.stout@uta.edu
+• Jeremy Pope Assistant Coach (817) 272- jeremy.pope@uta.edu
+• Keith Pickens Assistant Coach (817) 272- keith.pickens@uta.edu
+• Cody San Miguel Assistant Coach (817) 272- cody.sanmiguel@uta.edu
+• Derrick Obasohan Assistant Coach derrick.obasohan2@uta.edu
+• Mike Buhmeyer Men's Basketball Strength & Conditioning Coach michael.buhmeyer@uta.edu
+• Shereka Wright Head Coach (817) 272- shereka.wright@uta.edu
+• KaeLynn Boyd Associate Head Coach/Recruiting Coordinator (817) 272- Kaelynn.Boyd@uta.edu
+• Steven Reynolds, Jr. Assistant Coach steven.reynolds@uta.edu
+• Ethan McIlhargey Assistant Coach ethan.mcilhargey@uta.edu
+• Christian Chapman Player Development/Assistant Coach christian.chapman@uta.edu
+• John Sauerhage Head Coach (817) 272- hog34536@uta.edu
+• Brandon Berger Associate Head Coach (Jumps, Multis) (817) 272- berger@uta.edu
+• Jordan Durham Women's Associate Head Coach (Relays, Sprints) (817) 272- jldurham@uta.edu
+• John Ridgway Assistant Coach (Throws) (817) 272- john.ridgway@uta.edu
+• Kevin Henderson Assistant Coach (Hurdles, Sprints) (817) 272- kevin.henderson@uta.edu
+• Elizabeth Composto Assistant Coach (Pole Vault) elizabeth.composto@uta.edu
+• Logan Goulding Head Coach logan.goulding@uta.edu
+• Zach Cole Assistant Coach (817) 272- zachery.cole@uta.edu
+• Catherine Matranga Head Coach (817) 272- catherine.matranga@uta.edu
+• Kara Dill Head Coach (817) 272- kara.dill@uta.edu
+• Hunter Bunch Assistant Coach/Recruiting Coordinator hunter.bunch@uta.edu
+• Elizabeth Mason Assistant Coach elizabeth.mason@uta.edu
+• Diego Benitez Tennis Head Coach (817) 272- dbenitez@uta.edu
+• Mikayel Khachatryan Assistant Coach mikayel.khachatryan@uta.edu
+• Imanol Arconada Assistant Coach imanol.arconada@uta.edu
+• Tania Schatow Head Coach tania.schatow@uta.edu
+• Alex Gettinger Assistant Coach alex.gettinger@uta.edu
+• Julianna Cramer Assistant Coach julianna.cramer@uta.edu

@@ -1,0 +1,267 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:14
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kellen Greer
+   Email: kgreer@oglethorpe.edu
+   Username: kgreer
+   Phone: (404) 364-8487
+   Original line: Kellen Greer Assistant Director of Athletics for Compliance / Head Baseball Coach kgreer@oglethorpe.edu 404-364-8487
+
+2. Kellen Greer
+   Email: kgreer@oglethorpe.edu
+   Username: kgreer
+   Phone: (404) 364-8487
+   Original line: Kellen Greer Assistant Director of Athletics for Compliance / Head Baseball Coach kgreer@oglethorpe.edu 404-364-8487
+
+3. Andy Hoyer
+   Email: ahoyer@oglethorpe.edu
+   Username: ahoyer
+   Phone: (404) 364-8487
+   Original line: Andy Hoyer Assistant Baseball Coach ahoyer@oglethorpe.edu 404-364-8487
+
+4. Parker Hildebrecht
+   Email: phildebrecht@oglethorpe.edu
+   Username: phildebrecht
+   Phone: (404) 364-8487
+   Original line: Parker Hildebrecht Assistant Baseball Coach phildebrecht@oglethorpe.edu 404-364-8487
+
+5. Philip Ponder
+   Email: pponder@oglethorpe.edu
+   Username: pponder
+   Phone: (404) 364-8422
+   Original line: Philip Ponder Head Men's Basketball Coach pponder@oglethorpe.edu 404-364-8422
+
+6. Will Long
+   Email: wlong@oglethorpe.edu
+   Username: wlong
+   Phone: (404) 364-8422
+   Original line: Will Long Assistant Men's Basketball Coach wlong@oglethorpe.edu 404-364-8422
+
+7. Kari Elliott
+   Email: kelliott2@oglethorpe.edu
+   Username: kelliott2
+   Phone: (404) 364-8410
+   Original line: Kari Elliott Head Cross Country/Track & Field Coach kelliott2@oglethorpe.edu 404-364-8410
+
+8. Patrick Smith
+   Email: psmith@oglethorpe.edu
+   Username: psmith
+   Phone: (404) 364-8410
+   Original line: Patrick Smith Assistant Cross Country Coach psmith@oglethorpe.edu 404-364-8410
+
+9. Jim Owen
+   Email: jowen@oglethorpe.edu
+   Username: jowen
+   Phone: (404) 364-8420
+   Original line: Jim Owen Head Golf Coach jowen@oglethorpe.edu 404-364-8420
+
+10. David Potts
+   Email: davidpottsgolf@gmail.com
+   Username: davidpottsgolf
+   Phone: (404) 364-8420
+   Original line: David Potts Assistant Golf Coach davidpottsgolf@gmail.com 404-364-8420
+
+11. Ana Garcia
+   Email: as.garcia.juarez@gmail.com
+   Username: as.garcia.juarez
+   Phone: (678) 674-6416
+   Original line: Ana Garcia Assistant Golf Coach as.garcia.juarez@gmail.com 678-674-6416
+
+12. Jon Akin
+   Email: jakin@oglethorpe.edu
+   Username: jakin
+   Phone: (404) 364-8416
+   Original line: Jon Akin Head Men's Soccer Coach jakin@oglethorpe.edu 404-364-8416
+
+13. Dylan Gaither
+   Email: dgaither@oglethorpe.edu
+   Username: dgaither
+   Phone: (404) 364-8416
+   Original line: Dylan Gaither Assistant Men's Soccer Coach dgaither@oglethorpe.edu 404-364-8416
+
+14. Richard Quegan
+   Email: rquegan@oglethorpe.edu
+   Username: rquegan
+   Phone: (404) 364-8415
+   Original line: Richard Quegan Assistant Men's Soccer Coach rquegan@oglethorpe.edu 404-364-8415
+
+15. Robbie Bruce
+   Email: rbruce2@oglethorpe.edu
+   Username: rbruce2
+   Phone: (404) 364-8416
+   Original line: Robbie Bruce Assistant Men's Soccer Coach rbruce2@oglethorpe.edu 404-364-8416
+
+16. Jibril Stapleton
+   Email: jstapleton@oglethorpe.edu
+   Username: jstapleton
+   Phone: (404) 364-8415
+   Original line: Jibril Stapleton Interim Head Men's Lacrosse Coach jstapleton@oglethorpe.edu 404-364-8415
+
+17. Dwayne Taylor
+   Email: dtaylor1@oglethorpe.edu
+   Username: dtaylor1
+   Phone: (404) 364-8415
+   Original line: Dwayne Taylor Assistant Men's Lacrosse Coach dtaylor1@oglethorpe.edu 404-364-8415
+
+18. Taylor Stewart
+   Email: tstewart@oglethorpe.edu
+   Username: tstewart
+   Original line: Taylor Stewart Head Tennis Coach tstewart@oglethorpe.edu
+
+19. Kari Elliott
+   Email: kelliott2@oglethorpe.edu
+   Username: kelliott2
+   Phone: (404) 364-8410
+   Original line: Kari Elliott Head Cross Country/Track & Field Coach kelliott2@oglethorpe.edu 404-364-8410
+
+20. Margaret Fox
+   Email: mfox1@oglethorpe.edu
+   Username: mfox1
+   Phone: (404) 364-8410
+   Original line: Margaret Fox Assistant Track & Field Coach mfox1@oglethorpe.edu 404-364-8410
+
+21. Nicki Hudson
+   Email: nhudson@oglethorpe.edu
+   Username: nhudson
+   Phone: (404) 364-8410
+   Original line: Nicki Hudson Assistant Track & Field Coach nhudson@oglethorpe.edu 404-364-8410
+
+22. Jasen Jonus
+   Email: jjonus@oglethorpe.edu
+   Username: jjonus
+   Phone: (706) 957-0698
+   Original line: Jasen Jonus Head Women's Basketball Coach jjonus@oglethorpe.edu 706-957-0698
+
+23. Katherine Frisby
+   Email: kfrisby@oglethorpe.edu
+   Username: kfrisby
+   Phone: (901) 351-9016
+   Original line: Katherine Frisby Associate Head Women's Basketball Coach kfrisby@oglethorpe.edu 901-351-9016
+
+24. Kari Elliott
+   Email: kelliott2@oglethorpe.edu
+   Username: kelliott2
+   Phone: (404) 364-8410
+   Original line: Kari Elliott Head Cross Country/Track & Field Coach kelliott2@oglethorpe.edu 404-364-8410
+
+25. Patrick Smith
+   Email: psmith@oglethorpe.edu
+   Username: psmith
+   Phone: (404) 364-8410
+   Original line: Patrick Smith Assistant Cross Country Coach psmith@oglethorpe.edu 404-364-8410
+
+26. Jim Owen
+   Email: jowen@oglethorpe.edu
+   Username: jowen
+   Phone: (404) 364-8420
+   Original line: Jim Owen Head Golf Coach jowen@oglethorpe.edu 404-364-8420
+
+27. Mark Random
+   Email: mrandom@oglethorpe.edu
+   Username: mrandom
+   Phone: (770) 331-6821
+   Original line: Mark Random Assistant Women's Golf Coach mrandom@oglethorpe.edu 770-331-6821
+
+28. Ana Garcia
+   Email: as.garcia.juarez@gmail.com
+   Username: as.garcia.juarez
+   Phone: (678) 674-6416
+   Original line: Ana Garcia Assistant Golf Coach as.garcia.juarez@gmail.com 678-674-6416
+
+29. Rebecca Hart
+   Email: rhart@oglethorpe.edu
+   Username: rhart
+   Original line: Rebecca Hart Head Women's Lacrosse Coach rhart@oglethorpe.edu
+
+30. Rob King
+   Email: rking1@oglethorpe.edu
+   Username: rking1
+   Phone: (404) 364-8896
+   Original line: Rob King Head Women's Soccer Coach rking1@oglethorpe.edu 404-364-8896
+
+31. Tony Arnesen
+   Email: carnesen@oglethorpe.edu
+   Username: carnesen
+   Phone: (404) 364-8896
+   Original line: Tony Arnesen Assistant Women's Soccer Coach carnesen@oglethorpe.edu 404-364-8896
+
+32. Taylor Stewart
+   Email: tstewart@oglethorpe.edu
+   Username: tstewart
+   Original line: Taylor Stewart Head Tennis Coach tstewart@oglethorpe.edu
+
+33. Kari Elliott
+   Email: kelliott2@oglethorpe.edu
+   Username: kelliott2
+   Phone: (404) 364-8410
+   Original line: Kari Elliott Head Cross Country/Track & Field Coach kelliott2@oglethorpe.edu 404-364-8410
+
+34. Margaret Fox
+   Email: mfox1@oglethorpe.edu
+   Username: mfox1
+   Phone: (404) 364-8410
+   Original line: Margaret Fox Assistant Track & Field Coach mfox1@oglethorpe.edu 404-364-8410
+
+35. Nicki Hudson
+   Email: nhudson@oglethorpe.edu
+   Username: nhudson
+   Phone: (404) 364-8410
+   Original line: Nicki Hudson Assistant Track & Field Coach nhudson@oglethorpe.edu 404-364-8410
+
+36. Olivia Tidmore
+   Email: otidmore@oglethorpe.edu
+   Username: otidmore
+   Phone: (404) 364-8480
+   Original line: Olivia Tidmore Head Volleyball Coach otidmore@oglethorpe.edu 404-364-8480
+
+37. Kylee Zimmer
+   Email: kzimmer1@oglethorpe.edu
+   Username: kzimmer1
+   Phone: (404) 364-8480
+   Original line: Kylee Zimmer Assistant Volleyball Coach kzimmer1@oglethorpe.edu 404-364-8480
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kellen Greer Assistant Director of Athletics for Compliance / Head Baseball Coach kgreer@oglethorpe.edu 404-364-8487
+• Kellen Greer Assistant Director of Athletics for Compliance / Head Baseball Coach kgreer@oglethorpe.edu 404-364-8487
+• Andy Hoyer Assistant Baseball Coach ahoyer@oglethorpe.edu 404-364-8487
+• Parker Hildebrecht Assistant Baseball Coach phildebrecht@oglethorpe.edu 404-364-8487
+• Philip Ponder Head Men's Basketball Coach pponder@oglethorpe.edu 404-364-8422
+• Will Long Assistant Men's Basketball Coach wlong@oglethorpe.edu 404-364-8422
+• Kari Elliott Head Cross Country/Track & Field Coach kelliott2@oglethorpe.edu 404-364-8410
+• Patrick Smith Assistant Cross Country Coach psmith@oglethorpe.edu 404-364-8410
+• Jim Owen Head Golf Coach jowen@oglethorpe.edu 404-364-8420
+• David Potts Assistant Golf Coach davidpottsgolf@gmail.com 404-364-8420
+• Ana Garcia Assistant Golf Coach as.garcia.juarez@gmail.com 678-674-6416
+• Jon Akin Head Men's Soccer Coach jakin@oglethorpe.edu 404-364-8416
+• Dylan Gaither Assistant Men's Soccer Coach dgaither@oglethorpe.edu 404-364-8416
+• Richard Quegan Assistant Men's Soccer Coach rquegan@oglethorpe.edu 404-364-8415
+• Robbie Bruce Assistant Men's Soccer Coach rbruce2@oglethorpe.edu 404-364-8416
+• Jibril Stapleton Interim Head Men's Lacrosse Coach jstapleton@oglethorpe.edu 404-364-8415
+• Dwayne Taylor Assistant Men's Lacrosse Coach dtaylor1@oglethorpe.edu 404-364-8415
+• Taylor Stewart Head Tennis Coach tstewart@oglethorpe.edu
+• Kari Elliott Head Cross Country/Track & Field Coach kelliott2@oglethorpe.edu 404-364-8410
+• Margaret Fox Assistant Track & Field Coach mfox1@oglethorpe.edu 404-364-8410
+• Nicki Hudson Assistant Track & Field Coach nhudson@oglethorpe.edu 404-364-8410
+• Jasen Jonus Head Women's Basketball Coach jjonus@oglethorpe.edu 706-957-0698
+• Katherine Frisby Associate Head Women's Basketball Coach kfrisby@oglethorpe.edu 901-351-9016
+• Kari Elliott Head Cross Country/Track & Field Coach kelliott2@oglethorpe.edu 404-364-8410
+• Patrick Smith Assistant Cross Country Coach psmith@oglethorpe.edu 404-364-8410
+• Jim Owen Head Golf Coach jowen@oglethorpe.edu 404-364-8420
+• Mark Random Assistant Women's Golf Coach mrandom@oglethorpe.edu 770-331-6821
+• Ana Garcia Assistant Golf Coach as.garcia.juarez@gmail.com 678-674-6416
+• Rebecca Hart Head Women's Lacrosse Coach rhart@oglethorpe.edu
+• Rob King Head Women's Soccer Coach rking1@oglethorpe.edu 404-364-8896
+• Tony Arnesen Assistant Women's Soccer Coach carnesen@oglethorpe.edu 404-364-8896
+• Taylor Stewart Head Tennis Coach tstewart@oglethorpe.edu
+• Kari Elliott Head Cross Country/Track & Field Coach kelliott2@oglethorpe.edu 404-364-8410
+• Margaret Fox Assistant Track & Field Coach mfox1@oglethorpe.edu 404-364-8410
+• Nicki Hudson Assistant Track & Field Coach nhudson@oglethorpe.edu 404-364-8410
+• Olivia Tidmore Head Volleyball Coach otidmore@oglethorpe.edu 404-364-8480
+• Kylee Zimmer Assistant Volleyball Coach kzimmer1@oglethorpe.edu 404-364-8480

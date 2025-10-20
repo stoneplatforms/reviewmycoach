@@ -1,0 +1,238 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:01
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Seth Wing
+   Email: seth.wing@winona.edu
+   Username: seth.wing
+   Phone: (507) 457-2332
+   Original line: Seth Wing Head Baseball Coach seth.wing@winona.edu 507-457-2332 @sethwing7
+
+2. Jake Carlsen
+   Email: jacob.carlsen@winona.edu
+   Username: jacob.carlsen
+   Phone: (815) 298-6204
+   Original line: Jake Carlsen Assistant Baseball Coach jacob.carlsen@winona.edu 815-298-6204 @jake_carlsen
+
+3. Tre Chatman
+   Email: charles.chatman@winona.edu
+   Username: charles.chatman
+   Original line: Tre Chatman Assistant Baseball Coach charles.chatman@winona.edu
+
+4. Todd Eisner
+   Email: teisner@winona.edu
+   Username: teisner
+   Phone: (507) 457-5085
+   Original line: Todd Eisner Head Men's Basketball Coach teisner@winona.edu 507-457-5085 CoachToddEisner
+
+5. TJ Lake
+   Email: thomas.lake@winona.edu
+   Username: thomas.lake
+   Original line: TJ Lake Assistant Men's Basketball Coach thomas.lake@winona.edu
+
+6. Reid Grant
+   Email: reid.grant@winona.edu
+   Username: reid.grant
+   Original line: Reid Grant Assistant Men's Basketball Coach reid.grant@winona.edu
+
+7. Ana Wurtz
+   Email: awurtz@winona.edu
+   Username: awurtz
+   Phone: (507) 457-2777
+   Original line: Ana Wurtz Head Women's Basketball Coach awurtz@winona.edu 507-457-2777 AnaWurtz34
+
+8. Hannah McGlone
+   Email: hannah.mcglone@winona.edu
+   Username: hannah.mcglone
+   Original line: Hannah McGlone Assistant Women's Basketball Coach hannah.mcglone@winona.edu
+
+9. John Hibshman
+   Email: john.hibshman@winona.edu
+   Username: john.hibshman
+   Original line: John Hibshman Head Cross Country Coach & Asst. john.hibshman@winona.edu
+
+10. Brian Curtin
+   Email: bcurtin@winona.edu
+   Username: bcurtin
+   Original line: Brian Curtin Head Football Coach bcurtin@winona.edu @Coach_Curtin_1
+
+11. Charlie Cosgrove
+   Email: charles.cosgrove@winona.edu
+   Username: charles.cosgrove
+   Original line: Charlie Cosgrove Asst. Football Coach | Offensive charles.cosgrove@winona.edu @coachcosgrove18
+
+12. Spencer Erickson
+   Email: spencer.erickson@winona.edu
+   Username: spencer.erickson
+   Original line: Spencer Erickson Asst. Football Coach | Defensive spencer.erickson@winona.edu @Coach_Spencer11
+
+13. Ryan Tuley
+   Email: ryan.tuley@winona.edu
+   Username: ryan.tuley
+   Original line: Ryan Tuley Asst. Football Coach | Defensive Line ryan.tuley@winona.edu
+
+14. Nick Miller
+   Email: nicholas.miller@winona.edu
+   Username: nicholas.miller
+   Original line: Nick Miller Asst. Football Coach | Quarterbacks nicholas.miller@winona.edu
+
+15. Lorenzo Mitchell
+   Email: lorenzo.mitchell@winona.edu
+   Username: lorenzo.mitchell
+   Original line: Lorenzo Mitchell Asst. Football Coach lorenzo.mitchell@winona.edu
+
+16. Deven Dettloff
+   Email: deven.dettloff@winona.edu
+   Username: deven.dettloff
+   Original line: Deven Dettloff Asst. Football Coach deven.dettloff@winona.edu
+
+17. Nixon Heggie
+   Email: ronald.heggie@winona.edu
+   Username: ronald.heggie
+   Original line: Nixon Heggie Asst. Football Coach ronald.heggie@winona.edu
+
+18. Dean O'Brien
+   Email: dean.obrien@winona.edu
+   Username: dean.obrien
+   Original line: Dean O'Brien Asst. Football Coach dean.obrien@winona.edu
+
+19. Michael Hawkins
+   Email: michael.hawkins@winona.edu
+   Username: michael.hawkins
+   Original line: Michael Hawkins Asst. Football Coach michael.hawkins@winona.edu
+
+20. Xenia Straight
+   Email: xenia.straight@winona.edu
+   Username: xenia.straight
+   Original line: Xenia Straight Assistant Men's & Women's Golf Coach xenia.straight@winona.edu
+
+21. Xenia Straight
+   Email: xenia.straight@winona.edu
+   Username: xenia.straight
+   Original line: Xenia Straight Assistant Men's & Women's Golf Coach xenia.straight@winona.edu
+
+22. Stephanie Geislinger
+   Email: stephanie.geislinger@winona.edu
+   Username: stephanie.geislinger
+   Original line: Dr. Stephanie Geislinger Head Gymnastics Coach stephanie.geislinger@winona.edu
+
+23. Elizabeth Kronebusch
+   Email: elizabeth.green@winona.edu
+   Username: elizabeth.green
+   Phone: (507) 457-5131
+   Original line: Dr. Elizabeth Kronebusch Assistant Gymnastics Coach elizabeth.green@winona.edu 507-457-5131
+
+24. Abby Keeling
+   Email: abby.keeling@winona.edu
+   Username: abby.keeling
+   Original line: Abby Keeling Assistant Gymnastics Coach abby.keeling@winona.edu
+
+25. Delaney Marier
+   Email: wsoccer@winona.edu
+   Username: wsoccer
+   Original line: Delaney Marier Head Soccer Coach wsoccer@winona.edu
+
+26. Matthew Cross
+   Email: wsoccer@winona.edu
+   Username: wsoccer
+   Original line: Matthew Cross Assistant Soccer Coach wsoccer@winona.edu
+
+27. Greg Jones
+   Email: gjones@winona.edu
+   Username: gjones
+   Phone: (507) 457-5284
+   Original line: Greg Jones Head Softball Coach gjones@winona.edu 507-457-5284 WinonaStateSB
+
+28. Ali Nowak
+   Email: ali.nowak@winona.edu
+   Username: ali.nowak
+   Phone: (507) 457-2922
+   Original line: Ali Nowak Assistant Softball Coach ali.nowak@winona.edu 507-457-2922
+
+29. Cyndy Jones
+   Email: cjones@winona.edu
+   Username: cjones
+   Phone: (507) 457-5132
+   Original line: Cyndy Jones Assistant Softball Coach cjones@winona.edu 507-457-5132
+
+30. Ann Smolenski
+   Email: ann.smolenski@winona.edu
+   Username: ann.smolenski
+   Original line: Ann Smolenski Assistant Softball Coach ann.smolenski@winona.edu
+
+31. Xao Vang
+   Email: xvang@winona.edu
+   Username: xvang
+   Phone: (507) 457-2555
+   Original line: Xao Vang Head Tennis Coach xvang@winona.edu 507-457-2555
+
+32. Mason Rebarchek
+   Email: mrebarchek@winona.edu
+   Username: mrebarchek
+   Phone: (507) 457-5211
+   Original line: Mason Rebarchek Head Track & Field Coach/Director of mrebarchek@winona.edu 507-457-5211 WinonaStateTF
+
+33. John Hibshman
+   Email: john.hibshman@winona.edu
+   Username: john.hibshman
+   Original line: John Hibshman Head Cross Country Coach & Asst. john.hibshman@winona.edu
+
+34. Kristine Pelky
+   Email: kristine.fisch@winona.edu
+   Username: kristine.fisch
+   Phone: (507) 457-2505
+   Original line: Kristine Pelky Head Volleyball Coach kristine.fisch@winona.edu 507-457-2505
+
+35. Jackson Van
+   Email: jackson.vaneekeren@winona.edu
+   Username: jackson.vaneekeren
+   Original line: Jackson Van Eekeren Assistant Volleyball Coach jackson.vaneekeren@winona.edu
+
+36. Jackie Kiecker
+   Email: jackie.kiecker@winona.edu
+   Username: jackie.kiecker
+   Original line: Jackie Kiecker Assistant Volleyball Coach jackie.kiecker@winona.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Seth Wing Head Baseball Coach seth.wing@winona.edu 507-457-2332 @sethwing7
+• Jake Carlsen Assistant Baseball Coach jacob.carlsen@winona.edu 815-298-6204 @jake_carlsen
+• Tre Chatman Assistant Baseball Coach charles.chatman@winona.edu
+• Todd Eisner Head Men's Basketball Coach teisner@winona.edu 507-457-5085 CoachToddEisner
+• TJ Lake Assistant Men's Basketball Coach thomas.lake@winona.edu
+• Reid Grant Assistant Men's Basketball Coach reid.grant@winona.edu
+• Ana Wurtz Head Women's Basketball Coach awurtz@winona.edu 507-457-2777 AnaWurtz34
+• Hannah McGlone Assistant Women's Basketball Coach hannah.mcglone@winona.edu
+• John Hibshman Head Cross Country Coach & Asst. john.hibshman@winona.edu
+• Brian Curtin Head Football Coach bcurtin@winona.edu @Coach_Curtin_1
+• Charlie Cosgrove Asst. Football Coach | Offensive charles.cosgrove@winona.edu @coachcosgrove18
+• Spencer Erickson Asst. Football Coach | Defensive spencer.erickson@winona.edu @Coach_Spencer11
+• Ryan Tuley Asst. Football Coach | Defensive Line ryan.tuley@winona.edu
+• Nick Miller Asst. Football Coach | Quarterbacks nicholas.miller@winona.edu
+• Lorenzo Mitchell Asst. Football Coach lorenzo.mitchell@winona.edu
+• Deven Dettloff Asst. Football Coach deven.dettloff@winona.edu
+• Nixon Heggie Asst. Football Coach ronald.heggie@winona.edu
+• Dean O'Brien Asst. Football Coach dean.obrien@winona.edu
+• Michael Hawkins Asst. Football Coach michael.hawkins@winona.edu
+• Xenia Straight Assistant Men's & Women's Golf Coach xenia.straight@winona.edu
+• Xenia Straight Assistant Men's & Women's Golf Coach xenia.straight@winona.edu
+• Dr. Stephanie Geislinger Head Gymnastics Coach stephanie.geislinger@winona.edu
+• Dr. Elizabeth Kronebusch Assistant Gymnastics Coach elizabeth.green@winona.edu 507-457-5131
+• Abby Keeling Assistant Gymnastics Coach abby.keeling@winona.edu
+• Delaney Marier Head Soccer Coach wsoccer@winona.edu
+• Matthew Cross Assistant Soccer Coach wsoccer@winona.edu
+• Greg Jones Head Softball Coach gjones@winona.edu 507-457-5284 WinonaStateSB
+• Ali Nowak Assistant Softball Coach ali.nowak@winona.edu 507-457-2922
+• Cyndy Jones Assistant Softball Coach cjones@winona.edu 507-457-5132
+• Ann Smolenski Assistant Softball Coach ann.smolenski@winona.edu
+• Xao Vang Head Tennis Coach xvang@winona.edu 507-457-2555
+• Mason Rebarchek Head Track & Field Coach/Director of mrebarchek@winona.edu 507-457-5211 WinonaStateTF
+• John Hibshman Head Cross Country Coach & Asst. john.hibshman@winona.edu
+• Kristine Pelky Head Volleyball Coach kristine.fisch@winona.edu 507-457-2505
+• Jackson Van Eekeren Assistant Volleyball Coach jackson.vaneekeren@winona.edu
+• Jackie Kiecker Assistant Volleyball Coach jackie.kiecker@winona.edu

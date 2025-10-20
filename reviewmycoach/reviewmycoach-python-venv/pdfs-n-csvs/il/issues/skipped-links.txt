@@ -1,0 +1,12 @@
+Illinois Wesleyan University.pdf :: https://iwuathletics.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://iwuathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://iwuathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://iwuathletics.com/staff-directory?print=true, https://iwuathletics.com/staff-directory/print, https://iwuathletics.com/staff-directory, https://iwuathletics.com/staff-directory/index?print=true, https://iwuathletics.com/staff-directory/index/print, https://iwuathletics.com/staff-directory/index
+
+Fontbonne University (MO, competes regionally).pdf :: https://athletics.fontbonne.edu/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://athletics.fontbonne.edu/staff-directory/index
+Call log:
+  - navigating to "https://athletics.fontbonne.edu/staff-directory/index", waiting until "networkidle"
+
+  tried: https://athletics.fontbonne.edu/staff-directory?print=true, https://athletics.fontbonne.edu/staff-directory/print, https://athletics.fontbonne.edu/staff-directory, https://athletics.fontbonne.edu/staff-directory/index?print=true, https://athletics.fontbonne.edu/staff-directory/index/print, https://athletics.fontbonne.edu/staff-directory/index
+

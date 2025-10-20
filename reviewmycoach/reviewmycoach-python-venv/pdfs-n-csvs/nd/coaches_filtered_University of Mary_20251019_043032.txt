@@ -1,0 +1,162 @@
+COACH ENTRIES FOUND - 2025-10-19 04:30:33
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nick Emanuel
+   Email: nbemanuel@umary.edu
+   Username: nbemanuel
+   Phone: 701.355.8209
+   Original line: Nick Emanuel Asst. Baseball Coach nbemanuel@umary.edu 701.355.8209
+
+2. Tanner Spencer
+   Email: ttspencer@umary.edu
+   Username: ttspencer
+   Phone: 701.355.8232
+   Original line: Tanner Spencer Head Baseball Coach ttspencer@umary.edu 701.355.8232
+
+3. Nick Emanuel
+   Email: nbemanuel@umary.edu
+   Username: nbemanuel
+   Phone: 701.355.8209
+   Original line: Nick Emanuel Asst. Baseball Coach nbemanuel@umary.edu 701.355.8209
+
+4. Cameron Guevara
+   Email: cmguevara@umary.edu
+   Username: cmguevara
+   Original line: Cameron Guevara Asst. Baseball Coach cmguevara@umary.edu
+
+5. Taylyn Kihle
+   Email: tekihle@umary.edu
+   Username: tekihle
+   Original line: Taylyn Kihle Head Cheer Coach tekihle@umary.edu
+
+6. Mark Sandness
+   Email: mssandness@umary.edu
+   Username: mssandness
+   Phone: 701.220.1003
+   Original line: Mark Sandness Head Clays Coach mssandness@umary.edu 701.220.1003
+
+7. Shann Schillinger
+   Email: shschillinger@umary.edu
+   Username: shschillinger
+   Phone: 701.255.8051
+   Original line: Shann Schillinger Head Football Coach shschillinger@umary.edu 701.255.8051
+
+8. Ben Davis
+   Email: badavis@umary.edu
+   Username: badavis
+   Phone: 701.355.8319
+   Original line: Ben Davis Defensive badavis@umary.edu 701.355.8319 @_CoachBD
+
+9. Van Cooper
+   Email: vecooper@umary.edu
+   Username: vecooper
+   Original line: Van Cooper Asst. Football Coach - vecooper@umary.edu
+
+10. Eli Alford
+   Email: ekalford@umary.edu
+   Username: ekalford
+   Phone: 701.355.3759
+   Original line: Eli Alford Asst. Football Coach - ekalford@umary.edu 701.355.3759
+
+11. Tom Johnson
+   Email: tvjohnson@umary.edu
+   Username: tvjohnson
+   Phone: 701.355.8009
+   Original line: Tom Johnson Asst. Football Coach - tvjohnson@umary.edu 701.355.8009
+
+12. Gavin Robertson
+   Email: grrobertson@umary.edu
+   Username: grrobertson
+   Original line: Gavin Robertson Asst. Football Coach - grrobertson@umary.edu
+
+13. Alex Land
+   Email: acland@umary.edu
+   Username: acland
+   Original line: Alex Land Asst. Football Coach - acland@umary.edu
+
+14. Jared Spooner
+   Email: jkspooner@umary.edu
+   Username: jkspooner
+   Original line: Jared Spooner Asst. Hockey Coach jkspooner@umary.edu
+
+15. Luke Schleusner
+   Email: lrschleusner1@umary.edu
+   Username: lrschleusner1
+   Original line: Luke Schleusner Asst. Hockey Coach lrschleusner1@umary.edu
+
+16. Amy Schmeckpeper
+   Email: akschmeckpeper@umary.edu
+   Username: akschmeckpeper
+   Phone: 701.355.8270
+   Original line: Amy Schmeckpeper Head Softball Coach akschmeckpeper@umary.edu 701.355.8270
+
+17. Kaitlyn Alvarado
+   Email: kdalvarado@umary.edu
+   Username: kdalvarado
+   Phone: 701.355.8205
+   Original line: Kaitlyn Alvarado Asst. Softball Coach kdalvarado@umary.edu 701.355.8205
+
+18. Alex Lucy
+   Email: amlucy@umary.edu
+   Username: amlucy
+   Original line: Alex Lucy Asst. Coach - amlucy@umary.edu
+
+19. Carly Borrman
+   Email: cepalmer1@umary.edu
+   Username: cepalmer1
+   Original line: Carly Borrman Asst. Coach - cepalmer1@umary.edu
+
+20. Jared Pflipsen
+   Email: jjpflipsen@umary.edu
+   Username: jjpflipsen
+   Phone: 710.355.8205
+   Original line: Jared Pflipsen Pole Vault Coach jjpflipsen@umary.edu 710.355.8205 320.247.8830
+
+21. Maddie Callicoat
+   Email: mgcallicoat@umary.edu
+   Username: mgcallicoat
+   Phone: 701.355.8271
+   Original line: Maddie Callicoat Asst. Volleyball Coach mgcallicoat@umary.edu 701.355.8271
+
+22. Adam Aho
+   Email: ajaho@umary.edu
+   Username: ajaho
+   Phone: 701.355.8034
+   Original line: Adam Aho Head Wrestling Coach ajaho@umary.edu 701.355.8034 701.367.2895
+
+23. Braydon Huber
+   Email: bmhuber@umary.edu
+   Username: bmhuber
+   Original line: Braydon Huber Asst. Wrestling Coach bmhuber@umary.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Nick Emanuel Asst. Baseball Coach nbemanuel@umary.edu 701.355.8209
+• Tanner Spencer Head Baseball Coach ttspencer@umary.edu 701.355.8232
+• Nick Emanuel Asst. Baseball Coach nbemanuel@umary.edu 701.355.8209
+• Cameron Guevara Asst. Baseball Coach cmguevara@umary.edu
+• Taylyn Kihle Head Cheer Coach tekihle@umary.edu
+• Mark Sandness Head Clays Coach mssandness@umary.edu 701.220.1003
+• Shann Schillinger Head Football Coach shschillinger@umary.edu 701.255.8051
+• Ben Davis Defensive badavis@umary.edu 701.355.8319 @_CoachBD
+• Van Cooper Asst. Football Coach - vecooper@umary.edu
+• Eli Alford Asst. Football Coach - ekalford@umary.edu 701.355.3759
+• Tom Johnson Asst. Football Coach - tvjohnson@umary.edu 701.355.8009
+• Gavin Robertson Asst. Football Coach - grrobertson@umary.edu
+• Alex Land Asst. Football Coach - acland@umary.edu
+• Jared Spooner Asst. Hockey Coach jkspooner@umary.edu
+• Luke Schleusner Asst. Hockey Coach lrschleusner1@umary.edu
+• Amy Schmeckpeper Head Softball Coach akschmeckpeper@umary.edu 701.355.8270
+• Kaitlyn Alvarado Asst. Softball Coach kdalvarado@umary.edu 701.355.8205
+• Alex Lucy Asst. Coach - amlucy@umary.edu
+• Carly Borrman Asst. Coach - cepalmer1@umary.edu
+• Jared Pflipsen Pole Vault Coach jjpflipsen@umary.edu 710.355.8205 320.247.8830
+• Maddie Callicoat Asst. Volleyball Coach mgcallicoat@umary.edu 701.355.8271
+• Adam Aho Head Wrestling Coach ajaho@umary.edu 701.355.8034 701.367.2895
+• Braydon Huber Asst. Wrestling Coach bmhuber@umary.edu

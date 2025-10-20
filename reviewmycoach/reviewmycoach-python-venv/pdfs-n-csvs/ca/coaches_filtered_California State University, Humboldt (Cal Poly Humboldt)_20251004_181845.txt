@@ -1,0 +1,185 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:45
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Drew Petersen
+   Email: ajp3@humboldt.edu
+   Username: ajp3
+   Original line: Drew Petersen Strength and Conditioning Coach ajp3@humboldt.edu 707-826-
+
+2. DJ Broome
+   Email: dab77@humboldt.edu
+   Username: dab77
+   Original line: DJ Broome Head Men's Basketball Coach dab77@humboldt.edu
+
+3. Guillermo Blas
+   Email: gb923@humboldt.edu
+   Username: gb923
+   Original line: Guillermo Blas Jr. Assistant Women's Basketball Coach gb923@humboldt.edu 707-826-
+
+4. Jamey Harris
+   Email: jamey@humboldt.edu
+   Username: jamey
+   Original line: Jamey Harris Head Cross Country Coach / jamey@humboldt.edu 707-826- 831-247-
+
+5. Scott Pesch
+   Email: sep8@humboldt.edu
+   Username: sep8
+   Original line: Scott Pesch Interim Head Cross Country Coach sep8@humboldt.edu
+
+6. Amelia Jackson
+   Email: aej162@humboldt.edu
+   Username: aej162
+   Original line: Amelia Jackson Graduate Assistant Coach (Distance) aej162@humboldt.edu
+
+7. Matt Weise
+   Email: mjw150@humboldt.edu
+   Username: mjw150
+   Original line: Matt Weise Head Rowing Coach mjw150@humboldt.edu 517-256-
+
+8. Ashley Donnell
+   Email: Ashley.Donnell@humboldt.edu
+   Username: Ashley.Donnell
+   Original line: Ashley Donnell Associate Head Coach Ashley.Donnell@humboldt.edu 925-783-
+
+9. Fred Jungemann
+   Email: menssoccer@humboldt.edu
+   Username: menssoccer
+   Original line: Fred Jungemann Head Men's Soccer Coach menssoccer@humboldt.edu 707-826-
+
+10. Juliano "Nano"
+   Email: menssoccer@humboldt.edu
+   Username: menssoccer
+   Original line: Juliano "Nano" Pereira Assistant Men's Soccer Coach menssoccer@humboldt.edu
+
+11. Isaiah Dairo
+   Email: menssoccer@humboldt.edu
+   Username: menssoccer
+   Original line: Isaiah Dairo Assistant Men's Soccer Coach menssoccer@humboldt.edu
+
+12. Grant Landy
+   Email: gl127@humboldt.edu
+   Username: gl127
+   Original line: Grant Landy Head Women's Soccer Coach gl127@humboldt.edu 707-826- 503-358-
+
+13. Colin Garon
+   Email: ccg3@humboldt.edu
+   Username: ccg3
+   Original line: Colin Garon Assistant Women's Soccer Coach ccg3@humboldt.edu
+
+14. Taylor McMillin-Bianucci
+   Email: taylor.mcmillin@humboldt.edu
+   Username: taylor.mcmillin
+   Original line: Taylor McMillin-Bianucci Assistant Women's Soccer Coach taylor.mcmillin@humboldt.edu
+
+15. Megan Corriea
+   Email: mlc25@humboldt.edu
+   Username: mlc25
+   Original line: Megan Corriea Head Softball Coach mlc25@humboldt.edu
+
+16. Kelly Wooden
+   Email: kw364@humboldt.edu
+   Username: kw364
+   Original line: Kelly Wooden Assistant Coach kw364@humboldt.edu
+
+17. Ciera Pyle
+   Email: cp349@humboldt.edu
+   Username: cp349
+   Original line: Ciera Pyle Graduate Assistant Coach cp349@humboldt.edu
+
+18. Sarah Ingram
+   Email: smi6@humboldt.edu
+   Username: smi6
+   Original line: Sarah Ingram Head Track & Field Coach smi6@humboldt.edu 707-826- 707-407-
+
+19. Jamey Harris
+   Email: jamey@humboldt.edu
+   Username: jamey
+   Original line: Jamey Harris Head Cross Country Coach / jamey@humboldt.edu 707-826- 831-247-
+
+20. Teigan Eilers
+   Email: tpe16@humboldt.edu
+   Username: tpe16
+   Original line: Teigan Eilers Assistant Coach / Recruiting tpe16@humboldt.edu
+
+21. BJ Willkomm
+   Email: humboldtthrows@gmail.com
+   Username: humboldtthrows
+   Original line: BJ Willkomm Assistant Coach (Throws) humboldtthrows@gmail.com
+
+22. Amelia Jackson
+   Email: aej162@humboldt.edu
+   Username: aej162
+   Original line: Amelia Jackson Graduate Assistant Coach (Distance) aej162@humboldt.edu
+
+23. Kinsey Mattison
+   Email: kinsey.mattison@humboldt.edu
+   Username: kinsey.mattison
+   Original line: Kinsey Mattison Head Women's Triathlon Coach kinsey.mattison@humboldt.edu
+
+24. Natalie Mitchell
+   Email: nm351@humboldt.edu
+   Username: nm351
+   Original line: Natalie Mitchell Graduate Assistant Coach nm351@humboldt.edu
+
+25. Angela Spoja
+   Email: as964@humboldt.edu
+   Username: as964
+   Original line: Angela Spoja Head Women's Volleyball Coach as964@humboldt.edu 707-826-
+
+26. Tusalava Kuaea
+   Email: tgk16@humboldt.edu
+   Username: tgk16
+   Original line: Tusalava Kuaea Assistant Coach & Recruiting tgk16@humboldt.edu
+
+27. Macey Hayden
+   Email: mh594@humboldt.edu
+   Username: mh594
+   Original line: Macey Hayden Assistant Volleyball Coach mh594@humboldt.edu
+
+28. Lennie Zalesky
+   Email: ljz6@humboldt.edu
+   Username: ljz6
+   Original line: Lennie Zalesky Head Wrestling Coach ljz6@humboldt.edu
+
+29. Jim Zalesky
+   Email: jz128@humboldt.edu
+   Username: jz128
+   Original line: Jim Zalesky Assistant Wrestling Coach jz128@humboldt.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Drew Petersen Strength and Conditioning Coach ajp3@humboldt.edu 707-826-
+• DJ Broome Head Men's Basketball Coach dab77@humboldt.edu
+• Guillermo Blas Jr. Assistant Women's Basketball Coach gb923@humboldt.edu 707-826-
+• Jamey Harris Head Cross Country Coach / jamey@humboldt.edu 707-826- 831-247-
+• Scott Pesch Interim Head Cross Country Coach sep8@humboldt.edu
+• Amelia Jackson Graduate Assistant Coach (Distance) aej162@humboldt.edu
+• Matt Weise Head Rowing Coach mjw150@humboldt.edu 517-256-
+• Ashley Donnell Associate Head Coach Ashley.Donnell@humboldt.edu 925-783-
+• Fred Jungemann Head Men's Soccer Coach menssoccer@humboldt.edu 707-826-
+• Juliano "Nano" Pereira Assistant Men's Soccer Coach menssoccer@humboldt.edu
+• Isaiah Dairo Assistant Men's Soccer Coach menssoccer@humboldt.edu
+• Grant Landy Head Women's Soccer Coach gl127@humboldt.edu 707-826- 503-358-
+• Colin Garon Assistant Women's Soccer Coach ccg3@humboldt.edu
+• Taylor McMillin-Bianucci Assistant Women's Soccer Coach taylor.mcmillin@humboldt.edu
+• Megan Corriea Head Softball Coach mlc25@humboldt.edu
+• Kelly Wooden Assistant Coach kw364@humboldt.edu
+• Ciera Pyle Graduate Assistant Coach cp349@humboldt.edu
+• Sarah Ingram Head Track & Field Coach smi6@humboldt.edu 707-826- 707-407-
+• Jamey Harris Head Cross Country Coach / jamey@humboldt.edu 707-826- 831-247-
+• Teigan Eilers Assistant Coach / Recruiting tpe16@humboldt.edu
+• BJ Willkomm Assistant Coach (Throws) humboldtthrows@gmail.com
+• Amelia Jackson Graduate Assistant Coach (Distance) aej162@humboldt.edu
+• Kinsey Mattison Head Women's Triathlon Coach kinsey.mattison@humboldt.edu
+• Natalie Mitchell Graduate Assistant Coach nm351@humboldt.edu
+• Angela Spoja Head Women's Volleyball Coach as964@humboldt.edu 707-826-
+• Tusalava Kuaea Assistant Coach & Recruiting tgk16@humboldt.edu
+• Macey Hayden Assistant Volleyball Coach mh594@humboldt.edu
+• Lennie Zalesky Head Wrestling Coach ljz6@humboldt.edu
+• Jim Zalesky Assistant Wrestling Coach jz128@humboldt.edu

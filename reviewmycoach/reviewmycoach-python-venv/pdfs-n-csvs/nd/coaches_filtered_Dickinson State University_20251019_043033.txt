@@ -1,0 +1,251 @@
+COACH ENTRIES FOUND - 2025-10-19 04:30:33
+============================================================
+
+Total coaches found: 40
+
+PARSED ENTRIES:
+----------------------------------------
+1. Michael Dahl
+   Email: michael.m.dahl@dickinsonstate.edu
+   Username: michael.m.dahl
+   Original line: Michael Dahl Head Coach 701-502- michael.m.dahl@dickinsonstate.edu
+
+2. Daniel Rivera
+   Email: daniel.rivera.1@dickinsonstate.edu
+   Username: daniel.rivera.1
+   Original line: Daniel Rivera Assistant Coach daniel.rivera.1@dickinsonstate.edu
+
+3. Derek Selvig
+   Email: derek.selvig@dickinsonstate.edu
+   Username: derek.selvig
+   Original line: Derek Selvig Head Coach 701-502- derek.selvig@dickinsonstate.edu
+
+4. Jake Owsley
+   Email: Jacob.owsley@dickinsonstate.edu
+   Username: Jacob.owsley
+   Original line: Jake Owsley Assistant Coach 701-502- Jacob.owsley@dickinsonstate.edu
+
+5. Eric Nelson
+   Email: eric.d.nelson@dickinsonstate.edu
+   Username: eric.d.nelson
+   Original line: Eric Nelson Head Coach 701-502- eric.d.nelson@dickinsonstate.edu
+
+6. Teagan Townsend
+   Email: teagan.townsend@dickinsonstate.edu
+   Username: teagan.townsend
+   Original line: Teagan Townsend Assistant Coach teagan.townsend@dickinsonstate.edu
+
+7. Hannah LaBree
+   Email: hannah.labree@dickinsonstate.edu
+   Username: hannah.labree
+   Original line: Hannah LaBree Assistant Coach hannah.labree@dickinsonstate.edu
+
+8. Cebe Schneider
+   Email: cebe.schneider@dickinsonstate.edu
+   Username: cebe.schneider
+   Original line: Cebe Schneider Head Coach 701-502- cebe.schneider@dickinsonstate.edu
+
+9. Dakia Schneider
+   Email: dakia.j.schneider@dickinsonstate.edu
+   Username: dakia.j.schneider
+   Original line: Dakia Schneider Assistant Coach dakia.j.schneider@dickinsonstate.edu
+
+10. Thomas Schwartz
+   Email: thomas.schwartz.1@dickinsonstate.edu
+   Username: thomas.schwartz.1
+   Original line: Dr. Thomas Schwartz Head Coach 701-502- thomas.schwartz.1@dickinsonstate.edu
+
+11. Thomas Schwartz
+   Email: thomas.schwartz.1@dickinsonstate.edu
+   Username: thomas.schwartz.1
+   Original line: Dr. Thomas Schwartz Head Coach 701-502- thomas.schwartz.1@dickinsonstate.edu
+
+12. Pete Stanton
+   Email: p.stanton@dickinsonstate.edu
+   Username: p.stanton
+   Original line: Pete Stanton Head Coach 701-502- p.stanton@dickinsonstate.edu
+
+13. Tobin O'Brien
+   Email: tobin.obrien@dickinsonstate.edu
+   Username: tobin.obrien
+   Original line: Tobin O'Brien Offensive Line Coach 701-502- tobin.obrien@dickinsonstate.edu
+
+14. Khalil Paden
+   Email: khalil.paden@dickinsonstate.edu
+   Username: khalil.paden
+   Original line: Khalil Paden Wide Receivers Coach 701-502- khalil.paden@dickinsonstate.edu
+
+15. Nate Kees
+   Email: Nathaniel.Kees@dickinsonstate.edu
+   Username: Nathaniel.Kees
+   Original line: Nate Kees Tight Ends Coach Nathaniel.Kees@dickinsonstate.edu
+
+16. Thadd O'Donnell
+   Email: thadd.odonnell@dickinsonstate.edu
+   Username: thadd.odonnell
+   Original line: Thadd O'Donnell Head Coach 701-502- thadd.odonnell@dickinsonstate.edu
+
+17. Jace Steier
+   Email: jace.steier@dickinsonstate.edu
+   Username: jace.steier
+   Original line: Jace Steier Assistant Coach jace.steier@dickinsonstate.edu
+
+18. Austin Harper
+   Email: austin.harper@dickinsonstate.edu
+   Username: austin.harper
+   Original line: Austin Harper Assistant Coach austin.harper@dickinsonstate.edu
+
+19. Thadd O'Donnell
+   Email: thadd.odonnell@dickinsonstate.edu
+   Username: thadd.odonnell
+   Original line: Thadd O'Donnell Head Coach 701-502- thadd.odonnell@dickinsonstate.edu
+
+20. Jace Steier
+   Email: jace.steier@dickinsonstate.edu
+   Username: jace.steier
+   Original line: Jace Steier Assistant Coach jace.steier@dickinsonstate.edu
+
+21. Austin Harper
+   Email: austin.harper@dickinsonstate.edu
+   Username: austin.harper
+   Original line: Austin Harper Assistant Coach austin.harper@dickinsonstate.edu
+
+22. Will Neel
+   Email: william.neel@dickinsonstate.edu
+   Username: william.neel
+   Original line: Will Neel Head Coach william.neel@dickinsonstate.edu
+
+23. Joe Schmidt
+   Email: joseph.l.schmidt@dickinsonstate.edu
+   Username: joseph.l.schmidt
+   Original line: Joe Schmidt Head Coach 701-502- joseph.l.schmidt@dickinsonstate.edu
+
+24. Kristen Fleury
+   Email: kristen.fleury@dickinsonstate.edu
+   Username: kristen.fleury
+   Original line: Kristen Fleury Head Coach 701-502- kristen.fleury@dickinsonstate.edu
+
+25. Todd Johns
+   Email: todd.johns@dickinsonstate.edu
+   Username: todd.johns
+   Original line: Todd Johns Assistant Coach todd.johns@dickinsonstate.edu
+
+26. Bryant Merry
+   Email: bryant.merry@dickinsonstate.edu
+   Username: bryant.merry
+   Original line: Bryant Merry Assistant Coach bryant.merry@dickinsonstate.edu
+
+27. Shayne Wittkopp
+   Email: shayne.wittkopp@dickinsonstate.edu
+   Username: shayne.wittkopp
+   Original line: Shayne Wittkopp Head Coach 701-502- shayne.wittkopp@dickinsonstate.edu
+
+28. Tanner Gust
+   Email: tanner.gust@dickinsonstate.edu
+   Username: tanner.gust
+   Original line: Tanner Gust Assistant Coach, Throws 701-502- tanner.gust@dickinsonstate.edu
+
+29. Thomas Schwartz
+   Email: thomas.schwartz.1@dickinsonstate.edu
+   Username: thomas.schwartz.1
+   Original line: Dr. Thomas Schwartz Assistant Coach, Mid-Distance and Distance 701-502- thomas.schwartz.1@dickinsonstate.edu
+
+30. Shayne Wittkopp
+   Email: shayne.wittkopp@dickinsonstate.edu
+   Username: shayne.wittkopp
+   Original line: Shayne Wittkopp Head Coach 701-502- shayne.wittkopp@dickinsonstate.edu
+
+31. Tanner Gust
+   Email: tanner.gust@dickinsonstate.edu
+   Username: tanner.gust
+   Original line: Tanner Gust Assistant Coach, Throws 701-502- tanner.gust@dickinsonstate.edu
+
+32. Thomas Schwartz
+   Email: thomas.schwartz.1@dickinsonstate.edu
+   Username: thomas.schwartz.1
+   Original line: Dr. Thomas Schwartz Assistant Coach, Mid-Distance and Distance 701-502- thomas.schwartz.1@dickinsonstate.edu
+
+33. Stormy Siemion
+   Email: stormy.siemion@dickinsonstate.edu
+   Username: stormy.siemion
+   Original line: Stormy Siemion Head Coach 701-502- stormy.siemion@dickinsonstate.edu
+
+34. KayLee Kopp
+   Email: kaylee.kopp@dickinsonstate.edu
+   Username: kaylee.kopp
+   Original line: KayLee Kopp Assistant Coach 701-502- kaylee.kopp@dickinsonstate.edu
+
+35. Justin Schlecht
+   Email: justin.schlecht@dickinsonstate.edu
+   Username: justin.schlecht
+   Original line: Justin Schlecht Head Coach 701-502- justin.schlecht@dickinsonstate.edu
+
+36. Payson Dirk
+   Email: payson.dirk@dickinsonstate.edu
+   Username: payson.dirk
+   Original line: Payson Dirk Assistant Coach 701-502- payson.dirk@dickinsonstate.edu
+
+37. Ryan Upchurch
+   Email: ryan.upchurch@dickinsonstate.edu
+   Username: ryan.upchurch
+   Original line: Ryan Upchurch Assistant Coach ryan.upchurch@dickinsonstate.edu
+
+38. Sergio Martinez
+   Email: sergio.martinez@dickinsonstate.edu
+   Username: sergio.martinez
+   Original line: Sergio Martinez Assistant Coach sergio.martinez@dickinsonstate.edu
+
+39. Tyson Springer
+   Email: tyson.springer@dickinsonstate.edu
+   Username: tyson.springer
+   Original line: Tyson Springer Head Coach 701-502- tyson.springer@dickinsonstate.edu
+
+40. Hayden Wempen
+   Email: hayden.wempen@dickinsonstate.edu
+   Username: hayden.wempen
+   Original line: Hayden Wempen Assistant Coach 701-502- hayden.wempen@dickinsonstate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Michael Dahl Head Coach 701-502- michael.m.dahl@dickinsonstate.edu
+• Daniel Rivera Assistant Coach daniel.rivera.1@dickinsonstate.edu
+• Derek Selvig Head Coach 701-502- derek.selvig@dickinsonstate.edu
+• Jake Owsley Assistant Coach 701-502- Jacob.owsley@dickinsonstate.edu
+• Eric Nelson Head Coach 701-502- eric.d.nelson@dickinsonstate.edu
+• Teagan Townsend Assistant Coach teagan.townsend@dickinsonstate.edu
+• Hannah LaBree Assistant Coach hannah.labree@dickinsonstate.edu
+• Cebe Schneider Head Coach 701-502- cebe.schneider@dickinsonstate.edu
+• Dakia Schneider Assistant Coach dakia.j.schneider@dickinsonstate.edu
+• Dr. Thomas Schwartz Head Coach 701-502- thomas.schwartz.1@dickinsonstate.edu
+• Dr. Thomas Schwartz Head Coach 701-502- thomas.schwartz.1@dickinsonstate.edu
+• Pete Stanton Head Coach 701-502- p.stanton@dickinsonstate.edu
+• Tobin O'Brien Offensive Line Coach 701-502- tobin.obrien@dickinsonstate.edu
+• Khalil Paden Wide Receivers Coach 701-502- khalil.paden@dickinsonstate.edu
+• Nate Kees Tight Ends Coach Nathaniel.Kees@dickinsonstate.edu
+• Thadd O'Donnell Head Coach 701-502- thadd.odonnell@dickinsonstate.edu
+• Jace Steier Assistant Coach jace.steier@dickinsonstate.edu
+• Austin Harper Assistant Coach austin.harper@dickinsonstate.edu
+• Thadd O'Donnell Head Coach 701-502- thadd.odonnell@dickinsonstate.edu
+• Jace Steier Assistant Coach jace.steier@dickinsonstate.edu
+• Austin Harper Assistant Coach austin.harper@dickinsonstate.edu
+• Will Neel Head Coach william.neel@dickinsonstate.edu
+• Joe Schmidt Head Coach 701-502- joseph.l.schmidt@dickinsonstate.edu
+• Kristen Fleury Head Coach 701-502- kristen.fleury@dickinsonstate.edu
+• Todd Johns Assistant Coach todd.johns@dickinsonstate.edu
+• Bryant Merry Assistant Coach bryant.merry@dickinsonstate.edu
+• Shayne Wittkopp Head Coach 701-502- shayne.wittkopp@dickinsonstate.edu
+• Tanner Gust Assistant Coach, Throws 701-502- tanner.gust@dickinsonstate.edu
+• Dr. Thomas Schwartz Assistant Coach, Mid-Distance and Distance 701-502- thomas.schwartz.1@dickinsonstate.edu
+• Shayne Wittkopp Head Coach 701-502- shayne.wittkopp@dickinsonstate.edu
+• Tanner Gust Assistant Coach, Throws 701-502- tanner.gust@dickinsonstate.edu
+• Dr. Thomas Schwartz Assistant Coach, Mid-Distance and Distance 701-502- thomas.schwartz.1@dickinsonstate.edu
+• Stormy Siemion Head Coach 701-502- stormy.siemion@dickinsonstate.edu
+• KayLee Kopp Assistant Coach 701-502- kaylee.kopp@dickinsonstate.edu
+• Justin Schlecht Head Coach 701-502- justin.schlecht@dickinsonstate.edu
+• Payson Dirk Assistant Coach 701-502- payson.dirk@dickinsonstate.edu
+• Ryan Upchurch Assistant Coach ryan.upchurch@dickinsonstate.edu
+• Sergio Martinez Assistant Coach sergio.martinez@dickinsonstate.edu
+• Tyson Springer Head Coach 701-502- tyson.springer@dickinsonstate.edu
+• Hayden Wempen Assistant Coach 701-502- hayden.wempen@dickinsonstate.edu

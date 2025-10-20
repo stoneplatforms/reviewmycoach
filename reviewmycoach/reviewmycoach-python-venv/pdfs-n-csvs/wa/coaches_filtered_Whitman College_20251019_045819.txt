@@ -1,0 +1,245 @@
+COACH ENTRIES FOUND - 2025-10-19 04:58:19
+============================================================
+
+Total coaches found: 39
+
+PARSED ENTRIES:
+----------------------------------------
+1. Michelle Ferenz
+   Email: ferenzmk@whitman.edu
+   Username: ferenzmk
+   Original line: Michelle Ferenz Head Women's Basketball Coach / Associate AD / ferenzmk@whitman.edu (509) 527- Sherwood Center
+
+2. Scott Shields
+   Email: shieldsp@whitman.edu
+   Username: shieldsp
+   Original line: Scott Shields Head Men's and Women's Cross Country Coach / shieldsp@whitman.edu (509) 527- Sherwood Center
+
+3. Skip Molitor
+   Email: molitore@whitman.edu
+   Username: molitore
+   Original line: Skip Molitor Head Men's and Women's Golf Coach / Assistant molitore@whitman.edu (509) 527- Sherwood Center
+
+4. Brian Kitamura
+   Email: kitamubt@whitman.edu
+   Username: kitamubt
+   Original line: Brian Kitamura Head Baseball Coach kitamubt@whitman.edu (509) 522- Sherwood Center
+
+5. Jordan Hara
+   Email: haraj@whitman.edu
+   Username: haraj
+   Original line: Jordan Hara Assistant Baseball Coach haraj@whitman.edu (509) 522- Sherwood Center
+
+6. Peter Fowler
+   Email: fowlerp@whitman.edu
+   Username: fowlerp
+   Original line: Peter Fowler Volunteer Assistant Baseball Coach fowlerp@whitman.edu (509) 522- Sherwood Center
+
+7. John Lamanna
+   Email: lamannaj@whitman.edu
+   Username: lamannaj
+   Original line: John Lamanna Head Men's Basketball Coach lamannaj@whitman.edu (509) 526- Sherwood Center
+
+8. Ethan Engeman
+   Email: engemane@whitman.edu
+   Username: engemane
+   Original line: Ethan Engeman Assistant Men's Basketball Coach engemane@whitman.edu (509) 527- Sherwood Center
+
+9. Shawn James
+   Email: shawnj@whitman.edu
+   Username: shawnj
+   Original line: Shawn James Assistant Men's Basketball Coach shawnj@whitman.edu (509) 527- Sherwood Center
+
+10. Adam Berg
+   Email: berga@whitman.edu
+   Username: berga
+   Original line: Adam Berg Assistant Men's Basketball Coach berga@whitman.edu (509) 527- Sherwood Center
+
+11. Michelle Ferenz
+   Email: ferenzmk@whitman.edu
+   Username: ferenzmk
+   Original line: Michelle Ferenz Head Women's Basketball Coach / Associate AD / ferenzmk@whitman.edu (509) 527- Sherwood Center
+
+12. Marnie Ketelsen
+   Email: ketelsm@whitman.edu
+   Username: ketelsm
+   Original line: Marnie Ketelsen Assistant Women's Basketball Coach ketelsm@whitman.edu (509) 527- Sherwood Center
+
+13. Chris Ferenz
+   Email: cferenz@wwps.org
+   Username: cferenz
+   Original line: Chris Ferenz Assistant Women's Basketball Coach cferenz@wwps.org (509) 527- Sherwood Center
+
+14. Ali Martinez
+   Email: martinea@whitman.edu
+   Username: martinea
+   Original line: Ali Martinez Assistant Women's Basketball Coach martinea@whitman.edu (509) 527-
+
+15. Sydney Abbott
+   Email: abbotts@whitman.edu
+   Username: abbotts
+   Original line: Sydney Abbott Assistant Women's Basketball Coach abbotts@whitman.edu (509) 527- Sherwood Center
+
+16. Scott Shields
+   Email: shieldsp@whitman.edu
+   Username: shieldsp
+   Original line: Scott Shields Head Men's and Women's Cross Country Coach / shieldsp@whitman.edu (509) 527- Sherwood Center
+
+17. Neal Christopherson
+   Email: christnj@whitman.edu
+   Username: christnj
+   Original line: Neal Christopherson Assistant Men's and Women's Cross Country Coach christnj@whitman.edu (509) 527- Sherwood Center
+
+18. Becca Lastoskie
+   Email: lastoskl@whitman.edu
+   Username: lastoskl
+   Original line: Becca Lastoskie Assistant Men's and Women's Cross Country Coach lastoskl@whitman.edu (509) 527- Sherwood Center
+
+19. Skip Molitor
+   Email: molitore@whitman.edu
+   Username: molitore
+   Original line: Skip Molitor Head Men's and Women's Golf Coach / Assistant molitore@whitman.edu (509) 527- Sherwood Center
+
+20. Bill Howard
+   Email: howardw@whitman.edu
+   Username: howardw
+   Original line: Bill Howard Assistant Coach howardw@whitman.edu (509) 527- Sherwood Center
+
+21. Skip Molitor
+   Email: molitore@whitman.edu
+   Username: molitore
+   Original line: Skip Molitor Head Men's and Women's Golf Coach / Assistant molitore@whitman.edu (509) 527- Sherwood Center
+
+22. Bill Howard
+   Email: howardw@whitman.edu
+   Username: howardw
+   Original line: Bill Howard Assistant Coach howardw@whitman.edu (509) 527- Sherwood Center
+
+23. Chris Duncan
+   Email: duncanc@whitman.edu
+   Username: duncanc
+   Original line: Chris Duncan Head Lacrosse Coach duncanc@whitman.edu (509) 524- Sherwood Center
+
+24. Adira Awe
+   Email: awea@whitman.edu
+   Username: awea
+   Original line: Adira Awe Assistant Women's Lacrosse Coach awea@whitman.edu (509) 524- Sherwood Center
+
+25. Madeleine Sherry
+   Email: sherrym@whitman.edu
+   Username: sherrym
+   Original line: Madeleine Sherry Volunteer Assistant Women's Lacrosse Coach sherrym@whitman.edu (509) 524- Sherwood Center
+
+26. Jose Cedeno
+   Email: cedenojs@whitman.edu
+   Username: cedenojs
+   Original line: Jose Cedeno Head Men's Soccer Coach cedenojs@whitman.edu (509) 527- Sherwood Center
+
+27. Jose Beleche
+   Email: belechjl@whitman.edu
+   Username: belechjl
+   Original line: Jose Beleche Assistant Men's Soccer Coach belechjl@whitman.edu (509) 527- Sherwood Center
+
+28. Ricardo Sotelo
+   Email: sotelosr@whitman.edu
+   Username: sotelosr
+   Original line: Ricardo Sotelo Assistant Men's Soccer Coach sotelosr@whitman.edu 509) 527- Sherwood Center
+
+29. Michelle Voiland
+   Email: voilandm@whitman.edu
+   Username: voilandm
+   Original line: Michelle Voiland Head Women's Soccer Coach voilandm@whitman.edu (509) 522- Sherwood Center
+
+30. Darwin Carranza
+   Email: carranzacord@whitman.edu
+   Username: carranzacord
+   Original line: Darwin Carranza Corcuy Assistant Women's Soccer Coach carranzacord@whitman.edu (509) 522- Sherwood Center
+
+31. Jennifer Blomme
+   Email: blommejb@whitman.edu
+   Username: blommejb
+   Original line: Jennifer Blomme Head Swimming Coach / Aquatic Director blommejb@whitman.edu (509) 527- Baker Ferguson
+
+32. Jamie Kennedy
+   Email: kennedjj@whitman.edu
+   Username: kennedjj
+   Original line: Jamie Kennedy Assistant Swimming Coach kennedjj@whitman.edu (509) 527- Baker Ferguson
+
+33. Andrew Hanson
+   Email: hansona@whitman.edu
+   Username: hansona
+   Original line: Andrew Hanson Assistant Swimming Coach hansona@whitman.edu (509) 527- Baker Ferguson
+
+34. Jeff Northam
+   Email: northajw@whitman.edu
+   Username: northajw
+   Original line: Jeff Northam Men's Tennis Coach northajw@whitman.edu (509) 527- Baker Ferguson
+
+35. Lance Sappington
+   Email: sappinlr@whitman.edu
+   Username: sappinlr
+   Original line: Lance Sappington Assistant Coach sappinlr@whitman.edu (509) 527- Baker Ferguson
+
+36. John Hein
+   Email: heinj@whitman.edu
+   Username: heinj
+   Original line: John Hein Head Women's Tennis Coach heinj@whitman.edu (509) 527- Baker Ferguson
+
+37. Calvin Alexander
+   Email: alexandc@whitman.edu
+   Username: alexandc
+   Original line: Calvin Alexander Assistant Women's Tennis Coach alexandc@whitman.edu (973) 518- Baker Ferguson
+
+38. Matt Helm
+   Email: helmmd@whitman.edu
+   Username: helmmd
+   Original line: Matt Helm Head Women's Volleyball Coach helmmd@whitman.edu (509) 527- Sherwood Center
+
+39. Gwen Dildine
+   Email: dildineg@whitman.edu
+   Username: dildineg
+   Original line: Gwen Dildine Assistant Women's Volleyball Coach dildineg@whitman.edu (509) 527- Sherwood Center
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Michelle Ferenz Head Women's Basketball Coach / Associate AD / ferenzmk@whitman.edu (509) 527- Sherwood Center
+• Scott Shields Head Men's and Women's Cross Country Coach / shieldsp@whitman.edu (509) 527- Sherwood Center
+• Skip Molitor Head Men's and Women's Golf Coach / Assistant molitore@whitman.edu (509) 527- Sherwood Center
+• Brian Kitamura Head Baseball Coach kitamubt@whitman.edu (509) 522- Sherwood Center
+• Jordan Hara Assistant Baseball Coach haraj@whitman.edu (509) 522- Sherwood Center
+• Peter Fowler Volunteer Assistant Baseball Coach fowlerp@whitman.edu (509) 522- Sherwood Center
+• John Lamanna Head Men's Basketball Coach lamannaj@whitman.edu (509) 526- Sherwood Center
+• Ethan Engeman Assistant Men's Basketball Coach engemane@whitman.edu (509) 527- Sherwood Center
+• Shawn James Assistant Men's Basketball Coach shawnj@whitman.edu (509) 527- Sherwood Center
+• Adam Berg Assistant Men's Basketball Coach berga@whitman.edu (509) 527- Sherwood Center
+• Michelle Ferenz Head Women's Basketball Coach / Associate AD / ferenzmk@whitman.edu (509) 527- Sherwood Center
+• Marnie Ketelsen Assistant Women's Basketball Coach ketelsm@whitman.edu (509) 527- Sherwood Center
+• Chris Ferenz Assistant Women's Basketball Coach cferenz@wwps.org (509) 527- Sherwood Center
+• Ali Martinez Assistant Women's Basketball Coach martinea@whitman.edu (509) 527-
+• Sydney Abbott Assistant Women's Basketball Coach abbotts@whitman.edu (509) 527- Sherwood Center
+• Scott Shields Head Men's and Women's Cross Country Coach / shieldsp@whitman.edu (509) 527- Sherwood Center
+• Neal Christopherson Assistant Men's and Women's Cross Country Coach christnj@whitman.edu (509) 527- Sherwood Center
+• Becca Lastoskie Assistant Men's and Women's Cross Country Coach lastoskl@whitman.edu (509) 527- Sherwood Center
+• Skip Molitor Head Men's and Women's Golf Coach / Assistant molitore@whitman.edu (509) 527- Sherwood Center
+• Bill Howard Assistant Coach howardw@whitman.edu (509) 527- Sherwood Center
+• Skip Molitor Head Men's and Women's Golf Coach / Assistant molitore@whitman.edu (509) 527- Sherwood Center
+• Bill Howard Assistant Coach howardw@whitman.edu (509) 527- Sherwood Center
+• Chris Duncan Head Lacrosse Coach duncanc@whitman.edu (509) 524- Sherwood Center
+• Adira Awe Assistant Women's Lacrosse Coach awea@whitman.edu (509) 524- Sherwood Center
+• Madeleine Sherry Volunteer Assistant Women's Lacrosse Coach sherrym@whitman.edu (509) 524- Sherwood Center
+• Jose Cedeno Head Men's Soccer Coach cedenojs@whitman.edu (509) 527- Sherwood Center
+• Jose Beleche Assistant Men's Soccer Coach belechjl@whitman.edu (509) 527- Sherwood Center
+• Ricardo Sotelo Assistant Men's Soccer Coach sotelosr@whitman.edu 509) 527- Sherwood Center
+• Michelle Voiland Head Women's Soccer Coach voilandm@whitman.edu (509) 522- Sherwood Center
+• Darwin Carranza Corcuy Assistant Women's Soccer Coach carranzacord@whitman.edu (509) 522- Sherwood Center
+• Jennifer Blomme Head Swimming Coach / Aquatic Director blommejb@whitman.edu (509) 527- Baker Ferguson
+• Jamie Kennedy Assistant Swimming Coach kennedjj@whitman.edu (509) 527- Baker Ferguson
+• Andrew Hanson Assistant Swimming Coach hansona@whitman.edu (509) 527- Baker Ferguson
+• Jeff Northam Men's Tennis Coach northajw@whitman.edu (509) 527- Baker Ferguson
+• Lance Sappington Assistant Coach sappinlr@whitman.edu (509) 527- Baker Ferguson
+• John Hein Head Women's Tennis Coach heinj@whitman.edu (509) 527- Baker Ferguson
+• Calvin Alexander Assistant Women's Tennis Coach alexandc@whitman.edu (973) 518- Baker Ferguson
+• Matt Helm Head Women's Volleyball Coach helmmd@whitman.edu (509) 527- Sherwood Center
+• Gwen Dildine Assistant Women's Volleyball Coach dildineg@whitman.edu (509) 527- Sherwood Center

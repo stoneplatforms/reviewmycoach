@@ -1,0 +1,299 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:16
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Eric Peterson
+   Email: epeterson@benedictine.edu
+   Username: epeterson
+   Phone: 785.218.6742
+   Original line: Eric Peterson Head Coach 785.218.6742 epeterson@benedictine.edu
+
+2. Ben Bennett
+   Email: bbennett@benedictine.edu
+   Username: bbennett
+   Phone: 513.833.4204
+   Original line: Ben Bennett Assistant Coach & Recruiting Coordinator 513.833.4204 bbennett@benedictine.edu
+
+3. Cole Doherty
+   Email: cdoherty@benedictine.edu
+   Username: cdoherty
+   Phone: 816.509.7168
+   Original line: Cole Doherty Pitching Coach 816.509.7168 cdoherty@benedictine.edu
+
+4. Ryan Moody
+   Email: rmoody@benedictine.edu
+   Username: rmoody
+   Phone: 913.360.7561
+   Original line: Ryan Moody Head Coach 913.360.7561 rmoody@benedictine.edu
+
+5. John Peer
+   Email: jpeer@benedictine.edu
+   Username: jpeer
+   Phone: 913.360.7379
+   Original line: John Peer Associate Head Coach 913.360.7379 jpeer@benedictine.edu
+
+6. Adam Rieschl
+   Email: arieschl@benedictine.edu
+   Username: arieschl
+   Original line: Adam Rieschl Assistant Coach arieschl@benedictine.edu
+
+7. Chad Folsom
+   Email: cfolsom@benedictine.edu
+   Username: cfolsom
+   Phone: 913.360.7380
+   Original line: Chad Folsom Head Coach 913.360.7380 cfolsom@benedictine.edu
+
+8. Andi Connelly
+   Email: awilder@benedictine.edu
+   Username: awilder
+   Phone: 913.360.7988
+   Original line: Andi Connelly Assistant Coach 913.360.7988 awilder@benedictine.edu
+
+9. Jacob Cofer
+   Email: jcofer@benedictine.edu
+   Username: jcofer
+   Phone: 913.302.6168
+   Original line: Jacob Cofer Assistant Coach (Cross Country/Distance) 913.302.6168 jcofer@benedictine.edu
+
+10. Peyton Hajok
+   Email: phajok@benedictine.edu
+   Username: phajok
+   Phone: 214.215.2624
+   Original line: Peyton Hajok Assistant Coach (Sprints/Hurdles) 214.215.2624 phajok@benedictine.edu
+
+11. Jacob Cofer
+   Email: jcofer@benedictine.edu
+   Username: jcofer
+   Phone: 913.302.6168
+   Original line: Jacob Cofer Assistant Coach (Cross Country/Distance) 913.302.6168 jcofer@benedictine.edu
+
+12. Peyton Hajok
+   Email: phajok@benedictine.edu
+   Username: phajok
+   Phone: 214.215.2624
+   Original line: Peyton Hajok Assistant Coach (Sprints/Hurdles) 214.215.2624 phajok@benedictine.edu
+
+13. Megan Chiles
+   Email: mbartlett@benedictine.edu
+   Username: mbartlett
+   Original line: Megan Chiles Head Coach mbartlett@benedictine.edu
+
+14. Gabby Keating
+   Email: gkeating@benedictine.edu
+   Username: gkeating
+   Original line: Gabby Keating Head Coach gkeating@benedictine.edu
+
+15. Joel Osborn
+   Email: josborn@benedictine.edu
+   Username: josborn
+   Phone: 913.360.7542
+   Original line: Joel Osborn Head Coach & Offensive Coordinator 913.360.7542 josborn@benedictine.edu
+
+16. John Sosa
+   Email: jsosa@benedictine.edu
+   Username: jsosa
+   Phone: 913.360.7374
+   Original line: John Sosa Head Coach 913.360.7374 jsosa@benedictine.edu
+
+17. Gabriel Lewis
+   Email: glewis@benedictine.edu
+   Username: glewis
+   Phone: 913.360.0394
+   Original line: Gabriel Lewis Assistant Coach 913.360.0394 glewis@benedictine.edu
+
+18. Hunter Nail
+   Email: hnail@benedictine.edu
+   Username: hnail
+   Phone: 303.710.8033
+   Original line: Hunter Nail Head Coach 303.710.8033 | hnail@benedictine.edu
+
+19. Matthew Ricci
+   Email: mricci@benedictine.edu
+   Username: mricci
+   Phone: 913.553.1979
+   Original line: Matthew Ricci Assistant Coach 913.553.1979 mricci@benedictine.edu
+
+20. Kaylin Williams-Mosier
+   Email: kwmosier@benedictine.edu
+   Username: kwmosier
+   Original line: Kaylin Williams-Mosier Assistant Coach kwmosier@benedictine.edu
+
+21. Paul Hunt
+   Email: phunt@benedictine.edu
+   Username: phunt
+   Phone: 515.408.4868
+   Original line: Paul Hunt Head Coach 515.408.4868 phunt@benedictine.edu
+
+22. Jenna Schwartzhoff
+   Email: jschwartzhoff@benedictine.edu
+   Username: jschwartzhoff
+   Phone: 319.929.8354
+   Original line: Jenna Schwartzhoff Assoc. Head Coach/Recruiting Cord. 319.929.8354 jschwartzhoff@benedictine.edu
+
+23. Peyton Hajok
+   Email: phajok@benedictine.edu
+   Username: phajok
+   Phone: 214.215.2624
+   Original line: Peyton Hajok Assistant Coach (Sprints/Hurdles) 214.215.2624 phajok@benedictine.edu
+
+24. Annika Franken
+   Email: afranken@benedictine.edu
+   Username: afranken
+   Phone: 913.313.5565
+   Original line: Annika Franken Assistant Coach (Jumps/Recruiting Coordinator) 913.313.5565 afranken@benedictine.edu
+
+25. Jacob Cofer
+   Email: jcofer@benedictine.edu
+   Username: jcofer
+   Phone: 913.302.6168
+   Original line: Jacob Cofer Assistant Coach (Cross Country/Distance) 913.302.6168 jcofer@benedictine.edu
+
+26. Peyton Hajok
+   Email: phajok@benedictine.edu
+   Username: phajok
+   Phone: 214.215.2624
+   Original line: Peyton Hajok Assistant Coach (Sprints/Hurdles) 214.215.2624 phajok@benedictine.edu
+
+27. Annika Franken
+   Email: afranken@benedictine.edu
+   Username: afranken
+   Phone: 913.313.5565
+   Original line: Annika Franken Assistant Coach (Jumps/Recruiting Coordinator) 913.313.5565 afranken@benedictine.edu
+
+28. Jacob Cofer
+   Email: jcofer@benedictine.edu
+   Username: jcofer
+   Phone: 913.302.6168
+   Original line: Jacob Cofer Assistant Coach (Cross Country/Distance) 913.302.6168 jcofer@benedictine.edu
+
+29. Peyton Hajok
+   Email: phajok@benedictine.edu
+   Username: phajok
+   Phone: 214.215.2624
+   Original line: Peyton Hajok Assistant Coach (Sprints/Hurdles) 214.215.2624 phajok@benedictine.edu
+
+30. Annika Franken
+   Email: afranken@benedictine.edu
+   Username: afranken
+   Phone: 913.313.5565
+   Original line: Annika Franken Assistant Coach (Jumps/Recruiting Coordinator) 913.313.5565 afranken@benedictine.edu
+
+31. Jacob Cofer
+   Email: jcofer@benedictine.edu
+   Username: jcofer
+   Phone: 913.302.6168
+   Original line: Jacob Cofer Assistant Coach (Cross Country/Distance) 913.302.6168 jcofer@benedictine.edu
+
+32. Peyton Hajok
+   Email: phajok@benedictine.edu
+   Username: phajok
+   Phone: 214.215.2624
+   Original line: Peyton Hajok Assistant Coach (Sprints/Hurdles) 214.215.2624 phajok@benedictine.edu
+
+33. Annika Franken
+   Email: afranken@benedictine.edu
+   Username: afranken
+   Phone: 913.313.5565
+   Original line: Annika Franken Assistant Coach (Jumps/Recruiting Coordinator) 913.313.5565 afranken@benedictine.edu
+
+34. Jacob Cofer
+   Email: jcofer@benedictine.edu
+   Username: jcofer
+   Phone: 913.302.6168
+   Original line: Jacob Cofer Assistant Coach (Cross Country/Distance) 913.302.6168 jcofer@benedictine.edu
+
+35. Victoria Hurtt
+   Email: vhurtt@benedictine.edu
+   Username: vhurtt
+   Phone: 913.360.7377
+   Original line: Victoria Hurtt Head Coach 913.360.7377 vhurtt@benedictine.edu
+
+36. Camila Leite
+   Email: cleite@benedictine.edu
+   Username: cleite
+   Phone: 913.360.7344
+   Original line: Camila Leite Assistant Coach 913.360.7344 cleite@benedictine.edu
+
+37. Gregory Barner
+   Email: gbarner@benedictine.edu
+   Username: gbarner
+   Phone: 913.360.7362
+   Original line: Gregory Barner Head Coach 913.360.7362 gbarner@benedictine.edu
+
+38. Mark Crisco
+   Email: mcrisco@benedictine.edu
+   Username: mcrisco
+   Phone: 913.360.7330
+   Original line: Mark Crisco Head Coach 913.360.7330 mcrisco@benedictine.edu
+
+39. Keaton Carney
+   Email: kcarney@benedictine.edu
+   Username: kcarney
+   Phone: 720.469.4029
+   Original line: Keaton Carney Assistant Coach 720.469.4029 kcarney@benedictine.edu
+
+40. Darren Wilhite
+   Email: dwilhite@benedictine.edu
+   Username: dwilhite
+   Original line: Darren Wilhite Assistant Coach dwilhite@benedictine.edu
+
+41. Clare Hanson
+   Email: chanson@benedictine.edu
+   Username: chanson
+   Phone: 785.215.7029
+   Original line: Clare Hanson Head Coach 785.215.7029 | chanson@benedictine.edu
+
+42. MacKenzie Petersen
+   Email: mpetersen@benedictine.edu
+   Username: mpetersen
+   Original line: MacKenzie Petersen Assistant Coach mpetersen@benedictine.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Eric Peterson Head Coach 785.218.6742 epeterson@benedictine.edu
+• Ben Bennett Assistant Coach & Recruiting Coordinator 513.833.4204 bbennett@benedictine.edu
+• Cole Doherty Pitching Coach 816.509.7168 cdoherty@benedictine.edu
+• Ryan Moody Head Coach 913.360.7561 rmoody@benedictine.edu
+• John Peer Associate Head Coach 913.360.7379 jpeer@benedictine.edu
+• Adam Rieschl Assistant Coach arieschl@benedictine.edu
+• Chad Folsom Head Coach 913.360.7380 cfolsom@benedictine.edu
+• Andi Connelly Assistant Coach 913.360.7988 awilder@benedictine.edu
+• Jacob Cofer Assistant Coach (Cross Country/Distance) 913.302.6168 jcofer@benedictine.edu
+• Peyton Hajok Assistant Coach (Sprints/Hurdles) 214.215.2624 phajok@benedictine.edu
+• Jacob Cofer Assistant Coach (Cross Country/Distance) 913.302.6168 jcofer@benedictine.edu
+• Peyton Hajok Assistant Coach (Sprints/Hurdles) 214.215.2624 phajok@benedictine.edu
+• Megan Chiles Head Coach mbartlett@benedictine.edu
+• Gabby Keating Head Coach gkeating@benedictine.edu
+• Joel Osborn Head Coach & Offensive Coordinator 913.360.7542 josborn@benedictine.edu
+• John Sosa Head Coach 913.360.7374 jsosa@benedictine.edu
+• Gabriel Lewis Assistant Coach 913.360.0394 glewis@benedictine.edu
+• Hunter Nail Head Coach 303.710.8033 | hnail@benedictine.edu
+• Matthew Ricci Assistant Coach 913.553.1979 mricci@benedictine.edu
+• Kaylin Williams-Mosier Assistant Coach kwmosier@benedictine.edu
+• Paul Hunt Head Coach 515.408.4868 phunt@benedictine.edu
+• Jenna Schwartzhoff Assoc. Head Coach/Recruiting Cord. 319.929.8354 jschwartzhoff@benedictine.edu
+• Peyton Hajok Assistant Coach (Sprints/Hurdles) 214.215.2624 phajok@benedictine.edu
+• Annika Franken Assistant Coach (Jumps/Recruiting Coordinator) 913.313.5565 afranken@benedictine.edu
+• Jacob Cofer Assistant Coach (Cross Country/Distance) 913.302.6168 jcofer@benedictine.edu
+• Peyton Hajok Assistant Coach (Sprints/Hurdles) 214.215.2624 phajok@benedictine.edu
+• Annika Franken Assistant Coach (Jumps/Recruiting Coordinator) 913.313.5565 afranken@benedictine.edu
+• Jacob Cofer Assistant Coach (Cross Country/Distance) 913.302.6168 jcofer@benedictine.edu
+• Peyton Hajok Assistant Coach (Sprints/Hurdles) 214.215.2624 phajok@benedictine.edu
+• Annika Franken Assistant Coach (Jumps/Recruiting Coordinator) 913.313.5565 afranken@benedictine.edu
+• Jacob Cofer Assistant Coach (Cross Country/Distance) 913.302.6168 jcofer@benedictine.edu
+• Peyton Hajok Assistant Coach (Sprints/Hurdles) 214.215.2624 phajok@benedictine.edu
+• Annika Franken Assistant Coach (Jumps/Recruiting Coordinator) 913.313.5565 afranken@benedictine.edu
+• Jacob Cofer Assistant Coach (Cross Country/Distance) 913.302.6168 jcofer@benedictine.edu
+• Victoria Hurtt Head Coach 913.360.7377 vhurtt@benedictine.edu
+• Camila Leite Assistant Coach 913.360.7344 cleite@benedictine.edu
+• Gregory Barner Head Coach 913.360.7362 gbarner@benedictine.edu
+• Mark Crisco Head Coach 913.360.7330 mcrisco@benedictine.edu
+• Keaton Carney Assistant Coach 720.469.4029 kcarney@benedictine.edu
+• Darren Wilhite Assistant Coach dwilhite@benedictine.edu
+• Clare Hanson Head Coach 785.215.7029 | chanson@benedictine.edu
+• MacKenzie Petersen Assistant Coach mpetersen@benedictine.edu

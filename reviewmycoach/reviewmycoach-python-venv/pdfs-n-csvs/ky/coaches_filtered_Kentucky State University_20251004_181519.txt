@@ -1,0 +1,83 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:19
+============================================================
+
+Total coaches found: 12
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rob Henry
+   Email: robert.henry@kysu.edu
+   Username: robert.henry
+   Original line: Rob Henry Head Baseball Coach robert.henry@kysu.edu 502-597-
+
+2. Ramon Johnson
+   Email: ramon.johnson@kysu.edu
+   Username: ramon.johnson
+   Original line: Ramon Johnson Head Track and Field Coach ramon.johnson@kysu.edu
+
+3. Felton Huggins
+   Email: felton.hugginsjr@kysu.edu
+   Username: felton.hugginsjr
+   Original line: Felton Huggins Jr. Head Football Coach felton.hugginsjr@kysu.edu
+
+4. Lavon Meeks
+   Email: lavon.meeks@kysu.edu
+   Username: lavon.meeks
+   Original line: Lavon Meeks Assistant Football Coach lavon.meeks@kysu.edu
+
+5. Eli Tibbles
+   Email: elijah.tibbles@kysu.edu
+   Username: elijah.tibbles
+   Original line: Eli Tibbles Assistant Football Coach elijah.tibbles@kysu.edu
+
+6. Terrell Lee
+   Email: terrell.lee@kysu.edu
+   Username: terrell.lee
+   Original line: Terrell Lee Assistant Football Coach terrell.lee@kysu.edu
+
+7. Jamaal Jackson
+   Email: jamaal.jackson1@kysu.edu
+   Username: jamaal.jackson1
+   Original line: Dr. Jamaal Jackson Head Men's Basketball Coach jamaal.jackson1@kysu.edu 502-597-
+
+8. Shaun Smith
+   Email: shaun.smith@kysu.edu
+   Username: shaun.smith
+   Original line: Shaun Smith Assistant Men's Basketball Coach shaun.smith@kysu.edu 502-597-
+
+9. Robert Duff
+   Email: Robert.Duff1@kysu.edu
+   Username: Robert.Duff1
+   Original line: Robert Duff Head Men's Golf Coach Robert.Duff1@kysu.edu
+
+10. David Morton
+   Email: david.morton@kysu.edu
+   Username: david.morton
+   Original line: David Morton Jr. Head Softball Coach david.morton@kysu.edu 502-597-
+
+11. Abby Wall
+   Email: abby.wall@kysu.edu
+   Username: abby.wall
+   Original line: Abby Wall Assistant Softball Coach abby.wall@kysu.edu
+
+12. Ramon Johnson
+   Email: ramon.johnson@kysu.edu
+   Username: ramon.johnson
+   Original line: Ramon Johnson Head Track and Field Coach ramon.johnson@kysu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rob Henry Head Baseball Coach robert.henry@kysu.edu 502-597-
+• Ramon Johnson Head Track and Field Coach ramon.johnson@kysu.edu
+• Felton Huggins Jr. Head Football Coach felton.hugginsjr@kysu.edu
+• Lavon Meeks Assistant Football Coach lavon.meeks@kysu.edu
+• Eli Tibbles Assistant Football Coach elijah.tibbles@kysu.edu
+• Terrell Lee Assistant Football Coach terrell.lee@kysu.edu
+• Dr. Jamaal Jackson Head Men's Basketball Coach jamaal.jackson1@kysu.edu 502-597-
+• Shaun Smith Assistant Men's Basketball Coach shaun.smith@kysu.edu 502-597-
+• Robert Duff Head Men's Golf Coach Robert.Duff1@kysu.edu
+• David Morton Jr. Head Softball Coach david.morton@kysu.edu 502-597-
+• Abby Wall Assistant Softball Coach abby.wall@kysu.edu
+• Ramon Johnson Head Track and Field Coach ramon.johnson@kysu.edu

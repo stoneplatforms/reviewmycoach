@@ -1,0 +1,80 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:05
+============================================================
+
+Total coaches found: 11
+
+PARSED ENTRIES:
+----------------------------------------
+1. Collin Martin
+   Email: MartinCR@webber.edu
+   Username: MartinCR
+   Original line: Collin Martin Head Baseball Coach MartinCR@webber.edu
+
+2. Matt Saliba
+   Email: SalibaM@webber.edu
+   Username: SalibaM
+   Original line: Matt Saliba Assistant Varsity Head Coach SalibaM@webber.edu
+
+3. Ruben Ghiragossian
+   Email: Ruben.Ghiragossian@kegel.net
+   Username: Ruben.Ghiragossian
+   Original line: Ruben Ghiragossian Assistant Bowling Coach Ruben.Ghiragossian@kegel.net
+
+4. Eric Potochney
+   Email: PotochneyES@webber.edu
+   Username: PotochneyES
+   Phone: 863.734.1548
+   Original line: Eric Potochney Head Football Coach PotochneyES@webber.edu 863.734.1548
+
+5. Rick Wimmer
+   Email: craighd@webber.edu
+   Username: craighd
+   Original line: Rick Wimmer Head Coach Team 2 / Special craighd@webber.edu
+
+6. Jaren Muse
+   Email: musej@students.webber.edu
+   Username: musej
+   Original line: Jaren Muse Assistant Coach musej@students.webber.edu
+
+7. Stuart Winsby
+   Email: WinsbyS@webber.edu
+   Username: WinsbyS
+   Phone: 863.638.2985
+   Original line: Stuart Winsby Head Men's Golf Coach WinsbyS@webber.edu 863.638.2985
+
+8. Joshua Cargile
+   Email: cargilejg@students.webber.edu
+   Username: cargilejg
+   Original line: Joshua Cargile Student Assistant Coach cargilejg@students.webber.edu
+
+9. Bryan Mejia
+   Email: mejiab@webber.edu
+   Username: mejiab
+   Original line: Bryan Mejia Head Men's Soccer Coach mejiab@webber.edu
+
+10. Neil Cockburn
+   Email: CockburnNW@webber.edu
+   Username: CockburnNW
+   Phone: 863.638.2956
+   Original line: Neil Cockburn Assistant Soccer Coach CockburnNW@webber.edu 863.638.2956
+
+11. Hawley Ill
+   Email: illha@webber.edu
+   Username: illha
+   Original line: Hawley Ill Head Softball Coach illha@webber.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Collin Martin Head Baseball Coach MartinCR@webber.edu
+• Matt Saliba Assistant Varsity Head Coach SalibaM@webber.edu
+• Ruben Ghiragossian Assistant Bowling Coach Ruben.Ghiragossian@kegel.net
+• Eric Potochney Head Football Coach PotochneyES@webber.edu 863.734.1548
+• Rick Wimmer Head Coach Team 2 / Special craighd@webber.edu
+• Jaren Muse Assistant Coach musej@students.webber.edu
+• Stuart Winsby Head Men's Golf Coach WinsbyS@webber.edu 863.638.2985
+• Joshua Cargile Student Assistant Coach cargilejg@students.webber.edu
+• Bryan Mejia Head Men's Soccer Coach mejiab@webber.edu
+• Neil Cockburn Assistant Soccer Coach CockburnNW@webber.edu 863.638.2956
+• Hawley Ill Head Softball Coach illha@webber.edu

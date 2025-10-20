@@ -1,0 +1,297 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:27
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Matt Schissel
+   Email: schisma@quincy.edu
+   Username: schisma
+   Phone: (217) 228-5432
+   Original line: Matt Schissel Head Coach schisma@quincy.edu 217-228-5432, ext.
+
+2. Jesse Hall
+   Email: j.hall30@quincy.edu
+   Username: j.hall30
+   Phone: (217) 228-5432
+   Original line: Jesse Hall Hitting Coach j.hall30@quincy.edu 217-228-5432, ext.
+
+3. Brad Hoyt
+   Email: b.hoyt81@quincy.edu
+   Username: b.hoyt81
+   Phone: (217) 228-5432
+   Original line: Brad Hoyt Head Coach b.hoyt81@quincy.edu 217-228-5432, ext.
+
+4. Justin Bottorff
+   Email: j.bottorff07@quincy.edu
+   Username: j.bottorff07
+   Phone: (217) 228-5432
+   Original line: Justin Bottorff Assistant Coach j.bottorff07@quincy.edu 217-228-5432, ext.
+
+5. Brendon Gooch
+   Email: b.gooch07@quincy.edu
+   Username: b.gooch07
+   Phone: (217) 228-5432
+   Original line: Brendon Gooch Assistant Coach b.gooch07@quincy.edu 217-228-5432, ext.
+
+6. Ali Schwagmeyer-Belger
+   Email: a.schwagmeyer32@quincy.edu
+   Username: a.schwagmeyer32
+   Phone: (217) 228-5432
+   Original line: Ali Schwagmeyer-Belger Head Coach a.schwagmeyer32@quincy.edu 217-228-5432, ext.
+
+7. Courtney Belger
+   Email: c.belger95@quincy.edu
+   Username: c.belger95
+   Phone: (217) 228-5432
+   Original line: Courtney Belger Assistant Coach c.belger95@quincy.edu 217-228-5432, ext.
+
+8. Kyle Egan
+   Email: k.egan82@quincy.edu
+   Username: k.egan82
+   Phone: (217) 228-5432
+   Original line: Kyle Egan Head Coach k.egan82@quincy.edu 217-228-5432, ext.
+
+9. Ryan Palm
+   Email: r.palm17@quincy.edu
+   Username: r.palm17
+   Phone: (217) 228-5432
+   Original line: Ryan Palm Head Coach r.palm17@quincy.edu 217-228-5432, ext.
+
+10. Doug Savage
+   Email: d.savage29@quincy.edu
+   Username: d.savage29
+   Phone: (217) 228-5432
+   Original line: Doug Savage Assistant Coach d.savage29@quincy.edu 217-228-5432, ext.
+
+11. Jason Killday
+   Email: j.killday07@quincy.edu
+   Username: j.killday07
+   Phone: (217) 228-5432
+   Original line: Jason Killday Head Coach j.killday07@quincy.edu 217-228-5432, ext. @CoachKillday
+
+12. Jeff Fantuzzi
+   Email: j.fantuzzi56@quincy.edu
+   Username: j.fantuzzi56
+   Phone: (217) 228-5432
+   Original line: Jeff Fantuzzi Offensive Line Coach j.fantuzzi56@quincy.edu 217-228-5432, ext.
+
+13. Tyler Wilson
+   Email: s.wilson87@quincy.edu
+   Username: s.wilson87
+   Phone: (217) 228-5432
+   Original line: Tyler Wilson Defensive Back Coach s.wilson87@quincy.edu 217-228-5432, ext. @CoachTWilson26
+
+14. Jon Roberson
+   Email: j.roberson63@quincy.edu
+   Username: j.roberson63
+   Original line: Jon Roberson Head Women's Coach j.roberson63@quincy.edu
+
+15. Alex McCulla
+   Email: a.mcculla35@quincy.edu
+   Username: a.mcculla35
+   Original line: Alex McCulla Head Men's Coach a.mcculla35@quincy.edu
+
+16. Jake Acevedo
+   Email: j.acevedo84@quincy.edu
+   Username: j.acevedo84
+   Phone: (217) 228-5432
+   Original line: Jake Acevedo Head Coach j.acevedo84@quincy.edu 217-228-5432, ext.
+
+17. Miles Stading
+   Email: m.stading30@quincy.edu
+   Username: m.stading30
+   Phone: (217) 228-5432
+   Original line: Miles Stading Assistant Coach m.stading30@quincy.edu 217-228-5432, ext.
+
+18. Abbie Belknap
+   Email: a.belknap37@quincy.edu
+   Username: a.belknap37
+   Phone: (217) 228-5432
+   Original line: Abbie Belknap Head Coach a.belknap37@quincy.edu 217-228-5432, ext.
+
+19. Mike Carpenter
+   Email: carpemi@quincy.edu
+   Username: carpemi
+   Phone: (217) 228-5432
+   Original line: Mike Carpenter Head Coach carpemi@quincy.edu 217-228-5432, ext.
+
+20. Jacob Adams
+   Email: j.adams73@quincy.edu
+   Username: j.adams73
+   Phone: (217) 228-5432
+   Original line: Jacob Adams Assistant Coach j.adams73@quincy.edu 217-228-5432, ext.
+
+21. Taylor Reis
+   Email: reista@quincy.edu
+   Username: reista
+   Phone: (217) 228-5432
+   Original line: Taylor Reis Head Coach reista@quincy.edu 217-228-5432, ext.
+
+22. Jeweleen Reuille
+   Email: j.reuille53@quincy.edu
+   Username: j.reuille53
+   Phone: (217) 228-5432
+   Original line: Jeweleen Reuille Assistant Coach j.reuille53@quincy.edu 217-228-5432, ext.
+
+23. Cathy Monroe
+   Email: c.monroe73@quincy.edu
+   Username: c.monroe73
+   Phone: (217) 228-5432
+   Original line: Cathy Monroe Head Coach c.monroe73@quincy.edu 217-228-5432, ext.
+
+24. Darrell Henze
+   Email: d.henze71@quincy.edu
+   Username: d.henze71
+   Original line: Darrell Henze Assistant Coach d.henze71@quincy.edu
+
+25. Kirkland Burton
+   Email: burtoki@quincy.edu
+   Username: burtoki
+   Phone: (217) 228-5432
+   Original line: Kirkland Burton Head Coach / Offensive burtoki@quincy.edu 217-228-5432, ext.
+
+26. Cody Rachatellelle
+   Email: c.rachatellelle27@quincy.edu
+   Username: c.rachatellelle27
+   Phone: (217) 228-5432
+   Original line: Cody Rachatellelle Linebackers Coach / c.rachatellelle27@quincy.edu 217-228-5432, ext.
+
+27. Bryan Christiansen
+   Email: b.christiansen05@quincy.edu
+   Username: b.christiansen05
+   Phone: (217) 228-5432
+   Original line: Bryan Christiansen Head Coach b.christiansen05@quincy.edu 217-228-5432, ext.
+
+28. Jackson Miller
+   Email: j.miller81@quincy.edu
+   Username: j.miller81
+   Original line: Jackson Miller Assistant Coach j.miller81@quincy.edu
+
+29. Zach Willing
+   Email: williza@quincy.edu
+   Username: williza
+   Original line: Zach Willing Interim Head Coach williza@quincy.edu
+
+30. Doug Savage
+   Email: d.savage29@quincy.edu
+   Username: d.savage29
+   Phone: (217) 228-5432
+   Original line: Doug Savage Head Coach d.savage29@quincy.edu 217-228-5432, ext.
+
+31. Ryan Palm
+   Email: r.palm17@quincy.edu
+   Username: r.palm17
+   Phone: (217) 228-5432
+   Original line: Ryan Palm Assistant Coach r.palm17@quincy.edu 217-228-5432, ext.
+
+32. Omar Sanchez
+   Email: o.sanchez87@quincy.edu
+   Username: o.sanchez87
+   Phone: (217) 228-5223
+   Original line: Omar Sanchez Head Coach o.sanchez87@quincy.edu 217-228-5223
+
+33. Keegan Carey
+   Email: k.carey33@quincy.edu
+   Username: k.carey33
+   Phone: (217) 228-5432
+   Original line: Keegan Carey Assistant Coach k.carey33@quincy.edu 217-228-5432, ext.
+
+34. Mark Jones
+   Email: jonesma@quincy.edu
+   Username: jonesma
+   Phone: (217) 228-5432
+   Original line: Mark Jones Head Coach jonesma@quincy.edu 217-228-5432, ext
+
+35. Erik Krenz
+   Email: e.krenz82@quincy.edu
+   Username: e.krenz82
+   Phone: (217) 228-5432
+   Original line: Erik Krenz Assistant Coach e.krenz82@quincy.edu 217-228-5432, ext.
+
+36. Jeff Haley
+   Email: j.haley26@quincy.edu
+   Username: j.haley26
+   Phone: (217) 430-3755
+   Original line: Jeff Haley Women's Head Coach, j.haley26@quincy.edu 217-430-3755
+
+37. Humberto Pintor
+   Email: h.pintor59@quincy.edu
+   Username: h.pintor59
+   Original line: Humberto Pintor Assistant Coach h.pintor59@quincy.edu
+
+38. Nathan Berta
+   Email: n.berta08@quincy.edu
+   Username: n.berta08
+   Original line: Nathan Berta Assistant Coach n.berta08@quincy.edu
+
+39. Jeff Haley
+   Email: j.haley26@quincy.edu
+   Username: j.haley26
+   Phone: (217) 430-3755
+   Original line: Jeff Haley Women's Head Coach, j.haley26@quincy.edu 217-430-3755
+
+40. Brenna Phillips
+   Email: b.phillips58@quincy.edu
+   Username: b.phillips58
+   Phone: (217) 228-5432
+   Original line: Brenna Phillips Head Coach b.phillips58@quincy.edu 217-228-5432, ext.
+
+41. Diane Shoemaker
+   Email: d.shoemaker26@quincy.edu
+   Username: d.shoemaker26
+   Phone: (217) 228-5432
+   Original line: Diane Shoemaker Head Coach d.shoemaker26@quincy.edu 217-228-5432, ext.
+
+42. Graci White
+   Email: whitegr@quincy.edu
+   Username: whitegr
+   Original line: Graci White Assistant Coach whitegr@quincy.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Matt Schissel Head Coach schisma@quincy.edu 217-228-5432, ext.
+• Jesse Hall Hitting Coach j.hall30@quincy.edu 217-228-5432, ext.
+• Brad Hoyt Head Coach b.hoyt81@quincy.edu 217-228-5432, ext.
+• Justin Bottorff Assistant Coach j.bottorff07@quincy.edu 217-228-5432, ext.
+• Brendon Gooch Assistant Coach b.gooch07@quincy.edu 217-228-5432, ext.
+• Ali Schwagmeyer-Belger Head Coach a.schwagmeyer32@quincy.edu 217-228-5432, ext.
+• Courtney Belger Assistant Coach c.belger95@quincy.edu 217-228-5432, ext.
+• Kyle Egan Head Coach k.egan82@quincy.edu 217-228-5432, ext.
+• Ryan Palm Head Coach r.palm17@quincy.edu 217-228-5432, ext.
+• Doug Savage Assistant Coach d.savage29@quincy.edu 217-228-5432, ext.
+• Jason Killday Head Coach j.killday07@quincy.edu 217-228-5432, ext. @CoachKillday
+• Jeff Fantuzzi Offensive Line Coach j.fantuzzi56@quincy.edu 217-228-5432, ext.
+• Tyler Wilson Defensive Back Coach s.wilson87@quincy.edu 217-228-5432, ext. @CoachTWilson26
+• Jon Roberson Head Women's Coach j.roberson63@quincy.edu
+• Alex McCulla Head Men's Coach a.mcculla35@quincy.edu
+• Jake Acevedo Head Coach j.acevedo84@quincy.edu 217-228-5432, ext.
+• Miles Stading Assistant Coach m.stading30@quincy.edu 217-228-5432, ext.
+• Abbie Belknap Head Coach a.belknap37@quincy.edu 217-228-5432, ext.
+• Mike Carpenter Head Coach carpemi@quincy.edu 217-228-5432, ext.
+• Jacob Adams Assistant Coach j.adams73@quincy.edu 217-228-5432, ext.
+• Taylor Reis Head Coach reista@quincy.edu 217-228-5432, ext.
+• Jeweleen Reuille Assistant Coach j.reuille53@quincy.edu 217-228-5432, ext.
+• Cathy Monroe Head Coach c.monroe73@quincy.edu 217-228-5432, ext.
+• Darrell Henze Assistant Coach d.henze71@quincy.edu
+• Kirkland Burton Head Coach / Offensive burtoki@quincy.edu 217-228-5432, ext.
+• Cody Rachatellelle Linebackers Coach / c.rachatellelle27@quincy.edu 217-228-5432, ext.
+• Bryan Christiansen Head Coach b.christiansen05@quincy.edu 217-228-5432, ext.
+• Jackson Miller Assistant Coach j.miller81@quincy.edu
+• Zach Willing Interim Head Coach williza@quincy.edu
+• Doug Savage Head Coach d.savage29@quincy.edu 217-228-5432, ext.
+• Ryan Palm Assistant Coach r.palm17@quincy.edu 217-228-5432, ext.
+• Omar Sanchez Head Coach o.sanchez87@quincy.edu 217-228-5223
+• Keegan Carey Assistant Coach k.carey33@quincy.edu 217-228-5432, ext.
+• Mark Jones Head Coach jonesma@quincy.edu 217-228-5432, ext
+• Erik Krenz Assistant Coach e.krenz82@quincy.edu 217-228-5432, ext.
+• Jeff Haley Women's Head Coach, j.haley26@quincy.edu 217-430-3755
+• Humberto Pintor Assistant Coach h.pintor59@quincy.edu
+• Nathan Berta Assistant Coach n.berta08@quincy.edu
+• Jeff Haley Women's Head Coach, j.haley26@quincy.edu 217-430-3755
+• Brenna Phillips Head Coach b.phillips58@quincy.edu 217-228-5432, ext.
+• Diane Shoemaker Head Coach d.shoemaker26@quincy.edu 217-228-5432, ext.
+• Graci White Assistant Coach whitegr@quincy.edu

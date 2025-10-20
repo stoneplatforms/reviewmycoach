@@ -1,0 +1,293 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:39
+============================================================
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mandy Eggert
+   Email: eggertm@uwosh.edu
+   Username: eggertm
+   Original line: Mandy Eggert Head Strength & Conditioning Coach eggertm@uwosh.edu (920) 424- 130 Student Rec &
+
+2. Kevin Tomasiewicz
+   Email: tomasiek@uwosh.edu
+   Username: tomasiek
+   Original line: Kevin Tomasiewicz Head Coach tomasiek@uwosh.edu (920) 424- 121 Kolf Sports Center
+
+3. Garry Maynard
+   Email: maynardg@uwosh.edu
+   Username: maynardg
+   Original line: Garry Maynard Assistant Coach/Recruiting Coordinator maynardg@uwosh.edu (920) 424- 134 Kolf Sports Center
+
+4. Matt Lewis
+   Email: lewism@uwosh.edu
+   Username: lewism
+   Original line: Matt Lewis Head Coach lewism@uwosh.edu (920) 424- 126 Kolf Sports Center
+
+5. Max DeGeorge
+   Email: degeorgem@uwosh.edu
+   Username: degeorgem
+   Original line: Max DeGeorge Assistant Coach degeorgem@uwosh.edu (920) 424- 132 Kolf Sports Center
+
+6. Brad Fischer
+   Email: fischerb@uwosh.edu
+   Username: fischerb
+   Original line: Brad Fischer Head Coach fischerb@uwosh.edu (920) 424- 127 Kolf Sports Center
+
+7. Cassie Schiltz
+   Email: schiltzc@uwosh.edu
+   Username: schiltzc
+   Original line: Cassie Schiltz Assistant Coach schiltzc@uwosh.edu (920) 424- 121 Kolf Sports Center
+
+8. Eamon McKenna
+   Email: mckennae@uwosh.edu
+   Username: mckennae
+   Original line: Eamon McKenna Cross Country Head Coach | Track mckennae@uwosh.edu (920) 424- 113 Kolf Sports Center
+
+9. Brittany (Haas)
+   Email: haasb@uwosh.edu
+   Username: haasb
+   Original line: Brittany (Haas) Gibson Assistant Coach haasb@uwosh.edu (920) 424- 120 Kolf Sports Center
+
+10. Eamon McKenna
+   Email: mckennae@uwosh.edu
+   Username: mckennae
+   Original line: Eamon McKenna Cross Country Head Coach | Track mckennae@uwosh.edu (920) 424- 113 Kolf Sports Center
+
+11. Brittany (Haas)
+   Email: haasb@uwosh.edu
+   Username: haasb
+   Original line: Brittany (Haas) Gibson Assistant Coach haasb@uwosh.edu (920) 424- 120 Kolf Sports Center
+
+12. Peter Jennings
+   Email: jenningsp@uwosh.edu
+   Username: jenningsp
+   Original line: Peter Jennings Head Coach jenningsp@uwosh.edu (920) 424- 253 Russ Young Complex
+
+13. Nicholas Mazurczak
+   Email: mazurczakn@uwosh.edu
+   Username: mazurczakn
+   Original line: Nicholas Mazurczak Assistant Outside Linebackers Coach and mazurczakn@uwosh.edu (920) 424-
+
+14. Jack Robinson
+   Email: robinsonj@uwosh.edu
+   Username: robinsonj
+   Original line: Jack Robinson Defensive Line Coach and Director of On- robinsonj@uwosh.edu (920) 424-
+
+15. Mason Robinson
+   Email: robinsonm@uwosh.edu
+   Username: robinsonm
+   Original line: Mason Robinson Wide Receivers Coach, Recruiting robinsonm@uwosh.edu (920) 424-
+
+16. Duane Rogatzki
+   Email: rogatzkd@uwosh.edu
+   Username: rogatzkd
+   Original line: Duane Rogatzki Specialists Coach rogatzkd@uwosh.edu (920) 424-
+
+17. Drew Sperry
+   Email: sperrd@uwosh.edu
+   Username: sperrd
+   Original line: Drew Sperry Safeties Coach sperrd@uwosh.edu (920) 424-
+
+18. Nate Wara
+   Email: waran@uwosh.edu
+   Username: waran
+   Original line: Nate Wara Tight Ends and Fullbacks Coach waran@uwosh.edu (920) 424-
+
+19. Jeff Johnsen
+   Email: johnsenje@uwosh.edu
+   Username: johnsenje
+   Original line: Jeff Johnsen Head Coach johnsenje@uwosh.edu (920) 424- 117 Kolf Sports Center
+
+20. Lauren Karnitz
+   Email: marenol@uwosh.edu
+   Username: marenol
+   Original line: Lauren Karnitz Head Coach marenol@uwosh.edu (920) 424- 129 Kolf Sports Center
+
+21. Rahdea Jarvis
+   Email: jarvir42@uwosh.edu
+   Username: jarvir42
+   Original line: Rahdea Jarvis Assistant Coach jarvir42@uwosh.edu (920) 424- 129 Kolf Sports Center
+
+22. Eboni Jackson
+   Email: jacksone@uwosh.edu
+   Username: jacksone
+   Original line: Eboni Jackson Assistant Coach jacksone@uwosh.edu 120 Kolf Sports Center
+
+23. Erin Coppernoll
+   Email: copperne@uwosh.edu
+   Username: copperne
+   Original line: Erin Coppernoll Head Coach copperne@uwosh.edu (920) 424- 115 Kolf Sports Center
+
+24. Greg Ruark
+   Email: ruarkg@uwosh.edu
+   Username: ruarkg
+   Original line: Greg Ruark Assistant Coach ruarkg@uwosh.edu (920) 424- 134 Kolf Sports Center
+
+25. Scott Beyer
+   Email: beyersw@uwosh.edu
+   Username: beyersw
+   Original line: Scott Beyer Head Coach beyersw@uwosh.edu (920) 424- 118 Kolf Sports Center
+
+26. Kaitlyn Krol
+   Email: krolk15@uwosh.edu
+   Username: krolk15
+   Original line: Kaitlyn Krol Assistant Coach krolk15@uwosh.edu (920) 424- 149 Kolf Sports Center
+
+27. Christopher Culp
+   Email: culpc@uwosh.edu
+   Username: culpc
+   Original line: Christopher Culp Head Coach culpc@uwosh.edu (920) 424- 128 Kolf Sports Center
+
+28. Charles Sommer
+   Email: sommerc@uwosh.edu
+   Username: sommerc
+   Original line: Charles Sommer Assistant Coach sommerc@uwosh.edu (805) 588- 109 Kolf Sports Center
+
+29. Amy McQuillan
+   Email: mcquilla@uwosh.edu
+   Username: mcquilla
+   Original line: Amy McQuillan Diving Coach mcquilla@uwosh.edu (920) 424- 12 Student Rec & Wellness
+
+30. Christopher Culp
+   Email: culpc@uwosh.edu
+   Username: culpc
+   Original line: Christopher Culp Head Coach culpc@uwosh.edu (920) 424- 128 Kolf Sports Center
+
+31. Charles Sommer
+   Email: sommerc@uwosh.edu
+   Username: sommerc
+   Original line: Charles Sommer Assistant Coach sommerc@uwosh.edu (805) 588- 109 Kolf Sports Center
+
+32. Amy McQuillan
+   Email: mcquilla@uwosh.edu
+   Username: mcquilla
+   Original line: Amy McQuillan Diving Coach mcquilla@uwosh.edu (920) 424- 12 Student Rec & Wellness
+
+33. Steve Francour
+   Email: francour@uwosh.edu
+   Username: francour
+   Original line: Steve Francour Head Coach francour@uwosh.edu (920) 424- 110 Kolf Sports Center
+
+34. Justin Kinseth
+   Email: kinsethj@uwosh.edu
+   Username: kinsethj
+   Original line: Justin Kinseth Head Coach kinsethj@uwosh.edu (920) 424- 111 Kolf Sports Center
+
+35. Eamon McKenna
+   Email: mckennae@uwosh.edu
+   Username: mckennae
+   Original line: Eamon McKenna Cross Country Head Coach | Track mckennae@uwosh.edu (920) 424- 113 Kolf Sports Center
+
+36. Brittany (Haas)
+   Email: haasb@uwosh.edu
+   Username: haasb
+   Original line: Brittany (Haas) Gibson Assistant Coach haasb@uwosh.edu (920) 424- 120 Kolf Sports Center
+
+37. Jared Benson
+   Email: bensonj@uwosh.edu
+   Username: bensonj
+   Original line: Jared Benson Assistant Coach bensonj@uwosh.edu (920) 424- 125B Student Success
+
+38. Bryson Hunter
+   Email: hunterb@uwosh.edu
+   Username: hunterb
+   Original line: Bryson Hunter Assistant Coach hunterb@uwosh.edu (920) 424- 147 Kolf Sports Center
+
+39. Justin Kinseth
+   Email: kinsethj@uwosh.edu
+   Username: kinsethj
+   Original line: Justin Kinseth Head Coach kinsethj@uwosh.edu (920) 424- 111 Kolf Sports Center
+
+40. Eamon McKenna
+   Email: mckennae@uwosh.edu
+   Username: mckennae
+   Original line: Eamon McKenna Cross Country Head Coach | Track mckennae@uwosh.edu (920) 424- 113 Kolf Sports Center
+
+41. Brittany (Haas)
+   Email: haasb@uwosh.edu
+   Username: haasb
+   Original line: Brittany (Haas) Gibson Assistant Coach haasb@uwosh.edu (920) 424- 120 Kolf Sports Center
+
+42. Jared Benson
+   Email: bensonj@uwosh.edu
+   Username: bensonj
+   Original line: Jared Benson Assistant Coach bensonj@uwosh.edu (920) 424- 125B Student Success
+
+43. Bryson Hunter
+   Email: hunterb@uwosh.edu
+   Username: hunterb
+   Original line: Bryson Hunter Assistant Coach hunterb@uwosh.edu (920) 424- 147 Kolf Sports Center
+
+44. Jon Ellmann
+   Email: ellmannj@uwosh.edu
+   Username: ellmannj
+   Original line: Jon Ellmann Head Coach ellmannj@uwosh.edu (920) 424- 114 Kolf Sports Center
+
+45. Braeden Melton
+   Email: meltonb@uwosh.edu
+   Username: meltonb
+   Original line: Braeden Melton Assistant Coach meltonb@uwosh.edu (920) 424- 119 Kolf Sports Center
+
+46. Aaron Konitzer
+   Email: konitzera@uwosh.edu
+   Username: konitzera
+   Original line: Aaron Konitzer Head Coach konitzera@uwosh.edu (920) 424- 112 Kolf Sports Center
+
+47. Chad Cook
+   Email: cookc@uwosh.edu
+   Username: cookc
+   Original line: Chad Cook Head Coach cookc@uwosh.edu (920) 424- 116 Kolf Sports Center
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mandy Eggert Head Strength & Conditioning Coach eggertm@uwosh.edu (920) 424- 130 Student Rec &
+• Kevin Tomasiewicz Head Coach tomasiek@uwosh.edu (920) 424- 121 Kolf Sports Center
+• Garry Maynard Assistant Coach/Recruiting Coordinator maynardg@uwosh.edu (920) 424- 134 Kolf Sports Center
+• Matt Lewis Head Coach lewism@uwosh.edu (920) 424- 126 Kolf Sports Center
+• Max DeGeorge Assistant Coach degeorgem@uwosh.edu (920) 424- 132 Kolf Sports Center
+• Brad Fischer Head Coach fischerb@uwosh.edu (920) 424- 127 Kolf Sports Center
+• Cassie Schiltz Assistant Coach schiltzc@uwosh.edu (920) 424- 121 Kolf Sports Center
+• Eamon McKenna Cross Country Head Coach | Track mckennae@uwosh.edu (920) 424- 113 Kolf Sports Center
+• Brittany (Haas) Gibson Assistant Coach haasb@uwosh.edu (920) 424- 120 Kolf Sports Center
+• Eamon McKenna Cross Country Head Coach | Track mckennae@uwosh.edu (920) 424- 113 Kolf Sports Center
+• Brittany (Haas) Gibson Assistant Coach haasb@uwosh.edu (920) 424- 120 Kolf Sports Center
+• Peter Jennings Head Coach jenningsp@uwosh.edu (920) 424- 253 Russ Young Complex
+• Nicholas Mazurczak Assistant Outside Linebackers Coach and mazurczakn@uwosh.edu (920) 424-
+• Jack Robinson Defensive Line Coach and Director of On- robinsonj@uwosh.edu (920) 424-
+• Mason Robinson Wide Receivers Coach, Recruiting robinsonm@uwosh.edu (920) 424-
+• Duane Rogatzki Specialists Coach rogatzkd@uwosh.edu (920) 424-
+• Drew Sperry Safeties Coach sperrd@uwosh.edu (920) 424-
+• Nate Wara Tight Ends and Fullbacks Coach waran@uwosh.edu (920) 424-
+• Jeff Johnsen Head Coach johnsenje@uwosh.edu (920) 424- 117 Kolf Sports Center
+• Lauren Karnitz Head Coach marenol@uwosh.edu (920) 424- 129 Kolf Sports Center
+• Rahdea Jarvis Assistant Coach jarvir42@uwosh.edu (920) 424- 129 Kolf Sports Center
+• Eboni Jackson Assistant Coach jacksone@uwosh.edu 120 Kolf Sports Center
+• Erin Coppernoll Head Coach copperne@uwosh.edu (920) 424- 115 Kolf Sports Center
+• Greg Ruark Assistant Coach ruarkg@uwosh.edu (920) 424- 134 Kolf Sports Center
+• Scott Beyer Head Coach beyersw@uwosh.edu (920) 424- 118 Kolf Sports Center
+• Kaitlyn Krol Assistant Coach krolk15@uwosh.edu (920) 424- 149 Kolf Sports Center
+• Christopher Culp Head Coach culpc@uwosh.edu (920) 424- 128 Kolf Sports Center
+• Charles Sommer Assistant Coach sommerc@uwosh.edu (805) 588- 109 Kolf Sports Center
+• Amy McQuillan Diving Coach mcquilla@uwosh.edu (920) 424- 12 Student Rec & Wellness
+• Christopher Culp Head Coach culpc@uwosh.edu (920) 424- 128 Kolf Sports Center
+• Charles Sommer Assistant Coach sommerc@uwosh.edu (805) 588- 109 Kolf Sports Center
+• Amy McQuillan Diving Coach mcquilla@uwosh.edu (920) 424- 12 Student Rec & Wellness
+• Steve Francour Head Coach francour@uwosh.edu (920) 424- 110 Kolf Sports Center
+• Justin Kinseth Head Coach kinsethj@uwosh.edu (920) 424- 111 Kolf Sports Center
+• Eamon McKenna Cross Country Head Coach | Track mckennae@uwosh.edu (920) 424- 113 Kolf Sports Center
+• Brittany (Haas) Gibson Assistant Coach haasb@uwosh.edu (920) 424- 120 Kolf Sports Center
+• Jared Benson Assistant Coach bensonj@uwosh.edu (920) 424- 125B Student Success
+• Bryson Hunter Assistant Coach hunterb@uwosh.edu (920) 424- 147 Kolf Sports Center
+• Justin Kinseth Head Coach kinsethj@uwosh.edu (920) 424- 111 Kolf Sports Center
+• Eamon McKenna Cross Country Head Coach | Track mckennae@uwosh.edu (920) 424- 113 Kolf Sports Center
+• Brittany (Haas) Gibson Assistant Coach haasb@uwosh.edu (920) 424- 120 Kolf Sports Center
+• Jared Benson Assistant Coach bensonj@uwosh.edu (920) 424- 125B Student Success
+• Bryson Hunter Assistant Coach hunterb@uwosh.edu (920) 424- 147 Kolf Sports Center
+• Jon Ellmann Head Coach ellmannj@uwosh.edu (920) 424- 114 Kolf Sports Center
+• Braeden Melton Assistant Coach meltonb@uwosh.edu (920) 424- 119 Kolf Sports Center
+• Aaron Konitzer Head Coach konitzera@uwosh.edu (920) 424- 112 Kolf Sports Center
+• Chad Cook Head Coach cookc@uwosh.edu (920) 424- 116 Kolf Sports Center

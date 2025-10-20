@@ -1,0 +1,146 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:20
+============================================================
+
+Total coaches found: 20
+
+PARSED ENTRIES:
+----------------------------------------
+1. Holly McKamie
+   Email: holly.mckamie@macu.edu
+   Username: holly.mckamie
+   Phone: (405) 627-1994
+   Original line: Holly McKamie Head Coach holly.mckamie@macu.edu 405-627-1994
+
+2. Rachael Self
+   Email: rachael.self@my.macu.edu
+   Username: rachael.self
+   Original line: Rachael Self Graduate Assistant Coach rachael.self@my.macu.edu
+
+3. Aaron Hoxie
+   Email: aaron.hoxie@macu.edu
+   Username: aaron.hoxie
+   Phone: (757) 817-3101
+   Original line: Aaron Hoxie Head Coach aaron.hoxie@macu.edu 757-817-3101
+
+4. James Roberson
+   Email: james.roberson@macu.edu
+   Username: james.roberson
+   Phone: (405) 317-4111
+   Original line: James Roberson Associate Head Coach james.roberson@macu.edu 405-317-4111
+
+5. Edoardo Salmaso
+   Email: edoardo.salmaso@macu.edu
+   Username: edoardo.salmaso
+   Original line: Edoardo Salmaso Graduate Assistant Coach edoardo.salmaso@macu.edu
+
+6. Sebastian Rebolledo
+   Email: srebolledosanchez@my.macu.edu
+   Username: srebolledosanchez
+   Original line: Sebastian Rebolledo Graduate Assistant Coach srebolledosanchez@my.macu.edu
+
+7. Anthony Yousey
+   Email: anthony.yousey@macu.edu
+   Username: anthony.yousey
+   Phone: (405) 514-7840
+   Original line: Anthony Yousey Head Coach anthony.yousey@macu.edu 405-514-7840
+
+8. Nate Holladay
+   Email: nathaniel.holladay@macu.edu
+   Username: nathaniel.holladay
+   Original line: Nate Holladay Assistant Coach nathaniel.holladay@macu.edu
+
+9. Merritt Suenram
+   Email: merritt.suenram@macu.edu
+   Username: merritt.suenram
+   Phone: (405) 403-0122
+   Original line: Merritt Suenram Head Coach merritt.suenram@macu.edu 405-403-0122
+
+10. Stacey Brown
+   Email: stacey.brown@macu.edu
+   Username: stacey.brown
+   Phone: (405) 406-2781
+   Original line: Stacey Brown Assistant Coach stacey.brown@macu.edu 405-406-2781
+
+11. Daniel Peaslee
+   Email: daniel.peaslee@macu.edu
+   Username: daniel.peaslee
+   Phone: (405) 692-3127
+   Original line: Daniel Peaslee Head Coach daniel.peaslee@macu.edu 405-692-3127
+
+12. Josh Gamblin
+   Email: josh.gamblin@macu.edu
+   Username: josh.gamblin
+   Phone: (405) 692-3141
+   Original line: Josh Gamblin Head Coach josh.gamblin@macu.edu 405-692-3141
+
+13. Dominick Ford
+   Email: dominick.ford@macu.edu
+   Username: dominick.ford
+   Phone: (972) 302-3275
+   Original line: Dominick Ford Assistant Coach dominick.ford@macu.edu 972-302-3275
+
+14. Scott Morris
+   Email: scott.morris@macu.edu
+   Username: scott.morris
+   Phone: (580) 747-3693
+   Original line: Scott Morris Head Coach scott.morris@macu.edu 580-747-3693
+
+15. Brett Stanton
+   Email: brett.stanton@macu.edu
+   Username: brett.stanton
+   Phone: (772) 342-9727
+   Original line: Brett Stanton Head Coach brett.stanton@macu.edu 772-342-9727
+
+16. Kyle Barrett
+   Email: kyle.barrett@macu.edu
+   Username: kyle.barrett
+   Phone: (209) 765-2090
+   Original line: Kyle Barrett Associate Head Coach / Pitching Coach kyle.barrett@macu.edu 209-765-2090
+
+17. Austin Orth
+   Email: austin.orth@macu.edu
+   Username: austin.orth
+   Original line: Austin Orth Assistant Coach / Hitting Coach austin.orth@macu.edu
+
+18. Micah Larsen
+   Email: micah.larsen@my.macu.edu
+   Username: micah.larsen
+   Phone: (262) 649-3077
+   Original line: Micah Larsen Graduate Assistant Coach micah.larsen@my.macu.edu 262-649-3077
+
+19. Eli Espinosa
+   Email: elicia.espinosa@macu.edu
+   Username: elicia.espinosa
+   Phone: (720) 731-8080
+   Original line: Eli Espinosa Head Coach elicia.espinosa@macu.edu 720-731-8080
+
+20. Mariah Lopez
+   Email: mariah.lopez@macu.edu
+   Username: mariah.lopez
+   Phone: (405) 692-3285
+   Original line: Mariah Lopez Assistant Coach mariah.lopez@macu.edu 405-692-3285
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Holly McKamie Head Coach holly.mckamie@macu.edu 405-627-1994
+• Rachael Self Graduate Assistant Coach rachael.self@my.macu.edu
+• Aaron Hoxie Head Coach aaron.hoxie@macu.edu 757-817-3101
+• James Roberson Associate Head Coach james.roberson@macu.edu 405-317-4111
+• Edoardo Salmaso Graduate Assistant Coach edoardo.salmaso@macu.edu
+• Sebastian Rebolledo Graduate Assistant Coach srebolledosanchez@my.macu.edu
+• Anthony Yousey Head Coach anthony.yousey@macu.edu 405-514-7840
+• Nate Holladay Assistant Coach nathaniel.holladay@macu.edu
+• Merritt Suenram Head Coach merritt.suenram@macu.edu 405-403-0122
+• Stacey Brown Assistant Coach stacey.brown@macu.edu 405-406-2781
+• Daniel Peaslee Head Coach daniel.peaslee@macu.edu 405-692-3127
+• Josh Gamblin Head Coach josh.gamblin@macu.edu 405-692-3141
+• Dominick Ford Assistant Coach dominick.ford@macu.edu 972-302-3275
+• Scott Morris Head Coach scott.morris@macu.edu 580-747-3693
+• Brett Stanton Head Coach brett.stanton@macu.edu 772-342-9727
+• Kyle Barrett Associate Head Coach / Pitching Coach kyle.barrett@macu.edu 209-765-2090
+• Austin Orth Assistant Coach / Hitting Coach austin.orth@macu.edu
+• Micah Larsen Graduate Assistant Coach micah.larsen@my.macu.edu 262-649-3077
+• Eli Espinosa Head Coach elicia.espinosa@macu.edu 720-731-8080
+• Mariah Lopez Assistant Coach mariah.lopez@macu.edu 405-692-3285

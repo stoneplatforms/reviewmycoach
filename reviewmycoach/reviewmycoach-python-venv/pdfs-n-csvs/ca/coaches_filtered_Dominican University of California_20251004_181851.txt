@@ -1,0 +1,53 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:51
+============================================================
+
+Total coaches found: 7
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tim LaKose
+   Email: tim.lakose@dominican.edu
+   Username: tim.lakose
+   Original line: Tim LaKose Head Women's Basketball tim.lakose@dominican.edu CoachLaKose
+
+2. Josh Ault
+   Email: joshua.ault@dominican.edu
+   Username: joshua.ault
+   Original line: Josh Ault Head Golf Coach joshua.ault@dominican.edu
+
+3. Josh Morris
+   Email: josh.morris@dominican.edu
+   Username: josh.morris
+   Original line: Josh Morris Assistant Golf Coach josh.morris@dominican.edu
+
+4. Juliana Santos
+   Email: juliana.santos@dominican.edu
+   Username: juliana.santos
+   Original line: Juliana Santos Softball Head Coach juliana.santos@dominican.edu
+
+5. Bob Perales
+   Email: bob.perales@dominican.edu
+   Username: bob.perales
+   Original line: Bob Perales Assistant Softball Coach bob.perales@dominican.edu
+
+6. Tim Loesch
+   Email: tim.loesch@dominican.edu
+   Username: tim.loesch
+   Original line: Tim Loesch Head Volleyball Coach tim.loesch@dominican.edu
+
+7. Deo Boongaling
+   Email: volleyball@dominican.edu
+   Username: volleyball
+   Original line: Deo Boongaling Assistant Volleyball Coach volleyball@dominican.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tim LaKose Head Women's Basketball tim.lakose@dominican.edu CoachLaKose
+• Josh Ault Head Golf Coach joshua.ault@dominican.edu
+• Josh Morris Assistant Golf Coach josh.morris@dominican.edu
+• Juliana Santos Softball Head Coach juliana.santos@dominican.edu
+• Bob Perales Assistant Softball Coach bob.perales@dominican.edu
+• Tim Loesch Head Volleyball Coach tim.loesch@dominican.edu
+• Deo Boongaling Assistant Volleyball Coach volleyball@dominican.edu

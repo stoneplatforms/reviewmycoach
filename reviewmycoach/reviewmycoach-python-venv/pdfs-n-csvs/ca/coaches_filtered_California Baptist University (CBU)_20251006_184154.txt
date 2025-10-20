@@ -1,0 +1,317 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:56
+============================================================
+
+Total coaches found: 51
+
+PARSED ENTRIES:
+----------------------------------------
+1. Director of
+   Email: kcallister@calbaptist.edu
+   Username: kcallister
+   Original line: Director of Aquatics and Age Group Programs and Assistant Swim Coach kcallister@calbaptist.edu
+
+2. Head Baseball
+   Email: cbubaseball@calbaptist.edu
+   Username: cbubaseball
+   Original line: Head Baseball Coach cbubaseball@calbaptist.edu
+
+3. Assistant Coach
+   Email: msilberman@calbaptist.edu
+   Username: msilberman
+   Original line: Assistant Coach msilberman@calbaptist.edu
+
+4. Assistant Baseball
+   Email: jaboites@calbaptist.edu
+   Username: jaboites
+   Original line: Assistant Baseball Coach- Hitting jaboites@calbaptist.edu
+
+5. Assistant Baseball
+   Email: mmobbs@calbaptist.edu
+   Username: mmobbs
+   Original line: Assistant Baseball Coach mmobbs@calbaptist.edu
+
+6. Head Men’s
+   Email: rcroy@calbaptist.edu
+   Username: rcroy
+   Original line: Head Men’s Basketball Coach rcroy@calbaptist.edu
+
+7. Associate Head
+   Email: hasprilla@calbaptist.edu
+   Username: hasprilla
+   Original line: Associate Head Men’s Basketball Coach hasprilla@calbaptist.edu
+
+8. Assistant Men’s
+   Email: rwellman@calbaptist.edu
+   Username: rwellman
+   Original line: Assistant Men’s Basketball Coach – General Manager rwellman@calbaptist.edu
+
+9. Assistant Men’s
+   Email: rhoward@calbaptist.edu
+   Username: rhoward
+   Original line: Assistant Men’s Basketball Coach rhoward@calbaptist.edu
+
+10. Assistant Men’s
+   Email: dlippi@calbaptist.edu
+   Username: dlippi
+   Original line: Assistant Men’s Basketball Coach dlippi@calbaptist.edu
+
+11. Assistant Men’s
+   Email: scclark@calbaptist.edu
+   Username: scclark
+   Original line: Assistant Men’s Basketball Coach scclark@calbaptist.edu
+
+12. Head Women’s
+   Email: jrolson@calbaptist.edu
+   Username: jrolson
+   Original line: Head Women’s Basketball Coach jrolson@calbaptist.edu
+
+13. Associate Head
+   Email: bchambers@calbaptist.edu
+   Username: bchambers
+   Original line: Associate Head Women’s Basketball Coach bchambers@calbaptist.edu
+
+14. Assistant Women’s
+   Email: kgouveia@calbaptist.edu
+   Username: kgouveia
+   Original line: Assistant Women’s Basketball Coach kgouveia@calbaptist.edu
+
+15. Assistant Women’s
+   Email: kkeizer@calbaptist.edu
+   Username: kkeizer
+   Original line: Assistant Women’s Basketball Coach kkeizer@calbaptist.edu
+
+16. Creative Content
+   Email: gblake@calbaptist.edu
+   Username: gblake
+   Original line: Creative Content Assistant Coach gblake@calbaptist.edu
+
+17. Assistant Women’s
+   Email: jryan@calbaptist.edu
+   Username: jryan
+   Original line: Assistant Women’s Basketball Coach/Director of Basketball Operations jryan@calbaptist.edu
+
+18. Head Cheer
+   Email: oquick@calbaptist.edu
+   Username: oquick
+   Original line: Head Cheer Coach oquick@calbaptist.edu
+
+19. Assistant Cheer
+   Email: sowilliams@calbaptist.edu
+   Username: sowilliams
+   Original line: Assistant Cheer Coach sowilliams@calbaptist.edu
+
+20. Director of
+   Email: kkanemapes@calbaptist.edu
+   Username: kkanemapes
+   Original line: Director of Spirit Programs/Head Dance Coach kkanemapes@calbaptist.edu
+
+21. Head Cross-Country/Track
+   Email: sesmith@calbaptist.edu
+   Username: sesmith
+   Original line: Head Cross-Country/Track Coach sesmith@calbaptist.edu
+
+22. Assistant Men’s
+   Email: zkirk@calbaptist.edu
+   Username: zkirk
+   Original line: Assistant Men’s and Women’s Cross Country/Track Coach zkirk@calbaptist.edu
+
+23. Assistant Men’s
+   Email: scroy@calbaptist.edu
+   Username: scroy
+   Original line: Assistant Men’s & Women’s Cross Country/Track Coach scroy@calbaptist.edu
+
+24. Head Men’s
+   Email: tbrown@calbaptist.edu
+   Username: tbrown
+   Original line: Head Men’s Golf Coach tbrown@calbaptist.edu
+
+25. Head Women’s
+   Email: mmachado@calbaptist.edu
+   Username: mmachado
+   Original line: Head Women’s Golf Coach mmachado@calbaptist.edu
+
+26. Head Men’s
+   Email: msoccer@calbaptist.edu
+   Username: msoccer
+   Original line: Head Men’s Soccer Coach msoccer@calbaptist.edu
+
+27. Associate Head
+   Email: stmarshall@calbaptist.edu
+   Username: stmarshall
+   Original line: Associate Head Men’s Soccer Coach stmarshall@calbaptist.edu
+
+28. Assistant Men’s
+   Email: aapodaca@calbaptist.edu
+   Username: aapodaca
+   Original line: Assistant Men’s Soccer Coach aapodaca@calbaptist.edu
+
+29. Head Women’s
+   Email: kstclair@calbaptist.edu
+   Username: kstclair
+   Original line: Head Women’s Soccer Coach kstclair@calbaptist.edu
+
+30. Assistant Coach
+   Email: daparker@calbaptist.edu
+   Username: daparker
+   Original line: Assistant Coach daparker@calbaptist.edu
+
+31. Assistant Women’s
+   Email: tmartin@calbaptist.edu
+   Username: tmartin
+   Original line: Assistant Women’s Soccer Coach tmartin@calbaptist.edu
+
+32. Head Softball
+   Email: btelesco@calbaptist.edu
+   Username: btelesco
+   Original line: Head Softball Coach btelesco@calbaptist.edu
+
+33. Assistant Softball
+   Email: kecastillo@calbaptist.edu
+   Username: kecastillo
+   Original line: Assistant Softball Coach kecastillo@calbaptist.edu
+
+34. Assistant Softball
+   Email: harcher@calbaptist.edu
+   Username: harcher
+   Original line: Assistant Softball Coach – Pitching Coach harcher@calbaptist.edu
+
+35. Assistant Softball
+   Email: tmalauulu@calbaptist.edu
+   Username: tmalauulu
+   Original line: Assistant Softball Coach tmalauulu@calbaptist.edu
+
+36. Head STUNT
+   Email: bseagondollar@calbaptist.edu
+   Username: bseagondollar
+   Original line: Head STUNT Coach bseagondollar@calbaptist.edu
+
+37. Assistant STUNT
+   Email: erichard@calbaptist.edu
+   Username: erichard
+   Original line: Assistant STUNT Coach erichard@calbaptist.edu
+
+38. Head Swim
+   Email: jbossert@calbaptist.edu
+   Username: jbossert
+   Original line: Head Swim Coach jbossert@calbaptist.edu
+
+39. Associate Head
+   Email: lsiregar@calbaptist.edu
+   Username: lsiregar
+   Original line: Associate Head Swim Coach lsiregar@calbaptist.edu
+
+40. Head Men’s
+   Email: miking@calbaptist.edu
+   Username: miking
+   Original line: Head Men’s and Women’s Diving Coach miking@calbaptist.edu
+
+41. Director of
+   Email: kcallister@calbaptist.edu
+   Username: kcallister
+   Original line: Director of Aquatics and Age Group Programs and Assistant Swim Coach kcallister@calbaptist.edu
+
+42. Head Women’s
+   Email: tjohnson@calbaptist.edu
+   Username: tjohnson
+   Original line: Head Women’s Volleyball Coach tjohnson@calbaptist.edu
+
+43. Assistant Women’s
+   Email: jlundgren@calbaptist.edu
+   Username: jlundgren
+   Original line: Assistant Women’s Volleyball Coach jlundgren@calbaptist.edu
+
+44. Assistant Women’s
+   Email: bkelly@calbaptist.edu
+   Username: bkelly
+   Original line: Assistant Women’s Volleyball Coach bkelly@calbaptist.edu
+
+45. Assistant Women’s
+   Email: kdeboer@calbaptist.edu
+   Username: kdeboer
+   Original line: Assistant Women’s Volleyball Coach kdeboer@calbaptist.edu
+
+46. Head Men’s
+   Email: krosa@calbaptist.edu
+   Username: krosa
+   Original line: Head Men’s Water Polo Coach krosa@calbaptist.edu
+
+47. Assistant Men’s
+   Email: zlowery@calbaptist.edu
+   Username: zlowery
+   Original line: Assistant Men’s Water Polo Coach zlowery@calbaptist.edu
+
+48. Head Women’s
+   Email: jsnodgrass@calbaptist.edu
+   Username: jsnodgrass
+   Original line: Head Women’s Water Polo Coach jsnodgrass@calbaptist.edu
+
+49. Assistant Women’s
+   Email: cshortall@calbaptist.edu
+   Username: cshortall
+   Original line: Assistant Women’s Water Polo Coach cshortall@calbaptist.edu
+
+50. Head Wrestling
+   Email: dmoore@calbaptist.edu
+   Username: dmoore
+   Original line: Head Wrestling Coach dmoore@calbaptist.edu
+
+51. Assistant Wrestling
+   Email: emorrill@calbaptist.edu
+   Username: emorrill
+   Original line: Assistant Wrestling Coach emorrill@calbaptist.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Director of Aquatics and Age Group Programs and Assistant Swim Coach kcallister@calbaptist.edu
+• Head Baseball Coach cbubaseball@calbaptist.edu
+• Assistant Coach msilberman@calbaptist.edu
+• Assistant Baseball Coach- Hitting jaboites@calbaptist.edu
+• Assistant Baseball Coach mmobbs@calbaptist.edu
+• Head Men’s Basketball Coach rcroy@calbaptist.edu
+• Associate Head Men’s Basketball Coach hasprilla@calbaptist.edu
+• Assistant Men’s Basketball Coach – General Manager rwellman@calbaptist.edu
+• Assistant Men’s Basketball Coach rhoward@calbaptist.edu
+• Assistant Men’s Basketball Coach dlippi@calbaptist.edu
+• Assistant Men’s Basketball Coach scclark@calbaptist.edu
+• Head Women’s Basketball Coach jrolson@calbaptist.edu
+• Associate Head Women’s Basketball Coach bchambers@calbaptist.edu
+• Assistant Women’s Basketball Coach kgouveia@calbaptist.edu
+• Assistant Women’s Basketball Coach kkeizer@calbaptist.edu
+• Creative Content Assistant Coach gblake@calbaptist.edu
+• Assistant Women’s Basketball Coach/Director of Basketball Operations jryan@calbaptist.edu
+• Head Cheer Coach oquick@calbaptist.edu
+• Assistant Cheer Coach sowilliams@calbaptist.edu
+• Director of Spirit Programs/Head Dance Coach kkanemapes@calbaptist.edu
+• Head Cross-Country/Track Coach sesmith@calbaptist.edu
+• Assistant Men’s and Women’s Cross Country/Track Coach zkirk@calbaptist.edu
+• Assistant Men’s & Women’s Cross Country/Track Coach scroy@calbaptist.edu
+• Head Men’s Golf Coach tbrown@calbaptist.edu
+• Head Women’s Golf Coach mmachado@calbaptist.edu
+• Head Men’s Soccer Coach msoccer@calbaptist.edu
+• Associate Head Men’s Soccer Coach stmarshall@calbaptist.edu
+• Assistant Men’s Soccer Coach aapodaca@calbaptist.edu
+• Head Women’s Soccer Coach kstclair@calbaptist.edu
+• Assistant Coach daparker@calbaptist.edu
+• Assistant Women’s Soccer Coach tmartin@calbaptist.edu
+• Head Softball Coach btelesco@calbaptist.edu
+• Assistant Softball Coach kecastillo@calbaptist.edu
+• Assistant Softball Coach – Pitching Coach harcher@calbaptist.edu
+• Assistant Softball Coach tmalauulu@calbaptist.edu
+• Head STUNT Coach bseagondollar@calbaptist.edu
+• Assistant STUNT Coach erichard@calbaptist.edu
+• Head Swim Coach jbossert@calbaptist.edu
+• Associate Head Swim Coach lsiregar@calbaptist.edu
+• Head Men’s and Women’s Diving Coach miking@calbaptist.edu
+• Director of Aquatics and Age Group Programs and Assistant Swim Coach kcallister@calbaptist.edu
+• Head Women’s Volleyball Coach tjohnson@calbaptist.edu
+• Assistant Women’s Volleyball Coach jlundgren@calbaptist.edu
+• Assistant Women’s Volleyball Coach bkelly@calbaptist.edu
+• Assistant Women’s Volleyball Coach kdeboer@calbaptist.edu
+• Head Men’s Water Polo Coach krosa@calbaptist.edu
+• Assistant Men’s Water Polo Coach zlowery@calbaptist.edu
+• Head Women’s Water Polo Coach jsnodgrass@calbaptist.edu
+• Assistant Women’s Water Polo Coach cshortall@calbaptist.edu
+• Head Wrestling Coach dmoore@calbaptist.edu
+• Assistant Wrestling Coach emorrill@calbaptist.edu

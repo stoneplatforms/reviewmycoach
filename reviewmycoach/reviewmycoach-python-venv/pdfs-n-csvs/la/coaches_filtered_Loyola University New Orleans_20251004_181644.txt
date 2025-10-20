@@ -1,0 +1,226 @@
+COACH ENTRIES FOUND - 2025-10-04 18:16:44
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Robert Pitre
+   Email: rlpitre@loyno.edu
+   Username: rlpitre
+   Original line: Robert Pitre Head Coach rlpitre@loyno.edu
+
+2. Jenna Ibieta
+   Email: jeibieta@loyno.edu
+   Username: jeibieta
+   Original line: Jenna Ibieta Assistant Coach jeibieta@loyno.edu
+
+3. Jeremy Kennedy
+   Email: jjkennedy@loyno.edu
+   Username: jjkennedy
+   Phone: (504) 864-7392
+   Original line: Jeremy Kennedy Head Coach jjkennedy@loyno.edu (504) 864-7392
+
+4. Steven Bruce
+   Email: sdbruce@loyno.edu
+   Username: sdbruce
+   Phone: (504) 864-7392
+   Original line: Steven Bruce Associate Head Coach sdbruce@loyno.edu (504) 864-7392
+
+5. Courtney Cadore
+   Email: clcadore@loyno.edu
+   Username: clcadore
+   Phone: (504) 864-7366
+   Original line: Courtney Cadore Head Coach clcadore@loyno.edu (504) 864-7366
+
+6. Gavanne Davis
+   Email: gjdavis@loyno.edu
+   Username: gjdavis
+   Original line: Gavanne Davis Assistant Coach gjdavis@loyno.edu
+
+7. Lumen Vera
+   Email: lmvera@loyno.edu
+   Username: lmvera
+   Original line: Lumen Vera Head Coach lmvera@loyno.edu
+
+8. Trey Lindsey
+   Email: cllindse@loyno.edu
+   Username: cllindse
+   Phone: (504) 864-7398
+   Original line: Trey Lindsey Head Coach cllindse@loyno.edu (504) 864-7398
+
+9. Daniel Venzant
+   Email: dtvenzan@loyno.edu
+   Username: dtvenzan
+   Phone: (504) 864-7398
+   Original line: Daniel Venzant Assistant Coach dtvenzan@loyno.edu (504) 864-7398
+
+10. Geoff Masanet
+   Email: gtmasane@loyno.edu
+   Username: gtmasane
+   Phone: (504) 864-7396
+   Original line: Geoff Masanet Head Coach gtmasane@loyno.edu (504) 864-7396
+
+11. Crystal Pettigrew
+   Email: cjpettig@loyno.edu
+   Username: cjpettig
+   Phone: (601) 480-7282
+   Original line: Crystal Pettigrew Assistant Coach cjpettig@loyno.edu (601) 480-7282
+
+12. Dalton Stiegler
+   Email: dtstiegl@loyno.edu
+   Username: dtstiegl
+   Original line: Dalton Stiegler Head Coach dtstiegl@loyno.edu
+
+13. Thomas Natal
+   Email: tanatal@loyno.edu
+   Username: tanatal
+   Phone: (504) 864-7375
+   Original line: Thomas Natal Head Coach/Director of Aquatics tanatal@loyno.edu (504) 864-7375
+
+14. Matt Llewellyn
+   Email: mtllewel@loyno.edu
+   Username: mtllewel
+   Phone: (504) 864-7067
+   Original line: Matt Llewellyn Head Coach mtllewel@loyno.edu (504) 864-7067
+
+15. Geoff Masanet
+   Email: gtmasane@loyno.edu
+   Username: gtmasane
+   Phone: (504) 864-7396
+   Original line: Geoff Masanet Head Coach gtmasane@loyno.edu (504) 864-7396
+
+16. Crystal Pettigrew
+   Email: cjpettig@loyno.edu
+   Username: cjpettig
+   Phone: (601) 480-7282
+   Original line: Crystal Pettigrew Assistant Coach cjpettig@loyno.edu (601) 480-7282
+
+17. Geoff Masanet
+   Email: gtmasane@loyno.edu
+   Username: gtmasane
+   Phone: (504) 864-7396
+   Original line: Geoff Masanet Head Coach gtmasane@loyno.edu (504) 864-7396
+
+18. Crystal Pettigrew
+   Email: cjpettig@loyno.edu
+   Username: cjpettig
+   Phone: (601) 480-7282
+   Original line: Crystal Pettigrew Assistant Coach cjpettig@loyno.edu (601) 480-7282
+
+19. Kellie Kennedy
+   Email: kkennedy@loyno.edu
+   Username: kkennedy
+   Phone: (504) 864-7577
+   Original line: Kellie Kennedy Head Coach kkennedy@loyno.edu (504) 864-7577
+
+20. Presley Wascom
+   Email: pjwascom@loyno.edu
+   Username: pjwascom
+   Phone: (504) 864-7333
+   Original line: Presley Wascom Assistant Coach pjwascom@loyno.edu (504) 864-7333
+
+21. Camry Gassaway
+   Email: cjgassaw@loyno.edu
+   Username: cjgassaw
+   Original line: Camry Gassaway Assistant Coach cjgassaw@loyno.edu
+
+22. Geoff Masanet
+   Email: gtmasane@loyno.edu
+   Username: gtmasane
+   Phone: (504) 864-7396
+   Original line: Geoff Masanet Head Coach gtmasane@loyno.edu (504) 864-7396
+
+23. Crystal Pettigrew
+   Email: cjpettig@loyno.edu
+   Username: cjpettig
+   Phone: (601) 480-7282
+   Original line: Crystal Pettigrew Assistant Coach cjpettig@loyno.edu (601) 480-7282
+
+24. Dalton Stiegler
+   Email: dtstiegl@loyno.edu
+   Username: dtstiegl
+   Original line: Dalton Stiegler Head Coach dtstiegl@loyno.edu
+
+25. Matt Llewellyn
+   Email: mtllewel@loyno.edu
+   Username: mtllewel
+   Phone: (504) 864-7067
+   Original line: Matt Llewellyn Head Coach mtllewel@loyno.edu (504) 864-7067
+
+26. Geoff Masanet
+   Email: gtmasane@loyno.edu
+   Username: gtmasane
+   Phone: (504) 864-7396
+   Original line: Geoff Masanet Head Coach gtmasane@loyno.edu (504) 864-7396
+
+27. Crystal Pettigrew
+   Email: cjpettig@loyno.edu
+   Username: cjpettig
+   Phone: (601) 480-7282
+   Original line: Crystal Pettigrew Assistant Coach cjpettig@loyno.edu (601) 480-7282
+
+28. Geoff Masanet
+   Email: gtmasane@loyno.edu
+   Username: gtmasane
+   Phone: (504) 864-7396
+   Original line: Geoff Masanet Head Coach gtmasane@loyno.edu (504) 864-7396
+
+29. Crystal Pettigrew
+   Email: cjpettig@loyno.edu
+   Username: cjpettig
+   Phone: (601) 480-7282
+   Original line: Crystal Pettigrew Assistant Coach cjpettig@loyno.edu (601) 480-7282
+
+30. Thomas Natal
+   Email: tanatal@loyno.edu
+   Username: tanatal
+   Phone: (504) 864-7375
+   Original line: Thomas Natal Head Coach/Director of Aquatics tanatal@loyno.edu (504) 864-7375
+
+31. Robert Pitre
+   Email: rlpitre@loyno.edu
+   Username: rlpitre
+   Original line: Robert Pitre Head Coach rlpitre@loyno.edu
+
+32. Jenna Ibieta
+   Email: jeibieta@loyno.edu
+   Username: jeibieta
+   Original line: Jenna Ibieta Assistant Coach jeibieta@loyno.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Robert Pitre Head Coach rlpitre@loyno.edu
+• Jenna Ibieta Assistant Coach jeibieta@loyno.edu
+• Jeremy Kennedy Head Coach jjkennedy@loyno.edu (504) 864-7392
+• Steven Bruce Associate Head Coach sdbruce@loyno.edu (504) 864-7392
+• Courtney Cadore Head Coach clcadore@loyno.edu (504) 864-7366
+• Gavanne Davis Assistant Coach gjdavis@loyno.edu
+• Lumen Vera Head Coach lmvera@loyno.edu
+• Trey Lindsey Head Coach cllindse@loyno.edu (504) 864-7398
+• Daniel Venzant Assistant Coach dtvenzan@loyno.edu (504) 864-7398
+• Geoff Masanet Head Coach gtmasane@loyno.edu (504) 864-7396
+• Crystal Pettigrew Assistant Coach cjpettig@loyno.edu (601) 480-7282
+• Dalton Stiegler Head Coach dtstiegl@loyno.edu
+• Thomas Natal Head Coach/Director of Aquatics tanatal@loyno.edu (504) 864-7375
+• Matt Llewellyn Head Coach mtllewel@loyno.edu (504) 864-7067
+• Geoff Masanet Head Coach gtmasane@loyno.edu (504) 864-7396
+• Crystal Pettigrew Assistant Coach cjpettig@loyno.edu (601) 480-7282
+• Geoff Masanet Head Coach gtmasane@loyno.edu (504) 864-7396
+• Crystal Pettigrew Assistant Coach cjpettig@loyno.edu (601) 480-7282
+• Kellie Kennedy Head Coach kkennedy@loyno.edu (504) 864-7577
+• Presley Wascom Assistant Coach pjwascom@loyno.edu (504) 864-7333
+• Camry Gassaway Assistant Coach cjgassaw@loyno.edu
+• Geoff Masanet Head Coach gtmasane@loyno.edu (504) 864-7396
+• Crystal Pettigrew Assistant Coach cjpettig@loyno.edu (601) 480-7282
+• Dalton Stiegler Head Coach dtstiegl@loyno.edu
+• Matt Llewellyn Head Coach mtllewel@loyno.edu (504) 864-7067
+• Geoff Masanet Head Coach gtmasane@loyno.edu (504) 864-7396
+• Crystal Pettigrew Assistant Coach cjpettig@loyno.edu (601) 480-7282
+• Geoff Masanet Head Coach gtmasane@loyno.edu (504) 864-7396
+• Crystal Pettigrew Assistant Coach cjpettig@loyno.edu (601) 480-7282
+• Thomas Natal Head Coach/Director of Aquatics tanatal@loyno.edu (504) 864-7375
+• Robert Pitre Head Coach rlpitre@loyno.edu
+• Jenna Ibieta Assistant Coach jeibieta@loyno.edu

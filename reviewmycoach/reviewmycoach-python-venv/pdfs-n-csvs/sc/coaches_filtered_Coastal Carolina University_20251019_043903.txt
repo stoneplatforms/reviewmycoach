@@ -1,0 +1,205 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:03
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jenna Shapiro
+   Email: jlbruccu@coastal.edu
+   Username: jlbruccu
+   Original line: Jenna Shapiro Head Cheer Coach jlbruccu@coastal.edu
+
+2. Kevin Schnall
+   Email: kschnall@coastal.edu
+   Username: kschnall
+   Original line: Kevin Schnall Head Baseball Coach 843-349- kschnall@coastal.edu @KSchnall9
+
+3. Chad Oxendine
+   Email: coxendi1@coastal.edu
+   Username: coxendi1
+   Original line: Chad Oxendine Associate Head Coach / 843-234- coxendi1@coastal.edu @CoachOx18
+
+4. Matt Williams
+   Email: mwilliam@coastal.edu
+   Username: mwilliam
+   Original line: Matt Williams Assistant Baseball Coach / 843-234- mwilliam@coastal.edu @mwilliams2929
+
+5. Matt Schilling
+   Email: schill4@coastal.edu
+   Username: schill4
+   Original line: Matt Schilling Assistant Baseball Coach 843-349- schill4@coastal.edu @CCUSchill
+
+6. Justin Gray
+   Email: ccohen2@coastal.edu
+   Username: ccohen2
+   Original line: Justin Gray Head Men's Basketball Coach 843-349- ccohen2@coastal.edu
+
+7. Kevin Pederson
+   Email: cjameson@coastal.edu
+   Username: cjameson
+   Original line: Kevin Pederson Head Women's Basketball 843-349- cjameson@coastal.edu @CoachKPederson
+
+8. DeCole Shoemate
+   Email: drobertso@coastal.edu
+   Username: drobertso
+   Original line: DeCole Shoemate Robertson Associate Head Women's 843-349- drobertso@coastal.edu @The_CoachShoe
+
+9. Darius Carter
+   Email: dcarter9@coastal.edu
+   Username: dcarter9
+   Original line: Darius Carter Assistant Women’s Basketball 843-349- dcarter9@coastal.edu @CoachDCarter23
+
+10. Tatum Burstrom
+   Email: tburstrom@coastal.edu
+   Username: tburstrom
+   Original line: Tatum Burstrom Assistant Women’s Basketball 843-349- tburstrom@coastal.edu @Coach_Burstrom
+
+11. Jack Valle
+   Email: jvalle@coastal.edu
+   Username: jvalle
+   Original line: Jack Valle Volunteer Assistant Coach, jvalle@coastal.edu
+
+12. Seandell Davis
+   Email: sdavis16@coastal.edu
+   Username: sdavis16
+   Original line: Seandell Davis Assistant Track & Field Coach / 843-349- sdavis16@coastal.edu
+
+13. Josh Miller
+   Email: jmille16@coastal.edu
+   Username: jmille16
+   Original line: Josh Miller Assistant Safeties / Special jmille16@coastal.edu @coachmiller2525
+
+14. Derek Warehime
+   Email: dwarehime@coastal.edu
+   Username: dwarehime
+   Original line: Derek Warehime Offensive Line & Run Game dwarehime@coastal.edu @CoachDWarehime
+
+15. Paul Ressa
+   Email: pressa@coastal.edu
+   Username: pressa
+   Phone: (843) 349-2114
+   Original line: Paul Ressa Director of Player Personnel 843-349-2114 pressa@coastal.edu @CoachRessa
+
+16. Jacob Wilner
+   Email: jwilner@coastal.edu
+   Username: jwilner
+   Original line: Jacob Wilner Head Men's Golf Coach 843-349- jwilner@coastal.edu
+
+17. Sam Harned
+   Email: sharned@coastal.edu
+   Username: sharned
+   Original line: Sam Harned Assistant Men's Golf Coach 843-349- sharned@coastal.edu
+
+18. Katie Quinney
+   Email: kquinney@coastal.edu
+   Username: kquinney
+   Original line: Katie Quinney Head Women's Golf Coach 843-349- kquinney@coastal.edu @CoastalWGolf
+
+19. Nicole Page
+   Email: npage1@coastal.edu
+   Username: npage1
+   Original line: Nicole Page Assistant Women's Golf Coach 843-349- npage1@coastal.edu
+
+20. Rachel Shuck
+   Email: rwhitten@coastal.edu
+   Username: rwhitten
+   Original line: Rachel Shuck Whitten Head Women's Lacrosse Coach 843-349- rwhitten@coastal.edu
+
+21. Chris Fidler
+   Email: cfidler@coastal.edu
+   Username: cfidler
+   Phone: (843) 349-4114
+   Original line: Chris Fidler Interim Head Coach 843-349-4114 cfidler@coastal.edu
+
+22. Juan Fajardo-Ortiz
+   Email: jfajardo@coastal.edu
+   Username: jfajardo
+   Original line: Juan Fajardo-Ortiz Assistant Men’s Soccer Coach 843-349- jfajardo@coastal.edu
+
+23. Jo Chubb
+   Email: jchubb@coastal.edu
+   Username: jchubb
+   Original line: Jo Chubb Head Women's Soccer Coach 843-349- jchubb@coastal.edu @JoChubb10
+
+24. Nikki Brown
+   Email: nbrown11@coastal.edu
+   Username: nbrown11
+   Original line: Nikki Brown Associate Women's Soccer 843-349- nbrown11@coastal.edu CoachNikkiBrown
+
+25. Kelley Green
+   Email: softball@coastal.edu
+   Username: softball
+   Original line: Kelley Green Head Softball Coach 843-349- softball@coastal.edu @coach_kgreen
+
+26. Amanda Daneker
+   Email: aedaneker@coastal.edu
+   Username: aedaneker
+   Original line: Amanda Daneker Associate Head Softball Coach 843-349- aedaneker@coastal.edu @amanda_daneker
+
+27. Chris Powers
+   Email: cpowers@coastal.edu
+   Username: cpowers
+   Original line: Chris Powers Head Men's Tennis Coach 843-349- cpowers@coastal.edu @CoastalMTennis
+
+28. Luiz Faria
+   Email: lbfaria@coastal.edu
+   Username: lbfaria
+   Original line: Luiz Faria Assistant Men's Tennis Coach lbfaria@coastal.edu
+
+29. Catherine Hewitt
+   Email: ehewitt@coastal.edu
+   Username: ehewitt
+   Original line: Catherine Hewitt Head Women's Tennis Coach 843-349- ehewitt@coastal.edu @CoastalWTennis
+
+30. Collin Wilson
+   Email: cwilson5@coastal.edu
+   Username: cwilson5
+   Original line: Collin Wilson Head Beach Volleyball Coach 843-349- cwilson5@coastal.edu @CoachWilson25
+
+31. Matt Scott
+   Email: mscott5@coastal.edu
+   Username: mscott5
+   Original line: Matt Scott Associate Head Coach / mscott5@coastal.edu
+
+32. Aaron King
+   Email: aking2@coastal.edu
+   Username: aking2
+   Original line: Aaron King Assistant Coach aking2@coastal.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jenna Shapiro Head Cheer Coach jlbruccu@coastal.edu
+• Kevin Schnall Head Baseball Coach 843-349- kschnall@coastal.edu @KSchnall9
+• Chad Oxendine Associate Head Coach / 843-234- coxendi1@coastal.edu @CoachOx18
+• Matt Williams Assistant Baseball Coach / 843-234- mwilliam@coastal.edu @mwilliams2929
+• Matt Schilling Assistant Baseball Coach 843-349- schill4@coastal.edu @CCUSchill
+• Justin Gray Head Men's Basketball Coach 843-349- ccohen2@coastal.edu
+• Kevin Pederson Head Women's Basketball 843-349- cjameson@coastal.edu @CoachKPederson
+• DeCole Shoemate Robertson Associate Head Women's 843-349- drobertso@coastal.edu @The_CoachShoe
+• Darius Carter Assistant Women’s Basketball 843-349- dcarter9@coastal.edu @CoachDCarter23
+• Tatum Burstrom Assistant Women’s Basketball 843-349- tburstrom@coastal.edu @Coach_Burstrom
+• Jack Valle Volunteer Assistant Coach, jvalle@coastal.edu
+• Seandell Davis Assistant Track & Field Coach / 843-349- sdavis16@coastal.edu
+• Josh Miller Assistant Safeties / Special jmille16@coastal.edu @coachmiller2525
+• Derek Warehime Offensive Line & Run Game dwarehime@coastal.edu @CoachDWarehime
+• Paul Ressa Director of Player Personnel 843-349-2114 pressa@coastal.edu @CoachRessa
+• Jacob Wilner Head Men's Golf Coach 843-349- jwilner@coastal.edu
+• Sam Harned Assistant Men's Golf Coach 843-349- sharned@coastal.edu
+• Katie Quinney Head Women's Golf Coach 843-349- kquinney@coastal.edu @CoastalWGolf
+• Nicole Page Assistant Women's Golf Coach 843-349- npage1@coastal.edu
+• Rachel Shuck Whitten Head Women's Lacrosse Coach 843-349- rwhitten@coastal.edu
+• Chris Fidler Interim Head Coach 843-349-4114 cfidler@coastal.edu
+• Juan Fajardo-Ortiz Assistant Men’s Soccer Coach 843-349- jfajardo@coastal.edu
+• Jo Chubb Head Women's Soccer Coach 843-349- jchubb@coastal.edu @JoChubb10
+• Nikki Brown Associate Women's Soccer 843-349- nbrown11@coastal.edu CoachNikkiBrown
+• Kelley Green Head Softball Coach 843-349- softball@coastal.edu @coach_kgreen
+• Amanda Daneker Associate Head Softball Coach 843-349- aedaneker@coastal.edu @amanda_daneker
+• Chris Powers Head Men's Tennis Coach 843-349- cpowers@coastal.edu @CoastalMTennis
+• Luiz Faria Assistant Men's Tennis Coach lbfaria@coastal.edu
+• Catherine Hewitt Head Women's Tennis Coach 843-349- ehewitt@coastal.edu @CoastalWTennis
+• Collin Wilson Head Beach Volleyball Coach 843-349- cwilson5@coastal.edu @CoachWilson25
+• Matt Scott Associate Head Coach / mscott5@coastal.edu
+• Aaron King Assistant Coach aking2@coastal.edu

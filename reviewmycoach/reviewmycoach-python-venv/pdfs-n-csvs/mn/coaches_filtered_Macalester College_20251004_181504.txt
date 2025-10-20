@@ -1,0 +1,245 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:04
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jody Gabriel
+   Email: jgabriel@macalester.edu
+   Username: jgabriel
+   Phone: 651.696.6157
+   Original line: Jody Gabriel Head Softball Coach/Deputy Title IX Coordinator jgabriel@macalester.edu 651.696.6157
+
+2. Pam Latterell
+   Email: plattere@macalester.edu
+   Username: plattere
+   Phone: 651.696.6771
+   Original line: Pam Latterell Assistant Softball Coach/Leonard Center Assistant Manager plattere@macalester.edu 651.696.6771
+
+3. Nathan Downey
+   Email: ndowney@macalester.edu
+   Username: ndowney
+   Original line: Nathan Downey Assistant Sports Performance Coach ndowney@macalester.edu
+
+4. Zach Schuler
+   Email: zschuler@macalester.edu
+   Username: zschuler
+   Original line: Zach Schuler Assistant Sports Performance Coach zschuler@macalester.edu
+
+5. Matt Parrington
+   Email: parrington@macalester.edu
+   Username: parrington
+   Phone: 651.696.6770
+   Original line: Matt Parrington Head Baseball Coach parrington@macalester.edu 651.696.6770
+
+6. Nick Worcester
+   Email: nworcest@macalester.edu
+   Username: nworcest
+   Original line: Nick Worcester Assistant Baseball Coach - Player Development Coach nworcest@macalester.edu
+
+7. Graig Weber
+   Email: gweber1@macalester.edu
+   Username: gweber1
+   Original line: Graig Weber Assistant Baseball Coach - Pitching Coach gweber1@macalester.edu
+
+8. Jamie Eggleston
+   Email: jegglest@macalester.edu
+   Username: jegglest
+   Original line: Jamie Eggleston Assistant Baseball Coach jegglest@macalester.edu
+
+9. Rich Glesmann
+   Email: rglesman@macalester.edu
+   Username: rglesman
+   Original line: Rich Glesmann Head Men's Basketball Coach rglesman@macalester.edu
+
+10. Mamadou Diallo
+   Email: mdiallo@macalester.edu
+   Username: mdiallo
+   Original line: Mamadou Diallo Assistant Men's Basketball Coach mdiallo@macalester.edu
+
+11. Dylan Kilgour
+   Email: dkilgour@macalester.edu
+   Username: dkilgour
+   Original line: Dylan Kilgour Assistant Men's Basketball Coach dkilgour@macalester.edu
+
+12. AD Donovan
+   Email: adonovan@macalester.edu
+   Username: adonovan
+   Phone: 651.696.6477
+   Original line: AD Donovan Head Women's Basketball Coach adonovan@macalester.edu 651.696.6477
+
+13. Taylor Pilot
+   Email: tpilot@macalester.edu
+   Username: tpilot
+   Original line: Taylor Pilot Assistant Women's Basketball Coach tpilot@macalester.edu
+
+14. Dan Schofer
+   Email: dschofer@macalester.edu
+   Username: dschofer
+   Phone: 651.696.6167
+   Original line: Dan Schofer Director of Track & Field/Cross Country, Distance Coach dschofer@macalester.edu 651.696.6167
+
+15. Phil Nicolaides
+   Email: pnicola2@macalester.edu
+   Username: pnicola2
+   Phone: 651.696.6726
+   Original line: Phil Nicolaides Head Football Coach/Receivers pnicola2@macalester.edu 651.696.6726
+
+16. Matthew Reed
+   Email: mreed2@macalester.edu
+   Username: mreed2
+   Phone: 651.696.6286
+   Original line: Matthew Reed Assistant Football Coach - Offensive Coordinator/Quarterbacks & Recruiting mreed2@macalester.edu 651.696.6286
+
+17. Kyle Artinian
+   Email: kartinia@macalester.edu
+   Username: kartinia
+   Original line: Kyle Artinian Assistant Football Coach - Defensive Coordinator/Defensive Backs & Camp kartinia@macalester.edu
+
+18. Mahlon Slaughter
+   Email: mslaught@macalester.edu
+   Username: mslaught
+   Original line: Mahlon Slaughter Assistant Football Coach - Inside Linebackers/Co-Special Teams mslaught@macalester.edu
+
+19. Noah Bresson
+   Email: nbresson@macalester.edu
+   Username: nbresson
+   Original line: Noah Bresson Assistant Football Coach - Running Backs/Tight Ends/Co-Special Teams nbresson@macalester.edu
+
+20. Johnny Greene
+   Email: jgreene3@macalester.edu
+   Username: jgreene3
+   Phone: 651.696.6774
+   Original line: Johnny Greene Head Golf Coach jgreene3@macalester.edu 651.696.6774
+
+21. Gregg Olson
+   Email: golson1@macalester.edu
+   Username: golson1
+   Phone: 651.696.6165
+   Original line: Gregg Olson Head Men's Soccer Coach golson1@macalester.edu 651.696.6165
+
+22. Oscar Campbell
+   Email: ocampbel@macalester.edu
+   Username: ocampbel
+   Original line: Oscar Campbell Assistant Men's Soccer Coach ocampbel@macalester.edu
+
+23. Madeline Buckley
+   Email: mbuckley@macalester.edu
+   Username: mbuckley
+   Phone: 651.696.6671
+   Original line: Madeline Buckley Head Women's Soccer Coach mbuckley@macalester.edu 651.696.6671
+
+24. Marissa Olson-Guillou
+   Email: mguillou@macalester.edu
+   Username: mguillou
+   Original line: Marissa Olson-Guillou Assistant Women's Soccer Coach mguillou@macalester.edu
+
+25. Jody Gabriel
+   Email: jgabriel@macalester.edu
+   Username: jgabriel
+   Phone: 651.696.6157
+   Original line: Jody Gabriel Head Softball Coach/Deputy Title IX Coordinator jgabriel@macalester.edu 651.696.6157
+
+26. Pam Latterell
+   Email: plattere@macalester.edu
+   Username: plattere
+   Phone: 651.696.6771
+   Original line: Pam Latterell Assistant Softball Coach/Leonard Center Assistant Manager plattere@macalester.edu 651.696.6771
+
+27. Britt Stewart
+   Email: bstewart@macalester.edu
+   Username: bstewart
+   Original line: Britt Stewart Assistant Softball Coach bstewart@macalester.edu
+
+28. Kyllian Griffin
+   Email: kgriffin@macalester.edu
+   Username: kgriffin
+   Phone: 651.696.6125
+   Original line: Kyllian Griffin Head Swimming & Diving Coach kgriffin@macalester.edu 651.696.6125
+
+29. Wilson Josephson
+   Email: wjosephs@macalester.edu
+   Username: wjosephs
+   Original line: Wilson Josephson Assistant Swimming Coach wjosephs@macalester.edu
+
+30. Chase Johnson
+   Email: cjohns23@macalester.edu
+   Username: cjohns23
+   Original line: Chase Johnson Head Men's & Women's Tennis Coach cjohns23@macalester.edu
+
+31. Dan Schofer
+   Email: dschofer@macalester.edu
+   Username: dschofer
+   Phone: 651.696.6167
+   Original line: Dan Schofer Director of Track & Field/Cross Country, Distance Coach dschofer@macalester.edu 651.696.6167
+
+32. Rachel Leonard
+   Email: rleonar1@macalester.edu
+   Username: rleonar1
+   Phone: 651.696.6024
+   Original line: Rachel Leonard Head Track & Field Coach rleonar1@macalester.edu 651.696.6024
+
+33. Matthew Boone
+   Email: mboone1@macalester.edu
+   Username: mboone1
+   Original line: Matthew Boone Assistant Track & Field Coach mboone1@macalester.edu
+
+34. Mary Johnston
+   Email: mjohnsto@macalester.edu
+   Username: mjohnsto
+   Phone: 651.696.6658
+   Original line: Mary Johnston Head Volleyball Coach mjohnsto@macalester.edu 651.696.6658
+
+35. Delilah Wolf
+   Email: dwolf@macalester.edu
+   Username: dwolf
+   Phone: 651.696.6066
+   Original line: Delilah Wolf Assistant Volleyball Coach dwolf@macalester.edu 651.696.6066
+
+36. Scott Reed
+   Email: sreed2@macalester.edu
+   Username: sreed2
+   Phone: 651.696.6471
+   Original line: Scott Reed Head Women's Water Polo Coach sreed2@macalester.edu 651.696.6471
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jody Gabriel Head Softball Coach/Deputy Title IX Coordinator jgabriel@macalester.edu 651.696.6157
+• Pam Latterell Assistant Softball Coach/Leonard Center Assistant Manager plattere@macalester.edu 651.696.6771
+• Nathan Downey Assistant Sports Performance Coach ndowney@macalester.edu
+• Zach Schuler Assistant Sports Performance Coach zschuler@macalester.edu
+• Matt Parrington Head Baseball Coach parrington@macalester.edu 651.696.6770
+• Nick Worcester Assistant Baseball Coach - Player Development Coach nworcest@macalester.edu
+• Graig Weber Assistant Baseball Coach - Pitching Coach gweber1@macalester.edu
+• Jamie Eggleston Assistant Baseball Coach jegglest@macalester.edu
+• Rich Glesmann Head Men's Basketball Coach rglesman@macalester.edu
+• Mamadou Diallo Assistant Men's Basketball Coach mdiallo@macalester.edu
+• Dylan Kilgour Assistant Men's Basketball Coach dkilgour@macalester.edu
+• AD Donovan Head Women's Basketball Coach adonovan@macalester.edu 651.696.6477
+• Taylor Pilot Assistant Women's Basketball Coach tpilot@macalester.edu
+• Dan Schofer Director of Track & Field/Cross Country, Distance Coach dschofer@macalester.edu 651.696.6167
+• Phil Nicolaides Head Football Coach/Receivers pnicola2@macalester.edu 651.696.6726
+• Matthew Reed Assistant Football Coach - Offensive Coordinator/Quarterbacks & Recruiting mreed2@macalester.edu 651.696.6286
+• Kyle Artinian Assistant Football Coach - Defensive Coordinator/Defensive Backs & Camp kartinia@macalester.edu
+• Mahlon Slaughter Assistant Football Coach - Inside Linebackers/Co-Special Teams mslaught@macalester.edu
+• Noah Bresson Assistant Football Coach - Running Backs/Tight Ends/Co-Special Teams nbresson@macalester.edu
+• Johnny Greene Head Golf Coach jgreene3@macalester.edu 651.696.6774
+• Gregg Olson Head Men's Soccer Coach golson1@macalester.edu 651.696.6165
+• Oscar Campbell Assistant Men's Soccer Coach ocampbel@macalester.edu
+• Madeline Buckley Head Women's Soccer Coach mbuckley@macalester.edu 651.696.6671
+• Marissa Olson-Guillou Assistant Women's Soccer Coach mguillou@macalester.edu
+• Jody Gabriel Head Softball Coach/Deputy Title IX Coordinator jgabriel@macalester.edu 651.696.6157
+• Pam Latterell Assistant Softball Coach/Leonard Center Assistant Manager plattere@macalester.edu 651.696.6771
+• Britt Stewart Assistant Softball Coach bstewart@macalester.edu
+• Kyllian Griffin Head Swimming & Diving Coach kgriffin@macalester.edu 651.696.6125
+• Wilson Josephson Assistant Swimming Coach wjosephs@macalester.edu
+• Chase Johnson Head Men's & Women's Tennis Coach cjohns23@macalester.edu
+• Dan Schofer Director of Track & Field/Cross Country, Distance Coach dschofer@macalester.edu 651.696.6167
+• Rachel Leonard Head Track & Field Coach rleonar1@macalester.edu 651.696.6024
+• Matthew Boone Assistant Track & Field Coach mboone1@macalester.edu
+• Mary Johnston Head Volleyball Coach mjohnsto@macalester.edu 651.696.6658
+• Delilah Wolf Assistant Volleyball Coach dwolf@macalester.edu 651.696.6066
+• Scott Reed Head Women's Water Polo Coach sreed2@macalester.edu 651.696.6471

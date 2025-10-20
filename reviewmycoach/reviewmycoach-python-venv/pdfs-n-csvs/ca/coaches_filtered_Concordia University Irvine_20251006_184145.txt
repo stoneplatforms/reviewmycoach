@@ -1,0 +1,161 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:45
+============================================================
+
+Total coaches found: 25
+
+PARSED ENTRIES:
+----------------------------------------
+1. Danny Baladi
+   Email: danny.baladi@cui.edu
+   Username: danny.baladi
+   Original line: Danny Baladi Head Strength & Conditioning Coach danny.baladi@cui.edu 949-214- Azusa Pacific
+
+2. Joe Turgeon
+   Email: joe.turgeon@cui.edu
+   Username: joe.turgeon
+   Original line: Joe Turgeon Head Coach joe.turgeon@cui.edu 949-214- Cal State Fullerton
+
+3. Matt Fahey
+   Email: matthew.fahey@cui.edu
+   Username: matthew.fahey
+   Original line: Matt Fahey Assistant Coach/Recruiting matthew.fahey@cui.edu 949-214- Cal State Fullerton
+
+4. Ken Ammann
+   Email: ken.ammann@cui.edu
+   Username: ken.ammann
+   Original line: Ken Ammann Head Coach ken.ammann@cui.edu 949-214- Stanford
+
+5. Christine Collins-Kiernan
+   Email: christine.collins@cui.edu
+   Username: christine.collins
+   Original line: Christine Collins-Kiernan Head Coach christine.collins@cui.edu 949-214- Cal State Fullerton
+
+6. Jenny Griffith
+   Email: jennifer.griffith@cui.edu
+   Username: jennifer.griffith
+   Original line: Jenny Griffith Head Coach jennifer.griffith@cui.edu 949-214- UCLA
+
+7. Elaini Kollias
+   Email: elaini.kollias@cui.edu
+   Username: elaini.kollias
+   Original line: Elaini Kollias Assistant Coach elaini.kollias@cui.edu CUI
+
+8. Keegan Bloomfield
+   Email: keegan.bloomfield@cui.edu
+   Username: keegan.bloomfield
+   Original line: Keegan Bloomfield Head Coach keegan.bloomfield@cui.edu 949-214- Concordia
+
+9. Jesse Foss
+   Email: jesse.foss@cui.edu
+   Username: jesse.foss
+   Original line: Jesse Foss Head Coach jesse.foss@cui.edu Stony Brook
+
+10. Dylan Miles
+   Email: dylan.miles@cui.edu
+   Username: dylan.miles
+   Original line: Dylan Miles Head Coach dylan.miles@cui.edu CUI
+
+11. Chris Gould
+   Email: chris.gould@cui.edu
+   Username: chris.gould
+   Original line: Chris Gould Head Coach chris.gould@cui.edu 949-214- CUI
+
+12. Miguel Mendoza
+   Email: Miguel.Mendoza1@cui.edu
+   Username: Miguel.Mendoza1
+   Original line: Miguel Mendoza Assistant Coach Miguel.Mendoza1@cui.edu CUI
+
+13. Rose Imbriano
+   Email: rose.imbriano@cui.edu
+   Username: rose.imbriano
+   Original line: Rose Imbriano Associate Head Coach rose.imbriano@cui.edu 949-214- Oregon
+
+14. Karli Shutt
+   Email: karli.shutt@eagles.cui.edu
+   Username: karli.shutt
+   Original line: Karli Shutt STUNT Head Coach karli.shutt@eagles.cui.edu 949-214- Long Beach State
+
+15. Janae Magpale
+   Email: janae.magpale@cui.edu
+   Username: janae.magpale
+   Original line: Janae Magpale Assistant Coach janae.magpale@cui.edu 949-214- CBU
+
+16. Keegan Bloomfield
+   Email: keegan.bloomfield@cui.edu
+   Username: keegan.bloomfield
+   Original line: Keegan Bloomfield Head Coach keegan.bloomfield@cui.edu 949-214- Concordia
+
+17. John Brunk
+   Email: john.brunk@cui.edu
+   Username: john.brunk
+   Original line: John Brunk Assistant Coach - Sprints, Jumps, john.brunk@cui.edu 949-214- Chico State
+
+18. Matthew-Jonathan Seawright
+   Email: matthew-jonathan.seawright@cui.edu
+   Username: matthew-jonathan.seawright
+   Original line: Matthew-Jonathan Seawright Assistant Coach - Throws matthew-jonathan.seawright@cui.edu 949-214- UC Irvine
+
+19. Jon Girten
+   Email: jonathan.girten@cui.edu
+   Username: jonathan.girten
+   Original line: Jon Girten Head Coach jonathan.girten@cui.edu Palomar College
+
+20. Eric Vallely
+   Email: eric.vallely@eagles.cui.edu
+   Username: eric.vallely
+   Original line: Eric Vallely Assistant Coach eric.vallely@eagles.cui.edu UCLA
+
+21. Eryn Leja-Martin
+   Email: eryn.leja@cui.edu
+   Username: eryn.leja
+   Original line: Eryn Leja-Martin Head Coach eryn.leja@cui.edu Chapman
+
+22. Alex Leja
+   Email: alex.leja@cui.edu
+   Username: alex.leja
+   Original line: Alex Leja Assistant Coach / Recruiting alex.leja@cui.edu Vanguard
+
+23. Payton Spoja
+   Email: payton.spoja@cui.edu
+   Username: payton.spoja
+   Original line: Payton Spoja Assistant Coach payton.spoja@cui.edu USK
+
+24. Casey Greenawalt
+   Email: casey.greenawalt@cui.edu
+   Username: casey.greenawalt
+   Original line: Casey Greenawalt Head Coach casey.greenawalt@cui.edu 949-214- Riverside CC
+
+25. Justin Johnson
+   Email: Justin.johnson2@cui.edu
+   Username: Justin.johnson2
+   Original line: Justin Johnson Head Coach Justin.johnson2@cui.edu 949-214- UCLA
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Danny Baladi Head Strength & Conditioning Coach danny.baladi@cui.edu 949-214- Azusa Pacific
+• Joe Turgeon Head Coach joe.turgeon@cui.edu 949-214- Cal State Fullerton
+• Matt Fahey Assistant Coach/Recruiting matthew.fahey@cui.edu 949-214- Cal State Fullerton
+• Ken Ammann Head Coach ken.ammann@cui.edu 949-214- Stanford
+• Christine Collins-Kiernan Head Coach christine.collins@cui.edu 949-214- Cal State Fullerton
+• Jenny Griffith Head Coach jennifer.griffith@cui.edu 949-214- UCLA
+• Elaini Kollias Assistant Coach elaini.kollias@cui.edu CUI
+• Keegan Bloomfield Head Coach keegan.bloomfield@cui.edu 949-214- Concordia
+• Jesse Foss Head Coach jesse.foss@cui.edu Stony Brook
+• Dylan Miles Head Coach dylan.miles@cui.edu CUI
+• Chris Gould Head Coach chris.gould@cui.edu 949-214- CUI
+• Miguel Mendoza Assistant Coach Miguel.Mendoza1@cui.edu CUI
+• Rose Imbriano Associate Head Coach rose.imbriano@cui.edu 949-214- Oregon
+• Karli Shutt STUNT Head Coach karli.shutt@eagles.cui.edu 949-214- Long Beach State
+• Janae Magpale Assistant Coach janae.magpale@cui.edu 949-214- CBU
+• Keegan Bloomfield Head Coach keegan.bloomfield@cui.edu 949-214- Concordia
+• John Brunk Assistant Coach - Sprints, Jumps, john.brunk@cui.edu 949-214- Chico State
+• Matthew-Jonathan Seawright Assistant Coach - Throws matthew-jonathan.seawright@cui.edu 949-214- UC Irvine
+• Jon Girten Head Coach jonathan.girten@cui.edu Palomar College
+• Eric Vallely Assistant Coach eric.vallely@eagles.cui.edu UCLA
+• Eryn Leja-Martin Head Coach eryn.leja@cui.edu Chapman
+• Alex Leja Assistant Coach / Recruiting alex.leja@cui.edu Vanguard
+• Payton Spoja Assistant Coach payton.spoja@cui.edu USK
+• Casey Greenawalt Head Coach casey.greenawalt@cui.edu 949-214- Riverside CC
+• Justin Johnson Head Coach Justin.johnson2@cui.edu 949-214- UCLA

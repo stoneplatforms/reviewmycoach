@@ -1,0 +1,257 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:37
+============================================================
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Britt Johnson
+   Email: johnsondb1@appstate.edu
+   Username: johnsondb1
+   Original line: Britt Johnson Assistant Coach 828-262- johnsondb1@appstate.edu
+
+2. Ross Steedley
+   Email: steedleymr@appstate.edu
+   Username: steedleymr
+   Original line: Ross Steedley Assistant Coach steedleymr@appstate.edu
+
+3. Bob Szorc
+   Email: szorcrs@appstate.edu
+   Username: szorcrs
+   Original line: Bob Szorc Associate Head Coach szorcrs@appstate.edu
+
+4. Tanner Smith
+   Email: smithtj8@appstate.edu
+   Username: smithtj8
+   Original line: Tanner Smith Associate Head Coach smithtj8@appstate.edu
+
+5. Tim Johnson
+   Email: johnsonte5@appstate.edu
+   Username: johnsonte5
+   Original line: Tim Johnson Assistant Coach johnsonte5@appstate.edu
+
+6. Bradley Fey
+   Email: feybs@appstate.edu
+   Username: feybs
+   Original line: Bradley Fey Assistant Coach feybs@appstate.edu
+
+7. Raheem Martin
+   Email: martinra2@appstate.edu
+   Username: martinra2
+   Original line: Raheem Martin Assistant Coach martinra2@appstate.edu
+
+8. Alaura Sharp
+   Email: sharpal2@appstate.edu
+   Username: sharpal2
+   Original line: Alaura Sharp Head Coach sharpal2@appstate.edu
+
+9. Rabun Wright
+   Email: wrightr3@appstate.edu
+   Username: wrightr3
+   Original line: Rabun Wright Assistant Coach wrightr3@appstate.edu
+
+10. Brooklyn Taylor
+   Email: taylorbr2@appstate.edu
+   Username: taylorbr2
+   Original line: Brooklyn Taylor Assistant Coach & Recruiting Coordinator taylorbr2@appstate.edu
+
+11. Joel Harrison
+   Email: harrisonjg@appstate.edu
+   Username: harrisonjg
+   Original line: Joel Harrison Assistant Coach harrisonjg@appstate.edu
+
+12. LaRomeo McKee
+   Email: mckeeli@appstate.edu
+   Username: mckeeli
+   Original line: LaRomeo McKee Assistant Coach & Director of Basketball Operations mckeeli@appstate.edu
+
+13. Morgan Delgado
+   Email: delgadomr@appstate.edu
+   Username: delgadomr
+   Original line: Morgan Delgado Head Coach delgadomr@appstate.edu
+
+14. Emily Dinsmore
+   Email: dinsmoreec@appstate.edu
+   Username: dinsmoreec
+   Original line: Emily Dinsmore Head Coach 828-457- dinsmoreec@appstate.edu
+
+15. Azure Lokos
+   Email: fernsleras@appstate.edu
+   Username: fernsleras
+   Original line: Azure Lokos Associate Head Coach 828-963- fernsleras@appstate.edu
+
+16. Pima Iturraspe
+   Email: pereziturraspem@appstate.edu
+   Username: pereziturraspem
+   Original line: Pima Iturraspe Assistant Coach pereziturraspem@appstate.edu
+
+17. Devin Coleman
+   Email: colemandl3@appstate.edu
+   Username: colemandl3
+   Original line: Devin Coleman Assistant Secondary Coach colemandl3@appstate.edu
+
+18. Al DeGraffenreid
+   Email: degraffenreidae@appstate.edu
+   Username: degraffenreidae
+   Original line: Al DeGraffenreid Assistant Running Backs Coach degraffenreidae@appstate.edu
+
+19. Teddy Richardson
+   Email: richardsontl3@appstate.edu
+   Username: richardsontl3
+   Original line: Teddy Richardson III Assistant Wide Receivers Coach/Offensive Recruiting Coordinator richardsontl3@appstate.edu
+
+20. John Michael
+   Email: colejm@appstate.edu
+   Username: colejm
+   Original line: John Michael Cole Head Coach colejm@appstate.edu
+
+21. Chan Metts
+   Email: mettscm@appstate.edu
+   Username: mettscm
+   Original line: Chan Metts Head Coach mettscm@appstate.edu
+
+22. Aimee Haywood
+   Email: soccer@appstate.edu
+   Username: soccer
+   Original line: Aimee Haywood Head Coach soccer@appstate.edu
+
+23. Mark Catterall
+   Email: catterallma@appstate.edu
+   Username: catterallma
+   Original line: Mark Catterall Associate Head Coach catterallma@appstate.edu
+
+24. Mikayla Krzeczowski
+   Email: krzeczowskim@appstate.edu
+   Username: krzeczowskim
+   Original line: Mikayla Krzeczowski Assistant Coach krzeczowskim@appstate.edu
+
+25. Whitney Jones
+   Email: jonesw1@appstate.edu
+   Username: jonesw1
+   Original line: Whitney Jones Head Coach jonesw1@appstate.edu
+
+26. Alex Ibarra
+   Email: ibarraa2@appstate.edu
+   Username: ibarraa2
+   Original line: Alex Ibarra Assistant Coach ibarraa2@appstate.edu
+
+27. Matt Alberghini
+   Email: alberghinima@appstate.edu
+   Username: alberghinima
+   Original line: Matt Alberghini Assistant Coach alberghinima@appstate.edu
+
+28. Courtney Ogle
+   Email: oglece@appstate.edu
+   Username: oglece
+   Original line: Courtney Ogle Assistant Coach oglece@appstate.edu
+
+29. Hannah Fetters
+   Email: fettershe@appstate.edu
+   Username: fettershe
+   Original line: Hannah Fetters Head Coach 813-838- fettershe@appstate.edu
+
+30. Cedric Rupa
+   Email: rupac@appstate.edu
+   Username: rupac
+   Original line: Cedric Rupa Associate Head Coach 580-771- rupac@appstate.edu
+
+31. Whitney Smyre
+   Email: smyrewa@appstate.edu
+   Username: smyrewa
+   Original line: Whitney Smyre Throws Coach smyrewa@appstate.edu
+
+32. Brad Herbster
+   Email: herbsterbj1@appstate.edu
+   Username: herbsterbj1
+   Original line: Brad Herbster Men's Distance Coach herbsterbj1@appstate.edu
+
+33. Annie Richards
+   Email: richardsac@appstate.edu
+   Username: richardsac
+   Original line: Annie Richards Women's Distance Coach richardsac@appstate.edu
+
+34. Chad Sutton
+   Email: suttoncg@appstate.edu
+   Username: suttoncg
+   Original line: Chad Sutton Head Coach suttoncg@appstate.edu
+
+35. Ed Tolentino
+   Email: tolentinoej@appstate.edu
+   Username: tolentinoej
+   Original line: Ed Tolentino Associate Head Coach tolentinoej@appstate.edu
+
+36. Brooke Phillips
+   Email: phillipsb2@appstate.edu
+   Username: phillipsb2
+   Original line: Brooke Phillips Assistant Coach & Recruiting Coordinator phillipsb2@appstate.edu
+
+37. Valerie Sutton
+   Email: suttonvn@appstate.edu
+   Username: suttonvn
+   Original line: Valerie Sutton Assistant Coach & Director of Volleyball Operations suttonvn@appstate.edu
+
+38. JohnMark Bentley
+   Email: bentleyjmo@appstate.edu
+   Username: bentleyjmo
+   Original line: JohnMark Bentley Head Coach bentleyjmo@appstate.edu
+
+39. Randall Diabe
+   Email: diaberd@appstate.edu
+   Username: diaberd
+   Original line: Randall Diabe Head Assistant Coach diaberd@appstate.edu
+
+40. Paul Bianchi
+   Email: bianchipj@appstate.edu
+   Username: bianchipj
+   Original line: Paul Bianchi Assistant Coach bianchipj@appstate.edu
+
+41. Hunter Shaut
+   Email: shauthl@appstate.edu
+   Username: shauthl
+   Original line: Hunter Shaut Assistant Coach shauthl@appstate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Britt Johnson Assistant Coach 828-262- johnsondb1@appstate.edu
+• Ross Steedley Assistant Coach steedleymr@appstate.edu
+• Bob Szorc Associate Head Coach szorcrs@appstate.edu
+• Tanner Smith Associate Head Coach smithtj8@appstate.edu
+• Tim Johnson Assistant Coach johnsonte5@appstate.edu
+• Bradley Fey Assistant Coach feybs@appstate.edu
+• Raheem Martin Assistant Coach martinra2@appstate.edu
+• Alaura Sharp Head Coach sharpal2@appstate.edu
+• Rabun Wright Assistant Coach wrightr3@appstate.edu
+• Brooklyn Taylor Assistant Coach & Recruiting Coordinator taylorbr2@appstate.edu
+• Joel Harrison Assistant Coach harrisonjg@appstate.edu
+• LaRomeo McKee Assistant Coach & Director of Basketball Operations mckeeli@appstate.edu
+• Morgan Delgado Head Coach delgadomr@appstate.edu
+• Emily Dinsmore Head Coach 828-457- dinsmoreec@appstate.edu
+• Azure Lokos Associate Head Coach 828-963- fernsleras@appstate.edu
+• Pima Iturraspe Assistant Coach pereziturraspem@appstate.edu
+• Devin Coleman Assistant Secondary Coach colemandl3@appstate.edu
+• Al DeGraffenreid Assistant Running Backs Coach degraffenreidae@appstate.edu
+• Teddy Richardson III Assistant Wide Receivers Coach/Offensive Recruiting Coordinator richardsontl3@appstate.edu
+• John Michael Cole Head Coach colejm@appstate.edu
+• Chan Metts Head Coach mettscm@appstate.edu
+• Aimee Haywood Head Coach soccer@appstate.edu
+• Mark Catterall Associate Head Coach catterallma@appstate.edu
+• Mikayla Krzeczowski Assistant Coach krzeczowskim@appstate.edu
+• Whitney Jones Head Coach jonesw1@appstate.edu
+• Alex Ibarra Assistant Coach ibarraa2@appstate.edu
+• Matt Alberghini Assistant Coach alberghinima@appstate.edu
+• Courtney Ogle Assistant Coach oglece@appstate.edu
+• Hannah Fetters Head Coach 813-838- fettershe@appstate.edu
+• Cedric Rupa Associate Head Coach 580-771- rupac@appstate.edu
+• Whitney Smyre Throws Coach smyrewa@appstate.edu
+• Brad Herbster Men's Distance Coach herbsterbj1@appstate.edu
+• Annie Richards Women's Distance Coach richardsac@appstate.edu
+• Chad Sutton Head Coach suttoncg@appstate.edu
+• Ed Tolentino Associate Head Coach tolentinoej@appstate.edu
+• Brooke Phillips Assistant Coach & Recruiting Coordinator phillipsb2@appstate.edu
+• Valerie Sutton Assistant Coach & Director of Volleyball Operations suttonvn@appstate.edu
+• JohnMark Bentley Head Coach bentleyjmo@appstate.edu
+• Randall Diabe Head Assistant Coach diaberd@appstate.edu
+• Paul Bianchi Assistant Coach bianchipj@appstate.edu
+• Hunter Shaut Assistant Coach shauthl@appstate.edu

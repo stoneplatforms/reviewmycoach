@@ -1,0 +1,317 @@
+COACH ENTRIES FOUND - 2025-10-04 18:10:35
+============================================================
+
+Total coaches found: 48
+
+PARSED ENTRIES:
+----------------------------------------
+1. Stan Stolte
+   Email: stan.stolte@unlv.edu
+   Username: stan.stolte
+   Phone: (702) 895-3402
+   Original line: Stan Stolte Head Coach 895-3402 stan.stolte@unlv.edu
+
+2. Cory Vanderhook
+   Email: cory.vanderhook@unlv.edu
+   Username: cory.vanderhook
+   Original line: Cory Vanderhook Assistant Coach/Recruiting Coordinator cory.vanderhook@unlv.edu
+
+3. Jeff Opalewski
+   Email: jeffrey.opalewski@unlv.edu
+   Username: jeffrey.opalewski
+   Original line: Jeff Opalewski Assistant Coach/Pitching Coach jeffrey.opalewski@unlv.edu
+
+4. Nick Rush
+   Email: nicholas.rush@unlv.edu
+   Username: nicholas.rush
+   Original line: Nick Rush Asst. Coach / Director of Operations nicholas.rush@unlv.edu
+
+5. Josh Pastner
+   Email: joshua.pastner@unlv.edu
+   Username: joshua.pastner
+   Original line: Josh Pastner Head Coach joshua.pastner@unlv.edu
+
+6. Jozee Dean
+   Email: josephine.decunzo@unlv.edu
+   Username: josephine.decunzo
+   Phone: (702) 895-3295
+   Original line: Jozee Dean Executive Assistant to the Head Coach 895-3295 josephine.decunzo@unlv.edu
+
+7. Scott Garson
+   Email: scott.garson@unlv.edu
+   Username: scott.garson
+   Original line: Scott Garson Associate Head Coach scott.garson@unlv.edu
+
+8. Anthony Wilkins
+   Email: anthony.wilkins@unlv.edu
+   Username: anthony.wilkins
+   Original line: Anthony Wilkins Assistant Coach anthony.wilkins@unlv.edu
+
+9. Justin Hawkins
+   Email: justin.hawkinsyoung@unlv.edu
+   Username: justin.hawkinsyoung
+   Original line: Justin Hawkins Assistant Coach justin.hawkinsyoung@unlv.edu
+
+10. Jon Wall
+   Email: jonathan.wall@unlv.edu
+   Username: jonathan.wall
+   Original line: Jon Wall Head Strength & Conditioning Coach for jonathan.wall@unlv.edu
+
+11. Roman Owen
+   Email: roman.owen@unlv.edu
+   Username: roman.owen
+   Phone: (702) 895-1174
+   Original line: Roman Owen Associate Head Coach 895-1174 roman.owen@unlv.edu
+
+12. Mia Bell
+   Email: mia.bell@unlv.edu
+   Username: mia.bell
+   Phone: (702) 895-4138
+   Original line: Mia Bell Assistant Coach 895-4138 mia.bell@unlv.edu
+
+13. Joslyn Tinkle
+   Email: Joslyn.tinkle@unlv.edu
+   Username: Joslyn.tinkle
+   Original line: Joslyn Tinkle Assistant Coach Joslyn.tinkle@unlv.edu
+
+14. Del Alexander
+   Email: delvaughn.alexander@unlv.edu
+   Username: delvaughn.alexander
+   Phone: (702) 895-3538
+   Original line: Del Alexander Wide Receivers Coach 895-3538 delvaughn.alexander@unlv.edu
+
+15. Jean-Paul Hebert
+   Email: jean-paul.hebert@unlv.edu
+   Username: jean-paul.hebert
+   Phone: (702) 895-3714
+   Original line: Jean-Paul Hebert Head Coach 895-3714 jean-paul.hebert@unlv.edu
+
+16. Spencer Dunaway
+   Email: spencer.dunaway@unlv.edu
+   Username: spencer.dunaway
+   Phone: (702) 895-3714
+   Original line: Spencer Dunaway Assistant Coach 895-3714 spencer.dunaway@unlv.edu
+
+17. Amy Bush-Herzer
+   Email: amy.bush@unlv.edu
+   Username: amy.bush
+   Phone: (702) 895-2091
+   Original line: Amy Bush-Herzer Head Coach 895-2091 amy.bush@unlv.edu
+
+18. Luka Mudde
+   Email: luka.vandermerwe@unlv.edu
+   Username: luka.vandermerwe
+   Original line: Luka Mudde Assistant Coach luka.vandermerwe@unlv.edu
+
+19. BJ Craig
+   Email: bj.craig@unlv.edu
+   Username: bj.craig
+   Phone: (702) 895-1033
+   Original line: BJ Craig Head Coach 895-1033 bj.craig@unlv.edu
+
+20. David Casper
+   Email: david.casper@unlv.edu
+   Username: david.casper
+   Original line: David Casper Assistant Coach david.casper@unlv.edu
+
+21. Micah Craig
+   Email: micah.craig@unlv.edu
+   Username: micah.craig
+   Original line: Micah Craig Assistant Coach micah.craig@unlv.edu
+
+22. Jenny Williams
+   Email: jennifer.williams@unlv.edu
+   Username: jennifer.williams
+   Original line: Jenny Williams Head Coach jennifer.williams@unlv.edu
+
+23. Jenna Olson
+   Email: jenna.olson@unlv.edu
+   Username: jenna.olson
+   Original line: Jenna Olson Associate Head Coach jenna.olson@unlv.edu
+
+24. Casey Collins
+   Email: casey.collins@unlv.edu
+   Username: casey.collins
+   Original line: Casey Collins Assistant Coach casey.collins@unlv.edu
+
+25. Kristie Fox
+   Email: kristie.Jarvis@unlv.edu
+   Username: kristie.Jarvis
+   Phone: (702) 895-3916
+   Original line: Kristie Fox Head Coach 895-3916 kristie.Jarvis@unlv.edu
+
+26. Andy Jarvis
+   Email: andrew.jarvis@unlv.edu
+   Username: andrew.jarvis
+   Phone: (702) 895-4773
+   Original line: Andy Jarvis Associate Head Coach 895-4773 andrew.jarvis@unlv.edu
+
+27. Anthony Aresco
+   Email: anthony.aresco@unlv.edu
+   Username: anthony.aresco
+   Phone: (702) 895-4018
+   Original line: Anthony Aresco Assistant Coach/Pitching Coach 895-4018 anthony.aresco@unlv.edu
+
+28. Maddie Schmidt
+   Email: madeline.schmidt@unlv.edu
+   Username: madeline.schmidt
+   Original line: Maddie Schmidt Assistant Coach madeline.schmidt@unlv.edu
+
+29. Marca Decastroverde
+   Email: marca.decastroverde@unlv.edu
+   Username: marca.decastroverde
+   Original line: Marca Decastroverde Head Coach, Rebel Girls & Company marca.decastroverde@unlv.edu
+
+30. Brandi Slade
+   Email: brandi-lynn.slade@unlv.edu
+   Username: brandi-lynn.slade
+   Original line: Brandi Slade Associate Head Coach, Rebel Girls & brandi-lynn.slade@unlv.edu
+
+31. Kaitlyn Curtis
+   Email: kaitlyn.curtis@unlv.edu
+   Username: kaitlyn.curtis
+   Original line: Kaitlyn Curtis Head Coach, UNLV Cheer kaitlyn.curtis@unlv.edu
+
+32. Ashton Gammarano
+   Email: ashton.gammarano@unlv.edu
+   Username: ashton.gammarano
+   Original line: Ashton Gammarano Head Coach, UNLV Pom ashton.gammarano@unlv.edu
+
+33. Jon Wall
+   Email: jonathan.wall@unlv.edu
+   Username: jonathan.wall
+   Original line: Jon Wall Head Strength & Conditioning Coach for jonathan.wall@unlv.edu
+
+34. Pat Ota
+   Email: pat.ota@unlv.edu
+   Username: pat.ota
+   Phone: (702) 895-3636
+   Original line: Pat Ota Head Coach 895-3636 pat.ota@unlv.edu
+
+35. Julia Fehervari
+   Email: julia.fehervari@unlv.edu
+   Username: julia.fehervari
+   Phone: (702) 895-3765
+   Original line: Julia Fehervari Assistant Swimming Coach 895-3765 julia.fehervari@unlv.edu
+
+36. Pieter Ritz
+   Email: pieter.ritz@unlv.edu
+   Username: pieter.ritz
+   Phone: (702) 895-3765
+   Original line: Pieter Ritz Assistant Swimming Coach 895-3765 pieter.ritz@unlv.edu
+
+37. Dan Carrington
+   Email: dan.carrington@unlv.edu
+   Username: dan.carrington
+   Original line: Dan Carrington Assistant Coach dan.carrington@unlv.edu
+
+38. Andy Jackson
+   Email: andy.jackson@unlv.edu
+   Username: andy.jackson
+   Phone: (702) 895-4489
+   Original line: Andy Jackson Head Coach 895-4489 andy.jackson@unlv.edu
+
+39. Denys Pume
+   Email: denys.pume@unlv.edu
+   Username: denys.pume
+   Original line: Denys Pume Assistant Coach denys.pume@unlv.edu
+
+40. Tetiana Luzhanska
+   Email: tetiana.luzhanska@unlv.edu
+   Username: tetiana.luzhanska
+   Original line: Tetiana Luzhanska Head Coach tetiana.luzhanska@unlv.edu
+
+41. Jose Bendeck
+   Email: jose.bendeck@unlv.edu
+   Username: jose.bendeck
+   Phone: (702) 895-3009
+   Original line: Jose Bendeck Assistant Coach 895-3009 jose.bendeck@unlv.edu
+
+42. Carmelita Jeter
+   Email: carmelita.jeter@unlv.edu
+   Username: carmelita.jeter
+   Phone: (702) 895-3256
+   Original line: Carmelita Jeter Head Coach 895-3256 carmelita.jeter@unlv.edu
+
+43. Jordan Roach
+   Email: jordan.roach@unlv.edu
+   Username: jordan.roach
+   Original line: Jordan Roach Assistant Coach, Throws jordan.roach@unlv.edu
+
+44. Adrain Mann
+   Email: adrain.mann@unlv.edu
+   Username: adrain.mann
+   Original line: Adrain Mann Assistant Coach for Sprints and Hurdles / adrain.mann@unlv.edu
+
+45. Brooke Koblitz
+   Email: brooke.koblitz@unlv.edu
+   Username: brooke.koblitz
+   Original line: Brooke Koblitz Assistant Coach, Distance & Cross Country brooke.koblitz@unlv.edu
+
+46. Deja Harris
+   Email: deja.harris@unlv.edu
+   Username: deja.harris
+   Original line: Deja Harris Assistant Coach / Recruiting Coordinator deja.harris@unlv.edu
+
+47. Brian Magbitang
+   Email: brian.magbitang@unlv.edu
+   Username: brian.magbitang
+   Original line: Brian Magbitang Assistant Coach / Director of Volleyball brian.magbitang@unlv.edu
+
+48. Ken Ko
+   Email: ken.ko@unlv.edu
+   Username: ken.ko
+   Original line: Ken Ko Assistant Coach ken.ko@unlv.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Stan Stolte Head Coach 895-3402 stan.stolte@unlv.edu
+• Cory Vanderhook Assistant Coach/Recruiting Coordinator cory.vanderhook@unlv.edu
+• Jeff Opalewski Assistant Coach/Pitching Coach jeffrey.opalewski@unlv.edu
+• Nick Rush Asst. Coach / Director of Operations nicholas.rush@unlv.edu
+• Josh Pastner Head Coach joshua.pastner@unlv.edu
+• Jozee Dean Executive Assistant to the Head Coach 895-3295 josephine.decunzo@unlv.edu
+• Scott Garson Associate Head Coach scott.garson@unlv.edu
+• Anthony Wilkins Assistant Coach anthony.wilkins@unlv.edu
+• Justin Hawkins Assistant Coach justin.hawkinsyoung@unlv.edu
+• Jon Wall Head Strength & Conditioning Coach for jonathan.wall@unlv.edu
+• Roman Owen Associate Head Coach 895-1174 roman.owen@unlv.edu
+• Mia Bell Assistant Coach 895-4138 mia.bell@unlv.edu
+• Joslyn Tinkle Assistant Coach Joslyn.tinkle@unlv.edu
+• Del Alexander Wide Receivers Coach 895-3538 delvaughn.alexander@unlv.edu
+• Jean-Paul Hebert Head Coach 895-3714 jean-paul.hebert@unlv.edu
+• Spencer Dunaway Assistant Coach 895-3714 spencer.dunaway@unlv.edu
+• Amy Bush-Herzer Head Coach 895-2091 amy.bush@unlv.edu
+• Luka Mudde Assistant Coach luka.vandermerwe@unlv.edu
+• BJ Craig Head Coach 895-1033 bj.craig@unlv.edu
+• David Casper Assistant Coach david.casper@unlv.edu
+• Micah Craig Assistant Coach micah.craig@unlv.edu
+• Jenny Williams Head Coach jennifer.williams@unlv.edu
+• Jenna Olson Associate Head Coach jenna.olson@unlv.edu
+• Casey Collins Assistant Coach casey.collins@unlv.edu
+• Kristie Fox Head Coach 895-3916 kristie.Jarvis@unlv.edu
+• Andy Jarvis Associate Head Coach 895-4773 andrew.jarvis@unlv.edu
+• Anthony Aresco Assistant Coach/Pitching Coach 895-4018 anthony.aresco@unlv.edu
+• Maddie Schmidt Assistant Coach madeline.schmidt@unlv.edu
+• Marca Decastroverde Head Coach, Rebel Girls & Company marca.decastroverde@unlv.edu
+• Brandi Slade Associate Head Coach, Rebel Girls & brandi-lynn.slade@unlv.edu
+• Kaitlyn Curtis Head Coach, UNLV Cheer kaitlyn.curtis@unlv.edu
+• Ashton Gammarano Head Coach, UNLV Pom ashton.gammarano@unlv.edu
+• Jon Wall Head Strength & Conditioning Coach for jonathan.wall@unlv.edu
+• Pat Ota Head Coach 895-3636 pat.ota@unlv.edu
+• Julia Fehervari Assistant Swimming Coach 895-3765 julia.fehervari@unlv.edu
+• Pieter Ritz Assistant Swimming Coach 895-3765 pieter.ritz@unlv.edu
+• Dan Carrington Assistant Coach dan.carrington@unlv.edu
+• Andy Jackson Head Coach 895-4489 andy.jackson@unlv.edu
+• Denys Pume Assistant Coach denys.pume@unlv.edu
+• Tetiana Luzhanska Head Coach tetiana.luzhanska@unlv.edu
+• Jose Bendeck Assistant Coach 895-3009 jose.bendeck@unlv.edu
+• Carmelita Jeter Head Coach 895-3256 carmelita.jeter@unlv.edu
+• Jordan Roach Assistant Coach, Throws jordan.roach@unlv.edu
+• Adrain Mann Assistant Coach for Sprints and Hurdles / adrain.mann@unlv.edu
+• Brooke Koblitz Assistant Coach, Distance & Cross Country brooke.koblitz@unlv.edu
+• Deja Harris Assistant Coach / Recruiting Coordinator deja.harris@unlv.edu
+• Brian Magbitang Assistant Coach / Director of Volleyball brian.magbitang@unlv.edu
+• Ken Ko Assistant Coach ken.ko@unlv.edu

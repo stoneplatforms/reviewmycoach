@@ -1,0 +1,437 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:24
+============================================================
+
+Total coaches found: 71
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kari Kluckhohn
+   Email: kskluckhohn@noctrl.edu
+   Username: kskluckhohn
+   Original line: Kari Kluckhohn Head Women's Track and Field Coach, Senior kskluckhohn@noctrl.edu 630-637-
+
+2. Vicki Pile
+   Email: vlpile@noctrl.edu
+   Username: vlpile
+   Original line: Vicki Pile Head Dance Team Coach vlpile@noctrl.edu
+
+3. Ed Mathey
+   Email: ejmathey@noctrl.edu
+   Username: ejmathey
+   Original line: Ed Mathey Head Baseball Coach ejmathey@noctrl.edu 630-637- @edmathey1
+
+4. Connor Christman
+   Email: cschristman@noctrl.edu
+   Username: cschristman
+   Original line: Connor Christman Assistant Baseball Coach cschristman@noctrl.edu 630-637-
+
+5. Vince Kmiec
+   Email: vskmiec@noctrl.edu
+   Username: vskmiec
+   Original line: Vince Kmiec Head Men's Basketball Coach vskmiec@noctrl.edu 630-637-
+
+6. Alex Sorenson
+   Email: ajsorenson@noctrl.edu
+   Username: ajsorenson
+   Original line: Alex Sorenson Assistant Men's Basketball Coach ajsorenson@noctrl.edu
+
+7. Aaron Tiknis
+   Email: actiknis@noctrl.edu
+   Username: actiknis
+   Original line: Aaron Tiknis Assistant Men's Basketball Coach actiknis@noctrl.edu
+
+8. Conrad Etchi
+   Email: cetchi@noctrl.edu
+   Username: cetchi
+   Original line: Conrad Etchi Graduate Assistant Men's Basketball Coach cetchi@noctrl.edu
+
+9. Maggie McCloskey-Bax
+   Email: mbax@noctrl.edu
+   Username: mbax
+   Original line: Maggie McCloskey-Bax Head Women's Basketball Coach mbax@noctrl.edu 630-637- @NCCmccloskeybax
+
+10. Taylor Harazin
+   Email: tcharazin@noctrl.edu
+   Username: tcharazin
+   Original line: Taylor Harazin Assistant Women's Basketball Coach tcharazin@noctrl.edu
+
+11. Chrissi Ekhomu
+   Email: caekhomu@noctrl.edu
+   Username: caekhomu
+   Original line: Chrissi Ekhomu Assistant Women's Basketball Coach caekhomu@noctrl.edu
+
+12. Mary Liebig
+   Email: moliebig@noctrl.edu
+   Username: moliebig
+   Original line: Mary Liebig Graduate Assistant Women's Basketball Coach moliebig@noctrl.edu
+
+13. Mahesh Narayanan
+   Email: mnarayanan@noctrl.edu
+   Username: mnarayanan
+   Original line: Mahesh Narayanan Head Women's Cross Country Coach mnarayanan@noctrl.edu 630-637- @CoachMaheshNCC
+
+14. Shane Dierking
+   Email: spdierking@noctrl.edu
+   Username: spdierking
+   Original line: Shane Dierking Assistant Head Coach/Defensive spdierking@noctrl.edu 630-637- @CoachDierking
+
+15. Eric Stuedemann
+   Email: ejstuedemann@noctrl.edu
+   Username: ejstuedemann
+   Original line: Eric Stuedemann Offensive Coordinator/Offensive Line Coach ejstuedemann@noctrl.edu 630-637- @CoachStuedemann
+
+16. Joe Fehrle
+   Email: jrfehrle@noctrl.edu
+   Username: jrfehrle
+   Original line: Joe Fehrle Tight Ends Coach/Strength Coordinator jrfehrle@noctrl.edu 630-637- @CoachFehrle
+
+17. DJ Warkenthien
+   Email: djwarkenthien@noctrl.edu
+   Username: djwarkenthien
+   Original line: DJ Warkenthien Defensive Line Coach/Academic Coordinator djwarkenthien@noctrl.edu 630-637- @CoachWark
+
+18. Kalus Murphy
+   Email: krmurphy2261@noctrl.edu
+   Username: krmurphy2261
+   Original line: Kalus Murphy Safeties Coach/Recruiting Coordinator krmurphy2261@noctrl.edu 630-637- @Kalus_Murphy
+
+19. Chris Allen
+   Email: clallen@noctrl.edu
+   Username: clallen
+   Original line: Chris Allen Graduate Assistant Coach - Wide Receivers clallen@noctrl.edu
+
+20. Kyle Lane
+   Email: kglane@noctrl.edu
+   Username: kglane
+   Original line: Kyle Lane Graduate Assistant Coach - Defensive Line kglane@noctrl.edu
+
+21. Jonas Waskosky
+   Email: jpwaskosky@noctrl.edu
+   Username: jpwaskosky
+   Original line: Jonas Waskosky Graduate Assistant Coach - Running Backs jpwaskosky@noctrl.edu
+
+22. Ethan Vashel
+   Email: evashel@noctrl.edu
+   Username: evashel
+   Original line: Ethan Vashel Graduate Assistant Coach - Defensive Backs evashel@noctrl.edu
+
+23. Luke Foster
+   Email: lmfoster@noctrl.edu
+   Username: lmfoster
+   Original line: Luke Foster Quarterbacks Coach lmfoster@noctrl.edu 630-637- @CoachFoster7
+
+24. Rachel Gray
+   Email: rpgray@noctrl.edu
+   Username: rpgray
+   Original line: Rachel Gray Head Men's/Women's Golf Coach rpgray@noctrl.edu 630-637-
+
+25. Mitch Boryszewski
+   Email: mrboryszewski@noctrl.edu
+   Username: mrboryszewski
+   Original line: Mitch Boryszewski Graduate Assistant Men's Golf Coach mrboryszewski@noctrl.edu
+
+26. Rachel Gray
+   Email: rpgray@noctrl.edu
+   Username: rpgray
+   Original line: Rachel Gray Head Men's/Women's Golf Coach rpgray@noctrl.edu 630-637-
+
+27. Emily Fleming
+   Email: ehfleming@noctrl.edu
+   Username: ehfleming
+   Original line: Emily Fleming Graduate Assistant Women's Golf Coach ehfleming@noctrl.edu
+
+28. Jay Farrell
+   Email: jpfarrell@noctrl.edu
+   Username: jpfarrell
+   Original line: Jay Farrell Head Men's Lacrosse Coach jpfarrell@noctrl.edu 630-637-
+
+29. Noah Pilgram
+   Email: njpilgram@noctrl.edu
+   Username: njpilgram
+   Original line: Noah Pilgram Men's Lacrosse Graduate Assistant Coach njpilgram@noctrl.edu
+
+30. Vasiliki Barakos-Berkman
+   Email: vgberkman@noctrl.edu
+   Username: vgberkman
+   Original line: Vasiliki Barakos-Berkman Head Women's Lacrosse Coach vgberkman@noctrl.edu 630-637-
+
+31. Enzo Fuschino
+   Email: efuschino@noctrl.edu
+   Username: efuschino
+   Original line: Enzo Fuschino Head Men's Soccer Coach efuschino@noctrl.edu 630-637-
+
+32. AJ Moyes
+   Email: ajmoyes@noctrl.edu
+   Username: ajmoyes
+   Original line: AJ Moyes Assistant Men's Soccer Coach ajmoyes@noctrl.edu
+
+33. Alex Lundin
+   Email: atlundin@noctrl.edu
+   Username: atlundin
+   Original line: Alex Lundin Graduate Assistant Men's Soccer Coach atlundin@noctrl.edu
+
+34. Andrew Gamarra
+   Email: atgamarra@noctrl.edu
+   Username: atgamarra
+   Original line: Andrew Gamarra Head Women's Soccer Coach atgamarra@noctrl.edu 630-637-
+
+35. Jacey Kent
+   Email: jkent@noctrl.edu
+   Username: jkent
+   Original line: Jacey Kent Assistant Women's Soccer Coach jkent@noctrl.edu
+
+36. Maria Fields
+   Email: mgfields@noctrl.edu
+   Username: mgfields
+   Original line: Maria Fields Women's Soccer Graduate Assistant Coach mgfields@noctrl.edu
+
+37. Venus Taylor
+   Email: vtaylor@noctrl.edu
+   Username: vtaylor
+   Original line: Venus Taylor Head Softball Coach vtaylor@noctrl.edu 630-637-
+
+38. Eliza Rex
+   Email: errex@noctrl.edu
+   Username: errex
+   Original line: Eliza Rex Graduate Assistant Softball Coach errex@noctrl.edu
+
+39. Nathaniel Boatright
+   Email: nlboatright@noctrl.edu
+   Username: nlboatright
+   Original line: Nathaniel Boatright Head Men's and Women's Tennis Coach nlboatright@noctrl.edu 630-637-
+
+40. Joey Leto
+   Email: jleto@noctrl.edu
+   Username: jleto
+   Original line: Joey Leto Assistant Men's and Women's Tennis Coach jleto@noctrl.edu
+
+41. Nathaniel Boatright
+   Email: nlboatright@noctrl.edu
+   Username: nlboatright
+   Original line: Nathaniel Boatright Head Men's and Women's Tennis Coach nlboatright@noctrl.edu 630-637-
+
+42. Joey Leto
+   Email: jleto@noctrl.edu
+   Username: jleto
+   Original line: Joey Leto Assistant Men's and Women's Tennis Coach jleto@noctrl.edu
+
+43. Gabe Rivera
+   Email: grivera2304@noctrl.edu
+   Username: grivera2304
+   Original line: Gabe Rivera Head Men's Track & Field Coach grivera2304@noctrl.edu 630-637-
+
+44. Matt Schryvers
+   Email: mdschryvers@noctrl.edu
+   Username: mdschryvers
+   Original line: Matt Schryvers Assistant Men's/Women's Track & Field Coach - mdschryvers@noctrl.edu
+
+45. Kari Kluckhohn
+   Email: kskluckhohn@noctrl.edu
+   Username: kskluckhohn
+   Original line: Kari Kluckhohn Head Women's Track and Field Coach, Senior kskluckhohn@noctrl.edu 630-637-
+
+46. Mahesh Narayanan
+   Email: mnarayanan@noctrl.edu
+   Username: mnarayanan
+   Original line: Mahesh Narayanan Assistant Women's Track and Field Coach mnarayanan@noctrl.edu 630-637- @CoachMaheshNCC
+
+47. Matt Schryvers
+   Email: mdschryvers@noctrl.edu
+   Username: mdschryvers
+   Original line: Matt Schryvers Assistant Men's/Women's Track & Field Coach - mdschryvers@noctrl.edu
+
+48. Sade Gant
+   Email: ssgant@noctrl.edu
+   Username: ssgant
+   Original line: Sade Gant Assistant Women's Track & Field Coach - ssgant@noctrl.edu
+
+49. Faith Ladin
+   Email: fladin@noctrl.edu
+   Username: fladin
+   Original line: Faith Ladin Assistant Women’s Track & Field Coach - fladin@noctrl.edu
+
+50. Jennifer Hufnagle
+   Email: jmhufnagle@noctrl.edu
+   Username: jmhufnagle
+   Original line: Jennifer Hufnagle Assistant Women's Triathlon Coach jmhufnagle@noctrl.edu
+
+51. Camille Buchanan
+   Email: crbuchanan@noctrl.edu
+   Username: crbuchanan
+   Original line: Camille Buchanan Graduate Assistant Women's Triathlon Coach crbuchanan@noctrl.edu
+
+52. Kevin Kustura
+   Email: kpkustura@noctrl.edu
+   Username: kpkustura
+   Original line: Kevin Kustura Head Men's Volleyball Coach kpkustura@noctrl.edu 630-637-
+
+53. Matt Nelson
+   Email: mlnelson@noctrl.edu
+   Username: mlnelson
+   Original line: Matt Nelson Men's Volleyball Graduate Assistant Coach mlnelson@noctrl.edu
+
+54. Nathan Anderson
+   Email: nanderson3943@noctrl.edu
+   Username: nanderson3943
+   Original line: Nathan Anderson Men's Volleyball Assistant Coach nanderson3943@noctrl.edu
+
+55. Ray Gooden
+   Email: rgooden@noctrl.edu
+   Username: rgooden
+   Original line: Ray Gooden Head Women's Volleyball Coach rgooden@noctrl.edu 630-637-
+
+56. Aliyah Valentine
+   Email: anvalentine@noctrl.edu
+   Username: anvalentine
+   Original line: Aliyah Valentine Graduate Assistant Women's Volleyball Coach anvalentine@noctrl.edu
+
+57. Grant Zamin
+   Email: glzamin@noctrl.edu
+   Username: glzamin
+   Original line: Grant Zamin Head Men's Wrestling Coach/Assistant glzamin@noctrl.edu
+
+58. Joe Norton
+   Email: jpnorton@noctrl.edu
+   Username: jpnorton
+   Original line: Joe Norton Head Women's Wrestling Coach/Associate jpnorton@noctrl.edu 630-637- @coachnortonncc
+
+59. Jared Head
+   Email: jshead@noctrl.edu
+   Username: jshead
+   Original line: Jared Head Assistant Wrestling Coach jshead@noctrl.edu
+
+60. Michael Bikulcius
+   Email: mebikulcius@noctrl.edu
+   Username: mebikulcius
+   Original line: Michael Bikulcius Assistant Wrestling Coach/Strength Program mebikulcius@noctrl.edu 630-637-
+
+61. Emonte Logan
+   Email: ellogan@noctrl.edu
+   Username: ellogan
+   Original line: Emonte Logan Assistant Wrestling Coach ellogan@noctrl.edu
+
+62. Amanda Martinez
+   Email: amartinez@noctrl.edu
+   Username: amartinez
+   Original line: Amanda Martinez Assistant Women's Wrestling Coach amartinez@noctrl.edu
+
+63. Josh Tardy
+   Email: jjtardy@noctrl.edu
+   Username: jjtardy
+   Original line: Josh Tardy Volunteer Assistant Wrestling Coach jjtardy@noctrl.edu 630-637-
+
+64. Dan Schiferl
+   Email: djschiferl@noctrl.edu
+   Username: djschiferl
+   Original line: Dan Schiferl Volunteer Assistant Wrestling Coach djschiferl@noctrl.edu 630-637-
+
+65. Joe Norton
+   Email: jpnorton@noctrl.edu
+   Username: jpnorton
+   Original line: Joe Norton Head Women's Wrestling Coach/Associate jpnorton@noctrl.edu 630-637- @coachnortonncc
+
+66. Grant Zamin
+   Email: glzamin@noctrl.edu
+   Username: glzamin
+   Original line: Grant Zamin Head Men's Wrestling Coach/Assistant glzamin@noctrl.edu
+
+67. Jared Head
+   Email: jshead@noctrl.edu
+   Username: jshead
+   Original line: Jared Head Assistant Wrestling Coach jshead@noctrl.edu
+
+68. Michael Bikulcius
+   Email: mebikulcius@noctrl.edu
+   Username: mebikulcius
+   Original line: Michael Bikulcius Assistant Wrestling Coach/Strength Program mebikulcius@noctrl.edu 630-637-
+
+69. Amanda Martinez
+   Email: amartinez@noctrl.edu
+   Username: amartinez
+   Original line: Amanda Martinez Assistant Women's Wrestling Coach amartinez@noctrl.edu
+
+70. Alara Boyd
+   Email: alboyd@noctrl.edu
+   Username: alboyd
+   Original line: Alara Boyd Graduate Assistant Women's Wrestling Coach alboyd@noctrl.edu
+
+71. Malea Palahniuk
+   Email: mnpalahniuk@noctrl.edu
+   Username: mnpalahniuk
+   Original line: Malea Palahniuk Volunteer Assistant Wrestling Coach mnpalahniuk@noctrl.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kari Kluckhohn Head Women's Track and Field Coach, Senior kskluckhohn@noctrl.edu 630-637-
+• Vicki Pile Head Dance Team Coach vlpile@noctrl.edu
+• Ed Mathey Head Baseball Coach ejmathey@noctrl.edu 630-637- @edmathey1
+• Connor Christman Assistant Baseball Coach cschristman@noctrl.edu 630-637-
+• Vince Kmiec Head Men's Basketball Coach vskmiec@noctrl.edu 630-637-
+• Alex Sorenson Assistant Men's Basketball Coach ajsorenson@noctrl.edu
+• Aaron Tiknis Assistant Men's Basketball Coach actiknis@noctrl.edu
+• Conrad Etchi Graduate Assistant Men's Basketball Coach cetchi@noctrl.edu
+• Maggie McCloskey-Bax Head Women's Basketball Coach mbax@noctrl.edu 630-637- @NCCmccloskeybax
+• Taylor Harazin Assistant Women's Basketball Coach tcharazin@noctrl.edu
+• Chrissi Ekhomu Assistant Women's Basketball Coach caekhomu@noctrl.edu
+• Mary Liebig Graduate Assistant Women's Basketball Coach moliebig@noctrl.edu
+• Mahesh Narayanan Head Women's Cross Country Coach mnarayanan@noctrl.edu 630-637- @CoachMaheshNCC
+• Shane Dierking Assistant Head Coach/Defensive spdierking@noctrl.edu 630-637- @CoachDierking
+• Eric Stuedemann Offensive Coordinator/Offensive Line Coach ejstuedemann@noctrl.edu 630-637- @CoachStuedemann
+• Joe Fehrle Tight Ends Coach/Strength Coordinator jrfehrle@noctrl.edu 630-637- @CoachFehrle
+• DJ Warkenthien Defensive Line Coach/Academic Coordinator djwarkenthien@noctrl.edu 630-637- @CoachWark
+• Kalus Murphy Safeties Coach/Recruiting Coordinator krmurphy2261@noctrl.edu 630-637- @Kalus_Murphy
+• Chris Allen Graduate Assistant Coach - Wide Receivers clallen@noctrl.edu
+• Kyle Lane Graduate Assistant Coach - Defensive Line kglane@noctrl.edu
+• Jonas Waskosky Graduate Assistant Coach - Running Backs jpwaskosky@noctrl.edu
+• Ethan Vashel Graduate Assistant Coach - Defensive Backs evashel@noctrl.edu
+• Luke Foster Quarterbacks Coach lmfoster@noctrl.edu 630-637- @CoachFoster7
+• Rachel Gray Head Men's/Women's Golf Coach rpgray@noctrl.edu 630-637-
+• Mitch Boryszewski Graduate Assistant Men's Golf Coach mrboryszewski@noctrl.edu
+• Rachel Gray Head Men's/Women's Golf Coach rpgray@noctrl.edu 630-637-
+• Emily Fleming Graduate Assistant Women's Golf Coach ehfleming@noctrl.edu
+• Jay Farrell Head Men's Lacrosse Coach jpfarrell@noctrl.edu 630-637-
+• Noah Pilgram Men's Lacrosse Graduate Assistant Coach njpilgram@noctrl.edu
+• Vasiliki Barakos-Berkman Head Women's Lacrosse Coach vgberkman@noctrl.edu 630-637-
+• Enzo Fuschino Head Men's Soccer Coach efuschino@noctrl.edu 630-637-
+• AJ Moyes Assistant Men's Soccer Coach ajmoyes@noctrl.edu
+• Alex Lundin Graduate Assistant Men's Soccer Coach atlundin@noctrl.edu
+• Andrew Gamarra Head Women's Soccer Coach atgamarra@noctrl.edu 630-637-
+• Jacey Kent Assistant Women's Soccer Coach jkent@noctrl.edu
+• Maria Fields Women's Soccer Graduate Assistant Coach mgfields@noctrl.edu
+• Venus Taylor Head Softball Coach vtaylor@noctrl.edu 630-637-
+• Eliza Rex Graduate Assistant Softball Coach errex@noctrl.edu
+• Nathaniel Boatright Head Men's and Women's Tennis Coach nlboatright@noctrl.edu 630-637-
+• Joey Leto Assistant Men's and Women's Tennis Coach jleto@noctrl.edu
+• Nathaniel Boatright Head Men's and Women's Tennis Coach nlboatright@noctrl.edu 630-637-
+• Joey Leto Assistant Men's and Women's Tennis Coach jleto@noctrl.edu
+• Gabe Rivera Head Men's Track & Field Coach grivera2304@noctrl.edu 630-637-
+• Matt Schryvers Assistant Men's/Women's Track & Field Coach - mdschryvers@noctrl.edu
+• Kari Kluckhohn Head Women's Track and Field Coach, Senior kskluckhohn@noctrl.edu 630-637-
+• Mahesh Narayanan Assistant Women's Track and Field Coach mnarayanan@noctrl.edu 630-637- @CoachMaheshNCC
+• Matt Schryvers Assistant Men's/Women's Track & Field Coach - mdschryvers@noctrl.edu
+• Sade Gant Assistant Women's Track & Field Coach - ssgant@noctrl.edu
+• Faith Ladin Assistant Women’s Track & Field Coach - fladin@noctrl.edu
+• Jennifer Hufnagle Assistant Women's Triathlon Coach jmhufnagle@noctrl.edu
+• Camille Buchanan Graduate Assistant Women's Triathlon Coach crbuchanan@noctrl.edu
+• Kevin Kustura Head Men's Volleyball Coach kpkustura@noctrl.edu 630-637-
+• Matt Nelson Men's Volleyball Graduate Assistant Coach mlnelson@noctrl.edu
+• Nathan Anderson Men's Volleyball Assistant Coach nanderson3943@noctrl.edu
+• Ray Gooden Head Women's Volleyball Coach rgooden@noctrl.edu 630-637-
+• Aliyah Valentine Graduate Assistant Women's Volleyball Coach anvalentine@noctrl.edu
+• Grant Zamin Head Men's Wrestling Coach/Assistant glzamin@noctrl.edu
+• Joe Norton Head Women's Wrestling Coach/Associate jpnorton@noctrl.edu 630-637- @coachnortonncc
+• Jared Head Assistant Wrestling Coach jshead@noctrl.edu
+• Michael Bikulcius Assistant Wrestling Coach/Strength Program mebikulcius@noctrl.edu 630-637-
+• Emonte Logan Assistant Wrestling Coach ellogan@noctrl.edu
+• Amanda Martinez Assistant Women's Wrestling Coach amartinez@noctrl.edu
+• Josh Tardy Volunteer Assistant Wrestling Coach jjtardy@noctrl.edu 630-637-
+• Dan Schiferl Volunteer Assistant Wrestling Coach djschiferl@noctrl.edu 630-637-
+• Joe Norton Head Women's Wrestling Coach/Associate jpnorton@noctrl.edu 630-637- @coachnortonncc
+• Grant Zamin Head Men's Wrestling Coach/Assistant glzamin@noctrl.edu
+• Jared Head Assistant Wrestling Coach jshead@noctrl.edu
+• Michael Bikulcius Assistant Wrestling Coach/Strength Program mebikulcius@noctrl.edu 630-637-
+• Amanda Martinez Assistant Women's Wrestling Coach amartinez@noctrl.edu
+• Alara Boyd Graduate Assistant Women's Wrestling Coach alboyd@noctrl.edu
+• Malea Palahniuk Volunteer Assistant Wrestling Coach mnpalahniuk@noctrl.edu

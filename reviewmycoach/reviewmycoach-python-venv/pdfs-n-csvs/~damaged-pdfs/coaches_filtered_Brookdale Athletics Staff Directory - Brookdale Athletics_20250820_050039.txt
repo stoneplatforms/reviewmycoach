@@ -1,0 +1,106 @@
+COACH ENTRIES FOUND - 2025-08-20 05:00:39
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Brookdale
+Organization: Brookdale Athletics
+
+Total coaches found: 13
+
+PARSED ENTRIES:
+----------------------------------------
+1. Cillo Cheerleading
+   Email: pcisek@brookdalecc.edu
+   Username: pcisek
+   Title: Coach
+   Original line: Cillo Cheerleading Coach pcisek@brookdalecc.edu
+
+2.  
+   Email: dpflynn@brookdalecc.edu
+   Username: dpflynn
+   Title: Coach
+   Original line: Coach dpflynn@brookdalecc.edu
+
+3.  
+   Email: wfraley@brookdalecc.edu
+   Username: wfraley
+   Title: Coach
+   Original line: Coach wfraley@brookdalecc.edu
+
+4.  
+   Email: cwilliams@brookdalecc.edu
+   Username: cwilliams
+   Title: Coach
+   Original line: Coach cwilliams@brookdalecc.edu
+
+5.  
+   Email: apacillo@brookdalecc.edu
+   Username: apacillo
+   Title: Coach
+   Phone: (732) 224-2377
+   Original line: Coach apacillo@brookdalecc.edu
+
+6. Pacillo Softball
+   Email: rbrunson@brookdalecc.ed
+   Username: rbrunson
+   Title: Coach
+   Original line: Pacillo Softball Coach rbrunson@brookdalecc.ed
+
+7.  
+   Email: dpflynn@brookdalecc.edu
+   Username: dpflynn
+   Title: Coach
+   Original line: Coach dpflynn@brookdalecc.edu
+
+8.  
+   Email: nonder@brookdalecc.edu
+   Username: nonder
+   Title: Coach
+   Original line: Coach nonder@brookdalecc.edu
+
+9.  
+   Email: skrebs@brookdalecc.edu
+   Username: skrebs
+   Title: Coach
+   Original line: Coach skrebs@brookdalecc.edu
+
+10.  
+   Email: cwilliams@brookdalecc.edu
+   Username: cwilliams
+   Title: Coach
+   Original line: Coach cwilliams@brookdalecc.edu
+
+11.  
+   Email: ltruchan@brookdalecc.edu
+   Username: ltruchan
+   Title: Coach
+   Original line: Coach ltruchan@brookdalecc.edu
+
+12. Johnny 
+   Email: jjohnson@brookdalecc.edu
+   Username: jjohnson
+   Title: Coach
+   Original line: Coach jjohnson@brookdalecc.edu
+
+13. Eddie 
+   Email: eharris@brookdalecc.edu
+   Username: eharris
+   Title: Coach /
+   Original line: Coach / eharris@brookdalecc.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Coach -> Paul Cisek Head 732-224-2731 pcisek@brookdalecc.edu
+• Coach -> Dennis Assistant 732-224-2377 dpflynn@brookdalecc.edu
+• Coach -> Brad Fraley Head 732-224-2377 wfraley@brookdalecc.edu
+• Coach -> Christian Head 732-224-2377 cwilliams@brookdalecc.edu
+• Coach -> Anthony Head 732-224-2377 apacillo@brookdalecc.edu
+• Coach -> Rich Head 732-224-2737 rbrunson@brookdalecc.ed
+• Coach -> Dennis Assistant 732-224-2377 dpflynn@brookdalecc.edu
+• Coach -> Nil Onder Head 732-224-1867 nonder@brookdalecc.edu
+• Coach -> Suzee Head 732-224-2377 skrebs@brookdalecc.edu
+• Coach -> Christian Head 732-224-2377 cwilliams@brookdalecc.edu
+• Coach -> Lyndsay Assistant 732-224-2377 ltruchan@brookdalecc.edu

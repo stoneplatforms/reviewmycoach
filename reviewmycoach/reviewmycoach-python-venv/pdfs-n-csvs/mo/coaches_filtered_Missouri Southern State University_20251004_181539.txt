@@ -1,0 +1,215 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:39
+============================================================
+
+Total coaches found: 34
+
+PARSED ENTRIES:
+----------------------------------------
+1. Bryce Darnell
+   Email: darnell-b@mssu.edu
+   Username: darnell-b
+   Original line: Bryce Darnell Head Baseball Coach darnell-b@mssu.edu 417- Missouri Southern brycedarnell
+
+2. Nick Tuck
+   Email: tuck-n@mssu.edu
+   Username: tuck-n
+   Original line: Nick Tuck Assistant Baseball Coach tuck-n@mssu.edu 417- Missouri Southern MSSUBaseball
+
+3. Octavio Sanchez
+   Email: Sanchezii-O@mssu.edu
+   Username: Sanchezii-O
+   Original line: Octavio Sanchez Assistant Baseball Coach / Sanchezii-O@mssu.edu Rogers State
+
+4. Kristen Hermann
+   Email: Hermann-k@mssu.edu
+   Username: Hermann-k
+   Original line: Kristen Hermann Head Spirit Squad Coach Hermann-k@mssu.edu Grand Canyon
+
+5. Ashleigh Fyock
+   Email: fyock-a@mssu.edu
+   Username: fyock-a
+   Original line: Ashleigh Fyock Assistant Spirit Squad Coach fyock-a@mssu.edu
+
+6. Kristen Hermann
+   Email: Hermann-k@mssu.edu
+   Username: Hermann-k
+   Original line: Kristen Hermann Head Spirit Squad Coach Hermann-k@mssu.edu Grand Canyon
+
+7. Ashleigh Fyock
+   Email: fyock-a@mssu.edu
+   Username: fyock-a
+   Original line: Ashleigh Fyock Assistant Spirit Squad Coach fyock-a@mssu.edu
+
+8. Atiba Bradley
+   Email: bradley-a@mssu.edu
+   Username: bradley-a
+   Original line: Atiba Bradley Head Football Coach bradley-a@mssu.edu 417- Missouri Southern CoachABradley
+
+9. Joe Bettasso
+   Email: bettasso-j@mssu.edu
+   Username: bettasso-j
+   Original line: Joe Bettasso Defensive Coordinator bettasso-j@mssu.edu 417- Missouri Southern CoachBettasso
+
+10. Colton Meyers
+   Email: meyers-c@mssu.edu
+   Username: meyers-c
+   Original line: Colton Meyers Offensive meyers-c@mssu.edu 417- SIU-Carbondale Coach_CMeyers
+
+11. Casey Carlo
+   Email: carlo-c@mssu.edu
+   Username: carlo-c
+   Original line: Casey Carlo Defensive Line carlo-c@mssu.edu 417- Northern Iowa '96 FBCoachCarlo
+
+12. Ashly Salomonsky
+   Email: salomonsky-a@mssu.edu
+   Username: salomonsky-a
+   Original line: Ashly Salomonsky Offensive Line salomonsky-a@mssu.edu 417- North Alabama CoachSalomonsky
+
+13. Zion Williams
+   Email: williams-z@mssu.edu
+   Username: williams-z
+   Original line: Zion Williams Corner Backs williams-z@mssu.edu 417- Troy University _CoachDbZo
+
+14. Akeem Judd
+   Email: judd-a@mssu.edu
+   Username: judd-a
+   Original line: Akeem Judd Running Backs judd-a@mssu.edu 417- University of CoachJudd1
+
+15. Herbert Moore
+   Email: moore-h@mssu.edu
+   Username: moore-h
+   Original line: Herbert Moore Defensive Line Assistant moore-h@mssu.edu 417- University of FBCoach_Moore
+
+16. Derrick Catron
+   Email: Catron-d@mssu.edu
+   Username: Catron-d
+   Original line: Derrick Catron Assistant Coach and Catron-d@mssu.edu
+
+17. Derrick Catron
+   Email: Catron-d@mssu.edu
+   Username: Catron-d
+   Original line: Derrick Catron Assistant Coach and Catron-d@mssu.edu
+
+18. Sam McMahon
+   Email: mcmahon-s@mssu.edu
+   Username: mcmahon-s
+   Original line: Sam McMahon Head Coach mcmahon-s@mssu.edu Delaware MSSUMensBball
+
+19. Jason Owens
+   Email: owens-j@mssu.edu
+   Username: owens-j
+   Original line: Jason Owens Assistant Coach owens-j@mssu.edu Siena Heights coachjasonowens
+
+20. Ronnie Ressel
+   Email: ressel-r@mssu.edu
+   Username: ressel-r
+   Original line: Ronnie Ressel Head Coach ressel-r@mssu.edu 417- Missouri Southern coachressel
+
+21. Bryant Porter
+   Email: porter-b@mssu.edu
+   Username: porter-b
+   Original line: Bryant Porter Associate Head Coach porter-b@mssu.edu 417- Missouri Valley '11 Coach_BPorter
+
+22. Rebekah Wendland
+   Email: wendland-r@mssu.edu
+   Username: wendland-r
+   Original line: Rebekah Wendland Assistant Coach wendland-r@mssu.edu 417- Emporia State coachbecks_
+
+23. Luke Huddleston
+   Email: huddleston-t@mssu.edu
+   Username: huddleston-t
+   Original line: Luke Huddleston Assistant Coach huddleston-t@mssu.edu University of West
+
+24. Brian Allen
+   Email: allen-b@mssu.edu
+   Username: allen-b
+   Original line: Brian Allen Associate Head Coach allen-b@mssu.edu 417- Pittsburg State '10
+
+25. Jamie Burnham
+   Email: burnham-j@mssu.edu
+   Username: burnham-j
+   Original line: Jamie Burnham Head Coach Men’s and burnham-j@mssu.edu 417- Missouri Baptist
+
+26. Jason Francis
+   Email: francis-j@mssu.edu
+   Username: francis-j
+   Original line: Jason Francis Assistant Coach Men’s and francis-j@mssu.edu 417- Indiana State
+
+27. Brian Allen
+   Email: allen-b@mssu.edu
+   Username: allen-b
+   Original line: Brian Allen Associate Head Coach allen-b@mssu.edu 417- Pittsburg State '10
+
+28. Jamie Burnham
+   Email: burnham-j@mssu.edu
+   Username: burnham-j
+   Original line: Jamie Burnham Head Coach Men’s and burnham-j@mssu.edu 417- Missouri Baptist
+
+29. Jason Francis
+   Email: francis-j@mssu.edu
+   Username: francis-j
+   Original line: Jason Francis Assistant Coach Men’s and francis-j@mssu.edu 417- Indiana State
+
+30. Hallie Blackney
+   Email: blackney-h@mssu.edu
+   Username: blackney-h
+   Original line: Hallie Blackney Head Softball Coach blackney-h@mssu.edu 417- Truman '08/Bemidji
+
+31. Lexi Kinnaird
+   Email: kinnaird-a@mssu.edu
+   Username: kinnaird-a
+   Original line: Lexi Kinnaird Associate Head Coach kinnaird-a@mssu.edu Missouri Western
+
+32. Justin Rodriguez
+   Email: rodriguez-j@mssu.edu
+   Username: rodriguez-j
+   Original line: Justin Rodriguez Assistant Coach rodriguez-j@mssu.edu Schreiner
+
+33. Joshua Moore
+   Email: moore-j@mssu.edu
+   Username: moore-j
+   Original line: Joshua Moore Interim Head Coach moore-j@mssu.edu 417- Missouri Southern
+
+34. Hannah Poynor
+   Email: poynor-h@mssu.edu
+   Username: poynor-h
+   Original line: Hannah Poynor Assistant Coach poynor-h@mssu.edu Lamar '20, UT
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Bryce Darnell Head Baseball Coach darnell-b@mssu.edu 417- Missouri Southern brycedarnell
+• Nick Tuck Assistant Baseball Coach tuck-n@mssu.edu 417- Missouri Southern MSSUBaseball
+• Octavio Sanchez Assistant Baseball Coach / Sanchezii-O@mssu.edu Rogers State
+• Kristen Hermann Head Spirit Squad Coach Hermann-k@mssu.edu Grand Canyon
+• Ashleigh Fyock Assistant Spirit Squad Coach fyock-a@mssu.edu
+• Kristen Hermann Head Spirit Squad Coach Hermann-k@mssu.edu Grand Canyon
+• Ashleigh Fyock Assistant Spirit Squad Coach fyock-a@mssu.edu
+• Atiba Bradley Head Football Coach bradley-a@mssu.edu 417- Missouri Southern CoachABradley
+• Joe Bettasso Defensive Coordinator bettasso-j@mssu.edu 417- Missouri Southern CoachBettasso
+• Colton Meyers Offensive meyers-c@mssu.edu 417- SIU-Carbondale Coach_CMeyers
+• Casey Carlo Defensive Line carlo-c@mssu.edu 417- Northern Iowa '96 FBCoachCarlo
+• Ashly Salomonsky Offensive Line salomonsky-a@mssu.edu 417- North Alabama CoachSalomonsky
+• Zion Williams Corner Backs williams-z@mssu.edu 417- Troy University _CoachDbZo
+• Akeem Judd Running Backs judd-a@mssu.edu 417- University of CoachJudd1
+• Herbert Moore Defensive Line Assistant moore-h@mssu.edu 417- University of FBCoach_Moore
+• Derrick Catron Assistant Coach and Catron-d@mssu.edu
+• Derrick Catron Assistant Coach and Catron-d@mssu.edu
+• Sam McMahon Head Coach mcmahon-s@mssu.edu Delaware MSSUMensBball
+• Jason Owens Assistant Coach owens-j@mssu.edu Siena Heights coachjasonowens
+• Ronnie Ressel Head Coach ressel-r@mssu.edu 417- Missouri Southern coachressel
+• Bryant Porter Associate Head Coach porter-b@mssu.edu 417- Missouri Valley '11 Coach_BPorter
+• Rebekah Wendland Assistant Coach wendland-r@mssu.edu 417- Emporia State coachbecks_
+• Luke Huddleston Assistant Coach huddleston-t@mssu.edu University of West
+• Brian Allen Associate Head Coach allen-b@mssu.edu 417- Pittsburg State '10
+• Jamie Burnham Head Coach Men’s and burnham-j@mssu.edu 417- Missouri Baptist
+• Jason Francis Assistant Coach Men’s and francis-j@mssu.edu 417- Indiana State
+• Brian Allen Associate Head Coach allen-b@mssu.edu 417- Pittsburg State '10
+• Jamie Burnham Head Coach Men’s and burnham-j@mssu.edu 417- Missouri Baptist
+• Jason Francis Assistant Coach Men’s and francis-j@mssu.edu 417- Indiana State
+• Hallie Blackney Head Softball Coach blackney-h@mssu.edu 417- Truman '08/Bemidji
+• Lexi Kinnaird Associate Head Coach kinnaird-a@mssu.edu Missouri Western
+• Justin Rodriguez Assistant Coach rodriguez-j@mssu.edu Schreiner
+• Joshua Moore Interim Head Coach moore-j@mssu.edu 417- Missouri Southern
+• Hannah Poynor Assistant Coach poynor-h@mssu.edu Lamar '20, UT

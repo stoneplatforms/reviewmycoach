@@ -1,0 +1,203 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:50
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kirsten Moore
+   Email: kirstenmoore@westmont.edu
+   Username: kirstenmoore
+   Original line: Kirsten Moore Women’s Basketball Head Coach / Associate Athletic Director kirstenmoore@westmont.edu 805-565-
+
+2. Jill Heckman
+   Email: jheckman@westmont.edu
+   Username: jheckman
+   Original line: Jill Heckman Assistant AD for Operations / SWA / Women's Basketball Assistant Coach jheckman@westmont.edu 805-565-
+
+3. Erik Hansen
+   Email: erikhansen@westmont.edu
+   Username: erikhansen
+   Original line: Erik Hansen Sports Performance Coach erikhansen@westmont.edu
+
+4. Paul Svagdis
+   Email: psvagdis@westmont.edu
+   Username: psvagdis
+   Original line: Paul Svagdis Baseball Head Coach psvagdis@westmont.edu 805-565-
+
+5. Bailey Reid
+   Email: bareid@westmont.edu
+   Username: bareid
+   Original line: Bailey Reid Baseball Assistant Coach bareid@westmont.edu
+
+6. Gregory Venzor
+   Email: baseball@westmont.edu
+   Username: baseball
+   Original line: Gregory Venzor Baseball Assistant Coach baseball@westmont.edu 805-565-
+
+7. Will Barring
+   Email: wbarring@westmont.edu
+   Username: wbarring
+   Original line: Will Barring Baseball Assistant Coach wbarring@westmont.edu
+
+8. Justin Leslie
+   Email: jleslie@westmont.edu
+   Username: jleslie
+   Original line: Justin Leslie Men's Basketball Head Coach jleslie@westmont.edu
+
+9. Booker Harris
+   Email: bharris@westmont.edu
+   Username: bharris
+   Original line: Booker Harris Men's Basketball Assistant Coach bharris@westmont.edu
+
+10. Kalen Eddings
+   Email: keddings@westmont.edu
+   Username: keddings
+   Original line: Kalen Eddings Men's Basketball Assistant Coach keddings@westmont.edu
+
+11. Kirsten Moore
+   Email: kirstenmoore@westmont.edu
+   Username: kirstenmoore
+   Original line: Kirsten Moore Women’s Basketball Head Coach / Associate Athletic Director kirstenmoore@westmont.edu 805-565-
+
+12. Olivia Luu
+   Email: oluu@westmont.edu
+   Username: oluu
+   Original line: Olivia Luu Women's Basketball Assistant Coach oluu@westmont.edu
+
+13. Jill Heckman
+   Email: jheckman@westmont.edu
+   Username: jheckman
+   Original line: Jill Heckman Assistant AD for Operations / SWA / Women's Basketball Assistant Coach jheckman@westmont.edu 805-565-
+
+14. Stefanie Berberabe
+   Email: sberberabe@westmont.edu
+   Username: sberberabe
+   Original line: Stefanie Berberabe Women's Basketball Assistant Coach sberberabe@westmont.edu
+
+15. Russell Smelley
+   Email: smelley@westmont.edu
+   Username: smelley
+   Original line: Russell Smelley Track & Field and Cross Country Head Coach smelley@westmont.edu 805-565-
+
+16. Lindsey Connolly
+   Email: lconnoll@westmont.edu
+   Username: lconnoll
+   Original line: Lindsey Connolly Cross Country/Track & Field Assistant Coach - Women's Distance, Team lconnoll@westmont.edu 805-565-
+
+17. Chris Hanessian
+   Email: chanessian@westmont.edu
+   Username: chanessian
+   Original line: Chris Hanessian Cross Country/Track & Field Assistant Coach chanessian@westmont.edu 805-565-
+
+18. Derek Masterson
+   Email: dmasterson@westmont.edu
+   Username: dmasterson
+   Original line: Derek Masterson Track & Field Assistant Coach dmasterson@westmont.edu
+
+19. Leo Maes
+   Email: lmaes@westmont.edu
+   Username: lmaes
+   Original line: Leo Maes Men's and Women's Golf Head Coach lmaes@westmont.edu
+
+20. Harley Richardson
+   Email: hrichardson@westmont.edu
+   Username: hrichardson
+   Original line: Harley Richardson Men's and Women's Golf Assistant Coach hrichardson@westmont.edu
+
+21. Morgan Cathey
+   Email: menssoccer@westmont.edu
+   Username: menssoccer
+   Original line: Morgan Cathey Men's Soccer Head Coach menssoccer@westmont.edu 805-565-
+
+22. Paul Meehan
+   Email: menssoccer@westmont.edu
+   Username: menssoccer
+   Original line: Paul Meehan Men's Soccer Assistant Coach menssoccer@westmont.edu
+
+23. Sebastian Castellanos
+   Email: menssoccer@westmont.edu
+   Username: menssoccer
+   Original line: Sebastian Castellanos Men's Soccer Assistant Coach menssoccer@westmont.edu
+
+24. Lauren Matthias
+   Email: womenssoccer@westmont.edu
+   Username: womenssoccer
+   Original line: Lauren Matthias Women's Soccer Head Coach womenssoccer@westmont.edu
+
+25. Emmy Meyring
+   Email: womenssoccer@westmont.edu
+   Username: womenssoccer
+   Original line: Emmy Meyring Women's Soccer Assistant Coach womenssoccer@westmont.edu
+
+26. Jill Lin
+   Email: jijones@westmont.edu
+   Username: jijones
+   Original line: Jill Lin Women's Swimming Head Coach jijones@westmont.edu 805-565-
+
+27. Bailey Lemmon
+   Email: blemmon@westmont.edu
+   Username: blemmon
+   Original line: Bailey Lemmon Women's Swimming Assistant Coach blemmon@westmont.edu
+
+28. Chris Elwood
+   Email: celwood@westmont.edu
+   Username: celwood
+   Original line: Chris Elwood Men's Tennis Head Coach celwood@westmont.edu 805-565-
+
+29. Ethan Ha
+   Email: eha@westmont.edu
+   Username: eha
+   Original line: Ethan Ha Assistant Men's Tennis Coach eha@westmont.edu
+
+30. Ryan Warner
+   Email: rwarner@westmont.edu
+   Username: rwarner
+   Original line: Ryan Warner Men's Tennis Assistant Coach rwarner@westmont.edu
+
+31. Ruth McGolpin
+   Email: rmcgolpin@westmont.edu
+   Username: rmcgolpin
+   Original line: Ruth McGolpin Volleyball Head Coach rmcgolpin@westmont.edu
+
+32. Hannah Caddow
+   Email: hcaddow@westmont.edu
+   Username: hcaddow
+   Original line: Hannah Caddow Assistant Coach hcaddow@westmont.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kirsten Moore Women’s Basketball Head Coach / Associate Athletic Director kirstenmoore@westmont.edu 805-565-
+• Jill Heckman Assistant AD for Operations / SWA / Women's Basketball Assistant Coach jheckman@westmont.edu 805-565-
+• Erik Hansen Sports Performance Coach erikhansen@westmont.edu
+• Paul Svagdis Baseball Head Coach psvagdis@westmont.edu 805-565-
+• Bailey Reid Baseball Assistant Coach bareid@westmont.edu
+• Gregory Venzor Baseball Assistant Coach baseball@westmont.edu 805-565-
+• Will Barring Baseball Assistant Coach wbarring@westmont.edu
+• Justin Leslie Men's Basketball Head Coach jleslie@westmont.edu
+• Booker Harris Men's Basketball Assistant Coach bharris@westmont.edu
+• Kalen Eddings Men's Basketball Assistant Coach keddings@westmont.edu
+• Kirsten Moore Women’s Basketball Head Coach / Associate Athletic Director kirstenmoore@westmont.edu 805-565-
+• Olivia Luu Women's Basketball Assistant Coach oluu@westmont.edu
+• Jill Heckman Assistant AD for Operations / SWA / Women's Basketball Assistant Coach jheckman@westmont.edu 805-565-
+• Stefanie Berberabe Women's Basketball Assistant Coach sberberabe@westmont.edu
+• Russell Smelley Track & Field and Cross Country Head Coach smelley@westmont.edu 805-565-
+• Lindsey Connolly Cross Country/Track & Field Assistant Coach - Women's Distance, Team lconnoll@westmont.edu 805-565-
+• Chris Hanessian Cross Country/Track & Field Assistant Coach chanessian@westmont.edu 805-565-
+• Derek Masterson Track & Field Assistant Coach dmasterson@westmont.edu
+• Leo Maes Men's and Women's Golf Head Coach lmaes@westmont.edu
+• Harley Richardson Men's and Women's Golf Assistant Coach hrichardson@westmont.edu
+• Morgan Cathey Men's Soccer Head Coach menssoccer@westmont.edu 805-565-
+• Paul Meehan Men's Soccer Assistant Coach menssoccer@westmont.edu
+• Sebastian Castellanos Men's Soccer Assistant Coach menssoccer@westmont.edu
+• Lauren Matthias Women's Soccer Head Coach womenssoccer@westmont.edu
+• Emmy Meyring Women's Soccer Assistant Coach womenssoccer@westmont.edu
+• Jill Lin Women's Swimming Head Coach jijones@westmont.edu 805-565-
+• Bailey Lemmon Women's Swimming Assistant Coach blemmon@westmont.edu
+• Chris Elwood Men's Tennis Head Coach celwood@westmont.edu 805-565-
+• Ethan Ha Assistant Men's Tennis Coach eha@westmont.edu
+• Ryan Warner Men's Tennis Assistant Coach rwarner@westmont.edu
+• Ruth McGolpin Volleyball Head Coach rmcgolpin@westmont.edu
+• Hannah Caddow Assistant Coach hcaddow@westmont.edu

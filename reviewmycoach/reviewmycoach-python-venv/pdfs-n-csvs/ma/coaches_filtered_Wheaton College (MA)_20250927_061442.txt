@@ -1,0 +1,287 @@
+COACH ENTRIES FOUND - 2025-09-27 06:14:42
+============================================================
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kanika Cummings
+   Email: cummingsgroves_kanika@wheatoncollege.edu
+   Username: cummingsgroves_kanika
+   Original line: Kanika Cummings Head Coach cummingsgroves_kanika@wheatoncollege.edu 508-286-
+
+2. Lindsey Keen
+   Email: keen_lindsey@wheatoncollege.edu
+   Username: keen_lindsey
+   Original line: Lindsey Keen Head Coach keen_lindsey@wheatoncollege.edu 508-286-
+
+3. Dan Tischler
+   Email: tischler_dan@wheatoncollege.edu
+   Username: tischler_dan
+   Original line: Dan Tischler Head Coach tischler_dan@wheatoncollege.edu 508-286-
+
+4. Patrick Santorella
+   Email: santorella_patrick@wheatoncollege.edu
+   Username: santorella_patrick
+   Original line: Patrick Santorella Assistant Coach santorella_patrick@wheatoncollege.edu 508-286-
+
+5. Alex DuBrow
+   Email: dubrow_alex@wheatoncollege.edu
+   Username: dubrow_alex
+   Original line: Alex DuBrow '20 Head Coach dubrow_alex@wheatoncollege.edu
+
+6. Kanika Cummings
+   Email: cummingsgroves_kanika@wheatoncollege.edu
+   Username: cummingsgroves_kanika
+   Original line: Kanika Cummings Head Coach cummingsgroves_kanika@wheatoncollege.edu 508-286-
+
+7. Kerstin Kelly
+   Email: kelly_kerstin@wheatoncollege.edu
+   Username: kelly_kerstin
+   Original line: Kerstin Kelly Assistant Coach kelly_kerstin@wheatoncollege.edu
+
+8. Alexander Evans
+   Email: evans_alexander@wheatoncollege.edu
+   Username: evans_alexander
+   Original line: Alexander Evans Head Cross Country Coach/Assistant Track & Field evans_alexander@wheatoncollege.edu 508-286-
+
+9. Alexander Evans
+   Email: evans_alexander@wheatoncollege.edu
+   Username: evans_alexander
+   Original line: Alexander Evans Head Cross Country Coach/Assistant Track & Field evans_alexander@wheatoncollege.edu 508-286-
+
+10. David Sach
+   Email: sach_david@wheatoncollege.edu
+   Username: sach_david
+   Original line: David Sach Head Coach sach_david@wheatoncollege.edu 617-460-
+
+11. David Sach
+   Email: sach_david@wheatoncollege.edu
+   Username: sach_david
+   Original line: David Sach Head Coach sach_david@wheatoncollege.edu 617-460-
+
+12. Brooke Marshall
+   Email: marshall_brooke@wheatoncollege.edu
+   Username: marshall_brooke
+   Original line: Brooke Marshall Head Coach marshall_brooke@wheatoncollege.edu 508-286-
+
+13. Madison Gilmartin
+   Email: gilmartin_madison@wheatoncollege.edu
+   Username: gilmartin_madison
+   Original line: Madison Gilmartin Assistant Coach gilmartin_madison@wheatoncollege.edu
+
+14. Kyle Hart
+   Email: hart_kyle@wheatoncollege.edu
+   Username: hart_kyle
+   Original line: Kyle Hart Head Coach hart_kyle@wheatoncollege.edu 508-286-
+
+15. Jay Lanigan
+   Email: lanigan_jay@wheatoncollege.edu
+   Username: lanigan_jay
+   Original line: Jay Lanigan Assistant Coach lanigan_jay@wheatoncollege.edu
+
+16. Emily Kiablick
+   Email: womenslacrosse@wheatoncollege.edu
+   Username: womenslacrosse
+   Original line: Emily Kiablick Head Coach womenslacrosse@wheatoncollege.edu 508-286-
+
+17. Meghan Sharick
+   Email: womenslacrosse@wheatoncollege.edu
+   Username: womenslacrosse
+   Original line: Meghan Sharick Assistant Coach womenslacrosse@wheatoncollege.edu
+
+18. Becky Bedard
+   Email: womenslacrosse@wheatoncollege.edu
+   Username: womenslacrosse
+   Original line: Becky Bedard Assistant Coach womenslacrosse@wheatoncollege.edu 508-286-
+
+19. Erin Miller
+   Email: miller_erin@wheatoncollege.edu
+   Username: miller_erin
+   Original line: Erin Miller Head Coach miller_erin@wheatoncollege.edu 508-286-
+
+20. Maddie Castigliego
+   Email: castigliego_madison@wheatoncollege.edu
+   Username: castigliego_madison
+   Original line: Maddie Castigliego Assistant Coach castigliego_madison@wheatoncollege.edu
+
+21. Bryan Waggoner
+   Email: waggoner_bryan@wheatoncollege.edu
+   Username: waggoner_bryan
+   Original line: Bryan Waggoner Head Coach waggoner_bryan@wheatoncollege.edu 508-286-
+
+22. Connor Cushing
+   Email: cushing_connor@wheatoncollege.edu
+   Username: cushing_connor
+   Original line: Connor Cushing '25 Assistant Coach cushing_connor@wheatoncollege.edu
+
+23. Thomas Gatanis
+   Email: gatanis_thomas@wheatoncollege.edu
+   Username: gatanis_thomas
+   Original line: Thomas Gatanis Assistant Coach gatanis_thomas@wheatoncollege.edu
+
+24. Ethan Alfano
+   Email: alfano_ethan@wheatoncollege.edu
+   Username: alfano_ethan
+   Original line: Ethan Alfano '25 Assistant Coach alfano_ethan@wheatoncollege.edu
+
+25. Mary-Frances Monroe
+   Email: monroe_mary-frances@wheatoncollege.edu
+   Username: monroe_mary-frances
+   Original line: Mary-Frances Monroe Head Coach monroe_mary-frances@wheatoncollege.edu 508-286-
+
+26. Josh Richards
+   Email: richards_josh@wheatoncollege.edu
+   Username: richards_josh
+   Original line: Josh Richards Assistant Coach richards_josh@wheatoncollege.edu
+
+27. Ash Hill
+   Email: hill_ashley2@wheatoncollege.edu
+   Username: hill_ashley2
+   Original line: Ash Hill Assistant Coach hill_ashley2@wheatoncollege.edu 508-286-
+
+28. Adriana Owen
+   Email: owen_adriana@wheatoncollege.edu
+   Username: owen_adriana
+   Original line: Adriana Owen Head Coach owen_adriana@wheatoncollege.edu 508-286-
+
+29. Garrett Shuldes
+   Email: shuldes_garrett@wheatoncollege.edu
+   Username: shuldes_garrett
+   Original line: Garrett Shuldes Assistant Coach shuldes_garrett@wheatoncollege.edu 508-286-
+
+30. Danielle Morley
+   Email: morley_danielle@wheatoncollege.edu
+   Username: morley_danielle
+   Original line: Danielle Morley Diving Coach morley_danielle@wheatoncollege.edu 508-286-
+
+31. Adriana Owen
+   Email: owen_adriana@wheatoncollege.edu
+   Username: owen_adriana
+   Original line: Adriana Owen Head Coach owen_adriana@wheatoncollege.edu 508-286-
+
+32. Garrett Shuldes
+   Email: shuldes_garrett@wheatoncollege.edu
+   Username: shuldes_garrett
+   Original line: Garrett Shuldes Assistant Coach shuldes_garrett@wheatoncollege.edu 508-286-
+
+33. Danielle Morley
+   Email: morley_danielle@wheatoncollege.edu
+   Username: morley_danielle
+   Original line: Danielle Morley Diving Coach morley_danielle@wheatoncollege.edu 508-286-
+
+34. Luis Platas
+   Email: platas_luis@wheatoncollege.edu
+   Username: platas_luis
+   Original line: Luis Platas Davila Galindo Head Coach platas_luis@wheatoncollege.edu 786-520-
+
+35. Dan Munsey
+   Email: munsey_dan@wheatoncollege.edu
+   Username: munsey_dan
+   Original line: Dan Munsey Head Coach - Director of Tennis munsey_dan@wheatoncollege.edu 508-286-
+
+36. Kim Spence
+   Email: spence_kim@wheatoncollege.edu
+   Username: spence_kim
+   Original line: Kim Spence '04 Head Coach spence_kim@wheatoncollege.edu 508-286-
+
+37. Alexander Evans
+   Email: evans_alexander@wheatoncollege.edu
+   Username: evans_alexander
+   Original line: Alexander Evans Head Cross Country Coach/Assistant Track & Field evans_alexander@wheatoncollege.edu 508-286-
+
+38. Kim Spence
+   Email: spence_kim@wheatoncollege.edu
+   Username: spence_kim
+   Original line: Kim Spence '04 Head Coach spence_kim@wheatoncollege.edu 508-286-
+
+39. Alexander Evans
+   Email: evans_alexander@wheatoncollege.edu
+   Username: evans_alexander
+   Original line: Alexander Evans Head Cross Country Coach/Assistant Track & Field evans_alexander@wheatoncollege.edu 508-286-
+
+40. Scott Reslow
+   Email: reslow_scott@wheatoncollege.edu
+   Username: reslow_scott
+   Original line: Scott Reslow Head Men's Volleyball Coach reslow_scott@wheatoncollege.edu
+
+41. Craig Letourneau
+   Email: letourneau_craig@wheatoncollege.edu
+   Username: letourneau_craig
+   Original line: Craig Letourneau Head Coach letourneau_craig@wheatoncollege.edu 508-286-
+
+42. Abby Soutter
+   Email: soutter_abby@wheatoncollege.edu
+   Username: soutter_abby
+   Original line: Abby Soutter Assistant Coach soutter_abby@wheatoncollege.edu
+
+43. GT Ladd
+   Email: ladd_george@wheatoncollege.edu
+   Username: ladd_george
+   Original line: GT Ladd Head Coach ladd_george@wheatoncollege.edu
+
+44. Kaylee Kastrup
+   Email: kastrup_kaylee@wheatoncollege.edu
+   Username: kastrup_kaylee
+   Original line: Kaylee Kastrup Associate Head Coach kastrup_kaylee@wheatoncollege.edu 508-286-
+
+45. GT Ladd
+   Email: ladd_george@wheatoncollege.edu
+   Username: ladd_george
+   Original line: GT Ladd Head Coach ladd_george@wheatoncollege.edu
+
+46. Kaylee Kastrup
+   Email: kastrup_kaylee@wheatoncollege.edu
+   Username: kastrup_kaylee
+   Original line: Kaylee Kastrup Associate Head Coach kastrup_kaylee@wheatoncollege.edu 508-286-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kanika Cummings Head Coach cummingsgroves_kanika@wheatoncollege.edu 508-286-
+• Lindsey Keen Head Coach keen_lindsey@wheatoncollege.edu 508-286-
+• Dan Tischler Head Coach tischler_dan@wheatoncollege.edu 508-286-
+• Patrick Santorella Assistant Coach santorella_patrick@wheatoncollege.edu 508-286-
+• Alex DuBrow '20 Head Coach dubrow_alex@wheatoncollege.edu
+• Kanika Cummings Head Coach cummingsgroves_kanika@wheatoncollege.edu 508-286-
+• Kerstin Kelly Assistant Coach kelly_kerstin@wheatoncollege.edu
+• Alexander Evans Head Cross Country Coach/Assistant Track & Field evans_alexander@wheatoncollege.edu 508-286-
+• Alexander Evans Head Cross Country Coach/Assistant Track & Field evans_alexander@wheatoncollege.edu 508-286-
+• David Sach Head Coach sach_david@wheatoncollege.edu 617-460-
+• David Sach Head Coach sach_david@wheatoncollege.edu 617-460-
+• Brooke Marshall Head Coach marshall_brooke@wheatoncollege.edu 508-286-
+• Madison Gilmartin Assistant Coach gilmartin_madison@wheatoncollege.edu
+• Kyle Hart Head Coach hart_kyle@wheatoncollege.edu 508-286-
+• Jay Lanigan Assistant Coach lanigan_jay@wheatoncollege.edu
+• Emily Kiablick Head Coach womenslacrosse@wheatoncollege.edu 508-286-
+• Meghan Sharick Assistant Coach womenslacrosse@wheatoncollege.edu
+• Becky Bedard Assistant Coach womenslacrosse@wheatoncollege.edu 508-286-
+• Erin Miller Head Coach miller_erin@wheatoncollege.edu 508-286-
+• Maddie Castigliego Assistant Coach castigliego_madison@wheatoncollege.edu
+• Bryan Waggoner Head Coach waggoner_bryan@wheatoncollege.edu 508-286-
+• Connor Cushing '25 Assistant Coach cushing_connor@wheatoncollege.edu
+• Thomas Gatanis Assistant Coach gatanis_thomas@wheatoncollege.edu
+• Ethan Alfano '25 Assistant Coach alfano_ethan@wheatoncollege.edu
+• Mary-Frances Monroe Head Coach monroe_mary-frances@wheatoncollege.edu 508-286-
+• Josh Richards Assistant Coach richards_josh@wheatoncollege.edu
+• Ash Hill Assistant Coach hill_ashley2@wheatoncollege.edu 508-286-
+• Adriana Owen Head Coach owen_adriana@wheatoncollege.edu 508-286-
+• Garrett Shuldes Assistant Coach shuldes_garrett@wheatoncollege.edu 508-286-
+• Danielle Morley Diving Coach morley_danielle@wheatoncollege.edu 508-286-
+• Adriana Owen Head Coach owen_adriana@wheatoncollege.edu 508-286-
+• Garrett Shuldes Assistant Coach shuldes_garrett@wheatoncollege.edu 508-286-
+• Danielle Morley Diving Coach morley_danielle@wheatoncollege.edu 508-286-
+• Luis Platas Davila Galindo Head Coach platas_luis@wheatoncollege.edu 786-520-
+• Dan Munsey Head Coach - Director of Tennis munsey_dan@wheatoncollege.edu 508-286-
+• Kim Spence '04 Head Coach spence_kim@wheatoncollege.edu 508-286-
+• Alexander Evans Head Cross Country Coach/Assistant Track & Field evans_alexander@wheatoncollege.edu 508-286-
+• Kim Spence '04 Head Coach spence_kim@wheatoncollege.edu 508-286-
+• Alexander Evans Head Cross Country Coach/Assistant Track & Field evans_alexander@wheatoncollege.edu 508-286-
+• Scott Reslow Head Men's Volleyball Coach reslow_scott@wheatoncollege.edu
+• Craig Letourneau Head Coach letourneau_craig@wheatoncollege.edu 508-286-
+• Abby Soutter Assistant Coach soutter_abby@wheatoncollege.edu
+• GT Ladd Head Coach ladd_george@wheatoncollege.edu
+• Kaylee Kastrup Associate Head Coach kastrup_kaylee@wheatoncollege.edu 508-286-
+• GT Ladd Head Coach ladd_george@wheatoncollege.edu
+• Kaylee Kastrup Associate Head Coach kastrup_kaylee@wheatoncollege.edu 508-286-

@@ -1,0 +1,233 @@
+COACH ENTRIES FOUND - 2025-10-06 18:42:00
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dan Cox
+   Email: dan.cox@lmu.edu
+   Username: dan.cox
+   Original line: Dan Cox Assistant Coach dan.cox@lmu.edu
+
+2. Sean Isaac
+   Email: sean.isaac@lmu.edu
+   Username: sean.isaac
+   Original line: Sean Isaac Assistant Coach sean.isaac@lmu.edu
+
+3. Ricky Muench
+   Email: Richard.Muench@lmu.edu
+   Username: Richard.Muench
+   Original line: Ricky Muench Assistant Coach Richard.Muench@lmu.edu
+
+4. Aarika Hughes
+   Email: Aarika.Hughes@lmu.edu
+   Username: Aarika.Hughes
+   Original line: Aarika Hughes Head Coach Aarika.Hughes@lmu.edu
+
+5. Jody Burrows
+   Email: Jody.Burrows@lmu.edu
+   Username: Jody.Burrows
+   Original line: Jody Burrows Assistant Coach Jody.Burrows@lmu.edu
+
+6. Brad Johnson
+   Email: Brad.Johnson@lmu.edu
+   Username: Brad.Johnson
+   Original line: Brad Johnson Assistant Coach Brad.Johnson@lmu.edu
+
+7. Lauren Unger
+   Email: Lauren.Unger@lmu.edu
+   Username: Lauren.Unger
+   Original line: Lauren Unger Assistant Coach Lauren.Unger@lmu.edu
+
+8. Amanda Delgado
+   Email: amanda.delgado@lmu.edu
+   Username: amanda.delgado
+   Original line: Amanda Delgado Assistant Coach amanda.delgado@lmu.edu
+
+9. Brooke Atkinson
+   Email: brooke.atkinson@lmu.edu
+   Username: brooke.atkinson
+   Original line: Brooke Atkinson Associate Head Coach brooke.atkinson@lmu.edu
+
+10. John Mayer
+   Email: John.Mayer@lmu.edu
+   Username: John.Mayer
+   Original line: John Mayer Head Coach John.Mayer@lmu.edu
+
+11. Angela White
+   Email: Angela.White@lmu.edu
+   Username: Angela.White
+   Original line: Angela White Associate Head Coach / Recruiting Coordinator Angela.White@lmu.edu
+
+12. Jacinda Ramirez
+   Email: Jacinda.Ramirez@lmu.edu
+   Username: Jacinda.Ramirez
+   Original line: Jacinda Ramirez Assistant Coach Jacinda.Ramirez@lmu.edu
+
+13. Chloe Curtis
+   Email: Chloe.Curtis@lmu.edu
+   Username: Chloe.Curtis
+   Original line: Chloe Curtis Head Coach Chloe.Curtis@lmu.edu
+
+14. John Pickhaver
+   Email: john.pickhaver@lmu.edu
+   Username: john.pickhaver
+   Original line: John Pickhaver Assistant Coach john.pickhaver@lmu.edu
+
+15. Tom Ronan
+   Email: tom.ronan@lmu.edu
+   Username: tom.ronan
+   Original line: Tom Ronan Assistant Coach tom.ronan@lmu.edu
+
+16. Jason D'Amore
+   Email: amore@lmu.edu
+   Username: amore
+   Original line: Jason D'Amore Head Coach jason.d'amore@lmu.edu
+
+17. Michael McCabe
+   Email: Michael.McCabe@lmu.edu
+   Username: Michael.McCabe
+   Original line: Michael McCabe Associate Head Coach Michael.McCabe@lmu.edu
+
+18. Kyle Schmid
+   Email: msoccer@lmu.edu
+   Username: msoccer
+   Original line: Kyle Schmid Head Coach msoccer@lmu.edu
+
+19. Carlos Aguilar
+   Email: msoccer@lmu.edu
+   Username: msoccer
+   Original line: Carlos Aguilar Assistant Coach msoccer@lmu.edu
+
+20. Roberto Loera
+   Email: lmusoccer@lmu.edu
+   Username: lmusoccer
+   Original line: Roberto Loera Assitant Coach lmusoccer@lmu.edu
+
+21. Chris Chamides
+   Email: wsoccer@lmu.edu
+   Username: wsoccer
+   Original line: Chris Chamides Head Coach wsoccer@lmu.edu
+
+22. Chelsey Brown
+   Email: wsoccer@lmu.edu
+   Username: wsoccer
+   Original line: Chelsey Brown Assistant Coach wsoccer@lmu.edu
+
+23. Stephen Merriwether
+   Email: wsoccer@lmu.edu
+   Username: wsoccer
+   Original line: Stephen Merriwether Assistant Coach wsoccer@lmu.edu
+
+24. Tairia Flowers
+   Email: softball@lmu.edu
+   Username: softball
+   Original line: Tairia Flowers Head Coach softball@lmu.edu
+
+25. Shelby Jeffries
+   Email: softball@lmu.edu
+   Username: softball
+   Original line: Shelby Jeffries Assistant Coach softball@lmu.edu
+
+26. Bianca Mejia
+   Email: softball@lmu.edu
+   Username: softball
+   Original line: Bianca Mejia Assistant Coach softball@lmu.edu
+
+27. Tom Lloyd
+   Email: thomas.lloyd@lmu.edu
+   Username: thomas.lloyd
+   Original line: Tom Lloyd Head Coach thomas.lloyd@lmu.edu
+
+28. Alex Moreno
+   Email: alejandro.morenofigueroa@lmu.edu
+   Username: alejandro.morenofigueroa
+   Original line: Alex Moreno Assistant Coach alejandro.morenofigueroa@lmu.edu
+
+29. Agustin Moreno
+   Email: agustin.moreno@lmu.edu
+   Username: agustin.moreno
+   Original line: Agustin Moreno Head Coach agustin.moreno@lmu.edu
+
+30. Becca Weissmann
+   Email: Rebecca.weissmann@lmu.edu
+   Username: Rebecca.weissmann
+   Original line: Becca Weissmann Assistant Coach Rebecca.weissmann@lmu.edu
+
+31. Kolby O'Donnell
+   Email: donnell@lmu.edu
+   Username: donnell
+   Original line: Kolby O'Donnell Head Coach kolby.o'donnell@lmu.edu
+
+32. Jillian Hadder
+   Email: jillian.hadder@lmu.edu
+   Username: jillian.hadder
+   Original line: Jillian Hadder Associate Head Coach jillian.hadder@lmu.edu
+
+33. Chris Seiffert
+   Email: chris.seiffert@lmu.edu
+   Username: chris.seiffert
+   Original line: Chris Seiffert Assistant Coach chris.seiffert@lmu.edu
+
+34. David Carrasco
+   Email: David.CarrascoMadridano@lmu.edu
+   Username: David.CarrascoMadridano
+   Original line: David Carrasco Head Coach David.CarrascoMadridano@lmu.edu
+
+35. Raul Morales
+   Email: Raul.rossettomorales@lmu.edu
+   Username: Raul.rossettomorales
+   Original line: Raul Morales Assistant Coach Raul.rossettomorales@lmu.edu
+
+36. Ikaika Aki
+   Email: Andrew.aki@lmu.edu
+   Username: Andrew.aki
+   Original line: Ikaika Aki Head Coach Andrew.aki@lmu.edu
+
+37. Sarah Kreiser
+   Email: Sarah.Kreiser@lmu.edu
+   Username: Sarah.Kreiser
+   Original line: Sarah Kreiser Associate Head Coach Sarah.Kreiser@lmu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dan Cox Assistant Coach dan.cox@lmu.edu
+• Sean Isaac Assistant Coach sean.isaac@lmu.edu
+• Ricky Muench Assistant Coach Richard.Muench@lmu.edu
+• Aarika Hughes Head Coach Aarika.Hughes@lmu.edu
+• Jody Burrows Assistant Coach Jody.Burrows@lmu.edu
+• Brad Johnson Assistant Coach Brad.Johnson@lmu.edu
+• Lauren Unger Assistant Coach Lauren.Unger@lmu.edu
+• Amanda Delgado Assistant Coach amanda.delgado@lmu.edu
+• Brooke Atkinson Associate Head Coach brooke.atkinson@lmu.edu
+• John Mayer Head Coach John.Mayer@lmu.edu
+• Angela White Associate Head Coach / Recruiting Coordinator Angela.White@lmu.edu
+• Jacinda Ramirez Assistant Coach Jacinda.Ramirez@lmu.edu
+• Chloe Curtis Head Coach Chloe.Curtis@lmu.edu
+• John Pickhaver Assistant Coach john.pickhaver@lmu.edu
+• Tom Ronan Assistant Coach tom.ronan@lmu.edu
+• Jason D'Amore Head Coach jason.d'amore@lmu.edu
+• Michael McCabe Associate Head Coach Michael.McCabe@lmu.edu
+• Kyle Schmid Head Coach msoccer@lmu.edu
+• Carlos Aguilar Assistant Coach msoccer@lmu.edu
+• Roberto Loera Assitant Coach lmusoccer@lmu.edu
+• Chris Chamides Head Coach wsoccer@lmu.edu
+• Chelsey Brown Assistant Coach wsoccer@lmu.edu
+• Stephen Merriwether Assistant Coach wsoccer@lmu.edu
+• Tairia Flowers Head Coach softball@lmu.edu
+• Shelby Jeffries Assistant Coach softball@lmu.edu
+• Bianca Mejia Assistant Coach softball@lmu.edu
+• Tom Lloyd Head Coach thomas.lloyd@lmu.edu
+• Alex Moreno Assistant Coach alejandro.morenofigueroa@lmu.edu
+• Agustin Moreno Head Coach agustin.moreno@lmu.edu
+• Becca Weissmann Assistant Coach Rebecca.weissmann@lmu.edu
+• Kolby O'Donnell Head Coach kolby.o'donnell@lmu.edu
+• Jillian Hadder Associate Head Coach jillian.hadder@lmu.edu
+• Chris Seiffert Assistant Coach chris.seiffert@lmu.edu
+• David Carrasco Head Coach David.CarrascoMadridano@lmu.edu
+• Raul Morales Assistant Coach Raul.rossettomorales@lmu.edu
+• Ikaika Aki Head Coach Andrew.aki@lmu.edu
+• Sarah Kreiser Associate Head Coach Sarah.Kreiser@lmu.edu

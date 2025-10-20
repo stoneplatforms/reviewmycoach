@@ -1,0 +1,311 @@
+COACH ENTRIES FOUND - 2025-10-04 18:17:40
+============================================================
+
+Total coaches found: 50
+
+PARSED ENTRIES:
+----------------------------------------
+1. Aylwyn Young
+   Email: aylwyn.youngjr@email.saintleo.edu
+   Username: aylwyn.youngjr
+   Original line: Aylwyn Young Graduate Assistant Coach (352) 588- aylwyn.youngjr@email.saintleo.edu
+
+2. Nick Dittmer
+   Email: nickolas.dittmer@saintleo.edu
+   Username: nickolas.dittmer
+   Original line: Nick Dittmer Graduate Assistant Coach (352) 588- nickolas.dittmer@saintleo.edu
+
+3. Josh Keim
+   Email: joshua.keim@saintleo.edu
+   Username: joshua.keim
+   Original line: Josh Keim Head Coach (352) 588- joshua.keim@saintleo.edu
+
+4. Hunter Keim
+   Email: hunter.keim@saintleo.edu
+   Username: hunter.keim
+   Original line: Hunter Keim Assistant Coach (352) 588- hunter.keim@saintleo.edu
+
+5. Sage Rodefeld
+   Email: sage.rodefeld@saintleo.edu
+   Username: sage.rodefeld
+   Original line: Sage Rodefeld Assistant Coach sage.rodefeld@saintleo.edu
+
+6. Spencer Henke
+   Email: spencer.henke@saintleo.edu
+   Username: spencer.henke
+   Original line: Spencer Henke Head Coach (352) 588- spencer.henke@saintleo.edu HenkeSpencer
+
+7. Drew Hedman
+   Email: andrew.hedman@email.saintleo.edu
+   Username: andrew.hedman
+   Original line: Drew Hedman Assistant Coach (352) 588- andrew.hedman@email.saintleo.edu coachAhedman
+
+8. Elijah Ricketts
+   Email: elijah.ricketts@email.saintleo.edu
+   Username: elijah.ricketts
+   Original line: Elijah Ricketts Assistant Coach (352) 588- elijah.ricketts@email.saintleo.edu
+
+9. Jordan Gill
+   Email: jordan.gill@email.saintleo.edu
+   Username: jordan.gill
+   Original line: Jordan Gill Assistant Coach jordan.gill@email.saintleo.edu
+
+10. Anthony Deleva
+   Email: anthony.deleva@saintleo.edu
+   Username: anthony.deleva
+   Original line: Anthony Deleva Head Coach (954) 864- anthony.deleva@saintleo.edu
+
+11. Chris Greenwood
+   Email: christopher.greenwood@saintleo.edu
+   Username: christopher.greenwood
+   Original line: Chris Greenwood Head Coach (352) 588- christopher.greenwood@saintleo.edu @CoachCGreenwood
+
+12. Brad Jorgensen
+   Email: bradley.jorgensen@saintleo.edu
+   Username: bradley.jorgensen
+   Original line: Brad Jorgensen Head Coach (352) 588- bradley.jorgensen@saintleo.edu @CoachJorgensen
+
+13. Chad Marino
+   Email: chad.marino@saintleo.edu
+   Username: chad.marino
+   Original line: Chad Marino Associate Head Coach (352) 588- chad.marino@saintleo.edu
+
+14. Timothy Roesler
+   Email: timothy.roesler@saintleo.edu
+   Username: timothy.roesler
+   Original line: Timothy Roesler Graduate Assistant Coach (352) 588- timothy.roesler@saintleo.edu
+
+15. Brett Parker
+   Email: brett.parker@saintleo.edu
+   Username: brett.parker
+   Original line: Brett Parker Head Coach (352) 588- brett.parker@saintleo.edu
+
+16. Graham Brown
+   Email: graham.brown@saintleo.edu
+   Username: graham.brown
+   Original line: Graham Brown Assistant Coach (352) 588- graham.brown@saintleo.edu
+
+17. Vincent Montoya
+   Email: vincent.montoya@email.saintleo.edu
+   Username: vincent.montoya
+   Original line: Vincent Montoya Graduate Assistant Coach (352) 588- vincent.montoya@email.saintleo.edu
+
+18. Richard Bryan
+   Email: richard.bryan02@saintleo.edu
+   Username: richard.bryan02
+   Original line: Richard Bryan Assistant Coach richard.bryan02@saintleo.edu
+
+19. Ivan Fernandez
+   Email: ivan.fernandez@saintleo.edu
+   Username: ivan.fernandez
+   Original line: Ivan Fernandez Head Coach (352) 588- ivan.fernandez@saintleo.edu
+
+20. Matheo Coupumoison
+   Email: matheo.coupumoison@email.saintleo.edu
+   Username: matheo.coupumoison
+   Original line: Matheo Coupumoison Graduate Assistant Coach (352) 588- matheo.coupumoison@email.saintleo.edu
+
+21. Nick Spino
+   Email: nicholas.spino@saintleo.edu
+   Username: nicholas.spino
+   Original line: Nick Spino Head Coach (352) 588- nicholas.spino@saintleo.edu
+
+22. Emily Olson
+   Email: emily.olson@saintleo.edu
+   Username: emily.olson
+   Original line: Emily Olson Assistant Coach (352) 588- emily.olson@saintleo.edu
+
+23. Britteny Johnson
+   Email: britteny.johnson@saintleo.edu
+   Username: britteny.johnson
+   Original line: Britteny Johnson Head Coach (352) 588- britteny.johnson@saintleo.edu
+
+24. Elizabeth Farester
+   Email: elizabeth.farester@saintleo.edu
+   Username: elizabeth.farester
+   Original line: Elizabeth Farester Graduate Assistant Coach (352) 588- elizabeth.farester@saintleo.edu
+
+25. Abbie Baker
+   Email: abbie.baker@email.saintleo.edu
+   Username: abbie.baker
+   Original line: Abbie Baker Graduate Assistant Coach (352) 588- abbie.baker@email.saintleo.edu
+
+26. Charles Marshall
+   Email: charles.marshall@saintleo.edu
+   Username: charles.marshall
+   Original line: Charles Marshall Head Coach - Women's Basketball (352) 588- charles.marshall@saintleo.edu
+
+27. Shareka Maner
+   Email: shareka.maner@saintleo.edu
+   Username: shareka.maner
+   Original line: Shareka Maner Assistant Coach (352) 588- shareka.maner@saintleo.edu
+
+28. Natalia Koryzna
+   Email: natalia.koryzna@saintleo.edu
+   Username: natalia.koryzna
+   Original line: Natalia Koryzna Head Coach (631) 903- natalia.koryzna@saintleo.edu
+
+29. Madalyn Richardson
+   Email: madalyn.richardson@email.saintleo.edu
+   Username: madalyn.richardson
+   Original line: Madalyn Richardson Graduate Assistant Coach (352) 588- madalyn.richardson@email.saintleo.edu
+
+30. Anthony Deleva
+   Email: anthony.deleva@saintleo.edu
+   Username: anthony.deleva
+   Original line: Anthony Deleva Head Coach (954) 864- anthony.deleva@saintleo.edu
+
+31. Eli Taliafero
+   Email: eli.taliafero@saintleo.edu
+   Username: eli.taliafero
+   Original line: Eli Taliafero Head Coach - Flag Football (352) 588- eli.taliafero@saintleo.edu
+
+32. Lyndsey Bevill
+   Email: lyndsey.bevill@saintleo.edu
+   Username: lyndsey.bevill
+   Original line: Lyndsey Bevill Head Coach (352) 588- lyndsey.bevill@saintleo.edu @lyndsey_bevill
+
+33. Caitlin Hansen
+   Email: caitlin.hansen@saintleo.edu
+   Username: caitlin.hansen
+   Original line: Caitlin Hansen Head Coach (352) 588- caitlin.hansen@saintleo.edu
+
+34. Fiona McLaughlin
+   Email: fiona.mclaughlin@email.saintleo.edu
+   Username: fiona.mclaughlin
+   Original line: Fiona McLaughlin Graduate Assistant Coach (352) 588- fiona.mclaughlin@email.saintleo.edu
+
+35. Skylar Orlowski
+   Email: skylar.orlowski@email.saintleo.edu
+   Username: skylar.orlowski
+   Original line: Skylar Orlowski Graduate Assistant Coach skylar.orlowski@email.saintleo.edu
+
+36. Joseph Linley
+   Email: joseph.linley@saintleo.edu
+   Username: joseph.linley
+   Original line: Joseph Linley Assistant Coach / Head JV Coach (352) 588- joseph.linley@saintleo.edu
+
+37. Alex Collighan
+   Email: alexandra.colligha@email.saintleo.edu
+   Username: alexandra.colligha
+   Original line: Alex Collighan Assistant Coach (352) 588- alexandra.colligha@email.saintleo.edu
+
+38. Geraldine Alvarez
+   Email: geraldinejulieth.a@email.saintleo.edu
+   Username: geraldinejulieth.a
+   Original line: Geraldine Alvarez Assistant Coach (352) 588- geraldinejulieth.a@email.saintleo.edu
+
+39. Yannis Sapim
+   Email: yannis.sapim@email.saintleo.edu
+   Username: yannis.sapim
+   Original line: Yannis Sapim Assistant Coach (352) 588- yannis.sapim@email.saintleo.edu
+
+40. Erin Kinberger
+   Email: erin.kinberger@saintleo.edu
+   Username: erin.kinberger
+   Original line: Erin Kinberger Head Coach (352) 588- erin.kinberger@saintleo.edu
+
+41. Zack Carver
+   Email: zachary.carver@saintleo.edu
+   Username: zachary.carver
+   Original line: Zack Carver Assistant Coach (352) 588- zachary.carver@saintleo.edu
+
+42. Lexi Carver
+   Email: alexis.carver@saintleo.edu
+   Username: alexis.carver
+   Original line: Lexi Carver Assistant Coach (352) 588- alexis.carver@saintleo.edu
+
+43. Pat Affrunti
+   Email: patrick.affrunti@saintleo.edu
+   Username: patrick.affrunti
+   Original line: Pat Affrunti Assistant Coach (352) 588- patrick.affrunti@saintleo.edu
+
+44. Ivan Fernandez
+   Email: ivan.fernandez@saintleo.edu
+   Username: ivan.fernandez
+   Original line: Ivan Fernandez Head Coach (352) 588- ivan.fernandez@saintleo.edu
+
+45. Juliette Daries
+   Email: juliette.daries@saintleo.edu
+   Username: juliette.daries
+   Original line: Juliette Daries Graduate Assistant Coach (714)-675- juliette.daries@saintleo.edu
+
+46. Nick Spino
+   Email: nicholas.spino@saintleo.edu
+   Username: nicholas.spino
+   Original line: Nick Spino Head Coach (352) 588- nicholas.spino@saintleo.edu
+
+47. Emily Olson
+   Email: emily.olson@saintleo.edu
+   Username: emily.olson
+   Original line: Emily Olson Assistant Coach (352) 588- emily.olson@saintleo.edu
+
+48. Abby Keim
+   Email: abigail.keim@saintleo.edu
+   Username: abigail.keim
+   Original line: Abby Keim Head Coach (352) 588- abigail.keim@saintleo.edu
+
+49. Anna Garrett
+   Email: anna.garrett@email.saintleo.edu
+   Username: anna.garrett
+   Original line: Anna Garrett Graduate Assistant Coach (352) 588- anna.garrett@email.saintleo.edu
+
+50. Tiago Almeida
+   Email: tiagohenrique.frei@email.saintleo.edu
+   Username: tiagohenrique.frei
+   Original line: Tiago Almeida Graduate Assistant Coach (352) 588- tiagohenrique.frei@email.saintleo.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Aylwyn Young Graduate Assistant Coach (352) 588- aylwyn.youngjr@email.saintleo.edu
+• Nick Dittmer Graduate Assistant Coach (352) 588- nickolas.dittmer@saintleo.edu
+• Josh Keim Head Coach (352) 588- joshua.keim@saintleo.edu
+• Hunter Keim Assistant Coach (352) 588- hunter.keim@saintleo.edu
+• Sage Rodefeld Assistant Coach sage.rodefeld@saintleo.edu
+• Spencer Henke Head Coach (352) 588- spencer.henke@saintleo.edu HenkeSpencer
+• Drew Hedman Assistant Coach (352) 588- andrew.hedman@email.saintleo.edu coachAhedman
+• Elijah Ricketts Assistant Coach (352) 588- elijah.ricketts@email.saintleo.edu
+• Jordan Gill Assistant Coach jordan.gill@email.saintleo.edu
+• Anthony Deleva Head Coach (954) 864- anthony.deleva@saintleo.edu
+• Chris Greenwood Head Coach (352) 588- christopher.greenwood@saintleo.edu @CoachCGreenwood
+• Brad Jorgensen Head Coach (352) 588- bradley.jorgensen@saintleo.edu @CoachJorgensen
+• Chad Marino Associate Head Coach (352) 588- chad.marino@saintleo.edu
+• Timothy Roesler Graduate Assistant Coach (352) 588- timothy.roesler@saintleo.edu
+• Brett Parker Head Coach (352) 588- brett.parker@saintleo.edu
+• Graham Brown Assistant Coach (352) 588- graham.brown@saintleo.edu
+• Vincent Montoya Graduate Assistant Coach (352) 588- vincent.montoya@email.saintleo.edu
+• Richard Bryan Assistant Coach richard.bryan02@saintleo.edu
+• Ivan Fernandez Head Coach (352) 588- ivan.fernandez@saintleo.edu
+• Matheo Coupumoison Graduate Assistant Coach (352) 588- matheo.coupumoison@email.saintleo.edu
+• Nick Spino Head Coach (352) 588- nicholas.spino@saintleo.edu
+• Emily Olson Assistant Coach (352) 588- emily.olson@saintleo.edu
+• Britteny Johnson Head Coach (352) 588- britteny.johnson@saintleo.edu
+• Elizabeth Farester Graduate Assistant Coach (352) 588- elizabeth.farester@saintleo.edu
+• Abbie Baker Graduate Assistant Coach (352) 588- abbie.baker@email.saintleo.edu
+• Charles Marshall Head Coach - Women's Basketball (352) 588- charles.marshall@saintleo.edu
+• Shareka Maner Assistant Coach (352) 588- shareka.maner@saintleo.edu
+• Natalia Koryzna Head Coach (631) 903- natalia.koryzna@saintleo.edu
+• Madalyn Richardson Graduate Assistant Coach (352) 588- madalyn.richardson@email.saintleo.edu
+• Anthony Deleva Head Coach (954) 864- anthony.deleva@saintleo.edu
+• Eli Taliafero Head Coach - Flag Football (352) 588- eli.taliafero@saintleo.edu
+• Lyndsey Bevill Head Coach (352) 588- lyndsey.bevill@saintleo.edu @lyndsey_bevill
+• Caitlin Hansen Head Coach (352) 588- caitlin.hansen@saintleo.edu
+• Fiona McLaughlin Graduate Assistant Coach (352) 588- fiona.mclaughlin@email.saintleo.edu
+• Skylar Orlowski Graduate Assistant Coach skylar.orlowski@email.saintleo.edu
+• Joseph Linley Assistant Coach / Head JV Coach (352) 588- joseph.linley@saintleo.edu
+• Alex Collighan Assistant Coach (352) 588- alexandra.colligha@email.saintleo.edu
+• Geraldine Alvarez Assistant Coach (352) 588- geraldinejulieth.a@email.saintleo.edu
+• Yannis Sapim Assistant Coach (352) 588- yannis.sapim@email.saintleo.edu
+• Erin Kinberger Head Coach (352) 588- erin.kinberger@saintleo.edu
+• Zack Carver Assistant Coach (352) 588- zachary.carver@saintleo.edu
+• Lexi Carver Assistant Coach (352) 588- alexis.carver@saintleo.edu
+• Pat Affrunti Assistant Coach (352) 588- patrick.affrunti@saintleo.edu
+• Ivan Fernandez Head Coach (352) 588- ivan.fernandez@saintleo.edu
+• Juliette Daries Graduate Assistant Coach (714)-675- juliette.daries@saintleo.edu
+• Nick Spino Head Coach (352) 588- nicholas.spino@saintleo.edu
+• Emily Olson Assistant Coach (352) 588- emily.olson@saintleo.edu
+• Abby Keim Head Coach (352) 588- abigail.keim@saintleo.edu
+• Anna Garrett Graduate Assistant Coach (352) 588- anna.garrett@email.saintleo.edu
+• Tiago Almeida Graduate Assistant Coach (352) 588- tiagohenrique.frei@email.saintleo.edu

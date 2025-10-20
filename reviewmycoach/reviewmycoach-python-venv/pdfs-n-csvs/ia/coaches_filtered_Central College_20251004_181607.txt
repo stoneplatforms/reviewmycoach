@@ -1,0 +1,277 @@
+COACH ENTRIES FOUND - 2025-10-04 18:16:07
+============================================================
+
+Total coaches found: 44
+
+PARSED ENTRIES:
+----------------------------------------
+1. Adam Carey
+   Email: careya@central.edu
+   Username: careya
+   Original line: Adam Carey Head baseball coach careya@central.edu 641-628-
+
+2. Ian Boline
+   Email: bolinei@central.edu
+   Username: bolinei
+   Original line: Ian Boline Assistant baseball coach bolinei@central.edu 641-628-
+
+3. Jordan Mathewson
+   Email: mathewsonj@central.edu
+   Username: mathewsonj
+   Original line: Jordan Mathewson Assistant baseball coach/admissions counselor mathewsonj@central.edu
+
+4. Conor Riordan
+   Email: riordanc@central.edu
+   Username: riordanc
+   Original line: Conor Riordan Interim men's basketball coach riordanc@central.edu 515-360-
+
+5. Ryan Schmitt
+   Email: schmittr@central.edu
+   Username: schmittr
+   Original line: Ryan Schmitt Assistant men's basketball coach schmittr@central.edu
+
+6. Justin Weiland
+   Email: weilandj@central.edu
+   Username: weilandj
+   Original line: Justin Weiland Head women's basketball coach weilandj@central.edu 641-628-
+
+7. Taryn Barz
+   Email: barzt@central.edu
+   Username: barzt
+   Original line: Taryn Barz Assistant women's basketball coach barzt@central.edu 641-628-
+
+8. Megan Bouska
+   Email: bouskam@central.edu
+   Username: bouskam
+   Original line: Megan Bouska Cheerleading coach bouskam@central.edu
+
+9. Joe Dunham
+   Email: dunhamj@central.edu
+   Username: dunhamj
+   Original line: Joe Dunham Head cross country coach/associate head track dunhamj@central.edu 641-628-
+
+10. Brandon Sturman
+   Email: sturmanb@central.edu
+   Username: sturmanb
+   Original line: Brandon Sturman Head track and field coach/assistant cross sturmanb@central.edu 641-628-
+
+11. Joe Dunham
+   Email: dunhamj@central.edu
+   Username: dunhamj
+   Original line: Joe Dunham Head cross country coach/associate head track dunhamj@central.edu 641-628-
+
+12. Brandon Sturman
+   Email: sturmanb@central.edu
+   Username: sturmanb
+   Original line: Brandon Sturman Head track and field coach/assistant cross sturmanb@central.edu 641-628-
+
+13. Jeff McMartin
+   Email: mcmartinj@central.edu
+   Username: mcmartinj
+   Original line: Jeff McMartin Head football coach mcmartinj@central.edu 641-628-
+
+14. Tim Lydon
+   Email: lydont@central.edu
+   Username: lydont
+   Original line: Tim Lydon Assistant football coach - defensive line lydont@central.edu 641-628-
+
+15. Max Race
+   Email: racem@central.edu
+   Username: racem
+   Phone: 641.628.5615
+   Original line: Max Race Assistant football coach - cornerbacks racem@central.edu 641.628.5615
+
+16. Tanner Schminke
+   Email: schminket@central.edu
+   Username: schminket
+   Phone: 641.628.5590
+   Original line: Tanner Schminke Assistant football coach - wide schminket@central.edu 641.628.5590
+
+17. Drew Sikkink
+   Email: sikkinka@central.edu
+   Username: sikkinka
+   Original line: Drew Sikkink Assistant football coach - offensive sikkinka@central.edu 641-628-
+
+18. Mel Blasi
+   Email: blasim@central.edu
+   Username: blasim
+   Original line: Mel Blasi Head men's golf coach blasim@central.edu 641-628-
+
+19. Mackenzie Biggs
+   Email: biggsm@central.edu
+   Username: biggsm
+   Original line: Mackenzie Biggs Head women's golf coach biggsm@central.edu 641-628-
+
+20. Garry Laidlaw
+   Email: laidlawg@central.edu
+   Username: laidlawg
+   Original line: Garry Laidlaw Head men's soccer coach laidlawg@central.edu 641-628-
+
+21. Pauly Apostolopoulos
+   Email: apostolopoulosp@central.edu
+   Username: apostolopoulosp
+   Original line: Pauly Apostolopoulos Assistant men's soccer coach apostolopoulosp@central.edu 641-628-
+
+22. Mike Kobylinski
+   Email: kobylinskim@central.edu
+   Username: kobylinskim
+   Original line: Mike Kobylinski Head women's soccer coach kobylinskim@central.edu 641-628-
+
+23. Kate Jones
+   Email: joneskai@central.edu
+   Username: joneskai
+   Original line: Kate Jones Assistant women's soccer coach joneskai@central.edu 641-628-
+
+24. Russ Goodman
+   Email: goodmanr@central.edu
+   Username: goodmanr
+   Original line: Russ Goodman Assistant women's soccer coach - goalkeepers goodmanr@central.edu 641-628-
+
+25. George Wares
+   Email: waresg@central.edu
+   Username: waresg
+   Original line: George Wares Head softball coach waresg@central.edu 641-628-
+
+26. Ryun Ferrell
+   Email: ferrellr@central.edu
+   Username: ferrellr
+   Original line: Ryun Ferrell Head tennis coach ferrellr@central.edu 641-628-
+
+27. Ryun Ferrell
+   Email: ferrellr@central.edu
+   Username: ferrellr
+   Original line: Ryun Ferrell Head tennis coach ferrellr@central.edu 641-628-
+
+28. Brandon Sturman
+   Email: sturmanb@central.edu
+   Username: sturmanb
+   Original line: Brandon Sturman Head track and field coach/assistant cross sturmanb@central.edu 641-628-
+
+29. Joe Dunham
+   Email: dunhamj@central.edu
+   Username: dunhamj
+   Original line: Joe Dunham Head cross country coach/associate head track dunhamj@central.edu 641-628-
+
+30. Aaron Fuller
+   Email: fullera@central.edu
+   Username: fullera
+   Original line: Aaron Fuller Assistant track and field coach fullera@central.edu 641-628-
+
+31. Jim Fuller
+   Email: fullerj@central.edu
+   Username: fullerj
+   Original line: Jim Fuller Assistant track and field coach fullerj@central.edu 641-628-
+
+32. Brandon Sturman
+   Email: sturmanb@central.edu
+   Username: sturmanb
+   Original line: Brandon Sturman Head track and field coach/assistant cross sturmanb@central.edu 641-628-
+
+33. Joe Dunham
+   Email: dunhamj@central.edu
+   Username: dunhamj
+   Original line: Joe Dunham Head cross country coach/associate head track dunhamj@central.edu 641-628-
+
+34. Aaron Fuller
+   Email: fullera@central.edu
+   Username: fullera
+   Original line: Aaron Fuller Assistant track and field coach fullera@central.edu 641-628-
+
+35. Jim Fuller
+   Email: fullerj@central.edu
+   Username: fullerj
+   Original line: Jim Fuller Assistant track and field coach fullerj@central.edu 641-628-
+
+36. Jennie Hedrick-Rozenberg
+   Email: hedrickrozenbergj@central.edu
+   Username: hedrickrozenbergj
+   Original line: Jennie Hedrick-Rozenberg Head triathlon coach hedrickrozenbergj@central.edu 641-628-
+
+37. Jeanne Czipri
+   Email: cziprij@central.edu
+   Username: cziprij
+   Original line: Jeanne Czipri Head volleyball coach cziprij@central.edu 641-628-
+
+38. Nicole Murphy
+   Email: murphyn@central.edu
+   Username: murphyn
+   Original line: Nicole Murphy Assistant volleyball coach murphyn@central.edu
+
+39. Landon Williams
+   Email: williamsl@central.edu
+   Username: williamsl
+   Original line: Landon Williams Head men's wrestling coach williamsl@central.edu 641-628-
+
+40. Daniel Radcliffe
+   Email: radcliffed@central.edu
+   Username: radcliffed
+   Original line: Daniel Radcliffe Assistant men's wrestling coach radcliffed@central.edu 641-628-
+
+41. Matt Diehl
+   Email: diehlm@central.edu
+   Username: diehlm
+   Original line: Matt Diehl Assistant men's wrestling coach diehlm@central.edu 641-628-
+
+42. Jaime Miranda
+   Email: mirandaj@central.edu
+   Username: mirandaj
+   Original line: Dr. Jaime Miranda Head women's wrestling coach mirandaj@central.edu 641-628-
+
+43. Matt Sagar
+   Email: sagarm@central.edu
+   Username: sagarm
+   Original line: Matt Sagar Assistant strength and conditioning coach sagarm@central.edu 641-628-
+
+44. Monica Ruiz
+   Email: ruizm@central.edu
+   Username: ruizm
+   Original line: Monica Ruiz Assistant strength and conditioning coach ruizm@central.edu 641-628-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Adam Carey Head baseball coach careya@central.edu 641-628-
+• Ian Boline Assistant baseball coach bolinei@central.edu 641-628-
+• Jordan Mathewson Assistant baseball coach/admissions counselor mathewsonj@central.edu
+• Conor Riordan Interim men's basketball coach riordanc@central.edu 515-360-
+• Ryan Schmitt Assistant men's basketball coach schmittr@central.edu
+• Justin Weiland Head women's basketball coach weilandj@central.edu 641-628-
+• Taryn Barz Assistant women's basketball coach barzt@central.edu 641-628-
+• Megan Bouska Cheerleading coach bouskam@central.edu
+• Joe Dunham Head cross country coach/associate head track dunhamj@central.edu 641-628-
+• Brandon Sturman Head track and field coach/assistant cross sturmanb@central.edu 641-628-
+• Joe Dunham Head cross country coach/associate head track dunhamj@central.edu 641-628-
+• Brandon Sturman Head track and field coach/assistant cross sturmanb@central.edu 641-628-
+• Jeff McMartin Head football coach mcmartinj@central.edu 641-628-
+• Tim Lydon Assistant football coach - defensive line lydont@central.edu 641-628-
+• Max Race Assistant football coach - cornerbacks racem@central.edu 641.628.5615
+• Tanner Schminke Assistant football coach - wide schminket@central.edu 641.628.5590
+• Drew Sikkink Assistant football coach - offensive sikkinka@central.edu 641-628-
+• Mel Blasi Head men's golf coach blasim@central.edu 641-628-
+• Mackenzie Biggs Head women's golf coach biggsm@central.edu 641-628-
+• Garry Laidlaw Head men's soccer coach laidlawg@central.edu 641-628-
+• Pauly Apostolopoulos Assistant men's soccer coach apostolopoulosp@central.edu 641-628-
+• Mike Kobylinski Head women's soccer coach kobylinskim@central.edu 641-628-
+• Kate Jones Assistant women's soccer coach joneskai@central.edu 641-628-
+• Russ Goodman Assistant women's soccer coach - goalkeepers goodmanr@central.edu 641-628-
+• George Wares Head softball coach waresg@central.edu 641-628-
+• Ryun Ferrell Head tennis coach ferrellr@central.edu 641-628-
+• Ryun Ferrell Head tennis coach ferrellr@central.edu 641-628-
+• Brandon Sturman Head track and field coach/assistant cross sturmanb@central.edu 641-628-
+• Joe Dunham Head cross country coach/associate head track dunhamj@central.edu 641-628-
+• Aaron Fuller Assistant track and field coach fullera@central.edu 641-628-
+• Jim Fuller Assistant track and field coach fullerj@central.edu 641-628-
+• Brandon Sturman Head track and field coach/assistant cross sturmanb@central.edu 641-628-
+• Joe Dunham Head cross country coach/associate head track dunhamj@central.edu 641-628-
+• Aaron Fuller Assistant track and field coach fullera@central.edu 641-628-
+• Jim Fuller Assistant track and field coach fullerj@central.edu 641-628-
+• Jennie Hedrick-Rozenberg Head triathlon coach hedrickrozenbergj@central.edu 641-628-
+• Jeanne Czipri Head volleyball coach cziprij@central.edu 641-628-
+• Nicole Murphy Assistant volleyball coach murphyn@central.edu
+• Landon Williams Head men's wrestling coach williamsl@central.edu 641-628-
+• Daniel Radcliffe Assistant men's wrestling coach radcliffed@central.edu 641-628-
+• Matt Diehl Assistant men's wrestling coach diehlm@central.edu 641-628-
+• Dr. Jaime Miranda Head women's wrestling coach mirandaj@central.edu 641-628-
+• Matt Sagar Assistant strength and conditioning coach sagarm@central.edu 641-628-
+• Monica Ruiz Assistant strength and conditioning coach ruizm@central.edu 641-628-

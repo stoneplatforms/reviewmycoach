@@ -1,0 +1,179 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:50
+============================================================
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brendan Murphy
+   Email: bmurphy@sxu.edu
+   Username: bmurphy
+   Original line: Brendan Murphy Head Athletic Performance Coach bmurphy@sxu.edu
+
+2. Jeffery Orluck
+   Email: Orluck@sxu.edu
+   Username: Orluck
+   Original line: Jeffery Orluck Head Dance Coach Orluck@sxu.edu
+
+3. Sitaara Jones
+   Email: sitaarajones@sxu.edu
+   Username: sitaarajones
+   Original line: Sitaara Jones Head Coach sitaarajones@sxu.edu
+
+4. Pat Morrow
+   Email: morrow@sxu.edu
+   Username: morrow
+   Original line: Pat Morrow Interim Head Coach morrow@sxu.edu 773-298-
+
+5. Chandler Kerr
+   Email: ckerr@sxu.edu
+   Username: ckerr
+   Original line: Chandler Kerr Assistant Baseball Coach ckerr@sxu.edu
+
+6. Robert Ford
+   Email: ford@sxu.edu
+   Username: ford
+   Original line: Robert Ford Head Men's Basketball Coach ford@sxu.edu 773-298-
+
+7. Jeff Willis
+   Email: jwillis@sxu.edu
+   Username: jwillis
+   Original line: Jeff Willis Assistant Men's Basketball Coach jwillis@sxu.edu 773-298-
+
+8. Sidney Lovitsch
+   Email: lovitsch@sxu.edu
+   Username: lovitsch
+   Original line: Sidney Lovitsch Head Coach lovitsch@sxu.edu 773-298-
+
+9. Rick Torres
+   Email: enriquetorres@sxu.edu
+   Username: enriquetorres
+   Original line: Rick Torres Head Men & Women's Cross Country Coach | Head Men & Women's Track & enriquetorres@sxu.edu
+
+10. Anthony Kowalczyk
+   Email: kowalczyk@sxu.edu
+   Username: kowalczyk
+   Original line: Anthony Kowalczyk Assistant Men & Women's Cross Country Coach | Assistant Men & Women's kowalczyk@sxu.edu
+
+11. Rick Torres
+   Email: enriquetorres@sxu.edu
+   Username: enriquetorres
+   Original line: Rick Torres Head Men & Women's Cross Country Coach | Head Men & Women's Track & enriquetorres@sxu.edu
+
+12. Anthony Kowalczyk
+   Email: kowalczyk@sxu.edu
+   Username: kowalczyk
+   Original line: Anthony Kowalczyk Assistant Men & Women's Cross Country Coach | Assistant Men & Women's kowalczyk@sxu.edu
+
+13. Mike Feminis
+   Email: feminis@sxu.edu
+   Username: feminis
+   Original line: Mike Feminis Football Coach feminis@sxu.edu 773-298-
+
+14. Ed Vucinic
+   Email: vucinic@sxu.edu
+   Username: vucinic
+   Original line: Ed Vucinic Men's Soccer Coach vucinic@sxu.edu 773-298-
+
+15. Jim Harkness
+   Email: harkness@sxu.edu
+   Username: harkness
+   Original line: Jim Harkness Women's Soccer Coach harkness@sxu.edu
+
+16. Erin Mollohan
+   Email: mollohan@sxu.edu
+   Username: mollohan
+   Original line: Erin Mollohan Head Softball Coach mollohan@sxu.edu 773-298-
+
+17. Meghan Bontrager
+   Email: bontrager@sxu.edu
+   Username: bontrager
+   Original line: Meghan Bontrager Assistant Softball Coach bontrager@sxu.edu
+
+18. Rick Torres
+   Email: enriquetorres@sxu.edu
+   Username: enriquetorres
+   Original line: Rick Torres Head Men & Women's Cross Country Coach | Head Men & Women's Track & enriquetorres@sxu.edu
+
+19. Anthony Kowalczyk
+   Email: kowalczyk@sxu.edu
+   Username: kowalczyk
+   Original line: Anthony Kowalczyk Assistant Men & Women's Cross Country Coach | Assistant Men & Women's kowalczyk@sxu.edu
+
+20. Rick Torres
+   Email: enriquetorres@sxu.edu
+   Username: enriquetorres
+   Original line: Rick Torres Head Men & Women's Cross Country Coach | Head Men & Women's Track & enriquetorres@sxu.edu
+
+21. Anthony Kowalczyk
+   Email: kowalczyk@sxu.edu
+   Username: kowalczyk
+   Original line: Anthony Kowalczyk Assistant Men & Women's Cross Country Coach | Assistant Men & Women's kowalczyk@sxu.edu
+
+22. Tom Ryan
+   Email: tryan@sxu.edu
+   Username: tryan
+   Original line: Tom Ryan Men's Volleyball Head Coach tryan@sxu.edu 773-298-
+
+23. Bob Heersema
+   Email: heersema@sxu.edu
+   Username: heersema
+   Original line: Bob Heersema Head Coach heersema@sxu.edu 773-298-
+
+24. Alan Lynn
+   Email: alynn@sxu.edu
+   Username: alynn
+   Original line: Alan Lynn Men & Women's Golf Head Coach alynn@sxu.edu
+
+25. Alan Lynn
+   Email: alynn@sxu.edu
+   Username: alynn
+   Original line: Alan Lynn Men & Women's Golf Head Coach alynn@sxu.edu
+
+26. Michael Kay
+   Email: kay@sxu.edu
+   Username: kay
+   Original line: Michael Kay Head Men & Women's Bowling Coach kay@sxu.edu 773-298-
+
+27. Michael Kay
+   Email: kay@sxu.edu
+   Username: kay
+   Original line: Michael Kay Head Men & Women's Bowling Coach kay@sxu.edu 773-298-
+
+28. Lemar Daniels
+   Email: cdaniels@sxu.edu
+   Username: cdaniels
+   Original line: Lemar Daniels Head Coach Esports Coach cdaniels@sxu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brendan Murphy Head Athletic Performance Coach bmurphy@sxu.edu
+• Jeffery Orluck Head Dance Coach Orluck@sxu.edu
+• Sitaara Jones Head Coach sitaarajones@sxu.edu
+• Pat Morrow Interim Head Coach morrow@sxu.edu 773-298-
+• Chandler Kerr Assistant Baseball Coach ckerr@sxu.edu
+• Robert Ford Head Men's Basketball Coach ford@sxu.edu 773-298-
+• Jeff Willis Assistant Men's Basketball Coach jwillis@sxu.edu 773-298-
+• Sidney Lovitsch Head Coach lovitsch@sxu.edu 773-298-
+• Rick Torres Head Men & Women's Cross Country Coach | Head Men & Women's Track & enriquetorres@sxu.edu
+• Anthony Kowalczyk Assistant Men & Women's Cross Country Coach | Assistant Men & Women's kowalczyk@sxu.edu
+• Rick Torres Head Men & Women's Cross Country Coach | Head Men & Women's Track & enriquetorres@sxu.edu
+• Anthony Kowalczyk Assistant Men & Women's Cross Country Coach | Assistant Men & Women's kowalczyk@sxu.edu
+• Mike Feminis Football Coach feminis@sxu.edu 773-298-
+• Ed Vucinic Men's Soccer Coach vucinic@sxu.edu 773-298-
+• Jim Harkness Women's Soccer Coach harkness@sxu.edu
+• Erin Mollohan Head Softball Coach mollohan@sxu.edu 773-298-
+• Meghan Bontrager Assistant Softball Coach bontrager@sxu.edu
+• Rick Torres Head Men & Women's Cross Country Coach | Head Men & Women's Track & enriquetorres@sxu.edu
+• Anthony Kowalczyk Assistant Men & Women's Cross Country Coach | Assistant Men & Women's kowalczyk@sxu.edu
+• Rick Torres Head Men & Women's Cross Country Coach | Head Men & Women's Track & enriquetorres@sxu.edu
+• Anthony Kowalczyk Assistant Men & Women's Cross Country Coach | Assistant Men & Women's kowalczyk@sxu.edu
+• Tom Ryan Men's Volleyball Head Coach tryan@sxu.edu 773-298-
+• Bob Heersema Head Coach heersema@sxu.edu 773-298-
+• Alan Lynn Men & Women's Golf Head Coach alynn@sxu.edu
+• Alan Lynn Men & Women's Golf Head Coach alynn@sxu.edu
+• Michael Kay Head Men & Women's Bowling Coach kay@sxu.edu 773-298-
+• Michael Kay Head Men & Women's Bowling Coach kay@sxu.edu 773-298-
+• Lemar Daniels Head Coach Esports Coach cdaniels@sxu.edu

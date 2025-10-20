@@ -1,0 +1,202 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:44
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Stan Bonewitz
+   Email: stan.bonewitz@concordia.edu
+   Username: stan.bonewitz
+   Phone: (512) 313-4504
+   Original line: Stan Bonewitz Associate Director of Athletics / Head Men's Basketball Coach stan.bonewitz@concordia.edu (512) 313-4504
+
+2. Brianna Marstaller
+   Email: brianna.marstaller@concordia.edu
+   Username: brianna.marstaller
+   Phone: (512) 313-4514
+   Original line: Brianna Marstaller Women's Basketball Head Coach / Director of Compliance brianna.marstaller@concordia.edu (512) 313-4514
+
+3. Clint Mokry
+   Email: clint.mokry@concordia.edu
+   Username: clint.mokry
+   Phone: (512) 313-4521
+   Original line: Clint Mokry Head Coach clint.mokry@concordia.edu (512) 313-4521
+
+4. Carlos Perez
+   Email: carlos.perez@concordia.edu
+   Username: carlos.perez
+   Phone: (512) 313-4521
+   Original line: Carlos Perez Assistant Coach carlos.perez@concordia.edu (512) 313-4521
+
+5. Caleb Rodriguez
+   Email: Michael.Rodriguez@concordia.edu
+   Username: Michael.Rodriguez
+   Phone: (512) 313-4521
+   Original line: Caleb Rodriguez Assistant Coach Michael.Rodriguez@concordia.edu (512) 313-4521
+
+6. Stan Bonewitz
+   Email: stan.bonewitz@concordia.edu
+   Username: stan.bonewitz
+   Phone: (512) 313-4504
+   Original line: Stan Bonewitz Associate Director of Athletics / Head Men's Basketball Coach stan.bonewitz@concordia.edu (512) 313-4504
+
+7. Adam Gonzales
+   Email: Adam.gonzales1@concordia.edu
+   Username: Adam.gonzales1
+   Phone: (512) 313-4513
+   Original line: Adam Gonzales Assistant Coach Adam.gonzales1@concordia.edu (512) 313-4513
+
+8. Brianna Marstaller
+   Email: brianna.marstaller@concordia.edu
+   Username: brianna.marstaller
+   Phone: (512) 313-4514
+   Original line: Brianna Marstaller Women's Basketball Head Coach / Director of Compliance brianna.marstaller@concordia.edu (512) 313-4514
+
+9. Amy Farber
+   Email: amy.teal@concordia.edu
+   Username: amy.teal
+   Original line: Amy Farber Teal Head Coach amy.teal@concordia.edu
+
+10. Victoria Becerra
+   Email: victoria.becerra@concordia.edu
+   Username: victoria.becerra
+   Phone: (512) 313-4510
+   Original line: Victoria Becerra Assistant Coach victoria.becerra@concordia.edu (512) 313-4510
+
+11. Dave Sherrill
+   Email: dave.sherrill@concordia.edu
+   Username: dave.sherrill
+   Original line: Dave Sherrill Cross Country Head Coach / Track & Field Head Coach dave.sherrill@concordia.edu
+
+12. Gabe Palomares
+   Email: Gabe.Palomares@concordia.edu
+   Username: Gabe.Palomares
+   Original line: Gabe Palomares Head Coach Gabe.Palomares@concordia.edu
+
+13. Keenan Hughes
+   Email: keenan.hughes@concordia.edu
+   Username: keenan.hughes
+   Original line: Keenan Hughes Head Coach keenan.hughes@concordia.edu
+
+14. Kaden Hughes
+   Email: kaden.hughes@concordia.edu
+   Username: kaden.hughes
+   Original line: Kaden Hughes Assistant Coach kaden.hughes@concordia.edu
+
+15. Steve Landry
+   Email: steve.landry@concordia.edu
+   Username: steve.landry
+   Phone: (512) 313-4075
+   Original line: Steve Landry Head Coach steve.landry@concordia.edu 512-313-4075
+
+16. Jordan Parron
+   Email: jordan.parron@concordia.edu
+   Username: jordan.parron
+   Phone: (512) 313-4053
+   Original line: Jordan Parron Head Coach jordan.parron@concordia.edu (512) 313-4053
+
+17. Russell Gray
+   Email: russell.gray@concordia.edu
+   Username: russell.gray
+   Phone: (512) 313-4053
+   Original line: Russell Gray Assistant Coach russell.gray@concordia.edu (512) 313-4053
+
+18. Casey Tilly
+   Email: Casey.Tilly@ctx.edu
+   Username: Casey.Tilly
+   Original line: Casey Tilly Assistant Coach (Goalkeepers) Casey.Tilly@ctx.edu
+
+19. Andy Tunnicliffe
+   Email: andy.tunnicliffe@concordia.edu
+   Username: andy.tunnicliffe
+   Phone: (512) 313-4508
+   Original line: Andy Tunnicliffe Head Coach andy.tunnicliffe@concordia.edu (512) 313-4508
+
+20. Victoria Smith
+   Email: Victoria.Smith@concordia.edu
+   Username: Victoria.Smith
+   Phone: (512)903-2692
+   Original line: Victoria Smith Volunteer Assistant Coach Victoria.Smith@concordia.edu (512)903-2692
+
+21. Dan Wakeham
+   Email: Daniel.Wakeham@ctx.edu
+   Username: Daniel.Wakeham
+   Original line: Dan Wakeham Assistant Coach Daniel.Wakeham@ctx.edu
+
+22. Jeff Staton
+   Email: Jeff.Staton@concordia.edu
+   Username: Jeff.Staton
+   Phone: (512) 313-4525
+   Original line: Jeff Staton Head Coach Jeff.Staton@concordia.edu (512) 313-4525
+
+23. Haylee Guest
+   Email: haylee.guest@concordia.edu
+   Username: haylee.guest
+   Original line: Haylee Guest Assistant Coach haylee.guest@concordia.edu
+
+24. Jim Martin
+   Email: jim.martin@concordia.edu
+   Username: jim.martin
+   Original line: Jim Martin Assistant Coach jim.martin@concordia.edu
+
+25. Tim Stallard
+   Email: Tim.Stallard@concordia.edu
+   Username: Tim.Stallard
+   Phone: (512) 313-4515
+   Original line: Tim Stallard Head Coach Tim.Stallard@concordia.edu (512) 313-4515
+
+26. Dave Sherrill
+   Email: dave.sherrill@concordia.edu
+   Username: dave.sherrill
+   Original line: Dave Sherrill Cross Country Head Coach / Track & Field Head Coach dave.sherrill@concordia.edu
+
+27. Michael Tinsley
+   Email: michael.tinsley@concordia.edu
+   Username: michael.tinsley
+   Original line: Michael Tinsley Assistant Coach (Sprints/Hurdles) michael.tinsley@concordia.edu
+
+28. Amy Farber
+   Email: amy.teal@concordia.edu
+   Username: amy.teal
+   Original line: Amy Farber Teal Head Coach amy.teal@concordia.edu
+
+29. Victoria Becerra
+   Email: victoria.becerra@concordia.edu
+   Username: victoria.becerra
+   Phone: (512) 313-4510
+   Original line: Victoria Becerra Assistant Coach victoria.becerra@concordia.edu (512) 313-4510
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Stan Bonewitz Associate Director of Athletics / Head Men's Basketball Coach stan.bonewitz@concordia.edu (512) 313-4504
+• Brianna Marstaller Women's Basketball Head Coach / Director of Compliance brianna.marstaller@concordia.edu (512) 313-4514
+• Clint Mokry Head Coach clint.mokry@concordia.edu (512) 313-4521
+• Carlos Perez Assistant Coach carlos.perez@concordia.edu (512) 313-4521
+• Caleb Rodriguez Assistant Coach Michael.Rodriguez@concordia.edu (512) 313-4521
+• Stan Bonewitz Associate Director of Athletics / Head Men's Basketball Coach stan.bonewitz@concordia.edu (512) 313-4504
+• Adam Gonzales Assistant Coach Adam.gonzales1@concordia.edu (512) 313-4513
+• Brianna Marstaller Women's Basketball Head Coach / Director of Compliance brianna.marstaller@concordia.edu (512) 313-4514
+• Amy Farber Teal Head Coach amy.teal@concordia.edu
+• Victoria Becerra Assistant Coach victoria.becerra@concordia.edu (512) 313-4510
+• Dave Sherrill Cross Country Head Coach / Track & Field Head Coach dave.sherrill@concordia.edu
+• Gabe Palomares Head Coach Gabe.Palomares@concordia.edu
+• Keenan Hughes Head Coach keenan.hughes@concordia.edu
+• Kaden Hughes Assistant Coach kaden.hughes@concordia.edu
+• Steve Landry Head Coach steve.landry@concordia.edu 512-313-4075
+• Jordan Parron Head Coach jordan.parron@concordia.edu (512) 313-4053
+• Russell Gray Assistant Coach russell.gray@concordia.edu (512) 313-4053
+• Casey Tilly Assistant Coach (Goalkeepers) Casey.Tilly@ctx.edu
+• Andy Tunnicliffe Head Coach andy.tunnicliffe@concordia.edu (512) 313-4508
+• Victoria Smith Volunteer Assistant Coach Victoria.Smith@concordia.edu (512)903-2692
+• Dan Wakeham Assistant Coach Daniel.Wakeham@ctx.edu
+• Jeff Staton Head Coach Jeff.Staton@concordia.edu (512) 313-4525
+• Haylee Guest Assistant Coach haylee.guest@concordia.edu
+• Jim Martin Assistant Coach jim.martin@concordia.edu
+• Tim Stallard Head Coach Tim.Stallard@concordia.edu (512) 313-4515
+• Dave Sherrill Cross Country Head Coach / Track & Field Head Coach dave.sherrill@concordia.edu
+• Michael Tinsley Assistant Coach (Sprints/Hurdles) michael.tinsley@concordia.edu
+• Amy Farber Teal Head Coach amy.teal@concordia.edu
+• Victoria Becerra Assistant Coach victoria.becerra@concordia.edu (512) 313-4510

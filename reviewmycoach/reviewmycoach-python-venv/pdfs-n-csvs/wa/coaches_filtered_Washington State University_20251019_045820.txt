@@ -1,0 +1,203 @@
+COACH ENTRIES FOUND - 2025-10-19 04:58:20
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Eric Hutting
+   Email: eric.hutting@wsu.edu
+   Username: eric.hutting
+   Original line: Eric Hutting Assistant Coach 509- eric.hutting@wsu.edu @ehutt33
+
+2. Dan Bower
+   Email: daniel.s.bower@wsu.edu
+   Username: daniel.s.bower
+   Original line: Dan Bower Assistant Coach daniel.s.bower@wsu.edu @CoachDanBower
+
+3. David Riley
+   Email: mens_basketball@wsu.edu
+   Username: mens_basketball
+   Original line: David Riley Head Coach mens_basketball@wsu.edu @driley15
+
+4. Donald Brady
+   Email: donald.brady@wsu.edu
+   Username: donald.brady
+   Original line: Donald Brady Assistant Coach donald.brady@wsu.edu @CoachDbrady
+
+5. Jerry Brown
+   Email: jerry.j.brown@wsu.edu
+   Username: jerry.j.brown
+   Original line: Jerry Brown Assistant Coach jerry.j.brown@wsu.edu @CoachJerryBrown
+
+6. Pedro Garcia
+   Email: pedro.garciarosado@wsu.edu
+   Username: pedro.garciarosado
+   Original line: Pedro Garcia Rosado Assistant Coach pedro.garciarosado@wsu.edu @CoachPGR
+
+7. George Galanopoulos
+   Email: george.galanopoulos@wsu.edu
+   Username: george.galanopoulos
+   Original line: George Galanopoulos Assistant Coach george.galanopoulos@wsu.edu
+
+8. Blake Fernandez
+   Email: blake.fernandez@wsu.edu
+   Username: blake.fernandez
+   Original line: Blake Fernandez Chief of Staff blake.fernandez@wsu.edu @CoachBFernandez
+
+9. Jimmy Rogers
+   Email: athletics.football@wsu.edu
+   Username: athletics.football
+   Original line: Jimmy Rogers Head Coach athletics.football@wsu.edu
+
+10. Dustin White
+   Email: dcwhite@wsu.edu
+   Username: dcwhite
+   Original line: Dustin White Head Coach 509- dcwhite@wsu.edu
+
+11. Derek Bayley
+   Email: derek.bayley@wsu.edu
+   Username: derek.bayley
+   Original line: Derek Bayley Assistant Coach derek.bayley@wsu.edu
+
+12. Laurie Koehn
+   Email: laurie.koehn@wsu.edu
+   Username: laurie.koehn
+   Original line: Laurie Koehn Associate Head Coach 509- laurie.koehn@wsu.edu
+
+13. Camille Williams
+   Email: camille.williams@wsu.edu
+   Username: camille.williams
+   Original line: Camille Williams Assistant Coach 509- camille.williams@wsu.edu
+
+14. Matt Smith
+   Email: marvin.smith@wsu.edu
+   Username: marvin.smith
+   Original line: Matt Smith Assistant Coach 509- marvin.smith@wsu.edu
+
+15. Kevin Tucker
+   Email: kevin_tucker@wsu.edu
+   Username: kevin_tucker
+   Original line: Kevin Tucker Head Coach 509- kevin_tucker@wsu.edu
+
+16. Darcy Habgood
+   Email: darcy.habgood@wsu.edu
+   Username: darcy.habgood
+   Original line: Darcy Habgood Assistant Coach darcy.habgood@wsu.edu
+
+17. Jane LaRiviere
+   Email: janela@wsu.edu
+   Username: janela
+   Original line: Jane LaRiviere Head Coach 509- janela@wsu.edu
+
+18. Eliza Dawson
+   Email: eliza.dawson@wsu.edu
+   Username: eliza.dawson
+   Original line: Eliza Dawson Assistant Coach eliza.dawson@wsu.edu
+
+19. Leah Pearman
+   Email: leah.pearman@wsu.edu
+   Username: leah.pearman
+   Original line: Leah Pearman Assistant Coach leah.pearman@wsu.edu
+
+20. Todd Shulenberger
+   Email: todd.shulenberger@wsu.edu
+   Username: todd.shulenberger
+   Original line: Todd Shulenberger Head Coach 509- todd.shulenberger@wsu.edu @TShulenberger
+
+21. Emily Marcouiller
+   Email: emily.marcouiller@wsu.edu
+   Username: emily.marcouiller
+   Original line: Emily Marcouiller Assistant Coach emily.marcouiller@wsu.edu
+
+22. Mason Portalski
+   Email: mason.portalski@wsu.edu
+   Username: mason.portalski
+   Original line: Mason Portalski Assistant Coach mason.portalski@wsu.edu
+
+23. Harold Warren
+   Email: harold.warren@wsu.edu
+   Username: harold.warren
+   Original line: Harold Warren Assistant Coach harold.warren@wsu.edu
+
+24. Russell Whitaker
+   Email: russ.whitaker@wsu.edu
+   Username: russ.whitaker
+   Original line: Russell Whitaker Head Coach 509- russ.whitaker@wsu.edu
+
+25. Austin Pillado
+   Email: austin.pillado@wsu.edu
+   Username: austin.pillado
+   Original line: Austin Pillado Associate Head Coach austin.pillado@wsu.edu
+
+26. Jackie Mudd
+   Email: jaclynn.mudd@wsu.edu
+   Username: jaclynn.mudd
+   Original line: Jackie Mudd Assistant Coach jaclynn.mudd@wsu.edu
+
+27. Josh Graetz
+   Email: joshua.graetz@wsu.edu
+   Username: joshua.graetz
+   Original line: Josh Graetz Head Tennis Coach 509- joshua.graetz@wsu.edu
+
+28. Laura Harmon
+   Email: laura.harmon@wsu.edu
+   Username: laura.harmon
+   Original line: Laura Harmon Head Coach, Women's laura.harmon@wsu.edu
+
+29. Cameron Dean
+   Email: cameron.dean@wsu.edu
+   Username: cameron.dean
+   Original line: Cameron Dean Assistant Coach, Cross cameron.dean@wsu.edu
+
+30. Korey Schroeder
+   Email: korey.schroeder@wsu.edu
+   Username: korey.schroeder
+   Original line: Korey Schroeder Head Coach 509- korey.schroeder@wsu.edu VBCoachKorey
+
+31. Jason Ruppelt
+   Email: jason.ruppelt@wsu.edu
+   Username: jason.ruppelt
+   Original line: Jason Ruppelt Associate Head Coach jason.ruppelt@wsu.edu
+
+32. Kristin Watson
+   Email: kristin.watson@wsu.edu
+   Username: kristin.watson
+   Original line: Kristin Watson Assistant Coach / kristin.watson@wsu.edu @kristinwats
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Eric Hutting Assistant Coach 509- eric.hutting@wsu.edu @ehutt33
+• Dan Bower Assistant Coach daniel.s.bower@wsu.edu @CoachDanBower
+• David Riley Head Coach mens_basketball@wsu.edu @driley15
+• Donald Brady Assistant Coach donald.brady@wsu.edu @CoachDbrady
+• Jerry Brown Assistant Coach jerry.j.brown@wsu.edu @CoachJerryBrown
+• Pedro Garcia Rosado Assistant Coach pedro.garciarosado@wsu.edu @CoachPGR
+• George Galanopoulos Assistant Coach george.galanopoulos@wsu.edu
+• Blake Fernandez Chief of Staff blake.fernandez@wsu.edu @CoachBFernandez
+• Jimmy Rogers Head Coach athletics.football@wsu.edu
+• Dustin White Head Coach 509- dcwhite@wsu.edu
+• Derek Bayley Assistant Coach derek.bayley@wsu.edu
+• Laurie Koehn Associate Head Coach 509- laurie.koehn@wsu.edu
+• Camille Williams Assistant Coach 509- camille.williams@wsu.edu
+• Matt Smith Assistant Coach 509- marvin.smith@wsu.edu
+• Kevin Tucker Head Coach 509- kevin_tucker@wsu.edu
+• Darcy Habgood Assistant Coach darcy.habgood@wsu.edu
+• Jane LaRiviere Head Coach 509- janela@wsu.edu
+• Eliza Dawson Assistant Coach eliza.dawson@wsu.edu
+• Leah Pearman Assistant Coach leah.pearman@wsu.edu
+• Todd Shulenberger Head Coach 509- todd.shulenberger@wsu.edu @TShulenberger
+• Emily Marcouiller Assistant Coach emily.marcouiller@wsu.edu
+• Mason Portalski Assistant Coach mason.portalski@wsu.edu
+• Harold Warren Assistant Coach harold.warren@wsu.edu
+• Russell Whitaker Head Coach 509- russ.whitaker@wsu.edu
+• Austin Pillado Associate Head Coach austin.pillado@wsu.edu
+• Jackie Mudd Assistant Coach jaclynn.mudd@wsu.edu
+• Josh Graetz Head Tennis Coach 509- joshua.graetz@wsu.edu
+• Laura Harmon Head Coach, Women's laura.harmon@wsu.edu
+• Cameron Dean Assistant Coach, Cross cameron.dean@wsu.edu
+• Korey Schroeder Head Coach 509- korey.schroeder@wsu.edu VBCoachKorey
+• Jason Ruppelt Associate Head Coach jason.ruppelt@wsu.edu
+• Kristin Watson Assistant Coach / kristin.watson@wsu.edu @kristinwats

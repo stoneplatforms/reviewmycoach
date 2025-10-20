@@ -1,0 +1,323 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:06
+============================================================
+
+Total coaches found: 52
+
+PARSED ENTRIES:
+----------------------------------------
+1. Lauren Tepedino
+   Email: bucscheer@csuniv.edu
+   Username: bucscheer
+   Original line: Lauren Tepedino Volunteer Assistant Dance Coach bucscheer@csuniv.edu
+
+2. Sydney Phillips
+   Email: bucscheer@csuniv.edu
+   Username: bucscheer
+   Original line: Sydney Phillips Volunteer Assistant Cheer Coach bucscheer@csuniv.edu
+
+3. Hannah Hansen
+   Email: bucscheer@csuniv.edu
+   Username: bucscheer
+   Original line: Hannah Hansen Volunteer Assistant Dance Coach bucscheer@csuniv.edu
+
+4. Karl Kuhn
+   Email: csubsb@csuniv.edu
+   Username: csubsb
+   Original line: Karl Kuhn Head Coach csubsb@csuniv.edu
+
+5. Brett Young
+   Email: byoung@csuniv.edu
+   Username: byoung
+   Original line: Brett Young Assistant Coach byoung@csuniv.edu (843) 863-
+
+6. Kirby McGuire
+   Email: kmcguire@csuniv.edu
+   Username: kmcguire
+   Original line: Kirby McGuire Assistant Coach kmcguire@csuniv.edu (843) 863-
+
+7. Kyle Sarazin
+   Email: ksarazin@csuniv.edu
+   Username: ksarazin
+   Original line: Kyle Sarazin PT Assistant Coach ksarazin@csuniv.edu
+
+8. Zack Johnson
+   Email: jzjohnson@csuniv.edu
+   Username: jzjohnson
+   Original line: Zack Johnson Assistant Coach (Linebackers) jzjohnson@csuniv.edu (843) 863-
+
+9. Mike Welch
+   Email: mwelch@csuniv.edu
+   Username: mwelch
+   Original line: Mike Welch Assistant Coach (Defensive Line) mwelch@csuniv.edu (843) 863-
+
+10. Tyler Bell
+   Email: tbell@csuniv.edu
+   Username: tbell
+   Original line: Tyler Bell Assistant Coach (Running Backs) tbell@csuniv.edu (843) 863-
+
+11. Vince Giardina
+   Email: vgiardina@csuniv.edu
+   Username: vgiardina
+   Original line: Vince Giardina Assistant Coach (Wide Receivers/Recruiting Coordinator) vgiardina@csuniv.edu (843) 863-
+
+12. Maurice Duncan
+   Email: mduncan@csuniv.edu
+   Username: mduncan
+   Original line: Maurice Duncan Assistant Coach (Secondary) mduncan@csuniv.edu (843) 863-
+
+13. Landon Martin
+   Email: lmartin@csuniv.edu
+   Username: lmartin
+   Original line: Landon Martin Assistant Coach (Offensive Line) lmartin@csuniv.edu (843) 863-
+
+14. Mike Edwards
+   Email: medwards@csuniv.edu
+   Username: medwards
+   Original line: Mike Edwards PT Assistant Coach (Corners) medwards@csuniv.edu
+
+15. Braxton Chadwick
+   Email: bchadwick@csuniv.edu
+   Username: bchadwick
+   Original line: Braxton Chadwick Director of Football Operations / Assistant Coach bchadwick@csuniv.edu (843) 863-
+
+16. Saah Nimley
+   Email: snimley@csuniv.edu
+   Username: snimley
+   Original line: Saah Nimley Head Coach snimley@csuniv.edu (843) 863-
+
+17. Mike Howland
+   Email: mhowland@csuniv.edu
+   Username: mhowland
+   Original line: Mike Howland Associate Head Coach mhowland@csuniv.edu
+
+18. Trey Johnson
+   Email: jljohnson@csuniv.edu
+   Username: jljohnson
+   Original line: Trey Johnson Assistant Coach/Recruiting Coordinator jljohnson@csuniv.edu
+
+19. Nate Louis
+   Email: nlouis@csuniv.edu
+   Username: nlouis
+   Original line: Nate Louis Assistant Coach nlouis@csuniv.edu (843) 863-
+
+20. Michael Ervin
+   Email: mervin@csuniv.edu
+   Username: mervin
+   Original line: Michael Ervin Director of Basketball Operations/Assistant Coach mervin@csuniv.edu
+
+21. Johnny Anderson
+   Email: jmanderson@student.csuniv.edu
+   Username: jmanderson
+   Original line: Johnny Anderson Graduate Assistant Coach jmanderson@student.csuniv.edu
+
+22. Jamal Edmonson
+   Email: jjedmonson@student.csuniv.edu
+   Username: jjedmonson
+   Original line: Jamal Edmonson Graduate Assistant Coach jjedmonson@student.csuniv.edu
+
+23. Scooter Clark
+   Email: lclark@csuniv.edu
+   Username: lclark
+   Original line: Scooter Clark Head Golf Coach lclark@csuniv.edu (843) 863-
+
+24. Logan Miyamoto
+   Email: lmiyamoto@csuniv.edu
+   Username: lmiyamoto
+   Original line: Logan Miyamoto Assistant Coach lmiyamoto@csuniv.edu
+
+25. Victoria Morelli
+   Email: mvmorelli@student.csuniv.edu
+   Username: mvmorelli
+   Original line: Victoria Morelli Graduate Assistant Coach mvmorelli@student.csuniv.edu
+
+26. Brandon Blanton
+   Email: bblanton@csuniv.edu
+   Username: bblanton
+   Original line: Brandon Blanton Assistant Track & Field Coach bblanton@csuniv.edu (843) 863-
+
+27. Karl Thiessen
+   Email: kthiessen@csuniv.edu
+   Username: kthiessen
+   Original line: Karl Thiessen Assistant Track & Field/Cross Country Coach kthiessen@csuniv.edu
+
+28. Karl Thiessen
+   Email: kthiessen@csuniv.edu
+   Username: kthiessen
+   Original line: Karl Thiessen Assistant Track & Field/Cross Country Coach kthiessen@csuniv.edu
+
+29. Christi Musser
+   Email: cmusser@csuniv.edu
+   Username: cmusser
+   Original line: Christi Musser Head Softball Coach cmusser@csuniv.edu (843) 863-
+
+30. Mya Stevenson
+   Email: mstevenson@csuniv.edu
+   Username: mstevenson
+   Original line: Mya Stevenson Assistant Coach mstevenson@csuniv.edu (843) 863-
+
+31. Dariana Orme
+   Email: dorme@csuniv.edu
+   Username: dorme
+   Original line: Dariana Orme Assistant Coach dorme@csuniv.edu (843) 863-
+
+32. Clarisse White
+   Email: cgarcia@csuniv.edu
+   Username: cgarcia
+   Original line: Clarisse White Head Women's Basketball Coach cgarcia@csuniv.edu (843) 863-
+
+33. Ashley Reddick
+   Email: ajones@csuniv.edu
+   Username: ajones
+   Original line: Ashley Reddick Associate Head Coach/Recruiting Coordinator ajones@csuniv.edu (843) 863-
+
+34. Cortez Mitchell
+   Email: cmitchell@csuniv.edu
+   Username: cmitchell
+   Original line: Cortez Mitchell Assistant Coach cmitchell@csuniv.edu
+
+35. Amir Gilliam
+   Email: agilliam@csuniv.edu
+   Username: agilliam
+   Original line: Amir Gilliam Assistant Coach agilliam@csuniv.edu
+
+36. Lauren Bevis
+   Email: lbevis@csuniv.edu
+   Username: lbevis
+   Original line: Lauren Bevis Assistant Coach/Director of Basketball Operations lbevis@csuniv.edu
+
+37. Kendall McGruder
+   Email: kamcgruder@student.csuniv.edu
+   Username: kamcgruder
+   Original line: Kendall McGruder Graduate Assistant Coach kamcgruder@student.csuniv.edu
+
+38. Scooter Clark
+   Email: lclark@csuniv.edu
+   Username: lclark
+   Original line: Scooter Clark Head Golf Coach lclark@csuniv.edu (843) 863-
+
+39. Logan Miyamoto
+   Email: lmiyamoto@csuniv.edu
+   Username: lmiyamoto
+   Original line: Logan Miyamoto Assistant Coach lmiyamoto@csuniv.edu
+
+40. Victoria Morelli
+   Email: mvmorelli@student.csuniv.edu
+   Username: mvmorelli
+   Original line: Victoria Morelli Graduate Assistant Coach mvmorelli@student.csuniv.edu
+
+41. Jose Gomez
+   Email: jgomez@csuniv.edu
+   Username: jgomez
+   Original line: Dr. Jose Gomez Head Coach jgomez@csuniv.edu (843) 863-
+
+42. Kelly Coster
+   Email: kcoster@csuniv.edu
+   Username: kcoster
+   Original line: Kelly Coster Assistant Coach kcoster@csuniv.edu (843) 863-
+
+43. Isaac Arco
+   Email: iarco@csuniv.edu
+   Username: iarco
+   Original line: Isaac Arco Volunteer Assistant Coach iarco@csuniv.edu
+
+44. Anca Dumitrescu
+   Email: adumitrescu@csuniv.edu
+   Username: adumitrescu
+   Original line: Anca Dumitrescu Head Tennis Coach adumitrescu@csuniv.edu (843) 863-
+
+45. Amila Jusufbegovic
+   Email: ajusufbegovic@student.csuniv.edu
+   Username: ajusufbegovic
+   Original line: Amila Jusufbegovic Graduate Assistant Coach ajusufbegovic@student.csuniv.edu
+
+46. Karl Thiessen
+   Email: kthiessen@csuniv.edu
+   Username: kthiessen
+   Original line: Karl Thiessen Assistant Track & Field/Cross Country Coach kthiessen@csuniv.edu
+
+47. Soyini Thompson
+   Email: sthompson@csuniv.edu
+   Username: sthompson
+   Original line: Soyini Thompson Head Coach sthompson@csuniv.edu (843) 863-
+
+48. Brandon Blanton
+   Email: bblanton@csuniv.edu
+   Username: bblanton
+   Original line: Brandon Blanton Assistant Track & Field Coach bblanton@csuniv.edu (843) 863-
+
+49. Karl Thiessen
+   Email: kthiessen@csuniv.edu
+   Username: kthiessen
+   Original line: Karl Thiessen Assistant Track & Field/Cross Country Coach kthiessen@csuniv.edu
+
+50. Carry Brown
+   Email: cbrown@csuniv.edu
+   Username: cbrown
+   Original line: Carry Brown Head Volleyball Coach cbrown@csuniv.edu (843) 863-
+
+51. Emilie Selvidge
+   Email: eselvidge@csuniv.edu
+   Username: eselvidge
+   Original line: Emilie Selvidge Assistant Coach/Recruiting Coordinator eselvidge@csuniv.edu (843) 863-
+
+52. Kacper Dobrowolski
+   Email: kdobrowolski@student.csuniv.edu
+   Username: kdobrowolski
+   Original line: Kacper Dobrowolski Graduate Assistant Coach kdobrowolski@student.csuniv.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Lauren Tepedino Volunteer Assistant Dance Coach bucscheer@csuniv.edu
+• Sydney Phillips Volunteer Assistant Cheer Coach bucscheer@csuniv.edu
+• Hannah Hansen Volunteer Assistant Dance Coach bucscheer@csuniv.edu
+• Karl Kuhn Head Coach csubsb@csuniv.edu
+• Brett Young Assistant Coach byoung@csuniv.edu (843) 863-
+• Kirby McGuire Assistant Coach kmcguire@csuniv.edu (843) 863-
+• Kyle Sarazin PT Assistant Coach ksarazin@csuniv.edu
+• Zack Johnson Assistant Coach (Linebackers) jzjohnson@csuniv.edu (843) 863-
+• Mike Welch Assistant Coach (Defensive Line) mwelch@csuniv.edu (843) 863-
+• Tyler Bell Assistant Coach (Running Backs) tbell@csuniv.edu (843) 863-
+• Vince Giardina Assistant Coach (Wide Receivers/Recruiting Coordinator) vgiardina@csuniv.edu (843) 863-
+• Maurice Duncan Assistant Coach (Secondary) mduncan@csuniv.edu (843) 863-
+• Landon Martin Assistant Coach (Offensive Line) lmartin@csuniv.edu (843) 863-
+• Mike Edwards PT Assistant Coach (Corners) medwards@csuniv.edu
+• Braxton Chadwick Director of Football Operations / Assistant Coach bchadwick@csuniv.edu (843) 863-
+• Saah Nimley Head Coach snimley@csuniv.edu (843) 863-
+• Mike Howland Associate Head Coach mhowland@csuniv.edu
+• Trey Johnson Assistant Coach/Recruiting Coordinator jljohnson@csuniv.edu
+• Nate Louis Assistant Coach nlouis@csuniv.edu (843) 863-
+• Michael Ervin Director of Basketball Operations/Assistant Coach mervin@csuniv.edu
+• Johnny Anderson Graduate Assistant Coach jmanderson@student.csuniv.edu
+• Jamal Edmonson Graduate Assistant Coach jjedmonson@student.csuniv.edu
+• Scooter Clark Head Golf Coach lclark@csuniv.edu (843) 863-
+• Logan Miyamoto Assistant Coach lmiyamoto@csuniv.edu
+• Victoria Morelli Graduate Assistant Coach mvmorelli@student.csuniv.edu
+• Brandon Blanton Assistant Track & Field Coach bblanton@csuniv.edu (843) 863-
+• Karl Thiessen Assistant Track & Field/Cross Country Coach kthiessen@csuniv.edu
+• Karl Thiessen Assistant Track & Field/Cross Country Coach kthiessen@csuniv.edu
+• Christi Musser Head Softball Coach cmusser@csuniv.edu (843) 863-
+• Mya Stevenson Assistant Coach mstevenson@csuniv.edu (843) 863-
+• Dariana Orme Assistant Coach dorme@csuniv.edu (843) 863-
+• Clarisse White Head Women's Basketball Coach cgarcia@csuniv.edu (843) 863-
+• Ashley Reddick Associate Head Coach/Recruiting Coordinator ajones@csuniv.edu (843) 863-
+• Cortez Mitchell Assistant Coach cmitchell@csuniv.edu
+• Amir Gilliam Assistant Coach agilliam@csuniv.edu
+• Lauren Bevis Assistant Coach/Director of Basketball Operations lbevis@csuniv.edu
+• Kendall McGruder Graduate Assistant Coach kamcgruder@student.csuniv.edu
+• Scooter Clark Head Golf Coach lclark@csuniv.edu (843) 863-
+• Logan Miyamoto Assistant Coach lmiyamoto@csuniv.edu
+• Victoria Morelli Graduate Assistant Coach mvmorelli@student.csuniv.edu
+• Dr. Jose Gomez Head Coach jgomez@csuniv.edu (843) 863-
+• Kelly Coster Assistant Coach kcoster@csuniv.edu (843) 863-
+• Isaac Arco Volunteer Assistant Coach iarco@csuniv.edu
+• Anca Dumitrescu Head Tennis Coach adumitrescu@csuniv.edu (843) 863-
+• Amila Jusufbegovic Graduate Assistant Coach ajusufbegovic@student.csuniv.edu
+• Karl Thiessen Assistant Track & Field/Cross Country Coach kthiessen@csuniv.edu
+• Soyini Thompson Head Coach sthompson@csuniv.edu (843) 863-
+• Brandon Blanton Assistant Track & Field Coach bblanton@csuniv.edu (843) 863-
+• Karl Thiessen Assistant Track & Field/Cross Country Coach kthiessen@csuniv.edu
+• Carry Brown Head Volleyball Coach cbrown@csuniv.edu (843) 863-
+• Emilie Selvidge Assistant Coach/Recruiting Coordinator eselvidge@csuniv.edu (843) 863-
+• Kacper Dobrowolski Graduate Assistant Coach kdobrowolski@student.csuniv.edu

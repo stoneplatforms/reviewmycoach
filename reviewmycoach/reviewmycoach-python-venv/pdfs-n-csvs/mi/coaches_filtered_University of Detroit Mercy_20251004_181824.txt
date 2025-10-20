@@ -1,0 +1,167 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:24
+============================================================
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Logan Gibson
+   Email: gibsonlt1@udmercy.edu
+   Username: gibsonlt1
+   Original line: Logan Gibson Assistant Strength & Conditioning Coach 313-657- gibsonlt1@udmercy.edu
+
+2. Lamar Chapman
+   Email: chapmalt1@udmercy.edu
+   Username: chapmalt1
+   Original line: Lamar Chapman Assistant Men's Basketball Coach chapmalt1@udmercy.edu
+
+3. Mike Peck
+   Email: peckml@udmercy.edu
+   Username: peckml
+   Original line: Mike Peck Assistant Men's Basketball Coach 313-859- peckml@udmercy.edu @CoachMikePeck
+
+4. LaMonta Stone
+   Email: stonela@udmercy.edu
+   Username: stonela
+   Original line: LaMonta Stone Assistant Men's Basketball Coach 313-859- stonela@udmercy.edu @lamontastone
+
+5. Collyn Richardson
+   Email: crichar@udmercy.edu
+   Username: crichar
+   Original line: Collyn Richardson Assistant Men's Basketball Coach/Video 313-859- crichar@udmercy.edu @CoachCollyn
+
+6. Juanita Cochran
+   Email: cochrajl@udmercy.edu
+   Username: cochrajl
+   Original line: Juanita Cochran Assistant Women's Basketball Coach & cochrajl@udmercy.edu @CoachJuanitaC
+
+7. Antonio Capaldi
+   Email: capaldaj@udmercy.edu
+   Username: capaldaj
+   Original line: Antonio Capaldi Assistant Women's Basketball Coach 313-614- capaldaj@udmercy.edu @CoachTone__
+
+8. Kevin Mondro
+   Email: mondrokj@udmercy.edu
+   Username: mondrokj
+   Original line: Kevin Mondro '97 Assistant Women's Basketball Coach 734-642- mondrokj@udmercy.edu
+
+9. Michael Ramlow
+   Email: ramlowmi@udmercy.edu
+   Username: ramlowmi
+   Original line: Michael Ramlow Head Men's & Women's Fencing Coach 989-859- ramlowmi@udmercy.edu
+
+10. Charlie Hayes
+   Email: hayesca@udmercy.edu
+   Username: hayesca
+   Original line: Charlie Hayes '18 Head Men's Lacrosse Coach 586-255- hayesca@udmercy.edu charliehayes17
+
+11. Tyler Hart
+   Email: hartta@udmercy.edu
+   Username: hartta
+   Original line: Tyler Hart '23 Assistant Men's Lacrosse Coach 248-821- hartta@udmercy.edu
+
+12. Zach Palmer
+   Email: palmerzw@udmercy.edu
+   Username: palmerzw
+   Original line: Zach Palmer Assistant Men's Lacrosse Coach palmerzw@udmercy.edu
+
+13. Emma Kuehl
+   Email: kuehlek@udmercy.edu
+   Username: kuehlek
+   Original line: Emma Kuehl Head Women's Lacrosse Coach kuehlek@udmercy.edu
+
+14. Nate Kopunek
+   Email: kopunent@udmercy.edu
+   Username: kopunent
+   Original line: Nate Kopunek Men's Soccer Head Coach 313-682- kopunent@udmercy.edu @NateKopunek
+
+15. Zane Polack
+   Email: broadwzn@udmercy.edu
+   Username: broadwzn
+   Original line: Zane Polack Men's Soccer Assistant Coach broadwzn@udmercy.edu
+
+16. Alex Diac
+   Email: diacam@udmercy.edu
+   Username: diacam
+   Original line: Alex Diac '25 Men's Soccer Graduate Assistant Coach diacam@udmercy.edu
+
+17. Steve Shelton
+   Email: sheltosf@udmercy.edu
+   Username: sheltosf
+   Original line: Steve Shelton Head Women's Soccer Coach 313-657- sheltosf@udmercy.edu @Coach_Shelton_
+
+18. Emma Voelker
+   Email: voelkeel@udmercy.edu
+   Username: voelkeel
+   Original line: Emma Voelker Women's Soccer Assistant Coach voelkeel@udmercy.edu
+
+19. Dan Vitale
+   Email: vitaledc@udmercy.edu
+   Username: vitaledc
+   Original line: Dan Vitale Head Softball Coach 248-207- vitaledc@udmercy.edu
+
+20. Taylor Moceri
+   Email: moceritj@udmercy.edu
+   Username: moceritj
+   Original line: Taylor Moceri Softball Assistant Coach 586-872- moceritj@udmercy.edu
+
+21. Rob Ward
+   Email: Ward.udmercy@outlook.com
+   Username: Ward.udmercy
+   Original line: Rob Ward Softball Assistant Coach/Hitting (586) 864- Ward.udmercy@outlook.com
+
+22. Christina Skalsky
+   Email: cskalsk@udmercy.edu
+   Username: cskalsk
+   Original line: Christina Skalsky Softball Assistant Coach/Pitching cskalsk@udmercy.edu
+
+23. Dani Keighley
+   Email: keighlda@udmercy.edu
+   Username: keighlda
+   Original line: Dani Keighley Softball Graduate Assistant Coach keighlda@udmercy.edu
+
+24. Calvin Johnson
+   Email: johnsoc23@udmercy.edu
+   Username: johnsoc23
+   Original line: Calvin Johnson Assistant Track & Field Coach/Recruiting 313-595- johnsoc23@udmercy.edu
+
+25. Jenn Muszynski
+   Email: muszynjm@udmercy.edu
+   Username: muszynjm
+   Original line: Jenn Muszynski '09 Head Cheerleading Coach 586-944- muszynjm@udmercy.edu
+
+26. Jocelyn Sinke
+   Email: jocelynsweeney385@gmail.com
+   Username: jocelynsweeney385
+   Original line: Jocelyn Sinke Head Dance Coach jocelynsweeney385@gmail.com
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Logan Gibson Assistant Strength & Conditioning Coach 313-657- gibsonlt1@udmercy.edu
+• Lamar Chapman Assistant Men's Basketball Coach chapmalt1@udmercy.edu
+• Mike Peck Assistant Men's Basketball Coach 313-859- peckml@udmercy.edu @CoachMikePeck
+• LaMonta Stone Assistant Men's Basketball Coach 313-859- stonela@udmercy.edu @lamontastone
+• Collyn Richardson Assistant Men's Basketball Coach/Video 313-859- crichar@udmercy.edu @CoachCollyn
+• Juanita Cochran Assistant Women's Basketball Coach & cochrajl@udmercy.edu @CoachJuanitaC
+• Antonio Capaldi Assistant Women's Basketball Coach 313-614- capaldaj@udmercy.edu @CoachTone__
+• Kevin Mondro '97 Assistant Women's Basketball Coach 734-642- mondrokj@udmercy.edu
+• Michael Ramlow Head Men's & Women's Fencing Coach 989-859- ramlowmi@udmercy.edu
+• Charlie Hayes '18 Head Men's Lacrosse Coach 586-255- hayesca@udmercy.edu charliehayes17
+• Tyler Hart '23 Assistant Men's Lacrosse Coach 248-821- hartta@udmercy.edu
+• Zach Palmer Assistant Men's Lacrosse Coach palmerzw@udmercy.edu
+• Emma Kuehl Head Women's Lacrosse Coach kuehlek@udmercy.edu
+• Nate Kopunek Men's Soccer Head Coach 313-682- kopunent@udmercy.edu @NateKopunek
+• Zane Polack Men's Soccer Assistant Coach broadwzn@udmercy.edu
+• Alex Diac '25 Men's Soccer Graduate Assistant Coach diacam@udmercy.edu
+• Steve Shelton Head Women's Soccer Coach 313-657- sheltosf@udmercy.edu @Coach_Shelton_
+• Emma Voelker Women's Soccer Assistant Coach voelkeel@udmercy.edu
+• Dan Vitale Head Softball Coach 248-207- vitaledc@udmercy.edu
+• Taylor Moceri Softball Assistant Coach 586-872- moceritj@udmercy.edu
+• Rob Ward Softball Assistant Coach/Hitting (586) 864- Ward.udmercy@outlook.com
+• Christina Skalsky Softball Assistant Coach/Pitching cskalsk@udmercy.edu
+• Dani Keighley Softball Graduate Assistant Coach keighlda@udmercy.edu
+• Calvin Johnson Assistant Track & Field Coach/Recruiting 313-595- johnsoc23@udmercy.edu
+• Jenn Muszynski '09 Head Cheerleading Coach 586-944- muszynjm@udmercy.edu
+• Jocelyn Sinke Head Dance Coach jocelynsweeney385@gmail.com

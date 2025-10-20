@@ -1,0 +1,383 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:21
+============================================================
+
+Total coaches found: 62
+
+PARSED ENTRIES:
+----------------------------------------
+1. Melissa Schwab
+   Email: melissa.schwab@elmhurst.edu
+   Username: melissa.schwab
+   Original line: Melissa Schwab Student-Athlete Success Coach melissa.schwab@elmhurst.edu 630-617-
+
+2. Joe Heller
+   Email: joe.heller@elmhurst.edu
+   Username: joe.heller
+   Original line: Joe Heller Head Baseball Coach joe.heller@elmhurst.edu
+
+3. Cori Herbert
+   Email: cori.herbert@elmhurst.edu
+   Username: cori.herbert
+   Original line: Cori Herbert Assistant Baseball Coach cori.herbert@elmhurst.edu
+
+4. Nick Heiden
+   Email: nick.heiden@elmhurst.edu
+   Username: nick.heiden
+   Original line: Nick Heiden Assistant Baseball Coach nick.heiden@elmhurst.edu
+
+5. Rob Marinec
+   Email: rob.marinec@elmhurst.edu
+   Username: rob.marinec
+   Original line: Rob Marinec Assistant Baseball Coach rob.marinec@elmhurst.edu
+
+6. John Baines
+   Email: john.baines@elmhurst.edu
+   Username: john.baines
+   Original line: John Baines Head Men's Basketball Coach john.baines@elmhurst.edu 630-617-
+
+7. John Cheng
+   Email: john.cheng@elmhurst.edu
+   Username: john.cheng
+   Original line: John Cheng Associate Head Men's Basketball Coach john.cheng@elmhurst.edu 630-617-
+
+8. Melissa Schwab
+   Email: melissa.schwab@elmhurst.edu
+   Username: melissa.schwab
+   Original line: Melissa Schwab Assistant Men's Basketball Coach melissa.schwab@elmhurst.edu
+
+9. Shane Miller
+   Email: smill0341@365.elmhurst.edu
+   Username: smill0341
+   Original line: Shane Miller Graduate Assistant Men's Basketball Coach smill0341@365.elmhurst.edu
+
+10. Cameron Tucker
+   Email: cameron.tucker@elmhurst.edu
+   Username: cameron.tucker
+   Original line: Cameron Tucker Head Women's Basketball Coach cameron.tucker@elmhurst.edu 630-617-
+
+11. Maia Marshall
+   Email: maia.marshall@elmhurst.edu
+   Username: maia.marshall
+   Original line: Maia Marshall Assistant Women's Basketball Coach maia.marshall@elmhurst.edu
+
+12. Morgan Frank
+   Email: mfran8652@365.elmhurst.edu
+   Username: mfran8652
+   Original line: Morgan Frank Graduate Assistant Women's Basketball Coach mfran8652@365.elmhurst.edu
+
+13. Torrie Bartalone
+   Email: torrie.bartalone@elmhurst.edu
+   Username: torrie.bartalone
+   Original line: Torrie Bartalone Head Bowling Coach torrie.bartalone@elmhurst.edu 419-605-
+
+14. Kyle Flores
+   Email: kyle.flores@elmhurst.edu
+   Username: kyle.flores
+   Original line: Kyle Flores Associate Head Cross Country/Assistant Track and Field Coach kyle.flores@elmhurst.edu
+
+15. Matt Gibson
+   Email: matthew.gibson@elmhurst.edu
+   Username: matthew.gibson
+   Original line: Matt Gibson Assistant Coach (Strength) matthew.gibson@elmhurst.edu
+
+16. Joey Barber
+   Email: jbarb7158@365.elmhurst.edu
+   Username: jbarb7158
+   Original line: Joey Barber Graduate Assistant Track & Field Coach (Men's Distance) jbarb7158@365.elmhurst.edu
+
+17. Mike Gille
+   Email: mgill0281@365.elmhurst.edu
+   Username: mgill0281
+   Original line: Mike Gille Graduate Assistant Track and Field & Cross Country Coach mgill0281@365.elmhurst.edu
+
+18. Kyle Flores
+   Email: kyle.flores@elmhurst.edu
+   Username: kyle.flores
+   Original line: Kyle Flores Associate Head Cross Country/Assistant Track and Field Coach kyle.flores@elmhurst.edu
+
+19. Matt Gibson
+   Email: matthew.gibson@elmhurst.edu
+   Username: matthew.gibson
+   Original line: Matt Gibson Assistant Coach (Strength) matthew.gibson@elmhurst.edu
+
+20. Mike Gille
+   Email: mgill0281@365.elmhurst.edu
+   Username: mgill0281
+   Original line: Mike Gille Graduate Assistant Track and Field & Cross Country Coach mgill0281@365.elmhurst.edu
+
+21. Mike Heffernan
+   Email: michael.heffernan@elmhurst.edu
+   Username: michael.heffernan
+   Original line: Mike Heffernan Head Football Coach michael.heffernan@elmhurst.edu 630-617-
+
+22. Jake Tahaney
+   Email: jake.tahaney@elmhurst.edu
+   Username: jake.tahaney
+   Original line: Jake Tahaney Assistant Football Coach (Offensive jake.tahaney@elmhurst.edu
+
+23. Kenny Treschitta
+   Email: kenneth.treschitta@elmhurst.edu
+   Username: kenneth.treschitta
+   Original line: Kenny Treschitta Assistant Football Coach (Defensive Coordinator/Defensive Backs) kenneth.treschitta@elmhurst.edu
+
+24. Cameron Celetti
+   Email: cameron.celetti@elmhurst.edu
+   Username: cameron.celetti
+   Original line: Cameron Celetti Assistant Football Coach (Special Teams Coordinator/Strength and cameron.celetti@elmhurst.edu
+
+25. Colin Madison
+   Email: colin.madison@elmhurst.edu
+   Username: colin.madison
+   Original line: Colin Madison Assistant Football Coach (Offensive Line) colin.madison@elmhurst.edu
+
+26. James Kenneally
+   Email: james.kenneally@elmhurst.edu
+   Username: james.kenneally
+   Original line: James Kenneally Assistant Football Coach (Outside Linebackers) james.kenneally@elmhurst.edu
+
+27. Marcus Dunnigan
+   Email: marcus.dunnigan@elmhurst.edu
+   Username: marcus.dunnigan
+   Original line: Marcus Dunnigan Assistant Football Coach (Wide Recievers) marcus.dunnigan@elmhurst.edu
+
+28. Jason Suerth
+   Email: jason.suerth@elmhurst.edu
+   Username: jason.suerth
+   Original line: Jason Suerth Head Men's Golf Coach jason.suerth@elmhurst.edu
+
+29. John Baines
+   Email: john.baines@elmhurst.edu
+   Username: john.baines
+   Original line: John Baines Assistant Men's Golf Coach john.baines@elmhurst.edu 630-617-
+
+30. Melissa Schwab
+   Email: melissa.schwab@elmhurst.edu
+   Username: melissa.schwab
+   Original line: Melissa Schwab Head Women's Golf Coach melissa.schwab@elmhurst.edu 630-617-
+
+31. Mike Gruber
+   Email: michael.gruber@elmhurst.edu
+   Username: michael.gruber
+   Original line: Mike Gruber Assistant Women's Golf Coach michael.gruber@elmhurst.edu
+
+32. Mark Morrell
+   Email: mark.morrell@elmhurst.edu
+   Username: mark.morrell
+   Original line: Mark Morrell Head Men's Lacrosse Coach mark.morrell@elmhurst.edu 630-617-
+
+33. David Castaneda
+   Email: dcast8330@365.elmhurst.edu
+   Username: dcast8330
+   Original line: David Castaneda Assistant Men's Lacrosse Coach dcast8330@365.elmhurst.edu
+
+34. Ethan Stepanek
+   Email: ethan.stepanek@elmhurst.edu
+   Username: ethan.stepanek
+   Original line: Ethan Stepanek Graduate Assistant Men's Lacrosse Coach ethan.stepanek@elmhurst.edu
+
+35. Sloane Baumgartner
+   Email: sloane.baumgartner@elmhurst.edu
+   Username: sloane.baumgartner
+   Original line: Sloane Baumgartner Head Women's Lacrosse Coach sloane.baumgartner@elmhurst.edu
+
+36. Sanj Jones
+   Email: cassandra.jones@elmhurst.edu
+   Username: cassandra.jones
+   Original line: Sanj Jones Assistant Women's Lacrosse Coach cassandra.jones@elmhurst.edu
+
+37. Abbey Triebe
+   Email: atrie7219@365.elmhurst.edu
+   Username: atrie7219
+   Original line: Abbey Triebe Graduate Assistant Women's Lacrosse Coach atrie7219@365.elmhurst.edu
+
+38. Tim Dean
+   Email: tim.dean@elmhurst.edu
+   Username: tim.dean
+   Original line: Tim Dean Head Men's Soccer Coach tim.dean@elmhurst.edu 630-617-
+
+39. Daniel Radeljic
+   Email: daniel.radeljic@elmhurst.edu
+   Username: daniel.radeljic
+   Original line: Daniel Radeljic Assistant Men's Soccer Coach daniel.radeljic@elmhurst.edu
+
+40. Joseph Lovric
+   Email: jlovr0772@365.elmhurst.edu
+   Username: jlovr0772
+   Original line: Joseph Lovric Graduate Assistant Men's Soccer Coach/Recruiting Coordinator jlovr0772@365.elmhurst.edu
+
+41. Susie McCreery
+   Email: susan.foster@elmhurst.edu
+   Username: susan.foster
+   Original line: Susie McCreery Foster Head Women's Soccer Coach susan.foster@elmhurst.edu
+
+42. Cesar Gomez
+   Email: cesar.gomez@elmhurst.edu
+   Username: cesar.gomez
+   Original line: Cesar Gomez Assistant Women's Soccer Coach cesar.gomez@elmhurst.edu
+
+43. Luke Weaver
+   Email: luke.weaver@elmhurst.edu
+   Username: luke.weaver
+   Original line: Luke Weaver Assistant Women's Soccer Coach luke.weaver@elmhurst.edu
+
+44. Tracie Adix-Zins
+   Email: tracie.adix-zins@elmhurst.edu
+   Username: tracie.adix-zins
+   Original line: Tracie Adix-Zins Head Softball Coach tracie.adix-zins@elmhurst.edu
+
+45. Riley Pool
+   Email: riley.pool@elmhurst.edu
+   Username: riley.pool
+   Original line: Riley Pool Graduate Assistant Softball Coach riley.pool@elmhurst.edu
+
+46. Kyle Flores
+   Email: kyle.flores@elmhurst.edu
+   Username: kyle.flores
+   Original line: Kyle Flores Associate Head Cross Country/Assistant Track and Field Coach kyle.flores@elmhurst.edu
+
+47. Matt Gibson
+   Email: matthew.gibson@elmhurst.edu
+   Username: matthew.gibson
+   Original line: Matt Gibson Assistant Track & Field Coach (Pole Vault) matthew.gibson@elmhurst.edu
+
+48. Joey Barber
+   Email: jbarb7158@365.elmhurst.edu
+   Username: jbarb7158
+   Original line: Joey Barber Graduate Assistant Track & Field Coach (Men's Distance) jbarb7158@365.elmhurst.edu
+
+49. Mike Gille
+   Email: mgill0281@365.elmhurst.edu
+   Username: mgill0281
+   Original line: Mike Gille Graduate Assistant Track and Field & Cross Country Coach mgill0281@365.elmhurst.edu
+
+50. Jim Warren
+   Email: james.warren@elmhurst.edu
+   Username: james.warren
+   Original line: Jim Warren Assistant Track & Field Coach james.warren@elmhurst.edu
+
+51. Kyle Flores
+   Email: kyle.flores@elmhurst.edu
+   Username: kyle.flores
+   Original line: Kyle Flores Associate Head Cross Country/Assistant Track and Field Coach kyle.flores@elmhurst.edu
+
+52. Matt Gibson
+   Email: matthew.gibson@elmhurst.edu
+   Username: matthew.gibson
+   Original line: Matt Gibson Assistant Track & Field Coach (Pole Vault) matthew.gibson@elmhurst.edu
+
+53. Mike Gille
+   Email: mgill0281@365.elmhurst.edu
+   Username: mgill0281
+   Original line: Mike Gille Graduate Assistant Track and Field & Cross Country Coach mgill0281@365.elmhurst.edu
+
+54. Jim Warren
+   Email: james.warren@elmhurst.edu
+   Username: james.warren
+   Original line: Jim Warren Assistant Track & Field Coach james.warren@elmhurst.edu
+
+55. Cameron Andrew
+   Email: cameron.andrew@elmhurst.edu
+   Username: cameron.andrew
+   Original line: Cameron Andrew Head Women's Volleyball Coach cameron.andrew@elmhurst.edu 630-617-
+
+56. Allie Scales
+   Email: allison.scales@elmhurst.edu
+   Username: allison.scales
+   Original line: Allie Scales Assistant Women's Volleyball Coach allison.scales@elmhurst.edu
+
+57. Lacey Kaiser
+   Email: lkais0032@365.elmhurst.edu
+   Username: lkais0032
+   Original line: Lacey Kaiser Graduate Assistant Women's Volleyball Coach lkais0032@365.elmhurst.edu
+
+58. Steve Marianetti
+   Email: stevem@elmhurst.edu
+   Username: stevem
+   Original line: Steve Marianetti Head Men's Wrestling Coach stevem@elmhurst.edu 630-617-
+
+59. Kevin Sliva
+   Email: kevin.sliva@elmhurst.edu
+   Username: kevin.sliva
+   Original line: Kevin Sliva Assistant Men's Wrestling Coach kevin.sliva@elmhurst.edu
+
+60. Joey Bianchini
+   Email: jbian4403@365.elmhurst.edu
+   Username: jbian4403
+   Original line: Joey Bianchini Graduate Assistant Men's Wrestling Coach jbian4403@365.elmhurst.edu
+
+61. Andrew Demos
+   Email: andrew.demos@elmhurst.edu
+   Username: andrew.demos
+   Original line: Andrew Demos Head Women's Wrestling Coach andrew.demos@elmhurst.edu 630-617-
+
+62. Amanda McAleavey
+   Email: amcal8363@365.elmhurst.edu
+   Username: amcal8363
+   Original line: Amanda McAleavey Graduate Assistant Women's Wrestling Coach amcal8363@365.elmhurst.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Melissa Schwab Student-Athlete Success Coach melissa.schwab@elmhurst.edu 630-617-
+• Joe Heller Head Baseball Coach joe.heller@elmhurst.edu
+• Cori Herbert Assistant Baseball Coach cori.herbert@elmhurst.edu
+• Nick Heiden Assistant Baseball Coach nick.heiden@elmhurst.edu
+• Rob Marinec Assistant Baseball Coach rob.marinec@elmhurst.edu
+• John Baines Head Men's Basketball Coach john.baines@elmhurst.edu 630-617-
+• John Cheng Associate Head Men's Basketball Coach john.cheng@elmhurst.edu 630-617-
+• Melissa Schwab Assistant Men's Basketball Coach melissa.schwab@elmhurst.edu
+• Shane Miller Graduate Assistant Men's Basketball Coach smill0341@365.elmhurst.edu
+• Cameron Tucker Head Women's Basketball Coach cameron.tucker@elmhurst.edu 630-617-
+• Maia Marshall Assistant Women's Basketball Coach maia.marshall@elmhurst.edu
+• Morgan Frank Graduate Assistant Women's Basketball Coach mfran8652@365.elmhurst.edu
+• Torrie Bartalone Head Bowling Coach torrie.bartalone@elmhurst.edu 419-605-
+• Kyle Flores Associate Head Cross Country/Assistant Track and Field Coach kyle.flores@elmhurst.edu
+• Matt Gibson Assistant Coach (Strength) matthew.gibson@elmhurst.edu
+• Joey Barber Graduate Assistant Track & Field Coach (Men's Distance) jbarb7158@365.elmhurst.edu
+• Mike Gille Graduate Assistant Track and Field & Cross Country Coach mgill0281@365.elmhurst.edu
+• Kyle Flores Associate Head Cross Country/Assistant Track and Field Coach kyle.flores@elmhurst.edu
+• Matt Gibson Assistant Coach (Strength) matthew.gibson@elmhurst.edu
+• Mike Gille Graduate Assistant Track and Field & Cross Country Coach mgill0281@365.elmhurst.edu
+• Mike Heffernan Head Football Coach michael.heffernan@elmhurst.edu 630-617-
+• Jake Tahaney Assistant Football Coach (Offensive jake.tahaney@elmhurst.edu
+• Kenny Treschitta Assistant Football Coach (Defensive Coordinator/Defensive Backs) kenneth.treschitta@elmhurst.edu
+• Cameron Celetti Assistant Football Coach (Special Teams Coordinator/Strength and cameron.celetti@elmhurst.edu
+• Colin Madison Assistant Football Coach (Offensive Line) colin.madison@elmhurst.edu
+• James Kenneally Assistant Football Coach (Outside Linebackers) james.kenneally@elmhurst.edu
+• Marcus Dunnigan Assistant Football Coach (Wide Recievers) marcus.dunnigan@elmhurst.edu
+• Jason Suerth Head Men's Golf Coach jason.suerth@elmhurst.edu
+• John Baines Assistant Men's Golf Coach john.baines@elmhurst.edu 630-617-
+• Melissa Schwab Head Women's Golf Coach melissa.schwab@elmhurst.edu 630-617-
+• Mike Gruber Assistant Women's Golf Coach michael.gruber@elmhurst.edu
+• Mark Morrell Head Men's Lacrosse Coach mark.morrell@elmhurst.edu 630-617-
+• David Castaneda Assistant Men's Lacrosse Coach dcast8330@365.elmhurst.edu
+• Ethan Stepanek Graduate Assistant Men's Lacrosse Coach ethan.stepanek@elmhurst.edu
+• Sloane Baumgartner Head Women's Lacrosse Coach sloane.baumgartner@elmhurst.edu
+• Sanj Jones Assistant Women's Lacrosse Coach cassandra.jones@elmhurst.edu
+• Abbey Triebe Graduate Assistant Women's Lacrosse Coach atrie7219@365.elmhurst.edu
+• Tim Dean Head Men's Soccer Coach tim.dean@elmhurst.edu 630-617-
+• Daniel Radeljic Assistant Men's Soccer Coach daniel.radeljic@elmhurst.edu
+• Joseph Lovric Graduate Assistant Men's Soccer Coach/Recruiting Coordinator jlovr0772@365.elmhurst.edu
+• Susie McCreery Foster Head Women's Soccer Coach susan.foster@elmhurst.edu
+• Cesar Gomez Assistant Women's Soccer Coach cesar.gomez@elmhurst.edu
+• Luke Weaver Assistant Women's Soccer Coach luke.weaver@elmhurst.edu
+• Tracie Adix-Zins Head Softball Coach tracie.adix-zins@elmhurst.edu
+• Riley Pool Graduate Assistant Softball Coach riley.pool@elmhurst.edu
+• Kyle Flores Associate Head Cross Country/Assistant Track and Field Coach kyle.flores@elmhurst.edu
+• Matt Gibson Assistant Track & Field Coach (Pole Vault) matthew.gibson@elmhurst.edu
+• Joey Barber Graduate Assistant Track & Field Coach (Men's Distance) jbarb7158@365.elmhurst.edu
+• Mike Gille Graduate Assistant Track and Field & Cross Country Coach mgill0281@365.elmhurst.edu
+• Jim Warren Assistant Track & Field Coach james.warren@elmhurst.edu
+• Kyle Flores Associate Head Cross Country/Assistant Track and Field Coach kyle.flores@elmhurst.edu
+• Matt Gibson Assistant Track & Field Coach (Pole Vault) matthew.gibson@elmhurst.edu
+• Mike Gille Graduate Assistant Track and Field & Cross Country Coach mgill0281@365.elmhurst.edu
+• Jim Warren Assistant Track & Field Coach james.warren@elmhurst.edu
+• Cameron Andrew Head Women's Volleyball Coach cameron.andrew@elmhurst.edu 630-617-
+• Allie Scales Assistant Women's Volleyball Coach allison.scales@elmhurst.edu
+• Lacey Kaiser Graduate Assistant Women's Volleyball Coach lkais0032@365.elmhurst.edu
+• Steve Marianetti Head Men's Wrestling Coach stevem@elmhurst.edu 630-617-
+• Kevin Sliva Assistant Men's Wrestling Coach kevin.sliva@elmhurst.edu
+• Joey Bianchini Graduate Assistant Men's Wrestling Coach jbian4403@365.elmhurst.edu
+• Andrew Demos Head Women's Wrestling Coach andrew.demos@elmhurst.edu 630-617-
+• Amanda McAleavey Graduate Assistant Women's Wrestling Coach amcal8363@365.elmhurst.edu

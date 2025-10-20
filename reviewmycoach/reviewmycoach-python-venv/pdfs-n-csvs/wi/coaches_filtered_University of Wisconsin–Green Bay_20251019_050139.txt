@@ -1,0 +1,191 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:39
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Breanna Greetan
+   Email: conardb@uwgb.edu
+   Username: conardb
+   Original line: Breanna Greetan Cheerleading Coach conardb@uwgb.edu
+
+2. Ryan Immel
+   Email: immelr@uwgb.edu
+   Username: immelr
+   Original line: Ryan Immel Head Strength & Conditioning Coach 5157 immelr@uwgb.edu
+
+3. Chris Rice
+   Email: ricec@uwgb.edu
+   Username: ricec
+   Original line: Chris Rice Head Strength Coach 5157 ricec@uwgb.edu
+
+4. Keil Ganz
+   Email: ganzk@uwgb.edu
+   Username: ganzk
+   Original line: Keil Ganz Assistant Coach ganzk@uwgb.edu
+
+5. Kerry Rupp
+   Email: ruppk@uwgb.edu
+   Username: ruppk
+   Original line: Kerry Rupp Assistant Coach ruppk@uwgb.edu
+
+6. Aerick Sanders
+   Email: sandersa@uwgb.edu
+   Username: sandersa
+   Original line: Aerick Sanders Assistant Coach sandersa@uwgb.edu
+
+7. Jerry Smith
+   Email: smithjer@uwgb.edu
+   Username: smithjer
+   Original line: Jerry Smith Assistant Coach smithjer@uwgb.edu
+
+8. Andy Ground
+   Email: groundm@uwgb.edu
+   Username: groundm
+   Original line: Andy Ground Assistant to the Head Coach groundm@uwgb.edu
+
+9. Kate Peterson
+   Email: petersok@uwgb.edu
+   Username: petersok
+   Original line: Kate Peterson Abiad Assistant Coach petersok@uwgb.edu
+
+10. Sarah Bronk
+   Email: bronks@uwgb.edu
+   Username: bronks
+   Original line: Sarah Bronk Assistant Coach bronks@uwgb.edu
+
+11. Patrick Bowlin
+   Email: bowlinp@uwgb.edu
+   Username: bowlinp
+   Original line: Patrick Bowlin Assistant Coach bowlinp@uwgb.edu
+
+12. Shay Frederick
+   Email: frederis@uwgb.edu
+   Username: frederis
+   Original line: Shay Frederick Assistant Coach frederis@uwgb.edu
+
+13. Jasmine Kondrakiewicz
+   Email: kondrakj@uwgb.edu
+   Username: kondrakj
+   Original line: Jasmine Kondrakiewicz Assistant Coach/Director of Basketball Operations kondrakj@uwgb.edu
+
+14. Mike Kline
+   Email: klinem@uwgb.edu
+   Username: klinem
+   Original line: Mike Kline Head Coach klinem@uwgb.edu
+
+15. Nate Vandervest
+   Email: vandervn@uwgb.edu
+   Username: vandervn
+   Original line: Nate Vandervest Assistant Coach vandervn@uwgb.edu
+
+16. Lee Reinke
+   Email: reinkel@uwgb.edu
+   Username: reinkel
+   Original line: Lee Reinke Head Coach reinkel@uwgb.edu
+
+17. Rick Warpinski
+   Email: warpinsr@uwgb.edu
+   Username: warpinsr
+   Original line: Rick Warpinski Assistant Golf Coach warpinsr@uwgb.edu
+
+18. Sam Myers
+   Email: myerss@uwgb.edu
+   Username: myerss
+   Original line: Sam Myers Head Coach myerss@uwgb.edu
+
+19. Kyle Ihn
+   Email: ihnk@uwgb.edu
+   Username: ihnk
+   Original line: Kyle Ihn Assistant Coach ihnk@uwgb.edu
+
+20. Matt Kagan
+   Email: kaganm@uwgb.edu
+   Username: kaganm
+   Original line: Matt Kagan Head Coach kaganm@uwgb.edu
+
+21. Josh Davis
+   Email: davisj@uwgb.edu
+   Username: davisj
+   Original line: Josh Davis Assistant Coach davisj@uwgb.edu
+
+22. Sara Kubuske
+   Email: kubuskes@uwgb.edu
+   Username: kubuskes
+   Original line: Sara Kubuske Head Coach kubuskes@uwgb.edu
+
+23. Brittany Baneck
+   Email: baneckb@uwgb.edu
+   Username: baneckb
+   Original line: Brittany Baneck Assistant Coach baneckb@uwgb.edu
+
+24. Alex Lewis
+   Email: lewisal@uwgb.edu
+   Username: lewisal
+   Original line: Alex Lewis Head Coach lewisal@uwgb.edu
+
+25. Grace Morgan
+   Email: morgang@uwgb.edu
+   Username: morgang
+   Original line: Grace Morgan Assistant Coach morgang@uwgb.edu
+
+26. Maureen Lewis
+   Email: lewism@uwgb.edu
+   Username: lewism
+   Original line: Maureen Lewis Diving Coach lewism@uwgb.edu
+
+27. Marjia Dodik
+   Email: dodim08@uwgb.edu
+   Username: dodim08
+   Original line: Marjia Dodik Graduate Assistant Coach dodim08@uwgb.edu
+
+28. Abbey Sutherland
+   Email: sutherla@uwgb.edu
+   Username: sutherla
+   Original line: Abbey Sutherland Head Coach sutherla@uwgb.edu
+
+29. Shannon Coughlin
+   Email: coughlis@uwgb.edu
+   Username: coughlis
+   Original line: Shannon Coughlin Assistant Coach coughlis@uwgb.edu
+
+30. Jim Dwyer
+   Email: dwyerj@uwgb.edu
+   Username: dwyerj
+   Original line: Jim Dwyer Assistant Coach dwyerj@uwgb.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Breanna Greetan Cheerleading Coach conardb@uwgb.edu
+• Ryan Immel Head Strength & Conditioning Coach 5157 immelr@uwgb.edu
+• Chris Rice Head Strength Coach 5157 ricec@uwgb.edu
+• Keil Ganz Assistant Coach ganzk@uwgb.edu
+• Kerry Rupp Assistant Coach ruppk@uwgb.edu
+• Aerick Sanders Assistant Coach sandersa@uwgb.edu
+• Jerry Smith Assistant Coach smithjer@uwgb.edu
+• Andy Ground Assistant to the Head Coach groundm@uwgb.edu
+• Kate Peterson Abiad Assistant Coach petersok@uwgb.edu
+• Sarah Bronk Assistant Coach bronks@uwgb.edu
+• Patrick Bowlin Assistant Coach bowlinp@uwgb.edu
+• Shay Frederick Assistant Coach frederis@uwgb.edu
+• Jasmine Kondrakiewicz Assistant Coach/Director of Basketball Operations kondrakj@uwgb.edu
+• Mike Kline Head Coach klinem@uwgb.edu
+• Nate Vandervest Assistant Coach vandervn@uwgb.edu
+• Lee Reinke Head Coach reinkel@uwgb.edu
+• Rick Warpinski Assistant Golf Coach warpinsr@uwgb.edu
+• Sam Myers Head Coach myerss@uwgb.edu
+• Kyle Ihn Assistant Coach ihnk@uwgb.edu
+• Matt Kagan Head Coach kaganm@uwgb.edu
+• Josh Davis Assistant Coach davisj@uwgb.edu
+• Sara Kubuske Head Coach kubuskes@uwgb.edu
+• Brittany Baneck Assistant Coach baneckb@uwgb.edu
+• Alex Lewis Head Coach lewisal@uwgb.edu
+• Grace Morgan Assistant Coach morgang@uwgb.edu
+• Maureen Lewis Diving Coach lewism@uwgb.edu
+• Marjia Dodik Graduate Assistant Coach dodim08@uwgb.edu
+• Abbey Sutherland Head Coach sutherla@uwgb.edu
+• Shannon Coughlin Assistant Coach coughlis@uwgb.edu
+• Jim Dwyer Assistant Coach dwyerj@uwgb.edu

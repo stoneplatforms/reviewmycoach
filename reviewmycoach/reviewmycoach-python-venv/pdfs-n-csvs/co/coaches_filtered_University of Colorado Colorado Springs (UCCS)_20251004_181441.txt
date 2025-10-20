@@ -1,0 +1,161 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:42
+============================================================
+
+Total coaches found: 25
+
+PARSED ENTRIES:
+----------------------------------------
+1. Isabella Lopez
+   Email: ilopez6@uccs.edu
+   Username: ilopez6
+   Original line: Isabella Lopez Athletic Trainer/Strength & Conditioning Coach (M. Soccer, M. ilopez6@uccs.edu
+
+2. Dave Hajek
+   Email: dhajek@uccs.edu
+   Username: dhajek
+   Original line: Dave Hajek Head Baseball Coach dhajek@uccs.edu
+
+3. Jeff Culver
+   Email: jculver@uccs.edu
+   Username: jculver
+   Original line: Jeff Culver Head Men's Basketball Coach jculver@uccs.edu
+
+4. Elijah Ross
+   Email: eross2@uccs.edu
+   Username: eross2
+   Original line: Elijah Ross Assistant Men's Basketball Coach eross2@uccs.edu
+
+5. Mark Misch
+   Email: mmisch@uccs.edu
+   Username: mmisch
+   Original line: Mark Misch Head Men's Cross Country Coach/Assistant Track & Field Coach mmisch@uccs.edu
+
+6. Lewis Wilcox
+   Email: lwilcox2@uccs.edu
+   Username: lwilcox2
+   Original line: Lewis Wilcox Head Men's Soccer Coach lwilcox2@uccs.edu
+
+7. Keith Buderus
+   Email: kbuderus@uccs.edu
+   Username: kbuderus
+   Original line: Keith Buderus Associate Head Men's Soccer Coach kbuderus@uccs.edu
+
+8. Ross Fellows
+   Email: rfellows@uccs.edu
+   Username: rfellows
+   Original line: Ross Fellows Head Track & Field Coach rfellows@uccs.edu (308) 224-
+
+9. Mark Misch
+   Email: mmisch@uccs.edu
+   Username: mmisch
+   Original line: Mark Misch Head Men's Cross Country Coach/Assistant Track & Field Coach mmisch@uccs.edu
+
+10. Keith Vance
+   Email: kvance@uccs.edu
+   Username: kvance
+   Original line: Keith Vance Assistant Track & Field Coach (Throws) kvance@uccs.edu
+
+11. Jessica Withrow
+   Email: jwithrow@uccs.edu
+   Username: jwithrow
+   Original line: Jessica Withrow Assistant Track & Field Coach (Hurdles, High Jump, Multis) jwithrow@uccs.edu
+
+12. Dwight Sanders
+   Email: dsander5@uccs.edu
+   Username: dsander5
+   Original line: Dwight Sanders Head Softball Coach dsander5@uccs.edu
+
+13. Renae Koppenhafer
+   Email: rkoppen2@uccs.edu
+   Username: rkoppen2
+   Original line: Renae Koppenhafer Assistant Softball Coach rkoppen2@uccs.edu
+
+14. Tara Hittle
+   Email: thittle2@uccs.edu
+   Username: thittle2
+   Original line: Tara Hittle Head Volleyball Coach thittle2@uccs.edu
+
+15. Lauren Bowers
+   Email: lbowers3@uccs.edu
+   Username: lbowers3
+   Original line: Lauren Bowers Assistant Volleyball Coach lbowers3@uccs.edu
+
+16. Misty Wilson
+   Email: mwilso11@uccs.edu
+   Username: mwilso11
+   Original line: Misty Wilson Head Women's Basketball Coach mwilso11@uccs.edu
+
+17. Nic Cantrell
+   Email: ncantrel@uccs.edu
+   Username: ncantrel
+   Original line: Nic Cantrell Assistant Women's Basketball Coach ncantrel@uccs.edu
+
+18. Corey Kubatzky
+   Email: ckubatzk@uccs.edu
+   Username: ckubatzk
+   Original line: Corey Kubatzky Head Women's Cross Country / Assistant Track & Field Coach ckubatzk@uccs.edu
+
+19. Brice Queener
+   Email: bqueener@uccs.edu
+   Username: bqueener
+   Original line: Brice Queener Head Women's Lacrosse Coach bqueener@uccs.edu
+
+20. J. B.
+   Email: jbelzer@uccs.edu
+   Username: jbelzer
+   Original line: J. B. Belzer Head Women's Soccer Coach jbelzer@uccs.edu
+
+21. Justin Stones
+   Email: jstones@uccs.edu
+   Username: jstones
+   Original line: Justin Stones Associate Head Women's Soccer Coach jstones@uccs.edu
+
+22. Ross Fellows
+   Email: rfellows@uccs.edu
+   Username: rfellows
+   Original line: Ross Fellows Head Track & Field Coach rfellows@uccs.edu (308) 224-
+
+23. Corey Kubatzky
+   Email: ckubatzk@uccs.edu
+   Username: ckubatzk
+   Original line: Corey Kubatzky Head Women's Cross Country / Assistant Track & Field Coach ckubatzk@uccs.edu
+
+24. Keith Vance
+   Email: kvance@uccs.edu
+   Username: kvance
+   Original line: Keith Vance Assistant Track & Field Coach (Throws) kvance@uccs.edu
+
+25. Jessica Withrow
+   Email: jwithrow@uccs.edu
+   Username: jwithrow
+   Original line: Jessica Withrow Assistant Track & Field Coach (Hurdles, High Jump, Multis) jwithrow@uccs.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Isabella Lopez Athletic Trainer/Strength & Conditioning Coach (M. Soccer, M. ilopez6@uccs.edu
+• Dave Hajek Head Baseball Coach dhajek@uccs.edu
+• Jeff Culver Head Men's Basketball Coach jculver@uccs.edu
+• Elijah Ross Assistant Men's Basketball Coach eross2@uccs.edu
+• Mark Misch Head Men's Cross Country Coach/Assistant Track & Field Coach mmisch@uccs.edu
+• Lewis Wilcox Head Men's Soccer Coach lwilcox2@uccs.edu
+• Keith Buderus Associate Head Men's Soccer Coach kbuderus@uccs.edu
+• Ross Fellows Head Track & Field Coach rfellows@uccs.edu (308) 224-
+• Mark Misch Head Men's Cross Country Coach/Assistant Track & Field Coach mmisch@uccs.edu
+• Keith Vance Assistant Track & Field Coach (Throws) kvance@uccs.edu
+• Jessica Withrow Assistant Track & Field Coach (Hurdles, High Jump, Multis) jwithrow@uccs.edu
+• Dwight Sanders Head Softball Coach dsander5@uccs.edu
+• Renae Koppenhafer Assistant Softball Coach rkoppen2@uccs.edu
+• Tara Hittle Head Volleyball Coach thittle2@uccs.edu
+• Lauren Bowers Assistant Volleyball Coach lbowers3@uccs.edu
+• Misty Wilson Head Women's Basketball Coach mwilso11@uccs.edu
+• Nic Cantrell Assistant Women's Basketball Coach ncantrel@uccs.edu
+• Corey Kubatzky Head Women's Cross Country / Assistant Track & Field Coach ckubatzk@uccs.edu
+• Brice Queener Head Women's Lacrosse Coach bqueener@uccs.edu
+• J. B. Belzer Head Women's Soccer Coach jbelzer@uccs.edu
+• Justin Stones Associate Head Women's Soccer Coach jstones@uccs.edu
+• Ross Fellows Head Track & Field Coach rfellows@uccs.edu (308) 224-
+• Corey Kubatzky Head Women's Cross Country / Assistant Track & Field Coach ckubatzk@uccs.edu
+• Keith Vance Assistant Track & Field Coach (Throws) kvance@uccs.edu
+• Jessica Withrow Assistant Track & Field Coach (Hurdles, High Jump, Multis) jwithrow@uccs.edu

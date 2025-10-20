@@ -1,0 +1,12 @@
+Mississippi University for Women.pdf :: https://owlsathletics.athleticsite.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://owlsathletics.athleticsite.com/staff-directory/index
+Call log:
+  - navigating to "https://owlsathletics.athleticsite.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://owlsathletics.athleticsite.com/staff-directory?print=true, https://owlsathletics.athleticsite.com/staff-directory/print, https://owlsathletics.athleticsite.com/staff-directory, https://owlsathletics.athleticsite.com/staff-directory/index?print=true, https://owlsathletics.athleticsite.com/staff-directory/index/print, https://owlsathletics.athleticsite.com/staff-directory/index
+
+Tougaloo College.pdf :: https://athletics.tougaloo.edu/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://athletics.tougaloo.edu/staff-directory/index
+Call log:
+  - navigating to "https://athletics.tougaloo.edu/staff-directory/index", waiting until "networkidle"
+
+  tried: https://athletics.tougaloo.edu/staff-directory?print=true, https://athletics.tougaloo.edu/staff-directory/print, https://athletics.tougaloo.edu/staff-directory, https://athletics.tougaloo.edu/staff-directory/index?print=true, https://athletics.tougaloo.edu/staff-directory/index/print, https://athletics.tougaloo.edu/staff-directory/index
+

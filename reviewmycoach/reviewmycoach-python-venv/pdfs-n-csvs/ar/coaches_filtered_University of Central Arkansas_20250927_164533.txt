@@ -1,0 +1,143 @@
+COACH ENTRIES FOUND - 2025-09-27 16:45:33
+============================================================
+
+Total coaches found: 22
+
+PARSED ENTRIES:
+----------------------------------------
+1. Alex Fotioo
+   Email: afotioo@uca.edu
+   Username: afotioo
+   Original line: Alex Fotioo (MS, SCCC, CSCS) Assistant Athletic Director for afotioo@uca.edu 501-655- sccoachfotioo
+
+2. Stephanie Crain
+   Email: scrain@uca.edu
+   Username: scrain
+   Original line: Stephanie Crain Assistant to the Head Coach scrain@uca.edu 501-450-
+
+3. Nathan Brown
+   Email: nlbrown@uca.edu
+   Username: nlbrown
+   Original line: Nathan Brown Head Football Coach nlbrown@uca.edu 501-450- @nathanbrownuca
+
+4. Gunnar Boykin
+   Email: gboykin@uca.edu
+   Username: gboykin
+   Original line: Gunnar Boykin Offensive Line / Recruiting gboykin@uca.edu 501-450- @CoachGBoykin
+
+5. Brooks Hollingsworth
+   Email: bholling@uca.edu
+   Username: bholling
+   Original line: Brooks Hollingsworth Associate Head Coach/Tight bholling@uca.edu 501-450- @BrooksHollings3
+
+6. Tony Davis
+   Email: tldavis@uca.edu
+   Username: tldavis
+   Original line: Tony Davis Defensive Line / Run Game tldavis@uca.edu 501-450- @Coach_TDavis
+
+7. Kre Trammell
+   Email: ktrammell@uca.edu
+   Username: ktrammell
+   Original line: Kre Trammell Cornerbacks / Special Teams ktrammell@uca.edu @coachkre
+
+8. Nick Harlan
+   Email: nharlan@uca.edu
+   Username: nharlan
+   Original line: Nick Harlan Head Baseball Coach nharlan@uca.edu 402-366-
+
+9. Kayla Lucas
+   Email: klucas1@uca.edu
+   Username: klucas1
+   Original line: Kayla Lucas Head Softball Coach klucas1@uca.edu
+
+10. Trinity Schlotterbeck
+   Email: tschlotterbeck@uca.edu
+   Username: tschlotterbeck
+   Original line: Trinity Schlotterbeck Assistant Softball Coach tschlotterbeck@uca.edu
+
+11. Aaron Jackson
+   Email: ajackson63@uca.edu
+   Username: ajackson63
+   Original line: Aaron Jackson Assistant Softball Coach ajackson63@uca.edu
+
+12. Kyle Segebart
+   Email: ksegebart@uca.edu
+   Username: ksegebart
+   Original line: Kyle Segebart Head Men's Soccer Coach ksegebart@uca.edu
+
+13. Josh Turnock
+   Email: jturnock1@uca.edu
+   Username: jturnock1
+   Original line: Josh Turnock Head Men's Golf Coach jturnock1@uca.edu
+
+14. Summar Roachell
+   Email: sroachell1@uca.edu
+   Username: sroachell1
+   Original line: Summar Roachell Head Women's Golf Coach sroachell1@uca.edu
+
+15. Derek Jacobus
+   Email: djacobus@uca.edu
+   Username: djacobus
+   Original line: Derek Jacobus Asst. Coach / Multis /Jumps / djacobus@uca.edu
+
+16. John Newberry
+   Email: jnewberry@uca.edu
+   Username: jnewberry
+   Original line: John Newberry Head Volleyball Coach jnewberry@uca.edu 972-415- TheCoachJohn
+
+17. Kennedey Johnson
+   Email: kjohnson130@uca.edu
+   Username: kjohnson130
+   Original line: Kennedey Johnson Assistant Volleyball Coach kjohnson130@uca.edu
+
+18. Jovan Garcia
+   Email: jgarcia29@uca.edu
+   Username: jgarcia29
+   Original line: Jovan Garcia Assistant Volleyball Coach jgarcia29@uca.edu
+
+19. Avery Thibodeaux
+   Email: athibodeaux@uca.edu
+   Username: athibodeaux
+   Original line: Avery Thibodeaux Head Beach Volleyball Coach athibodeaux@uca.edu
+
+20. Chloe Moxley
+   Email: cmoxley@uca.edu
+   Username: cmoxley
+   Original line: Chloe Moxley Head STUNT Coach cmoxley@uca.edu
+
+21. Antonio Anderson
+   Email: aanderson6@uca.edu
+   Username: aanderson6
+   Original line: Antonio Anderson Cheer Coach aanderson6@uca.edu
+
+22. Whitney Burr
+   Email: wburr1@uca.edu
+   Username: wburr1
+   Original line: Whitney Burr Head Dance Coach wburr1@uca.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Alex Fotioo (MS, SCCC, CSCS) Assistant Athletic Director for afotioo@uca.edu 501-655- sccoachfotioo
+• Stephanie Crain Assistant to the Head Coach scrain@uca.edu 501-450-
+• Nathan Brown Head Football Coach nlbrown@uca.edu 501-450- @nathanbrownuca
+• Gunnar Boykin Offensive Line / Recruiting gboykin@uca.edu 501-450- @CoachGBoykin
+• Brooks Hollingsworth Associate Head Coach/Tight bholling@uca.edu 501-450- @BrooksHollings3
+• Tony Davis Defensive Line / Run Game tldavis@uca.edu 501-450- @Coach_TDavis
+• Kre Trammell Cornerbacks / Special Teams ktrammell@uca.edu @coachkre
+• Nick Harlan Head Baseball Coach nharlan@uca.edu 402-366-
+• Kayla Lucas Head Softball Coach klucas1@uca.edu
+• Trinity Schlotterbeck Assistant Softball Coach tschlotterbeck@uca.edu
+• Aaron Jackson Assistant Softball Coach ajackson63@uca.edu
+• Kyle Segebart Head Men's Soccer Coach ksegebart@uca.edu
+• Josh Turnock Head Men's Golf Coach jturnock1@uca.edu
+• Summar Roachell Head Women's Golf Coach sroachell1@uca.edu
+• Derek Jacobus Asst. Coach / Multis /Jumps / djacobus@uca.edu
+• John Newberry Head Volleyball Coach jnewberry@uca.edu 972-415- TheCoachJohn
+• Kennedey Johnson Assistant Volleyball Coach kjohnson130@uca.edu
+• Jovan Garcia Assistant Volleyball Coach jgarcia29@uca.edu
+• Avery Thibodeaux Head Beach Volleyball Coach athibodeaux@uca.edu
+• Chloe Moxley Head STUNT Coach cmoxley@uca.edu
+• Antonio Anderson Cheer Coach aanderson6@uca.edu
+• Whitney Burr Head Dance Coach wburr1@uca.edu

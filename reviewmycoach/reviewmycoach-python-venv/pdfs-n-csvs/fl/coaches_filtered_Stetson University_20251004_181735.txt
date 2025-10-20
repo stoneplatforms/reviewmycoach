@@ -1,0 +1,239 @@
+COACH ENTRIES FOUND - 2025-10-04 18:17:36
+============================================================
+
+Total coaches found: 38
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tom Melton
+   Email: tfmelton@stetson.edu
+   Username: tfmelton
+   Original line: Tom Melton Head Strength & Conditioning Coach (386)738- tfmelton@stetson.edu @CoachTomMelton
+
+2. Tom Melton
+   Email: tfmelton@stetson.edu
+   Username: tfmelton
+   Original line: Tom Melton Head Strength & Conditioning Coach (386)738- tfmelton@stetson.edu @CoachTomMelton
+
+3. Bryan Clarke
+   Email: bclark1@stetson.edu
+   Username: bclark1
+   Original line: Bryan Clarke Assistant Strength & Conditioning Coach (832) 960- bclark1@stetson.edu
+
+4. Steve Trimper
+   Email: baseball@stetson.edu
+   Username: baseball
+   Original line: Steve Trimper Head Coach baseball@stetson.edu @Steve_Trimper
+
+5. Daniel Latham
+   Email: dlatham@stetson.edu
+   Username: dlatham
+   Original line: Daniel Latham Pitching Coach (386) 822- dlatham@stetson.edu
+
+6. Cameron Coons
+   Email: ccoons@stetson.edu
+   Username: ccoons
+   Original line: Cameron Coons Assistant Coach ccoons@stetson.edu
+
+7. Donnie Jones
+   Email: djones18@stetson.edu
+   Username: djones18
+   Original line: Donnie Jones Head Coach (386) 822- djones18@stetson.edu @DonnieJones
+
+8. Shawn Finney
+   Email: dfinney@stetson.edu
+   Username: dfinney
+   Original line: Shawn Finney Assistant Coach (386) 822- dfinney@stetson.edu @ShawnFinney
+
+9. Joey Gruden
+   Email: jgruden@stetson.edu
+   Username: jgruden
+   Original line: Joey Gruden Assistant Coach (386) 822- jgruden@stetson.edu
+
+10. Kristina Hernandez
+   Email: khernan1@stetson.edu
+   Username: khernan1
+   Original line: Kristina Hernandez Head Coach (386) 822- khernan1@stetson.edu
+
+11. Alvaro Filho
+   Email: ademoraisfilho@stetson.edu
+   Username: ademoraisfilho
+   Original line: Alvaro Filho Assistant Coach (386) 822- ademoraisfilho@stetson.edu
+
+12. Pete Simpson
+   Email: psimpson@stetson.edu
+   Username: psimpson
+   Original line: Pete Simpson Head Coach psimpson@stetson.edu
+
+13. Kristin McWilliams
+   Email: kmcwilliams1@stetson.edu
+   Username: kmcwilliams1
+   Original line: Kristin McWilliams Head Coach (386) 738- kmcwilliams1@stetson.edu
+
+14. Mike Jasper
+   Email: football@stetson.edu
+   Username: football
+   Original line: Mike Jasper Head Coach football@stetson.edu
+
+15. Danny Forshey
+   Email: sforshey@stetson.edu
+   Username: sforshey
+   Original line: Danny Forshey Head Coach (386) 822- sforshey@stetson.edu DannyForshey
+
+16. Teresa Brown
+   Email: tmbrown@stetson.edu
+   Username: tmbrown
+   Original line: Teresa Brown Head Coach (386) 822- tmbrown@stetson.edu
+
+17. Sue Murphy
+   Email: smurphy3@stetson.edu
+   Username: smurphy3
+   Original line: Sue Murphy Head Coach smurphy3@stetson.edu
+
+18. Georgia Goering
+   Email: gegoering@stetson.edu
+   Username: gegoering
+   Original line: Georgia Goering Assistant Coach gegoering@stetson.edu
+
+19. Jamie Francis
+   Email: jfrancis2@stetson.edu
+   Username: jfrancis2
+   Original line: Jamie Francis Head Coach (386) 822- jfrancis2@stetson.edu
+
+20. Andrew Rouse
+   Email: arouse1@stetson.edu
+   Username: arouse1
+   Original line: Andrew Rouse Assistant Coach (386) 822- arouse1@stetson.edu @AJRouse12
+
+21. Anthony Chacon
+   Email: achacon@stetson.edu
+   Username: achacon
+   Original line: Anthony Chacon Assistant Coach (386) 822- achacon@stetson.edu @rowingcoachac
+
+22. Jamie Francis
+   Email: jfrancis2@stetson.edu
+   Username: jfrancis2
+   Original line: Jamie Francis Head Coach (386) 822- jfrancis2@stetson.edu
+
+23. Andrew Rouse
+   Email: arouse1@stetson.edu
+   Username: arouse1
+   Original line: Andrew Rouse Assistant Coach (386) 822- arouse1@stetson.edu @AJRouse12
+
+24. Anthony Chacon
+   Email: achacon@stetson.edu
+   Username: achacon
+   Original line: Anthony Chacon Assistant Coach (386) 822- achacon@stetson.edu @rowingcoachac
+
+25. Emmett Rutkowski
+   Email: erutkowski@stetson.edu
+   Username: erutkowski
+   Original line: Emmett Rutkowski Head Coach (386) 822- erutkowski@stetson.edu
+
+26. Eduardo Jimenez
+   Email: efjimenez@stetson.edu
+   Username: efjimenez
+   Original line: Eduardo Jimenez Assistant Coach efjimenez@stetson.edu
+
+27. Marc Torrado
+   Email: mtorradoaranda@stetson.edu
+   Username: mtorradoaranda
+   Original line: Marc Torrado Assistant Coach mtorradoaranda@stetson.edu
+
+28. Jamie Souza
+   Email: jsouza1@stetson.edu
+   Username: jsouza1
+   Original line: Jamie Souza Head Coach jsouza1@stetson.edu
+
+29. Chloe Marquez
+   Email: cmarquez1@stetson.edu
+   Username: cmarquez1
+   Original line: Chloe Marquez Assistant Coach cmarquez1@stetson.edu
+
+30. Greg Palmer
+   Email: gpalmer1@stetson.edu
+   Username: gpalmer1
+   Original line: Greg Palmer Assistant Coach gpalmer1@stetson.edu
+
+31. Shellie Cousins
+   Email: srobinson2@stetson.edu
+   Username: srobinson2
+   Original line: Shellie Cousins Head Coach (386) 822- srobinson2@stetson.edu @CoachCuz3
+
+32. Amanda Chambers
+   Email: achambers3@stetson.edu
+   Username: achambers3
+   Original line: Amanda Chambers Assistant Coach achambers3@stetson.edu
+
+33. Chris Jones
+   Email: cjones30@stetson.edu
+   Username: cjones30
+   Original line: Chris Jones Assistant Coach cjones30@stetson.edu
+
+34. Travis Sandlant
+   Email: tsandlant@stetson.edu
+   Username: tsandlant
+   Original line: Travis Sandlant Head Coach (386) 822- tsandlant@stetson.edu
+
+35. Travis Sandlant
+   Email: tsandlant@stetson.edu
+   Username: tsandlant
+   Original line: Travis Sandlant Head Coach (386) 822- tsandlant@stetson.edu
+
+36. Yang Deng
+   Email: ydeng@stetson.edu
+   Username: ydeng
+   Original line: Yang Deng Head Coach (386) 822- ydeng@stetson.edu @dengyvb
+
+37. Omi Fuentes
+   Email: dfuentes1@stetson.edu
+   Username: dfuentes1
+   Original line: Omi Fuentes Assistant Coach (386) 822- dfuentes1@stetson.edu
+
+38. Henry Shehu
+   Email: hshehu@stetson.edu
+   Username: hshehu
+   Original line: Henry Shehu Assistant Coach hshehu@stetson.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tom Melton Head Strength & Conditioning Coach (386)738- tfmelton@stetson.edu @CoachTomMelton
+• Tom Melton Head Strength & Conditioning Coach (386)738- tfmelton@stetson.edu @CoachTomMelton
+• Bryan Clarke Assistant Strength & Conditioning Coach (832) 960- bclark1@stetson.edu
+• Steve Trimper Head Coach baseball@stetson.edu @Steve_Trimper
+• Daniel Latham Pitching Coach (386) 822- dlatham@stetson.edu
+• Cameron Coons Assistant Coach ccoons@stetson.edu
+• Donnie Jones Head Coach (386) 822- djones18@stetson.edu @DonnieJones
+• Shawn Finney Assistant Coach (386) 822- dfinney@stetson.edu @ShawnFinney
+• Joey Gruden Assistant Coach (386) 822- jgruden@stetson.edu
+• Kristina Hernandez Head Coach (386) 822- khernan1@stetson.edu
+• Alvaro Filho Assistant Coach (386) 822- ademoraisfilho@stetson.edu
+• Pete Simpson Head Coach psimpson@stetson.edu
+• Kristin McWilliams Head Coach (386) 738- kmcwilliams1@stetson.edu
+• Mike Jasper Head Coach football@stetson.edu
+• Danny Forshey Head Coach (386) 822- sforshey@stetson.edu DannyForshey
+• Teresa Brown Head Coach (386) 822- tmbrown@stetson.edu
+• Sue Murphy Head Coach smurphy3@stetson.edu
+• Georgia Goering Assistant Coach gegoering@stetson.edu
+• Jamie Francis Head Coach (386) 822- jfrancis2@stetson.edu
+• Andrew Rouse Assistant Coach (386) 822- arouse1@stetson.edu @AJRouse12
+• Anthony Chacon Assistant Coach (386) 822- achacon@stetson.edu @rowingcoachac
+• Jamie Francis Head Coach (386) 822- jfrancis2@stetson.edu
+• Andrew Rouse Assistant Coach (386) 822- arouse1@stetson.edu @AJRouse12
+• Anthony Chacon Assistant Coach (386) 822- achacon@stetson.edu @rowingcoachac
+• Emmett Rutkowski Head Coach (386) 822- erutkowski@stetson.edu
+• Eduardo Jimenez Assistant Coach efjimenez@stetson.edu
+• Marc Torrado Assistant Coach mtorradoaranda@stetson.edu
+• Jamie Souza Head Coach jsouza1@stetson.edu
+• Chloe Marquez Assistant Coach cmarquez1@stetson.edu
+• Greg Palmer Assistant Coach gpalmer1@stetson.edu
+• Shellie Cousins Head Coach (386) 822- srobinson2@stetson.edu @CoachCuz3
+• Amanda Chambers Assistant Coach achambers3@stetson.edu
+• Chris Jones Assistant Coach cjones30@stetson.edu
+• Travis Sandlant Head Coach (386) 822- tsandlant@stetson.edu
+• Travis Sandlant Head Coach (386) 822- tsandlant@stetson.edu
+• Yang Deng Head Coach (386) 822- ydeng@stetson.edu @dengyvb
+• Omi Fuentes Assistant Coach (386) 822- dfuentes1@stetson.edu
+• Henry Shehu Assistant Coach hshehu@stetson.edu

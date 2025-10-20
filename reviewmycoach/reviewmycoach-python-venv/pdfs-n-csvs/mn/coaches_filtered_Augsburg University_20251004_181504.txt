@@ -1,0 +1,459 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:04
+============================================================
+
+Total coaches found: 68
+
+PARSED ENTRIES:
+----------------------------------------
+1. Aaron Griess
+   Email: griess@augsburg.edu
+   Username: griess
+   Phone: (612) 330-1238
+   Original line: Aaron Griess Men's Basketball Head Coach/Associate Athletic griess@augsburg.edu 612-330-1238
+
+2. Walker Gotzinger
+   Email: gotzing@augsburg.edu
+   Username: gotzing
+   Phone: (612) 330-1215
+   Original line: Walker Gotzinger Interim Head Strength and Conditioning Coach gotzing@augsburg.edu 612-330-1215
+
+3. Keith Bateman
+   Email: batemank@augsburg.edu
+   Username: batemank
+   Phone: (612) 330-1395
+   Original line: Keith Bateman Baseball Head Coach/Men's Athletic Equipment batemank@augsburg.edu 612-330-1395
+
+4. Laura Heise
+   Email: heisel@augsburg.edu
+   Username: heisel
+   Phone: (612) 330-1511
+   Original line: Laura Heise Softball Head Coach/Women's Athletic Equipment heisel@augsburg.edu 612-330-1511
+
+5. Laura Heise
+   Email: heisel@augsburg.edu
+   Username: heisel
+   Phone: (612) 330-1511
+   Original line: Laura Heise Softball Head Coach/Women's Athletic Equipment heisel@augsburg.edu 612-330-1511
+
+6. Mallie Doucette
+   Email: doucett1@augsburg.edu
+   Username: doucett1
+   Phone: (612) 330-1234
+   Original line: Mallie Doucette Women's Basketball Head Coach/Assistant Sports doucett1@augsburg.edu 612-330-1234
+
+7. Keith Bateman
+   Email: batemank@augsburg.edu
+   Username: batemank
+   Phone: (612) 330-1395
+   Original line: Keith Bateman Baseball Head Coach/Men's Athletic Equipment batemank@augsburg.edu 612-330-1395
+
+8. Jacob Meiners
+   Email: meinersj@augsburg.edu
+   Username: meinersj
+   Original line: Jacob Meiners Baseball Assistant Coach (Graduate Fellow) meinersj@augsburg.edu
+
+9. Troy Deden
+   Email: deden@augsburg.edu
+   Username: deden
+   Original line: Troy Deden Baseball Assistant Coach deden@augsburg.edu
+
+10. Jeff Stomberg
+   Email: stomberg@augsburg.edu
+   Username: stomberg
+   Original line: Jeff Stomberg Baseball Assistant Coach stomberg@augsburg.edu
+
+11. Brock Peterson
+   Email: peters55@augsburg.edu
+   Username: peters55
+   Phone: (612) 330-1784
+   Original line: Brock Peterson Baseball Assistant Coach peters55@augsburg.edu 612-330-1784
+
+12. Danny Bissonnette
+   Email: bissonnd@augsburg.edu
+   Username: bissonnd
+   Phone: (612) 330-1454
+   Original line: Danny Bissonnette Baseball Assistant Coach bissonnd@augsburg.edu 612-330-1454
+
+13. Aaron Griess
+   Email: griess@augsburg.edu
+   Username: griess
+   Phone: (612) 330-1238
+   Original line: Aaron Griess Men's Basketball Head Coach/Associate Athletic griess@augsburg.edu 612-330-1238
+
+14. Darnell Clavon
+   Email: clavon@augsburg.edu
+   Username: clavon
+   Phone: (612) 330-1252
+   Original line: Darnell Clavon Men's Basketball Assistant Coach clavon@augsburg.edu 612-330-1252
+
+15. Mallie Doucette
+   Email: doucett1@augsburg.edu
+   Username: doucett1
+   Phone: (612) 330-1234
+   Original line: Mallie Doucette Women's Basketball Head Coach/Assistant Sports doucett1@augsburg.edu 612-330-1234
+
+16. Jill Woodrow
+   Email: tichyj@augsburg.edu
+   Username: tichyj
+   Phone: (612) 330-1239
+   Original line: Jill Woodrow Women's Basketball Assistant Coach tichyj@augsburg.edu 612-330-1239
+
+17. Nick Larson
+   Email: nlarson@augsburg.edu
+   Username: nlarson
+   Phone: (612) 330-1435
+   Original line: Nick Larson Cross Country Head Coach/Track and Field nlarson@augsburg.edu 612-330-1435
+
+18. Brendan Ruter
+   Email: ruterb@augsburg.edu
+   Username: ruterb
+   Original line: Brendan Ruter Cross Country/Track & Field Assistant Coach ruterb@augsburg.edu
+
+19. Annabel Lantz
+   Email: lantza@augsburg.edu
+   Username: lantza
+   Original line: Annabel Lantz Cross Country Assistant Coach lantza@augsburg.edu
+
+20. Nick Larson
+   Email: nlarson@augsburg.edu
+   Username: nlarson
+   Phone: (612) 330-1435
+   Original line: Nick Larson Cross Country Head Coach/Track and Field nlarson@augsburg.edu 612-330-1435
+
+21. Brendan Ruter
+   Email: ruterb@augsburg.edu
+   Username: ruterb
+   Original line: Brendan Ruter Cross Country/Track & Field Assistant Coach ruterb@augsburg.edu
+
+22. Annabel Lantz
+   Email: lantza@augsburg.edu
+   Username: lantza
+   Original line: Annabel Lantz Cross Country Assistant Coach lantza@augsburg.edu
+
+23. KiJuan Ware
+   Email: wareki@augsburg.edu
+   Username: wareki
+   Phone: (612) 330-1433
+   Original line: KiJuan Ware Football Head Coach wareki@augsburg.edu 612-330-1433
+
+24. Nathan Tenut
+   Email: tenut@augsburg.edu
+   Username: tenut
+   Phone: (612) 330-1688
+   Original line: Nathan Tenut Football Assistant Coach (Offensive Line) tenut@augsburg.edu 612-330-1688
+
+25. Jeff Rogers
+   Email: rogersj1@augsburg.edu
+   Username: rogersj1
+   Phone: (612) 330-1614
+   Original line: Jeff Rogers Football Assistant Coach (Co-Defensive rogersj1@augsburg.edu 612-330-1614
+
+26. Carlton Hall
+   Email: hallcar@augsburg.edu
+   Username: hallcar
+   Phone: (612) 330-1242
+   Original line: Carlton Hall Football Assistant Coach (Co-Defensive hallcar@augsburg.edu 612-330-1242
+
+27. Johnson Fallah
+   Email: fallahj@augsburg.edu
+   Username: fallahj
+   Phone: (763) 273-6235
+   Original line: Johnson Fallah Football Assistant Coach (Graduate Fellow, fallahj@augsburg.edu 763-273-6235
+
+28. Jack Osberg
+   Email: jnosberg@gmail.com
+   Username: jnosberg
+   Original line: Jack Osberg Football Assistant Coach (Defensive Line) jnosberg@gmail.com
+
+29. Eric Rolland
+   Email: rolland@augsburg.edu
+   Username: rolland
+   Phone: (612) 330-1687
+   Original line: Eric Rolland Men's/Women's Golf Head Coach rolland@augsburg.edu 612-330-1687
+
+30. Matt Anderson
+   Email: andersm2@augsburg.edu
+   Username: andersm2
+   Original line: Matt Anderson Men's/Women's Golf Assistant Coach andersm2@augsburg.edu
+
+31. Avery Sawchuk
+   Email: sawchuka@augsburg.edu
+   Username: sawchuka
+   Original line: Avery Sawchuk Men's/Women's Golf Assistant Coach (Graduate sawchuka@augsburg.edu
+
+32. Brandon Jones
+   Email: jonesbr@augsburg.edu
+   Username: jonesbr
+   Original line: Brandon Jones Men's/Women's Golf Assistant Coach jonesbr@augsburg.edu
+
+33. Elizabeth Fagerlind
+   Email: fagerlie@augsburg.edu
+   Username: fagerlie
+   Original line: Elizabeth Fagerlind Men's/Women's Golf Assistant Coach fagerlie@augsburg.edu
+
+34. Eric Rolland
+   Email: rolland@augsburg.edu
+   Username: rolland
+   Phone: (612) 330-1687
+   Original line: Eric Rolland Men's/Women's Golf Head Coach rolland@augsburg.edu 612-330-1687
+
+35. Matt Anderson
+   Email: andersm2@augsburg.edu
+   Username: andersm2
+   Original line: Matt Anderson Men's/Women's Golf Assistant Coach andersm2@augsburg.edu
+
+36. Avery Sawchuk
+   Email: sawchuka@augsburg.edu
+   Username: sawchuka
+   Original line: Avery Sawchuk Men's/Women's Golf Assistant Coach (Graduate sawchuka@augsburg.edu
+
+37. Brandon Jones
+   Email: jonesbr@augsburg.edu
+   Username: jonesbr
+   Original line: Brandon Jones Men's/Women's Golf Assistant Coach jonesbr@augsburg.edu
+
+38. Elizabeth Fagerlind
+   Email: fagerlie@augsburg.edu
+   Username: fagerlie
+   Original line: Elizabeth Fagerlind Men's/Women's Golf Assistant Coach fagerlie@augsburg.edu
+
+39. Garrett Hendrickson
+   Email: hendricg@augsburg.edu
+   Username: hendricg
+   Phone: (612) 330-1094
+   Original line: Garrett Hendrickson Men's Hockey Head Coach hendricg@augsburg.edu 612-330-1094
+
+40. Tyler Veen
+   Email: veent@augsburg.edu
+   Username: veent
+   Original line: Tyler Veen Men's Hockey Assistant Coach veent@augsburg.edu
+
+41. Tim Lawson
+   Email: lawson10@augsburg.edu
+   Username: lawson10
+   Phone: (612) 330-1587
+   Original line: Tim Lawson Men's Hockey Assistant Coach lawson10@augsburg.edu 612-330-1587
+
+42. Elizabeth Bauer
+   Email: bauere@augsburg.edu
+   Username: bauere
+   Phone: (612) 330-1377
+   Original line: Elizabeth Bauer Women's Hockey Head Coach bauere@augsburg.edu 612-330-1377
+
+43. Nicole Neuberger
+   Email: neubergn@augsburg.edu
+   Username: neubergn
+   Phone: (612) 330-1457
+   Original line: Nicole Neuberger Women's Hockey Assistant Coach neubergn@augsburg.edu 612-330-1457
+
+44. Hemie Collier
+   Email: collierh@augsburg.edu
+   Username: collierh
+   Phone: (612) 330-1248
+   Original line: Hemie Collier Women's Lacrosse Head Coach collierh@augsburg.edu 612-330-1248
+
+45. Greg Holker
+   Email: holker@augsburg.edu
+   Username: holker
+   Phone: (612) 330-1424
+   Original line: Greg Holker Men's Soccer Head Coach/Athletic Facilities holker@augsburg.edu 612-330-1424
+
+46. Peyton Boich
+   Email: boich@augsburg.edu
+   Username: boich
+   Original line: Peyton Boich Men's Soccer Assistant Coach boich@augsburg.edu
+
+47. Nick Zuchowski
+   Email: zuchowsk@augsburg.edu
+   Username: zuchowsk
+   Original line: Nick Zuchowski Men's Soccer Assistant Coach zuchowsk@augsburg.edu
+
+48. Spencer Enright
+   Email: enrights@augsburg.edu
+   Username: enrights
+   Original line: Spencer Enright Men's Soccer Assistant Coach enrights@augsburg.edu
+
+49. Oscar Herrera
+   Email: herrerao@augsburg.edu
+   Username: herrerao
+   Original line: Oscar Herrera Men's Soccer Assistant Coach (Goalkeepers) herrerao@augsburg.edu
+
+50. Clara Webby
+   Email: webby@augsburg.edu
+   Username: webby
+   Phone: (612) 330-1623
+   Original line: Clara Webby Women's Soccer Head Coach webby@augsburg.edu 612-330-1623
+
+51. Justin Flack
+   Email: flackj@augsburg.edu
+   Username: flackj
+   Phone: (612) 330-1623
+   Original line: Justin Flack Women's Soccer Assistant Coach (Graduate flackj@augsburg.edu 612-330-1623
+
+52. Laura Heise
+   Email: heisel@augsburg.edu
+   Username: heisel
+   Phone: (612) 330-1511
+   Original line: Laura Heise Softball Head Coach/Women's Athletic Equipment heisel@augsburg.edu 612-330-1511
+
+53. Emily Smith
+   Email: smithe@augsburg.edu
+   Username: smithe
+   Original line: Emily Smith Softball Assistant Coach smithe@augsburg.edu
+
+54. Zach Wood
+   Email: woodz@augsburg.edu
+   Username: woodz
+   Phone: (612) 330-1301
+   Original line: Zach Wood Women's Swimming & Diving Head Coach woodz@augsburg.edu 612-330-1301
+
+55. Nick Larson
+   Email: nlarson@augsburg.edu
+   Username: nlarson
+   Phone: (612) 330-1435
+   Original line: Nick Larson Cross Country Head Coach/Track and Field nlarson@augsburg.edu 612-330-1435
+
+56. Ronny Hall
+   Email: hallro@augsburg.edu
+   Username: hallro
+   Original line: Ronny Hall Jr. Men's/Women's Track & Field Assistant Coach hallro@augsburg.edu
+
+57. Brendan Ruter
+   Email: ruterb@augsburg.edu
+   Username: ruterb
+   Original line: Brendan Ruter Cross Country/Track & Field Assistant Coach ruterb@augsburg.edu
+
+58. Nick Larson
+   Email: nlarson@augsburg.edu
+   Username: nlarson
+   Phone: (612) 330-1435
+   Original line: Nick Larson Cross Country Head Coach/Track and Field nlarson@augsburg.edu 612-330-1435
+
+59. Ronny Hall
+   Email: hallro@augsburg.edu
+   Username: hallro
+   Original line: Ronny Hall Jr. Men's/Women's Track & Field Assistant Coach hallro@augsburg.edu
+
+60. Brendan Ruter
+   Email: ruterb@augsburg.edu
+   Username: ruterb
+   Original line: Brendan Ruter Cross Country/Track & Field Assistant Coach ruterb@augsburg.edu
+
+61. Jay Kam
+   Email: kamj@augsburg.edu
+   Username: kamj
+   Phone: (612) 330-1541
+   Original line: Jay Kam Volleyball Head Coach kamj@augsburg.edu 612-330-1541
+
+62. Selena Rodriguez
+   Email: rodrig34@augsburg.edu
+   Username: rodrig34
+   Original line: Selena Rodriguez Volleyball Assistant Coach (Graduate Fellow) rodrig34@augsburg.edu
+
+63. John Nguyencong
+   Email: nguyenco@augsburg.edu
+   Username: nguyenco
+   Original line: John Nguyencong Volleyball Assistant Coach nguyenco@augsburg.edu
+
+64. Tony Valek
+   Email: valeka@augsburg.edu
+   Username: valeka
+   Phone: (612) 330-1116
+   Original line: Tony Valek Men's Wrestling Head Coach valeka@augsburg.edu 612-330-1116
+
+65. Jim Moulsoff
+   Email: moulsoff@augsburg.edu
+   Username: moulsoff
+   Phone: (612) 330-1657
+   Original line: Jim Moulsoff Men's Wrestling Associate Head Coach moulsoff@augsburg.edu 612-330-1657
+
+66. Justin Koob
+   Email: koob@augsburg.edu
+   Username: koob
+   Phone: (612) 330-1116
+   Original line: Justin Koob Men's Wrestling Head Assistant Coach koob@augsburg.edu 612-330-1116
+
+67. Ali Sprenger
+   Email: sprenger@augsburg.edu
+   Username: sprenger
+   Phone: (612) 330-1335
+   Original line: Ali Sprenger Women's Wrestling Head Coach / Student-Athlete sprenger@augsburg.edu 612-330-1335
+
+68. Greg Holker
+   Email: holker@augsburg.edu
+   Username: holker
+   Phone: (612) 330-1424
+   Original line: Greg Holker Men's Soccer Head Coach/Athletic Facilities holker@augsburg.edu 612-330-1424
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Aaron Griess Men's Basketball Head Coach/Associate Athletic griess@augsburg.edu 612-330-1238
+• Walker Gotzinger Interim Head Strength and Conditioning Coach gotzing@augsburg.edu 612-330-1215
+• Keith Bateman Baseball Head Coach/Men's Athletic Equipment batemank@augsburg.edu 612-330-1395
+• Laura Heise Softball Head Coach/Women's Athletic Equipment heisel@augsburg.edu 612-330-1511
+• Laura Heise Softball Head Coach/Women's Athletic Equipment heisel@augsburg.edu 612-330-1511
+• Mallie Doucette Women's Basketball Head Coach/Assistant Sports doucett1@augsburg.edu 612-330-1234
+• Keith Bateman Baseball Head Coach/Men's Athletic Equipment batemank@augsburg.edu 612-330-1395
+• Jacob Meiners Baseball Assistant Coach (Graduate Fellow) meinersj@augsburg.edu
+• Troy Deden Baseball Assistant Coach deden@augsburg.edu
+• Jeff Stomberg Baseball Assistant Coach stomberg@augsburg.edu
+• Brock Peterson Baseball Assistant Coach peters55@augsburg.edu 612-330-1784
+• Danny Bissonnette Baseball Assistant Coach bissonnd@augsburg.edu 612-330-1454
+• Aaron Griess Men's Basketball Head Coach/Associate Athletic griess@augsburg.edu 612-330-1238
+• Darnell Clavon Men's Basketball Assistant Coach clavon@augsburg.edu 612-330-1252
+• Mallie Doucette Women's Basketball Head Coach/Assistant Sports doucett1@augsburg.edu 612-330-1234
+• Jill Woodrow Women's Basketball Assistant Coach tichyj@augsburg.edu 612-330-1239
+• Nick Larson Cross Country Head Coach/Track and Field nlarson@augsburg.edu 612-330-1435
+• Brendan Ruter Cross Country/Track & Field Assistant Coach ruterb@augsburg.edu
+• Annabel Lantz Cross Country Assistant Coach lantza@augsburg.edu
+• Nick Larson Cross Country Head Coach/Track and Field nlarson@augsburg.edu 612-330-1435
+• Brendan Ruter Cross Country/Track & Field Assistant Coach ruterb@augsburg.edu
+• Annabel Lantz Cross Country Assistant Coach lantza@augsburg.edu
+• KiJuan Ware Football Head Coach wareki@augsburg.edu 612-330-1433
+• Nathan Tenut Football Assistant Coach (Offensive Line) tenut@augsburg.edu 612-330-1688
+• Jeff Rogers Football Assistant Coach (Co-Defensive rogersj1@augsburg.edu 612-330-1614
+• Carlton Hall Football Assistant Coach (Co-Defensive hallcar@augsburg.edu 612-330-1242
+• Johnson Fallah Football Assistant Coach (Graduate Fellow, fallahj@augsburg.edu 763-273-6235
+• Jack Osberg Football Assistant Coach (Defensive Line) jnosberg@gmail.com
+• Eric Rolland Men's/Women's Golf Head Coach rolland@augsburg.edu 612-330-1687
+• Matt Anderson Men's/Women's Golf Assistant Coach andersm2@augsburg.edu
+• Avery Sawchuk Men's/Women's Golf Assistant Coach (Graduate sawchuka@augsburg.edu
+• Brandon Jones Men's/Women's Golf Assistant Coach jonesbr@augsburg.edu
+• Elizabeth Fagerlind Men's/Women's Golf Assistant Coach fagerlie@augsburg.edu
+• Eric Rolland Men's/Women's Golf Head Coach rolland@augsburg.edu 612-330-1687
+• Matt Anderson Men's/Women's Golf Assistant Coach andersm2@augsburg.edu
+• Avery Sawchuk Men's/Women's Golf Assistant Coach (Graduate sawchuka@augsburg.edu
+• Brandon Jones Men's/Women's Golf Assistant Coach jonesbr@augsburg.edu
+• Elizabeth Fagerlind Men's/Women's Golf Assistant Coach fagerlie@augsburg.edu
+• Garrett Hendrickson Men's Hockey Head Coach hendricg@augsburg.edu 612-330-1094
+• Tyler Veen Men's Hockey Assistant Coach veent@augsburg.edu
+• Tim Lawson Men's Hockey Assistant Coach lawson10@augsburg.edu 612-330-1587
+• Elizabeth Bauer Women's Hockey Head Coach bauere@augsburg.edu 612-330-1377
+• Nicole Neuberger Women's Hockey Assistant Coach neubergn@augsburg.edu 612-330-1457
+• Hemie Collier Women's Lacrosse Head Coach collierh@augsburg.edu 612-330-1248
+• Greg Holker Men's Soccer Head Coach/Athletic Facilities holker@augsburg.edu 612-330-1424
+• Peyton Boich Men's Soccer Assistant Coach boich@augsburg.edu
+• Nick Zuchowski Men's Soccer Assistant Coach zuchowsk@augsburg.edu
+• Spencer Enright Men's Soccer Assistant Coach enrights@augsburg.edu
+• Oscar Herrera Men's Soccer Assistant Coach (Goalkeepers) herrerao@augsburg.edu
+• Clara Webby Women's Soccer Head Coach webby@augsburg.edu 612-330-1623
+• Justin Flack Women's Soccer Assistant Coach (Graduate flackj@augsburg.edu 612-330-1623
+• Laura Heise Softball Head Coach/Women's Athletic Equipment heisel@augsburg.edu 612-330-1511
+• Emily Smith Softball Assistant Coach smithe@augsburg.edu
+• Zach Wood Women's Swimming & Diving Head Coach woodz@augsburg.edu 612-330-1301
+• Nick Larson Cross Country Head Coach/Track and Field nlarson@augsburg.edu 612-330-1435
+• Ronny Hall Jr. Men's/Women's Track & Field Assistant Coach hallro@augsburg.edu
+• Brendan Ruter Cross Country/Track & Field Assistant Coach ruterb@augsburg.edu
+• Nick Larson Cross Country Head Coach/Track and Field nlarson@augsburg.edu 612-330-1435
+• Ronny Hall Jr. Men's/Women's Track & Field Assistant Coach hallro@augsburg.edu
+• Brendan Ruter Cross Country/Track & Field Assistant Coach ruterb@augsburg.edu
+• Jay Kam Volleyball Head Coach kamj@augsburg.edu 612-330-1541
+• Selena Rodriguez Volleyball Assistant Coach (Graduate Fellow) rodrig34@augsburg.edu
+• John Nguyencong Volleyball Assistant Coach nguyenco@augsburg.edu
+• Tony Valek Men's Wrestling Head Coach valeka@augsburg.edu 612-330-1116
+• Jim Moulsoff Men's Wrestling Associate Head Coach moulsoff@augsburg.edu 612-330-1657
+• Justin Koob Men's Wrestling Head Assistant Coach koob@augsburg.edu 612-330-1116
+• Ali Sprenger Women's Wrestling Head Coach / Student-Athlete sprenger@augsburg.edu 612-330-1335
+• Greg Holker Men's Soccer Head Coach/Athletic Facilities holker@augsburg.edu 612-330-1424

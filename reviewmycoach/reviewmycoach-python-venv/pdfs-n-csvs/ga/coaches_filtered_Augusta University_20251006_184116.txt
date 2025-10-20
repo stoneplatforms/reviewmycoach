@@ -1,0 +1,175 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:16
+============================================================
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Melissa Brocato
+   Email: mbrocato@augusta.edu
+   Username: mbrocato
+   Phone: (706) 731-7916
+   Original line: Melissa Brocato Assistant AD for Internal Affairs / Head Softball Coach, 27th Year 706-731-7916 mbrocato@augusta.edu
+
+2. Amanda Fields
+   Email: amafields@augusta.edu
+   Username: amafields
+   Phone: (706) 731-7919
+   Original line: Amanda Fields Athletics Business Manager / Head Cheerleading Coach 706-731-7919 amafields@augusta.edu
+
+3. Chris Howell
+   Email: chris.howell@augusta.edu
+   Username: chris.howell
+   Phone: (706) 731-7917
+   Original line: Chris Howell Head Coach, Ninth Year 706-731-7917 chris.howell@augusta.edu
+
+4. John Friday
+   Email: jfriday@augusta.edu
+   Username: jfriday
+   Phone: (706) 731-7915
+   Original line: John Friday Assistant Coach 706-731-7915 jfriday@augusta.edu
+
+5. Amanda Fields
+   Email: amafields@augusta.edu
+   Username: amafields
+   Phone: (706) 731-7919
+   Original line: Amanda Fields Athletics Business Manager / Head Cheerleading Coach 706-731-7919 amafields@augusta.edu
+
+6. Samantha Reece
+   Email: sreece@augusta.edu
+   Username: sreece
+   Original line: Samantha Reece Head Coach sreece@augusta.edu
+
+7. Dip Metress
+   Email: dmetress@augusta.edu
+   Username: dmetress
+   Phone: (706) 667-4765
+   Original line: Dip Metress Head Coach, 21st Year 706-667-4765 dmetress@augusta.edu
+
+8. Zach Tinkham
+   Email: ztinkham@augusta.edu
+   Username: ztinkham
+   Phone: (706) 729-2449
+   Original line: Zach Tinkham Assistant Coach 706-729-2449 ztinkham@augusta.edu
+
+9. Steven Paine
+   Email: spaine@augusta.edu
+   Username: spaine
+   Phone: (706) 731-7992
+   Original line: Steven Paine Director of Golf/Men's Golf Head Coach 706-731-7992 spaine@augusta.edu
+
+10. Ruan Pretorius
+   Email: rpretorius@augusta.edu
+   Username: rpretorius
+   Phone: (706) 729-2511
+   Original line: Ruan Pretorius Assistant Coach 706-729-2511 rpretorius@augusta.edu
+
+11. Michael McGrath
+   Email: mmcgrath@augusta.edu
+   Username: mmcgrath
+   Phone: (706) 667-4349
+   Original line: Michael McGrath Head Coach, 28th Year 706-667-4349 mmcgrath@augusta.edu
+
+12. Jacob Burgamy
+   Email: jburgamy@augusta.edu
+   Username: jburgamy
+   Phone: (706) 731-7914
+   Original line: Jacob Burgamy Head Coach, 3rd Year 706-731-7914 jburgamy@augusta.edu
+
+13. Jacob Burgamy
+   Email: jburgamy@augusta.edu
+   Username: jburgamy
+   Phone: (706) 731-7914
+   Original line: Jacob Burgamy Head Coach, 3rd Year 706-731-7914 jburgamy@augusta.edu
+
+14. Melissa Brocato
+   Email: mbrocato@augusta.edu
+   Username: mbrocato
+   Phone: (706) 731-7916
+   Original line: Melissa Brocato Assistant AD for Internal Affairs / Head Softball Coach, 27th Year 706-731-7916 mbrocato@augusta.edu
+
+15. Taylor Senter
+   Email: tsenter@augusta.edu
+   Username: tsenter
+   Original line: Taylor Senter Assistant Coach tsenter@augusta.edu
+
+16. Jacob Topple
+   Email: jtopple@augusta.edu
+   Username: jtopple
+   Original line: Jacob Topple Head Strength and Conditioning Coach jtopple@augusta.edu
+
+17. Celeste Stewart
+   Email: cestewart@augusta.edu
+   Username: cestewart
+   Phone: (706) 731-7909
+   Original line: Celeste Stewart Head Coach, 3rd Year 706-731-7909 cestewart@augusta.edu
+
+18. Mone Florence
+   Email: moflorence@augusta.edu
+   Username: moflorence
+   Original line: Mone Florence Graduate Assistant Coach moflorence@augusta.edu
+
+19. Ember Holloway
+   Email: emholloway@augusta.edu
+   Username: emholloway
+   Phone: (815) 590-3725
+   Original line: Ember Holloway Head Coach 815-590-3725 emholloway@augusta.edu
+
+20. Michael McGrath
+   Email: mmcgrath@augusta.edu
+   Username: mmcgrath
+   Phone: (706) 667-4349
+   Original line: Michael McGrath Head Coach, 28th Year 706-667-4349 mmcgrath@augusta.edu
+
+21. Jacob Burgamy
+   Email: jburgamy@augusta.edu
+   Username: jburgamy
+   Phone: (706) 731-7914
+   Original line: Jacob Burgamy Head Coach, 3rd Year 706-731-7914 jburgamy@augusta.edu
+
+22. Sharon Quarles
+   Email: squarles@augusta.edu
+   Username: squarles
+   Phone: (706) 667-4766
+   Original line: Sharon Quarles Head Coach, 16th Year 706-667-4766 squarles@augusta.edu
+
+23. Dekyra Dennis
+   Email: dedennis@augusta.edu
+   Username: dedennis
+   Phone: (706) 731-7937
+   Original line: Dekyra Dennis Assistant Coach 706-731-7937 dedennis@augusta.edu
+
+24. Jacob Burgamy
+   Email: jburgamy@augusta.edu
+   Username: jburgamy
+   Phone: (706) 731-7914
+   Original line: Jacob Burgamy Head Coach, 3rd Year 706-731-7914 jburgamy@augusta.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Melissa Brocato Assistant AD for Internal Affairs / Head Softball Coach, 27th Year 706-731-7916 mbrocato@augusta.edu
+• Amanda Fields Athletics Business Manager / Head Cheerleading Coach 706-731-7919 amafields@augusta.edu
+• Chris Howell Head Coach, Ninth Year 706-731-7917 chris.howell@augusta.edu
+• John Friday Assistant Coach 706-731-7915 jfriday@augusta.edu
+• Amanda Fields Athletics Business Manager / Head Cheerleading Coach 706-731-7919 amafields@augusta.edu
+• Samantha Reece Head Coach sreece@augusta.edu
+• Dip Metress Head Coach, 21st Year 706-667-4765 dmetress@augusta.edu
+• Zach Tinkham Assistant Coach 706-729-2449 ztinkham@augusta.edu
+• Steven Paine Director of Golf/Men's Golf Head Coach 706-731-7992 spaine@augusta.edu
+• Ruan Pretorius Assistant Coach 706-729-2511 rpretorius@augusta.edu
+• Michael McGrath Head Coach, 28th Year 706-667-4349 mmcgrath@augusta.edu
+• Jacob Burgamy Head Coach, 3rd Year 706-731-7914 jburgamy@augusta.edu
+• Jacob Burgamy Head Coach, 3rd Year 706-731-7914 jburgamy@augusta.edu
+• Melissa Brocato Assistant AD for Internal Affairs / Head Softball Coach, 27th Year 706-731-7916 mbrocato@augusta.edu
+• Taylor Senter Assistant Coach tsenter@augusta.edu
+• Jacob Topple Head Strength and Conditioning Coach jtopple@augusta.edu
+• Celeste Stewart Head Coach, 3rd Year 706-731-7909 cestewart@augusta.edu
+• Mone Florence Graduate Assistant Coach moflorence@augusta.edu
+• Ember Holloway Head Coach 815-590-3725 emholloway@augusta.edu
+• Michael McGrath Head Coach, 28th Year 706-667-4349 mmcgrath@augusta.edu
+• Jacob Burgamy Head Coach, 3rd Year 706-731-7914 jburgamy@augusta.edu
+• Sharon Quarles Head Coach, 16th Year 706-667-4766 squarles@augusta.edu
+• Dekyra Dennis Assistant Coach 706-731-7937 dedennis@augusta.edu
+• Jacob Burgamy Head Coach, 3rd Year 706-731-7914 jburgamy@augusta.edu

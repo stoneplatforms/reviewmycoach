@@ -1,0 +1,149 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:23
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tony Faticoni
+   Email: tony.faticoni@pfeiffer.edu
+   Username: tony.faticoni
+   Original line: Tony Faticoni Head Men's Soccer Coach - tony.faticoni@pfeiffer.edu 704-463- Rutgers, 1994
+
+2. Pete Schoch
+   Email: pete.schoch@pfeiffer.edu
+   Username: pete.schoch
+   Original line: Pete Schoch Head Men's Basketball Coach pete.schoch@pfeiffer.edu 704-463- Michigan, 2001; Pfeiffer, 2024
+
+3. Don Spencer
+   Email: donald.spencer@pfeiffer.edu
+   Username: donald.spencer
+   Original line: Don Spencer Associate Head Men's Basketball Coach donald.spencer@pfeiffer.edu 704-463- Eastern Michigan, 1999
+
+4. Ryan Lundvall
+   Email: ryan.lundvall@pfeiffer.edu
+   Username: ryan.lundvall
+   Original line: Ryan Lundvall Assistant Coach - Men's Basketball ryan.lundvall@pfeiffer.edu Gonzaga, 2021; Pfeiffer, 2023
+
+5. Vontreece Hayes
+   Email: vontreece.hayes@pfeiffer.edu
+   Username: vontreece.hayes
+   Original line: Vontreece Hayes Head Women's Basketball Coach vontreece.hayes@pfeiffer.edu 704-463- Greensboro, 2015 (BS);
+
+6. Kenadie Hudler
+   Email: kenadie.hudler@pfeiffer.edu
+   Username: kenadie.hudler
+   Original line: Kenadie Hudler Assistant Women's Basketball Coach kenadie.hudler@pfeiffer.edu Pfeiffer, 2025
+
+7. Craig Bolton
+   Email: craig.bolton@pfeiffer.edu
+   Username: craig.bolton
+   Original line: Craig Bolton Head Baseball Coach craig.bolton@pfeiffer.edu 704-472- Pfeiffer, 2015
+
+8. Cory Lackey
+   Email: cory.lackey@pfeiffer.edu
+   Username: cory.lackey
+   Original line: Cory Lackey Assistant Baseball Coach/Recruiting cory.lackey@pfeiffer.edu 336-566- Pfeiffer, 2023 (BS); Pfeiffer,
+
+9. Thomas Welton
+   Email: thomas.welton@pfeiffer.edu
+   Username: thomas.welton
+   Original line: Thomas Welton Assistant Coach - Baseball thomas.welton@pfeiffer.edu
+
+10. Laura Dawsey
+   Email: laura.echeverry@pfeiffer.edu
+   Username: laura.echeverry
+   Original line: Laura Dawsey Cheerleading Coach laura.echeverry@pfeiffer.edu 704-463- Wingate, 2022
+
+11. Aneil Parker
+   Email: aneil.parker@pfeiffer.edu
+   Username: aneil.parker
+   Original line: Aneil Parker Cheerleading Coach aneil.parker@pfeiffer.edu Appalachian State, 2021
+
+12. Bob Marchinko
+   Email: bob.marchinko@pfeiffer.edu
+   Username: bob.marchinko
+   Original line: Bob Marchinko Head Cross Country/Track & Field Coach bob.marchinko@pfeiffer.edu 704-463- Kent State, 1994
+
+13. Drew MacBean
+   Email: andrew.macbean@pfeiffer.edu
+   Username: andrew.macbean
+   Original line: Drew MacBean Head Men's & Women's Golf Coach andrew.macbean@pfeiffer.edu 601-809- Campbell, 2013 (BS),
+
+14. Christine Treanor
+   Email: christine.treanor@pfeiffer.edu
+   Username: christine.treanor
+   Original line: Christine Treanor Assistant Coach - Men's & Women's Golf christine.treanor@pfeiffer.edu 704-463- Texas Pan American '05,
+
+15. Julia Barbato
+   Email: julia.barbato@pfeiffer.edu
+   Username: julia.barbato
+   Original line: Julia Barbato Women's Lacrosse Coach julia.barbato@pfeiffer.edu Pfeiffer, 2024
+
+16. Chloe Johnson
+   Email: chloe.johnson@pfeiffer.edu
+   Username: chloe.johnson
+   Original line: Chloe Johnson Assistant Coach - Women's Lacrosse chloe.johnson@pfeiffer.edu Ohio State, 2023
+
+17. Tony Faticoni
+   Email: tony.faticoni@pfeiffer.edu
+   Username: tony.faticoni
+   Original line: Tony Faticoni Head Men's Soccer Coach - tony.faticoni@pfeiffer.edu 704-463- Rutgers, 1994
+
+18. Acasio Roche
+   Email: acasio.roche@pfeiffer.edu
+   Username: acasio.roche
+   Original line: Acasio Roche III Head Women's Soccer Coach acasio.roche@pfeiffer.edu United States Sports
+
+19. Jamie Kazenmayer
+   Email: jamie.kazenmayer@pfeiffer.edu
+   Username: jamie.kazenmayer
+   Original line: Jamie Kazenmayer Associate Head Women's Soccer Coach jamie.kazenmayer@pfeiffer.edu Catawba, 2022
+
+20. Monte Sherrill
+   Email: monte.sherrill@pfeiffer.edu
+   Username: monte.sherrill
+   Original line: Monte Sherrill Head Softball Coach monte.sherrill@pfeiffer.edu 828-446- Pfeiffer, 1987; USMC Veteran
+
+21. Alexis Walter
+   Email: alexis.walter@pfeiffer.edu
+   Username: alexis.walter
+   Original line: Alexis Walter Assistant Softball Coach/Compliance alexis.walter@pfeiffer.edu 845-807- Pfeiffer, 2023; Pfeiffer, 2025
+
+22. Heather Schoch
+   Email: heather.schoch@pfeiffer.edu
+   Username: heather.schoch
+   Original line: Heather Schoch Head Volleyball Coach heather.schoch@pfeiffer.edu 704-463- Eastern Michigan, 1994
+
+23. Daniella Balducci
+   Email: daniella.balducci@pfeiffer.edu
+   Username: daniella.balducci
+   Original line: Daniella Balducci Assistant Volleyball Coach daniella.balducci@pfeiffer.edu 704-463- Pfeiffer, 2023
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tony Faticoni Head Men's Soccer Coach - tony.faticoni@pfeiffer.edu 704-463- Rutgers, 1994
+• Pete Schoch Head Men's Basketball Coach pete.schoch@pfeiffer.edu 704-463- Michigan, 2001; Pfeiffer, 2024
+• Don Spencer Associate Head Men's Basketball Coach donald.spencer@pfeiffer.edu 704-463- Eastern Michigan, 1999
+• Ryan Lundvall Assistant Coach - Men's Basketball ryan.lundvall@pfeiffer.edu Gonzaga, 2021; Pfeiffer, 2023
+• Vontreece Hayes Head Women's Basketball Coach vontreece.hayes@pfeiffer.edu 704-463- Greensboro, 2015 (BS);
+• Kenadie Hudler Assistant Women's Basketball Coach kenadie.hudler@pfeiffer.edu Pfeiffer, 2025
+• Craig Bolton Head Baseball Coach craig.bolton@pfeiffer.edu 704-472- Pfeiffer, 2015
+• Cory Lackey Assistant Baseball Coach/Recruiting cory.lackey@pfeiffer.edu 336-566- Pfeiffer, 2023 (BS); Pfeiffer,
+• Thomas Welton Assistant Coach - Baseball thomas.welton@pfeiffer.edu
+• Laura Dawsey Cheerleading Coach laura.echeverry@pfeiffer.edu 704-463- Wingate, 2022
+• Aneil Parker Cheerleading Coach aneil.parker@pfeiffer.edu Appalachian State, 2021
+• Bob Marchinko Head Cross Country/Track & Field Coach bob.marchinko@pfeiffer.edu 704-463- Kent State, 1994
+• Drew MacBean Head Men's & Women's Golf Coach andrew.macbean@pfeiffer.edu 601-809- Campbell, 2013 (BS),
+• Christine Treanor Assistant Coach - Men's & Women's Golf christine.treanor@pfeiffer.edu 704-463- Texas Pan American '05,
+• Julia Barbato Women's Lacrosse Coach julia.barbato@pfeiffer.edu Pfeiffer, 2024
+• Chloe Johnson Assistant Coach - Women's Lacrosse chloe.johnson@pfeiffer.edu Ohio State, 2023
+• Tony Faticoni Head Men's Soccer Coach - tony.faticoni@pfeiffer.edu 704-463- Rutgers, 1994
+• Acasio Roche III Head Women's Soccer Coach acasio.roche@pfeiffer.edu United States Sports
+• Jamie Kazenmayer Associate Head Women's Soccer Coach jamie.kazenmayer@pfeiffer.edu Catawba, 2022
+• Monte Sherrill Head Softball Coach monte.sherrill@pfeiffer.edu 828-446- Pfeiffer, 1987; USMC Veteran
+• Alexis Walter Assistant Softball Coach/Compliance alexis.walter@pfeiffer.edu 845-807- Pfeiffer, 2023; Pfeiffer, 2025
+• Heather Schoch Head Volleyball Coach heather.schoch@pfeiffer.edu 704-463- Eastern Michigan, 1994
+• Daniella Balducci Assistant Volleyball Coach daniella.balducci@pfeiffer.edu 704-463- Pfeiffer, 2023

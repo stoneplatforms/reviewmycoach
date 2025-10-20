@@ -1,0 +1,89 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:27
+============================================================
+
+Total coaches found: 13
+
+PARSED ENTRIES:
+----------------------------------------
+1. Caleb Abney
+   Email: caleb.abney@sulross.edu
+   Username: caleb.abney
+   Original line: Caleb Abney Head Baseball Coach caleb.abney@sulross.edu
+
+2. Nick Chittum
+   Email: nick.chittum@sulross.edu
+   Username: nick.chittum
+   Original line: Nick Chittum Pitching Coach / Recruiting nick.chittum@sulross.edu
+
+3. Xavier Webb
+   Email: xavier.webb@sulross.edu
+   Username: xavier.webb
+   Original line: Xavier Webb Head Men's Basketball Coach (432) xavier.webb@sulross.edu
+
+4. Desare Allen
+   Email: Desare.Allen@sulross.edu
+   Username: Desare.Allen
+   Original line: Desare Allen Assistant Coach Desare.Allen@sulross.edu
+
+5. Lee Hays
+   Email: lee.hays@sulross.edu
+   Username: lee.hays
+   Original line: Lee Hays Head Coach lee.hays@sulross.edu
+
+6. Cadron Davis
+   Email: cxd21ui@sulross.edu
+   Username: cxd21ui
+   Original line: Cadron Davis Assistant Head Coach / cxd21ui@sulross.edu @CoachCadron
+
+7. Eric Daniels
+   Email: etd22ld@sulross.edu
+   Username: etd22ld
+   Original line: Eric Daniels Assistant Coach / Defensive etd22ld@sulross.edu @CoachE_Daniels
+
+8. Billy Jack
+   Email: billy.ray@sulross.edu
+   Username: billy.ray
+   Original line: Billy Jack Ray Assistant Coach / Running (432) billy.ray@sulross.edu @billyjackray
+
+9. John Dominguez
+   Email: john.dominguez@sulross.edu
+   Username: john.dominguez
+   Original line: John Dominguez Head Women's Soccer Coach (432) john.dominguez@sulross.edu
+
+10. Bailey Guffin
+   Email: bailey.guffin@sulross.edu
+   Username: bailey.guffin
+   Original line: Bailey Guffin Head Men's Soccer Coach (432) bailey.guffin@sulross.edu
+
+11. Lacey Middlebrooks
+   Email: Lacey.Middlebrooks@sulross.edu
+   Username: Lacey.Middlebrooks
+   Original line: Lacey Middlebrooks Softball Head Coach Lacey.Middlebrooks@sulross.edu
+
+12. Samantha Chavez
+   Email: sxc19ih@sulross.edu
+   Username: sxc19ih
+   Original line: Samantha Chavez Assistant Coach sxc19ih@sulross.edu
+
+13. Annika Canaba
+   Email: amc16pg@sulross.edu
+   Username: amc16pg
+   Original line: Annika Canaba Head Volleyball Coach (432) amc16pg@sulross.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Caleb Abney Head Baseball Coach caleb.abney@sulross.edu
+• Nick Chittum Pitching Coach / Recruiting nick.chittum@sulross.edu
+• Xavier Webb Head Men's Basketball Coach (432) xavier.webb@sulross.edu
+• Desare Allen Assistant Coach Desare.Allen@sulross.edu
+• Lee Hays Head Coach lee.hays@sulross.edu
+• Cadron Davis Assistant Head Coach / cxd21ui@sulross.edu @CoachCadron
+• Eric Daniels Assistant Coach / Defensive etd22ld@sulross.edu @CoachE_Daniels
+• Billy Jack Ray Assistant Coach / Running (432) billy.ray@sulross.edu @billyjackray
+• John Dominguez Head Women's Soccer Coach (432) john.dominguez@sulross.edu
+• Bailey Guffin Head Men's Soccer Coach (432) bailey.guffin@sulross.edu
+• Lacey Middlebrooks Softball Head Coach Lacey.Middlebrooks@sulross.edu
+• Samantha Chavez Assistant Coach sxc19ih@sulross.edu
+• Annika Canaba Head Volleyball Coach (432) amc16pg@sulross.edu

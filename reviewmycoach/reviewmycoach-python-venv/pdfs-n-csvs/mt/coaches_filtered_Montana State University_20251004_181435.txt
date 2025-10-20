@@ -1,0 +1,95 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:38
+============================================================
+
+Total coaches found: 14
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ellen Kreighbaum
+   Email: MSUBobcatsWBB1@gmail.com
+   Username: MSUBobcatsWBB1
+   Original line: Ellen Kreighbaum Head Women's Basketball Coach MSUBobcatsWBB1@gmail.com
+
+2. Associate Head
+   Email: sunny.smallwood@msubobcats.com
+   Username: sunny.smallwood
+   Original line: Associate Head Coach sunny.smallwood@msubobcats.com
+
+3. Head Coach
+   Email: football@msubobcats.com
+   Username: football
+   Original line: Head Coach football@msubobcats.com
+
+4. Head Coach
+   Email: bbasye@msubobcats.com
+   Username: bbasye
+   Original line: Head Coach bbasye@msubobcats.com
+
+5. Head Nordic
+   Email: adam.stpierre@msubobcats.com
+   Username: adam.stpierre
+   Original line: Head Nordic Coach adam.stpierre@msubobcats.com
+
+6. Head Alpine
+   Email: kristopher.shampeny@msubobcats.com
+   Username: kristopher.shampeny
+   Original line: Head Alpine Coach kristopher.shampeny@msubobcats.com
+
+7. Assistant Alpine
+   Email: roger.bay1@msubobcats.com
+   Username: roger.bay1
+   Original line: Assistant Alpine Coach roger.bay1@msubobcats.com
+
+8. Assistant Coach/Throws
+   Email: jennifer.allen@msubobcats.com
+   Username: jennifer.allen
+   Original line: Assistant Coach/Throws jennifer.allen@msubobcats.com
+
+9. Assistant Coach
+   Email: teague.peck@msubobcats.com
+   Username: teague.peck
+   Original line: Assistant Coach (Sprints/Hurdles) teague.peck@msubobcats.com
+
+10. Head Volleyball
+   Email: matthew.houk@msubobcats.com
+   Username: matthew.houk
+   Original line: Head Volleyball Coach matthew.houk@msubobcats.com
+
+11. Associate Head
+   Email: Jennifer.houk@msubobcats.com
+   Username: Jennifer.houk
+   Original line: Associate Head Coach Jennifer.houk@msubobcats.com
+
+12. Assistant Coach
+   Email: taylor.els@msubobcats.com
+   Username: taylor.els
+   Original line: Assistant Coach taylor.els@msubobcats.com
+
+13. Head Coach
+   Email: kyle.whitaker@msubobcats.com
+   Username: kyle.whitaker
+   Original line: Head Coach kyle.whitaker@msubobcats.com
+
+14. Assistant Rodeo
+   Email: savanna.bolich@msubobcats.com
+   Username: savanna.bolich
+   Original line: Assistant Rodeo Coach savanna.bolich@msubobcats.com
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ellen Kreighbaum Head Women's Basketball Coach MSUBobcatsWBB1@gmail.com
+• Associate Head Coach sunny.smallwood@msubobcats.com
+• Head Coach football@msubobcats.com
+• Head Coach bbasye@msubobcats.com
+• Head Nordic Coach adam.stpierre@msubobcats.com
+• Head Alpine Coach kristopher.shampeny@msubobcats.com
+• Assistant Alpine Coach roger.bay1@msubobcats.com
+• Assistant Coach/Throws jennifer.allen@msubobcats.com
+• Assistant Coach (Sprints/Hurdles) teague.peck@msubobcats.com
+• Head Volleyball Coach matthew.houk@msubobcats.com
+• Associate Head Coach Jennifer.houk@msubobcats.com
+• Assistant Coach taylor.els@msubobcats.com
+• Head Coach kyle.whitaker@msubobcats.com
+• Assistant Rodeo Coach savanna.bolich@msubobcats.com

@@ -1,0 +1,332 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:45
+============================================================
+
+Total coaches found: 51
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kristin Halte
+   Email: kristin.halte@biola.edu
+   Username: kristin.halte
+   Phone: (562) 906-4177
+   Original line: Kristin Halte Head Softball Coach/SWA kristin.halte@biola.edu 562-906-4177
+
+2. Shawn Wayland
+   Email: shawn.wayland@biola.edu
+   Username: shawn.wayland
+   Original line: Dr. Shawn Wayland Asst. Strength & Conditioning Coach shawn.wayland@biola.edu
+
+3. Tristan Cazel
+   Email: tristan.cazel@biola.edu
+   Username: tristan.cazel
+   Original line: Tristan Cazel Asst. Strength & Conditioning Coach tristan.cazel@biola.edu
+
+4. Jesse Rodgers
+   Email: jesse.rodgers@biola.edu
+   Username: jesse.rodgers
+   Phone: (562) 777-4082
+   Original line: Jesse Rodgers Head Baseball Coach jesse.rodgers@biola.edu 562-777-4082
+
+5. Zachary Thomas
+   Email: zachary.thomas@biola.edu
+   Username: zachary.thomas
+   Original line: Zachary Thomas Lead Asst. Baseball Coach zachary.thomas@biola.edu
+
+6. Chad Castillo
+   Email: chad.castillo@biola.edu
+   Username: chad.castillo
+   Original line: Chad Castillo Asst. Baseball Coach chad.castillo@biola.edu
+
+7. Josh Frye
+   Email: joshua.frye@biola.edu
+   Username: joshua.frye
+   Original line: Josh Frye Asst. Baseball Coach joshua.frye@biola.edu
+
+8. Dave Holmquist
+   Email: dave.holmquist@biola.edu
+   Username: dave.holmquist
+   Phone: (562) 906-4519
+   Original line: Dr. Dave Holmquist Head Men's Basketball Coach dave.holmquist@biola.edu 562-906-4519
+
+9. Louis Czech
+   Email: louis.czech@biola.edu
+   Username: louis.czech
+   Original line: Louis Czech Asst. Men's Basketball Coach louis.czech@biola.edu
+
+10. Matt Okada
+   Email: matt.okada@biola.edu
+   Username: matt.okada
+   Original line: Matt Okada Asst. Men's Basketball Coach matt.okada@biola.edu
+
+11. Colton Meo
+   Email: colton.meo@biola.edu
+   Username: colton.meo
+   Original line: Colton Meo Volunteer Asst. Men's Basketball Coach colton.meo@biola.edu
+
+12. Bob Petty
+   Email: bob.petty.jr@biola.edu
+   Username: bob.petty.jr
+   Original line: Bob Petty Jr. Volunteer Asst. Men's Basketball Coach bob.petty.jr@biola.edu
+
+13. Mike Simonson
+   Email: mike.simonson@biola.edu
+   Username: mike.simonson
+   Phone: (562) 777-4079
+   Original line: Mike Simonson Head Women's Basketball Coach mike.simonson@biola.edu 562-777-4079
+
+14. Maya Duchesne
+   Email: maya.duchesne@biola.edu
+   Username: maya.duchesne
+   Original line: Maya Duchesne Asst. Women's Basketball Coach maya.duchesne@biola.edu
+
+15. Sydney Burns
+   Email: sydney.burns@biola.edu
+   Username: sydney.burns
+   Original line: Sydney Burns Asst. Women's Basketball Coach sydney.burns@biola.edu
+
+16. Branden Cruz
+   Email: branden.cruz@biola.edu
+   Username: branden.cruz
+   Original line: Branden Cruz Asst. Track/XC Coach branden.cruz@biola.edu
+
+17. Joey O'Keefe
+   Email: bu.men.soccer@biola.edu
+   Username: bu.men.soccer
+   Phone: (562) 903-4823
+   Original line: Joey O'Keefe Head Men's Soccer Coach bu.men.soccer@biola.edu 562-903-4823
+
+18. Malik Shaheed
+   Email: bu.men.soccer@biola.edu
+   Username: bu.men.soccer
+   Original line: Malik Shaheed Associate Head Coach bu.men.soccer@biola.edu
+
+19. Dylan Memory
+   Email: dylan.memory@biola.edu
+   Username: dylan.memory
+   Original line: Dylan Memory Asst. Men's Soccer Coach dylan.memory@biola.edu
+
+20. David Enciso
+   Email: luis.david.enciso@biola.edu
+   Username: luis.david.enciso
+   Original line: David Enciso Asst. Men's Soccer Coach luis.david.enciso@biola.edu
+
+21. Brett Croft
+   Email: bu.womens.soccer@biola.edu
+   Username: bu.womens.soccer
+   Phone: (562) 903-4778
+   Original line: Brett Croft Head Women's Soccer Coach bu.womens.soccer@biola.edu 562-903-4778
+
+22. Guilherme Mitrovitch
+   Email: guilherme.mitrovitch@biola.edu
+   Username: guilherme.mitrovitch
+   Original line: Guilherme Mitrovitch Lead Asst. Women's Soccer Coach guilherme.mitrovitch@biola.edu
+
+23. Melanie Daly
+   Email: melanie.daly@biola.edu
+   Username: melanie.daly
+   Phone: (562) 903-2899
+   Original line: Melanie Daly Asst. Women's Soccer Coach melanie.daly@biola.edu 562-903-2899
+
+24. Kristin Halte
+   Email: kristin.halte@biola.edu
+   Username: kristin.halte
+   Phone: (562) 906-4177
+   Original line: Kristin Halte Head Softball Coach/SWA kristin.halte@biola.edu 562-906-4177
+
+25. Kayla Neff
+   Email: kayla.neff@biola.edu
+   Username: kayla.neff
+   Original line: Kayla Neff Asst. Softball Coach kayla.neff@biola.edu
+
+26. Paige Austin
+   Email: paige.v.austin@biola.edu
+   Username: paige.v.austin
+   Original line: Paige Austin Asst. Softball Coach paige.v.austin@biola.edu
+
+27. Nate Harding
+   Email: swimming@biola.edu
+   Username: swimming
+   Phone: (562) 906-4169
+   Original line: Nate Harding Head Swim & Dive Coach swimming@biola.edu 562-906-4169
+
+28. Elizabeth Mackay
+   Email: elizabeth.mackay@biola.edu
+   Username: elizabeth.mackay
+   Original line: Elizabeth Mackay Head Diving Coach elizabeth.mackay@biola.edu
+
+29. Leah Thomas
+   Email: leah.thomas@biola.edu
+   Username: leah.thomas
+   Original line: Leah Thomas Lead Asst. Coach leah.thomas@biola.edu
+
+30. Daniel Parahnevich
+   Email: daniel.parahnevich@biola.edu
+   Username: daniel.parahnevich
+   Original line: Daniel Parahnevich Asst. Swim & Dive Coach daniel.parahnevich@biola.edu
+
+31. Ivanna Gomez
+   Email: ivanna.gomez@biola.edu
+   Username: ivanna.gomez
+   Original line: Ivanna Gomez Asst. Swim & Dive Coach ivanna.gomez@biola.edu
+
+32. David Goodman
+   Email: david.t.goodman@biola.edu
+   Username: david.t.goodman
+   Phone: (562) 906-4167
+   Original line: David Goodman Head Tennis Coach david.t.goodman@biola.edu 562-906-4167
+
+33. Jackson Boxall
+   Email: jackson.boxall@biola.edu
+   Username: jackson.boxall
+   Original line: Jackson Boxall Assistant Coach jackson.boxall@biola.edu
+
+34. David Goodman
+   Email: david.t.goodman@biola.edu
+   Username: david.t.goodman
+   Phone: (562) 906-4167
+   Original line: David Goodman Head Tennis Coach david.t.goodman@biola.edu 562-906-4167
+
+35. Jackson Boxall
+   Email: jackson.boxall@biola.edu
+   Username: jackson.boxall
+   Original line: Jackson Boxall Assistant Coach jackson.boxall@biola.edu
+
+36. Justin Johnson
+   Email: justin.johnson@biola.edu
+   Username: justin.johnson
+   Original line: Justin Johnson Associate Head Coach, Track & Field justin.johnson@biola.edu
+
+37. Nadya Wisham
+   Email: nadya.wisham@biola.edu
+   Username: nadya.wisham
+   Original line: Nadya Wisham Asst. Track & Field Coach - Jumps nadya.wisham@biola.edu
+
+38. Branden Cruz
+   Email: branden.cruz@biola.edu
+   Username: branden.cruz
+   Original line: Branden Cruz Asst. Track/XC Coach branden.cruz@biola.edu
+
+39. Chris Witscher
+   Email: christopher.witscher@biola.edu
+   Username: christopher.witscher
+   Original line: Chris Witscher Asst. Track & Field Coach christopher.witscher@biola.edu
+
+40. Jennifer Martinez
+   Email: jen.martinez@biola.edu
+   Username: jen.martinez
+   Original line: Jennifer Martinez Volunteer Asst. Track & Field Coach jen.martinez@biola.edu
+
+41. Brian Failinger
+   Email: brian.failinger@biola.edu
+   Username: brian.failinger
+   Phone: (562) 906-4171
+   Original line: Brian Failinger Head Volleyball Coach brian.failinger@biola.edu 562-906-4171
+
+42. Aaron Seltzer
+   Email: bu.volleyball@biola.edu
+   Username: bu.volleyball
+   Phone: (562) 944-0351
+   Original line: Aaron Seltzer Asst. Volleyball Coach bu.volleyball@biola.edu 562-944-0351
+
+43. Meredith Fisher
+   Email: meredith.fisher@biola.edu
+   Username: meredith.fisher
+   Original line: Meredith Fisher Asst. Volleyball Coach meredith.fisher@biola.edu
+
+44. Abbey Beckwith
+   Email: abbey.beckwith@biola.edu
+   Username: abbey.beckwith
+   Original line: Abbey Beckwith Student Asst. Volleyball Coach abbey.beckwith@biola.edu
+
+45. Raegan Tjepkema
+   Email: raegan.tjepkema@biola.edu
+   Username: raegan.tjepkema
+   Original line: Raegan Tjepkema Volunteer Asst. Volleyball Coach raegan.tjepkema@biola.edu
+
+46. Julia Peet
+   Email: julia.peet@biola.edu
+   Username: julia.peet
+   Original line: Julia Peet Volunteer Asst. Volleyball Coach julia.peet@biola.edu
+
+47. Jens Cole
+   Email: jens.cole@biola.edu
+   Username: jens.cole
+   Phone: (562) 903-2898
+   Original line: Jens Cole Head Men's Water Polo Coach jens.cole@biola.edu 562-903-2898
+
+48. Samantha Rainey
+   Email: samantha.rainey@biola.edu
+   Username: samantha.rainey
+   Original line: Samantha Rainey Asst. Men's Water Polo Coach/Goalie Coach samantha.rainey@biola.edu
+
+49. Matthew Rodriguez
+   Email: matthew.rodriguez@biola.edu
+   Username: matthew.rodriguez
+   Original line: Matthew Rodriguez Asst. Men's Water Polo Coach matthew.rodriguez@biola.edu
+
+50. Sarah Ramirez
+   Email: sarah.m.ramirez@biola.edu
+   Username: sarah.m.ramirez
+   Phone: (562) 944-0351
+   Original line: Sarah Ramirez Head Women's Water Polo Coach sarah.m.ramirez@biola.edu 562-944-0351
+
+51. Elyssa Hawkins
+   Email: elyssa.hawkins@biola.edu
+   Username: elyssa.hawkins
+   Original line: Elyssa Hawkins Asst. Women's Water Polo Coach elyssa.hawkins@biola.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kristin Halte Head Softball Coach/SWA kristin.halte@biola.edu 562-906-4177
+• Dr. Shawn Wayland Asst. Strength & Conditioning Coach shawn.wayland@biola.edu
+• Tristan Cazel Asst. Strength & Conditioning Coach tristan.cazel@biola.edu
+• Jesse Rodgers Head Baseball Coach jesse.rodgers@biola.edu 562-777-4082
+• Zachary Thomas Lead Asst. Baseball Coach zachary.thomas@biola.edu
+• Chad Castillo Asst. Baseball Coach chad.castillo@biola.edu
+• Josh Frye Asst. Baseball Coach joshua.frye@biola.edu
+• Dr. Dave Holmquist Head Men's Basketball Coach dave.holmquist@biola.edu 562-906-4519
+• Louis Czech Asst. Men's Basketball Coach louis.czech@biola.edu
+• Matt Okada Asst. Men's Basketball Coach matt.okada@biola.edu
+• Colton Meo Volunteer Asst. Men's Basketball Coach colton.meo@biola.edu
+• Bob Petty Jr. Volunteer Asst. Men's Basketball Coach bob.petty.jr@biola.edu
+• Mike Simonson Head Women's Basketball Coach mike.simonson@biola.edu 562-777-4079
+• Maya Duchesne Asst. Women's Basketball Coach maya.duchesne@biola.edu
+• Sydney Burns Asst. Women's Basketball Coach sydney.burns@biola.edu
+• Branden Cruz Asst. Track/XC Coach branden.cruz@biola.edu
+• Joey O'Keefe Head Men's Soccer Coach bu.men.soccer@biola.edu 562-903-4823
+• Malik Shaheed Associate Head Coach bu.men.soccer@biola.edu
+• Dylan Memory Asst. Men's Soccer Coach dylan.memory@biola.edu
+• David Enciso Asst. Men's Soccer Coach luis.david.enciso@biola.edu
+• Brett Croft Head Women's Soccer Coach bu.womens.soccer@biola.edu 562-903-4778
+• Guilherme Mitrovitch Lead Asst. Women's Soccer Coach guilherme.mitrovitch@biola.edu
+• Melanie Daly Asst. Women's Soccer Coach melanie.daly@biola.edu 562-903-2899
+• Kristin Halte Head Softball Coach/SWA kristin.halte@biola.edu 562-906-4177
+• Kayla Neff Asst. Softball Coach kayla.neff@biola.edu
+• Paige Austin Asst. Softball Coach paige.v.austin@biola.edu
+• Nate Harding Head Swim & Dive Coach swimming@biola.edu 562-906-4169
+• Elizabeth Mackay Head Diving Coach elizabeth.mackay@biola.edu
+• Leah Thomas Lead Asst. Coach leah.thomas@biola.edu
+• Daniel Parahnevich Asst. Swim & Dive Coach daniel.parahnevich@biola.edu
+• Ivanna Gomez Asst. Swim & Dive Coach ivanna.gomez@biola.edu
+• David Goodman Head Tennis Coach david.t.goodman@biola.edu 562-906-4167
+• Jackson Boxall Assistant Coach jackson.boxall@biola.edu
+• David Goodman Head Tennis Coach david.t.goodman@biola.edu 562-906-4167
+• Jackson Boxall Assistant Coach jackson.boxall@biola.edu
+• Justin Johnson Associate Head Coach, Track & Field justin.johnson@biola.edu
+• Nadya Wisham Asst. Track & Field Coach - Jumps nadya.wisham@biola.edu
+• Branden Cruz Asst. Track/XC Coach branden.cruz@biola.edu
+• Chris Witscher Asst. Track & Field Coach christopher.witscher@biola.edu
+• Jennifer Martinez Volunteer Asst. Track & Field Coach jen.martinez@biola.edu
+• Brian Failinger Head Volleyball Coach brian.failinger@biola.edu 562-906-4171
+• Aaron Seltzer Asst. Volleyball Coach bu.volleyball@biola.edu 562-944-0351
+• Meredith Fisher Asst. Volleyball Coach meredith.fisher@biola.edu
+• Abbey Beckwith Student Asst. Volleyball Coach abbey.beckwith@biola.edu
+• Raegan Tjepkema Volunteer Asst. Volleyball Coach raegan.tjepkema@biola.edu
+• Julia Peet Volunteer Asst. Volleyball Coach julia.peet@biola.edu
+• Jens Cole Head Men's Water Polo Coach jens.cole@biola.edu 562-903-2898
+• Samantha Rainey Asst. Men's Water Polo Coach/Goalie Coach samantha.rainey@biola.edu
+• Matthew Rodriguez Asst. Men's Water Polo Coach matthew.rodriguez@biola.edu
+• Sarah Ramirez Head Women's Water Polo Coach sarah.m.ramirez@biola.edu 562-944-0351
+• Elyssa Hawkins Asst. Women's Water Polo Coach elyssa.hawkins@biola.edu

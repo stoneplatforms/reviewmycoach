@@ -1,0 +1,197 @@
+COACH ENTRIES FOUND - 2025-10-19 04:54:46
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Adam Jacobsen
+   Email: Adam.Jacobsen@uvu.edu
+   Username: Adam.Jacobsen
+   Original line: Adam Jacobsen Assistant Coach, Adam.Jacobsen@uvu.edu
+
+2. Ivory "Trey"
+   Email: Ivory.Young@uvu.edu
+   Username: Ivory.Young
+   Original line: Ivory "Trey" Young Assistant Coach, Ivory.Young@uvu.edu OppositeOfIvory
+
+3. Trevor Stranger
+   Email: trevor.stranger@uvu.edu
+   Username: trevor.stranger
+   Original line: Trevor Stranger Assistant Coach, trevor.stranger@uvu.edu (208) trevstranger
+
+4. McKenzie Mangino
+   Email: McKenzie.Mangino@uvu.edu
+   Username: McKenzie.Mangino
+   Original line: McKenzie Mangino Assistant Coach, McKenzie.Mangino@uvu.edu coachkenz_m
+
+5. Jasmine Porter
+   Email: Jasmine.Porter@uvu.edu
+   Username: Jasmine.Porter
+   Original line: Jasmine Porter Assistant Coach, Jasmine.Porter@uvu.edu
+
+6. Nate Rasmussen
+   Email: Nate.Rasmussen@uvu.edu
+   Username: Nate.Rasmussen
+   Original line: Nate Rasmussen Head Coach, Baseball Nate.Rasmussen@uvu.edu natejrazz
+
+7. Paul Gehring
+   Email: paul.gehring@uvu.edu
+   Username: paul.gehring
+   Original line: Paul Gehring Assistant Coach / paul.gehring@uvu.edu CoachGehring
+
+8. Kyle Treadway
+   Email: Kyle.Treadway@uvu.edu
+   Username: Kyle.Treadway
+   Original line: Kyle Treadway Assistant Coach, Kyle.Treadway@uvu.edu coach_tread
+
+9. Mitch Moralez
+   Email: mitchell.moralez@uvu.edu
+   Username: mitchell.moralez
+   Original line: Mitch Moralez Assistant Coach, mitchell.moralez@uvu.edu mitchmoralez8
+
+10. Scott Houle
+   Email: scott.houle@uvu.edu
+   Username: scott.houle
+   Original line: Scott Houle Head Coach (All scott.houle@uvu.edu UVHoule
+
+11. Jill Williams
+   Email: jill.williams@uvu.edu
+   Username: jill.williams
+   Original line: Jill Williams Assistant Coach jill.williams@uvu.edu
+
+12. Ian Dildine
+   Email: Ian.Dildine@uvu.edu
+   Username: Ian.Dildine
+   Original line: Ian Dildine Assistant Coach Ian.Dildine@uvu.edu
+
+13. Samantha Smith
+   Email: Samantha.Smith@uvu.edu
+   Username: Samantha.Smith
+   Original line: Samantha Smith Assistant Coach Samantha.Smith@uvu.edu
+
+14. Chris Curran
+   Email: chris.curran@uvu.edu
+   Username: chris.curran
+   Original line: Chris Curran Head Coach, Men's chris.curran@uvu.edu 801- UtahValleyGolf
+
+15. Andrew Mecham
+   Email: andrew.mecham@uvu.edu
+   Username: andrew.mecham
+   Original line: Andrew Mecham Assistant Coach, andrew.mecham@uvu.edu
+
+16. Juli Erekson
+   Email: juli.erekson@uvu.edu
+   Username: juli.erekson
+   Original line: Juli Erekson Head Coach, juli.erekson@uvu.edu 801- JuliErekson
+
+17. Michael Chesler
+   Email: michael.chesler@uvu.edu
+   Username: michael.chesler
+   Original line: Michael Chesler Associate Head michael.chesler@uvu.edu CoachChesler
+
+18. Brett Jacobs
+   Email: brett.jacobs@uvu.edu
+   Username: brett.jacobs
+   Original line: Brett Jacobs Assistant Coach, brett.jacobs@uvu.edu
+
+19. Chris Lemay
+   Email: chris.lemay@uvu.edu
+   Username: chris.lemay
+   Original line: Chris Lemay Head Coach, chris.lemay@uvu.edu 801-
+
+20. Nuno Gourgel
+   Email: Nuno.Gourgel@uvu.edu
+   Username: Nuno.Gourgel
+   Original line: Nuno Gourgel Assistant Coach / Nuno.Gourgel@uvu.edu
+
+21. Sydney Bushman
+   Email: sydney.bushman@uvu.edu
+   Username: sydney.bushman
+   Original line: Sydney Bushman Assistant Coach, sydney.bushman@uvu.edu
+
+22. Ashton Gordon
+   Email: AGordon@uvu.edu
+   Username: AGordon
+   Original line: Ashton Gordon Assistant Coach / AGordon@uvu.edu
+
+23. Marissa Chavez
+   Email: marissa.chavez@uvu.edu
+   Username: marissa.chavez
+   Original line: Marissa Chavez Assistant Coach, marissa.chavez@uvu.edu
+
+24. Haley Brown
+   Email: haley.denning@uvu.edu
+   Username: haley.denning
+   Original line: Haley Brown Assistant Coach, haley.denning@uvu.edu
+
+25. Sam Atoa
+   Email: sam.atoa@uvu.edu
+   Username: sam.atoa
+   Original line: Sam Atoa Head Coach, sam.atoa@uvu.edu 801- AtoaSam
+
+26. Andrew Richards
+   Email: andrew.richards@uvu.edu
+   Username: andrew.richards
+   Original line: Andrew Richards Assistant Coach, andrew.richards@uvu.edu 801-
+
+27. Scott Lee
+   Email: scott.lee@uvu.edu
+   Username: scott.lee
+   Original line: Scott Lee Assistant Coach, scott.lee@uvu.edu 801- UVUwvb
+
+28. Kent Nitta
+   Email: kent.nitta@uvu.edu
+   Username: kent.nitta
+   Original line: Kent Nitta Assistant Coach, kent.nitta@uvu.edu 801- KentNitta
+
+29. Adam Hall
+   Email: Adam.Hall@uvu.edu
+   Username: Adam.Hall
+   Original line: Adam Hall Head Coach, Adam.Hall@uvu.edu coachhallstar
+
+30. Timmy McCall
+   Email: tmccall@uvu.edu
+   Username: tmccall
+   Original line: Timmy McCall Head Assistant Coach, tmccall@uvu.edu TimmyMccall
+
+31. Andrew Hochstrasser
+   Email: andrewh@uvu.edu
+   Username: andrewh
+   Original line: Andrew Hochstrasser Assistant Coach, andrewh@uvu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Adam Jacobsen Assistant Coach, Adam.Jacobsen@uvu.edu
+• Ivory "Trey" Young Assistant Coach, Ivory.Young@uvu.edu OppositeOfIvory
+• Trevor Stranger Assistant Coach, trevor.stranger@uvu.edu (208) trevstranger
+• McKenzie Mangino Assistant Coach, McKenzie.Mangino@uvu.edu coachkenz_m
+• Jasmine Porter Assistant Coach, Jasmine.Porter@uvu.edu
+• Nate Rasmussen Head Coach, Baseball Nate.Rasmussen@uvu.edu natejrazz
+• Paul Gehring Assistant Coach / paul.gehring@uvu.edu CoachGehring
+• Kyle Treadway Assistant Coach, Kyle.Treadway@uvu.edu coach_tread
+• Mitch Moralez Assistant Coach, mitchell.moralez@uvu.edu mitchmoralez8
+• Scott Houle Head Coach (All scott.houle@uvu.edu UVHoule
+• Jill Williams Assistant Coach jill.williams@uvu.edu
+• Ian Dildine Assistant Coach Ian.Dildine@uvu.edu
+• Samantha Smith Assistant Coach Samantha.Smith@uvu.edu
+• Chris Curran Head Coach, Men's chris.curran@uvu.edu 801- UtahValleyGolf
+• Andrew Mecham Assistant Coach, andrew.mecham@uvu.edu
+• Juli Erekson Head Coach, juli.erekson@uvu.edu 801- JuliErekson
+• Michael Chesler Associate Head michael.chesler@uvu.edu CoachChesler
+• Brett Jacobs Assistant Coach, brett.jacobs@uvu.edu
+• Chris Lemay Head Coach, chris.lemay@uvu.edu 801-
+• Nuno Gourgel Assistant Coach / Nuno.Gourgel@uvu.edu
+• Sydney Bushman Assistant Coach, sydney.bushman@uvu.edu
+• Ashton Gordon Assistant Coach / AGordon@uvu.edu
+• Marissa Chavez Assistant Coach, marissa.chavez@uvu.edu
+• Haley Brown Assistant Coach, haley.denning@uvu.edu
+• Sam Atoa Head Coach, sam.atoa@uvu.edu 801- AtoaSam
+• Andrew Richards Assistant Coach, andrew.richards@uvu.edu 801-
+• Scott Lee Assistant Coach, scott.lee@uvu.edu 801- UVUwvb
+• Kent Nitta Assistant Coach, kent.nitta@uvu.edu 801- KentNitta
+• Adam Hall Head Coach, Adam.Hall@uvu.edu coachhallstar
+• Timmy McCall Head Assistant Coach, tmccall@uvu.edu TimmyMccall
+• Andrew Hochstrasser Assistant Coach, andrewh@uvu.edu

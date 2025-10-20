@@ -1,0 +1,101 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:36
+============================================================
+
+Total coaches found: 15
+
+PARSED ENTRIES:
+----------------------------------------
+1. Grant Reynolds
+   Email: reynoldsg@lincolnu.edu
+   Username: reynoldsg
+   Original line: Grant Reynolds Head Baseball Coach reynoldsg@lincolnu.edu (573)
+
+2. Curtis Vaughan
+   Email: curtis.vaughan656@lincolnu.edu
+   Username: curtis.vaughan656
+   Original line: Curtis Vaughan Assistant Coach curtis.vaughan656@lincolnu.edu
+
+3. Jimmy Drew
+   Email: drewj@lincolnu.edu
+   Username: drewj
+   Original line: Jimmy Drew Head Men's Basketball Coach drewj@lincolnu.edu (573)
+
+4. Nick Carty
+   Email: cartyn@lincolnu.edu
+   Username: cartyn
+   Original line: Nick Carty Associate Head Coach cartyn@lincolnu.edu
+
+5. Leonard Erickson
+   Email: ericksonl@lincolnu.edu
+   Username: ericksonl
+   Original line: Leonard Erickson Assistant Coach/Director of ericksonl@lincolnu.edu (573)
+
+6. Vivian Chigbu
+   Email: vivian.chigbu764@my.lincolnu.edu
+   Username: vivian.chigbu764
+   Original line: Vivian Chigbu Assistant Coach/Assistant vivian.chigbu764@my.lincolnu.edu
+
+7. Moses Harper
+   Email: harperm2@lincolnu.edu
+   Username: harperm2
+   Original line: Moses Harper Head Football Coach harperm2@lincolnu.edu
+
+8. Terrence Campbell
+   Email: campbellt@lincolnu.edu
+   Username: campbellt
+   Original line: Terrence Campbell Defensive Line Coach campbellt@lincolnu.edu
+
+9. Randy Bickel
+   Email: bickelr@lincolnu.edu
+   Username: bickelr
+   Original line: Randy Bickel Volunteer Coach bickelr@lincolnu.edu (573)
+
+10. Sammy Samuels
+   Email: SamuelsO@lincolnu.edu
+   Username: SamuelsO
+   Original line: Sammy Samuels Head Men's Soccer Coach SamuelsO@lincolnu.edu
+
+11. Andre Ireland
+   Email: andre.ireland547@my.lincolnu.edu
+   Username: andre.ireland547
+   Original line: Andre Ireland Assistant Coach andre.ireland547@my.lincolnu.edu
+
+12. Leah Stringer
+   Email: StringerL@lincolnu.edu
+   Username: StringerL
+   Original line: Leah Stringer Head Women's Soccer Coach StringerL@lincolnu.edu
+
+13. Jon DeSha
+   Email: deshaj@lincolnu.edu
+   Username: deshaj
+   Original line: Jon DeSha Assistant Coach deshaj@lincolnu.edu
+
+14. Jason Ollison
+   Email: ollisonj@lincolnu.edu
+   Username: ollisonj
+   Original line: Jason Ollison Head Softball Coach ollisonj@lincolnu.edu (573)
+
+15. Brent Schnieders
+   Email: schniedersb@lincolnu.edu
+   Username: schniedersb
+   Original line: Brent Schnieders Assistant Coach schniedersb@lincolnu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Grant Reynolds Head Baseball Coach reynoldsg@lincolnu.edu (573)
+• Curtis Vaughan Assistant Coach curtis.vaughan656@lincolnu.edu
+• Jimmy Drew Head Men's Basketball Coach drewj@lincolnu.edu (573)
+• Nick Carty Associate Head Coach cartyn@lincolnu.edu
+• Leonard Erickson Assistant Coach/Director of ericksonl@lincolnu.edu (573)
+• Vivian Chigbu Assistant Coach/Assistant vivian.chigbu764@my.lincolnu.edu
+• Moses Harper Head Football Coach harperm2@lincolnu.edu
+• Terrence Campbell Defensive Line Coach campbellt@lincolnu.edu
+• Randy Bickel Volunteer Coach bickelr@lincolnu.edu (573)
+• Sammy Samuels Head Men's Soccer Coach SamuelsO@lincolnu.edu
+• Andre Ireland Assistant Coach andre.ireland547@my.lincolnu.edu
+• Leah Stringer Head Women's Soccer Coach StringerL@lincolnu.edu
+• Jon DeSha Assistant Coach deshaj@lincolnu.edu
+• Jason Ollison Head Softball Coach ollisonj@lincolnu.edu (573)
+• Brent Schnieders Assistant Coach schniedersb@lincolnu.edu

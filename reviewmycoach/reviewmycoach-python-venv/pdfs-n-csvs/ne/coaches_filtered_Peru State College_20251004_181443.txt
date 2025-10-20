@@ -1,0 +1,143 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:43
+============================================================
+
+Total coaches found: 22
+
+PARSED ENTRIES:
+----------------------------------------
+1. Blake Beaber
+   Email: bbeaber@peru.edu
+   Username: bbeaber
+   Original line: Blake Beaber Head Baseball Coach bbeaber@peru.edu 319-217- @BBeaber
+
+2. Chris Stout
+   Email: cstout@peru.edu
+   Username: cstout
+   Original line: Chris Stout Assistant Baseball Coach/ Pitching Coach cstout@peru.edu 515-708- @CoachStout49
+
+3. Dylan Rosse
+   Email: drosse@peru.edu
+   Username: drosse
+   Original line: Dylan Rosse Part-Time Coaching Assistant drosse@peru.edu
+
+4. Parker Lutz
+   Email: plutz@peru.edu
+   Username: plutz
+   Original line: Parker Lutz Part-Time Coaching Assistant plutz@peru.edu 618-615- @LutzParker16
+
+5. Dwyane DaMoude
+   Email: ddamoude@peru.edu
+   Username: ddamoude
+   Original line: Dwyane DaMoude Head Bowling Coach ddamoude@peru.edu 402-610-
+
+6. Cara Cudney
+   Email: ccepuran@peru.edu
+   Username: ccepuran
+   Original line: Cara Cudney Cheer Coach ccepuran@peru.edu 402-245-
+
+7. Carlene Cudney
+   Email: ccudney@peru.edu
+   Username: ccudney
+   Original line: Carlene Cudney Cheer Coach ccudney@peru.edu 402-245-
+
+8. Ashley Robertson
+   Email: arobertson@peru.edu
+   Username: arobertson
+   Original line: Ashley Robertson Head Dance Coach arobertson@peru.edu 402-672-
+
+9. Conor Holt
+   Email: cholt@peru.edu
+   Username: cholt
+   Original line: Conor Holt Head Cross Country & Distance Track Coach cholt@peru.edu 402-872-
+
+10. Phil Ockinga
+   Email: pockinga@peru.edu
+   Username: pockinga
+   Original line: Phil Ockinga Head Football Coach (Quarterbacks Coach) pockinga@peru.edu @CoachO_PSC
+
+11. Sean Wilkerson
+   Email: swilkerson@peru.edu
+   Username: swilkerson
+   Original line: Sean Wilkerson Football Coordinator-Defensive (Linebackers Coach) swilkerson@peru.edu @_CoachWilk
+
+12. Wade Halvorsen
+   Email: WHalvorsen@peru.edu
+   Username: WHalvorsen
+   Original line: Wade Halvorsen Football Coordinator-Defensive (Defensive Backs) WHalvorsen@peru.edu @CoachHalvorsen
+
+13. Tanner Stallings
+   Email: tstallings@peru.edu
+   Username: tstallings
+   Original line: Tanner Stallings Assistant Coach (Offensive Line & Strength and tstallings@peru.edu @PSC_Coach_S
+
+14. Lou Varley
+   Email: lvarley@peru.edu
+   Username: lvarley
+   Original line: Lou Varley Part-Time Coaching Assistant (Tight Ends Coach) lvarley@peru.edu 402-209- @LouisVarley
+
+15. Roman Gentry
+   Email: rgentry@peru.edu
+   Username: rgentry
+   Original line: Roman Gentry Head Men's Basketball Coach rgentry@peru.edu @CoachGentryPSC
+
+16. Demontrez Austin
+   Email: daustin@peru.edu
+   Username: daustin
+   Original line: Demontrez Austin Assistant Men's Basketball Coach daustin@peru.edu
+
+17. Renita "Toni"
+   Email: rclosner@peru.edu
+   Username: rclosner
+   Original line: Renita "Toni" Closner Head Softball Coach rclosner@peru.edu 402-202- @CoachClosner
+
+18. Gabrielle Dupuis
+   Email: gdupuis@peru.edu
+   Username: gdupuis
+   Original line: Gabrielle Dupuis Head Volleyball Coach gdupuis@peru.edu 573-645- @gabs_dup
+
+19. Mike Sybrant
+   Email: msybrant@peru.edu
+   Username: msybrant
+   Original line: Mike Sybrant Head Women's Basketball Coach msybrant@peru.edu 402-560- @PSCWomenHoops
+
+20. Riley Shaw
+   Email: rshaw@peru.edu
+   Username: rshaw
+   Original line: Riley Shaw Assistant Women's Basketball Coach rshaw@peru.edu
+
+21. Molly Jones
+   Email: mjones@peru.edu
+   Username: mjones
+   Original line: Molly Jones Graduate Assistant Coach mjones@peru.edu
+
+22. Sue Owen
+   Email: sowen@peru.edu
+   Username: sowen
+   Original line: Sue Owen Golf Coach sowen@peru.edu 660-744-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Blake Beaber Head Baseball Coach bbeaber@peru.edu 319-217- @BBeaber
+• Chris Stout Assistant Baseball Coach/ Pitching Coach cstout@peru.edu 515-708- @CoachStout49
+• Dylan Rosse Part-Time Coaching Assistant drosse@peru.edu
+• Parker Lutz Part-Time Coaching Assistant plutz@peru.edu 618-615- @LutzParker16
+• Dwyane DaMoude Head Bowling Coach ddamoude@peru.edu 402-610-
+• Cara Cudney Cheer Coach ccepuran@peru.edu 402-245-
+• Carlene Cudney Cheer Coach ccudney@peru.edu 402-245-
+• Ashley Robertson Head Dance Coach arobertson@peru.edu 402-672-
+• Conor Holt Head Cross Country & Distance Track Coach cholt@peru.edu 402-872-
+• Phil Ockinga Head Football Coach (Quarterbacks Coach) pockinga@peru.edu @CoachO_PSC
+• Sean Wilkerson Football Coordinator-Defensive (Linebackers Coach) swilkerson@peru.edu @_CoachWilk
+• Wade Halvorsen Football Coordinator-Defensive (Defensive Backs) WHalvorsen@peru.edu @CoachHalvorsen
+• Tanner Stallings Assistant Coach (Offensive Line & Strength and tstallings@peru.edu @PSC_Coach_S
+• Lou Varley Part-Time Coaching Assistant (Tight Ends Coach) lvarley@peru.edu 402-209- @LouisVarley
+• Roman Gentry Head Men's Basketball Coach rgentry@peru.edu @CoachGentryPSC
+• Demontrez Austin Assistant Men's Basketball Coach daustin@peru.edu
+• Renita "Toni" Closner Head Softball Coach rclosner@peru.edu 402-202- @CoachClosner
+• Gabrielle Dupuis Head Volleyball Coach gdupuis@peru.edu 573-645- @gabs_dup
+• Mike Sybrant Head Women's Basketball Coach msybrant@peru.edu 402-560- @PSCWomenHoops
+• Riley Shaw Assistant Women's Basketball Coach rshaw@peru.edu
+• Molly Jones Graduate Assistant Coach mjones@peru.edu
+• Sue Owen Golf Coach sowen@peru.edu 660-744-

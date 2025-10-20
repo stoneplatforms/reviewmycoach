@@ -1,0 +1,191 @@
+COACH ENTRIES FOUND - 2025-09-27 16:45:32
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Michael Gragg
+   Email: mgragg@harding.edu
+   Username: mgragg
+   Original line: Michael Gragg Head Strength and Conditioning Coach mgragg@harding.edu 501-279-
+
+2. Patrick McGaha
+   Email: pmcgaha@harding.edu
+   Username: pmcgaha
+   Original line: Dr. Patrick McGaha Head Baseball Coach pmcgaha@harding.edu 501-593-
+
+3. Zach Beasley
+   Email: zbeasley@harding.edu
+   Username: zbeasley
+   Original line: Zach Beasley Assistant Head Baseball Coach/Recruiting Coordinator zbeasley@harding.edu 501-279-
+
+4. Harrison Heffley
+   Email: hheffley@harding.edu
+   Username: hheffley
+   Original line: Harrison Heffley Assistant Baseball Coach hheffley@harding.edu
+
+5. Weston Jameson
+   Email: wjameson@harding.edu
+   Username: wjameson
+   Original line: Weston Jameson Head Men's Basketball Coach wjameson@harding.edu
+
+6. Bradley Spencer
+   Email: bspence1@harding.edu
+   Username: bspence1
+   Original line: Bradley Spencer Assistant Men's Basketball Coach bspence1@harding.edu
+
+7. Tim Kirby
+   Email: tkirby@harding.edu
+   Username: tkirby
+   Original line: Tim Kirby Head Women's Basketball Coach tkirby@harding.edu 501-281-
+
+8. Rusty Garner
+   Email: crgarner@harding.edu
+   Username: crgarner
+   Original line: Rusty Garner Assistant Women's Basketball Coach crgarner@harding.edu 870-919-
+
+9. Kellee Blickenstaff
+   Email: kelleeblick@gmail.com
+   Username: kelleeblick
+   Original line: Kellee Blickenstaff Cheerleading Coach kelleeblick@gmail.com 501-281-
+
+10. Kerri Behel
+   Email: behelfamily@yahoo.com
+   Username: behelfamily
+   Original line: Kerri Behel Cheerleading Coach behelfamily@yahoo.com 501-368-
+
+11. Don Hood
+   Email: dhood@harding.edu
+   Username: dhood
+   Original line: Don Hood Head Cross-Country and Track Coach dhood@harding.edu 501-279-
+
+12. Paul Simmons
+   Email: psimmons@harding.edu
+   Username: psimmons
+   Original line: Paul Simmons Head Football Coach psimmons@harding.edu 501-279-
+
+13. Tre'von Biglow
+   Email: tbiglow@harding.edu
+   Username: tbiglow
+   Original line: Tre'von Biglow Defensive Line Coach tbiglow@harding.edu 501-279-
+
+14. Sam Blankenship
+   Email: sblankenship@harding.edu
+   Username: sblankenship
+   Original line: Sam Blankenship Safeties Coach sblankenship@harding.edu 501-279-
+
+15. Kevin Chism
+   Email: kchism@harding.edu
+   Username: kchism
+   Original line: Kevin Chism Offensive Line Coach kchism@harding.edu 501-279-
+
+16. Ryan Derrick
+   Email: rderrick1@harding.edu
+   Username: rderrick1
+   Original line: Ryan Derrick Wide Receivers Coach rderrick1@harding.edu
+
+17. Roddy Mote
+   Email: rmote@harding.edu
+   Username: rmote
+   Original line: Roddy Mote Defensive Coordinator/Linebackers Coach rmote@harding.edu 501-279-
+
+18. Matt Underwood
+   Email: mdunderwood@harding.edu
+   Username: mdunderwood
+   Original line: Matt Underwood Assistant Head Coach/Director of Recruiting/Slotbacks Coach mdunderwood@harding.edu 501-279-
+
+19. Will Francis
+   Email: wfrancis@harding.edu
+   Username: wfrancis
+   Original line: Will Francis Quarterbacks and Fullbacks Coach wfrancis@harding.edu 501-279-
+
+20. Sam Tandy
+   Email: standy@harding.edu
+   Username: standy
+   Original line: Sam Tandy Head Men's and Women's Golf Coach standy@harding.edu
+
+21. Jon Ireland
+   Email: jdireland@harding.edu
+   Username: jdireland
+   Original line: Jon Ireland Men's Soccer Head Coach jdireland@harding.edu 501-279-
+
+22. Greg Harris
+   Email: gharris@harding.edu
+   Username: gharris
+   Original line: Dr. Greg Harris Head Women's Soccer Coach gharris@harding.edu 501-279-
+
+23. Ashley Reeves
+   Email: areeves2@harding.edu
+   Username: areeves2
+   Original line: Ashley Reeves Head Softball Coach areeves2@harding.edu 501-279-
+
+24. Bobby Reeves
+   Email: breeves2@harding.edu
+   Username: breeves2
+   Original line: Bobby Reeves Assistant Softball Coach breeves2@harding.edu
+
+25. Craig Kirchgessner
+   Email: ckirchgessner@harding.edu
+   Username: ckirchgessner
+   Original line: Craig Kirchgessner Head Men's and Women's Tennis Coach ckirchgessner@harding.edu
+
+26. Don Hood
+   Email: dhood@harding.edu
+   Username: dhood
+   Original line: Don Hood Head Cross-Country and Track Coach dhood@harding.edu 501-279-
+
+27. Drew Ellis
+   Email: drew.ellis@harding.edu
+   Username: drew.ellis
+   Original line: Drew Ellis Assistant Track and Field Coach drew.ellis@harding.edu
+
+28. Paul David
+   Email: pquillin@harding.edu
+   Username: pquillin
+   Original line: Paul David Quillin Assistant Track and Field Coach pquillin@harding.edu
+
+29. Meredith Fear
+   Email: mfear@harding.edu
+   Username: mfear
+   Original line: Meredith Fear Head Volleyball Coach/Senior Woman Administrator mfear@harding.edu 317-979-
+
+30. Robert Fear
+   Email: rfear@harding.edu
+   Username: rfear
+   Original line: Robert Fear Assistant Volleyball Coach rfear@harding.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Michael Gragg Head Strength and Conditioning Coach mgragg@harding.edu 501-279-
+• Dr. Patrick McGaha Head Baseball Coach pmcgaha@harding.edu 501-593-
+• Zach Beasley Assistant Head Baseball Coach/Recruiting Coordinator zbeasley@harding.edu 501-279-
+• Harrison Heffley Assistant Baseball Coach hheffley@harding.edu
+• Weston Jameson Head Men's Basketball Coach wjameson@harding.edu
+• Bradley Spencer Assistant Men's Basketball Coach bspence1@harding.edu
+• Tim Kirby Head Women's Basketball Coach tkirby@harding.edu 501-281-
+• Rusty Garner Assistant Women's Basketball Coach crgarner@harding.edu 870-919-
+• Kellee Blickenstaff Cheerleading Coach kelleeblick@gmail.com 501-281-
+• Kerri Behel Cheerleading Coach behelfamily@yahoo.com 501-368-
+• Don Hood Head Cross-Country and Track Coach dhood@harding.edu 501-279-
+• Paul Simmons Head Football Coach psimmons@harding.edu 501-279-
+• Tre'von Biglow Defensive Line Coach tbiglow@harding.edu 501-279-
+• Sam Blankenship Safeties Coach sblankenship@harding.edu 501-279-
+• Kevin Chism Offensive Line Coach kchism@harding.edu 501-279-
+• Ryan Derrick Wide Receivers Coach rderrick1@harding.edu
+• Roddy Mote Defensive Coordinator/Linebackers Coach rmote@harding.edu 501-279-
+• Matt Underwood Assistant Head Coach/Director of Recruiting/Slotbacks Coach mdunderwood@harding.edu 501-279-
+• Will Francis Quarterbacks and Fullbacks Coach wfrancis@harding.edu 501-279-
+• Sam Tandy Head Men's and Women's Golf Coach standy@harding.edu
+• Jon Ireland Men's Soccer Head Coach jdireland@harding.edu 501-279-
+• Dr. Greg Harris Head Women's Soccer Coach gharris@harding.edu 501-279-
+• Ashley Reeves Head Softball Coach areeves2@harding.edu 501-279-
+• Bobby Reeves Assistant Softball Coach breeves2@harding.edu
+• Craig Kirchgessner Head Men's and Women's Tennis Coach ckirchgessner@harding.edu
+• Don Hood Head Cross-Country and Track Coach dhood@harding.edu 501-279-
+• Drew Ellis Assistant Track and Field Coach drew.ellis@harding.edu
+• Paul David Quillin Assistant Track and Field Coach pquillin@harding.edu
+• Meredith Fear Head Volleyball Coach/Senior Woman Administrator mfear@harding.edu 317-979-
+• Robert Fear Assistant Volleyball Coach rfear@harding.edu

@@ -1,0 +1,215 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:43
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Bob Smith
+   Email: rfsmith@chowan.edu
+   Username: rfsmith
+   Phone: (252) 398-6479
+   Original line: Bob Smith Head Baseball Coach rfsmith@chowan.edu (252) 398-6479
+
+2. Brady Goode
+   Email: bagoode@chowan.edu
+   Username: bagoode
+   Phone: (804) 543-0737
+   Original line: Brady Goode Assistant Baseball Coach bagoode@chowan.edu (804) 543-0737
+
+3. Trey Morgan
+   Email: hwmorgan@chowan.edu
+   Username: hwmorgan
+   Original line: Trey Morgan Assistant Baseball Coach hwmorgan@chowan.edu
+
+4. Rob Burke
+   Email: rjburke@chowan.edu
+   Username: rjburke
+   Phone: (252) 398-6284
+   Original line: Rob Burke Head Men's Basketball Coach rjburke@chowan.edu (252) 398-6284
+
+5. Alex Lewis
+   Email: aclewis@chowan.edu
+   Username: aclewis
+   Phone: (252) 398-6286
+   Original line: Alex Lewis Assistant Men's Basketball Coach aclewis@chowan.edu (252) 398-6286
+
+6. Lenise Stallings
+   Email: ldstallings@chowan.edu
+   Username: ldstallings
+   Phone: (252) 398-6433
+   Original line: Lenise Stallings Head Women's Basketball Coach ldstallings@chowan.edu (252) 398-6433
+
+7. Olivia Gaither
+   Email: ongaither@chowan.edu
+   Username: ongaither
+   Phone: (252) 398-6516
+   Original line: Olivia Gaither Assistant Women's Basketball Coach ongaither@chowan.edu (252) 398-6516
+
+8. Latoya Powell
+   Email: lrpowell@chowan.edu
+   Username: lrpowell
+   Phone: (252) 398-6379
+   Original line: Latoya Powell Head Competitive Cheer Coach lrpowell@chowan.edu (252) 398-6379
+
+9. Sherry Lewis
+   Email: sslewis@chowan.edu
+   Username: sslewis
+   Phone: (252) 398-6441
+   Original line: Sherry Lewis Head Flag Football Coach/Head Cross Country Coach sslewis@chowan.edu 252-398-6441
+
+10. To Be
+   Email: gocuhawks@chowan.edu
+   Username: gocuhawks
+   Original line: To Be Determined Head Coach gocuhawks@chowan.edu
+
+11. Paul Johnson
+   Email: pcjohnson@chowan.edu
+   Username: pcjohnson
+   Phone: (252) 398-1699
+   Original line: Paul Johnson Head Football Coach pcjohnson@chowan.edu (252) 398-1699
+
+12. Chris Dent
+   Email: csdent@chowan.edu
+   Username: csdent
+   Phone: (252) 398-6440
+   Original line: Chris Dent Assistant Coach: Passing Game Coordinator/Quarterbacks csdent@chowan.edu (252) 398-6440
+
+13. Tony Gilbert
+   Email: tbgilbert@chowan.edu
+   Username: tbgilbert
+   Phone: (252) 398-6481
+   Original line: Tony Gilbert Assistant Coach: Defensive Coordinator tbgilbert@chowan.edu (252) 398-6481
+
+14. Cody Gray
+   Email: cegray@chowan.edu
+   Username: cegray
+   Phone: (252) 398-6481
+   Original line: Cody Gray Assistant Coach: Linebackers cegray@chowan.edu (252) 398-6481
+
+15. Dedrick Payton
+   Email: djpayton@chowan.edu
+   Username: djpayton
+   Phone: (252) 398-6228
+   Original line: Dedrick Payton Assistant Coach: Special Teams Coordinator/Defensive Line djpayton@chowan.edu (252) 398-6228
+
+16. Maverick Wolfley
+   Email: mrwolfley@chowan.edu
+   Username: mrwolfley
+   Original line: Maverick Wolfley Assistant Coach: Wide Receivers/Tight Ends mrwolfley@chowan.edu
+
+17. Teygan Crocco
+   Email: tlcrocco0703@chowan.edu
+   Username: tlcrocco0703
+   Original line: Teygan Crocco Graduate Assistant: Running Backs Coach tlcrocco0703@chowan.edu
+
+18. Chris Bernhard
+   Email: cgbernhard0111@chowan.edu
+   Username: cgbernhard0111
+   Original line: Chris Bernhard Graduate Assistant: Defensive Backs Coach cgbernhard0111@chowan.edu
+
+19. P.R. Simshauser
+   Email: prsimshauser@chowan.edu
+   Username: prsimshauser
+   Phone: (252) 398-6329
+   Original line: P.R. Simshauser Head Men's Lacrosse Coach prsimshauser@chowan.edu (252) 398-6329
+
+20. Llaquelin Reyes-Mendez
+   Email: lymendez@chowan.edu
+   Username: lymendez
+   Phone: (252) 398-6251
+   Original line: Llaquelin Reyes-Mendez Head Women's Lacrosse Coach lymendez@chowan.edu (252) 398-6251
+
+21. Chris Whalley
+   Email: whallc@chowan.edu
+   Username: whallc
+   Phone: (252) 398-1126
+   Original line: Chris Whalley Head Men's Soccer Coach whallc@chowan.edu (252) 398-1126
+
+22. Josh Baker
+   Email: jebaker@chowan.edu
+   Username: jebaker
+   Phone: (252) 398-6308
+   Original line: Josh Baker Assistant Men's Soccer Coach jebaker@chowan.edu (252) 398-6308
+
+23. Dario Mendes
+   Email: dmendescaetano0918@chowan.edu
+   Username: dmendescaetano0918
+   Original line: Dario Mendes Caetano Graduate Assistant Coach dmendescaetano0918@chowan.edu
+
+24. Fernando Zuniga
+   Email: FZuniga@chowan.edu
+   Username: FZuniga
+   Phone: (252) 398-6289
+   Original line: Fernando Zuniga Head Women's Soccer Coach FZuniga@chowan.edu (252) 398-6289
+
+25. Rich Dearle
+   Email: radearle0908@chowan.edu
+   Username: radearle0908
+   Phone: (252) 398-6308
+   Original line: Rich Dearle Graduate Assistant Coach radearle0908@chowan.edu (252) 398-6308
+
+26. Junior Bailey
+   Email: wwbailey@chowan.edu
+   Username: wwbailey
+   Phone: (252) 398-6397
+   Original line: Junior Bailey Head Softball Coach wwbailey@chowan.edu (252) 398-6397
+
+27. Presley Bissett
+   Email: bpbissett@chowan.edu
+   Username: bpbissett
+   Phone: (252) 398-6397
+   Original line: Presley Bissett Assistant Softball Coach bpbissett@chowan.edu (252) 398-6397
+
+28. Sherry Lewis
+   Email: sslewis@chowan.edu
+   Username: sslewis
+   Phone: (252) 398-6441
+   Original line: Sherry Lewis Head Flag Football Coach/Head Cross Country Coach sslewis@chowan.edu 252-398-6441
+
+29. Adam Moneypenny
+   Email: asmoneypenny@chowan.edu
+   Username: asmoneypenny
+   Phone: (252) 398-6463
+   Original line: Adam Moneypenny Head Tennis Coach asmoneypenny@chowan.edu (252) 398-6463
+
+30. Kellan Hollingsworth
+   Email: kvhollingsworth@chowan.edu
+   Username: kvhollingsworth
+   Phone: (252) 398-6434
+   Original line: Kellan Hollingsworth Head Volleyball Coach kvhollingsworth@chowan.edu (252) 398-6434
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Bob Smith Head Baseball Coach rfsmith@chowan.edu (252) 398-6479
+• Brady Goode Assistant Baseball Coach bagoode@chowan.edu (804) 543-0737
+• Trey Morgan Assistant Baseball Coach hwmorgan@chowan.edu
+• Rob Burke Head Men's Basketball Coach rjburke@chowan.edu (252) 398-6284
+• Alex Lewis Assistant Men's Basketball Coach aclewis@chowan.edu (252) 398-6286
+• Lenise Stallings Head Women's Basketball Coach ldstallings@chowan.edu (252) 398-6433
+• Olivia Gaither Assistant Women's Basketball Coach ongaither@chowan.edu (252) 398-6516
+• Latoya Powell Head Competitive Cheer Coach lrpowell@chowan.edu (252) 398-6379
+• Sherry Lewis Head Flag Football Coach/Head Cross Country Coach sslewis@chowan.edu 252-398-6441
+• To Be Determined Head Coach gocuhawks@chowan.edu
+• Paul Johnson Head Football Coach pcjohnson@chowan.edu (252) 398-1699
+• Chris Dent Assistant Coach: Passing Game Coordinator/Quarterbacks csdent@chowan.edu (252) 398-6440
+• Tony Gilbert Assistant Coach: Defensive Coordinator tbgilbert@chowan.edu (252) 398-6481
+• Cody Gray Assistant Coach: Linebackers cegray@chowan.edu (252) 398-6481
+• Dedrick Payton Assistant Coach: Special Teams Coordinator/Defensive Line djpayton@chowan.edu (252) 398-6228
+• Maverick Wolfley Assistant Coach: Wide Receivers/Tight Ends mrwolfley@chowan.edu
+• Teygan Crocco Graduate Assistant: Running Backs Coach tlcrocco0703@chowan.edu
+• Chris Bernhard Graduate Assistant: Defensive Backs Coach cgbernhard0111@chowan.edu
+• P.R. Simshauser Head Men's Lacrosse Coach prsimshauser@chowan.edu (252) 398-6329
+• Llaquelin Reyes-Mendez Head Women's Lacrosse Coach lymendez@chowan.edu (252) 398-6251
+• Chris Whalley Head Men's Soccer Coach whallc@chowan.edu (252) 398-1126
+• Josh Baker Assistant Men's Soccer Coach jebaker@chowan.edu (252) 398-6308
+• Dario Mendes Caetano Graduate Assistant Coach dmendescaetano0918@chowan.edu
+• Fernando Zuniga Head Women's Soccer Coach FZuniga@chowan.edu (252) 398-6289
+• Rich Dearle Graduate Assistant Coach radearle0908@chowan.edu (252) 398-6308
+• Junior Bailey Head Softball Coach wwbailey@chowan.edu (252) 398-6397
+• Presley Bissett Assistant Softball Coach bpbissett@chowan.edu (252) 398-6397
+• Sherry Lewis Head Flag Football Coach/Head Cross Country Coach sslewis@chowan.edu 252-398-6441
+• Adam Moneypenny Head Tennis Coach asmoneypenny@chowan.edu (252) 398-6463
+• Kellan Hollingsworth Head Volleyball Coach kvhollingsworth@chowan.edu (252) 398-6434

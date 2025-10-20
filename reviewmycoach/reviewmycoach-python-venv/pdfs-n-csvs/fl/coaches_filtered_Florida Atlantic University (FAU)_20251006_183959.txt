@@ -1,0 +1,77 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:01
+============================================================
+
+Total coaches found: 11
+
+PARSED ENTRIES:
+----------------------------------------
+1. Coaches Show
+   Email: fforte@fau.edu
+   Username: fforte
+   Original line: Coaches Show and Feature Producer and Host fforte@fau.edu
+
+2. Spirit Coordinator/Head
+   Email: csoto3@fau.edu
+   Username: csoto3
+   Original line: Spirit Coordinator/Head Dance Coach csoto3@fau.edu
+
+3. Associate Head
+   Email: feej@fau.edu
+   Username: feej
+   Original line: Associate Head Coach feej@fau.edu
+
+4. Assistant Coach
+   Email: alisonhughes@fau.edu
+   Username: alisonhughes
+   Original line: Assistant Coach alisonhughes@fau.edu
+
+5. Head Coach
+   Email: sgrotowski@fau.edu
+   Username: sgrotowski
+   Original line: Head Coach sgrotowski@fau.edu
+
+6. Head Coach
+   Email: youngh@fau.edu
+   Username: youngh
+   Original line: Head Coach youngh@fau.edu
+
+7. Head Coach
+   Email: lpreacco@fau.edu
+   Username: lpreacco
+   Original line: Head Coach lpreacco@fau.edu
+
+8. Head Diving
+   Email: asarkisian@fau.edu
+   Username: asarkisian
+   Original line: Head Diving Coach asarkisian@fau.edu
+
+9. Assistant Coach
+   Email: prochitintore@fau.edu
+   Username: prochitintore
+   Original line: Assistant Coach prochitintore@fau.edu
+
+10. Head Coach
+   Email: nelsonf@fau.edu
+   Username: nelsonf
+   Original line: Head Coach nelsonf@fau.edu
+
+11. Associate Head
+   Email: camshoff@fau.edu
+   Username: camshoff
+   Original line: Associate Head Coach camshoff@fau.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Coaches Show and Feature Producer and Host fforte@fau.edu
+• Spirit Coordinator/Head Dance Coach csoto3@fau.edu
+• Associate Head Coach feej@fau.edu
+• Assistant Coach alisonhughes@fau.edu
+• Head Coach sgrotowski@fau.edu
+• Head Coach youngh@fau.edu
+• Head Coach lpreacco@fau.edu
+• Head Diving Coach asarkisian@fau.edu
+• Assistant Coach prochitintore@fau.edu
+• Head Coach nelsonf@fau.edu
+• Associate Head Coach camshoff@fau.edu

@@ -1,0 +1,311 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:54
+============================================================
+
+Total coaches found: 50
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brad Jarreau
+   Email: bmjarr1@ilstu.edu
+   Username: bmjarr1
+   Original line: Brad Jarreau Assistant Coach- Recruiting bmjarr1@ilstu.edu 438-
+
+2. Gavin Weyman
+   Email: geweyma@ilstu.edu
+   Username: geweyma
+   Original line: Gavin Weyman Assistant Coach geweyma@ilstu.edu 438-
+
+3. Ryan Pedon
+   Email: RedbirdMBB@ilstu.edu
+   Username: RedbirdMBB
+   Original line: Ryan Pedon Head Coach RedbirdMBB@ilstu.edu 438-
+
+4. Jason Slay
+   Email: RedbirdMBB@ilstu.edu
+   Username: RedbirdMBB
+   Original line: Jason Slay Associate Head Coach RedbirdMBB@ilstu.edu 438-
+
+5. Andrew Dakich
+   Email: RedbirdMBB@ilstu.edu
+   Username: RedbirdMBB
+   Original line: Andrew Dakich Assistant Coach RedbirdMBB@ilstu.edu 438-
+
+6. Mike Netti
+   Email: RedbirdMBB@ilstu.edu
+   Username: RedbirdMBB
+   Original line: Mike Netti Assistant Coach RedbirdMBB@ilstu.edu 438-
+
+7. Jack Betz
+   Email: jbetz@ilstu.edu
+   Username: jbetz
+   Original line: Jack Betz Assistant Coach jbetz@ilstu.edu
+
+8. Scott Gillespie
+   Email: srgill1@ilstu.edu
+   Username: srgill1
+   Original line: Scott Gillespie Associate Head Coach srgill1@ilstu.edu SGBasketball5
+
+9. Drew Cole
+   Email: ajcol12@ilstu.edu
+   Username: ajcol12
+   Original line: Drew Cole General Manager/Assistant Coach ajcol12@ilstu.edu CoachDCole
+
+10. Katrina Beck
+   Email: kmbeck3@ilstu.edu
+   Username: kmbeck3
+   Original line: Katrina Beck Assistant Coach kmbeck3@ilstu.edu CoachTri_
+
+11. Jake Gillum
+   Email: jmgill2@ilstu.edu
+   Username: jmgill2
+   Original line: Jake Gillum Assistant Coach (Distance) jmgill2@ilstu.edu
+
+12. Ray Kralis
+   Email: rakrali@ilstu.edu
+   Username: rakrali
+   Original line: Ray Kralis Men's Golf Head Coach rakrali@ilstu.edu 438-
+
+13. Parker Wisdom
+   Email: isu_jwisdom@ilstu.edu
+   Username: isu_jwisdom
+   Original line: Parker Wisdom Assistant Coach isu_jwisdom@ilstu.edu
+
+14. Jackie Szymoniak
+   Email: jmszymo@ilstu.edu
+   Username: jmszymo
+   Original line: Jackie Szymoniak Head Coach jmszymo@ilstu.edu 438-
+
+15. Lory Paradis
+   Email: isu_lparadi@ilstu.edu
+   Username: isu_lparadi
+   Original line: Lory Paradis Assistant Coach isu_lparadi@ilstu.edu
+
+16. Brock Spack
+   Email: RedbirdFootball@ilstu.edu
+   Username: RedbirdFootball
+   Original line: Brock Spack Head Coach RedbirdFootball@ilstu.edu 438-
+
+17. Travis Niekamp
+   Email: RedbirdFootball@ilstu.edu
+   Username: RedbirdFootball
+   Original line: Travis Niekamp Defensive Coordinator/Inside RedbirdFootball@ilstu.edu 438- CoachNiekamp
+
+18. Kye Stewart
+   Email: RedbirdFootball@ilstu.edu
+   Username: RedbirdFootball
+   Original line: Kye Stewart Defensive Assistant Head RedbirdFootball@ilstu.edu 438- CoachK_Stew
+
+19. Ben Black
+   Email: bblack5@ilstu.edu
+   Username: bblack5
+   Original line: Ben Black Assistant Coach/Defensive Line bblack5@ilstu.edu 438-
+
+20. Cody Deti
+   Email: RedbirdFootball@ilstu.edu
+   Username: RedbirdFootball
+   Original line: Cody Deti Assistant Coach/Safeties RedbirdFootball@ilstu.edu 438-
+
+21. Harold Etheridge
+   Email: RedbirdFootball@ilstu.edu
+   Username: RedbirdFootball
+   Original line: Harold Etheridge Assistant Coach/Offensive Line RedbirdFootball@ilstu.edu 438-
+
+22. C.J. Irvin
+   Email: RedbirdFootball@ilstu.edu
+   Username: RedbirdFootball
+   Original line: C.J. Irvin Assistant Coach/Tight Ends, RedbirdFootball@ilstu.edu 438- Coach_CJIrvin
+
+23. Mike Grant
+   Email: RedbirdFootball@ilstu.edu
+   Username: RedbirdFootball
+   Original line: Mike Grant Assistant Coach/Running Backs RedbirdFootball@ilstu.edu 438-
+
+24. Dru Richardson
+   Email: RedbirdFootball@ilstu.edu
+   Username: RedbirdFootball
+   Original line: Dru Richardson Assistant Coach/Defensive Backs RedbirdFootball@ilstu.edu 438-
+
+25. Cassandra Ringer
+   Email: cmringe@ilstu.edu
+   Username: cmringe
+   Original line: Cassandra Ringer Head Coach cmringe@ilstu.edu
+
+26. Kendra Combs
+   Email: kbengla@ilstu.edu
+   Username: kbengla
+   Original line: Kendra Combs Assistant Coach kbengla@ilstu.edu
+
+27. Adeline Kenlin
+   Email: adkenli@ilstu.edu
+   Username: adkenli
+   Original line: Adeline Kenlin Assistant Coach adkenli@ilstu.edu
+
+28. Peyton Willie
+   Email: pwillie@ilstu.edu
+   Username: pwillie
+   Original line: Peyton Willie Assistant Coach pwillie@ilstu.edu
+
+29. Kurt Albrecht
+   Email: kmalbr1@ilstu.edu
+   Username: kmalbr1
+   Original line: Kurt Albrecht Assistant Coach kmalbr1@ilstu.edu
+
+30. Ethan Fineman
+   Email: eifinem@ilstu.edu
+   Username: eifinem
+   Original line: Ethan Fineman Assistant Coach eifinem@ilstu.edu
+
+31. Tina Kramos
+   Email: klkramo@ilstu.edu
+   Username: klkramo
+   Original line: Tina Kramos Head Coach klkramo@ilstu.edu 438- Coach_Kramos
+
+32. Brandon Duncan
+   Email: bhdunc1@ilstu.edu
+   Username: bhdunc1
+   Original line: Brandon Duncan Assistant Coach bhdunc1@ilstu.edu
+
+33. Jhavon Hayes
+   Email: jmhamil@ilstu.edu
+   Username: jmhamil
+   Original line: Jhavon Hayes Assistant Coach jmhamil@ilstu.edu
+
+34. Alexis Rudd
+   Email: arudd1@ilstu.edu
+   Username: arudd1
+   Original line: Alexis Rudd Assistant Coach arudd1@ilstu.edu
+
+35. Riley Hilbrandt
+   Email: rphilbr@ilstu.edu
+   Username: rphilbr
+   Original line: Riley Hilbrandt Head Coach rphilbr@ilstu.edu 438-
+
+36. Sienna Breton
+   Email: srbreto@ilstu.edu
+   Username: srbreto
+   Original line: Sienna Breton Assistant Diving Coach srbreto@ilstu.edu
+
+37. Kennedy Gilbertson
+   Email: kegilbe@ilstu.edu
+   Username: kegilbe
+   Original line: Kennedy Gilbertson Assistant Coach kegilbe@ilstu.edu
+
+38. Maja Kovacek
+   Email: mkovace@ilstu.edu
+   Username: mkovace
+   Original line: Maja Kovacek Head Coach mkovace@ilstu.edu 438-
+
+39. Maja Kovacek
+   Email: mkovace@ilstu.edu
+   Username: mkovace
+   Original line: Maja Kovacek Head Coach mkovace@ilstu.edu 438-
+
+40. Tijana Zlatanovic
+   Email: isu_tzlatan@ilstu.edu
+   Username: isu_tzlatan
+   Original line: Tijana Zlatanovic Assistant Coach isu_tzlatan@ilstu.edu
+
+41. DeShaun Jordan
+   Email: dljorda@ilstu.edu
+   Username: dljorda
+   Original line: DeShaun Jordan Associate Head Coach (Sprints, dljorda@ilstu.edu 438- deshaunjordan8
+
+42. Jake Gillum
+   Email: jmgill2@ilstu.edu
+   Username: jmgill2
+   Original line: Jake Gillum Assistant Coach (Distance) jmgill2@ilstu.edu
+
+43. Mike Turk
+   Email: mhturk@ilstu.edu
+   Username: mhturk
+   Original line: Mike Turk Assistant Coach (Throws) mhturk@ilstu.edu
+
+44. Steve Luke
+   Email: sfluke@ilstu.edu
+   Username: sfluke
+   Original line: Steve Luke Assistant Coach (Pole Vault) sfluke@ilstu.edu 217-
+
+45. Austin West
+   Email: adwest4@ilstu.edu
+   Username: adwest4
+   Original line: Austin West Assistant Coach (Jumps/Multi) adwest4@ilstu.edu
+
+46. Allie Matters
+   Email: acmatte@ilstu.edu
+   Username: acmatte
+   Original line: Allie Matters Head Coach acmatte@ilstu.edu 438- AllieMatters
+
+47. Matt DePauw
+   Email: mjdepau@ilstu.edu
+   Username: mjdepau
+   Original line: Matt DePauw Assistant Coach/Recruiting mjdepau@ilstu.edu 438- m_depauw
+
+48. Courtney Wagner
+   Email: crwagn3@ilstu.edu
+   Username: crwagn3
+   Original line: Courtney Wagner Assistant Coach crwagn3@ilstu.edu
+
+49. Natalie Montoney
+   Email: nnchiar@ilstu.edu
+   Username: nnchiar
+   Original line: Natalie Montoney Cheer Coach nnchiar@ilstu.edu
+
+50. Joshua Anderson
+   Email: jeande22@ilstu.edu
+   Username: jeande22
+   Original line: Joshua Anderson Assistant Cheer Coach jeande22@ilstu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brad Jarreau Assistant Coach- Recruiting bmjarr1@ilstu.edu 438-
+• Gavin Weyman Assistant Coach geweyma@ilstu.edu 438-
+• Ryan Pedon Head Coach RedbirdMBB@ilstu.edu 438-
+• Jason Slay Associate Head Coach RedbirdMBB@ilstu.edu 438-
+• Andrew Dakich Assistant Coach RedbirdMBB@ilstu.edu 438-
+• Mike Netti Assistant Coach RedbirdMBB@ilstu.edu 438-
+• Jack Betz Assistant Coach jbetz@ilstu.edu
+• Scott Gillespie Associate Head Coach srgill1@ilstu.edu SGBasketball5
+• Drew Cole General Manager/Assistant Coach ajcol12@ilstu.edu CoachDCole
+• Katrina Beck Assistant Coach kmbeck3@ilstu.edu CoachTri_
+• Jake Gillum Assistant Coach (Distance) jmgill2@ilstu.edu
+• Ray Kralis Men's Golf Head Coach rakrali@ilstu.edu 438-
+• Parker Wisdom Assistant Coach isu_jwisdom@ilstu.edu
+• Jackie Szymoniak Head Coach jmszymo@ilstu.edu 438-
+• Lory Paradis Assistant Coach isu_lparadi@ilstu.edu
+• Brock Spack Head Coach RedbirdFootball@ilstu.edu 438-
+• Travis Niekamp Defensive Coordinator/Inside RedbirdFootball@ilstu.edu 438- CoachNiekamp
+• Kye Stewart Defensive Assistant Head RedbirdFootball@ilstu.edu 438- CoachK_Stew
+• Ben Black Assistant Coach/Defensive Line bblack5@ilstu.edu 438-
+• Cody Deti Assistant Coach/Safeties RedbirdFootball@ilstu.edu 438-
+• Harold Etheridge Assistant Coach/Offensive Line RedbirdFootball@ilstu.edu 438-
+• C.J. Irvin Assistant Coach/Tight Ends, RedbirdFootball@ilstu.edu 438- Coach_CJIrvin
+• Mike Grant Assistant Coach/Running Backs RedbirdFootball@ilstu.edu 438-
+• Dru Richardson Assistant Coach/Defensive Backs RedbirdFootball@ilstu.edu 438-
+• Cassandra Ringer Head Coach cmringe@ilstu.edu
+• Kendra Combs Assistant Coach kbengla@ilstu.edu
+• Adeline Kenlin Assistant Coach adkenli@ilstu.edu
+• Peyton Willie Assistant Coach pwillie@ilstu.edu
+• Kurt Albrecht Assistant Coach kmalbr1@ilstu.edu
+• Ethan Fineman Assistant Coach eifinem@ilstu.edu
+• Tina Kramos Head Coach klkramo@ilstu.edu 438- Coach_Kramos
+• Brandon Duncan Assistant Coach bhdunc1@ilstu.edu
+• Jhavon Hayes Assistant Coach jmhamil@ilstu.edu
+• Alexis Rudd Assistant Coach arudd1@ilstu.edu
+• Riley Hilbrandt Head Coach rphilbr@ilstu.edu 438-
+• Sienna Breton Assistant Diving Coach srbreto@ilstu.edu
+• Kennedy Gilbertson Assistant Coach kegilbe@ilstu.edu
+• Maja Kovacek Head Coach mkovace@ilstu.edu 438-
+• Maja Kovacek Head Coach mkovace@ilstu.edu 438-
+• Tijana Zlatanovic Assistant Coach isu_tzlatan@ilstu.edu
+• DeShaun Jordan Associate Head Coach (Sprints, dljorda@ilstu.edu 438- deshaunjordan8
+• Jake Gillum Assistant Coach (Distance) jmgill2@ilstu.edu
+• Mike Turk Assistant Coach (Throws) mhturk@ilstu.edu
+• Steve Luke Assistant Coach (Pole Vault) sfluke@ilstu.edu 217-
+• Austin West Assistant Coach (Jumps/Multi) adwest4@ilstu.edu
+• Allie Matters Head Coach acmatte@ilstu.edu 438- AllieMatters
+• Matt DePauw Assistant Coach/Recruiting mjdepau@ilstu.edu 438- m_depauw
+• Courtney Wagner Assistant Coach crwagn3@ilstu.edu
+• Natalie Montoney Cheer Coach nnchiar@ilstu.edu
+• Joshua Anderson Assistant Cheer Coach jeande22@ilstu.edu

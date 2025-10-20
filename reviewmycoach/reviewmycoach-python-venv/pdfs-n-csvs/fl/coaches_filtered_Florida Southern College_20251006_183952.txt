@@ -1,0 +1,311 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:52
+============================================================
+
+Total coaches found: 50
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dan Kirk
+   Email: dkirk@flsouthern.edu
+   Username: dkirk
+   Original line: Dan Kirk Head Strength & Conditioning Coach dkirk@flsouthern.edu 863-680-
+
+2. Brian Speller
+   Email: bspeller@flsouthern.edu
+   Username: bspeller
+   Original line: Brian Speller Assistant Strength & Conditioning Coach bspeller@flsouthern.edu
+
+3. Rick O'Dette
+   Email: rodette@flsouthern.edu
+   Username: rodette
+   Original line: Rick O'Dette Head Baseball Coach rodette@flsouthern.edu 863-616-
+
+4. Tony Caldwell
+   Email: tcaldwell@flsouthern.edu
+   Username: tcaldwell
+   Original line: Tony Caldwell Assistant Baseball Coach/Recruiting Coordinator tcaldwell@flsouthern.edu 863-616-
+
+5. Mitchell Wydetic
+   Email: mwydetic@flsouthern.edu
+   Username: mwydetic
+   Original line: Mitchell Wydetic Assistant Baseball Coach mwydetic@flsouthern.edu 863-616-
+
+6. Alex Frapart
+   Email: afrapart@flsouthern.edu
+   Username: afrapart
+   Original line: Alex Frapart Assistant Baseball Coach - Head DT Coach afrapart@flsouthern.edu
+
+7. Caleb Adams
+   Email: cadams2@flsouthern.edu
+   Username: cadams2
+   Original line: Caleb Adams Assistant Baseball Coach cadams2@flsouthern.edu
+
+8. Mike Donnelly
+   Email: mdonnelly@flsouthern.edu
+   Username: mdonnelly
+   Original line: Mike Donnelly Head Men's Basketball Coach mdonnelly@flsouthern.edu 863-680-
+
+9. Mike Makubika
+   Email: mmakubika@flsouthern.edu
+   Username: mmakubika
+   Original line: Mike Makubika Associate Head Men's Basketball Coach mmakubika@flsouthern.edu 863-680-
+
+10. Ryan Kardok
+   Email: rkardok@flsouthern.edu
+   Username: rkardok
+   Original line: Ryan Kardok Assistant Men's Basketball Coach rkardok@flsouthern.edu
+
+11. Megan Dzikas
+   Email: mdzikas@flsouthern.edu
+   Username: mdzikas
+   Original line: Megan Dzikas '12 Head Coach mdzikas@flsouthern.edu 863-680-
+
+12. Shelby Wheeler
+   Email: swheeler@flsouthern.edu
+   Username: swheeler
+   Original line: Shelby Wheeler Assistant Coach swheeler@flsouthern.edu 863-680-
+
+13. Bobby Orndorff
+   Email: rorndorff@flsouthern.edu
+   Username: rorndorff
+   Original line: Bobby Orndorff Assistant Coach rorndorff@flsouthern.edu 863-680-
+
+14. Makena Wilson
+   Email: mwilson5@flsouthern.edu
+   Username: mwilson5
+   Original line: Makena Wilson '20 Head Beach Coach/Assistant Indoor Coach mwilson5@flsouthern.edu 863-680-
+
+15. Matt Levassiur
+   Email: mlevassiur@flsouthern.edu
+   Username: mlevassiur
+   Original line: Matt Levassiur Head Men's Cross Country & Track Coach mlevassiur@flsouthern.edu 863-680-
+
+16. Stephanie Bylander
+   Email: sbylander@flsouthern.edu
+   Username: sbylander
+   Original line: Stephanie Bylander Head Women's Cross Country & Track Coach sbylander@flsouthern.edu 863-680-
+
+17. Shannon Morrell
+   Email: steeplechasesm@aol.com
+   Username: steeplechasesm
+   Original line: Shannon Morrell Head Equestrian Coach steeplechasesm@aol.com 863-581-
+
+18. Brian Richey
+   Email: brichey@flsouthern.edu
+   Username: brichey
+   Original line: Brian Richey '09 Head Men's Golf Coach brichey@flsouthern.edu
+
+19. Robbie Davis
+   Email: ldavis@flsouthern.edu
+   Username: ldavis
+   Original line: Robbie Davis Head Women's Golf Coach ldavis@flsouthern.edu 863-616-
+
+20. Gilles Richard
+   Email: coachrichard19@gmail.com
+   Username: coachrichard19
+   Original line: Gilles Richard Head Men's Ice Hockey Coach coachrichard19@gmail.com 706-550-
+
+21. Nick Nugent
+   Email: nnugent@flsouthern.edu
+   Username: nnugent
+   Original line: Nick Nugent Assistant Coach nnugent@flsouthern.edu 603-566-
+
+22. Marty Ward
+   Email: mward@flsouthern.edu
+   Username: mward
+   Original line: Marty Ward Head Men's Lacrosse Coach mward@flsouthern.edu 863-680-
+
+23. Tim McNichol
+   Email: tmcnichol@flsouthern.edu
+   Username: tmcnichol
+   Original line: Tim McNichol Assistant Coach tmcnichol@flsouthern.edu 863-680-
+
+24. Kara Reber
+   Email: kreber@flsouthern.edu
+   Username: kreber
+   Original line: Kara Reber Head Women's Lacrosse Coach kreber@flsouthern.edu 863-680-
+
+25. Madison Mills
+   Email: mmills@flsouthern.edu
+   Username: mmills
+   Original line: Madison Mills Assistant Women's Lacrosse Coach mmills@flsouthern.edu 863-680-
+
+26. Courtney Vasquenza
+   Email: cvasquenza@flsouthern.edu
+   Username: cvasquenza
+   Original line: Courtney Vasquenza Assistant Women's Lacrosse Coach cvasquenza@flsouthern.edu
+
+27. Ashley Holmes
+   Email: aholmes@flsouthern.edu
+   Username: aholmes
+   Original line: Ashley Holmes '12 Head Men's Soccer Coach aholmes@flsouthern.edu 863-680-
+
+28. Antony Moore
+   Email: amoore6@flsouthern.edu
+   Username: amoore6
+   Original line: Antony Moore Associate Head Men's Soccer Coach amoore6@flsouthern.edu 863-680-
+
+29. Pablo Gallo
+   Email: pablogalloarias@yahoo.com
+   Username: pablogalloarias
+   Original line: Pablo Gallo Arias '19 Assistant Men's Soccer Coach pablogalloarias@yahoo.com 863-680-
+
+30. Gerry Lucey
+   Email: glucey@flsouthern.edu
+   Username: glucey
+   Original line: Gerry Lucey Head Women's Soccer Coach glucey@flsouthern.edu 863-616-
+
+31. Sammy Kirn
+   Email: skirn@flsouthern.edu
+   Username: skirn
+   Original line: Sammy Kirn Assistant Women's Soccer Coach skirn@flsouthern.edu
+
+32. Mo Triner
+   Email: mtriner@flsouthern.edu
+   Username: mtriner
+   Original line: Mo Triner Head Softball Coach mtriner@flsouthern.edu 863-680-
+
+33. Marti Littlefield
+   Email: vlittlefield@flsouthern.edu
+   Username: vlittlefield
+   Original line: Marti Littlefield Assistant Softball Coach vlittlefield@flsouthern.edu 863-680-
+
+34. Bailey Grossenbacher
+   Email: bgrossenbacher@flsouthern.edu
+   Username: bgrossenbacher
+   Original line: Bailey Grossenbacher Assistant Coach bgrossenbacher@flsouthern.edu 863-680-
+
+35. Steven Bostick
+   Email: sbostick@flsouthern.edu
+   Username: sbostick
+   Original line: Steven Bostick Head Men's and Women's Swimming Coach sbostick@flsouthern.edu 863-680-
+
+36. Maddie Samples
+   Email: msamples@flsouthern.edu
+   Username: msamples
+   Original line: Maddie Samples Assistant Swimming Coach - Women's Team Recruiting msamples@flsouthern.edu 863-680-
+
+37. JJ Saslo
+   Email: jsaslo@flsouthern.edu
+   Username: jsaslo
+   Original line: JJ Saslo '22 Assistant Swimming Coach - Men's Team Recruiting jsaslo@flsouthern.edu
+
+38. Steven Bostick
+   Email: sbostick@flsouthern.edu
+   Username: sbostick
+   Original line: Steven Bostick Head Men's and Women's Swimming Coach sbostick@flsouthern.edu 863-680-
+
+39. Maddie Samples
+   Email: msamples@flsouthern.edu
+   Username: msamples
+   Original line: Maddie Samples Assistant Swimming Coach - Women's Team Recruiting msamples@flsouthern.edu 863-680-
+
+40. JJ Saslo
+   Email: jsaslo@flsouthern.edu
+   Username: jsaslo
+   Original line: JJ Saslo '22 Assistant Swimming Coach - Men's Team Recruiting jsaslo@flsouthern.edu
+
+41. Rhett Rollyson
+   Email: rrollyson@flsouthern.edu
+   Username: rrollyson
+   Original line: Rhett Rollyson Head Coach - Men's Tennis rrollyson@flsouthern.edu 813-719-
+
+42. Trish Riddell
+   Email: priddell@flsouthern.edu
+   Username: priddell
+   Original line: Trish Riddell Head Women's Tennis Coach priddell@flsouthern.edu 863-616-
+
+43. Paul Walker
+   Email: millwalk2@aol.com
+   Username: millwalk2
+   Original line: Paul Walker '86 Assistant Women's Tennis Coach millwalk2@aol.com 863-670-
+
+44. Matt Levassiur
+   Email: mlevassiur@flsouthern.edu
+   Username: mlevassiur
+   Original line: Matt Levassiur Head Men's Cross Country & Track Coach mlevassiur@flsouthern.edu 863-680-
+
+45. Stephanie Bylander
+   Email: sbylander@flsouthern.edu
+   Username: sbylander
+   Original line: Stephanie Bylander Head Women's Cross Country & Track Coach sbylander@flsouthern.edu 863-680-
+
+46. Ashlee Crowder
+   Email: acrowder@flsouthern.edu
+   Username: acrowder
+   Original line: Ashlee Crowder Head Coach acrowder@flsouthern.edu 863-680-
+
+47. Makena Wilson
+   Email: mwilson5@flsouthern.edu
+   Username: mwilson5
+   Original line: Makena Wilson '20 Head Beach Coach/Assistant Indoor Coach mwilson5@flsouthern.edu 863-680-
+
+48. Hyrum Keime
+   Email: hkeime@flsouthern.edu
+   Username: hkeime
+   Original line: Hyrum Keime Assistant Volleyball Coach hkeime@flsouthern.edu 863-680-
+
+49. Curtis Rabe
+   Email: crabe@flsouthern.edu
+   Username: crabe
+   Original line: Curtis Rabe Head Waterski Coach crabe@flsouthern.edu 407-461-
+
+50. Victoria Mintzer
+   Email: vmintzer@flsouthern.edu
+   Username: vmintzer
+   Original line: Victoria Mintzer Head Coach vmintzer@flsouthern.edu (813)215-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dan Kirk Head Strength & Conditioning Coach dkirk@flsouthern.edu 863-680-
+• Brian Speller Assistant Strength & Conditioning Coach bspeller@flsouthern.edu
+• Rick O'Dette Head Baseball Coach rodette@flsouthern.edu 863-616-
+• Tony Caldwell Assistant Baseball Coach/Recruiting Coordinator tcaldwell@flsouthern.edu 863-616-
+• Mitchell Wydetic Assistant Baseball Coach mwydetic@flsouthern.edu 863-616-
+• Alex Frapart Assistant Baseball Coach - Head DT Coach afrapart@flsouthern.edu
+• Caleb Adams Assistant Baseball Coach cadams2@flsouthern.edu
+• Mike Donnelly Head Men's Basketball Coach mdonnelly@flsouthern.edu 863-680-
+• Mike Makubika Associate Head Men's Basketball Coach mmakubika@flsouthern.edu 863-680-
+• Ryan Kardok Assistant Men's Basketball Coach rkardok@flsouthern.edu
+• Megan Dzikas '12 Head Coach mdzikas@flsouthern.edu 863-680-
+• Shelby Wheeler Assistant Coach swheeler@flsouthern.edu 863-680-
+• Bobby Orndorff Assistant Coach rorndorff@flsouthern.edu 863-680-
+• Makena Wilson '20 Head Beach Coach/Assistant Indoor Coach mwilson5@flsouthern.edu 863-680-
+• Matt Levassiur Head Men's Cross Country & Track Coach mlevassiur@flsouthern.edu 863-680-
+• Stephanie Bylander Head Women's Cross Country & Track Coach sbylander@flsouthern.edu 863-680-
+• Shannon Morrell Head Equestrian Coach steeplechasesm@aol.com 863-581-
+• Brian Richey '09 Head Men's Golf Coach brichey@flsouthern.edu
+• Robbie Davis Head Women's Golf Coach ldavis@flsouthern.edu 863-616-
+• Gilles Richard Head Men's Ice Hockey Coach coachrichard19@gmail.com 706-550-
+• Nick Nugent Assistant Coach nnugent@flsouthern.edu 603-566-
+• Marty Ward Head Men's Lacrosse Coach mward@flsouthern.edu 863-680-
+• Tim McNichol Assistant Coach tmcnichol@flsouthern.edu 863-680-
+• Kara Reber Head Women's Lacrosse Coach kreber@flsouthern.edu 863-680-
+• Madison Mills Assistant Women's Lacrosse Coach mmills@flsouthern.edu 863-680-
+• Courtney Vasquenza Assistant Women's Lacrosse Coach cvasquenza@flsouthern.edu
+• Ashley Holmes '12 Head Men's Soccer Coach aholmes@flsouthern.edu 863-680-
+• Antony Moore Associate Head Men's Soccer Coach amoore6@flsouthern.edu 863-680-
+• Pablo Gallo Arias '19 Assistant Men's Soccer Coach pablogalloarias@yahoo.com 863-680-
+• Gerry Lucey Head Women's Soccer Coach glucey@flsouthern.edu 863-616-
+• Sammy Kirn Assistant Women's Soccer Coach skirn@flsouthern.edu
+• Mo Triner Head Softball Coach mtriner@flsouthern.edu 863-680-
+• Marti Littlefield Assistant Softball Coach vlittlefield@flsouthern.edu 863-680-
+• Bailey Grossenbacher Assistant Coach bgrossenbacher@flsouthern.edu 863-680-
+• Steven Bostick Head Men's and Women's Swimming Coach sbostick@flsouthern.edu 863-680-
+• Maddie Samples Assistant Swimming Coach - Women's Team Recruiting msamples@flsouthern.edu 863-680-
+• JJ Saslo '22 Assistant Swimming Coach - Men's Team Recruiting jsaslo@flsouthern.edu
+• Steven Bostick Head Men's and Women's Swimming Coach sbostick@flsouthern.edu 863-680-
+• Maddie Samples Assistant Swimming Coach - Women's Team Recruiting msamples@flsouthern.edu 863-680-
+• JJ Saslo '22 Assistant Swimming Coach - Men's Team Recruiting jsaslo@flsouthern.edu
+• Rhett Rollyson Head Coach - Men's Tennis rrollyson@flsouthern.edu 813-719-
+• Trish Riddell Head Women's Tennis Coach priddell@flsouthern.edu 863-616-
+• Paul Walker '86 Assistant Women's Tennis Coach millwalk2@aol.com 863-670-
+• Matt Levassiur Head Men's Cross Country & Track Coach mlevassiur@flsouthern.edu 863-680-
+• Stephanie Bylander Head Women's Cross Country & Track Coach sbylander@flsouthern.edu 863-680-
+• Ashlee Crowder Head Coach acrowder@flsouthern.edu 863-680-
+• Makena Wilson '20 Head Beach Coach/Assistant Indoor Coach mwilson5@flsouthern.edu 863-680-
+• Hyrum Keime Assistant Volleyball Coach hkeime@flsouthern.edu 863-680-
+• Curtis Rabe Head Waterski Coach crabe@flsouthern.edu 407-461-
+• Victoria Mintzer Head Coach vmintzer@flsouthern.edu (813)215-

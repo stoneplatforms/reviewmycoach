@@ -1,0 +1,497 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:39
+============================================================
+
+Total coaches found: 81
+
+PARSED ENTRIES:
+----------------------------------------
+1. Associate Head
+   Email: hb59@berkeley.edu
+   Username: hb59
+   Original line: Associate Head Coach, Athletic Hank Behrens hb59@berkeley.edu
+
+2. Head Athletic
+   Email: sebastian.hernandez@berkeley.edu
+   Username: sebastian.hernandez
+   Original line: Head Athletic Performance Coach - Sebastian Hernandez sebastian.hernandez@berkeley.edu
+
+3. Head Cheer
+   Email: crsmtoler@berkeley.edu
+   Username: crsmtoler
+   Original line: Head Cheer Coach Chelsea Toler crsmtoler@berkeley.edu
+
+4. Head Coach
+   Email: mneu@berkeley.edu
+   Username: mneu
+   Original line: Head Coach Mike Neu mneu@berkeley.edu MikeNeuCal
+
+5. Assistant Coach
+   Email: cbodishbaugh@berkeley.edu
+   Username: cbodishbaugh
+   Original line: Assistant Coach (Pitching) Chris Bodishbaugh cbodishbaugh@berkeley.edu
+
+6. Associate Head
+   Email: adammazarei@berkeley.edu
+   Username: adammazarei
+   Original line: Associate Head Coach Adam Mazarei adammazarei@berkeley.edu adammazarei
+
+7. Assistant Coach
+   Email: jjackson1@berkeley.edu
+   Username: jjackson1
+   Original line: Assistant Coach Jarred Jackson jjackson1@berkeley.edu coachjackson_5
+
+8. Assistant Coach
+   Email: ken.moses@berkeley.edu
+   Username: ken.moses
+   Original line: Assistant Coach Ken Moses ken.moses@berkeley.edu CoachMoses_
+
+9. Assistant Coach
+   Email: mscherb2@berkeley.edu
+   Username: mscherb2
+   Original line: Assistant Coach Matt Scherbenske mscherb2@berkeley.edu mscherb2
+
+10. Assistant Coach
+   Email: isaiahwilkins@berkeley.edu
+   Username: isaiahwilkins
+   Original line: Assistant Coach Isaiah Wilkins isaiahwilkins@berkeley.edu
+
+11. Head Coach
+   Email: charminsmith@berkeley.edu
+   Username: charminsmith
+   Original line: Head Coach Charmin Smith charminsmith@berkeley.edu 21charmin
+
+12. Associate Head
+   Email: heintz@berkeley.edu
+   Username: heintz
+   Original line: Associate Head Coach Heidi Heintz heintz@berkeley.edu
+
+13. Assistant Coach
+   Email: trabryant@berkeley.edu
+   Username: trabryant
+   Original line: Assistant Coach Travon Bryant trabryant@berkeley.edu
+
+14. Assistant Coach
+   Email: jjhuth@berkeley.edu
+   Username: jjhuth
+   Original line: Assistant Coach / Recruiting Jenny Huth jjhuth@berkeley.edu
+
+15. Assistant Coach
+   Email: pierreeliza@berkeley.edu
+   Username: pierreeliza
+   Original line: Assistant Coach Eliza Pierre pierreeliza@berkeley.edu
+
+16. Head Coach
+   Email: mschmitt@berkeley.edu
+   Username: mschmitt
+   Original line: Head Coach Meagan Owusu mschmitt@berkeley.edu
+
+17. Associate Head
+   Email: jmayer@berkeley.edu
+   Username: jmayer
+   Original line: Associate Head Coach Joseph Mayer jmayer@berkeley.edu
+
+18. Head Coach
+   Email: bobby.lockhart@berkeley.edu
+   Username: bobby.lockhart
+   Original line: Head Coach Bobby Lockhart bobby.lockhart@berkeley.edu
+
+19. Assistant Coach
+   Email: nmatysik@berkeley.edu
+   Username: nmatysik
+   Original line: Assistant Coach Nicole Matysik nmatysik@berkeley.edu
+
+20. Assistant Coach
+   Email: carrickdenker@berkeley.edu
+   Username: carrickdenker
+   Original line: Assistant Coach Carrick Denker carrickdenker@berkeley.edu
+
+21. Assistant Coach
+   Email: k.carter@berkeley.edu
+   Username: k.carter
+   Original line: Assistant Coach Katrina Carter k.carter@berkeley.edu
+
+22. Assistant Coach
+   Email: kminton@berkeley.edu
+   Username: kminton
+   Original line: Assistant Coach Kieran Minton kminton@berkeley.edu
+
+23. Travers Family
+   Email: football@berkeley.edu
+   Username: football
+   Original line: Travers Family Head Football Coach Justin Wilcox football@berkeley.edu
+
+24. Co-Defensive Coordinator/Outside
+   Email: vicsooto@berkeley.edu
+   Username: vicsooto
+   Original line: Co-Defensive Coordinator/Outside Vic So'oto vicsooto@berkeley.edu Coach_Sooto
+
+25. Defensive Line/Run
+   Email: abrowning@berkeley.edu
+   Username: abrowning
+   Original line: Defensive Line/Run Game Andrew Browning abrowning@berkeley.edu browning_coach
+
+26. Director, Career
+   Email: coachcoach@berkeley.edu
+   Username: coachcoach
+   Original line: Director, Career Development Ron Coccimiglio coachcoach@berkeley.edu
+
+27. Executive Assistant
+   Email: dschram@berkeley.edu
+   Username: dschram
+   Original line: Executive Assistant To Head Coach Debbie Schram dschram@berkeley.edu
+
+28. Inside Linebackers
+   Email: mbruno@berkeley.edu
+   Username: mbruno
+   Original line: Inside Linebackers Michael Bruno mbruno@berkeley.edu Coach_MikeBruno
+
+29. Alex and
+   Email: michaelwilson@berkeley.edu
+   Username: michaelwilson
+   Original line: Alex and Marie Shipman Director of Michael Wilson michaelwilson@berkeley.edu CoachWilsonCAL
+
+30. Assistant Coach
+   Email: pireland@berkeley.edu
+   Username: pireland
+   Original line: Assistant Coach Peter Ireland pireland@berkeley.edu
+
+31. Head Coach
+   Email: saagaard@berkeley.edu
+   Username: saagaard
+   Original line: Head Coach Sofie Aagaard saagaard@berkeley.edu
+
+32. Associate Head
+   Email: bvatana@berkeley.edu
+   Username: bvatana
+   Original line: Associate Head Coach Beverly Terry bvatana@berkeley.edu
+
+33. Head Coach
+   Email: bryandelcastillo@berkeley.edu
+   Username: bryandelcastillo
+   Original line: Head Coach Bryan Del Castillo bryandelcastillo@berkeley.edu
+
+34. Head Coach
+   Email: gstackea@berkeley.edu
+   Username: gstackea
+   Original line: Head Coach Geralen Stack-Eaton gstackea@berkeley.edu
+
+35. Associate Head
+   Email: rstenger@berkeley.edu
+   Username: rstenger
+   Original line: Associate Head Coach Rich Stenger rstenger@berkeley.edu
+
+36. Assistant Coach
+   Email: shelland@berkeley.edu
+   Username: shelland
+   Original line: Assistant Coach Seth Helland shelland@berkeley.edu
+
+37. Assistant Coach
+   Email: bemcclure@berkeley.edu
+   Username: bemcclure
+   Original line: Assistant Coach Brittany McClure bemcclure@berkeley.edu
+
+38. Head Coach
+   Email: jenniferwong1@berkeley.edu
+   Username: jenniferwong1
+   Original line: Head Coach Jennifer Wong jenniferwong1@berkeley.edu
+
+39. Assistant Coach
+   Email: odm224@berkeley.edu
+   Username: odm224
+   Original line: Assistant Coach Olivia Memeger odm224@berkeley.edu
+
+40. Assistant Coach
+   Email: slarson1@berkeley.edu
+   Username: slarson1
+   Original line: Assistant Coach Sorana Larson slarson1@berkeley.edu
+
+41. Associate Head
+   Email: sambaum@berkeley.edu
+   Username: sambaum
+   Original line: Associate Head Coach Sam Baum sambaum@berkeley.edu
+
+42. Assistant Coach
+   Email: brandonshald@berkeley.edu
+   Username: brandonshald
+   Original line: Assistant Coach Brandon Shald brandonshald@berkeley.edu
+
+43. Assistant Coach
+   Email: michaelchandler@berkeley.edu
+   Username: michaelchandler
+   Original line: Assistant Coach Michael Chandler michaelchandler@berkeley.edu
+
+44. Head Coach
+   Email: alacosta@berkeley.edu
+   Username: alacosta
+   Original line: Head Coach Al Acosta alacosta@berkeley.edu
+
+45. Assistant Coach
+   Email: kgirard@berkeley.edu
+   Username: kgirard
+   Original line: Assistant Coach Kirsten Girard kgirard@berkeley.edu
+
+46. Assistant Coach
+   Email: kendallbrewer@berkeley.edu
+   Username: kendallbrewer
+   Original line: Assistant Coach Kendall Brewer kendallbrewer@berkeley.edu
+
+47. Assistant Coach
+   Email: p.mansfeld@berkeley.edu
+   Username: p.mansfeld
+   Original line: Assistant Coach Peter Mansfeld p.mansfeld@berkeley.edu
+
+48. Head Coach
+   Email: clarkj@berkeley.edu
+   Username: clarkj
+   Original line: Head Coach Jack Clark clarkj@berkeley.edu
+
+49. Associate Head
+   Email: tbillups@berkeley.edu
+   Username: tbillups
+   Original line: Associate Head Coach Tom Billups tbillups@berkeley.edu
+
+50. Head Coach
+   Email: calsoccer@berkeley.edu
+   Username: calsoccer
+   Original line: Head Coach Leonard Griffin calsoccer@berkeley.edu
+
+51. Assistant Coach
+   Email: ricardo.gutierrez@berkeley.edu
+   Username: ricardo.gutierrez
+   Original line: Assistant Coach Ricardo Gutierrez ricardo.gutierrez@berkeley.edu
+
+52. Assistant Coach
+   Email: jake.wilson@berkeley.edu
+   Username: jake.wilson
+   Original line: Assistant Coach Jacob Wilson jake.wilson@berkeley.edu
+
+53. Head Coach
+   Email: nmcguire@berkeley.edu
+   Username: nmcguire
+   Original line: Head Coach Neil McGuire nmcguire@berkeley.edu
+
+54. Associate Head
+   Email: corialexander@berkeley.edu
+   Username: corialexander
+   Original line: Associate Head Coach Cori Callahan corialexander@berkeley.edu
+
+55. Assistant Coach
+   Email: alec.sundly@berkeley.edu
+   Username: alec.sundly
+   Original line: Assistant Coach Alec Sundly alec.sundly@berkeley.edu
+
+56. Head Coach
+   Email: singleton@berkeley.edu
+   Username: singleton
+   Original line: Head Coach Steve Singleton singleton@berkeley.edu
+
+57. Assistant Coach
+   Email: daniellegwhorton@berkeley.edu
+   Username: daniellegwhorton
+   Original line: Assistant Coach Danielle Gibson Whorton daniellegwhorton@berkeley.edu
+
+58. Assistant Coach
+   Email: ccorona@berkeley.edu
+   Username: ccorona
+   Original line: Assistant Coach Camille Corona ccorona@berkeley.edu
+
+59. Assistant Coach
+   Email: crex@berkeley.edu
+   Username: crex
+   Original line: Assistant Coach Chelsea Rex-Singleton crex@berkeley.edu
+
+60. Associate Head
+   Email: marshswim@berkeley.edu
+   Username: marshswim
+   Original line: Associate Head Coach David Marsh marshswim@berkeley.edu @SwimCoachMarsh
+
+61. Associate Head
+   Email: jhuger@berkeley.edu
+   Username: jhuger
+   Original line: Associate Head Coach Josh Huger jhuger@berkeley.edu
+
+62. Diving Coach
+   Email: linp19@berkeley.edu
+   Username: linp19
+   Original line: Diving Coach Pei Lin linp19@berkeley.edu
+
+63. Associate Head
+   Email: andreacaligiana@berkeley.edu
+   Username: andreacaligiana
+   Original line: Associate Head Coach Andrea Caligiana andreacaligiana@berkeley.edu
+
+64. Assistant Coach
+   Email: theo_dean@berkeley.edu
+   Username: theo_dean
+   Original line: Assistant Coach Theodore Hyun-Su Dean theo_dean@berkeley.edu
+
+65. Interim Head
+   Email: kkwinta@berkeley.edu
+   Username: kkwinta
+   Original line: Interim Head Coach Kris Kwinta kkwinta@berkeley.edu
+
+66. Assistant Coach
+   Email: stephkwallace@berkeley.edu
+   Username: stephkwallace
+   Original line: Assistant Coach Stephanie Kusano Wallace stephkwallace@berkeley.edu
+
+67. Assistant Coach
+   Email: lozano.jean@berkeley.edu
+   Username: lozano.jean
+   Original line: Assistant Coach Jean Lozano lozano.jean@berkeley.edu
+
+68. Assistant Coach
+   Email: bobby.lockhart@berkeley.edu
+   Username: bobby.lockhart
+   Original line: Assistant Coach (Distances) / Head Bobby Lockhart bobby.lockhart@berkeley.edu
+
+69. Assistant Coach
+   Email: burdorff@berkeley.edu
+   Username: burdorff
+   Original line: Assistant Coach (Throws) Tyler Burdorff burdorff@berkeley.edu
+
+70. Assistant Coach
+   Email: dlefever@berkeley.edu
+   Username: dlefever
+   Original line: Assistant Coach (Vertical Jumps, Dan Lefever dlefever@berkeley.edu
+
+71. Assistant Coach
+   Email: rharrison24@berkeley.edu
+   Username: rharrison24
+   Original line: Assistant Coach Ronnye Harrison rharrison24@berkeley.edu
+
+72. Assistant Coach
+   Email: nmatysik@berkeley.edu
+   Username: nmatysik
+   Original line: Assistant Coach (Distances) Nicole Matysik nmatysik@berkeley.edu
+
+73. Assistant Coach
+   Email: carrickdenker@berkeley.edu
+   Username: carrickdenker
+   Original line: Assistant Coach (Distances) Carrick Denker carrickdenker@berkeley.edu
+
+74. Head Coach
+   Email: jmalcom@berkeley.edu
+   Username: jmalcom
+   Original line: Head Coach Jen Malcom jmalcom@berkeley.edu
+
+75. Assistant Coach
+   Email: Sato27@berkeley.edu
+   Username: Sato27
+   Original line: Assistant Coach Andrew Sato Sato27@berkeley.edu
+
+76. Assistant Coach
+   Email: Cole.Murray@berkeley.edu
+   Username: Cole.Murray
+   Original line: Assistant Coach Cole Murray Cole.Murray@berkeley.edu
+
+77. Assistant Coach/Recruiting
+   Email: Aandreno@berkeley.edu
+   Username: Aandreno
+   Original line: Assistant Coach/Recruiting Alyssa Andreno Aandreno@berkeley.edu
+
+78. Assistant Coach
+   Email: jbelamaric@berkeley.edu
+   Username: jbelamaric
+   Original line: Assistant Coach Jakov Belamaric jbelamaric@berkeley.edu
+
+79. Head Coach
+   Email: coralie.simmons@berkeley.edu
+   Username: coralie.simmons
+   Original line: Head Coach Coralie Simmons coralie.simmons@berkeley.edu
+
+80. Assistant Coach
+   Email: heather.petri@berkeley.edu
+   Username: heather.petri
+   Original line: Assistant Coach Heather Petri heather.petri@berkeley.edu
+
+81. Assistant Coach
+   Email: lmorriso@berkeley.edu
+   Username: lmorriso
+   Original line: Assistant Coach Lance Morrison lmorriso@berkeley.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Associate Head Coach, Athletic Hank Behrens hb59@berkeley.edu
+• Head Athletic Performance Coach - Sebastian Hernandez sebastian.hernandez@berkeley.edu
+• Head Cheer Coach Chelsea Toler crsmtoler@berkeley.edu
+• Head Coach Mike Neu mneu@berkeley.edu MikeNeuCal
+• Assistant Coach (Pitching) Chris Bodishbaugh cbodishbaugh@berkeley.edu
+• Associate Head Coach Adam Mazarei adammazarei@berkeley.edu adammazarei
+• Assistant Coach Jarred Jackson jjackson1@berkeley.edu coachjackson_5
+• Assistant Coach Ken Moses ken.moses@berkeley.edu CoachMoses_
+• Assistant Coach Matt Scherbenske mscherb2@berkeley.edu mscherb2
+• Assistant Coach Isaiah Wilkins isaiahwilkins@berkeley.edu
+• Head Coach Charmin Smith charminsmith@berkeley.edu 21charmin
+• Associate Head Coach Heidi Heintz heintz@berkeley.edu
+• Assistant Coach Travon Bryant trabryant@berkeley.edu
+• Assistant Coach / Recruiting Jenny Huth jjhuth@berkeley.edu
+• Assistant Coach Eliza Pierre pierreeliza@berkeley.edu
+• Head Coach Meagan Owusu mschmitt@berkeley.edu
+• Associate Head Coach Joseph Mayer jmayer@berkeley.edu
+• Head Coach Bobby Lockhart bobby.lockhart@berkeley.edu
+• Assistant Coach Nicole Matysik nmatysik@berkeley.edu
+• Assistant Coach Carrick Denker carrickdenker@berkeley.edu
+• Assistant Coach Katrina Carter k.carter@berkeley.edu
+• Assistant Coach Kieran Minton kminton@berkeley.edu
+• Travers Family Head Football Coach Justin Wilcox football@berkeley.edu
+• Co-Defensive Coordinator/Outside Vic So'oto vicsooto@berkeley.edu Coach_Sooto
+• Defensive Line/Run Game Andrew Browning abrowning@berkeley.edu browning_coach
+• Director, Career Development Ron Coccimiglio coachcoach@berkeley.edu
+• Executive Assistant To Head Coach Debbie Schram dschram@berkeley.edu
+• Inside Linebackers Michael Bruno mbruno@berkeley.edu Coach_MikeBruno
+• Alex and Marie Shipman Director of Michael Wilson michaelwilson@berkeley.edu CoachWilsonCAL
+• Assistant Coach Peter Ireland pireland@berkeley.edu
+• Head Coach Sofie Aagaard saagaard@berkeley.edu
+• Associate Head Coach Beverly Terry bvatana@berkeley.edu
+• Head Coach Bryan Del Castillo bryandelcastillo@berkeley.edu
+• Head Coach Geralen Stack-Eaton gstackea@berkeley.edu
+• Associate Head Coach Rich Stenger rstenger@berkeley.edu
+• Assistant Coach Seth Helland shelland@berkeley.edu
+• Assistant Coach Brittany McClure bemcclure@berkeley.edu
+• Head Coach Jennifer Wong jenniferwong1@berkeley.edu
+• Assistant Coach Olivia Memeger odm224@berkeley.edu
+• Assistant Coach Sorana Larson slarson1@berkeley.edu
+• Associate Head Coach Sam Baum sambaum@berkeley.edu
+• Assistant Coach Brandon Shald brandonshald@berkeley.edu
+• Assistant Coach Michael Chandler michaelchandler@berkeley.edu
+• Head Coach Al Acosta alacosta@berkeley.edu
+• Assistant Coach Kirsten Girard kgirard@berkeley.edu
+• Assistant Coach Kendall Brewer kendallbrewer@berkeley.edu
+• Assistant Coach Peter Mansfeld p.mansfeld@berkeley.edu
+• Head Coach Jack Clark clarkj@berkeley.edu
+• Associate Head Coach Tom Billups tbillups@berkeley.edu
+• Head Coach Leonard Griffin calsoccer@berkeley.edu
+• Assistant Coach Ricardo Gutierrez ricardo.gutierrez@berkeley.edu
+• Assistant Coach Jacob Wilson jake.wilson@berkeley.edu
+• Head Coach Neil McGuire nmcguire@berkeley.edu
+• Associate Head Coach Cori Callahan corialexander@berkeley.edu
+• Assistant Coach Alec Sundly alec.sundly@berkeley.edu
+• Head Coach Steve Singleton singleton@berkeley.edu
+• Assistant Coach Danielle Gibson Whorton daniellegwhorton@berkeley.edu
+• Assistant Coach Camille Corona ccorona@berkeley.edu
+• Assistant Coach Chelsea Rex-Singleton crex@berkeley.edu
+• Associate Head Coach David Marsh marshswim@berkeley.edu @SwimCoachMarsh
+• Associate Head Coach Josh Huger jhuger@berkeley.edu
+• Diving Coach Pei Lin linp19@berkeley.edu
+• Associate Head Coach Andrea Caligiana andreacaligiana@berkeley.edu
+• Assistant Coach Theodore Hyun-Su Dean theo_dean@berkeley.edu
+• Interim Head Coach Kris Kwinta kkwinta@berkeley.edu
+• Assistant Coach Stephanie Kusano Wallace stephkwallace@berkeley.edu
+• Assistant Coach Jean Lozano lozano.jean@berkeley.edu
+• Assistant Coach (Distances) / Head Bobby Lockhart bobby.lockhart@berkeley.edu
+• Assistant Coach (Throws) Tyler Burdorff burdorff@berkeley.edu
+• Assistant Coach (Vertical Jumps, Dan Lefever dlefever@berkeley.edu
+• Assistant Coach Ronnye Harrison rharrison24@berkeley.edu
+• Assistant Coach (Distances) Nicole Matysik nmatysik@berkeley.edu
+• Assistant Coach (Distances) Carrick Denker carrickdenker@berkeley.edu
+• Head Coach Jen Malcom jmalcom@berkeley.edu
+• Assistant Coach Andrew Sato Sato27@berkeley.edu
+• Assistant Coach Cole Murray Cole.Murray@berkeley.edu
+• Assistant Coach/Recruiting Alyssa Andreno Aandreno@berkeley.edu
+• Assistant Coach Jakov Belamaric jbelamaric@berkeley.edu
+• Head Coach Coralie Simmons coralie.simmons@berkeley.edu
+• Assistant Coach Heather Petri heather.petri@berkeley.edu
+• Assistant Coach Lance Morrison lmorriso@berkeley.edu

@@ -1,0 +1,269 @@
+COACH ENTRIES FOUND - 2025-10-06 18:36:45
+============================================================
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rich Hill
+   Email: rhill20@hawaii.edu
+   Username: rhill20
+   Original line: Rich Hill Head Coach (808) rhill20@hawaii.edu
+
+2. Dave Nakama
+   Email: dnakama4@hawaii.edu
+   Username: dnakama4
+   Original line: Dave Nakama Assistant Coach (808) dnakama4@hawaii.edu
+
+3. Keith Zuniga
+   Email: zunigak@hawaii.edu
+   Username: zunigak
+   Original line: Keith Zuniga Associate Head Coach zunigak@hawaii.edu
+
+4. Eran Ganot
+   Email: uhmbkb@hawaii.edu
+   Username: uhmbkb
+   Original line: Eran Ganot Head Coach (808) uhmbkb@hawaii.edu
+
+5. Brad Davidson
+   Email: bmdavids@hawaii.edu
+   Username: bmdavids
+   Original line: Brad Davidson Associate Head Coach (808) bmdavids@hawaii.edu
+
+6. Rob Jones
+   Email: rtjones7@hawaii.edu
+   Username: rtjones7
+   Original line: Rob Jones Assistant Coach (808) rtjones7@hawaii.edu
+
+7. Gibson Johnson
+   Email: gibsonw@hawaii.edu
+   Username: gibsonw
+   Original line: Gibson Johnson Assistant Coach (808) gibsonw@hawaii.edu
+
+8. Clay Wilson
+   Email: cswilson@hawaii.edu
+   Username: cswilson
+   Original line: Clay Wilson Assistant Coach (808) cswilson@hawaii.edu
+
+9. Laura Beeman
+   Email: wahinebb@hawaii.edu
+   Username: wahinebb
+   Original line: Laura Beeman Head Coach (808) wahinebb@hawaii.edu
+
+10. Alex Delanian
+   Email: delanian@hawaii.edu
+   Username: delanian
+   Original line: Alex Delanian Associate Head Coach (808) delanian@hawaii.edu
+
+11. Khalilah Mitchell
+   Email: khalilah@hawaii.edu
+   Username: khalilah
+   Original line: Khalilah Mitchell Assistant Coach (808) khalilah@hawaii.edu
+
+12. Derrick Florence
+   Email: dflo23@hawaii.edu
+   Username: dflo23
+   Original line: Derrick Florence Assistant Coach dflo23@hawaii.edu
+
+13. Jason Hill
+   Email: jhill22@hawaii.edu
+   Username: jhill22
+   Original line: Jason Hill Assistant Coach/Director of jhill22@hawaii.edu
+
+14. Danny Alvarez
+   Email: dalvarez@hawaii.edu
+   Username: dalvarez
+   Original line: Danny Alvarez Head Coach dalvarez@hawaii.edu
+
+15. Victoria Prince
+   Email: vprince@hawaii.edu
+   Username: vprince
+   Original line: Victoria Prince Assistant Coach vprince@hawaii.edu
+
+16. Mike Keolaokalani
+   Email: mkbaker@hawaii.edu
+   Username: mkbaker
+   Original line: Mike Keolaokalani Baker Head Coach (808) mkbaker@hawaii.edu
+
+17. Sabrina Mendoza
+   Email: simendoz@hawaii.edu
+   Username: simendoz
+   Original line: Sabrina Mendoza Assistant Track and Field Coach simendoz@hawaii.edu
+
+18. Timmy Chang
+   Email: uhwarriorsfootball@gmail.com
+   Username: uhwarriorsfootball
+   Original line: Timmy Chang Head Coach (808) uhwarriorsfootball@gmail.com
+
+19. Scott Simpson
+   Email: scottsim@hawaii.edu
+   Username: scottsim
+   Original line: Scott Simpson Head Coach (858) scottsim@hawaii.edu
+
+20. Julie Brooks
+   Email: juliedb@hawaii.edu
+   Username: juliedb
+   Original line: Julie Brooks Head Coach (808) juliedb@hawaii.edu
+
+21. Andy Johnson
+   Email: andrewj@hawaii.edu
+   Username: andrewj
+   Original line: Andy Johnson Head Coach (808) andrewj@hawaii.edu
+
+22. Jesse Andrews
+   Email: andrewsjesse@gmail.com
+   Username: andrewsjesse
+   Original line: Jesse Andrews Assistant Coach (808) andrewsjesse@gmail.com
+
+23. Michele Nagamine
+   Email: mnaga@hawaii.edu
+   Username: mnaga
+   Original line: Michele Nagamine Head Coach (808) mnaga@hawaii.edu
+
+24. Kaula Rowe
+   Email: rowe9@hawaii.edu
+   Username: rowe9
+   Original line: Kaula Rowe Associate Head Coach rowe9@hawaii.edu
+
+25. Daniel Saucedo
+   Email: djsauce@hawaii.edu
+   Username: djsauce
+   Original line: Daniel Saucedo Assistant Coach/Recruiting (808) djsauce@hawaii.edu
+
+26. Panita Thanatharn
+   Email: panita@hawaii.edu
+   Username: panita
+   Original line: Panita Thanatharn Head Coach 808- panita@hawaii.edu
+
+27. Mariah Ramirez
+   Email: mariahvr@hawaii.edu
+   Username: mariahvr
+   Original line: Mariah Ramirez Assistant Coach 808- mariahvr@hawaii.edu
+
+28. Alyssa Gonzalez
+   Email: alyssago@hawaii.edu
+   Username: alyssago
+   Original line: Alyssa Gonzalez Assistant Coach 808- alyssago@hawaii.edu
+
+29. Steve Allnutt
+   Email: allnutt@hawaii.edu
+   Username: allnutt
+   Original line: Steve Allnutt Head Coach allnutt@hawaii.edu
+
+30. Brandon Blaisdell
+   Email: bblaisde@hawaii.edu
+   Username: bblaisde
+   Original line: Brandon Blaisdell Diving Coach bblaisde@hawaii.edu
+
+31. Lauren Sale
+   Email: laurenfs@hawaii.edu
+   Username: laurenfs
+   Original line: Lauren Sale Assistant Swim Coach laurenfs@hawaii.edu
+
+32. Tim Gallagher
+   Email: tkgallag@hawaii.edu
+   Username: tkgallag
+   Original line: Tim Gallagher Assistant Swim Coach tkgallag@hawaii.edu
+
+33. Hendrik Bode
+   Email: hbode@hawaii.edu
+   Username: hbode
+   Original line: Hendrik Bode Head Coach 808- hbode@hawaii.edu
+
+34. Hayden Snyder
+   Email: snyderh@hawaii.edu
+   Username: snyderh
+   Original line: Hayden Snyder Assistant Coach 856- snyderh@hawaii.edu
+
+35. Jun Hernandez
+   Email: rogelioh@hawaii.edu
+   Username: rogelioh
+   Original line: Jun Hernandez Head Coach (808) rogelioh@hawaii.edu
+
+36. Charlie Wade
+   Email: cwade@hawaii.edu
+   Username: cwade
+   Original line: Charlie Wade Head Coach (808) cwade@hawaii.edu
+
+37. Kupono Fey
+   Email: kfey@hawaii.edu
+   Username: kfey
+   Original line: Kupono Fey Assistant Coach (808) kfey@hawaii.edu
+
+38. Robyn Ah
+   Email: robynma@hawaii.edu
+   Username: robynma
+   Original line: Robyn Ah Mow Head Coach (808) robynma@hawaii.edu
+
+39. Kaleo Baxter
+   Email: gkbaxter@hawaii.edu
+   Username: gkbaxter
+   Original line: Kaleo Baxter Associate Head Coach (808) gkbaxter@hawaii.edu
+
+40. Nick Castello
+   Email: ncastell@hawaii.edu
+   Username: ncastell
+   Original line: Nick Castello Assistant Coach (808) ncastell@hawaii.edu
+
+41. James Robinson
+   Email: jamesrro@hawaii.edu
+   Username: jamesrro
+   Original line: James Robinson Head Coach (808) jamesrro@hawaii.edu
+
+42. Candice Vorbeck
+   Email: cvorbeck@hawaii.edu
+   Username: cvorbeck
+   Original line: Candice Vorbeck Associate Head Coach cvorbeck@hawaii.edu
+
+43. Brooke Maxson
+   Email: bmaxson@hawaii.edu
+   Username: bmaxson
+   Original line: Brooke Maxson Assistant Coach bmaxson@hawaii.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rich Hill Head Coach (808) rhill20@hawaii.edu
+• Dave Nakama Assistant Coach (808) dnakama4@hawaii.edu
+• Keith Zuniga Associate Head Coach zunigak@hawaii.edu
+• Eran Ganot Head Coach (808) uhmbkb@hawaii.edu
+• Brad Davidson Associate Head Coach (808) bmdavids@hawaii.edu
+• Rob Jones Assistant Coach (808) rtjones7@hawaii.edu
+• Gibson Johnson Assistant Coach (808) gibsonw@hawaii.edu
+• Clay Wilson Assistant Coach (808) cswilson@hawaii.edu
+• Laura Beeman Head Coach (808) wahinebb@hawaii.edu
+• Alex Delanian Associate Head Coach (808) delanian@hawaii.edu
+• Khalilah Mitchell Assistant Coach (808) khalilah@hawaii.edu
+• Derrick Florence Assistant Coach dflo23@hawaii.edu
+• Jason Hill Assistant Coach/Director of jhill22@hawaii.edu
+• Danny Alvarez Head Coach dalvarez@hawaii.edu
+• Victoria Prince Assistant Coach vprince@hawaii.edu
+• Mike Keolaokalani Baker Head Coach (808) mkbaker@hawaii.edu
+• Sabrina Mendoza Assistant Track and Field Coach simendoz@hawaii.edu
+• Timmy Chang Head Coach (808) uhwarriorsfootball@gmail.com
+• Scott Simpson Head Coach (858) scottsim@hawaii.edu
+• Julie Brooks Head Coach (808) juliedb@hawaii.edu
+• Andy Johnson Head Coach (808) andrewj@hawaii.edu
+• Jesse Andrews Assistant Coach (808) andrewsjesse@gmail.com
+• Michele Nagamine Head Coach (808) mnaga@hawaii.edu
+• Kaula Rowe Associate Head Coach rowe9@hawaii.edu
+• Daniel Saucedo Assistant Coach/Recruiting (808) djsauce@hawaii.edu
+• Panita Thanatharn Head Coach 808- panita@hawaii.edu
+• Mariah Ramirez Assistant Coach 808- mariahvr@hawaii.edu
+• Alyssa Gonzalez Assistant Coach 808- alyssago@hawaii.edu
+• Steve Allnutt Head Coach allnutt@hawaii.edu
+• Brandon Blaisdell Diving Coach bblaisde@hawaii.edu
+• Lauren Sale Assistant Swim Coach laurenfs@hawaii.edu
+• Tim Gallagher Assistant Swim Coach tkgallag@hawaii.edu
+• Hendrik Bode Head Coach 808- hbode@hawaii.edu
+• Hayden Snyder Assistant Coach 856- snyderh@hawaii.edu
+• Jun Hernandez Head Coach (808) rogelioh@hawaii.edu
+• Charlie Wade Head Coach (808) cwade@hawaii.edu
+• Kupono Fey Assistant Coach (808) kfey@hawaii.edu
+• Robyn Ah Mow Head Coach (808) robynma@hawaii.edu
+• Kaleo Baxter Associate Head Coach (808) gkbaxter@hawaii.edu
+• Nick Castello Assistant Coach (808) ncastell@hawaii.edu
+• James Robinson Head Coach (808) jamesrro@hawaii.edu
+• Candice Vorbeck Associate Head Coach cvorbeck@hawaii.edu
+• Brooke Maxson Assistant Coach bmaxson@hawaii.edu

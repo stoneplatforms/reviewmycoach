@@ -1,0 +1,299 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:41
+============================================================
+
+Total coaches found: 48
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jake Harrell
+   Email: jharrell8@elon.edu
+   Username: jharrell8
+   Original line: Jake Harrell Assistant Sports Performance Coach jharrell8@elon.edu
+
+2. Kell Smith
+   Email: ksmith158@elon.edu
+   Username: ksmith158
+   Original line: Kell Smith Assistant Sports Performance Coach ksmith158@elon.edu
+
+3. Mike Kennedy
+   Email: kennedy@elon.edu
+   Username: kennedy
+   Original line: Mike Kennedy Head Baseball Coach kennedy@elon.edu 336-278-
+
+4. Robbie Huffstetler
+   Email: rhuffstetler@elon.edu
+   Username: rhuffstetler
+   Original line: Robbie Huffstetler Associate Head Baseball Coach rhuffstetler@elon.edu 336-278-
+
+5. Courtney Eldridge
+   Email: celdridge5@elon.edu
+   Username: celdridge5
+   Original line: Courtney Eldridge Men's Basketball Assistant Coach celdridge5@elon.edu 336-278-
+
+6. Sean Halloran
+   Email: shalloran2@elon.edu
+   Username: shalloran2
+   Original line: Sean Halloran Men's Basketball Assistant Coach & Director Of Operations shalloran2@elon.edu 336-278-
+
+7. Ryan Saunders
+   Email: rsaunders9@elon.edu
+   Username: rsaunders9
+   Original line: Ryan Saunders Men's Basketball Assistant Coach rsaunders9@elon.edu 336-278-
+
+8. Al Seibert
+   Email: aseibert3@elon.edu
+   Username: aseibert3
+   Original line: Al Seibert Men's Basketball Assistant Coach & General Manager aseibert3@elon.edu
+
+9. Darius Stokes
+   Email: dstokes4@elon.edu
+   Username: dstokes4
+   Original line: Darius Stokes Men's Basketball Assistant Coach dstokes4@elon.edu
+
+10. Edgar Farmer,
+   Email: efarmer2@elon.edu
+   Username: efarmer2
+   Original line: Edgar Farmer, Jr. Assistant Women's Basketball Coach efarmer2@elon.edu 336-278-
+
+11. Essence Baucom
+   Email: ebaucom@elon.edu
+   Username: ebaucom
+   Original line: Essence Baucom Assistant Women's Basketball Coach/Recruiting Coordinator ebaucom@elon.edu 336-278-
+
+12. Kelvin Long
+   Email: klong24@elon.edu
+   Username: klong24
+   Original line: Kelvin Long Jr. Assistant Women's Basketball Coach klong24@elon.edu
+
+13. Susan Turner
+   Email: sturner2@elon.edu
+   Username: sturner2
+   Original line: Susan Turner Head Cheerleading Coach sturner2@elon.edu
+
+14. Elly Dirks
+   Email: edirks@elon.edu
+   Username: edirks
+   Original line: Elly Dirks Head Dance Coach edirks@elon.edu
+
+15. Mark Rinker
+   Email: mrinker@elon.edu
+   Username: mrinker
+   Original line: Mark Rinker Head Cross Country/Assistant Track & Field Coach mrinker@elon.edu
+
+16. Laura Igaune
+   Email: ligaune@elon.edu
+   Username: ligaune
+   Original line: Laura Igaune Hill Associate Head Track & Field Coach/Director of Operations ligaune@elon.edu 336-278-
+
+17. Doug Martin
+   Email: dmartin35@elon.edu
+   Username: dmartin35
+   Original line: Doug Martin Assistant Football Coach (Offensive Coordinator/Quarterbacks) dmartin35@elon.edu
+
+18. Casey Vance
+   Email: cvance5@elon.edu
+   Username: cvance5
+   Original line: Casey Vance Assistant Football Coach (Defensive Coordinator/Linebackers) cvance5@elon.edu 336-278-
+
+19. Nate Harris
+   Email: nharris5@elon.edu
+   Username: nharris5
+   Original line: Nate Harris Assistant Football Coach (Running Backs/Recruiting Coordinator) nharris5@elon.edu 336-278-
+
+20. Alex Stadler
+   Email: astadler2@elon.edu
+   Username: astadler2
+   Original line: Alex Stadler Clay Hassard Assistant Football Coach / Offensive Line astadler2@elon.edu
+
+21. Matt Ford
+   Email: mford22@elon.edu
+   Username: mford22
+   Original line: Matt Ford Assistant Football Coach (Tight Ends) mford22@elon.edu
+
+22. Dominique Battle
+   Email: dbattle5@elon.edu
+   Username: dbattle5
+   Original line: Dominique Battle Assistant Football Coach (Safeties/Defensive Pass Game dbattle5@elon.edu
+
+23. Matt Christian
+   Email: mchristian7@elon.edu
+   Username: mchristian7
+   Original line: Matt Christian Assistant Football Coach (Wide Receivers) mchristian7@elon.edu
+
+24. Akeem Dent
+   Email: adent3@elon.edu
+   Username: adent3
+   Original line: Akeem Dent Assistant Football Coach (Outside Linebackers) adent3@elon.edu
+
+25. Owen Helton
+   Email: ohelton@elon.edu
+   Username: ohelton
+   Original line: Owen Helton Assistant Offensive Coach (Quarterbacks) ohelton@elon.edu
+
+26. Don Hill
+   Email: dhill9@elon.edu
+   Username: dhill9
+   Original line: Don Hill Director of Golf and Head Men's Golf Coach dhill9@elon.edu 336-278-
+
+27. Roddy Guest
+   Email: rguest@elon.edu
+   Username: rguest
+   Original line: Roddy Guest Assistant Men's Golf Coach rguest@elon.edu
+
+28. Chris Dockrill
+   Email: cdockrill@elon.edu
+   Username: cdockrill
+   Original line: Chris Dockrill Head Women's Golf Coach cdockrill@elon.edu 336-278-
+
+29. LoraLie Cowart
+   Email: lcowart@elon.edu
+   Username: lcowart
+   Original line: LoraLie Cowart Assistant Women's Golf Coach lcowart@elon.edu
+
+30. Josh Hexter
+   Email: wlaxrecruiting@elon.edu
+   Username: wlaxrecruiting
+   Original line: Josh Hexter Head Women's Lacrosse Coach wlaxrecruiting@elon.edu 336-278-
+
+31. Kelly Dowd
+   Email: kdowd6@elon.edu
+   Username: kdowd6
+   Original line: Kelly Dowd Assistant Lacrosse Coach kdowd6@elon.edu 336-278-
+
+32. Katie Brodsky
+   Email: kbrodsky@elon.edu
+   Username: kbrodsky
+   Original line: Katie Brodsky Assistant Lacrosse Coach kbrodsky@elon.edu
+
+33. Marc Reeves
+   Email: mreeves3@elon.edu
+   Username: mreeves3
+   Original line: Marc Reeves Head Men's Soccer Coach mreeves3@elon.edu 336-278-
+
+34. Jay O'Donnell
+   Email: jodonnell14@elon.edu
+   Username: jodonnell14
+   Original line: Jay O'Donnell Associate Head Coach jodonnell14@elon.edu
+
+35. Brian White
+   Email: bwhite24@elon.edu
+   Username: bwhite24
+   Original line: Brian White Assistant Men's Soccer Coach bwhite24@elon.edu
+
+36. Neil Payne
+   Email: npayne4@elon.edu
+   Username: npayne4
+   Original line: Neil Payne Head Women's Soccer Coach npayne4@elon.edu 336-278-
+
+37. Sean Sandoval
+   Email: ssandoval2@elon.edu
+   Username: ssandoval2
+   Original line: Sean Sandoval Assistant Women's Soccer Coach ssandoval2@elon.edu (336) 278-
+
+38. Clifton Bush
+   Email: cbush5@elon.edu
+   Username: cbush5
+   Original line: Clifton Bush Assistant Women's Soccer Coach/Goalkeepers Coach cbush5@elon.edu
+
+39. Jonathan Lynch
+   Email: jlynch27@elon.edu
+   Username: jlynch27
+   Original line: Jonathan Lynch Assistant Softball Coach jlynch27@elon.edu
+
+40. Sophia Devesa
+   Email: sdevesa@elon.edu
+   Username: sdevesa
+   Original line: Sophia Devesa Assistant Softball Coach sdevesa@elon.edu
+
+41. Maciek Sykut
+   Email: msykut@elon.edu
+   Username: msykut
+   Original line: Maciek Sykut Head Men's Tennis Coach msykut@elon.edu
+
+42. Elizabeth Anderson
+   Email: eperry4@elon.edu
+   Username: eperry4
+   Original line: Elizabeth Anderson Head Women's Tennis Coach eperry4@elon.edu 336-278-
+
+43. Laura Igaune
+   Email: ligaune@elon.edu
+   Username: ligaune
+   Original line: Laura Igaune Hill Associate Head Track & Field Coach/Director of Operations ligaune@elon.edu 336-278-
+
+44. Mark Rinker
+   Email: mrinker@elon.edu
+   Username: mrinker
+   Original line: Mark Rinker Head Cross Country/Assistant Track & Field Coach mrinker@elon.edu
+
+45. Terry Leonard
+   Email: tleonard4@elon.edu
+   Username: tleonard4
+   Original line: Terry Leonard Assistant Track & Field Coach (Pole Vault) tleonard4@elon.edu
+
+46. Matt Troy
+   Email: ElonVolleyball@elon.edu
+   Username: ElonVolleyball
+   Original line: Matt Troy Head Volleyball Coach ElonVolleyball@elon.edu 336-278-
+
+47. Willie Whealen
+   Email: ElonVolleyball@elon.edu
+   Username: ElonVolleyball
+   Original line: Willie Whealen Assistant Volleyball Coach ElonVolleyball@elon.edu 336-278-
+
+48. Haylie Clark
+   Email: ElonVolleyball@elon.edu
+   Username: ElonVolleyball
+   Original line: Haylie Clark Assistant Volleyball Coach ElonVolleyball@elon.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jake Harrell Assistant Sports Performance Coach jharrell8@elon.edu
+• Kell Smith Assistant Sports Performance Coach ksmith158@elon.edu
+• Mike Kennedy Head Baseball Coach kennedy@elon.edu 336-278-
+• Robbie Huffstetler Associate Head Baseball Coach rhuffstetler@elon.edu 336-278-
+• Courtney Eldridge Men's Basketball Assistant Coach celdridge5@elon.edu 336-278-
+• Sean Halloran Men's Basketball Assistant Coach & Director Of Operations shalloran2@elon.edu 336-278-
+• Ryan Saunders Men's Basketball Assistant Coach rsaunders9@elon.edu 336-278-
+• Al Seibert Men's Basketball Assistant Coach & General Manager aseibert3@elon.edu
+• Darius Stokes Men's Basketball Assistant Coach dstokes4@elon.edu
+• Edgar Farmer, Jr. Assistant Women's Basketball Coach efarmer2@elon.edu 336-278-
+• Essence Baucom Assistant Women's Basketball Coach/Recruiting Coordinator ebaucom@elon.edu 336-278-
+• Kelvin Long Jr. Assistant Women's Basketball Coach klong24@elon.edu
+• Susan Turner Head Cheerleading Coach sturner2@elon.edu
+• Elly Dirks Head Dance Coach edirks@elon.edu
+• Mark Rinker Head Cross Country/Assistant Track & Field Coach mrinker@elon.edu
+• Laura Igaune Hill Associate Head Track & Field Coach/Director of Operations ligaune@elon.edu 336-278-
+• Doug Martin Assistant Football Coach (Offensive Coordinator/Quarterbacks) dmartin35@elon.edu
+• Casey Vance Assistant Football Coach (Defensive Coordinator/Linebackers) cvance5@elon.edu 336-278-
+• Nate Harris Assistant Football Coach (Running Backs/Recruiting Coordinator) nharris5@elon.edu 336-278-
+• Alex Stadler Clay Hassard Assistant Football Coach / Offensive Line astadler2@elon.edu
+• Matt Ford Assistant Football Coach (Tight Ends) mford22@elon.edu
+• Dominique Battle Assistant Football Coach (Safeties/Defensive Pass Game dbattle5@elon.edu
+• Matt Christian Assistant Football Coach (Wide Receivers) mchristian7@elon.edu
+• Akeem Dent Assistant Football Coach (Outside Linebackers) adent3@elon.edu
+• Owen Helton Assistant Offensive Coach (Quarterbacks) ohelton@elon.edu
+• Don Hill Director of Golf and Head Men's Golf Coach dhill9@elon.edu 336-278-
+• Roddy Guest Assistant Men's Golf Coach rguest@elon.edu
+• Chris Dockrill Head Women's Golf Coach cdockrill@elon.edu 336-278-
+• LoraLie Cowart Assistant Women's Golf Coach lcowart@elon.edu
+• Josh Hexter Head Women's Lacrosse Coach wlaxrecruiting@elon.edu 336-278-
+• Kelly Dowd Assistant Lacrosse Coach kdowd6@elon.edu 336-278-
+• Katie Brodsky Assistant Lacrosse Coach kbrodsky@elon.edu
+• Marc Reeves Head Men's Soccer Coach mreeves3@elon.edu 336-278-
+• Jay O'Donnell Associate Head Coach jodonnell14@elon.edu
+• Brian White Assistant Men's Soccer Coach bwhite24@elon.edu
+• Neil Payne Head Women's Soccer Coach npayne4@elon.edu 336-278-
+• Sean Sandoval Assistant Women's Soccer Coach ssandoval2@elon.edu (336) 278-
+• Clifton Bush Assistant Women's Soccer Coach/Goalkeepers Coach cbush5@elon.edu
+• Jonathan Lynch Assistant Softball Coach jlynch27@elon.edu
+• Sophia Devesa Assistant Softball Coach sdevesa@elon.edu
+• Maciek Sykut Head Men's Tennis Coach msykut@elon.edu
+• Elizabeth Anderson Head Women's Tennis Coach eperry4@elon.edu 336-278-
+• Laura Igaune Hill Associate Head Track & Field Coach/Director of Operations ligaune@elon.edu 336-278-
+• Mark Rinker Head Cross Country/Assistant Track & Field Coach mrinker@elon.edu
+• Terry Leonard Assistant Track & Field Coach (Pole Vault) tleonard4@elon.edu
+• Matt Troy Head Volleyball Coach ElonVolleyball@elon.edu 336-278-
+• Willie Whealen Assistant Volleyball Coach ElonVolleyball@elon.edu 336-278-
+• Haylie Clark Assistant Volleyball Coach ElonVolleyball@elon.edu

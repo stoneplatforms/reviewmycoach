@@ -1,0 +1,137 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:56
+============================================================
+
+Total coaches found: 21
+
+PARSED ENTRIES:
+----------------------------------------
+1. Michael Sun
+   Email: michael.sun@fresno.edu
+   Username: michael.sun
+   Original line: Michael Sun Assistant Sports Performance Coach michael.sun@fresno.edu
+
+2. Oscar Hirschkorn
+   Email: oscar.hirschkorn@fresno.edu
+   Username: oscar.hirschkorn
+   Original line: Oscar Hirschkorn Head Coach oscar.hirschkorn@fresno.edu 2050
+
+3. Tim Culver
+   Email: timothy.culver@fresno.edu
+   Username: timothy.culver
+   Original line: Tim Culver Assistant Coach timothy.culver@fresno.edu
+
+4. Nate McClurg
+   Email: nate.mcclurg@fresno.edu
+   Username: nate.mcclurg
+   Original line: Nate McClurg Associate Head Coach nate.mcclurg@fresno.edu 2126
+
+5. Tim Beauregard
+   Email: tim.beauregard@fresno.edu
+   Username: tim.beauregard
+   Original line: Tim Beauregard Head Coach tim.beauregard@fresno.edu 2253
+
+6. Santino Reynolds
+   Email: santino.reynolds@fresno.edu
+   Username: santino.reynolds
+   Original line: Santino Reynolds Associate Head Coach santino.reynolds@fresno.edu 3616
+
+7. Katie Menton
+   Email: Katie.Menton@fresno.edu
+   Username: Katie.Menton
+   Original line: Katie Menton Assistant Coach Katie.Menton@fresno.edu
+
+8. Jim Connolly
+   Email: James.Connolly@fresno.edu
+   Username: James.Connolly
+   Original line: Jim Connolly Assistant Coach James.Connolly@fresno.edu
+
+9. Julie Ramirez
+   Email: Julie.Ramirez@fresno.edu
+   Username: Julie.Ramirez
+   Original line: Julie Ramirez Assistant Coach Julie.Ramirez@fresno.edu
+
+10. Rayna Harris
+   Email: rayna.harris@fresno.edu
+   Username: rayna.harris
+   Original line: Rayna Harris Head Coach rayna.harris@fresno.edu
+
+11. Landon Miller
+   Email: landon.miller@fresno.edu
+   Username: landon.miller
+   Original line: Landon Miller Head Coach landon.miller@fresno.edu
+
+12. Cameron Shahrokhi
+   Email: cameron.shahrokhi@fresno.edu
+   Username: cameron.shahrokhi
+   Original line: Cameron Shahrokhi Head Coach cameron.shahrokhi@fresno.edu 3651
+
+13. Roberto Hernandez
+   Email: fpuwsoccer@fresno.edu
+   Username: fpuwsoccer
+   Original line: Roberto Hernandez Head Coach fpuwsoccer@fresno.edu 3642
+
+14. Alyssa Troutt
+   Email: alyssa.troutt@fresno.edu
+   Username: alyssa.troutt
+   Original line: Alyssa Troutt Head Coach alyssa.troutt@fresno.edu 3641
+
+15. Raymond Eggert
+   Email: raymond.eggert@fresno.edu
+   Username: raymond.eggert
+   Original line: Raymond Eggert Head Coach raymond.eggert@fresno.edu
+
+16. Rebeca Bribiesca
+   Email: rebeca.bribiesca@fresno.edu
+   Username: rebeca.bribiesca
+   Original line: Rebeca Bribiesca Spears Assistant Coach rebeca.bribiesca@fresno.edu
+
+17. Sam Gaeddert
+   Email: samuel.gaeddert@fresno.edu
+   Username: samuel.gaeddert
+   Original line: Sam Gaeddert Head Coach samuel.gaeddert@fresno.edu 3608
+
+18. Robert Foster
+   Email: robert.foster@fresno.edu
+   Username: robert.foster
+   Original line: Robert Foster Head Coach robert.foster@fresno.edu 2372
+
+19. Kelsee Montagna
+   Email: kelsee.montagna@fresno.edu
+   Username: kelsee.montagna
+   Original line: Kelsee Montagna Head Coach kelsee.montagna@fresno.edu 3654
+
+20. Jonathan Miller
+   Email: jonathan.miller@fresno.edu
+   Username: jonathan.miller
+   Original line: Jonathan Miller Head Coach jonathan.miller@fresno.edu
+
+21. Bryan Suhovy
+   Email: bryan.suhovy@fresno.edu
+   Username: bryan.suhovy
+   Original line: Bryan Suhovy Head Coach bryan.suhovy@fresno.edu 3486
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Michael Sun Assistant Sports Performance Coach michael.sun@fresno.edu
+• Oscar Hirschkorn Head Coach oscar.hirschkorn@fresno.edu 2050
+• Tim Culver Assistant Coach timothy.culver@fresno.edu
+• Nate McClurg Associate Head Coach nate.mcclurg@fresno.edu 2126
+• Tim Beauregard Head Coach tim.beauregard@fresno.edu 2253
+• Santino Reynolds Associate Head Coach santino.reynolds@fresno.edu 3616
+• Katie Menton Assistant Coach Katie.Menton@fresno.edu
+• Jim Connolly Assistant Coach James.Connolly@fresno.edu
+• Julie Ramirez Assistant Coach Julie.Ramirez@fresno.edu
+• Rayna Harris Head Coach rayna.harris@fresno.edu
+• Landon Miller Head Coach landon.miller@fresno.edu
+• Cameron Shahrokhi Head Coach cameron.shahrokhi@fresno.edu 3651
+• Roberto Hernandez Head Coach fpuwsoccer@fresno.edu 3642
+• Alyssa Troutt Head Coach alyssa.troutt@fresno.edu 3641
+• Raymond Eggert Head Coach raymond.eggert@fresno.edu
+• Rebeca Bribiesca Spears Assistant Coach rebeca.bribiesca@fresno.edu
+• Sam Gaeddert Head Coach samuel.gaeddert@fresno.edu 3608
+• Robert Foster Head Coach robert.foster@fresno.edu 2372
+• Kelsee Montagna Head Coach kelsee.montagna@fresno.edu 3654
+• Jonathan Miller Head Coach jonathan.miller@fresno.edu
+• Bryan Suhovy Head Coach bryan.suhovy@fresno.edu 3486

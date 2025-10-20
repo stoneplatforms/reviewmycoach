@@ -1,0 +1,275 @@
+COACH ENTRIES FOUND - 2025-10-04 18:17:40
+============================================================
+
+Total coaches found: 39
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dave Therneau
+   Email: thernead@erau.edu
+   Username: thernead
+   Phone: (386) 323-5026
+   Original line: Dave Therneau Head Coach 386-323-5026 thernead@erau.edu
+
+2. Chuck Stegall
+   Email: stegallc@erau.edu
+   Username: stegallc
+   Phone: (386) 323-5015
+   Original line: Chuck Stegall Associate Head Coach 386-323-5015 stegallc@erau.edu
+
+3. Brady Bogart
+   Email: bogartb2@erau.edu
+   Username: bogartb2
+   Phone: (386) 323-5010
+   Original line: Brady Bogart Assistant Coach 386-323-5010 bogartb2@erau.edu
+
+4. Matt Swiderski
+   Email: SWIDERSM@erau.edu
+   Username: SWIDERSM
+   Original line: Matt Swiderski Volunteer Assistant Coach SWIDERSM@erau.edu
+
+5. Camden Traficante
+   Email: traficac@my.erau.edu
+   Username: traficac
+   Original line: Camden Traficante Graduate Assistant Coach traficac@my.erau.edu
+
+6. Steve Ridder
+   Email: ridders@erau.edu
+   Username: ridders
+   Phone: (386) 323-5025
+   Original line: Steve Ridder Head Coach 386-323-5025 ridders@erau.edu
+
+7. CJ Henagan
+   Email: henaganc@erau.edu
+   Username: henaganc
+   Phone: (386) 323-5007
+   Original line: CJ Henagan Assistant Coach 386-323-5007 henaganc@erau.edu
+
+8. Lisa Wilson
+   Email: lisa.wilson@erau.edu
+   Username: lisa.wilson
+   Phone: (386) 323-5034
+   Original line: Lisa Wilson Head Coach 386-323-5034 lisa.wilson@erau.edu
+
+9. Sarah Taylor
+   Email: sarah.taylor1@erau.edu
+   Username: sarah.taylor1
+   Phone: (386) 226-7536
+   Original line: Sarah Taylor Assistant Coach 386-226-7536 sarah.taylor1@erau.edu
+
+10. Sarah Napoli
+   Email: napolis1@my.erau.edu
+   Username: napolis1
+   Original line: Sarah Napoli Graduate Assistant Coach napolis1@my.erau.edu
+
+11. Mea Felps-Darley
+   Email: meachelle.darley@erau.edu
+   Username: meachelle.darley
+   Phone: (386) 226-4917
+   Original line: Mea Felps-Darley Head Coach 386-226-4917 meachelle.darley@erau.edu
+
+12. Mike Rosolino
+   Email: rosol774@erau.edu
+   Username: rosol774
+   Phone: (386) 323-5008
+   Original line: Mike Rosolino Head Coach 386-323-5008 rosol774@erau.edu
+
+13. Ken Staton
+   Email: statonk@erau.edu
+   Username: statonk
+   Phone: (386) 226-6231
+   Original line: Ken Staton Head Coach 386-226-6231 statonk@erau.edu
+
+14. Maria Lopez
+   Email: lopezmar@erau.edu
+   Username: lopezmar
+   Phone: (386) 323-5013
+   Original line: Maria Lopez Head Coach 386-323-5013 lopezmar@erau.edu
+
+15. John Jez
+   Email: JEZJ@erau.edu
+   Username: JEZJ
+   Phone: (386) 323-8967
+   Original line: John Jez Head Coach (386) 323-8967 JEZJ@erau.edu
+
+16. Nolan Carfagna
+   Email: CARFAGNN@erau.edu
+   Username: CARFAGNN
+   Phone: (386) 241-1886
+   Original line: Nolan Carfagna Assistant Coach (386) 241-1886 CARFAGNN@erau.edu
+
+17. Christina Nikolai
+   Email: nikolac1@erau.edu
+   Username: nikolac1
+   Phone: (386) 226-6497
+   Original line: Christina Nikolai Head Coach 386-226-6497 nikolac1@erau.edu
+
+18. Haley Cummins
+   Email: cumminsh@erau.edu
+   Username: cumminsh
+   Original line: Haley Cummins Assistant Coach cumminsh@erau.edu
+
+19. Grant Maddock
+   Email: maddockg@erau.edu
+   Username: maddockg
+   Phone: (678) 245-1234
+   Original line: Grant Maddock Head Coach 678-245-1234 maddockg@erau.edu
+
+20. Drayton Piper
+   Email: piperd3@erau.edu
+   Username: piperd3
+   Phone: (678) 599-8927
+   Original line: Drayton Piper Assistant Coach 678-599-8927 piperd3@erau.edu
+
+21. Sami Bay
+   Email: bays@erau.edu
+   Username: bays
+   Phone: (386) 316-1837
+   Original line: Sami Bay Assistant Coach 386-316-1837 bays@erau.edu
+
+22. David Gregson
+   Email: gregsond@erau.edu
+   Username: gregsond
+   Phone: (386) 323-5014
+   Original line: David Gregson Head Coach 386-323-5014 gregsond@erau.edu
+
+23. Thomas Chameraud
+   Email: chamerat@erau.edu
+   Username: chamerat
+   Phone: (386) 323-5028
+   Original line: Thomas Chameraud Assistant Coach 386-323-5028 chamerat@erau.edu
+
+24. Liam McIlhatton
+   Email: mcilh6f5@erau.edu
+   Username: mcilh6f5
+   Phone: (386) 323-5012
+   Original line: Liam McIlhatton Head Coach 386-323-5012 mcilh6f5@erau.edu
+
+25. Maddie Cunningham
+   Email: cunninm1@erau.edu
+   Username: cunninm1
+   Phone: (386) 323-5018
+   Original line: Maddie Cunningham Assistant Coach 386-323-5018 cunninm1@erau.edu
+
+26. Mike Cole
+   Email: colec11@erau.edu
+   Username: colec11
+   Original line: Mike Cole Goalkeeping Coach colec11@erau.edu
+
+27. Kelsi Dunne
+   Email: dunnek@erau.edu
+   Username: dunnek
+   Phone: (386) 323-5022
+   Original line: Kelsi Dunne Diaz Head Coach 386-323-5022 dunnek@erau.edu
+
+28. Allyne Clark
+   Email: clarka75@erau.edu
+   Username: clarka75
+   Phone: (386) 323-5023
+   Original line: Allyne Clark Assistant Coach 386-323-5023 clarka75@erau.edu
+
+29. Chad Berryhill
+   Email: berryhic@erau.edu
+   Username: berryhic
+   Phone: (386) 226-2931
+   Original line: Chad Berryhill Head Coach (386) 226-2931 berryhic@erau.edu
+
+30. Sabrina Ehrenfort
+   Email: ehrenfos@my.erau.edu
+   Username: ehrenfos
+   Original line: Sabrina Ehrenfort Volunteer Assistant Coach ehrenfos@my.erau.edu
+
+31. Julia Mautner
+   Email: mautnerj@my.erau.edu
+   Username: mautnerj
+   Original line: Julia Mautner Volunteer Assistant Coach mautnerj@my.erau.edu
+
+32. David Paschal
+   Email: pasch165@erau.edu
+   Username: pasch165
+   Phone: (386) 323-5009
+   Original line: David Paschal Head Coach 386-323-5009 pasch165@erau.edu
+
+33. Juan Ortiz
+   Email: ortizcoj@my.erau.edu
+   Username: ortizcoj
+   Original line: Juan Ortiz Couder Volunteer Coach ortizcoj@my.erau.edu
+
+34. Mike Rosolino
+   Email: rosol774@erau.edu
+   Username: rosol774
+   Phone: (386) 323-5008
+   Original line: Mike Rosolino Head Coach 386-323-5008 rosol774@erau.edu
+
+35. Laura Loht
+   Email: lohtl@erau.edu
+   Username: lohtl
+   Original line: Laura Loht Assistant Coach lohtl@erau.edu
+
+36. Gary Ellington
+   Email: gary.ellington@erau.edu
+   Username: gary.ellington
+   Phone: (386) 323-5035
+   Original line: Gary Ellington Assistant Coach 386-323-5035 gary.ellington@erau.edu
+
+37. Vitaly Zhgun
+   Email: zhgunv@erau.edu
+   Username: zhgunv
+   Phone: (386) 323-5029
+   Original line: Vitaly Zhgun Volunteer Assistant Coach 386-323-5029 zhgunv@erau.edu
+
+38. Joslynn Gallop
+   Email: gallo67d@erau.edu
+   Username: gallo67d
+   Phone: (386) 323-5005
+   Original line: Joslynn Gallop Head Coach 386-323-5005 gallo67d@erau.edu
+
+39. Roberto Rodriguez
+   Email: rodrir73@erau.edu
+   Username: rodrir73
+   Phone: (386) 323-5011
+   Original line: Roberto Rodriguez Assistant Volleyball Coach 386-323-5011 rodrir73@erau.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dave Therneau Head Coach 386-323-5026 thernead@erau.edu
+• Chuck Stegall Associate Head Coach 386-323-5015 stegallc@erau.edu
+• Brady Bogart Assistant Coach 386-323-5010 bogartb2@erau.edu
+• Matt Swiderski Volunteer Assistant Coach SWIDERSM@erau.edu
+• Camden Traficante Graduate Assistant Coach traficac@my.erau.edu
+• Steve Ridder Head Coach 386-323-5025 ridders@erau.edu
+• CJ Henagan Assistant Coach 386-323-5007 henaganc@erau.edu
+• Lisa Wilson Head Coach 386-323-5034 lisa.wilson@erau.edu
+• Sarah Taylor Assistant Coach 386-226-7536 sarah.taylor1@erau.edu
+• Sarah Napoli Graduate Assistant Coach napolis1@my.erau.edu
+• Mea Felps-Darley Head Coach 386-226-4917 meachelle.darley@erau.edu
+• Mike Rosolino Head Coach 386-323-5008 rosol774@erau.edu
+• Ken Staton Head Coach 386-226-6231 statonk@erau.edu
+• Maria Lopez Head Coach 386-323-5013 lopezmar@erau.edu
+• John Jez Head Coach (386) 323-8967 JEZJ@erau.edu
+• Nolan Carfagna Assistant Coach (386) 241-1886 CARFAGNN@erau.edu
+• Christina Nikolai Head Coach 386-226-6497 nikolac1@erau.edu
+• Haley Cummins Assistant Coach cumminsh@erau.edu
+• Grant Maddock Head Coach 678-245-1234 maddockg@erau.edu
+• Drayton Piper Assistant Coach 678-599-8927 piperd3@erau.edu
+• Sami Bay Assistant Coach 386-316-1837 bays@erau.edu
+• David Gregson Head Coach 386-323-5014 gregsond@erau.edu
+• Thomas Chameraud Assistant Coach 386-323-5028 chamerat@erau.edu
+• Liam McIlhatton Head Coach 386-323-5012 mcilh6f5@erau.edu
+• Maddie Cunningham Assistant Coach 386-323-5018 cunninm1@erau.edu
+• Mike Cole Goalkeeping Coach colec11@erau.edu
+• Kelsi Dunne Diaz Head Coach 386-323-5022 dunnek@erau.edu
+• Allyne Clark Assistant Coach 386-323-5023 clarka75@erau.edu
+• Chad Berryhill Head Coach (386) 226-2931 berryhic@erau.edu
+• Sabrina Ehrenfort Volunteer Assistant Coach ehrenfos@my.erau.edu
+• Julia Mautner Volunteer Assistant Coach mautnerj@my.erau.edu
+• David Paschal Head Coach 386-323-5009 pasch165@erau.edu
+• Juan Ortiz Couder Volunteer Coach ortizcoj@my.erau.edu
+• Mike Rosolino Head Coach 386-323-5008 rosol774@erau.edu
+• Laura Loht Assistant Coach lohtl@erau.edu
+• Gary Ellington Assistant Coach 386-323-5035 gary.ellington@erau.edu
+• Vitaly Zhgun Volunteer Assistant Coach 386-323-5029 zhgunv@erau.edu
+• Joslynn Gallop Head Coach 386-323-5005 gallo67d@erau.edu
+• Roberto Rodriguez Assistant Volleyball Coach 386-323-5011 rodrir73@erau.edu

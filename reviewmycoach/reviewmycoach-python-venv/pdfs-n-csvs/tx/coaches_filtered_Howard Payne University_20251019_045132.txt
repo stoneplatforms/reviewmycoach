@@ -1,0 +1,144 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:32
+============================================================
+
+Total coaches found: 21
+
+PARSED ENTRIES:
+----------------------------------------
+1. Aaron Siekmann
+   Email: asiekmann@hputx.edu
+   Username: asiekmann
+   Original line: Aaron Siekmann Head Strength and Conditioning Coach asiekmann@hputx.edu
+
+2. Nick Noll
+   Email: nnoll@hputx.edu
+   Username: nnoll
+   Original line: Nick Noll Interim Head Volleyball Coach nnoll@hputx.edu
+
+3. Will Snyder
+   Email: wsnyder@hputx.edu
+   Username: wsnyder
+   Original line: Will Snyder Assistant Head Coach/Defensive Coordinator wsnyder@hputx.edu DBCoach_Will
+
+4. James Douglas
+   Email: jdouglas@hputx.edu
+   Username: jdouglas
+   Original line: James Douglas III Offensive Coordinator/WR Coach jdouglas@hputx.edu
+
+5. John Eastman
+   Email: jeastman@hputx.edu
+   Username: jeastman
+   Original line: John Eastman Assistant Coach - Offinsive Line jeastman@hputx.edu
+
+6. Brandon McGibeny
+   Email: bmcgibeny@hputx.edu
+   Username: bmcgibeny
+   Phone: (325) 649-8106
+   Original line: Brandon McGibeny Head Men's Soccer Coach bmcgibeny@hputx.edu 325-649-8106
+
+7. Joshua Redding
+   Email: joshua.redding@hputx.edu
+   Username: joshua.redding
+   Original line: Joshua Redding Graduate Assistant Coach joshua.redding@hputx.edu
+
+8. Brandon Badgeley
+   Email: bbadgeley@hputx.edu
+   Username: bbadgeley
+   Phone: (325) 649-8105
+   Original line: Brandon Badgeley Head Women's Soccer Coach bbadgeley@hputx.edu 325-649-8105 HPUWSOC
+
+9. Addie Carroll
+   Email: acarroll@hputx.edu
+   Username: acarroll
+   Original line: Addie Carroll Assistant Coach acarroll@hputx.edu
+
+10. Rodney Gee
+   Email: rgee@hputx.edu
+   Username: rgee
+   Original line: Rodney Gee Head Women's Basketball Coach rgee@hputx.edu
+
+11. Clay Barnett
+   Email: cbarnett@hputx.edu
+   Username: cbarnett
+   Original line: Clay Barnett Assistant Coach cbarnett@hputx.edu
+
+12. Nadir Dalleh
+   Email: ndalleh@hputx.edu
+   Username: ndalleh
+   Phone: (325) 649-8132
+   Original line: Nadir Dalleh Head Men's Basketball Coach ndalleh@hputx.edu 325-649-8132 NDalleh
+
+13. Tony Starnes
+   Email: tstarnes@hputx.edu
+   Username: tstarnes
+   Original line: Tony Starnes Assistant Coach tstarnes@hputx.edu
+
+14. Bianca Gonzales
+   Email: bgonzales@hputx.edu
+   Username: bgonzales
+   Original line: Bianca Gonzales Head Softball Coach bgonzales@hputx.edu
+
+15. Josh Lopez
+   Email: jlopez@hputx.edu
+   Username: jlopez
+   Original line: Josh Lopez Head Tennis Coach jlopez@hputx.edu
+
+16. Stephen Lynn
+   Email: slynn@hputx.edu
+   Username: slynn
+   Phone: (325) 649-8117
+   Original line: Stephen Lynn Head Baseball Coach slynn@hputx.edu 325-649-8117
+
+17. Tony Heiser
+   Email: theiser@hputx.edu
+   Username: theiser
+   Phone: (325) 649-8985
+   Original line: Tony Heiser Assistant Coach theiser@hputx.edu 325-649-8985
+
+18. Josh Lopez
+   Email: jlopez@hputx.edu
+   Username: jlopez
+   Original line: Josh Lopez Head Tennis Coach jlopez@hputx.edu
+
+19. Troy Drummond
+   Email: tdrummond@hputx.edu
+   Username: tdrummond
+   Phone: (325) 649-8103
+   Original line: Troy Drummond Head Golf Coach tdrummond@hputx.edu 325-649-8103
+
+20. Micah Taylor
+   Email: mtaylor@hputx.edu
+   Username: mtaylor
+   Phone: (325) 649-8102
+   Original line: Micah Taylor Head Beach Volleyball Coach mtaylor@hputx.edu 325-649-8102
+
+21. Kaity Wade
+   Email: kwade@hputx.edu
+   Username: kwade
+   Original line: Kaity Wade Head Cheer Coach kwade@hputx.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Aaron Siekmann Head Strength and Conditioning Coach asiekmann@hputx.edu
+• Nick Noll Interim Head Volleyball Coach nnoll@hputx.edu
+• Will Snyder Assistant Head Coach/Defensive Coordinator wsnyder@hputx.edu DBCoach_Will
+• James Douglas III Offensive Coordinator/WR Coach jdouglas@hputx.edu
+• John Eastman Assistant Coach - Offinsive Line jeastman@hputx.edu
+• Brandon McGibeny Head Men's Soccer Coach bmcgibeny@hputx.edu 325-649-8106
+• Joshua Redding Graduate Assistant Coach joshua.redding@hputx.edu
+• Brandon Badgeley Head Women's Soccer Coach bbadgeley@hputx.edu 325-649-8105 HPUWSOC
+• Addie Carroll Assistant Coach acarroll@hputx.edu
+• Rodney Gee Head Women's Basketball Coach rgee@hputx.edu
+• Clay Barnett Assistant Coach cbarnett@hputx.edu
+• Nadir Dalleh Head Men's Basketball Coach ndalleh@hputx.edu 325-649-8132 NDalleh
+• Tony Starnes Assistant Coach tstarnes@hputx.edu
+• Bianca Gonzales Head Softball Coach bgonzales@hputx.edu
+• Josh Lopez Head Tennis Coach jlopez@hputx.edu
+• Stephen Lynn Head Baseball Coach slynn@hputx.edu 325-649-8117
+• Tony Heiser Assistant Coach theiser@hputx.edu 325-649-8985
+• Josh Lopez Head Tennis Coach jlopez@hputx.edu
+• Troy Drummond Head Golf Coach tdrummond@hputx.edu 325-649-8103
+• Micah Taylor Head Beach Volleyball Coach mtaylor@hputx.edu 325-649-8102
+• Kaity Wade Head Cheer Coach kwade@hputx.edu

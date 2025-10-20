@@ -1,0 +1,287 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:15
+============================================================
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Assistant Sports
+   Email: aabrah17@emich.edu
+   Username: aabrah17
+   Original line: Assistant Sports Performance Coach aabrah17@emich.edu
+
+2. Assistant Sports
+   Email: nbass4@emich.edu
+   Username: nbass4
+   Original line: Assistant Sports Performance Coach nbass4@emich.edu
+
+3. Assistant Sports
+   Email: bricha37@emich.edu
+   Username: bricha37
+   Original line: Assistant Sports Performance Coach bricha37@emich.edu
+
+4. Head Coach
+   Email: rbritt1@emich.edu
+   Username: rbritt1
+   Original line: Head Coach rbritt1@emich.edu
+
+5. Assistant Coach
+   Email: tbeerma1@emich.edu
+   Username: tbeerma1
+   Original line: Assistant Coach tbeerma1@emich.edu
+
+6. Assistant Coach
+   Email: cprince9@emich.edu
+   Username: cprince9
+   Original line: Assistant Coach cprince9@emich.edu
+
+7. Assistant Coach
+   Email: aditulli@emich.edu
+   Username: aditulli
+   Original line: Assistant Coach aditulli@emich.edu
+
+8. Assistant Coach
+   Email: rsimon9@emich.edu
+   Username: rsimon9
+   Original line: Assistant Coach rsimon9@emich.edu
+
+9. Assistant Coach
+   Email: ltrice2@emich.edu
+   Username: ltrice2
+   Original line: Assistant Coach ltrice2@emich.edu
+
+10. Assistant Coach
+   Email: emu_basketball@emich.edu
+   Username: emu_basketball
+   Original line: Assistant Coach emu_basketball@emich.edu
+
+11. Assistant Coach/Director
+   Email: cmcmath@emich.edu
+   Username: cmcmath
+   Original line: Assistant Coach/Director of Basketball Operations cmcmath@emich.edu
+
+12. Head Cheerleading
+   Email: skavulic@emich.edu
+   Username: skavulic
+   Original line: Head Cheerleading Coach skavulic@emich.edu
+
+13. Women's XC
+   Email: sparks6@emich.edu
+   Username: sparks6
+   Original line: Women's XC Head Coach/T&F Associate Head Coach - Middle Distance/Distance sparks6@emich.edu
+
+14. Men's XC
+   Email: awhitela@emich.edu
+   Username: awhitela
+   Original line: Men's XC Head Coach/Assistant T&F Coach - Middle Distance/Distance awhitela@emich.edu
+
+15. Head Coach
+   Email: emu_football@emich.edu
+   Username: emu_football
+   Original line: Head Coach emu_football@emich.edu
+
+16. Assistant Coach
+   Email: cbrow257@emich.edu
+   Username: cbrow257
+   Original line: Assistant Coach cbrow257@emich.edu
+
+17. Assistant Coach
+   Email: cchestn1@emich.edu
+   Username: cchestn1
+   Original line: Assistant Coach cchestn1@emich.edu
+
+18. Assistant Coach
+   Email: sdugan6@emich.edu
+   Username: sdugan6
+   Original line: Assistant Coach sdugan6@emich.edu
+
+19. Assistant Coach
+   Email: gheard1@emich.edu
+   Username: gheard1
+   Original line: Assistant Coach gheard1@emich.edu
+
+20. Assistant Coach
+   Email: bneedha3@emich.edu
+   Username: bneedha3
+   Original line: Assistant Coach bneedha3@emich.edu
+
+21. Assistant Coach
+   Email: tomli@emich.edu
+   Username: tomli
+   Original line: Assistant Coach tomli@emich.edu
+
+22. Assistant Coach
+   Email: mpiatkow@emich.edu
+   Username: mpiatkow
+   Original line: Assistant Coach mpiatkow@emich.edu
+
+23. Assistant Coach
+   Email: mprince6@emich.edu
+   Username: mprince6
+   Original line: Assistant Coach mprince6@emich.edu
+
+24. Assistant Coach
+   Email: ireed1@emich.edu
+   Username: ireed1
+   Original line: Assistant Coach ireed1@emich.edu
+
+25. Assistant Coach
+   Email: kteegard@emich.edu
+   Username: kteegard
+   Original line: Assistant Coach kteegard@emich.edu
+
+26. Assistant Coach
+   Email: cwieseha@emich.edu
+   Username: cwieseha
+   Original line: Assistant Coach cwieseha@emich.edu
+
+27. Head Coach
+   Email: awalk128@emich.edu
+   Username: awalk128
+   Original line: Head Coach awalk128@emich.edu
+
+28. Assistant Coach
+   Email: ryip@emich.edu
+   Username: ryip
+   Original line: Assistant Coach ryip@emich.edu
+
+29. Head Coach
+   Email: jbrewe19@emich.edu
+   Username: jbrewe19
+   Original line: Head Coach jbrewe19@emich.edu
+
+30. Head Gymnastics
+   Email: kminasol@emich.edu
+   Username: kminasol
+   Original line: Head Gymnastics Coach kminasol@emich.edu
+
+31. Assistant Coach
+   Email: shiggin5@emich.edu
+   Username: shiggin5
+   Original line: Assistant Coach shiggin5@emich.edu
+
+32. Head Coach
+   Email: mdugan6@emich.edu
+   Username: mdugan6
+   Original line: Head Coach mdugan6@emich.edu
+
+33. Head Coach
+   Email: ksavagei@emich.edu
+   Username: ksavagei
+   Original line: Head Coach ksavagei@emich.edu
+
+34. Associate Head
+   Email: mmcgui11@emich.edu
+   Username: mmcgui11
+   Original line: Associate Head Coach mmcgui11@emich.edu
+
+35. Head Coach
+   Email: tclarke5@emich.edu
+   Username: tclarke5
+   Original line: Head Coach tclarke5@emich.edu
+
+36. Head Swimming
+   Email: dperki16@emich.edu
+   Username: dperki16
+   Original line: Head Swimming Coach dperki16@emich.edu
+
+37. Assistant Coach
+   Email: nstone@emich.edu
+   Username: nstone
+   Original line: Assistant Coach nstone@emich.edu
+
+38. Head Coach
+   Email: rkucera@emich.edu
+   Username: rkucera
+   Original line: Head Coach rkucera@emich.edu
+
+39. Co-Director/Women's T&F
+   Email: cbest3@emich.edu
+   Username: cbest3
+   Original line: Co-Director/Women's T&F Head Coach - Sprints/Hurdles cbest3@emich.edu
+
+40. Co-Director/Men's T&F
+   Email: sroberts3@emich.edu
+   Username: sroberts3
+   Original line: Co-Director/Men's T&F Head Coach - Sprints/Hurdles/Horizontal Jumps sroberts3@emich.edu
+
+41. Women's XC
+   Email: sparks6@emich.edu
+   Username: sparks6
+   Original line: Women's XC Head Coach/T&F Associate Head Coach - Middle Distance/Distance sparks6@emich.edu
+
+42. Men's XC
+   Email: awhitela@emich.edu
+   Username: awhitela
+   Original line: Men's XC Head Coach/Assistant T&F Coach - Middle Distance/Distance awhitela@emich.edu
+
+43. Assistant Coach
+   Email: ebrusich@emich.edu
+   Username: ebrusich
+   Original line: Assistant Coach - Vertical Jumps/Multi Events ebrusich@emich.edu
+
+44. Assistant Coach
+   Email: lhender1@emich.edu
+   Username: lhender1
+   Original line: Assistant Coach - Throws lhender1@emich.edu
+
+45. Head Coach
+   Email: kfoeman@emich.edu
+   Username: kfoeman
+   Original line: Head Coach kfoeman@emich.edu
+
+46. Assistant Coach
+   Email: sdahn@emich.edu
+   Username: sdahn
+   Original line: Assistant Coach sdahn@emich.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Assistant Sports Performance Coach aabrah17@emich.edu
+• Assistant Sports Performance Coach nbass4@emich.edu
+• Assistant Sports Performance Coach bricha37@emich.edu
+• Head Coach rbritt1@emich.edu
+• Assistant Coach tbeerma1@emich.edu
+• Assistant Coach cprince9@emich.edu
+• Assistant Coach aditulli@emich.edu
+• Assistant Coach rsimon9@emich.edu
+• Assistant Coach ltrice2@emich.edu
+• Assistant Coach emu_basketball@emich.edu
+• Assistant Coach/Director of Basketball Operations cmcmath@emich.edu
+• Head Cheerleading Coach skavulic@emich.edu
+• Women's XC Head Coach/T&F Associate Head Coach - Middle Distance/Distance sparks6@emich.edu
+• Men's XC Head Coach/Assistant T&F Coach - Middle Distance/Distance awhitela@emich.edu
+• Head Coach emu_football@emich.edu
+• Assistant Coach cbrow257@emich.edu
+• Assistant Coach cchestn1@emich.edu
+• Assistant Coach sdugan6@emich.edu
+• Assistant Coach gheard1@emich.edu
+• Assistant Coach bneedha3@emich.edu
+• Assistant Coach tomli@emich.edu
+• Assistant Coach mpiatkow@emich.edu
+• Assistant Coach mprince6@emich.edu
+• Assistant Coach ireed1@emich.edu
+• Assistant Coach kteegard@emich.edu
+• Assistant Coach cwieseha@emich.edu
+• Head Coach awalk128@emich.edu
+• Assistant Coach ryip@emich.edu
+• Head Coach jbrewe19@emich.edu
+• Head Gymnastics Coach kminasol@emich.edu
+• Assistant Coach shiggin5@emich.edu
+• Head Coach mdugan6@emich.edu
+• Head Coach ksavagei@emich.edu
+• Associate Head Coach mmcgui11@emich.edu
+• Head Coach tclarke5@emich.edu
+• Head Swimming Coach dperki16@emich.edu
+• Assistant Coach nstone@emich.edu
+• Head Coach rkucera@emich.edu
+• Co-Director/Women's T&F Head Coach - Sprints/Hurdles cbest3@emich.edu
+• Co-Director/Men's T&F Head Coach - Sprints/Hurdles/Horizontal Jumps sroberts3@emich.edu
+• Women's XC Head Coach/T&F Associate Head Coach - Middle Distance/Distance sparks6@emich.edu
+• Men's XC Head Coach/Assistant T&F Coach - Middle Distance/Distance awhitela@emich.edu
+• Assistant Coach - Vertical Jumps/Multi Events ebrusich@emich.edu
+• Assistant Coach - Throws lhender1@emich.edu
+• Head Coach kfoeman@emich.edu
+• Assistant Coach sdahn@emich.edu

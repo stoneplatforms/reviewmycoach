@@ -1,0 +1,359 @@
+COACH ENTRIES FOUND - 2025-10-04 18:12:02
+============================================================
+
+Total coaches found: 58
+
+PARSED ENTRIES:
+----------------------------------------
+1. Steve Cook
+   Email: scook@coe.edu
+   Username: scook
+   Original line: Steve Cook Director of Athletics & Recreation / Head Baseball Coach scook@coe.edu 319-399-
+
+2. AJ Reuter
+   Email: areuter@coe.edu
+   Username: areuter
+   Original line: AJ Reuter Assistant Director of Athletics & Recreation / Associate Head Baseball Coach areuter@coe.edu 319-399-
+
+3. Kayla Waskow
+   Email: kwaskow@coe.edu
+   Username: kwaskow
+   Original line: Kayla Waskow Head Women's Basketball Coach / Director of Compliance kwaskow@coe.edu 319-399-
+
+4. Don Spellman
+   Email: thedpspellman@gmail.com
+   Username: thedpspellman
+   Original line: Don Spellman Head Coach of Kohawk Aquatic Swim Club thedpspellman@gmail.com
+
+5. Stephen Vassalotti
+   Email: svassalotti@coe.edu
+   Username: svassalotti
+   Original line: Stephen Vassalotti Head Strength & Conditioning Coach svassalotti@coe.edu
+
+6. Rachel Rickert
+   Email: rrickert@coe.edu
+   Username: rrickert
+   Original line: Rachel Rickert Head Archery Coach rrickert@coe.edu
+
+7. Steve Cook
+   Email: scook@coe.edu
+   Username: scook
+   Original line: Steve Cook Director of Athletics & Recreation / Head Baseball Coach scook@coe.edu 319-399-
+
+8. AJ Reuter
+   Email: areuter@coe.edu
+   Username: areuter
+   Original line: AJ Reuter Assistant Director of Athletics & Recreation / Associate Head Baseball Coach areuter@coe.edu 319-399-
+
+9. Cam Armstrong
+   Email: carmstrong@coe.edu
+   Username: carmstrong
+   Original line: Cam Armstrong Assistant Baseball Coach carmstrong@coe.edu
+
+10. John Heald
+   Email: jheald@coe.edu
+   Username: jheald
+   Original line: John Heald Assistant Baseball Coach jheald@coe.edu
+
+11. John Payan
+   Email: jpayan@coe.edu
+   Username: jpayan
+   Original line: John Payan Head Men's Basketball Coach jpayan@coe.edu 319-399-
+
+12. Mark Lowe
+   Email: mlowe@coe.edu
+   Username: mlowe
+   Original line: Mark Lowe Assistant Men’s Basketball Coach mlowe@coe.edu
+
+13. Kayla Waskow
+   Email: kwaskow@coe.edu
+   Username: kwaskow
+   Original line: Kayla Waskow Head Women's Basketball Coach / Director of Compliance kwaskow@coe.edu 319-399-
+
+14. Randy Dodge
+   Email: rdodge@coe.edu
+   Username: rdodge
+   Original line: Randy Dodge Head Bowling Coach rdodge@coe.edu 319-399-
+
+15. Randy Dodge
+   Email: rdodge@coe.edu
+   Username: rdodge
+   Original line: Randy Dodge Head Bowling Coach rdodge@coe.edu 319-399-
+
+16. Diate Jackson
+   Email: DJackson@coe.edu
+   Username: DJackson
+   Original line: Diate Jackson Assistant Cheer Coach DJackson@coe.edu
+
+17. Patrick Cory
+   Email: pcory@coe.edu
+   Username: pcory
+   Original line: Patrick Cory Head Clay Target Team Coach pcory@coe.edu 319-270-
+
+18. Ellie Carver
+   Email: elliemcarver@gmail.com
+   Username: elliemcarver
+   Original line: Ellie Carver Volunteer Assistant Clay Target Coach elliemcarver@gmail.com
+
+19. Mat Littleton
+   Email: mlittleton@coe.edu
+   Username: mlittleton
+   Original line: Mat Littleton Head Men's Cross Country and Track & Field Coach mlittleton@coe.edu 319-399-
+
+20. Logan Stroman
+   Email: lstroman@coe.edu
+   Username: lstroman
+   Original line: Logan Stroman Assistant Cross Country / Track & Field Coach lstroman@coe.edu
+
+21. Krista Littleton
+   Email: klittleton@coe.edu
+   Username: klittleton
+   Original line: Krista Littleton Head Women's Cross Country and Track & Field Coach klittleton@coe.edu 319-399-
+
+22. Logan Stroman
+   Email: lstroman@coe.edu
+   Username: lstroman
+   Original line: Logan Stroman Assistant Cross Country / Track & Field Coach lstroman@coe.edu
+
+23. Curt Kimm
+   Email: ckimm@coe.edu
+   Username: ckimm
+   Original line: Curt Kimm Head Coach/Director of Esports ckimm@coe.edu 319-382-
+
+24. Tyler Staker
+   Email: tdstaker@coe.edu
+   Username: tdstaker
+   Original line: Tyler Staker Head Football Coach/Offensive Line tdstaker@coe.edu 319-399-
+
+25. Cody Baethke
+   Email: cbaethke@coe.edu
+   Username: cbaethke
+   Original line: Cody Baethke Associate Head Coach, Defensive Coordinator, Defensive Backs cbaethke@coe.edu 319-399-
+
+26. Trevor McConnell
+   Email: tmcconnell@coe.edu
+   Username: tmcconnell
+   Original line: Trevor McConnell Wide Receivers Coach/Recruiting Coordinator tmcconnell@coe.edu 319-399-
+
+27. Eric Karius
+   Email: ekarius@coe.edu
+   Username: ekarius
+   Original line: Eric Karius Head Men's and Women's Golf Coach ekarius@coe.edu 319-399-
+
+28. Bill Vincent
+   Email: bv200905@gmail.com
+   Username: bv200905
+   Original line: Bill Vincent Assistant Men's and Women's Golf Coach bv200905@gmail.com
+
+29. Eric Karius
+   Email: ekarius@coe.edu
+   Username: ekarius
+   Original line: Eric Karius Head Men's and Women's Golf Coach ekarius@coe.edu 319-399-
+
+30. Bill Vincent
+   Email: bv200905@gmail.com
+   Username: bv200905
+   Original line: Bill Vincent Assistant Men's and Women's Golf Coach bv200905@gmail.com
+
+31. Kyle Bakas
+   Email: kbakas@coe.edu
+   Username: kbakas
+   Original line: Kyle Bakas Head Men's Soccer Coach kbakas@coe.edu 760-646-
+
+32. Graham Lynch
+   Email: glynch@coe.edu
+   Username: glynch
+   Original line: Graham Lynch Assistant Men's Soccer Coach glynch@coe.edu
+
+33. Quentin Fisher
+   Email: quentinevanfisher@gmail.com
+   Username: quentinevanfisher
+   Original line: Quentin Fisher Assistant Men's Soccer Coach quentinevanfisher@gmail.com
+
+34. James Culotta
+   Email: jculotta@coe.edu
+   Username: jculotta
+   Original line: James Culotta Head Women's Soccer Coach jculotta@coe.edu 319-399-
+
+35. Jake Koolbeck
+   Email: jwkoolbeck@coe.edu
+   Username: jwkoolbeck
+   Original line: Jake Koolbeck Head Softball Coach jwkoolbeck@coe.edu 319-399-
+
+36. Joe Tristan
+   Email: jtristan@coe.edu
+   Username: jtristan
+   Original line: Joe Tristan Head Swimming & Diving Coach jtristan@coe.edu 319-399-
+
+37. Tony Kramer
+   Email: tkramer@coe.edu
+   Username: tkramer
+   Original line: Tony Kramer Assistant Swimming & Diving Coach tkramer@coe.edu 319-399-
+
+38. Meredith Nash
+   Email: mnash@coe.edu
+   Username: mnash
+   Original line: Meredith Nash Assistant Swimming & Diving Coach & Lessons Coordinator mnash@coe.edu 319-399-
+
+39. Joe Tristan
+   Email: jtristan@coe.edu
+   Username: jtristan
+   Original line: Joe Tristan Head Swimming & Diving Coach jtristan@coe.edu 319-399-
+
+40. Tony Kramer
+   Email: tkramer@coe.edu
+   Username: tkramer
+   Original line: Tony Kramer Assistant Swimming & Diving Coach tkramer@coe.edu 319-399-
+
+41. Meredith Nash
+   Email: mnash@coe.edu
+   Username: mnash
+   Original line: Meredith Nash Assistant Swimming & Diving Coach & Lessons Coordinator mnash@coe.edu 319-399-
+
+42. Eric Rodgers
+   Email: erodgers@coe.edu
+   Username: erodgers
+   Original line: Eric Rodgers Head Men's Tennis Coach erodgers@coe.edu 319-399-
+
+43. Mike Strydom
+   Email: mstrydom@coe.edu
+   Username: mstrydom
+   Original line: Mike Strydom Head Women's Tennis Coach mstrydom@coe.edu 319-399-
+
+44. Claire Christian
+   Email: cchristian@coe.edu
+   Username: cchristian
+   Original line: Claire Christian Assistant Women's Tennis Coach cchristian@coe.edu 507-402-
+
+45. Molly Fiala
+   Email: mgarber@coe.edu
+   Username: mgarber
+   Original line: Molly Fiala Garber Assistant Women's Tennis Coach mgarber@coe.edu 319-399-
+
+46. Mat Littleton
+   Email: mlittleton@coe.edu
+   Username: mlittleton
+   Original line: Mat Littleton Head Men's Cross Country and Track & Field Coach mlittleton@coe.edu 319-399-
+
+47. Amanda Owens
+   Email: aowens@coe.edu
+   Username: aowens
+   Original line: Amanda Owens Assistant Track & Field Coach (Throws) aowens@coe.edu
+
+48. Logan Stroman
+   Email: lstroman@coe.edu
+   Username: lstroman
+   Original line: Logan Stroman Assistant Cross Country / Track & Field Coach lstroman@coe.edu
+
+49. Krista Littleton
+   Email: klittleton@coe.edu
+   Username: klittleton
+   Original line: Krista Littleton Head Women's Cross Country and Track & Field Coach klittleton@coe.edu 319-399-
+
+50. Amanda Owens
+   Email: aowens@coe.edu
+   Username: aowens
+   Original line: Amanda Owens Assistant Track & Field Coach (Throws) aowens@coe.edu
+
+51. Logan Stroman
+   Email: lstroman@coe.edu
+   Username: lstroman
+   Original line: Logan Stroman Assistant Cross Country / Track & Field Coach lstroman@coe.edu
+
+52. Kris Tiedt
+   Email: ktiedt@coe.edu
+   Username: ktiedt
+   Original line: Kris Tiedt Head Triathlon Coach ktiedt@coe.edu 319-399-
+
+53. April Elsbernd
+   Email: aelsbernd@coe.edu
+   Username: aelsbernd
+   Original line: April Elsbernd Head Volleyball Coach aelsbernd@coe.edu 319-399-
+
+54. Sam Rossetti
+   Email: srossetti@coe.edu
+   Username: srossetti
+   Original line: Sam Rossetti Assistant Volleyball Coach srossetti@coe.edu
+
+55. Ilah Perez-Johnson
+   Email: iperezjohnson@coe.edu
+   Username: iperezjohnson
+   Original line: Ilah Perez-Johnson Assistant Volleyball Coach iperezjohnson@coe.edu
+
+56. Kaleb Reeves
+   Email: kreeves@coe.edu
+   Username: kreeves
+   Original line: Kaleb Reeves Head Women's Wrestling Coach kreeves@coe.edu 319-399-
+
+57. John Oostendorp
+   Email: joostend@coe.edu
+   Username: joostend
+   Original line: John Oostendorp Head Wrestling Coach joostend@coe.edu 319-399-
+
+58. Jimmy Gotto
+   Email: jgotto@coe.edu
+   Username: jgotto
+   Original line: Jimmy Gotto Assistant Wrestling Coach jgotto@coe.edu 319-399-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Steve Cook Director of Athletics & Recreation / Head Baseball Coach scook@coe.edu 319-399-
+• AJ Reuter Assistant Director of Athletics & Recreation / Associate Head Baseball Coach areuter@coe.edu 319-399-
+• Kayla Waskow Head Women's Basketball Coach / Director of Compliance kwaskow@coe.edu 319-399-
+• Don Spellman Head Coach of Kohawk Aquatic Swim Club thedpspellman@gmail.com
+• Stephen Vassalotti Head Strength & Conditioning Coach svassalotti@coe.edu
+• Rachel Rickert Head Archery Coach rrickert@coe.edu
+• Steve Cook Director of Athletics & Recreation / Head Baseball Coach scook@coe.edu 319-399-
+• AJ Reuter Assistant Director of Athletics & Recreation / Associate Head Baseball Coach areuter@coe.edu 319-399-
+• Cam Armstrong Assistant Baseball Coach carmstrong@coe.edu
+• John Heald Assistant Baseball Coach jheald@coe.edu
+• John Payan Head Men's Basketball Coach jpayan@coe.edu 319-399-
+• Mark Lowe Assistant Men’s Basketball Coach mlowe@coe.edu
+• Kayla Waskow Head Women's Basketball Coach / Director of Compliance kwaskow@coe.edu 319-399-
+• Randy Dodge Head Bowling Coach rdodge@coe.edu 319-399-
+• Randy Dodge Head Bowling Coach rdodge@coe.edu 319-399-
+• Diate Jackson Assistant Cheer Coach DJackson@coe.edu
+• Patrick Cory Head Clay Target Team Coach pcory@coe.edu 319-270-
+• Ellie Carver Volunteer Assistant Clay Target Coach elliemcarver@gmail.com
+• Mat Littleton Head Men's Cross Country and Track & Field Coach mlittleton@coe.edu 319-399-
+• Logan Stroman Assistant Cross Country / Track & Field Coach lstroman@coe.edu
+• Krista Littleton Head Women's Cross Country and Track & Field Coach klittleton@coe.edu 319-399-
+• Logan Stroman Assistant Cross Country / Track & Field Coach lstroman@coe.edu
+• Curt Kimm Head Coach/Director of Esports ckimm@coe.edu 319-382-
+• Tyler Staker Head Football Coach/Offensive Line tdstaker@coe.edu 319-399-
+• Cody Baethke Associate Head Coach, Defensive Coordinator, Defensive Backs cbaethke@coe.edu 319-399-
+• Trevor McConnell Wide Receivers Coach/Recruiting Coordinator tmcconnell@coe.edu 319-399-
+• Eric Karius Head Men's and Women's Golf Coach ekarius@coe.edu 319-399-
+• Bill Vincent Assistant Men's and Women's Golf Coach bv200905@gmail.com
+• Eric Karius Head Men's and Women's Golf Coach ekarius@coe.edu 319-399-
+• Bill Vincent Assistant Men's and Women's Golf Coach bv200905@gmail.com
+• Kyle Bakas Head Men's Soccer Coach kbakas@coe.edu 760-646-
+• Graham Lynch Assistant Men's Soccer Coach glynch@coe.edu
+• Quentin Fisher Assistant Men's Soccer Coach quentinevanfisher@gmail.com
+• James Culotta Head Women's Soccer Coach jculotta@coe.edu 319-399-
+• Jake Koolbeck Head Softball Coach jwkoolbeck@coe.edu 319-399-
+• Joe Tristan Head Swimming & Diving Coach jtristan@coe.edu 319-399-
+• Tony Kramer Assistant Swimming & Diving Coach tkramer@coe.edu 319-399-
+• Meredith Nash Assistant Swimming & Diving Coach & Lessons Coordinator mnash@coe.edu 319-399-
+• Joe Tristan Head Swimming & Diving Coach jtristan@coe.edu 319-399-
+• Tony Kramer Assistant Swimming & Diving Coach tkramer@coe.edu 319-399-
+• Meredith Nash Assistant Swimming & Diving Coach & Lessons Coordinator mnash@coe.edu 319-399-
+• Eric Rodgers Head Men's Tennis Coach erodgers@coe.edu 319-399-
+• Mike Strydom Head Women's Tennis Coach mstrydom@coe.edu 319-399-
+• Claire Christian Assistant Women's Tennis Coach cchristian@coe.edu 507-402-
+• Molly Fiala Garber Assistant Women's Tennis Coach mgarber@coe.edu 319-399-
+• Mat Littleton Head Men's Cross Country and Track & Field Coach mlittleton@coe.edu 319-399-
+• Amanda Owens Assistant Track & Field Coach (Throws) aowens@coe.edu
+• Logan Stroman Assistant Cross Country / Track & Field Coach lstroman@coe.edu
+• Krista Littleton Head Women's Cross Country and Track & Field Coach klittleton@coe.edu 319-399-
+• Amanda Owens Assistant Track & Field Coach (Throws) aowens@coe.edu
+• Logan Stroman Assistant Cross Country / Track & Field Coach lstroman@coe.edu
+• Kris Tiedt Head Triathlon Coach ktiedt@coe.edu 319-399-
+• April Elsbernd Head Volleyball Coach aelsbernd@coe.edu 319-399-
+• Sam Rossetti Assistant Volleyball Coach srossetti@coe.edu
+• Ilah Perez-Johnson Assistant Volleyball Coach iperezjohnson@coe.edu
+• Kaleb Reeves Head Women's Wrestling Coach kreeves@coe.edu 319-399-
+• John Oostendorp Head Wrestling Coach joostend@coe.edu 319-399-
+• Jimmy Gotto Assistant Wrestling Coach jgotto@coe.edu 319-399-

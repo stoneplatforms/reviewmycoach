@@ -1,0 +1,113 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:38
+============================================================
+
+Total coaches found: 17
+
+PARSED ENTRIES:
+----------------------------------------
+1. Steve Kimble
+   Email: skimble@csbsju.edu
+   Username: skimble
+   Original line: Steve Kimble Head Soccer Coach/Director of Club Sports skimble@csbsju.edu 320-363-
+
+2. Mike Durbin
+   Email: mdurbin@csbsju.edu
+   Username: mdurbin
+   Original line: Mike Durbin Head Basketball Coach mdurbin@csbsju.edu 320-363-
+
+3. Steve Howe-Veenstra
+   Email: showeveenst@csbsju.edu
+   Username: showeveenst
+   Original line: Steve Howe-Veenstra Assistant Basketball Coach showeveenst@csbsju.edu
+
+4. Robin Balder-Lanoue
+   Email: rbalderlano@csbsju.edu
+   Username: rbalderlano
+   Original line: Robin Balder-Lanoue Head Cross Country Coach rbalderlano@csbsju.edu 320-363-
+
+5. Daryl Schomer
+   Email: dschomer@csbsju.edu
+   Username: dschomer
+   Original line: Daryl Schomer Head Golf Coach dschomer@csbsju.edu 320-363-
+
+6. Lindsay Macy
+   Email: lmacy001@csbsju.edu
+   Username: lmacy001
+   Original line: Lindsay Macy Head Hockey Coach lmacy001@csbsju.edu 320-363-
+
+7. Patrick Crandall
+   Email: pcrandall001@csbsju.edu
+   Username: pcrandall001
+   Original line: Patrick Crandall Head Lacrosse Coach pcrandall001@csbsju.edu 320-363-
+
+8. Steve Kimble
+   Email: skimble@csbsju.edu
+   Username: skimble
+   Original line: Steve Kimble Head Soccer Coach/Director of Club Sports skimble@csbsju.edu 320-363-
+
+9. Rachael Click
+   Email: rclick@csbsju.edu
+   Username: rclick
+   Original line: Rachael Click Head Softball Coach rclick@csbsju.edu 320-363- rclick09
+
+10. Mandy Wolvert
+   Email: awolvert@csbsju.edu
+   Username: awolvert
+   Original line: Mandy Wolvert Head Swim & Dive Coach awolvert@csbsju.edu
+
+11. Elise Morell
+   Email: emorell001@csbsju.edu
+   Username: emorell001
+   Original line: Elise Morell Diving Coach emorell001@csbsju.edu
+
+12. Mikayla VonWahlde-Fleischhacker
+   Email: mvonwahld001@csbsju.edu
+   Username: mvonwahld001
+   Original line: Mikayla VonWahlde-Fleischhacker Admission Rep/Assistant Swim Coach mvonwahld001@csbsju.edu 320-363-
+
+13. Jack Bowe
+   Email: jbowe@csbsju.edu
+   Username: jbowe
+   Original line: Jack Bowe Head Tennis Coach jbowe@csbsju.edu 320-492-
+
+14. Robin Balder-Lanoue
+   Email: rbalderlano@csbsju.edu
+   Username: rbalderlano
+   Original line: Robin Balder-Lanoue Head Track and Field Coach rbalderlano@csbsju.edu 320-363-
+
+15. John Pollack
+   Email: jpollack@csbsju.edu
+   Username: jpollack
+   Original line: John Pollack Assistant Track and Field Coach jpollack@csbsju.edu 320-363-
+
+16. Nicole Hess
+   Email: nhess@csbsju.edu
+   Username: nhess
+   Original line: Nicole Hess Head Volleyball Coach nhess@csbsju.edu 320-363-
+
+17. Amanda Anderson
+   Email: aanderson@csbsju.edu
+   Username: aanderson
+   Original line: Amanda Anderson Assistant Volleyball Coach aanderson@csbsju.edu 320-363-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Steve Kimble Head Soccer Coach/Director of Club Sports skimble@csbsju.edu 320-363-
+• Mike Durbin Head Basketball Coach mdurbin@csbsju.edu 320-363-
+• Steve Howe-Veenstra Assistant Basketball Coach showeveenst@csbsju.edu
+• Robin Balder-Lanoue Head Cross Country Coach rbalderlano@csbsju.edu 320-363-
+• Daryl Schomer Head Golf Coach dschomer@csbsju.edu 320-363-
+• Lindsay Macy Head Hockey Coach lmacy001@csbsju.edu 320-363-
+• Patrick Crandall Head Lacrosse Coach pcrandall001@csbsju.edu 320-363-
+• Steve Kimble Head Soccer Coach/Director of Club Sports skimble@csbsju.edu 320-363-
+• Rachael Click Head Softball Coach rclick@csbsju.edu 320-363- rclick09
+• Mandy Wolvert Head Swim & Dive Coach awolvert@csbsju.edu
+• Elise Morell Diving Coach emorell001@csbsju.edu
+• Mikayla VonWahlde-Fleischhacker Admission Rep/Assistant Swim Coach mvonwahld001@csbsju.edu 320-363-
+• Jack Bowe Head Tennis Coach jbowe@csbsju.edu 320-492-
+• Robin Balder-Lanoue Head Track and Field Coach rbalderlano@csbsju.edu 320-363-
+• John Pollack Assistant Track and Field Coach jpollack@csbsju.edu 320-363-
+• Nicole Hess Head Volleyball Coach nhess@csbsju.edu 320-363-
+• Amanda Anderson Assistant Volleyball Coach aanderson@csbsju.edu 320-363-

@@ -1,0 +1,533 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:25
+============================================================
+
+Total coaches found: 87
+
+PARSED ENTRIES:
+----------------------------------------
+1. Craig Rainey
+   Email: crainey@adrian.edu
+   Username: crainey
+   Original line: Craig Rainey '89 Athletic Director | Head NCAA Baseball Coach (517) 264- crainey@adrian.edu
+
+2. Bill Schindel
+   Email: bschindel@adrian.edu
+   Username: bschindel
+   Original line: Bill Schindel Assistant Athletic Director | Head Men's NCAA Wrestling Coach (517) 265- bschindel@adrian.edu
+
+3. Gary Astalos
+   Email: gastalos@adrian.edu
+   Username: gastalos
+   Original line: Gary Astalos Assistant Athletic Director | Head ACHA MD1 Hockey Coach (517) 265- gastalos@adrian.edu
+
+4. Brittany Newsom
+   Email: bnewsom@adrian.edu
+   Username: bnewsom
+   Original line: Brittany Newsom '19 Head Acrobatics & Tumbling Coach (517) 265- bnewsom@adrian.edu
+
+5. Payton Young
+   Email: pyoung@adrian.edu
+   Username: pyoung
+   Original line: Payton Young '23 Assistant Acrobatics & Tumbling Coach pyoung@adrian.edu
+
+6. Craig Rainey
+   Email: crainey@adrian.edu
+   Username: crainey
+   Original line: Craig Rainey '89 Athletic Director | Head NCAA Baseball Coach (517) 264- crainey@adrian.edu
+
+7. Ben Sullivan
+   Email: bsullivan24@adrian.edu
+   Username: bsullivan24
+   Original line: Ben Sullivan '24 Assistant NCAA Baseball Coach & Recruiting Coordinator (517) 265- bsullivan24@adrian.edu
+
+8. Charlie Solis
+   Email: csolis@adrian.edu
+   Username: csolis
+   Original line: Charlie Solis Assistant NCAA Baseball Coach--Outfielders & First Base Coach csolis@adrian.edu
+
+9. Josh Knorr
+   Email: jknorr@adrian.edu
+   Username: jknorr
+   Original line: Josh Knorr '16 Head NCBA D1 Club Baseball Coach (517) 265- jknorr@adrian.edu
+
+10. Nick Christian
+   Email: nchristian@adrian.edu
+   Username: nchristian
+   Original line: Nick Christian Head NCBA D3 Club Baseball Coach nchristian@adrian.edu
+
+11. Seth Borton
+   Email: sborton@adrian.edu
+   Username: sborton
+   Original line: Seth Borton Head Bass Fishing Coach (517) 265- sborton@adrian.edu
+
+12. Caleb Taylor
+   Email: ctaylor@adrian.edu
+   Username: ctaylor
+   Original line: Caleb Taylor Assistant Bass Fishing Coach ctaylor@adrian.edu
+
+13. Charlie Morris
+   Email: cmorris@adrian.edu
+   Username: cmorris
+   Original line: Charlie Morris Assistant Bass Fishing Coach cmorris@adrian.edu
+
+14. Jennifer Edwards
+   Email: jwheaton@adrian.edu
+   Username: jwheaton
+   Original line: Jennifer Edwards Wheaton '19 Head Cheer Coach jwheaton@adrian.edu
+
+15. Jenica Sword
+   Email: jsword@adrian.edu
+   Username: jsword
+   Original line: Jenica Sword '24 Assistant Cheer Coach (517) 265- jsword@adrian.edu
+
+16. Max Benedict
+   Email: mbenedict@adrian.edu
+   Username: mbenedict
+   Original line: Max Benedict Head Cornhole Coach (517) 265- mbenedict@adrian.edu
+
+17. Erin Aurand
+   Email: eaurand@adrian.edu
+   Username: eaurand
+   Original line: Erin Aurand '22 Head Dance Coach (517) 265- eaurand@adrian.edu
+
+18. Troy Prime
+   Email: tprime@adrian.edu
+   Username: tprime
+   Original line: Troy Prime Head Equestrian Coach (517) 265- tprime@adrian.edu
+
+19. Jody Prime
+   Email: jprime@adrian.edu
+   Username: jprime
+   Original line: Jody Prime Assistant Equestrian Coach (517) 265- jprime@adrian.edu
+
+20. Lori Girrbach
+   Email: lgirrbach@adrian.edu
+   Username: lgirrbach
+   Original line: Lori Girrbach '23 Volunteer Assistant Equestrian Coach lgirrbach@adrian.edu
+
+21. Kenneth Beatty
+   Email: kbeatty@adrian.edu
+   Username: kbeatty
+   Original line: Kenneth Beatty '12 Head eSports Coach kbeatty@adrian.edu
+
+22. Joe Palka
+   Email: jpalka@adrian.edu
+   Username: jpalka
+   Original line: Joe Palka Head Football Coach (517) 265- jpalka@adrian.edu
+
+23. Tyler Palka
+   Email: tpalka@adrian.edu
+   Username: tpalka
+   Original line: Tyler Palka Offensive Coordinator/Quarterbacks Coach (517) 265- tpalka@adrian.edu
+
+24. Jeb Palka
+   Email: jebpalka@adrian.edu
+   Username: jebpalka
+   Original line: Jeb Palka Special Teams Coordinator/Wide Receivers Coach (517) 265- jebpalka@adrian.edu
+
+25. Alex Knollman
+   Email: aknollman@adrian.edu
+   Username: aknollman
+   Original line: Alex Knollman Offensive Line Coach/Recruiting Coordinator (517) 265- aknollman@adrian.edu
+
+26. Malik Edwards
+   Email: medwards@adrian.edu
+   Username: medwards
+   Original line: Malik Edwards Defensive Tackles Coach medwards@adrian.edu
+
+27. Kurt Britnell
+   Email: kbritnell@adrian.edu
+   Username: kbritnell
+   Original line: Kurt Britnell Assistant Coach - Quarterbacks/Tight Ends/Outside Receivers kbritnell@adrian.edu
+
+28. Sean Reim
+   Email: sreim@adrian.edu
+   Username: sreim
+   Original line: Sean Reim Assistant Coach - Pass Game Coordinator/Running Backs/Tight sreim@adrian.edu
+
+29. Al Leslie
+   Email: aleslie@adrian.edu
+   Username: aleslie
+   Original line: Al Leslie Assistant Coach - Defensive Line aleslie@adrian.edu
+
+30. Kenny Kujawa
+   Email: kkujawa@adrian.edu
+   Username: kkujawa
+   Original line: Kenny Kujawa '22 Assistant Coach - Linebackers (517) 265- kkujawa@adrian.edu
+
+31. Thor Daley
+   Email: tdaley@adrian.edu
+   Username: tdaley
+   Original line: Thor Daley Assistant Coach - Run Game Coordinator tdaley@adrian.edu
+
+32. Tim Kaiser
+   Email: tkaiser@adrian.edu
+   Username: tkaiser
+   Original line: Tim Kaiser Head Men's Basketball Coach (517) 265- tkaiser@adrian.edu
+
+33. Adam Beam
+   Email: abeam@adrian.edu
+   Username: abeam
+   Original line: Adam Beam Assistant Men's Basketball Coach (517) 265- abeam@adrian.edu
+
+34. Miles Caine
+   Email: mcaine@adrian.edu
+   Username: mcaine
+   Original line: Miles Caine Head Cross Country Coach (517) 265- mcaine@adrian.edu
+
+35. Kaylie Laskody
+   Email: klaskody@adrian.edu
+   Username: klaskody
+   Original line: Kaylie Laskody Head Track & Field Coach/Assistant Cross Country Coach (517) 265- klaskody@adrian.edu
+
+36. Conor Kolka
+   Email: ckolka@adrian.edu
+   Username: ckolka
+   Original line: Conor Kolka Assistant Cross Country/Track & Field Coach--Distances ckolka@adrian.edu
+
+37. Brent Greenwood
+   Email: bgreenwood@adrian.edu
+   Username: bgreenwood
+   Original line: Brent Greenwood '14 Head Golf Coach (517) 265- bgreenwood@adrian.edu
+
+38. James Mahony
+   Email: jmahony@adrian.edu
+   Username: jmahony
+   Original line: James Mahony '00 Assistant Golf Coach jmahony@adrian.edu
+
+39. Adam Phillips
+   Email: adamphillips@adrian.edu
+   Username: adamphillips
+   Original line: Adam Phillips Head Men's NCAA Hockey Coach (517) 265- adamphillips@adrian.edu
+
+40. Carter Clarke
+   Email: carterclarke@adrian.edu
+   Username: carterclarke
+   Original line: Carter Clarke Assistant Men's NCAA Hockey Coach (517) 265- carterclarke@adrian.edu
+
+41. Gary Astalos
+   Email: gastalos@adrian.edu
+   Username: gastalos
+   Original line: Gary Astalos Assistant Athletic Director | Head ACHA MD1 Hockey Coach (517) 265- gastalos@adrian.edu
+
+42. Doug Raymond
+   Email: dougraymond@adrian.edu
+   Username: dougraymond
+   Original line: Doug Raymond '14 Associate Head ACHA MD1 Hockey Coach (517) 265- dougraymond@adrian.edu
+
+43. Tyler Cataline
+   Email: tcataline@adrian.edu
+   Username: tcataline
+   Original line: Tyler Cataline Head ACHA MD2 Hockey Coach / Assistant ACHA MD1 Hockey (517) 265- tcataline@adrian.edu
+
+44. Will Smith
+   Email: wsmith@adrian.edu
+   Username: wsmith
+   Original line: Will Smith '24 ACHA Men's Hockey Video Coach (517) 265- wsmith@adrian.edu
+
+45. Tyler Cataline
+   Email: tcataline@adrian.edu
+   Username: tcataline
+   Original line: Tyler Cataline Head ACHA MD2 Hockey Coach / Assistant ACHA MD1 Hockey (517) 265- tcataline@adrian.edu
+
+46. Will Smith
+   Email: wsmith@adrian.edu
+   Username: wsmith
+   Original line: Will Smith '24 ACHA Men's Hockey Video Coach (517) 265- wsmith@adrian.edu
+
+47. Rodney Stewart
+   Email: rstewart@adrian.edu
+   Username: rstewart
+   Original line: Rodney Stewart Head ACHA MD3 Hockey Coach (517) 265- rstewart@adrian.edu
+
+48. Brett Siewertsen
+   Email: bsiewertsen@adrian.edu
+   Username: bsiewertsen
+   Original line: Brett Siewertsen '21 Volunteer Assistant ACHA MD3 Hockey Coach bsiewertsen@adrian.edu
+
+49. Will Smith
+   Email: wsmith@adrian.edu
+   Username: wsmith
+   Original line: Will Smith '24 ACHA Men's Hockey Video Coach (517) 265- wsmith@adrian.edu
+
+50. Brett Wetzel
+   Email: bwetzel@adrian.edu
+   Username: bwetzel
+   Original line: Brett Wetzel Head Men's Lacrosse Coach (517) 265- bwetzel@adrian.edu
+
+51. Andrew Wimmer
+   Email: awimmer@adrian.edu
+   Username: awimmer
+   Original line: Andrew Wimmer Head Rowing Coach awimmer@adrian.edu
+
+52. Franco Van
+   Email: fvanoordt@adrian.edu
+   Username: fvanoordt
+   Original line: Franco Van Oordt '24 Assistant Rowing Coach fvanoordt@adrian.edu
+
+53. Christopher Hathaway
+   Email: chathaway@adrian.edu
+   Username: chathaway
+   Original line: Christopher Hathaway Head Men's Rugby Coach (517) 265- chathaway@adrian.edu
+
+54. Charlie Miles
+   Email: cmiles@adrian.edu
+   Username: cmiles
+   Original line: Charlie Miles Head Men's Soccer Coach (517) 265- cmiles@adrian.edu
+
+55. Adrian Rakipi
+   Email: arakipi@adrian.edu
+   Username: arakipi
+   Original line: Adrian Rakipi Assistant Men's Soccer Coach arakipi@adrian.edu
+
+56. Kyle Haines
+   Email: khaines@adrian.edu
+   Username: khaines
+   Original line: Kyle Haines '20 Head Tennis Coach (517) 265- khaines@adrian.edu
+
+57. Kaylie Laskody
+   Email: klaskody@adrian.edu
+   Username: klaskody
+   Original line: Kaylie Laskody Head Track & Field Coach/Assistant Cross Country Coach (517) 265- klaskody@adrian.edu
+
+58. Miles Caine
+   Email: mcaine@adrian.edu
+   Username: mcaine
+   Original line: Miles Caine Assistant Track & Field Coach--Distances (517) 265- mcaine@adrian.edu
+
+59. Conor Kolka
+   Email: ckolka@adrian.edu
+   Username: ckolka
+   Original line: Conor Kolka Assistant Cross Country/Track & Field Coach--Distances ckolka@adrian.edu
+
+60. Brooke Burns
+   Email: bburns@adrian.edu
+   Username: bburns
+   Original line: Brooke Burns Assistant Track & Field Coach--Throws bburns@adrian.edu
+
+61. Tanner May
+   Email: tmay@adrian.edu
+   Username: tmay
+   Original line: Tanner May Assistant Track & Field Coach--Sprints tmay@adrian.edu
+
+62. Jose Soto
+   Email: jsoto@adrian.edu
+   Username: jsoto
+   Original line: Jose Soto Head Men's Volleyball Coach (517) 265- jsoto@adrian.edu
+
+63. Marc Arsenault
+   Email: marsenault@adrian.edu
+   Username: marsenault
+   Original line: Marc Arsenault Assistant Men's Volleyball Coach marsenault@adrian.edu
+
+64. Bill Schindel
+   Email: bschindel@adrian.edu
+   Username: bschindel
+   Original line: Bill Schindel Assistant Athletic Director | Head Men's NCAA Wrestling Coach (517) 265- bschindel@adrian.edu
+
+65. Zach Altman
+   Email: zaltman@adrian.edu
+   Username: zaltman
+   Original line: Zach Altman '23 Assistant Men's NCAA Wrestling Coach zaltman@adrian.edu
+
+66. Noah Nieman
+   Email: nnieman@adrian.edu
+   Username: nnieman
+   Original line: Noah Nieman '21 Head Men's NCWA Wrestling Coach (517) 486- nnieman@adrian.edu
+
+67. Sam Miller
+   Email: sammiller@adrian.edu
+   Username: sammiller
+   Original line: Sam Miller '10 Head Women's Basketball Coach (517) 265- sammiller@adrian.edu
+
+68. Angela Sikora
+   Email: asikora@adrian.edu
+   Username: asikora
+   Original line: Angela Sikora Assistant Women's Basketball Coach (517) 265- asikora@adrian.edu
+
+69. Chad Davis
+   Email: chaddavis@adrian.edu
+   Username: chaddavis
+   Original line: Chad Davis Head Women's NCAA Hockey Coach (517) 265- chaddavis@adrian.edu
+
+70. Hannah McGowan
+   Email: hannahmcgowan@adrian.edu
+   Username: hannahmcgowan
+   Original line: Hannah McGowan '15 Assistant Women's NCAA Hockey Coach (517) 265- hannahmcgowan@adrian.edu
+
+71. Brendan Ramboer
+   Email: bramboer@adrian.edu
+   Username: bramboer
+   Original line: Brendan Ramboer Head ACHA WD1 Hockey Coach (517) 265- bramboer@adrian.edu
+
+72. Will Smith
+   Email: wsmith@adrian.edu
+   Username: wsmith
+   Original line: Will Smith '24 Assistant ACHA WD1 Hockey Coach (517) 265- wsmith@adrian.edu
+
+73. Amanda Asher
+   Email: aasher@adrian.edu
+   Username: aasher
+   Original line: Amanda Asher Head Women's Lacrosse Coach (517) 265- aasher@adrian.edu
+
+74. Alana Mortimer
+   Email: amortimer@adrian.edu
+   Username: amortimer
+   Original line: Alana Mortimer Assistant Women's Lacrosse Coach amortimer@adrian.edu
+
+75. Eric Enright
+   Email: eenright@adrian.edu
+   Username: eenright
+   Original line: Eric Enright Head Women's Rugby Coach (517) 265- eenright@adrian.edu
+
+76. Nathan Kronewetter
+   Email: nkronewetter@adrian.edu
+   Username: nkronewetter
+   Original line: Nathan Kronewetter Head Women's Soccer Coach (517) 265- nkronewetter@adrian.edu
+
+77. Kirsty MacGregor
+   Email: kmacgregor@adrian.edu
+   Username: kmacgregor
+   Original line: Kirsty MacGregor Assistant Women's Soccer Coach (517) 265- kmacgregor@adrian.edu
+
+78. Kaylee Fox
+   Email: kfox@adrian.edu
+   Username: kfox
+   Original line: Kaylee Fox Head NCAA Softball Coach (517) 265- kfox@adrian.edu
+
+79. Hannah Kampmann
+   Email: hkampmann@adrian.edu
+   Username: hkampmann
+   Original line: Hannah Kampmann Assistant NCAA Softball Coach hkampmann@adrian.edu
+
+80. Kaitlyn Probelski
+   Email: kprobelski@adrian.edu
+   Username: kprobelski
+   Original line: Kaitlyn Probelski '22 Head NCSA D1 Club Softball Coach (517) 265- kprobelski@adrian.edu
+
+81. Natalie Bruno
+   Email: nbruno@adrian.edu
+   Username: nbruno
+   Original line: Natalie Bruno '25 Assistant Skating Coach (517) 265- nbruno@adrian.edu
+
+82. David Kwan
+   Email: dkwan@adrian.edu
+   Username: dkwan
+   Original line: David Kwan Head Women's NCAA Volleyball Coach (517) 265- dkwan@adrian.edu
+
+83. Hannah Galloway
+   Email: hgalloway@adrian.edu
+   Username: hgalloway
+   Original line: Hannah Galloway Head Women's NCVF Club Volleyball Coach / Assistant Women's (517) 265- hgalloway@adrian.edu
+
+84. Hannah Galloway
+   Email: hgalloway@adrian.edu
+   Username: hgalloway
+   Original line: Hannah Galloway Head Women's NCVF Club Volleyball Coach / Assistant Women's (517) 265- hgalloway@adrian.edu
+
+85. Cliff Cushard
+   Email: ccushard@adrian.edu
+   Username: ccushard
+   Original line: Cliff Cushard Head Women's Wrestling Coach (517) 265- ccushard@adrian.edu
+
+86. Autumn Rux
+   Email: arux@adrian.edu
+   Username: arux
+   Original line: Autumn Rux '19 Associate Head Women's Wrestling Coach (517) 265- arux@adrian.edu
+
+87. Angela LoRusso
+   Email: alorusso@adrian.edu
+   Username: alorusso
+   Original line: Angela LoRusso '23 Assistant Women's Wrestling Coach alorusso@adrian.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Craig Rainey '89 Athletic Director | Head NCAA Baseball Coach (517) 264- crainey@adrian.edu
+• Bill Schindel Assistant Athletic Director | Head Men's NCAA Wrestling Coach (517) 265- bschindel@adrian.edu
+• Gary Astalos Assistant Athletic Director | Head ACHA MD1 Hockey Coach (517) 265- gastalos@adrian.edu
+• Brittany Newsom '19 Head Acrobatics & Tumbling Coach (517) 265- bnewsom@adrian.edu
+• Payton Young '23 Assistant Acrobatics & Tumbling Coach pyoung@adrian.edu
+• Craig Rainey '89 Athletic Director | Head NCAA Baseball Coach (517) 264- crainey@adrian.edu
+• Ben Sullivan '24 Assistant NCAA Baseball Coach & Recruiting Coordinator (517) 265- bsullivan24@adrian.edu
+• Charlie Solis Assistant NCAA Baseball Coach--Outfielders & First Base Coach csolis@adrian.edu
+• Josh Knorr '16 Head NCBA D1 Club Baseball Coach (517) 265- jknorr@adrian.edu
+• Nick Christian Head NCBA D3 Club Baseball Coach nchristian@adrian.edu
+• Seth Borton Head Bass Fishing Coach (517) 265- sborton@adrian.edu
+• Caleb Taylor Assistant Bass Fishing Coach ctaylor@adrian.edu
+• Charlie Morris Assistant Bass Fishing Coach cmorris@adrian.edu
+• Jennifer Edwards Wheaton '19 Head Cheer Coach jwheaton@adrian.edu
+• Jenica Sword '24 Assistant Cheer Coach (517) 265- jsword@adrian.edu
+• Max Benedict Head Cornhole Coach (517) 265- mbenedict@adrian.edu
+• Erin Aurand '22 Head Dance Coach (517) 265- eaurand@adrian.edu
+• Troy Prime Head Equestrian Coach (517) 265- tprime@adrian.edu
+• Jody Prime Assistant Equestrian Coach (517) 265- jprime@adrian.edu
+• Lori Girrbach '23 Volunteer Assistant Equestrian Coach lgirrbach@adrian.edu
+• Kenneth Beatty '12 Head eSports Coach kbeatty@adrian.edu
+• Joe Palka Head Football Coach (517) 265- jpalka@adrian.edu
+• Tyler Palka Offensive Coordinator/Quarterbacks Coach (517) 265- tpalka@adrian.edu
+• Jeb Palka Special Teams Coordinator/Wide Receivers Coach (517) 265- jebpalka@adrian.edu
+• Alex Knollman Offensive Line Coach/Recruiting Coordinator (517) 265- aknollman@adrian.edu
+• Malik Edwards Defensive Tackles Coach medwards@adrian.edu
+• Kurt Britnell Assistant Coach - Quarterbacks/Tight Ends/Outside Receivers kbritnell@adrian.edu
+• Sean Reim Assistant Coach - Pass Game Coordinator/Running Backs/Tight sreim@adrian.edu
+• Al Leslie Assistant Coach - Defensive Line aleslie@adrian.edu
+• Kenny Kujawa '22 Assistant Coach - Linebackers (517) 265- kkujawa@adrian.edu
+• Thor Daley Assistant Coach - Run Game Coordinator tdaley@adrian.edu
+• Tim Kaiser Head Men's Basketball Coach (517) 265- tkaiser@adrian.edu
+• Adam Beam Assistant Men's Basketball Coach (517) 265- abeam@adrian.edu
+• Miles Caine Head Cross Country Coach (517) 265- mcaine@adrian.edu
+• Kaylie Laskody Head Track & Field Coach/Assistant Cross Country Coach (517) 265- klaskody@adrian.edu
+• Conor Kolka Assistant Cross Country/Track & Field Coach--Distances ckolka@adrian.edu
+• Brent Greenwood '14 Head Golf Coach (517) 265- bgreenwood@adrian.edu
+• James Mahony '00 Assistant Golf Coach jmahony@adrian.edu
+• Adam Phillips Head Men's NCAA Hockey Coach (517) 265- adamphillips@adrian.edu
+• Carter Clarke Assistant Men's NCAA Hockey Coach (517) 265- carterclarke@adrian.edu
+• Gary Astalos Assistant Athletic Director | Head ACHA MD1 Hockey Coach (517) 265- gastalos@adrian.edu
+• Doug Raymond '14 Associate Head ACHA MD1 Hockey Coach (517) 265- dougraymond@adrian.edu
+• Tyler Cataline Head ACHA MD2 Hockey Coach / Assistant ACHA MD1 Hockey (517) 265- tcataline@adrian.edu
+• Will Smith '24 ACHA Men's Hockey Video Coach (517) 265- wsmith@adrian.edu
+• Tyler Cataline Head ACHA MD2 Hockey Coach / Assistant ACHA MD1 Hockey (517) 265- tcataline@adrian.edu
+• Will Smith '24 ACHA Men's Hockey Video Coach (517) 265- wsmith@adrian.edu
+• Rodney Stewart Head ACHA MD3 Hockey Coach (517) 265- rstewart@adrian.edu
+• Brett Siewertsen '21 Volunteer Assistant ACHA MD3 Hockey Coach bsiewertsen@adrian.edu
+• Will Smith '24 ACHA Men's Hockey Video Coach (517) 265- wsmith@adrian.edu
+• Brett Wetzel Head Men's Lacrosse Coach (517) 265- bwetzel@adrian.edu
+• Andrew Wimmer Head Rowing Coach awimmer@adrian.edu
+• Franco Van Oordt '24 Assistant Rowing Coach fvanoordt@adrian.edu
+• Christopher Hathaway Head Men's Rugby Coach (517) 265- chathaway@adrian.edu
+• Charlie Miles Head Men's Soccer Coach (517) 265- cmiles@adrian.edu
+• Adrian Rakipi Assistant Men's Soccer Coach arakipi@adrian.edu
+• Kyle Haines '20 Head Tennis Coach (517) 265- khaines@adrian.edu
+• Kaylie Laskody Head Track & Field Coach/Assistant Cross Country Coach (517) 265- klaskody@adrian.edu
+• Miles Caine Assistant Track & Field Coach--Distances (517) 265- mcaine@adrian.edu
+• Conor Kolka Assistant Cross Country/Track & Field Coach--Distances ckolka@adrian.edu
+• Brooke Burns Assistant Track & Field Coach--Throws bburns@adrian.edu
+• Tanner May Assistant Track & Field Coach--Sprints tmay@adrian.edu
+• Jose Soto Head Men's Volleyball Coach (517) 265- jsoto@adrian.edu
+• Marc Arsenault Assistant Men's Volleyball Coach marsenault@adrian.edu
+• Bill Schindel Assistant Athletic Director | Head Men's NCAA Wrestling Coach (517) 265- bschindel@adrian.edu
+• Zach Altman '23 Assistant Men's NCAA Wrestling Coach zaltman@adrian.edu
+• Noah Nieman '21 Head Men's NCWA Wrestling Coach (517) 486- nnieman@adrian.edu
+• Sam Miller '10 Head Women's Basketball Coach (517) 265- sammiller@adrian.edu
+• Angela Sikora Assistant Women's Basketball Coach (517) 265- asikora@adrian.edu
+• Chad Davis Head Women's NCAA Hockey Coach (517) 265- chaddavis@adrian.edu
+• Hannah McGowan '15 Assistant Women's NCAA Hockey Coach (517) 265- hannahmcgowan@adrian.edu
+• Brendan Ramboer Head ACHA WD1 Hockey Coach (517) 265- bramboer@adrian.edu
+• Will Smith '24 Assistant ACHA WD1 Hockey Coach (517) 265- wsmith@adrian.edu
+• Amanda Asher Head Women's Lacrosse Coach (517) 265- aasher@adrian.edu
+• Alana Mortimer Assistant Women's Lacrosse Coach amortimer@adrian.edu
+• Eric Enright Head Women's Rugby Coach (517) 265- eenright@adrian.edu
+• Nathan Kronewetter Head Women's Soccer Coach (517) 265- nkronewetter@adrian.edu
+• Kirsty MacGregor Assistant Women's Soccer Coach (517) 265- kmacgregor@adrian.edu
+• Kaylee Fox Head NCAA Softball Coach (517) 265- kfox@adrian.edu
+• Hannah Kampmann Assistant NCAA Softball Coach hkampmann@adrian.edu
+• Kaitlyn Probelski '22 Head NCSA D1 Club Softball Coach (517) 265- kprobelski@adrian.edu
+• Natalie Bruno '25 Assistant Skating Coach (517) 265- nbruno@adrian.edu
+• David Kwan Head Women's NCAA Volleyball Coach (517) 265- dkwan@adrian.edu
+• Hannah Galloway Head Women's NCVF Club Volleyball Coach / Assistant Women's (517) 265- hgalloway@adrian.edu
+• Hannah Galloway Head Women's NCVF Club Volleyball Coach / Assistant Women's (517) 265- hgalloway@adrian.edu
+• Cliff Cushard Head Women's Wrestling Coach (517) 265- ccushard@adrian.edu
+• Autumn Rux '19 Associate Head Women's Wrestling Coach (517) 265- arux@adrian.edu
+• Angela LoRusso '23 Assistant Women's Wrestling Coach alorusso@adrian.edu

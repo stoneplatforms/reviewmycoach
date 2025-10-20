@@ -1,0 +1,166 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:28
+============================================================
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mike Croley
+   Email: mcroley@truett.edu
+   Username: mcroley
+   Phone: (706) 865-2134
+   Original line: Mike Croley Head Baseball Coach mcroley@truett.edu 706-865-2134 ext. 5210
+
+2. Ross Roberts
+   Email: rroberts@truett.edu
+   Username: rroberts
+   Phone: (770) 714-3913
+   Original line: Ross Roberts Assistant Baseball Coach rroberts@truett.edu 770-714-3913
+
+3. Jon Yeh
+   Email: jyeh@truett.edu
+   Username: jyeh
+   Phone: (706) 865-2134
+   Original line: Jon Yeh Head Men's Basketball Coach jyeh@truett.edu 706-865-2134 ext. 5311
+
+4. John Green
+   Email: jgreen@truett.edu
+   Username: jgreen
+   Phone: (919) 601-9765
+   Original line: John Green Assistant Men's Basketball Coach jgreen@truett.edu (919) 601-9765
+
+5. Tiek Fields
+   Email: tfields@truett.edu
+   Username: tfields
+   Phone: (706) 865-2134
+   Original line: Tiek Fields Head Women's Basketball Coach tfields@truett.edu 706-865-2134 ext. 5321
+
+6. Andrew Leviner
+   Email: rleviner@truett.edu
+   Username: rleviner
+   Original line: Andrew Leviner Assistant Women's Basketball Coach rleviner@truett.edu
+
+7. Hannah Canady
+   Email: hcanady@truett.edu
+   Username: hcanady
+   Original line: Hannah Canady Graduate Assistant Cross Country Coach hcanady@truett.edu
+
+8. Cooper Roland
+   Email: croland@truett.edu
+   Username: croland
+   Original line: Cooper Roland Associate Head Men's Golf Coach croland@truett.edu
+
+9. Audrey Grace
+   Email: aholder@truett.edu
+   Username: aholder
+   Original line: Audrey Grace Holder Associate Head Women's Golf Coach aholder@truett.edu
+
+10. Sarah Newton
+   Email: snewton@truett.edu
+   Username: snewton
+   Original line: Sarah Newton Head Women's Lacrosse Coach snewton@truett.edu
+
+11. David McDowell
+   Email: dmcdowell@truett.edu
+   Username: dmcdowell
+   Phone: (706) 865-2134
+   Original line: David McDowell Head Women's Soccer Coach dmcdowell@truett.edu 706-865-2134 ext. 5421
+
+12. Jonathan Britt
+   Email: jbritt@truett.edu
+   Username: jbritt
+   Phone: (706) 865-2134
+   Original line: Jonathan Britt Head Assistant Women's Soccer Coach jbritt@truett.edu 706-865-2134 ext. 5421
+
+13. Scott Borchers
+   Email: sborchers@truett.edu
+   Username: sborchers
+   Phone: (706) 865-2134
+   Original line: Scott Borchers Head Men's Soccer Coach sborchers@truett.edu 706-865-2134 ext. 5411
+
+14. Alex Buchman
+   Email: abuchman@truett.edu
+   Username: abuchman
+   Phone: (262) 470-2408
+   Original line: Alex Buchman Assistant Men's Soccer Coach abuchman@truett.edu 262-470-2408
+
+15. Dylan Reichenberg
+   Email: dreichenberg@truett.edu
+   Username: dreichenberg
+   Original line: Dylan Reichenberg Head Softball Coach dreichenberg@truett.edu
+
+16. Peyton Moore
+   Email: pmoore@truett.edu
+   Username: pmoore
+   Original line: Peyton Moore Assistant Softball Coach pmoore@truett.edu
+
+17. Joe Imhoff
+   Email: jimhoff@truett.edu
+   Username: jimhoff
+   Phone: (706) 865-2134
+   Original line: Joe Imhoff Head Track & Field Coach jimhoff@truett.edu 706-865-2134 ext. 5702
+
+18. Jed Woodward
+   Email: jedoconee@gmail.com
+   Username: jedoconee
+   Original line: Jed Woodward Assistant Track & Field Coach (Throws) jedoconee@gmail.com
+
+19. Cody Bond
+   Email: cbond@truett.edu
+   Username: cbond
+   Original line: Cody Bond Head Wrestling Coach cbond@truett.edu
+
+20. Amanda Hunt
+   Email: ahunt@truett.edu
+   Username: ahunt
+   Original line: Amanda Hunt Head Cycling Coach ahunt@truett.edu
+
+21. Michael Shea
+   Email: mshea@truett.edu
+   Username: mshea
+   Original line: Michael Shea Head Men's Volleyball Coach mshea@truett.edu
+
+22. Kadie Hudgins
+   Email: khudgins@truett.edu
+   Username: khudgins
+   Original line: Kadie Hudgins Head Tennis Coach khudgins@truett.edu
+
+23. Josh Adair
+   Email: jdadair@truett.edu
+   Username: jdadair
+   Original line: Josh Adair Head Disc Golf Coach jdadair@truett.edu
+
+24. Alex Buchman
+   Email: abuchman@truett.edu
+   Username: abuchman
+   Phone: 470-2408
+   Original line: Alex Buchman Head Pickleball Coach abuchman@truett.edu (262)-470-2408
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mike Croley Head Baseball Coach mcroley@truett.edu 706-865-2134 ext. 5210
+• Ross Roberts Assistant Baseball Coach rroberts@truett.edu 770-714-3913
+• Jon Yeh Head Men's Basketball Coach jyeh@truett.edu 706-865-2134 ext. 5311
+• John Green Assistant Men's Basketball Coach jgreen@truett.edu (919) 601-9765
+• Tiek Fields Head Women's Basketball Coach tfields@truett.edu 706-865-2134 ext. 5321
+• Andrew Leviner Assistant Women's Basketball Coach rleviner@truett.edu
+• Hannah Canady Graduate Assistant Cross Country Coach hcanady@truett.edu
+• Cooper Roland Associate Head Men's Golf Coach croland@truett.edu
+• Audrey Grace Holder Associate Head Women's Golf Coach aholder@truett.edu
+• Sarah Newton Head Women's Lacrosse Coach snewton@truett.edu
+• David McDowell Head Women's Soccer Coach dmcdowell@truett.edu 706-865-2134 ext. 5421
+• Jonathan Britt Head Assistant Women's Soccer Coach jbritt@truett.edu 706-865-2134 ext. 5421
+• Scott Borchers Head Men's Soccer Coach sborchers@truett.edu 706-865-2134 ext. 5411
+• Alex Buchman Assistant Men's Soccer Coach abuchman@truett.edu 262-470-2408
+• Dylan Reichenberg Head Softball Coach dreichenberg@truett.edu
+• Peyton Moore Assistant Softball Coach pmoore@truett.edu
+• Joe Imhoff Head Track & Field Coach jimhoff@truett.edu 706-865-2134 ext. 5702
+• Jed Woodward Assistant Track & Field Coach (Throws) jedoconee@gmail.com
+• Cody Bond Head Wrestling Coach cbond@truett.edu
+• Amanda Hunt Head Cycling Coach ahunt@truett.edu
+• Michael Shea Head Men's Volleyball Coach mshea@truett.edu
+• Kadie Hudgins Head Tennis Coach khudgins@truett.edu
+• Josh Adair Head Disc Golf Coach jdadair@truett.edu
+• Alex Buchman Head Pickleball Coach abuchman@truett.edu (262)-470-2408

@@ -1,0 +1,185 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:20
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jim Giacomazzi
+   Email: giacomazzij@wbu.edu
+   Username: giacomazzij
+   Original line: Jim Giacomazzi Director of Athletics/Head Volleyball Coach giacomazzij@wbu.edu 806-291-
+
+2. Todd Weldon
+   Email: todd.weldon@wbu.edu
+   Username: todd.weldon
+   Original line: Todd Weldon Head Coach todd.weldon@wbu.edu 806-291-
+
+3. Brett Cook
+   Email: cookb@wbu.edu
+   Username: cookb
+   Original line: Brett Cook Associate Head Coach cookb@wbu.edu 806-291-
+
+4. Connor Leach
+   Email: leachc@wbu.edu
+   Username: leachc
+   Original line: Connor Leach Assistant Coach leachc@wbu.edu 806-291-
+
+5. Clint Galyean
+   Email: galyeanc@wbu.edu
+   Username: galyeanc
+   Original line: Clint Galyean Head Coach galyeanc@wbu.edu 806-291-
+
+6. Doug Galyean
+   Email: galyeand@wbu.edu
+   Username: galyeand
+   Original line: Doug Galyean Assistant Coach galyeand@wbu.edu 806-291-
+
+7. Lane Senn
+   Email: sennl@wbu.edu
+   Username: sennl
+   Original line: Lane Senn Assistant Coach sennl@wbu.edu
+
+8. Jordan Vessels
+   Email: vesselsj@wbu.edu
+   Username: vesselsj
+   Original line: Jordan Vessels Head Coach vesselsj@wbu.edu 806-291-
+
+9. Keaton Davis
+   Email: keatond@wbu.edu
+   Username: keatond
+   Original line: Keaton Davis Assistant Coach keatond@wbu.edu 806-291-
+
+10. Lucie Mahelova
+   Email: maheloval@wbu.edu
+   Username: maheloval
+   Original line: Lucie Mahelova Head Coach maheloval@wbu.edu 806-291-
+
+11. Kira Mickens
+   Email: weathertons@wbu.edu
+   Username: weathertons
+   Original line: Kira Mickens Head Coach weathertons@wbu.edu 806-291-
+
+12. Nicholas Douglas
+   Email: douglasn@wbu.edu
+   Username: douglasn
+   Original line: Nicholas Douglas Head Coach douglasn@wbu.edu 806-291-
+
+13. Duncan Sweeney
+   Email: sweeneyd@wbu.edu
+   Username: sweeneyd
+   Original line: Duncan Sweeney Head Coach sweeneyd@wbu.edu 806-685-
+
+14. Marcos Hinojos
+   Email: hinojosm@wbu.edu
+   Username: hinojosm
+   Original line: Marcos Hinojos Sr. Head Coach hinojosm@wbu.edu 806-291-
+
+15. Davian Guajardo
+   Email: guajardod@wbu.edu
+   Username: guajardod
+   Original line: Davian Guajardo Assistant Coach guajardod@wbu.edu 806-291-
+
+16. Jason Herchek
+   Email: herchekj@wbu.edu
+   Username: herchekj
+   Original line: Jason Herchek Assistant Coach herchekj@wbu.edu 806-291-
+
+17. Tom Harp
+   Email: harpt@wbu.edu
+   Username: harpt
+   Original line: Tom Harp Head Coach harpt@wbu.edu 806-291-
+
+18. Tom Harp
+   Email: harpt@wbu.edu
+   Username: harpt
+   Original line: Tom Harp Head Coach harpt@wbu.edu 806-291-
+
+19. Robert Ssejjemba
+   Email: ssejjembar@wbu.edu
+   Username: ssejjembar
+   Original line: Robert Ssejjemba Head Coach ssejjembar@wbu.edu 806-291-
+
+20. Joven Longee
+   Email: longeej@wbu.edu
+   Username: longeej
+   Original line: Joven Longee Assistant Coach longeej@wbu.edu 806-291-
+
+21. Alex Castaneda
+   Email: castanedaa@wbu.edu
+   Username: castanedaa
+   Original line: Alex Castaneda Head Coach castanedaa@wbu.edu 806-291-
+
+22. Enrique Villa
+   Email: villae@wbu.edu
+   Username: villae
+   Original line: Enrique Villa Head Coach villae@wbu.edu 806-291-
+
+23. Brooklyn Araujo
+   Email: araujob@wbu.edu
+   Username: araujob
+   Original line: Brooklyn Araujo Assistant Coach araujob@wbu.edu
+
+24. Nicholas Douglas
+   Email: douglasn@wbu.edu
+   Username: douglasn
+   Original line: Nicholas Douglas Head Coach douglasn@wbu.edu 806-291-
+
+25. Giovanni Gutierrez
+   Email: gutierrezg@wbu.edu
+   Username: gutierrezg
+   Original line: Giovanni Gutierrez Assistant Coach gutierrezg@wbu.edu 806-291-
+
+26. Lucie Mahelova
+   Email: maheloval@wbu.edu
+   Username: maheloval
+   Original line: Lucie Mahelova Head Coach maheloval@wbu.edu 806-291-
+
+27. Stryder Davis
+   Email: davisw@wbu.edu
+   Username: davisw
+   Original line: Stryder Davis Head Coach davisw@wbu.edu 806-291-
+
+28. Mike Mena
+   Email: menam@wbu.edu
+   Username: menam
+   Original line: Mike Mena Assistant Coach menam@wbu.edu 806-291-
+
+29. Alex Pena
+   Email: penaa@wbu.edu
+   Username: penaa
+   Original line: Alex Pena Assistant Coach penaa@wbu.edu 806-291-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jim Giacomazzi Director of Athletics/Head Volleyball Coach giacomazzij@wbu.edu 806-291-
+• Todd Weldon Head Coach todd.weldon@wbu.edu 806-291-
+• Brett Cook Associate Head Coach cookb@wbu.edu 806-291-
+• Connor Leach Assistant Coach leachc@wbu.edu 806-291-
+• Clint Galyean Head Coach galyeanc@wbu.edu 806-291-
+• Doug Galyean Assistant Coach galyeand@wbu.edu 806-291-
+• Lane Senn Assistant Coach sennl@wbu.edu
+• Jordan Vessels Head Coach vesselsj@wbu.edu 806-291-
+• Keaton Davis Assistant Coach keatond@wbu.edu 806-291-
+• Lucie Mahelova Head Coach maheloval@wbu.edu 806-291-
+• Kira Mickens Head Coach weathertons@wbu.edu 806-291-
+• Nicholas Douglas Head Coach douglasn@wbu.edu 806-291-
+• Duncan Sweeney Head Coach sweeneyd@wbu.edu 806-685-
+• Marcos Hinojos Sr. Head Coach hinojosm@wbu.edu 806-291-
+• Davian Guajardo Assistant Coach guajardod@wbu.edu 806-291-
+• Jason Herchek Assistant Coach herchekj@wbu.edu 806-291-
+• Tom Harp Head Coach harpt@wbu.edu 806-291-
+• Tom Harp Head Coach harpt@wbu.edu 806-291-
+• Robert Ssejjemba Head Coach ssejjembar@wbu.edu 806-291-
+• Joven Longee Assistant Coach longeej@wbu.edu 806-291-
+• Alex Castaneda Head Coach castanedaa@wbu.edu 806-291-
+• Enrique Villa Head Coach villae@wbu.edu 806-291-
+• Brooklyn Araujo Assistant Coach araujob@wbu.edu
+• Nicholas Douglas Head Coach douglasn@wbu.edu 806-291-
+• Giovanni Gutierrez Assistant Coach gutierrezg@wbu.edu 806-291-
+• Lucie Mahelova Head Coach maheloval@wbu.edu 806-291-
+• Stryder Davis Head Coach davisw@wbu.edu 806-291-
+• Mike Mena Assistant Coach menam@wbu.edu 806-291-
+• Alex Pena Assistant Coach penaa@wbu.edu 806-291-

@@ -1,0 +1,124 @@
+COACH ENTRIES FOUND - 2025-10-19 04:36:18
+============================================================
+
+Total coaches found: 17
+
+PARSED ENTRIES:
+----------------------------------------
+1. Greg Stewart
+   Email: Greg.Stewart@oit.edu
+   Username: Greg.Stewart
+   Phone: (541) 885-1629
+   Original line: Greg Stewart Associate Director of Athletics / Head Coach Greg.Stewart@oit.edu 541-885-1629
+
+2. Mitchell Fink
+   Email: mitchell.fink@oit.edu
+   Username: mitchell.fink
+   Phone: (503) 709-6707
+   Original line: Mitchell Fink Assistant Coach / TechRec Coordinator mitchell.fink@oit.edu (503) 709-6707
+
+3. Ricky Walker
+   Email: ricky.walker@oit.edu
+   Username: ricky.walker
+   Original line: Ricky Walker Head Coach ricky.walker@oit.edu
+
+4. Justin Parnell
+   Email: Justin.Parnell@oit.edu
+   Username: Justin.Parnell
+   Phone: (541) 885-1635
+   Original line: Justin Parnell Head Men's Basketball Coach Justin.Parnell@oit.edu 541-885-1635
+
+5. Mitchell Fink
+   Email: mitchell.fink@oit.edu
+   Username: mitchell.fink
+   Phone: (503) 709-6707
+   Original line: Mitchell Fink Assistant Coach / TechRec Coordinator mitchell.fink@oit.edu (503) 709-6707
+
+6. Joy Lease
+   Email: joy.lease@oit.edu
+   Username: joy.lease
+   Phone: 541.885.1648
+   Original line: Joy Lease Head Coach joy.lease@oit.edu 541.885.1648
+
+7. Mike Anderson
+   Email: mike.anderson@oit.edu
+   Username: mike.anderson
+   Original line: Mike Anderson Head Coach mike.anderson@oit.edu
+
+8. Hunter Drops
+   Email: hunter.drops@oit.edu
+   Username: hunter.drops
+   Original line: Hunter Drops Assistant Coach hunter.drops@oit.edu
+
+9. Dave Myers
+   Email: Dave.Myers@oit.edu
+   Username: Dave.Myers
+   Phone: (541) 281-0731
+   Original line: Dave Myers Head Coach Dave.Myers@oit.edu (541) 281-0731
+
+10. Jeff Corkill
+   Email: Jeff.Corkill@oit.edu
+   Username: Jeff.Corkill
+   Phone: 541.892.4815
+   Original line: Jeff Corkill Assistant Coach Jeff.Corkill@oit.edu 541.892.4815
+
+11. Sean McManamon
+   Email: sean.mcmanamon@oit.edu
+   Username: sean.mcmanamon
+   Phone: (541) 885-0583
+   Original line: Sean McManamon Head Coach sean.mcmanamon@oit.edu 541-885-0583
+
+12. Tom Moore
+   Email: tom.moore@oit.edu
+   Username: tom.moore
+   Phone: (541) 885-0152
+   Original line: Tom Moore Head Coach tom.moore@oit.edu 541-885-0152
+
+13. Greg Stewart
+   Email: Greg.Stewart@oit.edu
+   Username: Greg.Stewart
+   Phone: (541) 885-1629
+   Original line: Greg Stewart Associate Director of Athletics / Head Coach Greg.Stewart@oit.edu 541-885-1629
+
+14. Mike Anderson
+   Email: mike.anderson@oit.edu
+   Username: mike.anderson
+   Original line: Mike Anderson Head Coach mike.anderson@oit.edu
+
+15. Bill Reinhard
+   Email: William.Reinhard@oit.edu
+   Username: William.Reinhard
+   Original line: Bill Reinhard Assistant Coach (Throws & Pole Vault) William.Reinhard@oit.edu
+
+16. Hunter Drops
+   Email: hunter.drops@oit.edu
+   Username: hunter.drops
+   Original line: Hunter Drops Assistant Coach hunter.drops@oit.edu
+
+17. Alexis Garrison
+   Email: alexis.garrison@oit.edu
+   Username: alexis.garrison
+   Phone: (541) 885-0582
+   Original line: Alexis Garrison Head Coach alexis.garrison@oit.edu 541-885-0582
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Greg Stewart Associate Director of Athletics / Head Coach Greg.Stewart@oit.edu 541-885-1629
+• Mitchell Fink Assistant Coach / TechRec Coordinator mitchell.fink@oit.edu (503) 709-6707
+• Ricky Walker Head Coach ricky.walker@oit.edu
+• Justin Parnell Head Men's Basketball Coach Justin.Parnell@oit.edu 541-885-1635
+• Mitchell Fink Assistant Coach / TechRec Coordinator mitchell.fink@oit.edu (503) 709-6707
+• Joy Lease Head Coach joy.lease@oit.edu 541.885.1648
+• Mike Anderson Head Coach mike.anderson@oit.edu
+• Hunter Drops Assistant Coach hunter.drops@oit.edu
+• Dave Myers Head Coach Dave.Myers@oit.edu (541) 281-0731
+• Jeff Corkill Assistant Coach Jeff.Corkill@oit.edu 541.892.4815
+• Sean McManamon Head Coach sean.mcmanamon@oit.edu 541-885-0583
+• Tom Moore Head Coach tom.moore@oit.edu 541-885-0152
+• Greg Stewart Associate Director of Athletics / Head Coach Greg.Stewart@oit.edu 541-885-1629
+• Mike Anderson Head Coach mike.anderson@oit.edu
+• Bill Reinhard Assistant Coach (Throws & Pole Vault) William.Reinhard@oit.edu
+• Hunter Drops Assistant Coach hunter.drops@oit.edu
+• Alexis Garrison Head Coach alexis.garrison@oit.edu 541-885-0582

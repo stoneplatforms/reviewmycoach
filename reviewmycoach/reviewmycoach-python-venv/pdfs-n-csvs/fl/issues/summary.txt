@@ -1,0 +1,16 @@
+Printing results: Success=31 Skipped=1 Errors=0
+
+Skipped/Failed links:
+- University of Miami.pdf: https://miamihurricanes.com/staff-directory -> Navigation failed: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://miamihurricanes.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://miamihurricanes.com/staff-directory?print=true, https://miamihurricanes.com/staff-directory/print, https://miamihurricanes.com/staff-directory, https://miamihurricanes.com/staff-directory/index?print=true, https://miamihurricanes.com/staff-directory/index/print, https://miamihurricanes.com/staff-directory/index
+
+PDFs with zero coaches detected:
+- Florida College.pdf
+- Nova Southeastern University (NSU).pdf
+- Keiser University.pdf
+- Florida International University (FIU).pdf
+- University of Tampa.pdf
+- Florida Gulf Coast University (FGCU).pdf

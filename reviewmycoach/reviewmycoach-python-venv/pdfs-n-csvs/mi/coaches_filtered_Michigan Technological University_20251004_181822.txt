@@ -1,0 +1,185 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:22
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jordan Ferguson
+   Email: jsfergus@mtu.edu
+   Username: jsfergus
+   Original line: Jordan Ferguson Head Strength & Conditioning Coach jsfergus@mtu.edu
+
+2. Robert Young
+   Email: rwyoung@mtu.edu
+   Username: rwyoung
+   Original line: Robert Young Head Coach rwyoung@mtu.edu. 906-487-
+
+3. Luke Moore
+   Email: lukem@mtu.edu
+   Username: lukem
+   Original line: Luke Moore Assistant Coach lukem@mtu.edu 906-487-
+
+4. Dan Mettlach
+   Email: djmettla@mtu.edu
+   Username: djmettla
+   Original line: Dan Mettlach Head Coach djmettla@mtu.edu 906-487-
+
+5. Phil Milbrath
+   Email: pmmilbra@mtu.edu
+   Username: pmmilbra
+   Original line: Phil Milbrath Assistant Head Coach/Special Teams Coordinator pmmilbra@mtu.edu 906-487-
+
+6. Jack Rustman
+   Email: jrustman@mtu.edu
+   Username: jrustman
+   Original line: Jack Rustman Offensive Line Coach jrustman@mtu.edu 906-487-
+
+7. JT Jurasin
+   Email: jjurasin@mtu.edu
+   Username: jjurasin
+   Original line: JT Jurasin Linebackers Coach jjurasin@mtu.edu 906-487-
+
+8. Jace Daniels
+   Email: jdaniels@mtu.edu
+   Username: jdaniels
+   Original line: Jace Daniels Defensive Line Coach jdaniels@mtu.edu 906-487-
+
+9. Blake Hewitt
+   Email: bmhewitt@mtu.edu
+   Username: bmhewitt
+   Original line: Blake Hewitt Tight Ends Coach bmhewitt@mtu.edu
+
+10. Adrian Saterstad
+   Email: ajsaters@mtu.edu
+   Username: ajsaters
+   Original line: Adrian Saterstad Assistant Defensive Line Coach ajsaters@mtu.edu
+
+11. Jordan Ferguson
+   Email: jsfergus@mtu.edu
+   Username: jsfergus
+   Original line: Jordan Ferguson Head Strength & Conditioning Coach jsfergus@mtu.edu
+
+12. Josh Buettner
+   Email: jjbuettn@mtu.edu
+   Username: jjbuettn
+   Original line: Josh Buettner Head Coach jjbuettn@mtu.edu 906-487-
+
+13. Zach Flener
+   Email: zflener@mtu.edu
+   Username: zflener
+   Original line: Zach Flener Assistant Coach zflener@mtu.edu
+
+14. Bill Muckalt
+   Email: wmuckalt@mtu.edu
+   Username: wmuckalt
+   Original line: Bill Muckalt Head Coach wmuckalt@mtu.edu
+
+15. Benton Maass
+   Email: bmaass@mtu.edu
+   Username: bmaass
+   Original line: Benton Maass Assistant Coach bmaass@mtu.edu
+
+16. LJ Scarpace
+   Email: ljscarpa@mtu.edu
+   Username: ljscarpa
+   Original line: LJ Scarpace Assistant Coach ljscarpa@mtu.edu
+
+17. Tyler Shelast
+   Email: tshelast@mtu.edu
+   Username: tshelast
+   Original line: Tyler Shelast Assistant Coach tshelast@mtu.edu 906-487-
+
+18. Mike Andrews
+   Email: miandrew@mtu.edu
+   Username: miandrew
+   Original line: Mike Andrews Head Coach miandrew@mtu.edu
+
+19. Tom Monahan
+   Email: thjsmith@mtu.edu
+   Username: thjsmith
+   Original line: Tom Monahan Smith Head Coach thjsmith@mtu.edu 906-487-
+
+20. Kristen Monahan
+   Email: kemonaha@mtu.edu
+   Username: kemonaha
+   Original line: Kristen Monahan Smith Assistant Coach kemonaha@mtu.edu 906-487-
+
+21. Robert Young
+   Email: rwyoung@mtu.edu
+   Username: rwyoung
+   Original line: Robert Young Head Coach rwyoung@mtu.edu. 906-487-
+
+22. Luke Moore
+   Email: lukem@mtu.edu
+   Username: lukem
+   Original line: Luke Moore Assistant Coach lukem@mtu.edu 906-487-
+
+23. Sam Clayton
+   Email: sjhoyt@mtu.edu
+   Username: sjhoyt
+   Original line: Sam Clayton Head Coach sjhoyt@mtu.edu 906-487-
+
+24. Elisa Pietila
+   Email: emjurmu@mtu.edu
+   Username: emjurmu
+   Original line: Elisa Pietila Assistant Head Coach emjurmu@mtu.edu 906-487-
+
+25. Melissa Kuhar
+   Email: makuhar@mtu.edu
+   Username: makuhar
+   Original line: Melissa Kuhar Head Coach makuhar@mtu.edu 906-487-
+
+26. AJ Ostrowski
+   Email: ajostrow@mtu.edu
+   Username: ajostrow
+   Original line: AJ Ostrowski Assistant Coach ajostrow@mtu.edu
+
+27. Mike Andrews
+   Email: miandrew@mtu.edu
+   Username: miandrew
+   Original line: Mike Andrews Head Coach miandrew@mtu.edu
+
+28. Cindy Pindral
+   Email: clpindra@mtu.edu
+   Username: clpindra
+   Original line: Cindy Pindral Head Coach clpindra@mtu.edu 906-487-
+
+29. Mallory Nickelson
+   Email: mnickels@mtu.edu
+   Username: mnickels
+   Original line: Mallory Nickelson Assistant Coach mnickels@mtu.edu 906-487-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jordan Ferguson Head Strength & Conditioning Coach jsfergus@mtu.edu
+• Robert Young Head Coach rwyoung@mtu.edu. 906-487-
+• Luke Moore Assistant Coach lukem@mtu.edu 906-487-
+• Dan Mettlach Head Coach djmettla@mtu.edu 906-487-
+• Phil Milbrath Assistant Head Coach/Special Teams Coordinator pmmilbra@mtu.edu 906-487-
+• Jack Rustman Offensive Line Coach jrustman@mtu.edu 906-487-
+• JT Jurasin Linebackers Coach jjurasin@mtu.edu 906-487-
+• Jace Daniels Defensive Line Coach jdaniels@mtu.edu 906-487-
+• Blake Hewitt Tight Ends Coach bmhewitt@mtu.edu
+• Adrian Saterstad Assistant Defensive Line Coach ajsaters@mtu.edu
+• Jordan Ferguson Head Strength & Conditioning Coach jsfergus@mtu.edu
+• Josh Buettner Head Coach jjbuettn@mtu.edu 906-487-
+• Zach Flener Assistant Coach zflener@mtu.edu
+• Bill Muckalt Head Coach wmuckalt@mtu.edu
+• Benton Maass Assistant Coach bmaass@mtu.edu
+• LJ Scarpace Assistant Coach ljscarpa@mtu.edu
+• Tyler Shelast Assistant Coach tshelast@mtu.edu 906-487-
+• Mike Andrews Head Coach miandrew@mtu.edu
+• Tom Monahan Smith Head Coach thjsmith@mtu.edu 906-487-
+• Kristen Monahan Smith Assistant Coach kemonaha@mtu.edu 906-487-
+• Robert Young Head Coach rwyoung@mtu.edu. 906-487-
+• Luke Moore Assistant Coach lukem@mtu.edu 906-487-
+• Sam Clayton Head Coach sjhoyt@mtu.edu 906-487-
+• Elisa Pietila Assistant Head Coach emjurmu@mtu.edu 906-487-
+• Melissa Kuhar Head Coach makuhar@mtu.edu 906-487-
+• AJ Ostrowski Assistant Coach ajostrow@mtu.edu
+• Mike Andrews Head Coach miandrew@mtu.edu
+• Cindy Pindral Head Coach clpindra@mtu.edu 906-487-
+• Mallory Nickelson Assistant Coach mnickels@mtu.edu 906-487-

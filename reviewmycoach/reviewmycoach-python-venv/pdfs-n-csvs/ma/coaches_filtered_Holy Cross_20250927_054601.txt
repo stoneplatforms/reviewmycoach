@@ -1,0 +1,455 @@
+COACH ENTRIES FOUND - 2025-09-27 05:46:01
+============================================================
+
+Total coaches found: 74
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ashley Smith
+   Email: assmith1@holycross.edu
+   Username: assmith1
+   Original line: Ashley Smith Cheerleading Coach assmith1@holycross.edu
+
+2. Luke Osberg
+   Email: losberg@holycross.edu
+   Username: losberg
+   Original line: Luke Osberg Assistant Sports Performance Coach losberg@holycross.edu
+
+3. Nicholas Stanovich
+   Email: nstanovich@holycross.edu
+   Username: nstanovich
+   Original line: Nicholas Stanovich Assistant Sports Performance Coach nstanovich@holycross.edu
+
+4. Ed Kahovec
+   Email: ekahovec@holycross.edu
+   Username: ekahovec
+   Original line: Ed Kahovec Head Coach ekahovec@holycross.edu 508-793- @EdKahovec
+
+5. Sam Tinkham
+   Email: stinkham@holycross.edu
+   Username: stinkham
+   Original line: Sam Tinkham Associate Head Coach / Recruiting stinkham@holycross.edu 508-793- @SamTinkham
+
+6. Kyle Dembrowski
+   Email: kdembrowski@holycross.edu
+   Username: kdembrowski
+   Original line: Kyle Dembrowski Assistant Coach kdembrowski@holycross.edu
+
+7. Bryson Johnson
+   Email: brjohnson@holycross.edu
+   Username: brjohnson
+   Original line: Bryson Johnson Associate Head Coach brjohnson@holycross.edu 508-793- @SirSour
+
+8. Ted Rawlings
+   Email: trawlings@holycross.edu
+   Username: trawlings
+   Original line: Ted Rawlings Assistant Coach trawlings@holycross.edu 508-793- @TeddyBallgame37
+
+9. Sydney Armand
+   Email: sarmand@holycross.edu
+   Username: sarmand
+   Original line: Sydney Armand Assistant Coach sarmand@holycross.edu 508-793-
+
+10. Colin Richey
+   Email: crichey@holycross.edu
+   Username: crichey
+   Original line: Colin Richey Assistant Coach/Director of crichey@holycross.edu 508-793-
+
+11. Kat Fogarty
+   Email: kfogarty@holycross.edu
+   Username: kfogarty
+   Original line: Kat Fogarty Assistant Coach kfogarty@holycross.edu 508-793- FogartyKat
+
+12. Anita Jennings
+   Email: ajennings@holycross.edu
+   Username: ajennings
+   Original line: Anita Jennings Assistant Coach ajennings@holycross.edu 508-793-
+
+13. Lindsay Werner
+   Email: lwerner@holycross.edu
+   Username: lwerner
+   Original line: Lindsay Werner Assistant Coach lwerner@holycross.edu 508-793-
+
+14. Stephanie Reilly
+   Email: sreilly@holycross.edu
+   Username: sreilly
+   Original line: Stephanie Reilly Associate Head Coach Cross sreilly@holycross.edu 508-793-
+
+15. Shawn McCabe
+   Email: smccabe@holycross.edu
+   Username: smccabe
+   Original line: Shawn McCabe Assistant Track & Field Coach smccabe@holycross.edu 508-793-
+
+16. Jason Sliwoski
+   Email: jsliwosk@holycross.edu
+   Username: jsliwosk
+   Original line: Jason Sliwoski Assistant Track & Field Coach jsliwosk@holycross.edu 508-793-
+
+17. Kevin Consoles
+   Email: keconsoles1@holycross.edu
+   Username: keconsoles1
+   Original line: Kevin Consoles Assistant Track & Field Coach keconsoles1@holycross.edu
+
+18. Lindsay Jackson
+   Email: ljackson@holycross.edu
+   Username: ljackson
+   Original line: Lindsay Jackson Head Coach ljackson@holycross.edu 508-793- @FHcoachJACKSON
+
+19. Maddy Carpenter
+   Email: mcarpent@holycross.edu
+   Username: mcarpent
+   Original line: Maddy Carpenter Associate Head Coach mcarpent@holycross.edu 508-793-
+
+20. Katie Devine
+   Email: kdevine@holycross.edu
+   Username: kdevine
+   Original line: Katie Devine Assistant Coach kdevine@holycross.edu
+
+21. Bryan Robbat
+   Email: brobbat@holycross.edu
+   Username: brobbat
+   Original line: Bryan Robbat Associate Head Coach / Special brobbat@holycross.edu 508-793- @CoachRobbat
+
+22. Rich Gunnell
+   Email: rgunnell@holycross.edu
+   Username: rgunnell
+   Original line: Rich Gunnell Assistant Head Coach / Wide rgunnell@holycross.edu 508-793- @CoachRG18
+
+23. Andrew Dresner
+   Email: adresner@holycross.edu
+   Username: adresner
+   Original line: Andrew Dresner Offensive Coordinator / adresner@holycross.edu 508-793- @CoachDresner
+
+24. Brian Vaganek
+   Email: bvaganek@holycross.edu
+   Username: bvaganek
+   Original line: Brian Vaganek Defensive Coordinator bvaganek@holycross.edu 508-793- @CoachVaganek
+
+25. Bo Alexander
+   Email: jalexander@holycross.edu
+   Username: jalexander
+   Original line: Bo Alexander Defensive Line Coach jalexander@holycross.edu 508-793- @CoachBoAlex
+
+26. Patrick Denecke
+   Email: pdenecke@holycross.edu
+   Username: pdenecke
+   Original line: Patrick Denecke Offensive Line Coach pdenecke@holycross.edu 508-793- @CoachDenecke
+
+27. Westin Elliott
+   Email: welliott@holycross.edu
+   Username: welliott
+   Original line: Westin Elliott Running Backs Coach welliott@holycross.edu 508-793- @CoachElliott10
+
+28. Jesse Monteiro
+   Email: jmonteiro@holycross.edu
+   Username: jmonteiro
+   Original line: Jesse Monteiro Safeties Coach jmonteiro@holycross.edu 508-793- @CoachJ_Mont
+
+29. Mike Pucko
+   Email: mpucko@holycross.edu
+   Username: mpucko
+   Original line: Mike Pucko Assistant Defensive Line Coach mpucko@holycross.edu 508-793-
+
+30. Matt Schell
+   Email: mschell@holycross.edu
+   Username: mschell
+   Original line: Matt Schell Tight Ends Coach / Pass Game mschell@holycross.edu 508-793- @CoachSchell_
+
+31. Jimmy Walsh
+   Email: jiwalsh@holycross.edu
+   Username: jiwalsh
+   Original line: Jimmy Walsh Linebackers Coach jiwalsh@holycross.edu 508-793- @Coach_JWalsh
+
+32. Dalton Daddona
+   Email: ddaddona@holycross.edu
+   Username: ddaddona
+   Original line: Dalton Daddona Offensive Quality Control ddaddona@holycross.edu @CoachDaddona
+
+33. Emil La
+   Email: elamarca@holycross.edu
+   Username: elamarca
+   Original line: Emil La Marca Assistant Linebackers Coach / elamarca@holycross.edu 508-793- @Coach_LaMarca
+
+34. Kevin Hennessey
+   Email: khennessey@holycross.edu
+   Username: khennessey
+   Original line: Kevin Hennessey Specialist Coach khennessey@holycross.edu 508-793-
+
+35. Kevin Taylor
+   Email: ktaylor@holycross.edu
+   Username: ktaylor
+   Original line: Kevin Taylor Assistant Coach ktaylor@holycross.edu
+
+36. Tim Bibaud
+   Email: tbibaud@holycross.edu
+   Username: tbibaud
+   Original line: Tim Bibaud Assistant Coach tbibaud@holycross.edu
+
+37. Connor Champoux
+   Email: cchampoux@holycross.edu
+   Username: cchampoux
+   Original line: Connor Champoux Assistant Coach cchampoux@holycross.edu
+
+38. Drew Michals
+   Email: amichals@holycross.edu
+   Username: amichals
+   Original line: Drew Michals Assistant Coach amichals@holycross.edu @drewmichals35
+
+39. Kellen Jones
+   Email: kejones1@holycross.edu
+   Username: kejones1
+   Original line: Kellen Jones Assistant Coach kejones1@holycross.edu
+
+40. Connor Mauro
+   Email: cmauro@holycross.edu
+   Username: cmauro
+   Original line: Connor Mauro Assistant Coach / Director of cmauro@holycross.edu @cmauro93
+
+41. Katie Lachapelle
+   Email: klachape@holycross.edu
+   Username: klachape
+   Original line: Katie Lachapelle Head Coach klachape@holycross.edu 508-793- @Klach08
+
+42. Janine Weber
+   Email: jaweber1@holycross.edu
+   Username: jaweber1
+   Original line: Janine Weber Assistant Coach jaweber1@holycross.edu 508-793-
+
+43. Christina Putigna
+   Email: cputigna@holycross.edu
+   Username: cputigna
+   Original line: Christina Putigna Assistant Coach cputigna@holycross.edu
+
+44. Ed Kesell
+   Email: ekesell@holycross.edu
+   Username: ekesell
+   Original line: Ed Kesell Assistant Coach / Director of ekesell@holycross.edu
+
+45. J.L. Reppert
+   Email: jreppert@holycross.edu
+   Username: jreppert
+   Original line: J.L. Reppert Head Coach jreppert@holycross.edu 508-793- @CoachRepp
+
+46. Luke Duprey
+   Email: lduprey@holycross.edu
+   Username: lduprey
+   Original line: Luke Duprey Assistant Coach lduprey@holycross.edu
+
+47. Zach Chandler
+   Email: zchandler@holycross.edu
+   Username: zchandler
+   Original line: Zach Chandler Assistant Coach zchandler@holycross.edu
+
+48. Amanda Belichick
+   Email: abelichi@holycross.edu
+   Username: abelichi
+   Original line: Amanda Belichick Head Coach abelichi@holycross.edu 508-793- @amandabelichick
+
+49. Joelle Prata
+   Email: jprata@holycross.edu
+   Username: jprata
+   Original line: Joelle Prata Associate Head Coach jprata@holycross.edu 508-793- @CoachPrata
+
+50. Addie Kent
+   Email: akent@holycross.edu
+   Username: akent
+   Original line: Addie Kent Assistant Coach akent@holycross.edu
+
+51. Jim Barr
+   Email: jbarr@holycross.edu
+   Username: jbarr
+   Original line: Jim Barr Head Coach jbarr@holycross.edu 407-694-
+
+52. Steven Sparks
+   Email: ssparks@holycross.edu
+   Username: ssparks
+   Original line: Steven Sparks Associate Head Coach ssparks@holycross.edu
+
+53. Andrea Landry
+   Email: alandry@holycross.edu
+   Username: alandry
+   Original line: Andrea Landry Head Coach alandry@holycross.edu 413-687-
+
+54. Anthony Delgreco
+   Email: adelgreco@holycross.edu
+   Username: adelgreco
+   Original line: Anthony Delgreco Associate Head Coach adelgreco@holycross.edu
+
+55. Vanessa Gabaldon
+   Email: vgabaldon@holycross.edu
+   Username: vgabaldon
+   Original line: Vanessa Gabaldon Assistant Coach vgabaldon@holycross.edu
+
+56. Matt Brown
+   Email: mabrown1@holycross.edu
+   Username: mabrown1
+   Original line: Matt Brown Head Coach mabrown1@holycross.edu
+
+57. Augusto Lima
+   Email: acaprininegraodelima@holycross.edu
+   Username: acaprininegraodelima
+   Original line: Augusto Lima Assistant Coach acaprininegraodelima@holycross.edu
+
+58. Anthony Scaravillo
+   Email: ascaravillo@holycross.edu
+   Username: ascaravillo
+   Original line: Anthony Scaravillo Assistant Coach ascaravillo@holycross.edu
+
+59. Shane Ebanks
+   Email: sebanks@holycross.edu
+   Username: sebanks
+   Original line: Shane Ebanks Assistant Coach sebanks@holycross.edu
+
+60. Ben Graham
+   Email: bgraham@holycross.edu
+   Username: bgraham
+   Original line: Ben Graham Head Coach bgraham@holycross.edu 508-793-
+
+61. Chris Wasilewski
+   Email: cwasilew@holycross.edu
+   Username: cwasilew
+   Original line: Chris Wasilewski Assistant Coach cwasilew@holycross.edu 508-793-
+
+62. Lizzie Frattaroli
+   Email: efrattaroli@holycross.edu
+   Username: efrattaroli
+   Original line: Lizzie Frattaroli Assistant Coach efrattaroli@holycross.edu 508-793-
+
+63. Natalie Caney
+   Email: ncaney@holycross.edu
+   Username: ncaney
+   Original line: Natalie Caney Assistant Coach ncaney@holycross.edu 508-793-
+
+64. Jon Ladino
+   Email: jladino@holycross.edu
+   Username: jladino
+   Original line: Jon Ladino Head Coach jladino@holycross.edu @Coach_Ladino
+
+65. Christine Akcer
+   Email: cakcer@holycross.edu
+   Username: cakcer
+   Original line: Christine Akcer Assistant Coach / Recruiting cakcer@holycross.edu @coachakcer
+
+66. Meghan Gorman
+   Email: mgorman@holycross.edu
+   Username: mgorman
+   Original line: Meghan Gorman Assistant Coach mgorman@holycross.edu
+
+67. Kristy Jones
+   Email: klmjones@holycross.edu
+   Username: klmjones
+   Original line: Kristy Jones Director of Swimming & Diving klmjones@holycross.edu 508-793- @coachjones508
+
+68. Kate Magill
+   Email: kmagill@holycross.edu
+   Username: kmagill
+   Original line: Kate Magill Assistant Coach kmagill@holycross.edu 508-793-
+
+69. Wil Aybar
+   Email: waybar@holycross.edu
+   Username: waybar
+   Original line: Wil Aybar Diving Coach waybar@holycross.edu 508-793-
+
+70. Caleb Lambert
+   Email: clambert@holycross.edu
+   Username: clambert
+   Original line: Caleb Lambert Assistant Coach clambert@holycross.edu
+
+71. William Kelleher
+   Email: wkelleher@holycross.edu
+   Username: wkelleher
+   Original line: William Kelleher Assistant Coach wkelleher@holycross.edu 508-793-
+
+72. Matthew Cribbin
+   Email: mcribbin@holycross.edu
+   Username: mcribbin
+   Original line: Matthew Cribbin Head Coach mcribbin@holycross.edu 508-793-
+
+73. Caylie Denham
+   Email: cdenham@holycross.edu
+   Username: cdenham
+   Original line: Caylie Denham Assistant Coach cdenham@holycross.edu 508-793-
+
+74. Kiya Yeoman
+   Email: kyeoman@holycross.edu
+   Username: kyeoman
+   Original line: Kiya Yeoman Assistant Coach kyeoman@holycross.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ashley Smith Cheerleading Coach assmith1@holycross.edu
+• Luke Osberg Assistant Sports Performance Coach losberg@holycross.edu
+• Nicholas Stanovich Assistant Sports Performance Coach nstanovich@holycross.edu
+• Ed Kahovec Head Coach ekahovec@holycross.edu 508-793- @EdKahovec
+• Sam Tinkham Associate Head Coach / Recruiting stinkham@holycross.edu 508-793- @SamTinkham
+• Kyle Dembrowski Assistant Coach kdembrowski@holycross.edu
+• Bryson Johnson Associate Head Coach brjohnson@holycross.edu 508-793- @SirSour
+• Ted Rawlings Assistant Coach trawlings@holycross.edu 508-793- @TeddyBallgame37
+• Sydney Armand Assistant Coach sarmand@holycross.edu 508-793-
+• Colin Richey Assistant Coach/Director of crichey@holycross.edu 508-793-
+• Kat Fogarty Assistant Coach kfogarty@holycross.edu 508-793- FogartyKat
+• Anita Jennings Assistant Coach ajennings@holycross.edu 508-793-
+• Lindsay Werner Assistant Coach lwerner@holycross.edu 508-793-
+• Stephanie Reilly Associate Head Coach Cross sreilly@holycross.edu 508-793-
+• Shawn McCabe Assistant Track & Field Coach smccabe@holycross.edu 508-793-
+• Jason Sliwoski Assistant Track & Field Coach jsliwosk@holycross.edu 508-793-
+• Kevin Consoles Assistant Track & Field Coach keconsoles1@holycross.edu
+• Lindsay Jackson Head Coach ljackson@holycross.edu 508-793- @FHcoachJACKSON
+• Maddy Carpenter Associate Head Coach mcarpent@holycross.edu 508-793-
+• Katie Devine Assistant Coach kdevine@holycross.edu
+• Bryan Robbat Associate Head Coach / Special brobbat@holycross.edu 508-793- @CoachRobbat
+• Rich Gunnell Assistant Head Coach / Wide rgunnell@holycross.edu 508-793- @CoachRG18
+• Andrew Dresner Offensive Coordinator / adresner@holycross.edu 508-793- @CoachDresner
+• Brian Vaganek Defensive Coordinator bvaganek@holycross.edu 508-793- @CoachVaganek
+• Bo Alexander Defensive Line Coach jalexander@holycross.edu 508-793- @CoachBoAlex
+• Patrick Denecke Offensive Line Coach pdenecke@holycross.edu 508-793- @CoachDenecke
+• Westin Elliott Running Backs Coach welliott@holycross.edu 508-793- @CoachElliott10
+• Jesse Monteiro Safeties Coach jmonteiro@holycross.edu 508-793- @CoachJ_Mont
+• Mike Pucko Assistant Defensive Line Coach mpucko@holycross.edu 508-793-
+• Matt Schell Tight Ends Coach / Pass Game mschell@holycross.edu 508-793- @CoachSchell_
+• Jimmy Walsh Linebackers Coach jiwalsh@holycross.edu 508-793- @Coach_JWalsh
+• Dalton Daddona Offensive Quality Control ddaddona@holycross.edu @CoachDaddona
+• Emil La Marca Assistant Linebackers Coach / elamarca@holycross.edu 508-793- @Coach_LaMarca
+• Kevin Hennessey Specialist Coach khennessey@holycross.edu 508-793-
+• Kevin Taylor Assistant Coach ktaylor@holycross.edu
+• Tim Bibaud Assistant Coach tbibaud@holycross.edu
+• Connor Champoux Assistant Coach cchampoux@holycross.edu
+• Drew Michals Assistant Coach amichals@holycross.edu @drewmichals35
+• Kellen Jones Assistant Coach kejones1@holycross.edu
+• Connor Mauro Assistant Coach / Director of cmauro@holycross.edu @cmauro93
+• Katie Lachapelle Head Coach klachape@holycross.edu 508-793- @Klach08
+• Janine Weber Assistant Coach jaweber1@holycross.edu 508-793-
+• Christina Putigna Assistant Coach cputigna@holycross.edu
+• Ed Kesell Assistant Coach / Director of ekesell@holycross.edu
+• J.L. Reppert Head Coach jreppert@holycross.edu 508-793- @CoachRepp
+• Luke Duprey Assistant Coach lduprey@holycross.edu
+• Zach Chandler Assistant Coach zchandler@holycross.edu
+• Amanda Belichick Head Coach abelichi@holycross.edu 508-793- @amandabelichick
+• Joelle Prata Associate Head Coach jprata@holycross.edu 508-793- @CoachPrata
+• Addie Kent Assistant Coach akent@holycross.edu
+• Jim Barr Head Coach jbarr@holycross.edu 407-694-
+• Steven Sparks Associate Head Coach ssparks@holycross.edu
+• Andrea Landry Head Coach alandry@holycross.edu 413-687-
+• Anthony Delgreco Associate Head Coach adelgreco@holycross.edu
+• Vanessa Gabaldon Assistant Coach vgabaldon@holycross.edu
+• Matt Brown Head Coach mabrown1@holycross.edu
+• Augusto Lima Assistant Coach acaprininegraodelima@holycross.edu
+• Anthony Scaravillo Assistant Coach ascaravillo@holycross.edu
+• Shane Ebanks Assistant Coach sebanks@holycross.edu
+• Ben Graham Head Coach bgraham@holycross.edu 508-793-
+• Chris Wasilewski Assistant Coach cwasilew@holycross.edu 508-793-
+• Lizzie Frattaroli Assistant Coach efrattaroli@holycross.edu 508-793-
+• Natalie Caney Assistant Coach ncaney@holycross.edu 508-793-
+• Jon Ladino Head Coach jladino@holycross.edu @Coach_Ladino
+• Christine Akcer Assistant Coach / Recruiting cakcer@holycross.edu @coachakcer
+• Meghan Gorman Assistant Coach mgorman@holycross.edu
+• Kristy Jones Director of Swimming & Diving klmjones@holycross.edu 508-793- @coachjones508
+• Kate Magill Assistant Coach kmagill@holycross.edu 508-793-
+• Wil Aybar Diving Coach waybar@holycross.edu 508-793-
+• Caleb Lambert Assistant Coach clambert@holycross.edu
+• William Kelleher Assistant Coach wkelleher@holycross.edu 508-793-
+• Matthew Cribbin Head Coach mcribbin@holycross.edu 508-793-
+• Caylie Denham Assistant Coach cdenham@holycross.edu 508-793-
+• Kiya Yeoman Assistant Coach kyeoman@holycross.edu

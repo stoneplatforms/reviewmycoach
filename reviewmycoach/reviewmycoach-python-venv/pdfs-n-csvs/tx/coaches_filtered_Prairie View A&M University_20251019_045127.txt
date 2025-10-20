@@ -1,0 +1,206 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:28
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. JaKeya McNeil
+   Email: jbmcneil@pvamu.edu
+   Username: jbmcneil
+   Original line: JaKeya McNeil Assistant Strength and Conditioning Coach jbmcneil@pvamu.edu
+
+2. Daniel Dulin
+   Email: dtdulin@pvamu.edu
+   Username: dtdulin
+   Phone: (936) 261-9121
+   Original line: Daniel Dulin Head Baseball Coach dtdulin@pvamu.edu 936-261-9121
+
+3. Shane Youman-Osuoha
+   Email: sdyoumanosuoha@pvamu.edu
+   Username: sdyoumanosuoha
+   Original line: Shane Youman-Osuoha Assistant Baseball Coach/Pitching sdyoumanosuoha@pvamu.edu
+
+4. Toribio Cornejo
+   Email: tpcornejo@pvamu.edu
+   Username: tpcornejo
+   Original line: Toribio Cornejo Assistant Baseball Coach/Hitting tpcornejo@pvamu.edu
+
+5. Alexander Bryan
+   Email: absturges@pvamu.edu
+   Username: absturges
+   Original line: Alexander Bryan Sturges Assistant Baseball Coach absturges@pvamu.edu
+
+6. Isaac Davila
+   Email: imdavila@pvamu.edu
+   Username: imdavila
+   Original line: Isaac Davila Assistant Baseball Coach imdavila@pvamu.edu
+
+7. Byron Smith
+   Email: bbsmith@pvamu.edu
+   Username: bbsmith
+   Original line: Byron Smith Head Men's Basketball Coach bbsmith@pvamu.edu (936) 261-
+
+8. Spencer Robertson
+   Email: sprobertson@pvamu.edu
+   Username: sprobertson
+   Original line: Spencer Robertson Assistant Men's Basketball Coach sprobertson@pvamu.edu (936) 261-
+
+9. Todd Shelton
+   Email: gtshelton@pvamu.edu
+   Username: gtshelton
+   Original line: Todd Shelton Assistant Men's Basketball Coach gtshelton@pvamu.edu
+
+10. Keith Berard
+   Email: kdberard@pvamu.edu
+   Username: kdberard
+   Original line: Keith Berard Assistant Men's Basketball Coach kdberard@pvamu.edu (936) 261-
+
+11. Donovan Greer
+   Email: djgreer@pvamu.edu
+   Username: djgreer
+   Original line: Donovan Greer Assistant Men's Basketball Coach | Operations djgreer@pvamu.edu
+
+12. Tai Dillard
+   Email: tadillard@pvamu.edu
+   Username: tadillard
+   Original line: Tai Dillard Head Women's Basketball Coach tadillard@pvamu.edu
+
+13. Plenette Pierson
+   Email: pmpierson@pvamu.edu
+   Username: pmpierson
+   Original line: Plenette Pierson Assistant Women's Basketball Coach pmpierson@pvamu.edu
+
+14. Tiffany Clark
+   Email: trclark@pvamu.edu
+   Username: trclark
+   Original line: Tiffany Clark Head Bowling Coach trclark@pvamu.edu (936) 261-
+
+15. Chris Clay
+   Email: cnclay@pvamu.edu
+   Username: cnclay
+   Original line: Chris Clay Head Men's Cross Country/Track & Field Coach cnclay@pvamu.edu (936) 261-
+
+16. Randy Washington
+   Email: rwwashington@pvamu.edu
+   Username: rwwashington
+   Original line: Randy Washington Assistant Track & Field Coach rwwashington@pvamu.edu (936) 261-
+
+17. Jared Mack
+   Email: jlmack@pvamu.edu
+   Username: jlmack
+   Phone: 936.261.3906
+   Original line: Jared Mack Assistant Track & Field Coach jlmack@pvamu.edu 936.261.3906
+
+18. Tremaine Jackson
+   Email: football@pvamu.edu
+   Username: football
+   Original line: Tremaine Jackson Head Football Coach football@pvamu.edu
+
+19. Trent Earley
+   Email: football@pvamu.edu
+   Username: football
+   Original line: Trent Earley Assistant Head Coach | Co-Defensive football@pvamu.edu
+
+20. Kapono Asuega
+   Email: klasuega@pvamu.edu
+   Username: klasuega
+   Original line: Kapono Asuega Defensive Line Coach klasuega@pvamu.edu
+
+21. Darren Garrigan
+   Email: dcgarrigan@pvamu.edu
+   Username: dcgarrigan
+   Original line: Darren Garrigan Defensive Backs Coach dcgarrigan@pvamu.edu
+
+22. Clifford Fedd
+   Email: cefedd@pvamu.edu
+   Username: cefedd
+   Original line: Clifford Fedd Running Backs Coach cefedd@pvamu.edu
+
+23. Randy Washington
+   Email: rwwashington@pvamu.edu
+   Username: rwwashington
+   Original line: Randy Washington Assistant Track & Field Coach rwwashington@pvamu.edu (936) 261-
+
+24. Jared Mack
+   Email: jlmack@pvamu.edu
+   Username: jlmack
+   Phone: 936.261.3906
+   Original line: Jared Mack Assistant Track & Field Coach jlmack@pvamu.edu 936.261.3906
+
+25. Abe García
+   Email: ragarcia@pvamu.edu
+   Username: ragarcia
+   Original line: Abe García Head Women's Soccer Coach ragarcia@pvamu.edu (936) 261-
+
+26. Celestino Albarran
+   Email: cealbarran@pvamu.edu
+   Username: cealbarran
+   Original line: Celestino Albarran Associate Head Women's Soccer Coach cealbarran@pvamu.edu (936) 261-
+
+27. Vernon Bland
+   Email: vlbland@pvamu.edu
+   Username: vlbland
+   Original line: Vernon Bland Head Softball Coach vlbland@pvamu.edu (936) 261-
+
+28. Joseph Lane
+   Email: jmlane@pvamu.edu
+   Username: jmlane
+   Original line: Joseph Lane Assistant Softball Coach jmlane@pvamu.edu (936) 261-
+
+29. Ambria Dorsey
+   Email: andorsey@pvamu.edu
+   Username: andorsey
+   Original line: Ambria Dorsey Assistant Softball Coach andorsey@pvamu.edu
+
+30. Dottie Hampton
+   Email: dahampton@pvamu.edu
+   Username: dahampton
+   Original line: Dottie Hampton Head Volleyball Coach dahampton@pvamu.edu (936) 261-
+
+31. Tim Nordensson
+   Email: tjnordensson@pvamu.edu
+   Username: tjnordensson
+   Original line: Tim Nordensson Assistant Volleyball Coach tjnordensson@pvamu.edu
+
+32. Jim Price
+   Email: jhprice@pvamu.edu
+   Username: jhprice
+   Original line: Jim Price Head Cheer Coach | Panther Dolls jhprice@pvamu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• JaKeya McNeil Assistant Strength and Conditioning Coach jbmcneil@pvamu.edu
+• Daniel Dulin Head Baseball Coach dtdulin@pvamu.edu 936-261-9121
+• Shane Youman-Osuoha Assistant Baseball Coach/Pitching sdyoumanosuoha@pvamu.edu
+• Toribio Cornejo Assistant Baseball Coach/Hitting tpcornejo@pvamu.edu
+• Alexander Bryan Sturges Assistant Baseball Coach absturges@pvamu.edu
+• Isaac Davila Assistant Baseball Coach imdavila@pvamu.edu
+• Byron Smith Head Men's Basketball Coach bbsmith@pvamu.edu (936) 261-
+• Spencer Robertson Assistant Men's Basketball Coach sprobertson@pvamu.edu (936) 261-
+• Todd Shelton Assistant Men's Basketball Coach gtshelton@pvamu.edu
+• Keith Berard Assistant Men's Basketball Coach kdberard@pvamu.edu (936) 261-
+• Donovan Greer Assistant Men's Basketball Coach | Operations djgreer@pvamu.edu
+• Tai Dillard Head Women's Basketball Coach tadillard@pvamu.edu
+• Plenette Pierson Assistant Women's Basketball Coach pmpierson@pvamu.edu
+• Tiffany Clark Head Bowling Coach trclark@pvamu.edu (936) 261-
+• Chris Clay Head Men's Cross Country/Track & Field Coach cnclay@pvamu.edu (936) 261-
+• Randy Washington Assistant Track & Field Coach rwwashington@pvamu.edu (936) 261-
+• Jared Mack Assistant Track & Field Coach jlmack@pvamu.edu 936.261.3906
+• Tremaine Jackson Head Football Coach football@pvamu.edu
+• Trent Earley Assistant Head Coach | Co-Defensive football@pvamu.edu
+• Kapono Asuega Defensive Line Coach klasuega@pvamu.edu
+• Darren Garrigan Defensive Backs Coach dcgarrigan@pvamu.edu
+• Clifford Fedd Running Backs Coach cefedd@pvamu.edu
+• Randy Washington Assistant Track & Field Coach rwwashington@pvamu.edu (936) 261-
+• Jared Mack Assistant Track & Field Coach jlmack@pvamu.edu 936.261.3906
+• Abe García Head Women's Soccer Coach ragarcia@pvamu.edu (936) 261-
+• Celestino Albarran Associate Head Women's Soccer Coach cealbarran@pvamu.edu (936) 261-
+• Vernon Bland Head Softball Coach vlbland@pvamu.edu (936) 261-
+• Joseph Lane Assistant Softball Coach jmlane@pvamu.edu (936) 261-
+• Ambria Dorsey Assistant Softball Coach andorsey@pvamu.edu
+• Dottie Hampton Head Volleyball Coach dahampton@pvamu.edu (936) 261-
+• Tim Nordensson Assistant Volleyball Coach tjnordensson@pvamu.edu
+• Jim Price Head Cheer Coach | Panther Dolls jhprice@pvamu.edu

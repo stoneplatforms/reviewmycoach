@@ -1,0 +1,34 @@
+Printing results: Success=43 Skipped=4 Errors=0
+
+Skipped/Failed links:
+- Catawba College.pdf: https://gocatawbaindians.com/staff-directory -> HTTP 404 returned
+  tried: https://gocatawbaindians.com/staff-directory?print=true, https://gocatawbaindians.com/staff-directory/print, https://gocatawbaindians.com/staff-directory, https://gocatawbaindians.com/staff-directory/index?print=true, https://gocatawbaindians.com/staff-directory/index/print, https://gocatawbaindians.com/staff-directory/index
+- Johnson & Wales University (Charlotte).pdf: https://jwusports.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jwusports.com/staff-directory/index
+Call log:
+  - navigating to "https://jwusports.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://jwusports.com/staff-directory?print=true, https://jwusports.com/staff-directory/print, https://jwusports.com/staff-directory, https://jwusports.com/staff-directory/index?print=true, https://jwusports.com/staff-directory/index/print, https://jwusports.com/staff-directory/index
+- St. Andrews University.pdf: https://saintaathletics.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://saintaathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://saintaathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://saintaathletics.com/staff-directory?print=true, https://saintaathletics.com/staff-directory/print, https://saintaathletics.com/staff-directory, https://saintaathletics.com/staff-directory/index?print=true, https://saintaathletics.com/staff-directory/index/print, https://saintaathletics.com/staff-directory/index
+- Mars Hill University.pdf: https://marshilllions.com/staff-directory -> Navigation failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://marshilllions.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://marshilllions.com/staff-directory?print=true, https://marshilllions.com/staff-directory/print, https://marshilllions.com/staff-directory, https://marshilllions.com/staff-directory/index?print=true, https://marshilllions.com/staff-directory/index/print, https://marshilllions.com/staff-directory/index
+
+PDFs with zero coaches detected:
+- Duke University.pdf
+- Fayetteville State University.pdf
+- Methodist University.pdf
+- Wake Forest University.pdf
+- Campbell University.pdf
+- UNC Pembroke.pdf
+- Davidson College.pdf
+- North Carolina State University (NC State).pdf
+- Winston-Salem State University.pdf
+
+PDFs flagged as low-quality parsing:
+- East Carolina University.pdf

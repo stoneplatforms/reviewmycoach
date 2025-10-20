@@ -1,0 +1,253 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:17
+============================================================
+
+Total coaches found: 38
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jayson Artaz
+   Email: jartaz@bethelks.edu
+   Username: jartaz
+   Phone: (316) 284-5283
+   Original line: Jayson Artaz Head Coach jartaz@bethelks.edu 316-284-5283 jaysonartaz
+
+2. Eric Reid
+   Email: ereid@bethelks.edu
+   Username: ereid
+   Original line: Eric Reid Assistant Coach ereid@bethelks.edu
+
+3. Cody Cape
+   Email: ccape@bethelks.edu
+   Username: ccape
+   Original line: Cody Cape Assistant Coach ccape@bethelks.edu
+
+4. Jared Mocaby
+   Email: jmocaby@bethelks.edu
+   Username: jmocaby
+   Original line: Jared Mocaby Assistant Coach jmocaby@bethelks.edu
+
+5. Jara Shoemaker
+   Email: jshoemaker@bethelks.edu
+   Username: jshoemaker
+   Original line: Jara Shoemaker Head Coach jshoemaker@bethelks.edu
+
+6. Rocky Lamar
+   Email: rlamar@bethelks.edu
+   Username: rlamar
+   Phone: (316) 284-5311
+   Original line: Rocky Lamar Assistant Coach rlamar@bethelks.edu 316-284-5311
+
+7. David Bertholf
+   Email: dbertholf@bethelks.edu
+   Username: dbertholf
+   Original line: David Bertholf Assistant Coach dbertholf@bethelks.edu
+
+8. Ciara Schott
+   Email: cschott@bethelks.edu
+   Username: cschott
+   Original line: Ciara Schott Head Coach cschott@bethelks.edu
+
+9. Julio Martinez
+   Email: jmartinez@bethelks.edu
+   Username: jmartinez
+   Original line: Julio Martinez Head Coach jmartinez@bethelks.edu
+
+10. Katelyn Wilson
+   Email: kdwilson@bethelks.edu
+   Username: kdwilson
+   Original line: Katelyn Wilson Assistant Coach kdwilson@bethelks.edu
+
+11. Julio Martinez
+   Email: jmartinez@bethelks.edu
+   Username: jmartinez
+   Original line: Julio Martinez Head Coach jmartinez@bethelks.edu
+
+12. Katelyn Wilson
+   Email: kdwilson@bethelks.edu
+   Username: kdwilson
+   Original line: Katelyn Wilson Assistant Coach kdwilson@bethelks.edu
+
+13. Kiley McCord
+   Email: kmccord@bethelks.edu
+   Username: kmccord
+   Phone: (316) 284-5296
+   Original line: Kiley McCord Head Coach kmccord@bethelks.edu 316-284-5296
+
+14. Josh Lawson
+   Email: jlawson@bethelks.edu
+   Username: jlawson
+   Phone: (316) 284-5392
+   Original line: Josh Lawson Head Coach jlawson@bethelks.edu 316-284-5392 jwlawson1
+
+15. Kade Miller
+   Email: kmiller@bethelks.edu
+   Username: kmiller
+   Original line: Kade Miller Assistant Head Coach / Linebackers kmiller@bethelks.edu
+
+16. Andrew Tisdale
+   Email: atisdale@bethelks.edu
+   Username: atisdale
+   Original line: Andrew Tisdale Tight Ends atisdale@bethelks.edu CoachTizzy
+
+17. Felicia Teeter
+   Email: fteeter@bethelks.edu
+   Username: fteeter
+   Phone: (316) 284-5386
+   Original line: Felicia Teeter Head Coach fteeter@bethelks.edu 316-284-5386
+
+18. Gregg Dick
+   Email: greggd@bethelks.edu
+   Username: greggd
+   Phone: (316) 284-5277
+   Original line: Gregg Dick Head Coach greggd@bethelks.edu 316-284-5277
+
+19. David Bertholf
+   Email: dbertholf@bethelks.edu
+   Username: dbertholf
+   Phone: (316) 284-5495
+   Original line: David Bertholf Head Coach dbertholf@bethelks.edu 316-284-5495
+
+20. Kyle Wilson
+   Email: kwilson@bethelks.edu
+   Username: kwilson
+   Phone: (316) 284-5385
+   Original line: Kyle Wilson Head Coach kwilson@bethelks.edu 316-284-5385
+
+21. Julio Martinez
+   Email: jmartinez@bethelks.edu
+   Username: jmartinez
+   Original line: Julio Martinez Assistant Coach/Distance Runners jmartinez@bethelks.edu
+
+22. Katelyn Wilson
+   Email: kdwilson@bethelks.edu
+   Username: kdwilson
+   Original line: Katelyn Wilson Assistant Coach kdwilson@bethelks.edu
+
+23. Kyle Wilson
+   Email: kwilson@bethelks.edu
+   Username: kwilson
+   Phone: (316) 284-5385
+   Original line: Kyle Wilson Head Coach kwilson@bethelks.edu 316-284-5385
+
+24. Julio Martinez
+   Email: jmartinez@bethelks.edu
+   Username: jmartinez
+   Original line: Julio Martinez Assistant Coach/Distance Runners jmartinez@bethelks.edu
+
+25. Katelyn Wilson
+   Email: kdwilson@bethelks.edu
+   Username: kdwilson
+   Original line: Katelyn Wilson Assistant Coach kdwilson@bethelks.edu
+
+26. Juan Zamora
+   Email: jzamora@bethelks.edu
+   Username: jzamora
+   Original line: Juan Zamora Head Coach jzamora@bethelks.edu
+
+27. James Lipocky
+   Email: jlipocky@bethelks.edu
+   Username: jlipocky
+   Original line: James Lipocky Head Coach jlipocky@bethelks.edu
+
+28. David Middleton
+   Email: dmiddleton@bethelks.edu
+   Username: dmiddleton
+   Phone: (316) 284-5263
+   Original line: David Middleton Head Coach dmiddleton@bethelks.edu 316-284-5263
+
+29. Stacy Middleton
+   Email: smiddleton@bethelks.edu
+   Username: smiddleton
+   Phone: (316) 284-5218
+   Original line: Stacy Middleton Assistant Coach smiddleton@bethelks.edu 316-284-5218
+
+30. Anthony Gonzalez
+   Email: agonzalez@bethelks.edu
+   Username: agonzalez
+   Original line: Anthony Gonzalez Assistant Coach agonzalez@bethelks.edu
+
+31. Michael McKelpin
+   Email: mmckelpin@bethelks.edu
+   Username: mmckelpin
+   Original line: Michael McKelpin Assistant Coach mmckelpin@bethelks.edu
+
+32. Jami Minnick
+   Email: jminnick@bethelks.edu
+   Username: jminnick
+   Original line: Jami Minnick Pitching Coach jminnick@bethelks.edu
+
+33. Gabe Johnson
+   Email: gjohnson@bethelks.edu
+   Username: gjohnson
+   Phone: (316) 284-5395
+   Original line: Gabe Johnson Head Coach gjohnson@bethelks.edu 316-284-5395
+
+34. Jordan Singh
+   Email: jsingh@bethelks.edu
+   Username: jsingh
+   Original line: Jordan Singh Assistant Coach jsingh@bethelks.edu
+
+35. Gabe Johnson
+   Email: gjohnson@bethelks.edu
+   Username: gjohnson
+   Phone: (316) 284-5395
+   Original line: Gabe Johnson Head Coach gjohnson@bethelks.edu 316-284-5395
+
+36. Jordan Singh
+   Email: jsingh@bethelks.edu
+   Username: jsingh
+   Original line: Jordan Singh Assistant Coach jsingh@bethelks.edu
+
+37. Adriana Leake
+   Email: aleake@bethelks.edu
+   Username: aleake
+   Phone: (316) 284-5383
+   Original line: Adriana Leake Head Coach aleake@bethelks.edu 316-284-5383
+
+38. Kara Robeson
+   Email: krobeson@bethelks.edu
+   Username: krobeson
+   Original line: Kara Robeson Assistant Coach krobeson@bethelks.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jayson Artaz Head Coach jartaz@bethelks.edu 316-284-5283 jaysonartaz
+• Eric Reid Assistant Coach ereid@bethelks.edu
+• Cody Cape Assistant Coach ccape@bethelks.edu
+• Jared Mocaby Assistant Coach jmocaby@bethelks.edu
+• Jara Shoemaker Head Coach jshoemaker@bethelks.edu
+• Rocky Lamar Assistant Coach rlamar@bethelks.edu 316-284-5311
+• David Bertholf Assistant Coach dbertholf@bethelks.edu
+• Ciara Schott Head Coach cschott@bethelks.edu
+• Julio Martinez Head Coach jmartinez@bethelks.edu
+• Katelyn Wilson Assistant Coach kdwilson@bethelks.edu
+• Julio Martinez Head Coach jmartinez@bethelks.edu
+• Katelyn Wilson Assistant Coach kdwilson@bethelks.edu
+• Kiley McCord Head Coach kmccord@bethelks.edu 316-284-5296
+• Josh Lawson Head Coach jlawson@bethelks.edu 316-284-5392 jwlawson1
+• Kade Miller Assistant Head Coach / Linebackers kmiller@bethelks.edu
+• Andrew Tisdale Tight Ends atisdale@bethelks.edu CoachTizzy
+• Felicia Teeter Head Coach fteeter@bethelks.edu 316-284-5386
+• Gregg Dick Head Coach greggd@bethelks.edu 316-284-5277
+• David Bertholf Head Coach dbertholf@bethelks.edu 316-284-5495
+• Kyle Wilson Head Coach kwilson@bethelks.edu 316-284-5385
+• Julio Martinez Assistant Coach/Distance Runners jmartinez@bethelks.edu
+• Katelyn Wilson Assistant Coach kdwilson@bethelks.edu
+• Kyle Wilson Head Coach kwilson@bethelks.edu 316-284-5385
+• Julio Martinez Assistant Coach/Distance Runners jmartinez@bethelks.edu
+• Katelyn Wilson Assistant Coach kdwilson@bethelks.edu
+• Juan Zamora Head Coach jzamora@bethelks.edu
+• James Lipocky Head Coach jlipocky@bethelks.edu
+• David Middleton Head Coach dmiddleton@bethelks.edu 316-284-5263
+• Stacy Middleton Assistant Coach smiddleton@bethelks.edu 316-284-5218
+• Anthony Gonzalez Assistant Coach agonzalez@bethelks.edu
+• Michael McKelpin Assistant Coach mmckelpin@bethelks.edu
+• Jami Minnick Pitching Coach jminnick@bethelks.edu
+• Gabe Johnson Head Coach gjohnson@bethelks.edu 316-284-5395
+• Jordan Singh Assistant Coach jsingh@bethelks.edu
+• Gabe Johnson Head Coach gjohnson@bethelks.edu 316-284-5395
+• Jordan Singh Assistant Coach jsingh@bethelks.edu
+• Adriana Leake Head Coach aleake@bethelks.edu 316-284-5383
+• Kara Robeson Assistant Coach krobeson@bethelks.edu

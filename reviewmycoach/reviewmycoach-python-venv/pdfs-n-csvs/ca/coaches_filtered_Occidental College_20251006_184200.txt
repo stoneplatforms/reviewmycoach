@@ -1,0 +1,317 @@
+COACH ENTRIES FOUND - 2025-10-06 18:42:00
+============================================================
+
+Total coaches found: 51
+
+PARSED ENTRIES:
+----------------------------------------
+1. Anahit Aladzhanyan
+   Email: aaladzhanyan@oxy.edu
+   Username: aaladzhanyan
+   Original line: Anahit Aladzhanyan Associate Athletic Director for Budget & Finance / SWA / Head Coach aaladzhanyan@oxy.edu 323 341
+
+2. Robert Bartlett
+   Email: rbartlett@oxy.edu
+   Username: rbartlett
+   Original line: Robert Bartlett Assistant Athletic Director for Compliance / Head Coach rbartlett@oxy.edu 323 259
+
+3. Colm McFeely
+   Email: cmcfeely@oxy.edu
+   Username: cmcfeely
+   Original line: Colm McFeely Assistant Athletic Director / Head Coach cmcfeely@oxy.edu 323 259
+
+4. Will Morris
+   Email: wmorris@oxy.edu
+   Username: wmorris
+   Original line: Will Morris Head Coach / Wellness and Fitness Coordinator wmorris@oxy.edu 323 259
+
+5. Diego Ramirez
+   Email: dramirez6@oxy.edu
+   Username: dramirez6
+   Original line: Diego Ramirez Athletics Communications Assistant / Mental Skills Coach dramirez6@oxy.edu
+
+6. Tyler Yamaguchi
+   Email: tyamaguchi@oxy.edu
+   Username: tyamaguchi
+   Original line: Tyler Yamaguchi Assistant Coach Men's and Women's Track & Field / Strength and tyamaguchi@oxy.edu 323 259
+
+7. David Foley
+   Email: foley@oxy.edu
+   Username: foley
+   Original line: David Foley Assistant Coach Men's and Women's Track & Field / Assistant Strength foley@oxy.edu 323 341
+
+8. Kebu Stewart
+   Email: kstewart2@oxy.edu
+   Username: kstewart2
+   Original line: Kebu Stewart Assistant Coach / Recruiting Coordinator / Strength & Conditioning kstewart2@oxy.edu 213 923
+
+9. Sierra Slack
+   Email: slacks@oxy.edu
+   Username: slacks
+   Original line: Sierra Slack Head Coach / Assistant Strength Coach slacks@oxy.edu
+
+10. Chris Hipa
+   Email: hipa@oxy.edu
+   Username: hipa
+   Original line: Chris Hipa Head Coach / Assistant Strength Coach hipa@oxy.edu
+
+11. Eric Phillips
+   Email: ephillips2@oxy.edu
+   Username: ephillips2
+   Original line: Eric Phillips Assistant Strength Coach ephillips2@oxy.edu
+
+12. Ryan Zaffino
+   Email: zaffino@oxy.edu
+   Username: zaffino
+   Original line: Ryan Zaffino Assistant Strength Coach zaffino@oxy.edu
+
+13. Jacob Murray
+   Email: jmurray2@oxy.edu
+   Username: jmurray2
+   Original line: Jacob Murray Assistant Strength Coach jmurray2@oxy.edu
+
+14. Luke Wetmore
+   Email: wetmorel@oxy.edu
+   Username: wetmorel
+   Original line: Luke Wetmore Head Coach wetmorel@oxy.edu 323 259
+
+15. Cameron McMullen
+   Email: cmcmullen@oxy.edu
+   Username: cmcmullen
+   Original line: Cameron McMullen Assistant Coach / Recruiting Coordinator cmcmullen@oxy.edu
+
+16. Diego Ramirez
+   Email: dramirez6@oxy.edu
+   Username: dramirez6
+   Original line: Diego Ramirez Athletics Communications Assistant / Mental Skills Coach dramirez6@oxy.edu
+
+17. Brian Newhall
+   Email: bnewhall@oxy.edu
+   Username: bnewhall
+   Original line: Brian Newhall Head Coach bnewhall@oxy.edu 323 259
+
+18. Kebu Stewart
+   Email: kstewart2@oxy.edu
+   Username: kstewart2
+   Original line: Kebu Stewart Assistant Coach / Recruiting Coordinator / Strength & Conditioning kstewart2@oxy.edu 213 923
+
+19. Dominic Maynes
+   Email: maynes@oxy.edu
+   Username: maynes
+   Original line: Dominic Maynes Assistant Coach / Director of Player Development maynes@oxy.edu
+
+20. Anahit Aladzhanyan
+   Email: aaladzhanyan@oxy.edu
+   Username: aaladzhanyan
+   Original line: Anahit Aladzhanyan Associate Athletic Director for Budget & Finance / SWA / Head Coach aaladzhanyan@oxy.edu 323 341
+
+21. Isaiah Flowers
+   Email: gatewoodflow@oxy.edu
+   Username: gatewoodflow
+   Original line: Isaiah Flowers Assistant Coach gatewoodflow@oxy.edu
+
+22. Alma Garcia
+   Email: agarcia4@oxy.edu
+   Username: agarcia4
+   Original line: Alma Garcia Assistant Coach agarcia4@oxy.edu
+
+23. Amanda Foster
+   Email: afoster2@oxy.edu
+   Username: afoster2
+   Original line: Amanda Foster Assistant Coach afoster2@oxy.edu
+
+24. Robert Bartlett
+   Email: rbartlett@oxy.edu
+   Username: rbartlett
+   Original line: Robert Bartlett Assistant Athletic Director for Compliance / Head Coach rbartlett@oxy.edu 323 259
+
+25. David Foley
+   Email: foley@oxy.edu
+   Username: foley
+   Original line: David Foley Assistant Coach Men's and Women's Track & Field / Assistant Strength foley@oxy.edu 323 341
+
+26. Will Morris
+   Email: wmorris@oxy.edu
+   Username: wmorris
+   Original line: Will Morris Head Coach / Wellness and Fitness Coordinator wmorris@oxy.edu 323 259
+
+27. Joe Cano
+   Email: jcano@oxy.edu
+   Username: jcano
+   Original line: Joe Cano Swing Coach jcano@oxy.edu 323 259
+
+28. Sierra Slack
+   Email: slacks@oxy.edu
+   Username: slacks
+   Original line: Sierra Slack Head Coach / Assistant Strength Coach slacks@oxy.edu
+
+29. Boz Crowther
+   Email: crowther@oxy.edu
+   Username: crowther
+   Original line: Boz Crowther Assistant Coach crowther@oxy.edu
+
+30. Rod Lafaurie
+   Email: lafaurie@oxy.edu
+   Username: lafaurie
+   Original line: Rod Lafaurie Head Coach lafaurie@oxy.edu 323 341
+
+31. Brian Wright
+   Email: bwright2@oxy.edu
+   Username: bwright2
+   Original line: Brian Wright Assistant Coach bwright2@oxy.edu 626 831
+
+32. Fabien Segalini
+   Email: fsegalini@oxy.edu
+   Username: fsegalini
+   Original line: Fabien Segalini Goalkeepers Coach fsegalini@oxy.edu
+
+33. Christian Chavarria
+   Email: cchavarria@oxy.edu
+   Username: cchavarria
+   Original line: Christian Chavarria Assistant Coach cchavarria@oxy.edu
+
+34. Colm McFeely
+   Email: cmcfeely@oxy.edu
+   Username: cmcfeely
+   Original line: Colm McFeely Assistant Athletic Director / Head Coach cmcfeely@oxy.edu 323 259
+
+35. Jaime Acuna
+   Email: jacuna@oxy.edu
+   Username: jacuna
+   Original line: Jaime Acuna Assistant Coach jacuna@oxy.edu
+
+36. Chris Hipa
+   Email: hipa@oxy.edu
+   Username: hipa
+   Original line: Chris Hipa Head Coach / Assistant Strength Coach hipa@oxy.edu
+
+37. Roy Johnson
+   Email: rjohnson2@oxy.edu
+   Username: rjohnson2
+   Original line: Roy Johnson Assistant Coach rjohnson2@oxy.edu
+
+38. Haley Meryl
+   Email: hmeryl@oxy.edu
+   Username: hmeryl
+   Original line: Haley Meryl Head Coach hmeryl@oxy.edu 845 913
+
+39. Beau Brauer
+   Email: brauerb@oxy.edu
+   Username: brauerb
+   Original line: Beau Brauer Assistant Coach brauerb@oxy.edu
+
+40. Stephen Perkins
+   Email: sperkins@oxy.edu
+   Username: sperkins
+   Original line: Stephen Perkins Director of Tennis / Head Women's Coach sperkins@oxy.edu
+
+41. Jackson Frons
+   Email: frons@oxy.edu
+   Username: frons
+   Original line: Jackson Frons Associate Head Coach frons@oxy.edu
+
+42. Stephen Perkins
+   Email: sperkins@oxy.edu
+   Username: sperkins
+   Original line: Stephen Perkins Director of Tennis / Head Women's Coach sperkins@oxy.edu
+
+43. Robert Bartlett
+   Email: rbartlett@oxy.edu
+   Username: rbartlett
+   Original line: Robert Bartlett Assistant Athletic Director for Compliance / Head Coach rbartlett@oxy.edu 323 259
+
+44. Tyler Yamaguchi
+   Email: tyamaguchi@oxy.edu
+   Username: tyamaguchi
+   Original line: Tyler Yamaguchi Assistant Coach Men's and Women's Track & Field / Strength and tyamaguchi@oxy.edu 323 259
+
+45. David Foley
+   Email: foley@oxy.edu
+   Username: foley
+   Original line: David Foley Assistant Coach Men's and Women's Track & Field / Assistant Strength foley@oxy.edu 323 341
+
+46. Andy Steben
+   Email: steben@oxy.edu
+   Username: steben
+   Original line: Andy Steben Pole Vault Coach steben@oxy.edu
+
+47. Emily Foster
+   Email: efoster2@oxy.edu
+   Username: efoster2
+   Original line: Emily Foster Head Coach efoster2@oxy.edu
+
+48. Stephen Bernabe
+   Email: bernabe@oxy.edu
+   Username: bernabe
+   Original line: Stephen Bernabe Assistant Coach bernabe@oxy.edu
+
+49. Lindsey Garcia
+   Email: lgarcia5@oxy.edu
+   Username: lgarcia5
+   Original line: Lindsey Garcia Head Coach lgarcia5@oxy.edu 323 259
+
+50. Tatiana Cava
+   Email: cava@oxy.edu
+   Username: cava
+   Original line: Tatiana Cava Assistant Coach cava@oxy.edu
+
+51. Martin Ortega
+   Email: ortegajennison@oxy.edu
+   Username: ortegajennison
+   Original line: Martin Ortega Jennison Assistant Coach ortegajennison@oxy.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Anahit Aladzhanyan Associate Athletic Director for Budget & Finance / SWA / Head Coach aaladzhanyan@oxy.edu 323 341
+• Robert Bartlett Assistant Athletic Director for Compliance / Head Coach rbartlett@oxy.edu 323 259
+• Colm McFeely Assistant Athletic Director / Head Coach cmcfeely@oxy.edu 323 259
+• Will Morris Head Coach / Wellness and Fitness Coordinator wmorris@oxy.edu 323 259
+• Diego Ramirez Athletics Communications Assistant / Mental Skills Coach dramirez6@oxy.edu
+• Tyler Yamaguchi Assistant Coach Men's and Women's Track & Field / Strength and tyamaguchi@oxy.edu 323 259
+• David Foley Assistant Coach Men's and Women's Track & Field / Assistant Strength foley@oxy.edu 323 341
+• Kebu Stewart Assistant Coach / Recruiting Coordinator / Strength & Conditioning kstewart2@oxy.edu 213 923
+• Sierra Slack Head Coach / Assistant Strength Coach slacks@oxy.edu
+• Chris Hipa Head Coach / Assistant Strength Coach hipa@oxy.edu
+• Eric Phillips Assistant Strength Coach ephillips2@oxy.edu
+• Ryan Zaffino Assistant Strength Coach zaffino@oxy.edu
+• Jacob Murray Assistant Strength Coach jmurray2@oxy.edu
+• Luke Wetmore Head Coach wetmorel@oxy.edu 323 259
+• Cameron McMullen Assistant Coach / Recruiting Coordinator cmcmullen@oxy.edu
+• Diego Ramirez Athletics Communications Assistant / Mental Skills Coach dramirez6@oxy.edu
+• Brian Newhall Head Coach bnewhall@oxy.edu 323 259
+• Kebu Stewart Assistant Coach / Recruiting Coordinator / Strength & Conditioning kstewart2@oxy.edu 213 923
+• Dominic Maynes Assistant Coach / Director of Player Development maynes@oxy.edu
+• Anahit Aladzhanyan Associate Athletic Director for Budget & Finance / SWA / Head Coach aaladzhanyan@oxy.edu 323 341
+• Isaiah Flowers Assistant Coach gatewoodflow@oxy.edu
+• Alma Garcia Assistant Coach agarcia4@oxy.edu
+• Amanda Foster Assistant Coach afoster2@oxy.edu
+• Robert Bartlett Assistant Athletic Director for Compliance / Head Coach rbartlett@oxy.edu 323 259
+• David Foley Assistant Coach Men's and Women's Track & Field / Assistant Strength foley@oxy.edu 323 341
+• Will Morris Head Coach / Wellness and Fitness Coordinator wmorris@oxy.edu 323 259
+• Joe Cano Swing Coach jcano@oxy.edu 323 259
+• Sierra Slack Head Coach / Assistant Strength Coach slacks@oxy.edu
+• Boz Crowther Assistant Coach crowther@oxy.edu
+• Rod Lafaurie Head Coach lafaurie@oxy.edu 323 341
+• Brian Wright Assistant Coach bwright2@oxy.edu 626 831
+• Fabien Segalini Goalkeepers Coach fsegalini@oxy.edu
+• Christian Chavarria Assistant Coach cchavarria@oxy.edu
+• Colm McFeely Assistant Athletic Director / Head Coach cmcfeely@oxy.edu 323 259
+• Jaime Acuna Assistant Coach jacuna@oxy.edu
+• Chris Hipa Head Coach / Assistant Strength Coach hipa@oxy.edu
+• Roy Johnson Assistant Coach rjohnson2@oxy.edu
+• Haley Meryl Head Coach hmeryl@oxy.edu 845 913
+• Beau Brauer Assistant Coach brauerb@oxy.edu
+• Stephen Perkins Director of Tennis / Head Women's Coach sperkins@oxy.edu
+• Jackson Frons Associate Head Coach frons@oxy.edu
+• Stephen Perkins Director of Tennis / Head Women's Coach sperkins@oxy.edu
+• Robert Bartlett Assistant Athletic Director for Compliance / Head Coach rbartlett@oxy.edu 323 259
+• Tyler Yamaguchi Assistant Coach Men's and Women's Track & Field / Strength and tyamaguchi@oxy.edu 323 259
+• David Foley Assistant Coach Men's and Women's Track & Field / Assistant Strength foley@oxy.edu 323 341
+• Andy Steben Pole Vault Coach steben@oxy.edu
+• Emily Foster Head Coach efoster2@oxy.edu
+• Stephen Bernabe Assistant Coach bernabe@oxy.edu
+• Lindsey Garcia Head Coach lgarcia5@oxy.edu 323 259
+• Tatiana Cava Assistant Coach cava@oxy.edu
+• Martin Ortega Jennison Assistant Coach ortegajennison@oxy.edu

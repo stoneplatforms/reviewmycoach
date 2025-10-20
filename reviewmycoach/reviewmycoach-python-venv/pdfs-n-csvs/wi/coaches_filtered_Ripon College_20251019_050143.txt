@@ -1,0 +1,293 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:43
+============================================================
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brandon Zemke
+   Email: zemkeb@ripon.edu
+   Username: zemkeb
+   Original line: Brandon Zemke Strength And Conditioning Coach zemkeb@ripon.edu (920) 748-
+
+2. Eric Cruise
+   Email: cruisee@ripon.edu
+   Username: cruisee
+   Original line: Eric Cruise Head Baseball Coach cruisee@ripon.edu (920) 748-
+
+3. Nick Tenny
+   Email: tennyn@ripon.edu
+   Username: tennyn
+   Original line: Nick Tenny Assistant Baseball Coach tennyn@ripon.edu
+
+4. Alex Lopez
+   Email: alexander.lopez0501@gmail.com
+   Username: alexander.lopez0501
+   Original line: Alex Lopez Assistant Baseball Coach alexander.lopez0501@gmail.com
+
+5. Sam Paden
+   Email: sampaden@gmail.com
+   Username: sampaden
+   Original line: Sam Paden Assistant Baseball Coach sampaden@gmail.com
+
+6. Nick Terrell
+   Email: terrelln@ripon.edu
+   Username: terrelln
+   Original line: Nick Terrell Assistant Baseball Coach terrelln@ripon.edu
+
+7. Drew Hoffman
+   Email: hoffmana@ripon.edu
+   Username: hoffmana
+   Original line: Drew Hoffman Head Cross Country and Assistant Track & Field Coach hoffmana@ripon.edu (920) 748-
+
+8. Matthew Seeber
+   Email: seeberm@ripon.edu
+   Username: seeberm
+   Original line: Matthew Seeber Assistant Cross Country Coach seeberm@ripon.edu
+
+9. Jillian Cole
+   Email: colejm@ripon.edu
+   Username: colejm
+   Original line: Jillian Cole Assistant Cross Country Coach colejm@ripon.edu
+
+10. Patrick McConnell
+   Email: mcconnellp@ripon.edu
+   Username: mcconnellp
+   Original line: Patrick McConnell Assistant Esports Coach mcconnellp@ripon.edu (920) 748-
+
+11. Jake Marshall
+   Email: marshallj@ripon.edu
+   Username: marshallj
+   Original line: Jake Marshall Head Football Coach/Offensive Coordinator/Quarterbacks marshallj@ripon.edu (920) 748-
+
+12. Mike Hepp
+   Email: heppm@ripon.edu
+   Username: heppm
+   Original line: Mike Hepp Associate Head Football Coach, Defensive Coordinator, and heppm@ripon.edu (920) 748-
+
+13. Joe Blitstein
+   Email: blitsteinj@ripon.edu
+   Username: blitsteinj
+   Original line: Joe Blitstein Offensive Line Coach/Run Game Coordinator blitsteinj@ripon.edu
+
+14. Mike Schmitt
+   Email: SchmittM@ripon.edu
+   Username: SchmittM
+   Original line: Mike Schmitt Assistant Football Coach (Special Teams Coordinator/Jacks) SchmittM@ripon.edu
+
+15. Mike Yoder
+   Email: yoderm@ripon.edu
+   Username: yoderm
+   Original line: Mike Yoder Assistant Football Coach (Defensive Line) yoderm@ripon.edu
+
+16. Dan Lueck
+   Email: LueckD@ripon.edu
+   Username: LueckD
+   Original line: Dan Lueck Assistant Football Coach (Cornerbacks) LueckD@ripon.edu
+
+17. Jon Petkoff
+   Email: petkoffj@ripon.edu
+   Username: petkoffj
+   Original line: Jon Petkoff Assistant Football Coach (Secondary) petkoffj@ripon.edu
+
+18. Lane Barnes
+   Email: barnesl@ripon.edu
+   Username: barnesl
+   Original line: Lane Barnes Assistant Football Coach (Safeties) barnesl@ripon.edu
+
+19. Jack Dietzen
+   Email: dietzen.jack@gmail.com
+   Username: dietzen.jack
+   Original line: Jack Dietzen Assistant Football Coach dietzen.jack@gmail.com
+
+20. Connor Ramage
+   Email: ramagec@ripon.edu
+   Username: ramagec
+   Original line: Connor Ramage Assistant Football Coach ramagec@ripon.edu
+
+21. Kenny Finco
+   Email: fincok@ripon.edu
+   Username: fincok
+   Original line: Kenny Finco Head Men's Basketball Coach fincok@ripon.edu (920) 748-
+
+22. Josh Mills
+   Email: millsj@ripon.edu
+   Username: millsj
+   Original line: Josh Mills Assistant Men's Basketball Coach millsj@ripon.edu
+
+23. Tyler Dongarra
+   Email: tdog_02@icloud.com
+   Username: tdog_02
+   Original line: Tyler Dongarra Assistant Men's Basketball Coach tdog_02@icloud.com
+
+24. Jared Ruffin
+   Email: jared_ruffin@msd.k12.wi.us
+   Username: jared_ruffin
+   Original line: Jared Ruffin Assistant Men's Basketball Coach jared_ruffin@msd.k12.wi.us
+
+25. Marco Rhein
+   Email: rheinm@ripon.edu
+   Username: rheinm
+   Original line: Marco Rhein Head Men's Soccer Coach rheinm@ripon.edu (920) 748-
+
+26. David Scott
+   Email: scottd@ripon.edu
+   Username: scottd
+   Original line: David Scott Assistant Men's Soccer Coach scottd@ripon.edu
+
+27. Grace Carlson
+   Email: carlsong@ripon.edu
+   Username: carlsong
+   Original line: Grace Carlson Head Swimming & Diving Coach carlsong@ripon.edu (920) 748-
+
+28. Ben Rahlf
+   Email: rahlfb@ripon.edu
+   Username: rahlfb
+   Original line: Ben Rahlf Diving Coach rahlfb@ripon.edu
+
+29. Sam Brickley
+   Email: brickleys@ripon.edu
+   Username: brickleys
+   Original line: Sam Brickley Head Men's and Women's Tennis Coach brickleys@ripon.edu (920) 748-
+
+30. Emilia Jackson
+   Email: jacksone@ripon.edu
+   Username: jacksone
+   Original line: Emilia Jackson Head Softball Coach jacksone@ripon.edu
+
+31. Tina Delpino
+   Email: delpinot@ripon.edu
+   Username: delpinot
+   Original line: Tina Delpino Assistant Softball Coach delpinot@ripon.edu
+
+32. Gayle Luehr
+   Email: luehrg@ripon.edu
+   Username: luehrg
+   Original line: Gayle Luehr Assistant Softball Coach luehrg@ripon.edu
+
+33. Sylviann Momont
+   Email: momonts@ripon.edu
+   Username: momonts
+   Original line: Sylviann Momont Head Men's and Women's Track and Field Coach momonts@ripon.edu (920) 748-
+
+34. Drew Hoffman
+   Email: hoffmana@ripon.edu
+   Username: hoffmana
+   Original line: Drew Hoffman Head Cross Country and Assistant Track & Field Coach hoffmana@ripon.edu (920) 748-
+
+35. Ben Fisher
+   Email: fisherb@ripon.edu
+   Username: fisherb
+   Original line: Ben Fisher Assistant Track & Field Coach fisherb@ripon.edu
+
+36. Katie Astrauskas
+   Email: astrauskasc@ripon.edu
+   Username: astrauskasc
+   Original line: Katie Astrauskas Head Volleyball Coach astrauskasc@ripon.edu (920) 748-
+
+37. Maddie Koster
+   Email: kosterm@ripon.edu
+   Username: kosterm
+   Original line: Maddie Koster Assistant Volleyball Coach kosterm@ripon.edu (920) 748-
+
+38. Lauren Busalacchi
+   Email: busalacchil@ripon.edu
+   Username: busalacchil
+   Original line: Lauren Busalacchi Head Women's Basketball Coach busalacchil@ripon.edu (920) 748-
+
+39. Dave Johnson
+   Email: johnsond@ripon.edu
+   Username: johnsond
+   Original line: Dave Johnson Assistant Women's Basketball Coach johnsond@ripon.edu (715) 896-
+
+40. Megan Plantz
+   Email: plantzm@ripon.edu
+   Username: plantzm
+   Original line: Megan Plantz Assistant Women's Basketball Coach plantzm@ripon.edu
+
+41. Matt Havlovitz
+   Email: havlovitzm@wildroseschools.org
+   Username: havlovitzm
+   Original line: Matt Havlovitz Assistant Women's Basketball Coach havlovitzm@wildroseschools.org
+
+42. Evelyn Uribe
+   Email: uribee@ripon.edu
+   Username: uribee
+   Original line: Evelyn Uribe Head Women's Flag Football Coach / Athletic Business Operations uribee@ripon.edu
+
+43. Jennifer Finco
+   Email: fincoj@ripon.edu
+   Username: fincoj
+   Original line: Jennifer Finco Head Women's Soccer Coach/Title IX Coordinator fincoj@ripon.edu (920) 748-
+
+44. Mikayla Huesman
+   Email: huesmanm@ripon.edu
+   Username: huesmanm
+   Original line: Mikayla Huesman Assistant Women's Soccer Coach huesmanm@ripon.edu
+
+45. Grace Carlson
+   Email: carlsong@ripon.edu
+   Username: carlsong
+   Original line: Grace Carlson Head Swimming & Diving Coach carlsong@ripon.edu (920) 748-
+
+46. Ben Rahlf
+   Email: rahlfb@ripon.edu
+   Username: rahlfb
+   Original line: Ben Rahlf Diving Coach rahlfb@ripon.edu
+
+47. Sam Brickley
+   Email: brickleys@ripon.edu
+   Username: brickleys
+   Original line: Sam Brickley Head Men's and Women's Tennis Coach brickleys@ripon.edu (920) 748-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brandon Zemke Strength And Conditioning Coach zemkeb@ripon.edu (920) 748-
+• Eric Cruise Head Baseball Coach cruisee@ripon.edu (920) 748-
+• Nick Tenny Assistant Baseball Coach tennyn@ripon.edu
+• Alex Lopez Assistant Baseball Coach alexander.lopez0501@gmail.com
+• Sam Paden Assistant Baseball Coach sampaden@gmail.com
+• Nick Terrell Assistant Baseball Coach terrelln@ripon.edu
+• Drew Hoffman Head Cross Country and Assistant Track & Field Coach hoffmana@ripon.edu (920) 748-
+• Matthew Seeber Assistant Cross Country Coach seeberm@ripon.edu
+• Jillian Cole Assistant Cross Country Coach colejm@ripon.edu
+• Patrick McConnell Assistant Esports Coach mcconnellp@ripon.edu (920) 748-
+• Jake Marshall Head Football Coach/Offensive Coordinator/Quarterbacks marshallj@ripon.edu (920) 748-
+• Mike Hepp Associate Head Football Coach, Defensive Coordinator, and heppm@ripon.edu (920) 748-
+• Joe Blitstein Offensive Line Coach/Run Game Coordinator blitsteinj@ripon.edu
+• Mike Schmitt Assistant Football Coach (Special Teams Coordinator/Jacks) SchmittM@ripon.edu
+• Mike Yoder Assistant Football Coach (Defensive Line) yoderm@ripon.edu
+• Dan Lueck Assistant Football Coach (Cornerbacks) LueckD@ripon.edu
+• Jon Petkoff Assistant Football Coach (Secondary) petkoffj@ripon.edu
+• Lane Barnes Assistant Football Coach (Safeties) barnesl@ripon.edu
+• Jack Dietzen Assistant Football Coach dietzen.jack@gmail.com
+• Connor Ramage Assistant Football Coach ramagec@ripon.edu
+• Kenny Finco Head Men's Basketball Coach fincok@ripon.edu (920) 748-
+• Josh Mills Assistant Men's Basketball Coach millsj@ripon.edu
+• Tyler Dongarra Assistant Men's Basketball Coach tdog_02@icloud.com
+• Jared Ruffin Assistant Men's Basketball Coach jared_ruffin@msd.k12.wi.us
+• Marco Rhein Head Men's Soccer Coach rheinm@ripon.edu (920) 748-
+• David Scott Assistant Men's Soccer Coach scottd@ripon.edu
+• Grace Carlson Head Swimming & Diving Coach carlsong@ripon.edu (920) 748-
+• Ben Rahlf Diving Coach rahlfb@ripon.edu
+• Sam Brickley Head Men's and Women's Tennis Coach brickleys@ripon.edu (920) 748-
+• Emilia Jackson Head Softball Coach jacksone@ripon.edu
+• Tina Delpino Assistant Softball Coach delpinot@ripon.edu
+• Gayle Luehr Assistant Softball Coach luehrg@ripon.edu
+• Sylviann Momont Head Men's and Women's Track and Field Coach momonts@ripon.edu (920) 748-
+• Drew Hoffman Head Cross Country and Assistant Track & Field Coach hoffmana@ripon.edu (920) 748-
+• Ben Fisher Assistant Track & Field Coach fisherb@ripon.edu
+• Katie Astrauskas Head Volleyball Coach astrauskasc@ripon.edu (920) 748-
+• Maddie Koster Assistant Volleyball Coach kosterm@ripon.edu (920) 748-
+• Lauren Busalacchi Head Women's Basketball Coach busalacchil@ripon.edu (920) 748-
+• Dave Johnson Assistant Women's Basketball Coach johnsond@ripon.edu (715) 896-
+• Megan Plantz Assistant Women's Basketball Coach plantzm@ripon.edu
+• Matt Havlovitz Assistant Women's Basketball Coach havlovitzm@wildroseschools.org
+• Evelyn Uribe Head Women's Flag Football Coach / Athletic Business Operations uribee@ripon.edu
+• Jennifer Finco Head Women's Soccer Coach/Title IX Coordinator fincoj@ripon.edu (920) 748-
+• Mikayla Huesman Assistant Women's Soccer Coach huesmanm@ripon.edu
+• Grace Carlson Head Swimming & Diving Coach carlsong@ripon.edu (920) 748-
+• Ben Rahlf Diving Coach rahlfb@ripon.edu
+• Sam Brickley Head Men's and Women's Tennis Coach brickleys@ripon.edu (920) 748-

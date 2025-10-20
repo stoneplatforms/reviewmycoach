@@ -1,0 +1,125 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:10
+============================================================
+
+Total coaches found: 19
+
+PARSED ENTRIES:
+----------------------------------------
+1. Doug Whittler
+   Email: DWhittler@allenuniversity.edu
+   Username: DWhittler
+   Original line: Doug Whittler Head Men's Basketball Coach DWhittler@allenuniversity.edu 803-376-
+
+2. Olivia Gaines
+   Email: ogaines@allenuniversity.edu
+   Username: ogaines
+   Original line: Olivia Gaines Head Women's Basketball Coach ogaines@allenuniversity.edu
+
+3. Jaraski Davis
+   Email: jdavis@allenuniversity.edu
+   Username: jdavis
+   Original line: Jaraski Davis Assistant Women's Basketball Coach jdavis@allenuniversity.edu
+
+4. Cedric Pearl
+   Email: cpearl@allenuniversity.edu
+   Username: cpearl
+   Original line: Cedric Pearl Head Football Coach cpearl@allenuniversity.edu
+
+5. Gary Harper
+   Email: gharper@allenuniversity.edu
+   Username: gharper
+   Original line: Gary Harper Associate Head Coach/Defensive Line gharper@allenuniversity.edu
+
+6. Montaze McRae
+   Email: mmcrae@allenuniversity.edu
+   Username: mmcrae
+   Original line: Montaze McRae Offensive Line Coach/Recruiting mmcrae@allenuniversity.edu
+
+7. Jerrell Allen
+   Email: jdallen@allenuniversity.edu
+   Username: jdallen
+   Original line: Jerrell Allen Defensive Backs Coach jdallen@allenuniversity.edu
+
+8. Brad Hinton
+   Email: jhinton@allenuniversity.edu
+   Username: jhinton
+   Original line: Brad Hinton Wide Receivers Coach jhinton@allenuniversity.edu
+
+9. Suzette Young
+   Email: smyoung@allenuniversity.edu
+   Username: smyoung
+   Original line: Suzette Young Head Cheer Coach smyoung@allenuniversity.edu 732-822-
+
+10. Charles "Chuck"
+   Email: chaynesworth@allenuniversity.edu
+   Username: chaynesworth
+   Original line: Charles "Chuck" Haynesworth Head Women's Soccer Coach chaynesworth@allenuniversity.edu
+
+11. Kandi Krebs
+   Email: kkrebs@allenuniversity.edu
+   Username: kkrebs
+   Original line: Kandi Krebs Head Softball Coach kkrebs@allenuniversity.edu
+
+12. Quinton Blair
+   Email: qblair@allenuniversity.edu
+   Username: qblair
+   Original line: Quinton Blair Assistant Softball Coach qblair@allenuniversity.edu
+
+13. Tamisha Martin
+   Email: tmartin@allenuniversity.edu
+   Username: tmartin
+   Original line: Tamisha Martin Assistant Track & Field Coach, Jumps tmartin@allenuniversity.edu
+
+14. Brandon Lowery
+   Email: blowery@allenuniversity.edu
+   Username: blowery
+   Original line: Brandon Lowery Associate Head Track and Field Coach, blowery@allenuniversity.edu
+
+15. Tamisha Martin
+   Email: tmartin@allenuniversity.edu
+   Username: tmartin
+   Original line: Tamisha Martin Assistant Track & Field Coach, Jumps tmartin@allenuniversity.edu
+
+16. Brandon Lowery
+   Email: blowery@allenuniversity.edu
+   Username: blowery
+   Original line: Brandon Lowery Associate Head Track and Field Coach, blowery@allenuniversity.edu
+
+17. Danielle Robinson
+   Email: drobinson@allenuniversity.edu
+   Username: drobinson
+   Original line: Danielle Robinson Head Volleyball Coach drobinson@allenuniversity.edu 803-814-
+
+18. Jhi Murles
+   Email: jmurles@allenuniversity.edu
+   Username: jmurles
+   Original line: Jhi Murles Associate Head Volleyball Coach jmurles@allenuniversity.edu
+
+19. Brandon Lowery
+   Email: blowery@allenuniversity.edu
+   Username: blowery
+   Original line: Brandon Lowery Associate Head Track and Field Coach, blowery@allenuniversity.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Doug Whittler Head Men's Basketball Coach DWhittler@allenuniversity.edu 803-376-
+• Olivia Gaines Head Women's Basketball Coach ogaines@allenuniversity.edu
+• Jaraski Davis Assistant Women's Basketball Coach jdavis@allenuniversity.edu
+• Cedric Pearl Head Football Coach cpearl@allenuniversity.edu
+• Gary Harper Associate Head Coach/Defensive Line gharper@allenuniversity.edu
+• Montaze McRae Offensive Line Coach/Recruiting mmcrae@allenuniversity.edu
+• Jerrell Allen Defensive Backs Coach jdallen@allenuniversity.edu
+• Brad Hinton Wide Receivers Coach jhinton@allenuniversity.edu
+• Suzette Young Head Cheer Coach smyoung@allenuniversity.edu 732-822-
+• Charles "Chuck" Haynesworth Head Women's Soccer Coach chaynesworth@allenuniversity.edu
+• Kandi Krebs Head Softball Coach kkrebs@allenuniversity.edu
+• Quinton Blair Assistant Softball Coach qblair@allenuniversity.edu
+• Tamisha Martin Assistant Track & Field Coach, Jumps tmartin@allenuniversity.edu
+• Brandon Lowery Associate Head Track and Field Coach, blowery@allenuniversity.edu
+• Tamisha Martin Assistant Track & Field Coach, Jumps tmartin@allenuniversity.edu
+• Brandon Lowery Associate Head Track and Field Coach, blowery@allenuniversity.edu
+• Danielle Robinson Head Volleyball Coach drobinson@allenuniversity.edu 803-814-
+• Jhi Murles Associate Head Volleyball Coach jmurles@allenuniversity.edu
+• Brandon Lowery Associate Head Track and Field Coach, blowery@allenuniversity.edu

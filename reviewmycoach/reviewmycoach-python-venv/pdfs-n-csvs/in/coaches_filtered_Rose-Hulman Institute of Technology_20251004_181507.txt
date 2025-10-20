@@ -1,0 +1,23 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:07
+============================================================
+
+Total coaches found: 2
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nick Sales
+   Email: sales@rose-hulman.edu
+   Username: sales
+   Original line: Nick Sales Head Men's Basketball Coach sales@rose-hulman.edu (812) 877- @CoachSales_
+
+2. Jeff Sokol
+   Email: sokol@rose-hulman.edu
+   Username: sokol
+   Original line: Jeff Sokol Head Football Coach sokol@rose-hulman.edu (812) 877- @CoachSokolRHIT
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Nick Sales Head Men's Basketball Coach sales@rose-hulman.edu (812) 877- @CoachSales_
+• Jeff Sokol Head Football Coach sokol@rose-hulman.edu (812) 877- @CoachSokolRHIT

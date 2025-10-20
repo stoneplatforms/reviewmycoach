@@ -1,0 +1,383 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:51
+============================================================
+
+Total coaches found: 62
+
+PARSED ENTRIES:
+----------------------------------------
+1. Sam Smith
+   Email: Samuel.Smith@athletics.ucsb.edu
+   Username: Samuel.Smith
+   Original line: Sam Smith Senior Sports Performance Coach Samuel.Smith@athletics.ucsb.edu
+
+2. Spencer Afshari
+   Email: spencer.afshari@athletics.ucsb.edu
+   Username: spencer.afshari
+   Original line: Spencer Afshari Sports Performance Coach spencer.afshari@athletics.ucsb.edu
+
+3. Gloria Scipioni
+   Email: gloria.scipioni@athletics.ucsb.edu
+   Username: gloria.scipioni
+   Original line: Gloria Scipioni Sports Performance Coach gloria.scipioni@athletics.ucsb.edu
+
+4. Andrew Checketts
+   Email: andrew.checketts@athletics.ucsb.edu
+   Username: andrew.checketts
+   Original line: Andrew Checketts Head Coach andrew.checketts@athletics.ucsb.edu
+
+5. Matt Fonteno
+   Email: Matt.Fonteno@athletics.ucsb.edu
+   Username: Matt.Fonteno
+   Original line: Matt Fonteno Associate Head Coach Matt.Fonteno@athletics.ucsb.edu
+
+6. Dylan Jones
+   Email: Dylan.Jones@athletics.ucsb.edu
+   Username: Dylan.Jones
+   Original line: Dylan Jones Assistant Coach/Recruiting Coordinator Dylan.Jones@athletics.ucsb.edu
+
+7. Kyle Hunt
+   Email: kyle.hunt@athletics.ucsb.edu
+   Username: kyle.hunt
+   Original line: Kyle Hunt Assistant Coach kyle.hunt@athletics.ucsb.edu
+
+8. Joe Pasternack
+   Email: Joe.Pasternack@athletics.ucsb.edu
+   Username: Joe.Pasternack
+   Original line: Joe Pasternack Head Basketball Coach Joe.Pasternack@athletics.ucsb.edu
+
+9. Brandon Cyrus
+   Email: Brandon.Cyrus@athletics.ucsb.edu
+   Username: Brandon.Cyrus
+   Original line: Brandon Cyrus Assistant Coach Brandon.Cyrus@athletics.ucsb.edu
+
+10. Brian Eskildsen
+   Email: brian.eskildsen@athletics.ucsb.edu
+   Username: brian.eskildsen
+   Original line: Brian Eskildsen Assistant Coach brian.eskildsen@athletics.ucsb.edu
+
+11. Derek Glasser
+   Email: Derek.Glasser@athletics.ucsb.edu
+   Username: Derek.Glasser
+   Original line: Derek Glasser Assistant Coach Derek.Glasser@athletics.ucsb.edu
+
+12. Brandon Rosenthal
+   Email: brandon.rosenthal@athletics.ucsb.edu
+   Username: brandon.rosenthal
+   Original line: Brandon Rosenthal Assistant Coach brandon.rosenthal@athletics.ucsb.edu
+
+13. Chris Massoletti
+   Email: Chris.Massoletti@athletics.ucsb.edu
+   Username: Chris.Massoletti
+   Original line: Chris Massoletti Head Coach Chris.Massoletti@athletics.ucsb.edu
+
+14. Tim Vom
+   Email: menssoccer@athletics.ucsb.edu
+   Username: menssoccer
+   Original line: Tim Vom Steeg Head Coach menssoccer@athletics.ucsb.edu
+
+15. Greg Wilson
+   Email: menssoccer@athletics.ucsb.edu
+   Username: menssoccer
+   Original line: Greg Wilson Associate Head Coach menssoccer@athletics.ucsb.edu
+
+16. Matias Fernandez
+   Email: menssoccer@athletics.ucsb.edu
+   Username: menssoccer
+   Original line: Matias Fernandez Goalkeeping Coach menssoccer@athletics.ucsb.edu
+
+17. Carson Vom
+   Email: menssoccer@athletics.ucsb.edu
+   Username: menssoccer
+   Original line: Carson Vom Steeg Assistant Coach menssoccer@athletics.ucsb.edu
+
+18. Jaclyn Rosen
+   Email: jaclyn.rosen@athletics.ucsb.edu
+   Username: jaclyn.rosen
+   Original line: Jaclyn Rosen Head Coach jaclyn.rosen@athletics.ucsb.edu
+
+19. Justin Wright
+   Email: justin.wright@athletics.ucsb.edu
+   Username: justin.wright
+   Original line: Justin Wright Assistant Coach justin.wright@athletics.ucsb.edu
+
+20. Matthew Harder
+   Email: matt.harder@athletics.ucsb.edu
+   Username: matt.harder
+   Original line: Matthew Harder Assistant Coach matt.harder@athletics.ucsb.edu
+
+21. Blake Muller
+   Email: blake.muller@athletics.ucsb.edu
+   Username: blake.muller
+   Original line: Blake Muller Head Coach blake.muller@athletics.ucsb.edu
+
+22. Ryan Brown
+   Email: ryan.brown@athletics.ucsb.edu
+   Username: ryan.brown
+   Original line: Ryan Brown Assistant Coach ryan.brown@athletics.ucsb.edu
+
+23. Geoff Crosby
+   Email: geoff.crosby@athletics.ucsb.edu
+   Username: geoff.crosby
+   Original line: Geoff Crosby Volunteer Assistant Coach geoff.crosby@athletics.ucsb.edu
+
+24. PattiSue Plumer
+   Email: pattisue.plumer@athletics.ucsb.edu
+   Username: pattisue.plumer
+   Original line: PattiSue Plumer Assistant Coach (Distance) pattisue.plumer@athletics.ucsb.edu
+
+25. Mitch Modin
+   Email: mitch.modin@athletics.ucsb.edu
+   Username: mitch.modin
+   Original line: Mitch Modin Assistant Coach (Sprints/Jumps/Hurdles) mitch.modin@athletics.ucsb.edu
+
+26. Charlie Vernoy-Ging
+   Email: charlie.vernoy@athletics.ucsb.edu
+   Username: charlie.vernoy
+   Original line: Charlie Vernoy-Ging Assistant Coach (Throws) charlie.vernoy@athletics.ucsb.edu
+
+27. Bill Whitaker
+   Email: william.whitaker@athletics.ucsb.edu
+   Username: william.whitaker
+   Original line: Bill Whitaker Assistant Coach (Pole Vault) william.whitaker@athletics.ucsb.edu
+
+28. Rick McLaughlin
+   Email: RMcLaughlin@athletics.ucsb.edu
+   Username: RMcLaughlin
+   Original line: Rick McLaughlin Head Coach RMcLaughlin@athletics.ucsb.edu
+
+29. Blaine Nielsen
+   Email: Blaine.Nielsen@athletics.ucsb.edu
+   Username: Blaine.Nielsen
+   Original line: Blaine Nielsen Associate Head Coach Blaine.Nielsen@athletics.ucsb.edu
+
+30. Randy DeWeese
+   Email: randy.deweese@athletics.ucsb.edu
+   Username: randy.deweese
+   Original line: Randy DeWeese Assistant Coach randy.deweese@athletics.ucsb.edu
+
+31. Jonah Seif
+   Email: Jonah.Seif@athletics.ucsb.edu
+   Username: Jonah.Seif
+   Original line: Jonah Seif Assistant Coach Jonah.Seif@athletics.ucsb.edu
+
+32. Wolf Wigo
+   Email: Wolf.Wigo@athletics.ucsb.edu
+   Username: Wolf.Wigo
+   Original line: Wolf Wigo Head Coach Wolf.Wigo@athletics.ucsb.edu
+
+33. James Wolff
+   Email: james.wolff@athletics.ucsb.edu
+   Username: james.wolff
+   Original line: James Wolff Assistant Coach james.wolff@athletics.ucsb.edu
+
+34. PattiSue Plumer
+   Email: pattisue.plumer@athletics.ucsb.edu
+   Username: pattisue.plumer
+   Original line: PattiSue Plumer Associate Head Coach pattisue.plumer@athletics.ucsb.edu
+
+35. Renee Jimenez
+   Email: reneejimenez@ucsb.edu
+   Username: reneejimenez
+   Original line: Renee Jimenez Head Coach reneejimenez@ucsb.edu
+
+36. Chelsea Carlisle
+   Email: chelseacarlisle@ucsb.edu
+   Username: chelseacarlisle
+   Original line: Chelsea Carlisle Assistant Coach chelseacarlisle@ucsb.edu
+
+37. Dario Frias
+   Email: dfrias@ucsb.edu
+   Username: dfrias
+   Original line: Dario Frias Assistant Coach dfrias@ucsb.edu
+
+38. Kelsey Forrester
+   Email: kelseyforrester@ucsb.edu
+   Username: kelseyforrester
+   Original line: Kelsey Forrester Assistant Coach kelseyforrester@ucsb.edu
+
+39. Tina Samaniego
+   Email: tina.samaniego@athletics.ucsb.edu
+   Username: tina.samaniego
+   Original line: Tina Samaniego Assistant Coach tina.samaniego@athletics.ucsb.edu
+
+40. Paul Stumpf
+   Email: Paul.Stumpf@athletics.ucsb.edu
+   Username: Paul.Stumpf
+   Original line: Paul Stumpf Head Coach Paul.Stumpf@athletics.ucsb.edu
+
+41. Andrew Montenegro
+   Email: andrew.montenegro@athletics.ucsb.edu
+   Username: andrew.montenegro
+   Original line: Andrew Montenegro Associate Head Coach andrew.montenegro@athletics.ucsb.edu
+
+42. Patrick Mahon
+   Email: patrick.mahon@athletics.ucsb.edu
+   Username: patrick.mahon
+   Original line: Patrick Mahon Assistant Coach/Goalkeeper Coach patrick.mahon@athletics.ucsb.edu
+
+43. Jo Evans
+   Email: jo.evans@athletics.ucsb.edu
+   Username: jo.evans
+   Original line: Jo Evans Head Coach jo.evans@athletics.ucsb.edu
+
+44. Amy Hayes
+   Email: amy.hayes@athletics.ucsb.edu
+   Username: amy.hayes
+   Original line: Amy Hayes Assistant Coach amy.hayes@athletics.ucsb.edu
+
+45. Rachel Huggins
+   Email: rachel.huggins@athletics.ucsb.edu
+   Username: rachel.huggins
+   Original line: Rachel Huggins Assistant Coach rachel.huggins@athletics.ucsb.edu
+
+46. Joy Jackson
+   Email: joy.jackson@athletics.ucsb.edu
+   Username: joy.jackson
+   Original line: Joy Jackson Assistant Coach joy.jackson@athletics.ucsb.edu
+
+47. Jaclyn Rosen
+   Email: jaclyn.rosen@athletics.ucsb.edu
+   Username: jaclyn.rosen
+   Original line: Jaclyn Rosen Head Coach jaclyn.rosen@athletics.ucsb.edu
+
+48. Justin Wright
+   Email: justin.wright@athletics.ucsb.edu
+   Username: justin.wright
+   Original line: Justin Wright Assistant Coach justin.wright@athletics.ucsb.edu
+
+49. Matthew Harder
+   Email: matt.harder@athletics.ucsb.edu
+   Username: matt.harder
+   Original line: Matthew Harder Assistant Coach matt.harder@athletics.ucsb.edu
+
+50. Simon Thibodeau
+   Email: Simon.Thibodeau@athletics.ucsb.edu
+   Username: Simon.Thibodeau
+   Original line: Simon Thibodeau Head Coach Simon.Thibodeau@athletics.ucsb.edu
+
+51. Camille Kiss
+   Email: camillekiss@ucsb.edu
+   Username: camillekiss
+   Original line: Camille Kiss Assistant Coach camillekiss@ucsb.edu
+
+52. PattiSue Plumer
+   Email: pattisue.plumer@athletics.ucsb.edu
+   Username: pattisue.plumer
+   Original line: PattiSue Plumer Assistant Coach (Distance) pattisue.plumer@athletics.ucsb.edu
+
+53. Mitch Modin
+   Email: mitch.modin@athletics.ucsb.edu
+   Username: mitch.modin
+   Original line: Mitch Modin Assistant Coach (Sprints/Jumps/Hurdles) mitch.modin@athletics.ucsb.edu
+
+54. Charlie Vernoy-Ging
+   Email: charlie.vernoy@athletics.ucsb.edu
+   Username: charlie.vernoy
+   Original line: Charlie Vernoy-Ging Assistant Coach (Throws) charlie.vernoy@athletics.ucsb.edu
+
+55. Bill Whitaker
+   Email: william.whitaker@athletics.ucsb.edu
+   Username: william.whitaker
+   Original line: Bill Whitaker Assistant Coach (Pole Vault) william.whitaker@athletics.ucsb.edu
+
+56. Matt Jones
+   Email: Matt.Jones@athletics.ucsb.edu
+   Username: Matt.Jones
+   Original line: Matt Jones Head Coach Matt.Jones@athletics.ucsb.edu
+
+57. Chad Gatzlaff
+   Email: Chad.Gatzlaff@athletics.ucsb.edu
+   Username: Chad.Gatzlaff
+   Original line: Chad Gatzlaff Associate Head Coach/Recruiting Coordinator Chad.Gatzlaff@athletics.ucsb.edu
+
+58. Kat Chen
+   Email: kat.chen@athletics.ucsb.edu
+   Username: kat.chen
+   Original line: Kat Chen Assistant Coach kat.chen@athletics.ucsb.edu
+
+59. Kaeden Noble
+   Email: knoble@ucsb.edu
+   Username: knoble
+   Original line: Kaeden Noble Assistant Coach knoble@ucsb.edu
+
+60. Emma Myall
+   Email: emma.myall@athletics.ucsb.edu
+   Username: emma.myall
+   Original line: Emma Myall Head Coach emma.myall@athletics.ucsb.edu
+
+61. Jenna Olson
+   Email: jennaolson@ucsb.edu
+   Username: jennaolson
+   Original line: Jenna Olson Assistant Coach jennaolson@ucsb.edu
+
+62. PattiSue Plumer
+   Email: pattisue.plumer@athletics.ucsb.edu
+   Username: pattisue.plumer
+   Original line: PattiSue Plumer Associate Head Coach pattisue.plumer@athletics.ucsb.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Sam Smith Senior Sports Performance Coach Samuel.Smith@athletics.ucsb.edu
+• Spencer Afshari Sports Performance Coach spencer.afshari@athletics.ucsb.edu
+• Gloria Scipioni Sports Performance Coach gloria.scipioni@athletics.ucsb.edu
+• Andrew Checketts Head Coach andrew.checketts@athletics.ucsb.edu
+• Matt Fonteno Associate Head Coach Matt.Fonteno@athletics.ucsb.edu
+• Dylan Jones Assistant Coach/Recruiting Coordinator Dylan.Jones@athletics.ucsb.edu
+• Kyle Hunt Assistant Coach kyle.hunt@athletics.ucsb.edu
+• Joe Pasternack Head Basketball Coach Joe.Pasternack@athletics.ucsb.edu
+• Brandon Cyrus Assistant Coach Brandon.Cyrus@athletics.ucsb.edu
+• Brian Eskildsen Assistant Coach brian.eskildsen@athletics.ucsb.edu
+• Derek Glasser Assistant Coach Derek.Glasser@athletics.ucsb.edu
+• Brandon Rosenthal Assistant Coach brandon.rosenthal@athletics.ucsb.edu
+• Chris Massoletti Head Coach Chris.Massoletti@athletics.ucsb.edu
+• Tim Vom Steeg Head Coach menssoccer@athletics.ucsb.edu
+• Greg Wilson Associate Head Coach menssoccer@athletics.ucsb.edu
+• Matias Fernandez Goalkeeping Coach menssoccer@athletics.ucsb.edu
+• Carson Vom Steeg Assistant Coach menssoccer@athletics.ucsb.edu
+• Jaclyn Rosen Head Coach jaclyn.rosen@athletics.ucsb.edu
+• Justin Wright Assistant Coach justin.wright@athletics.ucsb.edu
+• Matthew Harder Assistant Coach matt.harder@athletics.ucsb.edu
+• Blake Muller Head Coach blake.muller@athletics.ucsb.edu
+• Ryan Brown Assistant Coach ryan.brown@athletics.ucsb.edu
+• Geoff Crosby Volunteer Assistant Coach geoff.crosby@athletics.ucsb.edu
+• PattiSue Plumer Assistant Coach (Distance) pattisue.plumer@athletics.ucsb.edu
+• Mitch Modin Assistant Coach (Sprints/Jumps/Hurdles) mitch.modin@athletics.ucsb.edu
+• Charlie Vernoy-Ging Assistant Coach (Throws) charlie.vernoy@athletics.ucsb.edu
+• Bill Whitaker Assistant Coach (Pole Vault) william.whitaker@athletics.ucsb.edu
+• Rick McLaughlin Head Coach RMcLaughlin@athletics.ucsb.edu
+• Blaine Nielsen Associate Head Coach Blaine.Nielsen@athletics.ucsb.edu
+• Randy DeWeese Assistant Coach randy.deweese@athletics.ucsb.edu
+• Jonah Seif Assistant Coach Jonah.Seif@athletics.ucsb.edu
+• Wolf Wigo Head Coach Wolf.Wigo@athletics.ucsb.edu
+• James Wolff Assistant Coach james.wolff@athletics.ucsb.edu
+• PattiSue Plumer Associate Head Coach pattisue.plumer@athletics.ucsb.edu
+• Renee Jimenez Head Coach reneejimenez@ucsb.edu
+• Chelsea Carlisle Assistant Coach chelseacarlisle@ucsb.edu
+• Dario Frias Assistant Coach dfrias@ucsb.edu
+• Kelsey Forrester Assistant Coach kelseyforrester@ucsb.edu
+• Tina Samaniego Assistant Coach tina.samaniego@athletics.ucsb.edu
+• Paul Stumpf Head Coach Paul.Stumpf@athletics.ucsb.edu
+• Andrew Montenegro Associate Head Coach andrew.montenegro@athletics.ucsb.edu
+• Patrick Mahon Assistant Coach/Goalkeeper Coach patrick.mahon@athletics.ucsb.edu
+• Jo Evans Head Coach jo.evans@athletics.ucsb.edu
+• Amy Hayes Assistant Coach amy.hayes@athletics.ucsb.edu
+• Rachel Huggins Assistant Coach rachel.huggins@athletics.ucsb.edu
+• Joy Jackson Assistant Coach joy.jackson@athletics.ucsb.edu
+• Jaclyn Rosen Head Coach jaclyn.rosen@athletics.ucsb.edu
+• Justin Wright Assistant Coach justin.wright@athletics.ucsb.edu
+• Matthew Harder Assistant Coach matt.harder@athletics.ucsb.edu
+• Simon Thibodeau Head Coach Simon.Thibodeau@athletics.ucsb.edu
+• Camille Kiss Assistant Coach camillekiss@ucsb.edu
+• PattiSue Plumer Assistant Coach (Distance) pattisue.plumer@athletics.ucsb.edu
+• Mitch Modin Assistant Coach (Sprints/Jumps/Hurdles) mitch.modin@athletics.ucsb.edu
+• Charlie Vernoy-Ging Assistant Coach (Throws) charlie.vernoy@athletics.ucsb.edu
+• Bill Whitaker Assistant Coach (Pole Vault) william.whitaker@athletics.ucsb.edu
+• Matt Jones Head Coach Matt.Jones@athletics.ucsb.edu
+• Chad Gatzlaff Associate Head Coach/Recruiting Coordinator Chad.Gatzlaff@athletics.ucsb.edu
+• Kat Chen Assistant Coach kat.chen@athletics.ucsb.edu
+• Kaeden Noble Assistant Coach knoble@ucsb.edu
+• Emma Myall Head Coach emma.myall@athletics.ucsb.edu
+• Jenna Olson Assistant Coach jennaolson@ucsb.edu
+• PattiSue Plumer Associate Head Coach pattisue.plumer@athletics.ucsb.edu

@@ -1,0 +1,333 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:48
+============================================================
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. Cally Morrill
+   Email: morrillc@lmc.edu
+   Username: morrillc
+   Phone: (828) 898-8927
+   Original line: Cally Morrill Head Women's Soccer Coach / Senior Woman Administrator (828) 898-8927 morrillc@lmc.edu
+
+2. Cam Morton
+   Email: mortonc@lmc.edu
+   Username: mortonc
+   Phone: (828) 898-8821
+   Original line: Cam Morton Assistant Men's Soccer Coach / Creative Content Manager (828) 898-8821 mortonc@lmc.edu
+
+3. Desean Motley
+   Email: motleyd@lmc.edu
+   Username: motleyd
+   Phone: (828) 898-8747
+   Original line: Desean Motley Head Men's Basketball Coach (828) 898-8747 motleyd@lmc.edu
+
+4. Alex Biggerstaff
+   Email: biggerstaffa@lmc.edu
+   Username: biggerstaffa
+   Phone: (828) 898-8855
+   Original line: Alex Biggerstaff Assistant Men's Basketball Coach (828) 898-8855 biggerstaffa@lmc.edu
+
+5. Trent Burleson
+   Email: burlesont@lmc.edu
+   Username: burlesont
+   Phone: (828) 898-2438
+   Original line: Trent Burleson Assistant Men's Basketball Coach (828) 898-2438 burlesont@lmc.edu
+
+6. Kevin Phillips
+   Email: phillipsk@lmc.edu
+   Username: phillipsk
+   Phone: (828) 898-8944
+   Original line: Kevin Phillips Assistant Men's Basketball Coach (828) 898-8944 phillipsk@lmc.edu
+
+7. Lauren Galvani
+   Email: galvanil@lmc.edu
+   Username: galvanil
+   Phone: (828) 898-2482
+   Original line: Lauren Galvani Head Women's Basketball Coach (828) 898-2482 galvanil@lmc.edu
+
+8. Margaret Harvey
+   Email: harveym@lmc.edu
+   Username: harveym
+   Phone: (828) 898-3431
+   Original line: Margaret Harvey Assistant Women's Basketball Coach (828) 898-3431 harveym@lmc.edu
+
+9. Sally Wimberley
+   Email: wimberleys@lmc.edu
+   Username: wimberleys
+   Phone: (828) 898-8779
+   Original line: Sally Wimberley Head Cheerleading Coach (828) 898-8779 wimberleys@lmc.edu
+
+10. Colton Boyette
+   Email: boyettec@lmc.edu
+   Username: boyettec
+   Original line: Colton Boyette Assistant Cheerleading Coach boyettec@lmc.edu
+
+11. Ley Fletcher
+   Email: fletcherl@lmc.edu
+   Username: fletcherl
+   Phone: (828) 898-2562
+   Original line: Ley Fletcher Head Cross Country / Track & Field Coach (828) 898-2562 fletcherl@lmc.edu
+
+12. Ley Fletcher
+   Email: fletcherl@lmc.edu
+   Username: fletcherl
+   Phone: (828) 898-2562
+   Original line: Ley Fletcher Head Cross Country / Track & Field Coach (828) 898-2562 fletcherl@lmc.edu
+
+13. Tim Hall
+   Email: hallt@lmc.edu
+   Username: hallt
+   Phone: (828) 898-3432
+   Original line: Tim Hall Director of Cycling/Head Coach (828) 898-3432 hallt@lmc.edu
+
+14. Kaysee Armstrong
+   Email: armstrongk@lmc.edu
+   Username: armstrongk
+   Phone: (828) 898-3432
+   Original line: Kaysee Armstrong Assistant Women's Cycling Coach (828) 898-3432 armstrongk@lmc.edu
+
+15. Joe Penley
+   Email: penleyj@lmc.edu
+   Username: penleyj
+   Original line: Joe Penley Assistant Men's Cycling Coach penleyj@lmc.edu
+
+16. Tim Hall
+   Email: hallt@lmc.edu
+   Username: hallt
+   Phone: (828) 898-3432
+   Original line: Tim Hall Director of Cycling/Head Coach (828) 898-3432 hallt@lmc.edu
+
+17. Kaysee Armstrong
+   Email: armstrongk@lmc.edu
+   Username: armstrongk
+   Phone: (828) 898-3432
+   Original line: Kaysee Armstrong Assistant Women's Cycling Coach (828) 898-3432 armstrongk@lmc.edu
+
+18. Victoria Bowman
+   Email: bowmanv@lmc.edu
+   Username: bowmanv
+   Phone: (727) 804-6953
+   Original line: Victoria Bowman Head Dance Coach (727) 804-6953 bowmanv@lmc.edu
+
+19. Mike Brown
+   Email: brownmi@lmc.edu
+   Username: brownmi
+   Original line: Mike Brown Head Flag Football Coach brownmi@lmc.edu
+
+20. John Grant,
+   Email: grantj@lmc.edu
+   Username: grantj
+   Phone: (828) 898-3510
+   Original line: John Grant, Jr. Head Men's Lacrosse Coach (828) 898-3510 grantj@lmc.edu
+
+21. Channing Thomas
+   Email: thomasc@lmc.edu
+   Username: thomasc
+   Phone: (828) 898-3510
+   Original line: Channing Thomas Assistant Men's Lacrosse Coach (828) 898-3510 thomasc@lmc.edu
+
+22. Jason Levesque
+   Email: levesquej@lmc.edu
+   Username: levesquej
+   Phone: (828) 898-8843
+   Original line: Jason Levesque Head Women's Lacrosse Coach (828) 898-8843 levesquej@lmc.edu
+
+23. Aaron Maas
+   Email: maasa@lmc.edu
+   Username: maasa
+   Phone: (515) 770-2397
+   Original line: Aaron Maas Head Skiing & Snowboarding Coach (515) 770-2397 maasa@lmc.edu
+
+24. Taylor Morton
+   Email: mortont@lmc.edu
+   Username: mortont
+   Phone: (828) 898-8801
+   Original line: Taylor Morton Head Men's Soccer Coach (828) 898-8801 mortont@lmc.edu
+
+25. Emmanuel Hagan
+   Email: hagane@lmc.edu
+   Username: hagane
+   Phone: (828) 898-8821
+   Original line: Emmanuel Hagan Assistant Men's Soccer Coach (828) 898-8821 hagane@lmc.edu
+
+26. Cam Morton
+   Email: mortonc@lmc.edu
+   Username: mortonc
+   Phone: (828) 898-8821
+   Original line: Cam Morton Assistant Men's Soccer Coach / Creative Content Manager (828) 898-8821 mortonc@lmc.edu
+
+27. Cally Morrill
+   Email: morrillc@lmc.edu
+   Username: morrillc
+   Phone: (828) 898-8927
+   Original line: Cally Morrill Head Women's Soccer Coach / Senior Woman Administrator (828) 898-8927 morrillc@lmc.edu
+
+28. Donye' Monroe
+   Email: monroed@lmc.edu
+   Username: monroed
+   Phone: (828) 898-8927
+   Original line: Donye' Monroe Assistant Women's Soccer Coach (828) 898-8927 monroed@lmc.edu
+
+29. Jazz Salters
+   Email: saltersj@lmc.edu
+   Username: saltersj
+   Phone: (828) 898-8927
+   Original line: Jazz Salters Assistant Women's Soccer Coach / Goalkeepers Coach (828) 898-8927 saltersj@lmc.edu
+
+30. Josh Bumgarner
+   Email: bumgarnerj@lmc.edu
+   Username: bumgarnerj
+   Phone: (828) 898-8904
+   Original line: Josh Bumgarner Head Softball Coach (828) 898-8904 bumgarnerj@lmc.edu
+
+31. Cassidy Fitzgerald
+   Email: fitzgeraldc@lmc.edu
+   Username: fitzgeraldc
+   Original line: Cassidy Fitzgerald Assistant Softball Coach fitzgeraldc@lmc.edu
+
+32. Matthew Wisniewski
+   Email: wisniewskim@lmc.edu
+   Username: wisniewskim
+   Phone: (828) 898-8706
+   Original line: Matthew Wisniewski Head Strength & Conditioning Coach (828) 898-8706 wisniewskim@lmc.edu
+
+33. Randy Bloemendaal
+   Email: bloemendaalr@lmc.edu
+   Username: bloemendaalr
+   Phone: (828) 898-8875
+   Original line: Randy Bloemendaal Head Men's & Women's Tennis Coach (828) 898-8875 bloemendaalr@lmc.edu
+
+34. Whit Moorman
+   Email: whit.tenniscoach@gmail.com
+   Username: whit.tenniscoach
+   Phone: (912) 381-1584
+   Original line: Whit Moorman Assistant Men's & Women's Tennis Coach (912) 381-1584 whit.tenniscoach@gmail.com
+
+35. Randy Bloemendaal
+   Email: bloemendaalr@lmc.edu
+   Username: bloemendaalr
+   Phone: (828) 898-8875
+   Original line: Randy Bloemendaal Head Men's & Women's Tennis Coach (828) 898-8875 bloemendaalr@lmc.edu
+
+36. Whit Moorman
+   Email: whit.tenniscoach@gmail.com
+   Username: whit.tenniscoach
+   Phone: (912) 381-1584
+   Original line: Whit Moorman Assistant Men's & Women's Tennis Coach (912) 381-1584 whit.tenniscoach@gmail.com
+
+37. Ley Fletcher
+   Email: fletcherl@lmc.edu
+   Username: fletcherl
+   Phone: (828) 898-2562
+   Original line: Ley Fletcher Head Cross Country / Track & Field Coach (828) 898-2562 fletcherl@lmc.edu
+
+38. Thomas McDonough
+   Email: mcdonought@lmc.edu
+   Username: mcdonought
+   Phone: (828) 898-2562
+   Original line: Thomas McDonough Assistant Track & Field Coach (828) 898-2562 mcdonought@lmc.edu
+
+39. Kimberley Kop
+   Email: kopk@lmc.edu
+   Username: kopk
+   Original line: Kimberley Kop Assistant Track & Field Coach kopk@lmc.edu
+
+40. Ley Fletcher
+   Email: fletcherl@lmc.edu
+   Username: fletcherl
+   Phone: (828) 898-2562
+   Original line: Ley Fletcher Head Cross Country / Track & Field Coach (828) 898-2562 fletcherl@lmc.edu
+
+41. Thomas McDonough
+   Email: mcdonought@lmc.edu
+   Username: mcdonought
+   Phone: (828) 898-2562
+   Original line: Thomas McDonough Assistant Track & Field Coach (828) 898-2562 mcdonought@lmc.edu
+
+42. Kimberley Kop
+   Email: kopk@lmc.edu
+   Username: kopk
+   Original line: Kimberley Kop Assistant Track & Field Coach kopk@lmc.edu
+
+43. Sam Albus
+   Email: albuss@lmc.edu
+   Username: albuss
+   Phone: (828) 898-8928
+   Original line: Sam Albus Head Men's Volleyball Coach / Assistant Women's Volleyball Coach (828) 898-8928 albuss@lmc.edu
+
+44. Lauren Havill
+   Email: havilll@lmc.edu
+   Username: havilll
+   Phone: (828) 898-8714
+   Original line: Lauren Havill Head Women's Volleyball Coach / Assistant Men's Volleyball Coach (828) 898-8714 havilll@lmc.edu
+
+45. Lauren Havill
+   Email: havilll@lmc.edu
+   Username: havilll
+   Phone: (828) 898-8714
+   Original line: Lauren Havill Head Women's Volleyball Coach / Assistant Men's Volleyball Coach (828) 898-8714 havilll@lmc.edu
+
+46. Sam Albus
+   Email: albuss@lmc.edu
+   Username: albuss
+   Phone: (828) 898-8928
+   Original line: Sam Albus Head Men's Volleyball Coach / Assistant Women's Volleyball Coach (828) 898-8928 albuss@lmc.edu
+
+47. Jesse Streeter
+   Email: streeterj@lmc.edu
+   Username: streeterj
+   Original line: Jesse Streeter Assistant Women's Volleyball Coach streeterj@lmc.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Cally Morrill Head Women's Soccer Coach / Senior Woman Administrator (828) 898-8927 morrillc@lmc.edu
+• Cam Morton Assistant Men's Soccer Coach / Creative Content Manager (828) 898-8821 mortonc@lmc.edu
+• Desean Motley Head Men's Basketball Coach (828) 898-8747 motleyd@lmc.edu
+• Alex Biggerstaff Assistant Men's Basketball Coach (828) 898-8855 biggerstaffa@lmc.edu
+• Trent Burleson Assistant Men's Basketball Coach (828) 898-2438 burlesont@lmc.edu
+• Kevin Phillips Assistant Men's Basketball Coach (828) 898-8944 phillipsk@lmc.edu
+• Lauren Galvani Head Women's Basketball Coach (828) 898-2482 galvanil@lmc.edu
+• Margaret Harvey Assistant Women's Basketball Coach (828) 898-3431 harveym@lmc.edu
+• Sally Wimberley Head Cheerleading Coach (828) 898-8779 wimberleys@lmc.edu
+• Colton Boyette Assistant Cheerleading Coach boyettec@lmc.edu
+• Ley Fletcher Head Cross Country / Track & Field Coach (828) 898-2562 fletcherl@lmc.edu
+• Ley Fletcher Head Cross Country / Track & Field Coach (828) 898-2562 fletcherl@lmc.edu
+• Tim Hall Director of Cycling/Head Coach (828) 898-3432 hallt@lmc.edu
+• Kaysee Armstrong Assistant Women's Cycling Coach (828) 898-3432 armstrongk@lmc.edu
+• Joe Penley Assistant Men's Cycling Coach penleyj@lmc.edu
+• Tim Hall Director of Cycling/Head Coach (828) 898-3432 hallt@lmc.edu
+• Kaysee Armstrong Assistant Women's Cycling Coach (828) 898-3432 armstrongk@lmc.edu
+• Victoria Bowman Head Dance Coach (727) 804-6953 bowmanv@lmc.edu
+• Mike Brown Head Flag Football Coach brownmi@lmc.edu
+• John Grant, Jr. Head Men's Lacrosse Coach (828) 898-3510 grantj@lmc.edu
+• Channing Thomas Assistant Men's Lacrosse Coach (828) 898-3510 thomasc@lmc.edu
+• Jason Levesque Head Women's Lacrosse Coach (828) 898-8843 levesquej@lmc.edu
+• Aaron Maas Head Skiing & Snowboarding Coach (515) 770-2397 maasa@lmc.edu
+• Taylor Morton Head Men's Soccer Coach (828) 898-8801 mortont@lmc.edu
+• Emmanuel Hagan Assistant Men's Soccer Coach (828) 898-8821 hagane@lmc.edu
+• Cam Morton Assistant Men's Soccer Coach / Creative Content Manager (828) 898-8821 mortonc@lmc.edu
+• Cally Morrill Head Women's Soccer Coach / Senior Woman Administrator (828) 898-8927 morrillc@lmc.edu
+• Donye' Monroe Assistant Women's Soccer Coach (828) 898-8927 monroed@lmc.edu
+• Jazz Salters Assistant Women's Soccer Coach / Goalkeepers Coach (828) 898-8927 saltersj@lmc.edu
+• Josh Bumgarner Head Softball Coach (828) 898-8904 bumgarnerj@lmc.edu
+• Cassidy Fitzgerald Assistant Softball Coach fitzgeraldc@lmc.edu
+• Matthew Wisniewski Head Strength & Conditioning Coach (828) 898-8706 wisniewskim@lmc.edu
+• Randy Bloemendaal Head Men's & Women's Tennis Coach (828) 898-8875 bloemendaalr@lmc.edu
+• Whit Moorman Assistant Men's & Women's Tennis Coach (912) 381-1584 whit.tenniscoach@gmail.com
+• Randy Bloemendaal Head Men's & Women's Tennis Coach (828) 898-8875 bloemendaalr@lmc.edu
+• Whit Moorman Assistant Men's & Women's Tennis Coach (912) 381-1584 whit.tenniscoach@gmail.com
+• Ley Fletcher Head Cross Country / Track & Field Coach (828) 898-2562 fletcherl@lmc.edu
+• Thomas McDonough Assistant Track & Field Coach (828) 898-2562 mcdonought@lmc.edu
+• Kimberley Kop Assistant Track & Field Coach kopk@lmc.edu
+• Ley Fletcher Head Cross Country / Track & Field Coach (828) 898-2562 fletcherl@lmc.edu
+• Thomas McDonough Assistant Track & Field Coach (828) 898-2562 mcdonought@lmc.edu
+• Kimberley Kop Assistant Track & Field Coach kopk@lmc.edu
+• Sam Albus Head Men's Volleyball Coach / Assistant Women's Volleyball Coach (828) 898-8928 albuss@lmc.edu
+• Lauren Havill Head Women's Volleyball Coach / Assistant Men's Volleyball Coach (828) 898-8714 havilll@lmc.edu
+• Lauren Havill Head Women's Volleyball Coach / Assistant Men's Volleyball Coach (828) 898-8714 havilll@lmc.edu
+• Sam Albus Head Men's Volleyball Coach / Assistant Women's Volleyball Coach (828) 898-8928 albuss@lmc.edu
+• Jesse Streeter Assistant Women's Volleyball Coach streeterj@lmc.edu

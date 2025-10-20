@@ -1,0 +1,150 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:21
+============================================================
+
+Total coaches found: 22
+
+PARSED ENTRIES:
+----------------------------------------
+1. Megan Rahn
+   Email: mmrahn@meredith.edu
+   Username: mmrahn
+   Original line: Megan Rahn Head Basketball Coach mmrahn@meredith.edu
+
+2. Becky Davis
+   Email: redavis@meredith.edu
+   Username: redavis
+   Original line: Becky Davis Assistant Basketball Coach redavis@meredith.edu
+
+3. Field Miller
+   Email: wfmiller@meredith.edu
+   Username: wfmiller
+   Phone: (919) 760-8758
+   Original line: Field Miller Head Cross Country/Track & Field Coach wfmiller@meredith.edu (919) 760-8758
+
+4. Demonica Stanley
+   Email: ddstanley@meredith.edu
+   Username: ddstanley
+   Original line: Demonica Stanley Assistant Cross Country/Track & Field Coach ddstanley@meredith.edu
+
+5. Samantha Keating
+   Email: srkeating@meredith.edu
+   Username: srkeating
+   Original line: Samantha Keating Head Field Hockey Coach srkeating@meredith.edu
+
+6. Jenna Biter
+   Email: jlbiter@meredith.edu
+   Username: jlbiter
+   Original line: Jenna Biter Assistant Field Hockey Coach jlbiter@meredith.edu
+
+7. Jacob French
+   Email: jpfrench@meredith.edu
+   Username: jpfrench
+   Original line: Jacob French Vol. Assistant Field Hockey Coach jpfrench@meredith.edu
+
+8. Bryonne Herring
+   Email: baherring@meredith.edu
+   Username: baherring
+   Phone: (919) 760-8827
+   Original line: Bryonne Herring Head Flag Football Coach baherring@meredith.edu 919-760-8827
+
+9. Heather Brown
+   Email: hjbrown@meredith.edu
+   Username: hjbrown
+   Original line: Heather Brown Head Golf Coach hjbrown@meredith.edu
+
+10. Lauren Scott
+   Email: scottla@meredith.edu
+   Username: scottla
+   Phone: (919) 760-8725
+   Original line: Lauren Scott Head Lacrosse Coach scottla@meredith.edu (919) 760-8725
+
+11. Lauryn Turner
+   Email: lnturner@meredith.edu
+   Username: lnturner
+   Original line: Lauryn Turner Assistant Lacrosse Coach lnturner@meredith.edu
+
+12. Kirstie King
+   Email: keking@meredith.edu
+   Username: keking
+   Phone: 850-1163
+   Original line: Kirstie King Head Soccer Coach keking@meredith.edu (910)-850-1163
+
+13. Chris Alescio
+   Email: cmalescio@meredith.edu
+   Username: cmalescio
+   Original line: Chris Alescio Assistant Soccer Coach cmalescio@meredith.edu
+
+14. Kim Scavone
+   Email: scavonek@meredith.edu
+   Username: scavonek
+   Phone: (919) 760-8734
+   Original line: Kim Scavone Head Softball Coach scavonek@meredith.edu (919) 760-8734
+
+15. Savannah Talley
+   Email: sgtalley@meredith.edu
+   Username: sgtalley
+   Original line: Savannah Talley Assistant Softball Coach sgtalley@meredith.edu
+
+16. Emily Clemmons
+   Email: etclemmons@meredith.edu
+   Username: etclemmons
+   Original line: Emily Clemmons Vol. Assistant Softball Coach etclemmons@meredith.edu
+
+17. Vinny Scavone
+   Email: vjscavone@meredith.edu
+   Username: vjscavone
+   Original line: Vinny Scavone Vol. Assistant Softball Coach vjscavone@meredith.edu
+
+18. Garcian D'Cruz
+   Email: godcruz@meredith.edu
+   Username: godcruz
+   Phone: (919) 951-8852
+   Original line: Garcian D'Cruz Head Tennis Coach godcruz@meredith.edu 919-951-8852
+
+19. Field Miller
+   Email: wfmiller@meredith.edu
+   Username: wfmiller
+   Phone: (919) 760-8758
+   Original line: Field Miller Head Cross Country/Track & Field Coach wfmiller@meredith.edu (919) 760-8758
+
+20. Demonica Stanley
+   Email: ddstanley@meredith.edu
+   Username: ddstanley
+   Original line: Demonica Stanley Assistant Cross Country/Track & Field Coach ddstanley@meredith.edu
+
+21. John Wasielewski
+   Email: jpwasielewski@meredith.edu
+   Username: jpwasielewski
+   Original line: John Wasielewski Head Volleyball Coach jpwasielewski@meredith.edu
+
+22. Cera Powell
+   Email: Clpowell@meredith.edu
+   Username: Clpowell
+   Original line: Cera Powell Assistant Volleyball Coach Clpowell@meredith.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Megan Rahn Head Basketball Coach mmrahn@meredith.edu
+• Becky Davis Assistant Basketball Coach redavis@meredith.edu
+• Field Miller Head Cross Country/Track & Field Coach wfmiller@meredith.edu (919) 760-8758
+• Demonica Stanley Assistant Cross Country/Track & Field Coach ddstanley@meredith.edu
+• Samantha Keating Head Field Hockey Coach srkeating@meredith.edu
+• Jenna Biter Assistant Field Hockey Coach jlbiter@meredith.edu
+• Jacob French Vol. Assistant Field Hockey Coach jpfrench@meredith.edu
+• Bryonne Herring Head Flag Football Coach baherring@meredith.edu 919-760-8827
+• Heather Brown Head Golf Coach hjbrown@meredith.edu
+• Lauren Scott Head Lacrosse Coach scottla@meredith.edu (919) 760-8725
+• Lauryn Turner Assistant Lacrosse Coach lnturner@meredith.edu
+• Kirstie King Head Soccer Coach keking@meredith.edu (910)-850-1163
+• Chris Alescio Assistant Soccer Coach cmalescio@meredith.edu
+• Kim Scavone Head Softball Coach scavonek@meredith.edu (919) 760-8734
+• Savannah Talley Assistant Softball Coach sgtalley@meredith.edu
+• Emily Clemmons Vol. Assistant Softball Coach etclemmons@meredith.edu
+• Vinny Scavone Vol. Assistant Softball Coach vjscavone@meredith.edu
+• Garcian D'Cruz Head Tennis Coach godcruz@meredith.edu 919-951-8852
+• Field Miller Head Cross Country/Track & Field Coach wfmiller@meredith.edu (919) 760-8758
+• Demonica Stanley Assistant Cross Country/Track & Field Coach ddstanley@meredith.edu
+• John Wasielewski Head Volleyball Coach jpwasielewski@meredith.edu
+• Cera Powell Assistant Volleyball Coach Clpowell@meredith.edu

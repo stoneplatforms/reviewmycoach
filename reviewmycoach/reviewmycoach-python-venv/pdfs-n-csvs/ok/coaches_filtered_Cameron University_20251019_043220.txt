@@ -1,0 +1,167 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:20
+============================================================
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jesse Radil
+   Email: jradil@cameron.edu
+   Username: jradil
+   Original line: Jesse Radil Head Strength & Conditioning Coach jradil@cameron.edu 580-581-
+
+2. Holden Capps
+   Email: hcapps@cameron.edu
+   Username: hcapps
+   Original line: Holden Capps Head Baseball Coach hcapps@cameron.edu 580-581-
+
+3. Charles Weber
+   Email: cweber@cameron.edu
+   Username: cweber
+   Original line: Charles Weber Assistant Baseball Coach cweber@cameron.edu 580-581-
+
+4. Colby Flood
+   Email: colby.flood2@cameron.edu
+   Username: colby.flood2
+   Original line: Colby Flood Graduate Assistant Coach colby.flood2@cameron.edu 580-581-
+
+5. Nathan Kennedy
+   Email: Nkennedy@cameron.edu
+   Username: Nkennedy
+   Original line: Nathan Kennedy Head Men's Basketball Coach Nkennedy@cameron.edu 580-581-
+
+6. Jaedon Willis
+   Email: jaedon.willis@cameron.edu
+   Username: jaedon.willis
+   Original line: Jaedon Willis Graduate Assistant Coach jaedon.willis@cameron.edu 580-581-
+
+7. Daelyn Franklin
+   Email: daelyn.franklin@cameron.edu
+   Username: daelyn.franklin
+   Original line: Daelyn Franklin Graduate Assistant Coach daelyn.franklin@cameron.edu 580-581-
+
+8. Jeffrey Mahoney
+   Email: jmahoney@cameron.edu
+   Username: jmahoney
+   Original line: Jeffrey Mahoney Head Women's Basketball Coach jmahoney@cameron.edu 580-581-
+
+9. Briley Moon
+   Email: bmoon@cameron.edu
+   Username: bmoon
+   Original line: Briley Moon Assistant Women’s Basketball Coach bmoon@cameron.edu 580-581-
+
+10. Grace Alverson
+   Email: grace.alverson@cameron.edu
+   Username: grace.alverson
+   Original line: Grace Alverson Graduate Assistant Coach grace.alverson@cameron.edu 580-581-
+
+11. Zach Johnson
+   Email: zjohnson@cameron.edu
+   Username: zjohnson
+   Original line: Zach Johnson Head Men's & Women's Cross Country & Track Coach zjohnson@cameron.edu 580-581-
+
+12. Marianna Murcia
+   Email: marianna.murcia@cameron.edu
+   Username: marianna.murcia
+   Original line: Marianna Murcia Graduate Assistant Coach marianna.murcia@cameron.edu 580-581-
+
+13. Ryan Drysch
+   Email: ryan.drysch@cameron.edu
+   Username: ryan.drysch
+   Original line: Ryan Drysch Graduate Assistant Coach ryan.drysch@cameron.edu 580-581-
+
+14. Tyler Kaman
+   Email: tkaman@cameron.edu
+   Username: tkaman
+   Original line: Tyler Kaman Head Men's & Women's Golf Coach tkaman@cameron.edu 580-581-
+
+15. Matias Maquieira
+   Email: matias.maquieir@cameron.edu
+   Username: matias.maquieir
+   Original line: Matias Maquieira Graduate Assistant Coach matias.maquieir@cameron.edu 580-581-
+
+16. Elsie Verhoeven
+   Email: elsie.verhoeve@cameron.edu
+   Username: elsie.verhoeve
+   Original line: Elsie Verhoeven Graduate Assistant Coach elsie.verhoeve@cameron.edu 580-581-
+
+17. Ethan Korock
+   Email: ethan.korock@cameron.edu
+   Username: ethan.korock
+   Original line: Ethan Korock Volunteer Assistant Coach ethan.korock@cameron.edu 580-581-
+
+18. Bryan Howard
+   Email: bhoward@cameron.edu
+   Username: bhoward
+   Original line: Bryan Howard Head Softball Coach bhoward@cameron.edu 580-581-
+
+19. Jaclyn Gray
+   Email: jagray@cameron.edu
+   Username: jagray
+   Original line: Jaclyn Gray Assistant Coach jagray@cameron.edu 580-581-
+
+20. Madyson McCage
+   Email: madyson.mccage@cameron.edu
+   Username: madyson.mccage
+   Original line: Madyson McCage Graduate Assistant Coach madyson.mccage@cameron.edu 580-581-
+
+21. Josh Cobble
+   Email: jcobble@cameron.edu
+   Username: jcobble
+   Original line: Josh Cobble Head Men's & Women's Tennis Coach jcobble@cameron.edu 580-581-
+
+22. William Barnes
+   Email: william.barnes@cameron.edu
+   Username: william.barnes
+   Original line: William Barnes Graduate Assistant Coach william.barnes@cameron.edu 580-581-
+
+23. Melissa Avila
+   Email: mavila@cameron.edu
+   Username: mavila
+   Original line: Melissa Avila Head Volleyball Coach mavila@cameron.edu 580-581-
+
+24. Zoe Fernandez
+   Email: zoe.fernande@cameron.edu
+   Username: zoe.fernande
+   Original line: Zoe Fernandez Garcia Graduate Assistant Coach zoe.fernande@cameron.edu 580-581-
+
+25. Colleen Turner
+   Email: cturner@cameron.edu
+   Username: cturner
+   Original line: Colleen Turner Head Cheerleading Coach cturner@cameron.edu
+
+26. Madisen Witcher
+   Email: mpena@cameron.edu
+   Username: mpena
+   Original line: Madisen Witcher Head Dance Coach mpena@cameron.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jesse Radil Head Strength & Conditioning Coach jradil@cameron.edu 580-581-
+• Holden Capps Head Baseball Coach hcapps@cameron.edu 580-581-
+• Charles Weber Assistant Baseball Coach cweber@cameron.edu 580-581-
+• Colby Flood Graduate Assistant Coach colby.flood2@cameron.edu 580-581-
+• Nathan Kennedy Head Men's Basketball Coach Nkennedy@cameron.edu 580-581-
+• Jaedon Willis Graduate Assistant Coach jaedon.willis@cameron.edu 580-581-
+• Daelyn Franklin Graduate Assistant Coach daelyn.franklin@cameron.edu 580-581-
+• Jeffrey Mahoney Head Women's Basketball Coach jmahoney@cameron.edu 580-581-
+• Briley Moon Assistant Women’s Basketball Coach bmoon@cameron.edu 580-581-
+• Grace Alverson Graduate Assistant Coach grace.alverson@cameron.edu 580-581-
+• Zach Johnson Head Men's & Women's Cross Country & Track Coach zjohnson@cameron.edu 580-581-
+• Marianna Murcia Graduate Assistant Coach marianna.murcia@cameron.edu 580-581-
+• Ryan Drysch Graduate Assistant Coach ryan.drysch@cameron.edu 580-581-
+• Tyler Kaman Head Men's & Women's Golf Coach tkaman@cameron.edu 580-581-
+• Matias Maquieira Graduate Assistant Coach matias.maquieir@cameron.edu 580-581-
+• Elsie Verhoeven Graduate Assistant Coach elsie.verhoeve@cameron.edu 580-581-
+• Ethan Korock Volunteer Assistant Coach ethan.korock@cameron.edu 580-581-
+• Bryan Howard Head Softball Coach bhoward@cameron.edu 580-581-
+• Jaclyn Gray Assistant Coach jagray@cameron.edu 580-581-
+• Madyson McCage Graduate Assistant Coach madyson.mccage@cameron.edu 580-581-
+• Josh Cobble Head Men's & Women's Tennis Coach jcobble@cameron.edu 580-581-
+• William Barnes Graduate Assistant Coach william.barnes@cameron.edu 580-581-
+• Melissa Avila Head Volleyball Coach mavila@cameron.edu 580-581-
+• Zoe Fernandez Garcia Graduate Assistant Coach zoe.fernande@cameron.edu 580-581-
+• Colleen Turner Head Cheerleading Coach cturner@cameron.edu
+• Madisen Witcher Head Dance Coach mpena@cameron.edu

@@ -1,0 +1,32 @@
+Printing results: Success=19 Skipped=4 Errors=0
+
+Skipped/Failed links:
+- Berea College.pdf: https://bereemountaineers.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bereemountaineers.com/staff-directory/index
+Call log:
+  - navigating to "https://bereemountaineers.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://bereemountaineers.com/staff-directory?print=true, https://bereemountaineers.com/staff-directory/print, https://bereemountaineers.com/staff-directory, https://bereemountaineers.com/staff-directory/index?print=true, https://bereemountaineers.com/staff-directory/index/print, https://bereemountaineers.com/staff-directory/index
+- Bellarmine University.pdf: https://bellarminesports.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bellarminesports.com/staff-directory/index
+Call log:
+  - navigating to "https://bellarminesports.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://bellarminesports.com/staff-directory?print=true, https://bellarminesports.com/staff-directory/print, https://bellarminesports.com/staff-directory, https://bellarminesports.com/staff-directory/index?print=true, https://bellarminesports.com/staff-directory/index/print, https://bellarminesports.com/staff-directory/index
+- Kentucky Christian University.pdf: https://kcuathletics.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://kcuathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://kcuathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://kcuathletics.com/staff-directory?print=true, https://kcuathletics.com/staff-directory/print, https://kcuathletics.com/staff-directory, https://kcuathletics.com/staff-directory/index?print=true, https://kcuathletics.com/staff-directory/index/print, https://kcuathletics.com/staff-directory/index
+- Lindsey Wilson College.pdf: https://lwcsports.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://lwcsports.com/staff-directory/index
+Call log:
+  - navigating to "https://lwcsports.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://lwcsports.com/staff-directory?print=true, https://lwcsports.com/staff-directory/print, https://lwcsports.com/staff-directory, https://lwcsports.com/staff-directory/index?print=true, https://lwcsports.com/staff-directory/index/print, https://lwcsports.com/staff-directory/index
+
+PDFs with zero coaches detected:
+- University of Kentucky.pdf
+- Alice Lloyd College.pdf
+- University of Pikeville.pdf
+- Georgetown College (KY).pdf
+- University of Louisville.pdf
+- Western Kentucky University.pdf
+- Union College (KY).pdf

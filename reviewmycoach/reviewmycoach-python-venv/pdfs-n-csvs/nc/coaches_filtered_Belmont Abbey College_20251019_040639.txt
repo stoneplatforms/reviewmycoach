@@ -1,0 +1,407 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:39
+============================================================
+
+Total coaches found: 66
+
+PARSED ENTRIES:
+----------------------------------------
+1. Patrick Polomski
+   Email: patrickpolomski@bac.edu
+   Username: patrickpolomski
+   Original line: Patrick Polomski Head Strength and Conditioning Coach patrickpolomski@bac.edu 704-461-
+
+2. Josh Schillim
+   Email: joshschillim@bac.edu
+   Username: joshschillim
+   Original line: Josh Schillim Assistant Strength and Conditioning Coach joshschillim@bac.edu
+
+3. Haley Allen
+   Email: haleyallen@bac.edu
+   Username: haleyallen
+   Original line: Haley Allen Head Coach haleyallen@bac.edu
+
+4. Chris Anderson
+   Email: chrisanderson@bac.edu
+   Username: chrisanderson
+   Original line: Chris Anderson Head Coach chrisanderson@bac.edu
+
+5. Ryan McCleney
+   Email: christophermccleney@bac.edu
+   Username: christophermccleney
+   Original line: Ryan McCleney Associate Head Coach christophermccleney@bac.edu 704-461-
+
+6. CJ Martinez
+   Email: christophermartinez@bac.edu
+   Username: christophermartinez
+   Original line: CJ Martinez Assistant Coach christophermartinez@bac.edu 919-673-
+
+7. Jeff May
+   Email: jeffmay@bac.edu
+   Username: jeffmay
+   Original line: Jeff May Assistant Coach jeffmay@bac.edu 704-461-
+
+8. Matt McGarry
+   Email: mattmcgarry@bac.edu
+   Username: mattmcgarry
+   Original line: Matt McGarry Assistant Coach mattmcgarry@bac.edu 858-357-
+
+9. Kaylan Puckett
+   Email: kaylanpuckett@bac.edu
+   Username: kaylanpuckett
+   Original line: Kaylan Puckett Head Coach kaylanpuckett@bac.edu
+
+10. Chelsea Herlocker
+   Email: chelseaherlocker@bac.edu
+   Username: chelseaherlocker
+   Original line: Chelsea Herlocker Head Coach chelseaherlocker@bac.edu
+
+11. Megan Valzonis
+   Email: meganvalzonis@bac.edu
+   Username: meganvalzonis
+   Original line: Megan Valzonis Assistant Coach meganvalzonis@bac.edu
+
+12. David Belfield
+   Email: davidbelfield@bac.edu
+   Username: davidbelfield
+   Original line: David Belfield Head Coach davidbelfield@bac.edu
+
+13. Tyrell McDowell
+   Email: tyrellmcdowell@bac.edu
+   Username: tyrellmcdowell
+   Original line: Tyrell McDowell Assistant Coach tyrellmcdowell@bac.edu
+
+14. Riley McGillan
+   Email: rileymcgillan@bac.edu
+   Username: rileymcgillan
+   Original line: Riley McGillan Assistant Coach rileymcgillan@bac.edu
+
+15. Arlo Washington
+   Email: arlowashington@bac.edu
+   Username: arlowashington
+   Original line: Arlo Washington Assistant Coach arlowashington@bac.edu
+
+16. Rich Gucwa
+   Email: richardgucwa@bac.edu
+   Username: richardgucwa
+   Original line: Rich Gucwa Head Coach richardgucwa@bac.edu 847-641-
+
+17. Dalton Green
+   Email: daltongreen@bac.edu
+   Username: daltongreen
+   Original line: Dalton Green Assistant Coach daltongreen@bac.edu
+
+18. Melissa March
+   Email: melissamarch@bac.edu
+   Username: melissamarch
+   Original line: Melissa March Assistant Coach melissamarch@bac.edu
+
+19. Dan Finanger
+   Email: danielfinanger@bac.edu
+   Username: danielfinanger
+   Original line: Dan Finanger Head Coach danielfinanger@bac.edu 952-412-
+
+20. Aimee Cerdeiras
+   Email: aimeecerdeiras@bac.edu
+   Username: aimeecerdeiras
+   Original line: Aimee Cerdeiras Assistant Coach aimeecerdeiras@bac.edu
+
+21. Tomas Cerdeiras
+   Email: tomascerdeiras@bac.edu
+   Username: tomascerdeiras
+   Original line: Tomas Cerdeiras Associate Head Coach tomascerdeiras@bac.edu 786-564-
+
+22. John Grant
+   Email: johngrant@bac.edu
+   Username: johngrant
+   Original line: John Grant Assistant Coach johngrant@bac.edu
+
+23. Nat Worcester
+   Email: nathanielworcester@bac.edu
+   Username: nathanielworcester
+   Original line: Nat Worcester Head Coach nathanielworcester@bac.edu
+
+24. Jason Gault
+   Email: jasongault@bac.edu
+   Username: jasongault
+   Original line: Jason Gault Head Coach jasongault@bac.edu 704-461-
+
+25. Stephen Walker
+   Email: stephenwalker@bac.edu
+   Username: stephenwalker
+   Original line: Stephen Walker Assistant Coach stephenwalker@bac.edu
+
+26. Chris Barrett
+   Email: christopherbarrett@bac.edu
+   Username: christopherbarrett
+   Original line: Chris Barrett Head Coach christopherbarrett@bac.edu 704-461-
+
+27. Devin Cruz
+   Email: devincruz@bac.edu
+   Username: devincruz
+   Original line: Devin Cruz Associate Head Coach devincruz@bac.edu
+
+28. Genaro Fessia
+   Email: genarofessia@bac.edu
+   Username: genarofessia
+   Original line: Genaro Fessia Head Coach genarofessia@bac.edu
+
+29. Pat Kibler
+   Email: patrickkibler@bac.edu
+   Username: patrickkibler
+   Original line: Pat Kibler Head Coach patrickkibler@bac.edu
+
+30. Austin Gunnels
+   Email: austingunnels@bac.edu
+   Username: austingunnels
+   Original line: Austin Gunnels Assistant Coach austingunnels@bac.edu
+
+31. Michael Salomon
+   Email: michaelsalomon@bac.edu
+   Username: michaelsalomon
+   Original line: Michael Salomon Head Coach michaelsalomon@bac.edu 704-215-
+
+32. Molly Hencken
+   Email: mollyhencken@bac.edu
+   Username: mollyhencken
+   Original line: Molly Hencken Assistant Coach mollyhencken@bac.edu 407-288-
+
+33. Dan Finanger
+   Email: danielfinanger@bac.edu
+   Username: danielfinanger
+   Original line: Dan Finanger Head Coach danielfinanger@bac.edu 952-412-
+
+34. Tomas Cerdeiras
+   Email: tomascerdeiras@bac.edu
+   Username: tomascerdeiras
+   Original line: Tomas Cerdeiras Associate Head Coach tomascerdeiras@bac.edu 786-564-
+
+35. Aimee Cerdeiras
+   Email: aimeecerdeiras@bac.edu
+   Username: aimeecerdeiras
+   Original line: Aimee Cerdeiras Assistant Coach aimeecerdeiras@bac.edu
+
+36. John Grant
+   Email: johngrant@bac.edu
+   Username: johngrant
+   Original line: John Grant Assistant Coach johngrant@bac.edu
+
+37. Derek Sullivan
+   Email: dereksullivan@bac.edu
+   Username: dereksullivan
+   Original line: Derek Sullivan Head Coach dereksullivan@bac.edu
+
+38. Peter Stewart
+   Email: peterstewart@bac.edu
+   Username: peterstewart
+   Original line: Peter Stewart Assistant Coach peterstewart@bac.edu
+
+39. Samantha West
+   Email: samanthawest@bac.edu
+   Username: samanthawest
+   Original line: Samantha West Head Coach samanthawest@bac.edu 828-514-
+
+40. Abby West
+   Email: Abbywest@bac.edu
+   Username: Abbywest
+   Original line: Abby West Assistant Coach Abbywest@bac.edu
+
+41. Kim Lusk
+   Email: kimlusk@bac.edu
+   Username: kimlusk
+   Original line: Kim Lusk Head Coach kimlusk@bac.edu
+
+42. Sierra Gonyo
+   Email: sierragonyo@bac.edu
+   Username: sierragonyo
+   Original line: Sierra Gonyo Assistant Coach sierragonyo@bac.edu
+
+43. Rich Gucwa
+   Email: richardgucwa@bac.edu
+   Username: richardgucwa
+   Original line: Rich Gucwa Head Coach richardgucwa@bac.edu 847-641-
+
+44. Dalton Green
+   Email: daltongreen@bac.edu
+   Username: daltongreen
+   Original line: Dalton Green Assistant Coach daltongreen@bac.edu
+
+45. Melissa March
+   Email: melissamarch@bac.edu
+   Username: melissamarch
+   Original line: Melissa March Assistant Coach melissamarch@bac.edu
+
+46. Dan Finanger
+   Email: danielfinanger@bac.edu
+   Username: danielfinanger
+   Original line: Dan Finanger Head Coach danielfinanger@bac.edu 952-412-
+
+47. Aimee Cerdeiras
+   Email: aimeecerdeiras@bac.edu
+   Username: aimeecerdeiras
+   Original line: Aimee Cerdeiras Assistant Coach aimeecerdeiras@bac.edu
+
+48. Tomas Cerdeiras
+   Email: tomascerdeiras@bac.edu
+   Username: tomascerdeiras
+   Original line: Tomas Cerdeiras Associate Head Coach tomascerdeiras@bac.edu 786-564-
+
+49. Nat Worcester
+   Email: nathanielworcester@bac.edu
+   Username: nathanielworcester
+   Original line: Nat Worcester Head Coach nathanielworcester@bac.edu
+
+50. Jason Gault
+   Email: jasongault@bac.edu
+   Username: jasongault
+   Original line: Jason Gault Head Coach jasongault@bac.edu 704-461-
+
+51. Taylor Cozart
+   Email: taylorcozart@bac.edu
+   Username: taylorcozart
+   Original line: Taylor Cozart Assistant Coach taylorcozart@bac.edu
+
+52. Stephen Walker
+   Email: stephenwalker@bac.edu
+   Username: stephenwalker
+   Original line: Stephen Walker Assistant Coach stephenwalker@bac.edu
+
+53. Molly Kopp
+   Email: mollylehmanlewis@bac.edu
+   Username: mollylehmanlewis
+   Original line: Molly Kopp Head Coach mollylehmanlewis@bac.edu 704-461-
+
+54. Kylie Eastman
+   Email: kylieeastman@bac.edu
+   Username: kylieeastman
+   Original line: Kylie Eastman Associate Head Coach kylieeastman@bac.edu 804-300-
+
+55. Mike Lynch
+   Email: michaellynch@bac.edu
+   Username: michaellynch
+   Original line: Mike Lynch Head Coach michaellynch@bac.edu 704-461-
+
+56. Jaime Malilong
+   Email: jaimemalilong@bac.edu
+   Username: jaimemalilong
+   Original line: Jaime Malilong Associate Head Coach jaimemalilong@bac.edu 704-461-
+
+57. Lauryn Harding
+   Email: laurynharding@bac.edu
+   Username: laurynharding
+   Original line: Lauryn Harding Assistant Coach laurynharding@bac.edu
+
+58. Michael Salomon
+   Email: michaelsalomon@bac.edu
+   Username: michaelsalomon
+   Original line: Michael Salomon Head Coach michaelsalomon@bac.edu 704-215-
+
+59. Molly Hencken
+   Email: mollyhencken@bac.edu
+   Username: mollyhencken
+   Original line: Molly Hencken Assistant Coach mollyhencken@bac.edu 407-288-
+
+60. Dan Finanger
+   Email: danielfinanger@bac.edu
+   Username: danielfinanger
+   Original line: Dan Finanger Head Coach danielfinanger@bac.edu 952-412-
+
+61. Tomas Cerdeiras
+   Email: tomascerdeiras@bac.edu
+   Username: tomascerdeiras
+   Original line: Tomas Cerdeiras Associate Head Coach tomascerdeiras@bac.edu 786-564-
+
+62. Aimee Cerdeiras
+   Email: aimeecerdeiras@bac.edu
+   Username: aimeecerdeiras
+   Original line: Aimee Cerdeiras Assistant Coach aimeecerdeiras@bac.edu
+
+63. John Grant
+   Email: johngrant@bac.edu
+   Username: johngrant
+   Original line: John Grant Assistant Coach johngrant@bac.edu
+
+64. Toni Fox
+   Email: tonifox@bac.edu
+   Username: tonifox
+   Original line: Toni Fox Head Coach tonifox@bac.edu 704-461-
+
+65. Randy DeAngelo
+   Email: randydeangelo@bac.edu
+   Username: randydeangelo
+   Original line: Randy DeAngelo Head Coach randydeangelo@bac.edu 704-461-
+
+66. Scott Bosak
+   Email: scottbosak@bac.edu
+   Username: scottbosak
+   Original line: Scott Bosak Assistant Coach scottbosak@bac.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Patrick Polomski Head Strength and Conditioning Coach patrickpolomski@bac.edu 704-461-
+• Josh Schillim Assistant Strength and Conditioning Coach joshschillim@bac.edu
+• Haley Allen Head Coach haleyallen@bac.edu
+• Chris Anderson Head Coach chrisanderson@bac.edu
+• Ryan McCleney Associate Head Coach christophermccleney@bac.edu 704-461-
+• CJ Martinez Assistant Coach christophermartinez@bac.edu 919-673-
+• Jeff May Assistant Coach jeffmay@bac.edu 704-461-
+• Matt McGarry Assistant Coach mattmcgarry@bac.edu 858-357-
+• Kaylan Puckett Head Coach kaylanpuckett@bac.edu
+• Chelsea Herlocker Head Coach chelseaherlocker@bac.edu
+• Megan Valzonis Assistant Coach meganvalzonis@bac.edu
+• David Belfield Head Coach davidbelfield@bac.edu
+• Tyrell McDowell Assistant Coach tyrellmcdowell@bac.edu
+• Riley McGillan Assistant Coach rileymcgillan@bac.edu
+• Arlo Washington Assistant Coach arlowashington@bac.edu
+• Rich Gucwa Head Coach richardgucwa@bac.edu 847-641-
+• Dalton Green Assistant Coach daltongreen@bac.edu
+• Melissa March Assistant Coach melissamarch@bac.edu
+• Dan Finanger Head Coach danielfinanger@bac.edu 952-412-
+• Aimee Cerdeiras Assistant Coach aimeecerdeiras@bac.edu
+• Tomas Cerdeiras Associate Head Coach tomascerdeiras@bac.edu 786-564-
+• John Grant Assistant Coach johngrant@bac.edu
+• Nat Worcester Head Coach nathanielworcester@bac.edu
+• Jason Gault Head Coach jasongault@bac.edu 704-461-
+• Stephen Walker Assistant Coach stephenwalker@bac.edu
+• Chris Barrett Head Coach christopherbarrett@bac.edu 704-461-
+• Devin Cruz Associate Head Coach devincruz@bac.edu
+• Genaro Fessia Head Coach genarofessia@bac.edu
+• Pat Kibler Head Coach patrickkibler@bac.edu
+• Austin Gunnels Assistant Coach austingunnels@bac.edu
+• Michael Salomon Head Coach michaelsalomon@bac.edu 704-215-
+• Molly Hencken Assistant Coach mollyhencken@bac.edu 407-288-
+• Dan Finanger Head Coach danielfinanger@bac.edu 952-412-
+• Tomas Cerdeiras Associate Head Coach tomascerdeiras@bac.edu 786-564-
+• Aimee Cerdeiras Assistant Coach aimeecerdeiras@bac.edu
+• John Grant Assistant Coach johngrant@bac.edu
+• Derek Sullivan Head Coach dereksullivan@bac.edu
+• Peter Stewart Assistant Coach peterstewart@bac.edu
+• Samantha West Head Coach samanthawest@bac.edu 828-514-
+• Abby West Assistant Coach Abbywest@bac.edu
+• Kim Lusk Head Coach kimlusk@bac.edu
+• Sierra Gonyo Assistant Coach sierragonyo@bac.edu
+• Rich Gucwa Head Coach richardgucwa@bac.edu 847-641-
+• Dalton Green Assistant Coach daltongreen@bac.edu
+• Melissa March Assistant Coach melissamarch@bac.edu
+• Dan Finanger Head Coach danielfinanger@bac.edu 952-412-
+• Aimee Cerdeiras Assistant Coach aimeecerdeiras@bac.edu
+• Tomas Cerdeiras Associate Head Coach tomascerdeiras@bac.edu 786-564-
+• Nat Worcester Head Coach nathanielworcester@bac.edu
+• Jason Gault Head Coach jasongault@bac.edu 704-461-
+• Taylor Cozart Assistant Coach taylorcozart@bac.edu
+• Stephen Walker Assistant Coach stephenwalker@bac.edu
+• Molly Kopp Head Coach mollylehmanlewis@bac.edu 704-461-
+• Kylie Eastman Associate Head Coach kylieeastman@bac.edu 804-300-
+• Mike Lynch Head Coach michaellynch@bac.edu 704-461-
+• Jaime Malilong Associate Head Coach jaimemalilong@bac.edu 704-461-
+• Lauryn Harding Assistant Coach laurynharding@bac.edu
+• Michael Salomon Head Coach michaelsalomon@bac.edu 704-215-
+• Molly Hencken Assistant Coach mollyhencken@bac.edu 407-288-
+• Dan Finanger Head Coach danielfinanger@bac.edu 952-412-
+• Tomas Cerdeiras Associate Head Coach tomascerdeiras@bac.edu 786-564-
+• Aimee Cerdeiras Assistant Coach aimeecerdeiras@bac.edu
+• John Grant Assistant Coach johngrant@bac.edu
+• Toni Fox Head Coach tonifox@bac.edu 704-461-
+• Randy DeAngelo Head Coach randydeangelo@bac.edu 704-461-
+• Scott Bosak Assistant Coach scottbosak@bac.edu

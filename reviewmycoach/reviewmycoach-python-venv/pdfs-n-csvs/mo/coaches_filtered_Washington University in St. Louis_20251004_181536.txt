@@ -1,0 +1,215 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:36
+============================================================
+
+Total coaches found: 34
+
+PARSED ENTRIES:
+----------------------------------------
+1. Terry O'Neill
+   Email: t.oneill@wustl.edu
+   Username: t.oneill
+   Original line: Terry O'Neill Head Sports Performance Coach t.oneill@wustl.edu (314) 935-
+
+2. Alicia Watson
+   Email: alicia.watson@wustl.edu
+   Username: alicia.watson
+   Original line: Alicia Watson Assistant Sports Performance Coach alicia.watson@wustl.edu (314) 935-
+
+3. Leo Liu
+   Email: leol@wustl.edu
+   Username: leol
+   Original line: Leo Liu Assistant Sports Performance Coach leol@wustl.edu
+
+4. Pat Bloom
+   Email: pbloom@wustl.edu
+   Username: pbloom
+   Original line: Pat Bloom Head Coach pbloom@wustl.edu (314) 935-
+
+5. Mike Gulve
+   Email: gulvem@wustl.edu
+   Username: gulvem
+   Original line: Mike Gulve Assistant Coach gulvem@wustl.edu 314-935-
+
+6. Pat Juckem
+   Email: juckem@wustl.edu
+   Username: juckem
+   Original line: Pat Juckem Head Coach juckem@wustl.edu (314) 935-
+
+7. Patrick McGrail
+   Email: mcgrail@wustl.edu
+   Username: mcgrail
+   Original line: Patrick McGrail Assistant Coach mcgrail@wustl.edu
+
+8. Steve Wilcutt
+   Email: swilcutt@wustl.edu
+   Username: swilcutt
+   Original line: Steve Wilcutt Assistant Coach swilcutt@wustl.edu (314) 935-
+
+9. Jacob Stoecklin
+   Email: stoecklin@wustl.edu
+   Username: stoecklin
+   Original line: Jacob Stoecklin Assistant Coach stoecklin@wustl.edu (314) 935-
+
+10. Lisa Stone
+   Email: stonel@wustl.edu
+   Username: stonel
+   Original line: Lisa Stone Head Coach stonel@wustl.edu (314) 935-
+
+11. Katie Hempen
+   Email: hempen@wustl.edu
+   Username: hempen
+   Original line: Katie Hempen Assistant Coach hempen@wustl.edu (314) 935-
+
+12. Andrew Black
+   Email: agblack@wustl.edu
+   Username: agblack
+   Original line: Andrew Black Head Coach agblack@wustl.edu (314) 935-
+
+13. Jeff Stiles
+   Email: stiles@wustl.edu
+   Username: stiles
+   Original line: Jeff Stiles Head Coach stiles@wustl.edu (314) 935-
+
+14. Aaron Keen
+   Email: akeen@wustl.edu
+   Username: akeen
+   Original line: Aaron Keen Head Coach akeen@wustl.edu (314) 935-
+
+15. Dave Reinhardt
+   Email: dreinhardt@wustl.edu
+   Username: dreinhardt
+   Original line: Dave Reinhardt Head Coach dreinhardt@wustl.edu (314) 935-
+
+16. Andrew Bordelon
+   Email: bordelon@wustl.edu
+   Username: bordelon
+   Original line: Andrew Bordelon Head Coach bordelon@wustl.edu (314) 935-
+
+17. Jack Mathis
+   Email: jack.m@wustl.edu
+   Username: jack.m
+   Original line: Jack Mathis Assistant Coach jack.m@wustl.edu
+
+18. Jake Leeker
+   Email: leeker@wustl.edu
+   Username: leeker
+   Original line: Jake Leeker Goalkeeper Coach leeker@wustl.edu
+
+19. Jim Conlon
+   Email: jimconlon@wustl.edu
+   Username: jimconlon
+   Original line: Jim Conlon Head Coach jimconlon@wustl.edu (314) 935-
+
+20. Taylor Imming
+   Email: imming@wustl.edu
+   Username: imming
+   Original line: Taylor Imming Assistant Coach imming@wustl.edu
+
+21. Casey Cromwell
+   Email: caseyc@wustl.edu
+   Username: caseyc
+   Original line: Casey Cromwell Head Coach caseyc@wustl.edu (314) 935-
+
+22. Melissa "Skeeter"
+   Email: gentilem@wustl.edu
+   Username: gentilem
+   Original line: Melissa "Skeeter" Gentile Assistant Coach gentilem@wustl.edu (314) 935-
+
+23. Natasha Ramakrishnan
+   Email: natasha.ramakrishnan@wustl.edu
+   Username: natasha.ramakrishnan
+   Original line: Natasha Ramakrishnan Assistant Coach natasha.ramakrishnan@wustl.edu
+
+24. Brad Shively
+   Email: bkswim@wustl.edu
+   Username: bkswim
+   Original line: Brad Shively Head Coach bkswim@wustl.edu (314) 935-
+
+25. Jim Halliburton
+   Email: halliburton@wustl.edu
+   Username: halliburton
+   Original line: Jim Halliburton Assistant Coach halliburton@wustl.edu (314) 935-
+
+26. Meggie Meisinger
+   Email: margaretm@wustl.edu
+   Username: margaretm
+   Original line: Meggie Meisinger Head Diving Coach margaretm@wustl.edu (314) 935-
+
+27. Roger Follmer
+   Email: follmer@wustl.edu
+   Username: follmer
+   Original line: Roger Follmer Head Coach follmer@wustl.edu (314) 935-
+
+28. Bob Haugen
+   Email: haugenrn@wustl.edu
+   Username: haugenrn
+   Original line: Bob Haugen Assistant Coach haugenrn@wustl.edu (314) 935-
+
+29. Paige Madara
+   Email: pemadara@wustl.edu
+   Username: pemadara
+   Original line: Paige Madara Head Coach pemadara@wustl.edu (314) 935-
+
+30. Jeff Stiles
+   Email: stiles@wustl.edu
+   Username: stiles
+   Original line: Jeff Stiles Head Coach stiles@wustl.edu (314) 935-
+
+31. Ray Williams
+   Email: ray.williams@wustl.edu
+   Username: ray.williams
+   Original line: Ray Williams Associate Track & Field Head Coach ray.williams@wustl.edu (314) 935-
+
+32. Stephen Fleagle
+   Email: fleagle@wustl.edu
+   Username: fleagle
+   Original line: Stephen Fleagle Assistant Coach fleagle@wustl.edu
+
+33. Vanessa Walby
+   Email: vanessa.walby@wustl.edu
+   Username: vanessa.walby
+   Original line: Vanessa Walby Head Coach vanessa.walby@wustl.edu (314) 935-
+
+34. Greg Selle
+   Email: gselle@wustl.edu
+   Username: gselle
+   Original line: Greg Selle Assistant Coach/Recruiting Coordinator gselle@wustl.edu (314) 935-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Terry O'Neill Head Sports Performance Coach t.oneill@wustl.edu (314) 935-
+• Alicia Watson Assistant Sports Performance Coach alicia.watson@wustl.edu (314) 935-
+• Leo Liu Assistant Sports Performance Coach leol@wustl.edu
+• Pat Bloom Head Coach pbloom@wustl.edu (314) 935-
+• Mike Gulve Assistant Coach gulvem@wustl.edu 314-935-
+• Pat Juckem Head Coach juckem@wustl.edu (314) 935-
+• Patrick McGrail Assistant Coach mcgrail@wustl.edu
+• Steve Wilcutt Assistant Coach swilcutt@wustl.edu (314) 935-
+• Jacob Stoecklin Assistant Coach stoecklin@wustl.edu (314) 935-
+• Lisa Stone Head Coach stonel@wustl.edu (314) 935-
+• Katie Hempen Assistant Coach hempen@wustl.edu (314) 935-
+• Andrew Black Head Coach agblack@wustl.edu (314) 935-
+• Jeff Stiles Head Coach stiles@wustl.edu (314) 935-
+• Aaron Keen Head Coach akeen@wustl.edu (314) 935-
+• Dave Reinhardt Head Coach dreinhardt@wustl.edu (314) 935-
+• Andrew Bordelon Head Coach bordelon@wustl.edu (314) 935-
+• Jack Mathis Assistant Coach jack.m@wustl.edu
+• Jake Leeker Goalkeeper Coach leeker@wustl.edu
+• Jim Conlon Head Coach jimconlon@wustl.edu (314) 935-
+• Taylor Imming Assistant Coach imming@wustl.edu
+• Casey Cromwell Head Coach caseyc@wustl.edu (314) 935-
+• Melissa "Skeeter" Gentile Assistant Coach gentilem@wustl.edu (314) 935-
+• Natasha Ramakrishnan Assistant Coach natasha.ramakrishnan@wustl.edu
+• Brad Shively Head Coach bkswim@wustl.edu (314) 935-
+• Jim Halliburton Assistant Coach halliburton@wustl.edu (314) 935-
+• Meggie Meisinger Head Diving Coach margaretm@wustl.edu (314) 935-
+• Roger Follmer Head Coach follmer@wustl.edu (314) 935-
+• Bob Haugen Assistant Coach haugenrn@wustl.edu (314) 935-
+• Paige Madara Head Coach pemadara@wustl.edu (314) 935-
+• Jeff Stiles Head Coach stiles@wustl.edu (314) 935-
+• Ray Williams Associate Track & Field Head Coach ray.williams@wustl.edu (314) 935-
+• Stephen Fleagle Assistant Coach fleagle@wustl.edu
+• Vanessa Walby Head Coach vanessa.walby@wustl.edu (314) 935-
+• Greg Selle Assistant Coach/Recruiting Coordinator gselle@wustl.edu (314) 935-

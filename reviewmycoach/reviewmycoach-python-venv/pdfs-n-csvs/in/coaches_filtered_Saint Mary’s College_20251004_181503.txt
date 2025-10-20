@@ -1,0 +1,86 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:03
+============================================================
+
+Total coaches found: 11
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rob Hoffman
+   Email: rhoffman@saintmarys.edu
+   Username: rhoffman
+   Phone: (574) 284-4826
+   Original line: Rob Hoffman Head Basketball Coach (574) 284-4826 rhoffman@saintmarys.edu
+
+2. Jackie Bauters
+   Email: jbauters@saintmarys.edu
+   Username: jbauters
+   Phone: (574) 284-4027
+   Original line: Jackie Bauters Head Cross Country Coach (574) 284-4027 jbauters@saintmarys.edu
+
+3. Kristin Holt
+   Email: kholt@saintmarys.edu
+   Username: kholt
+   Phone: (574) 284-4817
+   Original line: Kristin Holt Head Golf Coach (574) 284-4817 kholt@saintmarys.edu
+
+4. Susan Holt
+   Email: sholt@saintmarys.edu
+   Username: sholt
+   Original line: Susan Holt Volunteer Assistant Coach sholt@saintmarys.edu
+
+5. Kara Visker
+   Email: kvisker@saintmarys.edu
+   Username: kvisker
+   Phone: (574) 284-4468
+   Original line: Kara Visker Head Lacrosse Coach (574) 284-4468 kvisker@saintmarys.edu
+
+6. Farkhod Kurbonov
+   Email: fkurbonov@saintmarys.edu
+   Username: fkurbonov
+   Phone: (574) 284-4909
+   Original line: Farkhod Kurbonov Head Soccer Coach (574) 284-4909 fkurbonov@saintmarys.edu
+
+7. Destiny Fulmer
+   Email: dfulmer@saintmarys.edu
+   Username: dfulmer
+   Original line: Destiny Fulmer Assistant Soccer Coach dfulmer@saintmarys.edu
+
+8. Jordyn Walter
+   Email: jwalter@saintmarys.edu
+   Username: jwalter
+   Phone: (574) 284-4910
+   Original line: Jordyn Walter Head Softball Coach (574) 284-4910 jwalter@saintmarys.edu
+
+9. Jillian Humphrey
+   Email: jhumphrey@saintmarys.edu
+   Username: jhumphrey
+   Phone: (574) 284-5350
+   Original line: Jillian Humphrey Head STUNT Coach (574) 284-5350 jhumphrey@saintmarys.edu
+
+10. Dale Campbell
+   Email: dcampbel@saintmarys.edu
+   Username: dcampbel
+   Phone: (574) 284-4531
+   Original line: Dale Campbell Head Tennis Coach (574) 284-4531 dcampbel@saintmarys.edu
+
+11. Denise Van
+   Email: dvandewalle@saintmarys.edu
+   Username: dvandewalle
+   Phone: (574) 284-4908
+   Original line: Denise Van De Walle Head Volleyball Coach (574) 284-4908 dvandewalle@saintmarys.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rob Hoffman Head Basketball Coach (574) 284-4826 rhoffman@saintmarys.edu
+• Jackie Bauters Head Cross Country Coach (574) 284-4027 jbauters@saintmarys.edu
+• Kristin Holt Head Golf Coach (574) 284-4817 kholt@saintmarys.edu
+• Susan Holt Volunteer Assistant Coach sholt@saintmarys.edu
+• Kara Visker Head Lacrosse Coach (574) 284-4468 kvisker@saintmarys.edu
+• Farkhod Kurbonov Head Soccer Coach (574) 284-4909 fkurbonov@saintmarys.edu
+• Destiny Fulmer Assistant Soccer Coach dfulmer@saintmarys.edu
+• Jordyn Walter Head Softball Coach (574) 284-4910 jwalter@saintmarys.edu
+• Jillian Humphrey Head STUNT Coach (574) 284-5350 jhumphrey@saintmarys.edu
+• Dale Campbell Head Tennis Coach (574) 284-4531 dcampbel@saintmarys.edu
+• Denise Van De Walle Head Volleyball Coach (574) 284-4908 dvandewalle@saintmarys.edu

@@ -1,0 +1,172 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:21
+============================================================
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Anna Howle
+   Email: anna.howle@okbu.edu
+   Username: anna.howle
+   Phone: 405.585.5355
+   Original line: Anna Howle Head Volleyball Coach / Assistant A.D. / Senior anna.howle@okbu.edu 405.585.5355
+
+2. Chris Cox
+   Email: chris.cox@okbu.edu
+   Username: chris.cox
+   Phone: 405.585.5331
+   Original line: Chris Cox Head Baseball Coach chris.cox@okbu.edu 405.585.5331
+
+3. Cody Painter
+   Email: cody.painter@okbu.edu
+   Username: cody.painter
+   Phone: 405.585.5331
+   Original line: Cody Painter Associate Head Coach cody.painter@okbu.edu 405.585.5331
+
+4. Trace Maddux
+   Email: trace.maddux@okbu.edu
+   Username: trace.maddux
+   Original line: Trace Maddux Assistant Coach trace.maddux@okbu.edu
+
+5. Jessica Stiles
+   Email: jessica.stiles@okbu.edu
+   Username: jessica.stiles
+   Original line: Jessica Stiles Spirit Coordinator / Head Cheer & STUNT Coach jessica.stiles@okbu.edu
+
+6. Lindsay Smith
+   Email: lindsay.smith@okbu.edu
+   Username: lindsay.smith
+   Original line: Lindsay Smith Assistant Coach lindsay.smith@okbu.edu
+
+7. Jessica Bryan
+   Email: jessica.bryan@okbu.edu
+   Username: jessica.bryan
+   Original line: Jessica Bryan Head Dance Coach jessica.bryan@okbu.edu
+
+8. Kylie Lindsey
+   Email: kylie.lindsey@okbu.edu
+   Username: kylie.lindsey
+   Original line: Kylie Lindsey Assistant Coach kylie.lindsey@okbu.edu
+
+9. Chris Jensen
+   Email: chris.jensen@okbu.edu
+   Username: chris.jensen
+   Phone: 405.585.5307
+   Original line: Chris Jensen Head Football Coach chris.jensen@okbu.edu 405.585.5307
+
+10. Greg Gothard
+   Email: greg.gothard@okbu.edu
+   Username: greg.gothard
+   Phone: 405.585.5295
+   Original line: Greg Gothard Assistant Head Coach greg.gothard@okbu.edu 405.585.5295
+
+11. Jason Eaker
+   Email: jason.eaker@okbu.edu
+   Username: jason.eaker
+   Phone: 405.585.5310
+   Original line: Jason Eaker Head Men's Basketball Coach jason.eaker@okbu.edu 405.585.5310
+
+12. MJ Smith
+   Email: mark.smith@okbu.edu
+   Username: mark.smith
+   Original line: MJ Smith Assistant Coach mark.smith@okbu.edu
+
+13. Jace Brewer
+   Email: jace.brewer@okbu.edu
+   Username: jace.brewer
+   Phone: 405.585.5336
+   Original line: Jace Brewer Head Coach jace.brewer@okbu.edu 405.585.5336
+
+14. Brady Rowland
+   Email: brady.rowland@okbu.edu
+   Username: brady.rowland
+   Phone: 405.585.5336
+   Original line: Brady Rowland Assistant Coach brady.rowland@okbu.edu 405.585.5336
+
+15. Brian Whitlock
+   Email: brian.whitlock@okbu.edu
+   Username: brian.whitlock
+   Phone: 405.585.5321
+   Original line: Brian Whitlock Head Cross Country & Track & Field Coach brian.whitlock@okbu.edu 405.585.5321
+
+16. Leon Boyd
+   Email: leon.boyd@okbu.edu
+   Username: leon.boyd
+   Phone: 405.585.5322
+   Original line: Leon Boyd Assistant Coach - Jumps leon.boyd@okbu.edu 405.585.5322
+
+17. Anna Howle
+   Email: anna.howle@okbu.edu
+   Username: anna.howle
+   Phone: 405.585.5355
+   Original line: Anna Howle Head Volleyball Coach / Assistant A.D. / Senior anna.howle@okbu.edu 405.585.5355
+
+18. Victoria Wright
+   Email: victoria.orms@okbu.edu
+   Username: victoria.orms
+   Phone: 405.585.5356
+   Original line: Victoria Wright Assistant Coach victoria.orms@okbu.edu 405.585.5356
+
+19. Bo Overton
+   Email: bo.overton@okbu.edu
+   Username: bo.overton
+   Phone: 405.585.5315
+   Original line: Bo Overton Head Women's Basketball Coach bo.overton@okbu.edu 405.585.5315
+
+20. Mackenzie Crusoe
+   Email: mackenzie.crusoe@okbu.edu
+   Username: mackenzie.crusoe
+   Original line: Mackenzie Crusoe Assistant Coach mackenzie.crusoe@okbu.edu
+
+21. Mike Manlapig
+   Email: mike.manlapig@okbu.edu
+   Username: mike.manlapig
+   Phone: 405.585.5303
+   Original line: Mike Manlapig Head Women's Golf Coach mike.manlapig@okbu.edu 405.585.5303
+
+22. Mike White
+   Email: michael.white@okbu.edu
+   Username: michael.white
+   Phone: 405.585.5323
+   Original line: Mike White Head Women's Soccer Coach michael.white@okbu.edu 405.585.5323
+
+23. Greg Gothard
+   Email: greg.gothard@okbu.edu
+   Username: greg.gothard
+   Phone: 405.585.5295
+   Original line: Greg Gothard Assistant Head Coach greg.gothard@okbu.edu 405.585.5295
+
+24. Chris Jensen
+   Email: chris.jensen@okbu.edu
+   Username: chris.jensen
+   Phone: 405.585.5307
+   Original line: Chris Jensen Head Football Coach chris.jensen@okbu.edu 405.585.5307
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Anna Howle Head Volleyball Coach / Assistant A.D. / Senior anna.howle@okbu.edu 405.585.5355
+• Chris Cox Head Baseball Coach chris.cox@okbu.edu 405.585.5331
+• Cody Painter Associate Head Coach cody.painter@okbu.edu 405.585.5331
+• Trace Maddux Assistant Coach trace.maddux@okbu.edu
+• Jessica Stiles Spirit Coordinator / Head Cheer & STUNT Coach jessica.stiles@okbu.edu
+• Lindsay Smith Assistant Coach lindsay.smith@okbu.edu
+• Jessica Bryan Head Dance Coach jessica.bryan@okbu.edu
+• Kylie Lindsey Assistant Coach kylie.lindsey@okbu.edu
+• Chris Jensen Head Football Coach chris.jensen@okbu.edu 405.585.5307
+• Greg Gothard Assistant Head Coach greg.gothard@okbu.edu 405.585.5295
+• Jason Eaker Head Men's Basketball Coach jason.eaker@okbu.edu 405.585.5310
+• MJ Smith Assistant Coach mark.smith@okbu.edu
+• Jace Brewer Head Coach jace.brewer@okbu.edu 405.585.5336
+• Brady Rowland Assistant Coach brady.rowland@okbu.edu 405.585.5336
+• Brian Whitlock Head Cross Country & Track & Field Coach brian.whitlock@okbu.edu 405.585.5321
+• Leon Boyd Assistant Coach - Jumps leon.boyd@okbu.edu 405.585.5322
+• Anna Howle Head Volleyball Coach / Assistant A.D. / Senior anna.howle@okbu.edu 405.585.5355
+• Victoria Wright Assistant Coach victoria.orms@okbu.edu 405.585.5356
+• Bo Overton Head Women's Basketball Coach bo.overton@okbu.edu 405.585.5315
+• Mackenzie Crusoe Assistant Coach mackenzie.crusoe@okbu.edu
+• Mike Manlapig Head Women's Golf Coach mike.manlapig@okbu.edu 405.585.5303
+• Mike White Head Women's Soccer Coach michael.white@okbu.edu 405.585.5323
+• Greg Gothard Assistant Head Coach greg.gothard@okbu.edu 405.585.5295
+• Chris Jensen Head Football Coach chris.jensen@okbu.edu 405.585.5307

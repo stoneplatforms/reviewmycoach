@@ -1,0 +1,383 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:13
+============================================================
+
+Total coaches found: 62
+
+PARSED ENTRIES:
+----------------------------------------
+1. James Heiss
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: James Heiss Head Strength & Conditioning Coach, Football gsfootball@georgiasouthern.edu 912-478-
+
+2. Hunter Lakey
+   Email: hlakey@georgiasouthern.edu
+   Username: hlakey
+   Original line: Hunter Lakey Assistant S&C Coach, Olympic Sports hlakey@georgiasouthern.edu 336-213-
+
+3. Keegan Smith
+   Email: keegansmith@georgiasouthern.edu
+   Username: keegansmith
+   Original line: Keegan Smith Assistant S&C Coach, Olympic Sports keegansmith@georgiasouthern.edu
+
+4. Danny Strohm
+   Email: dstrohm@georgiasouthern.edu
+   Username: dstrohm
+   Original line: Danny Strohm Assistant S&C Coach, Olympic Sports dstrohm@georgiasouthern.edu
+
+5. Corbin Gant
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Corbin Gant Assistant S&C Coach, Football gsfootball@georgiasouthern.edu 912-478-
+
+6. Addi Henry
+   Email: ahenry@georgiasouthern.edu
+   Username: ahenry
+   Original line: Addi Henry Assistant Director S.A.A.S./Throws Coach ahenry@georgiasouthern.edu
+
+7. Barry Munkasy
+   Email: GSUCheer@GeorgiaSouthern.edu
+   Username: GSUCheer
+   Original line: Barry Munkasy Cheerleading Head Coach GSUCheer@GeorgiaSouthern.edu
+
+8. Rodney Hennon
+   Email: rhennon@georgiasouthern.edu
+   Username: rhennon
+   Original line: Rodney Hennon Head Coach rhennon@georgiasouthern.edu
+
+9. Jason Beverlin
+   Email: jbeverlin@georgiasouthern.edu
+   Username: jbeverlin
+   Original line: Jason Beverlin Assistant Coach - Pitching jbeverlin@georgiasouthern.edu
+
+10. Cody Wofford
+   Email: cwofford@georgiasouthern.edu
+   Username: cwofford
+   Original line: Cody Wofford Assistant Coach - Hitting cwofford@georgiasouthern.edu
+
+11. Josh Minjarez
+   Email: jminjarez@georgiasouthern.edu
+   Username: jminjarez
+   Original line: Josh Minjarez Assistant Coach jminjarez@georgiasouthern.edu
+
+12. Kente' Hart
+   Email: khart@georgiasouthern.edu
+   Username: khart
+   Original line: Kente' Hart Assistant Coach khart@georgiasouthern.edu
+
+13. George Neilson
+   Email: gneilson@georgiasouthern.edu
+   Username: gneilson
+   Original line: George Neilson Assistant Coach gneilson@georgiasouthern.edu
+
+14. Dexter Jenkins
+   Email: djenkins@georgiasouthern.edu
+   Username: djenkins
+   Original line: Dexter Jenkins Assistant Coach & Recruiting Coordinator djenkins@georgiasouthern.edu
+
+15. Tiffany Conner
+   Email: tconner@georgiasouthern.edu
+   Username: tconner
+   Original line: Tiffany Conner Assistant Coach tconner@georgiasouthern.edu
+
+16. Dee Anderson
+   Email: dyandriaanderson@georgiasouthern.edu
+   Username: dyandriaanderson
+   Original line: Dee Anderson Assistant Coach dyandriaanderson@georgiasouthern.edu
+
+17. Clay Helton
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Clay Helton Head Coach gsfootball@georgiasouthern.edu 912-478-
+
+18. Brandon Bailey
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Brandon Bailey Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+
+19. Ryan Aplin
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Ryan Aplin Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+
+20. Ced Douglas
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Ced Douglas Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+
+21. Alex Garwig
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Alex Garwig Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+
+22. BJ Johnson
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: BJ Johnson Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+
+23. Zach Lankford
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Zach Lankford Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+
+24. Taylor Reed
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Taylor Reed Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+
+25. Darius Safford
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Darius Safford Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+
+26. Bryan Schor
+   Email: gsathletics@georgiasouthern.edu
+   Username: gsathletics
+   Original line: Bryan Schor Assistant Coach gsathletics@georgiasouthern.edu 912-478-
+
+27. Damion Willis
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Damion Willis Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+
+28. Blake Wilson
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Blake Wilson Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+
+29. Anthony Beck
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Anthony Beck II Assistant Special Teams Coach/Specialists gsfootball@georgiasouthern.edu 912-478-
+
+30. Drew Gaither
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Drew Gaither Assistant Linebackers Coach gsfootball@georgiasouthern.edu 912-478-
+
+31. Zak Mizell
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Zak Mizell Assistant Quarterbacks Coach gsfootball@georgiasouthern.edu 912-478-
+
+32. Alex Zettler
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Alex Zettler Assistant Safeties Coach gsfootball@georgiasouthern.edu 912-478-
+
+33. James Heiss
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: James Heiss Head Strength & Conditioning Coach, Football gsfootball@georgiasouthern.edu 912-478-
+
+34. Corbin Gant
+   Email: gsfootball@georgiasouthern.edu
+   Username: gsfootball
+   Original line: Corbin Gant Assistant S&C Coach, Football gsfootball@georgiasouthern.edu 912-478-
+
+35. Carter Collins
+   Email: cartercollins@georgiasouthern.edu
+   Username: cartercollins
+   Original line: Carter Collins Head Coach cartercollins@georgiasouthern.edu
+
+36. Connor Pollman
+   Email: cpollman@georgiasouthern.edu
+   Username: cpollman
+   Original line: Connor Pollman Assistant Coach cpollman@georgiasouthern.edu
+
+37. Mimi Burke
+   Email: mburke@georgiasouthern.edu
+   Username: mburke
+   Original line: Mimi Burke Head Coach mburke@georgiasouthern.edu
+
+38. Mia Kness
+   Email: mkness@georgiasouthern.edu
+   Username: mkness
+   Original line: Mia Kness Assistant Coach mkness@georgiasouthern.edu
+
+39. Soren Butler
+   Email: sbutler@georgiasouthern.edu
+   Username: sbutler
+   Original line: Soren Butler Head Coach sbutler@georgiasouthern.edu
+
+40. Lee Squires
+   Email: gsumenssoccer@georgiasouthern.edu
+   Username: gsumenssoccer
+   Original line: Lee Squires Men's Soccer Head Coach gsumenssoccer@georgiasouthern.edu
+
+41. James Smith
+   Email: jamessmith@georgiasouthern.edu
+   Username: jamessmith
+   Original line: James Smith Associate Head Coach jamessmith@georgiasouthern.edu
+
+42. Clayton Zelin
+   Email: rzelin@georgiasouthern.edu
+   Username: rzelin
+   Original line: Clayton Zelin Assistant Coach rzelin@georgiasouthern.edu
+
+43. Harry Nash
+   Email: hn02948@georgiasouthern.edu
+   Username: hn02948
+   Original line: Harry Nash Graduate Assistant Coach hn02948@georgiasouthern.edu
+
+44. Chris Adams
+   Email: cadams@georgiasouthern.edu
+   Username: cadams
+   Original line: Chris Adams Head Coach cadams@georgiasouthern.edu
+
+45. Dallas Hall
+   Email: dlhall@georgiasouthern.edu
+   Username: dlhall
+   Original line: Dallas Hall Assistant Coach dlhall@georgiasouthern.edu
+
+46. Ellie McIntyre
+   Email: em18115-sw@georgiasouthern.edu
+   Username: em18115-sw
+   Original line: Ellie McIntyre Assistant Coach em18115-sw@georgiasouthern.edu
+
+47. Brianna Sroka
+   Email: bs28204-sw@georgiasouthern.edu
+   Username: bs28204-sw
+   Original line: Brianna Sroka Assistant Coach bs28204-sw@georgiasouthern.edu
+
+48. Sharon Perkins
+   Email: sperkins@georgiasouthern.edu
+   Username: sperkins
+   Original line: Sharon Perkins Head Coach sperkins@georgiasouthern.edu
+
+49. Cortney Radke
+   Email: cradke@georgiasouthern.edu
+   Username: cradke
+   Original line: Cortney Radke Assistant Coach - Pitching cradke@georgiasouthern.edu
+
+50. Jake Sandlin
+   Email: jsandlin@georgiasouthern.edu
+   Username: jsandlin
+   Original line: Jake Sandlin Assistant Coach - Hitting jsandlin@georgiasouthern.edu
+
+51. Morgan McCafferty
+   Email: mmccafferty@georgiasouthern.edu
+   Username: mmccafferty
+   Original line: Morgan McCafferty Head Coach mmccafferty@georgiasouthern.edu
+
+52. Kyle Weesner
+   Email: kw32589@georgiasouthern.edu
+   Username: kw32589
+   Original line: Kyle Weesner Diving Coach kw32589@georgiasouthern.edu
+
+53. Andrew Goodwin
+   Email: agoodwin@georgiasouthern.edu
+   Username: agoodwin
+   Original line: Andrew Goodwin Head Coach agoodwin@georgiasouthern.edu
+
+54. Ege Cankus
+   Email: uc00196@georgiasouthern.edu
+   Username: uc00196
+   Original line: Ege Cankus Graduate Assistant Coach uc00196@georgiasouthern.edu
+
+55. Sean McCaffrey
+   Email: smccaffrey@georgiasouthern.edu
+   Username: smccaffrey
+   Original line: Sean McCaffrey Head Coach smccaffrey@georgiasouthern.edu
+
+56. David Neville
+   Email: davidneville@georgiasouthern.edu
+   Username: davidneville
+   Original line: David Neville Head Coach davidneville@georgiasouthern.edu
+
+57. James Isaac
+   Email: jisaac@georgiasouthern.edu
+   Username: jisaac
+   Original line: James Isaac Associate Head Coach/Recruiting Coordinator jisaac@georgiasouthern.edu
+
+58. Timothy Susko
+   Email: tsusko@georgiasouthern.edu
+   Username: tsusko
+   Original line: Timothy Susko Assistant Coach (Distance) tsusko@georgiasouthern.edu
+
+59. Addi Henry
+   Email: ahenry@georgiasouthern.edu
+   Username: ahenry
+   Original line: Addi Henry Assistant Director S.A.A.S./Throws Coach ahenry@georgiasouthern.edu
+
+60. Chad Willis
+   Email: cwillis@georgiasouthern.edu
+   Username: cwillis
+   Original line: Chad Willis Head Coach cwillis@georgiasouthern.edu
+
+61. Efrain Negron
+   Email: enegron@georgiasouthern.edu
+   Username: enegron
+   Original line: Efrain Negron Associate Head Coach enegron@georgiasouthern.edu
+
+62. Lexi Uhrhan
+   Email: auhrhan@georgiasouthern.edu
+   Username: auhrhan
+   Original line: Lexi Uhrhan Assistant Coach auhrhan@georgiasouthern.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• James Heiss Head Strength & Conditioning Coach, Football gsfootball@georgiasouthern.edu 912-478-
+• Hunter Lakey Assistant S&C Coach, Olympic Sports hlakey@georgiasouthern.edu 336-213-
+• Keegan Smith Assistant S&C Coach, Olympic Sports keegansmith@georgiasouthern.edu
+• Danny Strohm Assistant S&C Coach, Olympic Sports dstrohm@georgiasouthern.edu
+• Corbin Gant Assistant S&C Coach, Football gsfootball@georgiasouthern.edu 912-478-
+• Addi Henry Assistant Director S.A.A.S./Throws Coach ahenry@georgiasouthern.edu
+• Barry Munkasy Cheerleading Head Coach GSUCheer@GeorgiaSouthern.edu
+• Rodney Hennon Head Coach rhennon@georgiasouthern.edu
+• Jason Beverlin Assistant Coach - Pitching jbeverlin@georgiasouthern.edu
+• Cody Wofford Assistant Coach - Hitting cwofford@georgiasouthern.edu
+• Josh Minjarez Assistant Coach jminjarez@georgiasouthern.edu
+• Kente' Hart Assistant Coach khart@georgiasouthern.edu
+• George Neilson Assistant Coach gneilson@georgiasouthern.edu
+• Dexter Jenkins Assistant Coach & Recruiting Coordinator djenkins@georgiasouthern.edu
+• Tiffany Conner Assistant Coach tconner@georgiasouthern.edu
+• Dee Anderson Assistant Coach dyandriaanderson@georgiasouthern.edu
+• Clay Helton Head Coach gsfootball@georgiasouthern.edu 912-478-
+• Brandon Bailey Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+• Ryan Aplin Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+• Ced Douglas Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+• Alex Garwig Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+• BJ Johnson Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+• Zach Lankford Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+• Taylor Reed Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+• Darius Safford Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+• Bryan Schor Assistant Coach gsathletics@georgiasouthern.edu 912-478-
+• Damion Willis Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+• Blake Wilson Assistant Coach gsfootball@georgiasouthern.edu 912-478-
+• Anthony Beck II Assistant Special Teams Coach/Specialists gsfootball@georgiasouthern.edu 912-478-
+• Drew Gaither Assistant Linebackers Coach gsfootball@georgiasouthern.edu 912-478-
+• Zak Mizell Assistant Quarterbacks Coach gsfootball@georgiasouthern.edu 912-478-
+• Alex Zettler Assistant Safeties Coach gsfootball@georgiasouthern.edu 912-478-
+• James Heiss Head Strength & Conditioning Coach, Football gsfootball@georgiasouthern.edu 912-478-
+• Corbin Gant Assistant S&C Coach, Football gsfootball@georgiasouthern.edu 912-478-
+• Carter Collins Head Coach cartercollins@georgiasouthern.edu
+• Connor Pollman Assistant Coach cpollman@georgiasouthern.edu
+• Mimi Burke Head Coach mburke@georgiasouthern.edu
+• Mia Kness Assistant Coach mkness@georgiasouthern.edu
+• Soren Butler Head Coach sbutler@georgiasouthern.edu
+• Lee Squires Men's Soccer Head Coach gsumenssoccer@georgiasouthern.edu
+• James Smith Associate Head Coach jamessmith@georgiasouthern.edu
+• Clayton Zelin Assistant Coach rzelin@georgiasouthern.edu
+• Harry Nash Graduate Assistant Coach hn02948@georgiasouthern.edu
+• Chris Adams Head Coach cadams@georgiasouthern.edu
+• Dallas Hall Assistant Coach dlhall@georgiasouthern.edu
+• Ellie McIntyre Assistant Coach em18115-sw@georgiasouthern.edu
+• Brianna Sroka Assistant Coach bs28204-sw@georgiasouthern.edu
+• Sharon Perkins Head Coach sperkins@georgiasouthern.edu
+• Cortney Radke Assistant Coach - Pitching cradke@georgiasouthern.edu
+• Jake Sandlin Assistant Coach - Hitting jsandlin@georgiasouthern.edu
+• Morgan McCafferty Head Coach mmccafferty@georgiasouthern.edu
+• Kyle Weesner Diving Coach kw32589@georgiasouthern.edu
+• Andrew Goodwin Head Coach agoodwin@georgiasouthern.edu
+• Ege Cankus Graduate Assistant Coach uc00196@georgiasouthern.edu
+• Sean McCaffrey Head Coach smccaffrey@georgiasouthern.edu
+• David Neville Head Coach davidneville@georgiasouthern.edu
+• James Isaac Associate Head Coach/Recruiting Coordinator jisaac@georgiasouthern.edu
+• Timothy Susko Assistant Coach (Distance) tsusko@georgiasouthern.edu
+• Addi Henry Assistant Director S.A.A.S./Throws Coach ahenry@georgiasouthern.edu
+• Chad Willis Head Coach cwillis@georgiasouthern.edu
+• Efrain Negron Associate Head Coach enegron@georgiasouthern.edu
+• Lexi Uhrhan Assistant Coach auhrhan@georgiasouthern.edu

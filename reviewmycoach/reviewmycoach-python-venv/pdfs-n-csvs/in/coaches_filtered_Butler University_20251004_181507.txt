@@ -1,0 +1,419 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:08
+============================================================
+
+Total coaches found: 68
+
+PARSED ENTRIES:
+----------------------------------------
+1. Blake Beemer
+   Email: btbeemer@butler.edu
+   Username: btbeemer
+   Original line: Blake Beemer Head Coach 317-940- btbeemer@butler.edu
+
+2. Ty Neal
+   Email: tneal2@butler.edu
+   Username: tneal2
+   Original line: Ty Neal Pitching Coach tneal2@butler.edu
+
+3. Bladen Bales
+   Email: bbales@butler.edu
+   Username: bbales
+   Original line: Bladen Bales Assistant Coach bbales@butler.edu
+
+4. Seth Petry
+   Email: spetry@butler.edu
+   Username: spetry
+   Original line: Seth Petry Assistant Coach spetry@butler.edu
+
+5. Thad Matta
+   Email: butlermbb@butler.edu
+   Username: butlermbb
+   Original line: Thad Matta '90 Head Coach butlermbb@butler.edu
+
+6. Mike Pegues
+   Email: mpegues@butler.edu
+   Username: mpegues
+   Original line: Mike Pegues Assistant Coach mpegues@butler.edu
+
+7. Maurice Joseph
+   Email: mmjoseph1@butler.edu
+   Username: mmjoseph1
+   Original line: Maurice Joseph Assistant Coach mmjoseph1@butler.edu
+
+8. Alex Barlow
+   Email: atbarlow@butler.edu
+   Username: atbarlow
+   Original line: Alex Barlow '15 Assistant Coach atbarlow@butler.edu
+
+9. Jon Diebler
+   Email: jdiebler@butler.edu
+   Username: jdiebler
+   Original line: Jon Diebler Assistant Coach jdiebler@butler.edu
+
+10. Connor McCaffery
+   Email: cmccaffery@butler.edu
+   Username: cmccaffery
+   Original line: Connor McCaffery Assistant Coach cmccaffery@butler.edu
+
+11. Austin Parkinson
+   Email: womensbasketball@butler.edu
+   Username: womensbasketball
+   Original line: Austin Parkinson Head Coach 317-940- womensbasketball@butler.edu
+
+12. Latrell Fleming
+   Email: blfleming@butler.edu
+   Username: blfleming
+   Original line: Latrell Fleming Assistant Coach 317-940- blfleming@butler.edu
+
+13. Kristin Wodrich
+   Email: kwodrich@butler.edu
+   Username: kwodrich
+   Original line: Kristin Wodrich Assistant Coach 317-940- kwodrich@butler.edu
+
+14. Holly Hoopingarner
+   Email: hhoopingarner@butler.edu
+   Username: hhoopingarner
+   Original line: Holly Hoopingarner Assistant Coach 317-940- hhoopingarner@butler.edu
+
+15. Chelsey Perry
+   Email: cperry1@butler.edu
+   Username: cperry1
+   Original line: Chelsey Perry Assistant Coach cperry1@butler.edu
+
+16. Cole Hester
+   Email: bchester@butler.edu
+   Username: bchester
+   Original line: Cole Hester Assistant Coach bchester@butler.edu
+
+17. Jeff Fiebelkorn
+   Email: jfiebelkorn@butler.edu
+   Username: jfiebelkorn
+   Original line: Jeff Fiebelkorn Assistant Coach jfiebelkorn@butler.edu
+
+18. Mikayla Reed
+   Email: mmreed@butler.edu
+   Username: mmreed
+   Original line: Mikayla Reed Assistant Coach mmreed@butler.edu
+
+19. Jacob Lough
+   Email: jlough@butler.edu
+   Username: jlough
+   Original line: Jacob Lough Assistant Coach jlough@butler.edu
+
+20. Kevin Lynch
+   Email: kplynch1@butler.edu
+   Username: kplynch1
+   Original line: Kevin Lynch Head Coach 317-940- kplynch1@butler.edu
+
+21. Colin Johnson
+   Email: cjohnso1@butler.edu
+   Username: cjohnso1
+   Original line: Colin Johnson Assistant Head Coach / Offensive Coordinator / Running Backs 317-940- cjohnso1@butler.edu
+
+22. Jordan Belfiori
+   Email: jbelfiori@butler.edu
+   Username: jbelfiori
+   Original line: Jordan Belfiori Defensive Coordinator / Linebackers Coach 317-940- jbelfiori@butler.edu
+
+23. Joe Cheshire
+   Email: jcheshir@butler.edu
+   Username: jcheshir
+   Original line: Joe Cheshire Special Teams Coordinator / Safeties Coach 317-940- jcheshir@butler.edu
+
+24. Luke Shively
+   Email: lshively@butler.edu
+   Username: lshively
+   Original line: Luke Shively Run Game Coordinator / Offensive Line Coach 317-940- lshively@butler.edu
+
+25. Preston Gordon
+   Email: pgordon1@butler.edu
+   Username: pgordon1
+   Original line: Preston Gordon Run Game Coordinator / Defensive Line Coach 317-940- pgordon1@butler.edu
+
+26. Jack Connolly
+   Email: jwconnol@butler.edu
+   Username: jwconnol
+   Original line: Jack Connolly Wide Receivers Coach / Recruiting Coordinator 317-940- jwconnol@butler.edu
+
+27. Eddie Schott
+   Email: eschott@butler.edu
+   Username: eschott
+   Original line: Eddie Schott Quarterbacks Coach 317-940- eschott@butler.edu
+
+28. Clint Hostler
+   Email: chostler@butler.edu
+   Username: chostler
+   Original line: Clint Hostler Snipers Coach / Video Coordinator 317-940- chostler@butler.edu
+
+29. Jake DelCampo
+   Email: jdelcampo@butler.edu
+   Username: jdelcampo
+   Original line: Jake DelCampo Cornerbacks Coach 317-940- jdelcampo@butler.edu
+
+30. Alex Mitchell
+   Email: amitchell4@butler.edu
+   Username: amitchell4
+   Original line: Alex Mitchell Tight Ends Coach 317-940- amitchell4@butler.edu
+
+31. Colby Huffman
+   Email: crhuffman@butler.edu
+   Username: crhuffman
+   Original line: Dr. Colby Huffman Head Coach 317-940- crhuffman@butler.edu
+
+32. Shaun Micheel
+   Email: smicheel@butler.edu
+   Username: smicheel
+   Original line: Shaun Micheel Assistant Coach smicheel@butler.edu
+
+33. Christie Cates
+   Email: ccates@butler.edu
+   Username: ccates
+   Original line: Christie Cates '16 Head Coach 317-940- ccates@butler.edu
+
+34. Maggie Zentgraf
+   Email: butlerwlax@butler.edu
+   Username: butlerwlax
+   Original line: Maggie Zentgraf Head Coach butlerwlax@butler.edu
+
+35. Abigail Lagos
+   Email: aelagos@butler.edu
+   Username: aelagos
+   Original line: Abigail Lagos Assistant Coach aelagos@butler.edu
+
+36. Meghan Deehan
+   Email: mdeehan@butler.edu
+   Username: mdeehan
+   Original line: Meghan Deehan Assistant Coach mdeehan@butler.edu
+
+37. MC Wright
+   Email: mcwright@butler.edu
+   Username: mcwright
+   Original line: MC Wright Assistant Coach mcwright@butler.edu
+
+38. Paul Snape
+   Email: psnape@butler.edu
+   Username: psnape
+   Original line: Paul Snape Head Coach 317-940- psnape@butler.edu
+
+39. Adam Bruh
+   Email: abruh@butler.edu
+   Username: abruh
+   Original line: Adam Bruh Assistant Coach 317-940- abruh@butler.edu
+
+40. Joe Moulden
+   Email: jmoulden@butler.edu
+   Username: jmoulden
+   Original line: Joe Moulden '19 Assistant Coach jmoulden@butler.edu
+
+41. Fabian Knopfler
+   Email: fknopfle@butler.edu
+   Username: fknopfle
+   Original line: Fabian Knopfler '10, MBA '11 Assistant Coach fknopfle@butler.edu
+
+42. Rob Alman
+   Email: ralman@butler.edu
+   Username: ralman
+   Original line: Rob Alman Co-Head Coach 317-869- ralman@butler.edu
+
+43. Tari St.
+   Email: tstjohn@butler.edu
+   Username: tstjohn
+   Original line: Tari St. John Co-Head Coach 317-940- tstjohn@butler.edu
+
+44. Alex Collier
+   Email: abcollie@butler.edu
+   Username: abcollie
+   Original line: Alex Collier '15 Assistant Coach 317-940- abcollie@butler.edu
+
+45. Joe Sochacki
+   Email: jsochack@butler.edu
+   Username: jsochack
+   Original line: Joe Sochacki Assistant Coach jsochack@butler.edu
+
+46. Scott Hall
+   Email: sahall@butler.edu
+   Username: sahall
+   Original line: Scott Hall Head Coach 317-940- sahall@butler.edu
+
+47. Mallory Winters
+   Email: mfwinter@butler.edu
+   Username: mfwinter
+   Original line: Mallory Winters '12 Assistant Coach 317-940- mfwinter@butler.edu
+
+48. Cory Rywalt
+   Email: crywalt@butler.edu
+   Username: crywalt
+   Original line: Cory Rywalt Assistant Coach crywalt@butler.edu
+
+49. Maurice Stewart
+   Email: mpstewar@butler.edu
+   Username: mpstewar
+   Original line: Maurice Stewart Head Coach 317-940- mpstewar@butler.edu
+
+50. Hannah Cressman
+   Email: hcressman@butler.edu
+   Username: hcressman
+   Original line: Hannah Cressman Assistant Coach hcressman@butler.edu
+
+51. Emily Landwehr
+   Email: elandwehr@butler.edu
+   Username: elandwehr
+   Original line: Emily Landwehr Assistant Coach elandwehr@butler.edu
+
+52. Sam Miles
+   Email: smiles2@butler.edu
+   Username: smiles2
+   Original line: Sam Miles Head Coach 317-940- smiles2@butler.edu
+
+53. Patrick Fletchall
+   Email: pfletchall@butler.edu
+   Username: pfletchall
+   Original line: Patrick Fletchall Assistant Coach pfletchall@butler.edu
+
+54. Cassie Shultz
+   Email: cshultz@butler.edu
+   Username: cshultz
+   Original line: Cassie Shultz Head Coach cshultz@butler.edu
+
+55. Kyle Shondell
+   Email: kshondell@butler.edu
+   Username: kshondell
+   Original line: Kyle Shondell Head Coach kshondell@butler.edu
+
+56. Tyler Golsteyn
+   Email: tgolsteyn@butler.edu
+   Username: tgolsteyn
+   Original line: Tyler Golsteyn Assistant Coach tgolsteyn@butler.edu
+
+57. AJ Lux
+   Email: alux1@butler.edu
+   Username: alux1
+   Original line: AJ Lux Assistant Coach alux1@butler.edu
+
+58. Ainise Havili
+   Email: ahavili@butler.edu
+   Username: ahavili
+   Original line: Ainise Havili Assistant Coach ahavili@butler.edu
+
+59. Brenda Jamerson
+   Email: bjamerso@butler.edu
+   Username: bjamerso
+   Original line: Brenda Jamerson Cheerleading Coach bjamerso@butler.edu
+
+60. Cole Bonewit
+   Email: cbonewit@butler.edu
+   Username: cbonewit
+   Original line: Cole Bonewit Cheerleading Assistant Coach cbonewit@butler.edu
+
+61. Paige Burns
+   Email: pcamp@butler.edu
+   Username: pcamp
+   Original line: Paige Burns Dance Coach pcamp@butler.edu
+
+62. Alyssa Hartsock
+   Email: ahartsock@butler.edu
+   Username: ahartsock
+   Original line: Alyssa Hartsock Dance Assistant Coach ahartsock@butler.edu
+
+63. Greg Moore
+   Email: gamoore1@butler.edu
+   Username: gamoore1
+   Original line: Greg Moore Head Strength and Conditioning Coach 317-940- gamoore1@butler.edu
+
+64. Tyler Watson
+   Email: tawatson@butler.edu
+   Username: tawatson
+   Original line: Tyler Watson Strength and Conditioning Coach tawatson@butler.edu
+
+65. Dan Wenger
+   Email: dwenger1@butler.edu
+   Username: dwenger1
+   Original line: Dan Wenger Strength and Conditioning Coach dwenger1@butler.edu
+
+66. Cameron Razzano
+   Email: crazzano@butler.edu
+   Username: crazzano
+   Original line: Cameron Razzano Strength and Conditioning Coach crazzano@butler.edu
+
+67. Antonio Petrucelli
+   Email: apetrucelli1@butler.edu
+   Username: apetrucelli1
+   Original line: Antonio Petrucelli Strength and Conditioning Coach apetrucelli1@butler.edu
+
+68. Bryce Small
+   Email: bjsmall@butler.edu
+   Username: bjsmall
+   Original line: Bryce Small Strength and Conditioning Coach bjsmall@butler.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Blake Beemer Head Coach 317-940- btbeemer@butler.edu
+• Ty Neal Pitching Coach tneal2@butler.edu
+• Bladen Bales Assistant Coach bbales@butler.edu
+• Seth Petry Assistant Coach spetry@butler.edu
+• Thad Matta '90 Head Coach butlermbb@butler.edu
+• Mike Pegues Assistant Coach mpegues@butler.edu
+• Maurice Joseph Assistant Coach mmjoseph1@butler.edu
+• Alex Barlow '15 Assistant Coach atbarlow@butler.edu
+• Jon Diebler Assistant Coach jdiebler@butler.edu
+• Connor McCaffery Assistant Coach cmccaffery@butler.edu
+• Austin Parkinson Head Coach 317-940- womensbasketball@butler.edu
+• Latrell Fleming Assistant Coach 317-940- blfleming@butler.edu
+• Kristin Wodrich Assistant Coach 317-940- kwodrich@butler.edu
+• Holly Hoopingarner Assistant Coach 317-940- hhoopingarner@butler.edu
+• Chelsey Perry Assistant Coach cperry1@butler.edu
+• Cole Hester Assistant Coach bchester@butler.edu
+• Jeff Fiebelkorn Assistant Coach jfiebelkorn@butler.edu
+• Mikayla Reed Assistant Coach mmreed@butler.edu
+• Jacob Lough Assistant Coach jlough@butler.edu
+• Kevin Lynch Head Coach 317-940- kplynch1@butler.edu
+• Colin Johnson Assistant Head Coach / Offensive Coordinator / Running Backs 317-940- cjohnso1@butler.edu
+• Jordan Belfiori Defensive Coordinator / Linebackers Coach 317-940- jbelfiori@butler.edu
+• Joe Cheshire Special Teams Coordinator / Safeties Coach 317-940- jcheshir@butler.edu
+• Luke Shively Run Game Coordinator / Offensive Line Coach 317-940- lshively@butler.edu
+• Preston Gordon Run Game Coordinator / Defensive Line Coach 317-940- pgordon1@butler.edu
+• Jack Connolly Wide Receivers Coach / Recruiting Coordinator 317-940- jwconnol@butler.edu
+• Eddie Schott Quarterbacks Coach 317-940- eschott@butler.edu
+• Clint Hostler Snipers Coach / Video Coordinator 317-940- chostler@butler.edu
+• Jake DelCampo Cornerbacks Coach 317-940- jdelcampo@butler.edu
+• Alex Mitchell Tight Ends Coach 317-940- amitchell4@butler.edu
+• Dr. Colby Huffman Head Coach 317-940- crhuffman@butler.edu
+• Shaun Micheel Assistant Coach smicheel@butler.edu
+• Christie Cates '16 Head Coach 317-940- ccates@butler.edu
+• Maggie Zentgraf Head Coach butlerwlax@butler.edu
+• Abigail Lagos Assistant Coach aelagos@butler.edu
+• Meghan Deehan Assistant Coach mdeehan@butler.edu
+• MC Wright Assistant Coach mcwright@butler.edu
+• Paul Snape Head Coach 317-940- psnape@butler.edu
+• Adam Bruh Assistant Coach 317-940- abruh@butler.edu
+• Joe Moulden '19 Assistant Coach jmoulden@butler.edu
+• Fabian Knopfler '10, MBA '11 Assistant Coach fknopfle@butler.edu
+• Rob Alman Co-Head Coach 317-869- ralman@butler.edu
+• Tari St. John Co-Head Coach 317-940- tstjohn@butler.edu
+• Alex Collier '15 Assistant Coach 317-940- abcollie@butler.edu
+• Joe Sochacki Assistant Coach jsochack@butler.edu
+• Scott Hall Head Coach 317-940- sahall@butler.edu
+• Mallory Winters '12 Assistant Coach 317-940- mfwinter@butler.edu
+• Cory Rywalt Assistant Coach crywalt@butler.edu
+• Maurice Stewart Head Coach 317-940- mpstewar@butler.edu
+• Hannah Cressman Assistant Coach hcressman@butler.edu
+• Emily Landwehr Assistant Coach elandwehr@butler.edu
+• Sam Miles Head Coach 317-940- smiles2@butler.edu
+• Patrick Fletchall Assistant Coach pfletchall@butler.edu
+• Cassie Shultz Head Coach cshultz@butler.edu
+• Kyle Shondell Head Coach kshondell@butler.edu
+• Tyler Golsteyn Assistant Coach tgolsteyn@butler.edu
+• AJ Lux Assistant Coach alux1@butler.edu
+• Ainise Havili Assistant Coach ahavili@butler.edu
+• Brenda Jamerson Cheerleading Coach bjamerso@butler.edu
+• Cole Bonewit Cheerleading Assistant Coach cbonewit@butler.edu
+• Paige Burns Dance Coach pcamp@butler.edu
+• Alyssa Hartsock Dance Assistant Coach ahartsock@butler.edu
+• Greg Moore Head Strength and Conditioning Coach 317-940- gamoore1@butler.edu
+• Tyler Watson Strength and Conditioning Coach tawatson@butler.edu
+• Dan Wenger Strength and Conditioning Coach dwenger1@butler.edu
+• Cameron Razzano Strength and Conditioning Coach crazzano@butler.edu
+• Antonio Petrucelli Strength and Conditioning Coach apetrucelli1@butler.edu
+• Bryce Small Strength and Conditioning Coach bjsmall@butler.edu

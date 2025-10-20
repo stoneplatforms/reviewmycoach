@@ -1,0 +1,215 @@
+COACH ENTRIES FOUND - 2025-10-04 18:16:04
+============================================================
+
+Total coaches found: 34
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nick Mitchell
+   Email: nmitchell@grandview.edu
+   Username: nmitchell
+   Original line: Nick Mitchell Assistant Athletics Director for Development and Enrollment - Head Coach nmitchell@grandview.edu
+
+2. Trevor Dickherber
+   Email: tdickherber@grandview.edu
+   Username: tdickherber
+   Original line: Trevor Dickherber Head Strength and Conditioning Coach tdickherber@grandview.edu
+
+3. Angelo Crinzi
+   Email: acrinzi@grandview.edu
+   Username: acrinzi
+   Original line: Angelo Crinzi Head Coach acrinzi@grandview.edu
+
+4. Arelys Valles
+   Email: avalles@grandview.edu
+   Username: avalles
+   Original line: Arelys Valles Assistant Coach avalles@grandview.edu
+
+5. Charlie Mundy
+   Email: cmundy@grandview.edu
+   Username: cmundy
+   Original line: Charlie Mundy Head Coach cmundy@grandview.edu
+
+6. Doug Brinker
+   Email: dbrinker@grandview.edu
+   Username: dbrinker
+   Original line: Doug Brinker Head Coach dbrinker@grandview.edu
+
+7. Austin Marchant
+   Email: amarchant@grandview.edu
+   Username: amarchant
+   Original line: Austin Marchant Pitching Coach amarchant@grandview.edu
+
+8. Jasmine Stohr
+   Email: jstohr@grandview.edu
+   Username: jstohr
+   Original line: Jasmine Stohr Head Coach jstohr@grandview.edu
+
+9. Ian Keiderling
+   Email: ikeiderling@grandview.edu
+   Username: ikeiderling
+   Original line: Ian Keiderling Assistant Coach/Recruiting Coordinator ikeiderling@grandview.edu
+
+10. Denis Schaefer
+   Email: dschaefer@grandview.edu
+   Username: dschaefer
+   Original line: Denis Schaefer Head Coach dschaefer@grandview.edu
+
+11. Tyler Long
+   Email: tlong@grandview.edu
+   Username: tlong
+   Original line: Tyler Long Associate Head Coach tlong@grandview.edu
+
+12. Melody Felton
+   Email: mfelton@grandview.edu
+   Username: mfelton
+   Original line: Melody Felton Head Coach mfelton@grandview.edu
+
+13. Keith Felton
+   Email: kfelton@grandview.edu
+   Username: kfelton
+   Original line: Keith Felton Associate Head Coach kfelton@grandview.edu
+
+14. Sarah Buss
+   Email: sbuss@grandview.edu
+   Username: sbuss
+   Original line: Sarah Buss Head Coach sbuss@grandview.edu
+
+15. Penelope Olsen
+   Email: penelope.olsen@grandview.edu
+   Username: penelope.olsen
+   Original line: Penelope Olsen Assistant Coach penelope.olsen@grandview.edu
+
+16. Kelsey Nichols
+   Email: knichols@grandview.edu
+   Username: knichols
+   Original line: Kelsey Nichols Head Coach knichols@grandview.edu
+
+17. Nikki VanRaalte
+   Email: nvanraalte@grandview.edu
+   Username: nvanraalte
+   Original line: Nikki VanRaalte Assistant Coach nvanraalte@grandview.edu
+
+18. Nicole Mundy
+   Email: nmundy@grandview.edu
+   Username: nmundy
+   Original line: Nicole Mundy Head Men's and Women's Cross Country & Distance Coach nmundy@grandview.edu
+
+19. E.J. Peterson
+   Email: epeterson@grandview.edu
+   Username: epeterson
+   Original line: E.J. Peterson Head Coach epeterson@grandview.edu
+
+20. Chris Winkel
+   Email: cwinkel@grandview.edu
+   Username: cwinkel
+   Original line: Chris Winkel Head Coach cwinkel@grandview.edu
+
+21. David Groves
+   Email: dgroves@grandview.edu
+   Username: dgroves
+   Original line: David Groves Head Coach dgroves@grandview.edu
+
+22. Jonathan Rivera
+   Email: jrivera@grandview.edu
+   Username: jrivera
+   Original line: Jonathan Rivera Assistant Coach jrivera@grandview.edu
+
+23. Matt DeBoer
+   Email: mdeboer@grandview.edu
+   Username: mdeboer
+   Original line: Matt DeBoer Assistant Coach mdeboer@grandview.edu
+
+24. Marcos Silva
+   Email: msilva@grandview.edu
+   Username: msilva
+   Original line: Marcos Silva Assistant Coach msilva@grandview.edu
+
+25. Ventsi Stoimirov
+   Email: vstoimirov@grandview.edu
+   Username: vstoimirov
+   Original line: Ventsi Stoimirov Head Coach vstoimirov@grandview.edu
+
+26. Joel Comito
+   Email: jcomito@grandview.edu
+   Username: jcomito
+   Original line: Joel Comito Assistant Coach jcomito@grandview.edu
+
+27. Lou A.
+   Email: layacinich@grandview.edu
+   Username: layacinich
+   Original line: Lou A. Yacinich Head Coach layacinich@grandview.edu
+
+28. Jacob Redman
+   Email: jredman@grandview.edu
+   Username: jredman
+   Original line: Jacob Redman Head Coach jredman@grandview.edu
+
+29. Raphael Lima
+   Email: rlimaseabra@grandview.edu
+   Username: rlimaseabra
+   Original line: Raphael Lima Seabra Head Coach rlimaseabra@grandview.edu
+
+30. Kandace Cook
+   Email: kcook@grandview.edu
+   Username: kcook
+   Original line: Kandace Cook Head Coach kcook@grandview.edu
+
+31. Nick Mitchell
+   Email: nmitchell@grandview.edu
+   Username: nmitchell
+   Original line: Nick Mitchell Assistant Athletics Director for Development and Enrollment - Head Coach nmitchell@grandview.edu
+
+32. Paul Reedy
+   Email: preedy@grandview.edu
+   Username: preedy
+   Original line: Paul Reedy Assistant Coach preedy@grandview.edu
+
+33. Grant Henderson
+   Email: ghenderson@grandview.edu
+   Username: ghenderson
+   Original line: Grant Henderson Assistant Coach ghenderson@grandview.edu
+
+34. Grant Turner
+   Email: gturner@grandview.edu
+   Username: gturner
+   Original line: Grant Turner Assistant Coach gturner@grandview.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Nick Mitchell Assistant Athletics Director for Development and Enrollment - Head Coach nmitchell@grandview.edu
+• Trevor Dickherber Head Strength and Conditioning Coach tdickherber@grandview.edu
+• Angelo Crinzi Head Coach acrinzi@grandview.edu
+• Arelys Valles Assistant Coach avalles@grandview.edu
+• Charlie Mundy Head Coach cmundy@grandview.edu
+• Doug Brinker Head Coach dbrinker@grandview.edu
+• Austin Marchant Pitching Coach amarchant@grandview.edu
+• Jasmine Stohr Head Coach jstohr@grandview.edu
+• Ian Keiderling Assistant Coach/Recruiting Coordinator ikeiderling@grandview.edu
+• Denis Schaefer Head Coach dschaefer@grandview.edu
+• Tyler Long Associate Head Coach tlong@grandview.edu
+• Melody Felton Head Coach mfelton@grandview.edu
+• Keith Felton Associate Head Coach kfelton@grandview.edu
+• Sarah Buss Head Coach sbuss@grandview.edu
+• Penelope Olsen Assistant Coach penelope.olsen@grandview.edu
+• Kelsey Nichols Head Coach knichols@grandview.edu
+• Nikki VanRaalte Assistant Coach nvanraalte@grandview.edu
+• Nicole Mundy Head Men's and Women's Cross Country & Distance Coach nmundy@grandview.edu
+• E.J. Peterson Head Coach epeterson@grandview.edu
+• Chris Winkel Head Coach cwinkel@grandview.edu
+• David Groves Head Coach dgroves@grandview.edu
+• Jonathan Rivera Assistant Coach jrivera@grandview.edu
+• Matt DeBoer Assistant Coach mdeboer@grandview.edu
+• Marcos Silva Assistant Coach msilva@grandview.edu
+• Ventsi Stoimirov Head Coach vstoimirov@grandview.edu
+• Joel Comito Assistant Coach jcomito@grandview.edu
+• Lou A. Yacinich Head Coach layacinich@grandview.edu
+• Jacob Redman Head Coach jredman@grandview.edu
+• Raphael Lima Seabra Head Coach rlimaseabra@grandview.edu
+• Kandace Cook Head Coach kcook@grandview.edu
+• Nick Mitchell Assistant Athletics Director for Development and Enrollment - Head Coach nmitchell@grandview.edu
+• Paul Reedy Assistant Coach preedy@grandview.edu
+• Grant Henderson Assistant Coach ghenderson@grandview.edu
+• Grant Turner Assistant Coach gturner@grandview.edu

@@ -1,0 +1,5 @@
+Printing results: Success=9 Skipped=0 Errors=0
+
+PDFs with zero coaches detected:
+- University of Alabama at Birmingham (UAB).pdf
+- Troy University.pdf

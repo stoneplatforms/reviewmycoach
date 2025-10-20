@@ -1,0 +1,269 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:36
+============================================================
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jared Brown
+   Email: jared.brown@belmont.edu
+   Username: jared.brown
+   Original line: Jared Brown Assistant Coach, Sports Performance (XC, Track & Field) jared.brown@belmont.edu
+
+2. Dave Jarvis
+   Email: dave.jarvis@belmont.edu
+   Username: dave.jarvis
+   Original line: Dave Jarvis Head Coach dave.jarvis@belmont.edu 615-460-
+
+3. A.J. Gaura
+   Email: aj.gaura@belmont.edu
+   Username: aj.gaura
+   Original line: A.J. Gaura Assistant Head Coach / Pitching Coach aj.gaura@belmont.edu 615-460-
+
+4. Jason Stein
+   Email: jason.stein@belmont.edu
+   Username: jason.stein
+   Original line: Jason Stein Assistant Coach / Recruiting Coordinator jason.stein@belmont.edu 859-893-
+
+5. Max Wright
+   Email: max.wright@belmont.edu
+   Username: max.wright
+   Original line: Max Wright Assistant Coach max.wright@belmont.edu
+
+6. Brian Ayers
+   Email: brian.ayers@belmont.edu
+   Username: brian.ayers
+   Original line: Brian Ayers Associate Head Coach brian.ayers@belmont.edu 615-460-
+
+7. Kerron Johnson
+   Email: kerron.johnson@belmont.edu
+   Username: kerron.johnson
+   Original line: Kerron Johnson Assistant Coach kerron.johnson@belmont.edu 615-460-
+
+8. Luke Smith
+   Email: luke.smith@belmont.edu
+   Username: luke.smith
+   Original line: Luke Smith Assistant Coach luke.smith@belmont.edu 615-460-
+
+9. JJ Butler
+   Email: jj.butler@belmont.edu
+   Username: jj.butler
+   Original line: JJ Butler Assistant Coach jj.butler@belmont.edu 615-460-
+
+10. Bart Brooks
+   Email: bart.brooks@belmont.edu
+   Username: bart.brooks
+   Original line: Bart Brooks Head Coach bart.brooks@belmont.edu 615-460-
+
+11. Jamey Givens
+   Email: jamey.givens@belmont.edu
+   Username: jamey.givens
+   Original line: Jamey Givens Associate Head Coach jamey.givens@belmont.edu 615-460-
+
+12. Amy Malo
+   Email: amy.malo@belmont.edu
+   Username: amy.malo
+   Original line: Amy Malo Assistant Coach amy.malo@belmont.edu 615-460-
+
+13. Jessica Holman
+   Email: jessica.holman@belmont.edu
+   Username: jessica.holman
+   Original line: Jessica Holman Assistant Coach jessica.holman@belmont.edu 615-460-
+
+14. Jo Cambridge
+   Email: jordyn.cambridge@belmont.edu
+   Username: jordyn.cambridge
+   Original line: Jo Cambridge Assistant Coach jordyn.cambridge@belmont.edu 615-460-
+
+15. Cameron Harvey
+   Email: cameron.harvey@belmont.edu
+   Username: cameron.harvey
+   Original line: Cameron Harvey Associate Head Coach Track & Field cameron.harvey@belmont.edu 615-460-
+
+16. Hannah Brookover
+   Email: hannah.brookover@belmont.edu
+   Username: hannah.brookover
+   Original line: Hannah Brookover Assistant Coach Cross Country and Track & Field hannah.brookover@belmont.edu 615-460-
+
+17. Knox Perry
+   Email: knox.perry@bruins.belmont.edu
+   Username: knox.perry
+   Original line: Knox Perry Assistant Coach knox.perry@bruins.belmont.edu
+
+18. Rebekah Stucker
+   Email: rebekah.stucker@bruins.belmont.edu
+   Username: rebekah.stucker
+   Original line: Rebekah Stucker Graduate Assistant Coach for Throws rebekah.stucker@bruins.belmont.edu
+
+19. Jalen Tate
+   Email: jalen.tate@bruins.belmont.edu
+   Username: jalen.tate
+   Original line: Jalen Tate Graduate Assistant Coach for Sprints/Hurdles/Jumps jalen.tate@bruins.belmont.edu
+
+20. Cameron Harvey
+   Email: cameron.harvey@belmont.edu
+   Username: cameron.harvey
+   Original line: Cameron Harvey Associate Head Coach Track & Field cameron.harvey@belmont.edu 615-460-
+
+21. Hannah Brookover
+   Email: hannah.brookover@belmont.edu
+   Username: hannah.brookover
+   Original line: Hannah Brookover Assistant Coach Cross Country and Track & Field hannah.brookover@belmont.edu 615-460-
+
+22. Knox Perry
+   Email: knox.perry@bruins.belmont.edu
+   Username: knox.perry
+   Original line: Knox Perry Assistant Coach knox.perry@bruins.belmont.edu
+
+23. Rebekah Stucker
+   Email: rebekah.stucker@bruins.belmont.edu
+   Username: rebekah.stucker
+   Original line: Rebekah Stucker Graduate Assistant Coach for Throws rebekah.stucker@bruins.belmont.edu
+
+24. Jalen Tate
+   Email: jalen.tate@bruins.belmont.edu
+   Username: jalen.tate
+   Original line: Jalen Tate Graduate Assistant Coach for Sprints/Hurdles/Jumps jalen.tate@bruins.belmont.edu
+
+25. Daniel DeLuca
+   Email: daniel.deluca@belmont.edu
+   Username: daniel.deluca
+   Original line: Daniel DeLuca Head Coach daniel.deluca@belmont.edu 615-460-
+
+26. Josh Loveday
+   Email: joshua.loveday@bruins.belmont.edu
+   Username: joshua.loveday
+   Original line: Josh Loveday Graduate Assistant Coach joshua.loveday@bruins.belmont.edu
+
+27. Olivia Jordan
+   Email: olivia.jordan@belmont.edu
+   Username: olivia.jordan
+   Original line: Olivia Jordan Head Women's Golf Coach olivia.jordan@belmont.edu 615-460-
+
+28. David Costa
+   Email: menssoccer@belmont.edu
+   Username: menssoccer
+   Original line: David Costa Head Coach menssoccer@belmont.edu 615-460-
+
+29. Cam Olson
+   Email: cam.olson@belmont.edu
+   Username: cam.olson
+   Original line: Cam Olson Assistant Coach cam.olson@belmont.edu 615-460-
+
+30. Anthony Torres
+   Email: anthony.torres@belmont.edu
+   Username: anthony.torres
+   Original line: Anthony Torres Assistant Coach anthony.torres@belmont.edu 615-460-
+
+31. Kelsey Cameron
+   Email: womenssoccer@belmont.edu
+   Username: womenssoccer
+   Original line: Kelsey Cameron Head Coach womenssoccer@belmont.edu 615-460-
+
+32. Daniel Vieira
+   Email: daniel.vieira@belmont.edu
+   Username: daniel.vieira
+   Original line: Daniel Vieira Assistant Coach daniel.vieira@belmont.edu 615-460-
+
+33. Lindsey LaRoche
+   Email: lindsey.laroche@belmont.edu
+   Username: lindsey.laroche
+   Original line: Lindsey LaRoche Assistant Coach lindsey.laroche@belmont.edu 615-460-
+
+34. Laura Matthews
+   Email: laura.matthews@belmont.edu
+   Username: laura.matthews
+   Original line: Laura Matthews Head Coach laura.matthews@belmont.edu 615-460-
+
+35. Emlyn Knerem
+   Email: emlyn.knerem@belmont.edu
+   Username: emlyn.knerem
+   Original line: Emlyn Knerem Assistant Coach emlyn.knerem@belmont.edu 615-460-
+
+36. Erin Kuba
+   Email: erin.kuba@belmont.edu
+   Username: erin.kuba
+   Original line: Erin Kuba Assistant Coach erin.kuba@belmont.edu 615-460-
+
+37. Jeff Cero
+   Email: jeff.cero@belmont.edu
+   Username: jeff.cero
+   Original line: Jeff Cero Head Coach jeff.cero@belmont.edu 615-460-
+
+38. Ellie Burger
+   Email: ellie.burger@belmont.edu
+   Username: ellie.burger
+   Original line: Ellie Burger Head Coach ellie.burger@belmont.edu 615-460-
+
+39. Fritz Rosenberg
+   Email: fritz.rosenberg@belmont.edu
+   Username: fritz.rosenberg
+   Original line: Fritz Rosenberg Head Coach fritz.rosenberg@belmont.edu 615-460-
+
+40. Delaney Gallagher
+   Email: delaney.gallagher@belmont.edu
+   Username: delaney.gallagher
+   Original line: Delaney Gallagher Assistant Coach delaney.gallagher@belmont.edu 615-460-
+
+41. Andy Riesenberg
+   Email: andy.riesenberg@belmont.edu
+   Username: andy.riesenberg
+   Original line: Andy Riesenberg Assistant Coach andy.riesenberg@belmont.edu 615-460-
+
+42. Jessica Woody
+   Email: jessica.woody@belmont.edu
+   Username: jessica.woody
+   Original line: Jessica Woody Head Cheerleading Coach jessica.woody@belmont.edu
+
+43. Paige Rugaard
+   Email: paige.rugaard@belmont.edu
+   Username: paige.rugaard
+   Original line: Paige Rugaard Assistant Coach paige.rugaard@belmont.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jared Brown Assistant Coach, Sports Performance (XC, Track & Field) jared.brown@belmont.edu
+• Dave Jarvis Head Coach dave.jarvis@belmont.edu 615-460-
+• A.J. Gaura Assistant Head Coach / Pitching Coach aj.gaura@belmont.edu 615-460-
+• Jason Stein Assistant Coach / Recruiting Coordinator jason.stein@belmont.edu 859-893-
+• Max Wright Assistant Coach max.wright@belmont.edu
+• Brian Ayers Associate Head Coach brian.ayers@belmont.edu 615-460-
+• Kerron Johnson Assistant Coach kerron.johnson@belmont.edu 615-460-
+• Luke Smith Assistant Coach luke.smith@belmont.edu 615-460-
+• JJ Butler Assistant Coach jj.butler@belmont.edu 615-460-
+• Bart Brooks Head Coach bart.brooks@belmont.edu 615-460-
+• Jamey Givens Associate Head Coach jamey.givens@belmont.edu 615-460-
+• Amy Malo Assistant Coach amy.malo@belmont.edu 615-460-
+• Jessica Holman Assistant Coach jessica.holman@belmont.edu 615-460-
+• Jo Cambridge Assistant Coach jordyn.cambridge@belmont.edu 615-460-
+• Cameron Harvey Associate Head Coach Track & Field cameron.harvey@belmont.edu 615-460-
+• Hannah Brookover Assistant Coach Cross Country and Track & Field hannah.brookover@belmont.edu 615-460-
+• Knox Perry Assistant Coach knox.perry@bruins.belmont.edu
+• Rebekah Stucker Graduate Assistant Coach for Throws rebekah.stucker@bruins.belmont.edu
+• Jalen Tate Graduate Assistant Coach for Sprints/Hurdles/Jumps jalen.tate@bruins.belmont.edu
+• Cameron Harvey Associate Head Coach Track & Field cameron.harvey@belmont.edu 615-460-
+• Hannah Brookover Assistant Coach Cross Country and Track & Field hannah.brookover@belmont.edu 615-460-
+• Knox Perry Assistant Coach knox.perry@bruins.belmont.edu
+• Rebekah Stucker Graduate Assistant Coach for Throws rebekah.stucker@bruins.belmont.edu
+• Jalen Tate Graduate Assistant Coach for Sprints/Hurdles/Jumps jalen.tate@bruins.belmont.edu
+• Daniel DeLuca Head Coach daniel.deluca@belmont.edu 615-460-
+• Josh Loveday Graduate Assistant Coach joshua.loveday@bruins.belmont.edu
+• Olivia Jordan Head Women's Golf Coach olivia.jordan@belmont.edu 615-460-
+• David Costa Head Coach menssoccer@belmont.edu 615-460-
+• Cam Olson Assistant Coach cam.olson@belmont.edu 615-460-
+• Anthony Torres Assistant Coach anthony.torres@belmont.edu 615-460-
+• Kelsey Cameron Head Coach womenssoccer@belmont.edu 615-460-
+• Daniel Vieira Assistant Coach daniel.vieira@belmont.edu 615-460-
+• Lindsey LaRoche Assistant Coach lindsey.laroche@belmont.edu 615-460-
+• Laura Matthews Head Coach laura.matthews@belmont.edu 615-460-
+• Emlyn Knerem Assistant Coach emlyn.knerem@belmont.edu 615-460-
+• Erin Kuba Assistant Coach erin.kuba@belmont.edu 615-460-
+• Jeff Cero Head Coach jeff.cero@belmont.edu 615-460-
+• Ellie Burger Head Coach ellie.burger@belmont.edu 615-460-
+• Fritz Rosenberg Head Coach fritz.rosenberg@belmont.edu 615-460-
+• Delaney Gallagher Assistant Coach delaney.gallagher@belmont.edu 615-460-
+• Andy Riesenberg Assistant Coach andy.riesenberg@belmont.edu 615-460-
+• Jessica Woody Head Cheerleading Coach jessica.woody@belmont.edu
+• Paige Rugaard Assistant Coach paige.rugaard@belmont.edu

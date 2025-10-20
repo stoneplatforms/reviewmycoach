@@ -1,0 +1,280 @@
+COACH ENTRIES FOUND - 2025-10-06 18:38:01
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Allison Meadows
+   Email: meadows@csp.edu
+   Username: meadows
+   Phone: (651) 603-6205
+   Original line: Allison Meadows Associate Athletic Director for Compliance / Senior Woman Administrator meadows@csp.edu 651-603-6205 coachameadows
+
+2. Eric Overland
+   Email: overland@csp.edu
+   Username: overland
+   Original line: Eric Overland Strength & Conditioning Coach overland@csp.edu coach_overland
+
+3. Derek Dahlke
+   Email: dahlke@csp.edu
+   Username: dahlke
+   Original line: Derek Dahlke Assistant Baseball Coach / Athletic Facilities Assistant dahlke@csp.edu
+
+4. Eric Overland
+   Email: overland@csp.edu
+   Username: overland
+   Original line: Eric Overland Strength & Conditioning Coach overland@csp.edu coach_overland
+
+5. Andy Lakmann
+   Email: lakmanna@csp.edu
+   Username: lakmanna
+   Original line: Andy Lakmann Assistant Strength & Conditioning Coach lakmanna@csp.edu
+
+6. Neil Lerner
+   Email: nlerner@csp.edu
+   Username: nlerner
+   Phone: (651) 603-6208
+   Original line: Neil Lerner Head Coach nlerner@csp.edu 651-603-6208 CoachLerner
+
+7. Mark "Lunch"
+   Email: mckenzie@csp.edu
+   Username: mckenzie
+   Phone: (651) 603-6208
+   Original line: Mark "Lunch" McKenzie Assistant Coach mckenzie@csp.edu 651-603-6208 lunchmckenzie
+
+8. Derek Dahlke
+   Email: dahlke@csp.edu
+   Username: dahlke
+   Original line: Derek Dahlke Assistant Baseball Coach / Athletic Facilities Assistant dahlke@csp.edu
+
+9. Joshua Culliver
+   Email: cullivej@csp.edu
+   Username: cullivej
+   Original line: Joshua Culliver Assistant Coach cullivej@csp.edu
+
+10. Brendan Dye
+   Email: brendandye@gmail.com
+   Username: brendandye
+   Original line: Brendan Dye Assistant Coach brendandye@gmail.com
+
+11. Matt Fletcher
+   Email: mfletcher@csp.edu
+   Username: mfletcher
+   Phone: (651) 603-6195
+   Original line: Matt Fletcher Head Coach mfletcher@csp.edu 651-603-6195 CoachFletchCSP
+
+12. Brian Smith
+   Email: smithb14@csp.edu
+   Username: smithb14
+   Original line: Brian Smith Assistant Coach smithb14@csp.edu
+
+13. Aaron Houle
+   Email: houlea@csp.edu
+   Username: houlea
+   Original line: Aaron Houle Assistant Coach houlea@csp.edu
+
+14. Neil Fletcher
+   Email: nfletcher@csp.edu
+   Username: nfletcher
+   Original line: Neil Fletcher Assistant Coach nfletcher@csp.edu
+
+15. Amanda Johnson
+   Email: abehnke@csp.edu
+   Username: abehnke
+   Phone: (651) 603-6167
+   Original line: Amanda Johnson Head Coach abehnke@csp.edu 651-603-6167 AmandaLee_44
+
+16. Patrick Swenson
+   Email: swensonp@csp.edu
+   Username: swensonp
+   Original line: Patrick Swenson Assistant Coach swensonp@csp.edu
+
+17. Drea Abram
+   Email: aabram@csp.edu
+   Username: aabram
+   Original line: Drea Abram Cheer Coach aabram@csp.edu
+
+18. Tyler Pauly
+   Email: pauly@csp.edu
+   Username: pauly
+   Phone: (651) 641-8347
+   Original line: Tyler Pauly Head Coach pauly@csp.edu 651-641-8347 CoachTylerPauly
+
+19. Shannon Currier
+   Email: scurrier@csp.edu
+   Username: scurrier
+   Phone: (651) 603-6313
+   Original line: Shannon Currier Head Coach scurrier@csp.edu 651-603-6313 CoachCurrierCSP
+
+20. Peter Maki
+   Email: maki@csp.edu
+   Username: maki
+   Phone: (651) 641-8789
+   Original line: Peter Maki Head Coach maki@csp.edu 651-641-8789
+
+21. Kurt Lambert
+   Email: lambertk@csp.edu
+   Username: lambertk
+   Original line: Kurt Lambert Assistant Coach lambertk@csp.edu
+
+22. Ali Jennings
+   Email: ajennings@csp.edu
+   Username: ajennings
+   Phone: (651) 603-6314
+   Original line: Ali Jennings Head Coach ajennings@csp.edu 651-603-6314
+
+23. Taylor Tvedt
+   Email: tvedtt@csp.edu
+   Username: tvedtt
+   Original line: Taylor Tvedt Assistant Coach tvedtt@csp.edu
+
+24. Steve Bellis
+   Email: bellis@csp.edu
+   Username: bellis
+   Phone: (651) 641-8726
+   Original line: Steve Bellis Head Coach bellis@csp.edu 651-641-8726 BellisSteve
+
+25. Stuart Trench
+   Email: trench@csp.edu
+   Username: trench
+   Original line: Stuart Trench Assistant Coach trench@csp.edu
+
+26. Grace Sprangers
+   Email: sprangeg@csp.edu
+   Username: sprangeg
+   Original line: Grace Sprangers Assistant Coach sprangeg@csp.edu
+
+27. Bob Bartel
+   Email: bartel@csp.edu
+   Username: bartel
+   Phone: (651) 641-8886
+   Original line: Bob Bartel Head Coach bartel@csp.edu 651-641-8886 CSPBearsSB
+
+28. Tom Mauer
+   Email: mauer@csp.edu
+   Username: mauer
+   Phone: (651) 641-8855
+   Original line: Tom Mauer Assistant Softball Coach mauer@csp.edu 651-641-8855
+
+29. Whitney Johnson
+   Email: wjohnson3@csp.edu
+   Username: wjohnson3
+   Original line: Whitney Johnson Assistant Coach / Recruiting Coordinator wjohnson3@csp.edu
+
+30. Joey Scanlan
+   Email: scanlan@csp.edu
+   Username: scanlan
+   Original line: Joey Scanlan Assistant Coach scanlan@csp.edu JoSCANLAN
+
+31. Rachel Busch
+   Email: busch@csp.edu
+   Username: busch
+   Phone: (651) 603-6158
+   Original line: Rachel Busch Head Coach busch@csp.edu 651-603-6158
+
+32. Arron Carlson
+   Email: acarlson1@csp.edu
+   Username: acarlson1
+   Phone: (585) 813-7679
+   Original line: Arron Carlson Assistant Coach / Dive acarlson1@csp.edu 585-813-7679 the_arron
+
+33. Sam Kettenhofen
+   Email: kettenhs@csp.edu
+   Username: kettenhs
+   Phone: (651) 641-8784
+   Original line: Sam Kettenhofen Head Coach kettenhs@csp.edu 651-641-8784
+
+34. Jacob Dennison
+   Email: dennisoj@csp.edu
+   Username: dennisoj
+   Original line: Jacob Dennison Assistant Coach / Throws & Recruiting Coordinator dennisoj@csp.edu
+
+35. Troy Shoberg
+   Email: shobergt@csp.edu
+   Username: shobergt
+   Original line: Troy Shoberg Assistant Coach / High Jump shobergt@csp.edu
+
+36. Antony Odera
+   Email: oderaa@csp.edu
+   Username: oderaa
+   Original line: Antony Odera Assistant Coach / Horizontal Jumps oderaa@csp.edu
+
+37. Cullen Feist
+   Email: feistc@csp.edu
+   Username: feistc
+   Original line: Cullen Feist Assistant Coach / Throws feistc@csp.edu
+
+38. Tierra Doss
+   Email: dosst@csp.edu
+   Username: dosst
+   Original line: Tierra Doss Assistant Coach / Throws dosst@csp.edu
+
+39. Jaid Perry
+   Email: perryj3@csp.edu
+   Username: perryj3
+   Original line: Jaid Perry Assistant Coach / Sprints perryj3@csp.edu
+
+40. Ava Grimm
+   Email: grimma3@csp.edu
+   Username: grimma3
+   Original line: Ava Grimm Assistant Coach / Sprints grimma3@csp.edu
+
+41. Brady Starkey
+   Email: starkey@csp.edu
+   Username: starkey
+   Phone: (651) 603-6173
+   Original line: Brady Starkey Head Coach starkey@csp.edu 651-603-6173
+
+42. Whitney Meierotto-Simon
+   Email: meierotto@csp.edu
+   Username: meierotto
+   Phone: (651) 603-6173
+   Original line: Whitney Meierotto-Simon Assistant Coach meierotto@csp.edu 651-603-6173
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Allison Meadows Associate Athletic Director for Compliance / Senior Woman Administrator meadows@csp.edu 651-603-6205 coachameadows
+• Eric Overland Strength & Conditioning Coach overland@csp.edu coach_overland
+• Derek Dahlke Assistant Baseball Coach / Athletic Facilities Assistant dahlke@csp.edu
+• Eric Overland Strength & Conditioning Coach overland@csp.edu coach_overland
+• Andy Lakmann Assistant Strength & Conditioning Coach lakmanna@csp.edu
+• Neil Lerner Head Coach nlerner@csp.edu 651-603-6208 CoachLerner
+• Mark "Lunch" McKenzie Assistant Coach mckenzie@csp.edu 651-603-6208 lunchmckenzie
+• Derek Dahlke Assistant Baseball Coach / Athletic Facilities Assistant dahlke@csp.edu
+• Joshua Culliver Assistant Coach cullivej@csp.edu
+• Brendan Dye Assistant Coach brendandye@gmail.com
+• Matt Fletcher Head Coach mfletcher@csp.edu 651-603-6195 CoachFletchCSP
+• Brian Smith Assistant Coach smithb14@csp.edu
+• Aaron Houle Assistant Coach houlea@csp.edu
+• Neil Fletcher Assistant Coach nfletcher@csp.edu
+• Amanda Johnson Head Coach abehnke@csp.edu 651-603-6167 AmandaLee_44
+• Patrick Swenson Assistant Coach swensonp@csp.edu
+• Drea Abram Cheer Coach aabram@csp.edu
+• Tyler Pauly Head Coach pauly@csp.edu 651-641-8347 CoachTylerPauly
+• Shannon Currier Head Coach scurrier@csp.edu 651-603-6313 CoachCurrierCSP
+• Peter Maki Head Coach maki@csp.edu 651-641-8789
+• Kurt Lambert Assistant Coach lambertk@csp.edu
+• Ali Jennings Head Coach ajennings@csp.edu 651-603-6314
+• Taylor Tvedt Assistant Coach tvedtt@csp.edu
+• Steve Bellis Head Coach bellis@csp.edu 651-641-8726 BellisSteve
+• Stuart Trench Assistant Coach trench@csp.edu
+• Grace Sprangers Assistant Coach sprangeg@csp.edu
+• Bob Bartel Head Coach bartel@csp.edu 651-641-8886 CSPBearsSB
+• Tom Mauer Assistant Softball Coach mauer@csp.edu 651-641-8855
+• Whitney Johnson Assistant Coach / Recruiting Coordinator wjohnson3@csp.edu
+• Joey Scanlan Assistant Coach scanlan@csp.edu JoSCANLAN
+• Rachel Busch Head Coach busch@csp.edu 651-603-6158
+• Arron Carlson Assistant Coach / Dive acarlson1@csp.edu 585-813-7679 the_arron
+• Sam Kettenhofen Head Coach kettenhs@csp.edu 651-641-8784
+• Jacob Dennison Assistant Coach / Throws & Recruiting Coordinator dennisoj@csp.edu
+• Troy Shoberg Assistant Coach / High Jump shobergt@csp.edu
+• Antony Odera Assistant Coach / Horizontal Jumps oderaa@csp.edu
+• Cullen Feist Assistant Coach / Throws feistc@csp.edu
+• Tierra Doss Assistant Coach / Throws dosst@csp.edu
+• Jaid Perry Assistant Coach / Sprints perryj3@csp.edu
+• Ava Grimm Assistant Coach / Sprints grimma3@csp.edu
+• Brady Starkey Head Coach starkey@csp.edu 651-603-6173
+• Whitney Meierotto-Simon Assistant Coach meierotto@csp.edu 651-603-6173

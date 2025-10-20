@@ -1,0 +1,341 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:08
+============================================================
+
+Total coaches found: 55
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: bstromdahl@gsu.edu
+   Username: bstromdahl
+   Original line: Head Coach Brad Stromdahl (404) 290- bstromdahl@gsu.edu
+
+2. Assistant Coach/Recruiting
+   Email: ldavis160@gsu.edu
+   Username: ldavis160
+   Original line: Assistant Coach/Recruiting Coordinator Lars Davis (217) 419- ldavis160@gsu.edu
+
+3. Assistant Coach
+   Email: ccastorri@gsu.edu
+   Username: ccastorri
+   Original line: Assistant Coach Christian Castorri ccastorri@gsu.edu
+
+4. Assistant Coach
+   Email: mleeder@gsu.edu
+   Username: mleeder
+   Original line: Assistant Coach Michael Leeder mleeder@gsu.edu
+
+5. Head Coach
+   Email: kdavison2@gsu.edu
+   Username: kdavison2
+   Original line: Head Coach Jonas Hayes (404) 413- kdavison2@gsu.edu
+
+6. Assistant Coach
+   Email: apayne41@gsu.edu
+   Username: apayne41
+   Original line: Assistant Coach Allen Payne (404) 413- apayne41@gsu.edu
+
+7. Assistant Coach
+   Email: jhayes34@gsu.edu
+   Username: jhayes34
+   Original line: Assistant Coach Jarvis Hayes (404) 413- jhayes34@gsu.edu
+
+8. Assistant Coach
+   Email: jdunlap10@gsu.edu
+   Username: jdunlap10
+   Original line: Assistant Coach Jeff Dunlap 404-413- jdunlap10@gsu.edu
+
+9. Assistant Coach
+   Email: staylor193@gsu.edu
+   Username: staylor193
+   Original line: Assistant Coach Stevie Taylor staylor193@gsu.edu
+
+10. Assistant Strength
+   Email: jquarles@gsu.edu
+   Username: jquarles
+   Original line: Assistant Strength Coach (Men's Basketball) Jason Quarles jquarles@gsu.edu
+
+11. Head Coach
+   Email: genehill@gsu.edu
+   Username: genehill
+   Original line: Head Coach Gene Hill (404) 413- genehill@gsu.edu
+
+12. Co-Associate Head
+   Email: jbollier@gsu.edu
+   Username: jbollier
+   Original line: Co-Associate Head Coach Jon Bollier jbollier@gsu.edu
+
+13. Co-Associate Head
+   Email: ssanders60@gsu.edu
+   Username: ssanders60
+   Original line: Co-Associate Head Coach Shanasa Sanders ssanders60@gsu.edu
+
+14. Assistant Coach
+   Email: phartman1@gsu.edu
+   Username: phartman1
+   Original line: Assistant Coach Patechia Hartman phartman1@gsu.edu
+
+15. Head Coach
+   Email: bvanfleet@gsu.edu
+   Username: bvanfleet
+   Original line: Head Coach Beth Van Fleet (404) 413- bvanfleet@gsu.edu
+
+16. Associate Head
+   Email: eblount@gsu.edu
+   Username: eblount
+   Original line: Associate Head Coach - Special Teams/Director of Carter Blount eblount@gsu.edu
+
+17. Assistant Head
+   Email: jhawkins63@gsu.edu
+   Username: jhawkins63
+   Original line: Assistant Head Coach - Defensive Line Jeremy Hawkins jhawkins63@gsu.edu
+
+18. Assistant Coach
+   Email: jadams145@gsu.edu
+   Username: jadams145
+   Original line: Assistant Coach - Nickels John Adams jadams145@gsu.edu
+
+19. Assistant Coach
+   Email: dcraig17@gsu.edu
+   Username: dcraig17
+   Original line: Assistant Coach - Wide Receivers Dameyune Craig dcraig17@gsu.edu
+
+20. Assistant Coach
+   Email: edavis137@gsu.edu
+   Username: edavis137
+   Original line: Assistant Coach - Running Backs Enrique Davis edavis137@gsu.edu
+
+21. Assistant Coach
+   Email: gford12@gsu.edu
+   Username: gford12
+   Original line: Assistant Coach - Cornerbacks Glenn Ford Jr. gford12@gsu.edu
+
+22. Assistant Coach
+   Email: tkruchten@gsu.edu
+   Username: tkruchten
+   Original line: Assistant Coach - Outside Linebackers Troy Kruchten tkruchten@gsu.edu
+
+23. Assistant Coach
+   Email: jtaylor322@gsu.edu
+   Username: jtaylor322
+   Original line: Assistant Coach - Inside Linebackers Juwan Taylor jtaylor322@gsu.edu
+
+24. Assistant Coach
+   Email: jsutherland5@gsu.edu
+   Username: jsutherland5
+   Original line: Assistant Coach - Tight Ends Jes Sutherland jsutherland5@gsu.edu
+
+25. Assistant Coach
+   Email: bross40@gsu.edu
+   Username: bross40
+   Original line: Assistant Coach - Offensive Line Bryant Ross bross40@gsu.edu
+
+26. Assistant Coach
+   Email: cwilford@gsu.edu
+   Username: cwilford
+   Original line: Assistant Coach - Safeties CJ Wilford cwilford@gsu.edu
+
+27. Assistant Coach
+   Email: rwilliams316@gsu.edu
+   Username: rwilliams316
+   Original line: Assistant Coach - Quarterbacks Ryan Williams rwilliams316@gsu.edu
+
+28. Head Strength
+   Email: kflorence@gsu.edu
+   Username: kflorence
+   Original line: Head Strength Coach KJ Florence kflorence@gsu.edu
+
+29. Assistant Football
+   Email: jdurning@gsu.edu
+   Username: jdurning
+   Original line: Assistant Football Strength Coach Jim Durning jdurning@gsu.edu
+
+30. Assistant Football
+   Email: thawthorne3@gsu.edu
+   Username: thawthorne3
+   Original line: Assistant Football Strength Coach Tanner Hawthorne thawthorne3@gsu.edu
+
+31. Head Coach
+   Email: esmith276@gsu.edu
+   Username: esmith276
+   Original line: Head Coach Evan Smith esmith276@gsu.edu
+
+32. Head Coach
+   Email: bthomas148@gsu.edu
+   Username: bthomas148
+   Original line: Head Coach Brooks Thomas bthomas148@gsu.edu
+
+33. Head Coach
+   Email: bsurrency@gsu.edu
+   Username: bsurrency
+   Original line: Head Coach Brett Surrency (404) 413- bsurrency@gsu.edu
+
+34. Associate Head
+   Email: dmohsen@gsu.edu
+   Username: dmohsen
+   Original line: Associate Head Coach Daniel Mohsen (404) 413- dmohsen@gsu.edu
+
+35. Goalkeepers Coach
+   Email: loesterle1@gsu.edu
+   Username: loesterle1
+   Original line: Goalkeepers Coach Luke Oesterle (404) 413- loesterle1@gsu.edu
+
+36. Assistant Coach
+   Email: gsusoccer@gsu.edu
+   Username: gsusoccer
+   Original line: Assistant Coach Ross Finnie gsusoccer@gsu.edu
+
+37. Head Coach
+   Email: edj@gsu.edu
+   Username: edj
+   Original line: Head Coach Ed Joyce (404) 413- edj@gsu.edu
+
+38. Associate Head
+   Email: tk1@gsu.edu
+   Username: tk1
+   Original line: Associate Head Coach TK Abderahman (803) 517- tk1@gsu.edu
+
+39. Assistant Coach
+   Email: bzavala1@gsu.edu
+   Username: bzavala1
+   Original line: Assistant Coach Brisa Zavala (404) 496- bzavala1@gsu.edu
+
+40. Goalkeepers Coach
+   Email: loesterle1@gsu.edu
+   Username: loesterle1
+   Original line: Goalkeepers Coach Luke Oesterle (404) 413- loesterle1@gsu.edu
+
+41. Head Softball
+   Email: rmueller@gsu.edu
+   Username: rmueller
+   Original line: Head Softball Coach Becca Owens rmueller@gsu.edu
+
+42. Assistant Coach
+   Email: apreston15@gsu.edu
+   Username: apreston15
+   Original line: Assistant Coach Alexandra Preston apreston15@gsu.edu
+
+43. Assistant Coach
+   Email: mborden@gsu.edu
+   Username: mborden
+   Original line: Assistant Coach Mallory Borden mborden@gsu.edu
+
+44. Head Coach
+   Email: dtaylor152@gsu.edu
+   Username: dtaylor152
+   Original line: Head Coach Derrick Taylor dtaylor152@gsu.edu
+
+45. Head Coach
+   Email: lmason17@gsu.edu
+   Username: lmason17
+   Original line: Head Coach LeTrone Mason (954) 868- lmason17@gsu.edu
+
+46. Assistant Coach-
+   Email: vgonzales@gsu.edu
+   Username: vgonzales
+   Original line: Assistant Coach- Cross Country/ Distance Victoria Gonzales 361-658- vgonzales@gsu.edu
+
+47. Assistant Coach-
+   Email: llife@gsu.edu
+   Username: llife
+   Original line: Assistant Coach- Sprints & Hurdles Lamont Life 904-588- llife@gsu.edu
+
+48. Assistant Coach-
+   Email: ccollins104@gsu.edu
+   Username: ccollins104
+   Original line: Assistant Coach- Throws Dr. Collena Collins 225-715- ccollins104@gsu.edu
+
+49. Head Volleyball
+   Email: fsiqueira@gsu.edu
+   Username: fsiqueira
+   Original line: Head Volleyball Coach Flavia Siqueira fsiqueira@gsu.edu
+
+50. Assistant Coach
+   Email: bjones250@gsu.edu
+   Username: bjones250
+   Original line: Assistant Coach Bijonae Jones bjones250@gsu.edu
+
+51. Assistant Coach
+   Email: jeckert@gsu.edu
+   Username: jeckert
+   Original line: Assistant Coach Joshua Eckert jeckert@gsu.edu
+
+52. Head Strength
+   Email: jmehlhorn@gsu.edu
+   Username: jmehlhorn
+   Original line: Head Strength & Conditioning Coach - Olympic J.D. Mehlhorn (404) 413- jmehlhorn@gsu.edu
+
+53. Assistant Strength
+   Email: jquarles@gsu.edu
+   Username: jquarles
+   Original line: Assistant Strength Coach (Men's Basketball) Jason Quarles jquarles@gsu.edu
+
+54. Assistant Strength
+   Email: aphrommavanh@gsu.edu
+   Username: aphrommavanh
+   Original line: Assistant Strength & Conditioning Coach Ammasith Phrommavanh aphrommavanh@gsu.edu
+
+55. Assistant Strength
+   Email: alipsman1@gsu.edu
+   Username: alipsman1
+   Original line: Assistant Strength & Conditiong Coach (Women’s Anna Lipsman alipsman1@gsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach Brad Stromdahl (404) 290- bstromdahl@gsu.edu
+• Assistant Coach/Recruiting Coordinator Lars Davis (217) 419- ldavis160@gsu.edu
+• Assistant Coach Christian Castorri ccastorri@gsu.edu
+• Assistant Coach Michael Leeder mleeder@gsu.edu
+• Head Coach Jonas Hayes (404) 413- kdavison2@gsu.edu
+• Assistant Coach Allen Payne (404) 413- apayne41@gsu.edu
+• Assistant Coach Jarvis Hayes (404) 413- jhayes34@gsu.edu
+• Assistant Coach Jeff Dunlap 404-413- jdunlap10@gsu.edu
+• Assistant Coach Stevie Taylor staylor193@gsu.edu
+• Assistant Strength Coach (Men's Basketball) Jason Quarles jquarles@gsu.edu
+• Head Coach Gene Hill (404) 413- genehill@gsu.edu
+• Co-Associate Head Coach Jon Bollier jbollier@gsu.edu
+• Co-Associate Head Coach Shanasa Sanders ssanders60@gsu.edu
+• Assistant Coach Patechia Hartman phartman1@gsu.edu
+• Head Coach Beth Van Fleet (404) 413- bvanfleet@gsu.edu
+• Associate Head Coach - Special Teams/Director of Carter Blount eblount@gsu.edu
+• Assistant Head Coach - Defensive Line Jeremy Hawkins jhawkins63@gsu.edu
+• Assistant Coach - Nickels John Adams jadams145@gsu.edu
+• Assistant Coach - Wide Receivers Dameyune Craig dcraig17@gsu.edu
+• Assistant Coach - Running Backs Enrique Davis edavis137@gsu.edu
+• Assistant Coach - Cornerbacks Glenn Ford Jr. gford12@gsu.edu
+• Assistant Coach - Outside Linebackers Troy Kruchten tkruchten@gsu.edu
+• Assistant Coach - Inside Linebackers Juwan Taylor jtaylor322@gsu.edu
+• Assistant Coach - Tight Ends Jes Sutherland jsutherland5@gsu.edu
+• Assistant Coach - Offensive Line Bryant Ross bross40@gsu.edu
+• Assistant Coach - Safeties CJ Wilford cwilford@gsu.edu
+• Assistant Coach - Quarterbacks Ryan Williams rwilliams316@gsu.edu
+• Head Strength Coach KJ Florence kflorence@gsu.edu
+• Assistant Football Strength Coach Jim Durning jdurning@gsu.edu
+• Assistant Football Strength Coach Tanner Hawthorne thawthorne3@gsu.edu
+• Head Coach Evan Smith esmith276@gsu.edu
+• Head Coach Brooks Thomas bthomas148@gsu.edu
+• Head Coach Brett Surrency (404) 413- bsurrency@gsu.edu
+• Associate Head Coach Daniel Mohsen (404) 413- dmohsen@gsu.edu
+• Goalkeepers Coach Luke Oesterle (404) 413- loesterle1@gsu.edu
+• Assistant Coach Ross Finnie gsusoccer@gsu.edu
+• Head Coach Ed Joyce (404) 413- edj@gsu.edu
+• Associate Head Coach TK Abderahman (803) 517- tk1@gsu.edu
+• Assistant Coach Brisa Zavala (404) 496- bzavala1@gsu.edu
+• Goalkeepers Coach Luke Oesterle (404) 413- loesterle1@gsu.edu
+• Head Softball Coach Becca Owens rmueller@gsu.edu
+• Assistant Coach Alexandra Preston apreston15@gsu.edu
+• Assistant Coach Mallory Borden mborden@gsu.edu
+• Head Coach Derrick Taylor dtaylor152@gsu.edu
+• Head Coach LeTrone Mason (954) 868- lmason17@gsu.edu
+• Assistant Coach- Cross Country/ Distance Victoria Gonzales 361-658- vgonzales@gsu.edu
+• Assistant Coach- Sprints & Hurdles Lamont Life 904-588- llife@gsu.edu
+• Assistant Coach- Throws Dr. Collena Collins 225-715- ccollins104@gsu.edu
+• Head Volleyball Coach Flavia Siqueira fsiqueira@gsu.edu
+• Assistant Coach Bijonae Jones bjones250@gsu.edu
+• Assistant Coach Joshua Eckert jeckert@gsu.edu
+• Head Strength & Conditioning Coach - Olympic J.D. Mehlhorn (404) 413- jmehlhorn@gsu.edu
+• Assistant Strength Coach (Men's Basketball) Jason Quarles jquarles@gsu.edu
+• Assistant Strength & Conditioning Coach Ammasith Phrommavanh aphrommavanh@gsu.edu
+• Assistant Strength & Conditiong Coach (Women’s Anna Lipsman alipsman1@gsu.edu

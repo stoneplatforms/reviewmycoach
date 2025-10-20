@@ -1,0 +1,198 @@
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray stroke color because /'P32' is an invalid float value
+Cannot set gray non-stroke color because /'P32' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray stroke color because /'P23' is an invalid float value
+Cannot set gray non-stroke color because /'P23' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+-> Reading CSV: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/mt/Montana College Athletics.csv
+-> Output PDFs to: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/mt
+
+Printing completed in 75.0s
+Success: 7 | Skipped: 1 | Errors: 0
+
+Resolved URLs used:
+- Montana Western, University of.pdf: https://umwbulldogs.com/staff-directory?print=true
+- Carroll College (MT).pdf: https://carrollathletics.com/staff-directory?print=true
+- University of Montana.pdf: https://gogriz.com/staff-directory?print=true
+- Montana State University.pdf: https://msubobcats.com/staff-directory?print=true
+- Montana Tech University.pdf: https://godiggers.com/staff-directory?print=true
+- Montana State University Billings.pdf: https://msubsports.com/staff-directory?print=true
+- Rocky Mountain College.pdf: https://gobattlinbears.com/staff-directory?print=true
+
+Skipped:
+- https://uprovidenceathletics.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://uprovidenceathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://uprovidenceathletics.com/staff-directory/index", waiting until "networkidle"
+ (tried: https://uprovidenceathletics.com/staff-directory?print=true, https://uprovidenceathletics.com/staff-directory/print, https://uprovidenceathletics.com/staff-directory, https://uprovidenceathletics.com/staff-directory/index?print=true, https://uprovidenceathletics.com/staff-directory/index/print, https://uprovidenceathletics.com/staff-directory/index)
+
+Parsing printed PDFs and preparing upload entries...
+✔ Total coach entries prepared: 130
+✔ Created unclaimed coach profile: Patrick Jensen (patrick.jensen@umwestern.edu) → coaches/patrick.jensen | Phone: (406) 683-7341
+🔄 Updating unclaimed profile for ryan.sullivan@umwestern.edu
+✔ Updated unclaimed coach profile: Ryan Sullivan (ryan.sullivan@umwestern.edu) → coaches/ryan.sullivan | Phone: (406) 480-0614
+✔ Created unclaimed coach profile: Alexis Loucks (alexis.loucks@umwestern.edu) → coaches/alexis.loucks
+✔ Created unclaimed coach profile: Taylor Grove (taylor.grove@umwestern.edu) → coaches/taylor.grove | Phone: (406) 697-3675
+✔ Created unclaimed coach profile: Ryan Nourse (ryan.nourse@umwestern.edu) → coaches/ryan.nourse | Phone: (406) 683-7421
+✔ Created unclaimed coach profile: Riley Martello (riley.martello@umwestern.edu) → coaches/riley.martello | Phone: (406) 683-7345
+✔ Created unclaimed coach profile: Jed Heffernan (jed.heffernan@umwestern.edu) → coaches/jed.heffernan | Phone: (406) 683-7346
+✔ Created unclaimed coach profile: Kyle Wantland (kyle.wantland@umwestern.edu) → coaches/kyle.wantland | Phone: (406) 683-7346
+✔ Created unclaimed coach profile: Justin Hurd (justin.hurd@umwestern.edu) → coaches/justin.hurd | Phone: (309) 634-1378
+✔ Created unclaimed coach profile: JT Robbins (john.robbins1@umwestern.edu) → coaches/john.robbins1 | Phone: (406) 683-7001
+✔ Created unclaimed coach profile: Katie Lovett (katherine.lovett@umwestern.edu) → coaches/katherine.lovett | Phone: (406) 683-7444
+✔ Created unclaimed coach profile: Madison Richtmyer (madison.richtmyer@umwestern.edu) → coaches/madison.richtmyer
+✔ Created unclaimed coach profile: Hali Reed (hali.ehresmann@umwestern.edu) → coaches/hali.ehresmann | Phone: (360) 870-1280
+✔ Created unclaimed coach profile: Rachelle Sayers (rsayers@carroll.edu) → coaches/rsayers
+✔ Created unclaimed coach profile: Shannon Flynn (sflynn@carroll.edu) → coaches/sflynn
+✔ Created unclaimed coach profile: Troy Purcell (tpurcell@carroll.edu) → coaches/tpurcell | Phone: (406) 447-4485
+✔ Created unclaimed coach profile: Alex Pfannenstiel (apfannenstiel@carroll.edu) → coaches/apfannenstiel | Phone: (406) 447-4485
+✔ Created unclaimed coach profile: Randy Bandelow (rbandelow@carroll.edu) → coaches/rbandelow | Phone: (406) 447-5193
+✔ Created unclaimed coach profile: Dan Pearson (dpearson@carroll.edu) → coaches/dpearson
+✔ Created unclaimed coach profile: Brad Schmit (bschmit@carroll.edu) → coaches/bschmit
+✔ Created unclaimed coach profile: Harry Clark (hclark@carroll.edu) → coaches/hclark | Phone: (406) 447-4486
+✔ Created unclaimed coach profile: Jimmy Stanton (jstanton@carroll.edu) → coaches/jstanton | Phone: (406) 447-4486
+✔ Created unclaimed coach profile: Bennett MacIntyre (bmacintyre@carroll.edu) → coaches/bmacintyre | Phone: (406)447-4374
+✔ Created unclaimed coach profile: Shawna Juarez (sjuarez@carroll.edu) → coaches/sjuarez
+✔ Created unclaimed coach profile: Maureen Boyle (mboyle@carroll.edu) → coaches/mboyle | Phone: (406)447-4487
+✔ Created unclaimed coach profile: David Thorvilson (dthorvil@carroll.edu) → coaches/dthorvil | Phone: (406)447-5518
+✔ Created unclaimed coach profile: Meghan O'Connell (moconnell@carroll.edu) → coaches/moconnell
+✔ Created unclaimed coach profile: Austin Shick (ashick@carroll.edu) → coaches/ashick | Phone: (406) 447-5456
+✔ Created unclaimed coach profile: Rich Donofrio (rdonofrio@carroll.edu) → coaches/rdonofrio
+✔ Created unclaimed coach profile: Wayne Gardella (wgardella@carroll.edu) → coaches/wgardella
+✔ Created unclaimed coach profile: Brooklyn Purcell (bpurcell@carroll.edu) → coaches/bpurcell
+✔ Created unclaimed coach profile: Faith Edmister (fedmister@carroll.edu) → coaches/fedmister
+✔ Created unclaimed coach profile: Dan Ryan (daniel.ryan@mso.umt.edu) → coaches/daniel.ryan | Phone: 243-2969
+✔ Created unclaimed coach profile: Nate Harris (caleigh.cookson@mso.umt.edu) → coaches/caleigh.cookson | Phone: 243-5334
+✔ Created unclaimed coach profile: Lindsay Assistant (lindsay.woolley@mso.umt.edu) → coaches/lindsay.woolley | Phone: 243-5334
+✔ Created unclaimed coach profile: Emma List (emma.list@mso.umt.edu) → coaches/emma.list | Phone: 243-5334
+✔ Created unclaimed coach profile: Kayla Assistant (kayla.anderson@mso.umt.edu) → coaches/kayla.anderson | Phone: 243-5334
+✔ Created unclaimed coach profile: Britt Cooper (britt.cooper@mso.umt.edu) → coaches/britt.cooper | Phone: 243-5334
+✔ Created unclaimed coach profile: Leia Beattie (leia.beattie@mso.umt.edu) → coaches/leia.beattie | Phone: 243-5334
+✔ Created unclaimed coach profile: Chris Cobb (chris.cobb@mso.umt.edu) → coaches/chris.cobb | Phone: 243-5334
+✔ Created unclaimed coach profile: Jay Flores (jay.flores@mso.umt.edu) → coaches/jay.flores | Phone: 243-5334
+✔ Created unclaimed coach profile: Rachi Wortham (rachi.wortham@mso.umt.edu) → coaches/rachi.wortham | Phone: 243-5334
+✔ Created unclaimed coach profile: Ryan Frazer (ryan.frazer@mso.umt.edu) → coaches/ryan.frazer
+✔ Created unclaimed coach profile: Doug Fraley (douglas.fraley@mso.umt.edu) → coaches/douglas.fraley | Phone: 243-4657
+✔ Created unclaimed coach profile: Bobby Hauck (nathan.dellinger@mso.umt.edu) → coaches/nathan.dellinger | Phone: 243-2969
+✔ Created unclaimed coach profile: Cameron Offensive (Cameron.Norcross@mso.umt.edu) → coaches/Cameron.Norcross | Phone: 243-2969
+✔ Created unclaimed coach profile: Jimmy Mee (james.mee@mso.umt.edu) → coaches/james.mee | Phone: 243-5348
+✔ Created unclaimed coach profile: Chris Citowicki (chris.citowicki@mso.umt.edu) → coaches/chris.citowicki | Phone: (203) 505-5002
+✔ Created unclaimed coach profile: Ashley Assistant (ashley.herndon@mso.umt.edu) → coaches/ashley.herndon | Phone: 546-7926
+✔ Created unclaimed coach profile: Stef Ewing (stef.ewing@mso.umt.edu) → coaches/stef.ewing | Phone: 880-5773
+✔ Created unclaimed coach profile: Megan Casper (megan.casper@mso.umt.edu) → coaches/megan.casper | Phone: 880-6933
+✔ Created unclaimed coach profile: Marc Kendrick (marc.kendrick@mso.umt.edu) → coaches/marc.kendrick | Phone: 370-6504
+✔ Created unclaimed coach profile: Steve Ascher (steven.ascher@mso.umt.edu) → coaches/steven.ascher | Phone: 370-9436
+✔ Created unclaimed coach profile: Jason Brown (Jason.Brown@mso.umt.edu) → coaches/Jason.Brown | Phone: 243-5348
+✔ Created unclaimed coach profile: Allison Head (allison.lawrence@mso.umt.edu) → coaches/allison.lawrence | Phone: 546-5165
+✔ Created unclaimed coach profile: Ollie Nicholson (olivia.nicholson@mso.umt.edu) → coaches/olivia.nicholson
+✔ Created unclaimed coach profile: Sarah Birky (sarah.birky@mso.umt.edu) → coaches/sarah.birky
+✔ Created unclaimed coach profile: Ellen Kreighbaum (MSUBobcatsWBB1@gmail.com) → coaches/MSUBobcatsWBB1
+✔ Created unclaimed coach profile: Associate Head (sunny.smallwood@msubobcats.com) → coaches/sunny.smallwood
+🔄 Updating unclaimed profile for football@msubobcats.com
+✔ Updated unclaimed coach profile: Head Coach (football@msubobcats.com) → coaches/football
+✔ Created unclaimed coach profile: Head Coach (bbasye@msubobcats.com) → coaches/bbasye
+✔ Created unclaimed coach profile: Head Nordic (adam.stpierre@msubobcats.com) → coaches/adam.stpierre
+✔ Created unclaimed coach profile: Head Alpine (kristopher.shampeny@msubobcats.com) → coaches/kristopher.shampeny
+✔ Created unclaimed coach profile: Assistant Alpine (roger.bay1@msubobcats.com) → coaches/roger.bay1
+✔ Created unclaimed coach profile: Assistant Coach/Throws (jennifer.allen@msubobcats.com) → coaches/jennifer.allen
+✔ Created unclaimed coach profile: Assistant Coach (teague.peck@msubobcats.com) → coaches/teague.peck
+✔ Created unclaimed coach profile: Head Volleyball (matthew.houk@msubobcats.com) → coaches/matthew.houk
+✔ Created unclaimed coach profile: Associate Head (Jennifer.houk@msubobcats.com) → coaches/Jennifer.houk
+✔ Created unclaimed coach profile: Assistant Coach (taylor.els@msubobcats.com) → coaches/taylor.els
+✔ Created unclaimed coach profile: Head Coach (kyle.whitaker@msubobcats.com) → coaches/kyle.whitaker
+✔ Created unclaimed coach profile: Assistant Rodeo (savanna.bolich@msubobcats.com) → coaches/savanna.bolich
+✔ Created unclaimed coach profile: Brian Solomon (bsolomon@mtech.edu) → coaches/bsolomon
+✔ Created unclaimed coach profile: Adam Hiatt (ahiatt@mtech.edu) → coaches/ahiatt
+✔ Created unclaimed coach profile: Tyler Miller (tmiller9@mtech.edu) → coaches/tmiller9
+✔ Created unclaimed coach profile: Jeff Graham (jgraham1@mtech.edu) → coaches/jgraham1
+✔ Created unclaimed coach profile: Frankie Bignell (mbignell@mtech.edu) → coaches/mbignell
+✔ Created unclaimed coach profile: Kyle Samson (ksamson@mtech.edu) → coaches/ksamson
+✔ Created unclaimed coach profile: Doug Schleeman (dschleeman@mtech.edu) → coaches/dschleeman
+✔ Created unclaimed coach profile: Travis Dean (tdean@mtech.edu) → coaches/tdean
+✔ Created unclaimed coach profile: Montell Allen (mallen6@mtech.edu) → coaches/mallen6
+✔ Created unclaimed coach profile: Khalin Anderson (kanderson10@mtech.edu) → coaches/kanderson10
+✔ Created unclaimed coach profile: Dan Thatcher (dthatcher@mtech.edu) → coaches/dthatcher
+✔ Created unclaimed coach profile: Clifford Mann (cmann4@mtech.edu) → coaches/cmann4
+✔ Created unclaimed coach profile: Kody Torgerson (ktorgerson@mtech.edu) → coaches/ktorgerson
+✔ Created unclaimed coach profile: David Starcevich (dstarcevich@mtech.edu) → coaches/dstarcevich
+✔ Created unclaimed coach profile: Chuck Merrifield (cmerrifield1@mtech.edu) → coaches/cmerrifield1
+✔ Created unclaimed coach profile: Jacob Sundberg (jsundberg@mtech.edu) → coaches/jsundberg
+✔ Created unclaimed coach profile: Felisha Johnson (fjohnson@mtech.edu) → coaches/fjohnson
+✔ Created unclaimed coach profile: Kristi Arntson (kwitt@mtech.edu) → coaches/kwitt
+✔ Created unclaimed coach profile:  (brian.greisman@msubillings.edu) → coaches/brian.greisman
+✔ Created unclaimed coach profile:  (matthew.geoffrion@msubillings.edu) → coaches/matthew.geoffrion
+✔ Created unclaimed coach profile:  (bruce.chavka@msubillings.edu) → coaches/bruce.chavka
+✔ Created unclaimed coach profile:  (kwoodin@msubillings.edu) → coaches/kwoodin
+✔ Created unclaimed coach profile:  (alisha.breen@msubillings.edu) → coaches/alisha.breen
+✔ Created unclaimed coach profile: Women's 2346 (womensbasketball@msubillings.edu) → coaches/womensbasketball
+✔ Created unclaimed coach profile: Avery Osborne Assistant Cheer & MSU Billings (jonathan.woehl@msubillings.edu) → coaches/jonathan.woehl
+✔ Created unclaimed coach profile:  (zachary.girard1@msubillings.edu) → coaches/zachary.girard1
+✔ Created unclaimed coach profile: and Track & Field (adam.buie@msubillings.edu) → coaches/adam.buie
+✔ Created unclaimed coach profile: Women's Golf 2396 (t.jovicevickovacic@msubillings.edu) → coaches/t.jovicevickovacic
+✔ Created unclaimed coach profile:  (hannah.anderson23@msubillings.edu) → coaches/hannah.anderson23
+✔ Created unclaimed coach profile:  (kaitlyn.robertsroe@msubillings.edu) → coaches/kaitlyn.robertsroe
+✔ Created unclaimed coach profile:  (brett.bowman@msubillings.edu) → coaches/brett.bowman
+✔ Created unclaimed coach profile: Performance 2290 (ddesin@mtpeakperformance.com) → coaches/ddesin
+✔ Created unclaimed coach profile:  (nelsflanagan@gmail.com) → coaches/nelsflanagan
+✔ Created unclaimed coach profile: Track & Field (scott.keister@msubillings.edu) → coaches/scott.keister
+✔ Created unclaimed coach profile: Danny Neville (daniel.neville@rocky.edu) → coaches/daniel.neville
+✔ Created unclaimed coach profile: Garrett Duffin (garrett.duffin@rocky.edu) → coaches/garrett.duffin
+✔ Created unclaimed coach profile: Wes Keller (wes.keller@rocky.edu) → coaches/wes.keller
+✔ Created unclaimed coach profile: Latisha Demarais (latisha.demarais@rocky.edu) → coaches/latisha.demarais
+✔ Created unclaimed coach profile: Cislee Barth (cislee.barth@rocky.edu) → coaches/cislee.barth
+✔ Created unclaimed coach profile: Mike McLean (mike.mclean@rocky.edu) → coaches/mike.mclean
+✔ Created unclaimed coach profile: Alex Oddy (alex.oddy@rocky.edu) → coaches/alex.oddy
+✔ Created unclaimed coach profile: Elijah Barkell (elijah.barkell@rocky.edu) → coaches/elijah.barkell
+✔ Created unclaimed coach profile: Chris Stutzriem (chris.stutzriem@rocky.edu) → coaches/chris.stutzriem
+✔ Created unclaimed coach profile: Joe Dunning (joe.dunning@rocky.edu) → coaches/joe.dunning
+✔ Created unclaimed coach profile: Teague Blome (teague.blome@rocky.edu) → coaches/teague.blome
+✔ Created unclaimed coach profile: Lucas Olson (lucas.olson@rocky.edu) → coaches/lucas.olson
+✔ Created unclaimed coach profile: Dylan Beridon (dylan.beridon@rocky.edu) → coaches/dylan.beridon
+✔ Created unclaimed coach profile: Keaton Huebner (keaton.huebner@rocky.edu) → coaches/keaton.huebner
+✔ Created unclaimed coach profile: Bryce Hornbeck (bryce.hornbeck@rocky.edu) → coaches/bryce.hornbeck
+✔ Created unclaimed coach profile: Asa Spindler (asa.spindler@rocky.edu) → coaches/asa.spindler
+✔ Created unclaimed coach profile: Kiel Parkhurst (kiel.parkhurst@rocky.edu) → coaches/kiel.parkhurst
+✔ Created unclaimed coach profile: Jerry Wolf (wolfj@rocky.edu) → coaches/wolfj
+✔ Created unclaimed coach profile: Milo Downey (milo.downey@rocky.edu) → coaches/milo.downey
+✔ Created unclaimed coach profile: Jared Dickerson (jared.dickerson@rocky.edu) → coaches/jared.dickerson
+✔ Created unclaimed coach profile: Richard Duffy (duffyr@rocky.edu) → coaches/duffyr
+✔ Created unclaimed coach profile: Aubrey Beaumont (aubrey.beaumont@rocky.edu) → coaches/aubrey.beaumont
+✔ Created unclaimed coach profile: Lauren Revering (lauren.revering@rocky.edu) → coaches/lauren.revering
+✔ Created unclaimed coach profile: Sydney Anderson (sydney.anderson1@rocky.edu) → coaches/sydney.anderson1
+✔ Created unclaimed coach profile: Briana Guse (briana.guse@rocky.edu) → coaches/briana.guse
+
+📊 Upload Summary:
+✔ 130 coach profiles created/updated
+⏭️  0 profiles skipped (already claimed)
+📧 Coaches can now claim their profiles during onboarding using their email address

@@ -1,0 +1,22 @@
+Printing results: Success=9 Skipped=3 Errors=0
+
+Skipped/Failed links:
+- South Dakota Mines (SD School of Mines & Tech).pdf: https://gominesathletics.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gominesathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://gominesathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://gominesathletics.com/staff-directory?print=true, https://gominesathletics.com/staff-directory/print, https://gominesathletics.com/staff-directory, https://gominesathletics.com/staff-directory/index?print=true, https://gominesathletics.com/staff-directory/index/print, https://gominesathletics.com/staff-directory/index
+- Mount Marty University.pdf: https://gomountmarty.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gomountmarty.com/staff-directory/index
+Call log:
+  - navigating to "https://gomountmarty.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://gomountmarty.com/staff-directory?print=true, https://gomountmarty.com/staff-directory/print, https://gomountmarty.com/staff-directory, https://gomountmarty.com/staff-directory/index?print=true, https://gomountmarty.com/staff-directory/index/print, https://gomountmarty.com/staff-directory/index
+- Dakota Wesleyan University.pdf: https://dwuathletics.com/staff-directory -> Navigation failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://dwuathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://dwuathletics.com/staff-directory?print=true, https://dwuathletics.com/staff-directory/print, https://dwuathletics.com/staff-directory, https://dwuathletics.com/staff-directory/index?print=true, https://dwuathletics.com/staff-directory/index/print, https://dwuathletics.com/staff-directory/index
+
+PDFs with zero coaches detected:
+- South Dakota State University.pdf
+- University of Sioux Falls.pdf

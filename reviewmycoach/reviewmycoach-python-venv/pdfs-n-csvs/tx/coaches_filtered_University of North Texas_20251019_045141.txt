@@ -1,0 +1,89 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:43
+============================================================
+
+Total coaches found: 13
+
+PARSED ENTRIES:
+----------------------------------------
+1. Asst. Strength
+   Email: Michaela.Kelsey@unt.edu
+   Username: Michaela.Kelsey
+   Original line: Asst. Strength & Conditioning Coach Michaela.Kelsey@unt.edu
+
+2. Associate Coach
+   Email: durmon.jennings@unt.edu
+   Username: durmon.jennings
+   Original line: Associate Coach durmon.jennings@unt.edu
+
+3. Head Coach
+   Email: Luke.Calcatera@unt.edu
+   Username: Luke.Calcatera
+   Original line: Head Coach Luke.Calcatera@unt.edu
+
+4. Assistant Coach
+   Email: Cory.Churchman@unt.edu
+   Username: Cory.Churchman
+   Original line: Assistant Coach Cory.Churchman@unt.edu
+
+5. Head Coach
+   Email: Michael.Akers@unt.edu
+   Username: Michael.Akers
+   Original line: Head Coach Michael.Akers@unt.edu
+
+6. Head Coach
+   Email: John.Hedlund@unt.edu
+   Username: John.Hedlund
+   Original line: Head Coach John.Hedlund@unt.edu
+
+7. Head Coach
+   Email: Cody.White@unt.edu
+   Username: Cody.White
+   Original line: Head Coach Cody.White@unt.edu
+
+8. Assistant Coach
+   Email: Jon.Hunter@unt.edu
+   Username: Jon.Hunter
+   Original line: Assistant Coach & Recruiting Coordinator Jon.Hunter@unt.edu
+
+9. Head Coach
+   Email: Brittany.roth@unt.edu
+   Username: Brittany.roth
+   Original line: Head Coach Brittany.roth@unt.edu
+
+10. Assistant Coach
+   Email: justin.hastings@unt.edu
+   Username: justin.hastings
+   Original line: Assistant Coach justin.hastings@unt.edu
+
+11. Assistant Coach
+   Email: Shellene.Williams-davis@unt.edu
+   Username: Shellene.Williams-davis
+   Original line: Assistant Coach (Sprints) Shellene.Williams-davis@unt.edu
+
+12. Assistant Coach
+   Email: Jemarruse.Amos@unt.edu
+   Username: Jemarruse.Amos
+   Original line: Assistant Coach (Hurdles & Multis) Jemarruse.Amos@unt.edu
+
+13. Assistant Coach
+   Email: Larry.Stevens@unt.edu
+   Username: Larry.Stevens
+   Original line: Assistant Coach (Distance) Larry.Stevens@unt.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Asst. Strength & Conditioning Coach Michaela.Kelsey@unt.edu
+• Associate Coach durmon.jennings@unt.edu
+• Head Coach Luke.Calcatera@unt.edu
+• Assistant Coach Cory.Churchman@unt.edu
+• Head Coach Michael.Akers@unt.edu
+• Head Coach John.Hedlund@unt.edu
+• Head Coach Cody.White@unt.edu
+• Assistant Coach & Recruiting Coordinator Jon.Hunter@unt.edu
+• Head Coach Brittany.roth@unt.edu
+• Assistant Coach justin.hastings@unt.edu
+• Assistant Coach (Sprints) Shellene.Williams-davis@unt.edu
+• Assistant Coach (Hurdles & Multis) Jemarruse.Amos@unt.edu
+• Assistant Coach (Distance) Larry.Stevens@unt.edu

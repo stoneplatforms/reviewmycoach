@@ -1,0 +1,17 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:43
+============================================================
+
+Total coaches found: 1
+
+PARSED ENTRIES:
+----------------------------------------
+1. Emily Russell
+   Email: erussell@leeuniversity.edu
+   Username: erussell
+   Original line: Emily Russell Softball Head Coach erussell@leeuniversity.edu (423) 614- Lee 24th
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Emily Russell Softball Head Coach erussell@leeuniversity.edu (423) 614- Lee 24th

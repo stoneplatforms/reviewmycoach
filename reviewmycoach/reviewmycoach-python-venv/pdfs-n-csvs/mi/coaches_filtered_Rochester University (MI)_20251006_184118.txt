@@ -1,0 +1,174 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:18
+============================================================
+
+Total coaches found: 27
+
+PARSED ENTRIES:
+----------------------------------------
+1. Scott Kunert
+   Email: scott.kunert@rcu.edu
+   Username: scott.kunert
+   Original line: Scott Kunert Head Coach scott.kunert@rcu.edu
+
+2. Quin Rice
+   Email: quinton.rice@rcu.edu
+   Username: quinton.rice
+   Original line: Quin Rice Assistant Coach quinton.rice@rcu.edu
+
+3. Scott Samuels
+   Email: scott.samuels@rcu.edu
+   Username: scott.samuels
+   Original line: Scott Samuels Assistant Coach scott.samuels@rcu.edu
+
+4. Jared Ocampo
+   Email: jared.ocampo@rcu.edu
+   Username: jared.ocampo
+   Original line: Jared Ocampo Head Coach jared.ocampo@rcu.edu
+
+5. Head Coach
+   Email: craig.woodham@rcu.edu
+   Username: craig.woodham
+   Original line: Head Coach craig.woodham@rcu.edu
+
+6. Craig Woodham
+   Email: craig.woodham@rcu.edu
+   Username: craig.woodham
+   Original line: Craig Woodham Head Coach craig.woodham@rcu.edu
+
+7. Patti Glenn
+   Email: patti.glenn@rcu.edu
+   Username: patti.glenn
+   Original line: Patti Glenn Head Coach patti.glenn@rcu.edu
+
+8. Sean Nixon
+   Email: sean.nixon@rcu.edu
+   Username: sean.nixon
+   Original line: Sean Nixon Head Coach sean.nixon@rcu.edu
+
+9. Emma Fickel
+   Email: emma.fickel@rcu.edu
+   Username: emma.fickel
+   Original line: Emma Fickel Assistant Coach emma.fickel@rcu.edu
+
+10. Sean Nixon
+   Email: sean.nixon@rcu.edu
+   Username: sean.nixon
+   Original line: Sean Nixon Head Coach sean.nixon@rcu.edu
+
+11. Emma Fickel
+   Email: emma.fickel@rcu.edu
+   Username: emma.fickel
+   Original line: Emma Fickel Assistant Coach emma.fickel@rcu.edu
+
+12. Christopher Ainhorn
+   Email: christopher.ainhorn@rcu.edu
+   Username: christopher.ainhorn
+   Original line: Christopher Ainhorn Head Coach christopher.ainhorn@rcu.edu
+
+13. Rick FenwickHead
+   Email: rick.fenwick@rcu.edu
+   Username: rick.fenwick
+   Original line: Rick FenwickHead Coach rick.fenwick@rcu.edu
+
+14. Rebekah Sewell
+   Email: rebekah.sewell@rcu.edu
+   Username: rebekah.sewell
+   Original line: Rebekah Sewell Head Coach rebekah.sewell@rcu.edu
+
+15. Nicolas Ranieri
+   Email: nicolas.ranieri@rcu.edu
+   Username: nicolas.ranieri
+   Original line: Nicolas Ranieri Head Coach nicolas.ranieri@rcu.edu
+
+16. Skipper Mukhtar
+   Email: skipper.mukhtar@rcu.edu
+   Username: skipper.mukhtar
+   Original line: Skipper Mukhtar Head Coach skipper.mukhtar@rcu.edu
+
+17. Erin Benschoter
+   Email: erin.benschoter@rcu.edu
+   Username: erin.benschoter
+   Original line: Erin Benschoter Head Coach erin.benschoter@rcu.edu
+
+18. Emma Fickel
+   Email: emma.fickel@rcu.edu
+   Username: emma.fickel
+   Original line: Emma Fickel Head Coach emma.fickel@rcu.edu
+
+19. Sean Nixon
+   Email: sean.nixon@rcu.edu
+   Username: sean.nixon
+   Original line: Sean Nixon Assistant Coach sean.nixon@rcu.edu
+
+20. Emma Fickel
+   Email: emma.fickel@rcu.edu
+   Username: emma.fickel
+   Original line: Emma Fickel Head Coach emma.fickel@rcu.edu
+
+21. Sean Nixon
+   Email: sean.nixon@rcu.edu
+   Username: sean.nixon
+   Original line: Sean Nixon Assistant Coach sean.nixon@rcu.edu
+
+22. Pablo Sanchez
+   Email: psanchez@rcu.edu
+   Username: psanchez
+   Phone: (574) 359-0819
+   Original line: Pablo Sanchez Head Coach 574-359-0819 psanchez@rcu.edu
+
+23. Juliana Nash
+   Email: juliana.nash@rcu.edu
+   Username: juliana.nash
+   Original line: Juliana Nash Head Coach juliana.nash@rcu.edu
+
+24. Wesley Maskill
+   Email: wesley.maskill@rcu.edu
+   Username: wesley.maskill
+   Original line: Wesley Maskill Head Coach wesley.maskill@rcu.edu
+
+25. Gregory Czar
+   Email: gregory.czar@rcu.edu
+   Username: gregory.czar
+   Original line: Dr. Gregory Czar Assistant Coach gregory.czar@rcu.edu
+
+26. Wesley Maskill
+   Email: wesley.maskill@rcu.edu
+   Username: wesley.maskill
+   Original line: Wesley Maskill Head Coach wesley.maskill@rcu.edu
+
+27. Gregory Czar
+   Email: gregory.czar@rcu.edu
+   Username: gregory.czar
+   Original line: Dr. Gregory Czar Assistant Coach gregory.czar@rcu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Scott Kunert Head Coach scott.kunert@rcu.edu
+• Quin Rice Assistant Coach quinton.rice@rcu.edu
+• Scott Samuels Assistant Coach scott.samuels@rcu.edu
+• Jared Ocampo Head Coach jared.ocampo@rcu.edu
+• Head Coach craig.woodham@rcu.edu
+• Craig Woodham Head Coach craig.woodham@rcu.edu
+• Patti Glenn Head Coach patti.glenn@rcu.edu
+• Sean Nixon Head Coach sean.nixon@rcu.edu
+• Emma Fickel Assistant Coach emma.fickel@rcu.edu
+• Sean Nixon Head Coach sean.nixon@rcu.edu
+• Emma Fickel Assistant Coach emma.fickel@rcu.edu
+• Christopher Ainhorn Head Coach christopher.ainhorn@rcu.edu
+• Rick FenwickHead Coach rick.fenwick@rcu.edu
+• Rebekah Sewell Head Coach rebekah.sewell@rcu.edu
+• Nicolas Ranieri Head Coach nicolas.ranieri@rcu.edu
+• Skipper Mukhtar Head Coach skipper.mukhtar@rcu.edu
+• Erin Benschoter Head Coach erin.benschoter@rcu.edu
+• Emma Fickel Head Coach emma.fickel@rcu.edu
+• Sean Nixon Assistant Coach sean.nixon@rcu.edu
+• Emma Fickel Head Coach emma.fickel@rcu.edu
+• Sean Nixon Assistant Coach sean.nixon@rcu.edu
+• Pablo Sanchez Head Coach 574-359-0819 psanchez@rcu.edu
+• Juliana Nash Head Coach juliana.nash@rcu.edu
+• Wesley Maskill Head Coach wesley.maskill@rcu.edu
+• Dr. Gregory Czar Assistant Coach gregory.czar@rcu.edu
+• Wesley Maskill Head Coach wesley.maskill@rcu.edu
+• Dr. Gregory Czar Assistant Coach gregory.czar@rcu.edu

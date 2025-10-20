@@ -1,0 +1,190 @@
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray stroke color because /'P23' is an invalid float value
+Cannot set gray non-stroke color because /'P23' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+-> Reading CSV: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/mt/Montana College Athletics.csv
+-> Output PDFs to: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/mt
+
+Printing completed in 55.0s
+Success: 7 | Skipped: 1 | Errors: 0
+
+Resolved URLs used:
+- Montana Western, University of.pdf: https://umwbulldogs.com/staff-directory?print=true
+- Carroll College (MT).pdf: https://carrollathletics.com/staff-directory?print=true
+- University of Montana.pdf: https://gogriz.com/staff-directory?print=true
+- Montana State University.pdf: https://msubobcats.com/staff-directory?print=true
+- Montana State University Billings.pdf: https://msubsports.com/staff-directory?print=true
+- Rocky Mountain College.pdf: https://gobattlinbears.com/staff-directory?print=true
+- Montana Tech University.pdf: https://godiggers.com/staff-directory?print=true
+
+Skipped:
+- https://uprovidenceathletics.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://uprovidenceathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://uprovidenceathletics.com/staff-directory/index", waiting until "networkidle"
+ (tried: https://uprovidenceathletics.com/staff-directory?print=true, https://uprovidenceathletics.com/staff-directory/print, https://uprovidenceathletics.com/staff-directory, https://uprovidenceathletics.com/staff-directory/index?print=true, https://uprovidenceathletics.com/staff-directory/index/print, https://uprovidenceathletics.com/staff-directory/index)
+
+Parsing printed PDFs and preparing upload entries...
+✔ Total coach entries prepared: 130
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Patrick Jensen (patrick.jensen@umwestern.edu) → coaches/patrick.jensen | Phone: (406) 683-7341
+[DRY RUN] Would create unclaimed coach profile: Ryan Sullivan (ryan.sullivan@umwestern.edu) → coaches/ryan.sullivan | Phone: (406) 480-0614
+[DRY RUN] Would create unclaimed coach profile: Alexis Loucks (alexis.loucks@umwestern.edu) → coaches/alexis.loucks
+[DRY RUN] Would create unclaimed coach profile: Taylor Grove (taylor.grove@umwestern.edu) → coaches/taylor.grove | Phone: (406) 697-3675
+[DRY RUN] Would create unclaimed coach profile: Ryan Nourse (ryan.nourse@umwestern.edu) → coaches/ryan.nourse | Phone: (406) 683-7421
+[DRY RUN] Would create unclaimed coach profile: Riley Martello (riley.martello@umwestern.edu) → coaches/riley.martello | Phone: (406) 683-7345
+[DRY RUN] Would create unclaimed coach profile: Jed Heffernan (jed.heffernan@umwestern.edu) → coaches/jed.heffernan | Phone: (406) 683-7346
+[DRY RUN] Would create unclaimed coach profile: Kyle Wantland (kyle.wantland@umwestern.edu) → coaches/kyle.wantland | Phone: (406) 683-7346
+[DRY RUN] Would create unclaimed coach profile: Justin Hurd (justin.hurd@umwestern.edu) → coaches/justin.hurd | Phone: (309) 634-1378
+[DRY RUN] Would create unclaimed coach profile: JT Robbins (john.robbins1@umwestern.edu) → coaches/john.robbins1 | Phone: (406) 683-7001
+[DRY RUN] Would create unclaimed coach profile: Katie Lovett (katherine.lovett@umwestern.edu) → coaches/katherine.lovett | Phone: (406) 683-7444
+[DRY RUN] Would create unclaimed coach profile: Madison Richtmyer (madison.richtmyer@umwestern.edu) → coaches/madison.richtmyer
+[DRY RUN] Would create unclaimed coach profile: Hali Reed (hali.ehresmann@umwestern.edu) → coaches/hali.ehresmann | Phone: (360) 870-1280
+[DRY RUN] Would create unclaimed coach profile: Rachelle Sayers (rsayers@carroll.edu) → coaches/rsayers
+[DRY RUN] Would create unclaimed coach profile: Shannon Flynn (sflynn@carroll.edu) → coaches/sflynn
+[DRY RUN] Would create unclaimed coach profile: Troy Purcell (tpurcell@carroll.edu) → coaches/tpurcell | Phone: (406) 447-4485
+[DRY RUN] Would create unclaimed coach profile: Alex Pfannenstiel (apfannenstiel@carroll.edu) → coaches/apfannenstiel | Phone: (406) 447-4485
+[DRY RUN] Would create unclaimed coach profile: Randy Bandelow (rbandelow@carroll.edu) → coaches/rbandelow | Phone: (406) 447-5193
+[DRY RUN] Would create unclaimed coach profile: Dan Pearson (dpearson@carroll.edu) → coaches/dpearson
+[DRY RUN] Would create unclaimed coach profile: Brad Schmit (bschmit@carroll.edu) → coaches/bschmit
+[DRY RUN] Would create unclaimed coach profile: Harry Clark (hclark@carroll.edu) → coaches/hclark | Phone: (406) 447-4486
+[DRY RUN] Would create unclaimed coach profile: Jimmy Stanton (jstanton@carroll.edu) → coaches/jstanton | Phone: (406) 447-4486
+[DRY RUN] Would create unclaimed coach profile: Bennett MacIntyre (bmacintyre@carroll.edu) → coaches/bmacintyre | Phone: (406)447-4374
+[DRY RUN] Would create unclaimed coach profile: Shawna Juarez (sjuarez@carroll.edu) → coaches/sjuarez
+[DRY RUN] Would create unclaimed coach profile: Maureen Boyle (mboyle@carroll.edu) → coaches/mboyle | Phone: (406)447-4487
+[DRY RUN] Would create unclaimed coach profile: David Thorvilson (dthorvil@carroll.edu) → coaches/dthorvil | Phone: (406)447-5518
+[DRY RUN] Would create unclaimed coach profile: Meghan O'Connell (moconnell@carroll.edu) → coaches/moconnell
+[DRY RUN] Would create unclaimed coach profile: Austin Shick (ashick@carroll.edu) → coaches/ashick | Phone: (406) 447-5456
+[DRY RUN] Would create unclaimed coach profile: Rich Donofrio (rdonofrio@carroll.edu) → coaches/rdonofrio
+[DRY RUN] Would create unclaimed coach profile: Wayne Gardella (wgardella@carroll.edu) → coaches/wgardella
+[DRY RUN] Would create unclaimed coach profile: Brooklyn Purcell (bpurcell@carroll.edu) → coaches/bpurcell
+[DRY RUN] Would create unclaimed coach profile: Faith Edmister (fedmister@carroll.edu) → coaches/fedmister
+[DRY RUN] Would create unclaimed coach profile: Dan Ryan (daniel.ryan@mso.umt.edu) → coaches/daniel.ryan | Phone: 243-2969
+[DRY RUN] Would create unclaimed coach profile: Nate Harris (caleigh.cookson@mso.umt.edu) → coaches/caleigh.cookson | Phone: 243-5334
+[DRY RUN] Would create unclaimed coach profile: Lindsay Assistant (lindsay.woolley@mso.umt.edu) → coaches/lindsay.woolley | Phone: 243-5334
+[DRY RUN] Would create unclaimed coach profile: Emma List (emma.list@mso.umt.edu) → coaches/emma.list | Phone: 243-5334
+[DRY RUN] Would create unclaimed coach profile: Kayla Assistant (kayla.anderson@mso.umt.edu) → coaches/kayla.anderson | Phone: 243-5334
+[DRY RUN] Would create unclaimed coach profile: Britt Cooper (britt.cooper@mso.umt.edu) → coaches/britt.cooper | Phone: 243-5334
+[DRY RUN] Would create unclaimed coach profile: Leia Beattie (leia.beattie@mso.umt.edu) → coaches/leia.beattie | Phone: 243-5334
+[DRY RUN] Would create unclaimed coach profile: Chris Cobb (chris.cobb@mso.umt.edu) → coaches/chris.cobb | Phone: 243-5334
+[DRY RUN] Would create unclaimed coach profile: Jay Flores (jay.flores@mso.umt.edu) → coaches/jay.flores | Phone: 243-5334
+[DRY RUN] Would create unclaimed coach profile: Rachi Wortham (rachi.wortham@mso.umt.edu) → coaches/rachi.wortham | Phone: 243-5334
+[DRY RUN] Would create unclaimed coach profile: Ryan Frazer (ryan.frazer@mso.umt.edu) → coaches/ryan.frazer
+[DRY RUN] Would create unclaimed coach profile: Doug Fraley (douglas.fraley@mso.umt.edu) → coaches/douglas.fraley | Phone: 243-4657
+[DRY RUN] Would create unclaimed coach profile: Bobby Hauck (nathan.dellinger@mso.umt.edu) → coaches/nathan.dellinger | Phone: 243-2969
+[DRY RUN] Would create unclaimed coach profile: Cameron Offensive (Cameron.Norcross@mso.umt.edu) → coaches/Cameron.Norcross | Phone: 243-2969
+[DRY RUN] Would create unclaimed coach profile: Jimmy Mee (james.mee@mso.umt.edu) → coaches/james.mee | Phone: 243-5348
+[DRY RUN] Would create unclaimed coach profile: Chris Citowicki (chris.citowicki@mso.umt.edu) → coaches/chris.citowicki | Phone: (203) 505-5002
+[DRY RUN] Would create unclaimed coach profile: Ashley Assistant (ashley.herndon@mso.umt.edu) → coaches/ashley.herndon | Phone: 546-7926
+[DRY RUN] Would create unclaimed coach profile: Stef Ewing (stef.ewing@mso.umt.edu) → coaches/stef.ewing | Phone: 880-5773
+[DRY RUN] Would create unclaimed coach profile: Megan Casper (megan.casper@mso.umt.edu) → coaches/megan.casper | Phone: 880-6933
+[DRY RUN] Would create unclaimed coach profile: Marc Kendrick (marc.kendrick@mso.umt.edu) → coaches/marc.kendrick | Phone: 370-6504
+[DRY RUN] Would create unclaimed coach profile: Steve Ascher (steven.ascher@mso.umt.edu) → coaches/steven.ascher | Phone: 370-9436
+[DRY RUN] Would create unclaimed coach profile: Jason Brown (Jason.Brown@mso.umt.edu) → coaches/Jason.Brown | Phone: 243-5348
+[DRY RUN] Would create unclaimed coach profile: Allison Head (allison.lawrence@mso.umt.edu) → coaches/allison.lawrence | Phone: 546-5165
+[DRY RUN] Would create unclaimed coach profile: Ollie Nicholson (olivia.nicholson@mso.umt.edu) → coaches/olivia.nicholson
+[DRY RUN] Would create unclaimed coach profile: Sarah Birky (sarah.birky@mso.umt.edu) → coaches/sarah.birky
+[DRY RUN] Would create unclaimed coach profile: Ellen Kreighbaum (MSUBobcatsWBB1@gmail.com) → coaches/MSUBobcatsWBB1
+[DRY RUN] Would create unclaimed coach profile: Associate Head (sunny.smallwood@msubobcats.com) → coaches/sunny.smallwood
+[DRY RUN] Would create unclaimed coach profile: Head Coach (football@msubobcats.com) → coaches/football
+[DRY RUN] Would create unclaimed coach profile: Head Coach (bbasye@msubobcats.com) → coaches/bbasye
+[DRY RUN] Would create unclaimed coach profile: Head Nordic (adam.stpierre@msubobcats.com) → coaches/adam.stpierre
+[DRY RUN] Would create unclaimed coach profile: Head Alpine (kristopher.shampeny@msubobcats.com) → coaches/kristopher.shampeny
+[DRY RUN] Would create unclaimed coach profile: Assistant Alpine (roger.bay1@msubobcats.com) → coaches/roger.bay1
+[DRY RUN] Would create unclaimed coach profile: Assistant Coach/Throws (jennifer.allen@msubobcats.com) → coaches/jennifer.allen
+[DRY RUN] Would create unclaimed coach profile: Assistant Coach (teague.peck@msubobcats.com) → coaches/teague.peck
+[DRY RUN] Would create unclaimed coach profile: Head Volleyball (matthew.houk@msubobcats.com) → coaches/matthew.houk
+[DRY RUN] Would create unclaimed coach profile: Associate Head (Jennifer.houk@msubobcats.com) → coaches/Jennifer.houk
+[DRY RUN] Would create unclaimed coach profile: Assistant Coach (taylor.els@msubobcats.com) → coaches/taylor.els
+[DRY RUN] Would create unclaimed coach profile: Head Coach (kyle.whitaker@msubobcats.com) → coaches/kyle.whitaker
+[DRY RUN] Would create unclaimed coach profile: Assistant Rodeo (savanna.bolich@msubobcats.com) → coaches/savanna.bolich
+[DRY RUN] Would create unclaimed coach profile:  (brian.greisman@msubillings.edu) → coaches/brian.greisman
+[DRY RUN] Would create unclaimed coach profile:  (matthew.geoffrion@msubillings.edu) → coaches/matthew.geoffrion
+[DRY RUN] Would create unclaimed coach profile:  (bruce.chavka@msubillings.edu) → coaches/bruce.chavka
+[DRY RUN] Would create unclaimed coach profile:  (kwoodin@msubillings.edu) → coaches/kwoodin
+[DRY RUN] Would create unclaimed coach profile:  (alisha.breen@msubillings.edu) → coaches/alisha.breen
+[DRY RUN] Would create unclaimed coach profile: Women's 2346 (womensbasketball@msubillings.edu) → coaches/womensbasketball
+[DRY RUN] Would create unclaimed coach profile: Avery Osborne Assistant Cheer & MSU Billings (jonathan.woehl@msubillings.edu) → coaches/jonathan.woehl
+[DRY RUN] Would create unclaimed coach profile:  (zachary.girard1@msubillings.edu) → coaches/zachary.girard1
+[DRY RUN] Would create unclaimed coach profile: and Track & Field (adam.buie@msubillings.edu) → coaches/adam.buie
+[DRY RUN] Would create unclaimed coach profile: Women's Golf 2396 (t.jovicevickovacic@msubillings.edu) → coaches/t.jovicevickovacic
+[DRY RUN] Would create unclaimed coach profile:  (hannah.anderson23@msubillings.edu) → coaches/hannah.anderson23
+[DRY RUN] Would create unclaimed coach profile:  (kaitlyn.robertsroe@msubillings.edu) → coaches/kaitlyn.robertsroe
+[DRY RUN] Would create unclaimed coach profile:  (brett.bowman@msubillings.edu) → coaches/brett.bowman
+[DRY RUN] Would create unclaimed coach profile: Performance 2290 (ddesin@mtpeakperformance.com) → coaches/ddesin
+[DRY RUN] Would create unclaimed coach profile:  (nelsflanagan@gmail.com) → coaches/nelsflanagan
+[DRY RUN] Would create unclaimed coach profile: Track & Field (scott.keister@msubillings.edu) → coaches/scott.keister
+[DRY RUN] Would create unclaimed coach profile: Danny Neville (daniel.neville@rocky.edu) → coaches/daniel.neville
+[DRY RUN] Would create unclaimed coach profile: Garrett Duffin (garrett.duffin@rocky.edu) → coaches/garrett.duffin
+[DRY RUN] Would create unclaimed coach profile: Wes Keller (wes.keller@rocky.edu) → coaches/wes.keller
+[DRY RUN] Would create unclaimed coach profile: Latisha Demarais (latisha.demarais@rocky.edu) → coaches/latisha.demarais
+[DRY RUN] Would create unclaimed coach profile: Cislee Barth (cislee.barth@rocky.edu) → coaches/cislee.barth
+[DRY RUN] Would create unclaimed coach profile: Mike McLean (mike.mclean@rocky.edu) → coaches/mike.mclean
+[DRY RUN] Would create unclaimed coach profile: Alex Oddy (alex.oddy@rocky.edu) → coaches/alex.oddy
+[DRY RUN] Would create unclaimed coach profile: Elijah Barkell (elijah.barkell@rocky.edu) → coaches/elijah.barkell
+[DRY RUN] Would create unclaimed coach profile: Chris Stutzriem (chris.stutzriem@rocky.edu) → coaches/chris.stutzriem
+[DRY RUN] Would create unclaimed coach profile: Joe Dunning (joe.dunning@rocky.edu) → coaches/joe.dunning
+[DRY RUN] Would create unclaimed coach profile: Teague Blome (teague.blome@rocky.edu) → coaches/teague.blome
+[DRY RUN] Would create unclaimed coach profile: Lucas Olson (lucas.olson@rocky.edu) → coaches/lucas.olson
+[DRY RUN] Would create unclaimed coach profile: Dylan Beridon (dylan.beridon@rocky.edu) → coaches/dylan.beridon
+[DRY RUN] Would create unclaimed coach profile: Keaton Huebner (keaton.huebner@rocky.edu) → coaches/keaton.huebner
+[DRY RUN] Would create unclaimed coach profile: Bryce Hornbeck (bryce.hornbeck@rocky.edu) → coaches/bryce.hornbeck
+[DRY RUN] Would create unclaimed coach profile: Asa Spindler (asa.spindler@rocky.edu) → coaches/asa.spindler
+[DRY RUN] Would create unclaimed coach profile: Kiel Parkhurst (kiel.parkhurst@rocky.edu) → coaches/kiel.parkhurst
+[DRY RUN] Would create unclaimed coach profile: Jerry Wolf (wolfj@rocky.edu) → coaches/wolfj
+[DRY RUN] Would create unclaimed coach profile: Milo Downey (milo.downey@rocky.edu) → coaches/milo.downey
+[DRY RUN] Would create unclaimed coach profile: Jared Dickerson (jared.dickerson@rocky.edu) → coaches/jared.dickerson
+[DRY RUN] Would create unclaimed coach profile: Richard Duffy (duffyr@rocky.edu) → coaches/duffyr
+[DRY RUN] Would create unclaimed coach profile: Aubrey Beaumont (aubrey.beaumont@rocky.edu) → coaches/aubrey.beaumont
+[DRY RUN] Would create unclaimed coach profile: Lauren Revering (lauren.revering@rocky.edu) → coaches/lauren.revering
+[DRY RUN] Would create unclaimed coach profile: Sydney Anderson (sydney.anderson1@rocky.edu) → coaches/sydney.anderson1
+[DRY RUN] Would create unclaimed coach profile: Briana Guse (briana.guse@rocky.edu) → coaches/briana.guse
+[DRY RUN] Would create unclaimed coach profile: Brian Solomon (bsolomon@mtech.edu) → coaches/bsolomon
+[DRY RUN] Would create unclaimed coach profile: Adam Hiatt (ahiatt@mtech.edu) → coaches/ahiatt
+[DRY RUN] Would create unclaimed coach profile: Tyler Miller (tmiller9@mtech.edu) → coaches/tmiller9
+[DRY RUN] Would create unclaimed coach profile: Jeff Graham (jgraham1@mtech.edu) → coaches/jgraham1
+[DRY RUN] Would create unclaimed coach profile: Frankie Bignell (mbignell@mtech.edu) → coaches/mbignell
+[DRY RUN] Would create unclaimed coach profile: Kyle Samson (ksamson@mtech.edu) → coaches/ksamson
+[DRY RUN] Would create unclaimed coach profile: Doug Schleeman (dschleeman@mtech.edu) → coaches/dschleeman
+[DRY RUN] Would create unclaimed coach profile: Travis Dean (tdean@mtech.edu) → coaches/tdean
+[DRY RUN] Would create unclaimed coach profile: Montell Allen (mallen6@mtech.edu) → coaches/mallen6
+[DRY RUN] Would create unclaimed coach profile: Khalin Anderson (kanderson10@mtech.edu) → coaches/kanderson10
+[DRY RUN] Would create unclaimed coach profile: Dan Thatcher (dthatcher@mtech.edu) → coaches/dthatcher
+[DRY RUN] Would create unclaimed coach profile: Clifford Mann (cmann4@mtech.edu) → coaches/cmann4
+[DRY RUN] Would create unclaimed coach profile: Kody Torgerson (ktorgerson@mtech.edu) → coaches/ktorgerson
+[DRY RUN] Would create unclaimed coach profile: David Starcevich (dstarcevich@mtech.edu) → coaches/dstarcevich
+[DRY RUN] Would create unclaimed coach profile: Chuck Merrifield (cmerrifield1@mtech.edu) → coaches/cmerrifield1
+[DRY RUN] Would create unclaimed coach profile: Jacob Sundberg (jsundberg@mtech.edu) → coaches/jsundberg
+[DRY RUN] Would create unclaimed coach profile: Felisha Johnson (fjohnson@mtech.edu) → coaches/fjohnson
+[DRY RUN] Would create unclaimed coach profile: Kristi Arntson (kwitt@mtech.edu) → coaches/kwitt

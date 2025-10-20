@@ -1,0 +1,284 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:45
+============================================================
+
+Total coaches found: 40
+
+PARSED ENTRIES:
+----------------------------------------
+1. John Thompson
+   Email: jthompson@ncwu.edu
+   Username: jthompson
+   Phone: (252) 985-5218
+   Original line: John Thompson Head Men's Basketball Coach / Director of Compliance jthompson@ncwu.edu 252-985-5218
+
+2. Greg Clifton
+   Email: gclifton@ncwu.edu
+   Username: gclifton
+   Phone: (252) 985-5277
+   Original line: Greg Clifton Head Baseball Coach gclifton@ncwu.edu 252-985-5277
+
+3. Javi Quintana
+   Email: jquintana@ncwu.edu
+   Username: jquintana
+   Phone: (252) 985-5205
+   Original line: Javi Quintana Assistant Baseball Coach / Hitting Coach jquintana@ncwu.edu 252-985-5205
+
+4. Andrew Tubb
+   Email: atubb@ncwu.edu
+   Username: atubb
+   Phone: (252) 985-5449
+   Original line: Andrew Tubb Assistant Baseball Coach / Pitching Coach atubb@ncwu.edu 252-985-5449
+
+5. John Thompson
+   Email: jthompson@ncwu.edu
+   Username: jthompson
+   Phone: (252) 985-5218
+   Original line: John Thompson Head Men's Basketball Coach / Director of Compliance jthompson@ncwu.edu 252-985-5218
+
+6. Garrett Dorfman
+   Email: gdorfman@ncwu.edu
+   Username: gdorfman
+   Phone: (252) 985-5172
+   Original line: Garrett Dorfman Assistant Men's Basketball Coach gdorfman@ncwu.edu 252-985-5172
+
+7. Bill Dunn
+   Email: bdunn@ncwu.edu
+   Username: bdunn
+   Phone: (252) 985-5366
+   Original line: Bill Dunn Head Cross Country / Track & Field Coach bdunn@ncwu.edu 252-985-5366
+
+8. Jeff Filkovski
+   Email: jfilkovski@ncwu.edu
+   Username: jfilkovski
+   Phone: (252) 985-5179
+   Original line: Jeff Filkovski Head Football Coach jfilkovski@ncwu.edu 252-985-5179
+
+9. Justin Clark
+   Email: jclark@ncwu.edu
+   Username: jclark
+   Phone: (252) 985-5147
+   Original line: Justin Clark Associate Head Football Coach / Offensive Coordinator / Wide Receivers jclark@ncwu.edu 252-985-5147
+
+10. Danny “DJ”
+   Email: dbunn@ncwu.edu
+   Username: dbunn
+   Original line: Danny “DJ” Bunn Assistant Football Coach / Defensive Coordinator dbunn@ncwu.edu
+
+11. Aeon Blake
+   Email: ablake@ncwu.edu
+   Username: ablake
+   Phone: (252) 985-5386
+   Original line: Aeon Blake Assistant Football Coach / Defensive Line Coach / Strength & Conditioning ablake@ncwu.edu 252-985-5386
+
+12. Toby Wilson
+   Email: twilson@ncwu.edu
+   Username: twilson
+   Phone: (252) 985-5310
+   Original line: Toby Wilson Assistant Football Coach / Offensive Line Coach twilson@ncwu.edu 252-985-5310
+
+13. J'Vonte Hudson
+   Email: jhudson@ncwu.edu
+   Username: jhudson
+   Phone: (252) 985-5313
+   Original line: J'Vonte Hudson Assistant Football Coach / Secondary Coach jhudson@ncwu.edu 252-985-5313
+
+14. Chance Harris
+   Email: cjharris@ncwu.edu
+   Username: cjharris
+   Original line: Chance Harris Assistant Football Coach / Running Backs Coach cjharris@ncwu.edu
+
+15. Josh Corbett
+   Email: jcorbett@ncwu.edu
+   Username: jcorbett
+   Original line: Josh Corbett Assistant Football Coach / Linebackers Coach jcorbett@ncwu.edu
+
+16. Mac Sykes
+   Email: msykes@ncwu.edu
+   Username: msykes
+   Phone: (252) 536-8147
+   Original line: Mac Sykes Head Golf Coach msykes@ncwu.edu 252-536-8147
+
+17. Mark Bowman
+   Email: mbowman@ncwu.edu
+   Username: mbowman
+   Phone: (252) 985-5209
+   Original line: Mark Bowman Head Men's Soccer Coach mbowman@ncwu.edu 252-985-5209
+
+18. Cooper Hall
+   Email: chall@ncwu.edu
+   Username: chall
+   Original line: Cooper Hall Assistant Men's Soccer Coach / Recruiting Coordinator chall@ncwu.edu (252) 985-
+
+19. Matias Valenzuela
+   Email: mvalenzuela@ncwu.edu
+   Username: mvalenzuela
+   Original line: Matias Valenzuela Matic Assistant Men's Soccer Coach mvalenzuela@ncwu.edu
+
+20. Albie Brice
+   Email: abrice@ncwu.edu
+   Username: abrice
+   Phone: (252) 985-5167
+   Original line: Albie Brice Head Tennis Coach abrice@ncwu.edu 252-985-5167
+
+21. Matt Rowe
+   Email: mrowe@ncwu.edu
+   Username: mrowe
+   Phone: (252) 717-2101
+   Original line: Matt Rowe Assistant Tennis Coach mrowe@ncwu.edu 252-717-2101
+
+22. Artina J.
+   Email: atrader@ncwu.edu
+   Username: atrader
+   Phone: (252) 985-5324
+   Original line: Artina J. Trader Head Women's Basketball Coach atrader@ncwu.edu 252-985-5324
+
+23. Desiree Driver
+   Email: ddriver@ncwu.edu
+   Username: ddriver
+   Phone: (252) 985-5257
+   Original line: Desiree Driver Associate Head Women's Basketball Coach ddriver@ncwu.edu 252-985-5257
+
+24. Bill Dunn
+   Email: bdunn@ncwu.edu
+   Username: bdunn
+   Phone: (252) 985-5366
+   Original line: Bill Dunn Head Cross Country / Track & Field Coach bdunn@ncwu.edu 252-985-5366
+
+25. Robert Simpson
+   Email: rsimpson@ncwu.edu
+   Username: rsimpson
+   Phone: (919) 475-3149
+   Original line: Dr. Robert Simpson Head Lacrosse Coach rsimpson@ncwu.edu 919-475-3149
+
+26. J'Vonte Hudson
+   Email: jhudson@ncwu.edu
+   Username: jhudson
+   Phone: (252) 985-5313
+   Original line: J'Vonte Hudson Assistant Lacrosse Coach jhudson@ncwu.edu 252-985-5313
+
+27. Beverly Biancur
+   Email: bbiancur@ncwu.edu
+   Username: bbiancur
+   Phone: (252) 985-5215
+   Original line: Beverly Biancur Head Women's Soccer Coach bbiancur@ncwu.edu 252-985-5215
+
+28. Justin Bryant
+   Email: jbryant@ncwu.edu
+   Username: jbryant
+   Phone: (252) 985-5390
+   Original line: Justin Bryant Assistant Women's Soccer Coach jbryant@ncwu.edu 252-985-5390
+
+29. John Brackett
+   Email: jbrackett@ncwu.edu
+   Username: jbrackett
+   Phone: (252) 985-5217
+   Original line: John Brackett Head Softball Coach jbrackett@ncwu.edu 252-985-5217
+
+30. Albie Brice
+   Email: abrice@ncwu.edu
+   Username: abrice
+   Phone: (252) 985-5167
+   Original line: Albie Brice Head Tennis Coach abrice@ncwu.edu 252-985-5167
+
+31. Matt Rowe
+   Email: mrowe@ncwu.edu
+   Username: mrowe
+   Phone: (252) 717-2101
+   Original line: Matt Rowe Assistant Tennis Coach mrowe@ncwu.edu 252-717-2101
+
+32. Bill Dunn
+   Email: bdunn@ncwu.edu
+   Username: bdunn
+   Phone: (252) 985-5366
+   Original line: Bill Dunn Head Cross Country / Track & Field Coach bdunn@ncwu.edu 252-985-5366
+
+33. Omar Beasley
+   Email: obeasley@ncwu.edu
+   Username: obeasley
+   Original line: Omar Beasley Assistant Track and Field Coach obeasley@ncwu.edu
+
+34. Vicky Gentile
+   Email: vgentile@ncwu.edu
+   Username: vgentile
+   Phone: (252) 985-5207
+   Original line: Vicky Gentile Head Volleyball Coach vgentile@ncwu.edu 252-985-5207
+
+35. Kayla Ruffin
+   Email: kruffin@ncwu.edu
+   Username: kruffin
+   Phone: (252) 985-5345
+   Original line: Kayla Ruffin Assistant Volleyball Coach kruffin@ncwu.edu 252-985-5345
+
+36. Bill Dunn
+   Email: bdunn@ncwu.edu
+   Username: bdunn
+   Phone: (252) 985-5366
+   Original line: Bill Dunn Head Cross Country / Track & Field Coach bdunn@ncwu.edu 252-985-5366
+
+37. Omar Beasley
+   Email: obeasley@ncwu.edu
+   Username: obeasley
+   Original line: Omar Beasley Assistant Track and Field Coach obeasley@ncwu.edu
+
+38. Tonia Grimsley
+   Email: tgrimsley@ncwu.edu
+   Username: tgrimsley
+   Phone: (252) 908-5984
+   Original line: Tonia Grimsley Head Cheer Coach tgrimsley@ncwu.edu 252-908-5984
+
+39. De'Nasia Pitchford
+   Email: dpitchford@ncwu.edu
+   Username: dpitchford
+   Phone: (252) 985-5278
+   Original line: De'Nasia Pitchford Head Dance Coach dpitchford@ncwu.edu 252-985-5278
+
+40. Chantoni Grant
+   Email: cgrant@ncwu.edu
+   Username: cgrant
+   Phone: (252) 985-5111
+   Original line: Chantoni Grant Head Coach and Director of eSports cgrant@ncwu.edu 252-985-5111
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• John Thompson Head Men's Basketball Coach / Director of Compliance jthompson@ncwu.edu 252-985-5218
+• Greg Clifton Head Baseball Coach gclifton@ncwu.edu 252-985-5277
+• Javi Quintana Assistant Baseball Coach / Hitting Coach jquintana@ncwu.edu 252-985-5205
+• Andrew Tubb Assistant Baseball Coach / Pitching Coach atubb@ncwu.edu 252-985-5449
+• John Thompson Head Men's Basketball Coach / Director of Compliance jthompson@ncwu.edu 252-985-5218
+• Garrett Dorfman Assistant Men's Basketball Coach gdorfman@ncwu.edu 252-985-5172
+• Bill Dunn Head Cross Country / Track & Field Coach bdunn@ncwu.edu 252-985-5366
+• Jeff Filkovski Head Football Coach jfilkovski@ncwu.edu 252-985-5179
+• Justin Clark Associate Head Football Coach / Offensive Coordinator / Wide Receivers jclark@ncwu.edu 252-985-5147
+• Danny “DJ” Bunn Assistant Football Coach / Defensive Coordinator dbunn@ncwu.edu
+• Aeon Blake Assistant Football Coach / Defensive Line Coach / Strength & Conditioning ablake@ncwu.edu 252-985-5386
+• Toby Wilson Assistant Football Coach / Offensive Line Coach twilson@ncwu.edu 252-985-5310
+• J'Vonte Hudson Assistant Football Coach / Secondary Coach jhudson@ncwu.edu 252-985-5313
+• Chance Harris Assistant Football Coach / Running Backs Coach cjharris@ncwu.edu
+• Josh Corbett Assistant Football Coach / Linebackers Coach jcorbett@ncwu.edu
+• Mac Sykes Head Golf Coach msykes@ncwu.edu 252-536-8147
+• Mark Bowman Head Men's Soccer Coach mbowman@ncwu.edu 252-985-5209
+• Cooper Hall Assistant Men's Soccer Coach / Recruiting Coordinator chall@ncwu.edu (252) 985-
+• Matias Valenzuela Matic Assistant Men's Soccer Coach mvalenzuela@ncwu.edu
+• Albie Brice Head Tennis Coach abrice@ncwu.edu 252-985-5167
+• Matt Rowe Assistant Tennis Coach mrowe@ncwu.edu 252-717-2101
+• Artina J. Trader Head Women's Basketball Coach atrader@ncwu.edu 252-985-5324
+• Desiree Driver Associate Head Women's Basketball Coach ddriver@ncwu.edu 252-985-5257
+• Bill Dunn Head Cross Country / Track & Field Coach bdunn@ncwu.edu 252-985-5366
+• Dr. Robert Simpson Head Lacrosse Coach rsimpson@ncwu.edu 919-475-3149
+• J'Vonte Hudson Assistant Lacrosse Coach jhudson@ncwu.edu 252-985-5313
+• Beverly Biancur Head Women's Soccer Coach bbiancur@ncwu.edu 252-985-5215
+• Justin Bryant Assistant Women's Soccer Coach jbryant@ncwu.edu 252-985-5390
+• John Brackett Head Softball Coach jbrackett@ncwu.edu 252-985-5217
+• Albie Brice Head Tennis Coach abrice@ncwu.edu 252-985-5167
+• Matt Rowe Assistant Tennis Coach mrowe@ncwu.edu 252-717-2101
+• Bill Dunn Head Cross Country / Track & Field Coach bdunn@ncwu.edu 252-985-5366
+• Omar Beasley Assistant Track and Field Coach obeasley@ncwu.edu
+• Vicky Gentile Head Volleyball Coach vgentile@ncwu.edu 252-985-5207
+• Kayla Ruffin Assistant Volleyball Coach kruffin@ncwu.edu 252-985-5345
+• Bill Dunn Head Cross Country / Track & Field Coach bdunn@ncwu.edu 252-985-5366
+• Omar Beasley Assistant Track and Field Coach obeasley@ncwu.edu
+• Tonia Grimsley Head Cheer Coach tgrimsley@ncwu.edu 252-908-5984
+• De'Nasia Pitchford Head Dance Coach dpitchford@ncwu.edu 252-985-5278
+• Chantoni Grant Head Coach and Director of eSports cgrant@ncwu.edu 252-985-5111

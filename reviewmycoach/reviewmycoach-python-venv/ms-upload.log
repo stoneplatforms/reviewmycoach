@@ -1,0 +1,361 @@
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray stroke color because /'P16' is an invalid float value
+Cannot set gray non-stroke color because /'P16' is an invalid float value
+Cannot set gray stroke color because /'P78' is an invalid float value
+Cannot set gray non-stroke color because /'P78' is an invalid float value
+Cannot set gray stroke color because /'P113' is an invalid float value
+Cannot set gray non-stroke color because /'P113' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+-> Reading CSV: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/ms/Mississippi College Athletics.csv
+-> Output PDFs to: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/ms
+
+Printing completed in 154.5s
+Success: 13 | Skipped: 2 | Errors: 0
+
+Resolved URLs used:
+- Mississippi Valley State University.pdf: https://mvsusports.com/staff-directory?print=true
+- Jackson State University.pdf: https://gojsutigers.com/staff-directory?print=true
+- University of Mississippi (Ole Miss).pdf: https://olemisssports.com/staff-directory?print=true
+- Mississippi State University.pdf: https://hailstate.com/staff-directory?print=true
+- Blue Mountain Christian University.pdf: https://bmcusports.com/staff-directory?print=true
+- Belhaven University.pdf: https://blazers.belhaven.edu/staff-directory?print=true
+- Alcorn State University.pdf: https://alcornsports.com/staff-directory?print=true
+- Millsaps College.pdf: https://gomajors.com/staff-directory?print=true
+- Delta State University.pdf: https://gostatesmen.com/staff-directory?print=true
+- Mississippi College.pdf: https://gochoctaws.com/staff-directory?print=true
+- Rust College.pdf: https://rustathletics.com/staff-directory?print=true
+- William Carey University.pdf: https://gowcucrusaders.com/staff-directory?print=true
+- University of Southern Mississippi.pdf: https://southernmiss.com/staff-directory/print
+
+Skipped:
+- https://owlsathletics.athleticsite.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://owlsathletics.athleticsite.com/staff-directory/index
+Call log:
+  - navigating to "https://owlsathletics.athleticsite.com/staff-directory/index", waiting until "networkidle"
+ (tried: https://owlsathletics.athleticsite.com/staff-directory?print=true, https://owlsathletics.athleticsite.com/staff-directory/print, https://owlsathletics.athleticsite.com/staff-directory, https://owlsathletics.athleticsite.com/staff-directory/index?print=true, https://owlsathletics.athleticsite.com/staff-directory/index/print, https://owlsathletics.athleticsite.com/staff-directory/index)
+- https://athletics.tougaloo.edu/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://athletics.tougaloo.edu/staff-directory/index
+Call log:
+  - navigating to "https://athletics.tougaloo.edu/staff-directory/index", waiting until "networkidle"
+ (tried: https://athletics.tougaloo.edu/staff-directory?print=true, https://athletics.tougaloo.edu/staff-directory/print, https://athletics.tougaloo.edu/staff-directory, https://athletics.tougaloo.edu/staff-directory/index?print=true, https://athletics.tougaloo.edu/staff-directory/index/print, https://athletics.tougaloo.edu/staff-directory/index)
+
+Parsing printed PDFs and preparing upload entries...
+✔ Total coach entries prepared: 289
+✔ Created unclaimed coach profile: Terrell Buckley (terrell.buckley@mvsu.edu) → coaches/terrell.buckley
+✔ Created unclaimed coach profile: Deondri Clark (deondril.clark@mvsu.edu) → coaches/deondril.clark
+✔ Created unclaimed coach profile: Khalid Campbell (khalid.campbell@mvsu.edu) → coaches/khalid.campbell
+✔ Created unclaimed coach profile: Antonio Sanders (antonio.sanders@mvsu.edu) → coaches/antonio.sanders
+✔ Created unclaimed coach profile: Clinton Young (clinton.young@mvsu.edu) → coaches/clinton.young
+✔ Created unclaimed coach profile: Jason James (Jason.James@mvsu.edu) → coaches/Jason.James
+✔ Created unclaimed coach profile: Ashley Shields (ashley.shields@mvsu.edu) → coaches/ashley.shields
+✔ Created unclaimed coach profile: Jada Terry (jada.terry@mvsu.edu) → coaches/jada.terry
+✔ Created unclaimed coach profile: Riley Murry (rdmurry@mvsu.edu) → coaches/rdmurry
+✔ Created unclaimed coach profile: Alexandra Roberts (Alexandra.roberts@mvsu.edu) → coaches/Alexandra.roberts
+✔ Created unclaimed coach profile: Jaquarius Wilson (jaquarius.wilson@mvsu.edu) → coaches/jaquarius.wilson
+✔ Created unclaimed coach profile: Kimberly Wade (kimberly.wade@mvsu.edu) → coaches/kimberly.wade
+✔ Created unclaimed coach profile: Omar Johnson (omar.k.johnson@jsums.edu) → coaches/omar.k.johnson | Phone: (601) 979-3930
+✔ Created unclaimed coach profile: Chris Stamps (christopher.b.stamps@jsums.edu) → coaches/christopher.b.stamps | Phone: (601) 979-2291
+✔ Created unclaimed coach profile: Justin Thomas (justin.d.thomas@jsums.edu) → coaches/justin.d.thomas
+✔ Created unclaimed coach profile: Mo Williams (maurice.r.williams@jsums.edu) → coaches/maurice.r.williams
+✔ Created unclaimed coach profile: Trey Johnson (clinton.f.johnson@jsums.edu) → coaches/clinton.f.johnson | Phone: (601) 622-7370
+✔ Created unclaimed coach profile: Tyler Adams (tyler.l.adams@jsums.edu) → coaches/tyler.l.adams | Phone: (769) 348-9908
+✔ Created unclaimed coach profile: Keith Williams (keith.l.williams@jsums.edu) → coaches/keith.l.williams | Phone: (501) 920-2215
+✔ Created unclaimed coach profile: Khalill Spencer (khalil.b.spencer@jsums.edu) → coaches/khalil.b.spencer
+✔ Created unclaimed coach profile: Kydarrius Williams (j00840349@students.jsums.edu) → coaches/j00840349 | Phone: (769) 216-9401
+✔ Created unclaimed coach profile: Margaret Richards (margaret.m.richards@jsums.edu) → coaches/margaret.m.richards | Phone: (601) 979-2818
+✔ Created unclaimed coach profile: Dylan Howard (dylan.r.howard@jsums.edu) → coaches/dylan.r.howard | Phone: (601) 979-2418
+✔ Created unclaimed coach profile: Alexus Holt (alexus.c.holt@jsums.edu) → coaches/alexus.c.holt | Phone: (601) 979-2819
+✔ Created unclaimed coach profile: Michael Morgan (michael.p.morgan@jsums.edu) → coaches/michael.p.morgan | Phone: (601) 979-0642
+✔ Created unclaimed coach profile: Patrick Richardson (patrick.richardson@jsums.edu) → coaches/patrick.richardson | Phone: (601) 979-2291
+✔ Created unclaimed coach profile: Michael Boykins (michael.l.boykins@jsums.edu) → coaches/michael.l.boykins | Phone: (601) 979-3932
+✔ Created unclaimed coach profile: Danielle Mickens (danielle.n.mickens@jsums.edu) → coaches/danielle.n.mickens | Phone: (601) 979-1179
+✔ Created unclaimed coach profile: Jonathan Harris (jonathan.harris@jsums.edu) → coaches/jonathan.harris | Phone: (601) 979-0341
+✔ Created unclaimed coach profile: Mark Spooner (mark.c.spooner@jsums.edu) → coaches/mark.c.spooner | Phone: (601) 979-2291
+✔ Created unclaimed coach profile: T.C. Taylor (footballoperations@jsums.edu) → coaches/footballoperations | Phone: (601) 979-0375
+✔ Created unclaimed coach profile: Otis Riddley (footballrecruit@jsums.edu) → coaches/footballrecruit | Phone: (601) 979-2759
+✔ Created unclaimed coach profile: Rob Ford (robert.ford@jsums.edu) → coaches/robert.ford
+✔ Created unclaimed coach profile: Trinity Ahing (trinity.a.ahing@jsums.edu) → coaches/trinity.a.ahing
+✔ Created unclaimed coach profile: Ted Flogaites (theodore.j.flogaites@jsums.edu) → coaches/theodore.j.flogaites | Phone: (601) 979-2291
+✔ Created unclaimed coach profile: Kevin Montgomery (kevin.t.montgomery@jsums.edu) → coaches/kevin.t.montgomery | Phone: (601) 979-3929
+✔ Created unclaimed coach profile: Zoey Keyes (zoey.keyes@jsums.edu) → coaches/zoey.keyes
+✔ Created unclaimed coach profile: Hernan Geria (hernan.geria_reines@jsums.edu) → coaches/hernan.geria_reines
+✔ Created unclaimed coach profile: Pablo Geria (pablo.geria_reines@jsums.edu) → coaches/pablo.geria_reines
+✔ Created unclaimed coach profile: Marcus Hereford (marcus.l.hereford@jsums.edu) → coaches/marcus.l.hereford | Phone: (601) 979-2430
+✔ Created unclaimed coach profile: Verita White (verita.n.white@jsums.edu) → coaches/verita.n.white | Phone: 601.979.1097
+✔ Created unclaimed coach profile: Head Football (nrsavage@olemiss.edu) → coaches/nrsavage
+✔ Created unclaimed coach profile: Associate Head (zdakenbe@olemiss.edu) → coaches/zdakenbe
+✔ Created unclaimed coach profile: Head Women's (tboeni@olemiss.edu) → coaches/tboeni
+✔ Created unclaimed coach profile: Head Baseball (jvcarell@olemiss.edu) → coaches/jvcarell
+✔ Created unclaimed coach profile: Strength and (jpreilly@olemiss.edu) → coaches/jpreilly
+✔ Created unclaimed coach profile: Assistant Football (jasims1@olemiss.edu) → coaches/jasims1
+✔ Created unclaimed coach profile: Director of (levetzow@olemiss.edu) → coaches/levetzow
+✔ Created unclaimed coach profile: Coordinator of (sbcasey@olemiss.edu) → coaches/sbcasey
+✔ Created unclaimed coach profile: Head Coach (cbgoudor@olemiss.edu) → coaches/cbgoudor
+✔ Created unclaimed coach profile: Assistant Coach (clement@olemiss.edu) → coaches/clement
+✔ Created unclaimed coach profile: Assistant Coach (wclaffer@olemiss.edu) → coaches/wclaffer
+✔ Created unclaimed coach profile: Assistant Coach (jtmangr1@olemiss.edu) → coaches/jtmangr1
+✔ Created unclaimed coach profile: Assistant Coach (waflanig@olemiss.edu) → coaches/waflanig
+✔ Created unclaimed coach profile: Assistant Coach (apinkins@olemiss.edu) → coaches/apinkins
+✔ Created unclaimed coach profile: Assistant Coach (baburg@olemiss.edu) → coaches/baburg
+✔ Created unclaimed coach profile: Associate Head (qjhillsm@olemiss.edu) → coaches/qjhillsm
+✔ Created unclaimed coach profile: Associate Coach (coachemp@olemiss.edu) → coaches/coachemp
+✔ Created unclaimed coach profile: Associate Coach (jksmit14@olemiss.edu) → coaches/jksmit14
+✔ Created unclaimed coach profile: Assistant Coach/Recruiting (ktgordo2@olemiss.edu) → coaches/ktgordo2
+✔ Created unclaimed coach profile: Assistant Coach/Coordinator (jawhiteh@olemiss.edu) → coaches/jawhiteh
+✔ Created unclaimed coach profile: Special Assistant (dcforres@olemiss.edu) → coaches/dcforres
+✔ Created unclaimed coach profile: Head Coach (rebelfootball@olemiss.edu) → coaches/rebelfootball
+🔄 Updating unclaimed profile for megan@olemiss.edu
+✔ Updated unclaimed coach profile: Assistant to (megan@olemiss.edu) → coaches/megan
+✔ Created unclaimed coach profile: Assistant Football (rahende2@olemiss.edu) → coaches/rahende2
+✔ Created unclaimed coach profile: Assistant Football (dewilso2@olemiss.edu) → coaches/dewilso2
+✔ Created unclaimed coach profile: Head Coach (cjmalloy@olemiss.edu) → coaches/cjmalloy
+✔ Created unclaimed coach profile: Assistant Coach (ejnewsom@olemiss.edu) → coaches/ejnewsom
+✔ Created unclaimed coach profile: Head Coach (kthenkes@olemiss.edu) → coaches/kthenkes
+✔ Created unclaimed coach profile: Associate Head (zhsiefer@olemiss.edu) → coaches/zhsiefer
+✔ Created unclaimed coach profile: Head Coach (wbshaner@olemiss.edu) → coaches/wbshaner
+✔ Created unclaimed coach profile: Assistant Coach (kvtedesc@olemiss.edu) → coaches/kvtedesc
+✔ Created unclaimed coach profile: Head Coach (mmrouse1@olemiss.edu) → coaches/mmrouse1
+✔ Created unclaimed coach profile: Associate Head (rthomps3@olemiss.edu) → coaches/rthomps3
+✔ Created unclaimed coach profile: Assistant Coach (klcook3@olemiss.edu) → coaches/klcook3
+✔ Created unclaimed coach profile: Assistant Coach (mepezzin@olemiss.edu) → coaches/mepezzin
+🔄 Updating unclaimed profile for softball@olemiss.edu
+✔ Updated unclaimed coach profile: Head Coach (softball@olemiss.edu) → coaches/softball
+✔ Created unclaimed coach profile: Assistant Coach (bobbyb@olemiss.edu) → coaches/bobbyb
+✔ Created unclaimed coach profile: Head Coach (grantwt@olemiss.edu) → coaches/grantwt
+✔ Created unclaimed coach profile: Head Coach (jgjacoby@olemiss.edu) → coaches/jgjacoby
+✔ Created unclaimed coach profile: Assistant Coach (jtkros@olemiss.edu) → coaches/jtkros
+✔ Created unclaimed coach profile: Assistant Coach (vaorland@olemiss.edu) → coaches/vaorland
+✔ Created unclaimed coach profile: Head Coach (cmprices@olemiss.edu) → coaches/cmprices
+✔ Created unclaimed coach profile: Associate Head (adscott@olemiss.edu) → coaches/adscott
+✔ Created unclaimed coach profile: Associate Head (ajsmit18@olemiss.edu) → coaches/ajsmit18
+✔ Created unclaimed coach profile: Assistant Coach (bporter@olemiss.edu) → coaches/bporter
+✔ Created unclaimed coach profile: Assistant Coach (aaanusau@olemiss.edu) → coaches/aaanusau
+✔ Created unclaimed coach profile: Assistant Coach (jjsmith4@olemiss.edu) → coaches/jjsmith4
+✔ Created unclaimed coach profile: Assistant Coach (mdturne6@olemiss.edu) → coaches/mdturne6
+✔ Created unclaimed coach profile: Assistant Coach (dempsey@olemiss.edu) → coaches/dempsey
+✔ Created unclaimed coach profile: Head Coach (brehenry@olemiss.edu) → coaches/brehenry
+✔ Created unclaimed coach profile: Associate Head (gregoryt@olemiss.edu) → coaches/gregoryt
+🔄 Updating unclaimed profile for bradleyc@olemiss.edu
+✔ Updated unclaimed coach profile: Assistant Coach (bradleyc@olemiss.edu) → coaches/bradleyc
+✔ Created unclaimed coach profile: Assistant Coach (slrennie@olemiss.edu) → coaches/slrennie
+✔ Created unclaimed coach profile: Head Baseball (hailstatebaseball@athletics.msstate.edu) → coaches/hailstatebaseball
+✔ Created unclaimed coach profile: Executive Assistant (shulme@athletics.msstate.edu) → coaches/shulme
+✔ Created unclaimed coach profile: Head Men's (dsmith@athletics.msstate.edu) → coaches/dsmith
+✔ Created unclaimed coach profile: Head Women's (cewing@athletics.msstate.edu) → coaches/cewing
+✔ Created unclaimed coach profile: Head Soccer (nzimmerman@athletics.msstate.edu) → coaches/nzimmerman
+✔ Created unclaimed coach profile: Associate Head (jgarbar@athletics.msstate.edu) → coaches/jgarbar
+✔ Created unclaimed coach profile: Assistant Soccer (kstratton@athletics.msstate.edu) → coaches/kstratton
+✔ Created unclaimed coach profile: Assistant Soccer (hzapata@athletics.msstate.edu) → coaches/hzapata
+✔ Created unclaimed coach profile:  (coachricketts@athletics.msstate.edu) → coaches/coachricketts
+✔ Created unclaimed coach profile: Head Men's (mroberts@athletics.msstate.edu) → coaches/mroberts
+✔ Created unclaimed coach profile: Assistant Men's (tgotkowski@athletics.msstate.edu) → coaches/tgotkowski
+✔ Created unclaimed coach profile: Head Women's (chooshyar@athletics.msstate.edu) → coaches/chooshyar
+✔ Created unclaimed coach profile: Assistant Women's (trusso@athletics.msstate.edu) → coaches/trusso
+✔ Created unclaimed coach profile: Assistant Women's (ntippen@athletics.msstate.edu) → coaches/ntippen
+✔ Created unclaimed coach profile: Head Track (cwoods@athletics.msstate.edu) → coaches/cwoods
+✔ Created unclaimed coach profile: Associate Head (athomas@athletics.msstate.edu) → coaches/athomas
+✔ Created unclaimed coach profile: Associate Head (clyles@athletics.msstate.edu) → coaches/clyles
+✔ Created unclaimed coach profile: Taylor Clark (tclark@bmc.edu) → coaches/tclark | Phone: 662.678.6505
+✔ Created unclaimed coach profile: Nolan Stevens (nstevens@bmc.edu) → coaches/nstevens | Phone: 662.685.4771
+✔ Created unclaimed coach profile: Jeff Cook (jcook@bmc.edu) → coaches/jcook | Phone: 662.685.4771
+✔ Created unclaimed coach profile: Jermael Bingham (jbingham@bmc.edu) → coaches/jbingham | Phone: 662.685.4771
+✔ Created unclaimed coach profile: Harrison Fancher (hfancher@bmc.edu) → coaches/hfancher | Phone: 662.685.4771
+✔ Created unclaimed coach profile: Tracy Rice (trice@bmc.edu) → coaches/trice | Phone: 662.685.4771
+✔ Created unclaimed coach profile: Andrea Lewis (alewis@bmc.edu) → coaches/alewis | Phone: 685-4771
+✔ Created unclaimed coach profile: Yazmine Norphlet (ynorphlet@bmc.edu) → coaches/ynorphlet | Phone: 662.685.4771
+✔ Created unclaimed coach profile: Phillip Laney (planey@bmc.edu) → coaches/planey | Phone: 662.685.4771
+✔ Created unclaimed coach profile: Kevin Barefield (kbarefield@bmc.edu) → coaches/kbarefield | Phone: 662.685.4771
+✔ Created unclaimed coach profile: Cam Kohl (ckohl@bmc.edu) → coaches/ckohl | Phone: 662.685.4771
+✔ Created unclaimed coach profile: Matt Brunet (mbrunet@bmc.edu) → coaches/mbrunet
+✔ Created unclaimed coach profile: M.J. George (mgeorge@bmc.edu) → coaches/mgeorge | Phone: 662.685.4771
+🔄 Updating unclaimed profile for dhorton@bmc.edu
+✔ Updated unclaimed coach profile: Dana Horton (dhorton@bmc.edu) → coaches/dhorton | Phone: 662.882.0757
+✔ Created unclaimed coach profile: Sara Eason (season@bmc.edu) → coaches/season | Phone: 662.685.4771
+✔ Created unclaimed coach profile: Hannah Cox (hcox@bmc.edu) → coaches/hcox | Phone: 662.685.4771
+🔄 Updating unclaimed profile for pmoore@bmc.edu
+✔ Updated unclaimed coach profile: Peter Moore (pmoore@bmc.edu) → coaches/pmoore | Phone: 662.416.6780
+✔ Created unclaimed coach profile: Breno Da (bdacosta@bmc.edu) → coaches/bdacosta | Phone: 256.306.8422
+✔ Created unclaimed coach profile: Oluwatobi Ojo (oojo@bmc.edu) → coaches/oojo | Phone: (320) 223-4304
+✔ Created unclaimed coach profile: Jacob Hunt (jhunt@bmc.edu) → coaches/jhunt | Phone: (662) 279-4179
+✔ Created unclaimed coach profile: Anna McCoy (amccoy@bmc.edu) → coaches/amccoy | Phone: 662.685.4771
+✔ Created unclaimed coach profile: Trey Humphreys (ehumphreys@bmc.edu) → coaches/ehumphreys | Phone: 662.507.2080
+🔄 Updating unclaimed profile for scox@bmc.edu
+✔ Updated unclaimed coach profile: Shane Cox (scox@bmc.edu) → coaches/scox
+🔄 Updating unclaimed profile for jhowell@bmc.edu
+✔ Updated unclaimed coach profile: Jerrell Howell (jhowell@bmc.edu) → coaches/jhowell | Phone: 662.507.2215
+✔ Created unclaimed coach profile: Kevin Griffin (kgriffin@belhaven.edu) → coaches/kgriffin | Phone: 601.968.8768
+✔ Created unclaimed coach profile: Courtney Fairley (cfairley@belhaven.edu) → coaches/cfairley | Phone: 601.968.8785
+✔ Created unclaimed coach profile: Joseph Dendy (jdendy@belhaven.edu) → coaches/jdendy
+✔ Created unclaimed coach profile: Patrick Robey (probey@belhaven.edu) → coaches/probey
+✔ Created unclaimed coach profile: Kyle Cedotal (kcedotal@belhaven.edu) → coaches/kcedotal
+✔ Created unclaimed coach profile: Justin Simanek (jsimanek@belhaven.edu) → coaches/jsimanek | Phone: 601.973.5030
+✔ Created unclaimed coach profile: Boomer Roberts (broberts@belhaven.edu) → coaches/broberts
+✔ Created unclaimed coach profile: Jonathan Comer (jcomer@belhaven.edu) → coaches/jcomer
+✔ Created unclaimed coach profile: Steve Calder (scalder@belhaven.edu) → coaches/scalder | Phone: 601.968.8842
+✔ Created unclaimed coach profile: Lauren Brooks (lbrooks@belhaven.edu) → coaches/lbrooks | Phone: 601.968.8812
+✔ Created unclaimed coach profile: CJ Nightingale (cjnightingale@belhaven.edu) → coaches/cjnightingale
+✔ Created unclaimed coach profile: James Gledhill (jgledhill@belhaven.edu) → coaches/jgledhill | Phone: 601.965.7013
+✔ Created unclaimed coach profile: Jason Ward (jward@belhaven.edu) → coaches/jward | Phone: 601.965.7013
+✔ Created unclaimed coach profile: Kimberly Harrell (kharrell@belhaven.edu) → coaches/kharrell | Phone: 601.968.8708
+✔ Created unclaimed coach profile: Jonny Ellis (jellis@belhaven.edu) → coaches/jellis | Phone: 601.968.8708
+✔ Created unclaimed coach profile: Keaton Halbert (khalbert@belhaven.edu) → coaches/khalbert | Phone: 601.968.8708
+✔ Created unclaimed coach profile: Kennedy Carruth (kcarruth@belhaven.edu) → coaches/kcarruth | Phone: 601.968.8785
+✔ Created unclaimed coach profile: Ashton Hartley (ahartley@belhaven.edu) → coaches/ahartley | Phone: 601.968.8805
+✔ Created unclaimed coach profile: Butch Ard (bard@belhaven.edu) → coaches/bard | Phone: 601.968.8806
+✔ Created unclaimed coach profile: Christi DeLaughter (cdelaughter@belhaven.edu) → coaches/cdelaughter | Phone: 601.968.8806
+✔ Created unclaimed coach profile: Olivia Killelea (okillelea@belhaven.edu) → coaches/okillelea | Phone: 601.968.8891
+✔ Created unclaimed coach profile: Barry Gant (bggant@alcorn.edu) → coaches/bggant | Phone: (601) 877-6513
+🔄 Updating unclaimed profile for athletics@alcorn.edu
+✔ Updated unclaimed coach profile: Cedric Thomas (athletics@alcorn.edu) → coaches/athletics
+✔ Created unclaimed coach profile: Ryan Busz (rbusz@alcorn.edu) → coaches/rbusz | Phone: (601) 877-3996
+✔ Created unclaimed coach profile: Leroy Frederick (lfrederick@alcorn.edu) → coaches/lfrederick | Phone: (601) 877-6273
+✔ Created unclaimed coach profile: Trumaine Watson (tewatson@alcorn.edu) → coaches/tewatson | Phone: (601) 877-3996
+✔ Created unclaimed coach profile: Derrien Covington (dcovington@alcorn.edu) → coaches/dcovington | Phone: (601) 877-2357
+✔ Created unclaimed coach profile: Dwayne Taylor (dtaylor@alcorn.edu) → coaches/dtaylor | Phone: (601) 877-3988
+✔ Created unclaimed coach profile: Aaron Anguiano (aanguiano@alcorn.edu) → coaches/aanguiano | Phone: (601) 877-3988
+✔ Created unclaimed coach profile: Tavarian McCullum (tmccullum@alcorn.edu) → coaches/tmccullum | Phone: (601) 877-3988
+✔ Created unclaimed coach profile: Adam Braswell (abraswell@alcorn.edu) → coaches/abraswell | Phone: (601) 877-6464
+✔ Created unclaimed coach profile: Devon Smith (devonsmith@alcorn.edu) → coaches/devonsmith | Phone: (601) 877-6367
+✔ Created unclaimed coach profile: Elvis Robinson (erobinson@alcorn.edu) → coaches/erobinson | Phone: (601) 877-6510
+✔ Created unclaimed coach profile: Lisa Powell (llpowell@alcorn.edu) → coaches/llpowell | Phone: (601) 877-6487
+✔ Created unclaimed coach profile: Joncyee Sanders (jssanders1@alcorn.edu) → coaches/jssanders1 | Phone: (601) 877-6487
+✔ Created unclaimed coach profile: Carlton Hardy (chardy@alcorn.edu) → coaches/chardy | Phone: (601) 877-2457
+✔ Created unclaimed coach profile: Oscar Reed (oscarreed@alcorn.edu) → coaches/oscarreed | Phone: (601) 877-2457
+✔ Created unclaimed coach profile: Brianna Billie (bbillie@alcorn.edu) → coaches/bbillie | Phone: (601) 877-6278
+✔ Created unclaimed coach profile: Deyonce Lewis (deyonce@alcorn.edu) → coaches/deyonce | Phone: (601) 877-6468
+✔ Created unclaimed coach profile: Ken Kabiru (kkabiru@alcorn.edu) → coaches/kkabiru | Phone: (601) 877-6517
+✔ Created unclaimed coach profile: Stas Smirnov (ssmirnov@alcorn.edu) → coaches/ssmirnov | Phone: (601) 877-6518
+✔ Created unclaimed coach profile: Alonzo Banks (aobanks@alcorn.edu) → coaches/aobanks | Phone: (601) 877-2456
+✔ Created unclaimed coach profile: Roy Lee (royl@alcorn.edu) → coaches/royl | Phone: (601) 877-2453
+🔄 Updating unclaimed profile for gharris@alcorn.edu
+✔ Updated unclaimed coach profile: Gabrielle Harris (gharris@alcorn.edu) → coaches/gharris | Phone: (601) 877-6558
+✔ Created unclaimed coach profile: Destini Banks (dlbanks@alcorn.edu) → coaches/dlbanks
+🔄 Updating unclaimed profile for cheer@alcorn.edu
+✔ Updated unclaimed coach profile: Timothy Queen (cheer@alcorn.edu) → coaches/cheer
+✔ Created unclaimed coach profile: Dallas Creamer (creamdj@millsaps.edu) → coaches/creamdj
+✔ Created unclaimed coach profile: Jim Page (pagejj@millsaps.edu) → coaches/pagejj
+✔ Created unclaimed coach profile: Jackson Hailey (hailepj@millsaps.edu) → coaches/hailepj
+✔ Created unclaimed coach profile: Case Page (pagecj@millsaps.edu) → coaches/pagecj
+✔ Created unclaimed coach profile: Nathan Chilton (chiltnc@millsaps.edu) → coaches/chiltnc
+✔ Created unclaimed coach profile: Connor Kuykendall (kuykecd@millsaps.edu) → coaches/kuykecd
+✔ Created unclaimed coach profile: Griffin Levine (levinga@millsaps.edu) → coaches/levinga
+✔ Created unclaimed coach profile: Jeff Wilbur (wilbujd@millsaps.edu) → coaches/wilbujd
+✔ Created unclaimed coach profile: Ciara Jackson (jackscd@millsaps.edu) → coaches/jackscd
+✔ Created unclaimed coach profile: Lauren Brown (laubrown@jackson.k12.ms.us) → coaches/laubrown
+✔ Created unclaimed coach profile: Derrick Jordan (jordadk@millsaps.edu) → coaches/jordadk
+✔ Created unclaimed coach profile: Brandon Lechtenberg (lechtb@millsaps.edu) → coaches/lechtb
+✔ Created unclaimed coach profile: Taylor Martin (martitd1@millsaps.edu) → coaches/martitd1
+✔ Created unclaimed coach profile: Chris Corrado (corracc@millsaps.edu) → coaches/corracc
+✔ Created unclaimed coach profile: Ridge Murphy (murphra@millsaps.edu) → coaches/murphra
+✔ Created unclaimed coach profile: Master Davis (davismb1@millsaps.edu) → coaches/davismb1
+✔ Created unclaimed coach profile: Roderick Gordon (gordorl@millsaps.edu) → coaches/gordorl
+✔ Created unclaimed coach profile: Gentry Johnson (johnsgl@millsaps.edu) → coaches/johnsgl
+✔ Created unclaimed coach profile: Stephen Roberson (roberse1@millsaps.edu) → coaches/roberse1
+✔ Created unclaimed coach profile: Jeramey Anderson (anderjd@millsaps.edu) → coaches/anderjd
+✔ Created unclaimed coach profile: Luke Schwarz (schwalj@millsaps.edu) → coaches/schwalj
+✔ Created unclaimed coach profile: Lauren Samford (samfolo@millsaps.edu) → coaches/samfolo
+✔ Created unclaimed coach profile: Mary Ranager (ranagmc@millsaps.edu) → coaches/ranagmc
+✔ Created unclaimed coach profile: Jeff Gillespie (gillejd@millsaps.edu) → coaches/gillejd
+✔ Created unclaimed coach profile: Lindsey Coffey (coffeld@millsaps.edu) → coaches/coffeld
+✔ Created unclaimed coach profile: Andrew Foltz (foltzar@millsaps.edu) → coaches/foltzar
+✔ Created unclaimed coach profile: Madeline McCloskey (mcclomm@millsaps.edu) → coaches/mcclomm
+✔ Created unclaimed coach profile: Agnes Gee (geeam@millsaps.edu) → coaches/geeam
+✔ Created unclaimed coach profile: Fernanda Cota (cotaf@millsaps.edu) → coaches/cotaf
+✔ Created unclaimed coach profile: Hannah Lingold (lingohr@millsaps.edu) → coaches/lingohr
+✔ Created unclaimed coach profile: Rodney Batts (rbatts@deltastate.edu) → coaches/rbatts
+✔ Created unclaimed coach profile: Andy Rincker (arincker@deltastate.edu) → coaches/arincker
+✔ Created unclaimed coach profile: Luke Stanley (lstanley@deltastate.edu) → coaches/lstanley
+✔ Created unclaimed coach profile: Mike Nienaber (mnienaber@deltastate.edu) → coaches/mnienaber
+🔄 Updating unclaimed profile for jknight@deltastate.edu
+✔ Updated unclaimed coach profile: Jonathan Knight (jknight@deltastate.edu) → coaches/jknight
+✔ Created unclaimed coach profile: Tracy Stewart-Lange (tslange@deltastate.edu) → coaches/tslange
+✔ Created unclaimed coach profile: Julie Church (jchurch@deltastate.edu) → coaches/jchurch
+✔ Created unclaimed coach profile: Mary Elizabeth (mbevans@deltastate.edu) → coaches/mbevans
+✔ Created unclaimed coach profile: Britnee Smith (besmith@deltastate.edu) → coaches/besmith
+✔ Created unclaimed coach profile: Todd Cooley (tcooley@deltastate.edu) → coaches/tcooley
+✔ Created unclaimed coach profile: Jonathan Fletcher (jfletcher@deltastate.edu) → coaches/jfletcher
+✔ Created unclaimed coach profile: Chance Alberswerth (calberswerth@deltastate.edu) → coaches/calberswerth
+✔ Created unclaimed coach profile: Alex Bell (abell@deltastate.edu) → coaches/abell
+✔ Created unclaimed coach profile: Ty Hinson (thinson@deltastate.edu) → coaches/thinson
+🔄 Updating unclaimed profile for awilson@deltastate.edu
+✔ Updated unclaimed coach profile: Azar Wilson (awilson@deltastate.edu) → coaches/awilson
+✔ Created unclaimed coach profile: Isaac Samples (Isamples@deltastate.edu) → coaches/Isamples
+✔ Created unclaimed coach profile: Austin Jackman (atjackman@deltastate.edu) → coaches/atjackman
+✔ Created unclaimed coach profile: Chloe Kane (ckane@deltastate.edu) → coaches/ckane
+✔ Created unclaimed coach profile: Mark Shirley (mshirley@deltastate.edu) → coaches/mshirley
+✔ Created unclaimed coach profile: Keelee Butler (khuff@deltastate.edu) → coaches/khuff
+🔄 Updating unclaimed profile for tloomis@deltastate.edu
+✔ Updated unclaimed coach profile: Trevor Loomis (tloomis@deltastate.edu) → coaches/tloomis
+✔ Created unclaimed coach profile: Julia Dilworth (jdilworth@deltastate.edu) → coaches/jdilworth
+✔ Created unclaimed coach profile: Will Irvin (wirvin@deltastate.edu) → coaches/wirvin
+✔ Created unclaimed coach profile: Griffin Fleming (ghfleming@mc.edu) → coaches/ghfleming
+✔ Created unclaimed coach profile: Anna Nelson (anelson2@mc.edu) → coaches/anelson2
+✔ Created unclaimed coach profile: Leigh Streetman (lstreetman@mc.edu) → coaches/lstreetman | Phone: 601.925.3361
+✔ Created unclaimed coach profile: Michele Ricker (mricker@mc.edu) → coaches/mricker | Phone: 601.925.3925
+✔ Created unclaimed coach profile: Malik James (mdjames@mc.edu) → coaches/mdjames | Phone: 601.925.3839
+✔ Created unclaimed coach profile: Jeremy Haworth (jshaworth@mc.edu) → coaches/jshaworth | Phone: 601.925.3346
+✔ Created unclaimed coach profile: Zack Ingram (zingram1@mc.edu) → coaches/zingram1 | Phone: 601.925.7828
+✔ Created unclaimed coach profile: Colt Chrestman (cwchrestman@mc.edu) → coaches/cwchrestman | Phone: 601.925.3353
+✔ Created unclaimed coach profile: Josh Brooks (jbrooks@mc.edu) → coaches/jbrooks | Phone: 601.925.3365
+✔ Created unclaimed coach profile: John Works (jworks@mc.edu) → coaches/jworks | Phone: 601.925.3364
+✔ Created unclaimed coach profile: Terik Richardson (trichardson1@mc.edu) → coaches/trichardson1 | Phone: 601.925.3364
+✔ Created unclaimed coach profile: Jordan Marshall (jcmarshall@mc.edu) → coaches/jcmarshall | Phone: 601.925.3364
+✔ Created unclaimed coach profile: Rachel Travis (rtravis@mc.edu) → coaches/rtravis | Phone: 601.925.3360
+✔ Created unclaimed coach profile: KaVonne Towns (ktowns1@mc.edu) → coaches/ktowns1 | Phone: 601.925.3363
+✔ Created unclaimed coach profile: Kaitlyn Keathley (kkeathley@mc.edu) → coaches/kkeathley
+✔ Created unclaimed coach profile: Joe Snyder (jsnyder@mc.edu) → coaches/jsnyder | Phone: 601.925.7653
+✔ Created unclaimed coach profile: Chris Webber (cawebber@mc.edu) → coaches/cawebber | Phone: (601) 925-7653
+✔ Created unclaimed coach profile: Mike Fairfax (mfairfax@mc.edu) → coaches/mfairfax
+✔ Created unclaimed coach profile: Ethan Doan (doan@mc.edu) → coaches/doan | Phone: 601.925.3810
+✔ Created unclaimed coach profile: Brent Belton (bbelton@mc.edu) → coaches/bbelton | Phone: 601.951.3637
+✔ Created unclaimed coach profile: Rafael Costa (rcosta@mc.edu) → coaches/rcosta | Phone: 601.925.3934
+✔ Created unclaimed coach profile: Owen Connelly (ofconnelly@mc.edu) → coaches/ofconnelly | Phone: 601.925.7639
+✔ Created unclaimed coach profile: Darryl Longabaugh (longabau@mc.edu) → coaches/longabau | Phone: 601.925.3892
+✔ Created unclaimed coach profile: Adam Johnson (agjohnson@mc.edu) → coaches/agjohnson | Phone: 601.925.7640
+✔ Created unclaimed coach profile: Brooke Fagan (bnfagan@mc.edu) → coaches/bnfagan | Phone: 601.925.7886
+✔ Created unclaimed coach profile: Michael Ward (mward2@mc.edu) → coaches/mward2 | Phone: 601.925.3959
+✔ Created unclaimed coach profile: Colleen Roberts (croberts3@mc.edu) → coaches/croberts3 | Phone: 601.925.3959
+✔ Created unclaimed coach profile: Nick Rosatti (nrosatti@mc.edu) → coaches/nrosatti | Phone: 601.925.3959
+✔ Created unclaimed coach profile: Bentley Odom (bodom@mc.edu) → coaches/bodom | Phone: 601.925.3357
+✔ Created unclaimed coach profile: Hayle Tillman (hltillman1@mc.edu) → coaches/hltillman1
+✔ Created unclaimed coach profile: Lydia Paulette (lmpaulette@mc.edu) → coaches/lmpaulette
+✔ Created unclaimed coach profile: Ali Wiggins (amwiggins@mc.edu) → coaches/amwiggins
+🔄 Updating unclaimed profile for bhalford@wmcarey.edu
+✔ Updated unclaimed coach profile: Bobby Halford (bhalford@wmcarey.edu) → coaches/bhalford | Phone: (601) 318-6110
+✔ Created unclaimed coach profile: Eric Ebers (eebers@wmcarey.edu) → coaches/eebers | Phone: (601) 318-6333
+✔ Created unclaimed coach profile: Jamie McMahon (jmcmahon@wmcarey.edu) → coaches/jmcmahon | Phone: (601) 318-6333
+✔ Created unclaimed coach profile: Wendy Hogue (whogue@wmcarey.edu) → coaches/whogue | Phone: (601) 318-6551
+✔ Created unclaimed coach profile: Craig Fletcher (cfletcher@wmcarey.edu) → coaches/cfletcher | Phone: (601) 318-6617
+✔ Created unclaimed coach profile: Hannah Brister (hbrister@wmcarey.edu) → coaches/hbrister | Phone: (601) 318-6617
+✔ Created unclaimed coach profile: Steve Knight (sknight@wmcarey.edu) → coaches/sknight | Phone: (601) 318-6415
+✔ Created unclaimed coach profile: Phillip (PJ) (pmccray@wmcarey.edu) → coaches/pmccray | Phone: (601) 318-6632
+✔ Created unclaimed coach profile: Eric Burt (eburt@wmcarey.edu) → coaches/eburt | Phone: (601) 318-6510
+✔ Created unclaimed coach profile: Jessica Garriga (jgarriga@wmcarey.edu) → coaches/jgarriga | Phone: (601) 318-6567
+✔ Created unclaimed coach profile: Cotoria Blackmon (tblackmon@wmcarey.edu) → coaches/tblackmon
+✔ Created unclaimed coach profile: Jeff Mixon (jmixon@wmcarey.edu) → coaches/jmixon | Phone: (601) 318-6597
+✔ Created unclaimed coach profile: Barry Farrell (bfarrell@wmcarey.edu) → coaches/bfarrell | Phone: (601) 318-6401
+✔ Created unclaimed coach profile: Guilherme Avila (gterra@wmcarey.edu) → coaches/gterra
+✔ Created unclaimed coach profile: Danny Owens (dowens@wmcarey.edu) → coaches/dowens | Phone: (601) 318-6589
+✔ Created unclaimed coach profile: Ryan Weir (rweir@wmcarey.edu) → coaches/rweir | Phone: (601) 318-6589
+✔ Created unclaimed coach profile: Marc Lux (mlux@wmcarey.edu) → coaches/mlux | Phone: (601) 318-6631
+✔ Created unclaimed coach profile: Malcolm Dias (mdias@wmcarey.edu) → coaches/mdias | Phone: (601) 318-6313
+✔ Created unclaimed coach profile: Ronda Shirley (rshirley@wmcarey.edu) → coaches/rshirley
+✔ Created unclaimed coach profile: Lauren Lanford (llanford@wmcarey.edu) → coaches/llanford
+✔ Created unclaimed coach profile: Laura Lightsey (llightsey@wmcarey.edu) → coaches/llightsey
+🔄 Updating unclaimed profile for rgonzalez@wmcarey.edu
+✔ Updated unclaimed coach profile: Robert Gonzalez (rgonzalez@wmcarey.edu) → coaches/rgonzalez
+✔ Created unclaimed coach profile: Johnnie Stinson (jstinson@wmcarey.edu) → coaches/jstinson | Phone: (601) 318-6349
+
+📊 Upload Summary:
+✔ 289 coach profiles created/updated
+⏭️  0 profiles skipped (already claimed)
+📧 Coaches can now claim their profiles during onboarding using their email address

@@ -1,0 +1,317 @@
+COACH ENTRIES FOUND - 2025-10-19 04:36:14
+============================================================
+
+Total coaches found: 51
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kevin Kopple
+   Email: kkopple@georgefox.edu
+   Username: kkopple
+   Original line: Kevin Kopple Head Coach (2019-) kkopple@georgefox.edu 503-554-
+
+2. Brandon Rupp
+   Email: brupp@georgefox.edu
+   Username: brupp
+   Original line: Brandon Rupp Assistant Coach (2019- ) brupp@georgefox.edu
+
+3. Brian Pollard
+   Email: bpollard@georgefox.edu
+   Username: bpollard
+   Original line: Brian Pollard Assistant Coach | (2022-) bpollard@georgefox.edu
+
+4. Carol Laube
+   Email: claube@georgefox.edu
+   Username: claube
+   Original line: Carol Laube Assistant Coach | (2022-) claube@georgefox.edu
+
+5. Chris Pine
+   Email: cpine@georgefox.edu
+   Username: cpine
+   Original line: Chris Pine Assistant Coach (2024- ) cpine@georgefox.edu
+
+6. Ryan Fobert
+   Email: rfobert@georgefox.edu
+   Username: rfobert
+   Original line: Ryan Fobert Assistant Coach (2024- ) rfobert@georgefox.edu
+
+7. Josh Rapacz
+   Email: jrapacz@georgefox.edu
+   Username: jrapacz
+   Original line: Josh Rapacz Assistant Coach (2024- ) jrapacz@georgefox.edu
+
+8. Nate Hickok
+   Email: nhickok@georgefox.edu
+   Username: nhickok
+   Original line: Nate Hickok Assistant Coach (2025- ) nhickok@georgefox.edu
+
+9. Maco Hamilton
+   Email: mhamilton@georgefox.edu
+   Username: mhamilton
+   Original line: Maco Hamilton Head Coach (2013-) mhamilton@georgefox.edu 503-554-
+
+10. Brendan Jones
+   Email: bjones@georgefox.edu
+   Username: bjones
+   Original line: Brendan Jones Assistant Coach | Strength & Conditioning (2018-) bjones@georgefox.edu 406-239-
+
+11. Lauren Howard
+   Email: lhoward@georgefox.edu
+   Username: lhoward
+   Original line: Lauren Howard Head Coach (2023- ) lhoward@georgefox.edu 503-840-
+
+12. Alex Brown
+   Email: abrown@georgefox.edu
+   Username: abrown
+   Original line: Alex Brown Assistant Coach (2023-) abrown@georgefox.edu
+
+13. Lillie Arredondo
+   Email: larredondo@georgefox.edu
+   Username: larredondo
+   Original line: Lillie Arredondo Assistant Coach (2023- ) larredondo@georgefox.edu
+
+14. Ian Hartman
+   Email: Ihartman@georgefox.edu
+   Username: Ihartman
+   Original line: Ian Hartman Assistant Coach (2024-) Ihartman@georgefox.edu
+
+15. Mike Wilson
+   Email: mwilson@georgefox.edu
+   Username: mwilson
+   Original line: Mike Wilson Associate Head Coach of Cross Country and Distance | Track & Field mwilson@georgefox.edu 330-687-
+
+16. Brent Leber
+   Email: bleber@georgefox.edu
+   Username: bleber
+   Original line: Brent Leber Assistant Coach & Recruiting Coordinator (2025- ) bleber@georgefox.edu
+
+17. Bryant Quinn
+   Email: bquinn@georgefox.edu
+   Username: bquinn
+   Original line: Bryant Quinn Assistant Coach (2016-) bquinn@georgefox.edu
+
+18. Audrey Maas
+   Email: amaas@georgefox.edu
+   Username: amaas
+   Original line: Audrey Maas (Lichten) Assistant Coach (2022-) amaas@georgefox.edu
+
+19. Michelle Herbes
+   Email: mherbes@georgefox.edu
+   Username: mherbes
+   Original line: Michelle Herbes Assistant Coach (2025- ) mherbes@georgefox.edu
+
+20. Spencer Crace
+   Email: scrace@georgefox.edu
+   Username: scrace
+   Original line: Spencer Crace Head Coach (2025- ) scrace@georgefox.edu
+
+21. Lukkes Gilgan
+   Email: lgilgan@georgefox.edu
+   Username: lgilgan
+   Original line: Lukkes Gilgan Associate Head Coach | Defensive Coordinator | Safeties (2025- ) lgilgan@georgefox.edu
+
+22. Kaedin Steindorf
+   Email: ksteindorf@georgefox.edu
+   Username: ksteindorf
+   Original line: Kaedin Steindorf Kicking/Punting Coach (2025- ) ksteindorf@georgefox.edu
+
+23. Caleb Fernandez
+   Email: cfernandez@georgefox.edu
+   Username: cfernandez
+   Original line: Caleb Fernandez Head Coach (2022-) cfernandez@georgefox.edu
+
+24. MaryJo McCloskey
+   Email: mmccloskey@georgefox.edu
+   Username: mmccloskey
+   Original line: MaryJo McCloskey Women's Golf Head Coach (2006-) mmccloskey@georgefox.edu 503-554-
+
+25. Carson Barry
+   Email: cbarry@georgefox.edu
+   Username: cbarry
+   Original line: Carson Barry Assistant Coach | (2023-) cbarry@georgefox.edu
+
+26. David Swartout
+   Email: dswartout@georgefox.edu
+   Username: dswartout
+   Original line: David Swartout Assistant Coach (2025- ) dswartout@georgefox.edu
+
+27. MaryJo McCloskey
+   Email: mmccloskey@georgefox.edu
+   Username: mmccloskey
+   Original line: MaryJo McCloskey Women's Golf Head Coach (2006-) mmccloskey@georgefox.edu 503-554-
+
+28. Jordyn Merkel
+   Email: jmerkel@georgefox.edu
+   Username: jmerkel
+   Original line: Jordyn Merkel Head Coach (2024- ) jmerkel@georgefox.edu
+
+29. Jen Preap
+   Email: jpreap@georgefox.edu
+   Username: jpreap
+   Original line: Jen Preap Volunteer Assistant Coach (2022- ) jpreap@georgefox.edu
+
+30. Paul Karver
+   Email: pkarver@georgefox.edu
+   Username: pkarver
+   Original line: Paul Karver Head Coach (2021- ) pkarver@georgefox.edu
+
+31. Darin Durante
+   Email: ddurante@georgefox.edu
+   Username: ddurante
+   Original line: Darin Durante Assistant Coach (2025- ) ddurante@georgefox.edu
+
+32. Laura Schott
+   Email: lschott@georgefox.edu
+   Username: lschott
+   Original line: Laura Schott Head Coach (2020- ) lschott@georgefox.edu
+
+33. Britnee Ely
+   Email: bely@georgefox.edu
+   Username: bely
+   Original line: Britnee Ely Assistant Coach (2024- ) bely@georgefox.edu
+
+34. Colin Feldtman
+   Email: cfeldtman@georgefox.edu
+   Username: cfeldtman
+   Original line: Colin Feldtman Assistant Coach (2024- ) cfeldtman@georgefox.edu
+
+35. Nathan Ohta
+   Email: nohta@georgefox.edu
+   Username: nohta
+   Original line: Nathan Ohta Head Coach (2024- ) nohta@georgefox.edu
+
+36. Rachel Jones
+   Email: jonesr@georgefox.edu
+   Username: jonesr
+   Original line: Rachel Jones Assistant Coach | (2021-) jonesr@georgefox.edu
+
+37. John Hollen
+   Email: ahollen@georgefox.edu
+   Username: ahollen
+   Original line: John Hollen Assistant Coach (2009- ) ahollen@georgefox.edu
+
+38. Jason Hunter
+   Email: jhunter@georgefox.edu
+   Username: jhunter
+   Original line: Jason Hunter Assistant Coach (2018-) jhunter@georgefox.edu
+
+39. Mitchell Miyashiro
+   Email: mmiyashiro@georgefox.edu
+   Username: mmiyashiro
+   Original line: Mitchell Miyashiro Head Coach (2024- ) mmiyashiro@georgefox.edu
+
+40. Nanase Ebisu
+   Email: nebisu@georgefox.edu
+   Username: nebisu
+   Original line: Nanase Ebisu Assistant Coach (2025- ) nebisu@georgefox.edu
+
+41. Rick Cruz
+   Email: rcruz@georgefox.edu
+   Username: rcruz
+   Original line: Rick Cruz Head Coach (2001-) rcruz@georgefox.edu 503-554-
+
+42. Rob Cruz
+   Email: cruzr@georgefox.edu
+   Username: cruzr
+   Original line: Rob Cruz Assistant Coach (2001-) cruzr@georgefox.edu
+
+43. John Smith
+   Email: jsmith@georgefox.edu
+   Username: jsmith
+   Original line: John Smith Head Coach (2006-) jsmith@georgefox.edu 503-554-
+
+44. Mike Wilson
+   Email: mwilson@georgefox.edu
+   Username: mwilson
+   Original line: Mike Wilson Associate Head Coach of Cross Country and Distance | Track & Field mwilson@georgefox.edu 330-687-
+
+45. Gabe Haberly
+   Email: ghaberly@georgefox.edu
+   Username: ghaberly
+   Original line: Gabe Haberly Assistant Coach (2012-) ghaberly@georgefox.edu 503-554-
+
+46. Bryant Quinn
+   Email: bquinn@georgefox.edu
+   Username: bquinn
+   Original line: Bryant Quinn Assistant Coach (2016-) bquinn@georgefox.edu
+
+47. Audrey Maas
+   Email: amaas@georgefox.edu
+   Username: amaas
+   Original line: Audrey Maas (Lichten) Assistant Coach (2022-) amaas@georgefox.edu
+
+48. Emily Davis
+   Email: edavis@georgefox.edu
+   Username: edavis
+   Original line: Emily Davis Head Coach (2016- ) edavis@georgefox.edu 503-554-
+
+49. Liv Hanbey
+   Email: ohanbey@georgefox.edu
+   Username: ohanbey
+   Original line: Liv Hanbey Assistant Coach (2021-) ohanbey@georgefox.edu
+
+50. Piper Hilgaertner
+   Email: philgaertner@georgefox.edu
+   Username: philgaertner
+   Original line: Piper Hilgaertner Assistant Coach (2025- ) philgaertner@georgefox.edu>
+
+51. Aiyana Henderson
+   Email: ahenderson@georgefox.edu
+   Username: ahenderson
+   Original line: Aiyana Henderson Assistant Coach | Associate Recruiting Coordinator (2025- ) ahenderson@georgefox.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kevin Kopple Head Coach (2019-) kkopple@georgefox.edu 503-554-
+• Brandon Rupp Assistant Coach (2019- ) brupp@georgefox.edu
+• Brian Pollard Assistant Coach | (2022-) bpollard@georgefox.edu
+• Carol Laube Assistant Coach | (2022-) claube@georgefox.edu
+• Chris Pine Assistant Coach (2024- ) cpine@georgefox.edu
+• Ryan Fobert Assistant Coach (2024- ) rfobert@georgefox.edu
+• Josh Rapacz Assistant Coach (2024- ) jrapacz@georgefox.edu
+• Nate Hickok Assistant Coach (2025- ) nhickok@georgefox.edu
+• Maco Hamilton Head Coach (2013-) mhamilton@georgefox.edu 503-554-
+• Brendan Jones Assistant Coach | Strength & Conditioning (2018-) bjones@georgefox.edu 406-239-
+• Lauren Howard Head Coach (2023- ) lhoward@georgefox.edu 503-840-
+• Alex Brown Assistant Coach (2023-) abrown@georgefox.edu
+• Lillie Arredondo Assistant Coach (2023- ) larredondo@georgefox.edu
+• Ian Hartman Assistant Coach (2024-) Ihartman@georgefox.edu
+• Mike Wilson Associate Head Coach of Cross Country and Distance | Track & Field mwilson@georgefox.edu 330-687-
+• Brent Leber Assistant Coach & Recruiting Coordinator (2025- ) bleber@georgefox.edu
+• Bryant Quinn Assistant Coach (2016-) bquinn@georgefox.edu
+• Audrey Maas (Lichten) Assistant Coach (2022-) amaas@georgefox.edu
+• Michelle Herbes Assistant Coach (2025- ) mherbes@georgefox.edu
+• Spencer Crace Head Coach (2025- ) scrace@georgefox.edu
+• Lukkes Gilgan Associate Head Coach | Defensive Coordinator | Safeties (2025- ) lgilgan@georgefox.edu
+• Kaedin Steindorf Kicking/Punting Coach (2025- ) ksteindorf@georgefox.edu
+• Caleb Fernandez Head Coach (2022-) cfernandez@georgefox.edu
+• MaryJo McCloskey Women's Golf Head Coach (2006-) mmccloskey@georgefox.edu 503-554-
+• Carson Barry Assistant Coach | (2023-) cbarry@georgefox.edu
+• David Swartout Assistant Coach (2025- ) dswartout@georgefox.edu
+• MaryJo McCloskey Women's Golf Head Coach (2006-) mmccloskey@georgefox.edu 503-554-
+• Jordyn Merkel Head Coach (2024- ) jmerkel@georgefox.edu
+• Jen Preap Volunteer Assistant Coach (2022- ) jpreap@georgefox.edu
+• Paul Karver Head Coach (2021- ) pkarver@georgefox.edu
+• Darin Durante Assistant Coach (2025- ) ddurante@georgefox.edu
+• Laura Schott Head Coach (2020- ) lschott@georgefox.edu
+• Britnee Ely Assistant Coach (2024- ) bely@georgefox.edu
+• Colin Feldtman Assistant Coach (2024- ) cfeldtman@georgefox.edu
+• Nathan Ohta Head Coach (2024- ) nohta@georgefox.edu
+• Rachel Jones Assistant Coach | (2021-) jonesr@georgefox.edu
+• John Hollen Assistant Coach (2009- ) ahollen@georgefox.edu
+• Jason Hunter Assistant Coach (2018-) jhunter@georgefox.edu
+• Mitchell Miyashiro Head Coach (2024- ) mmiyashiro@georgefox.edu
+• Nanase Ebisu Assistant Coach (2025- ) nebisu@georgefox.edu
+• Rick Cruz Head Coach (2001-) rcruz@georgefox.edu 503-554-
+• Rob Cruz Assistant Coach (2001-) cruzr@georgefox.edu
+• John Smith Head Coach (2006-) jsmith@georgefox.edu 503-554-
+• Mike Wilson Associate Head Coach of Cross Country and Distance | Track & Field mwilson@georgefox.edu 330-687-
+• Gabe Haberly Assistant Coach (2012-) ghaberly@georgefox.edu 503-554-
+• Bryant Quinn Assistant Coach (2016-) bquinn@georgefox.edu
+• Audrey Maas (Lichten) Assistant Coach (2022-) amaas@georgefox.edu
+• Emily Davis Head Coach (2016- ) edavis@georgefox.edu 503-554-
+• Liv Hanbey Assistant Coach (2021-) ohanbey@georgefox.edu
+• Piper Hilgaertner Assistant Coach (2025- ) philgaertner@georgefox.edu>
+• Aiyana Henderson Assistant Coach | Associate Recruiting Coordinator (2025- ) ahenderson@georgefox.edu

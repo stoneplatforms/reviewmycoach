@@ -1,0 +1,281 @@
+COACH ENTRIES FOUND - 2025-09-27 06:16:24
+============================================================
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Shannon Bollhardt
+   Email: sbollhardt@smcvt.edu
+   Username: sbollhardt
+   Phone: 802.654.2503
+   Original line: Shannon Bollhardt M'15 SAAC Co-Adviser sbollhardt@smcvt.edu 802.654.2503 CoachB_SMC
+
+2. Jim Neidlinger
+   Email: jneidlinger@smcvt.edu
+   Username: jneidlinger
+   Phone: 802.654.2977
+   Original line: Jim Neidlinger Head Coach jneidlinger@smcvt.edu 802.654.2977
+
+3. Matt Meunier
+   Email: mmeunier3@smcvt.edu
+   Username: mmeunier3
+   Phone: 802.654.2977
+   Original line: Matt Meunier Assistant Coach mmeunier3@smcvt.edu 802.654.2977
+
+4. Eric Eaton
+   Email: eeaton@smcvt.edu
+   Username: eeaton
+   Original line: Eric Eaton Head Coach eeaton@smcvt.edu Coach_EE_
+
+5. Evan Conti
+   Email: econti@smcvt.edu
+   Username: econti
+   Phone: 802.654.2739
+   Original line: Evan Conti Associate Head Coach econti@smcvt.edu 802.654.2739 EPConti21
+
+6. John Salivonchik
+   Email: jsalivonchik@smcvt.edu
+   Username: jsalivonchik
+   Original line: John Salivonchik Assistant Coach jsalivonchik@smcvt.edu
+
+7. Shannon Bollhardt
+   Email: sbollhardt@smcvt.edu
+   Username: sbollhardt
+   Phone: 802.654.2503
+   Original line: Shannon Bollhardt M'15 Head Coach sbollhardt@smcvt.edu 802.654.2503 CoachB_SMC
+
+8. Andrea Lozeau
+   Email: alozeau@smcvt.edu
+   Username: alozeau
+   Phone: 802.654.2505
+   Original line: Andrea Lozeau Associate Head Coach alozeau@smcvt.edu 802.654.2505 AndreaLozeau
+
+9. Molly Peters
+   Email: mpeters2@smcvt.edu
+   Username: mpeters2
+   Phone: 802.324.0807
+   Original line: Molly Peters Head Coach mpeters2@smcvt.edu 802.324.0807
+
+10. Ryan Robitaille
+   Email: rrobitaille@smcvt.edu
+   Username: rrobitaille
+   Original line: Ryan Robitaille Assistant Coach rrobitaille@smcvt.edu
+
+11. Carla Hesler
+   Email: chesler@smcvt.edu
+   Username: chesler
+   Phone: 802.654.2634
+   Original line: Carla Hesler Head Coach chesler@smcvt.edu 802.654.2634
+
+12. Jim Laskarzewski
+   Email: jlaskarzewski@smcvt.edu
+   Username: jlaskarzewski
+   Original line: Jim Laskarzewski '86 Assistant Coach jlaskarzewski@smcvt.edu JLaskarzewski
+
+13. Jack Fitzgerald
+   Email: jfitzgerald5@smcvt.edu
+   Username: jfitzgerald5
+   Phone: 802.654.2551
+   Original line: Jack Fitzgerald Head Coach jfitzgerald5@smcvt.edu 802.654.2551
+
+14. Meghan Sweezey
+   Email: msweezey@smcvt.edu
+   Username: msweezey
+   Phone: 802.654.2769
+   Original line: Meghan Sweezey '10 Head Coach msweezey@smcvt.edu 802.654.2769
+
+15. Olivia McLean
+   Email: omclean2@smcvt.edu
+   Username: omclean2
+   Original line: Olivia McLean Assistant Coach omclean2@smcvt.edu
+
+16. Alex Smith
+   Email: asmith11@smcvt.edu
+   Username: asmith11
+   Phone: 802.654.2745
+   Original line: Alex Smith Head Coach asmith11@smcvt.edu 802.654.2745
+
+17. Dan Johnson
+   Email: djohnson3@smcvt.edu
+   Username: djohnson3
+   Phone: 802.654.5956
+   Original line: Dan Johnson '18 Assistant Coach djohnson3@smcvt.edu 802.654.5956
+
+18. Martin Bowes
+   Email: mbowes@smcvt.edu
+   Username: mbowes
+   Original line: Martin Bowes Mental Skills Coach mbowes@smcvt.edu
+
+19. Ashley Snow
+   Email: asnow@smcvt.edu
+   Username: asnow
+   Phone: 802.654.2709
+   Original line: Ashley Snow Head Coach asnow@smcvt.edu 802.654.2709
+
+20. Mindy St.
+   Email: mstmarie@smcvt.edu
+   Username: mstmarie
+   Original line: Mindy St. Marie Assistant Coach mstmarie@smcvt.edu
+
+21. Gus MacLeod
+   Email: amacleod@smcvt.edu
+   Username: amacleod
+   Phone: 435.640.8521
+   Original line: Gus MacLeod '02 Head Coach amacleod@smcvt.edu 435.640.8521
+
+22. Nick Stagers
+   Email: nstagers@smcvt.edu
+   Username: nstagers
+   Phone: 802.654.2858
+   Original line: Nick Stagers Assistant Coach nstagers@smcvt.edu 802.654.2858
+
+23. Annika Martell
+   Email: amartell@smcvt.edu
+   Username: amartell
+   Phone: 802.654.2729
+   Original line: Annika Martell Head Coach amartell@smcvt.edu 802.654.2729
+
+24. Wade Jean
+   Email: wjean@smcvt.edu
+   Username: wjean
+   Phone: 802.654.2693
+   Original line: Wade Jean Head Coach wjean@smcvt.edu 802.654.2693
+
+25. Lou Stazi
+   Email: lstazi@smcvt.edu
+   Username: lstazi
+   Original line: Lou Stazi Assistant Coach lstazi@smcvt.edu
+
+26. Dan Greenleaf
+   Email: dgreenleaf@smcvt.edu
+   Username: dgreenleaf
+   Original line: Dan Greenleaf Assistant Coach dgreenleaf@smcvt.edu
+
+27. Jed Sass
+   Email: jsass@smcvt.edu
+   Username: jsass
+   Original line: Jed Sass Assistant Coach jsass@smcvt.edu
+
+28. Wendy Elles
+   Email: welles@smcvt.edu
+   Username: welles
+   Phone: 802.654.2903
+   Original line: Wendy Elles Head Coach welles@smcvt.edu 802.654.2903
+
+29. Jefferson Hales
+   Email: jhales@smcvt.edu
+   Username: jhales
+   Original line: Jefferson Hales Assistant Coach jhales@smcvt.edu
+
+30. Stewart Wright
+   Email: swright2@smcvt.edu
+   Username: swright2
+   Original line: Stewart Wright Assistant Coach swright2@smcvt.edu
+
+31. Katie Escobedo
+   Email: kescobedo@smcvt.edu
+   Username: kescobedo
+   Original line: Katie Escobedo '23 Assistant Coach kescobedo@smcvt.edu
+
+32. Nick Goodreau
+   Email: ngoodreau@smcvt.edu
+   Username: ngoodreau
+   Phone: 802.399.6865
+   Original line: Nick Goodreau Head Coach ngoodreau@smcvt.edu 802.399.6865
+
+33. Christina Brazeau
+   Email: cbrazeau@smcvt.edu
+   Username: cbrazeau
+   Original line: Christina Brazeau '17 M'22 Assistant Coach cbrazeau@smcvt.edu
+
+34. Eileen Hall
+   Email: ehall2@smcvt.edu
+   Username: ehall2
+   Phone: 802.654.2881
+   Original line: Eileen Hall Head Coach ehall2@smcvt.edu 802.654.2881
+
+35. Matty Edkins
+   Email: medkins@smcvt.edu
+   Username: medkins
+   Phone: 802.654.2881
+   Original line: Matty Edkins Diving Coach medkins@smcvt.edu 802.654.2881
+
+36. Lindsay McNall
+   Email: lmcnall@smcvt.edu
+   Username: lmcnall
+   Phone: 802.654.2881
+   Original line: Lindsay McNall '17 Assistant Coach lmcnall@smcvt.edu 802.654.2881
+
+37. David Moore
+   Email: dmoore4@smcvt.edu
+   Username: dmoore4
+   Original line: David Moore Head Coach dmoore4@smcvt.edu
+
+38. Molly Peters
+   Email: mpeters2@smcvt.edu
+   Username: mpeters2
+   Phone: 802.324.0807
+   Original line: Molly Peters Head Coach mpeters2@smcvt.edu 802.324.0807
+
+39. Ryan Robitaille
+   Email: rrobitaille@smcvt.edu
+   Username: rrobitaille
+   Original line: Ryan Robitaille Assistant Coach rrobitaille@smcvt.edu
+
+40. Lauren Brough
+   Email: lbrough@smcvt.edu
+   Username: lbrough
+   Phone: 802.654.2498
+   Original line: Lauren Brough Head Coach lbrough@smcvt.edu 802.654.2498
+
+41. Beth Syverson
+   Email: esyverson@mail.smcvt.edu
+   Username: esyverson
+   Original line: Beth Syverson '23 Assistant Coach esyverson@mail.smcvt.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Shannon Bollhardt M'15 SAAC Co-Adviser sbollhardt@smcvt.edu 802.654.2503 CoachB_SMC
+• Jim Neidlinger Head Coach jneidlinger@smcvt.edu 802.654.2977
+• Matt Meunier Assistant Coach mmeunier3@smcvt.edu 802.654.2977
+• Eric Eaton Head Coach eeaton@smcvt.edu Coach_EE_
+• Evan Conti Associate Head Coach econti@smcvt.edu 802.654.2739 EPConti21
+• John Salivonchik Assistant Coach jsalivonchik@smcvt.edu
+• Shannon Bollhardt M'15 Head Coach sbollhardt@smcvt.edu 802.654.2503 CoachB_SMC
+• Andrea Lozeau Associate Head Coach alozeau@smcvt.edu 802.654.2505 AndreaLozeau
+• Molly Peters Head Coach mpeters2@smcvt.edu 802.324.0807
+• Ryan Robitaille Assistant Coach rrobitaille@smcvt.edu
+• Carla Hesler Head Coach chesler@smcvt.edu 802.654.2634
+• Jim Laskarzewski '86 Assistant Coach jlaskarzewski@smcvt.edu JLaskarzewski
+• Jack Fitzgerald Head Coach jfitzgerald5@smcvt.edu 802.654.2551
+• Meghan Sweezey '10 Head Coach msweezey@smcvt.edu 802.654.2769
+• Olivia McLean Assistant Coach omclean2@smcvt.edu
+• Alex Smith Head Coach asmith11@smcvt.edu 802.654.2745
+• Dan Johnson '18 Assistant Coach djohnson3@smcvt.edu 802.654.5956
+• Martin Bowes Mental Skills Coach mbowes@smcvt.edu
+• Ashley Snow Head Coach asnow@smcvt.edu 802.654.2709
+• Mindy St. Marie Assistant Coach mstmarie@smcvt.edu
+• Gus MacLeod '02 Head Coach amacleod@smcvt.edu 435.640.8521
+• Nick Stagers Assistant Coach nstagers@smcvt.edu 802.654.2858
+• Annika Martell Head Coach amartell@smcvt.edu 802.654.2729
+• Wade Jean Head Coach wjean@smcvt.edu 802.654.2693
+• Lou Stazi Assistant Coach lstazi@smcvt.edu
+• Dan Greenleaf Assistant Coach dgreenleaf@smcvt.edu
+• Jed Sass Assistant Coach jsass@smcvt.edu
+• Wendy Elles Head Coach welles@smcvt.edu 802.654.2903
+• Jefferson Hales Assistant Coach jhales@smcvt.edu
+• Stewart Wright Assistant Coach swright2@smcvt.edu
+• Katie Escobedo '23 Assistant Coach kescobedo@smcvt.edu
+• Nick Goodreau Head Coach ngoodreau@smcvt.edu 802.399.6865
+• Christina Brazeau '17 M'22 Assistant Coach cbrazeau@smcvt.edu
+• Eileen Hall Head Coach ehall2@smcvt.edu 802.654.2881
+• Matty Edkins Diving Coach medkins@smcvt.edu 802.654.2881
+• Lindsay McNall '17 Assistant Coach lmcnall@smcvt.edu 802.654.2881
+• David Moore Head Coach dmoore4@smcvt.edu
+• Molly Peters Head Coach mpeters2@smcvt.edu 802.324.0807
+• Ryan Robitaille Assistant Coach rrobitaille@smcvt.edu
+• Lauren Brough Head Coach lbrough@smcvt.edu 802.654.2498
+• Beth Syverson '23 Assistant Coach esyverson@mail.smcvt.edu

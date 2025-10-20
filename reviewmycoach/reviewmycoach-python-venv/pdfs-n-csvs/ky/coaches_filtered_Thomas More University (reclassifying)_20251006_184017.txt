@@ -1,0 +1,353 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:18
+============================================================
+
+Total coaches found: 52
+
+PARSED ENTRIES:
+----------------------------------------
+1. Lindsay Eagan
+   Email: lindsay.eagan@thomasmore.edu
+   Username: lindsay.eagan
+   Phone: (859) 344-3628
+   Original line: Lindsay Eagan Head Softball Coach/Assistant (859) 344-3628 lindsay.eagan@thomasmore.edu
+
+2. Cole Shaffer
+   Email: shafferc@thomasmore.edu
+   Username: shafferc
+   Phone: (859) 344-3673
+   Original line: Cole Shaffer Head Coach (859) 344-3673 shafferc@thomasmore.edu
+
+3. Brennen Hunt
+   Email: huntb@thomasmore.edu
+   Username: huntb
+   Original line: Brennen Hunt Assistant Coach/Recruiting huntb@thomasmore.edu
+
+4. Justin Ray
+   Email: rayj@thomasmore.edu
+   Username: rayj
+   Phone: (859) 344-3630
+   Original line: Justin Ray Head Coach (859) 344-3630 rayj@thomasmore.edu
+
+5. Spencer Berlekamp
+   Email: berleks@thomasmore.edu
+   Username: berleks
+   Phone: (859) 344-3395
+   Original line: Spencer Berlekamp Associate Head Coach (859) 344-3395 berleks@thomasmore.edu
+
+6. Adam Goetz
+   Email: goetza@thomasmore.edu
+   Username: goetza
+   Original line: Adam Goetz Graduate Assistant Coach goetza@thomasmore.edu
+
+7. Brian Neal
+   Email: nealb@thomasmore.edu
+   Username: nealb
+   Phone: (859) 344-3336
+   Original line: Brian Neal Head Coach 859-344-3336 nealb@thomasmore.edu
+
+8. Jillian Miller
+   Email: millerj2@thomasmore.edu
+   Username: millerj2
+   Original line: Jillian Miller Assistant Coach millerj2@thomasmore.edu
+
+9. Ronnie Griffin
+   Email: griffinr@thomasmore.edu
+   Username: griffinr
+   Phone: (859) 344-3448
+   Original line: Ronnie Griffin Head Coach (859) 344-3448 griffinr@thomasmore.edu
+
+10. Ronnie Griffin
+   Email: griffinr@thomasmore.edu
+   Username: griffinr
+   Phone: (859) 344-3448
+   Original line: Ronnie Griffin Head Coach (859) 344-3448 griffinr@thomasmore.edu
+
+11. Justin Bryant
+   Email: bryantj@thomasmore.edu
+   Username: bryantj
+   Phone: (859) 344-3553
+   Original line: Justin Bryant Head Coach (859) 344-3553 bryantj@thomasmore.edu
+
+12. Phil Amstutz
+   Email: amstutzp@thomasmore.edu
+   Username: amstutzp
+   Original line: Phil Amstutz Assistant Coach amstutzp@thomasmore.edu
+
+13. Collin Strasburger
+   Email: strasburgc@thomasmore.edu
+   Username: strasburgc
+   Original line: Collin Strasburger Assistant Coach strasburgc@thomasmore.edu
+
+14. Justin Bryant
+   Email: bryantj@thomasmore.edu
+   Username: bryantj
+   Phone: (859) 344-3553
+   Original line: Justin Bryant Head Coach (859) 344-3553 bryantj@thomasmore.edu
+
+15. Phil Amstutz
+   Email: amstutzp@thomasmore.edu
+   Username: amstutzp
+   Original line: Phil Amstutz Assistant Coach amstutzp@thomasmore.edu
+
+16. Collin Strasburger
+   Email: strasburgc@thomasmore.edu
+   Username: strasburgc
+   Original line: Collin Strasburger Assistant Coach strasburgc@thomasmore.edu
+
+17. Kara Thompson
+   Email: thompsk@thomasmore.edu
+   Username: thompsk
+   Phone: (859) 344-3536
+   Original line: Kara Thompson Head Coach (859) 344-3536 thompsk@thomasmore.edu
+
+18. Chris Norwell
+   Email: norwelc@thomasmore.edu
+   Username: norwelc
+   Phone: (859) 344-3516
+   Original line: Chris Norwell Head Coach (859) 344-3516 norwelc@thomasmore.edu
+
+19. Tim Zeis
+   Email: zeist@thomasmore.edu
+   Username: zeist
+   Original line: Tim Zeis Safeties Coach zeist@thomasmore.edu
+
+20. Jack Schaub
+   Email: schaubj@thomasmore.edu
+   Username: schaubj
+   Original line: Jack Schaub Inside Linebackers Coach schaubj@thomasmore.edu
+
+21. Derek Burnett
+   Email: burnettd@thomasmore.edu
+   Username: burnettd
+   Phone: (859) 344-3560
+   Original line: Derek Burnett Cornerbacks Coach 859-344-3560 burnettd@thomasmore.edu
+
+22. Josh Elfers
+   Email: elfersj@thomasmore.edu
+   Username: elfersj
+   Original line: Josh Elfers Offensive Line Coach elfersj@thomasmore.edu
+
+23. Dillon Costello
+   Email: costellod@thomasmore.edu
+   Username: costellod
+   Phone: 344-3377
+   Original line: Dillon Costello Wide Receivers Coach (859)-344-3377 costellod@thomasmore.edu
+
+24. Sebastian Sims
+   Email: Shsims01@thomasmore.edu
+   Username: Shsims01
+   Phone: (859) 344-4045
+   Original line: Sebastian Sims Head Coach (859) 344-4045 Shsims01@thomasmore.edu
+
+25. Sebastian Sims
+   Email: Shsims01@thomasmore.edu
+   Username: Shsims01
+   Phone: (859) 344-4045
+   Original line: Sebastian Sims Head Coach (859) 344-4045 Shsims01@thomasmore.edu
+
+26. Sean McGinnis
+   Email: mcginns@thomasmore.edu
+   Username: mcginns
+   Phone: (859) 344-3523
+   Original line: Sean McGinnis Head Coach (859) 344-3523 mcginns@thomasmore.edu
+
+27. Pat Thatcher
+   Email: thatchp@thomasmore.edu
+   Username: thatchp
+   Phone: (859) 344-3511
+   Original line: Pat Thatcher Head Coach (859) 344-3511 thatchp@thomasmore.edu
+
+28. John Fox
+   Email: foxj@thomasmore.edu
+   Username: foxj
+   Phone: (859) 344-3536
+   Original line: John Fox Head Coach (859) 344-3536 foxj@thomasmore.edu
+
+29. Corey Momsen
+   Email: momsenc@thomasmore.edu
+   Username: momsenc
+   Original line: Corey Momsen Assistant Head Coach/ Scrum Coach momsenc@thomasmore.edu
+
+30. Luis Gonzalez-Garcia
+   Email: gonzall@thomasmore.edu
+   Username: gonzall
+   Original line: Luis Gonzalez-Garcia Attacks Coach/ Backs Coach gonzall@thomasmore.edu
+
+31. Matias Caramuti
+   Email: mcaram54@thomasmore.edu
+   Username: mcaram54
+   Original line: Matias Caramuti Assistant Coach mcaram54@thomasmore.edu
+
+32. Scott Phipps
+   Email: phippsr@thomasmore.edu
+   Username: phippsr
+   Phone: (859) 344-4053
+   Original line: Scott Phipps Head Coach (859) 344-4053 phippsr@thomasmore.edu
+
+33. Serge Kikonda
+   Email: kikondas@thomasmore.edu
+   Username: kikondas
+   Original line: Serge Kikonda Assistant Coach/Goalkeepers Coach kikondas@thomasmore.edu
+
+34. Tom Pearson
+   Email: pearsont@thomasmore.edu
+   Username: pearsont
+   Original line: Tom Pearson Graduate Assistant Coach pearsont@thomasmore.edu
+
+35. Marquis Walker
+   Email: walkerm@thomasmore.edu
+   Username: walkerm
+   Phone: (859) 344-3338
+   Original line: Marquis Walker Head Coach (859) 344-3338 walkerm@thomasmore.edu
+
+36. Stephen Farrell
+   Email: farrels@thomasmore.edu
+   Username: farrels
+   Phone: (859) 344-3338
+   Original line: Stephen Farrell Assistant Coach (859) 344-3338 farrels@thomasmore.edu
+
+37. Lindsay Eagan
+   Email: lindsay.eagan@thomasmore.edu
+   Username: lindsay.eagan
+   Phone: (859) 344-3628
+   Original line: Lindsay Eagan Head Softball Coach/Assistant (859) 344-3628 lindsay.eagan@thomasmore.edu
+
+38. Pat Eagan
+   Email: patrick.eagan@thomasmore.edu
+   Username: patrick.eagan
+   Phone: (859) 344-3381
+   Original line: Pat Eagan Assistant Coach (859) 344-3381 patrick.eagan@thomasmore.edu
+
+39. Shawn Barone
+   Email: barones@thomasmore.edu
+   Username: barones
+   Phone: (859) 344-3448
+   Original line: Shawn Barone Head Coach (859) 344-3448 barones@thomasmore.edu
+
+40. Shawn Barone
+   Email: barones@thomasmore.edu
+   Username: barones
+   Phone: (859) 344-3448
+   Original line: Shawn Barone Head Coach (859) 344-3448 barones@thomasmore.edu
+
+41. Justin Bryant
+   Email: bryantj@thomasmore.edu
+   Username: bryantj
+   Phone: (859) 344-3553
+   Original line: Justin Bryant Head Coach (859) 344-3553 bryantj@thomasmore.edu
+
+42. Collin Strasburger
+   Email: strasburgc@thomasmore.edu
+   Username: strasburgc
+   Original line: Collin Strasburger Assistant Coach strasburgc@thomasmore.edu
+
+43. Phil Amstutz
+   Email: amstutzp@thomasmore.edu
+   Username: amstutzp
+   Original line: Phil Amstutz Assistant Coach amstutzp@thomasmore.edu
+
+44. Adam Smith
+   Email: smitha1@thomasmore.edu
+   Username: smitha1
+   Original line: Adam Smith Assistant Coach smitha1@thomasmore.edu
+
+45. Justin Bryant
+   Email: bryantj@thomasmore.edu
+   Username: bryantj
+   Phone: (859) 344-3553
+   Original line: Justin Bryant Head Coach (859) 344-3553 bryantj@thomasmore.edu
+
+46. Collin Strasburger
+   Email: strasburgc@thomasmore.edu
+   Username: strasburgc
+   Original line: Collin Strasburger Assistant Coach strasburgc@thomasmore.edu
+
+47. Phil Amstutz
+   Email: amstutzp@thomasmore.edu
+   Username: amstutzp
+   Original line: Phil Amstutz Assistant Coach amstutzp@thomasmore.edu
+
+48. Adam Smith
+   Email: smitha1@thomasmore.edu
+   Username: smitha1
+   Original line: Adam Smith Assistant Coach smitha1@thomasmore.edu
+
+49. Harris Boyes
+   Email: boyesh@thomasmore.edu
+   Username: boyesh
+   Phone: (859) 344-3547
+   Original line: Harris Boyes Head Coach 859-344-3547 boyesh@thomasmore.edu
+
+50. Jackson Sinnard
+   Email: jrsinn53@thomasmore.edu
+   Username: jrsinn53
+   Original line: Jackson Sinnard Assistant Coach jrsinn53@thomasmore.edu
+
+51. Holly Bronner
+   Email: bronneh@thomasmore.edu
+   Username: bronneh
+   Phone: (859) 344-3634
+   Original line: Holly Bronner Stiver Head Coach (859) 344-3634 bronneh@thomasmore.edu
+
+52. Jason Russell
+   Email: russelj@thomasmore.edu
+   Username: russelj
+   Phone: (859) 344-3570
+   Original line: Jason Russell Head Coach (859) 344-3570 russelj@thomasmore.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Lindsay Eagan Head Softball Coach/Assistant (859) 344-3628 lindsay.eagan@thomasmore.edu
+• Cole Shaffer Head Coach (859) 344-3673 shafferc@thomasmore.edu
+• Brennen Hunt Assistant Coach/Recruiting huntb@thomasmore.edu
+• Justin Ray Head Coach (859) 344-3630 rayj@thomasmore.edu
+• Spencer Berlekamp Associate Head Coach (859) 344-3395 berleks@thomasmore.edu
+• Adam Goetz Graduate Assistant Coach goetza@thomasmore.edu
+• Brian Neal Head Coach 859-344-3336 nealb@thomasmore.edu
+• Jillian Miller Assistant Coach millerj2@thomasmore.edu
+• Ronnie Griffin Head Coach (859) 344-3448 griffinr@thomasmore.edu
+• Ronnie Griffin Head Coach (859) 344-3448 griffinr@thomasmore.edu
+• Justin Bryant Head Coach (859) 344-3553 bryantj@thomasmore.edu
+• Phil Amstutz Assistant Coach amstutzp@thomasmore.edu
+• Collin Strasburger Assistant Coach strasburgc@thomasmore.edu
+• Justin Bryant Head Coach (859) 344-3553 bryantj@thomasmore.edu
+• Phil Amstutz Assistant Coach amstutzp@thomasmore.edu
+• Collin Strasburger Assistant Coach strasburgc@thomasmore.edu
+• Kara Thompson Head Coach (859) 344-3536 thompsk@thomasmore.edu
+• Chris Norwell Head Coach (859) 344-3516 norwelc@thomasmore.edu
+• Tim Zeis Safeties Coach zeist@thomasmore.edu
+• Jack Schaub Inside Linebackers Coach schaubj@thomasmore.edu
+• Derek Burnett Cornerbacks Coach 859-344-3560 burnettd@thomasmore.edu
+• Josh Elfers Offensive Line Coach elfersj@thomasmore.edu
+• Dillon Costello Wide Receivers Coach (859)-344-3377 costellod@thomasmore.edu
+• Sebastian Sims Head Coach (859) 344-4045 Shsims01@thomasmore.edu
+• Sebastian Sims Head Coach (859) 344-4045 Shsims01@thomasmore.edu
+• Sean McGinnis Head Coach (859) 344-3523 mcginns@thomasmore.edu
+• Pat Thatcher Head Coach (859) 344-3511 thatchp@thomasmore.edu
+• John Fox Head Coach (859) 344-3536 foxj@thomasmore.edu
+• Corey Momsen Assistant Head Coach/ Scrum Coach momsenc@thomasmore.edu
+• Luis Gonzalez-Garcia Attacks Coach/ Backs Coach gonzall@thomasmore.edu
+• Matias Caramuti Assistant Coach mcaram54@thomasmore.edu
+• Scott Phipps Head Coach (859) 344-4053 phippsr@thomasmore.edu
+• Serge Kikonda Assistant Coach/Goalkeepers Coach kikondas@thomasmore.edu
+• Tom Pearson Graduate Assistant Coach pearsont@thomasmore.edu
+• Marquis Walker Head Coach (859) 344-3338 walkerm@thomasmore.edu
+• Stephen Farrell Assistant Coach (859) 344-3338 farrels@thomasmore.edu
+• Lindsay Eagan Head Softball Coach/Assistant (859) 344-3628 lindsay.eagan@thomasmore.edu
+• Pat Eagan Assistant Coach (859) 344-3381 patrick.eagan@thomasmore.edu
+• Shawn Barone Head Coach (859) 344-3448 barones@thomasmore.edu
+• Shawn Barone Head Coach (859) 344-3448 barones@thomasmore.edu
+• Justin Bryant Head Coach (859) 344-3553 bryantj@thomasmore.edu
+• Collin Strasburger Assistant Coach strasburgc@thomasmore.edu
+• Phil Amstutz Assistant Coach amstutzp@thomasmore.edu
+• Adam Smith Assistant Coach smitha1@thomasmore.edu
+• Justin Bryant Head Coach (859) 344-3553 bryantj@thomasmore.edu
+• Collin Strasburger Assistant Coach strasburgc@thomasmore.edu
+• Phil Amstutz Assistant Coach amstutzp@thomasmore.edu
+• Adam Smith Assistant Coach smitha1@thomasmore.edu
+• Harris Boyes Head Coach 859-344-3547 boyesh@thomasmore.edu
+• Jackson Sinnard Assistant Coach jrsinn53@thomasmore.edu
+• Holly Bronner Stiver Head Coach (859) 344-3634 bronneh@thomasmore.edu
+• Jason Russell Head Coach (859) 344-3570 russelj@thomasmore.edu

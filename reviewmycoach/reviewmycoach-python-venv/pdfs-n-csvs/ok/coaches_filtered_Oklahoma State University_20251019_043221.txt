@@ -1,0 +1,155 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:24
+============================================================
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Assistant Coach
+   Email: mason.harbour@okstate.edu
+   Username: mason.harbour
+   Original line: Assistant Coach - Track & Field / Cross Country mason.harbour@okstate.edu
+
+2. Pom Coach
+   Email: okstatespirit@gmail.com
+   Username: okstatespirit
+   Original line: Pom Coach and Spirit Coordinator okstatespirit@gmail.com
+
+3. Cheer Coach
+   Email: lindsay.salliotte@okstate.edu
+   Username: lindsay.salliotte
+   Original line: Cheer Coach lindsay.salliotte@okstate.edu
+
+4. Head Coach
+   Email: cali.mercer@okstate.edu
+   Username: cali.mercer
+   Original line: Head Coach cali.mercer@okstate.edu
+
+5. Assistant Coach
+   Email: robyne.bostick@okstate.edu
+   Username: robyne.bostick
+   Original line: Assistant Coach robyne.bostick@okstate.edu
+
+6. Assistant Coach
+   Email: terran.hoyt@okstate.edu
+   Username: terran.hoyt
+   Original line: Assistant Coach terran.hoyt@okstate.edu
+
+7. Head Coach
+   Email: larry.sanchez@okstate.edu
+   Username: larry.sanchez
+   Original line: Head Coach larry.sanchez@okstate.edu
+
+8. Associate Head
+   Email: laura.brainard@okstate.edu
+   Username: laura.brainard
+   Original line: Associate Head Coach laura.brainard@okstate.edu
+
+9. Head Coach
+   Email: alan.bratton@okstate.edu
+   Username: alan.bratton
+   Original line: Head Coach (M) alan.bratton@okstate.edu
+
+10. Assistant Coach
+   Email: donnie.darr@okstate.edu
+   Username: donnie.darr
+   Original line: Assistant Coach donnie.darr@okstate.edu
+
+11. Head Coach
+   Email: colin.carmichael@okstate.edu
+   Username: colin.carmichael
+   Original line: Head Coach colin.carmichael@okstate.edu
+
+12. Associate Head
+   Email: justin.elkington@okstate.edu
+   Username: justin.elkington
+   Original line: Associate Head Coach justin.elkington@okstate.edu
+
+13. Head Coach
+   Email: kenny.g@okstate.edu
+   Username: kenny.g
+   Original line: Head Coach kenny.g@okstate.edu
+
+14. Assistant Coach/Recruiting
+   Email: vshippy@okstate.edu
+   Username: vshippy
+   Original line: Assistant Coach/Recruiting Coordinator vshippy@okstate.edu
+
+15. Interim Head
+   Email: henner.nehles@okstate.edu
+   Username: henner.nehles
+   Original line: Interim Head Coach henner.nehles@okstate.edu
+
+16. Assistant Coach
+   Email: maggie.kane10@okstate.edu
+   Username: maggie.kane10
+   Original line: Assistant Coach maggie.kane10@okstate.edu
+
+17. Associate Head
+   Email: josh.langley@okstate.edu
+   Username: josh.langley
+   Original line: Associate Head Coach - Multis & Vaults josh.langley@okstate.edu
+
+18. Assistant Coach
+   Email: Run4okstate@okstate.edu
+   Username: Run4okstate
+   Original line: Assistant Coach - Sprints/ Hurdles/ Relays Run4okstate@okstate.edu
+
+19. Assistant Coach
+   Email: zivile.pukstas@okstate.edu
+   Username: zivile.pukstas
+   Original line: Assistant Coach - Jumps zivile.pukstas@okstate.edu
+
+20. Assistant Coach
+   Email: mason.harbour@okstate.edu
+   Username: mason.harbour
+   Original line: Assistant Coach - Track & Field / Cross Country mason.harbour@okstate.edu
+
+21. Head Coach
+   Email: osu.wrestling@okstate.edu
+   Username: osu.wrestling
+   Original line: Head Coach osu.wrestling@okstate.edu
+
+22. Associate Head
+   Email: osu.wrestling@okstate.edu
+   Username: osu.wrestling
+   Original line: Associate Head Coach osu.wrestling@okstate.edu
+
+23. Assistant Coach
+   Email: osu.wrestling@okstate.edu
+   Username: osu.wrestling
+   Original line: Assistant Coach osu.wrestling@okstate.edu
+
+24. Assistant Coach
+   Email: osu.wrestling@okstate.edu
+   Username: osu.wrestling
+   Original line: Assistant Coach osu.wrestling@okstate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Assistant Coach - Track & Field / Cross Country mason.harbour@okstate.edu
+• Pom Coach and Spirit Coordinator okstatespirit@gmail.com
+• Cheer Coach lindsay.salliotte@okstate.edu
+• Head Coach cali.mercer@okstate.edu
+• Assistant Coach robyne.bostick@okstate.edu
+• Assistant Coach terran.hoyt@okstate.edu
+• Head Coach larry.sanchez@okstate.edu
+• Associate Head Coach laura.brainard@okstate.edu
+• Head Coach (M) alan.bratton@okstate.edu
+• Assistant Coach donnie.darr@okstate.edu
+• Head Coach colin.carmichael@okstate.edu
+• Associate Head Coach justin.elkington@okstate.edu
+• Head Coach kenny.g@okstate.edu
+• Assistant Coach/Recruiting Coordinator vshippy@okstate.edu
+• Interim Head Coach henner.nehles@okstate.edu
+• Assistant Coach maggie.kane10@okstate.edu
+• Associate Head Coach - Multis & Vaults josh.langley@okstate.edu
+• Assistant Coach - Sprints/ Hurdles/ Relays Run4okstate@okstate.edu
+• Assistant Coach - Jumps zivile.pukstas@okstate.edu
+• Assistant Coach - Track & Field / Cross Country mason.harbour@okstate.edu
+• Head Coach osu.wrestling@okstate.edu
+• Associate Head Coach osu.wrestling@okstate.edu
+• Assistant Coach osu.wrestling@okstate.edu
+• Assistant Coach osu.wrestling@okstate.edu

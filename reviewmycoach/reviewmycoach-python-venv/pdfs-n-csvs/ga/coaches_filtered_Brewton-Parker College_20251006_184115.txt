@@ -1,0 +1,179 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:15
+============================================================
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Keri Nester
+   Email: knester@bpc.edu
+   Username: knester
+   Original line: Keri Nester Senior Woman Leader / Business Office Liaison / Head Cheer Coach knester@bpc.edu (912) 583-
+
+2. Conner Melton
+   Email: cmelton@bpc.edu
+   Username: cmelton
+   Original line: Conner Melton Assistant Baseball Coach cmelton@bpc.edu
+
+3. Caleb Lanoux
+   Email: clanoux@bpc.edu
+   Username: clanoux
+   Original line: Caleb Lanoux Assistant Coach clanoux@bpc.edu
+
+4. Dakota Connell
+   Email: Dconnell1@bpc.edu
+   Username: Dconnell1
+   Original line: Dakota Connell Assistant Coach Dconnell1@bpc.edu
+
+5. Madison Herrin
+   Email: mherrin@bpc.edu
+   Username: mherrin
+   Original line: Madison Herrin Head Softball Coach/Bass Fishing Coach mherrin@bpc.edu (912) 583-
+
+6. Leonard Epps
+   Email: lepps@bpc.edu
+   Username: lepps
+   Original line: Leonard Epps Head Men's Basketball Coach lepps@bpc.edu (912) 583-
+
+7. Deon Williams
+   Email: dwilliams4@bpc.edu
+   Username: dwilliams4
+   Original line: Deon Williams Assistant Coach dwilliams4@bpc.edu
+
+8. Justin Quarterman
+   Email: jquarterman@bpc.edu
+   Username: jquarterman
+   Original line: Justin Quarterman Assistant Coach jquarterman@bpc.edu (912) 583-
+
+9. Alex Telfair
+   Email: xtelfair@bpc.edu
+   Username: xtelfair
+   Original line: Alex Telfair Assistant Coach xtelfair@bpc.edu
+
+10. Marco Macias
+   Email: mvargas@bpc.edu
+   Username: mvargas
+   Original line: Marco Macias Head Beach Volleyball Coach and Assistant Indoor Volleyball Coach mvargas@bpc.edu
+
+11. Keri Nester
+   Email: knester@bpc.edu
+   Username: knester
+   Original line: Keri Nester Senior Woman Leader / Business Office Liaison / Head Cheer Coach knester@bpc.edu (912) 583-
+
+12. James Frank
+   Email: jfrank@bpc.edu
+   Username: jfrank
+   Original line: James Frank Head Cross Country Coach / Assistant Track & Field Coach jfrank@bpc.edu
+
+13. Sheldon Miller
+   Email: smiller2@bpc.edu
+   Username: smiller2
+   Original line: Sheldon Miller Head Coach Women's Flag Football smiller2@bpc.edu (478) 317
+
+14. Mark Davidson
+   Email: mdavidson@bpc.edu
+   Username: mdavidson
+   Original line: Mark Davidson Head Coach mdavidson@bpc.edu (478) 290-
+
+15. Bob Neumann
+   Email: rneumann@bpc.edu
+   Username: rneumann
+   Original line: Bob Neumann Director of Soccer / Head Men's Soccer Coach rneumann@bpc.edu (732) 832-
+
+16. Nicolas Mayanguila
+   Email: nmboungou@bpc.edu
+   Username: nmboungou
+   Original line: Nicolas Mayanguila Mboungou Assistant Coach nmboungou@bpc.edu
+
+17. Phillip Borde
+   Email: pborde1@bpc.edu
+   Username: pborde1
+   Original line: Phillip Borde Head Coach pborde1@bpc.edu (407) 516-
+
+18. Justin Russell
+   Email: jrussell1@bpc.edu
+   Username: jrussell1
+   Original line: Justin Russell Assistant Coach jrussell1@bpc.edu (912) 583-
+
+19. Madison Herrin
+   Email: mherrin@bpc.edu
+   Username: mherrin
+   Original line: Madison Herrin Head Softball Coach/Bass Fishing Coach mherrin@bpc.edu (912) 583-
+
+20. Stephen Roberts,
+   Email: sroberts@bpc.edu
+   Username: sroberts
+   Original line: Stephen Roberts, III Head Coach sroberts@bpc.edu
+
+21. James Frank
+   Email: jfrank@bpc.edu
+   Username: jfrank
+   Original line: James Frank Head Cross Country Coach / Assistant Track & Field Coach jfrank@bpc.edu
+
+22. Obed Quiles
+   Email: oquiles@bpc.edu
+   Username: oquiles
+   Original line: Obed Quiles Head Coach oquiles@bpc.edu
+
+23. Marco Macias
+   Email: mvargas@bpc.edu
+   Username: mvargas
+   Original line: Marco Macias Head Beach Volleyball Coach and Assistant Indoor Volleyball Coach mvargas@bpc.edu
+
+24. Tyler Smith
+   Email: tsmith8@bpc.edu
+   Username: tsmith8
+   Original line: Tyler Smith Director of Wrestling / Head Men's Wrestling Coach tsmith8@bpc.edu
+
+25. Aris Knight
+   Email: aknight1@bpc.edu
+   Username: aknight1
+   Original line: Aris Knight Assistant Coach aknight1@bpc.edu
+
+26. Tyler Smith
+   Email: tsmith8@bpc.edu
+   Username: tsmith8
+   Original line: Tyler Smith Director of Wrestling / Head Men's Wrestling Coach tsmith8@bpc.edu
+
+27. Joshua Sturgill
+   Email: jsturgill@bpc.edu
+   Username: jsturgill
+   Original line: Joshua Sturgill Head Coach jsturgill@bpc.edu 434-363-
+
+28. Cruz Phillips
+   Email: cphillips4@bpc.edu
+   Username: cphillips4
+   Original line: Cruz Phillips Assistant Women's Wrestling Coach cphillips4@bpc.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Keri Nester Senior Woman Leader / Business Office Liaison / Head Cheer Coach knester@bpc.edu (912) 583-
+• Conner Melton Assistant Baseball Coach cmelton@bpc.edu
+• Caleb Lanoux Assistant Coach clanoux@bpc.edu
+• Dakota Connell Assistant Coach Dconnell1@bpc.edu
+• Madison Herrin Head Softball Coach/Bass Fishing Coach mherrin@bpc.edu (912) 583-
+• Leonard Epps Head Men's Basketball Coach lepps@bpc.edu (912) 583-
+• Deon Williams Assistant Coach dwilliams4@bpc.edu
+• Justin Quarterman Assistant Coach jquarterman@bpc.edu (912) 583-
+• Alex Telfair Assistant Coach xtelfair@bpc.edu
+• Marco Macias Head Beach Volleyball Coach and Assistant Indoor Volleyball Coach mvargas@bpc.edu
+• Keri Nester Senior Woman Leader / Business Office Liaison / Head Cheer Coach knester@bpc.edu (912) 583-
+• James Frank Head Cross Country Coach / Assistant Track & Field Coach jfrank@bpc.edu
+• Sheldon Miller Head Coach Women's Flag Football smiller2@bpc.edu (478) 317
+• Mark Davidson Head Coach mdavidson@bpc.edu (478) 290-
+• Bob Neumann Director of Soccer / Head Men's Soccer Coach rneumann@bpc.edu (732) 832-
+• Nicolas Mayanguila Mboungou Assistant Coach nmboungou@bpc.edu
+• Phillip Borde Head Coach pborde1@bpc.edu (407) 516-
+• Justin Russell Assistant Coach jrussell1@bpc.edu (912) 583-
+• Madison Herrin Head Softball Coach/Bass Fishing Coach mherrin@bpc.edu (912) 583-
+• Stephen Roberts, III Head Coach sroberts@bpc.edu
+• James Frank Head Cross Country Coach / Assistant Track & Field Coach jfrank@bpc.edu
+• Obed Quiles Head Coach oquiles@bpc.edu
+• Marco Macias Head Beach Volleyball Coach and Assistant Indoor Volleyball Coach mvargas@bpc.edu
+• Tyler Smith Director of Wrestling / Head Men's Wrestling Coach tsmith8@bpc.edu
+• Aris Knight Assistant Coach aknight1@bpc.edu
+• Tyler Smith Director of Wrestling / Head Men's Wrestling Coach tsmith8@bpc.edu
+• Joshua Sturgill Head Coach jsturgill@bpc.edu 434-363-
+• Cruz Phillips Assistant Women's Wrestling Coach cphillips4@bpc.edu

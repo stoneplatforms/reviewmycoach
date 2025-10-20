@@ -1,0 +1,305 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:36
+============================================================
+
+Total coaches found: 49
+
+PARSED ENTRIES:
+----------------------------------------
+1. JC Hull
+   Email: jhull@lindenwood.edu
+   Username: jhull
+   Original line: JC Hull Athletic Performance Coach (Football) jhull@lindenwood.edu
+
+2. Julius Armstead
+   Email: jarmstead@lindenwood.edu
+   Username: jarmstead
+   Original line: Julius Armstead Athletic Performance Coach Basketball jarmstead@lindenwood.edu
+
+3. Collin Kohlasch
+   Email: ckohlasch@lindenwood.edu
+   Username: ckohlasch
+   Original line: Collin Kohlasch Athletic Performance Coach ckohlasch@lindenwood.edu
+
+4. Daniel Sheehan
+   Email: dsheehan@lindenwood.edu
+   Username: dsheehan
+   Original line: Daniel Sheehan Assistant Athletic Performance Coach dsheehan@lindenwood.edu
+
+5. Connor Straton
+   Email: cstratton@lindenwood.edu
+   Username: cstratton
+   Original line: Connor Straton Athletic Performance Coach, Student Employee cstratton@lindenwood.edu
+
+6. PJ Finigan
+   Email: pfinigan@lindenwood.edu
+   Username: pfinigan
+   Original line: PJ Finigan Baseball Head Coach pfinigan@lindenwood.edu
+
+7. Denton McNamee
+   Email: dmcnamee@lindenwood.edu
+   Username: dmcnamee
+   Original line: Denton McNamee Baseball Assistant Coach dmcnamee@lindenwood.edu
+
+8. Kyle Gerdeman
+   Email: kgerdeman@lindenwood.edu
+   Username: kgerdeman
+   Original line: Kyle Gerdeman Men's Basketball Head Coach 636-949- kgerdeman@lindenwood.edu KyleGerdeman
+
+9. Justin Walker
+   Email: jwalker@lindenwood.edu
+   Username: jwalker
+   Original line: Justin Walker Men's Basketball Assistant Coach jwalker@lindenwood.edu
+
+10. Jestin Anderson
+   Email: janderson4@lindenwood.edu
+   Username: janderson4
+   Original line: Jestin Anderson Men's Basketball Assistant Coach janderson4@lindenwood.edu
+
+11. Amy Eagan
+   Email: aeagan@lindenwood.edu
+   Username: aeagan
+   Original line: Amy Eagan Women's Basketball Head Coach aeagan@lindenwood.edu
+
+12. Jordan Mellott
+   Email: jmellott@lindenwood.edu
+   Username: jmellott
+   Original line: Jordan Mellott Women's Basketball Associate Head Coach jmellott@lindenwood.edu
+
+13. Aaron Beadle
+   Email: abeadle@lindenwood.edu
+   Username: abeadle
+   Original line: Aaron Beadle Women's Basketball Assistant Coach abeadle@lindenwood.edu
+
+14. Lindsay Ward
+   Email: lward@lindenwood.edu
+   Username: lward
+   Original line: Lindsay Ward Women's Basketball Assistant Coach lward@lindenwood.edu
+
+15. Kayla Kregel
+   Email: kkregel@lindenwood.edu
+   Username: kkregel
+   Original line: Kayla Kregel Cross Country and Track & Field Head Coach kkregel@lindenwood.edu
+
+16. Vicente Blanco
+   Email: vblanco@lindenwood.edu
+   Username: vblanco
+   Original line: Vicente Blanco Assistant Cross Country and Track & Field Coach vblanco@lindenwood.edu
+
+17. Andrew Mudd
+   Email: amudd@lindenwood.edu
+   Username: amudd
+   Original line: Andrew Mudd Track and Field Assistant Coach - Hurdles, Jumps, and amudd@lindenwood.edu
+
+18. Glenn Norwood
+   Email: gnorwood.vol@lindenwood.edu
+   Username: gnorwood.vol
+   Original line: Glenn Norwood Volunteer Track & Field Assistant Coach gnorwood.vol@lindenwood.edu
+
+19. Eric Inama
+   Email: einama@lindenwood.edu
+   Username: einama
+   Original line: Eric Inama Football Assistant Coach einama@lindenwood.edu EricInama
+
+20. Ray Farnell
+   Email: rfarnell@lindenwood.edu
+   Username: rfarnell
+   Original line: Ray Farnell Men's Golf Head Coach rfarnell@lindenwood.edu
+
+21. Tavia Rutherford
+   Email: trutherford@lindenwood.edu
+   Username: trutherford
+   Original line: Tavia Rutherford Women's Golf Head Coach 636-389- trutherford@lindenwood.edu
+
+22. Keith Fisher
+   Email: kfisher1@lindenwood.edu
+   Username: kfisher1
+   Original line: Keith Fisher Men's Hockey Head Coach kfisher1@lindenwood.edu
+
+23. Jack Combs
+   Email: jcombs@lindenwood.edu
+   Username: jcombs
+   Original line: Jack Combs Men's Hockey Assistant Coach jcombs@lindenwood.edu
+
+24. Andrew Magera
+   Email: amagera@lindenwood.edu
+   Username: amagera
+   Original line: Andrew Magera Men's Hockey Assistant Coach amagera@lindenwood.edu
+
+25. Mark Abney
+   Email: mabney@lindenwood.edu
+   Username: mabney
+   Original line: Mark Abney Men's Hockey Director of Operations/Video Coach 314-703- mabney@lindenwood.edu
+
+26. Taylor Wasylk
+   Email: twasylk@lindenwood.edu
+   Username: twasylk
+   Original line: Taylor Wasylk Women's Ice Hockey Head Coach twasylk@lindenwood.edu
+
+27. Arielle DeSmet
+   Email: Adesmet@lindenwood.edu
+   Username: Adesmet
+   Original line: Arielle DeSmet Women's Ice Hockey Assistant Coach Adesmet@lindenwood.edu
+
+28. Connor Chatham
+   Email: cchatham@lindenwood.edu
+   Username: cchatham
+   Original line: Connor Chatham Women's Ice Hockey Assistant Coach cchatham@lindenwood.edu
+
+29. Jack Cribbin
+   Email: jcribbin@lindenwood.edu
+   Username: jcribbin
+   Original line: Jack Cribbin Women's Lacrosse Head Coach 636-949- jcribbin@lindenwood.edu LUwomensLax
+
+30. Brian Smith
+   Email: bsmith@lindenwood.edu
+   Username: bsmith
+   Original line: Brian Smith Women's Lacrosse Associate Head Coach 636-949- bsmith@lindenwood.edu
+
+31. Ryleigh Cavanaugh
+   Email: rcavanaugh@lindenwood.edu
+   Username: rcavanaugh
+   Original line: Ryleigh Cavanaugh Women's Lacrosse Assistant Coach rcavanaugh@lindenwood.edu
+
+32. Nat Hubert
+   Email: nhubert@lindenwood.edu
+   Username: nhubert
+   Original line: Nat Hubert Men's Soccer Assistant Coach nhubert@lindenwood.edu
+
+33. Dave Musso
+   Email: dmusso@lindenwood.edu
+   Username: dmusso
+   Original line: Dave Musso Women's Soccer Head Coach 636-949- dmusso@lindenwood.edu dmusso4
+
+34. Euan Morton
+   Email: emorton@lindenwood.edu
+   Username: emorton
+   Original line: Euan Morton Women's Soccer Assistant Coach 636-627- emorton@lindenwood.edu
+
+35. Megan McClure
+   Email: mmcclure@lindenwood.edu
+   Username: mmcclure
+   Original line: Megan McClure Women’s Soccer Assistant Coach mmcclure@lindenwood.edu
+
+36. Erin Brown
+   Email: ebrown2@lindenwood.edu
+   Username: ebrown2
+   Original line: Erin Brown Softball Head Coach 636-949- ebrown2@lindenwood.edu
+
+37. Chris Iliopoulos
+   Email: ciliopoulos@lindenwood.edu
+   Username: ciliopoulos
+   Original line: Chris Iliopoulos Softball Assistant Coach ciliopoulos@lindenwood.edu
+
+38. Anthony Ruggiero
+   Email: aruggiero@lindenwood.edu
+   Username: aruggiero
+   Original line: Anthony Ruggiero Softball Assistant Coach aruggiero@lindenwood.edu
+
+39. Cole Stevenson
+   Email: cstevenson@lindenwood.edu
+   Username: cstevenson
+   Original line: Cole Stevenson Women's Tennis Head Coach cstevenson@lindenwood.edu
+
+40. Alli Duckworth
+   Email: aduckworth@lindenwood.edu
+   Username: aduckworth
+   Original line: Alli Duckworth Beach Volleyball Head Coach 636-346- aduckworth@lindenwood.edu
+
+41. Lauren Zabriskie
+   Email: lzabriskie@lindenwood.edu
+   Username: lzabriskie
+   Original line: Lauren Zabriskie Beach Volleyball Volunteer Assistant Coach lzabriskie@lindenwood.edu
+
+42. Joe Kosciw
+   Email: jkosciw@lindenwood.edu
+   Username: jkosciw
+   Original line: Joe Kosciw Men's Volleyball Head Coach 636-627- jkosciw@lindenwood.edu JKosciw64
+
+43. Michael Lanera
+   Email: mlanera@lindenwood.edu
+   Username: mlanera
+   Original line: Michael Lanera Men's Volleyball Assistant Coach 636-627- mlanera@lindenwood.edu
+
+44. Will Condon
+   Email: wcondon@lindenwood.edu
+   Username: wcondon
+   Original line: Will Condon Women's Volleyball Head Coach 636-949- wcondon@lindenwood.edu
+
+45. Tyler Fenton
+   Email: tfenton@lindenwood.edu
+   Username: tfenton
+   Original line: Tyler Fenton Women's Volleyball Assistant Coach tfenton@lindenwood.edu
+
+46. Frank Yattoni
+   Email: fyattoni@lindenwood.edu
+   Username: fyattoni
+   Original line: Frank Yattoni Women's Wrestling Head Coach fyattoni@lindenwood.edu
+
+47. Charles McNeal
+   Email: cmcneal2@lindenwood.edu
+   Username: cmcneal2
+   Original line: Charles McNeal Women's Wrestling Assistant Coach cmcneal2@lindenwood.edu
+
+48. Trevor Locke
+   Email: tlocke@lindenwood.edu
+   Username: tlocke
+   Original line: Trevor Locke Women's Rugby Head Coach 314-346- tlocke@lindenwood.edu
+
+49. Colten Hernandez
+   Email: chernandez@lindenwood.edu
+   Username: chernandez
+   Original line: Colten Hernandez Women's Rugby Assistant Coach 317-979- chernandez@lindenwood.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• JC Hull Athletic Performance Coach (Football) jhull@lindenwood.edu
+• Julius Armstead Athletic Performance Coach Basketball jarmstead@lindenwood.edu
+• Collin Kohlasch Athletic Performance Coach ckohlasch@lindenwood.edu
+• Daniel Sheehan Assistant Athletic Performance Coach dsheehan@lindenwood.edu
+• Connor Straton Athletic Performance Coach, Student Employee cstratton@lindenwood.edu
+• PJ Finigan Baseball Head Coach pfinigan@lindenwood.edu
+• Denton McNamee Baseball Assistant Coach dmcnamee@lindenwood.edu
+• Kyle Gerdeman Men's Basketball Head Coach 636-949- kgerdeman@lindenwood.edu KyleGerdeman
+• Justin Walker Men's Basketball Assistant Coach jwalker@lindenwood.edu
+• Jestin Anderson Men's Basketball Assistant Coach janderson4@lindenwood.edu
+• Amy Eagan Women's Basketball Head Coach aeagan@lindenwood.edu
+• Jordan Mellott Women's Basketball Associate Head Coach jmellott@lindenwood.edu
+• Aaron Beadle Women's Basketball Assistant Coach abeadle@lindenwood.edu
+• Lindsay Ward Women's Basketball Assistant Coach lward@lindenwood.edu
+• Kayla Kregel Cross Country and Track & Field Head Coach kkregel@lindenwood.edu
+• Vicente Blanco Assistant Cross Country and Track & Field Coach vblanco@lindenwood.edu
+• Andrew Mudd Track and Field Assistant Coach - Hurdles, Jumps, and amudd@lindenwood.edu
+• Glenn Norwood Volunteer Track & Field Assistant Coach gnorwood.vol@lindenwood.edu
+• Eric Inama Football Assistant Coach einama@lindenwood.edu EricInama
+• Ray Farnell Men's Golf Head Coach rfarnell@lindenwood.edu
+• Tavia Rutherford Women's Golf Head Coach 636-389- trutherford@lindenwood.edu
+• Keith Fisher Men's Hockey Head Coach kfisher1@lindenwood.edu
+• Jack Combs Men's Hockey Assistant Coach jcombs@lindenwood.edu
+• Andrew Magera Men's Hockey Assistant Coach amagera@lindenwood.edu
+• Mark Abney Men's Hockey Director of Operations/Video Coach 314-703- mabney@lindenwood.edu
+• Taylor Wasylk Women's Ice Hockey Head Coach twasylk@lindenwood.edu
+• Arielle DeSmet Women's Ice Hockey Assistant Coach Adesmet@lindenwood.edu
+• Connor Chatham Women's Ice Hockey Assistant Coach cchatham@lindenwood.edu
+• Jack Cribbin Women's Lacrosse Head Coach 636-949- jcribbin@lindenwood.edu LUwomensLax
+• Brian Smith Women's Lacrosse Associate Head Coach 636-949- bsmith@lindenwood.edu
+• Ryleigh Cavanaugh Women's Lacrosse Assistant Coach rcavanaugh@lindenwood.edu
+• Nat Hubert Men's Soccer Assistant Coach nhubert@lindenwood.edu
+• Dave Musso Women's Soccer Head Coach 636-949- dmusso@lindenwood.edu dmusso4
+• Euan Morton Women's Soccer Assistant Coach 636-627- emorton@lindenwood.edu
+• Megan McClure Women’s Soccer Assistant Coach mmcclure@lindenwood.edu
+• Erin Brown Softball Head Coach 636-949- ebrown2@lindenwood.edu
+• Chris Iliopoulos Softball Assistant Coach ciliopoulos@lindenwood.edu
+• Anthony Ruggiero Softball Assistant Coach aruggiero@lindenwood.edu
+• Cole Stevenson Women's Tennis Head Coach cstevenson@lindenwood.edu
+• Alli Duckworth Beach Volleyball Head Coach 636-346- aduckworth@lindenwood.edu
+• Lauren Zabriskie Beach Volleyball Volunteer Assistant Coach lzabriskie@lindenwood.edu
+• Joe Kosciw Men's Volleyball Head Coach 636-627- jkosciw@lindenwood.edu JKosciw64
+• Michael Lanera Men's Volleyball Assistant Coach 636-627- mlanera@lindenwood.edu
+• Will Condon Women's Volleyball Head Coach 636-949- wcondon@lindenwood.edu
+• Tyler Fenton Women's Volleyball Assistant Coach tfenton@lindenwood.edu
+• Frank Yattoni Women's Wrestling Head Coach fyattoni@lindenwood.edu
+• Charles McNeal Women's Wrestling Assistant Coach cmcneal2@lindenwood.edu
+• Trevor Locke Women's Rugby Head Coach 314-346- tlocke@lindenwood.edu
+• Colten Hernandez Women's Rugby Assistant Coach 317-979- chernandez@lindenwood.edu

@@ -1,0 +1,335 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:16
+============================================================
+
+Total coaches found: 54
+
+PARSED ENTRIES:
+----------------------------------------
+1. David Beasley
+   Email: dbeasley@berry.edu
+   Username: dbeasley
+   Original line: David Beasley Associate AD/Head Baseball Coach dbeasley@berry.edu (706) 236-
+
+2. David Beasley
+   Email: dbeasley@berry.edu
+   Username: dbeasley
+   Original line: David Beasley Associate AD/Head Baseball Coach dbeasley@berry.edu (706) 236-
+
+3. Dylan Beasley
+   Email: dlabeasley@berry.edu
+   Username: dlabeasley
+   Original line: Dylan Beasley Assistant Baseball Coach/Pitching dlabeasley@berry.edu (706) 676-
+
+4. Garrett Brown
+   Email: gbrown@berry.edu
+   Username: gbrown
+   Original line: Garrett Brown Assistant Baseball Coach gbrown@berry.edu (706) 236-
+
+5. Caitlyn Moriarty
+   Email: cmoriarty@berry.edu
+   Username: cmoriarty
+   Original line: Caitlyn Moriarty Head Coach cmoriarty@berry.edu (706) 368-
+
+6. Rachel Ford
+   Email: rford@berry.edu
+   Username: rford
+   Original line: Rachel Ford Assistant Coach rford@berry.edu (706) 368-
+
+7. Molly Bergin
+   Email: mbergin@berry.edu
+   Username: mbergin
+   Original line: Molly Bergin Assistant Coach mbergin@berry.edu (706) 368-
+
+8. Leslie Pledger
+   Email: lpledger@berry.edu
+   Username: lpledger
+   Original line: Leslie Pledger Boston Head Coach lpledger@berry.edu (706) 378-
+
+9. Margaret Knight
+   Email: mellington@berry.edu
+   Username: mellington
+   Original line: Margaret Knight Ellington Head Coach mellington@berry.edu (706) 238-
+
+10. Brittany Purcell
+   Email: bpurcell@berry.edu
+   Username: bpurcell
+   Original line: Brittany Purcell Assistant Equestrian Coach bpurcell@berry.edu (706) 238-
+
+11. Tony Kunczewski
+   Email: tkunczewski@berry.edu
+   Username: tkunczewski
+   Original line: Tony Kunczewski Head Coach / Safeties Coach tkunczewski@berry.edu (706) 378-
+
+12. Joel Elliott
+   Email: jelliott@berry.edu
+   Username: jelliott
+   Original line: Joel Elliott Defensive Coordinator / Linebackers Coach jelliott@berry.edu (706) 368-
+
+13. Bernard Granville
+   Email: bgranville@berry.edu
+   Username: bgranville
+   Original line: Bernard Granville Assistant Coach - Defensive Line bgranville@berry.edu (706) 368-
+
+14. Max James
+   Email: mjames@berry.edu
+   Username: mjames
+   Original line: Max James Assistant Coach - Quarterbacks mjames@berry.edu (706) 236-
+
+15. Bryant Argote
+   Email: bargote@berry.edu
+   Username: bargote
+   Original line: Bryant Argote Assistant Coach - Tight Ends bargote@berry.edu
+
+16. Tobin Sharp
+   Email: tsharp@berry.edu
+   Username: tsharp
+   Original line: Tobin Sharp Assistant Coach - Running Backs tsharp@berry.edu
+
+17. Matthew Richter
+   Email: mrichter@berry.edu
+   Username: mrichter
+   Original line: Matthew Richter Head Coach mrichter@berry.edu (706) 236-
+
+18. Chris Logsdon
+   Email: clogsdon@berry.edu
+   Username: clogsdon
+   Original line: Chris Logsdon Assistant Men's Basketball Coach clogsdon@berry.edu (706) 236-
+
+19. Paul Deaton
+   Email: pdeaton@berry.edu
+   Username: pdeaton
+   Original line: Paul Deaton Head Cross Country / Asst. Track & Field Coach pdeaton@berry.edu (706) 290-
+
+20. Brian Farrer
+   Email: bfarrer@berry.edu
+   Username: bfarrer
+   Original line: Brian Farrer Head Coach bfarrer@berry.edu (706) 238-
+
+21. Chris Wilson
+   Email: cswilson@berry.edu
+   Username: cswilson
+   Original line: Chris Wilson Assistant Coach cswilson@berry.edu
+
+22. Curtis Gilbert
+   Email: cgilbert@berry.edu
+   Username: cgilbert
+   Original line: Curtis Gilbert Head Coach cgilbert@berry.edu (706) 368-
+
+23. Ken Byers
+   Email: kbyers@berry.edu
+   Username: kbyers
+   Original line: Ken Byers Assistant Coach (Volunteer) kbyers@berry.edu (706) 368-
+
+24. Koby McMahon
+   Email: kmcmahon@berry.edu
+   Username: kmcmahon
+   Original line: Koby McMahon Assistant Men's Lacrosse Coach kmcmahon@berry.edu (706) 368-
+
+25. Richard Vardy
+   Email: rvardy@berry.edu
+   Username: rvardy
+   Original line: Richard Vardy Head Coach rvardy@berry.edu (706) 236-
+
+26. Konrad Jacobs
+   Email: kjacobs@berry.edu
+   Username: kjacobs
+   Original line: Konrad Jacobs Assistant Coach kjacobs@berry.edu (706) 368-
+
+27. Zach Healy
+   Email: zhealy@berry.edu
+   Username: zhealy
+   Original line: Zach Healy Head Coach/Aquatics Director zhealy@berry.edu
+
+28. Will Dubrowski
+   Email: wdubrowski@berry.edu
+   Username: wdubrowski
+   Original line: Will Dubrowski Assistant Coach wdubrowski@berry.edu
+
+29. Doug Elly
+   Email: delly@berry.edu
+   Username: delly
+   Original line: Doug Elly Head Tennis Coach delly@berry.edu (706) 236-
+
+30. Edward Rodionov
+   Email: erodionov@berry.edu
+   Username: erodionov
+   Original line: Edward Rodionov Assistant Tennis Coach erodionov@berry.edu (706) 236-
+
+31. Luke Syverson
+   Email: lsyverson@berry.edu
+   Username: lsyverson
+   Original line: Luke Syverson Head Track & Field Coach lsyverson@berry.edu (706) 368-
+
+32. Paul Deaton
+   Email: pdeaton@berry.edu
+   Username: pdeaton
+   Original line: Paul Deaton Head Cross Country / Asst. Track & Field Coach pdeaton@berry.edu (706) 290-
+
+33. Mason Robinson
+   Email: marobinson@berry.edu
+   Username: marobinson
+   Original line: Mason Robinson Assistant Track and Field Coach marobinson@berry.edu (762) 413-
+
+34. Thomas Johnson
+   Email: tjohnson@berry.edu
+   Username: tjohnson
+   Original line: Thomas Johnson Head Coach tjohnson@berry.edu (706) 802-
+
+35. Delaney Edwards
+   Email: dedwards@berry.edu
+   Username: dedwards
+   Original line: Delaney Edwards Assistant Coach dedwards@berry.edu (706) 368-
+
+36. Paul Deaton
+   Email: pdeaton@berry.edu
+   Username: pdeaton
+   Original line: Paul Deaton Head Cross Country / Asst. Track & Field Coach pdeaton@berry.edu (706) 290-
+
+37. Brian Farrer
+   Email: bfarrer@berry.edu
+   Username: bfarrer
+   Original line: Brian Farrer Head Coach bfarrer@berry.edu (706) 238-
+
+38. Chris Wilson
+   Email: cswilson@berry.edu
+   Username: cswilson
+   Original line: Chris Wilson Assistant Coach cswilson@berry.edu
+
+39. Brittni Hall
+   Email: wlax@berry.edu
+   Username: wlax
+   Original line: Brittni Hall Head Coach wlax@berry.edu (706) 368-
+
+40. Ginnabeth Day
+   Email: gday@berry.edu
+   Username: gday
+   Original line: Ginnabeth Day Asst. Women's Lacrosse Coach gday@berry.edu (706) 233-
+
+41. Kathy Brown
+   Email: kinselbrown@berry.edu
+   Username: kinselbrown
+   Original line: Kathy Brown Head Coach kinselbrown@berry.edu (706) 236-
+
+42. Jordan Crawford
+   Email: jcrawford@berry.edu
+   Username: jcrawford
+   Original line: Jordan Crawford Assistant Coach jcrawford@berry.edu (762) 413-
+
+43. Meredith Mills
+   Email: mmills@berry.edu
+   Username: mmills
+   Original line: Meredith Mills Head Softball Coach mmills@berry.edu (706) 368-
+
+44. Rebecca Murray
+   Email: rmurray@berry.edu
+   Username: rmurray
+   Original line: Rebecca Murray Assistant Softball Coach rmurray@berry.edu (706) 368-
+
+45. Zach Healy
+   Email: zhealy@berry.edu
+   Username: zhealy
+   Original line: Zach Healy Head Coach/Aquatics Director zhealy@berry.edu
+
+46. Will Dubrowski
+   Email: wdubrowski@berry.edu
+   Username: wdubrowski
+   Original line: Will Dubrowski Assistant Coach wdubrowski@berry.edu
+
+47. Doug Elly
+   Email: delly@berry.edu
+   Username: delly
+   Original line: Doug Elly Head Tennis Coach delly@berry.edu (706) 236-
+
+48. Edward Rodionov
+   Email: erodionov@berry.edu
+   Username: erodionov
+   Original line: Edward Rodionov Assistant Tennis Coach erodionov@berry.edu (706) 236-
+
+49. Luke Syverson
+   Email: lsyverson@berry.edu
+   Username: lsyverson
+   Original line: Luke Syverson Head Track & Field Coach lsyverson@berry.edu (706) 368-
+
+50. Paul Deaton
+   Email: pdeaton@berry.edu
+   Username: pdeaton
+   Original line: Paul Deaton Head Cross Country / Asst. Track & Field Coach pdeaton@berry.edu (706) 290-
+
+51. Mason Robinson
+   Email: marobinson@berry.edu
+   Username: marobinson
+   Original line: Mason Robinson Assistant Track and Field Coach marobinson@berry.edu (762) 413-
+
+52. Caitlyn Moriarty
+   Email: cmoriarty@berry.edu
+   Username: cmoriarty
+   Original line: Caitlyn Moriarty Head Coach cmoriarty@berry.edu (706) 368-
+
+53. Rachel Ford
+   Email: rford@berry.edu
+   Username: rford
+   Original line: Rachel Ford Assistant Coach rford@berry.edu (706) 368-
+
+54. Molly Bergin
+   Email: mbergin@berry.edu
+   Username: mbergin
+   Original line: Molly Bergin Assistant Coach mbergin@berry.edu (706) 368-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• David Beasley Associate AD/Head Baseball Coach dbeasley@berry.edu (706) 236-
+• David Beasley Associate AD/Head Baseball Coach dbeasley@berry.edu (706) 236-
+• Dylan Beasley Assistant Baseball Coach/Pitching dlabeasley@berry.edu (706) 676-
+• Garrett Brown Assistant Baseball Coach gbrown@berry.edu (706) 236-
+• Caitlyn Moriarty Head Coach cmoriarty@berry.edu (706) 368-
+• Rachel Ford Assistant Coach rford@berry.edu (706) 368-
+• Molly Bergin Assistant Coach mbergin@berry.edu (706) 368-
+• Leslie Pledger Boston Head Coach lpledger@berry.edu (706) 378-
+• Margaret Knight Ellington Head Coach mellington@berry.edu (706) 238-
+• Brittany Purcell Assistant Equestrian Coach bpurcell@berry.edu (706) 238-
+• Tony Kunczewski Head Coach / Safeties Coach tkunczewski@berry.edu (706) 378-
+• Joel Elliott Defensive Coordinator / Linebackers Coach jelliott@berry.edu (706) 368-
+• Bernard Granville Assistant Coach - Defensive Line bgranville@berry.edu (706) 368-
+• Max James Assistant Coach - Quarterbacks mjames@berry.edu (706) 236-
+• Bryant Argote Assistant Coach - Tight Ends bargote@berry.edu
+• Tobin Sharp Assistant Coach - Running Backs tsharp@berry.edu
+• Matthew Richter Head Coach mrichter@berry.edu (706) 236-
+• Chris Logsdon Assistant Men's Basketball Coach clogsdon@berry.edu (706) 236-
+• Paul Deaton Head Cross Country / Asst. Track & Field Coach pdeaton@berry.edu (706) 290-
+• Brian Farrer Head Coach bfarrer@berry.edu (706) 238-
+• Chris Wilson Assistant Coach cswilson@berry.edu
+• Curtis Gilbert Head Coach cgilbert@berry.edu (706) 368-
+• Ken Byers Assistant Coach (Volunteer) kbyers@berry.edu (706) 368-
+• Koby McMahon Assistant Men's Lacrosse Coach kmcmahon@berry.edu (706) 368-
+• Richard Vardy Head Coach rvardy@berry.edu (706) 236-
+• Konrad Jacobs Assistant Coach kjacobs@berry.edu (706) 368-
+• Zach Healy Head Coach/Aquatics Director zhealy@berry.edu
+• Will Dubrowski Assistant Coach wdubrowski@berry.edu
+• Doug Elly Head Tennis Coach delly@berry.edu (706) 236-
+• Edward Rodionov Assistant Tennis Coach erodionov@berry.edu (706) 236-
+• Luke Syverson Head Track & Field Coach lsyverson@berry.edu (706) 368-
+• Paul Deaton Head Cross Country / Asst. Track & Field Coach pdeaton@berry.edu (706) 290-
+• Mason Robinson Assistant Track and Field Coach marobinson@berry.edu (762) 413-
+• Thomas Johnson Head Coach tjohnson@berry.edu (706) 802-
+• Delaney Edwards Assistant Coach dedwards@berry.edu (706) 368-
+• Paul Deaton Head Cross Country / Asst. Track & Field Coach pdeaton@berry.edu (706) 290-
+• Brian Farrer Head Coach bfarrer@berry.edu (706) 238-
+• Chris Wilson Assistant Coach cswilson@berry.edu
+• Brittni Hall Head Coach wlax@berry.edu (706) 368-
+• Ginnabeth Day Asst. Women's Lacrosse Coach gday@berry.edu (706) 233-
+• Kathy Brown Head Coach kinselbrown@berry.edu (706) 236-
+• Jordan Crawford Assistant Coach jcrawford@berry.edu (762) 413-
+• Meredith Mills Head Softball Coach mmills@berry.edu (706) 368-
+• Rebecca Murray Assistant Softball Coach rmurray@berry.edu (706) 368-
+• Zach Healy Head Coach/Aquatics Director zhealy@berry.edu
+• Will Dubrowski Assistant Coach wdubrowski@berry.edu
+• Doug Elly Head Tennis Coach delly@berry.edu (706) 236-
+• Edward Rodionov Assistant Tennis Coach erodionov@berry.edu (706) 236-
+• Luke Syverson Head Track & Field Coach lsyverson@berry.edu (706) 368-
+• Paul Deaton Head Cross Country / Asst. Track & Field Coach pdeaton@berry.edu (706) 290-
+• Mason Robinson Assistant Track and Field Coach marobinson@berry.edu (762) 413-
+• Caitlyn Moriarty Head Coach cmoriarty@berry.edu (706) 368-
+• Rachel Ford Assistant Coach rford@berry.edu (706) 368-
+• Molly Bergin Assistant Coach mbergin@berry.edu (706) 368-

@@ -1,0 +1,290 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:39
+============================================================
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Justin Meyer
+   Email: jumeyer@edgewood.edu
+   Username: jumeyer
+   Phone: 663-6703
+   Original line: Justin Meyer Associate Director of Athletics jumeyer@edgewood.edu 663-6703 CoachMeyer_ECBB
+
+2. Romaric Setodji
+   Email: rsetodji@edgewood.edu
+   Username: rsetodji
+   Phone: 663-3280
+   Original line: Romaric Setodji Strength & Conditioning Coach rsetodji@edgewood.edu 663-3280
+
+3. Jeff "JT"
+   Email: jdthomas@edgewood.edu
+   Username: jdthomas
+   Phone: 663-6771
+   Original line: Jeff "JT" Thomas Strength & Conditioning Coach jdthomas@edgewood.edu 663-6771
+
+4. Al Brisack
+   Email: abrisack@edgewood.edu
+   Username: abrisack
+   Original line: Al Brisack Head Coach abrisack@edgewood.edu 608-206- BrisackEagle
+
+5. Ralph Kalal
+   Email: RKalal@edgewood.edu
+   Username: RKalal
+   Original line: Ralph Kalal Assistant Coach RKalal@edgewood.edu MrCoachK20
+
+6. Justin Meyer
+   Email: jumeyer@edgewood.edu
+   Username: jumeyer
+   Phone: 663-6703
+   Original line: Justin Meyer Head Coach jumeyer@edgewood.edu 663-6703 CoachMeyer_ECBB
+
+7. Mike McMahon
+   Email: MSMcMahon@edgewood.edu
+   Username: MSMcMahon
+   Original line: Mike McMahon Assistant Coach/Scouting Coordinator MSMcMahon@edgewood.edu
+
+8. Anthony Janega
+   Email: ajanega@edgewood.edu
+   Username: ajanega
+   Original line: Anthony Janega Jr Assistant Coach/Recruiting Coordinator ajanega@edgewood.edu
+
+9. Kole Vivian
+   Email: kvivian@edgewood.edu
+   Username: kvivian
+   Phone: 663-8352
+   Original line: Kole Vivian Head Coach kvivian@edgewood.edu 663-8352 Coach_Vivian
+
+10. Adam Pribbenow
+   Email: apribbenow@edgewood.edu
+   Username: apribbenow
+   Phone: 663-2817
+   Original line: Adam Pribbenow Assistant Coach apribbenow@edgewood.edu 663-2817 adampribbenow
+
+11. Sam Schaeffer
+   Email: sschaeffer@edgewood.edu
+   Username: sschaeffer
+   Original line: Sam Schaeffer Assistant Coach sschaeffer@edgewood.edu
+
+12. Kenzie Senffner
+   Email: msenffner@edgewood.edu
+   Username: msenffner
+   Original line: Kenzie Senffner Graduate Assistant Coach msenffner@edgewood.edu
+
+13. Kylie Wright
+   Email: kwright@edgewood.edu
+   Username: kwright
+   Phone: 732-9907
+   Original line: Kylie Wright Head Coach kwright@edgewood.edu 732-9907
+
+14. Andy Knapp
+   Email: andknapp@edgewood.edu
+   Username: andknapp
+   Phone: 721-5127
+   Original line: Andy Knapp Head Coach andknapp@edgewood.edu 721-5127
+
+15. Andy Knapp
+   Email: andknapp@edgewood.edu
+   Username: andknapp
+   Phone: 721-5127
+   Original line: Andy Knapp Head Coach andknapp@edgewood.edu 721-5127
+
+16. Paisley Bennett
+   Email: pbennett@edgewood.edu
+   Username: pbennett
+   Phone: 663-3468
+   Original line: Paisley Bennett Head Coach pbennett@edgewood.edu 663-3468
+
+17. Matthew Davidson
+   Email: mdavidson@edgewood.edu
+   Username: mdavidson
+   Phone: 663-3316
+   Original line: Matthew Davidson Head Coach mdavidson@edgewood.edu 663-3316
+
+18. Josh Hentrich
+   Email: jhentrich@edgewood.edu
+   Username: jhentrich
+   Phone: 663-3274
+   Original line: Josh Hentrich Assistant Coach jhentrich@edgewood.edu 663-3274
+
+19. Josh Hentrich
+   Email: jhentrich@edgewood.edu
+   Username: jhentrich
+   Phone: 663-3274
+   Original line: Josh Hentrich Head Coach jhentrich@edgewood.edu 663-3274
+
+20. Mitch Wilkins
+   Email: mitwilkins@edgewood.edu
+   Username: mitwilkins
+   Original line: Mitch Wilkins Head Coach mitwilkins@edgewood.edu
+
+21. Avery Bugaj
+   Email: abugaj@edgewood.edu
+   Username: abugaj
+   Original line: Avery Bugaj Graduate Assistant Coach abugaj@edgewood.edu
+
+22. Jacky Ng
+   Email: jng@edgewood.edu
+   Username: jng
+   Original line: Jacky Ng Graduate Assistant Coach jng@edgewood.edu
+
+23. Courtney Novak
+   Email: cnovak@edgewood.edu
+   Username: cnovak
+   Phone: 663-2313
+   Original line: Courtney Novak Head Coach cnovak@edgewood.edu 663-2313
+
+24. Tim Bruner
+   Email: tbruner@edgewood.edu
+   Username: tbruner
+   Original line: Tim Bruner Head Coach tbruner@edgewood.edu 608-663-
+
+25. Ben Brereton
+   Email: bbrereton@edgewood.edu
+   Username: bbrereton
+   Original line: Ben Brereton Director of Recruiting/Assistant Coach bbrereton@edgewood.edu
+
+26. Derek Helmer
+   Email: DHelmer@edgewood.edu
+   Username: DHelmer
+   Original line: Derek Helmer Head Coach DHelmer@edgewood.edu 608-609- HelmerDerek
+
+27. Andy Moll
+   Email: amoll@icloud.com
+   Username: amoll
+   Original line: Andy Moll Assistant Coach amoll@icloud.com
+
+28. Siobhan Gallagher
+   Email: sgallagher@edgewood.edu
+   Username: sgallagher
+   Original line: Siobhan Gallagher Assistant Coach/Recruiting Coordinator sgallagher@edgewood.edu
+
+29. Grace Wildeboer
+   Email: gwildeboer@edgewood.edu
+   Username: gwildeboer
+   Original line: Grace Wildeboer Goalkeeper Coach gwildeboer@edgewood.edu
+
+30. Erin Skinner
+   Email: eskinner@edgewood.edu
+   Username: eskinner
+   Phone: 663-2375
+   Original line: Erin Skinner Head Coach eskinner@edgewood.edu 663-2375
+
+31. Kevin Friend
+   Email: kfriend@edgewood.edu
+   Username: kfriend
+   Original line: Kevin Friend Head Coach kfriend@edgewood.edu 847-867-
+
+32. Kevin Friend
+   Email: kfriend@edgewood.edu
+   Username: kfriend
+   Original line: Kevin Friend Head Coach kfriend@edgewood.edu 847-867-
+
+33. Andy Knapp
+   Email: andknapp@edgewood.edu
+   Username: andknapp
+   Phone: 721-5127
+   Original line: Andy Knapp Head Coach andknapp@edgewood.edu 721-5127
+
+34. Andrew Swetlik
+   Email: aswetlik@edgewood.edu
+   Username: aswetlik
+   Phone: 663-3486
+   Original line: Andrew Swetlik Assistant Coach aswetlik@edgewood.edu 663-3486
+
+35. Sawyer Smith
+   Email: sawsmith@edgewood.edu
+   Username: sawsmith
+   Original line: Sawyer Smith Assistant Coach sawsmith@edgewood.edu
+
+36. Andy Knapp
+   Email: andknapp@edgewood.edu
+   Username: andknapp
+   Phone: 721-5127
+   Original line: Andy Knapp Head Coach andknapp@edgewood.edu 721-5127
+
+37. Andrew Swetlik
+   Email: aswetlik@edgewood.edu
+   Username: aswetlik
+   Phone: 663-3486
+   Original line: Andrew Swetlik Assistant Coach aswetlik@edgewood.edu 663-3486
+
+38. Sawyer Smith
+   Email: sawsmith@edgewood.edu
+   Username: sawsmith
+   Original line: Sawyer Smith Assistant Coach sawsmith@edgewood.edu
+
+39. Jeff "JT"
+   Email: jdthomas@edgewood.edu
+   Username: jdthomas
+   Phone: 663-6771
+   Original line: Jeff "JT" Thomas Head Coach jdthomas@edgewood.edu 663-6771
+
+40. Eric Peterson
+   Email: epeterson@edgewood.edu
+   Username: epeterson
+   Original line: Eric Peterson Assistant Coach/Recruiting Coordinator epeterson@edgewood.edu
+
+41. Brittany Reynolds
+   Email: brireynolds@edgewood.edu
+   Username: brireynolds
+   Original line: Brittany Reynolds Assistant Coach/Technical Coordinator brireynolds@edgewood.edu
+
+42. Jace Shively
+   Email: jshively@edgewood.edu
+   Username: jshively
+   Original line: Jace Shively Assistant Coach/Skills Coordinator jshively@edgewood.edu
+
+43. Paul Schlomer
+   Email: pschlomer@edgewood.edu
+   Username: pschlomer
+   Phone: 663-3245
+   Original line: Paul Schlomer Head Coach pschlomer@edgewood.edu 663-3245 PaulSchlomer
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Justin Meyer Associate Director of Athletics jumeyer@edgewood.edu 663-6703 CoachMeyer_ECBB
+• Romaric Setodji Strength & Conditioning Coach rsetodji@edgewood.edu 663-3280
+• Jeff "JT" Thomas Strength & Conditioning Coach jdthomas@edgewood.edu 663-6771
+• Al Brisack Head Coach abrisack@edgewood.edu 608-206- BrisackEagle
+• Ralph Kalal Assistant Coach RKalal@edgewood.edu MrCoachK20
+• Justin Meyer Head Coach jumeyer@edgewood.edu 663-6703 CoachMeyer_ECBB
+• Mike McMahon Assistant Coach/Scouting Coordinator MSMcMahon@edgewood.edu
+• Anthony Janega Jr Assistant Coach/Recruiting Coordinator ajanega@edgewood.edu
+• Kole Vivian Head Coach kvivian@edgewood.edu 663-8352 Coach_Vivian
+• Adam Pribbenow Assistant Coach apribbenow@edgewood.edu 663-2817 adampribbenow
+• Sam Schaeffer Assistant Coach sschaeffer@edgewood.edu
+• Kenzie Senffner Graduate Assistant Coach msenffner@edgewood.edu
+• Kylie Wright Head Coach kwright@edgewood.edu 732-9907
+• Andy Knapp Head Coach andknapp@edgewood.edu 721-5127
+• Andy Knapp Head Coach andknapp@edgewood.edu 721-5127
+• Paisley Bennett Head Coach pbennett@edgewood.edu 663-3468
+• Matthew Davidson Head Coach mdavidson@edgewood.edu 663-3316
+• Josh Hentrich Assistant Coach jhentrich@edgewood.edu 663-3274
+• Josh Hentrich Head Coach jhentrich@edgewood.edu 663-3274
+• Mitch Wilkins Head Coach mitwilkins@edgewood.edu
+• Avery Bugaj Graduate Assistant Coach abugaj@edgewood.edu
+• Jacky Ng Graduate Assistant Coach jng@edgewood.edu
+• Courtney Novak Head Coach cnovak@edgewood.edu 663-2313
+• Tim Bruner Head Coach tbruner@edgewood.edu 608-663-
+• Ben Brereton Director of Recruiting/Assistant Coach bbrereton@edgewood.edu
+• Derek Helmer Head Coach DHelmer@edgewood.edu 608-609- HelmerDerek
+• Andy Moll Assistant Coach amoll@icloud.com
+• Siobhan Gallagher Assistant Coach/Recruiting Coordinator sgallagher@edgewood.edu
+• Grace Wildeboer Goalkeeper Coach gwildeboer@edgewood.edu
+• Erin Skinner Head Coach eskinner@edgewood.edu 663-2375
+• Kevin Friend Head Coach kfriend@edgewood.edu 847-867-
+• Kevin Friend Head Coach kfriend@edgewood.edu 847-867-
+• Andy Knapp Head Coach andknapp@edgewood.edu 721-5127
+• Andrew Swetlik Assistant Coach aswetlik@edgewood.edu 663-3486
+• Sawyer Smith Assistant Coach sawsmith@edgewood.edu
+• Andy Knapp Head Coach andknapp@edgewood.edu 721-5127
+• Andrew Swetlik Assistant Coach aswetlik@edgewood.edu 663-3486
+• Sawyer Smith Assistant Coach sawsmith@edgewood.edu
+• Jeff "JT" Thomas Head Coach jdthomas@edgewood.edu 663-6771
+• Eric Peterson Assistant Coach/Recruiting Coordinator epeterson@edgewood.edu
+• Brittany Reynolds Assistant Coach/Technical Coordinator brireynolds@edgewood.edu
+• Jace Shively Assistant Coach/Skills Coordinator jshively@edgewood.edu
+• Paul Schlomer Head Coach pschlomer@edgewood.edu 663-3245 PaulSchlomer

@@ -1,0 +1,203 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:11
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jessica Reid
+   Email: jessica.reid@fmarion.edu
+   Username: jessica.reid
+   Original line: Jessica Reid Cheerleader Coach 843-661- jessica.reid@fmarion.edu
+
+2. Brittany Rueb
+   Email: brittany.rueb@fmarion.edu
+   Username: brittany.rueb
+   Original line: Brittany Rueb Head Coach 843-661- brittany.rueb@fmarion.edu
+
+3. Kacie Kier
+   Email: kacie.kier@fmarion.edu
+   Username: kacie.kier
+   Original line: Kacie Kier Assistant Coach 843-661- kacie.kier@fmarion.edu
+
+4. Jeff Jefferson
+   Email: jeff.jefferson@fmarion.edu
+   Username: jeff.jefferson
+   Original line: Jeff Jefferson Head Coach 843-661- jeff.jefferson@fmarion.edu
+
+5. Matt McCarty
+   Email: matt.mccarty@fmarion.edu
+   Username: matt.mccarty
+   Original line: Matt McCarty Associate Head Coach 843-661- matt.mccarty@fmarion.edu
+
+6. Tyler Bender
+   Email: tyler.bender@fmarion.edu
+   Username: tyler.bender
+   Original line: Tyler Bender Assistant Coach / Recruiting Coordinator 843-661- tyler.bender@fmarion.edu
+
+7. Jake Zehnder
+   Email: jake.zehnder@fmarion.edu
+   Username: jake.zehnder
+   Original line: Jake Zehnder Head Coach 843-661- jake.zehnder@fmarion.edu
+
+8. Patrick Paul
+   Email: patrick.paul@fmarion.edu
+   Username: patrick.paul
+   Original line: Patrick Paul Assistant Coach 843-661- patrick.paul@fmarion.edu
+
+9. Alex Birge
+   Email: alex.birge@fmarion.edu
+   Username: alex.birge
+   Original line: Alex Birge Assistant Coach 843-661- alex.birge@fmarion.edu
+
+10. Jeri Porter
+   Email: jporter@fmarion.edu
+   Username: jporter
+   Original line: Jeri Porter Head Coach 843-661- jporter@fmarion.edu
+
+11. Sharee' Boyd
+   Email: sharee.boyd@fmarion.edu
+   Username: sharee.boyd
+   Original line: Sharee' Boyd Assistant Coach 843-661- sharee.boyd@fmarion.edu
+
+12. Ryan McGee
+   Email: ryan.mcgee@fmarion.edu
+   Username: ryan.mcgee
+   Original line: Ryan McGee Assistant Coach ryan.mcgee@fmarion.edu
+
+13. Mark Bluman
+   Email: mbluman@fmarion.edu
+   Username: mbluman
+   Original line: Mark Bluman Head Coach 843-661- mbluman@fmarion.edu
+
+14. David White
+   Email: dwhite@fmarion.edu
+   Username: dwhite
+   Original line: Dr. David White Assistant Coach 843-661- dwhite@fmarion.edu
+
+15. Mark Bluman
+   Email: mbluman@fmarion.edu
+   Username: mbluman
+   Original line: Mark Bluman Head Coach 843-661- mbluman@fmarion.edu
+
+16. David White
+   Email: dwhite@fmarion.edu
+   Username: dwhite
+   Original line: Dr. David White Assistant Coach 843-661- dwhite@fmarion.edu
+
+17. Mark Gaynor
+   Email: mgaynor@fmarion.edu
+   Username: mgaynor
+   Original line: Mark Gaynor Head Coach 843-661- mgaynor@fmarion.edu
+
+18. Luis Rincon
+   Email: Luis.Rincon@fmarion.edu
+   Username: Luis.Rincon
+   Original line: Luis Rincon Head Coach 843-661- Luis.Rincon@fmarion.edu
+
+19. Nicolas Rodriguez
+   Email: nicolas.rodriguez@fmarion.edu
+   Username: nicolas.rodriguez
+   Original line: Nicolas Rodriguez Assistant Coach 843-661- nicolas.rodriguez@fmarion.edu
+
+20. Owen Turner
+   Email: owen.turner@g.fmarion.edu
+   Username: owen.turner
+   Original line: Owen Turner Graduate Assistant Coach owen.turner@g.fmarion.edu
+
+21. Sam Holmes
+   Email: sam.holmes@fmarion.edu
+   Username: sam.holmes
+   Original line: Sam Holmes Head Coach 843-661- sam.holmes@fmarion.edu
+
+22. Toni Worley
+   Email: toni.worley@fmarion.edu
+   Username: toni.worley
+   Original line: Toni Worley Assistant Coach 843-661- toni.worley@fmarion.edu
+
+23. Stacey Vallee
+   Email: svallee@fmarion.edu
+   Username: svallee
+   Original line: Stacey Vallee Head Coach 843-661- svallee@fmarion.edu
+
+24. Stephanie Bagwell
+   Email: Stephanie.Bagwell@fmarion.edu
+   Username: Stephanie.Bagwell
+   Original line: Stephanie Bagwell Assistant Coach 843-661- Stephanie.Bagwell@fmarion.edu
+
+25. Laszlo Leiter
+   Email: laszlo.leiter@fmarion.edu
+   Username: laszlo.leiter
+   Original line: Laszlo Leiter Head Coach 843-661- laszlo.leiter@fmarion.edu
+
+26. Laszlo Leiter
+   Email: laszlo.leiter@fmarion.edu
+   Username: laszlo.leiter
+   Original line: Laszlo Leiter Head Coach 843-661- laszlo.leiter@fmarion.edu
+
+27. Mark Bluman
+   Email: mbluman@fmarion.edu
+   Username: mbluman
+   Original line: Mark Bluman Head Coach 843-661- mbluman@fmarion.edu
+
+28. Wayne Lacy
+   Email: Wayne.lacy@fmarion.edu
+   Username: Wayne.lacy
+   Original line: Wayne Lacy Assistant Coach 843-617- Wayne.lacy@fmarion.edu
+
+29. Mark Bluman
+   Email: mbluman@fmarion.edu
+   Username: mbluman
+   Original line: Mark Bluman Head Coach 843-661- mbluman@fmarion.edu
+
+30. Wayne Lacy
+   Email: Wayne.lacy@fmarion.edu
+   Username: Wayne.lacy
+   Original line: Wayne Lacy Assistant Coach 843-617- Wayne.lacy@fmarion.edu
+
+31. Lauren Baufield-Edwards
+   Email: lbaufield@fmarion.edu
+   Username: lbaufield
+   Original line: Lauren Baufield-Edwards Head Coach 843-661- lbaufield@fmarion.edu
+
+32. Courtney Abdur-Rahim
+   Email: courtney.abdurrahim@fmarion.edu
+   Username: courtney.abdurrahim
+   Original line: Courtney Abdur-Rahim Assistant Coach 843-661- courtney.abdurrahim@fmarion.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jessica Reid Cheerleader Coach 843-661- jessica.reid@fmarion.edu
+• Brittany Rueb Head Coach 843-661- brittany.rueb@fmarion.edu
+• Kacie Kier Assistant Coach 843-661- kacie.kier@fmarion.edu
+• Jeff Jefferson Head Coach 843-661- jeff.jefferson@fmarion.edu
+• Matt McCarty Associate Head Coach 843-661- matt.mccarty@fmarion.edu
+• Tyler Bender Assistant Coach / Recruiting Coordinator 843-661- tyler.bender@fmarion.edu
+• Jake Zehnder Head Coach 843-661- jake.zehnder@fmarion.edu
+• Patrick Paul Assistant Coach 843-661- patrick.paul@fmarion.edu
+• Alex Birge Assistant Coach 843-661- alex.birge@fmarion.edu
+• Jeri Porter Head Coach 843-661- jporter@fmarion.edu
+• Sharee' Boyd Assistant Coach 843-661- sharee.boyd@fmarion.edu
+• Ryan McGee Assistant Coach ryan.mcgee@fmarion.edu
+• Mark Bluman Head Coach 843-661- mbluman@fmarion.edu
+• Dr. David White Assistant Coach 843-661- dwhite@fmarion.edu
+• Mark Bluman Head Coach 843-661- mbluman@fmarion.edu
+• Dr. David White Assistant Coach 843-661- dwhite@fmarion.edu
+• Mark Gaynor Head Coach 843-661- mgaynor@fmarion.edu
+• Luis Rincon Head Coach 843-661- Luis.Rincon@fmarion.edu
+• Nicolas Rodriguez Assistant Coach 843-661- nicolas.rodriguez@fmarion.edu
+• Owen Turner Graduate Assistant Coach owen.turner@g.fmarion.edu
+• Sam Holmes Head Coach 843-661- sam.holmes@fmarion.edu
+• Toni Worley Assistant Coach 843-661- toni.worley@fmarion.edu
+• Stacey Vallee Head Coach 843-661- svallee@fmarion.edu
+• Stephanie Bagwell Assistant Coach 843-661- Stephanie.Bagwell@fmarion.edu
+• Laszlo Leiter Head Coach 843-661- laszlo.leiter@fmarion.edu
+• Laszlo Leiter Head Coach 843-661- laszlo.leiter@fmarion.edu
+• Mark Bluman Head Coach 843-661- mbluman@fmarion.edu
+• Wayne Lacy Assistant Coach 843-617- Wayne.lacy@fmarion.edu
+• Mark Bluman Head Coach 843-661- mbluman@fmarion.edu
+• Wayne Lacy Assistant Coach 843-617- Wayne.lacy@fmarion.edu
+• Lauren Baufield-Edwards Head Coach 843-661- lbaufield@fmarion.edu
+• Courtney Abdur-Rahim Assistant Coach 843-661- courtney.abdurrahim@fmarion.edu

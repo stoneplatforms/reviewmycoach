@@ -1,0 +1,56 @@
+Printing results: Success=62 Skipped=7 Errors=0
+
+Skipped/Failed links:
+- University of La Verne.pdf: https://laverneleopards.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://laverneleopards.com/staff-directory/index
+Call log:
+  - navigating to "https://laverneleopards.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://laverneleopards.com/staff-directory?print=true, https://laverneleopards.com/staff-directory/print, https://laverneleopards.com/staff-directory, https://laverneleopards.com/staff-directory/index?print=true, https://laverneleopards.com/staff-directory/index/print, https://laverneleopards.com/staff-directory/index
+- Westcliff University.pdf: https://athletics.westcliff.edu/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://athletics.westcliff.edu/staff-directory/index
+Call log:
+  - navigating to "https://athletics.westcliff.edu/staff-directory/index", waiting until "networkidle"
+
+  tried: https://athletics.westcliff.edu/staff-directory?print=true, https://athletics.westcliff.edu/staff-directory/print, https://athletics.westcliff.edu/staff-directory, https://athletics.westcliff.edu/staff-directory/index?print=true, https://athletics.westcliff.edu/staff-directory/index/print, https://athletics.westcliff.edu/staff-directory/index
+- Whittier College.pdf: https://gopoets.com/staff-directory -> HTTP 404 returned
+  tried: https://gopoets.com/staff-directory?print=true, https://gopoets.com/staff-directory/print, https://gopoets.com/staff-directory, https://gopoets.com/staff-directory/index?print=true, https://gopoets.com/staff-directory/index/print, https://gopoets.com/staff-directory/index
+- California Lutheran University (Cal Lutheran).pdf: https://cluathletics.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://cluathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://cluathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://cluathletics.com/staff-directory?print=true, https://cluathletics.com/staff-directory/print, https://cluathletics.com/staff-directory, https://cluathletics.com/staff-directory/index?print=true, https://cluathletics.com/staff-directory/index/print, https://cluathletics.com/staff-directory/index
+- San Diego Christian College.pdf: https://sdcchawks.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://sdcchawks.com/staff-directory/index
+Call log:
+  - navigating to "https://sdcchawks.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://sdcchawks.com/staff-directory?print=true, https://sdcchawks.com/staff-directory/print, https://sdcchawks.com/staff-directory, https://sdcchawks.com/staff-directory/index?print=true, https://sdcchawks.com/staff-directory/index/print, https://sdcchawks.com/staff-directory/index
+- La Sierra University.pdf: https://lsuagoldeneagles.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://lsuagoldeneagles.com/staff-directory/index
+Call log:
+  - navigating to "https://lsuagoldeneagles.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://lsuagoldeneagles.com/staff-directory?print=true, https://lsuagoldeneagles.com/staff-directory/print, https://lsuagoldeneagles.com/staff-directory, https://lsuagoldeneagles.com/staff-directory/index?print=true, https://lsuagoldeneagles.com/staff-directory/index/print, https://lsuagoldeneagles.com/staff-directory/index
+- Providence Christian College.pdf: https://gccathletics.com/staff-directory -> Navigation failed: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://gccathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://gccathletics.com/staff-directory?print=true, https://gccathletics.com/staff-directory/print, https://gccathletics.com/staff-directory, https://gccathletics.com/staff-directory/index?print=true, https://gccathletics.com/staff-directory/index/print, https://gccathletics.com/staff-directory/index
+
+PDFs with zero coaches detected:
+- Cal State Northridge (CSUN).pdf
+- Pacific Union College.pdf
+- California State University, Chico (Chico State).pdf
+- Life Pacific University.pdf
+- California State University, Humboldt (Cal Poly Humboldt).pdf
+- Biola University.pdf
+- Cal Maritime (CSU Maritime Academy).pdf
+- Sonoma State University.pdf
+- University of the Pacific.pdf
+- California State University, Monterey Bay.pdf
+- Fresno State (California State University, Fresno).pdf
+- Long Beach State (CSULB).pdf
+- California State University, Stanislaus (Stanislaus State).pdf
+- Point Loma Nazarene University (PLNU).pdf
+- USC (University of Southern California).pdf
+- Cal State Fullerton (CSUF).pdf
+- Hope International University (HIU).pdf
+- Cal Poly (San Luis Obispo).pdf
+- California State Polytechnic University, Pomona (Cal Poly Pomona).pdf

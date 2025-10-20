@@ -1,0 +1,311 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:42
+============================================================
+
+Total coaches found: 50
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jake Anderson
+   Email: jacob.anderson-2@uwrf.edu
+   Username: jacob.anderson-2
+   Original line: Jake Anderson Head Strength & Conditioning Coach jacob.anderson-2@uwrf.edu 715-425-
+
+2. Luke Pavlat
+   Email: luke.pavlat@uwrf.edu
+   Username: luke.pavlat
+   Original line: Luke Pavlat Assistant Strength & Conditioning Coach luke.pavlat@uwrf.edu
+
+3. Steve Bartlein
+   Email: steven.bartlein@uwrf.edu
+   Username: steven.bartlein
+   Original line: Steve Bartlein Head Baseball Coach steven.bartlein@uwrf.edu 715-425-
+
+4. AJ Lattery
+   Email: aaron.lattery@uwrf.edu
+   Username: aaron.lattery
+   Original line: AJ Lattery Assistant Baseball Coach/Recruiting Coordinator aaron.lattery@uwrf.edu
+
+5. Jeff Berkhof
+   Email: jeffrey.d.berkhof@uwrf.edu
+   Username: jeffrey.d.berkhof
+   Original line: Jeff Berkhof Head Men's Basketball Coach jeffrey.d.berkhof@uwrf.edu 715-425-
+
+6. Lance Westberg
+   Email: lance.westberg@uwrf.edu
+   Username: lance.westberg
+   Original line: Lance Westberg Assistant Men's Basketball Coach lance.westberg@uwrf.edu 715-425-
+
+7. Charlie Choiniere
+   Email: charles.choiniere@uwrf.edu
+   Username: charles.choiniere
+   Original line: Charlie Choiniere Assistant Coach charles.choiniere@uwrf.edu
+
+8. Keegan Nielsen
+   Email: keegan.nielsen@uwrf.edu
+   Username: keegan.nielsen
+   Original line: Keegan Nielsen Assistant Men's Basketball Coach keegan.nielsen@uwrf.edu
+
+9. Shelby Lyman
+   Email: shelby.lyman@uwrf.edu
+   Username: shelby.lyman
+   Original line: Shelby Lyman Head Women's Basketball Coach shelby.lyman@uwrf.edu 715-425-
+
+10. Katie Ahlstrom
+   Email: katie.ahlstrom@uwrf.edu
+   Username: katie.ahlstrom
+   Original line: Katie Ahlstrom Assistant Women's Basketball Coach katie.ahlstrom@uwrf.edu
+
+11. Dell Drey
+   Email: dell.drey@uwrf.edu
+   Username: dell.drey
+   Original line: Dell Drey Assistant Women's Basketball Coach dell.drey@uwrf.edu
+
+12. Meaghan Koski
+   Email: meaghan.koski@uwrf.edu
+   Username: meaghan.koski
+   Original line: Meaghan Koski Head Cross Country Coach/Assistant Track & Field meaghan.koski@uwrf.edu 715-425-
+
+13. Matt Walker
+   Email: matt.walker@uwrf.edu
+   Username: matt.walker
+   Original line: Matt Walker Head Football Coach/Quarterbacks matt.walker@uwrf.edu 715-425-
+
+14. Parker Kizer
+   Email: parker.kizer@uwrf.edu
+   Username: parker.kizer
+   Original line: Parker Kizer Tight Ends Coach/Special Teams Coordinator parker.kizer@uwrf.edu 715-425-
+
+15. Kristian Crabb
+   Email: kristian.crabb@uwrf.edu
+   Username: kristian.crabb
+   Original line: Kristian Crabb Offensive Line Coach/Run Game Coordinator kristian.crabb@uwrf.edu 715-425-
+
+16. Scott Imrie
+   Email: scott.imrie@my.uwrf.edu
+   Username: scott.imrie
+   Original line: Scott Imrie Running Backs Coach scott.imrie@my.uwrf.edu
+
+17. Craig Miles
+   Email: craig.miles@uwrf.edu
+   Username: craig.miles
+   Original line: Craig Miles Assistant Coach craig.miles@uwrf.edu
+
+18. Pete Range
+   Email: peter.range@uwrf.edu
+   Username: peter.range
+   Original line: Pete Range Defensive Line Coach peter.range@uwrf.edu
+
+19. Bobby Patterson
+   Email: robert.patterson@my.uwrf.edu
+   Username: robert.patterson
+   Original line: Bobby Patterson Kicker/Punter Coach robert.patterson@my.uwrf.edu
+
+20. Ethan Wegscheider
+   Email: ethan.wegscheider@my.uwrf.edu
+   Username: ethan.wegscheider
+   Original line: Ethan Wegscheider Safeties Coach ethan.wegscheider@my.uwrf.edu
+
+21. Bryan Orlenko
+   Email: bryan.orlenko@uwrf.edu
+   Username: bryan.orlenko
+   Original line: Bryan Orlenko Head Women's Golf Coach bryan.orlenko@uwrf.edu 715-425-
+
+22. Steve Freeman
+   Email: steven.c.freeman@uwrf.edu
+   Username: steven.c.freeman
+   Original line: Steve Freeman Head Men's Hockey Coach steven.c.freeman@uwrf.edu 715-425-
+
+23. Sean Roadhouse
+   Email: sean.roadhouse@uwrf.edu
+   Username: sean.roadhouse
+   Original line: Sean Roadhouse Associate Head Men's Hockey Coach sean.roadhouse@uwrf.edu 715-425-
+
+24. Michael Smits
+   Email: michael.smits@uwrf.edu
+   Username: michael.smits
+   Original line: Michael Smits Assistant Men's Hockey Coach michael.smits@uwrf.edu
+
+25. Joe Cranston
+   Email: joseph.b.cranston@uwrf.edu
+   Username: joseph.b.cranston
+   Original line: Joe Cranston Head Women's Hockey Coach joseph.b.cranston@uwrf.edu 715-425-
+
+26. Jim Walsh
+   Email: Jimwalshcoach@gmail.com
+   Username: Jimwalshcoach
+   Original line: Jim Walsh Assistant Women's Hockey Coach Jimwalshcoach@gmail.com 715-425-
+
+27. Amanda Ryder
+   Email: amanda.ryder@uwrf.edu
+   Username: amanda.ryder
+   Original line: Amanda Ryder Assistant Women's Hockey Coach amanda.ryder@uwrf.edu 715-425-
+
+28. Talia Hayes
+   Email: talia.hayes@uwrf.edu
+   Username: talia.hayes
+   Original line: Talia Hayes Head Women's Lacrosse Coach talia.hayes@uwrf.edu 715-425-
+
+29. Grace Ross
+   Email: grace.ross@uwrf.edu
+   Username: grace.ross
+   Original line: Grace Ross Assistant Women's Lacrosse Coach grace.ross@uwrf.edu
+
+30. Jordan Ruggeri
+   Email: jordan.ruggeri@uwrf.edu
+   Username: jordan.ruggeri
+   Original line: Jordan Ruggeri Assistant Women's Lacrosse Coach jordan.ruggeri@uwrf.edu
+
+31. Evan Sassano
+   Email: evan.sassano@uwrf.edu
+   Username: evan.sassano
+   Original line: Evan Sassano Head Men's Soccer Coach evan.sassano@uwrf.edu 715-425-
+
+32. Bret Day
+   Email: bret.day@uwrf.edu
+   Username: bret.day
+   Original line: Bret Day Assistant Men's Soccer Coach bret.day@uwrf.edu
+
+33. Adolfo Gonzalez
+   Email: adolfo.gonzalez@uwrf.edu
+   Username: adolfo.gonzalez
+   Original line: Adolfo Gonzalez Assistant Men's Soccer Coach adolfo.gonzalez@uwrf.edu
+
+34. Sean McKuras
+   Email: sean.m.mc-kuras@uwrf.edu
+   Username: sean.m.mc-kuras
+   Original line: Sean McKuras Head Women's Soccer Coach sean.m.mc-kuras@uwrf.edu 715-425-
+
+35. Steve Peterson
+   Email: stephen.peterson@uwrf.edu
+   Username: stephen.peterson
+   Original line: Steve Peterson Associate Head Coach stephen.peterson@uwrf.edu 715-425-
+
+36. Megan Rasmussen
+   Email: megan.rasmussen@uwrf.edu
+   Username: megan.rasmussen
+   Original line: Megan Rasmussen Assistant Women's Soccer Coach megan.rasmussen@uwrf.edu 715-425-
+
+37. Megan Hensel
+   Email: megan.hensel@uwrf.edu
+   Username: megan.hensel
+   Original line: Megan Hensel Assistant Women's Soccer Coach megan.hensel@uwrf.edu
+
+38. Ethan Giese
+   Email: ethan.giese@uwrf.edu
+   Username: ethan.giese
+   Original line: Ethan Giese Head Softball Coach ethan.giese@uwrf.edu 715-533-
+
+39. Mike Perry
+   Email: michael.perry@uwrf.edu
+   Username: michael.perry
+   Original line: Mike Perry Assistant Softball Coach michael.perry@uwrf.edu 612-965-
+
+40. John Kupka
+   Email: john.kupka@uwrf.edu
+   Username: john.kupka
+   Original line: John Kupka Assistant Softball Coach john.kupka@uwrf.edu
+
+41. Jon Koenigs
+   Email: jon.koenigs@uwrf.edu
+   Username: jon.koenigs
+   Original line: Jon Koenigs Head Women's Tennis Coach jon.koenigs@uwrf.edu
+
+42. Jordan Gray
+   Email: jordan.eggerth@uwrf.edu
+   Username: jordan.eggerth
+   Original line: Jordan Gray Eggerth Assistant Track and Field Coach jordan.eggerth@uwrf.edu
+
+43. Meaghan Koski
+   Email: meaghan.koski@uwrf.edu
+   Username: meaghan.koski
+   Original line: Meaghan Koski Head Cross Country Coach/Assistant Track & Field meaghan.koski@uwrf.edu 715-425-
+
+44. Klara Berghuis
+   Email: klara.berghuis@uwrf.edu
+   Username: klara.berghuis
+   Original line: Klara Berghuis Assistant Track and Field Coach klara.berghuis@uwrf.edu
+
+45. Brandt Berguis
+   Email: brandt.berghuis@uwrf.edu
+   Username: brandt.berghuis
+   Original line: Brandt Berguis Assistant Track and Field Coach - Throws brandt.berghuis@uwrf.edu
+
+46. Dipen Patel
+   Email: dipen.patel@uwrf.edu
+   Username: dipen.patel
+   Original line: Dipen Patel Head Volleyball Coach dipen.patel@uwrf.edu 715-425-
+
+47. Beth Raebel
+   Email: beth.raebel@uwrf.edu
+   Username: beth.raebel
+   Original line: Beth Raebel Associate Head Volleyball Coach beth.raebel@uwrf.edu 715-425-
+
+48. Connor Syverson
+   Email: connor.syverson@uwrf.edu
+   Username: connor.syverson
+   Original line: Connor Syverson Assistant Volleyball Coach connor.syverson@uwrf.edu
+
+49. Roger Worsley
+   Email: roger.worsley@uwrf.edu
+   Username: roger.worsley
+   Original line: Roger Worsley Assistant Volleyball Coach roger.worsley@uwrf.edu
+
+50. Dylan Gentilcore
+   Email: dylan.gentilcore@uwrf.edu
+   Username: dylan.gentilcore
+   Original line: Dylan Gentilcore Head Esports Coach dylan.gentilcore@uwrf.edu 715-425-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jake Anderson Head Strength & Conditioning Coach jacob.anderson-2@uwrf.edu 715-425-
+• Luke Pavlat Assistant Strength & Conditioning Coach luke.pavlat@uwrf.edu
+• Steve Bartlein Head Baseball Coach steven.bartlein@uwrf.edu 715-425-
+• AJ Lattery Assistant Baseball Coach/Recruiting Coordinator aaron.lattery@uwrf.edu
+• Jeff Berkhof Head Men's Basketball Coach jeffrey.d.berkhof@uwrf.edu 715-425-
+• Lance Westberg Assistant Men's Basketball Coach lance.westberg@uwrf.edu 715-425-
+• Charlie Choiniere Assistant Coach charles.choiniere@uwrf.edu
+• Keegan Nielsen Assistant Men's Basketball Coach keegan.nielsen@uwrf.edu
+• Shelby Lyman Head Women's Basketball Coach shelby.lyman@uwrf.edu 715-425-
+• Katie Ahlstrom Assistant Women's Basketball Coach katie.ahlstrom@uwrf.edu
+• Dell Drey Assistant Women's Basketball Coach dell.drey@uwrf.edu
+• Meaghan Koski Head Cross Country Coach/Assistant Track & Field meaghan.koski@uwrf.edu 715-425-
+• Matt Walker Head Football Coach/Quarterbacks matt.walker@uwrf.edu 715-425-
+• Parker Kizer Tight Ends Coach/Special Teams Coordinator parker.kizer@uwrf.edu 715-425-
+• Kristian Crabb Offensive Line Coach/Run Game Coordinator kristian.crabb@uwrf.edu 715-425-
+• Scott Imrie Running Backs Coach scott.imrie@my.uwrf.edu
+• Craig Miles Assistant Coach craig.miles@uwrf.edu
+• Pete Range Defensive Line Coach peter.range@uwrf.edu
+• Bobby Patterson Kicker/Punter Coach robert.patterson@my.uwrf.edu
+• Ethan Wegscheider Safeties Coach ethan.wegscheider@my.uwrf.edu
+• Bryan Orlenko Head Women's Golf Coach bryan.orlenko@uwrf.edu 715-425-
+• Steve Freeman Head Men's Hockey Coach steven.c.freeman@uwrf.edu 715-425-
+• Sean Roadhouse Associate Head Men's Hockey Coach sean.roadhouse@uwrf.edu 715-425-
+• Michael Smits Assistant Men's Hockey Coach michael.smits@uwrf.edu
+• Joe Cranston Head Women's Hockey Coach joseph.b.cranston@uwrf.edu 715-425-
+• Jim Walsh Assistant Women's Hockey Coach Jimwalshcoach@gmail.com 715-425-
+• Amanda Ryder Assistant Women's Hockey Coach amanda.ryder@uwrf.edu 715-425-
+• Talia Hayes Head Women's Lacrosse Coach talia.hayes@uwrf.edu 715-425-
+• Grace Ross Assistant Women's Lacrosse Coach grace.ross@uwrf.edu
+• Jordan Ruggeri Assistant Women's Lacrosse Coach jordan.ruggeri@uwrf.edu
+• Evan Sassano Head Men's Soccer Coach evan.sassano@uwrf.edu 715-425-
+• Bret Day Assistant Men's Soccer Coach bret.day@uwrf.edu
+• Adolfo Gonzalez Assistant Men's Soccer Coach adolfo.gonzalez@uwrf.edu
+• Sean McKuras Head Women's Soccer Coach sean.m.mc-kuras@uwrf.edu 715-425-
+• Steve Peterson Associate Head Coach stephen.peterson@uwrf.edu 715-425-
+• Megan Rasmussen Assistant Women's Soccer Coach megan.rasmussen@uwrf.edu 715-425-
+• Megan Hensel Assistant Women's Soccer Coach megan.hensel@uwrf.edu
+• Ethan Giese Head Softball Coach ethan.giese@uwrf.edu 715-533-
+• Mike Perry Assistant Softball Coach michael.perry@uwrf.edu 612-965-
+• John Kupka Assistant Softball Coach john.kupka@uwrf.edu
+• Jon Koenigs Head Women's Tennis Coach jon.koenigs@uwrf.edu
+• Jordan Gray Eggerth Assistant Track and Field Coach jordan.eggerth@uwrf.edu
+• Meaghan Koski Head Cross Country Coach/Assistant Track & Field meaghan.koski@uwrf.edu 715-425-
+• Klara Berghuis Assistant Track and Field Coach klara.berghuis@uwrf.edu
+• Brandt Berguis Assistant Track and Field Coach - Throws brandt.berghuis@uwrf.edu
+• Dipen Patel Head Volleyball Coach dipen.patel@uwrf.edu 715-425-
+• Beth Raebel Associate Head Volleyball Coach beth.raebel@uwrf.edu 715-425-
+• Connor Syverson Assistant Volleyball Coach connor.syverson@uwrf.edu
+• Roger Worsley Assistant Volleyball Coach roger.worsley@uwrf.edu
+• Dylan Gentilcore Head Esports Coach dylan.gentilcore@uwrf.edu 715-425-

@@ -1,0 +1,214 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:43
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Justin Haywood
+   Email: justin.haywood@lmunet.edu
+   Username: justin.haywood
+   Phone: 423.869.6798
+   Original line: Justin Haywood Head Coach justin.haywood@lmunet.edu 423.869.6798
+
+2. Matt Thomas
+   Email: matt.thomas@lmunet.edu
+   Username: matt.thomas
+   Phone: 423.869.6345
+   Original line: Matt Thomas Associate Head Coach matt.thomas@lmunet.edu 423.869.6345
+
+3. Mark Branz
+   Email: mark.branz@lmunet.edu
+   Username: mark.branz
+   Original line: Mark Branz Pitching Coach mark.branz@lmunet.edu
+
+4. Tony Jasick
+   Email: anthony.jasick@lmunet.edu
+   Username: anthony.jasick
+   Original line: Tony Jasick Head Coach anthony.jasick@lmunet.edu 423-869-
+
+5. Kevin Reynolds
+   Email: kevin.reynolds@lmunet.edu
+   Username: kevin.reynolds
+   Original line: Kevin Reynolds Assistant Coach kevin.reynolds@lmunet.edu
+
+6. Patrick Althoff
+   Email: patrick.althoff@lmunet.edu
+   Username: patrick.althoff
+   Original line: Patrick Althoff Assistant Coach patrick.althoff@lmunet.edu
+
+7. Lindal Yarbrough
+   Email: lindal.yarbrough@lmunet.edu
+   Username: lindal.yarbrough
+   Original line: Lindal Yarbrough Assistant Coach lindal.yarbrough@lmunet.edu
+
+8. Devan Carter
+   Email: devan.carter@lmunet.edu
+   Username: devan.carter
+   Phone: 423.869.6781
+   Original line: Devan Carter Head Coach devan.carter@lmunet.edu 423.869.6781
+
+9. Sydney Wilson
+   Email: sydney.wilson@lmunet.edu
+   Username: sydney.wilson
+   Phone: 423.869.6374
+   Original line: Sydney Wilson Assistant Coach sydney.wilson@lmunet.edu 423.869.6374
+
+10. Irelynn Davisson
+   Email: Irelynn.davisson@lmunet.edu
+   Username: Irelynn.davisson
+   Phone: 423.869.7456
+   Original line: Irelynn Davisson Assistant Coach Irelynn.davisson@lmunet.edu 423.869.7456
+
+11. Keyanna Spivey
+   Email: keyanna.spivey@lmunet.edu
+   Username: keyanna.spivey
+   Original line: Keyanna Spivey Assistant Coach keyanna.spivey@lmunet.edu
+
+12. Jeff Kavalunas
+   Email: jeffrey.kavalunas@lmunet.edu
+   Username: jeffrey.kavalunas
+   Phone: 423.869.6228
+   Original line: Jeff Kavalunas Head Coach jeffrey.kavalunas@lmunet.edu 423.869.6228
+
+13. Marnie Reidell
+   Email: marnie.reidell@lmunet.edu
+   Username: marnie.reidell
+   Original line: Marnie Reidell Head Coach marnie.reidell@lmunet.edu
+
+14. Brad Robinson
+   Email: bradley.robinson@lmunet.edu
+   Username: bradley.robinson
+   Phone: 423.869.6092
+   Original line: Brad Robinson Head Coach bradley.robinson@lmunet.edu 423.869.6092
+
+15. Joe Wilson
+   Email: joseph.wilson02@lmunet.edu
+   Username: joseph.wilson02
+   Phone: 423.869.6079
+   Original line: Joe Wilson Head Coach joseph.wilson02@lmunet.edu 423.869.6079
+
+16. Jeremy Kartel
+   Email: jeremy.kartel@lmunet.edu
+   Username: jeremy.kartel
+   Phone: 423.869.6068
+   Original line: Jeremy Kartel Associate Head Coach jeremy.kartel@lmunet.edu 423.869.6068
+
+17. Alyssa Shaver
+   Email: alyssa.shaver@lmunet.edu
+   Username: alyssa.shaver
+   Phone: 423.869.6224
+   Original line: Alyssa Shaver Head Coach alyssa.shaver@lmunet.edu 423.869.6224
+
+18. Rob Mirabile
+   Email: robert.mirabile@lmunet.edu
+   Username: robert.mirabile
+   Original line: Rob Mirabile Assistant Coach robert.mirabile@lmunet.edu
+
+19. Tom Gillette
+   Email: thomas.gillette@lmunet.edu
+   Username: thomas.gillette
+   Phone: 423.869.6375
+   Original line: Tom Gillette Head Coach thomas.gillette@lmunet.edu 423.869.6375
+
+20. August Harp
+   Email: august.harp@lmunet.edu
+   Username: august.harp
+   Original line: August Harp Assistant Coach august.harp@lmunet.edu
+
+21. Tasha Flynn
+   Email: tasha.flynn@lmunet.edu
+   Username: tasha.flynn
+   Phone: 423.869.6482
+   Original line: Tasha Flynn Head Coach tasha.flynn@lmunet.edu 423.869.6482
+
+22. Megan Snider
+   Email: megan.snider@lmunet.edu
+   Username: megan.snider
+   Original line: Megan Snider Assistant Coach megan.snider@lmunet.edu
+
+23. Ritchie Richardson
+   Email: ritchie.richardson@lmunet.edu
+   Username: ritchie.richardson
+   Phone: 423.869.6476
+   Original line: Ritchie Richardson Head Coach ritchie.richardson@lmunet.edu 423.869.6476
+
+24. Caitlin Gambone
+   Email: caitlin.gambone@lmunet.edu
+   Username: caitlin.gambone
+   Original line: Caitlin Gambone Assistant Coach caitlin.gambone@lmunet.edu
+
+25. Rhileigh Alred
+   Email: rhileigh.alred@lmunet.edu
+   Username: rhileigh.alred
+   Original line: Rhileigh Alred Head Coach rhileigh.alred@lmunet.edu
+
+26. Abraham Lascari
+   Email: abraham.lascaridiaz@lmunet.edu
+   Username: abraham.lascaridiaz
+   Phone: 423.869.7080
+   Original line: Abraham Lascari Head Coach abraham.lascaridiaz@lmunet.edu 423.869.7080
+
+27. Jeff Kavalunas
+   Email: jeffrey.kavalunas@lmunet.edu
+   Username: jeffrey.kavalunas
+   Phone: 423.869.6228
+   Original line: Jeff Kavalunas Assistant Coach jeffrey.kavalunas@lmunet.edu 423.869.6228
+
+28. Jacob Craig
+   Email: jacob.craig@lmunet.edu
+   Username: jacob.craig
+   Original line: Jacob Craig Interim Head Coach / Assistant Coach / Recruiting Coordinator jacob.craig@lmunet.edu
+
+29. John Cash
+   Email: john.cash@lmunet.edu
+   Username: john.cash
+   Phone: 423.869.6348
+   Original line: John Cash Head Coach john.cash@lmunet.edu 423.869.6348
+
+30. Hannah Moore
+   Email: hannah.moore@lmunet.edu
+   Username: hannah.moore
+   Original line: Hannah Moore Assistant Coach hannah.moore@lmunet.edu
+
+31. Andy Bricker
+   Email: andy.bricker@lmunet.edu
+   Username: andy.bricker
+   Phone: 423.869.6032
+   Original line: Andy Bricker Head Coach andy.bricker@lmunet.edu 423.869.6032
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Justin Haywood Head Coach justin.haywood@lmunet.edu 423.869.6798
+• Matt Thomas Associate Head Coach matt.thomas@lmunet.edu 423.869.6345
+• Mark Branz Pitching Coach mark.branz@lmunet.edu
+• Tony Jasick Head Coach anthony.jasick@lmunet.edu 423-869-
+• Kevin Reynolds Assistant Coach kevin.reynolds@lmunet.edu
+• Patrick Althoff Assistant Coach patrick.althoff@lmunet.edu
+• Lindal Yarbrough Assistant Coach lindal.yarbrough@lmunet.edu
+• Devan Carter Head Coach devan.carter@lmunet.edu 423.869.6781
+• Sydney Wilson Assistant Coach sydney.wilson@lmunet.edu 423.869.6374
+• Irelynn Davisson Assistant Coach Irelynn.davisson@lmunet.edu 423.869.7456
+• Keyanna Spivey Assistant Coach keyanna.spivey@lmunet.edu
+• Jeff Kavalunas Head Coach jeffrey.kavalunas@lmunet.edu 423.869.6228
+• Marnie Reidell Head Coach marnie.reidell@lmunet.edu
+• Brad Robinson Head Coach bradley.robinson@lmunet.edu 423.869.6092
+• Joe Wilson Head Coach joseph.wilson02@lmunet.edu 423.869.6079
+• Jeremy Kartel Associate Head Coach jeremy.kartel@lmunet.edu 423.869.6068
+• Alyssa Shaver Head Coach alyssa.shaver@lmunet.edu 423.869.6224
+• Rob Mirabile Assistant Coach robert.mirabile@lmunet.edu
+• Tom Gillette Head Coach thomas.gillette@lmunet.edu 423.869.6375
+• August Harp Assistant Coach august.harp@lmunet.edu
+• Tasha Flynn Head Coach tasha.flynn@lmunet.edu 423.869.6482
+• Megan Snider Assistant Coach megan.snider@lmunet.edu
+• Ritchie Richardson Head Coach ritchie.richardson@lmunet.edu 423.869.6476
+• Caitlin Gambone Assistant Coach caitlin.gambone@lmunet.edu
+• Rhileigh Alred Head Coach rhileigh.alred@lmunet.edu
+• Abraham Lascari Head Coach abraham.lascaridiaz@lmunet.edu 423.869.7080
+• Jeff Kavalunas Assistant Coach jeffrey.kavalunas@lmunet.edu 423.869.6228
+• Jacob Craig Interim Head Coach / Assistant Coach / Recruiting Coordinator jacob.craig@lmunet.edu
+• John Cash Head Coach john.cash@lmunet.edu 423.869.6348
+• Hannah Moore Assistant Coach hannah.moore@lmunet.edu
+• Andy Bricker Head Coach andy.bricker@lmunet.edu 423.869.6032

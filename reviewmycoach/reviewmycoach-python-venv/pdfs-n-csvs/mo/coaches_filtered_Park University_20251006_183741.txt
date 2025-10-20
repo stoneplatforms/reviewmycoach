@@ -1,0 +1,167 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:42
+============================================================
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Lindsey Derry
+   Email: lderry@park.edu
+   Username: lderry
+   Original line: Lindsey Derry Senior Woman Leader | Head Coach (816) 584- lderry@park.edu
+
+2. Adam Farm
+   Email: adam.farm@park.edu
+   Username: adam.farm
+   Original line: Adam Farm Head Esports Coach (816-584- adam.farm@park.edu
+
+3. Cary Lundy
+   Email: clundy@park.edu
+   Username: clundy
+   Original line: Cary Lundy Head Baseball Coach (816) 584- clundy@park.edu
+
+4. Bill Sobbe
+   Email: william.sobbe@park.edu
+   Username: william.sobbe
+   Original line: Bill Sobbe Assistant Coach william.sobbe@park.edu
+
+5. Adam Clay
+   Email: james.clay@park.edu
+   Username: james.clay
+   Original line: Adam Clay Assistant Coach james.clay@park.edu
+
+6. Augusto Hausmann
+   Email: Augusto.Hausmann@park.edu
+   Username: Augusto.Hausmann
+   Original line: Augusto Hausmann Assistant Coach (816) 681- Augusto.Hausmann@park.edu
+
+7. Cody Reynolds
+   Email: cody.reynolds@park.edu
+   Username: cody.reynolds
+   Original line: Cody Reynolds Assistant Coach cody.reynolds@park.edu
+
+8. Norman Kenneth
+   Email: norman.cooper@park.edu
+   Username: norman.cooper
+   Original line: Norman Kenneth Cooper Jr. Head Women's Basketball Coach (816) 584- norman.cooper@park.edu
+
+9. Antowin Edwards
+   Email: antowin.edwards92@gmail.com
+   Username: antowin.edwards92
+   Original line: Antowin Edwards Assistant Women's Basketball Coach antowin.edwards92@gmail.com
+
+10. Amanda Alexander
+   Email: amanda.alexander02@park.edu
+   Username: amanda.alexander02
+   Original line: Amanda Alexander Assistant Coach amanda.alexander02@park.edu
+
+11. Amanda Laurenceau
+   Email: Amanda.Laurenceau@park.edu
+   Username: Amanda.Laurenceau
+   Original line: Amanda Laurenceau Assistant Coach Amanda.Laurenceau@park.edu
+
+12. Jamal Butler
+   Email: jamal.butler@park.edu
+   Username: jamal.butler
+   Original line: Jamal Butler Assistant Track & Field Coach - Throwing jamal.butler@park.edu
+
+13. Ronald Stallard
+   Email: ronald.stallard@park.edu
+   Username: ronald.stallard
+   Original line: Ronald Stallard Assistant Coach ronald.stallard@park.edu
+
+14. Laura Padgett
+   Email: laura.padgett@park.edu
+   Username: laura.padgett
+   Original line: Laura Padgett Assistant Coach laura.padgett@park.edu
+
+15. Efrem Shimlis
+   Email: eshimlis@park.edu
+   Username: eshimlis
+   Original line: Efrem Shimlis Head Men's Soccer Coach (816) 584- eshimlis@park.edu
+
+16. Goran Karadjov
+   Email: goran.karadjov@park.edu
+   Username: goran.karadjov
+   Original line: Goran Karadjov Assistant Coach goran.karadjov@park.edu
+
+17. Ken Hefner
+   Email: ken.hefner@park.edu
+   Username: ken.hefner
+   Original line: Ken Hefner Head Women's Soccer Coach (816) 584- ken.hefner@park.edu
+
+18. Abdulhamid Zlitni
+   Email: azlitni@park.edu
+   Username: azlitni
+   Original line: Abdulhamid Zlitni Assistant Women's Soccer Coach azlitni@park.edu
+
+19. Lindsey Derry
+   Email: lderry@park.edu
+   Username: lderry
+   Original line: Lindsey Derry Senior Woman Leader | Head Coach (816) 584- lderry@park.edu
+
+20. Alyssa Ramirez
+   Email: alyssa.ramirez@park.edu
+   Username: alyssa.ramirez
+   Original line: Alyssa Ramirez Student Assistant Coach alyssa.ramirez@park.edu
+
+21. Luciano Bucci
+   Email: lbucci@park.edu
+   Username: lbucci
+   Original line: Luciano Bucci Assistant Coach lbucci@park.edu
+
+22. Izabella Ceratti
+   Email: izabella.ceratti@park.edu
+   Username: izabella.ceratti
+   Original line: Izabella Ceratti Associate Head Coach izabella.ceratti@park.edu
+
+23. Kaci Swank
+   Email: kcrabtree@park.edu
+   Username: kcrabtree
+   Original line: Kaci Swank Volunteer Assistant Coach kcrabtree@park.edu
+
+24. Martha Linscott
+   Email: martha.linscott@park.edu
+   Username: martha.linscott
+   Original line: Martha Linscott Head Golf Coach martha.linscott@park.edu
+
+25. Evan Scobie
+   Email: evan.scobie@park.edu
+   Username: evan.scobie
+   Original line: Evan Scobie Assistant Coach evan.scobie@park.edu
+
+26. Madalyn Coffman
+   Email: madalyn.coffman@park.edu
+   Username: madalyn.coffman
+   Original line: Madalyn Coffman Head Cheer Coach madalyn.coffman@park.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Lindsey Derry Senior Woman Leader | Head Coach (816) 584- lderry@park.edu
+• Adam Farm Head Esports Coach (816-584- adam.farm@park.edu
+• Cary Lundy Head Baseball Coach (816) 584- clundy@park.edu
+• Bill Sobbe Assistant Coach william.sobbe@park.edu
+• Adam Clay Assistant Coach james.clay@park.edu
+• Augusto Hausmann Assistant Coach (816) 681- Augusto.Hausmann@park.edu
+• Cody Reynolds Assistant Coach cody.reynolds@park.edu
+• Norman Kenneth Cooper Jr. Head Women's Basketball Coach (816) 584- norman.cooper@park.edu
+• Antowin Edwards Assistant Women's Basketball Coach antowin.edwards92@gmail.com
+• Amanda Alexander Assistant Coach amanda.alexander02@park.edu
+• Amanda Laurenceau Assistant Coach Amanda.Laurenceau@park.edu
+• Jamal Butler Assistant Track & Field Coach - Throwing jamal.butler@park.edu
+• Ronald Stallard Assistant Coach ronald.stallard@park.edu
+• Laura Padgett Assistant Coach laura.padgett@park.edu
+• Efrem Shimlis Head Men's Soccer Coach (816) 584- eshimlis@park.edu
+• Goran Karadjov Assistant Coach goran.karadjov@park.edu
+• Ken Hefner Head Women's Soccer Coach (816) 584- ken.hefner@park.edu
+• Abdulhamid Zlitni Assistant Women's Soccer Coach azlitni@park.edu
+• Lindsey Derry Senior Woman Leader | Head Coach (816) 584- lderry@park.edu
+• Alyssa Ramirez Student Assistant Coach alyssa.ramirez@park.edu
+• Luciano Bucci Assistant Coach lbucci@park.edu
+• Izabella Ceratti Associate Head Coach izabella.ceratti@park.edu
+• Kaci Swank Volunteer Assistant Coach kcrabtree@park.edu
+• Martha Linscott Head Golf Coach martha.linscott@park.edu
+• Evan Scobie Assistant Coach evan.scobie@park.edu
+• Madalyn Coffman Head Cheer Coach madalyn.coffman@park.edu

@@ -1,0 +1,371 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:42
+============================================================
+
+Total coaches found: 60
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jason Fast
+   Email: jason.fast@lawrence.edu
+   Username: jason.fast
+   Original line: Jason Fast Assistant Director of Athletics/Head Coach 920-832- jason.fast@lawrence.edu
+
+2. Trent Whitcomb
+   Email: trent.whitcomb@lawrence.edu
+   Username: trent.whitcomb
+   Original line: Trent Whitcomb Head Coach 920-832- trent.whitcomb@lawrence.edu
+
+3. Casey Korn
+   Email: casey.d.korn@lawrence.edu
+   Username: casey.d.korn
+   Original line: Casey Korn Head Coach 920-993- casey.d.korn@lawrence.edu
+
+4. Jerome Foster
+   Email: jerome.foster-harmon@lawrence.edu
+   Username: jerome.foster-harmon
+   Original line: Jerome Foster Assistant Men's Basketball Coach/Assistant Sports Information 920-832- jerome.foster-harmon@lawrence.edu
+
+5. Julian DeGuzman
+   Email: julian.a.deguzman@lawrence.edu
+   Username: julian.a.deguzman
+   Original line: Julian DeGuzman Assistant Coach 920-832- julian.a.deguzman@lawrence.edu
+
+6. Riley Woldt
+   Email: riley.l.woldt@lawrence.edu
+   Username: riley.l.woldt
+   Original line: Riley Woldt Head Coach 920-595- riley.l.woldt@lawrence.edu
+
+7. Spenser Hogg
+   Email: spenser.hogg@lawrence.edu
+   Username: spenser.hogg
+   Original line: Spenser Hogg Assistant Coach/Recruiting Coordinator 765-546- spenser.hogg@lawrence.edu
+
+8. Bri Hauge
+   Email: Brianna.Hauge@lawrence.edu
+   Username: Brianna.Hauge
+   Original line: Bri Hauge Assistant Coach 608-214- Brianna.Hauge@lawrence.edu
+
+9. Jason Fast
+   Email: jason.fast@lawrence.edu
+   Username: jason.fast
+   Original line: Jason Fast Assistant Director of Athletics/Head Coach 920-832- jason.fast@lawrence.edu
+
+10. Jason Fast
+   Email: jason.fast@lawrence.edu
+   Username: jason.fast
+   Original line: Jason Fast Assistant Director of Athletics/Head Coach 920-832- jason.fast@lawrence.edu
+
+11. Adam Gonzaga
+   Email: adam.l.gonzaga@lawrence.edu
+   Username: adam.l.gonzaga
+   Original line: Adam Gonzaga Head Coach 920-832- adam.l.gonzaga@lawrence.edu
+
+12. Dallas Dean
+   Email: dallas.dean@lawrence.edu
+   Username: dallas.dean
+   Original line: Dallas Dean Offensive Line Coach 920-832- dallas.dean@lawrence.edu
+
+13. Jamey Deckard
+   Email: christopher.deckard@lawrence.edu
+   Username: christopher.deckard
+   Original line: Jamey Deckard Linebackers Coach 920-832- christopher.deckard@lawrence.edu
+
+14. Craig Ebert
+   Email: craig.j.ebert@lawrence.edu
+   Username: craig.j.ebert
+   Original line: Craig Ebert Running Backs Coach craig.j.ebert@lawrence.edu
+
+15. Chris Immediato
+   Email: christopher.d.immediato@lawrence.edu
+   Username: christopher.d.immediato
+   Original line: Chris Immediato Defensive Ends Coach christopher.d.immediato@lawrence.edu
+
+16. Ryan Napralla
+   Email: ryan.g.napralla@lawrence.edu
+   Username: ryan.g.napralla
+   Original line: Ryan Napralla Defensive Line Coach ryan.g.napralla@lawrence.edu
+
+17. Marquel Willis
+   Email: marquel.d.willis@lawrence.edu
+   Username: marquel.d.willis
+   Original line: Marquel Willis Wide Receivers Coach marquel.d.willis@lawrence.edu
+
+18. Shel Watson
+   Email: sheldon.m.watson@lawrence.edu
+   Username: sheldon.m.watson
+   Original line: Shel Watson Student Assistant Coach/Defensive Backs sheldon.m.watson@lawrence.edu
+
+19. Eric Momberg
+   Email: eric.s.momberg@lawrence.edu
+   Username: eric.s.momberg
+   Original line: Eric Momberg Head Coach 920-832- eric.s.momberg@lawrence.edu
+
+20. Yasmany Diaz
+   Email: yasmany.e.diaz@lawrence.edu
+   Username: yasmany.e.diaz
+   Original line: Yasmany Diaz Assistant Coach 920-832- yasmany.e.diaz@lawrence.edu
+
+21. Diane Momberg
+   Email: diane.momberg@lawrence.edu
+   Username: diane.momberg
+   Original line: Diane Momberg Assistant Coach diane.momberg@lawrence.edu
+
+22. Carter Robinson
+   Email: carter.robinson@lawrence.edu
+   Username: carter.robinson
+   Original line: Carter Robinson Volunteer Assistant Coach 920-832- carter.robinson@lawrence.edu
+
+23. Eric Momberg
+   Email: eric.s.momberg@lawrence.edu
+   Username: eric.s.momberg
+   Original line: Eric Momberg Head Coach 920-832- eric.s.momberg@lawrence.edu
+
+24. Yasmany Diaz
+   Email: yasmany.e.diaz@lawrence.edu
+   Username: yasmany.e.diaz
+   Original line: Yasmany Diaz Assistant Coach 920-832- yasmany.e.diaz@lawrence.edu
+
+25. Diane Momberg
+   Email: diane.momberg@lawrence.edu
+   Username: diane.momberg
+   Original line: Diane Momberg Assistant Coach diane.momberg@lawrence.edu
+
+26. Carter Robinson
+   Email: carter.robinson@lawrence.edu
+   Username: carter.robinson
+   Original line: Carter Robinson Volunteer Assistant Coach 920-832- carter.robinson@lawrence.edu
+
+27. Rylee Orr
+   Email: rylee.orr@lawrence.edu
+   Username: rylee.orr
+   Original line: Rylee Orr Head Coach 920-832- rylee.orr@lawrence.edu
+
+28. Christian Vivian
+   Email: christian.t.vivian@lawrence.edu
+   Username: christian.t.vivian
+   Original line: Christian Vivian Assistant Coach christian.t.vivian@lawrence.edu
+
+29. Connor Zilisch
+   Email: luvikingsmlax@lawrence.edu
+   Username: luvikingsmlax
+   Original line: Connor Zilisch Assistant Coach luvikingsmlax@lawrence.edu
+
+30. Greg Moore
+   Email: gregory.m.moore@lawrence.edu
+   Username: gregory.m.moore
+   Original line: Greg Moore Head Coach gregory.m.moore@lawrence.edu
+
+31. Emily Bauer
+   Email: emily.bauer@lawrence.edu
+   Username: emily.bauer
+   Original line: Emily Bauer Assistant Coach emily.bauer@lawrence.edu
+
+32. James Schroeder
+   Email: james.r.schroeder@lawrence.edu
+   Username: james.r.schroeder
+   Original line: James Schroeder Goaltender Coach james.r.schroeder@lawrence.edu
+
+33. Kasey Burst
+   Email: kasey.j.burst@lawrence.edu
+   Username: kasey.j.burst
+   Original line: Kasey Burst Head Coach kasey.j.burst@lawrence.edu
+
+34. Melissa Cartagena
+   Email: melissa.cartagena@lawrence.edu
+   Username: melissa.cartagena
+   Original line: Melissa Cartagena Head Coach melissa.cartagena@lawrence.edu
+
+35. Will Greer
+   Email: will.greer@lawrence.edu
+   Username: will.greer
+   Original line: Will Greer Head Coach 920-832- will.greer@lawrence.edu
+
+36. Alex Liddell
+   Email: alexander.c.liddell@lawrence.edu
+   Username: alexander.c.liddell
+   Original line: Alex Liddell Assistant Coach alexander.c.liddell@lawrence.edu
+
+37. Patrick Birder
+   Email: patrick.birder@lawrence.edu
+   Username: patrick.birder
+   Original line: Patrick Birder Assistant Coach patrick.birder@lawrence.edu
+
+38. Joe Sagar
+   Email: joe.g.sagar@lawrence.edu
+   Username: joe.g.sagar
+   Original line: Joe Sagar Head Coach 920-832- joe.g.sagar@lawrence.edu
+
+39. Hope Wreath
+   Email: hope.h.wreath@lawrence.edu
+   Username: hope.h.wreath
+   Original line: Hope Wreath Assistant Coach hope.h.wreath@lawrence.edu
+
+40. Shayni Paul
+   Email: shayni.paul@lawrence.edu
+   Username: shayni.paul
+   Original line: Shayni Paul Assistant Coach shayni.paul@lawrence.edu
+
+41. Korey Krueger
+   Email: korey.j.krueger@lawrence.edu
+   Username: korey.j.krueger
+   Original line: Korey Krueger Head Coach 920-832- korey.j.krueger@lawrence.edu
+
+42. Tony Krueger
+   Email: anthony.d.krueger@lawrence.edu
+   Username: anthony.d.krueger
+   Original line: Tony Krueger Assistant Coach anthony.d.krueger@lawrence.edu
+
+43. Eric Schacht
+   Email: eric.schacht@lawrence.edu
+   Username: eric.schacht
+   Original line: Eric Schacht Head Coach 920-832- eric.schacht@lawrence.edu
+
+44. Linda Evans
+   Email: linda.evans@lawrence.edu
+   Username: linda.evans
+   Original line: Linda Evans Assistant Coach linda.evans@lawrence.edu
+
+45. Eric Schacht
+   Email: eric.schacht@lawrence.edu
+   Username: eric.schacht
+   Original line: Eric Schacht Head Coach 920-832- eric.schacht@lawrence.edu
+
+46. Linda Evans
+   Email: linda.evans@lawrence.edu
+   Username: linda.evans
+   Original line: Linda Evans Assistant Coach linda.evans@lawrence.edu
+
+47. Jeff Van
+   Email: jeff.vanlannen@lawrence.edu
+   Username: jeff.vanlannen
+   Original line: Jeff Van Lannen Head Coach 920-832- jeff.vanlannen@lawrence.edu
+
+48. Emma Kane
+   Email: emma.l.kane@lawrence.edu
+   Username: emma.l.kane
+   Original line: Emma Kane Associate Head Coach emma.l.kane@lawrence.edu
+
+49. Jody Riskowski
+   Email: jody.riskowski@lawrence.edu
+   Username: jody.riskowski
+   Original line: Jody Riskowski Head Coach 920-832- jody.riskowski@lawrence.edu
+
+50. Rhett Wisener
+   Email: james.wisener@lawrence.edu
+   Username: james.wisener
+   Original line: Rhett Wisener Assistant Coach 920-832- james.wisener@lawrence.edu
+
+51. Jody Riskowski
+   Email: jody.riskowski@lawrence.edu
+   Username: jody.riskowski
+   Original line: Jody Riskowski Head Coach 920-832- jody.riskowski@lawrence.edu
+
+52. Rhett Wisener
+   Email: james.wisener@lawrence.edu
+   Username: james.wisener
+   Original line: Rhett Wisener Assistant Coach 920-832- james.wisener@lawrence.edu
+
+53. Elizabeth Krug
+   Email: elizabeth.r.krug@lawrence.edu
+   Username: elizabeth.r.krug
+   Original line: Elizabeth Krug Head Coach 920-832- elizabeth.r.krug@lawrence.edu
+
+54. Jason Fast
+   Email: jason.fast@lawrence.edu
+   Username: jason.fast
+   Original line: Jason Fast Assistant Coach 920-832- jason.fast@lawrence.edu
+
+55. Abby Martin
+   Email: abigail.m.martin@lawrence.edu
+   Username: abigail.m.martin
+   Original line: Abby Martin Assistant Coach/Throws abigail.m.martin@lawrence.edu
+
+56. Robby Cicciarelli
+   Email: robby.cicciarelli@lawrence.edu
+   Username: robby.cicciarelli
+   Original line: Robby Cicciarelli Assistant Coach/High Jump and Hurdles robby.cicciarelli@lawrence.edu
+
+57. Elizabeth Krug
+   Email: elizabeth.r.krug@lawrence.edu
+   Username: elizabeth.r.krug
+   Original line: Elizabeth Krug Head Coach 920-832- elizabeth.r.krug@lawrence.edu
+
+58. Jason Fast
+   Email: jason.fast@lawrence.edu
+   Username: jason.fast
+   Original line: Jason Fast Assistant Coach 920-832- jason.fast@lawrence.edu
+
+59. Abby Martin
+   Email: abigail.m.martin@lawrence.edu
+   Username: abigail.m.martin
+   Original line: Abby Martin Assistant Coach/Throws abigail.m.martin@lawrence.edu
+
+60. Robby Cicciarelli
+   Email: robby.cicciarelli@lawrence.edu
+   Username: robby.cicciarelli
+   Original line: Robby Cicciarelli Assistant Coach/High Jump and Hurdles robby.cicciarelli@lawrence.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jason Fast Assistant Director of Athletics/Head Coach 920-832- jason.fast@lawrence.edu
+• Trent Whitcomb Head Coach 920-832- trent.whitcomb@lawrence.edu
+• Casey Korn Head Coach 920-993- casey.d.korn@lawrence.edu
+• Jerome Foster Assistant Men's Basketball Coach/Assistant Sports Information 920-832- jerome.foster-harmon@lawrence.edu
+• Julian DeGuzman Assistant Coach 920-832- julian.a.deguzman@lawrence.edu
+• Riley Woldt Head Coach 920-595- riley.l.woldt@lawrence.edu
+• Spenser Hogg Assistant Coach/Recruiting Coordinator 765-546- spenser.hogg@lawrence.edu
+• Bri Hauge Assistant Coach 608-214- Brianna.Hauge@lawrence.edu
+• Jason Fast Assistant Director of Athletics/Head Coach 920-832- jason.fast@lawrence.edu
+• Jason Fast Assistant Director of Athletics/Head Coach 920-832- jason.fast@lawrence.edu
+• Adam Gonzaga Head Coach 920-832- adam.l.gonzaga@lawrence.edu
+• Dallas Dean Offensive Line Coach 920-832- dallas.dean@lawrence.edu
+• Jamey Deckard Linebackers Coach 920-832- christopher.deckard@lawrence.edu
+• Craig Ebert Running Backs Coach craig.j.ebert@lawrence.edu
+• Chris Immediato Defensive Ends Coach christopher.d.immediato@lawrence.edu
+• Ryan Napralla Defensive Line Coach ryan.g.napralla@lawrence.edu
+• Marquel Willis Wide Receivers Coach marquel.d.willis@lawrence.edu
+• Shel Watson Student Assistant Coach/Defensive Backs sheldon.m.watson@lawrence.edu
+• Eric Momberg Head Coach 920-832- eric.s.momberg@lawrence.edu
+• Yasmany Diaz Assistant Coach 920-832- yasmany.e.diaz@lawrence.edu
+• Diane Momberg Assistant Coach diane.momberg@lawrence.edu
+• Carter Robinson Volunteer Assistant Coach 920-832- carter.robinson@lawrence.edu
+• Eric Momberg Head Coach 920-832- eric.s.momberg@lawrence.edu
+• Yasmany Diaz Assistant Coach 920-832- yasmany.e.diaz@lawrence.edu
+• Diane Momberg Assistant Coach diane.momberg@lawrence.edu
+• Carter Robinson Volunteer Assistant Coach 920-832- carter.robinson@lawrence.edu
+• Rylee Orr Head Coach 920-832- rylee.orr@lawrence.edu
+• Christian Vivian Assistant Coach christian.t.vivian@lawrence.edu
+• Connor Zilisch Assistant Coach luvikingsmlax@lawrence.edu
+• Greg Moore Head Coach gregory.m.moore@lawrence.edu
+• Emily Bauer Assistant Coach emily.bauer@lawrence.edu
+• James Schroeder Goaltender Coach james.r.schroeder@lawrence.edu
+• Kasey Burst Head Coach kasey.j.burst@lawrence.edu
+• Melissa Cartagena Head Coach melissa.cartagena@lawrence.edu
+• Will Greer Head Coach 920-832- will.greer@lawrence.edu
+• Alex Liddell Assistant Coach alexander.c.liddell@lawrence.edu
+• Patrick Birder Assistant Coach patrick.birder@lawrence.edu
+• Joe Sagar Head Coach 920-832- joe.g.sagar@lawrence.edu
+• Hope Wreath Assistant Coach hope.h.wreath@lawrence.edu
+• Shayni Paul Assistant Coach shayni.paul@lawrence.edu
+• Korey Krueger Head Coach 920-832- korey.j.krueger@lawrence.edu
+• Tony Krueger Assistant Coach anthony.d.krueger@lawrence.edu
+• Eric Schacht Head Coach 920-832- eric.schacht@lawrence.edu
+• Linda Evans Assistant Coach linda.evans@lawrence.edu
+• Eric Schacht Head Coach 920-832- eric.schacht@lawrence.edu
+• Linda Evans Assistant Coach linda.evans@lawrence.edu
+• Jeff Van Lannen Head Coach 920-832- jeff.vanlannen@lawrence.edu
+• Emma Kane Associate Head Coach emma.l.kane@lawrence.edu
+• Jody Riskowski Head Coach 920-832- jody.riskowski@lawrence.edu
+• Rhett Wisener Assistant Coach 920-832- james.wisener@lawrence.edu
+• Jody Riskowski Head Coach 920-832- jody.riskowski@lawrence.edu
+• Rhett Wisener Assistant Coach 920-832- james.wisener@lawrence.edu
+• Elizabeth Krug Head Coach 920-832- elizabeth.r.krug@lawrence.edu
+• Jason Fast Assistant Coach 920-832- jason.fast@lawrence.edu
+• Abby Martin Assistant Coach/Throws abigail.m.martin@lawrence.edu
+• Robby Cicciarelli Assistant Coach/High Jump and Hurdles robby.cicciarelli@lawrence.edu
+• Elizabeth Krug Head Coach 920-832- elizabeth.r.krug@lawrence.edu
+• Jason Fast Assistant Coach 920-832- jason.fast@lawrence.edu
+• Abby Martin Assistant Coach/Throws abigail.m.martin@lawrence.edu
+• Robby Cicciarelli Assistant Coach/High Jump and Hurdles robby.cicciarelli@lawrence.edu

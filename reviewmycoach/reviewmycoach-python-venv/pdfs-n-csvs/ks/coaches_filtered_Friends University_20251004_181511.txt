@@ -1,0 +1,403 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:11
+============================================================
+
+Total coaches found: 61
+
+PARSED ENTRIES:
+----------------------------------------
+1. Suzanne Unruh
+   Email: suzanne_unruh@friends.edu
+   Username: suzanne_unruh
+   Phone: (316) 295-5763
+   Original line: Suzanne Unruh Head Softball Coach | Senior Women's Leader 316-295-5763 suzanne_unruh@friends.edu
+
+2. Austin Zaring
+   Email: austin_zaring@friends.edu
+   Username: austin_zaring
+   Original line: Austin Zaring Head Coach austin_zaring@friends.edu
+
+3. Tyler Mies
+   Email: tyler_mies@friends.edu
+   Username: tyler_mies
+   Phone: (316) 295-5701
+   Original line: Tyler Mies Head Coach 316-295-5701 tyler_mies@friends.edu
+
+4. Cade Lindsey
+   Email: cade_lindsey@friends.edu
+   Username: cade_lindsey
+   Original line: Cade Lindsey Assistant Coach cade_lindsey@friends.edu
+
+5. Kate Jones
+   Email: kati_jones@friends.edu
+   Username: kati_jones
+   Phone: (316) 295-5615
+   Original line: Kate Jones Head Coach/NAIA Champions of Character 316-295-5615 kati_jones@friends.edu
+
+6. Kate Jones
+   Email: kati_jones@friends.edu
+   Username: kati_jones
+   Phone: (316) 295-5615
+   Original line: Kate Jones Head Coach/NAIA Champions of Character 316-295-5615 kati_jones@friends.edu
+
+7. Joshua Johnson
+   Email: joshua_johnson@friends.edu
+   Username: joshua_johnson
+   Phone: (316) 295-5653
+   Original line: Joshua Johnson Head Coach 316-295-5653 joshua_johnson@friends.edu
+
+8. Taylor Stuchlik
+   Email: taylor_staley@friends.edu
+   Username: taylor_staley
+   Original line: Taylor Stuchlik Head Dance Coach/Assistant Cheer Coach taylor_staley@friends.edu
+
+9. Adam Neisius
+   Email: adam_neisius@friends.edu
+   Username: adam_neisius
+   Phone: (316) 295-5769
+   Original line: Adam Neisius Head Coach 316-295-5769 adam_neisius@friends.edu
+
+10. Kevin Frady
+   Email: kevin_frady@friends.edu
+   Username: kevin_frady
+   Original line: Kevin Frady Assistant Coach kevin_frady@friends.edu
+
+11. Phil McClintock
+   Email: philip_mcclintock@friends.edu
+   Username: philip_mcclintock
+   Phone: (316) 295-5932
+   Original line: Phil McClintock Head Coach 316-295-5932 philip_mcclintock@friends.edu
+
+12. Chris Tyler
+   Email: chris_tyler@student.friends.edu
+   Username: chris_tyler
+   Original line: Chris Tyler Graduate Assistant Intern Coach chris_tyler@student.friends.edu
+
+13. Quintin Brown
+   Email: quintin_brown@student.friends.edu
+   Username: quintin_brown
+   Original line: Quintin Brown Student Assistant Coach/Social Media Director quintin_brown@student.friends.edu
+
+14. Dean Jaderston
+   Email: dean_jaderston@friends.edu
+   Username: dean_jaderston
+   Phone: (316) 295-5613
+   Original line: Dean Jaderston Head Coach 316-295-5613 dean_jaderston@friends.edu
+
+15. Holly Smith
+   Email: holly_smith1@friends.edu
+   Username: holly_smith1
+   Phone: (316) 295-5613
+   Original line: Holly Smith Assistant Coach 316-295-5613 holly_smith1@friends.edu
+
+16. Terrence Phox
+   Email: Terrence_phox@friends.edu
+   Username: Terrence_phox
+   Phone: (316) 295-5613
+   Original line: Terrence Phox Assistant Coach 316-295-5613 Terrence_phox@friends.edu
+
+17. Aniya Bell
+   Email: aniya_bell@student.friends.edu
+   Username: aniya_bell
+   Original line: Aniya Bell Graduate Assistant Intern Coach aniya_bell@student.friends.edu
+
+18. Tracy Jex
+   Email: tracy_jex@friends.edu
+   Username: tracy_jex
+   Original line: Tracy Jex Head Cross Country Coach/Assistant Track & tracy_jex@friends.edu
+
+19. McKenna Laing
+   Email: mckenna_laing@student.friends.edu
+   Username: mckenna_laing
+   Original line: McKenna Laing Graduate Assistant Intern Coach mckenna_laing@student.friends.edu
+
+20. Tracy Jex
+   Email: tracy_jex@friends.edu
+   Username: tracy_jex
+   Original line: Tracy Jex Head Cross Country Coach/Assistant Track & tracy_jex@friends.edu
+
+21. McKenna Laing
+   Email: mckenna_laing@student.friends.edu
+   Username: mckenna_laing
+   Original line: McKenna Laing Graduate Assistant Intern Coach mckenna_laing@student.friends.edu
+
+22. Terry Harrison
+   Email: terry_harrison@friends.edu
+   Username: terry_harrison
+   Phone: (316) 295-5605
+   Original line: Terry Harrison Head Coach/Offensive Line 316-295-5605 terry_harrison@friends.edu
+
+23. Mason Murray
+   Email: mason_murray@friends.edu
+   Username: mason_murray
+   Phone: (316) 295-5605
+   Original line: Mason Murray Assistant Coach 316-295-5605 mason_murray@friends.edu
+
+24. Dalton Phillips
+   Email: dalton_phillips@student.friends.edu
+   Username: dalton_phillips
+   Original line: Dalton Phillips Graduate Assistant Intern Coach dalton_phillips@student.friends.edu
+
+25. Jett Cheatham
+   Email: jarrett_cheatham@student.friends.edu
+   Username: jarrett_cheatham
+   Original line: Jett Cheatham Graduate Assistant Intern Coach jarrett_cheatham@student.friends.edu
+
+26. Dustin Galyon
+   Email: dustin_galyon@friends.edu
+   Username: dustin_galyon
+   Phone: (316) 295-5011
+   Original line: Dustin Galyon Director of Golf & Men's Golf Coach 316-295-5011 dustin_galyon@friends.edu
+
+27. Bryan Perez
+   Email: bryan_perez@friends.edu
+   Username: bryan_perez
+   Phone: (316) 295-5738
+   Original line: Bryan Perez Head Coach 316-295-5738 bryan_perez@friends.edu
+
+28. Mauricio Vargas
+   Email: mauricio_vargas@friends.edu
+   Username: mauricio_vargas
+   Original line: Mauricio Vargas Assistant Coach mauricio_vargas@friends.edu
+
+29. Luke Mills
+   Email: luke_mills@friends.edu
+   Username: luke_mills
+   Original line: Luke Mills Assistant Coach luke_mills@friends.edu
+
+30. Callahan Riley
+   Email: callahan_riley@student.friends.edu
+   Username: callahan_riley
+   Original line: Callahan Riley Graduate Assistant Intern Coach callahan_riley@student.friends.edu
+
+31. Brent Hobson
+   Email: hobson@friends.edu
+   Username: hobson
+   Phone: (316) 295-5185
+   Original line: Brent Hobson Head Coach 316-295-5185 hobson@friends.edu
+
+32. Taylor Henry
+   Email: taylor_henry@friends.edu
+   Username: taylor_henry
+   Phone: (316) 295-5185
+   Original line: Taylor Henry Assistant Coach 316-295-5185 taylor_henry@friends.edu
+
+33. Colby Swift
+   Email: colby_swift@student.friends.edu
+   Username: colby_swift
+   Phone: (316) 295-5185
+   Original line: Colby Swift Goalkeeper Coach 316-295-5185 colby_swift@student.friends.edu
+
+34. Suzanne Unruh
+   Email: suzanne_unruh@friends.edu
+   Username: suzanne_unruh
+   Phone: (316) 295-5763
+   Original line: Suzanne Unruh Head Softball Coach | Senior Women's Leader 316-295-5763 suzanne_unruh@friends.edu
+
+35. Brady Walker
+   Email: duckdog@sutv.com
+   Username: duckdog
+   Original line: Brady Walker Assistant Coach duckdog@sutv.com
+
+36. Alex Lee
+   Email: alexander_lee1@friends.edu
+   Username: alexander_lee1
+   Phone: (316) 295-5135
+   Original line: Alex Lee Head Coach 316-295-5135 alexander_lee1@friends.edu
+
+37. Enric Galan
+   Email: enricgalangarcia@student.friends.edu
+   Username: enricgalangarcia
+   Original line: Enric Galan Graduate Assistant Intern Coach enricgalangarcia@student.friends.edu
+
+38. Alex Lee
+   Email: alexander_lee1@friends.edu
+   Username: alexander_lee1
+   Phone: (316) 295-5135
+   Original line: Alex Lee Head Coach 316-295-5135 alexander_lee1@friends.edu
+
+39. Enric Galan
+   Email: enricgalangarcia@student.friends.edu
+   Username: enricgalangarcia
+   Original line: Enric Galan Graduate Assistant Intern Coach enricgalangarcia@student.friends.edu
+
+40. Henry Brun
+   Email: henry_brun@friends.edu
+   Username: henry_brun
+   Phone: (316) 295-5620
+   Original line: Henry Brun Head Coach 316-295-5620 henry_brun@friends.edu
+
+41. Trevor Biedron
+   Email: trevor_biedron@friends.edu
+   Username: trevor_biedron
+   Original line: Trevor Biedron Assistant Coach trevor_biedron@friends.edu
+
+42. Tracy Jex
+   Email: tracy_jex@friends.edu
+   Username: tracy_jex
+   Original line: Tracy Jex Head Cross Country Coach/Assistant Track & tracy_jex@friends.edu
+
+43. McKenna Laing
+   Email: mckenna_laing@student.friends.edu
+   Username: mckenna_laing
+   Original line: McKenna Laing Graduate Assistant Intern Coach mckenna_laing@student.friends.edu
+
+44. Henry Brun
+   Email: henry_brun@friends.edu
+   Username: henry_brun
+   Phone: (316) 295-5620
+   Original line: Henry Brun Head Coach 316-295-5620 henry_brun@friends.edu
+
+45. Trevor Biedron
+   Email: trevor_biedron@friends.edu
+   Username: trevor_biedron
+   Original line: Trevor Biedron Assistant Coach trevor_biedron@friends.edu
+
+46. Tracy Jex
+   Email: tracy_jex@friends.edu
+   Username: tracy_jex
+   Original line: Tracy Jex Head Cross Country Coach/Assistant Track & tracy_jex@friends.edu
+
+47. McKenna Laing
+   Email: mckenna_laing@student.friends.edu
+   Username: mckenna_laing
+   Original line: McKenna Laing Graduate Assistant Intern Coach mckenna_laing@student.friends.edu
+
+48. Henry Brun
+   Email: henry_brun@friends.edu
+   Username: henry_brun
+   Phone: (316) 295-5620
+   Original line: Henry Brun Head Coach 316-295-5620 henry_brun@friends.edu
+
+49. Trevor Biedron
+   Email: trevor_biedron@friends.edu
+   Username: trevor_biedron
+   Original line: Trevor Biedron Assistant Coach trevor_biedron@friends.edu
+
+50. Tracy Jex
+   Email: tracy_jex@friends.edu
+   Username: tracy_jex
+   Original line: Tracy Jex Head Cross Country Coach/Assistant Track & tracy_jex@friends.edu
+
+51. McKenna Laing
+   Email: mckenna_laing@student.friends.edu
+   Username: mckenna_laing
+   Original line: McKenna Laing Graduate Assistant Intern Coach mckenna_laing@student.friends.edu
+
+52. Henry Brun
+   Email: henry_brun@friends.edu
+   Username: henry_brun
+   Phone: (316) 295-5620
+   Original line: Henry Brun Head Coach 316-295-5620 henry_brun@friends.edu
+
+53. Trevor Biedron
+   Email: trevor_biedron@friends.edu
+   Username: trevor_biedron
+   Original line: Trevor Biedron Assistant Coach trevor_biedron@friends.edu
+
+54. Tracy Jex
+   Email: tracy_jex@friends.edu
+   Username: tracy_jex
+   Original line: Tracy Jex Head Cross Country Coach/Assistant Track & tracy_jex@friends.edu
+
+55. McKenna Laing
+   Email: mckenna_laing@student.friends.edu
+   Username: mckenna_laing
+   Original line: McKenna Laing Graduate Assistant Intern Coach mckenna_laing@student.friends.edu
+
+56. Martin Ayin
+   Email: ayin@friends.edu
+   Username: ayin
+   Phone: (316) 295-5919
+   Original line: Martin Ayin Head Coach 316-295-5919 ayin@friends.edu
+
+57. David Sasson
+   Email: david_sasson@friends.edu
+   Username: david_sasson
+   Phone: (316) 295-5919
+   Original line: David Sasson Assistant Coach 316-295-5919 david_sasson@friends.edu
+
+58. Lauren McCreary
+   Email: lauren_mccreary@student.friends.edu
+   Username: lauren_mccreary
+   Original line: Lauren McCreary Graduate Assistant Intern Coach lauren_mccreary@student.friends.edu
+
+59. Scott Moshier
+   Email: scott_moshier@friends.edu
+   Username: scott_moshier
+   Original line: Scott Moshier Head Coach scott_moshier@friends.edu
+
+60. Paige Barnes
+   Email: paige_barnes@student.friends.edu
+   Username: paige_barnes
+   Original line: Paige Barnes Graduate Assistant Intern Coach paige_barnes@student.friends.edu
+
+61. Taylor Stuchlik
+   Email: taylor_staley@friends.edu
+   Username: taylor_staley
+   Original line: Taylor Stuchlik Head Dance Coach/Assistant Cheer Coach taylor_staley@friends.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Suzanne Unruh Head Softball Coach | Senior Women's Leader 316-295-5763 suzanne_unruh@friends.edu
+• Austin Zaring Head Coach austin_zaring@friends.edu
+• Tyler Mies Head Coach 316-295-5701 tyler_mies@friends.edu
+• Cade Lindsey Assistant Coach cade_lindsey@friends.edu
+• Kate Jones Head Coach/NAIA Champions of Character 316-295-5615 kati_jones@friends.edu
+• Kate Jones Head Coach/NAIA Champions of Character 316-295-5615 kati_jones@friends.edu
+• Joshua Johnson Head Coach 316-295-5653 joshua_johnson@friends.edu
+• Taylor Stuchlik Head Dance Coach/Assistant Cheer Coach taylor_staley@friends.edu
+• Adam Neisius Head Coach 316-295-5769 adam_neisius@friends.edu
+• Kevin Frady Assistant Coach kevin_frady@friends.edu
+• Phil McClintock Head Coach 316-295-5932 philip_mcclintock@friends.edu
+• Chris Tyler Graduate Assistant Intern Coach chris_tyler@student.friends.edu
+• Quintin Brown Student Assistant Coach/Social Media Director quintin_brown@student.friends.edu
+• Dean Jaderston Head Coach 316-295-5613 dean_jaderston@friends.edu
+• Holly Smith Assistant Coach 316-295-5613 holly_smith1@friends.edu
+• Terrence Phox Assistant Coach 316-295-5613 Terrence_phox@friends.edu
+• Aniya Bell Graduate Assistant Intern Coach aniya_bell@student.friends.edu
+• Tracy Jex Head Cross Country Coach/Assistant Track & tracy_jex@friends.edu
+• McKenna Laing Graduate Assistant Intern Coach mckenna_laing@student.friends.edu
+• Tracy Jex Head Cross Country Coach/Assistant Track & tracy_jex@friends.edu
+• McKenna Laing Graduate Assistant Intern Coach mckenna_laing@student.friends.edu
+• Terry Harrison Head Coach/Offensive Line 316-295-5605 terry_harrison@friends.edu
+• Mason Murray Assistant Coach 316-295-5605 mason_murray@friends.edu
+• Dalton Phillips Graduate Assistant Intern Coach dalton_phillips@student.friends.edu
+• Jett Cheatham Graduate Assistant Intern Coach jarrett_cheatham@student.friends.edu
+• Dustin Galyon Director of Golf & Men's Golf Coach 316-295-5011 dustin_galyon@friends.edu
+• Bryan Perez Head Coach 316-295-5738 bryan_perez@friends.edu
+• Mauricio Vargas Assistant Coach mauricio_vargas@friends.edu
+• Luke Mills Assistant Coach luke_mills@friends.edu
+• Callahan Riley Graduate Assistant Intern Coach callahan_riley@student.friends.edu
+• Brent Hobson Head Coach 316-295-5185 hobson@friends.edu
+• Taylor Henry Assistant Coach 316-295-5185 taylor_henry@friends.edu
+• Colby Swift Goalkeeper Coach 316-295-5185 colby_swift@student.friends.edu
+• Suzanne Unruh Head Softball Coach | Senior Women's Leader 316-295-5763 suzanne_unruh@friends.edu
+• Brady Walker Assistant Coach duckdog@sutv.com
+• Alex Lee Head Coach 316-295-5135 alexander_lee1@friends.edu
+• Enric Galan Graduate Assistant Intern Coach enricgalangarcia@student.friends.edu
+• Alex Lee Head Coach 316-295-5135 alexander_lee1@friends.edu
+• Enric Galan Graduate Assistant Intern Coach enricgalangarcia@student.friends.edu
+• Henry Brun Head Coach 316-295-5620 henry_brun@friends.edu
+• Trevor Biedron Assistant Coach trevor_biedron@friends.edu
+• Tracy Jex Head Cross Country Coach/Assistant Track & tracy_jex@friends.edu
+• McKenna Laing Graduate Assistant Intern Coach mckenna_laing@student.friends.edu
+• Henry Brun Head Coach 316-295-5620 henry_brun@friends.edu
+• Trevor Biedron Assistant Coach trevor_biedron@friends.edu
+• Tracy Jex Head Cross Country Coach/Assistant Track & tracy_jex@friends.edu
+• McKenna Laing Graduate Assistant Intern Coach mckenna_laing@student.friends.edu
+• Henry Brun Head Coach 316-295-5620 henry_brun@friends.edu
+• Trevor Biedron Assistant Coach trevor_biedron@friends.edu
+• Tracy Jex Head Cross Country Coach/Assistant Track & tracy_jex@friends.edu
+• McKenna Laing Graduate Assistant Intern Coach mckenna_laing@student.friends.edu
+• Henry Brun Head Coach 316-295-5620 henry_brun@friends.edu
+• Trevor Biedron Assistant Coach trevor_biedron@friends.edu
+• Tracy Jex Head Cross Country Coach/Assistant Track & tracy_jex@friends.edu
+• McKenna Laing Graduate Assistant Intern Coach mckenna_laing@student.friends.edu
+• Martin Ayin Head Coach 316-295-5919 ayin@friends.edu
+• David Sasson Assistant Coach 316-295-5919 david_sasson@friends.edu
+• Lauren McCreary Graduate Assistant Intern Coach lauren_mccreary@student.friends.edu
+• Scott Moshier Head Coach scott_moshier@friends.edu
+• Paige Barnes Graduate Assistant Intern Coach paige_barnes@student.friends.edu
+• Taylor Stuchlik Head Dance Coach/Assistant Cheer Coach taylor_staley@friends.edu

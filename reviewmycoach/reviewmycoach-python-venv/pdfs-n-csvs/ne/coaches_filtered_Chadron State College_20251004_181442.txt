@@ -1,0 +1,161 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:42
+============================================================
+
+Total coaches found: 25
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chase McLendon
+   Email: cmclendon@csc.edu
+   Username: cmclendon
+   Original line: Chase McLendon Assistant Director - Strength cmclendon@csc.edu 308-432- Coach_Mick_
+
+2. Kyle Shirley
+   Email: kyle.shirley@eagles.csc.edu
+   Username: kyle.shirley
+   Original line: Kyle Shirley Coaching Assistant - kyle.shirley@eagles.csc.edu
+
+3. Carter Devine
+   Email: cdevinebillen@csc.edu
+   Username: cdevinebillen
+   Original line: Carter Devine Assistant Coach cdevinebillen@csc.edu
+
+4. Romola Dominguez
+   Email: rdominguez@csc.edu
+   Username: rdominguez
+   Original line: Romola Dominguez Assistant Coach rdominguez@csc.edu
+
+5. Sydney Gwerder
+   Email: sgwerder@csc.edu
+   Username: sgwerder
+   Original line: Sydney Gwerder Head Spirit Coach sgwerder@csc.edu 308-432-
+
+6. Jay Long
+   Email: jlong@csc.edu
+   Username: jlong
+   Original line: Jay Long Head Football Coach jlong@csc.edu 308-432- CoachJayLong OL
+
+7. Clint Sasse
+   Email: csasse@csc.edu
+   Username: csasse
+   Original line: Clint Sasse Defensive Coordinator csasse@csc.edu 308-432- CoachSasse LB
+
+8. Tommy Wilson
+   Email: tjwilson@csc.edu
+   Username: tjwilson
+   Original line: Tommy Wilson Quarterbacks Coach tjwilson@csc.edu CoachTWilson22 QB
+
+9. Logan Zacharias
+   Email: lzacharias@csc.edu
+   Username: lzacharias
+   Original line: Logan Zacharias Coaching Assistant - lzacharias@csc.edu
+
+10. Steve Chang
+   Email: schang@csc.edu
+   Username: schang
+   Original line: Steve Chang Coaching Assistant - schang@csc.edu CoachSteveChang
+
+11. Lorenzo Neal
+   Email: lneal@csc.edu
+   Username: lneal
+   Original line: Lorenzo Neal Coaching Assistant - lneal@csc.edu
+
+12. DeMarcus Felton
+   Email: dfelton@csc.edu
+   Username: dfelton
+   Original line: DeMarcus Felton Coaching Assistant - dfelton@csc.edu
+
+13. Herbert Frazier,
+   Email: hfrazier@csc.edu
+   Username: hfrazier
+   Original line: Herbert Frazier, Jr. Coaching Assistant - Wide hfrazier@csc.edu CoachHerb_
+
+14. John Ritzen
+   Email: jritzen@csc.edu
+   Username: jritzen
+   Original line: Dr. John Ritzen Head Golf Coach jritzen@csc.edu 308-430- jritzen20
+
+15. Lane Day
+   Email: lday@csc.edu
+   Username: lday
+   Original line: Lane Day Head Rodeo Coach lday@csc.edu 308-432-
+
+16. BreAnne Benson
+   Email: breanne.benson@eagles.csc.edu
+   Username: breanne.benson
+   Original line: BreAnne Benson Coaching Assistant breanne.benson@eagles.csc.edu
+
+17. Skye Koehl
+   Email: skoehl@csc.edu
+   Username: skoehl
+   Original line: Skye Koehl Head Softball Coach skoehl@csc.edu
+
+18. Kayla Campuzano
+   Email: kcampuzano@csc.edu
+   Username: kcampuzano
+   Original line: Kayla Campuzano Assistant Coach kcampuzano@csc.edu
+
+19. Jake Gruver
+   Email: jgruver@csc.edu
+   Username: jgruver
+   Original line: Jake Gruver Head Track and Field Coach jgruver@csc.edu 308-432-
+
+20. Michael Bailey
+   Email: mbailey@csc.edu
+   Username: mbailey
+   Original line: Michael Bailey Assistant Coach - Throws mbailey@csc.edu
+
+21. Kyle Shirley
+   Email: kyle.shirley@eagles.csc.edu
+   Username: kyle.shirley
+   Original line: Kyle Shirley Coaching Assistant - kyle.shirley@eagles.csc.edu
+
+22. Jennifer Stadler
+   Email: jstadler@csc.edu
+   Username: jstadler
+   Original line: Jennifer Stadler Head Volleyball Coach jstadler@csc.edu 308-432- CoachStadler
+
+23. Harley Rhoades
+   Email: hrhoades@csc.edu
+   Username: hrhoades
+   Original line: Harley Rhoades Assistant Coach hrhoades@csc.edu
+
+24. Taygen Smith
+   Email: tjsmith@csc.edu
+   Username: tjsmith
+   Original line: Taygen Smith Assistant Coach tjsmith@csc.edu Taygen_Smith32
+
+25. Giovanni Cassioppi
+   Email: gcassioppi@csc.edu
+   Username: gcassioppi
+   Original line: Giovanni Cassioppi Assistant Coach gcassioppi@csc.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chase McLendon Assistant Director - Strength cmclendon@csc.edu 308-432- Coach_Mick_
+• Kyle Shirley Coaching Assistant - kyle.shirley@eagles.csc.edu
+• Carter Devine Assistant Coach cdevinebillen@csc.edu
+• Romola Dominguez Assistant Coach rdominguez@csc.edu
+• Sydney Gwerder Head Spirit Coach sgwerder@csc.edu 308-432-
+• Jay Long Head Football Coach jlong@csc.edu 308-432- CoachJayLong OL
+• Clint Sasse Defensive Coordinator csasse@csc.edu 308-432- CoachSasse LB
+• Tommy Wilson Quarterbacks Coach tjwilson@csc.edu CoachTWilson22 QB
+• Logan Zacharias Coaching Assistant - lzacharias@csc.edu
+• Steve Chang Coaching Assistant - schang@csc.edu CoachSteveChang
+• Lorenzo Neal Coaching Assistant - lneal@csc.edu
+• DeMarcus Felton Coaching Assistant - dfelton@csc.edu
+• Herbert Frazier, Jr. Coaching Assistant - Wide hfrazier@csc.edu CoachHerb_
+• Dr. John Ritzen Head Golf Coach jritzen@csc.edu 308-430- jritzen20
+• Lane Day Head Rodeo Coach lday@csc.edu 308-432-
+• BreAnne Benson Coaching Assistant breanne.benson@eagles.csc.edu
+• Skye Koehl Head Softball Coach skoehl@csc.edu
+• Kayla Campuzano Assistant Coach kcampuzano@csc.edu
+• Jake Gruver Head Track and Field Coach jgruver@csc.edu 308-432-
+• Michael Bailey Assistant Coach - Throws mbailey@csc.edu
+• Kyle Shirley Coaching Assistant - kyle.shirley@eagles.csc.edu
+• Jennifer Stadler Head Volleyball Coach jstadler@csc.edu 308-432- CoachStadler
+• Harley Rhoades Assistant Coach hrhoades@csc.edu
+• Taygen Smith Assistant Coach tjsmith@csc.edu Taygen_Smith32
+• Giovanni Cassioppi Assistant Coach gcassioppi@csc.edu

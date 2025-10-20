@@ -1,0 +1,167 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:05
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Pat McKenzie
+   Email: pmckenzie@csbsju.edu
+   Username: pmckenzie
+   Phone: 363-3368
+   Original line: Pat McKenzie Head Basketball Coach/NCAA Compliance Director pmckenzie@csbsju.edu 363-3368
+
+2. Justin Rost
+   Email: jrost@csbsju.edu
+   Username: jrost
+   Original line: Justin Rost Assistant Athletic Trainer/Head Strength & Conditioning Coach jrost@csbsju.edu
+
+3. Scott Lieser
+   Email: slieser@csbsju.edu
+   Username: slieser
+   Phone: 761-8545
+   Original line: Scott Lieser Head Baseball Coach slieser@csbsju.edu 761-8545
+
+4. Jason Spohn
+   Email: jspohn@csbsju.edu
+   Username: jspohn
+   Original line: Jason Spohn Assistant Baseball Coach jspohn@csbsju.edu
+
+5. Jerry Haugen
+   Email: jthaugen@csbsju.edu
+   Username: jthaugen
+   Phone: 363-2756
+   Original line: Jerry Haugen Baseball Coach Emeritus jthaugen@csbsju.edu 363-2756
+
+6. Pat McKenzie
+   Email: pmckenzie@csbsju.edu
+   Username: pmckenzie
+   Phone: 363-3368
+   Original line: Pat McKenzie Head Basketball Coach/NCAA Compliance Director pmckenzie@csbsju.edu 363-3368
+
+7. Danny Quinn
+   Email: dquinn001@csbsju.edu
+   Username: dquinn001
+   Phone: 363-2177
+   Original line: Danny Quinn Assistant Basketball Coach dquinn001@csbsju.edu 363-2177
+
+8. Sean Ryan
+   Email: sryan001@csbsju.edu
+   Username: sryan001
+   Phone: 363-2491
+   Original line: Sean Ryan Assistant Basketball Coach sryan001@csbsju.edu 363-2491
+
+9. Jerry Fogarty
+   Email: jfogarty@csbsju.edu
+   Username: jfogarty
+   Phone: 363-2063
+   Original line: Jerry Fogarty Assistant Basketball Coach jfogarty@csbsju.edu 363-2063
+
+10. Maxwell Kuzara
+   Email: mskuzara@csbsju.edu
+   Username: mskuzara
+   Phone: 363-2787
+   Original line: Maxwell Kuzara Head Cross Country Coach mskuzara@csbsju.edu 363-2787
+
+11. Gary Fasching
+   Email: gfasching@csbsju.edu
+   Username: gfasching
+   Phone: 363-2836
+   Original line: Gary Fasching Head Football Coach gfasching@csbsju.edu 363-2836
+
+12. Will Blakey
+   Email: wblakey001@csbsju.edu
+   Username: wblakey001
+   Original line: Will Blakey Assistant Football Coach wblakey001@csbsju.edu
+
+13. Chris Howe
+   Email: chowe@csbsju.edu
+   Username: chowe
+   Phone: 363-2788
+   Original line: Chris Howe Head Golf Coach chowe@csbsju.edu 363-2788
+
+14. Doug Schueller
+   Email: dschueller@csbsju.edu
+   Username: dschueller
+   Phone: 363-2242
+   Original line: Doug Schueller Head Hockey Coach dschueller@csbsju.edu 363-2242
+
+15. Travis Tollette
+   Email: ttollette001@csbsju.edu
+   Username: ttollette001
+   Original line: Travis Tollette Assistant Hockey Coach ttollette001@csbsju.edu
+
+16. Tudor Flintham
+   Email: tflintham@csbsju.edu
+   Username: tflintham
+   Phone: (503) 686-3638
+   Original line: Tudor Flintham Director of Soccer - Head Coach tflintham@csbsju.edu (503) 686-3638
+
+17. Kevin Labahn
+   Email: kjlebahn@csbsju.edu
+   Username: kjlebahn
+   Phone: (651) 373-8946
+   Original line: Kevin Labahn Assistant Soccer Coach/Recruiting Coordinator kjlebahn@csbsju.edu (651) 373-8946
+
+18. Evan Siefken
+   Email: ecsiefken001@csbsju.edu
+   Username: ecsiefken001
+   Original line: Evan Siefken Assistant Soccer Coach - Goalkeepers ecsiefken001@csbsju.edu
+
+19. Ben Gill
+   Email: bgill@csbsju.edu
+   Username: bgill
+   Phone: 363-3352
+   Original line: Ben Gill Head Swimming and Diving Coach bgill@csbsju.edu 363-3352
+
+20. Jack Bowe
+   Email: jbowe@csbsju.edu
+   Username: jbowe
+   Phone: 492-7356
+   Original line: Jack Bowe Head Tennis Coach jbowe@csbsju.edu 492-7356
+
+21. Jeremy Karger-Gatzow
+   Email: JeremyKG@csbsju.edu
+   Username: JeremyKG
+   Phone: 363-2775
+   Original line: Jeremy Karger-Gatzow Head Track and Field Coach JeremyKG@csbsju.edu 363-2775
+
+22. Joe Vardas
+   Email: jvardas@csbsju.edu
+   Username: jvardas
+   Phone: 363-2990
+   Original line: Joe Vardas Assistant Track and Field Coach jvardas@csbsju.edu 363-2990
+
+23. Kevin Schiltz
+   Email: kschiltz@csbsju.edu
+   Username: kschiltz
+   Phone: 363-2516
+   Original line: Kevin Schiltz Head Wrestling Coach kschiltz@csbsju.edu 363-2516
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Pat McKenzie Head Basketball Coach/NCAA Compliance Director pmckenzie@csbsju.edu 363-3368
+• Justin Rost Assistant Athletic Trainer/Head Strength & Conditioning Coach jrost@csbsju.edu
+• Scott Lieser Head Baseball Coach slieser@csbsju.edu 761-8545
+• Jason Spohn Assistant Baseball Coach jspohn@csbsju.edu
+• Jerry Haugen Baseball Coach Emeritus jthaugen@csbsju.edu 363-2756
+• Pat McKenzie Head Basketball Coach/NCAA Compliance Director pmckenzie@csbsju.edu 363-3368
+• Danny Quinn Assistant Basketball Coach dquinn001@csbsju.edu 363-2177
+• Sean Ryan Assistant Basketball Coach sryan001@csbsju.edu 363-2491
+• Jerry Fogarty Assistant Basketball Coach jfogarty@csbsju.edu 363-2063
+• Maxwell Kuzara Head Cross Country Coach mskuzara@csbsju.edu 363-2787
+• Gary Fasching Head Football Coach gfasching@csbsju.edu 363-2836
+• Will Blakey Assistant Football Coach wblakey001@csbsju.edu
+• Chris Howe Head Golf Coach chowe@csbsju.edu 363-2788
+• Doug Schueller Head Hockey Coach dschueller@csbsju.edu 363-2242
+• Travis Tollette Assistant Hockey Coach ttollette001@csbsju.edu
+• Tudor Flintham Director of Soccer - Head Coach tflintham@csbsju.edu (503) 686-3638
+• Kevin Labahn Assistant Soccer Coach/Recruiting Coordinator kjlebahn@csbsju.edu (651) 373-8946
+• Evan Siefken Assistant Soccer Coach - Goalkeepers ecsiefken001@csbsju.edu
+• Ben Gill Head Swimming and Diving Coach bgill@csbsju.edu 363-3352
+• Jack Bowe Head Tennis Coach jbowe@csbsju.edu 492-7356
+• Jeremy Karger-Gatzow Head Track and Field Coach JeremyKG@csbsju.edu 363-2775
+• Joe Vardas Assistant Track and Field Coach jvardas@csbsju.edu 363-2990
+• Kevin Schiltz Head Wrestling Coach kschiltz@csbsju.edu 363-2516

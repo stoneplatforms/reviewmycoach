@@ -1,0 +1,173 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:51
+============================================================
+
+Total coaches found: 27
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jacob Murray
+   Email: jmurray6@ucsc.edu
+   Username: jmurray6
+   Original line: Jacob Murray Head Strength and Conditioning Coach jmurray6@ucsc.edu
+
+2. Matt Malone
+   Email: marimalo@ucsc.edu
+   Username: marimalo
+   Original line: Matt Malone Head Coach 831-359- marimalo@ucsc.edu
+
+3. Trevis Jackson
+   Email: trajacks@ucsc.edu
+   Username: trajacks
+   Original line: Trevis Jackson Assistant Coach trajacks@ucsc.edu
+
+4. Monica Armstrong
+   Email: mtarmstr@ucsc.edu
+   Username: mtarmstr
+   Original line: Monica Armstrong Head Coach 831-946- mtarmstr@ucsc.edu
+
+5. Ahmad Senegal
+   Email: asenegal@ucsc.edu
+   Username: asenegal
+   Original line: Ahmad Senegal Assistant Coach, Director of Recruiting asenegal@ucsc.edu
+
+6. David Klech
+   Email: dklech@ucsc.edu
+   Username: dklech
+   Original line: David Klech Head Coach 831-459- dklech@ucsc.edu
+
+7. Delia Mack
+   Email: delmack@ucsc.edu
+   Username: delmack
+   Original line: Delia Mack Associate Head Coach 831-459- delmack@ucsc.edu
+
+8. Davis Kepon
+   Email: dkepon@ucsc.edu
+   Username: dkepon
+   Original line: Davis Kepon Assistant Coach 831-459- dkepon@ucsc.edu
+
+9. Paulette Pera
+   Email: ppera@ucsc.edu
+   Username: ppera
+   Original line: Paulette Pera Head Coach 408-332- ppera@ucsc.edu
+
+10. Michael Runeare
+   Email: mnsoccer@ucsc.edu
+   Username: mnsoccer
+   Original line: Michael Runeare Head Coach 831-459- mnsoccer@ucsc.edu
+
+11. David Kamau
+   Email: dkamau@ucsc.edu
+   Username: dkamau
+   Original line: David Kamau Assistant Coach 831-459- dkamau@ucsc.edu
+
+12. Lilia Dosalmas
+   Email: ldosalma@ucsc.edu
+   Username: ldosalma
+   Original line: Lilia Dosalmas Head Coach 831-459- ldosalma@ucsc.edu
+
+13. Lauren Nadler
+   Email: lnadler@ucsc.edu
+   Username: lnadler
+   Original line: Lauren Nadler Assistant Coach 831-459- lnadler@ucsc.edu
+
+14. Matthew Crawford
+   Email: thmcrawf@ucsc.edu
+   Username: thmcrawf
+   Original line: Matthew Crawford Head Coach 831-291- thmcrawf@ucsc.edu
+
+15. Hailey Garlich
+   Email: hgarlich@ucsc.edu
+   Username: hgarlich
+   Original line: Hailey Garlich Associate Head Coach hgarlich@ucsc.edu
+
+16. Ariel Rittenhouse
+   Email: arittenh@ucsc.edu
+   Username: arittenh
+   Original line: Ariel Rittenhouse Diving Coach 831-234- arittenh@ucsc.edu
+
+17. Giovanni Wenzler
+   Email: gwenzler@ucsc.edu
+   Username: gwenzler
+   Original line: Giovanni Wenzler Assistant Coach gwenzler@ucsc.edu
+
+18. Ross Pytko
+   Email: rpytko@ucsc.edu
+   Username: rpytko
+   Original line: Ross Pytko Head Coach rpytko@ucsc.edu
+
+19. Nyssa Peele
+   Email: npeele@ucsc.edu
+   Username: npeele
+   Original line: Nyssa Peele Head Coach 831-600- npeele@ucsc.edu
+
+20. Savana McDowell
+   Email: srmcdowe@ucsc.edu
+   Username: srmcdowe
+   Original line: Savana McDowell Assistant Coach srmcdowe@ucsc.edu
+
+21. David Klech
+   Email: dklech@ucsc.edu
+   Username: dklech
+   Original line: David Klech Head Coach 831-459- dklech@ucsc.edu
+
+22. Delia Mack
+   Email: delmack@ucsc.edu
+   Username: delmack
+   Original line: Delia Mack Associate Head Coach 831-459- delmack@ucsc.edu
+
+23. Davis Kepon
+   Email: dkepon@ucsc.edu
+   Username: dkepon
+   Original line: Davis Kepon Assistant Coach 831-459- dkepon@ucsc.edu
+
+24. Chad Koenegstein
+   Email: ckoenegs@ucsc.edu
+   Username: ckoenegs
+   Original line: Chad Koenegstein Head Coach 831-400- ckoenegs@ucsc.edu
+
+25. Sam Wittert
+   Email: swittert@ucsc.edu
+   Username: swittert
+   Original line: Sam Wittert Assistant Coach 831-946- swittert@ucsc.edu
+
+26. Jake Landel
+   Email: jlandel@ucsc.edu
+   Username: jlandel
+   Original line: Jake Landel Head Coach 831-201- jlandel@ucsc.edu
+
+27. Trevor Jackson
+   Email: tpjackso@ucsc.edu
+   Username: tpjackso
+   Original line: Trevor Jackson Assistant Coach 831-600- tpjackso@ucsc.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jacob Murray Head Strength and Conditioning Coach jmurray6@ucsc.edu
+• Matt Malone Head Coach 831-359- marimalo@ucsc.edu
+• Trevis Jackson Assistant Coach trajacks@ucsc.edu
+• Monica Armstrong Head Coach 831-946- mtarmstr@ucsc.edu
+• Ahmad Senegal Assistant Coach, Director of Recruiting asenegal@ucsc.edu
+• David Klech Head Coach 831-459- dklech@ucsc.edu
+• Delia Mack Associate Head Coach 831-459- delmack@ucsc.edu
+• Davis Kepon Assistant Coach 831-459- dkepon@ucsc.edu
+• Paulette Pera Head Coach 408-332- ppera@ucsc.edu
+• Michael Runeare Head Coach 831-459- mnsoccer@ucsc.edu
+• David Kamau Assistant Coach 831-459- dkamau@ucsc.edu
+• Lilia Dosalmas Head Coach 831-459- ldosalma@ucsc.edu
+• Lauren Nadler Assistant Coach 831-459- lnadler@ucsc.edu
+• Matthew Crawford Head Coach 831-291- thmcrawf@ucsc.edu
+• Hailey Garlich Associate Head Coach hgarlich@ucsc.edu
+• Ariel Rittenhouse Diving Coach 831-234- arittenh@ucsc.edu
+• Giovanni Wenzler Assistant Coach gwenzler@ucsc.edu
+• Ross Pytko Head Coach rpytko@ucsc.edu
+• Nyssa Peele Head Coach 831-600- npeele@ucsc.edu
+• Savana McDowell Assistant Coach srmcdowe@ucsc.edu
+• David Klech Head Coach 831-459- dklech@ucsc.edu
+• Delia Mack Associate Head Coach 831-459- delmack@ucsc.edu
+• Davis Kepon Assistant Coach 831-459- dkepon@ucsc.edu
+• Chad Koenegstein Head Coach 831-400- ckoenegs@ucsc.edu
+• Sam Wittert Assistant Coach 831-946- swittert@ucsc.edu
+• Jake Landel Head Coach 831-201- jlandel@ucsc.edu
+• Trevor Jackson Assistant Coach 831-600- tpjackso@ucsc.edu

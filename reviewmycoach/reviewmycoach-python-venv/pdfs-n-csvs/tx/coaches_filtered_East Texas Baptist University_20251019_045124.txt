@@ -1,0 +1,306 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:24
+============================================================
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Janae Shirley
+   Email: jshirley@etbu.edu
+   Username: jshirley
+   Phone: (903) 923-2240
+   Original line: Janae Shirley Senior Woman Administrator / Head Softball Coach jshirley@etbu.edu (903) 923-2240
+
+2. Ashton Davis-Leveille
+   Email: adavis@etbu.edu
+   Username: adavis
+   Phone: (903) 923-2387
+   Original line: Ashton Davis-Leveille Head Coach adavis@etbu.edu (903) 923-2387
+
+3. Jared Hood
+   Email: jhood@etbu.edu
+   Username: jhood
+   Phone: (903) 923-2230
+   Original line: Jared Hood Head Coach jhood@etbu.edu (903) 923-2230
+
+4. Tanner Matthews
+   Email: tmatthews@etbu.edu
+   Username: tmatthews
+   Phone: (903) 923-2238
+   Original line: Tanner Matthews Associate Head Coach tmatthews@etbu.edu (903) 923-2238
+
+5. Connor Anderson
+   Email: canderson@etbu.edu
+   Username: canderson
+   Original line: Connor Anderson Assistant Coach canderson@etbu.edu
+
+6. Chris Lovell
+   Email: clovell@etbu.edu
+   Username: clovell
+   Phone: (903) 923-2231
+   Original line: Chris Lovell Head Coach clovell@etbu.edu (903) 923-2231
+
+7. Jamarcia Banks
+   Email: jbanks@etbu.edu
+   Username: jbanks
+   Original line: Jamarcia Banks Assistant Coach jbanks@etbu.edu
+
+8. Aaron Williams
+   Email: awilliams@etbu.edu
+   Username: awilliams
+   Phone: (903) 923-2231
+   Original line: Aaron Williams Assistant Coach/Head Developmental Coach awilliams@etbu.edu (903) 923-2231
+
+9. Blake Arbogast
+   Email: barbogast@etbu.edu
+   Username: barbogast
+   Phone: (903) 923-2239
+   Original line: Blake Arbogast Head Coach barbogast@etbu.edu (903) 923-2239
+
+10. Morgan Garrett
+   Email: mgarrett@etbu.edu
+   Username: mgarrett
+   Phone: (903) 923-2239
+   Original line: Morgan Garrett Assistant Coach mgarrett@etbu.edu (903) 923-2239
+
+11. Reid Adams
+   Email: reida@etbu.edu
+   Username: reida
+   Phone: (903) 923-2395
+   Original line: Reid Adams Assistant Coach / Head Developmental Coach reida@etbu.edu (903) 923-2395
+
+12. Cameron Burger
+   Email: cburger@etbu.edu
+   Username: cburger
+   Phone: (903) 223-2111
+   Original line: Cameron Burger Head Coach cburger@etbu.edu (903) 223-2111
+
+13. Allison Kuster
+   Email: akuster@etbu.edu
+   Username: akuster
+   Phone: (903) 923-2241
+   Original line: Allison Kuster Head Coach akuster@etbu.edu (903) 923-2241
+
+14. Natalie Bach-Prather
+   Email: nbachprather@etbu.edu
+   Username: nbachprather
+   Phone: (903) 742-9464
+   Original line: Natalie Bach-Prather Head Coach nbachprather@etbu.edu (903) 742-9464
+
+15. Natalie Bach-Prather
+   Email: nbachprather@etbu.edu
+   Username: nbachprather
+   Phone: (903) 742-9464
+   Original line: Natalie Bach-Prather Head Coach nbachprather@etbu.edu (903) 742-9464
+
+16. Calvin Ruzicka
+   Email: cruzicka@etbu.edu
+   Username: cruzicka
+   Phone: (903) 923-2187
+   Original line: Calvin Ruzicka Head Coach cruzicka@etbu.edu (903) 923-2187
+
+17. Jeb Spinney
+   Email: jeb_spinney@etbu.edu
+   Username: jeb_spinney
+   Phone: (903) 923-2202
+   Original line: Jeb Spinney Offensive Coordinator/QB Coach jeb_spinney@etbu.edu (903) 923-2202
+
+18. Donald Kinchen
+   Email: dkinchen@etbu.edu
+   Username: dkinchen
+   Phone: (903) 923-2190
+   Original line: Donald Kinchen Run Game Coordinator/Offensive Line Coach dkinchen@etbu.edu (903) 923-2190
+
+19. De'Quallon Jenkins
+   Email: dequallonj@etbu.edu
+   Username: dequallonj
+   Phone: (903) 923-2195
+   Original line: De'Quallon Jenkins Defensive Line Coach dequallonj@etbu.edu (903) 923-2195
+
+20. Wade Willis
+   Email: wadew@etbu.edu
+   Username: wadew
+   Phone: (903) 923-2192
+   Original line: Wade Willis Recruiting Coordinator/LInebackers Coach wadew@etbu.edu (903) 923-2192
+
+21. Jaylan Moss
+   Email: jmoss@etbu.edu
+   Username: jmoss
+   Phone: (903) 923-2197
+   Original line: Jaylan Moss Safeties Coach jmoss@etbu.edu (903) 923-2197
+
+22. Jeremy Batten
+   Email: jbatten@etbu.edu
+   Username: jbatten
+   Phone: (903) 923-2193
+   Original line: Jeremy Batten Wide Receivers Coach jbatten@etbu.edu (903) 923-2193
+
+23. Sydney Harvey
+   Email: sharvey@etbu.edu
+   Username: sharvey
+   Phone: (903) 923-2380
+   Original line: Sydney Harvey Head Coach sharvey@etbu.edu (903) 923-2380
+
+24. Sydney Harvey
+   Email: sharvey@etbu.edu
+   Username: sharvey
+   Phone: (903) 923-2380
+   Original line: Sydney Harvey Head Coach sharvey@etbu.edu (903) 923-2380
+
+25. Kris Perry
+   Email: kperry@etbu.edu
+   Username: kperry
+   Original line: Kris Perry Assistant Coach kperry@etbu.edu
+
+26. Jason Moore
+   Email: jasonm@etbu.edu
+   Username: jasonm
+   Original line: Jason Moore Assistant Coach jasonm@etbu.edu
+
+27. Kris Perry
+   Email: kperry@etbu.edu
+   Username: kperry
+   Original line: Kris Perry Assistant Coach kperry@etbu.edu
+
+28. Jason Moore
+   Email: jasonm@etbu.edu
+   Username: jasonm
+   Original line: Jason Moore Assistant Coach jasonm@etbu.edu
+
+29. Chris Crawford
+   Email: chrisc@etbu.edu
+   Username: chrisc
+   Phone: (903) 923-2235
+   Original line: Chris Crawford Head Coach chrisc@etbu.edu (903) 923-2235
+
+30. Jordan Burke
+   Email: jburke@etbu.edu
+   Username: jburke
+   Phone: (903) 923-2235
+   Original line: Jordan Burke Associate Head Coach / Recruiting Coordinator jburke@etbu.edu (903) 923-2235
+
+31. Oscar De
+   Email: odesantiago@etbu.edu
+   Username: odesantiago
+   Phone: (903) 923-2377
+   Original line: Oscar De Santiago Assistant Coach odesantiago@etbu.edu (903) 923-2377
+
+32. Joey Petrich
+   Email: jpetrich@etbu.edu
+   Username: jpetrich
+   Phone: (903) 923-2378
+   Original line: Joey Petrich Head Coach jpetrich@etbu.edu (903) 923-2378
+
+33. Kiersten Gomez
+   Email: kehler@etbu.edu
+   Username: kehler
+   Phone: (903) 923-2377
+   Original line: Kiersten Gomez Coll Assistant Coach kehler@etbu.edu (903) 923-2377
+
+34. Janae Shirley
+   Email: jshirley@etbu.edu
+   Username: jshirley
+   Phone: (903) 923-2240
+   Original line: Janae Shirley Head Coach / Senior Woman Administrator jshirley@etbu.edu (903) 923-2240
+
+35. Bill Galloway
+   Email: wgalloway@etbu.edu
+   Username: wgalloway
+   Phone: (903) 923-2380
+   Original line: Bill Galloway Associate Head Coach wgalloway@etbu.edu (903) 923-2380
+
+36. Maranda Westbrook
+   Email: mwestbrook@etbu.edu
+   Username: mwestbrook
+   Phone: (903) 923-2380
+   Original line: Maranda Westbrook Assistant Coach/Recruiting Coordinator mwestbrook@etbu.edu (903) 923-2380
+
+37. Guy Shirley
+   Email: etbusoftball@etbu.edu
+   Username: etbusoftball
+   Phone: (903) 923-2240
+   Original line: Guy Shirley Assistant Coach etbusoftball@etbu.edu (903) 923-2240
+
+38. Tommy Heim
+   Email: theim@etbu.edu
+   Username: theim
+   Phone: (903) 923-2243
+   Original line: Tommy Heim Head Coach theim@etbu.edu 903-923-2243
+
+39. Tommy Heim
+   Email: theim@etbu.edu
+   Username: theim
+   Phone: (903) 923-2243
+   Original line: Tommy Heim Head Coach theim@etbu.edu 903-923-2243
+
+40. Natalie Bach-Prather
+   Email: nbachprather@etbu.edu
+   Username: nbachprather
+   Phone: (903) 742-9464
+   Original line: Natalie Bach-Prather Head Coach nbachprather@etbu.edu (903) 742-9464
+
+41. Natalie Bach-Prather
+   Email: nbachprather@etbu.edu
+   Username: nbachprather
+   Phone: (903) 742-9464
+   Original line: Natalie Bach-Prather Head Coach nbachprather@etbu.edu (903) 742-9464
+
+42. Mallory Matthews
+   Email: mmatthews@etbu.edu
+   Username: mmatthews
+   Phone: (903) 923-2241
+   Original line: Mallory Matthews Head Coach mmatthews@etbu.edu (903) 923-2241
+
+43. Allison Kuster
+   Email: akuster@etbu.edu
+   Username: akuster
+   Phone: (903) 923-2241
+   Original line: Allison Kuster Assistant Coach akuster@etbu.edu (903) 923-2241
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Janae Shirley Senior Woman Administrator / Head Softball Coach jshirley@etbu.edu (903) 923-2240
+• Ashton Davis-Leveille Head Coach adavis@etbu.edu (903) 923-2387
+• Jared Hood Head Coach jhood@etbu.edu (903) 923-2230
+• Tanner Matthews Associate Head Coach tmatthews@etbu.edu (903) 923-2238
+• Connor Anderson Assistant Coach canderson@etbu.edu
+• Chris Lovell Head Coach clovell@etbu.edu (903) 923-2231
+• Jamarcia Banks Assistant Coach jbanks@etbu.edu
+• Aaron Williams Assistant Coach/Head Developmental Coach awilliams@etbu.edu (903) 923-2231
+• Blake Arbogast Head Coach barbogast@etbu.edu (903) 923-2239
+• Morgan Garrett Assistant Coach mgarrett@etbu.edu (903) 923-2239
+• Reid Adams Assistant Coach / Head Developmental Coach reida@etbu.edu (903) 923-2395
+• Cameron Burger Head Coach cburger@etbu.edu (903) 223-2111
+• Allison Kuster Head Coach akuster@etbu.edu (903) 923-2241
+• Natalie Bach-Prather Head Coach nbachprather@etbu.edu (903) 742-9464
+• Natalie Bach-Prather Head Coach nbachprather@etbu.edu (903) 742-9464
+• Calvin Ruzicka Head Coach cruzicka@etbu.edu (903) 923-2187
+• Jeb Spinney Offensive Coordinator/QB Coach jeb_spinney@etbu.edu (903) 923-2202
+• Donald Kinchen Run Game Coordinator/Offensive Line Coach dkinchen@etbu.edu (903) 923-2190
+• De'Quallon Jenkins Defensive Line Coach dequallonj@etbu.edu (903) 923-2195
+• Wade Willis Recruiting Coordinator/LInebackers Coach wadew@etbu.edu (903) 923-2192
+• Jaylan Moss Safeties Coach jmoss@etbu.edu (903) 923-2197
+• Jeremy Batten Wide Receivers Coach jbatten@etbu.edu (903) 923-2193
+• Sydney Harvey Head Coach sharvey@etbu.edu (903) 923-2380
+• Sydney Harvey Head Coach sharvey@etbu.edu (903) 923-2380
+• Kris Perry Assistant Coach kperry@etbu.edu
+• Jason Moore Assistant Coach jasonm@etbu.edu
+• Kris Perry Assistant Coach kperry@etbu.edu
+• Jason Moore Assistant Coach jasonm@etbu.edu
+• Chris Crawford Head Coach chrisc@etbu.edu (903) 923-2235
+• Jordan Burke Associate Head Coach / Recruiting Coordinator jburke@etbu.edu (903) 923-2235
+• Oscar De Santiago Assistant Coach odesantiago@etbu.edu (903) 923-2377
+• Joey Petrich Head Coach jpetrich@etbu.edu (903) 923-2378
+• Kiersten Gomez Coll Assistant Coach kehler@etbu.edu (903) 923-2377
+• Janae Shirley Head Coach / Senior Woman Administrator jshirley@etbu.edu (903) 923-2240
+• Bill Galloway Associate Head Coach wgalloway@etbu.edu (903) 923-2380
+• Maranda Westbrook Assistant Coach/Recruiting Coordinator mwestbrook@etbu.edu (903) 923-2380
+• Guy Shirley Assistant Coach etbusoftball@etbu.edu (903) 923-2240
+• Tommy Heim Head Coach theim@etbu.edu 903-923-2243
+• Tommy Heim Head Coach theim@etbu.edu 903-923-2243
+• Natalie Bach-Prather Head Coach nbachprather@etbu.edu (903) 742-9464
+• Natalie Bach-Prather Head Coach nbachprather@etbu.edu (903) 742-9464
+• Mallory Matthews Head Coach mmatthews@etbu.edu (903) 923-2241
+• Allison Kuster Assistant Coach akuster@etbu.edu (903) 923-2241

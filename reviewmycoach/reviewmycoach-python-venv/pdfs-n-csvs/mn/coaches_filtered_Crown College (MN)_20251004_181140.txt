@@ -1,0 +1,198 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:40
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Colt Sedbrook
+   Email: sedbrookc@crown.edu
+   Username: sedbrookc
+   Phone: (952) 446-4567
+   Original line: Colt Sedbrook Head Baseball Coach sedbrookc@crown.edu 952-446-4567
+
+2. Aidan Volk-Specht
+   Email: volka@crown.edu
+   Username: volka
+   Original line: Aidan Volk-Specht Graduate Assistant Baseball Coach volka@crown.edu
+
+3. Grant DeWitt
+   Email: dewittg@crown.edu
+   Username: dewittg
+   Phone: (952) 446-4196
+   Original line: Grant DeWitt Head Cross Country and Track & Field Coach dewittg@crown.edu 952-446-4196
+
+4. Abbe Dufault
+   Email: dufaulta@crown.edu
+   Username: dufaulta
+   Phone: (952) 446-4140
+   Original line: Abbe Dufault Assistant Cross Country Coach / Track & Field Distance dufaulta@crown.edu 952-446-4140
+
+5. Anthony Franz
+   Email: franza@crown.edu
+   Username: franza
+   Phone: (952) 446-4235
+   Original line: Anthony Franz Head Football Coach franza@crown.edu 952-446-4235
+
+6. Eric Shourds
+   Email: shourdse@crown.edu
+   Username: shourdse
+   Phone: (952) 446-4563
+   Original line: Eric Shourds Assistant Head Football Coach/Defensive Coordinator shourdse@crown.edu 952-446-4563
+
+7. Lamont Butler
+   Email: butlerl@crown.edu
+   Username: butlerl
+   Original line: Lamont Butler Assistant Football Coach/Offensive Coordinator butlerl@crown.edu
+
+8. Derrick Taylor
+   Email: taylord@crown.edu
+   Username: taylord
+   Phone: (952) 446-4573
+   Original line: Derrick Taylor Assistant Football Coach (Special Teams Coordinator & QB) taylord@crown.edu 952-446-4573
+
+9. Matt Leathers
+   Email: leathersm@crown.edu
+   Username: leathersm
+   Original line: Matt Leathers Assistant Football Coach (OL) leathersm@crown.edu
+
+10. Joe Yates
+   Email: yatesj@crown.edu
+   Username: yatesj
+   Original line: Joe Yates Assistant Football Coach (DL) yatesj@crown.edu
+
+11. Tanner Eubanks
+   Email: eubankst@crown.edu
+   Username: eubankst
+   Original line: Tanner Eubanks Assistant Football Coach (RB) eubankst@crown.edu
+
+12. Morgan Pederson
+   Email: pedersonm@crown.edu
+   Username: pedersonm
+   Original line: Morgan Pederson Head Men's and Women's Golf Coach pedersonm@crown.edu
+
+13. Luke Herbert
+   Email: herbertl@crown.edu
+   Username: herbertl
+   Phone: (952) 446-4146
+   Original line: Luke Herbert Head Men's Basketball Coach herbertl@crown.edu 952-446-4146
+
+14. Jacob Van
+   Email: vandamj@crown.edu
+   Username: vandamj
+   Original line: Jacob Van Dam Head Assistant Men's Basketball Coach vandamj@crown.edu
+
+15. Alex Hosler
+   Email: hoslera@crown.edu
+   Username: hoslera
+   Phone: (260) 388-7879
+   Original line: Alex Hosler Head Men's Soccer Coach hoslera@crown.edu 260-388-7879
+
+16. Taylor Jones
+   Email: jonest@crown.edu
+   Username: jonest
+   Phone: (952) 446-4382
+   Original line: Taylor Jones Head Softball Coach jonest@crown.edu 952-446-4382
+
+17. Jacob Van
+   Email: vandamj@crown.edu
+   Username: vandamj
+   Original line: Jacob Van Dam Assistant Softball Coach vandamj@crown.edu
+
+18. Andrew Martinek
+   Email: martineka@crown.edu
+   Username: martineka
+   Original line: Andrew Martinek Assistant Softball Coach martineka@crown.edu
+
+19. Keagan Blancke
+   Email: blanckek@crown.edu
+   Username: blanckek
+   Original line: Keagan Blancke Head Men's and Women's Tennis Coach blanckek@crown.edu
+
+20. Grant DeWitt
+   Email: dewittg@crown.edu
+   Username: dewittg
+   Phone: (952) 446-4196
+   Original line: Grant DeWitt Head Cross Country and Track & Field Coach dewittg@crown.edu 952-446-4196
+
+21. Abbe Dufault
+   Email: dufaulta@crown.edu
+   Username: dufaulta
+   Phone: (952) 446-4140
+   Original line: Abbe Dufault Assistant Cross Country Coach / Track & Field Distance dufaulta@crown.edu 952-446-4140
+
+22. Anna Anderson
+   Email: andersona1@crown.edu
+   Username: andersona1
+   Original line: Anna Anderson Sanchez Assistant Track & Field Coach andersona1@crown.edu
+
+23. Celia Blattner
+   Email: blattnerc@crown.edu
+   Username: blattnerc
+   Phone: (320) 249-0296
+   Original line: Celia Blattner Head Volleyball Coach blattnerc@crown.edu 320-249-0296
+
+24. Dominique Mullenbach
+   Email: mullenbachd@crown.edu
+   Username: mullenbachd
+   Original line: Dominique Mullenbach Assistant Volleyball Coach mullenbachd@crown.edu
+
+25. Jessica Derner
+   Email: dernerj@crown.edu
+   Username: dernerj
+   Original line: Jessica Derner Assistant Volleyball Coach dernerj@crown.edu
+
+26. Sage Johnston
+   Email: johnstons@crown.edu
+   Username: johnstons
+   Original line: Sage Johnston Graduate Assistant Volleyball Coach/Strength & Conditioning Coach johnstons@crown.edu
+
+27. David Pederson
+   Email: pedersond@crown.edu
+   Username: pedersond
+   Phone: (320) 241-7798
+   Original line: David Pederson Head Women's Basketball Coach pedersond@crown.edu 320-241-7798
+
+28. Devin Chuba
+   Email: chubad@crown.edu
+   Username: chubad
+   Original line: Devin Chuba Head Women's Soccer Coach chubad@crown.edu
+
+29. Ella Ladd
+   Email: hollandere@crown.edu
+   Username: hollandere
+   Original line: Ella Ladd Graduate Assistant Women's Soccer Coach hollandere@crown.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Colt Sedbrook Head Baseball Coach sedbrookc@crown.edu 952-446-4567
+• Aidan Volk-Specht Graduate Assistant Baseball Coach volka@crown.edu
+• Grant DeWitt Head Cross Country and Track & Field Coach dewittg@crown.edu 952-446-4196
+• Abbe Dufault Assistant Cross Country Coach / Track & Field Distance dufaulta@crown.edu 952-446-4140
+• Anthony Franz Head Football Coach franza@crown.edu 952-446-4235
+• Eric Shourds Assistant Head Football Coach/Defensive Coordinator shourdse@crown.edu 952-446-4563
+• Lamont Butler Assistant Football Coach/Offensive Coordinator butlerl@crown.edu
+• Derrick Taylor Assistant Football Coach (Special Teams Coordinator & QB) taylord@crown.edu 952-446-4573
+• Matt Leathers Assistant Football Coach (OL) leathersm@crown.edu
+• Joe Yates Assistant Football Coach (DL) yatesj@crown.edu
+• Tanner Eubanks Assistant Football Coach (RB) eubankst@crown.edu
+• Morgan Pederson Head Men's and Women's Golf Coach pedersonm@crown.edu
+• Luke Herbert Head Men's Basketball Coach herbertl@crown.edu 952-446-4146
+• Jacob Van Dam Head Assistant Men's Basketball Coach vandamj@crown.edu
+• Alex Hosler Head Men's Soccer Coach hoslera@crown.edu 260-388-7879
+• Taylor Jones Head Softball Coach jonest@crown.edu 952-446-4382
+• Jacob Van Dam Assistant Softball Coach vandamj@crown.edu
+• Andrew Martinek Assistant Softball Coach martineka@crown.edu
+• Keagan Blancke Head Men's and Women's Tennis Coach blanckek@crown.edu
+• Grant DeWitt Head Cross Country and Track & Field Coach dewittg@crown.edu 952-446-4196
+• Abbe Dufault Assistant Cross Country Coach / Track & Field Distance dufaulta@crown.edu 952-446-4140
+• Anna Anderson Sanchez Assistant Track & Field Coach andersona1@crown.edu
+• Celia Blattner Head Volleyball Coach blattnerc@crown.edu 320-249-0296
+• Dominique Mullenbach Assistant Volleyball Coach mullenbachd@crown.edu
+• Jessica Derner Assistant Volleyball Coach dernerj@crown.edu
+• Sage Johnston Graduate Assistant Volleyball Coach/Strength & Conditioning Coach johnstons@crown.edu
+• David Pederson Head Women's Basketball Coach pedersond@crown.edu 320-241-7798
+• Devin Chuba Head Women's Soccer Coach chubad@crown.edu
+• Ella Ladd Graduate Assistant Women's Soccer Coach hollandere@crown.edu

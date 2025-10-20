@@ -1,0 +1,263 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:03
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Candace Walker
+   Email: cwalker4@stu.edu
+   Username: cwalker4
+   Original line: Candace Walker Senior Woman Administrator | Head cwalker4@stu.edu 305-474- @CoachWalkerSTU
+
+2. Nate Scola
+   Email: nscola@stu.edu
+   Username: nscola
+   Original line: Nate Scola Director of Strength & Conditioning nscola@stu.edu Coach_Scola
+
+3. Omar Porras
+   Email: oporras@stu.edu
+   Username: oporras
+   Original line: Omar Porras Assistant Strength & Conditioning Coach oporras@stu.edu
+
+4. Maria Miranda
+   Email: mmiranda6@stu.edu
+   Username: mmiranda6
+   Original line: Maria Miranda Assistant Strength & Conditioning Coach mmiranda6@stu.edu
+
+5. Caesar Asadi
+   Email: casadi@stu.edu
+   Username: casadi
+   Original line: Caesar Asadi Head Swim/Dive Coach | Assistant casadi@stu.edu 305-628- @caesarasadi
+
+6. Al Gordon
+   Email: agordan9@stu.edu
+   Username: agordan9
+   Original line: Al Gordon Assistant Strength & Conditioning Coach agordan9@stu.edu
+
+7. Alfredo Carrillo
+   Email: carrilloa@stu.edu
+   Username: carrilloa
+   Original line: Alfredo Carrillo Assistant Coach carrilloa@stu.edu
+
+8. Rene Arauz
+   Email: rarauz@stu.edu
+   Username: rarauz
+   Original line: Rene Arauz Assistant Coach rarauz@stu.edu
+
+9. Zach Moss
+   Email: ZMoss@stu.edu
+   Username: ZMoss
+   Original line: Zach Moss Head Men's Basketball Coach ZMoss@stu.edu
+
+10. Lorel Beckford
+   Email: lbeckford@stu.edu
+   Username: lbeckford
+   Original line: Lorel Beckford Assistant Coach lbeckford@stu.edu 305-628-
+
+11. Candace Walker
+   Email: cwalker4@stu.edu
+   Username: cwalker4
+   Original line: Candace Walker Senior Woman Administrator | Head cwalker4@stu.edu 305-474- @CoachWalkerSTU
+
+12. Darren Worrell
+   Email: dworrell@stu.edu
+   Username: dworrell
+   Original line: Darren Worrell Assistant Coach dworrell@stu.edu 305-474-
+
+13. Emily May
+   Email: emay@stu.edu
+   Username: emay
+   Original line: Emily May Assistant Coach emay@stu.edu
+
+14. Joshua Atkinson
+   Email: jatkinson3@stu.edu
+   Username: jatkinson3
+   Original line: Joshua Atkinson Head Coach jatkinson3@stu.edu
+
+15. Ryan Meizoso
+   Email: rmeizoso@stu.edu
+   Username: rmeizoso
+   Original line: Ryan Meizoso Head Cross Country Coach / Assistant rmeizoso@stu.edu
+
+16. Joey Scott
+   Email: Jnscott@stu.edu
+   Username: Jnscott
+   Original line: Joey Scott Head Track and Field Coach / Assistant Jnscott@stu.edu 786-774-
+
+17. Andres Parra
+   Email: AParra3@STU.EDU
+   Username: AParra3
+   Original line: Andres Parra Assistant Coach AParra3@STU.EDU
+
+18. Drew Davis
+   Email: AndrewDavis@stu.edu
+   Username: AndrewDavis
+   Original line: Drew Davis Assistant Coach | Quarterbacks AndrewDavis@stu.edu
+
+19. Erick Burzanko
+   Email: eburzanko@stu.edu
+   Username: eburzanko
+   Original line: Erick Burzanko Assistant Coach | Running Backs eburzanko@stu.edu 305-474-
+
+20. Steven Everson
+   Email: severson@stu.edu
+   Username: severson
+   Original line: Steven Everson Assistant Coach | Defensive Backs | severson@stu.edu 305-474-
+
+21. Ertonn Chatelain
+   Email: echatelain@stu.edu
+   Username: echatelain
+   Original line: Ertonn Chatelain Assistant Coach | Defensive Line echatelain@stu.edu
+
+22. Al Gordon
+   Email: agordan9@stu.edu
+   Username: agordan9
+   Original line: Al Gordon Assistant Strength & Conditioning Coach agordan9@stu.edu
+
+23. Ceinwen Simpson
+   Email: csimpson5@stu.edu
+   Username: csimpson5
+   Original line: Ceinwen Simpson Head Women's Lacrosse Coach csimpson5@stu.edu
+
+24. Gavin McLeavy
+   Email: gmcleavy@stu.edu
+   Username: gmcleavy
+   Original line: Gavin McLeavy Head Rugby Coach gmcleavy@stu.edu 786-877-
+
+25. Feliks Mats
+   Email: fmats@stu.edu
+   Username: fmats
+   Original line: Feliks Mats Head Men's Soccer Coach fmats@stu.edu 305-628-
+
+26. Michelle Smith
+   Email: msmith@stu.edu
+   Username: msmith
+   Original line: Michelle Smith Head Women's Soccer Coach msmith@stu.edu 305-474-
+
+27. Gabriel Renteria
+   Email: grenteria@stu.edu
+   Username: grenteria
+   Original line: Gabriel Renteria Assistant Coach grenteria@stu.edu 305-474-
+
+28. JC Gutierrez
+   Email: jgutierrez2@stu.edu
+   Username: jgutierrez2
+   Original line: JC Gutierrez Head Softball Coach jgutierrez2@stu.edu 305-321-
+
+29. Manny Yanez
+   Email: myanez@stu.edu
+   Username: myanez
+   Original line: Manny Yanez Assistant Coach myanez@stu.edu 305-628-
+
+30. Erica Winter
+   Email: ewinter2@stu.edu
+   Username: ewinter2
+   Original line: Erica Winter Assistant Coach ewinter2@stu.edu
+
+31. Vanessa Souffrain
+   Email: vsouffrain@stu.edu
+   Username: vsouffrain
+   Original line: Vanessa Souffrain Head Spirit Coach vsouffrain@stu.edu
+
+32. Caesar Asadi
+   Email: casadi@stu.edu
+   Username: casadi
+   Original line: Caesar Asadi Head Swim/Dive Coach | Assistant casadi@stu.edu 305-628- @caesarasadi
+
+33. Alexander Arrieta
+   Email: AArrieta4@stu.edu
+   Username: AArrieta4
+   Original line: Alexander Arrieta Assistant Swim Coach, Men's Recruiting AArrieta4@stu.edu
+
+34. Michael Wantuck
+   Email: MWantuck@stu.edu
+   Username: MWantuck
+   Original line: Michael Wantuck Diving Coach MWantuck@stu.edu
+
+35. Isabella Gable
+   Email: IGable@stu.edu
+   Username: IGable
+   Original line: Isabella Gable Assistant Coach IGable@stu.edu
+
+36. Alejandro Ciffoni
+   Email: aciffoni@stu.edu
+   Username: aciffoni
+   Original line: Alejandro Ciffoni Head Tennis Coach aciffoni@stu.edu
+
+37. Joey Scott
+   Email: Jnscott@stu.edu
+   Username: Jnscott
+   Original line: Joey Scott Head Track and Field Coach / Assistant Jnscott@stu.edu 786-774-
+
+38. Ryan Meizoso
+   Email: rmeizoso@stu.edu
+   Username: rmeizoso
+   Original line: Ryan Meizoso Head Cross Country Coach / Assistant rmeizoso@stu.edu
+
+39. Breno Ertty
+   Email: bertty@stu.edu
+   Username: bertty
+   Original line: Breno Ertty Head Men's Volleyball Coach | Assistant bertty@stu.edu
+
+40. Mya Thomas
+   Email: mthomas3@stu.edu
+   Username: mthomas3
+   Original line: Mya Thomas Head Beach Volleyball Coach mthomas3@stu.edu
+
+41. Breno Ertty
+   Email: bertty@stu.edu
+   Username: bertty
+   Original line: Breno Ertty Head Men's Volleyball Coach | Assistant bertty@stu.edu
+
+42. Nosomy Pozo
+   Email: npozo@stu.edu
+   Username: npozo
+   Original line: Nosomy Pozo Head Wrestling Coach npozo@stu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Candace Walker Senior Woman Administrator | Head cwalker4@stu.edu 305-474- @CoachWalkerSTU
+• Nate Scola Director of Strength & Conditioning nscola@stu.edu Coach_Scola
+• Omar Porras Assistant Strength & Conditioning Coach oporras@stu.edu
+• Maria Miranda Assistant Strength & Conditioning Coach mmiranda6@stu.edu
+• Caesar Asadi Head Swim/Dive Coach | Assistant casadi@stu.edu 305-628- @caesarasadi
+• Al Gordon Assistant Strength & Conditioning Coach agordan9@stu.edu
+• Alfredo Carrillo Assistant Coach carrilloa@stu.edu
+• Rene Arauz Assistant Coach rarauz@stu.edu
+• Zach Moss Head Men's Basketball Coach ZMoss@stu.edu
+• Lorel Beckford Assistant Coach lbeckford@stu.edu 305-628-
+• Candace Walker Senior Woman Administrator | Head cwalker4@stu.edu 305-474- @CoachWalkerSTU
+• Darren Worrell Assistant Coach dworrell@stu.edu 305-474-
+• Emily May Assistant Coach emay@stu.edu
+• Joshua Atkinson Head Coach jatkinson3@stu.edu
+• Ryan Meizoso Head Cross Country Coach / Assistant rmeizoso@stu.edu
+• Joey Scott Head Track and Field Coach / Assistant Jnscott@stu.edu 786-774-
+• Andres Parra Assistant Coach AParra3@STU.EDU
+• Drew Davis Assistant Coach | Quarterbacks AndrewDavis@stu.edu
+• Erick Burzanko Assistant Coach | Running Backs eburzanko@stu.edu 305-474-
+• Steven Everson Assistant Coach | Defensive Backs | severson@stu.edu 305-474-
+• Ertonn Chatelain Assistant Coach | Defensive Line echatelain@stu.edu
+• Al Gordon Assistant Strength & Conditioning Coach agordan9@stu.edu
+• Ceinwen Simpson Head Women's Lacrosse Coach csimpson5@stu.edu
+• Gavin McLeavy Head Rugby Coach gmcleavy@stu.edu 786-877-
+• Feliks Mats Head Men's Soccer Coach fmats@stu.edu 305-628-
+• Michelle Smith Head Women's Soccer Coach msmith@stu.edu 305-474-
+• Gabriel Renteria Assistant Coach grenteria@stu.edu 305-474-
+• JC Gutierrez Head Softball Coach jgutierrez2@stu.edu 305-321-
+• Manny Yanez Assistant Coach myanez@stu.edu 305-628-
+• Erica Winter Assistant Coach ewinter2@stu.edu
+• Vanessa Souffrain Head Spirit Coach vsouffrain@stu.edu
+• Caesar Asadi Head Swim/Dive Coach | Assistant casadi@stu.edu 305-628- @caesarasadi
+• Alexander Arrieta Assistant Swim Coach, Men's Recruiting AArrieta4@stu.edu
+• Michael Wantuck Diving Coach MWantuck@stu.edu
+• Isabella Gable Assistant Coach IGable@stu.edu
+• Alejandro Ciffoni Head Tennis Coach aciffoni@stu.edu
+• Joey Scott Head Track and Field Coach / Assistant Jnscott@stu.edu 786-774-
+• Ryan Meizoso Head Cross Country Coach / Assistant rmeizoso@stu.edu
+• Breno Ertty Head Men's Volleyball Coach | Assistant bertty@stu.edu
+• Mya Thomas Head Beach Volleyball Coach mthomas3@stu.edu
+• Breno Ertty Head Men's Volleyball Coach | Assistant bertty@stu.edu
+• Nosomy Pozo Head Wrestling Coach npozo@stu.edu

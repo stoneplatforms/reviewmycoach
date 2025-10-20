@@ -1,0 +1,353 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:41
+============================================================
+
+Total coaches found: 57
+
+PARSED ENTRIES:
+----------------------------------------
+1. Robin Pingeton
+   Email: WBB@athletics.wisc.edu
+   Username: WBB
+   Original line: Robin Pingeton Head Coach WBB@athletics.wisc.edu Women's
+
+2. McGhee Mann
+   Email: WBB@athletics.wisc.edu
+   Username: WBB
+   Original line: McGhee Mann Assistant Coach WBB@athletics.wisc.edu Women's
+
+3. Ariel Massengale
+   Email: WBB@athletics.wisc.edu
+   Username: WBB
+   Original line: Ariel Massengale Assistant Coach WBB@athletics.wisc.edu Women's
+
+4. Aaron Watson
+   Email: AAW@athletics.wisc.edu
+   Username: AAW
+   Original line: Aaron Watson Assistant Coach - AAW@athletics.wisc.edu (608) M/W Cross
+
+5. Lindsay Crevoiserat
+   Email: LEC@athletics.wisc.edu
+   Username: LEC
+   Original line: Lindsay Crevoiserat Assistant Coach- LEC@athletics.wisc.edu 608- Men's Cross
+
+6. Aaron Watson
+   Email: AAW@athletics.wisc.edu
+   Username: AAW
+   Original line: Aaron Watson Assistant Coach - AAW@athletics.wisc.edu (608) M/W Cross
+
+7. Lindsay Crevoiserat
+   Email: LEC@athletics.wisc.edu
+   Username: LEC
+   Original line: Lindsay Crevoiserat Assistant Coach- LEC@athletics.wisc.edu 608- Men's Cross
+
+8. Mike Wilson
+   Email: MWW@athletics.wisc.edu
+   Username: MWW
+   Original line: Mike Wilson Head Coach MWW@athletics.wisc.edu 608- Men's Golf
+
+9. Todd Oehrlein
+   Email: TSO@athletics.wisc.edu
+   Username: TSO
+   Original line: Todd Oehrlein Head Coach TSO@athletics.wisc.edu 608- Women's Golf
+
+10. Morgan Baxendale
+   Email: MEB@athletics.wisc.edu
+   Username: MEB
+   Original line: Morgan Baxendale Assistant Coach MEB@athletics.wisc.edu 608- Women's Golf
+
+11. Jackie Crum
+   Email: JRF@athletics.wisc.edu
+   Username: JRF
+   Original line: Jackie Crum Assistant Coach JRF@athletics.wisc.edu 608- Women's
+
+12. Vicky Opitz
+   Email: VJO@athletics.wisc.edu
+   Username: VJO
+   Original line: Vicky Opitz Head Coach VJO@athletics.wisc.edu 608- Women's
+
+13. Hadzo "Hodge"
+   Email: HHH@athletics.wisc.edu
+   Username: HHH
+   Original line: Hadzo "Hodge" Habibovic Assistant Coach HHH@athletics.wisc.edu 608- Lightweight
+
+14. Chris Lalande
+   Email: CPL@athletics.wisc.edu
+   Username: CPL
+   Original line: Chris Lalande Assistant Coach CPL@athletics.wisc.edu Women's
+
+15. Meg Gibson
+   Email: MEG@athletics.wisc.edu
+   Username: MEG
+   Original line: Meg Gibson Assistant Coach MEG@athletics.wisc.edu Women's
+
+16. Mary Anderson
+   Email: MA3@athletics.wisc.edu
+   Username: MA3
+   Original line: Mary Anderson Assistant Coach MA3@athletics.wisc.edu LIghtweight
+
+17. Beau Hoopman
+   Email: BH1@athletics.wisc.edu
+   Username: BH1
+   Original line: Beau Hoopman Head Coach BH1@athletics.wisc.edu 608- Men's Rowing
+
+18. Adam Wehking
+   Email: AW3@athletics.wisc.edu
+   Username: AW3
+   Original line: Adam Wehking Assistant Coach AW3@athletics.wisc.edu 608- Men's Rowing
+
+19. Peter Turney
+   Email: pnt@athletics.wisc.edu
+   Username: pnt
+   Original line: Peter Turney Assistant Coach pnt@athletics.wisc.edu Men's Rowing
+
+20. Lowell McNicholas
+   Email: LM4@athletics.wisc.edu
+   Username: LM4
+   Original line: Lowell McNicholas Coaching Assistant LM4@athletics.wisc.edu 608-
+
+21. Vicky Opitz
+   Email: VJO@athletics.wisc.edu
+   Username: VJO
+   Original line: Vicky Opitz Head Coach VJO@athletics.wisc.edu 608- Women's
+
+22. Meg Gibson
+   Email: MEG@athletics.wisc.edu
+   Username: MEG
+   Original line: Meg Gibson Assistant Coach MEG@athletics.wisc.edu Women's
+
+23. Chris Lalande
+   Email: CPL@athletics.wisc.edu
+   Username: CPL
+   Original line: Chris Lalande Assistant Coach CPL@athletics.wisc.edu Women's
+
+24. Hadzo "Hodge"
+   Email: HHH@athletics.wisc.edu
+   Username: HHH
+   Original line: Hadzo "Hodge" Habibovic Assistant Coach HHH@athletics.wisc.edu 608- Lightweight
+
+25. Mary Anderson
+   Email: MA3@athletics.wisc.edu
+   Username: MA3
+   Original line: Mary Anderson Assistant Coach MA3@athletics.wisc.edu LIghtweight
+
+26. Neil Jones
+   Email: NWJ@athletics.wisc.edu
+   Username: NWJ
+   Original line: Neil Jones Head Coach NWJ@athletics.wisc.edu Men's Soccer
+
+27. Nate Boyden
+   Email: NBB@athletics.wisc.edu
+   Username: NBB
+   Original line: Nate Boyden Assistant Coach NBB@athletics.wisc.edu Men's Soccer
+
+28. Tyler Smith
+   Email: twsmith3@athletics.wisc.edu
+   Username: twsmith3
+   Original line: Tyler Smith Coaching Assistant twsmith3@athletics.wisc.edu
+
+29. Paula Wilkins
+   Email: PLW@athletics.wisc.edu
+   Username: PLW
+   Original line: Paula Wilkins Head Coach PLW@athletics.wisc.edu Women's Soccer
+
+30. Jon Gulrajani
+   Email: JJG@athletics.wisc.edu
+   Username: JJG
+   Original line: Jon Gulrajani Assistant Coach JJG@athletics.wisc.edu Women's Soccer
+
+31. Yvette Healy
+   Email: YTH@athletics.wisc.edu
+   Username: YTH
+   Original line: Yvette Healy Head Coach YTH@athletics.wisc.edu Softball
+
+32. Jack Brown
+   Email: JB8@athletics.wisc.edu
+   Username: JB8
+   Original line: Jack Brown Head Coach JB8@athletics.wisc.edu Men's Swimming
+
+33. Jennah Haney
+   Email: JLH@athletics.wisc.edu
+   Username: JLH
+   Original line: Jennah Haney Assistant Coach - JLH@athletics.wisc.edu Men's Swimming
+
+34. Caleb Aman
+   Email: CRA@athletics.wisc.edu
+   Username: CRA
+   Original line: Caleb Aman Assistant Coach CRA@athletics.wisc.edu 608- Men's Swimming
+
+35. Andrew Capobianco
+   Email: ac3@athletics.wisc.edu
+   Username: ac3
+   Original line: Andrew Capobianco Assistant Coach - ac3@athletics.wisc.edu (608) Men's Swimming
+
+36. Johno Fergusson
+   Email: jlf@athletics.wisc.edu
+   Username: jlf
+   Original line: Johno Fergusson Assistant Coach jlf@athletics.wisc.edu (608) Men's Swimming
+
+37. Ted Patton
+   Email: tdp@athletics.wisc.edu
+   Username: tdp
+   Original line: Ted Patton Assistant Coach tdp@athletics.wisc.edu (608) Men's Swimming
+
+38. Beata Nelson
+   Email: bdn@athletics.wisc.edu
+   Username: bdn
+   Original line: Beata Nelson Assistant Coach bdn@athletics.wisc.edu (608) Men's Swimming
+
+39. Jack Brown
+   Email: JB8@athletics.wisc.edu
+   Username: JB8
+   Original line: Jack Brown Head Coach JB8@athletics.wisc.edu Men's Swimming
+
+40. Jennah Haney
+   Email: JLH@athletics.wisc.edu
+   Username: JLH
+   Original line: Jennah Haney Assistant Coach - JLH@athletics.wisc.edu Men's Swimming
+
+41. Andrew Capobianco
+   Email: ac3@athletics.wisc.edu
+   Username: ac3
+   Original line: Andrew Capobianco Assistant Coach - ac3@athletics.wisc.edu (608) Men's Swimming
+
+42. Johno Fergusson
+   Email: jlf@athletics.wisc.edu
+   Username: jlf
+   Original line: Johno Fergusson Assistant Coach jlf@athletics.wisc.edu (608) Men's Swimming
+
+43. Ted Patton
+   Email: tdp@athletics.wisc.edu
+   Username: tdp
+   Original line: Ted Patton Assistant Coach tdp@athletics.wisc.edu (608) Men's Swimming
+
+44. Beata Nelson
+   Email: bdn@athletics.wisc.edu
+   Username: bdn
+   Original line: Beata Nelson Assistant Coach bdn@athletics.wisc.edu (608) Men's Swimming
+
+45. Danny Westerman
+   Email: DBW@athletics.wisc.edu
+   Username: DBW
+   Original line: Danny Westerman Head Coach DBW@athletics.wisc.edu Men's Tennis
+
+46. Dave Astrauskas
+   Email: DLA@athletics.wisc.edu
+   Username: DLA
+   Original line: Dave Astrauskas Assistant Coach - DLA@athletics.wisc.edu 608- M/W Track &
+
+47. Nate Davis
+   Email: NKD@athletics.wisc.edu
+   Username: NKD
+   Original line: Nate Davis Assistant Coach - NKD@athletics.wisc.edu 608- M/W Track &
+
+48. Aaron Watson
+   Email: AAW@athletics.wisc.edu
+   Username: AAW
+   Original line: Aaron Watson Assistant Coach - AAW@athletics.wisc.edu (608) M/W Cross
+
+49. Lindsay Crevoiserat
+   Email: LEC@athletics.wisc.edu
+   Username: LEC
+   Original line: Lindsay Crevoiserat Assistant Coach- LEC@athletics.wisc.edu 608- Men's Cross
+
+50. Dave Astrauskas
+   Email: DLA@athletics.wisc.edu
+   Username: DLA
+   Original line: Dave Astrauskas Assistant Coach - DLA@athletics.wisc.edu 608- M/W Track &
+
+51. Nate Davis
+   Email: NKD@athletics.wisc.edu
+   Username: NKD
+   Original line: Nate Davis Assistant Coach - NKD@athletics.wisc.edu 608- M/W Track &
+
+52. Aaron Watson
+   Email: AAW@athletics.wisc.edu
+   Username: AAW
+   Original line: Aaron Watson Assistant Coach - AAW@athletics.wisc.edu (608) M/W Cross
+
+53. Lindsay Crevoiserat
+   Email: LEC@athletics.wisc.edu
+   Username: LEC
+   Original line: Lindsay Crevoiserat Assistant Coach- LEC@athletics.wisc.edu 608- Men's Cross
+
+54. Lauren Carlini
+   Email: lnc@athletics.wisc.edu
+   Username: lnc
+   Original line: Lauren Carlini Assistant Coach lnc@athletics.wisc.edu Volleyball
+
+55. John Shondell
+   Email: jls@athletics.wisc.edu
+   Username: jls
+   Original line: John Shondell Assistant Coach jls@athletics.wisc.edu Volleyball
+
+56. Chris Bono
+   Email: CMB@athletics.wisc.edu
+   Username: CMB
+   Original line: Chris Bono Head Coach CMB@athletics.wisc.edu 608- Wrestling,
+
+57. Tony Cassioppi
+   Email: ALC@athletics.wisc.edu
+   Username: ALC
+   Original line: Tony Cassioppi Assistant Coach ALC@athletics.wisc.edu 608- Wrestling,
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Robin Pingeton Head Coach WBB@athletics.wisc.edu Women's
+• McGhee Mann Assistant Coach WBB@athletics.wisc.edu Women's
+• Ariel Massengale Assistant Coach WBB@athletics.wisc.edu Women's
+• Aaron Watson Assistant Coach - AAW@athletics.wisc.edu (608) M/W Cross
+• Lindsay Crevoiserat Assistant Coach- LEC@athletics.wisc.edu 608- Men's Cross
+• Aaron Watson Assistant Coach - AAW@athletics.wisc.edu (608) M/W Cross
+• Lindsay Crevoiserat Assistant Coach- LEC@athletics.wisc.edu 608- Men's Cross
+• Mike Wilson Head Coach MWW@athletics.wisc.edu 608- Men's Golf
+• Todd Oehrlein Head Coach TSO@athletics.wisc.edu 608- Women's Golf
+• Morgan Baxendale Assistant Coach MEB@athletics.wisc.edu 608- Women's Golf
+• Jackie Crum Assistant Coach JRF@athletics.wisc.edu 608- Women's
+• Vicky Opitz Head Coach VJO@athletics.wisc.edu 608- Women's
+• Hadzo "Hodge" Habibovic Assistant Coach HHH@athletics.wisc.edu 608- Lightweight
+• Chris Lalande Assistant Coach CPL@athletics.wisc.edu Women's
+• Meg Gibson Assistant Coach MEG@athletics.wisc.edu Women's
+• Mary Anderson Assistant Coach MA3@athletics.wisc.edu LIghtweight
+• Beau Hoopman Head Coach BH1@athletics.wisc.edu 608- Men's Rowing
+• Adam Wehking Assistant Coach AW3@athletics.wisc.edu 608- Men's Rowing
+• Peter Turney Assistant Coach pnt@athletics.wisc.edu Men's Rowing
+• Lowell McNicholas Coaching Assistant LM4@athletics.wisc.edu 608-
+• Vicky Opitz Head Coach VJO@athletics.wisc.edu 608- Women's
+• Meg Gibson Assistant Coach MEG@athletics.wisc.edu Women's
+• Chris Lalande Assistant Coach CPL@athletics.wisc.edu Women's
+• Hadzo "Hodge" Habibovic Assistant Coach HHH@athletics.wisc.edu 608- Lightweight
+• Mary Anderson Assistant Coach MA3@athletics.wisc.edu LIghtweight
+• Neil Jones Head Coach NWJ@athletics.wisc.edu Men's Soccer
+• Nate Boyden Assistant Coach NBB@athletics.wisc.edu Men's Soccer
+• Tyler Smith Coaching Assistant twsmith3@athletics.wisc.edu
+• Paula Wilkins Head Coach PLW@athletics.wisc.edu Women's Soccer
+• Jon Gulrajani Assistant Coach JJG@athletics.wisc.edu Women's Soccer
+• Yvette Healy Head Coach YTH@athletics.wisc.edu Softball
+• Jack Brown Head Coach JB8@athletics.wisc.edu Men's Swimming
+• Jennah Haney Assistant Coach - JLH@athletics.wisc.edu Men's Swimming
+• Caleb Aman Assistant Coach CRA@athletics.wisc.edu 608- Men's Swimming
+• Andrew Capobianco Assistant Coach - ac3@athletics.wisc.edu (608) Men's Swimming
+• Johno Fergusson Assistant Coach jlf@athletics.wisc.edu (608) Men's Swimming
+• Ted Patton Assistant Coach tdp@athletics.wisc.edu (608) Men's Swimming
+• Beata Nelson Assistant Coach bdn@athletics.wisc.edu (608) Men's Swimming
+• Jack Brown Head Coach JB8@athletics.wisc.edu Men's Swimming
+• Jennah Haney Assistant Coach - JLH@athletics.wisc.edu Men's Swimming
+• Andrew Capobianco Assistant Coach - ac3@athletics.wisc.edu (608) Men's Swimming
+• Johno Fergusson Assistant Coach jlf@athletics.wisc.edu (608) Men's Swimming
+• Ted Patton Assistant Coach tdp@athletics.wisc.edu (608) Men's Swimming
+• Beata Nelson Assistant Coach bdn@athletics.wisc.edu (608) Men's Swimming
+• Danny Westerman Head Coach DBW@athletics.wisc.edu Men's Tennis
+• Dave Astrauskas Assistant Coach - DLA@athletics.wisc.edu 608- M/W Track &
+• Nate Davis Assistant Coach - NKD@athletics.wisc.edu 608- M/W Track &
+• Aaron Watson Assistant Coach - AAW@athletics.wisc.edu (608) M/W Cross
+• Lindsay Crevoiserat Assistant Coach- LEC@athletics.wisc.edu 608- Men's Cross
+• Dave Astrauskas Assistant Coach - DLA@athletics.wisc.edu 608- M/W Track &
+• Nate Davis Assistant Coach - NKD@athletics.wisc.edu 608- M/W Track &
+• Aaron Watson Assistant Coach - AAW@athletics.wisc.edu (608) M/W Cross
+• Lindsay Crevoiserat Assistant Coach- LEC@athletics.wisc.edu 608- Men's Cross
+• Lauren Carlini Assistant Coach lnc@athletics.wisc.edu Volleyball
+• John Shondell Assistant Coach jls@athletics.wisc.edu Volleyball
+• Chris Bono Head Coach CMB@athletics.wisc.edu 608- Wrestling,
+• Tony Cassioppi Assistant Coach ALC@athletics.wisc.edu 608- Wrestling,

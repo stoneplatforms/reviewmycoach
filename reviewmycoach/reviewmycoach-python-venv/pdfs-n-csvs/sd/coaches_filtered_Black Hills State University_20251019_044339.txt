@@ -1,0 +1,203 @@
+COACH ENTRIES FOUND - 2025-10-19 04:43:39
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mark Nore
+   Email: Mark.Nore@bhsu.edu
+   Username: Mark.Nore
+   Original line: Mark Nore Director of Athletics Mark.Nore@bhsu.edu (605) @CoachNore
+
+2. Clayton Koch
+   Email: Clayton.Koch@bhsu.edu
+   Username: Clayton.Koch
+   Original line: Clayton Koch Athletic Performance Co-Director Clayton.Koch@bhsu.edu @CoachC_Koch
+
+3. Josh Breske
+   Email: Josh.Breske@bhsu.edu
+   Username: Josh.Breske
+   Original line: Josh Breske Head Coach (Offensive Line) Josh.Breske@bhsu.edu (605) @breskejosh
+
+4. JB Brown
+   Email: JB.Brown@bhsu.edu
+   Username: JB.Brown
+   Original line: JB Brown Associate Head Coach & Defensive JB.Brown@bhsu.edu (605) @CoachJB_Brown
+
+5. Drake Davidson
+   Email: Drake.Davidson@bhsu.edu
+   Username: Drake.Davidson
+   Original line: Drake Davidson Assistant Coach (Wide Receivers) Drake.Davidson@bhsu.edu @DavidsonDrake12
+
+6. Joe Sturdivant
+   Email: Joseph.Sturdivant@bhsu.edu
+   Username: Joseph.Sturdivant
+   Original line: Joe Sturdivant Assistant Coach (Defensive Backs) Joseph.Sturdivant@bhsu.edu @CoachSturdivan1
+
+7. Brendan Webb
+   Email: Brendan.Webb@bhsu.edu
+   Username: Brendan.Webb
+   Original line: Brendan Webb Assistant Coach (Defensive Line) Brendan.Webb@bhsu.edu @CoachWebb91
+
+8. Nick Stazer
+   Email: Nick.Stazer@bhsu.edu
+   Username: Nick.Stazer
+   Original line: Nick Stazer Assistant Coach (Tight Ends) Nick.Stazer@bhsu.edu @CoachStazer
+
+9. Ty Schafer
+   Email: Ty.Schafer@yellowjackets.bhsu.edu
+   Username: Ty.Schafer
+   Original line: Ty Schafer Graduate Assistant (Defensive Backs) Ty.Schafer@yellowjackets.bhsu.edu @CoachSchafer4
+
+10. Clayton Koch
+   Email: Clayton.Koch@bhsu.edu
+   Username: Clayton.Koch
+   Original line: Clayton Koch Athletic Performance Co-Director Clayton.Koch@bhsu.edu @CoachC_Koch
+
+11. Ryan Thompson
+   Email: Ryan.Thompson@bhsu.edu
+   Username: Ryan.Thompson
+   Original line: Ryan Thompson Head Coach Ryan.Thompson@bhsu.edu (605) @CoachThompsonBH
+
+12. Makaleb McInnis
+   Email: Makaleb.McInnis@bhsu.edu
+   Username: Makaleb.McInnis
+   Original line: Makaleb McInnis Associate Head Coach Makaleb.McInnis@bhsu.edu (605)
+
+13. Jackson Kiburis
+   Email: Jackson.Kiburis@yellowjackets.bhsu.edu
+   Username: Jackson.Kiburis
+   Original line: Jackson Kiburis Assistant Coach Jackson.Kiburis@yellowjackets.bhsu.edu
+
+14. Nate Brown
+   Email: Nathan.Brown@bhsu.edu
+   Username: Nathan.Brown
+   Original line: Nate Brown Assistant Coach Nathan.Brown@bhsu.edu
+
+15. Alex Kemp
+   Email: alexander.kemp@bhsu.edu
+   Username: alexander.kemp
+   Original line: Alex Kemp Head Coach alexander.kemp@bhsu.edu (217)
+
+16. Alese Sartain
+   Email: Alese.Sartain@bhsu.edu
+   Username: Alese.Sartain
+   Original line: Alese Sartain Assistant Coach (Distance) Alese.Sartain@bhsu.edu
+
+17. Jesse Bleidt
+   Email: Jesse.Bleidt@bhsu.edu
+   Username: Jesse.Bleidt
+   Original line: Jesse Bleidt Assistant Coach (Throws) Jesse.Bleidt@bhsu.edu
+
+18. Alese Sartain
+   Email: Alese.Sartain@bhsu.edu
+   Username: Alese.Sartain
+   Original line: Alese Sartain Assistant Coach (Distance) Alese.Sartain@bhsu.edu
+
+19. Glen Lammers
+   Email: Glen.Lammers@bhsu.edu
+   Username: Glen.Lammers
+   Original line: Glen Lammers Head Coach Glen.Lammers@bhsu.edu (605)
+
+20. Ashlyn Englehorn
+   Email: Softball@bhsu.edu
+   Username: Softball
+   Original line: Ashlyn Englehorn Head Coach Softball@bhsu.edu
+
+21. Sam Woodley
+   Email: Softball@bhsu.edu
+   Username: Softball
+   Original line: Sam Woodley Assistant Coach Softball@bhsu.edu
+
+22. Kelly Kruger
+   Email: Kelvin.Kruger@bhsu.edu
+   Username: Kelvin.Kruger
+   Original line: Kelly Kruger Interim Head Coach Kelvin.Kruger@bhsu.edu
+
+23. Adam Schorzmann
+   Email: Adam.Schorzmann@bhsu.edu
+   Username: Adam.Schorzmann
+   Original line: Adam Schorzmann Assistant Coach Adam.Schorzmann@bhsu.edu
+
+24. Randy Doran
+   Email: Randall.Doran@bhsu.edu
+   Username: Randall.Doran
+   Original line: Randy Doran Head Coach Randall.Doran@bhsu.edu (605)
+
+25. John Hutchison
+   Email: John.Hutchison@bhsu.edu
+   Username: John.Hutchison
+   Original line: John Hutchison Head Coach John.Hutchison@bhsu.edu
+
+26. Connor Campbell
+   Email: Connor.Campbell@bhsu.edu
+   Username: Connor.Campbell
+   Original line: Connor Campbell Assistant Coach Connor.Campbell@bhsu.edu
+
+27. Alex Kemp
+   Email: alexander.kemp@bhsu.edu
+   Username: alexander.kemp
+   Original line: Alex Kemp Head Coach alexander.kemp@bhsu.edu (217)
+
+28. Alese Sartain
+   Email: Alese.Sartain@bhsu.edu
+   Username: Alese.Sartain
+   Original line: Alese Sartain Assistant Coach (Distance) Alese.Sartain@bhsu.edu
+
+29. Jesse Bleidt
+   Email: Jesse.Bleidt@bhsu.edu
+   Username: Jesse.Bleidt
+   Original line: Jesse Bleidt Assistant Coach (Throws) Jesse.Bleidt@bhsu.edu
+
+30. Katie Christy
+   Email: katie.christy@bhsu.edu
+   Username: katie.christy
+   Original line: Katie Christy Head Women's Triathlon Coach katie.christy@bhsu.edu
+
+31. Grayson DuBose
+   Email: grayson.dubose@bhsu.edu
+   Username: grayson.dubose
+   Original line: Grayson DuBose Head Volleyball Coach grayson.dubose@bhsu.edu (435)
+
+32. Alese Sartain
+   Email: Alese.Sartain@bhsu.edu
+   Username: Alese.Sartain
+   Original line: Alese Sartain Assistant Coach (Distance) Alese.Sartain@bhsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mark Nore Director of Athletics Mark.Nore@bhsu.edu (605) @CoachNore
+• Clayton Koch Athletic Performance Co-Director Clayton.Koch@bhsu.edu @CoachC_Koch
+• Josh Breske Head Coach (Offensive Line) Josh.Breske@bhsu.edu (605) @breskejosh
+• JB Brown Associate Head Coach & Defensive JB.Brown@bhsu.edu (605) @CoachJB_Brown
+• Drake Davidson Assistant Coach (Wide Receivers) Drake.Davidson@bhsu.edu @DavidsonDrake12
+• Joe Sturdivant Assistant Coach (Defensive Backs) Joseph.Sturdivant@bhsu.edu @CoachSturdivan1
+• Brendan Webb Assistant Coach (Defensive Line) Brendan.Webb@bhsu.edu @CoachWebb91
+• Nick Stazer Assistant Coach (Tight Ends) Nick.Stazer@bhsu.edu @CoachStazer
+• Ty Schafer Graduate Assistant (Defensive Backs) Ty.Schafer@yellowjackets.bhsu.edu @CoachSchafer4
+• Clayton Koch Athletic Performance Co-Director Clayton.Koch@bhsu.edu @CoachC_Koch
+• Ryan Thompson Head Coach Ryan.Thompson@bhsu.edu (605) @CoachThompsonBH
+• Makaleb McInnis Associate Head Coach Makaleb.McInnis@bhsu.edu (605)
+• Jackson Kiburis Assistant Coach Jackson.Kiburis@yellowjackets.bhsu.edu
+• Nate Brown Assistant Coach Nathan.Brown@bhsu.edu
+• Alex Kemp Head Coach alexander.kemp@bhsu.edu (217)
+• Alese Sartain Assistant Coach (Distance) Alese.Sartain@bhsu.edu
+• Jesse Bleidt Assistant Coach (Throws) Jesse.Bleidt@bhsu.edu
+• Alese Sartain Assistant Coach (Distance) Alese.Sartain@bhsu.edu
+• Glen Lammers Head Coach Glen.Lammers@bhsu.edu (605)
+• Ashlyn Englehorn Head Coach Softball@bhsu.edu
+• Sam Woodley Assistant Coach Softball@bhsu.edu
+• Kelly Kruger Interim Head Coach Kelvin.Kruger@bhsu.edu
+• Adam Schorzmann Assistant Coach Adam.Schorzmann@bhsu.edu
+• Randy Doran Head Coach Randall.Doran@bhsu.edu (605)
+• John Hutchison Head Coach John.Hutchison@bhsu.edu
+• Connor Campbell Assistant Coach Connor.Campbell@bhsu.edu
+• Alex Kemp Head Coach alexander.kemp@bhsu.edu (217)
+• Alese Sartain Assistant Coach (Distance) Alese.Sartain@bhsu.edu
+• Jesse Bleidt Assistant Coach (Throws) Jesse.Bleidt@bhsu.edu
+• Katie Christy Head Women's Triathlon Coach katie.christy@bhsu.edu
+• Grayson DuBose Head Volleyball Coach grayson.dubose@bhsu.edu (435)
+• Alese Sartain Assistant Coach (Distance) Alese.Sartain@bhsu.edu

@@ -1,0 +1,96 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:05
+============================================================
+
+Total coaches found: 17
+
+PARSED ENTRIES:
+----------------------------------------
+1.  
+   Email: brian.greisman@msubillings.edu
+   Username: brian.greisman
+   Original line: Coach 2394 University brian.greisman@msubillings.edu
+
+2.  
+   Email: matthew.geoffrion@msubillings.edu
+   Username: matthew.geoffrion
+   Original line: Baseball Coach University matthew.geoffrion@msubillings.edu
+
+3.  
+   Email: bruce.chavka@msubillings.edu
+   Username: bruce.chavka
+   Original line: Basketball Coach 2371 bruce.chavka@msubillings.edu
+
+4.  
+   Email: kwoodin@msubillings.edu
+   Username: kwoodin
+   Original line: Basketball Coach 2107 Colorado kwoodin@msubillings.edu
+
+5.  
+   Email: alisha.breen@msubillings.edu
+   Username: alisha.breen
+   Original line: Basketball Coach 2368 or College alisha.breen@msubillings.edu
+
+6. Women's 2346
+   Email: womensbasketball@msubillings.edu
+   Username: womensbasketball
+   Original line: Women's 2346 Basketball Coach womensbasketball@msubillings.edu
+
+7. Avery Osborne Assistant Cheer & MSU Billings
+   Email: jonathan.woehl@msubillings.edu
+   Username: jonathan.woehl
+   Original line: Avery Osborne Assistant Cheer & MSU Billings Stunt Coach jonathan.woehl@msubillings.edu
+
+8.  
+   Email: zachary.girard1@msubillings.edu
+   Username: zachary.girard1
+   Original line: Field Coach zachary.girard1@msubillings.edu
+
+9. and Track & Field
+   Email: adam.buie@msubillings.edu
+   Username: adam.buie
+   Original line: and Track & Field Coach adam.buie@msubillings.edu
+
+10. Women's Golf 2396
+   Email: t.jovicevickovacic@msubillings.edu
+   Username: t.jovicevickovacic
+   Original line: Women's Golf 2396 Coach t.jovicevickovacic@msubillings.edu
+
+11.  
+   Email: hannah.anderson23@msubillings.edu
+   Username: hannah.anderson23
+   Original line: Soccer Coach 5912 State hannah.anderson23@msubillings.edu
+
+12.  
+   Email: kaitlyn.robertsroe@msubillings.edu
+   Username: kaitlyn.robertsroe
+   Original line: Coach 2398 Iowa University kaitlyn.robertsroe@msubillings.edu
+
+13.  
+   Email: brett.bowman@msubillings.edu
+   Username: brett.bowman
+   Original line: Coach brett.bowman@msubillings.edu
+
+14. Performance 2290
+   Email: ddesin@mtpeakperformance.com
+   Username: ddesin
+   Original line: Performance 2290 Coach ddesin@mtpeakperformance.com
+
+15.  
+   Email: nelsflanagan@gmail.com
+   Username: nelsflanagan
+   Original line: Field Coach nelsflanagan@gmail.com
+
+16. Track & Field
+   Email: zachary.girard1@msubillings.edu
+   Username: zachary.girard1
+   Original line: Track & Field Coach - Throws zachary.girard1@msubillings.edu
+
+17. Track & Field
+   Email: scott.keister@msubillings.edu
+   Username: scott.keister
+   Original line: Track & Field Coach scott.keister@msubillings.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

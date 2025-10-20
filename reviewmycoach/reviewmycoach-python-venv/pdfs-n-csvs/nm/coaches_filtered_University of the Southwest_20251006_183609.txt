@@ -1,0 +1,89 @@
+COACH ENTRIES FOUND - 2025-10-06 18:36:13
+============================================================
+
+Total coaches found: 13
+
+PARSED ENTRIES:
+----------------------------------------
+1. Steve Appel
+   Email: sappel@usw.edu
+   Username: sappel
+   Original line: Steve Appel Head Coach sappel@usw.edu 575-492-
+
+2. Caden Ledbetter
+   Email: cledbetter@usw.edu
+   Username: cledbetter
+   Original line: Caden Ledbetter Assistant Coach cledbetter@usw.edu 580-471-
+
+3. Steven Barker
+   Email: sbarker@usw.edu
+   Username: sbarker
+   Original line: Steven Barker Head Coach sbarker@usw.edu 575-492-
+
+4. Will Osborn
+   Email: wosborn@usw.edu
+   Username: wosborn
+   Original line: Will Osborn Associate Head Coach wosborn@usw.edu 575-492-
+
+5. Steven Barker
+   Email: sbarker@usw.edu
+   Username: sbarker
+   Original line: Steven Barker Head Coach sbarker@usw.edu 575-492-
+
+6. Shaye Smith
+   Email: ssmith@usw.edu
+   Username: ssmith
+   Original line: Shaye Smith Volunteer Assistant Coach ssmith@usw.edu
+
+7. Gabrielle Arsiaga
+   Email: garsiaga@usw.edu
+   Username: garsiaga
+   Original line: Gabrielle Arsiaga Head Coach garsiaga@usw.edu
+
+8. RJ Lester
+   Email: rlester@usw.edu
+   Username: rlester
+   Original line: RJ Lester Head Coach rlester@usw.edu 575-492-
+
+9. Edrian Negrete
+   Email: eenegrete@usw.edu
+   Username: eenegrete
+   Original line: Edrian Negrete Interim Head Coach eenegrete@usw.edu 951-531-
+
+10. Kayla Reynaud
+   Email: kreynaud@usw.edu
+   Username: kreynaud
+   Original line: Kayla Reynaud Assistant Coach kreynaud@usw.edu
+
+11. Edrian Negrete
+   Email: eenegrete@usw.edu
+   Username: eenegrete
+   Original line: Edrian Negrete Interim Head Coach eenegrete@usw.edu 951-531-
+
+12. Kayla Reynaud
+   Email: kreynaud@usw.edu
+   Username: kreynaud
+   Original line: Kayla Reynaud Assistant Coach kreynaud@usw.edu
+
+13. Chris Petroski
+   Email: cpetroski@usw.edu
+   Username: cpetroski
+   Original line: Chris Petroski Head Coach cpetroski@usw.edu 575-492-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Steve Appel Head Coach sappel@usw.edu 575-492-
+• Caden Ledbetter Assistant Coach cledbetter@usw.edu 580-471-
+• Steven Barker Head Coach sbarker@usw.edu 575-492-
+• Will Osborn Associate Head Coach wosborn@usw.edu 575-492-
+• Steven Barker Head Coach sbarker@usw.edu 575-492-
+• Shaye Smith Volunteer Assistant Coach ssmith@usw.edu
+• Gabrielle Arsiaga Head Coach garsiaga@usw.edu
+• RJ Lester Head Coach rlester@usw.edu 575-492-
+• Edrian Negrete Interim Head Coach eenegrete@usw.edu 951-531-
+• Kayla Reynaud Assistant Coach kreynaud@usw.edu
+• Edrian Negrete Interim Head Coach eenegrete@usw.edu 951-531-
+• Kayla Reynaud Assistant Coach kreynaud@usw.edu
+• Chris Petroski Head Coach cpetroski@usw.edu 575-492-

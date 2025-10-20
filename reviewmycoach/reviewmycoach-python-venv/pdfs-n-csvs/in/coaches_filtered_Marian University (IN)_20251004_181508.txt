@@ -1,0 +1,270 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:08
+============================================================
+
+Total coaches found: 39
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nick Ford
+   Email: nford@marian.edu
+   Username: nford
+   Original line: Nick Ford Assistant Strength & Conditioning Coach nford@marian.edu
+
+2. Todd Miller
+   Email: tmiller1@marian.edu
+   Username: tmiller1
+   Original line: Todd Miller Head Baseball Coach tmiller1@marian.edu
+
+3. Dan Wilcher
+   Email: dwilcher@marian.edu
+   Username: dwilcher
+   Phone: 317.955.6714
+   Original line: Dan Wilcher Assistant Coach dwilcher@marian.edu 317.955.6714
+
+4. Pat Knight
+   Email: pknight@marian.edu
+   Username: pknight
+   Original line: Pat Knight Head Men's Basketball Coach pknight@marian.edu
+
+5. Todd Howard
+   Email: thoward@marian.edu
+   Username: thoward
+   Original line: Todd Howard Associate Head Coach thoward@marian.edu
+
+6. Suntana Anderson
+   Email: sanderson1@marian.edu
+   Username: sanderson1
+   Original line: Suntana Anderson Head Women's Basketball Coach sanderson1@marian.edu
+
+7. Cedric Ridle
+   Email: cridle@marian.edu
+   Username: cridle
+   Original line: Cedric Ridle Assistant Coach cridle@marian.edu
+
+8. Megan Mansaray
+   Email: mmansaray@marian.edu
+   Username: mmansaray
+   Original line: Megan Mansaray Assistant Coach mmansaray@marian.edu
+
+9. Jordan Gray
+   Email: jgray@marian.edu
+   Username: jgray
+   Phone: 317.955.6371
+   Original line: Jordan Gray Head Coach jgray@marian.edu 317.955.6371
+
+10. Jerracah Gray
+   Email: jgray2@marian.edu
+   Username: jgray2
+   Original line: Jerracah Gray Associate Head Coach jgray2@marian.edu
+
+11. Jena Robinson
+   Email: jrobinson2@marian.edu
+   Username: jrobinson2
+   Phone: 317.955.6753
+   Original line: Jena Robinson Head Coach - Competition Cheer jrobinson2@marian.edu 317.955.6753
+
+12. Aly Vonier
+   Email: avonier@marian.edu
+   Username: avonier
+   Phone: 317.955.6819
+   Original line: Aly Vonier Gameday Cheer Head Coach avonier@marian.edu 317.955.6819
+
+13. Presley Martin
+   Email: pmartin1@marian.edu
+   Username: pmartin1
+   Phone: 317.955.6429
+   Original line: Presley Martin Head Cross Country Coach / Distance Coach pmartin1@marian.edu 317.955.6429
+
+14. John Hoopingarner
+   Email: jhoopingarner@marian.edu
+   Username: jhoopingarner
+   Phone: 317.778.1056
+   Original line: John Hoopingarner Cycling Director and Head Coach jhoopingarner@marian.edu 317.778.1056
+
+15. Ted Karras
+   Email: tkarrasjr@marian.edu
+   Username: tkarrasjr
+   Phone: 317.955.6684
+   Original line: Ted Karras Jr. Head Coach tkarrasjr@marian.edu 317.955.6684
+
+16. Rodney Deckard
+   Email: rdeckard1@marian.edu
+   Username: rdeckard1
+   Phone: 317.946.1133
+   Original line: Rodney Deckard Associate Head Coach/Defensive Line rdeckard1@marian.edu 317.946.1133
+
+17. Steve Tutsie
+   Email: stutsie2@marian.edu
+   Username: stutsie2
+   Phone: 317.955.6748
+   Original line: Steve Tutsie Assistant Head Coach/Special Teams stutsie2@marian.edu 317.955.6748
+
+18. Matt King
+   Email: mking1@marian.edu
+   Username: mking1
+   Original line: Matt King Offensive Coordinator/Quarterbacks Coach mking1@marian.edu
+
+19. Dan Smith
+   Email: dsmith3@marian.edu
+   Username: dsmith3
+   Phone: 317.955.6399
+   Original line: Dan Smith Offensive Line Coach/Equipment Coordinator dsmith3@marian.edu 317.955.6399
+
+20. Henry Brown
+   Email: hdbrown@marian.edu
+   Username: hdbrown
+   Phone: 317.955.6541
+   Original line: Henry Brown Running Backs Coach/Co-Recruiting Coordinator hdbrown@marian.edu 317.955.6541
+
+21. Steve Simmons
+   Email: ssimmons@marian.edu
+   Username: ssimmons
+   Original line: Steve Simmons Men's Golf Head Coach ssimmons@marian.edu
+
+22. Dan Stanjevich
+   Email: dstanjevich@marian.edu
+   Username: dstanjevich
+   Phone: 317.955.6546
+   Original line: Dan Stanjevich Women's Golf Head Coach dstanjevich@marian.edu 317.955.6546
+
+23. Allie Storke-Sneed
+   Email: astorke@marian.edu
+   Username: astorke
+   Phone: 317.955.6468
+   Original line: Allie Storke-Sneed Head Coach astorke@marian.edu 317.955.6468
+
+24. John Harley
+   Email: jharley@marian.edu
+   Username: jharley
+   Phone: 317.955.6328
+   Original line: John Harley Head Coach jharley@marian.edu 317.955.6328
+
+25. James Jenkins
+   Email: jjenkins@marian.edu
+   Username: jjenkins
+   Original line: James Jenkins Head Coach jjenkins@marian.edu
+
+26. Romaric Berneron
+   Email: rberneron@marian.edu
+   Username: rberneron
+   Original line: Romaric Berneron Assistant Coach/ DT Head Coach rberneron@marian.edu
+
+27. Justin Sullivan
+   Email: jsullivan@marian.edu
+   Username: jsullivan
+   Phone: 317.439.7973
+   Original line: Justin Sullivan Head Coach jsullivan@marian.edu 317.439.7973
+
+28. Doug Starnes
+   Email: tstarnes@marian.edu
+   Username: tstarnes
+   Phone: 317.955.6203
+   Original line: Doug Starnes Assistant Coach/DT Head Coach tstarnes@marian.edu 317.955.6203
+
+29. Mike Beckner
+   Email: mbeckner@marian.edu
+   Username: mbeckner
+   Phone: 815.351.5493
+   Original line: Mike Beckner Assistant Coach mbeckner@marian.edu 815.351.5493
+
+30. Noelle Molenda
+   Email: athnjester@marian.edu
+   Username: athnjester
+   Original line: Noelle Molenda Assistant Coach athnjester@marian.edu
+
+31. Scott Fleming
+   Email: sfleming@marian.edu
+   Username: sfleming
+   Phone: 317.955.6106
+   Original line: Scott Fleming Head Coach sfleming@marian.edu 317.955.6106
+
+32. Steve Mackell
+   Email: smackell@marian.edu
+   Username: smackell
+   Phone: 317.955.6179
+   Original line: Steve Mackell Men's Tennis Head Coach smackell@marian.edu 317.955.6179
+
+33. Tyler Scanlan
+   Email: tscanlan@marian.edu
+   Username: tscanlan
+   Phone: 317.955.9494
+   Original line: Tyler Scanlan Women's Tennis Head Coach tscanlan@marian.edu 317.955.9494
+
+34. Tyler Scanlan
+   Email: tscanlan@marian.edu
+   Username: tscanlan
+   Phone: 317.955.9494
+   Original line: Tyler Scanlan Women's Tennis Head Coach tscanlan@marian.edu 317.955.9494
+
+35. Steve Mackell
+   Email: smackell@marian.edu
+   Username: smackell
+   Phone: 317.955.6179
+   Original line: Steve Mackell Men's Tennis Head Coach smackell@marian.edu 317.955.6179
+
+36. Presley Martin
+   Email: pmartin1@marian.edu
+   Username: pmartin1
+   Phone: 317.955.6429
+   Original line: Presley Martin Head Cross Country Coach / Distance Coach pmartin1@marian.edu 317.955.6429
+
+37. Ryan Bowerman
+   Email: rbowerman@marian.edu
+   Username: rbowerman
+   Original line: Ryan Bowerman Women's Volleyball Head Coach rbowerman@marian.edu
+
+38. Steven Bradley
+   Email: sbradley@marian.edu
+   Username: sbradley
+   Phone: 317.955.6462
+   Original line: Steven Bradley Head Coach sbradley@marian.edu 317.955.6462
+
+39. Art Canales
+   Email: acanales@marian.edu
+   Username: acanales
+   Phone: 317.955.6785
+   Original line: Art Canales Assistant Coach acanales@marian.edu 317.955.6785
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Nick Ford Assistant Strength & Conditioning Coach nford@marian.edu
+• Todd Miller Head Baseball Coach tmiller1@marian.edu
+• Dan Wilcher Assistant Coach dwilcher@marian.edu 317.955.6714
+• Pat Knight Head Men's Basketball Coach pknight@marian.edu
+• Todd Howard Associate Head Coach thoward@marian.edu
+• Suntana Anderson Head Women's Basketball Coach sanderson1@marian.edu
+• Cedric Ridle Assistant Coach cridle@marian.edu
+• Megan Mansaray Assistant Coach mmansaray@marian.edu
+• Jordan Gray Head Coach jgray@marian.edu 317.955.6371
+• Jerracah Gray Associate Head Coach jgray2@marian.edu
+• Jena Robinson Head Coach - Competition Cheer jrobinson2@marian.edu 317.955.6753
+• Aly Vonier Gameday Cheer Head Coach avonier@marian.edu 317.955.6819
+• Presley Martin Head Cross Country Coach / Distance Coach pmartin1@marian.edu 317.955.6429
+• John Hoopingarner Cycling Director and Head Coach jhoopingarner@marian.edu 317.778.1056
+• Ted Karras Jr. Head Coach tkarrasjr@marian.edu 317.955.6684
+• Rodney Deckard Associate Head Coach/Defensive Line rdeckard1@marian.edu 317.946.1133
+• Steve Tutsie Assistant Head Coach/Special Teams stutsie2@marian.edu 317.955.6748
+• Matt King Offensive Coordinator/Quarterbacks Coach mking1@marian.edu
+• Dan Smith Offensive Line Coach/Equipment Coordinator dsmith3@marian.edu 317.955.6399
+• Henry Brown Running Backs Coach/Co-Recruiting Coordinator hdbrown@marian.edu 317.955.6541
+• Steve Simmons Men's Golf Head Coach ssimmons@marian.edu
+• Dan Stanjevich Women's Golf Head Coach dstanjevich@marian.edu 317.955.6546
+• Allie Storke-Sneed Head Coach astorke@marian.edu 317.955.6468
+• John Harley Head Coach jharley@marian.edu 317.955.6328
+• James Jenkins Head Coach jjenkins@marian.edu
+• Romaric Berneron Assistant Coach/ DT Head Coach rberneron@marian.edu
+• Justin Sullivan Head Coach jsullivan@marian.edu 317.439.7973
+• Doug Starnes Assistant Coach/DT Head Coach tstarnes@marian.edu 317.955.6203
+• Mike Beckner Assistant Coach mbeckner@marian.edu 815.351.5493
+• Noelle Molenda Assistant Coach athnjester@marian.edu
+• Scott Fleming Head Coach sfleming@marian.edu 317.955.6106
+• Steve Mackell Men's Tennis Head Coach smackell@marian.edu 317.955.6179
+• Tyler Scanlan Women's Tennis Head Coach tscanlan@marian.edu 317.955.9494
+• Tyler Scanlan Women's Tennis Head Coach tscanlan@marian.edu 317.955.9494
+• Steve Mackell Men's Tennis Head Coach smackell@marian.edu 317.955.6179
+• Presley Martin Head Cross Country Coach / Distance Coach pmartin1@marian.edu 317.955.6429
+• Ryan Bowerman Women's Volleyball Head Coach rbowerman@marian.edu
+• Steven Bradley Head Coach sbradley@marian.edu 317.955.6462
+• Art Canales Assistant Coach acanales@marian.edu 317.955.6785

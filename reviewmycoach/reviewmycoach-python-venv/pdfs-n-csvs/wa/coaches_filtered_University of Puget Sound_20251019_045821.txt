@@ -1,0 +1,240 @@
+COACH ENTRIES FOUND - 2025-10-19 04:58:21
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jeff Halstead
+   Email: jhalstead@pugetsound.edu
+   Username: jhalstead
+   Phone: (253) 879-3460
+   Original line: Jeff Halstead Head Baseball Coach jhalstead@pugetsound.edu 253-879-3460
+
+2. Bob Walz
+   Email: rwalz@pugetsound.edu
+   Username: rwalz
+   Phone: (253) 879-3265
+   Original line: Bob Walz Assistant Baseball Coach: Bullpen and Bench rwalz@pugetsound.edu 253-879-3265
+
+3. AJ Morioka
+   Email: amorioka@pugetsound.edu
+   Username: amorioka
+   Original line: AJ Morioka Assistant Coach / Recruiting Coordinator amorioka@pugetsound.edu
+
+4. Aubrey Shelton
+   Email: ashelton@pugetsound.edu
+   Username: ashelton
+   Original line: Aubrey Shelton Head Coach ashelton@pugetsound.edu
+
+5. Barson Collins
+   Email: bhcollins@pugetsound.edu
+   Username: bhcollins
+   Original line: Barson Collins Assistant Coach bhcollins@pugetsound.edu
+
+6. Casey Kushiyama
+   Email: ckushiyama@pugetsound.edu
+   Username: ckushiyama
+   Phone: (253) 879-3421
+   Original line: Casey Kushiyama Head Coach ckushiyama@pugetsound.edu 253-879-3421
+
+7. Joleen LaMay
+   Email: jlamay@pugetsound.edu
+   Username: jlamay
+   Phone: (253) 879-3421
+   Original line: Joleen LaMay Assistant Coach jlamay@pugetsound.edu 253-879-3421
+
+8. David Hammond
+   Email: davidhammond@pugetsound.edu
+   Username: davidhammond
+   Original line: David Hammond Head Coach davidhammond@pugetsound.edu
+
+9. Jessica Manginelli
+   Email: jmanginelli@pugetsound.edu
+   Username: jmanginelli
+   Original line: Jessica Manginelli Assistant Coach / Recruiting Coordinator jmanginelli@pugetsound.edu
+
+10. Lisa Kushiyama
+   Email: lkushiyama@pugetsound.edu
+   Username: lkushiyama
+   Original line: Lisa Kushiyama Head Coach lkushiyama@pugetsound.edu
+
+11. Jeff Thomas
+   Email: jeffthomas@pugetsound.edu
+   Username: jeffthomas
+   Phone: (253) 879-3457
+   Original line: Jeff Thomas Head Football Coach jeffthomas@pugetsound.edu 253-879-3457
+
+12. Jeff Schmidt
+   Email: jmschmidt@pugetsound.edu
+   Username: jmschmidt
+   Phone: (253) 879-3452
+   Original line: Jeff Schmidt Recruiting Coordinator and Linebackers Coach jmschmidt@pugetsound.edu 253-879-3452
+
+13. Mitch Habryle
+   Email: mhabryle@pugetsound.edu
+   Username: mhabryle
+   Original line: Mitch Habryle Kicking Coach, Academic Coordinator mhabryle@pugetsound.edu
+
+14. Ryan Rogers
+   Email: rrogers@pugetsound.edu
+   Username: rrogers
+   Original line: Ryan Rogers Wide Receivers Coach rrogers@pugetsound.edu
+
+15. Max Arneklev
+   Email: marneklev@pugetsound.edu
+   Username: marneklev
+   Original line: Max Arneklev Linebackers Coach marneklev@pugetsound.edu
+
+16. Nate Gillam
+   Email: ndgillam@pugetsound.edu
+   Username: ndgillam
+   Original line: Nate Gillam Corners Coach ndgillam@pugetsound.edu
+
+17. Tommy Milton
+   Email: tmilton@pugetsound.edu
+   Username: tmilton
+   Original line: Tommy Milton Assistant Wide Receiver Coach tmilton@pugetsound.edu
+
+18. Conner Robbins
+   Email: crobbins@pugetsound.edu
+   Username: crobbins
+   Original line: Conner Robbins Men's and Women's Golf Head Coach crobbins@pugetsound.edu
+
+19. Ashley Eddolls
+   Email: aeddolls@pugetsound.edu
+   Username: aeddolls
+   Original line: Ashley Eddolls Head Coach aeddolls@pugetsound.edu
+
+20. Steve Mohn
+   Email: smohn@pugetsound.edu
+   Username: smohn
+   Original line: Steve Mohn Head Coach smohn@pugetsound.edu
+
+21. Greg Swanson
+   Email: gswanson@pugetsound.edu
+   Username: gswanson
+   Original line: Greg Swanson Assistant Men's Soccer Coach gswanson@pugetsound.edu
+
+22. Joey Gjertsen
+   Email: jgjertsen@pugetsound.edu
+   Username: jgjertsen
+   Original line: Joey Gjertsen Assistant Coach jgjertsen@pugetsound.edu
+
+23. Zach Taylor
+   Email: zrtaylor@pugetsound.edu
+   Username: zrtaylor
+   Original line: Zach Taylor Assistant Coach zrtaylor@pugetsound.edu
+
+24. Stephanie Cox
+   Email: scox@pugetsound.edu
+   Username: scox
+   Original line: Stephanie Cox Head Coach scox@pugetsound.edu
+
+25. Jules Bushaw
+   Email: jbushaw@pugetsound.edu
+   Username: jbushaw
+   Original line: Jules Bushaw Assistant Coach jbushaw@pugetsound.edu
+
+26. Kara Dressel
+   Email: kdressel@pugetsound.edu
+   Username: kdressel
+   Phone: (253) 879-3444
+   Original line: Kara Dressel Head Coach kdressel@pugetsound.edu 253-879-3444
+
+27. Jay Daniels
+   Email: jdaniels@pugetsound.edu
+   Username: jdaniels
+   Original line: Jay Daniels Head Coach jdaniels@pugetsound.edu
+
+28. Tim Yu
+   Email: tyen@pugetsound.edu
+   Username: tyen
+   Original line: Tim Yu Yen Assistant Coach tyen@pugetsound.edu
+
+29. Mike Askew
+   Email: maskew@pugetsound.edu
+   Username: maskew
+   Original line: Mike Askew Assistant Coach maskew@pugetsound.edu
+
+30. Trever Gray
+   Email: togray@pugetsound.edu
+   Username: togray
+   Original line: Trever Gray Assistant Coach togray@pugetsound.edu
+
+31. Mark Schramm
+   Email: mschramm@pugetsound.edu
+   Username: mschramm
+   Original line: Mark Schramm Assistant Coach mschramm@pugetsound.edu
+
+32. Matthew Simons
+   Email: msimons@pugetsound.edu
+   Username: msimons
+   Original line: Matthew Simons Tennis Head Coach msimons@pugetsound.edu
+
+33. Matthew Simons
+   Email: msimons@pugetsound.edu
+   Username: msimons
+   Original line: Matthew Simons Tennis Head Coach msimons@pugetsound.edu
+
+34. Lisa Kushiyama
+   Email: lkushiyama@pugetsound.edu
+   Username: lkushiyama
+   Original line: Lisa Kushiyama Head Coach lkushiyama@pugetsound.edu
+
+35. Randy Moon
+   Email: rmoon@pugetsound.edu
+   Username: rmoon
+   Original line: Randy Moon Heptathlon/Decathlon Coach rmoon@pugetsound.edu
+
+36. Jamie Carlson
+   Email: jdcarlson@pugetsound.edu
+   Username: jdcarlson
+   Original line: Jamie Carlson Throws/Pole Vault Coach jdcarlson@pugetsound.edu
+
+37. Mark Massey
+   Email: mmassey@pugetsound.edu
+   Username: mmassey
+   Original line: Mark Massey Head Volleyball Coach mmassey@pugetsound.edu (253) 879-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jeff Halstead Head Baseball Coach jhalstead@pugetsound.edu 253-879-3460
+• Bob Walz Assistant Baseball Coach: Bullpen and Bench rwalz@pugetsound.edu 253-879-3265
+• AJ Morioka Assistant Coach / Recruiting Coordinator amorioka@pugetsound.edu
+• Aubrey Shelton Head Coach ashelton@pugetsound.edu
+• Barson Collins Assistant Coach bhcollins@pugetsound.edu
+• Casey Kushiyama Head Coach ckushiyama@pugetsound.edu 253-879-3421
+• Joleen LaMay Assistant Coach jlamay@pugetsound.edu 253-879-3421
+• David Hammond Head Coach davidhammond@pugetsound.edu
+• Jessica Manginelli Assistant Coach / Recruiting Coordinator jmanginelli@pugetsound.edu
+• Lisa Kushiyama Head Coach lkushiyama@pugetsound.edu
+• Jeff Thomas Head Football Coach jeffthomas@pugetsound.edu 253-879-3457
+• Jeff Schmidt Recruiting Coordinator and Linebackers Coach jmschmidt@pugetsound.edu 253-879-3452
+• Mitch Habryle Kicking Coach, Academic Coordinator mhabryle@pugetsound.edu
+• Ryan Rogers Wide Receivers Coach rrogers@pugetsound.edu
+• Max Arneklev Linebackers Coach marneklev@pugetsound.edu
+• Nate Gillam Corners Coach ndgillam@pugetsound.edu
+• Tommy Milton Assistant Wide Receiver Coach tmilton@pugetsound.edu
+• Conner Robbins Men's and Women's Golf Head Coach crobbins@pugetsound.edu
+• Ashley Eddolls Head Coach aeddolls@pugetsound.edu
+• Steve Mohn Head Coach smohn@pugetsound.edu
+• Greg Swanson Assistant Men's Soccer Coach gswanson@pugetsound.edu
+• Joey Gjertsen Assistant Coach jgjertsen@pugetsound.edu
+• Zach Taylor Assistant Coach zrtaylor@pugetsound.edu
+• Stephanie Cox Head Coach scox@pugetsound.edu
+• Jules Bushaw Assistant Coach jbushaw@pugetsound.edu
+• Kara Dressel Head Coach kdressel@pugetsound.edu 253-879-3444
+• Jay Daniels Head Coach jdaniels@pugetsound.edu
+• Tim Yu Yen Assistant Coach tyen@pugetsound.edu
+• Mike Askew Assistant Coach maskew@pugetsound.edu
+• Trever Gray Assistant Coach togray@pugetsound.edu
+• Mark Schramm Assistant Coach mschramm@pugetsound.edu
+• Matthew Simons Tennis Head Coach msimons@pugetsound.edu
+• Matthew Simons Tennis Head Coach msimons@pugetsound.edu
+• Lisa Kushiyama Head Coach lkushiyama@pugetsound.edu
+• Randy Moon Heptathlon/Decathlon Coach rmoon@pugetsound.edu
+• Jamie Carlson Throws/Pole Vault Coach jdcarlson@pugetsound.edu
+• Mark Massey Head Volleyball Coach mmassey@pugetsound.edu (253) 879-

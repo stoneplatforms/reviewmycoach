@@ -1,0 +1,258 @@
+COACH ENTRIES FOUND - 2025-09-27 16:44:05
+============================================================
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mark Calvi
+   Email: mcalvi@southalabama.edu
+   Username: mcalvi
+   Original line: Mark Calvi Head Coach BBC mcalvi@southalabama.edu 251-414-
+
+2. Nick Magnifico
+   Email: magnifico@southalabama.edu
+   Username: magnifico
+   Original line: Nick Magnifico Assistant Coach BBC magnifico@southalabama.edu 251-460-
+
+3. Richie Riley
+   Email: rileyconroy@southalabama.edu
+   Username: rileyconroy
+   Original line: Richie Riley Head Coach MC 1273 rileyconroy@southalabama.edu 251-460-
+
+4. Rodney Crawford
+   Email: rcrawford@southalabama.edu
+   Username: rcrawford
+   Original line: Rodney Crawford Associate Head Coach MC 1273 rcrawford@southalabama.edu 251-460-
+
+5. Orin Bailey
+   Email: olbailey@southalabama.edu
+   Username: olbailey
+   Original line: Orin Bailey Jr. Assistant Coach MC 1273 olbailey@southalabama.edu 251-460-
+
+6. Riley Conroy
+   Email: rileyconroy@southalabama.edu
+   Username: rileyconroy
+   Original line: Riley Conroy Assistant Coach rileyconroy@southalabama.edu
+
+7. Ogi Vasiljevic
+   Email: ovasiljevic@southalabama.edu
+   Username: ovasiljevic
+   Original line: Ogi Vasiljevic Assistant Coach & Director of ovasiljevic@southalabama.edu
+
+8. Yolisha Jackson
+   Email: yolishajackson@southalabama.edu
+   Username: yolishajackson
+   Original line: Yolisha Jackson Head Coach MC 1208 yolishajackson@southalabama.edu 251-414-
+
+9. Eryc Pittman
+   Email: epittman@southalabama.edu
+   Username: epittman
+   Original line: Eryc Pittman Assistant Coach epittman@southalabama.edu 251-461-
+
+10. Colby Davis
+   Email: colbydavis@southalabama.edu
+   Username: colbydavis
+   Original line: Colby Davis Assistant Coach colbydavis@southalabama.edu 251-460-
+
+11. Marrius Jones
+   Email: marrius.jones@southalabama.edu
+   Username: marrius.jones
+   Original line: Marrius Jones Strength & Conditioning Coach marrius.jones@southalabama.edu
+
+12. Meredith Ivy
+   Email: mtuggle@southalabama.edu
+   Username: mtuggle
+   Original line: Meredith Ivy Dance Team Head Coach HKS mtuggle@southalabama.edu 251-460-
+
+13. Bre Gallia
+   Email: bkucera@southalabama.edu
+   Username: bkucera
+   Original line: Bre Gallia Cheerleading Head Coach HKS bkucera@southalabama.edu 251-460-
+
+14. Paul Brueske
+   Email: pbrueske@southalabama.edu
+   Username: pbrueske
+   Original line: Paul Brueske Head Coach / Throws TFA pbrueske@southalabama.edu 251-460-
+
+15. Lyndell Farmer
+   Email: lfarmer@southalabama.edu
+   Username: lfarmer
+   Original line: Lyndell Farmer Assistant Coach - Pole Vault, Middle TFA lfarmer@southalabama.edu 251-460-
+
+16. Parker Cowles
+   Email: pcowles@southalabama.edu
+   Username: pcowles
+   Original line: Parker Cowles Cross Country Head Coach TFA pcowles@southalabama.edu 251-460-
+
+17. Reagen Beal
+   Email: rbeal@southalabama.edu
+   Username: rbeal
+   Original line: Reagen Beal Assistant Coach- Sprints, Hurdles, rbeal@southalabama.edu
+
+18. Will Windham
+   Email: wwindham@southalabama.edu
+   Username: wwindham
+   Original line: Will Windham Assistant Coach -- Defensive FFH wwindham@southalabama.edu
+
+19. Paul Petrino
+   Email: petrino@southalabama.edu
+   Username: petrino
+   Original line: Paul Petrino Assistant Coach -- Offensive FFH petrino@southalabama.edu
+
+20. Tre' Williams
+   Email: trewilliams@southalabama.edu
+   Username: trewilliams
+   Original line: Tre' Williams Assistant Coach -- Special Teams FFH trewilliams@southalabama.edu
+
+21. Jason Washington
+   Email: jasonwashington@southalabama.edu
+   Username: jasonwashington
+   Original line: Jason Washington Assistant Coach -- Co-Defensive FFH jasonwashington@southalabama.edu
+
+22. Cameron Cleminson
+   Email: cleminson@southalabama.edu
+   Username: cleminson
+   Original line: Cameron Cleminson Assistant Coach -- Inside Linebackers FFH cleminson@southalabama.edu
+
+23. Kyle Skierski
+   Email: kyleskierski@southalabama.edu
+   Username: kyleskierski
+   Original line: Kyle Skierski Assistant Coach -- Tight Ends FFH kyleskierski@southalabama.edu
+
+24. Jason Onyebuagu
+   Email: jonyebuagu@southalabama.edu
+   Username: jonyebuagu
+   Original line: Jason Onyebuagu Assistant Coach -- Offensive Line FFH jonyebuagu@southalabama.edu
+
+25. Broderick Fobbs
+   Email: fobbs@southalabama.edu
+   Username: fobbs
+   Original line: Broderick Fobbs Assistant Coach -- Running Backs FFH fobbs@southalabama.edu
+
+26. Jerone Steckel
+   Email: jsteckel@southalabama.edu
+   Username: jsteckel
+   Original line: Jerone Steckel Assistant Coach -- Defensive Line FFH jsteckel@southalabama.edu
+
+27. Zach Crisler
+   Email: zcrisler@southalabama.edu
+   Username: zcrisler
+   Original line: Zach Crisler Assistant Coach -- Assistant FFH zcrisler@southalabama.edu
+
+28. Andrew Burkett
+   Email: aburkett@southalabama.edu
+   Username: aburkett
+   Original line: Andrew Burkett Special Assistant to the Head Coach FFH aburkett@southalabama.edu
+
+29. Ben Hannan
+   Email: bhannan@southalabama.edu
+   Username: bhannan
+   Original line: Ben Hannan Head Coach HKS Golf bhannan@southalabama.edu 251-460-
+
+30. Marcelo Huarte
+   Email: mhuarte@southalabama.edu
+   Username: mhuarte
+   Original line: Marcelo Huarte Head Coach HKS Golf mhuarte@southalabama.edu 251-460-
+
+31. Chris Hennessey
+   Email: chennessey@southalabama.edu
+   Username: chennessey
+   Original line: Chris Hennessey Head Coach chennessey@southalabama.edu
+
+32. Luidgi Beauzile
+   Email: beauzile@southalabama.edu
+   Username: beauzile
+   Original line: Luidgi Beauzile Associate Head Coach beauzile@southalabama.edu 954-635-
+
+33. Kate Dirkse
+   Email: kdirkse@southalabama.edu
+   Username: kdirkse
+   Original line: Kate Dirkse Assistant Coach kdirkse@southalabama.edu
+
+34. Becky Clark
+   Email: clark@southalabama.edu
+   Username: clark
+   Original line: Becky Clark Head Coach SB/SOC clark@southalabama.edu 251-460-
+
+35. Hannah Campbell
+   Email: hcampbell@southalabama.edu
+   Username: hcampbell
+   Original line: Hannah Campbell Associate Head Coach SB/SOC hcampbell@southalabama.edu 251-460-
+
+36. Kelly Horne
+   Email: Khorne@southalabama.edu
+   Username: Khorne
+   Original line: Kelly Horne Assistant Coach SB/SOC Khorne@southalabama.edu
+
+37. Nick Brochu
+   Email: nbrochu@southalabama.edu
+   Username: nbrochu
+   Original line: Nick Brochu Head Coach HKS TEN nbrochu@southalabama.edu 251-460-
+
+38. Jaco Keyser
+   Email: jkeyser@southalabama.edu
+   Username: jkeyser
+   Original line: Dr. Jaco Keyser Head Coach HKS TEN jkeyser@southalabama.edu 251-460-
+
+39. Jesse Ortiz
+   Email: volleyball@southalabama.edu
+   Username: volleyball
+   Original line: Jesse Ortiz Head Coach HKS VB volleyball@southalabama.edu 251-460-
+
+40. Maris Hall
+   Email: marisbelow@southalabama.edu
+   Username: marisbelow
+   Original line: Maris Hall Assistant Coach HKS VB marisbelow@southalabama.edu 251-460-
+
+41. Morgan Parsons
+   Email: stalcup@southalabama.edu
+   Username: stalcup
+   Phone: 461-1872
+   Original line: Morgan Parsons Assistant Coach HKS VB stalcup@southalabama.edu 461-1872
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mark Calvi Head Coach BBC mcalvi@southalabama.edu 251-414-
+• Nick Magnifico Assistant Coach BBC magnifico@southalabama.edu 251-460-
+• Richie Riley Head Coach MC 1273 rileyconroy@southalabama.edu 251-460-
+• Rodney Crawford Associate Head Coach MC 1273 rcrawford@southalabama.edu 251-460-
+• Orin Bailey Jr. Assistant Coach MC 1273 olbailey@southalabama.edu 251-460-
+• Riley Conroy Assistant Coach rileyconroy@southalabama.edu
+• Ogi Vasiljevic Assistant Coach & Director of ovasiljevic@southalabama.edu
+• Yolisha Jackson Head Coach MC 1208 yolishajackson@southalabama.edu 251-414-
+• Eryc Pittman Assistant Coach epittman@southalabama.edu 251-461-
+• Colby Davis Assistant Coach colbydavis@southalabama.edu 251-460-
+• Marrius Jones Strength & Conditioning Coach marrius.jones@southalabama.edu
+• Meredith Ivy Dance Team Head Coach HKS mtuggle@southalabama.edu 251-460-
+• Bre Gallia Cheerleading Head Coach HKS bkucera@southalabama.edu 251-460-
+• Paul Brueske Head Coach / Throws TFA pbrueske@southalabama.edu 251-460-
+• Lyndell Farmer Assistant Coach - Pole Vault, Middle TFA lfarmer@southalabama.edu 251-460-
+• Parker Cowles Cross Country Head Coach TFA pcowles@southalabama.edu 251-460-
+• Reagen Beal Assistant Coach- Sprints, Hurdles, rbeal@southalabama.edu
+• Will Windham Assistant Coach -- Defensive FFH wwindham@southalabama.edu
+• Paul Petrino Assistant Coach -- Offensive FFH petrino@southalabama.edu
+• Tre' Williams Assistant Coach -- Special Teams FFH trewilliams@southalabama.edu
+• Jason Washington Assistant Coach -- Co-Defensive FFH jasonwashington@southalabama.edu
+• Cameron Cleminson Assistant Coach -- Inside Linebackers FFH cleminson@southalabama.edu
+• Kyle Skierski Assistant Coach -- Tight Ends FFH kyleskierski@southalabama.edu
+• Jason Onyebuagu Assistant Coach -- Offensive Line FFH jonyebuagu@southalabama.edu
+• Broderick Fobbs Assistant Coach -- Running Backs FFH fobbs@southalabama.edu
+• Jerone Steckel Assistant Coach -- Defensive Line FFH jsteckel@southalabama.edu
+• Zach Crisler Assistant Coach -- Assistant FFH zcrisler@southalabama.edu
+• Andrew Burkett Special Assistant to the Head Coach FFH aburkett@southalabama.edu
+• Ben Hannan Head Coach HKS Golf bhannan@southalabama.edu 251-460-
+• Marcelo Huarte Head Coach HKS Golf mhuarte@southalabama.edu 251-460-
+• Chris Hennessey Head Coach chennessey@southalabama.edu
+• Luidgi Beauzile Associate Head Coach beauzile@southalabama.edu 954-635-
+• Kate Dirkse Assistant Coach kdirkse@southalabama.edu
+• Becky Clark Head Coach SB/SOC clark@southalabama.edu 251-460-
+• Hannah Campbell Associate Head Coach SB/SOC hcampbell@southalabama.edu 251-460-
+• Kelly Horne Assistant Coach SB/SOC Khorne@southalabama.edu
+• Nick Brochu Head Coach HKS TEN nbrochu@southalabama.edu 251-460-
+• Dr. Jaco Keyser Head Coach HKS TEN jkeyser@southalabama.edu 251-460-
+• Jesse Ortiz Head Coach HKS VB volleyball@southalabama.edu 251-460-
+• Maris Hall Assistant Coach HKS VB marisbelow@southalabama.edu 251-460-
+• Morgan Parsons Assistant Coach HKS VB stalcup@southalabama.edu 461-1872

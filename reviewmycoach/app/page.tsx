@@ -1,85 +1,80 @@
 import Link from "next/link";
+import Image from "next/image";
 import GlobalSearchBar from "./components/GlobalSearchBar";
 import HeroCoachCarousel from "./components/HeroCoachCarousel";
+import OurCoachesSection from "./components/OurCoachesSection";
 import SportsIconGrid from "./components/SportsIconGrid";
 // DynamicSportsMosaic removed
 
 export default function Home() {
   return (
     <div className="min-h-screen">
-      {/* Hero Section - Dynamic Gradient with Floating Elements */}
-      <div className="relative text-neutral-200 overflow-hidden">
-        {/* Floating geometric shapes */}
-        <div className="absolute inset-0 opacity-40 pointer-events-none">
-          <div className="absolute top-20 left-10 w-32 h-32 bg-gray-100 rounded-full blur-3xl"></div>
-          <div className="absolute bottom-20 right-10 w-40 h-40 bg-gray-100 rounded-full blur-3xl"></div>
-          <div className="absolute top-1/2 left-1/3 w-24 h-24 bg-gray-100 rounded-full blur-2xl"></div>
+      {/* Hero Section - Photo backdrop with centered card/bubbles */}
+      <div className="relative overflow-hidden text-neutral-200">
+        {/* Background image */}
+        <div className="absolute inset-0 -z-10">
+          <Image
+            src="/hero/bg.jpg"
+            alt="Campus walkway background"
+            fill
+            priority
+            className="object-cover"
+          />
+          <div className="absolute inset-0 bg-black/60" />
+          <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/40 to-black/80" />
         </div>
-        
-        <div className="relative max-w-screen-2xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-32">
-          <div className="text-center">
-            <h1 className="text-6xl sm:text-7xl md:text-8xl font-bold mb-6 tracking-tight text-gray-900">
-              Find Your Perfect <span className="text-[#ff0002]">Coach</span>
-            </h1>
-            <p className="text-xl sm:text-2xl text-gray-600 max-w-3xl mx-auto mb-12 leading-relaxed">
-              Connect with expert coaches in your sport. From basketball to swimming, find the perfect mentor to elevate your game.
-            </p>
-            
-            <div className="max-w-3xl mx-auto mb-8">
-              <GlobalSearchBar />
+
+        {/* Title */}
+        <div className="pt-20 sm:pt-28 text-center px-4">
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-wide text-white">
+            review your coach, anonymously.
+          </h1>
+          <p className="mt-3 text-base sm:text-lg text-neutral-300">
+            Leave a review, show how you did.
+          </p>
+        </div>
+
+        {/* Center card with coach image and rating */}
+        <div className="relative mx-auto mt-8 sm:mt-10 max-w-3xl px-4">
+          {/* Gradient 2px border wrapper */}
+          <div className="relative mx-auto rounded-3xl p-[2px] bg-gradient-to-br from-white via-white/70 to-black/80 shadow-[0_10px_40px_rgba(0,0,0,0.5)]">
+            <div className="relative h-[440px] sm:h-[520px] rounded-3xl bg-black/40 backdrop-blur-md overflow-hidden flex items-center justify-center">
+            {/* Coach image */}
+            <Image
+              src="/hero/coach.png"
+              alt="Coach portrait"
+              width={460}
+              height={600}
+              className="h-[360px] sm:h-[420px] w-auto object-contain drop-shadow-[0_8px_30px_rgba(0,0,0,0.6)]"
+            />
+
+            {/* Rating badge */}
+            <div className="absolute top-4 right-6 flex items-center gap-2">
+              <svg className="w-5 h-5 text-yellow-300" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.802 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.802-2.034a1 1 0 00-1.176 0l-2.802 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81H7.03a1 1 0 00.95-.69l1.07-3.292z"/></svg>
+              <span className="text-white text-xl font-semibold">4.9</span>
             </div>
 
-            <div className="flex flex-col sm:flex-row items-center justify-center gap-4 text-sm text-gray-500">
-              <div className="flex items-center">
-                <div className="w-2 h-2 bg-gray-400 rounded-full mr-2"></div>
-                <span>2,500+ Active Coaches</span>
-              </div>
-              <div className="hidden sm:block w-1 h-1 bg-gray-600 rounded-full"></div>
-              <div className="flex items-center">
-                <div className="w-2 h-2 bg-gray-400 rounded-full mr-2"></div>
-                <span>15+ Sports Available</span>
-              </div>
-              <div className="hidden sm:block w-1 h-1 bg-gray-600 rounded-full"></div>
-              <div className="flex items-center">
-                <div className="w-2 h-2 bg-gray-400 rounded-full mr-2"></div>
-                <span>Real Reviews</span>
-              </div>
+            {/* Message bubbles */}
+            <div className="absolute -left-6 sm:-left-10 top-6">
+              <Image src="/hero/msg-left.png" alt="message bubble" width={280} height={120} className="w-56 sm:w-72 h-auto opacity-90" />
+            </div>
+            <div className="absolute -right-6 sm:-right-12 -bottom-6">
+              <Image src="/hero/msg-right.png" alt="message bubble" width={300} height={120} className="w-60 sm:w-72 h-auto opacity-90" />
+            </div>
             </div>
           </div>
         </div>
-        
-        {/* Featured Coaches Carousel */}
-        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-20">
-          <div className="text-center mb-8">
-            <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-2">
-              Meet Our Top Coaches
-            </h2>
-            <p className="text-gray-600">
-              Discover amazing coaches ready to help you reach your goals
-            </p>
-          </div>
-          <div className="relative w-screen left-1/2 right-1/2 -ml-[50vw] -mr-[50vw]">
-            <HeroCoachCarousel />
-          </div>
-          
-          {/* Trending Sports Pills */}
-          <div className="flex flex-wrap justify-center gap-3 text-sm mt-12">
-            <span className="text-gray-900 mr-2">Trending:</span>
-            <Link href="/search?q=basketball" className="bg-white text-gray-900 px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-lg border border-gray-700">
-              🏀 Basketball
-            </Link>
-            <Link href="/search?q=soccer" className="bg-white text-gray-900 px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-lg border border-gray-700">
-              ⚽ Soccer
-            </Link>
-            <Link href="/search?q=tennis" className="bg-white text-gray-900 px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-lg border border-gray-700">
-              🎾 Tennis
-            </Link>
-            <Link href="/search?q=swimming" className="bg-white text-gray-900 px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-lg border border-gray-700">
-              🏊 Swimming
-            </Link>
+
+        {/* Search input overlapping slightly so the card appears to fade behind */}
+        <div className="relative -mt-8 sm:-mt-10 pb-20 px-4 z-20">
+          <div className="max-w-4xl mx-auto">
+            <GlobalSearchBar placeholder="Enter your school to start" inputClassName="py-4 text-lg" />
           </div>
         </div>
       </div>
+
+        {/* Our Coaches rail (new design) */}
+        <OurCoachesSection />
 
       {/* Sports Icons Grid */}
       <SportsIconGrid />

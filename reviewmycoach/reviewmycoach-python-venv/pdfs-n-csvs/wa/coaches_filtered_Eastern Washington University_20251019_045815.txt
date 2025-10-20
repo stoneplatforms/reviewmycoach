@@ -1,0 +1,209 @@
+COACH ENTRIES FOUND - 2025-10-19 04:58:15
+============================================================
+
+Total coaches found: 33
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ahmad Ambon
+   Email: aambon1@ewu.edu
+   Username: aambon1
+   Original line: Ahmad Ambon CSCS Graduate Assistant Athletic Performance Coach aambon1@ewu.edu
+
+2. Dan Monson
+   Email: Dmonson1@ewu.edu
+   Username: Dmonson1
+   Original line: Dan Monson Head Coach Dmonson1@ewu.edu
+
+3. Ryan Lundgren
+   Email: rlundgren1@ewu.edu
+   Username: rlundgren1
+   Original line: Ryan Lundgren Associate Head Coach rlundgren1@ewu.edu
+
+4. Larry Anderson
+   Email: landerson38@ewu.edu
+   Username: landerson38
+   Original line: Larry Anderson Assistant Coach landerson38@ewu.edu
+
+5. MicGuire Monson
+   Email: mmonson5@ewu.edu
+   Username: mmonson5
+   Original line: MicGuire Monson Assistant Coach mmonson5@ewu.edu
+
+6. Joddie Gleason
+   Email: jgleason4@ewu.edu
+   Username: jgleason4
+   Original line: Joddie Gleason Head Coach jgleason4@ewu.edu 509-359-
+
+7. Skip Gleason
+   Email: sgleason3@ewu.edu
+   Username: sgleason3
+   Original line: Skip Gleason Associate Head Coach sgleason3@ewu.edu 509-359-
+
+8. Dora Goles
+   Email: dgoles@ewu.edu
+   Username: dgoles
+   Original line: Dora Goles Assistant Coach dgoles@ewu.edu
+
+9. Brynna Maxwell
+   Email: bmaxwell3@ewu.edu
+   Username: bmaxwell3
+   Original line: Brynna Maxwell Assistant Coach bmaxwell3@ewu.edu
+
+10. Jaela Eggers
+   Email: jaelaeggers@ewu.edu
+   Username: jaelaeggers
+   Original line: Jaela Eggers Assistant Coach / Director of Operations jaelaeggers@ewu.edu
+
+11. Hailey Tangen
+   Email: htangen@ewu.edu
+   Username: htangen
+   Original line: Hailey Tangen Cheer Coach htangen@ewu.edu
+
+12. Marc Anderson
+   Email: marca@ewu.edu
+   Username: marca
+   Original line: Marc Anderson Associate Head Coach / Offensive Coordinator / QB marca@ewu.edu
+
+13. Zach Bruce
+   Email: zbruce@ewu.edu
+   Username: zbruce
+   Original line: Zach Bruce Safeties Coach / Co-Coordinator zbruce@ewu.edu
+
+14. Wes Nurse
+   Email: cnurse@ewu.edu
+   Username: cnurse
+   Original line: Wes Nurse Cornerbacks Coach / Pass Game Coordinator / cnurse@ewu.edu
+
+15. Tamarick Pierce
+   Email: tpierce5@ewu.edu
+   Username: tpierce5
+   Original line: Tamarick Pierce Running Backs Coach tpierce5@ewu.edu
+
+16. Chad Germer
+   Email: cgermer@ewu.edu
+   Username: cgermer
+   Original line: Chad Germer Offensive Line Coach cgermer@ewu.edu
+
+17. Jaylen Johnson
+   Email: jjohnson218@ewu.edu
+   Username: jjohnson218
+   Original line: Jaylen Johnson Defensive Line Coach jjohnson218@ewu.edu
+
+18. Austin York
+   Email: ayork3@ewu.edu
+   Username: ayork3
+   Original line: Austin York Tight Ends Coach ayork3@ewu.edu
+
+19. Casey Brink
+   Email: cbrink@ewu.edu
+   Username: cbrink
+   Original line: Casey Brink Wide Receivers Coach cbrink@ewu.edu
+
+20. Caleb Padilla
+   Email: cpadilla11@ewu.edu
+   Username: cpadilla11
+   Original line: Caleb Padilla Linebackers Coach cpadilla11@ewu.edu
+
+21. Russell Grove
+   Email: rgrove1@ewu.edu
+   Username: rgrove1
+   Original line: Russell Grove Head Coach rgrove1@ewu.edu 208-659-
+
+22. Brenda Howe
+   Email: bhowe@ewu.edu
+   Username: bhowe
+   Original line: Brenda Howe Head Coach bhowe@ewu.edu 509-280-
+
+23. Missy Strasburg
+   Email: mstrasburg1@ewu.edu
+   Username: mstrasburg1
+   Original line: Missy Strasburg Head Coach mstrasburg1@ewu.edu
+
+24. Nate Ulness
+   Email: nulness@ewu.edu
+   Username: nulness
+   Original line: Nate Ulness Assistant Coach nulness@ewu.edu
+
+25. Hayden Hollinger
+   Email: hhollinger@ewu.edu
+   Username: hhollinger
+   Original line: Hayden Hollinger Assistant Coach hhollinger@ewu.edu
+
+26. Dustin Hinson
+   Email: dhinson1@ewu.edu
+   Username: dhinson1
+   Original line: Dustin Hinson Head Coach dhinson1@ewu.edu
+
+27. Jonina Brinson
+   Email: jbrinson1@ewu.edu
+   Username: jbrinson1
+   Original line: Jonina Brinson Assistant Coach (Jumps, Multis) jbrinson1@ewu.edu
+
+28. Majesty Tutson
+   Email: mtutson@ewu.edu
+   Username: mtutson
+   Original line: Majesty Tutson Assistant Coach (Throws) mtutson@ewu.edu
+
+29. Erin Clark
+   Email: eclark@ewu.edu
+   Username: eclark
+   Original line: Erin Clark Assistant Coach (Pole Vault) eclark@ewu.edu
+
+30. Jon Haruguchi
+   Email: jharuguchi@ewu.edu
+   Username: jharuguchi
+   Original line: Jon Haruguchi Head Volleyball Coach jharuguchi@ewu.edu
+
+31. Taylor Beauchamp
+   Email: tmuff@ewu.edu
+   Username: tmuff
+   Original line: Taylor Beauchamp Assistant Coach / Recruiting Coordinator tmuff@ewu.edu
+
+32. Kim Zorn
+   Email: kzorn1@ewu.edu
+   Username: kzorn1
+   Original line: Kim Zorn Assistant Coach kzorn1@ewu.edu
+
+33. Adrian Leiser
+   Email: aleiser@ewu.edu
+   Username: aleiser
+   Original line: Adrian Leiser Assistant Coach aleiser@ewu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ahmad Ambon CSCS Graduate Assistant Athletic Performance Coach aambon1@ewu.edu
+• Dan Monson Head Coach Dmonson1@ewu.edu
+• Ryan Lundgren Associate Head Coach rlundgren1@ewu.edu
+• Larry Anderson Assistant Coach landerson38@ewu.edu
+• MicGuire Monson Assistant Coach mmonson5@ewu.edu
+• Joddie Gleason Head Coach jgleason4@ewu.edu 509-359-
+• Skip Gleason Associate Head Coach sgleason3@ewu.edu 509-359-
+• Dora Goles Assistant Coach dgoles@ewu.edu
+• Brynna Maxwell Assistant Coach bmaxwell3@ewu.edu
+• Jaela Eggers Assistant Coach / Director of Operations jaelaeggers@ewu.edu
+• Hailey Tangen Cheer Coach htangen@ewu.edu
+• Marc Anderson Associate Head Coach / Offensive Coordinator / QB marca@ewu.edu
+• Zach Bruce Safeties Coach / Co-Coordinator zbruce@ewu.edu
+• Wes Nurse Cornerbacks Coach / Pass Game Coordinator / cnurse@ewu.edu
+• Tamarick Pierce Running Backs Coach tpierce5@ewu.edu
+• Chad Germer Offensive Line Coach cgermer@ewu.edu
+• Jaylen Johnson Defensive Line Coach jjohnson218@ewu.edu
+• Austin York Tight Ends Coach ayork3@ewu.edu
+• Casey Brink Wide Receivers Coach cbrink@ewu.edu
+• Caleb Padilla Linebackers Coach cpadilla11@ewu.edu
+• Russell Grove Head Coach rgrove1@ewu.edu 208-659-
+• Brenda Howe Head Coach bhowe@ewu.edu 509-280-
+• Missy Strasburg Head Coach mstrasburg1@ewu.edu
+• Nate Ulness Assistant Coach nulness@ewu.edu
+• Hayden Hollinger Assistant Coach hhollinger@ewu.edu
+• Dustin Hinson Head Coach dhinson1@ewu.edu
+• Jonina Brinson Assistant Coach (Jumps, Multis) jbrinson1@ewu.edu
+• Majesty Tutson Assistant Coach (Throws) mtutson@ewu.edu
+• Erin Clark Assistant Coach (Pole Vault) eclark@ewu.edu
+• Jon Haruguchi Head Volleyball Coach jharuguchi@ewu.edu
+• Taylor Beauchamp Assistant Coach / Recruiting Coordinator tmuff@ewu.edu
+• Kim Zorn Assistant Coach kzorn1@ewu.edu
+• Adrian Leiser Assistant Coach aleiser@ewu.edu

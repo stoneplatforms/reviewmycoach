@@ -1,0 +1,144 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:39
+============================================================
+
+Total coaches found: 22
+
+PARSED ENTRIES:
+----------------------------------------
+1. Sierra Zadravecz
+   Email: Sierra.Zadravecz@williamwoods.edu
+   Username: Sierra.Zadravecz
+   Original line: Sierra Zadravecz Strength & Conditioning Coach Sierra.Zadravecz@williamwoods.edu 573-592-
+
+2. John Cavness
+   Email: John.Cavness@williamwoods.edu
+   Username: John.Cavness
+   Phone: (573) 592-1187
+   Original line: John Cavness Head Baseball Coach John.Cavness@williamwoods.edu 573-592-1187
+
+3. Tyler Bracht
+   Email: Tyler.Bracht@williamwoods.edu
+   Username: Tyler.Bracht
+   Original line: Tyler Bracht Assistant Baseball Coach Tyler.Bracht@williamwoods.edu 573-592-
+
+4. Isaiah Gibbs
+   Email: isaiah.gibbs@williamwoods.edu
+   Username: isaiah.gibbs
+   Original line: Isaiah Gibbs Assistant Baseball Coach isaiah.gibbs@williamwoods.edu
+
+5. Andrew Green
+   Email: andrew.green@williamwoods.edu
+   Username: andrew.green
+   Original line: Andrew Green Head Men's Basketball Coach andrew.green@williamwoods.edu
+
+6. Michael Ward
+   Email: michael.ward@williamwoods.edu
+   Username: michael.ward
+   Original line: Michael Ward Assistant Men's Basketball Coach michael.ward@williamwoods.edu
+
+7. Morgan Scott
+   Email: morgan.scott@williamwoods.edu
+   Username: morgan.scott
+   Original line: Morgan Scott Head Women's Basketball Coach morgan.scott@williamwoods.edu
+
+8. Charlie Holloway
+   Email: charle.holloway@williamwoods.edu
+   Username: charle.holloway
+   Original line: Charlie Holloway Head Flag Football Coach charle.holloway@williamwoods.edu
+
+9. Sam Camp
+   Email: Sam.Camp@williamwoods.edu
+   Username: Sam.Camp
+   Original line: Sam Camp Head Football Coach Sam.Camp@williamwoods.edu
+
+10. Troy Kowal
+   Email: troy.kowal@williamwoods.edu
+   Username: troy.kowal
+   Original line: Troy Kowal Offensive Line Coach troy.kowal@williamwoods.edu
+
+11. Charles Barnes
+   Email: charles.barnes@williamwoods.edu
+   Username: charles.barnes
+   Original line: Charles Barnes Linebacker Coach charles.barnes@williamwoods.edu
+
+12. Chuck Wade
+   Email: charles.wade@williamwoods.edu
+   Username: charles.wade
+   Original line: Chuck Wade Wide Recievers Coach charles.wade@williamwoods.edu
+
+13. Seth Matlock
+   Email: seth.matlock@williamwoods.edu
+   Username: seth.matlock
+   Original line: Seth Matlock Head Men's Lacrosse Coach seth.matlock@williamwoods.edu
+
+14. Joseph Ceto
+   Email: joseph.ceto@williamwoods.edu
+   Username: joseph.ceto
+   Original line: Joseph Ceto Assistant Men's Lacrosse Coach joseph.ceto@williamwoods.edu
+
+15. Connor Hess
+   Email: connor.hess@williamwoods.edu
+   Username: connor.hess
+   Original line: Connor Hess Head Outdoor Life Sports Coach connor.hess@williamwoods.edu
+
+16. Ivan Lloay
+   Email: ivan.lloay@williamwoods.edu
+   Username: ivan.lloay
+   Original line: Ivan Lloay Men's Soccer Assistant Coach ivan.lloay@williamwoods.edu 573-592-
+
+17. William Francoletti
+   Email: william.francoletti@williamwoods.edu
+   Username: william.francoletti
+   Original line: William Francoletti Assistant Women's Soccer Coach william.francoletti@williamwoods.edu
+
+18. Tracy Gastineau
+   Email: Tracy.Gastineau@williamwoods.edu
+   Username: Tracy.Gastineau
+   Original line: Tracy Gastineau Head Softball Coach Tracy.Gastineau@williamwoods.edu 573-592-
+
+19. Mia Santos
+   Email: mia.santos@williamwoods.edu
+   Username: mia.santos
+   Original line: Mia Santos Assistant Softball Coach mia.santos@williamwoods.edu
+
+20. Aubrey Wilson
+   Email: aubrey.wilson@williamwoods.edu
+   Username: aubrey.wilson
+   Original line: Aubrey Wilson Head Women's Volleyball Coach aubrey.wilson@williamwoods.edu
+
+21. Tony Eierman
+   Email: tony.eierman@williamwoods.edu
+   Username: tony.eierman
+   Original line: Tony Eierman Head Men's Wrestling Coach tony.eierman@williamwoods.edu
+
+22. Mike Eierman
+   Email: mike.eierman@williamwoods.edu
+   Username: mike.eierman
+   Original line: Mike Eierman Head Women's Wrestling Coach mike.eierman@williamwoods.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Sierra Zadravecz Strength & Conditioning Coach Sierra.Zadravecz@williamwoods.edu 573-592-
+• John Cavness Head Baseball Coach John.Cavness@williamwoods.edu 573-592-1187
+• Tyler Bracht Assistant Baseball Coach Tyler.Bracht@williamwoods.edu 573-592-
+• Isaiah Gibbs Assistant Baseball Coach isaiah.gibbs@williamwoods.edu
+• Andrew Green Head Men's Basketball Coach andrew.green@williamwoods.edu
+• Michael Ward Assistant Men's Basketball Coach michael.ward@williamwoods.edu
+• Morgan Scott Head Women's Basketball Coach morgan.scott@williamwoods.edu
+• Charlie Holloway Head Flag Football Coach charle.holloway@williamwoods.edu
+• Sam Camp Head Football Coach Sam.Camp@williamwoods.edu
+• Troy Kowal Offensive Line Coach troy.kowal@williamwoods.edu
+• Charles Barnes Linebacker Coach charles.barnes@williamwoods.edu
+• Chuck Wade Wide Recievers Coach charles.wade@williamwoods.edu
+• Seth Matlock Head Men's Lacrosse Coach seth.matlock@williamwoods.edu
+• Joseph Ceto Assistant Men's Lacrosse Coach joseph.ceto@williamwoods.edu
+• Connor Hess Head Outdoor Life Sports Coach connor.hess@williamwoods.edu
+• Ivan Lloay Men's Soccer Assistant Coach ivan.lloay@williamwoods.edu 573-592-
+• William Francoletti Assistant Women's Soccer Coach william.francoletti@williamwoods.edu
+• Tracy Gastineau Head Softball Coach Tracy.Gastineau@williamwoods.edu 573-592-
+• Mia Santos Assistant Softball Coach mia.santos@williamwoods.edu
+• Aubrey Wilson Head Women's Volleyball Coach aubrey.wilson@williamwoods.edu
+• Tony Eierman Head Men's Wrestling Coach tony.eierman@williamwoods.edu
+• Mike Eierman Head Women's Wrestling Coach mike.eierman@williamwoods.edu

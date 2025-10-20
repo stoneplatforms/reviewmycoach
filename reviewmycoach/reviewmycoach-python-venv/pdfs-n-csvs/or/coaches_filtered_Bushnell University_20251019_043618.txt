@@ -1,0 +1,180 @@
+COACH ENTRIES FOUND - 2025-10-19 04:36:18
+============================================================
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jamie Womack
+   Email: jawomack@bushnell.edu
+   Username: jawomack
+   Phone: (541) 731-3011
+   Original line: Jamie Womack Head Coach jawomack@bushnell.edu (C) 541-731-3011 / 541-684-
+
+2. Mike Takamori
+   Email: mtakamori@bushnell.edu
+   Username: mtakamori
+   Original line: Mike Takamori Hitting Coach mtakamori@bushnell.edu
+
+3. Eddie Alexander
+   Email: walexander@bushnell.edu
+   Username: walexander
+   Phone: (541) 729-9615
+   Original line: Eddie Alexander Head Coach walexander@bushnell.edu 541-729-9615
+
+4. Jordan Alexander
+   Email: jalexander@bushnell.edu
+   Username: jalexander
+   Phone: (541) 844-9602
+   Original line: Jordan Alexander Assistant Coach/Recruiting Coordinator jalexander@bushnell.edu 541-844-9602
+
+5. Chad Meadors
+   Email: cmeadors@bushnell.edu
+   Username: cmeadors
+   Phone: (360) 270-5547
+   Original line: Chad Meadors Head Coach cmeadors@bushnell.edu 360-270-5547
+
+6. Rusty Cottrell
+   Email: lcottrell@bushnell.edu
+   Username: lcottrell
+   Phone: (541) 206-1280
+   Original line: Rusty Cottrell Assistant Coach lcottrell@bushnell.edu 541-206-1280
+
+7. Matt Geronimo
+   Email: mgeronimo@bushnell.edu
+   Username: mgeronimo
+   Original line: Matt Geronimo Assistant Coach mgeronimo@bushnell.edu
+
+8. Ray Ricks
+   Email: rricks@bushnell.edu
+   Username: rricks
+   Original line: Ray Ricks Assistant Coach rricks@bushnell.edu
+
+9. Libby Mathis
+   Email: emathis@bushnell.edu
+   Username: emathis
+   Original line: Libby Mathis Assistant Coach emathis@bushnell.edu
+
+10. Kyle Will
+   Email: kwill@bushnell.edu
+   Username: kwill
+   Original line: Kyle Will Director of Track & Field/Head Cross Country Coach kwill@bushnell.edu
+
+11. Larry Watts
+   Email: lwatts@bushnell.edu
+   Username: lwatts
+   Phone: (541) 520-4027
+   Original line: Larry Watts Director of Golf/Head Coach lwatts@bushnell.edu 541-520-4027
+
+12. Shawn Brandt
+   Email: sbrandt@bushnell.edu
+   Username: sbrandt
+   Original line: Shawn Brandt Assistant Women's Golf Coach sbrandt@bushnell.edu
+
+13. Joao Ehlers
+   Email: jehlers@bushnell.edu
+   Username: jehlers
+   Phone: (541) 684-7257
+   Original line: Joao Ehlers Head Coach jehlers@bushnell.edu 541-684-7257
+
+14. Jonathan Rea
+   Email: jrea@bushnell.edu
+   Username: jrea
+   Phone: (541) 968-2582
+   Original line: Jonathan Rea Assistant Coach jrea@bushnell.edu 541-968-2582
+
+15. Halle Meadows
+   Email: hmeadows@bushnell.edu
+   Username: hmeadows
+   Phone: (661) 303-0170
+   Original line: Halle Meadows Head Coach hmeadows@bushnell.edu 661-303-0170
+
+16. Jonny LeMay
+   Email: jlemay@bushnell.edu
+   Username: jlemay
+   Original line: Jonny LeMay Associate Head Coach jlemay@bushnell.edu
+
+17. Daniel Kahler
+   Email: dkahler@bushnell.edu
+   Username: dkahler
+   Original line: Daniel Kahler Assistant Coach dkahler@bushnell.edu
+
+18. Gianna Raz
+   Email: grains@bushnell.edu
+   Username: grains
+   Original line: Gianna Raz Assistant Coach grains@bushnell.edu
+
+19. Jim Patrick
+   Email: jpatrick@bushnell.edu
+   Username: jpatrick
+   Phone: (541) 954-6437
+   Original line: Jim Patrick Head Coach jpatrick@bushnell.edu 541-954-6437
+
+20. Tom McVein
+   Email: tmcvein@bushnell.edu
+   Username: tmcvein
+   Original line: Tom McVein Assistant Coach tmcvein@bushnell.edu
+
+21. Kyle Will
+   Email: kwill@bushnell.edu
+   Username: kwill
+   Original line: Kyle Will Director of Track & Field/Head Cross Country Coach kwill@bushnell.edu
+
+22. George Walcott
+   Email: gwalcott@bushnell.edu
+   Username: gwalcott
+   Phone: (541) 517-4270
+   Original line: George Walcott Associate Head Coach gwalcott@bushnell.edu 541-517-4270
+
+23. Jaron Carter
+   Email: jcarter@bushnell.edu
+   Username: jcarter
+   Original line: Jaron Carter Assistant Coach (Sprints & Relays) jcarter@bushnell.edu
+
+24. Kim Elgarico
+   Email: kelgarico@bushnell.edu
+   Username: kelgarico
+   Phone: (803) 422-5859
+   Original line: Kim Elgarico Head Coach kelgarico@bushnell.edu 803-422-5859
+
+25. Jason Corwin
+   Email: jcorwin@bushnell.edu
+   Username: jcorwin
+   Phone: (541) 729-0040
+   Original line: Jason Corwin Head Coach jcorwin@bushnell.edu 541-729-0040
+
+26. Marlee Smith
+   Email: masmith@bushnell.edu
+   Username: masmith
+   Original line: Marlee Smith Assistant Coach masmith@bushnell.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jamie Womack Head Coach jawomack@bushnell.edu (C) 541-731-3011 / 541-684-
+• Mike Takamori Hitting Coach mtakamori@bushnell.edu
+• Eddie Alexander Head Coach walexander@bushnell.edu 541-729-9615
+• Jordan Alexander Assistant Coach/Recruiting Coordinator jalexander@bushnell.edu 541-844-9602
+• Chad Meadors Head Coach cmeadors@bushnell.edu 360-270-5547
+• Rusty Cottrell Assistant Coach lcottrell@bushnell.edu 541-206-1280
+• Matt Geronimo Assistant Coach mgeronimo@bushnell.edu
+• Ray Ricks Assistant Coach rricks@bushnell.edu
+• Libby Mathis Assistant Coach emathis@bushnell.edu
+• Kyle Will Director of Track & Field/Head Cross Country Coach kwill@bushnell.edu
+• Larry Watts Director of Golf/Head Coach lwatts@bushnell.edu 541-520-4027
+• Shawn Brandt Assistant Women's Golf Coach sbrandt@bushnell.edu
+• Joao Ehlers Head Coach jehlers@bushnell.edu 541-684-7257
+• Jonathan Rea Assistant Coach jrea@bushnell.edu 541-968-2582
+• Halle Meadows Head Coach hmeadows@bushnell.edu 661-303-0170
+• Jonny LeMay Associate Head Coach jlemay@bushnell.edu
+• Daniel Kahler Assistant Coach dkahler@bushnell.edu
+• Gianna Raz Assistant Coach grains@bushnell.edu
+• Jim Patrick Head Coach jpatrick@bushnell.edu 541-954-6437
+• Tom McVein Assistant Coach tmcvein@bushnell.edu
+• Kyle Will Director of Track & Field/Head Cross Country Coach kwill@bushnell.edu
+• George Walcott Associate Head Coach gwalcott@bushnell.edu 541-517-4270
+• Jaron Carter Assistant Coach (Sprints & Relays) jcarter@bushnell.edu
+• Kim Elgarico Head Coach kelgarico@bushnell.edu 803-422-5859
+• Jason Corwin Head Coach jcorwin@bushnell.edu 541-729-0040
+• Marlee Smith Assistant Coach masmith@bushnell.edu

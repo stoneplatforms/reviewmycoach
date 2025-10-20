@@ -1,0 +1,197 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:28
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Charlie Asciutto
+   Email: basciutt@kennesaw.edu
+   Username: basciutt
+   Original line: Charlie Asciutto Head Coach basciutt@kennesaw.edu
+
+2. Blake Biermen
+   Email: bbierma1@kennesaw.edu
+   Username: bbierma1
+   Original line: Blake Biermen Assistant Coach bbierma1@kennesaw.edu
+
+3. Rebecca Lindsey
+   Email: rlinds20@kennesaw.edu
+   Username: rlinds20
+   Original line: Rebecca Lindsey Assistant Coach rlinds20@kennesaw.edu
+
+4. Ryan Coe
+   Email: baseball@kennsaw.edu
+   Username: baseball
+   Original line: Ryan Coe Head Coach baseball@kennsaw.edu
+
+5. Matthew Passauer
+   Email: mpassaue@kennesaw.edu
+   Username: mpassaue
+   Original line: Matthew Passauer Pitching Coach / Recruiting mpassaue@kennesaw.edu 470- mpass13
+
+6. Brad Tyler
+   Email: btyler7@kennesaw.edu
+   Username: btyler7
+   Original line: Brad Tyler Assistant Coach btyler7@kennesaw.edu 470-
+
+7. Willie Watson
+   Email: wwatso41@kennesaw.edu
+   Username: wwatso41
+   Original line: Willie Watson Assistant Coach wwatso41@kennesaw.edu 470- CoachWilliewat
+
+8. Donovan Kates
+   Email: dkates5@kennesaw.edu
+   Username: dkates5
+   Original line: Donovan Kates Assistant Coach dkates5@kennesaw.edu (470) coachkates_
+
+9. Philip Pearson
+   Email: ppears12@kennesaw.edu
+   Username: ppears12
+   Original line: Philip Pearson Assistant Coach ppears12@kennesaw.edu
+
+10. Keisha McClinic
+   Email: kmcclin6@kennesaw.edu
+   Username: kmcclin6
+   Original line: Keisha McClinic Associate Head Coach kmcclin6@kennesaw.edu CoachKNMac
+
+11. Chris Straker
+   Email: cstraker@kennesaw.edu
+   Username: cstraker
+   Original line: Chris Straker Assistant Coach cstraker@kennesaw.edu
+
+12. Mike Kershaw
+   Email: mkersha2@kennesaw.edu
+   Username: mkersha2
+   Original line: Mike Kershaw General Manager mkersha2@kennesaw.edu CoachMKershaw
+
+13. Bryant Odom
+   Email: bodom10@kennesaw.edu
+   Username: bodom10
+   Original line: Bryant Odom Head Coach bodom10@kennesaw.edu 470- Odom_KSUGolf
+
+14. Nick Mackay
+   Email: nmackay@kennesaw.edu
+   Username: nmackay
+   Original line: Nick Mackay Assistant Coach nmackay@kennesaw.edu 770- Coach_Mackay_
+
+15. Ket Vanderpool
+   Email: spreamch@kennesaw.edu
+   Username: spreamch
+   Original line: Ket Vanderpool Head Coach spreamch@kennesaw.edu
+
+16. Daniella Murguia
+   Email: dmurguia@kennesaw.edu
+   Username: dmurguia
+   Original line: Daniella Murguia Assistant Coach dmurguia@kennesaw.edu daniellamurguia
+
+17. Wezly Barnard
+   Email: wbarnar4@kennesaw.edu
+   Username: wbarnar4
+   Original line: Wezly Barnard Assistant Coach wbarnar4@kennesaw.edu
+
+18. Laura Maness
+   Email: lacrosserecruiting@kennesaw.edu
+   Username: lacrosserecruiting
+   Original line: Laura Maness Head Coach lacrosserecruiting@kennesaw.edu
+
+19. Morgan Gott
+   Email: mgott@kennesaw.edu
+   Username: mgott
+   Original line: Morgan Gott Assistant Coach mgott@kennesaw.edu (470)
+
+20. Sarah Connally-Linebarger
+   Email: sconnal4@kennesaw.edu
+   Username: sconnal4
+   Original line: Sarah Connally-Linebarger Assistant Coach sconnal4@kennesaw.edu
+
+21. Bailey Wilson
+   Email: bwils200@students.kennesaw.edu
+   Username: bwils200
+   Original line: Bailey Wilson Coaching Assistant bwils200@students.kennesaw.edu
+
+22. Selena Collins-Patterson
+   Email: spatte33@kennesaw.edu
+   Username: spatte33
+   Original line: Selena Collins-Patterson Head Coach spatte33@kennesaw.edu
+
+23. Brea Dickey
+   Email: bdickey2@kennesaw.edu
+   Username: bdickey2
+   Original line: Brea Dickey Assistant Coach bdickey2@kennesaw.edu CoachDickey__
+
+24. Crystal Hampton
+   Email: cscanlo1@kennesaw.edu
+   Username: cscanlo1
+   Original line: Crystal Hampton Assistant Coach cscanlo1@kennesaw.edu CoachHampton_
+
+25. Simon Pritchard
+   Email: spritc16@kennesaw.edu
+   Username: spritc16
+   Original line: Simon Pritchard Associate Head Coach spritc16@kennesaw.edu 470-
+
+26. Jaymes Talkington
+   Email: jtalking@kennesaw.edu
+   Username: jtalking
+   Original line: Jaymes Talkington Associate Head Coach jtalking@kennesaw.edu 470- @talkingtonjay
+
+27. Rachael Coelho
+   Email: rcoelho@kennesaw.edu
+   Username: rcoelho
+   Original line: Rachael Coelho Assistant Track and Field rcoelho@kennesaw.edu 470- @Coach__Coelho
+
+28. Simon Pritchard
+   Email: spritc16@kennesaw.edu
+   Username: spritc16
+   Original line: Simon Pritchard Associate Head Coach spritc16@kennesaw.edu 470-
+
+29. Keith Schunzel
+   Email: kschunze@kennesaw.edu
+   Username: kschunze
+   Original line: Keith Schunzel Head Coach kschunze@kennesaw.edu 470-
+
+30. Garrett Bitter
+   Email: gbitter@kennesaw.edu
+   Username: gbitter
+   Original line: Garrett Bitter Associate Head Coach gbitter@kennesaw.edu 470-
+
+31. Ashley Beyer
+   Email: abeyer1@kennesaw.edu
+   Username: abeyer1
+   Original line: Ashley Beyer Assistant Coach abeyer1@kennesaw.edu 470-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Charlie Asciutto Head Coach basciutt@kennesaw.edu
+• Blake Biermen Assistant Coach bbierma1@kennesaw.edu
+• Rebecca Lindsey Assistant Coach rlinds20@kennesaw.edu
+• Ryan Coe Head Coach baseball@kennsaw.edu
+• Matthew Passauer Pitching Coach / Recruiting mpassaue@kennesaw.edu 470- mpass13
+• Brad Tyler Assistant Coach btyler7@kennesaw.edu 470-
+• Willie Watson Assistant Coach wwatso41@kennesaw.edu 470- CoachWilliewat
+• Donovan Kates Assistant Coach dkates5@kennesaw.edu (470) coachkates_
+• Philip Pearson Assistant Coach ppears12@kennesaw.edu
+• Keisha McClinic Associate Head Coach kmcclin6@kennesaw.edu CoachKNMac
+• Chris Straker Assistant Coach cstraker@kennesaw.edu
+• Mike Kershaw General Manager mkersha2@kennesaw.edu CoachMKershaw
+• Bryant Odom Head Coach bodom10@kennesaw.edu 470- Odom_KSUGolf
+• Nick Mackay Assistant Coach nmackay@kennesaw.edu 770- Coach_Mackay_
+• Ket Vanderpool Head Coach spreamch@kennesaw.edu
+• Daniella Murguia Assistant Coach dmurguia@kennesaw.edu daniellamurguia
+• Wezly Barnard Assistant Coach wbarnar4@kennesaw.edu
+• Laura Maness Head Coach lacrosserecruiting@kennesaw.edu
+• Morgan Gott Assistant Coach mgott@kennesaw.edu (470)
+• Sarah Connally-Linebarger Assistant Coach sconnal4@kennesaw.edu
+• Bailey Wilson Coaching Assistant bwils200@students.kennesaw.edu
+• Selena Collins-Patterson Head Coach spatte33@kennesaw.edu
+• Brea Dickey Assistant Coach bdickey2@kennesaw.edu CoachDickey__
+• Crystal Hampton Assistant Coach cscanlo1@kennesaw.edu CoachHampton_
+• Simon Pritchard Associate Head Coach spritc16@kennesaw.edu 470-
+• Jaymes Talkington Associate Head Coach jtalking@kennesaw.edu 470- @talkingtonjay
+• Rachael Coelho Assistant Track and Field rcoelho@kennesaw.edu 470- @Coach__Coelho
+• Simon Pritchard Associate Head Coach spritc16@kennesaw.edu 470-
+• Keith Schunzel Head Coach kschunze@kennesaw.edu 470-
+• Garrett Bitter Associate Head Coach gbitter@kennesaw.edu 470-
+• Ashley Beyer Assistant Coach abeyer1@kennesaw.edu 470-

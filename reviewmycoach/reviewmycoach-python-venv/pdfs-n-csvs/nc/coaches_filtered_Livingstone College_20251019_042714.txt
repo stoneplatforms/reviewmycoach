@@ -1,0 +1,132 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:15
+============================================================
+
+Total coaches found: 19
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brian Petty
+   Email: bpetty@livingstone.edu
+   Username: bpetty
+   Phone: (704) 216-6016
+   Original line: Brian Petty Assistant Basketball Coach bpetty@livingstone.edu (704) 216-6016
+
+2. Fred Burroughs
+   Email: fburroughs@livingstone.edu
+   Username: fburroughs
+   Original line: Fred Burroughs Assistant Coach fburroughs@livingstone.edu
+
+3. Queen Smith
+   Email: qsmith@livingstone.edu
+   Username: qsmith
+   Phone: (704) 216-6017
+   Original line: Queen Smith Head Coach qsmith@livingstone.edu 704-216-6017 or
+
+4. Alfonso Duncan
+   Email: aduncan@livingstone.edu
+   Username: aduncan
+   Phone: (704) 216-6611
+   Original line: Alfonso Duncan Assistant Women's Coach aduncan@livingstone.edu 704-216-6611
+
+5. Ishaq Nadir
+   Email: INadir@livingstone.edu
+   Username: INadir
+   Original line: Ishaq Nadir Assistant Women's Coach INadir@livingstone.edu
+
+6. Sean Gilbert
+   Email: sgilbert@livingstone.edu
+   Username: sgilbert
+   Phone: (704) 216-6089
+   Original line: Sean Gilbert Head Football Coach sgilbert@livingstone.edu (704) 216-6089
+
+7. Broderick Waters
+   Email: bwaters@livingstone.edu
+   Username: bwaters
+   Original line: Broderick Waters Quarterbacks Coach/Pass bwaters@livingstone.edu
+
+8. Darius Clark
+   Email: dclark@livingstone.edu
+   Username: dclark
+   Original line: Darius Clark Running Backs Coach dclark@livingstone.edu
+
+9. Lawerence Livingston
+   Email: LLivingston@livingstone.edu
+   Username: LLivingston
+   Original line: Lawerence Livingston Sr. Offensive Line Coach LLivingston@livingstone.edu
+
+10. Adam Goggans
+   Email: AGoggans@livingstone.edu
+   Username: AGoggans
+   Original line: Adam Goggans Linebacker Coach AGoggans@livingstone.edu
+
+11. Ericka Charleston
+   Email: echarleston@livingstone.edu
+   Username: echarleston
+   Phone: (704) 216-6012
+   Original line: Ericka Charleston Head Coach echarleston@livingstone.edu (704) 216-6012 lcbluebears
+
+12. Jayson Gardner
+   Email: jgardner@livingstone.edu
+   Username: jgardner
+   Phone: (704) 216-5601
+   Original line: Jayson Gardner Assistant Coach jgardner@livingstone.edu 704-216-5601
+
+13. Steve Wallace
+   Email: swallace@livingstone.edu
+   Username: swallace
+   Original line: Steve Wallace Head Softball/Bowling Coach swallace@livingstone.edu
+
+14. Fred Burroughs
+   Email: fburroughs@livingstone.edu
+   Username: fburroughs
+   Original line: Fred Burroughs Assistant Coach fburroughs@livingstone.edu
+
+15. Andre Springs
+   Email: asprings@livingstone.edu
+   Username: asprings
+   Phone: (704) 216-6012
+   Original line: Andre Springs Head Men's Golf Coach asprings@livingstone.edu 704-216-6012
+
+16. Steve Wallace
+   Email: swallace@livingstone.edu
+   Username: swallace
+   Original line: Steve Wallace Head Softball/Bowling Coach swallace@livingstone.edu
+
+17. Marlon Henderson
+   Email: mhenderson1@livingstone.edu
+   Username: mhenderson1
+   Original line: Marlon Henderson Head Women's Tennis Coach mhenderson1@livingstone.edu
+
+18. Cynthia Rucker
+   Email: crucker@livingstone.edu
+   Username: crucker
+   Original line: Cynthia Rucker Assistant Tennis Coach crucker@livingstone.edu
+
+19. Sakinah Riley
+   Email: sriley@livingstone.edu
+   Username: sriley
+   Original line: Sakinah Riley Head Cheerleading Coach sriley@livingstone.edu 7042166012 lcbluebears
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brian Petty Assistant Basketball Coach bpetty@livingstone.edu (704) 216-6016
+• Fred Burroughs Assistant Coach fburroughs@livingstone.edu
+• Queen Smith Head Coach qsmith@livingstone.edu 704-216-6017 or
+• Alfonso Duncan Assistant Women's Coach aduncan@livingstone.edu 704-216-6611
+• Ishaq Nadir Assistant Women's Coach INadir@livingstone.edu
+• Sean Gilbert Head Football Coach sgilbert@livingstone.edu (704) 216-6089
+• Broderick Waters Quarterbacks Coach/Pass bwaters@livingstone.edu
+• Darius Clark Running Backs Coach dclark@livingstone.edu
+• Lawerence Livingston Sr. Offensive Line Coach LLivingston@livingstone.edu
+• Adam Goggans Linebacker Coach AGoggans@livingstone.edu
+• Ericka Charleston Head Coach echarleston@livingstone.edu (704) 216-6012 lcbluebears
+• Jayson Gardner Assistant Coach jgardner@livingstone.edu 704-216-5601
+• Steve Wallace Head Softball/Bowling Coach swallace@livingstone.edu
+• Fred Burroughs Assistant Coach fburroughs@livingstone.edu
+• Andre Springs Head Men's Golf Coach asprings@livingstone.edu 704-216-6012
+• Steve Wallace Head Softball/Bowling Coach swallace@livingstone.edu
+• Marlon Henderson Head Women's Tennis Coach mhenderson1@livingstone.edu
+• Cynthia Rucker Assistant Tennis Coach crucker@livingstone.edu
+• Sakinah Riley Head Cheerleading Coach sriley@livingstone.edu 7042166012 lcbluebears

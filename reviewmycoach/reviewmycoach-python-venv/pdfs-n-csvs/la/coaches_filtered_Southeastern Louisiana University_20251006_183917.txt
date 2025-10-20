@@ -1,0 +1,212 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:17
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Daniel Shaver
+   Email: daniel.shaver@southeastern.edu
+   Username: daniel.shaver
+   Original line: Daniel Shaver Assistant Strength Coach daniel.shaver@southeastern.edu
+
+2. Bobby Barbier
+   Email: bobby.barbier@southeastern.edu
+   Username: bobby.barbier
+   Phone: (985) 549-5130
+   Original line: Bobby Barbier Head Coach bobby.barbier@southeastern.edu 549-5130
+
+3. Taylor Dugas
+   Email: taylor.dugas-2@southeastern.edu
+   Username: taylor.dugas-2
+   Phone: (985) 549-5130
+   Original line: Taylor Dugas Assistant Coach (Recruiting Coordinator) taylor.dugas-2@southeastern.edu 549-5130
+
+4. Evan Bush
+   Email: evan.bush@southeastern.edu
+   Username: evan.bush
+   Phone: (985) 549-5130
+   Original line: Evan Bush Assistant Coach (Hitting) evan.bush@southeastern.edu 549-5130
+
+5. Spencer Goodwin
+   Email: spencer.goodwin@southeastern.edu
+   Username: spencer.goodwin
+   Phone: (985) 549-5130
+   Original line: Spencer Goodwin Assistant Coach (Infield) spencer.goodwin@southeastern.edu 549-5130
+
+6. David Kiefer
+   Email: david.kiefer@southeastern.edu
+   Username: david.kiefer
+   Phone: (985) 549-5849
+   Original line: David Kiefer Head Men's Basketball Coach david.kiefer@southeastern.edu 549-5849
+
+7. Kyle Roane
+   Email: kyle.roane@southeastern.edu
+   Username: kyle.roane
+   Phone: (985) 549-3471
+   Original line: Kyle Roane Associate Head Men's Basketball Coach kyle.roane@southeastern.edu 549-3471
+
+8. Cody McCoy
+   Email: cody.mccoy@southeastern.edu
+   Username: cody.mccoy
+   Original line: Cody McCoy Assistant Men's Basketball Coach cody.mccoy@southeastern.edu
+
+9. Drew Riley
+   Email: andrew.riley@southeastern.edu
+   Username: andrew.riley
+   Original line: Drew Riley Assistant Men's Basketball Coach andrew.riley@southeastern.edu
+
+10. Jeff Dow
+   Email: jeffrey.dow@southeastern.edu
+   Username: jeffrey.dow
+   Original line: Jeff Dow Head Women's Basketball Coach jeffrey.dow@southeastern.edu
+
+11. Ross Rix
+   Email: roderic.rix@southeastern.edu
+   Username: roderic.rix
+   Original line: Ross Rix Associate Head Women's Basketball Coach roderic.rix@southeastern.edu
+
+12. Keanna Keys
+   Email: keanna.keys@southeastern.edu
+   Username: keanna.keys
+   Original line: Keanna Keys Assistant Women's Basketball Coach keanna.keys@southeastern.edu
+
+13. Regan Bolton
+   Email: regan.bolton@southeastern.edu
+   Username: regan.bolton
+   Original line: Regan Bolton Assistant Women's Basketball Coach regan.bolton@southeastern.edu
+
+14. Hannah Volpi
+   Email: hannah.volpi-2@southeastern.edu
+   Username: hannah.volpi-2
+   Original line: Hannah Volpi Head Beach Volleyball Coach hannah.volpi-2@southeastern.edu
+
+15. Frank Scelfo
+   Email: frank.scelfo@southeastern.edu
+   Username: frank.scelfo
+   Original line: Frank Scelfo Head Football Coach frank.scelfo@southeastern.edu
+
+16. Ross Jenkins
+   Email: ross.jenkins@southeastern.edu
+   Username: ross.jenkins
+   Original line: Ross Jenkins Assistant Head Coach/Tight Ends/Special Teams ross.jenkins@southeastern.edu
+
+17. Lawrence Allan
+   Email: lawrencerobert.allan@southeastern.edu
+   Username: lawrencerobert.allan
+   Original line: Lawrence Allan Head Men's Golf Coach lawrencerobert.allan@southeastern.edu
+
+18. Nathan Gillespie
+   Email: nathan.gillespie@southeastern.edu
+   Username: nathan.gillespie
+   Original line: Nathan Gillespie Head Women's Soccer Coach nathan.gillespie@southeastern.edu (276) 451-
+
+19. Jack Hartley
+   Email: jack.hartley@southeastern.edu
+   Username: jack.hartley
+   Original line: Jack Hartley Assistant Women's Soccer Coach jack.hartley@southeastern.edu
+
+20. Pedro Santolaya
+   Email: pedro.santolaya@southeastern.edu
+   Username: pedro.santolaya
+   Original line: Pedro Santolaya Assistant Soccer Coach pedro.santolaya@southeastern.edu
+
+21. Rick Fremin
+   Email: rick.fremin@southeastern.edu
+   Username: rick.fremin
+   Phone: (985) 549-5192
+   Original line: Rick Fremin Head Softball Coach rick.fremin@southeastern.edu 549-5192
+
+22. Matt Uhle
+   Email: mattuhle@yahoo.com
+   Username: mattuhle
+   Original line: Matt Uhle Assistant Softball Coach mattuhle@yahoo.com (504) 606-
+
+23. Alana Fremin
+   Email: alana.fremin@southeastern.edu
+   Username: alana.fremin
+   Original line: Alana Fremin Assistant Softball Coach alana.fremin@southeastern.edu
+
+24. Sarah Kate
+   Email: sarah.thompson-5@southeastern.edu
+   Username: sarah.thompson-5
+   Original line: Sarah Kate Thompson Assistant Softball Coach sarah.thompson-5@southeastern.edu
+
+25. Jason Hayes
+   Email: jhayes@southeastern.edu
+   Username: jhayes
+   Phone: (985) 549-5193
+   Original line: Jason Hayes Head Tennis Coach jhayes@southeastern.edu 549-5193
+
+26. Michael Rheams
+   Email: michael.rheams@southeastern.edu
+   Username: michael.rheams
+   Phone: (985) 549-5187
+   Original line: Michael Rheams Jr. Head Track and Field/Cross Country Coach michael.rheams@southeastern.edu 549-5187
+
+27. Damion Jeanpiere
+   Email: damion.jeanpiere-2@southeastern.edu
+   Username: damion.jeanpiere-2
+   Original line: Damion Jeanpiere Long Sprints Coach damion.jeanpiere-2@southeastern.edu
+
+28. Destinee Jeanpiere
+   Email: destinee.jeanpiere@southeastern.edu
+   Username: destinee.jeanpiere
+   Original line: Destinee Jeanpiere Short Sprints Coach destinee.jeanpiere@southeastern.edu
+
+29. Kibwé Johnson
+   Email: kibwe.johnson@southeastern.edu
+   Username: kibwe.johnson
+   Original line: Kibwé Johnson Throws Coach kibwe.johnson@southeastern.edu
+
+30. Louden Boudreaux
+   Email: lsboudreaux55@gmail.com
+   Username: lsboudreaux55
+   Original line: Louden Boudreaux Distance Coach/Assistant Cross Country Coach lsboudreaux55@gmail.com
+
+31. Lee McBride
+   Email: lee.mcbride@southeastern.edu
+   Username: lee.mcbride
+   Original line: Lee McBride Head Indoor Volleyball Coach lee.mcbride@southeastern.edu
+
+32. Allison Byler
+   Email: allison.byler@southeastern.edu
+   Username: allison.byler
+   Original line: Allison Byler Associate Head Indoor Volleyball Coach allison.byler@southeastern.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Daniel Shaver Assistant Strength Coach daniel.shaver@southeastern.edu
+• Bobby Barbier Head Coach bobby.barbier@southeastern.edu 549-5130
+• Taylor Dugas Assistant Coach (Recruiting Coordinator) taylor.dugas-2@southeastern.edu 549-5130
+• Evan Bush Assistant Coach (Hitting) evan.bush@southeastern.edu 549-5130
+• Spencer Goodwin Assistant Coach (Infield) spencer.goodwin@southeastern.edu 549-5130
+• David Kiefer Head Men's Basketball Coach david.kiefer@southeastern.edu 549-5849
+• Kyle Roane Associate Head Men's Basketball Coach kyle.roane@southeastern.edu 549-3471
+• Cody McCoy Assistant Men's Basketball Coach cody.mccoy@southeastern.edu
+• Drew Riley Assistant Men's Basketball Coach andrew.riley@southeastern.edu
+• Jeff Dow Head Women's Basketball Coach jeffrey.dow@southeastern.edu
+• Ross Rix Associate Head Women's Basketball Coach roderic.rix@southeastern.edu
+• Keanna Keys Assistant Women's Basketball Coach keanna.keys@southeastern.edu
+• Regan Bolton Assistant Women's Basketball Coach regan.bolton@southeastern.edu
+• Hannah Volpi Head Beach Volleyball Coach hannah.volpi-2@southeastern.edu
+• Frank Scelfo Head Football Coach frank.scelfo@southeastern.edu
+• Ross Jenkins Assistant Head Coach/Tight Ends/Special Teams ross.jenkins@southeastern.edu
+• Lawrence Allan Head Men's Golf Coach lawrencerobert.allan@southeastern.edu
+• Nathan Gillespie Head Women's Soccer Coach nathan.gillespie@southeastern.edu (276) 451-
+• Jack Hartley Assistant Women's Soccer Coach jack.hartley@southeastern.edu
+• Pedro Santolaya Assistant Soccer Coach pedro.santolaya@southeastern.edu
+• Rick Fremin Head Softball Coach rick.fremin@southeastern.edu 549-5192
+• Matt Uhle Assistant Softball Coach mattuhle@yahoo.com (504) 606-
+• Alana Fremin Assistant Softball Coach alana.fremin@southeastern.edu
+• Sarah Kate Thompson Assistant Softball Coach sarah.thompson-5@southeastern.edu
+• Jason Hayes Head Tennis Coach jhayes@southeastern.edu 549-5193
+• Michael Rheams Jr. Head Track and Field/Cross Country Coach michael.rheams@southeastern.edu 549-5187
+• Damion Jeanpiere Long Sprints Coach damion.jeanpiere-2@southeastern.edu
+• Destinee Jeanpiere Short Sprints Coach destinee.jeanpiere@southeastern.edu
+• Kibwé Johnson Throws Coach kibwe.johnson@southeastern.edu
+• Louden Boudreaux Distance Coach/Assistant Cross Country Coach lsboudreaux55@gmail.com
+• Lee McBride Head Indoor Volleyball Coach lee.mcbride@southeastern.edu
+• Allison Byler Associate Head Indoor Volleyball Coach allison.byler@southeastern.edu

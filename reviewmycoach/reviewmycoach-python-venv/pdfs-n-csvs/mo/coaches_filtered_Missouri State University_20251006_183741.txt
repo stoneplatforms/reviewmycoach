@@ -1,0 +1,329 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:41
+============================================================
+
+Total coaches found: 53
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kevin Kane
+   Email: kevinkane@missouristate.edu
+   Username: kevinkane
+   Original line: Kevin Kane Head Coach (417) kevinkane@missouristate.edu UNI, 1984
+
+2. Emily Dryden
+   Email: EmilyDryden@MissouriState.edu
+   Username: EmilyDryden
+   Original line: Emily Dryden Sugar Bears Coach (417) EmilyDryden@MissouriState.edu Missouri State,
+
+3. Noah Sturgeon
+   Email: noahsturgeon@missouristate.edu
+   Username: noahsturgeon
+   Original line: Noah Sturgeon Cheer Coach (417) noahsturgeon@missouristate.edu Iowa Western,
+
+4. Mahaylee Peterman-Sturgeon
+   Email: mahayleepetermansturgeon@missouristate.edu
+   Username: mahayleepetermansturgeon
+   Original line: Mahaylee Peterman-Sturgeon Assistant Cheer Coach (417) mahayleepetermansturgeon@missouristate.edu Missouri State,
+
+5. Kimberlee Adkins
+   Email: kadkins@missouristate.edu
+   Username: kadkins
+   Original line: Kimberlee Adkins Head Coach (417) kadkins@missouristate.edu Mississippi
+
+6. Joey Hawkins
+   Email: Baseball@MissouriState.edu
+   Username: Baseball
+   Original line: Joey Hawkins Head Coach (417) Baseball@MissouriState.edu Missouri State,
+
+7. Geoff Jimenez
+   Email: Baseball@MissouriState.edu
+   Username: Baseball
+   Original line: Geoff Jimenez Assistant Coach/Recruiting (417) Baseball@MissouriState.edu Nova
+
+8. Deck McGuire
+   Email: Baseball@MissouriState.edu
+   Username: Baseball
+   Original line: Deck McGuire Assistant Coach (417) Baseball@MissouriState.edu Georgia Tech,
+
+9. Jeremy Cologna
+   Email: Baseball@MissouriState.edu
+   Username: Baseball
+   Original line: Jeremy Cologna Assistant Coach (417) Baseball@MissouriState.edu Avila, 2019
+
+10. Tarrance Crump
+   Email: tarrancecrump@missouristate.edu
+   Username: tarrancecrump
+   Original line: Tarrance Crump Assistant Coach (417) tarrancecrump@missouristate.edu Purdue, 2008
+
+11. Carson Cunningham
+   Email: cc29e@missouristate.edu
+   Username: cc29e
+   Original line: Dr. Carson Cunningham Assistant Coach (417) cc29e@missouristate.edu Purdue, 2001
+
+12. Marco Harris
+   Email: mh63e@missouristate.edu
+   Username: mh63e
+   Original line: Marco Harris Assistant Coach (417) mh63e@missouristate.edu Southwestern
+
+13. Steve Woodberry
+   Email: stevewoodberry@missouristate.edu
+   Username: stevewoodberry
+   Original line: Steve Woodberry Assistant Coach (417) stevewoodberry@missouristate.edu Kansas, 1994
+
+14. Olivia Malcolm
+   Email: oapplewhite@missouristate.edu
+   Username: oapplewhite
+   Original line: Olivia Malcolm Assistant Coach (417) oapplewhite@missouristate.edu Dayton, 2013
+
+15. Jay Spoonhour
+   Email: jspoonhour@missouristate.edu
+   Username: jspoonhour
+   Original line: Jay Spoonhour Assistant Coach (417) jspoonhour@missouristate.edu Pittsburg State,
+
+16. Abby Emmert
+   Email: aemmert@missouristate.edu
+   Username: aemmert
+   Original line: Abby Emmert Assistant Coach (417) aemmert@missouristate.edu Missouri State,
+
+17. Jordan Chavis
+   Email: jkc94e@missouristate.edu
+   Username: jkc94e
+   Original line: Jordan Chavis Assistant Coach (417) jkc94e@missouristate.edu Missouri, 2020
+
+18. Ashley Emery
+   Email: ashleyemery@missouristate.edu
+   Username: ashleyemery
+   Original line: Ashley Emery Head Coach (417) ashleyemery@missouristate.edu Southwest
+
+19. Manuela Ibarguen
+   Email: mi786s@missouristate.edu
+   Username: mi786s
+   Original line: Manuela Ibarguen Assistant Coach (417) mi786s@missouristate.edu Missouri State,
+
+20. Ryan Beard
+   Email: RyanBeard@MissouriState.edu
+   Username: RyanBeard
+   Original line: Ryan Beard Head Coach (417) RyanBeard@MissouriState.edu Western
+
+21. Max Halpin
+   Email: mch588e@missouristate.edu
+   Username: mch588e
+   Original line: Max Halpin Offensive Line Coach (417) mch588e@missouristate.edu Western
+
+22. Tramain Thomas
+   Email: tthomas@missouristate.edu
+   Username: tthomas
+   Original line: Tramain Thomas Safeties Coach (417) tthomas@missouristate.edu Arkansas, 2013
+
+23. David Clowney
+   Email: dc55e@missouristate.edu
+   Username: dc55e
+   Original line: David Clowney IV Wide Receivers Coach (Pro (417) dc55e@missouristate.edu Virginia Tech,
+
+24. Chris Franklin
+   Email: cdf49e@missouristate.edu
+   Username: cdf49e
+   Original line: Chris Franklin Cornerbacks Coach (417) cdf49e@missouristate.edu Western
+
+25. Ace Wales
+   Email: aw684e@missouristate.edu
+   Username: aw684e
+   Original line: Ace Wales Running Backs Coach (417) aw684e@missouristate.edu Western
+
+26. Connor Benado
+   Email: connorbenado@missouristate.edu
+   Username: connorbenado
+   Original line: Connor Benado Linebackers Coach (417) connorbenado@missouristate.edu MidAmerica
+
+27. Neal Stafford
+   Email: nealstafford@missouristate.edu
+   Username: nealstafford
+   Original line: Neal Stafford Head Coach (417) nealstafford@missouristate.edu Missouri, 2002
+
+28. Kevin Kane
+   Email: kevinkane@missouristate.edu
+   Username: kevinkane
+   Original line: Kevin Kane Head Coach (417) kevinkane@missouristate.edu UNI, 1984
+
+29. Dawna Hartman
+   Email: DBakerHartman@MissouriState.edu
+   Username: DBakerHartman
+   Original line: Dawna Hartman Assistant Coach (417) DBakerHartman@MissouriState.edu
+
+30. Michael Seabolt
+   Email: mseabolt@missouristate.edu
+   Username: mseabolt
+   Original line: Michael Seabolt Head Coach (417) mseabolt@missouristate.edu Trinity, 1996
+
+31. Keith Fulk
+   Email: wf4885e@missouristate.edu
+   Username: wf4885e
+   Original line: Keith Fulk Associate Head Coach (417) wf4885e@missouristate.edu Tampa, 1985
+
+32. Kian Yari
+   Email: kian10@live.missouristate.edu
+   Username: kian10
+   Original line: Kian Yari Assistant Coach (417) kian10@live.missouristate.edu Missouri State,
+
+33. Micah Adkins-Estes
+   Email: msa2e@missouristate.edu
+   Username: msa2e
+   Original line: Micah Adkins-Estes Assistant Coach (417) msa2e@missouristate.edu Kentucky
+
+34. Kirk Nelson
+   Email: KirkNelson@missouristate.edu
+   Username: KirkNelson
+   Original line: Kirk Nelson Head Coach (417) KirkNelson@missouristate.edu Maryland, 1993
+
+35. Cory Herchenroeder
+   Email: CHerchenroeder@missouristate.edu
+   Username: CHerchenroeder
+   Original line: Cory Herchenroeder Associate Head Coach (417) CHerchenroeder@missouristate.edu William Woods,
+
+36. Sara Halilhodzic
+   Email: SHalilhodzic@MissouriState.edu
+   Username: SHalilhodzic
+   Original line: Sara Halilhodzic Assistant Coach (417) SHalilhodzic@MissouriState.edu Columbus
+
+37. Christy Kononiuk
+   Email: ChristinaKononiuk@MissouriState.edu
+   Username: ChristinaKononiuk
+   Original line: Christy Kononiuk Assistant Coach (417) ChristinaKononiuk@MissouriState.edu Evangel, 2025
+
+38. Kasey Griffith
+   Email: KaseyGriffith@MissouriState.edu
+   Username: KaseyGriffith
+   Original line: Kasey Griffith Head Coach (417) KaseyGriffith@MissouriState.edu SIUE, 2011
+
+39. Shelby Hiers
+   Email: srh276e@missouristate.edu
+   Username: srh276e
+   Original line: Shelby Hiers Assistant Coach (417) srh276e@missouristate.edu Arkansas, 2017
+
+40. Jess Weber
+   Email: jmv522s@MissouriState.edu
+   Username: jmv522s
+   Original line: Jess Weber Assistant Coach (417) jmv522s@MissouriState.edu Northern State,
+
+41. Brittany Gray-Cardenas
+   Email: bjg675e@MissouriState.edu
+   Username: bjg675e
+   Original line: Brittany Gray-Cardenas Assistant Coach (417) bjg675e@MissouriState.edu Georgia, 2019
+
+42. Kennedy Wingbermuehle
+   Email: kwingbermuehle@missouristate.edu
+   Username: kwingbermuehle
+   Original line: Kennedy Wingbermuehle Head Coach (417) kwingbermuehle@missouristate.edu Oklahoma
+
+43. Dave Collins
+   Email: davidcollins@missouristate.edu
+   Username: davidcollins
+   Original line: Dave Collins Head Coach (417) davidcollins@missouristate.edu Drury, 2005
+
+44. Chelsea Dirks-Ham
+   Email: chelseadirks-ham@missouristate.edu
+   Username: chelseadirks-ham
+   Original line: Chelsea Dirks-Ham Associate Head Coach (417) chelseadirks-ham@missouristate.edu Missouri State,
+
+45. James Huelskamp
+   Email: jameshuelskamp@missouristate.edu
+   Username: jameshuelskamp
+   Original line: James Huelskamp Diving Coach (417) jameshuelskamp@missouristate.edu Nebraska, 1989
+
+46. Anna Miller
+   Email: annamiller@missouristate.edu
+   Username: annamiller
+   Original line: Anna Miller Assistant Coach (417) annamiller@missouristate.edu Missouri State,
+
+47. Austin Hale
+   Email: ahale@missouristate.edu
+   Username: ahale
+   Original line: Austin Hale Head Coach (417) ahale@missouristate.edu Missouri
+
+48. Taryn Smiley
+   Email: tarynsmiley@missouristate.edu
+   Username: tarynsmiley
+   Original line: Taryn Smiley Assistant Coach (417) tarynsmiley@missouristate.edu Missouri State,
+
+49. Bryan Mack
+   Email: bm7e@MissouriState.edu
+   Username: bm7e
+   Original line: Bryan Mack Assistant Coach (417) bm7e@MissouriState.edu Central
+
+50. Steven McRoberts
+   Email: StevenMcRoberts@MissouriState.edu
+   Username: StevenMcRoberts
+   Original line: Steven McRoberts Head Coach (417) StevenMcRoberts@MissouriState.edu Harding, 1993
+
+51. Bri Walsh
+   Email: brianawalsh@missouristate.edu
+   Username: brianawalsh
+   Original line: Bri Walsh Assistant Coach (417) brianawalsh@missouristate.edu Evangel, 2013
+
+52. Lori Endicott-Vandersnick
+   Email: lorivandersnick@missouristate.edu
+   Username: lorivandersnick
+   Original line: Lori Endicott-Vandersnick Assistant Coach (417) lorivandersnick@missouristate.edu Nebraska, 1999
+
+53. Zerek Langley
+   Email: ZerekLangley@MissouriState.edu
+   Username: ZerekLangley
+   Original line: Zerek Langley Assistant Coach (417) ZerekLangley@MissouriState.edu Missouri State,
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kevin Kane Head Coach (417) kevinkane@missouristate.edu UNI, 1984
+• Emily Dryden Sugar Bears Coach (417) EmilyDryden@MissouriState.edu Missouri State,
+• Noah Sturgeon Cheer Coach (417) noahsturgeon@missouristate.edu Iowa Western,
+• Mahaylee Peterman-Sturgeon Assistant Cheer Coach (417) mahayleepetermansturgeon@missouristate.edu Missouri State,
+• Kimberlee Adkins Head Coach (417) kadkins@missouristate.edu Mississippi
+• Joey Hawkins Head Coach (417) Baseball@MissouriState.edu Missouri State,
+• Geoff Jimenez Assistant Coach/Recruiting (417) Baseball@MissouriState.edu Nova
+• Deck McGuire Assistant Coach (417) Baseball@MissouriState.edu Georgia Tech,
+• Jeremy Cologna Assistant Coach (417) Baseball@MissouriState.edu Avila, 2019
+• Tarrance Crump Assistant Coach (417) tarrancecrump@missouristate.edu Purdue, 2008
+• Dr. Carson Cunningham Assistant Coach (417) cc29e@missouristate.edu Purdue, 2001
+• Marco Harris Assistant Coach (417) mh63e@missouristate.edu Southwestern
+• Steve Woodberry Assistant Coach (417) stevewoodberry@missouristate.edu Kansas, 1994
+• Olivia Malcolm Assistant Coach (417) oapplewhite@missouristate.edu Dayton, 2013
+• Jay Spoonhour Assistant Coach (417) jspoonhour@missouristate.edu Pittsburg State,
+• Abby Emmert Assistant Coach (417) aemmert@missouristate.edu Missouri State,
+• Jordan Chavis Assistant Coach (417) jkc94e@missouristate.edu Missouri, 2020
+• Ashley Emery Head Coach (417) ashleyemery@missouristate.edu Southwest
+• Manuela Ibarguen Assistant Coach (417) mi786s@missouristate.edu Missouri State,
+• Ryan Beard Head Coach (417) RyanBeard@MissouriState.edu Western
+• Max Halpin Offensive Line Coach (417) mch588e@missouristate.edu Western
+• Tramain Thomas Safeties Coach (417) tthomas@missouristate.edu Arkansas, 2013
+• David Clowney IV Wide Receivers Coach (Pro (417) dc55e@missouristate.edu Virginia Tech,
+• Chris Franklin Cornerbacks Coach (417) cdf49e@missouristate.edu Western
+• Ace Wales Running Backs Coach (417) aw684e@missouristate.edu Western
+• Connor Benado Linebackers Coach (417) connorbenado@missouristate.edu MidAmerica
+• Neal Stafford Head Coach (417) nealstafford@missouristate.edu Missouri, 2002
+• Kevin Kane Head Coach (417) kevinkane@missouristate.edu UNI, 1984
+• Dawna Hartman Assistant Coach (417) DBakerHartman@MissouriState.edu
+• Michael Seabolt Head Coach (417) mseabolt@missouristate.edu Trinity, 1996
+• Keith Fulk Associate Head Coach (417) wf4885e@missouristate.edu Tampa, 1985
+• Kian Yari Assistant Coach (417) kian10@live.missouristate.edu Missouri State,
+• Micah Adkins-Estes Assistant Coach (417) msa2e@missouristate.edu Kentucky
+• Kirk Nelson Head Coach (417) KirkNelson@missouristate.edu Maryland, 1993
+• Cory Herchenroeder Associate Head Coach (417) CHerchenroeder@missouristate.edu William Woods,
+• Sara Halilhodzic Assistant Coach (417) SHalilhodzic@MissouriState.edu Columbus
+• Christy Kononiuk Assistant Coach (417) ChristinaKononiuk@MissouriState.edu Evangel, 2025
+• Kasey Griffith Head Coach (417) KaseyGriffith@MissouriState.edu SIUE, 2011
+• Shelby Hiers Assistant Coach (417) srh276e@missouristate.edu Arkansas, 2017
+• Jess Weber Assistant Coach (417) jmv522s@MissouriState.edu Northern State,
+• Brittany Gray-Cardenas Assistant Coach (417) bjg675e@MissouriState.edu Georgia, 2019
+• Kennedy Wingbermuehle Head Coach (417) kwingbermuehle@missouristate.edu Oklahoma
+• Dave Collins Head Coach (417) davidcollins@missouristate.edu Drury, 2005
+• Chelsea Dirks-Ham Associate Head Coach (417) chelseadirks-ham@missouristate.edu Missouri State,
+• James Huelskamp Diving Coach (417) jameshuelskamp@missouristate.edu Nebraska, 1989
+• Anna Miller Assistant Coach (417) annamiller@missouristate.edu Missouri State,
+• Austin Hale Head Coach (417) ahale@missouristate.edu Missouri
+• Taryn Smiley Assistant Coach (417) tarynsmiley@missouristate.edu Missouri State,
+• Bryan Mack Assistant Coach (417) bm7e@MissouriState.edu Central
+• Steven McRoberts Head Coach (417) StevenMcRoberts@MissouriState.edu Harding, 1993
+• Bri Walsh Assistant Coach (417) brianawalsh@missouristate.edu Evangel, 2013
+• Lori Endicott-Vandersnick Assistant Coach (417) lorivandersnick@missouristate.edu Nebraska, 1999
+• Zerek Langley Assistant Coach (417) ZerekLangley@MissouriState.edu Missouri State,

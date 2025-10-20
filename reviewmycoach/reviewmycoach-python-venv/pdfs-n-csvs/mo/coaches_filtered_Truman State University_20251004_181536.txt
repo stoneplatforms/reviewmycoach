@@ -1,0 +1,137 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:37
+============================================================
+
+Total coaches found: 21
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dan Davis
+   Email: dandavis@truman.edu
+   Username: dandavis
+   Original line: Dan Davis Head Baseball Coach dandavis@truman.edu
+
+2. Tyler Hudlow
+   Email: thudlow@truman.edu
+   Username: thudlow
+   Original line: Tyler Hudlow Assistant Baseball Coach thudlow@truman.edu
+
+3. Mike Worley
+   Email: mworley@truman.edu
+   Username: mworley
+   Original line: Mike Worley Head Men's Basketball Coach mworley@truman.edu
+
+4. Theo Dean
+   Email: tdean@truman.edu
+   Username: tdean
+   Original line: Theo Dean Head Women's Basketball Coach tdean@truman.edu
+
+5. Kellen Nesbitt
+   Email: knesbitt@truman.edu
+   Username: knesbitt
+   Original line: Kellen Nesbitt Head Football Coach knesbitt@truman.edu
+
+6. Jeramey Dockery
+   Email: jdockery@truman.edu
+   Username: jdockery
+   Original line: Jeramey Dockery Assistant Football Coach - Defensive Coordinator, Defensive jdockery@truman.edu
+
+7. Austin Zoda
+   Email: azoda@truman.edu
+   Username: azoda
+   Original line: Austin Zoda Assistant Head Coach - Offensive Coordinator azoda@truman.edu
+
+8. Clay Marshall
+   Email: cmarshall@truman.edu
+   Username: cmarshall
+   Original line: Clay Marshall Assistant Football Coach - Offensive Line cmarshall@truman.edu
+
+9. John Dabney
+   Email: jdabney@truman.edu
+   Username: jdabney
+   Original line: John Dabney Assistant Football Coach - Running Backs jdabney@truman.edu
+
+10. Clint Fitzpatrick
+   Email: cfitz@pga.com
+   Username: cfitz
+   Original line: Clint Fitzpatrick Head Women's Golf Coach cfitz@pga.com
+
+11. Duke Cochran
+   Email: dcochran@truman.edu
+   Username: dcochran
+   Original line: Duke Cochran Head Men's Soccer Coach dcochran@truman.edu
+
+12. Aidan Bilbao
+   Email: ajb7347@truman.edu
+   Username: ajb7347
+   Original line: Aidan Bilbao Assistant Men's Soccer Coach ajb7347@truman.edu
+
+13. Mike Cannon
+   Email: mcannon@truman.edu
+   Username: mcannon
+   Original line: Mike Cannon Head Women's Soccer Coach mcannon@truman.edu
+
+14. Ron Ferrill
+   Email: rferrill@truman.edu
+   Username: rferrill
+   Original line: Ron Ferrill Head Softball Coach rferrill@truman.edu
+
+15. Josie Buhr
+   Email: jbuhr@truman.edu
+   Username: jbuhr
+   Original line: Josie Buhr Assistant Softball Coach jbuhr@truman.edu
+
+16. Douglas Heighton
+   Email: dheighton@truman.edu
+   Username: dheighton
+   Original line: Douglas Heighton Men's & Women's Swimming Interim Head Coach dheighton@truman.edu
+
+17. Steve Smith
+   Email: sjsmith@truman.edu
+   Username: sjsmith
+   Original line: Steve Smith Head Tennis Coach sjsmith@truman.edu
+
+18. Leslie Hardesty
+   Email: hardesty@truman.edu
+   Username: hardesty
+   Original line: Leslie Hardesty Head Track & Field Coach/Strength & Conditioning hardesty@truman.edu
+
+19. Thomas Whittaker
+   Email: twhittaker@truman.edu
+   Username: twhittaker
+   Original line: Thomas Whittaker Head Cross Country/Assistant Track & Field Coach twhittaker@truman.edu
+
+20. David Gannon
+   Email: dgannon@truman.edu
+   Username: dgannon
+   Original line: David Gannon Head Volleyball Coach dgannon@truman.edu
+
+21. Kenzie Bruder
+   Email: mbouse@truman.edu
+   Username: mbouse
+   Original line: Kenzie Bruder Assistant Volleyball Coach mbouse@truman.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dan Davis Head Baseball Coach dandavis@truman.edu
+• Tyler Hudlow Assistant Baseball Coach thudlow@truman.edu
+• Mike Worley Head Men's Basketball Coach mworley@truman.edu
+• Theo Dean Head Women's Basketball Coach tdean@truman.edu
+• Kellen Nesbitt Head Football Coach knesbitt@truman.edu
+• Jeramey Dockery Assistant Football Coach - Defensive Coordinator, Defensive jdockery@truman.edu
+• Austin Zoda Assistant Head Coach - Offensive Coordinator azoda@truman.edu
+• Clay Marshall Assistant Football Coach - Offensive Line cmarshall@truman.edu
+• John Dabney Assistant Football Coach - Running Backs jdabney@truman.edu
+• Clint Fitzpatrick Head Women's Golf Coach cfitz@pga.com
+• Duke Cochran Head Men's Soccer Coach dcochran@truman.edu
+• Aidan Bilbao Assistant Men's Soccer Coach ajb7347@truman.edu
+• Mike Cannon Head Women's Soccer Coach mcannon@truman.edu
+• Ron Ferrill Head Softball Coach rferrill@truman.edu
+• Josie Buhr Assistant Softball Coach jbuhr@truman.edu
+• Douglas Heighton Men's & Women's Swimming Interim Head Coach dheighton@truman.edu
+• Steve Smith Head Tennis Coach sjsmith@truman.edu
+• Leslie Hardesty Head Track & Field Coach/Strength & Conditioning hardesty@truman.edu
+• Thomas Whittaker Head Cross Country/Assistant Track & Field Coach twhittaker@truman.edu
+• David Gannon Head Volleyball Coach dgannon@truman.edu
+• Kenzie Bruder Assistant Volleyball Coach mbouse@truman.edu

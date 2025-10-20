@@ -1,0 +1,299 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:15
+============================================================
+
+Total coaches found: 48
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kim Kleimeier
+   Email: kleimeierk@guilford.edu
+   Username: kleimeierk
+   Original line: Kim Kleimeier '13 Head Women's Tennis Coach / Compliance Coordinator / kleimeierk@guilford.edu 336-316-
+
+2. Sarah Mathews
+   Email: smathews@guilford.edu
+   Username: smathews
+   Original line: Sarah Mathews Head Women's Basketball Coach / Senior Woman smathews@guilford.edu 336-905-
+
+3. Matt Furlaneto
+   Email: mfurlanetodeoliveira@guilford.edu
+   Username: mfurlanetodeoliveira
+   Original line: Matt Furlaneto De Oliveira Strength and Conditioning Coach mfurlanetodeoliveira@guilford.edu
+
+4. Kevin Scola
+   Email: kscola@guilford.edu
+   Username: kscola
+   Original line: Kevin Scola Head Cross Country Coach / Head Track and Field Coach kscola@guilford.edu 336-316-
+
+5. Zach Booker
+   Email: bookerzs@guilford.edu
+   Username: bookerzs
+   Original line: Zach Booker Head Baseball Coach bookerzs@guilford.edu
+
+6. Hayes Henderson
+   Email: hendersoneh@guilford.edu
+   Username: hendersoneh
+   Original line: Hayes Henderson '23 Assistant Baseball Coach hendersoneh@guilford.edu 336-316-
+
+7. Brad Davis
+   Email: davisbs@guilford.edu
+   Username: davisbs
+   Original line: Brad Davis '08 Head Football Coach - Offensive Line Coach davisbs@guilford.edu 336-316-
+
+8. Khalid Jones
+   Email: kjones13@guilford.edu
+   Username: kjones13
+   Original line: Khalid Jones Associate Head Football Coach- Defensive kjones13@guilford.edu 336-316-
+
+9. Josh Baker
+   Email: jbaker8@guilford.edu
+   Username: jbaker8
+   Original line: Josh Baker Assistant Football Coach - Offensive Coordinator / jbaker8@guilford.edu 336-316-
+
+10. Jamel Warren
+   Email: jwarren3@guilford.edu
+   Username: jwarren3
+   Original line: Jamel Warren Assistant Football Coach - Special Teams Coordinator/ jwarren3@guilford.edu
+
+11. Tre Alexander
+   Email: alexandertl@guilford.edu
+   Username: alexandertl
+   Original line: Tre Alexander '22 Assistant Football Coach - Running Backs Coach alexandertl@guilford.edu
+
+12. Jerrod Best
+   Email: jbest5@guilford.edu
+   Username: jbest5
+   Original line: Jerrod Best Assistant Football Coach - Wide Receivers Coach jbest5@guilford.edu
+
+13. Justin Thirtyacre
+   Email: jthirtyacre@guilford.edu
+   Username: jthirtyacre
+   Original line: Justin Thirtyacre Assistant Football Coach - Tight Ends/Fullbacks Coach jthirtyacre@guilford.edu
+
+14. Jesse DeLoof
+   Email: jdeloof@guilford.edu
+   Username: jdeloof
+   Original line: Jesse DeLoof Head Men's Basketball Coach jdeloof@guilford.edu 336-316-
+
+15. Brandon Baker
+   Email: bbaker2@guilford.edu
+   Username: bbaker2
+   Original line: Brandon Baker Assistant Men's Basketball Coach bbaker2@guilford.edu
+
+16. Bryan Mathews
+   Email: bmathews@guilford.edu
+   Username: bmathews
+   Original line: Bryan Mathews Assistant Men's Basketball Coach bmathews@guilford.edu 336-316-
+
+17. Ben Potter
+   Email: bpotter@guilford.edu
+   Username: bpotter
+   Original line: Ben Potter Head Men's Golf Coach bpotter@guilford.edu
+
+18. Dylan Neisler
+   Email: dneisler@guilford.edu
+   Username: dneisler
+   Original line: Dylan Neisler Head Men's Lacrosse Coach dneisler@guilford.edu 586-524-
+
+19. Kevin Murphy
+   Email: kmurphy2@guilford.edu
+   Username: kmurphy2
+   Original line: Kevin Murphy Assistant Men's Lacrosse Coach kmurphy2@guilford.edu
+
+20. Will Thomsen
+   Email: thomsenw@guilford.edu
+   Username: thomsenw
+   Original line: Will Thomsen Interim Head Men's Soccer Coach thomsenw@guilford.edu
+
+21. Rob Szitas
+   Email: rszitas@guilford.edu
+   Username: rszitas
+   Original line: Rob Szitas Interim Assistant Men's Soccer Coach rszitas@guilford.edu
+
+22. Roman Robinson
+   Email: rrobinson1@guilford.edu
+   Username: rrobinson1
+   Original line: Roman Robinson '24 Assistant Men's Soccer Coach rrobinson1@guilford.edu
+
+23. Mark Lapierre
+   Email: lapierremd@guilford.edu
+   Username: lapierremd
+   Original line: Mark Lapierre Interim Head Men's Tennis Coach lapierremd@guilford.edu 336-681-
+
+24. Kevin Scola
+   Email: kscola@guilford.edu
+   Username: kscola
+   Original line: Kevin Scola Head Cross Country Coach / Head Track and Field Coach kscola@guilford.edu 336-316-
+
+25. Ranicha Sargeant
+   Email: sargeantrc@guilford.edu
+   Username: sargeantrc
+   Original line: Ranicha Sargeant '22 Head Triathlon Coach / Assistant Track & Field Coach - sargeantrc@guilford.edu
+
+26. Jimmy Lamour
+   Email: jlamour@guilford.edu
+   Username: jlamour
+   Original line: Jimmy Lamour Assistant Track & Field Coach - Sprints jlamour@guilford.edu
+
+27. Charissa Duncan
+   Email: duncancm@guilford.edu
+   Username: duncancm
+   Original line: Charissa Duncan '10 Head Softball Coach duncancm@guilford.edu 336-316-
+
+28. Kasey Locke
+   Email: klocke@guilford.edu
+   Username: klocke
+   Original line: Kasey Locke Assistant Softball Coach klocke@guilford.edu
+
+29. Tyler O'Dell
+   Email: todell@guilford.edu
+   Username: todell
+   Original line: Tyler O'Dell Assistant Softball Coach todell@guilford.edu
+
+30. Sarah Cutright
+   Email: cutrightse@guilford.edu
+   Username: cutrightse
+   Original line: Sarah Cutright Volunteer Assistant Softball Coach cutrightse@guilford.edu
+
+31. Dallas Cross
+   Email: dcross3@guilford.edu
+   Username: dcross3
+   Original line: Dallas Cross Volunteer Assistant Softball Coach dcross3@guilford.edu
+
+32. Sarah Mathews
+   Email: smathews@guilford.edu
+   Username: smathews
+   Original line: Sarah Mathews Head Women's Basketball Coach / Senior Woman smathews@guilford.edu 336-905-
+
+33. Reggie Blackmon
+   Email: rblackmon@guilford.edu
+   Username: rblackmon
+   Original line: Reggie Blackmon Assistant Women's Basketball Coach rblackmon@guilford.edu 301-404-
+
+34. Christine Newcomb
+   Email: cnewcomb@guilford.edu
+   Username: cnewcomb
+   Original line: Christine Newcomb Head Women's Rugby Coach | Assistant Women's cnewcomb@guilford.edu 336-316-
+
+35. Kevin Scola
+   Email: kscola@guilford.edu
+   Username: kscola
+   Original line: Kevin Scola Head Cross Country Coach / Head Track and Field Coach kscola@guilford.edu 336-316-
+
+36. Taylor Cline
+   Email: tcline@guilford.edu
+   Username: tcline
+   Original line: Taylor Cline Head Women's Lacrosse Coach tcline@guilford.edu
+
+37. Becki Haislip
+   Email: haislipbe@guilford.edu
+   Username: haislipbe
+   Original line: Becki Haislip '99 Assistant Women's Lacrosse Coach haislipbe@guilford.edu 336-316-
+
+38. Christine Newcomb
+   Email: cnewcomb@guilford.edu
+   Username: cnewcomb
+   Original line: Christine Newcomb Head Women's Rugby Coach | Assistant Women's cnewcomb@guilford.edu 336-316-
+
+39. Randy Little
+   Email: jlittle@guilford.edu
+   Username: jlittle
+   Original line: Randy Little Assistant Women's Rugby Coach jlittle@guilford.edu
+
+40. Dakota Rock
+   Email: rockdt@guilford.edu
+   Username: rockdt
+   Original line: Dakota Rock '15 Head Women's Soccer Coach rockdt@guilford.edu
+
+41. Scott Neely
+   Email: neelysd@guilford.edu
+   Username: neelysd
+   Original line: Scott Neely Assistant Women's Soccer Coach neelysd@guilford.edu
+
+42. Kim Kleimeier
+   Email: kleimeierk@guilford.edu
+   Username: kleimeierk
+   Original line: Kim Kleimeier '13 Head Women's Tennis Coach / Compliance Coordinator / kleimeierk@guilford.edu 336-316-
+
+43. Kevin Scola
+   Email: kscola@guilford.edu
+   Username: kscola
+   Original line: Kevin Scola Head Cross Country Coach / Head Track and Field Coach kscola@guilford.edu 336-316-
+
+44. Ranicha Sargeant
+   Email: sargeantrc@guilford.edu
+   Username: sargeantrc
+   Original line: Ranicha Sargeant '22 Head Triathlon Coach / Assistant Track & Field Coach - sargeantrc@guilford.edu
+
+45. Jimmy Lamour
+   Email: jlamour@guilford.edu
+   Username: jlamour
+   Original line: Jimmy Lamour Assistant Track & Field Coach - Sprints jlamour@guilford.edu
+
+46. Ranicha Sargeant
+   Email: sargeantrc@guilford.edu
+   Username: sargeantrc
+   Original line: Ranicha Sargeant '22 Head Triathlon Coach / Assistant Track & Field Coach - sargeantrc@guilford.edu
+
+47. Chris Miron
+   Email: cmiron@guilford.edu
+   Username: cmiron
+   Original line: Chris Miron Head Volleyball Coach cmiron@guilford.edu 336-316-
+
+48. Julia Mainwaring
+   Email: mainwaringje@guilford.edu
+   Username: mainwaringje
+   Original line: Julia Mainwaring Assistant Volleyball Coach mainwaringje@guilford.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kim Kleimeier '13 Head Women's Tennis Coach / Compliance Coordinator / kleimeierk@guilford.edu 336-316-
+• Sarah Mathews Head Women's Basketball Coach / Senior Woman smathews@guilford.edu 336-905-
+• Matt Furlaneto De Oliveira Strength and Conditioning Coach mfurlanetodeoliveira@guilford.edu
+• Kevin Scola Head Cross Country Coach / Head Track and Field Coach kscola@guilford.edu 336-316-
+• Zach Booker Head Baseball Coach bookerzs@guilford.edu
+• Hayes Henderson '23 Assistant Baseball Coach hendersoneh@guilford.edu 336-316-
+• Brad Davis '08 Head Football Coach - Offensive Line Coach davisbs@guilford.edu 336-316-
+• Khalid Jones Associate Head Football Coach- Defensive kjones13@guilford.edu 336-316-
+• Josh Baker Assistant Football Coach - Offensive Coordinator / jbaker8@guilford.edu 336-316-
+• Jamel Warren Assistant Football Coach - Special Teams Coordinator/ jwarren3@guilford.edu
+• Tre Alexander '22 Assistant Football Coach - Running Backs Coach alexandertl@guilford.edu
+• Jerrod Best Assistant Football Coach - Wide Receivers Coach jbest5@guilford.edu
+• Justin Thirtyacre Assistant Football Coach - Tight Ends/Fullbacks Coach jthirtyacre@guilford.edu
+• Jesse DeLoof Head Men's Basketball Coach jdeloof@guilford.edu 336-316-
+• Brandon Baker Assistant Men's Basketball Coach bbaker2@guilford.edu
+• Bryan Mathews Assistant Men's Basketball Coach bmathews@guilford.edu 336-316-
+• Ben Potter Head Men's Golf Coach bpotter@guilford.edu
+• Dylan Neisler Head Men's Lacrosse Coach dneisler@guilford.edu 586-524-
+• Kevin Murphy Assistant Men's Lacrosse Coach kmurphy2@guilford.edu
+• Will Thomsen Interim Head Men's Soccer Coach thomsenw@guilford.edu
+• Rob Szitas Interim Assistant Men's Soccer Coach rszitas@guilford.edu
+• Roman Robinson '24 Assistant Men's Soccer Coach rrobinson1@guilford.edu
+• Mark Lapierre Interim Head Men's Tennis Coach lapierremd@guilford.edu 336-681-
+• Kevin Scola Head Cross Country Coach / Head Track and Field Coach kscola@guilford.edu 336-316-
+• Ranicha Sargeant '22 Head Triathlon Coach / Assistant Track & Field Coach - sargeantrc@guilford.edu
+• Jimmy Lamour Assistant Track & Field Coach - Sprints jlamour@guilford.edu
+• Charissa Duncan '10 Head Softball Coach duncancm@guilford.edu 336-316-
+• Kasey Locke Assistant Softball Coach klocke@guilford.edu
+• Tyler O'Dell Assistant Softball Coach todell@guilford.edu
+• Sarah Cutright Volunteer Assistant Softball Coach cutrightse@guilford.edu
+• Dallas Cross Volunteer Assistant Softball Coach dcross3@guilford.edu
+• Sarah Mathews Head Women's Basketball Coach / Senior Woman smathews@guilford.edu 336-905-
+• Reggie Blackmon Assistant Women's Basketball Coach rblackmon@guilford.edu 301-404-
+• Christine Newcomb Head Women's Rugby Coach | Assistant Women's cnewcomb@guilford.edu 336-316-
+• Kevin Scola Head Cross Country Coach / Head Track and Field Coach kscola@guilford.edu 336-316-
+• Taylor Cline Head Women's Lacrosse Coach tcline@guilford.edu
+• Becki Haislip '99 Assistant Women's Lacrosse Coach haislipbe@guilford.edu 336-316-
+• Christine Newcomb Head Women's Rugby Coach | Assistant Women's cnewcomb@guilford.edu 336-316-
+• Randy Little Assistant Women's Rugby Coach jlittle@guilford.edu
+• Dakota Rock '15 Head Women's Soccer Coach rockdt@guilford.edu
+• Scott Neely Assistant Women's Soccer Coach neelysd@guilford.edu
+• Kim Kleimeier '13 Head Women's Tennis Coach / Compliance Coordinator / kleimeierk@guilford.edu 336-316-
+• Kevin Scola Head Cross Country Coach / Head Track and Field Coach kscola@guilford.edu 336-316-
+• Ranicha Sargeant '22 Head Triathlon Coach / Assistant Track & Field Coach - sargeantrc@guilford.edu
+• Jimmy Lamour Assistant Track & Field Coach - Sprints jlamour@guilford.edu
+• Ranicha Sargeant '22 Head Triathlon Coach / Assistant Track & Field Coach - sargeantrc@guilford.edu
+• Chris Miron Head Volleyball Coach cmiron@guilford.edu 336-316-
+• Julia Mainwaring Assistant Volleyball Coach mainwaringje@guilford.edu

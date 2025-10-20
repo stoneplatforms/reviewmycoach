@@ -1,0 +1,515 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:20
+============================================================
+
+Total coaches found: 84
+
+PARSED ENTRIES:
+----------------------------------------
+1. Amber Warners
+   Email: awarners@calvin.edu
+   Username: awarners
+   Original line: Amber Warners Head Volleyball Coach/Associate (616) awarners@calvin.edu
+
+2. Becky Hilgert
+   Email: rah29@calvin.edu
+   Username: rah29
+   Original line: Becky Hilgert Head Softball Coach/Assistant (616) rah29@calvin.edu
+
+3. Jacob Graham
+   Email: Jacob.graham@calvin.edu
+   Username: Jacob.graham
+   Original line: Jacob Graham Assistant Head Coach of Track & 616-259- Jacob.graham@calvin.edu
+
+4. Joel Schipper
+   Email: joel.schipper@calvin.edu
+   Username: joel.schipper
+   Original line: Joel Schipper Head Coach joel.schipper@calvin.edu
+
+5. Pat Clark
+   Email: patrick.clark@calvin.edu
+   Username: patrick.clark
+   Original line: Pat Clark Assistant Coach patrick.clark@calvin.edu
+
+6. Nate Roede
+   Email: nathan.roede@calvin.edu
+   Username: nathan.roede
+   Original line: Nate Roede Assistant Coach nathan.roede@calvin.edu
+
+7. Ethan Hear
+   Email: eah72@calvin.edu
+   Username: eah72
+   Original line: Ethan Hear Graduate Assistant Coach eah72@calvin.edu
+
+8. Bill Sall
+   Email: wcs6@calvin.edu
+   Username: wcs6
+   Original line: Bill Sall Head Coach (616) wcs6@calvin.edu
+
+9. Mark Warners
+   Email: maw82@calvin.edu
+   Username: maw82
+   Original line: Mark Warners Assistant Coach (616) maw82@calvin.edu
+
+10. Derrick DeVries
+   Email: djd57@calvin.edu
+   Username: djd57
+   Original line: Derrick DeVries Assistant Coach (616) djd57@calvin.edu
+
+11. Nicole Kramer
+   Email: nicole.kramer@calvin.edu
+   Username: nicole.kramer
+   Original line: Nicole Kramer Head Cross Country Coach, (616) nicole.kramer@calvin.edu
+
+12. Jack Carroll
+   Email: jack.carroll@calvin.edu
+   Username: jack.carroll
+   Original line: Jack Carroll Assistant Coach jack.carroll@calvin.edu
+
+13. Elizabeth Westhouse
+   Email: ecw26@calvin.edu
+   Username: ecw26
+   Original line: Elizabeth Westhouse Assistant Coach (616) ecw26@calvin.edu
+
+14. Trent Figg
+   Email: trent.figg@calvin.edu
+   Username: trent.figg
+   Original line: Trent Figg Head Coach trent.figg@calvin.edu
+
+15. Christian Verley
+   Email: Christian.verley@calvin.edu
+   Username: Christian.verley
+   Original line: Christian Verley Assistant Coach Christian.verley@calvin.edu
+
+16. Andrew Vazquez
+   Email: andrew.vazquez@calvin.edu
+   Username: andrew.vazquez
+   Original line: Andrew Vazquez Assistant Coach andrew.vazquez@calvin.edu
+
+17. Austin Garde
+   Email: austin.garde@calvin.edu
+   Username: austin.garde
+   Original line: Austin Garde Assistant Coach austin.garde@calvin.edu
+
+18. Daniel Packard
+   Email: daniel.packard@calvin.edu
+   Username: daniel.packard
+   Original line: Daniel Packard Assistant Coach daniel.packard@calvin.edu
+
+19. Joey Femali
+   Email: joey.femali@calvin.edu
+   Username: joey.femali
+   Original line: Joey Femali Assistant Coach joey.femali@calvin.edu
+
+20. Austin McCrory
+   Email: austin.mccrory@calvin.edu
+   Username: austin.mccrory
+   Original line: Austin McCrory Assistant Coach austin.mccrory@calvin.edu
+
+21. Brian Bolt
+   Email: brb8@calvin.edu
+   Username: brb8
+   Original line: Brian Bolt Head Coach (616) brb8@calvin.edu
+
+22. Josh Petrusma
+   Email: joshua.petrusma@calvin.edu
+   Username: joshua.petrusma
+   Original line: Josh Petrusma Head Coach/Director of Hockey (616) joshua.petrusma@calvin.edu
+
+23. Hugh Groot
+   Email: hugh.groot@calvin.edu
+   Username: hugh.groot
+   Original line: Hugh Groot Assistant Coach hugh.groot@calvin.edu
+
+24. Austin Huizenga
+   Email: austin.huizenga@calvin.edu
+   Username: austin.huizenga
+   Original line: Austin Huizenga Head Coach austin.huizenga@calvin.edu
+
+25. Lyn Sova
+   Email: lyn.sova@calvin.edu
+   Username: lyn.sova
+   Original line: Lyn Sova Assistant Coach lyn.sova@calvin.edu
+
+26. Dave Hoger
+   Email: dah32@calvin.edu
+   Username: dah32
+   Original line: Dave Hoger Head Coach (616) dah32@calvin.edu
+
+27. Chad Wright
+   Email: caw29@calvin.edu
+   Username: caw29
+   Original line: Chad Wright Assistant Coach (616) caw29@calvin.edu
+
+28. Yevgeniy Gevorkyan
+   Email: yvg2@calvin.edu
+   Username: yvg2
+   Original line: Yevgeniy Gevorkyan Assistant Coach (616) yvg2@calvin.edu
+
+29. Bob Evett
+   Email: be28@calvin.edu
+   Username: be28
+   Original line: Bob Evett Assistant Coach (616) be28@calvin.edu
+
+30. Scott Opal
+   Email: Scott.opal@calvin.edu
+   Username: Scott.opal
+   Original line: Scott Opal Assistant Coach (616) Scott.opal@calvin.edu
+
+31. Ryan Souders
+   Email: wrs8@calvin.edu
+   Username: wrs8
+   Original line: Ryan Souders Head Coach (616) wrs8@calvin.edu
+
+32. Brady Bryant
+   Email: beb8@calvin.edu
+   Username: beb8
+   Original line: Brady Bryant Assistant Coach (616) beb8@calvin.edu
+
+33. Mason Smith
+   Email: mason.smith@calvin.edu
+   Username: mason.smith
+   Original line: Mason Smith Assistant Coach mason.smith@calvin.edu
+
+34. Dan Gelderloos
+   Email: dgelderl@calvin.edu
+   Username: dgelderl
+   Original line: Dan Gelderloos Head Coach (616) dgelderl@calvin.edu
+
+35. Chris Sullivan
+   Email: cms65@calvin.edu
+   Username: cms65
+   Original line: Chris Sullivan Assistant Coach (616) cms65@calvin.edu
+
+36. Mitch Schroder
+   Email: mitchell.schroder@calvin.edu
+   Username: mitchell.schroder
+   Original line: Mitch Schroder Assistant Coach 616-802- mitchell.schroder@calvin.edu
+
+37. Jake Boender
+   Email: jake.boender@calvin.edu
+   Username: jake.boender
+   Original line: Jake Boender Assistant Coach jake.boender@calvin.edu
+
+38. Helena Tolic
+   Email: helena.tolic@calvin.edu
+   Username: helena.tolic
+   Original line: Helena Tolic Assistant Coach helena.tolic@calvin.edu
+
+39. Olivia Phillips
+   Email: olivia.phillips@calvin.edu
+   Username: olivia.phillips
+   Original line: Olivia Phillips Assistant Coach - Diving olivia.phillips@calvin.edu
+
+40. George Rodriguez
+   Email: george.rodriguez@calvin.edu
+   Username: george.rodriguez
+   Original line: George Rodriguez Head Tennis Coach george.rodriguez@calvin.edu
+
+41. Preston Phillips
+   Email: preston.phillips@calvin.edu
+   Username: preston.phillips
+   Original line: Preston Phillips Assistant Coach (616) preston.phillips@calvin.edu
+
+42. Jacob Graham
+   Email: Jacob.graham@calvin.edu
+   Username: Jacob.graham
+   Original line: Jacob Graham Assistant Head Coach of Track & 616-259- Jacob.graham@calvin.edu
+
+43. Nicole Kramer
+   Email: nicole.kramer@calvin.edu
+   Username: nicole.kramer
+   Original line: Nicole Kramer Head Cross Country Coach, (616) nicole.kramer@calvin.edu
+
+44. Rachel Haldorson
+   Email: rachel.haldorson@calvin.edu
+   Username: rachel.haldorson
+   Original line: Rachel Haldorson Assistant Coach rachel.haldorson@calvin.edu
+
+45. Brendan VanHouten
+   Email: brendan.vanhouten@calvin.edu
+   Username: brendan.vanhouten
+   Original line: Brendan VanHouten Assistant Coach brendan.vanhouten@calvin.edu
+
+46. Misael Martinez
+   Email: misael.martinezvasquez@calvin.edu
+   Username: misael.martinezvasquez
+   Original line: Misael Martinez Vasquez Assistant Coach - Throws misael.martinezvasquez@calvin.edu
+
+47. Brian Bolton
+   Email: brian.bolton@calvin.edu
+   Username: brian.bolton
+   Original line: Brian Bolton Assistant Coach - Throws brian.bolton@calvin.edu
+
+48. Colton Emeott
+   Email: colton.emeott@calvin.edu
+   Username: colton.emeott
+   Original line: Colton Emeott Assistant Coach colton.emeott@calvin.edu
+
+49. Aaron Sagraves
+   Email: aaron.sagraves@calvin.edu
+   Username: aaron.sagraves
+   Original line: Aaron Sagraves Interim Head Coach aaron.sagraves@calvin.edu
+
+50. MacKenzi Vazquez
+   Email: mackenzi.vazquez@calvin.edu
+   Username: mackenzi.vazquez
+   Original line: MacKenzi Vazquez Assistant Coach mackenzi.vazquez@calvin.edu
+
+51. Mark Christner
+   Email: mcc3@calvin.edu
+   Username: mcc3
+   Original line: Mark Christner Head Coach 616-526- mcc3@calvin.edu
+
+52. Heather Swierenga
+   Email: hjv8@calvin.edu
+   Username: hjv8
+   Original line: Heather Swierenga Assistant Coach (616) hjv8@calvin.edu
+
+53. John Ross
+   Email: jr23@calvin.edu
+   Username: jr23
+   Original line: John Ross Assistant Coach (616) jr23@calvin.edu
+
+54. Nicole Kramer
+   Email: nicole.kramer@calvin.edu
+   Username: nicole.kramer
+   Original line: Nicole Kramer Head Cross Country Coach, (616) nicole.kramer@calvin.edu
+
+55. Jack Carroll
+   Email: jack.carroll@calvin.edu
+   Username: jack.carroll
+   Original line: Jack Carroll Assistant Coach jack.carroll@calvin.edu
+
+56. Elizabeth Westhouse
+   Email: ecw26@calvin.edu
+   Username: ecw26
+   Original line: Elizabeth Westhouse Assistant Coach (616) ecw26@calvin.edu
+
+57. Jerry Bergsma
+   Email: jbergsma@calvin.edu
+   Username: jbergsma
+   Original line: Jerry Bergsma Head Coach (616) jbergsma@calvin.edu
+
+58. Blake Boehm
+   Email: btb3@calvin.edu
+   Username: btb3
+   Original line: Blake Boehm Head Coach (616) btb3@calvin.edu
+
+59. Emily Ottenhoff
+   Email: eao8@calvin.edu
+   Username: eao8
+   Original line: Emily Ottenhoff Head Coach (616) eao8@calvin.edu
+
+60. Annette Stromberg
+   Email: annette.stromberg@calvin.edu
+   Username: annette.stromberg
+   Original line: Annette Stromberg Assistant Coach (616) annette.stromberg@calvin.edu
+
+61. Becky Hilgert
+   Email: rah29@calvin.edu
+   Username: rah29
+   Original line: Becky Hilgert Head Softball Coach/Assistant (616) rah29@calvin.edu
+
+62. Christie Vander
+   Email: christine.vandermeer@calvin.edu
+   Username: christine.vandermeer
+   Original line: Christie Vander Meer Assistant Coach christine.vandermeer@calvin.edu
+
+63. Abi Dogger
+   Email: abigail.colon@calvin.edu
+   Username: abigail.colon
+   Original line: Abi Dogger Assistant Coach abigail.colon@calvin.edu
+
+64. Lina Avila
+   Email: lina.avila@calvin.edu
+   Username: lina.avila
+   Original line: Lina Avila Assistant Coach lina.avila@calvin.edu
+
+65. Dan Gelderloos
+   Email: dgelderl@calvin.edu
+   Username: dgelderl
+   Original line: Dan Gelderloos Head Coach (616) dgelderl@calvin.edu
+
+66. Chris Sullivan
+   Email: cms65@calvin.edu
+   Username: cms65
+   Original line: Chris Sullivan Assistant Coach (616) cms65@calvin.edu
+
+67. Mitch Schroder
+   Email: mitchell.schroder@calvin.edu
+   Username: mitchell.schroder
+   Original line: Mitch Schroder Assistant Coach 616-802- mitchell.schroder@calvin.edu
+
+68. Jake Boender
+   Email: jake.boender@calvin.edu
+   Username: jake.boender
+   Original line: Jake Boender Assistant Coach jake.boender@calvin.edu
+
+69. Helena Tolic
+   Email: helena.tolic@calvin.edu
+   Username: helena.tolic
+   Original line: Helena Tolic Assistant Coach helena.tolic@calvin.edu
+
+70. Olivia Phillips
+   Email: olivia.phillips@calvin.edu
+   Username: olivia.phillips
+   Original line: Olivia Phillips Assistant Coach - Diving olivia.phillips@calvin.edu
+
+71. George Rodriguez
+   Email: george.rodriguez@calvin.edu
+   Username: george.rodriguez
+   Original line: George Rodriguez Head Tennis Coach george.rodriguez@calvin.edu
+
+72. Preston Phillips
+   Email: preston.phillips@calvin.edu
+   Username: preston.phillips
+   Original line: Preston Phillips Assistant Coach (616) preston.phillips@calvin.edu
+
+73. Jacob Graham
+   Email: Jacob.graham@calvin.edu
+   Username: Jacob.graham
+   Original line: Jacob Graham Assistant Head Coach of Track & 616-259- Jacob.graham@calvin.edu
+
+74. Nicole Kramer
+   Email: nicole.kramer@calvin.edu
+   Username: nicole.kramer
+   Original line: Nicole Kramer Head Cross Country Coach, (616) nicole.kramer@calvin.edu
+
+75. Rachel Haldorson
+   Email: rachel.haldorson@calvin.edu
+   Username: rachel.haldorson
+   Original line: Rachel Haldorson Assistant Coach rachel.haldorson@calvin.edu
+
+76. Brendan VanHouten
+   Email: brendan.vanhouten@calvin.edu
+   Username: brendan.vanhouten
+   Original line: Brendan VanHouten Assistant Coach brendan.vanhouten@calvin.edu
+
+77. Misael Martinez
+   Email: misael.martinezvasquez@calvin.edu
+   Username: misael.martinezvasquez
+   Original line: Misael Martinez Vasquez Assistant Coach - Throws misael.martinezvasquez@calvin.edu
+
+78. Brian Bolton
+   Email: brian.bolton@calvin.edu
+   Username: brian.bolton
+   Original line: Brian Bolton Assistant Coach - Throws brian.bolton@calvin.edu
+
+79. Colton Emeott
+   Email: colton.emeott@calvin.edu
+   Username: colton.emeott
+   Original line: Colton Emeott Assistant Coach colton.emeott@calvin.edu
+
+80. Amber Warners
+   Email: awarners@calvin.edu
+   Username: awarners
+   Original line: Amber Warners Head Volleyball Coach/Associate (616) awarners@calvin.edu
+
+81. Emily Clark
+   Email: ecb25@calvin.edu
+   Username: ecb25
+   Original line: Emily Clark Assistant Coach (616) ecb25@calvin.edu
+
+82. Morgan DeVries
+   Email: md49@calvin.edu
+   Username: md49
+   Original line: Morgan DeVries Bream Assistant Coach (616) md49@calvin.edu
+
+83. Taylor Roede
+   Email: taylor.roede@calvin.edu
+   Username: taylor.roede
+   Original line: Taylor Roede Assistant Coach (616) taylor.roede@calvin.edu
+
+84. Avery Ekkens
+   Email: avery.ekkens@calvin.edu
+   Username: avery.ekkens
+   Original line: Avery Ekkens Graduate Assistant Coach (616) avery.ekkens@calvin.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Amber Warners Head Volleyball Coach/Associate (616) awarners@calvin.edu
+• Becky Hilgert Head Softball Coach/Assistant (616) rah29@calvin.edu
+• Jacob Graham Assistant Head Coach of Track & 616-259- Jacob.graham@calvin.edu
+• Joel Schipper Head Coach joel.schipper@calvin.edu
+• Pat Clark Assistant Coach patrick.clark@calvin.edu
+• Nate Roede Assistant Coach nathan.roede@calvin.edu
+• Ethan Hear Graduate Assistant Coach eah72@calvin.edu
+• Bill Sall Head Coach (616) wcs6@calvin.edu
+• Mark Warners Assistant Coach (616) maw82@calvin.edu
+• Derrick DeVries Assistant Coach (616) djd57@calvin.edu
+• Nicole Kramer Head Cross Country Coach, (616) nicole.kramer@calvin.edu
+• Jack Carroll Assistant Coach jack.carroll@calvin.edu
+• Elizabeth Westhouse Assistant Coach (616) ecw26@calvin.edu
+• Trent Figg Head Coach trent.figg@calvin.edu
+• Christian Verley Assistant Coach Christian.verley@calvin.edu
+• Andrew Vazquez Assistant Coach andrew.vazquez@calvin.edu
+• Austin Garde Assistant Coach austin.garde@calvin.edu
+• Daniel Packard Assistant Coach daniel.packard@calvin.edu
+• Joey Femali Assistant Coach joey.femali@calvin.edu
+• Austin McCrory Assistant Coach austin.mccrory@calvin.edu
+• Brian Bolt Head Coach (616) brb8@calvin.edu
+• Josh Petrusma Head Coach/Director of Hockey (616) joshua.petrusma@calvin.edu
+• Hugh Groot Assistant Coach hugh.groot@calvin.edu
+• Austin Huizenga Head Coach austin.huizenga@calvin.edu
+• Lyn Sova Assistant Coach lyn.sova@calvin.edu
+• Dave Hoger Head Coach (616) dah32@calvin.edu
+• Chad Wright Assistant Coach (616) caw29@calvin.edu
+• Yevgeniy Gevorkyan Assistant Coach (616) yvg2@calvin.edu
+• Bob Evett Assistant Coach (616) be28@calvin.edu
+• Scott Opal Assistant Coach (616) Scott.opal@calvin.edu
+• Ryan Souders Head Coach (616) wrs8@calvin.edu
+• Brady Bryant Assistant Coach (616) beb8@calvin.edu
+• Mason Smith Assistant Coach mason.smith@calvin.edu
+• Dan Gelderloos Head Coach (616) dgelderl@calvin.edu
+• Chris Sullivan Assistant Coach (616) cms65@calvin.edu
+• Mitch Schroder Assistant Coach 616-802- mitchell.schroder@calvin.edu
+• Jake Boender Assistant Coach jake.boender@calvin.edu
+• Helena Tolic Assistant Coach helena.tolic@calvin.edu
+• Olivia Phillips Assistant Coach - Diving olivia.phillips@calvin.edu
+• George Rodriguez Head Tennis Coach george.rodriguez@calvin.edu
+• Preston Phillips Assistant Coach (616) preston.phillips@calvin.edu
+• Jacob Graham Assistant Head Coach of Track & 616-259- Jacob.graham@calvin.edu
+• Nicole Kramer Head Cross Country Coach, (616) nicole.kramer@calvin.edu
+• Rachel Haldorson Assistant Coach rachel.haldorson@calvin.edu
+• Brendan VanHouten Assistant Coach brendan.vanhouten@calvin.edu
+• Misael Martinez Vasquez Assistant Coach - Throws misael.martinezvasquez@calvin.edu
+• Brian Bolton Assistant Coach - Throws brian.bolton@calvin.edu
+• Colton Emeott Assistant Coach colton.emeott@calvin.edu
+• Aaron Sagraves Interim Head Coach aaron.sagraves@calvin.edu
+• MacKenzi Vazquez Assistant Coach mackenzi.vazquez@calvin.edu
+• Mark Christner Head Coach 616-526- mcc3@calvin.edu
+• Heather Swierenga Assistant Coach (616) hjv8@calvin.edu
+• John Ross Assistant Coach (616) jr23@calvin.edu
+• Nicole Kramer Head Cross Country Coach, (616) nicole.kramer@calvin.edu
+• Jack Carroll Assistant Coach jack.carroll@calvin.edu
+• Elizabeth Westhouse Assistant Coach (616) ecw26@calvin.edu
+• Jerry Bergsma Head Coach (616) jbergsma@calvin.edu
+• Blake Boehm Head Coach (616) btb3@calvin.edu
+• Emily Ottenhoff Head Coach (616) eao8@calvin.edu
+• Annette Stromberg Assistant Coach (616) annette.stromberg@calvin.edu
+• Becky Hilgert Head Softball Coach/Assistant (616) rah29@calvin.edu
+• Christie Vander Meer Assistant Coach christine.vandermeer@calvin.edu
+• Abi Dogger Assistant Coach abigail.colon@calvin.edu
+• Lina Avila Assistant Coach lina.avila@calvin.edu
+• Dan Gelderloos Head Coach (616) dgelderl@calvin.edu
+• Chris Sullivan Assistant Coach (616) cms65@calvin.edu
+• Mitch Schroder Assistant Coach 616-802- mitchell.schroder@calvin.edu
+• Jake Boender Assistant Coach jake.boender@calvin.edu
+• Helena Tolic Assistant Coach helena.tolic@calvin.edu
+• Olivia Phillips Assistant Coach - Diving olivia.phillips@calvin.edu
+• George Rodriguez Head Tennis Coach george.rodriguez@calvin.edu
+• Preston Phillips Assistant Coach (616) preston.phillips@calvin.edu
+• Jacob Graham Assistant Head Coach of Track & 616-259- Jacob.graham@calvin.edu
+• Nicole Kramer Head Cross Country Coach, (616) nicole.kramer@calvin.edu
+• Rachel Haldorson Assistant Coach rachel.haldorson@calvin.edu
+• Brendan VanHouten Assistant Coach brendan.vanhouten@calvin.edu
+• Misael Martinez Vasquez Assistant Coach - Throws misael.martinezvasquez@calvin.edu
+• Brian Bolton Assistant Coach - Throws brian.bolton@calvin.edu
+• Colton Emeott Assistant Coach colton.emeott@calvin.edu
+• Amber Warners Head Volleyball Coach/Associate (616) awarners@calvin.edu
+• Emily Clark Assistant Coach (616) ecb25@calvin.edu
+• Morgan DeVries Bream Assistant Coach (616) md49@calvin.edu
+• Taylor Roede Assistant Coach (616) taylor.roede@calvin.edu
+• Avery Ekkens Graduate Assistant Coach (616) avery.ekkens@calvin.edu

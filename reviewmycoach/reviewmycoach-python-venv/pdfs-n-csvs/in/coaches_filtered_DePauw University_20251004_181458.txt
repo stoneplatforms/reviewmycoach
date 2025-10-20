@@ -1,0 +1,113 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:59
+============================================================
+
+Total coaches found: 17
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jordan Niespodziany
+   Email: jordanniespodziany@depauw.edu
+   Username: jordanniespodziany
+   Original line: Jordan Niespodziany Head Baseball Coach 765- jordanniespodziany@depauw.edu DePauw '13
+
+2. Ryne Foster
+   Email: rynefoster@depauw.edu
+   Username: rynefoster
+   Original line: Ryne Foster Assistant Baseball Coach rynefoster@depauw.edu Anderson (Ind.) '09
+
+3. Olivia Shagam
+   Email: oliviashagam@depauw.edu
+   Username: oliviashagam
+   Original line: Olivia Shagam Head Field Hockey Coach oliviashagam@depauw.edu Central Michigan '16
+
+4. Brett Dietz
+   Email: brettdietz@depauw.edu
+   Username: brettdietz
+   Original line: Brett Dietz Head Football Coach 765- brettdietz@depauw.edu Hanover '04
+
+5. Mason Espinosa
+   Email: masonespinosa@depauw.edu
+   Username: masonespinosa
+   Original line: Mason Espinosa Assistant Football Coach masonespinosa@depauw.edu Ohio Wesleyan '14
+
+6. Ryan McElwain
+   Email: ryanmcelwain@depauw.edu
+   Username: ryanmcelwain
+   Original line: Ryan McElwain Assistant Football Coach ryanmcelwain@depauw.edu DePauw '08
+
+7. Chris Rutledge,
+   Email: crutledgejr@depauw.edu
+   Username: crutledgejr
+   Original line: Chris Rutledge, Jr. Assistant Football Coach crutledgejr@depauw.edu University of Miami
+
+8. Dante Darden
+   Email: dantedarden@depauw.edu
+   Username: dantedarden
+   Original line: Dante Darden Assistant Football Coach dantedarden@depauw.edu Franklin '21
+
+9. Dylan Hyatt
+   Email: dylanhyatt@depauw.edu
+   Username: dylanhyatt
+   Original line: Dylan Hyatt Assistant Football Coach dylanhyatt@depauw.edu DePauw '21
+
+10. Sam Seaburg
+   Email: samseaburg@depauw.edu
+   Username: samseaburg
+   Original line: Sam Seaburg Assistant Football Coach samseaburg@depauw.edu Hanover '25
+
+11. Steven McCarthy
+   Email: stevenmccarthy@depauw.edu
+   Username: stevenmccarthy
+   Original line: Steven McCarthy Head Men's Soccer Coach stevenmccarthy@depauw.edu Capital '10
+
+12. Gabby Smart
+   Email: gabriellesmart@depauw.edu
+   Username: gabriellesmart
+   Original line: Gabby Smart Head Softball Coach gabriellesmart@depauw.edu DePauw '17
+
+13. Becky Iaccino
+   Email: beckyiaccino@depauw.edu
+   Username: beckyiaccino
+   Original line: Becky Iaccino Assistant Softball Coach beckyiaccino@depauw.edu Indiana State
+
+14. Alan Senn
+   Email: alansenn@depauw.edu
+   Username: alansenn
+   Original line: Alan Senn Assistant Head Coach, alansenn@depauw.edu Cumberlands (Ky.)
+
+15. Alan Senn
+   Email: alansenn@depauw.edu
+   Username: alansenn
+   Original line: Alan Senn Assistant Head Coach, alansenn@depauw.edu Cumberlands (Ky.)
+
+16. Deb Zellers
+   Email: dzellers@depauw.edu
+   Username: dzellers
+   Original line: Deb Zellers Head Volleyball Coach 765- dzellers@depauw.edu DePauw '92
+
+17. Sydney Stover
+   Email: sydneystover@depauw.edu
+   Username: sydneystover
+   Original line: Sydney Stover Assistant Volleyball Coach sydneystover@depauw.edu Defiance '18
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jordan Niespodziany Head Baseball Coach 765- jordanniespodziany@depauw.edu DePauw '13
+• Ryne Foster Assistant Baseball Coach rynefoster@depauw.edu Anderson (Ind.) '09
+• Olivia Shagam Head Field Hockey Coach oliviashagam@depauw.edu Central Michigan '16
+• Brett Dietz Head Football Coach 765- brettdietz@depauw.edu Hanover '04
+• Mason Espinosa Assistant Football Coach masonespinosa@depauw.edu Ohio Wesleyan '14
+• Ryan McElwain Assistant Football Coach ryanmcelwain@depauw.edu DePauw '08
+• Chris Rutledge, Jr. Assistant Football Coach crutledgejr@depauw.edu University of Miami
+• Dante Darden Assistant Football Coach dantedarden@depauw.edu Franklin '21
+• Dylan Hyatt Assistant Football Coach dylanhyatt@depauw.edu DePauw '21
+• Sam Seaburg Assistant Football Coach samseaburg@depauw.edu Hanover '25
+• Steven McCarthy Head Men's Soccer Coach stevenmccarthy@depauw.edu Capital '10
+• Gabby Smart Head Softball Coach gabriellesmart@depauw.edu DePauw '17
+• Becky Iaccino Assistant Softball Coach beckyiaccino@depauw.edu Indiana State
+• Alan Senn Assistant Head Coach, alansenn@depauw.edu Cumberlands (Ky.)
+• Alan Senn Assistant Head Coach, alansenn@depauw.edu Cumberlands (Ky.)
+• Deb Zellers Head Volleyball Coach 765- dzellers@depauw.edu DePauw '92
+• Sydney Stover Assistant Volleyball Coach sydneystover@depauw.edu Defiance '18

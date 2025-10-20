@@ -1,0 +1,155 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:15
+============================================================
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Verniece Graham
+   Email: verniece.graham@asurams.edu
+   Username: verniece.graham
+   Original line: Verniece Graham Head Women's Volleyball Coach/Senior 229- verniece.graham@asurams.edu
+
+2. Quinn Fordham
+   Email: asugoldenramsathletics1903@gmail.com
+   Username: asugoldenramsathletics1903
+   Original line: Quinn Fordham Gray, Sr. Head Football Coach asugoldenramsathletics1903@gmail.com
+
+3. Nicholas Sewak
+   Email: nicholas.sewak@asurams.edu
+   Username: nicholas.sewak
+   Original line: Nicholas Sewak Associate Head Coach/Offensive Line/Run nicholas.sewak@asurams.edu
+
+4. Jack Pierrot
+   Email: jpierrot@students.asurams.edu
+   Username: jpierrot
+   Original line: Jack Pierrot Offensive Assistant/Wide Receivers Coach jpierrot@students.asurams.edu
+
+5. Damon Frenchers
+   Email: damon.frenchers@asurams.edu
+   Username: damon.frenchers
+   Original line: Damon Frenchers Assistant Coach/ Defensive Line damon.frenchers@asurams.edu
+
+6. Glenn Davis
+   Email: glenn.davis@asurams.edu
+   Username: glenn.davis
+   Original line: Glenn Davis Assistant Coach/ Cornerbacks glenn.davis@asurams.edu
+
+7. Verniece Graham
+   Email: verniece.graham@asurams.edu
+   Username: verniece.graham
+   Original line: Verniece Graham Head Women's Volleyball Coach/Senior 229- verniece.graham@asurams.edu
+
+8. Calvin King
+   Email: calvin.king@asurams.edu
+   Username: calvin.king
+   Original line: Calvin King AssistantVolleyball Coach calvin.king@asurams.edu
+
+9. Todd Triplett
+   Email: todd.triplett@asurams.edu
+   Username: todd.triplett
+   Original line: Todd Triplett Interim Head Coach 229- todd.triplett@asurams.edu
+
+10. Ty'Janae Brown
+   Email: tyjanae.brown@asurams.edu
+   Username: tyjanae.brown
+   Original line: Ty'Janae Brown Graduate Assistant Coach tyjanae.brown@asurams.edu
+
+11. Patrick Gayle
+   Email: patrick.gayle@asurams.edu
+   Username: patrick.gayle
+   Original line: Patrick Gayle Head Men's Basketball Coach 229- patrick.gayle@asurams.edu
+
+12. Adrian White
+   Email: adrian.white@asurams.edu
+   Username: adrian.white
+   Original line: Adrian White Associate Head Coach 229 adrian.white@asurams.edu
+
+13. Jason Bryant
+   Email: jason.bryant@asurams.edu
+   Username: jason.bryant
+   Original line: Jason Bryant Head Softball Coach 229 jason.bryant@asurams.edu
+
+14. Jeff Ellis
+   Email: jeffrey.ellis@asurams.edu
+   Username: jeffrey.ellis
+   Original line: Jeff Ellis Assistant Softball Coach 229- jeffrey.ellis@asurams.edu
+
+15. Scot Hemmings
+   Email: brandon.hemmings@asurams.edu
+   Username: brandon.hemmings
+   Original line: Scot Hemmings Head Baseball Coach 229- brandon.hemmings@asurams.edu
+
+16. Luis Martinez
+   Email: luis.martinez@asurams.edu
+   Username: luis.martinez
+   Original line: Luis Martinez Assistant Baseball Coach 229 luis.martinez@asurams.edu
+
+17. Jason Townsend
+   Email: jason.townsend@asurams.edu
+   Username: jason.townsend
+   Original line: Jason Townsend Assistant Baseball Coach jason.townsend@asurams.edu
+
+18. Jo Ann
+   Email: joann.matthews@asurams.edu
+   Username: joann.matthews
+   Original line: Jo Ann Matthews Head Women's Tennis Coach 229- joann.matthews@asurams.edu
+
+19. Ronnie McGirt
+   Email: Ronnie.mcgirt@asurams.edu
+   Username: Ronnie.mcgirt
+   Original line: Ronnie McGirt Assistant Track & Field Coach 229 Ronnie.mcgirt@asurams.edu
+
+20. Jared Beauchamp
+   Email: jared.beauchamp@asurams.edu
+   Username: jared.beauchamp
+   Original line: Jared Beauchamp Head Women's Soccer Coach 229- jared.beauchamp@asurams.edu
+
+21. Portia Jones
+   Email: portia.smith3@yahoo.com
+   Username: portia.smith3
+   Original line: Portia Jones Cheer Coach 229- portia.smith3@yahoo.com
+
+22. Ashley Chunn-
+   Email: chunnashley@yahoo.com
+   Username: chunnashley
+   Original line: Ashley Chunn- Bryant Cheer Coach 229- chunnashley@yahoo.com
+
+23. Carlton Clark
+   Email: clarkcarlton@yahoo.com
+   Username: clarkcarlton
+   Original line: Carlton Clark Head Strength & Conditioning Coach clarkcarlton@yahoo.com
+
+24. Jeff Ellis
+   Email: jeffrey.ellis@asurams.edu
+   Username: jeffrey.ellis
+   Original line: Jeff Ellis Assistant Softball Coach 229- jeffrey.ellis@asurams.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Verniece Graham Head Women's Volleyball Coach/Senior 229- verniece.graham@asurams.edu
+• Quinn Fordham Gray, Sr. Head Football Coach asugoldenramsathletics1903@gmail.com
+• Nicholas Sewak Associate Head Coach/Offensive Line/Run nicholas.sewak@asurams.edu
+• Jack Pierrot Offensive Assistant/Wide Receivers Coach jpierrot@students.asurams.edu
+• Damon Frenchers Assistant Coach/ Defensive Line damon.frenchers@asurams.edu
+• Glenn Davis Assistant Coach/ Cornerbacks glenn.davis@asurams.edu
+• Verniece Graham Head Women's Volleyball Coach/Senior 229- verniece.graham@asurams.edu
+• Calvin King AssistantVolleyball Coach calvin.king@asurams.edu
+• Todd Triplett Interim Head Coach 229- todd.triplett@asurams.edu
+• Ty'Janae Brown Graduate Assistant Coach tyjanae.brown@asurams.edu
+• Patrick Gayle Head Men's Basketball Coach 229- patrick.gayle@asurams.edu
+• Adrian White Associate Head Coach 229 adrian.white@asurams.edu
+• Jason Bryant Head Softball Coach 229 jason.bryant@asurams.edu
+• Jeff Ellis Assistant Softball Coach 229- jeffrey.ellis@asurams.edu
+• Scot Hemmings Head Baseball Coach 229- brandon.hemmings@asurams.edu
+• Luis Martinez Assistant Baseball Coach 229 luis.martinez@asurams.edu
+• Jason Townsend Assistant Baseball Coach jason.townsend@asurams.edu
+• Jo Ann Matthews Head Women's Tennis Coach 229- joann.matthews@asurams.edu
+• Ronnie McGirt Assistant Track & Field Coach 229 Ronnie.mcgirt@asurams.edu
+• Jared Beauchamp Head Women's Soccer Coach 229- jared.beauchamp@asurams.edu
+• Portia Jones Cheer Coach 229- portia.smith3@yahoo.com
+• Ashley Chunn- Bryant Cheer Coach 229- chunnashley@yahoo.com
+• Carlton Clark Head Strength & Conditioning Coach clarkcarlton@yahoo.com
+• Jeff Ellis Assistant Softball Coach 229- jeffrey.ellis@asurams.edu

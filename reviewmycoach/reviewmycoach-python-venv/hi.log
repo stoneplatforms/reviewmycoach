@@ -1,0 +1,110 @@
+-> Reading CSV: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/hi/Hawaii College Athletics.csv
+-> Output PDFs to: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/hi
+
+Printing completed in 47.9s
+Success: 4 | Skipped: 0 | Errors: 0
+
+Resolved URLs used:
+- University of Hawaii at Hilo.pdf: https://hiloathletics.com/staff-directory?print=true
+- Chaminade University of Honolulu.pdf: https://goswords.com/staff-directory?print=true
+- Hawaii Pacific University.pdf: https://hpusharks.com/staff-directory?print=true
+- University of Hawaii at Manoa.pdf: https://hawaiiathletics.com/staff-directory?print=true
+
+Parsing printed PDFs and preparing upload entries...
+✔ Total coach entries prepared: 95
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Kallen Miyataki (kmiyatak@hawaii.edu) → coaches/kmiyatak
+[DRY RUN] Would create unclaimed coach profile: Garett Yukumoto (garetty@hawaii.edu) → coaches/garetty
+[DRY RUN] Would create unclaimed coach profile: Jensen Sato (jsato6@hawaii.edu) → coaches/jsato6
+[DRY RUN] Would create unclaimed coach profile: Blayne Sato (bsato4@hawaii.edu) → coaches/bsato4
+[DRY RUN] Would create unclaimed coach profile: Kaniela Aiona (kkaiona@hawaii.edu) → coaches/kkaiona
+[DRY RUN] Would create unclaimed coach profile: Anthony Haskett (haskett@hawaii.edu) → coaches/haskett
+[DRY RUN] Would create unclaimed coach profile: David Kaneshiro (davidlhk@hawaii.edu) → coaches/davidlhk
+[DRY RUN] Would create unclaimed coach profile: Donn Kansako (kansako@hawaii.edu) → coaches/kansako
+[DRY RUN] Would create unclaimed coach profile: Alan Ryan (alanr@hawaii.edu) → coaches/alanr
+[DRY RUN] Would create unclaimed coach profile: Earl Tamiya (tamiya@hawaii.edu) → coaches/tamiya
+[DRY RUN] Would create unclaimed coach profile: Kevin Ginoza (kginoza7@hawaii.edu) → coaches/kginoza7
+[DRY RUN] Would create unclaimed coach profile: Sean Maekawa (smaekawa@hawaii.edu) → coaches/smaekawa
+[DRY RUN] Would create unclaimed coach profile: Shea Miyashiro (sheamiya@hawaii.edu) → coaches/sheamiya
+[DRY RUN] Would create unclaimed coach profile: Jim DeMello (demello@hawaii.edu) → coaches/demello
+[DRY RUN] Would create unclaimed coach profile: Diego Marroquin (dmarr@hawaii.edu) → coaches/dmarr
+[DRY RUN] Would create unclaimed coach profile: Terry Yamane (terryy@hawaii.edu) → coaches/terryy
+[DRY RUN] Would create unclaimed coach profile: Gene Okamura (geneo@hawaii.edu) → coaches/geneo
+[DRY RUN] Would create unclaimed coach profile: Aisha Sueda (aishas@hawaii.edu) → coaches/aishas
+[DRY RUN] Would create unclaimed coach profile: Fred Entilla (entilla@hawaii.edu) → coaches/entilla
+[DRY RUN] Would create unclaimed coach profile: Joey Estrella (josephe@hawaii.edu) → coaches/josephe
+[DRY RUN] Would create unclaimed coach profile: Leah Gonzales (leahjgon@hawaii.edu) → coaches/leahjgon
+[DRY RUN] Would create unclaimed coach profile: Reed Sunahara (reed28@hawaii.edu) → coaches/reed28
+[DRY RUN] Would create unclaimed coach profile: Emil Osorio (eosorio@hawaii.edu) → coaches/eosorio
+[DRY RUN] Would create unclaimed coach profile: Michelle Richardson (wsoccer@chaminade.edu) → coaches/wsoccer | Phone: (808) 739-7434
+[DRY RUN] Would create unclaimed coach profile: Chad Konishi (baseball@chaminade.edu) → coaches/baseball
+[DRY RUN] Would create unclaimed coach profile: Eric Bovaird (mbasketball@chaminade.edu) → coaches/mbasketball | Phone: (808) 739-4696
+[DRY RUN] Would create unclaimed coach profile: Travis Brewster (wbasketball@chaminade.edu) → coaches/wbasketball
+[DRY RUN] Would create unclaimed coach profile: Kahala Kabalis (wvolleyball@chaminade.edu) → coaches/wvolleyball | Phone: (808) 739-4697
+[DRY RUN] Would create unclaimed coach profile: Shadrack Nabea (crosscountry@chaminade.edu) → coaches/crosscountry | Phone: (808) 739-7417
+[DRY RUN] Would create unclaimed coach profile: Renee Yuen (mgolf@chaminade.edu) → coaches/mgolf | Phone: (808) 739-7419
+[DRY RUN] Would create unclaimed coach profile: Joshua Woodard (msoccer@chaminade.edu) → coaches/msoccer | Phone: (808) 739-7418
+[DRY RUN] Would create unclaimed coach profile: Kent Yamaguchi (softball@chaminade.edu) → coaches/softball | Phone: (808) 739-7435
+[DRY RUN] Would create unclaimed coach profile: Ty Aki (wtennis@chaminade.edu) → coaches/wtennis | Phone: (808) 739-7416
+[DRY RUN] Would create unclaimed coach profile: Jenic Tumaneng (jtumaneng@hpu.edu) → coaches/jtumaneng
+[DRY RUN] Would create unclaimed coach profile: Chris Fisher (cfisher@hpu.edu) → coaches/cfisher | Phone: 808.544.9371
+[DRY RUN] Would create unclaimed coach profile: Joshua Graham (jggraham@hpu.edu) → coaches/jggraham
+[DRY RUN] Would create unclaimed coach profile: Connor Artigue (cartigue@hpu.edu) → coaches/cartigue
+[DRY RUN] Would create unclaimed coach profile: Sarah Inafuku (sinafuku@hpu.edu) → coaches/sinafuku
+[DRY RUN] Would create unclaimed coach profile: Kevin Schwarz (keschwarz@hpu.edu) → coaches/keschwarz | Phone: (808) 369-4779
+[DRY RUN] Would create unclaimed coach profile: Jesse Nakanishi (jnakanis@hpu.edu) → coaches/jnakanis | Phone: 808.544.0221
+[DRY RUN] Would create unclaimed coach profile: Cameron Flabel (cflabel@hpu.edu) → coaches/cflabel
+[DRY RUN] Would create unclaimed coach profile: Brent Gibson (bregibson@hpu.edu) → coaches/bregibson
+[DRY RUN] Would create unclaimed coach profile: Callie Jackson (cajackson@hpu.edu) → coaches/cajackson
+[DRY RUN] Would create unclaimed coach profile: Alex Takemura (atakemura@hpu.edu) → coaches/atakemura
+[DRY RUN] Would create unclaimed coach profile: Dane Fujinaka (dfujinaka@hpu.edu) → coaches/dfujinaka | Phone: 808.356.5230
+[DRY RUN] Would create unclaimed coach profile: Brian Zablan (bzablan@hpu.edu) → coaches/bzablan
+[DRY RUN] Would create unclaimed coach profile: Ed Kageyama (ekageyama@hpu.edu) → coaches/ekageyama
+[DRY RUN] Would create unclaimed coach profile: Cyd Okino (cokino@hpu.edu) → coaches/cokino
+[DRY RUN] Would create unclaimed coach profile: Daniel Pollock (dcpollock@hpu.edu) → coaches/dcpollock
+[DRY RUN] Would create unclaimed coach profile: Chelsea Patton (cpatton@hpu.edu) → coaches/cpatton
+[DRY RUN] Would create unclaimed coach profile: Daisha Paulino (dpaulino@hpu.edu) → coaches/dpaulino
+[DRY RUN] Would create unclaimed coach profile: James Burns (jmburns@hpu.edu) → coaches/jmburns
+[DRY RUN] Would create unclaimed coach profile: Rich Hill (rhill20@hawaii.edu) → coaches/rhill20
+[DRY RUN] Would create unclaimed coach profile: Dave Nakama (dnakama4@hawaii.edu) → coaches/dnakama4
+[DRY RUN] Would create unclaimed coach profile: Keith Zuniga (zunigak@hawaii.edu) → coaches/zunigak
+[DRY RUN] Would create unclaimed coach profile: Eran Ganot (uhmbkb@hawaii.edu) → coaches/uhmbkb
+[DRY RUN] Would create unclaimed coach profile: Brad Davidson (bmdavids@hawaii.edu) → coaches/bmdavids
+[DRY RUN] Would create unclaimed coach profile: Rob Jones (rtjones7@hawaii.edu) → coaches/rtjones7
+[DRY RUN] Would create unclaimed coach profile: Gibson Johnson (gibsonw@hawaii.edu) → coaches/gibsonw
+[DRY RUN] Would create unclaimed coach profile: Clay Wilson (cswilson@hawaii.edu) → coaches/cswilson
+[DRY RUN] Would create unclaimed coach profile: Laura Beeman (wahinebb@hawaii.edu) → coaches/wahinebb
+[DRY RUN] Would create unclaimed coach profile: Alex Delanian (delanian@hawaii.edu) → coaches/delanian
+[DRY RUN] Would create unclaimed coach profile: Khalilah Mitchell (khalilah@hawaii.edu) → coaches/khalilah
+[DRY RUN] Would create unclaimed coach profile: Derrick Florence (dflo23@hawaii.edu) → coaches/dflo23
+[DRY RUN] Would create unclaimed coach profile: Jason Hill (jhill22@hawaii.edu) → coaches/jhill22
+[DRY RUN] Would create unclaimed coach profile: Danny Alvarez (dalvarez@hawaii.edu) → coaches/dalvarez
+[DRY RUN] Would create unclaimed coach profile: Victoria Prince (vprince@hawaii.edu) → coaches/vprince
+[DRY RUN] Would create unclaimed coach profile: Mike Keolaokalani (mkbaker@hawaii.edu) → coaches/mkbaker
+[DRY RUN] Would create unclaimed coach profile: Sabrina Mendoza (simendoz@hawaii.edu) → coaches/simendoz
+[DRY RUN] Would create unclaimed coach profile: Timmy Chang (uhwarriorsfootball@gmail.com) → coaches/uhwarriorsfootball
+[DRY RUN] Would create unclaimed coach profile: Scott Simpson (scottsim@hawaii.edu) → coaches/scottsim
+[DRY RUN] Would create unclaimed coach profile: Julie Brooks (juliedb@hawaii.edu) → coaches/juliedb
+[DRY RUN] Would create unclaimed coach profile: Andy Johnson (andrewj@hawaii.edu) → coaches/andrewj
+[DRY RUN] Would create unclaimed coach profile: Jesse Andrews (andrewsjesse@gmail.com) → coaches/andrewsjesse
+[DRY RUN] Would create unclaimed coach profile: Michele Nagamine (mnaga@hawaii.edu) → coaches/mnaga
+[DRY RUN] Would create unclaimed coach profile: Kaula Rowe (rowe9@hawaii.edu) → coaches/rowe9
+[DRY RUN] Would create unclaimed coach profile: Daniel Saucedo (djsauce@hawaii.edu) → coaches/djsauce
+[DRY RUN] Would create unclaimed coach profile: Panita Thanatharn (panita@hawaii.edu) → coaches/panita
+[DRY RUN] Would create unclaimed coach profile: Mariah Ramirez (mariahvr@hawaii.edu) → coaches/mariahvr
+[DRY RUN] Would create unclaimed coach profile: Alyssa Gonzalez (alyssago@hawaii.edu) → coaches/alyssago
+[DRY RUN] Would create unclaimed coach profile: Steve Allnutt (allnutt@hawaii.edu) → coaches/allnutt
+[DRY RUN] Would create unclaimed coach profile: Brandon Blaisdell (bblaisde@hawaii.edu) → coaches/bblaisde
+[DRY RUN] Would create unclaimed coach profile: Lauren Sale (laurenfs@hawaii.edu) → coaches/laurenfs
+[DRY RUN] Would create unclaimed coach profile: Tim Gallagher (tkgallag@hawaii.edu) → coaches/tkgallag
+[DRY RUN] Would create unclaimed coach profile: Hendrik Bode (hbode@hawaii.edu) → coaches/hbode
+[DRY RUN] Would create unclaimed coach profile: Hayden Snyder (snyderh@hawaii.edu) → coaches/snyderh
+[DRY RUN] Would create unclaimed coach profile: Jun Hernandez (rogelioh@hawaii.edu) → coaches/rogelioh
+[DRY RUN] Would create unclaimed coach profile: Charlie Wade (cwade@hawaii.edu) → coaches/cwade
+[DRY RUN] Would create unclaimed coach profile: Kupono Fey (kfey@hawaii.edu) → coaches/kfey
+[DRY RUN] Would create unclaimed coach profile: Robyn Ah (robynma@hawaii.edu) → coaches/robynma
+[DRY RUN] Would create unclaimed coach profile: Kaleo Baxter (gkbaxter@hawaii.edu) → coaches/gkbaxter
+[DRY RUN] Would create unclaimed coach profile: Nick Castello (ncastell@hawaii.edu) → coaches/ncastell
+[DRY RUN] Would create unclaimed coach profile: James Robinson (jamesrro@hawaii.edu) → coaches/jamesrro
+[DRY RUN] Would create unclaimed coach profile: Candice Vorbeck (cvorbeck@hawaii.edu) → coaches/cvorbeck
+[DRY RUN] Would create unclaimed coach profile: Brooke Maxson (bmaxson@hawaii.edu) → coaches/bmaxson

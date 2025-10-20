@@ -1,0 +1,131 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:06
+============================================================
+
+Total coaches found: 20
+
+PARSED ENTRIES:
+----------------------------------------
+1. Amari Lawson
+   Email: Amari.Lawson@benedict.edu
+   Username: Amari.Lawson
+   Original line: Amari Lawson Head Softball Coach and Student-Athlete Amari.Lawson@benedict.edu @CoachAlwsn
+
+2. Selwyn Young
+   Email: Selwyn.Young@benedict.edu
+   Username: Selwyn.Young
+   Original line: Selwyn Young Head Baseball Coach Selwyn.Young@benedict.edu 803-705-
+
+3. Dannton Jackson
+   Email: dannton.jackson@benedict.edu
+   Username: dannton.jackson
+   Original line: Dannton Jackson Head Men's Basketball Coach dannton.jackson@benedict.edu @DanntonJ
+
+4. James Rice
+   Email: James.Rice@benedict.edu
+   Username: James.Rice
+   Original line: James Rice Head Womens Basketball Coach James.Rice@benedict.edu 803-705-
+
+5. Bridget Williams
+   Email: bridget.williams@benedict.edu
+   Username: bridget.williams
+   Original line: Bridget Williams Assistant Women's Basketball Coach bridget.williams@benedict.edu
+
+6. Teri Mills
+   Email: Teri.Mills@benedict.edu
+   Username: Teri.Mills
+   Original line: Teri Mills Head Cheerleading Coach Teri.Mills@benedict.edu 803-705-
+
+7. Danny Brooks
+   Email: daniel.brooks@benedict.edu
+   Username: daniel.brooks
+   Original line: Danny Brooks Head Track & Field, Cross Country Coach daniel.brooks@benedict.edu
+
+8. Ediberto Crisanto
+   Email: ediberto.crisanto@benedict.edu
+   Username: ediberto.crisanto
+   Original line: Ediberto Crisanto Assistant Track and Field Coach ediberto.crisanto@benedict.edu
+
+9. Ron Dickerson
+   Email: bc.vision.fb@gmail.com
+   Username: bc.vision.fb
+   Original line: Ron Dickerson Jr. Head Football Coach bc.vision.fb@gmail.com @coachrdickerson
+
+10. Marcus Spearman
+   Email: marcus.spearman@benedict.edu
+   Username: marcus.spearman
+   Original line: Marcus Spearman Associate Head Coach/Defensive Line marcus.spearman@benedict.edu @AlwaysM12
+
+11. Shea Campbell
+   Email: shea.campbell@benedict.edu
+   Username: shea.campbell
+   Original line: Shea Campbell Defensive Coordinator / Linebackers Coach shea.campbell@benedict.edu @CoachCampBC
+
+12. Stan Clayton
+   Email: stanley.clayton@benedict.edu
+   Username: stanley.clayton
+   Original line: Stan Clayton Offensive Coordinator / Offensive Line stanley.clayton@benedict.edu @CoachClayton75
+
+13. Da'Von Smith
+   Email: davon.smith@benedict.edu
+   Username: davon.smith
+   Original line: Da'Von Smith Running Backs Coach davon.smith@benedict.edu @DaVonSmith11
+
+14. David Nooks
+   Email: David.Nooks59@my.benedict.edu
+   Username: David.Nooks59
+   Original line: David Nooks Defensive Backs Coach David.Nooks59@my.benedict.edu
+
+15. Amari Lawson
+   Email: Amari.Lawson@benedict.edu
+   Username: Amari.Lawson
+   Original line: Amari Lawson Head Softball Coach and Student-Athlete Amari.Lawson@benedict.edu @CoachAlwsn
+
+16. Gary Taylor
+   Email: Gary.Taylor@benedict.edu
+   Username: Gary.Taylor
+   Original line: Gary Taylor Head Tennis Coach Men and Women Gary.Taylor@benedict.edu 803-705-
+
+17. Danny Brooks
+   Email: daniel.brooks@benedict.edu
+   Username: daniel.brooks
+   Original line: Danny Brooks Head Track & Field, Cross Country Coach daniel.brooks@benedict.edu
+
+18. Ediberto Crisanto
+   Email: ediberto.crisanto@benedict.edu
+   Username: ediberto.crisanto
+   Original line: Ediberto Crisanto Assistant Track and Field Coach ediberto.crisanto@benedict.edu
+
+19. Gwendolyn Rouse
+   Email: Gwendolyn.Rouse@benedict.edu
+   Username: Gwendolyn.Rouse
+   Original line: Gwendolyn Rouse Head Volleyball Coach Gwendolyn.Rouse@benedict.edu 803-705-
+
+20. Austin Kistner
+   Email: austin.kistner@benedict.edu
+   Username: austin.kistner
+   Original line: Austin Kistner Head Strength & Conditioning Coach austin.kistner@benedict.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Amari Lawson Head Softball Coach and Student-Athlete Amari.Lawson@benedict.edu @CoachAlwsn
+• Selwyn Young Head Baseball Coach Selwyn.Young@benedict.edu 803-705-
+• Dannton Jackson Head Men's Basketball Coach dannton.jackson@benedict.edu @DanntonJ
+• James Rice Head Womens Basketball Coach James.Rice@benedict.edu 803-705-
+• Bridget Williams Assistant Women's Basketball Coach bridget.williams@benedict.edu
+• Teri Mills Head Cheerleading Coach Teri.Mills@benedict.edu 803-705-
+• Danny Brooks Head Track & Field, Cross Country Coach daniel.brooks@benedict.edu
+• Ediberto Crisanto Assistant Track and Field Coach ediberto.crisanto@benedict.edu
+• Ron Dickerson Jr. Head Football Coach bc.vision.fb@gmail.com @coachrdickerson
+• Marcus Spearman Associate Head Coach/Defensive Line marcus.spearman@benedict.edu @AlwaysM12
+• Shea Campbell Defensive Coordinator / Linebackers Coach shea.campbell@benedict.edu @CoachCampBC
+• Stan Clayton Offensive Coordinator / Offensive Line stanley.clayton@benedict.edu @CoachClayton75
+• Da'Von Smith Running Backs Coach davon.smith@benedict.edu @DaVonSmith11
+• David Nooks Defensive Backs Coach David.Nooks59@my.benedict.edu
+• Amari Lawson Head Softball Coach and Student-Athlete Amari.Lawson@benedict.edu @CoachAlwsn
+• Gary Taylor Head Tennis Coach Men and Women Gary.Taylor@benedict.edu 803-705-
+• Danny Brooks Head Track & Field, Cross Country Coach daniel.brooks@benedict.edu
+• Ediberto Crisanto Assistant Track and Field Coach ediberto.crisanto@benedict.edu
+• Gwendolyn Rouse Head Volleyball Coach Gwendolyn.Rouse@benedict.edu 803-705-
+• Austin Kistner Head Strength & Conditioning Coach austin.kistner@benedict.edu

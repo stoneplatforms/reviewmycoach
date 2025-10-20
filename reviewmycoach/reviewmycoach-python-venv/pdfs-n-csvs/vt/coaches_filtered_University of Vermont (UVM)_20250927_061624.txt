@@ -1,0 +1,278 @@
+COACH ENTRIES FOUND - 2025-09-27 06:16:24
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Peri Brooks-Randall
+   Email: peri.brooks-randall@uvm.edu
+   Username: peri.brooks-randall
+   Original line: Peri Brooks-Randall Assistant Athletic Performance Coach peri.brooks-randall@uvm.edu
+
+2. Mike Ederer
+   Email: michael.ederer@uvm.edu
+   Username: michael.ederer
+   Original line: Mike Ederer Assistant Athletic Performance Coach michael.ederer@uvm.edu
+
+3. Elias Fleischman
+   Email: elias.fleischman@uvm.edu
+   Username: elias.fleischman
+   Original line: Elias Fleischman Assistant Athletic Performance Coach elias.fleischman@uvm.edu
+
+4. Ryan Schneider
+   Email: ryan.schneider@uvm.edu
+   Username: ryan.schneider
+   Phone: (802) 656-3028
+   Original line: Ryan Schneider Associate Head Coach ryan.schneider@uvm.edu 802-656-3028
+
+5. Derryk O'Grady
+   Email: derryk.ogrady@uvm.edu
+   Username: derryk.ogrady
+   Original line: Derryk O'Grady Assistant Coach derryk.ogrady@uvm.edu
+
+6. Braeden Estes
+   Email: Braeden.Estes@uvm.edu
+   Username: Braeden.Estes
+   Original line: Braeden Estes Assistant Coach Braeden.Estes@uvm.edu
+
+7. Will Lanier
+   Email: will.lanier@uvm.edu
+   Username: will.lanier
+   Original line: Will Lanier Associate Head Coach will.lanier@uvm.edu
+
+8. Sacha Santimano
+   Email: Sacha.Santimano@uvm.edu
+   Username: Sacha.Santimano
+   Original line: Sacha Santimano Associate Head Coach & Recruiting Coordinator Sacha.Santimano@uvm.edu
+
+9. Hayley Moore
+   Email: Hayley.Moore@uvm.edu
+   Username: Hayley.Moore
+   Original line: Hayley Moore Assistant Coach/Domestic Recruiting Coordinator Hayley.Moore@uvm.edu
+
+10. Alec Kerdell
+   Email: alec.kerdell@uvm.edu
+   Username: alec.kerdell
+   Original line: Alec Kerdell Assistant Coach alec.kerdell@uvm.edu
+
+11. Matt Belfield
+   Email: XCTF@uvm.edu
+   Username: XCTF
+   Phone: (802) 656-4470
+   Original line: Matt Belfield Head Coach (WXC, Mid. Dist., Dist., Throws) XCTF@uvm.edu 802-656-4470
+
+12. Joe Gingras
+   Email: joseph.gingras@uvm.edu
+   Username: joseph.gingras
+   Phone: (802) 656-7687
+   Original line: Joe Gingras Associate Head Coach (MXC, Mid. Dist., Dist.) joseph.gingras@uvm.edu 802-656-7687
+
+13. Kate Pfeifer
+   Email: kpfeifer@uvm.edu
+   Username: kpfeifer
+   Original line: Kate Pfeifer Head Coach kpfeifer@uvm.edu
+
+14. Marlee McClendon
+   Email: Marlee.Mcclendon@uvm.edu
+   Username: Marlee.Mcclendon
+   Original line: Marlee McClendon Assistant Coach Marlee.Mcclendon@uvm.edu
+
+15. Haley Buffenbarger
+   Email: Haley.Buffenbarger@uvm.edu
+   Username: Haley.Buffenbarger
+   Original line: Haley Buffenbarger Assistant Coach Haley.Buffenbarger@uvm.edu
+
+16. Brendan Bradley
+   Email: Brendan.Bradley@uvm.edu
+   Username: Brendan.Bradley
+   Original line: Brendan Bradley Assistant Coach Brendan.Bradley@uvm.edu
+
+17. Nate Skidmore
+   Email: Nathaniel.Skidmore@uvm.edu
+   Username: Nathaniel.Skidmore
+   Original line: Nate Skidmore Assistant Coach Nathaniel.Skidmore@uvm.edu
+
+18. Jim Plumer
+   Email: James.Plumer@uvm.edu
+   Username: James.Plumer
+   Original line: Jim Plumer Head Coach James.Plumer@uvm.edu
+
+19. Victoria Blake
+   Email: Victoria.Blake@uvm.edu
+   Username: Victoria.Blake
+   Phone: (802) 656-2044
+   Original line: Victoria Blake Assistant Coach Victoria.Blake@uvm.edu 802-656-2044
+
+20. Danielle Slominski
+   Email: Danielle.Slominski@uvm.edu
+   Username: Danielle.Slominski
+   Phone: (802) 656-2044
+   Original line: Danielle Slominski Assistant Coach/Director of Operations Danielle.Slominski@uvm.edu 802-656-2044
+
+21. Erik Strand
+   Email: erik.strand@uvm.edu
+   Username: erik.strand
+   Phone: (802) 656-2044
+   Original line: Erik Strand Assistant Coach erik.strand@uvm.edu 802-656-2044
+
+22. Danny Murphy
+   Email: Daniel.Murphy@uvm.edu
+   Username: Daniel.Murphy
+   Original line: Danny Murphy Assistant Coach Daniel.Murphy@uvm.edu
+
+23. Devin Samuelson
+   Email: devin.samuelson@uvm.edu
+   Username: devin.samuelson
+   Original line: Devin Samuelson Assistant Coach devin.samuelson@uvm.edu
+
+24. Sarah Dalton
+   Email: wlax@uvm.edu
+   Username: wlax
+   Phone: (802) 656-7709
+   Original line: Sarah Dalton Graddock Head Coach wlax@uvm.edu 802-656-7709
+
+25. Grace Giancola
+   Email: wlax@uvm.edu
+   Username: wlax
+   Original line: Grace Giancola Assistant Coach wlax@uvm.edu
+
+26. Bill Reichelt
+   Email: william.reichelt@uvm.edu
+   Username: william.reichelt
+   Phone: (802) 656-7688
+   Original line: Bill Reichelt Director of Skiing & Head Alpine Coach william.reichelt@uvm.edu 802-656-7688
+
+27. Patrick Weaver
+   Email: patrick.weaver@uvm.edu
+   Username: patrick.weaver
+   Phone: (802) 656-7697
+   Original line: Patrick Weaver Head Nordic Coach patrick.weaver@uvm.edu 802-656-7697
+
+28. Jacob Volz
+   Email: jfvolz@uvm.edu
+   Username: jfvolz
+   Original line: Jacob Volz Assistant Nordic Coach jfvolz@uvm.edu
+
+29. Charlie Powell
+   Email: Charles.Powell@uvm.edu
+   Username: Charles.Powell
+   Original line: Charlie Powell Assistant Alpine Coach Charles.Powell@uvm.edu
+
+30. Rob Dow
+   Email: mens.soccer@uvm.edu
+   Username: mens.soccer
+   Phone: (802) 656-7868
+   Original line: Rob Dow Head Coach mens.soccer@uvm.edu 802-656-7868
+
+31. Brad Cole
+   Email: Bcole2@uvm.edu
+   Username: Bcole2
+   Original line: Brad Cole Associate Head Coach Bcole2@uvm.edu
+
+32. Rory Twomey
+   Email: mens.soccer@uvm.edu
+   Username: mens.soccer
+   Original line: Rory Twomey Assistant Coach mens.soccer@uvm.edu
+
+33. Owen Jack
+   Email: Owen.Jack@uvm.edu
+   Username: Owen.Jack
+   Original line: Owen Jack Goalkeeper Coach Owen.Jack@uvm.edu
+
+34. Kristi Huizenga
+   Email: Kristi.Lefebvre@uvm.edu
+   Username: Kristi.Lefebvre
+   Phone: (802) 656-7873
+   Original line: Kristi Huizenga Head Coach Kristi.Lefebvre@uvm.edu 802-656-7873
+
+35. Michael Skelton
+   Email: Michael.Skelton@uvm.edu
+   Username: Michael.Skelton
+   Original line: Michael Skelton Associate Head Coach Michael.Skelton@uvm.edu
+
+36. Mack Kingman
+   Email: MacKenzie.Kingman@uvm.edu
+   Username: MacKenzie.Kingman
+   Original line: Mack Kingman Assistant Coach MacKenzie.Kingman@uvm.edu
+
+37. Gerry Cournoyer
+   Email: gerry.cournoyer@uvm.edu
+   Username: gerry.cournoyer
+   Phone: (802) 656-7702
+   Original line: Gerry Cournoyer Head Coach gerry.cournoyer@uvm.edu 802-656-7702
+
+38. Brian Keats
+   Email: brian.keats@uvm.edu
+   Username: brian.keats
+   Phone: (802) 363-2084
+   Original line: Brian Keats Associate Head Coach brian.keats@uvm.edu 802-363-2084
+
+39. Michelle Malcolm
+   Email: Michelle.Malcolm@uvm.edu
+   Username: Michelle.Malcolm
+   Original line: Michelle Malcolm Head Diving Coach Michelle.Malcolm@uvm.edu
+
+40. Mike Delaney
+   Email: soggyguy@gmail.com
+   Username: soggyguy
+   Original line: Mike Delaney Assistant Coach soggyguy@gmail.com
+
+41. Matt Belfield
+   Email: XCTF@uvm.edu
+   Username: XCTF
+   Phone: (802) 656-4470
+   Original line: Matt Belfield Head Coach (WXC, Mid. Dist., Dist., Throws) XCTF@uvm.edu 802-656-4470
+
+42. Joe Gingras
+   Email: joseph.gingras@uvm.edu
+   Username: joseph.gingras
+   Phone: (802) 656-7687
+   Original line: Joe Gingras Associate Head Coach (MXC, Mid. Dist., Dist.) joseph.gingras@uvm.edu 802-656-7687
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Peri Brooks-Randall Assistant Athletic Performance Coach peri.brooks-randall@uvm.edu
+• Mike Ederer Assistant Athletic Performance Coach michael.ederer@uvm.edu
+• Elias Fleischman Assistant Athletic Performance Coach elias.fleischman@uvm.edu
+• Ryan Schneider Associate Head Coach ryan.schneider@uvm.edu 802-656-3028
+• Derryk O'Grady Assistant Coach derryk.ogrady@uvm.edu
+• Braeden Estes Assistant Coach Braeden.Estes@uvm.edu
+• Will Lanier Associate Head Coach will.lanier@uvm.edu
+• Sacha Santimano Associate Head Coach & Recruiting Coordinator Sacha.Santimano@uvm.edu
+• Hayley Moore Assistant Coach/Domestic Recruiting Coordinator Hayley.Moore@uvm.edu
+• Alec Kerdell Assistant Coach alec.kerdell@uvm.edu
+• Matt Belfield Head Coach (WXC, Mid. Dist., Dist., Throws) XCTF@uvm.edu 802-656-4470
+• Joe Gingras Associate Head Coach (MXC, Mid. Dist., Dist.) joseph.gingras@uvm.edu 802-656-7687
+• Kate Pfeifer Head Coach kpfeifer@uvm.edu
+• Marlee McClendon Assistant Coach Marlee.Mcclendon@uvm.edu
+• Haley Buffenbarger Assistant Coach Haley.Buffenbarger@uvm.edu
+• Brendan Bradley Assistant Coach Brendan.Bradley@uvm.edu
+• Nate Skidmore Assistant Coach Nathaniel.Skidmore@uvm.edu
+• Jim Plumer Head Coach James.Plumer@uvm.edu
+• Victoria Blake Assistant Coach Victoria.Blake@uvm.edu 802-656-2044
+• Danielle Slominski Assistant Coach/Director of Operations Danielle.Slominski@uvm.edu 802-656-2044
+• Erik Strand Assistant Coach erik.strand@uvm.edu 802-656-2044
+• Danny Murphy Assistant Coach Daniel.Murphy@uvm.edu
+• Devin Samuelson Assistant Coach devin.samuelson@uvm.edu
+• Sarah Dalton Graddock Head Coach wlax@uvm.edu 802-656-7709
+• Grace Giancola Assistant Coach wlax@uvm.edu
+• Bill Reichelt Director of Skiing & Head Alpine Coach william.reichelt@uvm.edu 802-656-7688
+• Patrick Weaver Head Nordic Coach patrick.weaver@uvm.edu 802-656-7697
+• Jacob Volz Assistant Nordic Coach jfvolz@uvm.edu
+• Charlie Powell Assistant Alpine Coach Charles.Powell@uvm.edu
+• Rob Dow Head Coach mens.soccer@uvm.edu 802-656-7868
+• Brad Cole Associate Head Coach Bcole2@uvm.edu
+• Rory Twomey Assistant Coach mens.soccer@uvm.edu
+• Owen Jack Goalkeeper Coach Owen.Jack@uvm.edu
+• Kristi Huizenga Head Coach Kristi.Lefebvre@uvm.edu 802-656-7873
+• Michael Skelton Associate Head Coach Michael.Skelton@uvm.edu
+• Mack Kingman Assistant Coach MacKenzie.Kingman@uvm.edu
+• Gerry Cournoyer Head Coach gerry.cournoyer@uvm.edu 802-656-7702
+• Brian Keats Associate Head Coach brian.keats@uvm.edu 802-363-2084
+• Michelle Malcolm Head Diving Coach Michelle.Malcolm@uvm.edu
+• Mike Delaney Assistant Coach soggyguy@gmail.com
+• Matt Belfield Head Coach (WXC, Mid. Dist., Dist., Throws) XCTF@uvm.edu 802-656-4470
+• Joe Gingras Associate Head Coach (MXC, Mid. Dist., Dist.) joseph.gingras@uvm.edu 802-656-7687

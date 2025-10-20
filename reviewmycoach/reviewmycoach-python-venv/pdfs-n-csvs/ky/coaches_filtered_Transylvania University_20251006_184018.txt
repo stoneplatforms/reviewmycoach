@@ -1,0 +1,257 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:18
+============================================================
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Amy Barmore
+   Email: abarmore@transy.edu
+   Username: abarmore
+   Original line: Amy Barmore Head Volleyball Coach and Senior Women's Administrator 859-281- abarmore@transy.edu
+
+2. Daniel Martin
+   Email: dmartin@transy.edu
+   Username: dmartin
+   Original line: Daniel Martin Head Strength and Conditioning Coach dmartin@transy.edu
+
+3. Zack Getsee
+   Email: zgetsee@transy.edu
+   Username: zgetsee
+   Original line: Zack Getsee Head Baseball Coach 859-233- zgetsee@transy.edu
+
+4. Colton Hann
+   Email: chann@transy.edu
+   Username: chann
+   Original line: Colton Hann Assistant Baseball Coach & Hitting Coach 614-477- chann@transy.edu
+
+5. Dave Doolin
+   Email: ddoolin@transy.edu
+   Username: ddoolin
+   Original line: Dave Doolin First Base Coach 859-233- ddoolin@transy.edu
+
+6. Brian Lane
+   Email: blane@transy.edu
+   Username: blane
+   Original line: Brian Lane Head Men's Basketball Coach 859-233- blane@transy.edu
+
+7. John Hamilton
+   Email: jhamilton@transy.edu
+   Username: jhamilton
+   Original line: John Hamilton Assistant Men's Basketball Coach jhamilton@transy.edu
+
+8. Mike Stone
+   Email: mstone@transy.edu
+   Username: mstone
+   Original line: Mike Stone Assistant Men's Basketball Coach 859-233- mstone@transy.edu
+
+9. Hannah Kline
+   Email: hkline@transy.edu
+   Username: hkline
+   Original line: Hannah Kline Head Women's Basketball Coach 859-233- hkline@transy.edu
+
+10. Loren Bewley
+   Email: lbewley@transy.edu
+   Username: lbewley
+   Original line: Loren Bewley Assistant Women's Basketball Coach lbewley@transy.edu
+
+11. Delaney Williams
+   Email: dwilliams@transy.edu
+   Username: dwilliams
+   Original line: Delaney Williams Assistant Women's Basketball Coach 847-810- dwilliams@transy.edu
+
+12. Clarissa Johnson
+   Email: cjohnson@transy.edu
+   Username: cjohnson
+   Original line: Clarissa Johnson Head Cheerleading Coach 859-233- cjohnson@transy.edu
+
+13. Tracie Smith
+   Email: Tracie_Smith83@hotmail.com
+   Username: Tracie_Smith83
+   Original line: Tracie Smith Assistant Cheerleading Coach Tracie_Smith83@hotmail.com
+
+14. Matt Andrews
+   Email: mandrews@transy.edu
+   Username: mandrews
+   Original line: Matt Andrews Head Cross Country and Track and Field Coach 330-840- mandrews@transy.edu
+
+15. Bryce Favors-Charleston
+   Email: favorscharleston@transy.edu
+   Username: favorscharleston
+   Original line: Bryce Favors-Charleston Associate Head Cross Country and Track and Field Coach 502-645- favorscharleston@transy.edu
+
+16. Matt Andrews
+   Email: mandrews@transy.edu
+   Username: mandrews
+   Original line: Matt Andrews Head Cross Country and Track and Field Coach 330-840- mandrews@transy.edu
+
+17. Bryce Favors-Charleston
+   Email: favorscharleston@transy.edu
+   Username: favorscharleston
+   Original line: Bryce Favors-Charleston Associate Head Cross Country and Track and Field Coach 502-645- favorscharleston@transy.edu
+
+18. Tora Carter
+   Email: tcarter@transy.edu
+   Username: tcarter
+   Original line: Tora Carter Head Dance Coach 859-233- tcarter@transy.edu
+
+19. Kelly Shores
+   Email: kshores@transy.edu
+   Username: kshores
+   Original line: Kelly Shores Head Eventing Coach 978-518- kshores@transy.edu
+
+20. Krystal Cammuse
+   Email: kcammuse@transy.edu
+   Username: kcammuse
+   Original line: Krystal Cammuse Interim Head Field Hockey Coach kcammuse@transy.edu
+
+21. Brian Lane
+   Email: blane@transy.edu
+   Username: blane
+   Original line: Brian Lane Head Men's Golf Coach 859-233- blane@transy.edu
+
+22. Tom Campbell
+   Email: tlcampbell@transy.edu
+   Username: tlcampbell
+   Original line: Tom Campbell Head Women's Golf Coach 270-316- tlcampbell@transy.edu
+
+23. Logan Otto
+   Email: lotto@transy.edu
+   Username: lotto
+   Original line: Logan Otto Head Men's Lacrosse Coach 859-281- lotto@transy.edu
+
+24. DT Trowell
+   Email: dtrowell@transy.edu
+   Username: dtrowell
+   Original line: DT Trowell Assistant Men's Lacrosse Coach 502-593- dtrowell@transy.edu
+
+25. Brianna McCulley
+   Email: bmcculley@transy.edu
+   Username: bmcculley
+   Original line: Brianna McCulley Head Women's Lacrosse Coach 513-446- bmcculley@transy.edu
+
+26. Emilee Heffner
+   Email: eheffner@transy.edu
+   Username: eheffner
+   Original line: Emilee Heffner Assistant Women's Lacrosse Coach 678-699- eheffner@transy.edu
+
+27. Ben Federici
+   Email: bfederici@transy.edu
+   Username: bfederici
+   Original line: Ben Federici Head Men's Soccer Coach 859-281- bfederici@transy.edu
+
+28. Diego d'Angelo
+   Email: ddangelo@transy.edu
+   Username: ddangelo
+   Original line: Diego d'Angelo Assistant Men's Soccer Coach ddangelo@transy.edu
+
+29. Trip Rogers
+   Email: trogers@transy.edu
+   Username: trogers
+   Original line: Trip Rogers Head Women's Soccer Coach 859-948- trogers@transy.edu
+
+30. Bella Nelson
+   Email: bnelson@transy.edu
+   Username: bnelson
+   Original line: Bella Nelson Assistant Women’s Soccer Coach bnelson@transy.edu
+
+31. Shawn Hendrickson
+   Email: shendrickson@transy.edu
+   Username: shendrickson
+   Original line: Shawn Hendrickson Head Softball Coach 859-281- shendrickson@transy.edu
+
+32. Dave Doolin
+   Email: ddoolin@transy.edu
+   Username: ddoolin
+   Original line: Dave Doolin Head Swim and Dive Coach 859-233- ddoolin@transy.edu
+
+33. Dave Doolin
+   Email: ddoolin@transy.edu
+   Username: ddoolin
+   Original line: Dave Doolin Head Swim and Dive Coach 859-233- ddoolin@transy.edu
+
+34. Bill Carey
+   Email: bcarey@transy.edu
+   Username: bcarey
+   Original line: Bill Carey Head Men’s and Women's Tennis Coach 859-233- bcarey@transy.edu
+
+35. Bill Carey
+   Email: bcarey@transy.edu
+   Username: bcarey
+   Original line: Bill Carey Head Men’s and Women's Tennis Coach 859-233- bcarey@transy.edu
+
+36. Matt Andrews
+   Email: mandrews@transy.edu
+   Username: mandrews
+   Original line: Matt Andrews Head Cross Country and Track and Field Coach 330-840- mandrews@transy.edu
+
+37. Bryce Favors-Charleston
+   Email: bfavorscharleston@transy.edu
+   Username: bfavorscharleston
+   Original line: Bryce Favors-Charleston Associate Head Cross Country and Track and Field Coach 502-645- bfavorscharleston@transy.edu
+
+38. Matt Andrews
+   Email: mandrews@transy.edu
+   Username: mandrews
+   Original line: Matt Andrews Head Cross Country and Track and Field Coach 330-840- mandrews@transy.edu
+
+39. Bryce Favors-Charleston
+   Email: bfavorscharleston@transy.edu
+   Username: bfavorscharleston
+   Original line: Bryce Favors-Charleston Associate Head Cross Country and Track and Field Coach 502-645- bfavorscharleston@transy.edu
+
+40. Amy Barmore
+   Email: abarmore@transy.edu
+   Username: abarmore
+   Original line: Amy Barmore Head Volleyball Coach and Senior Women's Administrator 859-281- abarmore@transy.edu
+
+41. Darby Bourdon
+   Email: dbourdon@transy.edu
+   Username: dbourdon
+   Original line: Darby Bourdon Assistant Volleyball Coach 859-281- dbourdon@transy.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Amy Barmore Head Volleyball Coach and Senior Women's Administrator 859-281- abarmore@transy.edu
+• Daniel Martin Head Strength and Conditioning Coach dmartin@transy.edu
+• Zack Getsee Head Baseball Coach 859-233- zgetsee@transy.edu
+• Colton Hann Assistant Baseball Coach & Hitting Coach 614-477- chann@transy.edu
+• Dave Doolin First Base Coach 859-233- ddoolin@transy.edu
+• Brian Lane Head Men's Basketball Coach 859-233- blane@transy.edu
+• John Hamilton Assistant Men's Basketball Coach jhamilton@transy.edu
+• Mike Stone Assistant Men's Basketball Coach 859-233- mstone@transy.edu
+• Hannah Kline Head Women's Basketball Coach 859-233- hkline@transy.edu
+• Loren Bewley Assistant Women's Basketball Coach lbewley@transy.edu
+• Delaney Williams Assistant Women's Basketball Coach 847-810- dwilliams@transy.edu
+• Clarissa Johnson Head Cheerleading Coach 859-233- cjohnson@transy.edu
+• Tracie Smith Assistant Cheerleading Coach Tracie_Smith83@hotmail.com
+• Matt Andrews Head Cross Country and Track and Field Coach 330-840- mandrews@transy.edu
+• Bryce Favors-Charleston Associate Head Cross Country and Track and Field Coach 502-645- favorscharleston@transy.edu
+• Matt Andrews Head Cross Country and Track and Field Coach 330-840- mandrews@transy.edu
+• Bryce Favors-Charleston Associate Head Cross Country and Track and Field Coach 502-645- favorscharleston@transy.edu
+• Tora Carter Head Dance Coach 859-233- tcarter@transy.edu
+• Kelly Shores Head Eventing Coach 978-518- kshores@transy.edu
+• Krystal Cammuse Interim Head Field Hockey Coach kcammuse@transy.edu
+• Brian Lane Head Men's Golf Coach 859-233- blane@transy.edu
+• Tom Campbell Head Women's Golf Coach 270-316- tlcampbell@transy.edu
+• Logan Otto Head Men's Lacrosse Coach 859-281- lotto@transy.edu
+• DT Trowell Assistant Men's Lacrosse Coach 502-593- dtrowell@transy.edu
+• Brianna McCulley Head Women's Lacrosse Coach 513-446- bmcculley@transy.edu
+• Emilee Heffner Assistant Women's Lacrosse Coach 678-699- eheffner@transy.edu
+• Ben Federici Head Men's Soccer Coach 859-281- bfederici@transy.edu
+• Diego d'Angelo Assistant Men's Soccer Coach ddangelo@transy.edu
+• Trip Rogers Head Women's Soccer Coach 859-948- trogers@transy.edu
+• Bella Nelson Assistant Women’s Soccer Coach bnelson@transy.edu
+• Shawn Hendrickson Head Softball Coach 859-281- shendrickson@transy.edu
+• Dave Doolin Head Swim and Dive Coach 859-233- ddoolin@transy.edu
+• Dave Doolin Head Swim and Dive Coach 859-233- ddoolin@transy.edu
+• Bill Carey Head Men’s and Women's Tennis Coach 859-233- bcarey@transy.edu
+• Bill Carey Head Men’s and Women's Tennis Coach 859-233- bcarey@transy.edu
+• Matt Andrews Head Cross Country and Track and Field Coach 330-840- mandrews@transy.edu
+• Bryce Favors-Charleston Associate Head Cross Country and Track and Field Coach 502-645- bfavorscharleston@transy.edu
+• Matt Andrews Head Cross Country and Track and Field Coach 330-840- mandrews@transy.edu
+• Bryce Favors-Charleston Associate Head Cross Country and Track and Field Coach 502-645- bfavorscharleston@transy.edu
+• Amy Barmore Head Volleyball Coach and Senior Women's Administrator 859-281- abarmore@transy.edu
+• Darby Bourdon Assistant Volleyball Coach 859-281- dbourdon@transy.edu

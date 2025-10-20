@@ -1,0 +1,219 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:29
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ramiro Dominguez
+   Email: ramiro.dominguez@principia.edu
+   Username: ramiro.dominguez
+   Phone: 636.579.1166
+   Original line: Ramiro Dominguez Interim Athletic Director / Head Coach, Women's Basketball ramiro.dominguez@principia.edu 636.579.1166
+
+2. Shannon Carney
+   Email: shannon.carney@principia.edu
+   Username: shannon.carney
+   Phone: 818.388.3353
+   Original line: Shannon Carney Head Coach, Women's Tennis / Senior Women's Administrator shannon.carney@principia.edu 818.388.3353
+
+3. Grace Burrows
+   Email: grace.burrows@principia.edu
+   Username: grace.burrows
+   Phone: 636.393.9974
+   Original line: Grace Burrows Head Coach, Softball / SAAC Coordinator / Assistant Compliance grace.burrows@principia.edu 636.393.9974
+
+4. Emily Bay
+   Email: emily.bay@principia.edu
+   Username: emily.bay
+   Phone: 636.388.1951
+   Original line: Emily Bay Head Coach, Strength & Conditioning / Interim Associate Head Coach, emily.bay@principia.edu 636.388.1951
+
+5. Jim Eissler
+   Email: jim.eissler@principia.edu
+   Username: jim.eissler
+   Original line: Jim Eissler Assistant Coach, Baseball jim.eissler@principia.edu
+
+6. Aleq McMullin
+   Email: aleq.mcmullin@principia.edu
+   Username: aleq.mcmullin
+   Original line: Aleq McMullin Assistant Coach, Baseball aleq.mcmullin@principia.edu
+
+7. Neyko Dominguez
+   Email: neyko.dominguez@principia.edu
+   Username: neyko.dominguez
+   Phone: 636.579.3941
+   Original line: Neyko Dominguez Head Coach, Men's Basketball / Streaming Coordinator neyko.dominguez@principia.edu 636.579.3941
+
+8. Shemarri Miles
+   Email: shemarri.miles@principia.edu
+   Username: shemarri.miles
+   Original line: Shemarri Miles Assistant Coach, Men's Basketball shemarri.miles@principia.edu
+
+9. Ramiro Dominguez
+   Email: ramiro.dominguez@principia.edu
+   Username: ramiro.dominguez
+   Phone: 636.579.1166
+   Original line: Ramiro Dominguez Interim Athletic Director / Head Coach, Women's Basketball ramiro.dominguez@principia.edu 636.579.1166
+
+10. Greg Brown
+   Email: greg.brown@principia.edu
+   Username: greg.brown
+   Original line: Greg Brown Assistant Coach, Women's Basketball and Softball greg.brown@principia.edu
+
+11. Alana Hinson
+   Email: alana.hinson@principia.edu
+   Username: alana.hinson
+   Phone: 636.388.1538
+   Original line: Alana Hinson Interim Head Coach, Volleyball / Assistant Coach, Women's Basketball alana.hinson@principia.edu 636.388.1538
+
+12. Justin Halley
+   Email: justin.halley@principia.edu
+   Username: justin.halley
+   Phone: 314.337.5392
+   Original line: Justin Halley Head Coach, Cross Country / Interim Head Coach, Track & Field justin.halley@principia.edu 314.337.5392
+
+13. Emily Bay
+   Email: emily.bay@principia.edu
+   Username: emily.bay
+   Phone: 636.388.1951
+   Original line: Emily Bay Head Coach, Strength & Conditioning / Interim Associate Head Coach, emily.bay@principia.edu 636.388.1951
+
+14. Justin Halley
+   Email: justin.halley@principia.edu
+   Username: justin.halley
+   Phone: 314.337.5392
+   Original line: Justin Halley Head Coach, Cross Country / Interim Head Coach, Track & Field justin.halley@principia.edu 314.337.5392
+
+15. Emily Bay
+   Email: emily.bay@principia.edu
+   Username: emily.bay
+   Phone: 636.388.1951
+   Original line: Emily Bay Head Coach, Strength & Conditioning / Interim Associate Head Coach, emily.bay@principia.edu 636.388.1951
+
+16. Damir Conci
+   Email: damir.conci@principia.edu
+   Username: damir.conci
+   Original line: Damir Conci Interim Head Coach, Rugby damir.conci@principia.edu
+
+17. Bradley Mayekiso
+   Email: bradley.mayekiso@principia.edu
+   Username: bradley.mayekiso
+   Original line: Bradley Mayekiso Assistant Coach, Rugby bradley.mayekiso@principia.edu
+
+18. Tobin Blair
+   Email: tobin.blair@principia.edu
+   Username: tobin.blair
+   Original line: Tobin Blair Assistant Coach, Rugby tobin.blair@principia.edu
+
+19. Markus Bathelt
+   Email: markus.bathelt@principia.edu
+   Username: markus.bathelt
+   Phone: 510.200.6352
+   Original line: Markus Bathelt Head Coach, Men's Soccer markus.bathelt@principia.edu 510.200.6352
+
+20. Lee Barron
+   Email: lee.barron@principia.edu
+   Username: lee.barron
+   Original line: Lee Barron Assistant Coach, Men's Soccer lee.barron@principia.edu
+
+21. Samuel Thomas
+   Email: samuel.thomas@principia.edu
+   Username: samuel.thomas
+   Phone: 314.609.8107
+   Original line: Samuel Thomas Head Coach, Women's Soccer samuel.thomas@principia.edu 314.609.8107
+
+22. Galen Benson
+   Email: galen.benson@principia.edu
+   Username: galen.benson
+   Phone: 618.374.5255
+   Original line: Galen Benson Assistant Coach, Women's Soccer galen.benson@principia.edu 618.374.5255
+
+23. Grace Burrows
+   Email: grace.burrows@principia.edu
+   Username: grace.burrows
+   Phone: 636.393.9974
+   Original line: Grace Burrows Head Coach, Softball / SAAC Coordinator / Assistant Compliance grace.burrows@principia.edu 636.393.9974
+
+24. Greg Brown
+   Email: greg.brown@principia.edu
+   Username: greg.brown
+   Original line: Greg Brown Assistant Coach, Women's Basketball and Softball greg.brown@principia.edu
+
+25. Damian Jones
+   Email: damian.jones@principia.edu
+   Username: damian.jones
+   Phone: 618.960.4475
+   Original line: Damian Jones Head Coach, Men's Tennis damian.jones@principia.edu 618.960.4475
+
+26. Shannon Carney
+   Email: shannon.carney@principia.edu
+   Username: shannon.carney
+   Phone: 818.388.3353
+   Original line: Shannon Carney Head Coach, Women's Tennis / Senior Women's Administrator shannon.carney@principia.edu 818.388.3353
+
+27. Justin Halley
+   Email: justin.halley@principia.edu
+   Username: justin.halley
+   Phone: 314.337.5392
+   Original line: Justin Halley Head Coach, Cross Country / Interim Head Coach, Track & Field justin.halley@principia.edu 314.337.5392
+
+28. Emily Bay
+   Email: emily.bay@principia.edu
+   Username: emily.bay
+   Phone: 636.388.1951
+   Original line: Emily Bay Head Coach, Strength & Conditioning / Interim Associate Head Coach, emily.bay@principia.edu 636.388.1951
+
+29. Justin Halley
+   Email: justin.halley@principia.edu
+   Username: justin.halley
+   Phone: 314.337.5392
+   Original line: Justin Halley Head Coach, Cross Country / Interim Head Coach, Track & Field justin.halley@principia.edu 314.337.5392
+
+30. Emily Bay
+   Email: emily.bay@principia.edu
+   Username: emily.bay
+   Phone: 636.388.1951
+   Original line: Emily Bay Head Coach, Strength & Conditioning / Interim Associate Head Coach, emily.bay@principia.edu 636.388.1951
+
+31. Alana Hinson
+   Email: alana.hinson@principia.edu
+   Username: alana.hinson
+   Phone: 636.388.1538
+   Original line: Alana Hinson Interim Head Coach, Volleyball / Assistant Coach, Women's Basketball alana.hinson@principia.edu 636.388.1538
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ramiro Dominguez Interim Athletic Director / Head Coach, Women's Basketball ramiro.dominguez@principia.edu 636.579.1166
+• Shannon Carney Head Coach, Women's Tennis / Senior Women's Administrator shannon.carney@principia.edu 818.388.3353
+• Grace Burrows Head Coach, Softball / SAAC Coordinator / Assistant Compliance grace.burrows@principia.edu 636.393.9974
+• Emily Bay Head Coach, Strength & Conditioning / Interim Associate Head Coach, emily.bay@principia.edu 636.388.1951
+• Jim Eissler Assistant Coach, Baseball jim.eissler@principia.edu
+• Aleq McMullin Assistant Coach, Baseball aleq.mcmullin@principia.edu
+• Neyko Dominguez Head Coach, Men's Basketball / Streaming Coordinator neyko.dominguez@principia.edu 636.579.3941
+• Shemarri Miles Assistant Coach, Men's Basketball shemarri.miles@principia.edu
+• Ramiro Dominguez Interim Athletic Director / Head Coach, Women's Basketball ramiro.dominguez@principia.edu 636.579.1166
+• Greg Brown Assistant Coach, Women's Basketball and Softball greg.brown@principia.edu
+• Alana Hinson Interim Head Coach, Volleyball / Assistant Coach, Women's Basketball alana.hinson@principia.edu 636.388.1538
+• Justin Halley Head Coach, Cross Country / Interim Head Coach, Track & Field justin.halley@principia.edu 314.337.5392
+• Emily Bay Head Coach, Strength & Conditioning / Interim Associate Head Coach, emily.bay@principia.edu 636.388.1951
+• Justin Halley Head Coach, Cross Country / Interim Head Coach, Track & Field justin.halley@principia.edu 314.337.5392
+• Emily Bay Head Coach, Strength & Conditioning / Interim Associate Head Coach, emily.bay@principia.edu 636.388.1951
+• Damir Conci Interim Head Coach, Rugby damir.conci@principia.edu
+• Bradley Mayekiso Assistant Coach, Rugby bradley.mayekiso@principia.edu
+• Tobin Blair Assistant Coach, Rugby tobin.blair@principia.edu
+• Markus Bathelt Head Coach, Men's Soccer markus.bathelt@principia.edu 510.200.6352
+• Lee Barron Assistant Coach, Men's Soccer lee.barron@principia.edu
+• Samuel Thomas Head Coach, Women's Soccer samuel.thomas@principia.edu 314.609.8107
+• Galen Benson Assistant Coach, Women's Soccer galen.benson@principia.edu 618.374.5255
+• Grace Burrows Head Coach, Softball / SAAC Coordinator / Assistant Compliance grace.burrows@principia.edu 636.393.9974
+• Greg Brown Assistant Coach, Women's Basketball and Softball greg.brown@principia.edu
+• Damian Jones Head Coach, Men's Tennis damian.jones@principia.edu 618.960.4475
+• Shannon Carney Head Coach, Women's Tennis / Senior Women's Administrator shannon.carney@principia.edu 818.388.3353
+• Justin Halley Head Coach, Cross Country / Interim Head Coach, Track & Field justin.halley@principia.edu 314.337.5392
+• Emily Bay Head Coach, Strength & Conditioning / Interim Associate Head Coach, emily.bay@principia.edu 636.388.1951
+• Justin Halley Head Coach, Cross Country / Interim Head Coach, Track & Field justin.halley@principia.edu 314.337.5392
+• Emily Bay Head Coach, Strength & Conditioning / Interim Associate Head Coach, emily.bay@principia.edu 636.388.1951
+• Alana Hinson Interim Head Coach, Volleyball / Assistant Coach, Women's Basketball alana.hinson@principia.edu 636.388.1538

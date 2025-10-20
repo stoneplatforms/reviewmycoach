@@ -1,0 +1,191 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:35
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Shawn Rodehorst
+   Email: rodehorstsw@unk.edu
+   Username: rodehorstsw
+   Original line: Shawn Rodehorst Head Coach/Student Athlete rodehorstsw@unk.edu H&S Center, Rm. (308) 865-
+
+2. Tim Schaffner
+   Email: schaffnert@unk.edu
+   Username: schaffnert
+   Original line: Tim Schaffner Assistant Head Coach/Def. schaffnert@unk.edu Cope Stadium 2nd (308) 865-
+
+3. Marty Levinson
+   Email: levinsonm@unk.edu
+   Username: levinsonm
+   Original line: Marty Levinson Head Men's Basketball Coach levinsonm@unk.edu H&S Center, Rm. (308) 865-
+
+4. Mitch Runco
+   Email: runcom@unk.edu
+   Username: runcom
+   Original line: Mitch Runco Head Assistant Coach runcom@unk.edu Health & Sports TBA
+
+5. Rob Fuller
+   Email: fullerr2@unk.edu
+   Username: fullerr2
+   Original line: Rob Fuller Assistant Coach fullerr2@unk.edu Health & Sports TBA
+
+6. Katie Ackermann
+   Email: ackermannk@unk.edu
+   Username: ackermannk
+   Original line: Katie Ackermann Head Coach ackermannk@unk.edu H&S Center, Rm. (308) 865-
+
+7. Kyle Trelka
+   Email: trelkak@unk.edu
+   Username: trelkak
+   Original line: Kyle Trelka Head Swimming Coach trelkak@unk.edu TBD
+
+8. Nick McDonald
+   Email: mcdonaldn@unk.edu
+   Username: mcdonaldn
+   Original line: Nick McDonald Volunteer Assistant Coach mcdonaldn@unk.edu H&S Center, Room (308) 865-
+
+9. Scott Shafer
+   Email: shaferst@unk.edu
+   Username: shaferst
+   Original line: Scott Shafer Head Coach shaferst@unk.edu Ernest Grundy (308) 865-
+
+10. Caleb Diller
+   Email: dillerc@unk.edu
+   Username: dillerc
+   Original line: Caleb Diller Assistant Tennis Coach dillerc@unk.edu Ernest Grundy
+
+11. Kanaha Furutani
+   Email: furutanik@lopers.unk.edu
+   Username: furutanik
+   Original line: Kanaha Furutani Student Assistant Coach furutanik@lopers.unk.edu
+
+12. Brady Bonsall
+   Email: bonsallbi@unk.edu
+   Username: bonsallbi
+   Original line: Brady Bonsall Head Coach bonsallbi@unk.edu H&S Center, Rm. (308) 865-
+
+13. Brady Bonsall
+   Email: bonsallbi@unk.edu
+   Username: bonsallbi
+   Original line: Brady Bonsall Head Coach bonsallbi@unk.edu H&S Center, Rm. (308) 865-
+
+14. Dane Tobey
+   Email: tobeykd@unk.edu
+   Username: tobeykd
+   Original line: Dane Tobey Assistant Coach tobeykd@unk.edu H&S Center, Rm. 23 (308) 865-
+
+15. J.R. Blackwood
+   Email: blackwoodj2@unk.edu
+   Username: blackwoodj2
+   Original line: J.R. Blackwood Assistant Coach blackwoodj2@unk.edu H&S Center, Rm. 23 (308) 865-
+
+16. Brayden Sorensen
+   Email: sorensenb@unk.edu
+   Username: sorensenb
+   Original line: Brayden Sorensen Assistant Coach sorensenb@unk.edu H&S Center, Rm. 23 (308) 865-
+
+17. Rick Squiers
+   Email: squiersr@unk.edu
+   Username: squiersr
+   Original line: Rick Squiers Head Volleyball Coach squiersr@unk.edu H&S Center, Rm. (308) 865-
+
+18. Samantha Hammond
+   Email: hammonds@unk.edu
+   Username: hammonds
+   Original line: Samantha Hammond Assistant Coach hammonds@unk.edu H&S Center Suites, (308) 865-
+
+19. Maddie Squiers
+   Email: squiersml@lopers.unk.edu
+   Username: squiersml
+   Original line: Maddie Squiers Assistant Coach squiersml@lopers.unk.edu (308) 865-
+
+20. Drew Johnson
+   Email: johnsond7@unk.edu
+   Username: johnsond7
+   Original line: Drew Johnson Head Women's Basketball Coach johnsond7@unk.edu H&S Center, Room (308) 865-
+
+21. K.C. Bassett
+   Email: bassettk@unk.edu
+   Username: bassettk
+   Original line: K.C. Bassett Assistant Coach bassettk@unk.edu H&S Center, Room (308) 865-
+
+22. Shawn Rodehorst
+   Email: rodehorstsw@unk.edu
+   Username: rodehorstsw
+   Original line: Shawn Rodehorst Head Coach/Student Athlete rodehorstsw@unk.edu H&S Center, Rm. (308) 865-
+
+23. Rob Breton
+   Email: bretonr@unk.edu
+   Username: bretonr
+   Original line: Rob Breton Head Women's Soccer Coach bretonr@unk.edu Cope Stadium Room (308) 865-
+
+24. Antonio Gracia
+   Email: graciaa@unk.edu
+   Username: graciaa
+   Original line: Antonio Gracia Assistant Coach/Goalkeeper graciaa@unk.edu Cope Stadium Room (308) 865-
+
+25. Haley Chitwood
+   Email: chitwoodh@lopers.unk.edu
+   Username: chitwoodh
+   Original line: Haley Chitwood Graduate Assistant Coach chitwoodh@lopers.unk.edu
+
+26. Daniel Jaimes
+   Email: jaimesd2@unk.edu
+   Username: jaimesd2
+   Original line: Daniel Jaimes Volunteer Assistant Coach jaimesd2@unk.edu
+
+27. Dalton Jensen
+   Email: jensendj@unk.edu
+   Username: jensendj
+   Original line: Dalton Jensen Head Coach jensendj@unk.edu H&S Center, Rm. (308) 865-
+
+28. Andrew Sorenson
+   Email: sorensonar@unk.edu
+   Username: sorensonar
+   Original line: Andrew Sorenson Head Assistant Coach sorensonar@unk.edu H&S Center, Rm. (308) 865-
+
+29. Randi Todd
+   Email: toddrl@unk.edu
+   Username: toddrl
+   Original line: Randi Todd Head Cheerleading Coach toddrl@unk.edu
+
+30. Sara McCarty
+   Email: mccartys1@unk.edu
+   Username: mccartys1
+   Original line: Sara McCarty Head Coach mccartys1@unk.edu UNK Athletic Main (308) 440-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Shawn Rodehorst Head Coach/Student Athlete rodehorstsw@unk.edu H&S Center, Rm. (308) 865-
+• Tim Schaffner Assistant Head Coach/Def. schaffnert@unk.edu Cope Stadium 2nd (308) 865-
+• Marty Levinson Head Men's Basketball Coach levinsonm@unk.edu H&S Center, Rm. (308) 865-
+• Mitch Runco Head Assistant Coach runcom@unk.edu Health & Sports TBA
+• Rob Fuller Assistant Coach fullerr2@unk.edu Health & Sports TBA
+• Katie Ackermann Head Coach ackermannk@unk.edu H&S Center, Rm. (308) 865-
+• Kyle Trelka Head Swimming Coach trelkak@unk.edu TBD
+• Nick McDonald Volunteer Assistant Coach mcdonaldn@unk.edu H&S Center, Room (308) 865-
+• Scott Shafer Head Coach shaferst@unk.edu Ernest Grundy (308) 865-
+• Caleb Diller Assistant Tennis Coach dillerc@unk.edu Ernest Grundy
+• Kanaha Furutani Student Assistant Coach furutanik@lopers.unk.edu
+• Brady Bonsall Head Coach bonsallbi@unk.edu H&S Center, Rm. (308) 865-
+• Brady Bonsall Head Coach bonsallbi@unk.edu H&S Center, Rm. (308) 865-
+• Dane Tobey Assistant Coach tobeykd@unk.edu H&S Center, Rm. 23 (308) 865-
+• J.R. Blackwood Assistant Coach blackwoodj2@unk.edu H&S Center, Rm. 23 (308) 865-
+• Brayden Sorensen Assistant Coach sorensenb@unk.edu H&S Center, Rm. 23 (308) 865-
+• Rick Squiers Head Volleyball Coach squiersr@unk.edu H&S Center, Rm. (308) 865-
+• Samantha Hammond Assistant Coach hammonds@unk.edu H&S Center Suites, (308) 865-
+• Maddie Squiers Assistant Coach squiersml@lopers.unk.edu (308) 865-
+• Drew Johnson Head Women's Basketball Coach johnsond7@unk.edu H&S Center, Room (308) 865-
+• K.C. Bassett Assistant Coach bassettk@unk.edu H&S Center, Room (308) 865-
+• Shawn Rodehorst Head Coach/Student Athlete rodehorstsw@unk.edu H&S Center, Rm. (308) 865-
+• Rob Breton Head Women's Soccer Coach bretonr@unk.edu Cope Stadium Room (308) 865-
+• Antonio Gracia Assistant Coach/Goalkeeper graciaa@unk.edu Cope Stadium Room (308) 865-
+• Haley Chitwood Graduate Assistant Coach chitwoodh@lopers.unk.edu
+• Daniel Jaimes Volunteer Assistant Coach jaimesd2@unk.edu
+• Dalton Jensen Head Coach jensendj@unk.edu H&S Center, Rm. (308) 865-
+• Andrew Sorenson Head Assistant Coach sorensonar@unk.edu H&S Center, Rm. (308) 865-
+• Randi Todd Head Cheerleading Coach toddrl@unk.edu
+• Sara McCarty Head Coach mccartys1@unk.edu UNK Athletic Main (308) 440-

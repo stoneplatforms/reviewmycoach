@@ -1,0 +1,309 @@
+COACH ENTRIES FOUND - 2025-10-04 18:13:54
+============================================================
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jarod Gonzales
+   Email: jarodgonzales@my.nnu.edu
+   Username: jarodgonzales
+   Original line: Jarod Gonzales Strength & Conditioning Coach (WSOC, VB, MBB, WBB, MLAX) jarodgonzales@my.nnu.edu
+
+2. Todd Johnston
+   Email: toddjohnston@nnu.edu
+   Username: toddjohnston
+   Phone: (208) 467-8860
+   Original line: Todd Johnston Strength & Conditioning Coach (BB, SB) toddjohnston@nnu.edu 208-467-8860
+
+3. Joe Schaefer
+   Email: josephschaefer@nnu.edu
+   Username: josephschaefer
+   Phone: (208) 467-8655
+   Original line: Joe Schaefer Head Coach josephschaefer@nnu.edu 208-467-8655
+
+4. Matt Hollod
+   Email: mhollod@nnu.edu
+   Username: mhollod
+   Phone: (208) 467-8351
+   Original line: Matt Hollod Associate Head Coach mhollod@nnu.edu 208-467-8351
+
+5. Kyle Ethridge
+   Email: kethridge@my.nnu.edu
+   Username: kethridge
+   Original line: Kyle Ethridge Assistant Coach kethridge@my.nnu.edu
+
+6. Cole Calnon
+   Email: CCalnon@my.nnu.edu
+   Username: CCalnon
+   Original line: Cole Calnon Assistant Coach CCalnon@my.nnu.edu
+
+7. Jason Bell
+   Email: JasonBell@my.nnu.edu
+   Username: JasonBell
+   Original line: Jason Bell Assistant Coach JasonBell@my.nnu.edu
+
+8. Jon Hawkins
+   Email: mensbasketball@nnu.edu
+   Username: mensbasketball
+   Phone: (208) 467-8858
+   Original line: Jon Hawkins Head Coach mensbasketball@nnu.edu 208-467-8858
+
+9. Chris Dendinger
+   Email: cdendinger@nnu.edu
+   Username: cdendinger
+   Phone: (208) 467-8304
+   Original line: Chris Dendinger Assistant Coach cdendinger@nnu.edu 208-467-8304
+
+10. Greg Hawkins
+   Email: mensbasketball@nnu.edu
+   Username: mensbasketball
+   Original line: Greg Hawkins Special Assistant to Head Coach mensbasketball@nnu.edu
+
+11. Aaron Cufr
+   Email: acufr@nnu.edu
+   Username: acufr
+   Original line: Aaron Cufr Assistant Coach acufr@nnu.edu
+
+12. Levi Wenrich
+   Email: mensbasketball@nnu.edu
+   Username: mensbasketball
+   Original line: Levi Wenrich Assistant Coach mensbasketball@nnu.edu
+
+13. Andrew Anawalt
+   Email: mensbasketball@nnu.edu
+   Username: mensbasketball
+   Original line: Andrew Anawalt Graduate Assistant Coach mensbasketball@nnu.edu
+
+14. Steve Steele
+   Email: ssteele@nnu.edu
+   Username: ssteele
+   Phone: (208) 467-8544
+   Original line: Steve Steele Head Coach ssteele@nnu.edu 208-467-8544
+
+15. Talys Toppen
+   Email: tjurdana@nnu.edu
+   Username: tjurdana
+   Original line: Talys Toppen Assistant Coach tjurdana@nnu.edu
+
+16. Elpidia Allen
+   Email: eallen@nnu.edu
+   Username: eallen
+   Original line: Elpidia Allen Assistant Coach eallen@nnu.edu
+
+17. Fred Sutton
+   Email: fsutton@nnu.edu
+   Username: fsutton
+   Phone: (208) 467-8430
+   Original line: Fred Sutton Head Coach fsutton@nnu.edu 208-467-8430
+
+18. Cole Evarts
+   Email: cevarts@my.nnu.edu
+   Username: cevarts
+   Original line: Cole Evarts Assistant Coach cevarts@my.nnu.edu
+
+19. Tom Blanchard
+   Email: tblanchard@nnu.edu
+   Username: tblanchard
+   Phone: (208) 598-1552
+   Original line: Tom Blanchard Head Coach tblanchard@nnu.edu 208-598-1552
+
+20. Carson Plant
+   Email: cplant@nnu.edu
+   Username: cplant
+   Phone: (208) 859-4376
+   Original line: Carson Plant Assistant Coach cplant@nnu.edu 208-859-4376
+
+21. Tom Otte
+   Email: totte@nnu.edu
+   Username: totte
+   Phone: (208) 869-1710
+   Original line: Tom Otte Assistant Coach totte@nnu.edu 208-869-1710
+
+22. Jackson Rice
+   Email: jacksonrice@nnu.edu
+   Username: jacksonrice
+   Original line: Jackson Rice Assistant Coach jacksonrice@nnu.edu
+
+23. Cade Brown
+   Email: cadebrown@nnu.edu
+   Username: cadebrown
+   Original line: Cade Brown Assistant Coach cadebrown@nnu.edu
+
+24. Nickee Brumbaugh
+   Email: nbrumbaugh@nnu.edu
+   Username: nbrumbaugh
+   Original line: Nickee Brumbaugh Head Coach nbrumbaugh@nnu.edu
+
+25. James Williamson
+   Email: jameswilliamson@nnu.edu
+   Username: jameswilliamson
+   Phone: (208) 467-8313
+   Original line: James Williamson Head Coach jameswilliamson@nnu.edu 208-467-8313
+
+26. Julio Castillo
+   Email: jcastillo@nnu.edu
+   Username: jcastillo
+   Phone: (208) 467-8043
+   Original line: Julio Castillo Associate Head Coach jcastillo@nnu.edu 208-467-8043
+
+27. Dane Manley
+   Email: dsmanley@nnu.edu
+   Username: dsmanley
+   Phone: (208) 467-8042
+   Original line: Dane Manley Assistant Coach dsmanley@nnu.edu 208-467-8042
+
+28. Alan Soto
+   Email: asotoortiz@my.nnu.edu
+   Username: asotoortiz
+   Original line: Alan Soto Ortiz Graduate Assistant Coach asotoortiz@my.nnu.edu
+
+29. Jenny Jaggard
+   Email: jjaggard@nnu.edu
+   Username: jjaggard
+   Phone: (208) 467-8862
+   Original line: Jenny Jaggard Head Coach jjaggard@nnu.edu 208-467-8862
+
+30. Hannah Holm
+   Email: hannahholm@my.nnu.edu
+   Username: hannahholm
+   Phone: (208) 467-8025
+   Original line: Hannah Holm Assistant Coach hannahholm@my.nnu.edu 208-467-8025
+
+31. Mitchell Littleton
+   Email: mlittleton@nnu.edu
+   Username: mlittleton
+   Original line: Mitchell Littleton Assistant Coach mlittleton@nnu.edu
+
+32. Allison Foster
+   Email: AllisonWolf@my.nnu.edu
+   Username: AllisonWolf
+   Original line: Allison Foster Assistant Coach AllisonWolf@my.nnu.edu
+
+33. Josie Brence
+   Email: JBrence@my.nnu.edu
+   Username: JBrence
+   Original line: Josie Brence Graduate Assistant Coach JBrence@my.nnu.edu
+
+34. Rich Wagner
+   Email: rmwagner@nnu.edu
+   Username: rmwagner
+   Phone: (208) 467-8868
+   Original line: Rich Wagner Head Coach rmwagner@nnu.edu 208-467-8868
+
+35. Hallie Swanson
+   Email: hswanson@nnu.edu
+   Username: hswanson
+   Phone: (208) 467-8348
+   Original line: Hallie Swanson Assistant Coach hswanson@nnu.edu 208-467-8348
+
+36. Brittany Genuardi
+   Email: bgenuardi@nnu.edu
+   Username: bgenuardi
+   Phone: (208) 467-8348
+   Original line: Brittany Genuardi Assistant Coach bgenuardi@nnu.edu 208-467-8348
+
+37. Tori Hensley
+   Email: torihensley18@gmail.com
+   Username: torihensley18
+   Original line: Tori Hensley Assistant Coach torihensley18@gmail.com
+
+38. Emilie Hernandez
+   Email: EmilieHernandez@my.nnu.edu
+   Username: EmilieHernandez
+   Original line: Emilie Hernandez Graduate Assistant Coach EmilieHernandez@my.nnu.edu
+
+39. Kelli Rich
+   Email: kellirich@my.nnu.edu
+   Username: kellirich
+   Original line: Kelli Rich Head Coach kellirich@my.nnu.edu
+
+40. Brenna Higdon
+   Email: bhigdon@nnu.edu
+   Username: bhigdon
+   Original line: Brenna Higdon Assistant Coach bhigdon@nnu.edu
+
+41. Greg Mitchell
+   Email: gregorymitchell@nnu.edu
+   Username: gregorymitchell
+   Phone: (208) 467-8342
+   Original line: Greg Mitchell Head Coach - Distance & Cross Country gregorymitchell@nnu.edu 208-467-8342
+
+42. Jeff Eastman
+   Email: jeastman@nnu.edu
+   Username: jeastman
+   Phone: (208) 467-8397
+   Original line: Jeff Eastman Assistant Coach - Sprints & Jumps jeastman@nnu.edu 208-467-8397
+
+43. Dakota Hutton-King
+   Email: dhuttonking@nnu.edu
+   Username: dhuttonking
+   Original line: Dakota Hutton-King Assistant Coach - Jumps & Recruiting and Visit Coordinator dhuttonking@nnu.edu
+
+44. Jake Knight
+   Email: jakeknight@nnu.edu
+   Username: jakeknight
+   Original line: Jake Knight Assistant Coach - Throws jakeknight@nnu.edu
+
+45. Doug English
+   Email: denglish@nnu.edu
+   Username: denglish
+   Phone: (208) 467-8857
+   Original line: Doug English Head Coach denglish@nnu.edu 208-467-8857
+
+46. Alli Rust
+   Email: AllisonRust@nnu.edu
+   Username: AllisonRust
+   Phone: (208) 467-8702
+   Original line: Alli Rust Assistant Coach AllisonRust@nnu.edu 208-467-8702
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jarod Gonzales Strength & Conditioning Coach (WSOC, VB, MBB, WBB, MLAX) jarodgonzales@my.nnu.edu
+• Todd Johnston Strength & Conditioning Coach (BB, SB) toddjohnston@nnu.edu 208-467-8860
+• Joe Schaefer Head Coach josephschaefer@nnu.edu 208-467-8655
+• Matt Hollod Associate Head Coach mhollod@nnu.edu 208-467-8351
+• Kyle Ethridge Assistant Coach kethridge@my.nnu.edu
+• Cole Calnon Assistant Coach CCalnon@my.nnu.edu
+• Jason Bell Assistant Coach JasonBell@my.nnu.edu
+• Jon Hawkins Head Coach mensbasketball@nnu.edu 208-467-8858
+• Chris Dendinger Assistant Coach cdendinger@nnu.edu 208-467-8304
+• Greg Hawkins Special Assistant to Head Coach mensbasketball@nnu.edu
+• Aaron Cufr Assistant Coach acufr@nnu.edu
+• Levi Wenrich Assistant Coach mensbasketball@nnu.edu
+• Andrew Anawalt Graduate Assistant Coach mensbasketball@nnu.edu
+• Steve Steele Head Coach ssteele@nnu.edu 208-467-8544
+• Talys Toppen Assistant Coach tjurdana@nnu.edu
+• Elpidia Allen Assistant Coach eallen@nnu.edu
+• Fred Sutton Head Coach fsutton@nnu.edu 208-467-8430
+• Cole Evarts Assistant Coach cevarts@my.nnu.edu
+• Tom Blanchard Head Coach tblanchard@nnu.edu 208-598-1552
+• Carson Plant Assistant Coach cplant@nnu.edu 208-859-4376
+• Tom Otte Assistant Coach totte@nnu.edu 208-869-1710
+• Jackson Rice Assistant Coach jacksonrice@nnu.edu
+• Cade Brown Assistant Coach cadebrown@nnu.edu
+• Nickee Brumbaugh Head Coach nbrumbaugh@nnu.edu
+• James Williamson Head Coach jameswilliamson@nnu.edu 208-467-8313
+• Julio Castillo Associate Head Coach jcastillo@nnu.edu 208-467-8043
+• Dane Manley Assistant Coach dsmanley@nnu.edu 208-467-8042
+• Alan Soto Ortiz Graduate Assistant Coach asotoortiz@my.nnu.edu
+• Jenny Jaggard Head Coach jjaggard@nnu.edu 208-467-8862
+• Hannah Holm Assistant Coach hannahholm@my.nnu.edu 208-467-8025
+• Mitchell Littleton Assistant Coach mlittleton@nnu.edu
+• Allison Foster Assistant Coach AllisonWolf@my.nnu.edu
+• Josie Brence Graduate Assistant Coach JBrence@my.nnu.edu
+• Rich Wagner Head Coach rmwagner@nnu.edu 208-467-8868
+• Hallie Swanson Assistant Coach hswanson@nnu.edu 208-467-8348
+• Brittany Genuardi Assistant Coach bgenuardi@nnu.edu 208-467-8348
+• Tori Hensley Assistant Coach torihensley18@gmail.com
+• Emilie Hernandez Graduate Assistant Coach EmilieHernandez@my.nnu.edu
+• Kelli Rich Head Coach kellirich@my.nnu.edu
+• Brenna Higdon Assistant Coach bhigdon@nnu.edu
+• Greg Mitchell Head Coach - Distance & Cross Country gregorymitchell@nnu.edu 208-467-8342
+• Jeff Eastman Assistant Coach - Sprints & Jumps jeastman@nnu.edu 208-467-8397
+• Dakota Hutton-King Assistant Coach - Jumps & Recruiting and Visit Coordinator dhuttonking@nnu.edu
+• Jake Knight Assistant Coach - Throws jakeknight@nnu.edu
+• Doug English Head Coach denglish@nnu.edu 208-467-8857
+• Alli Rust Assistant Coach AllisonRust@nnu.edu 208-467-8702

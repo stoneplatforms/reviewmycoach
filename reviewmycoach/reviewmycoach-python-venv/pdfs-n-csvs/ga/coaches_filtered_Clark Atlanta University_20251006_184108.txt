@@ -1,0 +1,107 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:08
+============================================================
+
+Total coaches found: 16
+
+PARSED ENTRIES:
+----------------------------------------
+1. Joelle Mafo
+   Email: jmafo@cau.edu
+   Username: jmafo
+   Original line: Joelle Mafo Head Women's Volleyball Coach/Senior Woman jmafo@cau.edu (404) 880-
+
+2. Trennis Grant
+   Email: tgrant@cau.edu
+   Username: tgrant
+   Original line: Trennis Grant Head Baseball Coach tgrant@cau.edu
+
+3. Alfred Jordan
+   Email: ajordan@cau.edu
+   Username: ajordan
+   Original line: Alfred Jordan Head Basketball Coach ajordan@cau.edu (404) 880-
+
+4. Tony Bailey
+   Email: abailey@cau.edu
+   Username: abailey
+   Original line: Tony Bailey Head Basketball Coach abailey@cau.edu (404) 880-
+
+5. Taylor Fulton
+   Email: tfulton@cau.edu
+   Username: tfulton
+   Original line: Taylor Fulton Assistant Coach tfulton@cau.edu (404) 880 -
+
+6. Alane Hickman
+   Email: ahickman@cau.edu
+   Username: ahickman
+   Original line: Alane Hickman Cheerleading Coach ahickman@cau.edu (404) 880-
+
+7. Alex Hickman
+   Email: ahickman1@cau.edu
+   Username: ahickman1
+   Original line: Alex Hickman Assistant Cheer Coach ahickman1@cau.edu (404) 880-
+
+8. Carmellia Shivers-Cole
+   Email: cshiverscole@cau.edu
+   Username: cshiverscole
+   Original line: Dr. Carmellia Shivers-Cole Head Coach | Women's Track & Field/Men's & cshiverscole@cau.edu (404) 880-
+
+9. Victor Stokes
+   Email: vstokes@cau.edu
+   Username: vstokes
+   Original line: Victor Stokes Assistant Women's Track and Field Coach vstokes@cau.edu (404) 880-
+
+10. Teddy Keaton
+   Email: tkeaton@cau.edu
+   Username: tkeaton
+   Original line: Teddy Keaton Head Football Coach tkeaton@cau.edu (470) 925-
+
+11. L.C. Cole
+   Email: lcole@cau.edu
+   Username: lcole
+   Original line: L.C. Cole Assistant Head Coach | Defensive Coordinator lcole@cau.edu (404) 880-
+
+12. Nicole Bayona
+   Email: nbayona@cau.edu
+   Username: nbayona
+   Original line: Nicole Bayona Head Softball Coach nbayona@cau.edu
+
+13. Daisha Reed
+   Email: dreed@cau.edu
+   Username: dreed
+   Original line: Daisha Reed Head Women's Tennis Coach dreed@cau.edu
+
+14. Carmellia Shivers-Cole
+   Email: cshiverscole@cau.edu
+   Username: cshiverscole
+   Original line: Dr. Carmellia Shivers-Cole Head Coach | Women's Track & Field/Men's & cshiverscole@cau.edu (404) 880-
+
+15. Victor Stokes
+   Email: vstokes@cau.edu
+   Username: vstokes
+   Original line: Victor Stokes Assistant Women's Track and Field Coach vstokes@cau.edu (404) 880-
+
+16. Joelle Mafo
+   Email: jmafo@cau.edu
+   Username: jmafo
+   Original line: Joelle Mafo Head Women's Volleyball Coach/Senior Woman jmafo@cau.edu (404) 880-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Joelle Mafo Head Women's Volleyball Coach/Senior Woman jmafo@cau.edu (404) 880-
+• Trennis Grant Head Baseball Coach tgrant@cau.edu
+• Alfred Jordan Head Basketball Coach ajordan@cau.edu (404) 880-
+• Tony Bailey Head Basketball Coach abailey@cau.edu (404) 880-
+• Taylor Fulton Assistant Coach tfulton@cau.edu (404) 880 -
+• Alane Hickman Cheerleading Coach ahickman@cau.edu (404) 880-
+• Alex Hickman Assistant Cheer Coach ahickman1@cau.edu (404) 880-
+• Dr. Carmellia Shivers-Cole Head Coach | Women's Track & Field/Men's & cshiverscole@cau.edu (404) 880-
+• Victor Stokes Assistant Women's Track and Field Coach vstokes@cau.edu (404) 880-
+• Teddy Keaton Head Football Coach tkeaton@cau.edu (470) 925-
+• L.C. Cole Assistant Head Coach | Defensive Coordinator lcole@cau.edu (404) 880-
+• Nicole Bayona Head Softball Coach nbayona@cau.edu
+• Daisha Reed Head Women's Tennis Coach dreed@cau.edu
+• Dr. Carmellia Shivers-Cole Head Coach | Women's Track & Field/Men's & cshiverscole@cau.edu (404) 880-
+• Victor Stokes Assistant Women's Track and Field Coach vstokes@cau.edu (404) 880-
+• Joelle Mafo Head Women's Volleyball Coach/Senior Woman jmafo@cau.edu (404) 880-

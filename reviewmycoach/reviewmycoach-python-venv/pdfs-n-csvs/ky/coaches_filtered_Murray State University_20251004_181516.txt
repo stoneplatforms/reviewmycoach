@@ -1,0 +1,167 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:17
+============================================================
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Strength
+   Email: csullivan23@murraystate.edu
+   Username: csullivan23
+   Original line: Head Strength Coach- Football csullivan23@murraystate.edu
+
+2. Head Strength
+   Email: jmedler@murraystate.edu
+   Username: jmedler
+   Original line: Head Strength & Conditioning Coach jmedler@murraystate.edu
+
+3. Strength &
+   Email: mlaishley@murraystate.edu
+   Username: mlaishley
+   Original line: Strength & Conditioning Coach - (WBB, Rifle, BSB) mlaishley@murraystate.edu
+
+4. Head Coach
+   Email: msu.baseball@murraystate.edu
+   Username: msu.baseball
+   Original line: Head Coach msu.baseball@murraystate.edu
+
+5. Assistant Coach
+   Email: sadkins6@murraystate.edu
+   Username: sadkins6
+   Original line: Assistant Coach sadkins6@murraystate.edu
+
+6. Associate Head
+   Email: bmullins11@murraystate.edu
+   Username: bmullins11
+   Original line: Associate Head Coach bmullins11@murraystate.edu
+
+7. Head Coach
+   Email: rturner2@murraystate.edu
+   Username: rturner2
+   Original line: Head Coach rturner2@murraystate.edu
+
+8. Assistant Coach
+   Email: mevans8@murraystate.edu
+   Username: mevans8
+   Original line: Assistant Coach mevans8@murraystate.edu
+
+9. Associate Head
+   Email: wfoust2@murraystate.edu
+   Username: wfoust2
+   Original line: Associate Head Coach wfoust2@murraystate.edu
+
+10. Assistant Coach
+   Email: kkleifgen@murraystate.edu
+   Username: kkleifgen
+   Original line: Assistant Coach kkleifgen@murraystate.edu
+
+11. Assistant Coach
+   Email: ntucker6@murraystate.edu
+   Username: ntucker6
+   Original line: Assistant Coach ntucker6@murraystate.edu
+
+12. Assistant Coach
+   Email: kriggins1@murraystate.edu
+   Username: kriggins1
+   Original line: Assistant Coach (Jumps/Multi) kriggins1@murraystate.edu
+
+13. Assistant Coach
+   Email: jjohnston22@murraystate.edu
+   Username: jjohnston22
+   Original line: Assistant Coach (Distance/Cross Country) jjohnston22@murraystate.edu
+
+14. Head Strength
+   Email: csullivan23@murraystate.edu
+   Username: csullivan23
+   Original line: Head Strength Coach- Football csullivan23@murraystate.edu
+
+15. Head Strength
+   Email: jmedler@murraystate.edu
+   Username: jmedler
+   Original line: Head Strength & Conditioning Coach jmedler@murraystate.edu
+
+16. Head Coach
+   Email: jmiller134@murraystate.edu
+   Username: jmiller134
+   Original line: Head Coach jmiller134@murraystate.edu
+
+17. Head Coach
+   Email: pnelson5@murraystate.edu
+   Username: pnelson5
+   Original line: Head Coach pnelson5@murraystate.edu
+
+18. Head Coach
+   Email: clollar@murraystate.edu
+   Username: clollar
+   Original line: Head Coach clollar@murraystate.edu
+
+19. Head Coach
+   Email: kamundson@murraystate.edu
+   Username: kamundson
+   Original line: Head Coach kamundson@murraystate.edu
+
+20. Assistant Coach
+   Email: agilland@murraystate.edu
+   Username: agilland
+   Original line: Assistant Coach agilland@murraystate.edu
+
+21. Head Coach
+   Email: mlodge@murraystate.edu
+   Username: mlodge
+   Original line: Head Coach mlodge@murraystate.edu
+
+22. Assistant Coach
+   Email: bwilson54@murraystate.edu
+   Username: bwilson54
+   Original line: Assistant Coach bwilson54@murraystate.edu
+
+23. Head Coach
+   Email: jcaetano@murraystate.edu
+   Username: jcaetano
+   Original line: Head Coach jcaetano@murraystate.edu
+
+24. Assistant Coach
+   Email: kriggins1@murraystate.edu
+   Username: kriggins1
+   Original line: Assistant Coach (Jumps/Multi) kriggins1@murraystate.edu
+
+25. Assistant Coach
+   Email: jjohnston22@murraystate.edu
+   Username: jjohnston22
+   Original line: Assistant Coach (Distance/Cross Country) jjohnston22@murraystate.edu
+
+26. Head Coach
+   Email: david.schwepker@murraystate.edu
+   Username: david.schwepker
+   Original line: Head Coach david.schwepker@murraystate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Strength Coach- Football csullivan23@murraystate.edu
+• Head Strength & Conditioning Coach jmedler@murraystate.edu
+• Strength & Conditioning Coach - (WBB, Rifle, BSB) mlaishley@murraystate.edu
+• Head Coach msu.baseball@murraystate.edu
+• Assistant Coach sadkins6@murraystate.edu
+• Associate Head Coach bmullins11@murraystate.edu
+• Head Coach rturner2@murraystate.edu
+• Assistant Coach mevans8@murraystate.edu
+• Associate Head Coach wfoust2@murraystate.edu
+• Assistant Coach kkleifgen@murraystate.edu
+• Assistant Coach ntucker6@murraystate.edu
+• Assistant Coach (Jumps/Multi) kriggins1@murraystate.edu
+• Assistant Coach (Distance/Cross Country) jjohnston22@murraystate.edu
+• Head Strength Coach- Football csullivan23@murraystate.edu
+• Head Strength & Conditioning Coach jmedler@murraystate.edu
+• Head Coach jmiller134@murraystate.edu
+• Head Coach pnelson5@murraystate.edu
+• Head Coach clollar@murraystate.edu
+• Head Coach kamundson@murraystate.edu
+• Assistant Coach agilland@murraystate.edu
+• Head Coach mlodge@murraystate.edu
+• Assistant Coach bwilson54@murraystate.edu
+• Head Coach jcaetano@murraystate.edu
+• Assistant Coach (Jumps/Multi) kriggins1@murraystate.edu
+• Assistant Coach (Distance/Cross Country) jjohnston22@murraystate.edu
+• Head Coach david.schwepker@murraystate.edu

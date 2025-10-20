@@ -1,0 +1,221 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:43
+============================================================
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. Hannah Trees
+   Email: trees@msoe.edu
+   Username: trees
+   Original line: Hannah Trees Athletic Director for Internal Operations | Head Women’s Basketball Coach trees@msoe.edu (414) 277-
+
+2. Davinci Wallace
+   Email: wallace@msoe.edu
+   Username: wallace
+   Original line: Davinci Wallace Associate Athletic Director | Assistant Women's Basektball Coach wallace@msoe.edu (414) 277-
+
+3. Adrian Santiago
+   Email: santiago@msoe.edu
+   Username: santiago
+   Original line: Adrian Santiago Head Coach santiago@msoe.edu (414) 277-
+
+4. Coby Moe
+   Email: moec@msoe.edu
+   Username: moec
+   Original line: Coby Moe Assistant Coach moec@msoe.edu
+
+5. Kevin Hurd
+   Email: hurd@msoe.edu
+   Username: hurd
+   Original line: Kevin Hurd Head Coach hurd@msoe.edu (414) 277-
+
+6. Caleb Zeegers
+   Email: zeegers@msoe.edu
+   Username: zeegers
+   Original line: Caleb Zeegers Assistant Coach zeegers@msoe.edu
+
+7. Michael Glass
+   Email: glass@msoe.edu
+   Username: glass
+   Original line: Michael Glass Assistant Coach glass@msoe.edu
+
+8. Donovan Carter
+   Email: carterd@msoe.edu
+   Username: carterd
+   Original line: Donovan Carter Assistant Coach carterd@msoe.edu
+
+9. Hannah Trees
+   Email: trees@msoe.edu
+   Username: trees
+   Original line: Hannah Trees Athletic Director for Internal Operations | Head Women’s Basketball Coach trees@msoe.edu (414) 277-
+
+10. Davinci Wallace
+   Email: wallace@msoe.edu
+   Username: wallace
+   Original line: Davinci Wallace Associate Athletic Director | Assistant Women's Basektball Coach wallace@msoe.edu (414) 277-
+
+11. Daniel Weston
+   Email: weston@msoe.edu
+   Username: weston
+   Original line: Daniel Weston Head Coach weston@msoe.edu (414) 277-
+
+12. Malachi Allgood
+   Email: allgood@msoe.edu
+   Username: allgood
+   Original line: Malachi Allgood Women's Head Coach allgood@msoe.edu
+
+13. Brandon Richards
+   Email: richards@msoe.edu
+   Username: richards
+   Original line: Brandon Richards Head Men's Hockey Coach | Head Men's Golf Coach richards@msoe.edu (414) 331-
+
+14. Kevin Hurd
+   Email: hurd@msoe.edu
+   Username: hurd
+   Original line: Kevin Hurd Head Coach hurd@msoe.edu (414) 277-
+
+15. Brandon Richards
+   Email: richards@msoe.edu
+   Username: richards
+   Original line: Brandon Richards Head Men's Hockey Coach | Head Men's Golf Coach richards@msoe.edu (414) 331-
+
+16. Baylee Marabella
+   Email: marabella@msoe.edu
+   Username: marabella
+   Original line: Baylee Marabella Head Coach marabella@msoe.edu (414) 277-
+
+17. Sean Farrell
+   Email: farrells@msoe.edu
+   Username: farrells
+   Original line: Sean Farrell Head Men's Lacrosse Coach farrells@msoe.edu (414) 277-
+
+18. Terra Ringo
+   Email: ringo@msoe.edu
+   Username: ringo
+   Original line: Terra Ringo Head Women's Lacrosse Coach ringo@msoe.edu (414) 277-
+
+19. Charles Stollenwerk
+   Email: stollenwerk@msoe.edu
+   Username: stollenwerk
+   Original line: Charles Stollenwerk Head Men's Rowing Coach stollenwerk@msoe.edu (414) 277-
+
+20. Sydney Large
+   Email: large@msoe.edu
+   Username: large
+   Original line: Sydney Large Head Coach large@msoe.edu
+
+21. Rob Harrington
+   Email: harrington@msoe.edu
+   Username: harrington
+   Original line: Rob Harrington Head Men's Soccer Coach harrington@msoe.edu (414) 803-
+
+22. Rolf Zersen
+   Email: zersen@msoe.edu
+   Username: zersen
+   Original line: Rolf Zersen Head Women's Soccer Coach zersen@msoe.edu (414) 277-
+
+23. Siera Spahiu
+   Email: spahiu@msoe.edu
+   Username: spahiu
+   Original line: Siera Spahiu Head Coach spahiu@msoe.edu (414) 277-
+
+24. Renata Schlomann
+   Email: schlomann@msoe.edu
+   Username: schlomann
+   Original line: Renata Schlomann Head Coach schlomann@msoe.edu
+
+25. Nancy Harms
+   Email: harms@msoe.edu
+   Username: harms
+   Original line: Nancy Harms Swim Coach harms@msoe.edu
+
+26. Cody Heckendorf
+   Email: heckendorf@msoe.edu
+   Username: heckendorf
+   Original line: Cody Heckendorf Swim Coach heckendorf@msoe.edu
+
+27. Renata Schlomann
+   Email: schlomann@msoe.edu
+   Username: schlomann
+   Original line: Renata Schlomann Head Coach schlomann@msoe.edu
+
+28. Nancy Harms
+   Email: harms@msoe.edu
+   Username: harms
+   Original line: Nancy Harms Swim Coach harms@msoe.edu
+
+29. Cody Heckendorf
+   Email: heckendorf@msoe.edu
+   Username: heckendorf
+   Original line: Cody Heckendorf Swim Coach heckendorf@msoe.edu
+
+30. Ruth McGuire
+   Email: mcguire@msoe.edu
+   Username: mcguire
+   Original line: Ruth McGuire Head Coach mcguire@msoe.edu (414) 702-
+
+31. Ruth McGuire
+   Email: mcguire@msoe.edu
+   Username: mcguire
+   Original line: Ruth McGuire Head Coach mcguire@msoe.edu (414) 702-
+
+32. Malachi Allgood
+   Email: allgood@msoe.edu
+   Username: allgood
+   Original line: Malachi Allgood Women's Head Coach allgood@msoe.edu
+
+33. Shane Reid
+   Email: reid@msoe.edu
+   Username: reid
+   Original line: Shane Reid Head Coach reid@msoe.edu (414) 277-
+
+34. Kristina Susak
+   Email: susak@msoe.edu
+   Username: susak
+   Original line: Kristina Susak Head Coach susak@msoe.edu (414) 617-
+
+35. Mike Schmidt
+   Email: schmidt@msoe.edu
+   Username: schmidt
+   Original line: Mike Schmidt Head Coach schmidt@msoe.edu (414) 277-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Hannah Trees Athletic Director for Internal Operations | Head Women’s Basketball Coach trees@msoe.edu (414) 277-
+• Davinci Wallace Associate Athletic Director | Assistant Women's Basektball Coach wallace@msoe.edu (414) 277-
+• Adrian Santiago Head Coach santiago@msoe.edu (414) 277-
+• Coby Moe Assistant Coach moec@msoe.edu
+• Kevin Hurd Head Coach hurd@msoe.edu (414) 277-
+• Caleb Zeegers Assistant Coach zeegers@msoe.edu
+• Michael Glass Assistant Coach glass@msoe.edu
+• Donovan Carter Assistant Coach carterd@msoe.edu
+• Hannah Trees Athletic Director for Internal Operations | Head Women’s Basketball Coach trees@msoe.edu (414) 277-
+• Davinci Wallace Associate Athletic Director | Assistant Women's Basektball Coach wallace@msoe.edu (414) 277-
+• Daniel Weston Head Coach weston@msoe.edu (414) 277-
+• Malachi Allgood Women's Head Coach allgood@msoe.edu
+• Brandon Richards Head Men's Hockey Coach | Head Men's Golf Coach richards@msoe.edu (414) 331-
+• Kevin Hurd Head Coach hurd@msoe.edu (414) 277-
+• Brandon Richards Head Men's Hockey Coach | Head Men's Golf Coach richards@msoe.edu (414) 331-
+• Baylee Marabella Head Coach marabella@msoe.edu (414) 277-
+• Sean Farrell Head Men's Lacrosse Coach farrells@msoe.edu (414) 277-
+• Terra Ringo Head Women's Lacrosse Coach ringo@msoe.edu (414) 277-
+• Charles Stollenwerk Head Men's Rowing Coach stollenwerk@msoe.edu (414) 277-
+• Sydney Large Head Coach large@msoe.edu
+• Rob Harrington Head Men's Soccer Coach harrington@msoe.edu (414) 803-
+• Rolf Zersen Head Women's Soccer Coach zersen@msoe.edu (414) 277-
+• Siera Spahiu Head Coach spahiu@msoe.edu (414) 277-
+• Renata Schlomann Head Coach schlomann@msoe.edu
+• Nancy Harms Swim Coach harms@msoe.edu
+• Cody Heckendorf Swim Coach heckendorf@msoe.edu
+• Renata Schlomann Head Coach schlomann@msoe.edu
+• Nancy Harms Swim Coach harms@msoe.edu
+• Cody Heckendorf Swim Coach heckendorf@msoe.edu
+• Ruth McGuire Head Coach mcguire@msoe.edu (414) 702-
+• Ruth McGuire Head Coach mcguire@msoe.edu (414) 702-
+• Malachi Allgood Women's Head Coach allgood@msoe.edu
+• Shane Reid Head Coach reid@msoe.edu (414) 277-
+• Kristina Susak Head Coach susak@msoe.edu (414) 617-
+• Mike Schmidt Head Coach schmidt@msoe.edu (414) 277-

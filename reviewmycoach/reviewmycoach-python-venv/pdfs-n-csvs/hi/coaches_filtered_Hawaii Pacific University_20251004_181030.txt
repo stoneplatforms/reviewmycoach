@@ -1,0 +1,153 @@
+COACH ENTRIES FOUND - 2025-10-04 18:10:34
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jenic Tumaneng
+   Email: jtumaneng@hpu.edu
+   Username: jtumaneng
+   Original line: Jenic Tumaneng Head Women's Volleyball Coach jtumaneng@hpu.edu
+
+2. Jenic Tumaneng
+   Email: jtumaneng@hpu.edu
+   Username: jtumaneng
+   Original line: Jenic Tumaneng Head Women's Volleyball Coach jtumaneng@hpu.edu
+
+3. Chris Fisher
+   Email: cfisher@hpu.edu
+   Username: cfisher
+   Phone: 808.544.9371
+   Original line: Chris Fisher Head Men's Soccer Coach cfisher@hpu.edu 808.544.9371
+
+4. Joshua Graham
+   Email: jggraham@hpu.edu
+   Username: jggraham
+   Original line: Joshua Graham Assistant Men's Soccer Coach jggraham@hpu.edu
+
+5. Connor Artigue
+   Email: cartigue@hpu.edu
+   Username: cartigue
+   Original line: Connor Artigue Head Women's Soccer Coach cartigue@hpu.edu
+
+6. Sarah Inafuku
+   Email: sinafuku@hpu.edu
+   Username: sinafuku
+   Original line: Sarah Inafuku Assistant Coach & Director of Operations sinafuku@hpu.edu
+
+7. Kevin Schwarz
+   Email: keschwarz@hpu.edu
+   Username: keschwarz
+   Phone: (808) 369-4779
+   Original line: Kevin Schwarz Head Cross Country Coach keschwarz@hpu.edu 808-369-4779
+
+8. Jesse Nakanishi
+   Email: jnakanis@hpu.edu
+   Username: jnakanis
+   Phone: 808.544.0221
+   Original line: Jesse Nakanishi Head Men's Basketball Coach jnakanis@hpu.edu 808.544.0221
+
+9. Cameron Flabel
+   Email: cflabel@hpu.edu
+   Username: cflabel
+   Original line: Cameron Flabel Associate Head Coach cflabel@hpu.edu
+
+10. Brent Gibson
+   Email: bregibson@hpu.edu
+   Username: bregibson
+   Original line: Brent Gibson Head Coach Women's Basketball bregibson@hpu.edu
+
+11. Callie Jackson
+   Email: cajackson@hpu.edu
+   Username: cajackson
+   Original line: Callie Jackson Associate Head Women's Basketball Coach cajackson@hpu.edu
+
+12. Alex Takemura
+   Email: atakemura@hpu.edu
+   Username: atakemura
+   Original line: Alex Takemura Head Softball Coach atakemura@hpu.edu
+
+13. Dane Fujinaka
+   Email: dfujinaka@hpu.edu
+   Username: dfujinaka
+   Phone: 808.356.5230
+   Original line: Dane Fujinaka Head Coach dfujinaka@hpu.edu 808.356.5230
+
+14. Brian Zablan
+   Email: bzablan@hpu.edu
+   Username: bzablan
+   Original line: Brian Zablan Assistant Baseball Coach bzablan@hpu.edu
+
+15. Ed Kageyama
+   Email: ekageyama@hpu.edu
+   Username: ekageyama
+   Original line: Ed Kageyama Head Men's and Women's Golf Coach ekageyama@hpu.edu
+
+16. Cyd Okino
+   Email: cokino@hpu.edu
+   Username: cokino
+   Original line: Cyd Okino Assistant Golf Coach cokino@hpu.edu (808)383-
+
+17. Ed Kageyama
+   Email: ekageyama@hpu.edu
+   Username: ekageyama
+   Original line: Ed Kageyama Head Men's and Women's Golf Coach ekageyama@hpu.edu
+
+18. Cyd Okino
+   Email: cokino@hpu.edu
+   Username: cokino
+   Original line: Cyd Okino Assistant Golf Coach cokino@hpu.edu (808)383-
+
+19. Daniel Pollock
+   Email: dcpollock@hpu.edu
+   Username: dcpollock
+   Original line: Daniel Pollock Head Men's Tennis Coach dcpollock@hpu.edu
+
+20. Chelsea Patton
+   Email: cpatton@hpu.edu
+   Username: cpatton
+   Original line: Chelsea Patton Head Women's Tennis Coach cpatton@hpu.edu
+
+21. Daisha Paulino
+   Email: dpaulino@hpu.edu
+   Username: dpaulino
+   Original line: Daisha Paulino Head Acro & Tumbling Coach dpaulino@hpu.edu
+
+22. James Burns
+   Email: jmburns@hpu.edu
+   Username: jmburns
+   Original line: James Burns Head Coach jmburns@hpu.edu
+
+23. James Burns
+   Email: jmburns@hpu.edu
+   Username: jmburns
+   Original line: James Burns Head Coach jmburns@hpu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jenic Tumaneng Head Women's Volleyball Coach jtumaneng@hpu.edu
+• Jenic Tumaneng Head Women's Volleyball Coach jtumaneng@hpu.edu
+• Chris Fisher Head Men's Soccer Coach cfisher@hpu.edu 808.544.9371
+• Joshua Graham Assistant Men's Soccer Coach jggraham@hpu.edu
+• Connor Artigue Head Women's Soccer Coach cartigue@hpu.edu
+• Sarah Inafuku Assistant Coach & Director of Operations sinafuku@hpu.edu
+• Kevin Schwarz Head Cross Country Coach keschwarz@hpu.edu 808-369-4779
+• Jesse Nakanishi Head Men's Basketball Coach jnakanis@hpu.edu 808.544.0221
+• Cameron Flabel Associate Head Coach cflabel@hpu.edu
+• Brent Gibson Head Coach Women's Basketball bregibson@hpu.edu
+• Callie Jackson Associate Head Women's Basketball Coach cajackson@hpu.edu
+• Alex Takemura Head Softball Coach atakemura@hpu.edu
+• Dane Fujinaka Head Coach dfujinaka@hpu.edu 808.356.5230
+• Brian Zablan Assistant Baseball Coach bzablan@hpu.edu
+• Ed Kageyama Head Men's and Women's Golf Coach ekageyama@hpu.edu
+• Cyd Okino Assistant Golf Coach cokino@hpu.edu (808)383-
+• Ed Kageyama Head Men's and Women's Golf Coach ekageyama@hpu.edu
+• Cyd Okino Assistant Golf Coach cokino@hpu.edu (808)383-
+• Daniel Pollock Head Men's Tennis Coach dcpollock@hpu.edu
+• Chelsea Patton Head Women's Tennis Coach cpatton@hpu.edu
+• Daisha Paulino Head Acro & Tumbling Coach dpaulino@hpu.edu
+• James Burns Head Coach jmburns@hpu.edu
+• James Burns Head Coach jmburns@hpu.edu

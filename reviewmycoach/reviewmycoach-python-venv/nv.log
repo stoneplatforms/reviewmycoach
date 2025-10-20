@@ -1,0 +1,97 @@
+-> Reading CSV: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/nv/Nevada College Athletics.csv
+-> Output PDFs to: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/nv
+
+Printing completed in 32.3s
+Success: 2 | Skipped: 0 | Errors: 0
+
+Resolved URLs used:
+- University of Nevada, Reno.pdf: https://nevadawolfpack.com/staff-directory?print=true
+- University of Nevada, Las Vegas (UNLV).pdf: https://unlvrebels.com/staff-directory?print=true
+
+Parsing printed PDFs and preparing upload entries...
+✔ Total coach entries prepared: 84
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Jake McKinley (baseball@unr.edu) → coaches/baseball
+[DRY RUN] Would create unclaimed coach profile: Craig Neal (Craign@unr.edu) → coaches/Craign
+[DRY RUN] Would create unclaimed coach profile: Bil Duany (bduany@unr.edu) → coaches/bduany
+[DRY RUN] Would create unclaimed coach profile: Kyle Guy (kguy@unr.edu) → coaches/kguy
+[DRY RUN] Would create unclaimed coach profile: Lo Leath (lleath@unr.edu) → coaches/lleath
+[DRY RUN] Would create unclaimed coach profile: Michael Furlong (mfurlong@unr.edu) → coaches/mfurlong
+[DRY RUN] Would create unclaimed coach profile: Amanda Levens (levens@unr.edu) → coaches/levens
+[DRY RUN] Would create unclaimed coach profile: Laura Gonsalves (lgonsalves@unr.edu) → coaches/lgonsalves
+[DRY RUN] Would create unclaimed coach profile: Ashley Elliott (ashleyelliott@unr.edu) → coaches/ashleyelliott
+[DRY RUN] Would create unclaimed coach profile: Halie Bergman (hbergman@unr.edu) → coaches/hbergman
+[DRY RUN] Would create unclaimed coach profile: Lavaris Duncan (lavarisd@unr.edu) → coaches/lavarisd
+[DRY RUN] Would create unclaimed coach profile: Ula Motuga (umotuga@unr.edu) → coaches/umotuga
+[DRY RUN] Would create unclaimed coach profile: Logan Stahl (loganstahl@unr.edu) → coaches/loganstahl
+[DRY RUN] Would create unclaimed coach profile: Hayley Canfield (hcanfield@unr.edu) → coaches/hcanfield
+[DRY RUN] Would create unclaimed coach profile: Dennis Green (dennisgreen@unr.edu) → coaches/dennisgreen
+[DRY RUN] Would create unclaimed coach profile: Trake Carpenter (trakec@unr.edu) → coaches/trakec
+[DRY RUN] Would create unclaimed coach profile: Kathleen Takaishi (ktakaishi@unr.edu) → coaches/ktakaishi
+[DRY RUN] Would create unclaimed coach profile: Jenny Haddox (jennyhaddox@unr.edu) → coaches/jennyhaddox
+[DRY RUN] Would create unclaimed coach profile: Cameron Smith (csmith3@unr.edu) → coaches/csmith3
+[DRY RUN] Would create unclaimed coach profile: Nico Monforte (nmonforte@unr.edu) → coaches/nmonforte
+[DRY RUN] Would create unclaimed coach profile: Vanessa Valentine (vanessavalentine@unr.edu) → coaches/vanessavalentine
+[DRY RUN] Would create unclaimed coach profile: Brad Leonard (bradleonard@unr.edu) → coaches/bradleonard
+[DRY RUN] Would create unclaimed coach profile: Jenn Kovisto (jkovisto@unr.edu) → coaches/jkovisto
+[DRY RUN] Would create unclaimed coach profile: Victoria Hayward (softball@unr.edu) → coaches/softball
+[DRY RUN] Would create unclaimed coach profile: Brendon Bray (brendonb@unr.edu) → coaches/brendonb
+[DRY RUN] Would create unclaimed coach profile: Jian Li (jiany@unr.edu) → coaches/jiany
+[DRY RUN] Would create unclaimed coach profile: Sylvain Malroux (malroux@unr.edu) → coaches/malroux
+[DRY RUN] Would create unclaimed coach profile: Brad Tulenko (btulenko@unr.edu) → coaches/btulenko
+[DRY RUN] Would create unclaimed coach profile: Guillaume Tonelli (guillaumet@unr.edu) → coaches/guillaumet
+[DRY RUN] Would create unclaimed coach profile: Natalia Campbell (nataliacampbell@unr.edu) → coaches/nataliacampbell
+[DRY RUN] Would create unclaimed coach profile: Scott Williamson (scottwilliamson@unr.edu) → coaches/scottwilliamson
+[DRY RUN] Would create unclaimed coach profile: Sarah Marske (smarske@unr.edu) → coaches/smarske
+[DRY RUN] Would create unclaimed coach profile: Carolyn Ross (carolynross@unr.edu) → coaches/carolynross
+[DRY RUN] Would create unclaimed coach profile: Shannon Wyckoff-McNeal (shannonmcneal@unr.edu) → coaches/shannonmcneal
+[DRY RUN] Would create unclaimed coach profile: Norene Iosia (niosia@unr.edu) → coaches/niosia
+[DRY RUN] Would create unclaimed coach profile: Jason Sterrett (jasonsterrett@unr.edu) → coaches/jasonsterrett
+[DRY RUN] Would create unclaimed coach profile: Steven Nicholas (stevenn@unr.edu) → coaches/stevenn
+[DRY RUN] Would create unclaimed coach profile: Stan Stolte (stan.stolte@unlv.edu) → coaches/stan.stolte | Phone: (702) 895-3402
+[DRY RUN] Would create unclaimed coach profile: Cory Vanderhook (cory.vanderhook@unlv.edu) → coaches/cory.vanderhook
+[DRY RUN] Would create unclaimed coach profile: Jeff Opalewski (jeffrey.opalewski@unlv.edu) → coaches/jeffrey.opalewski
+[DRY RUN] Would create unclaimed coach profile: Nick Rush (nicholas.rush@unlv.edu) → coaches/nicholas.rush
+[DRY RUN] Would create unclaimed coach profile: Josh Pastner (joshua.pastner@unlv.edu) → coaches/joshua.pastner
+[DRY RUN] Would create unclaimed coach profile: Jozee Dean (josephine.decunzo@unlv.edu) → coaches/josephine.decunzo | Phone: (702) 895-3295
+[DRY RUN] Would create unclaimed coach profile: Scott Garson (scott.garson@unlv.edu) → coaches/scott.garson
+[DRY RUN] Would create unclaimed coach profile: Anthony Wilkins (anthony.wilkins@unlv.edu) → coaches/anthony.wilkins
+[DRY RUN] Would create unclaimed coach profile: Justin Hawkins (justin.hawkinsyoung@unlv.edu) → coaches/justin.hawkinsyoung
+[DRY RUN] Would create unclaimed coach profile: Jon Wall (jonathan.wall@unlv.edu) → coaches/jonathan.wall
+[DRY RUN] Would create unclaimed coach profile: Roman Owen (roman.owen@unlv.edu) → coaches/roman.owen | Phone: (702) 895-1174
+[DRY RUN] Would create unclaimed coach profile: Mia Bell (mia.bell@unlv.edu) → coaches/mia.bell | Phone: (702) 895-4138
+[DRY RUN] Would create unclaimed coach profile: Joslyn Tinkle (Joslyn.tinkle@unlv.edu) → coaches/Joslyn.tinkle
+[DRY RUN] Would create unclaimed coach profile: Del Alexander (delvaughn.alexander@unlv.edu) → coaches/delvaughn.alexander | Phone: (702) 895-3538
+[DRY RUN] Would create unclaimed coach profile: Jean-Paul Hebert (jean-paul.hebert@unlv.edu) → coaches/jean-paul.hebert | Phone: (702) 895-3714
+[DRY RUN] Would create unclaimed coach profile: Spencer Dunaway (spencer.dunaway@unlv.edu) → coaches/spencer.dunaway | Phone: (702) 895-3714
+[DRY RUN] Would create unclaimed coach profile: Amy Bush-Herzer (amy.bush@unlv.edu) → coaches/amy.bush | Phone: (702) 895-2091
+[DRY RUN] Would create unclaimed coach profile: Luka Mudde (luka.vandermerwe@unlv.edu) → coaches/luka.vandermerwe
+[DRY RUN] Would create unclaimed coach profile: BJ Craig (bj.craig@unlv.edu) → coaches/bj.craig | Phone: (702) 895-1033
+[DRY RUN] Would create unclaimed coach profile: David Casper (david.casper@unlv.edu) → coaches/david.casper
+[DRY RUN] Would create unclaimed coach profile: Micah Craig (micah.craig@unlv.edu) → coaches/micah.craig
+[DRY RUN] Would create unclaimed coach profile: Jenny Williams (jennifer.williams@unlv.edu) → coaches/jennifer.williams
+[DRY RUN] Would create unclaimed coach profile: Jenna Olson (jenna.olson@unlv.edu) → coaches/jenna.olson
+[DRY RUN] Would create unclaimed coach profile: Casey Collins (casey.collins@unlv.edu) → coaches/casey.collins
+[DRY RUN] Would create unclaimed coach profile: Kristie Fox (kristie.Jarvis@unlv.edu) → coaches/kristie.Jarvis | Phone: (702) 895-3916
+[DRY RUN] Would create unclaimed coach profile: Andy Jarvis (andrew.jarvis@unlv.edu) → coaches/andrew.jarvis | Phone: (702) 895-4773
+[DRY RUN] Would create unclaimed coach profile: Anthony Aresco (anthony.aresco@unlv.edu) → coaches/anthony.aresco | Phone: (702) 895-4018
+[DRY RUN] Would create unclaimed coach profile: Maddie Schmidt (madeline.schmidt@unlv.edu) → coaches/madeline.schmidt
+[DRY RUN] Would create unclaimed coach profile: Marca Decastroverde (marca.decastroverde@unlv.edu) → coaches/marca.decastroverde
+[DRY RUN] Would create unclaimed coach profile: Brandi Slade (brandi-lynn.slade@unlv.edu) → coaches/brandi-lynn.slade
+[DRY RUN] Would create unclaimed coach profile: Kaitlyn Curtis (kaitlyn.curtis@unlv.edu) → coaches/kaitlyn.curtis
+[DRY RUN] Would create unclaimed coach profile: Ashton Gammarano (ashton.gammarano@unlv.edu) → coaches/ashton.gammarano
+[DRY RUN] Would create unclaimed coach profile: Pat Ota (pat.ota@unlv.edu) → coaches/pat.ota | Phone: (702) 895-3636
+[DRY RUN] Would create unclaimed coach profile: Julia Fehervari (julia.fehervari@unlv.edu) → coaches/julia.fehervari | Phone: (702) 895-3765
+[DRY RUN] Would create unclaimed coach profile: Pieter Ritz (pieter.ritz@unlv.edu) → coaches/pieter.ritz | Phone: (702) 895-3765
+[DRY RUN] Would create unclaimed coach profile: Dan Carrington (dan.carrington@unlv.edu) → coaches/dan.carrington
+[DRY RUN] Would create unclaimed coach profile: Andy Jackson (andy.jackson@unlv.edu) → coaches/andy.jackson | Phone: (702) 895-4489
+[DRY RUN] Would create unclaimed coach profile: Denys Pume (denys.pume@unlv.edu) → coaches/denys.pume
+[DRY RUN] Would create unclaimed coach profile: Tetiana Luzhanska (tetiana.luzhanska@unlv.edu) → coaches/tetiana.luzhanska
+[DRY RUN] Would create unclaimed coach profile: Jose Bendeck (jose.bendeck@unlv.edu) → coaches/jose.bendeck | Phone: (702) 895-3009
+[DRY RUN] Would create unclaimed coach profile: Carmelita Jeter (carmelita.jeter@unlv.edu) → coaches/carmelita.jeter | Phone: (702) 895-3256
+[DRY RUN] Would create unclaimed coach profile: Jordan Roach (jordan.roach@unlv.edu) → coaches/jordan.roach
+[DRY RUN] Would create unclaimed coach profile: Adrain Mann (adrain.mann@unlv.edu) → coaches/adrain.mann
+[DRY RUN] Would create unclaimed coach profile: Brooke Koblitz (brooke.koblitz@unlv.edu) → coaches/brooke.koblitz
+[DRY RUN] Would create unclaimed coach profile: Deja Harris (deja.harris@unlv.edu) → coaches/deja.harris
+[DRY RUN] Would create unclaimed coach profile: Brian Magbitang (brian.magbitang@unlv.edu) → coaches/brian.magbitang
+[DRY RUN] Would create unclaimed coach profile: Ken Ko (ken.ko@unlv.edu) → coaches/ken.ko

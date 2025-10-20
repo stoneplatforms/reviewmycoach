@@ -1,0 +1,293 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:49
+============================================================
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rob Bauer
+   Email: bauerr@sandiego.edu
+   Username: bauerr
+   Original line: Rob Bauer Assistant Strength and Conditioning Coach (619) 260- bauerr@sandiego.edu
+
+2. Brock Ungricht
+   Email: bungricht@sandiego.edu
+   Username: bungricht
+   Original line: Brock Ungricht Head Coach bungricht@sandiego.edu
+
+3. Mitch Holland
+   Email: mitchellholland@sandiego.edu
+   Username: mitchellholland
+   Original line: Mitch Holland Assistant Coach mitchellholland@sandiego.edu
+
+4. Grady Miller
+   Email: gradymiller@sandiego.edu
+   Username: gradymiller
+   Original line: Grady Miller Assistant Coach - Pitching gradymiller@sandiego.edu
+
+5. Josh Nicoloff
+   Email: jnicoloff@sandiego.edu
+   Username: jnicoloff
+   Original line: Josh Nicoloff Assistant Coach jnicoloff@sandiego.edu
+
+6. Blanche Alverson
+   Email: valverson@sandiego.edu
+   Username: valverson
+   Original line: Blanche Alverson Head Coach valverson@sandiego.edu
+
+7. Samantha Guastella
+   Email: sguastella@sandiego.edu
+   Username: sguastella
+   Original line: Samantha Guastella Assistant Coach/Recruiting Coordinator sguastella@sandiego.edu
+
+8. Jon Silver
+   Email: jonathansilver@sandiego.edu
+   Username: jonathansilver
+   Original line: Jon Silver Assistant Coach jonathansilver@sandiego.edu
+
+9. Jualeah Woods
+   Email: jualeahwoods@sandiego.edu
+   Username: jualeahwoods
+   Original line: Jualeah Woods Assistant Coach jualeahwoods@sandiego.edu
+
+10. Bart Thompson
+   Email: bartthompson@sandiego.edu
+   Username: bartthompson
+   Original line: Bart Thompson Head Coach bartthompson@sandiego.edu
+
+11. Jordan Irving
+   Email: jirving@sandiego.edu
+   Username: jirving
+   Original line: Jordan Irving Assistant Coach jirving@sandiego.edu
+
+12. Charlotte Smith
+   Email: charlottesmith@sandiego.edu
+   Username: charlottesmith
+   Original line: Charlotte Smith Assistant Coach/Recruiting Coordinator charlottesmith@sandiego.edu
+
+13. Will Guarino
+   Email: wguarino@sandiego.edu
+   Username: wguarino
+   Original line: Will Guarino Head Coach wguarino@sandiego.edu
+
+14. Brandon Moore
+   Email: usdfootball@sandiego.edu
+   Username: usdfootball
+   Original line: Brandon Moore Head Coach usdfootball@sandiego.edu
+
+15. Isaac Carter
+   Email: usdfootball@sandiego.edu
+   Username: usdfootball
+   Original line: Isaac Carter Associate Head Coach/Co-Defensive Coordinator/Defensive usdfootball@sandiego.edu
+
+16. Mike McGlinchey
+   Email: usdfootball@sandiego.edu
+   Username: usdfootball
+   Original line: Mike McGlinchey Assistant Head Coach/Co-Defensive Coordinator/Defensive usdfootball@sandiego.edu
+
+17. Nick Fulton
+   Email: usdfootball@sandiego.edu
+   Username: usdfootball
+   Original line: Nick Fulton Offensive Coordinator/Quarterbacks Coach usdfootball@sandiego.edu
+
+18. Louis Cortes
+   Email: usdfootball@sandiego.edu
+   Username: usdfootball
+   Original line: Louis Cortes Special Teams Coordinator/Outside Linebackers Coach usdfootball@sandiego.edu
+
+19. Ryan Diedrick
+   Email: usdfootball@sandiego.edu
+   Username: usdfootball
+   Original line: Ryan Diedrick Wide Receivers Coach / Passing Game Coordinator usdfootball@sandiego.edu
+
+20. Austen Jacobs
+   Email: usdfootball@sandiego.edu
+   Username: usdfootball
+   Original line: Austen Jacobs Offensive Line Coach usdfootball@sandiego.edu
+
+21. Richard Brown
+   Email: usdfootball@sandiego.edu
+   Username: usdfootball
+   Original line: Richard Brown Wide Receivers Coach usdfootball@sandiego.edu
+
+22. Noah Reilly
+   Email: usdfootball@sandiego.edu
+   Username: usdfootball
+   Original line: Noah Reilly Inside Linebackers Coach usdfootball@sandiego.edu
+
+23. Mike Rish
+   Email: usdfootball@sandiego.edu
+   Username: usdfootball
+   Original line: Mike Rish Assistant Wide Receivers Coach/Administrative Assistant usdfootball@sandiego.edu
+
+24. LaRoi Glover
+   Email: usdfootball@sandiego.edu
+   Username: usdfootball
+   Original line: LaRoi Glover Assistant Defensive Line Coach usdfootball@sandiego.edu
+
+25. Evan Emerick
+   Email: eemerick@sandiego.edu
+   Username: eemerick
+   Original line: Evan Emerick Head Coach eemerick@sandiego.edu
+
+26. Sam Foust
+   Email: sfoust@sandiego.edu
+   Username: sfoust
+   Original line: Sam Foust Associate Head Coach sfoust@sandiego.edu
+
+27. Brian Quinn
+   Email: brianq@sandiego.edu
+   Username: brianq
+   Original line: Brian Quinn Head Coach (619) 260- brianq@sandiego.edu
+
+28. Mike "Nico"
+   Email: michaelnicholson@sandiego.edu
+   Username: michaelnicholson
+   Original line: Mike "Nico" Nicholson Associate Head Coach (619) 260- michaelnicholson@sandiego.edu
+
+29. Frankie Sanfilippo
+   Email: fsanfilippo@sandiego.edu
+   Username: fsanfilippo
+   Original line: Frankie Sanfilippo Assistant Coach fsanfilippo@sandiego.edu
+
+30. Greg LaPorte
+   Email: glaporte@sandiego.edu
+   Username: glaporte
+   Original line: Greg LaPorte Head Coach glaporte@sandiego.edu
+
+31. Matt Hall
+   Email: mihall@sandiego.edu
+   Username: mihall
+   Original line: Matt Hall Assistant Coach mihall@sandiego.edu
+
+32. Jackie Altschuld
+   Email: jaltschuld@sandiego.edu
+   Username: jaltschuld
+   Original line: Jackie Altschuld Assistant Coach jaltschuld@sandiego.edu
+
+33. MJ Knighten
+   Email: mknighten@sandiego.edu
+   Username: mknighten
+   Original line: MJ Knighten Head Coach (619) 260- mknighten@sandiego.edu
+
+34. Shay Knighten
+   Email: marshayleeknighten@sandiego.edu
+   Username: marshayleeknighten
+   Original line: Shay Knighten Assistant Coach marshayleeknighten@sandiego.edu
+
+35. KC Hellenkamp
+   Email: khellenkamp@sandiego.edu
+   Username: khellenkamp
+   Original line: KC Hellenkamp Head Coach • Dance khellenkamp@sandiego.edu
+
+36. Mike Keeler
+   Email: mkeeler@sandiego.edu
+   Username: mkeeler
+   Original line: Mike Keeler Head Coach (619) 260- mkeeler@sandiego.edu
+
+37. Shawna Ghausi
+   Email: sghausi@sandiego.edu
+   Username: sghausi
+   Original line: Shawna Ghausi Assistant Coach sghausi@sandiego.edu
+
+38. Amy Alexander
+   Email: aalexander@sandiego.edu
+   Username: aalexander
+   Original line: Amy Alexander Diving Coach (858) 354- aalexander@sandiego.edu
+
+39. Ryan Keckley
+   Email: ryankeckley@sandiego.edu
+   Username: ryankeckley
+   Original line: Ryan Keckley Head Coach ryankeckley@sandiego.edu
+
+40. Alex Funkhouser
+   Email: jfunkhouser@sandiego.edu
+   Username: jfunkhouser
+   Original line: Alex Funkhouser Associate Head Coach jfunkhouser@sandiego.edu
+
+41. Carlos Bracho
+   Email: cbracho@sandiego.edu
+   Username: cbracho
+   Original line: Carlos Bracho Assistant Coach cbracho@sandiego.edu
+
+42. Nadia Abdala
+   Email: nabdala@sandiego.edu
+   Username: nabdala
+   Original line: Nadia Abdala Head Coach (619) 260- nabdala@sandiego.edu
+
+43. Jordan Angus
+   Email: jangus@sandiego.edu
+   Username: jangus
+   Original line: Jordan Angus Associate Head Coach jangus@sandiego.edu
+
+44. Jennifer Petrie
+   Email: jenniferpetrie@sandiego.edu
+   Username: jenniferpetrie
+   Original line: Jennifer Petrie Head Coach (619) 260- jenniferpetrie@sandiego.edu
+
+45. Carlos Moreno
+   Email: carlosmoreno@sandiego.edu
+   Username: carlosmoreno
+   Original line: Carlos Moreno Associate Head Coach carlosmoreno@sandiego.edu
+
+46. John Dunn
+   Email: johndunn@sandiego.edu
+   Username: johndunn
+   Original line: John Dunn Assistant Coach/Recruiting Coordinator johndunn@sandiego.edu
+
+47. Casey Schoenlein
+   Email: cschoenlein@sandiego.edu
+   Username: cschoenlein
+   Original line: Casey Schoenlein Assistant Coach cschoenlein@sandiego.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rob Bauer Assistant Strength and Conditioning Coach (619) 260- bauerr@sandiego.edu
+• Brock Ungricht Head Coach bungricht@sandiego.edu
+• Mitch Holland Assistant Coach mitchellholland@sandiego.edu
+• Grady Miller Assistant Coach - Pitching gradymiller@sandiego.edu
+• Josh Nicoloff Assistant Coach jnicoloff@sandiego.edu
+• Blanche Alverson Head Coach valverson@sandiego.edu
+• Samantha Guastella Assistant Coach/Recruiting Coordinator sguastella@sandiego.edu
+• Jon Silver Assistant Coach jonathansilver@sandiego.edu
+• Jualeah Woods Assistant Coach jualeahwoods@sandiego.edu
+• Bart Thompson Head Coach bartthompson@sandiego.edu
+• Jordan Irving Assistant Coach jirving@sandiego.edu
+• Charlotte Smith Assistant Coach/Recruiting Coordinator charlottesmith@sandiego.edu
+• Will Guarino Head Coach wguarino@sandiego.edu
+• Brandon Moore Head Coach usdfootball@sandiego.edu
+• Isaac Carter Associate Head Coach/Co-Defensive Coordinator/Defensive usdfootball@sandiego.edu
+• Mike McGlinchey Assistant Head Coach/Co-Defensive Coordinator/Defensive usdfootball@sandiego.edu
+• Nick Fulton Offensive Coordinator/Quarterbacks Coach usdfootball@sandiego.edu
+• Louis Cortes Special Teams Coordinator/Outside Linebackers Coach usdfootball@sandiego.edu
+• Ryan Diedrick Wide Receivers Coach / Passing Game Coordinator usdfootball@sandiego.edu
+• Austen Jacobs Offensive Line Coach usdfootball@sandiego.edu
+• Richard Brown Wide Receivers Coach usdfootball@sandiego.edu
+• Noah Reilly Inside Linebackers Coach usdfootball@sandiego.edu
+• Mike Rish Assistant Wide Receivers Coach/Administrative Assistant usdfootball@sandiego.edu
+• LaRoi Glover Assistant Defensive Line Coach usdfootball@sandiego.edu
+• Evan Emerick Head Coach eemerick@sandiego.edu
+• Sam Foust Associate Head Coach sfoust@sandiego.edu
+• Brian Quinn Head Coach (619) 260- brianq@sandiego.edu
+• Mike "Nico" Nicholson Associate Head Coach (619) 260- michaelnicholson@sandiego.edu
+• Frankie Sanfilippo Assistant Coach fsanfilippo@sandiego.edu
+• Greg LaPorte Head Coach glaporte@sandiego.edu
+• Matt Hall Assistant Coach mihall@sandiego.edu
+• Jackie Altschuld Assistant Coach jaltschuld@sandiego.edu
+• MJ Knighten Head Coach (619) 260- mknighten@sandiego.edu
+• Shay Knighten Assistant Coach marshayleeknighten@sandiego.edu
+• KC Hellenkamp Head Coach • Dance khellenkamp@sandiego.edu
+• Mike Keeler Head Coach (619) 260- mkeeler@sandiego.edu
+• Shawna Ghausi Assistant Coach sghausi@sandiego.edu
+• Amy Alexander Diving Coach (858) 354- aalexander@sandiego.edu
+• Ryan Keckley Head Coach ryankeckley@sandiego.edu
+• Alex Funkhouser Associate Head Coach jfunkhouser@sandiego.edu
+• Carlos Bracho Assistant Coach cbracho@sandiego.edu
+• Nadia Abdala Head Coach (619) 260- nabdala@sandiego.edu
+• Jordan Angus Associate Head Coach jangus@sandiego.edu
+• Jennifer Petrie Head Coach (619) 260- jenniferpetrie@sandiego.edu
+• Carlos Moreno Associate Head Coach carlosmoreno@sandiego.edu
+• John Dunn Assistant Coach/Recruiting Coordinator johndunn@sandiego.edu
+• Casey Schoenlein Assistant Coach cschoenlein@sandiego.edu

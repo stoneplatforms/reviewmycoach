@@ -1,0 +1,246 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:43
+============================================================
+
+Total coaches found: 34
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ben Kincaid
+   Email: kincaidb@uwstout.edu
+   Username: kincaidb
+   Phone: (715) 232-1459
+   Original line: Ben Kincaid Head Coach kincaidb@uwstout.edu 715-232-1459 217E Sports &
+
+2. Jake Carter
+   Email: carterjac@uwstout.edu
+   Username: carterjac
+   Phone: (217) 710-9192
+   Original line: Jake Carter Assistant Coach carterjac@uwstout.edu c: 217-710-9192 245 Sports &
+
+3. Tom Webb
+   Email: webbto@uwstout.edu
+   Username: webbto
+   Phone: (715) 232-1337
+   Original line: Tom Webb Interim Head Coach webbto@uwstout.edu o:715-232-1337 222C Sports &
+
+4. Tim Wagner
+   Email: wagnert@uwstout.edu
+   Username: wagnert
+   Original line: Tim Wagner Assistant Coach wagnert@uwstout.edu 222D Sports &
+
+5. Kyleigh Fanning
+   Email: fanningky@uwstout.edu
+   Username: fanningky
+   Phone: (715) 232-4076
+   Original line: Kyleigh Fanning Associate Head Coach fanningky@uwstout.edu 715-232-4076 222i Sports &
+
+6. Brooke Olson
+   Email: olsonbro@uwstout.edu
+   Username: olsonbro
+   Phone: (715) 232-2106
+   Original line: Brooke Olson Assistant Coach olsonbro@uwstout.edu 715-232-2106 222F Sports &
+
+7. Matt Schauf
+   Email: schaufm@uwstout.edu
+   Username: schaufm
+   Phone: (715) 232-1424
+   Original line: Matt Schauf Cross Country Head Coach schaufm@uwstout.edu o:715-232-1424 212 Sports &
+
+8. Parker Huhn
+   Email: huhnp@uwstout.edu
+   Username: huhnp
+   Phone: (563) 340-4070
+   Original line: Parker Huhn Assistant Coach - Distance/Mid huhnp@uwstout.edu c: 563-340-4070 214A Sports &
+
+9. Samantha Ziwicki
+   Email: ziwickis@uwstout.edu
+   Username: ziwickis
+   Phone: (320) 290-6705
+   Original line: Samantha Ziwicki Head Coach ziwickis@uwstout.edu c:320-290-6705
+
+10. Aaron Froelich
+   Email: froelicha@uwstout.edu
+   Username: froelicha
+   Phone: (715) 232-1488
+   Original line: Aaron Froelich Head Coach froelicha@uwstout.edu 715-232-1488
+
+11. Clayt Birmingham
+   Email: birminghamc@uwstout.edu
+   Username: birminghamc
+   Phone: (715) 232-2203
+   Original line: Clayt Birmingham Head Coach birminghamc@uwstout.edu o:715-232-2203 246 Sports &
+
+12. Derek Branch
+   Email: branchd@uwstout.edu
+   Username: branchd
+   Phone: (715) 232-5187
+   Original line: Derek Branch Assistant Coach - Offensive Line branchd@uwstout.edu 715-232-5187 244 Sports &
+
+13. Jake Schiff
+   Email: schiffj@uwstout.edu
+   Username: schiffj
+   Phone: (715) 232-5234
+   Original line: Jake Schiff Assistant Coach - Defensive schiffj@uwstout.edu o:715-232-5234 243 Sports &
+
+14. Kobe Berghammer
+   Email: berghammerk@uwstout.edu
+   Username: berghammerk
+   Phone: (715) 232-5243
+   Original line: Kobe Berghammer Assistant Coach - Quarterbacks berghammerk@uwstout.edu 715-232-5243 243 Sports &
+
+15. Sophia Connett
+   Email: yoemanss@uwstout.edu
+   Username: yoemanss
+   Phone: (715) 232-1134
+   Original line: Sophia Connett Head Women's Golf Coach yoemanss@uwstout.edu o:715-232-1134
+
+16. Kj Wheeler
+   Email: wheelerkj@uwstout.edu
+   Username: wheelerkj
+   Phone: (715) 232-2051
+   Original line: Kj Wheeler Head Coach wheelerkj@uwstout.edu 715-232-2051 224A Sports &
+
+17. Eli Stark-Haws
+   Email: stark-hawse@uwstout.edu
+   Username: stark-hawse
+   Original line: Eli Stark-Haws Assistant Coach stark-hawse@uwstout.edu 210 Sports &
+
+18. Mike MacDonald
+   Email: macdonaldm@uwstout.edu
+   Username: macdonaldm
+   Phone: (715) 232-1258
+   Original line: Mike MacDonald Head Coach macdonaldm@uwstout.edu 715-232-1258 222E Sports &
+
+19. Justin Moody
+   Email: moodyj@uwstout.edu
+   Username: moodyj
+   Original line: Justin Moody Assistant Coach moodyj@uwstout.edu 210 Sports &
+
+20. Mikayla Knudson
+   Email: knudsonm@uwstout.edu
+   Username: knudsonm
+   Phone: (715) 232-5403
+   Original line: Mikayla Knudson Head Coach knudsonm@uwstout.edu 715-232-5403 224 Sports &
+
+21. Cole Schwartz
+   Email: schwartzco@uwstout.edu
+   Username: schwartzco
+   Phone: (218) 839-7806
+   Original line: Cole Schwartz Head Coach schwartzco@uwstout.edu c:218-839-7806 217D Sports &
+
+22. Alex Schnobrich
+   Email: schnobrichal@uwstout.edu
+   Username: schnobrichal
+   Phone: (651) 703-7432
+   Original line: Alex Schnobrich Assistant Coach schnobrichal@uwstout.edu c: 651-703-7432 210 Sports &
+
+23. Marcos Rodriguez
+   Email: rodriguezma@uwstout.edu
+   Username: rodriguezma
+   Phone: (715) 232-1111
+   Original line: Marcos Rodriguez Head Coach rodriguezma@uwstout.edu o:715-232-1111 217B Sports &
+
+24. Joshua Sanderson
+   Email: sandersonj@uwstout.edu
+   Username: sandersonj
+   Phone: (715) 232-2311
+   Original line: Joshua Sanderson Assistant Coach sandersonj@uwstout.edu 715-232-2311 217C Sports &
+
+25. Lakyn Krizan
+   Email: wagonerl@uwstout.edu
+   Username: wagonerl
+   Phone: (309) 357-3308
+   Original line: Lakyn Krizan Head Coach wagonerl@uwstout.edu c: 309-357-3308 213 Sports &
+
+26. Travis Miller
+   Email: millertr@uwstout.edu
+   Username: millertr
+   Phone: (715) 232-1162
+   Original line: Travis Miller Assistant Coach millertr@uwstout.edu 715-232-1162 106 Sports &
+
+27. Anthony Michels
+   Email: michelsa@uwstout.edu
+   Username: michelsa
+   Phone: (715) 232-2489
+   Original line: Anthony Michels Head Coach / Assistant Sports michelsa@uwstout.edu o: 715-232-2489 217A Sports &
+
+28. Kyle Steiner
+   Email: steinerky@uwstout.edu
+   Username: steinerky
+   Phone: (715) 232-2371
+   Original line: Kyle Steiner Head Coach - Pole Vault/Multis steinerky@uwstout.edu o:715-232-2371 216 Sports &
+
+29. Jessica Devine
+   Email: devineje@uwstout.edu
+   Username: devineje
+   Phone: (715) 232-3491
+   Original line: Jessica Devine Associate Head Coach - devineje@uwstout.edu 715-232-3491 215 Sports &
+
+30. Matt Schauf
+   Email: schaufm@uwstout.edu
+   Username: schaufm
+   Phone: (715) 232-1424
+   Original line: Matt Schauf Cross Country Head Coach schaufm@uwstout.edu o:715-232-1424 212 Sports &
+
+31. Erin Kasper
+   Email: kaspere@uwstout.edu
+   Username: kaspere
+   Phone: (715) 232-1880
+   Original line: Erin Kasper Assistant Coach - Jumps kaspere@uwstout.edu 715-232-1880 215 Sports &
+
+32. Parker Huhn
+   Email: huhnp@uwstout.edu
+   Username: huhnp
+   Phone: (563) 340-4070
+   Original line: Parker Huhn Assistant Coach - Distance/Mid huhnp@uwstout.edu c: 563-340-4070 214A Sports &
+
+33. Ben Staupe
+   Email: staupeb@uwstout.edu
+   Username: staupeb
+   Phone: (715) 232-5439
+   Original line: Ben Staupe Head Coach staupeb@uwstout.edu o:715-232-5439 222H Sports &
+
+34. Sheridan Dettmann
+   Email: dettmanns@uwstout.edu
+   Username: dettmanns
+   Phone: (715) 232-5151
+   Original line: Sheridan Dettmann Assistant Coach dettmanns@uwstout.edu 715-232-5151 222F Sports &
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ben Kincaid Head Coach kincaidb@uwstout.edu 715-232-1459 217E Sports &
+• Jake Carter Assistant Coach carterjac@uwstout.edu c: 217-710-9192 245 Sports &
+• Tom Webb Interim Head Coach webbto@uwstout.edu o:715-232-1337 222C Sports &
+• Tim Wagner Assistant Coach wagnert@uwstout.edu 222D Sports &
+• Kyleigh Fanning Associate Head Coach fanningky@uwstout.edu 715-232-4076 222i Sports &
+• Brooke Olson Assistant Coach olsonbro@uwstout.edu 715-232-2106 222F Sports &
+• Matt Schauf Cross Country Head Coach schaufm@uwstout.edu o:715-232-1424 212 Sports &
+• Parker Huhn Assistant Coach - Distance/Mid huhnp@uwstout.edu c: 563-340-4070 214A Sports &
+• Samantha Ziwicki Head Coach ziwickis@uwstout.edu c:320-290-6705
+• Aaron Froelich Head Coach froelicha@uwstout.edu 715-232-1488
+• Clayt Birmingham Head Coach birminghamc@uwstout.edu o:715-232-2203 246 Sports &
+• Derek Branch Assistant Coach - Offensive Line branchd@uwstout.edu 715-232-5187 244 Sports &
+• Jake Schiff Assistant Coach - Defensive schiffj@uwstout.edu o:715-232-5234 243 Sports &
+• Kobe Berghammer Assistant Coach - Quarterbacks berghammerk@uwstout.edu 715-232-5243 243 Sports &
+• Sophia Connett Head Women's Golf Coach yoemanss@uwstout.edu o:715-232-1134
+• Kj Wheeler Head Coach wheelerkj@uwstout.edu 715-232-2051 224A Sports &
+• Eli Stark-Haws Assistant Coach stark-hawse@uwstout.edu 210 Sports &
+• Mike MacDonald Head Coach macdonaldm@uwstout.edu 715-232-1258 222E Sports &
+• Justin Moody Assistant Coach moodyj@uwstout.edu 210 Sports &
+• Mikayla Knudson Head Coach knudsonm@uwstout.edu 715-232-5403 224 Sports &
+• Cole Schwartz Head Coach schwartzco@uwstout.edu c:218-839-7806 217D Sports &
+• Alex Schnobrich Assistant Coach schnobrichal@uwstout.edu c: 651-703-7432 210 Sports &
+• Marcos Rodriguez Head Coach rodriguezma@uwstout.edu o:715-232-1111 217B Sports &
+• Joshua Sanderson Assistant Coach sandersonj@uwstout.edu 715-232-2311 217C Sports &
+• Lakyn Krizan Head Coach wagonerl@uwstout.edu c: 309-357-3308 213 Sports &
+• Travis Miller Assistant Coach millertr@uwstout.edu 715-232-1162 106 Sports &
+• Anthony Michels Head Coach / Assistant Sports michelsa@uwstout.edu o: 715-232-2489 217A Sports &
+• Kyle Steiner Head Coach - Pole Vault/Multis steinerky@uwstout.edu o:715-232-2371 216 Sports &
+• Jessica Devine Associate Head Coach - devineje@uwstout.edu 715-232-3491 215 Sports &
+• Matt Schauf Cross Country Head Coach schaufm@uwstout.edu o:715-232-1424 212 Sports &
+• Erin Kasper Assistant Coach - Jumps kaspere@uwstout.edu 715-232-1880 215 Sports &
+• Parker Huhn Assistant Coach - Distance/Mid huhnp@uwstout.edu c: 563-340-4070 214A Sports &
+• Ben Staupe Head Coach staupeb@uwstout.edu o:715-232-5439 222H Sports &
+• Sheridan Dettmann Assistant Coach dettmanns@uwstout.edu 715-232-5151 222F Sports &

@@ -1,0 +1,293 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:37
+============================================================
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. Amy Erickson
+   Email: aerickson@carleton.edu
+   Username: aerickson
+   Original line: Amy Erickson Softball Head Coach/ Senior Woman Administrator aerickson@carleton.edu 507-222-
+
+2. Alec Holcomb
+   Email: aholcomb@carleton.edu
+   Username: aholcomb
+   Original line: Alec Holcomb Baseball Head Coach aholcomb@carleton.edu 507-222-
+
+3. Ryan Kershaw
+   Email: rkershaw@carleton.edu
+   Username: rkershaw
+   Original line: Ryan Kershaw Men's Basketball Head Coach rkershaw@carleton.edu 507-222-
+
+4. Tyler Grey
+   Email: tgrey@carleton.edu
+   Username: tgrey
+   Original line: Tyler Grey Men's Basketball Assistant Coach/ Asst. Sports Information Dir. tgrey@carleton.edu 507-222-
+
+5. Steve Knutson
+   Email: stevekhoops@gmail.com
+   Username: stevekhoops
+   Original line: Steve Knutson Men's Basketball Assistant Coach stevekhoops@gmail.com 507-222-
+
+6. Tammy Metcalf-Filzen
+   Email: tmetcalf@carleton.edu
+   Username: tmetcalf
+   Original line: Tammy Metcalf-Filzen Women's Basketball Head Coach tmetcalf@carleton.edu 507-222-
+
+7. Alisha Hvistendahl
+   Email: ahvistendahl@carleton.edu
+   Username: ahvistendahl
+   Original line: Alisha Hvistendahl Women's Basketball Assistant Coach and Recruiting Coordinator/ Asst. Sports ahvistendahl@carleton.edu 507-222-
+
+8. Dave Ricks
+   Email: daricks@carleton.edu
+   Username: daricks
+   Original line: Dave Ricks Men’s Cross Country/Track & Field Head Coach daricks@carleton.edu 507-222-
+
+9. Josh Schoen
+   Email: jschoen@carleton.edu
+   Username: jschoen
+   Original line: Josh Schoen Men’s Cross Country/Track & Field Assistant Coach jschoen@carleton.edu 507-222-
+
+10. Jesse Schoen
+   Email: jeschoen@carleton.edu
+   Username: jeschoen
+   Original line: Jesse Schoen Men's Cross Country/Track & Field Assistant Coach jeschoen@carleton.edu 507-222-
+
+11. Donna Ricks
+   Email: dricks@carleton.edu
+   Username: dricks
+   Original line: Donna Ricks Women’s Cross Country/Track & Field Head Coach dricks@carleton.edu 507-222-
+
+12. Laura Albares
+   Email: lalbares@carleton.edu
+   Username: lalbares
+   Original line: Laura Albares Women’s Cross Country/Track & Field Assistant Coach lalbares@carleton.edu 507-222-
+
+13. Jesse Schoen
+   Email: jeschoen@carleton.edu
+   Username: jeschoen
+   Original line: Jesse Schoen Men's Cross Country/Track & Field Assistant Coach jeschoen@carleton.edu 507-222-
+
+14. Tom Journell
+   Email: tjournell@carleton.edu
+   Username: tjournell
+   Original line: Tom Journell Football Head Coach tjournell@carleton.edu 507-222-
+
+15. Sam Kent
+   Email: skent@carleton.edu
+   Username: skent
+   Original line: Sam Kent Football Assistant Head Coach/Defensive Coordinator skent@carleton.edu
+
+16. Alex Balogh
+   Email: abalogh@carleton.edu
+   Username: abalogh
+   Original line: Alex Balogh Football Assistant Coach/Offensive Coordinator abalogh@carleton.edu TBD
+
+17. Dennis Lee
+   Email: dlee3@carleton.edu
+   Username: dlee3
+   Original line: Dennis Lee Football Assistant Coach/Run Game Coordinator/Recruiting Coordinator dlee3@carleton.edu 507-222-
+
+18. Sloan Wallgren
+   Email: swallgren@carleton.edu
+   Username: swallgren
+   Original line: Sloan Wallgren Men’s Golf / Women's Golf Head Coach swallgren@carleton.edu 507-222-
+
+19. Alyssa Akiyama
+   Email: aakiyama@carleton.edu
+   Username: aakiyama
+   Original line: Alyssa Akiyama Men's Golf / Women's Golf Assistant Coach aakiyama@carleton.edu
+
+20. Sloan Wallgren
+   Email: swallgren@carleton.edu
+   Username: swallgren
+   Original line: Sloan Wallgren Men’s Golf / Women's Golf Head Coach swallgren@carleton.edu 507-222-
+
+21. Alyssa Akiyama
+   Email: aakiyama@carleton.edu
+   Username: aakiyama
+   Original line: Alyssa Akiyama Men's Golf / Women's Golf Assistant Coach aakiyama@carleton.edu
+
+22. Bob Carlson
+   Email: rcarlson@carleton.edu
+   Username: rcarlson
+   Original line: Bob Carlson Men’s Soccer Head Coach rcarlson@carleton.edu 507-222-
+
+23. Joe Hartwell
+   Email: joseph.hartwell@gmail.com
+   Username: joseph.hartwell
+   Original line: Joe Hartwell Men’s Soccer Assistant Coach joseph.hartwell@gmail.com 507-222-
+
+24. Trevor Jones
+   Email: jonest3@carleton.edu
+   Username: jonest3
+   Original line: Trevor Jones Men's Soccer Assistant Coach/Recruiting Coordinator jonest3@carleton.edu
+
+25. Jessica Mueller
+   Email: jjmueller@carleton.edu
+   Username: jjmueller
+   Original line: Jessica Mueller Women’s Soccer Head Coach jjmueller@carleton.edu 507-222-
+
+26. Amy Erickson
+   Email: aerickson@carleton.edu
+   Username: aerickson
+   Original line: Amy Erickson Softball Head Coach/ Senior Woman Administrator aerickson@carleton.edu 507-222-
+
+27. Kierstyn Foley
+   Email: kfoley3@carleton.edu
+   Username: kfoley3
+   Original line: Kierstyn Foley Athletic Events Coordinator/ Assistant Softball Coach kfoley3@carleton.edu TBD
+
+28. Karen Johnson
+   Email: kcrane@carleton.edu
+   Username: kcrane
+   Original line: Karen Johnson Softball Assistant Coach kcrane@carleton.edu
+
+29. Tyler Grey
+   Email: tgrey@carleton.edu
+   Username: tgrey
+   Original line: Tyler Grey Men's Basketball Assistant Coach/ Asst. Sports Information Dir. tgrey@carleton.edu 507-222-
+
+30. Alisha Hvistendahl
+   Email: ahvistendahl@carleton.edu
+   Username: ahvistendahl
+   Original line: Alisha Hvistendahl Women's Basketball Assistant Coach and Recruiting Coordinator/ Asst. Sports ahvistendahl@carleton.edu 507-222-
+
+31. Marcus Pearson
+   Email: mpearson2@carleton.edu
+   Username: mpearson2
+   Original line: Marcus Pearson Strength & Conditioning Head Coach mpearson2@carleton.edu 507-222-
+
+32. Andy Clark
+   Email: aclark@carleton.edu
+   Username: aclark
+   Original line: Andy Clark Men’s/Women’s Swimming & Diving Head Coach aclark@carleton.edu 507-222-
+
+33. Brooke Plotz
+   Email: bplotz@carleton.edu
+   Username: bplotz
+   Original line: Brooke Plotz Men’s/Women’s Swimming & Diving Associate Head Coach bplotz@carleton.edu 507-222-
+
+34. Gabe Kortuem
+   Email: gkortuem@carleton.edu
+   Username: gkortuem
+   Original line: Gabe Kortuem Men’s/Women’s Diving Assistant Coach gkortuem@carleton.edu 507-222-
+
+35. Stephan Zweifel
+   Email: szweifel@carleton.edu
+   Username: szweifel
+   Original line: Stephan Zweifel Men’s Tennis Head Coach / Professor of Biology szweifel@carleton.edu 507-222-
+
+36. Nick Crossley
+   Email: ncrossley@carleton.edu
+   Username: ncrossley
+   Original line: Nick Crossley Men’s Tennis Assistant Coach ncrossley@carleton.edu 507-222-
+
+37. Josh Heiden
+   Email: jheiden@carleton.edu
+   Username: jheiden
+   Original line: Josh Heiden Men's Tennis Assistant Coach jheiden@carleton.edu
+
+38. Luciano Battaglini
+   Email: lhbattag@carleton.edu
+   Username: lhbattag
+   Original line: Luciano Battaglini Women’s Tennis Head Coach lhbattag@carleton.edu 507-222-
+
+39. Dave Ricks
+   Email: daricks@carleton.edu
+   Username: daricks
+   Original line: Dave Ricks Men’s Cross Country/Track & Field Head Coach daricks@carleton.edu 507-222-
+
+40. Josh Schoen
+   Email: jschoen@carleton.edu
+   Username: jschoen
+   Original line: Josh Schoen Men’s Cross Country/Track & Field Assistant Coach jschoen@carleton.edu 507-222-
+
+41. Jesse Schoen
+   Email: jeschoen@carleton.edu
+   Username: jeschoen
+   Original line: Jesse Schoen Men's Cross Country/Track & Field Assistant Coach jeschoen@carleton.edu 507-222-
+
+42. Karissa Ricks
+   Email: kricks@carleton.edu
+   Username: kricks
+   Original line: Karissa Ricks Men's and Women’s Track & Field Assistant Coach kricks@carleton.edu 507-222-
+
+43. Donna Ricks
+   Email: dricks@carleton.edu
+   Username: dricks
+   Original line: Donna Ricks Women’s Cross Country/Track & Field Head Coach dricks@carleton.edu 507-222-
+
+44. Laura Albares
+   Email: lalbares@carleton.edu
+   Username: lalbares
+   Original line: Laura Albares Women’s Cross Country/Track & Field Assistant Coach lalbares@carleton.edu 507-222-
+
+45. Kurt Hasenstein
+   Email: khasenstein@carleton.edu
+   Username: khasenstein
+   Original line: Kurt Hasenstein Women’s Track & Field Assistant Coach khasenstein@carleton.edu
+
+46. Karissa Ricks
+   Email: kricks@carleton.edu
+   Username: kricks
+   Original line: Karissa Ricks Men's and Women’s Track & Field Assistant Coach kricks@carleton.edu 507-222-
+
+47. Abby Walton
+   Email: amonson2@carleton.edu
+   Username: amonson2
+   Original line: Abby Walton Volleyball Head Coach amonson2@carleton.edu 507-222-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Amy Erickson Softball Head Coach/ Senior Woman Administrator aerickson@carleton.edu 507-222-
+• Alec Holcomb Baseball Head Coach aholcomb@carleton.edu 507-222-
+• Ryan Kershaw Men's Basketball Head Coach rkershaw@carleton.edu 507-222-
+• Tyler Grey Men's Basketball Assistant Coach/ Asst. Sports Information Dir. tgrey@carleton.edu 507-222-
+• Steve Knutson Men's Basketball Assistant Coach stevekhoops@gmail.com 507-222-
+• Tammy Metcalf-Filzen Women's Basketball Head Coach tmetcalf@carleton.edu 507-222-
+• Alisha Hvistendahl Women's Basketball Assistant Coach and Recruiting Coordinator/ Asst. Sports ahvistendahl@carleton.edu 507-222-
+• Dave Ricks Men’s Cross Country/Track & Field Head Coach daricks@carleton.edu 507-222-
+• Josh Schoen Men’s Cross Country/Track & Field Assistant Coach jschoen@carleton.edu 507-222-
+• Jesse Schoen Men's Cross Country/Track & Field Assistant Coach jeschoen@carleton.edu 507-222-
+• Donna Ricks Women’s Cross Country/Track & Field Head Coach dricks@carleton.edu 507-222-
+• Laura Albares Women’s Cross Country/Track & Field Assistant Coach lalbares@carleton.edu 507-222-
+• Jesse Schoen Men's Cross Country/Track & Field Assistant Coach jeschoen@carleton.edu 507-222-
+• Tom Journell Football Head Coach tjournell@carleton.edu 507-222-
+• Sam Kent Football Assistant Head Coach/Defensive Coordinator skent@carleton.edu
+• Alex Balogh Football Assistant Coach/Offensive Coordinator abalogh@carleton.edu TBD
+• Dennis Lee Football Assistant Coach/Run Game Coordinator/Recruiting Coordinator dlee3@carleton.edu 507-222-
+• Sloan Wallgren Men’s Golf / Women's Golf Head Coach swallgren@carleton.edu 507-222-
+• Alyssa Akiyama Men's Golf / Women's Golf Assistant Coach aakiyama@carleton.edu
+• Sloan Wallgren Men’s Golf / Women's Golf Head Coach swallgren@carleton.edu 507-222-
+• Alyssa Akiyama Men's Golf / Women's Golf Assistant Coach aakiyama@carleton.edu
+• Bob Carlson Men’s Soccer Head Coach rcarlson@carleton.edu 507-222-
+• Joe Hartwell Men’s Soccer Assistant Coach joseph.hartwell@gmail.com 507-222-
+• Trevor Jones Men's Soccer Assistant Coach/Recruiting Coordinator jonest3@carleton.edu
+• Jessica Mueller Women’s Soccer Head Coach jjmueller@carleton.edu 507-222-
+• Amy Erickson Softball Head Coach/ Senior Woman Administrator aerickson@carleton.edu 507-222-
+• Kierstyn Foley Athletic Events Coordinator/ Assistant Softball Coach kfoley3@carleton.edu TBD
+• Karen Johnson Softball Assistant Coach kcrane@carleton.edu
+• Tyler Grey Men's Basketball Assistant Coach/ Asst. Sports Information Dir. tgrey@carleton.edu 507-222-
+• Alisha Hvistendahl Women's Basketball Assistant Coach and Recruiting Coordinator/ Asst. Sports ahvistendahl@carleton.edu 507-222-
+• Marcus Pearson Strength & Conditioning Head Coach mpearson2@carleton.edu 507-222-
+• Andy Clark Men’s/Women’s Swimming & Diving Head Coach aclark@carleton.edu 507-222-
+• Brooke Plotz Men’s/Women’s Swimming & Diving Associate Head Coach bplotz@carleton.edu 507-222-
+• Gabe Kortuem Men’s/Women’s Diving Assistant Coach gkortuem@carleton.edu 507-222-
+• Stephan Zweifel Men’s Tennis Head Coach / Professor of Biology szweifel@carleton.edu 507-222-
+• Nick Crossley Men’s Tennis Assistant Coach ncrossley@carleton.edu 507-222-
+• Josh Heiden Men's Tennis Assistant Coach jheiden@carleton.edu
+• Luciano Battaglini Women’s Tennis Head Coach lhbattag@carleton.edu 507-222-
+• Dave Ricks Men’s Cross Country/Track & Field Head Coach daricks@carleton.edu 507-222-
+• Josh Schoen Men’s Cross Country/Track & Field Assistant Coach jschoen@carleton.edu 507-222-
+• Jesse Schoen Men's Cross Country/Track & Field Assistant Coach jeschoen@carleton.edu 507-222-
+• Karissa Ricks Men's and Women’s Track & Field Assistant Coach kricks@carleton.edu 507-222-
+• Donna Ricks Women’s Cross Country/Track & Field Head Coach dricks@carleton.edu 507-222-
+• Laura Albares Women’s Cross Country/Track & Field Assistant Coach lalbares@carleton.edu 507-222-
+• Kurt Hasenstein Women’s Track & Field Assistant Coach khasenstein@carleton.edu
+• Karissa Ricks Men's and Women’s Track & Field Assistant Coach kricks@carleton.edu 507-222-
+• Abby Walton Volleyball Head Coach amonson2@carleton.edu 507-222-

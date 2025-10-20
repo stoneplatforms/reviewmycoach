@@ -1,0 +1,254 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:16
+============================================================
+
+Total coaches found: 38
+
+PARSED ENTRIES:
+----------------------------------------
+1. Manny Cervantes
+   Email: manny.cervantes@asbury.edu
+   Username: manny.cervantes
+   Phone: (859) 858-3511
+   Original line: Manny Cervantes Head Coach manny.cervantes@asbury.edu 859-858-3511 x2452
+
+2. Wynn Harris
+   Email: winston.harris@asbury.edu
+   Username: winston.harris
+   Original line: Wynn Harris Assistant Coach winston.harris@asbury.edu
+
+3. Jackson Cole
+   Email: jackson.cole@asbury.edu
+   Username: jackson.cole
+   Original line: Jackson Cole Assistant Coach jackson.cole@asbury.edu
+
+4. Kaden Dugle
+   Email: kaden.dugle@asbury.edu
+   Username: kaden.dugle
+   Original line: Kaden Dugle Assistant Coach kaden.dugle@asbury.edu
+
+5. Will Shouse
+   Email: will.shouse@asbury.edu
+   Username: will.shouse
+   Phone: (859) 858-3511
+   Original line: Will Shouse Head Coach will.shouse@asbury.edu 859-858-3511 x2476
+
+6. Russ Abner
+   Email: russell.abner@asbury.edu
+   Username: russell.abner
+   Phone: (859) 858-3511
+   Original line: Russ Abner Associate Head Coach russell.abner@asbury.edu 859-858-3511 x2470
+
+7. Jim Freeman
+   Email: james.freeman@asbury.edu
+   Username: james.freeman
+   Original line: Jim Freeman Assistant Coach james.freeman@asbury.edu
+
+8. Blaine May
+   Email: blainemay22@gmail.com
+   Username: blainemay22
+   Original line: Blaine May Assistant Coach/JV Head Coach blainemay22@gmail.com
+
+9. Chad Mayes
+   Email: michael.mayes@asbury.edu
+   Username: michael.mayes
+   Phone: (859) 858-3511
+   Original line: Chad Mayes Head Coach michael.mayes@asbury.edu 859-858-3511 x2452
+
+10. Katie Wall
+   Email: katie.wall@asbury.edu
+   Username: katie.wall
+   Original line: Katie Wall Head Coach katie.wall@asbury.edu
+
+11. Tyanne Whitworth
+   Email: tyanne@me.com
+   Username: tyanne
+   Original line: Tyanne Whitworth Volunteer Assistant Coach tyanne@me.com
+
+12. Randy Crist
+   Email: randy.crist@asbury.edu
+   Username: randy.crist
+   Phone: (859) 858-3511
+   Original line: Randy Crist Head Coach randy.crist@asbury.edu 859-858-3511 x2125
+
+13. Brooke Stickel
+   Email: brooke.stickel@asbury.edu
+   Username: brooke.stickel
+   Phone: (740) 974-4948
+   Original line: Brooke Stickel Assistant Coach brooke.stickel@asbury.edu (740) 974-4948
+
+14. Grace Raison
+   Email: sarah.raison@asbury.edu
+   Username: sarah.raison
+   Original line: Grace Raison Assistant Coach sarah.raison@asbury.edu
+
+15. Wes Preston
+   Email: wesley.preston@asbury.edu
+   Username: wesley.preston
+   Original line: Wes Preston Assistant Coach wesley.preston@asbury.edu
+
+16. Joe Crouse
+   Email: Joseph.Crouse@asbury.edu
+   Username: Joseph.Crouse
+   Original line: Joe Crouse Head Coach Joseph.Crouse@asbury.edu
+
+17. Garrett Sturges
+   Email: garrett.sturges@asbury.edu
+   Username: garrett.sturges
+   Original line: Garrett Sturges Assistant Coach garrett.sturges@asbury.edu
+
+18. Ben Andrews
+   Email: benjamin.andrews@asbury.edu
+   Username: benjamin.andrews
+   Phone: (859) 858-3511
+   Original line: Ben Andrews Head Coach benjamin.andrews@asbury.edu 859-858-3511 x2486
+
+19. John Greer
+   Email: john.greer@asbury.edu
+   Username: john.greer
+   Original line: John Greer Associate Head Coach (2nd Team Head Coach) john.greer@asbury.edu
+
+20. Noah Welch
+   Email: noah.welch@asbury.edu
+   Username: noah.welch
+   Phone: (859) 858-3511
+   Original line: Noah Welch Assistant Coach noah.welch@asbury.edu 859-858-3511 x2496
+
+21. Zach Welch
+   Email: zachary.welch@asbury.edu
+   Username: zachary.welch
+   Phone: (859) 858-3511
+   Original line: Zach Welch Head Coach zachary.welch@asbury.edu 859-858-3511 x2421
+
+22. Steve Fugmann
+   Email: steven.fugmann@asbury.edu
+   Username: steven.fugmann
+   Original line: Steve Fugmann Assistant Coach / Goalkeepers steven.fugmann@asbury.edu
+
+23. Stanton Smith
+   Email: coachssmith1744@gmail.com
+   Username: coachssmith1744
+   Original line: Stanton Smith Assistant Coach coachssmith1744@gmail.com
+
+24. Ally Moore
+   Email: allyson.moore@asbury.edu
+   Username: allyson.moore
+   Original line: Ally Moore Head Coach allyson.moore@asbury.edu
+
+25. Jenn Sarver
+   Email: jennifer.sarver@asbury.edu
+   Username: jennifer.sarver
+   Original line: Jenn Sarver Associate Head Coach jennifer.sarver@asbury.edu
+
+26. Taylor Enlow
+   Email: taylor.enlow@asbury.edu
+   Username: taylor.enlow
+   Original line: Taylor Enlow Assistant Coach taylor.enlow@asbury.edu
+
+27. Graham Duncan
+   Email: graham.duncan@asbury.edu
+   Username: graham.duncan
+   Phone: (859) 858-3511
+   Original line: Graham Duncan Head Coach graham.duncan@asbury.edu 859-858-3511 x2255
+
+28. Kane Price
+   Email: travis.price@asbury.edu
+   Username: travis.price
+   Original line: Kane Price Assistant Coach travis.price@asbury.edu
+
+29. Jarred Miller
+   Email: jarred.miller@asbury.edu
+   Username: jarred.miller
+   Phone: (859) 858-3511
+   Original line: Jarred Miller Head Coach jarred.miller@asbury.edu 859-858-3511 x2519
+
+30. Greg Hazlett
+   Email: Gregory.hazlett@asbury.edu
+   Username: Gregory.hazlett
+   Original line: Greg Hazlett Men's Associate Head Coach Gregory.hazlett@asbury.edu
+
+31. Randy Crist
+   Email: randy.crist@asbury.edu
+   Username: randy.crist
+   Phone: (859) 858-3511
+   Original line: Randy Crist Head Coach randy.crist@asbury.edu 859-858-3511 x2125
+
+32. Brooke Stickel
+   Email: brooke.stickel@asbury.edu
+   Username: brooke.stickel
+   Phone: (740) 974-4948
+   Original line: Brooke Stickel Assistant Coach brooke.stickel@asbury.edu (740) 974-4948
+
+33. Grace Raison
+   Email: sarah.raison@asbury.edu
+   Username: sarah.raison
+   Original line: Grace Raison Assistant Coach sarah.raison@asbury.edu
+
+34. Wes Preston
+   Email: wesley.preston@asbury.edu
+   Username: wesley.preston
+   Original line: Wes Preston Assistant Coach wesley.preston@asbury.edu
+
+35. Randy Crist
+   Email: randy.crist@asbury.edu
+   Username: randy.crist
+   Phone: (859) 858-3511
+   Original line: Randy Crist Head Coach randy.crist@asbury.edu 859-858-3511 x2125
+
+36. Tiffany Horton
+   Email: tiffany.horton@asbury.edu
+   Username: tiffany.horton
+   Phone: (859) 858-3511
+   Original line: Tiffany Horton Head Coach tiffany.horton@asbury.edu 859-858-3511 x2487
+
+37. Hanna Hostetler
+   Email: hostetler@yahoo.com
+   Username: hostetler
+   Original line: Hanna Hostetler Assistant Coach Hanna. hostetler@yahoo.com
+
+38. Zeke Friedeman
+   Email: Zeke.friedeman@gmail.com
+   Username: Zeke.friedeman
+   Original line: Zeke Friedeman Head Coach (Disc Golf, Roundnet, Ultimate) Zeke.friedeman@gmail.com
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Manny Cervantes Head Coach manny.cervantes@asbury.edu 859-858-3511 x2452
+• Wynn Harris Assistant Coach winston.harris@asbury.edu
+• Jackson Cole Assistant Coach jackson.cole@asbury.edu
+• Kaden Dugle Assistant Coach kaden.dugle@asbury.edu
+• Will Shouse Head Coach will.shouse@asbury.edu 859-858-3511 x2476
+• Russ Abner Associate Head Coach russell.abner@asbury.edu 859-858-3511 x2470
+• Jim Freeman Assistant Coach james.freeman@asbury.edu
+• Blaine May Assistant Coach/JV Head Coach blainemay22@gmail.com
+• Chad Mayes Head Coach michael.mayes@asbury.edu 859-858-3511 x2452
+• Katie Wall Head Coach katie.wall@asbury.edu
+• Tyanne Whitworth Volunteer Assistant Coach tyanne@me.com
+• Randy Crist Head Coach randy.crist@asbury.edu 859-858-3511 x2125
+• Brooke Stickel Assistant Coach brooke.stickel@asbury.edu (740) 974-4948
+• Grace Raison Assistant Coach sarah.raison@asbury.edu
+• Wes Preston Assistant Coach wesley.preston@asbury.edu
+• Joe Crouse Head Coach Joseph.Crouse@asbury.edu
+• Garrett Sturges Assistant Coach garrett.sturges@asbury.edu
+• Ben Andrews Head Coach benjamin.andrews@asbury.edu 859-858-3511 x2486
+• John Greer Associate Head Coach (2nd Team Head Coach) john.greer@asbury.edu
+• Noah Welch Assistant Coach noah.welch@asbury.edu 859-858-3511 x2496
+• Zach Welch Head Coach zachary.welch@asbury.edu 859-858-3511 x2421
+• Steve Fugmann Assistant Coach / Goalkeepers steven.fugmann@asbury.edu
+• Stanton Smith Assistant Coach coachssmith1744@gmail.com
+• Ally Moore Head Coach allyson.moore@asbury.edu
+• Jenn Sarver Associate Head Coach jennifer.sarver@asbury.edu
+• Taylor Enlow Assistant Coach taylor.enlow@asbury.edu
+• Graham Duncan Head Coach graham.duncan@asbury.edu 859-858-3511 x2255
+• Kane Price Assistant Coach travis.price@asbury.edu
+• Jarred Miller Head Coach jarred.miller@asbury.edu 859-858-3511 x2519
+• Greg Hazlett Men's Associate Head Coach Gregory.hazlett@asbury.edu
+• Randy Crist Head Coach randy.crist@asbury.edu 859-858-3511 x2125
+• Brooke Stickel Assistant Coach brooke.stickel@asbury.edu (740) 974-4948
+• Grace Raison Assistant Coach sarah.raison@asbury.edu
+• Wes Preston Assistant Coach wesley.preston@asbury.edu
+• Randy Crist Head Coach randy.crist@asbury.edu 859-858-3511 x2125
+• Tiffany Horton Head Coach tiffany.horton@asbury.edu 859-858-3511 x2487
+• Hanna Hostetler Assistant Coach Hanna. hostetler@yahoo.com
+• Zeke Friedeman Head Coach (Disc Golf, Roundnet, Ultimate) Zeke.friedeman@gmail.com

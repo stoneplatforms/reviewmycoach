@@ -1,0 +1,299 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:47
+============================================================
+
+Total coaches found: 48
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brian Wede
+   Email: bwede@nwciowa.edu
+   Username: bwede
+   Original line: Brian Wede Mount Mercy Head Baseball Coach / Event bwede@nwciowa.edu 712-707-
+
+2. Brian Wede
+   Email: bwede@nwciowa.edu
+   Username: bwede
+   Original line: Brian Wede Mount Mercy Head Baseball Coach / Event bwede@nwciowa.edu 712-707-
+
+3. Robby Laughlin
+   Email: robert.laughlin@nwciowa.edu
+   Username: robert.laughlin
+   Original line: Robby Laughlin NWC '18 Assistant Coach robert.laughlin@nwciowa.edu 712-707-
+
+4. Ben Coldiron
+   Email: benjamin.coldiron@nwciowa.edu
+   Username: benjamin.coldiron
+   Original line: Ben Coldiron CUNE '23 Assistant Coach / RSC Manager benjamin.coldiron@nwciowa.edu
+
+5. Drew Nonnemacher
+   Email: drew.nonnemacher@nwciowa.edu
+   Username: drew.nonnemacher
+   Original line: Drew Nonnemacher NWC '11 Assistant Coach - Junior Varsity drew.nonnemacher@nwciowa.edu
+
+6. Colton Kooima
+   Email: colton.kooima@nwciowa.edu
+   Username: colton.kooima
+   Original line: Colton Kooima NWC '18 Head Coach colton.kooima@nwciowa.edu
+
+7. Ben Miller
+   Email: benjamin.miller@nwciowa.edu
+   Username: benjamin.miller
+   Original line: Ben Miller NWC '13 Associate Head Coach benjamin.miller@nwciowa.edu 605-690-
+
+8. Austin Schlatter
+   Email: austin.schlatter@nwciowa.edu
+   Username: austin.schlatter
+   Original line: Austin Schlatter Iowa State Assistant Coach / Junior Varsity austin.schlatter@nwciowa.edu
+
+9. Chris Yaw
+   Email: cyaw@nwciowa.edu
+   Username: cyaw
+   Original line: Chris Yaw NWC '92 Head Coach cyaw@nwciowa.edu 712-707-
+
+10. Morgan Swedorski
+   Email: morgan.swedorski@nwciowa.edu
+   Username: morgan.swedorski
+   Original line: Morgan Swedorski Tabor '19 Assistant Coach morgan.swedorski@nwciowa.edu 712-707-
+
+11. Gary Richardson
+   Email: gary.richardson@nwciowa.edu
+   Username: gary.richardson
+   Original line: Gary Richardson Northern Assistant Coach gary.richardson@nwciowa.edu 712-707-
+
+12. Taylor Decker
+   Email: taylor.decker@nwciowa.edu
+   Username: taylor.decker
+   Original line: Taylor Decker Iowa State Head Coach taylor.decker@nwciowa.edu 712-707-
+
+13. Michelle van
+   Email: michelle.vanbeek@nwciowa.edu
+   Username: michelle.vanbeek
+   Original line: Michelle van Beek NWC '18 Assistant Coach michelle.vanbeek@nwciowa.edu
+
+14. Marlon Haverdink
+   Email: marlon@nwciowa.edu
+   Username: marlon
+   Original line: Marlon Haverdink NWC '97 Assistant Coach - Distance marlon@nwciowa.edu 712-707-
+
+15. Taylor Decker
+   Email: taylor.decker@nwciowa.edu
+   Username: taylor.decker
+   Original line: Taylor Decker Iowa State Head Coach taylor.decker@nwciowa.edu 712-707-
+
+16. Michelle van
+   Email: michelle.vanbeek@nwciowa.edu
+   Username: michelle.vanbeek
+   Original line: Michelle van Beek NWC '18 Assistant Coach michelle.vanbeek@nwciowa.edu
+
+17. Matt McCarty
+   Email: mattmcc@nwciowa.edu
+   Username: mattmcc
+   Original line: Matt McCarty NWC '03 Head Coach mattmcc@nwciowa.edu 712-707-
+
+18. Greg Will
+   Email: gregory.will@nwciowa.edu
+   Username: gregory.will
+   Original line: Greg Will NWC '23 Assistant Coach - Offensive Line gregory.will@nwciowa.edu
+
+19. Ross Fernstrum
+   Email: rfernstr@nwciowa.edu
+   Username: rfernstr
+   Original line: Ross Fernstrum NWC '12 Assistant Coach - Defensive rfernstr@nwciowa.edu 712-707-
+
+20. Brice Byker
+   Email: brice.byker@nwciowa.edu
+   Username: brice.byker
+   Original line: Brice Byker NWC '14 Assistant Coach - Wide brice.byker@nwciowa.edu
+
+21. Benji Kasel
+   Email: benji.kasel@nwciowa.edu
+   Username: benji.kasel
+   Original line: Benji Kasel Buena Vista Assistant Coach - Running benji.kasel@nwciowa.edu
+
+22. Sam Rall
+   Email: samuel.rall@nwciowa.edu
+   Username: samuel.rall
+   Original line: Sam Rall NWC '15 Assistant Coach - Quarterbacks samuel.rall@nwciowa.edu
+
+23. Cody Moser
+   Email: cody.moser@nwciowa.edu
+   Username: cody.moser
+   Original line: Cody Moser NWC '24 Assistant Coach - Defensive cody.moser@nwciowa.edu
+
+24. Jonathan Beaver
+   Email: jonathan.beaver@nwciowa.edu
+   Username: jonathan.beaver
+   Original line: Jonathan Beaver RHEMA '05 Head Coach jonathan.beaver@nwciowa.edu 712-707-
+
+25. Courtney Den
+   Email: Courtney.denherder@nwciowa.edu
+   Username: Courtney.denherder
+   Original line: Courtney Den Herder NWC '17 Head Coach Courtney.denherder@nwciowa.edu 712-551-
+
+26. Paul Bartlett
+   Email: bartlett@nwciowa.edu
+   Username: bartlett
+   Original line: Paul Bartlett Iowa State Assistant Coach bartlett@nwciowa.edu
+
+27. Emily Hulshof
+   Email: emily.hulshof@nwciowa.edu
+   Username: emily.hulshof
+   Original line: Emily Hulshof NWC '25 Assistant Coach emily.hulshof@nwciowa.edu
+
+28. Vitor Pereira
+   Email: vitor.pereira@nwciowa.edu
+   Username: vitor.pereira
+   Original line: Vitor Pereira College of Head Coach vitor.pereira@nwciowa.edu 712-707-
+
+29. Sarah Hummel
+   Email: sarah.hummel@nwciowa.edu
+   Username: sarah.hummel
+   Original line: Sarah Hummel NWC '25 Assistant Coach sarah.hummel@nwciowa.edu
+
+30. Michael Simmelink
+   Email: michael.simmelink@nwciowa.edu
+   Username: michael.simmelink
+   Original line: Michael Simmelink NWC '13 Assistant Coach - Goalkeepers michael.simmelink@nwciowa.edu
+
+31. Dan Swier
+   Email: dswier@nwciowa.edu
+   Username: dswier
+   Original line: Dan Swier NWC '05 Head Coach dswier@nwciowa.edu 712-707-
+
+32. Alex Schussman
+   Email: alex.schussman@nwciowa.edu
+   Username: alex.schussman
+   Original line: Alex Schussman NWC '19 Assistant Coach alex.schussman@nwciowa.edu
+
+33. Juan Mackrey
+   Email: juan.mackrey@nwciowa.edu
+   Username: juan.mackrey
+   Original line: Juan Mackrey NWC '22 Assistant Coach juan.mackrey@nwciowa.edu 712-707-
+
+34. Gerrard Uamai
+   Email: gerrard.uamai@nwciowa.edu
+   Username: gerrard.uamai
+   Original line: Gerrard Uamai NWC '24 Assistant Coach gerrard.uamai@nwciowa.edu
+
+35. Michael Simmelink
+   Email: michael.simmelink@nwciowa.edu
+   Username: michael.simmelink
+   Original line: Michael Simmelink NWC '13 Assistant Coach - Goalkeepers michael.simmelink@nwciowa.edu
+
+36. Shane Bouman
+   Email: shane.bouman@nwciowa.edu
+   Username: shane.bouman
+   Original line: Shane Bouman SDSU '92 Head Coach shane.bouman@nwciowa.edu 712-707-
+
+37. Jennifer Boeve
+   Email: jennifer.boeve@nwciowa.edu
+   Username: jennifer.boeve
+   Original line: Jennifer Boeve NWC '23 Assistant Coach jennifer.boeve@nwciowa.edu
+
+38. Brian VandenBerg
+   Email: brian.vandenberg@nwciowa.edu
+   Username: brian.vandenberg
+   Original line: Brian VandenBerg NWC '23 Assistant Coach brian.vandenberg@nwciowa.edu
+
+39. Chris Jelken
+   Email: christopher.jelken@nwciowa.edu
+   Username: christopher.jelken
+   Original line: Chris Jelken NWC '21 Assistant Coach christopher.jelken@nwciowa.edu 712-707-
+
+40. Tim Vander
+   Email: tim.vanderploeg@nwciowa.edu
+   Username: tim.vanderploeg
+   Original line: Tim Vander Ploeg NWC '03 Assistant Coach - tim.vanderploeg@nwciowa.edu 712-707-
+
+41. Brian Tooker
+   Email: brian.tooker@nwciowa.edu
+   Username: brian.tooker
+   Original line: Brian Tooker Iowa Lakes Assistant Coach - Sprints brian.tooker@nwciowa.edu 712-707-
+
+42. Marlon Haverdink
+   Email: marlon@nwciowa.edu
+   Username: marlon
+   Original line: Marlon Haverdink NWC '97 Assistant Coach - Distance marlon@nwciowa.edu 712-707-
+
+43. Scott Phelps
+   Email: scott.phelps@nwciowa.edu
+   Username: scott.phelps
+   Original line: Scott Phelps Iowa State Assistant Coach - Throws scott.phelps@nwciowa.edu 712-898-
+
+44. Kyle Van
+   Email: kylevdb@nwciowa.edu
+   Username: kylevdb
+   Original line: Kyle Van Den Bosch Dordt '98 Head Coach kylevdb@nwciowa.edu 712-707-
+
+45. Charity Browning
+   Email: charity.browning@nwciowa.edu
+   Username: charity.browning
+   Original line: Charity Browning Lindsey Assistant Coach charity.browning@nwciowa.edu
+
+46. Jamie Schar
+   Email: jamie.schar@nwciowa.edu
+   Username: jamie.schar
+   Original line: Jamie Schar Iowa State Assistant Coach/JV jamie.schar@nwciowa.edu
+
+47. Dylan Costello
+   Email: dylan.costello@nwciowa.edu
+   Username: dylan.costello
+   Original line: Dylan Costello NWC '20 Assistant Coach dylan.costello@nwciowa.edu
+
+48. Luis Rivera-Santiago
+   Email: luis.riverasantiago@nwciowa.edu
+   Username: luis.riverasantiago
+   Original line: Luis Rivera-Santiago NWC '17 Head Coach luis.riverasantiago@nwciowa.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brian Wede Mount Mercy Head Baseball Coach / Event bwede@nwciowa.edu 712-707-
+• Brian Wede Mount Mercy Head Baseball Coach / Event bwede@nwciowa.edu 712-707-
+• Robby Laughlin NWC '18 Assistant Coach robert.laughlin@nwciowa.edu 712-707-
+• Ben Coldiron CUNE '23 Assistant Coach / RSC Manager benjamin.coldiron@nwciowa.edu
+• Drew Nonnemacher NWC '11 Assistant Coach - Junior Varsity drew.nonnemacher@nwciowa.edu
+• Colton Kooima NWC '18 Head Coach colton.kooima@nwciowa.edu
+• Ben Miller NWC '13 Associate Head Coach benjamin.miller@nwciowa.edu 605-690-
+• Austin Schlatter Iowa State Assistant Coach / Junior Varsity austin.schlatter@nwciowa.edu
+• Chris Yaw NWC '92 Head Coach cyaw@nwciowa.edu 712-707-
+• Morgan Swedorski Tabor '19 Assistant Coach morgan.swedorski@nwciowa.edu 712-707-
+• Gary Richardson Northern Assistant Coach gary.richardson@nwciowa.edu 712-707-
+• Taylor Decker Iowa State Head Coach taylor.decker@nwciowa.edu 712-707-
+• Michelle van Beek NWC '18 Assistant Coach michelle.vanbeek@nwciowa.edu
+• Marlon Haverdink NWC '97 Assistant Coach - Distance marlon@nwciowa.edu 712-707-
+• Taylor Decker Iowa State Head Coach taylor.decker@nwciowa.edu 712-707-
+• Michelle van Beek NWC '18 Assistant Coach michelle.vanbeek@nwciowa.edu
+• Matt McCarty NWC '03 Head Coach mattmcc@nwciowa.edu 712-707-
+• Greg Will NWC '23 Assistant Coach - Offensive Line gregory.will@nwciowa.edu
+• Ross Fernstrum NWC '12 Assistant Coach - Defensive rfernstr@nwciowa.edu 712-707-
+• Brice Byker NWC '14 Assistant Coach - Wide brice.byker@nwciowa.edu
+• Benji Kasel Buena Vista Assistant Coach - Running benji.kasel@nwciowa.edu
+• Sam Rall NWC '15 Assistant Coach - Quarterbacks samuel.rall@nwciowa.edu
+• Cody Moser NWC '24 Assistant Coach - Defensive cody.moser@nwciowa.edu
+• Jonathan Beaver RHEMA '05 Head Coach jonathan.beaver@nwciowa.edu 712-707-
+• Courtney Den Herder NWC '17 Head Coach Courtney.denherder@nwciowa.edu 712-551-
+• Paul Bartlett Iowa State Assistant Coach bartlett@nwciowa.edu
+• Emily Hulshof NWC '25 Assistant Coach emily.hulshof@nwciowa.edu
+• Vitor Pereira College of Head Coach vitor.pereira@nwciowa.edu 712-707-
+• Sarah Hummel NWC '25 Assistant Coach sarah.hummel@nwciowa.edu
+• Michael Simmelink NWC '13 Assistant Coach - Goalkeepers michael.simmelink@nwciowa.edu
+• Dan Swier NWC '05 Head Coach dswier@nwciowa.edu 712-707-
+• Alex Schussman NWC '19 Assistant Coach alex.schussman@nwciowa.edu
+• Juan Mackrey NWC '22 Assistant Coach juan.mackrey@nwciowa.edu 712-707-
+• Gerrard Uamai NWC '24 Assistant Coach gerrard.uamai@nwciowa.edu
+• Michael Simmelink NWC '13 Assistant Coach - Goalkeepers michael.simmelink@nwciowa.edu
+• Shane Bouman SDSU '92 Head Coach shane.bouman@nwciowa.edu 712-707-
+• Jennifer Boeve NWC '23 Assistant Coach jennifer.boeve@nwciowa.edu
+• Brian VandenBerg NWC '23 Assistant Coach brian.vandenberg@nwciowa.edu
+• Chris Jelken NWC '21 Assistant Coach christopher.jelken@nwciowa.edu 712-707-
+• Tim Vander Ploeg NWC '03 Assistant Coach - tim.vanderploeg@nwciowa.edu 712-707-
+• Brian Tooker Iowa Lakes Assistant Coach - Sprints brian.tooker@nwciowa.edu 712-707-
+• Marlon Haverdink NWC '97 Assistant Coach - Distance marlon@nwciowa.edu 712-707-
+• Scott Phelps Iowa State Assistant Coach - Throws scott.phelps@nwciowa.edu 712-898-
+• Kyle Van Den Bosch Dordt '98 Head Coach kylevdb@nwciowa.edu 712-707-
+• Charity Browning Lindsey Assistant Coach charity.browning@nwciowa.edu
+• Jamie Schar Iowa State Assistant Coach/JV jamie.schar@nwciowa.edu
+• Dylan Costello NWC '20 Assistant Coach dylan.costello@nwciowa.edu
+• Luis Rivera-Santiago NWC '17 Head Coach luis.riverasantiago@nwciowa.edu

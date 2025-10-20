@@ -1,0 +1,7 @@
+Low-quality parsing detected in Montana State University Billings.pdf.
+Sample problematic entries (5):
+- Coach 2394 University brian.greisman@msubillings.edu
+- Baseball Coach University matthew.geoffrion@msubillings.edu
+- Basketball Coach 2371 bruce.chavka@msubillings.edu
+- Basketball Coach 2107 Colorado kwoodin@msubillings.edu
+- Basketball Coach 2368 or College alisha.breen@msubillings.edu

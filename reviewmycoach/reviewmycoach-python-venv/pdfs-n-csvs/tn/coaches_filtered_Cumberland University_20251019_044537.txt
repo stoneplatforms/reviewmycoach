@@ -1,0 +1,191 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:37
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Eric Evans
+   Email: eevans@cumberland.edu
+   Username: eevans
+   Original line: Eric Evans II Head Coach eevans@cumberland.edu 615-547-
+
+2. Nassir Coleman
+   Email: nassircoleman@cumberland.edu
+   Username: nassircoleman
+   Original line: Nassir Coleman Assistant Coach nassircoleman@cumberland.edu
+
+3. Mark Vaughn
+   Email: mvaughn@cumberland.edu
+   Username: mvaughn
+   Original line: Mark Vaughn Head Coach mvaughn@cumberland.edu 615-547-
+
+4. Ryan Stanley
+   Email: rstanley@cumberland.edu
+   Username: rstanley
+   Original line: Ryan Stanley Assistant Coach rstanley@cumberland.edu
+
+5. Christina Hollis
+   Email: chollis@cumberland.edu
+   Username: chollis
+   Original line: Christina Hollis Head Coach chollis@cumberland.edu
+
+6. Chris Hollis
+   Email: chrishollis@cumberland.edu
+   Username: chrishollis
+   Original line: Chris Hollis Assistant Coach chrishollis@cumberland.edu
+
+7. Jessica Cain
+   Email: jcain@cumberland.edu
+   Username: jcain
+   Original line: Jessica Cain Head Coach jcain@cumberland.edu 615-547-
+
+8. Josh McMillan
+   Email: jmcmillan@cumberland.edu
+   Username: jmcmillan
+   Original line: Josh McMillan Head Coach jmcmillan@cumberland.edu
+
+9. Spencer Claypool
+   Email: sclaypool@cumberland.edu
+   Username: sclaypool
+   Original line: Spencer Claypool Head Coach sclaypool@cumberland.edu (615) 547-
+
+10. Steven Miller
+   Email: smiller@cumberland.edu
+   Username: smiller
+   Original line: Steven Miller Head Coach smiller@cumberland.edu 615-547-
+
+11. Tim Mathis
+   Email: tmathis@cumberland.edu
+   Username: tmathis
+   Original line: Tim Mathis Head Coach tmathis@cumberland.edu (615) 547-
+
+12. Shawn Henry
+   Email: shenry@cumberland.edu
+   Username: shenry
+   Original line: Shawn Henry Assistant Coach shenry@cumberland.edu
+
+13. Luke Sheridan
+   Email: lsheridan@cumberland.edu
+   Username: lsheridan
+   Original line: Luke Sheridan Assistant Coach lsheridan@cumberland.edu
+
+14. John Downing
+   Email: jdowning@cumberland.edu
+   Username: jdowning
+   Original line: John Downing Assistant Coach jdowning@cumberland.edu
+
+15. Rich Williams
+   Email: rwilliams@cumberland.edu
+   Username: rwilliams
+   Original line: Rich Williams Head Coach rwilliams@cumberland.edu (615) 513-
+
+16. Brian Davies
+   Email: bdavies@cumberland.edu
+   Username: bdavies
+   Original line: Brian Davies Head Coach bdavies@cumberland.edu 615-547-
+
+17. Santiago Garcia
+   Email: santiagogarciacastro@cumberland.edu
+   Username: santiagogarciacastro
+   Original line: Santiago Garcia Castro Assistant Coach santiagogarciacastro@cumberland.edu
+
+18. Scott Davidson
+   Email: sdavidson@cumberland.edu
+   Username: sdavidson
+   Original line: Scott Davidson Head Coach sdavidson@cumberland.edu (615) 547-
+
+19. Stephanie Theall
+   Email: stheall@cumberland.edu
+   Username: stheall
+   Original line: Stephanie Theall Head Coach stheall@cumberland.edu (615) 453-
+
+20. Lauren Powell
+   Email: lpowell@cumberland.edu
+   Username: lpowell
+   Original line: Lauren Powell Assistant Coach lpowell@cumberland.edu 615-257-
+
+21. Dell Pride
+   Email: dpride@cumberland.edu
+   Username: dpride
+   Original line: Dell Pride Head Coach dpride@cumberland.edu
+
+22. Carlos Pride
+   Email: cpride@cumberland.edu
+   Username: cpride
+   Original line: Carlos Pride Assistant Coach cpride@cumberland.edu
+
+23. Atsu Nyamadi
+   Email: anyamadi@cumberland.edu
+   Username: anyamadi
+   Original line: Atsu Nyamadi Head Coach anyamadi@cumberland.edu
+
+24. Cecilia Francis
+   Email: cfrancis@cumberland.edu
+   Username: cfrancis
+   Original line: Cecilia Francis Amou-Berry Assistant Coach cfrancis@cumberland.edu
+
+25. Chris Padilla
+   Email: cpadilla@cumberland.edu
+   Username: cpadilla
+   Original line: Chris Padilla Head Coach cpadilla@cumberland.edu
+
+26. Raegan Moeller
+   Email: rmoeller@cumberland.edu
+   Username: rmoeller
+   Original line: Raegan Moeller Assistant Coach rmoeller@cumberland.edu
+
+27. Hannah Vadakin
+   Email: hvadakin@cumberland.edu
+   Username: hvadakin
+   Original line: Hannah Vadakin Head Coach hvadakin@cumberland.edu (615) 547-
+
+28. Samantha Young
+   Email: syoung@cumberland.edu
+   Username: syoung
+   Original line: Samantha Young Assistant Coach syoung@cumberland.edu
+
+29. James Hicks
+   Email: jhicks@cumberland.edu
+   Username: jhicks
+   Original line: James Hicks Head Coach jhicks@cumberland.edu
+
+30. Nate Croley
+   Email: ncroley@cumberland.edu
+   Username: ncroley
+   Original line: Nate Croley Assistant Coach ncroley@cumberland.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Eric Evans II Head Coach eevans@cumberland.edu 615-547-
+• Nassir Coleman Assistant Coach nassircoleman@cumberland.edu
+• Mark Vaughn Head Coach mvaughn@cumberland.edu 615-547-
+• Ryan Stanley Assistant Coach rstanley@cumberland.edu
+• Christina Hollis Head Coach chollis@cumberland.edu
+• Chris Hollis Assistant Coach chrishollis@cumberland.edu
+• Jessica Cain Head Coach jcain@cumberland.edu 615-547-
+• Josh McMillan Head Coach jmcmillan@cumberland.edu
+• Spencer Claypool Head Coach sclaypool@cumberland.edu (615) 547-
+• Steven Miller Head Coach smiller@cumberland.edu 615-547-
+• Tim Mathis Head Coach tmathis@cumberland.edu (615) 547-
+• Shawn Henry Assistant Coach shenry@cumberland.edu
+• Luke Sheridan Assistant Coach lsheridan@cumberland.edu
+• John Downing Assistant Coach jdowning@cumberland.edu
+• Rich Williams Head Coach rwilliams@cumberland.edu (615) 513-
+• Brian Davies Head Coach bdavies@cumberland.edu 615-547-
+• Santiago Garcia Castro Assistant Coach santiagogarciacastro@cumberland.edu
+• Scott Davidson Head Coach sdavidson@cumberland.edu (615) 547-
+• Stephanie Theall Head Coach stheall@cumberland.edu (615) 453-
+• Lauren Powell Assistant Coach lpowell@cumberland.edu 615-257-
+• Dell Pride Head Coach dpride@cumberland.edu
+• Carlos Pride Assistant Coach cpride@cumberland.edu
+• Atsu Nyamadi Head Coach anyamadi@cumberland.edu
+• Cecilia Francis Amou-Berry Assistant Coach cfrancis@cumberland.edu
+• Chris Padilla Head Coach cpadilla@cumberland.edu
+• Raegan Moeller Assistant Coach rmoeller@cumberland.edu
+• Hannah Vadakin Head Coach hvadakin@cumberland.edu (615) 547-
+• Samantha Young Assistant Coach syoung@cumberland.edu
+• James Hicks Head Coach jhicks@cumberland.edu
+• Nate Croley Assistant Coach ncroley@cumberland.edu

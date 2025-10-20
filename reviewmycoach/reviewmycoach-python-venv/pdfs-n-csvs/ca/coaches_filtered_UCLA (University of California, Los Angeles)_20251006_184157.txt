@@ -1,0 +1,305 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:59
+============================================================
+
+Total coaches found: 49
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jake Palmer
+   Email: jpalmer@athletics.ucla.edu
+   Username: jpalmer
+   Original line: Jake Palmer Assistant Coach jpalmer@athletics.ucla.edu UC Irvine, '21 / UCLA, '23
+
+2. Tasha Brown
+   Email: tbrown@athletics.ucla.edu
+   Username: tbrown
+   Original line: Tasha Brown Assistant Coach tbrown@athletics.ucla.edu St. Ambrose, '98
+
+3. James Clark
+   Email: jclark@athletics.ucla.edu
+   Username: jclark
+   Original line: James Clark Assistant Coach jclark@athletics.ucla.edu LaSalle, '06
+
+4. Soh Matsuura
+   Email: smatsuura@athletics.ucla.edu
+   Username: smatsuura
+   Original line: Soh Matsuura Assistant Coach smatsuura@athletics.ucla.edu UCLA, '20
+
+5. Michaela Assistant
+   Email: monyenwere@athletics.ucla.edu
+   Username: monyenwere
+   Original line: Michaela Assistant Coach monyenwere@athletics.ucla.edu UCLA, '21
+
+6. Armen Head
+   Email: akirakossian@athletics.ucla.edu
+   Username: akirakossian
+   Original line: Armen Head Coach akirakossian@athletics.ucla.edu UT Pan American, '10
+
+7. Mason Banger
+   Email: mbanger@athletics.ucla.edu
+   Username: mbanger
+   Original line: Mason Banger Assistant Coach mbanger@athletics.ucla.edu Harding, '18
+
+8. Alicia Um
+   Email: aum@athletics.ucla.edu
+   Username: aum
+   Original line: Alicia Um Holmes Head Coach aum@athletics.ucla.edu UCLA, '02
+
+9. Erynne Yoo
+   Email: eyoo@athletics.ucla.edu
+   Username: eyoo
+   Original line: Erynne Yoo Assistant Coach eyoo@athletics.ucla.edu UCLA, '15
+
+10. Lacy Dagen
+   Email: ldagen@athletics.ucla.edu
+   Username: ldagen
+   Original line: Lacy Dagen Assistant Coach ldagen@athletics.ucla.edu Oregon State, '22
+
+11. Mark Freeman
+   Email: markfreeman@athletics.ucla.edu
+   Username: markfreeman
+   Original line: Mark Freeman Assistant Coach markfreeman@athletics.ucla.edu Cal, '08
+
+12. Dameon Engblom
+   Email: dengblom@athletics.ucla.edu
+   Username: dengblom
+   Original line: Dameon Engblom Assistant Coach dengblom@athletics.ucla.edu Sacramento State, '06
+
+13. Summit Gillespie
+   Email: sgillespie@athletics.ucla.edu
+   Username: sgillespie
+   Original line: Summit Gillespie Assistant Coach / sgillespie@athletics.ucla.edu San Diego, '24
+
+14. Guillermo Lemus
+   Email: coachg@athletics.ucla.edu
+   Username: coachg
+   Original line: Guillermo Lemus Assistant Coach coachg@athletics.ucla.edu IIEC, '91
+
+15. Ryan Jorden
+   Email: msoccer@athletics.ucla.edu
+   Username: msoccer
+   Original line: Ryan Jorden Head Coach msoccer@athletics.ucla.edu Westmont, '95
+
+16. Andres Ochoa
+   Email: msoccer@athletics.ucla.edu
+   Username: msoccer
+   Original line: Andres Ochoa Assistant Coach msoccer@athletics.ucla.edu Pacific, '18
+
+17. Juan Cervantes
+   Email: msoccer@athletics.ucla.edu
+   Username: msoccer
+   Original line: Juan Cervantes Assistant Coach msoccer@athletics.ucla.edu UCLA, '16
+
+18. Sergi Nus
+   Email: snus@athletics.ucla.edu
+   Username: snus
+   Original line: Sergi Nus Assistant Coach snus@athletics.ucla.edu Virginia, '18 / Duke, '20
+
+19. Margueritte Head
+   Email: wsoccer@athletics.ucla.edu
+   Username: wsoccer
+   Original line: Margueritte Head Coach wsoccer@athletics.ucla.edu Santa Clara, '12
+
+20. Molly Poletto
+   Email: wsoccer@athletics.ucla.edu
+   Username: wsoccer
+   Original line: Molly Poletto Assistant Coach wsoccer@athletics.ucla.edu Utah, '15
+
+21. Molly Feighan
+   Email: wsoccer@athletics.ucla.edu
+   Username: wsoccer
+   Original line: Molly Feighan Assistant Coach wsoccer@athletics.ucla.edu Virginia Tech, '21 / St. John's, '22
+
+22. Mysha Sataraka
+   Email: msataraka@athletics.ucla.edu
+   Username: msataraka
+   Original line: Mysha Sataraka Assistant Coach msataraka@athletics.ucla.edu UCLA, '16
+
+23. Rob Schweyer
+   Email: rschweyer@athletics.ucla.edu
+   Username: rschweyer
+   Original line: Rob Schweyer Assistant Coach rschweyer@athletics.ucla.edu University of Western Ontario, '99
+
+24. Jordan Cordry
+   Email: jcordry@athletics.ucla.edu
+   Username: jcordry
+   Original line: Jordan Cordry Head Coach jcordry@athletics.ucla.edu St. Cloud State, '09
+
+25. Tom Stebbins
+   Email: tstebbins@athletics.ucla.edu
+   Username: tstebbins
+   Original line: Tom Stebbins Head Diving Coach tstebbins@athletics.ucla.edu Yale, '96
+
+26. Graham Assistant
+   Email: gcarpenter@athletics.ucla.edu
+   Username: gcarpenter
+   Original line: Graham Assistant Coach gcarpenter@athletics.ucla.edu Ball State, '21
+
+27. Billy Martin
+   Email: bmartin@athletics.ucla.edu
+   Username: bmartin
+   Original line: Billy Martin Head Coach bmartin@athletics.ucla.edu Redlands, '89
+
+28. Wil Martin
+   Email: wmartin@athletics.ucla.edu
+   Username: wmartin
+   Original line: Wil Martin Assistant Coach wmartin@athletics.ucla.edu Saint Mary's, '15
+
+29. Stella Sampras
+   Email: ssampras@athletics.ucla.edu
+   Username: ssampras
+   Original line: Stella Sampras Head Coach ssampras@athletics.ucla.edu UCLA, '91
+
+30. Giancarlo "G.C."
+   Email: gcava@athletics.ucla.edu
+   Username: gcava
+   Original line: Giancarlo "G.C." Assistant Coach gcava@athletics.ucla.edu
+
+31. Tate Curran
+   Email: tcurran@athletics.ucla.edu
+   Username: tcurran
+   Original line: Tate Curran Assistant Coach, tcurran@athletics.ucla.edu UCLA, '19
+
+32. Sean Denard
+   Email: sdenard@athletics.ucla.edu
+   Username: sdenard
+   Original line: Sean Denard Assistant Coach, sdenard@athletics.ucla.edu Mount Union, '12
+
+33. Andrew Ferris
+   Email: aferris@athletics.ucla.edu
+   Username: aferris
+   Original line: Andrew Ferris Assistant Coach, aferris@athletics.ucla.edu Griffith University, '09
+
+34. Arman Hall
+   Email: ghall@athletics.ucla.edu
+   Username: ghall
+   Original line: Arman Hall Assistant Coach, ghall@athletics.ucla.edu Florida, '16
+
+35. Mecca Assistant
+   Email: mmcglaston@athletics.ucla.edu
+   Username: mmcglaston
+   Original line: Mecca Assistant Coach, mmcglaston@athletics.ucla.edu USC, '22
+
+36. Nick Newman
+   Email: coachnicknewman@athletics.ucla.edu
+   Username: coachnicknewman
+   Original line: Nick Newman Assistant Coach, coachnicknewman@athletics.ucla.edu Manhattan College, '06 / Cal State Fullerton, '09
+
+37. Wellington Zaza
+   Email: wzaza@athletics.ucla.edu
+   Username: wzaza
+   Original line: Wellington Zaza Assistant Coach, wzaza@athletics.ucla.edu Auburn, '17 / Alabama, '19
+
+38. Jenny Johnson
+   Email: jjohnsonjordan@athletics.ucla.edu
+   Username: jjohnsonjordan
+   Original line: Jenny Johnson Head Coach jjohnsonjordan@athletics.ucla.edu UCLA, '96
+
+39. Theo Brunner
+   Email: tbrunner@athletics.ucla.edu
+   Username: tbrunner
+   Original line: Theo Brunner Assistant Coach tbrunner@athletics.ucla.edu UCSB, '08
+
+40. Kelly Reeves
+   Email: kreeves@athletics.ucla.edu
+   Username: kreeves
+   Original line: Kelly Reeves Assistant Coach kreeves@athletics.ucla.edu UCLA, '15
+
+41. Alex Knight
+   Email: aknight@athletics.ucla.edu
+   Username: aknight
+   Original line: Alex Knight Assistant Coach aknight@athletics.ucla.edu UCLA, '23 / '24
+
+42. Alfee Reft
+   Email: uclawvb@athletics.ucla.edu
+   Username: uclawvb
+   Original line: Alfee Reft Head Coach uclawvb@athletics.ucla.edu Hawai'i, '06
+
+43. Noah Casaquit
+   Email: ncasaquit@athletics.ucla.edu
+   Username: ncasaquit
+   Original line: Noah Casaquit Assistant Coach ncasaquit@athletics.ucla.edu Hope International, '12
+
+44. Stevi Robinson-
+   Email: uclawvb@athletics.ucla.edu
+   Username: uclawvb
+   Original line: Stevi Robinson- Assistant Coach uclawvb@athletics.ucla.edu Pepperdine, '12
+
+45. Adam Wright
+   Email: awright@athletics.ucla.edu
+   Username: awright
+   Original line: Adam Wright Head Coach awright@athletics.ucla.edu UCLA, '01
+
+46. Matt Kubeck
+   Email: mkubeck@athletics.ucla.edu
+   Username: mkubeck
+   Original line: Matt Kubeck Assistant Coach mkubeck@athletics.ucla.edu Long Beach State, '12
+
+47. Nico Tierney
+   Email: ntierney@athletics.ucla.edu
+   Username: ntierney
+   Original line: Nico Tierney Assistant Coach ntierney@athletics.ucla.edu Pepperdine, '24 / UCLA, '25
+
+48. Adam Wright
+   Email: awright@athletics.ucla.edu
+   Username: awright
+   Original line: Adam Wright Head Coach awright@athletics.ucla.edu UCLA, '01
+
+49. Nico Tierney
+   Email: ntierney@athletics.ucla.edu
+   Username: ntierney
+   Original line: Nico Tierney Assistant Coach ntierney@athletics.ucla.edu Pepperdine, '24 / UCLA, '25
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jake Palmer Assistant Coach jpalmer@athletics.ucla.edu UC Irvine, '21 / UCLA, '23
+• Tasha Brown Assistant Coach tbrown@athletics.ucla.edu St. Ambrose, '98
+• James Clark Assistant Coach jclark@athletics.ucla.edu LaSalle, '06
+• Soh Matsuura Assistant Coach smatsuura@athletics.ucla.edu UCLA, '20
+• Michaela Assistant Coach monyenwere@athletics.ucla.edu UCLA, '21
+• Armen Head Coach akirakossian@athletics.ucla.edu UT Pan American, '10
+• Mason Banger Assistant Coach mbanger@athletics.ucla.edu Harding, '18
+• Alicia Um Holmes Head Coach aum@athletics.ucla.edu UCLA, '02
+• Erynne Yoo Assistant Coach eyoo@athletics.ucla.edu UCLA, '15
+• Lacy Dagen Assistant Coach ldagen@athletics.ucla.edu Oregon State, '22
+• Mark Freeman Assistant Coach markfreeman@athletics.ucla.edu Cal, '08
+• Dameon Engblom Assistant Coach dengblom@athletics.ucla.edu Sacramento State, '06
+• Summit Gillespie Assistant Coach / sgillespie@athletics.ucla.edu San Diego, '24
+• Guillermo Lemus Assistant Coach coachg@athletics.ucla.edu IIEC, '91
+• Ryan Jorden Head Coach msoccer@athletics.ucla.edu Westmont, '95
+• Andres Ochoa Assistant Coach msoccer@athletics.ucla.edu Pacific, '18
+• Juan Cervantes Assistant Coach msoccer@athletics.ucla.edu UCLA, '16
+• Sergi Nus Assistant Coach snus@athletics.ucla.edu Virginia, '18 / Duke, '20
+• Margueritte Head Coach wsoccer@athletics.ucla.edu Santa Clara, '12
+• Molly Poletto Assistant Coach wsoccer@athletics.ucla.edu Utah, '15
+• Molly Feighan Assistant Coach wsoccer@athletics.ucla.edu Virginia Tech, '21 / St. John's, '22
+• Mysha Sataraka Assistant Coach msataraka@athletics.ucla.edu UCLA, '16
+• Rob Schweyer Assistant Coach rschweyer@athletics.ucla.edu University of Western Ontario, '99
+• Jordan Cordry Head Coach jcordry@athletics.ucla.edu St. Cloud State, '09
+• Tom Stebbins Head Diving Coach tstebbins@athletics.ucla.edu Yale, '96
+• Graham Assistant Coach gcarpenter@athletics.ucla.edu Ball State, '21
+• Billy Martin Head Coach bmartin@athletics.ucla.edu Redlands, '89
+• Wil Martin Assistant Coach wmartin@athletics.ucla.edu Saint Mary's, '15
+• Stella Sampras Head Coach ssampras@athletics.ucla.edu UCLA, '91
+• Giancarlo "G.C." Assistant Coach gcava@athletics.ucla.edu
+• Tate Curran Assistant Coach, tcurran@athletics.ucla.edu UCLA, '19
+• Sean Denard Assistant Coach, sdenard@athletics.ucla.edu Mount Union, '12
+• Andrew Ferris Assistant Coach, aferris@athletics.ucla.edu Griffith University, '09
+• Arman Hall Assistant Coach, ghall@athletics.ucla.edu Florida, '16
+• Mecca Assistant Coach, mmcglaston@athletics.ucla.edu USC, '22
+• Nick Newman Assistant Coach, coachnicknewman@athletics.ucla.edu Manhattan College, '06 / Cal State Fullerton, '09
+• Wellington Zaza Assistant Coach, wzaza@athletics.ucla.edu Auburn, '17 / Alabama, '19
+• Jenny Johnson Head Coach jjohnsonjordan@athletics.ucla.edu UCLA, '96
+• Theo Brunner Assistant Coach tbrunner@athletics.ucla.edu UCSB, '08
+• Kelly Reeves Assistant Coach kreeves@athletics.ucla.edu UCLA, '15
+• Alex Knight Assistant Coach aknight@athletics.ucla.edu UCLA, '23 / '24
+• Alfee Reft Head Coach uclawvb@athletics.ucla.edu Hawai'i, '06
+• Noah Casaquit Assistant Coach ncasaquit@athletics.ucla.edu Hope International, '12
+• Stevi Robinson- Assistant Coach uclawvb@athletics.ucla.edu Pepperdine, '12
+• Adam Wright Head Coach awright@athletics.ucla.edu UCLA, '01
+• Matt Kubeck Assistant Coach mkubeck@athletics.ucla.edu Long Beach State, '12
+• Nico Tierney Assistant Coach ntierney@athletics.ucla.edu Pepperdine, '24 / UCLA, '25
+• Adam Wright Head Coach awright@athletics.ucla.edu UCLA, '01
+• Nico Tierney Assistant Coach ntierney@athletics.ucla.edu Pepperdine, '24 / UCLA, '25

@@ -1,0 +1,252 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:18
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kennedy Mang
+   Email: kennedy.mang@midway.edu
+   Username: kennedy.mang
+   Phone: 859.846.3347
+   Original line: Kennedy Mang Senior Woman Leader / Head Coach 859.846.3347 kennedy.mang@midway.edu
+
+2. Darren Collins
+   Email: darren.collins@midway.edu
+   Username: darren.collins
+   Phone: 859.846.5323
+   Original line: Darren Collins Head Coach 859.846.5323 darren.collins@midway.edu
+
+3. Luther Bramblett
+   Email: lbramblett@midway.edu
+   Username: lbramblett
+   Phone: 859.846.3317
+   Original line: Luther Bramblett Head Coach 859.846.3317 lbramblett@midway.edu
+
+4. Landon Steiner
+   Email: landon.steiner@midway.edu
+   Username: landon.steiner
+   Phone: 859.846.6026
+   Original line: Landon Steiner Pitching Coach/Recruiting Coordinator 859.846.6026 landon.steiner@midway.edu
+
+5. Akeem Scott
+   Email: akeem.scott@midway.edu
+   Username: akeem.scott
+   Phone: 859.846.5753
+   Original line: Akeem Scott Head Coach 859.846.5753 akeem.scott@midway.edu
+
+6. Paul Ricker
+   Email: paul.ricker@midway.edu
+   Username: paul.ricker
+   Original line: Paul Ricker Assistant Coach paul.ricker@midway.edu
+
+7. Kylee Gorby
+   Email: kylee.gorby@midway.edu
+   Username: kylee.gorby
+   Phone: 859.846.5723
+   Original line: Kylee Gorby Head Coach 859.846.5723 kylee.gorby@midway.edu
+
+8. Jay Lucas
+   Email: jack.lucas@midway.edu
+   Username: jack.lucas
+   Phone: 859.321.1647
+   Original line: Jay Lucas Assistant Coach 859.321.1647 jack.lucas@midway.edu
+
+9. Lauren Bodine
+   Email: lauren.bodine@midway.edu
+   Username: lauren.bodine
+   Original line: Lauren Bodine Volunteer Assistant Coach lauren.bodine@midway.edu
+
+10. Chris McMillan
+   Email: christopher.mcmillan@midway.edu
+   Username: christopher.mcmillan
+   Phone: 859.846.5343
+   Original line: Chris McMillan Head Coach 859.846.5343 christopher.mcmillan@midway.edu
+
+11. Isiah Gordon
+   Email: isiah.gordon@midway.edu
+   Username: isiah.gordon
+   Original line: Isiah Gordon Assistant Coach isiah.gordon@midway.edu
+
+12. Troy Lund
+   Email: troy.lund@midway.edu
+   Username: troy.lund
+   Original line: Troy Lund Jr. Assistant Coach troy.lund@midway.edu
+
+13. Ashley Freire
+   Email: ashley.freire@midway.edu
+   Username: ashley.freire
+   Phone: 859.846.5492
+   Original line: Ashley Freire Head Coach 859.846.5492 ashley.freire@midway.edu
+
+14. Whitten McCune
+   Email: whitten.mccune@midway.edu
+   Username: whitten.mccune
+   Original line: Whitten McCune Assistant Coach whitten.mccune@midway.edu
+
+15. Jay Walls
+   Email: jwalls@midway.edu
+   Username: jwalls
+   Phone: 859.846.5311
+   Original line: Jay Walls Head Coach 859.846.5311 jwalls@midway.edu
+
+16. Heath Gunnison
+   Email: hgunnison@midway.edu
+   Username: hgunnison
+   Phone: 859.846.5736
+   Original line: Heath Gunnison Head Coach 859.846.5736 hgunnison@midway.edu
+
+17. Andrew Garza
+   Email: andrew.garza@midway.edu
+   Username: andrew.garza
+   Phone: 859.846.5305
+   Original line: Andrew Garza Head Coach 859.846.5305 andrew.garza@midway.edu
+
+18. Otis Smith
+   Email: osmith@midway.edu
+   Username: osmith
+   Phone: 859.846.5302
+   Original line: Otis Smith Head Coach 859.846.5302 osmith@midway.edu
+
+19. Sydnee Beard
+   Email: sbeard@midway.edu
+   Username: sbeard
+   Original line: Sydnee Beard Assistant Coach sbeard@midway.edu
+
+20. Stu Riddle
+   Email: stu.riddle@midway.edu
+   Username: stu.riddle
+   Phone: 859.846.3408
+   Original line: Stu Riddle Head Coach 859.846.3408 stu.riddle@midway.edu
+
+21. Warren Lipka
+   Email: warren.lipka@midway.edu
+   Username: warren.lipka
+   Phone: 859.846.5352
+   Original line: Warren Lipka Head Coach 859.846.5352 warren.lipka@midway.edu
+
+22. Mike Toncray
+   Email: michael.toncray@midway.edu
+   Username: michael.toncray
+   Original line: Mike Toncray Assistant Coach michael.toncray@midway.edu
+
+23. Bailey Curry
+   Email: bailey.curry@midway.edu
+   Username: bailey.curry
+   Phone: 859.846.5834
+   Original line: Bailey Curry Head Coach 859.846.5834 bailey.curry@midway.edu
+
+24. Krae Kelso
+   Email: kraeton.kelso@midway.edu
+   Username: kraeton.kelso
+   Phone: 859.846.5792
+   Original line: Krae Kelso Head Coach 859.846.5792 kraeton.kelso@midway.edu
+
+25. John Hallock
+   Email: john.hallock@midway.edu
+   Username: john.hallock
+   Phone: 606.383.2373
+   Original line: John Hallock Defensive Line Coach 606.383.2373 john.hallock@midway.edu
+
+26. Jeff Armstrong
+   Email: jeff.armstrong@midway.edu
+   Username: jeff.armstrong
+   Phone: 859.846.3305
+   Original line: Jeff Armstrong Head Coach 859.846.3305 jeff.armstrong@midway.edu
+
+27. Brad Blanchard
+   Email: bradley.blanchard@midway.edu
+   Username: bradley.blanchard
+   Original line: Brad Blanchard Assistant Coach bradley.blanchard@midway.edu
+
+28. Roscoe Moonieyan
+   Email: roscoe.moonieyan@midway.edu
+   Username: roscoe.moonieyan
+   Phone: 859.846.5474
+   Original line: Roscoe Moonieyan Head Coach 859.846.5474 roscoe.moonieyan@midway.edu
+
+29. Ryan Lee
+   Email: ryan.lee@midway.edu
+   Username: ryan.lee
+   Original line: Ryan Lee Assistant Coach ryan.lee@midway.edu
+
+30. Hunter Wethington
+   Email: hunter.wethington@midway.edu
+   Username: hunter.wethington
+   Phone: 859.846.5782
+   Original line: Hunter Wethington Head Coach 859.846.5782 hunter.wethington@midway.edu
+
+31. Jay Walls
+   Email: jwalls@midway.edu
+   Username: jwalls
+   Phone: 859.846.5311
+   Original line: Jay Walls Head Coach 859.846.5311 jwalls@midway.edu
+
+32. Lauren Kundert
+   Email: lauren.kundert@midway.edu
+   Username: lauren.kundert
+   Original line: Lauren Kundert Assistant Coach lauren.kundert@midway.edu
+
+33. Kennedy Mang
+   Email: kennedy.mang@midway.edu
+   Username: kennedy.mang
+   Phone: 859.846.3347
+   Original line: Kennedy Mang Senior Woman Leader / Head Coach 859.846.3347 kennedy.mang@midway.edu
+
+34. Steven Tippenhauer
+   Email: steven.tippenhauer@midway.edu
+   Username: steven.tippenhauer
+   Original line: Steven Tippenhauer Assistant Coach steven.tippenhauer@midway.edu
+
+35. Cole Smith
+   Email: cole.smith@midway.edu
+   Username: cole.smith
+   Phone: 859.846.5347
+   Original line: Cole Smith Interim Head Coach 859.846.5347 cole.smith@midway.edu
+
+36. Cole Smith
+   Email: cole.smith@midway.edu
+   Username: cole.smith
+   Phone: 859.846.5347
+   Original line: Cole Smith Head Coach 859.846.5347 cole.smith@midway.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kennedy Mang Senior Woman Leader / Head Coach 859.846.3347 kennedy.mang@midway.edu
+• Darren Collins Head Coach 859.846.5323 darren.collins@midway.edu
+• Luther Bramblett Head Coach 859.846.3317 lbramblett@midway.edu
+• Landon Steiner Pitching Coach/Recruiting Coordinator 859.846.6026 landon.steiner@midway.edu
+• Akeem Scott Head Coach 859.846.5753 akeem.scott@midway.edu
+• Paul Ricker Assistant Coach paul.ricker@midway.edu
+• Kylee Gorby Head Coach 859.846.5723 kylee.gorby@midway.edu
+• Jay Lucas Assistant Coach 859.321.1647 jack.lucas@midway.edu
+• Lauren Bodine Volunteer Assistant Coach lauren.bodine@midway.edu
+• Chris McMillan Head Coach 859.846.5343 christopher.mcmillan@midway.edu
+• Isiah Gordon Assistant Coach isiah.gordon@midway.edu
+• Troy Lund Jr. Assistant Coach troy.lund@midway.edu
+• Ashley Freire Head Coach 859.846.5492 ashley.freire@midway.edu
+• Whitten McCune Assistant Coach whitten.mccune@midway.edu
+• Jay Walls Head Coach 859.846.5311 jwalls@midway.edu
+• Heath Gunnison Head Coach 859.846.5736 hgunnison@midway.edu
+• Andrew Garza Head Coach 859.846.5305 andrew.garza@midway.edu
+• Otis Smith Head Coach 859.846.5302 osmith@midway.edu
+• Sydnee Beard Assistant Coach sbeard@midway.edu
+• Stu Riddle Head Coach 859.846.3408 stu.riddle@midway.edu
+• Warren Lipka Head Coach 859.846.5352 warren.lipka@midway.edu
+• Mike Toncray Assistant Coach michael.toncray@midway.edu
+• Bailey Curry Head Coach 859.846.5834 bailey.curry@midway.edu
+• Krae Kelso Head Coach 859.846.5792 kraeton.kelso@midway.edu
+• John Hallock Defensive Line Coach 606.383.2373 john.hallock@midway.edu
+• Jeff Armstrong Head Coach 859.846.3305 jeff.armstrong@midway.edu
+• Brad Blanchard Assistant Coach bradley.blanchard@midway.edu
+• Roscoe Moonieyan Head Coach 859.846.5474 roscoe.moonieyan@midway.edu
+• Ryan Lee Assistant Coach ryan.lee@midway.edu
+• Hunter Wethington Head Coach 859.846.5782 hunter.wethington@midway.edu
+• Jay Walls Head Coach 859.846.5311 jwalls@midway.edu
+• Lauren Kundert Assistant Coach lauren.kundert@midway.edu
+• Kennedy Mang Senior Woman Leader / Head Coach 859.846.3347 kennedy.mang@midway.edu
+• Steven Tippenhauer Assistant Coach steven.tippenhauer@midway.edu
+• Cole Smith Interim Head Coach 859.846.5347 cole.smith@midway.edu
+• Cole Smith Head Coach 859.846.5347 cole.smith@midway.edu

@@ -1,0 +1,209 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:54
+============================================================
+
+Total coaches found: 33
+
+PARSED ENTRIES:
+----------------------------------------
+1. Patrick Allgeier
+   Email: pallgeier@millikin.edu
+   Username: pallgeier
+   Original line: Patrick Allgeier Assistant Football Coach/Asst. A. D. for Events & pallgeier@millikin.edu 217-424-
+
+2. Brandon Townsend
+   Email: btownsend@millikin.edu
+   Username: btownsend
+   Original line: Brandon Townsend Head Baseball Coach\Assistant Athletic Director btownsend@millikin.edu 217-424- BigBlueBaseball
+
+3. Jasper Luckritz
+   Email: jluckritz@millikin.edu
+   Username: jluckritz
+   Original line: Jasper Luckritz Head Strength & Conditioning Coach jluckritz@millikin.edu 563-321-
+
+4. Brandon Townsend
+   Email: btownsend@millikin.edu
+   Username: btownsend
+   Original line: Brandon Townsend Head Baseball Coach\Assistant Athletic Director btownsend@millikin.edu 217-424- BigBlueBaseball
+
+5. Dylan Hamilton
+   Email: dhamilton@millikin.edu
+   Username: dhamilton
+   Original line: Dylan Hamilton Assistant Baseball Coach dhamilton@millikin.edu
+
+6. Kramer Soderberg
+   Email: ksoderberg@millikin.edu
+   Username: ksoderberg
+   Original line: Kramer Soderberg Head Men's Basketball Coach ksoderberg@millikin.edu 217--420- CoachKSodie
+
+7. Mack Snyder
+   Email: masnyder@millikin.edu
+   Username: masnyder
+   Original line: Mack Snyder Assistant Men's Basketball Coach masnyder@millikin.edu
+
+8. Grant Baker
+   Email: gbaker@millikin.edu
+   Username: gbaker
+   Original line: Grant Baker Assistant Men's Basketball Coach gbaker@millikin.edu
+
+9. Kirsten Hammer
+   Email: khammer@millikin.edu
+   Username: khammer
+   Original line: Kirsten Hammer Head Women's Basketball Coach khammer@millikin.edu 217-420-
+
+10. Mallory Liebl
+   Email: mliebl@millikin.edu
+   Username: mliebl
+   Original line: Mallory Liebl Assistant Women's Basketball Coach mliebl@millikin.edu 217-420-
+
+11. Ben Kuxmann
+   Email: bkuxmann@millikin.edu
+   Username: bkuxmann
+   Original line: Ben Kuxmann Assistant Cross Country & Track Coach bkuxmann@millikin.edu
+
+12. Billy Riebock
+   Email: briebock@millikin.edu
+   Username: briebock
+   Original line: Billy Riebock Head Football Coach briebock@millikin.edu 217-424-
+
+13. Gunnard Twyner
+   Email: gtwyner@millikin.edu
+   Username: gtwyner
+   Original line: Gunnard Twyner Assistant Football Coach-Offensive Coordinator gtwyner@millikin.edu 217-420-
+
+14. Patrick Allgeier
+   Email: pallgeier@millikin.edu
+   Username: pallgeier
+   Original line: Patrick Allgeier Assistant Football Coach/Asst. A. D. for Events & pallgeier@millikin.edu 217-424-
+
+15. Jermaine Burket
+   Email: jburket@millikin.edu
+   Username: jburket
+   Original line: Jermaine Burket Assistant Football Coach jburket@millikin.edu 217-425-
+
+16. Joan Catanese
+   Email: jcatanese@millikin.edu
+   Username: jcatanese
+   Original line: Joan Catanese Assistant Football Coach jcatanese@millikin.edu 217-425-
+
+17. German Romero
+   Email: gromerorosales@millikin.edu
+   Username: gromerorosales
+   Original line: German Romero Rosales Assistant Football Coach gromerorosales@millikin.edu
+
+18. Charlie Ward
+   Email: cjward@millikin.edu
+   Username: cjward
+   Original line: Charlie Ward Head Men's Soccer Coach cjward@millikin.edu
+
+19. Kyle Petering
+   Email: kpetering@millikin.edu
+   Username: kpetering
+   Original line: Kyle Petering Assistant Men's Soccer Coach kpetering@millikin.edu
+
+20. Ian Doherty
+   Email: idoherty@millikin.edu
+   Username: idoherty
+   Original line: Ian Doherty Head Women's Soccer Coach idoherty@millikin.edu 217-424- @MillikinWSoccer
+
+21. Consuelo Michel
+   Email: pmichelnunez@millikin.edu
+   Username: pmichelnunez
+   Original line: Consuelo Michel Assistant Women's Soccer Coach pmichelnunez@millikin.edu
+
+22. Brian Levin
+   Email: blevin@millikin.edu
+   Username: blevin
+   Original line: Brian Levin Head Softball Coach blevin@millikin.edu 931-980-
+
+23. Ed Pacey
+   Email: epacey@millikin.edu
+   Username: epacey
+   Original line: Ed Pacey Head Swimming & Triathlon Coach epacey@millikin.edu 217-425-
+
+24. Lindsay Corbett
+   Email: lcorbett@millikin.edu
+   Username: lcorbett
+   Original line: Lindsay Corbett Assistant Swimming Coach lcorbett@millikin.edu
+
+25. Carrol Whitehouse
+   Email: cwhitehouse@millikin.edu
+   Username: cwhitehouse
+   Original line: Carrol Whitehouse Assistant Track and Field Coach cwhitehouse@millikin.edu 217-424-
+
+26. Hailey O'Malley
+   Email: homalley@millikin.edu
+   Username: homalley
+   Original line: Hailey O'Malley Assistant Track and Field Coach (Distance) homalley@millikin.edu
+
+27. Ben Kuxmann
+   Email: bkuxmann@millikin.edu
+   Username: bkuxmann
+   Original line: Ben Kuxmann Assistant Cross Country & Track Coach bkuxmann@millikin.edu
+
+28. Caleb Bleich
+   Email: cbleich@millikin.edu
+   Username: cbleich
+   Original line: Caleb Bleich Assistant Track and Field Coach cbleich@millikin.edu
+
+29. Whitney Nichols
+   Email: wlnichols@millikin.edu
+   Username: wlnichols
+   Original line: Whitney Nichols Head Women's Volleyball Coach wlnichols@millikin.edu
+
+30. Hannah Dick
+   Email: hdick@millikin.edu
+   Username: hdick
+   Original line: Hannah Dick Assistant Women's Volleyball Coach hdick@millikin.edu 440-714-
+
+31. Ryan Birt
+   Email: rbirt@millikin.edu
+   Username: rbirt
+   Original line: Ryan Birt Head Wrestling Coach rbirt@millikin.edu 217-621- MillWrestling
+
+32. Brendan Ladd
+   Email: bladd@millikin.edu
+   Username: bladd
+   Original line: Brendan Ladd Assistant Wrestling Coach bladd@millikin.edu
+
+33. Ed Pacey
+   Email: epacey@millikin.edu
+   Username: epacey
+   Original line: Ed Pacey Head Swimming & Triathlon Coach epacey@millikin.edu 217-425-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Patrick Allgeier Assistant Football Coach/Asst. A. D. for Events & pallgeier@millikin.edu 217-424-
+• Brandon Townsend Head Baseball Coach\Assistant Athletic Director btownsend@millikin.edu 217-424- BigBlueBaseball
+• Jasper Luckritz Head Strength & Conditioning Coach jluckritz@millikin.edu 563-321-
+• Brandon Townsend Head Baseball Coach\Assistant Athletic Director btownsend@millikin.edu 217-424- BigBlueBaseball
+• Dylan Hamilton Assistant Baseball Coach dhamilton@millikin.edu
+• Kramer Soderberg Head Men's Basketball Coach ksoderberg@millikin.edu 217--420- CoachKSodie
+• Mack Snyder Assistant Men's Basketball Coach masnyder@millikin.edu
+• Grant Baker Assistant Men's Basketball Coach gbaker@millikin.edu
+• Kirsten Hammer Head Women's Basketball Coach khammer@millikin.edu 217-420-
+• Mallory Liebl Assistant Women's Basketball Coach mliebl@millikin.edu 217-420-
+• Ben Kuxmann Assistant Cross Country & Track Coach bkuxmann@millikin.edu
+• Billy Riebock Head Football Coach briebock@millikin.edu 217-424-
+• Gunnard Twyner Assistant Football Coach-Offensive Coordinator gtwyner@millikin.edu 217-420-
+• Patrick Allgeier Assistant Football Coach/Asst. A. D. for Events & pallgeier@millikin.edu 217-424-
+• Jermaine Burket Assistant Football Coach jburket@millikin.edu 217-425-
+• Joan Catanese Assistant Football Coach jcatanese@millikin.edu 217-425-
+• German Romero Rosales Assistant Football Coach gromerorosales@millikin.edu
+• Charlie Ward Head Men's Soccer Coach cjward@millikin.edu
+• Kyle Petering Assistant Men's Soccer Coach kpetering@millikin.edu
+• Ian Doherty Head Women's Soccer Coach idoherty@millikin.edu 217-424- @MillikinWSoccer
+• Consuelo Michel Assistant Women's Soccer Coach pmichelnunez@millikin.edu
+• Brian Levin Head Softball Coach blevin@millikin.edu 931-980-
+• Ed Pacey Head Swimming & Triathlon Coach epacey@millikin.edu 217-425-
+• Lindsay Corbett Assistant Swimming Coach lcorbett@millikin.edu
+• Carrol Whitehouse Assistant Track and Field Coach cwhitehouse@millikin.edu 217-424-
+• Hailey O'Malley Assistant Track and Field Coach (Distance) homalley@millikin.edu
+• Ben Kuxmann Assistant Cross Country & Track Coach bkuxmann@millikin.edu
+• Caleb Bleich Assistant Track and Field Coach cbleich@millikin.edu
+• Whitney Nichols Head Women's Volleyball Coach wlnichols@millikin.edu
+• Hannah Dick Assistant Women's Volleyball Coach hdick@millikin.edu 440-714-
+• Ryan Birt Head Wrestling Coach rbirt@millikin.edu 217-621- MillWrestling
+• Brendan Ladd Assistant Wrestling Coach bladd@millikin.edu
+• Ed Pacey Head Swimming & Triathlon Coach epacey@millikin.edu 217-425-

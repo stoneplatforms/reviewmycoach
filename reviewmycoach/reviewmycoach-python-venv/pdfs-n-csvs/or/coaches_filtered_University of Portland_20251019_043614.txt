@@ -1,0 +1,269 @@
+COACH ENTRIES FOUND - 2025-10-19 04:36:15
+============================================================
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Geoff Loomis
+   Email: loomis@up.edu
+   Username: loomis
+   Original line: Geoff Loomis Head Coach loomis@up.edu 503-943-
+
+2. Trey Watt
+   Email: watt@up.edu
+   Username: watt
+   Original line: Trey Watt Associate Head Coach watt@up.edu 503-467-
+
+3. Jake Holcroft
+   Email: holcroft@up.edu
+   Username: holcroft
+   Original line: Jake Holcroft Assistant Coach holcroft@up.edu
+
+4. Ben Patacsil
+   Email: patacsil@up.edu
+   Username: patacsil
+   Original line: Ben Patacsil Assistant Coach patacsil@up.edu
+
+5. Shantay Legans
+   Email: legans@up.edu
+   Username: legans
+   Original line: Shantay Legans Head Coach legans@up.edu
+
+6. Arturo Ormond
+   Email: ormond@up.edu
+   Username: ormond
+   Original line: Arturo Ormond Assistant Coach ormond@up.edu
+
+7. Anthony Separovich
+   Email: separovi@up.edu
+   Username: separovi
+   Original line: Anthony Separovich Assistant Coach separovi@up.edu
+
+8. Mark Berokoff
+   Email: berokoff@up.edu
+   Username: berokoff
+   Original line: Mark Berokoff Assistant Coach berokoff@up.edu
+
+9. Matthew Meyer
+   Email: meyerm@up.edu
+   Username: meyerm
+   Original line: Matthew Meyer Assistant Coach / Director of Basketball Operations meyerm@up.edu
+
+10. Decclan Mclean
+   Email: mcleand26@up.edu
+   Username: mcleand26
+   Original line: Decclan Mclean Assistant Coach / Special Assistant to the Head Coach mcleand26@up.edu
+
+11. Tom Batsell
+   Email: batsell@up.edu
+   Username: batsell
+   Original line: Tom Batsell Assistant Coach batsell@up.edu 503-943-
+
+12. Sharon Rissmiller
+   Email: rissmils@up.edu
+   Username: rissmils
+   Original line: Sharon Rissmiller Assistant Coach rissmils@up.edu 503-943-
+
+13. Jerod Gibson
+   Email: gibsonje@up.edu
+   Username: gibsonje
+   Original line: Jerod Gibson Assistant Coach gibsonje@up.edu
+
+14. Kianna Hamilton
+   Email: hamiltok@up.edu
+   Username: hamiltok
+   Original line: Kianna Hamilton Assistant Coach / Director of Basketball Operations hamiltok@up.edu
+
+15. Rob Conner
+   Email: conner@up.edu
+   Username: conner
+   Original line: Rob Conner Head Coach conner@up.edu 503-943-
+
+16. Brady Johnson
+   Email: johnsobr@up.edu
+   Username: johnsobr
+   Original line: Brady Johnson Assistant Coach johnsobr@up.edu
+
+17. Ian Solof
+   Email: solof@up.edu
+   Username: solof
+   Original line: Ian Solof Head Coach solof@up.edu 503-943-
+
+18. Anna Connor
+   Email: connor@up.edu
+   Username: connor
+   Original line: Anna Connor Assistant Women's Cross Country & Track Coach connor@up.edu
+
+19. Brady Johnson
+   Email: johnsobr@up.edu
+   Username: johnsobr
+   Original line: Brady Johnson Assistant Coach johnsobr@up.edu
+
+20. Sol Sallos
+   Email: sallos@up.edu
+   Username: sallos
+   Original line: Sol Sallos Track & Field Assistant Coach sallos@up.edu
+
+21. Gulliver Scott
+   Email: scottg@up.edu
+   Username: scottg
+   Original line: Gulliver Scott Head Coach scottg@up.edu 503-943-
+
+22. Desi Petrova
+   Email: petrova@up.edu
+   Username: petrova
+   Original line: Desi Petrova Assistant Coach petrova@up.edu 503-943-
+
+23. Sam Peltier
+   Email: peltier@up.edu
+   Username: peltier
+   Original line: Sam Peltier Assistant Coach peltier@up.edu 503-943-
+
+24. Lexi Turner
+   Email: turnera@up.edu
+   Username: turnera
+   Original line: Lexi Turner Assistant Coach turnera@up.edu
+
+25. Nick Carlin-Voigt
+   Email: carlinvo@up.edu
+   Username: carlinvo
+   Original line: Nick Carlin-Voigt Head Coach carlinvo@up.edu 503-943-
+
+26. Matt Deemer
+   Email: deemer@up.edu
+   Username: deemer
+   Original line: Matt Deemer Assistant Coach deemer@up.edu 760-845-
+
+27. Alex Hockborn
+   Email: hockborn@up.edu
+   Username: hockborn
+   Original line: Alex Hockborn Assistant Coach hockborn@up.edu
+
+28. Ben Simon
+   Email: simon@up.edu
+   Username: simon
+   Original line: Ben Simon Assistant Coach simon@up.edu
+
+29. Omar Navarro-Ramirez
+   Email: navarror@up.edu
+   Username: navarror
+   Original line: Omar Navarro-Ramirez Special Assistant to Head Coach navarror@up.edu
+
+30. Maite Zabala
+   Email: zabala@up.edu
+   Username: zabala
+   Original line: Maite Zabala Associate Head Coach zabala@up.edu 510-551-
+
+31. Tina Frimpong
+   Email: ellertso@up.edu
+   Username: ellertso
+   Original line: Tina Frimpong Ellertson Associate Head Coach ellertso@up.edu
+
+32. Ken Krolicki
+   Email: krolicki@up.edu
+   Username: krolicki
+   Original line: Ken Krolicki Assistant Coach krolicki@up.edu
+
+33. Richie Handy
+   Email: handy@up.edu
+   Username: handy
+   Original line: Richie Handy Assistant Sports Performance Coach handy@up.edu 503-943-
+
+34. Nico Wilbur
+   Email: wilbur@up.edu
+   Username: wilbur
+   Original line: Nico Wilbur Assistant Strength Coach wilbur@up.edu
+
+35. Aaron Gross
+   Email: gross@up.edu
+   Username: gross
+   Original line: Aaron Gross Head Coach gross@up.edu 503-943-
+
+36. Leo Hibi
+   Email: hibi@up.edu
+   Username: hibi
+   Original line: Leo Hibi Assistant Coach hibi@up.edu
+
+37. Mathieu Garcia
+   Email: garcimat18@up.edu
+   Username: garcimat18
+   Original line: Mathieu Garcia Assistant Coach garcimat18@up.edu
+
+38. Filip Zivkovic
+   Email: zivkovic@up.edu
+   Username: zivkovic
+   Original line: Filip Zivkovic Head Coach zivkovic@up.edu
+
+39. Iva Zelic
+   Email: zelic@up.edu
+   Username: zelic
+   Original line: Iva Zelic Assistant Coach zelic@up.edu
+
+40. Megan Burton
+   Email: burtonm@up.edu
+   Username: burtonm
+   Original line: Megan Burton Head Coach burtonm@up.edu 503-943-
+
+41. Dylan Hamilton
+   Email: hamiltod@up.edu
+   Username: hamiltod
+   Original line: Dylan Hamilton Lead Beach Coach/Associate Head Volleyball Coach hamiltod@up.edu 503-943-
+
+42. Kyle Homeyer
+   Email: homeyer@up.edu
+   Username: homeyer
+   Original line: Kyle Homeyer Assistant Coach homeyer@up.edu
+
+43. Kazna Tanuvasa
+   Email: tanuvasa@up.edu
+   Username: tanuvasa
+   Original line: Kazna Tanuvasa Assistant Coach tanuvasa@up.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Geoff Loomis Head Coach loomis@up.edu 503-943-
+• Trey Watt Associate Head Coach watt@up.edu 503-467-
+• Jake Holcroft Assistant Coach holcroft@up.edu
+• Ben Patacsil Assistant Coach patacsil@up.edu
+• Shantay Legans Head Coach legans@up.edu
+• Arturo Ormond Assistant Coach ormond@up.edu
+• Anthony Separovich Assistant Coach separovi@up.edu
+• Mark Berokoff Assistant Coach berokoff@up.edu
+• Matthew Meyer Assistant Coach / Director of Basketball Operations meyerm@up.edu
+• Decclan Mclean Assistant Coach / Special Assistant to the Head Coach mcleand26@up.edu
+• Tom Batsell Assistant Coach batsell@up.edu 503-943-
+• Sharon Rissmiller Assistant Coach rissmils@up.edu 503-943-
+• Jerod Gibson Assistant Coach gibsonje@up.edu
+• Kianna Hamilton Assistant Coach / Director of Basketball Operations hamiltok@up.edu
+• Rob Conner Head Coach conner@up.edu 503-943-
+• Brady Johnson Assistant Coach johnsobr@up.edu
+• Ian Solof Head Coach solof@up.edu 503-943-
+• Anna Connor Assistant Women's Cross Country & Track Coach connor@up.edu
+• Brady Johnson Assistant Coach johnsobr@up.edu
+• Sol Sallos Track & Field Assistant Coach sallos@up.edu
+• Gulliver Scott Head Coach scottg@up.edu 503-943-
+• Desi Petrova Assistant Coach petrova@up.edu 503-943-
+• Sam Peltier Assistant Coach peltier@up.edu 503-943-
+• Lexi Turner Assistant Coach turnera@up.edu
+• Nick Carlin-Voigt Head Coach carlinvo@up.edu 503-943-
+• Matt Deemer Assistant Coach deemer@up.edu 760-845-
+• Alex Hockborn Assistant Coach hockborn@up.edu
+• Ben Simon Assistant Coach simon@up.edu
+• Omar Navarro-Ramirez Special Assistant to Head Coach navarror@up.edu
+• Maite Zabala Associate Head Coach zabala@up.edu 510-551-
+• Tina Frimpong Ellertson Associate Head Coach ellertso@up.edu
+• Ken Krolicki Assistant Coach krolicki@up.edu
+• Richie Handy Assistant Sports Performance Coach handy@up.edu 503-943-
+• Nico Wilbur Assistant Strength Coach wilbur@up.edu
+• Aaron Gross Head Coach gross@up.edu 503-943-
+• Leo Hibi Assistant Coach hibi@up.edu
+• Mathieu Garcia Assistant Coach garcimat18@up.edu
+• Filip Zivkovic Head Coach zivkovic@up.edu
+• Iva Zelic Assistant Coach zelic@up.edu
+• Megan Burton Head Coach burtonm@up.edu 503-943-
+• Dylan Hamilton Lead Beach Coach/Associate Head Volleyball Coach hamiltod@up.edu 503-943-
+• Kyle Homeyer Assistant Coach homeyer@up.edu
+• Kazna Tanuvasa Assistant Coach tanuvasa@up.edu

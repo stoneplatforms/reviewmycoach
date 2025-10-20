@@ -1,0 +1,306 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:31
+============================================================
+
+Total coaches found: 44
+
+PARSED ENTRIES:
+----------------------------------------
+1. Matt Saitz
+   Email: matthewsaitz71@webster.edu
+   Username: matthewsaitz71
+   Phone: (314) 246-2311
+   Original line: Matt Saitz Strength & Conditioning Coach matthewsaitz71@webster.edu 314-246-2311
+
+2. Bill Kurich
+   Email: billkurich40@webster.edu
+   Username: billkurich40
+   Phone: (314) 246-7509
+   Original line: Bill Kurich Head Baseball Coach billkurich40@webster.edu 314-246-7509
+
+3. Kase Lawson
+   Email: kaselawson@webster.edu
+   Username: kaselawson
+   Phone: (314) 246-7866
+   Original line: Kase Lawson Assistant Baseball Coach - Pitching Coach kaselawson@webster.edu 314-246-7866
+
+4. Austin LaHue
+   Email: austinlahue10@webster.edu
+   Username: austinlahue10
+   Phone: (314) 246-7723
+   Original line: Austin LaHue Assistant Baseball Coach - Outfielders / Hitting Coach austinlahue10@webster.edu 314-246-7723
+
+5. Chris Bunch
+   Email: bunch@webster.edu
+   Username: bunch
+   Phone: (314) 246-7529
+   Original line: Chris Bunch Head Men's Basketball Coach bunch@webster.edu 314-246-7529
+
+6. Mike Siener
+   Email: sienemic@webster.edu
+   Username: sienemic
+   Phone: (314) 246-7578
+   Original line: Mike Siener Assistant Men's Basketball Coach sienemic@webster.edu 314-246-7578
+
+7. George Little
+   Email: georgelittle@webster.edu
+   Username: georgelittle
+   Phone: (314) 246-7578
+   Original line: George Little Assistant Men's Basketball Coach georgelittle@webster.edu 314-246-7578
+
+8. Greg Williams
+   Email: gregwilliams@webster.edu
+   Username: gregwilliams
+   Phone: (314) 246-7578
+   Original line: Greg Williams Assistant Men's Basketball Coach gregwilliams@webster.edu 314-246-7578
+
+9. Cody Bradfisch
+   Email: codybradfisch42@webster.edu
+   Username: codybradfisch42
+   Phone: (314) 246-7578
+   Original line: Cody Bradfisch Assistant Men's Basketball Coach codybradfisch42@webster.edu 314-246-7578
+
+10. Lance Thornhill
+   Email: lancethornhill@webster.edu
+   Username: lancethornhill
+   Phone: (314) 246-7858
+   Original line: Lance Thornhill Assistant Men's Basketball Coach / Interim Co-Head Golf Coach lancethornhill@webster.edu 314-246-7858
+
+11. Jordan Olufson
+   Email: jordanolufson86@webster.edu
+   Username: jordanolufson86
+   Phone: (314) 246-7508
+   Original line: Jordan Olufson Head Women's Basketball Coach jordanolufson86@webster.edu 314-246-7508
+
+12. Tanner Wilkenson
+   Email: tannerwilkenson@webster.edu
+   Username: tannerwilkenson
+   Phone: (314) 246-8763
+   Original line: Tanner Wilkenson Assistant Women's Basketball Coach tannerwilkenson@webster.edu 314-246-8763
+
+13. Angel Saddler
+   Email: angelsaddler87@webster.edu
+   Username: angelsaddler87
+   Original line: Angel Saddler Assistant Women's Basketball Coach angelsaddler87@webster.edu
+
+14. Kyle Robinson
+   Email: kylerobinson@webster.edu
+   Username: kylerobinson
+   Phone: (314) 246-7501
+   Original line: Kyle Robinson Head Cross Country Coach/Assistant Track & Field Coach kylerobinson@webster.edu 314-246-7501
+
+15. Nick Homan
+   Email: nicholashoman@webster.edu
+   Username: nicholashoman
+   Phone: (314) 246-7547
+   Original line: Nick Homan Head Track & Field Coach/Assistant Cross Country Coach nicholashoman@webster.edu 314-246-7547
+
+16. Kyle Robinson
+   Email: kylerobinson@webster.edu
+   Username: kylerobinson
+   Phone: (314) 246-7501
+   Original line: Kyle Robinson Head Cross Country Coach/Assistant Track & Field Coach kylerobinson@webster.edu 314-246-7501
+
+17. Nick Homan
+   Email: nicholashoman@webster.edu
+   Username: nicholashoman
+   Phone: (314) 246-7547
+   Original line: Nick Homan Head Track & Field Coach/Assistant Cross Country Coach nicholashoman@webster.edu 314-246-7547
+
+18. TBA TBA
+   Email: maureenburt@webster.edu
+   Username: maureenburt
+   Phone: (314) 246-4208
+   Original line: TBA TBA Head Men's Golf Coach maureenburt@webster.edu 314-246-4208
+
+19. Josh Hayes
+   Email: joshuahayes@webster.edu
+   Username: joshuahayes
+   Phone: (314) 246-7858
+   Original line: Josh Hayes Interim Co-Head Golf Coach joshuahayes@webster.edu 314-246-7858
+
+20. Lance Thornhill
+   Email: lancethornhill@webster.edu
+   Username: lancethornhill
+   Phone: (314) 246-7858
+   Original line: Lance Thornhill Assistant Men's Basketball Coach / Interim Co-Head Golf Coach lancethornhill@webster.edu 314-246-7858
+
+21. Nenad Curic
+   Email: nenadcuric@webster.edu
+   Username: nenadcuric
+   Phone: (314) 246-7764
+   Original line: Nenad Curic Head Men's Soccer Coach nenadcuric@webster.edu 314-246-7764
+
+22. Alen Bradaric
+   Email: alenbradaric@webster.edu
+   Username: alenbradaric
+   Original line: Alen Bradaric Assistant Men's Soccer Coach alenbradaric@webster.edu
+
+23. Joe Clarke
+   Email: josephclarke@webster.edu
+   Username: josephclarke
+   Original line: Joe Clarke Assistant Men's Soccer Coach josephclarke@webster.edu
+
+24. Luigi Scire
+   Email: scirela@webster.edu
+   Username: scirela
+   Phone: (314) 246-7191
+   Original line: Luigi Scire Head Women's Soccer Coach scirela@webster.edu 314-246-7191
+
+25. Al Sampson
+   Email: alsampson@webster.edu
+   Username: alsampson
+   Phone: (314) 246-8157
+   Original line: Al Sampson Head Softball Coach alsampson@webster.edu 314-246-8157
+
+26. Scott Charleville
+   Email: scottcharleville@webster.edu
+   Username: scottcharleville
+   Original line: Scott Charleville Assistant Softball Coach scottcharleville@webster.edu
+
+27. Abbey McAteer
+   Email: abbeymcateer@webster.edu
+   Username: abbeymcateer
+   Original line: Abbey McAteer Assistant Softball Coach abbeymcateer@webster.edu
+
+28. John Black
+   Email: johnblack@webster.edu
+   Username: johnblack
+   Phone: (314) 246-8692
+   Original line: John Black Head Men's and Women's Tennis Coach johnblack@webster.edu 314-246-8692
+
+29. Carl Walker
+   Email: carlwalker74@webster.edu
+   Username: carlwalker74
+   Phone: (314) 246-8692
+   Original line: Carl Walker Assistant Men's and Women's Tennis Coach carlwalker74@webster.edu 314-246-8692
+
+30. Riley Muren
+   Email: rileymuren70@webster.edu
+   Username: rileymuren70
+   Original line: Riley Muren Assistant Men's and Women's Tennis Coach rileymuren70@webster.edu
+
+31. John Black
+   Email: johnblack@webster.edu
+   Username: johnblack
+   Phone: (314) 246-8692
+   Original line: John Black Head Men's and Women's Tennis Coach johnblack@webster.edu 314-246-8692
+
+32. Carl Walker
+   Email: carlwalker74@webster.edu
+   Username: carlwalker74
+   Phone: (314) 246-8692
+   Original line: Carl Walker Assistant Men's and Women's Tennis Coach carlwalker74@webster.edu 314-246-8692
+
+33. Riley Muren
+   Email: rileymuren70@webster.edu
+   Username: rileymuren70
+   Original line: Riley Muren Assistant Men's and Women's Tennis Coach rileymuren70@webster.edu
+
+34. Nick Homan
+   Email: nicholashoman@webster.edu
+   Username: nicholashoman
+   Phone: (314) 246-7547
+   Original line: Nick Homan Head Track & Field Coach/Assistant Cross Country Coach nicholashoman@webster.edu 314-246-7547
+
+35. Kyle Robinson
+   Email: kylerobinson@webster.edu
+   Username: kylerobinson
+   Phone: (314) 246-7501
+   Original line: Kyle Robinson Head Cross Country Coach/Assistant Track & Field Coach kylerobinson@webster.edu 314-246-7501
+
+36. Peter Juszczyk
+   Email: peterjuszczyk@webster.edu
+   Username: peterjuszczyk
+   Original line: Peter Juszczyk Assistant Men's and Women's Track & Field Coach peterjuszczyk@webster.edu
+
+37. Nick Homan
+   Email: nicholashoman@webster.edu
+   Username: nicholashoman
+   Phone: (314) 246-7547
+   Original line: Nick Homan Head Track & Field Coach/Assistant Cross Country Coach nicholashoman@webster.edu 314-246-7547
+
+38. Kyle Robinson
+   Email: kylerobinson@webster.edu
+   Username: kylerobinson
+   Phone: (314) 246-7501
+   Original line: Kyle Robinson Head Cross Country Coach/Assistant Track & Field Coach kylerobinson@webster.edu 314-246-7501
+
+39. Peter Juszczyk
+   Email: peterjuszczyk@webster.edu
+   Username: peterjuszczyk
+   Original line: Peter Juszczyk Assistant Men's and Women's Track & Field Coach peterjuszczyk@webster.edu
+
+40. Merry Graf
+   Email: mgraf@webster.edu
+   Username: mgraf
+   Phone: (314) 246-7930
+   Original line: Merry Graf Head Volleyball Coach mgraf@webster.edu 314-246-7930
+
+41. Luke Young
+   Email: lukeyoung@webster.edu
+   Username: lukeyoung
+   Original line: Luke Young Assistant Volleyball Coach lukeyoung@webster.edu
+
+42. Emily Knowles
+   Email: emilyknowles99@webster.edu
+   Username: emilyknowles99
+   Original line: Emily Knowles Assistant Volleyball Coach emilyknowles99@webster.edu
+
+43. Jameson Stanton
+   Email: jamesonstanton@webster.edu
+   Username: jamesonstanton
+   Original line: Jameson Stanton Assistant Volleyball Coach jamesonstanton@webster.edu
+
+44. Jenna Rodriguez
+   Email: jennarodriguez00@webster.edu
+   Username: jennarodriguez00
+   Original line: Jenna Rodriguez Assistant Volleyball Coach jennarodriguez00@webster.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Matt Saitz Strength & Conditioning Coach matthewsaitz71@webster.edu 314-246-2311
+• Bill Kurich Head Baseball Coach billkurich40@webster.edu 314-246-7509
+• Kase Lawson Assistant Baseball Coach - Pitching Coach kaselawson@webster.edu 314-246-7866
+• Austin LaHue Assistant Baseball Coach - Outfielders / Hitting Coach austinlahue10@webster.edu 314-246-7723
+• Chris Bunch Head Men's Basketball Coach bunch@webster.edu 314-246-7529
+• Mike Siener Assistant Men's Basketball Coach sienemic@webster.edu 314-246-7578
+• George Little Assistant Men's Basketball Coach georgelittle@webster.edu 314-246-7578
+• Greg Williams Assistant Men's Basketball Coach gregwilliams@webster.edu 314-246-7578
+• Cody Bradfisch Assistant Men's Basketball Coach codybradfisch42@webster.edu 314-246-7578
+• Lance Thornhill Assistant Men's Basketball Coach / Interim Co-Head Golf Coach lancethornhill@webster.edu 314-246-7858
+• Jordan Olufson Head Women's Basketball Coach jordanolufson86@webster.edu 314-246-7508
+• Tanner Wilkenson Assistant Women's Basketball Coach tannerwilkenson@webster.edu 314-246-8763
+• Angel Saddler Assistant Women's Basketball Coach angelsaddler87@webster.edu
+• Kyle Robinson Head Cross Country Coach/Assistant Track & Field Coach kylerobinson@webster.edu 314-246-7501
+• Nick Homan Head Track & Field Coach/Assistant Cross Country Coach nicholashoman@webster.edu 314-246-7547
+• Kyle Robinson Head Cross Country Coach/Assistant Track & Field Coach kylerobinson@webster.edu 314-246-7501
+• Nick Homan Head Track & Field Coach/Assistant Cross Country Coach nicholashoman@webster.edu 314-246-7547
+• TBA TBA Head Men's Golf Coach maureenburt@webster.edu 314-246-4208
+• Josh Hayes Interim Co-Head Golf Coach joshuahayes@webster.edu 314-246-7858
+• Lance Thornhill Assistant Men's Basketball Coach / Interim Co-Head Golf Coach lancethornhill@webster.edu 314-246-7858
+• Nenad Curic Head Men's Soccer Coach nenadcuric@webster.edu 314-246-7764
+• Alen Bradaric Assistant Men's Soccer Coach alenbradaric@webster.edu
+• Joe Clarke Assistant Men's Soccer Coach josephclarke@webster.edu
+• Luigi Scire Head Women's Soccer Coach scirela@webster.edu 314-246-7191
+• Al Sampson Head Softball Coach alsampson@webster.edu 314-246-8157
+• Scott Charleville Assistant Softball Coach scottcharleville@webster.edu
+• Abbey McAteer Assistant Softball Coach abbeymcateer@webster.edu
+• John Black Head Men's and Women's Tennis Coach johnblack@webster.edu 314-246-8692
+• Carl Walker Assistant Men's and Women's Tennis Coach carlwalker74@webster.edu 314-246-8692
+• Riley Muren Assistant Men's and Women's Tennis Coach rileymuren70@webster.edu
+• John Black Head Men's and Women's Tennis Coach johnblack@webster.edu 314-246-8692
+• Carl Walker Assistant Men's and Women's Tennis Coach carlwalker74@webster.edu 314-246-8692
+• Riley Muren Assistant Men's and Women's Tennis Coach rileymuren70@webster.edu
+• Nick Homan Head Track & Field Coach/Assistant Cross Country Coach nicholashoman@webster.edu 314-246-7547
+• Kyle Robinson Head Cross Country Coach/Assistant Track & Field Coach kylerobinson@webster.edu 314-246-7501
+• Peter Juszczyk Assistant Men's and Women's Track & Field Coach peterjuszczyk@webster.edu
+• Nick Homan Head Track & Field Coach/Assistant Cross Country Coach nicholashoman@webster.edu 314-246-7547
+• Kyle Robinson Head Cross Country Coach/Assistant Track & Field Coach kylerobinson@webster.edu 314-246-7501
+• Peter Juszczyk Assistant Men's and Women's Track & Field Coach peterjuszczyk@webster.edu
+• Merry Graf Head Volleyball Coach mgraf@webster.edu 314-246-7930
+• Luke Young Assistant Volleyball Coach lukeyoung@webster.edu
+• Emily Knowles Assistant Volleyball Coach emilyknowles99@webster.edu
+• Jameson Stanton Assistant Volleyball Coach jamesonstanton@webster.edu
+• Jenna Rodriguez Assistant Volleyball Coach jennarodriguez00@webster.edu

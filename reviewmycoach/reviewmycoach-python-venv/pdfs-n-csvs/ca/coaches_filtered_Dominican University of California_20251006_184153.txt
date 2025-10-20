@@ -1,0 +1,89 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:54
+============================================================
+
+Total coaches found: 13
+
+PARSED ENTRIES:
+----------------------------------------
+1. Justin Argenal
+   Email: justin.argenal@dominican.edu
+   Username: justin.argenal
+   Original line: Justin Argenal Head Men's Basketball Coach justin.argenal@dominican.edu
+
+2. Tim LaKose
+   Email: tim.lakose@dominican.edu
+   Username: tim.lakose
+   Original line: Tim LaKose Head Women's Basketball tim.lakose@dominican.edu CoachLaKose
+
+3. Mark Lubamersky
+   Email: mark.lubamersky@dominican.edu
+   Username: mark.lubamersky
+   Original line: Mark Lubamersky Assistant Track & Field Coach mark.lubamersky@dominican.edu
+
+4. Josh Ault
+   Email: joshua.ault@dominican.edu
+   Username: joshua.ault
+   Original line: Josh Ault Head Golf Coach joshua.ault@dominican.edu
+
+5. Josh Morris
+   Email: josh.morris@dominican.edu
+   Username: josh.morris
+   Original line: Josh Morris Assistant Golf Coach josh.morris@dominican.edu
+
+6. Bobby Grove
+   Email: robert.grove@dominican.edu
+   Username: robert.grove
+   Original line: Bobby Grove Head Men's Lacrosse Coach robert.grove@dominican.edu 415-
+
+7. Ricardo Martin
+   Email: ricardo.martin@dominican.edu
+   Username: ricardo.martin
+   Original line: Ricardo Martin Assistant Men's Soccer Coach ricardo.martin@dominican.edu
+
+8. Kelly Coffey
+   Email: kelly.coffey@dominican.edu
+   Username: kelly.coffey
+   Original line: Kelly Coffey Head Women's Soccer Coach kelly.coffey@dominican.edu dominican_ws
+
+9. Juliana Santos
+   Email: juliana.santos@dominican.edu
+   Username: juliana.santos
+   Original line: Juliana Santos Softball Head Coach juliana.santos@dominican.edu
+
+10. Bob Perales
+   Email: bob.perales@dominican.edu
+   Username: bob.perales
+   Original line: Bob Perales Assistant Softball Coach bob.perales@dominican.edu
+
+11. Cristina Visico
+   Email: cristina.visico@dominican.edu
+   Username: cristina.visico
+   Original line: Cristina Visico Hassanali Head Women's Tennis Coach cristina.visico@dominican.edu dominican_wt
+
+12. Tim Loesch
+   Email: tim.loesch@dominican.edu
+   Username: tim.loesch
+   Original line: Tim Loesch Head Volleyball Coach tim.loesch@dominican.edu
+
+13. Deo Boongaling
+   Email: volleyball@dominican.edu
+   Username: volleyball
+   Original line: Deo Boongaling Assistant Volleyball Coach volleyball@dominican.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Justin Argenal Head Men's Basketball Coach justin.argenal@dominican.edu
+• Tim LaKose Head Women's Basketball tim.lakose@dominican.edu CoachLaKose
+• Mark Lubamersky Assistant Track & Field Coach mark.lubamersky@dominican.edu
+• Josh Ault Head Golf Coach joshua.ault@dominican.edu
+• Josh Morris Assistant Golf Coach josh.morris@dominican.edu
+• Bobby Grove Head Men's Lacrosse Coach robert.grove@dominican.edu 415-
+• Ricardo Martin Assistant Men's Soccer Coach ricardo.martin@dominican.edu
+• Kelly Coffey Head Women's Soccer Coach kelly.coffey@dominican.edu dominican_ws
+• Juliana Santos Softball Head Coach juliana.santos@dominican.edu
+• Bob Perales Assistant Softball Coach bob.perales@dominican.edu
+• Cristina Visico Hassanali Head Women's Tennis Coach cristina.visico@dominican.edu dominican_wt
+• Tim Loesch Head Volleyball Coach tim.loesch@dominican.edu
+• Deo Boongaling Assistant Volleyball Coach volleyball@dominican.edu

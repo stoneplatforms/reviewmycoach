@@ -1,0 +1,199 @@
+COACH ENTRIES FOUND - 2025-10-04 18:17:38
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. David Nunez
+   Email: fiudazzlers@fiu.edu
+   Username: fiudazzlers
+   Original line: David Nunez Head Dazzlers Coach fiudazzlers@fiu.edu
+
+2. Coral Buxeda
+   Email: cbuxeda@fiu.edu
+   Username: cbuxeda
+   Phone: 305.348.2756
+   Original line: Coral Buxeda Head Cheerleading Coach cbuxeda@fiu.edu 305.348.2756
+
+3. Sima Ramirez
+   Email: siramire@fiu.edu
+   Username: siramire
+   Original line: Sima Ramirez Assistant Cheerleading Coach siramire@fiu.edu
+
+4. Mateo Agudelo
+   Email: maagudel@fiu.edu
+   Username: maagudel
+   Phone: 305.348.2756
+   Original line: Mateo Agudelo Assistant Coach - Strength and Conditioning maagudel@fiu.edu 305.348.2756
+
+5. Barrett Davis
+   Email: badavis@fiu.edu
+   Username: badavis
+   Original line: Barrett Davis Assistant Coach - Strength and Conditioning badavis@fiu.edu
+
+6. Anthony Rahar
+   Email: arahar@fiu.edu
+   Username: arahar
+   Original line: Anthony Rahar Assistant Coach - Strength and Conditioning arahar@fiu.edu
+
+7. Stephan Houston
+   Email: shouston@fiu.edu
+   Username: shouston
+   Original line: Stephan Houston Assistant Coach - Strength and Conditioning shouston@fiu.edu
+
+8. Timothy Smith
+   Email: tismithj@fiu.edu
+   Username: tismithj
+   Original line: Timothy Smith Assistant Coach - Strength and Conditioning tismithj@fiu.edu
+
+9. Brian Jeroloman
+   Email: bjerolom@fiu.edu
+   Username: bjerolom
+   Original line: Brian Jeroloman Assistant Coach / Recruiting Coordinator bjerolom@fiu.edu
+
+10. Joey Rodriguez
+   Email: jhrodrig@fiu.edu
+   Username: jhrodrig
+   Original line: Joey Rodriguez Assistant Head Coach jhrodrig@fiu.edu Coachjrod12
+
+11. Jesyka Burks-Wiley
+   Email: jburkswi@fiu.edu
+   Username: jburkswi
+   Original line: Jesyka Burks-Wiley Head Women's Basketball Coach jburkswi@fiu.edu @CoachBurks32
+
+12. Christelle N'Garsanet
+   Email: dngarsan@fiu.edu
+   Username: dngarsan
+   Original line: Christelle N'Garsanet Assistant Coach / Recruiting Coordinator dngarsan@fiu.edu
+
+13. Dan Wendt
+   Email: dwendt@fiu.edu
+   Username: dwendt
+   Original line: Dan Wendt Assistant Coach dwendt@fiu.edu @DWendt31
+
+14. John Koskinen
+   Email: jkoskine@fiu.edu
+   Username: jkoskine
+   Original line: John Koskinen Head Coach, Women's Golf jkoskine@fiu.edu
+
+15. Kyle Russell
+   Email: krussell@fiu.edu
+   Username: krussell
+   Original line: Kyle Russell Head Men's Soccer Coach krussell@fiu.edu
+
+16. Dannie Merida
+   Email: dmerida@fiu.edu
+   Username: dmerida
+   Original line: Dannie Merida Associate Head Coach dmerida@fiu.edu
+
+17. Matteo Gasperoni
+   Email: mgaspero@fiu.edu
+   Username: mgaspero
+   Original line: Matteo Gasperoni Assistant Coach mgaspero@fiu.edu
+
+18. Mat Dunn
+   Email: madunn@fiu.edu
+   Username: madunn
+   Original line: Mat Dunn Head Coach madunn@fiu.edu
+
+19. Mike Larabee
+   Email: mlarabee@fiu.edu
+   Username: mlarabee
+   Phone: 305.348.6155
+   Original line: Mike Larabee Head Coach mlarabee@fiu.edu 305.348.6155
+
+20. Mike Meyers
+   Email: mmeyers@fiu.edu
+   Username: mmeyers
+   Phone: 305.348.8392
+   Original line: Mike Meyers Associate Head Coach mmeyers@fiu.edu 305.348.8392
+
+21. Randy Horner
+   Email: rchorner@fiu.edu
+   Username: rchorner
+   Phone: 504.615.7629
+   Original line: Randy Horner Head Coach rchorner@fiu.edu 504.615.7629
+
+22. Josh Larcom
+   Email: jlarcom@fiu.edu
+   Username: jlarcom
+   Original line: Josh Larcom Head Diving Coach jlarcom@fiu.edu
+
+23. Brien Moffitt
+   Email: bmoffitt@fiu.edu
+   Username: bmoffitt
+   Original line: Brien Moffitt Associate Coach bmoffitt@fiu.edu
+
+24. Katarina Petrovic
+   Email: kpetrovi@fiu.edu
+   Username: kpetrovi
+   Phone: 305.348.6201
+   Original line: Katarina Petrovic Head Coach, Women's Tennis kpetrovi@fiu.edu 305.348.6201
+
+25. Ryan Heberling
+   Email: rheberli@fiu.edu
+   Username: rheberli
+   Phone: 305.348.1044
+   Original line: Ryan Heberling Head Coach | Throws rheberli@fiu.edu 305.348.1044
+
+26. Jermaine Felix
+   Email: jfeli014@fiu.edu
+   Username: jfeli014
+   Phone: 305.348.1044
+   Original line: Jermaine Felix Associate Head Coach - Distance/Cross Country jfeli014@fiu.edu 305.348.1044
+
+27. Chris Sullivan
+   Email: csulliva@fiu.edu
+   Username: csulliva
+   Original line: Chris Sullivan Assistant Coach, Jumps, Multis csulliva@fiu.edu
+
+28. Cristina Robertson
+   Email: cristina.robertson@fiu.edu
+   Username: cristina.robertson
+   Original line: Cristina Robertson Head Coach cristina.robertson@fiu.edu
+
+29. Terrence Robertson
+   Email: terrence.robertson@fiu.edu
+   Username: terrence.robertson
+   Original line: Terrence Robertson Associate Head Coach/Recruiting Coordinator terrence.robertson@fiu.edu
+
+30. Chen Abramovich
+   Email: chen.abramovich@fiu.edu
+   Username: chen.abramovich
+   Original line: Chen Abramovich Assistant Coach chen.abramovich@fiu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• David Nunez Head Dazzlers Coach fiudazzlers@fiu.edu
+• Coral Buxeda Head Cheerleading Coach cbuxeda@fiu.edu 305.348.2756
+• Sima Ramirez Assistant Cheerleading Coach siramire@fiu.edu
+• Mateo Agudelo Assistant Coach - Strength and Conditioning maagudel@fiu.edu 305.348.2756
+• Barrett Davis Assistant Coach - Strength and Conditioning badavis@fiu.edu
+• Anthony Rahar Assistant Coach - Strength and Conditioning arahar@fiu.edu
+• Stephan Houston Assistant Coach - Strength and Conditioning shouston@fiu.edu
+• Timothy Smith Assistant Coach - Strength and Conditioning tismithj@fiu.edu
+• Brian Jeroloman Assistant Coach / Recruiting Coordinator bjerolom@fiu.edu
+• Joey Rodriguez Assistant Head Coach jhrodrig@fiu.edu Coachjrod12
+• Jesyka Burks-Wiley Head Women's Basketball Coach jburkswi@fiu.edu @CoachBurks32
+• Christelle N'Garsanet Assistant Coach / Recruiting Coordinator dngarsan@fiu.edu
+• Dan Wendt Assistant Coach dwendt@fiu.edu @DWendt31
+• John Koskinen Head Coach, Women's Golf jkoskine@fiu.edu
+• Kyle Russell Head Men's Soccer Coach krussell@fiu.edu
+• Dannie Merida Associate Head Coach dmerida@fiu.edu
+• Matteo Gasperoni Assistant Coach mgaspero@fiu.edu
+• Mat Dunn Head Coach madunn@fiu.edu
+• Mike Larabee Head Coach mlarabee@fiu.edu 305.348.6155
+• Mike Meyers Associate Head Coach mmeyers@fiu.edu 305.348.8392
+• Randy Horner Head Coach rchorner@fiu.edu 504.615.7629
+• Josh Larcom Head Diving Coach jlarcom@fiu.edu
+• Brien Moffitt Associate Coach bmoffitt@fiu.edu
+• Katarina Petrovic Head Coach, Women's Tennis kpetrovi@fiu.edu 305.348.6201
+• Ryan Heberling Head Coach | Throws rheberli@fiu.edu 305.348.1044
+• Jermaine Felix Associate Head Coach - Distance/Cross Country jfeli014@fiu.edu 305.348.1044
+• Chris Sullivan Assistant Coach, Jumps, Multis csulliva@fiu.edu
+• Cristina Robertson Head Coach cristina.robertson@fiu.edu
+• Terrence Robertson Associate Head Coach/Recruiting Coordinator terrence.robertson@fiu.edu
+• Chen Abramovich Assistant Coach chen.abramovich@fiu.edu

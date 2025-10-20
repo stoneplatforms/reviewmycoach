@@ -1,0 +1,317 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:21
+============================================================
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dan McDonnell
+   Email: dan@GoCards.com
+   Username: dan
+   Phone: 852-0103
+   Original line: Dan McDonnell Head Coach dan@GoCards.com 852-0103
+
+2. Adam Vrable
+   Email: adamv@GoCards.com
+   Username: adamv
+   Phone: 852-5791
+   Original line: Adam Vrable Assistant Coach adamv@GoCards.com 852-5791
+
+3. Ronnie Hamilton
+   Email: ronnieh@gocards.com
+   Username: ronnieh
+   Original line: Ronnie Hamilton Assistant Coach ronnieh@gocards.com
+
+4. Thomas Carr
+   Email: tcarr@gocards.com
+   Username: tcarr
+   Original line: Thomas Carr Assistant Coach tcarr@gocards.com
+
+5. Peyton Siva
+   Email: peyton@gocards.com
+   Username: peyton
+   Original line: Peyton Siva Assistant Coach peyton@gocards.com
+
+6. Jeff Walz
+   Email: jeff@GoCards.com
+   Username: jeff
+   Phone: 852-0221
+   Original line: Jeff Walz Head Coach jeff@GoCards.com 852-0221
+
+7. Jonneshia Associate
+   Email: jp@GoCards.com
+   Username: jp
+   Phone: 852-1309
+   Original line: Jonneshia Associate Coach jp@GoCards.com 852-1309
+
+8. Shay Robinson
+   Email: shay@GoCards.com
+   Username: shay
+   Phone: 852-3840
+   Original line: Shay Robinson Associate Coach shay@GoCards.com 852-3840
+
+9. Amanda Butler
+   Email: amandab@gocards.com
+   Username: amandab
+   Original line: Amanda Butler Assistant Coach amandab@gocards.com
+
+10. Brittany Morris
+   Email: brittany.morris.1@louisville.edu
+   Username: brittany.morris.1
+   Original line: Brittany Morris Assistant Coach brittany.morris.1@louisville.edu
+
+11. Justine Sowry
+   Email: justine@GoCards.com
+   Username: justine
+   Phone: 852-0215
+   Original line: Justine Sowry Head Coach justine@GoCards.com 852-0215
+
+12. Erin Assistant
+   Email: erins@gocards.com
+   Username: erins
+   Phone: 852-8153
+   Original line: Erin Assistant Coach erins@gocards.com 852-8153
+
+13. Jeff Brohm
+   Email: Denise.murphy@louisville.edu
+   Username: Denise.murphy
+   Original line: Jeff Brohm Head Coach Denise.murphy@louisville.edu
+
+14. Ron English
+   Email: coachenglish@GoCards.com
+   Username: coachenglish
+   Original line: Ron English Assistant coachenglish@GoCards.com
+
+15. Mark Hagen
+   Email: coachhagen@GoCards.com
+   Username: coachhagen
+   Original line: Mark Hagen Assistant coachhagen@GoCards.com
+
+16. Chris Barclay
+   Email: coachbarclay@GoCards.com
+   Username: coachbarclay
+   Original line: Chris Barclay Assistant coachbarclay@GoCards.com
+
+17. Steve Ellis
+   Email: coachellis@GoCards.com
+   Username: coachellis
+   Original line: Steve Ellis Assistant coachellis@GoCards.com
+
+18. Richard Owens
+   Email: coachowens@GoCards.com
+   Username: coachowens
+   Original line: Richard Owens Assistant coachowens@GoCards.com
+
+19. Ryan Wallace
+   Email: coachwallace@GoCards.com
+   Username: coachwallace
+   Original line: Ryan Wallace Assistant coachwallace@GoCards.com
+
+20. Ryan Blagg
+   Email: coachblagg@GoCards.com
+   Username: coachblagg
+   Phone: (502) 852-8452
+   Original line: Ryan Blagg Head Men's Golf coachblagg@GoCards.com 502-852-8452
+
+21. Ryan Hand
+   Email: coachhand@GoCards.com
+   Username: coachhand
+   Phone: 852-2519
+   Original line: Ryan Hand Assistant Men's coachhand@GoCards.com 852-2519
+
+22. Whitney Young
+   Email: whitney@GoCards.com
+   Username: whitney
+   Phone: 852-8295
+   Original line: Whitney Young Head Coach whitney@GoCards.com 852-8295
+
+23. Tristyn Stasi
+   Email: Tristyn@gocards.com
+   Username: Tristyn
+   Original line: Tristyn Stasi Assistant Coach Tristyn@gocards.com
+
+24. Scott Teeter
+   Email: teeter@GoCards.com
+   Username: teeter
+   Phone: 852-4998
+   Original line: Scott Teeter Head Coach teeter@GoCards.com 852-4998
+
+25. Riley Ewing
+   Email: katherineriley.ewing@louisville.edu
+   Username: katherineriley.ewing
+   Original line: Riley Ewing Assistant Coach katherineriley.ewing@louisville.edu
+
+26. Derek Copeland
+   Email: derek@GoCards.com
+   Username: derek
+   Phone: 852-3325
+   Original line: Derek Copeland Head Coach derek@GoCards.com 852-3325
+
+27. Egan Berne
+   Email: egan@gocards.com
+   Username: egan
+   Original line: Egan Berne Assistant Coach egan@gocards.com
+
+28. Brian Reifsnyder
+   Email: reif@gocards.com
+   Username: reif
+   Original line: Brian Reifsnyder Assistant Coach reif@gocards.com
+
+29. John Michael
+   Email: johnh@GoCards.com
+   Username: johnh
+   Phone: 852-0105
+   Original line: John Michael Head Coach johnh@GoCards.com 852-0105
+
+30. Sean Teepen
+   Email: seant@GoCards.com
+   Username: seant
+   Phone: 852-3936
+   Original line: Sean Teepen Assistant Coach seant@GoCards.com 852-3936
+
+31. Stephen Lunney
+   Email: slunney@GoCards.com
+   Username: slunney
+   Original line: Stephen Lunney Assistant Coach slunney@GoCards.com
+
+32. Karen Ferguson-
+   Email: karen@GoCards.com
+   Username: karen
+   Phone: 852-0104
+   Original line: Karen Ferguson- Head Coach karen@GoCards.com 852-0104
+
+33. Olivia Mills
+   Email: omills@gocards.com
+   Username: omills
+   Phone: 852-7547
+   Original line: Olivia Mills Assistant Coach omills@gocards.com 852-7547
+
+34. Holly Aprile
+   Email: holly@GoCards.com
+   Username: holly
+   Phone: 852-1782
+   Original line: Holly Aprile Head Coach holly@GoCards.com 852-1782
+
+35. Griffin Joiner
+   Email: griffin@GoCards.com
+   Username: griffin
+   Phone: 852-7854
+   Original line: Griffin Joiner Assistant Coach griffin@GoCards.com 852-7854
+
+36. DeeDee Morris
+   Email: deedee@GoCards.com
+   Username: deedee
+   Original line: DeeDee Morris Assistant Coach deedee@GoCards.com
+
+37. Bryan Sabatella
+   Email: bryan@gocards.com
+   Username: bryan
+   Original line: Bryan Sabatella Assistant Coach bryan@gocards.com
+
+38. Misty Hodges
+   Email: misty@GoCards.com
+   Username: misty
+   Phone: 905-2667
+   Original line: Misty Hodges Cheer Coach misty@GoCards.com 905-2667
+
+39. Sheryl Knight
+   Email: Sheryl@GoCards.com
+   Username: Sheryl
+   Phone: 498-7013
+   Original line: Sheryl Knight Dance Coach Sheryl@GoCards.com 498-7013
+
+40. James Speed
+   Email: james@GoCards.com
+   Username: james
+   Phone: 376-7626
+   Original line: James Speed Cheer Coach james@GoCards.com 376-7626
+
+41. Arthur Albiero
+   Email: arthur@GoCards.com
+   Username: arthur
+   Phone: 852-8848
+   Original line: Arthur Albiero Head Coach arthur@GoCards.com 852-8848
+
+42. Ryan Rougeux
+   Email: ryanr@GoCards.com
+   Username: ryanr
+   Phone: 852-3581
+   Original line: Ryan Rougeux Diving Coach ryanr@GoCards.com 852-3581
+
+43. Christopher Assistant
+   Email: christopher.morinkougoucheff@louisville.edu
+   Username: christopher.morinkougoucheff
+   Original line: Christopher Assistant Coach christopher.morinkougoucheff@louisville.edu
+
+44. Mark Beckham
+   Email: markb@GoCards.com
+   Username: markb
+   Phone: 852-3357
+   Original line: Mark Beckham Head Coach markb@GoCards.com 852-3357
+
+45. Breaunna Assistant
+   Email: Breaunna@GoCards.com
+   Username: Breaunna
+   Original line: Breaunna Assistant Coach Breaunna@GoCards.com
+
+46. CC McGraw
+   Email: cc@gocards.com
+   Username: cc
+   Original line: CC McGraw Assistant Coach cc@gocards.com
+
+47. Parker Mikesch
+   Email: Parker@GoCards.com
+   Username: Parker
+   Original line: Parker Mikesch Assistant Coach Parker@GoCards.com
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dan McDonnell Head Coach dan@GoCards.com 852-0103
+• Adam Vrable Assistant Coach adamv@GoCards.com 852-5791
+• Ronnie Hamilton Assistant Coach ronnieh@gocards.com
+• Thomas Carr Assistant Coach tcarr@gocards.com
+• Peyton Siva Assistant Coach peyton@gocards.com
+• Jeff Walz Head Coach jeff@GoCards.com 852-0221
+• Jonneshia Associate Coach jp@GoCards.com 852-1309
+• Shay Robinson Associate Coach shay@GoCards.com 852-3840
+• Amanda Butler Assistant Coach amandab@gocards.com
+• Brittany Morris Assistant Coach brittany.morris.1@louisville.edu
+• Justine Sowry Head Coach justine@GoCards.com 852-0215
+• Erin Assistant Coach erins@gocards.com 852-8153
+• Jeff Brohm Head Coach Denise.murphy@louisville.edu
+• Ron English Assistant coachenglish@GoCards.com
+• Mark Hagen Assistant coachhagen@GoCards.com
+• Chris Barclay Assistant coachbarclay@GoCards.com
+• Steve Ellis Assistant coachellis@GoCards.com
+• Richard Owens Assistant coachowens@GoCards.com
+• Ryan Wallace Assistant coachwallace@GoCards.com
+• Ryan Blagg Head Men's Golf coachblagg@GoCards.com 502-852-8452
+• Ryan Hand Assistant Men's coachhand@GoCards.com 852-2519
+• Whitney Young Head Coach whitney@GoCards.com 852-8295
+• Tristyn Stasi Assistant Coach Tristyn@gocards.com
+• Scott Teeter Head Coach teeter@GoCards.com 852-4998
+• Riley Ewing Assistant Coach katherineriley.ewing@louisville.edu
+• Derek Copeland Head Coach derek@GoCards.com 852-3325
+• Egan Berne Assistant Coach egan@gocards.com
+• Brian Reifsnyder Assistant Coach reif@gocards.com
+• John Michael Head Coach johnh@GoCards.com 852-0105
+• Sean Teepen Assistant Coach seant@GoCards.com 852-3936
+• Stephen Lunney Assistant Coach slunney@GoCards.com
+• Karen Ferguson- Head Coach karen@GoCards.com 852-0104
+• Olivia Mills Assistant Coach omills@gocards.com 852-7547
+• Holly Aprile Head Coach holly@GoCards.com 852-1782
+• Griffin Joiner Assistant Coach griffin@GoCards.com 852-7854
+• DeeDee Morris Assistant Coach deedee@GoCards.com
+• Bryan Sabatella Assistant Coach bryan@gocards.com
+• Misty Hodges Cheer Coach misty@GoCards.com 905-2667
+• Sheryl Knight Dance Coach Sheryl@GoCards.com 498-7013
+• James Speed Cheer Coach james@GoCards.com 376-7626
+• Arthur Albiero Head Coach arthur@GoCards.com 852-8848
+• Ryan Rougeux Diving Coach ryanr@GoCards.com 852-3581
+• Christopher Assistant Coach christopher.morinkougoucheff@louisville.edu
+• Mark Beckham Head Coach markb@GoCards.com 852-3357
+• Breaunna Assistant Coach Breaunna@GoCards.com
+• CC McGraw Assistant Coach cc@gocards.com
+• Parker Mikesch Assistant Coach Parker@GoCards.com

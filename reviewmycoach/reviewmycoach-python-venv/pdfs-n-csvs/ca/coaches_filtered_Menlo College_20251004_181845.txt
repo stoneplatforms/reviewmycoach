@@ -1,0 +1,416 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:45
+============================================================
+
+Total coaches found: 65
+
+PARSED ENTRIES:
+----------------------------------------
+1. Cole Marmor
+   Email: cole.marmor@menlo.edu
+   Username: cole.marmor
+   Original line: Cole Marmor Asst. Sports Performance Coach cole.marmor@menlo.edu
+
+2. Kevin Handshoe
+   Email: kevin.handshoe@menlo.edu
+   Username: kevin.handshoe
+   Phone: (650) 543-3747
+   Original line: Kevin Handshoe Asst. Sports Performance Coach 650-543-3747 kevin.handshoe@menlo.edu
+
+3. Caroline Howard
+   Email: caroline.howard@menlo.edu
+   Username: caroline.howard
+   Original line: Caroline Howard Asst. Sports Performance Coach caroline.howard@menlo.edu
+
+4. Tatum Abram
+   Email: tatum.abram@menlo.edu
+   Username: tatum.abram
+   Original line: Tatum Abram GA Sports Performance Coach tatum.abram@menlo.edu
+
+5. Brian Arellano
+   Email: brian.aguilar@menlo.edu
+   Username: brian.aguilar
+   Original line: Brian Arellano GA Sports Performance Coach brian.aguilar@menlo.edu
+
+6. James Surovcik
+   Email: james.surovcik@menlo.edu
+   Username: james.surovcik
+   Original line: James Surovcik GA Sports Performance Coach james.surovcik@menlo.edu
+
+7. Shane May-Suzuki
+   Email: shane.may-suzuki@menlo.edu
+   Username: shane.may-suzuki
+   Original line: Shane May-Suzuki GA Sports Performance Coach shane.may-suzuki@menlo.edu
+
+8. Mike Givens
+   Email: mike.givens@menlo.edu
+   Username: mike.givens
+   Phone: (650) 543-3762
+   Original line: Mike Givens Head Baseball Coach 650-543-3762 mike.givens@menlo.edu
+
+9. Anthony Masetti
+   Email: anthony.masetti@menlo.edu
+   Username: anthony.masetti
+   Phone: (650) 543-4197
+   Original line: Anthony Masetti Assistant Baseball Coach 650-543-4197 anthony.masetti@menlo.edu
+
+10. BJ Boyd
+   Email: bijon.boyd@menlo.edu
+   Username: bijon.boyd
+   Original line: BJ Boyd Assistant Baseball Coach bijon.boyd@menlo.edu
+
+11. PJ Fuentes
+   Email: pj.fuentes@menlo.edu
+   Username: pj.fuentes
+   Original line: PJ Fuentes Graduate Assistant Baseball Coach pj.fuentes@menlo.edu
+
+12. Jamison Montgomery
+   Email: jamison.montgomery@menlo.edu
+   Username: jamison.montgomery
+   Phone: (650) 543-3777
+   Original line: Jamison Montgomery Head Men's Basketball Coach 650-543-3777 jamison.montgomery@menlo.edu
+
+13. Jackson Cascio
+   Email: jackson.cascio@menlo.edu
+   Username: jackson.cascio
+   Original line: Jackson Cascio Assistant Men's Basketball Coach jackson.cascio@menlo.edu
+
+14. Richard Fujii
+   Email: richard.fujii@menlo.edu
+   Username: richard.fujii
+   Original line: Richard Fujii Volunteer Assistant Men's Basketball Coach richard.fujii@menlo.edu
+
+15. Keith Lambert
+   Email: keith.lambert@menlo.edu
+   Username: keith.lambert
+   Phone: (650) 543-3815
+   Original line: Keith Lambert Head Men's Soccer Coach 650-543-3815 keith.lambert@menlo.edu
+
+16. Matt Tudor
+   Email: matthew.tudor@menlo.edu
+   Username: matthew.tudor
+   Original line: Matt Tudor Assistant Men's Soccer Coach matthew.tudor@menlo.edu
+
+17. Sebastian Lopez
+   Email: sebastian.lopez@menlo.edu
+   Username: sebastian.lopez
+   Original line: Sebastian Lopez Graduate Assistant Men's Soccer Coach sebastian.lopez@menlo.edu
+
+18. Panico Koutsoudis
+   Email: panico.koutsoudis@menlo.edu
+   Username: panico.koutsoudis
+   Original line: Panico Koutsoudis Volunteer Assistant Men's Soccer Coach panico.koutsoudis@menlo.edu
+
+19. Ian Wright
+   Email: ian.wright@menlo.edu
+   Username: ian.wright
+   Original line: Ian Wright Assistant Men's Volleyball Coach ian.wright@menlo.edu
+
+20. Shane Stent
+   Email: shane.stent@menlo.edu
+   Username: shane.stent
+   Original line: Shane Stent Graduate Assistant Men's Volleyball Coach shane.stent@menlo.edu
+
+21. Eric Ballelos
+   Email: eric.ballelos@menlo.edu
+   Username: eric.ballelos
+   Original line: Eric Ballelos Volunteer Assistant Men's Volleyball Coach eric.ballelos@menlo.edu
+
+22. Joey Martinez
+   Email: jmartinez@menlo.edu
+   Username: jmartinez
+   Phone: (650) 543-3778
+   Original line: Joey Martinez Director of Wrestling / Head Men's Wrestling Coach 650-543-3778 jmartinez@menlo.edu
+
+23. Greg Hagan
+   Email: gregory.hagan@menlo.edu
+   Username: gregory.hagan
+   Phone: (513) 803-9235
+   Original line: Greg Hagan Assistant Men's Wrestling Coach 513-803-9235 gregory.hagan@menlo.edu
+
+24. Jacob Palomino
+   Email: jacob.palomino@menlo.edu
+   Username: jacob.palomino
+   Original line: Jacob Palomino Assistant Men's Wrestling Coach jacob.palomino@menlo.edu
+
+25. Brock Timmons
+   Email: brock.timmons@menlo.edu
+   Username: brock.timmons
+   Original line: Brock Timmons Graduate Assistant Men's Wrestling Coach brock.timmons@menlo.edu
+
+26. Joe Dolby
+   Email: joseph.dolby@menlo.edu
+   Username: joseph.dolby
+   Original line: Joe Dolby Assistant Men's & Women's Golf Coach joseph.dolby@menlo.edu
+
+27. Rudy Abitago
+   Email: rudy.abitago@menlo.edu
+   Username: rudy.abitago
+   Original line: Rudy Abitago Jr. Associate Head Tennis Coach rudy.abitago@menlo.edu
+
+28. Brendan Kelleher
+   Email: brendan.kelleher@menlo.edu
+   Username: brendan.kelleher
+   Original line: Brendan Kelleher Assistant Men's & Women's Tennis Coach brendan.kelleher@menlo.edu
+
+29. Franziska Niederle
+   Email: franziska.niederle@menlo.edu
+   Username: franziska.niederle
+   Original line: Franziska Niederle Graduate Assistant Women's Tennis Coach franziska.niederle@menlo.edu
+
+30. Bruno Barrueto-Deza
+   Email: bruno.barruetodeza@menlo.edu
+   Username: bruno.barruetodeza
+   Original line: Bruno Barrueto-Deza Volunteer Assistant Men's & Women's Tennis Coach bruno.barruetodeza@menlo.edu
+
+31. McKinsey Thorpe
+   Email: mckinsey.thorpe@menlo.edu
+   Username: mckinsey.thorpe
+   Phone: (650) 543-3774
+   Original line: McKinsey Thorpe Head Softball Coach 650-543-3774 mckinsey.thorpe@menlo.edu
+
+32. Megan Massa
+   Email: megan.massa@menlo.edu
+   Username: megan.massa
+   Original line: Megan Massa Assistant Softball Coach megan.massa@menlo.edu
+
+33. Caroline Evans
+   Email: caroline.evans@menlo.edu
+   Username: caroline.evans
+   Original line: Caroline Evans Graduate Assistant Softball Coach caroline.evans@menlo.edu
+
+34. Desiree Albert
+   Email: desiree.albert@menlo.edu
+   Username: desiree.albert
+   Original line: Desiree Albert Volunteer Assistant Softball Coach desiree.albert@menlo.edu
+
+35. Shannon Spataro
+   Email: sspataro@menlo.edu
+   Username: sspataro
+   Phone: (650) 543-3770
+   Original line: Shannon Spataro Head Women's Basketball Coach 650-543-3770 sspataro@menlo.edu
+
+36. Jessica Rogers
+   Email: jessica.rogers@menlo.edu
+   Username: jessica.rogers
+   Original line: Jessica Rogers Associate Head Women's Basketball Coach jessica.rogers@menlo.edu
+
+37. Mira Love-Sangco
+   Email: mira.love-sangco@menlo.edu
+   Username: mira.love-sangco
+   Original line: Mira Love-Sangco Graduate Assistant Women's Basketball Coach mira.love-sangco@menlo.edu
+
+38. Jordyn Rosette
+   Email: jordyn.rosette@menlo.edu
+   Username: jordyn.rosette
+   Original line: Jordyn Rosette Graduate Assistant Women's Basketball Coach jordyn.rosette@menlo.edu
+
+39. Matthew Kemp
+   Email: matthew.kemp@menlo.edu
+   Username: matthew.kemp
+   Original line: Matthew Kemp Head Women's Soccer Coach matthew.kemp@menlo.edu
+
+40. Jacob Pickard
+   Email: jacob.pickard@menlo.edu
+   Username: jacob.pickard
+   Original line: Jacob Pickard Assistant Women's Soccer Coach jacob.pickard@menlo.edu
+
+41. Robyn Rowley
+   Email: robyn.rowley@menlo.edu
+   Username: robyn.rowley
+   Original line: Robyn Rowley Assistant Women's Soccer Coach robyn.rowley@menlo.edu
+
+42. Lesli Akeo
+   Email: lesli.akeo@menlo.edu
+   Username: lesli.akeo
+   Phone: (650) 543-3802
+   Original line: Lesli Akeo Head Women's Volleyball Coach 650-543-3802 lesli.akeo@menlo.edu
+
+43. Koala Matsuoka
+   Email: koala.matsuoka@menlo.edu
+   Username: koala.matsuoka
+   Original line: Koala Matsuoka Graduate Assistant Women's Volleyball Coach koala.matsuoka@menlo.edu
+
+44. Ellison Weaver
+   Email: ellison.weaver@menlo.edu
+   Username: ellison.weaver
+   Original line: Ellison Weaver Graduate Assistant Women's Volleyball Coach ellison.weaver@menlo.edu
+
+45. Paul Niederle
+   Email: paul.niederle@menlo.edu
+   Username: paul.niederle
+   Original line: Paul Niederle Graduate Assistant Women's Volleyball Coach / Game Operations paul.niederle@menlo.edu
+
+46. Michael Ayala
+   Email: michael.ayala@menlo.edu
+   Username: michael.ayala
+   Phone: (650) 543-3729
+   Original line: Michael Ayala Head Women's Wrestling Coach 650-543-3729 michael.ayala@menlo.edu
+
+47. Louisa Schwab
+   Email: louisa.schwab@menlo.edu
+   Username: louisa.schwab
+   Original line: Louisa Schwab Graduate Assistant Women's Wrestling Coach louisa.schwab@menlo.edu
+
+48. Nikita Dhaliwal
+   Email: nikita.dhaliwal@menlo.edu
+   Username: nikita.dhaliwal
+   Original line: Nikita Dhaliwal Assistant Women's Wrestling Coach nikita.dhaliwal@menlo.edu
+
+49. Tavia Heidelberg-Tillotson
+   Email: tavia.heidelberg@menlo.edu
+   Username: tavia.heidelberg
+   Original line: Tavia Heidelberg-Tillotson Assistant Women's Wrestling Coach tavia.heidelberg@menlo.edu
+
+50. Alexandria Glaudé
+   Email: alexandria.glaude@menlo.edu
+   Username: alexandria.glaude
+   Original line: Alexandria Glaudé Assistant Women's Wrestling Coach alexandria.glaude@menlo.edu
+
+51. Alejandra Corral
+   Email: alejandra.corral@menlo.edu
+   Username: alejandra.corral
+   Original line: Alejandra Corral Assistant Women's Wrestling Coach alejandra.corral@menlo.edu
+
+52. Ajayzee Zaballos
+   Email: a.zaballos@menlo.edu
+   Username: a.zaballos
+   Original line: Ajayzee Zaballos Assistant Women's Wrestling Coach a.zaballos@menlo.edu
+
+53. Ashley Whetzal
+   Email: ashley.whetzal@menlo.edu
+   Username: ashley.whetzal
+   Original line: Ashley Whetzal Assistant Women's Wrestling Coach ashley.whetzal@menlo.edu
+
+54. Richard Kiel
+   Email: richard.kiel@menlo.edu
+   Username: richard.kiel
+   Original line: Richard Kiel Head Non-NCAA Baseball Coach richard.kiel@menlo.edu
+
+55. Kevin Doherty
+   Email: kevin.doherty@menlo.edu
+   Username: kevin.doherty
+   Original line: Kevin Doherty Head Weightlifting Coach kevin.doherty@menlo.edu
+
+56. Julissa Taitano
+   Email: julissa.taitano@menlo.edu
+   Username: julissa.taitano
+   Phone: (408) 613-3770
+   Original line: Julissa Taitano Associate Head Women's NCWA Wrestling Coach 408-613-3770 julissa.taitano@menlo.edu
+
+57. Emily Sanchez
+   Email: emily.sanchez@menlo.edu
+   Username: emily.sanchez
+   Original line: Emily Sanchez Assistant Cheer Coach emily.sanchez@menlo.edu
+
+58. Richard Kiel
+   Email: richard.kiel@menlo.edu
+   Username: richard.kiel
+   Original line: Richard Kiel Head Non-NCAA Baseball Coach richard.kiel@menlo.edu
+
+59. Kevin Doherty
+   Email: kevin.doherty@menlo.edu
+   Username: kevin.doherty
+   Original line: Kevin Doherty Head Weightlifting Coach kevin.doherty@menlo.edu
+
+60. Jared Ambrosio
+   Email: jared.ambrosio@menlo.edu
+   Username: jared.ambrosio
+   Original line: Jared Ambrosio Associate Head Weightlifting Coach jared.ambrosio@menlo.edu
+
+61. Rysan Leong
+   Email: rysan.leong@menlo.edu
+   Username: rysan.leong
+   Original line: Rysan Leong Volunteer Assistant Men's Wrestling Coach rysan.leong@menlo.edu
+
+62. Julissa Taitano
+   Email: julissa.taitano@menlo.edu
+   Username: julissa.taitano
+   Phone: (408) 613-3770
+   Original line: Julissa Taitano Associate Head Women's NCWA Wrestling Coach 408-613-3770 julissa.taitano@menlo.edu
+
+63. Autumn Pacheco
+   Email: autumn.pacheco@menlo.edu
+   Username: autumn.pacheco
+   Original line: Autumn Pacheco Volunteer Assistant Women's Wrestling Coach autumn.pacheco@menlo.edu
+
+64. Cheyenne Lewis
+   Email: cheyenne.lewis@menlo.edu
+   Username: cheyenne.lewis
+   Phone: (510) 978-7389
+   Original line: Cheyenne Lewis Assistant Taekwondo Coach 510-978-7389 cheyenne.lewis@menlo.edu
+
+65. Jae Sung
+   Email: jaesung.lee@menlo.edu
+   Username: jaesung.lee
+   Phone: (650) 521-1510
+   Original line: Jae Sung Lee Assistant Taekwondo Coach 650-521-1510 jaesung.lee@menlo.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Cole Marmor Asst. Sports Performance Coach cole.marmor@menlo.edu
+• Kevin Handshoe Asst. Sports Performance Coach 650-543-3747 kevin.handshoe@menlo.edu
+• Caroline Howard Asst. Sports Performance Coach caroline.howard@menlo.edu
+• Tatum Abram GA Sports Performance Coach tatum.abram@menlo.edu
+• Brian Arellano GA Sports Performance Coach brian.aguilar@menlo.edu
+• James Surovcik GA Sports Performance Coach james.surovcik@menlo.edu
+• Shane May-Suzuki GA Sports Performance Coach shane.may-suzuki@menlo.edu
+• Mike Givens Head Baseball Coach 650-543-3762 mike.givens@menlo.edu
+• Anthony Masetti Assistant Baseball Coach 650-543-4197 anthony.masetti@menlo.edu
+• BJ Boyd Assistant Baseball Coach bijon.boyd@menlo.edu
+• PJ Fuentes Graduate Assistant Baseball Coach pj.fuentes@menlo.edu
+• Jamison Montgomery Head Men's Basketball Coach 650-543-3777 jamison.montgomery@menlo.edu
+• Jackson Cascio Assistant Men's Basketball Coach jackson.cascio@menlo.edu
+• Richard Fujii Volunteer Assistant Men's Basketball Coach richard.fujii@menlo.edu
+• Keith Lambert Head Men's Soccer Coach 650-543-3815 keith.lambert@menlo.edu
+• Matt Tudor Assistant Men's Soccer Coach matthew.tudor@menlo.edu
+• Sebastian Lopez Graduate Assistant Men's Soccer Coach sebastian.lopez@menlo.edu
+• Panico Koutsoudis Volunteer Assistant Men's Soccer Coach panico.koutsoudis@menlo.edu
+• Ian Wright Assistant Men's Volleyball Coach ian.wright@menlo.edu
+• Shane Stent Graduate Assistant Men's Volleyball Coach shane.stent@menlo.edu
+• Eric Ballelos Volunteer Assistant Men's Volleyball Coach eric.ballelos@menlo.edu
+• Joey Martinez Director of Wrestling / Head Men's Wrestling Coach 650-543-3778 jmartinez@menlo.edu
+• Greg Hagan Assistant Men's Wrestling Coach 513-803-9235 gregory.hagan@menlo.edu
+• Jacob Palomino Assistant Men's Wrestling Coach jacob.palomino@menlo.edu
+• Brock Timmons Graduate Assistant Men's Wrestling Coach brock.timmons@menlo.edu
+• Joe Dolby Assistant Men's & Women's Golf Coach joseph.dolby@menlo.edu
+• Rudy Abitago Jr. Associate Head Tennis Coach rudy.abitago@menlo.edu
+• Brendan Kelleher Assistant Men's & Women's Tennis Coach brendan.kelleher@menlo.edu
+• Franziska Niederle Graduate Assistant Women's Tennis Coach franziska.niederle@menlo.edu
+• Bruno Barrueto-Deza Volunteer Assistant Men's & Women's Tennis Coach bruno.barruetodeza@menlo.edu
+• McKinsey Thorpe Head Softball Coach 650-543-3774 mckinsey.thorpe@menlo.edu
+• Megan Massa Assistant Softball Coach megan.massa@menlo.edu
+• Caroline Evans Graduate Assistant Softball Coach caroline.evans@menlo.edu
+• Desiree Albert Volunteer Assistant Softball Coach desiree.albert@menlo.edu
+• Shannon Spataro Head Women's Basketball Coach 650-543-3770 sspataro@menlo.edu
+• Jessica Rogers Associate Head Women's Basketball Coach jessica.rogers@menlo.edu
+• Mira Love-Sangco Graduate Assistant Women's Basketball Coach mira.love-sangco@menlo.edu
+• Jordyn Rosette Graduate Assistant Women's Basketball Coach jordyn.rosette@menlo.edu
+• Matthew Kemp Head Women's Soccer Coach matthew.kemp@menlo.edu
+• Jacob Pickard Assistant Women's Soccer Coach jacob.pickard@menlo.edu
+• Robyn Rowley Assistant Women's Soccer Coach robyn.rowley@menlo.edu
+• Lesli Akeo Head Women's Volleyball Coach 650-543-3802 lesli.akeo@menlo.edu
+• Koala Matsuoka Graduate Assistant Women's Volleyball Coach koala.matsuoka@menlo.edu
+• Ellison Weaver Graduate Assistant Women's Volleyball Coach ellison.weaver@menlo.edu
+• Paul Niederle Graduate Assistant Women's Volleyball Coach / Game Operations paul.niederle@menlo.edu
+• Michael Ayala Head Women's Wrestling Coach 650-543-3729 michael.ayala@menlo.edu
+• Louisa Schwab Graduate Assistant Women's Wrestling Coach louisa.schwab@menlo.edu
+• Nikita Dhaliwal Assistant Women's Wrestling Coach nikita.dhaliwal@menlo.edu
+• Tavia Heidelberg-Tillotson Assistant Women's Wrestling Coach tavia.heidelberg@menlo.edu
+• Alexandria Glaudé Assistant Women's Wrestling Coach alexandria.glaude@menlo.edu
+• Alejandra Corral Assistant Women's Wrestling Coach alejandra.corral@menlo.edu
+• Ajayzee Zaballos Assistant Women's Wrestling Coach a.zaballos@menlo.edu
+• Ashley Whetzal Assistant Women's Wrestling Coach ashley.whetzal@menlo.edu
+• Richard Kiel Head Non-NCAA Baseball Coach richard.kiel@menlo.edu
+• Kevin Doherty Head Weightlifting Coach kevin.doherty@menlo.edu
+• Julissa Taitano Associate Head Women's NCWA Wrestling Coach 408-613-3770 julissa.taitano@menlo.edu
+• Emily Sanchez Assistant Cheer Coach emily.sanchez@menlo.edu
+• Richard Kiel Head Non-NCAA Baseball Coach richard.kiel@menlo.edu
+• Kevin Doherty Head Weightlifting Coach kevin.doherty@menlo.edu
+• Jared Ambrosio Associate Head Weightlifting Coach jared.ambrosio@menlo.edu
+• Rysan Leong Volunteer Assistant Men's Wrestling Coach rysan.leong@menlo.edu
+• Julissa Taitano Associate Head Women's NCWA Wrestling Coach 408-613-3770 julissa.taitano@menlo.edu
+• Autumn Pacheco Volunteer Assistant Women's Wrestling Coach autumn.pacheco@menlo.edu
+• Cheyenne Lewis Assistant Taekwondo Coach 510-978-7389 cheyenne.lewis@menlo.edu
+• Jae Sung Lee Assistant Taekwondo Coach 650-521-1510 jaesung.lee@menlo.edu

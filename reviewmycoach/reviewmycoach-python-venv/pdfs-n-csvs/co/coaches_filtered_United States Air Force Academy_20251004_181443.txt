@@ -1,0 +1,325 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:45
+============================================================
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mike Kazlausky
+   Email: Michael.kazlausky@afacademy.af.edu
+   Username: Michael.kazlausky
+   Phone: (719) 333-0835
+   Original line: Mike Kazlausky Head Coach 719-333-0835 Michael.kazlausky@afacademy.af.edu
+
+2. Eamonn Kearney
+   Email: Eamonn.kearney.ctr@afacademy.af.edu
+   Username: Eamonn.kearney.ctr
+   Phone: (719) 333-9098
+   Original line: Eamonn Kearney Assistant Coach 719-333-9098 Eamonn.kearney.ctr@afacademy.af.edu
+
+3. Lawrence Rowley
+   Email: lawrence.rowley.ctr@afacademy.af.edu
+   Username: lawrence.rowley.ctr
+   Phone: (719) 333-9098
+   Original line: Lawrence Rowley Assistant Coach 719-333-9098 lawrence.rowley.ctr@afacademy.af.edu
+
+4. Capt. Sid
+   Email: Sidney.Tomes@afacademy.af.edu
+   Username: Sidney.Tomes
+   Phone: (719) 333-9098
+   Original line: Capt. Sid Tomes Assistant Coach 719-333-9098 Sidney.Tomes@afacademy.af.edu
+
+5. Dennis Harrington
+   Email: dennis.harrington.ctr@afacademy.af.edu
+   Username: dennis.harrington.ctr
+   Phone: (719) 333-9098
+   Original line: Dennis Harrington Assistant Coach 719-333-9098 dennis.harrington.ctr@afacademy.af.edu
+
+6. Stacy McIntyre
+   Email: Stacy.McIntyre@afacademy.af.edu
+   Username: Stacy.McIntyre
+   Phone: (719) 333-6736
+   Original line: Stacy McIntyre Head Coach 719-333-6736 Stacy.McIntyre@afacademy.af.edu
+
+7. Rynae Rasley
+   Email: rynae.rasley@afacademy.af.edu
+   Username: rynae.rasley
+   Phone: (719) 333-8644
+   Original line: Rynae Rasley Assistant Coach 719-333-8644 rynae.rasley@afacademy.af.edu
+
+8. Mark Clifford
+   Email: mark.clifford@afacademy.af.edu
+   Username: mark.clifford
+   Phone: (719) 333-2766
+   Original line: Dr. Mark Clifford Head Coach 719-333-2766 mark.clifford@afacademy.af.edu
+
+9. Capt Daniel
+   Email: daniel.logan@afacademy.af.edu
+   Username: daniel.logan
+   Phone: (719) 333-6487
+   Original line: Capt Daniel Logan Assistant Coach 719-333-6487 daniel.logan@afacademy.af.edu
+
+10. ADi Nott
+   Email: adrienne.nott@afacademy.af.edu
+   Username: adrienne.nott
+   Phone: (719) 333-4807
+   Original line: ADi Nott Assistant Coach 719-333-4807 adrienne.nott@afacademy.af.edu
+
+11. Rhys Douglas
+   Email: rhys.douglas@afacademy.af.edu
+   Username: rhys.douglas
+   Phone: (719) 333-4807
+   Original line: Rhys Douglas Assistant Coach 719-333-4807 rhys.douglas@afacademy.af.edu
+
+12. Troy Calhoun
+   Email: AFHeadFootballCoach@afacademy.af.edu
+   Username: AFHeadFootballCoach
+   Phone: (719) 333-3836
+   Original line: Troy Calhoun Head Coach 719-333-3836 AFHeadFootballCoach@afacademy.af.edu
+
+13. Mike Thiessen
+   Email: Steven.Thiessen.ctr@afacademy.af.edu
+   Username: Steven.Thiessen.ctr
+   Phone: (719) 333-3371
+   Original line: Mike Thiessen Asst Head Coach - 719-333-3371 Steven.Thiessen.ctr@afacademy.af.edu
+
+14. Tyler Goulding
+   Email: Tyler.Goulding@afacademy.af.edu
+   Username: Tyler.Goulding
+   Phone: (719) 333-4650
+   Original line: Tyler Goulding Head Coach 719-333-4650 Tyler.Goulding@afacademy.af.edu
+
+15. Josh Loeser
+   Email: joshua.loeser@afacademy.af.edu
+   Username: joshua.loeser
+   Phone: (719) 333-7667
+   Original line: Josh Loeser Head Coach 719-333-7667 joshua.loeser@afacademy.af.edu
+
+16. Sergey Resnick
+   Email: sergey.resnick@afacademy.af.edu
+   Username: sergey.resnick
+   Phone: (719) 333-6099
+   Original line: Sergey Resnick Assistant Coach 719-333-6099 sergey.resnick@afacademy.af.edu
+
+17. Mike Reid
+   Email: michael.reid@afacademy.af.edu
+   Username: michael.reid
+   Phone: (719) 333-6099
+   Original line: Mike Reid Assistant Coach 719-333-6099 michael.reid@afacademy.af.edu
+
+18. Jennifer Green
+   Email: Jennifer.Green@afacademy.af.edu
+   Username: Jennifer.Green
+   Original line: Jennifer Green Head Coach Jennifer.Green@afacademy.af.edu
+
+19. Frank Serratore
+   Email: Frank.Serratore.ctr@afacademy.af.edu
+   Username: Frank.Serratore.ctr
+   Phone: (719) 333-3954
+   Original line: Frank Serratore Head Coach 719-333-3954 Frank.Serratore.ctr@afacademy.af.edu
+
+20. Bill Wilson
+   Email: William.Wilson@afacademy.af.edu
+   Username: William.Wilson
+   Phone: (719) 333-7544
+   Original line: Bill Wilson Head Coach 719-333-7544 William.Wilson@afacademy.af.edu
+
+21. Thomas Muldoon
+   Email: ryan.muldoon.ctr@afacademy.af.edu
+   Username: ryan.muldoon.ctr
+   Original line: Thomas Muldoon Assistant Coach ryan.muldoon.ctr@afacademy.af.edu
+
+22. Colin McGuire
+   Email: colin.mcguire.ctr@afacademy.af.edu
+   Username: colin.mcguire.ctr
+   Original line: Colin McGuire Assistant Coach colin.mcguire.ctr@afacademy.af.edu
+
+23. Launi Meili
+   Email: Launi.Meili@afacademy.af.edu
+   Username: Launi.Meili
+   Phone: (719) 333-1797
+   Original line: Launi Meili Rifle Head Coach 719-333-1797 Launi.Meili@afacademy.af.edu
+
+24. Dave Johnson
+   Email: david.johnson@afacademy.af.edu
+   Username: david.johnson
+   Phone: (719) 333-1797
+   Original line: Dave Johnson Assistant Coach 719-333-1797 david.johnson@afacademy.af.edu
+
+25. Greg Dalby
+   Email: Gregory.Dalby@afacademy.af.edu
+   Username: Gregory.Dalby
+   Phone: (719) 333-2378
+   Original line: Greg Dalby Head Coach 719-333-2378 Gregory.Dalby@afacademy.af.edu
+
+26. Clint Long
+   Email: Clinton.Long@afacademy.af.edu
+   Username: Clinton.Long
+   Phone: (719) 333-2378
+   Original line: Clint Long Assistant Coach 719-333-2378 Clinton.Long@afacademy.af.edu
+
+27. Christian Madrigal
+   Email: christian.madrigal.ctr@afacademy.af.edu
+   Username: christian.madrigal.ctr
+   Original line: Christian Madrigal Assistant Coach christian.madrigal.ctr@afacademy.af.edu
+
+28. Laura Busby
+   Email: laura.busby@afacademy.af.edu
+   Username: laura.busby
+   Phone: (719) 333-2061
+   Original line: Laura Busby Head Coach 719-333-2061 laura.busby@afacademy.af.edu
+
+29. Kaylyn Farrell
+   Email: kaylyn.farrell@afacademy.af.edu
+   Username: kaylyn.farrell
+   Phone: (719) 333-9506
+   Original line: Kaylyn Farrell Assistant Coach 719-333-9506 kaylyn.farrell@afacademy.af.edu
+
+30. Alex Schultz
+   Email: Alexander.Schultz@afacademy.af.edu
+   Username: Alexander.Schultz
+   Original line: Alex Schultz Assistant Coach Alexander.Schultz@afacademy.af.edu
+
+31. Rob Clayton
+   Email: Rob.Clayton@afacademy.af.edu
+   Username: Rob.Clayton
+   Phone: (719) 333-4726
+   Original line: Rob Clayton Head Coach 719-333-4726 Rob.Clayton@afacademy.af.edu
+
+32. Kyle Van
+   Email: kyle.vanvalkenburg@afacademy.af.edu
+   Username: kyle.vanvalkenburg
+   Phone: (719) 333-2331
+   Original line: Kyle Van Head Diving Coach 719-333-2331 kyle.vanvalkenburg@afacademy.af.edu
+
+33. Colleen Murphy
+   Email: Colleen.Murphy.1@afacademy.af.edu
+   Username: Colleen.Murphy.1
+   Phone: (719) 238-0049
+   Original line: Colleen Murphy Head Coach 719-238-0049 Colleen.Murphy.1@afacademy.af.edu
+
+34. Kyle Van
+   Email: kyle.vanvalkenburg@afacademy.af.edu
+   Username: kyle.vanvalkenburg
+   Phone: (719) 333-2331
+   Original line: Kyle Van Head Diving Coach 719-333-2331 kyle.vanvalkenburg@afacademy.af.edu
+
+35. Evan Urbina
+   Email: Evan.Urbina@afacademy.af.edu
+   Username: Evan.Urbina
+   Phone: (719) 333-2564
+   Original line: Evan Urbina Head Coach 719-333-2564 Evan.Urbina@afacademy.af.edu
+
+36. Taylor Hollander
+   Email: taylor.hollander@afacademy.af.edu
+   Username: taylor.hollander
+   Original line: Taylor Hollander Head Coach taylor.hollander@afacademy.af.edu
+
+37. Kinga Gartner
+   Email: kinga.gartner@afacademy.af.edu
+   Username: kinga.gartner
+   Original line: Kinga Gartner Assistant Coach kinga.gartner@afacademy.af.edu
+
+38. Kyle Lillie
+   Email: kyle.lillie@afacademy.af.edu
+   Username: kyle.lillie
+   Phone: (719) 333-3602
+   Original line: Kyle Lillie Assistant Coach 719-333-3602 kyle.lillie@afacademy.af.edu
+
+39. Macey Donathan
+   Email: macey.donathan.ctr@afacademy.af.edu
+   Username: macey.donathan.ctr
+   Phone: (719) 333-2274
+   Original line: Macey Donathan Head Coach 719-333-2274 macey.donathan.ctr@afacademy.af.edu
+
+40. Claire Felix
+   Email: claire.felix.ctr@afacademy.af.edu
+   Username: claire.felix.ctr
+   Phone: (719) 333-6789
+   Original line: Claire Felix Assistant Coach 719-333-6789 claire.felix.ctr@afacademy.af.edu
+
+41. Deedra Walker
+   Email: deedra.walker.ctr@afacademy.af.edu
+   Username: deedra.walker.ctr
+   Phone: (719) 333-1998
+   Original line: Deedra Walker Assistant Coach 719-333-1998 deedra.walker.ctr@afacademy.af.edu
+
+42. Ryan Brown
+   Email: Ryan.Brown@afacademy.af.edu
+   Username: Ryan.Brown
+   Phone: (719) 333-9288
+   Original line: Ryan Brown Head Coach 719-333-9288 Ryan.Brown@afacademy.af.edu
+
+43. Alan Huckins
+   Email: alan.huckins@afacademy.af.edu
+   Username: alan.huckins
+   Phone: (719) 333-9288
+   Original line: Alan Huckins Assistant Coach 719-333-9288 alan.huckins@afacademy.af.edu
+
+44. Rick McKee
+   Email: richard.mckee.ctr@afacademy.af.edu
+   Username: richard.mckee.ctr
+   Phone: (719) 333-9288
+   Original line: Rick McKee Assistant Coach 719-333-9288 richard.mckee.ctr@afacademy.af.edu
+
+45. Sam Barber
+   Email: Richard.Barber@afacademy.af.edu
+   Username: Richard.Barber
+   Phone: (719) 333-1751
+   Original line: Sam Barber Head Coach 719-333-1751 Richard.Barber@afacademy.af.edu
+
+46. Elroy Perkin
+   Email: elroy.perkin.ctr@afacademy.af.edu
+   Username: elroy.perkin.ctr
+   Original line: Elroy Perkin Assistant Coach / elroy.perkin.ctr@afacademy.af.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mike Kazlausky Head Coach 719-333-0835 Michael.kazlausky@afacademy.af.edu
+• Eamonn Kearney Assistant Coach 719-333-9098 Eamonn.kearney.ctr@afacademy.af.edu
+• Lawrence Rowley Assistant Coach 719-333-9098 lawrence.rowley.ctr@afacademy.af.edu
+• Capt. Sid Tomes Assistant Coach 719-333-9098 Sidney.Tomes@afacademy.af.edu
+• Dennis Harrington Assistant Coach 719-333-9098 dennis.harrington.ctr@afacademy.af.edu
+• Stacy McIntyre Head Coach 719-333-6736 Stacy.McIntyre@afacademy.af.edu
+• Rynae Rasley Assistant Coach 719-333-8644 rynae.rasley@afacademy.af.edu
+• Dr. Mark Clifford Head Coach 719-333-2766 mark.clifford@afacademy.af.edu
+• Capt Daniel Logan Assistant Coach 719-333-6487 daniel.logan@afacademy.af.edu
+• ADi Nott Assistant Coach 719-333-4807 adrienne.nott@afacademy.af.edu
+• Rhys Douglas Assistant Coach 719-333-4807 rhys.douglas@afacademy.af.edu
+• Troy Calhoun Head Coach 719-333-3836 AFHeadFootballCoach@afacademy.af.edu
+• Mike Thiessen Asst Head Coach - 719-333-3371 Steven.Thiessen.ctr@afacademy.af.edu
+• Tyler Goulding Head Coach 719-333-4650 Tyler.Goulding@afacademy.af.edu
+• Josh Loeser Head Coach 719-333-7667 joshua.loeser@afacademy.af.edu
+• Sergey Resnick Assistant Coach 719-333-6099 sergey.resnick@afacademy.af.edu
+• Mike Reid Assistant Coach 719-333-6099 michael.reid@afacademy.af.edu
+• Jennifer Green Head Coach Jennifer.Green@afacademy.af.edu
+• Frank Serratore Head Coach 719-333-3954 Frank.Serratore.ctr@afacademy.af.edu
+• Bill Wilson Head Coach 719-333-7544 William.Wilson@afacademy.af.edu
+• Thomas Muldoon Assistant Coach ryan.muldoon.ctr@afacademy.af.edu
+• Colin McGuire Assistant Coach colin.mcguire.ctr@afacademy.af.edu
+• Launi Meili Rifle Head Coach 719-333-1797 Launi.Meili@afacademy.af.edu
+• Dave Johnson Assistant Coach 719-333-1797 david.johnson@afacademy.af.edu
+• Greg Dalby Head Coach 719-333-2378 Gregory.Dalby@afacademy.af.edu
+• Clint Long Assistant Coach 719-333-2378 Clinton.Long@afacademy.af.edu
+• Christian Madrigal Assistant Coach christian.madrigal.ctr@afacademy.af.edu
+• Laura Busby Head Coach 719-333-2061 laura.busby@afacademy.af.edu
+• Kaylyn Farrell Assistant Coach 719-333-9506 kaylyn.farrell@afacademy.af.edu
+• Alex Schultz Assistant Coach Alexander.Schultz@afacademy.af.edu
+• Rob Clayton Head Coach 719-333-4726 Rob.Clayton@afacademy.af.edu
+• Kyle Van Head Diving Coach 719-333-2331 kyle.vanvalkenburg@afacademy.af.edu
+• Colleen Murphy Head Coach 719-238-0049 Colleen.Murphy.1@afacademy.af.edu
+• Kyle Van Head Diving Coach 719-333-2331 kyle.vanvalkenburg@afacademy.af.edu
+• Evan Urbina Head Coach 719-333-2564 Evan.Urbina@afacademy.af.edu
+• Taylor Hollander Head Coach taylor.hollander@afacademy.af.edu
+• Kinga Gartner Assistant Coach kinga.gartner@afacademy.af.edu
+• Kyle Lillie Assistant Coach 719-333-3602 kyle.lillie@afacademy.af.edu
+• Macey Donathan Head Coach 719-333-2274 macey.donathan.ctr@afacademy.af.edu
+• Claire Felix Assistant Coach 719-333-6789 claire.felix.ctr@afacademy.af.edu
+• Deedra Walker Assistant Coach 719-333-1998 deedra.walker.ctr@afacademy.af.edu
+• Ryan Brown Head Coach 719-333-9288 Ryan.Brown@afacademy.af.edu
+• Alan Huckins Assistant Coach 719-333-9288 alan.huckins@afacademy.af.edu
+• Rick McKee Assistant Coach 719-333-9288 richard.mckee.ctr@afacademy.af.edu
+• Sam Barber Head Coach 719-333-1751 Richard.Barber@afacademy.af.edu
+• Elroy Perkin Assistant Coach / elroy.perkin.ctr@afacademy.af.edu

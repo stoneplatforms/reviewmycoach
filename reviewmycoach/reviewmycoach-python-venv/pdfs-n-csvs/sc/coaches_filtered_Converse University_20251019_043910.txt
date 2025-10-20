@@ -1,0 +1,216 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:10
+============================================================
+
+Total coaches found: 34
+
+PARSED ENTRIES:
+----------------------------------------
+1. Sierra Bombard
+   Email: sierra.bombard@converse.edu
+   Username: sierra.bombard
+   Original line: Sierra Bombard Head Coach sierra.bombard@converse.edu
+
+2. Shayla Snow
+   Email: shayla.snow@converse.edu
+   Username: shayla.snow
+   Original line: Shayla Snow Assistant Coach shayla.snow@converse.edu
+
+3. Kyle Perry
+   Email: kyle.perry@converse.edu
+   Username: kyle.perry
+   Original line: Kyle Perry Head Coach kyle.perry@converse.edu
+
+4. Dexter Terry
+   Email: mensbasketball@converse.edu
+   Username: mensbasketball
+   Original line: Dexter Terry Assistant Coach/Head Devo Basketball Coach mensbasketball@converse.edu
+
+5. Logan Springer
+   Email: logan.springer@converse.edu
+   Username: logan.springer
+   Original line: Logan Springer Assistant Coach logan.springer@converse.edu
+
+6. Kevin Lyons
+   Email: kevin.lyons@converse.edu
+   Username: kevin.lyons
+   Original line: Kevin Lyons Interim Head Coach kevin.lyons@converse.edu 845-546-
+
+7. Brendon Gauthier
+   Email: brendon.gauthier@converse.edu
+   Username: brendon.gauthier
+   Original line: Brendon Gauthier Assistant Coach brendon.gauthier@converse.edu
+
+8. Amelia Nowicki
+   Email: amelia.nowicki@converse.edu
+   Username: amelia.nowicki
+   Original line: Amelia Nowicki Head Coach amelia.nowicki@converse.edu 864-577-
+
+9. Jorge Sanchez
+   Email: jorge.sanchez@converse.edu
+   Username: jorge.sanchez
+   Original line: Jorge Sanchez Head Coach jorge.sanchez@converse.edu
+
+10. Sid Hudson
+   Email: sjhudson001@converse.edu
+   Username: sjhudson001
+   Original line: Sid Hudson Graduate Assistant Coach sjhudson001@converse.edu
+
+11. Roger Malonda
+   Email: roger.malonda@converse.edu
+   Username: roger.malonda
+   Original line: Roger Malonda Head Cross Country Coach/Assistant Track and roger.malonda@converse.edu
+
+12. Valerie Clarke
+   Email: valerie.clarke@converse.edu
+   Username: valerie.clarke
+   Original line: Valerie Clarke Head Coach valerie.clarke@converse.edu 864-577-
+
+13. Olivia Nevin
+   Email: olivia.nevin@converse.edu
+   Username: olivia.nevin
+   Original line: Olivia Nevin Assistant Coach olivia.nevin@converse.edu
+
+14. Patti McGowan
+   Email: patti.McGowan@converse.edu
+   Username: patti.McGowan
+   Original line: Patti McGowan Head Coach patti.McGowan@converse.edu 864-596-
+
+15. Lauren Frost
+   Email: lauren.gulledge@converse.edu
+   Username: lauren.gulledge
+   Original line: Lauren Frost Head Coach lauren.gulledge@converse.edu 864-577-
+
+16. Mike Ruggiero
+   Email: mike.ruggiero@converse.edu
+   Username: mike.ruggiero
+   Original line: Mike Ruggiero Assistant Coach mike.ruggiero@converse.edu
+
+17. Rob Miller
+   Email: rob.miller@converse.edu
+   Username: rob.miller
+   Phone: (864) 596-9611
+   Original line: Rob Miller Head Coach rob.miller@converse.edu 864-596-9611
+
+18. David Windmiller
+   Email: david.windmiller@converse.edu
+   Username: david.windmiller
+   Original line: David Windmiller Assistant Coach david.windmiller@converse.edu
+
+19. Carson Hickok
+   Email: CJHickok001@converse.edu
+   Username: CJHickok001
+   Original line: Carson Hickok Graduate Assistant Coach CJHickok001@converse.edu
+
+20. Colin Wylie
+   Email: colin.wylie@converse.edu
+   Username: colin.wylie
+   Original line: Colin Wylie Head Coach colin.wylie@converse.edu
+
+21. Cimone Francis
+   Email: cimone.francis@converse.edu
+   Username: cimone.francis
+   Original line: Cimone Francis Volunteer Assistant Coach cimone.francis@converse.edu
+
+22. Renan Diniz
+   Email: renan.diniz@converse.edu
+   Username: renan.diniz
+   Original line: Renan Diniz Assistant Coach renan.diniz@converse.edu
+
+23. Jackie Huff
+   Email: jacqueline.huff@converse.edu
+   Username: jacqueline.huff
+   Original line: Jackie Huff Head Coach jacqueline.huff@converse.edu 864-577-
+
+24. Taylor Watford
+   Email: taylor.watford@converse.edu
+   Username: taylor.watford
+   Original line: Taylor Watford Assistant Coach taylor.watford@converse.edu
+
+25. Tanner Bullard
+   Email: tanner.bullard@converse.edu
+   Username: tanner.bullard
+   Original line: Tanner Bullard Assistant Coach tanner.bullard@converse.edu
+
+26. Logan Simpson
+   Email: logan.simpson@converse.edu
+   Username: logan.simpson
+   Original line: Logan Simpson Head Coach logan.simpson@converse.edu
+
+27. Marcella Da
+   Email: marcella.dacosta@converse.edu
+   Username: marcella.dacosta
+   Original line: Marcella Da Costa Assistant Coach marcella.dacosta@converse.edu
+
+28. James Smith
+   Email: james.smith@converse.edu
+   Username: james.smith
+   Original line: James Smith Head Coach james.smith@converse.edu 864-577-
+
+29. Brandon Morton
+   Email: brandon.Morton@Converse.edu
+   Username: brandon.Morton
+   Original line: Brandon Morton Head Coach brandon.Morton@Converse.edu 864-577-
+
+30. Roger Malonda
+   Email: roger.malonda@converse.edu
+   Username: roger.malonda
+   Original line: Roger Malonda Head Cross Country Coach/Assistant Track and roger.malonda@converse.edu
+
+31. Breondra Steele
+   Email: breondra.steele@converse.edu
+   Username: breondra.steele
+   Original line: Breondra Steele Assistant Coach breondra.steele@converse.edu
+
+32. Allen Ferrill
+   Email: gaferrill001@converse.edu
+   Username: gaferrill001
+   Original line: Allen Ferrill Assistant Coach gaferrill001@converse.edu
+
+33. Alexis Ivey
+   Email: alexis.ivey@converse.edu
+   Username: alexis.ivey
+   Original line: Alexis Ivey Head Coach alexis.ivey@converse.edu 864-577-
+
+34. Mariah Wilmoth
+   Email: mdwilmoth001@converse.edu
+   Username: mdwilmoth001
+   Original line: Mariah Wilmoth Graduate Assistant Coach mdwilmoth001@converse.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Sierra Bombard Head Coach sierra.bombard@converse.edu
+• Shayla Snow Assistant Coach shayla.snow@converse.edu
+• Kyle Perry Head Coach kyle.perry@converse.edu
+• Dexter Terry Assistant Coach/Head Devo Basketball Coach mensbasketball@converse.edu
+• Logan Springer Assistant Coach logan.springer@converse.edu
+• Kevin Lyons Interim Head Coach kevin.lyons@converse.edu 845-546-
+• Brendon Gauthier Assistant Coach brendon.gauthier@converse.edu
+• Amelia Nowicki Head Coach amelia.nowicki@converse.edu 864-577-
+• Jorge Sanchez Head Coach jorge.sanchez@converse.edu
+• Sid Hudson Graduate Assistant Coach sjhudson001@converse.edu
+• Roger Malonda Head Cross Country Coach/Assistant Track and roger.malonda@converse.edu
+• Valerie Clarke Head Coach valerie.clarke@converse.edu 864-577-
+• Olivia Nevin Assistant Coach olivia.nevin@converse.edu
+• Patti McGowan Head Coach patti.McGowan@converse.edu 864-596-
+• Lauren Frost Head Coach lauren.gulledge@converse.edu 864-577-
+• Mike Ruggiero Assistant Coach mike.ruggiero@converse.edu
+• Rob Miller Head Coach rob.miller@converse.edu 864-596-9611
+• David Windmiller Assistant Coach david.windmiller@converse.edu
+• Carson Hickok Graduate Assistant Coach CJHickok001@converse.edu
+• Colin Wylie Head Coach colin.wylie@converse.edu
+• Cimone Francis Volunteer Assistant Coach cimone.francis@converse.edu
+• Renan Diniz Assistant Coach renan.diniz@converse.edu
+• Jackie Huff Head Coach jacqueline.huff@converse.edu 864-577-
+• Taylor Watford Assistant Coach taylor.watford@converse.edu
+• Tanner Bullard Assistant Coach tanner.bullard@converse.edu
+• Logan Simpson Head Coach logan.simpson@converse.edu
+• Marcella Da Costa Assistant Coach marcella.dacosta@converse.edu
+• James Smith Head Coach james.smith@converse.edu 864-577-
+• Brandon Morton Head Coach brandon.Morton@Converse.edu 864-577-
+• Roger Malonda Head Cross Country Coach/Assistant Track and roger.malonda@converse.edu
+• Breondra Steele Assistant Coach breondra.steele@converse.edu
+• Allen Ferrill Assistant Coach gaferrill001@converse.edu
+• Alexis Ivey Head Coach alexis.ivey@converse.edu 864-577-
+• Mariah Wilmoth Graduate Assistant Coach mdwilmoth001@converse.edu

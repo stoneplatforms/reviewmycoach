@@ -1,0 +1,155 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:27
+============================================================
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Maliah Blakemore
+   Email: mblakemore@knox.edu
+   Username: mblakemore
+   Original line: Maliah Blakemore Assistant Athletics Director for Student Programming / Head Volleyball Coach mblakemore@knox.edu 309-341-
+
+2. Drake Sykes
+   Email: dsykes@knox.edu
+   Username: dsykes
+   Original line: Drake Sykes '17 Head Baseball Coach dsykes@knox.edu 309-341-
+
+3. Corey Harvey
+   Email: charvey@knox.edu
+   Username: charvey
+   Original line: Corey Harvey Head Men's Basketball Coach charvey@knox.edu 309-341-
+
+4. Randy Jackson
+   Email: rjjackson@knox.edu
+   Username: rjjackson
+   Original line: Randy Jackson Assistant Men's Basketball Coach rjjackson@knox.edu 309-341-
+
+5. Emily Carpenter
+   Email: eacarpenter@knox.edu
+   Username: eacarpenter
+   Original line: Emily Carpenter Head Women’s Basketball Coach eacarpenter@knox.edu 309-341-
+
+6. Ryan Monson
+   Email: rmonson@knox.edu
+   Username: rmonson
+   Original line: Ryan Monson Head Cross Country Coach/Assistant Track and Field Coach rmonson@knox.edu 309-341-
+
+7. Mark Nelson
+   Email: mwnelson@knox.edu
+   Username: mwnelson
+   Original line: Mark Nelson Director of Track and Field and Cross Country / Head Track and Field Coach mwnelson@knox.edu 309-341-
+
+8. Aaron Willits
+   Email: awillits@knox.edu
+   Username: awillits
+   Original line: Aaron Willits '08 Head Football Coach awillits@knox.edu 309-341-
+
+9. Peyton Doughty
+   Email: pdoughty@knox.edu
+   Username: pdoughty
+   Original line: Peyton Doughty Assistant Football Coach - Running Backs pdoughty@knox.edu
+
+10. Seth Bontrager
+   Email: sbontrager@knox.edu
+   Username: sbontrager
+   Original line: Seth Bontrager Assistant Football Coach - Linebackers sbontrager@knox.edu
+
+11. Adam Taylor
+   Email: adtaylor@knox.edu
+   Username: adtaylor
+   Original line: Adam Taylor Assistant Football Coach - Defensive Line adtaylor@knox.edu
+
+12. Jacob Verduin
+   Email: jverduin@knox.edu
+   Username: jverduin
+   Original line: Jacob Verduin '23 Assistant Football Coach - Quarterbacks jverduin@knox.edu
+
+13. Eric Farbes
+   Email: efarbes@knox.edu
+   Username: efarbes
+   Original line: Eric Farbes Assistant Football Coach - Defensive Backs efarbes@knox.edu
+
+14. Preston Roth
+   Email: proth@knox.edu
+   Username: proth
+   Original line: Preston Roth Head Men's and Women's Golf Coach proth@knox.edu 309-341-
+
+15. Preston Roth
+   Email: proth@knox.edu
+   Username: proth
+   Original line: Preston Roth Head Men's and Women's Golf Coach proth@knox.edu 309-341-
+
+16. Tyler Sheikh
+   Email: tjsheikh@knox.edu
+   Username: tjsheikh
+   Original line: Tyler Sheikh Head Men's Soccer Coach tjsheikh@knox.edu 309-341-
+
+17. Annie Gerdes
+   Email: agerdes@knox.edu
+   Username: agerdes
+   Original line: Annie Gerdes '19 Head Women's Soccer Coach agerdes@knox.edu 815-768-
+
+18. Casey Hipp
+   Email: casahipp@knox.edu
+   Username: casahipp
+   Original line: Casey Hipp '21 Head Softball Coach casahipp@knox.edu 309-341-
+
+19. Ruby Davis
+   Email: rudavis@knox.edu
+   Username: rudavis
+   Original line: Ruby Davis Assistant Softball Coach rudavis@knox.edu 309-338-
+
+20. Mark Nelson
+   Email: mwnelson@knox.edu
+   Username: mwnelson
+   Original line: Mark Nelson Director of Track and Field and Cross Country / Head Track and Field Coach mwnelson@knox.edu 309-341-
+
+21. Ryan Monson
+   Email: rmonson@knox.edu
+   Username: rmonson
+   Original line: Ryan Monson Head Cross Country Coach/Assistant Track and Field Coach rmonson@knox.edu 309-341-
+
+22. Durham Avant
+   Email: jdavant@knox.edu
+   Username: jdavant
+   Original line: Durham Avant Assistant Track and Field Coach jdavant@knox.edu 309-341-
+
+23. Maliah Blakemore
+   Email: mblakemore@knox.edu
+   Username: mblakemore
+   Original line: Maliah Blakemore Assistant Athletics Director for Student Programming / Head Volleyball Coach mblakemore@knox.edu 309-341-
+
+24. Kate Worthy
+   Email: keworthy@knox.edu
+   Username: keworthy
+   Original line: Kate Worthy Assistant Volleyball Coach keworthy@knox.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Maliah Blakemore Assistant Athletics Director for Student Programming / Head Volleyball Coach mblakemore@knox.edu 309-341-
+• Drake Sykes '17 Head Baseball Coach dsykes@knox.edu 309-341-
+• Corey Harvey Head Men's Basketball Coach charvey@knox.edu 309-341-
+• Randy Jackson Assistant Men's Basketball Coach rjjackson@knox.edu 309-341-
+• Emily Carpenter Head Women’s Basketball Coach eacarpenter@knox.edu 309-341-
+• Ryan Monson Head Cross Country Coach/Assistant Track and Field Coach rmonson@knox.edu 309-341-
+• Mark Nelson Director of Track and Field and Cross Country / Head Track and Field Coach mwnelson@knox.edu 309-341-
+• Aaron Willits '08 Head Football Coach awillits@knox.edu 309-341-
+• Peyton Doughty Assistant Football Coach - Running Backs pdoughty@knox.edu
+• Seth Bontrager Assistant Football Coach - Linebackers sbontrager@knox.edu
+• Adam Taylor Assistant Football Coach - Defensive Line adtaylor@knox.edu
+• Jacob Verduin '23 Assistant Football Coach - Quarterbacks jverduin@knox.edu
+• Eric Farbes Assistant Football Coach - Defensive Backs efarbes@knox.edu
+• Preston Roth Head Men's and Women's Golf Coach proth@knox.edu 309-341-
+• Preston Roth Head Men's and Women's Golf Coach proth@knox.edu 309-341-
+• Tyler Sheikh Head Men's Soccer Coach tjsheikh@knox.edu 309-341-
+• Annie Gerdes '19 Head Women's Soccer Coach agerdes@knox.edu 815-768-
+• Casey Hipp '21 Head Softball Coach casahipp@knox.edu 309-341-
+• Ruby Davis Assistant Softball Coach rudavis@knox.edu 309-338-
+• Mark Nelson Director of Track and Field and Cross Country / Head Track and Field Coach mwnelson@knox.edu 309-341-
+• Ryan Monson Head Cross Country Coach/Assistant Track and Field Coach rmonson@knox.edu 309-341-
+• Durham Avant Assistant Track and Field Coach jdavant@knox.edu 309-341-
+• Maliah Blakemore Assistant Athletics Director for Student Programming / Head Volleyball Coach mblakemore@knox.edu 309-341-
+• Kate Worthy Assistant Volleyball Coach keworthy@knox.edu

@@ -1,0 +1,305 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:07
+============================================================
+
+Total coaches found: 49
+
+PARSED ENTRIES:
+----------------------------------------
+1. Caleb Gibson
+   Email: Caleb.Gibson@valpo.edu
+   Username: Caleb.Gibson
+   Original line: Caleb Gibson Sport Performance Coach (VB, SOFT, Assistant FB) Caleb.Gibson@valpo.edu
+
+2. Brian Schmack
+   Email: Brian.Schmack@valpo.edu
+   Username: Brian.Schmack
+   Original line: Brian Schmack Head Coach (219) 464- Brian.Schmack@valpo.edu
+
+3. Chase Hetzel
+   Email: Chase.Hetzel@valpo.edu
+   Username: Chase.Hetzel
+   Original line: Chase Hetzel Hitting Coach Chase.Hetzel@valpo.edu
+
+4. Adam Brian
+   Email: Adam.Brian@valpo.edu
+   Username: Adam.Brian
+   Original line: Adam Brian Assistant Coach Adam.Brian@valpo.edu
+
+5. Brady Nowicki
+   Email: Brady.Nowicki@valpo.edu
+   Username: Brady.Nowicki
+   Original line: Brady Nowicki Assistant Coach Brady.Nowicki@valpo.edu
+
+6. Roger Powell
+   Email: mensbasketball@valpo.edu
+   Username: mensbasketball
+   Original line: Roger Powell Jr. Head Coach mensbasketball@valpo.edu
+
+7. Pat Baldwin
+   Email: Pb.Baldwin@valpo.edu
+   Username: Pb.Baldwin
+   Original line: Pat Baldwin Assistant Coach Pb.Baldwin@valpo.edu
+
+8. Matt Gordon
+   Email: Matthew.Gordon@valpo.edu
+   Username: Matthew.Gordon
+   Original line: Matt Gordon Assistant Coach Matthew.Gordon@valpo.edu
+
+9. Jesse McClung
+   Email: Jesse.Mcclung@valpo.edu
+   Username: Jesse.Mcclung
+   Original line: Jesse McClung Assistant Coach Jesse.Mcclung@valpo.edu
+
+10. Quintin Garrison
+   Email: Quintin.Garrison@valpo.edu
+   Username: Quintin.Garrison
+   Original line: Quintin Garrison Special Assistant to the Head Coach Quintin.Garrison@valpo.edu
+
+11. Lavonte Dority
+   Email: lavonte.dority@valpo.edu
+   Username: lavonte.dority
+   Original line: Lavonte Dority Recruiting & Player Development Coach lavonte.dority@valpo.edu
+
+12. Sean Taylor
+   Email: Sean.Taylor1@valpo.edu
+   Username: Sean.Taylor1
+   Original line: Sean Taylor Assistant Player Development Coach Sean.Taylor1@valpo.edu
+
+13. Brooke Bailey
+   Email: Brooke.Bailey@valpo.edu
+   Username: Brooke.Bailey
+   Original line: Brooke Bailey Assistant Coach Brooke.Bailey@valpo.edu
+
+14. Andrew Whitt
+   Email: Andrew.Whitt@valpo.edu
+   Username: Andrew.Whitt
+   Original line: Andrew Whitt Assistant Coach Andrew.Whitt@valpo.edu
+
+15. Jasmine Hackett
+   Email: jasmine.hackett@valpo.edu
+   Username: jasmine.hackett
+   Original line: Jasmine Hackett Assistant Coach jasmine.hackett@valpo.edu
+
+16. Dale Linderwell
+   Email: dale.linderwell@valpo.edu
+   Username: dale.linderwell
+   Original line: Dale Linderwell Assistant Coach dale.linderwell@valpo.edu
+
+17. Sky Culbertson
+   Email: sky.culbertson@valpo.edu
+   Username: sky.culbertson
+   Original line: Sky Culbertson Special Assistant to the Head Coach sky.culbertson@valpo.edu
+
+18. John Martin
+   Email: John.Martin5@valpo.edu
+   Username: John.Martin5
+   Original line: John Martin Head Coach John.Martin5@valpo.edu
+
+19. Andy Waddle
+   Email: Andy.Waddle@valpo.edu
+   Username: Andy.Waddle
+   Original line: Andy Waddle Head Coach Andy.Waddle@valpo.edu
+
+20. Reed Florence
+   Email: Reed.Florence@valpo.edu
+   Username: Reed.Florence
+   Original line: Reed Florence Offensive Coordinator / Quarterbacks Coach Reed.Florence@valpo.edu
+
+21. Zach Feltrop
+   Email: Zach.Feltrop@valpo.edu
+   Username: Zach.Feltrop
+   Original line: Zach Feltrop Defensive Coordinator / Linebackers Coach Zach.Feltrop@valpo.edu
+
+22. RJ Ghilarducci
+   Email: Robert.Ghilarducci@valpo.edu
+   Username: Robert.Ghilarducci
+   Original line: RJ Ghilarducci Assistant Head Coach / Special Teams Coordinator / Robert.Ghilarducci@valpo.edu
+
+23. Terry Geiger
+   Email: Terry.Geiger@valpo.edu
+   Username: Terry.Geiger
+   Original line: Terry Geiger Wide Receivers Coach / Recruiting Coordinator Terry.Geiger@valpo.edu
+
+24. Michael Joseph
+   Email: Michael.Joseph1@valpo.edu
+   Username: Michael.Joseph1
+   Original line: Michael Joseph Defensive Backs Coach Michael.Joseph1@valpo.edu
+
+25. Peter Nank
+   Email: Pete.Nank@valpo.edu
+   Username: Pete.Nank
+   Original line: Peter Nank Offensive Line Coach Pete.Nank@valpo.edu
+
+26. Connor Vierstra
+   Email: Connor.Vierstra@valpo.edu
+   Username: Connor.Vierstra
+   Original line: Connor Vierstra Tight Ends Coach Connor.Vierstra@valpo.edu
+
+27. Evan Matthes
+   Email: Evan.Matthes@valpo.edu
+   Username: Evan.Matthes
+   Original line: Evan Matthes Running Backs Coach / Specialists Coach Evan.Matthes@valpo.edu
+
+28. Colin Graves
+   Email: Colin.Graves@valpo.edu
+   Username: Colin.Graves
+   Original line: Colin Graves Safeties Coach Colin.Graves@valpo.edu
+
+29. Danny Files
+   Email: Danny.Files@valpo.edu
+   Username: Danny.Files
+   Original line: Danny Files Assistant Offensive Line Coach Danny.Files@valpo.edu
+
+30. David Gring
+   Email: David.Gring@valpo.edu
+   Username: David.Gring
+   Original line: David Gring Head Coach (219) 309- David.Gring@valpo.edu
+
+31. Ron Gring
+   Email: Ron.Gring@valpo.edu
+   Username: Ron.Gring
+   Original line: Ron Gring Assistant Coach (251) 401- Ron.Gring@valpo.edu
+
+32. Jill McCoy
+   Email: Jill.McCoy@valpo.edu
+   Username: Jill.McCoy
+   Original line: Jill McCoy Head Coach Jill.McCoy@valpo.edu
+
+33. John Marovich
+   Email: John.Marovich@valpo.edu
+   Username: John.Marovich
+   Original line: John Marovich Head Coach (219) 464- John.Marovich@valpo.edu
+
+34. Brianne Barnes
+   Email: brianne.barnes@valpo.edu
+   Username: brianne.barnes
+   Original line: Brianne Barnes Assistant Coach (219) 464- brianne.barnes@valpo.edu
+
+35. Mike Armitage
+   Email: Michael.Armitage@valpo.edu
+   Username: Michael.Armitage
+   Original line: Mike Armitage Head Coach Michael.Armitage@valpo.edu
+
+36. Addy Jarvis
+   Email: addy.jarvis@valpo.edu
+   Username: addy.jarvis
+   Original line: Addy Jarvis Assistant Coach addy.jarvis@valpo.edu
+
+37. Maggie Kroemer
+   Email: maggie.kroemer@valpo.edu
+   Username: maggie.kroemer
+   Original line: Maggie Kroemer Head Coach (219) 464- maggie.kroemer@valpo.edu
+
+38. Paula Chenquer
+   Email: paula.dacostachenquer@valpo.edu
+   Username: paula.dacostachenquer
+   Original line: Paula Chenquer Assistant Coach paula.dacostachenquer@valpo.edu
+
+39. Sara Bozso
+   Email: Sara.Bozso@valpo.edu
+   Username: Sara.Bozso
+   Original line: Sara Bozso Graduate Assistant Coach Sara.Bozso@valpo.edu
+
+40. Bob Modesto
+   Email: Robert.Modesto@valpo.edu
+   Username: Robert.Modesto
+   Original line: Bob Modesto Head Coach Robert.Modesto@valpo.edu
+
+41. Olivia Czerwonka
+   Email: Olivia.Czerwonka@valpo.edu
+   Username: Olivia.Czerwonka
+   Original line: Olivia Czerwonka Graduate Assistant Coach Olivia.Czerwonka@valpo.edu
+
+42. Ricardo Torres
+   Email: Ricardo.Torres@valpo.edu
+   Username: Ricardo.Torres
+   Original line: Ricardo Torres Assistant Coach Ricardo.Torres@valpo.edu
+
+43. Carin Avery
+   Email: Carin.Avery@valpo.edu
+   Username: Carin.Avery
+   Original line: Carin Avery Head Coach (219) 464- Carin.Avery@valpo.edu
+
+44. Nick Polite
+   Email: Nick.Polite@valpo.edu
+   Username: Nick.Polite
+   Original line: Nick Polite Assistant Coach (219) 464- Nick.Polite@valpo.edu
+
+45. Laura Yoder
+   Email: Laura.Yoder@valpo.edu
+   Username: Laura.Yoder
+   Original line: Laura Yoder Head Coach (219) 464- Laura.Yoder@valpo.edu
+
+46. Laura Yoder
+   Email: Laura.Yoder@valpo.edu
+   Username: Laura.Yoder
+   Original line: Laura Yoder Head Coach (219) 464- Laura.Yoder@valpo.edu
+
+47. Thomas Hohnholt
+   Email: Thomas.Hohnholt@valpo.edu
+   Username: Thomas.Hohnholt
+   Original line: Thomas Hohnholt Rocket League Head Coach Thomas.Hohnholt@valpo.edu
+
+48. Chase Ludington
+   Email: Chase.Ludington@valpo.edu
+   Username: Chase.Ludington
+   Original line: Chase Ludington League of Legends Head Coach Chase.Ludington@valpo.edu
+
+49. Bryce Jones
+   Email: Bryce.Jones@valpo.edu
+   Username: Bryce.Jones
+   Original line: Bryce Jones Overwatch 2 Head Coach Bryce.Jones@valpo.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Caleb Gibson Sport Performance Coach (VB, SOFT, Assistant FB) Caleb.Gibson@valpo.edu
+• Brian Schmack Head Coach (219) 464- Brian.Schmack@valpo.edu
+• Chase Hetzel Hitting Coach Chase.Hetzel@valpo.edu
+• Adam Brian Assistant Coach Adam.Brian@valpo.edu
+• Brady Nowicki Assistant Coach Brady.Nowicki@valpo.edu
+• Roger Powell Jr. Head Coach mensbasketball@valpo.edu
+• Pat Baldwin Assistant Coach Pb.Baldwin@valpo.edu
+• Matt Gordon Assistant Coach Matthew.Gordon@valpo.edu
+• Jesse McClung Assistant Coach Jesse.Mcclung@valpo.edu
+• Quintin Garrison Special Assistant to the Head Coach Quintin.Garrison@valpo.edu
+• Lavonte Dority Recruiting & Player Development Coach lavonte.dority@valpo.edu
+• Sean Taylor Assistant Player Development Coach Sean.Taylor1@valpo.edu
+• Brooke Bailey Assistant Coach Brooke.Bailey@valpo.edu
+• Andrew Whitt Assistant Coach Andrew.Whitt@valpo.edu
+• Jasmine Hackett Assistant Coach jasmine.hackett@valpo.edu
+• Dale Linderwell Assistant Coach dale.linderwell@valpo.edu
+• Sky Culbertson Special Assistant to the Head Coach sky.culbertson@valpo.edu
+• John Martin Head Coach John.Martin5@valpo.edu
+• Andy Waddle Head Coach Andy.Waddle@valpo.edu
+• Reed Florence Offensive Coordinator / Quarterbacks Coach Reed.Florence@valpo.edu
+• Zach Feltrop Defensive Coordinator / Linebackers Coach Zach.Feltrop@valpo.edu
+• RJ Ghilarducci Assistant Head Coach / Special Teams Coordinator / Robert.Ghilarducci@valpo.edu
+• Terry Geiger Wide Receivers Coach / Recruiting Coordinator Terry.Geiger@valpo.edu
+• Michael Joseph Defensive Backs Coach Michael.Joseph1@valpo.edu
+• Peter Nank Offensive Line Coach Pete.Nank@valpo.edu
+• Connor Vierstra Tight Ends Coach Connor.Vierstra@valpo.edu
+• Evan Matthes Running Backs Coach / Specialists Coach Evan.Matthes@valpo.edu
+• Colin Graves Safeties Coach Colin.Graves@valpo.edu
+• Danny Files Assistant Offensive Line Coach Danny.Files@valpo.edu
+• David Gring Head Coach (219) 309- David.Gring@valpo.edu
+• Ron Gring Assistant Coach (251) 401- Ron.Gring@valpo.edu
+• Jill McCoy Head Coach Jill.McCoy@valpo.edu
+• John Marovich Head Coach (219) 464- John.Marovich@valpo.edu
+• Brianne Barnes Assistant Coach (219) 464- brianne.barnes@valpo.edu
+• Mike Armitage Head Coach Michael.Armitage@valpo.edu
+• Addy Jarvis Assistant Coach addy.jarvis@valpo.edu
+• Maggie Kroemer Head Coach (219) 464- maggie.kroemer@valpo.edu
+• Paula Chenquer Assistant Coach paula.dacostachenquer@valpo.edu
+• Sara Bozso Graduate Assistant Coach Sara.Bozso@valpo.edu
+• Bob Modesto Head Coach Robert.Modesto@valpo.edu
+• Olivia Czerwonka Graduate Assistant Coach Olivia.Czerwonka@valpo.edu
+• Ricardo Torres Assistant Coach Ricardo.Torres@valpo.edu
+• Carin Avery Head Coach (219) 464- Carin.Avery@valpo.edu
+• Nick Polite Assistant Coach (219) 464- Nick.Polite@valpo.edu
+• Laura Yoder Head Coach (219) 464- Laura.Yoder@valpo.edu
+• Laura Yoder Head Coach (219) 464- Laura.Yoder@valpo.edu
+• Thomas Hohnholt Rocket League Head Coach Thomas.Hohnholt@valpo.edu
+• Chase Ludington League of Legends Head Coach Chase.Ludington@valpo.edu
+• Bryce Jones Overwatch 2 Head Coach Bryce.Jones@valpo.edu

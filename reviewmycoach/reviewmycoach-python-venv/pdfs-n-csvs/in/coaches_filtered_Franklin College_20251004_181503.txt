@@ -1,0 +1,402 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:04
+============================================================
+
+Total coaches found: 57
+
+PARSED ENTRIES:
+----------------------------------------
+1. Lance Marshall
+   Email: lmarshall@franklincollege.edu
+   Username: lmarshall
+   Phone: (317) 738-8122
+   Original line: Lance Marshall Director of Athletics/Head Baseball Coach lmarshall@franklincollege.edu 317-738-8122
+
+2. Brittney Harvey
+   Email: bharvey@franklincollege.edu
+   Username: bharvey
+   Phone: (317) 738-8130
+   Original line: Brittney Harvey Head Softball Coach/Assistant Director of Athletics/SWA bharvey@franklincollege.edu 317-738-8130
+
+3. Justin Johnson
+   Email: jjohnson2@franklincollege.edu
+   Username: jjohnson2
+   Phone: (317) 738-8136
+   Original line: Justin Johnson Assistant Cross Country/Track & Field Coach jjohnson2@franklincollege.edu 317-738-8136
+
+4. Sam Linette
+   Email: slinette@franklincollege.edu
+   Username: slinette
+   Phone: (317) 738-8112
+   Original line: Sam Linette Assistant Strength and Conditioning Coach slinette@franklincollege.edu 317-738-8112
+
+5. Ashley Pieroni
+   Email: ahash@franklincollege.edu
+   Username: ahash
+   Original line: Ashley Pieroni Assistant Strength and Conditioning Coach ahash@franklincollege.edu
+
+6. Lance Marshall
+   Email: lmarshall@franklincollege.edu
+   Username: lmarshall
+   Phone: (317) 738-8122
+   Original line: Lance Marshall Director of Athletics/Head Baseball Coach lmarshall@franklincollege.edu 317-738-8122
+
+7. Jake Sprinkle
+   Email: jsprinkle@franklincollege.edu
+   Username: jsprinkle
+   Phone: (317) 738-8287
+   Original line: Jake Sprinkle Assistant Baseball Coach jsprinkle@franklincollege.edu 317-738-8287
+
+8. Matthew Alter
+   Email: malter@franklincollege.edu
+   Username: malter
+   Phone: (317) 738-8287
+   Original line: Matthew Alter Assistant Baseball Coach malter@franklincollege.edu 317-738-8287
+
+9. Mike Leonard
+   Email: mleonard@franklincollege.edu
+   Username: mleonard
+   Phone: (317) 738-8121
+   Original line: Mike Leonard Head Football Coach mleonard@franklincollege.edu 317-738-8121
+
+10. Daniel Hill
+   Email: dhill@franklincollege.edu
+   Username: dhill
+   Phone: (317) 738-8129
+   Original line: Daniel Hill Co-Offensive Coordinator/Quarterbacks Coach dhill@franklincollege.edu 317-738-8129
+
+11. Blaine Kowalkowski
+   Email: bkowalkowski@franklincollege.edu
+   Username: bkowalkowski
+   Phone: (317) 738-8129
+   Original line: Blaine Kowalkowski '16 Co-Offensive Coordinator / Offensive Line Coach bkowalkowski@franklincollege.edu 317-738-8129
+
+12. Kenny Kuzmuk
+   Email: kkuzmuk@franklincollege.edu
+   Username: kkuzmuk
+   Phone: (317) 738-8571
+   Original line: Kenny Kuzmuk Defensive Coordinator / Defensive Backs Coach kkuzmuk@franklincollege.edu 317-738-8571
+
+13. Mike Wynn
+   Email: mwynn@franklincollege.edu
+   Username: mwynn
+   Original line: Mike Wynn '88 Running Backs Coach mwynn@franklincollege.edu
+
+14. Gil Speer
+   Email: gspeer@franklincollege.edu
+   Username: gspeer
+   Original line: Gil Speer Outside Linebackers Coach gspeer@franklincollege.edu
+
+15. Chris Hamilton
+   Email: chamilton@franklincollege.edu
+   Username: chamilton
+   Phone: (317) 738-8156
+   Original line: Chris Hamilton Head Men's Basketball Coach chamilton@franklincollege.edu 317-738-8156
+
+16. Cal Price
+   Email: cprice1@frankllincollege.edu
+   Username: cprice1
+   Phone: (371) 738-8157
+   Original line: Cal Price Assistant Men's Basketball Coach cprice1@frankllincollege.edu 371-738-8157
+
+17. Gavin Dowling
+   Email: gdowling@frankllincollege.edu
+   Username: gdowling
+   Phone: (371) 738-8157
+   Original line: Gavin Dowling Assistant Men's Basketball Coach gdowling@frankllincollege.edu 371-738-8157
+
+18. Brandon Dworak
+   Email: bdworak@franklincollege.edu
+   Username: bdworak
+   Phone: (317) 738-8127
+   Original line: Brandon Dworak Head Cross Country/Track & Field Coach bdworak@franklincollege.edu 317-738-8127
+
+19. Justin Johnson
+   Email: jjohnson2@franklincollege.edu
+   Username: jjohnson2
+   Phone: (317) 738-8136
+   Original line: Justin Johnson Assistant Cross Country/Track & Field Coach jjohnson2@franklincollege.edu 317-738-8136
+
+20. Kyle Dell
+   Email: kdell@franklincollege.edu
+   Username: kdell
+   Phone: (317) 738-8121
+   Original line: Kyle Dell Head Men's Golf Coach kdell@franklincollege.edu 317-738-8121
+
+21. Josh Hughes
+   Email: jhughes@franklincollege.edu
+   Username: jhughes
+   Phone: (317) 738-8032
+   Original line: Josh Hughes Head Men's Soccer Coach jhughes@franklincollege.edu 317-738-8032
+
+22. Jorge "Rodrigo"
+   Email: jalbayeros@franklincollege.edu
+   Username: jalbayeros
+   Original line: Jorge "Rodrigo" Albayeros Assistant Men's Soccer Coach jalbayeros@franklincollege.edu
+
+23. Zach Rayce
+   Email: zrayce@franklincollege.edu
+   Username: zrayce
+   Phone: (317) 738-8139
+   Original line: Zach Rayce '20 Head Swimming & Diving Coach zrayce@franklincollege.edu 317-738-8139
+
+24. Michael Spencer
+   Email: mspencer@franklincollege.edu
+   Username: mspencer
+   Phone: (317) 738-8117
+   Original line: Michael Spencer Assistant Swimming and Diving Coach mspencer@franklincollege.edu 317-738-8117
+
+25. Bella Smith
+   Email: ismith@franklincollege.edu
+   Username: ismith
+   Original line: Bella Smith Assistant Diving Coach ismith@franklincollege.edu
+
+26. Ryan Hammer
+   Email: ryan.hammer@franklincollege.edu
+   Username: ryan.hammer
+   Phone: (317) 738-8121
+   Original line: Ryan Hammer '15 Head Men's & Women's Tennis Coach ryan.hammer@franklincollege.edu 317-738-8121
+
+27. Jenna Kuntz
+   Email: jkuntz@franklincollege.edu
+   Username: jkuntz
+   Phone: (317) 738-8121
+   Original line: Jenna Kuntz Assistant Men's and Women's Tennis Coach jkuntz@franklincollege.edu 317-738-8121
+
+28. Brandon Dworak
+   Email: bdworak@franklincollege.edu
+   Username: bdworak
+   Phone: (317) 738-8127
+   Original line: Brandon Dworak Head Cross Country/Track & Field Coach bdworak@franklincollege.edu 317-738-8127
+
+29. Justin Johnson
+   Email: jjohnson2@franklincollege.edu
+   Username: jjohnson2
+   Phone: (317) 738-8136
+   Original line: Justin Johnson Assistant Cross Country/Track & Field Coach jjohnson2@franklincollege.edu 317-738-8136
+
+30. Cameron Smith
+   Email: csmith@franklincollege.edu
+   Username: csmith
+   Phone: (317) 738-8136
+   Original line: Cameron Smith Assistant Track & Field Coach csmith@franklincollege.edu 317-738-8136
+
+31. Dillon Taylor
+   Email: dtaylor@franklincollege.edu
+   Username: dtaylor
+   Phone: (317) 738-8130
+   Original line: Dillon Taylor Head Men's & Women's Volleyball Coach dtaylor@franklincollege.edu 317-738-8130
+
+32. Morgan Krause
+   Email: mkrause@franklincollege.edu
+   Username: mkrause
+   Phone: (317) 738-8130
+   Original line: Morgan Krause Assistant Volleyball Coach mkrause@franklincollege.edu 317-738-8130
+
+33. Brittney Harvey
+   Email: bharvey@franklincollege.edu
+   Username: bharvey
+   Phone: (317) 738-8130
+   Original line: Brittney Harvey Head Softball Coach/Assistant Director of Athletics/SWA bharvey@franklincollege.edu 317-738-8130
+
+34. Amanda Prather
+   Email: aprather@franklincollege.edu
+   Username: aprather
+   Phone: (317) 443-8158
+   Original line: Amanda Prather Assistant Softball Coach aprather@franklincollege.edu 317-443-8158
+
+35. Ashley Blanch
+   Email: ablanch@franklincollege.edu
+   Username: ablanch
+   Phone: (317) 738-8645
+   Original line: Ashley Blanch Head Women's Basketball Coach ablanch@franklincollege.edu 317-738-8645
+
+36. Cyleigh Wilson
+   Email: cwilson@franklincollege.edu
+   Username: cwilson
+   Phone: (317) 738-8645
+   Original line: Cyleigh Wilson Assistant Women's Basketball Coach cwilson@franklincollege.edu 317-738-8645
+
+37. Brandon Dworak
+   Email: bdworak@franklincollege.edu
+   Username: bdworak
+   Phone: (317) 738-8127
+   Original line: Brandon Dworak Head Cross Country/Track & Field Coach bdworak@franklincollege.edu 317-738-8127
+
+38. Justin Johnson
+   Email: jjohnson2@franklincollege.edu
+   Username: jjohnson2
+   Phone: (317) 738-8136
+   Original line: Justin Johnson Assistant Cross Country/Track & Field Coach jjohnson2@franklincollege.edu 317-738-8136
+
+39. Jamie Haywood
+   Email: jhaywood@franklincollege.edu
+   Username: jhaywood
+   Phone: (317) 738-8121
+   Original line: Jamie Haywood Head Women's Golf Coach jhaywood@franklincollege.edu 317-738-8121
+
+40. Todd Burris
+   Email: tburris@franklincollege.edu
+   Username: tburris
+   Phone: (317) 738-8123
+   Original line: Todd Burris Head Women's Lacrosse Coach tburris@franklincollege.edu 317-738-8123
+
+41. Isabella Frye
+   Email: ifrye@franklincollege.edu
+   Username: ifrye
+   Phone: (317) 738-8123
+   Original line: Isabella Frye Assistant Women's Lacrosse Coach ifrye@franklincollege.edu 317-738-8123
+
+42. Jennifer Jackson
+   Email: jjackson@franklincollege.edu
+   Username: jjackson
+   Phone: (317) 738-8770
+   Original line: Jennifer Jackson Head Women's Soccer Coach jjackson@franklincollege.edu 317-738-8770
+
+43. Tom Farrington
+   Email: tfarrington@franklincollege.edu
+   Username: tfarrington
+   Phone: (317) 738-8770
+   Original line: Tom Farrington Assistant Women's Soccer Coach tfarrington@franklincollege.edu 317-738-8770
+
+44. Zach Rayce
+   Email: zrayce@franklincollege.edu
+   Username: zrayce
+   Phone: (317) 738-8139
+   Original line: Zach Rayce '20 Head Swimming & Diving Coach zrayce@franklincollege.edu 317-738-8139
+
+45. Michael Spencer
+   Email: mspencer@franklincollege.edu
+   Username: mspencer
+   Phone: (317) 738-8117
+   Original line: Michael Spencer Assistant Swimming and Diving Coach mspencer@franklincollege.edu 317-738-8117
+
+46. Bella Smith
+   Email: ismith@franklincollege.edu
+   Username: ismith
+   Original line: Bella Smith Assistant Diving Coach ismith@franklincollege.edu
+
+47. Ryan Hammer
+   Email: ryan.hammer@franklincollege.edu
+   Username: ryan.hammer
+   Phone: (317) 738-8121
+   Original line: Ryan Hammer '15 Head Men's & Women's Tennis Coach ryan.hammer@franklincollege.edu 317-738-8121
+
+48. Jenna Kuntz
+   Email: jkuntz@franklincollege.edu
+   Username: jkuntz
+   Phone: (317) 738-8121
+   Original line: Jenna Kuntz Assistant Men's and Women's Tennis Coach jkuntz@franklincollege.edu 317-738-8121
+
+49. Brandon Dworak
+   Email: bdworak@franklincollege.edu
+   Username: bdworak
+   Phone: (317) 738-8127
+   Original line: Brandon Dworak Head Cross Country/Track & Field Coach bdworak@franklincollege.edu 317-738-8127
+
+50. Justin Johnson
+   Email: jjohnson2@franklincollege.edu
+   Username: jjohnson2
+   Phone: (317) 738-8136
+   Original line: Justin Johnson Assistant Cross Country/Track & Field Coach jjohnson2@franklincollege.edu 317-738-8136
+
+51. Cameron Smith
+   Email: csmith@franklincollege.edu
+   Username: csmith
+   Phone: (317) 738-8136
+   Original line: Cameron Smith Assistant Track & Field Coach csmith@franklincollege.edu 317-738-8136
+
+52. Dillon Taylor
+   Email: dtaylor@franklincollege.edu
+   Username: dtaylor
+   Phone: (317) 738-8130
+   Original line: Dillon Taylor Head Men's & Women's Volleyball Coach dtaylor@franklincollege.edu 317-738-8130
+
+53. Morgan Krause
+   Email: mkrause@franklincollege.edu
+   Username: mkrause
+   Phone: (317) 738-8130
+   Original line: Morgan Krause Assistant Volleyball Coach mkrause@franklincollege.edu 317-738-8130
+
+54. JT Volz
+   Email: jvolz@franklincollege.edu
+   Username: jvolz
+   Phone: (317) 738-8121
+   Original line: JT Volz '99 Head Bass Fishing Coach jvolz@franklincollege.edu 317-738-8121
+
+55. Traci Hill
+   Email: thill@franklincollege.edu
+   Username: thill
+   Original line: Traci Hill Head Cheerleading Coach thill@franklincollege.edu
+
+56. Haedyn Scgalski
+   Email: hscgalski@franklincollege.edu
+   Username: hscgalski
+   Original line: Haedyn Scgalski Assistant Cheerleading Coach hscgalski@franklincollege.edu
+
+57. Todd Burris
+   Email: tburris@franklincollege.edu
+   Username: tburris
+   Phone: (317) 738-8123
+   Original line: Todd Burris eSports Head Coach / Program Director tburris@franklincollege.edu 317-738-8123
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Lance Marshall Director of Athletics/Head Baseball Coach lmarshall@franklincollege.edu 317-738-8122
+• Brittney Harvey Head Softball Coach/Assistant Director of Athletics/SWA bharvey@franklincollege.edu 317-738-8130
+• Justin Johnson Assistant Cross Country/Track & Field Coach jjohnson2@franklincollege.edu 317-738-8136
+• Sam Linette Assistant Strength and Conditioning Coach slinette@franklincollege.edu 317-738-8112
+• Ashley Pieroni Assistant Strength and Conditioning Coach ahash@franklincollege.edu
+• Lance Marshall Director of Athletics/Head Baseball Coach lmarshall@franklincollege.edu 317-738-8122
+• Jake Sprinkle Assistant Baseball Coach jsprinkle@franklincollege.edu 317-738-8287
+• Matthew Alter Assistant Baseball Coach malter@franklincollege.edu 317-738-8287
+• Mike Leonard Head Football Coach mleonard@franklincollege.edu 317-738-8121
+• Daniel Hill Co-Offensive Coordinator/Quarterbacks Coach dhill@franklincollege.edu 317-738-8129
+• Blaine Kowalkowski '16 Co-Offensive Coordinator / Offensive Line Coach bkowalkowski@franklincollege.edu 317-738-8129
+• Kenny Kuzmuk Defensive Coordinator / Defensive Backs Coach kkuzmuk@franklincollege.edu 317-738-8571
+• Mike Wynn '88 Running Backs Coach mwynn@franklincollege.edu
+• Gil Speer Outside Linebackers Coach gspeer@franklincollege.edu
+• Chris Hamilton Head Men's Basketball Coach chamilton@franklincollege.edu 317-738-8156
+• Cal Price Assistant Men's Basketball Coach cprice1@frankllincollege.edu 371-738-8157
+• Gavin Dowling Assistant Men's Basketball Coach gdowling@frankllincollege.edu 371-738-8157
+• Brandon Dworak Head Cross Country/Track & Field Coach bdworak@franklincollege.edu 317-738-8127
+• Justin Johnson Assistant Cross Country/Track & Field Coach jjohnson2@franklincollege.edu 317-738-8136
+• Kyle Dell Head Men's Golf Coach kdell@franklincollege.edu 317-738-8121
+• Josh Hughes Head Men's Soccer Coach jhughes@franklincollege.edu 317-738-8032
+• Jorge "Rodrigo" Albayeros Assistant Men's Soccer Coach jalbayeros@franklincollege.edu
+• Zach Rayce '20 Head Swimming & Diving Coach zrayce@franklincollege.edu 317-738-8139
+• Michael Spencer Assistant Swimming and Diving Coach mspencer@franklincollege.edu 317-738-8117
+• Bella Smith Assistant Diving Coach ismith@franklincollege.edu
+• Ryan Hammer '15 Head Men's & Women's Tennis Coach ryan.hammer@franklincollege.edu 317-738-8121
+• Jenna Kuntz Assistant Men's and Women's Tennis Coach jkuntz@franklincollege.edu 317-738-8121
+• Brandon Dworak Head Cross Country/Track & Field Coach bdworak@franklincollege.edu 317-738-8127
+• Justin Johnson Assistant Cross Country/Track & Field Coach jjohnson2@franklincollege.edu 317-738-8136
+• Cameron Smith Assistant Track & Field Coach csmith@franklincollege.edu 317-738-8136
+• Dillon Taylor Head Men's & Women's Volleyball Coach dtaylor@franklincollege.edu 317-738-8130
+• Morgan Krause Assistant Volleyball Coach mkrause@franklincollege.edu 317-738-8130
+• Brittney Harvey Head Softball Coach/Assistant Director of Athletics/SWA bharvey@franklincollege.edu 317-738-8130
+• Amanda Prather Assistant Softball Coach aprather@franklincollege.edu 317-443-8158
+• Ashley Blanch Head Women's Basketball Coach ablanch@franklincollege.edu 317-738-8645
+• Cyleigh Wilson Assistant Women's Basketball Coach cwilson@franklincollege.edu 317-738-8645
+• Brandon Dworak Head Cross Country/Track & Field Coach bdworak@franklincollege.edu 317-738-8127
+• Justin Johnson Assistant Cross Country/Track & Field Coach jjohnson2@franklincollege.edu 317-738-8136
+• Jamie Haywood Head Women's Golf Coach jhaywood@franklincollege.edu 317-738-8121
+• Todd Burris Head Women's Lacrosse Coach tburris@franklincollege.edu 317-738-8123
+• Isabella Frye Assistant Women's Lacrosse Coach ifrye@franklincollege.edu 317-738-8123
+• Jennifer Jackson Head Women's Soccer Coach jjackson@franklincollege.edu 317-738-8770
+• Tom Farrington Assistant Women's Soccer Coach tfarrington@franklincollege.edu 317-738-8770
+• Zach Rayce '20 Head Swimming & Diving Coach zrayce@franklincollege.edu 317-738-8139
+• Michael Spencer Assistant Swimming and Diving Coach mspencer@franklincollege.edu 317-738-8117
+• Bella Smith Assistant Diving Coach ismith@franklincollege.edu
+• Ryan Hammer '15 Head Men's & Women's Tennis Coach ryan.hammer@franklincollege.edu 317-738-8121
+• Jenna Kuntz Assistant Men's and Women's Tennis Coach jkuntz@franklincollege.edu 317-738-8121
+• Brandon Dworak Head Cross Country/Track & Field Coach bdworak@franklincollege.edu 317-738-8127
+• Justin Johnson Assistant Cross Country/Track & Field Coach jjohnson2@franklincollege.edu 317-738-8136
+• Cameron Smith Assistant Track & Field Coach csmith@franklincollege.edu 317-738-8136
+• Dillon Taylor Head Men's & Women's Volleyball Coach dtaylor@franklincollege.edu 317-738-8130
+• Morgan Krause Assistant Volleyball Coach mkrause@franklincollege.edu 317-738-8130
+• JT Volz '99 Head Bass Fishing Coach jvolz@franklincollege.edu 317-738-8121
+• Traci Hill Head Cheerleading Coach thill@franklincollege.edu
+• Haedyn Scgalski Assistant Cheerleading Coach hscgalski@franklincollege.edu
+• Todd Burris eSports Head Coach / Program Director tburris@franklincollege.edu 317-738-8123

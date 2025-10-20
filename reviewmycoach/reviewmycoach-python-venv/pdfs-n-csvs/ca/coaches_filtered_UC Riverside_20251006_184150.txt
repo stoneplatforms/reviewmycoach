@@ -1,0 +1,197 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:50
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Justin Johnson
+   Email: justin.johnson@ucr.edu
+   Username: justin.johnson
+   Original line: Justin Johnson Head Baseball Coach justin.johnson@ucr.edu 951-827-
+
+2. Lloyd Acosta
+   Email: lloyd.acosta@ucr.edu
+   Username: lloyd.acosta
+   Original line: Lloyd Acosta Associate Head Baseball Coach/Recruiting Coordinator lloyd.acosta@ucr.edu
+
+3. Zach Newsom
+   Email: zachary.newsom@ucr.edu
+   Username: zachary.newsom
+   Original line: Zach Newsom Assistant Cross Country Coach zachary.newsom@ucr.edu
+
+4. Gus Argenal
+   Email: agustin.argenal@ucr.edu
+   Username: agustin.argenal
+   Original line: Gus Argenal Head Men's Basketball Coach agustin.argenal@ucr.edu
+
+5. Tim Bross
+   Email: timothy.bross@ucr.edu
+   Username: timothy.bross
+   Original line: Tim Bross Assistant Men's Basketball Coach timothy.bross@ucr.edu
+
+6. Blake Wetherington
+   Email: blake.wetherington@ucr.edu
+   Username: blake.wetherington
+   Original line: Blake Wetherington Assistant Men's Basketball Coach blake.wetherington@ucr.edu
+
+7. Reuben Williams
+   Email: reubenw@ucr.edu
+   Username: reubenw
+   Original line: Reuben Williams Assistant Men's Basketball Coach reubenw@ucr.edu
+
+8. Matthew Musselman
+   Email: matthew.musselman@ucr.edu
+   Username: matthew.musselman
+   Original line: Matthew Musselman Assistant Men's Basketball Coach matthew.musselman@ucr.edu
+
+9. Tim Cupello
+   Email: tim.cupello@ucr.edu
+   Username: tim.cupello
+   Original line: Tim Cupello Head Men's Soccer Coach tim.cupello@ucr.edu 951-827-
+
+10. Chris Volk
+   Email: cvolk@ucr.edu
+   Username: cvolk
+   Original line: Chris Volk Assistant Men's Soccer Coach cvolk@ucr.edu 951-827-
+
+11. Romario Lomeli
+   Email: romario.lomeli@ucr.edu
+   Username: romario.lomeli
+   Original line: Romario Lomeli Assistant Men's Soccer Coach romario.lomeli@ucr.edu
+
+12. Tony Huerta
+   Email: jose.a.huerta@ucr.edu
+   Username: jose.a.huerta
+   Original line: Tony Huerta Assistant Men's Soccer Coach jose.a.huerta@ucr.edu
+
+13. Robert Pearson
+   Email: robert.pearson@ucr.edu
+   Username: robert.pearson
+   Original line: Robert Pearson Assistant Tennis Coach robert.pearson@ucr.edu
+
+14. Bobby Kielty
+   Email: robert.kielty@ucr.edu
+   Username: robert.kielty
+   Original line: Bobby Kielty Assistant Tennis Coach robert.kielty@ucr.edu
+
+15. Eric Fremd
+   Email: eric.fremd@ucr.edu
+   Username: eric.fremd
+   Original line: Eric Fremd Assistant Track & Field Coach (Hurdles, Jumps, Multis) eric.fremd@ucr.edu
+
+16. Fatimat Yusuf-Olukoju
+   Email: fatimat.yusufolukoju2@ucr.edu
+   Username: fatimat.yusufolukoju2
+   Original line: Fatimat Yusuf-Olukoju Assistant Track & Field Coach (Sprints, Relays) fatimat.yusufolukoju2@ucr.edu
+
+17. Zach Newsom
+   Email: zachary.newsom@ucr.edu
+   Username: zachary.newsom
+   Original line: Zach Newsom Assistant Track & Field Coach (Distance) zachary.newsom@ucr.edu
+
+18. Brittney Matta
+   Email: brittney.matta@ucr.edu
+   Username: brittney.matta
+   Original line: Brittney Matta Head Softball Coach brittney.matta@ucr.edu
+
+19. Nick Sanchez
+   Email: nicholas.sanchez@ucr.edu
+   Username: nicholas.sanchez
+   Original line: Nick Sanchez Assistant Softball Coach (Recruiting Coordinator) nicholas.sanchez@ucr.edu
+
+20. Brad Langston
+   Email: john.langston@ucr.edu
+   Username: john.langston
+   Original line: Brad Langston Head Women's Basketball Coach john.langston@ucr.edu
+
+21. Jewelyn Huth
+   Email: jewelyn.huth@ucr.edu
+   Username: jewelyn.huth
+   Original line: Jewelyn Huth Assistant Women's Basketball Coach jewelyn.huth@ucr.edu
+
+22. Najé Murray
+   Email: naje.murray@ucr.edu
+   Username: naje.murray
+   Original line: Najé Murray Assistant Women's Basketball Coach naje.murray@ucr.edu
+
+23. Natasha Smith
+   Email: natasha.smith@ucr.edu
+   Username: natasha.smith
+   Original line: Natasha Smith Associate Head Coach Women's Basketball natasha.smith@ucr.edu
+
+24. Mike Dibbini
+   Email: mike.dibbini@ucr.edu
+   Username: mike.dibbini
+   Original line: Mike Dibbini Head Women's Soccer Coach mike.dibbini@ucr.edu
+
+25. Gerardo Hidalgo
+   Email: gerardo.hidalgo@ucr.edu
+   Username: gerardo.hidalgo
+   Original line: Gerardo Hidalgo Assistant Women's Soccer Coach gerardo.hidalgo@ucr.edu (562) 480-
+
+26. Tony Huerta
+   Email: jose.a.huerta@ucr.edu
+   Username: jose.a.huerta
+   Original line: Tony Huerta Assistant Women's Soccer Coach jose.a.huerta@ucr.edu
+
+27. Robert Pearson
+   Email: robert.pearson@ucr.edu
+   Username: robert.pearson
+   Original line: Robert Pearson Assistant Tennis Coach robert.pearson@ucr.edu
+
+28. Bobby Kielty
+   Email: robert.kielty@ucr.edu
+   Username: robert.kielty
+   Original line: Bobby Kielty Assistant Tennis Coach robert.kielty@ucr.edu
+
+29. Branden Higa
+   Email: branden.higa@ucr.edu
+   Username: branden.higa
+   Original line: Branden Higa Head Women's Volleyball Coach branden.higa@ucr.edu
+
+30. Desiree Sukhov
+   Email: desiree.sukhov@ucr.edu
+   Username: desiree.sukhov
+   Original line: Desiree Sukhov Assistant Women's Volleyball Coach desiree.sukhov@ucr.edu
+
+31. Maurice Torres
+   Email: maurice.torres@ucr.edu
+   Username: maurice.torres
+   Original line: Maurice Torres Assistant Women's Volleyball Coach maurice.torres@ucr.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Justin Johnson Head Baseball Coach justin.johnson@ucr.edu 951-827-
+• Lloyd Acosta Associate Head Baseball Coach/Recruiting Coordinator lloyd.acosta@ucr.edu
+• Zach Newsom Assistant Cross Country Coach zachary.newsom@ucr.edu
+• Gus Argenal Head Men's Basketball Coach agustin.argenal@ucr.edu
+• Tim Bross Assistant Men's Basketball Coach timothy.bross@ucr.edu
+• Blake Wetherington Assistant Men's Basketball Coach blake.wetherington@ucr.edu
+• Reuben Williams Assistant Men's Basketball Coach reubenw@ucr.edu
+• Matthew Musselman Assistant Men's Basketball Coach matthew.musselman@ucr.edu
+• Tim Cupello Head Men's Soccer Coach tim.cupello@ucr.edu 951-827-
+• Chris Volk Assistant Men's Soccer Coach cvolk@ucr.edu 951-827-
+• Romario Lomeli Assistant Men's Soccer Coach romario.lomeli@ucr.edu
+• Tony Huerta Assistant Men's Soccer Coach jose.a.huerta@ucr.edu
+• Robert Pearson Assistant Tennis Coach robert.pearson@ucr.edu
+• Bobby Kielty Assistant Tennis Coach robert.kielty@ucr.edu
+• Eric Fremd Assistant Track & Field Coach (Hurdles, Jumps, Multis) eric.fremd@ucr.edu
+• Fatimat Yusuf-Olukoju Assistant Track & Field Coach (Sprints, Relays) fatimat.yusufolukoju2@ucr.edu
+• Zach Newsom Assistant Track & Field Coach (Distance) zachary.newsom@ucr.edu
+• Brittney Matta Head Softball Coach brittney.matta@ucr.edu
+• Nick Sanchez Assistant Softball Coach (Recruiting Coordinator) nicholas.sanchez@ucr.edu
+• Brad Langston Head Women's Basketball Coach john.langston@ucr.edu
+• Jewelyn Huth Assistant Women's Basketball Coach jewelyn.huth@ucr.edu
+• Najé Murray Assistant Women's Basketball Coach naje.murray@ucr.edu
+• Natasha Smith Associate Head Coach Women's Basketball natasha.smith@ucr.edu
+• Mike Dibbini Head Women's Soccer Coach mike.dibbini@ucr.edu
+• Gerardo Hidalgo Assistant Women's Soccer Coach gerardo.hidalgo@ucr.edu (562) 480-
+• Tony Huerta Assistant Women's Soccer Coach jose.a.huerta@ucr.edu
+• Robert Pearson Assistant Tennis Coach robert.pearson@ucr.edu
+• Bobby Kielty Assistant Tennis Coach robert.kielty@ucr.edu
+• Branden Higa Head Women's Volleyball Coach branden.higa@ucr.edu
+• Desiree Sukhov Assistant Women's Volleyball Coach desiree.sukhov@ucr.edu
+• Maurice Torres Assistant Women's Volleyball Coach maurice.torres@ucr.edu

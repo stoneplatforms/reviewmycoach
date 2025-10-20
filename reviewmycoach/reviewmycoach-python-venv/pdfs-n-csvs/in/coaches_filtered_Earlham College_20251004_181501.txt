@@ -1,0 +1,241 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:02
+============================================================
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. Steve Sakosits
+   Email: sakosst@earlham.edu
+   Username: sakosst
+   Phone: (765) 983-1730
+   Original line: Steve Sakosits Senior Associate Athletics Director / Head Baseball Coach sakosst@earlham.edu 765-983-1730
+
+2. Lauren Horton
+   Email: hortola@earlham.edu
+   Username: hortola
+   Phone: (765) 983-1490
+   Original line: Lauren Horton Associate Athletics Director / Head Volleyball Coach hortola@earlham.edu 765-983-1490
+
+3. Nicole Chalfant
+   Email: volgrni@earlham.edu
+   Username: volgrni
+   Phone: (765) 983-1721
+   Original line: Nicole Chalfant (Volgraf) Head Field Hockey Coach / Senior Woman Administrator volgrni@earlham.edu 765-983-1721
+
+4. Ryan Covele
+   Email: covelry@earlham.edu
+   Username: covelry
+   Phone: (765) 983-1414
+   Original line: Ryan Covele Head Strength and Conditioning Coach covelry@earlham.edu 765-983-1414
+
+5. Jim Etling
+   Email: etlinji@earlham.edu
+   Username: etlinji
+   Original line: Jim Etling Assistant Men's Basketball Coach/NCAA Compliance Director etlinji@earlham.edu
+
+6. Steve Sakosits
+   Email: sakosst@earlham.edu
+   Username: sakosst
+   Phone: (765) 983-1730
+   Original line: Steve Sakosits Senior Associate Athletics Director / Head Baseball Coach sakosst@earlham.edu 765-983-1730
+
+7. Brandon Wilson
+   Email: wilsobr@earlham.edu
+   Username: wilsobr
+   Original line: Brandon Wilson Assistant Baseball Coach/Recruiting Coordinator wilsobr@earlham.edu
+
+8. Josh Slade
+   Email: sladejo@earlham.edu
+   Username: sladejo
+   Original line: Josh Slade Assistant Baseball Coach sladejo@earlham.edu
+
+9. Jason Davis
+   Email: davisja2@earlham.edu
+   Username: davisja2
+   Phone: (937) 218-8908
+   Original line: Jason Davis Head Cross County/Assistant Track and Field Coach davisja2@earlham.edu 937-218-8908
+
+10. Chris Krystofiak
+   Email: krystch@earlham.edu
+   Username: krystch
+   Phone: (765) 983-1668
+   Original line: Chris Krystofiak Head Track and Field/Assistant Cross Country Coach krystch@earlham.edu 765-983-1668
+
+11. George Rickett
+   Email: rickege@earlham.edu
+   Username: rickege
+   Original line: George Rickett Assistant Cross Country/Track and Field Coach rickege@earlham.edu
+
+12. Nicole Chalfant
+   Email: volgrni@earlham.edu
+   Username: volgrni
+   Phone: (765) 983-1721
+   Original line: Nicole Chalfant (Volgraf) Head Field Hockey Coach / Senior Woman Administrator volgrni@earlham.edu 765-983-1721
+
+13. Isaiah Cavaco
+   Email: cavacis@earlham.edu
+   Username: cavacis
+   Original line: Isaiah Cavaco Head Men's Basketball Coach cavacis@earlham.edu
+
+14. Jim Etling
+   Email: etlinji@earlham.edu
+   Username: etlinji
+   Original line: Jim Etling Assistant Men's Basketball Coach/NCAA Compliance Director etlinji@earlham.edu
+
+15. Matt Brown
+   Email: brownma@earlham.edu
+   Username: brownma
+   Phone: (765) 983-1482
+   Original line: Matt Brown Head Men’s/Women’s Golf Coach brownma@earlham.edu 765-983-1482
+
+16. Seth Kestranek
+   Email: kestrse@earlham.edu
+   Username: kestrse
+   Original line: Seth Kestranek Assistant Men's and Women's Golf Coach kestrse@earlham.edu
+
+17. Taylor Lanzillo
+   Email: lanzita@earlham.edu
+   Username: lanzita
+   Phone: (856) 520-2007
+   Original line: Taylor Lanzillo Head Men's Lacrosse Coach lanzita@earlham.edu 856-520-2007
+
+18. Aaron Gustine
+   Email: gustiaa@earlham.edu
+   Username: gustiaa
+   Phone: (765) 983-1477
+   Original line: Aaron Gustine Head Men's Soccer Coach gustiaa@earlham.edu 765-983-1477
+
+19. Jack Amorosano
+   Email: amoroja@earlham.edu
+   Username: amoroja
+   Original line: Jack Amorosano Assistant Men's Soccer Coach amoroja@earlham.edu
+
+20. Roy Messer
+   Email: messero@earlham.edu
+   Username: messero
+   Original line: Roy Messer Volunteer Men's Soccer Coach messero@earlham.edu
+
+21. Jacob Freeland
+   Email: freelja@earlham.edu
+   Username: freelja
+   Phone: (740) 516-3770
+   Original line: Jacob Freeland Head Men's/Women's Tennis Coach freelja@earlham.edu 740-516-3770
+
+22. Stacey Goyette
+   Email: goyetst@earlham.edu
+   Username: goyetst
+   Phone: (765) 620-4163
+   Original line: Stacey Goyette Head Softball Coach goyetst@earlham.edu 765-620-4163
+
+23. Meg Stanley
+   Email: stanlme@earlham.edu
+   Username: stanlme
+   Original line: Meg Stanley Graduate Assistant Softball Coach stanlme@earlham.edu
+
+24. Chris Krystofiak
+   Email: krystch@earlham.edu
+   Username: krystch
+   Phone: (765) 983-1668
+   Original line: Chris Krystofiak Head Track and Field/Assistant Cross Country Coach krystch@earlham.edu 765-983-1668
+
+25. Jason Davis
+   Email: davisja2@earlham.edu
+   Username: davisja2
+   Phone: (937) 218-8908
+   Original line: Jason Davis Head Cross County/Assistant Track and Field Coach davisja2@earlham.edu 937-218-8908
+
+26. George Rickett
+   Email: rickege@earlham.edu
+   Username: rickege
+   Original line: George Rickett Assistant Cross Country/Track and Field Coach rickege@earlham.edu
+
+27. Joe Adams
+   Email: jtadams10@earlham.edu
+   Username: jtadams10
+   Original line: Joe Adams Head Women's Basketball Coach jtadams10@earlham.edu 7659831740
+
+28. Nicole Sims
+   Email: simsni@earlham.edu
+   Username: simsni
+   Original line: Nicole Sims Assistant Women's Basketball Coach simsni@earlham.edu
+
+29. Matt Brown
+   Email: brownma@earlham.edu
+   Username: brownma
+   Phone: (765) 983-1482
+   Original line: Matt Brown Head Men’s/Women’s Golf Coach brownma@earlham.edu 765-983-1482
+
+30. Seth Kestranek
+   Email: kestrse@earlham.edu
+   Username: kestrse
+   Original line: Seth Kestranek Assistant Men's and Women's Golf Coach kestrse@earlham.edu
+
+31. Jacob Freeland
+   Email: freelja@earlham.edu
+   Username: freelja
+   Phone: (740) 516-3770
+   Original line: Jacob Freeland Head Men's/Women's Tennis Coach freelja@earlham.edu 740-516-3770
+
+32. Lydia Harvey
+   Email: ljharvey15@earlham.edu
+   Username: ljharvey15
+   Phone: (765) 983-1492
+   Original line: Lydia Harvey Head Women's Soccer Coach ljharvey15@earlham.edu 765-983-1492
+
+33. Padgett Gustavson
+   Email: pygusta16@earlham.edu
+   Username: pygusta16
+   Phone: (765) 983-1485
+   Original line: Padgett Gustavson Associate Head Women's Soccer Coach pygusta16@earlham.edu 765-983-1485
+
+34. Lauren Horton
+   Email: hortola@earlham.edu
+   Username: hortola
+   Phone: (765) 983-1490
+   Original line: Lauren Horton Associate Athletics Director / Head Volleyball Coach hortola@earlham.edu 765-983-1490
+
+35. Trayce Wilson-Ruffin
+   Email: wilsotr@earlham.edu
+   Username: wilsotr
+   Original line: Trayce Wilson-Ruffin Assistant Volleyball Coach wilsotr@earlham.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Steve Sakosits Senior Associate Athletics Director / Head Baseball Coach sakosst@earlham.edu 765-983-1730
+• Lauren Horton Associate Athletics Director / Head Volleyball Coach hortola@earlham.edu 765-983-1490
+• Nicole Chalfant (Volgraf) Head Field Hockey Coach / Senior Woman Administrator volgrni@earlham.edu 765-983-1721
+• Ryan Covele Head Strength and Conditioning Coach covelry@earlham.edu 765-983-1414
+• Jim Etling Assistant Men's Basketball Coach/NCAA Compliance Director etlinji@earlham.edu
+• Steve Sakosits Senior Associate Athletics Director / Head Baseball Coach sakosst@earlham.edu 765-983-1730
+• Brandon Wilson Assistant Baseball Coach/Recruiting Coordinator wilsobr@earlham.edu
+• Josh Slade Assistant Baseball Coach sladejo@earlham.edu
+• Jason Davis Head Cross County/Assistant Track and Field Coach davisja2@earlham.edu 937-218-8908
+• Chris Krystofiak Head Track and Field/Assistant Cross Country Coach krystch@earlham.edu 765-983-1668
+• George Rickett Assistant Cross Country/Track and Field Coach rickege@earlham.edu
+• Nicole Chalfant (Volgraf) Head Field Hockey Coach / Senior Woman Administrator volgrni@earlham.edu 765-983-1721
+• Isaiah Cavaco Head Men's Basketball Coach cavacis@earlham.edu
+• Jim Etling Assistant Men's Basketball Coach/NCAA Compliance Director etlinji@earlham.edu
+• Matt Brown Head Men’s/Women’s Golf Coach brownma@earlham.edu 765-983-1482
+• Seth Kestranek Assistant Men's and Women's Golf Coach kestrse@earlham.edu
+• Taylor Lanzillo Head Men's Lacrosse Coach lanzita@earlham.edu 856-520-2007
+• Aaron Gustine Head Men's Soccer Coach gustiaa@earlham.edu 765-983-1477
+• Jack Amorosano Assistant Men's Soccer Coach amoroja@earlham.edu
+• Roy Messer Volunteer Men's Soccer Coach messero@earlham.edu
+• Jacob Freeland Head Men's/Women's Tennis Coach freelja@earlham.edu 740-516-3770
+• Stacey Goyette Head Softball Coach goyetst@earlham.edu 765-620-4163
+• Meg Stanley Graduate Assistant Softball Coach stanlme@earlham.edu
+• Chris Krystofiak Head Track and Field/Assistant Cross Country Coach krystch@earlham.edu 765-983-1668
+• Jason Davis Head Cross County/Assistant Track and Field Coach davisja2@earlham.edu 937-218-8908
+• George Rickett Assistant Cross Country/Track and Field Coach rickege@earlham.edu
+• Joe Adams Head Women's Basketball Coach jtadams10@earlham.edu 7659831740
+• Nicole Sims Assistant Women's Basketball Coach simsni@earlham.edu
+• Matt Brown Head Men’s/Women’s Golf Coach brownma@earlham.edu 765-983-1482
+• Seth Kestranek Assistant Men's and Women's Golf Coach kestrse@earlham.edu
+• Jacob Freeland Head Men's/Women's Tennis Coach freelja@earlham.edu 740-516-3770
+• Lydia Harvey Head Women's Soccer Coach ljharvey15@earlham.edu 765-983-1492
+• Padgett Gustavson Associate Head Women's Soccer Coach pygusta16@earlham.edu 765-983-1485
+• Lauren Horton Associate Athletics Director / Head Volleyball Coach hortola@earlham.edu 765-983-1490
+• Trayce Wilson-Ruffin Assistant Volleyball Coach wilsotr@earlham.edu

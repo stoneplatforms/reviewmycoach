@@ -1,0 +1,83 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:24
+============================================================
+
+Total coaches found: 12
+
+PARSED ENTRIES:
+----------------------------------------
+1. Marlon Watson
+   Email: Marlon.Watson@fvsu.edu
+   Username: Marlon.Watson
+   Original line: Marlon Watson Head Football Coach Marlon.Watson@fvsu.edu 478-
+
+2. Taurean Smith
+   Email: taurean.smith@fvsu.edu
+   Username: taurean.smith
+   Original line: Taurean Smith Linebackers Coach taurean.smith@fvsu.edu 478-
+
+3. Paxton Cottrell
+   Email: paxton.cottrell@fvsu.edu
+   Username: paxton.cottrell
+   Original line: Paxton Cottrell Offensive Line Coach paxton.cottrell@fvsu.edu 478-
+
+4. Alexander Jones
+   Email: Alexander.jones@fvsu.edu
+   Username: Alexander.jones
+   Original line: Alexander Jones Assistant Coach Men's & Alexander.jones@fvsu.edu 478-
+
+5. Brandon Britt
+   Email: brandon.britt@fvsu.edu
+   Username: brandon.britt
+   Original line: Brandon Britt Head Coach Men's Basketball brandon.britt@fvsu.edu 478-
+
+6. Brandon Mayhan
+   Email: brandon.mayhan@fvsu.edu
+   Username: brandon.mayhan
+   Original line: Brandon Mayhan Assistant Coach Men's brandon.mayhan@fvsu.edu
+
+7. LaToya Jones
+   Email: latoya.jones@fvsu.edu
+   Username: latoya.jones
+   Original line: LaToya Jones Head Coach Women's latoya.jones@fvsu.edu 478-
+
+8. Alexander Jones
+   Email: Alexander.jones@fvsu.edu
+   Username: Alexander.jones
+   Original line: Alexander Jones Assistant Coach Men's & Alexander.jones@fvsu.edu 478-
+
+9. Rufus Green
+   Email: rufus.green@fvsu.edu
+   Username: rufus.green
+   Original line: Rufus Green Head Softball Coach rufus.green@fvsu.edu 478-
+
+10. Larry Wrather
+   Email: lawrence.wrather@fvsu.edu
+   Username: lawrence.wrather
+   Original line: Larry Wrather Head Men's Volleyball Coach lawrence.wrather@fvsu.edu 478-
+
+11. Calandria Grace
+   Email: calandria.grace@fvsu.edu
+   Username: calandria.grace
+   Original line: Calandria Grace Head Cheerleading Coach calandria.grace@fvsu.edu 478-
+
+12. Alexander Jones
+   Email: Alexander.jones@fvsu.edu
+   Username: Alexander.jones
+   Original line: Alexander Jones Assistant Coach Men's & Alexander.jones@fvsu.edu 478-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Marlon Watson Head Football Coach Marlon.Watson@fvsu.edu 478-
+• Taurean Smith Linebackers Coach taurean.smith@fvsu.edu 478-
+• Paxton Cottrell Offensive Line Coach paxton.cottrell@fvsu.edu 478-
+• Alexander Jones Assistant Coach Men's & Alexander.jones@fvsu.edu 478-
+• Brandon Britt Head Coach Men's Basketball brandon.britt@fvsu.edu 478-
+• Brandon Mayhan Assistant Coach Men's brandon.mayhan@fvsu.edu
+• LaToya Jones Head Coach Women's latoya.jones@fvsu.edu 478-
+• Alexander Jones Assistant Coach Men's & Alexander.jones@fvsu.edu 478-
+• Rufus Green Head Softball Coach rufus.green@fvsu.edu 478-
+• Larry Wrather Head Men's Volleyball Coach lawrence.wrather@fvsu.edu 478-
+• Calandria Grace Head Cheerleading Coach calandria.grace@fvsu.edu 478-
+• Alexander Jones Assistant Coach Men's & Alexander.jones@fvsu.edu 478-

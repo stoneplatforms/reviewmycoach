@@ -1,0 +1,353 @@
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray stroke color because /'P6' is an invalid float value
+Cannot set gray non-stroke color because /'P6' is an invalid float value
+Cannot set gray stroke color because /'P64' is an invalid float value
+Cannot set gray non-stroke color because /'P64' is an invalid float value
+Cannot set gray stroke color because /'P89' is an invalid float value
+Cannot set gray non-stroke color because /'P89' is an invalid float value
+Cannot set gray stroke color because /'P112' is an invalid float value
+Cannot set gray non-stroke color because /'P112' is an invalid float value
+Cannot set gray stroke color because /'P137' is an invalid float value
+Cannot set gray non-stroke color because /'P137' is an invalid float value
+Cannot set gray stroke color because /'P171' is an invalid float value
+Cannot set gray non-stroke color because /'P171' is an invalid float value
+Cannot set gray stroke color because /'P197' is an invalid float value
+Cannot set gray non-stroke color because /'P197' is an invalid float value
+Cannot set gray stroke color because /'P225' is an invalid float value
+Cannot set gray non-stroke color because /'P225' is an invalid float value
+Cannot set gray stroke color because /'P253' is an invalid float value
+Cannot set gray non-stroke color because /'P253' is an invalid float value
+Cannot set gray stroke color because /'P284' is an invalid float value
+Cannot set gray non-stroke color because /'P284' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray stroke color because /'P6' is an invalid float value
+Cannot set gray non-stroke color because /'P6' is an invalid float value
+Cannot set gray stroke color because /'P64' is an invalid float value
+Cannot set gray non-stroke color because /'P64' is an invalid float value
+Cannot set gray stroke color because /'P89' is an invalid float value
+Cannot set gray non-stroke color because /'P89' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray stroke color because /'P112' is an invalid float value
+Cannot set gray non-stroke color because /'P112' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray stroke color because /'P33' is an invalid float value
+Cannot set gray non-stroke color because /'P33' is an invalid float value
+-> Reading CSV: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/nh/New Hampshire Athletics Directory.csv
+-> Output PDFs to: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/nh
+
+Printing completed in 55.1s
+Success: 7 | Skipped: 3 | Errors: 0
+
+Resolved URLs used:
+- Southern New Hampshire University (SNHU).pdf: https://snhupenmen.com/staff-directory?print=true
+- New England College.pdf: https://gopilgrims.com/staff-directory?print=true
+- Saint Anselm College.pdf: https://saintanselmhawks.com/staff-directory?print=true
+- University of New Hampshire (UNH).pdf: https://unhwildcats.com/staff-directory?print=true
+- Dartmouth College.pdf: https://dartmouthsports.com/staff-directory?print=true
+- Colby-Sawyer College.pdf: https://colby-sawyerathletics.com/staff-directory?print=true
+- Keene State College.pdf: https://keeneowls.com/staff-directory?print=true
+
+Skipped:
+- https://athletics.franklinpierce.edu/staff-directory -> Navigation failed: Page.goto: net::ERR_CONNECTION_RESET at https://athletics.franklinpierce.edu/staff-directory/index
+Call log:
+  - navigating to "https://athletics.franklinpierce.edu/staff-directory/index", waiting until "networkidle"
+ (tried: https://athletics.franklinpierce.edu/staff-directory?print=true, https://athletics.franklinpierce.edu/staff-directory/print, https://athletics.franklinpierce.edu/staff-directory, https://athletics.franklinpierce.edu/staff-directory/index?print=true, https://athletics.franklinpierce.edu/staff-directory/index/print, https://athletics.franklinpierce.edu/staff-directory/index)
+- https://rivraders.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rivraders.com/staff-directory/index
+Call log:
+  - navigating to "https://rivraders.com/staff-directory/index", waiting until "networkidle"
+ (tried: https://rivraders.com/staff-directory?print=true, https://rivraders.com/staff-directory/print, https://rivraders.com/staff-directory, https://rivraders.com/staff-directory/index?print=true, https://rivraders.com/staff-directory/index/print, https://rivraders.com/staff-directory/index)
+- https://plymouthpanthers.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://plymouthpanthers.com/staff-directory/index
+Call log:
+  - navigating to "https://plymouthpanthers.com/staff-directory/index", waiting until "networkidle"
+ (tried: https://plymouthpanthers.com/staff-directory?print=true, https://plymouthpanthers.com/staff-directory/print, https://plymouthpanthers.com/staff-directory, https://plymouthpanthers.com/staff-directory/index?print=true, https://plymouthpanthers.com/staff-directory/index/print, https://plymouthpanthers.com/staff-directory/index)
+
+Parsing printed PDFs and preparing upload entries...
+✔ Total coach entries prepared: 235
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Michelle McCarty (m.mccarty@snhu.edu) → coaches/m.mccarty
+[DRY RUN] Would create unclaimed coach profile: Dan Geist (d.geist@snhu.edu) → coaches/d.geist
+[DRY RUN] Would create unclaimed coach profile: Will Schoolcraft (w.schoolcraft@snhu.edu) → coaches/w.schoolcraft
+[DRY RUN] Would create unclaimed coach profile: Chris Shank (c.shank1@snhu.edu) → coaches/c.shank1
+[DRY RUN] Would create unclaimed coach profile: Pat Austin (p.austin@snhu.edu) → coaches/p.austin
+[DRY RUN] Would create unclaimed coach profile: Charlie Fletcher (c.fletcher2@snhu.edu) → coaches/c.fletcher2
+[DRY RUN] Would create unclaimed coach profile: Karen Pinkos (k.pinkos@snhu.edu) → coaches/k.pinkos
+[DRY RUN] Would create unclaimed coach profile: Josh Clemens (j.clemens@snhu.edu) → coaches/j.clemens
+[DRY RUN] Would create unclaimed coach profile: Elissa Chojnicki (e.chojnicki@snhu.edu) → coaches/e.chojnicki
+[DRY RUN] Would create unclaimed coach profile: Jack Perri (j.perri@snhu.edu) → coaches/j.perri
+[DRY RUN] Would create unclaimed coach profile: David Steckel (d.steckel@snhu.edu) → coaches/d.steckel
+[DRY RUN] Would create unclaimed coach profile: Ben King (b.king4@snhu.edu) → coaches/b.king4
+[DRY RUN] Would create unclaimed coach profile: Destyne Greenwood (d.greenwood1@snhu.edu) → coaches/d.greenwood1
+[DRY RUN] Would create unclaimed coach profile: Kelly Vincent (k.vincent@snhu.edu) → coaches/k.vincent
+[DRY RUN] Would create unclaimed coach profile: Tasha Becker (t.becker1@snhu.edu) → coaches/t.becker1
+[DRY RUN] Would create unclaimed coach profile: Aaron Brown (a.brown5@snhu.edu) → coaches/a.brown5
+[DRY RUN] Would create unclaimed coach profile: Robert Wiemer (r.wiemer@snhu.edu) → coaches/r.wiemer
+[DRY RUN] Would create unclaimed coach profile: Tim Duffy (t.duffy@snhu.edu) → coaches/t.duffy
+[DRY RUN] Would create unclaimed coach profile: Josh Williams (j.williams26@snhu.edu) → coaches/j.williams26
+[DRY RUN] Would create unclaimed coach profile: Ethan Bennikutty (e.bennikutty@snhu.edu) → coaches/e.bennikutty
+[DRY RUN] Would create unclaimed coach profile: Harrison Greer (h.greer@snhu.edu) → coaches/h.greer
+[DRY RUN] Would create unclaimed coach profile: Julie Munson (j.munson@snhu.edu) → coaches/j.munson
+[DRY RUN] Would create unclaimed coach profile: Jenna Tanguay (j.deschaine@snhu.edu) → coaches/j.deschaine
+[DRY RUN] Would create unclaimed coach profile: Megan Bozek (m.bozek@snhu.edu) → coaches/m.bozek
+[DRY RUN] Would create unclaimed coach profile: Cam Whelan (c.whelan1@snhu.edu) → coaches/c.whelan1
+[DRY RUN] Would create unclaimed coach profile: Matt Arvanitis (m.arvanitis@snhu.edu) → coaches/m.arvanitis
+[DRY RUN] Would create unclaimed coach profile: Travis Scheyd (t.scheyd@snhu.edu) → coaches/t.scheyd
+[DRY RUN] Would create unclaimed coach profile: Sean Walsh (s.walsh3@snhu.edu) → coaches/s.walsh3
+[DRY RUN] Would create unclaimed coach profile: Matt Osgood (m.osgood@snhu.edu) → coaches/m.osgood
+[DRY RUN] Would create unclaimed coach profile: Chris Moquin (c.moquin@snhu.edu) → coaches/c.moquin
+[DRY RUN] Would create unclaimed coach profile: Shawn Olsten (s.olsten@snhu.edu) → coaches/s.olsten
+[DRY RUN] Would create unclaimed coach profile: Carissa Medeiros (c.medeiros1@snhu.edu) → coaches/c.medeiros1
+[DRY RUN] Would create unclaimed coach profile: Katie Crowther (kathleen.crowther@snhu.edu) → coaches/kathleen.crowther
+[DRY RUN] Would create unclaimed coach profile: Lexi Knapton (a.knapton@snhu.edu) → coaches/a.knapton
+[DRY RUN] Would create unclaimed coach profile: Paul Calkins (p.calkins@snhu.edu) → coaches/p.calkins
+[DRY RUN] Would create unclaimed coach profile: Mike Forgione (m.forgione@snhu.edu) → coaches/m.forgione
+[DRY RUN] Would create unclaimed coach profile: Elie Monteiro (e.monteiro@snhu.edu) → coaches/e.monteiro
+[DRY RUN] Would create unclaimed coach profile: Jamie Williams (v.williams@snhu.edu) → coaches/v.williams
+[DRY RUN] Would create unclaimed coach profile: Shae Roys (s.roys@snhu.edu) → coaches/s.roys
+[DRY RUN] Would create unclaimed coach profile: Josh Taylor (joshua.taylor@snhu.edu) → coaches/joshua.taylor
+[DRY RUN] Would create unclaimed coach profile: Alex Satrustegui (a.satrustegui@snhu.edu) → coaches/a.satrustegui
+[DRY RUN] Would create unclaimed coach profile: Phil Tuttle (p.tuttle2@snhu.edu) → coaches/p.tuttle2
+[DRY RUN] Would create unclaimed coach profile: Cooper Ribaudo (c.ribaudo@snhu.edu) → coaches/c.ribaudo
+[DRY RUN] Would create unclaimed coach profile: Deb Robitaille (d.robitaille@snhu.edu) → coaches/d.robitaille
+[DRY RUN] Would create unclaimed coach profile: Morgan Fraitzl (m.fraitzl@snhu.edu) → coaches/m.fraitzl
+[DRY RUN] Would create unclaimed coach profile: Kelsey Smith (k.smith17@snhu.edu) → coaches/k.smith17
+[DRY RUN] Would create unclaimed coach profile: Greg Coache (g.coache@snhu.edu) → coaches/g.coache
+[DRY RUN] Would create unclaimed coach profile: Frank Campolo (f.campolo@snhu.edu) → coaches/f.campolo
+[DRY RUN] Would create unclaimed coach profile: Marty Morrissey (m.morrissey1@snhu.edu) → coaches/m.morrissey1
+[DRY RUN] Would create unclaimed coach profile: Lynne Corson (l.corson@snhu.edu) → coaches/l.corson
+[DRY RUN] Would create unclaimed coach profile: Braden Zamore (b.zamore@snhu.edu) → coaches/b.zamore
+[DRY RUN] Would create unclaimed coach profile: James Keane (j.keane@snhu.edu) → coaches/j.keane
+[DRY RUN] Would create unclaimed coach profile: Caroline Belmontez (c.belmontez@snhu.edu) → coaches/c.belmontez
+[DRY RUN] Would create unclaimed coach profile: Christine Silva (csilva@anselm.edu) → coaches/csilva
+[DRY RUN] Would create unclaimed coach profile: Garrett Callaghan (gcallaghan@anselm.edu) → coaches/gcallaghan
+[DRY RUN] Would create unclaimed coach profile: Matthew Williams (mwilliams@anselm.edu) → coaches/mwilliams
+[DRY RUN] Would create unclaimed coach profile: Syerah Mulhern-Allred (smulhernallred@anselm.edu) → coaches/smulhernallred
+[DRY RUN] Would create unclaimed coach profile: Emma Mawn (emawn@anselm.edu) → coaches/emawn
+[DRY RUN] Would create unclaimed coach profile: Harry Oringer (horinger@anselm.edu) → coaches/horinger
+[DRY RUN] Would create unclaimed coach profile: Connor Simpson (csimpson@anselm.edu) → coaches/csimpson
+[DRY RUN] Would create unclaimed coach profile: Chris Santo (csanto@anselm.edu) → coaches/csanto
+[DRY RUN] Would create unclaimed coach profile: Trey Witter (trwitter@anselm.edu) → coaches/trwitter
+[DRY RUN] Would create unclaimed coach profile: Corey Boilard (cboilard@anselm.edu) → coaches/cboilard
+[DRY RUN] Would create unclaimed coach profile: Century McCartney (cmccartney@anselm.edu) → coaches/cmccartney
+[DRY RUN] Would create unclaimed coach profile: Tim Frye (tfrye@anselm.edu) → coaches/tfrye
+[DRY RUN] Would create unclaimed coach profile: Brian Stankiewicz (bstankiewicz@anselm.edu) → coaches/bstankiewicz
+[DRY RUN] Would create unclaimed coach profile: Carolyn King-Robitaille (cking@anselm.edu) → coaches/cking
+[DRY RUN] Would create unclaimed coach profile: Joe Adam (jadam@anselm.edu) → coaches/jadam
+[DRY RUN] Would create unclaimed coach profile: Gage Hayes (ghayes@anselm.edu) → coaches/ghayes
+[DRY RUN] Would create unclaimed coach profile: Chadd Braine (cbraine@anselm.edu) → coaches/cbraine
+[DRY RUN] Would create unclaimed coach profile: Val Honorable (vhonorable@anselm.edu) → coaches/vhonorable
+[DRY RUN] Would create unclaimed coach profile: Joe Bick (jbick@anselm.edu) → coaches/jbick
+[DRY RUN] Would create unclaimed coach profile: Trey McJunkin (dmcjunkin@anselm.edu) → coaches/dmcjunkin
+[DRY RUN] Would create unclaimed coach profile: Todd Pelletier (tpelletier@anselm.edu) → coaches/tpelletier
+[DRY RUN] Would create unclaimed coach profile: Bryan Walker (bwalker@anselm.edu) → coaches/bwalker
+[DRY RUN] Would create unclaimed coach profile: Evan Thuotte (ethuotte@anselm.edu) → coaches/ethuotte
+[DRY RUN] Would create unclaimed coach profile: Shaun Bishop (shbishop@anselm.edu) → coaches/shbishop
+[DRY RUN] Would create unclaimed coach profile: Tara Watt (tawatt@anselm.edu) → coaches/tawatt
+[DRY RUN] Would create unclaimed coach profile: Larry Rocha (lrocha@anselm.edu) → coaches/lrocha
+[DRY RUN] Would create unclaimed coach profile: John Herrick (jherrick@anselm.edu) → coaches/jherrick
+[DRY RUN] Would create unclaimed coach profile: Sam Ftorek (sftorek@anselm.edu) → coaches/sftorek
+[DRY RUN] Would create unclaimed coach profile: Jessica Salisbury (jsalisbury@anselm.edu) → coaches/jsalisbury
+[DRY RUN] Would create unclaimed coach profile: Drew Bourdeau (dbourdeau@anselm.edu) → coaches/dbourdeau
+[DRY RUN] Would create unclaimed coach profile: Eric Coburn (ecoburn@anselm.edu) → coaches/ecoburn
+[DRY RUN] Would create unclaimed coach profile: Mathew Howe (mhowe@anselm.edu) → coaches/mhowe
+[DRY RUN] Would create unclaimed coach profile: Meghan Smith (mesmith@anselm.edu) → coaches/mesmith
+[DRY RUN] Would create unclaimed coach profile: Bruno Victal (bvictal@anselm.edu) → coaches/bvictal
+[DRY RUN] Would create unclaimed coach profile: Tim Field (timfield@anselm.edu) → coaches/timfield
+[DRY RUN] Would create unclaimed coach profile: Zach Elliot (zelliot@anselm.edu) → coaches/zelliot
+[DRY RUN] Would create unclaimed coach profile: Lee Moyce (lmoyce@anselm.edu) → coaches/lmoyce
+[DRY RUN] Would create unclaimed coach profile: Jeff Bailey (jbailey@anselm.edu) → coaches/jbailey
+[DRY RUN] Would create unclaimed coach profile: Jill Gagnon (jgagnon@anselm.edu) → coaches/jgagnon
+[DRY RUN] Would create unclaimed coach profile: Alyssa DiMauro (adimauro@anselm.edu) → coaches/adimauro
+[DRY RUN] Would create unclaimed coach profile: Steve Kratenburg (steve@nhsportshouse.com) → coaches/steve
+[DRY RUN] Would create unclaimed coach profile: Nathan Taschereau (ntaschereau@anselm.edu) → coaches/ntaschereau
+[DRY RUN] Would create unclaimed coach profile: Lexi Neuwirth (aneuwirth@anselm.edu) → coaches/aneuwirth
+[DRY RUN] Would create unclaimed coach profile: George Jumpp (gjumpp@anselm.edu) → coaches/gjumpp
+[DRY RUN] Would create unclaimed coach profile: Nicholas Pope (npope@anselm.edu) → coaches/npope
+[DRY RUN] Would create unclaimed coach profile: Tori Allen (tallen@anselm.edu) → coaches/tallen
+[DRY RUN] Would create unclaimed coach profile: Anna Platek (amcgann@anselm.edu) → coaches/amcgann
+[DRY RUN] Would create unclaimed coach profile: Melissa Ouellet (mouellet@anselm.edu) → coaches/mouellet
+[DRY RUN] Would create unclaimed coach profile: Nathan Davis (nathan.davis@unh.edu) → coaches/nathan.davis
+[DRY RUN] Would create unclaimed coach profile: Tyler Wilson (tyler.wilson@unh.edu) → coaches/tyler.wilson
+[DRY RUN] Would create unclaimed coach profile: Luis Guzman (luis.guzman@unh.edu) → coaches/luis.guzman
+[DRY RUN] Would create unclaimed coach profile: Matt Miller (Matthew.Miller1@unh.edu) → coaches/Matthew.Miller1
+[DRY RUN] Would create unclaimed coach profile: Kevin Nichols (kevin.nichols@unh.edu) → coaches/kevin.nichols
+[DRY RUN] Would create unclaimed coach profile: Megan Head (Megan.Shoniker@unh.edu) → coaches/Megan.Shoniker
+[DRY RUN] Would create unclaimed coach profile: Kennedi Assistant (Kennedi.Thompson@unh.edu) → coaches/Kennedi.Thompson
+[DRY RUN] Would create unclaimed coach profile: Jessica Assistant (Jessica.George@unh.edu) → coaches/Jessica.George
+[DRY RUN] Would create unclaimed coach profile: Alexa Brodie (Alexa.Brodie@unh.edu) → coaches/Alexa.Brodie
+[DRY RUN] Would create unclaimed coach profile: Casey Carroll (casey.carroll@unh.edu) → coaches/casey.carroll | Phone: (603) 862-3815
+[DRY RUN] Would create unclaimed coach profile: Alison Duffy (Alison.Duffy@unh.edu) → coaches/Alison.Duffy
+[DRY RUN] Would create unclaimed coach profile: Robin Balducci (robin.balducci@unh.edu) → coaches/robin.balducci | Phone: (603) 674-2523
+[DRY RUN] Would create unclaimed coach profile: Tommy Herion (thomas.herion@unh.edu) → coaches/thomas.herion | Phone: (603) 862-1852
+[DRY RUN] Would create unclaimed coach profile: Nick Della (Nicholas.DellaJacono@unh.edu) → coaches/Nicholas.DellaJacono | Phone: (603) 862-1852
+[DRY RUN] Would create unclaimed coach profile: Lindsey Bruck (lindsey.ayotte@unh.edu) → coaches/lindsey.ayotte | Phone: (603) 862-3834
+[DRY RUN] Would create unclaimed coach profile: Nick Cramer (nick.cramer1@unh.edu) → coaches/nick.cramer1 | Phone: (603) 862-3834
+[DRY RUN] Would create unclaimed coach profile: Alyssa Assistant (alyssa.worthington@unh.edu) → coaches/alyssa.worthington | Phone: (603) 862-3834
+[DRY RUN] Would create unclaimed coach profile: Hilary Witt (hilary.witt@unh.edu) → coaches/hilary.witt
+[DRY RUN] Would create unclaimed coach profile: Sam Faber (samantha.faber@unh.edu) → coaches/samantha.faber | Phone: (631) 235-7766
+[DRY RUN] Would create unclaimed coach profile: Taylor Bastien (Taylor.Bastien@unh.edu) → coaches/Taylor.Bastien | Phone: (603) 862-4481
+[DRY RUN] Would create unclaimed coach profile: Aaron Gray (Aaron.Gray@unh.edu) → coaches/Aaron.Gray
+[DRY RUN] Would create unclaimed coach profile: Hannah Assistant (Hannah.Goodwin@unh.edu) → coaches/Hannah.Goodwin
+[DRY RUN] Would create unclaimed coach profile: Brian Blank (brian.blank@unh.edu) → coaches/brian.blank | Phone: (603) 862-3893
+[DRY RUN] Would create unclaimed coach profile: Bella Amico (bella.amico@unh.edu) → coaches/bella.amico
+[DRY RUN] Would create unclaimed coach profile: Rich Weinrebe (richard.weinrebe@unh.edu) → coaches/richard.weinrebe | Phone: (603) 862-3211
+[DRY RUN] Would create unclaimed coach profile: Ian de (ian.deoliveira@unh.edu) → coaches/ian.deoliveira | Phone: (603) 862-3211
+[DRY RUN] Would create unclaimed coach profile: Alan Kehoe (Alan.Kehoe@unh.edu) → coaches/Alan.Kehoe | Phone: (603) 862-3211
+[DRY RUN] Would create unclaimed coach profile: Steve Welham (steve.welham@unh.edu) → coaches/steve.welham | Phone: (603) 862-3822
+[DRY RUN] Would create unclaimed coach profile: Jessica Nei (jessica.nei@unh.edu) → coaches/jessica.nei
+[DRY RUN] Would create unclaimed coach profile: Stuart Horne (stu.horne@unh.edu) → coaches/stu.horne | Phone: (603) 862-0744
+[DRY RUN] Would create unclaimed coach profile: Josh Willman (josh.willman@unh.edu) → coaches/josh.willman | Phone: (603) 862-3832
+[DRY RUN] Would create unclaimed coach profile: Nicole Benson (nicole.benson@unh.edu) → coaches/nicole.benson
+[DRY RUN] Would create unclaimed coach profile: Christopher Head (chris.feliciano@unh.edu) → coaches/chris.feliciano | Phone: (603) 862-4664
+[DRY RUN] Would create unclaimed coach profile: Paige DeWitt (paige.dewitt@unh.edu) → coaches/paige.dewitt
+[DRY RUN] Would create unclaimed coach profile: Alysa Wright (alysa.wright@unh.edu) → coaches/alysa.wright
+[DRY RUN] Would create unclaimed coach profile: Diving Coach/Water (Christopher.W.Hamilton@dartmouth.edu) → coaches/Christopher.W.Hamilton
+[DRY RUN] Would create unclaimed coach profile: Interim Head (blake.e.mcfadden@dartmouth.edu) → coaches/blake.e.mcfadden
+[DRY RUN] Would create unclaimed coach profile: Assistant Coach/Recruiting (jabari.c.trotter@dartmouth.edu) → coaches/jabari.c.trotter
+[DRY RUN] Would create unclaimed coach profile: Assistant Coach (Anh-Dao.T.Tran@dartmouth.edu) → coaches/Anh-Dao.T.Tran
+[DRY RUN] Would create unclaimed coach profile: Head Coach (Tenley.Walsh@dartmouth.edu) → coaches/Tenley.Walsh
+[DRY RUN] Would create unclaimed coach profile: Assistant Coach (Megan.M.McGill@dartmouth.edu) → coaches/Megan.M.McGill
+[DRY RUN] Would create unclaimed coach profile: Head Coach (mark.egner@dartmouth.edu) → coaches/mark.egner
+[DRY RUN] Would create unclaimed coach profile: Robert L. (dartmouth.football@dartmouth.edu) → coaches/dartmouth.football
+[DRY RUN] Would create unclaimed coach profile: Assistant Coach (donald.h.dobes@dartmouth.edu) → coaches/donald.h.dobes
+[DRY RUN] Would create unclaimed coach profile: Associate Head (kevin.b.daft@dartmouth.edu) → coaches/kevin.b.daft
+[DRY RUN] Would create unclaimed coach profile: Assistant Coach (duane.e.brooks@dartmouth.edu) → coaches/duane.e.brooks
+[DRY RUN] Would create unclaimed coach profile: Assistant Coach (keith.p.clark@dartmouth.edu) → coaches/keith.p.clark
+[DRY RUN] Would create unclaimed coach profile: Special Assistant (curtis.p.oberg@dartmouth.edu) → coaches/curtis.p.oberg
+[DRY RUN] Would create unclaimed coach profile: Bill Johnson (Richard.S.Parker@dartmouth.edu) → coaches/Richard.S.Parker
+[DRY RUN] Would create unclaimed coach profile: Carolyn A. (alexander.k.kirk@dartmouth.edu) → coaches/alexander.k.kirk
+[DRY RUN] Would create unclaimed coach profile: Koenig Family (Reid.A.Cashman@dartmouth.edu) → coaches/Reid.A.Cashman
+[DRY RUN] Would create unclaimed coach profile: Associate Head (Jason.M.Tapp@dartmouth.edu) → coaches/Jason.M.Tapp
+[DRY RUN] Would create unclaimed coach profile: Josie Harper (alexandra.f.mcfadden@dartmouth.edu) → coaches/alexandra.f.mcfadden
+[DRY RUN] Would create unclaimed coach profile: Betsy and (wyatt.r.allen@dartmouth.edu) → coaches/wyatt.r.allen
+[DRY RUN] Would create unclaimed coach profile: Head Coach (Trevor.D.Michelson@dartmouth.edu) → coaches/Trevor.D.Michelson
+[DRY RUN] Would create unclaimed coach profile: The Elizabeth (john.h.graves@dartmouth.edu) → coaches/john.h.graves
+[DRY RUN] Would create unclaimed coach profile: Head Coach (Kathryn.B.Dowty@Dartmouth.edu) → coaches/Kathryn.B.Dowty
+[DRY RUN] Would create unclaimed coach profile: Assistant Coach (lisa.m.jackson@dartmouth.edu) → coaches/lisa.m.jackson
+[DRY RUN] Would create unclaimed coach profile: Interim Head (Rebecca.S.McElvain@dartmouth.edu) → coaches/Rebecca.S.McElvain
+[DRY RUN] Would create unclaimed coach profile: Director of (cami.thompson@dartmouth.edu) → coaches/cami.thompson
+[DRY RUN] Would create unclaimed coach profile: The Anny (john.c.dwyer@dartmouth.edu) → coaches/john.c.dwyer
+[DRY RUN] Would create unclaimed coach profile: Men's Nordic (brayton.k.osgood@dartmouth.edu) → coaches/brayton.k.osgood
+[DRY RUN] Would create unclaimed coach profile: Bobby Clark (msoccer@dartmouth.edu) → coaches/msoccer
+[DRY RUN] Would create unclaimed coach profile: Stacy Branca (taylor.m.schram@dartmouth.edu) → coaches/taylor.m.schram
+[DRY RUN] Would create unclaimed coach profile: Head Coach (Jennifer.L.Williams@dartmouth.edu) → coaches/Jennifer.L.Williams
+[DRY RUN] Would create unclaimed coach profile: Assistant Coach (sydney.p.benz@dartmouth.edu) → coaches/sydney.p.benz
+[DRY RUN] Would create unclaimed coach profile: Assistant Coach (ashley.n.weingartz@dartmouth.edu) → coaches/ashley.n.weingartz
+[DRY RUN] Would create unclaimed coach profile: Douglas A. (Vikram.Malhotra@dartmouth.edu) → coaches/Vikram.Malhotra
+[DRY RUN] Would create unclaimed coach profile: Assistant Coach (pamela.m.anckermann@dartmouth.edu) → coaches/pamela.m.anckermann
+[DRY RUN] Would create unclaimed coach profile: Head Coach (Milana.L.Socha@dartmouth.edu) → coaches/Milana.L.Socha
+[DRY RUN] Would create unclaimed coach profile: Marge & (Robert.Dallis@dartmouth.edu) → coaches/Robert.Dallis
+[DRY RUN] Would create unclaimed coach profile: Head Coach (volleyball@dartmouth.edu) → coaches/volleyball
+[DRY RUN] Would create unclaimed coach profile: Assistant Coach (Samuel.K.Marsh@dartmouth.edu) → coaches/Samuel.K.Marsh
+[DRY RUN] Would create unclaimed coach profile: Courtney Lampert (clampert@colby-sawyer.edu) → coaches/clampert
+[DRY RUN] Would create unclaimed coach profile: Andy Locke (andy.locke@colby-sawyer.edu) → coaches/andy.locke | Phone: 526-3608
+[DRY RUN] Would create unclaimed coach profile: Tom White (tom.white@colby-sawyer.edu) → coaches/tom.white | Phone: 526-3607
+[DRY RUN] Would create unclaimed coach profile: Ryan Connolly (ryan.connolly@colby-sawyer.edu) → coaches/ryan.connolly
+[DRY RUN] Would create unclaimed coach profile: Tim Moreau (timothy.moreau@colby-sawyer.edu) → coaches/timothy.moreau
+[DRY RUN] Would create unclaimed coach profile: Ryan Purrington (ryan.purrington@colby-sawyer.edu) → coaches/ryan.purrington | Phone: 526-3605
+[DRY RUN] Would create unclaimed coach profile: Emily Dewdney (emily.dewdney@colby-sawyer.edu) → coaches/emily.dewdney | Phone: 526-3489
+[DRY RUN] Would create unclaimed coach profile: Shannon Sciria (shannon.sciria@colby-sawyer.edu) → coaches/shannon.sciria
+[DRY RUN] Would create unclaimed coach profile: Zachary Grady (zachary.grady@colby-sawyer.edu) → coaches/zachary.grady | Phone: 526-3611
+[DRY RUN] Would create unclaimed coach profile: John Boynton (john.boynton@colby-sawyer.edu) → coaches/john.boynton
+[DRY RUN] Would create unclaimed coach profile: Jordan Barnett (jordan.barnett@colby-sawyer.edu) → coaches/jordan.barnett
+[DRY RUN] Would create unclaimed coach profile: Barry Schoonmaker (bschoonmaker@colby-sawyer.edu) → coaches/bschoonmaker | Phone: 526-3606
+[DRY RUN] Would create unclaimed coach profile: Tim Viola (tim.viola@colby-sawyer.edu) → coaches/tim.viola | Phone: 526-3763
+[DRY RUN] Would create unclaimed coach profile: Andrew Nimmo (andrew.nimmo@colby-sawyer.edu) → coaches/andrew.nimmo
+[DRY RUN] Would create unclaimed coach profile: Anthony Cosky (anthony.cosky@colby-sawyer.edu) → coaches/anthony.cosky | Phone: 526-3138
+[DRY RUN] Would create unclaimed coach profile: Miro Gladovic (miro.gladovic@colby-sawyer.edu) → coaches/miro.gladovic
+[DRY RUN] Would create unclaimed coach profile: Rita Dow (rita.dow@colby-sawyer.edu) → coaches/rita.dow
+[DRY RUN] Would create unclaimed coach profile: Pape Lukk (pape.lukk@colby-sawyer.edu) → coaches/pape.lukk
+[DRY RUN] Would create unclaimed coach profile: Kay'lee Justice (kaylee.justice@colby-sawyer.edu) → coaches/kaylee.justice
+[DRY RUN] Would create unclaimed coach profile: Jodi Mercier (jodi.mercier@keene.edu) → coaches/jodi.mercier
+[DRY RUN] Would create unclaimed coach profile: Tyler Dill (Tyler.Dill@keene.edu) → coaches/Tyler.Dill
+[DRY RUN] Would create unclaimed coach profile: Dylan Hannaford (Dylan.Hannaford@keene.edu) → coaches/Dylan.Hannaford
+[DRY RUN] Would create unclaimed coach profile: Justin Blood (Justin.Blood@keene.edu) → coaches/Justin.Blood
+[DRY RUN] Would create unclaimed coach profile: Tim Lunn (timothy.d.lunn@keene.edu) → coaches/timothy.d.lunn
+[DRY RUN] Would create unclaimed coach profile: Noah Plantamuro (noah.plantamuro@keene.edu) → coaches/noah.plantamuro
+[DRY RUN] Would create unclaimed coach profile: Shaun McKenna (Shaun.McKenna@keene.edu) → coaches/Shaun.McKenna
+[DRY RUN] Would create unclaimed coach profile: Gillian Lawrence (Gillian.Lawrence@keene.edu) → coaches/Gillian.Lawrence
+[DRY RUN] Would create unclaimed coach profile: Travis Wyant (Travis.Wyant@keene.edu) → coaches/Travis.Wyant
+[DRY RUN] Would create unclaimed coach profile: Jackie Brown (jaclyn.brown@keene.edu) → coaches/jaclyn.brown
+[DRY RUN] Would create unclaimed coach profile: Steven Enright (Steven.Enright@keene.edu) → coaches/Steven.Enright
+[DRY RUN] Would create unclaimed coach profile: TC Thacker (tc.thacker@keene.edu) → coaches/tc.thacker
+[DRY RUN] Would create unclaimed coach profile: Jeff Timmer (jtimmer@keene.edu) → coaches/jtimmer
+[DRY RUN] Would create unclaimed coach profile: Bobby Rodrigue (Robert.Rodrigue@keene.edu) → coaches/Robert.Rodrigue
+[DRY RUN] Would create unclaimed coach profile: Mike Romeo (michael.romeo@keene.edu) → coaches/michael.romeo
+[DRY RUN] Would create unclaimed coach profile: Joe Nutting (joseph.nutting@keene.edu) → coaches/joseph.nutting
+[DRY RUN] Would create unclaimed coach profile: Carlin Testa (carlin.testa@keene.edu) → coaches/carlin.testa
+[DRY RUN] Would create unclaimed coach profile: Mark Theriault (mtheriault@keene.edu) → coaches/mtheriault
+[DRY RUN] Would create unclaimed coach profile: Fred Ulbrick (Fred.Ulbrick@keene.edu) → coaches/Fred.Ulbrick
+[DRY RUN] Would create unclaimed coach profile: Matt Schmidt (Matthew.Schmidt@keene.edu) → coaches/Matthew.Schmidt
+[DRY RUN] Would create unclaimed coach profile: Matt Caron (Matthew.Caron@keene.edu) → coaches/Matthew.Caron
+[DRY RUN] Would create unclaimed coach profile: James McCully (James.Mccully@keene.edu) → coaches/James.Mccully
+[DRY RUN] Would create unclaimed coach profile: Declan Coughlin (declan.pietro.coughlin@keene.edu) → coaches/declan.pietro.coughlin
+[DRY RUN] Would create unclaimed coach profile: Chris Woolridge (Christopher.Woolridge@keene.edu) → coaches/Christopher.Woolridge
+[DRY RUN] Would create unclaimed coach profile: Dan Roark (Daniel.Roark@keene.edu) → coaches/Daniel.Roark
+[DRY RUN] Would create unclaimed coach profile: Bill Edson (William.edson@keene.edu) → coaches/William.edson
+[DRY RUN] Would create unclaimed coach profile: Aaron Thompson (DrAaron.Thompson@keene.edu) → coaches/DrAaron.Thompson
+[DRY RUN] Would create unclaimed coach profile: Dylan Flewelling (dylan.flewelling@keene.edu) → coaches/dylan.flewelling
+[DRY RUN] Would create unclaimed coach profile: Haley Chandler (Haley.Chandler@keene.edu) → coaches/Haley.Chandler
+[DRY RUN] Would create unclaimed coach profile: Jared Walsh (jared.walsh@keene.edu) → coaches/jared.walsh
+[DRY RUN] Would create unclaimed coach profile: Keith Boucher (kboucher@keene.edu) → coaches/kboucher
+[DRY RUN] Would create unclaimed coach profile: Rob Morgan (robert.morgan1@keene.edu) → coaches/robert.morgan1
+[DRY RUN] Would create unclaimed coach profile: Ainsley King (Ainsley.King@keene.edu) → coaches/Ainsley.King
+[DRY RUN] Would create unclaimed coach profile: Sarah Testo (stesto@keene.edu) → coaches/stesto
+[DRY RUN] Would create unclaimed coach profile: Ike McMillan (Isaac.McMillan@keene.edu) → coaches/Isaac.McMillan
+[DRY RUN] Would create unclaimed coach profile: Jacob Girard (Jacob.Girard@keene.edu) → coaches/Jacob.Girard
+[DRY RUN] Would create unclaimed coach profile: Noah Drouin (Noah.Drouin@keene.edu) → coaches/Noah.Drouin
+[DRY RUN] Would create unclaimed coach profile: Kevin McDermot (Kevin.McDermot@keene.edu) → coaches/Kevin.McDermot
+[DRY RUN] Would create unclaimed coach profile: Thomas LaPointe (Thomas.LaPointe@keene.edu) → coaches/Thomas.LaPointe
+[DRY RUN] Would create unclaimed coach profile: Mike Godzik (Mike.Godzik@keene.edu) → coaches/Mike.Godzik
+[DRY RUN] Would create unclaimed coach profile: Aleksey Wirth (Aleksey.Wirth@keene.edu) → coaches/Aleksey.Wirth
+[DRY RUN] Would create unclaimed coach profile: Tim Shaw (tim.shaw@keene.edu) → coaches/tim.shaw

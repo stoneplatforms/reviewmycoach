@@ -1,0 +1,53 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:37
+============================================================
+
+Total coaches found: 7
+
+PARSED ENTRIES:
+----------------------------------------
+1. Andre Bell
+   Email: abell@stephens.edu
+   Username: abell
+   Original line: Andre Bell Head Women's Basketball Coach | Camps Director abell@stephens.edu (573) 441 - 5171
+
+2. Daryl Betts
+   Email: dbetts@stephens.edu
+   Username: dbetts
+   Original line: Daryl Betts Assistant Basketball Coach dbetts@stephens.edu (573) 876 - 2353
+
+3. Don Trentham
+   Email: dtrentham@stephens.edu
+   Username: dtrentham
+   Original line: Don Trentham Head Soccer Coach dtrentham@stephens.edu (573) 489 - 0133
+
+4. Clint Poulsen
+   Email: cpoulsen@stephens.edu
+   Username: cpoulsen
+   Original line: Clint Poulsen Head Softball Coach cpoulsen@stephens.edu (573) 876 - 7103
+
+5. Emily King
+   Email: eking@stephens.edu
+   Username: eking
+   Original line: Emily King Assistant Softball Coach eking@stephens.edu
+
+6. Maggie Hans
+   Email: mhans@stephens.edu
+   Username: mhans
+   Original line: Maggie Hans Head Volleyball Coach mhans@stephens.edu (573) 777 - 7014
+
+7. Naomi Franco
+   Email: nfranco@stephens.edu
+   Username: nfranco
+   Original line: Naomi Franco Assistant Volleyball Coach nfranco@stephens.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Andre Bell Head Women's Basketball Coach | Camps Director abell@stephens.edu (573) 441 - 5171
+• Daryl Betts Assistant Basketball Coach dbetts@stephens.edu (573) 876 - 2353
+• Don Trentham Head Soccer Coach dtrentham@stephens.edu (573) 489 - 0133
+• Clint Poulsen Head Softball Coach cpoulsen@stephens.edu (573) 876 - 7103
+• Emily King Assistant Softball Coach eking@stephens.edu
+• Maggie Hans Head Volleyball Coach mhans@stephens.edu (573) 777 - 7014
+• Naomi Franco Assistant Volleyball Coach nfranco@stephens.edu

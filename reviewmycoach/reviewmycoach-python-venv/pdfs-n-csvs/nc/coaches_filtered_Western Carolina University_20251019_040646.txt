@@ -1,0 +1,305 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:47
+============================================================
+
+Total coaches found: 49
+
+PARSED ENTRIES:
+----------------------------------------
+1. Cody Jones
+   Email: jcjones@email.wcu.edu
+   Username: jcjones
+   Original line: Cody Jones Assistant Sports Performance Coach jcjones@email.wcu.edu (828) 227-
+
+2. John Williams
+   Email: johnwilliams@email.wcu.edu
+   Username: johnwilliams
+   Original line: John Williams Assistant Sports Performance Coach johnwilliams@email.wcu.edu (828) 227-
+
+3. Jordan Madrid
+   Email: jmadrid@email.wcu.edu
+   Username: jmadrid
+   Original line: Jordan Madrid Assistant Sports Performance Coach jmadrid@email.wcu.edu
+
+4. Alan Beck
+   Email: acbeck@email.wcu.edu
+   Username: acbeck
+   Original line: Alan Beck Head Baseball Coach acbeck@email.wcu.edu (828) 227-
+
+5. Jeff Korte
+   Email: jkorte@email.wcu.edu
+   Username: jkorte
+   Original line: Jeff Korte Assistant Coach / Recruiting Coordinator jkorte@email.wcu.edu (828) 227-
+
+6. Dusty White
+   Email: ddwhite@email.wcu.edu
+   Username: ddwhite
+   Original line: Dusty White Assistant Coach / Pitching Coach ddwhite@email.wcu.edu (828) 227-
+
+7. Seth Graves
+   Email: sgraves@email.wcu.edu
+   Username: sgraves
+   Original line: Seth Graves Assistant Baseball Coach sgraves@email.wcu.edu (828) 227-
+
+8. Gavin Mortenson
+   Email: gsmortenson1@catamount.wcu.edu
+   Username: gsmortenson1
+   Original line: Gavin Mortenson Student Assistant Coach gsmortenson1@catamount.wcu.edu
+
+9. Andre Gray
+   Email: gray@email.wcu.edu
+   Username: gray
+   Original line: Andre Gray Associate Head Men's Basketball Coach gray@email.wcu.edu (828) 227-
+
+10. Andrew Brown
+   Email: aebrown@email.wcu.edu
+   Username: aebrown
+   Original line: Andrew Brown Assistant Men's Basketball Coach / Recruiting Coordinator aebrown@email.wcu.edu (828) 227-
+
+11. Adam Bullard
+   Email: abullard@email.wcu.edu
+   Username: abullard
+   Original line: Adam Bullard Assistant Men's Basketball Coach abullard@email.wcu.edu (828) 227-
+
+12. Jackson Simmons
+   Email: simmons@email.wcu.edu
+   Username: simmons
+   Original line: Jackson Simmons Assistant Men's Basketball Coach simmons@email.wcu.edu (828) 227-
+
+13. Alison Seberger
+   Email: aseberger@email.wcu.edu
+   Username: aseberger
+   Original line: Alison Seberger Associate Head Women's Basketball Coach aseberger@email.wcu.edu (828) 227-
+
+14. Darius Barksdale
+   Email: dbarksdale@email.wcu.edu
+   Username: dbarksdale
+   Original line: Darius Barksdale Assistant Women's Basketball Coach dbarksdale@email.wcu.edu (828) 227-
+
+15. Sydney Lowery
+   Email: slowery@email.wcu.edu
+   Username: slowery
+   Original line: Sydney Lowery Assistant Women's Basketball Coach slowery@email.wcu.edu (828) 227-
+
+16. Claire Kaifes
+   Email: ckaifes@email.wcu.edu
+   Username: ckaifes
+   Original line: Claire Kaifes Assistant Women's Basketball Coach ckaifes@email.wcu.edu (828) 227-
+
+17. Corbin Huntley
+   Email: chuntley@email.wcu.edu
+   Username: chuntley
+   Original line: Corbin Huntley Head Cheerleading Coach chuntley@email.wcu.edu (828) 227-
+
+18. Jesse Norman
+   Email: jnorman@email.wcu.edu
+   Username: jnorman
+   Original line: Jesse Norman Head Coach jnorman@email.wcu.edu (828) 227-
+
+19. Hannah Mireles
+   Email: wcudanceteam@wcu.edu
+   Username: wcudanceteam
+   Original line: Hannah Mireles WCU Dance Team Coach wcudanceteam@wcu.edu
+
+20. Kerwin Bell
+   Email: WCUFootball@email.wcu.edu
+   Username: WCUFootball
+   Original line: Kerwin Bell Head Football Coach WCUFootball@email.wcu.edu (828) 227-
+
+21. Jerry Odom
+   Email: godom@email.wcu.edu
+   Username: godom
+   Original line: Jerry Odom Assistant Coach / Defensive Coordinator godom@email.wcu.edu (828) 227-
+
+22. Rylan Wells
+   Email: rwells@email.wcu.edu
+   Username: rwells
+   Original line: Rylan Wells Assistant Coach / Offensive Coordinator rwells@email.wcu.edu (828) 227-
+
+23. Kerry Webb
+   Email: kwebb@email.wcu.edu
+   Username: kwebb
+   Original line: Kerry Webb Assistant Coach / Special Teams Coordinator kwebb@email.wcu.edu (828) 227-
+
+24. Brian Cochran
+   Email: bcochran@email.wcu.edu
+   Username: bcochran
+   Original line: Brian Cochran Assistant Coach / Defensive Line bcochran@email.wcu.edu (828) 227-
+
+25. Kyle Dickey
+   Email: dickeyk@email.wcu.edu
+   Username: dickeyk
+   Original line: Kyle Dickey Assistant Coach / Tight Ends dickeyk@email.wcu.edu (828) 227-
+
+26. Malik Goodman
+   Email: mgoodman@email.wcu.edu
+   Username: mgoodman
+   Original line: Malik Goodman Assistant Coach / Safeties mgoodman@email.wcu.edu (828) 227-
+
+27. Ethan Harris
+   Email: harrise@email.wcu.edu
+   Username: harrise
+   Original line: Ethan Harris Assistant Coach / Cornerbacks harrise@email.wcu.edu
+
+28. Corey Headley
+   Email: cheadley@email.wcu.edu
+   Username: cheadley
+   Original line: Corey Headley Assistant Coach / Quarterbacks / Director of Player Personnel cheadley@email.wcu.edu (828) 227-
+
+29. Jeremy King
+   Email: jiking@email.wcu.edu
+   Username: jiking
+   Original line: Jeremy King Assistant Coach / Offensive Line jiking@email.wcu.edu (828) 227-
+
+30. Greg McGruder
+   Email: gmcgruderii@email.wcu.edu
+   Username: gmcgruderii
+   Original line: Greg McGruder Assistant Coach / Wide Receivers gmcgruderii@email.wcu.edu (828) 227-
+
+31. Rudi Small
+   Email: rsmalljr@email.wcu.edu
+   Username: rsmalljr
+   Original line: Rudi Small Assistant Coach / Running Backs / Recruiting Coordinator rsmalljr@email.wcu.edu (828) 227-
+
+32. Jeff Burger
+   Email: jburger@email.wcu.edu
+   Username: jburger
+   Original line: Jeff Burger Football Quality Control Coach - Offensive Line jburger@email.wcu.edu (828) 227-
+
+33. Evan Dvorchik
+   Email: edvorchik@email.wcu.edu
+   Username: edvorchik
+   Original line: Evan Dvorchik Football Quality Control Coach - Defense edvorchik@email.wcu.edu
+
+34. Parish Metzger
+   Email: pmmetzger1@catamount.wcu.edu
+   Username: pmmetzger1
+   Original line: Parish Metzger Football Quality Control Coach - Assistant QBs pmmetzger1@catamount.wcu.edu
+
+35. Paddy McGonigal
+   Email: pjmcgonigal1@catamount.wcu.edu
+   Username: pjmcgonigal1
+   Original line: Paddy McGonigal Football Quality Control Coach pjmcgonigal1@catamount.wcu.edu
+
+36. Tim Eckberg
+   Email: tjeckberg@email.wcu.edu
+   Username: tjeckberg
+   Original line: Tim Eckberg Head Men's Golf Coach tjeckberg@email.wcu.edu (828) 227-
+
+37. Anne Marie
+   Email: acovar@email.wcu.edu
+   Username: acovar
+   Original line: Anne Marie Covar Head Women's Golf Coach acovar@email.wcu.edu (828) 227-
+
+38. Chad Miller
+   Email: millerc@email.wcu.edu
+   Username: millerc
+   Original line: Chad Miller Head Women's Soccer Coach millerc@email.wcu.edu (828) 227-
+
+39. Andrew Green
+   Email: greena@wcu.edu
+   Username: greena
+   Original line: Andrew Green Assistant Women's Soccer Coach greena@wcu.edu (828) 227-
+
+40. Michael Mazarky
+   Email: mmazarky@email.wcu.edu
+   Username: mmazarky
+   Original line: Michael Mazarky Volunteer Assistant Coach mmazarky@email.wcu.edu
+
+41. Jim Clift
+   Email: jrclift@email.wcu.edu
+   Username: jrclift
+   Original line: Jim Clift Head Softball Coach jrclift@email.wcu.edu (828) 227-
+
+42. Madison Armstrong
+   Email: marmstrong@email.wcu.edu
+   Username: marmstrong
+   Original line: Madison Armstrong Associate Head Coach / Pitching Coach marmstrong@email.wcu.edu (828) 227-
+
+43. Jeralynn Wells
+   Email: jnwells3@catamount.wcu.edu
+   Username: jnwells3
+   Original line: Jeralynn Wells Assistant Softball Coach jnwells3@catamount.wcu.edu
+
+44. Bret Beaver
+   Email: beaverb@email.wcu.edu
+   Username: beaverb
+   Original line: Bret Beaver Head Women's Tennis Coach beaverb@email.wcu.edu (828) 227-
+
+45. Jesse Norman
+   Email: jnorman@email.wcu.edu
+   Username: jnorman
+   Original line: Jesse Norman Head Coach jnorman@email.wcu.edu (828) 227-
+
+46. Daniel Haakenson
+   Email: dhaakenson@email.wcu.edu
+   Username: dhaakenson
+   Original line: Daniel Haakenson Assistant Coach dhaakenson@email.wcu.edu (828) 227-
+
+47. Gillian Urycki
+   Email: gurycki@email.wcu.edu
+   Username: gurycki
+   Original line: Gillian Urycki Assistant Coach gurycki@email.wcu.edu (828) 227-
+
+48. Karen Glover
+   Email: volleyball@email.wcu.edu
+   Username: volleyball
+   Original line: Karen Glover Head Volleyball Coach volleyball@email.wcu.edu (828) 227-
+
+49. Paige Shaw
+   Email: volleyball@email.wcu.edu
+   Username: volleyball
+   Original line: Paige Shaw Assistant Volleyball Coach volleyball@email.wcu.edu (828) 227-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Cody Jones Assistant Sports Performance Coach jcjones@email.wcu.edu (828) 227-
+• John Williams Assistant Sports Performance Coach johnwilliams@email.wcu.edu (828) 227-
+• Jordan Madrid Assistant Sports Performance Coach jmadrid@email.wcu.edu
+• Alan Beck Head Baseball Coach acbeck@email.wcu.edu (828) 227-
+• Jeff Korte Assistant Coach / Recruiting Coordinator jkorte@email.wcu.edu (828) 227-
+• Dusty White Assistant Coach / Pitching Coach ddwhite@email.wcu.edu (828) 227-
+• Seth Graves Assistant Baseball Coach sgraves@email.wcu.edu (828) 227-
+• Gavin Mortenson Student Assistant Coach gsmortenson1@catamount.wcu.edu
+• Andre Gray Associate Head Men's Basketball Coach gray@email.wcu.edu (828) 227-
+• Andrew Brown Assistant Men's Basketball Coach / Recruiting Coordinator aebrown@email.wcu.edu (828) 227-
+• Adam Bullard Assistant Men's Basketball Coach abullard@email.wcu.edu (828) 227-
+• Jackson Simmons Assistant Men's Basketball Coach simmons@email.wcu.edu (828) 227-
+• Alison Seberger Associate Head Women's Basketball Coach aseberger@email.wcu.edu (828) 227-
+• Darius Barksdale Assistant Women's Basketball Coach dbarksdale@email.wcu.edu (828) 227-
+• Sydney Lowery Assistant Women's Basketball Coach slowery@email.wcu.edu (828) 227-
+• Claire Kaifes Assistant Women's Basketball Coach ckaifes@email.wcu.edu (828) 227-
+• Corbin Huntley Head Cheerleading Coach chuntley@email.wcu.edu (828) 227-
+• Jesse Norman Head Coach jnorman@email.wcu.edu (828) 227-
+• Hannah Mireles WCU Dance Team Coach wcudanceteam@wcu.edu
+• Kerwin Bell Head Football Coach WCUFootball@email.wcu.edu (828) 227-
+• Jerry Odom Assistant Coach / Defensive Coordinator godom@email.wcu.edu (828) 227-
+• Rylan Wells Assistant Coach / Offensive Coordinator rwells@email.wcu.edu (828) 227-
+• Kerry Webb Assistant Coach / Special Teams Coordinator kwebb@email.wcu.edu (828) 227-
+• Brian Cochran Assistant Coach / Defensive Line bcochran@email.wcu.edu (828) 227-
+• Kyle Dickey Assistant Coach / Tight Ends dickeyk@email.wcu.edu (828) 227-
+• Malik Goodman Assistant Coach / Safeties mgoodman@email.wcu.edu (828) 227-
+• Ethan Harris Assistant Coach / Cornerbacks harrise@email.wcu.edu
+• Corey Headley Assistant Coach / Quarterbacks / Director of Player Personnel cheadley@email.wcu.edu (828) 227-
+• Jeremy King Assistant Coach / Offensive Line jiking@email.wcu.edu (828) 227-
+• Greg McGruder Assistant Coach / Wide Receivers gmcgruderii@email.wcu.edu (828) 227-
+• Rudi Small Assistant Coach / Running Backs / Recruiting Coordinator rsmalljr@email.wcu.edu (828) 227-
+• Jeff Burger Football Quality Control Coach - Offensive Line jburger@email.wcu.edu (828) 227-
+• Evan Dvorchik Football Quality Control Coach - Defense edvorchik@email.wcu.edu
+• Parish Metzger Football Quality Control Coach - Assistant QBs pmmetzger1@catamount.wcu.edu
+• Paddy McGonigal Football Quality Control Coach pjmcgonigal1@catamount.wcu.edu
+• Tim Eckberg Head Men's Golf Coach tjeckberg@email.wcu.edu (828) 227-
+• Anne Marie Covar Head Women's Golf Coach acovar@email.wcu.edu (828) 227-
+• Chad Miller Head Women's Soccer Coach millerc@email.wcu.edu (828) 227-
+• Andrew Green Assistant Women's Soccer Coach greena@wcu.edu (828) 227-
+• Michael Mazarky Volunteer Assistant Coach mmazarky@email.wcu.edu
+• Jim Clift Head Softball Coach jrclift@email.wcu.edu (828) 227-
+• Madison Armstrong Associate Head Coach / Pitching Coach marmstrong@email.wcu.edu (828) 227-
+• Jeralynn Wells Assistant Softball Coach jnwells3@catamount.wcu.edu
+• Bret Beaver Head Women's Tennis Coach beaverb@email.wcu.edu (828) 227-
+• Jesse Norman Head Coach jnorman@email.wcu.edu (828) 227-
+• Daniel Haakenson Assistant Coach dhaakenson@email.wcu.edu (828) 227-
+• Gillian Urycki Assistant Coach gurycki@email.wcu.edu (828) 227-
+• Karen Glover Head Volleyball Coach volleyball@email.wcu.edu (828) 227-
+• Paige Shaw Assistant Volleyball Coach volleyball@email.wcu.edu (828) 227-

@@ -1,0 +1,179 @@
+COACH ENTRIES FOUND - 2025-09-27 05:46:01
+============================================================
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Megan Gutierrez,
+   Email: mgutierrez@dean.edu
+   Username: mgutierrez
+   Original line: Megan Gutierrez, M.Ed. Head Field Hockey Coach | Assistant Sports mgutierrez@dean.edu (508) 541-
+
+2. Mark Ledwich
+   Email: mledwich@dean.edu
+   Username: mledwich
+   Original line: Mark Ledwich Head Men's and Women's Volleyball Coach | mledwich@dean.edu (508) 541-
+
+3. Cy Butler,
+   Email: cbutler@dean.edu
+   Username: cbutler
+   Original line: Cy Butler, CSCS Head Strength & Conditioning Coach cbutler@dean.edu 508-541-
+
+4. Cy Butler,
+   Email: cbutler@dean.edu
+   Username: cbutler
+   Original line: Cy Butler, CSCS Head Strength & Conditioning Coach cbutler@dean.edu 508-541-
+
+5. Megan Dixon
+   Email: mdixon@dean.edu
+   Username: mdixon
+   Original line: Megan Dixon Head Women's Basketball Coach | Director of mdixon@dean.edu (508) 541-
+
+6. Allie Bezio
+   Email: Abezio@dean.edu
+   Username: Abezio
+   Original line: Allie Bezio '23 Head Women's Soccer Coach | SAAC Advisor Abezio@dean.edu (508) 541-
+
+7. Tyler Fitzgerald
+   Email: tfitzgerald@dean.edu
+   Username: tfitzgerald
+   Original line: Tyler Fitzgerald Head Baseball Coach tfitzgerald@dean.edu (508) 541-
+
+8. Erik Chipman
+   Email: echipman@dean.edu
+   Username: echipman
+   Original line: Erik Chipman Head Golf Coach | Associate Head Men's echipman@dean.edu (508) 541-
+
+9. Rico Cabral
+   Email: rcabral@dean.edu
+   Username: rcabral
+   Original line: Rico Cabral Volunteer Assistant Coach rcabral@dean.edu (508) 541-
+
+10. Jackson Garner
+   Email: jgarner@dean.edu
+   Username: jgarner
+   Original line: Jackson Garner Head Cross Country Coach | Men's Basketball jgarner@dean.edu (508) 541-
+
+11. Megan Dixon
+   Email: mdixon@dean.edu
+   Username: mdixon
+   Original line: Megan Dixon Head Women's Basketball Coach | Director of mdixon@dean.edu (508) 541-
+
+12. Jackson Garner
+   Email: jgarner@dean.edu
+   Username: jgarner
+   Original line: Jackson Garner Head Cross Country Coach | Men's Basketball jgarner@dean.edu (508) 541-
+
+13. Jackson Garner
+   Email: jgarner@dean.edu
+   Username: jgarner
+   Original line: Jackson Garner Head Cross Country Coach | Men's Basketball jgarner@dean.edu (508) 541-
+
+14. Megan Gutierrez,
+   Email: mgutierrez@dean.edu
+   Username: mgutierrez
+   Original line: Megan Gutierrez, M.Ed. Head Field Hockey Coach | Assistant Sports mgutierrez@dean.edu (508) 541-
+
+15. Erin Johnson
+   Email: ejohnson@dean.edu
+   Username: ejohnson
+   Original line: Erin Johnson Assistant Coach ejohnson@dean.edu (508) 541-
+
+16. Madison Gilbert
+   Email: mgilbert@dean.edu
+   Username: mgilbert
+   Original line: Madison Gilbert Assistant Coach mgilbert@dean.edu
+
+17. Luke Bakanowsky
+   Email: lbakanowsky@dean.edu
+   Username: lbakanowsky
+   Original line: Luke Bakanowsky Head Coach lbakanowsky@dean.edu (508) 541-
+
+18. Larry Mounds
+   Email: lmounds@dean.edu
+   Username: lmounds
+   Original line: Larry Mounds Assistant Coach | Offensive Line lmounds@dean.edu
+
+19. Noah Pearson
+   Email: npearson@dean.edu
+   Username: npearson
+   Original line: Noah Pearson Assistant Coach | Linebackers npearson@dean.edu
+
+20. Erik Chipman
+   Email: echipman@dean.edu
+   Username: echipman
+   Original line: Erik Chipman Head Golf Coach | Associate Head Men's echipman@dean.edu (508) 541-
+
+21. Aidan McCarthy
+   Email: amccarthy@dean.edu
+   Username: amccarthy
+   Original line: Aidan McCarthy Assistant Coach amccarthy@dean.edu 508 541
+
+22. Kaitlyn Daly
+   Email: kdaly@dean.edu
+   Username: kdaly
+   Original line: Kaitlyn Daly Head Women's Lacrosse Coach kdaly@dean.edu (508) 541-
+
+23. Warren Backman
+   Email: wbackman@dean.edu
+   Username: wbackman
+   Original line: Warren Backman Head Men's Soccer Coach wbackman@dean.edu (508) 541-
+
+24. Allie Bezio
+   Email: Abezio@dean.edu
+   Username: Abezio
+   Original line: Allie Bezio '23 Head Women's Soccer Coach | SAAC Advisor Abezio@dean.edu (508) 541-
+
+25. Jazlyn Estrella
+   Email: jestrella@dean.edu
+   Username: jestrella
+   Original line: Jazlyn Estrella Assistant Coach jestrella@dean.edu 5085411989
+
+26. Sara Fallon
+   Email: sfallon@dean.edu
+   Username: sfallon
+   Original line: Sara Fallon Head Softball Coach | NCAA Compliance sfallon@dean.edu (508) 541-
+
+27. Mark Ledwich
+   Email: mledwich@dean.edu
+   Username: mledwich
+   Original line: Mark Ledwich Head Men's and Women's Volleyball Coach | mledwich@dean.edu (508) 541-
+
+28. Mark Ledwich
+   Email: mledwich@dean.edu
+   Username: mledwich
+   Original line: Mark Ledwich Head Men's and Women's Volleyball Coach | mledwich@dean.edu (508) 541-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Megan Gutierrez, M.Ed. Head Field Hockey Coach | Assistant Sports mgutierrez@dean.edu (508) 541-
+• Mark Ledwich Head Men's and Women's Volleyball Coach | mledwich@dean.edu (508) 541-
+• Cy Butler, CSCS Head Strength & Conditioning Coach cbutler@dean.edu 508-541-
+• Cy Butler, CSCS Head Strength & Conditioning Coach cbutler@dean.edu 508-541-
+• Megan Dixon Head Women's Basketball Coach | Director of mdixon@dean.edu (508) 541-
+• Allie Bezio '23 Head Women's Soccer Coach | SAAC Advisor Abezio@dean.edu (508) 541-
+• Tyler Fitzgerald Head Baseball Coach tfitzgerald@dean.edu (508) 541-
+• Erik Chipman Head Golf Coach | Associate Head Men's echipman@dean.edu (508) 541-
+• Rico Cabral Volunteer Assistant Coach rcabral@dean.edu (508) 541-
+• Jackson Garner Head Cross Country Coach | Men's Basketball jgarner@dean.edu (508) 541-
+• Megan Dixon Head Women's Basketball Coach | Director of mdixon@dean.edu (508) 541-
+• Jackson Garner Head Cross Country Coach | Men's Basketball jgarner@dean.edu (508) 541-
+• Jackson Garner Head Cross Country Coach | Men's Basketball jgarner@dean.edu (508) 541-
+• Megan Gutierrez, M.Ed. Head Field Hockey Coach | Assistant Sports mgutierrez@dean.edu (508) 541-
+• Erin Johnson Assistant Coach ejohnson@dean.edu (508) 541-
+• Madison Gilbert Assistant Coach mgilbert@dean.edu
+• Luke Bakanowsky Head Coach lbakanowsky@dean.edu (508) 541-
+• Larry Mounds Assistant Coach | Offensive Line lmounds@dean.edu
+• Noah Pearson Assistant Coach | Linebackers npearson@dean.edu
+• Erik Chipman Head Golf Coach | Associate Head Men's echipman@dean.edu (508) 541-
+• Aidan McCarthy Assistant Coach amccarthy@dean.edu 508 541
+• Kaitlyn Daly Head Women's Lacrosse Coach kdaly@dean.edu (508) 541-
+• Warren Backman Head Men's Soccer Coach wbackman@dean.edu (508) 541-
+• Allie Bezio '23 Head Women's Soccer Coach | SAAC Advisor Abezio@dean.edu (508) 541-
+• Jazlyn Estrella Assistant Coach jestrella@dean.edu 5085411989
+• Sara Fallon Head Softball Coach | NCAA Compliance sfallon@dean.edu (508) 541-
+• Mark Ledwich Head Men's and Women's Volleyball Coach | mledwich@dean.edu (508) 541-
+• Mark Ledwich Head Men's and Women's Volleyball Coach | mledwich@dean.edu (508) 541-

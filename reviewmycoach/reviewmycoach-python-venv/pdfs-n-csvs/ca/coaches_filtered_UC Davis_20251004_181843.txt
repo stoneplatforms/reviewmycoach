@@ -1,0 +1,383 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:44
+============================================================
+
+Total coaches found: 62
+
+PARSED ENTRIES:
+----------------------------------------
+1. Vanessa Kitley
+   Email: vckitley@ucdavis.edu
+   Username: vckitley
+   Original line: Vanessa Kitley Head Coach, UC Davis Cheer vckitley@ucdavis.edu
+
+2. Chris Peterson
+   Email: cfpeterson@ucdavis.edu
+   Username: cfpeterson
+   Original line: Chris Peterson Assistant Sports Performance Coach cfpeterson@ucdavis.edu
+
+3. Brena Videll
+   Email: bmvidell@ucdavis.edu
+   Username: bmvidell
+   Original line: Brena Videll Assistant Sports Performance Coach bmvidell@ucdavis.edu
+
+4. Darren Caradine
+   Email: ddcaradine@ucdavis.edu
+   Username: ddcaradine
+   Original line: Darren Caradine Assistant Sports Performance Coach ddcaradine@ucdavis.edu
+
+5. Tommy Nicholson
+   Email: tnicholson@ucdavis.edu
+   Username: tnicholson
+   Original line: Tommy Nicholson Head Coach tnicholson@ucdavis.edu
+
+6. Andrew Ayers
+   Email: agayers@ucdavis.edu
+   Username: agayers
+   Original line: Andrew Ayers Assistant Coach agayers@ucdavis.edu
+
+7. Zack Thornton
+   Email: zjthornton@ucdavis.edu
+   Username: zjthornton
+   Original line: Zack Thornton Pitching Coach zjthornton@ucdavis.edu
+
+8. Sky Valenzuela
+   Email: srkvalenzuela@ucdavis.edu
+   Username: srkvalenzuela
+   Original line: Sky Valenzuela Assistant Coach srkvalenzuela@ucdavis.edu
+
+9. Jim Les
+   Email: aggiebasketball@ucdavis.edu
+   Username: aggiebasketball
+   Original line: Jim Les Head Coach aggiebasketball@ucdavis.edu
+
+10. Kevin Nosek
+   Email: knosek@ucdavis.edu
+   Username: knosek
+   Original line: Kevin Nosek Associate Head Coach (530) 752- knosek@ucdavis.edu
+
+11. Kyle Vogt
+   Email: ktvogt@ucdavis.edu
+   Username: ktvogt
+   Original line: Kyle Vogt Assistant Coach (530) 752- ktvogt@ucdavis.edu
+
+12. Jonathan Metzger-Jones
+   Email: jgmjones@ucdavis.edu
+   Username: jgmjones
+   Original line: Jonathan Metzger-Jones Assistant Coach (530) 752- jgmjones@ucdavis.edu
+
+13. Mike Kosich
+   Email: mkosich@ucdavis.edu
+   Username: mkosich
+   Original line: Mike Kosich Assistant Coach / Chief of Staff (530) 219- mkosich@ucdavis.edu
+
+14. Fortune Solomon
+   Email: fusolomon@ucdavis.edu
+   Username: fusolomon
+   Original line: Fortune Solomon Assistant Coach fusolomon@ucdavis.edu
+
+15. Jennifer Gross
+   Email: jrgross@ucdavis.edu
+   Username: jrgross
+   Original line: Jennifer Gross Head Coach (530) 979- jrgross@ucdavis.edu
+
+16. Joe Teramoto
+   Email: jteramoto@ucdavis.edu
+   Username: jteramoto
+   Original line: Joe Teramoto Associate Head Coach (530) 574- jteramoto@ucdavis.edu
+
+17. Matt Klemin
+   Email: mtklemin@ucdavis.edu
+   Username: mtklemin
+   Original line: Matt Klemin Assistant Coach (626) 513- mtklemin@ucdavis.edu
+
+18. Vicki Baugh
+   Email: vabaugh@ucdavis.edu
+   Username: vabaugh
+   Original line: Vicki Baugh Assistant Coach vabaugh@ucdavis.edu
+
+19. Mia Gallo
+   Email: mgallo@ucdavis.edu
+   Username: mgallo
+   Original line: Mia Gallo Assistant Coach/Director of Basketball Operations mgallo@ucdavis.edu
+
+20. Dejza James
+   Email: dujames@ucdavis.edu
+   Username: dujames
+   Original line: Dejza James Assistant Coach/Video Coordinator dujames@ucdavis.edu
+
+21. Ari Homayun
+   Email: ahomayun@ucdavis.edu
+   Username: ahomayun
+   Original line: Ari Homayun Head Coach ahomayun@ucdavis.edu
+
+22. Jill Humphrey
+   Email: jchhumphrey@ucdavis.edu
+   Username: jchhumphrey
+   Original line: Jill Humphrey Head Coach jchhumphrey@ucdavis.edu
+
+23. Kendal Scheiner
+   Email: kscheiner@ucdavis.edu
+   Username: kscheiner
+   Original line: Kendal Scheiner Assistant Coach for Reining kscheiner@ucdavis.edu
+
+24. Emily Maul
+   Email: emaul@ucavis.edu
+   Username: emaul
+   Original line: Emily Maul Assistant Coach for Horsemanship emaul@ucavis.edu
+
+25. Austin Pile
+   Email: aspile@ucdavis.edu
+   Username: aspile
+   Original line: Austin Pile Head Coach aspile@ucdavis.edu
+
+26. Rachel Stauffer
+   Email: rhstauffer@ucdavis.edu
+   Username: rhstauffer
+   Original line: Rachel Stauffer Assistant Coach rhstauffer@ucdavis.edu
+
+27. Izzy Porco
+   Email: ikporco@ucdavis.edu
+   Username: ikporco
+   Original line: Izzy Porco Assistant Coach ikporco@ucdavis.edu
+
+28. Cy Williams
+   Email: cywilliams@ucdavis.edu
+   Username: cywilliams
+   Original line: Cy Williams Head Coach cywilliams@ucdavis.edu
+
+29. Bill Montigel
+   Email: brmontigel@ucdavis.edu
+   Username: brmontigel
+   Original line: Bill Montigel Associate Head Coach brmontigel@ucdavis.edu
+
+30. Amelia Hicks-Beltran
+   Email: aehhicks@ucdavis.edu
+   Username: aehhicks
+   Original line: Amelia Hicks-Beltran Head Coach aehhicks@ucdavis.edu
+
+31. Kevin Estrella
+   Email: ksestrella@ucdavis.edu
+   Username: ksestrella
+   Original line: Kevin Estrella Assistant Coach ksestrella@ucdavis.edu
+
+32. Tanya Ho
+   Email: teho@ucdavis.edu
+   Username: teho
+   Original line: Tanya Ho Gomez Head Coach (530) 219- teho@ucdavis.edu
+
+33. David Seiler
+   Email: daseiler@ucdavis.edu
+   Username: daseiler
+   Original line: David Seiler Assistant Coach daseiler@ucdavis.edu
+
+34. Rebekah Hill
+   Email: rlhill@ucdavis.edu
+   Username: rlhill
+   Original line: Rebekah Hill Assistant Coach/Recruiting Coordinator rlhill@ucdavis.edu
+
+35. Athena Koehler
+   Email: arkoehler@ucdavis.edu
+   Username: arkoehler
+   Original line: Athena Koehler Assistant Coach arkoehler@ucdavis.edu
+
+36. Suzanne Isidor
+   Email: swisidor@ucdavis.edu
+   Username: swisidor
+   Original line: Suzanne Isidor Head Coach swisidor@ucdavis.edu
+
+37. Victoria Tucci
+   Email: vtucci@ucdavis.edu
+   Username: vtucci
+   Original line: Victoria Tucci Assistant Coach vtucci@ucdavis.edu
+
+38. Anna Belenis
+   Email: akbelenis@ucdavis.edu
+   Username: akbelenis
+   Original line: Anna Belenis Assistant Coach akbelenis@ucdavis.edu
+
+39. Dwayne Shaffer
+   Email: ucdavissoccer@ucdavis.edu
+   Username: ucdavissoccer
+   Original line: Dwayne Shaffer Head Coach (530) 752- ucdavissoccer@ucdavis.edu
+
+40. Jason Hotaling
+   Email: jmhotaling@ucdavis.edu
+   Username: jmhotaling
+   Original line: Jason Hotaling Associate Head Coach (530) 752- jmhotaling@ucdavis.edu
+
+41. Kat Mertz
+   Email: kmertz@ucdavis.edu
+   Username: kmertz
+   Original line: Kat Mertz Head Coach kmertz@ucdavis.edu
+
+42. Emilee Tominovich
+   Email: etominovich@ucdavis.edu
+   Username: etominovich
+   Original line: Emilee Tominovich Assistant Coach etominovich@ucdavis.edu
+
+43. Abbie Faingold
+   Email: afaingold@ucdavis.edu
+   Username: afaingold
+   Original line: Abbie Faingold Assistant Coach afaingold@ucdavis.edu
+
+44. Erin Thorpe
+   Email: softball@ucdavis.edu
+   Username: softball
+   Original line: Erin Thorpe Head Coach softball@ucdavis.edu
+
+45. Amy Klyse
+   Email: anklyse@ucdavis.edu
+   Username: anklyse
+   Original line: Amy Klyse Assistant Coach (530) 752- anklyse@ucdavis.edu
+
+46. Jake Lively
+   Email: jlively@ucdavis.edu
+   Username: jlively
+   Original line: Jake Lively Assistant Coach jlively@ucdavis.edu
+
+47. Matt Macedo
+   Email: mmacedo@ucdavis.edu
+   Username: mmacedo
+   Original line: Matt Macedo Head Coach mmacedo@ucdavis.edu
+
+48. Phil Tonne
+   Email: divecal@aol.com
+   Username: divecal
+   Original line: Phil Tonne Diving Coach (925) 876- divecal@aol.com
+
+49. Carl Weigley
+   Email: crweigley@ucdavis.edu
+   Username: crweigley
+   Original line: Carl Weigley Associate Head Coach crweigley@ucdavis.edu
+
+50. Laurel Abernethy
+   Email: labernethy@ucdavis.edu
+   Username: labernethy
+   Original line: Laurel Abernethy Assistant Diving Coach labernethy@ucdavis.edu
+
+51. Eric Steidlmayer
+   Email: esteidlm@ucdavis.edu
+   Username: esteidlm
+   Original line: Eric Steidlmayer Head Coach (530) 574- esteidlm@ucdavis.edu
+
+52. Sara Jackson
+   Email: slmorenc@ucdavis.edu
+   Username: slmorenc
+   Original line: Sara Jackson Head Coach slmorenc@ucdavis.edu
+
+53. Ngoni Makusha
+   Email: nemakusha@ucdavis.edu
+   Username: nemakusha
+   Original line: Ngoni Makusha Head Coach (530) 564- nemakusha@ucdavis.edu
+
+54. Brandon Hierholzer
+   Email: Bhierholzer@ucdavis.edu
+   Username: Bhierholzer
+   Original line: Brandon Hierholzer Assistant Coach (Multi Events) (530) 808- Bhierholzer@ucdavis.edu
+
+55. KP Padda
+   Email: kamsingh@ucdavis.edu
+   Username: kamsingh
+   Original line: KP Padda Assistant Coach (Throws) (530) 760- kamsingh@ucdavis.edu
+
+56. Dan Conners
+   Email: dconners@ucdavis.edu
+   Username: dconners
+   Original line: Dan Conners Head Coach (530) 601- dconners@ucdavis.edu
+
+57. Danielle (Dee)
+   Email: deedavis@ucdavis.edu
+   Username: deedavis
+   Original line: Danielle (Dee) Davis Assistant Coach 530-304- deedavis@ucdavis.edu
+
+58. Prima Glorioso
+   Email: pglorioso@ucdavis.edu
+   Username: pglorioso
+   Original line: Prima Glorioso Assistant Coach pglorioso@ucdavis.edu
+
+59. Lana Radakovic
+   Email: lkradakovic@ucdavis.edu
+   Username: lkradakovic
+   Original line: Lana Radakovic Assistant Coach lkradakovic@ucdavis.edu
+
+60. Nick Alden
+   Email: nalden@ucdavis.edu
+   Username: nalden
+   Original line: Nick Alden Assistant Coach nalden@ucdavis.edu
+
+61. Joey Frantz
+   Email: jhfrantz@ucdavis.edu
+   Username: jhfrantz
+   Original line: Joey Frantz Assistant Coach jhfrantz@ucdavis.edu
+
+62. Dakotah Sturla
+   Email: dlsturla@ucdavis.edu
+   Username: dlsturla
+   Original line: Dakotah Sturla Assistant Coach dlsturla@ucdavis.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Vanessa Kitley Head Coach, UC Davis Cheer vckitley@ucdavis.edu
+• Chris Peterson Assistant Sports Performance Coach cfpeterson@ucdavis.edu
+• Brena Videll Assistant Sports Performance Coach bmvidell@ucdavis.edu
+• Darren Caradine Assistant Sports Performance Coach ddcaradine@ucdavis.edu
+• Tommy Nicholson Head Coach tnicholson@ucdavis.edu
+• Andrew Ayers Assistant Coach agayers@ucdavis.edu
+• Zack Thornton Pitching Coach zjthornton@ucdavis.edu
+• Sky Valenzuela Assistant Coach srkvalenzuela@ucdavis.edu
+• Jim Les Head Coach aggiebasketball@ucdavis.edu
+• Kevin Nosek Associate Head Coach (530) 752- knosek@ucdavis.edu
+• Kyle Vogt Assistant Coach (530) 752- ktvogt@ucdavis.edu
+• Jonathan Metzger-Jones Assistant Coach (530) 752- jgmjones@ucdavis.edu
+• Mike Kosich Assistant Coach / Chief of Staff (530) 219- mkosich@ucdavis.edu
+• Fortune Solomon Assistant Coach fusolomon@ucdavis.edu
+• Jennifer Gross Head Coach (530) 979- jrgross@ucdavis.edu
+• Joe Teramoto Associate Head Coach (530) 574- jteramoto@ucdavis.edu
+• Matt Klemin Assistant Coach (626) 513- mtklemin@ucdavis.edu
+• Vicki Baugh Assistant Coach vabaugh@ucdavis.edu
+• Mia Gallo Assistant Coach/Director of Basketball Operations mgallo@ucdavis.edu
+• Dejza James Assistant Coach/Video Coordinator dujames@ucdavis.edu
+• Ari Homayun Head Coach ahomayun@ucdavis.edu
+• Jill Humphrey Head Coach jchhumphrey@ucdavis.edu
+• Kendal Scheiner Assistant Coach for Reining kscheiner@ucdavis.edu
+• Emily Maul Assistant Coach for Horsemanship emaul@ucavis.edu
+• Austin Pile Head Coach aspile@ucdavis.edu
+• Rachel Stauffer Assistant Coach rhstauffer@ucdavis.edu
+• Izzy Porco Assistant Coach ikporco@ucdavis.edu
+• Cy Williams Head Coach cywilliams@ucdavis.edu
+• Bill Montigel Associate Head Coach brmontigel@ucdavis.edu
+• Amelia Hicks-Beltran Head Coach aehhicks@ucdavis.edu
+• Kevin Estrella Assistant Coach ksestrella@ucdavis.edu
+• Tanya Ho Gomez Head Coach (530) 219- teho@ucdavis.edu
+• David Seiler Assistant Coach daseiler@ucdavis.edu
+• Rebekah Hill Assistant Coach/Recruiting Coordinator rlhill@ucdavis.edu
+• Athena Koehler Assistant Coach arkoehler@ucdavis.edu
+• Suzanne Isidor Head Coach swisidor@ucdavis.edu
+• Victoria Tucci Assistant Coach vtucci@ucdavis.edu
+• Anna Belenis Assistant Coach akbelenis@ucdavis.edu
+• Dwayne Shaffer Head Coach (530) 752- ucdavissoccer@ucdavis.edu
+• Jason Hotaling Associate Head Coach (530) 752- jmhotaling@ucdavis.edu
+• Kat Mertz Head Coach kmertz@ucdavis.edu
+• Emilee Tominovich Assistant Coach etominovich@ucdavis.edu
+• Abbie Faingold Assistant Coach afaingold@ucdavis.edu
+• Erin Thorpe Head Coach softball@ucdavis.edu
+• Amy Klyse Assistant Coach (530) 752- anklyse@ucdavis.edu
+• Jake Lively Assistant Coach jlively@ucdavis.edu
+• Matt Macedo Head Coach mmacedo@ucdavis.edu
+• Phil Tonne Diving Coach (925) 876- divecal@aol.com
+• Carl Weigley Associate Head Coach crweigley@ucdavis.edu
+• Laurel Abernethy Assistant Diving Coach labernethy@ucdavis.edu
+• Eric Steidlmayer Head Coach (530) 574- esteidlm@ucdavis.edu
+• Sara Jackson Head Coach slmorenc@ucdavis.edu
+• Ngoni Makusha Head Coach (530) 564- nemakusha@ucdavis.edu
+• Brandon Hierholzer Assistant Coach (Multi Events) (530) 808- Bhierholzer@ucdavis.edu
+• KP Padda Assistant Coach (Throws) (530) 760- kamsingh@ucdavis.edu
+• Dan Conners Head Coach (530) 601- dconners@ucdavis.edu
+• Danielle (Dee) Davis Assistant Coach 530-304- deedavis@ucdavis.edu
+• Prima Glorioso Assistant Coach pglorioso@ucdavis.edu
+• Lana Radakovic Assistant Coach lkradakovic@ucdavis.edu
+• Nick Alden Assistant Coach nalden@ucdavis.edu
+• Joey Frantz Assistant Coach jhfrantz@ucdavis.edu
+• Dakotah Sturla Assistant Coach dlsturla@ucdavis.edu

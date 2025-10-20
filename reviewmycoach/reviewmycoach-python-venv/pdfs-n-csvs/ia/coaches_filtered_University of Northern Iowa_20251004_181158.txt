@@ -1,0 +1,191 @@
+COACH ENTRIES FOUND - 2025-10-04 18:12:00
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Strength &
+   Email: rachel.ronan@uni.edu
+   Username: rachel.ronan
+   Original line: Strength & Conditioning Coach rachel.ronan@uni.edu
+
+2. Head Coach
+   Email: ben.jacobson@uni.edu
+   Username: ben.jacobson
+   Original line: Head Coach ben.jacobson@uni.edu
+
+3. Associate Head
+   Email: pj.hogan@uni.edu
+   Username: pj.hogan
+   Original line: Associate Head Coach pj.hogan@uni.edu
+
+4. Assistant Coach
+   Email: seth.tuttle@uni.edu
+   Username: seth.tuttle
+   Original line: Assistant Coach seth.tuttle@uni.edu
+
+5. Assistant Coach
+   Email: gameli.k.ahelegbe@uni.edu
+   Username: gameli.k.ahelegbe
+   Original line: Assistant Coach gameli.k.ahelegbe@uni.edu
+
+6. Head Coach
+   Email: tanya.warren@uni.edu
+   Username: tanya.warren
+   Original line: Head Coach tanya.warren@uni.edu
+
+7. Associate Head
+   Email: brad.nelson@uni.edu
+   Username: brad.nelson
+   Original line: Associate Head Coach brad.nelson@uni.edu
+
+8. Assistant Coach
+   Email: katelin.vandevender@uni.edu
+   Username: katelin.vandevender
+   Original line: Assistant Coach katelin.vandevender@uni.edu
+
+9. Assistant Coach
+   Email: nathan.oakland@uni.edu
+   Username: nathan.oakland
+   Original line: Assistant Coach nathan.oakland@uni.edu
+
+10. Head Cross
+   Email: alexinaw@uni.edu
+   Username: alexinaw
+   Original line: Head Cross Country Coach / Assistant Track & Field Coach alexinaw@uni.edu
+
+11. Head Coach
+   Email: todd.stepsis@uni.edu
+   Username: todd.stepsis
+   Original line: Head Coach todd.stepsis@uni.edu
+
+12. Head Coach
+   Email: john.bermel@uni.edu
+   Username: john.bermel
+   Original line: Head Coach john.bermel@uni.edu
+
+13. Interim Head
+   Email: alex.placethomas@uni.edu
+   Username: alex.placethomas
+   Original line: Interim Head Coach alex.placethomas@uni.edu
+
+14. Assistant Coach
+   Email: derek.krebsbach@uni.edu
+   Username: derek.krebsbach
+   Original line: Assistant Coach derek.krebsbach@uni.edu
+
+15. Strength &
+   Email: rachel.ronan@uni.edu
+   Username: rachel.ronan
+   Original line: Strength & Conditioning Coach rachel.ronan@uni.edu
+
+16. Head Coach
+   Email: ryan.jacobs@uni.edu
+   Username: ryan.jacobs
+   Original line: Head Coach ryan.jacobs@uni.edu
+
+17. Assistant Coach
+   Email: monica.wright@uni.edu
+   Username: monica.wright
+   Original line: Assistant Coach monica.wright@uni.edu
+
+18. Strength &
+   Email: rachel.ronan@uni.edu
+   Username: rachel.ronan
+   Original line: Strength & Conditioning Coach rachel.ronan@uni.edu
+
+19. Head Coach
+   Email: nicholas.lakin@uni.edu
+   Username: nicholas.lakin
+   Original line: Head Coach nicholas.lakin@uni.edu
+
+20. Dive Coach
+   Email: bethany.hovland@uni.edu
+   Username: bethany.hovland
+   Original line: Dive Coach bethany.hovland@uni.edu
+
+21. Assistant Coach
+   Email: benjamin.colin@uni.edu
+   Username: benjamin.colin
+   Original line: Assistant Coach benjamin.colin@uni.edu
+
+22. Head Coach
+   Email: chris.sagers@uni.edu
+   Username: chris.sagers
+   Original line: Head Coach chris.sagers@uni.edu
+
+23. Head Cross
+   Email: alexinaw@uni.edu
+   Username: alexinaw
+   Original line: Head Cross Country Coach / Assistant Track & Field Coach alexinaw@uni.edu
+
+24. Assistant Coach
+   Email: jeffrey.coover@uni.edu
+   Username: jeffrey.coover
+   Original line: Assistant Coach - Jumps jeffrey.coover@uni.edu
+
+25. Assistant Coach
+   Email: daniel.omara@uni.edu
+   Username: daniel.omara
+   Original line: Assistant Coach - Throws daniel.omara@uni.edu
+
+26. Head Coach
+   Email: bobbi.petersen@uni.edu
+   Username: bobbi.petersen
+   Original line: Head Coach bobbi.petersen@uni.edu
+
+27. Assistant Coach
+   Email: kim.davis@uni.edu
+   Username: kim.davis
+   Original line: Assistant Coach kim.davis@uni.edu
+
+28. Assistant Coach
+   Email: jason.allen@uni.edu
+   Username: jason.allen
+   Original line: Assistant Coach jason.allen@uni.edu
+
+29. Head Coach
+   Email: doug.schwab@uni.edu
+   Username: doug.schwab
+   Original line: Head Coach doug.schwab@uni.edu
+
+30. Assistant Coach
+   Email: randy.pugh@uni.edu
+   Username: randy.pugh
+   Original line: Assistant Coach randy.pugh@uni.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Strength & Conditioning Coach rachel.ronan@uni.edu
+• Head Coach ben.jacobson@uni.edu
+• Associate Head Coach pj.hogan@uni.edu
+• Assistant Coach seth.tuttle@uni.edu
+• Assistant Coach gameli.k.ahelegbe@uni.edu
+• Head Coach tanya.warren@uni.edu
+• Associate Head Coach brad.nelson@uni.edu
+• Assistant Coach katelin.vandevender@uni.edu
+• Assistant Coach nathan.oakland@uni.edu
+• Head Cross Country Coach / Assistant Track & Field Coach alexinaw@uni.edu
+• Head Coach todd.stepsis@uni.edu
+• Head Coach john.bermel@uni.edu
+• Interim Head Coach alex.placethomas@uni.edu
+• Assistant Coach derek.krebsbach@uni.edu
+• Strength & Conditioning Coach rachel.ronan@uni.edu
+• Head Coach ryan.jacobs@uni.edu
+• Assistant Coach monica.wright@uni.edu
+• Strength & Conditioning Coach rachel.ronan@uni.edu
+• Head Coach nicholas.lakin@uni.edu
+• Dive Coach bethany.hovland@uni.edu
+• Assistant Coach benjamin.colin@uni.edu
+• Head Coach chris.sagers@uni.edu
+• Head Cross Country Coach / Assistant Track & Field Coach alexinaw@uni.edu
+• Assistant Coach - Jumps jeffrey.coover@uni.edu
+• Assistant Coach - Throws daniel.omara@uni.edu
+• Head Coach bobbi.petersen@uni.edu
+• Assistant Coach kim.davis@uni.edu
+• Assistant Coach jason.allen@uni.edu
+• Head Coach doug.schwab@uni.edu
+• Assistant Coach randy.pugh@uni.edu

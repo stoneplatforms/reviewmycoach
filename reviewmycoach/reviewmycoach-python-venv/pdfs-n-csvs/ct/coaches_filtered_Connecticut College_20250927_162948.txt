@@ -1,0 +1,323 @@
+COACH ENTRIES FOUND - 2025-09-27 16:29:48
+============================================================
+
+Total coaches found: 52
+
+PARSED ENTRIES:
+----------------------------------------
+1. STRENGTH & CONDITIONING
+   Email: jpirla@conncoll.edu
+   Username: jpirla
+   Original line: John Pirla Associate Strength & Conditioning Coach/Fitness Center Manager jpirla@conncoll.edu
+
+2. STRENGTH & CONDITIONING
+   Email: lmitchell@conncoll.edu
+   Username: lmitchell
+   Original line: Lea Mitchell Assistant Strength & Conditioning Coach/Fitness Center Coordinator (860) 439- lmitchell@conncoll.edu
+
+3. NAME TITLE PHONE E-MAIL
+   Email: tsweeney@conncoll.edu
+   Username: tsweeney
+   Original line: Tim Sweeney Head Men's Basketball Coach (860) 439- tsweeney@conncoll.edu
+
+4. Patrick Mahoney Assistant Men's Basketball Coach (518) 605-
+   Email: pmahoney@conncoll.edu
+   Username: pmahoney
+   Original line: Patrick Mahoney Assistant Men's Basketball Coach (518) 605- pmahoney@conncoll.edu
+
+5. WOMEN'S BASKETBALL
+   Email: bzanardi@conncoll.edu
+   Username: bzanardi
+   Original line: Brett Zanardi Interim Head Women's Basketball Coach (860) 439- bzanardi@conncoll.edu
+
+6. Wade McNamara Assistant Women's Basketball Coach
+   Email: wmcnamara@conncoll.edu
+   Username: wmcnamara
+   Original line: Wade McNamara Assistant Women's Basketball Coach wmcnamara@conncoll.edu
+
+7. MEN'S CROSS COUNTRY
+   Email: salexande@conncoll.edu
+   Username: salexande
+   Original line: Sam Alexander Head Men's Cross Country/Track & Field Coach (860) 439- salexande@conncoll.edu
+
+8. Andrew Rose Assistant Cross Country/Track & Field Coach (Sprints & Hurdles)
+   Email: arose3@conncoll.edu
+   Username: arose3
+   Original line: Andrew Rose Assistant Cross Country/Track & Field Coach (Sprints & Hurdles) arose3@conncoll.edu
+
+9. WOMEN'S CROSS COUNTRY
+   Email: nbis@conncoll.edu
+   Username: nbis
+   Original line: Ned Bishop Head Women's Cross Country Coach (860) 439- nbis@conncoll.edu
+
+10. Kiah Strickland Assistant Cross Country/Track & Field Coach (Jumps & Multis)
+   Email: kstrickla@conncoll.edu
+   Username: kstrickla
+   Original line: Kiah Strickland Assistant Cross Country/Track & Field Coach (Jumps & Multis) kstrickla@conncoll.edu
+
+11. FIELD HOCKEY
+   Email: rvanderv@conncoll.edu
+   Username: rvanderv
+   Original line: Ryley van der Velde Head Field Hockey Coach (860) 439- rvanderv@conncoll.edu
+
+12. Emily Moniz Assistant Field Hockey Coach
+   Email: emoniz@conncoll.edu
+   Username: emoniz
+   Original line: Emily Moniz Assistant Field Hockey Coach emoniz@conncoll.edu
+
+13. MEN'S ICE HOCKEY
+   Email: jbwar2@conncoll.edu
+   Username: jbwar2
+   Original line: Jim Ward Head Men's Ice Hockey Coach (860) 439- jbwar2@conncoll.edu
+
+14. WOMEN'S ICE HOCKEY
+   Email: kaste@conncoll.edu
+   Username: kaste
+   Original line: Kristin Steele Head Women's Ice Hockey Coach (860) 439- kaste@conncoll.edu
+
+15. Hanna Rose Assistant Women's Ice Hockey Coach
+   Email: hrose@conncoll.edu
+   Username: hrose
+   Original line: Hanna Rose Assistant Women's Ice Hockey Coach hrose@conncoll.edu
+
+16. MEN'S LACROSSE
+   Email: jnagle@conncoll.edu
+   Username: jnagle
+   Original line: Jim Nagle Head Men's Lacrosse Coach (860) 439- jnagle@conncoll.edu
+
+17. Connor Grippe Assistant Men's Lacrosse Coach (631) 740-
+   Email: cgrippe@conncoll.edu
+   Username: cgrippe
+   Original line: Connor Grippe Assistant Men's Lacrosse Coach (631) 740- cgrippe@conncoll.edu
+
+18. WOMEN'S LACROSSE
+   Email: wlax@conncoll.edu
+   Username: wlax
+   Original line: Lisa Vogeley Head Women's Lacrosse Coach (860) 439- wlax@conncoll.edu
+
+19. Kaylee Drobish Assistant Women's Lacrosse Coach
+   Email: wlax@conncoll.edu
+   Username: wlax
+   Original line: Kaylee Drobish Assistant Women's Lacrosse Coach wlax@conncoll.edu
+
+20. MEN'S ROWING
+   Email: cnoone@conncoll.edu
+   Username: cnoone
+   Original line: Cian Noone Head Men's Rowing Coach (860) 439- cnoone@conncoll.edu
+
+21. Charlie Berman Assistant Men's Rowing Coach
+   Email: cberman1@conncoll.edu
+   Username: cberman1
+   Original line: Charlie Berman Assistant Men's Rowing Coach cberman1@conncoll.edu
+
+22. WOMEN'S ROWING
+   Email: edkov@conncoll.edu
+   Username: edkov
+   Original line: Eva Kovach Head Women's Rowing Coach (860) 439- edkov@conncoll.edu
+
+23. Daphne Michie '21 Assistant Women's Rowing Coach
+   Email: dmichie@conncoll.edu
+   Username: dmichie
+   Original line: Daphne Michie '21 Assistant Women's Rowing Coach dmichie@conncoll.edu
+
+24. Jeff Bresnahan Head Sailing Coach (860) 439-
+   Email: jcbre@conncoll.edu
+   Username: jcbre
+   Original line: Jeff Bresnahan Head Sailing Coach (860) 439- jcbre@conncoll.edu
+
+25. Harris Padegs Visiting Sailing Head Coach
+   Email: hpadegs@conncoll.edu
+   Username: hpadegs
+   Original line: Harris Padegs Visiting Sailing Head Coach hpadegs@conncoll.edu
+
+26. Charlie Anderson Sailing Assistant Coach
+   Email: canderson@conncoll.edu
+   Username: canderson
+   Original line: Charlie Anderson Sailing Assistant Coach canderson@conncoll.edu
+
+27. MEN'S SOCCER
+   Email: rburk@conncoll.edu
+   Username: rburk
+   Original line: Reuben Burk Head Men's Soccer Coach (860) 439- rburk@conncoll.edu
+
+28. Andrew Storton Associate Men's Soccer Coach (860) 574-
+   Email: astorton@conncoll.edu
+   Username: astorton
+   Original line: Andrew Storton Associate Men's Soccer Coach (860) 574- astorton@conncoll.edu
+
+29. WOMEN'S SOCCER
+   Email: nriker@conncoll.edu
+   Username: nriker
+   Original line: Norm Riker Head Women's Soccer Coach (860) 439- nriker@conncoll.edu
+
+30. Mia Hernandez Assistant Women's Soccer Coach (860) 501-
+   Email: msantana@conncoll.edu
+   Username: msantana
+   Original line: Mia Hernandez Assistant Women's Soccer Coach (860) 501- msantana@conncoll.edu
+
+31. MEN'S SQUASH
+   Email: tlasusa@conncoll.edu
+   Username: tlasusa
+   Original line: Tim Lasusa Head Men's & Women's Squash Coach (860) 439- tlasusa@conncoll.edu
+
+32. WOMEN'S SQUASH
+   Email: tlasusa@conncoll.edu
+   Username: tlasusa
+   Original line: Tim Lasusa Head Men's & Women's Squash Coach (860) 439- tlasusa@conncoll.edu
+
+33. MEN'S SWIMMING AND DIVING
+   Email: mdben2@conncoll.edu
+   Username: mdben2
+   Original line: Marc Benvenuti Head Men's Swimming Coach (860) 439- mdben2@conncoll.edu
+
+34. Finn Conaway Assistant Men's Swimming Coach
+   Email: fconaway@conncoll.edu
+   Username: fconaway
+   Original line: Finn Conaway Assistant Men's Swimming Coach fconaway@conncoll.edu
+
+35. WOMEN'S SWIMMING AND DIVING
+   Email: ksteel@conncoll.edu
+   Username: ksteel
+   Original line: Kevin Steel Head Women's Swimming & Diving Coach (860) 439- ksteel@conncoll.edu
+
+36. MEN'S TENNIS
+   Email: jklaeson@conncoll.edu
+   Username: jklaeson
+   Original line: Jakob Klaeson Head Men's and Women's Tennis Coach (860) 439- jklaeson@conncoll.edu
+
+37. Cam Chadwick Assistant Men's and Women's Tennis Coach
+   Email: cchadwick@conncoll.edu
+   Username: cchadwick
+   Original line: Cam Chadwick Assistant Men's and Women's Tennis Coach cchadwick@conncoll.edu
+
+38. WOMEN'S TENNIS
+   Email: jklaeson@conncoll.edu
+   Username: jklaeson
+   Original line: Jakob Klaeson Head Men's and Women's Tennis Coach (860) 439- jklaeson@conncoll.edu
+
+39. NAME TITLE PHONE E-MAIL
+   Email: cchadwick@conncoll.edu
+   Username: cchadwick
+   Original line: Cam Chadwick Assistant Men's and Women's Tennis Coach cchadwick@conncoll.edu
+
+40. MEN'S TRACK AND FIELD
+   Email: salexande@conncoll.edu
+   Username: salexande
+   Original line: Sam Alexander Head Men's Cross Country/Track & Field Coach (860) 439- salexande@conncoll.edu
+
+41. Andrew Rose Assistant Cross Country/Track & Field Coach (Sprints & Hurdles)
+   Email: arose3@conncoll.edu
+   Username: arose3
+   Original line: Andrew Rose Assistant Cross Country/Track & Field Coach (Sprints & Hurdles) arose3@conncoll.edu
+
+42. Kiah Strickland Assistant Cross Country/Track & Field Coach (Jumps & Multis)
+   Email: kstrickla@conncoll.edu
+   Username: kstrickla
+   Original line: Kiah Strickland Assistant Cross Country/Track & Field Coach (Jumps & Multis) kstrickla@conncoll.edu
+
+43. WOMEN'S TRACK AND FIELD
+   Email: nbis@conncoll.edu
+   Username: nbis
+   Original line: Ned Bishop Head Women's Track & Field Coach (Women's Middle Distance & Long (860) 439- nbis@conncoll.edu
+
+44. Kiah Strickland Assistant Cross Country/Track & Field Coach (Jumps & Multis)
+   Email: kstrickla@conncoll.edu
+   Username: kstrickla
+   Original line: Kiah Strickland Assistant Cross Country/Track & Field Coach (Jumps & Multis) kstrickla@conncoll.edu
+
+45. Andrew Rose Assistant Cross Country/Track & Field Coach (Sprints & Hurdles)
+   Email: arose3@conncoll.edu
+   Username: arose3
+   Original line: Andrew Rose Assistant Cross Country/Track & Field Coach (Sprints & Hurdles) arose3@conncoll.edu
+
+46. WOMEN'S VOLLEYBALL
+   Email: jaedm@conncoll.edu
+   Username: jaedm
+   Original line: Josh Edmed Head Women's Volleyball Coach (860) 439- jaedm@conncoll.edu
+
+47. Mathilde Verbitsky Assistant Women's Volleyball Coach
+   Email: mverbitsk@conncoll.edu
+   Username: mverbitsk
+   Original line: Mathilde Verbitsky Assistant Women's Volleyball Coach mverbitsk@conncoll.edu
+
+48. Leanne Sakowicz Assistant Women's Volleyball Coach
+   Email: lsakowicz@conncoll.edu
+   Username: lsakowicz
+   Original line: Leanne Sakowicz Assistant Women's Volleyball Coach lsakowicz@conncoll.edu
+
+49. MEN'S WATER POLO
+   Email: Manders8@conncoll.edu
+   Username: Manders8
+   Original line: Matt Anderson Head Men's & Women's Water Polo Coach (860) 439- Manders8@conncoll.edu
+
+50. Katie Tijerina Assistant Men's and Women's Water Polo Coach (626) 345-
+   Email: ktijerina@conncoll.edu
+   Username: ktijerina
+   Original line: Katie Tijerina Assistant Men's and Women's Water Polo Coach (626) 345- ktijerina@conncoll.edu
+
+51. WOMEN'S WATER POLO
+   Email: Manders8@conncoll.edu
+   Username: Manders8
+   Original line: Matt Anderson Head Men's & Women's Water Polo Coach (860) 439- Manders8@conncoll.edu
+
+52. Katie Tijerina Assistant Men's and Women's Water Polo Coach (626) 345-
+   Email: ktijerina@conncoll.edu
+   Username: ktijerina
+   Original line: Katie Tijerina Assistant Men's and Women's Water Polo Coach (626) 345- ktijerina@conncoll.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• John Pirla Associate Strength & Conditioning Coach/Fitness Center Manager jpirla@conncoll.edu
+• Lea Mitchell Assistant Strength & Conditioning Coach/Fitness Center Coordinator (860) 439- lmitchell@conncoll.edu
+• Tim Sweeney Head Men's Basketball Coach (860) 439- tsweeney@conncoll.edu
+• Patrick Mahoney Assistant Men's Basketball Coach (518) 605- pmahoney@conncoll.edu
+• Brett Zanardi Interim Head Women's Basketball Coach (860) 439- bzanardi@conncoll.edu
+• Wade McNamara Assistant Women's Basketball Coach wmcnamara@conncoll.edu
+• Sam Alexander Head Men's Cross Country/Track & Field Coach (860) 439- salexande@conncoll.edu
+• Andrew Rose Assistant Cross Country/Track & Field Coach (Sprints & Hurdles) arose3@conncoll.edu
+• Ned Bishop Head Women's Cross Country Coach (860) 439- nbis@conncoll.edu
+• Kiah Strickland Assistant Cross Country/Track & Field Coach (Jumps & Multis) kstrickla@conncoll.edu
+• Ryley van der Velde Head Field Hockey Coach (860) 439- rvanderv@conncoll.edu
+• Emily Moniz Assistant Field Hockey Coach emoniz@conncoll.edu
+• Jim Ward Head Men's Ice Hockey Coach (860) 439- jbwar2@conncoll.edu
+• Kristin Steele Head Women's Ice Hockey Coach (860) 439- kaste@conncoll.edu
+• Hanna Rose Assistant Women's Ice Hockey Coach hrose@conncoll.edu
+• Jim Nagle Head Men's Lacrosse Coach (860) 439- jnagle@conncoll.edu
+• Connor Grippe Assistant Men's Lacrosse Coach (631) 740- cgrippe@conncoll.edu
+• Lisa Vogeley Head Women's Lacrosse Coach (860) 439- wlax@conncoll.edu
+• Kaylee Drobish Assistant Women's Lacrosse Coach wlax@conncoll.edu
+• Cian Noone Head Men's Rowing Coach (860) 439- cnoone@conncoll.edu
+• Charlie Berman Assistant Men's Rowing Coach cberman1@conncoll.edu
+• Eva Kovach Head Women's Rowing Coach (860) 439- edkov@conncoll.edu
+• Daphne Michie '21 Assistant Women's Rowing Coach dmichie@conncoll.edu
+• Jeff Bresnahan Head Sailing Coach (860) 439- jcbre@conncoll.edu
+• Harris Padegs Visiting Sailing Head Coach hpadegs@conncoll.edu
+• Charlie Anderson Sailing Assistant Coach canderson@conncoll.edu
+• Reuben Burk Head Men's Soccer Coach (860) 439- rburk@conncoll.edu
+• Andrew Storton Associate Men's Soccer Coach (860) 574- astorton@conncoll.edu
+• Norm Riker Head Women's Soccer Coach (860) 439- nriker@conncoll.edu
+• Mia Hernandez Assistant Women's Soccer Coach (860) 501- msantana@conncoll.edu
+• Tim Lasusa Head Men's & Women's Squash Coach (860) 439- tlasusa@conncoll.edu
+• Tim Lasusa Head Men's & Women's Squash Coach (860) 439- tlasusa@conncoll.edu
+• Marc Benvenuti Head Men's Swimming Coach (860) 439- mdben2@conncoll.edu
+• Finn Conaway Assistant Men's Swimming Coach fconaway@conncoll.edu
+• Kevin Steel Head Women's Swimming & Diving Coach (860) 439- ksteel@conncoll.edu
+• Jakob Klaeson Head Men's and Women's Tennis Coach (860) 439- jklaeson@conncoll.edu
+• Cam Chadwick Assistant Men's and Women's Tennis Coach cchadwick@conncoll.edu
+• Jakob Klaeson Head Men's and Women's Tennis Coach (860) 439- jklaeson@conncoll.edu
+• Cam Chadwick Assistant Men's and Women's Tennis Coach cchadwick@conncoll.edu
+• Sam Alexander Head Men's Cross Country/Track & Field Coach (860) 439- salexande@conncoll.edu
+• Andrew Rose Assistant Cross Country/Track & Field Coach (Sprints & Hurdles) arose3@conncoll.edu
+• Kiah Strickland Assistant Cross Country/Track & Field Coach (Jumps & Multis) kstrickla@conncoll.edu
+• Ned Bishop Head Women's Track & Field Coach (Women's Middle Distance & Long (860) 439- nbis@conncoll.edu
+• Kiah Strickland Assistant Cross Country/Track & Field Coach (Jumps & Multis) kstrickla@conncoll.edu
+• Andrew Rose Assistant Cross Country/Track & Field Coach (Sprints & Hurdles) arose3@conncoll.edu
+• Josh Edmed Head Women's Volleyball Coach (860) 439- jaedm@conncoll.edu
+• Mathilde Verbitsky Assistant Women's Volleyball Coach mverbitsk@conncoll.edu
+• Leanne Sakowicz Assistant Women's Volleyball Coach lsakowicz@conncoll.edu
+• Matt Anderson Head Men's & Women's Water Polo Coach (860) 439- Manders8@conncoll.edu
+• Katie Tijerina Assistant Men's and Women's Water Polo Coach (626) 345- ktijerina@conncoll.edu
+• Matt Anderson Head Men's & Women's Water Polo Coach (860) 439- Manders8@conncoll.edu
+• Katie Tijerina Assistant Men's and Women's Water Polo Coach (626) 345- ktijerina@conncoll.edu

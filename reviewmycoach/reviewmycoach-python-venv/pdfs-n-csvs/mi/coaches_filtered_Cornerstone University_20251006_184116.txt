@@ -1,0 +1,233 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:16
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Phil Keith
+   Email: phil.keith@cornerstone.edu
+   Username: phil.keith
+   Original line: Phil Keith Athletic Trainer / Strength Coach phil.keith@cornerstone.edu 616-977-
+
+2. Jason Schalk
+   Email: jason.schalk@cornerstone.edu
+   Username: jason.schalk
+   Original line: Jason Schalk Associate Head Coach of Cross Country and jason.schalk@cornerstone.edu 616-222- coachschalk_CU
+
+3. Chuck Lowitzki
+   Email: chuck.lowitzki@cornerstone.edu
+   Username: chuck.lowitzki
+   Original line: Chuck Lowitzki Head Coach chuck.lowitzki@cornerstone.edu 616-977- ChuckLowitzki
+
+4. James Sackett
+   Email: james.sackett@cornerstone.edu
+   Username: james.sackett
+   Original line: James Sackett Assistant Coach james.sackett@cornerstone.edu
+
+5. Cade Kontny
+   Email: cade.kontny@cornerstone.edu
+   Username: cade.kontny
+   Original line: Cade Kontny Assistant Coach cade.kontny@cornerstone.edu
+
+6. Kim Elders
+   Email: kim.elders@cornerstone.edu
+   Username: kim.elders
+   Original line: Kim Elders Head Coach kim.elders@cornerstone.edu 616-977-
+
+7. Kyle Steigenga
+   Email: kyle.steigenga@cornerstone.edu
+   Username: kyle.steigenga
+   Original line: Kyle Steigenga Associate Head Coach kyle.steigenga@cornerstone.edu
+
+8. Travis Wells
+   Email: travis.wells@cornerstone.edu
+   Username: travis.wells
+   Original line: Travis Wells JV Coach travis.wells@cornerstone.edu 616-977-
+
+9. Jessica Yonkers
+   Email: jessica.yonkers@cornerstone.edu
+   Username: jessica.yonkers
+   Original line: Jessica Yonkers Head Coach jessica.yonkers@cornerstone.edu 616-977- cornerstonewbb
+
+10. Ashley Xiong
+   Email: ashley.xiong@cornerstone.edu
+   Username: ashley.xiong
+   Original line: Ashley Xiong Assistant Coach ashley.xiong@cornerstone.edu 616-977-
+
+11. Matt Wallace
+   Email: matt.wallace@cornerstone.edu
+   Username: matt.wallace
+   Original line: Matt Wallace Assistant Coach matt.wallace@cornerstone.edu 616-977-
+
+12. Cindy Philip
+   Email: cynthia.philip@cornerstone.edu
+   Username: cynthia.philip
+   Original line: Cindy Philip Head Coach cynthia.philip@cornerstone.edu
+
+13. Jason Schalk
+   Email: jason.schalk@cornerstone.edu
+   Username: jason.schalk
+   Original line: Jason Schalk Associate Head Coach of Cross Country and jason.schalk@cornerstone.edu 616-222- coachschalk_CU
+
+14. Jason Schalk
+   Email: jason.schalk@cornerstone.edu
+   Username: jason.schalk
+   Original line: Jason Schalk Associate Head Coach of Cross Country and jason.schalk@cornerstone.edu 616-222- coachschalk_CU
+
+15. Elizabeth Luce
+   Email: elizabeth.luce@cornerstone.edu
+   Username: elizabeth.luce
+   Original line: Elizabeth Luce Head Coach elizabeth.luce@cornerstone.edu
+
+16. Brodie Hock
+   Email: brodie.hock@cornerstone.edu
+   Username: brodie.hock
+   Original line: Brodie Hock Head Coach brodie.hock@cornerstone.edu
+
+17. Steve Herdsman
+   Email: stephen.herdsman@cornerstone.edu
+   Username: stephen.herdsman
+   Original line: Steve Herdsman Head Coach stephen.herdsman@cornerstone.edu 616-222-
+
+18. Bruce Pobocik
+   Email: bruce.pobocik@cornerstone.edu
+   Username: bruce.pobocik
+   Original line: Bruce Pobocik Assistant Coach bruce.pobocik@cornerstone.edu 616-262- BrucePobocik
+
+19. Dary Dewalt
+   Email: dary.dewalt@cornerstone.edu
+   Username: dary.dewalt
+   Original line: Dary Dewalt Goalkeepers Coach dary.dewalt@cornerstone.edu
+
+20. Sebastian Ramos
+   Email: sebastian.ramos@cornerstone.edu
+   Username: sebastian.ramos
+   Original line: Sebastian Ramos JV Coach sebastian.ramos@cornerstone.edu
+
+21. Sam Tracey
+   Email: sam.tracey@cornerstone.edu
+   Username: sam.tracey
+   Original line: Sam Tracey Head Coach sam.tracey@cornerstone.edu
+
+22. Alyssa Dykstra
+   Email: alyssa.dykstra@cornerstone.edu
+   Username: alyssa.dykstra
+   Original line: Alyssa Dykstra Assistant Coach alyssa.dykstra@cornerstone.edu
+
+23. Mikayla Johnson
+   Email: mikayla.johnson@cornerstone.edu
+   Username: mikayla.johnson
+   Original line: Mikayla Johnson Assistant Coach / Goalkeepers Coach mikayla.johnson@cornerstone.edu
+
+24. Elexia Fuentes
+   Email: elexia.fuentes@cornerstone.edu
+   Username: elexia.fuentes
+   Original line: Elexia Fuentes Head Coach elexia.fuentes@cornerstone.edu
+
+25. Andy Wright
+   Email: andy.wright@cornerstone.edu
+   Username: andy.wright
+   Original line: Andy Wright Head Coach andy.wright@cornerstone.edu 616-977-
+
+26. Jason Schalk
+   Email: jason.schalk@cornerstone.edu
+   Username: jason.schalk
+   Original line: Jason Schalk Associate Head Coach of Cross Country and jason.schalk@cornerstone.edu 616-222- coachschalk_CU
+
+27. Paul Koutz
+   Email: paul.koutz@cornerstone.edu
+   Username: paul.koutz
+   Original line: Paul Koutz Assistant Coach paul.koutz@cornerstone.edu 616-340- JoeBooh
+
+28. Andy Wright
+   Email: andy.wright@cornerstone.edu
+   Username: andy.wright
+   Original line: Andy Wright Head Coach andy.wright@cornerstone.edu 616-977-
+
+29. Jason Schalk
+   Email: jason.schalk@cornerstone.edu
+   Username: jason.schalk
+   Original line: Jason Schalk Associate Head Coach of Cross Country and jason.schalk@cornerstone.edu 616-222- coachschalk_CU
+
+30. Paul Koutz
+   Email: paul.koutz@cornerstone.edu
+   Username: paul.koutz
+   Original line: Paul Koutz Assistant Coach paul.koutz@cornerstone.edu 616-340- JoeBooh
+
+31. Alex Bahn
+   Email: alex.bahn@cornerstone.edu
+   Username: alex.bahn
+   Original line: Alex Bahn Head Coach alex.bahn@cornerstone.edu 616-977-
+
+32. Megan Lenhart
+   Email: megan.lenhart@cornerstone.edu
+   Username: megan.lenhart
+   Original line: Megan Lenhart Head Coach megan.lenhart@cornerstone.edu 616-222- coachlenhart
+
+33. Chris Schaffer
+   Email: chris.schaffer@cornerstone.edu
+   Username: chris.schaffer
+   Original line: Chris Schaffer Assistant Coach chris.schaffer@cornerstone.edu 940-923- ChrisSchaffer_
+
+34. Denver Stonecheck
+   Email: denver.stonecheck@cornerstone.edu
+   Username: denver.stonecheck
+   Original line: Denver Stonecheck Head Coach denver.stonecheck@cornerstone.edu
+
+35. Elijah Dahl
+   Email: elijah.dahl@cornerstone.edu
+   Username: elijah.dahl
+   Original line: Elijah Dahl Assistant Coach elijah.dahl@cornerstone.edu 616-977-
+
+36. Kyle Nixon
+   Email: kyle.nixon@cornerstone.edu
+   Username: kyle.nixon
+   Original line: Kyle Nixon Assistant Coach kyle.nixon@cornerstone.edu 616-977-
+
+37. Jeremy Miller
+   Email: jeremy.miller@cornerstone.edu
+   Username: jeremy.miller
+   Original line: Jeremy Miller Assistant Coach jeremy.miller@cornerstone.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Phil Keith Athletic Trainer / Strength Coach phil.keith@cornerstone.edu 616-977-
+• Jason Schalk Associate Head Coach of Cross Country and jason.schalk@cornerstone.edu 616-222- coachschalk_CU
+• Chuck Lowitzki Head Coach chuck.lowitzki@cornerstone.edu 616-977- ChuckLowitzki
+• James Sackett Assistant Coach james.sackett@cornerstone.edu
+• Cade Kontny Assistant Coach cade.kontny@cornerstone.edu
+• Kim Elders Head Coach kim.elders@cornerstone.edu 616-977-
+• Kyle Steigenga Associate Head Coach kyle.steigenga@cornerstone.edu
+• Travis Wells JV Coach travis.wells@cornerstone.edu 616-977-
+• Jessica Yonkers Head Coach jessica.yonkers@cornerstone.edu 616-977- cornerstonewbb
+• Ashley Xiong Assistant Coach ashley.xiong@cornerstone.edu 616-977-
+• Matt Wallace Assistant Coach matt.wallace@cornerstone.edu 616-977-
+• Cindy Philip Head Coach cynthia.philip@cornerstone.edu
+• Jason Schalk Associate Head Coach of Cross Country and jason.schalk@cornerstone.edu 616-222- coachschalk_CU
+• Jason Schalk Associate Head Coach of Cross Country and jason.schalk@cornerstone.edu 616-222- coachschalk_CU
+• Elizabeth Luce Head Coach elizabeth.luce@cornerstone.edu
+• Brodie Hock Head Coach brodie.hock@cornerstone.edu
+• Steve Herdsman Head Coach stephen.herdsman@cornerstone.edu 616-222-
+• Bruce Pobocik Assistant Coach bruce.pobocik@cornerstone.edu 616-262- BrucePobocik
+• Dary Dewalt Goalkeepers Coach dary.dewalt@cornerstone.edu
+• Sebastian Ramos JV Coach sebastian.ramos@cornerstone.edu
+• Sam Tracey Head Coach sam.tracey@cornerstone.edu
+• Alyssa Dykstra Assistant Coach alyssa.dykstra@cornerstone.edu
+• Mikayla Johnson Assistant Coach / Goalkeepers Coach mikayla.johnson@cornerstone.edu
+• Elexia Fuentes Head Coach elexia.fuentes@cornerstone.edu
+• Andy Wright Head Coach andy.wright@cornerstone.edu 616-977-
+• Jason Schalk Associate Head Coach of Cross Country and jason.schalk@cornerstone.edu 616-222- coachschalk_CU
+• Paul Koutz Assistant Coach paul.koutz@cornerstone.edu 616-340- JoeBooh
+• Andy Wright Head Coach andy.wright@cornerstone.edu 616-977-
+• Jason Schalk Associate Head Coach of Cross Country and jason.schalk@cornerstone.edu 616-222- coachschalk_CU
+• Paul Koutz Assistant Coach paul.koutz@cornerstone.edu 616-340- JoeBooh
+• Alex Bahn Head Coach alex.bahn@cornerstone.edu 616-977-
+• Megan Lenhart Head Coach megan.lenhart@cornerstone.edu 616-222- coachlenhart
+• Chris Schaffer Assistant Coach chris.schaffer@cornerstone.edu 940-923- ChrisSchaffer_
+• Denver Stonecheck Head Coach denver.stonecheck@cornerstone.edu
+• Elijah Dahl Assistant Coach elijah.dahl@cornerstone.edu 616-977-
+• Kyle Nixon Assistant Coach kyle.nixon@cornerstone.edu 616-977-
+• Jeremy Miller Assistant Coach jeremy.miller@cornerstone.edu

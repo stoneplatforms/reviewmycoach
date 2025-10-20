@@ -1,0 +1,347 @@
+COACH ENTRIES FOUND - 2025-10-19 04:43:40
+============================================================
+
+Total coaches found: 56
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brett Chambers
+   Email: brett.chambers@augie.edu
+   Username: brett.chambers
+   Original line: Brett Chambers Head Strength & Conditioning Coach brett.chambers@augie.edu 605-274-
+
+2. Ben Hessman
+   Email: ben.hessman@augie.edu
+   Username: ben.hessman
+   Original line: Ben Hessman Assistant Coach ben.hessman@augie.edu 605-274-
+
+3. Trevor Foreman
+   Email: trevor.foreman@augie.edu
+   Username: trevor.foreman
+   Original line: Trevor Foreman Assistant Coach trevor.foreman@augie.edu 605-274-
+
+4. Shelby Assmus
+   Email: shelby.assmus@augie.edu
+   Username: shelby.assmus
+   Original line: Shelby Assmus Faculty/Assistant Coach shelby.assmus@augie.edu 605-274-
+
+5. Betzi Plucker
+   Email: betzi.plucker@augie.edu
+   Username: betzi.plucker
+   Original line: Betzi Plucker Head Coach of Spirit Programs betzi.plucker@augie.edu 605-274-
+
+6. Emily Fairbanks
+   Email: emily.fairbanks@augie.edu
+   Username: emily.fairbanks
+   Original line: Emily Fairbanks Assistant Coach emily.fairbanks@augie.edu 605-274-
+
+7. Kaelyn Dillon
+   Email: kaelyn.dillon@augie.edu
+   Username: kaelyn.dillon
+   Original line: Kaelyn Dillon Head Coach kaelyn.dillon@augie.edu 605-274- kaelyn_cowan
+
+8. Sophia Gardner
+   Email: sophia.gardner@augie.edu
+   Username: sophia.gardner
+   Original line: Sophia Gardner Assistant Coach sophia.gardner@augie.edu 605-274-
+
+9. Tim Huber
+   Email: tim.huber@augie.edu
+   Username: tim.huber
+   Original line: Tim Huber Head Coach tim.huber@augie.edu 605-274-
+
+10. Caleb Thielbar
+   Email: caleb.thielbar@augie.edu
+   Username: caleb.thielbar
+   Original line: Caleb Thielbar Assistant Coach caleb.thielbar@augie.edu 605-274- cthielbar56
+
+11. John Nolan
+   Email: john.nolan@augie.edu
+   Username: john.nolan
+   Original line: John Nolan Assistant Coach john.nolan@augie.edu 605-274-
+
+12. JT Mix
+   Email: jt.mix@augie.edu
+   Username: jt.mix
+   Original line: JT Mix Assistant Coach jt.mix@augie.edu 605-274-
+
+13. Zach Dibble
+   Email: zach.dibble@augie.edu
+   Username: zach.dibble
+   Original line: Zach Dibble Assistant Coach zach.dibble@augie.edu 605-274- Z_G_3
+
+14. Cody Schilling
+   Email: cody.schilling@augie.edu
+   Username: cody.schilling
+   Original line: Cody Schilling Head Coach cody.schilling@augie.edu 605-274- Schilling_Cody
+
+15. Michael Orris
+   Email: michael.orris@augie.edu
+   Username: michael.orris
+   Original line: Michael Orris Assistant Coach michael.orris@augie.edu 605-274-
+
+16. Travis Voigt
+   Email: travis.voigt@augie.edu
+   Username: travis.voigt
+   Original line: Travis Voigt Assistant Coach travis.voigt@augie.edu 605-274-
+
+17. Nate Vogel
+   Email: nate.vogel@augie.edu
+   Username: nate.vogel
+   Original line: Nate Vogel Head Coach nate.vogel@augie.edu 605-274-
+
+18. Carter Hayden
+   Email: carter.hayden@augie.edu
+   Username: carter.hayden
+   Original line: Carter Hayden Assistant Coach carter.hayden@augie.edu 605-274-
+
+19. Ameh Ogbemudia
+   Email: ameh.ogbemudia@augie.edu
+   Username: ameh.ogbemudia
+   Original line: Ameh Ogbemudia Assistant Coach ameh.ogbemudia@augie.edu 605-274-
+
+20. Barbara Turkalj
+   Email: bturkalj24@ole.augie.edu
+   Username: bturkalj24
+   Original line: Barbara Turkalj Volunteer Assistant Coach bturkalj24@ole.augie.edu 605-274-
+
+21. Jerry Olszewski
+   Email: jerry.olszewski@augie.edu
+   Username: jerry.olszewski
+   Original line: Jerry Olszewski Head Coach jerry.olszewski@augie.edu 605-274- CoachOJ_
+
+22. Kelly Scholten
+   Email: kelly.scholten@augie.edu
+   Username: kelly.scholten
+   Original line: Kelly Scholten Assistant Head Coach/Defensive Line kelly.scholten@augie.edu 605-274- coachscholten
+
+23. Mark Sipple
+   Email: mark.sipple@augie.edu
+   Username: mark.sipple
+   Original line: Mark Sipple Defensive Coordinator/Defensive Backs mark.sipple@augie.edu 605-274- CoachSipple
+
+24. Andrew Loudenback
+   Email: aloudenback@augie.edu
+   Username: aloudenback
+   Original line: Andrew Loudenback Offensive Coordinator/Quarterbacks Coach aloudenback@augie.edu 605-274-
+
+25. Chase King
+   Email: chase.king@augie.edu
+   Username: chase.king
+   Original line: Chase King Special Teams Coordinator/Linebackers/Camp chase.king@augie.edu 605-274- CoachChaseKing
+
+26. Brayden Kearsley
+   Email: brayden.kearsley@augie.edu
+   Username: brayden.kearsley
+   Original line: Brayden Kearsley Offensive Line Coach/Run Game Coordinator brayden.kearsley@augie.edu 605-274- CoachBKearsley
+
+27. Brock Enderson
+   Email: brock.enderson@augie.edu
+   Username: brock.enderson
+   Original line: Brock Enderson Tight Ends brock.enderson@augie.edu 605-274- coach_enderson
+
+28. Mike Krsnak
+   Email: mike.krsnak@augie.edu
+   Username: mike.krsnak
+   Original line: Mike Krsnak Head Coach mike.krsnak@augie.edu
+
+29. Patty Coddington
+   Email: patty.coddington@augie.edu
+   Username: patty.coddington
+   Original line: Patty Coddington Volunteer Assistant Coach patty.coddington@augie.edu 605-376- PattyCoddington
+
+30. Peggy Kirby
+   Email: pcoddington@augie.edu
+   Username: pcoddington
+   Original line: Peggy Kirby Volunteer Assistant Coach pcoddington@augie.edu
+
+31. Garrett Raboin
+   Email: garrett.raboin@augie.edu
+   Username: garrett.raboin
+   Original line: Garrett Raboin Head Coach garrett.raboin@augie.edu 605-274- RabZ_07
+
+32. Taylor Nelson
+   Email: taylor.nelson@augie.edu
+   Username: taylor.nelson
+   Original line: Taylor Nelson Assistant Coach taylor.nelson@augie.edu 605-274- TaylorNelson29
+
+33. Blake Hietala
+   Email: blake.hietala@augie.edu
+   Username: blake.hietala
+   Original line: Blake Hietala Assistant Coach blake.hietala@augie.edu 605-274-
+
+34. Brady Ferner
+   Email: brady.ferner@augie.edu
+   Username: brady.ferner
+   Original line: Brady Ferner Assistant Coach brady.ferner@augie.edu 605-274-
+
+35. Brandon Barkus
+   Email: brandon.barkus@augie.edu
+   Username: brandon.barkus
+   Original line: Brandon Barkus Head Coach brandon.barkus@augie.edu 605-274- barkusjay
+
+36. Ashley Haflett
+   Email: ashley.haflett@augie.edu
+   Username: ashley.haflett
+   Original line: Ashley Haflett Assistant Coach ashley.haflett@augie.edu 605-274- Imma_keeper1
+
+37. Allison Kempainen
+   Email: allison.kempainen@augie.edu
+   Username: allison.kempainen
+   Original line: Allison Kempainen Assistant Coach allison.kempainen@augie.edu 605-274-
+
+38. Gretta Melsted
+   Email: gretta.melsted@augie.edu
+   Username: gretta.melsted
+   Original line: Gretta Melsted Head Coach gretta.melsted@augie.edu 605-274-
+
+39. Kelsey Thompson
+   Email: kelsey.thompson@augie.edu
+   Username: kelsey.thompson
+   Original line: Kelsey Thompson Assistant Coach/Pitching Coach kelsey.thompson@augie.edu 605-274- KJThomp15
+
+40. Andrew Makepeace
+   Email: andrew.makepeace@augie.edu
+   Username: andrew.makepeace
+   Original line: Andrew Makepeace Head Coach andrew.makepeace@augie.edu 605-274- andrewmakepeace
+
+41. Anna Dircks
+   Email: anna.dircks@augie.edu
+   Username: anna.dircks
+   Original line: Anna Dircks Assistant Coach anna.dircks@augie.edu 605-274-
+
+42. Marc Kurtz
+   Email: marc.kurtz@augie.edu
+   Username: marc.kurtz
+   Original line: Marc Kurtz Head Coach marc.kurtz@augie.edu 605-521- kurtz_marc
+
+43. Mitch Barr
+   Email: mcbarr11@ole.augie.edu
+   Username: mcbarr11
+   Original line: Mitch Barr Assistant Coach mcbarr11@ole.augie.edu
+
+44. Jared Hofer
+   Email: jahofer12@ole.augie.edu
+   Username: jahofer12
+   Original line: Jared Hofer Volunteer Assistant Coach jahofer12@ole.augie.edu Jared_Hofer
+
+45. Joe Schaefer
+   Email: joe.schaefer@augie.edu
+   Username: joe.schaefer
+   Original line: Joe Schaefer Assistant Coach joe.schaefer@augie.edu 605-274-
+
+46. Emily Swanson
+   Email: emily.swanson@augie.edu
+   Username: emily.swanson
+   Original line: Emily Swanson Assistant Coach emily.swanson@augie.edu
+
+47. Caitlin Ostbye
+   Email: crostbye24@ole.augie.edu
+   Username: crostbye24
+   Original line: Caitlin Ostbye Assistant Coach crostbye24@ole.augie.edu
+
+48. Hannah Smrcka
+   Email: hfsmrcka25@ole.augie.edu
+   Username: hfsmrcka25
+   Original line: Hannah Smrcka Assistant Coach hfsmrcka25@ole.augie.edu
+
+49. Greg Binstock
+   Email: greg.binstock@augie.edu
+   Username: greg.binstock
+   Original line: Greg Binstock Volunteer Assistant Coach greg.binstock@augie.edu 605-274-
+
+50. Jim Bies
+   Email: bies@augie.edu
+   Username: bies
+   Original line: Jim Bies Volunteer Assistant Coach bies@augie.edu 605-274-
+
+51. Adam Ericsson
+   Email: adam.ericsson@augie.edu
+   Username: adam.ericsson
+   Original line: Adam Ericsson Volunteer Assistant Coach adam.ericsson@augie.edu 605-274-
+
+52. Jennifer Jacobs
+   Email: jennifer.jacobs@augie.edu
+   Username: jennifer.jacobs
+   Original line: Dr. Jennifer Jacobs Head Coach jennifer.jacobs@augie.edu 605-274- mzjenjacobs
+
+53. Emma Nelson
+   Email: emma.nelson@augie.edu
+   Username: emma.nelson
+   Original line: Emma Nelson Assistant Coach emma.nelson@augie.edu 605-274- ejnelson98
+
+54. Jason Reitmeier
+   Email: jason.reitmeier@augie.edu
+   Username: jason.reitmeier
+   Original line: Jason Reitmeier Head Coach jason.reitmeier@augie.edu 605-274- JasonReitmeier1
+
+55. Chism Fink
+   Email: chism.fink@augie.edu
+   Username: chism.fink
+   Original line: Chism Fink Assistant Coach chism.fink@augie.edu 605-274- chismfink
+
+56. Cooper Moore
+   Email: cgmoore21@ole.augie.edu
+   Username: cgmoore21
+   Original line: Cooper Moore Assistant Coach cgmoore21@ole.augie.edu 605-274-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brett Chambers Head Strength & Conditioning Coach brett.chambers@augie.edu 605-274-
+• Ben Hessman Assistant Coach ben.hessman@augie.edu 605-274-
+• Trevor Foreman Assistant Coach trevor.foreman@augie.edu 605-274-
+• Shelby Assmus Faculty/Assistant Coach shelby.assmus@augie.edu 605-274-
+• Betzi Plucker Head Coach of Spirit Programs betzi.plucker@augie.edu 605-274-
+• Emily Fairbanks Assistant Coach emily.fairbanks@augie.edu 605-274-
+• Kaelyn Dillon Head Coach kaelyn.dillon@augie.edu 605-274- kaelyn_cowan
+• Sophia Gardner Assistant Coach sophia.gardner@augie.edu 605-274-
+• Tim Huber Head Coach tim.huber@augie.edu 605-274-
+• Caleb Thielbar Assistant Coach caleb.thielbar@augie.edu 605-274- cthielbar56
+• John Nolan Assistant Coach john.nolan@augie.edu 605-274-
+• JT Mix Assistant Coach jt.mix@augie.edu 605-274-
+• Zach Dibble Assistant Coach zach.dibble@augie.edu 605-274- Z_G_3
+• Cody Schilling Head Coach cody.schilling@augie.edu 605-274- Schilling_Cody
+• Michael Orris Assistant Coach michael.orris@augie.edu 605-274-
+• Travis Voigt Assistant Coach travis.voigt@augie.edu 605-274-
+• Nate Vogel Head Coach nate.vogel@augie.edu 605-274-
+• Carter Hayden Assistant Coach carter.hayden@augie.edu 605-274-
+• Ameh Ogbemudia Assistant Coach ameh.ogbemudia@augie.edu 605-274-
+• Barbara Turkalj Volunteer Assistant Coach bturkalj24@ole.augie.edu 605-274-
+• Jerry Olszewski Head Coach jerry.olszewski@augie.edu 605-274- CoachOJ_
+• Kelly Scholten Assistant Head Coach/Defensive Line kelly.scholten@augie.edu 605-274- coachscholten
+• Mark Sipple Defensive Coordinator/Defensive Backs mark.sipple@augie.edu 605-274- CoachSipple
+• Andrew Loudenback Offensive Coordinator/Quarterbacks Coach aloudenback@augie.edu 605-274-
+• Chase King Special Teams Coordinator/Linebackers/Camp chase.king@augie.edu 605-274- CoachChaseKing
+• Brayden Kearsley Offensive Line Coach/Run Game Coordinator brayden.kearsley@augie.edu 605-274- CoachBKearsley
+• Brock Enderson Tight Ends brock.enderson@augie.edu 605-274- coach_enderson
+• Mike Krsnak Head Coach mike.krsnak@augie.edu
+• Patty Coddington Volunteer Assistant Coach patty.coddington@augie.edu 605-376- PattyCoddington
+• Peggy Kirby Volunteer Assistant Coach pcoddington@augie.edu
+• Garrett Raboin Head Coach garrett.raboin@augie.edu 605-274- RabZ_07
+• Taylor Nelson Assistant Coach taylor.nelson@augie.edu 605-274- TaylorNelson29
+• Blake Hietala Assistant Coach blake.hietala@augie.edu 605-274-
+• Brady Ferner Assistant Coach brady.ferner@augie.edu 605-274-
+• Brandon Barkus Head Coach brandon.barkus@augie.edu 605-274- barkusjay
+• Ashley Haflett Assistant Coach ashley.haflett@augie.edu 605-274- Imma_keeper1
+• Allison Kempainen Assistant Coach allison.kempainen@augie.edu 605-274-
+• Gretta Melsted Head Coach gretta.melsted@augie.edu 605-274-
+• Kelsey Thompson Assistant Coach/Pitching Coach kelsey.thompson@augie.edu 605-274- KJThomp15
+• Andrew Makepeace Head Coach andrew.makepeace@augie.edu 605-274- andrewmakepeace
+• Anna Dircks Assistant Coach anna.dircks@augie.edu 605-274-
+• Marc Kurtz Head Coach marc.kurtz@augie.edu 605-521- kurtz_marc
+• Mitch Barr Assistant Coach mcbarr11@ole.augie.edu
+• Jared Hofer Volunteer Assistant Coach jahofer12@ole.augie.edu Jared_Hofer
+• Joe Schaefer Assistant Coach joe.schaefer@augie.edu 605-274-
+• Emily Swanson Assistant Coach emily.swanson@augie.edu
+• Caitlin Ostbye Assistant Coach crostbye24@ole.augie.edu
+• Hannah Smrcka Assistant Coach hfsmrcka25@ole.augie.edu
+• Greg Binstock Volunteer Assistant Coach greg.binstock@augie.edu 605-274-
+• Jim Bies Volunteer Assistant Coach bies@augie.edu 605-274-
+• Adam Ericsson Volunteer Assistant Coach adam.ericsson@augie.edu 605-274-
+• Dr. Jennifer Jacobs Head Coach jennifer.jacobs@augie.edu 605-274- mzjenjacobs
+• Emma Nelson Assistant Coach emma.nelson@augie.edu 605-274- ejnelson98
+• Jason Reitmeier Head Coach jason.reitmeier@augie.edu 605-274- JasonReitmeier1
+• Chism Fink Assistant Coach chism.fink@augie.edu 605-274- chismfink
+• Cooper Moore Assistant Coach cgmoore21@ole.augie.edu 605-274-

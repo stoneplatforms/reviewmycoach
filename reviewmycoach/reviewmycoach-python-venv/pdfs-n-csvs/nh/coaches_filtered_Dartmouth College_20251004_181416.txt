@@ -1,0 +1,245 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:34
+============================================================
+
+Total coaches found: 39
+
+PARSED ENTRIES:
+----------------------------------------
+1. Diving Coach/Water
+   Email: Christopher.W.Hamilton@dartmouth.edu
+   Username: Christopher.W.Hamilton
+   Original line: Diving Coach/Water Safety Coordinator Christopher.W.Hamilton@dartmouth.edu
+
+2. Interim Head
+   Email: blake.e.mcfadden@dartmouth.edu
+   Username: blake.e.mcfadden
+   Original line: Interim Head Coach blake.e.mcfadden@dartmouth.edu
+
+3. Assistant Coach/Recruiting
+   Email: jabari.c.trotter@dartmouth.edu
+   Username: jabari.c.trotter
+   Original line: Assistant Coach/Recruiting Coordinator jabari.c.trotter@dartmouth.edu
+
+4. Assistant Coach
+   Email: Anh-Dao.T.Tran@dartmouth.edu
+   Username: Anh-Dao.T.Tran
+   Original line: Assistant Coach Anh-Dao.T.Tran@dartmouth.edu
+
+5. Head Coach
+   Email: Tenley.Walsh@dartmouth.edu
+   Username: Tenley.Walsh
+   Original line: Head Coach and Director of Riding Tenley.Walsh@dartmouth.edu
+
+6. Assistant Coach
+   Email: Megan.M.McGill@dartmouth.edu
+   Username: Megan.M.McGill
+   Original line: Assistant Coach Megan.M.McGill@dartmouth.edu
+
+7. Head Coach
+   Email: mark.egner@dartmouth.edu
+   Username: mark.egner
+   Original line: Head Coach mark.egner@dartmouth.edu
+
+8. Robert L.
+   Email: dartmouth.football@dartmouth.edu
+   Username: dartmouth.football
+   Original line: Robert L. Blackman Head Football Coach dartmouth.football@dartmouth.edu
+
+9. Assistant Coach
+   Email: donald.h.dobes@dartmouth.edu
+   Username: donald.h.dobes
+   Original line: Assistant Coach - Defensive Coordinator/Linebackers donald.h.dobes@dartmouth.edu
+
+10. Associate Head
+   Email: kevin.b.daft@dartmouth.edu
+   Username: kevin.b.daft
+   Original line: Associate Head Coach - Tight Ends kevin.b.daft@dartmouth.edu
+
+11. Assistant Coach
+   Email: duane.e.brooks@dartmouth.edu
+   Username: duane.e.brooks
+   Original line: Assistant Coach - Defensive LIne duane.e.brooks@dartmouth.edu
+
+12. Assistant Coach
+   Email: keith.p.clark@dartmouth.edu
+   Username: keith.p.clark
+   Original line: Assistant Coach - Offensive Line keith.p.clark@dartmouth.edu
+
+13. Special Assistant
+   Email: curtis.p.oberg@dartmouth.edu
+   Username: curtis.p.oberg
+   Original line: Special Assistant to the Head Coach curtis.p.oberg@dartmouth.edu
+
+14. Bill Johnson
+   Email: Richard.S.Parker@dartmouth.edu
+   Username: Richard.S.Parker
+   Original line: Bill Johnson Head Coach of Men's Golf Richard.S.Parker@dartmouth.edu
+
+15. Carolyn A.
+   Email: alexander.k.kirk@dartmouth.edu
+   Username: alexander.k.kirk
+   Original line: Carolyn A. Pelzel ’54a Head Coach of Women's Golf alexander.k.kirk@dartmouth.edu
+
+16. Koenig Family
+   Email: Reid.A.Cashman@dartmouth.edu
+   Username: Reid.A.Cashman
+   Original line: Koenig Family Head Coach of Dartmouth Men's Hockey Reid.A.Cashman@dartmouth.edu
+
+17. Associate Head
+   Email: Jason.M.Tapp@dartmouth.edu
+   Username: Jason.M.Tapp
+   Original line: Associate Head Coach Jason.M.Tapp@dartmouth.edu
+
+18. Josie Harper
+   Email: alexandra.f.mcfadden@dartmouth.edu
+   Username: alexandra.f.mcfadden
+   Original line: Josie Harper Head Coach of Women’s Lacrosse alexandra.f.mcfadden@dartmouth.edu
+
+19. Betsy and
+   Email: wyatt.r.allen@dartmouth.edu
+   Username: wyatt.r.allen
+   Original line: Betsy and Mark Gates 1959 Head Coach of Men's Heavyweight Rowing wyatt.r.allen@dartmouth.edu
+
+20. Head Coach
+   Email: Trevor.D.Michelson@dartmouth.edu
+   Username: Trevor.D.Michelson
+   Original line: Head Coach Trevor.D.Michelson@dartmouth.edu
+
+21. The Elizabeth
+   Email: john.h.graves@dartmouth.edu
+   Username: john.h.graves
+   Original line: The Elizabeth C. McNabb Head Coach of Women’s Rowing john.h.graves@dartmouth.edu
+
+22. Head Coach
+   Email: Kathryn.B.Dowty@Dartmouth.edu
+   Username: Kathryn.B.Dowty
+   Original line: Head Coach Kathryn.B.Dowty@Dartmouth.edu
+
+23. Assistant Coach
+   Email: lisa.m.jackson@dartmouth.edu
+   Username: lisa.m.jackson
+   Original line: Assistant Coach and Recruiting Coordinator lisa.m.jackson@dartmouth.edu
+
+24. Interim Head
+   Email: Rebecca.S.McElvain@dartmouth.edu
+   Username: Rebecca.S.McElvain
+   Original line: Interim Head Coach Rebecca.S.McElvain@dartmouth.edu
+
+25. Director of
+   Email: cami.thompson@dartmouth.edu
+   Username: cami.thompson
+   Original line: Director of Skiing and Women’s Nordic Head Coach cami.thompson@dartmouth.edu
+
+26. The Anny
+   Email: john.c.dwyer@dartmouth.edu
+   Username: john.c.dwyer
+   Original line: The Anny Jenny Head Coach of Women's Alpine Skiing john.c.dwyer@dartmouth.edu
+
+27. Men's Nordic
+   Email: brayton.k.osgood@dartmouth.edu
+   Username: brayton.k.osgood
+   Original line: Men's Nordic Head Coach brayton.k.osgood@dartmouth.edu
+
+28. Bobby Clark
+   Email: msoccer@dartmouth.edu
+   Username: msoccer
+   Original line: Bobby Clark Head Coach of Men's Soccer msoccer@dartmouth.edu
+
+29. Stacy Branca
+   Email: taylor.m.schram@dartmouth.edu
+   Username: taylor.m.schram
+   Original line: Stacy Branca '94 Family Head Coach of Women's Soccer taylor.m.schram@dartmouth.edu
+
+30. Head Coach
+   Email: Jennifer.L.Williams@dartmouth.edu
+   Username: Jennifer.L.Williams
+   Original line: Head Coach Jennifer.L.Williams@dartmouth.edu
+
+31. Assistant Coach
+   Email: sydney.p.benz@dartmouth.edu
+   Username: sydney.p.benz
+   Original line: Assistant Coach sydney.p.benz@dartmouth.edu
+
+32. Assistant Coach
+   Email: ashley.n.weingartz@dartmouth.edu
+   Username: ashley.n.weingartz
+   Original line: Assistant Coach ashley.n.weingartz@dartmouth.edu
+
+33. Douglas A.
+   Email: Vikram.Malhotra@dartmouth.edu
+   Username: Vikram.Malhotra
+   Original line: Douglas A. Donahue Jr. 1973 Head Coach of Men's and Women's Squash Vikram.Malhotra@dartmouth.edu
+
+34. Assistant Coach
+   Email: pamela.m.anckermann@dartmouth.edu
+   Username: pamela.m.anckermann
+   Original line: Assistant Coach pamela.m.anckermann@dartmouth.edu
+
+35. Head Coach
+   Email: Milana.L.Socha@dartmouth.edu
+   Username: Milana.L.Socha
+   Original line: Head Coach Milana.L.Socha@dartmouth.edu
+
+36. Diving Coach/Water
+   Email: Christopher.W.Hamilton@dartmouth.edu
+   Username: Christopher.W.Hamilton
+   Original line: Diving Coach/Water Safety Coordinator Christopher.W.Hamilton@dartmouth.edu
+
+37. Marge &
+   Email: Robert.Dallis@dartmouth.edu
+   Username: Robert.Dallis
+   Original line: Marge & Ron Boss '61 Family Head Coach of Women's Tennis Robert.Dallis@dartmouth.edu
+
+38. Head Coach
+   Email: volleyball@dartmouth.edu
+   Username: volleyball
+   Original line: Head Coach volleyball@dartmouth.edu
+
+39. Assistant Coach
+   Email: Samuel.K.Marsh@dartmouth.edu
+   Username: Samuel.K.Marsh
+   Original line: Assistant Coach Samuel.K.Marsh@dartmouth.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Diving Coach/Water Safety Coordinator Christopher.W.Hamilton@dartmouth.edu
+• Interim Head Coach blake.e.mcfadden@dartmouth.edu
+• Assistant Coach/Recruiting Coordinator jabari.c.trotter@dartmouth.edu
+• Assistant Coach Anh-Dao.T.Tran@dartmouth.edu
+• Head Coach and Director of Riding Tenley.Walsh@dartmouth.edu
+• Assistant Coach Megan.M.McGill@dartmouth.edu
+• Head Coach mark.egner@dartmouth.edu
+• Robert L. Blackman Head Football Coach dartmouth.football@dartmouth.edu
+• Assistant Coach - Defensive Coordinator/Linebackers donald.h.dobes@dartmouth.edu
+• Associate Head Coach - Tight Ends kevin.b.daft@dartmouth.edu
+• Assistant Coach - Defensive LIne duane.e.brooks@dartmouth.edu
+• Assistant Coach - Offensive Line keith.p.clark@dartmouth.edu
+• Special Assistant to the Head Coach curtis.p.oberg@dartmouth.edu
+• Bill Johnson Head Coach of Men's Golf Richard.S.Parker@dartmouth.edu
+• Carolyn A. Pelzel ’54a Head Coach of Women's Golf alexander.k.kirk@dartmouth.edu
+• Koenig Family Head Coach of Dartmouth Men's Hockey Reid.A.Cashman@dartmouth.edu
+• Associate Head Coach Jason.M.Tapp@dartmouth.edu
+• Josie Harper Head Coach of Women’s Lacrosse alexandra.f.mcfadden@dartmouth.edu
+• Betsy and Mark Gates 1959 Head Coach of Men's Heavyweight Rowing wyatt.r.allen@dartmouth.edu
+• Head Coach Trevor.D.Michelson@dartmouth.edu
+• The Elizabeth C. McNabb Head Coach of Women’s Rowing john.h.graves@dartmouth.edu
+• Head Coach Kathryn.B.Dowty@Dartmouth.edu
+• Assistant Coach and Recruiting Coordinator lisa.m.jackson@dartmouth.edu
+• Interim Head Coach Rebecca.S.McElvain@dartmouth.edu
+• Director of Skiing and Women’s Nordic Head Coach cami.thompson@dartmouth.edu
+• The Anny Jenny Head Coach of Women's Alpine Skiing john.c.dwyer@dartmouth.edu
+• Men's Nordic Head Coach brayton.k.osgood@dartmouth.edu
+• Bobby Clark Head Coach of Men's Soccer msoccer@dartmouth.edu
+• Stacy Branca '94 Family Head Coach of Women's Soccer taylor.m.schram@dartmouth.edu
+• Head Coach Jennifer.L.Williams@dartmouth.edu
+• Assistant Coach sydney.p.benz@dartmouth.edu
+• Assistant Coach ashley.n.weingartz@dartmouth.edu
+• Douglas A. Donahue Jr. 1973 Head Coach of Men's and Women's Squash Vikram.Malhotra@dartmouth.edu
+• Assistant Coach pamela.m.anckermann@dartmouth.edu
+• Head Coach Milana.L.Socha@dartmouth.edu
+• Diving Coach/Water Safety Coordinator Christopher.W.Hamilton@dartmouth.edu
+• Marge & Ron Boss '61 Family Head Coach of Women's Tennis Robert.Dallis@dartmouth.edu
+• Head Coach volleyball@dartmouth.edu
+• Assistant Coach Samuel.K.Marsh@dartmouth.edu

@@ -1,0 +1,71 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:39
+============================================================
+
+Total coaches found: 10
+
+PARSED ENTRIES:
+----------------------------------------
+1. Pernell Roberts
+   Email: robertsp@hssu.edu
+   Username: robertsp
+   Original line: Pernell Roberts Jr. Head Baseball Coach robertsp@hssu.edu (314) 340-
+
+2. Levar Alton
+   Email: altonl@hssu.edu
+   Username: altonl
+   Original line: Levar Alton Assistant Men's Basketball Coach altonl@hssu.edu (314) 340-
+
+3. Nenad Todorovic
+   Email: todorovicn@hssu.edu
+   Username: todorovicn
+   Original line: Nenad Todorovic Head Men's Soccer Coach todorovicn@hssu.edu (314) 340-
+
+4. Joshua Reed
+   Email: reedj@hssu.edu
+   Username: reedj
+   Original line: Joshua Reed Head Men and Women's Track and Field Coach reedj@hssu.edu
+
+5. Joshua Reed
+   Email: reedj@hssu.edu
+   Username: reedj
+   Original line: Joshua Reed Head Men and Women's Track and Field Coach reedj@hssu.edu
+
+6. Jason Norsic
+   Email: norsicj@hssu.edu
+   Username: norsicj
+   Original line: Jason Norsic Women's Soccer Head Coach norsicj@hssu.edu
+
+7. Larry Young
+   Email: younglar@hssu.edu
+   Username: younglar
+   Original line: Larry Young Head Softball Coach younglar@hssu.edu (314) 480-
+
+8. Brittany Stewart
+   Email: stewartb@hssu.edu
+   Username: stewartb
+   Original line: Brittany Stewart Head Women's Volleyball Coach stewartb@hssu.edu (314) 340-
+
+9. Whitney McDaniel
+   Email: mcdaniew@hssu.edu
+   Username: mcdaniew
+   Original line: Whitney McDaniel Assistant Women's Volleyball Coach mcdaniew@hssu.edu (314) 340-
+
+10. Rashandra Burnett
+   Email: burnettr@hssu.edu
+   Username: burnettr
+   Original line: Rashandra Burnett Head Cheer Coach burnettr@hssu.edu (314) 340-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Pernell Roberts Jr. Head Baseball Coach robertsp@hssu.edu (314) 340-
+• Levar Alton Assistant Men's Basketball Coach altonl@hssu.edu (314) 340-
+• Nenad Todorovic Head Men's Soccer Coach todorovicn@hssu.edu (314) 340-
+• Joshua Reed Head Men and Women's Track and Field Coach reedj@hssu.edu
+• Joshua Reed Head Men and Women's Track and Field Coach reedj@hssu.edu
+• Jason Norsic Women's Soccer Head Coach norsicj@hssu.edu
+• Larry Young Head Softball Coach younglar@hssu.edu (314) 480-
+• Brittany Stewart Head Women's Volleyball Coach stewartb@hssu.edu (314) 340-
+• Whitney McDaniel Assistant Women's Volleyball Coach mcdaniew@hssu.edu (314) 340-
+• Rashandra Burnett Head Cheer Coach burnettr@hssu.edu (314) 340-

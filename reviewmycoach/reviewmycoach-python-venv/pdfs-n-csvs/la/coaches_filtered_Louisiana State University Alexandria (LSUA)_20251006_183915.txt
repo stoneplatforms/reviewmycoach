@@ -1,0 +1,112 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:15
+============================================================
+
+Total coaches found: 15
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mackenzie Young
+   Email: mackenziey@lsua.edu
+   Username: mackenziey
+   Phone: (318) 427-4467
+   Original line: Mackenzie Young Head Coach/Assistant AD for Academic Success mackenziey@lsua.edu 318-427-4467
+
+2. Kody Gautreaux
+   Email: kgautreaux@lsua.edu
+   Username: kgautreaux
+   Phone: (318) 427-4451
+   Original line: Kody Gautreaux Head Coach kgautreaux@lsua.edu 318-427-4451
+
+3. Jordan Ardoin
+   Email: jordana@lsua.edu
+   Username: jordana
+   Original line: Jordan Ardoin Assistant Coach jordana@lsua.edu
+
+4. Dimario Jackson
+   Email: djackson@lsua.edu
+   Username: djackson
+   Phone: (318) 619-2968
+   Original line: Dimario Jackson Head Men's Basketball Coach djackson@lsua.edu 318-619-2968
+
+5. Mackenzie Young
+   Email: mackenziey@lsua.edu
+   Username: mackenziey
+   Phone: (318) 427-4467
+   Original line: Mackenzie Young Head Coach/Assistant AD for Academic Success mackenziey@lsua.edu 318-427-4467
+
+6. Keelin Foley
+   Email: keelin.foley@yahoo.com
+   Username: keelin.foley
+   Original line: Keelin Foley Assistant Coach keelin.foley@yahoo.com
+
+7. Marcus Vinicius
+   Email: mlima001@lsua.edu
+   Username: mlima001
+   Original line: Marcus Vinicius Assistant Coach mlima001@lsua.edu
+
+8. Trent Partridge
+   Email: rpartridge@lsua.edu
+   Username: rpartridge
+   Phone: (318) 473-6486
+   Original line: Trent Partridge Head Softball Coach rpartridge@lsua.edu 318-473-6486
+
+9. Brannin Hagan
+   Email: Bhagan@lsua.edu
+   Username: Bhagan
+   Original line: Brannin Hagan Assistant Coach Bhagan@lsua.edu
+
+10. Billy Perkins
+   Email: billyp@lsua.edu
+   Username: billyp
+   Phone: (318) 473-6467
+   Original line: Billy Perkins Head Coach billyp@lsua.edu 318-473-6467
+
+11. Celesta Perkins
+   Email: celestap@lsua.edu
+   Username: celestap
+   Phone: (318) 473-6467
+   Original line: Celesta Perkins Assistant Women's Basketball Coach celestap@lsua.edu 318-473-6467
+
+12. Mark Hammond
+   Email: mhammond@lsua.edu
+   Username: mhammond
+   Phone: (318) 473-6599
+   Original line: Mark Hammond Head Coach mhammond@lsua.edu 318-473-6599
+
+13. Bailey Tillotson
+   Email: btillotson@lsua.edu
+   Username: btillotson
+   Phone: (318) 473-6408
+   Original line: Bailey Tillotson Assistant Coach btillotson@lsua.edu 318-473-6408
+
+14. Melinda Descant
+   Email: mdescant@lsua.edu
+   Username: mdescant
+   Phone: (318) 452-4754
+   Original line: Melinda Descant Head Coach mdescant@lsua.edu 318-452-4754
+
+15. Annemart Kleijn
+   Email: akleijn001@lsua.edu
+   Username: akleijn001
+   Phone: (318) 452-4754
+   Original line: Annemart Kleijn Assistant Coach akleijn001@lsua.edu 318-452-4754
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mackenzie Young Head Coach/Assistant AD for Academic Success mackenziey@lsua.edu 318-427-4467
+• Kody Gautreaux Head Coach kgautreaux@lsua.edu 318-427-4451
+• Jordan Ardoin Assistant Coach jordana@lsua.edu
+• Dimario Jackson Head Men's Basketball Coach djackson@lsua.edu 318-619-2968
+• Mackenzie Young Head Coach/Assistant AD for Academic Success mackenziey@lsua.edu 318-427-4467
+• Keelin Foley Assistant Coach keelin.foley@yahoo.com
+• Marcus Vinicius Assistant Coach mlima001@lsua.edu
+• Trent Partridge Head Softball Coach rpartridge@lsua.edu 318-473-6486
+• Brannin Hagan Assistant Coach Bhagan@lsua.edu
+• Billy Perkins Head Coach billyp@lsua.edu 318-473-6467
+• Celesta Perkins Assistant Women's Basketball Coach celestap@lsua.edu 318-473-6467
+• Mark Hammond Head Coach mhammond@lsua.edu 318-473-6599
+• Bailey Tillotson Assistant Coach btillotson@lsua.edu 318-473-6408
+• Melinda Descant Head Coach mdescant@lsua.edu 318-452-4754
+• Annemart Kleijn Assistant Coach akleijn001@lsua.edu 318-452-4754

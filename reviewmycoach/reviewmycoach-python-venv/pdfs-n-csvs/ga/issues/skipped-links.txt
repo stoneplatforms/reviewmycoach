@@ -1,0 +1,51 @@
+Point University.pdf :: https://pointskyhawks.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pointskyhawks.com/staff-directory/index
+Call log:
+  - navigating to "https://pointskyhawks.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://pointskyhawks.com/staff-directory?print=true, https://pointskyhawks.com/staff-directory/print, https://pointskyhawks.com/staff-directory, https://pointskyhawks.com/staff-directory/index?print=true, https://pointskyhawks.com/staff-directory/index/print, https://pointskyhawks.com/staff-directory/index
+
+Thomas University.pdf :: https://thomasnighthawks.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://thomasnighthawks.com/staff-directory/index
+Call log:
+  - navigating to "https://thomasnighthawks.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://thomasnighthawks.com/staff-directory?print=true, https://thomasnighthawks.com/staff-directory/print, https://thomasnighthawks.com/staff-directory, https://thomasnighthawks.com/staff-directory/index?print=true, https://thomasnighthawks.com/staff-directory/index/print, https://thomasnighthawks.com/staff-directory/index
+
+Savannah State University.pdf :: https://tigerathletics.com/staff-directory :: Navigation failed: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://tigerathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://tigerathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://tigerathletics.com/staff-directory?print=true, https://tigerathletics.com/staff-directory/print, https://tigerathletics.com/staff-directory, https://tigerathletics.com/staff-directory/index?print=true, https://tigerathletics.com/staff-directory/index/print, https://tigerathletics.com/staff-directory/index
+
+University of West Georgia.pdf :: https://uwgsports.com/staff-directory :: HTTP 403 returned
+  tried: https://uwgsports.com/staff-directory?print=true, https://uwgsports.com/staff-directory/print, https://uwgsports.com/staff-directory, https://uwgsports.com/staff-directory/index?print=true, https://uwgsports.com/staff-directory/index/print, https://uwgsports.com/staff-directory/index
+
+Voorhees University (SC, competes in GA conf).pdf :: https://voorheestigers.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://voorheestigers.com/staff-directory/index
+Call log:
+  - navigating to "https://voorheestigers.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://voorheestigers.com/staff-directory?print=true, https://voorheestigers.com/staff-directory/print, https://voorheestigers.com/staff-directory, https://voorheestigers.com/staff-directory/index?print=true, https://voorheestigers.com/staff-directory/index/print, https://voorheestigers.com/staff-directory/index
+
+Dalton State College.pdf :: https://dsceagles.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://dsceagles.com/staff-directory/index
+Call log:
+  - navigating to "https://dsceagles.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://dsceagles.com/staff-directory?print=true, https://dsceagles.com/staff-directory/print, https://dsceagles.com/staff-directory, https://dsceagles.com/staff-directory/index?print=true, https://dsceagles.com/staff-directory/index/print, https://dsceagles.com/staff-directory/index
+
+Wesleyan College (GA).pdf :: https://wesleyancollegeathletics.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://wesleyancollegeathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://wesleyancollegeathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://wesleyancollegeathletics.com/staff-directory?print=true, https://wesleyancollegeathletics.com/staff-directory/print, https://wesleyancollegeathletics.com/staff-directory, https://wesleyancollegeathletics.com/staff-directory/index?print=true, https://wesleyancollegeathletics.com/staff-directory/index/print, https://wesleyancollegeathletics.com/staff-directory/index
+
+Middle Georgia State University.pdf :: https://mga.knightsathletics.com/staff-directory :: Navigation failed: Page.goto: net::ERR_SSL_UNRECOGNIZED_NAME_ALERT at https://mga.knightsathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://mga.knightsathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://mga.knightsathletics.com/staff-directory?print=true, https://mga.knightsathletics.com/staff-directory/print, https://mga.knightsathletics.com/staff-directory, https://mga.knightsathletics.com/staff-directory/index?print=true, https://mga.knightsathletics.com/staff-directory/index/print, https://mga.knightsathletics.com/staff-directory/index
+
+Reinhardt University.pdf :: https://reinhardteagles.com/staff-directory :: Navigation failed: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://reinhardteagles.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://reinhardteagles.com/staff-directory?print=true, https://reinhardteagles.com/staff-directory/print, https://reinhardteagles.com/staff-directory, https://reinhardteagles.com/staff-directory/index?print=true, https://reinhardteagles.com/staff-directory/index/print, https://reinhardteagles.com/staff-directory/index
+

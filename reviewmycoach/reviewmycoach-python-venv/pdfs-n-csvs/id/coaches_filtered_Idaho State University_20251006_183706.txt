@@ -1,0 +1,185 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:09
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ryan Looney
+   Email: ryanlooney@isu.edu
+   Username: ryanlooney
+   Original line: Ryan Looney Head Coach ryanlooney@isu.edu
+
+2. Joe White
+   Email: joewhite@isu.edu
+   Username: joewhite
+   Original line: Joe White Associate Head Coach joewhite@isu.edu 208-282-
+
+3. Seton Sobolewski
+   Email: SetonSobolewski@isu.edu
+   Username: SetonSobolewski
+   Original line: Seton Sobolewski Head Coach SetonSobolewski@isu.edu
+
+4. Chelsey Gregg
+   Email: ChelseyGregg@isu.edu
+   Username: ChelseyGregg
+   Original line: Chelsey Gregg Associate Head Coach ChelseyGregg@isu.edu
+
+5. Keithan Gregg
+   Email: keithangregg@isu.edu
+   Username: keithangregg
+   Original line: Keithan Gregg Associate Head Coach keithangregg@isu.edu
+
+6. Ashleigh van
+   Email: ashleighvanvliet@isu.edu
+   Username: ashleighvanvliet
+   Original line: Ashleigh van Vliet Assistant Coach ashleighvanvliet@isu.edu
+
+7. Cody Hawkins
+   Email: CodyHawkins@isu.edu
+   Username: CodyHawkins
+   Original line: Cody Hawkins Head Coach CodyHawkins@isu.edu
+
+8. Scott Thiessen
+   Email: scottthiessen@isu.edu
+   Username: scottthiessen
+   Original line: Scott Thiessen Safeties Coach scottthiessen@isu.edu
+
+9. Devin Holiday
+   Email: devinholiday@isu.edu
+   Username: devinholiday
+   Original line: Devin Holiday Corners Coach devinholiday@isu.edu 208-282-
+
+10. Keith Price
+   Email: keithprice@isu.edu
+   Username: keithprice
+   Original line: Keith Price Wide Receivers Coach keithprice@isu.edu
+
+11. John Hughes
+   Email: johnhughes@isu.edu
+   Username: johnhughes
+   Original line: John Hughes Offensive Line Coach johnhughes@isu.edu
+
+12. Kamden Garrett
+   Email: kamdengarrett@isu.edu
+   Username: kamdengarrett
+   Original line: Kamden Garrett Assistant Corners Coach kamdengarrett@isu.edu
+
+13. Todd Loveland
+   Email: toddloveland@isu.edu
+   Username: toddloveland
+   Original line: Todd Loveland Head Coach toddloveland@isu.edu
+
+14. Mackenzie Robins
+   Email: mackenzierobins@isu.edu
+   Username: mackenzierobins
+   Original line: Mackenzie Robins Assistant Coach mackenzierobins@isu.edu
+
+15. Dustin Downey
+   Email: dustindowney@isu.edu
+   Username: dustindowney
+   Original line: Dustin Downey Head Soccer Coach dustindowney@isu.edu 208-282-
+
+16. Adam Nerio
+   Email: adamnerio@isu.edu
+   Username: adamnerio
+   Original line: Adam Nerio Assistant Coach adamnerio@isu.edu
+
+17. Damir Sabanovic
+   Email: damirsabanovic@isu.edu
+   Username: damirsabanovic
+   Original line: Damir Sabanovic Assistant Coach damirsabanovic@isu.edu
+
+18. Andrew Rich
+   Email: andrewrich@isu.edu
+   Username: andrewrich
+   Original line: Andrew Rich Head Softball Coach andrewrich@isu.edu
+
+19. Kelsey Broadus
+   Email: kelseybroadus@isu.edu
+   Username: kelseybroadus
+   Original line: Kelsey Broadus Assistant Coach kelseybroadus@isu.edu
+
+20. Karlee Johnson
+   Email: Karleejohnson2@isu.edu
+   Username: Karleejohnson2
+   Original line: Karlee Johnson Assistant Coach Karleejohnson2@isu.edu
+
+21. Oliver Good
+   Email: olivergood@isu.edu
+   Username: olivergood
+   Original line: Oliver Good Head Men's Tennis Coach olivergood@isu.edu 725-895-
+
+22. Joe Silvers
+   Email: silvjose@isu.edu
+   Username: silvjose
+   Original line: Joe Silvers Associate Head Coach silvjose@isu.edu 208-282-
+
+23. Payden Campbell
+   Email: paydencampbell@isu.edu
+   Username: paydencampbell
+   Original line: Payden Campbell Assistant Coach - Throws paydencampbell@isu.edu
+
+24. Mason Mahacek
+   Email: masonmahacek@isu.edu
+   Username: masonmahacek
+   Original line: Mason Mahacek Assistant Coach - masonmahacek@isu.edu
+
+25. Sean Carter
+   Email: seancarter@isu.edu
+   Username: seancarter
+   Original line: Sean Carter Head Coach seancarter@isu.edu 208-282-
+
+26. Chelsea Carter
+   Email: chelseascott@isu.edu
+   Username: chelseascott
+   Original line: Chelsea Carter Assistant Coach chelseascott@isu.edu 208-282-
+
+27. Elizabeth Field
+   Email: elizabethfield@isu.edu
+   Username: elizabethfield
+   Original line: Elizabeth Field Assistant Coach elizabethfield@isu.edu
+
+28. Misty Stucki
+   Email: stucmist@isu.edu
+   Username: stucmist
+   Original line: Misty Stucki Head Coach stucmist@isu.edu 208-251-
+
+29. Kolissa Manchan
+   Email: manckoli@isu.edu
+   Username: manckoli
+   Original line: Kolissa Manchan Head Coach manckoli@isu.edu 714-595-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ryan Looney Head Coach ryanlooney@isu.edu
+• Joe White Associate Head Coach joewhite@isu.edu 208-282-
+• Seton Sobolewski Head Coach SetonSobolewski@isu.edu
+• Chelsey Gregg Associate Head Coach ChelseyGregg@isu.edu
+• Keithan Gregg Associate Head Coach keithangregg@isu.edu
+• Ashleigh van Vliet Assistant Coach ashleighvanvliet@isu.edu
+• Cody Hawkins Head Coach CodyHawkins@isu.edu
+• Scott Thiessen Safeties Coach scottthiessen@isu.edu
+• Devin Holiday Corners Coach devinholiday@isu.edu 208-282-
+• Keith Price Wide Receivers Coach keithprice@isu.edu
+• John Hughes Offensive Line Coach johnhughes@isu.edu
+• Kamden Garrett Assistant Corners Coach kamdengarrett@isu.edu
+• Todd Loveland Head Coach toddloveland@isu.edu
+• Mackenzie Robins Assistant Coach mackenzierobins@isu.edu
+• Dustin Downey Head Soccer Coach dustindowney@isu.edu 208-282-
+• Adam Nerio Assistant Coach adamnerio@isu.edu
+• Damir Sabanovic Assistant Coach damirsabanovic@isu.edu
+• Andrew Rich Head Softball Coach andrewrich@isu.edu
+• Kelsey Broadus Assistant Coach kelseybroadus@isu.edu
+• Karlee Johnson Assistant Coach Karleejohnson2@isu.edu
+• Oliver Good Head Men's Tennis Coach olivergood@isu.edu 725-895-
+• Joe Silvers Associate Head Coach silvjose@isu.edu 208-282-
+• Payden Campbell Assistant Coach - Throws paydencampbell@isu.edu
+• Mason Mahacek Assistant Coach - masonmahacek@isu.edu
+• Sean Carter Head Coach seancarter@isu.edu 208-282-
+• Chelsea Carter Assistant Coach chelseascott@isu.edu 208-282-
+• Elizabeth Field Assistant Coach elizabethfield@isu.edu
+• Misty Stucki Head Coach stucmist@isu.edu 208-251-
+• Kolissa Manchan Head Coach manckoli@isu.edu 714-595-

@@ -1,0 +1,280 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:32
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Cory Chapp
+   Email: chapp103@d.umn.edu
+   Username: chapp103
+   Original line: Cory Chapp Head Strength & Conditioning Coach chapp103@d.umn.edu
+
+2. Scott Sandelin
+   Email: sandelin@d.umn.edu
+   Username: sandelin
+   Phone: (218) 726-8579
+   Original line: Scott Sandelin Head Coach sandelin@d.umn.edu 218-726-8579
+
+3. Adam Krause
+   Email: kraus566@d.umn.edu
+   Username: kraus566
+   Phone: (218) 726-6119
+   Original line: Adam Krause Associate Head Coach kraus566@d.umn.edu 218-726-6119 @AdamKrause26
+
+4. Cody Chupp
+   Email: cchupp@d.umn.edu
+   Username: cchupp
+   Original line: Cody Chupp Assistant Coach cchupp@d.umn.edu
+
+5. Brant Nicklin
+   Email: bnicklin@d.umn.edu
+   Username: bnicklin
+   Original line: Brant Nicklin Assistant Coach bnicklin@d.umn.edu
+
+6. Jeremy Hamerquist
+   Email: hamer126@d.umn.edu
+   Username: hamer126
+   Original line: Jeremy Hamerquist Assistant Strength Coach / Men's and Women's hamer126@d.umn.edu
+
+7. Laura Schuler
+   Email: lschuler@d.umn.edu
+   Username: lschuler
+   Phone: (218) 726-6881
+   Original line: Laura Schuler Head Coach lschuler@d.umn.edu 218-726-6881
+
+8. Ashleigh Brykaliuk
+   Email: abryk@d.umn.edu
+   Username: abryk
+   Original line: Ashleigh Brykaliuk Assistant Women's Hockey Coach abryk@d.umn.edu @abrykaliuk
+
+9. Olivia Soares
+   Email: soare045@d.umn.edu
+   Username: soare045
+   Original line: Olivia Soares Women's Hockey Assistant Coach soare045@d.umn.edu
+
+10. Justin Grant
+   Email: grantjl@d.umn.edu
+   Username: grantjl
+   Original line: Justin Grant Assistant Coach grantjl@d.umn.edu
+
+11. Jeremy Hamerquist
+   Email: hamer126@d.umn.edu
+   Username: hamer126
+   Original line: Jeremy Hamerquist Assistant Strength Coach / Men's and Women's hamer126@d.umn.edu
+
+12. Bob Rients
+   Email: rrients@d.umn.edu
+   Username: rrients
+   Phone: (218) 726-7967
+   Original line: Bob Rients Head Coach rrients@d.umn.edu 218-726-7967
+
+13. Tyler Erickson
+   Email: eric1849@d.umn.edu
+   Username: eric1849
+   Original line: Tyler Erickson Assistant Coach eric1849@d.umn.edu
+
+14. Kiel Kreidermacher
+   Email: kkreider@d.umn.edu
+   Username: kkreider
+   Original line: Kiel Kreidermacher Assistant Coach kkreider@d.umn.edu
+
+15. Tosten Mann
+   Email: mannx166@d.umn.edu
+   Username: mannx166
+   Original line: Tosten Mann Assistant Coach mannx166@d.umn.edu
+
+16. Justin Wieck
+   Email: jwieck@d.umn.edu
+   Username: jwieck
+   Phone: (218) 726-7270
+   Original line: Justin Wieck Head Coach jwieck@d.umn.edu 218-726-7270 @CoachWieckUMD
+
+17. Tyler Peterson
+   Email: pet04769@d.umn.edu
+   Username: pet04769
+   Phone: (218) 726-6199
+   Original line: Tyler Peterson Assistant Coach pet04769@d.umn.edu 218-726-6199 @TyPeterson_
+
+18. Mandy Pearson
+   Email: mpears@d.umn.edu
+   Username: mpears
+   Phone: (218) 726-6265
+   Original line: Mandy Pearson Head Coach mpears@d.umn.edu 218-726-6265 @MandyPearson_
+
+19. Cecile Kieger
+   Email: kiege020@d.umn.edu
+   Username: kiege020
+   Phone: (651) 331-1854
+   Original line: Cecile Kieger Assistant Coach/ Recruiting Coordinator kiege020@d.umn.edu 651-331-1854 @Cecilekieger
+
+20. Jada Devine
+   Email: devin339@d.umn.edu
+   Username: devin339
+   Original line: Jada Devine Assistant Coach devin339@d.umn.edu
+
+21. David Palmer
+   Email: palme888@umn.edu
+   Username: palme888
+   Original line: David Palmer Assistant Coach (Sprints) / Cross Country palme888@umn.edu
+
+22. David Palmer
+   Email: palme888@umn.edu
+   Username: palme888
+   Original line: David Palmer Assistant Coach (Sprints) / Cross Country palme888@umn.edu
+
+23. Curt Wiese
+   Email: cwiese@d.umn.edu
+   Username: cwiese
+   Original line: Curt Wiese Head Coach cwiese@d.umn.edu @CoachWiese
+
+24. Chase Vogler
+   Email: cvogler@d.umn.edu
+   Username: cvogler
+   Phone: (218) 726-6834
+   Original line: Chase Vogler Offensive Coordinator/Wide Receivers Coach cvogler@d.umn.edu 218-726-6834 @CoachVogler
+
+25. Trey Dill
+   Email: ttdill@d.umn.edu
+   Username: ttdill
+   Phone: (218) 726-8132
+   Original line: Trey Dill Defensive Coordinator ttdill@d.umn.edu 218-726-8132 @Coach_Dill
+
+26. Luke Olson
+   Email: olso4649@d.umn.edu
+   Username: olso4649
+   Phone: (218) 726-8968
+   Original line: Luke Olson Special Teams Coordinator and Inside olso4649@d.umn.edu 218-726-8968 @coachlukeolson
+
+27. Austan Davis
+   Email: adavis25@d.umn.edu
+   Username: adavis25
+   Phone: (832) 693-8890
+   Original line: Austan Davis Offensive Line Coach adavis25@d.umn.edu 832-693-8890 @CoachDavis_UMD
+
+28. Mekhi Ware
+   Email: ware0089@d.umn.edu
+   Username: ware0089
+   Original line: Mekhi Ware Secondary Coach/Recruiting Coordinator ware0089@d.umn.edu @CoachM_Ware
+
+29. Jalen Bethany
+   Email: betha012@d.umn.edu
+   Username: betha012
+   Original line: Jalen Bethany Cornerbacks Coach betha012@d.umn.edu @JalenBethany
+
+30. Dalton Creighton
+   Email: creig041@d.umn.edu
+   Username: creig041
+   Original line: Dalton Creighton Tight Ends Coach creig041@d.umn.edu @CoachDCreighton
+
+31. Jacob Lytton
+   Email: lytto008@d.umn.edu
+   Username: lytto008
+   Original line: Jacob Lytton Running Backs Coach lytto008@d.umn.edu @Coach_LytUMD
+
+32. Greg Cane
+   Email: gcane1@d.umn.edu
+   Username: gcane1
+   Phone: (218) 726-6229
+   Original line: Greg Cane Head Coach gcane1@d.umn.edu 218-726-6229
+
+33. Sidney Burrell
+   Email: sburrell@d.umn.edu
+   Username: sburrell
+   Phone: (218) 726-8514
+   Original line: Sidney Burrell Assistant Coach sburrell@d.umn.edu 218-726-8514
+
+34. Aaron Blanchard
+   Email: blanc502@d.umn.edu
+   Username: blanc502
+   Original line: Aaron Blanchard Assistant Coach blanc502@d.umn.edu
+
+35. Nat Wagner
+   Email: wagne749@d.umn.edu
+   Username: wagne749
+   Original line: Nat Wagner Head Softball Coach wagne749@d.umn.edu
+
+36. Carly Brousek
+   Email: cbrousek@d.umn.edu
+   Username: cbrousek
+   Original line: Carly Brousek Assistant Coach cbrousek@d.umn.edu @CoachBrousek
+
+37. Rilee Dawson
+   Email: dawsonrilee14@gmail.com
+   Username: dawsonrilee14
+   Original line: Rilee Dawson Assistant Coach (Pitching) dawsonrilee14@gmail.com
+
+38. Jessica Worden
+   Email: jworden@d.umn.edu
+   Username: jworden
+   Phone: (218) 726-8186
+   Original line: Jessica Worden Head Coach jworden@d.umn.edu 218-726-8186
+
+39. David Palmer
+   Email: palme888@umn.edu
+   Username: palme888
+   Original line: David Palmer Assistant Coach (Sprints) / Cross Country palme888@umn.edu
+
+40. David Palmer
+   Email: palme888@umn.edu
+   Username: palme888
+   Original line: David Palmer Assistant Coach (Sprints) / Cross Country palme888@umn.edu
+
+41. Jim Boos
+   Email: jboos@d.umn.edu
+   Username: jboos
+   Phone: (218) 726-7968
+   Original line: Jim Boos Head Coach jboos@d.umn.edu 218-726-7968
+
+42. Christyn May
+   Email: cmay@d.umn.edu
+   Username: cmay
+   Phone: (218) 726-6591
+   Original line: Christyn May Associate Head Coach cmay@d.umn.edu 218-726-6591 @Upnorthuffda
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Cory Chapp Head Strength & Conditioning Coach chapp103@d.umn.edu
+• Scott Sandelin Head Coach sandelin@d.umn.edu 218-726-8579
+• Adam Krause Associate Head Coach kraus566@d.umn.edu 218-726-6119 @AdamKrause26
+• Cody Chupp Assistant Coach cchupp@d.umn.edu
+• Brant Nicklin Assistant Coach bnicklin@d.umn.edu
+• Jeremy Hamerquist Assistant Strength Coach / Men's and Women's hamer126@d.umn.edu
+• Laura Schuler Head Coach lschuler@d.umn.edu 218-726-6881
+• Ashleigh Brykaliuk Assistant Women's Hockey Coach abryk@d.umn.edu @abrykaliuk
+• Olivia Soares Women's Hockey Assistant Coach soare045@d.umn.edu
+• Justin Grant Assistant Coach grantjl@d.umn.edu
+• Jeremy Hamerquist Assistant Strength Coach / Men's and Women's hamer126@d.umn.edu
+• Bob Rients Head Coach rrients@d.umn.edu 218-726-7967
+• Tyler Erickson Assistant Coach eric1849@d.umn.edu
+• Kiel Kreidermacher Assistant Coach kkreider@d.umn.edu
+• Tosten Mann Assistant Coach mannx166@d.umn.edu
+• Justin Wieck Head Coach jwieck@d.umn.edu 218-726-7270 @CoachWieckUMD
+• Tyler Peterson Assistant Coach pet04769@d.umn.edu 218-726-6199 @TyPeterson_
+• Mandy Pearson Head Coach mpears@d.umn.edu 218-726-6265 @MandyPearson_
+• Cecile Kieger Assistant Coach/ Recruiting Coordinator kiege020@d.umn.edu 651-331-1854 @Cecilekieger
+• Jada Devine Assistant Coach devin339@d.umn.edu
+• David Palmer Assistant Coach (Sprints) / Cross Country palme888@umn.edu
+• David Palmer Assistant Coach (Sprints) / Cross Country palme888@umn.edu
+• Curt Wiese Head Coach cwiese@d.umn.edu @CoachWiese
+• Chase Vogler Offensive Coordinator/Wide Receivers Coach cvogler@d.umn.edu 218-726-6834 @CoachVogler
+• Trey Dill Defensive Coordinator ttdill@d.umn.edu 218-726-8132 @Coach_Dill
+• Luke Olson Special Teams Coordinator and Inside olso4649@d.umn.edu 218-726-8968 @coachlukeolson
+• Austan Davis Offensive Line Coach adavis25@d.umn.edu 832-693-8890 @CoachDavis_UMD
+• Mekhi Ware Secondary Coach/Recruiting Coordinator ware0089@d.umn.edu @CoachM_Ware
+• Jalen Bethany Cornerbacks Coach betha012@d.umn.edu @JalenBethany
+• Dalton Creighton Tight Ends Coach creig041@d.umn.edu @CoachDCreighton
+• Jacob Lytton Running Backs Coach lytto008@d.umn.edu @Coach_LytUMD
+• Greg Cane Head Coach gcane1@d.umn.edu 218-726-6229
+• Sidney Burrell Assistant Coach sburrell@d.umn.edu 218-726-8514
+• Aaron Blanchard Assistant Coach blanc502@d.umn.edu
+• Nat Wagner Head Softball Coach wagne749@d.umn.edu
+• Carly Brousek Assistant Coach cbrousek@d.umn.edu @CoachBrousek
+• Rilee Dawson Assistant Coach (Pitching) dawsonrilee14@gmail.com
+• Jessica Worden Head Coach jworden@d.umn.edu 218-726-8186
+• David Palmer Assistant Coach (Sprints) / Cross Country palme888@umn.edu
+• David Palmer Assistant Coach (Sprints) / Cross Country palme888@umn.edu
+• Jim Boos Head Coach jboos@d.umn.edu 218-726-7968
+• Christyn May Associate Head Coach cmay@d.umn.edu 218-726-6591 @Upnorthuffda

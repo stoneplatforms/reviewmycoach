@@ -1,0 +1,299 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:41
+============================================================
+
+Total coaches found: 48
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mason Hawkins
+   Email: hawkinsm1@lakeland.edu
+   Username: hawkinsm1
+   Original line: Mason Hawkins Assistant Strength & Conditioning Coach hawkinsm1@lakeland.edu ext. 2212
+
+2. Shannyn Gillespie
+   Email: gillespiesj@lakeland.edu
+   Username: gillespiesj
+   Original line: Shannyn Gillespie Assistant Strength & Conditioning Coach gillespiesj@lakeland.edu ext. 2178
+
+3. Ashley Lona
+   Email: lonaan@lakeland.edu
+   Username: lonaan
+   Original line: Ashley Lona Assistant Strength & Conditioning Coach lonaan@lakeland.edu ext. 2193
+
+4. Kevin Post
+   Email: postkr@lakeland.edu
+   Username: postkr
+   Original line: Kevin Post Assistant Strength & Conditioning Coach postkr@lakeland.edu
+
+5. Kevin Post
+   Email: postkr@lakeland.edu
+   Username: postkr
+   Original line: Kevin Post Head Baseball Coach postkr@lakeland.edu
+
+6. Justin Jurek
+   Email: jurekj@lakeland.edu
+   Username: jurekj
+   Original line: Justin Jurek Assistant Coach jurekj@lakeland.edu ext. 2214
+
+7. Sam Schroeder
+   Email: schroedersa2@lakeland.edu
+   Username: schroedersa2
+   Original line: Sam Schroeder Head Men's Basketball Coach schroedersa2@lakeland.edu ext. 2197
+
+8. DeMarcus Zaragoza
+   Email: zaragozada@lakeland.edu
+   Username: zaragozada
+   Original line: DeMarcus Zaragoza Assistant Coach zaragozada@lakeland.edu
+
+9. Kaelib Whitley
+   Email: whitleyk@lakeland.edu
+   Username: whitleyk
+   Original line: Kaelib Whitley Assistant Coach whitleyk@lakeland.edu
+
+10. Ashley Lona
+   Email: lonaan@lakeland.edu
+   Username: lonaan
+   Original line: Ashley Lona Head Women's Basketball Coach lonaan@lakeland.edu ext. 2193
+
+11. Phil Welsh
+   Email: welshpr@lakeland.edu
+   Username: welshpr
+   Original line: Phil Welsh Assistant Coach welshpr@lakeland.edu ext. 2172
+
+12. Nyah Odekirk
+   Email: odekirkn@lakeland.edu
+   Username: odekirkn
+   Original line: Nyah Odekirk Assistant Coach odekirkn@lakeland.edu ext. 2174
+
+13. Heath Kohl
+   Email: kohlhr@lakeland.edu
+   Username: kohlhr
+   Original line: Heath Kohl Head Men's & Women's Bowling Coach kohlhr@lakeland.edu
+
+14. Heath Kohl
+   Email: kohlhr@lakeland.edu
+   Username: kohlhr
+   Original line: Heath Kohl Head Men's & Women's Bowling Coach kohlhr@lakeland.edu
+
+15. Sara Klemme
+   Email: klemmesm@lakeland.edu
+   Username: klemmesm
+   Original line: Sara Klemme Head Men's & Women's Cross Country & Track & Field Coach klemmesm@lakeland.edu
+
+16. Sara Klemme
+   Email: klemmesm@lakeland.edu
+   Username: klemmesm
+   Original line: Sara Klemme Head Men's & Women's Cross Country & Track & Field Coach klemmesm@lakeland.edu
+
+17. Brett Sheldon
+   Email: sheldonb@lakeland.edu
+   Username: sheldonb
+   Original line: Brett Sheldon Head Esports Coach sheldonb@lakeland.edu
+
+18. Colin Bruton
+   Email: brutoncp@lakeland.edu
+   Username: brutoncp
+   Original line: Colin Bruton Head Football Coach brutoncp@lakeland.edu ext. 2179
+
+19. Joey Lehto
+   Email: lehtoj@lakeland.edu
+   Username: lehtoj
+   Original line: Joey Lehto Defensive Coordinator/Linebackers Coach lehtoj@lakeland.edu ext. 2177
+
+20. Larry Feest
+   Email: feestlr@lakeland.edu
+   Username: feestlr
+   Original line: Larry Feest Offensive Line Coach/Special Teams Coordinator feestlr@lakeland.edu ext. 2201
+
+21. Gabe Maynes
+   Email: maynesg@lakeland.edu
+   Username: maynesg
+   Original line: Gabe Maynes Running Backs Coach maynesg@lakeland.edu
+
+22. T.J. Lockett
+   Email: lockettt@lakeland.edu
+   Username: lockettt
+   Original line: T.J. Lockett Defensive Backs Coach lockettt@lakeland.edu
+
+23. Matt Glogowski
+   Email: glogowskim@lakeland.edu
+   Username: glogowskim
+   Original line: Matt Glogowski Defensive Line Coach glogowskim@lakeland.edu
+
+24. Mitch Vechione
+   Email: vechionema@lakeland.edu
+   Username: vechionema
+   Original line: Mitch Vechione Head Men's & Women's Golf Coach vechionema@lakeland.edu
+
+25. Mitch Vechione
+   Email: vechionema@lakeland.edu
+   Username: vechionema
+   Original line: Mitch Vechione Head Men's & Women's Golf Coach vechionema@lakeland.edu
+
+26. Kyle Quintell
+   Email: quintellk@lakeland.edu
+   Username: quintellk
+   Original line: Kyle Quintell Head Men's Soccer Coach quintellk@lakeland.edu
+
+27. Tony Pierce
+   Email: pierceal@lakeland.edu
+   Username: pierceal
+   Original line: Tony Pierce Assistant Coach pierceal@lakeland.edu
+
+28. Heather Robare
+   Email: robarehk@lakeland.edu
+   Username: robarehk
+   Original line: Heather Robare Head Women's Soccer Coach robarehk@lakeland.edu ext. 2189
+
+29. Pete Barth
+   Email: barthp@lakeland.edu
+   Username: barthp
+   Original line: Pete Barth Assistant Coach barthp@lakeland.edu ext. 2185
+
+30. Zach Heiman
+   Email: heimanz@lakeland.edu
+   Username: heimanz
+   Original line: Zach Heiman Assistant Coach heimanz@lakeland.edu
+
+31. Kyle Nothem
+   Email: nothemks@lakeland.edu
+   Username: nothemks
+   Original line: Kyle Nothem Women's Soccer Recruiter & Assistant Coach nothemks@lakeland.edu
+
+32. Kayla Bryant
+   Email: bryantka@lakeland.edu
+   Username: bryantka
+   Original line: Kayla Bryant Head Softball Coach bryantka@lakeland.edu ext. 2190
+
+33. Hannah Nelson
+   Email: nelsonh@lakeland.edu
+   Username: nelsonh
+   Original line: Hannah Nelson Assistant Coach nelsonh@lakeland.edu
+
+34. Mitch Vechione
+   Email: vechionema@lakeland.edu
+   Username: vechionema
+   Original line: Mitch Vechione Head Men's & Women's Tennis Coach vechionema@lakeland.edu
+
+35. Mitch Vechione
+   Email: vechionema@lakeland.edu
+   Username: vechionema
+   Original line: Mitch Vechione Head Men's & Women's Tennis Coach vechionema@lakeland.edu
+
+36. Pete Barth
+   Email: barthp@lakeland.edu
+   Username: barthp
+   Original line: Pete Barth Head Men's & Women's Track & Field Coach barthp@lakeland.edu ext. 2185
+
+37. Sara Klemme
+   Email: klemmesm@lakeland.edu
+   Username: klemmesm
+   Original line: Sara Klemme Head Men's & Women's Cross Country & Track & Field Coach klemmesm@lakeland.edu
+
+38. Pete Barth
+   Email: barthp@lakeland.edu
+   Username: barthp
+   Original line: Pete Barth Head Men's & Women's Track & Field Coach barthp@lakeland.edu ext. 2185
+
+39. Sara Klemme
+   Email: klemmesm@lakeland.edu
+   Username: klemmesm
+   Original line: Sara Klemme Head Men's & Women's Cross Country & Track & Field Coach klemmesm@lakeland.edu
+
+40. Brian Rushmer
+   Email: rushmerbj@lakeland.edu
+   Username: rushmerbj
+   Original line: Brian Rushmer Head Men's Volleyball Coach rushmerbj@lakeland.edu ext. 2198
+
+41. Ryan Schopf
+   Email: schopfrw@lakeland.edu
+   Username: schopfrw
+   Original line: Ryan Schopf Head Women's Volleyball Coach schopfrw@lakeland.edu ext. 2205
+
+42. Allison Errthum
+   Email: errthuma@lakeland.edu
+   Username: errthuma
+   Original line: Allison Errthum Assistant Coach errthuma@lakeland.edu
+
+43. Allie Byrne
+   Email: byrnea@lakeland.edu
+   Username: byrnea
+   Original line: Allie Byrne Assistant Coach byrnea@lakeland.edu
+
+44. Mike DeRoehn
+   Email: deroehnmr@lakeland.edu
+   Username: deroehnmr
+   Original line: Mike DeRoehn Head Wrestling Coach deroehnmr@lakeland.edu ext. 2188
+
+45. Mason Hawkins
+   Email: hawkinsm1@lakeland.edu
+   Username: hawkinsm1
+   Original line: Mason Hawkins Assistant Coach hawkinsm1@lakeland.edu ext. 2212
+
+46. Fred Brown
+   Email: brownfm@lakeland.edu
+   Username: brownfm
+   Original line: Fred Brown Assistant Coach brownfm@lakeland.edu
+
+47. Shannyn Gillespie
+   Email: gillespiesj@lakeland.edu
+   Username: gillespiesj
+   Original line: Shannyn Gillespie Head Women's Wrestling Coach gillespiesj@lakeland.edu ext. 2178
+
+48. Fred Brown
+   Email: brownfm@lakeland.edu
+   Username: brownfm
+   Original line: Fred Brown Assistant Coach brownfm@lakeland.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mason Hawkins Assistant Strength & Conditioning Coach hawkinsm1@lakeland.edu ext. 2212
+• Shannyn Gillespie Assistant Strength & Conditioning Coach gillespiesj@lakeland.edu ext. 2178
+• Ashley Lona Assistant Strength & Conditioning Coach lonaan@lakeland.edu ext. 2193
+• Kevin Post Assistant Strength & Conditioning Coach postkr@lakeland.edu
+• Kevin Post Head Baseball Coach postkr@lakeland.edu
+• Justin Jurek Assistant Coach jurekj@lakeland.edu ext. 2214
+• Sam Schroeder Head Men's Basketball Coach schroedersa2@lakeland.edu ext. 2197
+• DeMarcus Zaragoza Assistant Coach zaragozada@lakeland.edu
+• Kaelib Whitley Assistant Coach whitleyk@lakeland.edu
+• Ashley Lona Head Women's Basketball Coach lonaan@lakeland.edu ext. 2193
+• Phil Welsh Assistant Coach welshpr@lakeland.edu ext. 2172
+• Nyah Odekirk Assistant Coach odekirkn@lakeland.edu ext. 2174
+• Heath Kohl Head Men's & Women's Bowling Coach kohlhr@lakeland.edu
+• Heath Kohl Head Men's & Women's Bowling Coach kohlhr@lakeland.edu
+• Sara Klemme Head Men's & Women's Cross Country & Track & Field Coach klemmesm@lakeland.edu
+• Sara Klemme Head Men's & Women's Cross Country & Track & Field Coach klemmesm@lakeland.edu
+• Brett Sheldon Head Esports Coach sheldonb@lakeland.edu
+• Colin Bruton Head Football Coach brutoncp@lakeland.edu ext. 2179
+• Joey Lehto Defensive Coordinator/Linebackers Coach lehtoj@lakeland.edu ext. 2177
+• Larry Feest Offensive Line Coach/Special Teams Coordinator feestlr@lakeland.edu ext. 2201
+• Gabe Maynes Running Backs Coach maynesg@lakeland.edu
+• T.J. Lockett Defensive Backs Coach lockettt@lakeland.edu
+• Matt Glogowski Defensive Line Coach glogowskim@lakeland.edu
+• Mitch Vechione Head Men's & Women's Golf Coach vechionema@lakeland.edu
+• Mitch Vechione Head Men's & Women's Golf Coach vechionema@lakeland.edu
+• Kyle Quintell Head Men's Soccer Coach quintellk@lakeland.edu
+• Tony Pierce Assistant Coach pierceal@lakeland.edu
+• Heather Robare Head Women's Soccer Coach robarehk@lakeland.edu ext. 2189
+• Pete Barth Assistant Coach barthp@lakeland.edu ext. 2185
+• Zach Heiman Assistant Coach heimanz@lakeland.edu
+• Kyle Nothem Women's Soccer Recruiter & Assistant Coach nothemks@lakeland.edu
+• Kayla Bryant Head Softball Coach bryantka@lakeland.edu ext. 2190
+• Hannah Nelson Assistant Coach nelsonh@lakeland.edu
+• Mitch Vechione Head Men's & Women's Tennis Coach vechionema@lakeland.edu
+• Mitch Vechione Head Men's & Women's Tennis Coach vechionema@lakeland.edu
+• Pete Barth Head Men's & Women's Track & Field Coach barthp@lakeland.edu ext. 2185
+• Sara Klemme Head Men's & Women's Cross Country & Track & Field Coach klemmesm@lakeland.edu
+• Pete Barth Head Men's & Women's Track & Field Coach barthp@lakeland.edu ext. 2185
+• Sara Klemme Head Men's & Women's Cross Country & Track & Field Coach klemmesm@lakeland.edu
+• Brian Rushmer Head Men's Volleyball Coach rushmerbj@lakeland.edu ext. 2198
+• Ryan Schopf Head Women's Volleyball Coach schopfrw@lakeland.edu ext. 2205
+• Allison Errthum Assistant Coach errthuma@lakeland.edu
+• Allie Byrne Assistant Coach byrnea@lakeland.edu
+• Mike DeRoehn Head Wrestling Coach deroehnmr@lakeland.edu ext. 2188
+• Mason Hawkins Assistant Coach hawkinsm1@lakeland.edu ext. 2212
+• Fred Brown Assistant Coach brownfm@lakeland.edu
+• Shannyn Gillespie Head Women's Wrestling Coach gillespiesj@lakeland.edu ext. 2178
+• Fred Brown Assistant Coach brownfm@lakeland.edu

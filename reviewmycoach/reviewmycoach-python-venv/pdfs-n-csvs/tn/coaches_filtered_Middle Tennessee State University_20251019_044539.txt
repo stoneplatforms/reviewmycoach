@@ -1,0 +1,149 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:41
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Assistant Strength
+   Email: josh.wilkerson@mtsu.edu
+   Username: josh.wilkerson
+   Original line: Assistant Strength Coach (Men's Basketball) josh.wilkerson@mtsu.edu
+
+2. Associate Head
+   Email: Kevin.Nichols@mtsu.edu
+   Username: Kevin.Nichols
+   Original line: Associate Head Coach/Hitting Coach Kevin.Nichols@mtsu.edu
+
+3. Head Coach
+   Email: nick.mcdevitt@mtsu.edu
+   Username: nick.mcdevitt
+   Original line: Head Coach nick.mcdevitt@mtsu.edu
+
+4. Associate Head
+   Email: wes.long@mtsu.edu
+   Username: wes.long
+   Original line: Associate Head Coach wes.long@mtsu.edu
+
+5. Assistant Coach
+   Email: logan.johnson@mtsu.edu
+   Username: logan.johnson
+   Original line: Assistant Coach logan.johnson@mtsu.edu
+
+6. Assistant Coach
+   Email: eric.wilson@mtsu.edu
+   Username: eric.wilson
+   Original line: Assistant Coach eric.wilson@mtsu.edu
+
+7. Head Women's
+   Email: ricky.insell@mtsu.edu
+   Username: ricky.insell
+   Original line: Head Women's Basketball Coach ricky.insell@mtsu.edu
+
+8. Associate Head
+   Email: matt.insell@mtsu.edu
+   Username: matt.insell
+   Original line: Associate Head Women's Basketball Coach matt.insell@mtsu.edu
+
+9. Assistant Women's
+   Email: kim.brewton@mtsu.edu
+   Username: kim.brewton
+   Original line: Assistant Women's Basketball Coach kim.brewton@mtsu.edu
+
+10. Assistant Women's
+   Email: nina.davis@mtsu.edu
+   Username: nina.davis
+   Original line: Assistant Women's Basketball Coach nina.davis@mtsu.edu
+
+11. Head Coach
+   Email: Kim.Spurlock@mtsu.edu
+   Username: Kim.Spurlock
+   Original line: Head Coach Kim.Spurlock@mtsu.edu
+
+12. Head Men's
+   Email: mark.mcentire@mtsu.edu
+   Username: mark.mcentire
+   Original line: Head Men's Golf Coach mark.mcentire@mtsu.edu
+
+13. Head Soccer
+   Email: aston.rhoden@mtsu.edu
+   Username: aston.rhoden
+   Original line: Head Soccer Coach aston.rhoden@mtsu.edu
+
+14. Associate Head
+   Email: hannah.hoefs@mtsu.edu
+   Username: hannah.hoefs
+   Original line: Associate Head Coach hannah.hoefs@mtsu.edu
+
+15. Head Softball
+   Email: jeff.breeden@mtsu.edu
+   Username: jeff.breeden
+   Original line: Head Softball Coach jeff.breeden@mtsu.edu
+
+16. Assistant Softball
+   Email: Bryce.Brentz@mtsu.edu
+   Username: Bryce.Brentz
+   Original line: Assistant Softball Coach Bryce.Brentz@mtsu.edu
+
+17. Head Men's
+   Email: jimmy.borendame@mtsu.edu
+   Username: jimmy.borendame
+   Original line: Head Men's Tennis Coach jimmy.borendame@mtsu.edu
+
+18. Head Women's
+   Email: tayo.bailey-duvall@mtsu.edu
+   Username: tayo.bailey-duvall
+   Original line: Head Women's Tennis Coach tayo.bailey-duvall@mtsu.edu
+
+19. Head Cross
+   Email: keith.vroman@mtsu.edu
+   Username: keith.vroman
+   Original line: Head Cross Country and Track & Field Coach keith.vroman@mtsu.edu
+
+20. Assistant Coach
+   Email: raymond.bonner@mtsu.edu
+   Username: raymond.bonner
+   Original line: Assistant Coach raymond.bonner@mtsu.edu
+
+21. Assistant Coach
+   Email: Andrew.Owusu@mtsu.edu
+   Username: Andrew.Owusu
+   Original line: Assistant Coach Andrew.Owusu@mtsu.edu
+
+22. Volleyball Head
+   Email: mtvolleyball@mtsu.edu
+   Username: mtvolleyball
+   Original line: Volleyball Head Coach mtvolleyball@mtsu.edu
+
+23. Associate Head
+   Email: sarah.gomish@mtsu.edu
+   Username: sarah.gomish
+   Original line: Associate Head Coach/Recruiting Coordinator sarah.gomish@mtsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Assistant Strength Coach (Men's Basketball) josh.wilkerson@mtsu.edu
+• Associate Head Coach/Hitting Coach Kevin.Nichols@mtsu.edu
+• Head Coach nick.mcdevitt@mtsu.edu
+• Associate Head Coach wes.long@mtsu.edu
+• Assistant Coach logan.johnson@mtsu.edu
+• Assistant Coach eric.wilson@mtsu.edu
+• Head Women's Basketball Coach ricky.insell@mtsu.edu
+• Associate Head Women's Basketball Coach matt.insell@mtsu.edu
+• Assistant Women's Basketball Coach kim.brewton@mtsu.edu
+• Assistant Women's Basketball Coach nina.davis@mtsu.edu
+• Head Coach Kim.Spurlock@mtsu.edu
+• Head Men's Golf Coach mark.mcentire@mtsu.edu
+• Head Soccer Coach aston.rhoden@mtsu.edu
+• Associate Head Coach hannah.hoefs@mtsu.edu
+• Head Softball Coach jeff.breeden@mtsu.edu
+• Assistant Softball Coach Bryce.Brentz@mtsu.edu
+• Head Men's Tennis Coach jimmy.borendame@mtsu.edu
+• Head Women's Tennis Coach tayo.bailey-duvall@mtsu.edu
+• Head Cross Country and Track & Field Coach keith.vroman@mtsu.edu
+• Assistant Coach raymond.bonner@mtsu.edu
+• Assistant Coach Andrew.Owusu@mtsu.edu
+• Volleyball Head Coach mtvolleyball@mtsu.edu
+• Associate Head Coach/Recruiting Coordinator sarah.gomish@mtsu.edu

@@ -1,0 +1,150 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:06
+============================================================
+
+Total coaches found: 20
+
+PARSED ENTRIES:
+----------------------------------------
+1. Katie Hill
+   Email: katie.hill@grace.edu
+   Username: katie.hill
+   Phone: (574) 372-5100
+   Original line: Katie Hill Asst. AD/Head Volleyball Coach katie.hill@grace.edu 574-372-5100 x6268
+
+2. Ryan Roth
+   Email: rothrr@grace.edu
+   Username: rothrr
+   Phone: (574) 372-5100
+   Original line: Ryan Roth Head Baseball Coach rothrr@grace.edu 574-372-5100 x6264
+
+3. Scott Moore
+   Email: mooresd@grace.edu
+   Username: mooresd
+   Phone: (574) 372-5100
+   Original line: Scott Moore Head Men's Basketball Coach mooresd@grace.edu 574-372-5100 x6265
+
+4. Jordan Weidner
+   Email: jordan.weidner@grace.edu
+   Username: jordan.weidner
+   Phone: (574) 372-5100
+   Original line: Jordan Weidner Associate Head Coach jordan.weidner@grace.edu 574-372-5100 x6260
+
+5. Stephen Halstead
+   Email: halstesc@grace.edu
+   Username: halstesc
+   Phone: (574) 372-5100
+   Original line: Stephen Halstead Associate Head Coach halstesc@grace.edu 574-372-5100 x6265
+
+6. Dan Davis
+   Email: dan.davis@grace.edu
+   Username: dan.davis
+   Phone: (574) 372-5100
+   Original line: Dan Davis Head Women's Basketball Coach dan.davis@grace.edu 574-372-5100 x6272
+
+7. Jake Anders
+   Email: andersja1@grace.edu
+   Username: andersja1
+   Phone: (574) 372-5100
+   Original line: Jake Anders Assistant Coach andersja1@grace.edu 574-372-5100 x6272
+
+8. Jessica Durando
+   Email: cheer@grace.edu
+   Username: cheer
+   Phone: (574) 372-5100
+   Original line: Jessica Durando Head Cheer Coach cheer@grace.edu 574-372-5100 x6266
+
+9. Brian Dewey
+   Email: deweybm@grace.edu
+   Username: deweybm
+   Phone: (574) 372-5100
+   Original line: Brian Dewey Head Cross Country Coach deweybm@grace.edu 574-372-5100 x6250
+
+10. Ellis Gallion
+   Email: ellis.gallion@grace.edu
+   Username: ellis.gallion
+   Phone: (574) 372-5100
+   Original line: Ellis Gallion Head Track & Field Coach ellis.gallion@grace.edu 574-372-5100 x6287
+
+11. Trey Stoll
+   Email: trey.stoll@grace.edu
+   Username: trey.stoll
+   Phone: (574) 372-5100
+   Original line: Trey Stoll Head Men's Golf Coach trey.stoll@grace.edu 574-372-5100 x6005
+
+12. Denny Duncan
+   Email: duncandl@grace.edu
+   Username: duncandl
+   Phone: (574) 372-5100
+   Original line: Denny Duncan Head Women's Golf Coach duncandl@grace.edu 574-372-5100 x6266
+
+13. Arron Patrick
+   Email: patricaf@grace.edu
+   Username: patricaf
+   Phone: (574) 372-5100
+   Original line: Arron Patrick Head Men's Soccer Coach patricaf@grace.edu 574-372-5100 x6270
+
+14. Austin Altimus
+   Email: altimua@grace.edu
+   Username: altimua
+   Phone: (574) 372-5100
+   Original line: Austin Altimus Assistant Coach altimua@grace.edu 574-372-5100 x6270
+
+15. Michael Voss
+   Email: vossmd@grace.edu
+   Username: vossmd
+   Phone: (574) 372-5100
+   Original line: Michael Voss Head Women's Soccer Coach vossmd@grace.edu 574-372-5100 x6544
+
+16. David Andersen
+   Email: andersda@grace.edu
+   Username: andersda
+   Phone: (574) 372-5100
+   Original line: David Andersen Assistant Coach andersda@grace.edu 574-372-5100 x6544
+
+17. Amanda Jones
+   Email: amanda.jones@grace.edu
+   Username: amanda.jones
+   Phone: (574) 372-5100
+   Original line: Amanda Jones Head Softball Coach amanda.jones@grace.edu 574-372-5100 x6273
+
+18. Katie Hill
+   Email: katie.hill@grace.edu
+   Username: katie.hill
+   Phone: (574) 372-5100
+   Original line: Katie Hill Asst. AD/Head Volleyball Coach katie.hill@grace.edu 574-372-5100 x6268
+
+19. Logan Swain
+   Email: swainlj@grace.edu
+   Username: swainlj
+   Original line: Logan Swain Student Coach swainlj@grace.edu
+
+20. Kirk Wyman
+   Email: wymantk@grace.edu
+   Username: wymantk
+   Phone: (574) 372-5100
+   Original line: Kirk Wyman Head Bowling Coach wymantk@grace.edu 574-372-5100 x6263
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Katie Hill Asst. AD/Head Volleyball Coach katie.hill@grace.edu 574-372-5100 x6268
+• Ryan Roth Head Baseball Coach rothrr@grace.edu 574-372-5100 x6264
+• Scott Moore Head Men's Basketball Coach mooresd@grace.edu 574-372-5100 x6265
+• Jordan Weidner Associate Head Coach jordan.weidner@grace.edu 574-372-5100 x6260
+• Stephen Halstead Associate Head Coach halstesc@grace.edu 574-372-5100 x6265
+• Dan Davis Head Women's Basketball Coach dan.davis@grace.edu 574-372-5100 x6272
+• Jake Anders Assistant Coach andersja1@grace.edu 574-372-5100 x6272
+• Jessica Durando Head Cheer Coach cheer@grace.edu 574-372-5100 x6266
+• Brian Dewey Head Cross Country Coach deweybm@grace.edu 574-372-5100 x6250
+• Ellis Gallion Head Track & Field Coach ellis.gallion@grace.edu 574-372-5100 x6287
+• Trey Stoll Head Men's Golf Coach trey.stoll@grace.edu 574-372-5100 x6005
+• Denny Duncan Head Women's Golf Coach duncandl@grace.edu 574-372-5100 x6266
+• Arron Patrick Head Men's Soccer Coach patricaf@grace.edu 574-372-5100 x6270
+• Austin Altimus Assistant Coach altimua@grace.edu 574-372-5100 x6270
+• Michael Voss Head Women's Soccer Coach vossmd@grace.edu 574-372-5100 x6544
+• David Andersen Assistant Coach andersda@grace.edu 574-372-5100 x6544
+• Amanda Jones Head Softball Coach amanda.jones@grace.edu 574-372-5100 x6273
+• Katie Hill Asst. AD/Head Volleyball Coach katie.hill@grace.edu 574-372-5100 x6268
+• Logan Swain Student Coach swainlj@grace.edu
+• Kirk Wyman Head Bowling Coach wymantk@grace.edu 574-372-5100 x6263

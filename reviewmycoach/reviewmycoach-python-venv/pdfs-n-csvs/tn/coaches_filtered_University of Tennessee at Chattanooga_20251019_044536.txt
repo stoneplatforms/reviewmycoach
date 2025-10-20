@@ -1,0 +1,239 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:37
+============================================================
+
+Total coaches found: 38
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ashli Brown
+   Email: ashli-brown@utc.edu
+   Username: ashli-brown
+   Original line: Ashli Brown Head Coach - Cheerleading & Sugar Mocs ashli-brown@utc.edu 423-425-
+
+2. Ashley McKnight
+   Email: ashley-mcknight@utc.edu
+   Username: ashley-mcknight
+   Original line: Ashley McKnight Head Coach - Ladies of GOLD ashley-mcknight@utc.edu 423-425-
+
+3. Ander Galfsky
+   Email: alexander-galfsky@utc.edu
+   Username: alexander-galfsky
+   Original line: Ander Galfsky Associate Head Coach alexander-galfsky@utc.edu 423-425-
+
+4. Scott Greenman
+   Email: scott-greenman@utc.edu
+   Username: scott-greenman
+   Original line: Scott Greenman Associate Head Coach scott-greenman@utc.edu 423-425-
+
+5. Ricardo Rush,
+   Email: ricardo-rushjr@utc.edu
+   Username: ricardo-rushjr
+   Original line: Ricardo Rush, Jr. Assistant Coach ricardo-rushjr@utc.edu 423-425-
+
+6. Logan Dahms
+   Email: logan-dahms@utc.edu
+   Username: logan-dahms
+   Original line: Logan Dahms Assistant Coach logan-dahms@utc.edu 423-425-
+
+7. Alan Treakle
+   Email: alan-treakle@utc.edu
+   Username: alan-treakle
+   Original line: Alan Treakle Assistant Coach / Director of Basketball Operations alan-treakle@utc.edu 423-425-
+
+8. Tianni Kelly
+   Email: tianni-kelly@utc.edu
+   Username: tianni-kelly
+   Original line: Tianni Kelly Associate Head Coach tianni-kelly@utc.edu
+
+9. Nicole Heyn
+   Email: nicole-heyn@utc.edu
+   Username: nicole-heyn
+   Original line: Nicole Heyn Assistant Coach nicole-heyn@utc.edu
+
+10. Mallory Odell
+   Email: mallory-odell@utc.edu
+   Username: mallory-odell
+   Original line: Mallory Odell Assistant Coach mallory-odell@utc.edu
+
+11. Alexis Uffmann
+   Email: alexis-uffmann@utc.edu
+   Username: alexis-uffmann
+   Original line: Alexis Uffmann Assistant Coach alexis-uffmann@utc.edu
+
+12. Darin Van
+   Email: darin-vanhorn@utc.edu
+   Username: darin-vanhorn
+   Original line: Darin Van Horn Head Beach Volleyball Coach darin-vanhorn@utc.edu 423-425-
+
+13. Juliana Van
+   Email: juliana-yensho@utc.edu
+   Username: juliana-yensho
+   Original line: Juliana Van Horn Assistant Beach Coach juliana-yensho@utc.edu 423-425-
+
+14. Steve Picucci
+   Email: steve-picucci@utc.edu
+   Username: steve-picucci
+   Original line: Steve Picucci Head Coach steve-picucci@utc.edu
+
+15. Patrick Gildea
+   Email: patrick-gildea@utc.edu
+   Username: patrick-gildea
+   Original line: Patrick Gildea Assistant Coach patrick-gildea@utc.edu 423-425-
+
+16. D.J. Knox
+   Email: dexter-knox@utc.edu
+   Username: dexter-knox
+   Original line: D.J. Knox Assistant Coach - Running Backs dexter-knox@utc.edu 423-425-
+
+17. Ken Lucky
+   Email: kenneth-lucky@utc.edu
+   Username: kenneth-lucky
+   Original line: Ken Lucky II Assistant Coach - Cornerbacks kenneth-lucky@utc.edu 423-425-
+
+18. Julian Miller
+   Email: julian-miller01@utc.edu
+   Username: julian-miller01
+   Original line: Julian Miller Asstant Coach - Defensive Tackles julian-miller01@utc.edu 423-425-
+
+19. Kevin Revis
+   Email: kevin-revis@utc.edu
+   Username: kevin-revis
+   Original line: Kevin Revis Assistant Coach - Offensive Line kevin-revis@utc.edu 423-425-
+
+20. Wolfgang Shafer
+   Email: wolfgang-shafer@utc.edu
+   Username: wolfgang-shafer
+   Original line: Wolfgang Shafer Assistant Coach - Safeties/Special Teams Coord. wolfgang-shafer@utc.edu 423-425-
+
+21. Zeb Speir
+   Email: zeb-speir@utc.edu
+   Username: zeb-speir
+   Original line: Zeb Speir Assistant Coach - Tight Ends zeb-speir@utc.edu 423-425-
+
+22. Ricky Spradling
+   Email: richard-spradling@utc.edu
+   Username: richard-spradling
+   Original line: Ricky Spradling Assistant Coach - Wide Receivers richard-spradling@utc.edu 423-425-
+
+23. Tyrus Ward
+   Email: tyrus-ward@utc.edu
+   Username: tyrus-ward
+   Original line: Tyrus Ward Assistant Coach - Defensive Ends tyrus-ward@utc.edu 423-425-
+
+24. Blaine Woodruff
+   Email: blaine-woodruff@utc.edu
+   Username: blaine-woodruff
+   Original line: Blaine Woodruff Head Coach blaine-woodruff@utc.edu 424-346-
+
+25. Colette Murray
+   Email: colette-murray@utc.edu
+   Username: colette-murray
+   Original line: Colette Murray Head Coach colette-murray@utc.edu 423-425-
+
+26. Carolina Hortian
+   Email: carolina-hortian01@utc.edu
+   Username: carolina-hortian01
+   Original line: Carolina Hortian Assistant Coach carolina-hortian01@utc.edu
+
+27. Gavin McKinney
+   Email: gavin-mckinney@utc.edu
+   Username: gavin-mckinney
+   Original line: Gavin McKinney Head Coach gavin-mckinney@utc.edu 423-425-
+
+28. Josie Rix
+   Email: Josie-rix@utc.edu
+   Username: Josie-rix
+   Original line: Josie Rix Assistant Coach Josie-rix@utc.edu
+
+29. Frank Reed
+   Email: frank-reed@utc.edu
+   Username: frank-reed
+   Original line: Frank Reed Head Coach frank-reed@utc.edu 423-425-
+
+30. Scottie Kilgore
+   Email: scottie-kilgore@utc.edu
+   Username: scottie-kilgore
+   Original line: Scottie Kilgore Associate Head Coach scottie-kilgore@utc.edu 423-425-
+
+31. Cheyanne Camp
+   Email: cheyanne-tarango@utc.edu
+   Username: cheyanne-tarango
+   Original line: Cheyanne Camp Assistant Coach cheyanne-tarango@utc.edu 423-425-
+
+32. Chuck Merzbacher
+   Email: charles-merzbacher@utc.edu
+   Username: charles-merzbacher
+   Original line: Chuck Merzbacher Head Coach charles-merzbacher@utc.edu 423-425-
+
+33. Chad Camper
+   Email: chad-camper@utc.edu
+   Username: chad-camper
+   Original line: Chad Camper Head Coach chad-camper@utc.edu 423-425-
+
+34. Julie Torbett
+   Email: julie-torbettthomas@utc.edu
+   Username: julie-torbettthomas
+   Original line: Julie Torbett Thomas Head Volleyball Coach julie-torbettthomas@utc.edu 423-425-
+
+35. Kaleigh Fitzgerald
+   Email: kaleigh-fitzgerald@utc.edu
+   Username: kaleigh-fitzgerald
+   Original line: Kaleigh Fitzgerald Assistant Coach kaleigh-fitzgerald@utc.edu
+
+36. Kyle Ruschell
+   Email: kyle-ruschell@utc.edu
+   Username: kyle-ruschell
+   Original line: Kyle Ruschell Head Coach kyle-ruschell@utc.edu 423-425-
+
+37. Kyle Massey
+   Email: kyle-massey@utc.edu
+   Username: kyle-massey
+   Original line: Kyle Massey Assistant Coach kyle-massey@utc.edu 423-425-
+
+38. Devin Skatzka
+   Email: devin-skatzka@utc.edu
+   Username: devin-skatzka
+   Original line: Devin Skatzka Assistant Coach devin-skatzka@utc.edu 423-425-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ashli Brown Head Coach - Cheerleading & Sugar Mocs ashli-brown@utc.edu 423-425-
+• Ashley McKnight Head Coach - Ladies of GOLD ashley-mcknight@utc.edu 423-425-
+• Ander Galfsky Associate Head Coach alexander-galfsky@utc.edu 423-425-
+• Scott Greenman Associate Head Coach scott-greenman@utc.edu 423-425-
+• Ricardo Rush, Jr. Assistant Coach ricardo-rushjr@utc.edu 423-425-
+• Logan Dahms Assistant Coach logan-dahms@utc.edu 423-425-
+• Alan Treakle Assistant Coach / Director of Basketball Operations alan-treakle@utc.edu 423-425-
+• Tianni Kelly Associate Head Coach tianni-kelly@utc.edu
+• Nicole Heyn Assistant Coach nicole-heyn@utc.edu
+• Mallory Odell Assistant Coach mallory-odell@utc.edu
+• Alexis Uffmann Assistant Coach alexis-uffmann@utc.edu
+• Darin Van Horn Head Beach Volleyball Coach darin-vanhorn@utc.edu 423-425-
+• Juliana Van Horn Assistant Beach Coach juliana-yensho@utc.edu 423-425-
+• Steve Picucci Head Coach steve-picucci@utc.edu
+• Patrick Gildea Assistant Coach patrick-gildea@utc.edu 423-425-
+• D.J. Knox Assistant Coach - Running Backs dexter-knox@utc.edu 423-425-
+• Ken Lucky II Assistant Coach - Cornerbacks kenneth-lucky@utc.edu 423-425-
+• Julian Miller Asstant Coach - Defensive Tackles julian-miller01@utc.edu 423-425-
+• Kevin Revis Assistant Coach - Offensive Line kevin-revis@utc.edu 423-425-
+• Wolfgang Shafer Assistant Coach - Safeties/Special Teams Coord. wolfgang-shafer@utc.edu 423-425-
+• Zeb Speir Assistant Coach - Tight Ends zeb-speir@utc.edu 423-425-
+• Ricky Spradling Assistant Coach - Wide Receivers richard-spradling@utc.edu 423-425-
+• Tyrus Ward Assistant Coach - Defensive Ends tyrus-ward@utc.edu 423-425-
+• Blaine Woodruff Head Coach blaine-woodruff@utc.edu 424-346-
+• Colette Murray Head Coach colette-murray@utc.edu 423-425-
+• Carolina Hortian Assistant Coach carolina-hortian01@utc.edu
+• Gavin McKinney Head Coach gavin-mckinney@utc.edu 423-425-
+• Josie Rix Assistant Coach Josie-rix@utc.edu
+• Frank Reed Head Coach frank-reed@utc.edu 423-425-
+• Scottie Kilgore Associate Head Coach scottie-kilgore@utc.edu 423-425-
+• Cheyanne Camp Assistant Coach cheyanne-tarango@utc.edu 423-425-
+• Chuck Merzbacher Head Coach charles-merzbacher@utc.edu 423-425-
+• Chad Camper Head Coach chad-camper@utc.edu 423-425-
+• Julie Torbett Thomas Head Volleyball Coach julie-torbettthomas@utc.edu 423-425-
+• Kaleigh Fitzgerald Assistant Coach kaleigh-fitzgerald@utc.edu
+• Kyle Ruschell Head Coach kyle-ruschell@utc.edu 423-425-
+• Kyle Massey Assistant Coach kyle-massey@utc.edu 423-425-
+• Devin Skatzka Assistant Coach devin-skatzka@utc.edu 423-425-

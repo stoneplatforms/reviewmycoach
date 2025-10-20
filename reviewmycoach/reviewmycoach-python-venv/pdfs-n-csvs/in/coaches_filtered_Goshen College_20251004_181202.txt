@@ -1,0 +1,137 @@
+COACH ENTRIES FOUND - 2025-10-04 18:12:03
+============================================================
+
+Total coaches found: 21
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brad Stoltzfus
+   Email: bradleys@goshen.edu
+   Username: bradleys
+   Original line: Brad Stoltzfus Head Coach 574-535- bradleys@goshen.edu
+
+2. James Stricker
+   Email: jastricker@goshen.edu
+   Username: jastricker
+   Original line: James Stricker Pitching Coach 317-712- jastricker@goshen.edu
+
+3. Dwight Gingerich
+   Email: dwightag@goshen.edu
+   Username: dwightag
+   Original line: Dwight Gingerich Head Coach 574-535- dwightag@goshen.edu
+
+4. Erik Bowen
+   Email: ebowen@goshen.edu
+   Username: ebowen
+   Original line: Erik Bowen Assistant Coach 574-535- ebowen@goshen.edu
+
+5. Tyra Carver
+   Email: tlcarver@goshen.edu
+   Username: tlcarver
+   Original line: Tyra Carver Head Coach 574-535- tlcarver@goshen.edu
+
+6. Jomani Thomas
+   Email: jtthomas@goshen.edu
+   Username: jtthomas
+   Original line: Jomani Thomas Assistant Coach & Recruiting Coordinator 574-535- jtthomas@goshen.edu
+
+7. Jaime Applegate
+   Email: jrstack@goshen.edu
+   Username: jrstack
+   Original line: Jaime Applegate Volunteer Assistant Coach jrstack@goshen.edu
+
+8. Thomas Applegate
+   Email: taapplegate@goshen.edu
+   Username: taapplegate
+   Original line: Thomas Applegate Volunteer Assistant Coach 574-535- taapplegate@goshen.edu
+
+9. Scott Curtis
+   Email: scurtis@goshen.edu
+   Username: scurtis
+   Original line: Scott Curtis Head Coach 574-535- scurtis@goshen.edu
+
+10. Lisa Voyles
+   Email: lmvoyles@goshen.edu
+   Username: lmvoyles
+   Original line: Lisa Voyles Associate Head Coach lmvoyles@goshen.edu
+
+11. Dan Sullivan
+   Email: desullivan@goshen.edu
+   Username: desullivan
+   Original line: Dan Sullivan Head Coach 574-535- desullivan@goshen.edu
+
+12. Justin Crew
+   Email: jcrew@goshen.edu
+   Username: jcrew
+   Original line: Justin Crew Head Coach 574-535- jcrew@goshen.edu
+
+13. Juliana Chupp
+   Email: jalvesdasilva@goshen.edu
+   Username: jalvesdasilva
+   Original line: Juliana Chupp Assistant Coach / Social Media Manager jalvesdasilva@goshen.edu
+
+14. Giovanni Lopez
+   Email: gglopez@goshen.edu
+   Username: gglopez
+   Original line: Giovanni Lopez Goalkeepers Coach gglopez@goshen.edu
+
+15. Luke Wagner
+   Email: jlwagner@goshen.edu
+   Username: jlwagner
+   Original line: Luke Wagner Head Coach 574-535- jlwagner@goshen.edu
+
+16. Doug Gossman
+   Email: dgossman@goshen.edu
+   Username: dgossman
+   Original line: Doug Gossman Volunteer Assistant Coach 574-535- dgossman@goshen.edu
+
+17. Lisa Voyles
+   Email: lmvoyles@goshen.edu
+   Username: lmvoyles
+   Original line: Lisa Voyles Associate Head Coach lmvoyles@goshen.edu
+
+18. Mandi Lloyd
+   Email: mlloyd@goshen.edu
+   Username: mlloyd
+   Original line: Mandi Lloyd Assistant Coach (Sprints) mlloyd@goshen.edu
+
+19. Wyatt Bollinger
+   Email: ewbollinger@goshen.edu
+   Username: ewbollinger
+   Original line: Wyatt Bollinger Head Coach 574-535- ewbollinger@goshen.edu
+
+20. Jeff Phillips
+   Email: jphillips@goshen.edu
+   Username: jphillips
+   Original line: Jeff Phillips Head Coach 574-535- jphillips@goshen.edu
+
+21. Bri Foster
+   Email: bfoster@goshen.edu
+   Username: bfoster
+   Original line: Bri Foster Assistant Coach 574-535- bfoster@goshen.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brad Stoltzfus Head Coach 574-535- bradleys@goshen.edu
+• James Stricker Pitching Coach 317-712- jastricker@goshen.edu
+• Dwight Gingerich Head Coach 574-535- dwightag@goshen.edu
+• Erik Bowen Assistant Coach 574-535- ebowen@goshen.edu
+• Tyra Carver Head Coach 574-535- tlcarver@goshen.edu
+• Jomani Thomas Assistant Coach & Recruiting Coordinator 574-535- jtthomas@goshen.edu
+• Jaime Applegate Volunteer Assistant Coach jrstack@goshen.edu
+• Thomas Applegate Volunteer Assistant Coach 574-535- taapplegate@goshen.edu
+• Scott Curtis Head Coach 574-535- scurtis@goshen.edu
+• Lisa Voyles Associate Head Coach lmvoyles@goshen.edu
+• Dan Sullivan Head Coach 574-535- desullivan@goshen.edu
+• Justin Crew Head Coach 574-535- jcrew@goshen.edu
+• Juliana Chupp Assistant Coach / Social Media Manager jalvesdasilva@goshen.edu
+• Giovanni Lopez Goalkeepers Coach gglopez@goshen.edu
+• Luke Wagner Head Coach 574-535- jlwagner@goshen.edu
+• Doug Gossman Volunteer Assistant Coach 574-535- dgossman@goshen.edu
+• Lisa Voyles Associate Head Coach lmvoyles@goshen.edu
+• Mandi Lloyd Assistant Coach (Sprints) mlloyd@goshen.edu
+• Wyatt Bollinger Head Coach 574-535- ewbollinger@goshen.edu
+• Jeff Phillips Head Coach 574-535- jphillips@goshen.edu
+• Bri Foster Assistant Coach 574-535- bfoster@goshen.edu

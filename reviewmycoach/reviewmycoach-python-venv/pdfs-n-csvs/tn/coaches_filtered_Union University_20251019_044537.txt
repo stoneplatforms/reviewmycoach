@@ -1,0 +1,53 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:38
+============================================================
+
+Total coaches found: 7
+
+PARSED ENTRIES:
+----------------------------------------
+1. Casey McGehee
+   Email: cmcgehee@uu.edu
+   Username: cmcgehee
+   Original line: Casey McGehee Baseball Head Coach cmcgehee@uu.edu 731- Fresno State 3rd Season
+
+2. Jenni Baylor
+   Email: jbaylor@uu.edu
+   Username: jbaylor
+   Original line: Jenni Baylor Cheer Coach jbaylor@uu.edu Union 4th Season
+
+3. Andy Rushing
+   Email: arushing@uu.edu
+   Username: arushing
+   Original line: Andy Rushing Golf Head Coach arushing@uu.edu 731- Union 38th Season
+
+4. Gray Campbell
+   Email: gcampbell@uu.edu
+   Username: gcampbell
+   Original line: Gray Campbell Golf Assistant Coach gcampbell@uu.edu Union 1st Season
+
+5. Sydney Sturner
+   Email: ssturner@uu.edu
+   Username: ssturner
+   Original line: Sydney Sturner Softball Head Coach ssturner@uu.edu 731- Southern 4th Season
+
+6. Mike Smith
+   Email: mjsmith@uu.edu
+   Username: mjsmith
+   Original line: Mike Smith Softball Assistant Coach mjsmith@uu.edu 731- The Master's 1st Season
+
+7. Kristen Blackburn
+   Email: kblackburn@uu.edu
+   Username: kblackburn
+   Original line: Kristen Blackburn Volleyball Head Coach kblackburn@uu.edu 731- Union 6th Season
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Casey McGehee Baseball Head Coach cmcgehee@uu.edu 731- Fresno State 3rd Season
+• Jenni Baylor Cheer Coach jbaylor@uu.edu Union 4th Season
+• Andy Rushing Golf Head Coach arushing@uu.edu 731- Union 38th Season
+• Gray Campbell Golf Assistant Coach gcampbell@uu.edu Union 1st Season
+• Sydney Sturner Softball Head Coach ssturner@uu.edu 731- Southern 4th Season
+• Mike Smith Softball Assistant Coach mjsmith@uu.edu 731- The Master's 1st Season
+• Kristen Blackburn Volleyball Head Coach kblackburn@uu.edu 731- Union 6th Season

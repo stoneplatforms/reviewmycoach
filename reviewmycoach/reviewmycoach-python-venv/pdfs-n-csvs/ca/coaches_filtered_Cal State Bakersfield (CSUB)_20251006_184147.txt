@@ -1,0 +1,167 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:47
+============================================================
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Dance
+   Email: cwitt2@csub.edu
+   Username: cwitt2
+   Original line: Head Dance Coach Courtland Witt 661-654- cwitt2@csub.edu
+
+2. Acting Head
+   Email: mscott23@csub.edu
+   Username: mscott23
+   Original line: Acting Head Coach Mike Scott mscott23@csub.edu
+
+3. Assistant Coach
+   Email: mcomnos@csub.edu
+   Username: mcomnos
+   Original line: Assistant Coach Matt Comnos mcomnos@csub.edu
+
+4. Acting Head
+   Email: mscott23@csub.edu
+   Username: mscott23
+   Original line: Acting Head Coach Mike Scott mscott23@csub.edu
+
+5. Assistant Coach
+   Email: bbarnes5@csub.edu
+   Username: bbarnes5
+   Original line: Assistant Coach Brandon Barnes bbarnes5@csub.edu
+
+6. Assistant Coach
+   Email: bwrapp@csub.edu
+   Username: bwrapp
+   Original line: Assistant Coach Brent Wrapp bwrapp@csub.edu
+
+7. Head Coach
+   Email: awideman@csub.edu
+   Username: awideman
+   Original line: Head Coach Ari Wideman awideman@csub.edu
+
+8. Associate Head
+   Email: ralvarado26@csub.edu
+   Username: ralvarado26
+   Original line: Associate Head Coach Ray Alvarado ralvarado26@csub.edu
+
+9. Assistant Coach
+   Email: fhafoka@csub.edu
+   Username: fhafoka
+   Original line: Assistant Coach Fa-Ko-Fieme'a (Me'a) Hafoka-Latu fhafoka@csub.edu She/Her/Hers
+
+10. Assistant Coach/Director
+   Email: ewarren5@csub.edu
+   Username: ewarren5
+   Original line: Assistant Coach/Director of Erika Warren ewarren5@csub.edu
+
+11. Assistant Coach/Recruiting
+   Email: mglover2@csub.edu
+   Username: mglover2
+   Original line: Assistant Coach/Recruiting Malika Glover mglover2@csub.edu
+
+12. Head Coach
+   Email: kbaxter@csub.edu
+   Username: kbaxter
+   Original line: Head Coach Katy Barrett Baxter kbaxter@csub.edu
+
+13. Head Coach
+   Email: agrant8@csub.edu
+   Username: agrant8
+   Original line: Head Coach Adam Grant agrant8@csub.edu
+
+14. Assistant Coach
+   Email: ekeogh1@csub.edu
+   Username: ekeogh1
+   Original line: Assistant Coach Ethan Keogh ekeogh1@csub.edu
+
+15. Assistant Coach
+   Email: carmendariz-flores@csub.edu
+   Username: carmendariz-flores
+   Original line: Assistant Coach (GA) Carlos Armendariz carmendariz-flores@csub.edu
+
+16. Head Coach
+   Email: wpitalo@csub.edu
+   Username: wpitalo
+   Original line: Head Coach Whitney Pitalo wpitalo@csub.edu
+
+17. Assistant Coach
+   Email: mnavarro28@csub.edu
+   Username: mnavarro28
+   Original line: Assistant Coach & Martin Navarro Jr. mnavarro28@csub.edu
+
+18. Assistant Coach
+   Email: avalentine2@csub.edu
+   Username: avalentine2
+   Original line: Assistant Coach Amanda Valentine avalentine2@csub.edu
+
+19. Graduate Assistant
+   Email: yyoggerst@csub.edu
+   Username: yyoggerst
+   Original line: Graduate Assistant Coach Yira Yoggerst yyoggerst@csub.edu
+
+20. Head Coach
+   Email: LOlivarez@csub.edu
+   Username: LOlivarez
+   Original line: Head Coach Letty Olivarez LOlivarez@csub.edu
+
+21. Diving Coach
+   Email: sheyn@csub.edu
+   Username: sheyn
+   Original line: Diving Coach Stefan Heyn sheyn@csub.edu
+
+22. Head Coach
+   Email: afulenwider@csub.edu
+   Username: afulenwider
+   Original line: Head Coach Andy Fulenwider afulenwider@csub.edu
+
+23. Co-Interim Head
+   Email: fnogueira@csub.edu
+   Username: fnogueira
+   Original line: Co-Interim Head Coach Felipe Nogueira fnogueira@csub.edu
+
+24. Co-Interim Head
+   Email: csilva-angus@csub.edu
+   Username: csilva-angus
+   Original line: Co-Interim Head Coach Cinthia Angus csilva-angus@csub.edu
+
+25. Head Coach
+   Email: lsmith82@csub.edu
+   Username: lsmith82
+   Original line: Head Coach Luke Smith lsmith82@csub.edu
+
+26. Assistant Coach
+   Email: ejames@csub.edu
+   Username: ejames
+   Original line: Assistant Coach Ernest James ejames@csub.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Dance Coach Courtland Witt 661-654- cwitt2@csub.edu
+• Acting Head Coach Mike Scott mscott23@csub.edu
+• Assistant Coach Matt Comnos mcomnos@csub.edu
+• Acting Head Coach Mike Scott mscott23@csub.edu
+• Assistant Coach Brandon Barnes bbarnes5@csub.edu
+• Assistant Coach Brent Wrapp bwrapp@csub.edu
+• Head Coach Ari Wideman awideman@csub.edu
+• Associate Head Coach Ray Alvarado ralvarado26@csub.edu
+• Assistant Coach Fa-Ko-Fieme'a (Me'a) Hafoka-Latu fhafoka@csub.edu She/Her/Hers
+• Assistant Coach/Director of Erika Warren ewarren5@csub.edu
+• Assistant Coach/Recruiting Malika Glover mglover2@csub.edu
+• Head Coach Katy Barrett Baxter kbaxter@csub.edu
+• Head Coach Adam Grant agrant8@csub.edu
+• Assistant Coach Ethan Keogh ekeogh1@csub.edu
+• Assistant Coach (GA) Carlos Armendariz carmendariz-flores@csub.edu
+• Head Coach Whitney Pitalo wpitalo@csub.edu
+• Assistant Coach & Martin Navarro Jr. mnavarro28@csub.edu
+• Assistant Coach Amanda Valentine avalentine2@csub.edu
+• Graduate Assistant Coach Yira Yoggerst yyoggerst@csub.edu
+• Head Coach Letty Olivarez LOlivarez@csub.edu
+• Diving Coach Stefan Heyn sheyn@csub.edu
+• Head Coach Andy Fulenwider afulenwider@csub.edu
+• Co-Interim Head Coach Felipe Nogueira fnogueira@csub.edu
+• Co-Interim Head Coach Cinthia Angus csilva-angus@csub.edu
+• Head Coach Luke Smith lsmith82@csub.edu
+• Assistant Coach Ernest James ejames@csub.edu

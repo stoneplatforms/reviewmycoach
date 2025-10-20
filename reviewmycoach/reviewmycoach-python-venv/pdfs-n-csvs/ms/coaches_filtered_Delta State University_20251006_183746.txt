@@ -1,0 +1,149 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:47
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rodney Batts
+   Email: rbatts@deltastate.edu
+   Username: rbatts
+   Original line: Rodney Batts Head Coach rbatts@deltastate.edu CoachRBatts
+
+2. Andy Rincker
+   Email: arincker@deltastate.edu
+   Username: arincker
+   Original line: Andy Rincker Assistant Coach | Pitchers arincker@deltastate.edu @Rinck34
+
+3. Luke Stanley
+   Email: lstanley@deltastate.edu
+   Username: lstanley
+   Original line: Luke Stanley Assistant Coach lstanley@deltastate.edu
+
+4. Mike Nienaber
+   Email: mnienaber@deltastate.edu
+   Username: mnienaber
+   Original line: Mike Nienaber Head Coach mnienaber@deltastate.edu NienaberMike
+
+5. Jonathan Knight
+   Email: jknight@deltastate.edu
+   Username: jknight
+   Original line: Jonathan Knight Assistant Coach jknight@deltastate.edu
+
+6. Tracy Stewart-Lange
+   Email: tslange@deltastate.edu
+   Username: tslange
+   Original line: Tracy Stewart-Lange Head Coach tslange@deltastate.edu
+
+7. Julie Church
+   Email: jchurch@deltastate.edu
+   Username: jchurch
+   Original line: Julie Church Assistant Coach jchurch@deltastate.edu
+
+8. Mary Elizabeth
+   Email: mbevans@deltastate.edu
+   Username: mbevans
+   Original line: Mary Elizabeth Evans Head Coach mbevans@deltastate.edu
+
+9. Britnee Smith
+   Email: besmith@deltastate.edu
+   Username: besmith
+   Original line: Britnee Smith Head Coach besmith@deltastate.edu
+
+10. Todd Cooley
+   Email: tcooley@deltastate.edu
+   Username: tcooley
+   Original line: Todd Cooley Head Coach tcooley@deltastate.edu CoachToddCooley
+
+11. Jonathan Fletcher
+   Email: jfletcher@deltastate.edu
+   Username: jfletcher
+   Original line: Jonathan Fletcher Assistant Coach | Offensive Coordinator jfletcher@deltastate.edu CoachFletch72
+
+12. Chance Alberswerth
+   Email: calberswerth@deltastate.edu
+   Username: calberswerth
+   Original line: Chance Alberswerth Assistant Coach | Defensive Coordinator calberswerth@deltastate.edu
+
+13. Alex Bell
+   Email: abell@deltastate.edu
+   Username: abell
+   Original line: Alex Bell Assistant Coach | Wide Receivers abell@deltastate.edu
+
+14. Ty Hinson
+   Email: thinson@deltastate.edu
+   Username: thinson
+   Original line: Ty Hinson Assistant Coach | RB & TE Coach thinson@deltastate.edu
+
+15. Azar Wilson
+   Email: awilson@deltastate.edu
+   Username: awilson
+   Original line: Azar Wilson Assistant Coach | Defensive Line awilson@deltastate.edu
+
+16. Isaac Samples
+   Email: Isamples@deltastate.edu
+   Username: Isamples
+   Original line: Isaac Samples Head Coach Isamples@deltastate.edu
+
+17. Austin Jackman
+   Email: atjackman@deltastate.edu
+   Username: atjackman
+   Original line: Austin Jackman Head Coach atjackman@deltastate.edu
+
+18. Chloe Kane
+   Email: ckane@deltastate.edu
+   Username: ckane
+   Original line: Chloe Kane Head Coach ckane@deltastate.edu
+
+19. Mark Shirley
+   Email: mshirley@deltastate.edu
+   Username: mshirley
+   Original line: Mark Shirley Head Coach mshirley@deltastate.edu
+
+20. Keelee Butler
+   Email: khuff@deltastate.edu
+   Username: khuff
+   Original line: Keelee Butler Assistant Coach khuff@deltastate.edu
+
+21. Trevor Loomis
+   Email: tloomis@deltastate.edu
+   Username: tloomis
+   Original line: Trevor Loomis Assistant Coach tloomis@deltastate.edu
+
+22. Julia Dilworth
+   Email: jdilworth@deltastate.edu
+   Username: jdilworth
+   Original line: Julia Dilworth Volunteer Coach jdilworth@deltastate.edu
+
+23. Will Irvin
+   Email: wirvin@deltastate.edu
+   Username: wirvin
+   Original line: Will Irvin Head Coach wirvin@deltastate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rodney Batts Head Coach rbatts@deltastate.edu CoachRBatts
+• Andy Rincker Assistant Coach | Pitchers arincker@deltastate.edu @Rinck34
+• Luke Stanley Assistant Coach lstanley@deltastate.edu
+• Mike Nienaber Head Coach mnienaber@deltastate.edu NienaberMike
+• Jonathan Knight Assistant Coach jknight@deltastate.edu
+• Tracy Stewart-Lange Head Coach tslange@deltastate.edu
+• Julie Church Assistant Coach jchurch@deltastate.edu
+• Mary Elizabeth Evans Head Coach mbevans@deltastate.edu
+• Britnee Smith Head Coach besmith@deltastate.edu
+• Todd Cooley Head Coach tcooley@deltastate.edu CoachToddCooley
+• Jonathan Fletcher Assistant Coach | Offensive Coordinator jfletcher@deltastate.edu CoachFletch72
+• Chance Alberswerth Assistant Coach | Defensive Coordinator calberswerth@deltastate.edu
+• Alex Bell Assistant Coach | Wide Receivers abell@deltastate.edu
+• Ty Hinson Assistant Coach | RB & TE Coach thinson@deltastate.edu
+• Azar Wilson Assistant Coach | Defensive Line awilson@deltastate.edu
+• Isaac Samples Head Coach Isamples@deltastate.edu
+• Austin Jackman Head Coach atjackman@deltastate.edu
+• Chloe Kane Head Coach ckane@deltastate.edu
+• Mark Shirley Head Coach mshirley@deltastate.edu
+• Keelee Butler Assistant Coach khuff@deltastate.edu
+• Trevor Loomis Assistant Coach tloomis@deltastate.edu
+• Julia Dilworth Volunteer Coach jdilworth@deltastate.edu
+• Will Irvin Head Coach wirvin@deltastate.edu

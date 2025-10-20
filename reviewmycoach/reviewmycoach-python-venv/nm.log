@@ -1,0 +1,131 @@
+-> Reading CSV: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/nm/New Mexico Athletics Directory.csv
+-> Output PDFs to: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/nm
+
+Printing completed in 44.2s
+Success: 6 | Skipped: 0 | Errors: 0
+
+Resolved URLs used:
+- New Mexico Highlands University.pdf: https://nmhuathletics.com/staff-directory?print=true
+- University of New Mexico.pdf: https://golobos.com/staff-directory?print=true
+- New Mexico State University.pdf: https://nmstatesports.com/staff-directory?print=true
+- Western New Mexico University.pdf: https://wnmumustangs.com/staff-directory?print=true
+- Eastern New Mexico University.pdf: https://goeasternathletics.com/staff-directory?print=true
+- University of the Southwest.pdf: https://uswathletics.com/staff-directory/print
+
+Parsing printed PDFs and preparing upload entries...
+✔ Total coach entries prepared: 114
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Steve Jones (smjones@nmhu.edu) → coaches/smjones
+[DRY RUN] Would create unclaimed coach profile: Austen King (aking17@live.nmhu.edu) → coaches/aking17
+[DRY RUN] Would create unclaimed coach profile: Zach Settembre (zach@nmhu.edu) → coaches/zach
+[DRY RUN] Would create unclaimed coach profile: Noah Breitenstein (noah.breitenstein@nmhu.edu) → coaches/noah.breitenstein
+[DRY RUN] Would create unclaimed coach profile: Lindsey Fearing (lfearing@nmhu.edu) → coaches/lfearing
+[DRY RUN] Would create unclaimed coach profile: Eric Benedick (ebenedick@nmhu.edu) → coaches/ebenedick
+[DRY RUN] Would create unclaimed coach profile: Bob DeVries (rdevries@nmhu.edu) → coaches/rdevries
+[DRY RUN] Would create unclaimed coach profile: Kurt Taufa'asau (kurt@nmhu.edu) → coaches/kurt
+[DRY RUN] Would create unclaimed coach profile: Robert Rodriguez (rjrodriguez@nmhu.edu) → coaches/rjrodriguez
+[DRY RUN] Would create unclaimed coach profile: Amanda Evans (amevans@nmhu.edu) → coaches/amevans
+[DRY RUN] Would create unclaimed coach profile: Anthony Evans (anthonyevans@nmhu.edu) → coaches/anthonyevans
+[DRY RUN] Would create unclaimed coach profile: Kali Pugh (kali@nmhu.edu) → coaches/kali
+[DRY RUN] Would create unclaimed coach profile: Alexis Fleischer (afleischer@nmhu.edu) → coaches/afleischer
+[DRY RUN] Would create unclaimed coach profile: Meg Grose (meggrose@nmhu.edu) → coaches/meggrose
+[DRY RUN] Would create unclaimed coach profile: Cody Cartisser (cody@nmhu.edu) → coaches/cody
+[DRY RUN] Would create unclaimed coach profile: Chris Freije (cfreije@nmhu.edu) → coaches/cfreije
+[DRY RUN] Would create unclaimed coach profile:  (cwilliams14@unm.edu) → coaches/cwilliams14
+[DRY RUN] Would create unclaimed coach profile: Tod Brown (todbrown21@unm.edu) → coaches/todbrown21
+[DRY RUN] Would create unclaimed coach profile: consent, it will be valid only in this domain. Denying consent may make related features unavailable. (mrisdon@unm.edu) → coaches/mrisdon
+[DRY RUN] Would create unclaimed coach profile: Justin Mitchell (jmitchell7@unm.edu) → coaches/jmitchell7
+[DRY RUN] Would create unclaimed coach profile: Mikey Howell (mjhowell@unm.edu) → coaches/mjhowell
+[DRY RUN] Would create unclaimed coach profile: consent, it will be valid only in this domain. Denying consent may make related features unavailable. (sstapleton1@unm.edu) → coaches/sstapleton1
+[DRY RUN] Would create unclaimed coach profile: Tom Tankelewicz (ttankelewicz@unm.edu) → coaches/ttankelewicz
+[DRY RUN] Would create unclaimed coach profile: Michael Wilder (mwilder2@unm.edu) → coaches/mwilder2
+[DRY RUN] Would create unclaimed coach profile: Mike Bradbury (loriann@unm.edu) → coaches/loriann
+[DRY RUN] Would create unclaimed coach profile: Keith Freeman (kfreeman1@unm.edu) → coaches/kfreeman1
+[DRY RUN] Would create unclaimed coach profile: Mackenzie Head (macnovak12@unm.edu) → coaches/macnovak12
+[DRY RUN] Would create unclaimed coach profile: Nike McClure (nmcclure@unm.edu) → coaches/nmcclure
+[DRY RUN] Would create unclaimed coach profile: Jason Eck (lobofb@unm.edu) → coaches/lobofb
+[DRY RUN] Would create unclaimed coach profile: Jake Harrington (jakeharrington@unm.edu) → coaches/jakeharrington
+[DRY RUN] Would create unclaimed coach profile: Jill Trujillo (jktpro@unm.edu) → coaches/jktpro
+[DRY RUN] Would create unclaimed coach profile: Hannah Ko (hko1@unm.edu) → coaches/hko1
+[DRY RUN] Would create unclaimed coach profile:  (karleyn@unm.edu) → coaches/karleyn
+[DRY RUN] Would create unclaimed coach profile: Paul Maestas (paulmaestas@unm.edu) → coaches/paulmaestas
+[DRY RUN] Would create unclaimed coach profile: Nicole Orgeron (ndickson@unm.edu) → coaches/ndickson
+[DRY RUN] Would create unclaimed coach profile: Morgan Spearman (mspearman1@unm.edu) → coaches/mspearman1
+[DRY RUN] Would create unclaimed coach profile: We (golobos.com) and selected third parties (9) collect personal information as specified in the privacy policy (rhathoot@unm.edu) → coaches/rhathoot
+[DRY RUN] Would create unclaimed coach profile: Rob Bareford (rbareford@unm.edu) → coaches/rbareford
+[DRY RUN] Would create unclaimed coach profile: Nico Acevedo (aceni1@unm.edu) → coaches/aceni1
+[DRY RUN] Would create unclaimed coach profile: Vicky Maes (maesv@unm.edu) → coaches/maesv
+[DRY RUN] Would create unclaimed coach profile: Jon Newman-Gonchar (jonnewman@unm.edu) → coaches/jonnewman
+[DRY RUN] Would create unclaimed coach profile: April Sanchez (sancapri@unm.edu) → coaches/sancapri
+[DRY RUN] Would create unclaimed coach profile:  (mattkuelpman9@unm.edu) → coaches/mattkuelpman9
+[DRY RUN] Would create unclaimed coach profile: your usage data for the following : personalised advertising and content, advertising and (bmaty1@unm.edu) → coaches/bmaty1
+[DRY RUN] Would create unclaimed coach profile: Jenna Schwartz (jschwartz0@unm.edu) → coaches/jschwartz0
+[DRY RUN] Would create unclaimed coach profile: Ryan Conan (rconan@unm.edu) → coaches/rconan
+[DRY RUN] Would create unclaimed coach profile: Kyra Mohns (kmohns@unm.edu) → coaches/kmohns
+[DRY RUN] Would create unclaimed coach profile: Jared Berryman (jberryman@unm.edu) → coaches/jberryman
+[DRY RUN] Would create unclaimed coach profile: Naya Higashĳima (naya@unm.edu) → coaches/naya
+[DRY RUN] Would create unclaimed coach profile: Jake Angier (jangier@nmsu.edu) → coaches/jangier
+[DRY RUN] Would create unclaimed coach profile: David Bellamy (dbellamy@nmsu.edu) → coaches/dbellamy
+[DRY RUN] Would create unclaimed coach profile: Dillon Leveille (dillonpl@nmsu.edu) → coaches/dillonpl
+[DRY RUN] Would create unclaimed coach profile: Camden Duzenack (camduz@nmsu.edu) → coaches/camduz
+[DRY RUN] Would create unclaimed coach profile: Jason Hooten (beckv@nmsu.edu) → coaches/beckv
+[DRY RUN] Would create unclaimed coach profile: Preston Laird (Plaird31@nmsu.edu) → coaches/Plaird31
+[DRY RUN] Would create unclaimed coach profile: Terryonte Thomas (tkthomas@nmsu.edu) → coaches/tkthomas
+[DRY RUN] Would create unclaimed coach profile: Nick Matson (Nmatson@nmsu.edu) → coaches/Nmatson
+[DRY RUN] Would create unclaimed coach profile: Shunn Buchanan (Mlbuchan@nmsu.edu) → coaches/Mlbuchan
+[DRY RUN] Would create unclaimed coach profile: Jonathan Thompson (jt828@nmsu.edu) → coaches/jt828
+[DRY RUN] Would create unclaimed coach profile: James Frey (Freyj@nmsu.edu) → coaches/Freyj
+[DRY RUN] Would create unclaimed coach profile: Preston Planells (planells@nmsu.edu) → coaches/planells
+[DRY RUN] Would create unclaimed coach profile: Kayla Tucker (ktucker@nmsu.edu) → coaches/ktucker
+[DRY RUN] Would create unclaimed coach profile: Myron Brown (mybrown@nmsu.edu) → coaches/mybrown
+[DRY RUN] Would create unclaimed coach profile: Jessica Covington (jessifra@nmsu.edu) → coaches/jessifra
+[DRY RUN] Would create unclaimed coach profile: Karah Tooley (ktooley@nmsu.edu) → coaches/ktooley
+[DRY RUN] Would create unclaimed coach profile: Tommy Escudero (thomase@nmsu.edu) → coaches/thomase
+[DRY RUN] Would create unclaimed coach profile: David Cobb (dcobb@nmsu.edu) → coaches/dcobb
+[DRY RUN] Would create unclaimed coach profile: Mike Dirks (mdirks@nmsu.edu) → coaches/mdirks
+[DRY RUN] Would create unclaimed coach profile: Mike McGilton (mcgilton@nmsu.edu) → coaches/mcgilton
+[DRY RUN] Would create unclaimed coach profile: Danny Bowen (dbowen@nmsu.edu) → coaches/dbowen
+[DRY RUN] Would create unclaimed coach profile: Valentina Origel (valeol@nmsu.edu) → coaches/valeol
+[DRY RUN] Would create unclaimed coach profile: Rob Baarts (baarts@nmsu.edu) → coaches/baarts
+[DRY RUN] Would create unclaimed coach profile: D'Angelo Garcia (dvgarcia@nmsu.edu) → coaches/dvgarcia
+[DRY RUN] Would create unclaimed coach profile: Stacie Owers (owers@nmsu.edu) → coaches/owers
+[DRY RUN] Would create unclaimed coach profile: Kathy Rodolph (aggiesb@nmsu.edu) → coaches/aggiesb
+[DRY RUN] Would create unclaimed coach profile: Benet Higgs (bhiggs@nmsu.edu) → coaches/bhiggs
+[DRY RUN] Would create unclaimed coach profile: Andrew Feild (afeild@nmsu.edu) → coaches/afeild
+[DRY RUN] Would create unclaimed coach profile: Luis Rodriguez (luisrod1@nmsu.edu) → coaches/luisrod1
+[DRY RUN] Would create unclaimed coach profile: Tyler Moore (mooret@nmsu.edu) → coaches/mooret
+[DRY RUN] Would create unclaimed coach profile: Rick Pratt (rpratt@nmsu.edu) → coaches/rpratt
+[DRY RUN] Would create unclaimed coach profile: Carlos Vargas (carvarga@nmsu.edu) → coaches/carvarga
+[DRY RUN] Would create unclaimed coach profile: Emily Wang (ecwang@nmsu.edu) → coaches/ecwang
+[DRY RUN] Would create unclaimed coach profile: Joseph Rath (rath@nmsu.edu) → coaches/rath
+[DRY RUN] Would create unclaimed coach profile: Patrick Larrison (throws@nmsu.edu) → coaches/throws
+[DRY RUN] Would create unclaimed coach profile: Mike Jordan (micjorda@nmsu.edu) → coaches/micjorda
+[DRY RUN] Would create unclaimed coach profile: Chris Hertel (chertel@nmsu.edu) → coaches/chertel
+[DRY RUN] Would create unclaimed coach profile: Chelsea Rose (chelsear@nmsu.edu) → coaches/chelsear
+[DRY RUN] Would create unclaimed coach profile: Lia Mosher (liamosh@nmsu.edu) → coaches/liamosh
+[DRY RUN] Would create unclaimed coach profile: Jen Whetten (jennifer.whetten@wnmu.edu) → coaches/jennifer.whetten
+[DRY RUN] Would create unclaimed coach profile: Mark Bunker (mark.bunker@wnmu.edu) → coaches/mark.bunker
+[DRY RUN] Would create unclaimed coach profile: Jacobe Julien (Jacobe.Julien@wnmu.edu) → coaches/Jacobe.Julien
+[DRY RUN] Would create unclaimed coach profile: Micaela Medina (medinam8@wnmu.edu) → coaches/medinam8
+[DRY RUN] Would create unclaimed coach profile: Macario Campos (teamelite@hotmail.com) → coaches/teamelite
+[DRY RUN] Would create unclaimed coach profile: Billy Hickman (William.Hickman@wnmu.edu) → coaches/William.Hickman
+[DRY RUN] Would create unclaimed coach profile: Harry O'Callaghan (wnmugolf@wnmu.edu) → coaches/wnmugolf
+[DRY RUN] Would create unclaimed coach profile: Ashley Hickman (ashley.hickman@wnmu.edu) → coaches/ashley.hickman | Phone: (575) 538-6091
+[DRY RUN] Would create unclaimed coach profile: Jeff Young (jeffery.young@wnmu.edu) → coaches/jeffery.young | Phone: (575) 538-6091
+[DRY RUN] Would create unclaimed coach profile: Jesus Baltazar (Jesus.Baltazar@wnmu.edu) → coaches/Jesus.Baltazar
+[DRY RUN] Would create unclaimed coach profile: Geno Frugoli (geno.frugoli@wnmu.edu) → coaches/geno.frugoli | Phone: (575) 538-6225
+[DRY RUN] Would create unclaimed coach profile: Jerry Hulla (Jerry.Hulla@wnmu.edu) → coaches/Jerry.Hulla
+[DRY RUN] Would create unclaimed coach profile: Amanda Fefel (amanda.fefel@enmu.edu) → coaches/amanda.fefel
+[DRY RUN] Would create unclaimed coach profile: Riley Price (riley.price@enmu.edu) → coaches/riley.price
+[DRY RUN] Would create unclaimed coach profile: Casey Claflin (casey.claflin@enmu.edu) → coaches/casey.claflin
+[DRY RUN] Would create unclaimed coach profile: Sinclair Pitts (sinclair.pitts@enmu.edu) → coaches/sinclair.pitts
+[DRY RUN] Would create unclaimed coach profile: Kelley Lee (kelley.lee@enmu.edu) → coaches/kelley.lee
+[DRY RUN] Would create unclaimed coach profile: Garrett Casteel (garrett.casteel@enmu.edu) → coaches/garrett.casteel
+[DRY RUN] Would create unclaimed coach profile: Garrett Owens (garrett.owens@enmu.edu) → coaches/garrett.owens
+[DRY RUN] Would create unclaimed coach profile: John Sharp (john.w.sharp@enmu.edu) → coaches/john.w.sharp
+[DRY RUN] Would create unclaimed coach profile: Albert Flinn (albert.flinn@enmu.edu) → coaches/albert.flinn
+[DRY RUN] Would create unclaimed coach profile: Shacie Marr (shacie.marr@enmu.edu) → coaches/shacie.marr
+[DRY RUN] Would create unclaimed coach profile: Nona Borden (nona.borden@enmu.edu) → coaches/nona.borden
+[DRY RUN] Would create unclaimed coach profile: Shanna Smith (shanna.smith@enmu.edu) → coaches/shanna.smith
+[DRY RUN] Would create unclaimed coach profile: Karli Bustos (karli.bustos@enmu.edu) → coaches/karli.bustos
+[DRY RUN] Would create unclaimed coach profile: Jorge Araiza (jorge.araiza@enmu.edu) → coaches/jorge.araiza

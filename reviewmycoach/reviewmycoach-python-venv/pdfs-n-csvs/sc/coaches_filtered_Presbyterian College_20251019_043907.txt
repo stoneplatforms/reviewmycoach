@@ -1,0 +1,311 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:08
+============================================================
+
+Total coaches found: 50
+
+PARSED ENTRIES:
+----------------------------------------
+1. Alex Logsdon
+   Email: arlogsdon@presby.edu
+   Username: arlogsdon
+   Original line: Alex Logsdon Head Strength and Conditioning Coach arlogsdon@presby.edu
+
+2. Daniel Kalai
+   Email: dkalai@presby.edu
+   Username: dkalai
+   Original line: Daniel Kalai Assistant Strength and Conditioning Coach dkalai@presby.edu
+
+3. Kara Christian
+   Email: kcmays@presby.edu
+   Username: kcmays
+   Original line: Kara Christian Head Coach 423-292- kcmays@presby.edu
+
+4. Elton Pollock
+   Email: epollock@presby.edu
+   Username: epollock
+   Original line: Elton Pollock Head Coach 864-833- epollock@presby.edu
+
+5. John O'Neil
+   Email: jroneil@presby.edu
+   Username: jroneil
+   Original line: John O'Neil Associate Head Coach 864-833- jroneil@presby.edu
+
+6. Trey Polewski
+   Email: tpolewski@presby.edu
+   Username: tpolewski
+   Original line: Trey Polewski Volunteer Assistant Coach tpolewski@presby.edu>
+
+7. Bryan Liriano-Hernandez
+   Email: blirianohernandez@presby.edu
+   Username: blirianohernandez
+   Original line: Bryan Liriano-Hernandez Pitching Coach blirianohernandez@presby.edu
+
+8. Quinton Ferrell
+   Email: qmferrell@presby.edu
+   Username: qmferrell
+   Original line: Quinton Ferrell Head Coach qmferrell@presby.edu
+
+9. Al'lonzo Coleman
+   Email: acoleman@presby.edu
+   Username: acoleman
+   Original line: Al'lonzo Coleman Assistant Coach acoleman@presby.edu
+
+10. Justin Griffith
+   Email: jgriffith@presby.edu
+   Username: jgriffith
+   Original line: Justin Griffith Assistant Coach jgriffith@presby.edu
+
+11. Rob Lane
+   Email: rlane@presby.edu
+   Username: rlane
+   Original line: Rob Lane Assistant Coach 864-200- rlane@presby.edu
+
+12. Jack Schaffner
+   Email: jschaffner@presby.edu
+   Username: jschaffner
+   Original line: Jack Schaffner DOBO/Strength & Conditioning Coach jschaffner@presby.edu
+
+13. Reverend Dr.
+   Email: bhyrams@presby.edu
+   Username: bhyrams
+   Original line: Reverend Dr. British Hyrams Team Character Coach bhyrams@presby.edu
+
+14. Tiffany Sardin
+   Email: tsardin@presby.edu
+   Username: tsardin
+   Original line: Tiffany Sardin Head Women's Basketball Coach tsardin@presby.edu
+
+15. Ivey Slaughter
+   Email: islaughter@presby.edu
+   Username: islaughter
+   Original line: Ivey Slaughter Assistant Coach islaughter@presby.edu
+
+16. Elyse Kiploks
+   Email: ekiploks@presby.edu
+   Username: ekiploks
+   Original line: Elyse Kiploks Assistant Coach ekiploks@presby.edu
+
+17. Grant Raedle
+   Email: graedle@presby.edu
+   Username: graedle
+   Original line: Grant Raedle Assistant Coach/Director of Basketball graedle@presby.edu
+
+18. Martin Henry
+   Email: mhenry@presby.edu
+   Username: mhenry
+   Original line: Martin Henry Assistant Coach mhenry@presby.edu
+
+19. Lu Steinfeldt
+   Email: alsteinfeldt@presby.edu
+   Username: alsteinfeldt
+   Original line: Lu Steinfeldt Head Competitive Cheer Coach 864-200- alsteinfeldt@presby.edu
+
+20. Renzie Pinckney
+   Email: repinckne@presby.edu
+   Username: repinckne
+   Original line: Renzie Pinckney Head Spirit Squad Coach / Assistant repinckne@presby.edu
+
+21. Steve Englehart
+   Email: englehart@presby.edu
+   Username: englehart
+   Original line: Steve Englehart Head Coach englehart@presby.edu
+
+22. Jayson Martin
+   Email: jemartin@presby.edu
+   Username: jemartin
+   Original line: Jayson Martin Assistant Head Coach / Offensive Coordinator jemartin@presby.edu
+
+23. Nolan Genovese
+   Email: ngenovese@presby.edu
+   Username: ngenovese
+   Original line: Nolan Genovese Wide Receivers Coach / Pass Game ngenovese@presby.edu
+
+24. Matt Rahl
+   Email: mjrahl@presby.edu
+   Username: mjrahl
+   Original line: Matt Rahl Offensive Line Coach / Run Game mjrahl@presby.edu
+
+25. Leroy Wilson
+   Email: lkwilson@presby.edu
+   Username: lkwilson
+   Original line: Leroy Wilson Running Backs Coach lkwilson@presby.edu
+
+26. Devin Bice
+   Email: dmbice@presby.edu
+   Username: dmbice
+   Original line: Devin Bice Tight Ends Coach / Offensive Line Coach dmbice@presby.edu
+
+27. Liam Smith
+   Email: lismith@presby.edu
+   Username: lismith
+   Original line: Liam Smith Defensive Line Coach / Recruiting lismith@presby.edu
+
+28. Chad Veccharella
+   Email: cevecchar@presby.edu
+   Username: cevecchar
+   Original line: Chad Veccharella Linebackers Coach / Director of Football cevecchar@presby.edu
+
+29. Adonis Davis
+   Email: adavis1@presby.edu
+   Username: adavis1
+   Original line: Adonis Davis Defensive Line Coach adavis1@presby.edu
+
+30. Tucker Queen
+   Email: tcqueen@presby.edu
+   Username: tcqueen
+   Original line: Tucker Queen Defensive Backs Coach / Video Coordinator tcqueen@presby.edu
+
+31. Thomas Addison
+   Email: teaddiso@presby.edu
+   Username: teaddiso
+   Original line: Thomas Addison Head Coach 864-833- teaddiso@presby.edu
+
+32. Columb Knight
+   Email: cjknight@presby.edu
+   Username: cjknight
+   Original line: Columb Knight Head Coach cjknight@presby.edu
+
+33. Eric Clakeley
+   Email: eclakeley@presby.edu
+   Username: eclakeley
+   Original line: Eric Clakeley Head Coach 864-833- eclakeley@presby.edu
+
+34. Lauren Chong
+   Email: lchong@presby.edu
+   Username: lchong
+   Original line: Lauren Chong Assistant Coach lchong@presby.edu
+
+35. Nick Finotti
+   Email: nafinotti@presby.edu
+   Username: nafinotti
+   Original line: Nick Finotti Head Coach 864-833- nafinotti@presby.edu
+
+36. Jake Douvas
+   Email: jdouvas@presby.edu
+   Username: jdouvas
+   Original line: Jake Douvas Assistant Coach jdouvas@presby.edu
+
+37. Rich Weber
+   Email: richweber@presby.edu
+   Username: richweber
+   Original line: Rich Weber Volunteer Assistant Coach richweber@presby.edu
+
+38. Matt Smith
+   Email: mrsmith@presby.edu
+   Username: mrsmith
+   Original line: Matt Smith Head Women's Soccer Coach 864-833- mrsmith@presby.edu
+
+39. Bradley Anderson
+   Email: banderson@presby.edu
+   Username: banderson
+   Original line: Bradley Anderson Assistant Women's Soccer Coach banderson@presby.edu
+
+40. David Williams
+   Email: dawilliam@presby.edu
+   Username: dawilliam
+   Original line: David Williams Head Coach 864-833- dawilliam@presby.edu
+
+41. Korynna Anderson
+   Email: kanderson1@presby.edu
+   Username: kanderson1
+   Original line: Korynna Anderson Assistant Coach kanderson1@presby.edu
+
+42. Juan Pablo
+   Email: jpboada@presby.edu
+   Username: jpboada
+   Original line: Juan Pablo Boada Head Coach 864-938- jpboada@presby.edu
+
+43. Joel Roberts
+   Email: jroberts@presby.edu
+   Username: jroberts
+   Original line: Joel Roberts Head Coach 864-833- jroberts@presby.edu
+
+44. Maddie Moss
+   Email: mmoss@presby.edu
+   Username: mmoss
+   Original line: Maddie Moss Head Coach mmoss@presby.edu
+
+45. Kim Meadows
+   Email: kmeadows@presby.edu
+   Username: kmeadows
+   Original line: Kim Meadows Assistant Coach kmeadows@presby.edu
+
+46. Mark Cody
+   Email: mcody@presby.edu
+   Username: mcody
+   Original line: Mark Cody Head Men's Wrestling Coach mcody@presby.edu
+
+47. Anthony Esposito
+   Email: acesposito@presby.edu
+   Username: acesposito
+   Original line: Anthony Esposito Volunteer Assistant Coach acesposito@presby.edu
+
+48. Sidney Flores
+   Email: sidneyflores@presby.edu
+   Username: sidneyflores
+   Original line: Sidney Flores Volunteer Assistant Coach sidneyflores@presby.edu
+
+49. Brian Vutianitis
+   Email: Bvutianit@presby.edu
+   Username: Bvutianit
+   Original line: Brian Vutianitis Head Women's Wrestling Coach 845-549- Bvutianit@presby.edu
+
+50. Patrik Garren
+   Email: pgarren@presby.edu
+   Username: pgarren
+   Original line: Patrik Garren Volunteer Assistant Coach pgarren@presby.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Alex Logsdon Head Strength and Conditioning Coach arlogsdon@presby.edu
+• Daniel Kalai Assistant Strength and Conditioning Coach dkalai@presby.edu
+• Kara Christian Head Coach 423-292- kcmays@presby.edu
+• Elton Pollock Head Coach 864-833- epollock@presby.edu
+• John O'Neil Associate Head Coach 864-833- jroneil@presby.edu
+• Trey Polewski Volunteer Assistant Coach tpolewski@presby.edu>
+• Bryan Liriano-Hernandez Pitching Coach blirianohernandez@presby.edu
+• Quinton Ferrell Head Coach qmferrell@presby.edu
+• Al'lonzo Coleman Assistant Coach acoleman@presby.edu
+• Justin Griffith Assistant Coach jgriffith@presby.edu
+• Rob Lane Assistant Coach 864-200- rlane@presby.edu
+• Jack Schaffner DOBO/Strength & Conditioning Coach jschaffner@presby.edu
+• Reverend Dr. British Hyrams Team Character Coach bhyrams@presby.edu
+• Tiffany Sardin Head Women's Basketball Coach tsardin@presby.edu
+• Ivey Slaughter Assistant Coach islaughter@presby.edu
+• Elyse Kiploks Assistant Coach ekiploks@presby.edu
+• Grant Raedle Assistant Coach/Director of Basketball graedle@presby.edu
+• Martin Henry Assistant Coach mhenry@presby.edu
+• Lu Steinfeldt Head Competitive Cheer Coach 864-200- alsteinfeldt@presby.edu
+• Renzie Pinckney Head Spirit Squad Coach / Assistant repinckne@presby.edu
+• Steve Englehart Head Coach englehart@presby.edu
+• Jayson Martin Assistant Head Coach / Offensive Coordinator jemartin@presby.edu
+• Nolan Genovese Wide Receivers Coach / Pass Game ngenovese@presby.edu
+• Matt Rahl Offensive Line Coach / Run Game mjrahl@presby.edu
+• Leroy Wilson Running Backs Coach lkwilson@presby.edu
+• Devin Bice Tight Ends Coach / Offensive Line Coach dmbice@presby.edu
+• Liam Smith Defensive Line Coach / Recruiting lismith@presby.edu
+• Chad Veccharella Linebackers Coach / Director of Football cevecchar@presby.edu
+• Adonis Davis Defensive Line Coach adavis1@presby.edu
+• Tucker Queen Defensive Backs Coach / Video Coordinator tcqueen@presby.edu
+• Thomas Addison Head Coach 864-833- teaddiso@presby.edu
+• Columb Knight Head Coach cjknight@presby.edu
+• Eric Clakeley Head Coach 864-833- eclakeley@presby.edu
+• Lauren Chong Assistant Coach lchong@presby.edu
+• Nick Finotti Head Coach 864-833- nafinotti@presby.edu
+• Jake Douvas Assistant Coach jdouvas@presby.edu
+• Rich Weber Volunteer Assistant Coach richweber@presby.edu
+• Matt Smith Head Women's Soccer Coach 864-833- mrsmith@presby.edu
+• Bradley Anderson Assistant Women's Soccer Coach banderson@presby.edu
+• David Williams Head Coach 864-833- dawilliam@presby.edu
+• Korynna Anderson Assistant Coach kanderson1@presby.edu
+• Juan Pablo Boada Head Coach 864-938- jpboada@presby.edu
+• Joel Roberts Head Coach 864-833- jroberts@presby.edu
+• Maddie Moss Head Coach mmoss@presby.edu
+• Kim Meadows Assistant Coach kmeadows@presby.edu
+• Mark Cody Head Men's Wrestling Coach mcody@presby.edu
+• Anthony Esposito Volunteer Assistant Coach acesposito@presby.edu
+• Sidney Flores Volunteer Assistant Coach sidneyflores@presby.edu
+• Brian Vutianitis Head Women's Wrestling Coach 845-549- Bvutianit@presby.edu
+• Patrik Garren Volunteer Assistant Coach pgarren@presby.edu

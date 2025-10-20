@@ -1,0 +1,149 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:42
+============================================================
+
+Total coaches found: 20
+
+PARSED ENTRIES:
+----------------------------------------
+1. Zach Ullrich
+   Email: zullrich@cbu.edu
+   Username: zullrich
+   Phone: (901) 321-3497
+   Original line: Zach Ullrich Head Baseball Coach/Assistant Director of Athletics for Facilities & zullrich@cbu.edu 901-321-3497
+
+2. Joseph Avendano
+   Email: javenda1@cbu.edu
+   Username: javenda1
+   Phone: (901) 321-4442
+   Original line: Joseph Avendano Strength & Conditioning Coach javenda1@cbu.edu 901-321-4442
+
+3. Zach Ullrich
+   Email: zullrich@cbu.edu
+   Username: zullrich
+   Phone: (901) 321-3497
+   Original line: Zach Ullrich Head Baseball Coach/Assistant Director of Athletics for Facilities & zullrich@cbu.edu 901-321-3497
+
+4. Andrew Sharp
+   Email: jsharp7@cbu.edu
+   Username: jsharp7
+   Phone: (901) 321-3497
+   Original line: Andrew Sharp Assistant Baseball Coach jsharp7@cbu.edu 901-321-3497
+
+5. John T.
+   Email: jreilly1@cbu.edu
+   Username: jreilly1
+   Phone: (901) 321-3372
+   Original line: John T. Reilly Head Men's Basketball Coach jreilly1@cbu.edu 901-321-3372
+
+6. Chris Davis
+   Email: cdavis49@cbu.edu
+   Username: cdavis49
+   Phone: (901) 321-3372
+   Original line: Chris Davis Assistant Men's Basketball Coach cdavis49@cbu.edu 901-321-3372
+
+7. Dominic Tomich
+   Email: dtomich@cbu.edu
+   Username: dtomich
+   Phone: (901) 321-3372
+   Original line: Dominic Tomich Volunteer Assistant Men's Basketball Coach dtomich@cbu.edu 901-321-3372
+
+8. Samantha Davidson
+   Email: sdavids1@cbu.edu
+   Username: sdavids1
+   Original line: Samantha Davidson Women's Head Basketball Coach sdavids1@cbu.edu
+
+9. Enda Crehan
+   Email: ecrehan@cbu.edu
+   Username: ecrehan
+   Phone: (901) 321-3377
+   Original line: Enda Crehan Head Men's Soccer Coach ecrehan@cbu.edu 901-321-3377
+
+10. James Hogan
+   Email: jhogan1@cbu.edu
+   Username: jhogan1
+   Phone: (901) 321-3377
+   Original line: James Hogan Graduate Assistant Men's Soccer Coach jhogan1@cbu.edu 901-321-3377
+
+11. Julia Osmond
+   Email: josmond@cbu.edu
+   Username: josmond
+   Phone: (901) 321-3361
+   Original line: Julia Osmond Head Women's Soccer Coach josmond@cbu.edu 901-321-3361
+
+12. Ashton Shields
+   Email: ashield3@cbu.edu
+   Username: ashield3
+   Phone: (901) 321-3361
+   Original line: Ashton Shields Assistant Women's Soccer Coach ashield3@cbu.edu 901-321-3361
+
+13. Luke Andrews
+   Email: landrew3@cbu.edu
+   Username: landrew3
+   Phone: (901) 321-3361
+   Original line: Luke Andrews Assistant Women's Soccer Coach landrew3@cbu.edu 901-321-3361
+
+14. Tara Wheeler
+   Email: twheele1@cbu.edu
+   Username: twheele1
+   Phone: (901) 321-3376
+   Original line: Tara Wheeler Head Softball Coach twheele1@cbu.edu 901-321-3376
+
+15. Bryanna Castro
+   Email: bcastro@cbu.edu
+   Username: bcastro
+   Phone: (901) 321-3376
+   Original line: Bryanna Castro Assistant Softball Coach bcastro@cbu.edu 901-321-3376
+
+16. Giovanni Plater
+   Email: Gplater@cbu.com
+   Username: Gplater
+   Original line: Giovanni Plater Head Men's & Women Tennis Coach Gplater@cbu.com
+
+17. Lashaunda Spurgeon
+   Email: lspurgeo@cbu.edu
+   Username: lspurgeo
+   Phone: (901) 321-3371
+   Original line: Lashaunda Spurgeon Head Volleyball Coach lspurgeo@cbu.edu 901-321-3371
+
+18. Victoria Jackson
+   Email: victoria.jackson@cbu.edu
+   Username: victoria.jackson
+   Phone: (901) 321-3369
+   Original line: Victoria Jackson Head Golf Coach victoria.jackson@cbu.edu 901-321-3369
+
+19. Bill Hoffman
+   Email: bhoffman@cbu.edu
+   Username: bhoffman
+   Phone: (901) 321-3495
+   Original line: Bill Hoffman Head Men's & Women's Cross Country Coach bhoffman@cbu.edu 901-321-3495
+
+20. Jourdan Doffeny
+   Email: jdoffeny@cbu.edu
+   Username: jdoffeny
+   Phone: (901) 321-3495
+   Original line: Jourdan Doffeny Head Track & Field Coach | Student-Athlete Advisory Committee (SAAC) jdoffeny@cbu.edu 901-321-3495
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Zach Ullrich Head Baseball Coach/Assistant Director of Athletics for Facilities & zullrich@cbu.edu 901-321-3497
+• Joseph Avendano Strength & Conditioning Coach javenda1@cbu.edu 901-321-4442
+• Zach Ullrich Head Baseball Coach/Assistant Director of Athletics for Facilities & zullrich@cbu.edu 901-321-3497
+• Andrew Sharp Assistant Baseball Coach jsharp7@cbu.edu 901-321-3497
+• John T. Reilly Head Men's Basketball Coach jreilly1@cbu.edu 901-321-3372
+• Chris Davis Assistant Men's Basketball Coach cdavis49@cbu.edu 901-321-3372
+• Dominic Tomich Volunteer Assistant Men's Basketball Coach dtomich@cbu.edu 901-321-3372
+• Samantha Davidson Women's Head Basketball Coach sdavids1@cbu.edu
+• Enda Crehan Head Men's Soccer Coach ecrehan@cbu.edu 901-321-3377
+• James Hogan Graduate Assistant Men's Soccer Coach jhogan1@cbu.edu 901-321-3377
+• Julia Osmond Head Women's Soccer Coach josmond@cbu.edu 901-321-3361
+• Ashton Shields Assistant Women's Soccer Coach ashield3@cbu.edu 901-321-3361
+• Luke Andrews Assistant Women's Soccer Coach landrew3@cbu.edu 901-321-3361
+• Tara Wheeler Head Softball Coach twheele1@cbu.edu 901-321-3376
+• Bryanna Castro Assistant Softball Coach bcastro@cbu.edu 901-321-3376
+• Giovanni Plater Head Men's & Women Tennis Coach Gplater@cbu.com
+• Lashaunda Spurgeon Head Volleyball Coach lspurgeo@cbu.edu 901-321-3371
+• Victoria Jackson Head Golf Coach victoria.jackson@cbu.edu 901-321-3369
+• Bill Hoffman Head Men's & Women's Cross Country Coach bhoffman@cbu.edu 901-321-3495
+• Jourdan Doffeny Head Track & Field Coach | Student-Athlete Advisory Committee (SAAC) jdoffeny@cbu.edu 901-321-3495

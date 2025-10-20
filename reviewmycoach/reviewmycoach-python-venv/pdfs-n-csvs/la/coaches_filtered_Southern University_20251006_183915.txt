@@ -1,0 +1,221 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:16
+============================================================
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chris Crenshaw
+   Email: christopher_crenshaw@subr.edu
+   Username: christopher_crenshaw
+   Original line: Chris Crenshaw Head Coach 225-771- christopher_crenshaw@subr.edu
+
+2. TJ Perkins
+   Email: theodore_perkins@subr.edu
+   Username: theodore_perkins
+   Original line: TJ Perkins Assistant Coach 225-771 theodore_perkins@subr.edu
+
+3. Brock Bond
+   Email: brock.bond@sus.edu
+   Username: brock.bond
+   Original line: Brock Bond Assistant Coach 225-771- brock.bond@sus.edu
+
+4. Jethro Hillman
+   Email: jethro_hillman@subr.edu
+   Username: jethro_hillman
+   Original line: Jethro Hillman Assistant Coach 225-771- jethro_hillman@subr.edu
+
+5. Carlos Funchess
+   Email: carlos_funchess@subr.edu
+   Username: carlos_funchess
+   Original line: Carlos Funchess Head Coach 225-771- carlos_funchess@subr.edu
+
+6. Jeremy Bonin
+   Email: jeremy_bonin@subr.edu
+   Username: jeremy_bonin
+   Original line: Jeremy Bonin Assistant Coach 225-771- jeremy_bonin@subr.edu
+
+7. Patrece Carter
+   Email: patrece.carter@sus.edu
+   Username: patrece.carter
+   Original line: Patrece Carter Assistant Coach | Recruiting Coordinator 225-771- patrece.carter@sus.edu
+
+8. TJ Pugh
+   Email: thomas_pugh@subr.edu
+   Username: thomas_pugh
+   Original line: TJ Pugh Assistant Coach 225-771 thomas_pugh@subr.edu
+
+9. Barry Doyle
+   Email: barry.doyle@subr.edu
+   Username: barry.doyle
+   Original line: Barry Doyle Head Coach 225-771- barry.doyle@subr.edu
+
+10. Teremine White
+   Email: teremine_white@subr.edu
+   Username: teremine_white
+   Original line: Teremine White Head Coach 225-771- teremine_white@subr.edu
+
+11. Courtney Ware
+   Email: courtney_ware@subr.edu
+   Username: courtney_ware
+   Original line: Courtney Ware Assistant Coach 225-771- courtney_ware@subr.edu
+
+12. Freddie Glover
+   Email: freddie_glover@subr.edu
+   Username: freddie_glover
+   Original line: Freddie Glover Assistant Coach 225-771- freddie_glover@subr.edu
+
+13. Terrence Graves
+   Email: terrence_graves@subr.edu
+   Username: terrence_graves
+   Original line: Terrence Graves Head Coach 225-771- terrence_graves@subr.edu
+
+14. Henry Miller
+   Email: henry.miller@subr.edu
+   Username: henry.miller
+   Original line: Henry Miller Defensive Coordinator | Corners Coach 225-771- henry.miller@subr.edu
+
+15. Damon Nivens
+   Email: damon.nivens@subr.edu
+   Username: damon.nivens
+   Original line: Damon Nivens Offensive Line Coach 225-771 damon.nivens@subr.edu
+
+16. Lemuel Stinson
+   Email: lemuel.stinson@sus.edu
+   Username: lemuel.stinson
+   Original line: Lemuel Stinson Safeties Coach lemuel.stinson@sus.edu
+
+17. Damarcus Miller
+   Email: damarcus.miller@subr.edu
+   Username: damarcus.miller
+   Original line: Damarcus Miller Defensive Tackle Coach 225-771 damarcus.miller@subr.edu
+
+18. Jeremy Fontenot
+   Email: jeremy_fontenot@subr.edu
+   Username: jeremy_fontenot
+   Original line: Jeremy Fontenot Head Coach 225-771- jeremy_fontenot@subr.edu
+
+19. Sheneaka Wright
+   Email: sheneaka.wright@sus.edu
+   Username: sheneaka.wright
+   Original line: Sheneaka Wright Associate Head Coach 225-771- sheneaka.wright@sus.edu
+
+20. Gian McCann
+   Email: gian.mccann@sus.edu
+   Username: gian.mccann
+   Original line: Gian McCann Volunteer Assistant Coach 225-771- gian.mccann@sus.edu
+
+21. Brittney Williams
+   Email: brittney.williams01@sus.edu
+   Username: brittney.williams01
+   Original line: Brittney Williams Head Coach 225-771- brittney.williams01@sus.edu
+
+22. Jessie Watts
+   Email: jessie.watts@sus.edu
+   Username: jessie.watts
+   Original line: Jessie Watts Assistant Coach 225-771 jessie.watts@sus.edu
+
+23. Joshua Sanford
+   Email: joshua.sanford@sus.edu
+   Username: joshua.sanford
+   Original line: Joshua Sanford Assistant Coach 225-771- joshua.sanford@sus.edu
+
+24. Jeffrey Conyers
+   Email: jeffrey_conyers@subr.edu
+   Username: jeffrey_conyers
+   Original line: Jeffrey Conyers Head Coach 225-771- jeffrey_conyers@subr.edu
+
+25. Teremine White
+   Email: teremine_white@subr.edu
+   Username: teremine_white
+   Original line: Teremine White Head Coach 225-771- teremine_white@subr.edu
+
+26. Freddie Glover
+   Email: freddie_glover@subr.edu
+   Username: freddie_glover
+   Original line: Freddie Glover Assistant Coach 225-771- freddie_glover@subr.edu
+
+27. Courtney Ware
+   Email: courtney_ware@subr.edu
+   Username: courtney_ware
+   Original line: Courtney Ware Assistant Coach 225-771- courtney_ware@subr.edu
+
+28. Esau Lois
+   Email: esau_lolis@subr.edu
+   Username: esau_lolis
+   Original line: Esau Lois Assistant Coach 225-771 esau_lolis@subr.edu
+
+29. Dawn Barnes
+   Email: dawn.barnes@sus.edu
+   Username: dawn.barnes
+   Original line: Dawn Barnes Head Coach 225-771- dawn.barnes@sus.edu
+
+30. Jeremiah Estes
+   Email: jeremiah.estes@sus.edu
+   Username: jeremiah.estes
+   Original line: Jeremiah Estes Associate Head Volleyball Coach 225-771- jeremiah.estes@sus.edu
+
+31. Floyd Sias
+   Email: floyd.sias@subr.edu
+   Username: floyd.sias
+   Original line: Floyd Sias Head Cheerleading Coach 225-771- floyd.sias@subr.edu
+
+32. Bobby Pope
+   Email: bobby.pope@sus.edu
+   Username: bobby.pope
+   Original line: Bobby Pope Head Golf Coach bobby.pope@sus.edu
+
+33. Phil Smith
+   Email: philsmithbr@gmail.com
+   Username: philsmithbr
+   Original line: Phil Smith Assistant Golf Coach philsmithbr@gmail.com
+
+34. Bobby Pope
+   Email: bobby.pope@sus.edu
+   Username: bobby.pope
+   Original line: Bobby Pope Head Golf Coach bobby.pope@sus.edu
+
+35. Phil Smith
+   Email: philsmithbr@gmail.com
+   Username: philsmithbr
+   Original line: Phil Smith Assistant Golf Coach philsmithbr@gmail.com
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chris Crenshaw Head Coach 225-771- christopher_crenshaw@subr.edu
+• TJ Perkins Assistant Coach 225-771 theodore_perkins@subr.edu
+• Brock Bond Assistant Coach 225-771- brock.bond@sus.edu
+• Jethro Hillman Assistant Coach 225-771- jethro_hillman@subr.edu
+• Carlos Funchess Head Coach 225-771- carlos_funchess@subr.edu
+• Jeremy Bonin Assistant Coach 225-771- jeremy_bonin@subr.edu
+• Patrece Carter Assistant Coach | Recruiting Coordinator 225-771- patrece.carter@sus.edu
+• TJ Pugh Assistant Coach 225-771 thomas_pugh@subr.edu
+• Barry Doyle Head Coach 225-771- barry.doyle@subr.edu
+• Teremine White Head Coach 225-771- teremine_white@subr.edu
+• Courtney Ware Assistant Coach 225-771- courtney_ware@subr.edu
+• Freddie Glover Assistant Coach 225-771- freddie_glover@subr.edu
+• Terrence Graves Head Coach 225-771- terrence_graves@subr.edu
+• Henry Miller Defensive Coordinator | Corners Coach 225-771- henry.miller@subr.edu
+• Damon Nivens Offensive Line Coach 225-771 damon.nivens@subr.edu
+• Lemuel Stinson Safeties Coach lemuel.stinson@sus.edu
+• Damarcus Miller Defensive Tackle Coach 225-771 damarcus.miller@subr.edu
+• Jeremy Fontenot Head Coach 225-771- jeremy_fontenot@subr.edu
+• Sheneaka Wright Associate Head Coach 225-771- sheneaka.wright@sus.edu
+• Gian McCann Volunteer Assistant Coach 225-771- gian.mccann@sus.edu
+• Brittney Williams Head Coach 225-771- brittney.williams01@sus.edu
+• Jessie Watts Assistant Coach 225-771 jessie.watts@sus.edu
+• Joshua Sanford Assistant Coach 225-771- joshua.sanford@sus.edu
+• Jeffrey Conyers Head Coach 225-771- jeffrey_conyers@subr.edu
+• Teremine White Head Coach 225-771- teremine_white@subr.edu
+• Freddie Glover Assistant Coach 225-771- freddie_glover@subr.edu
+• Courtney Ware Assistant Coach 225-771- courtney_ware@subr.edu
+• Esau Lois Assistant Coach 225-771 esau_lolis@subr.edu
+• Dawn Barnes Head Coach 225-771- dawn.barnes@sus.edu
+• Jeremiah Estes Associate Head Volleyball Coach 225-771- jeremiah.estes@sus.edu
+• Floyd Sias Head Cheerleading Coach 225-771- floyd.sias@subr.edu
+• Bobby Pope Head Golf Coach bobby.pope@sus.edu
+• Phil Smith Assistant Golf Coach philsmithbr@gmail.com
+• Bobby Pope Head Golf Coach bobby.pope@sus.edu
+• Phil Smith Assistant Golf Coach philsmithbr@gmail.com

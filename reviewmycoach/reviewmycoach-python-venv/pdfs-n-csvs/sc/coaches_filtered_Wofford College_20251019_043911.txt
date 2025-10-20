@@ -1,0 +1,281 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:11
+============================================================
+
+Total coaches found: 45
+
+PARSED ENTRIES:
+----------------------------------------
+1. Talicia Murphy-Dawson
+   Email: MurphyDawsonT@wofford.edu
+   Username: MurphyDawsonT
+   Original line: Talicia Murphy-Dawson Cheerleading Coach MurphyDawsonT@wofford.edu
+
+2. Olivia Lewis
+   Email: lewisog@wofford.edu
+   Username: lewisog
+   Original line: Olivia Lewis Assistant Cheerleading Coach lewisog@wofford.edu
+
+3. Christi Stanton
+   Email: stantoncm@wofford.edu
+   Username: stantoncm
+   Original line: Christi Stanton Dance Coach stantoncm@wofford.edu
+
+4. Jordan Sisk
+   Email: siskjl@wofford.edu
+   Username: siskjl
+   Original line: Jordan Sisk Assistant Dance Coach siskjl@wofford.edu
+
+5. J.J. Edwards
+   Email: edwardsje@wofford.edu
+   Username: edwardsje
+   Original line: J.J. Edwards Head Baseball Coach edwardsje@wofford.edu 4499
+
+6. Pat Brown
+   Email: brownpr1@wofford.edu
+   Username: brownpr1
+   Original line: Pat Brown Associate Head Baseball Coach brownpr1@wofford.edu 4497
+
+7. Hudson Byorick
+   Email: byorickhg@wofford.edu
+   Username: byorickhg
+   Original line: Hudson Byorick Assistant Baseball Coach byorickhg@wofford.edu 4084
+
+8. Frederic Reynolds
+   Email: reynoldsfw@wofford.edu
+   Username: reynoldsfw
+   Original line: Frederic Reynolds Assistant Baseball Coach reynoldsfw@wofford.edu 4087
+
+9. Drew Gibson
+   Email: gibsondm@wofford.edu
+   Username: gibsondm
+   Original line: Drew Gibson Assistant Men's Basketball Coach gibsondm@wofford.edu 4158
+
+10. Trent Patterson
+   Email: pattersontm@wofford.edu
+   Username: pattersontm
+   Original line: Trent Patterson Assistant Men's Basketball Coach pattersontm@wofford.edu
+
+11. Jeremiah Samarrippas
+   Email: samarrippasja@wofford.edu
+   Username: samarrippasja
+   Original line: Jeremiah Samarrippas Assistant Men's Basketball Coach samarrippasja@wofford.edu 4115
+
+12. Jimmy Garrity
+   Email: garrityjj@wofford.edu
+   Username: garrityjj
+   Original line: Jimmy Garrity Head Women's Basketball Coach garrityjj@wofford.edu 4151
+
+13. Mike Merrill
+   Email: merrillma@wofford.edu
+   Username: merrillma
+   Original line: Mike Merrill Associate Head Women's Basketball Coach merrillma@wofford.edu 4119
+
+14. Trent Bunn
+   Email: bunnwt@wofford.edu
+   Username: bunnwt
+   Original line: Trent Bunn Assistant Women's Basketball Coach/Recruiting Coordinator bunnwt@wofford.edu 4122
+
+15. Destiny Thomas
+   Email: thomasdt@wofford.edu
+   Username: thomasdt
+   Original line: Destiny Thomas Assistant Women's Basketball Coach/Recruiting Operations thomasdt@wofford.edu 4121
+
+16. Johnny Bomar
+   Email: bomarjc@wofford.edu
+   Username: bomarjc
+   Original line: Johnny Bomar Head Cross Country/Track and Field Coach bomarjc@wofford.edu 4109
+
+17. Robert Gallinger
+   Email: gallingerrg@wofford.edu
+   Username: gallingerrg
+   Original line: Robert Gallinger Assistant Cross Country and Track Coach gallingerrg@wofford.edu 4805
+
+18. Mitch Doolittle
+   Email: doolittlemr@wofford.edu
+   Username: doolittlemr
+   Original line: Mitch Doolittle Assistant Head Coach/Co-Defensive Coordinator/Inside Linebackers doolittlemr@wofford.edu 4169
+
+19. Peter Collins
+   Email: collinspb@wofford.edu
+   Username: collinspb
+   Original line: Peter Collins Tight Ends Coach collinspb@wofford.edu 4111
+
+20. Shaw Crocker
+   Email: crockerds@wofford.edu
+   Username: crockerds
+   Original line: Shaw Crocker Quarterbacks Coach crockerds@wofford.edu
+
+21. Brandon Napoleon
+   Email: napoleonbe@wofford.edu
+   Username: napoleonbe
+   Original line: Brandon Napoleon Cornerbacks Coach napoleonbe@wofford.edu 4148
+
+22. Michaelee Harris
+   Email: harrismi@wofford.edu
+   Username: harrismi
+   Original line: Michaelee Harris Wide Receivers Coach/Recruiting Coordinator harrismi@wofford.edu 4106
+
+23. Senorise Perry
+   Email: perrysm@wofford.edu
+   Username: perrysm
+   Original line: Senorise Perry Running Backs Coach/Pro Liaison perrysm@wofford.edu 4118
+
+24. Devin Watson
+   Email: watsonad@wofford.edu
+   Username: watsonad
+   Original line: Devin Watson Defensive Backs Coach/Recruiting watsonad@wofford.edu 4108
+
+25. Corey Woods
+   Email: woodsca@wofford.edu
+   Username: woodsca
+   Original line: Corey Woods Offensive Line Coach woodsca@wofford.edu 4104
+
+26. Todd Eckstein
+   Email: ecksteintf@wofford.edu
+   Username: ecksteintf
+   Original line: Todd Eckstein Head Men's Golf Coach ecksteintf@wofford.edu 4493
+
+27. Angie Ridgeway
+   Email: Ridgewayaj@wofford.edu
+   Username: Ridgewayaj
+   Original line: Angie Ridgeway Head Women's Golf Coach Ridgewayaj@wofford.edu 4495
+
+28. Jessie Aguglia
+   Email: agugliajm@wofford.edu
+   Username: agugliajm
+   Original line: Jessie Aguglia Head Coach Women's Lacrosse agugliajm@wofford.edu 4486
+
+29. Eilish Gately
+   Email: gatelyee@wofford.edu
+   Username: gatelyee
+   Original line: Eilish Gately Assistant Women's Lacrosse Coach gatelyee@wofford.edu 5342
+
+30. Seth Flanagan
+   Email: Rifle@wofford.edu
+   Username: Rifle
+   Original line: Seth Flanagan Head Rifle Coach Rifle@wofford.edu 4047
+
+31. Ryan Osborne
+   Email: osbornera@wofford.edu
+   Username: osbornera
+   Original line: Ryan Osborne Head Men's Soccer Coach osbornera@wofford.edu 4125
+
+32. Mac Thomalla
+   Email: thomallacf@wofford.edu
+   Username: thomallacf
+   Original line: Mac Thomalla Assistant Men's Soccer Coach thomallacf@wofford.edu 4123
+
+33. Joey Backhaus
+   Email: backhausjm@wofford.edu
+   Username: backhausjm
+   Original line: Joey Backhaus Assistant Men's Soccer Coach backhausjm@wofford.edu
+
+34. Kevin Dempsey
+   Email: dempseyke@wofford.edu
+   Username: dempseyke
+   Original line: Kevin Dempsey Head Women's Soccer Coach dempseyke@wofford.edu 4124
+
+35. Stephen Lee
+   Email: leesr@wofford.edu
+   Username: leesr
+   Original line: Stephen Lee Assistant Women's Soccer Coach leesr@wofford.edu 4153
+
+36. Chelsea Butler
+   Email: butlercv@wofford.edu
+   Username: butlercv
+   Original line: Chelsea Butler Head Softball Coach butlercv@wofford.edu 4192
+
+37. Kara Shutt
+   Email: shuttkl@wofford.edu
+   Username: shuttkl
+   Original line: Kara Shutt Associate Head Softball Coach shuttkl@wofford.edu 4025
+
+38. Taylor Liguori
+   Email: liguoritk@wofford.edu
+   Username: liguoritk
+   Original line: Taylor Liguori Assistant Softball Coach liguoritk@wofford.edu 4106
+
+39. Mark Line
+   Email: linemd@wofford.edu
+   Username: linemd
+   Original line: Mark Line Assistant Softball Coach linemd@wofford.edu 4097
+
+40. Rod Ray
+   Email: Rayra@wofford.edu
+   Username: Rayra
+   Original line: Rod Ray Head Men's Tennis Coach Rayra@wofford.edu 4154
+
+41. Krissy Hall
+   Email: hallkm@wofford.edu
+   Username: hallkm
+   Original line: Krissy Hall Head Women's Tennis Coach hallkm@wofford.edu 4150
+
+42. Lynze Roos
+   Email: RoosLL@wofford.edu
+   Username: RoosLL
+   Original line: Lynze Roos Head Volleyball Coach RoosLL@wofford.edu 4152
+
+43. Ladislav Lelkes
+   Email: lelkesl@wofford.edu
+   Username: lelkesl
+   Original line: Ladislav Lelkes Associate Head Coach/Recruiting Coordinator lelkesl@wofford.edu 5325
+
+44. Emma McElveen
+   Email: mcelveenej@wofford.edu
+   Username: mcelveenej
+   Original line: Emma McElveen Assistant Coach mcelveenej@wofford.edu 4155
+
+45. Isaac Scruggs
+   Email: scruggsbi@wofford.edu
+   Username: scruggsbi
+   Original line: Isaac Scruggs Assistant Coach scruggsbi@wofford.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Talicia Murphy-Dawson Cheerleading Coach MurphyDawsonT@wofford.edu
+• Olivia Lewis Assistant Cheerleading Coach lewisog@wofford.edu
+• Christi Stanton Dance Coach stantoncm@wofford.edu
+• Jordan Sisk Assistant Dance Coach siskjl@wofford.edu
+• J.J. Edwards Head Baseball Coach edwardsje@wofford.edu 4499
+• Pat Brown Associate Head Baseball Coach brownpr1@wofford.edu 4497
+• Hudson Byorick Assistant Baseball Coach byorickhg@wofford.edu 4084
+• Frederic Reynolds Assistant Baseball Coach reynoldsfw@wofford.edu 4087
+• Drew Gibson Assistant Men's Basketball Coach gibsondm@wofford.edu 4158
+• Trent Patterson Assistant Men's Basketball Coach pattersontm@wofford.edu
+• Jeremiah Samarrippas Assistant Men's Basketball Coach samarrippasja@wofford.edu 4115
+• Jimmy Garrity Head Women's Basketball Coach garrityjj@wofford.edu 4151
+• Mike Merrill Associate Head Women's Basketball Coach merrillma@wofford.edu 4119
+• Trent Bunn Assistant Women's Basketball Coach/Recruiting Coordinator bunnwt@wofford.edu 4122
+• Destiny Thomas Assistant Women's Basketball Coach/Recruiting Operations thomasdt@wofford.edu 4121
+• Johnny Bomar Head Cross Country/Track and Field Coach bomarjc@wofford.edu 4109
+• Robert Gallinger Assistant Cross Country and Track Coach gallingerrg@wofford.edu 4805
+• Mitch Doolittle Assistant Head Coach/Co-Defensive Coordinator/Inside Linebackers doolittlemr@wofford.edu 4169
+• Peter Collins Tight Ends Coach collinspb@wofford.edu 4111
+• Shaw Crocker Quarterbacks Coach crockerds@wofford.edu
+• Brandon Napoleon Cornerbacks Coach napoleonbe@wofford.edu 4148
+• Michaelee Harris Wide Receivers Coach/Recruiting Coordinator harrismi@wofford.edu 4106
+• Senorise Perry Running Backs Coach/Pro Liaison perrysm@wofford.edu 4118
+• Devin Watson Defensive Backs Coach/Recruiting watsonad@wofford.edu 4108
+• Corey Woods Offensive Line Coach woodsca@wofford.edu 4104
+• Todd Eckstein Head Men's Golf Coach ecksteintf@wofford.edu 4493
+• Angie Ridgeway Head Women's Golf Coach Ridgewayaj@wofford.edu 4495
+• Jessie Aguglia Head Coach Women's Lacrosse agugliajm@wofford.edu 4486
+• Eilish Gately Assistant Women's Lacrosse Coach gatelyee@wofford.edu 5342
+• Seth Flanagan Head Rifle Coach Rifle@wofford.edu 4047
+• Ryan Osborne Head Men's Soccer Coach osbornera@wofford.edu 4125
+• Mac Thomalla Assistant Men's Soccer Coach thomallacf@wofford.edu 4123
+• Joey Backhaus Assistant Men's Soccer Coach backhausjm@wofford.edu
+• Kevin Dempsey Head Women's Soccer Coach dempseyke@wofford.edu 4124
+• Stephen Lee Assistant Women's Soccer Coach leesr@wofford.edu 4153
+• Chelsea Butler Head Softball Coach butlercv@wofford.edu 4192
+• Kara Shutt Associate Head Softball Coach shuttkl@wofford.edu 4025
+• Taylor Liguori Assistant Softball Coach liguoritk@wofford.edu 4106
+• Mark Line Assistant Softball Coach linemd@wofford.edu 4097
+• Rod Ray Head Men's Tennis Coach Rayra@wofford.edu 4154
+• Krissy Hall Head Women's Tennis Coach hallkm@wofford.edu 4150
+• Lynze Roos Head Volleyball Coach RoosLL@wofford.edu 4152
+• Ladislav Lelkes Associate Head Coach/Recruiting Coordinator lelkesl@wofford.edu 5325
+• Emma McElveen Assistant Coach mcelveenej@wofford.edu 4155
+• Isaac Scruggs Assistant Coach scruggsbi@wofford.edu

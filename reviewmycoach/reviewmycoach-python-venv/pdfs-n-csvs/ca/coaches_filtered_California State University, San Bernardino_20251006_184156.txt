@@ -1,0 +1,203 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:56
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kyle Louey
+   Email: kyle.louey@csusb.edu
+   Username: kyle.louey
+   Original line: Kyle Louey Sports Performance Coach kyle.louey@csusb.edu
+
+2. Mike Nadeau
+   Email: michael.nadeau@csusb.edu
+   Username: michael.nadeau
+   Original line: Mike Nadeau Head Coach michael.nadeau@csusb.edu 909-537-
+
+3. Jeff James
+   Email: jeffrey.james@csusb.edu
+   Username: jeffrey.james
+   Original line: Jeff James Associate Head Coach/Recruiting jeffrey.james@csusb.edu 909-537-
+
+4. Chris Tifft
+   Email: christopher.tifft@csusb.edu
+   Username: christopher.tifft
+   Original line: Chris Tifft Head Coach christopher.tifft@csusb.edu
+
+5. Brandon Billups
+   Email: brandon.billups@csusb.edu
+   Username: brandon.billups
+   Original line: Brandon Billups Assistant Coach brandon.billups@csusb.edu
+
+6. Dylan Painter
+   Email: dylan.painter@csusb.edu
+   Username: dylan.painter
+   Original line: Dylan Painter Assistant Coach dylan.painter@csusb.edu
+
+7. Alex Fodor
+   Email: alexander.fodor@csusb.edu
+   Username: alexander.fodor
+   Original line: Alex Fodor Assistant Coach alexander.fodor@csusb.edu
+
+8. Casandra Renno
+   Email: casandra.renno@csusb.edu
+   Username: casandra.renno
+   Original line: Casandra Renno Head Coach casandra.renno@csusb.edu 909-537-
+
+9. Lauren Ervin
+   Email: lauren.ervin@csusb.edu
+   Username: lauren.ervin
+   Original line: Lauren Ervin Assistant Coach lauren.ervin@csusb.edu 909-537-
+
+10. Markus Black
+   Email: markus.black@csusb.edu
+   Username: markus.black
+   Original line: Markus Black Assistant Coach markus.black@csusb.edu
+
+11. Nicole McDonald
+   Email: nicole.chesnut@csusb.edu
+   Username: nicole.chesnut
+   Original line: Nicole McDonald Head Coach nicole.chesnut@csusb.edu 909-537-
+
+12. Kyle Emerson
+   Email: kyle.emerson@csusb.edu
+   Username: kyle.emerson
+   Original line: Kyle Emerson Head Coach kyle.emerson@csusb.edu 909-537-
+
+13. Troy Nielsen
+   Email: Troy.Nielsen@csusb.edu
+   Username: Troy.Nielsen
+   Original line: Troy Nielsen Assistant Coach Troy.Nielsen@csusb.edu 951-536-
+
+14. Josh Hill
+   Email: joshua.hill@csusb.edu
+   Username: joshua.hill
+   Original line: Josh Hill Head Coach joshua.hill@csusb.edu 909-537-
+
+15. Edwin Diaz
+   Email: ediaz3@csusb.edu
+   Username: ediaz3
+   Original line: Edwin Diaz Assistant Coach ediaz3@csusb.edu
+
+16. Alex Renderos
+   Email: alex.renderos@csusb.edu
+   Username: alex.renderos
+   Original line: Alex Renderos Assistant Coach alex.renderos@csusb.edu
+
+17. Mike Ditta
+   Email: michael.ditta@csusb.edu
+   Username: michael.ditta
+   Original line: Mike Ditta Assistant Coach michael.ditta@csusb.edu
+
+18. Mark Peters
+   Email: mpeters@csusb.edu
+   Username: mpeters
+   Original line: Mark Peters Head Coach mpeters@csusb.edu 909-537-
+
+19. David Massuere
+   Email: David.Massuere@csusb.edu
+   Username: David.Massuere
+   Original line: David Massuere Assistant Coach David.Massuere@csusb.edu
+
+20. Salvador Regla
+   Email: salvador.regla@csusb.edu
+   Username: salvador.regla
+   Original line: Salvador Regla Assistant Coach salvador.regla@csusb.edu 909-537-
+
+21. Jonathan Frisby
+   Email: jonathan.frisby@csusb.edu
+   Username: jonathan.frisby
+   Original line: Jonathan Frisby Assistant Coach jonathan.frisby@csusb.edu 909-537-
+
+22. Dee Payan
+   Email: diana.payan@csusb.edu
+   Username: diana.payan
+   Original line: Dee Payan Head Coach diana.payan@csusb.edu 909-537-
+
+23. Jessica Millsap
+   Email: jessica.millsap@csusb.edu
+   Username: jessica.millsap
+   Original line: Jessica Millsap Assistant Coach jessica.millsap@csusb.edu 909-537-
+
+24. Julia Esparza
+   Email: julia.esparza@csusb.edu
+   Username: julia.esparza
+   Original line: Julia Esparza Assistant Coach julia.esparza@csusb.edu
+
+25. Kim Cherniss
+   Email: kcherniss@csusb.edu
+   Username: kcherniss
+   Original line: Kim Cherniss Head Coach kcherniss@csusb.edu 909-537-
+
+26. Danny Scott
+   Email: dscott@csusb.edu
+   Username: dscott
+   Original line: Danny Scott Associate Head Coach dscott@csusb.edu 909-537-
+
+27. Kelcie Tolan
+   Email: kelcie.tolan@csusb.edu
+   Username: kelcie.tolan
+   Original line: Dr. Kelcie Tolan Assistant Coach kelcie.tolan@csusb.edu
+
+28. Nicole McDonald
+   Email: nicole.chesnut@csusb.edu
+   Username: nicole.chesnut
+   Original line: Nicole McDonald Head Coach nicole.chesnut@csusb.edu 909-537-
+
+29. Spencer Moe
+   Email: spencer.moe@csusb.edu
+   Username: spencer.moe
+   Original line: Spencer Moe Assistant Coach - Throws spencer.moe@csusb.edu
+
+30. Damien Smith
+   Email: damien.smith@csusb.edu
+   Username: damien.smith
+   Original line: Damien Smith Assistant Coach - Sprints damien.smith@csusb.edu
+
+31. Kyndahl Carter
+   Email: kyndahl.carter@csusb.edu
+   Username: kyndahl.carter
+   Original line: Kyndahl Carter Assistant Coach - Hurdles/Sprints kyndahl.carter@csusb.edu
+
+32. Gregory Magee
+   Email: gregory.magee@csusb.edu
+   Username: gregory.magee
+   Original line: Gregory Magee Assistant Coach - Multis/Jumps gregory.magee@csusb.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kyle Louey Sports Performance Coach kyle.louey@csusb.edu
+• Mike Nadeau Head Coach michael.nadeau@csusb.edu 909-537-
+• Jeff James Associate Head Coach/Recruiting jeffrey.james@csusb.edu 909-537-
+• Chris Tifft Head Coach christopher.tifft@csusb.edu
+• Brandon Billups Assistant Coach brandon.billups@csusb.edu
+• Dylan Painter Assistant Coach dylan.painter@csusb.edu
+• Alex Fodor Assistant Coach alexander.fodor@csusb.edu
+• Casandra Renno Head Coach casandra.renno@csusb.edu 909-537-
+• Lauren Ervin Assistant Coach lauren.ervin@csusb.edu 909-537-
+• Markus Black Assistant Coach markus.black@csusb.edu
+• Nicole McDonald Head Coach nicole.chesnut@csusb.edu 909-537-
+• Kyle Emerson Head Coach kyle.emerson@csusb.edu 909-537-
+• Troy Nielsen Assistant Coach Troy.Nielsen@csusb.edu 951-536-
+• Josh Hill Head Coach joshua.hill@csusb.edu 909-537-
+• Edwin Diaz Assistant Coach ediaz3@csusb.edu
+• Alex Renderos Assistant Coach alex.renderos@csusb.edu
+• Mike Ditta Assistant Coach michael.ditta@csusb.edu
+• Mark Peters Head Coach mpeters@csusb.edu 909-537-
+• David Massuere Assistant Coach David.Massuere@csusb.edu
+• Salvador Regla Assistant Coach salvador.regla@csusb.edu 909-537-
+• Jonathan Frisby Assistant Coach jonathan.frisby@csusb.edu 909-537-
+• Dee Payan Head Coach diana.payan@csusb.edu 909-537-
+• Jessica Millsap Assistant Coach jessica.millsap@csusb.edu 909-537-
+• Julia Esparza Assistant Coach julia.esparza@csusb.edu
+• Kim Cherniss Head Coach kcherniss@csusb.edu 909-537-
+• Danny Scott Associate Head Coach dscott@csusb.edu 909-537-
+• Dr. Kelcie Tolan Assistant Coach kelcie.tolan@csusb.edu
+• Nicole McDonald Head Coach nicole.chesnut@csusb.edu 909-537-
+• Spencer Moe Assistant Coach - Throws spencer.moe@csusb.edu
+• Damien Smith Assistant Coach - Sprints damien.smith@csusb.edu
+• Kyndahl Carter Assistant Coach - Hurdles/Sprints kyndahl.carter@csusb.edu
+• Gregory Magee Assistant Coach - Multis/Jumps gregory.magee@csusb.edu

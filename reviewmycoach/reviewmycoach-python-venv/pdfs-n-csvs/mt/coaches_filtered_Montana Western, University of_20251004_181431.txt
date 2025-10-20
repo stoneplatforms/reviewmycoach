@@ -1,0 +1,100 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:32
+============================================================
+
+Total coaches found: 13
+
+PARSED ENTRIES:
+----------------------------------------
+1. Patrick Jensen
+   Email: patrick.jensen@umwestern.edu
+   Username: patrick.jensen
+   Phone: (406) 683-7341
+   Original line: Patrick Jensen Head Coach - Men's Basketball (406) 683-7341 patrick.jensen@umwestern.edu BARC 218
+
+2. Ryan Sullivan
+   Email: ryan.sullivan@umwestern.edu
+   Username: ryan.sullivan
+   Phone: (406) 480-0614
+   Original line: Ryan Sullivan Head Coach - Women's Basketball 406-480-0614 ryan.sullivan@umwestern.edu
+
+3. Alexis Loucks
+   Email: alexis.loucks@umwestern.edu
+   Username: alexis.loucks
+   Original line: Alexis Loucks Head Coach - Cheer alexis.loucks@umwestern.edu
+
+4. Taylor Grove
+   Email: taylor.grove@umwestern.edu
+   Username: taylor.grove
+   Phone: (406) 697-3675
+   Original line: Taylor Grove Head Coach - Cross Country/ Track and Field (406) 697-3675 taylor.grove@umwestern.edu BARC 212
+
+5. Ryan Nourse
+   Email: ryan.nourse@umwestern.edu
+   Username: ryan.nourse
+   Phone: (406) 683-7421
+   Original line: Ryan Nourse Head Coach - Football / Quarterbacks Coach (406) 683-7421 ryan.nourse@umwestern.edu BARC 210
+
+6. Riley Martello
+   Email: riley.martello@umwestern.edu
+   Username: riley.martello
+   Phone: (406) 683-7345
+   Original line: Riley Martello Defensive Coordinator / Linebackers Coach (406) 683-7345 riley.martello@umwestern.edu BARC 211
+
+7. Jed Heffernan
+   Email: jed.heffernan@umwestern.edu
+   Username: jed.heffernan
+   Phone: (406) 683-7346
+   Original line: Jed Heffernan Run Game Coordinator / Offensive Line Coach (406) 683-7346 jed.heffernan@umwestern.edu BARC 050
+
+8. Kyle Wantland
+   Email: kyle.wantland@umwestern.edu
+   Username: kyle.wantland
+   Phone: (406) 683-7346
+   Original line: Kyle Wantland Special Teams Coordinator / Defensive Backs Coach (406) 683-7346 kyle.wantland@umwestern.edu BARC 050
+
+9. Justin Hurd
+   Email: justin.hurd@umwestern.edu
+   Username: justin.hurd
+   Phone: (309) 634-1378
+   Original line: Justin Hurd Defensive Line Coach (309) 634-1378 justin.hurd@umwestern.edu BARC 050
+
+10. JT Robbins
+   Email: john.robbins1@umwestern.edu
+   Username: john.robbins1
+   Phone: (406) 683-7001
+   Original line: JT Robbins Head Coach - Rodeo (406) 683-7001 john.robbins1@umwestern.edu BARC 213
+
+11. Katie Lovett
+   Email: katherine.lovett@umwestern.edu
+   Username: katherine.lovett
+   Phone: (406) 683-7444
+   Original line: Katie Lovett Head Coach - Volleyball / Senior Woman Leader (406) 683-7444 katherine.lovett@umwestern.edu BARC 215
+
+12. Madison Richtmyer
+   Email: madison.richtmyer@umwestern.edu
+   Username: madison.richtmyer
+   Original line: Madison Richtmyer Assistant Coach madison.richtmyer@umwestern.edu
+
+13. Hali Reed
+   Email: hali.ehresmann@umwestern.edu
+   Username: hali.ehresmann
+   Phone: (360) 870-1280
+   Original line: Hali Reed Assistant Coach (360) 870-1280 hali.ehresmann@umwestern.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Patrick Jensen Head Coach - Men's Basketball (406) 683-7341 patrick.jensen@umwestern.edu BARC 218
+• Ryan Sullivan Head Coach - Women's Basketball 406-480-0614 ryan.sullivan@umwestern.edu
+• Alexis Loucks Head Coach - Cheer alexis.loucks@umwestern.edu
+• Taylor Grove Head Coach - Cross Country/ Track and Field (406) 697-3675 taylor.grove@umwestern.edu BARC 212
+• Ryan Nourse Head Coach - Football / Quarterbacks Coach (406) 683-7421 ryan.nourse@umwestern.edu BARC 210
+• Riley Martello Defensive Coordinator / Linebackers Coach (406) 683-7345 riley.martello@umwestern.edu BARC 211
+• Jed Heffernan Run Game Coordinator / Offensive Line Coach (406) 683-7346 jed.heffernan@umwestern.edu BARC 050
+• Kyle Wantland Special Teams Coordinator / Defensive Backs Coach (406) 683-7346 kyle.wantland@umwestern.edu BARC 050
+• Justin Hurd Defensive Line Coach (309) 634-1378 justin.hurd@umwestern.edu BARC 050
+• JT Robbins Head Coach - Rodeo (406) 683-7001 john.robbins1@umwestern.edu BARC 213
+• Katie Lovett Head Coach - Volleyball / Senior Woman Leader (406) 683-7444 katherine.lovett@umwestern.edu BARC 215
+• Madison Richtmyer Assistant Coach madison.richtmyer@umwestern.edu
+• Hali Reed Assistant Coach (360) 870-1280 hali.ehresmann@umwestern.edu

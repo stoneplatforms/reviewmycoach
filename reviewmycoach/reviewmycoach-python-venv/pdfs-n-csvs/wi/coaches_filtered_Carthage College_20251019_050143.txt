@@ -1,0 +1,65 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:44
+============================================================
+
+Total coaches found: 9
+
+PARSED ENTRIES:
+----------------------------------------
+1. John Lequia
+   Email: jlequia@carthage.edu
+   Username: jlequia
+   Original line: John Lequia Head Baseball Coach jlequia@carthage.edu 262- TARC 2155
+
+2. Matt Popino
+   Email: mpopino@carthage.edu
+   Username: mpopino
+   Original line: Matt Popino Head Football Coach mpopino@carthage.edu 262- ARENA
+
+3. Mike Davis
+   Email: mdavis4@carthage.edu
+   Username: mdavis4
+   Original line: Mike Davis Tight Ends Coach mdavis4@carthage.edu
+
+4. Rob Kruse
+   Email: rkruse@carthage.edu
+   Username: rkruse
+   Original line: Rob Kruse Offensive Line Coach rkruse@carthage.edu
+
+5. Jose Ramirez
+   Email: jramirez2@carthage.edu
+   Username: jramirez2
+   Original line: Jose Ramirez Defensive Line Coach jramirez2@carthage.edu
+
+6. Bill Buss
+   Email: wbuss@carthage.edu
+   Username: wbuss
+   Original line: Bill Buss Head Women's Golf Coach wbuss@carthage.edu TARC 2160
+
+7. Paul Leese
+   Email: pleese@carthage.edu
+   Username: pleese
+   Original line: Paul Leese Head Men's Soccer Coach pleese@carthage.edu TARC 2170
+
+8. Amy Gillmore
+   Email: agillmore@carthage.edu
+   Username: agillmore
+   Original line: Amy Gillmore Head Softball Coach agillmore@carthage.edu 262- TARC 2130
+
+9. Brady Lindsley
+   Email: blindsley@carthage.edu
+   Username: blindsley
+   Original line: Brady Lindsley Head Men's Tennis Coach blindsley@carthage.edu 262- TARC 2085
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• John Lequia Head Baseball Coach jlequia@carthage.edu 262- TARC 2155
+• Matt Popino Head Football Coach mpopino@carthage.edu 262- ARENA
+• Mike Davis Tight Ends Coach mdavis4@carthage.edu
+• Rob Kruse Offensive Line Coach rkruse@carthage.edu
+• Jose Ramirez Defensive Line Coach jramirez2@carthage.edu
+• Bill Buss Head Women's Golf Coach wbuss@carthage.edu TARC 2160
+• Paul Leese Head Men's Soccer Coach pleese@carthage.edu TARC 2170
+• Amy Gillmore Head Softball Coach agillmore@carthage.edu 262- TARC 2130
+• Brady Lindsley Head Men's Tennis Coach blindsley@carthage.edu 262- TARC 2085

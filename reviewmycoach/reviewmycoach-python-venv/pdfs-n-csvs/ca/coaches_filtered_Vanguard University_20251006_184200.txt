@@ -1,0 +1,233 @@
+COACH ENTRIES FOUND - 2025-10-06 18:42:00
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rhett Soliday
+   Email: rhett.soliday@vanguard.edu
+   Username: rhett.soliday
+   Original line: Rhett Soliday Associate AD: Partnerships | Men's Basketball Head Coach rhett.soliday@vanguard.edu x6613
+
+2. Joey Rodriguez
+   Email: joseph.e.rodriguez@vanguard.edu
+   Username: joseph.e.rodriguez
+   Original line: Joey Rodriguez Head Strength & Conditioning Coach joseph.e.rodriguez@vanguard.edu
+
+3. Rob Pegg
+   Email: robert.pegg@vanguard.edu
+   Username: robert.pegg
+   Original line: Rob Pegg Head Coach robert.pegg@vanguard.edu x6612
+
+4. Michael Fuchs
+   Email: baseball@vanguard.edu
+   Username: baseball
+   Original line: Michael Fuchs Assistant Coach baseball@vanguard.edu
+
+5. Kris Dorn
+   Email: kris.dorn@vanguard.edu
+   Username: kris.dorn
+   Original line: Kris Dorn Head Coach kris.dorn@vanguard.edu
+
+6. Morgan Nash
+   Email: morgan.nash@vanguard.edu
+   Username: morgan.nash
+   Original line: Morgan Nash Assistant Coach morgan.nash@vanguard.edu
+
+7. Rhett Soliday
+   Email: rhett.soliday@vanguard.edu
+   Username: rhett.soliday
+   Original line: Rhett Soliday Associate AD: Partnerships | Men's Basketball Head Coach rhett.soliday@vanguard.edu x6613
+
+8. Taylor Kelly
+   Email: mbasketball@vanguard.edu
+   Username: mbasketball
+   Original line: Taylor Kelly Associate Head Coach mbasketball@vanguard.edu
+
+9. Caleb Martin
+   Email: mbasketball@vanguard.edu
+   Username: mbasketball
+   Original line: Caleb Martin Assistant Coach mbasketball@vanguard.edu
+
+10. Russ Davis
+   Email: wbasketball@vanguard.edu
+   Username: wbasketball
+   Original line: Russ Davis Head Coach wbasketball@vanguard.edu x6606
+
+11. Sierra Vaglica
+   Email: wbasketball@vanguard.edu
+   Username: wbasketball
+   Original line: Sierra Vaglica Assistant Coach wbasketball@vanguard.edu 6607
+
+12. Bryan Wilkins
+   Email: bwilkins@vanguard.edu
+   Username: bwilkins
+   Original line: Bryan Wilkins Head Coach bwilkins@vanguard.edu x6608
+
+13. Josh Cagwin
+   Email: josh.cagwin@vanguard.edu
+   Username: josh.cagwin
+   Original line: Josh Cagwin Associate Head Coach, Track & Field / Cross Country josh.cagwin@vanguard.edu
+
+14. Madison Dimino
+   Email: madison.dimino@vanguard.edu
+   Username: madison.dimino
+   Original line: Madison Dimino Head Coach madison.dimino@vanguard.edu
+
+15. Jeff Anderson
+   Email: jeff.anderson@vanguard.edu
+   Username: jeff.anderson
+   Original line: Jeff Anderson Head Coach jeff.anderson@vanguard.edu x6619
+
+16. Claire Shubin
+   Email: claire.shubin@vanguard.edu
+   Username: claire.shubin
+   Original line: Claire Shubin Assistant Coach claire.shubin@vanguard.edu
+
+17. Jeff Anderson
+   Email: jeff.anderson@vanguard.edu
+   Username: jeff.anderson
+   Original line: Jeff Anderson Head Coach jeff.anderson@vanguard.edu x6619
+
+18. Claire Shubin
+   Email: claire.shubin@vanguard.edu
+   Username: claire.shubin
+   Original line: Claire Shubin Assistant Coach claire.shubin@vanguard.edu
+
+19. Jesus (Chuy)
+   Email: msoccer@vanguard.edu
+   Username: msoccer
+   Original line: Jesus (Chuy) Miramontes Head Coach msoccer@vanguard.edu x6610
+
+20. Shion Jahangiri
+   Email: msoccer@vanguard.edu
+   Username: msoccer
+   Original line: Shion Jahangiri Associate Head Coach msoccer@vanguard.edu
+
+21. Emily Reynolds
+   Email: wsoccer@vanguard.edu
+   Username: wsoccer
+   Original line: Emily Reynolds Head Coach wsoccer@vanguard.edu x6623
+
+22. Noanne Rosse
+   Email: wsoccer@vanguard.edu
+   Username: wsoccer
+   Original line: Noanne Rosse Assistant Coach wsoccer@vanguard.edu
+
+23. Nicole Thomas
+   Email: nicole.thomas@vanguard.edu
+   Username: nicole.thomas
+   Original line: Nicole Thomas Head Coach nicole.thomas@vanguard.edu x6603
+
+24. Katy Hurley
+   Email: katy.hurley@vanguard.edu
+   Username: katy.hurley
+   Original line: Katy Hurley Assistant Coach katy.hurley@vanguard.edu
+
+25. Salonia Harper
+   Email: salonia.harper@vanguard.edu
+   Username: salonia.harper
+   Original line: Salonia Harper Head Coach salonia.harper@vanguard.edu
+
+26. Bryan Wilkins
+   Email: bwilkins@vanguard.edu
+   Username: bwilkins
+   Original line: Bryan Wilkins Head Coach bwilkins@vanguard.edu x6608
+
+27. Josh Cagwin
+   Email: josh.cagwin@vanguard.edu
+   Username: josh.cagwin
+   Original line: Josh Cagwin Associate Head Coach, Track & Field / Cross Country josh.cagwin@vanguard.edu
+
+28. Jennifer Dorn
+   Email: wvolleyball@vanguard.edu
+   Username: wvolleyball
+   Original line: Jennifer Dorn Head Coach wvolleyball@vanguard.edu x6611
+
+29. Bryndon Paulsen
+   Email: wvolleyball@vanguard.edu
+   Username: wvolleyball
+   Original line: Bryndon Paulsen Assistant Coach wvolleyball@vanguard.edu
+
+30. Brian Rofer
+   Email: brian.rofer@vanguard.edu
+   Username: brian.rofer
+   Original line: Brian Rofer Head Coach brian.rofer@vanguard.edu 6627
+
+31. Matthew Compos
+   Email: matthew.compos@vanguard.edu
+   Username: matthew.compos
+   Original line: Matthew Compos Assistant Coach matthew.compos@vanguard.edu
+
+32. Caleb Flores
+   Email: mwrestling@vanguard.edu
+   Username: mwrestling
+   Original line: Caleb Flores Head Coach mwrestling@vanguard.edu
+
+33. Kevin Kelly
+   Email: mwrestling@vanguard.edu
+   Username: mwrestling
+   Original line: Kevin Kelly Assistant Coach mwrestling@vanguard.edu
+
+34. Ginter Reis
+   Email: reis.ginter@vanguard.edu
+   Username: reis.ginter
+   Original line: Ginter Reis Volunteer Assistant Coach reis.ginter@vanguard.edu
+
+35. Joe Evano
+   Email: wwrestling@vanguard.edu
+   Username: wwrestling
+   Original line: Joe Evano Head Coach wwrestling@vanguard.edu
+
+36. Jo Robinson-Little
+   Email: wwrestling@vanguard.edu
+   Username: wwrestling
+   Original line: Jo Robinson-Little Assistant Coach wwrestling@vanguard.edu
+
+37. Ashley Southard
+   Email: ashley.southard@vanguard.edu
+   Username: ashley.southard
+   Original line: Ashley Southard Head Coach ashley.southard@vanguard.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rhett Soliday Associate AD: Partnerships | Men's Basketball Head Coach rhett.soliday@vanguard.edu x6613
+• Joey Rodriguez Head Strength & Conditioning Coach joseph.e.rodriguez@vanguard.edu
+• Rob Pegg Head Coach robert.pegg@vanguard.edu x6612
+• Michael Fuchs Assistant Coach baseball@vanguard.edu
+• Kris Dorn Head Coach kris.dorn@vanguard.edu
+• Morgan Nash Assistant Coach morgan.nash@vanguard.edu
+• Rhett Soliday Associate AD: Partnerships | Men's Basketball Head Coach rhett.soliday@vanguard.edu x6613
+• Taylor Kelly Associate Head Coach mbasketball@vanguard.edu
+• Caleb Martin Assistant Coach mbasketball@vanguard.edu
+• Russ Davis Head Coach wbasketball@vanguard.edu x6606
+• Sierra Vaglica Assistant Coach wbasketball@vanguard.edu 6607
+• Bryan Wilkins Head Coach bwilkins@vanguard.edu x6608
+• Josh Cagwin Associate Head Coach, Track & Field / Cross Country josh.cagwin@vanguard.edu
+• Madison Dimino Head Coach madison.dimino@vanguard.edu
+• Jeff Anderson Head Coach jeff.anderson@vanguard.edu x6619
+• Claire Shubin Assistant Coach claire.shubin@vanguard.edu
+• Jeff Anderson Head Coach jeff.anderson@vanguard.edu x6619
+• Claire Shubin Assistant Coach claire.shubin@vanguard.edu
+• Jesus (Chuy) Miramontes Head Coach msoccer@vanguard.edu x6610
+• Shion Jahangiri Associate Head Coach msoccer@vanguard.edu
+• Emily Reynolds Head Coach wsoccer@vanguard.edu x6623
+• Noanne Rosse Assistant Coach wsoccer@vanguard.edu
+• Nicole Thomas Head Coach nicole.thomas@vanguard.edu x6603
+• Katy Hurley Assistant Coach katy.hurley@vanguard.edu
+• Salonia Harper Head Coach salonia.harper@vanguard.edu
+• Bryan Wilkins Head Coach bwilkins@vanguard.edu x6608
+• Josh Cagwin Associate Head Coach, Track & Field / Cross Country josh.cagwin@vanguard.edu
+• Jennifer Dorn Head Coach wvolleyball@vanguard.edu x6611
+• Bryndon Paulsen Assistant Coach wvolleyball@vanguard.edu
+• Brian Rofer Head Coach brian.rofer@vanguard.edu 6627
+• Matthew Compos Assistant Coach matthew.compos@vanguard.edu
+• Caleb Flores Head Coach mwrestling@vanguard.edu
+• Kevin Kelly Assistant Coach mwrestling@vanguard.edu
+• Ginter Reis Volunteer Assistant Coach reis.ginter@vanguard.edu
+• Joe Evano Head Coach wwrestling@vanguard.edu
+• Jo Robinson-Little Assistant Coach wwrestling@vanguard.edu
+• Ashley Southard Head Coach ashley.southard@vanguard.edu

@@ -1,0 +1,323 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:08
+============================================================
+
+Total coaches found: 52
+
+PARSED ENTRIES:
+----------------------------------------
+1. Paige Winslow
+   Email: pwwinslow@barton.edu
+   Username: pwwinslow
+   Original line: Paige Winslow Assistant Director of Sports Performance & Assistant Field Hockey Coach pwwinslow@barton.edu
+
+2. Sarah Moore
+   Email: srmoore@barton.edu
+   Username: srmoore
+   Original line: Sarah Moore Head Coach - Cheer and Dance srmoore@barton.edu (919) 724-
+
+3. Matt Padgett
+   Email: mmpadgett@barton.edu
+   Username: mmpadgett
+   Original line: Matt Padgett Head Baseball Coach mmpadgett@barton.edu (252) 991-
+
+4. Buddy Bleasdale
+   Email: fcbleasdale@barton.edu
+   Username: fcbleasdale
+   Original line: Buddy Bleasdale Assistant Coach fcbleasdale@barton.edu
+
+5. Ethan Chavis
+   Email: edchavis@barton.edu
+   Username: edchavis
+   Original line: Ethan Chavis Assistant Coach edchavis@barton.edu
+
+6. Joel Zimmerman
+   Email: jdzimmerman@barton.edu
+   Username: jdzimmerman
+   Original line: Joel Zimmerman Head Coach jdzimmerman@barton.edu (252) 399-
+
+7. Mike Baez
+   Email: mabaez@barton.edu
+   Username: mabaez
+   Original line: Mike Baez Assistant Coach mabaez@barton.edu
+
+8. Jawann Baker
+   Email: jbaker@barton.edu
+   Username: jbaker
+   Original line: Jawann Baker Assistant Coach jbaker@barton.edu
+
+9. Eileen Van
+   Email: evanhorn@barton.edu
+   Username: evanhorn
+   Original line: Eileen Van Horn Head Coach evanhorn@barton.edu (252) 399-
+
+10. Shelby Wilbanks
+   Email: snwilbanks@barton.edu
+   Username: snwilbanks
+   Original line: Shelby Wilbanks Assistant Coach snwilbanks@barton.edu
+
+11. Roberta Draughn
+   Email: rldraughn@barton.edu
+   Username: rldraughn
+   Original line: Roberta Draughn Assistant Coach rldraughn@barton.edu
+
+12. Kayla Byrne
+   Email: kbyrne@barton.edu
+   Username: kbyrne
+   Original line: Kayla Byrne Assistant Coach kbyrne@barton.edu
+
+13. Brandon Cotton
+   Email: bmcotton@barton.edu
+   Username: bmcotton
+   Original line: Brandon Cotton Head Coach bmcotton@barton.edu
+
+14. Tim Foster
+   Email: tafoster1@barton.edu
+   Username: tafoster1
+   Original line: Tim Foster Head Coach tafoster1@barton.edu (864) 425-
+
+15. Tim Foster
+   Email: tafoster1@barton.edu
+   Username: tafoster1
+   Original line: Tim Foster Head Coach tafoster1@barton.edu (864) 425-
+
+16. Chip Hester
+   Email: lbhester@barton.edu
+   Username: lbhester
+   Original line: Chip Hester Head Coach lbhester@barton.edu (252) 399-
+
+17. Marcus Hilliard
+   Email: mhilliard@barton.edu
+   Username: mhilliard
+   Original line: Marcus Hilliard Associate Head Coach & Defensive Line Coach mhilliard@barton.edu
+
+18. Jazz Vinson
+   Email: jcvinson@barton.edu
+   Username: jcvinson
+   Original line: Jazz Vinson Co-Offensive Coordinator & Running Backs Coach jcvinson@barton.edu
+
+19. Cam Avery
+   Email: ctavery@barton.edu
+   Username: ctavery
+   Original line: Cam Avery Offensive Line Coach and Strength & Conditioning Coordinator ctavery@barton.edu
+
+20. Kim Brown
+   Email: ktbrown1@barton.edu
+   Username: ktbrown1
+   Original line: Kim Brown Linebackers Coach ktbrown1@barton.edu (910) 258-
+
+21. Quayon Gilbert
+   Email: qdgilbert@barton.edu
+   Username: qdgilbert
+   Original line: Quayon Gilbert Co-Defensive Coordinator & Defensive Backs Coach qdgilbert@barton.edu
+
+22. Charlie Mauzé
+   Email: charlie.mauze@gmail.com
+   Username: charlie.mauze
+   Original line: Charlie Mauzé Special Teams Coach & Operations Director charlie.mauze@gmail.com (252) 315-
+
+23. Davon Adams
+   Email: dadams@barton.edu
+   Username: dadams
+   Original line: Davon Adams Wide Receivers Coach dadams@barton.edu
+
+24. Peyton McBride
+   Email: pmcbride@barton.edu
+   Username: pmcbride
+   Original line: Peyton McBride Defensive Line Coach pmcbride@barton.edu
+
+25. Greg Englund
+   Email: gaenglund@barton.edu
+   Username: gaenglund
+   Original line: Greg Englund Director of Golf & Head Men's Golf Coach gaenglund@barton.edu
+
+26. Greg Englund
+   Email: gaenglund@barton.edu
+   Username: gaenglund
+   Original line: Greg Englund Director of Golf & Head Men's Golf Coach gaenglund@barton.edu
+
+27. Jonathan Burke
+   Email: jcburke@barton.edu
+   Username: jcburke
+   Original line: Jonathan Burke Head Women's Golf Coach jcburke@barton.edu
+
+28. Warren Shumate
+   Email: wshumate@barton.edu
+   Username: wshumate
+   Original line: Warren Shumate Head Coach wshumate@barton.edu (252) 399-
+
+29. John Hayden
+   Email: jbhayden@barton.edu
+   Username: jbhayden
+   Original line: John Hayden Assistant Coach, Defensive Coordinator jbhayden@barton.edu (919) 607-
+
+30. Tyler Thompson
+   Email: tthompson@barton.edu
+   Username: tthompson
+   Original line: Tyler Thompson Assistant Coach, Offensive Coordinator tthompson@barton.edu (607) 205-
+
+31. Ciara Burud
+   Email: chburud@barton.edu
+   Username: chburud
+   Original line: Ciara Burud Head Women's Lacrosse Coach chburud@barton.edu (252) 399-
+
+32. Shana CaHill
+   Email: sncahill@barton.edu
+   Username: sncahill
+   Original line: Shana CaHill Assistant Coach sncahill@barton.edu
+
+33. Lorran Antonelli
+   Email: lquaiattiantonelli@barton.edu
+   Username: lquaiattiantonelli
+   Original line: Lorran Antonelli Head Coach lquaiattiantonelli@barton.edu (252) 399-
+
+34. Rafa Ribiero
+   Email: rcribeiro@barton.edu
+   Username: rcribeiro
+   Original line: Rafa Ribiero Associate Head Coach rcribeiro@barton.edu
+
+35. Jason Hamilton
+   Email: jshamilton1@barton.edu
+   Username: jshamilton1
+   Original line: Jason Hamilton Head Women's Soccer Coach jshamilton1@barton.edu (305) 968-
+
+36. Sydney Griner
+   Email: sngriner@barton.edu
+   Username: sngriner
+   Original line: Sydney Griner Assistant Coach sngriner@barton.edu
+
+37. Courtlynn Cooney
+   Email: ccooney@barton.edu
+   Username: ccooney
+   Original line: Courtlynn Cooney Head Softball Coach ccooney@barton.edu (252) 991-
+
+38. Ethan Maddrey
+   Email: ebmaddrey@barton.edu
+   Username: ebmaddrey
+   Original line: Ethan Maddrey Head Coach ebmaddrey@barton.edu
+
+39. Ethan Maddrey
+   Email: ebmaddrey@barton.edu
+   Username: ebmaddrey
+   Original line: Ethan Maddrey Head Coach ebmaddrey@barton.edu
+
+40. Lee Underwood
+   Email: lunderwood@barton.edu
+   Username: lunderwood
+   Original line: Lee Underwood Head Coach lunderwood@barton.edu (252) 399-
+
+41. Lee Underwood
+   Email: lunderwood@barton.edu
+   Username: lunderwood
+   Original line: Lee Underwood Head Coach lunderwood@barton.edu (252) 399-
+
+42. Tim Foster
+   Email: tafoster1@barton.edu
+   Username: tafoster1
+   Original line: Tim Foster Head Coach tafoster1@barton.edu (864) 425-
+
+43. Larry Russell
+   Email: lrussell@barton.edu
+   Username: lrussell
+   Original line: Larry Russell Assistant Coach lrussell@barton.edu (856) 383-
+
+44. Tim Foster
+   Email: tafoster1@barton.edu
+   Username: tafoster1
+   Original line: Tim Foster Head Coach tafoster1@barton.edu (864) 425-
+
+45. Larry Russell
+   Email: lrussell@barton.edu
+   Username: lrussell
+   Original line: Larry Russell Assistant Coach lrussell@barton.edu (856) 383-
+
+46. J.T. Deppe
+   Email: jtdeppe@barton.edu
+   Username: jtdeppe
+   Original line: J.T. Deppe Head Men's Volleyball Coach jtdeppe@barton.edu (252) 399-
+
+47. Trish Hester
+   Email: tahester@barton.edu
+   Username: tahester
+   Original line: Trish Hester Assistant Coach tahester@barton.edu
+
+48. Riley Casner
+   Email: rmcasner@barton.edu
+   Username: rmcasner
+   Original line: Riley Casner Head Women's Volleyball Coach rmcasner@barton.edu (252) 531-
+
+49. Trish Hester
+   Email: tahester@barton.edu
+   Username: tahester
+   Original line: Trish Hester Assistant Coach tahester@barton.edu
+
+50. Jazz Vinson
+   Email: jcvinson@barton.edu
+   Username: jcvinson
+   Original line: Jazz Vinson Head Coach jcvinson@barton.edu
+
+51. Colleen Cassada
+   Email: cpcassada@barton.edu
+   Username: cpcassada
+   Original line: Colleen Cassada Head Coach cpcassada@barton.edu
+
+52. Paige Winslow
+   Email: pwwinslow@barton.edu
+   Username: pwwinslow
+   Original line: Paige Winslow Assistant Director of Sports Performance & Assistant Field Hockey Coach pwwinslow@barton.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Paige Winslow Assistant Director of Sports Performance & Assistant Field Hockey Coach pwwinslow@barton.edu
+• Sarah Moore Head Coach - Cheer and Dance srmoore@barton.edu (919) 724-
+• Matt Padgett Head Baseball Coach mmpadgett@barton.edu (252) 991-
+• Buddy Bleasdale Assistant Coach fcbleasdale@barton.edu
+• Ethan Chavis Assistant Coach edchavis@barton.edu
+• Joel Zimmerman Head Coach jdzimmerman@barton.edu (252) 399-
+• Mike Baez Assistant Coach mabaez@barton.edu
+• Jawann Baker Assistant Coach jbaker@barton.edu
+• Eileen Van Horn Head Coach evanhorn@barton.edu (252) 399-
+• Shelby Wilbanks Assistant Coach snwilbanks@barton.edu
+• Roberta Draughn Assistant Coach rldraughn@barton.edu
+• Kayla Byrne Assistant Coach kbyrne@barton.edu
+• Brandon Cotton Head Coach bmcotton@barton.edu
+• Tim Foster Head Coach tafoster1@barton.edu (864) 425-
+• Tim Foster Head Coach tafoster1@barton.edu (864) 425-
+• Chip Hester Head Coach lbhester@barton.edu (252) 399-
+• Marcus Hilliard Associate Head Coach & Defensive Line Coach mhilliard@barton.edu
+• Jazz Vinson Co-Offensive Coordinator & Running Backs Coach jcvinson@barton.edu
+• Cam Avery Offensive Line Coach and Strength & Conditioning Coordinator ctavery@barton.edu
+• Kim Brown Linebackers Coach ktbrown1@barton.edu (910) 258-
+• Quayon Gilbert Co-Defensive Coordinator & Defensive Backs Coach qdgilbert@barton.edu
+• Charlie Mauzé Special Teams Coach & Operations Director charlie.mauze@gmail.com (252) 315-
+• Davon Adams Wide Receivers Coach dadams@barton.edu
+• Peyton McBride Defensive Line Coach pmcbride@barton.edu
+• Greg Englund Director of Golf & Head Men's Golf Coach gaenglund@barton.edu
+• Greg Englund Director of Golf & Head Men's Golf Coach gaenglund@barton.edu
+• Jonathan Burke Head Women's Golf Coach jcburke@barton.edu
+• Warren Shumate Head Coach wshumate@barton.edu (252) 399-
+• John Hayden Assistant Coach, Defensive Coordinator jbhayden@barton.edu (919) 607-
+• Tyler Thompson Assistant Coach, Offensive Coordinator tthompson@barton.edu (607) 205-
+• Ciara Burud Head Women's Lacrosse Coach chburud@barton.edu (252) 399-
+• Shana CaHill Assistant Coach sncahill@barton.edu
+• Lorran Antonelli Head Coach lquaiattiantonelli@barton.edu (252) 399-
+• Rafa Ribiero Associate Head Coach rcribeiro@barton.edu
+• Jason Hamilton Head Women's Soccer Coach jshamilton1@barton.edu (305) 968-
+• Sydney Griner Assistant Coach sngriner@barton.edu
+• Courtlynn Cooney Head Softball Coach ccooney@barton.edu (252) 991-
+• Ethan Maddrey Head Coach ebmaddrey@barton.edu
+• Ethan Maddrey Head Coach ebmaddrey@barton.edu
+• Lee Underwood Head Coach lunderwood@barton.edu (252) 399-
+• Lee Underwood Head Coach lunderwood@barton.edu (252) 399-
+• Tim Foster Head Coach tafoster1@barton.edu (864) 425-
+• Larry Russell Assistant Coach lrussell@barton.edu (856) 383-
+• Tim Foster Head Coach tafoster1@barton.edu (864) 425-
+• Larry Russell Assistant Coach lrussell@barton.edu (856) 383-
+• J.T. Deppe Head Men's Volleyball Coach jtdeppe@barton.edu (252) 399-
+• Trish Hester Assistant Coach tahester@barton.edu
+• Riley Casner Head Women's Volleyball Coach rmcasner@barton.edu (252) 531-
+• Trish Hester Assistant Coach tahester@barton.edu
+• Jazz Vinson Head Coach jcvinson@barton.edu
+• Colleen Cassada Head Coach cpcassada@barton.edu
+• Paige Winslow Assistant Director of Sports Performance & Assistant Field Hockey Coach pwwinslow@barton.edu

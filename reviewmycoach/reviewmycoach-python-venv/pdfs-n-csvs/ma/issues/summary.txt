@@ -1,0 +1,5 @@
+Printing results: Success=8 Skipped=0 Errors=0
+
+PDFs with zero coaches detected:
+- University of Massachusetts Amherst.pdf
+- Massachusetts College of Liberal Arts (MCLA).pdf

@@ -1,0 +1,184 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:49
+============================================================
+
+Total coaches found: 27
+
+PARSED ENTRIES:
+----------------------------------------
+1. Lauren Chow
+   Email: lchow@csudh.edu
+   Username: lchow
+   Phone: (310) 243-3480
+   Original line: Lauren Chow Strength & Conditioning Coach lchow@csudh.edu 310-243-3480
+
+2. Joon Hyuk
+   Email: jolee@csudh.edu
+   Username: jolee
+   Original line: Joon Hyuk Lee Assistant Strength and Conditioning Coach jolee@csudh.edu
+
+3. Tyler Wright
+   Email: twright@csudh.edu
+   Username: twright
+   Phone: (310) 243-3759
+   Original line: Tyler Wright Head Coach twright@csudh.edu 310-243-3759
+
+4. Greg Humbert
+   Email: ghumbert1@csudh.edu
+   Username: ghumbert1
+   Original line: Greg Humbert Assistant Coach ghumbert1@csudh.edu
+
+5. Esteban Contreras
+   Email: econtreras@csudh.edu
+   Username: econtreras
+   Phone: (213) 808-2408
+   Original line: Esteban Contreras Assistant Baseball Coach/Recruiting Coordinator econtreras@csudh.edu 213-808-2408
+
+6. Steve Becker
+   Email: sbecker@csudh.edu
+   Username: sbecker
+   Phone: (310) 243-3891
+   Original line: Steve Becker Head Coach sbecker@csudh.edu 310-243-3891
+
+7. John Peterson
+   Email: jopeterson@csudh.edu
+   Username: jopeterson
+   Original line: John Peterson Assistant Coach jopeterson@csudh.edu
+
+8. Nautica Morrow
+   Email: nmorrow3@csudh.edu
+   Username: nmorrow3
+   Phone: (310) 243-2211
+   Original line: Nautica Morrow Interim Head Coach nmorrow3@csudh.edu 310-243-2211
+
+9. Tyler Frierson
+   Email: tfriersonnelson@csudh.edu
+   Username: tfriersonnelson
+   Original line: Tyler Frierson Assistant Coach tfriersonnelson@csudh.edu (562)485-
+
+10. Kandice Henderson
+   Email: kahenderson@csudh.edu
+   Username: kahenderson
+   Original line: Kandice Henderson Head Coach kahenderson@csudh.edu
+
+11. Ebony Morrison
+   Email: emorrison@csudh.edu
+   Username: emorrison
+   Original line: Ebony Morrison Assistant Coach emorrison@csudh.edu
+
+12. Cilecia Foster
+   Email: cifoster@csudh.edu
+   Username: cifoster
+   Original line: Cilecia Foster Head Coach cifoster@csudh.edu
+
+13. Ron Eastman
+   Email: reastman@csudh.edu
+   Username: reastman
+   Phone: (562) 301-6970
+   Original line: Ron Eastman Head Coach reastman@csudh.edu 562-301-6970
+
+14. Eddie Soto
+   Email: esoto@csudh.edu
+   Username: esoto
+   Phone: (310) 243-2221
+   Original line: Eddie Soto Head Coach esoto@csudh.edu 310-243-2221
+
+15. Patryk Tenorio
+   Email: ptenorio@csudh.edu
+   Username: ptenorio
+   Phone: (310) 243-2836
+   Original line: Patryk Tenorio Assistant Coach ptenorio@csudh.edu 310-243-2836
+
+16. Hunter Stewart
+   Email: hstewart@csudh.edu
+   Username: hstewart
+   Original line: Hunter Stewart Assistant Coach hstewart@csudh.edu
+
+17. Adriana Valdez
+   Email: avaldezlopez@csudh.edu
+   Username: avaldezlopez
+   Original line: Adriana Valdez Lopez Head Coach avaldezlopez@csudh.edu
+
+18. Michael Beigarten
+   Email: mbeigarten@csudh.edu
+   Username: mbeigarten
+   Original line: Michael Beigarten Assistant Coach mbeigarten@csudh.edu
+
+19. Katie Garcia
+   Email: klgarcia@csudh.edu
+   Username: klgarcia
+   Phone: (310) 243-3889
+   Original line: Katie Garcia Head Coach klgarcia@csudh.edu 310-243-3889
+
+20. Stephanie Jimenez
+   Email: sjimenez52@csudh.edu
+   Username: sjimenez52
+   Phone: (310) 243-3889
+   Original line: Stephanie Jimenez Assistant Coach sjimenez52@csudh.edu 310-243-3889
+
+21. Jared Maier
+   Email: jmaier2@csudh.edu
+   Username: jmaier2
+   Original line: Jared Maier Assistant Coach jmaier2@csudh.edu
+
+22. Lekeisha Moore
+   Email: lemoore@csudh.edu
+   Username: lemoore
+   Original line: Lekeisha Moore Head Coach lemoore@csudh.edu
+
+23. Ryan Pitts
+   Email: rpitts14@csudh.edu
+   Username: rpitts14
+   Original line: Ryan Pitts Assistant Coach rpitts14@csudh.edu
+
+24. Teddi Esko
+   Email: tesko@csudh.edu
+   Username: tesko
+   Phone: (310) 243-3172
+   Original line: Teddi Esko Head Coach tesko@csudh.edu 310-243-3172
+
+25. Victor De
+   Email: vdelacruzsierra@csudh.edu
+   Username: vdelacruzsierra
+   Original line: Victor De La Cruz Assistant Coach vdelacruzsierra@csudh.edu
+
+26. Ivy Chew
+   Email: ichew@csudh.edu
+   Username: ichew
+   Original line: Ivy Chew Assistant Coach ichew@csudh.edu
+
+27. Natalie Magallon
+   Email: nmagallon2@csudh.edu
+   Username: nmagallon2
+   Original line: Natalie Magallon Assistant Coach nmagallon2@csudh.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Lauren Chow Strength & Conditioning Coach lchow@csudh.edu 310-243-3480
+• Joon Hyuk Lee Assistant Strength and Conditioning Coach jolee@csudh.edu
+• Tyler Wright Head Coach twright@csudh.edu 310-243-3759
+• Greg Humbert Assistant Coach ghumbert1@csudh.edu
+• Esteban Contreras Assistant Baseball Coach/Recruiting Coordinator econtreras@csudh.edu 213-808-2408
+• Steve Becker Head Coach sbecker@csudh.edu 310-243-3891
+• John Peterson Assistant Coach jopeterson@csudh.edu
+• Nautica Morrow Interim Head Coach nmorrow3@csudh.edu 310-243-2211
+• Tyler Frierson Assistant Coach tfriersonnelson@csudh.edu (562)485-
+• Kandice Henderson Head Coach kahenderson@csudh.edu
+• Ebony Morrison Assistant Coach emorrison@csudh.edu
+• Cilecia Foster Head Coach cifoster@csudh.edu
+• Ron Eastman Head Coach reastman@csudh.edu 562-301-6970
+• Eddie Soto Head Coach esoto@csudh.edu 310-243-2221
+• Patryk Tenorio Assistant Coach ptenorio@csudh.edu 310-243-2836
+• Hunter Stewart Assistant Coach hstewart@csudh.edu
+• Adriana Valdez Lopez Head Coach avaldezlopez@csudh.edu
+• Michael Beigarten Assistant Coach mbeigarten@csudh.edu
+• Katie Garcia Head Coach klgarcia@csudh.edu 310-243-3889
+• Stephanie Jimenez Assistant Coach sjimenez52@csudh.edu 310-243-3889
+• Jared Maier Assistant Coach jmaier2@csudh.edu
+• Lekeisha Moore Head Coach lemoore@csudh.edu
+• Ryan Pitts Assistant Coach rpitts14@csudh.edu
+• Teddi Esko Head Coach tesko@csudh.edu 310-243-3172
+• Victor De La Cruz Assistant Coach vdelacruzsierra@csudh.edu
+• Ivy Chew Assistant Coach ichew@csudh.edu
+• Natalie Magallon Assistant Coach nmagallon2@csudh.edu

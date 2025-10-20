@@ -1,0 +1,221 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:06
+============================================================
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. Shawn Humberger
+   Email: shumberger@collegeofidaho.edu
+   Username: shumberger
+   Original line: Shawn Humberger Head Coach shumberger@collegeofidaho.edu 208-459-
+
+2. Brian Schweiger
+   Email: bschweiger@collegeofidaho.edu
+   Username: bschweiger
+   Original line: Brian Schweiger Associate Head Coach bschweiger@collegeofidaho.edu 208-459-
+
+3. Colby Blaine
+   Email: cblaine@collegeofidaho.edu
+   Username: cblaine
+   Original line: Colby Blaine Head Coach cblaine@collegeofidaho.edu 208-459- Colby_Blaine
+
+4. Emanuel Morgan
+   Email: mmorgan@collegeofidaho.edu
+   Username: mmorgan
+   Original line: Emanuel Morgan Assistant Coach mmorgan@collegeofidaho.edu
+
+5. Jacob McLeod
+   Email: jmcleod@collegeofidaho.edu
+   Username: jmcleod
+   Original line: Jacob McLeod Assistant Coach jmcleod@collegeofidaho.edu
+
+6. Kyle Erickson
+   Email: kerickson@collegeofidaho.edu
+   Username: kerickson
+   Original line: Kyle Erickson Head Coach kerickson@collegeofidaho.edu
+
+7. Cassidy Johnson
+   Email: cjohnson@collegeofidaho.edu
+   Username: cjohnson
+   Original line: Cassidy Johnson Assistant Coach cjohnson@collegeofidaho.edu
+
+8. Madison Machurek
+   Email: mmachurek@collegeofidaho.edu
+   Username: mmachurek
+   Original line: Madison Machurek Head Coach mmachurek@collegeofidaho.edu 208-859-
+
+9. Jackie van
+   Email: jvanvliet@collegeofidaho.edu
+   Username: jvanvliet
+   Original line: Jackie van Vliet Assistant Coach jvanvliet@collegeofidaho.edu
+
+10. GG Anderson
+   Email: gganderson@collegeofidaho.edu
+   Username: gganderson
+   Original line: GG Anderson Cheerleading / Dance Coach gganderson@collegeofidaho.edu 208-459-
+
+11. Dominic Bolin
+   Email: dbolin@collegeofidaho.edu
+   Username: dbolin
+   Original line: Dominic Bolin Head Coach dbolin@collegeofidaho.edu (208)
+
+12. Ben Bradley
+   Email: bbradley@collegeofidaho.edu
+   Username: bbradley
+   Original line: Ben Bradley Assistant Coach bbradley@collegeofidaho.edu (208)
+
+13. Mike Moroski
+   Email: mmoroski@collegeofidaho.edu
+   Username: mmoroski
+   Original line: Mike Moroski Head Coach mmoroski@collegeofidaho.edu 208-459-
+
+14. Chris Jewell
+   Email: cjewell@collegeofidaho.edu
+   Username: cjewell
+   Original line: Chris Jewell Defensive Coordinator (Associate cjewell@collegeofidaho.edu 208-459- CoachJewell
+
+15. Austin Nelson
+   Email: anelson@collegeofidaho.edu
+   Username: anelson
+   Original line: Austin Nelson Assistant Coach (Special Teams anelson@collegeofidaho.edu
+
+16. Carlos Murana
+   Email: cmurana@collegeofidaho.edu
+   Username: cmurana
+   Original line: Carlos Murana Assistant Coach (Defensive Line) cmurana@collegeofidaho.edu 619-731-
+
+17. Ryan Baerg
+   Email: rbaerg@collegeofidaho.edu
+   Username: rbaerg
+   Original line: Ryan Baerg Assistant Coach (Running Backs) rbaerg@collegeofidaho.edu
+
+18. Jeff Davies
+   Email: jdavies@collegeofidaho.edu
+   Username: jdavies
+   Original line: Jeff Davies Head Coach jdavies@collegeofidaho.edu 208-550-
+
+19. Drake O'Neill
+   Email: doneill@collegeofidaho.edu
+   Username: doneill
+   Original line: Drake O'Neill Head Lacrosse Coach doneill@collegeofidaho.edu 208-860-
+
+20. Thom Baker
+   Email: tbaker@collegeofidaho.edu
+   Username: tbaker
+   Original line: Thom Baker Head Coach tbaker@collegeofidaho.edu 208-459-
+
+21. Brad Thorne
+   Email: bthorne@collegeofidaho.edu
+   Username: bthorne
+   Original line: Brad Thorne Assistant Coach / Head JV Coach bthorne@collegeofidaho.edu (208)
+
+22. Brian Smith
+   Email: bcsmith@collegeofidaho.edu
+   Username: bcsmith
+   Original line: Brian Smith Head Coach bcsmith@collegeofidaho.edu 208-459-
+
+23. Ryan Porter
+   Email: rporter@collegeofidaho.edu
+   Username: rporter
+   Original line: Ryan Porter Assistant Coach (Recruiting rporter@collegeofidaho.edu 208-871-
+
+24. Shelby Nicoletti
+   Email: snicoletti@collegeofidaho.edu
+   Username: snicoletti
+   Original line: Shelby Nicoletti Assistant Coach / Head JV Coach snicoletti@collegeofidaho.edu 208-459-
+
+25. Gerry Scheetz
+   Email: gscheetz@collegeofidaho.edu
+   Username: gscheetz
+   Original line: Gerry Scheetz Assistant Coach gscheetz@collegeofidaho.edu
+
+26. Shelby Nicoletti
+   Email: snicoletti@collegeofidaho.edu
+   Username: snicoletti
+   Original line: Shelby Nicoletti Assistant Coach / Head JV Coach snicoletti@collegeofidaho.edu 208-459-
+
+27. Al Mendiola
+   Email: amendiola@collegeofidaho.edu
+   Username: amendiola
+   Original line: Al Mendiola Head Coach / Assistant Athletic amendiola@collegeofidaho.edu 208-459- MendiolaAl
+
+28. Maddison Rice
+   Email: mrice@collegeofidaho.edu
+   Username: mrice
+   Original line: Maddison Rice Swimming & Diving Head Coach | mrice@collegeofidaho.edu 208-830-
+
+29. Toni Portenier
+   Email: toniportenier@aol.com
+   Username: toniportenier
+   Original line: Toni Portenier Assistant Coach - Diving toniportenier@aol.com
+
+30. Jennifer Swing
+   Email: jswing@collegeofidaho.edu
+   Username: jswing
+   Original line: Jennifer Swing Head Coach jswing@collegeofidaho.edu 208-861-
+
+31. Dominic Bolin
+   Email: dbolin@collegeofidaho.edu
+   Username: dbolin
+   Original line: Dominic Bolin Head Coach dbolin@collegeofidaho.edu (208)
+
+32. Ben Bradley
+   Email: bbradley@collegeofidaho.edu
+   Username: bbradley
+   Original line: Ben Bradley Assistant Coach bbradley@collegeofidaho.edu (208)
+
+33. Tyler Straub
+   Email: tstraub@collegeofidaho.edu
+   Username: tstraub
+   Original line: Tyler Straub Assistant Coach tstraub@collegeofidaho.edu
+
+34. Jasmine Hurd
+   Email: jherd@collegeofidaho.edu
+   Username: jherd
+   Original line: Jasmine Hurd Assistant Coach (Hurdles) jherd@collegeofidaho.edu
+
+35. Liz Mendiola
+   Email: lmendiola@collegeofidaho.edu
+   Username: lmendiola
+   Original line: Liz Mendiola Head Coach / Senior Women's lmendiola@collegeofidaho.edu 208-459- l_mendiola11
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Shawn Humberger Head Coach shumberger@collegeofidaho.edu 208-459-
+• Brian Schweiger Associate Head Coach bschweiger@collegeofidaho.edu 208-459-
+• Colby Blaine Head Coach cblaine@collegeofidaho.edu 208-459- Colby_Blaine
+• Emanuel Morgan Assistant Coach mmorgan@collegeofidaho.edu
+• Jacob McLeod Assistant Coach jmcleod@collegeofidaho.edu
+• Kyle Erickson Head Coach kerickson@collegeofidaho.edu
+• Cassidy Johnson Assistant Coach cjohnson@collegeofidaho.edu
+• Madison Machurek Head Coach mmachurek@collegeofidaho.edu 208-859-
+• Jackie van Vliet Assistant Coach jvanvliet@collegeofidaho.edu
+• GG Anderson Cheerleading / Dance Coach gganderson@collegeofidaho.edu 208-459-
+• Dominic Bolin Head Coach dbolin@collegeofidaho.edu (208)
+• Ben Bradley Assistant Coach bbradley@collegeofidaho.edu (208)
+• Mike Moroski Head Coach mmoroski@collegeofidaho.edu 208-459-
+• Chris Jewell Defensive Coordinator (Associate cjewell@collegeofidaho.edu 208-459- CoachJewell
+• Austin Nelson Assistant Coach (Special Teams anelson@collegeofidaho.edu
+• Carlos Murana Assistant Coach (Defensive Line) cmurana@collegeofidaho.edu 619-731-
+• Ryan Baerg Assistant Coach (Running Backs) rbaerg@collegeofidaho.edu
+• Jeff Davies Head Coach jdavies@collegeofidaho.edu 208-550-
+• Drake O'Neill Head Lacrosse Coach doneill@collegeofidaho.edu 208-860-
+• Thom Baker Head Coach tbaker@collegeofidaho.edu 208-459-
+• Brad Thorne Assistant Coach / Head JV Coach bthorne@collegeofidaho.edu (208)
+• Brian Smith Head Coach bcsmith@collegeofidaho.edu 208-459-
+• Ryan Porter Assistant Coach (Recruiting rporter@collegeofidaho.edu 208-871-
+• Shelby Nicoletti Assistant Coach / Head JV Coach snicoletti@collegeofidaho.edu 208-459-
+• Gerry Scheetz Assistant Coach gscheetz@collegeofidaho.edu
+• Shelby Nicoletti Assistant Coach / Head JV Coach snicoletti@collegeofidaho.edu 208-459-
+• Al Mendiola Head Coach / Assistant Athletic amendiola@collegeofidaho.edu 208-459- MendiolaAl
+• Maddison Rice Swimming & Diving Head Coach | mrice@collegeofidaho.edu 208-830-
+• Toni Portenier Assistant Coach - Diving toniportenier@aol.com
+• Jennifer Swing Head Coach jswing@collegeofidaho.edu 208-861-
+• Dominic Bolin Head Coach dbolin@collegeofidaho.edu (208)
+• Ben Bradley Assistant Coach bbradley@collegeofidaho.edu (208)
+• Tyler Straub Assistant Coach tstraub@collegeofidaho.edu
+• Jasmine Hurd Assistant Coach (Hurdles) jherd@collegeofidaho.edu
+• Liz Mendiola Head Coach / Senior Women's lmendiola@collegeofidaho.edu 208-459- l_mendiola11

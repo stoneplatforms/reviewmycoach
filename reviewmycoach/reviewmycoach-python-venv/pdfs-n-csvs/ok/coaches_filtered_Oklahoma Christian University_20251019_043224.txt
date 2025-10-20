@@ -1,0 +1,209 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:24
+============================================================
+
+Total coaches found: 33
+
+PARSED ENTRIES:
+----------------------------------------
+1. James Hayes
+   Email: james.hayes@oc.edu
+   Username: james.hayes
+   Original line: James Hayes Head Bowling Coach / Director of Club Sports james.hayes@oc.edu 405-788-
+
+2. Riley Metzger
+   Email: riley.metzger@teamexos.com
+   Username: riley.metzger
+   Original line: Riley Metzger Strength & Conditioning Coach riley.metzger@teamexos.com
+
+3. Lonny Cobble
+   Email: lonny.cobble@oc.edu
+   Username: lonny.cobble
+   Original line: Lonny Cobble Head Coach lonny.cobble@oc.edu 405-425-
+
+4. Preston King
+   Email: preston.king@eagles.oc.edu
+   Username: preston.king
+   Original line: Preston King Assistant Coach / Recruiting Coordinator preston.king@eagles.oc.edu
+
+5. Greg Maskarinec
+   Email: gregorio.maskarinec@eagles.oc.edu
+   Username: gregorio.maskarinec
+   Original line: Greg Maskarinec Graduate Assistant Coach gregorio.maskarinec@eagles.oc.edu
+
+6. Kendre Talley
+   Email: kendre.talley@oc.edu
+   Username: kendre.talley
+   Original line: Kendre Talley Head Coach kendre.talley@oc.edu 405-425-
+
+7. Cooper Battisti
+   Email: cooper.battisti@oc.edu
+   Username: cooper.battisti
+   Original line: Cooper Battisti Assistant Coach cooper.battisti@oc.edu
+
+8. Markeith Brown
+   Email: markeith.brown@oc.edu
+   Username: markeith.brown
+   Original line: Markeith Brown Head Coach markeith.brown@oc.edu
+
+9. Michael Lewis
+   Email: michael.lewis@oc.edu
+   Username: michael.lewis
+   Original line: Michael Lewis Assistant Coach michael.lewis@oc.edu
+
+10. James Hayes
+   Email: james.hayes@oc.edu
+   Username: james.hayes
+   Original line: James Hayes Head Bowling Coach / Director of Club Sports james.hayes@oc.edu 405-788-
+
+11. Raina Davis
+   Email: raina.davis@oc.edu
+   Username: raina.davis
+   Original line: Raina Davis Assistant Coach raina.davis@oc.edu
+
+12. Joshua Drouin
+   Email: joshua.drouin@eagles.oc.edu
+   Username: joshua.drouin
+   Original line: Joshua Drouin Graduate Assistant Coach joshua.drouin@eagles.oc.edu
+
+13. Susan Jones
+   Email: susan.jones@oc.edu
+   Username: susan.jones
+   Original line: Susan Jones Head Coach susan.jones@oc.edu (405) 425-
+
+14. Wade Miller
+   Email: wade.miller@oc.edu
+   Username: wade.miller
+   Original line: Wade Miller Head Coach wade.miller@oc.edu 405-425-
+
+15. Wade Miller
+   Email: wade.miller@oc.edu
+   Username: wade.miller
+   Original line: Wade Miller Head Coach wade.miller@oc.edu 405-425-
+
+16. David Lynn
+   Email: david.lynn@oc.edu
+   Username: david.lynn
+   Original line: David Lynn Head Men's Coach david.lynn@oc.edu 405-425-
+
+17. Greg Lynn
+   Email: greg.lynn@oc.edu
+   Username: greg.lynn
+   Original line: Greg Lynn Volunteer Coach greg.lynn@oc.edu 405-412-
+
+18. Neil Hilton
+   Email: neil.hilton@oc.edu
+   Username: neil.hilton
+   Original line: Neil Hilton Head Coach neil.hilton@oc.edu 405-425-
+
+19. Allan Sorato
+   Email: allan.sorato@oc.edu
+   Username: allan.sorato
+   Original line: Allan Sorato Assistant Coach allan.sorato@oc.edu
+
+20. Artur Gomes
+   Email: artur.gomes@eagles.oc.edu
+   Username: artur.gomes
+   Original line: Artur Gomes Assistant Coach artur.gomes@eagles.oc.edu
+
+21. Evan Dresel
+   Email: evan.dresel@oc.edu
+   Username: evan.dresel
+   Original line: Evan Dresel Head Coach evan.dresel@oc.edu (405) 425-
+
+22. Roger Peron
+   Email: roger.peron@oc.edu
+   Username: roger.peron
+   Original line: Roger Peron Assistant Coach, Academic and Guidance Coach roger.peron@oc.edu
+
+23. Joseph "Flash"
+   Email: joseph.carter@eagles.oc.edu
+   Username: joseph.carter
+   Original line: Joseph "Flash" Carter Assistant Coach joseph.carter@eagles.oc.edu
+
+24. Shalee Rodriguez
+   Email: shalee.rodriguez@oc.edu
+   Username: shalee.rodriguez
+   Original line: Shalee Rodriguez Head Coach shalee.rodriguez@oc.edu 405-425-
+
+25. Bailey McKittrick
+   Email: bailey.mckittrick@oc.edu
+   Username: bailey.mckittrick
+   Original line: Bailey McKittrick Pitching Coach bailey.mckittrick@oc.edu
+
+26. Kristen Whitehouse
+   Email: kristen.whitehouse@eagles.oc.edu
+   Username: kristen.whitehouse
+   Original line: Kristen Whitehouse Assistant Coach kristen.whitehouse@eagles.oc.edu
+
+27. Josh Davis
+   Email: josh.davis@oc.edu
+   Username: josh.davis
+   Original line: Josh Davis Head Coach josh.davis@oc.edu 405-425-
+
+28. Benjamin Corley
+   Email: benjamin.corley@oc.edu
+   Username: benjamin.corley
+   Original line: Benjamin Corley Assistant Coach benjamin.corley@oc.edu
+
+29. Josh Davis
+   Email: josh.davis@oc.edu
+   Username: josh.davis
+   Original line: Josh Davis Head Coach josh.davis@oc.edu 405-425-
+
+30. Benjamin Corley
+   Email: benjamin.corley@oc.edu
+   Username: benjamin.corley
+   Original line: Benjamin Corley Assistant Coach benjamin.corley@oc.edu
+
+31. Wade Miller
+   Email: wade.miller@oc.edu
+   Username: wade.miller
+   Original line: Wade Miller Head Coach wade.miller@oc.edu 405-425-
+
+32. Wade Miller
+   Email: wade.miller@oc.edu
+   Username: wade.miller
+   Original line: Wade Miller Head Coach wade.miller@oc.edu 405-425-
+
+33. Kylie Tineo
+   Email: kylie.tineo@oc.edu
+   Username: kylie.tineo
+   Original line: Kylie Tineo Assistant Coach kylie.tineo@oc.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• James Hayes Head Bowling Coach / Director of Club Sports james.hayes@oc.edu 405-788-
+• Riley Metzger Strength & Conditioning Coach riley.metzger@teamexos.com
+• Lonny Cobble Head Coach lonny.cobble@oc.edu 405-425-
+• Preston King Assistant Coach / Recruiting Coordinator preston.king@eagles.oc.edu
+• Greg Maskarinec Graduate Assistant Coach gregorio.maskarinec@eagles.oc.edu
+• Kendre Talley Head Coach kendre.talley@oc.edu 405-425-
+• Cooper Battisti Assistant Coach cooper.battisti@oc.edu
+• Markeith Brown Head Coach markeith.brown@oc.edu
+• Michael Lewis Assistant Coach michael.lewis@oc.edu
+• James Hayes Head Bowling Coach / Director of Club Sports james.hayes@oc.edu 405-788-
+• Raina Davis Assistant Coach raina.davis@oc.edu
+• Joshua Drouin Graduate Assistant Coach joshua.drouin@eagles.oc.edu
+• Susan Jones Head Coach susan.jones@oc.edu (405) 425-
+• Wade Miller Head Coach wade.miller@oc.edu 405-425-
+• Wade Miller Head Coach wade.miller@oc.edu 405-425-
+• David Lynn Head Men's Coach david.lynn@oc.edu 405-425-
+• Greg Lynn Volunteer Coach greg.lynn@oc.edu 405-412-
+• Neil Hilton Head Coach neil.hilton@oc.edu 405-425-
+• Allan Sorato Assistant Coach allan.sorato@oc.edu
+• Artur Gomes Assistant Coach artur.gomes@eagles.oc.edu
+• Evan Dresel Head Coach evan.dresel@oc.edu (405) 425-
+• Roger Peron Assistant Coach, Academic and Guidance Coach roger.peron@oc.edu
+• Joseph "Flash" Carter Assistant Coach joseph.carter@eagles.oc.edu
+• Shalee Rodriguez Head Coach shalee.rodriguez@oc.edu 405-425-
+• Bailey McKittrick Pitching Coach bailey.mckittrick@oc.edu
+• Kristen Whitehouse Assistant Coach kristen.whitehouse@eagles.oc.edu
+• Josh Davis Head Coach josh.davis@oc.edu 405-425-
+• Benjamin Corley Assistant Coach benjamin.corley@oc.edu
+• Josh Davis Head Coach josh.davis@oc.edu 405-425-
+• Benjamin Corley Assistant Coach benjamin.corley@oc.edu
+• Wade Miller Head Coach wade.miller@oc.edu 405-425-
+• Wade Miller Head Coach wade.miller@oc.edu 405-425-
+• Kylie Tineo Assistant Coach kylie.tineo@oc.edu

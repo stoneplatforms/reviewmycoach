@@ -1,0 +1,7 @@
+Low-quality parsing detected in University of Oklahoma.pdf.
+Sample problematic entries (5):
+- oupomcoach@ou.edu Full Bio
+- oucheercoach@ou.edu Full Bio
+- coach.thomas@ou.edu Full Bio
+- coach.thomas@ou.edu Full Bio
+- coachmookie@ou.edu Full Bio

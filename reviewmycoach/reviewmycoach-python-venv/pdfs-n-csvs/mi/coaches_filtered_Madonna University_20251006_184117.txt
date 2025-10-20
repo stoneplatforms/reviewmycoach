@@ -1,0 +1,227 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:17
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Noel Emenhiser
+   Email: nemenhiser@madonna.edu
+   Username: nemenhiser
+   Original line: Noel Emenhiser Director of Athletics / Men's Basketball Head Coach nemenhiser@madonna.edu (734) 432-
+
+2. Amber Hauck
+   Email: ahauck@madonna.edu
+   Username: ahauck
+   Original line: Amber Hauck Head Cheerleading Coach / Senior Woman Administrator ahauck@madonna.edu
+
+3. Adam Kerfoot
+   Email: akerfoot@madonna.edu
+   Username: akerfoot
+   Original line: Adam Kerfoot Men's Basketball Associate Head Coach/Athletics Coordinator akerfoot@madonna.edu (989) 390-
+
+4. Drew Huard
+   Email: ahuard@madonna.edu
+   Username: ahuard
+   Original line: Drew Huard Head Coach ahuard@madonna.edu 734-432-
+
+5. Dylan Roberts
+   Email: djroberts@madonna.edu
+   Username: djroberts
+   Original line: Dylan Roberts Assistant Coach / Recruiting Coordinator djroberts@madonna.edu
+
+6. Blake Garrison
+   Email: blakegarrison42@gmail.com
+   Username: blakegarrison42
+   Original line: Blake Garrison Pitching Coach blakegarrison42@gmail.com
+
+7. George Bell
+   Email: gbell@madonna.edu
+   Username: gbell
+   Original line: George Bell Head Coach gbell@madonna.edu
+
+8. Joshua McCluskey
+   Email: Jmccluskey@madonna.edu
+   Username: Jmccluskey
+   Original line: Joshua McCluskey Assistant Coach Jmccluskey@madonna.edu
+
+9. Noel Emenhiser
+   Email: nemenhiser@madonna.edu
+   Username: nemenhiser
+   Original line: Noel Emenhiser Director of Athletics / Men's Basketball Head Coach nemenhiser@madonna.edu (734) 432-
+
+10. Adam Kerfoot
+   Email: akerfoot@madonna.edu
+   Username: akerfoot
+   Original line: Adam Kerfoot Men's Basketball Associate Head Coach/Athletics Coordinator akerfoot@madonna.edu (989) 390-
+
+11. Jaresha Obey
+   Email: jobey@madonna.edu
+   Username: jobey
+   Original line: Jaresha Obey Head Women's Basketball Coach jobey@madonna.edu 734-432-
+
+12. Brad Parker
+   Email: bdparker@madonna.edu
+   Username: bdparker
+   Original line: Brad Parker Assistant Coach bdparker@madonna.edu
+
+13. Bill Schnorenberg
+   Email: wschnorenberg@madonna.edu
+   Username: wschnorenberg
+   Original line: Bill Schnorenberg Assistant Coach/ Recruiting Coordinator wschnorenberg@madonna.edu
+
+14. Ami Yezman
+   Email: ayezman@madonna.edu
+   Username: ayezman
+   Original line: Ami Yezman Assistant Coach ayezman@madonna.edu
+
+15. Imani Dixon
+   Email: idixon@madonna.edu
+   Username: idixon
+   Original line: Imani Dixon Assistant Coach idixon@madonna.edu
+
+16. Ignacio Hood
+   Email: ihood@madonna.edu
+   Username: ihood
+   Original line: Ignacio Hood Reserve Head Coach ihood@madonna.edu
+
+17. Amber Hauck
+   Email: ahauck@madonna.edu
+   Username: ahauck
+   Original line: Amber Hauck Head Cheerleading Coach / Senior Woman Administrator ahauck@madonna.edu
+
+18. Patrick Daugherty
+   Email: pdaugherty@madonna.edu
+   Username: pdaugherty
+   Original line: Patrick Daugherty Head Coach, Cross Country/Assistant Coach, Track and Field pdaugherty@madonna.edu (734) 432-
+
+19. Tessa Michels
+   Email: ttalan@madonna.edu
+   Username: ttalan
+   Original line: Tessa Michels Head Coach ttalan@madonna.edu
+
+20. Brett Guminsky
+   Email: bguminsky@madonna.edu
+   Username: bguminsky
+   Original line: Brett Guminsky Head Coach bguminsky@madonna.edu 734-432-
+
+21. Matt Strzalkowski
+   Email: mstrzalkowski@madonna.edu
+   Username: mstrzalkowski
+   Original line: Matt Strzalkowski Associate Head Coach / Defensive Coordinator mstrzalkowski@madonna.edu 810-623-
+
+22. Philip Guel
+   Email: pguel@madonna.edu
+   Username: pguel
+   Original line: Philip Guel Offensive Coordinator / Offensive Line Coach pguel@madonna.edu 734-432-
+
+23. Prince AyoOla
+   Email: payoola@madonna.edu
+   Username: payoola
+   Original line: Prince AyoOla Co-Defensive Coordinator / Special Teams Coordinator / DB Coach / payoola@madonna.edu 734-432-
+
+24. Gerald McCants
+   Email: gmccants@madonna.edu
+   Username: gmccants
+   Original line: Gerald McCants Co-Offensive Coordinator / WR Coach / Recruiting Coordinator gmccants@madonna.edu 734-432-
+
+25. Frank McAuliffe
+   Email: fmcauliffe@madonna.edu
+   Username: fmcauliffe
+   Original line: Frank McAuliffe Head Coach fmcauliffe@madonna.edu 734-709-
+
+26. Charlie Bowles
+   Email: cbowles@madonna.edu
+   Username: cbowles
+   Original line: Charlie Bowles Assistant Coach cbowles@madonna.edu 248-767-
+
+27. Carlos Matta
+   Email: cmatta@madonna.edu
+   Username: cmatta
+   Original line: Carlos Matta Head Coach cmatta@madonna.edu 734-432-
+
+28. Nick Pietras
+   Email: npietras@my.madonna.edu
+   Username: npietras
+   Original line: Nick Pietras Assistant Coach / Defensive Coordinator npietras@my.madonna.edu 734-432-
+
+29. Dan Teskey
+   Email: dteskey@madonna.edu
+   Username: dteskey
+   Original line: Dan Teskey Head Coach dteskey@madonna.edu 734-432-
+
+30. Mark Zathey
+   Email: mzathey@madonna.edu
+   Username: mzathey
+   Original line: Mark Zathey Head Coach mzathey@madonna.edu (734) 834-
+
+31. Nick Atwood
+   Email: natwood@my.madonna.edu
+   Username: natwood
+   Original line: Nick Atwood Interim Head Coach natwood@my.madonna.edu
+
+32. Ron Pezzoni
+   Email: rpezzoni@madonna.edu
+   Username: rpezzoni
+   Original line: Ron Pezzoni Head Coach rpezzoni@madonna.edu 810-333-
+
+33. Stacy Latnie
+   Email: slatnie@madonna.edu
+   Username: slatnie
+   Original line: Stacy Latnie Head Coach slatnie@madonna.edu 734-432-
+
+34. Julius Koger
+   Email: jkoger@madonna.edu
+   Username: jkoger
+   Original line: Julius Koger Associate Head Coach jkoger@madonna.edu 734-432-
+
+35. Patrick Daugherty
+   Email: pdaugherty@madonna.edu
+   Username: pdaugherty
+   Original line: Patrick Daugherty Head Coach, Cross Country/Assistant Coach, Track and Field pdaugherty@madonna.edu (734) 432-
+
+36. Scott Barbe
+   Email: sbarbe@madonna.edu
+   Username: sbarbe
+   Original line: Scott Barbe Head Coach sbarbe@madonna.edu 734-432-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Noel Emenhiser Director of Athletics / Men's Basketball Head Coach nemenhiser@madonna.edu (734) 432-
+• Amber Hauck Head Cheerleading Coach / Senior Woman Administrator ahauck@madonna.edu
+• Adam Kerfoot Men's Basketball Associate Head Coach/Athletics Coordinator akerfoot@madonna.edu (989) 390-
+• Drew Huard Head Coach ahuard@madonna.edu 734-432-
+• Dylan Roberts Assistant Coach / Recruiting Coordinator djroberts@madonna.edu
+• Blake Garrison Pitching Coach blakegarrison42@gmail.com
+• George Bell Head Coach gbell@madonna.edu
+• Joshua McCluskey Assistant Coach Jmccluskey@madonna.edu
+• Noel Emenhiser Director of Athletics / Men's Basketball Head Coach nemenhiser@madonna.edu (734) 432-
+• Adam Kerfoot Men's Basketball Associate Head Coach/Athletics Coordinator akerfoot@madonna.edu (989) 390-
+• Jaresha Obey Head Women's Basketball Coach jobey@madonna.edu 734-432-
+• Brad Parker Assistant Coach bdparker@madonna.edu
+• Bill Schnorenberg Assistant Coach/ Recruiting Coordinator wschnorenberg@madonna.edu
+• Ami Yezman Assistant Coach ayezman@madonna.edu
+• Imani Dixon Assistant Coach idixon@madonna.edu
+• Ignacio Hood Reserve Head Coach ihood@madonna.edu
+• Amber Hauck Head Cheerleading Coach / Senior Woman Administrator ahauck@madonna.edu
+• Patrick Daugherty Head Coach, Cross Country/Assistant Coach, Track and Field pdaugherty@madonna.edu (734) 432-
+• Tessa Michels Head Coach ttalan@madonna.edu
+• Brett Guminsky Head Coach bguminsky@madonna.edu 734-432-
+• Matt Strzalkowski Associate Head Coach / Defensive Coordinator mstrzalkowski@madonna.edu 810-623-
+• Philip Guel Offensive Coordinator / Offensive Line Coach pguel@madonna.edu 734-432-
+• Prince AyoOla Co-Defensive Coordinator / Special Teams Coordinator / DB Coach / payoola@madonna.edu 734-432-
+• Gerald McCants Co-Offensive Coordinator / WR Coach / Recruiting Coordinator gmccants@madonna.edu 734-432-
+• Frank McAuliffe Head Coach fmcauliffe@madonna.edu 734-709-
+• Charlie Bowles Assistant Coach cbowles@madonna.edu 248-767-
+• Carlos Matta Head Coach cmatta@madonna.edu 734-432-
+• Nick Pietras Assistant Coach / Defensive Coordinator npietras@my.madonna.edu 734-432-
+• Dan Teskey Head Coach dteskey@madonna.edu 734-432-
+• Mark Zathey Head Coach mzathey@madonna.edu (734) 834-
+• Nick Atwood Interim Head Coach natwood@my.madonna.edu
+• Ron Pezzoni Head Coach rpezzoni@madonna.edu 810-333-
+• Stacy Latnie Head Coach slatnie@madonna.edu 734-432-
+• Julius Koger Associate Head Coach jkoger@madonna.edu 734-432-
+• Patrick Daugherty Head Coach, Cross Country/Assistant Coach, Track and Field pdaugherty@madonna.edu (734) 432-
+• Scott Barbe Head Coach sbarbe@madonna.edu 734-432-

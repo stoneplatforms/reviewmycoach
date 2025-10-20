@@ -1,0 +1,315 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:19
+============================================================
+
+Total coaches found: 45
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tanner Tolston
+   Email: ttolston@umo.edu
+   Username: ttolston
+   Phone: (919) 299-4814
+   Original line: Tanner Tolston Strength & Conditioning Coach ttolston@umo.edu 919-299-4814
+
+2. Kaylee Hunt
+   Email: khunt@umo.edu
+   Username: khunt
+   Phone: (919) 658-7181
+   Original line: Kaylee Hunt Head Spirit Coach/Student-Athlete Success khunt@umo.edu 919-658-7181
+
+3. Rob Watt
+   Email: rwatt@umo.edu
+   Username: rwatt
+   Phone: (919) 658-7799
+   Original line: Rob Watt Head Coach rwatt@umo.edu 919-658-7799
+
+4. Jeff Thompson
+   Email: jt@umo.edu
+   Username: jt
+   Phone: (919) 635-2786
+   Original line: Jeff Thompson Associate Head Coach jt@umo.edu 919-635-2786
+
+5. Lawson Harrill
+   Email: thomas.harrill@umo.edu
+   Username: thomas.harrill
+   Phone: (919)658-7569
+   Original line: Lawson Harrill Assistant Coach thomas.harrill@umo.edu (919)658-7569
+
+6. Zach Grant
+   Email: zgrant@umo.edu
+   Username: zgrant
+   Phone: (919) 658-1665
+   Original line: Zach Grant Head Coach zgrant@umo.edu 919-658-1665
+
+7. Dylan Gottuso
+   Email: dcg7360@umo.edu
+   Username: dcg7360
+   Original line: Dylan Gottuso Assistant Coach dcg7360@umo.edu
+
+8. Sal-Bey Young
+   Email: syoung@umo.edu
+   Username: syoung
+   Original line: Sal-Bey Young Assistant Coach syoung@umo.edu
+
+9. Joey Higginbotham
+   Email: jhigginbotham@umo.edu
+   Username: jhigginbotham
+   Phone: (919) 658-7759
+   Original line: Joey Higginbotham Interim Head Coach jhigginbotham@umo.edu 919-658-7759
+
+10. Matthew Snyder
+   Email: msnyder@umo.edu
+   Username: msnyder
+   Phone: (919) 658-7762
+   Original line: Matthew Snyder Associate Head Coach msnyder@umo.edu 919-658-7762
+
+11. Alexis Redd
+   Email: aredd@umo.edu
+   Username: aredd
+   Original line: Alexis Redd Assistant Coach aredd@umo.edu
+
+12. Bryan Hagopian
+   Email: bhagopian@umo.edu
+   Username: bhagopian
+   Phone: (919) 658-7718
+   Original line: Bryan Hagopian Head Cross Country Coach/Assistant Track & bhagopian@umo.edu 919-658-7718
+
+13. Bryan Hagopian
+   Email: bhagopian@umo.edu
+   Username: bhagopian
+   Phone: (919) 658-7718
+   Original line: Bryan Hagopian Head Cross Country Coach/Assistant Track & bhagopian@umo.edu 919-658-7718
+
+14. Brittney Randolph
+   Email: brandolph@umo.edu
+   Username: brandolph
+   Phone: (919) 658-7547
+   Original line: Brittney Randolph Head Coach brandolph@umo.edu 919-658-7547
+
+15. Chip Spiron
+   Email: cspiron@umo.edu
+   Username: cspiron
+   Phone: (919) 658-7813
+   Original line: Chip Spiron Head Coach cspiron@umo.edu 919-658-7813
+
+16. Chip Spiron
+   Email: cspiron@umo.edu
+   Username: cspiron
+   Phone: (919) 658-7813
+   Original line: Chip Spiron Head Coach cspiron@umo.edu 919-658-7813
+
+17. Dylan Price
+   Email: dprice@umo.edu
+   Username: dprice
+   Phone: (919) 299-4928
+   Original line: Dylan Price Head Coach dprice@umo.edu 919-299-4928
+
+18. Jake MacKenzie
+   Email: jmackenzie@umo.edu
+   Username: jmackenzie
+   Phone: (919) 658-7874
+   Original line: Jake MacKenzie Assistant Coach jmackenzie@umo.edu 919-658-7874
+
+19. Katherine Stachowski
+   Email: kstachowski@umo.edu
+   Username: kstachowski
+   Phone: (919) 658-7712
+   Original line: Katherine Stachowski Head Coach kstachowski@umo.edu 919-658-7712
+
+20. Ian Spooner
+   Email: ispooner@umo.edu
+   Username: ispooner
+   Original line: Ian Spooner Head Coach ispooner@umo.edu
+
+21. Chase Boulton
+   Email: cboulton@umo.edu
+   Username: cboulton
+   Phone: (919)658-1937
+   Original line: Chase Boulton Assistant Coach cboulton@umo.edu (919)658-1937
+
+22. Glad Bugariu
+   Email: tbugariu@umo.edu
+   Username: tbugariu
+   Phone: (919) 635-2782
+   Original line: Glad Bugariu Head Coach tbugariu@umo.edu 919-635-2782
+
+23. Tony Stoyanov
+   Email: sstoyanov@umo.edu
+   Username: sstoyanov
+   Phone: (919) 658-7812
+   Original line: Tony Stoyanov Assistant Coach sstoyanov@umo.edu 919-658-7812
+
+24. India Kornegay
+   Email: ikornegay@umo.edu
+   Username: ikornegay
+   Phone: (919) 658-7841
+   Original line: India Kornegay Head Coach ikornegay@umo.edu 919-658-7841
+
+25. Jason Deitz
+   Email: jdeitz@umo.edu
+   Username: jdeitz
+   Phone: (919) 658-7872
+   Original line: Jason Deitz Assistant Coach jdeitz@umo.edu 919-658-7872
+
+26. Kaylee Hunt
+   Email: khunt@umo.edu
+   Username: khunt
+   Phone: (919) 658-7181
+   Original line: Kaylee Hunt Head Spirit Coach/Student-Athlete Success khunt@umo.edu 919-658-7181
+
+27. Andrew Sendek
+   Email: asendek@umo.edu
+   Username: asendek
+   Original line: Andrew Sendek Head Coach asendek@umo.edu
+
+28. Andrew Sendek
+   Email: asendek@umo.edu
+   Username: asendek
+   Original line: Andrew Sendek Head Coach asendek@umo.edu
+
+29. Justin Potter
+   Email: jpotter@umo.edu
+   Username: jpotter
+   Phone: (919) 658-7862
+   Original line: Justin Potter Associate Head Coach jpotter@umo.edu 919-658-7862
+
+30. Bryan Hagopian
+   Email: bhagopian@umo.edu
+   Username: bhagopian
+   Phone: (919) 658-7718
+   Original line: Bryan Hagopian Head Cross Country Coach/Assistant Track & bhagopian@umo.edu 919-658-7718
+
+31. Clive McDonald
+   Email: cmcdonald@umo.edu
+   Username: cmcdonald
+   Phone: (919) 658-7809
+   Original line: Clive McDonald Assistant Coach cmcdonald@umo.edu 919-658-7809
+
+32. Charone White
+   Email: cwhite@umo.edu
+   Username: cwhite
+   Original line: Charone White Assistant Coach cwhite@umo.edu
+
+33. Justin Potter
+   Email: jpotter@umo.edu
+   Username: jpotter
+   Phone: (919) 658-7862
+   Original line: Justin Potter Associate Head Coach jpotter@umo.edu 919-658-7862
+
+34. Bryan Hagopian
+   Email: bhagopian@umo.edu
+   Username: bhagopian
+   Phone: (919) 658-7718
+   Original line: Bryan Hagopian Head Cross Country Coach/Assistant Track & bhagopian@umo.edu 919-658-7718
+
+35. Clive McDonald
+   Email: cmcdonald@umo.edu
+   Username: cmcdonald
+   Phone: (919) 658-7809
+   Original line: Clive McDonald Assistant Coach cmcdonald@umo.edu 919-658-7809
+
+36. Charone White
+   Email: cwhite@umo.edu
+   Username: cwhite
+   Original line: Charone White Assistant Coach cwhite@umo.edu
+
+37. Yigit Erkek
+   Email: yerkek@umo.edu
+   Username: yerkek
+   Phone: (919) 658-7546
+   Original line: Yigit Erkek Head Coach yerkek@umo.edu 919-658-7546
+
+38. Ashlyn Stone
+   Email: AMS7636@umo.edu
+   Username: AMS7636
+   Original line: Ashlyn Stone Assistant Coach AMS7636@umo.edu
+
+39. Kevin Troup
+   Email: ktroup@umo.edu
+   Username: ktroup
+   Phone: (919) 658-1666
+   Original line: Kevin Troup Head Coach ktroup@umo.edu 919-658-1666
+
+40. Natalie Rosinski
+   Email: NVR2423@umo.edu
+   Username: NVR2423
+   Original line: Natalie Rosinski Assistant Coach NVR2423@umo.edu
+
+41. Dan Willis
+   Email: dwillis@umo.edu
+   Username: dwillis
+   Phone: (919) 299-4561
+   Original line: Dan Willis Head Coach dwillis@umo.edu 919-299-4561
+
+42. Trent Allen
+   Email: tallen@umo.edu
+   Username: tallen
+   Phone: (919) 658-7489
+   Original line: Trent Allen Assistant Coach tallen@umo.edu 919-658-7489
+
+43. Dan Willis
+   Email: dwillis@umo.edu
+   Username: dwillis
+   Phone: (919) 299-4561
+   Original line: Dan Willis Head Coach dwillis@umo.edu 919-299-4561
+
+44. Chris Conner
+   Email: cconnor@umo.edu
+   Username: cconnor
+   Phone: (919) 658-8558
+   Original line: Chris Conner Assistant Coach cconnor@umo.edu 919-658-8558
+
+45. Kaitlin Martinez
+   Email: Kmartinez@umo.edu
+   Username: Kmartinez
+   Original line: Kaitlin Martinez Assistant Coach Kmartinez@umo.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tanner Tolston Strength & Conditioning Coach ttolston@umo.edu 919-299-4814
+• Kaylee Hunt Head Spirit Coach/Student-Athlete Success khunt@umo.edu 919-658-7181
+• Rob Watt Head Coach rwatt@umo.edu 919-658-7799
+• Jeff Thompson Associate Head Coach jt@umo.edu 919-635-2786
+• Lawson Harrill Assistant Coach thomas.harrill@umo.edu (919)658-7569
+• Zach Grant Head Coach zgrant@umo.edu 919-658-1665
+• Dylan Gottuso Assistant Coach dcg7360@umo.edu
+• Sal-Bey Young Assistant Coach syoung@umo.edu
+• Joey Higginbotham Interim Head Coach jhigginbotham@umo.edu 919-658-7759
+• Matthew Snyder Associate Head Coach msnyder@umo.edu 919-658-7762
+• Alexis Redd Assistant Coach aredd@umo.edu
+• Bryan Hagopian Head Cross Country Coach/Assistant Track & bhagopian@umo.edu 919-658-7718
+• Bryan Hagopian Head Cross Country Coach/Assistant Track & bhagopian@umo.edu 919-658-7718
+• Brittney Randolph Head Coach brandolph@umo.edu 919-658-7547
+• Chip Spiron Head Coach cspiron@umo.edu 919-658-7813
+• Chip Spiron Head Coach cspiron@umo.edu 919-658-7813
+• Dylan Price Head Coach dprice@umo.edu 919-299-4928
+• Jake MacKenzie Assistant Coach jmackenzie@umo.edu 919-658-7874
+• Katherine Stachowski Head Coach kstachowski@umo.edu 919-658-7712
+• Ian Spooner Head Coach ispooner@umo.edu
+• Chase Boulton Assistant Coach cboulton@umo.edu (919)658-1937
+• Glad Bugariu Head Coach tbugariu@umo.edu 919-635-2782
+• Tony Stoyanov Assistant Coach sstoyanov@umo.edu 919-658-7812
+• India Kornegay Head Coach ikornegay@umo.edu 919-658-7841
+• Jason Deitz Assistant Coach jdeitz@umo.edu 919-658-7872
+• Kaylee Hunt Head Spirit Coach/Student-Athlete Success khunt@umo.edu 919-658-7181
+• Andrew Sendek Head Coach asendek@umo.edu
+• Andrew Sendek Head Coach asendek@umo.edu
+• Justin Potter Associate Head Coach jpotter@umo.edu 919-658-7862
+• Bryan Hagopian Head Cross Country Coach/Assistant Track & bhagopian@umo.edu 919-658-7718
+• Clive McDonald Assistant Coach cmcdonald@umo.edu 919-658-7809
+• Charone White Assistant Coach cwhite@umo.edu
+• Justin Potter Associate Head Coach jpotter@umo.edu 919-658-7862
+• Bryan Hagopian Head Cross Country Coach/Assistant Track & bhagopian@umo.edu 919-658-7718
+• Clive McDonald Assistant Coach cmcdonald@umo.edu 919-658-7809
+• Charone White Assistant Coach cwhite@umo.edu
+• Yigit Erkek Head Coach yerkek@umo.edu 919-658-7546
+• Ashlyn Stone Assistant Coach AMS7636@umo.edu
+• Kevin Troup Head Coach ktroup@umo.edu 919-658-1666
+• Natalie Rosinski Assistant Coach NVR2423@umo.edu
+• Dan Willis Head Coach dwillis@umo.edu 919-299-4561
+• Trent Allen Assistant Coach tallen@umo.edu 919-658-7489
+• Dan Willis Head Coach dwillis@umo.edu 919-299-4561
+• Chris Conner Assistant Coach cconnor@umo.edu 919-658-8558
+• Kaitlin Martinez Assistant Coach Kmartinez@umo.edu

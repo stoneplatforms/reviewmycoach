@@ -1,0 +1,197 @@
+COACH ENTRIES FOUND - 2025-10-04 18:17:37
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Andrew Toledano
+   Email: at1561@nova.edu
+   Username: at1561
+   Original line: Andrew Toledano Assistant Strength and Conditioning Coach at1561@nova.edu
+
+2. Matilda Jakobbsson
+   Email: aj1915@nova.edu
+   Username: aj1915
+   Original line: Matilda Jakobbsson Graduate Assistant Strength and Conditioning Coach aj1915@nova.edu
+
+3. Tashara White
+   Email: tw1235@nova.edu
+   Username: tw1235
+   Original line: Tashara White Graduate Assistant Strength and Conditioning Coach tw1235@nova.edu
+
+4. Dylan Buxbaum
+   Email: db2588@nova.edu
+   Username: db2588
+   Original line: Dylan Buxbaum Graduate Assistant Strength and Conditioning Coach db2588@nova.edu
+
+5. Adrian Morales
+   Email: amorales@nova.edu
+   Username: amorales
+   Original line: Adrian Morales Head Baseball Coach amorales@nova.edu
+
+6. Brian Gonzalez
+   Email: bg1310@nova.edu
+   Username: bg1310
+   Original line: Brian Gonzalez Assistant Baseball Coach bg1310@nova.edu
+
+7. Erick Orberta
+   Email: eo530@nova.edu
+   Username: eo530
+   Original line: Erick Orberta Assistant Baseball Coach eo530@nova.edu
+
+8. Jim Crutchfield
+   Email: jcrutchfie@nova.edu
+   Username: jcrutchfie
+   Original line: Jim Crutchfield Head Men's Basketball Coach jcrutchfie@nova.edu 954-262-
+
+9. Nick Smith
+   Email: ns1262@nova.edu
+   Username: ns1262
+   Original line: Nick Smith Associate Head Men's Basketball Coach ns1262@nova.edu
+
+10. RJ Sunahara
+   Email: rs2525@nova.edu
+   Username: rs2525
+   Original line: RJ Sunahara Men's Basketball Assistant Coach rs2525@nova.edu
+
+11. Heather Macy
+   Email: hmacy@nova.edu
+   Username: hmacy
+   Original line: Heather Macy Head Women's Basketball Coach hmacy@nova.edu
+
+12. Josie Earnhardt
+   Email: jearnhar@nova.edu
+   Username: jearnhar
+   Original line: Josie Earnhardt Assistant Women's Basketball Coach jearnhar@nova.edu
+
+13. Abria Trice
+   Email: dtrice@nova.edu
+   Username: dtrice
+   Original line: Abria Trice Assistant Women's Basketball Coach dtrice@nova.edu
+
+14. Jonathan Carter
+   Email: jcarter3@nova.edu
+   Username: jcarter3
+   Original line: Jonathan Carter Head Cross Country/Track & Field Coach jcarter3@nova.edu 954-262-
+
+15. Joey Marino
+   Email: jmarino@nova.edu
+   Username: jmarino
+   Original line: Joey Marino Head Men's Golf Coach jmarino@nova.edu 954-235-
+
+16. Heather Wall
+   Email: hwall@nova.edu
+   Username: hwall
+   Original line: Heather Wall Head Women's Golf Coach hwall@nova.edu 954-262-
+
+17. Heather Coppola
+   Email: hcoppola@nova.edu
+   Username: hcoppola
+   Original line: Heather Coppola Head Women's Lacrosse Coach hcoppola@nova.edu
+
+18. Summer Fowler
+   Email: sfowler1@nova.edu
+   Username: sfowler1
+   Original line: Summer Fowler Assistant Women's Lacrosse Coach sfowler1@nova.edu
+
+19. Autumn Ayala
+   Email: amurley@nova.edu
+   Username: amurley
+   Original line: Autumn Ayala Head Women's Rowing Coach amurley@nova.edu
+
+20. Matt McArthur
+   Email: mmcarthu@nova.edu
+   Username: mmcarthu
+   Original line: Matt McArthur Head Men's Soccer Coach mmcarthu@nova.edu
+
+21. Manuel Perez
+   Email: mperezba@nova.edu
+   Username: mperezba
+   Original line: Manuel Perez Assistant Men's Soccer Coach mperezba@nova.edu
+
+22. Amy Vaughan
+   Email: avaughan@nova.edu
+   Username: avaughan
+   Original line: Amy Vaughan Head Women's Soccer Coach avaughan@nova.edu
+
+23. Augustin Iusem
+   Email: ai521@nova.edu
+   Username: ai521
+   Original line: Augustin Iusem Graduate Assistant Women's Soccer Coach ai521@nova.edu
+
+24. Julie LeMaire
+   Email: jlemaire@nova.edu
+   Username: jlemaire
+   Original line: Julie LeMaire Head Softball Coach jlemaire@nova.edu 954-262-
+
+25. Sydney Lageyre
+   Email: sl1555@nova.edu
+   Username: sl1555
+   Original line: Sydney Lageyre Assistant Softball Coach sl1555@nova.edu 954-262-
+
+26. Lauren Margolis
+   Email: lm3172@nova.edu
+   Username: lm3172
+   Original line: Lauren Margolis Graduate Assistant Softball Coach lm3172@nova.edu
+
+27. Ben Hewitt
+   Email: bh583@nova.edu
+   Username: bh583
+   Original line: Ben Hewitt Head Swimming Coach bh583@nova.edu 954-262-
+
+28. Natalie Galluzzo
+   Email: ngalluzz@nova.edu
+   Username: ngalluzz
+   Original line: Natalie Galluzzo Assistant Swimming Coach ngalluzz@nova.edu
+
+29. Doug Neagle
+   Email: dneagle@nova.edu
+   Username: dneagle
+   Original line: Doug Neagle Head Women's Tennis Coach dneagle@nova.edu 954-262-
+
+30. Kacie Ehinger
+   Email: kehinger@nova.edu
+   Username: kehinger
+   Original line: Kacie Ehinger Head Volleyball Coach kehinger@nova.edu 954-262-
+
+31. Matt Geer
+   Email: mgeer@nova.edu
+   Username: mgeer
+   Original line: Matt Geer Assistant Volleyball Coach mgeer@nova.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Andrew Toledano Assistant Strength and Conditioning Coach at1561@nova.edu
+• Matilda Jakobbsson Graduate Assistant Strength and Conditioning Coach aj1915@nova.edu
+• Tashara White Graduate Assistant Strength and Conditioning Coach tw1235@nova.edu
+• Dylan Buxbaum Graduate Assistant Strength and Conditioning Coach db2588@nova.edu
+• Adrian Morales Head Baseball Coach amorales@nova.edu
+• Brian Gonzalez Assistant Baseball Coach bg1310@nova.edu
+• Erick Orberta Assistant Baseball Coach eo530@nova.edu
+• Jim Crutchfield Head Men's Basketball Coach jcrutchfie@nova.edu 954-262-
+• Nick Smith Associate Head Men's Basketball Coach ns1262@nova.edu
+• RJ Sunahara Men's Basketball Assistant Coach rs2525@nova.edu
+• Heather Macy Head Women's Basketball Coach hmacy@nova.edu
+• Josie Earnhardt Assistant Women's Basketball Coach jearnhar@nova.edu
+• Abria Trice Assistant Women's Basketball Coach dtrice@nova.edu
+• Jonathan Carter Head Cross Country/Track & Field Coach jcarter3@nova.edu 954-262-
+• Joey Marino Head Men's Golf Coach jmarino@nova.edu 954-235-
+• Heather Wall Head Women's Golf Coach hwall@nova.edu 954-262-
+• Heather Coppola Head Women's Lacrosse Coach hcoppola@nova.edu
+• Summer Fowler Assistant Women's Lacrosse Coach sfowler1@nova.edu
+• Autumn Ayala Head Women's Rowing Coach amurley@nova.edu
+• Matt McArthur Head Men's Soccer Coach mmcarthu@nova.edu
+• Manuel Perez Assistant Men's Soccer Coach mperezba@nova.edu
+• Amy Vaughan Head Women's Soccer Coach avaughan@nova.edu
+• Augustin Iusem Graduate Assistant Women's Soccer Coach ai521@nova.edu
+• Julie LeMaire Head Softball Coach jlemaire@nova.edu 954-262-
+• Sydney Lageyre Assistant Softball Coach sl1555@nova.edu 954-262-
+• Lauren Margolis Graduate Assistant Softball Coach lm3172@nova.edu
+• Ben Hewitt Head Swimming Coach bh583@nova.edu 954-262-
+• Natalie Galluzzo Assistant Swimming Coach ngalluzz@nova.edu
+• Doug Neagle Head Women's Tennis Coach dneagle@nova.edu 954-262-
+• Kacie Ehinger Head Volleyball Coach kehinger@nova.edu 954-262-
+• Matt Geer Assistant Volleyball Coach mgeer@nova.edu

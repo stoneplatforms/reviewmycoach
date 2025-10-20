@@ -1,0 +1,212 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:43
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Amy Beall
+   Email: amy.beall@stmary.edu
+   Username: amy.beall
+   Phone: (913) 758-4343
+   Original line: Amy Beall Head Volleyball Coach | Senior Women 913-758-4343 amy.beall@stmary.edu
+
+2. Amy Beall
+   Email: amy.beall@stmary.edu
+   Username: amy.beall
+   Phone: (913) 758-4343
+   Original line: Amy Beall Head Volleyball Coach | Senior Women 913-758-4343 amy.beall@stmary.edu
+
+3. Levi Pollreisz
+   Email: Levi.Pollreisz@stmary.edu
+   Username: Levi.Pollreisz
+   Phone: (913) 758-4341
+   Original line: Levi Pollreisz Assistant Coach 913-758-4341 Levi.Pollreisz@stmary.edu
+
+4. Troy Brown
+   Email: troy.brown@stmary.edu
+   Username: troy.brown
+   Phone: (913) 758-6311
+   Original line: Troy Brown Head Coach 913-758-6311 troy.brown@stmary.edu
+
+5. Jamison Carmichael
+   Email: Jamison.Carmichael@stmary.edu
+   Username: Jamison.Carmichael
+   Phone: (913) 758-4355
+   Original line: Jamison Carmichael Assistant Coach 913-758-4355 Jamison.Carmichael@stmary.edu
+
+6. Andy Kelley
+   Email: andy.kelley@stmary.edu
+   Username: andy.kelley
+   Phone: (913) 758-6292
+   Original line: Andy Kelley Head Coach 913-758-6292 andy.kelley@stmary.edu
+
+7. Mackenzie Skupa
+   Email: mackenzie.skupa@stmary.edu
+   Username: mackenzie.skupa
+   Original line: Mackenzie Skupa Assistant Coach mackenzie.skupa@stmary.edu
+
+8. Don Shipman
+   Email: don.shipman@stmary.edu
+   Username: don.shipman
+   Original line: Don Shipman Assistant Coach don.shipman@stmary.edu
+
+9. Derek Mazeitis
+   Email: derek.mazeitis@stmary.edu
+   Username: derek.mazeitis
+   Phone: (913) 758-6164
+   Original line: Derek Mazeitis Head Coach 913-758-6164 derek.mazeitis@stmary.edu
+
+10. Javier Beltran
+   Email: beltransalvo266@stmary.edu
+   Username: beltransalvo266
+   Phone: (913) 758-6164
+   Original line: Javier Beltran Assistant Men’s Soccer Coach 913-758-6164 | (913) 223- beltransalvo266@stmary.edu
+
+11. Justin Seever
+   Email: justin.seever@stmary.edu
+   Username: justin.seever
+   Phone: (913) 758-6289
+   Original line: Justin Seever Head Coach 913-758-6289 justin.seever@stmary.edu
+
+12. Bruce Peddie
+   Email: bruce.peddie@stmary.edu
+   Username: bruce.peddie
+   Phone: (913) 758-4337
+   Original line: Bruce Peddie Head Coach 913-758-4337 bruce.peddie@stmary.edu
+
+13. Mike Albin
+   Email: Michael.Albin@stmary.edu
+   Username: Michael.Albin
+   Phone: (913) 758-4309
+   Original line: Mike Albin Assistant Coach 913-758-4309 Michael.Albin@stmary.edu
+
+14. Jay Monhollon
+   Email: Jay.Monhollon@stmary.edu
+   Username: Jay.Monhollon
+   Phone: (785) 213-2388
+   Original line: Jay Monhollon Head Softball Coach 785-213-2388 Jay.Monhollon@stmary.edu
+
+15. Elsa Skeie
+   Email: elsa.skeie@my.stmary.edu
+   Username: elsa.skeie
+   Original line: Elsa Skeie Assistant Coach elsa.skeie@my.stmary.edu
+
+16. Chris Beall
+   Email: chris.beall@stmary.edu
+   Username: chris.beall
+   Phone: (641) 485-3417
+   Original line: Chris Beall Head Coach 641-485-3417 chris.beall@stmary.edu
+
+17. Andrea Hinson
+   Email: andrea.hinson@stmary.edu
+   Username: andrea.hinson
+   Phone: (325) 307-8030
+   Original line: Andrea Hinson Head Coach 325-307-8030 andrea.hinson@stmary.edu
+
+18. Kinleigh Brecheisen
+   Email: kinleigh.brecheisen@stmary.edu
+   Username: kinleigh.brecheisen
+   Original line: Kinleigh Brecheisen Head Coach kinleigh.brecheisen@stmary.edu
+
+19. Joao Almeida
+   Email: Joao.Almeida@stmary.edu
+   Username: Joao.Almeida
+   Original line: Joao Almeida Head Men's & Women's Tennis Coach Joao.Almeida@stmary.edu
+
+20. Chuck Kearney
+   Email: chuck.kearney@stmary.edu
+   Username: chuck.kearney
+   Phone: (913) 758-4304
+   Original line: Chuck Kearney Head Coach 913-758-4304 chuck.kearney@stmary.edu
+
+21. Gabe Blough
+   Email: gabriel.blough@stmary.edu
+   Username: gabriel.blough
+   Original line: Gabe Blough Assistant Coach gabriel.blough@stmary.edu
+
+22. Riley Jaramillo
+   Email: riley.jaramillo@stmary.edu
+   Username: riley.jaramillo
+   Original line: Riley Jaramillo Assistant Coach riley.jaramillo@stmary.edu
+
+23. David Bresser
+   Email: david.bresser@stmary.edu
+   Username: david.bresser
+   Phone: (913) 758-6117
+   Original line: David Bresser Head Coach 913-758-6117 david.bresser@stmary.edu
+
+24. Alstin Benton
+   Email: alstin.benton@stmary.edu
+   Username: alstin.benton
+   Phone: (913) 758-4353
+   Original line: Alstin Benton Head Coach 913-758-4353 alstin.benton@stmary.edu
+
+25. Nolan Ryan
+   Email: nolan.ryan@stmary.edu
+   Username: nolan.ryan
+   Phone: (636) 219-6372
+   Original line: Nolan Ryan Assistant Coach 636-219-6372 nolan.ryan@stmary.edu
+
+26. Alstin Benton
+   Email: alstin.benton@stmary.edu
+   Username: alstin.benton
+   Phone: (913) 758-4353
+   Original line: Alstin Benton Head Coach 913-758-4353 alstin.benton@stmary.edu
+
+27. Nolan Ryan
+   Email: nolan.ryan@stmary.edu
+   Username: nolan.ryan
+   Phone: (636) 219-6372
+   Original line: Nolan Ryan Assistant Coach 636-219-6372 nolan.ryan@stmary.edu
+
+28. Dylan Biedron
+   Email: dylan.biedron@stmary.edu
+   Username: dylan.biedron
+   Phone: (913) 758-6302
+   Original line: Dylan Biedron Assistant Coach 913-758-6302 dylan.biedron@stmary.edu
+
+29. Ethan Paladino
+   Email: Paladino639@stmary.edu
+   Username: Paladino639
+   Original line: Ethan Paladino Head Coach Paladino639@stmary.edu
+
+30. Amber Clark
+   Email: amber.clark@stmary.edu
+   Username: amber.clark
+   Original line: Amber Clark Head Coach amber.clark@stmary.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Amy Beall Head Volleyball Coach | Senior Women 913-758-4343 amy.beall@stmary.edu
+• Amy Beall Head Volleyball Coach | Senior Women 913-758-4343 amy.beall@stmary.edu
+• Levi Pollreisz Assistant Coach 913-758-4341 Levi.Pollreisz@stmary.edu
+• Troy Brown Head Coach 913-758-6311 troy.brown@stmary.edu
+• Jamison Carmichael Assistant Coach 913-758-4355 Jamison.Carmichael@stmary.edu
+• Andy Kelley Head Coach 913-758-6292 andy.kelley@stmary.edu
+• Mackenzie Skupa Assistant Coach mackenzie.skupa@stmary.edu
+• Don Shipman Assistant Coach don.shipman@stmary.edu
+• Derek Mazeitis Head Coach 913-758-6164 derek.mazeitis@stmary.edu
+• Javier Beltran Assistant Men’s Soccer Coach 913-758-6164 | (913) 223- beltransalvo266@stmary.edu
+• Justin Seever Head Coach 913-758-6289 justin.seever@stmary.edu
+• Bruce Peddie Head Coach 913-758-4337 bruce.peddie@stmary.edu
+• Mike Albin Assistant Coach 913-758-4309 Michael.Albin@stmary.edu
+• Jay Monhollon Head Softball Coach 785-213-2388 Jay.Monhollon@stmary.edu
+• Elsa Skeie Assistant Coach elsa.skeie@my.stmary.edu
+• Chris Beall Head Coach 641-485-3417 chris.beall@stmary.edu
+• Andrea Hinson Head Coach 325-307-8030 andrea.hinson@stmary.edu
+• Kinleigh Brecheisen Head Coach kinleigh.brecheisen@stmary.edu
+• Joao Almeida Head Men's & Women's Tennis Coach Joao.Almeida@stmary.edu
+• Chuck Kearney Head Coach 913-758-4304 chuck.kearney@stmary.edu
+• Gabe Blough Assistant Coach gabriel.blough@stmary.edu
+• Riley Jaramillo Assistant Coach riley.jaramillo@stmary.edu
+• David Bresser Head Coach 913-758-6117 david.bresser@stmary.edu
+• Alstin Benton Head Coach 913-758-4353 alstin.benton@stmary.edu
+• Nolan Ryan Assistant Coach 636-219-6372 nolan.ryan@stmary.edu
+• Alstin Benton Head Coach 913-758-4353 alstin.benton@stmary.edu
+• Nolan Ryan Assistant Coach 636-219-6372 nolan.ryan@stmary.edu
+• Dylan Biedron Assistant Coach 913-758-6302 dylan.biedron@stmary.edu
+• Ethan Paladino Head Coach Paladino639@stmary.edu
+• Amber Clark Head Coach amber.clark@stmary.edu

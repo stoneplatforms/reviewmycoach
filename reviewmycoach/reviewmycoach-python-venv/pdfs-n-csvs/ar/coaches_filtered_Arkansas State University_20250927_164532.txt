@@ -1,0 +1,215 @@
+COACH ENTRIES FOUND - 2025-09-27 16:45:32
+============================================================
+
+Total coaches found: 34
+
+PARSED ENTRIES:
+----------------------------------------
+1. Shane Lanteigne
+   Email: slanteigne@astate.edu
+   Username: slanteigne
+   Original line: Shane Lanteigne Director of Strength and slanteigne@astate.edu (870) @Coach_Lanteigne
+
+2. Patrick Brooks
+   Email: jabrooks@astate.edu
+   Username: jabrooks
+   Original line: Patrick Brooks Athletics Performance Coach jabrooks@astate.edu (870)
+
+3. Mike Silva
+   Email: msilva@astate.edu
+   Username: msilva
+   Original line: Mike Silva Head Coach msilva@astate.edu (870)
+
+4. Chris Joblin
+   Email: cjoblin@astate.edu
+   Username: cjoblin
+   Original line: Chris Joblin Assistant Coach cjoblin@astate.edu (870)
+
+5. Jerry Cervantez
+   Email: gcervantez@astate.edu
+   Username: gcervantez
+   Original line: Jerry Cervantez Assistant Coach gcervantez@astate.edu (870)
+
+6. Cody Livingston
+   Email: clivingston@astate.edu
+   Username: clivingston
+   Original line: Cody Livingston Assistant Coach clivingston@astate.edu (870)
+
+7. Zach Arn
+   Email: zarn@astate.edu
+   Username: zarn
+   Original line: Zach Arn Strength and Conditioning Coach zarn@astate.edu (870)
+
+8. Ryan Pannone
+   Email: mensbball@astate.edu
+   Username: mensbball
+   Original line: Ryan Pannone Head Coach mensbball@astate.edu (870)
+
+9. Hayden Sowers
+   Email: hsowers@astate.edu
+   Username: hsowers
+   Original line: Hayden Sowers Assistant Coach hsowers@astate.edu
+
+10. Dean Cooper
+   Email: dcooper@astate.edu
+   Username: dcooper
+   Original line: Dean Cooper Assistant Coach dcooper@astate.edu (870)
+
+11. Anthony Goods
+   Email: agoods@astate.edu
+   Username: agoods
+   Original line: Anthony Goods Assistant Coach agoods@astate.edu (870)
+
+12. Destinee Rogers
+   Email: destineerogers@astate.edu
+   Username: destineerogers
+   Original line: Destinee Rogers Head Coach destineerogers@astate.edu (870) @Coach_Dezz
+
+13. Lizzie Nessling
+   Email: enessling@astate.edu
+   Username: enessling
+   Original line: Lizzie Nessling Associate Head Coach enessling@astate.edu (870) @CoachNess45
+
+14. Rudy Evans
+   Email: ruevans@astate.edu
+   Username: ruevans
+   Original line: Rudy Evans Associate Head Coach ruevans@astate.edu (870) @rudyevans23
+
+15. Colton Crowder
+   Email: ccrowder@astate.edu
+   Username: ccrowder
+   Original line: Colton Crowder Assistant Coach ccrowder@astate.edu (870)
+
+16. Patrick Brooks
+   Email: Jabrooks@astate.edu
+   Username: Jabrooks
+   Original line: Patrick Brooks Athletics Performance Coach Jabrooks@astate.edu
+
+17. Justin Kostick
+   Email: jkostick@astate.edu
+   Username: jkostick
+   Original line: Justin Kostick Head Coach jkostick@astate.edu (870) @AStateBowling
+
+18. Jesse Duvall
+   Email: jduvall@astate.edu
+   Username: jduvall
+   Original line: Jesse Duvall Head Cross Country Coach jduvall@astate.edu (870)
+
+19. Mike Hagen
+   Email: mhagen@astate.edu
+   Username: mhagen
+   Original line: Mike Hagen Head Coach mhagen@astate.edu (870) @coachmikehagen
+
+20. Michael Terblanche
+   Email: mterblanche@astate.edu
+   Username: mterblanche
+   Original line: Michael Terblanche Assistant Coach mterblanche@astate.edu (870)
+
+21. M.J. Desbiens
+   Email: mjdesbiens@astate.edu
+   Username: mjdesbiens
+   Original line: M.J. Desbiens Shaw Head Coach mjdesbiens@astate.edu (870) @MJAStateGolf
+
+22. Zane Wright
+   Email: miwright@astate.edu
+   Username: miwright
+   Original line: Zane Wright Assistant Coach miwright@astate.edu
+
+23. Brian Dooley
+   Email: bdooley@astate.edu
+   Username: bdooley
+   Original line: Brian Dooley Head Coach bdooley@astate.edu (870) @AStateSoccer
+
+24. Scott Sinclair
+   Email: ssinclair@astate.edu
+   Username: ssinclair
+   Original line: Scott Sinclair Associate Head Coach ssinclair@astate.edu (870)
+
+25. Phil Woods
+   Email: pwoods@astate.edu
+   Username: pwoods
+   Original line: Phil Woods Assistant Coach pwoods@astate.edu (870)
+
+26. Sujay Lama
+   Email: slama@astate.edu
+   Username: slama
+   Original line: Sujay Lama Head Coach slama@astate.edu (870) @AStateTennis
+
+27. Marshall Mordecai
+   Email: marshall.mordecai@smail.astate.edu
+   Username: marshall.mordecai
+   Original line: Marshall Mordecai Assistant Coach marshall.mordecai@smail.astate.edu (870) @mordecaitennis
+
+28. Matt Kraft
+   Email: mattkraft@astate.edu
+   Username: mattkraft
+   Original line: Matt Kraft Associate Head Coach mattkraft@astate.edu (870)
+
+29. Matt Vining
+   Email: mvining@astate.edu
+   Username: mvining
+   Original line: Matt Vining Assistant Coach mvining@astate.edu (870) @MattVining1
+
+30. Jesse Duvall
+   Email: jduvall@astate.edu
+   Username: jduvall
+   Original line: Jesse Duvall Head Cross Country Coach jduvall@astate.edu (870)
+
+31. Alex Rachmaciej
+   Email: arachmaciej@astate.edu
+   Username: arachmaciej
+   Original line: Alex Rachmaciej Assistant Coach arachmaciej@astate.edu (8700
+
+32. Brian Gerwig
+   Email: bgerwig@astate.edu
+   Username: bgerwig
+   Original line: Brian Gerwig Head Coach bgerwig@astate.edu @AStateVB
+
+33. Jordan Coomes
+   Email: jcoomes@astate.edu
+   Username: jcoomes
+   Original line: Jordan Coomes Assistant Coach/Recruiting jcoomes@astate.edu @JordanCoomes23
+
+34. Jason Gibbs
+   Email: jgibbs@astate.edu
+   Username: jgibbs
+   Original line: Jason Gibbs Assistant Coach jgibbs@astate.edu (870)
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Shane Lanteigne Director of Strength and slanteigne@astate.edu (870) @Coach_Lanteigne
+• Patrick Brooks Athletics Performance Coach jabrooks@astate.edu (870)
+• Mike Silva Head Coach msilva@astate.edu (870)
+• Chris Joblin Assistant Coach cjoblin@astate.edu (870)
+• Jerry Cervantez Assistant Coach gcervantez@astate.edu (870)
+• Cody Livingston Assistant Coach clivingston@astate.edu (870)
+• Zach Arn Strength and Conditioning Coach zarn@astate.edu (870)
+• Ryan Pannone Head Coach mensbball@astate.edu (870)
+• Hayden Sowers Assistant Coach hsowers@astate.edu
+• Dean Cooper Assistant Coach dcooper@astate.edu (870)
+• Anthony Goods Assistant Coach agoods@astate.edu (870)
+• Destinee Rogers Head Coach destineerogers@astate.edu (870) @Coach_Dezz
+• Lizzie Nessling Associate Head Coach enessling@astate.edu (870) @CoachNess45
+• Rudy Evans Associate Head Coach ruevans@astate.edu (870) @rudyevans23
+• Colton Crowder Assistant Coach ccrowder@astate.edu (870)
+• Patrick Brooks Athletics Performance Coach Jabrooks@astate.edu
+• Justin Kostick Head Coach jkostick@astate.edu (870) @AStateBowling
+• Jesse Duvall Head Cross Country Coach jduvall@astate.edu (870)
+• Mike Hagen Head Coach mhagen@astate.edu (870) @coachmikehagen
+• Michael Terblanche Assistant Coach mterblanche@astate.edu (870)
+• M.J. Desbiens Shaw Head Coach mjdesbiens@astate.edu (870) @MJAStateGolf
+• Zane Wright Assistant Coach miwright@astate.edu
+• Brian Dooley Head Coach bdooley@astate.edu (870) @AStateSoccer
+• Scott Sinclair Associate Head Coach ssinclair@astate.edu (870)
+• Phil Woods Assistant Coach pwoods@astate.edu (870)
+• Sujay Lama Head Coach slama@astate.edu (870) @AStateTennis
+• Marshall Mordecai Assistant Coach marshall.mordecai@smail.astate.edu (870) @mordecaitennis
+• Matt Kraft Associate Head Coach mattkraft@astate.edu (870)
+• Matt Vining Assistant Coach mvining@astate.edu (870) @MattVining1
+• Jesse Duvall Head Cross Country Coach jduvall@astate.edu (870)
+• Alex Rachmaciej Assistant Coach arachmaciej@astate.edu (8700
+• Brian Gerwig Head Coach bgerwig@astate.edu @AStateVB
+• Jordan Coomes Assistant Coach/Recruiting jcoomes@astate.edu @JordanCoomes23
+• Jason Gibbs Assistant Coach jgibbs@astate.edu (870)

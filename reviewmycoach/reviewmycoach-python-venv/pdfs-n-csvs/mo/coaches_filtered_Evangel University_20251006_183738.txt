@@ -1,0 +1,269 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:38
+============================================================
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chuck Hepola
+   Email: hepolac@evangel.edu
+   Username: hepolac
+   Original line: Chuck Hepola Director of Athletics / Head Football Coach hepolac@evangel.edu Ext. 7282
+
+2. Brandon Staley
+   Email: staleyb@evangel.edu
+   Username: staleyb
+   Original line: Brandon Staley Assistant Athletic Director / Director of XC Ops / Head T/F Coach staleyb@evangel.edu Ext. 7361
+
+3. Mary Whitehead
+   Email: whiteheadm@evangel.edu
+   Username: whiteheadm
+   Original line: Mary Whitehead Head Coach; Senior Woman Leader whiteheadm@evangel.edu Ext. 7191
+
+4. Sam Jones
+   Email: jonessam@evangel.edu
+   Username: jonessam
+   Original line: Sam Jones Head Coach jonessam@evangel.edu Ext. 7268
+
+5. Michael Thorne
+   Email: thornem@evangel.edu
+   Username: thornem
+   Original line: Michael Thorne Assistant Coach; Outfielders & Catchers thornem@evangel.edu Ext. 7264
+
+6. Steve Jones
+   Email: jonesst@evangel.edu
+   Username: jonesst
+   Original line: Steve Jones Pitching Coach jonesst@evangel.edu
+
+7. Todd Nix
+   Email: nixt@evangel.edu
+   Username: nixt
+   Original line: Dr. Todd Nix Head Strength & Conditioning Coach / Recruiting Coordinator nixt@evangel.edu
+
+8. Bert Capel
+   Email: capelb@evangel.edu
+   Username: capelb
+   Original line: Bert Capel Head Coach capelb@evangel.edu Ext. 7325
+
+9. Jackson Capel
+   Email: capelj@evangel.edu
+   Username: capelj
+   Original line: Jackson Capel Associate Head Coach capelj@evangel.edu Ext. 7324
+
+10. Chuck Hepola
+   Email: hepolac@evangel.edu
+   Username: hepolac
+   Original line: Chuck Hepola Director of Athletics / Head Football Coach hepolac@evangel.edu Ext. 7282
+
+11. Jeremy DeSoto
+   Email: desotoj@evangel.edu
+   Username: desotoj
+   Original line: Jeremy DeSoto Assistant Head Coach / Defensive Coordinator desotoj@evangel.edu Ext. 7386
+
+12. Ryne Strickland
+   Email: stricklandr@evangel.edu
+   Username: stricklandr
+   Original line: Ryne Strickland Offensive Coordinator / QB Coach stricklandr@evangel.edu Ext. 7458
+
+13. Danny Sweet
+   Email: sweetd@evangel.edu
+   Username: sweetd
+   Original line: Danny Sweet Tight Ends Coach sweetd@evangel.edu
+
+14. Taylor Higgins
+   Email: higginst@evangel.edu
+   Username: higginst
+   Original line: Taylor Higgins Wide Receivers Coach / Ministry Coordinator higginst@evangel.edu
+
+15. Jeff Klein
+   Email: kleinj@evangel.edu
+   Username: kleinj
+   Original line: Jeff Klein Offensive Line Coach kleinj@evangel.edu Ext. 7385
+
+16. Myles Williams
+   Email: williamsmy@evangel.edu
+   Username: williamsmy
+   Original line: Myles Williams Defensive Line Coach / Recruiting Coordinator williamsmy@evangel.edu Ext. 7573
+
+17. Jai Melancon
+   Email: melanconj@evangel.edu
+   Username: melanconj
+   Original line: Jai Melancon Linebackers Coach melanconj@evangel.edu Ext. 7571
+
+18. Clayton Uber
+   Email: uberc@evangel.edu
+   Username: uberc
+   Original line: Clayton Uber Special Teams Coordinator / Running Backs Coach uberc@evangel.edu
+
+19. Kevin King
+   Email: kingk@evangel.edu
+   Username: kingk
+   Original line: Dr. Kevin King Head Strength & Conditioning Coach kingk@evangel.edu Ext. 7348
+
+20. Jon Jenkins
+   Email: jenkinsj@evangel.edu
+   Username: jenkinsj
+   Original line: Jon Jenkins Head Coach jenkinsj@evangel.edu Ext. 7359
+
+21. Kyle Beard
+   Email: beardk@evangel.edu
+   Username: beardk
+   Original line: Kyle Beard Head Coach beardk@evangel.edu Ext. 7459
+
+22. Brandon Staley
+   Email: staleyb@evangel.edu
+   Username: staleyb
+   Original line: Brandon Staley Assistant Athletic Director / Director of XC Ops / Head T/F Coach staleyb@evangel.edu Ext. 7361
+
+23. Mirko Bjelica
+   Email: bjelicam@evangel.edu
+   Username: bjelicam
+   Original line: Mirko Bjelica Head Coach bjelicam@evangel.edu 309-569-
+
+24. Madi Wallace
+   Email: wallacem@evangel.edu
+   Username: wallacem
+   Original line: Madi Wallace Head Coach wallacem@evangel.edu Ext. 7276
+
+25. Hannah Woodcock
+   Email: woodcockh@evangel.edu
+   Username: woodcockh
+   Original line: Hannah Woodcock Assistant Coach woodcockh@evangel.edu Ext. 7277
+
+26. Brandon Staley
+   Email: staleyb@evangel.edu
+   Username: staleyb
+   Original line: Brandon Staley Assistant Athletic Director / Director of XC Ops / Head T/F Coach staleyb@evangel.edu Ext. 7361
+
+27. Camden Sesna
+   Email: sesnac@evangel.edu
+   Username: sesnac
+   Original line: Camden Sesna Head Coach sesnac@evangel.edu Ext. 7362
+
+28. Bruce Deaton
+   Email: deatonb@evangel.edu
+   Username: deatonb
+   Original line: Bruce Deaton Head Coach / Director of Soccer Operations deatonb@evangel.edu Ext. 7351
+
+29. Joanna Scott
+   Email: scottjo@evangel.edu
+   Username: scottjo
+   Original line: Joanna Scott Assistant Coach scottjo@evangel.edu
+
+30. Jessy Bond
+   Email: bondj@evangel.edu
+   Username: bondj
+   Original line: Jessy Bond Goalkeepers Coach bondj@evangel.edu
+
+31. Jon Jenkins
+   Email: jenkinsj@evangel.edu
+   Username: jenkinsj
+   Original line: Jon Jenkins Head Coach jenkinsj@evangel.edu Ext. 7359
+
+32. Jay Halbrook
+   Email: halbrookja@evangel.edu
+   Username: halbrookja
+   Original line: Jay Halbrook Head Coach halbrookja@evangel.edu Ext. 7265
+
+33. Sony Mitchell
+   Email: mitchells@evangel.edu
+   Username: mitchells
+   Original line: Sony Mitchell Assistant Coach mitchells@evangel.edu Ext. 7404
+
+34. Rob Brice
+   Email: bricer@evangel.edu
+   Username: bricer
+   Original line: Rob Brice Assistant Coach, Hitting bricer@evangel.edu
+
+35. Justin Hale
+   Email: halej@evangel.edu
+   Username: halej
+   Original line: Justin Hale Assistant Coach, Recruiting & Catchers/Hitting halej@evangel.edu
+
+36. Cayleigh Berry
+   Email: berryc@evangel.edu
+   Username: berryc
+   Original line: Cayleigh Berry Assistant Coach, Outfield berryc@evangel.edu
+
+37. Nick Van
+   Email: vanvalkenburg@evangel.edu
+   Username: vanvalkenburg
+   Original line: Nick Van Valkenburg Strength & Conditioning Coach vanvalkenburg@evangel.edu
+
+38. Brooke Arnold
+   Email: arnoldb@evangel.edu
+   Username: arnoldb
+   Original line: Brooke Arnold Assistant Coach, Recruiting arnoldb@evangel.edu
+
+39. Brandon Staley
+   Email: staleyb@evangel.edu
+   Username: staleyb
+   Original line: Brandon Staley Assistant Athletic Director / Director of XC Ops / Head T/F Coach staleyb@evangel.edu Ext. 7361
+
+40. Mirko Bjelica
+   Email: bjelicam@evangel.edu
+   Username: bjelicam
+   Original line: Mirko Bjelica Head Coach bjelicam@evangel.edu 309-569-
+
+41. Brandon Staley
+   Email: staleyb@evangel.edu
+   Username: staleyb
+   Original line: Brandon Staley Assistant Athletic Director / Director of XC Ops / Head T/F Coach staleyb@evangel.edu Ext. 7361
+
+42. Camden Sesna
+   Email: sesnac@evangel.edu
+   Username: sesnac
+   Original line: Camden Sesna Head Coach sesnac@evangel.edu Ext. 7362
+
+43. Mary Whitehead
+   Email: whiteheadm@evangel.edu
+   Username: whiteheadm
+   Original line: Mary Whitehead Head Coach; Senior Woman Leader whiteheadm@evangel.edu Ext. 7191
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chuck Hepola Director of Athletics / Head Football Coach hepolac@evangel.edu Ext. 7282
+• Brandon Staley Assistant Athletic Director / Director of XC Ops / Head T/F Coach staleyb@evangel.edu Ext. 7361
+• Mary Whitehead Head Coach; Senior Woman Leader whiteheadm@evangel.edu Ext. 7191
+• Sam Jones Head Coach jonessam@evangel.edu Ext. 7268
+• Michael Thorne Assistant Coach; Outfielders & Catchers thornem@evangel.edu Ext. 7264
+• Steve Jones Pitching Coach jonesst@evangel.edu
+• Dr. Todd Nix Head Strength & Conditioning Coach / Recruiting Coordinator nixt@evangel.edu
+• Bert Capel Head Coach capelb@evangel.edu Ext. 7325
+• Jackson Capel Associate Head Coach capelj@evangel.edu Ext. 7324
+• Chuck Hepola Director of Athletics / Head Football Coach hepolac@evangel.edu Ext. 7282
+• Jeremy DeSoto Assistant Head Coach / Defensive Coordinator desotoj@evangel.edu Ext. 7386
+• Ryne Strickland Offensive Coordinator / QB Coach stricklandr@evangel.edu Ext. 7458
+• Danny Sweet Tight Ends Coach sweetd@evangel.edu
+• Taylor Higgins Wide Receivers Coach / Ministry Coordinator higginst@evangel.edu
+• Jeff Klein Offensive Line Coach kleinj@evangel.edu Ext. 7385
+• Myles Williams Defensive Line Coach / Recruiting Coordinator williamsmy@evangel.edu Ext. 7573
+• Jai Melancon Linebackers Coach melanconj@evangel.edu Ext. 7571
+• Clayton Uber Special Teams Coordinator / Running Backs Coach uberc@evangel.edu
+• Dr. Kevin King Head Strength & Conditioning Coach kingk@evangel.edu Ext. 7348
+• Jon Jenkins Head Coach jenkinsj@evangel.edu Ext. 7359
+• Kyle Beard Head Coach beardk@evangel.edu Ext. 7459
+• Brandon Staley Assistant Athletic Director / Director of XC Ops / Head T/F Coach staleyb@evangel.edu Ext. 7361
+• Mirko Bjelica Head Coach bjelicam@evangel.edu 309-569-
+• Madi Wallace Head Coach wallacem@evangel.edu Ext. 7276
+• Hannah Woodcock Assistant Coach woodcockh@evangel.edu Ext. 7277
+• Brandon Staley Assistant Athletic Director / Director of XC Ops / Head T/F Coach staleyb@evangel.edu Ext. 7361
+• Camden Sesna Head Coach sesnac@evangel.edu Ext. 7362
+• Bruce Deaton Head Coach / Director of Soccer Operations deatonb@evangel.edu Ext. 7351
+• Joanna Scott Assistant Coach scottjo@evangel.edu
+• Jessy Bond Goalkeepers Coach bondj@evangel.edu
+• Jon Jenkins Head Coach jenkinsj@evangel.edu Ext. 7359
+• Jay Halbrook Head Coach halbrookja@evangel.edu Ext. 7265
+• Sony Mitchell Assistant Coach mitchells@evangel.edu Ext. 7404
+• Rob Brice Assistant Coach, Hitting bricer@evangel.edu
+• Justin Hale Assistant Coach, Recruiting & Catchers/Hitting halej@evangel.edu
+• Cayleigh Berry Assistant Coach, Outfield berryc@evangel.edu
+• Nick Van Valkenburg Strength & Conditioning Coach vanvalkenburg@evangel.edu
+• Brooke Arnold Assistant Coach, Recruiting arnoldb@evangel.edu
+• Brandon Staley Assistant Athletic Director / Director of XC Ops / Head T/F Coach staleyb@evangel.edu Ext. 7361
+• Mirko Bjelica Head Coach bjelicam@evangel.edu 309-569-
+• Brandon Staley Assistant Athletic Director / Director of XC Ops / Head T/F Coach staleyb@evangel.edu Ext. 7361
+• Camden Sesna Head Coach sesnac@evangel.edu Ext. 7362
+• Mary Whitehead Head Coach; Senior Woman Leader whiteheadm@evangel.edu Ext. 7191

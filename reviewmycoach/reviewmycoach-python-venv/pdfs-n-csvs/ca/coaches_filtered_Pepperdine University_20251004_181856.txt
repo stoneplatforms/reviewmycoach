@@ -1,0 +1,323 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:56
+============================================================
+
+Total coaches found: 52
+
+PARSED ENTRIES:
+----------------------------------------
+1. Madeline Massingill
+   Email: cheer@pepperdine.edu
+   Username: cheer
+   Original line: Madeline Massingill Cheer Coach cheer@pepperdine.edu
+
+2. Chris Gilbert
+   Email: christopher.gilbert@pepperdine.edu
+   Username: christopher.gilbert
+   Original line: Chris Gilbert Assistant Sports Performance Coach (310) 506- christopher.gilbert@pepperdine.edu
+
+3. Jackie Keenan
+   Email: jacqueline.keenan@pepperdine.edu
+   Username: jacqueline.keenan
+   Original line: Jackie Keenan Assistant Sports Performance Coach jacqueline.keenan@pepperdine.edu
+
+4. Glenn Rivera
+   Email: glenn.rivera@pepperdine.edu
+   Username: glenn.rivera
+   Original line: Glenn Rivera Assistant Sports Performance Coach (310) 506- glenn.rivera@pepperdine.edu
+
+5. Tyler LaTorre
+   Email: tyler.latorre@pepperdine.edu
+   Username: tyler.latorre
+   Original line: Tyler LaTorre Head Coach (310) 506- tyler.latorre@pepperdine.edu tylerlatorre
+
+6. Logan Robbins
+   Email: logan.robbins@pepperdine.edu
+   Username: logan.robbins
+   Original line: Logan Robbins Assistant Coach logan.robbins@pepperdine.edu
+
+7. Dane Stankiewicz
+   Email: dane.stankiewicz@pepperdine.edu
+   Username: dane.stankiewicz
+   Original line: Dane Stankiewicz Assistant Coach dane.stankiewicz@pepperdine.edu
+
+8. Ed Schilling
+   Email: edmund.schilling@pepperdine.edu
+   Username: edmund.schilling
+   Original line: Ed Schilling Head Coach (310) 506- edmund.schilling@pepperdine.edu @coachschilling
+
+9. Scott Rigot
+   Email: scott.rigot@pepperdine.edu
+   Username: scott.rigot
+   Original line: Scott Rigot Assistant Coach (310) 506- scott.rigot@pepperdine.edu
+
+10. Tyus Edney
+   Email: tyus.edney@pepperdine.edu
+   Username: tyus.edney
+   Original line: Tyus Edney Assistant Coach (310) 506- tyus.edney@pepperdine.edu @TyusEdneyUCLA
+
+11. Josh Calbert
+   Email: joshua.calbert@pepperdine.edu
+   Username: joshua.calbert
+   Original line: Josh Calbert Assistant Coach joshua.calbert@pepperdine.edu
+
+12. Mike Doig
+   Email: michael.doig@pepperdine.edu
+   Username: michael.doig
+   Original line: Mike Doig Assistant Coach (310) 506- michael.doig@pepperdine.edu
+
+13. Jeremy Grubbs
+   Email: jeremy.grubbs@pepperdine.edu
+   Username: jeremy.grubbs
+   Original line: Jeremy Grubbs Assistant Coach (310) 506- jeremy.grubbs@pepperdine.edu @iamCoachGrubbs
+
+14. Katie Faulkner
+   Email: katie.faulkner@pepperdine.edu
+   Username: katie.faulkner
+   Original line: Katie Faulkner Head Coach katie.faulkner@pepperdine.edu @coachKTB
+
+15. Erika Bean
+   Email: erika.bean@pepperdine.edu
+   Username: erika.bean
+   Original line: Erika Bean Assistant Coach erika.bean@pepperdine.edu
+
+16. Makena Mastora
+   Email: makena.mastora@pepperdine.edu
+   Username: makena.mastora
+   Original line: Makena Mastora Assistant Coach makena.mastora@pepperdine.edu
+
+17. Brian Porth
+   Email: brian.porth@pepperdine.edu
+   Username: brian.porth
+   Original line: Brian Porth Assistant Coach brian.porth@pepperdine.edu
+
+18. Kamran Sufi
+   Email: kamran.sufi@pepperdine.edu
+   Username: kamran.sufi
+   Original line: Kamran Sufi Assistant Coach kamran.sufi@pepperdine.edu
+
+19. Lauren Floris
+   Email: XCTrack@Pepperdine.edu
+   Username: XCTrack
+   Original line: Lauren Floris Head Coach (310) 506- XCTrack@Pepperdine.edu
+
+20. Victor Pataky
+   Email: XCTrack@Pepperdine.edu
+   Username: XCTrack
+   Original line: Victor Pataky Assistant Coach (310) 506- XCTrack@Pepperdine.edu
+
+21. Rayshawn Johnson
+   Email: XCTrack@Pepperdine.edu
+   Username: XCTrack
+   Original line: Rayshawn Johnson Assistant Coach (Sprints/Hurdles) XCTrack@Pepperdine.edu
+
+22. Michael Beard
+   Email: michael.beard@pepperdine.edu
+   Username: michael.beard
+   Original line: Michael Beard Head Coach (310) 506- michael.beard@pepperdine.edu @CoachMBeard
+
+23. Nick Robinson
+   Email: Nickolas.Robinson@pepperdine.edu
+   Username: Nickolas.Robinson
+   Original line: Nick Robinson Assistant Coach (310) 506- Nickolas.Robinson@pepperdine.edu
+
+24. Laurie Gibbs
+   Email: laurie.gibbs@pepperdine.edu
+   Username: laurie.gibbs
+   Original line: Laurie Gibbs Head Coach (310) 506- laurie.gibbs@pepperdine.edu
+
+25. Kacey Dalpes
+   Email: kacey.dalpes@pepperdine.edu
+   Username: kacey.dalpes
+   Original line: Kacey Dalpes Assistant Coach 310-506- kacey.dalpes@pepperdine.edu
+
+26. Tim Ward
+   Email: pepperdinesoccer@pepperdine.edu
+   Username: pepperdinesoccer
+   Original line: Tim Ward Head Coach (310) 506- pepperdinesoccer@pepperdine.edu @HeadCoachWard
+
+27. Max Rooke
+   Email: pepperdinesoccer@pepperdine.edu
+   Username: pepperdinesoccer
+   Original line: Max Rooke Associate Head Coach (310) 506- pepperdinesoccer@pepperdine.edu @Max_Rooke
+
+28. Kevin Arellano
+   Email: kevin.arellano@pepperdine.edu
+   Username: kevin.arellano
+   Original line: Kevin Arellano Assistant Coach (310) 506- kevin.arellano@pepperdine.edu
+
+29. Amber Marshall
+   Email: amber.marshall@pepperdine.edu
+   Username: amber.marshall
+   Original line: Amber Marshall Assistant Coach (310) 506- amber.marshall@pepperdine.edu
+
+30. Ellie Monobe
+   Email: ellie.monobe@pepperdine.edu
+   Username: ellie.monobe
+   Original line: Ellie Monobe Head Coach (310) 506- ellie.monobe@pepperdine.edu
+
+31. Monique Demaisip
+   Email: monique.demaisip@pepperdine.edu
+   Username: monique.demaisip
+   Original line: Monique Demaisip Diving Coach (310) 506- monique.demaisip@pepperdine.edu
+
+32. Dan Marella
+   Email: daniel.marella@pepperdine.edu
+   Username: daniel.marella
+   Original line: Dan Marella Assistant Coach (310) 506- daniel.marella@pepperdine.edu
+
+33. Adam Schaechterle
+   Email: adam.schaechterle@pepperdine.edu
+   Username: adam.schaechterle
+   Original line: Adam Schaechterle Director of Tennis | Head Coach (310) 506- adam.schaechterle@pepperdine.edu @aschaechterle
+
+34. Kazuki Matsuno
+   Email: kazuki.matsuno@pepperdine.edu
+   Username: kazuki.matsuno
+   Original line: Kazuki Matsuno Assistant Coach/Director of Recruiting kazuki.matsuno@pepperdine.edu
+
+35. Diego Castillo
+   Email: diego.castillo@pepperdine.edu
+   Username: diego.castillo
+   Original line: Diego Castillo Assistant Coach diego.castillo@pepperdine.edu
+
+36. Tassilo Schmid
+   Email: tassilo.schmid@pepperdine.edu
+   Username: tassilo.schmid
+   Original line: Tassilo Schmid Head Coach (310) 506- tassilo.schmid@pepperdine.edu
+
+37. Ben Beekman
+   Email: Ben.beekman@pepperdine.edu
+   Username: Ben.beekman
+   Original line: Ben Beekman Assistant Coach (616) 438- Ben.beekman@pepperdine.edu
+
+38. Sami Ozzor
+   Email: sami.ozzor@pepperdine.edu
+   Username: sami.ozzor
+   Original line: Sami Ozzor Assistant Coach sami.ozzor@pepperdine.edu
+
+39. Jonathan Winder
+   Email: jonathan.winder@pepperdine.edu
+   Username: jonathan.winder
+   Original line: Jonathan Winder Head Coach (310) 506- jonathan.winder@pepperdine.edu @JonathanSWinder
+
+40. Matthew Pollock
+   Email: matthew.pollock@pepperdine.edu
+   Username: matthew.pollock
+   Original line: Matthew Pollock Associate Head Coach (310) 506- matthew.pollock@pepperdine.edu
+
+41. Luke Reynolds
+   Email: luke.reynolds@pepperdine.edu
+   Username: luke.reynolds
+   Original line: Luke Reynolds Associate Head Coach (310) 506- luke.reynolds@pepperdine.edu
+
+42. Will Craft
+   Email: will.craft@pepperdine.edu
+   Username: will.craft
+   Original line: Will Craft Assistant Coach (310) 506- will.craft@pepperdine.edu
+
+43. Marv Dunphy
+   Email: marv.dunphy@pepperdine.edu
+   Username: marv.dunphy
+   Original line: Marv Dunphy Head Coach Emeritus (310) 506- marv.dunphy@pepperdine.edu
+
+44. Marcio Sicoli
+   Email: marcio.sicoli@pepperdine.edu
+   Username: marcio.sicoli
+   Original line: Marcio Sicoli Head Coach (310) 506- marcio.sicoli@pepperdine.edu
+
+45. Noelle Rooke
+   Email: noelle.rooke@pepperdine.edu
+   Username: noelle.rooke
+   Original line: Noelle Rooke Associate Head Coach / Recruiting Coordinator (310) 506- noelle.rooke@pepperdine.edu
+
+46. Scott Wong
+   Email: scott.wong@pepperdine.edu
+   Username: scott.wong
+   Original line: Scott Wong Head Coach (310) 506- scott.wong@pepperdine.edu
+
+47. Hillary Hurley
+   Email: hillary.hurley@pepperdine.edu
+   Username: hillary.hurley
+   Original line: Hillary Hurley Assistant Coach (310) 506- hillary.hurley@pepperdine.edu
+
+48. Michael Wexter
+   Email: michael.wexter@pepperdine.edu
+   Username: michael.wexter
+   Original line: Michael Wexter Assistant Coach (310) 506- michael.wexter@pepperdine.edu
+
+49. Jeremiah Burden
+   Email: jeremiah.burden@pepperdine.edu
+   Username: jeremiah.burden
+   Original line: Jeremiah Burden Graduate Assistant Coach jeremiah.burden@pepperdine.edu
+
+50. Merrill Moses
+   Email: merrill.moses@pepperdine.edu
+   Username: merrill.moses
+   Original line: Merrill Moses Head Coach (310) 506- merrill.moses@pepperdine.edu @MerrillMoses
+
+51. Mike Tragitt
+   Email: michael.tragitt@pepperdine.edu
+   Username: michael.tragitt
+   Original line: Mike Tragitt Associate Head Coach (310) 506- michael.tragitt@pepperdine.edu @MichaelTragitt
+
+52. Spencer Hamby
+   Email: spencer.hamby@pepperdine.edu
+   Username: spencer.hamby
+   Original line: Spencer Hamby Assistant Coach (310) 506- spencer.hamby@pepperdine.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Madeline Massingill Cheer Coach cheer@pepperdine.edu
+• Chris Gilbert Assistant Sports Performance Coach (310) 506- christopher.gilbert@pepperdine.edu
+• Jackie Keenan Assistant Sports Performance Coach jacqueline.keenan@pepperdine.edu
+• Glenn Rivera Assistant Sports Performance Coach (310) 506- glenn.rivera@pepperdine.edu
+• Tyler LaTorre Head Coach (310) 506- tyler.latorre@pepperdine.edu tylerlatorre
+• Logan Robbins Assistant Coach logan.robbins@pepperdine.edu
+• Dane Stankiewicz Assistant Coach dane.stankiewicz@pepperdine.edu
+• Ed Schilling Head Coach (310) 506- edmund.schilling@pepperdine.edu @coachschilling
+• Scott Rigot Assistant Coach (310) 506- scott.rigot@pepperdine.edu
+• Tyus Edney Assistant Coach (310) 506- tyus.edney@pepperdine.edu @TyusEdneyUCLA
+• Josh Calbert Assistant Coach joshua.calbert@pepperdine.edu
+• Mike Doig Assistant Coach (310) 506- michael.doig@pepperdine.edu
+• Jeremy Grubbs Assistant Coach (310) 506- jeremy.grubbs@pepperdine.edu @iamCoachGrubbs
+• Katie Faulkner Head Coach katie.faulkner@pepperdine.edu @coachKTB
+• Erika Bean Assistant Coach erika.bean@pepperdine.edu
+• Makena Mastora Assistant Coach makena.mastora@pepperdine.edu
+• Brian Porth Assistant Coach brian.porth@pepperdine.edu
+• Kamran Sufi Assistant Coach kamran.sufi@pepperdine.edu
+• Lauren Floris Head Coach (310) 506- XCTrack@Pepperdine.edu
+• Victor Pataky Assistant Coach (310) 506- XCTrack@Pepperdine.edu
+• Rayshawn Johnson Assistant Coach (Sprints/Hurdles) XCTrack@Pepperdine.edu
+• Michael Beard Head Coach (310) 506- michael.beard@pepperdine.edu @CoachMBeard
+• Nick Robinson Assistant Coach (310) 506- Nickolas.Robinson@pepperdine.edu
+• Laurie Gibbs Head Coach (310) 506- laurie.gibbs@pepperdine.edu
+• Kacey Dalpes Assistant Coach 310-506- kacey.dalpes@pepperdine.edu
+• Tim Ward Head Coach (310) 506- pepperdinesoccer@pepperdine.edu @HeadCoachWard
+• Max Rooke Associate Head Coach (310) 506- pepperdinesoccer@pepperdine.edu @Max_Rooke
+• Kevin Arellano Assistant Coach (310) 506- kevin.arellano@pepperdine.edu
+• Amber Marshall Assistant Coach (310) 506- amber.marshall@pepperdine.edu
+• Ellie Monobe Head Coach (310) 506- ellie.monobe@pepperdine.edu
+• Monique Demaisip Diving Coach (310) 506- monique.demaisip@pepperdine.edu
+• Dan Marella Assistant Coach (310) 506- daniel.marella@pepperdine.edu
+• Adam Schaechterle Director of Tennis | Head Coach (310) 506- adam.schaechterle@pepperdine.edu @aschaechterle
+• Kazuki Matsuno Assistant Coach/Director of Recruiting kazuki.matsuno@pepperdine.edu
+• Diego Castillo Assistant Coach diego.castillo@pepperdine.edu
+• Tassilo Schmid Head Coach (310) 506- tassilo.schmid@pepperdine.edu
+• Ben Beekman Assistant Coach (616) 438- Ben.beekman@pepperdine.edu
+• Sami Ozzor Assistant Coach sami.ozzor@pepperdine.edu
+• Jonathan Winder Head Coach (310) 506- jonathan.winder@pepperdine.edu @JonathanSWinder
+• Matthew Pollock Associate Head Coach (310) 506- matthew.pollock@pepperdine.edu
+• Luke Reynolds Associate Head Coach (310) 506- luke.reynolds@pepperdine.edu
+• Will Craft Assistant Coach (310) 506- will.craft@pepperdine.edu
+• Marv Dunphy Head Coach Emeritus (310) 506- marv.dunphy@pepperdine.edu
+• Marcio Sicoli Head Coach (310) 506- marcio.sicoli@pepperdine.edu
+• Noelle Rooke Associate Head Coach / Recruiting Coordinator (310) 506- noelle.rooke@pepperdine.edu
+• Scott Wong Head Coach (310) 506- scott.wong@pepperdine.edu
+• Hillary Hurley Assistant Coach (310) 506- hillary.hurley@pepperdine.edu
+• Michael Wexter Assistant Coach (310) 506- michael.wexter@pepperdine.edu
+• Jeremiah Burden Graduate Assistant Coach jeremiah.burden@pepperdine.edu
+• Merrill Moses Head Coach (310) 506- merrill.moses@pepperdine.edu @MerrillMoses
+• Mike Tragitt Associate Head Coach (310) 506- michael.tragitt@pepperdine.edu @MichaelTragitt
+• Spencer Hamby Assistant Coach (310) 506- spencer.hamby@pepperdine.edu

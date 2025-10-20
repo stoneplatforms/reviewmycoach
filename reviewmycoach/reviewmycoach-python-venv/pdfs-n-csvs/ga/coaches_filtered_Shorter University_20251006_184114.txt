@@ -1,0 +1,89 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:15
+============================================================
+
+Total coaches found: 13
+
+PARSED ENTRIES:
+----------------------------------------
+1. Wes Timmons
+   Email: wtimmons@shorter.edu
+   Username: wtimmons
+   Original line: Wes Timmons Head Baseball Coach (706) wtimmons@shorter.edu hawksbaseballsu shorterubaseball
+
+2. Frank Byers
+   Email: fbyers@shorter.edu
+   Username: fbyers
+   Original line: Frank Byers Head Cheer Coach fbyers@shorter.edu shortercheer
+
+3. Zach Morrison
+   Email: zmorrison@shorter.edu
+   Username: zmorrison
+   Original line: Zach Morrison Head Football Coach (706) zmorrison@shorter.edu coachmorrison58 suhawkvision
+
+4. Harlen Jacobs
+   Email: hjacobs@shorter.edu
+   Username: hjacobs
+   Original line: Harlen Jacobs Associate Head Football (706) hjacobs@shorter.edu Coach_HJacobs
+
+5. Tim Glanton
+   Email: tglanton@shorter.edu
+   Username: tglanton
+   Original line: Tim Glanton Running Back Coach (706) tglanton@shorter.edu
+
+6. Malcolm Mercer
+   Email: mmercer@shorter.edu
+   Username: mmercer
+   Original line: Malcolm Mercer Defensive Line Coach (706) mmercer@shorter.edu
+
+7. Keith Otis
+   Email: kotis@shorter.edu
+   Username: kotis
+   Original line: Keith Otis Offensive Line Coach (706) kotis@shorter.edu
+
+8. Jason Sandlin
+   Email: jsandlin@shorter.edu
+   Username: jsandlin
+   Original line: Jason Sandlin Head Golf Coach jsandlin@shorter.edu shorterhawksgolf
+
+9. Kelsey Hogan
+   Email: khogan@shorter.edu
+   Username: khogan
+   Original line: Kelsey Hogan Head Softball Coach (706) khogan@shorter.edu suhawkssoftball suhawkssoftball
+
+10. Jessi Bruce
+   Email: jbruce@shorter.edu
+   Username: jbruce
+   Original line: Jessi Bruce Assistant Softball Coach- 706-233- jbruce@shorter.edu
+
+11. Orville Adams
+   Email: oadams@shorter.edu
+   Username: oadams
+   Original line: Orville Adams Head Tennis Coach (706) oadams@shorter.edu shortertennis
+
+12. Taylor Watson
+   Email: tlallmann@shorter.edu
+   Username: tlallmann
+   Original line: Taylor Watson Head Volleyball Coach (706) tlallmann@shorter.edu shorter_volleyball
+
+13. Andrew Colborn
+   Email: acolborn@shorter.edu
+   Username: acolborn
+   Original line: Andrew Colborn Head Wrestling Coach (706) acolborn@shorter.edu shorterwres shorterwrestling
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Wes Timmons Head Baseball Coach (706) wtimmons@shorter.edu hawksbaseballsu shorterubaseball
+• Frank Byers Head Cheer Coach fbyers@shorter.edu shortercheer
+• Zach Morrison Head Football Coach (706) zmorrison@shorter.edu coachmorrison58 suhawkvision
+• Harlen Jacobs Associate Head Football (706) hjacobs@shorter.edu Coach_HJacobs
+• Tim Glanton Running Back Coach (706) tglanton@shorter.edu
+• Malcolm Mercer Defensive Line Coach (706) mmercer@shorter.edu
+• Keith Otis Offensive Line Coach (706) kotis@shorter.edu
+• Jason Sandlin Head Golf Coach jsandlin@shorter.edu shorterhawksgolf
+• Kelsey Hogan Head Softball Coach (706) khogan@shorter.edu suhawkssoftball suhawkssoftball
+• Jessi Bruce Assistant Softball Coach- 706-233- jbruce@shorter.edu
+• Orville Adams Head Tennis Coach (706) oadams@shorter.edu shortertennis
+• Taylor Watson Head Volleyball Coach (706) tlallmann@shorter.edu shorter_volleyball
+• Andrew Colborn Head Wrestling Coach (706) acolborn@shorter.edu shorterwres shorterwrestling

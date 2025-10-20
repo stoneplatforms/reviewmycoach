@@ -1,0 +1,11 @@
+Printing results: Success=7 Skipped=1 Errors=0
+
+Skipped/Failed links:
+- University of Providence.pdf: https://uprovidenceathletics.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://uprovidenceathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://uprovidenceathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://uprovidenceathletics.com/staff-directory?print=true, https://uprovidenceathletics.com/staff-directory/print, https://uprovidenceathletics.com/staff-directory, https://uprovidenceathletics.com/staff-directory/index?print=true, https://uprovidenceathletics.com/staff-directory/index/print, https://uprovidenceathletics.com/staff-directory/index
+
+PDFs flagged as low-quality parsing:
+- Montana State University Billings.pdf

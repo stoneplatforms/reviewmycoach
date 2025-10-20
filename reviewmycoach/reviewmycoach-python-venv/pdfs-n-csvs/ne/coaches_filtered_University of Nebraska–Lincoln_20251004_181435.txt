@@ -1,0 +1,419 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:38
+============================================================
+
+Total coaches found: 68
+
+PARSED ENTRIES:
+----------------------------------------
+1. Erynn Butzke
+   Email: ebutzke@huskers.com
+   Username: ebutzke
+   Original line: Erynn Butzke Spirit Squad Head Coach ebutzke@huskers.com 472-
+
+2. Alex Jardine
+   Email: ajardine@huskers.com
+   Username: ajardine
+   Original line: Alex Jardine Women's Basketball Strength Coach ajardine@huskers.com 472-
+
+3. Chase Beideck
+   Email: cbeideck@huskers.com
+   Username: cbeideck
+   Original line: Chase Beideck Assistant Strength Coach (T&F) cbeideck@huskers.com 472-
+
+4. Will Bolt
+   Email: rbrinkmann@huskers.com
+   Username: rbrinkmann
+   Original line: Will Bolt Head Coach rbrinkmann@huskers.com 472-
+
+5. Lance Harvell
+   Email: lharvell@huskers.com
+   Username: lharvell
+   Original line: Lance Harvell Assistant Coach/Recruiting Coordinator lharvell@huskers.com 472-
+
+6. Mike Sirianni
+   Email: msirianni@huskers.com
+   Username: msirianni
+   Original line: Mike Sirianni Assistant Coach msirianni@huskers.com 472-
+
+7. Rob Childress
+   Email: rchildress@huskers.com
+   Username: rchildress
+   Original line: Rob Childress Assistant Coach rchildress@huskers.com 472-
+
+8. Fred Hoiberg
+   Email: sburbach@huskers.com
+   Username: sburbach
+   Original line: Fred Hoiberg Head Coach sburbach@huskers.com 472-
+
+9. Nate Loenser
+   Email: nloenser@huskers.com
+   Username: nloenser
+   Original line: Nate Loenser Assistant Coach nloenser@huskers.com 472-
+
+10. Pat Monaghan
+   Email: pmonaghan3@huskers.com
+   Username: pmonaghan3
+   Original line: Pat Monaghan Assistant Coach pmonaghan3@huskers.com 472-
+
+11. Ernie Zeigler
+   Email: ezeigler@huskers.com
+   Username: ezeigler
+   Original line: Ernie Zeigler Assistant Coach ezeigler@huskers.com 472-
+
+12. Padyn Borders
+   Email: pborders@huskers.com
+   Username: pborders
+   Original line: Padyn Borders Assistant Coach/Recruiting Coordinator pborders@huskers.com 472-
+
+13. Amy Williams
+   Email: jhoistad@huskers.com
+   Username: jhoistad
+   Original line: Amy Williams Head Coach jhoistad@huskers.com 472-
+
+14. Julian Assibey
+   Email: jassibey@huskers.com
+   Username: jassibey
+   Original line: Julian Assibey Assistant Coach jassibey@huskers.com 472-
+
+15. Jessica Keller
+   Email: jkeller11@huskers.com
+   Username: jkeller11
+   Original line: Jessica Keller Assistant Coach jkeller11@huskers.com 472-
+
+16. Tandem Mays
+   Email: tmays@huskers.com
+   Username: tmays
+   Original line: Tandem Mays Assistant Coach tmays@huskers.com 472-
+
+17. Taylor Edwards
+   Email: tedwards@huskers.com
+   Username: tedwards
+   Original line: Taylor Edwards Assistant Coach tedwards@huskers.com 472-
+
+18. Alex Jardine
+   Email: ajardine@huskers.com
+   Username: ajardine
+   Original line: Alex Jardine Women's Basketball Strength Coach ajardine@huskers.com 472-
+
+19. Jaylen Reyes
+   Email: jreyes@huskers.com
+   Username: jreyes
+   Original line: Jaylen Reyes Head Coach jreyes@huskers.com 730-
+
+20. Assistant Coach
+   Email: khunter@huskers.com
+   Username: khunter
+   Original line: Assistant Coach khunter@huskers.com 472-
+
+21. Brennan Hagar
+   Email: bhagar2@huskers.com
+   Username: bhagar2
+   Original line: Brennan Hagar Interim Assistant Coach bhagar2@huskers.com 472-
+
+22. Paul Klempa
+   Email: pklempa@huskers.com
+   Username: pklempa
+   Original line: Paul Klempa Head Coach pklempa@huskers.com 472-
+
+23. Megan Elliott
+   Email: melliott30@huskers.com
+   Username: melliott30
+   Original line: Megan Elliott Head Coach melliott30@huskers.com
+
+24. Matt Wackerly
+   Email: mwackerly@huskers.com
+   Username: mwackerly
+   Original line: Matt Wackerly Assistant Coach mwackerly@huskers.com 472-
+
+25. Matt Rhule
+   Email: hchilders2@huskers.com
+   Username: hchilders2
+   Original line: Matt Rhule Head Coach hchilders2@huskers.com
+
+26. Phil Snow
+   Email: ccaniford2@huskers.com
+   Username: ccaniford2
+   Original line: Phil Snow Associate Head Coach ccaniford2@huskers.com
+
+27. E.J. Barthel
+   Email: ccaniford2@huskers.com
+   Username: ccaniford2
+   Original line: E.J. Barthel Assistant Coach - Running Backs ccaniford2@huskers.com
+
+28. Rob Dvoracek
+   Email: ccaniford2@huskers.com
+   Username: ccaniford2
+   Original line: Rob Dvoracek Assistant Coach - Linebackers ccaniford2@huskers.com
+
+29. Donovan Raiola
+   Email: ccaniford2@huskers.com
+   Username: ccaniford2
+   Original line: Donovan Raiola Assistant Coach - Offensive Line ccaniford2@huskers.com
+
+30. Marcus Satterfield
+   Email: ccaniford2@huskers.com
+   Username: ccaniford2
+   Original line: Marcus Satterfield Assistant Coach - Tight Ends ccaniford2@huskers.com
+
+31. Daikiel Shorts
+   Email: ccaniford2@huskers.com
+   Username: ccaniford2
+   Original line: Daikiel Shorts Jr. Assistant Coach - Wide Receivers ccaniford2@huskers.com
+
+32. Phil Simpson
+   Email: ccaniford2@huskers.com
+   Username: ccaniford2
+   Original line: Phil Simpson Assistant Coach - Outside Linebackers ccaniford2@huskers.com
+
+33. Addison Williams
+   Email: ccaniford2@huskers.com
+   Username: ccaniford2
+   Original line: Addison Williams Assistant Coach - Secondary ccaniford2@huskers.com
+
+34. Corey Campbell
+   Email: ccaniford2@huskers.com
+   Username: ccaniford2
+   Original line: Corey Campbell Head Football Strength & Conditioning Coach ccaniford2@huskers.com 472-
+
+35. Halle Childers
+   Email: hchilders2@unl.edu
+   Username: hchilders2
+   Original line: Halle Childers Head Coach Support/Staff Operations hchilders2@unl.edu
+
+36. Judd Cornell
+   Email: jcornell@huskers.com
+   Username: jcornell
+   Original line: Judd Cornell Head Coach jcornell@huskers.com 670-
+
+37. Travis Minzel
+   Email: tminzel@huskers.com
+   Username: tminzel
+   Original line: Travis Minzel Assistant Coach tminzel@huskers.com 229-
+
+38. Breanne Hall
+   Email: bhall29@huskers.com
+   Username: bhall29
+   Original line: Breanne Hall Head Coach bhall29@huskers.com
+
+39. Allyssa Ferrell
+   Email: aferrell8@huskers.com
+   Username: aferrell8
+   Original line: Allyssa Ferrell Assistant Coach aferrell8@huskers.com
+
+40. Chuck Chmelka
+   Email: cchmelka@huskers.com
+   Username: cchmelka
+   Original line: Chuck Chmelka Head Coach cchmelka@huskers.com 472-
+
+41. Jim Hartung
+   Email: jhartung@huskers.com
+   Username: jhartung
+   Original line: Jim Hartung Assistant Coach jhartung@huskers.com
+
+42. Heather Brink
+   Email: hbrink@huskers.com
+   Username: hbrink
+   Original line: Heather Brink Head Coach hbrink@huskers.com 472-
+
+43. Brian Amato
+   Email: bamato@huskers.com
+   Username: bamato
+   Original line: Brian Amato Assistant Coach bamato@huskers.com 472-
+
+44. Mollie Korth
+   Email: mkorth@huskers.com
+   Username: mkorth
+   Original line: Mollie Korth Assistant Coach mkorth@huskers.com
+
+45. Richard Clark
+   Email: rclark@huskers.com
+   Username: rclark
+   Original line: Richard Clark Head Coach rclark@huskers.com
+
+46. Kristen Derting
+   Email: kderting2@huskers.com
+   Username: kderting2
+   Original line: Kristen Derting Assistant Coach kderting2@huskers.com
+
+47. John Walker
+   Email: jwalker@huskers.com
+   Username: jwalker
+   Original line: John Walker Head Coach jwalker@huskers.com 472-
+
+48. Assistant Coach
+   Email: suveges@huskers.com
+   Username: suveges
+   Original line: Assistant Coach suveges@huskers.com 472-
+
+49. Ian Bridge
+   Email: ibridge@huskers.com
+   Username: ibridge
+   Original line: Ian Bridge Assistant Coach ibridge@huskers.com 472-
+
+50. Dan Ball
+   Email: dball4@huskers.com
+   Username: dball4
+   Original line: Dan Ball Assistant Coach dball4@huskers.com
+
+51. Rhonda Revelle
+   Email: rrevelle@huskers.com
+   Username: rrevelle
+   Original line: Rhonda Revelle Head Coach rrevelle@huskers.com 472-
+
+52. Lori Sippel
+   Email: lsippel@huskers.com
+   Username: lsippel
+   Original line: Lori Sippel Associate Head Coach lsippel@huskers.com 472-
+
+53. Diane Miller
+   Email: dmiller@huskers.com
+   Username: dmiller
+   Original line: Diane Miller Assistant Coach dmiller@huskers.com 472-
+
+54. Pablo Morales
+   Email: pmorales@huskers.com
+   Username: pmorales
+   Original line: Pablo Morales Head Coach pmorales@huskers.com 472-
+
+55. Patrick Rowan
+   Email: prowan@huskers.com
+   Username: prowan
+   Original line: Patrick Rowan Associate Head Coach prowan@huskers.com 472-
+
+56. Landon Marzullo
+   Email: lmarzullo@huskers.com
+   Username: lmarzullo
+   Original line: Landon Marzullo Head Diving Coach lmarzullo@huskers.com 472-
+
+57. Peter Kobelt
+   Email: peter.kobelt@huskers.com
+   Username: peter.kobelt
+   Original line: Peter Kobelt Head Coach peter.kobelt@huskers.com
+
+58. German Dalmagro
+   Email: gdalmagro@huskers.com
+   Username: gdalmagro
+   Original line: German Dalmagro Head Coach gdalmagro@huskers.com 472-
+
+59. Maddie Kobelt
+   Email: mkobelt@huskers.com
+   Username: mkobelt
+   Original line: Maddie Kobelt Assistant Coach mkobelt@huskers.com 472-
+
+60. Vincent Johnson
+   Email: vjohnson@huskers.com
+   Username: vjohnson
+   Original line: Vincent Johnson Assistant Coach - Jumps vjohnson@huskers.com 472-
+
+61. Dusty Jonas
+   Email: djonas@huskers.com
+   Username: djonas
+   Original line: Dusty Jonas Assistant Coach - HJ/Multis djonas@huskers.com 472-
+
+62. Mike Bartolina
+   Email: mbartolina@huskers.com
+   Username: mbartolina
+   Original line: Mike Bartolina Assistant Coach - Pole Vault mbartolina@huskers.com 472-
+
+63. Matt Wackerly
+   Email: mwackerly@huskers.com
+   Username: mwackerly
+   Original line: Matt Wackerly Assistant Coach - Distance mwackerly@huskers.com 472-
+
+64. Head Coach
+   Email: jduff@huskers.com
+   Username: jduff
+   Original line: Head Coach jduff@huskers.com 472-
+
+65. Jaylen Reyes
+   Email: jreyes@huskers.com
+   Username: jreyes
+   Original line: Jaylen Reyes Assistant Coach/Recruiting Coordinator jreyes@huskers.com 730-
+
+66. Assistant Coach
+   Email: khunter@huskers.com
+   Username: khunter
+   Original line: Assistant Coach khunter@huskers.com 472-
+
+67. Brennan Hagar
+   Email: bhagar2@huskers.com
+   Username: bhagar2
+   Original line: Brennan Hagar Assistant Coach bhagar2@huskers.com 472-
+
+68. Bryan Snyder
+   Email: bsnyder@huskers.com
+   Username: bsnyder
+   Original line: Bryan Snyder Associate Head Coach bsnyder@huskers.com 472-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Erynn Butzke Spirit Squad Head Coach ebutzke@huskers.com 472-
+• Alex Jardine Women's Basketball Strength Coach ajardine@huskers.com 472-
+• Chase Beideck Assistant Strength Coach (T&F) cbeideck@huskers.com 472-
+• Will Bolt Head Coach rbrinkmann@huskers.com 472-
+• Lance Harvell Assistant Coach/Recruiting Coordinator lharvell@huskers.com 472-
+• Mike Sirianni Assistant Coach msirianni@huskers.com 472-
+• Rob Childress Assistant Coach rchildress@huskers.com 472-
+• Fred Hoiberg Head Coach sburbach@huskers.com 472-
+• Nate Loenser Assistant Coach nloenser@huskers.com 472-
+• Pat Monaghan Assistant Coach pmonaghan3@huskers.com 472-
+• Ernie Zeigler Assistant Coach ezeigler@huskers.com 472-
+• Padyn Borders Assistant Coach/Recruiting Coordinator pborders@huskers.com 472-
+• Amy Williams Head Coach jhoistad@huskers.com 472-
+• Julian Assibey Assistant Coach jassibey@huskers.com 472-
+• Jessica Keller Assistant Coach jkeller11@huskers.com 472-
+• Tandem Mays Assistant Coach tmays@huskers.com 472-
+• Taylor Edwards Assistant Coach tedwards@huskers.com 472-
+• Alex Jardine Women's Basketball Strength Coach ajardine@huskers.com 472-
+• Jaylen Reyes Head Coach jreyes@huskers.com 730-
+• Assistant Coach khunter@huskers.com 472-
+• Brennan Hagar Interim Assistant Coach bhagar2@huskers.com 472-
+• Paul Klempa Head Coach pklempa@huskers.com 472-
+• Megan Elliott Head Coach melliott30@huskers.com
+• Matt Wackerly Assistant Coach mwackerly@huskers.com 472-
+• Matt Rhule Head Coach hchilders2@huskers.com
+• Phil Snow Associate Head Coach ccaniford2@huskers.com
+• E.J. Barthel Assistant Coach - Running Backs ccaniford2@huskers.com
+• Rob Dvoracek Assistant Coach - Linebackers ccaniford2@huskers.com
+• Donovan Raiola Assistant Coach - Offensive Line ccaniford2@huskers.com
+• Marcus Satterfield Assistant Coach - Tight Ends ccaniford2@huskers.com
+• Daikiel Shorts Jr. Assistant Coach - Wide Receivers ccaniford2@huskers.com
+• Phil Simpson Assistant Coach - Outside Linebackers ccaniford2@huskers.com
+• Addison Williams Assistant Coach - Secondary ccaniford2@huskers.com
+• Corey Campbell Head Football Strength & Conditioning Coach ccaniford2@huskers.com 472-
+• Halle Childers Head Coach Support/Staff Operations hchilders2@unl.edu
+• Judd Cornell Head Coach jcornell@huskers.com 670-
+• Travis Minzel Assistant Coach tminzel@huskers.com 229-
+• Breanne Hall Head Coach bhall29@huskers.com
+• Allyssa Ferrell Assistant Coach aferrell8@huskers.com
+• Chuck Chmelka Head Coach cchmelka@huskers.com 472-
+• Jim Hartung Assistant Coach jhartung@huskers.com
+• Heather Brink Head Coach hbrink@huskers.com 472-
+• Brian Amato Assistant Coach bamato@huskers.com 472-
+• Mollie Korth Assistant Coach mkorth@huskers.com
+• Richard Clark Head Coach rclark@huskers.com
+• Kristen Derting Assistant Coach kderting2@huskers.com
+• John Walker Head Coach jwalker@huskers.com 472-
+• Assistant Coach suveges@huskers.com 472-
+• Ian Bridge Assistant Coach ibridge@huskers.com 472-
+• Dan Ball Assistant Coach dball4@huskers.com
+• Rhonda Revelle Head Coach rrevelle@huskers.com 472-
+• Lori Sippel Associate Head Coach lsippel@huskers.com 472-
+• Diane Miller Assistant Coach dmiller@huskers.com 472-
+• Pablo Morales Head Coach pmorales@huskers.com 472-
+• Patrick Rowan Associate Head Coach prowan@huskers.com 472-
+• Landon Marzullo Head Diving Coach lmarzullo@huskers.com 472-
+• Peter Kobelt Head Coach peter.kobelt@huskers.com
+• German Dalmagro Head Coach gdalmagro@huskers.com 472-
+• Maddie Kobelt Assistant Coach mkobelt@huskers.com 472-
+• Vincent Johnson Assistant Coach - Jumps vjohnson@huskers.com 472-
+• Dusty Jonas Assistant Coach - HJ/Multis djonas@huskers.com 472-
+• Mike Bartolina Assistant Coach - Pole Vault mbartolina@huskers.com 472-
+• Matt Wackerly Assistant Coach - Distance mwackerly@huskers.com 472-
+• Head Coach jduff@huskers.com 472-
+• Jaylen Reyes Assistant Coach/Recruiting Coordinator jreyes@huskers.com 730-
+• Assistant Coach khunter@huskers.com 472-
+• Brennan Hagar Assistant Coach bhagar2@huskers.com 472-
+• Bryan Snyder Associate Head Coach bsnyder@huskers.com 472-

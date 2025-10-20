@@ -1,0 +1,257 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:51
+============================================================
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brooke Enners
+   Email: benners@usfca.edu
+   Username: benners
+   Original line: Brooke Enners Academic Success Coach (MSOC, VB, BVB, TRI) benners@usfca.edu
+
+2. Jackson Shumway
+   Email: jshumway@usfca.edu
+   Username: jshumway
+   Original line: Jackson Shumway Academic Success Coach (WSOC, MGOLF, XC, T&F) jshumway@usfca.edu,
+
+3. Bryan Fink
+   Email: bfink2@usfca.edu
+   Username: bfink2
+   Original line: Bryan Fink Head Strength and Conditioning Coach (WBB, MSOC, BSB, bfink2@usfca.edu
+
+4. Nathan Culbreath
+   Email: nculbreath@usfca.edu
+   Username: nculbreath
+   Original line: Nathan Culbreath Assistant Strength and Conditioning Coach (MBB, WSOC, BVB) nculbreath@usfca.edu
+
+5. Major Arcangel-Corpuz
+   Email: mbarcangelcorpuz@usfca.edu
+   Username: mbarcangelcorpuz
+   Original line: Major Arcangel-Corpuz Assistant Strength and Conditioning Coach (MGOLF, WGOLF, mbarcangelcorpuz@usfca.edu
+
+6. Michael Plank
+   Email: mplank@usfca.edu
+   Username: mplank
+   Original line: Michael Plank Assistant Coach mplank@usfca.edu
+
+7. Jay Duncan
+   Email: jduncan3@usfca.edu
+   Username: jduncan3
+   Original line: Jay Duncan Assistant Coach jduncan3@usfca.edu
+
+8. Kyle Bankhead
+   Email: kbankhead@usfca.edu
+   Username: kbankhead
+   Original line: Kyle Bankhead Assistant Coach kbankhead@usfca.edu
+
+9. Frankie Ferrari
+   Email: fferrari@usfca.edu
+   Username: fferrari
+   Original line: Frankie Ferrari Assistant Coach/Director of Player Development fferrari@usfca.edu
+
+10. Molly Goodenbour
+   Email: mcgoodenbour@usfca.edu
+   Username: mcgoodenbour
+   Original line: Molly Goodenbour Head Women's Basketball Coach mcgoodenbour@usfca.edu 415-422-
+
+11. Janell Jones
+   Email: jjones15@usfca.edu
+   Username: jjones15
+   Original line: Janell Jones Associate Head Coach jjones15@usfca.edu
+
+12. Isaac Lu
+   Email: slu27@usfca.edu
+   Username: slu27
+   Original line: Isaac Lu Assistant Coach slu27@usfca.edu
+
+13. Ryan Yablonsky
+   Email: ryablonsky@usfca.edu
+   Username: ryablonsky
+   Original line: Ryan Yablonsky Assistant Coach ryablonsky@usfca.edu
+
+14. Rob DiToma
+   Email: rditoma@usfca.edu
+   Username: rditoma
+   Original line: Rob DiToma Head Baseball Coach rditoma@usfca.edu
+
+15. Erik Supplee
+   Email: esupplee@usfca.edu
+   Username: esupplee
+   Original line: Erik Supplee Assistant Coach esupplee@usfca.edu
+
+16. Jon Garvey
+   Email: jgarvey5@usfca.edu
+   Username: jgarvey5
+   Original line: Jon Garvey Assistant Coach jgarvey5@usfca.edu
+
+17. Cameron Rowland
+   Email: crowland@usfca.edu
+   Username: crowland
+   Original line: Cameron Rowland Assistant Coach crowland@usfca.edu
+
+18. Emily Cook
+   Email: ecook3@usfca.edu
+   Username: ecook3
+   Original line: Emily Cook Head Beach Volleyball Coach ecook3@usfca.edu 415-422-
+
+19. John Castillo
+   Email: jcastillo17@usfca.edu
+   Username: jcastillo17
+   Original line: John Castillo Assistant Coach jcastillo17@usfca.edu
+
+20. Jordan Carpenter
+   Email: jcarpenter6@usfca.edu
+   Username: jcarpenter6
+   Original line: Jordan Carpenter Head Cross Country/Track & Field Coach jcarpenter6@usfca.edu
+
+21. Sierra Brill
+   Email: sbrill2@usfca.edu
+   Username: sbrill2
+   Original line: Sierra Brill Assistant Coach/Director of Operations sbrill2@usfca.edu
+
+22. Rich Marcello
+   Email: rmarcello@usfca.edu
+   Username: rmarcello
+   Original line: Rich Marcello Assistant Coach rmarcello@usfca.edu
+
+23. Jalen Griffin
+   Email: jrgriffin2@usfca.edu
+   Username: jrgriffin2
+   Original line: Jalen Griffin Head Men's Golf Coach jrgriffin2@usfca.edu
+
+24. Michael Farley
+   Email: mfarley2@usfca.edu
+   Username: mfarley2
+   Original line: Michael Farley Assistant Coach mfarley2@usfca.edu
+
+25. Sara Doell
+   Email: sdoell@usfca.edu
+   Username: sdoell
+   Original line: Sara Doell Head Women's Golf Coach sdoell@usfca.edu
+
+26. Chris Brown
+   Email: cbrown14@usfca.edu
+   Username: cbrown14
+   Original line: Chris Brown Head Men's Soccer Coach cbrown14@usfca.edu
+
+27. Sam Reynolds
+   Email: sreynolds1@usfca.edu
+   Username: sreynolds1
+   Original line: Sam Reynolds Assistant Coach sreynolds1@usfca.edu
+
+28. Robbie Rix
+   Email: rrix@usfca.edu
+   Username: rrix
+   Original line: Robbie Rix Assistant Coach rrix@usfca.edu
+
+29. Shane Watkins
+   Email: swatkins@usfca.edu
+   Username: swatkins
+   Original line: Shane Watkins Assistant Coach swatkins@usfca.edu
+
+30. Pinder Nijjar
+   Email: pnijjar@usfca.edu
+   Username: pnijjar
+   Original line: Pinder Nijjar Head Women's Soccer Coach pnijjar@usfca.edu
+
+31. Alexis Mata
+   Email: amata4@usfca.edu
+   Username: amata4
+   Original line: Alexis Mata Assistant Coach amata4@usfca.edu
+
+32. Halle Bissin
+   Email: hrbissin1@usfca.edu
+   Username: hrbissin1
+   Original line: Halle Bissin Assistant Coach hrbissin1@usfca.edu
+
+33. Lauren Frohan
+   Email: lbfrohan@usfca.edu
+   Username: lbfrohan
+   Original line: Lauren Frohan Assistant Coach lbfrohan@usfca.edu
+
+34. Jordan Carpenter
+   Email: jcarpenter6@usfca.edu
+   Username: jcarpenter6
+   Original line: Jordan Carpenter Head Cross Country/Track & Field Coach jcarpenter6@usfca.edu
+
+35. Sierra Brill
+   Email: sbrill2@usfca.edu
+   Username: sbrill2
+   Original line: Sierra Brill Assistant Coach/Director of Operations sbrill2@usfca.edu
+
+36. Rich Marcello
+   Email: rmarcello@usfca.edu
+   Username: rmarcello
+   Original line: Rich Marcello Assistant Coach rmarcello@usfca.edu
+
+37. Gina Kehr
+   Email: gkehr@usfca.edu
+   Username: gkehr
+   Original line: Gina Kehr Head Triathlon Coach gkehr@usfca.edu 650-269-
+
+38. Diogo Silva
+   Email: dsilva7@usfca.edu
+   Username: dsilva7
+   Original line: Diogo Silva Head Volleyball Coach dsilva7@usfca.edu
+
+39. Jocelyn Garcia
+   Email: jgarcia73@usfca.edu
+   Username: jgarcia73
+   Original line: Jocelyn Garcia Assistant Coach jgarcia73@usfca.edu
+
+40. Kelly Luz
+   Email: kaluz@dons.usfca.edu
+   Username: kaluz
+   Original line: Kelly Luz Volunteer Assistant Coach/Director of Operations kaluz@dons.usfca.edu
+
+41. Hugo Gomes
+   Email: handrademontenegrogo@usfca.edu
+   Username: handrademontenegrogo
+   Original line: Hugo Gomes Assistant Coach handrademontenegrogo@usfca.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brooke Enners Academic Success Coach (MSOC, VB, BVB, TRI) benners@usfca.edu
+• Jackson Shumway Academic Success Coach (WSOC, MGOLF, XC, T&F) jshumway@usfca.edu,
+• Bryan Fink Head Strength and Conditioning Coach (WBB, MSOC, BSB, bfink2@usfca.edu
+• Nathan Culbreath Assistant Strength and Conditioning Coach (MBB, WSOC, BVB) nculbreath@usfca.edu
+• Major Arcangel-Corpuz Assistant Strength and Conditioning Coach (MGOLF, WGOLF, mbarcangelcorpuz@usfca.edu
+• Michael Plank Assistant Coach mplank@usfca.edu
+• Jay Duncan Assistant Coach jduncan3@usfca.edu
+• Kyle Bankhead Assistant Coach kbankhead@usfca.edu
+• Frankie Ferrari Assistant Coach/Director of Player Development fferrari@usfca.edu
+• Molly Goodenbour Head Women's Basketball Coach mcgoodenbour@usfca.edu 415-422-
+• Janell Jones Associate Head Coach jjones15@usfca.edu
+• Isaac Lu Assistant Coach slu27@usfca.edu
+• Ryan Yablonsky Assistant Coach ryablonsky@usfca.edu
+• Rob DiToma Head Baseball Coach rditoma@usfca.edu
+• Erik Supplee Assistant Coach esupplee@usfca.edu
+• Jon Garvey Assistant Coach jgarvey5@usfca.edu
+• Cameron Rowland Assistant Coach crowland@usfca.edu
+• Emily Cook Head Beach Volleyball Coach ecook3@usfca.edu 415-422-
+• John Castillo Assistant Coach jcastillo17@usfca.edu
+• Jordan Carpenter Head Cross Country/Track & Field Coach jcarpenter6@usfca.edu
+• Sierra Brill Assistant Coach/Director of Operations sbrill2@usfca.edu
+• Rich Marcello Assistant Coach rmarcello@usfca.edu
+• Jalen Griffin Head Men's Golf Coach jrgriffin2@usfca.edu
+• Michael Farley Assistant Coach mfarley2@usfca.edu
+• Sara Doell Head Women's Golf Coach sdoell@usfca.edu
+• Chris Brown Head Men's Soccer Coach cbrown14@usfca.edu
+• Sam Reynolds Assistant Coach sreynolds1@usfca.edu
+• Robbie Rix Assistant Coach rrix@usfca.edu
+• Shane Watkins Assistant Coach swatkins@usfca.edu
+• Pinder Nijjar Head Women's Soccer Coach pnijjar@usfca.edu
+• Alexis Mata Assistant Coach amata4@usfca.edu
+• Halle Bissin Assistant Coach hrbissin1@usfca.edu
+• Lauren Frohan Assistant Coach lbfrohan@usfca.edu
+• Jordan Carpenter Head Cross Country/Track & Field Coach jcarpenter6@usfca.edu
+• Sierra Brill Assistant Coach/Director of Operations sbrill2@usfca.edu
+• Rich Marcello Assistant Coach rmarcello@usfca.edu
+• Gina Kehr Head Triathlon Coach gkehr@usfca.edu 650-269-
+• Diogo Silva Head Volleyball Coach dsilva7@usfca.edu
+• Jocelyn Garcia Assistant Coach jgarcia73@usfca.edu
+• Kelly Luz Volunteer Assistant Coach/Director of Operations kaluz@dons.usfca.edu
+• Hugo Gomes Assistant Coach handrademontenegrogo@usfca.edu

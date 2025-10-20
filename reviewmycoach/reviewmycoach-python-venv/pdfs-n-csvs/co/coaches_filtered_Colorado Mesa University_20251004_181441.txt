@@ -1,0 +1,360 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:41
+============================================================
+
+Total coaches found: 58
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mark Ryan
+   Email: mmryan@coloradomesa.edu
+   Username: mmryan
+   Original line: Mark Ryan Head Strength & Conditioning Coach mmryan@coloradomesa.edu 248-
+
+2. Taylor Ulrich
+   Email: tulrich@coloradomesa.edu
+   Username: tulrich
+   Original line: Taylor Ulrich Assistant Strength & Conditioning Coach tulrich@coloradomesa.edu
+
+3. Amber Rummel
+   Email: arummel@coloradomesa.edu
+   Username: arummel
+   Original line: Amber Rummel Assistant Strength & Conditioning Coach arummel@coloradomesa.edu
+
+4. Chris Hanks
+   Email: chanks@coloradomesa.edu
+   Username: chanks
+   Original line: Chris Hanks Head Baseball Coach chanks@coloradomesa.edu 248- 30skipper
+
+5. Sean McKinney
+   Email: smckinne@coloradomesa.edu
+   Username: smckinne
+   Original line: Sean McKinney Associate Head Baseball Coach smckinne@coloradomesa.edu 248- wyomck1
+
+6. Mark Vig
+   Email: mvig@coloradomesa.edu
+   Username: mvig
+   Original line: Mark Vig Assistant Baseball Coach mvig@coloradomesa.edu 248- coachvig24
+
+7. Steve Woytek
+   Email: swoytek@coloradomesa.edu
+   Username: swoytek
+   Original line: Steve Woytek Assistant Baseball Coach swoytek@coloradomesa.edu 208- CoachWo19
+
+8. Mike Dunlap
+   Email: mdunlap@coloradomesa.edu
+   Username: mdunlap
+   Original line: Mike Dunlap Head Men's Basketball Coach mdunlap@coloradomesa.edu 248-
+
+9. Skyler Burgess
+   Email: sburgess@coloradomesa.edu
+   Username: sburgess
+   Original line: Skyler Burgess Assistant Men's Basketball Coach sburgess@coloradomesa.edu 248-
+
+10. Eli Scott
+   Email: escott@coloradomesa.edu
+   Username: escott
+   Original line: Eli Scott Assistant Men's Basketball Coach escott@coloradomesa.edu 248-
+
+11. Taylor Wagner
+   Email: twagner@coloradomesa.edu
+   Username: twagner
+   Original line: Taylor Wagner Head Women's Basketball Coach twagner@coloradomesa.edu 248-
+
+12. Hannah Pollart
+   Email: hpollart@coloradomesa.edu
+   Username: hpollart
+   Original line: Hannah Pollart Assistant Women's Basketball Coach hpollart@coloradomesa.edu 248- HPollart
+
+13. Jaylyn Duran
+   Email: jmduran@coloradomesa.edu
+   Username: jmduran
+   Original line: Jaylyn Duran Assistant Women's Basketball Coach jmduran@coloradomesa.edu
+
+14. Greta Van
+   Email: gavancalcar@mavs.coloradomesa.edu
+   Username: gavancalcar
+   Original line: Greta Van Calcar Assistant Coach (Cross Country & Distance) gavancalcar@mavs.coloradomesa.edu
+
+15. Hunter Hughes
+   Email: whughes@coloradomesa.edu
+   Username: whughes
+   Original line: Hunter Hughes Associate Head Football Coach - Defensive whughes@coloradomesa.edu 248-
+
+16. Trevor Wikre
+   Email: twikre@coloradomesa.edu
+   Username: twikre
+   Original line: Trevor Wikre Assistant Head Football Coach - Offensive twikre@coloradomesa.edu 248-
+
+17. John Arledge
+   Email: jarledge@coloradomesa.edu
+   Username: jarledge
+   Original line: John Arledge Assistant Football Coach - Chief of Staff / jarledge@coloradomesa.edu 248-
+
+18. Levi Suiaunoa
+   Email: lsuiaunoa@coloradomesa.edu
+   Username: lsuiaunoa
+   Original line: Levi Suiaunoa Assistant Football Coach - Co-Defensive lsuiaunoa@coloradomesa.edu 248-
+
+19. Neil Linhart
+   Email: nlinhart@coloradomesa.edu
+   Username: nlinhart
+   Original line: Neil Linhart Assistant Football Coach - Co-Offensive nlinhart@coloradomesa.edu
+
+20. Anthoney Hill
+   Email: ahill@coloradomesa.edu
+   Username: ahill
+   Original line: Anthoney Hill Assistant Football Coach - Quarterbacks / NFL ahill@coloradomesa.edu 248-
+
+21. Ryan Whittington
+   Email: rwhittington@coloradomesa.edu
+   Username: rwhittington
+   Original line: Ryan Whittington Assistant Football Coach - Wide Receivers rwhittington@coloradomesa.edu 248-
+
+22. Kori Satterfield
+   Email: ksatterfield2@coloradomesa.edu
+   Username: ksatterfield2
+   Original line: Kori Satterfield Head Women's Golf Coach ksatterfield2@coloradomesa.edu
+
+23. Troy Moyer
+   Email: tmoyer@coloradomesa.edu
+   Username: tmoyer
+   Original line: Troy Moyer Head Men's Lacrosse Coach tmoyer@coloradomesa.edu 248-
+
+24. Blake Amiatu
+   Email: bramiatu@coloradomesa.edu
+   Username: bramiatu
+   Original line: Blake Amiatu Assistant Men's Lacrosse Coach bramiatu@coloradomesa.edu 248-
+
+25. Ashley Delaney
+   Email: adelaney@coloradomesa.edu
+   Username: adelaney
+   Original line: Ashley Delaney Head Women's Lacrosse Coach adelaney@coloradomesa.edu 248-
+
+26. Kiley Davis
+   Email: kdavis3@coloradomesa.edu
+   Username: kdavis3
+   Original line: Kiley Davis Assistant Women's Lacrosse Coach kdavis3@coloradomesa.edu 248-
+
+27. Jon Fridal
+   Email: jfridal@coloradomesa.edu
+   Username: jfridal
+   Original line: Jon Fridal Head Men's Soccer Coach jfridal@coloradomesa.edu 248- CoachFridal
+
+28. Will Lukowski
+   Email: wlukowski@coloradomesa.edu
+   Username: wlukowski
+   Original line: Will Lukowski Assistant Men's Soccer Coach wlukowski@coloradomesa.edu
+
+29. Jody Lingafeldt
+   Email: jlingafeldt@coloradomesa.edu
+   Username: jlingafeldt
+   Original line: Jody Lingafeldt Head Women's Soccer Coach jlingafeldt@coloradomesa.edu 248-
+
+30. Kristal Luna
+   Email: womenssoccer@coloradomesa.edu
+   Username: womenssoccer
+   Original line: Kristal Luna Assistant Women's Soccer Coach womenssoccer@coloradomesa.edu 248-
+
+31. Mercedes Bohte
+   Email: mlovato@coloradomesa.edu
+   Username: mlovato
+   Original line: Mercedes Bohte Head Women's Softball Coach mlovato@coloradomesa.edu 248-
+
+32. Willie Hinojosa
+   Email: whinojosa@coloradomesa.edu
+   Username: whinojosa
+   Original line: Willie Hinojosa Assistant Women's Softball Coach whinojosa@coloradomesa.edu 248- Coach_G_CMU
+
+33. Julie Weddle
+   Email: jweddle@coloradomesa.edu
+   Username: jweddle
+   Original line: Julie Weddle Diving Coach jweddle@coloradomesa.edu 248-
+
+34. Benedict Nagy
+   Email: bnagy@mavs.coloradomesa.edu
+   Username: bnagy
+   Original line: Benedict Nagy Graduate Assistant Coach bnagy@mavs.coloradomesa.edu
+
+35. Dan MacDonald
+   Email: dmacdona@coloradomesa.edu
+   Username: dmacdona
+   Original line: Dan MacDonald Head Men's & Women's Tennis Coach dmacdona@coloradomesa.edu 248-
+
+36. David Smith
+   Email: dlsmith@coloradomesa.edu
+   Username: dlsmith
+   Original line: David Smith Assistant Men's & Women's Tennis Coach dlsmith@coloradomesa.edu 248-
+
+37. Tim Reetz
+   Email: treetz@coloradomesa.edu
+   Username: treetz
+   Original line: Tim Reetz Associate Head Track & Field Coach treetz@coloradomesa.edu 248-
+
+38. Jay Shuman
+   Email: jshuman@coloradomesa.edu
+   Username: jshuman
+   Original line: Jay Shuman Assistant Track & Field Coach (Throws, Multis & jshuman@coloradomesa.edu 248-
+
+39. Hannah Meek
+   Email: hmeek2@coloradomesa.edu
+   Username: hmeek2
+   Original line: Hannah Meek Assistant Track & Field Coach (Jumps) hmeek2@coloradomesa.edu 248-
+
+40. Greta Van
+   Email: gavancalcar@mavs.coloradomesa.edu
+   Username: gavancalcar
+   Original line: Greta Van Calcar Assistant Coach (Cross Country & Distance) gavancalcar@mavs.coloradomesa.edu
+
+41. Jen Mathe
+   Email: jmathe@coloradomesa.edu
+   Username: jmathe
+   Original line: Jen Mathe Head Triathlon Coach jmathe@coloradomesa.edu 248-
+
+42. Austin Albers
+   Email: volleyball@coloradomesa.edu
+   Username: volleyball
+   Original line: Austin Albers Head Women's Volleyball Coach volleyball@coloradomesa.edu 248-
+
+43. Bri Strong
+   Email: volleyball@coloradomesa.edu
+   Username: volleyball
+   Original line: Bri Strong Assistant Volleyball Coach volleyball@coloradomesa.edu 248-
+
+44. Annemarie Chin
+   Email: volleyball@coloradomesa.edu
+   Username: volleyball
+   Original line: Annemarie Chin Assistant Volleyball Coach volleyball@coloradomesa.edu 248-
+
+45. David Skaff
+   Email: dskaff@coloradomesa.edu
+   Username: dskaff
+   Original line: David Skaff Head Beach Volleyball Coach dskaff@coloradomesa.edu 248-
+
+46. Ara Norwood
+   Email: amnorwood@coloradomesa.edu
+   Username: amnorwood
+   Original line: Ara Norwood Assistant Beach Volleyball Coach amnorwood@coloradomesa.edu 248-
+
+47. Mike Mendoza
+   Email: mmendoza@coloradomesa.edu
+   Username: mmendoza
+   Original line: Mike Mendoza Head Men's Wrestling Coach mmendoza@coloradomesa.edu 248-
+
+48. Kyle Greenwald
+   Email: kgreenwald@coloradomesa.edu
+   Username: kgreenwald
+   Original line: Kyle Greenwald Assistant Men's Wrestling Coach kgreenwald@coloradomesa.edu 248-
+
+49. Jacob Seely
+   Email: jseely@coloradomesa.edu
+   Username: jseely
+   Original line: Jacob Seely Assistant Wrestling Coach jseely@coloradomesa.edu 248-
+
+50. Travis Mercado
+   Email: tmercado@coloradomesa.edu
+   Username: tmercado
+   Original line: Travis Mercado Head Women's Wrestling Coach tmercado@coloradomesa.edu 248- CoachTrav63
+
+51. Grace Kristoff
+   Email: gkristoff@coloradomesa.edu
+   Username: gkristoff
+   Original line: Grace Kristoff Assistant Women's Wrestling Coach gkristoff@coloradomesa.edu 248-
+
+52. Connor Charlesworth
+   Email: chcharle@coloradomesa.edu
+   Username: chcharle
+   Original line: Connor Charlesworth Head Cheerleading Coach chcharle@coloradomesa.edu 248-
+
+53. Mackenzie Charlesworth
+   Email: mjbrown@coloradomesa.edu
+   Username: mjbrown
+   Original line: Mackenzie Charlesworth Assistant Cheerleading Coach mjbrown@coloradomesa.edu 248-
+
+54. Brian Flaherty
+   Email: bflaherty@coloradomesa.edu
+   Username: bflaherty
+   Original line: Brian Flaherty Cycling Coach bflaherty@coloradomesa.edu 248-
+
+55. Patric Rostel
+   Email: prostel@coloradomesa.edu
+   Username: prostel
+   Original line: Patric Rostel Cycling Coach prostel@coloradomesa.edu 248-
+
+56. Branden Edwards
+   Email: bedwards@coloradomesa.edu
+   Username: bedwards
+   Original line: Branden Edwards Head Rodeo Coach bedwards@coloradomesa.edu 248-
+
+57. Timothy Winegard
+   Email: twinegard@coloradomesa.edu
+   Username: twinegard
+   Original line: Timothy Winegard Head Men's Hockey Coach twinegard@coloradomesa.edu 248-
+
+58. Jennifer Morrison
+   Email: jemorrison@coloradomesa.edu
+   Username: jemorrison
+   Phone: (970) 248-1115
+   Original line: Jennifer Morrison Assistant Women's Rugby Coach jemorrison@coloradomesa.edu 248-1115
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mark Ryan Head Strength & Conditioning Coach mmryan@coloradomesa.edu 248-
+• Taylor Ulrich Assistant Strength & Conditioning Coach tulrich@coloradomesa.edu
+• Amber Rummel Assistant Strength & Conditioning Coach arummel@coloradomesa.edu
+• Chris Hanks Head Baseball Coach chanks@coloradomesa.edu 248- 30skipper
+• Sean McKinney Associate Head Baseball Coach smckinne@coloradomesa.edu 248- wyomck1
+• Mark Vig Assistant Baseball Coach mvig@coloradomesa.edu 248- coachvig24
+• Steve Woytek Assistant Baseball Coach swoytek@coloradomesa.edu 208- CoachWo19
+• Mike Dunlap Head Men's Basketball Coach mdunlap@coloradomesa.edu 248-
+• Skyler Burgess Assistant Men's Basketball Coach sburgess@coloradomesa.edu 248-
+• Eli Scott Assistant Men's Basketball Coach escott@coloradomesa.edu 248-
+• Taylor Wagner Head Women's Basketball Coach twagner@coloradomesa.edu 248-
+• Hannah Pollart Assistant Women's Basketball Coach hpollart@coloradomesa.edu 248- HPollart
+• Jaylyn Duran Assistant Women's Basketball Coach jmduran@coloradomesa.edu
+• Greta Van Calcar Assistant Coach (Cross Country & Distance) gavancalcar@mavs.coloradomesa.edu
+• Hunter Hughes Associate Head Football Coach - Defensive whughes@coloradomesa.edu 248-
+• Trevor Wikre Assistant Head Football Coach - Offensive twikre@coloradomesa.edu 248-
+• John Arledge Assistant Football Coach - Chief of Staff / jarledge@coloradomesa.edu 248-
+• Levi Suiaunoa Assistant Football Coach - Co-Defensive lsuiaunoa@coloradomesa.edu 248-
+• Neil Linhart Assistant Football Coach - Co-Offensive nlinhart@coloradomesa.edu
+• Anthoney Hill Assistant Football Coach - Quarterbacks / NFL ahill@coloradomesa.edu 248-
+• Ryan Whittington Assistant Football Coach - Wide Receivers rwhittington@coloradomesa.edu 248-
+• Kori Satterfield Head Women's Golf Coach ksatterfield2@coloradomesa.edu
+• Troy Moyer Head Men's Lacrosse Coach tmoyer@coloradomesa.edu 248-
+• Blake Amiatu Assistant Men's Lacrosse Coach bramiatu@coloradomesa.edu 248-
+• Ashley Delaney Head Women's Lacrosse Coach adelaney@coloradomesa.edu 248-
+• Kiley Davis Assistant Women's Lacrosse Coach kdavis3@coloradomesa.edu 248-
+• Jon Fridal Head Men's Soccer Coach jfridal@coloradomesa.edu 248- CoachFridal
+• Will Lukowski Assistant Men's Soccer Coach wlukowski@coloradomesa.edu
+• Jody Lingafeldt Head Women's Soccer Coach jlingafeldt@coloradomesa.edu 248-
+• Kristal Luna Assistant Women's Soccer Coach womenssoccer@coloradomesa.edu 248-
+• Mercedes Bohte Head Women's Softball Coach mlovato@coloradomesa.edu 248-
+• Willie Hinojosa Assistant Women's Softball Coach whinojosa@coloradomesa.edu 248- Coach_G_CMU
+• Julie Weddle Diving Coach jweddle@coloradomesa.edu 248-
+• Benedict Nagy Graduate Assistant Coach bnagy@mavs.coloradomesa.edu
+• Dan MacDonald Head Men's & Women's Tennis Coach dmacdona@coloradomesa.edu 248-
+• David Smith Assistant Men's & Women's Tennis Coach dlsmith@coloradomesa.edu 248-
+• Tim Reetz Associate Head Track & Field Coach treetz@coloradomesa.edu 248-
+• Jay Shuman Assistant Track & Field Coach (Throws, Multis & jshuman@coloradomesa.edu 248-
+• Hannah Meek Assistant Track & Field Coach (Jumps) hmeek2@coloradomesa.edu 248-
+• Greta Van Calcar Assistant Coach (Cross Country & Distance) gavancalcar@mavs.coloradomesa.edu
+• Jen Mathe Head Triathlon Coach jmathe@coloradomesa.edu 248-
+• Austin Albers Head Women's Volleyball Coach volleyball@coloradomesa.edu 248-
+• Bri Strong Assistant Volleyball Coach volleyball@coloradomesa.edu 248-
+• Annemarie Chin Assistant Volleyball Coach volleyball@coloradomesa.edu 248-
+• David Skaff Head Beach Volleyball Coach dskaff@coloradomesa.edu 248-
+• Ara Norwood Assistant Beach Volleyball Coach amnorwood@coloradomesa.edu 248-
+• Mike Mendoza Head Men's Wrestling Coach mmendoza@coloradomesa.edu 248-
+• Kyle Greenwald Assistant Men's Wrestling Coach kgreenwald@coloradomesa.edu 248-
+• Jacob Seely Assistant Wrestling Coach jseely@coloradomesa.edu 248-
+• Travis Mercado Head Women's Wrestling Coach tmercado@coloradomesa.edu 248- CoachTrav63
+• Grace Kristoff Assistant Women's Wrestling Coach gkristoff@coloradomesa.edu 248-
+• Connor Charlesworth Head Cheerleading Coach chcharle@coloradomesa.edu 248-
+• Mackenzie Charlesworth Assistant Cheerleading Coach mjbrown@coloradomesa.edu 248-
+• Brian Flaherty Cycling Coach bflaherty@coloradomesa.edu 248-
+• Patric Rostel Cycling Coach prostel@coloradomesa.edu 248-
+• Branden Edwards Head Rodeo Coach bedwards@coloradomesa.edu 248-
+• Timothy Winegard Head Men's Hockey Coach twinegard@coloradomesa.edu 248-
+• Jennifer Morrison Assistant Women's Rugby Coach jemorrison@coloradomesa.edu 248-1115

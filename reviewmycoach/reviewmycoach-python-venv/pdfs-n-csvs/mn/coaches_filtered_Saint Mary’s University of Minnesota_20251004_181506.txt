@@ -1,0 +1,230 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:06
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Noah Fuller
+   Email: nfuller@smumn.edu
+   Username: nfuller
+   Phone: (507) 457-7319
+   Original line: Noah Fuller Director of Club Sports/Head Nordic Ski Coach nfuller@smumn.edu 507-457-7319
+
+2. Jake Leeps
+   Email: jleeps@smumn.edu
+   Username: jleeps
+   Phone: (507) 457-6968
+   Original line: Jake Leeps Head Strength & Conditioning Coach jleeps@smumn.edu 507-457-6968
+
+3. Derek Hansen
+   Email: dhansen@smumn.edu
+   Username: dhansen
+   Phone: (507) 457-6968
+   Original line: Derek Hansen Assistant Strength & Conditioning Coach dhansen@smumn.edu 507-457-6968
+
+4. Leo Barbosa
+   Email: lbarbosa@smumn.edu
+   Username: lbarbosa
+   Phone: (507) 319-1762
+   Original line: Leo Barbosa Head Men's Soccer Coach lbarbosa@smumn.edu 507-319-1762
+
+5. Alberto Centeno
+   Email: acenteno@smumn.edu
+   Username: acenteno
+   Original line: Alberto Centeno Assistant Men's Soccer Coach acenteno@smumn.edu
+
+6. Nick Rizzo
+   Email: nrizzo@smumn.edu
+   Username: nrizzo
+   Phone: (507) 457-6957
+   Original line: Nick Rizzo Head Women's Soccer Coach nrizzo@smumn.edu 507-457-6957
+
+7. Averi Cash
+   Email: acash@smumn.edu
+   Username: acash
+   Phone: (507) 457-6661
+   Original line: Averi Cash Assistant Women's Soccer Coach acash@smumn.edu 507-457-6661
+
+8. Amber Zitzow
+   Email: azitzow@smumn.edu
+   Username: azitzow
+   Phone: (507) 457-1757
+   Original line: Amber Zitzow Head Volleyball Coach azitzow@smumn.edu 507-457-1757
+
+9. Greta Hansen
+   Email: ghansen@smumn.edu
+   Username: ghansen
+   Phone: (507) 457-1412
+   Original line: Greta Hansen Assistant Volleyball Coach ghansen@smumn.edu 507-457-1412
+
+10. Darren Schneider
+   Email: djschnei@smumn.edu
+   Username: djschnei
+   Phone: (507) 457-1623
+   Original line: Darren Schneider Head Cross Country / Track & Field Coach djschnei@smumn.edu 507-457-1623
+
+11. Darren Schneider
+   Email: djschnei@smumn.edu
+   Username: djschnei
+   Phone: (507) 457-1623
+   Original line: Darren Schneider Head Cross Country / Track & Field Coach djschnei@smumn.edu 507-457-1623
+
+12. Ryan Egan
+   Email: regan@smumn.edu
+   Username: regan
+   Phone: (507) 457-1577
+   Original line: Ryan Egan Head Men's Hockey Coach regan@smumn.edu 507-457-1577
+
+13. J Reszka
+   Email: jreszka@smumn.edu
+   Username: jreszka
+   Phone: (507) 457-1608
+   Original line: J Reszka Assistant Men's Hockey Coach jreszka@smumn.edu 507-457-1608
+
+14. Mason Etter
+   Email: metter@smumn.edu
+   Username: metter
+   Original line: Mason Etter Assistant Men's Hockey Coach metter@smumn.edu
+
+15. Heath Isaacson
+   Email: hisaacso@smumn.edu
+   Username: hisaacso
+   Phone: (507) 457-7452
+   Original line: Heath Isaacson Head Women's Hockey Coach hisaacso@smumn.edu 507-457-7452
+
+16. Anna Van
+   Email: avanherc@smumn.edu
+   Username: avanherc
+   Phone: (507) 457-1438
+   Original line: Anna Van Hercke Assistant Women's Hockey Coach avanherc@smumn.edu 507-457-1438
+
+17. Nick Bobb
+   Email: nbobb@smumn.edu
+   Username: nbobb
+   Phone: (507) 457-1578
+   Original line: Nick Bobb Head Men's Basketball Coach nbobb@smumn.edu 507-457-1578
+
+18. Adam McDermott
+   Email: amcdermo@smumn.edu
+   Username: amcdermo
+   Original line: Adam McDermott Assistant Men's Basketball Coach amcdermo@smumn.edu
+
+19. Courtney Shelton
+   Email: cshelton@smumn.edu
+   Username: cshelton
+   Phone: (507) 457-6615
+   Original line: Courtney Shelton Head Women's Basketball Coach cshelton@smumn.edu 507-457-6615
+
+20. Jordan Skaar
+   Email: jskaar@smumn.edu
+   Username: jskaar
+   Phone: (507) 457-1574
+   Original line: Jordan Skaar Assistant Women's Basketball Coach jskaar@smumn.edu 507-457-1574
+
+21. Eli Morison
+   Email: emorison@smumn.edu
+   Username: emorison
+   Phone: (507) 457-1636
+   Original line: Eli Morison Pitching Coach emorison@smumn.edu 507-457-1636
+
+22. Noah Dutler
+   Email: ndutler@smumn.edu
+   Username: ndutler
+   Phone: (972) 984-0777
+   Original line: Noah Dutler Assistant Baseball Coach ndutler@smumn.edu 972-984-0777
+
+23. John Tschida
+   Email: jtschida@smumn.edu
+   Username: jtschida
+   Phone: (507) 457-6923
+   Original line: John Tschida Head Fastpitch Softball Coach jtschida@smumn.edu 507-457-6923
+
+24. Emilee Buringa
+   Email: eburinga@smumn.edu
+   Username: eburinga
+   Phone: (507) 457-6679
+   Original line: Emilee Buringa Assistant Fastpitch Softball Coach eburinga@smumn.edu 507-457-6679
+
+25. Jeff Halberg
+   Email: jhalberg@smumn.edu
+   Username: jhalberg
+   Phone: (507) 457-8711
+   Original line: Jeff Halberg Head Men's/Women's Tennis Coach jhalberg@smumn.edu 507-457-8711
+
+26. Jeff Halberg
+   Email: jhalberg@smumn.edu
+   Username: jhalberg
+   Phone: (507) 457-8711
+   Original line: Jeff Halberg Head Men's/Women's Tennis Coach jhalberg@smumn.edu 507-457-8711
+
+27. Darren Schneider
+   Email: djschnei@smumn.edu
+   Username: djschnei
+   Phone: (507) 457-1623
+   Original line: Darren Schneider Head Cross Country / Track & Field Coach djschnei@smumn.edu 507-457-1623
+
+28. Taylor Smith
+   Email: tsmith@smumn.edu
+   Username: tsmith
+   Phone: (507) 457-6685
+   Original line: Taylor Smith Associate Head Track & Field Coach (Sprints) tsmith@smumn.edu 507-457-6685
+
+29. Rebekah Salfer
+   Email: rsalfer@smumn.edu
+   Username: rsalfer
+   Original line: Rebekah Salfer Assistant Track and Field Coach (Hurdles/Jumps) rsalfer@smumn.edu
+
+30. Darren Schneider
+   Email: djschnei@smumn.edu
+   Username: djschnei
+   Phone: (507) 457-1623
+   Original line: Darren Schneider Head Cross Country / Track & Field Coach djschnei@smumn.edu 507-457-1623
+
+31. Taylor Smith
+   Email: tsmith@smumn.edu
+   Username: tsmith
+   Phone: (507) 457-6685
+   Original line: Taylor Smith Associate Head Track & Field Coach (Sprints) tsmith@smumn.edu 507-457-6685
+
+32. Rebekah Salfer
+   Email: rsalfer@smumn.edu
+   Username: rsalfer
+   Original line: Rebekah Salfer Assistant Track and Field Coach (Hurdles/Jumps) rsalfer@smumn.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Noah Fuller Director of Club Sports/Head Nordic Ski Coach nfuller@smumn.edu 507-457-7319
+• Jake Leeps Head Strength & Conditioning Coach jleeps@smumn.edu 507-457-6968
+• Derek Hansen Assistant Strength & Conditioning Coach dhansen@smumn.edu 507-457-6968
+• Leo Barbosa Head Men's Soccer Coach lbarbosa@smumn.edu 507-319-1762
+• Alberto Centeno Assistant Men's Soccer Coach acenteno@smumn.edu
+• Nick Rizzo Head Women's Soccer Coach nrizzo@smumn.edu 507-457-6957
+• Averi Cash Assistant Women's Soccer Coach acash@smumn.edu 507-457-6661
+• Amber Zitzow Head Volleyball Coach azitzow@smumn.edu 507-457-1757
+• Greta Hansen Assistant Volleyball Coach ghansen@smumn.edu 507-457-1412
+• Darren Schneider Head Cross Country / Track & Field Coach djschnei@smumn.edu 507-457-1623
+• Darren Schneider Head Cross Country / Track & Field Coach djschnei@smumn.edu 507-457-1623
+• Ryan Egan Head Men's Hockey Coach regan@smumn.edu 507-457-1577
+• J Reszka Assistant Men's Hockey Coach jreszka@smumn.edu 507-457-1608
+• Mason Etter Assistant Men's Hockey Coach metter@smumn.edu
+• Heath Isaacson Head Women's Hockey Coach hisaacso@smumn.edu 507-457-7452
+• Anna Van Hercke Assistant Women's Hockey Coach avanherc@smumn.edu 507-457-1438
+• Nick Bobb Head Men's Basketball Coach nbobb@smumn.edu 507-457-1578
+• Adam McDermott Assistant Men's Basketball Coach amcdermo@smumn.edu
+• Courtney Shelton Head Women's Basketball Coach cshelton@smumn.edu 507-457-6615
+• Jordan Skaar Assistant Women's Basketball Coach jskaar@smumn.edu 507-457-1574
+• Eli Morison Pitching Coach emorison@smumn.edu 507-457-1636
+• Noah Dutler Assistant Baseball Coach ndutler@smumn.edu 972-984-0777
+• John Tschida Head Fastpitch Softball Coach jtschida@smumn.edu 507-457-6923
+• Emilee Buringa Assistant Fastpitch Softball Coach eburinga@smumn.edu 507-457-6679
+• Jeff Halberg Head Men's/Women's Tennis Coach jhalberg@smumn.edu 507-457-8711
+• Jeff Halberg Head Men's/Women's Tennis Coach jhalberg@smumn.edu 507-457-8711
+• Darren Schneider Head Cross Country / Track & Field Coach djschnei@smumn.edu 507-457-1623
+• Taylor Smith Associate Head Track & Field Coach (Sprints) tsmith@smumn.edu 507-457-6685
+• Rebekah Salfer Assistant Track and Field Coach (Hurdles/Jumps) rsalfer@smumn.edu
+• Darren Schneider Head Cross Country / Track & Field Coach djschnei@smumn.edu 507-457-1623
+• Taylor Smith Associate Head Track & Field Coach (Sprints) tsmith@smumn.edu 507-457-6685
+• Rebekah Salfer Assistant Track and Field Coach (Hurdles/Jumps) rsalfer@smumn.edu

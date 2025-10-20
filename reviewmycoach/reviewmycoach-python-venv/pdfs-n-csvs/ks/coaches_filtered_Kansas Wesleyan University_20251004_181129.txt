@@ -1,0 +1,309 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:29
+============================================================
+
+Total coaches found: 44
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tim Farina
+   Email: timothy.farina@kwu.edu
+   Username: timothy.farina
+   Original line: Tim Farina Strength and Conditioning Coach timothy.farina@kwu.edu
+
+2. Bill Neale
+   Email: bill.neale@kwu.edu
+   Username: bill.neale
+   Phone: 785.833.4406
+   Original line: Bill Neale Head Baseball Coach 785.833.4406 bill.neale@kwu.edu
+
+3. Bret Ringer
+   Email: bret.ringer@kwu.edu
+   Username: bret.ringer
+   Phone: 785.833.4406
+   Original line: Bret Ringer Assistant Baseball Coach 785.833.4406 bret.ringer@kwu.edu
+
+4. Tyler Huffstickler
+   Email: tyler.huffstickler@kwu.edu
+   Username: tyler.huffstickler
+   Phone: 785.833.4406
+   Original line: Tyler Huffstickler Assistant Baseball Coach 785.833.4406 tyler.huffstickler@kwu.edu
+
+5. Blake Maddock
+   Email: blake.maddock@kwu.edu
+   Username: blake.maddock
+   Phone: 785.833.4406
+   Original line: Blake Maddock Assistant Baseball Coach 785.833.4406 blake.maddock@kwu.edu
+
+6. Eric Romero
+   Email: eric.romero@kwu.edu
+   Username: eric.romero
+   Phone: 785.833.4406
+   Original line: Eric Romero Assistant Baseball Coach 785.833.4406 eric.romero@kwu.edu
+
+7. Jordan Murdock
+   Email: jordan.murdock@kwu.edu
+   Username: jordan.murdock
+   Phone: 785.833.4408
+   Original line: Jordan Murdock Head Men's Basketball Coach 785.833.4408 jordan.murdock@kwu.edu
+
+8. Brayden White
+   Email: brayden.white@kwu.edu
+   Username: brayden.white
+   Phone: 785.833.4630
+   Original line: Brayden White Assistant Men's Basketball Coach 785.833.4630 brayden.white@kwu.edu
+
+9. Ethan Holloway
+   Email: ethan.holloway@kwu.edu
+   Username: ethan.holloway
+   Original line: Ethan Holloway Assistant Men's Basketball Coach ethan.holloway@kwu.edu
+
+10. Harper Taylor
+   Email: harper.taylor@kwu.edu
+   Username: harper.taylor
+   Phone: 785.833.4405
+   Original line: Harper Taylor Head Women's Basketball Coach 785.833.4405 harper.taylor@kwu.edu
+
+11. Preston Hardee
+   Email: preston.hardee@kwu.edu
+   Username: preston.hardee
+   Original line: Preston Hardee Assistant Women's Basketball Coach preston.hardee@kwu.edu
+
+12. Hailey Jordan
+   Email: hailey.jordan@kwu.edu
+   Username: hailey.jordan
+   Original line: Hailey Jordan Assistant Women's Basketball Coach hailey.jordan@kwu.edu
+
+13. Herb Halinski
+   Email: herb.halinski@kwu.edu
+   Username: herb.halinski
+   Phone: 785.833.4516
+   Original line: Herb Halinski Head Bowling Coach 785.833.4516 herb.halinski@kwu.edu
+
+14. Emma O'Donnell
+   Email: emma.odonnell@kwu.edu
+   Username: emma.odonnell
+   Phone: 785.833.4516
+   Original line: Emma O'Donnell Assistant Bowling Coach 785.833.4516 emma.odonnell@kwu.edu
+
+15. Garrett Young
+   Email: garrett.young@kwu.edu
+   Username: garrett.young
+   Phone: 785.833.4438
+   Original line: Garrett Young Head Cross Country Coach | Associate Head Track 785.833.4438 garrett.young@kwu.edu
+
+16. Jeremy Gathright
+   Email: jeremy.gathright@kwu.edu
+   Username: jeremy.gathright
+   Original line: Jeremy Gathright Assistant Track and Field Coach jeremy.gathright@kwu.edu
+
+17. Shaquelle Lewis
+   Email: shaquelle.lewis@kwu.edu
+   Username: shaquelle.lewis
+   Phone: 785.833.4414
+   Original line: Shaquelle Lewis Assistant Track Coach - Throws 785.833.4414 shaquelle.lewis@kwu.edu
+
+18. Austin Hess
+   Email: austin.hess@kwu.edu
+   Username: austin.hess
+   Original line: Austin Hess Assistant Cross Country and Track Coach austin.hess@kwu.edu
+
+19. Jamie Kootz
+   Email: jamie.kootz@kwu.edu
+   Username: jamie.kootz
+   Original line: Jamie Kootz Assistant Track & Field & CC Coach jamie.kootz@kwu.edu
+
+20. Kendall Smith
+   Email: kendall.smith@kwu.edu
+   Username: kendall.smith
+   Phone: 785.833.4630
+   Original line: Kendall Smith Head Cheer Coach 785.833.4630 kendall.smith@kwu.edu
+
+21. Tabitha Slechta
+   Email: tabitha.slechta@kwu.edu
+   Username: tabitha.slechta
+   Original line: Tabitha Slechta Assistant Cheer Coach tabitha.slechta@kwu.edu
+
+22. Claire Schmidt
+   Email: claire.schmidt@kwu.edu
+   Username: claire.schmidt
+   Phone: 785.833.4413
+   Original line: Claire Schmidt Dance Coach 785.833.4413 claire.schmidt@kwu.edu
+
+23. Matt Middleton
+   Email: matthew.middleton@kwu.edu
+   Username: matthew.middleton
+   Phone: 785.833.4424
+   Original line: Matt Middleton Head Football Coach 785.833.4424 matthew.middleton@kwu.edu
+
+24. Boomer Cunningham
+   Email: robert.cunningham@kwu.edu
+   Username: robert.cunningham
+   Phone: 785.833.4423
+   Original line: Boomer Cunningham Assistant Head Coach / Offensive Coordinator / 785.833.4423 robert.cunningham@kwu.edu
+
+25. Melinda Nguyen
+   Email: melinda.nguyen@kwu.edu
+   Username: melinda.nguyen
+   Phone: 785.833.4421
+   Original line: Melinda Nguyen Head Flag Football Coach 785.833.4421 melinda.nguyen@kwu.edu
+
+26. Alexa Mansur
+   Email: alexandra.mansur@kwu.edu
+   Username: alexandra.mansur
+   Original line: Alexa Mansur Assistant Flag Football Coach alexandra.mansur@kwu.edu
+
+27. Jefferson Cook
+   Email: jefferson.cook@kwu.edu
+   Username: jefferson.cook
+   Phone: 785.833.4417
+   Original line: Jefferson Cook Head Golf Coach 785.833.4417 jefferson.cook@kwu.edu
+
+28. Gavin McWhorter
+   Email: gavin.mcwhorter@kwu.edu
+   Username: gavin.mcwhorter
+   Phone: 785.833.4417
+   Original line: Gavin McWhorter Assistant Golf Coach 785.833.4417 gavin.mcwhorter@kwu.edu
+
+29. Sarah Krenowicz
+   Email: sarah.krenowicz@kwu.edu
+   Username: sarah.krenowicz
+   Original line: Sarah Krenowicz Assistant Golf Coach sarah.krenowicz@kwu.edu
+
+30. Ryan Palmbaum
+   Email: ryan.palmbaum@kwu.edu
+   Username: ryan.palmbaum
+   Phone: 785.833.4403
+   Original line: Ryan Palmbaum Head Men's Soccer Coach 785.833.4403 ryan.palmbaum@kwu.edu
+
+31. Luis Vargas
+   Email: luis.vargas@kwu.edu
+   Username: luis.vargas
+   Phone: 785.833.4403
+   Original line: Luis Vargas Assistant Men's Soccer Coach 785.833.4403 luis.vargas@kwu.edu
+
+32. Jaime Robledo
+   Email: jaime.robledo@kwu.edu
+   Username: jaime.robledo
+   Phone: 785.833.4403
+   Original line: Jaime Robledo Assistant Men's Soccer Coach 785.833.4403 jaime.robledo@kwu.edu
+
+33. Joe Schwartz
+   Email: joseph.schwartz@kwu.edu
+   Username: joseph.schwartz
+   Phone: 785.833.4404
+   Original line: Joe Schwartz Head Women's Soccer Coach 785.833.4404 joseph.schwartz@kwu.edu
+
+34. Michael McIntyre
+   Email: michael.mcintyre@kwu.edu
+   Username: michael.mcintyre
+   Phone: 785.833.4404
+   Original line: Michael McIntyre Assistant Women's Soccer Coach 785.833.4404 michael.mcintyre@kwu.edu
+
+35. Mallorie Lund
+   Email: mallorie.lund@kwu.edu
+   Username: mallorie.lund
+   Phone: 785.833.4404
+   Original line: Mallorie Lund Assistant Women's Soccer Coach 785.833.4404 mallorie.lund@kwu.edu
+
+36. Ryan Cooper
+   Email: ryan.cooper@kwu.edu
+   Username: ryan.cooper
+   Phone: 785.833.4407
+   Original line: Ryan Cooper Head Softball Coach 785.833.4407 ryan.cooper@kwu.edu
+
+37. Madison Wallace
+   Email: softball@kwu.edu
+   Username: softball
+   Phone: 785.833.4407
+   Original line: Madison Wallace Assistant Softball Coach 785.833.4407 softball@kwu.edu
+
+38. Brian Vancuren
+   Email: brian.vancuren@kwu.edu
+   Username: brian.vancuren
+   Phone: 785.833.4415
+   Original line: Brian Vancuren Head Women's and Men's Tennis Coach 785.833.4415 brian.vancuren@kwu.edu
+
+39. Grace Unruh
+   Email: grace.unruh@kwu.edu
+   Username: grace.unruh
+   Phone: 785.833.4415
+   Original line: Grace Unruh Assistant Tennis Coach 785.833.4415 grace.unruh@kwu.edu
+
+40. Brian Vancuren
+   Email: brian.vancuren@kwu.edu
+   Username: brian.vancuren
+   Phone: 785.833.4415
+   Original line: Brian Vancuren Head Women's and Men's Tennis Coach 785.833.4415 brian.vancuren@kwu.edu
+
+41. Grace Unruh
+   Email: grace.unruh@kwu.edu
+   Username: grace.unruh
+   Phone: 785.833.4415
+   Original line: Grace Unruh Assistant Tennis Coach 785.833.4415 grace.unruh@kwu.edu
+
+42. Jessica Biegert
+   Email: jessica.biegert@kwu.edu
+   Username: jessica.biegert
+   Phone: 785.833.4416
+   Original line: Jessica Biegert Head Women's Volleyball Coach 785.833.4416 jessica.biegert@kwu.edu
+
+43. Skylar Lane
+   Email: skylar.lane@kwu.edu
+   Username: skylar.lane
+   Phone: 785.833.4416
+   Original line: Skylar Lane Assistant Women's Volleyball Coach 785.833.4416 skylar.lane@kwu.edu
+
+44. Dustin Sahlmann
+   Email: dustin.sahlmann@kwu.edu
+   Username: dustin.sahlmann
+   Phone: 785.833.4439
+   Original line: Dustin Sahlmann Head Men's Volleyball Coach 785.833.4439 dustin.sahlmann@kwu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tim Farina Strength and Conditioning Coach timothy.farina@kwu.edu
+• Bill Neale Head Baseball Coach 785.833.4406 bill.neale@kwu.edu
+• Bret Ringer Assistant Baseball Coach 785.833.4406 bret.ringer@kwu.edu
+• Tyler Huffstickler Assistant Baseball Coach 785.833.4406 tyler.huffstickler@kwu.edu
+• Blake Maddock Assistant Baseball Coach 785.833.4406 blake.maddock@kwu.edu
+• Eric Romero Assistant Baseball Coach 785.833.4406 eric.romero@kwu.edu
+• Jordan Murdock Head Men's Basketball Coach 785.833.4408 jordan.murdock@kwu.edu
+• Brayden White Assistant Men's Basketball Coach 785.833.4630 brayden.white@kwu.edu
+• Ethan Holloway Assistant Men's Basketball Coach ethan.holloway@kwu.edu
+• Harper Taylor Head Women's Basketball Coach 785.833.4405 harper.taylor@kwu.edu
+• Preston Hardee Assistant Women's Basketball Coach preston.hardee@kwu.edu
+• Hailey Jordan Assistant Women's Basketball Coach hailey.jordan@kwu.edu
+• Herb Halinski Head Bowling Coach 785.833.4516 herb.halinski@kwu.edu
+• Emma O'Donnell Assistant Bowling Coach 785.833.4516 emma.odonnell@kwu.edu
+• Garrett Young Head Cross Country Coach | Associate Head Track 785.833.4438 garrett.young@kwu.edu
+• Jeremy Gathright Assistant Track and Field Coach jeremy.gathright@kwu.edu
+• Shaquelle Lewis Assistant Track Coach - Throws 785.833.4414 shaquelle.lewis@kwu.edu
+• Austin Hess Assistant Cross Country and Track Coach austin.hess@kwu.edu
+• Jamie Kootz Assistant Track & Field & CC Coach jamie.kootz@kwu.edu
+• Kendall Smith Head Cheer Coach 785.833.4630 kendall.smith@kwu.edu
+• Tabitha Slechta Assistant Cheer Coach tabitha.slechta@kwu.edu
+• Claire Schmidt Dance Coach 785.833.4413 claire.schmidt@kwu.edu
+• Matt Middleton Head Football Coach 785.833.4424 matthew.middleton@kwu.edu
+• Boomer Cunningham Assistant Head Coach / Offensive Coordinator / 785.833.4423 robert.cunningham@kwu.edu
+• Melinda Nguyen Head Flag Football Coach 785.833.4421 melinda.nguyen@kwu.edu
+• Alexa Mansur Assistant Flag Football Coach alexandra.mansur@kwu.edu
+• Jefferson Cook Head Golf Coach 785.833.4417 jefferson.cook@kwu.edu
+• Gavin McWhorter Assistant Golf Coach 785.833.4417 gavin.mcwhorter@kwu.edu
+• Sarah Krenowicz Assistant Golf Coach sarah.krenowicz@kwu.edu
+• Ryan Palmbaum Head Men's Soccer Coach 785.833.4403 ryan.palmbaum@kwu.edu
+• Luis Vargas Assistant Men's Soccer Coach 785.833.4403 luis.vargas@kwu.edu
+• Jaime Robledo Assistant Men's Soccer Coach 785.833.4403 jaime.robledo@kwu.edu
+• Joe Schwartz Head Women's Soccer Coach 785.833.4404 joseph.schwartz@kwu.edu
+• Michael McIntyre Assistant Women's Soccer Coach 785.833.4404 michael.mcintyre@kwu.edu
+• Mallorie Lund Assistant Women's Soccer Coach 785.833.4404 mallorie.lund@kwu.edu
+• Ryan Cooper Head Softball Coach 785.833.4407 ryan.cooper@kwu.edu
+• Madison Wallace Assistant Softball Coach 785.833.4407 softball@kwu.edu
+• Brian Vancuren Head Women's and Men's Tennis Coach 785.833.4415 brian.vancuren@kwu.edu
+• Grace Unruh Assistant Tennis Coach 785.833.4415 grace.unruh@kwu.edu
+• Brian Vancuren Head Women's and Men's Tennis Coach 785.833.4415 brian.vancuren@kwu.edu
+• Grace Unruh Assistant Tennis Coach 785.833.4415 grace.unruh@kwu.edu
+• Jessica Biegert Head Women's Volleyball Coach 785.833.4416 jessica.biegert@kwu.edu
+• Skylar Lane Assistant Women's Volleyball Coach 785.833.4416 skylar.lane@kwu.edu
+• Dustin Sahlmann Head Men's Volleyball Coach 785.833.4439 dustin.sahlmann@kwu.edu

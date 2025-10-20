@@ -1,0 +1,401 @@
+COACH ENTRIES FOUND - 2025-09-27 05:46:00
+============================================================
+
+Total coaches found: 65
+
+PARSED ENTRIES:
+----------------------------------------
+1. Sam Stallard
+   Email: sstallard@springfieldcollege.edu
+   Username: sstallard
+   Original line: Sam Stallard Graduate Assistant Coach sstallard@springfieldcollege.edu
+
+2. Keeley Durkin
+   Email: kdurkin2@springfieldcollege.edu
+   Username: kdurkin2
+   Original line: Keeley Durkin Graduate Assistant Coach kdurkin2@springfieldcollege.edu
+
+3. Amanda Hanley
+   Email: ahanley@springfieldcollege.edu
+   Username: ahanley
+   Original line: Amanda Hanley Graduate Assistant Coach ahanley@springfieldcollege.edu
+
+4. Lucy Puskas
+   Email: lpuskas@springfieldcollege.edu
+   Username: lpuskas
+   Original line: Lucy Puskas Graduate Assistant Coach lpuskas@springfieldcollege.edu
+
+5. Sierra Bond
+   Email: sbond3@springfieldcollege.edu
+   Username: sbond3
+   Original line: Sierra Bond Graduate Assistant Coach sbond3@springfieldcollege.edu
+
+6. Max Grzymala
+   Email: mgrzymala@springfieldcollege.edu
+   Username: mgrzymala
+   Original line: Max Grzymala Graduate Assistant Coach mgrzymala@springfieldcollege.edu
+
+7. Anthony DeVito
+   Email: adevito2@springfieldcollege.edu
+   Username: adevito2
+   Original line: Anthony DeVito Graduate Assistant Coach adevito2@springfieldcollege.edu
+
+8. Chad Shade
+   Email: cshade@springfieldcollege.edu
+   Username: cshade
+   Original line: Chad Shade Head Coach cshade@springfieldcollege.edu
+
+9. Jacob Goodreau
+   Email: jgoodreau2@springfieldcollege.edu
+   Username: jgoodreau2
+   Original line: Jacob Goodreau Graduate Assistant Coach jgoodreau2@springfieldcollege.edu
+
+10. Mia Olsen
+   Email: molsen2@springfieldcollege.edu
+   Username: molsen2
+   Original line: Mia Olsen Head Coach molsen2@springfieldcollege.edu 413-748-
+
+11. Brooke Szafran
+   Email: bszafran@springfieldcollege.edu
+   Username: bszafran
+   Original line: Brooke Szafran Assistant Coach bszafran@springfieldcollege.edu
+
+12. Mike Cerasuolo
+   Email: mcerasuo@springfieldcollege.edu
+   Username: mcerasuo
+   Original line: Mike Cerasuolo Head Coach mcerasuo@springfieldcollege.edu 413-748-
+
+13. Storm Jipson
+   Email: sjipson@springfieldcollege.edu
+   Username: sjipson
+   Original line: Storm Jipson Co-Core Coordinator and Halfbacks Coach sjipson@springfieldcollege.edu 207-576-
+
+14. Will Nipon
+   Email: wnipon@springfieldcollege.edu
+   Username: wnipon
+   Original line: Will Nipon Co-Core Coordinator and Defensive Backs Coach wnipon@springfieldcollege.edu 917-327-
+
+15. Bill Moore
+   Email: wmoore3@springfieldcollege.edu
+   Username: wmoore3
+   Original line: Bill Moore Assistant Coach - Offensive Line wmoore3@springfieldcollege.edu 413-330-
+
+16. Jacob DiRenzo
+   Email: jdirenzo@springfieldcollege.edu
+   Username: jdirenzo
+   Original line: Jacob DiRenzo Graduate Assistant Coach - Outside Linebackers jdirenzo@springfieldcollege.edu 518-360-
+
+17. Sam Nelson
+   Email: snelson@springfieldcollege.edu
+   Username: snelson
+   Original line: Sam Nelson Graduate Assistant Coach - Quarterbacks snelson@springfieldcollege.edu 518-618-
+
+18. Vince Reph
+   Email: vreph@springfieldcollege.edu
+   Username: vreph
+   Original line: Vince Reph Graduate Assistant Coach - Wide Receivers vreph@springfieldcollege.edu 718-755-
+
+19. Kyle Woodring
+   Email: kwoodring@springfieldcollege.edu
+   Username: kwoodring
+   Original line: Kyle Woodring Graduate Assistant Coach - Offensive Line kwoodring@springfieldcollege.edu 203-505-
+
+20. Alfred Boni
+   Email: aboni@springfieldcollege.edu
+   Username: aboni
+   Original line: Alfred Boni Graduate Assistant Coach - Defensive Line aboni@springfieldcollege.edu 843-540-
+
+21. Aiden Lewin
+   Email: alewin@springfieldcollege.edu
+   Username: alewin
+   Original line: Aiden Lewin Graduate Assistant Coach - STARS alewin@springfieldcollege.edu 407-690-
+
+22. Kevin Lind
+   Email: klind@springfieldcollege.edu
+   Username: klind
+   Original line: Kevin Lind Graduate Assistant Coach - Fullbacks klind@springfieldcollege.edu 732-673-
+
+23. Michael McClendon
+   Email: mmcclendon@springfieldcollege.edu
+   Username: mmcclendon
+   Original line: Michael McClendon Head Coach mmcclendon@springfieldcollege.edu 413-748-
+
+24. Anna Steinman
+   Email: asteinman@springfieldcollege.edu
+   Username: asteinman
+   Original line: Anna Steinman Head Cross Country Coach/Assistant Track & Field asteinman@springfieldcollege.edu 413-748-
+
+25. Joe Eadie
+   Email: golf@springfieldcollege.edu
+   Username: golf
+   Original line: Joe Eadie Head Coach golf@springfieldcollege.edu 413-478-
+
+26. Matthew Davis
+   Email: mdavis2@springfieldcollege.edu
+   Username: mdavis2
+   Original line: Matthew Davis Head Coach mdavis2@springfieldcollege.edu 413-748-
+
+27. Kael Donley
+   Email: kdonley@springfieldcollege.edu
+   Username: kdonley
+   Original line: Kael Donley Assistant Coach kdonley@springfieldcollege.edu
+
+28. Sean Quirk
+   Email: squirk2@springfieldcollege.edu
+   Username: squirk2
+   Original line: Sean Quirk Head Men's Lacrosse Coach squirk2@springfieldcollege.edu
+
+29. Tommy Crabill
+   Email: menssoccer@springfieldcollege.edu
+   Username: menssoccer
+   Original line: Tommy Crabill Head Coach menssoccer@springfieldcollege.edu 413-748-
+
+30. Stewart Frank
+   Email: menssoccer@springfieldcollege.edu
+   Username: menssoccer
+   Original line: Stewart Frank Assistant Coach menssoccer@springfieldcollege.edu
+
+31. Howard Hinds
+   Email: hhinds@springfieldcollege.edu
+   Username: hhinds
+   Original line: Howard Hinds Head Swimming Coach hhinds@springfieldcollege.edu
+
+32. Peter Avdoulos
+   Email: pavdoulos@springfieldcollege.edu
+   Username: pavdoulos
+   Original line: Peter Avdoulos Head Diving Coach pavdoulos@springfieldcollege.edu 413-748-
+
+33. Skyler Wilder
+   Email: swilder2@springfieldcollege.edu
+   Username: swilder2
+   Original line: Skyler Wilder Assistant Coach swilder2@springfieldcollege.edu
+
+34. Melanie Avdoulos
+   Email: mavdoulos@springfieldcollege.edu
+   Username: mavdoulos
+   Original line: Melanie Avdoulos Volunteer Assistant Coach mavdoulos@springfieldcollege.edu
+
+35. Tanner DeVarennes
+   Email: tdevarennes@springfieldcollege.edu
+   Username: tdevarennes
+   Original line: Tanner DeVarennes Head Coach tdevarennes@springfieldcollege.edu 413-748-
+
+36. Mike Miller
+   Email: mmiller3@springfieldcollege.edu
+   Username: mmiller3
+   Original line: Mike Miller Head Track & Field Coach mmiller3@springfieldcollege.edu 413-748-
+
+37. Charles Shoffner
+   Email: cshoffner@springfieldcollege.edu
+   Username: cshoffner
+   Original line: Charles Shoffner Assistant Coach cshoffner@springfieldcollege.edu
+
+38. Anna Steinman
+   Email: asteinman@springfieldcollege.edu
+   Username: asteinman
+   Original line: Anna Steinman Head Cross Country Coach/Assistant Track & Field asteinman@springfieldcollege.edu 413-748-
+
+39. Abigail Minott
+   Email: aminott@springfieldcollege.edu
+   Username: aminott
+   Original line: Abigail Minott Graduate Assistant Coach aminott@springfieldcollege.edu
+
+40. Charlie Sullivan
+   Email: csulliva@springfieldcollege.edu
+   Username: csulliva
+   Original line: Charlie Sullivan Head Coach csulliva@springfieldcollege.edu 413-748-
+
+41. Evan Troncoso
+   Email: etroncoso@springfieldcollege.edu
+   Username: etroncoso
+   Original line: Evan Troncoso Graduate Assistant Coach etroncoso@springfieldcollege.edu
+
+42. Jeremy Brown
+   Email: jbrown41@springfieldcollege.edu
+   Username: jbrown41
+   Original line: Jeremy Brown Graduate Assistant Coach jbrown41@springfieldcollege.edu
+
+43. Sam Garcia
+   Email: softball@springfieldcollege.edu
+   Username: softball
+   Original line: Sam Garcia Head Coach softball@springfieldcollege.edu
+
+44. Naomi Graves
+   Email: ngraves@springfieldcollege.edu
+   Username: ngraves
+   Original line: Naomi Graves Head Coach ngraves@springfieldcollege.edu 413-748-
+
+45. Anna Steinman
+   Email: asteinman@springfieldcollege.edu
+   Username: asteinman
+   Original line: Anna Steinman Head Cross Country Coach/Assistant Track & Field asteinman@springfieldcollege.edu 413-748-
+
+46. Diana Gallagher
+   Email: dgallagher2@springfieldcollege.edu
+   Username: dgallagher2
+   Original line: Diana Gallagher Head Coach dgallagher2@springfieldcollege.edu
+
+47. Jennifer Thomas
+   Email: jthomas2@springfieldcollege.edu
+   Username: jthomas2
+   Original line: Jennifer Thomas Head Coach jthomas2@springfieldcollege.edu 413-748-
+
+48. Katie Martel
+   Email: kmartel@springfieldcollege.edu
+   Username: kmartel
+   Original line: Katie Martel Graduate Assistant Coach kmartel@springfieldcollege.edu 413-748-
+
+49. Kursten Shade
+   Email: kvonklahr@springfieldcollege.edu
+   Username: kvonklahr
+   Original line: Kursten Shade Head Women's Soccer Coach kvonklahr@springfieldcollege.edu
+
+50. Brendon Boates
+   Email: bboates@springfieldcollege.edu
+   Username: bboates
+   Original line: Brendon Boates Assistant Coach bboates@springfieldcollege.edu
+
+51. Howard Hinds
+   Email: hhinds@springfieldcollege.edu
+   Username: hhinds
+   Original line: Howard Hinds Head Swimming Coach hhinds@springfieldcollege.edu
+
+52. Peter Avdoulos
+   Email: pavdoulos@springfieldcollege.edu
+   Username: pavdoulos
+   Original line: Peter Avdoulos Head Diving Coach pavdoulos@springfieldcollege.edu 413-748-
+
+53. Skyler Wilder
+   Email: swilder2@springfieldcollege.edu
+   Username: swilder2
+   Original line: Skyler Wilder Assistant Coach swilder2@springfieldcollege.edu
+
+54. Melanie Avdoulos
+   Email: mavdoulos@springfieldcollege.edu
+   Username: mavdoulos
+   Original line: Melanie Avdoulos Volunteer Assistant Coach mavdoulos@springfieldcollege.edu
+
+55. Tanner DeVarennes
+   Email: tdevarennes@springfieldcollege.edu
+   Username: tdevarennes
+   Original line: Tanner DeVarennes Head Coach tdevarennes@springfieldcollege.edu 413-748-
+
+56. Lejla Guster
+   Email: lguster@springfieldcollege.edu
+   Username: lguster
+   Original line: Lejla Guster Graduate Assistant Coach lguster@springfieldcollege.edu
+
+57. Mike Miller
+   Email: mmiller3@springfieldcollege.edu
+   Username: mmiller3
+   Original line: Mike Miller Head Track & Field Coach mmiller3@springfieldcollege.edu 413-748-
+
+58. Charles Shoffner
+   Email: cshoffner@springfieldcollege.edu
+   Username: cshoffner
+   Original line: Charles Shoffner Assistant Coach cshoffner@springfieldcollege.edu
+
+59. Anna Steinman
+   Email: asteinman@springfieldcollege.edu
+   Username: asteinman
+   Original line: Anna Steinman Head Cross Country Coach/Assistant Track & Field asteinman@springfieldcollege.edu 413-748-
+
+60. Abigail Minott
+   Email: aminott@springfieldcollege.edu
+   Username: aminott
+   Original line: Abigail Minott Graduate Assistant Coach aminott@springfieldcollege.edu
+
+61. Moira Long
+   Email: mlong@springfieldcollege.edu
+   Username: mlong
+   Original line: Moira Long Head Coach mlong@springfieldcollege.edu 413-748-
+
+62. Jasmine Butler
+   Email: jbutler7@springfieldcollege.edu
+   Username: jbutler7
+   Original line: Jasmine Butler Graduate Assistant Coach jbutler7@springfieldcollege.edu
+
+63. Kaylin Hadley
+   Email: khadley@springfieldcollege.edu
+   Username: khadley
+   Original line: Kaylin Hadley Graduate Assistant Coach khadley@springfieldcollege.edu
+
+64. Natalie Little
+   Email: nlittle2@springfieldcollege.edu
+   Username: nlittle2
+   Original line: Natalie Little Graduate Assistant Coach nlittle2@springfieldcollege.edu
+
+65. Jason Holder
+   Email: jholder2@springfieldcollege.edu
+   Username: jholder2
+   Original line: Jason Holder Head Coach jholder2@springfieldcollege.edu 413-748-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Sam Stallard Graduate Assistant Coach sstallard@springfieldcollege.edu
+• Keeley Durkin Graduate Assistant Coach kdurkin2@springfieldcollege.edu
+• Amanda Hanley Graduate Assistant Coach ahanley@springfieldcollege.edu
+• Lucy Puskas Graduate Assistant Coach lpuskas@springfieldcollege.edu
+• Sierra Bond Graduate Assistant Coach sbond3@springfieldcollege.edu
+• Max Grzymala Graduate Assistant Coach mgrzymala@springfieldcollege.edu
+• Anthony DeVito Graduate Assistant Coach adevito2@springfieldcollege.edu
+• Chad Shade Head Coach cshade@springfieldcollege.edu
+• Jacob Goodreau Graduate Assistant Coach jgoodreau2@springfieldcollege.edu
+• Mia Olsen Head Coach molsen2@springfieldcollege.edu 413-748-
+• Brooke Szafran Assistant Coach bszafran@springfieldcollege.edu
+• Mike Cerasuolo Head Coach mcerasuo@springfieldcollege.edu 413-748-
+• Storm Jipson Co-Core Coordinator and Halfbacks Coach sjipson@springfieldcollege.edu 207-576-
+• Will Nipon Co-Core Coordinator and Defensive Backs Coach wnipon@springfieldcollege.edu 917-327-
+• Bill Moore Assistant Coach - Offensive Line wmoore3@springfieldcollege.edu 413-330-
+• Jacob DiRenzo Graduate Assistant Coach - Outside Linebackers jdirenzo@springfieldcollege.edu 518-360-
+• Sam Nelson Graduate Assistant Coach - Quarterbacks snelson@springfieldcollege.edu 518-618-
+• Vince Reph Graduate Assistant Coach - Wide Receivers vreph@springfieldcollege.edu 718-755-
+• Kyle Woodring Graduate Assistant Coach - Offensive Line kwoodring@springfieldcollege.edu 203-505-
+• Alfred Boni Graduate Assistant Coach - Defensive Line aboni@springfieldcollege.edu 843-540-
+• Aiden Lewin Graduate Assistant Coach - STARS alewin@springfieldcollege.edu 407-690-
+• Kevin Lind Graduate Assistant Coach - Fullbacks klind@springfieldcollege.edu 732-673-
+• Michael McClendon Head Coach mmcclendon@springfieldcollege.edu 413-748-
+• Anna Steinman Head Cross Country Coach/Assistant Track & Field asteinman@springfieldcollege.edu 413-748-
+• Joe Eadie Head Coach golf@springfieldcollege.edu 413-478-
+• Matthew Davis Head Coach mdavis2@springfieldcollege.edu 413-748-
+• Kael Donley Assistant Coach kdonley@springfieldcollege.edu
+• Sean Quirk Head Men's Lacrosse Coach squirk2@springfieldcollege.edu
+• Tommy Crabill Head Coach menssoccer@springfieldcollege.edu 413-748-
+• Stewart Frank Assistant Coach menssoccer@springfieldcollege.edu
+• Howard Hinds Head Swimming Coach hhinds@springfieldcollege.edu
+• Peter Avdoulos Head Diving Coach pavdoulos@springfieldcollege.edu 413-748-
+• Skyler Wilder Assistant Coach swilder2@springfieldcollege.edu
+• Melanie Avdoulos Volunteer Assistant Coach mavdoulos@springfieldcollege.edu
+• Tanner DeVarennes Head Coach tdevarennes@springfieldcollege.edu 413-748-
+• Mike Miller Head Track & Field Coach mmiller3@springfieldcollege.edu 413-748-
+• Charles Shoffner Assistant Coach cshoffner@springfieldcollege.edu
+• Anna Steinman Head Cross Country Coach/Assistant Track & Field asteinman@springfieldcollege.edu 413-748-
+• Abigail Minott Graduate Assistant Coach aminott@springfieldcollege.edu
+• Charlie Sullivan Head Coach csulliva@springfieldcollege.edu 413-748-
+• Evan Troncoso Graduate Assistant Coach etroncoso@springfieldcollege.edu
+• Jeremy Brown Graduate Assistant Coach jbrown41@springfieldcollege.edu
+• Sam Garcia Head Coach softball@springfieldcollege.edu
+• Naomi Graves Head Coach ngraves@springfieldcollege.edu 413-748-
+• Anna Steinman Head Cross Country Coach/Assistant Track & Field asteinman@springfieldcollege.edu 413-748-
+• Diana Gallagher Head Coach dgallagher2@springfieldcollege.edu
+• Jennifer Thomas Head Coach jthomas2@springfieldcollege.edu 413-748-
+• Katie Martel Graduate Assistant Coach kmartel@springfieldcollege.edu 413-748-
+• Kursten Shade Head Women's Soccer Coach kvonklahr@springfieldcollege.edu
+• Brendon Boates Assistant Coach bboates@springfieldcollege.edu
+• Howard Hinds Head Swimming Coach hhinds@springfieldcollege.edu
+• Peter Avdoulos Head Diving Coach pavdoulos@springfieldcollege.edu 413-748-
+• Skyler Wilder Assistant Coach swilder2@springfieldcollege.edu
+• Melanie Avdoulos Volunteer Assistant Coach mavdoulos@springfieldcollege.edu
+• Tanner DeVarennes Head Coach tdevarennes@springfieldcollege.edu 413-748-
+• Lejla Guster Graduate Assistant Coach lguster@springfieldcollege.edu
+• Mike Miller Head Track & Field Coach mmiller3@springfieldcollege.edu 413-748-
+• Charles Shoffner Assistant Coach cshoffner@springfieldcollege.edu
+• Anna Steinman Head Cross Country Coach/Assistant Track & Field asteinman@springfieldcollege.edu 413-748-
+• Abigail Minott Graduate Assistant Coach aminott@springfieldcollege.edu
+• Moira Long Head Coach mlong@springfieldcollege.edu 413-748-
+• Jasmine Butler Graduate Assistant Coach jbutler7@springfieldcollege.edu
+• Kaylin Hadley Graduate Assistant Coach khadley@springfieldcollege.edu
+• Natalie Little Graduate Assistant Coach nlittle2@springfieldcollege.edu
+• Jason Holder Head Coach jholder2@springfieldcollege.edu 413-748-

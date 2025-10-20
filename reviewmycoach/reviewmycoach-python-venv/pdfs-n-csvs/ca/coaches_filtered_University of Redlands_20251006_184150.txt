@@ -1,0 +1,395 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:50
+============================================================
+
+Total coaches found: 64
+
+PARSED ENTRIES:
+----------------------------------------
+1. Will Daniels
+   Email: will_daniels@redlands.edu
+   Username: will_daniels
+   Original line: Will Daniels Athletic Facilities Specialist | Assistant Baseball Coach will_daniels@redlands.edu
+
+2. Aaron Holley
+   Email: aaron_holley@redlands.edu
+   Username: aaron_holley
+   Original line: Aaron Holley Head Baseball Coach aaron_holley@redlands.edu 909-748-
+
+3. Chris Hernandez
+   Email: chris_hernandez@redlands.edu
+   Username: chris_hernandez
+   Original line: Chris Hernandez Assistant Baseball Coach/Recruiting Coordinator chris_hernandez@redlands.edu 909-748-
+
+4. Will Daniels
+   Email: will_daniels@redlands.edu
+   Username: will_daniels
+   Original line: Will Daniels Athletic Facilities Specialist | Assistant Baseball Coach will_daniels@redlands.edu
+
+5. Eric Bridgeland
+   Email: BulldogMensBasketball@redlands.edu
+   Username: BulldogMensBasketball
+   Original line: Eric Bridgeland Head Men's Basketball Coach BulldogMensBasketball@redlands.edu 909-748-
+
+6. Sean O'Donnell
+   Email: sean_odonnell@redlands.edu
+   Username: sean_odonnell
+   Original line: Sean O'Donnell Assistant Men's Basketball Coach sean_odonnell@redlands.edu
+
+7. Jalen Kellams
+   Email: jalen_kellams@redlands.edu
+   Username: jalen_kellams
+   Original line: Jalen Kellams Assistant Men's Basketball Coach jalen_kellams@redlands.edu
+
+8. Rich Murphy
+   Email: rich_murphy@redlands.edu
+   Username: rich_murphy
+   Original line: Rich Murphy Head Women's Basketball Coach rich_murphy@redlands.edu 909-748-
+
+9. Alyssa Downs
+   Email: alyssa_downs@redlands.edu
+   Username: alyssa_downs
+   Original line: Alyssa Downs Assistant Women's Basketball Coach alyssa_downs@redlands.edu
+
+10. Blaire Camarda
+   Email: blaire_camarda@redlands.edu
+   Username: blaire_camarda
+   Original line: Blaire Camarda Assistant Women's Basketball Coach blaire_camarda@redlands.edu
+
+11. Mike Schmidt
+   Email: bulldogXCTF@redlands.edu
+   Username: bulldogXCTF
+   Original line: Mike Schmidt Head Track & Field/Cross Country Coach bulldogXCTF@redlands.edu 909-748-
+
+12. Dominic Lopez
+   Email: dominic_lopez@redlands.edu
+   Username: dominic_lopez
+   Original line: Dominic Lopez Assistant Track & Field/Cross Country Coach dominic_lopez@redlands.edu 909-748-
+
+13. Greta Unger
+   Email: greta_unger@redlands.edu
+   Username: greta_unger
+   Original line: Greta Unger Assistant Cross Country/Track & Field Coach greta_unger@redlands.edu
+
+14. Courtney O'Neal
+   Email: courtney_oneal@redlands.edu
+   Username: courtney_oneal
+   Original line: Courtney O'Neal Assistant Track & Field/Cross-Country Coach courtney_oneal@redlands.edu
+
+15. Jim Good
+   Email: jim_good@redlands.edu
+   Username: jim_good
+   Original line: Jim Good Head Coach jim_good@redlands.edu 909-748-
+
+16. Joey Mariani
+   Email: joey_mariani@redlands.edu
+   Username: joey_mariani
+   Original line: Joey Mariani Assoc. Head Coach/Defensive joey_mariani@redlands.edu 909-748-
+
+17. Craig Robbins
+   Email: craig_robbins@redlands.edu
+   Username: craig_robbins
+   Original line: Craig Robbins Assistant Coach - Wide Receivers/Academic craig_robbins@redlands.edu 909-748-
+
+18. Brandyn Alvarez
+   Email: brandyn_alvarez@redlands.edu
+   Username: brandyn_alvarez
+   Original line: Brandyn Alvarez Assistant Coach - Offensive Line brandyn_alvarez@redlands.edu
+
+19. Joe Bennett
+   Email: joseph_bennett@redlands.edu
+   Username: joseph_bennett
+   Original line: Joe Bennett Assistant Coach - Linebackers/Video Coordinator joseph_bennett@redlands.edu
+
+20. Terrell Davis
+   Email: terrell_davis@redlands.edu
+   Username: terrell_davis
+   Original line: Terrell Davis Assistant Coach - Corners terrell_davis@redlands.edu 909-748-
+
+21. Tamoi Hicks
+   Email: tamoi_hicks@redlands.edu
+   Username: tamoi_hicks
+   Original line: Tamoi Hicks Assistant Coach - Safeties tamoi_hicks@redlands.edu
+
+22. Nathan Martinez
+   Email: nathan_martinez@redlands.edu
+   Username: nathan_martinez
+   Original line: Nathan Martinez Assistant Coach - Assistant Wide Receivers nathan_martinez@redlands.edu
+
+23. Mike McFarland
+   Email: mike_mcfarland@redlands.edu
+   Username: mike_mcfarland
+   Original line: Mike McFarland Assistant Coach - Tight Ends mike_mcfarland@redlands.edu 909-748-
+
+24. Cole Smith
+   Email: cole_smith@redlands.edu
+   Username: cole_smith
+   Original line: Cole Smith Assistant Coach - Inverts cole_smith@redlands.edu
+
+25. Jacob Barlage
+   Email: jacob_barlage@redlands.edu
+   Username: jacob_barlage
+   Original line: Jacob Barlage Assistant Coach - Running Backs jacob_barlage@redlands.edu
+
+26. Tatum Etchegoyen-Springer
+   Email: tatum_springer@redlands.edu
+   Username: tatum_springer
+   Original line: Tatum Etchegoyen-Springer Head Women's Flag Football Coach tatum_springer@redlands.edu 909-748-
+
+27. Jamie Zantua
+   Email: jamie_zantua@redlands.edu
+   Username: jamie_zantua
+   Original line: Jamie Zantua Head Golf Coach jamie_zantua@redlands.edu 909-748-
+
+28. Mark Hopson
+   Email: mark_hopson@redlands.edu
+   Username: mark_hopson
+   Original line: Mark Hopson Assistant Men's & Women's Golf Coach mark_hopson@redlands.edu
+
+29. Jamie Zantua
+   Email: jamie_zantua@redlands.edu
+   Username: jamie_zantua
+   Original line: Jamie Zantua Head Golf Coach jamie_zantua@redlands.edu 909-748-
+
+30. Mark Hopson
+   Email: mark_hopson@redlands.edu
+   Username: mark_hopson
+   Original line: Mark Hopson Assistant Men's & Women's Golf Coach mark_hopson@redlands.edu
+
+31. Tayler Muchmore
+   Email: tayler_muchmore@redlands.edu
+   Username: tayler_muchmore
+   Original line: Tayler Muchmore Assistant Women's Golf Coach tayler_muchmore@redlands.edu
+
+32. Sean Hansen
+   Email: sean_hansen@redlands.edu
+   Username: sean_hansen
+   Original line: Sean Hansen Head Women's Lacrosse Coach sean_hansen@redlands.edu
+
+33. Alexis Parker
+   Email: alexis_parker@redlands.edu
+   Username: alexis_parker
+   Original line: Alexis Parker Assistant Women's Lacrosse Coach alexis_parker@redlands.edu
+
+34. Lacey Douglass
+   Email: lacey_bjorndal@redlands.edu
+   Username: lacey_bjorndal
+   Original line: Lacey Douglass Assistant Women's Lacrosse Coach lacey_bjorndal@redlands.edu
+
+35. Ralph Perez
+   Email: ralph_perez@redlands.edu
+   Username: ralph_perez
+   Original line: Ralph Perez Head Men's Soccer Coach ralph_perez@redlands.edu 909-748-
+
+36. Cody Carlson
+   Email: cody_carlson@redlands.edu
+   Username: cody_carlson
+   Original line: Cody Carlson Assistant Men's Soccer Coach cody_carlson@redlands.edu 909-748-
+
+37. Suzette Soboti
+   Email: suzette_soboti@redlands.edu
+   Username: suzette_soboti
+   Original line: Suzette Soboti Head Women's Soccer Coach suzette_soboti@redlands.edu 909-748-
+
+38. Breann Miller
+   Email: breann_miller@redlands.edu
+   Username: breann_miller
+   Original line: Breann Miller Assistant Women's Soccer Coach breann_miller@redlands.edu 909-748-
+
+39. Jose Ortega
+   Email: jose_ortega@redlands.edu
+   Username: jose_ortega
+   Original line: Jose Ortega Head Softball Coach jose_ortega@redlands.edu 909-748-
+
+40. Kaitlyn Hooper-Bell
+   Email: kaitlyn_hooper-bell@redlands.edu
+   Username: kaitlyn_hooper-bell
+   Original line: Kaitlyn Hooper-Bell Assistant Softball Coach kaitlyn_hooper-bell@redlands.edu
+
+41. Andrew Aguilera
+   Email: andrew_aguilera@redlands.edu
+   Username: andrew_aguilera
+   Original line: Andrew Aguilera Assistant Softball Coach andrew_aguilera@redlands.edu
+
+42. Cassandra Mittman
+   Email: cassandra_mittman@redlands.edu
+   Username: cassandra_mittman
+   Original line: Cassandra Mittman Assistant Softball Coach cassandra_mittman@redlands.edu
+
+43. Craig Mallery
+   Email: craig_mallery@redlands.edu
+   Username: craig_mallery
+   Original line: Craig Mallery Head Swim & Dive Coach craig_mallery@redlands.edu 909-748-
+
+44. Kaitlyn Reny
+   Email: kaitlyn_reny@redlands.edu
+   Username: kaitlyn_reny
+   Original line: Kaitlyn Reny Assistant Swim Coach kaitlyn_reny@redlands.edu 909-748-
+
+45. John Holbeck
+   Email: john_holbreck@redlands.edu
+   Username: john_holbreck
+   Original line: John Holbeck Assistant Swim Coach john_holbreck@redlands.edu 951-733-
+
+46. Mike Longanecker
+   Email: mike_longanecker@redlands.edu
+   Username: mike_longanecker
+   Original line: Mike Longanecker Head Men's & Women's Tennis Coach mike_longanecker@redlands.edu 909-748-
+
+47. Michael Harmon
+   Email: michael_harmon@redlands.edu
+   Username: michael_harmon
+   Original line: Michael Harmon Assistant Men's & Women's Tennis Coach michael_harmon@redlands.edu 909-748-
+
+48. Erik Lundblad
+   Email: erik_lundblad@redlands.edu
+   Username: erik_lundblad
+   Original line: Erik Lundblad Assistant Men's & Women's Tennis Coach erik_lundblad@redlands.edu
+
+49. Mike Longanecker
+   Email: mike_longanecker@redlands.edu
+   Username: mike_longanecker
+   Original line: Mike Longanecker Head Men's & Women's Tennis Coach mike_longanecker@redlands.edu 909-748-
+
+50. Michael Harmon
+   Email: michael_harmon@redlands.edu
+   Username: michael_harmon
+   Original line: Michael Harmon Assistant Men's & Women's Tennis Coach michael_harmon@redlands.edu 909-748-
+
+51. Erik Lundblad
+   Email: erik_lundblad@redlands.edu
+   Username: erik_lundblad
+   Original line: Erik Lundblad Assistant Men's & Women's Tennis Coach erik_lundblad@redlands.edu
+
+52. Mike Schmidt
+   Email: bulldogXCTF@redlands.edu
+   Username: bulldogXCTF
+   Original line: Mike Schmidt Head Track & Field/Cross Country Coach bulldogXCTF@redlands.edu 909-748-
+
+53. Dominic Lopez
+   Email: dominic_lopez@redlands.edu
+   Username: dominic_lopez
+   Original line: Dominic Lopez Assistant Track & Field/Cross Country Coach dominic_lopez@redlands.edu 909-748-
+
+54. Andrew Clarey
+   Email: andrew_clarey@redlands.edu
+   Username: andrew_clarey
+   Original line: Andrew Clarey Assistant Track & Field Coach andrew_clarey@redlands.edu 909-748-
+
+55. Greta Unger
+   Email: greta_unger@redlands.edu
+   Username: greta_unger
+   Original line: Greta Unger Assistant Cross Country/Track & Field Coach greta_unger@redlands.edu
+
+56. Leslie Sernaque-Falcon
+   Email: leslie_sernaquefalco@redlands.edu
+   Username: leslie_sernaquefalco
+   Original line: Leslie Sernaque-Falcon Assistant Track & Field Coach leslie_sernaquefalco@redlands.edu
+
+57. Courtney O'Neal
+   Email: courtney_oneal@redlands.edu
+   Username: courtney_oneal
+   Original line: Courtney O'Neal Assistant Track & Field/Cross-Country Coach courtney_oneal@redlands.edu
+
+58. Savannah Cox
+   Email: savannah_cox@redlands.edu
+   Username: savannah_cox
+   Original line: Savannah Cox Head Women's Volleyball Coach savannah_cox@redlands.edu 909-748-
+
+59. Cydney Bolasky
+   Email: cydney_bolasky@redlands.edu
+   Username: cydney_bolasky
+   Original line: Cydney Bolasky Assistant Women's Volleyball Coach cydney_bolasky@redlands.edu
+
+60. Ryan Hall
+   Email: ryan_hall@redlands.edu
+   Username: ryan_hall
+   Original line: Ryan Hall Head Men's Water Polo Coach ryan_hall@redlands.edu 909-748-
+
+61. Leo Yuno
+   Email: leo.yuno5@gmail.com
+   Username: leo.yuno5
+   Original line: Leo Yuno Assistant Men's Water Polo Coach leo.yuno5@gmail.com
+
+62. Carlos Heredia
+   Email: carlosherediaviteri@gmail.com
+   Username: carlosherediaviteri
+   Original line: Carlos Heredia Viteri Assistant Men's Water Polo Coach carlosherediaviteri@gmail.com
+
+63. Tamara Perea
+   Email: tamara_perea@redlands.edu
+   Username: tamara_perea
+   Original line: Tamara Perea Head Women's Water Polo Coach tamara_perea@redlands.edu
+
+64. Dominic Rios
+   Email: dominic_rios@redlands.edu
+   Username: dominic_rios
+   Original line: Dominic Rios Assistant Women's Water Polo Coach dominic_rios@redlands.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Will Daniels Athletic Facilities Specialist | Assistant Baseball Coach will_daniels@redlands.edu
+• Aaron Holley Head Baseball Coach aaron_holley@redlands.edu 909-748-
+• Chris Hernandez Assistant Baseball Coach/Recruiting Coordinator chris_hernandez@redlands.edu 909-748-
+• Will Daniels Athletic Facilities Specialist | Assistant Baseball Coach will_daniels@redlands.edu
+• Eric Bridgeland Head Men's Basketball Coach BulldogMensBasketball@redlands.edu 909-748-
+• Sean O'Donnell Assistant Men's Basketball Coach sean_odonnell@redlands.edu
+• Jalen Kellams Assistant Men's Basketball Coach jalen_kellams@redlands.edu
+• Rich Murphy Head Women's Basketball Coach rich_murphy@redlands.edu 909-748-
+• Alyssa Downs Assistant Women's Basketball Coach alyssa_downs@redlands.edu
+• Blaire Camarda Assistant Women's Basketball Coach blaire_camarda@redlands.edu
+• Mike Schmidt Head Track & Field/Cross Country Coach bulldogXCTF@redlands.edu 909-748-
+• Dominic Lopez Assistant Track & Field/Cross Country Coach dominic_lopez@redlands.edu 909-748-
+• Greta Unger Assistant Cross Country/Track & Field Coach greta_unger@redlands.edu
+• Courtney O'Neal Assistant Track & Field/Cross-Country Coach courtney_oneal@redlands.edu
+• Jim Good Head Coach jim_good@redlands.edu 909-748-
+• Joey Mariani Assoc. Head Coach/Defensive joey_mariani@redlands.edu 909-748-
+• Craig Robbins Assistant Coach - Wide Receivers/Academic craig_robbins@redlands.edu 909-748-
+• Brandyn Alvarez Assistant Coach - Offensive Line brandyn_alvarez@redlands.edu
+• Joe Bennett Assistant Coach - Linebackers/Video Coordinator joseph_bennett@redlands.edu
+• Terrell Davis Assistant Coach - Corners terrell_davis@redlands.edu 909-748-
+• Tamoi Hicks Assistant Coach - Safeties tamoi_hicks@redlands.edu
+• Nathan Martinez Assistant Coach - Assistant Wide Receivers nathan_martinez@redlands.edu
+• Mike McFarland Assistant Coach - Tight Ends mike_mcfarland@redlands.edu 909-748-
+• Cole Smith Assistant Coach - Inverts cole_smith@redlands.edu
+• Jacob Barlage Assistant Coach - Running Backs jacob_barlage@redlands.edu
+• Tatum Etchegoyen-Springer Head Women's Flag Football Coach tatum_springer@redlands.edu 909-748-
+• Jamie Zantua Head Golf Coach jamie_zantua@redlands.edu 909-748-
+• Mark Hopson Assistant Men's & Women's Golf Coach mark_hopson@redlands.edu
+• Jamie Zantua Head Golf Coach jamie_zantua@redlands.edu 909-748-
+• Mark Hopson Assistant Men's & Women's Golf Coach mark_hopson@redlands.edu
+• Tayler Muchmore Assistant Women's Golf Coach tayler_muchmore@redlands.edu
+• Sean Hansen Head Women's Lacrosse Coach sean_hansen@redlands.edu
+• Alexis Parker Assistant Women's Lacrosse Coach alexis_parker@redlands.edu
+• Lacey Douglass Assistant Women's Lacrosse Coach lacey_bjorndal@redlands.edu
+• Ralph Perez Head Men's Soccer Coach ralph_perez@redlands.edu 909-748-
+• Cody Carlson Assistant Men's Soccer Coach cody_carlson@redlands.edu 909-748-
+• Suzette Soboti Head Women's Soccer Coach suzette_soboti@redlands.edu 909-748-
+• Breann Miller Assistant Women's Soccer Coach breann_miller@redlands.edu 909-748-
+• Jose Ortega Head Softball Coach jose_ortega@redlands.edu 909-748-
+• Kaitlyn Hooper-Bell Assistant Softball Coach kaitlyn_hooper-bell@redlands.edu
+• Andrew Aguilera Assistant Softball Coach andrew_aguilera@redlands.edu
+• Cassandra Mittman Assistant Softball Coach cassandra_mittman@redlands.edu
+• Craig Mallery Head Swim & Dive Coach craig_mallery@redlands.edu 909-748-
+• Kaitlyn Reny Assistant Swim Coach kaitlyn_reny@redlands.edu 909-748-
+• John Holbeck Assistant Swim Coach john_holbreck@redlands.edu 951-733-
+• Mike Longanecker Head Men's & Women's Tennis Coach mike_longanecker@redlands.edu 909-748-
+• Michael Harmon Assistant Men's & Women's Tennis Coach michael_harmon@redlands.edu 909-748-
+• Erik Lundblad Assistant Men's & Women's Tennis Coach erik_lundblad@redlands.edu
+• Mike Longanecker Head Men's & Women's Tennis Coach mike_longanecker@redlands.edu 909-748-
+• Michael Harmon Assistant Men's & Women's Tennis Coach michael_harmon@redlands.edu 909-748-
+• Erik Lundblad Assistant Men's & Women's Tennis Coach erik_lundblad@redlands.edu
+• Mike Schmidt Head Track & Field/Cross Country Coach bulldogXCTF@redlands.edu 909-748-
+• Dominic Lopez Assistant Track & Field/Cross Country Coach dominic_lopez@redlands.edu 909-748-
+• Andrew Clarey Assistant Track & Field Coach andrew_clarey@redlands.edu 909-748-
+• Greta Unger Assistant Cross Country/Track & Field Coach greta_unger@redlands.edu
+• Leslie Sernaque-Falcon Assistant Track & Field Coach leslie_sernaquefalco@redlands.edu
+• Courtney O'Neal Assistant Track & Field/Cross-Country Coach courtney_oneal@redlands.edu
+• Savannah Cox Head Women's Volleyball Coach savannah_cox@redlands.edu 909-748-
+• Cydney Bolasky Assistant Women's Volleyball Coach cydney_bolasky@redlands.edu
+• Ryan Hall Head Men's Water Polo Coach ryan_hall@redlands.edu 909-748-
+• Leo Yuno Assistant Men's Water Polo Coach leo.yuno5@gmail.com
+• Carlos Heredia Viteri Assistant Men's Water Polo Coach carlosherediaviteri@gmail.com
+• Tamara Perea Head Women's Water Polo Coach tamara_perea@redlands.edu
+• Dominic Rios Assistant Women's Water Polo Coach dominic_rios@redlands.edu

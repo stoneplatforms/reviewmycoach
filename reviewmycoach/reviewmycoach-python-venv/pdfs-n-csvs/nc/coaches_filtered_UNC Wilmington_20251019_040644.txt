@@ -1,0 +1,317 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:44
+============================================================
+
+Total coaches found: 51
+
+PARSED ENTRIES:
+----------------------------------------
+1. Cay Manuel
+   Email: manuelc@uncw.edu
+   Username: manuelc
+   Original line: Cay Manuel Assistant Sports Performance Coach (Softball, Volleyball, M/W manuelc@uncw.edu (910) 962-
+
+2. Cameron Clark
+   Email: clarkcj@uncw.edu
+   Username: clarkcj
+   Original line: Cameron Clark Assistant Sports Performance Coach (Women's Basketball, M/W Track & clarkcj@uncw.edu
+
+3. Takayo Siddle
+   Email: siddlet@uncw.edu
+   Username: siddlet
+   Original line: Takayo Siddle Head Basketball Coach siddlet@uncw.edu (910) 962-
+
+4. Kurt Kanaskie
+   Email: kanaskiek@uncw.edu
+   Username: kanaskiek
+   Original line: Kurt Kanaskie Associate Head Basketball Coach kanaskiek@uncw.edu
+
+5. Craig Ponder
+   Email: ponderc@uncw.edu
+   Username: ponderc
+   Original line: Craig Ponder Assistant Basketball Coach ponderc@uncw.edu
+
+6. Paul Hemrick
+   Email: hemrickp@uncw.edu
+   Username: hemrickp
+   Original line: Paul Hemrick Assistant Basketball Coach hemrickp@uncw.edu
+
+7. Hunter Henderson
+   Email: hendersonh@uncw.edu
+   Username: hendersonh
+   Original line: Hunter Henderson Asst. Coach / Director of Basketball Operations hendersonh@uncw.edu
+
+8. Austin Parker
+   Email: parkeraj@uncw.edu
+   Username: parkeraj
+   Original line: Austin Parker Asst. Coach / Basketball Video Coordinator parkeraj@uncw.edu
+
+9. Caegan Jackson
+   Email: jacksonc@uncw.edu
+   Username: jacksonc
+   Original line: Caegan Jackson Special Assistant to the Head Coach jacksonc@uncw.edu
+
+10. Randy Hood
+   Email: hoodr@uncw.edu
+   Username: hoodr
+   Original line: Randy Hood Head Coach hoodr@uncw.edu (910) 962-
+
+11. Chris Moore
+   Email: moorecg@uncw.edu
+   Username: moorecg
+   Original line: Chris Moore Assistant Coach moorecg@uncw.edu (910) 962-
+
+12. Kelly Secrest
+   Email: secrestk@uncw.edu
+   Username: secrestk
+   Original line: Kelly Secrest Assistant Coach secrestk@uncw.edu (910) 962-
+
+13. Josh Stott
+   Email: stottp@uncw.edu
+   Username: stottp
+   Original line: Josh Stott Assistant Coach stottp@uncw.edu (910) 962-
+
+14. Nicole Woods
+   Email: woodsa@uncw.edu
+   Username: woodsa
+   Original line: Nicole Woods Head Coach woodsa@uncw.edu
+
+15. Cherie Lea
+   Email: leac@uncw.edu
+   Username: leac
+   Original line: Cherie Lea Associate Head Coach leac@uncw.edu
+
+16. Kevin Harris
+   Email: harriskg@uncw.edu
+   Username: harriskg
+   Original line: Kevin Harris Assistant Coach harriskg@uncw.edu
+
+17. Brittany Drew
+   Email: drewb@uncw.edu
+   Username: drewb
+   Original line: Brittany Drew Assistant Coach drewb@uncw.edu
+
+18. Madison Taylor
+   Email: taylorms@uncw.edu
+   Username: taylorms
+   Original line: Madison Taylor Assistant Coach/Director of Operations taylorms@uncw.edu
+
+19. Jeff Klaves
+   Email: klavesj@uncw.edu
+   Username: klavesj
+   Original line: Jeff Klaves Head Track & Field/Cross Country Coach klavesj@uncw.edu (910) 962-
+
+20. Max Coleman
+   Email: colemanmj@uncw.edu
+   Username: colemanmj
+   Original line: Max Coleman Associate Head Coach colemanmj@uncw.edu
+
+21. Jaden Kingsley
+   Email: kingsleyj@uncw.edu
+   Username: kingsleyj
+   Original line: Jaden Kingsley Assistant Coach kingsleyj@uncw.edu
+
+22. Blake Taylor
+   Email: taylorbs@uncw.edu
+   Username: taylorbs
+   Original line: Blake Taylor Interim Head Coach taylorbs@uncw.edu
+
+23. Cindy Ho
+   Email: hoc@uncw.edu
+   Username: hoc
+   Original line: Cindy Ho Head Coach hoc@uncw.edu (910) 962-
+
+24. Phu Khine
+   Email: khinep@uncw.edu
+   Username: khinep
+   Original line: Phu Khine Assistant Coach khinep@uncw.edu
+
+25. Aidan Heaney
+   Email: heaneya@uncw.edu
+   Username: heaneya
+   Original line: Aidan Heaney Head Coach heaneya@uncw.edu (910) 962-
+
+26. Lewis Dunne
+   Email: dunnel@uncw.edu
+   Username: dunnel
+   Original line: Lewis Dunne Assistant Coach dunnel@uncw.edu
+
+27. Teig Lesko
+   Email: leskoj@uncw.edu
+   Username: leskoj
+   Original line: Teig Lesko Assistant Coach leskoj@uncw.edu
+
+28. Francisco Tomasino
+   Email: tomasinof@uncw.edu
+   Username: tomasinof
+   Original line: Francisco Tomasino Assistant Goalkeeping Coach tomasinof@uncw.edu
+
+29. Chris Neal
+   Email: nealc@uncw.edu
+   Username: nealc
+   Original line: Chris Neal Head Coach nealc@uncw.edu (910) 962-
+
+30. Colin Barnes
+   Email: barnescs@uncw.edu
+   Username: barnescs
+   Original line: Colin Barnes Associate Head Coach barnescs@uncw.edu
+
+31. Savannah Stoughton
+   Email: stoughtons@uncw.edu
+   Username: stoughtons
+   Original line: Savannah Stoughton Assistant Coach stoughtons@uncw.edu
+
+32. Ashley Wade
+   Email: wadea@uncw.edu
+   Username: wadea
+   Original line: Ashley Wade Head Coach wadea@uncw.edu
+
+33. Abbey Latham
+   Email: lathama@uncw.edu
+   Username: lathama
+   Original line: Abbey Latham Assistant Coach lathama@uncw.edu
+
+34. Parker Stevens
+   Email: stevensp@uncw.edu
+   Username: stevensp
+   Original line: Parker Stevens Assistant Coach stevensp@uncw.edu
+
+35. Kyler Holton
+   Email: holtonj@uncw.edu
+   Username: holtonj
+   Original line: Kyler Holton Assistant Coach holtonj@uncw.edu
+
+36. Bobby Guntoro
+   Email: guntorob@uncw.edu
+   Username: guntorob
+   Original line: Bobby Guntoro Head Coach guntorob@uncw.edu (910) 962-
+
+37. Sarah Richards
+   Email: richardss@uncw.edu
+   Username: richardss
+   Original line: Sarah Richards Associate Head Coach richardss@uncw.edu (910) 962-
+
+38. Gavrilo Blijden
+   Email: blijdeng@uncw.edu
+   Username: blijdeng
+   Original line: Gavrilo Blijden Diving Coach blijdeng@uncw.edu
+
+39. Brandon Ress
+   Email: ressb@uncw.edu
+   Username: ressb
+   Original line: Brandon Ress Assistant Coach ressb@uncw.edu
+
+40. Mait DuBois
+   Email: duboism@uncw.edu
+   Username: duboism
+   Original line: Mait DuBois Head Coach duboism@uncw.edu (910) 962-
+
+41. Taylor Vaughn
+   Email: vaughnt@uncw.edu
+   Username: vaughnt
+   Original line: Taylor Vaughn Associate Head Tennis Coach vaughnt@uncw.edu (910) 962-
+
+42. Gabriel Hurtado
+   Email: gh9165@uncw.edu
+   Username: gh9165
+   Original line: Gabriel Hurtado Assistant Coach gh9165@uncw.edu
+
+43. Jeff Klaves
+   Email: klavesj@uncw.edu
+   Username: klavesj
+   Original line: Jeff Klaves Head Track & Field/Cross Country Coach klavesj@uncw.edu (910) 962-
+
+44. Max Coleman
+   Email: colemanmj@uncw.edu
+   Username: colemanmj
+   Original line: Max Coleman Associate Head Coach colemanmj@uncw.edu
+
+45. Donald Thomas
+   Email: thomasd@uncw.edu
+   Username: thomasd
+   Original line: Donald Thomas Assistant Coach thomasd@uncw.edu (910) 962-
+
+46. Hans Olsen
+   Email: olsenh@uncw.edu
+   Username: olsenh
+   Original line: Hans Olsen Head Coach olsenh@uncw.edu (910) 962-
+
+47. John Ware
+   Email: warej@uncw.edu
+   Username: warej
+   Original line: John Ware Associate Head Coach warej@uncw.edu (910) 962-
+
+48. Lo Hoyer
+   Email: hoyerl@uncw.edu
+   Username: hoyerl
+   Original line: Lo Hoyer Head Coach hoyerl@uncw.edu 651-308-
+
+49. Pete Hoyer
+   Email: hoyerp@uncw.edu
+   Username: hoyerp
+   Original line: Pete Hoyer Assistant Coach hoyerp@uncw.edu
+
+50. Rachel Bewick
+   Email: bewickr@uncw.edu
+   Username: bewickr
+   Original line: Rachel Bewick Assistant Coach bewickr@uncw.edu
+
+51. David Fischer
+   Email: fischerd@uncw.edu
+   Username: fischerd
+   Original line: David Fischer Head Coach fischerd@uncw.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Cay Manuel Assistant Sports Performance Coach (Softball, Volleyball, M/W manuelc@uncw.edu (910) 962-
+• Cameron Clark Assistant Sports Performance Coach (Women's Basketball, M/W Track & clarkcj@uncw.edu
+• Takayo Siddle Head Basketball Coach siddlet@uncw.edu (910) 962-
+• Kurt Kanaskie Associate Head Basketball Coach kanaskiek@uncw.edu
+• Craig Ponder Assistant Basketball Coach ponderc@uncw.edu
+• Paul Hemrick Assistant Basketball Coach hemrickp@uncw.edu
+• Hunter Henderson Asst. Coach / Director of Basketball Operations hendersonh@uncw.edu
+• Austin Parker Asst. Coach / Basketball Video Coordinator parkeraj@uncw.edu
+• Caegan Jackson Special Assistant to the Head Coach jacksonc@uncw.edu
+• Randy Hood Head Coach hoodr@uncw.edu (910) 962-
+• Chris Moore Assistant Coach moorecg@uncw.edu (910) 962-
+• Kelly Secrest Assistant Coach secrestk@uncw.edu (910) 962-
+• Josh Stott Assistant Coach stottp@uncw.edu (910) 962-
+• Nicole Woods Head Coach woodsa@uncw.edu
+• Cherie Lea Associate Head Coach leac@uncw.edu
+• Kevin Harris Assistant Coach harriskg@uncw.edu
+• Brittany Drew Assistant Coach drewb@uncw.edu
+• Madison Taylor Assistant Coach/Director of Operations taylorms@uncw.edu
+• Jeff Klaves Head Track & Field/Cross Country Coach klavesj@uncw.edu (910) 962-
+• Max Coleman Associate Head Coach colemanmj@uncw.edu
+• Jaden Kingsley Assistant Coach kingsleyj@uncw.edu
+• Blake Taylor Interim Head Coach taylorbs@uncw.edu
+• Cindy Ho Head Coach hoc@uncw.edu (910) 962-
+• Phu Khine Assistant Coach khinep@uncw.edu
+• Aidan Heaney Head Coach heaneya@uncw.edu (910) 962-
+• Lewis Dunne Assistant Coach dunnel@uncw.edu
+• Teig Lesko Assistant Coach leskoj@uncw.edu
+• Francisco Tomasino Assistant Goalkeeping Coach tomasinof@uncw.edu
+• Chris Neal Head Coach nealc@uncw.edu (910) 962-
+• Colin Barnes Associate Head Coach barnescs@uncw.edu
+• Savannah Stoughton Assistant Coach stoughtons@uncw.edu
+• Ashley Wade Head Coach wadea@uncw.edu
+• Abbey Latham Assistant Coach lathama@uncw.edu
+• Parker Stevens Assistant Coach stevensp@uncw.edu
+• Kyler Holton Assistant Coach holtonj@uncw.edu
+• Bobby Guntoro Head Coach guntorob@uncw.edu (910) 962-
+• Sarah Richards Associate Head Coach richardss@uncw.edu (910) 962-
+• Gavrilo Blijden Diving Coach blijdeng@uncw.edu
+• Brandon Ress Assistant Coach ressb@uncw.edu
+• Mait DuBois Head Coach duboism@uncw.edu (910) 962-
+• Taylor Vaughn Associate Head Tennis Coach vaughnt@uncw.edu (910) 962-
+• Gabriel Hurtado Assistant Coach gh9165@uncw.edu
+• Jeff Klaves Head Track & Field/Cross Country Coach klavesj@uncw.edu (910) 962-
+• Max Coleman Associate Head Coach colemanmj@uncw.edu
+• Donald Thomas Assistant Coach thomasd@uncw.edu (910) 962-
+• Hans Olsen Head Coach olsenh@uncw.edu (910) 962-
+• John Ware Associate Head Coach warej@uncw.edu (910) 962-
+• Lo Hoyer Head Coach hoyerl@uncw.edu 651-308-
+• Pete Hoyer Assistant Coach hoyerp@uncw.edu
+• Rachel Bewick Assistant Coach bewickr@uncw.edu
+• David Fischer Head Coach fischerd@uncw.edu

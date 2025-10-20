@@ -1,0 +1,212 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:03
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Taylor Clark
+   Email: tclark@bmc.edu
+   Username: tclark
+   Phone: 662.678.6505
+   Original line: Taylor Clark Head Coach tclark@bmc.edu 662.678.6505
+
+2. Nolan Stevens
+   Email: nstevens@bmc.edu
+   Username: nstevens
+   Phone: 662.685.4771
+   Original line: Nolan Stevens Assistant Coach nstevens@bmc.edu 662.685.4771
+
+3. Jeff Cook
+   Email: jcook@bmc.edu
+   Username: jcook
+   Phone: 662.685.4771
+   Original line: Jeff Cook Assistant Coach jcook@bmc.edu 662.685.4771
+
+4. Jeff Cook
+   Email: jcook@bmc.edu
+   Username: jcook
+   Phone: 662.685.4771
+   Original line: Jeff Cook Assistant Coach jcook@bmc.edu 662.685.4771
+
+5. Jermael Bingham
+   Email: jbingham@bmc.edu
+   Username: jbingham
+   Phone: 662.685.4771
+   Original line: Jermael Bingham Head Coach jbingham@bmc.edu 662.685.4771 x 403
+
+6. Harrison Fancher
+   Email: hfancher@bmc.edu
+   Username: hfancher
+   Phone: 662.685.4771
+   Original line: Harrison Fancher Assistant Coach/JV Head Coach hfancher@bmc.edu 662.685.4771 x 403
+
+7. Harrison Fancher
+   Email: hfancher@bmc.edu
+   Username: hfancher
+   Phone: 662.685.4771
+   Original line: Harrison Fancher Assistant Coach/JV Head Coach hfancher@bmc.edu 662.685.4771 x 403
+
+8. Tracy Rice
+   Email: trice@bmc.edu
+   Username: trice
+   Phone: 662.685.4771
+   Original line: Tracy Rice Head Coach trice@bmc.edu 662.685.4771 x 405
+
+9. Andrea Lewis
+   Email: alewis@bmc.edu
+   Username: alewis
+   Phone: 685-4771
+   Original line: Andrea Lewis Assistant Coach alewis@bmc.edu 662.685-4771 x 405
+
+10. Yazmine Norphlet
+   Email: ynorphlet@bmc.edu
+   Username: ynorphlet
+   Phone: 662.685.4771
+   Original line: Yazmine Norphlet Head Coach ynorphlet@bmc.edu 662.685.4771 x 405
+
+11. Phillip Laney
+   Email: planey@bmc.edu
+   Username: planey
+   Phone: 662.685.4771
+   Original line: Phillip Laney Head Coach planey@bmc.edu 662.685.4771 x 109
+
+12. Phillip Laney
+   Email: planey@bmc.edu
+   Username: planey
+   Phone: 662.685.4771
+   Original line: Phillip Laney Head Coach planey@bmc.edu 662.685.4771 x 109
+
+13. Phillip Laney
+   Email: planey@bmc.edu
+   Username: planey
+   Phone: 662.685.4771
+   Original line: Phillip Laney Head Coach planey@bmc.edu 662.685.4771 x 109
+
+14. Kevin Barefield
+   Email: kbarefield@bmc.edu
+   Username: kbarefield
+   Phone: 662.685.4771
+   Original line: Kevin Barefield Head Coach kbarefield@bmc.edu 662.685.4771 x 100
+
+15. Cam Kohl
+   Email: ckohl@bmc.edu
+   Username: ckohl
+   Phone: 662.685.4771
+   Original line: Cam Kohl Assistant Coach ckohl@bmc.edu 662.685.4771 x 134
+
+16. Matt Brunet
+   Email: mbrunet@bmc.edu
+   Username: mbrunet
+   Original line: Matt Brunet Head Coach mbrunet@bmc.edu
+
+17. M.J. George
+   Email: mgeorge@bmc.edu
+   Username: mgeorge
+   Phone: 662.685.4771
+   Original line: M.J. George Assistant Coach mgeorge@bmc.edu 662.685.4771
+
+18. Dana Horton
+   Email: dhorton@bmc.edu
+   Username: dhorton
+   Phone: 662.882.0757
+   Original line: Dana Horton Head Tennis Coach dhorton@bmc.edu 662.882.0757
+
+19. Sara Eason
+   Email: season@bmc.edu
+   Username: season
+   Phone: 662.685.4771
+   Original line: Sara Eason Head Coach season@bmc.edu 662.685.4771 x 414
+
+20. Hannah Cox
+   Email: hcox@bmc.edu
+   Username: hcox
+   Phone: 662.685.4771
+   Original line: Hannah Cox Assistant Coach hcox@bmc.edu 662.685.4771
+
+21. Peter Moore
+   Email: pmoore@bmc.edu
+   Username: pmoore
+   Phone: 662.416.6780
+   Original line: Peter Moore Interim Head Coach pmoore@bmc.edu 662.416.6780
+
+22. Breno Da
+   Email: bdacosta@bmc.edu
+   Username: bdacosta
+   Phone: 256.306.8422
+   Original line: Breno Da Costa Head Coach bdacosta@bmc.edu 256.306.8422
+
+23. Breno Da
+   Email: bdacosta@bmc.edu
+   Username: bdacosta
+   Phone: 256.306.8422
+   Original line: Breno Da Costa JV Head Coach bdacosta@bmc.edu 256.306.8422
+
+24. Jacob Hunt
+   Email: jhunt@bmc.edu
+   Username: jhunt
+   Phone: (662) 279-4179
+   Original line: Jacob Hunt Head Coach jhunt@bmc.edu (662) 279-4179
+
+25. Jacob Hunt
+   Email: jhunt@bmc.edu
+   Username: jhunt
+   Phone: (662) 279-4179
+   Original line: Jacob Hunt Head Women's Soccer Coach jhunt@bmc.edu (662) 279-4179
+
+26. Anna McCoy
+   Email: amccoy@bmc.edu
+   Username: amccoy
+   Phone: 662.685.4771
+   Original line: Anna McCoy Head Coach amccoy@bmc.edu 662.685.4771
+
+27. Trey Humphreys
+   Email: ehumphreys@bmc.edu
+   Username: ehumphreys
+   Phone: 662.507.2080
+   Original line: Trey Humphreys Head Coach ehumphreys@bmc.edu 662.507.2080
+
+28. Shane Cox
+   Email: scox@bmc.edu
+   Username: scox
+   Original line: Shane Cox Head Coach scox@bmc.edu scox@bmc.edu
+
+29. Jerrell Howell
+   Email: jhowell@bmc.edu
+   Username: jhowell
+   Phone: 662.507.2215
+   Original line: Jerrell Howell Head Coach jhowell@bmc.edu 662.507.2215
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Taylor Clark Head Coach tclark@bmc.edu 662.678.6505
+• Nolan Stevens Assistant Coach nstevens@bmc.edu 662.685.4771
+• Jeff Cook Assistant Coach jcook@bmc.edu 662.685.4771
+• Jeff Cook Assistant Coach jcook@bmc.edu 662.685.4771
+• Jermael Bingham Head Coach jbingham@bmc.edu 662.685.4771 x 403
+• Harrison Fancher Assistant Coach/JV Head Coach hfancher@bmc.edu 662.685.4771 x 403
+• Harrison Fancher Assistant Coach/JV Head Coach hfancher@bmc.edu 662.685.4771 x 403
+• Tracy Rice Head Coach trice@bmc.edu 662.685.4771 x 405
+• Andrea Lewis Assistant Coach alewis@bmc.edu 662.685-4771 x 405
+• Yazmine Norphlet Head Coach ynorphlet@bmc.edu 662.685.4771 x 405
+• Phillip Laney Head Coach planey@bmc.edu 662.685.4771 x 109
+• Phillip Laney Head Coach planey@bmc.edu 662.685.4771 x 109
+• Phillip Laney Head Coach planey@bmc.edu 662.685.4771 x 109
+• Kevin Barefield Head Coach kbarefield@bmc.edu 662.685.4771 x 100
+• Cam Kohl Assistant Coach ckohl@bmc.edu 662.685.4771 x 134
+• Matt Brunet Head Coach mbrunet@bmc.edu
+• M.J. George Assistant Coach mgeorge@bmc.edu 662.685.4771
+• Dana Horton Head Tennis Coach dhorton@bmc.edu 662.882.0757
+• Sara Eason Head Coach season@bmc.edu 662.685.4771 x 414
+• Hannah Cox Assistant Coach hcox@bmc.edu 662.685.4771
+• Peter Moore Interim Head Coach pmoore@bmc.edu 662.416.6780
+• Breno Da Costa Head Coach bdacosta@bmc.edu 256.306.8422
+• Breno Da Costa JV Head Coach bdacosta@bmc.edu 256.306.8422
+• Jacob Hunt Head Coach jhunt@bmc.edu (662) 279-4179
+• Jacob Hunt Head Women's Soccer Coach jhunt@bmc.edu (662) 279-4179
+• Anna McCoy Head Coach amccoy@bmc.edu 662.685.4771
+• Trey Humphreys Head Coach ehumphreys@bmc.edu 662.507.2080
+• Shane Cox Head Coach scox@bmc.edu scox@bmc.edu
+• Jerrell Howell Head Coach jhowell@bmc.edu 662.507.2215

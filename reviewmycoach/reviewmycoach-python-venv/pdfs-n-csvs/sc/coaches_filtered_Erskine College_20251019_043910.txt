@@ -1,0 +1,227 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:11
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Scotty Bateman
+   Email: bateman@erskine.edu
+   Username: bateman
+   Original line: Scotty Bateman Co-Head Baseball Coach bateman@erskine.edu
+
+2. Jimmy Prince
+   Email: jimmy.prince@erskine.edu
+   Username: jimmy.prince
+   Original line: Jimmy Prince Co-Head Baseball Coach jimmy.prince@erskine.edu @CoachJPrince12\
+
+3. Thomas Wheeler
+   Email: wheeler@erskine.edu
+   Username: wheeler
+   Original line: Thomas Wheeler Assistant Coach / Head Developmental wheeler@erskine.edu
+
+4. Michael Carpin
+   Email: mcarpin@erskine.edu
+   Username: mcarpin
+   Original line: Michael Carpin Assistant Pitching Coach / Head mcarpin@erskine.edu
+
+5. Jessy Camiré
+   Email: jessy.camire@erskine.edu
+   Username: jessy.camire
+   Original line: Jessy Camiré Assistant Coach / Head Strength & jessy.camire@erskine.edu
+
+6. Sulli Pinson
+   Email: pinsonsulli@gmail.com
+   Username: pinsonsulli
+   Original line: Sulli Pinson Assistant Coach / Outfielders Coach pinsonsulli@gmail.com
+
+7. Josean Sanchez
+   Email: josean.sanchez@erskine.edu
+   Username: josean.sanchez
+   Original line: Josean Sanchez Assistant Coach / Infielders Coach josean.sanchez@erskine.edu
+
+8. Dylan Wanat
+   Email: dylan.wanat@erskine.edu
+   Username: dylan.wanat
+   Original line: Dylan Wanat Assistant Hitting Coach / Outfielders dylan.wanat@erskine.edu
+
+9. Mark Peeler
+   Email: mlp@erskine.edu
+   Username: mlp
+   Original line: Mark Peeler Head Men's Basketball Coach mlp@erskine.edu 864-379-
+
+10. Jenkins Peeler
+   Email: jpeeler@erskine.edu
+   Username: jpeeler
+   Original line: Jenkins Peeler Assistant Men's Basketball Coach jpeeler@erskine.edu 864-993- @PeelerJenkins
+
+11. Lisa Jackson
+   Email: lisa.jackson@erskine.edu
+   Username: lisa.jackson
+   Original line: Lisa Jackson Head Women's Basketball Coach lisa.jackson@erskine.edu 864-379-
+
+12. Jason Williamson
+   Email: williamson@erskine.edu
+   Username: williamson
+   Original line: Jason Williamson Head Bass Fishing Coach williamson@erskine.edu
+
+13. Shane Lecroy
+   Email: lecroy@erskine.edu
+   Username: lecroy
+   Original line: Shane Lecroy Assistant Beach Volleyball Coach lecroy@erskine.edu
+
+14. Carly Rogers
+   Email: carly.rogers@erskine.edu
+   Username: carly.rogers
+   Original line: Carly Rogers Head Cheerleading / Dance Coach carly.rogers@erskine.edu
+
+15. Carly Egan
+   Email: carly.egan@erskine.edu
+   Username: carly.egan
+   Original line: Carly Egan Tumbling Coach carly.egan@erskine.edu
+
+16. Ester Alencar
+   Email: flagfootball@erskine.edu
+   Username: flagfootball
+   Original line: Ester Alencar Women's Flag Football Head Coach flagfootball@erskine.edu
+
+17. Shap Boyd
+   Email: football@erskine.edu
+   Username: football
+   Original line: Shap Boyd Head Football Coach football@erskine.edu 864-379-
+
+18. Dez Hopkins
+   Email: dez.hopkins@erskine.edu
+   Username: dez.hopkins
+   Original line: Dez Hopkins Cornerbacks Coach / Social Media dez.hopkins@erskine.edu @CoachDHop_24
+
+19. Chris Williams
+   Email: chris.williams@erskine.edu
+   Username: chris.williams
+   Original line: Chris Williams Linebackers Coach / Special Teams chris.williams@erskine.edu
+
+20. Bryce Nelson
+   Email: bryce.nelson@erskine.edu
+   Username: bryce.nelson
+   Original line: Bryce Nelson Offensive Line Coach / Equipment bryce.nelson@erskine.edu
+
+21. Martin Mathis
+   Email: mathis@erskine.edu
+   Username: mathis
+   Original line: Martin Mathis Defensive Line Coach / Special Teams mathis@erskine.edu
+
+22. Carlos Smith
+   Email: carlos.smith@erskine.edu
+   Username: carlos.smith
+   Original line: Carlos Smith Wide Receivers Coach carlos.smith@erskine.edu
+
+23. Terrell Pinson
+   Email: pinson@erskine.edu
+   Username: pinson
+   Original line: Terrell Pinson Running Backs Coach / Asst. Strength pinson@erskine.edu
+
+24. Jason Allen
+   Email: allen@erskine.edu
+   Username: allen
+   Original line: Jason Allen Director of Golf/Head Men's Golf Coach allen@erskine.edu 864-379-
+
+25. Madison Freeman
+   Email: freeman@erskine.edu
+   Username: freeman
+   Original line: Madison Freeman Head Women's Golf Coach freeman@erskine.edu
+
+26. Kelly McAlhaney
+   Email: rodeo@erskine.edu
+   Username: rodeo
+   Original line: Kelly McAlhaney Head Rodeo Coach rodeo@erskine.edu
+
+27. Brett W.
+   Email: gould@erskine.edu
+   Username: gould
+   Original line: Brett W. Gould Head Men's Soccer Coach gould@erskine.edu
+
+28. Ella Gould
+   Email: ella.gould@erskine.edu
+   Username: ella.gould
+   Original line: Ella Gould Assistant Men's Soccer Coach ella.gould@erskine.edu
+
+29. Lucy Hutto
+   Email: hutto@erskine.edu
+   Username: hutto
+   Original line: Lucy Hutto Head Women's Soccer Coach hutto@erskine.edu
+
+30. Cheyenne Fuller
+   Email: fuller@erskine.edu
+   Username: fuller
+   Original line: Cheyenne Fuller Assistant Women's Soccer Coach fuller@erskine.edu
+
+31. Alleen Hawkins
+   Email: hawkins@erskine.edu
+   Username: hawkins
+   Original line: Alleen Hawkins Head Softball Coach hawkins@erskine.edu 864-379-
+
+32. Taylor O'Brien
+   Email: brien@erskine.edu
+   Username: brien
+   Original line: Taylor O'Brien Assistant Softball Coach o'brien@erskine.edu
+
+33. Calhoun Parr
+   Email: parr@erskine.edu
+   Username: parr
+   Original line: Calhoun Parr Head Women's Tennis Coach parr@erskine.edu 864-379-
+
+34. Michael Parrish
+   Email: parrish@erskine.edu
+   Username: parrish
+   Original line: Michael Parrish Assistant Track & Field Coach parrish@erskine.edu
+
+35. Jason Sall
+   Email: sall@erskine.edu
+   Username: sall
+   Original line: Jason Sall Head Men's Volleyball Coach sall@erskine.edu
+
+36. Kelly Burdeau
+   Email: burdeau@erskine.edu
+   Username: burdeau
+   Original line: Kelly Burdeau Head Women's Volleyball Coach burdeau@erskine.edu 864-379- @FleetWomenVball
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Scotty Bateman Co-Head Baseball Coach bateman@erskine.edu
+• Jimmy Prince Co-Head Baseball Coach jimmy.prince@erskine.edu @CoachJPrince12\
+• Thomas Wheeler Assistant Coach / Head Developmental wheeler@erskine.edu
+• Michael Carpin Assistant Pitching Coach / Head mcarpin@erskine.edu
+• Jessy Camiré Assistant Coach / Head Strength & jessy.camire@erskine.edu
+• Sulli Pinson Assistant Coach / Outfielders Coach pinsonsulli@gmail.com
+• Josean Sanchez Assistant Coach / Infielders Coach josean.sanchez@erskine.edu
+• Dylan Wanat Assistant Hitting Coach / Outfielders dylan.wanat@erskine.edu
+• Mark Peeler Head Men's Basketball Coach mlp@erskine.edu 864-379-
+• Jenkins Peeler Assistant Men's Basketball Coach jpeeler@erskine.edu 864-993- @PeelerJenkins
+• Lisa Jackson Head Women's Basketball Coach lisa.jackson@erskine.edu 864-379-
+• Jason Williamson Head Bass Fishing Coach williamson@erskine.edu
+• Shane Lecroy Assistant Beach Volleyball Coach lecroy@erskine.edu
+• Carly Rogers Head Cheerleading / Dance Coach carly.rogers@erskine.edu
+• Carly Egan Tumbling Coach carly.egan@erskine.edu
+• Ester Alencar Women's Flag Football Head Coach flagfootball@erskine.edu
+• Shap Boyd Head Football Coach football@erskine.edu 864-379-
+• Dez Hopkins Cornerbacks Coach / Social Media dez.hopkins@erskine.edu @CoachDHop_24
+• Chris Williams Linebackers Coach / Special Teams chris.williams@erskine.edu
+• Bryce Nelson Offensive Line Coach / Equipment bryce.nelson@erskine.edu
+• Martin Mathis Defensive Line Coach / Special Teams mathis@erskine.edu
+• Carlos Smith Wide Receivers Coach carlos.smith@erskine.edu
+• Terrell Pinson Running Backs Coach / Asst. Strength pinson@erskine.edu
+• Jason Allen Director of Golf/Head Men's Golf Coach allen@erskine.edu 864-379-
+• Madison Freeman Head Women's Golf Coach freeman@erskine.edu
+• Kelly McAlhaney Head Rodeo Coach rodeo@erskine.edu
+• Brett W. Gould Head Men's Soccer Coach gould@erskine.edu
+• Ella Gould Assistant Men's Soccer Coach ella.gould@erskine.edu
+• Lucy Hutto Head Women's Soccer Coach hutto@erskine.edu
+• Cheyenne Fuller Assistant Women's Soccer Coach fuller@erskine.edu
+• Alleen Hawkins Head Softball Coach hawkins@erskine.edu 864-379-
+• Taylor O'Brien Assistant Softball Coach o'brien@erskine.edu
+• Calhoun Parr Head Women's Tennis Coach parr@erskine.edu 864-379-
+• Michael Parrish Assistant Track & Field Coach parrish@erskine.edu
+• Jason Sall Head Men's Volleyball Coach sall@erskine.edu
+• Kelly Burdeau Head Women's Volleyball Coach burdeau@erskine.edu 864-379- @FleetWomenVball

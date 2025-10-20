@@ -1,0 +1,148 @@
+COACH ENTRIES FOUND - 2025-09-27 16:45:33
+============================================================
+
+Total coaches found: 20
+
+PARSED ENTRIES:
+----------------------------------------
+1. Roger "The
+   Email: tottenr@uapb.edu
+   Username: tottenr
+   Phone: (870) 575-8544
+   Original line: Roger "The Legend" Totten Deputy Athletics Director / Head Golf Coach tottenr@uapb.edu (870) 575-8544
+
+2. Tony Hull
+   Email: hulla@uapb.edu
+   Username: hulla
+   Phone: (870) 575-8693
+   Original line: Tony Hull Offensive Coordinator/ QB Coach hulla@uapb.edu (870) 575-8693
+
+3. Tom Manley
+   Email: manleyt@uapb.edu
+   Username: manleyt
+   Phone: (870) 575-8639
+   Original line: Tom Manley Tight Ends Coach, Special Teams Coordinator manleyt@uapb.edu (870) 575-8639
+
+4. Miguel Black
+   Email: blackm@uapb.edu
+   Username: blackm
+   Original line: Miguel Black Running Backs Coach / Recruiting Coordinator blackm@uapb.edu
+
+5. Pierre Ingram
+   Email: ingramp@uapb.edu
+   Username: ingramp
+   Original line: Pierre Ingram Wide Receiver Coach ingramp@uapb.edu
+
+6. Solomon Bozeman
+   Email: bozemane@uapb.edu
+   Username: bozemane
+   Phone: (870)575-8657
+   Original line: Solomon Bozeman Head Coach bozemane@uapb.edu (870)575-8657
+
+7. Roger "The
+   Email: tottenr@uapb.edu
+   Username: tottenr
+   Phone: (870) 575-8544
+   Original line: Roger "The Legend" Totten Deputy Athletics Director / Head Golf Coach tottenr@uapb.edu (870) 575-8544
+
+8. Christopher McCoy
+   Email: mccoyc@uapb.edu
+   Username: mccoyc
+   Phone: (870) 575-8677
+   Original line: Christopher McCoy Head Coach mccoyc@uapb.edu (870) 575-8677
+
+9. Natoya Baird-Davidson
+   Email: bairddavidsonn@uapb.edu
+   Username: bairddavidsonn
+   Phone: (870) 575-7175
+   Original line: Natoya Baird-Davidson Assistant Coach bairddavidsonn@uapb.edu (870) 575-7175
+
+10. Arthur Thomas
+   Email: thomasa@uapb.edu
+   Username: thomasa
+   Phone: (870) 575-8617
+   Original line: Arthur Thomas Assistant Coach thomasa@uapb.edu (870) 575-8617
+
+11. Logan Stout
+   Email: StoutL@uapb.edu
+   Username: StoutL
+   Phone: (870) 575-8995
+   Original line: Logan Stout Head Coach StoutL@uapb.edu (870) 575-8995
+
+12. RJ Pearson
+   Email: Pearsonr@uapb.edu
+   Username: Pearsonr
+   Phone: (870) 575-8939
+   Original line: RJ Pearson Assistant Baseball Coach Pearsonr@uapb.edu (870) 575-8939
+
+13. Michael Bumpers
+   Email: bumpersm@uapb.edu
+   Username: bumpersm
+   Phone: (870) 575-8089
+   Original line: Michael Bumpers Head Coach bumpersm@uapb.edu (870) 575-8089
+
+14. Kristy Woods
+   Email: woodsk@uapb.edu
+   Username: woodsk
+   Phone: (870)575-8552
+   Original line: Kristy Woods Assistant Coach woodsk@uapb.edu (870)575-8552
+
+15. Gabrielle Floyd
+   Email: Floydg@uapb.edu
+   Username: Floydg
+   Phone: (870) 575-7931
+   Original line: Gabrielle Floyd Head Coach Floydg@uapb.edu (870) 575-7931
+
+16. Cornysia Island
+   Email: islandc@uapb.edu
+   Username: islandc
+   Phone: (870) 575-7960
+   Original line: Cornysia Island Assistant Volleyball Coach islandc@uapb.edu (870) 575-7960
+
+17. Emanuel Stephens
+   Email: StephensE@uapb.edu
+   Username: StephensE
+   Original line: Emanuel Stephens Head Soccer Coach StephensE@uapb.edu
+
+18. Erica Leak
+   Email: Leake@uapb.edu
+   Username: Leake
+   Phone: (870) 575-8694
+   Original line: Erica Leak Head Coach Leake@uapb.edu 870-575-8694
+
+19. Xavier Johnson
+   Email: johnsonx@uapb.edu
+   Username: johnsonx
+   Phone: (870) 575-8495
+   Original line: Xavier Johnson Assistant Women's Basketball Coach/ Recruiting johnsonx@uapb.edu (870) 575-8495
+
+20. Roderick Woods
+   Email: Woodsro@uapb.edu
+   Username: Woodsro
+   Phone: (870) 575-7174
+   Original line: Roderick Woods Assistant Women's Basketball Coach Woodsro@uapb.edu (870) 575-7174
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Roger "The Legend" Totten Deputy Athletics Director / Head Golf Coach tottenr@uapb.edu (870) 575-8544
+• Tony Hull Offensive Coordinator/ QB Coach hulla@uapb.edu (870) 575-8693
+• Tom Manley Tight Ends Coach, Special Teams Coordinator manleyt@uapb.edu (870) 575-8639
+• Miguel Black Running Backs Coach / Recruiting Coordinator blackm@uapb.edu
+• Pierre Ingram Wide Receiver Coach ingramp@uapb.edu
+• Solomon Bozeman Head Coach bozemane@uapb.edu (870)575-8657
+• Roger "The Legend" Totten Deputy Athletics Director / Head Golf Coach tottenr@uapb.edu (870) 575-8544
+• Christopher McCoy Head Coach mccoyc@uapb.edu (870) 575-8677
+• Natoya Baird-Davidson Assistant Coach bairddavidsonn@uapb.edu (870) 575-7175
+• Arthur Thomas Assistant Coach thomasa@uapb.edu (870) 575-8617
+• Logan Stout Head Coach StoutL@uapb.edu (870) 575-8995
+• RJ Pearson Assistant Baseball Coach Pearsonr@uapb.edu (870) 575-8939
+• Michael Bumpers Head Coach bumpersm@uapb.edu (870) 575-8089
+• Kristy Woods Assistant Coach woodsk@uapb.edu (870)575-8552
+• Gabrielle Floyd Head Coach Floydg@uapb.edu (870) 575-7931
+• Cornysia Island Assistant Volleyball Coach islandc@uapb.edu (870) 575-7960
+• Emanuel Stephens Head Soccer Coach StephensE@uapb.edu
+• Erica Leak Head Coach Leake@uapb.edu 870-575-8694
+• Xavier Johnson Assistant Women's Basketball Coach/ Recruiting johnsonx@uapb.edu (870) 575-8495
+• Roderick Woods Assistant Women's Basketball Coach Woodsro@uapb.edu (870) 575-7174

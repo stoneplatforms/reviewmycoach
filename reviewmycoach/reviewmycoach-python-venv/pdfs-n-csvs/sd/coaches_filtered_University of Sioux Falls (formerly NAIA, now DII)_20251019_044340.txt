@@ -1,0 +1,269 @@
+COACH ENTRIES FOUND - 2025-10-19 04:43:41
+============================================================
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Grant Hieb
+   Email: Grant.Hieb@USiouxFalls.edu
+   Username: Grant.Hieb
+   Original line: Grant Hieb Head Coach Grant.Hieb@USiouxFalls.edu 605-
+
+2. Rob Hirrschoff
+   Email: Rob.Hirrschoff@USiouxFalls.edu
+   Username: Rob.Hirrschoff
+   Original line: Rob Hirrschoff Pitching Coach Rob.Hirrschoff@USiouxFalls.edu 605-
+
+3. Brian Scherschligt
+   Email: Brian.Scherschligt@USiouxFalls.edu
+   Username: Brian.Scherschligt
+   Original line: Brian Scherschligt Assistant Coach Brian.Scherschligt@USiouxFalls.edu
+
+4. Chris Johnson
+   Email: Chris.Johnson@USiouxFalls.edu
+   Username: Chris.Johnson
+   Original line: Chris Johnson Head Coach Chris.Johnson@USiouxFalls.edu 605-
+
+5. Drew Guebert
+   Email: Drew.Guebert@USiouxFalls.edu
+   Username: Drew.Guebert
+   Original line: Drew Guebert Assistant Coach Drew.Guebert@USiouxFalls.edu 605-
+
+6. Travis Traphagen
+   Email: Travis.Traphagen@USiouxFalls.edu
+   Username: Travis.Traphagen
+   Original line: Travis Traphagen Head Coach Travis.Traphagen@USiouxFalls.edu 605-
+
+7. Shawn Bergan
+   Email: Shawn.Bergan@USiouxFalls.edu
+   Username: Shawn.Bergan
+   Original line: Shawn Bergan Assistant Coach Shawn.Bergan@USiouxFalls.edu 605-
+
+8. Kayla State
+   Email: Kayla.State@USiouxFalls.edu
+   Username: Kayla.State
+   Original line: Kayla State Head Coach Kayla.State@USiouxFalls.edu 605-
+
+9. Traci Osterberg
+   Email: Traci.Osterberg@USiouxFalls.edu
+   Username: Traci.Osterberg
+   Original line: Traci Osterberg Assistant Coach Traci.Osterberg@USiouxFalls.edu 605-
+
+10. Eric Chilson
+   Email: Eric.Chilson@USiouxFalls.edu
+   Username: Eric.Chilson
+   Original line: Eric Chilson Head Coach Eric.Chilson@USiouxFalls.edu 605-
+
+11. Zach Lundberg
+   Email: Zachary.Lundberg@USiouxFalls.edu
+   Username: Zachary.Lundberg
+   Original line: Zach Lundberg Assistant Coach - Distance Zachary.Lundberg@USiouxFalls.edu
+
+12. Jim Glogowski
+   Email: Jim.Glogowski@USiouxFalls.edu
+   Username: Jim.Glogowski
+   Original line: Jim Glogowski Head Coach Jim.Glogowski@USiouxFalls.edu 605-
+
+13. Lucas Lueders
+   Email: Lucas.Lueders@USiouxFalls.edu
+   Username: Lucas.Lueders
+   Original line: Lucas Lueders Assistant Head Coach - Offensive Lucas.Lueders@USiouxFalls.edu 605-
+
+14. Spencer Capitani
+   Email: Spencer.Capitani@USiouxFalls.edu
+   Username: Spencer.Capitani
+   Original line: Spencer Capitani Assistant Coach - Defensive Spencer.Capitani@USiouxFalls.edu 605-
+
+15. Alex Johnson
+   Email: Alexander.Johnson@USiouxFalls.edu
+   Username: Alexander.Johnson
+   Original line: Alex Johnson Assistant Coach - Recruiting Alexander.Johnson@USiouxFalls.edu
+
+16. Jay Schlichte
+   Email: Jay.Schlichte@USiouxFalls.edu
+   Username: Jay.Schlichte
+   Original line: Jay Schlichte Assistant Coach - Offensive Line Jay.Schlichte@USiouxFalls.edu
+
+17. Andre McCall
+   Email: Andre.McCall@USiouxFalls.edu
+   Username: Andre.McCall
+   Original line: Andre McCall Assistant Coach - Defensive Line Andre.McCall@USiouxFalls.edu 605-
+
+18. Keevan Lucas
+   Email: Keevan.Lucas@USiouxFalls.edu
+   Username: Keevan.Lucas
+   Original line: Keevan Lucas Assistant Coach - Wide Receivers Keevan.Lucas@USiouxFalls.edu
+
+19. Kyland Dickerson
+   Email: Kyland.Dickerson@USiouxFalls.edu
+   Username: Kyland.Dickerson
+   Original line: Kyland Dickerson Assistant Coach - Defensive Backs Kyland.Dickerson@USiouxFalls.edu
+
+20. Weston Bridges
+   Email: Weston.Bridges@USiouxFalls.edu
+   Username: Weston.Bridges
+   Original line: Weston Bridges Assistant Coach - Running Backs Weston.Bridges@USiouxFalls.edu
+
+21. Jakob Thut
+   Email: Jakob.Thut@USiouxFalls.edu
+   Username: Jakob.Thut
+   Original line: Jakob Thut Assistant Coach - Defensive Ends Jakob.Thut@USiouxFalls.edu
+
+22. George Dutcher
+   Email: George.Dutcher@USiouxFalls.edu
+   Username: George.Dutcher
+   Original line: George Dutcher Assistant Coach - Tight Ends George.Dutcher@USiouxFalls.edu
+
+23. Wade Merry
+   Email: Wade.Merry@USiouxFalls.edu
+   Username: Wade.Merry
+   Original line: Wade Merry Head Coach Wade.Merry@USiouxFalls.edu
+
+24. JJ Cooney
+   Email: Jonathan.Cooney@USiouxFalls.edu
+   Username: Jonathan.Cooney
+   Original line: JJ Cooney Assistant Coach Jonathan.Cooney@USiouxFalls.edu
+
+25. Wade Merry
+   Email: Wade.Merry@USiouxFalls.edu
+   Username: Wade.Merry
+   Original line: Wade Merry Head Coach Wade.Merry@USiouxFalls.edu
+
+26. JJ Cooney
+   Email: Jonathan.Cooney@USiouxFalls.edu
+   Username: Jonathan.Cooney
+   Original line: JJ Cooney Assistant Coach Jonathan.Cooney@USiouxFalls.edu
+
+27. Joe DeMay
+   Email: Joe.DeMay@USiouxFalls.edu
+   Username: Joe.DeMay
+   Original line: Joe DeMay Head Coach Joe.DeMay@USiouxFalls.edu (605)
+
+28. Hailee Fischer
+   Email: Hailee.Fischer@USiouxFalls.edu
+   Username: Hailee.Fischer
+   Original line: Hailee Fischer Assistant Coach Hailee.Fischer@USiouxFalls.edu
+
+29. Tommy Downs
+   Email: Tommy.Downs@USiouxFalls.edu
+   Username: Tommy.Downs
+   Original line: Tommy Downs Head Coach Tommy.Downs@USiouxFalls.edu (605)
+
+30. Maclai Branson
+   Email: Maclai.Branson@USiouxFalls.edu
+   Username: Maclai.Branson
+   Original line: Maclai Branson Assistant Coach Maclai.Branson@USiouxFalls.edu
+
+31. Rickey Perkins
+   Email: Rickey.Perkins@USiouxFalls.edu
+   Username: Rickey.Perkins
+   Original line: Rickey Perkins Head Coach Rickey.Perkins@USiouxFalls.edu
+
+32. Elizabeth Spaans
+   Email: Elizabeth.Spaans@USiouxFalls.edu
+   Username: Elizabeth.Spaans
+   Original line: Elizabeth Spaans Assistant Coach Elizabeth.Spaans@USiouxFalls.edu
+
+33. Kevin Grebin
+   Email: Kevin.Grebin@USiouxFalls.edu
+   Username: Kevin.Grebin
+   Original line: Kevin Grebin Head Coach Kevin.Grebin@USiouxFalls.edu 605-
+
+34. Eric Chilson
+   Email: Eric.Chilson@USiouxFalls.edu
+   Username: Eric.Chilson
+   Original line: Eric Chilson Head Coach Eric.Chilson@USiouxFalls.edu 605-
+
+35. Alissa Rausch
+   Email: Alissa.Rausch@USiouxFalls.edu
+   Username: Alissa.Rausch
+   Original line: Alissa Rausch Assistant Coach - Throws and Alissa.Rausch@USiouxFalls.edu 605-
+
+36. Kamberlyn Lamer
+   Email: Kamberlyn.Lamer@USiouxFalls.edu
+   Username: Kamberlyn.Lamer
+   Original line: Kamberlyn Lamer Assistant Coach - Jumps Kamberlyn.Lamer@USiouxFalls.edu 605-
+
+37. Zach Lundberg
+   Email: Zachary.Lundberg@USiouxFalls.edu
+   Username: Zachary.Lundberg
+   Original line: Zach Lundberg Assistant Coach - Distance Zachary.Lundberg@USiouxFalls.edu
+
+38. Dan Mathews
+   Email: Dan.Mathews@USiouxFalls.edu
+   Username: Dan.Mathews
+   Original line: Dan Mathews Head Coach Dan.Mathews@USiouxFalls.edu 605-
+
+39. Maura Chadwick
+   Email: Maura.Chadwick@USiouxFalls.edu
+   Username: Maura.Chadwick
+   Original line: Maura Chadwick Assistant Coach Maura.Chadwick@USiouxFalls.edu 605-
+
+40. Griffin Osing
+   Email: Griffin.Osing@USiouxFalls.edu
+   Username: Griffin.Osing
+   Original line: Griffin Osing Head Coach Griffin.Osing@USiouxFalls.edu 605-
+
+41. Jennesis Martinez
+   Email: Jennesis.Martinez@USiouxFalls.edu
+   Username: Jennesis.Martinez
+   Original line: Jennesis Martinez Assistant Coach Jennesis.Martinez@USiouxFalls.edu
+
+42. Matt Meuleners
+   Email: Matt.Meuleners@USiouxFalls.edu
+   Username: Matt.Meuleners
+   Original line: Matt Meuleners Head Coach Matt.Meuleners@USiouxFalls.edu 605-
+
+43. Caleb Meekins
+   Email: Caleb.Meekins@USiouxFalls.edu
+   Username: Caleb.Meekins
+   Original line: Caleb Meekins Assistant Coach Caleb.Meekins@USiouxFalls.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Grant Hieb Head Coach Grant.Hieb@USiouxFalls.edu 605-
+• Rob Hirrschoff Pitching Coach Rob.Hirrschoff@USiouxFalls.edu 605-
+• Brian Scherschligt Assistant Coach Brian.Scherschligt@USiouxFalls.edu
+• Chris Johnson Head Coach Chris.Johnson@USiouxFalls.edu 605-
+• Drew Guebert Assistant Coach Drew.Guebert@USiouxFalls.edu 605-
+• Travis Traphagen Head Coach Travis.Traphagen@USiouxFalls.edu 605-
+• Shawn Bergan Assistant Coach Shawn.Bergan@USiouxFalls.edu 605-
+• Kayla State Head Coach Kayla.State@USiouxFalls.edu 605-
+• Traci Osterberg Assistant Coach Traci.Osterberg@USiouxFalls.edu 605-
+• Eric Chilson Head Coach Eric.Chilson@USiouxFalls.edu 605-
+• Zach Lundberg Assistant Coach - Distance Zachary.Lundberg@USiouxFalls.edu
+• Jim Glogowski Head Coach Jim.Glogowski@USiouxFalls.edu 605-
+• Lucas Lueders Assistant Head Coach - Offensive Lucas.Lueders@USiouxFalls.edu 605-
+• Spencer Capitani Assistant Coach - Defensive Spencer.Capitani@USiouxFalls.edu 605-
+• Alex Johnson Assistant Coach - Recruiting Alexander.Johnson@USiouxFalls.edu
+• Jay Schlichte Assistant Coach - Offensive Line Jay.Schlichte@USiouxFalls.edu
+• Andre McCall Assistant Coach - Defensive Line Andre.McCall@USiouxFalls.edu 605-
+• Keevan Lucas Assistant Coach - Wide Receivers Keevan.Lucas@USiouxFalls.edu
+• Kyland Dickerson Assistant Coach - Defensive Backs Kyland.Dickerson@USiouxFalls.edu
+• Weston Bridges Assistant Coach - Running Backs Weston.Bridges@USiouxFalls.edu
+• Jakob Thut Assistant Coach - Defensive Ends Jakob.Thut@USiouxFalls.edu
+• George Dutcher Assistant Coach - Tight Ends George.Dutcher@USiouxFalls.edu
+• Wade Merry Head Coach Wade.Merry@USiouxFalls.edu
+• JJ Cooney Assistant Coach Jonathan.Cooney@USiouxFalls.edu
+• Wade Merry Head Coach Wade.Merry@USiouxFalls.edu
+• JJ Cooney Assistant Coach Jonathan.Cooney@USiouxFalls.edu
+• Joe DeMay Head Coach Joe.DeMay@USiouxFalls.edu (605)
+• Hailee Fischer Assistant Coach Hailee.Fischer@USiouxFalls.edu
+• Tommy Downs Head Coach Tommy.Downs@USiouxFalls.edu (605)
+• Maclai Branson Assistant Coach Maclai.Branson@USiouxFalls.edu
+• Rickey Perkins Head Coach Rickey.Perkins@USiouxFalls.edu
+• Elizabeth Spaans Assistant Coach Elizabeth.Spaans@USiouxFalls.edu
+• Kevin Grebin Head Coach Kevin.Grebin@USiouxFalls.edu 605-
+• Eric Chilson Head Coach Eric.Chilson@USiouxFalls.edu 605-
+• Alissa Rausch Assistant Coach - Throws and Alissa.Rausch@USiouxFalls.edu 605-
+• Kamberlyn Lamer Assistant Coach - Jumps Kamberlyn.Lamer@USiouxFalls.edu 605-
+• Zach Lundberg Assistant Coach - Distance Zachary.Lundberg@USiouxFalls.edu
+• Dan Mathews Head Coach Dan.Mathews@USiouxFalls.edu 605-
+• Maura Chadwick Assistant Coach Maura.Chadwick@USiouxFalls.edu 605-
+• Griffin Osing Head Coach Griffin.Osing@USiouxFalls.edu 605-
+• Jennesis Martinez Assistant Coach Jennesis.Martinez@USiouxFalls.edu
+• Matt Meuleners Head Coach Matt.Meuleners@USiouxFalls.edu 605-
+• Caleb Meekins Assistant Coach Caleb.Meekins@USiouxFalls.edu

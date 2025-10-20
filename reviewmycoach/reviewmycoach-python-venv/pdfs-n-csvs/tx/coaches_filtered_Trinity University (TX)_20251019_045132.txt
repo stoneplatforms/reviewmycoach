@@ -1,0 +1,365 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:32
+============================================================
+
+Total coaches found: 55
+
+PARSED ENTRIES:
+----------------------------------------
+1. Julie Jenkins
+   Email: jjenkins@trinity.edu
+   Username: jjenkins
+   Phone: (210) 999-8274
+   Original line: Julie Jenkins Associate Director of Athletics for Compliance/SWA/Head Volleyball Coach 210-999-8274 jjenkins@trinity.edu
+
+2. Julie Jenkins
+   Email: jjenkins@trinity.edu
+   Username: jjenkins
+   Phone: (210) 999-8274
+   Original line: Julie Jenkins Associate Director of Athletics for Compliance/SWA/Head Volleyball Coach 210-999-8274 jjenkins@trinity.edu
+
+3. Dylan Harrison
+   Email: dharris2@trinity.edu
+   Username: dharris2
+   Phone: (210) 999-8286
+   Original line: Dylan Harrison Head Women's Soccer Coach 210-999-8286 dharris2@trinity.edu
+
+4. Russell McMindes
+   Email: Russell.McMindes@trinity.edu
+   Username: Russell.McMindes
+   Phone: (210) 999-8946
+   Original line: Russell McMindes Head Men's Tennis Coach 210-999-8946 Russell.McMindes@trinity.edu
+
+5. Drew Cohn
+   Email: acohn@trinity.edu
+   Username: acohn
+   Original line: Drew Cohn Head Women's Tennis Coach acohn@trinity.edu
+
+6. Daniel Martinez
+   Email: dmartin4@trinity.edu
+   Username: dmartin4
+   Phone: (210) 999-8855
+   Original line: Daniel Martinez Coordinator of the Sports Performance Center/Strength Coach 210-999-8855 dmartin4@trinity.edu
+
+7. Tim Scannell
+   Email: tscannel@trinity.edu
+   Username: tscannel
+   Phone: (210) 999-8287
+   Original line: Tim Scannell Head Baseball Coach 210-999-8287 tscannel@trinity.edu
+
+8. Dave Smith
+   Email: dsmith4@trinity.edu
+   Username: dsmith4
+   Original line: Dave Smith Pitching Coach dsmith4@trinity.edu
+
+9. Joey Dearing
+   Email: jdearing@trinity.edu
+   Username: jdearing
+   Original line: Joey Dearing Assistant Baseball Coach jdearing@trinity.edu
+
+10. Zach Fregosi
+   Email: zfregosi@trinity.edu
+   Username: zfregosi
+   Phone: (210) 999-8915
+   Original line: Zach Fregosi Assistant Baseball Coach 210-999-8915 zfregosi@trinity.edu
+
+11. Marwan Elrakabawy
+   Email: elrakabmar771@trinity.edu
+   Username: elrakabmar771
+   Phone: (210) 999-8275
+   Original line: Marwan Elrakabawy Head Men's Basketball Coach 210-999-8275 elrakabmar771@trinity.edu
+
+12. Sterling Holmes
+   Email: sholmes1@trinity.edu
+   Username: sholmes1
+   Original line: Sterling Holmes Assistant Men's Basketball Coach sholmes1@trinity.edu
+
+13. Mark Jablonski
+   Email: jablonsmar849@trinity.edu
+   Username: jablonsmar849
+   Original line: Mark Jablonski Assistant Men's Basketball Coach jablonsmar849@trinity.edu
+
+14. Cameron Hill
+   Email: chill3@trinity.edu
+   Username: chill3
+   Phone: (210) 999-8276
+   Original line: Cameron Hill Head Women's Basketball Coach 210-999-8276 chill3@trinity.edu
+
+15. John Franklin
+   Email: jfrankl2@trinity.edu
+   Username: jfrankl2
+   Phone: (210) 999-8855
+   Original line: John Franklin Assistant Women's Basketball Coach 210-999-8855 jfrankl2@trinity.edu
+
+16. Emily Daum
+   Email: emily.daum@trinity.edu
+   Username: emily.daum
+   Phone: (210) 999-7064
+   Original line: Emily Daum Head Cross Country Coach 210-999-7064 emily.daum@trinity.edu
+
+17. Lauren Loeffler
+   Email: lreich@trinity.edu
+   Username: lreich
+   Original line: Lauren Loeffler Assistant Cross Country Coach lreich@trinity.edu
+
+18. Paul Michalak
+   Email: pmichala@trinity.edu
+   Username: pmichala
+   Phone: (210) 999-8282
+   Original line: Paul Michalak Asst. Head Coach/Defensive Coordinator, Linebackers 210-999-8282 pmichala@trinity.edu
+
+19. Jeremy Gezella
+   Email: jgezella@trinity.edu
+   Username: jgezella
+   Phone: (210) 999-7436
+   Original line: Jeremy Gezella Assistant Football Coach, Wide Receivers/Recruiting Coord. 210-999-7436 jgezella@trinity.edu
+
+20. Austin Grauer
+   Email: agrauer@trinity.edu
+   Username: agrauer
+   Original line: Austin Grauer Assistant Football Coach, Defensive Backs agrauer@trinity.edu
+
+21. Joshua Cook
+   Email: jcook1@trinity.edu
+   Username: jcook1
+   Original line: Joshua Cook Assistant Football Coach, Cornerbacks jcook1@trinity.edu
+
+22. Bryan Dausin
+   Email: bdausin@trinity.edu
+   Username: bdausin
+   Original line: Bryan Dausin Assistant Football Coach, Defensive Line bdausin@trinity.edu
+
+23. Quentin Carter
+   Email: qcarter@trinity.edu
+   Username: qcarter
+   Phone: (210) 999-7263
+   Original line: Quentin Carter Assistant Football Coach, Defensive Backs/Special Teams 210-999-7263 qcarter@trinity.edu
+
+24. Rob Schoenfeld
+   Email: rschoenf@trinity.edu
+   Username: rschoenf
+   Original line: Rob Schoenfeld Assistant Football Coach, Director of Football Ops/High School Relations rschoenf@trinity.edu
+
+25. Dave Beaudin
+   Email: dbeaudin@trinity.edu
+   Username: dbeaudin
+   Original line: Dave Beaudin Assistant Football Coach, Running Backs/Run Game Coord. dbeaudin@trinity.edu
+
+26. Joseph Muscarella
+   Email: muscarejos871@trinity.edu
+   Username: muscarejos871
+   Original line: Joseph Muscarella Assistant Football Coach, Tight Ends muscarejos871@trinity.edu
+
+27. Christian Haynes
+   Email: hayneschr850@trinity.edu
+   Username: hayneschr850
+   Original line: Christian Haynes Assistant Football Coach, Personnel and Recruiting hayneschr850@trinity.edu
+
+28. Campbell Miller
+   Email: emiller5@trinity.edu
+   Username: emiller5
+   Original line: Campbell Miller Assistant Football Coach, Defense emiller5@trinity.edu
+
+29. John IV
+   Email: whitejoh904@trinity.edu
+   Username: whitejoh904
+   Original line: John IV White Assistant Football Coach, Advanced Scouting/Recruiting Evaluations whitejoh904@trinity.edu
+
+30. Sean Etheredge
+   Email: sethered@trinity.edu
+   Username: sethered
+   Phone: (210) 999-8046
+   Original line: Sean Etheredge Director of Golf; Head Men's Golf Coach 210-999-8046 sethered@trinity.edu
+
+31. Shelby DeVore
+   Email: sdevore@trinity.edu
+   Username: sdevore
+   Original line: Shelby DeVore Head Women's Golf Coach sdevore@trinity.edu
+
+32. Paul McGinlay
+   Email: pmcginla@trinity.edu
+   Username: pmcginla
+   Phone: 210.999.8270
+   Original line: Paul McGinlay Head Men's Soccer Coach 210.999.8270 pmcginla@trinity.edu
+
+33. Matthew Kirk
+   Email: mkirk@trinity.edu
+   Username: mkirk
+   Original line: Matthew Kirk Assistant Men's Soccer Coach mkirk@trinity.edu
+
+34. Pieter Blank
+   Email: pblank@trinity.edu
+   Username: pblank
+   Original line: Pieter Blank Assistant Coach pblank@trinity.edu
+
+35. Jozsef Terenyi
+   Email: jterenyi@trinity.edu
+   Username: jterenyi
+   Original line: Jozsef Terenyi Assistant Coach/Data Analytics jterenyi@trinity.edu
+
+36. Austin Wilman
+   Email: awilman@trinity.edu
+   Username: awilman
+   Original line: Austin Wilman Goalkeeper Coach awilman@trinity.edu
+
+37. Dylan Harrison
+   Email: dharris2@trinity.edu
+   Username: dharris2
+   Phone: (210) 999-8286
+   Original line: Dylan Harrison Head Women's Soccer Coach 210-999-8286 dharris2@trinity.edu
+
+38. Spencer Valdespino
+   Email: svaldesp@trinity.edu
+   Username: svaldesp
+   Original line: Spencer Valdespino Assistant Women's Soccer Coach svaldesp@trinity.edu
+
+39. Bailey Wittenauer
+   Email: bwittena@trinity.edu
+   Username: bwittena
+   Phone: (210) 999-8028
+   Original line: Bailey Wittenauer Head Softball Coach 210-999-8028 bwittena@trinity.edu
+
+40. Jazmyne Cortinas
+   Email: jcortina@trinity.edu
+   Username: jcortina
+   Original line: Jazmyne Cortinas Assistant Softball Coach jcortina@trinity.edu
+
+41. David Ramirez
+   Email: dramire3@trinity.edu
+   Username: dramire3
+   Original line: David Ramirez Volunteer Assistant Softball Coach dramire3@trinity.edu
+
+42. Lillian Ramirez
+   Email: lramire5@trinity.edu
+   Username: lramire5
+   Original line: Lillian Ramirez Volunteer Assistant Softball Coach lramire5@trinity.edu
+
+43. Cathleen Pruden
+   Email: cpruden@trinity.edu
+   Username: cpruden
+   Phone: (210) 999-8434
+   Original line: Cathleen Pruden Head Swimming & Diving Coach / SAAC Rep 210-999-8434 cpruden@trinity.edu
+
+44. Mabel Fowler
+   Email: mfowler@trinity.edu
+   Username: mfowler
+   Original line: Mabel Fowler Assistant Swimming & Diving Coach mfowler@trinity.edu
+
+45. Tommy Law
+   Email: tlaw@trinity.edu
+   Username: tlaw
+   Original line: Tommy Law Diving Coach tlaw@trinity.edu
+
+46. George Black
+   Email: gblack@trinity.edu
+   Username: gblack
+   Original line: George Black Assistant Swimming & Diving Coach gblack@trinity.edu
+
+47. Russell McMindes
+   Email: Russell.McMindes@trinity.edu
+   Username: Russell.McMindes
+   Phone: (210) 999-8946
+   Original line: Russell McMindes Head Men's Tennis Coach 210-999-8946 Russell.McMindes@trinity.edu
+
+48. Drew Cohn
+   Email: acohn@trinity.edu
+   Username: acohn
+   Original line: Drew Cohn Head Women's Tennis Coach acohn@trinity.edu
+
+49. Annie Wise
+   Email: awise3@trinity.edu
+   Username: awise3
+   Original line: Annie Wise Assistant Women's Tennis Coach awise3@trinity.edu
+
+50. Marcus Whitehead
+   Email: mwhitehe@trinity.edu
+   Username: mwhitehe
+   Phone: (210) 999-8576
+   Original line: Marcus Whitehead Head Track & Field Coach 210-999-8576 mwhitehe@trinity.edu
+
+51. Emily Daum
+   Email: emily.daum@trinity.edu
+   Username: emily.daum
+   Phone: (210) 999-7064
+   Original line: Emily Daum Head Cross Country Coach 210-999-7064 emily.daum@trinity.edu
+
+52. Thomas Dimitri
+   Email: tdimitri@trinity.edu
+   Username: tdimitri
+   Phone: (210) 999-8289
+   Original line: Thomas Dimitri Assistant Track & Field Coach 210-999-8289 tdimitri@trinity.edu
+
+53. Lauren Loeffler
+   Email: lreich@trinity.edu
+   Username: lreich
+   Original line: Lauren Loeffler Assistant Cross Country Coach lreich@trinity.edu
+
+54. Julie Jenkins
+   Email: jjenkins@trinity.edu
+   Username: jjenkins
+   Phone: (210) 999-8274
+   Original line: Julie Jenkins Associate Director of Athletics for Compliance/SWA/Head Volleyball Coach 210-999-8274 jjenkins@trinity.edu
+
+55. Maggi Linker
+   Email: mlinker@trinity.edu
+   Username: mlinker
+   Original line: Maggi Linker Assistant Volleyball Coach mlinker@trinity.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Julie Jenkins Associate Director of Athletics for Compliance/SWA/Head Volleyball Coach 210-999-8274 jjenkins@trinity.edu
+• Julie Jenkins Associate Director of Athletics for Compliance/SWA/Head Volleyball Coach 210-999-8274 jjenkins@trinity.edu
+• Dylan Harrison Head Women's Soccer Coach 210-999-8286 dharris2@trinity.edu
+• Russell McMindes Head Men's Tennis Coach 210-999-8946 Russell.McMindes@trinity.edu
+• Drew Cohn Head Women's Tennis Coach acohn@trinity.edu
+• Daniel Martinez Coordinator of the Sports Performance Center/Strength Coach 210-999-8855 dmartin4@trinity.edu
+• Tim Scannell Head Baseball Coach 210-999-8287 tscannel@trinity.edu
+• Dave Smith Pitching Coach dsmith4@trinity.edu
+• Joey Dearing Assistant Baseball Coach jdearing@trinity.edu
+• Zach Fregosi Assistant Baseball Coach 210-999-8915 zfregosi@trinity.edu
+• Marwan Elrakabawy Head Men's Basketball Coach 210-999-8275 elrakabmar771@trinity.edu
+• Sterling Holmes Assistant Men's Basketball Coach sholmes1@trinity.edu
+• Mark Jablonski Assistant Men's Basketball Coach jablonsmar849@trinity.edu
+• Cameron Hill Head Women's Basketball Coach 210-999-8276 chill3@trinity.edu
+• John Franklin Assistant Women's Basketball Coach 210-999-8855 jfrankl2@trinity.edu
+• Emily Daum Head Cross Country Coach 210-999-7064 emily.daum@trinity.edu
+• Lauren Loeffler Assistant Cross Country Coach lreich@trinity.edu
+• Paul Michalak Asst. Head Coach/Defensive Coordinator, Linebackers 210-999-8282 pmichala@trinity.edu
+• Jeremy Gezella Assistant Football Coach, Wide Receivers/Recruiting Coord. 210-999-7436 jgezella@trinity.edu
+• Austin Grauer Assistant Football Coach, Defensive Backs agrauer@trinity.edu
+• Joshua Cook Assistant Football Coach, Cornerbacks jcook1@trinity.edu
+• Bryan Dausin Assistant Football Coach, Defensive Line bdausin@trinity.edu
+• Quentin Carter Assistant Football Coach, Defensive Backs/Special Teams 210-999-7263 qcarter@trinity.edu
+• Rob Schoenfeld Assistant Football Coach, Director of Football Ops/High School Relations rschoenf@trinity.edu
+• Dave Beaudin Assistant Football Coach, Running Backs/Run Game Coord. dbeaudin@trinity.edu
+• Joseph Muscarella Assistant Football Coach, Tight Ends muscarejos871@trinity.edu
+• Christian Haynes Assistant Football Coach, Personnel and Recruiting hayneschr850@trinity.edu
+• Campbell Miller Assistant Football Coach, Defense emiller5@trinity.edu
+• John IV White Assistant Football Coach, Advanced Scouting/Recruiting Evaluations whitejoh904@trinity.edu
+• Sean Etheredge Director of Golf; Head Men's Golf Coach 210-999-8046 sethered@trinity.edu
+• Shelby DeVore Head Women's Golf Coach sdevore@trinity.edu
+• Paul McGinlay Head Men's Soccer Coach 210.999.8270 pmcginla@trinity.edu
+• Matthew Kirk Assistant Men's Soccer Coach mkirk@trinity.edu
+• Pieter Blank Assistant Coach pblank@trinity.edu
+• Jozsef Terenyi Assistant Coach/Data Analytics jterenyi@trinity.edu
+• Austin Wilman Goalkeeper Coach awilman@trinity.edu
+• Dylan Harrison Head Women's Soccer Coach 210-999-8286 dharris2@trinity.edu
+• Spencer Valdespino Assistant Women's Soccer Coach svaldesp@trinity.edu
+• Bailey Wittenauer Head Softball Coach 210-999-8028 bwittena@trinity.edu
+• Jazmyne Cortinas Assistant Softball Coach jcortina@trinity.edu
+• David Ramirez Volunteer Assistant Softball Coach dramire3@trinity.edu
+• Lillian Ramirez Volunteer Assistant Softball Coach lramire5@trinity.edu
+• Cathleen Pruden Head Swimming & Diving Coach / SAAC Rep 210-999-8434 cpruden@trinity.edu
+• Mabel Fowler Assistant Swimming & Diving Coach mfowler@trinity.edu
+• Tommy Law Diving Coach tlaw@trinity.edu
+• George Black Assistant Swimming & Diving Coach gblack@trinity.edu
+• Russell McMindes Head Men's Tennis Coach 210-999-8946 Russell.McMindes@trinity.edu
+• Drew Cohn Head Women's Tennis Coach acohn@trinity.edu
+• Annie Wise Assistant Women's Tennis Coach awise3@trinity.edu
+• Marcus Whitehead Head Track & Field Coach 210-999-8576 mwhitehe@trinity.edu
+• Emily Daum Head Cross Country Coach 210-999-7064 emily.daum@trinity.edu
+• Thomas Dimitri Assistant Track & Field Coach 210-999-8289 tdimitri@trinity.edu
+• Lauren Loeffler Assistant Cross Country Coach lreich@trinity.edu
+• Julie Jenkins Associate Director of Athletics for Compliance/SWA/Head Volleyball Coach 210-999-8274 jjenkins@trinity.edu
+• Maggi Linker Assistant Volleyball Coach mlinker@trinity.edu

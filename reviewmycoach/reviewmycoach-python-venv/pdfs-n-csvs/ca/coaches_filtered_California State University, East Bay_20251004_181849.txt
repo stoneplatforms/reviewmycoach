@@ -1,0 +1,227 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:49
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Alex Lopez,
+   Email: alex.lopez@csueastbay.edu
+   Username: alex.lopez
+   Original line: Alex Lopez, CSCS Sports Performance Coach alex.lopez@csueastbay.edu
+
+2. Mike Cummins
+   Email: mike.cummins@csueastbay.edu
+   Username: mike.cummins
+   Original line: Mike Cummins Head Baseball Coach mike.cummins@csueastbay.edu (510) 885-
+
+3. Matt Page
+   Email: matt.page@csueastbay.edu
+   Username: matt.page
+   Original line: Matt Page Assistant Baseball Coach matt.page@csueastbay.edu (510) 885-
+
+4. Cole Coffey
+   Email: cole.coffey@csueastbay.edu
+   Username: cole.coffey
+   Original line: Cole Coffey Assistant Baseball Coach cole.coffey@csueastbay.edu (510) 885-
+
+5. Enrique Nunez
+   Email: enrique.nunez@csueastbay.edu
+   Username: enrique.nunez
+   Original line: Enrique Nunez Assistant Baseball Coach enrique.nunez@csueastbay.edu
+
+6. Bryan Rooney
+   Email: bryan.rooney@csueastbay.edu
+   Username: bryan.rooney
+   Original line: Bryan Rooney Head Men's Basketball Coach bryan.rooney@csueastbay.edu (510) 885-
+
+7. Mikey Eggleton
+   Email: michael.eggleton@csueastbay.edu
+   Username: michael.eggleton
+   Original line: Mikey Eggleton Assistant Men's Basketball Coach michael.eggleton@csueastbay.edu (510) 885-
+
+8. Russell Payne
+   Email: russell.payne@csueastbay.edu
+   Username: russell.payne
+   Original line: Russell Payne Assistant Men's Basketball Coach russell.payne@csueastbay.edu (510) 885-
+
+9. Craig Ashmore
+   Email: craig.ashmore@csueastbay.edu
+   Username: craig.ashmore
+   Original line: Craig Ashmore Assistant Men's Basketball Coach craig.ashmore@csueastbay.edu
+
+10. Bryce Duncan
+   Email: bryce.duncan@csueastbay.edu
+   Username: bryce.duncan
+   Original line: Bryce Duncan Assistant Men's Basketball Coach bryce.duncan@csueastbay.edu
+
+11. Jenny Thigpin
+   Email: jenny.thigpin@csueastbay.edu
+   Username: jenny.thigpin
+   Original line: Jenny Thigpin Head Women's Basketball Coach jenny.thigpin@csueastbay.edu (510) 885-
+
+12. Miles Brookins
+   Email: miles.brookins@csueastbay.edu
+   Username: miles.brookins
+   Original line: Miles Brookins Assistant Women's Basketball Coach miles.brookins@csueastbay.edu
+
+13. Naomi Hunt
+   Email: naomi.hunt@csueastbay.edu
+   Username: naomi.hunt
+   Original line: Naomi Hunt Assistant Women's Basketball Coach naomi.hunt@csueastbay.edu
+
+14. Deborah Ayres
+   Email: deborah.ayres@csueastbay.edu
+   Username: deborah.ayres
+   Original line: Deborah Ayres Assistant Women's Basketball Coach deborah.ayres@csueastbay.edu
+
+15. Norm Alston
+   Email: norman.alston@csueastbay.edu
+   Username: norman.alston
+   Original line: Norm Alston Head Cross Country and Track & Field Coach norman.alston@csueastbay.edu (510) 885-
+
+16. Ayla Granados
+   Email: ayla.granados@csueastbay.edu
+   Username: ayla.granados
+   Original line: Ayla Granados Assistant Cross Country and Track & Field Coach ayla.granados@csueastbay.edu
+
+17. Alan Sue
+   Email: alan.sue@csueastbay.edu
+   Username: alan.sue
+   Original line: Alan Sue Head Golf Coach alan.sue@csueastbay.edu (510) 885-
+
+18. Chris Oetinger
+   Email: christopher.oetinger@csueastbay.edu
+   Username: christopher.oetinger
+   Original line: Chris Oetinger Golf Coach christopher.oetinger@csueastbay.edu
+
+19. Arrianna Custodio
+   Email: arrianna.custodio@csueastbay.edu
+   Username: arrianna.custodio
+   Original line: Arrianna Custodio Assistant Golf Coach arrianna.custodio@csueastbay.edu
+
+20. Michael Haswell
+   Email: michael.haswell@csueastbay.edu
+   Username: michael.haswell
+   Original line: Michael Haswell Head Men's Soccer Coach michael.haswell@csueastbay.edu (510) 885-
+
+21. Michael Hannon
+   Email: michael.hannon2@csueastbay.edu
+   Username: michael.hannon2
+   Original line: Michael Hannon Assistant Men's Soccer Coach michael.hannon2@csueastbay.edu (510) 885-
+
+22. Kevin Esquivel
+   Email: kevin.esquivel@csueastbay.edu
+   Username: kevin.esquivel
+   Original line: Kevin Esquivel Assistant Men's Soccer Coach kevin.esquivel@csueastbay.edu
+
+23. Evan Sanchez
+   Email: evan.guidicisanchez@csueastbay.edu
+   Username: evan.guidicisanchez
+   Original line: Evan Sanchez Assistant Men's Soccer Coach evan.guidicisanchez@csueastbay.edu
+
+24. Dannylo Ayllon
+   Email: dannylo.ayllon@csueastbay.edu
+   Username: dannylo.ayllon
+   Original line: Dannylo Ayllon Assistant Men's Soccer Coach dannylo.ayllon@csueastbay.edu
+
+25. Anne Whipple
+   Email: anne.whipple@csueastbay.edu
+   Username: anne.whipple
+   Original line: Anne Whipple Head Women's Soccer Coach anne.whipple@csueastbay.edu (510) 885-
+
+26. Jessica Clinton
+   Email: jessica.clinton@csueastbay.edu
+   Username: jessica.clinton
+   Original line: Jessica Clinton Assistant Women's Soccer Coach jessica.clinton@csueastbay.edu (510) 885-
+
+27. Claire Sua-Amundson
+   Email: claire.amundson@csueastbay.edu
+   Username: claire.amundson
+   Original line: Claire Sua-Amundson Head Softball Coach claire.amundson@csueastbay.edu (510) 885-
+
+28. Abby Greer
+   Email: abby.greer@csueastbay.edu
+   Username: abby.greer
+   Original line: Abby Greer Assistant Softball Coach abby.greer@csueastbay.edu
+
+29. Steve Rianda
+   Email: steve.rianda@csueastbay.edu
+   Username: steve.rianda
+   Original line: Steve Rianda Assistant Softball Coach steve.rianda@csueastbay.edu
+
+30. Shane Pelton
+   Email: shane.pelton@csueastbay.edu
+   Username: shane.pelton
+   Original line: Shane Pelton Head Swimming Coach shane.pelton@csueastbay.edu (510) 885-
+
+31. Erin Sanchez
+   Email: erin.sanchez@csueastbay.edu
+   Username: erin.sanchez
+   Original line: Erin Sanchez Assistant Women's Swimming Coach erin.sanchez@csueastbay.edu
+
+32. Norm Alston
+   Email: norman.alston@csueastbay.edu
+   Username: norman.alston
+   Original line: Norm Alston Head Cross Country and Track & Field Coach norman.alston@csueastbay.edu (510) 885-
+
+33. Ayla Granados
+   Email: ayla.granados@csueastbay.edu
+   Username: ayla.granados
+   Original line: Ayla Granados Assistant Cross Country and Track & Field Coach ayla.granados@csueastbay.edu
+
+34. Kimberly Lambert
+   Email: kimberly.lambert@csueastbay.edu
+   Username: kimberly.lambert
+   Original line: Kimberly Lambert Head Volleyball Coach kimberly.lambert@csueastbay.edu (510) 885-
+
+35. Ashia Joseph
+   Email: ashia.joseph@csueastbay.edu
+   Username: ashia.joseph
+   Original line: Ashia Joseph Assistant Volleyball Coach ashia.joseph@csueastbay.edu (510) 885-
+
+36. MacKenzie Draper
+   Email: mackenzie.draper@csueastbay.edu
+   Username: mackenzie.draper
+   Original line: MacKenzie Draper Assistant Volleyball Coach mackenzie.draper@csueastbay.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Alex Lopez, CSCS Sports Performance Coach alex.lopez@csueastbay.edu
+• Mike Cummins Head Baseball Coach mike.cummins@csueastbay.edu (510) 885-
+• Matt Page Assistant Baseball Coach matt.page@csueastbay.edu (510) 885-
+• Cole Coffey Assistant Baseball Coach cole.coffey@csueastbay.edu (510) 885-
+• Enrique Nunez Assistant Baseball Coach enrique.nunez@csueastbay.edu
+• Bryan Rooney Head Men's Basketball Coach bryan.rooney@csueastbay.edu (510) 885-
+• Mikey Eggleton Assistant Men's Basketball Coach michael.eggleton@csueastbay.edu (510) 885-
+• Russell Payne Assistant Men's Basketball Coach russell.payne@csueastbay.edu (510) 885-
+• Craig Ashmore Assistant Men's Basketball Coach craig.ashmore@csueastbay.edu
+• Bryce Duncan Assistant Men's Basketball Coach bryce.duncan@csueastbay.edu
+• Jenny Thigpin Head Women's Basketball Coach jenny.thigpin@csueastbay.edu (510) 885-
+• Miles Brookins Assistant Women's Basketball Coach miles.brookins@csueastbay.edu
+• Naomi Hunt Assistant Women's Basketball Coach naomi.hunt@csueastbay.edu
+• Deborah Ayres Assistant Women's Basketball Coach deborah.ayres@csueastbay.edu
+• Norm Alston Head Cross Country and Track & Field Coach norman.alston@csueastbay.edu (510) 885-
+• Ayla Granados Assistant Cross Country and Track & Field Coach ayla.granados@csueastbay.edu
+• Alan Sue Head Golf Coach alan.sue@csueastbay.edu (510) 885-
+• Chris Oetinger Golf Coach christopher.oetinger@csueastbay.edu
+• Arrianna Custodio Assistant Golf Coach arrianna.custodio@csueastbay.edu
+• Michael Haswell Head Men's Soccer Coach michael.haswell@csueastbay.edu (510) 885-
+• Michael Hannon Assistant Men's Soccer Coach michael.hannon2@csueastbay.edu (510) 885-
+• Kevin Esquivel Assistant Men's Soccer Coach kevin.esquivel@csueastbay.edu
+• Evan Sanchez Assistant Men's Soccer Coach evan.guidicisanchez@csueastbay.edu
+• Dannylo Ayllon Assistant Men's Soccer Coach dannylo.ayllon@csueastbay.edu
+• Anne Whipple Head Women's Soccer Coach anne.whipple@csueastbay.edu (510) 885-
+• Jessica Clinton Assistant Women's Soccer Coach jessica.clinton@csueastbay.edu (510) 885-
+• Claire Sua-Amundson Head Softball Coach claire.amundson@csueastbay.edu (510) 885-
+• Abby Greer Assistant Softball Coach abby.greer@csueastbay.edu
+• Steve Rianda Assistant Softball Coach steve.rianda@csueastbay.edu
+• Shane Pelton Head Swimming Coach shane.pelton@csueastbay.edu (510) 885-
+• Erin Sanchez Assistant Women's Swimming Coach erin.sanchez@csueastbay.edu
+• Norm Alston Head Cross Country and Track & Field Coach norman.alston@csueastbay.edu (510) 885-
+• Ayla Granados Assistant Cross Country and Track & Field Coach ayla.granados@csueastbay.edu
+• Kimberly Lambert Head Volleyball Coach kimberly.lambert@csueastbay.edu (510) 885-
+• Ashia Joseph Assistant Volleyball Coach ashia.joseph@csueastbay.edu (510) 885-
+• MacKenzie Draper Assistant Volleyball Coach mackenzie.draper@csueastbay.edu

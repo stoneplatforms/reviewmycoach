@@ -1,0 +1,377 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:29
+============================================================
+
+Total coaches found: 61
+
+PARSED ENTRIES:
+----------------------------------------
+1.  
+   Email: coachsporer@ath.msu.edu
+   Username: coachsporer
+   Original line: coachsporer@ath.msu.edu Full Bio
+
+2. Assistant Coach
+   Email: vandy@ath.msu.edu
+   Username: vandy
+   Original line: Assistant Coach vandy@ath.msu.edu
+
+3. Assistant Coach
+   Email: gsikes@ath.msu.edu
+   Username: gsikes
+   Original line: Assistant Coach / Recruiting Coordinator gsikes@ath.msu.edu
+
+4. Head Coach
+   Email: hknull@ath.msu.edu
+   Username: hknull
+   Original line: Head Coach hknull@ath.msu.edu
+
+5. Associate Head
+   Email: tdurante@ath.msu.edu
+   Username: tdurante
+   Original line: Associate Head Coach tdurante@ath.msu.edu
+
+6. Assistant Coach
+   Email: matt.michie@ath.msu.edu
+   Username: matt.michie
+   Original line: Assistant Coach matt.michie@ath.msu.edu
+
+7. Secondary Coach
+   Email: football@msu.edu
+   Username: football
+   Original line: Secondary Coach football@msu.edu
+
+8. Safeties Coach
+   Email: football@msu.edu
+   Username: football
+   Original line: Safeties Coach football@msu.edu
+
+9. Assistant Head
+   Email: football@msu.edu
+   Username: football
+   Original line: Assistant Head Coach/Co-Special Teams Coordinator/Running Backs football@msu.edu
+
+10. Quarterbacks Coach
+   Email: football@msu.edu
+   Username: football
+   Original line: Quarterbacks Coach football@msu.edu
+
+11. Wide Receivers
+   Email: football@msu.edu
+   Username: football
+   Original line: Wide Receivers Coach football@msu.edu
+
+12. Offensive Line
+   Email: football@msu.edu
+   Username: football
+   Original line: Offensive Line Coach/Run Game Coordinator football@msu.edu
+
+13. Secchia Family
+   Email: football@msu.edu
+   Username: football
+   Original line: Secchia Family Defensive Coordinator/Linebackers Coach football@msu.edu
+
+14. Defensive Line
+   Email: football@msu.edu
+   Username: football
+   Original line: Defensive Line Coach football@msu.edu
+
+15. Co-Special Teams
+   Email: football@msu.edu
+   Username: football
+   Original line: Co-Special Teams Coordinator/Rush Ends Coach football@msu.edu
+
+16. Tight Ends
+   Email: football@msu.edu
+   Username: football
+   Original line: Tight Ends Coach/Recruiting Coordinator football@msu.edu
+
+17. Assistant Linebackers
+   Email: football@msu.edu
+   Username: football
+   Original line: Assistant Linebackers Coach football@msu.edu
+
+18. Assistant Defensive
+   Email: football@msu.edu
+   Username: football
+   Original line: Assistant Defensive Backs Coach football@msu.edu
+
+19. Assistant Tight
+   Email: football@msu.edu
+   Username: football
+   Original line: Assistant Tight Ends Coach football@msu.edu
+
+20. Assistant Offensive
+   Email: football@msu.edu
+   Username: football
+   Original line: Assistant Offensive Line Coach football@msu.edu
+
+21. Assistant Defensive
+   Email: football@msu.edu
+   Username: football
+   Original line: Assistant Defensive Line Coach football@msu.edu
+
+22. Head Strength
+   Email: football@msu.edu
+   Username: football
+   Original line: Head Strength and Conditioning Coach / Football football@msu.edu
+
+23. Assistant Strength
+   Email: football@msu.edu
+   Username: football
+   Original line: Assistant Strength & Conditioning Coach / Football football@msu.edu
+
+24. Assistant Strength
+   Email: football@msu.edu
+   Username: football
+   Original line: Assistant Strength & Conditioning Coach / Football football@msu.edu
+
+25. Assistant Strength
+   Email: football@msu.edu
+   Username: football
+   Original line: Assistant Strength & Conditioning Coach / Football football@msu.edu
+
+26. Assistant Strength
+   Email: powell@ath.msu.edu
+   Username: powell
+   Original line: Assistant Strength & Conditioning Coach / Football powell@ath.msu.edu
+
+27. Head Coach
+   Email: hockey@msu.edu
+   Username: hockey
+   Original line: Head Coach hockey@msu.edu
+
+28. Associate Head
+   Email: demichiel@ath.msu.edu
+   Username: demichiel
+   Original line: Associate Head Coach demichiel@ath.msu.edu
+
+29. Assistant Coach
+   Email: miketowns@ath.msu.edu
+   Username: miketowns
+   Original line: Assistant Coach miketowns@ath.msu.edu
+
+30. Head Coach
+   Email: msuhoops@ath.msu.edu
+   Username: msuhoops
+   Original line: Head Coach msuhoops@ath.msu.edu
+
+31. Associate Head
+   Email: msuhoops@ath.msu.edu
+   Username: msuhoops
+   Original line: Associate Head Coach msuhoops@ath.msu.edu
+
+32. Assistant Coach
+   Email: msuhoops@ath.msu.edu
+   Username: msuhoops
+   Original line: Assistant Coach msuhoops@ath.msu.edu
+
+33. Assistant Coach
+   Email: msuhoops@ath.msu.edu
+   Username: msuhoops
+   Original line: Assistant Coach msuhoops@ath.msu.edu
+
+34. Assistant Coach
+   Email: msuhoops@ath.msu.edu
+   Username: msuhoops
+   Original line: Assistant Coach msuhoops@ath.msu.edu
+
+35. Assistant Coach
+   Email: msuhoops@ath.msu.edu
+   Username: msuhoops
+   Original line: Assistant Coach msuhoops@ath.msu.edu
+
+36. Head Coach
+   Email: lubahn@ath.msu.edu
+   Username: lubahn
+   Original line: Head Coach lubahn@ath.msu.edu
+
+37. Assistant Coach
+   Email: ellisda8@ath.msu.edu
+   Username: ellisda8
+   Original line: Assistant Coach ellisda8@ath.msu.edu
+
+38. Head Coach
+   Email: rensingd@ath.msu.edu
+   Username: rensingd
+   Original line: Head Coach rensingd@ath.msu.edu
+
+39. Assistant Coach
+   Email: rfriedrichs@ath.msu.edu
+   Username: rfriedrichs
+   Original line: Assistant Coach rfriedrichs@ath.msu.edu
+
+40. Assistant Coach
+   Email: tkolba@ath.msu.edu
+   Username: tkolba
+   Original line: Assistant Coach tkolba@ath.msu.edu
+
+41. Head Coach
+   Email: jadunhar@ath.msu.edu
+   Username: jadunhar
+   Original line: Head Coach jadunhar@ath.msu.edu
+
+42.  
+   Email: coachsho@ath.msu.edu
+   Username: coachsho
+   Original line: coachsho@ath.msu.edu Full Bio
+
+43. Assistant Coach
+   Email: john5733@ath.msu.edu
+   Username: john5733
+   Original line: Assistant Coach (Sprints/Jumps) john5733@ath.msu.edu
+
+44. Assistant Coach
+   Email: simonea4@ath.msu.edu
+   Username: simonea4
+   Original line: Assistant Coach (Distance) | Head Men's Cross Country Coach simonea4@ath.msu.edu
+
+45. Head Coach
+   Email: msuwbbhoops@ath.msu.edu
+   Username: msuwbbhoops
+   Original line: Head Coach msuwbbhoops@ath.msu.edu
+
+46. Associate Head
+   Email: msuwbbhoops@ath.msu.edu
+   Username: msuwbbhoops
+   Original line: Associate Head Coach msuwbbhoops@ath.msu.edu
+
+47. Assistant Coach
+   Email: msuwbbhoops@ath.msu.edu
+   Username: msuwbbhoops
+   Original line: Assistant Coach msuwbbhoops@ath.msu.edu
+
+48.  
+   Email: coachsporer@ath.msu.edu
+   Username: coachsporer
+   Original line: coachsporer@ath.msu.edu Full Bio
+
+49. Head Coach
+   Email: slobodni@ath.msu.edu
+   Username: slobodni
+   Original line: Head Coach slobodni@ath.msu.edu
+
+50. Head Coach
+   Email: mikerowe@ath.msu.edu
+   Username: mikerowe
+   Original line: Head Coach mikerowe@ath.msu.edu
+
+51. Associate Head
+   Email: curlerni@ath.msu.edu
+   Username: curlerni
+   Original line: Associate Head Coach curlerni@ath.msu.edu
+
+52. Head Coach
+   Email: rippetoe@ath.msu.edu
+   Username: rippetoe
+   Original line: Head Coach rippetoe@ath.msu.edu
+
+53. Assistant Coach
+   Email: coachkayla@ath.msu.edu
+   Username: coachkayla
+   Original line: Assistant Coach coachkayla@ath.msu.edu
+
+54. Assistant Coach
+   Email: coachnicole@ath.msu.edu
+   Username: coachnicole
+   Original line: Assistant Coach coachnicole@ath.msu.edu
+
+55. Assistant Coach
+   Email: kvaughn@ath.msu.edu
+   Username: kvaughn
+   Original line: Assistant Coach kvaughn@ath.msu.edu
+
+56.  
+   Email: coachannie@ath.msu.edu
+   Username: coachannie
+   Original line: coachannie@ath.msu.edu Full Bio
+
+57. Assistant Coach
+   Email: romogabr@msu.edu
+   Username: romogabr
+   Original line: Assistant Coach romogabr@msu.edu
+
+58.  
+   Email: coach.allison@ath.msu.edu
+   Username: coach.allison
+   Original line: coach.allison@ath.msu.edu Full Bio
+
+59. Head Coach
+   Email: brunokim@ath.msu.edu
+   Username: brunokim
+   Original line: Head Coach brunokim@ath.msu.edu
+
+60. Associate Head
+   Email: faulkner@ath.msu.edu
+   Username: faulkner
+   Original line: Associate Head Coach faulkner@ath.msu.edu
+
+61. Head Coach
+   Email: chandl37@ath.msu.edu
+   Username: chandl37
+   Original line: Head Coach chandl37@ath.msu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• coachsporer@ath.msu.edu Full Bio
+• Assistant Coach vandy@ath.msu.edu
+• Assistant Coach / Recruiting Coordinator gsikes@ath.msu.edu
+• Head Coach hknull@ath.msu.edu
+• Associate Head Coach tdurante@ath.msu.edu
+• Assistant Coach matt.michie@ath.msu.edu
+• Secondary Coach football@msu.edu
+• Safeties Coach football@msu.edu
+• Assistant Head Coach/Co-Special Teams Coordinator/Running Backs football@msu.edu
+• Quarterbacks Coach football@msu.edu
+• Wide Receivers Coach football@msu.edu
+• Offensive Line Coach/Run Game Coordinator football@msu.edu
+• Secchia Family Defensive Coordinator/Linebackers Coach football@msu.edu
+• Defensive Line Coach football@msu.edu
+• Co-Special Teams Coordinator/Rush Ends Coach football@msu.edu
+• Tight Ends Coach/Recruiting Coordinator football@msu.edu
+• Assistant Linebackers Coach football@msu.edu
+• Assistant Defensive Backs Coach football@msu.edu
+• Assistant Tight Ends Coach football@msu.edu
+• Assistant Offensive Line Coach football@msu.edu
+• Assistant Defensive Line Coach football@msu.edu
+• Head Strength and Conditioning Coach / Football football@msu.edu
+• Assistant Strength & Conditioning Coach / Football football@msu.edu
+• Assistant Strength & Conditioning Coach / Football football@msu.edu
+• Assistant Strength & Conditioning Coach / Football football@msu.edu
+• Assistant Strength & Conditioning Coach / Football powell@ath.msu.edu
+• Head Coach hockey@msu.edu
+• Associate Head Coach demichiel@ath.msu.edu
+• Assistant Coach miketowns@ath.msu.edu
+• Head Coach msuhoops@ath.msu.edu
+• Associate Head Coach msuhoops@ath.msu.edu
+• Assistant Coach msuhoops@ath.msu.edu
+• Assistant Coach msuhoops@ath.msu.edu
+• Assistant Coach msuhoops@ath.msu.edu
+• Assistant Coach msuhoops@ath.msu.edu
+• Head Coach lubahn@ath.msu.edu
+• Assistant Coach ellisda8@ath.msu.edu
+• Head Coach rensingd@ath.msu.edu
+• Assistant Coach rfriedrichs@ath.msu.edu
+• Assistant Coach tkolba@ath.msu.edu
+• Head Coach jadunhar@ath.msu.edu
+• coachsho@ath.msu.edu Full Bio
+• Assistant Coach (Sprints/Jumps) john5733@ath.msu.edu
+• Assistant Coach (Distance) | Head Men's Cross Country Coach simonea4@ath.msu.edu
+• Head Coach msuwbbhoops@ath.msu.edu
+• Associate Head Coach msuwbbhoops@ath.msu.edu
+• Assistant Coach msuwbbhoops@ath.msu.edu
+• coachsporer@ath.msu.edu Full Bio
+• Head Coach slobodni@ath.msu.edu
+• Head Coach mikerowe@ath.msu.edu
+• Associate Head Coach curlerni@ath.msu.edu
+• Head Coach rippetoe@ath.msu.edu
+• Assistant Coach coachkayla@ath.msu.edu
+• Assistant Coach coachnicole@ath.msu.edu
+• Assistant Coach kvaughn@ath.msu.edu
+• coachannie@ath.msu.edu Full Bio
+• Assistant Coach romogabr@msu.edu
+• coach.allison@ath.msu.edu Full Bio
+• Head Coach brunokim@ath.msu.edu
+• Associate Head Coach faulkner@ath.msu.edu
+• Head Coach chandl37@ath.msu.edu

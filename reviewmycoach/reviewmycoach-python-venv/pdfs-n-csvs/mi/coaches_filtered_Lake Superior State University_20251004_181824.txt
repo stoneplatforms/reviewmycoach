@@ -1,0 +1,137 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:25
+============================================================
+
+Total coaches found: 21
+
+PARSED ENTRIES:
+----------------------------------------
+1. Liam Cound
+   Email: lcound@lssu.edu
+   Username: lcound
+   Original line: Liam Cound Head Sports Performance Coach lcound@lssu.edu
+
+2. Jordan Huse
+   Email: jhuse@lssu.edu
+   Username: jhuse
+   Original line: Jordan Huse Sports Performance Coach jhuse@lssu.edu
+
+3. Steve Hettinga
+   Email: shettinga@lssu.edu
+   Username: shettinga
+   Original line: Steve Hettinga Head Coach/Assistant Director of Athletics (906) 635- shettinga@lssu.edu
+
+4. Cameron Ramos
+   Email: cramos@lssu.edu
+   Username: cramos
+   Original line: Cameron Ramos Assistant Coach (906) 635- cramos@lssu.edu
+
+5. Austin Morgan
+   Email: amorgan4@lssu.edu
+   Username: amorgan4
+   Original line: Austin Morgan Assistant Coach amorgan4@lssu.edu
+
+6. Grace Howrigon
+   Email: ghowrigon@lssu.edu
+   Username: ghowrigon
+   Original line: Grace Howrigon Head Coach (906) 635- ghowrigon@lssu.edu
+
+7. Terrell Modest
+   Email: tmodest@lssu.edu
+   Username: tmodest
+   Original line: Terrell Modest Assistant Coach tmodest@lssu.edu
+
+8. Alix Carter
+   Email: acarter2@lssu.edu
+   Username: acarter2
+   Original line: Alix Carter Assistant Coach acarter2@lssu.edu
+
+9. Matt Stith
+   Email: dstith@lssu.edu
+   Username: dstith
+   Original line: Matt Stith Head Coach (906) 635- dstith@lssu.edu
+
+10. Adam Grifka
+   Email: agrifka@lssu.edu
+   Username: agrifka
+   Original line: Adam Grifka Assistant Coach agrifka@lssu.edu
+
+11. Matt Stith
+   Email: dstith@lssu.edu
+   Username: dstith
+   Original line: Matt Stith Head Coach (906) 635- dstith@lssu.edu
+
+12. Adam Grifka
+   Email: agrifka@lssu.edu
+   Username: agrifka
+   Original line: Adam Grifka Assistant Coach agrifka@lssu.edu
+
+13. Damon Whitten
+   Email: dwhitten@lssu.edu
+   Username: dwhitten
+   Original line: Damon Whitten Head Coach (906) 635- dwhitten@lssu.edu
+
+14. Mike York
+   Email: myork1@lssu.edu
+   Username: myork1
+   Original line: Mike York Associate Head Coach (906) 635- myork1@lssu.edu
+
+15. DJ Goldstein
+   Email: dgoldstein@lssu.edu
+   Username: dgoldstein
+   Original line: DJ Goldstein Assistant Coach (906) 635- dgoldstein@lssu.edu
+
+16. Matt Stith
+   Email: dstith@lssu.edu
+   Username: dstith
+   Original line: Matt Stith Head Coach (906) 635- dstith@lssu.edu
+
+17. Dwayne Thompson
+   Email: dthompson16@lssu.edu
+   Username: dthompson16
+   Original line: Dwayne Thompson Assistant Coach dthompson16@lssu.edu
+
+18. Adam Grifka
+   Email: agrifka@lssu.edu
+   Username: agrifka
+   Original line: Adam Grifka Assistant Coach agrifka@lssu.edu
+
+19. Steven Kaunisto
+   Email: skaunisto@lssu.edu
+   Username: skaunisto
+   Original line: Steven Kaunisto Head Coach (906) 635- skaunisto@lssu.edu
+
+20. Matt Parker
+   Email: meparker@lssu.edu
+   Username: meparker
+   Original line: Matt Parker Head Coach (906) 635- meparker@lssu.edu
+
+21. Adam Raffaele
+   Email: araffaele1@lssu.edu
+   Username: araffaele1
+   Original line: Adam Raffaele Head Coach araffaele1@lssu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Liam Cound Head Sports Performance Coach lcound@lssu.edu
+• Jordan Huse Sports Performance Coach jhuse@lssu.edu
+• Steve Hettinga Head Coach/Assistant Director of Athletics (906) 635- shettinga@lssu.edu
+• Cameron Ramos Assistant Coach (906) 635- cramos@lssu.edu
+• Austin Morgan Assistant Coach amorgan4@lssu.edu
+• Grace Howrigon Head Coach (906) 635- ghowrigon@lssu.edu
+• Terrell Modest Assistant Coach tmodest@lssu.edu
+• Alix Carter Assistant Coach acarter2@lssu.edu
+• Matt Stith Head Coach (906) 635- dstith@lssu.edu
+• Adam Grifka Assistant Coach agrifka@lssu.edu
+• Matt Stith Head Coach (906) 635- dstith@lssu.edu
+• Adam Grifka Assistant Coach agrifka@lssu.edu
+• Damon Whitten Head Coach (906) 635- dwhitten@lssu.edu
+• Mike York Associate Head Coach (906) 635- myork1@lssu.edu
+• DJ Goldstein Assistant Coach (906) 635- dgoldstein@lssu.edu
+• Matt Stith Head Coach (906) 635- dstith@lssu.edu
+• Dwayne Thompson Assistant Coach dthompson16@lssu.edu
+• Adam Grifka Assistant Coach agrifka@lssu.edu
+• Steven Kaunisto Head Coach (906) 635- skaunisto@lssu.edu
+• Matt Parker Head Coach (906) 635- meparker@lssu.edu
+• Adam Raffaele Head Coach araffaele1@lssu.edu

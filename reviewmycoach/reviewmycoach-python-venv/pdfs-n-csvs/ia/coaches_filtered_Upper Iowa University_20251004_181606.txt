@@ -1,0 +1,185 @@
+COACH ENTRIES FOUND - 2025-10-04 18:16:06
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Bri Lawrence
+   Email: lawrenceb631@uiu.edu
+   Username: lawrenceb631
+   Original line: Bri Lawrence Head Cheer and Dance Coach lawrenceb631@uiu.edu 563-425-
+
+2. Lizzie Dingbaum
+   Email: vandyke51@uiu.edu
+   Username: vandyke51
+   Original line: Lizzie Dingbaum Assistant Cheer and Dance Coach vandyke51@uiu.edu 563-425-
+
+3. Justis Kruse
+   Email: krusej77@uiu.edu
+   Username: krusej77
+   Original line: Justis Kruse Assistant Cheer and Dance Coach krusej77@uiu.edu
+
+4. Brian Voigt
+   Email: voigtb11@uiu.edu
+   Username: voigtb11
+   Original line: Brian Voigt Head Baseball Coach voigtb11@uiu.edu 563-425-
+
+5. Alex Jorgensen
+   Email: jorgensena72@uiu.edu
+   Username: jorgensena72
+   Original line: Alex Jorgensen Assistant Baseball Coach jorgensena72@uiu.edu 563-425-
+
+6. Casey Kasperbauer
+   Email: kasperbauerc@uiu.edu
+   Username: kasperbauerc
+   Original line: Casey Kasperbauer Head Men's Basketball Coach kasperbauerc@uiu.edu 563-425-
+
+7. Tanner Cooke
+   Email: cooket@uiu.edu
+   Username: cooket
+   Original line: Tanner Cooke Assistant Men's Basketball Coach cooket@uiu.edu 563-425-
+
+8. Justin Maass
+   Email: maassj76@uiu.edu
+   Username: maassj76
+   Original line: Justin Maass Head Women's Basketball Coach maassj76@uiu.edu 563-425-
+
+9. Bridgette Griffin
+   Email: griffinb40@uiu.edu
+   Username: griffinb40
+   Original line: Bridgette Griffin Assistant Women's Basketball Coach griffinb40@uiu.edu 563-425-
+
+10. Nate Rucker
+   Email: ruckern@uiu.edu
+   Username: ruckern
+   Original line: Nate Rucker Head Women's Cross Country and Track & Field Coach ruckern@uiu.edu 563-425-
+
+11. Brad Wymer
+   Email: wymerb@uiu.edu
+   Username: wymerb
+   Original line: Brad Wymer Assistant Track Coach - Throws wymerb@uiu.edu
+
+12. Jason Hoskins
+   Email: hoskinsj449@uiu.edu
+   Username: hoskinsj449
+   Original line: Jason Hoskins Head Football Coach hoskinsj449@uiu.edu 563-425-
+
+13. Heath Parling
+   Email: parlingh69@uiu.edu
+   Username: parlingh69
+   Original line: Heath Parling Assistant Football Coach - Quarterbacks parlingh69@uiu.edu 563-425-
+
+14. Rhett Mizer
+   Email: mizerr73@uiu.edu
+   Username: mizerr73
+   Original line: Rhett Mizer Assistant Football Coach - Linebackers mizerr73@uiu.edu 563-425-
+
+15. Rob Goode
+   Email: gooder86@uiu.edu
+   Username: gooder86
+   Original line: Rob Goode Assistant Football Coach - Defensive Backs gooder86@uiu.edu 563-425-
+
+16. Markhus Taylor
+   Email: taylorm@uiu.edu
+   Username: taylorm
+   Original line: Markhus Taylor Assistant Football Coach- Wide Receivers taylorm@uiu.edu 563-425-
+
+17. Max Longman
+   Email: longmanm@uiu.edu
+   Username: longmanm
+   Original line: Max Longman Assistant Football Coach - Offensive Line longmanm@uiu.edu
+
+18. Jayden Mitchell
+   Email: mitchellj89@uiu.edu
+   Username: mitchellj89
+   Original line: Jayden Mitchell Part-Time Assistant Football Coach mitchellj89@uiu.edu
+
+19. Drew Wilson
+   Email: wilsonc870@uiu.edu
+   Username: wilsonc870
+   Original line: Drew Wilson Graduate Assistant Football Coach wilsonc870@uiu.edu
+
+20. Aiden Rodgers
+   Email: rodgersa09@uiu.edu
+   Username: rodgersa09
+   Original line: Aiden Rodgers Student Football Coach rodgersa09@uiu.edu
+
+21. Mike Lewis
+   Email: lewism@uiu.edu
+   Username: lewism
+   Original line: Mike Lewis Head Men's and Women's Golf Coach lewism@uiu.edu 563-425-
+
+22. Jason Carlson
+   Email: carlsonj@uiu.edu
+   Username: carlsonj
+   Original line: Jason Carlson Head Men's Soccer Coach carlsonj@uiu.edu 563-425-
+
+23. Patrick Ritter
+   Email: ritterp@uiu.edu
+   Username: ritterp
+   Original line: Patrick Ritter Head Women's Soccer Coach ritterp@uiu.edu
+
+24. Rachel Rhode
+   Email: rhoder@uiu.edu
+   Username: rhoder
+   Original line: Rachel Rhode Head Softball Coach rhoder@uiu.edu 563-425-
+
+25. Jasmin Estrada
+   Email: estradaj@uiu.edu
+   Username: estradaj
+   Original line: Jasmin Estrada Assistant Softball Coach estradaj@uiu.edu
+
+26. Sarah Hull
+   Email: hulls785@uiu.edu
+   Username: hulls785
+   Original line: Sarah Hull Interim Head Women's Volleyball Coach hulls785@uiu.edu 563-425-
+
+27. Heath Grimm
+   Email: grimmh@uiu.edu
+   Username: grimmh
+   Original line: Heath Grimm Head Men's Wrestling Coach grimmh@uiu.edu 563-425-
+
+28. Eric Faught
+   Email: faughte97@uiu.edu
+   Username: faughte97
+   Original line: Eric Faught Assistant Men's Wrestling Coach faughte97@uiu.edu
+
+29. Jay Tiedemann
+   Email: tiedemannj@uiu.edu
+   Username: tiedemannj
+   Original line: Jay Tiedemann Head Women's Wrestling Coach tiedemannj@uiu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Bri Lawrence Head Cheer and Dance Coach lawrenceb631@uiu.edu 563-425-
+• Lizzie Dingbaum Assistant Cheer and Dance Coach vandyke51@uiu.edu 563-425-
+• Justis Kruse Assistant Cheer and Dance Coach krusej77@uiu.edu
+• Brian Voigt Head Baseball Coach voigtb11@uiu.edu 563-425-
+• Alex Jorgensen Assistant Baseball Coach jorgensena72@uiu.edu 563-425-
+• Casey Kasperbauer Head Men's Basketball Coach kasperbauerc@uiu.edu 563-425-
+• Tanner Cooke Assistant Men's Basketball Coach cooket@uiu.edu 563-425-
+• Justin Maass Head Women's Basketball Coach maassj76@uiu.edu 563-425-
+• Bridgette Griffin Assistant Women's Basketball Coach griffinb40@uiu.edu 563-425-
+• Nate Rucker Head Women's Cross Country and Track & Field Coach ruckern@uiu.edu 563-425-
+• Brad Wymer Assistant Track Coach - Throws wymerb@uiu.edu
+• Jason Hoskins Head Football Coach hoskinsj449@uiu.edu 563-425-
+• Heath Parling Assistant Football Coach - Quarterbacks parlingh69@uiu.edu 563-425-
+• Rhett Mizer Assistant Football Coach - Linebackers mizerr73@uiu.edu 563-425-
+• Rob Goode Assistant Football Coach - Defensive Backs gooder86@uiu.edu 563-425-
+• Markhus Taylor Assistant Football Coach- Wide Receivers taylorm@uiu.edu 563-425-
+• Max Longman Assistant Football Coach - Offensive Line longmanm@uiu.edu
+• Jayden Mitchell Part-Time Assistant Football Coach mitchellj89@uiu.edu
+• Drew Wilson Graduate Assistant Football Coach wilsonc870@uiu.edu
+• Aiden Rodgers Student Football Coach rodgersa09@uiu.edu
+• Mike Lewis Head Men's and Women's Golf Coach lewism@uiu.edu 563-425-
+• Jason Carlson Head Men's Soccer Coach carlsonj@uiu.edu 563-425-
+• Patrick Ritter Head Women's Soccer Coach ritterp@uiu.edu
+• Rachel Rhode Head Softball Coach rhoder@uiu.edu 563-425-
+• Jasmin Estrada Assistant Softball Coach estradaj@uiu.edu
+• Sarah Hull Interim Head Women's Volleyball Coach hulls785@uiu.edu 563-425-
+• Heath Grimm Head Men's Wrestling Coach grimmh@uiu.edu 563-425-
+• Eric Faught Assistant Men's Wrestling Coach faughte97@uiu.edu
+• Jay Tiedemann Head Women's Wrestling Coach tiedemannj@uiu.edu

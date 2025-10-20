@@ -1,0 +1,221 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:10
+============================================================
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kane Sweeney
+   Email: ksweeney@uscupstate.edu
+   Username: ksweeney
+   Original line: Kane Sweeney Head Coach ksweeney@uscupstate.edu 864-503-
+
+2. Nick Hoffman
+   Email: hoffmanw@uscupstate.edu
+   Username: hoffmanw
+   Original line: Nick Hoffman Assistant Coach / Recruiting Coordinator hoffmanw@uscupstate.edu
+
+3. Audie Afenir
+   Email: aafenir@uscupstate.edu
+   Username: aafenir
+   Original line: Audie Afenir Assistant Coach aafenir@uscupstate.edu
+
+4. Marty Richter
+   Email: MR184@uscupstate.edu
+   Username: MR184
+   Original line: Marty Richter Head Coach MR184@uscupstate.edu
+
+5. Cavel Witter
+   Email: WITTERC@uscupstate.edu
+   Username: WITTERC
+   Original line: Cavel Witter Assistant Coach WITTERC@uscupstate.edu
+
+6. Nashad Mackey
+   Email: NASHADM@uscupstate.edu
+   Username: NASHADM
+   Original line: Nashad Mackey Assistant Coach NASHADM@uscupstate.edu
+
+7. Vince Fritz
+   Email: vfritz@uscupstate.edu
+   Username: vfritz
+   Original line: Vince Fritz Assistant Coach vfritz@uscupstate.edu
+
+8. Jon D'Angelo
+   Email: JD183@uscupstate.edu
+   Username: JD183
+   Original line: Jon D'Angelo Assistant Coach JD183@uscupstate.edu
+
+9. Jason Williams
+   Email: jw218@uscupstate.edu
+   Username: jw218
+   Original line: Jason Williams Head Coach jw218@uscupstate.edu 8645035173
+
+10. Jennifer DeGraaf
+   Email: jdegraaf@uscupstate.edu
+   Username: jdegraaf
+   Original line: Jennifer DeGraaf Assistant Coach jdegraaf@uscupstate.edu 8645035175
+
+11. Molly Glick
+   Email: mg184@uscupstate.edu
+   Username: mg184
+   Original line: Molly Glick Assistant Coach / Recruiting Coordinator mg184@uscupstate.edu
+
+12. Isaac Mills
+   Email: millsi@uscupstate.edu
+   Username: millsi
+   Original line: Isaac Mills Assistant Coach millsi@uscupstate.edu
+
+13. Bryanna Brady
+   Email: bb143@uscupstate.edu
+   Username: bb143
+   Original line: Bryanna Brady Assistant Coach / Director of Basketball Operations bb143@uscupstate.edu
+
+14. Carson Blackwelder
+   Email: cblackwelder@uscupstate.edu
+   Username: cblackwelder
+   Original line: Carson Blackwelder Head Coach cblackwelder@uscupstate.edu 864-503-
+
+15. Todd Lawton
+   Email: tlawton@uscupstate.edu
+   Username: tlawton
+   Original line: Todd Lawton Head Coach tlawton@uscupstate.edu 864-503-
+
+16. Liza Eubanks
+   Email: Lizae@uscupstate.edu
+   Username: Lizae
+   Original line: Liza Eubanks Assistant Coach Lizae@uscupstate.edu
+
+17. Michael Antoniewicz
+   Email: AntonieM@uscupstate.edu
+   Username: AntonieM
+   Original line: Michael Antoniewicz Head Coach AntonieM@uscupstate.edu
+
+18. Matthew Dunn
+   Email: md147@uscupstate.edu
+   Username: md147
+   Original line: Matthew Dunn Assistant Coach md147@uscupstate.edu
+
+19. Tony Vu
+   Email: tv5@uscupstate.edu
+   Username: tv5
+   Original line: Tony Vu Assistant Coach tv5@uscupstate.edu 727-514-
+
+20. Nathan Girardi
+   Email: ngirardi@uscupstate.edu
+   Username: ngirardi
+   Original line: Nathan Girardi Assistant Coach ngirardi@uscupstate.edu 828-712-
+
+21. Mark Laudenslager
+   Email: LAUDENSM@uscupstate.edu
+   Username: LAUDENSM
+   Original line: Mark Laudenslager Interim Head Coach LAUDENSM@uscupstate.edu
+
+22. Liz-Amanda Marais
+   Email: LB107@uscupstate.edu
+   Username: LB107
+   Original line: Liz-Amanda Marais Assistant Coach LB107@uscupstate.edu
+
+23. Caitlyn Davis
+   Email: cmd17@uscupstate.edu
+   Username: cmd17
+   Original line: Caitlyn Davis Assistant Coach cmd17@uscupstate.edu
+
+24. Chris Hawkins
+   Email: chawkins@uscupstate.edu
+   Username: chawkins
+   Original line: Chris Hawkins Associate A.D./Head Coach chawkins@uscupstate.edu 864-503-
+
+25. Bryan Pack
+   Email: bpack@uscupstate.edu
+   Username: bpack
+   Original line: Bryan Pack Assistant Coach bpack@uscupstate.edu 864-503-
+
+26. Tonya Medders
+   Email: TMEDDERS@uscupstate.edu
+   Username: TMEDDERS
+   Original line: Tonya Medders Assistant Softball Coach TMEDDERS@uscupstate.edu
+
+27. John Winters
+   Email: JW308@uscupstate.edu
+   Username: JW308
+   Original line: John Winters Assistant Coach JW308@uscupstate.edu
+
+28. Carson Blackwelder
+   Email: cblackwelder@uscupstate.edu
+   Username: cblackwelder
+   Original line: Carson Blackwelder Head Coach cblackwelder@uscupstate.edu 864-503-
+
+29. Jake McKown
+   Email: mckownje@uscupstate.edu
+   Username: mckownje
+   Original line: Jake McKown Assistant Coach: Sprints, Hurdles, & Horizontal Jumps mckownje@uscupstate.edu
+
+30. JC Suddeth
+   Email: JS332@uscupstate.edu
+   Username: JS332
+   Original line: JC Suddeth Assistant Coach: Throws JS332@uscupstate.edu
+
+31. Ali Skayhan
+   Email: ASKAYHAN@uscupstate.edu
+   Username: ASKAYHAN
+   Original line: Ali Skayhan Head Coach ASKAYHAN@uscupstate.edu 864-503-
+
+32. Justin Sanders
+   Email: JS244@uscupstate.edu
+   Username: JS244
+   Original line: Justin Sanders Assistant Coach JS244@uscupstate.edu 864-503-
+
+33. Chad Butler
+   Email: CB288@uscupstate.edu
+   Username: CB288
+   Original line: Chad Butler Head Competition Cheerleading Coach CB288@uscupstate.edu
+
+34. Laura Martin
+   Email: LM124@uscupstate.edu
+   Username: LM124
+   Original line: Laura Martin Head Competition Dance Team Coach LM124@uscupstate.edu
+
+35. Maranda Miller
+   Email: MLSams@uscupstate.edu
+   Username: MLSams
+   Original line: Maranda Miller Assistant Cheerleading Coach MLSams@uscupstate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kane Sweeney Head Coach ksweeney@uscupstate.edu 864-503-
+• Nick Hoffman Assistant Coach / Recruiting Coordinator hoffmanw@uscupstate.edu
+• Audie Afenir Assistant Coach aafenir@uscupstate.edu
+• Marty Richter Head Coach MR184@uscupstate.edu
+• Cavel Witter Assistant Coach WITTERC@uscupstate.edu
+• Nashad Mackey Assistant Coach NASHADM@uscupstate.edu
+• Vince Fritz Assistant Coach vfritz@uscupstate.edu
+• Jon D'Angelo Assistant Coach JD183@uscupstate.edu
+• Jason Williams Head Coach jw218@uscupstate.edu 8645035173
+• Jennifer DeGraaf Assistant Coach jdegraaf@uscupstate.edu 8645035175
+• Molly Glick Assistant Coach / Recruiting Coordinator mg184@uscupstate.edu
+• Isaac Mills Assistant Coach millsi@uscupstate.edu
+• Bryanna Brady Assistant Coach / Director of Basketball Operations bb143@uscupstate.edu
+• Carson Blackwelder Head Coach cblackwelder@uscupstate.edu 864-503-
+• Todd Lawton Head Coach tlawton@uscupstate.edu 864-503-
+• Liza Eubanks Assistant Coach Lizae@uscupstate.edu
+• Michael Antoniewicz Head Coach AntonieM@uscupstate.edu
+• Matthew Dunn Assistant Coach md147@uscupstate.edu
+• Tony Vu Assistant Coach tv5@uscupstate.edu 727-514-
+• Nathan Girardi Assistant Coach ngirardi@uscupstate.edu 828-712-
+• Mark Laudenslager Interim Head Coach LAUDENSM@uscupstate.edu
+• Liz-Amanda Marais Assistant Coach LB107@uscupstate.edu
+• Caitlyn Davis Assistant Coach cmd17@uscupstate.edu
+• Chris Hawkins Associate A.D./Head Coach chawkins@uscupstate.edu 864-503-
+• Bryan Pack Assistant Coach bpack@uscupstate.edu 864-503-
+• Tonya Medders Assistant Softball Coach TMEDDERS@uscupstate.edu
+• John Winters Assistant Coach JW308@uscupstate.edu
+• Carson Blackwelder Head Coach cblackwelder@uscupstate.edu 864-503-
+• Jake McKown Assistant Coach: Sprints, Hurdles, & Horizontal Jumps mckownje@uscupstate.edu
+• JC Suddeth Assistant Coach: Throws JS332@uscupstate.edu
+• Ali Skayhan Head Coach ASKAYHAN@uscupstate.edu 864-503-
+• Justin Sanders Assistant Coach JS244@uscupstate.edu 864-503-
+• Chad Butler Head Competition Cheerleading Coach CB288@uscupstate.edu
+• Laura Martin Head Competition Dance Team Coach LM124@uscupstate.edu
+• Maranda Miller Assistant Cheerleading Coach MLSams@uscupstate.edu

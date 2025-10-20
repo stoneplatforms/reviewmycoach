@@ -1,0 +1,269 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:35
+============================================================
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tyler Davis
+   Email: tdavis@ucmo.edu
+   Username: tdavis
+   Original line: Tyler Davis Head Strength & Conditioning Coach (Sports: 660-543- tdavis@ucmo.edu
+
+2. Kyle Crookes
+   Email: crookes@ucmo.edu
+   Username: crookes
+   Original line: Kyle Crookes Head Baseball Coach 660-543- crookes@ucmo.edu CrookesKyle
+
+3. Alex Backhaus
+   Email: backhaus@ucmo.edu
+   Username: backhaus
+   Original line: Alex Backhaus Assistant Baseball Coach/Recruiting 660-543- backhaus@ucmo.edu Coach_Backhaus3
+
+4. Eli McFadden
+   Email: emcfadden@ucmo.edu
+   Username: emcfadden
+   Original line: Eli McFadden Assistant Baseball Coach/Pitching Coach emcfadden@ucmo.edu
+
+5. Jackson Bodinson
+   Email: bodinson@ucmo.edu
+   Username: bodinson
+   Original line: Jackson Bodinson Graduate Assistant Baseball Coach bodinson@ucmo.edu
+
+6. Kevin Paterson
+   Email: paterson@ucmo.edu
+   Username: paterson
+   Original line: Kevin Paterson Head Track & Field Coach paterson@ucmo.edu
+
+7. Collin Nurenberg
+   Email: nurenberg@ucmo.edu
+   Username: nurenberg
+   Original line: Collin Nurenberg Head Cross Country Coach/Distance Coach nurenberg@ucmo.edu
+
+8. Dan McCarty
+   Email: dmccarty@ucmo.edu
+   Username: dmccarty
+   Original line: Dan McCarty Assistant Track & Field/Cross Country Coach dmccarty@ucmo.edu
+
+9. Brent Fairbanks
+   Email: fairbanks@ucmo.edu
+   Username: fairbanks
+   Original line: Brent Fairbanks Assistant Track & Field Coach/Throws Coach fairbanks@ucmo.edu
+
+10. Maggie Klover
+   Email: klover@ucmo.edu
+   Username: klover
+   Original line: Maggie Klover Graduate Assistant Coach klover@ucmo.edu
+
+11. Josh Lamberson
+   Email: lamberson@ucmo.edu
+   Username: lamberson
+   Original line: Josh Lamberson Head Football Coach 660-543- lamberson@ucmo.edu JoshLamberson
+
+12. Hayden Hawk
+   Email: hhawk@ucmo.edu
+   Username: hhawk
+   Original line: Hayden Hawk Associate Head Coach/Offensive 660-543- hhawk@ucmo.edu H_Hawk
+
+13. Rich Wright
+   Email: richardwright@ucmo.edu
+   Username: richardwright
+   Original line: Rich Wright Defensive Coordinator/Defensive Line 660-543- richardwright@ucmo.edu CoachWrightD
+
+14. Joe Holtzclaw
+   Email: hholtzclaw@ucmo.edu
+   Username: hholtzclaw
+   Original line: Joe Holtzclaw Run Game Coordinator/Offensive Line 660-543- hholtzclaw@ucmo.edu CoachHoltzclaw
+
+15. Neil Novak
+   Email: nnovak@ucmo.edu
+   Username: nnovak
+   Original line: Neil Novak Special Teams Coordinator/Defensive Backs 660-543- nnovak@ucmo.edu CoachNovak_
+
+16. Vince Mayle
+   Email: mayle@ucmo.edu
+   Username: mayle
+   Original line: Vince Mayle Wide Receivers Coach 660-543- mayle@ucmo.edu vince_mayle
+
+17. Jamal Morrow
+   Email: jmorrow@ucmo.edu
+   Username: jmorrow
+   Original line: Jamal Morrow Running Backs Coach/Offensive Player 660-543- jmorrow@ucmo.edu
+
+18. Billy Musgrave
+   Email: musgrave@ucmo.edu
+   Username: musgrave
+   Original line: Billy Musgrave Assistant Defensive Line Coach 660-543- musgrave@ucmo.edu coachbmusgrave
+
+19. JaQuan Jenkins
+   Email: jljenkins@ucmo.edu
+   Username: jljenkins
+   Original line: JaQuan Jenkins Assistant Defesive Secondary Coach 660-543- jljenkins@ucmo.edu
+
+20. Adam Bohac
+   Email: bohac@ucmo.edu
+   Username: bohac
+   Original line: Adam Bohac Head Men's Basketball Coach 660-543- bohac@ucmo.edu
+
+21. Ryan Mahoney
+   Email: rmahoney@ucmo.edu
+   Username: rmahoney
+   Original line: Ryan Mahoney Associate Head Men's Basketball Coach 660-543- rmahoney@ucmo.edu
+
+22. Charlie Wilson
+   Email: cfwilson@ucmo.edu
+   Username: cfwilson
+   Original line: Charlie Wilson Assistant Men's Basketball Coach 6605434249 cfwilson@ucmo.edu
+
+23. Tim Poe
+   Email: tpoe@ucmo.edu
+   Username: tpoe
+   Original line: Tim Poe Head Men's Golf Coach 660-543- tpoe@ucmo.edu CoachPoeMules
+
+24. Jessica Green
+   Email: jcgreen@ucmo.edu
+   Username: jcgreen
+   Original line: Jessica Green Assistant Golf Coach 660-543- jcgreen@ucmo.edu
+
+25. Susan Anderson
+   Email: sanderson@ucmo.edu
+   Username: sanderson
+   Original line: Susan Anderson Head Softball Coach 660-543- sanderson@ucmo.edu PunzAnderson
+
+26. Jeremy Eilert
+   Email: eilert@ucmo.edu
+   Username: eilert
+   Original line: Jeremy Eilert Associate Head Softball Coach 660-543- eilert@ucmo.edu EilertJeremy
+
+27. Taryan Barrick-Wessels
+   Email: tlb91900@ucmo.edu
+   Username: tlb91900
+   Original line: Taryan Barrick-Wessels Graduate Assistant Softball Coach tlb91900@ucmo.edu
+
+28. Mariah Ahmann
+   Email: ahmann@ucmo.edu
+   Username: ahmann
+   Original line: Mariah Ahmann Mulekicker Coach ahmann@ucmo.edu
+
+29. Kelli Woodson
+   Email: woodson@ucmo.edu
+   Username: woodson
+   Original line: Kelli Woodson Cheerleading Coach 816-309- woodson@ucmo.edu
+
+30. Caitlin Peterson
+   Email: cpeterson@ucmo.edu
+   Username: cpeterson
+   Original line: Caitlin Peterson Head Volleyball Coach 660-543- cpeterson@ucmo.edu
+
+31. Rylie Barnum
+   Email: rbarnum@ucmo.edu
+   Username: rbarnum
+   Original line: Rylie Barnum Assistant Volleyball Coach 660-543- rbarnum@ucmo.edu
+
+32. Kersti Nix
+   Email: ken38700@ucmo.edu
+   Username: ken38700
+   Original line: Kersti Nix Graduate Assistant Volleyball Coach 660-543- ken38700@ucmo.edu
+
+33. Dave Slifer
+   Email: dslifer@ucmo.edu
+   Username: dslifer
+   Original line: Dave Slifer Head Women's Basketball Coach 660-543- dslifer@ucmo.edu davidslifer
+
+34. Josh Keister
+   Email: keister@ucmo.edu
+   Username: keister
+   Original line: Josh Keister Assistant Women's Basketball Coach 660-543- keister@ucmo.edu Coach_Keister
+
+35. Katie Kirkhart
+   Email: kirkhart@ucmo.edu
+   Username: kirkhart
+   Original line: Katie Kirkhart Assistant Women's Basketball Coach 660-543- kirkhart@ucmo.edu katiekirkhart3
+
+36. Ron Holmes
+   Email: holmes@ucmo.edu
+   Username: holmes
+   Original line: Ron Holmes Head Women's Bowling Coach 660-543- holmes@ucmo.edu
+
+37. Chris Port
+   Email: cport@ucmo.edu
+   Username: cport
+   Original line: Chris Port Head Women's Golf Coach 660-543- cport@ucmo.edu
+
+38. Jessica Green
+   Email: jcgreen@ucmo.edu
+   Username: jcgreen
+   Original line: Jessica Green Assistant Golf Coach 660-543- jcgreen@ucmo.edu
+
+39. Lewis Theobald
+   Email: theobald@ucmo.edu
+   Username: theobald
+   Original line: Lewis Theobald Head Women's Soccer Coach 660-543- theobald@ucmo.edu
+
+40. Jen Goethe
+   Email: goethe@ucmo.edu
+   Username: goethe
+   Original line: Jen Goethe Assistant Coach 660-543- goethe@ucmo.edu
+
+41. Cody Garcia
+   Email: cgarcia@ucmo.edu
+   Username: cgarcia
+   Original line: Cody Garcia Head Wrestling Coach 660-543- cgarcia@ucmo.edu
+
+42. John Feeney
+   Email: jfeeney@ucmo.edu
+   Username: jfeeney
+   Original line: John Feeney Assistant Wrestling Coach 660-543- jfeeney@ucmo.edu
+
+43. Erick Vargas
+   Email: vargas@ucmo.edu
+   Username: vargas
+   Original line: Erick Vargas Assistant Wrestling Coach vargas@ucmo.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tyler Davis Head Strength & Conditioning Coach (Sports: 660-543- tdavis@ucmo.edu
+• Kyle Crookes Head Baseball Coach 660-543- crookes@ucmo.edu CrookesKyle
+• Alex Backhaus Assistant Baseball Coach/Recruiting 660-543- backhaus@ucmo.edu Coach_Backhaus3
+• Eli McFadden Assistant Baseball Coach/Pitching Coach emcfadden@ucmo.edu
+• Jackson Bodinson Graduate Assistant Baseball Coach bodinson@ucmo.edu
+• Kevin Paterson Head Track & Field Coach paterson@ucmo.edu
+• Collin Nurenberg Head Cross Country Coach/Distance Coach nurenberg@ucmo.edu
+• Dan McCarty Assistant Track & Field/Cross Country Coach dmccarty@ucmo.edu
+• Brent Fairbanks Assistant Track & Field Coach/Throws Coach fairbanks@ucmo.edu
+• Maggie Klover Graduate Assistant Coach klover@ucmo.edu
+• Josh Lamberson Head Football Coach 660-543- lamberson@ucmo.edu JoshLamberson
+• Hayden Hawk Associate Head Coach/Offensive 660-543- hhawk@ucmo.edu H_Hawk
+• Rich Wright Defensive Coordinator/Defensive Line 660-543- richardwright@ucmo.edu CoachWrightD
+• Joe Holtzclaw Run Game Coordinator/Offensive Line 660-543- hholtzclaw@ucmo.edu CoachHoltzclaw
+• Neil Novak Special Teams Coordinator/Defensive Backs 660-543- nnovak@ucmo.edu CoachNovak_
+• Vince Mayle Wide Receivers Coach 660-543- mayle@ucmo.edu vince_mayle
+• Jamal Morrow Running Backs Coach/Offensive Player 660-543- jmorrow@ucmo.edu
+• Billy Musgrave Assistant Defensive Line Coach 660-543- musgrave@ucmo.edu coachbmusgrave
+• JaQuan Jenkins Assistant Defesive Secondary Coach 660-543- jljenkins@ucmo.edu
+• Adam Bohac Head Men's Basketball Coach 660-543- bohac@ucmo.edu
+• Ryan Mahoney Associate Head Men's Basketball Coach 660-543- rmahoney@ucmo.edu
+• Charlie Wilson Assistant Men's Basketball Coach 6605434249 cfwilson@ucmo.edu
+• Tim Poe Head Men's Golf Coach 660-543- tpoe@ucmo.edu CoachPoeMules
+• Jessica Green Assistant Golf Coach 660-543- jcgreen@ucmo.edu
+• Susan Anderson Head Softball Coach 660-543- sanderson@ucmo.edu PunzAnderson
+• Jeremy Eilert Associate Head Softball Coach 660-543- eilert@ucmo.edu EilertJeremy
+• Taryan Barrick-Wessels Graduate Assistant Softball Coach tlb91900@ucmo.edu
+• Mariah Ahmann Mulekicker Coach ahmann@ucmo.edu
+• Kelli Woodson Cheerleading Coach 816-309- woodson@ucmo.edu
+• Caitlin Peterson Head Volleyball Coach 660-543- cpeterson@ucmo.edu
+• Rylie Barnum Assistant Volleyball Coach 660-543- rbarnum@ucmo.edu
+• Kersti Nix Graduate Assistant Volleyball Coach 660-543- ken38700@ucmo.edu
+• Dave Slifer Head Women's Basketball Coach 660-543- dslifer@ucmo.edu davidslifer
+• Josh Keister Assistant Women's Basketball Coach 660-543- keister@ucmo.edu Coach_Keister
+• Katie Kirkhart Assistant Women's Basketball Coach 660-543- kirkhart@ucmo.edu katiekirkhart3
+• Ron Holmes Head Women's Bowling Coach 660-543- holmes@ucmo.edu
+• Chris Port Head Women's Golf Coach 660-543- cport@ucmo.edu
+• Jessica Green Assistant Golf Coach 660-543- jcgreen@ucmo.edu
+• Lewis Theobald Head Women's Soccer Coach 660-543- theobald@ucmo.edu
+• Jen Goethe Assistant Coach 660-543- goethe@ucmo.edu
+• Cody Garcia Head Wrestling Coach 660-543- cgarcia@ucmo.edu
+• John Feeney Assistant Wrestling Coach 660-543- jfeeney@ucmo.edu
+• Erick Vargas Assistant Wrestling Coach vargas@ucmo.edu

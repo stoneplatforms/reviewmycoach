@@ -1,0 +1,78 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:37
+============================================================
+
+Total coaches found: 10
+
+PARSED ENTRIES:
+----------------------------------------
+1. Cal Fougner
+   Email: cfougner@northland.edu
+   Username: cfougner
+   Phone: (715) 682-1880
+   Original line: Cal Fougner Head Baseball Coach cfougner@northland.edu 715-682-1880 @coachfougner19
+
+2. Nick Rackley
+   Email: nrackley@northland.edu
+   Username: nrackley
+   Phone: (715) 682-1256
+   Original line: Nick Rackley Assistant Baseball Coach nrackley@northland.edu 715-682-1256
+
+3. Shane Buckley
+   Email: sbuckley@northland.edu
+   Username: sbuckley
+   Original line: Shane Buckley Volunteer Assistant Coach sbuckley@northland.edu
+
+4. Adam LaRose
+   Email: alarose@northland.edu
+   Username: alarose
+   Original line: Adam LaRose Assistant Coach alarose@northland.edu
+
+5. Nick Nemec
+   Email: nnemec@northland.edu
+   Username: nnemec
+   Phone: (715) 682-1238
+   Original line: Nick Nemec Head Cross Country Coach nnemec@northland.edu 715-682-1238
+
+6. Ken Bartelt
+   Email: kbartelt@northland.edu
+   Username: kbartelt
+   Original line: Ken Bartelt Head Golf Coach kbartelt@northland.edu (O) 715-682-
+
+7. Austin Hurley
+   Email: ahurley@northland.edu
+   Username: ahurley
+   Phone: (715) 682-1985
+   Original line: Austin Hurley Head Lacrosse Coach ahurley@northland.edu 715-682-1985
+
+8. Lee Dennis
+   Email: ldennis@northland.edu
+   Username: ldennis
+   Phone: (715) 682-1594
+   Original line: Lee Dennis Head Men's Soccer Coach ldennis@northland.edu 715-682-1594
+
+9. Dana Wiezorek
+   Email: dwiezorek@northland.edu
+   Username: dwiezorek
+   Phone: (715) 292-0321
+   Original line: Dana Wiezorek Head Softball Coach dwiezorek@northland.edu 715-292-0321
+
+10. Hope Neargarder
+   Email: hneargarder@northland.edu
+   Username: hneargarder
+   Phone: (715) 682-1868
+   Original line: Hope Neargarder Head Volleyball Coach hneargarder@northland.edu 715-682-1868
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Cal Fougner Head Baseball Coach cfougner@northland.edu 715-682-1880 @coachfougner19
+• Nick Rackley Assistant Baseball Coach nrackley@northland.edu 715-682-1256
+• Shane Buckley Volunteer Assistant Coach sbuckley@northland.edu
+• Adam LaRose Assistant Coach alarose@northland.edu
+• Nick Nemec Head Cross Country Coach nnemec@northland.edu 715-682-1238
+• Ken Bartelt Head Golf Coach kbartelt@northland.edu (O) 715-682-
+• Austin Hurley Head Lacrosse Coach ahurley@northland.edu 715-682-1985
+• Lee Dennis Head Men's Soccer Coach ldennis@northland.edu 715-682-1594
+• Dana Wiezorek Head Softball Coach dwiezorek@northland.edu 715-292-0321
+• Hope Neargarder Head Volleyball Coach hneargarder@northland.edu 715-682-1868

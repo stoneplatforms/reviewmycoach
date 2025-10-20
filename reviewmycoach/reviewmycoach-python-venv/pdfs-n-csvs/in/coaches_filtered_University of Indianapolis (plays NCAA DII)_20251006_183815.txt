@@ -1,0 +1,331 @@
+COACH ENTRIES FOUND - 2025-10-06 18:38:15
+============================================================
+
+Total coaches found: 50
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brent Noble
+   Email: nobleba@uindy.edu
+   Username: nobleba
+   Phone: (317) 995-6291
+   Original line: Brent Noble Head Coach / Recruiting & Enrollment Coordinator nobleba@uindy.edu 995-6291
+
+2. Evan Franks
+   Email: frankser@uindy.edu
+   Username: frankser
+   Phone: (317) 788-2391
+   Original line: Evan Franks Assistant Strength & Conditioning Coach frankser@uindy.edu 788-2391
+
+3. Gabe Ogdan
+   Email: ogdang@uindy.edu
+   Username: ogdang
+   Original line: Gabe Ogdan Assistant Strength & Conditioning Coach ogdang@uindy.edu
+
+4. Al Ready
+   Email: readyaj@uindy.edu
+   Username: readyaj
+   Phone: (317) 788-2199
+   Original line: Al Ready Head Coach readyaj@uindy.edu 788-2199
+
+5. EJ Devarie
+   Email: devariee@uindy.edu
+   Username: devariee
+   Phone: (317) 788-2199
+   Original line: EJ Devarie Assistant Coach devariee@uindy.edu 788-2199
+
+6. Chris Brady
+   Email: cbrady.strength@gmail.com
+   Username: cbrady.strength
+   Original line: Chris Brady Volunteer Assistant Coach cbrady.strength@gmail.com
+
+7. Jama Sharp
+   Email: sharpjl@uindy.edu
+   Username: sharpjl
+   Phone: (317) 788-3374
+   Original line: Jama Sharp Head Coach sharpjl@uindy.edu 788-3374
+
+8. Darion Hutchinson
+   Email: hutchinsond@uindy.edu
+   Username: hutchinsond
+   Original line: Darion Hutchinson Assistant Coach hutchinsond@uindy.edu
+
+9. Scott Heady
+   Email: headys@uindy.edu
+   Username: headys
+   Phone: (317) 788-3345
+   Original line: Scott Heady Head Coach headys@uindy.edu 788-3345
+
+10. Sean Howard
+   Email: howards001@uindy.edu
+   Username: howards001
+   Original line: Sean Howard Assistant Coach howards001@uindy.edu
+
+11. Cam Estes
+   Email: estescj@uindy.edu
+   Username: estescj
+   Original line: Cam Estes Head Coach estescj@uindy.edu
+
+12. Jennifer Jabbari
+   Email: norlockj@uindy.edu
+   Username: norlockj
+   Phone: (317) 788-3246
+   Original line: Jennifer Jabbari Head Coach norlockj@uindy.edu 788-3246
+
+13. Chris Keevers
+   Email: ckeevers@uindy.edu
+   Username: ckeevers
+   Original line: Chris Keevers Head Coach ckeevers@uindy.edu
+
+14. Michael Engle
+   Email: englem@uindy.edu
+   Username: englem
+   Original line: Michael Engle Assistant Head Coach / Offensive Coordinator englem@uindy.edu
+
+15. John Bivens
+   Email: bivensj@uindy.edu
+   Username: bivensj
+   Original line: John Bivens Assistant Coach bivensj@uindy.edu
+
+16. Carter Hendricks
+   Email: hendricksco@uindy.edu
+   Username: hendricksco
+   Original line: Carter Hendricks Assistant Coach hendricksco@uindy.edu
+
+17. Nate Papandrea
+   Email: papandrean@uindy.edu
+   Username: papandrean
+   Original line: Nate Papandrea Assistant Coach papandrean@uindy.edu
+
+18. Jeff Bowens
+   Email: bowensj@uindy.edu
+   Username: bowensj
+   Original line: Jeff Bowens Assistant Coach bowensj@uindy.edu
+
+19. Evan Moss
+   Email: mosset@uindy.edu
+   Username: mosset
+   Original line: Evan Moss Assistant Coach mosset@uindy.edu
+
+20. Andy Serketich
+   Email: serketicha@uindy.edu
+   Username: serketicha
+   Phone: (317) 788-3368
+   Original line: Andy Serketich Head Coach serketicha@uindy.edu 788-3368
+
+21. Ellen Caton
+   Email: catone@uindy.edu
+   Username: catone
+   Original line: Ellen Caton Graduate Assistant/Assistant Coach catone@uindy.edu
+
+22. Peyton Romig
+   Email: romigp@uindy.edu
+   Username: romigp
+   Phone: (317) 788-5011
+   Original line: Peyton Romig Head Coach romigp@uindy.edu 788-5011
+
+23. Casey Korb
+   Email: ckorb@uindy.edu
+   Username: ckorb
+   Original line: Casey Korb Associate Head Coach ckorb@uindy.edu
+
+24. Greg Stocks
+   Email: stocksg@uindy.edu
+   Username: stocksg
+   Phone: (317) 788-5010
+   Original line: Greg Stocks Head Coach stocksg@uindy.edu 788-5010
+
+25. Austin Grimes
+   Email: grimesa@uindy.edu
+   Username: grimesa
+   Phone: (262) 227-5183
+   Original line: Austin Grimes Associate Head Coach grimesa@uindy.edu 262-227-5183
+
+26. Kelli Beheler
+   Email: behelerk@uindy.edu
+   Username: behelerk
+   Phone: (317) 791-5959
+   Original line: Kelli Beheler Head Coach behelerk@uindy.edu 791-5959
+
+27. Sarah Doyle
+   Email: doyless@uindy.edu
+   Username: doyless
+   Original line: Sarah Doyle Assistant Coach doyless@uindy.edu
+
+28. Brandon Butler
+   Email: Butlerbr@uindy.edu
+   Username: Butlerbr
+   Original line: Brandon Butler Assistant Coach Butlerbr@uindy.edu
+
+29. Gabe Hall
+   Email: hallgm@uindy.edu
+   Username: hallgm
+   Phone: (317) 788-6111
+   Original line: Gabe Hall Head Coach hallgm@uindy.edu 788-6111
+
+30. Matthew Roop
+   Email: roopm@uindy.edu
+   Username: roopm
+   Phone: (317) 788-6111
+   Original line: Matthew Roop Assistant Coach roopm@uindy.edu 788-6111
+
+31. Hayden Howard
+   Email: howardh@uindy.edu
+   Username: howardh
+   Original line: Hayden Howard Assistant Coach howardh@uindy.edu
+
+32. Melissa Frost
+   Email: mfrost@uindy.edu
+   Username: mfrost
+   Phone: (317) 788-2198
+   Original line: Melissa Frost Head Coach mfrost@uindy.edu 788-2198
+
+33. Ben Ferrell
+   Email: ferrellb@uindy.edu
+   Username: ferrellb
+   Phone: (317) 788-5958
+   Original line: Ben Ferrell Assistant Coach ferrellb@uindy.edu 788-5958
+
+34. Brent Noble
+   Email: nobleba@uindy.edu
+   Username: nobleba
+   Phone: (317) 995-6291
+   Original line: Brent Noble Head Coach / Recruiting & Enrollment Coordinator nobleba@uindy.edu 995-6291
+
+35. Corey Cole
+   Email: colect@uindy.edu
+   Username: colect
+   Original line: Corey Cole Diving Coach colect@uindy.edu
+
+36. Andrea Vega
+   Email: vegaa@uindy.edu
+   Username: vegaa
+   Original line: Andrea Vega Assistant Coach vegaa@uindy.edu
+
+37. Kelly Wynns
+   Email: wynnsk@uindy.edu
+   Username: wynnsk
+   Original line: Kelly Wynns Assistant Coach wynnsk@uindy.edu
+
+38. Drew Reinke
+   Email: reinked@uindy.edu
+   Username: reinked
+   Original line: Drew Reinke Assistant Coach reinked@uindy.edu
+
+39. Malik Tabet
+   Email: tabetm@uindy.edu
+   Username: tabetm
+   Phone: (317) 788-7713
+   Original line: Malik Tabet Head Coach / Director of UIndy Tennis Center tabetm@uindy.edu 788-7713
+
+40. Sarah Dev
+   Email: devs@uindy.edu
+   Username: devs
+   Original line: Sarah Dev Graduate Assistant Coach devs@uindy.edu
+
+41. Matt Royer
+   Email: royerw@uindy.edu
+   Username: royerw
+   Original line: Matt Royer Assistant Coach royerw@uindy.edu
+
+42. Trace Oswalt
+   Email: oswaltj@uindy.edu
+   Username: oswaltj
+   Original line: Trace Oswalt Assistant Coach oswaltj@uindy.edu
+
+43. David Payne
+   Email: paynedm@uindy.edu
+   Username: paynedm
+   Original line: David Payne Assistant Coach paynedm@uindy.edu
+
+44. Kirsti Oswalt
+   Email: reedka@uindy.edu
+   Username: reedka
+   Original line: Kirsti Oswalt Assistant Coach reedka@uindy.edu
+
+45. Doug Robinson
+   Email: robinsondj@uindy.edu
+   Username: robinsondj
+   Original line: Doug Robinson Head Coach robinsondj@uindy.edu
+
+46. Haley Case
+   Email: kindallh@uindy.edu
+   Username: kindallh
+   Phone: (614) 940-5275
+   Original line: Haley Case Head Coach kindallh@uindy.edu 614-940-5275
+
+47. Stephanie Sylvester
+   Email: sylvesters@uindy.edu
+   Username: sylvesters
+   Original line: Stephanie Sylvester Assistant Coach sylvesters@uindy.edu
+
+48. Jason Warthan
+   Email: warthanjc@uindy.edu
+   Username: warthanjc
+   Phone: (317) 788-3417
+   Original line: Jason Warthan Head Coach warthanjc@uindy.edu 788-3417
+
+49. Nick Crume
+   Email: crumen@uindy.edu
+   Username: crumen
+   Original line: Nick Crume Assistant Coach crumen@uindy.edu
+
+50. Ivan Lopouchanski
+   Email: Lopouchanskii@uindy.edu
+   Username: Lopouchanskii
+   Original line: Ivan Lopouchanski Assistant Coach Lopouchanskii@uindy.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brent Noble Head Coach / Recruiting & Enrollment Coordinator nobleba@uindy.edu 995-6291
+• Evan Franks Assistant Strength & Conditioning Coach frankser@uindy.edu 788-2391
+• Gabe Ogdan Assistant Strength & Conditioning Coach ogdang@uindy.edu
+• Al Ready Head Coach readyaj@uindy.edu 788-2199
+• EJ Devarie Assistant Coach devariee@uindy.edu 788-2199
+• Chris Brady Volunteer Assistant Coach cbrady.strength@gmail.com
+• Jama Sharp Head Coach sharpjl@uindy.edu 788-3374
+• Darion Hutchinson Assistant Coach hutchinsond@uindy.edu
+• Scott Heady Head Coach headys@uindy.edu 788-3345
+• Sean Howard Assistant Coach howards001@uindy.edu
+• Cam Estes Head Coach estescj@uindy.edu
+• Jennifer Jabbari Head Coach norlockj@uindy.edu 788-3246
+• Chris Keevers Head Coach ckeevers@uindy.edu
+• Michael Engle Assistant Head Coach / Offensive Coordinator englem@uindy.edu
+• John Bivens Assistant Coach bivensj@uindy.edu
+• Carter Hendricks Assistant Coach hendricksco@uindy.edu
+• Nate Papandrea Assistant Coach papandrean@uindy.edu
+• Jeff Bowens Assistant Coach bowensj@uindy.edu
+• Evan Moss Assistant Coach mosset@uindy.edu
+• Andy Serketich Head Coach serketicha@uindy.edu 788-3368
+• Ellen Caton Graduate Assistant/Assistant Coach catone@uindy.edu
+• Peyton Romig Head Coach romigp@uindy.edu 788-5011
+• Casey Korb Associate Head Coach ckorb@uindy.edu
+• Greg Stocks Head Coach stocksg@uindy.edu 788-5010
+• Austin Grimes Associate Head Coach grimesa@uindy.edu 262-227-5183
+• Kelli Beheler Head Coach behelerk@uindy.edu 791-5959
+• Sarah Doyle Assistant Coach doyless@uindy.edu
+• Brandon Butler Assistant Coach Butlerbr@uindy.edu
+• Gabe Hall Head Coach hallgm@uindy.edu 788-6111
+• Matthew Roop Assistant Coach roopm@uindy.edu 788-6111
+• Hayden Howard Assistant Coach howardh@uindy.edu
+• Melissa Frost Head Coach mfrost@uindy.edu 788-2198
+• Ben Ferrell Assistant Coach ferrellb@uindy.edu 788-5958
+• Brent Noble Head Coach / Recruiting & Enrollment Coordinator nobleba@uindy.edu 995-6291
+• Corey Cole Diving Coach colect@uindy.edu
+• Andrea Vega Assistant Coach vegaa@uindy.edu
+• Kelly Wynns Assistant Coach wynnsk@uindy.edu
+• Drew Reinke Assistant Coach reinked@uindy.edu
+• Malik Tabet Head Coach / Director of UIndy Tennis Center tabetm@uindy.edu 788-7713
+• Sarah Dev Graduate Assistant Coach devs@uindy.edu
+• Matt Royer Assistant Coach royerw@uindy.edu
+• Trace Oswalt Assistant Coach oswaltj@uindy.edu
+• David Payne Assistant Coach paynedm@uindy.edu
+• Kirsti Oswalt Assistant Coach reedka@uindy.edu
+• Doug Robinson Head Coach robinsondj@uindy.edu
+• Haley Case Head Coach kindallh@uindy.edu 614-940-5275
+• Stephanie Sylvester Assistant Coach sylvesters@uindy.edu
+• Jason Warthan Head Coach warthanjc@uindy.edu 788-3417
+• Nick Crume Assistant Coach crumen@uindy.edu
+• Ivan Lopouchanski Assistant Coach Lopouchanskii@uindy.edu

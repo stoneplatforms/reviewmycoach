@@ -1,0 +1,46 @@
+Printing results: Success=46 Skipped=7 Errors=0
+
+Skipped/Failed links:
+- Texas College.pdf: https://texascollege.edu/athletics -> HTTP 404 returned
+  tried: https://texascollege.edu/athletics?print=true, https://texascollege.edu/athletics/print, https://texascollege.edu/athletics, https://texascollege.edu/athletics/index?print=true, https://texascollege.edu/athletics/index/print, https://texascollege.edu/athletics/index
+- Texas A&M International University.pdf: https://dustdevilsathletics.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://dustdevilsathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://dustdevilsathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://dustdevilsathletics.com/staff-directory?print=true, https://dustdevilsathletics.com/staff-directory/print, https://dustdevilsathletics.com/staff-directory, https://dustdevilsathletics.com/staff-directory/index?print=true, https://dustdevilsathletics.com/staff-directory/index/print, https://dustdevilsathletics.com/staff-directory/index
+- Houston-Victoria, University of.pdf: https://uhvathletics.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://uhvathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://uhvathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://uhvathletics.com/staff-directory?print=true, https://uhvathletics.com/staff-directory/print, https://uhvathletics.com/staff-directory, https://uhvathletics.com/staff-directory/index?print=true, https://uhvathletics.com/staff-directory/index/print, https://uhvathletics.com/staff-directory/index
+- Jarvis Christian University.pdf: https://athletics.jarvis.edu/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://athletics.jarvis.edu/staff-directory/index
+Call log:
+  - navigating to "https://athletics.jarvis.edu/staff-directory/index", waiting until "networkidle"
+
+  tried: https://athletics.jarvis.edu/staff-directory?print=true, https://athletics.jarvis.edu/staff-directory/print, https://athletics.jarvis.edu/staff-directory, https://athletics.jarvis.edu/staff-directory/index?print=true, https://athletics.jarvis.edu/staff-directory/index/print, https://athletics.jarvis.edu/staff-directory/index
+- Austin College.pdf: https://austincollegeathletics.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://austincollegeathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://austincollegeathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://austincollegeathletics.com/staff-directory?print=true, https://austincollegeathletics.com/staff-directory/print, https://austincollegeathletics.com/staff-directory, https://austincollegeathletics.com/staff-directory/index?print=true, https://austincollegeathletics.com/staff-directory/index/print, https://austincollegeathletics.com/staff-directory/index
+- Southwestern Assemblies of God University (SAGU).pdf: https://sagu.edu/athletics -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://sagu.edu/athletics/index
+Call log:
+  - navigating to "https://sagu.edu/athletics/index", waiting until "networkidle"
+
+  tried: https://sagu.edu/athletics?print=true, https://sagu.edu/athletics/print, https://sagu.edu/athletics, https://sagu.edu/athletics/index?print=true, https://sagu.edu/athletics/index/print, https://sagu.edu/athletics/index
+- Schreiner University.pdf: https://mountaineersports.com/staff-directory -> Navigation failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://mountaineersports.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://mountaineersports.com/staff-directory?print=true, https://mountaineersports.com/staff-directory/print, https://mountaineersports.com/staff-directory, https://mountaineersports.com/staff-directory/index?print=true, https://mountaineersports.com/staff-directory/index/print, https://mountaineersports.com/staff-directory/index
+
+PDFs with zero coaches detected:
+- University of Texas at Austin.pdf
+- Rice University.pdf
+- Texas Tech University.pdf
+- Texas A&M University–Kingsville.pdf
+- Stephen F. Austin State University.pdf
+- University of Houston.pdf
+- Our Lady of the Lake University.pdf
+- Paul Quinn College.pdf
+- Texas A&M University.pdf

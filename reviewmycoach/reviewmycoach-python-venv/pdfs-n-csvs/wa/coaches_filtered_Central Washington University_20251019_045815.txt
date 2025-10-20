@@ -1,0 +1,131 @@
+COACH ENTRIES FOUND - 2025-10-19 04:58:16
+============================================================
+
+Total coaches found: 20
+
+PARSED ENTRIES:
+----------------------------------------
+1. Desi Storey
+   Email: storeyd@cwu.edu
+   Username: storeyd
+   Original line: Desi Storey Head Baseball Coach Central 509- storeyd@cwu.edu
+
+2. Brayde Hirai
+   Email: Brayde.Hirai@cwu.edu
+   Username: Brayde.Hirai
+   Original line: Brayde Hirai Assistant Coach Central Brayde.Hirai@cwu.edu
+
+3. Brandon Rinta
+   Email: Rintab@cwu.edu
+   Username: Rintab
+   Original line: Brandon Rinta Head Men's Basketball Coach Central 509- Rintab@cwu.edu
+
+4. Xavier Kamalu-Vargas
+   Email: Xavier.Kamalu-Vargas@cwu.edu
+   Username: Xavier.Kamalu-Vargas
+   Original line: Xavier Kamalu-Vargas Assistant Coach Central Xavier.Kamalu-Vargas@cwu.edu
+
+5. Tiara Scott
+   Email: Tiara.Scott@cwu.edu
+   Username: Tiara.Scott
+   Original line: Tiara Scott Graduate Assistant Coach Cal State - LA, Tiara.Scott@cwu.edu
+
+6. Brooke Wales
+   Email: Brooke.wales@cwu.edu
+   Username: Brooke.wales
+   Original line: Brooke Wales Cheer Coach 509- Brooke.wales@cwu.edu
+
+7. Chris Fisk
+   Email: FiskCh@cwu.edu
+   Username: FiskCh
+   Original line: Chris Fisk Head Football Coach / Tight Jamestown, 509- FiskCh@cwu.edu
+
+8. Grant Torgerson
+   Email: Grant.Torgerson@cwu.edu
+   Username: Grant.Torgerson
+   Original line: Grant Torgerson Associate Head Coach / Southern Grant.Torgerson@cwu.edu
+
+9. Patrick Belony
+   Email: Belonyp@cwu.edu
+   Username: Belonyp
+   Original line: Patrick Belony Defensive Line Coach Fresno State, Belonyp@cwu.edu
+
+10. Alex Kastens
+   Email: KastensA@cwu.edu
+   Username: KastensA
+   Original line: Alex Kastens Offensive Line Coach Carroll (MT), KastensA@cwu.edu
+
+11. Darrien Gaines
+   Email: Darrien.Gaines@cwu.edu
+   Username: Darrien.Gaines
+   Original line: Darrien Gaines Graduate Assistant Coach / Central Darrien.Gaines@cwu.edu
+
+12. Ju'Wan Murphy
+   Email: MurphyJuW@cwu.edu
+   Username: MurphyJuW
+   Original line: Ju'Wan Murphy Graduate Assistant Coach / Chadron State, MurphyJuW@cwu.edu
+
+13. John Hawks
+   Email: john.hawks@cwu.edu
+   Username: john.hawks
+   Original line: John Hawks Head Women's Soccer Coach Missouri, 2006 509- john.hawks@cwu.edu
+
+14. Sam Bowman
+   Email: Samantha.Bowman@cwu.edu
+   Username: Samantha.Bowman
+   Original line: Sam Bowman Assistant Coach Central Samantha.Bowman@cwu.edu
+
+15. Ronnie Ladines
+   Email: Ladinesv@cwu.edu
+   Username: Ladinesv
+   Original line: Ronnie Ladines Head Softball Coach Kent State, 509- Ladinesv@cwu.edu
+
+16. Sydney Wells
+   Email: Sydney.wells2@cwu.edu
+   Username: Sydney.wells2
+   Original line: Sydney Wells Assistant Coach Fordham, 2025 Sydney.wells2@cwu.edu
+
+17. Jillian Hampson
+   Email: Jillian.Hampson@cwu.edu
+   Username: Jillian.Hampson
+   Original line: Jillian Hampson Graduate Assistant Coach Central Jillian.Hampson@cwu.edu
+
+18. Mario Andaya
+   Email: andayam@cwu.edu
+   Username: andayam
+   Original line: Mario Andaya Head Volleyball Coach Central 509- andayam@cwu.edu
+
+19. Joe Holland
+   Email: joseph.holland@cwu.edu
+   Username: joseph.holland
+   Original line: Joe Holland Assistant Coach Western joseph.holland@cwu.edu
+
+20. Morgan Halady
+   Email: Morgan.halady@cwu.edu
+   Username: Morgan.halady
+   Original line: Morgan Halady Graduate Assistant Coach Central Morgan.halady@cwu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Desi Storey Head Baseball Coach Central 509- storeyd@cwu.edu
+• Brayde Hirai Assistant Coach Central Brayde.Hirai@cwu.edu
+• Brandon Rinta Head Men's Basketball Coach Central 509- Rintab@cwu.edu
+• Xavier Kamalu-Vargas Assistant Coach Central Xavier.Kamalu-Vargas@cwu.edu
+• Tiara Scott Graduate Assistant Coach Cal State - LA, Tiara.Scott@cwu.edu
+• Brooke Wales Cheer Coach 509- Brooke.wales@cwu.edu
+• Chris Fisk Head Football Coach / Tight Jamestown, 509- FiskCh@cwu.edu
+• Grant Torgerson Associate Head Coach / Southern Grant.Torgerson@cwu.edu
+• Patrick Belony Defensive Line Coach Fresno State, Belonyp@cwu.edu
+• Alex Kastens Offensive Line Coach Carroll (MT), KastensA@cwu.edu
+• Darrien Gaines Graduate Assistant Coach / Central Darrien.Gaines@cwu.edu
+• Ju'Wan Murphy Graduate Assistant Coach / Chadron State, MurphyJuW@cwu.edu
+• John Hawks Head Women's Soccer Coach Missouri, 2006 509- john.hawks@cwu.edu
+• Sam Bowman Assistant Coach Central Samantha.Bowman@cwu.edu
+• Ronnie Ladines Head Softball Coach Kent State, 509- Ladinesv@cwu.edu
+• Sydney Wells Assistant Coach Fordham, 2025 Sydney.wells2@cwu.edu
+• Jillian Hampson Graduate Assistant Coach Central Jillian.Hampson@cwu.edu
+• Mario Andaya Head Volleyball Coach Central 509- andayam@cwu.edu
+• Joe Holland Assistant Coach Western joseph.holland@cwu.edu
+• Morgan Halady Graduate Assistant Coach Central Morgan.halady@cwu.edu

@@ -1,0 +1,119 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:04
+============================================================
+
+Total coaches found: 18
+
+PARSED ENTRIES:
+----------------------------------------
+1. Wes Carroll
+   Email: wc2@evansville.edu
+   Username: wc2
+   Original line: Wes Carroll Head Baseball Coach wc2@evansville.edu (812)
+
+2. Matt Wollenzin
+   Email: MW312@evansville.edu
+   Username: MW312
+   Original line: Matt Wollenzin Assistant Baseball Coach MW312@evansville.edu
+
+3. Jarrett Blunt
+   Email: jb928@evansville.edu
+   Username: jb928
+   Original line: Jarrett Blunt Pitching Coach jb928@evansville.edu
+
+4. Brendan Hord
+   Email: bh312@evansville.edu
+   Username: bh312
+   Original line: Brendan Hord Assistant Baseball Coach bh312@evansville.edu
+
+5. Robyn Scherr
+   Email: rs361@evansville.edu
+   Username: rs361
+   Original line: Robyn Scherr Head Women's Basketball Coach rs361@evansville.edu @CoachRSW
+
+6. Ryan Freeman
+   Email: rf90@evansville.edu
+   Username: rf90
+   Original line: Ryan Freeman Assistant Track & Field Coach rf90@evansville.edu
+
+7. Robbe Tarver
+   Email: rt134@evansville.edu
+   Username: rt134
+   Original line: Robbe Tarver Head Men's Soccer Coach rt134@evansville.edu (812)
+
+8. Matt Melzer
+   Email: mm1059@evansville.edu
+   Username: mm1059
+   Original line: Matt Melzer Associate Head Coach mm1059@evansville.edu 812-488-
+
+9. Chris Pfau
+   Email: cp60@evansville.edu
+   Username: cp60
+   Original line: Chris Pfau Head Women’s Soccer Coach cp60@evansville.edu (812)
+
+10. Grace White
+   Email: gm124@evansville.edu
+   Username: gm124
+   Original line: Grace White Assistant Women's Soccer Coach gm124@evansville.edu (812)
+
+11. Bailey Dillender
+   Email: bd237@evansville.edu
+   Username: bd237
+   Original line: Bailey Dillender Head Softball Coach bd237@evansville.edu
+
+12. Alyssa Richards
+   Email: ar639@evansville.edu
+   Username: ar639
+   Original line: Alyssa Richards Associate Head Softball Coach ar639@evansville.edu
+
+13. Mia Aldridge
+   Email: ma551@evansville.edu
+   Username: ma551
+   Original line: Mia Aldridge Assistant Softball Coach ma551@evansville.edu
+
+14. Jeanay Riley
+   Email: jr482@evansville.edu
+   Username: jr482
+   Original line: Jeanay Riley Assistant Softball Coach jr482@evansville.edu
+
+15. Toby Wilcox
+   Email: tw247@evansville.edu
+   Username: tw247
+   Original line: Toby Wilcox Head Swimming and Diving Coach tw247@evansville.edu 812-488-
+
+16. Dustin Bredemeier
+   Email: db35@evansville.edu
+   Username: db35
+   Original line: Dustin Bredemeier UE Assistant / Diving Coach db35@evansville.edu (812)
+
+17. Zach Weinberg
+   Email: zw57@evansville.edu
+   Username: zw57
+   Original line: Zach Weinberg Head Volleyball Coach zw57@evansville.edu
+
+18. Drew Davis
+   Email: ad497@evansville.edu
+   Username: ad497
+   Original line: Drew Davis Assistant Volleyball Coach ad497@evansville.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Wes Carroll Head Baseball Coach wc2@evansville.edu (812)
+• Matt Wollenzin Assistant Baseball Coach MW312@evansville.edu
+• Jarrett Blunt Pitching Coach jb928@evansville.edu
+• Brendan Hord Assistant Baseball Coach bh312@evansville.edu
+• Robyn Scherr Head Women's Basketball Coach rs361@evansville.edu @CoachRSW
+• Ryan Freeman Assistant Track & Field Coach rf90@evansville.edu
+• Robbe Tarver Head Men's Soccer Coach rt134@evansville.edu (812)
+• Matt Melzer Associate Head Coach mm1059@evansville.edu 812-488-
+• Chris Pfau Head Women’s Soccer Coach cp60@evansville.edu (812)
+• Grace White Assistant Women's Soccer Coach gm124@evansville.edu (812)
+• Bailey Dillender Head Softball Coach bd237@evansville.edu
+• Alyssa Richards Associate Head Softball Coach ar639@evansville.edu
+• Mia Aldridge Assistant Softball Coach ma551@evansville.edu
+• Jeanay Riley Assistant Softball Coach jr482@evansville.edu
+• Toby Wilcox Head Swimming and Diving Coach tw247@evansville.edu 812-488-
+• Dustin Bredemeier UE Assistant / Diving Coach db35@evansville.edu (812)
+• Zach Weinberg Head Volleyball Coach zw57@evansville.edu
+• Drew Davis Assistant Volleyball Coach ad497@evansville.edu

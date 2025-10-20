@@ -1,0 +1,261 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:42
+============================================================
+
+Total coaches found: 39
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tarik Hakmi
+   Email: thakmi@stanford.edu
+   Username: thakmi
+   Original line: Tarik Hakmi Coach • DASH thakmi@stanford.edu
+
+2. Ethan Stokes
+   Email: ejstokes@stanford.edu
+   Username: ejstokes
+   Original line: Ethan Stokes Coaching ejstokes@stanford.edu
+
+3. Sarah Levine
+   Email: sblevine@stanford.edu
+   Username: sblevine
+   Original line: Sarah Levine Head Cheer Coach sblevine@stanford.edu
+
+4. Assistant Coach
+   Email: smrodriguez@stanford.edu
+   Username: smrodriguez
+   Original line: Assistant Coach smrodriguez@stanford.edu
+
+5. Assistant Coach
+   Email: amercurio@stanford.edu
+   Username: amercurio
+   Original line: Assistant Coach amercurio@stanford.edu
+
+6. Assistant Coach
+   Email: Wayne.hunter@stanford.edu
+   Username: Wayne.hunter
+   Original line: Assistant Coach Wayne.hunter@stanford.edu
+
+7. Assistant Coach
+   Email: harden1@stanford.edu
+   Username: harden1
+   Original line: Assistant Coach harden1@stanford.edu
+
+8. Assistant Coach
+   Email: bmac10@stanford.edu
+   Username: bmac10
+   Original line: Assistant Coach bmac10@stanford.edu
+
+9. Erica McCall
+   Email: emccall@stanford.edu
+   Username: emccall
+   Phone: 650.723.0284
+   Original line: Erica McCall Assistant Coach emccall@stanford.edu 650.723.0284
+
+10. Assistant Coach
+   Email: jfpohlen@stanford.edu
+   Username: jfpohlen
+   Phone: 650.723.0284
+   Original line: Assistant Coach jfpohlen@stanford.edu 650.723.0284
+
+11. Andrew Fuller
+   Email: abfuller@stanford.edu
+   Username: abfuller
+   Phone: 650.930.0207
+   Original line: Andrew Fuller Head Coach abfuller@stanford.edu 650.930.0207
+
+12. Jo Kremer
+   Email: jokremer@stanford.edu
+   Username: jokremer
+   Original line: Jo Kremer Assistant Coach jokremer@stanford.edu
+
+13. Billy Allen
+   Email: billyall@stanford.edu
+   Username: billyall
+   Original line: Billy Allen Assistant Coach billyall@stanford.edu
+
+14. Assistant Coach
+   Email: stefanol@stanford.edu
+   Username: stefanol
+   Original line: Assistant Coach stefanol@stanford.edu
+
+15. Thom Glielmi
+   Email: glielmi@stanford.edu
+   Username: glielmi
+   Phone: 650.723.9591
+   Original line: Thom Glielmi Head Coach glielmi@stanford.edu 650.723.9591
+
+16. Assistant Coach
+   Email: rubenlm@stanford.edu
+   Username: rubenlm
+   Original line: Assistant Coach rubenlm@stanford.edu
+
+17. Caleb Rickard
+   Email: cdr2@stanford.edu
+   Username: cdr2
+   Phone: 650.519.8908
+   Original line: Caleb Rickard Assistant Coach cdr2@stanford.edu 650.519.8908
+
+18. Brian Kelly
+   Email: bdk26@stanford.edu
+   Username: bdk26
+   Original line: Brian Kelly Assistant Coach bdk26@stanford.edu
+
+19. John Pojednic
+   Email: pojednic@stanford.edu
+   Username: pojednic
+   Original line: John Pojednic Assistant Coach pojednic@stanford.edu
+
+20. Assistant Coach
+   Email: antkug@stanford.edu
+   Username: antkug
+   Phone: 650.779.7028
+   Original line: Assistant Coach antkug@stanford.edu 650.779.7028
+
+21. Assistant Coach
+   Email: esprig@stanford.edu
+   Username: esprig
+   Original line: Assistant Coach esprig@stanford.edu
+
+22. Chris Klevan
+   Email: ctklevan@stanford.edu
+   Username: ctklevan
+   Phone: 757.434.5232
+   Original line: Chris Klevan Head Coach ctklevan@stanford.edu 757.434.5232
+
+23. Assistant Coach
+   Email: wsh33@stanford.edu
+   Username: wsh33
+   Phone: 305.495.0130
+   Original line: Assistant Coach wsh33@stanford.edu 305.495.0130
+
+24. Assistant Coach
+   Email: lachmcg@stanford.edu
+   Username: lachmcg
+   Phone: 412.660.4468
+   Original line: Assistant Coach lachmcg@stanford.edu 412.660.4468
+
+25. Assistant Coach
+   Email: smsoccer@stanford.edu
+   Username: smsoccer
+   Phone: 650.643.7961
+   Original line: Assistant Coach smsoccer@stanford.edu 650.643.7961
+
+26. Assistant Coach
+   Email: daisysan@stanford.edu
+   Username: daisysan
+   Original line: Assistant Coach daisysan@stanford.edu
+
+27. Assistant Coach
+   Email: bvisalli@stanford.edu
+   Username: bvisalli
+   Original line: Assistant Coach bvisalli@stanford.edu
+
+28. Assistant Coach
+   Email: dotoole@stanford.edu
+   Username: dotoole
+   Original line: Assistant Coach dotoole@stanford.edu
+
+29. Mark Talbott
+   Email: mtalbott@stanford.edu
+   Username: mtalbott
+   Phone: 650.725.8699
+   Original line: Mark Talbott Head Coach mtalbott@stanford.edu 650.725.8699
+
+30. Nick Talbott
+   Email: ntalbott@stanford.edu
+   Username: ntalbott
+   Phone: 650.815.1677
+   Original line: Nick Talbott Coach, Women's ntalbott@stanford.edu 650.815.1677
+
+31. Head Coach
+   Email: mazebu@stanford.edu
+   Username: mazebu
+   Phone: 650.725.0128
+   Original line: Head Coach mazebu@stanford.edu 650.725.0128
+
+32. Assistant Coach
+   Email: elvirak@stanford.edu
+   Username: elvirak
+   Phone: 650.724.2395
+   Original line: Assistant Coach elvirak@stanford.edu 650.724.2395
+
+33. Head Diving
+   Email: pjeffrey@stanford.edu
+   Username: pjeffrey
+   Phone: 650.723.9159
+   Original line: Head Diving Coach pjeffrey@stanford.edu 650.723.9159
+
+34. Assistant Coach
+   Email: marcusg2@stanford.edu
+   Username: marcusg2
+   Original line: Assistant Coach marcusg2@stanford.edu
+
+35. Mike Johnson
+   Email: mjohns2@stanford.edu
+   Username: mjohns2
+   Phone: 650.250.2240
+   Original line: Mike Johnson Assistant Coach mjohns2@stanford.edu 650.250.2240
+
+36. Assistant Coach
+   Email: lambillo@stanford.edu
+   Username: lambillo
+   Original line: Assistant Coach lambillo@stanford.edu
+
+37. Assistant Coach
+   Email: rneapole@stanford.edu
+   Username: rneapole
+   Original line: Assistant Coach rneapole@stanford.edu
+
+38. Sean Gray
+   Email: sgray141@stanford.edu
+   Username: sgray141
+   Original line: Sean Gray Assistant Coach sgray141@stanford.edu
+
+39. Assistant Coach
+   Email: hhidlay@stanford.edu
+   Username: hhidlay
+   Original line: Assistant Coach hhidlay@stanford.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tarik Hakmi Coach • DASH thakmi@stanford.edu
+• Ethan Stokes Coaching ejstokes@stanford.edu
+• Sarah Levine Head Cheer Coach sblevine@stanford.edu
+• Assistant Coach smrodriguez@stanford.edu
+• Assistant Coach amercurio@stanford.edu
+• Assistant Coach Wayne.hunter@stanford.edu
+• Assistant Coach harden1@stanford.edu
+• Assistant Coach bmac10@stanford.edu
+• Erica McCall Assistant Coach emccall@stanford.edu 650.723.0284
+• Assistant Coach jfpohlen@stanford.edu 650.723.0284
+• Andrew Fuller Head Coach abfuller@stanford.edu 650.930.0207
+• Jo Kremer Assistant Coach jokremer@stanford.edu
+• Billy Allen Assistant Coach billyall@stanford.edu
+• Assistant Coach stefanol@stanford.edu
+• Thom Glielmi Head Coach glielmi@stanford.edu 650.723.9591
+• Assistant Coach rubenlm@stanford.edu
+• Caleb Rickard Assistant Coach cdr2@stanford.edu 650.519.8908
+• Brian Kelly Assistant Coach bdk26@stanford.edu
+• John Pojednic Assistant Coach pojednic@stanford.edu
+• Assistant Coach antkug@stanford.edu 650.779.7028
+• Assistant Coach esprig@stanford.edu
+• Chris Klevan Head Coach ctklevan@stanford.edu 757.434.5232
+• Assistant Coach wsh33@stanford.edu 305.495.0130
+• Assistant Coach lachmcg@stanford.edu 412.660.4468
+• Assistant Coach smsoccer@stanford.edu 650.643.7961
+• Assistant Coach daisysan@stanford.edu
+• Assistant Coach bvisalli@stanford.edu
+• Assistant Coach dotoole@stanford.edu
+• Mark Talbott Head Coach mtalbott@stanford.edu 650.725.8699
+• Nick Talbott Coach, Women's ntalbott@stanford.edu 650.815.1677
+• Head Coach mazebu@stanford.edu 650.725.0128
+• Assistant Coach elvirak@stanford.edu 650.724.2395
+• Head Diving Coach pjeffrey@stanford.edu 650.723.9159
+• Assistant Coach marcusg2@stanford.edu
+• Mike Johnson Assistant Coach mjohns2@stanford.edu 650.250.2240
+• Assistant Coach lambillo@stanford.edu
+• Assistant Coach rneapole@stanford.edu
+• Sean Gray Assistant Coach sgray141@stanford.edu
+• Assistant Coach hhidlay@stanford.edu

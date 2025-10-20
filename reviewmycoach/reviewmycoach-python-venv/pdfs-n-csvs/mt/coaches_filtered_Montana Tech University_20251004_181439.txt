@@ -1,0 +1,125 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:39
+============================================================
+
+Total coaches found: 19
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brian Solomon
+   Email: bsolomon@mtech.edu
+   Username: bsolomon
+   Original line: Brian Solomon Head Volleyball Coach/Asst. AD of Eligibility & bsolomon@mtech.edu (406) 496-
+
+2. Adam Hiatt
+   Email: ahiatt@mtech.edu
+   Username: ahiatt
+   Original line: Adam Hiatt Head Men's Basketball Coach ahiatt@mtech.edu (406) 496- @MTechHoops
+
+3. Tyler Miller
+   Email: tmiller9@mtech.edu
+   Username: tmiller9
+   Original line: Tyler Miller Associate Head Men's Basketball Coach tmiller9@mtech.edu (406) 496- @MTechMiller
+
+4. Jeff Graham
+   Email: jgraham1@mtech.edu
+   Username: jgraham1
+   Original line: Jeff Graham Head Women's Basketball Coach jgraham1@mtech.edu (406) 496- @montanatech_WBB
+
+5. Frankie Bignell
+   Email: mbignell@mtech.edu
+   Username: mbignell
+   Original line: Frankie Bignell Assistant Women's Basketball Coach mbignell@mtech.edu (406) 496-
+
+6. Kyle Samson
+   Email: ksamson@mtech.edu
+   Username: ksamson
+   Original line: Kyle Samson Head Football Coach ksamson@mtech.edu (406) 496- @CoachKyleSamson
+
+7. Doug Schleeman
+   Email: dschleeman@mtech.edu
+   Username: dschleeman
+   Original line: Doug Schleeman Assistant Head Coach/Recruiting Coordinator dschleeman@mtech.edu (406) 496- @MTFBCoachSchlee
+
+8. Travis Dean
+   Email: tdean@mtech.edu
+   Username: tdean
+   Original line: Travis Dean Offensive Coordinator/Running Backs/Tight Ends Coach tdean@mtech.edu (406) 496- @CoachTravisDean
+
+9. Montell Allen
+   Email: mallen6@mtech.edu
+   Username: mallen6
+   Original line: Montell Allen Defensive Coordinator mallen6@mtech.edu (406) 496- @CoachMAllenFB
+
+10. Khalin Anderson
+   Email: kanderson10@mtech.edu
+   Username: kanderson10
+   Original line: Khalin Anderson Defensive Backs Coach/Strength & Conditioning kanderson10@mtech.edu (406) 496- @CoachAndersonMT
+
+11. Dan Thatcher
+   Email: dthatcher@mtech.edu
+   Username: dthatcher
+   Original line: Dan Thatcher Offensive Line/Run Game Coordinator dthatcher@mtech.edu (406) 496- @CoachThatcher
+
+12. Clifford Mann
+   Email: cmann4@mtech.edu
+   Username: cmann4
+   Original line: Clifford Mann Defensive Line Coach cmann4@mtech.edu @coachmann90
+
+13. Kody Torgerson
+   Email: ktorgerson@mtech.edu
+   Username: ktorgerson
+   Original line: Kody Torgerson Defensive Line Coach ktorgerson@mtech.edu
+
+14. David Starcevich
+   Email: dstarcevich@mtech.edu
+   Username: dstarcevich
+   Original line: David Starcevich Head Men's and Women's Golf Coach dstarcevich@mtech.edu
+
+15. Chuck Merrifield
+   Email: cmerrifield1@mtech.edu
+   Username: cmerrifield1
+   Original line: Chuck Merrifield Head Track & Field Coach cmerrifield1@mtech.edu (406) 496-
+
+16. Jacob Sundberg
+   Email: jsundberg@mtech.edu
+   Username: jsundberg
+   Original line: Jacob Sundberg Head Cross Country/Assistant Track & Field Coach jsundberg@mtech.edu (406) 496-
+
+17. Felisha Johnson
+   Email: fjohnson@mtech.edu
+   Username: fjohnson
+   Original line: Felisha Johnson Assistant Track & Field Coach - Throws fjohnson@mtech.edu
+
+18. Brian Solomon
+   Email: bsolomon@mtech.edu
+   Username: bsolomon
+   Original line: Brian Solomon Head Volleyball Coach/Asst. AD of Eligibility & bsolomon@mtech.edu (406) 496-
+
+19. Kristi Arntson
+   Email: kwitt@mtech.edu
+   Username: kwitt
+   Original line: Kristi Arntson Assistant Volleyball Coach kwitt@mtech.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brian Solomon Head Volleyball Coach/Asst. AD of Eligibility & bsolomon@mtech.edu (406) 496-
+• Adam Hiatt Head Men's Basketball Coach ahiatt@mtech.edu (406) 496- @MTechHoops
+• Tyler Miller Associate Head Men's Basketball Coach tmiller9@mtech.edu (406) 496- @MTechMiller
+• Jeff Graham Head Women's Basketball Coach jgraham1@mtech.edu (406) 496- @montanatech_WBB
+• Frankie Bignell Assistant Women's Basketball Coach mbignell@mtech.edu (406) 496-
+• Kyle Samson Head Football Coach ksamson@mtech.edu (406) 496- @CoachKyleSamson
+• Doug Schleeman Assistant Head Coach/Recruiting Coordinator dschleeman@mtech.edu (406) 496- @MTFBCoachSchlee
+• Travis Dean Offensive Coordinator/Running Backs/Tight Ends Coach tdean@mtech.edu (406) 496- @CoachTravisDean
+• Montell Allen Defensive Coordinator mallen6@mtech.edu (406) 496- @CoachMAllenFB
+• Khalin Anderson Defensive Backs Coach/Strength & Conditioning kanderson10@mtech.edu (406) 496- @CoachAndersonMT
+• Dan Thatcher Offensive Line/Run Game Coordinator dthatcher@mtech.edu (406) 496- @CoachThatcher
+• Clifford Mann Defensive Line Coach cmann4@mtech.edu @coachmann90
+• Kody Torgerson Defensive Line Coach ktorgerson@mtech.edu
+• David Starcevich Head Men's and Women's Golf Coach dstarcevich@mtech.edu
+• Chuck Merrifield Head Track & Field Coach cmerrifield1@mtech.edu (406) 496-
+• Jacob Sundberg Head Cross Country/Assistant Track & Field Coach jsundberg@mtech.edu (406) 496-
+• Felisha Johnson Assistant Track & Field Coach - Throws fjohnson@mtech.edu
+• Brian Solomon Head Volleyball Coach/Asst. AD of Eligibility & bsolomon@mtech.edu (406) 496-
+• Kristi Arntson Assistant Volleyball Coach kwitt@mtech.edu

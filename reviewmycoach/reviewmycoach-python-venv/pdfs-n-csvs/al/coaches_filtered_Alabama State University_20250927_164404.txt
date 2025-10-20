@@ -1,0 +1,170 @@
+COACH ENTRIES FOUND - 2025-09-27 16:44:04
+============================================================
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jose' Vazquez
+   Email: jvazquez@alasu.edu
+   Username: jvazquez
+   Original line: Jose' Vazquez Head Coach jvazquez@alasu.edu 5600 CoachVazquez27
+
+2. Drew Clark
+   Email: dclark@alasu.edu
+   Username: dclark
+   Original line: Drew Clark Associate Head dclark@alasu.edu 5607 Coach_Clark3
+
+3. Branch Kloess
+   Email: bkloess@alasu.edu
+   Username: bkloess
+   Original line: Branch Kloess Assistant Coach bkloess@alasu.edu
+
+4. Tyrone Levett
+   Email: tlevett@alasu.edu
+   Username: tlevett
+   Original line: Tyrone Levett Assistant Coach tlevett@alasu.edu 4510 tylevett
+
+5. Andrew Chatmon
+   Email: achatmon@alasu.edu
+   Username: achatmon
+   Original line: Andrew Chatmon Head Coach achatmon@alasu.edu 4558 AndrewChatmon2
+
+6. Porsha Redd
+   Email: predd@alasu.edu
+   Username: predd
+   Original line: Porsha Redd Head Coach predd@alasu.edu
+
+7. Ritchie Beene
+   Email: asuhornetstrack@gmail.com
+   Username: asuhornetstrack
+   Original line: Ritchie Beene Head Coach asuhornetstrack@gmail.com 8331 SETGO1
+
+8. Justin Anderson
+   Email: juanderson@alasu.edu
+   Username: juanderson
+   Original line: Justin Anderson Sprinters Coach juanderson@alasu.edu
+
+9. Jonathan Alexis
+   Email: jalexis@alasu.edu
+   Username: jalexis
+   Original line: Jonathan Alexis Jumpers Coach jalexis@alasu.edu
+
+10. Hannah White
+   Email: hwhite1123@alasu.edu
+   Username: hwhite1123
+   Original line: Hannah White Throwers Coach hwhite1123@alasu.edu
+
+11. Billy Gresham
+   Email: bgresham@alasu.edu
+   Username: bgresham
+   Phone: 229-7622
+   Original line: Billy Gresham Defensive bgresham@alasu.edu 229-7622 coach_gresham
+
+12. Johnathan Carr
+   Email: jcarr@alasu.edu
+   Username: jcarr
+   Original line: Johnathan Carr Assistant Coach jcarr@alasu.edu
+
+13. Will Glover
+   Email: wglover@alasu.edu
+   Username: wglover
+   Original line: Will Glover Assistant Coach wglover@alasu.edu
+
+14. Juwan Lewis
+   Email: jlewis@alasu.edu
+   Username: jlewis
+   Original line: Juwan Lewis Assistant Coach jlewis@alasu.edu
+
+15. Ronnie Scott
+   Email: rscott@alasu.edu
+   Username: rscott
+   Original line: Ronnie Scott Assistant Coach rscott@alasu.edu
+
+16. Ashton Green
+   Email: agreen@alasu.edu
+   Username: agreen
+   Original line: Ashton Green Assistant Coach agreen@alasu.edu
+
+17. Saeed Lee
+   Email: slee@alasu.edu
+   Username: slee
+   Original line: Saeed Lee Assistant Coach slee@alasu.edu
+
+18. Derrick Brown
+   Email: dbrown@alasu.edu
+   Username: dbrown
+   Original line: Derrick Brown Defensive dbrown@alasu.edu @coachdabrown
+
+19. Quincy Heard
+   Email: qheard@alasu.edu
+   Username: qheard
+   Phone: 604.8478
+   Original line: Quincy Heard Head Coach qheard@alasu.edu 604.8478
+
+20. Robert Clark
+   Email: rclark@alasu.edu
+   Username: rclark
+   Phone: 604.8478
+   Original line: Robert Clark Assistant Coach rclark@alasu.edu 604.8478
+
+21. Anuk Christiansz
+   Email: achristiansz@alasu.edu
+   Username: achristiansz
+   Original line: Anuk Christiansz Head Coach achristiansz@alasu.edu 4581
+
+22. Ritchie Beene
+   Email: asuhornetstrack@gmail.com
+   Username: asuhornetstrack
+   Original line: Ritchie Beene Head Coach asuhornetstrack@gmail.com 8331 SETGO1
+
+23. Justin Anderson
+   Email: juanderson@alasu.edu
+   Username: juanderson
+   Original line: Justin Anderson Sprinters Coach juanderson@alasu.edu
+
+24. Jonathan Alexis
+   Email: jalexis@alasu.edu
+   Username: jalexis
+   Original line: Jonathan Alexis Jumpers Coach jalexis@alasu.edu
+
+25. Hannah White
+   Email: hwhite1123@alasu.edu
+   Username: hwhite1123
+   Original line: Hannah White Throwers Coach hwhite1123@alasu.edu
+
+26. Penny Lucas-White
+   Email: plwhite@alasu.edu
+   Username: plwhite
+   Original line: Penny Lucas-White Head Coach plwhite@alasu.edu 7618 plucaswhite
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jose' Vazquez Head Coach jvazquez@alasu.edu 5600 CoachVazquez27
+• Drew Clark Associate Head dclark@alasu.edu 5607 Coach_Clark3
+• Branch Kloess Assistant Coach bkloess@alasu.edu
+• Tyrone Levett Assistant Coach tlevett@alasu.edu 4510 tylevett
+• Andrew Chatmon Head Coach achatmon@alasu.edu 4558 AndrewChatmon2
+• Porsha Redd Head Coach predd@alasu.edu
+• Ritchie Beene Head Coach asuhornetstrack@gmail.com 8331 SETGO1
+• Justin Anderson Sprinters Coach juanderson@alasu.edu
+• Jonathan Alexis Jumpers Coach jalexis@alasu.edu
+• Hannah White Throwers Coach hwhite1123@alasu.edu
+• Billy Gresham Defensive bgresham@alasu.edu 229-7622 coach_gresham
+• Johnathan Carr Assistant Coach jcarr@alasu.edu
+• Will Glover Assistant Coach wglover@alasu.edu
+• Juwan Lewis Assistant Coach jlewis@alasu.edu
+• Ronnie Scott Assistant Coach rscott@alasu.edu
+• Ashton Green Assistant Coach agreen@alasu.edu
+• Saeed Lee Assistant Coach slee@alasu.edu
+• Derrick Brown Defensive dbrown@alasu.edu @coachdabrown
+• Quincy Heard Head Coach qheard@alasu.edu 604.8478
+• Robert Clark Assistant Coach rclark@alasu.edu 604.8478
+• Anuk Christiansz Head Coach achristiansz@alasu.edu 4581
+• Ritchie Beene Head Coach asuhornetstrack@gmail.com 8331 SETGO1
+• Justin Anderson Sprinters Coach juanderson@alasu.edu
+• Jonathan Alexis Jumpers Coach jalexis@alasu.edu
+• Hannah White Throwers Coach hwhite1123@alasu.edu
+• Penny Lucas-White Head Coach plwhite@alasu.edu 7618 plucaswhite

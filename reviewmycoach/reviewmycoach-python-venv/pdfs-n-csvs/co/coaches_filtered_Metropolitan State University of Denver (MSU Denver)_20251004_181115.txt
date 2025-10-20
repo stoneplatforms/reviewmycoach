@@ -1,0 +1,143 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:15
+============================================================
+
+Total coaches found: 22
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jerrid Oates
+   Email: joates2@msudenver.edu
+   Username: joates2
+   Original line: Jerrid Oates Deputy Director of Athletics joates2@msudenver.edu 303-615- @CoachOates22
+
+2. Ryan Strain
+   Email: rstrain1@msudenver.edu
+   Username: rstrain1
+   Original line: Ryan Strain Head Coach rstrain1@msudenver.edu 303-615- @ryan_strain
+
+3. Jordan Price
+   Email: joprice@msudenver.edu
+   Username: joprice
+   Original line: Jordan Price Assistant Coach joprice@msudenver.edu
+
+4. Dan Ficke
+   Email: dficke@msudenver.edu
+   Username: dficke
+   Original line: Dan Ficke Head Coach dficke@msudenver.edu @CoachFicke
+
+5. Steve Kollar
+   Email: stkollar@msudenver.edu
+   Username: stkollar
+   Original line: Steve Kollar Assistant Coach stkollar@msudenver.edu
+
+6. Lynn Kennedy
+   Email: lykennedy@msudenver.edu
+   Username: lykennedy
+   Original line: Lynn Kennedy Head Coach lykennedy@msudenver.edu
+
+7. Kylie Jimenez
+   Email: kyjimenez@msudenver.edu
+   Username: kyjimenez
+   Original line: Kylie Jimenez Assistant Coach kyjimenez@msudenver.edu
+
+8. Desirae Hansen
+   Email: dehansen@msudenver.edu
+   Username: dehansen
+   Original line: Desirae Hansen Assistant Coach dehansen@msudenver.edu
+
+9. Amanda Rego
+   Email: arego1@msudenver.edu
+   Username: arego1
+   Original line: Amanda Rego Associate Head Coach (Distance) arego1@msudenver.edu 303-605- @RegoRunner
+
+10. Stefanie Ferguson
+   Email: sfergu26@msudenver.edu
+   Username: sfergu26
+   Original line: Stefanie Ferguson Head Coach sfergu26@msudenver.edu 303-615- @fergusos9
+
+11. Nick Kirchhof
+   Email: nkirchho@msudenver.edu
+   Username: nkirchho
+   Original line: Nick Kirchhof Head Coach nkirchho@msudenver.edu 303-605- @NKirch15
+
+12. Eric Bracy
+   Email: ebracy1@msudenver.edu
+   Username: ebracy1
+   Original line: Eric Bracy Associate Head Coach ebracy1@msudenver.edu 303-605- @CoachBracy
+
+13. Katie Hooker
+   Email: kahooker@msudenver.edu
+   Username: kahooker
+   Original line: Katie Hooker Head Coach kahooker@msudenver.edu 303-913-
+
+14. Chad Ashton
+   Email: chashton@msudenver.edu
+   Username: chashton
+   Original line: Chad Ashton Assistant Coach chashton@msudenver.edu
+
+15. Kristin Dedycker
+   Email: kwarren17@hotmail.com
+   Username: kwarren17
+   Original line: Kristin Dedycker Part-Time Assistant Coach kwarren17@hotmail.com
+
+16. Jeff Hooker
+   Email: jshooker246@gmail.com
+   Username: jshooker246
+   Original line: Jeff Hooker Volunteer Assistant Coach jshooker246@gmail.com
+
+17. Annie Van
+   Email: ahurst4@msudenver.edu
+   Username: ahurst4
+   Original line: Annie Van Wetzinga Head Coach ahurst4@msudenver.edu 303-615- @CoachVanW
+
+18. Christi Martinelli
+   Email: cmart372@msudenver.edu
+   Username: cmart372
+   Original line: Christi Martinelli Assistant Coach cmart372@msudenver.edu
+
+19. Kami Grammerstorf
+   Email: kgramme1@msudenver.edu
+   Username: kgramme1
+   Original line: Kami Grammerstorf Assistant Coach kgramme1@msudenver.edu
+
+20. Amanda Rego
+   Email: arego1@msudenver.edu
+   Username: arego1
+   Original line: Amanda Rego Associate Head Coach (Distance) arego1@msudenver.edu 303-605- @RegoRunner
+
+21. Jenny Glenn
+   Email: jglenn5@msudenver.edu
+   Username: jglenn5
+   Original line: Jenny Glenn Head Coach jglenn5@msudenver.edu 303-615- @VBCoachJGlenn
+
+22. Kaden Knepper
+   Email: kknepper@msudenver.edu
+   Username: kknepper
+   Original line: Kaden Knepper Assistant Coach kknepper@msudenver.edu 303-615- @Kknepp10
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jerrid Oates Deputy Director of Athletics joates2@msudenver.edu 303-615- @CoachOates22
+• Ryan Strain Head Coach rstrain1@msudenver.edu 303-615- @ryan_strain
+• Jordan Price Assistant Coach joprice@msudenver.edu
+• Dan Ficke Head Coach dficke@msudenver.edu @CoachFicke
+• Steve Kollar Assistant Coach stkollar@msudenver.edu
+• Lynn Kennedy Head Coach lykennedy@msudenver.edu
+• Kylie Jimenez Assistant Coach kyjimenez@msudenver.edu
+• Desirae Hansen Assistant Coach dehansen@msudenver.edu
+• Amanda Rego Associate Head Coach (Distance) arego1@msudenver.edu 303-605- @RegoRunner
+• Stefanie Ferguson Head Coach sfergu26@msudenver.edu 303-615- @fergusos9
+• Nick Kirchhof Head Coach nkirchho@msudenver.edu 303-605- @NKirch15
+• Eric Bracy Associate Head Coach ebracy1@msudenver.edu 303-605- @CoachBracy
+• Katie Hooker Head Coach kahooker@msudenver.edu 303-913-
+• Chad Ashton Assistant Coach chashton@msudenver.edu
+• Kristin Dedycker Part-Time Assistant Coach kwarren17@hotmail.com
+• Jeff Hooker Volunteer Assistant Coach jshooker246@gmail.com
+• Annie Van Wetzinga Head Coach ahurst4@msudenver.edu 303-615- @CoachVanW
+• Christi Martinelli Assistant Coach cmart372@msudenver.edu
+• Kami Grammerstorf Assistant Coach kgramme1@msudenver.edu
+• Amanda Rego Associate Head Coach (Distance) arego1@msudenver.edu 303-605- @RegoRunner
+• Jenny Glenn Head Coach jglenn5@msudenver.edu 303-615- @VBCoachJGlenn
+• Kaden Knepper Assistant Coach kknepper@msudenver.edu 303-615- @Kknepp10

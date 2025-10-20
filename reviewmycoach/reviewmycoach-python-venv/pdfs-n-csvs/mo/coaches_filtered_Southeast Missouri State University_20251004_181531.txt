@@ -1,0 +1,225 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:31
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Andy Sawyers
+   Email: asawyers@semo.edu
+   Username: asawyers
+   Phone: (573) 986-6002
+   Original line: Andy Sawyers Head Baseball Coach asawyers@semo.edu 986-6002 0250
+
+2. Trevor Ezell
+   Email: tezell@semo.edu
+   Username: tezell
+   Phone: (573) 986-6002
+   Original line: Trevor Ezell Associate Head Coach tezell@semo.edu 986-6002 0250
+
+3. Matthew Kinney
+   Email: mkinney@semo.edu
+   Username: mkinney
+   Phone: (573) 986-6002
+   Original line: Matthew Kinney Pitching Coach mkinney@semo.edu 986-6002 0250
+
+4. Chance Resetich
+   Email: cjresetich@semo.edu
+   Username: cjresetich
+   Original line: Chance Resetich Assistant Coach cjresetich@semo.edu
+
+5. Brad Korn
+   Email: bkorn@semo.edu
+   Username: bkorn
+   Phone: (573) 651-5132
+   Original line: Brad Korn Head Coach bkorn@semo.edu 651-5132 7250
+
+6. J.R. Reynolds
+   Email: jrreynolds@semo.edu
+   Username: jrreynolds
+   Phone: (573) 651-5132
+   Original line: J.R. Reynolds Associate Head Coach jrreynolds@semo.edu 651-5132 7250
+
+7. LaDon Champagnie
+   Email: lchampagnie@semo.edu
+   Username: lchampagnie
+   Phone: (573) 651-5132
+   Original line: LaDon Champagnie Assistant Coach lchampagnie@semo.edu 651-5132 7250
+
+8. DJ Byrd
+   Email: djbyrd@semo.edu
+   Username: djbyrd
+   Phone: (573) 651-5132
+   Original line: DJ Byrd Assistant Coach djbyrd@semo.edu 651-5132 7250
+
+9. Ryan Strohm
+   Email: rstrohm@semo.edu
+   Username: rstrohm
+   Phone: (573) 651-5132
+   Original line: Ryan Strohm Assistant Coach/Director of Operations rstrohm@semo.edu 651-5132 7250
+
+10. Briley Palmer
+   Email: bpalmer@semo.edu
+   Username: bpalmer
+   Phone: (573) 651-2646
+   Original line: Briley Palmer Head Coach bpalmer@semo.edu 651-2646 7250
+
+11. Mike Geary
+   Email: mgeary@semo.edu
+   Username: mgeary
+   Phone: (573) 651-5030
+   Original line: Mike Geary Assistant Coach mgeary@semo.edu 651-5030 7250
+
+12. Reginald Mosley
+   Email: Rmosley@semo.edu
+   Username: Rmosley
+   Original line: Reginald Mosley Assistant Coach Rmosley@semo.edu
+
+13. Kate Rolfes
+   Email: Krolfes@semo.edu
+   Username: Krolfes
+   Original line: Kate Rolfes Assistant Coach Krolfes@semo.edu
+
+14. Tom Matukewicz
+   Email: tuke@semo.edu
+   Username: tuke
+   Phone: (573) 651-2110
+   Original line: Tom Matukewicz Head Coach tuke@semo.edu 651-2110 7000
+
+15. Ashley Lawson
+   Email: alawson@semo.edu
+   Username: alawson
+   Phone: (573) 651-2604
+   Original line: Ashley Lawson Head Coach alawson@semo.edu 651-2604 7650
+
+16. Lydia Test
+   Email: ldtest@semo.edu
+   Username: ldtest
+   Original line: Lydia Test Assistant Coach ldtest@semo.edu
+
+17. Keira Boetel
+   Email: kmboetel@semo.edu
+   Username: kmboetel
+   Original line: Keira Boetel Assistant Coach kmboetel@semo.edu
+
+18. John Klein
+   Email: jklein@semo.edu
+   Username: jklein
+   Phone: (573) 986-6013
+   Original line: John Klein Head Coach jklein@semo.edu 986-6013 0250
+
+19. Carter Redford
+   Email: cmredford@semo.edu
+   Username: cmredford
+   Original line: Carter Redford Assistant Coach cmredford@semo.edu (636)362-
+
+20. Mark Redburn
+   Email: mredburn@semo.edu
+   Username: mredburn
+   Phone: (573) 651-2993
+   Original line: Mark Redburn Head Coach mredburn@semo.edu 651-2993 0250
+
+21. Kristen Jones
+   Email: kajones@semo.edu
+   Username: kajones
+   Phone: (573) 651-2993
+   Original line: Kristen Jones Associate Head Coach kajones@semo.edu 651-2993 0250
+
+22. Bryan Wallen
+   Email: bwallen@semo.edu
+   Username: bwallen
+   Phone: (573) 651-2993
+   Original line: Bryan Wallen Assistant Coach bwallen@semo.edu 651-2993 0250
+
+23. Steve Brooks
+   Email: sbrooks@semo.edu
+   Username: sbrooks
+   Phone: (573) 651-2548
+   Original line: Steve Brooks Head Coach sbrooks@semo.edu 651-2548 0250
+
+24. Eric Crumpecker
+   Email: ecrumpecker@semo.edu
+   Username: ecrumpecker
+   Phone: (573) 986-7302
+   Original line: Eric Crumpecker Head Coach ecrumpecker@semo.edu 986-7302 0250
+
+25. Ryan Lane
+   Email: rlane@semo.edu
+   Username: rlane
+   Phone: (573) 986-7302
+   Original line: Ryan Lane Associate Head Coach for Cross Country and Track & Field rlane@semo.edu 986-7302 0250
+
+26. Eric Fox
+   Email: efox@semo.edu
+   Username: efox
+   Phone: (573) 986-7302
+   Original line: Eric Fox Assistant Coach (Multis, Pole Vault, Hurdles and Jumps) efox@semo.edu 986-7302 0250
+
+27. Theresa Scott
+   Email: tscott@semo.edu
+   Username: tscott
+   Original line: Theresa Scott Assistant Coach (Sprints, Hurdles, Relays) tscott@semo.edu
+
+28. Julie Yankus
+   Email: jyankus@semo.edu
+   Username: jyankus
+   Phone: (573) 986-6140
+   Original line: Julie Yankus Head Coach jyankus@semo.edu 986-6140 0250
+
+29. Maureen Johnson
+   Email: mjohnson@semo.edu
+   Username: mjohnson
+   Phone: (573) 986-6140
+   Original line: Maureen Johnson Assistant Coach mjohnson@semo.edu 986-6140 0250
+
+30. Tara Beilsmith
+   Email: tnbeilsmith@semo.edu
+   Username: tnbeilsmith
+   Original line: Tara Beilsmith Assistant Coach tnbeilsmith@semo.edu
+
+31. Jennifer Boyd
+   Email: jmboyd@semo.edu
+   Username: jmboyd
+   Original line: Jennifer Boyd Cheerleading Coach jmboyd@semo.edu 0200
+
+32. Katherine Hart
+   Email: kahart@semo.edu
+   Username: kahart
+   Original line: Katherine Hart Sundancers Coach kahart@semo.edu 0200
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Andy Sawyers Head Baseball Coach asawyers@semo.edu 986-6002 0250
+• Trevor Ezell Associate Head Coach tezell@semo.edu 986-6002 0250
+• Matthew Kinney Pitching Coach mkinney@semo.edu 986-6002 0250
+• Chance Resetich Assistant Coach cjresetich@semo.edu
+• Brad Korn Head Coach bkorn@semo.edu 651-5132 7250
+• J.R. Reynolds Associate Head Coach jrreynolds@semo.edu 651-5132 7250
+• LaDon Champagnie Assistant Coach lchampagnie@semo.edu 651-5132 7250
+• DJ Byrd Assistant Coach djbyrd@semo.edu 651-5132 7250
+• Ryan Strohm Assistant Coach/Director of Operations rstrohm@semo.edu 651-5132 7250
+• Briley Palmer Head Coach bpalmer@semo.edu 651-2646 7250
+• Mike Geary Assistant Coach mgeary@semo.edu 651-5030 7250
+• Reginald Mosley Assistant Coach Rmosley@semo.edu
+• Kate Rolfes Assistant Coach Krolfes@semo.edu
+• Tom Matukewicz Head Coach tuke@semo.edu 651-2110 7000
+• Ashley Lawson Head Coach alawson@semo.edu 651-2604 7650
+• Lydia Test Assistant Coach ldtest@semo.edu
+• Keira Boetel Assistant Coach kmboetel@semo.edu
+• John Klein Head Coach jklein@semo.edu 986-6013 0250
+• Carter Redford Assistant Coach cmredford@semo.edu (636)362-
+• Mark Redburn Head Coach mredburn@semo.edu 651-2993 0250
+• Kristen Jones Associate Head Coach kajones@semo.edu 651-2993 0250
+• Bryan Wallen Assistant Coach bwallen@semo.edu 651-2993 0250
+• Steve Brooks Head Coach sbrooks@semo.edu 651-2548 0250
+• Eric Crumpecker Head Coach ecrumpecker@semo.edu 986-7302 0250
+• Ryan Lane Associate Head Coach for Cross Country and Track & Field rlane@semo.edu 986-7302 0250
+• Eric Fox Assistant Coach (Multis, Pole Vault, Hurdles and Jumps) efox@semo.edu 986-7302 0250
+• Theresa Scott Assistant Coach (Sprints, Hurdles, Relays) tscott@semo.edu
+• Julie Yankus Head Coach jyankus@semo.edu 986-6140 0250
+• Maureen Johnson Assistant Coach mjohnson@semo.edu 986-6140 0250
+• Tara Beilsmith Assistant Coach tnbeilsmith@semo.edu
+• Jennifer Boyd Cheerleading Coach jmboyd@semo.edu 0200
+• Katherine Hart Sundancers Coach kahart@semo.edu 0200

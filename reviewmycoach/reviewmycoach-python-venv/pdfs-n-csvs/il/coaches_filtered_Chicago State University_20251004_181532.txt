@@ -1,0 +1,149 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:32
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Michael Gomori
+   Email: mgomori@csu.edu
+   Username: mgomori
+   Original line: Michael Gomori Strength and Conditioning Coach mgomori@csu.edu 773-995-
+
+2. Landon Bussie
+   Email: csumensbasketball@csu.edu
+   Username: csumensbasketball
+   Original line: Landon Bussie Head Coach, Men's Basketball csumensbasketball@csu.edu
+
+3. Ben Mandelbaum
+   Email: bmandelb@csu.edu
+   Username: bmandelb
+   Original line: Ben Mandelbaum Assistant Men's Basketball Coach bmandelb@csu.edu
+
+4. Torrence Johnson
+   Email: tjohnt42@csu.edu
+   Username: tjohnt42
+   Original line: Torrence Johnson Assistant Men’s Basketball Coach tjohnt42@csu.edu
+
+5. Adam Schwartz
+   Email: aschwart@csu.edu
+   Username: aschwart
+   Original line: Adam Schwartz Assistant Men's Basketball Coach aschwart@csu.edu
+
+6. Corry Irvin
+   Email: cirvin23@csu.edu
+   Username: cirvin23
+   Original line: Corry Irvin Head Women's Basketball Coach cirvin23@csu.edu 773-995-
+
+7. Kiara Carter
+   Email: kcarte39@csu.edu
+   Username: kcarte39
+   Original line: Kiara Carter Assistant Women's Basketball Coach kcarte39@csu.edu 773-995-
+
+8. Tim Webb
+   Email: twebb24@csu.edu
+   Username: twebb24
+   Original line: Tim Webb Assistant Women’s Basketball Coach twebb24@csu.edu
+
+9. Alexis Lloyd
+   Email: alloyd23@csu.edu
+   Username: alloyd23
+   Original line: Alexis Lloyd Assistant Women's Basketball Coach alloyd23@csu.edu
+
+10. Bobby Rome
+   Email: football@csu.edu
+   Username: football
+   Original line: Bobby Rome Head Coach Football football@csu.edu
+
+11. Desmond Dodd
+   Email: ddodd21@csu.edu
+   Username: ddodd21
+   Original line: Desmond Dodd Assistant Golf Coach ddodd21@csu.edu
+
+12. Desmond Dodd
+   Email: ddodd21@csu.edu
+   Username: ddodd21
+   Original line: Desmond Dodd Assistant Golf Coach ddodd21@csu.edu
+
+13. Norris Howze
+   Email: nhowze@csu.edu
+   Username: nhowze
+   Original line: Norris Howze Head Men's Soccer Coach nhowze@csu.edu 773-995-
+
+14. Thabiso Khumalo
+   Email: tkhumalo@csu.edu
+   Username: tkhumalo
+   Original line: Thabiso Khumalo Assistant Men's Soccer Coach tkhumalo@csu.edu
+
+15. Kevin Larry
+   Email: klarry24@csu.edu
+   Username: klarry24
+   Original line: Kevin Larry Head Coach, Women's Soccer klarry24@csu.edu 773-896-
+
+16. Avery Howell
+   Email: ahowell@csu.edu
+   Username: ahowell
+   Original line: Avery Howell Assistant Women's Soccer Coach ahowell@csu.edu
+
+17. Grace Maxey
+   Email: gmaxey@csu.edu
+   Username: gmaxey
+   Original line: Grace Maxey Assistant Tennis Coach gmaxey@csu.edu
+
+18. Kadine Johnson-Crowder
+   Email: kjohnt17@csu.edu
+   Username: kjohnt17
+   Original line: Kadine Johnson-Crowder Associate Head Coach for Men’s and Women’s Track & Field kjohnt17@csu.edu 773-995-
+
+19. Olivia Coopwood
+   Email: occopwoo@csu.edu
+   Username: occopwoo
+   Original line: Olivia Coopwood Assistant Track & Field Coach occopwoo@csu.edu
+
+20. Davion Sutton
+   Email: dsutto21@csu.edu
+   Username: dsutto21
+   Original line: Davion Sutton Assistant Coach (Hurdles) dsutto21@csu.edu
+
+21. Maurice Wills
+   Email: triathlon@csu.edu
+   Username: triathlon
+   Original line: Maurice Wills Head Women's Triathlon Coach triathlon@csu.edu
+
+22. Kamille Jones
+   Email: kjones88@csu.edu
+   Username: kjones88
+   Original line: Kamille Jones Head Women's Volleyball Coach kjones88@csu.edu 773-995-
+
+23. Megan Musselman
+   Email: mmusselm@csu.edu
+   Username: mmusselm
+   Original line: Megan Musselman Assistant Women's Volleyball Coach mmusselm@csu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Michael Gomori Strength and Conditioning Coach mgomori@csu.edu 773-995-
+• Landon Bussie Head Coach, Men's Basketball csumensbasketball@csu.edu
+• Ben Mandelbaum Assistant Men's Basketball Coach bmandelb@csu.edu
+• Torrence Johnson Assistant Men’s Basketball Coach tjohnt42@csu.edu
+• Adam Schwartz Assistant Men's Basketball Coach aschwart@csu.edu
+• Corry Irvin Head Women's Basketball Coach cirvin23@csu.edu 773-995-
+• Kiara Carter Assistant Women's Basketball Coach kcarte39@csu.edu 773-995-
+• Tim Webb Assistant Women’s Basketball Coach twebb24@csu.edu
+• Alexis Lloyd Assistant Women's Basketball Coach alloyd23@csu.edu
+• Bobby Rome Head Coach Football football@csu.edu
+• Desmond Dodd Assistant Golf Coach ddodd21@csu.edu
+• Desmond Dodd Assistant Golf Coach ddodd21@csu.edu
+• Norris Howze Head Men's Soccer Coach nhowze@csu.edu 773-995-
+• Thabiso Khumalo Assistant Men's Soccer Coach tkhumalo@csu.edu
+• Kevin Larry Head Coach, Women's Soccer klarry24@csu.edu 773-896-
+• Avery Howell Assistant Women's Soccer Coach ahowell@csu.edu
+• Grace Maxey Assistant Tennis Coach gmaxey@csu.edu
+• Kadine Johnson-Crowder Associate Head Coach for Men’s and Women’s Track & Field kjohnt17@csu.edu 773-995-
+• Olivia Coopwood Assistant Track & Field Coach occopwoo@csu.edu
+• Davion Sutton Assistant Coach (Hurdles) dsutto21@csu.edu
+• Maurice Wills Head Women's Triathlon Coach triathlon@csu.edu
+• Kamille Jones Head Women's Volleyball Coach kjones88@csu.edu 773-995-
+• Megan Musselman Assistant Women's Volleyball Coach mmusselm@csu.edu

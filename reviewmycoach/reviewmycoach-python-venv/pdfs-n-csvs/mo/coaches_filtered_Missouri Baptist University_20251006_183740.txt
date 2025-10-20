@@ -1,0 +1,461 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:41
+============================================================
+
+Total coaches found: 73
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ross Wilson,
+   Email: 2179168@mobap.edu
+   Username: 2179168
+   Phone: 2179168
+   Original line: Ross Wilson, CSCS Assistant Athletic Performance Coach 2179168@mobap.edu
+
+2. Jakob Kouneski
+   Email: 2285110@mobap.edu
+   Username: 2285110
+   Phone: 2285110
+   Original line: Jakob Kouneski Assistant Athletic Performance Coach 2285110@mobap.edu
+
+3. Levi Smith
+   Email: 2494925@mobap.edu
+   Username: 2494925
+   Phone: 2494925
+   Original line: Levi Smith Assistant Athletic Performance Coach 2494925@mobap.edu
+
+4. Kayleigh Winch
+   Email: Kayleigh.Winch@mobap.edu
+   Username: Kayleigh.Winch
+   Original line: Kayleigh Winch Assistant Women's Basketball Coach / Athletic Performance Kayleigh.Winch@mobap.edu
+
+5. Eddie Uschold
+   Email: Eddie.Uschold@mobap.edu
+   Username: Eddie.Uschold
+   Original line: Eddie Uschold Head Baseball Coach Eddie.Uschold@mobap.edu (314) 392-
+
+6. Kenny Graser
+   Email: Kenny.Graser@mobap.edu
+   Username: Kenny.Graser
+   Original line: Kenny Graser Associate Head Baseball Coach Kenny.Graser@mobap.edu (314) 392-
+
+7. Taylor Jarvis
+   Email: Taylor.Jarvis@mobap.edu
+   Username: Taylor.Jarvis
+   Original line: Taylor Jarvis Head Men's Basketball Coach Taylor.Jarvis@mobap.edu (314) 392-
+
+8. Chris Forrest
+   Email: Christopher.Forrest@mobap.edu
+   Username: Christopher.Forrest
+   Original line: Chris Forrest Associate Head Men's Basketball Coach Christopher.Forrest@mobap.edu (314) 392-
+
+9. Harley Story
+   Email: Harley.Story@mobap.edu
+   Username: Harley.Story
+   Original line: Harley Story Assistant Men's Basketball Coach / Recruiting Coordinator Harley.Story@mobap.edu
+
+10. Taylor Jacobsen
+   Email: Taylor.Jacobsen@mobap.edu
+   Username: Taylor.Jacobsen
+   Original line: Taylor Jacobsen Head Women's Basketball Coach Taylor.Jacobsen@mobap.edu (314) 392-
+
+11. Aleia Milano
+   Email: Aleia.Milano@mobap.edu
+   Username: Aleia.Milano
+   Original line: Aleia Milano Assistant Women's Basketball Coach Aleia.Milano@mobap.edu
+
+12. Rhonda Loos
+   Email: Rhonda.Loos@mobap.edu
+   Username: Rhonda.Loos
+   Original line: Rhonda Loos Assistant Women's Basketball Coach Rhonda.Loos@mobap.edu
+
+13. Kayleigh Winch
+   Email: Kayleigh.Winch@mobap.edu
+   Username: Kayleigh.Winch
+   Original line: Kayleigh Winch Assistant Women's Basketball Coach / Athletic Performance Kayleigh.Winch@mobap.edu
+
+14. Don Griffin
+   Email: Donald.Griffin1@mobap.edu
+   Username: Donald.Griffin1
+   Original line: Don Griffin Head Bowling Coach Donald.Griffin1@mobap.edu
+
+15. Mike Solovic
+   Email: Michael.Solovic@mobap.edu
+   Username: Michael.Solovic
+   Original line: Mike Solovic Assistant Bowling Coach Michael.Solovic@mobap.edu
+
+16. Emilee Mitchell
+   Email: Emilee.Mitchell@mobap.edu
+   Username: Emilee.Mitchell
+   Original line: Emilee Mitchell Director of Spirit / Head All-Girl & STUNT Coach Emilee.Mitchell@mobap.edu
+
+17. Jerry McQueen
+   Email: Jerry.McQueen@mobap.edu
+   Username: Jerry.McQueen
+   Original line: Jerry McQueen Head Cross Country Coach / Assistant Track & Field Coach Jerry.McQueen@mobap.edu (314) 581-
+
+18. Proleine Williams
+   Email: Proleine.Pierre@mobap.edu
+   Username: Proleine.Pierre
+   Original line: Proleine Williams Head Track & Field Coach / Assistant Cross Country Coach Proleine.Pierre@mobap.edu (636) 395-
+
+19. Trey Peugeot
+   Email: Richard.Peugeot@mobap.edu
+   Username: Richard.Peugeot
+   Original line: Trey Peugeot Assistant XC / Track & Field Coach Coach Richard.Peugeot@mobap.edu (870) 307-
+
+20. Gracie Kopala
+   Email: Gracie.Kopala@mobap.edu
+   Username: Gracie.Kopala
+   Original line: Gracie Kopala Assistant XC / Track & Field Coach Coach Gracie.Kopala@mobap.edu
+
+21. Jerry McQueen
+   Email: Jerry.McQueen@mobap.edu
+   Username: Jerry.McQueen
+   Original line: Jerry McQueen Head Cross Country Coach / Assistant Track & Field Coach Jerry.McQueen@mobap.edu (314) 581-
+
+22. Proleine Williams
+   Email: Proleine.Pierre@mobap.edu
+   Username: Proleine.Pierre
+   Original line: Proleine Williams Head Track & Field Coach / Assistant Cross Country Coach Proleine.Pierre@mobap.edu (636) 395-
+
+23. Trey Peugeot
+   Email: Richard.Peugeot@mobap.edu
+   Username: Richard.Peugeot
+   Original line: Trey Peugeot Assistant XC / Track & Field Coach Coach Richard.Peugeot@mobap.edu (870) 307-
+
+24. Gracie Kopala
+   Email: Gracie.Kopala@mobap.edu
+   Username: Gracie.Kopala
+   Original line: Gracie Kopala Assistant XC / Track & Field Coach Coach Gracie.Kopala@mobap.edu
+
+25. Abby Jeschke
+   Email: Abby.Jeschke@mobap.edu
+   Username: Abby.Jeschke
+   Original line: Abby Jeschke Head Competitive Dance Coach Abby.Jeschke@mobap.edu (314) 744-
+
+26. Miranda Payne
+   Email: Miranda.Payne@mobap.edu
+   Username: Miranda.Payne
+   Original line: Miranda Payne Assistant Competitive Dance Coach Miranda.Payne@mobap.edu
+
+27. Emilee Mitchell
+   Email: Emilee.Mitchell@mobap.edu
+   Username: Emilee.Mitchell
+   Original line: Emilee Mitchell Director of Spirit / Head All-Girl & STUNT Coach Emilee.Mitchell@mobap.edu
+
+28. Alex Ardolf
+   Email: Alexander.Ardolf@mobap.edu
+   Username: Alexander.Ardolf
+   Original line: Alex Ardolf Head Esports Coach Alexander.Ardolf@mobap.edu
+
+29. Jason Burianek
+   Email: Jason.Burianek@mobap.edu
+   Username: Jason.Burianek
+   Original line: Jason Burianek Head Football Coach / Defensive Coordinator Jason.Burianek@mobap.edu (314) 485-
+
+30. Charles Coe
+   Email: Charles.Coe@mobap.edu
+   Username: Charles.Coe
+   Original line: Charles Coe Associate Head Coach / Defensive Line Charles.Coe@mobap.edu (314) 485-
+
+31. Jarren Hightower
+   Email: Jarren.Hightower@mobap.edu
+   Username: Jarren.Hightower
+   Original line: Jarren Hightower Offensive Line Coach Jarren.Hightower@mobap.edu (314) 485-
+
+32. Zack Kern
+   Email: Zachary.Kern@mobap.edu
+   Username: Zachary.Kern
+   Original line: Zack Kern Special Teams Coordinator / Safeties Coach Zachary.Kern@mobap.edu (314) 485-
+
+33. Louis Findley
+   Email: Louis.Findley@mobap.edu
+   Username: Louis.Findley
+   Original line: Louis Findley Running Backs Coach Louis.Findley@mobap.edu (314) 485-
+
+34. Jordan Osborne
+   Email: Jordan.Osborne@mobap.edu
+   Username: Jordan.Osborne
+   Original line: Jordan Osborne Cornerbacks Coach Jordan.Osborne@mobap.edu
+
+35. Sam Shreffler
+   Email: Samuel.Shreffler@mobap.edu
+   Username: Samuel.Shreffler
+   Original line: Sam Shreffler Tight Ends Coach Samuel.Shreffler@mobap.edu
+
+36. Alec Burton
+   Email: Alec.Burton@mobap.edu
+   Username: Alec.Burton
+   Original line: Alec Burton Wide Receivers Coach Alec.Burton@mobap.edu
+
+37. Justin Hoagland
+   Email: Justin.Hoagland@mobap.edu
+   Username: Justin.Hoagland
+   Original line: Justin Hoagland Head Golf Coach Justin.Hoagland@mobap.edu (314) 277-
+
+38. Sam Beggs
+   Email: Samuel.Beggs@mobap.edu
+   Username: Samuel.Beggs
+   Original line: Sam Beggs Assistant Golf Coach Samuel.Beggs@mobap.edu
+
+39. Kelly Howell
+   Email: Kelly.Howell@mobap.edu
+   Username: Kelly.Howell
+   Original line: Kelly Howell Head Men's Lacrosse Coach Kelly.Howell@mobap.edu
+
+40. Colin Klahs
+   Email: 1868796@mobap.edu
+   Username: 1868796
+   Phone: 1868796
+   Original line: Colin Klahs Assistant Men's Lacrosse Coach 1868796@mobap.edu
+
+41. Max Ruhl
+   Email: Max.Ruhl@mobap.edu
+   Username: Max.Ruhl
+   Original line: Max Ruhl Head Women's Lacrosse Coach Max.Ruhl@mobap.edu (314) 744-
+
+42. Sophia Zegar
+   Email: 2284144@mobap.edu
+   Username: 2284144
+   Phone: 2284144
+   Original line: Sophia Zegar Assistant Women's Lacrosse Coach 2284144@mobap.edu
+
+43. Alyssa Graebner
+   Email: 2284449@mobap.edu
+   Username: 2284449
+   Phone: 2284449
+   Original line: Alyssa Graebner Volunteer Assistant Coach 2284449@mobap.edu
+
+44. Jake Alvernia
+   Email: Jacob.Alvernia@mobap.edu
+   Username: Jacob.Alvernia
+   Original line: Jake Alvernia Head Men's Soccer Coach Jacob.Alvernia@mobap.edu (314) 485-
+
+45. Jack Ridley
+   Email: Jack.Ridley@mobap.edu
+   Username: Jack.Ridley
+   Original line: Jack Ridley Assistant Men's Soccer Coach Jack.Ridley@mobap.edu
+
+46. Deno Merrick
+   Email: Deno.Merrick@mobap.edu
+   Username: Deno.Merrick
+   Original line: Deno Merrick Head Women's Soccer Coach Deno.Merrick@mobap.edu (314) 392-
+
+47. Lauren Poggemoeller
+   Email: 2179721@mobap.edu
+   Username: 2179721
+   Phone: 2179721
+   Original line: Lauren Poggemoeller Assistant Women's Soccer Coach 2179721@mobap.edu
+
+48. Ted Leigraf
+   Email: Ted.Leigraf@mobap.edu
+   Username: Ted.Leigraf
+   Original line: Ted Leigraf Head Softball Coach Ted.Leigraf@mobap.edu (314) 392-
+
+49. Patrick Acheson
+   Email: Patrick.Acheson@mobap.edu
+   Username: Patrick.Acheson
+   Original line: Patrick Acheson Assistant Softball Coach Patrick.Acheson@mobap.edu
+
+50. Emilee Mitchell
+   Email: Emilee.Mitchell@mobap.edu
+   Username: Emilee.Mitchell
+   Original line: Emilee Mitchell Director of Spirit / Head All-Girl & STUNT Coach Emilee.Mitchell@mobap.edu
+
+51. Grace Hejl
+   Email: 2502306@mobap.edu
+   Username: 2502306
+   Phone: 2502306
+   Original line: Grace Hejl Assistant STUNT Coach 2502306@mobap.edu
+
+52. Scott Goodyear
+   Email: Scott.Goodyear@mobap.edu
+   Username: Scott.Goodyear
+   Original line: Scott Goodyear Head Tennis Coach Scott.Goodyear@mobap.edu (314) 392-
+
+53. Nirva Patel
+   Email: 2495702@mobap.edu
+   Username: 2495702
+   Phone: 2495702
+   Original line: Nirva Patel Assistant Tennis Coach 2495702@mobap.edu
+
+54. Proleine Williams
+   Email: Proleine.Pierre@mobap.edu
+   Username: Proleine.Pierre
+   Original line: Proleine Williams Head Track & Field Coach / Assistant Cross Country Coach Proleine.Pierre@mobap.edu (636) 395-
+
+55. Jerry McQueen
+   Email: Jerry.McQueen@mobap.edu
+   Username: Jerry.McQueen
+   Original line: Jerry McQueen Head Cross Country Coach / Assistant Track & Field Coach Jerry.McQueen@mobap.edu (314) 581-
+
+56. Kameron Lewis
+   Email: Kameron.Lewis@mobap.edu
+   Username: Kameron.Lewis
+   Original line: Kameron Lewis Assistant Track & Field Coach Kameron.Lewis@mobap.edu (501) 471-
+
+57. Trey Peugeot
+   Email: Richard.Peugeot@mobap.edu
+   Username: Richard.Peugeot
+   Original line: Trey Peugeot Assistant XC / Track & Field Coach Coach Richard.Peugeot@mobap.edu (870) 307-
+
+58. Gracie Kopala
+   Email: Gracie.Kopala@mobap.edu
+   Username: Gracie.Kopala
+   Original line: Gracie Kopala Assistant XC / Track & Field Coach Coach Gracie.Kopala@mobap.edu
+
+59. Proleine Williams
+   Email: Proleine.Pierre@mobap.edu
+   Username: Proleine.Pierre
+   Original line: Proleine Williams Head Track & Field Coach / Assistant Cross Country Coach Proleine.Pierre@mobap.edu (636) 395-
+
+60. Jerry McQueen
+   Email: Jerry.McQueen@mobap.edu
+   Username: Jerry.McQueen
+   Original line: Jerry McQueen Head Cross Country Coach / Assistant Track & Field Coach Jerry.McQueen@mobap.edu (314) 581-
+
+61. Kameron Lewis
+   Email: Kameron.Lewis@mobap.edu
+   Username: Kameron.Lewis
+   Original line: Kameron Lewis Assistant Track & Field Coach Kameron.Lewis@mobap.edu (501) 471-
+
+62. Trey Peugeot
+   Email: Richard.Peugeot@mobap.edu
+   Username: Richard.Peugeot
+   Original line: Trey Peugeot Assistant XC / Track & Field Coach Coach Richard.Peugeot@mobap.edu (870) 307-
+
+63. Gracie Kopala
+   Email: Gracie.Kopala@mobap.edu
+   Username: Gracie.Kopala
+   Original line: Gracie Kopala Assistant XC / Track & Field Coach Coach Gracie.Kopala@mobap.edu
+
+64. Tom Young
+   Email: Tom.Young@mobap.edu
+   Username: Tom.Young
+   Original line: Tom Young Director of Volleyball / Head Men's Volleyball Coach Tom.Young@mobap.edu (314) 392-
+
+65. Claire Ochs
+   Email: Claire.Ochs@mobap.edu
+   Username: Claire.Ochs
+   Original line: Claire Ochs Head Women's Volleyball Coach Claire.Ochs@mobap.edu (314) 392-
+
+66. Tom Young
+   Email: Tom.Young@mobap.edu
+   Username: Tom.Young
+   Original line: Tom Young Director of Volleyball / Head Men's Volleyball Coach Tom.Young@mobap.edu (314) 392-
+
+67. Chris Nichols
+   Email: Chris.Nichols@mobap.edu
+   Username: Chris.Nichols
+   Original line: Chris Nichols Assistant Women's Volleyball Coach Chris.Nichols@mobap.edu (314) 392-
+
+68. Jackie Drury
+   Email: 2495774@mobap.edu
+   Username: 2495774
+   Phone: 2495774
+   Original line: Jackie Drury Assistant Women's Volleyball Coach 2495774@mobap.edu (314) 392-
+
+69. Luiza Arsufi
+   Email: Luiza.Arsufi@mobap.edu
+   Username: Luiza.Arsufi
+   Original line: Luiza Arsufi Assistant Women's Volleyball Coach / Head JV Women's Luiza.Arsufi@mobap.edu
+
+70. Caleb McElfresh
+   Email: Caleb.McElfresh@mobap.edu
+   Username: Caleb.McElfresh
+   Original line: Caleb McElfresh Head Men's Wrestling Coach Caleb.McElfresh@mobap.edu (314) 744-
+
+71. Tyler Deen
+   Email: 2495799@mobap.edu
+   Username: 2495799
+   Phone: 2495799
+   Original line: Tyler Deen Assistant Men's Wrestling Coach 2495799@mobap.edu
+
+72. Amond Prater
+   Email: Amond.Prater@mobap.edu
+   Username: Amond.Prater
+   Original line: Amond Prater Head Women's Wrestling Coach Amond.Prater@mobap.edu (573) 864-
+
+73. Elise Falcetti
+   Email: 2400219@mobap.edu
+   Username: 2400219
+   Phone: 2400219
+   Original line: Elise Falcetti Assistant Women's Wrestling Coach 2400219@mobap.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ross Wilson, CSCS Assistant Athletic Performance Coach 2179168@mobap.edu
+• Jakob Kouneski Assistant Athletic Performance Coach 2285110@mobap.edu
+• Levi Smith Assistant Athletic Performance Coach 2494925@mobap.edu
+• Kayleigh Winch Assistant Women's Basketball Coach / Athletic Performance Kayleigh.Winch@mobap.edu
+• Eddie Uschold Head Baseball Coach Eddie.Uschold@mobap.edu (314) 392-
+• Kenny Graser Associate Head Baseball Coach Kenny.Graser@mobap.edu (314) 392-
+• Taylor Jarvis Head Men's Basketball Coach Taylor.Jarvis@mobap.edu (314) 392-
+• Chris Forrest Associate Head Men's Basketball Coach Christopher.Forrest@mobap.edu (314) 392-
+• Harley Story Assistant Men's Basketball Coach / Recruiting Coordinator Harley.Story@mobap.edu
+• Taylor Jacobsen Head Women's Basketball Coach Taylor.Jacobsen@mobap.edu (314) 392-
+• Aleia Milano Assistant Women's Basketball Coach Aleia.Milano@mobap.edu
+• Rhonda Loos Assistant Women's Basketball Coach Rhonda.Loos@mobap.edu
+• Kayleigh Winch Assistant Women's Basketball Coach / Athletic Performance Kayleigh.Winch@mobap.edu
+• Don Griffin Head Bowling Coach Donald.Griffin1@mobap.edu
+• Mike Solovic Assistant Bowling Coach Michael.Solovic@mobap.edu
+• Emilee Mitchell Director of Spirit / Head All-Girl & STUNT Coach Emilee.Mitchell@mobap.edu
+• Jerry McQueen Head Cross Country Coach / Assistant Track & Field Coach Jerry.McQueen@mobap.edu (314) 581-
+• Proleine Williams Head Track & Field Coach / Assistant Cross Country Coach Proleine.Pierre@mobap.edu (636) 395-
+• Trey Peugeot Assistant XC / Track & Field Coach Coach Richard.Peugeot@mobap.edu (870) 307-
+• Gracie Kopala Assistant XC / Track & Field Coach Coach Gracie.Kopala@mobap.edu
+• Jerry McQueen Head Cross Country Coach / Assistant Track & Field Coach Jerry.McQueen@mobap.edu (314) 581-
+• Proleine Williams Head Track & Field Coach / Assistant Cross Country Coach Proleine.Pierre@mobap.edu (636) 395-
+• Trey Peugeot Assistant XC / Track & Field Coach Coach Richard.Peugeot@mobap.edu (870) 307-
+• Gracie Kopala Assistant XC / Track & Field Coach Coach Gracie.Kopala@mobap.edu
+• Abby Jeschke Head Competitive Dance Coach Abby.Jeschke@mobap.edu (314) 744-
+• Miranda Payne Assistant Competitive Dance Coach Miranda.Payne@mobap.edu
+• Emilee Mitchell Director of Spirit / Head All-Girl & STUNT Coach Emilee.Mitchell@mobap.edu
+• Alex Ardolf Head Esports Coach Alexander.Ardolf@mobap.edu
+• Jason Burianek Head Football Coach / Defensive Coordinator Jason.Burianek@mobap.edu (314) 485-
+• Charles Coe Associate Head Coach / Defensive Line Charles.Coe@mobap.edu (314) 485-
+• Jarren Hightower Offensive Line Coach Jarren.Hightower@mobap.edu (314) 485-
+• Zack Kern Special Teams Coordinator / Safeties Coach Zachary.Kern@mobap.edu (314) 485-
+• Louis Findley Running Backs Coach Louis.Findley@mobap.edu (314) 485-
+• Jordan Osborne Cornerbacks Coach Jordan.Osborne@mobap.edu
+• Sam Shreffler Tight Ends Coach Samuel.Shreffler@mobap.edu
+• Alec Burton Wide Receivers Coach Alec.Burton@mobap.edu
+• Justin Hoagland Head Golf Coach Justin.Hoagland@mobap.edu (314) 277-
+• Sam Beggs Assistant Golf Coach Samuel.Beggs@mobap.edu
+• Kelly Howell Head Men's Lacrosse Coach Kelly.Howell@mobap.edu
+• Colin Klahs Assistant Men's Lacrosse Coach 1868796@mobap.edu
+• Max Ruhl Head Women's Lacrosse Coach Max.Ruhl@mobap.edu (314) 744-
+• Sophia Zegar Assistant Women's Lacrosse Coach 2284144@mobap.edu
+• Alyssa Graebner Volunteer Assistant Coach 2284449@mobap.edu
+• Jake Alvernia Head Men's Soccer Coach Jacob.Alvernia@mobap.edu (314) 485-
+• Jack Ridley Assistant Men's Soccer Coach Jack.Ridley@mobap.edu
+• Deno Merrick Head Women's Soccer Coach Deno.Merrick@mobap.edu (314) 392-
+• Lauren Poggemoeller Assistant Women's Soccer Coach 2179721@mobap.edu
+• Ted Leigraf Head Softball Coach Ted.Leigraf@mobap.edu (314) 392-
+• Patrick Acheson Assistant Softball Coach Patrick.Acheson@mobap.edu
+• Emilee Mitchell Director of Spirit / Head All-Girl & STUNT Coach Emilee.Mitchell@mobap.edu
+• Grace Hejl Assistant STUNT Coach 2502306@mobap.edu
+• Scott Goodyear Head Tennis Coach Scott.Goodyear@mobap.edu (314) 392-
+• Nirva Patel Assistant Tennis Coach 2495702@mobap.edu
+• Proleine Williams Head Track & Field Coach / Assistant Cross Country Coach Proleine.Pierre@mobap.edu (636) 395-
+• Jerry McQueen Head Cross Country Coach / Assistant Track & Field Coach Jerry.McQueen@mobap.edu (314) 581-
+• Kameron Lewis Assistant Track & Field Coach Kameron.Lewis@mobap.edu (501) 471-
+• Trey Peugeot Assistant XC / Track & Field Coach Coach Richard.Peugeot@mobap.edu (870) 307-
+• Gracie Kopala Assistant XC / Track & Field Coach Coach Gracie.Kopala@mobap.edu
+• Proleine Williams Head Track & Field Coach / Assistant Cross Country Coach Proleine.Pierre@mobap.edu (636) 395-
+• Jerry McQueen Head Cross Country Coach / Assistant Track & Field Coach Jerry.McQueen@mobap.edu (314) 581-
+• Kameron Lewis Assistant Track & Field Coach Kameron.Lewis@mobap.edu (501) 471-
+• Trey Peugeot Assistant XC / Track & Field Coach Coach Richard.Peugeot@mobap.edu (870) 307-
+• Gracie Kopala Assistant XC / Track & Field Coach Coach Gracie.Kopala@mobap.edu
+• Tom Young Director of Volleyball / Head Men's Volleyball Coach Tom.Young@mobap.edu (314) 392-
+• Claire Ochs Head Women's Volleyball Coach Claire.Ochs@mobap.edu (314) 392-
+• Tom Young Director of Volleyball / Head Men's Volleyball Coach Tom.Young@mobap.edu (314) 392-
+• Chris Nichols Assistant Women's Volleyball Coach Chris.Nichols@mobap.edu (314) 392-
+• Jackie Drury Assistant Women's Volleyball Coach 2495774@mobap.edu (314) 392-
+• Luiza Arsufi Assistant Women's Volleyball Coach / Head JV Women's Luiza.Arsufi@mobap.edu
+• Caleb McElfresh Head Men's Wrestling Coach Caleb.McElfresh@mobap.edu (314) 744-
+• Tyler Deen Assistant Men's Wrestling Coach 2495799@mobap.edu
+• Amond Prater Head Women's Wrestling Coach Amond.Prater@mobap.edu (573) 864-
+• Elise Falcetti Assistant Women's Wrestling Coach 2400219@mobap.edu

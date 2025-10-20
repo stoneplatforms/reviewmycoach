@@ -1,0 +1,375 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:45
+============================================================
+
+Total coaches found: 55
+
+PARSED ENTRIES:
+----------------------------------------
+1. John Schimenz
+   Email: schimenj@uww.edu
+   Username: schimenj
+   Phone: (262) 472-5946
+   Original line: John Schimenz Assistant Sports Performance Coach schimenj@uww.edu 262-472-5946
+
+2. Corey Meredith
+   Email: mereditco@uww.edu
+   Username: mereditco
+   Original line: Corey Meredith Assistant Sports Performance Coach mereditco@uww.edu
+
+3. John Vodenlich
+   Email: vodenlij@uww.edu
+   Username: vodenlij
+   Phone: (262) 472-1420
+   Original line: John Vodenlich Head Coach vodenlij@uww.edu 262-472-1420
+
+4. Zach Bayreuther
+   Email: bayreutz@uww.edu
+   Username: bayreutz
+   Phone: (262) 472-5693
+   Original line: Zach Bayreuther Assistant Coach bayreutz@uww.edu 262-472-5693
+
+5. Peyton Schneider
+   Email: schneidp@uww.edu
+   Username: schneidp
+   Original line: Peyton Schneider Assistant Coach schneidp@uww.edu
+
+6. Mark Fuller
+   Email: mfull@csdmail.com
+   Username: mfull
+   Phone: (262) 472-1420
+   Original line: Mark Fuller Assistant Coach mfull@csdmail.com 262-472-1420
+
+7. Armando Hernandez
+   Email: hernanda@kmsd.edu
+   Username: hernanda
+   Phone: (262) 472-1420
+   Original line: Armando Hernandez Assistant Coach hernanda@kmsd.edu 262-472-1420
+
+8. Tom Klawitter
+   Email: tklaw35@aol.com
+   Username: tklaw35
+   Phone: (262) 472-1420
+   Original line: Tom Klawitter Assistant Coach tklaw35@aol.com 262-472-1420
+
+9. Jarod Wichser
+   Email: WichserJJ08@uww.edu
+   Username: WichserJJ08
+   Phone: (262) 472-1599
+   Original line: Jarod Wichser Head Coach WichserJJ08@uww.edu 262-472-1599
+
+10. Kai Instefjord
+   Email: InstefjoKE08@uww.edu
+   Username: InstefjoKE08
+   Original line: Kai Instefjord Assistant Coach InstefjoKE08@uww.edu
+
+11. Ben Davis
+   Email: davisbb@uww.edu
+   Username: davisbb
+   Phone: (262) 472-1599
+   Original line: Ben Davis Assistant Coach davisbb@uww.edu 262-472-1599
+
+12. Jeff Miller
+   Email: millerjr@uww.edu
+   Username: millerjr
+   Phone: (262) 472-5648
+   Original line: Jeff Miller Head Coach millerjr@uww.edu 262-472-5648
+
+13. Brandon Miles
+   Email: milesb@uww.edu
+   Username: milesb
+   Phone: (262) 472-5466
+   Original line: Brandon Miles Assistant Coach milesb@uww.edu 262-472-5466
+
+14. Jace Rindahl
+   Email: rindahljo12@uww.edu
+   Username: rindahljo12
+   Phone: (262) 472-1653
+   Original line: Jace Rindahl Head Coach rindahljo12@uww.edu 262-472-1653
+
+15. Beau Martin
+   Email: MartinBG05@uww.edu
+   Username: MartinBG05
+   Phone: (262) 472-1058
+   Original line: Beau Martin Associate Head Coach | Special Teams & Recruiting Coordinator | MartinBG05@uww.edu 262-472-1058
+
+16. Miles Hookstead
+   Email: hookstem@uww.edu
+   Username: hookstem
+   Phone: (262) 472-5779
+   Original line: Miles Hookstead Offensive Line Coach hookstem@uww.edu 262-472-5779
+
+17. Mike Mardis
+   Email: MardisMJ16@uww.edu
+   Username: MardisMJ16
+   Phone: (262) 472-1651
+   Original line: Mike Mardis Tight Ends Coach MardisMJ16@uww.edu 262-472-1651
+
+18. John Schimenz
+   Email: schimenj@uww.edu
+   Username: schimenj
+   Phone: (262) 472-5946
+   Original line: John Schimenz Assistant Sports Performance Coach schimenj@uww.edu 262-472-5946
+
+19. Paco Hernandez
+   Email: HernandeFA12@uww.edu
+   Username: HernandeFA12
+   Original line: Paco Hernandez Assistant Coach | Social Media Coordinator HernandeFA12@uww.edu
+
+20. Kenny Jilek
+   Email: JilekKR22@uww.edu
+   Username: JilekKR22
+   Original line: Kenny Jilek Assistant Coach JilekKR22@uww.edu
+
+21. Jacob Possorek
+   Email: PossorekJP26@uww.edu
+   Username: PossorekJP26
+   Original line: Jacob Possorek Assistant Coach PossorekJP26@uww.edu
+
+22. Jacob Schumacher
+   Email: SchumachJJ17@uww.edu
+   Username: SchumachJJ17
+   Original line: Jacob Schumacher Assistant Coach SchumachJJ17@uww.edu
+
+23. Tony Guinn
+   Email: guinna@uww.edu
+   Username: guinna
+   Phone: (309) 313-3951
+   Original line: Tony Guinn Head Coach guinna@uww.edu 309-313-3951
+
+24. Elise Knoche
+   Email: knochee@uww.edu
+   Username: knochee
+   Phone: (262) 472-6235
+   Original line: Elise Knoche Head Coach knochee@uww.edu 262-472-6235
+
+25. Byron Balkin
+   Email: balkinbm29@uww.edu
+   Username: balkinbm29
+   Phone: (262) 472-6201
+   Original line: Byron Balkin Head Coach balkinbm29@uww.edu 262-472-6201
+
+26. Frank Barnes
+   Email: barnesf@uww.edu
+   Username: barnesf
+   Original line: Frank Barnes Assistant Coach barnesf@uww.edu
+
+27. Mike Johnson
+   Email: johnsonmj03@uww.edu
+   Username: johnsonmj03
+   Phone: (262) 472-1367
+   Original line: Mike Johnson Head Coach (Long Sprints/Hurdles/Team Nutritionist) johnsonmj03@uww.edu 262-472-1367
+
+28. Josh Ireland
+   Email: irelandjb15@uww.edu
+   Username: irelandjb15
+   Phone: (262) 472-1660
+   Original line: Josh Ireland Associate Head Coach (Short Sprints) irelandjb15@uww.edu 262-472-1660
+
+29. Nick Bee
+   Email: beenm12@uww.edu
+   Username: beenm12
+   Original line: Nick Bee Assistant Coach (Strength and Conditioning) beenm12@uww.edu
+
+30. Cody Helgeson
+   Email: helgesoc@uww.edu
+   Username: helgesoc
+   Phone: (715) 570-0559
+   Original line: Cody Helgeson Assistant Coach (High Jump) helgesoc@uww.edu 715-570-0559
+
+31. Jeff Miller
+   Email: millerjr@uww.edu
+   Username: millerjr
+   Phone: (262) 472-5648
+   Original line: Jeff Miller Assistant Coach (Distance) millerjr@uww.edu 262-472-5648
+
+32. Brandon Miles
+   Email: milesb@uww.edu
+   Username: milesb
+   Phone: (262) 472-5466
+   Original line: Brandon Miles Assistant Coach milesb@uww.edu 262-472-5466
+
+33. Trevor Roznowski
+   Email: roznowst@uww.edu
+   Username: roznowst
+   Phone: (262) 472-5226
+   Original line: Trevor Roznowski Assistant Coach (Throws) roznowst@uww.edu 262-472-5226
+
+34. Nathan Wells
+   Email: wellsn@uww.edu
+   Username: wellsn
+   Phone: (608) 234-1947
+   Original line: Nathan Wells Assistant Coach (Pole Vault) wellsn@uww.edu 608-234-1947
+
+35. Lindsey Greviskes
+   Email: greviskl@uww.edu
+   Username: greviskl
+   Original line: Dr. Lindsey Greviskes Team Mental Performance Coach greviskl@uww.edu
+
+36. Matt Zwaschka
+   Email: zwaschkm@uww.edu
+   Username: zwaschkm
+   Phone: (262) 472-1867
+   Original line: Matt Zwaschka Head Coach zwaschkm@uww.edu 262-472-1867
+
+37. Adam Latella
+   Email: LatellaAJ05@uww.edu
+   Username: LatellaAJ05
+   Phone: (262) 472-1682
+   Original line: Adam Latella Head Assistant Coach LatellaAJ05@uww.edu 262-472-1682
+
+38. Shane Siefert
+   Email: SiefertSM20@uww.edu
+   Username: SiefertSM20
+   Original line: Shane Siefert Assistant Coach SiefertSM20@uww.edu
+
+39. Ben Peterson
+   Email: petersob@uww.edu
+   Username: petersob
+   Original line: Ben Peterson Assistant Coach petersob@uww.edu
+
+40. Tyler Becker
+   Email: BeckerTB11@uww.edu
+   Username: BeckerTB11
+   Original line: Tyler Becker Recruiting Coordinator/Assistant Coach BeckerTB11@uww.edu
+
+41. Keri Carollo
+   Email: carollok@uww.edu
+   Username: carollok
+   Phone: (262) 472-5782
+   Original line: Keri Carollo Head Coach/Senior Woman Administrator carollok@uww.edu 262-472-5782
+
+42. Erinn Behn
+   Email: behne@uww.edu
+   Username: behne
+   Original line: Erinn Behn Assistant Coach behne@uww.edu
+
+43. Becca Hagerman
+   Email: hagermar@uww.edu
+   Username: hagermar
+   Original line: Becca Hagerman Head Coach hagermar@uww.edu
+
+44. Andrea Wieland
+   Email: wielanda@uww.edu
+   Username: wielanda
+   Phone: (262) 472-5678
+   Original line: Andrea Wieland Head Coach wielanda@uww.edu 262-472-5678
+
+45. Jeff Schmidt
+   Email: SchmidtJJ29@uww.edu
+   Username: SchmidtJJ29
+   Original line: Jeff Schmidt Assistant Coach SchmidtJJ29@uww.edu
+
+46. Jennifer Regan
+   Email: whitej@uww.edu
+   Username: whitej
+   Phone: (262) 472-5647
+   Original line: Jennifer Regan Head Coach whitej@uww.edu 262-472-5647
+
+47. Chloe Edgren
+   Email: RehbergCA19@uww.edu
+   Username: RehbergCA19
+   Original line: Chloe Edgren Assistant Coach RehbergCA19@uww.edu
+
+48. Acacia Erbs
+   Email: FossumAJ28@uww.edu
+   Username: FossumAJ28
+   Original line: Acacia Erbs Assistant Coach FossumAJ28@uww.edu
+
+49. Dan Montanye
+   Email: montanyedd17@uww.edu
+   Username: montanyedd17
+   Original line: Dan Montanye Head Coach montanyedd17@uww.edu (414) 510-
+
+50. Brenda Volk
+   Email: volkb@uww.edu
+   Username: volkb
+   Phone: (262) 472-1155
+   Original line: Brenda Volk Head Coach volkb@uww.edu 262-472-1155
+
+51. Beth Bonuso
+   Email: bonusob@uww.edu
+   Username: bonusob
+   Phone: (262) 472-1476
+   Original line: Beth Bonuso Assistant Coach bonusob@uww.edu 262-472-1476
+
+52. Stacy Boudreau
+   Email: boudreas@uww.edu
+   Username: boudreas
+   Phone: (262) 472-1144
+   Original line: Stacy Boudreau Head Coach boudreas@uww.edu 262-472-1144
+
+53. Keith Scheckel
+   Email: ScheckelKD29@uww.edu
+   Username: ScheckelKD29
+   Phone: (262) 472-1829
+   Original line: Keith Scheckel Associate Head Coach ScheckelKD29@uww.edu 262-472-1829
+
+54. Alayna Jansky-Gehl
+   Email: JanskyAA09@uww.edu
+   Username: JanskyAA09
+   Original line: Alayna Jansky-Gehl Assistant Coach JanskyAA09@uww.edu
+
+55. Jenna (Weinfurt)
+   Email: weinfurtjl29@uww.edu
+   Username: weinfurtjl29
+   Original line: Jenna (Weinfurt) Cyskiewicz Assistant Coach weinfurtjl29@uww.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• John Schimenz Assistant Sports Performance Coach schimenj@uww.edu 262-472-5946
+• Corey Meredith Assistant Sports Performance Coach mereditco@uww.edu
+• John Vodenlich Head Coach vodenlij@uww.edu 262-472-1420
+• Zach Bayreuther Assistant Coach bayreutz@uww.edu 262-472-5693
+• Peyton Schneider Assistant Coach schneidp@uww.edu
+• Mark Fuller Assistant Coach mfull@csdmail.com 262-472-1420
+• Armando Hernandez Assistant Coach hernanda@kmsd.edu 262-472-1420
+• Tom Klawitter Assistant Coach tklaw35@aol.com 262-472-1420
+• Jarod Wichser Head Coach WichserJJ08@uww.edu 262-472-1599
+• Kai Instefjord Assistant Coach InstefjoKE08@uww.edu
+• Ben Davis Assistant Coach davisbb@uww.edu 262-472-1599
+• Jeff Miller Head Coach millerjr@uww.edu 262-472-5648
+• Brandon Miles Assistant Coach milesb@uww.edu 262-472-5466
+• Jace Rindahl Head Coach rindahljo12@uww.edu 262-472-1653
+• Beau Martin Associate Head Coach | Special Teams & Recruiting Coordinator | MartinBG05@uww.edu 262-472-1058
+• Miles Hookstead Offensive Line Coach hookstem@uww.edu 262-472-5779
+• Mike Mardis Tight Ends Coach MardisMJ16@uww.edu 262-472-1651
+• John Schimenz Assistant Sports Performance Coach schimenj@uww.edu 262-472-5946
+• Paco Hernandez Assistant Coach | Social Media Coordinator HernandeFA12@uww.edu
+• Kenny Jilek Assistant Coach JilekKR22@uww.edu
+• Jacob Possorek Assistant Coach PossorekJP26@uww.edu
+• Jacob Schumacher Assistant Coach SchumachJJ17@uww.edu
+• Tony Guinn Head Coach guinna@uww.edu 309-313-3951
+• Elise Knoche Head Coach knochee@uww.edu 262-472-6235
+• Byron Balkin Head Coach balkinbm29@uww.edu 262-472-6201
+• Frank Barnes Assistant Coach barnesf@uww.edu
+• Mike Johnson Head Coach (Long Sprints/Hurdles/Team Nutritionist) johnsonmj03@uww.edu 262-472-1367
+• Josh Ireland Associate Head Coach (Short Sprints) irelandjb15@uww.edu 262-472-1660
+• Nick Bee Assistant Coach (Strength and Conditioning) beenm12@uww.edu
+• Cody Helgeson Assistant Coach (High Jump) helgesoc@uww.edu 715-570-0559
+• Jeff Miller Assistant Coach (Distance) millerjr@uww.edu 262-472-5648
+• Brandon Miles Assistant Coach milesb@uww.edu 262-472-5466
+• Trevor Roznowski Assistant Coach (Throws) roznowst@uww.edu 262-472-5226
+• Nathan Wells Assistant Coach (Pole Vault) wellsn@uww.edu 608-234-1947
+• Dr. Lindsey Greviskes Team Mental Performance Coach greviskl@uww.edu
+• Matt Zwaschka Head Coach zwaschkm@uww.edu 262-472-1867
+• Adam Latella Head Assistant Coach LatellaAJ05@uww.edu 262-472-1682
+• Shane Siefert Assistant Coach SiefertSM20@uww.edu
+• Ben Peterson Assistant Coach petersob@uww.edu
+• Tyler Becker Recruiting Coordinator/Assistant Coach BeckerTB11@uww.edu
+• Keri Carollo Head Coach/Senior Woman Administrator carollok@uww.edu 262-472-5782
+• Erinn Behn Assistant Coach behne@uww.edu
+• Becca Hagerman Head Coach hagermar@uww.edu
+• Andrea Wieland Head Coach wielanda@uww.edu 262-472-5678
+• Jeff Schmidt Assistant Coach SchmidtJJ29@uww.edu
+• Jennifer Regan Head Coach whitej@uww.edu 262-472-5647
+• Chloe Edgren Assistant Coach RehbergCA19@uww.edu
+• Acacia Erbs Assistant Coach FossumAJ28@uww.edu
+• Dan Montanye Head Coach montanyedd17@uww.edu (414) 510-
+• Brenda Volk Head Coach volkb@uww.edu 262-472-1155
+• Beth Bonuso Assistant Coach bonusob@uww.edu 262-472-1476
+• Stacy Boudreau Head Coach boudreas@uww.edu 262-472-1144
+• Keith Scheckel Associate Head Coach ScheckelKD29@uww.edu 262-472-1829
+• Alayna Jansky-Gehl Assistant Coach JanskyAA09@uww.edu
+• Jenna (Weinfurt) Cyskiewicz Assistant Coach weinfurtjl29@uww.edu

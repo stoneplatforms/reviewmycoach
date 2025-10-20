@@ -1,0 +1,113 @@
+COACH ENTRIES FOUND - 2025-10-19 04:58:20
+============================================================
+
+Total coaches found: 17
+
+PARSED ENTRIES:
+----------------------------------------
+1. Joel Pearson
+   Email: joel.r.pearson@evergreen.edu
+   Username: joel.r.pearson
+   Original line: Joel Pearson Head Cross Country, Track & Field Coach joel.r.pearson@evergreen.edu 360-742-
+
+2. Josh Beam
+   Email: joshua.beam@evergreen.edu
+   Username: joshua.beam
+   Original line: Josh Beam Assistant Cross Country, Track & Field Coach joshua.beam@evergreen.edu
+
+3. Cory Jenkins
+   Email: cory.jenkins@evergreen.edu
+   Username: cory.jenkins
+   Original line: Cory Jenkins Assistant Cross Country, Track & Field Coach cory.jenkins@evergreen.edu
+
+4. Cameron Swanson
+   Email: Cam.Swanson@evergreen.edu
+   Username: Cam.Swanson
+   Original line: Cameron Swanson Men's Basketball Head Coach Cam.Swanson@evergreen.edu
+
+5. Derrick Pringle
+   Email: derrick.a.pringle@evergreen.edu
+   Username: derrick.a.pringle
+   Original line: Derrick Pringle Head Women's Basketball Coach derrick.a.pringle@evergreen.edu
+
+6. Steve Schmidt
+   Email: schmidts@evergreen.edu
+   Username: schmidts
+   Original line: Steve Schmidt Head Men's Soccer Coach schmidts@evergreen.edu 360-867-
+
+7. Kate Green
+   Email: kate.l.green@evergreen.edu
+   Username: kate.l.green
+   Original line: Kate Green Head Women's Soccer Coach kate.l.green@evergreen.edu
+
+8. Steve Schmidt
+   Email: schmidts@evergreen.edu
+   Username: schmidts
+   Original line: Steve Schmidt Head Men's Soccer Coach schmidts@evergreen.edu 360-867-
+
+9. Joel Pearson
+   Email: joel.r.pearson@evergreen.edu
+   Username: joel.r.pearson
+   Original line: Joel Pearson Head Cross Country, Track & Field Coach joel.r.pearson@evergreen.edu 360-742-
+
+10. Josh Gray
+   Email: joshua.gray@evergreen.edu
+   Username: joshua.gray
+   Original line: Josh Gray Assistant Track and Field Coach -- Sprints, Hurdles, Relays, Jumps, joshua.gray@evergreen.edu
+
+11. Corona Parker
+   Email: corona.m.parker@evergreen.edu
+   Username: corona.m.parker
+   Original line: Corona Parker Assistant Track and Field Coach -- Throws corona.m.parker@evergreen.edu
+
+12. Josh Beam
+   Email: joshua.beam@evergreen.edu
+   Username: joshua.beam
+   Original line: Josh Beam Assistant Cross Country, Track & Field Coach joshua.beam@evergreen.edu
+
+13. Cory Jenkins
+   Email: cory.jenkins@evergreen.edu
+   Username: cory.jenkins
+   Original line: Cory Jenkins Assistant Cross Country, Track & Field Coach cory.jenkins@evergreen.edu
+
+14. Emanuel Scott
+   Email: Emanuel.Scott@evergreen.edu
+   Username: Emanuel.Scott
+   Original line: Emanuel Scott Head Men's Wrestling Coach Emanuel.Scott@evergreen.edu 360-918-
+
+15. Fan Zhang
+   Email: fan.zhang@evergreen.edu
+   Username: fan.zhang
+   Original line: Fan Zhang Head Women's Wrestling Coach fan.zhang@evergreen.edu
+
+16. John Lane
+   Email: john.k.lane@evergreen.edu
+   Username: john.k.lane
+   Original line: John Lane Assistant Women's Wrestling Coach john.k.lane@evergreen.edu
+
+17. Carissa Bounds
+   Email: carissa.bounds@evergreen.edu
+   Username: carissa.bounds
+   Original line: Carissa Bounds Head Volleyball Coach carissa.bounds@evergreen.edu 360-819-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Joel Pearson Head Cross Country, Track & Field Coach joel.r.pearson@evergreen.edu 360-742-
+• Josh Beam Assistant Cross Country, Track & Field Coach joshua.beam@evergreen.edu
+• Cory Jenkins Assistant Cross Country, Track & Field Coach cory.jenkins@evergreen.edu
+• Cameron Swanson Men's Basketball Head Coach Cam.Swanson@evergreen.edu
+• Derrick Pringle Head Women's Basketball Coach derrick.a.pringle@evergreen.edu
+• Steve Schmidt Head Men's Soccer Coach schmidts@evergreen.edu 360-867-
+• Kate Green Head Women's Soccer Coach kate.l.green@evergreen.edu
+• Steve Schmidt Head Men's Soccer Coach schmidts@evergreen.edu 360-867-
+• Joel Pearson Head Cross Country, Track & Field Coach joel.r.pearson@evergreen.edu 360-742-
+• Josh Gray Assistant Track and Field Coach -- Sprints, Hurdles, Relays, Jumps, joshua.gray@evergreen.edu
+• Corona Parker Assistant Track and Field Coach -- Throws corona.m.parker@evergreen.edu
+• Josh Beam Assistant Cross Country, Track & Field Coach joshua.beam@evergreen.edu
+• Cory Jenkins Assistant Cross Country, Track & Field Coach cory.jenkins@evergreen.edu
+• Emanuel Scott Head Men's Wrestling Coach Emanuel.Scott@evergreen.edu 360-918-
+• Fan Zhang Head Women's Wrestling Coach fan.zhang@evergreen.edu
+• John Lane Assistant Women's Wrestling Coach john.k.lane@evergreen.edu
+• Carissa Bounds Head Volleyball Coach carissa.bounds@evergreen.edu 360-819-

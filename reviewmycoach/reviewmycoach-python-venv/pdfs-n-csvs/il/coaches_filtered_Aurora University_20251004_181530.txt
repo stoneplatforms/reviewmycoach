@@ -1,0 +1,257 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:31
+============================================================
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chad Trudo
+   Email: ctrudo@aurora.edu
+   Username: ctrudo
+   Original line: Chad Trudo Associate Athletic Director ctrudo@aurora.edu 630- coachtrudo
+
+2. Chad Trudo
+   Email: ctrudo@aurora.edu
+   Username: ctrudo
+   Original line: Chad Trudo Associate Athletic Director ctrudo@aurora.edu 630- coachtrudo
+
+3. Chad Trudo
+   Email: ctrudo@aurora.edu
+   Username: ctrudo
+   Original line: Chad Trudo Associate Athletic Director ctrudo@aurora.edu 630- coachtrudo
+
+4. Adam Stevens
+   Email: astevens@aurora.edu
+   Username: astevens
+   Original line: Adam Stevens Head Coach astevens@aurora.edu 630- CoachStevens_AU
+
+5. Carter Turnquist
+   Email: cturnquist@aurora.edu
+   Username: cturnquist
+   Original line: Carter Turnquist Assistant Coach cturnquist@aurora.edu 630-
+
+6. Steve Christiansen
+   Email: schristiansen@aurora.edu
+   Username: schristiansen
+   Original line: Steve Christiansen Head Coach schristiansen@aurora.edu 630-
+
+7. Brandon Smith
+   Email: brandonsmith@aurora.edu
+   Username: brandonsmith
+   Original line: Brandon Smith Assistant Coach brandonsmith@aurora.edu
+
+8. Ryan Rebsom
+   Email: rrebsom@aurora.edu
+   Username: rrebsom
+   Original line: Ryan Rebsom Head Coach rrebsom@aurora.edu 630-
+
+9. Mike Grzesiak
+   Email: mgrzesiak@aurora.edu
+   Username: mgrzesiak
+   Original line: Mike Grzesiak Assistant Head Coach mgrzesiak@aurora.edu
+
+10. Allie Pearson
+   Email: apearson@aurora.edu
+   Username: apearson
+   Original line: Allie Pearson Assistant Coach apearson@aurora.edu 630-
+
+11. Rich McElmeel
+   Email: rmcelmeel@aurora.edu
+   Username: rmcelmeel
+   Original line: Rich McElmeel Head Coach rmcelmeel@aurora.edu 630-
+
+12. Alex Lowe
+   Email: alowe@aurora.edu
+   Username: alowe
+   Original line: Alex Lowe Head Coach alowe@aurora.edu 630-
+
+13. Jeff Fellers
+   Email: jfellers@aurora.edu
+   Username: jfellers
+   Original line: Jeff Fellers Assistant Coach jfellers@aurora.edu 630-
+
+14. Don Beebe
+   Email: dbeebe@aurora.edu
+   Username: dbeebe
+   Original line: Don Beebe Head Coach dbeebe@aurora.edu 630- @DonBeebeNFL
+
+15. Ryan Gehlert
+   Email: rgehlert@aurora.edu
+   Username: rgehlert
+   Original line: Ryan Gehlert Assistant Coach (Co- rgehlert@aurora.edu 630- @CoachRgehlert7
+
+16. J.T. Zimmerman
+   Email: jzimmerman@aurora.edu
+   Username: jzimmerman
+   Original line: J.T. Zimmerman Assistant Coach (Defensive jzimmerman@aurora.edu 630- @AUCoachZim
+
+17. Matt Piasecki
+   Email: mpiasecki@aurora.edu
+   Username: mpiasecki
+   Original line: Matt Piasecki Assistant Coach (Special mpiasecki@aurora.edu 630- @CoachPiasecki
+
+18. Carlos Delgado
+   Email: cdelgado03@aurora.edu
+   Username: cdelgado03
+   Original line: Carlos Delgado Graduate Assistant cdelgado03@aurora.edu @CoachLos15
+
+19. Lane Barlow
+   Email: lbarlow@aurora.edu
+   Username: lbarlow
+   Original line: Lane Barlow Head Coach lbarlow@aurora.edu 630-
+
+20. Brian Dempsey
+   Email: bdempsey@aurora.edu
+   Username: bdempsey
+   Original line: Brian Dempsey Assistant Coach / Director bdempsey@aurora.edu
+
+21. Mandy Montgomery
+   Email: mmontgomery@aurora.edu
+   Username: mmontgomery
+   Original line: Mandy Montgomery Head Coach mmontgomery@aurora.edu 630-
+
+22. Reid Mayberry
+   Email: rmayberry@aurora.edu
+   Username: rmayberry
+   Original line: Reid Mayberry Head Coach rmayberry@aurora.edu 630-
+
+23. Collin Tolsma
+   Email: ctolsma@aurora.edu
+   Username: ctolsma
+   Original line: Collin Tolsma Assistant Coach ctolsma@aurora.edu 630-
+
+24. Christina Fried
+   Email: cfried@aurora.edu
+   Username: cfried
+   Original line: Christina Fried Head Coach cfried@aurora.edu 630- AUSpartanwlax
+
+25. Danielle Cobbett
+   Email: dcobbett01@aurora.edu
+   Username: dcobbett01
+   Original line: Danielle Cobbett Assistant Coach dcobbett01@aurora.edu
+
+26. Ryan Lakin
+   Email: rlakin@aurora.edu
+   Username: rlakin
+   Original line: Ryan Lakin Head Coach rlakin@aurora.edu 630- AUSpartanmsoc
+
+27. Courtney Naber
+   Email: cnaber@aurora.edu
+   Username: cnaber
+   Original line: Courtney Naber Head Coach cnaber@aurora.edu 630-
+
+28. Mike McKenzie
+   Email: mmckenzi@aurora.edu
+   Username: mmckenzi
+   Original line: Mike McKenzie Head Coach mmckenzi@aurora.edu 630- AUSpartanSball
+
+29. Jeff Fellers
+   Email: jfellers@aurora.edu
+   Username: jfellers
+   Original line: Jeff Fellers Head Coach jfellers@aurora.edu 630-
+
+30. Alex Lowe
+   Email: alowe@aurora.edu
+   Username: alowe
+   Original line: Alex Lowe Assistant Coach - Distance alowe@aurora.edu 630-
+
+31. Roman Hill
+   Email: rhill@aurora.edu
+   Username: rhill
+   Original line: Roman Hill Assistant Coach rhill@aurora.edu 630-
+
+32. Dan Ames
+   Email: dames@aurora.edu
+   Username: dames
+   Original line: Dan Ames Head Coach dames@aurora.edu 630-
+
+33. Gus Colima
+   Email: acolima@aurora.edu
+   Username: acolima
+   Original line: Gus Colima Assistant Coach acolima@aurora.edu 630-
+
+34. James Seitelman
+   Email: jseitelman@aurora.edu
+   Username: jseitelman
+   Original line: James Seitelman Head Coach jseitelman@aurora.edu 630- AUSpartanVBall
+
+35. Justin Pearch
+   Email: jpearch@aurora.edu
+   Username: jpearch
+   Original line: Justin Pearch Head Coach jpearch@aurora.edu 630-
+
+36. Dimitri Willis
+   Email: dwillis@aurora.edu
+   Username: dwillis
+   Original line: Dimitri Willis Assistant Coach dwillis@aurora.edu 630-
+
+37. Justin Pearch
+   Email: jpearch@aurora.edu
+   Username: jpearch
+   Original line: Justin Pearch Head Coach jpearch@aurora.edu 630-
+
+38. Dimitri Willis
+   Email: dwillis@aurora.edu
+   Username: dwillis
+   Original line: Dimitri Willis Assistant Coach dwillis@aurora.edu 630-
+
+39. Bill Andrews
+   Email: wandrews@aurora.edu
+   Username: wandrews
+   Original line: Bill Andrews Head Coach wandrews@aurora.edu
+
+40. Michael Di
+   Email: mdistefano@aurora.edu
+   Username: mdistefano
+   Original line: Michael Di Stefano Head Coach mdistefano@aurora.edu
+
+41. Ken O'Connor
+   Email: keoconnor@aurora.edu
+   Username: keoconnor
+   Original line: Ken O'Connor Assistant Coach keoconnor@aurora.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chad Trudo Associate Athletic Director ctrudo@aurora.edu 630- coachtrudo
+• Chad Trudo Associate Athletic Director ctrudo@aurora.edu 630- coachtrudo
+• Chad Trudo Associate Athletic Director ctrudo@aurora.edu 630- coachtrudo
+• Adam Stevens Head Coach astevens@aurora.edu 630- CoachStevens_AU
+• Carter Turnquist Assistant Coach cturnquist@aurora.edu 630-
+• Steve Christiansen Head Coach schristiansen@aurora.edu 630-
+• Brandon Smith Assistant Coach brandonsmith@aurora.edu
+• Ryan Rebsom Head Coach rrebsom@aurora.edu 630-
+• Mike Grzesiak Assistant Head Coach mgrzesiak@aurora.edu
+• Allie Pearson Assistant Coach apearson@aurora.edu 630-
+• Rich McElmeel Head Coach rmcelmeel@aurora.edu 630-
+• Alex Lowe Head Coach alowe@aurora.edu 630-
+• Jeff Fellers Assistant Coach jfellers@aurora.edu 630-
+• Don Beebe Head Coach dbeebe@aurora.edu 630- @DonBeebeNFL
+• Ryan Gehlert Assistant Coach (Co- rgehlert@aurora.edu 630- @CoachRgehlert7
+• J.T. Zimmerman Assistant Coach (Defensive jzimmerman@aurora.edu 630- @AUCoachZim
+• Matt Piasecki Assistant Coach (Special mpiasecki@aurora.edu 630- @CoachPiasecki
+• Carlos Delgado Graduate Assistant cdelgado03@aurora.edu @CoachLos15
+• Lane Barlow Head Coach lbarlow@aurora.edu 630-
+• Brian Dempsey Assistant Coach / Director bdempsey@aurora.edu
+• Mandy Montgomery Head Coach mmontgomery@aurora.edu 630-
+• Reid Mayberry Head Coach rmayberry@aurora.edu 630-
+• Collin Tolsma Assistant Coach ctolsma@aurora.edu 630-
+• Christina Fried Head Coach cfried@aurora.edu 630- AUSpartanwlax
+• Danielle Cobbett Assistant Coach dcobbett01@aurora.edu
+• Ryan Lakin Head Coach rlakin@aurora.edu 630- AUSpartanmsoc
+• Courtney Naber Head Coach cnaber@aurora.edu 630-
+• Mike McKenzie Head Coach mmckenzi@aurora.edu 630- AUSpartanSball
+• Jeff Fellers Head Coach jfellers@aurora.edu 630-
+• Alex Lowe Assistant Coach - Distance alowe@aurora.edu 630-
+• Roman Hill Assistant Coach rhill@aurora.edu 630-
+• Dan Ames Head Coach dames@aurora.edu 630-
+• Gus Colima Assistant Coach acolima@aurora.edu 630-
+• James Seitelman Head Coach jseitelman@aurora.edu 630- AUSpartanVBall
+• Justin Pearch Head Coach jpearch@aurora.edu 630-
+• Dimitri Willis Assistant Coach dwillis@aurora.edu 630-
+• Justin Pearch Head Coach jpearch@aurora.edu 630-
+• Dimitri Willis Assistant Coach dwillis@aurora.edu 630-
+• Bill Andrews Head Coach wandrews@aurora.edu
+• Michael Di Stefano Head Coach mdistefano@aurora.edu
+• Ken O'Connor Assistant Coach keoconnor@aurora.edu

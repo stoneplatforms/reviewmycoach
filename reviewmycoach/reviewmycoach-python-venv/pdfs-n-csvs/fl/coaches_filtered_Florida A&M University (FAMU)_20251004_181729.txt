@@ -1,0 +1,152 @@
+COACH ENTRIES FOUND - 2025-10-04 18:17:30
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jamey Shouppe
+   Email: jamey.shouppe@famu.edu
+   Username: jamey.shouppe
+   Phone: 850.599.3202
+   Original line: Jamey Shouppe Head Coach jamey.shouppe@famu.edu 850.599.3202
+
+2. Brett Richardson
+   Email: Bretton.Richardson@famu.edu
+   Username: Bretton.Richardson
+   Original line: Brett Richardson Head Assistant Coach Bretton.Richardson@famu.edu
+
+3. Jeremiah McCollum
+   Email: jeremiah1.mccollum@famu.edu
+   Username: jeremiah1.mccollum
+   Original line: Jeremiah McCollum Assistant Coach jeremiah1.mccollum@famu.edu
+
+4. Octavien Moyer
+   Email: octavien1.moyer@famu.edu
+   Username: octavien1.moyer
+   Original line: Octavien Moyer Assistant Coach octavien1.moyer@famu.edu
+
+5. Jarrod Lazarus
+   Email: jarrod.lazarus@famu.edu
+   Username: jarrod.lazarus
+   Original line: Jarrod Lazarus Associate Head Coach jarrod.lazarus@famu.edu
+
+6. Rob Lewis
+   Email: rob.lewis@famu.edu
+   Username: rob.lewis
+   Original line: Rob Lewis Assistant Coach rob.lewis@famu.edu
+
+7. Ericka Cromartie
+   Email: ericka.cromartie@famu.edu
+   Username: ericka.cromartie
+   Original line: Ericka Cromartie Assistant Coach ericka.cromartie@famu.edu
+
+8. Jeramy Williams
+   Email: Jeramy.williams@famu.edu
+   Username: Jeramy.williams
+   Original line: Jeramy Williams Head Coach Jeramy.williams@famu.edu
+
+9. Felicia Barnes
+   Email: felicia.barnes@famu.edu
+   Username: felicia.barnes
+   Original line: Felicia Barnes Head Coach felicia.barnes@famu.edu
+
+10. James Colzie
+   Email: james.colzie@famu.edu
+   Username: james.colzie
+   Original line: James Colzie III Head Coach james.colzie@famu.edu
+
+11. Casey Walker
+   Email: casey.walker@famu.edu
+   Username: casey.walker
+   Original line: Casey Walker Assistant Coach | Defensive Line casey.walker@famu.edu
+
+12. Chris St.
+   Email: chris.stjohn@famu.edu
+   Username: chris.stjohn
+   Original line: Chris St. John Assistant Coach | Defensive Ends chris.stjohn@famu.edu
+
+13. Mike Rice
+   Email: preston.rice@famu.edu
+   Username: preston.rice
+   Phone: 850.212.7801
+   Original line: Mike Rice Head Coach preston.rice@famu.edu 850.212.7801
+
+14. Brittany Beall
+   Email: brittany.beall@famu.edu
+   Username: brittany.beall
+   Original line: Brittany Beall Head Coach brittany.beall@famu.edu
+
+15. Jessica Hurtado
+   Email: jessica.hurtado@famu.edu
+   Username: jessica.hurtado
+   Original line: Jessica Hurtado Assistant Coach jessica.hurtado@famu.edu
+
+16. Earl Wade
+   Email: earl.wade@famu.edu
+   Username: earl.wade
+   Original line: Earl Wade Assistant Coach earl.wade@famu.edu
+
+17. Robert Deadwyler
+   Email: robert.deadwyler@famu.edu
+   Username: robert.deadwyler
+   Original line: Robert Deadwyler II Assistant Coach - Sprints and Hurdles robert.deadwyler@famu.edu
+
+18. Tamika Kinchen
+   Email: tamika.kinchen@famu.edu
+   Username: tamika.kinchen
+   Original line: Tamika Kinchen Assistant Coach tamika.kinchen@famu.edu
+
+19. Robert Deadwyler
+   Email: robert.deadwyler@famu.edu
+   Username: robert.deadwyler
+   Original line: Robert Deadwyler II Assistant Coach - Sprints and Hurdles robert.deadwyler@famu.edu
+
+20. Tamika Kinchen
+   Email: tamika.kinchen@famu.edu
+   Username: tamika.kinchen
+   Original line: Tamika Kinchen Assistant Coach tamika.kinchen@famu.edu
+
+21. Gokhan Yilmaz
+   Email: gokhan.yilmaz@famu.edu
+   Username: gokhan.yilmaz
+   Phone: 850.561.2194
+   Original line: Gokhan Yilmaz Head Coach gokhan.yilmaz@famu.edu 850.561.2194
+
+22. Steve Canfield
+   Email: steve.canfield@famu.edu
+   Username: steve.canfield
+   Original line: Steve Canfield Assistant Coach steve.canfield@famu.edu
+
+23. Brooke Hudson
+   Email: brooke.hudson@famu.edu
+   Username: brooke.hudson
+   Original line: Brooke Hudson Assistant Coach brooke.hudson@famu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jamey Shouppe Head Coach jamey.shouppe@famu.edu 850.599.3202
+• Brett Richardson Head Assistant Coach Bretton.Richardson@famu.edu
+• Jeremiah McCollum Assistant Coach jeremiah1.mccollum@famu.edu
+• Octavien Moyer Assistant Coach octavien1.moyer@famu.edu
+• Jarrod Lazarus Associate Head Coach jarrod.lazarus@famu.edu
+• Rob Lewis Assistant Coach rob.lewis@famu.edu
+• Ericka Cromartie Assistant Coach ericka.cromartie@famu.edu
+• Jeramy Williams Head Coach Jeramy.williams@famu.edu
+• Felicia Barnes Head Coach felicia.barnes@famu.edu
+• James Colzie III Head Coach james.colzie@famu.edu
+• Casey Walker Assistant Coach | Defensive Line casey.walker@famu.edu
+• Chris St. John Assistant Coach | Defensive Ends chris.stjohn@famu.edu
+• Mike Rice Head Coach preston.rice@famu.edu 850.212.7801
+• Brittany Beall Head Coach brittany.beall@famu.edu
+• Jessica Hurtado Assistant Coach jessica.hurtado@famu.edu
+• Earl Wade Assistant Coach earl.wade@famu.edu
+• Robert Deadwyler II Assistant Coach - Sprints and Hurdles robert.deadwyler@famu.edu
+• Tamika Kinchen Assistant Coach tamika.kinchen@famu.edu
+• Robert Deadwyler II Assistant Coach - Sprints and Hurdles robert.deadwyler@famu.edu
+• Tamika Kinchen Assistant Coach tamika.kinchen@famu.edu
+• Gokhan Yilmaz Head Coach gokhan.yilmaz@famu.edu 850.561.2194
+• Steve Canfield Assistant Coach steve.canfield@famu.edu
+• Brooke Hudson Assistant Coach brooke.hudson@famu.edu

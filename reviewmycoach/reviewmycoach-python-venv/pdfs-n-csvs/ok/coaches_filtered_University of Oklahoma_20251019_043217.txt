@@ -1,0 +1,47 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:20
+============================================================
+
+Total coaches found: 6
+
+PARSED ENTRIES:
+----------------------------------------
+1.  
+   Email: oupomcoach@ou.edu
+   Username: oupomcoach
+   Original line: oupomcoach@ou.edu Full Bio
+
+2.  
+   Email: oucheercoach@ou.edu
+   Username: oucheercoach
+   Original line: oucheercoach@ou.edu Full Bio
+
+3.  
+   Email: coach.thomas@ou.edu
+   Username: coach.thomas
+   Original line: coach.thomas@ou.edu Full Bio
+
+4. Head Coach
+   Email: wellsgymn@ou.edu
+   Username: wellsgymn
+   Original line: Head Coach wellsgymn@ou.edu
+
+5.  
+   Email: coach.thomas@ou.edu
+   Username: coach.thomas
+   Original line: coach.thomas@ou.edu Full Bio
+
+6.  
+   Email: coachmookie@ou.edu
+   Username: coachmookie
+   Original line: coachmookie@ou.edu Full Bio
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• oupomcoach@ou.edu Full Bio
+• oucheercoach@ou.edu Full Bio
+• coach.thomas@ou.edu Full Bio
+• Head Coach wellsgymn@ou.edu
+• coach.thomas@ou.edu Full Bio
+• coachmookie@ou.edu Full Bio

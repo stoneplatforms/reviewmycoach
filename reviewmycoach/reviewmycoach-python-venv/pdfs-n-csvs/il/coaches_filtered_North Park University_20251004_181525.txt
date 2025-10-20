@@ -1,0 +1,251 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:25
+============================================================
+
+Total coaches found: 40
+
+PARSED ENTRIES:
+----------------------------------------
+1. Luke Johnson
+   Email: ljohnson6@northpark.edu
+   Username: ljohnson6
+   Original line: Luke Johnson Head Baseball Coach / Associate Director of Athletics ljohnson6@northpark.edu (773) 244-
+
+2. Charley Schaffner
+   Email: cgschaffner@northpark.edu
+   Username: cgschaffner
+   Original line: Charley Schaffner Head Cheerleading Coach cgschaffner@northpark.edu
+
+3. Kimberly Maljak
+   Email: kmaljak@northpark.edu
+   Username: kmaljak
+   Original line: Kimberly Maljak Dance Coach kmaljak@northpark.edu
+
+4. Luke Johnson
+   Email: ljohnson6@northpark.edu
+   Username: ljohnson6
+   Original line: Luke Johnson Head Baseball Coach / Associate Director of Athletics ljohnson6@northpark.edu (773) 244-
+
+5. Trent Abernathy
+   Email: tabernathy@northpark.edu
+   Username: tabernathy
+   Original line: Trent Abernathy Assistant Coach / Pitching Coach tabernathy@northpark.edu
+
+6. Kyle Gibson
+   Email: kgibson1@northpark.edu
+   Username: kgibson1
+   Original line: Kyle Gibson Graduate Assistant Baseball Coach kgibson1@northpark.edu
+
+7. Edwind McGhee
+   Email: emcghee@northpark.edu
+   Username: emcghee
+   Original line: Edwind McGhee Head Men's Basketball Coach emcghee@northpark.edu
+
+8. Aaron Jacobs
+   Email: agjacobs@northpark.edu
+   Username: agjacobs
+   Original line: Aaron Jacobs Assistant Men's Basketball Coach - Recruiting Coordinator agjacobs@northpark.edu
+
+9. Jalen Boyd
+   Email: jboyd2@northpark.edu
+   Username: jboyd2
+   Original line: Jalen Boyd Graduate Assistant Men's Basketball Coach jboyd2@northpark.edu
+
+10. Mark Smith
+   Email: msmith11@northpark.edu
+   Username: msmith11
+   Original line: Mark Smith Assistant Men's Basketball Coach msmith11@northpark.edu
+
+11. Annie Radenkovich
+   Email: aeshain@northpark.edu
+   Username: aeshain
+   Original line: Annie Radenkovich Head Women's Basketball Coach aeshain@northpark.edu (773) 244-
+
+12. Sam Ervin
+   Email: servin@northpark.edu
+   Username: servin
+   Original line: Sam Ervin Assistant Women's Basketball Coach servin@northpark.edu
+
+13. Dan Stoll
+   Email: dstoll@northpark.edu
+   Username: dstoll
+   Original line: Dan Stoll Assistant Cross Country and Track & Field Coach dstoll@northpark.edu
+
+14. Austin Beckon
+   Email: ajbeckon@northpark.edu
+   Username: ajbeckon
+   Original line: Austin Beckon Track & Field and Cross Country Graduate Assistant Coach ajbeckon@northpark.edu
+
+15. Ellie Parker
+   Email: erparker@northpark.edu
+   Username: erparker
+   Original line: Ellie Parker Track & Field and Cross Country Graduate Assistant Coach erparker@northpark.edu
+
+16. Kyle Rooker
+   Email: kprooker@northpark.edu
+   Username: kprooker
+   Original line: Kyle Rooker Head Coach kprooker@northpark.edu (773) 244-
+
+17. Jason Stapf
+   Email: jestapf@northpark.edu
+   Username: jestapf
+   Original line: Jason Stapf Assistant Head Coach / Co-Special Teams Coordinator / Academic jestapf@northpark.edu (281) 753-
+
+18. Ramon Palma
+   Email: rpalma@northpark.edu
+   Username: rpalma
+   Original line: Ramon Palma Head Women's Flag Football Coach rpalma@northpark.edu
+
+19. Jack Haberkorn
+   Email: jhaberkorn@northpark.edu
+   Username: jhaberkorn
+   Original line: Jack Haberkorn Head Men's and Women's Golf Coach jhaberkorn@northpark.edu (773) 244-
+
+20. Jack Haberkorn
+   Email: jhaberkorn@northpark.edu
+   Username: jhaberkorn
+   Original line: Jack Haberkorn Head Men's and Women's Golf Coach jhaberkorn@northpark.edu (773) 244-
+
+21. Kris Grahn
+   Email: kgrahn@northpark.edu
+   Username: kgrahn
+   Original line: Kris Grahn Head Men's Soccer Coach kgrahn@northpark.edu
+
+22. Karsten Hahn
+   Email: krhahn@northpark.edu
+   Username: krhahn
+   Original line: Karsten Hahn Assistant Coach krhahn@northpark.edu
+
+23. Adam Przytula
+   Email: asprzytula@northpark.edu
+   Username: asprzytula
+   Original line: Adam Przytula Men's Soccer Graduate Assistant Coach asprzytula@northpark.edu
+
+24. Joel Estrada
+   Email: jestrada1@northpark.edu
+   Username: jestrada1
+   Original line: Joel Estrada Graduate Assistant Coach jestrada1@northpark.edu
+
+25. Emma Woodley
+   Email: ebwoodley@northpark.edu
+   Username: ebwoodley
+   Original line: Emma Woodley Head Women's Soccer Coach ebwoodley@northpark.edu (303) 590-
+
+26. Lucy Clark
+   Email: lclark@northpark.edu
+   Username: lclark
+   Original line: Lucy Clark Graduate Assistant Women's Soccer Coach lclark@northpark.edu
+
+27. Corinne Cole
+   Email: ccole@northpark.edu
+   Username: ccole
+   Original line: Corinne Cole Assistant Coach ccole@northpark.edu
+
+28. Katie Anderson
+   Email: kanderson5@northpark.edu
+   Username: kanderson5
+   Original line: Katie Anderson Head Softball Coach kanderson5@northpark.edu (773) 244-
+
+29. Dan Stoll
+   Email: dstoll@northpark.edu
+   Username: dstoll
+   Original line: Dan Stoll Assistant Cross Country and Track & Field Coach dstoll@northpark.edu
+
+30. Percy Bean
+   Email: pbean@northpark.edu
+   Username: pbean
+   Original line: Percy Bean III Throws Coach - T&F pbean@northpark.edu
+
+31. Austin Beckon
+   Email: ajbeckon@northpark.edu
+   Username: ajbeckon
+   Original line: Austin Beckon Track & Field and Cross Country Graduate Assistant Coach ajbeckon@northpark.edu
+
+32. Ellie Parker
+   Email: erparker@northpark.edu
+   Username: erparker
+   Original line: Ellie Parker Track & Field and Cross Country Graduate Assistant Coach erparker@northpark.edu
+
+33. Alice Copland
+   Email: amcopland@northpark.edu
+   Username: amcopland
+   Original line: Alice Copland Head Women's Tennis Coach amcopland@northpark.edu (773) 244-
+
+34. Aianna Wilson
+   Email: ewilson4@northpark.edu
+   Username: ewilson4
+   Original line: Aianna Wilson Assistant Coach - Tennis Operations ewilson4@northpark.edu
+
+35. Brittany Welch
+   Email: bnwelch@northpark.edu
+   Username: bnwelch
+   Original line: Brittany Welch Head Men's Volleyball Coach bnwelch@northpark.edu
+
+36. Michael Sopocy
+   Email: msopocy@northpark.edu
+   Username: msopocy
+   Original line: Michael Sopocy Head Women's Volleyball Coach msopocy@northpark.edu (773) 244-
+
+37. Christina Gatta
+   Email: crgatta@northpark.edu
+   Username: crgatta
+   Original line: Christina Gatta Assistant Coach crgatta@northpark.edu
+
+38. Brittany Welch
+   Email: bnwelch@northpark.edu
+   Username: bnwelch
+   Original line: Brittany Welch Assistant Coach bnwelch@northpark.edu
+
+39. Louis Green
+   Email: lgreen2@northpark.edu
+   Username: lgreen2
+   Original line: Louis Green Assistant Coach lgreen2@northpark.edu
+
+40. Adriana Rodriguez
+   Email: asrodriguez2@northpark.edu
+   Username: asrodriguez2
+   Original line: Adriana Rodriguez Graduate Assistant Coach asrodriguez2@northpark.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Luke Johnson Head Baseball Coach / Associate Director of Athletics ljohnson6@northpark.edu (773) 244-
+• Charley Schaffner Head Cheerleading Coach cgschaffner@northpark.edu
+• Kimberly Maljak Dance Coach kmaljak@northpark.edu
+• Luke Johnson Head Baseball Coach / Associate Director of Athletics ljohnson6@northpark.edu (773) 244-
+• Trent Abernathy Assistant Coach / Pitching Coach tabernathy@northpark.edu
+• Kyle Gibson Graduate Assistant Baseball Coach kgibson1@northpark.edu
+• Edwind McGhee Head Men's Basketball Coach emcghee@northpark.edu
+• Aaron Jacobs Assistant Men's Basketball Coach - Recruiting Coordinator agjacobs@northpark.edu
+• Jalen Boyd Graduate Assistant Men's Basketball Coach jboyd2@northpark.edu
+• Mark Smith Assistant Men's Basketball Coach msmith11@northpark.edu
+• Annie Radenkovich Head Women's Basketball Coach aeshain@northpark.edu (773) 244-
+• Sam Ervin Assistant Women's Basketball Coach servin@northpark.edu
+• Dan Stoll Assistant Cross Country and Track & Field Coach dstoll@northpark.edu
+• Austin Beckon Track & Field and Cross Country Graduate Assistant Coach ajbeckon@northpark.edu
+• Ellie Parker Track & Field and Cross Country Graduate Assistant Coach erparker@northpark.edu
+• Kyle Rooker Head Coach kprooker@northpark.edu (773) 244-
+• Jason Stapf Assistant Head Coach / Co-Special Teams Coordinator / Academic jestapf@northpark.edu (281) 753-
+• Ramon Palma Head Women's Flag Football Coach rpalma@northpark.edu
+• Jack Haberkorn Head Men's and Women's Golf Coach jhaberkorn@northpark.edu (773) 244-
+• Jack Haberkorn Head Men's and Women's Golf Coach jhaberkorn@northpark.edu (773) 244-
+• Kris Grahn Head Men's Soccer Coach kgrahn@northpark.edu
+• Karsten Hahn Assistant Coach krhahn@northpark.edu
+• Adam Przytula Men's Soccer Graduate Assistant Coach asprzytula@northpark.edu
+• Joel Estrada Graduate Assistant Coach jestrada1@northpark.edu
+• Emma Woodley Head Women's Soccer Coach ebwoodley@northpark.edu (303) 590-
+• Lucy Clark Graduate Assistant Women's Soccer Coach lclark@northpark.edu
+• Corinne Cole Assistant Coach ccole@northpark.edu
+• Katie Anderson Head Softball Coach kanderson5@northpark.edu (773) 244-
+• Dan Stoll Assistant Cross Country and Track & Field Coach dstoll@northpark.edu
+• Percy Bean III Throws Coach - T&F pbean@northpark.edu
+• Austin Beckon Track & Field and Cross Country Graduate Assistant Coach ajbeckon@northpark.edu
+• Ellie Parker Track & Field and Cross Country Graduate Assistant Coach erparker@northpark.edu
+• Alice Copland Head Women's Tennis Coach amcopland@northpark.edu (773) 244-
+• Aianna Wilson Assistant Coach - Tennis Operations ewilson4@northpark.edu
+• Brittany Welch Head Men's Volleyball Coach bnwelch@northpark.edu
+• Michael Sopocy Head Women's Volleyball Coach msopocy@northpark.edu (773) 244-
+• Christina Gatta Assistant Coach crgatta@northpark.edu
+• Brittany Welch Assistant Coach bnwelch@northpark.edu
+• Louis Green Assistant Coach lgreen2@northpark.edu
+• Adriana Rodriguez Graduate Assistant Coach asrodriguez2@northpark.edu

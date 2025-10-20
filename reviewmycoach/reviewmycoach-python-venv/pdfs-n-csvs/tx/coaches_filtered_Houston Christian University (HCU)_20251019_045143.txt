@@ -1,0 +1,158 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:43
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Clay VanderLaan
+   Email: cvanderlaan@hc.edu
+   Username: cvanderlaan
+   Original line: Clay VanderLaan Head Coach cvanderlaan@hc.edu
+
+2. Evan Lavery
+   Email: elavery@hc.edu
+   Username: elavery
+   Original line: Evan Lavery Associate Head Coach elavery@hc.edu
+
+3. Adam Cytlak
+   Email: acytlak@hc.edu
+   Username: acytlak
+   Original line: Adam Cytlak Assistant Coach acytlak@hc.edu
+
+4. Terry Johnson
+   Email: tnjohnson@hc.edu
+   Username: tnjohnson
+   Phone: 281.649.3057
+   Original line: Terry Johnson Assistant Coach tnjohnson@hc.edu 281.649.3057
+
+5. Caden Brannan
+   Email: cbrannan@hc.edu
+   Username: cbrannan
+   Original line: Caden Brannan Assistant Coach cbrannan@hc.edu
+
+6. Chris Giles
+   Email: cgiles@hc.edu
+   Username: cgiles
+   Original line: Chris Giles Assistant Coach cgiles@hc.edu
+
+7. Rachel Baity
+   Email: rbaity@hc.edu
+   Username: rbaity
+   Original line: Rachel Baity Assistant Coach rbaity@hc.edu
+
+8. Dianna Wilson-Jones
+   Email: dkjones@hc.edu
+   Username: dkjones
+   Original line: Dianna Wilson-Jones Assistant Coach dkjones@hc.edu
+
+9. Jonathan Petty
+   Email: jpetty@hc.edu
+   Username: jpetty
+   Phone: 281.649.3878
+   Original line: Jonathan Petty Assoc. Head Coach/Safeties jpetty@hc.edu 281.649.3878
+
+10. David Shuster
+   Email: dshuster@hc.edu
+   Username: dshuster
+   Phone: 281.649.3092
+   Original line: David Shuster Director of Golf/Head Coach dshuster@hc.edu 281.649.3092
+
+11. Jordan Jeffers
+   Email: jjeffers@hc.edu
+   Username: jjeffers
+   Original line: Jordan Jeffers Head Coach jjeffers@hc.edu
+
+12. Ryan Pratt
+   Email: rpratt@hc.edu
+   Username: rpratt
+   Phone: 281.649.3091
+   Original line: Ryan Pratt Head Coach rpratt@hc.edu 281.649.3091
+
+13. Archie Massen
+   Email: amassen@hc.edu
+   Username: amassen
+   Original line: Archie Massen Assistant Coach amassen@hc.edu
+
+14. Nick Whiting
+   Email: nwhiting@hc.edu
+   Username: nwhiting
+   Original line: Nick Whiting Head Coach nwhiting@hc.edu
+
+15. Quentin Boric
+   Email: qboric@hc.edu
+   Username: qboric
+   Original line: Quentin Boric Assistant Coach qboric@hc.edu
+
+16. Mary-Ellen Hall
+   Email: mhall@hc.edu
+   Username: mhall
+   Phone: 281.649.3248
+   Original line: Mary-Ellen Hall Head Coach mhall@hc.edu 281.649.3248
+
+17. Cortni Emanuel
+   Email: emanuelc@hc.edu
+   Username: emanuelc
+   Original line: Cortni Emanuel Assistant Coach emanuelc@hc.edu
+
+18. DJ Hicks
+   Email: dhicks@hc.edu
+   Username: dhicks
+   Phone: 281.649.3018
+   Original line: DJ Hicks Assistant Coach/Recruiting Coordinator dhicks@hc.edu 281.649.3018
+
+19. Ray Doakes
+   Email: adoakes@hc.edu
+   Username: adoakes
+   Original line: Ray Doakes Assistant Coach adoakes@hc.edu
+
+20. Cameron Sitler
+   Email: csitler@hc.edu
+   Username: csitler
+   Phone: 281.649.3273
+   Original line: Cameron Sitler Head Coach csitler@hc.edu 281.649.3273
+
+21. Abigail Elder
+   Email: aelder@hc.edu
+   Username: aelder
+   Original line: Abigail Elder Assistant Coach aelder@hc.edu
+
+22. Trent Herman
+   Email: therman@hc.edu
+   Username: therman
+   Phone: 281.649.3316
+   Original line: Trent Herman Head Coach therman@hc.edu 281.649.3316
+
+23. Kayla Spiess
+   Email: karmer@hc.edu
+   Username: karmer
+   Phone: 281.649.3144
+   Original line: Kayla Spiess Assistant Coach karmer@hc.edu 281.649.3144
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Clay VanderLaan Head Coach cvanderlaan@hc.edu
+• Evan Lavery Associate Head Coach elavery@hc.edu
+• Adam Cytlak Assistant Coach acytlak@hc.edu
+• Terry Johnson Assistant Coach tnjohnson@hc.edu 281.649.3057
+• Caden Brannan Assistant Coach cbrannan@hc.edu
+• Chris Giles Assistant Coach cgiles@hc.edu
+• Rachel Baity Assistant Coach rbaity@hc.edu
+• Dianna Wilson-Jones Assistant Coach dkjones@hc.edu
+• Jonathan Petty Assoc. Head Coach/Safeties jpetty@hc.edu 281.649.3878
+• David Shuster Director of Golf/Head Coach dshuster@hc.edu 281.649.3092
+• Jordan Jeffers Head Coach jjeffers@hc.edu
+• Ryan Pratt Head Coach rpratt@hc.edu 281.649.3091
+• Archie Massen Assistant Coach amassen@hc.edu
+• Nick Whiting Head Coach nwhiting@hc.edu
+• Quentin Boric Assistant Coach qboric@hc.edu
+• Mary-Ellen Hall Head Coach mhall@hc.edu 281.649.3248
+• Cortni Emanuel Assistant Coach emanuelc@hc.edu
+• DJ Hicks Assistant Coach/Recruiting Coordinator dhicks@hc.edu 281.649.3018
+• Ray Doakes Assistant Coach adoakes@hc.edu
+• Cameron Sitler Head Coach csitler@hc.edu 281.649.3273
+• Abigail Elder Assistant Coach aelder@hc.edu
+• Trent Herman Head Coach therman@hc.edu 281.649.3316
+• Kayla Spiess Assistant Coach karmer@hc.edu 281.649.3144

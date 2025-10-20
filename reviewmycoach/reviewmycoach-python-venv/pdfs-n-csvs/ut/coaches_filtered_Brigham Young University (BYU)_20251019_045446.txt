@@ -1,0 +1,222 @@
+COACH ENTRIES FOUND - 2025-10-19 04:54:49
+============================================================
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. personal data like your usage data for the following : personalised advertising and content,
+   Email: bcamp15@byu.edu
+   Username: bcamp15
+   Original line: personal data like your usage data for the following : personalised advertising and content, Assistant Coach - Hitting, Recruiting Coordinator bcamp15@byu.edu
+
+2. Adrian Dinkel
+   Email: tuckett_slade@byu.edu
+   Username: tuckett_slade
+   Phone: (801) 422-2244
+   Original line: Adrian Dinkel Assistant Coach – Pitching tuckett_slade@byu.edu
+
+3. John Wardenburg
+   Email: john_wardenburg@byu.edu
+   Username: john_wardenburg
+   Original line: John Wardenburg Assistant Coach – Staff Development john_wardenburg@byu.edu
+
+4. Keilani Unga
+   Email: keilani.unga@byu.edu
+   Username: keilani.unga
+   Original line: Keilani Unga Assistant Coach – Director of Basketball Operations keilani.unga@byu.edu
+
+5. Josh Edwards
+   Email: josh.edwards@byu.edu
+   Username: josh.edwards
+   Original line: Josh Edwards Assistant Coach – Director of Player Development josh.edwards@byu.edu
+
+6. Steven Arnold
+   Email: steven_arnold@byu.edu
+   Username: steven_arnold
+   Original line: Steven Arnold Strength and Conditioning Coach steven_arnold@byu.edu
+
+7. Karter Shaw
+   Email: coleby_clawson@byu.edu
+   Username: coleby_clawson
+   Original line: Karter Shaw Offensive Graduate Assistant Coach coleby_clawson@byu.edu
+
+8. Zach Shaw
+   Email: ztshaw33@byu.edu
+   Username: ztshaw33
+   Original line: Zach Shaw Assistant Strength and Conditioning Coach ztshaw33@byu.edu
+
+9. Christiana Roberts
+   Email: christiana@byu.edu
+   Username: christiana
+   Phone: (801) 422-1141
+   Original line: Christiana Roberts Executive Assistant to the Head Coach christiana@byu.edu
+
+10. Carrie Roberts
+   Email: carrie_roberts@byu.edu
+   Username: carrie_roberts
+   Original line: Carrie Roberts Head Women's Golf Coach carrie_roberts@byu.edu
+
+11. Alex White
+   Email: alexandra.white@byu.edu
+   Username: alexandra.white
+   Phone: (817) 964-7715
+   Original line: Alex White Assistant Coach alexandra.white@byu.edu
+
+12. Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+   Email: guard_young@byu.edu
+   Username: guard_young
+   Original line: Use the “Accept” button to consent. Use the “Reject” button to continue without accepting. Head Gymnastics Coach guard_young@byu.edu
+
+13. Natalie Broekman
+   Email: natalie_broekman@byu.edu
+   Username: natalie_broekman
+   Original line: Natalie Broekman Associate Head Coach natalie_broekman@byu.edu
+
+14. Warde Allan
+   Email: warde_allan@byu.edu
+   Username: warde_allan
+   Original line: Warde Allan Assistant Coach warde_allan@byu.edu
+
+15. Brogan Evanson
+   Email: brogan_evanson@byu.edu
+   Username: brogan_evanson
+   Original line: Brogan Evanson Assistant Coach brogan_evanson@byu.edu
+
+16. Brent Anderson
+   Email: brent.anderson@byu.edu
+   Username: brent.anderson
+   Original line: Brent Anderson Associate Head Coach brent.anderson@byu.edu
+
+17. Steve Magleby
+   Email: steve_magleby@byu.edu
+   Username: steve_magleby
+   Original line: Steve Magleby Assistant Coach steve_magleby@byu.edu
+
+18. Tasha Bell
+   Email: tasha_bell@byu.edu
+   Username: tasha_bell
+   Phone: (801) 422-7623
+   Original line: Tasha Bell Assistant Coach tasha_bell@byu.edu
+
+19. Pete Meredith
+   Email: pete_meredith@byu.edu
+   Username: pete_meredith
+   Original line: Pete Meredith Associate Head Softball Coach pete_meredith@byu.edu
+
+20. Allie Hancock-Schneemann
+   Email: allie_hancock@byu.edu
+   Username: allie_hancock
+   Original line: Allie Hancock-Schneemann Softball Assistant Coach allie_hancock@byu.edu
+
+21. Alex Mascarenas
+   Email: mallory.barber@byu.edu
+   Username: mallory.barber
+   Original line: Alex Mascarenas Assistant Coach mallory.barber@byu.edu
+
+22. Stacy Bills
+   Email: stacy_bills@byu.edu
+   Username: stacy_bills
+   Original line: Stacy Bills Cougarette Co-Coach stacy_bills@byu.edu
+
+23. Morgan St. Pierre
+   Email: morgan_stpierre@byu.edu
+   Username: morgan_stpierre
+   Original line: Morgan St. Pierre Cougarette Co-Coach morgan_stpierre@byu.edu
+
+24. Jocelyn Allan
+   Email: jocelyn_allan@byu.edu
+   Username: jocelyn_allan
+   Original line: Jocelyn Allan Head Cheer Coach jocelyn_allan@byu.edu
+
+25. Turreal Moore
+   Email: timoore@byu.edu
+   Username: timoore
+   Original line: Turreal Moore Head Strength & Conditioning Coach - Olympic Sports timoore@byu.edu
+
+26. Donovan Marshall
+   Email: donovan_marshall@byu.edu
+   Username: donovan_marshall
+   Original line: Donovan Marshall Assistant Strength & Conditioning Coach donovan_marshall@byu.edu
+
+27. Steven Arnold
+   Email: steven_arnold@byu.edu
+   Username: steven_arnold
+   Original line: Steven Arnold Strength & Conditioning Coach steven_arnold@byu.edu
+
+28. Braden Goimarac
+   Email: braden_goimarac@byu.edu
+   Username: braden_goimarac
+   Original line: Braden Goimarac Strength & Conditioning Coach braden_goimarac@byu.edu
+
+29. Hayden Palmer
+   Email: tori_mcclure@byu.edu
+   Username: tori_mcclure
+   Original line: Hayden Palmer Assistant Coach tori_mcclure@byu.edu
+
+30. Jonathan Sanchez
+   Email: geni_tausinga@byu.edu
+   Username: geni_tausinga
+   Phone: (801) 422-8734
+   Original line: Jonathan Sanchez Men's Tennis Assistant Coach geni_tausinga@byu.edu
+
+31. Holly Parkinson Hasler
+   Email: holly_hasler@byu.edu
+   Username: holly_hasler
+   Phone: (801) 592-7119
+   Original line: Holly Parkinson Hasler Women's Tennis Head Coach holly_hasler@byu.edu
+
+32. Ed Eyestone
+   Email: ed_eyestone@byu.edu
+   Username: ed_eyestone
+   Original line: Ed Eyestone Director of Track and Field/Head Men's Cross Country Coach ed_eyestone@byu.edu
+
+33. Diljeet Taylor
+   Email: diljeet_taylor@byu.edu
+   Username: diljeet_taylor
+   Original line: Diljeet Taylor Women's Cross Country Head Coach / Associate Director Track and Field / Sr. Associate Athletic Director diljeet_taylor@byu.edu
+
+34. With respect to advertising, we and 1060 selected , may use precise geolocation data, and
+   Email: tiffany_hogan@byu.edu
+   Username: tiffany_hogan
+   Original line: With respect to advertising, we and 1060 selected , may use precise geolocation data, and Track & Field Assistant Coach / Men's & Women's Multi's & Jumps tiffany_hogan@byu.edu
+
+35. Ryan Waite
+   Email: ryan.waite@byu.edu
+   Username: ryan.waite
+   Original line: Ryan Waite Track & Field Assistant Coach / Men's Cross Country Assistant Coach ryan.waite@byu.edu
+
+36. Rick McWhorter
+   Email: rick_mcwhorter@byu.edu
+   Username: rick_mcwhorter
+   Original line: Rick McWhorter Track & Field Assistant Coach / Men's & Women's Pole Vault rick_mcwhorter@byu.edu
+
+37. Niklas Arrhenius
+   Email: niklas_arrhenius@byu.edu
+   Username: niklas_arrhenius
+   Original line: Niklas Arrhenius Track & Field Assistant Coach / Men's & Women's Throws niklas_arrhenius@byu.edu
+
+38. Kyle Grossarth
+   Email: kyle_grossarth@byu.edu
+   Username: kyle_grossarth
+   Original line: Kyle Grossarth Track & Field Assistant Coach / Men's & Women's Sprints, Hurdles, Relays kyle_grossarth@byu.edu
+
+39. Otavio Souza
+   Email: osouza@byu.edu
+   Username: osouza
+   Original line: Otavio Souza Assistant Coach osouza@byu.edu
+
+40. Devin Young
+   Email: devin_young@byu.edu
+   Username: devin_young
+   Original line: Devin Young Assistant Coach devin_young@byu.edu
+
+41. Daniel Jones
+   Email: daniel_jones15@byu.edu
+   Username: daniel_jones15
+   Original line: Daniel Jones Assistant Coach daniel_jones15@byu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

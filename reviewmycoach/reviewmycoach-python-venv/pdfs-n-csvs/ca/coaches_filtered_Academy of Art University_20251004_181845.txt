@@ -1,0 +1,113 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:45
+============================================================
+
+Total coaches found: 17
+
+PARSED ENTRIES:
+----------------------------------------
+1. Scott Waterman
+   Email: swaterman@academyart.edu
+   Username: swaterman
+   Original line: Scott Waterman Head Coach swaterman@academyart.edu 415- CoachWaterman
+
+2. Booker Harris
+   Email: bharris@academyart.edu
+   Username: bharris
+   Original line: Booker Harris Associate Head Coach bharris@academyart.edu 415- ARTUMBB
+
+3. Jesse Clark
+   Email: jclark@academyart.edu
+   Username: jclark
+   Original line: Jesse Clark Head Coach jclark@academyart.edu 415- CoachJesseClark
+
+4. Danny Kirkland
+   Email: dkirkland@academyart.edu
+   Username: dkirkland
+   Original line: Danny Kirkland Head Coach dkirkland@academyart.edu 415- ARTUMSoccer
+
+5. Mike McNeill
+   Email: mmcneill@academyart.edu
+   Username: mmcneill
+   Original line: Mike McNeill Assistant Coach mmcneill@academyart.edu 415-
+
+6. Lauren Nadler
+   Email: lnadler@academyart.edu
+   Username: lnadler
+   Original line: Lauren Nadler Head Coach lnadler@academyart.edu 415- ARTUWSoccer
+
+7. Kaylyn Toyama
+   Email: ktoyama@academyart.edu
+   Username: ktoyama
+   Original line: Kaylyn Toyama Assistant Coach ktoyama@academyart.edu 415-
+
+8. Mike Gomez
+   Email: mgomez@academyart.edu
+   Username: mgomez
+   Original line: Mike Gomez Head Coach mgomez@academyart.edu 808-
+
+9. Nick Monroe
+   Email: nmonroe@academyart.edu
+   Username: nmonroe
+   Original line: Nick Monroe Associate Head Coach/Director of nmonroe@academyart.edu 925-
+
+10. Geena Garabedian
+   Email: ggarabedian@academyart.edu
+   Username: ggarabedian
+   Original line: Geena Garabedian Head Coach ggarabedian@academyart.edu ARTUSoftball
+
+11. Dominique Humphrey
+   Email: dhumphrey@academyart.edu
+   Username: dhumphrey
+   Original line: Dominique Humphrey Assistant Coach dhumphrey@academyart.edu
+
+12. Joe Dolby
+   Email: jdolby@academyart.edu
+   Username: jdolby
+   Original line: Joe Dolby Head Coach jdolby@academyart.edu 415- ARTUGolf
+
+13. Beth Allen
+   Email: beallen@academyart.edu
+   Username: beallen
+   Original line: Beth Allen Head Coach/Senior Woman beallen@academyart.edu ARTUWGolf
+
+14. Nicole Briceño
+   Email: nbriceno@academyart.edu
+   Username: nbriceno
+   Original line: Nicole Briceño Head Coach nbriceno@academyart.edu ARTUTennis
+
+15. Bobby Wilson
+   Email: bwilson@academyart.edu
+   Username: bwilson
+   Original line: Bobby Wilson Cross Country Head Coach/Track bwilson@academyart.edu 415-
+
+16. Akil Gipson
+   Email: agipson@academyart.edu
+   Username: agipson
+   Original line: Akil Gipson Assistant Coach (Jumps, Multi agipson@academyart.edu 415-
+
+17. Nkosinza Balumbu
+   Email: nkbalumbu@academyart.edu
+   Username: nkbalumbu
+   Original line: Nkosinza Balumbu Assistant Coach (Jumps) nkbalumbu@academyart.edu 415-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Scott Waterman Head Coach swaterman@academyart.edu 415- CoachWaterman
+• Booker Harris Associate Head Coach bharris@academyart.edu 415- ARTUMBB
+• Jesse Clark Head Coach jclark@academyart.edu 415- CoachJesseClark
+• Danny Kirkland Head Coach dkirkland@academyart.edu 415- ARTUMSoccer
+• Mike McNeill Assistant Coach mmcneill@academyart.edu 415-
+• Lauren Nadler Head Coach lnadler@academyart.edu 415- ARTUWSoccer
+• Kaylyn Toyama Assistant Coach ktoyama@academyart.edu 415-
+• Mike Gomez Head Coach mgomez@academyart.edu 808-
+• Nick Monroe Associate Head Coach/Director of nmonroe@academyart.edu 925-
+• Geena Garabedian Head Coach ggarabedian@academyart.edu ARTUSoftball
+• Dominique Humphrey Assistant Coach dhumphrey@academyart.edu
+• Joe Dolby Head Coach jdolby@academyart.edu 415- ARTUGolf
+• Beth Allen Head Coach/Senior Woman beallen@academyart.edu ARTUWGolf
+• Nicole Briceño Head Coach nbriceno@academyart.edu ARTUTennis
+• Bobby Wilson Cross Country Head Coach/Track bwilson@academyart.edu 415-
+• Akil Gipson Assistant Coach (Jumps, Multi agipson@academyart.edu 415-
+• Nkosinza Balumbu Assistant Coach (Jumps) nkbalumbu@academyart.edu 415-

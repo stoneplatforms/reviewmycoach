@@ -1,0 +1,88 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:34
+============================================================
+
+Total coaches found: 11
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jason Durst
+   Email: jwdurst@hlg.edu
+   Username: jwdurst
+   Phone: (573) 629-3213
+   Original line: Jason Durst Head Coach, Assistant Athletic Director 573-629-3213 jwdurst@hlg.edu
+
+2. David Babcock
+   Email: david.babcock@hlg.edu
+   Username: david.babcock
+   Phone: (573) 629-3217
+   Original line: David Babcock Head Coach 573-629-3217 david.babcock@hlg.edu
+
+3. Jason Durst
+   Email: jwdurst@hlg.edu
+   Username: jwdurst
+   Phone: (573) 629-3213
+   Original line: Jason Durst Head Coach, Assistant Athletic Director 573-629-3213 jwdurst@hlg.edu
+
+4. Luke Stoffel
+   Email: luke.stoffel@hlg.edu
+   Username: luke.stoffel
+   Phone: (573) 629-3221
+   Original line: Luke Stoffel Head Cross Country, Assistant T&F Coach 573-629-3221 luke.stoffel@hlg.edu
+
+5. Lucas Almeida
+   Email: lucas.almeida@hlg.edu
+   Username: lucas.almeida
+   Phone: (636) 248-9906
+   Original line: Lucas Almeida Head Coach 1-636-248-9906 lucas.almeida@hlg.edu
+
+6. Kristoff Burkett
+   Email: kristoff.burkett@hlg.edu
+   Username: kristoff.burkett
+   Phone: (573) 629-3230
+   Original line: Kristoff Burkett Assistant Soccer Coach 573-629-3230 kristoff.burkett@hlg.edu
+
+7. Lucas Almeida
+   Email: lucas.almeida@hlg.edu
+   Username: lucas.almeida
+   Phone: (636) 248-9906
+   Original line: Lucas Almeida Head Coach 1-636-248-9906 lucas.almeida@hlg.edu
+
+8. Kristoff Burkett
+   Email: kristoff.burkett@hlg.edu
+   Username: kristoff.burkett
+   Phone: (573) 629-3230
+   Original line: Kristoff Burkett Assistant Soccer Coach 573-629-3230 kristoff.burkett@hlg.edu
+
+9. Dan Hurst
+   Email: dhurst@hlg.edu
+   Username: dhurst
+   Phone: (573) 629-3215
+   Original line: Dan Hurst Head Coach 573-629-3215 dhurst@hlg.edu
+
+10. Luke Stoffel
+   Email: luke.stoffel@hlg.edu
+   Username: luke.stoffel
+   Phone: (573) 629-3221
+   Original line: Luke Stoffel Head Cross Country, Assistant T&F Coach 573-629-3221 luke.stoffel@hlg.edu
+
+11. Kelsey Pollard
+   Email: Kelsey.pollard@hlg.edu
+   Username: Kelsey.pollard
+   Phone: (573) 629-3220
+   Original line: Kelsey Pollard Head Coach 573-629-3220 Kelsey.pollard@hlg.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jason Durst Head Coach, Assistant Athletic Director 573-629-3213 jwdurst@hlg.edu
+• David Babcock Head Coach 573-629-3217 david.babcock@hlg.edu
+• Jason Durst Head Coach, Assistant Athletic Director 573-629-3213 jwdurst@hlg.edu
+• Luke Stoffel Head Cross Country, Assistant T&F Coach 573-629-3221 luke.stoffel@hlg.edu
+• Lucas Almeida Head Coach 1-636-248-9906 lucas.almeida@hlg.edu
+• Kristoff Burkett Assistant Soccer Coach 573-629-3230 kristoff.burkett@hlg.edu
+• Lucas Almeida Head Coach 1-636-248-9906 lucas.almeida@hlg.edu
+• Kristoff Burkett Assistant Soccer Coach 573-629-3230 kristoff.burkett@hlg.edu
+• Dan Hurst Head Coach 573-629-3215 dhurst@hlg.edu
+• Luke Stoffel Head Cross Country, Assistant T&F Coach 573-629-3221 luke.stoffel@hlg.edu
+• Kelsey Pollard Head Coach 573-629-3220 Kelsey.pollard@hlg.edu

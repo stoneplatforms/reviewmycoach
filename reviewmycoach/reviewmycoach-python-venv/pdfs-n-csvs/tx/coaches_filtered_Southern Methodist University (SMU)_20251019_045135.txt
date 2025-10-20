@@ -1,0 +1,371 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:36
+============================================================
+
+Total coaches found: 60
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rhett Lashlee
+   Email: fbrecruiting@smu.edu
+   Username: fbrecruiting
+   Original line: Rhett Lashlee Head Coach 214-768- fbrecruiting@smu.edu
+
+2. Rob Likens
+   Email: fbrecruiting@smu.edu
+   Username: fbrecruiting
+   Original line: Rob Likens Associate Head Coach / 214-768- fbrecruiting@smu.edu
+
+3. Garin Justice
+   Email: fbrecruiting@smu.edu
+   Username: fbrecruiting
+   Original line: Garin Justice Assistant Head Coach / 214-768- fbrecruiting@smu.edu
+
+4. John Bonney
+   Email: fbrecruiting@smu.edu
+   Username: fbrecruiting
+   Original line: John Bonney Assistant Safeties Coach 214-768- fbrecruiting@smu.edu
+
+5. Wayne Dickens
+   Email: wdickens@smu.edu
+   Username: wdickens
+   Original line: Wayne Dickens Character Coach wdickens@smu.edu
+
+6. Andy Enfield
+   Email: smubasketball@smu.edu
+   Username: smubasketball
+   Original line: Andy Enfield Head Coach smubasketball@smu.edu
+
+7. Chris Capko
+   Email: smubasketball@smu.edu
+   Username: smubasketball
+   Original line: Chris Capko Associate Head Coach smubasketball@smu.edu
+
+8. Jay Morris
+   Email: smubasketball@smu.edu
+   Username: smubasketball
+   Original line: Jay Morris Assistant Coach smubasketball@smu.edu
+
+9. Dana Ford
+   Email: smubasketball@smu.edu
+   Username: smubasketball
+   Original line: Dana Ford Assistant Coach smubasketball@smu.edu
+
+10. Kurt Karis
+   Email: smubasketball@smu.edu
+   Username: smubasketball
+   Original line: Kurt Karis Assistant Coach smubasketball@smu.edu
+
+11. Eric Mobley
+   Email: smubasketball@smu.edu
+   Username: smubasketball
+   Original line: Eric Mobley Assistant Coach smubasketball@smu.edu
+
+12. Bett Shelby
+   Email: bshelby@smu.edu
+   Username: bshelby
+   Original line: Bett Shelby Assistant Coach bshelby@smu.edu
+
+13. Anthony Turner
+   Email: anthonyturner@smu.edu
+   Username: anthonyturner
+   Original line: Anthony Turner Assistant Coach anthonyturner@smu.edu
+
+14. Kamiko Williams
+   Email: kamikow@smu.edu
+   Username: kamikow
+   Original line: Kamiko Williams Assistant Coach kamikow@smu.edu
+
+15. Jen Jones
+   Email: jenniferjones@smu.edu
+   Username: jenniferjones
+   Original line: Jen Jones Sports Performance Coach jenniferjones@smu.edu
+
+16. Brad Kearns
+   Email: bwkearns@smu.edu
+   Username: bwkearns
+   Original line: Brad Kearns Head Coach bwkearns@smu.edu
+
+17. Laura Persons
+   Email: lpersons@smu.edu
+   Username: lpersons
+   Original line: Laura Persons Jumping Seat Coach lpersons@smu.edu
+
+18. Cathy Woosley
+   Email: cwoosleyluse@smu.edu
+   Username: cwoosleyluse
+   Original line: Cathy Woosley Luse Western Coach cwoosleyluse@smu.edu
+
+19. Cory Donnell
+   Email: cdonnell@smu.edu
+   Username: cdonnell
+   Original line: Cory Donnell Assistant Coach cdonnell@smu.edu
+
+20. Lauren Mason
+   Email: laurenmason@smu.edu
+   Username: laurenmason
+   Original line: Lauren Mason Head Coach laurenmason@smu.edu
+
+21. Carly Ludwig
+   Email: carlyludwig@smu.edu
+   Username: carlyludwig
+   Original line: Carly Ludwig Associate Head Coach carlyludwig@smu.edu
+
+22. Walker McAlister
+   Email: lmcalister@smu.edu
+   Username: lmcalister
+   Original line: Walker McAlister Assistant Coach lmcalister@smu.edu
+
+23. Chase Graham
+   Email: tcgraham@smu.edu
+   Username: tcgraham
+   Original line: Chase Graham Head Coach tcgraham@smu.edu
+
+24. Tom Dougherty
+   Email: doughertyt@smu.edu
+   Username: doughertyt
+   Original line: Tom Dougherty Assistant Coach doughertyt@smu.edu
+
+25. Peyton Matthews
+   Email: pamatthews@smu.edu
+   Username: pamatthews
+   Original line: Peyton Matthews Assistant Coach pamatthews@smu.edu
+
+26. Susanna Temming
+   Email: stemming@smu.edu
+   Username: stemming
+   Original line: Susanna Temming Assistant Coach stemming@smu.edu
+
+27. Max Greer
+   Email: maxwellg@smu.edu
+   Username: maxwellg
+   Original line: Max Greer Boatman / Assistant Coach maxwellg@smu.edu
+
+28. Kevin Hudson
+   Email: khudson@smu.edu
+   Username: khudson
+   Original line: Kevin Hudson Head Coach 214-768- khudson@smu.edu
+
+29. Jaime Ibarra-Perez
+   Email: jibarraperez@smu.edu
+   Username: jibarraperez
+   Original line: Jaime Ibarra-Perez Assistant Coach, jibarraperez@smu.edu
+
+30. Ross Fitzpatrick
+   Email: rossf@smu.edu
+   Username: rossf
+   Original line: Ross Fitzpatrick Assistant Coach rossf@smu.edu
+
+31. Trey Nickel
+   Email: tnickel@smu.edu
+   Username: tnickel
+   Original line: Trey Nickel Graduate Assistant Coach tnickel@smu.edu
+
+32. Nicole Nelson
+   Email: smusoccer@smu.edu
+   Username: smusoccer
+   Original line: Nicole Nelson Head Coach 214-768- smusoccer@smu.edu
+
+33. Miles Vaughn
+   Email: Mavaughn@smu.edu
+   Username: Mavaughn
+   Original line: Miles Vaughn Assistant Coach / Mavaughn@smu.edu
+
+34. Daniel O'Hare
+   Email: ohared@smu.edu
+   Username: ohared
+   Original line: Daniel O'Hare Assistant Coach ohared@smu.edu
+
+35. Callie McKinney
+   Email: mckinneyc@smu.edu
+   Username: mckinneyc
+   Original line: Callie McKinney Assistant Coach mckinneyc@smu.edu
+
+36. Greg Rhodenbaugh
+   Email: grhodenbaugh@smu.edu
+   Username: grhodenbaugh
+   Original line: Greg Rhodenbaugh Head Coach 214-768- grhodenbaugh@smu.edu
+
+37. Darian Schmidt
+   Email: dtschmidt@smu.edu
+   Username: dtschmidt
+   Original line: Darian Schmidt Head Diving Coach 214-768- dtschmidt@smu.edu
+
+38. Roric Fink
+   Email: rfink@smu.edu
+   Username: rfink
+   Original line: Roric Fink Associate Head Coach 214-768- rfink@smu.edu
+
+39. Caleb Rhodenbaugh
+   Email: crhodenbaugh@smu.edu
+   Username: crhodenbaugh
+   Original line: Caleb Rhodenbaugh Assistant Coach crhodenbaugh@smu.edu
+
+40. Montserrat Lavenant
+   Email: mgutierrezlavenant@smu.edu
+   Username: mgutierrezlavenant
+   Original line: Montserrat Lavenant Graduate Assistant Coach mgutierrezlavenant@smu.edu
+
+41. Ozzie Quevedo
+   Email: oquevedo@smu.edu
+   Username: oquevedo
+   Original line: Ozzie Quevedo Head Coach oquevedo@smu.edu
+
+42. Darian Schmidt
+   Email: dtschmidt@smu.edu
+   Username: dtschmidt
+   Original line: Darian Schmidt Head Diving Coach 214-768- dtschmidt@smu.edu
+
+43. Alice McCall
+   Email: amccall@smu.edu
+   Username: amccall
+   Original line: Alice McCall Associate Head Coach amccall@smu.edu
+
+44. Mike Bottom
+   Email: mbottom@smu.edu
+   Username: mbottom
+   Original line: Mike Bottom Assistant Coach mbottom@smu.edu
+
+45. Montserrat Lavenant
+   Email: mgutierrezlavenant@smu.edu
+   Username: mgutierrezlavenant
+   Original line: Montserrat Lavenant Graduate Assistant Coach mgutierrezlavenant@smu.edu
+
+46. Grant Chen
+   Email: grantchen@smu.edu
+   Username: grantchen
+   Original line: Grant Chen Head Coach 214-768- grantchen@smu.edu
+
+47. Ben Johnson
+   Email: johnsonbr@smu.edu
+   Username: johnsonbr
+   Original line: Ben Johnson Associate Head Coach 214-768- johnsonbr@smu.edu
+
+48. Kent Hunter
+   Email: kenth@smu.edu
+   Username: kenth
+   Original line: Kent Hunter Assistant Coach kenth@smu.edu
+
+49. Kelcy McKenna
+   Email: kelcym@smu.edu
+   Username: kelcym
+   Original line: Kelcy McKenna Head Coach kelcym@smu.edu
+
+50. Jose Gracia
+   Email: jegracia@smu.edu
+   Username: jegracia
+   Original line: Jose Gracia Associate Head Coach jegracia@smu.edu
+
+51. Megan Falcon
+   Email: falconm@smu.edu
+   Username: falconm
+   Original line: Megan Falcon Assistant Coach falconm@smu.edu
+
+52. 'A Havahla
+   Email: haynes@smu.edu
+   Username: haynes
+   Original line: 'A Havahla Haynes Head Coach haynes@smu.edu
+
+53. Austin Brobst
+   Email: abrobst@smu.edu
+   Username: abrobst
+   Original line: Austin Brobst Assistant Coach - abrobst@smu.edu
+
+54. Ashley Mort
+   Email: amort@smu.edu
+   Username: amort
+   Original line: Ashley Mort Assistant Coach -- Multis amort@smu.edu
+
+55. Leo Settle
+   Email: lsettle@smu.edu
+   Username: lsettle
+   Original line: Leo Settle Assistant Coach -- lsettle@smu.edu
+
+56. Bridgette Owens
+   Email: bridgetteo@smu.edu
+   Username: bridgetteo
+   Original line: Bridgette Owens Assistant Coach/Director bridgetteo@smu.edu
+
+57. Sam Erger
+   Email: serger@smu.edu
+   Username: serger
+   Original line: Sam Erger Head Coach serger@smu.edu @SamFish9
+
+58. Trent Sorensen
+   Email: tsorensen@smu.edu
+   Username: tsorensen
+   Original line: Trent Sorensen Associate Head Coach tsorensen@smu.edu
+
+59. Christa Branson
+   Email: christab@smu.edu
+   Username: christab
+   Original line: Christa Branson Assistant Coach/Recruiting christab@smu.edu Christabranson
+
+60. Clayton Bristow
+   Email: claytonalanbristow@gmail.com
+   Username: claytonalanbristow
+   Original line: Clayton Bristow Assistant Coach claytonalanbristow@gmail.com
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rhett Lashlee Head Coach 214-768- fbrecruiting@smu.edu
+• Rob Likens Associate Head Coach / 214-768- fbrecruiting@smu.edu
+• Garin Justice Assistant Head Coach / 214-768- fbrecruiting@smu.edu
+• John Bonney Assistant Safeties Coach 214-768- fbrecruiting@smu.edu
+• Wayne Dickens Character Coach wdickens@smu.edu
+• Andy Enfield Head Coach smubasketball@smu.edu
+• Chris Capko Associate Head Coach smubasketball@smu.edu
+• Jay Morris Assistant Coach smubasketball@smu.edu
+• Dana Ford Assistant Coach smubasketball@smu.edu
+• Kurt Karis Assistant Coach smubasketball@smu.edu
+• Eric Mobley Assistant Coach smubasketball@smu.edu
+• Bett Shelby Assistant Coach bshelby@smu.edu
+• Anthony Turner Assistant Coach anthonyturner@smu.edu
+• Kamiko Williams Assistant Coach kamikow@smu.edu
+• Jen Jones Sports Performance Coach jenniferjones@smu.edu
+• Brad Kearns Head Coach bwkearns@smu.edu
+• Laura Persons Jumping Seat Coach lpersons@smu.edu
+• Cathy Woosley Luse Western Coach cwoosleyluse@smu.edu
+• Cory Donnell Assistant Coach cdonnell@smu.edu
+• Lauren Mason Head Coach laurenmason@smu.edu
+• Carly Ludwig Associate Head Coach carlyludwig@smu.edu
+• Walker McAlister Assistant Coach lmcalister@smu.edu
+• Chase Graham Head Coach tcgraham@smu.edu
+• Tom Dougherty Assistant Coach doughertyt@smu.edu
+• Peyton Matthews Assistant Coach pamatthews@smu.edu
+• Susanna Temming Assistant Coach stemming@smu.edu
+• Max Greer Boatman / Assistant Coach maxwellg@smu.edu
+• Kevin Hudson Head Coach 214-768- khudson@smu.edu
+• Jaime Ibarra-Perez Assistant Coach, jibarraperez@smu.edu
+• Ross Fitzpatrick Assistant Coach rossf@smu.edu
+• Trey Nickel Graduate Assistant Coach tnickel@smu.edu
+• Nicole Nelson Head Coach 214-768- smusoccer@smu.edu
+• Miles Vaughn Assistant Coach / Mavaughn@smu.edu
+• Daniel O'Hare Assistant Coach ohared@smu.edu
+• Callie McKinney Assistant Coach mckinneyc@smu.edu
+• Greg Rhodenbaugh Head Coach 214-768- grhodenbaugh@smu.edu
+• Darian Schmidt Head Diving Coach 214-768- dtschmidt@smu.edu
+• Roric Fink Associate Head Coach 214-768- rfink@smu.edu
+• Caleb Rhodenbaugh Assistant Coach crhodenbaugh@smu.edu
+• Montserrat Lavenant Graduate Assistant Coach mgutierrezlavenant@smu.edu
+• Ozzie Quevedo Head Coach oquevedo@smu.edu
+• Darian Schmidt Head Diving Coach 214-768- dtschmidt@smu.edu
+• Alice McCall Associate Head Coach amccall@smu.edu
+• Mike Bottom Assistant Coach mbottom@smu.edu
+• Montserrat Lavenant Graduate Assistant Coach mgutierrezlavenant@smu.edu
+• Grant Chen Head Coach 214-768- grantchen@smu.edu
+• Ben Johnson Associate Head Coach 214-768- johnsonbr@smu.edu
+• Kent Hunter Assistant Coach kenth@smu.edu
+• Kelcy McKenna Head Coach kelcym@smu.edu
+• Jose Gracia Associate Head Coach jegracia@smu.edu
+• Megan Falcon Assistant Coach falconm@smu.edu
+• 'A Havahla Haynes Head Coach haynes@smu.edu
+• Austin Brobst Assistant Coach - abrobst@smu.edu
+• Ashley Mort Assistant Coach -- Multis amort@smu.edu
+• Leo Settle Assistant Coach -- lsettle@smu.edu
+• Bridgette Owens Assistant Coach/Director bridgetteo@smu.edu
+• Sam Erger Head Coach serger@smu.edu @SamFish9
+• Trent Sorensen Associate Head Coach tsorensen@smu.edu
+• Christa Branson Assistant Coach/Recruiting christab@smu.edu Christabranson
+• Clayton Bristow Assistant Coach claytonalanbristow@gmail.com

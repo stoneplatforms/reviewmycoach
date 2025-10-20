@@ -1,0 +1,205 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:50
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Matt Saey
+   Email: matthew.saey@ic.edu
+   Username: matthew.saey
+   Original line: Matt Saey Head Strength & Conditioning Coach matthew.saey@ic.edu (217) 245-
+
+2. Jacob Waddle
+   Email: jacob.waddle@ic.edu
+   Username: jacob.waddle
+   Phone: 217.245.3387
+   Original line: Jacob Waddle Head Baseball Coach jacob.waddle@ic.edu BlueboyBaseball 217.245.3387
+
+3. Tristan Camp
+   Email: tristan.camp@ic.edu
+   Username: tristan.camp
+   Original line: Tristan Camp Head Assistant - Pitching Coach/Recruiting Coordinator tristan.camp@ic.edu
+
+4. Jayden Kasai
+   Email: jayden.kasai@ic.edu
+   Username: jayden.kasai
+   Original line: Jayden Kasai Assistant Coach - Hitting & Catchers jayden.kasai@ic.edu
+
+5. T.J. Ervin
+   Email: timothy.ervin@ic.edu
+   Username: timothy.ervin
+   Original line: T.J. Ervin Assistant Men's Basketball Coach timothy.ervin@ic.edu
+
+6. Jay Rowell
+   Email: jay.rowell@ic.edu
+   Username: jay.rowell
+   Original line: Jay Rowell Head Men's and Women's Golf Coach/Assistant Men's jay.rowell@ic.edu
+
+7. Jennifer McCormick
+   Email: jen.mccormick@ic.edu
+   Username: jen.mccormick
+   Phone: 217.245.3404
+   Original line: Jennifer McCormick Head Women's Basketball Coach jen.mccormick@ic.edu ICWBB 217.245.3404
+
+8. Ross Faldet
+   Email: ross.faldet@ic.edu
+   Username: ross.faldet
+   Original line: Ross Faldet Assistant Women's Basketball Coach ross.faldet@ic.edu
+
+9. Keida Nichols
+   Email: lakeida.nichols@ic.edu
+   Username: lakeida.nichols
+   Original line: Keida Nichols Assistant Women's Basketball Coach lakeida.nichols@ic.edu
+
+10. Samantha Laster
+   Email: samantha.laster@ic.edu
+   Username: samantha.laster
+   Phone: 217.245.3546
+   Original line: Samantha Laster Head Dance Coach & Director of Spirit Teams samantha.laster@ic.edu ILdanceandcheer 217.245.3546
+
+11. Bruce Shafer
+   Email: bruce.shafer@ic.edu
+   Username: bruce.shafer
+   Original line: Bruce Shafer Head Clay Target Coach bruce.shafer@ic.edu
+
+12. Anthony Flores
+   Email: anthony.flores@ic.edu
+   Username: anthony.flores
+   Original line: Anthony Flores Head Cross Country Coach/Assistant Track & Field anthony.flores@ic.edu
+
+13. Ray DeFrisco
+   Email: rdefrisco@ic.edu
+   Username: rdefrisco
+   Phone: 217.245.3182
+   Original line: Ray DeFrisco Head Football Coach rdefrisco@ic.edu IC_Football 217.245.3182
+
+14. Bryan Wade
+   Email: bryan.wade@ic.edu
+   Username: bryan.wade
+   Original line: Bryan Wade Offensive Line bryan.wade@ic.edu Coach_Bwade
+
+15. Jimmy Champion
+   Email: James.Champion@ic.edu
+   Username: James.Champion
+   Original line: Jimmy Champion Linebackers Coach/Run Game Coordinator James.Champion@ic.edu
+
+16. Jay Rowell
+   Email: jay.rowell@ic.edu
+   Username: jay.rowell
+   Original line: Jay Rowell Head Men's and Women's Golf Coach/Assistant Men's jay.rowell@ic.edu
+
+17. Evan Philpott
+   Email: evan.philpott@ic.edu
+   Username: evan.philpott
+   Phone: 217.245.3337
+   Original line: Evan Philpott Head Men's Soccer Coach evan.philpott@ic.edu icmensoccer 217.245.3337
+
+18. John Antoine
+   Email: johndavid.antoine@ic.edu
+   Username: johndavid.antoine
+   Original line: John Antoine Assistant Men's Soccer Coach johndavid.antoine@ic.edu
+
+19. Hunter Gray
+   Email: hunter.gray@ic.edu
+   Username: hunter.gray
+   Phone: 217.291.1614
+   Original line: Hunter Gray Head Women's Soccer Coach hunter.gray@ic.edu ladybluessoccer 217.291.1614
+
+20. Nick Bohuslawsky
+   Email: nicholas.bohuslawsky@ic.edu
+   Username: nicholas.bohuslawsky
+   Original line: Nick Bohuslawsky Assistant Coach nicholas.bohuslawsky@ic.edu
+
+21. Samantha Mendez
+   Email: Samantha.Mendez@ic.edu
+   Username: Samantha.Mendez
+   Original line: Samantha Mendez Head Softball Coach Samantha.Mendez@ic.edu
+
+22. Madison Bunfill
+   Email: madison.bunfill@ic.edu
+   Username: madison.bunfill
+   Original line: Madison Bunfill Assistant Softball Coach madison.bunfill@ic.edu
+
+23. Christopher Sykes
+   Email: christopher.sykes@ic.edu
+   Username: christopher.sykes
+   Phone: 217.245.3343
+   Original line: Christopher Sykes Head Men's and Women's Swimming Coach christopher.sykes@ic.edu IC_swim 217.245.3343
+
+24. Cooper Meyer
+   Email: cooper.meyer@ic.edu
+   Username: cooper.meyer
+   Original line: Cooper Meyer Assistant Swimming Coach cooper.meyer@ic.edu
+
+25. Scott Weakley
+   Email: scott.weakley@ic.edu
+   Username: scott.weakley
+   Original line: Scott Weakley Head Men's and Women's Tennis Coach scott.weakley@ic.edu
+
+26. Dirk Doehring
+   Email: dirk.doehring@ic.edu
+   Username: dirk.doehring
+   Phone: 217.245.3645
+   Original line: Dirk Doehring Head Track & Field Coach dirk.doehring@ic.edu 217.245.3645
+
+27. Anthony Flores
+   Email: anthony.flores@ic.edu
+   Username: anthony.flores
+   Original line: Anthony Flores Head Cross Country Coach/Assistant Track & Field anthony.flores@ic.edu
+
+28. Tayvonne Landry
+   Email: tayvonne.landry@ic.edu
+   Username: tayvonne.landry
+   Original line: Tayvonne Landry Assistant Coach Track & Field Coach tayvonne.landry@ic.edu
+
+29. Claire Scully
+   Email: claire.scully@ic.edu
+   Username: claire.scully
+   Original line: Claire Scully Head Volleyball Coach claire.scully@ic.edu
+
+30. Dillan Baum
+   Email: dillan.baum@ic.edu
+   Username: dillan.baum
+   Original line: Dillan Baum Assistant Volleyball Coach dillan.baum@ic.edu
+
+31. Mark Grounds
+   Email: mark.grounds@ic.edu
+   Username: mark.grounds
+   Original line: Mark Grounds Head Women's Flag Football Coach mark.grounds@ic.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Matt Saey Head Strength & Conditioning Coach matthew.saey@ic.edu (217) 245-
+• Jacob Waddle Head Baseball Coach jacob.waddle@ic.edu BlueboyBaseball 217.245.3387
+• Tristan Camp Head Assistant - Pitching Coach/Recruiting Coordinator tristan.camp@ic.edu
+• Jayden Kasai Assistant Coach - Hitting & Catchers jayden.kasai@ic.edu
+• T.J. Ervin Assistant Men's Basketball Coach timothy.ervin@ic.edu
+• Jay Rowell Head Men's and Women's Golf Coach/Assistant Men's jay.rowell@ic.edu
+• Jennifer McCormick Head Women's Basketball Coach jen.mccormick@ic.edu ICWBB 217.245.3404
+• Ross Faldet Assistant Women's Basketball Coach ross.faldet@ic.edu
+• Keida Nichols Assistant Women's Basketball Coach lakeida.nichols@ic.edu
+• Samantha Laster Head Dance Coach & Director of Spirit Teams samantha.laster@ic.edu ILdanceandcheer 217.245.3546
+• Bruce Shafer Head Clay Target Coach bruce.shafer@ic.edu
+• Anthony Flores Head Cross Country Coach/Assistant Track & Field anthony.flores@ic.edu
+• Ray DeFrisco Head Football Coach rdefrisco@ic.edu IC_Football 217.245.3182
+• Bryan Wade Offensive Line bryan.wade@ic.edu Coach_Bwade
+• Jimmy Champion Linebackers Coach/Run Game Coordinator James.Champion@ic.edu
+• Jay Rowell Head Men's and Women's Golf Coach/Assistant Men's jay.rowell@ic.edu
+• Evan Philpott Head Men's Soccer Coach evan.philpott@ic.edu icmensoccer 217.245.3337
+• John Antoine Assistant Men's Soccer Coach johndavid.antoine@ic.edu
+• Hunter Gray Head Women's Soccer Coach hunter.gray@ic.edu ladybluessoccer 217.291.1614
+• Nick Bohuslawsky Assistant Coach nicholas.bohuslawsky@ic.edu
+• Samantha Mendez Head Softball Coach Samantha.Mendez@ic.edu
+• Madison Bunfill Assistant Softball Coach madison.bunfill@ic.edu
+• Christopher Sykes Head Men's and Women's Swimming Coach christopher.sykes@ic.edu IC_swim 217.245.3343
+• Cooper Meyer Assistant Swimming Coach cooper.meyer@ic.edu
+• Scott Weakley Head Men's and Women's Tennis Coach scott.weakley@ic.edu
+• Dirk Doehring Head Track & Field Coach dirk.doehring@ic.edu 217.245.3645
+• Anthony Flores Head Cross Country Coach/Assistant Track & Field anthony.flores@ic.edu
+• Tayvonne Landry Assistant Coach Track & Field Coach tayvonne.landry@ic.edu
+• Claire Scully Head Volleyball Coach claire.scully@ic.edu
+• Dillan Baum Assistant Volleyball Coach dillan.baum@ic.edu
+• Mark Grounds Head Women's Flag Football Coach mark.grounds@ic.edu

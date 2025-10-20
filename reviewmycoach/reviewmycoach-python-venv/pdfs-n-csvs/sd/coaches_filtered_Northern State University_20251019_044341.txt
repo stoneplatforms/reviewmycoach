@@ -1,0 +1,272 @@
+COACH ENTRIES FOUND - 2025-10-19 04:43:41
+============================================================
+
+Total coaches found: 38
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brandon Kusler
+   Email: brandon.j.kusler@northern.edu
+   Username: brandon.j.kusler
+   Phone: (605) 290-3289
+   Original line: Brandon Kusler Interim Head Coach brandon.j.kusler@northern.edu 290-3289
+
+2. Matt Cripsey
+   Email: matthew.cripsey@wolves.northern.edu
+   Username: matthew.cripsey
+   Phone: (605) 626-3336
+   Original line: Matt Cripsey Graduate Assistant Coach matthew.cripsey@wolves.northern.edu 626-3336
+
+3. Jaelen Williams
+   Email: jaelen.n.williams@northern.edu
+   Username: jaelen.n.williams
+   Phone: (605) 626-3336
+   Original line: Jaelen Williams Graduate Assistant Coach jaelen.n.williams@northern.edu 626-3336
+
+4. Matt Wilber
+   Email: Matt.Wilber@northern.edu
+   Username: Matt.Wilber
+   Phone: (605) 626-3336
+   Original line: Matt Wilber Head Men's Basketball Coach Matt.Wilber@northern.edu 626-3336
+
+5. Jack Nelson
+   Email: Jack.M.Nelson@northern.edu
+   Username: Jack.M.Nelson
+   Phone: (605) 626-3336
+   Original line: Jack Nelson Assistant Coach Jack.M.Nelson@northern.edu 626-3336
+
+6. Wes Smith
+   Email: Wes.Smith@northern.edu
+   Username: Wes.Smith
+   Phone: (605) 626-3336
+   Original line: Wes Smith Assistant Coach Wes.Smith@northern.edu 626-3336
+
+7. Paula Krueger
+   Email: Paula.Krueger@northern.edu
+   Username: Paula.Krueger
+   Original line: Paula Krueger Head Coach Paula.Krueger@northern.edu 303-909-
+
+8. Katie Bourk
+   Email: katie.bourk@northern.edu
+   Username: katie.bourk
+   Phone: (605) 626-3336
+   Original line: Katie Bourk Assistant Coach katie.bourk@northern.edu 626-3336
+
+9. Edgar Chavira
+   Email: Edgar.Chavira@northern.edu
+   Username: Edgar.Chavira
+   Phone: (605) 626-3336
+   Original line: Edgar Chavira Assistant Coach Edgar.Chavira@northern.edu 626-3336
+
+10. Lynne Dingman
+   Email: lynne.dingman@northern.edu
+   Username: lynne.dingman
+   Phone: (605) 216-7167
+   Original line: Lynne Dingman Director of TF & CC / Head Track & Field Coach lynne.dingman@northern.edu 216-7167
+
+11. Mary Garner
+   Email: Mary.Garner@northern.edu
+   Username: Mary.Garner
+   Phone: (605) 626-3336
+   Original line: Mary Garner Assistant Track/XC Coach (Distance) Mary.Garner@northern.edu 626-3336
+
+12. Mike Schmidt
+   Email: Michael.Schmidt@northern.edu
+   Username: Michael.Schmidt
+   Phone: (605) 626-3336
+   Original line: Mike Schmidt Head Coach Michael.Schmidt@northern.edu 626-3336
+
+13. Jake Iery
+   Email: jake.iery@northern.edu
+   Username: jake.iery
+   Phone: (605) 626-3336
+   Original line: Jake Iery Assistant Coach/Defensive Line jake.iery@northern.edu 626-3336
+
+14. Jason Glasco
+   Email: jason.glasco@northern.edu
+   Username: jason.glasco
+   Phone: (605) 626-3336
+   Original line: Jason Glasco Assistant Coach/Defensive Backs jason.glasco@northern.edu 626-3336
+
+15. Kiefer Price
+   Email: kiefer.price@northern.edu
+   Username: kiefer.price
+   Phone: (605) 626-3336
+   Original line: Kiefer Price Assistant Coach/Offensive Line kiefer.price@northern.edu 626-3336
+
+16. Kyle Weisman
+   Email: Kyle.Weisman@northern.edu
+   Username: Kyle.Weisman
+   Phone: (605) 626-3336
+   Original line: Kyle Weisman Assistant Coach/Wide Receivers Kyle.Weisman@northern.edu 626-3336
+
+17. Gavin Gomez
+   Email: Gavin.P.Gomez@northern.edu
+   Username: Gavin.P.Gomez
+   Phone: (605) 626-3336
+   Original line: Gavin Gomez Graduate Assistant Coach / Tight Ends Gavin.P.Gomez@northern.edu 626-3336
+
+18. Graeme Crittenden
+   Email: Graeme.P.Crittenden@northern.edu
+   Username: Graeme.P.Crittenden
+   Phone: (605) 626-3336
+   Original line: Graeme Crittenden Graduate Assistant Coach / Defensive Backs Graeme.P.Crittenden@northern.edu 626-3336
+
+19. Jacob Van
+   Email: J.K.VanLandingham@northern.edu
+   Username: J.K.VanLandingham
+   Phone: (605) 626-3336
+   Original line: Jacob Van Landingham Graduate Assistant Coach / Running Backs J.K.VanLandingham@northern.edu 626-3336
+
+20. Kaley Ness
+   Email: Kaley.Ness@northern.edu
+   Username: Kaley.Ness
+   Phone: (605) 626-3336
+   Original line: Kaley Ness Head Softball Coach Kaley.Ness@northern.edu 626-3336
+
+21. Keimon Winston
+   Email: keimon.n.winston@northern.edu
+   Username: keimon.n.winston
+   Phone: (605) 626-3336
+   Original line: Keimon Winston Graduate Assistant Coach keimon.n.winston@northern.edu 626-3336
+
+22. Bob Casper
+   Email: Bob.Casper@northern.edu
+   Username: Bob.Casper
+   Phone: (605) 626-3336
+   Original line: Bob Casper Head Soccer Coach Bob.Casper@northern.edu 626-3336
+
+23. Matthew James
+   Email: matthew.james@northern.edu
+   Username: matthew.james
+   Phone: (605) 626-3336
+   Original line: Matthew James Assistant Coach matthew.james@northern.edu 626-3336
+
+24. Chelvan Arunasalam
+   Email: chelvan.arunasalam@northern.edu
+   Username: chelvan.arunasalam
+   Original line: Chelvan Arunasalam Volunteer Assistant Coach [Goalkeepers] chelvan.arunasalam@northern.edu
+
+25. Kaden Huntrods
+   Email: kaden.huntrods@northern.edu
+   Username: kaden.huntrods
+   Phone: (605) 626-3336
+   Original line: Kaden Huntrods Head Coach kaden.huntrods@northern.edu 626-3336
+
+26. Keely Lacina
+   Email: keely.a.lacina@.northern.edu
+   Username: keely.a.lacina
+   Phone: (605) 626-3336
+   Original line: Keely Lacina Graduate Assistant Coach keely.a.lacina@.northern.edu 626-3336
+
+27. Lynne Dingman
+   Email: lynne.dingman@northern.edu
+   Username: lynne.dingman
+   Phone: (605) 216-7167
+   Original line: Lynne Dingman Director of TF & CC / Head Track & Field Coach lynne.dingman@northern.edu 216-7167
+
+28. Jon Evenson
+   Email: jonathon.evenson@northern.edu
+   Username: jonathon.evenson
+   Original line: Jon Evenson Assistant Track & Field Coach (Throws) jonathon.evenson@northern.edu 701-680-
+
+29. Mary Garner
+   Email: Mary.Garner@northern.edu
+   Username: Mary.Garner
+   Phone: (605) 626-3336
+   Original line: Mary Garner Assistant Track/XC Coach (Distance) Mary.Garner@northern.edu 626-3336
+
+30. Mariah Mougey
+   Email: mougey44@yahoo.com
+   Username: mougey44
+   Original line: Mariah Mougey Assistant Track & Field Coach (Throws) mougey44@yahoo.com
+
+31. Wade Royer
+   Email: wade.royer@northern.edu
+   Username: wade.royer
+   Phone: (605) 530-0940
+   Original line: Wade Royer Assistant Track & Field Coach (Pole Vault) wade.royer@northern.edu 530-0940
+
+32. Gerard Bryant
+   Email: gerard.bryant1@northern.edu
+   Username: gerard.bryant1
+   Phone: (605) 626-3336
+   Original line: Gerard Bryant Graduate Assistant Coach (Jumps/Multi) gerard.bryant1@northern.edu 626-3336
+
+33. Brent Aldridge
+   Email: brent.aldridge@northern.edu
+   Username: brent.aldridge
+   Phone: (605) 290-9283
+   Original line: Brent Aldridge Head Volleyball Coach brent.aldridge@northern.edu 290-9283
+
+34. Grace Marti
+   Email: Grace.marti@northern.edu
+   Username: Grace.marti
+   Phone: (605) 626-3336
+   Original line: Grace Marti Assistant Coach Grace.marti@northern.edu 626-3336
+
+35. Josh Nolan
+   Email: joshua.nolan@northern.edu
+   Username: joshua.nolan
+   Phone: (605) 626-3336
+   Original line: Josh Nolan Head Wrestling Coach joshua.nolan@northern.edu 626-3336
+
+36. Zeke Andrade
+   Email: isaac.andrade@northern.edu
+   Username: isaac.andrade
+   Original line: Zeke Andrade Associate Head Coach isaac.andrade@northern.edu 530-524-
+
+37. Wyatt Turnquist
+   Email: Wyatt.T.Turnquist@northern.edu
+   Username: Wyatt.T.Turnquist
+   Phone: (605) 626-3336
+   Original line: Wyatt Turnquist Assistant Wrestling Coach Wyatt.T.Turnquist@northern.edu 626-3336
+
+38. Erin Drew
+   Email: erin.drew@northern.edu
+   Username: erin.drew
+   Phone: (605) 252-6250
+   Original line: Erin Drew Head Cheerleading Coach erin.drew@northern.edu 252-6250
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brandon Kusler Interim Head Coach brandon.j.kusler@northern.edu 290-3289
+• Matt Cripsey Graduate Assistant Coach matthew.cripsey@wolves.northern.edu 626-3336
+• Jaelen Williams Graduate Assistant Coach jaelen.n.williams@northern.edu 626-3336
+• Matt Wilber Head Men's Basketball Coach Matt.Wilber@northern.edu 626-3336
+• Jack Nelson Assistant Coach Jack.M.Nelson@northern.edu 626-3336
+• Wes Smith Assistant Coach Wes.Smith@northern.edu 626-3336
+• Paula Krueger Head Coach Paula.Krueger@northern.edu 303-909-
+• Katie Bourk Assistant Coach katie.bourk@northern.edu 626-3336
+• Edgar Chavira Assistant Coach Edgar.Chavira@northern.edu 626-3336
+• Lynne Dingman Director of TF & CC / Head Track & Field Coach lynne.dingman@northern.edu 216-7167
+• Mary Garner Assistant Track/XC Coach (Distance) Mary.Garner@northern.edu 626-3336
+• Mike Schmidt Head Coach Michael.Schmidt@northern.edu 626-3336
+• Jake Iery Assistant Coach/Defensive Line jake.iery@northern.edu 626-3336
+• Jason Glasco Assistant Coach/Defensive Backs jason.glasco@northern.edu 626-3336
+• Kiefer Price Assistant Coach/Offensive Line kiefer.price@northern.edu 626-3336
+• Kyle Weisman Assistant Coach/Wide Receivers Kyle.Weisman@northern.edu 626-3336
+• Gavin Gomez Graduate Assistant Coach / Tight Ends Gavin.P.Gomez@northern.edu 626-3336
+• Graeme Crittenden Graduate Assistant Coach / Defensive Backs Graeme.P.Crittenden@northern.edu 626-3336
+• Jacob Van Landingham Graduate Assistant Coach / Running Backs J.K.VanLandingham@northern.edu 626-3336
+• Kaley Ness Head Softball Coach Kaley.Ness@northern.edu 626-3336
+• Keimon Winston Graduate Assistant Coach keimon.n.winston@northern.edu 626-3336
+• Bob Casper Head Soccer Coach Bob.Casper@northern.edu 626-3336
+• Matthew James Assistant Coach matthew.james@northern.edu 626-3336
+• Chelvan Arunasalam Volunteer Assistant Coach [Goalkeepers] chelvan.arunasalam@northern.edu
+• Kaden Huntrods Head Coach kaden.huntrods@northern.edu 626-3336
+• Keely Lacina Graduate Assistant Coach keely.a.lacina@.northern.edu 626-3336
+• Lynne Dingman Director of TF & CC / Head Track & Field Coach lynne.dingman@northern.edu 216-7167
+• Jon Evenson Assistant Track & Field Coach (Throws) jonathon.evenson@northern.edu 701-680-
+• Mary Garner Assistant Track/XC Coach (Distance) Mary.Garner@northern.edu 626-3336
+• Mariah Mougey Assistant Track & Field Coach (Throws) mougey44@yahoo.com
+• Wade Royer Assistant Track & Field Coach (Pole Vault) wade.royer@northern.edu 530-0940
+• Gerard Bryant Graduate Assistant Coach (Jumps/Multi) gerard.bryant1@northern.edu 626-3336
+• Brent Aldridge Head Volleyball Coach brent.aldridge@northern.edu 290-9283
+• Grace Marti Assistant Coach Grace.marti@northern.edu 626-3336
+• Josh Nolan Head Wrestling Coach joshua.nolan@northern.edu 626-3336
+• Zeke Andrade Associate Head Coach isaac.andrade@northern.edu 530-524-
+• Wyatt Turnquist Assistant Wrestling Coach Wyatt.T.Turnquist@northern.edu 626-3336
+• Erin Drew Head Cheerleading Coach erin.drew@northern.edu 252-6250

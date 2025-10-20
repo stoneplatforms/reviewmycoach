@@ -1,0 +1,197 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:43
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Alexis Lynn
+   Email: lynna@southwestern.edu
+   Username: lynna
+   Original line: Alexis Lynn Head Softball Coach/Senior Woman Administrator lynna@southwestern.edu 512-863-
+
+2. Erick Orizaba
+   Email: orizabae@southwestern.edu
+   Username: orizabae
+   Original line: Erick Orizaba Head Strength and Conditioning Coach orizabae@southwestern.edu (630) 640-
+
+3. J.C. Bunch
+   Email: bunchj@southwestern.edu
+   Username: bunchj
+   Original line: J.C. Bunch Head Baseball Coach bunchj@southwestern.edu 512-863-
+
+4. Mike Montgomery
+   Email: montgomm@southwestern.edu
+   Username: montgomm
+   Original line: Mike Montgomery Assistant Baseball Coach/Recruiting Coordinator montgomm@southwestern.edu 512-863-
+
+5. Matt Streich
+   Email: streichm@southwestern.edu
+   Username: streichm
+   Original line: Matt Streich Head Men's Basketball Coach streichm@southwestern.edu 512-863-
+
+6. Charlie Reznikoff
+   Email: reznikofc@southwestern.edu
+   Username: reznikofc
+   Original line: Charlie Reznikoff Assistant Men's Basketball Coach reznikofc@southwestern.edu 203-604-
+
+7. Will Cohen
+   Email: cohenw@southwestern.edu
+   Username: cohenw
+   Original line: Will Cohen Assistant Men's Basketball Coach cohenw@southwestern.edu 917-853-
+
+8. Caitlin Kriesel-Bigler
+   Email: krieselbc@southwestern.edu
+   Username: krieselbc
+   Original line: Caitlin Kriesel-Bigler Head Women's Basketball Coach krieselbc@southwestern.edu 512-863-
+
+9. Lawrence Bailey
+   Email: bailey7@southwestern.edu
+   Username: bailey7
+   Original line: Lawrence Bailey Assistant Women's Basketball Coach bailey7@southwestern.edu
+
+10. Joe Sponsel
+   Email: sponsel2@southwestern.edu
+   Username: sponsel2
+   Original line: Joe Sponsel Head Cross Country Coach/Assistant Track Coach sponsel2@southwestern.edu 512-863-
+
+11. Bill Kriesel
+   Email: wkriesel@southwestern.edu
+   Username: wkriesel
+   Original line: Bill Kriesel Head Football Coach / Defensive Coordinator wkriesel@southwestern.edu 512-863-
+
+12. Nick Mask
+   Email: nmask@southwestern.edu
+   Username: nmask
+   Original line: Nick Mask Assistant Head Coach / Offensive Coordinator nmask@southwestern.edu 512-863-
+
+13. Bryan Hicks
+   Email: hicks6@southwestern.edu
+   Username: hicks6
+   Original line: Bryan Hicks Quarterbacks Coach hicks6@southwestern.edu
+
+14. Greg Sigler
+   Email: siglerg@southwestern.edu
+   Username: siglerg
+   Original line: Greg Sigler Head Golf Coach siglerg@southwestern.edu 512-863-
+
+15. Bill Bowman
+   Email: bowmanw@southwestern.edu
+   Username: bowmanw
+   Original line: Bill Bowman Head Men's Lacrosse Coach bowmanw@southwestern.edu 512-863-
+
+16. Mike Markland
+   Email: marklanm@southwestern.edu
+   Username: marklanm
+   Original line: Mike Markland Assistant Men's Lacrosse Coach/Defense & Goalies marklanm@southwestern.edu 512-863-
+
+17. Taylor Beretich
+   Email: bereticht@southwestern.edu
+   Username: bereticht
+   Original line: Taylor Beretich Head Women's Lacrosse Coach bereticht@southwestern.edu
+
+18. Skye George
+   Email: george5@southwestern.edu
+   Username: george5
+   Original line: Skye George Assistant Women's Lacrosse Coach george5@southwestern.edu
+
+19. Dustin Norman
+   Email: normand@southwestern.edu
+   Username: normand
+   Original line: Dustin Norman Head Men's Soccer Coach normand@southwestern.edu 512-863-
+
+20. Devan Pilarski
+   Email: pilarskid@southwestern.edu
+   Username: pilarskid
+   Original line: Devan Pilarski Assistant Men's Soccer Coach pilarskid@southwestern.edu
+
+21. Linda Hamilton
+   Email: hamiltol@southwestern.edu
+   Username: hamiltol
+   Original line: Linda Hamilton Head Women's Soccer Coach hamiltol@southwestern.edu 512-863-
+
+22. Felix Oskam
+   Email: oskamf@southwestern.edu
+   Username: oskamf
+   Original line: Felix Oskam Assistant Women's Soccer Coach oskamf@southwestern.edu 512-863-
+
+23. Alexis Lynn
+   Email: lynna@southwestern.edu
+   Username: lynna
+   Original line: Alexis Lynn Head Softball Coach/Senior Woman Administrator lynna@southwestern.edu 512-863-
+
+24. Karen Cruse
+   Email: crusek@southwestern.edu
+   Username: crusek
+   Original line: Karen Cruse Assistant Softball Coach crusek@southwestern.edu
+
+25. Maggie Dabadie
+   Email: dabadiem@southwestern.edu
+   Username: dabadiem
+   Original line: Maggie Dabadie Head Men's and Women's Tennis Coach dabadiem@southwestern.edu
+
+26. Jon Duncan
+   Email: duncanj@southwestern.edu
+   Username: duncanj
+   Original line: Jon Duncan Head Swim & Dive Coach duncanj@southwestern.edu 512-863-
+
+27. Nicholas Angeli
+   Email: angelin@southwestern.edu
+   Username: angelin
+   Original line: Nicholas Angeli Assistant Swim & Dive Coach angelin@southwestern.edu 406-459-
+
+28. Kenneth Eboh
+   Email: keboh@southwestern.edu
+   Username: keboh
+   Original line: Kenneth Eboh Head Track and Field Coach keboh@southwestern.edu 512-863-
+
+29. Joe Sponsel
+   Email: sponsel2@southwestern.edu
+   Username: sponsel2
+   Original line: Joe Sponsel Head Cross Country Coach/Assistant Track Coach sponsel2@southwestern.edu 512-863-
+
+30. Don Flora
+   Email: florad@southwestern.edu
+   Username: florad
+   Original line: Don Flora Head Volleyball Coach florad@southwestern.edu (909) 720-
+
+31. Jeremy Ford
+   Email: fordj@southwestern.edu
+   Username: fordj
+   Original line: Jeremy Ford Assistant Volleyball Coach fordj@southwestern.edu (512) 656-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Alexis Lynn Head Softball Coach/Senior Woman Administrator lynna@southwestern.edu 512-863-
+• Erick Orizaba Head Strength and Conditioning Coach orizabae@southwestern.edu (630) 640-
+• J.C. Bunch Head Baseball Coach bunchj@southwestern.edu 512-863-
+• Mike Montgomery Assistant Baseball Coach/Recruiting Coordinator montgomm@southwestern.edu 512-863-
+• Matt Streich Head Men's Basketball Coach streichm@southwestern.edu 512-863-
+• Charlie Reznikoff Assistant Men's Basketball Coach reznikofc@southwestern.edu 203-604-
+• Will Cohen Assistant Men's Basketball Coach cohenw@southwestern.edu 917-853-
+• Caitlin Kriesel-Bigler Head Women's Basketball Coach krieselbc@southwestern.edu 512-863-
+• Lawrence Bailey Assistant Women's Basketball Coach bailey7@southwestern.edu
+• Joe Sponsel Head Cross Country Coach/Assistant Track Coach sponsel2@southwestern.edu 512-863-
+• Bill Kriesel Head Football Coach / Defensive Coordinator wkriesel@southwestern.edu 512-863-
+• Nick Mask Assistant Head Coach / Offensive Coordinator nmask@southwestern.edu 512-863-
+• Bryan Hicks Quarterbacks Coach hicks6@southwestern.edu
+• Greg Sigler Head Golf Coach siglerg@southwestern.edu 512-863-
+• Bill Bowman Head Men's Lacrosse Coach bowmanw@southwestern.edu 512-863-
+• Mike Markland Assistant Men's Lacrosse Coach/Defense & Goalies marklanm@southwestern.edu 512-863-
+• Taylor Beretich Head Women's Lacrosse Coach bereticht@southwestern.edu
+• Skye George Assistant Women's Lacrosse Coach george5@southwestern.edu
+• Dustin Norman Head Men's Soccer Coach normand@southwestern.edu 512-863-
+• Devan Pilarski Assistant Men's Soccer Coach pilarskid@southwestern.edu
+• Linda Hamilton Head Women's Soccer Coach hamiltol@southwestern.edu 512-863-
+• Felix Oskam Assistant Women's Soccer Coach oskamf@southwestern.edu 512-863-
+• Alexis Lynn Head Softball Coach/Senior Woman Administrator lynna@southwestern.edu 512-863-
+• Karen Cruse Assistant Softball Coach crusek@southwestern.edu
+• Maggie Dabadie Head Men's and Women's Tennis Coach dabadiem@southwestern.edu
+• Jon Duncan Head Swim & Dive Coach duncanj@southwestern.edu 512-863-
+• Nicholas Angeli Assistant Swim & Dive Coach angelin@southwestern.edu 406-459-
+• Kenneth Eboh Head Track and Field Coach keboh@southwestern.edu 512-863-
+• Joe Sponsel Head Cross Country Coach/Assistant Track Coach sponsel2@southwestern.edu 512-863-
+• Don Flora Head Volleyball Coach florad@southwestern.edu (909) 720-
+• Jeremy Ford Assistant Volleyball Coach fordj@southwestern.edu (512) 656-

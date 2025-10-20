@@ -1,0 +1,124 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:59
+============================================================
+
+Total coaches found: 17
+
+PARSED ENTRIES:
+----------------------------------------
+1. Moses Oceguera
+   Email: loceguera@ucmerced.edu
+   Username: loceguera
+   Phone: (209) 228-2306
+   Original line: Moses Oceguera Assistant Coach loceguera@ucmerced.edu (209) 228-2306
+
+2. Jaylen Wiltz
+   Email: jwiltz2@ucmerced.edu
+   Username: jwiltz2
+   Original line: Jaylen Wiltz Assistant Coach jwiltz2@ucmerced.edu
+
+3. Kellie Bernard
+   Email: kbernard3@ucmerced.edu
+   Username: kbernard3
+   Phone: (209) 228-2307
+   Original line: Kellie Bernard Head Coach kbernard3@ucmerced.edu (209) 228-2307
+
+4. Jasmine Washington
+   Email: jwashington10@ucmerced.edu
+   Username: jwashington10
+   Original line: Jasmine Washington Assistant Coach jwashington10@ucmerced.edu
+
+5. Vicente Velarde
+   Email: vvelarde2@ucmerced.edu
+   Username: vvelarde2
+   Phone: (209) 386-2841
+   Original line: Vicente Velarde Head Coach vvelarde2@ucmerced.edu (209) 386-2841
+
+6. Vicente Velarde
+   Email: vvelarde2@ucmerced.edu
+   Username: vvelarde2
+   Phone: (209) 386-2841
+   Original line: Vicente Velarde Head Coach vvelarde2@ucmerced.edu (209) 386-2841
+
+7. Albert Martins
+   Email: amartins@ucmerced.edu
+   Username: amartins
+   Phone: (209) 228-2305
+   Original line: Albert Martins Head Coach amartins@ucmerced.edu (209) 228-2305
+
+8. Roman DuChateau
+   Email: rduchateau@ucmerced.edu
+   Username: rduchateau
+   Phone: (209) 228-2949
+   Original line: Roman DuChateau Head Coach rduchateau@ucmerced.edu (209) 228-2949
+
+9. Vicente Velarde
+   Email: vvelarde2@ucmerced.edu
+   Username: vvelarde2
+   Phone: (209) 386-2841
+   Original line: Vicente Velarde Head Coach vvelarde2@ucmerced.edu (209) 386-2841
+
+10. Vicente Velarde
+   Email: vvelarde2@ucmerced.edu
+   Username: vvelarde2
+   Phone: (209) 386-2841
+   Original line: Vicente Velarde Head Coach vvelarde2@ucmerced.edu (209) 386-2841
+
+11. Chris Carter
+   Email: chriscarter@ucmerced.edu
+   Username: chriscarter
+   Original line: Chris Carter Head Coach chriscarter@ucmerced.edu
+
+12. Ken Shaw
+   Email: kennethshaw@ucmerced.edu
+   Username: kennethshaw
+   Original line: Ken Shaw Assistant Coach kennethshaw@ucmerced.edu
+
+13. Ai Prachumsri
+   Email: sprachumsri@ucmerced.edu
+   Username: sprachumsri
+   Phone: (209) 228-2236
+   Original line: Ai Prachumsri Head Coach sprachumsri@ucmerced.edu (209) 228-2236
+
+14. Caroline Mack
+   Email: cmack2@ucmerced.edu
+   Username: cmack2
+   Phone: (209) 228-2236
+   Original line: Caroline Mack Assistant Coach cmack2@ucmerced.edu (209) 228-2236
+
+15. Hannah Ellett
+   Email: hellett@ucmerced.edu
+   Username: hellett
+   Original line: Hannah Ellett Head Coach hellett@ucmerced.edu
+
+16. Marko Ilic
+   Email: markoilic@ucmerced.edu
+   Username: markoilic
+   Phone: (805) 331-7398
+   Original line: Marko Ilic Volunteer Assistant Coach markoilic@ucmerced.edu (805) 331-7398
+
+17. Britt Connell
+   Email: brittconnell@ucmerced.edu
+   Username: brittconnell
+   Original line: Britt Connell Head Coach brittconnell@ucmerced.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Moses Oceguera Assistant Coach loceguera@ucmerced.edu (209) 228-2306
+• Jaylen Wiltz Assistant Coach jwiltz2@ucmerced.edu
+• Kellie Bernard Head Coach kbernard3@ucmerced.edu (209) 228-2307
+• Jasmine Washington Assistant Coach jwashington10@ucmerced.edu
+• Vicente Velarde Head Coach vvelarde2@ucmerced.edu (209) 386-2841
+• Vicente Velarde Head Coach vvelarde2@ucmerced.edu (209) 386-2841
+• Albert Martins Head Coach amartins@ucmerced.edu (209) 228-2305
+• Roman DuChateau Head Coach rduchateau@ucmerced.edu (209) 228-2949
+• Vicente Velarde Head Coach vvelarde2@ucmerced.edu (209) 386-2841
+• Vicente Velarde Head Coach vvelarde2@ucmerced.edu (209) 386-2841
+• Chris Carter Head Coach chriscarter@ucmerced.edu
+• Ken Shaw Assistant Coach kennethshaw@ucmerced.edu
+• Ai Prachumsri Head Coach sprachumsri@ucmerced.edu (209) 228-2236
+• Caroline Mack Assistant Coach cmack2@ucmerced.edu (209) 228-2236
+• Hannah Ellett Head Coach hellett@ucmerced.edu
+• Marko Ilic Volunteer Assistant Coach markoilic@ucmerced.edu (805) 331-7398
+• Britt Connell Head Coach brittconnell@ucmerced.edu

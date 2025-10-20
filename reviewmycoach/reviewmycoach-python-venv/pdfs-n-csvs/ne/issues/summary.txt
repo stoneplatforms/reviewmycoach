@@ -1,0 +1,21 @@
+Printing results: Success=15 Skipped=2 Errors=0
+
+Skipped/Failed links:
+- Mount Marty University.pdf: https://gomountmarty.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gomountmarty.com/staff-directory/index
+Call log:
+  - navigating to "https://gomountmarty.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://gomountmarty.com/staff-directory?print=true, https://gomountmarty.com/staff-directory/print, https://gomountmarty.com/staff-directory, https://gomountmarty.com/staff-directory/index?print=true, https://gomountmarty.com/staff-directory/index/print, https://gomountmarty.com/staff-directory/index
+- York University (NE).pdf: https://yorkuniversityathletics.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://yorkuniversityathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://yorkuniversityathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://yorkuniversityathletics.com/staff-directory?print=true, https://yorkuniversityathletics.com/staff-directory/print, https://yorkuniversityathletics.com/staff-directory, https://yorkuniversityathletics.com/staff-directory/index?print=true, https://yorkuniversityathletics.com/staff-directory/index/print, https://yorkuniversityathletics.com/staff-directory/index
+
+PDFs with zero coaches detected:
+- Bellevue University.pdf
+- Hastings College.pdf
+- Concordia University Nebraska.pdf
+- College of Saint Mary.pdf
+- Doane University.pdf
+- Midland University.pdf

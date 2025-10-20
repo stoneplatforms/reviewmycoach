@@ -1,0 +1,200 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:36
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chase Sain
+   Email: rcsain@trevecca.edu
+   Username: rcsain
+   Phone: (615) 248-1276
+   Original line: Chase Sain Head Coach 615-248-1276 rcsain@trevecca.edu
+
+2. Bradyn Kail
+   Email: bwkail@trevecca.edu
+   Username: bwkail
+   Phone: (615) 248-1644
+   Original line: Bradyn Kail Assistant Coach 615-248-1644 bwkail@trevecca.edu
+
+3. Lee Sponseller
+   Email: rlsponseller@trevecca.edu
+   Username: rlsponseller
+   Original line: Lee Sponseller Assistant Coach rlsponseller@trevecca.edu
+
+4. Josh Carman
+   Email: jdcarman@trevecca.edu
+   Username: jdcarman
+   Original line: Josh Carman Assistant Coach jdcarman@trevecca.edu
+
+5. Nathan Moran
+   Email: cnmoran@trevecca.edu
+   Username: cnmoran
+   Phone: (615) 248-1545
+   Original line: Nathan Moran Head Coach 615-248-1545 cnmoran@trevecca.edu
+
+6. Logan Gonce
+   Email: lrgonce@trevecca.edu
+   Username: lrgonce
+   Phone: (615) 248-1483
+   Original line: Logan Gonce Assistant Coach 615-248-1483 lrgonce@trevecca.edu
+
+7. Doug Novak
+   Email: djnovak@trevecca.edu
+   Username: djnovak
+   Phone: (615) 248-1232
+   Original line: Doug Novak Head Coach 615-248-1232 djnovak@trevecca.edu
+
+8. Cyrus Booker
+   Email: clbooker@trevecca.edu
+   Username: clbooker
+   Phone: (615) 248-1381
+   Original line: Cyrus Booker Assistant Coach 615-248-1381 clbooker@trevecca.edu
+
+9. Lexi Laucirica
+   Email: ARLaucirica@trevecca.edu
+   Username: ARLaucirica
+   Phone: (561) 602-7894
+   Original line: Lexi Laucirica Head Coach 561-602-7894 ARLaucirica@trevecca.edu
+
+10. Cam Warner
+   Email: MCWarner@trevecca.edu
+   Username: MCWarner
+   Original line: Cam Warner Assistant Coach MCWarner@trevecca.edu
+
+11. Dylan Brannen
+   Email: dmbrannen@trevecca.edu
+   Username: dmbrannen
+   Original line: Dylan Brannen Assistant Coach dmbrannen@trevecca.edu
+
+12. Cam Warner
+   Email: MCWarner@trevecca.edu
+   Username: MCWarner
+   Original line: Cam Warner Assistant Coach MCWarner@trevecca.edu
+
+13. Dylan Brannen
+   Email: dmbrannen@trevecca.edu
+   Username: dmbrannen
+   Original line: Dylan Brannen Assistant Coach dmbrannen@trevecca.edu
+
+14. Tracy Wilkins
+   Email: tkwilkins@trevecca.edu
+   Username: tkwilkins
+   Phone: (615) 248-1604
+   Original line: Tracy Wilkins Assistant Coach 615-248-1604 tkwilkins@trevecca.edu
+
+15. Andrew Lovejoy
+   Email: aslovejoy@trevecca.edu
+   Username: aslovejoy
+   Original line: Andrew Lovejoy Assistant Coach aslovejoy@trevecca.edu
+
+16. Tracy Wilkins
+   Email: tkwilkins@trevecca.edu
+   Username: tkwilkins
+   Phone: (615) 248-1604
+   Original line: Tracy Wilkins Assistant Coach 615-248-1604 tkwilkins@trevecca.edu
+
+17. Andrew Lovejoy
+   Email: aslovejoy@trevecca.edu
+   Username: aslovejoy
+   Original line: Andrew Lovejoy Assistant Coach aslovejoy@trevecca.edu
+
+18. Danny Leavy
+   Email: dleavy@trevecca.edu
+   Username: dleavy
+   Phone: (615) 248-1440
+   Original line: Danny Leavy Head Coach 615-248-1440 dleavy@trevecca.edu
+
+19. Shane Cronin
+   Email: SCronin@trevecca.edu
+   Username: SCronin
+   Original line: Shane Cronin Assistant Coach SCronin@trevecca.edu
+
+20. Matheus Mello
+   Email: mtellesdearaujomello@trevecca.edu
+   Username: mtellesdearaujomello
+   Phone: (615) 248-1469
+   Original line: Matheus Mello Head Coach 615-248-1469 mtellesdearaujomello@trevecca.edu
+
+21. Alli Varga
+   Email: aavarga@trevecca.edu
+   Username: aavarga
+   Original line: Alli Varga Assistant Coach aavarga@trevecca.edu
+
+22. Ben Tyree
+   Email: btyree@trevecca.edu
+   Username: btyree
+   Phone: (615) 248-1277
+   Original line: Ben Tyree Head Coach 615-248-1277 btyree@trevecca.edu
+
+23. Sarah Daws
+   Email: sedaws@trevecca.edu
+   Username: sedaws
+   Phone: (615) 248-1277
+   Original line: Sarah Daws Associate Head Coach 615-248-1277 sedaws@trevecca.edu
+
+24. Kelly Quigley
+   Email: khquigley@trevecca.edu
+   Username: khquigley
+   Phone: (609) 668-2878
+   Original line: Kelly Quigley Head Coach (609) 668-2878 khquigley@trevecca.edu
+
+25. Cam Warner
+   Email: MCWarner@trevecca.edu
+   Username: MCWarner
+   Original line: Cam Warner Assistant Coach MCWarner@trevecca.edu
+
+26. Dylan Brannen
+   Email: DMBrannen@trevecca.edu
+   Username: DMBrannen
+   Original line: Dylan Brannen Assistant Coach DMBrannen@trevecca.edu
+
+27. Dylan Brannen
+   Email: DMBrannen@trevecca.edu
+   Username: DMBrannen
+   Original line: Dylan Brannen Assistant Coach DMBrannen@trevecca.edu
+
+28. Cam Warner
+   Email: MCWarner@trevecca.edu
+   Username: MCWarner
+   Original line: Cam Warner Assistant Coach MCWarner@trevecca.edu
+
+29. Alyssa Gage
+   Email: ajgage@trevecca.edu
+   Username: ajgage
+   Phone: 615.248.1623
+   Original line: Alyssa Gage Associate Head Coach 615.248.1623 ajgage@trevecca.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chase Sain Head Coach 615-248-1276 rcsain@trevecca.edu
+• Bradyn Kail Assistant Coach 615-248-1644 bwkail@trevecca.edu
+• Lee Sponseller Assistant Coach rlsponseller@trevecca.edu
+• Josh Carman Assistant Coach jdcarman@trevecca.edu
+• Nathan Moran Head Coach 615-248-1545 cnmoran@trevecca.edu
+• Logan Gonce Assistant Coach 615-248-1483 lrgonce@trevecca.edu
+• Doug Novak Head Coach 615-248-1232 djnovak@trevecca.edu
+• Cyrus Booker Assistant Coach 615-248-1381 clbooker@trevecca.edu
+• Lexi Laucirica Head Coach 561-602-7894 ARLaucirica@trevecca.edu
+• Cam Warner Assistant Coach MCWarner@trevecca.edu
+• Dylan Brannen Assistant Coach dmbrannen@trevecca.edu
+• Cam Warner Assistant Coach MCWarner@trevecca.edu
+• Dylan Brannen Assistant Coach dmbrannen@trevecca.edu
+• Tracy Wilkins Assistant Coach 615-248-1604 tkwilkins@trevecca.edu
+• Andrew Lovejoy Assistant Coach aslovejoy@trevecca.edu
+• Tracy Wilkins Assistant Coach 615-248-1604 tkwilkins@trevecca.edu
+• Andrew Lovejoy Assistant Coach aslovejoy@trevecca.edu
+• Danny Leavy Head Coach 615-248-1440 dleavy@trevecca.edu
+• Shane Cronin Assistant Coach SCronin@trevecca.edu
+• Matheus Mello Head Coach 615-248-1469 mtellesdearaujomello@trevecca.edu
+• Alli Varga Assistant Coach aavarga@trevecca.edu
+• Ben Tyree Head Coach 615-248-1277 btyree@trevecca.edu
+• Sarah Daws Associate Head Coach 615-248-1277 sedaws@trevecca.edu
+• Kelly Quigley Head Coach (609) 668-2878 khquigley@trevecca.edu
+• Cam Warner Assistant Coach MCWarner@trevecca.edu
+• Dylan Brannen Assistant Coach DMBrannen@trevecca.edu
+• Dylan Brannen Assistant Coach DMBrannen@trevecca.edu
+• Cam Warner Assistant Coach MCWarner@trevecca.edu
+• Alyssa Gage Associate Head Coach 615.248.1623 ajgage@trevecca.edu

@@ -1,0 +1,21 @@
+Printing results: Success=7 Skipped=3 Errors=0
+
+Skipped/Failed links:
+- Franklin Pierce University.pdf: https://athletics.franklinpierce.edu/staff-directory -> Navigation failed: Page.goto: net::ERR_CONNECTION_RESET at https://athletics.franklinpierce.edu/staff-directory/index
+Call log:
+  - navigating to "https://athletics.franklinpierce.edu/staff-directory/index", waiting until "networkidle"
+
+  tried: https://athletics.franklinpierce.edu/staff-directory?print=true, https://athletics.franklinpierce.edu/staff-directory/print, https://athletics.franklinpierce.edu/staff-directory, https://athletics.franklinpierce.edu/staff-directory/index?print=true, https://athletics.franklinpierce.edu/staff-directory/index/print, https://athletics.franklinpierce.edu/staff-directory/index
+- Rivier University.pdf: https://rivraders.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rivraders.com/staff-directory/index
+Call log:
+  - navigating to "https://rivraders.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://rivraders.com/staff-directory?print=true, https://rivraders.com/staff-directory/print, https://rivraders.com/staff-directory, https://rivraders.com/staff-directory/index?print=true, https://rivraders.com/staff-directory/index/print, https://rivraders.com/staff-directory/index
+- Plymouth State University.pdf: https://plymouthpanthers.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://plymouthpanthers.com/staff-directory/index
+Call log:
+  - navigating to "https://plymouthpanthers.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://plymouthpanthers.com/staff-directory?print=true, https://plymouthpanthers.com/staff-directory/print, https://plymouthpanthers.com/staff-directory, https://plymouthpanthers.com/staff-directory/index?print=true, https://plymouthpanthers.com/staff-directory/index/print, https://plymouthpanthers.com/staff-directory/index
+
+PDFs with zero coaches detected:
+- New England College.pdf

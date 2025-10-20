@@ -1,0 +1,319 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:40
+============================================================
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ryder Weischedel
+   Email: Ryder.Weischedel@uj.edu
+   Username: Ryder.Weischedel
+   Phone: (701) 252-3467
+   Original line: Ryder Weischedel Strength and Conditioning Coach Ryder.Weischedel@uj.edu 701-252-3467 | Ext. 5404
+
+2. Tom Hager
+   Email: thager@uj.edu
+   Username: thager
+   Phone: (701) 252-3467
+   Original line: Tom Hager Head Coach thager@uj.edu 701-252-3467 | ext. 5407
+
+3. Ryan Iliff
+   Email: ryan.iliff@uj.edu
+   Username: ryan.iliff
+   Phone: (701) 252-3467
+   Original line: Ryan Iliff Assistant Coach ryan.iliff@uj.edu 701-252-3467 | Ext. 4147
+
+4. Casey Bruggeman
+   Email: Casey.Bruggeman@uj.edu
+   Username: Casey.Bruggeman
+   Phone: (701) 252-3467
+   Original line: Casey Bruggeman Head Coach Casey.Bruggeman@uj.edu 701-252-3467 | ext. 5443
+
+5. Tath Dak
+   Email: Tath.Dak@uj.edu
+   Username: Tath.Dak
+   Phone: (701) 252-3467
+   Original line: Tath Dak Assistant Coach Tath.Dak@uj.edu 701-252-3467 | ext. 4307
+
+6. Thad Sankey
+   Email: Thad.Sankey@uj.edu
+   Username: Thad.Sankey
+   Phone: (701) 252-3467
+   Original line: Thad Sankey Head Coach Thad.Sankey@uj.edu 701-252-3467 | Ext. 5579
+
+7. Faith Brintle
+   Email: Faith.Brintle@uj.edu
+   Username: Faith.Brintle
+   Phone: (701) 252-3467
+   Original line: Faith Brintle Assistant Coach Faith.Brintle@uj.edu 701-252-3467 | Ext. 5426
+
+8. Brian Mistro
+   Email: Brian.Mistro@uj.edu
+   Username: Brian.Mistro
+   Phone: (701) 252-3467
+   Original line: Brian Mistro Head Coach Brian.Mistro@uj.edu 701-252-3467 | Ext. 5420
+
+9. Tom Dosch
+   Email: Thomas.Dosch@uj.edu
+   Username: Thomas.Dosch
+   Original line: Tom Dosch Associate Head Coach/Special Teams Coordinator Thomas.Dosch@uj.edu
+
+10. Eric Becker
+   Email: football@uj.edu
+   Username: football
+   Original line: Eric Becker Wide Receivers Coach football@uj.edu
+
+11. Matt Chauvin
+   Email: Matthew.Chauvin@uj.edu
+   Username: Matthew.Chauvin
+   Original line: Matt Chauvin Quarterbacks Coach Matthew.Chauvin@uj.edu
+
+12. Jake Lehman
+   Email: Jake.Lehman@uj.edu
+   Username: Jake.Lehman
+   Phone: (701) 252-3467
+   Original line: Jake Lehman Defensive Backs Coach Jake.Lehman@uj.edu 701-252-3467 | Ext. 5030
+
+13. Josh Zimmer
+   Email: Joshua.Zimmer@uj.edu
+   Username: Joshua.Zimmer
+   Phone: (701) 252-3467
+   Original line: Josh Zimmer Defensive Line Coach/Director of Player Personnel Joshua.Zimmer@uj.edu 701-252-3467 | Ext. 5524
+
+14. Jared Lentz
+   Email: Jared.Lentz@uj.edu
+   Username: Jared.Lentz
+   Phone: (701) 252-3467
+   Original line: Jared Lentz Head Coach Jared.Lentz@uj.edu 701-252-3467 | Ext. 4306
+
+15. Jared Lentz
+   Email: Jared.Lentz@uj.edu
+   Username: Jared.Lentz
+   Phone: (701) 252-3467
+   Original line: Jared Lentz Head Coach Jared.Lentz@uj.edu 701-252-3467 | Ext. 4306
+
+16. Dean Stork
+   Email: Dean.Stork@uj.edu
+   Username: Dean.Stork
+   Phone: (701) 252-3467
+   Original line: Dean Stork Head Coach Dean.Stork@uj.edu 701-252-3467 | Ext. 5557
+
+17. Zayne Fay
+   Email: Zayne.Fay@uj.edu
+   Username: Zayne.Fay
+   Original line: Zayne Fay D2 Head Coach/D1 Graduate Assistant Zayne.Fay@uj.edu
+
+18. Hannah Griffin
+   Email: Hannah.Griffin@uj.edu
+   Username: Hannah.Griffin
+   Phone: (701) 252-3467
+   Original line: Hannah Griffin Head Coach Hannah.Griffin@uj.edu 701-252-3467 | ext. 5468
+
+19. Gracie Fisher
+   Email: Gracie.Fisher@uj.edu
+   Username: Gracie.Fisher
+   Original line: Gracie Fisher Head Coach Gracie.Fisher@uj.edu
+
+20. Justin Gilfert
+   Email: Justin.Gilfert@uj.edu
+   Username: Justin.Gilfert
+   Original line: Justin Gilfert Head Coach Justin.Gilfert@uj.edu
+
+21. Bo-Borge Drath
+   Email: Bo.Drath@uj.edu
+   Username: Bo.Drath
+   Original line: Bo-Borge Drath Assistant Coach Bo.Drath@uj.edu
+
+22. Alexi George
+   Email: Alexi.George@uj.edu
+   Username: Alexi.George
+   Original line: Alexi George Assistant Coach Alexi.George@uj.edu
+
+23. James Beach
+   Email: James.Beach@uj.edu
+   Username: James.Beach
+   Original line: James Beach Goalkeeper Coach James.Beach@uj.edu
+
+24. Nick Becker
+   Email: nbecker@uj.edu
+   Username: nbecker
+   Phone: (701) 252-3467
+   Original line: Nick Becker Head Coach nbecker@uj.edu 701-252-3467 | Ext. 5711
+
+25. James Beach
+   Email: James.Beach@uj.edu
+   Username: James.Beach
+   Original line: James Beach Goalkeeper Coach James.Beach@uj.edu
+
+26. Kevin Gall
+   Email: kgall@uj.edu
+   Username: kgall
+   Phone: (701) 252-3467
+   Original line: Kevin Gall Head Coach kgall@uj.edu 701-252-3467 | Ext. 5337
+
+27. Ben Smith
+   Email: Benjamin.Smith@uj.edu
+   Username: Benjamin.Smith
+   Phone: (701) 252-3467
+   Original line: Ben Smith Head Coach Benjamin.Smith@uj.edu 701-252-3467 | Ext. 5567
+
+28. Cameron Jackson
+   Email: Cameron.Jackson@uj.edu
+   Username: Cameron.Jackson
+   Original line: Cameron Jackson Head Coach Cameron.Jackson@uj.edu
+
+29. Connor Salisbury
+   Email: Connor.Salisbury@uj.edu
+   Username: Connor.Salisbury
+   Phone: (701) 252-3467
+   Original line: Connor Salisbury Associate Head Coach Connor.Salisbury@uj.edu 701-252-3467 | Ext. 5507
+
+30. Sam Kludt
+   Email: samuel.kludt@uj.edu
+   Username: samuel.kludt
+   Original line: Sam Kludt Assistant Coach samuel.kludt@uj.edu
+
+31. Kathryn Lemm
+   Email: lemm@uj.edu
+   Username: lemm
+   Original line: Kathryn Lemm Assistant Coach lemm@uj.edu Ext. 5498
+
+32. Brandon Lewis
+   Email: Brandon.Lewis@uj.edu
+   Username: Brandon.Lewis
+   Phone: (701) 252-3467
+   Original line: Brandon Lewis Assistant Coach Brandon.Lewis@uj.edu 701-252-3467 | Ext. 5506
+
+33. Connor Salisbury
+   Email: Connor.Salisbury@uj.edu
+   Username: Connor.Salisbury
+   Phone: (701) 252-3467
+   Original line: Connor Salisbury Associate Head Coach Connor.Salisbury@uj.edu 701-252-3467 | Ext. 5507
+
+34. Sam Kludt
+   Email: samuel.kludt@uj.edu
+   Username: samuel.kludt
+   Original line: Sam Kludt Assistant Coach samuel.kludt@uj.edu
+
+35. Kathryn Lemm
+   Email: lemm@uj.edu
+   Username: lemm
+   Original line: Kathryn Lemm Assistant Coach lemm@uj.edu Ext. 5498
+
+36. Brandon Lewis
+   Email: Brandon.Lewis@uj.edu
+   Username: Brandon.Lewis
+   Phone: (701) 252-3467
+   Original line: Brandon Lewis Assistant Coach Brandon.Lewis@uj.edu 701-252-3467 | Ext. 5506
+
+37. Toby Rens
+   Email: Toby.Rens@uj.edu
+   Username: Toby.Rens
+   Phone: (701) 252-3467
+   Original line: Toby Rens Head Coach Toby.Rens@uj.edu 701-252-3467 | ext. 5034
+
+38. Zak Tucker
+   Email: Zakary.Tucker@uj.edu
+   Username: Zakary.Tucker
+   Original line: Zak Tucker Assistant Coach Zakary.Tucker@uj.edu
+
+39. Jon Hegerle
+   Email: jhegerle@uj.edu
+   Username: jhegerle
+   Phone: (701) 252-3467
+   Original line: Jon Hegerle Head Coach jhegerle@uj.edu 701-252-3467 | Ext. 5710
+
+40. Jake Adolphson-Fulsom
+   Email: Jacob.Fulsom@uj.edu
+   Username: Jacob.Fulsom
+   Phone: (701) 252-3467
+   Original line: Jake Adolphson-Fulsom Assistant Coach Jacob.Fulsom@uj.edu 701-252-3467 | Ext. 5723
+
+41. Lindsey Johnson
+   Email: Lindsey.Johnson1@uj.edu
+   Username: Lindsey.Johnson1
+   Original line: Lindsey Johnson Assistant Coach Lindsey.Johnson1@uj.edu
+
+42. Gresh Jones
+   Email: Gresh.Jones@uj.edu
+   Username: Gresh.Jones
+   Phone: (701) 252-3467
+   Original line: Gresh Jones Head Coach Gresh.Jones@uj.edu 701-252-3467 | Ext. 5027
+
+43. Claude Robinson
+   Email: Claude.Robinson@uj.edu
+   Username: Claude.Robinson
+   Original line: Claude Robinson Assistant Coach Claude.Robinson@uj.edu
+
+44. Nakoda Currier
+   Email: NaKoda.Currier@uj.edu
+   Username: NaKoda.Currier
+   Original line: Nakoda Currier Assistant Coach NaKoda.Currier@uj.edu
+
+45. Tony DeAnda
+   Email: tony.deanda@uj.edu
+   Username: tony.deanda
+   Original line: Tony DeAnda Head Coach tony.deanda@uj.edu
+
+46. Gabriel Gohman
+   Email: gabe.gohman@uj.edu
+   Username: gabe.gohman
+   Original line: Gabriel Gohman Head Coach gabe.gohman@uj.edu
+
+47. John Mazur
+   Email: John.Mazur@uj.edu
+   Username: John.Mazur
+   Phone: (701) 252-3467
+   Original line: John Mazur Head Coach John.Mazur@uj.edu 701-252-3467 | Ext. 5306
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ryder Weischedel Strength and Conditioning Coach Ryder.Weischedel@uj.edu 701-252-3467 | Ext. 5404
+• Tom Hager Head Coach thager@uj.edu 701-252-3467 | ext. 5407
+• Ryan Iliff Assistant Coach ryan.iliff@uj.edu 701-252-3467 | Ext. 4147
+• Casey Bruggeman Head Coach Casey.Bruggeman@uj.edu 701-252-3467 | ext. 5443
+• Tath Dak Assistant Coach Tath.Dak@uj.edu 701-252-3467 | ext. 4307
+• Thad Sankey Head Coach Thad.Sankey@uj.edu 701-252-3467 | Ext. 5579
+• Faith Brintle Assistant Coach Faith.Brintle@uj.edu 701-252-3467 | Ext. 5426
+• Brian Mistro Head Coach Brian.Mistro@uj.edu 701-252-3467 | Ext. 5420
+• Tom Dosch Associate Head Coach/Special Teams Coordinator Thomas.Dosch@uj.edu
+• Eric Becker Wide Receivers Coach football@uj.edu
+• Matt Chauvin Quarterbacks Coach Matthew.Chauvin@uj.edu
+• Jake Lehman Defensive Backs Coach Jake.Lehman@uj.edu 701-252-3467 | Ext. 5030
+• Josh Zimmer Defensive Line Coach/Director of Player Personnel Joshua.Zimmer@uj.edu 701-252-3467 | Ext. 5524
+• Jared Lentz Head Coach Jared.Lentz@uj.edu 701-252-3467 | Ext. 4306
+• Jared Lentz Head Coach Jared.Lentz@uj.edu 701-252-3467 | Ext. 4306
+• Dean Stork Head Coach Dean.Stork@uj.edu 701-252-3467 | Ext. 5557
+• Zayne Fay D2 Head Coach/D1 Graduate Assistant Zayne.Fay@uj.edu
+• Hannah Griffin Head Coach Hannah.Griffin@uj.edu 701-252-3467 | ext. 5468
+• Gracie Fisher Head Coach Gracie.Fisher@uj.edu
+• Justin Gilfert Head Coach Justin.Gilfert@uj.edu
+• Bo-Borge Drath Assistant Coach Bo.Drath@uj.edu
+• Alexi George Assistant Coach Alexi.George@uj.edu
+• James Beach Goalkeeper Coach James.Beach@uj.edu
+• Nick Becker Head Coach nbecker@uj.edu 701-252-3467 | Ext. 5711
+• James Beach Goalkeeper Coach James.Beach@uj.edu
+• Kevin Gall Head Coach kgall@uj.edu 701-252-3467 | Ext. 5337
+• Ben Smith Head Coach Benjamin.Smith@uj.edu 701-252-3467 | Ext. 5567
+• Cameron Jackson Head Coach Cameron.Jackson@uj.edu
+• Connor Salisbury Associate Head Coach Connor.Salisbury@uj.edu 701-252-3467 | Ext. 5507
+• Sam Kludt Assistant Coach samuel.kludt@uj.edu
+• Kathryn Lemm Assistant Coach lemm@uj.edu Ext. 5498
+• Brandon Lewis Assistant Coach Brandon.Lewis@uj.edu 701-252-3467 | Ext. 5506
+• Connor Salisbury Associate Head Coach Connor.Salisbury@uj.edu 701-252-3467 | Ext. 5507
+• Sam Kludt Assistant Coach samuel.kludt@uj.edu
+• Kathryn Lemm Assistant Coach lemm@uj.edu Ext. 5498
+• Brandon Lewis Assistant Coach Brandon.Lewis@uj.edu 701-252-3467 | Ext. 5506
+• Toby Rens Head Coach Toby.Rens@uj.edu 701-252-3467 | ext. 5034
+• Zak Tucker Assistant Coach Zakary.Tucker@uj.edu
+• Jon Hegerle Head Coach jhegerle@uj.edu 701-252-3467 | Ext. 5710
+• Jake Adolphson-Fulsom Assistant Coach Jacob.Fulsom@uj.edu 701-252-3467 | Ext. 5723
+• Lindsey Johnson Assistant Coach Lindsey.Johnson1@uj.edu
+• Gresh Jones Head Coach Gresh.Jones@uj.edu 701-252-3467 | Ext. 5027
+• Claude Robinson Assistant Coach Claude.Robinson@uj.edu
+• Nakoda Currier Assistant Coach NaKoda.Currier@uj.edu
+• Tony DeAnda Head Coach tony.deanda@uj.edu
+• Gabriel Gohman Head Coach gabe.gohman@uj.edu
+• John Mazur Head Coach John.Mazur@uj.edu 701-252-3467 | Ext. 5306

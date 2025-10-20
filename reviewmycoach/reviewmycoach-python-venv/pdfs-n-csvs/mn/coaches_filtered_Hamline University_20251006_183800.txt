@@ -1,0 +1,197 @@
+COACH ENTRIES FOUND - 2025-10-06 18:38:01
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Vaughn Tackmann
+   Email: vtackmann02@hamline.edu
+   Username: vtackmann02
+   Original line: Vaughn Tackmann Head Women's Track & Field Coach / Assistant vtackmann02@hamline.edu 651-523-
+
+2. Jim Weyandt
+   Email: jweyandt02@hamline.edu
+   Username: jweyandt02
+   Original line: Jim Weyandt Head Baseball Coach jweyandt02@hamline.edu 651-523-
+
+3. Colin Schuetz
+   Email: cschuetz01@hamline.edu
+   Username: cschuetz01
+   Original line: Colin Schuetz Assistant Baseball Coach / Outfield - Third Base cschuetz01@hamline.edu
+
+4. Cass Kreitlow
+   Email: ckreitlow02@hamline.edu
+   Username: ckreitlow02
+   Original line: Cass Kreitlow Assistant Baseball Coach / Hitting ckreitlow02@hamline.edu
+
+5. Ryan Price
+   Email: rprice02@hamline.edu
+   Username: rprice02
+   Original line: Ryan Price Assistant Baseball Coach rprice02@hamline.edu
+
+6. Jim Hayes
+   Email: jhayes01@hamline.edu
+   Username: jhayes01
+   Original line: Jim Hayes Head Men's Basketball Coach jhayes01@hamline.edu 651-523-
+
+7. Ryan Wockenfus
+   Email: rwockenfus01@hamline.edu
+   Username: rwockenfus01
+   Original line: Ryan Wockenfus Assistant Men's Basketball Coach rwockenfus01@hamline.edu
+
+8. Joshua Hersch
+   Email: jhersch01@hamline.edu
+   Username: jhersch01
+   Original line: Joshua Hersch Head Women's Basketball Coach jhersch01@hamline.edu 651-523-
+
+9. Lindsey Bernardy
+   Email: lbernardy02@hamline.edu
+   Username: lbernardy02
+   Original line: Lindsey Bernardy Assistant Women's Basketball Coach lbernardy02@hamline.edu 651-523-
+
+10. Devin Monson
+   Email: dmonson01@hamline.edu
+   Username: dmonson01
+   Original line: Devin Monson Head Men's and Women's Cross Country Coach dmonson01@hamline.edu 701-741-
+
+11. Chip Taylor
+   Email: ctaylorjr01@hamline.edu
+   Username: ctaylorjr01
+   Original line: Chip Taylor Head Football Coach / Special Teams ctaylorjr01@hamline.edu 651-523- St. Paul / Minneapolis
+
+12. Seth Greenwald
+   Email: sgreenwald01@hamline.edu
+   Username: sgreenwald01
+   Original line: Seth Greenwald Assistant Football Coach / Defensive sgreenwald01@hamline.edu 651-523- Twin Cities South
+
+13. Michael Harris
+   Email: mharris22@hamline.edu
+   Username: mharris22
+   Original line: Michael Harris Assistant Football Coach / Offensive Line mharris22@hamline.edu 651-523- Minnesota Private
+
+14. Bruno Giordano
+   Email: bgiordano01@hamline.edu
+   Username: bgiordano01
+   Original line: Bruno Giordano Assistant Football Coach bgiordano01@hamline.edu
+
+15. Terry Newsome
+   Email: tnewsome02@hamline.edu
+   Username: tnewsome02
+   Original line: Terry Newsome Assistant Football Coach / Wide Receivers tnewsome02@hamline.edu
+
+16. Doug Byrnes
+   Email: dbyrnes@hamline.edu
+   Username: dbyrnes
+   Original line: Doug Byrnes Head Gymnastics Coach dbyrnes@hamline.edu 651-523-
+
+17. Shane Wagner
+   Email: swagner10@hamline.edu
+   Username: swagner10
+   Original line: Shane Wagner Head Men's Hockey Coach swagner10@hamline.edu 651-523-
+
+18. Ted Cheesebrough
+   Email: novahockey@hotmail.com
+   Username: novahockey
+   Original line: Ted Cheesebrough Assistant Men's Hockey Coach novahockey@hotmail.com
+
+19. Adam Dobis
+   Email: adobis01@hamline.edu
+   Username: adobis01
+   Original line: Adam Dobis Head Women's Lacrosse Coach adobis01@hamline.edu 952-262-
+
+20. Taryn Leonard
+   Email: tleonard03@hamline.edu
+   Username: tleonard03
+   Original line: Taryn Leonard Assistant Women's Lacrosse Coach tleonard03@hamline.edu
+
+21. John Pucci
+   Email: jpucci02@hamline.edu
+   Username: jpucci02
+   Original line: John Pucci Head Men's Soccer Coach jpucci02@hamline.edu
+
+22. Michael Prunty
+   Email: mprunty01@hamline.edu
+   Username: mprunty01
+   Original line: Michael Prunty Head Women's Soccer Coach mprunty01@hamline.edu 651-523-
+
+23. Morgan Philliber
+   Email: mphilliber01@hamline.edu
+   Username: mphilliber01
+   Original line: Morgan Philliber Assistant Women's Soccer Coach mphilliber01@hamline.edu
+
+24. Jim Rubbelke
+   Email: jrubbelke01@hamline.edu
+   Username: jrubbelke01
+   Original line: Jim Rubbelke Head Softball Coach jrubbelke01@hamline.edu 651-523-
+
+25. Alex Card
+   Email: acard01@hamline.edu
+   Username: acard01
+   Original line: Alex Card Head Swimming & Diving Coach acard01@hamline.edu 651-523-
+
+26. Casey Jones
+   Email: cjones25@hamline.edu
+   Username: cjones25
+   Original line: Casey Jones Assistant Swimming & Diving Coach cjones25@hamline.edu
+
+27. Spencer Jones
+   Email: sjones06@hamline.edu
+   Username: sjones06
+   Original line: Spencer Jones Head Tennis Coach sjones06@hamline.edu 651-523-
+
+28. Devin Monson
+   Email: dmonson01@hamline.edu
+   Username: dmonson01
+   Original line: Devin Monson Head Men's and Women's Cross Country Coach dmonson01@hamline.edu 701-741-
+
+29. Josh Blaschko
+   Email: jblaschko01@hamline.edu
+   Username: jblaschko01
+   Original line: Josh Blaschko Head Men's Track & Field Coach / Assistant jblaschko01@hamline.edu 651-523-
+
+30. Vaughn Tackmann
+   Email: vtackmann02@hamline.edu
+   Username: vtackmann02
+   Original line: Vaughn Tackmann Head Women's Track & Field Coach / Assistant vtackmann02@hamline.edu 651-523-
+
+31. Kylee Zumach
+   Email: kzumach01@hamline.edu
+   Username: kzumach01
+   Original line: Kylee Zumach Head Women's Volleyball Coach kzumach01@hamline.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Vaughn Tackmann Head Women's Track & Field Coach / Assistant vtackmann02@hamline.edu 651-523-
+• Jim Weyandt Head Baseball Coach jweyandt02@hamline.edu 651-523-
+• Colin Schuetz Assistant Baseball Coach / Outfield - Third Base cschuetz01@hamline.edu
+• Cass Kreitlow Assistant Baseball Coach / Hitting ckreitlow02@hamline.edu
+• Ryan Price Assistant Baseball Coach rprice02@hamline.edu
+• Jim Hayes Head Men's Basketball Coach jhayes01@hamline.edu 651-523-
+• Ryan Wockenfus Assistant Men's Basketball Coach rwockenfus01@hamline.edu
+• Joshua Hersch Head Women's Basketball Coach jhersch01@hamline.edu 651-523-
+• Lindsey Bernardy Assistant Women's Basketball Coach lbernardy02@hamline.edu 651-523-
+• Devin Monson Head Men's and Women's Cross Country Coach dmonson01@hamline.edu 701-741-
+• Chip Taylor Head Football Coach / Special Teams ctaylorjr01@hamline.edu 651-523- St. Paul / Minneapolis
+• Seth Greenwald Assistant Football Coach / Defensive sgreenwald01@hamline.edu 651-523- Twin Cities South
+• Michael Harris Assistant Football Coach / Offensive Line mharris22@hamline.edu 651-523- Minnesota Private
+• Bruno Giordano Assistant Football Coach bgiordano01@hamline.edu
+• Terry Newsome Assistant Football Coach / Wide Receivers tnewsome02@hamline.edu
+• Doug Byrnes Head Gymnastics Coach dbyrnes@hamline.edu 651-523-
+• Shane Wagner Head Men's Hockey Coach swagner10@hamline.edu 651-523-
+• Ted Cheesebrough Assistant Men's Hockey Coach novahockey@hotmail.com
+• Adam Dobis Head Women's Lacrosse Coach adobis01@hamline.edu 952-262-
+• Taryn Leonard Assistant Women's Lacrosse Coach tleonard03@hamline.edu
+• John Pucci Head Men's Soccer Coach jpucci02@hamline.edu
+• Michael Prunty Head Women's Soccer Coach mprunty01@hamline.edu 651-523-
+• Morgan Philliber Assistant Women's Soccer Coach mphilliber01@hamline.edu
+• Jim Rubbelke Head Softball Coach jrubbelke01@hamline.edu 651-523-
+• Alex Card Head Swimming & Diving Coach acard01@hamline.edu 651-523-
+• Casey Jones Assistant Swimming & Diving Coach cjones25@hamline.edu
+• Spencer Jones Head Tennis Coach sjones06@hamline.edu 651-523-
+• Devin Monson Head Men's and Women's Cross Country Coach dmonson01@hamline.edu 701-741-
+• Josh Blaschko Head Men's Track & Field Coach / Assistant jblaschko01@hamline.edu 651-523-
+• Vaughn Tackmann Head Women's Track & Field Coach / Assistant vtackmann02@hamline.edu 651-523-
+• Kylee Zumach Head Women's Volleyball Coach kzumach01@hamline.edu

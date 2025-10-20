@@ -1,0 +1,203 @@
+COACH ENTRIES FOUND - 2025-09-27 16:45:33
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Cody Duvall
+   Email: mcduvall@ualr.edu
+   Username: mcduvall
+   Original line: Cody Duvall Assistant Athletic Performance Coach mcduvall@ualr.edu 501-680-
+
+2. Bradley Kiser
+   Email: bkiser@ualr.edu
+   Username: bkiser
+   Original line: Bradley Kiser Assistant Athletic Performance Coach bkiser@ualr.edu
+
+3. Trinity Caver
+   Email: tkcaver@ualr.edu
+   Username: tkcaver
+   Original line: Trinity Caver Dance Team Coach tkcaver@ualr.edu 870-665-
+
+4. Chris Curry
+   Email: baseball@ualr.edu
+   Username: baseball
+   Original line: Chris Curry Head Coach baseball@ualr.edu 501-916-
+
+5. Matt Parker
+   Email: mparker3@ualr.edu
+   Username: mparker3
+   Original line: Matt Parker Assistant Coach/Recruiting Coordinator mparker3@ualr.edu 501-916-
+
+6. Charles Gravett
+   Email: cgravett@ualr.edu
+   Username: cgravett
+   Original line: Charles Gravett Assistant Coach cgravett@ualr.edu
+
+7. Evan Lee
+   Email: exlee2@ualr.edu
+   Username: exlee2
+   Original line: Evan Lee Pitching Coach exlee2@ualr.edu
+
+8. Darrell Walker
+   Email: dwalker@ualr.edu
+   Username: dwalker
+   Original line: Darrell Walker Head Coach dwalker@ualr.edu
+
+9. Charles Baker
+   Email: cebaker2@ualr.edu
+   Username: cebaker2
+   Original line: Charles Baker Assistant Coach cebaker2@ualr.edu
+
+10. Charles Thomas
+   Email: cthomasii@ualr.edu
+   Username: cthomasii
+   Original line: Charles Thomas Assistant Coach cthomasii@ualr.edu
+
+11. Evan Eustachy
+   Email: geustachy@ualr.edu
+   Username: geustachy
+   Original line: Evan Eustachy Assistant Coach geustachy@ualr.edu
+
+12. Tyler Milchman
+   Email: tmilchman@ualr.edu
+   Username: tmilchman
+   Original line: Tyler Milchman Assistant Coach - Director of Basketball Operations tmilchman@ualr.edu
+
+13. Steve Wiedower
+   Email: slwiedower@ualr.edu
+   Username: slwiedower
+   Original line: Steve Wiedower Head Coach slwiedower@ualr.edu
+
+14. Alicia Cash
+   Email: alcash@ualr.edu
+   Username: alcash
+   Original line: Alicia Cash Assistant Coach alcash@ualr.edu
+
+15. Bobby Brasel
+   Email: bgbrasel@ualr.edu
+   Username: bgbrasel
+   Original line: Bobby Brasel Assistant Coach bgbrasel@ualr.edu
+
+16. Chastity Reed
+   Email: cxreed1@ualr.edu
+   Username: cxreed1
+   Original line: Chastity Reed Assistant Coach cxreed1@ualr.edu
+
+17. Kim Sitzmann
+   Email: ksitzmann1@ualr.edu
+   Username: ksitzmann1
+   Original line: Kim Sitzmann Assistant Coach - Director of Operations and Player ksitzmann1@ualr.edu
+
+18. Will Kendall
+   Email: wkendall@ualr.edu
+   Username: wkendall
+   Original line: Will Kendall Assistant Coach wkendall@ualr.edu 804-971-
+
+19. Jordyn Naylon
+   Email: jnaylon@ualr.edu
+   Username: jnaylon
+   Original line: Jordyn Naylon Head Cross Country Coach / Assistant Track Coach jnaylon@ualr.edu 585-455-
+
+20. Dion Murombe
+   Email: mdmurombe@ualr.edu
+   Username: mdmurombe
+   Original line: Dion Murombe Assistant Coach/Recruiting Coordinator mdmurombe@ualr.edu
+
+21. Austin Eoff
+   Email: ateoff@ualr.edu
+   Username: ateoff
+   Original line: Austin Eoff Head Coach ateoff@ualr.edu
+
+22. Jenna Birch
+   Email: jlwylie@ualr.edu
+   Username: jlwylie
+   Original line: Jenna Birch Head Coach jlwylie@ualr.edu 501-680-
+
+23. Kelly Farrell
+   Email: kafarrell@ualr.edu
+   Username: kafarrell
+   Original line: Kelly Farrell Head Coach kafarrell@ualr.edu 516-476-
+
+24. Alex Burgess
+   Email: amburgess2@ualr.edu
+   Username: amburgess2
+   Original line: Alex Burgess Assistant Coach amburgess2@ualr.edu
+
+25. Nathan Townsend
+   Email: ntownsend@ualr.edu
+   Username: ntownsend
+   Original line: Nathan Townsend Head Coach ntownsend@ualr.edu
+
+26. Bailey Hunter
+   Email: bhunter3@ualr.edu
+   Username: bhunter3
+   Original line: Bailey Hunter Assistant Coach bhunter3@ualr.edu
+
+27. Van Compton
+   Email: vxcompton@ualr.edu
+   Username: vxcompton
+   Original line: Van Compton Head Coach vxcompton@ualr.edu 501-607-
+
+28. Jorge Martinez
+   Email: jmartinez1@ualr.edu
+   Username: jmartinez1
+   Original line: Jorge Martinez Associate Head Coach jmartinez1@ualr.edu 501-517-
+
+29. James Chretien
+   Email: jchretien@ualr.edu
+   Username: jchretien
+   Original line: James Chretien Assistant Coach jchretien@ualr.edu
+
+30. Neil Erisman
+   Email: nerisman@ualr.edu
+   Username: nerisman
+   Original line: Neil Erisman Head Coach nerisman@ualr.edu
+
+31. Javier Maldonado
+   Email: jmaldonado@ualr.edu
+   Username: jmaldonado
+   Original line: Javier Maldonado Associate Head Coach jmaldonado@ualr.edu 501-680-
+
+32. Albert White
+   Email: acwhite3@ualr.edu
+   Username: acwhite3
+   Original line: Albert White Assistant Coach acwhite3@ualr.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Cody Duvall Assistant Athletic Performance Coach mcduvall@ualr.edu 501-680-
+• Bradley Kiser Assistant Athletic Performance Coach bkiser@ualr.edu
+• Trinity Caver Dance Team Coach tkcaver@ualr.edu 870-665-
+• Chris Curry Head Coach baseball@ualr.edu 501-916-
+• Matt Parker Assistant Coach/Recruiting Coordinator mparker3@ualr.edu 501-916-
+• Charles Gravett Assistant Coach cgravett@ualr.edu
+• Evan Lee Pitching Coach exlee2@ualr.edu
+• Darrell Walker Head Coach dwalker@ualr.edu
+• Charles Baker Assistant Coach cebaker2@ualr.edu
+• Charles Thomas Assistant Coach cthomasii@ualr.edu
+• Evan Eustachy Assistant Coach geustachy@ualr.edu
+• Tyler Milchman Assistant Coach - Director of Basketball Operations tmilchman@ualr.edu
+• Steve Wiedower Head Coach slwiedower@ualr.edu
+• Alicia Cash Assistant Coach alcash@ualr.edu
+• Bobby Brasel Assistant Coach bgbrasel@ualr.edu
+• Chastity Reed Assistant Coach cxreed1@ualr.edu
+• Kim Sitzmann Assistant Coach - Director of Operations and Player ksitzmann1@ualr.edu
+• Will Kendall Assistant Coach wkendall@ualr.edu 804-971-
+• Jordyn Naylon Head Cross Country Coach / Assistant Track Coach jnaylon@ualr.edu 585-455-
+• Dion Murombe Assistant Coach/Recruiting Coordinator mdmurombe@ualr.edu
+• Austin Eoff Head Coach ateoff@ualr.edu
+• Jenna Birch Head Coach jlwylie@ualr.edu 501-680-
+• Kelly Farrell Head Coach kafarrell@ualr.edu 516-476-
+• Alex Burgess Assistant Coach amburgess2@ualr.edu
+• Nathan Townsend Head Coach ntownsend@ualr.edu
+• Bailey Hunter Assistant Coach bhunter3@ualr.edu
+• Van Compton Head Coach vxcompton@ualr.edu 501-607-
+• Jorge Martinez Associate Head Coach jmartinez1@ualr.edu 501-517-
+• James Chretien Assistant Coach jchretien@ualr.edu
+• Neil Erisman Head Coach nerisman@ualr.edu
+• Javier Maldonado Associate Head Coach jmaldonado@ualr.edu 501-680-
+• Albert White Assistant Coach acwhite3@ualr.edu

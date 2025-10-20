@@ -1,0 +1,161 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:52
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Frank Craska
+   Email: fcraska@caltech.edu
+   Username: fcraska
+   Phone: (626) 395-3263
+   Original line: Frank Craska Head Coach (626) 395-3263 fcraska@caltech.edu
+
+2. Oliver Eslinger
+   Email: hoopitup@caltech.edu
+   Username: hoopitup
+   Phone: (626) 395-3264
+   Original line: Dr. Oliver Eslinger Head Coach (626) 395-3264 hoopitup@caltech.edu
+
+3. Seamus McKiernan
+   Email: seamusm@caltech.edu
+   Username: seamusm
+   Original line: Seamus McKiernan Assistant Coach seamusm@caltech.edu
+
+4. Annie Tarakchian
+   Email: atarakch@caltech.edu
+   Username: atarakch
+   Phone: (626) 395-3674
+   Original line: Annie Tarakchian Head Coach (626) 395-3674 atarakch@caltech.edu
+
+5. Madison Quan
+   Email: mquan@caltech.edu
+   Username: mquan
+   Original line: Madison Quan Interim Head Coach mquan@caltech.edu
+
+6. Kelli Blake
+   Email: krblake@caltech.edu
+   Username: krblake
+   Phone: (626) 395-3260
+   Original line: Kelli Blake Head Coach (626) 395-3260 krblake@caltech.edu
+
+7. Chelsea Groves
+   Email: cgroves@caltech.edu
+   Username: cgroves
+   Original line: Chelsea Groves Assistant Coach cgroves@caltech.edu
+
+8. Duncan Gillis
+   Email: dgillis@caltech.edu
+   Username: dgillis
+   Phone: (626) 395-3266
+   Original line: Duncan Gillis Head Coach (626) 395-3266 dgillis@caltech.edu
+
+9. Rockne DeCoster
+   Email: rockne@caltech.edu
+   Username: rockne
+   Original line: Rockne DeCoster Assistant Coach rockne@caltech.edu
+
+10. Scott Wilson
+   Email: sdwilson@caltech.edu
+   Username: sdwilson
+   Phone: (626) 395-1296
+   Original line: Scott Wilson Head Coach (626) 395-1296 sdwilson@caltech.edu
+
+11. Andrew Brabson
+   Email: abrabson@caltech.edu
+   Username: abrabson
+   Phone: (626) 395-6853
+   Original line: Andrew Brabson Head Coach (626) 395-6853 abrabson@caltech.edu
+
+12. Frances Jobes
+   Email: fjobes@caltech.edu
+   Username: fjobes
+   Original line: Frances Jobes Diving Coach fjobes@caltech.edu
+
+13. Alys Lindsay
+   Email: alindsay@caltech.edu
+   Username: alindsay
+   Original line: Alys Lindsay Assistant Swim Coach alindsay@caltech.edu
+
+14. Adam Clark
+   Email: aclark2@caltech.edu
+   Username: aclark2
+   Phone: (626) 395-3247
+   Original line: Adam Clark Head Coach (626) 395-3247 aclark2@caltech.edu
+
+15. Kelli Blake
+   Email: krblake@caltech.edu
+   Username: krblake
+   Phone: (626) 395-3260
+   Original line: Kelli Blake Head Coach (626) 395-3260 krblake@caltech.edu
+
+16. Cedric Hill
+   Email: chill@caltech.edu
+   Username: chill
+   Original line: Cedric Hill Assistant Coach chill@caltech.edu
+
+17. Chelsea Groves
+   Email: cgroves@caltech.edu
+   Username: cgroves
+   Original line: Chelsea Groves Assistant Coach cgroves@caltech.edu
+
+18. Tom Gardner
+   Email: tgardner@caltech.edu
+   Username: tgardner
+   Phone: (626) 395-4375
+   Original line: Tom Gardner Head Coach (626) 395-4375 tgardner@caltech.edu
+
+19. Matt Delotto
+   Email: mdelotto@caltech.edu
+   Username: mdelotto
+   Original line: Matt Delotto Assistant Coach mdelotto@caltech.edu
+
+20. Jon Bonafede
+   Email: bonafede@caltech.edu
+   Username: bonafede
+   Phone: (626) 395-3261
+   Original line: Jon Bonafede Head Coach (626) 395-3261 bonafede@caltech.edu
+
+21. Rayne Lopez
+   Email: rnlopez@caltech.edu
+   Username: rnlopez
+   Original line: Rayne Lopez Assistant Coach rnlopez@caltech.edu
+
+22. Jon Bonafede
+   Email: bonafede@caltech.edu
+   Username: bonafede
+   Phone: (626) 395-3261
+   Original line: Jon Bonafede Head Coach (626) 395-3261 bonafede@caltech.edu
+
+23. Rayne Lopez
+   Email: rnlopez@caltech.edu
+   Username: rnlopez
+   Original line: Rayne Lopez Assistant Coach rnlopez@caltech.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Frank Craska Head Coach (626) 395-3263 fcraska@caltech.edu
+• Dr. Oliver Eslinger Head Coach (626) 395-3264 hoopitup@caltech.edu
+• Seamus McKiernan Assistant Coach seamusm@caltech.edu
+• Annie Tarakchian Head Coach (626) 395-3674 atarakch@caltech.edu
+• Madison Quan Interim Head Coach mquan@caltech.edu
+• Kelli Blake Head Coach (626) 395-3260 krblake@caltech.edu
+• Chelsea Groves Assistant Coach cgroves@caltech.edu
+• Duncan Gillis Head Coach (626) 395-3266 dgillis@caltech.edu
+• Rockne DeCoster Assistant Coach rockne@caltech.edu
+• Scott Wilson Head Coach (626) 395-1296 sdwilson@caltech.edu
+• Andrew Brabson Head Coach (626) 395-6853 abrabson@caltech.edu
+• Frances Jobes Diving Coach fjobes@caltech.edu
+• Alys Lindsay Assistant Swim Coach alindsay@caltech.edu
+• Adam Clark Head Coach (626) 395-3247 aclark2@caltech.edu
+• Kelli Blake Head Coach (626) 395-3260 krblake@caltech.edu
+• Cedric Hill Assistant Coach chill@caltech.edu
+• Chelsea Groves Assistant Coach cgroves@caltech.edu
+• Tom Gardner Head Coach (626) 395-4375 tgardner@caltech.edu
+• Matt Delotto Assistant Coach mdelotto@caltech.edu
+• Jon Bonafede Head Coach (626) 395-3261 bonafede@caltech.edu
+• Rayne Lopez Assistant Coach rnlopez@caltech.edu
+• Jon Bonafede Head Coach (626) 395-3261 bonafede@caltech.edu
+• Rayne Lopez Assistant Coach rnlopez@caltech.edu

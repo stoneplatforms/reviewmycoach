@@ -1,0 +1,269 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:42
+============================================================
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Josh Thompson
+   Email: jlthompson@king.edu
+   Username: jlthompson
+   Original line: Josh Thompson Assistant Athletic Director/Head Coach 423-652- jlthompson@king.edu
+
+2. Kyleigh Payne
+   Email: kmpayne@king.edu
+   Username: kmpayne
+   Original line: Kyleigh Payne Head Coach/Diversity & Inclusion Designee 423-652- kmpayne@king.edu
+
+3. Joye Levendusky
+   Email: jlevendusky@king.edu
+   Username: jlevendusky
+   Original line: Joye Levendusky Director of Strength & Conditioning/Assistant Coach jlevendusky@king.edu
+
+4. Claire Sexton
+   Email: csexton@king.edu
+   Username: csexton
+   Original line: Claire Sexton '22 Head Coach csexton@king.edu
+
+5. Brad Hill
+   Email: Jbhill1@king.edu
+   Username: Jbhill1
+   Original line: Brad Hill Head Coach 423-652- Jbhill1@king.edu
+
+6. Ray Berry
+   Email: rnberry1@king.edu
+   Username: rnberry1
+   Original line: Ray Berry '24 Pitching Coach rnberry1@king.edu
+
+7. Cullen Glosson
+   Email: cglosson@king.edu
+   Username: cglosson
+   Original line: Cullen Glosson Recruiting Coordinator/Assistant Coach cglosson@king.edu
+
+8. Jason Gillespie
+   Email: jmgillespie@king.edu
+   Username: jmgillespie
+   Original line: Jason Gillespie Head Coach 423-652- jmgillespie@king.edu
+
+9. Scot Hundt
+   Email: shundt@king.edu
+   Username: shundt
+   Original line: Scot Hundt Assistant Coach shundt@king.edu
+
+10. Tyler Kipp
+   Email: tbkipp1@king.edu
+   Username: tbkipp1
+   Original line: Tyler Kipp Assistant Coach tbkipp1@king.edu
+
+11. Josh Thompson
+   Email: jlthompson@king.edu
+   Username: jlthompson
+   Original line: Josh Thompson Assistant Athletic Director/Head Coach 423-652- jlthompson@king.edu
+
+12. Reagan McCray
+   Email: rmccray@king.edu
+   Username: rmccray
+   Original line: Reagan McCray Assistant Coach rmccray@king.edu
+
+13. David Tolbert
+   Email: datolbert1@king.edu
+   Username: datolbert1
+   Original line: David Tolbert '21 Head Coach datolbert1@king.edu
+
+14. Jack Brunecz
+   Email: jebrunecz@king.edu
+   Username: jebrunecz
+   Original line: Jack Brunecz Head Coach 423-652- jebrunecz@king.edu
+
+15. Delvonte Dixon
+   Email: dadixon@king.edu
+   Username: dadixon
+   Original line: Delvonte Dixon Assistant Coach dadixon@king.edu
+
+16. Alan Sparks
+   Email: awsparks@king.edu
+   Username: awsparks
+   Original line: Alan Sparks Head Coach 423-652- awsparks@king.edu
+
+17. Sam Morrison
+   Email: smorrison@king.edu
+   Username: smorrison
+   Original line: Sam Morrison Assistant Coach smorrison@king.edu
+
+18. Jarrett Joles
+   Email: jjoles1@king.edu
+   Username: jjoles1
+   Original line: Jarrett Joles '25 Director and Head Coach of Esports jjoles1@king.edu
+
+19. Trevor Cameron
+   Email: tcameron@king.edu
+   Username: tcameron
+   Original line: Trevor Cameron Head Coach tcameron@king.edu
+
+20. Brian Kamm
+   Email: btkamm@king.edu
+   Username: btkamm
+   Original line: Brian Kamm Head Coach 423-652- btkamm@king.edu
+
+21. Mark Bell
+   Email: mbell@king.edu
+   Username: mbell
+   Original line: Mark Bell Head Coach 423-652- mbell@king.edu
+
+22. Louis Sharp
+   Email: lsharp@king.edu
+   Username: lsharp
+   Original line: Louis Sharp Assistant Coach lsharp@king.edu
+
+23. Mate Lengyel
+   Email: mblengyel1@king.edu
+   Username: mblengyel1
+   Original line: Mate Lengyel Assistant Coach mblengyel1@king.edu
+
+24. Kyle Campbell
+   Email: kcampbell2@king.edu
+   Username: kcampbell2
+   Original line: Kyle Campbell Head Coach kcampbell2@king.edu
+
+25. Abigail Shull
+   Email: ashull@king.edu
+   Username: ashull
+   Original line: Abigail Shull Assistant Coach ashull@king.edu
+
+26. Kyleigh Payne
+   Email: kmpayne@king.edu
+   Username: kmpayne
+   Original line: Kyleigh Payne Head Coach/Diversity & Inclusion Designee 423-652- kmpayne@king.edu
+
+27. Zoya Robbins
+   Email: zcrobbins@king.edu
+   Username: zcrobbins
+   Original line: Zoya Robbins Assistant Coach zcrobbins@king.edu
+
+28. Kendra Nelson
+   Email: kmnelson@king.edu
+   Username: kmnelson
+   Original line: Kendra Nelson Cheer Head Coach kmnelson@king.edu
+
+29. Juan Somoza
+   Email: jcsomoza1@king.edu
+   Username: jcsomoza1
+   Original line: Juan Somoza '19 Head Coach 423-652- jcsomoza1@king.edu
+
+30. Taylor Graalman
+   Email: tsgraalman@king.edu
+   Username: tsgraalman
+   Original line: Taylor Graalman Head Coach tsgraalman@king.edu
+
+31. Jack Brunecz
+   Email: jebrunecz@king.edu
+   Username: jebrunecz
+   Original line: Jack Brunecz Head Coach 423-652- jebrunecz@king.edu
+
+32. Maegan Henry
+   Email: mahenry@king.edu
+   Username: mahenry
+   Original line: Maegan Henry '15 Assistant Coach (throws) 423-652- mahenry@king.edu
+
+33. Delvonte Dixon
+   Email: dadixon@king.edu
+   Username: dadixon
+   Original line: Delvonte Dixon Assistant Coach dadixon@king.edu
+
+34. Justin Newring
+   Email: jnewring@king.edu
+   Username: jnewring
+   Original line: Justin Newring '16, '17 Assistant Coach jnewring@king.edu
+
+35. Alan Sparks
+   Email: awsparks@king.edu
+   Username: awsparks
+   Original line: Alan Sparks Head Coach 423-652- awsparks@king.edu
+
+36. Sam Morrison
+   Email: smorrison@king.edu
+   Username: smorrison
+   Original line: Sam Morrison Assistant Coach smorrison@king.edu
+
+37. Marquis Clark
+   Email: mdclark1@king.edu
+   Username: mdclark1
+   Original line: Marquis Clark Head Coach 423-652- mdclark1@king.edu
+
+38. Haley Price
+   Email: hprice@king.edu
+   Username: hprice
+   Original line: Haley Price Head Coach 423-652- hprice@king.edu
+
+39. Blaze Shade
+   Email: rbshade@king.edu
+   Username: rbshade
+   Original line: Blaze Shade Head Coach 423-652- rbshade@king.edu
+
+40. Jared Prough
+   Email: jdprough@king.edu
+   Username: jdprough
+   Original line: Jared Prough Assistant Coach jdprough@king.edu
+
+41. Bret Fry
+   Email: bwfry@king.edu
+   Username: bwfry
+   Original line: Bret Fry Head Coach bwfry@king.edu
+
+42. Mason Gray
+   Email: mgray1@king.edu
+   Username: mgray1
+   Original line: Mason Gray Assistant Coach mgray1@king.edu
+
+43. Joye Levendusky
+   Email: jlevendusky@king.edu
+   Username: jlevendusky
+   Original line: Joye Levendusky Director of Strength & Conditioning/Assistant Coach jlevendusky@king.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Josh Thompson Assistant Athletic Director/Head Coach 423-652- jlthompson@king.edu
+• Kyleigh Payne Head Coach/Diversity & Inclusion Designee 423-652- kmpayne@king.edu
+• Joye Levendusky Director of Strength & Conditioning/Assistant Coach jlevendusky@king.edu
+• Claire Sexton '22 Head Coach csexton@king.edu
+• Brad Hill Head Coach 423-652- Jbhill1@king.edu
+• Ray Berry '24 Pitching Coach rnberry1@king.edu
+• Cullen Glosson Recruiting Coordinator/Assistant Coach cglosson@king.edu
+• Jason Gillespie Head Coach 423-652- jmgillespie@king.edu
+• Scot Hundt Assistant Coach shundt@king.edu
+• Tyler Kipp Assistant Coach tbkipp1@king.edu
+• Josh Thompson Assistant Athletic Director/Head Coach 423-652- jlthompson@king.edu
+• Reagan McCray Assistant Coach rmccray@king.edu
+• David Tolbert '21 Head Coach datolbert1@king.edu
+• Jack Brunecz Head Coach 423-652- jebrunecz@king.edu
+• Delvonte Dixon Assistant Coach dadixon@king.edu
+• Alan Sparks Head Coach 423-652- awsparks@king.edu
+• Sam Morrison Assistant Coach smorrison@king.edu
+• Jarrett Joles '25 Director and Head Coach of Esports jjoles1@king.edu
+• Trevor Cameron Head Coach tcameron@king.edu
+• Brian Kamm Head Coach 423-652- btkamm@king.edu
+• Mark Bell Head Coach 423-652- mbell@king.edu
+• Louis Sharp Assistant Coach lsharp@king.edu
+• Mate Lengyel Assistant Coach mblengyel1@king.edu
+• Kyle Campbell Head Coach kcampbell2@king.edu
+• Abigail Shull Assistant Coach ashull@king.edu
+• Kyleigh Payne Head Coach/Diversity & Inclusion Designee 423-652- kmpayne@king.edu
+• Zoya Robbins Assistant Coach zcrobbins@king.edu
+• Kendra Nelson Cheer Head Coach kmnelson@king.edu
+• Juan Somoza '19 Head Coach 423-652- jcsomoza1@king.edu
+• Taylor Graalman Head Coach tsgraalman@king.edu
+• Jack Brunecz Head Coach 423-652- jebrunecz@king.edu
+• Maegan Henry '15 Assistant Coach (throws) 423-652- mahenry@king.edu
+• Delvonte Dixon Assistant Coach dadixon@king.edu
+• Justin Newring '16, '17 Assistant Coach jnewring@king.edu
+• Alan Sparks Head Coach 423-652- awsparks@king.edu
+• Sam Morrison Assistant Coach smorrison@king.edu
+• Marquis Clark Head Coach 423-652- mdclark1@king.edu
+• Haley Price Head Coach 423-652- hprice@king.edu
+• Blaze Shade Head Coach 423-652- rbshade@king.edu
+• Jared Prough Assistant Coach jdprough@king.edu
+• Bret Fry Head Coach bwfry@king.edu
+• Mason Gray Assistant Coach mgray1@king.edu
+• Joye Levendusky Director of Strength & Conditioning/Assistant Coach jlevendusky@king.edu

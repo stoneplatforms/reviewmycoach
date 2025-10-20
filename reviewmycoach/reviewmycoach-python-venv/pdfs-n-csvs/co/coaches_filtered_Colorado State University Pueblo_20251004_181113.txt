@@ -1,0 +1,185 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:14
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Bobby Applegate
+   Email: robert.applegate@csupueblo.edu
+   Username: robert.applegate
+   Original line: Bobby Applegate Head Baseball Coach robert.applegate@csupueblo.edu
+
+2. Steve Serratore
+   Email: steven.serratore@csupueblo.edu
+   Username: steven.serratore
+   Original line: Steve Serratore Assistant Baseball Coach steven.serratore@csupueblo.edu
+
+3. Jared Morton
+   Email: j.morton@csupueblo.edu
+   Username: j.morton
+   Original line: Jared Morton Pitching Coach j.morton@csupueblo.edu
+
+4. Zach Ruebesam
+   Email: zach.ruebesam@csupueblo.edu
+   Username: zach.ruebesam
+   Original line: Zach Ruebesam Head Men's Basketball Coach (719) 549- zach.ruebesam@csupueblo.edu
+
+5. Mike Ranson
+   Email: mf.ranson@csupueblo.edu
+   Username: mf.ranson
+   Original line: Mike Ranson Assistant Men's Basketball Coach mf.ranson@csupueblo.edu
+
+6. Tommie Johnson
+   Email: tommie.johnson@csupueblo.edu
+   Username: tommie.johnson
+   Original line: Tommie Johnson Head Women's Basketball Coach (719) 549- tommie.johnson@csupueblo.edu
+
+7. Taylor Proctor
+   Email: taylor.proctor@csupueblo.edu
+   Username: taylor.proctor
+   Original line: Taylor Proctor Assistant Women's Basketball Coach taylor.proctor@csupueblo.edu
+
+8. Vonnie Taibi
+   Email: vonnie.taibi@csupueblo.edu
+   Username: vonnie.taibi
+   Original line: Vonnie Taibi Head Cheer/Dance Team Coach (719) 406- vonnie.taibi@csupueblo.edu
+
+9. Matt Morris
+   Email: matthew.morris@csupueblo.edu
+   Username: matthew.morris
+   Original line: Matt Morris Head Men's & Women's Track & Field/Cross Country Coach (719) 549- matthew.morris@csupueblo.edu
+
+10. Megan Patterson
+   Email: megan.patterson@csupueblo.edu
+   Username: megan.patterson
+   Original line: Megan Patterson Assistant Coach/Throws megan.patterson@csupueblo.edu
+
+11. Josh Casias
+   Email: joshua.casias@csupueblo.edu
+   Username: joshua.casias
+   Original line: Josh Casias Assistant Coach/Sprints joshua.casias@csupueblo.edu
+
+12. Chris Flynn
+   Email: christopher.flynn@csupueblo.edu
+   Username: christopher.flynn
+   Original line: Chris Flynn Assistant Coach/Jumps christopher.flynn@csupueblo.edu
+
+13. Mac Alexander
+   Email: mac.alexander@csupueblo.edu
+   Username: mac.alexander
+   Original line: Mac Alexander Associate Head Coach/Defensive Backs/Special Teams Coordinator mac.alexander@csupueblo.edu
+
+14. Josh Koschke
+   Email: josh.koschke@csupueblo.edu
+   Username: josh.koschke
+   Original line: Josh Koschke Head Men's Golf Coach (719) 549- josh.koschke@csupueblo.edu
+
+15. Tammy Lim
+   Email: Tammy.lim@csupueblo.edu
+   Username: Tammy.lim
+   Original line: Tammy Lim Head Women's Golf Coach Tammy.lim@csupueblo.edu
+
+16. Taylor Ward
+   Email: taylor.christensen@csupueblo.edu
+   Username: taylor.christensen
+   Original line: Taylor Ward Head Women's Lacrosse Coach taylor.christensen@csupueblo.edu
+
+17. Samantha LaBella
+   Email: samantha.labella@csupueblo.edu
+   Username: samantha.labella
+   Original line: Samantha LaBella Assistant Coach samantha.labella@csupueblo.edu
+
+18. Nick Blackwell
+   Email: nicholas.blackwell@csupueblo.edu
+   Username: nicholas.blackwell
+   Original line: Nick Blackwell Head Men's Soccer Coach (502) 263- nicholas.blackwell@csupueblo.edu
+
+19. Mariano Fazio
+   Email: mariano.fazio@csupueblo.edu
+   Username: mariano.fazio
+   Original line: Mariano Fazio Assistant Men's Soccer Coach mariano.fazio@csupueblo.edu
+
+20. John Constable
+   Email: john.constable@csupueblo.edu
+   Username: john.constable
+   Original line: John Constable Head Women's Soccer Coach (719) 549- john.constable@csupueblo.edu
+
+21. Chase Vosvick
+   Email: chase.vosvick@csupueblo.edu
+   Username: chase.vosvick
+   Original line: Chase Vosvick Assistant Coach chase.vosvick@csupueblo.edu
+
+22. Bianca Duran
+   Email: bianca.duran@csupueblo.edu
+   Username: bianca.duran
+   Original line: Bianca Duran Head Softball Coach (719) 549- bianca.duran@csupueblo.edu
+
+23. Ben Suchon
+   Email: benjamin.suchon@csupueblo.edu
+   Username: benjamin.suchon
+   Original line: Ben Suchon Softball Assistant Coach benjamin.suchon@csupueblo.edu
+
+24. Susanne Divelbiss
+   Email: susanne.divelbiss@csupueblo.edu
+   Username: susanne.divelbiss
+   Original line: Susanne Divelbiss Head Swimming and Diving Coach (719) 248- susanne.divelbiss@csupueblo.edu
+
+25. Chris Roman
+   Email: christopher.roman@csupueblo.edu
+   Username: christopher.roman
+   Original line: Chris Roman Head Women's Tennis Coach christopher.roman@csupueblo.edu
+
+26. Jordan Bruere
+   Email: jordan.bruere@csupueblo.edu
+   Username: jordan.bruere
+   Original line: Jordan Bruere Head Volleyball Coach (719) 549- jordan.bruere@csupueblo.edu
+
+27. Brilane Manchego
+   Email: brilane.manchego@csupueblo.edu
+   Username: brilane.manchego
+   Original line: Brilane Manchego Assistant Volleyball Coach brilane.manchego@csupueblo.edu
+
+28. Dax Charles
+   Email: dax.charles@csupueblo.edu
+   Username: dax.charles
+   Original line: Dax Charles Head Wrestling Coach (719) 549- dax.charles@csupueblo.edu
+
+29. Trey Page
+   Email: jack.page@csupueblo.edu
+   Username: jack.page
+   Original line: Trey Page Assistant Coach (719) 549- jack.page@csupueblo.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Bobby Applegate Head Baseball Coach robert.applegate@csupueblo.edu
+• Steve Serratore Assistant Baseball Coach steven.serratore@csupueblo.edu
+• Jared Morton Pitching Coach j.morton@csupueblo.edu
+• Zach Ruebesam Head Men's Basketball Coach (719) 549- zach.ruebesam@csupueblo.edu
+• Mike Ranson Assistant Men's Basketball Coach mf.ranson@csupueblo.edu
+• Tommie Johnson Head Women's Basketball Coach (719) 549- tommie.johnson@csupueblo.edu
+• Taylor Proctor Assistant Women's Basketball Coach taylor.proctor@csupueblo.edu
+• Vonnie Taibi Head Cheer/Dance Team Coach (719) 406- vonnie.taibi@csupueblo.edu
+• Matt Morris Head Men's & Women's Track & Field/Cross Country Coach (719) 549- matthew.morris@csupueblo.edu
+• Megan Patterson Assistant Coach/Throws megan.patterson@csupueblo.edu
+• Josh Casias Assistant Coach/Sprints joshua.casias@csupueblo.edu
+• Chris Flynn Assistant Coach/Jumps christopher.flynn@csupueblo.edu
+• Mac Alexander Associate Head Coach/Defensive Backs/Special Teams Coordinator mac.alexander@csupueblo.edu
+• Josh Koschke Head Men's Golf Coach (719) 549- josh.koschke@csupueblo.edu
+• Tammy Lim Head Women's Golf Coach Tammy.lim@csupueblo.edu
+• Taylor Ward Head Women's Lacrosse Coach taylor.christensen@csupueblo.edu
+• Samantha LaBella Assistant Coach samantha.labella@csupueblo.edu
+• Nick Blackwell Head Men's Soccer Coach (502) 263- nicholas.blackwell@csupueblo.edu
+• Mariano Fazio Assistant Men's Soccer Coach mariano.fazio@csupueblo.edu
+• John Constable Head Women's Soccer Coach (719) 549- john.constable@csupueblo.edu
+• Chase Vosvick Assistant Coach chase.vosvick@csupueblo.edu
+• Bianca Duran Head Softball Coach (719) 549- bianca.duran@csupueblo.edu
+• Ben Suchon Softball Assistant Coach benjamin.suchon@csupueblo.edu
+• Susanne Divelbiss Head Swimming and Diving Coach (719) 248- susanne.divelbiss@csupueblo.edu
+• Chris Roman Head Women's Tennis Coach christopher.roman@csupueblo.edu
+• Jordan Bruere Head Volleyball Coach (719) 549- jordan.bruere@csupueblo.edu
+• Brilane Manchego Assistant Volleyball Coach brilane.manchego@csupueblo.edu
+• Dax Charles Head Wrestling Coach (719) 549- dax.charles@csupueblo.edu
+• Trey Page Assistant Coach (719) 549- jack.page@csupueblo.edu

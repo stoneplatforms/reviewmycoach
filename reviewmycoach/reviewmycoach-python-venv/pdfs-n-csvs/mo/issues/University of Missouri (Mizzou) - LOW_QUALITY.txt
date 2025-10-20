@@ -1,0 +1,7 @@
+Low-quality parsing detected in University of Missouri (Mizzou).pdf.
+Sample problematic entries (5):
+- Cheerleading Coach & Mascot Coordinator timberlakecs@missouri.edu
+- Golden Girls Coach bdebord@missouri.edu
+- Assistant Coach jamiesont@missouri.edu
+- Assistant Coach bjlf22@missouri.edu
+- Assistant Coach carballoj@missouri.edu

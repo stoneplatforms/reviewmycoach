@@ -1,0 +1,177 @@
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+-> Reading CSV: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/id/Idaho College Athletics (1).csv
+-> Output PDFs to: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/id
+
+Printing completed in 46.5s
+Success: 6 | Skipped: 0 | Errors: 0
+
+Resolved URLs used:
+- Northwest Nazarene University.pdf: https://nnusports.com/staff-directory?print=true
+- Lewis-Clark State College.pdf: https://lcwarriors.com/staff-directory?print=true
+- University of Idaho.pdf: https://govandals.com/staff-directory?print=true
+- Idaho State University.pdf: https://isubengals.com/staff-directory?print=true
+- College of Idaho.pdf: https://yoteathletics.com/staff-directory?print=true
+- Boise State University.pdf: https://broncosports.com/staff-directory/print
+
+Parsing printed PDFs and preparing upload entries...
+✔ Total coach entries prepared: 155
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Jarod Gonzales (jarodgonzales@my.nnu.edu) → coaches/jarodgonzales
+[DRY RUN] Would create unclaimed coach profile: Todd Johnston (toddjohnston@nnu.edu) → coaches/toddjohnston | Phone: (208) 467-8860
+[DRY RUN] Would create unclaimed coach profile: Joe Schaefer (josephschaefer@nnu.edu) → coaches/josephschaefer | Phone: (208) 467-8655
+[DRY RUN] Would create unclaimed coach profile: Matt Hollod (mhollod@nnu.edu) → coaches/mhollod | Phone: (208) 467-8351
+[DRY RUN] Would create unclaimed coach profile: Kyle Ethridge (kethridge@my.nnu.edu) → coaches/kethridge
+[DRY RUN] Would create unclaimed coach profile: Cole Calnon (CCalnon@my.nnu.edu) → coaches/CCalnon
+[DRY RUN] Would create unclaimed coach profile: Jason Bell (JasonBell@my.nnu.edu) → coaches/JasonBell
+[DRY RUN] Would create unclaimed coach profile: Jon Hawkins (mensbasketball@nnu.edu) → coaches/mensbasketball | Phone: (208) 467-8858
+[DRY RUN] Would create unclaimed coach profile: Chris Dendinger (cdendinger@nnu.edu) → coaches/cdendinger | Phone: (208) 467-8304
+[DRY RUN] Would create unclaimed coach profile: Aaron Cufr (acufr@nnu.edu) → coaches/acufr
+[DRY RUN] Would create unclaimed coach profile: Steve Steele (ssteele@nnu.edu) → coaches/ssteele | Phone: (208) 467-8544
+[DRY RUN] Would create unclaimed coach profile: Talys Toppen (tjurdana@nnu.edu) → coaches/tjurdana
+[DRY RUN] Would create unclaimed coach profile: Elpidia Allen (eallen@nnu.edu) → coaches/eallen
+[DRY RUN] Would create unclaimed coach profile: Fred Sutton (fsutton@nnu.edu) → coaches/fsutton | Phone: (208) 467-8430
+[DRY RUN] Would create unclaimed coach profile: Cole Evarts (cevarts@my.nnu.edu) → coaches/cevarts
+[DRY RUN] Would create unclaimed coach profile: Tom Blanchard (tblanchard@nnu.edu) → coaches/tblanchard | Phone: (208) 598-1552
+[DRY RUN] Would create unclaimed coach profile: Carson Plant (cplant@nnu.edu) → coaches/cplant | Phone: (208) 859-4376
+[DRY RUN] Would create unclaimed coach profile: Tom Otte (totte@nnu.edu) → coaches/totte | Phone: (208) 869-1710
+[DRY RUN] Would create unclaimed coach profile: Jackson Rice (jacksonrice@nnu.edu) → coaches/jacksonrice
+[DRY RUN] Would create unclaimed coach profile: Cade Brown (cadebrown@nnu.edu) → coaches/cadebrown
+[DRY RUN] Would create unclaimed coach profile: Nickee Brumbaugh (nbrumbaugh@nnu.edu) → coaches/nbrumbaugh
+[DRY RUN] Would create unclaimed coach profile: James Williamson (jameswilliamson@nnu.edu) → coaches/jameswilliamson | Phone: (208) 467-8313
+[DRY RUN] Would create unclaimed coach profile: Julio Castillo (jcastillo@nnu.edu) → coaches/jcastillo | Phone: (208) 467-8043
+[DRY RUN] Would create unclaimed coach profile: Dane Manley (dsmanley@nnu.edu) → coaches/dsmanley | Phone: (208) 467-8042
+[DRY RUN] Would create unclaimed coach profile: Alan Soto (asotoortiz@my.nnu.edu) → coaches/asotoortiz
+[DRY RUN] Would create unclaimed coach profile: Jenny Jaggard (jjaggard@nnu.edu) → coaches/jjaggard | Phone: (208) 467-8862
+[DRY RUN] Would create unclaimed coach profile: Hannah Holm (hannahholm@my.nnu.edu) → coaches/hannahholm | Phone: (208) 467-8025
+[DRY RUN] Would create unclaimed coach profile: Mitchell Littleton (mlittleton@nnu.edu) → coaches/mlittleton
+[DRY RUN] Would create unclaimed coach profile: Allison Foster (AllisonWolf@my.nnu.edu) → coaches/AllisonWolf
+[DRY RUN] Would create unclaimed coach profile: Josie Brence (JBrence@my.nnu.edu) → coaches/JBrence
+[DRY RUN] Would create unclaimed coach profile: Rich Wagner (rmwagner@nnu.edu) → coaches/rmwagner | Phone: (208) 467-8868
+[DRY RUN] Would create unclaimed coach profile: Hallie Swanson (hswanson@nnu.edu) → coaches/hswanson | Phone: (208) 467-8348
+[DRY RUN] Would create unclaimed coach profile: Brittany Genuardi (bgenuardi@nnu.edu) → coaches/bgenuardi | Phone: (208) 467-8348
+[DRY RUN] Would create unclaimed coach profile: Tori Hensley (torihensley18@gmail.com) → coaches/torihensley18
+[DRY RUN] Would create unclaimed coach profile: Emilie Hernandez (EmilieHernandez@my.nnu.edu) → coaches/EmilieHernandez
+[DRY RUN] Would create unclaimed coach profile: Kelli Rich (kellirich@my.nnu.edu) → coaches/kellirich
+[DRY RUN] Would create unclaimed coach profile: Brenna Higdon (bhigdon@nnu.edu) → coaches/bhigdon
+[DRY RUN] Would create unclaimed coach profile: Greg Mitchell (gregorymitchell@nnu.edu) → coaches/gregorymitchell | Phone: (208) 467-8342
+[DRY RUN] Would create unclaimed coach profile: Jeff Eastman (jeastman@nnu.edu) → coaches/jeastman | Phone: (208) 467-8397
+[DRY RUN] Would create unclaimed coach profile: Dakota Hutton-King (dhuttonking@nnu.edu) → coaches/dhuttonking
+[DRY RUN] Would create unclaimed coach profile: Jake Knight (jakeknight@nnu.edu) → coaches/jakeknight
+[DRY RUN] Would create unclaimed coach profile: Doug English (denglish@nnu.edu) → coaches/denglish | Phone: (208) 467-8857
+[DRY RUN] Would create unclaimed coach profile: Alli Rust (AllisonRust@nnu.edu) → coaches/AllisonRust | Phone: (208) 467-8702
+[DRY RUN] Would create unclaimed coach profile: Jeremiah Robbins (jwrobbins@lcsc.edu) → coaches/jwrobbins | Phone: (208) 792-2272
+[DRY RUN] Would create unclaimed coach profile: Billy Silvestri (wbsilvestri@lcsc.edu) → coaches/wbsilvestri | Phone: (208) 792-2279
+[DRY RUN] Would create unclaimed coach profile: Brandon Vial (bjvial@lcsc.edu) → coaches/bjvial
+[DRY RUN] Would create unclaimed coach profile: Austin Johnson (abjohnson@lcsc.edu) → coaches/abjohnson | Phone: (208) 792-2865
+[DRY RUN] Would create unclaimed coach profile: CJ Johnson (cjjohnson@lcsc.edu) → coaches/cjjohnson | Phone: (208) 792-2271
+[DRY RUN] Would create unclaimed coach profile: Caden Lewis (cjlewis@lcsc.edu) → coaches/cjlewis | Phone: (208)792-2271
+[DRY RUN] Would create unclaimed coach profile: Caelyn Orlandi (cborlandi@lcsc.edu) → coaches/cborlandi | Phone: (208) 792-2274
+[DRY RUN] Would create unclaimed coach profile: Cali Moore (cmmoore@lcsc.edu) → coaches/cmmoore | Phone: (208) 792-2155
+[DRY RUN] Would create unclaimed coach profile: Mike Collins (mcollins@lcsc.edu) → coaches/mcollins | Phone: (208) 792-2308
+[DRY RUN] Would create unclaimed coach profile: Kurtis Bonner (kdbonner@lcsc.edu) → coaches/kdbonner
+[DRY RUN] Would create unclaimed coach profile: Sydnee Vial (snsoderberg@lcsc.edu) → coaches/snsoderberg | Phone: (208) 792-2164
+[DRY RUN] Would create unclaimed coach profile: Sophia Ralstin (smralstin@lcsc.edu) → coaches/smralstin
+[DRY RUN] Would create unclaimed coach profile: Zach Anderson (ztanderson@lcsc.edu) → coaches/ztanderson | Phone: (208) 792-2088
+[DRY RUN] Would create unclaimed coach profile: Kai Fong (kfong@lcsc.edu) → coaches/kfong | Phone: (208) 792-2309
+[DRY RUN] Would create unclaimed coach profile: Bonolo Arroyo (btarroyovalenzuela@lcsc.edu) → coaches/btarroyovalenzuela | Phone: (208) 297-2309
+[DRY RUN] Would create unclaimed coach profile: Mei Fong (yuen.mei.f@gmail.com) → coaches/yuen.mei.f
+[DRY RUN] Would create unclaimed coach profile: Matthew Kelley (coachmatthewkelley@gmail.com) → coaches/coachmatthewkelley
+[DRY RUN] Would create unclaimed coach profile: Jacob Whittaker (jrwhittaker@lcsc.edu) → coaches/jrwhittaker | Phone: (509) 552-0373
+[DRY RUN] Would create unclaimed coach profile: Katie (Hinrichs) (khpalmer@lcsc.edu) → coaches/khpalmer | Phone: (509) 432-4761
+[DRY RUN] Would create unclaimed coach profile: Nick Bogar (npbogar@lcsc.edu) → coaches/npbogar
+[DRY RUN] Would create unclaimed coach profile: Jamel Cooper (rjcooper@uidaho.edu) → coaches/rjcooper
+[DRY RUN] Would create unclaimed coach profile: Brandon Laird (blaird@uidaho.edu) → coaches/blaird
+[DRY RUN] Would create unclaimed coach profile: Matt Jones (mattjjones@uidaho.edu) → coaches/mattjjones
+[DRY RUN] Would create unclaimed coach profile: Adam Ellis (acellis@uidaho.edu) → coaches/acellis
+[DRY RUN] Would create unclaimed coach profile: Luke Chavez (lucaschavez@uidaho.edu) → coaches/lucaschavez
+[DRY RUN] Would create unclaimed coach profile: Arthur Moreira (arthurb@uidaho.edu) → coaches/arthurb
+[DRY RUN] Would create unclaimed coach profile: Drew Muscatell (muscatell@uidaho.edu) → coaches/muscatell
+[DRY RUN] Would create unclaimed coach profile: Lindsey Foster (lindseyfoster@uidaho.edu) → coaches/lindseyfoster
+[DRY RUN] Would create unclaimed coach profile: Derek Saich (dereksaich@uidaho.edu) → coaches/dereksaich
+[DRY RUN] Would create unclaimed coach profile: Nathan Stark (njstark@uidaho.edu) → coaches/njstark
+[DRY RUN] Would create unclaimed coach profile: David Nuhn (dnuhn@uidaho.edu) → coaches/dnuhn
+[DRY RUN] Would create unclaimed coach profile: Allyssa Loesch (aloesch@uidaho.edu) → coaches/aloesch
+[DRY RUN] Would create unclaimed coach profile: Jeremy Clevenger (jclevenger@uidaho.edu) → coaches/jclevenger
+[DRY RUN] Would create unclaimed coach profile: Ashley Heidelberger (ashleyh@uidaho.edu) → coaches/ashleyh
+[DRY RUN] Would create unclaimed coach profile: Mark Sowa (msowa@uidaho.edu) → coaches/msowa
+[DRY RUN] Would create unclaimed coach profile: Wei Wei (wwei@uidaho.edu) → coaches/wwei
+[DRY RUN] Would create unclaimed coach profile: Elizabeth Levy (elevy@uidaho.edu) → coaches/elevy
+[DRY RUN] Would create unclaimed coach profile: Raleigh Grossbaum (raleigh@uidaho.edu) → coaches/raleigh
+[DRY RUN] Would create unclaimed coach profile: Jesse Lemon (jdlemon@uidaho.edu) → coaches/jdlemon
+[DRY RUN] Would create unclaimed coach profile: Sanne Louwers (louwers@uidaho.edu) → coaches/louwers
+[DRY RUN] Would create unclaimed coach profile: Fangyuan Li (fangyuan@uidaho.edu) → coaches/fangyuan
+[DRY RUN] Would create unclaimed coach profile: Angelica De (adevincenzis@uidaho.edu) → coaches/adevincenzis
+[DRY RUN] Would create unclaimed coach profile: Brad Gamble (bgamble@uidaho.edu) → coaches/bgamble
+[DRY RUN] Would create unclaimed coach profile: Julie Taylor (jtaylor@uidaho.edu) → coaches/jtaylor
+[DRY RUN] Would create unclaimed coach profile: Tyler Sheehan (tsheehan@uidaho.edu) → coaches/tsheehan
+[DRY RUN] Would create unclaimed coach profile: Romana Redondo (romanark@uidaho.edu) → coaches/romanark
+[DRY RUN] Would create unclaimed coach profile: Ben Kasun (bkasun@uidaho.edu) → coaches/bkasun
+[DRY RUN] Would create unclaimed coach profile: Maria Jacobus (mjacobus@uidaho.edu) → coaches/mjacobus
+[DRY RUN] Would create unclaimed coach profile: Katie Doman (kdoman@uidaho.edu) → coaches/kdoman
+[DRY RUN] Would create unclaimed coach profile: Jordan French (jsfrench@uidaho.edu) → coaches/jsfrench
+[DRY RUN] Would create unclaimed coach profile: Dawson Murphy (ddmurphy@uidaho.edu) → coaches/ddmurphy
+[DRY RUN] Would create unclaimed coach profile: Ryan Looney (ryanlooney@isu.edu) → coaches/ryanlooney
+[DRY RUN] Would create unclaimed coach profile: Joe White (joewhite@isu.edu) → coaches/joewhite
+[DRY RUN] Would create unclaimed coach profile: Seton Sobolewski (SetonSobolewski@isu.edu) → coaches/SetonSobolewski
+[DRY RUN] Would create unclaimed coach profile: Chelsey Gregg (ChelseyGregg@isu.edu) → coaches/ChelseyGregg
+[DRY RUN] Would create unclaimed coach profile: Keithan Gregg (keithangregg@isu.edu) → coaches/keithangregg
+[DRY RUN] Would create unclaimed coach profile: Ashleigh van (ashleighvanvliet@isu.edu) → coaches/ashleighvanvliet
+[DRY RUN] Would create unclaimed coach profile: Cody Hawkins (CodyHawkins@isu.edu) → coaches/CodyHawkins
+[DRY RUN] Would create unclaimed coach profile: Scott Thiessen (scottthiessen@isu.edu) → coaches/scottthiessen
+[DRY RUN] Would create unclaimed coach profile: Devin Holiday (devinholiday@isu.edu) → coaches/devinholiday
+[DRY RUN] Would create unclaimed coach profile: Keith Price (keithprice@isu.edu) → coaches/keithprice
+[DRY RUN] Would create unclaimed coach profile: John Hughes (johnhughes@isu.edu) → coaches/johnhughes
+[DRY RUN] Would create unclaimed coach profile: Kamden Garrett (kamdengarrett@isu.edu) → coaches/kamdengarrett
+[DRY RUN] Would create unclaimed coach profile: Todd Loveland (toddloveland@isu.edu) → coaches/toddloveland
+[DRY RUN] Would create unclaimed coach profile: Mackenzie Robins (mackenzierobins@isu.edu) → coaches/mackenzierobins
+[DRY RUN] Would create unclaimed coach profile: Dustin Downey (dustindowney@isu.edu) → coaches/dustindowney
+[DRY RUN] Would create unclaimed coach profile: Adam Nerio (adamnerio@isu.edu) → coaches/adamnerio
+[DRY RUN] Would create unclaimed coach profile: Damir Sabanovic (damirsabanovic@isu.edu) → coaches/damirsabanovic
+[DRY RUN] Would create unclaimed coach profile: Andrew Rich (andrewrich@isu.edu) → coaches/andrewrich
+[DRY RUN] Would create unclaimed coach profile: Kelsey Broadus (kelseybroadus@isu.edu) → coaches/kelseybroadus
+[DRY RUN] Would create unclaimed coach profile: Karlee Johnson (Karleejohnson2@isu.edu) → coaches/Karleejohnson2
+[DRY RUN] Would create unclaimed coach profile: Oliver Good (olivergood@isu.edu) → coaches/olivergood
+[DRY RUN] Would create unclaimed coach profile: Joe Silvers (silvjose@isu.edu) → coaches/silvjose
+[DRY RUN] Would create unclaimed coach profile: Payden Campbell (paydencampbell@isu.edu) → coaches/paydencampbell
+[DRY RUN] Would create unclaimed coach profile: Mason Mahacek (masonmahacek@isu.edu) → coaches/masonmahacek
+[DRY RUN] Would create unclaimed coach profile: Sean Carter (seancarter@isu.edu) → coaches/seancarter
+[DRY RUN] Would create unclaimed coach profile: Chelsea Carter (chelseascott@isu.edu) → coaches/chelseascott
+[DRY RUN] Would create unclaimed coach profile: Elizabeth Field (elizabethfield@isu.edu) → coaches/elizabethfield
+[DRY RUN] Would create unclaimed coach profile: Misty Stucki (stucmist@isu.edu) → coaches/stucmist
+[DRY RUN] Would create unclaimed coach profile: Kolissa Manchan (manckoli@isu.edu) → coaches/manckoli
+[DRY RUN] Would create unclaimed coach profile: Shawn Humberger (shumberger@collegeofidaho.edu) → coaches/shumberger
+[DRY RUN] Would create unclaimed coach profile: Brian Schweiger (bschweiger@collegeofidaho.edu) → coaches/bschweiger
+[DRY RUN] Would create unclaimed coach profile: Colby Blaine (cblaine@collegeofidaho.edu) → coaches/cblaine
+[DRY RUN] Would create unclaimed coach profile: Emanuel Morgan (mmorgan@collegeofidaho.edu) → coaches/mmorgan
+[DRY RUN] Would create unclaimed coach profile: Jacob McLeod (jmcleod@collegeofidaho.edu) → coaches/jmcleod
+[DRY RUN] Would create unclaimed coach profile: Kyle Erickson (kerickson@collegeofidaho.edu) → coaches/kerickson
+[DRY RUN] Would create unclaimed coach profile: Cassidy Johnson (cjohnson@collegeofidaho.edu) → coaches/cjohnson
+[DRY RUN] Would create unclaimed coach profile: Madison Machurek (mmachurek@collegeofidaho.edu) → coaches/mmachurek
+[DRY RUN] Would create unclaimed coach profile: Jackie van (jvanvliet@collegeofidaho.edu) → coaches/jvanvliet
+[DRY RUN] Would create unclaimed coach profile: GG Anderson (gganderson@collegeofidaho.edu) → coaches/gganderson
+[DRY RUN] Would create unclaimed coach profile: Dominic Bolin (dbolin@collegeofidaho.edu) → coaches/dbolin
+[DRY RUN] Would create unclaimed coach profile: Ben Bradley (bbradley@collegeofidaho.edu) → coaches/bbradley
+[DRY RUN] Would create unclaimed coach profile: Mike Moroski (mmoroski@collegeofidaho.edu) → coaches/mmoroski
+[DRY RUN] Would create unclaimed coach profile: Chris Jewell (cjewell@collegeofidaho.edu) → coaches/cjewell
+[DRY RUN] Would create unclaimed coach profile: Austin Nelson (anelson@collegeofidaho.edu) → coaches/anelson
+[DRY RUN] Would create unclaimed coach profile: Carlos Murana (cmurana@collegeofidaho.edu) → coaches/cmurana
+[DRY RUN] Would create unclaimed coach profile: Ryan Baerg (rbaerg@collegeofidaho.edu) → coaches/rbaerg
+[DRY RUN] Would create unclaimed coach profile: Jeff Davies (jdavies@collegeofidaho.edu) → coaches/jdavies
+[DRY RUN] Would create unclaimed coach profile: Drake O'Neill (doneill@collegeofidaho.edu) → coaches/doneill
+[DRY RUN] Would create unclaimed coach profile: Thom Baker (tbaker@collegeofidaho.edu) → coaches/tbaker
+[DRY RUN] Would create unclaimed coach profile: Brad Thorne (bthorne@collegeofidaho.edu) → coaches/bthorne
+[DRY RUN] Would create unclaimed coach profile: Brian Smith (bcsmith@collegeofidaho.edu) → coaches/bcsmith
+[DRY RUN] Would create unclaimed coach profile: Ryan Porter (rporter@collegeofidaho.edu) → coaches/rporter
+[DRY RUN] Would create unclaimed coach profile: Shelby Nicoletti (snicoletti@collegeofidaho.edu) → coaches/snicoletti
+[DRY RUN] Would create unclaimed coach profile: Gerry Scheetz (gscheetz@collegeofidaho.edu) → coaches/gscheetz
+[DRY RUN] Would create unclaimed coach profile: Al Mendiola (amendiola@collegeofidaho.edu) → coaches/amendiola
+[DRY RUN] Would create unclaimed coach profile: Maddison Rice (mrice@collegeofidaho.edu) → coaches/mrice
+[DRY RUN] Would create unclaimed coach profile: Toni Portenier (toniportenier@aol.com) → coaches/toniportenier
+[DRY RUN] Would create unclaimed coach profile: Jennifer Swing (jswing@collegeofidaho.edu) → coaches/jswing
+[DRY RUN] Would create unclaimed coach profile: Tyler Straub (tstraub@collegeofidaho.edu) → coaches/tstraub
+[DRY RUN] Would create unclaimed coach profile: Jasmine Hurd (jherd@collegeofidaho.edu) → coaches/jherd
+[DRY RUN] Would create unclaimed coach profile: Liz Mendiola (lmendiola@collegeofidaho.edu) → coaches/lmendiola

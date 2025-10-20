@@ -1,0 +1,263 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:13
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: cahicks@unc.edu
+   Username: cahicks
+   Original line: Head Coach cahicks@unc.edu
+
+2. Associate Head
+   Email: unc-baseball@unc.edu
+   Username: unc-baseball
+   Original line: Associate Head Coach / Pitching Coach unc-baseball@unc.edu
+
+3. Assistant Coach
+   Email: unc-baseball@unc.edu
+   Username: unc-baseball
+   Original line: Assistant Coach / Hitting Coach / Infielders & Catchers unc-baseball@unc.edu
+
+4. Assistant Coach/Recruiting
+   Email: unc-baseball@unc.edu
+   Username: unc-baseball
+   Original line: Assistant Coach/Recruiting Coordinator unc-baseball@unc.edu
+
+5. Assistant to
+   Email: dwilk@unc.edu
+   Username: dwilk
+   Original line: Assistant to the Head Coach and Clubhouse/Equipment Manager dwilk@unc.edu
+
+6. Assistant Coach
+   Email: brad.frederick@unc.edu
+   Username: brad.frederick
+   Original line: Assistant Coach brad.frederick@unc.edu
+
+7. Assistant Coach
+   Email: jlebo@unc.edu
+   Username: jlebo
+   Original line: Assistant Coach jlebo@unc.edu
+
+8. Assistant Coach
+   Email: seanmay@unc.edu
+   Username: seanmay
+   Original line: Assistant Coach seanmay@unc.edu
+
+9. Assistant Coach
+   Email: psullivan@unc.edu
+   Username: psullivan
+   Original line: Assistant Coach psullivan@unc.edu
+
+10. Assistant Coach
+   Email: Mpaige5@unc.edu
+   Username: Mpaige5
+   Original line: Assistant Coach Mpaige5@unc.edu
+
+11. Head Coach
+   Email: jednak@email.unc.edu
+   Username: jednak
+   Original line: Head Coach jednak@email.unc.edu
+
+12.  
+   Email: coach_matson@unc.edu
+   Username: coach_matson
+   Original line: coach_matson@unc.edu Full Bio
+
+13. Running Backs
+   Email: nmeans@unc.edu
+   Username: nmeans
+   Original line: Running Backs Coach nmeans@unc.edu
+
+14.  
+   Email: coachneff@unc.edu
+   Username: coachneff
+   Original line: coachneff@unc.edu Full Bio
+
+15. Head Coach
+   Email: breschi@uncaa.unc.edu
+   Username: breschi
+   Original line: Head Coach breschi@uncaa.unc.edu
+
+16. Head Coach
+   Email: uncwlax@uncaa.unc.edu
+   Username: uncwlax
+   Original line: Head Coach uncwlax@uncaa.unc.edu
+
+17. Assistant Coach
+   Email: sgiacolo@unc.edu
+   Username: sgiacolo
+   Original line: Assistant Coach sgiacolo@unc.edu
+
+18. Assistant Coach
+   Email: mmccool@unc.edu
+   Username: mmccool
+   Original line: Assistant Coach mmccool@unc.edu
+
+19. Assistant Coach
+   Email: kaylwood@unc.edu
+   Username: kaylwood
+   Original line: Assistant Coach kaylwood@unc.edu
+
+20. Head Coach
+   Email: eneppel@unc.edu
+   Username: eneppel
+   Original line: Head Coach eneppel@unc.edu
+
+21. Assistant Coach/Recruiting
+   Email: lambs@unc.edu
+   Username: lambs
+   Original line: Assistant Coach/Recruiting Coordinator lambs@unc.edu
+
+22. Head Coach
+   Email: csomoano@uncaa.unc.edu
+   Username: csomoano
+   Original line: Head Coach csomoano@uncaa.unc.edu
+
+23. Assistant Coach
+   Email: gtporter@uncaa.unc.edu
+   Username: gtporter
+   Original line: Assistant Coach gtporter@uncaa.unc.edu
+
+24. Head Coach
+   Email: dnahas@email.unc.edu
+   Username: dnahas
+   Original line: Head Coach dnahas@email.unc.edu
+
+25. Assistant Coach/General
+   Email: ducar@uncaa.unc.edu
+   Username: ducar
+   Original line: Assistant Coach/General Manager ducar@uncaa.unc.edu
+
+26. Former Head
+   Email: anson@email.unc.edu
+   Username: anson
+   Original line: Former Head Women's Soccer Coach anson@email.unc.edu
+
+27. Assistant Coach
+   Email: clyon22@unc.edu
+   Username: clyon22
+   Original line: Assistant Coach clyon22@unc.edu
+
+28. Assistant Coach
+   Email: holubm@unc.edu
+   Username: holubm
+   Original line: Assistant Coach holubm@unc.edu
+
+29. Assistant Coach
+   Email: Aquilla.James@unc.edu
+   Username: Aquilla.James
+   Original line: Assistant Coach Aquilla.James@unc.edu
+
+30. Head Coach
+   Email: mgangloff@unc.edu
+   Username: mgangloff
+   Original line: Head Coach mgangloff@unc.edu
+
+31. Head Diving
+   Email: ygamboa@email.unc.edu
+   Username: ygamboa
+   Original line: Head Diving Coach ygamboa@email.unc.edu
+
+32. Associate Head
+   Email: kkumbier@unc.edu
+   Username: kkumbier
+   Original line: Associate Head Coach / Director of Recruiting - Men's and Women's kkumbier@unc.edu
+
+33. Assistant Swimming
+   Email: kaylamk@unc.edu
+   Username: kaylamk
+   Original line: Assistant Swimming Coach / Women's Recruiting kaylamk@unc.edu
+
+34. Assistant Diving
+   Email: antondj@email.unc.edu
+   Username: antondj
+   Original line: Assistant Diving Coach antondj@email.unc.edu
+
+35. Assistant Swimming
+   Email: aeckhart@unc.edu
+   Username: aeckhart
+   Original line: Assistant Swimming Coach aeckhart@unc.edu
+
+36. Head Coach
+   Email: bkalbas@uncaa.unc.edu
+   Username: bkalbas
+   Original line: Head Coach bkalbas@uncaa.unc.edu
+
+37. Associate Head
+   Email: tjthom@unc.edu
+   Username: tjthom
+   Original line: Associate Head Coach tjthom@unc.edu
+
+38.  
+   Email: coachstewart@unc.edu
+   Username: coachstewart
+   Original line: coachstewart@unc.edu Full Bio
+
+39. Assistant Coach
+   Email: tjkitch@unc.edu
+   Username: tjkitch
+   Original line: Assistant Coach (Throws) tjkitch@unc.edu
+
+40. Head Coach
+   Email: mschall@email.unc.edu
+   Username: mschall
+   Original line: Head Coach mschall@email.unc.edu
+
+41. Assistant Coach
+   Email: rmferg@unc.edu
+   Username: rmferg
+   Original line: Assistant Coach rmferg@unc.edu
+
+42. Associate Head
+   Email: ajramos@unc.edu
+   Username: ajramos
+   Original line: Associate Head Coach ajramos@unc.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach cahicks@unc.edu
+• Associate Head Coach / Pitching Coach unc-baseball@unc.edu
+• Assistant Coach / Hitting Coach / Infielders & Catchers unc-baseball@unc.edu
+• Assistant Coach/Recruiting Coordinator unc-baseball@unc.edu
+• Assistant to the Head Coach and Clubhouse/Equipment Manager dwilk@unc.edu
+• Assistant Coach brad.frederick@unc.edu
+• Assistant Coach jlebo@unc.edu
+• Assistant Coach seanmay@unc.edu
+• Assistant Coach psullivan@unc.edu
+• Assistant Coach Mpaige5@unc.edu
+• Head Coach jednak@email.unc.edu
+• coach_matson@unc.edu Full Bio
+• Running Backs Coach nmeans@unc.edu
+• coachneff@unc.edu Full Bio
+• Head Coach breschi@uncaa.unc.edu
+• Head Coach uncwlax@uncaa.unc.edu
+• Assistant Coach sgiacolo@unc.edu
+• Assistant Coach mmccool@unc.edu
+• Assistant Coach kaylwood@unc.edu
+• Head Coach eneppel@unc.edu
+• Assistant Coach/Recruiting Coordinator lambs@unc.edu
+• Head Coach csomoano@uncaa.unc.edu
+• Assistant Coach gtporter@uncaa.unc.edu
+• Head Coach dnahas@email.unc.edu
+• Assistant Coach/General Manager ducar@uncaa.unc.edu
+• Former Head Women's Soccer Coach anson@email.unc.edu
+• Assistant Coach clyon22@unc.edu
+• Assistant Coach holubm@unc.edu
+• Assistant Coach Aquilla.James@unc.edu
+• Head Coach mgangloff@unc.edu
+• Head Diving Coach ygamboa@email.unc.edu
+• Associate Head Coach / Director of Recruiting - Men's and Women's kkumbier@unc.edu
+• Assistant Swimming Coach / Women's Recruiting kaylamk@unc.edu
+• Assistant Diving Coach antondj@email.unc.edu
+• Assistant Swimming Coach aeckhart@unc.edu
+• Head Coach bkalbas@uncaa.unc.edu
+• Associate Head Coach tjthom@unc.edu
+• coachstewart@unc.edu Full Bio
+• Assistant Coach (Throws) tjkitch@unc.edu
+• Head Coach mschall@email.unc.edu
+• Assistant Coach rmferg@unc.edu
+• Associate Head Coach ajramos@unc.edu

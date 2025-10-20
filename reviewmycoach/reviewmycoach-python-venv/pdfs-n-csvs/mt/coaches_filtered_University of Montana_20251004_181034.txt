@@ -1,0 +1,253 @@
+COACH ENTRIES FOUND - 2025-10-04 18:10:38
+============================================================
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dan Ryan
+   Email: daniel.ryan@mso.umt.edu
+   Username: daniel.ryan
+   Phone: 243-2969
+   Original line: Dan Ryan Director of Football daniel.ryan@mso.umt.edu 243-2969 @coachdanrya
+
+2. Nate Harris
+   Email: caleigh.cookson@mso.umt.edu
+   Username: caleigh.cookson
+   Phone: 243-5334
+   Original line: Nate Harris Head Coach caleigh.cookson@mso.umt.edu 243-5334
+
+3. Lindsay Assistant
+   Email: lindsay.woolley@mso.umt.edu
+   Username: lindsay.woolley
+   Phone: 243-5334
+   Original line: Lindsay Assistant Coach lindsay.woolley@mso.umt.edu 243-5334
+
+4. Emma List
+   Email: emma.list@mso.umt.edu
+   Username: emma.list
+   Phone: 243-5334
+   Original line: Emma List Assistant Coach emma.list@mso.umt.edu 243-5334
+
+5. Kayla Assistant
+   Email: kayla.anderson@mso.umt.edu
+   Username: kayla.anderson
+   Phone: 243-5334
+   Original line: Kayla Assistant Coach kayla.anderson@mso.umt.edu 243-5334
+
+6. Britt Cooper
+   Email: britt.cooper@mso.umt.edu
+   Username: britt.cooper
+   Phone: 243-5334
+   Original line: Britt Cooper Assistant Coach / britt.cooper@mso.umt.edu 243-5334
+
+7. Leia Beattie
+   Email: leia.beattie@mso.umt.edu
+   Username: leia.beattie
+   Phone: 243-5334
+   Original line: Leia Beattie Assistant Coach / leia.beattie@mso.umt.edu 243-5334
+
+8. Travis DeCuire
+   Email: caleigh.cookson@mso.umt.edu
+   Username: caleigh.cookson
+   Phone: 243-5334
+   Original line: Travis DeCuire Head Coach caleigh.cookson@mso.umt.edu 243-5334 @CoachDeCui
+
+9. Chris Cobb
+   Email: chris.cobb@mso.umt.edu
+   Username: chris.cobb
+   Phone: 243-5334
+   Original line: Chris Cobb Associate Head chris.cobb@mso.umt.edu 243-5334 @CoachCCobb
+
+10. Jay Flores
+   Email: jay.flores@mso.umt.edu
+   Username: jay.flores
+   Phone: 243-5334
+   Original line: Jay Flores Assistant Coach jay.flores@mso.umt.edu 243-5334 @CoachFlo10
+
+11. Rachi Wortham
+   Email: rachi.wortham@mso.umt.edu
+   Username: rachi.wortham
+   Phone: 243-5334
+   Original line: Rachi Wortham Assistant Coach rachi.wortham@mso.umt.edu 243-5334
+
+12. Ryan Frazer
+   Email: ryan.frazer@mso.umt.edu
+   Username: ryan.frazer
+   Original line: Ryan Frazer Assistant Coach ryan.frazer@mso.umt.edu
+
+13. Doug Fraley
+   Email: douglas.fraley@mso.umt.edu
+   Username: douglas.fraley
+   Phone: 243-4657
+   Original line: Doug Fraley Head Coach douglas.fraley@mso.umt.edu 243-4657
+
+14. Bobby Hauck
+   Email: nathan.dellinger@mso.umt.edu
+   Username: nathan.dellinger
+   Phone: 243-2969
+   Original line: Bobby Hauck Head Coach nathan.dellinger@mso.umt.edu 243-2969 @Coach_Ha
+
+15. Brent Pease
+   Email: nathan.dellinger@mso.umt.edu
+   Username: nathan.dellinger
+   Phone: 243-2969
+   Original line: Brent Pease Offensive nathan.dellinger@mso.umt.edu 243-2969 @CoachPea
+
+16. Rob Phenicie
+   Email: nathan.dellinger@mso.umt.edu
+   Username: nathan.dellinger
+   Phone: 243-2969
+   Original line: Rob Phenicie Asst. Head Coach / nathan.dellinger@mso.umt.edu 243-2969 @rphen85
+
+17. Roger Cooper
+   Email: nathan.dellinger@mso.umt.edu
+   Username: nathan.dellinger
+   Phone: 243-2969
+   Original line: Roger Cooper Co-DC / nathan.dellinger@mso.umt.edu 243-2969 @coachcoop
+
+18. Tim Hauck
+   Email: nathan.dellinger@mso.umt.edu
+   Username: nathan.dellinger
+   Phone: 243-2969
+   Original line: Tim Hauck Co-DC / Safeties nathan.dellinger@mso.umt.edu 243-2969 @CoachTim
+
+19. Justin Green
+   Email: nathan.dellinger@mso.umt.edu
+   Username: nathan.dellinger
+   Phone: 243-6101
+   Original line: Justin Green Recruiting nathan.dellinger@mso.umt.edu 243-6101 @GrizCoach
+
+20. Kim McCloud
+   Email: nathan.dellinger@mso.umt.edu
+   Username: nathan.dellinger
+   Phone: 243-2969
+   Original line: Kim McCloud Cornerbacks nathan.dellinger@mso.umt.edu 243-2969 @CoachKim
+
+21. Mike Linehan
+   Email: nathan.dellinger@mso.umt.edu
+   Username: nathan.dellinger
+   Phone: 243-2969
+   Original line: Mike Linehan Defensive Line nathan.dellinger@mso.umt.edu 243-2969 @CoachMLi
+
+22. Cameron Offensive
+   Email: Cameron.Norcross@mso.umt.edu
+   Username: Cameron.Norcross
+   Phone: 243-2969
+   Original line: Cameron Offensive Line Cameron.Norcross@mso.umt.edu 243-2969 @CoachCNo
+
+23. Dan Ryan
+   Email: daniel.ryan@mso.umt.edu
+   Username: daniel.ryan
+   Phone: 243-2969
+   Original line: Dan Ryan Director of Football daniel.ryan@mso.umt.edu 243-2969 @coachdanr
+
+24. Jimmy Mee
+   Email: james.mee@mso.umt.edu
+   Username: james.mee
+   Phone: 243-5348
+   Original line: Jimmy Mee Head Coach james.mee@mso.umt.edu 243-5348
+
+25. Chris Citowicki
+   Email: chris.citowicki@mso.umt.edu
+   Username: chris.citowicki
+   Phone: (203) 505-5002
+   Original line: Chris Citowicki Head Coach chris.citowicki@mso.umt.edu O: 243-6624; C: 203-505-5002
+
+26. Ashley Assistant
+   Email: ashley.herndon@mso.umt.edu
+   Username: ashley.herndon
+   Phone: 546-7926
+   Original line: Ashley Assistant Coach ashley.herndon@mso.umt.edu 546-7926
+
+27. Stef Ewing
+   Email: stef.ewing@mso.umt.edu
+   Username: stef.ewing
+   Phone: 880-5773
+   Original line: Stef Ewing Head Coach stef.ewing@mso.umt.edu 880-5773
+
+28. Megan Casper
+   Email: megan.casper@mso.umt.edu
+   Username: megan.casper
+   Phone: 880-6933
+   Original line: Megan Casper Assistant Coach megan.casper@mso.umt.edu 880-6933
+
+29. Marc Kendrick
+   Email: marc.kendrick@mso.umt.edu
+   Username: marc.kendrick
+   Phone: 370-6504
+   Original line: Marc Kendrick Assistant Coach marc.kendrick@mso.umt.edu 370-6504
+
+30. Steve Ascher
+   Email: steven.ascher@mso.umt.edu
+   Username: steven.ascher
+   Phone: 370-9436
+   Original line: Steve Ascher Head Coach steven.ascher@mso.umt.edu 370-9436
+
+31. Jason Brown
+   Email: Jason.Brown@mso.umt.edu
+   Username: Jason.Brown
+   Phone: 243-5348
+   Original line: Jason Brown Head Coach Jason.Brown@mso.umt.edu 243-5348
+
+32. Doug Fraley
+   Email: douglas.fraley@mso.umt.edu
+   Username: douglas.fraley
+   Phone: 243-4657
+   Original line: Doug Fraley Head Coach douglas.fraley@mso.umt.edu 243-4657
+
+33. Allison Head
+   Email: allison.lawrence@mso.umt.edu
+   Username: allison.lawrence
+   Phone: 546-5165
+   Original line: Allison Head Coach allison.lawrence@mso.umt.edu 546-5165
+
+34. Ollie Nicholson
+   Email: olivia.nicholson@mso.umt.edu
+   Username: olivia.nicholson
+   Original line: Ollie Nicholson Assistant Coach olivia.nicholson@mso.umt.edu
+
+35. Sarah Birky
+   Email: sarah.birky@mso.umt.edu
+   Username: sarah.birky
+   Original line: Sarah Birky Assistant Coach sarah.birky@mso.umt.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dan Ryan Director of Football daniel.ryan@mso.umt.edu 243-2969 @coachdanrya
+• Nate Harris Head Coach caleigh.cookson@mso.umt.edu 243-5334
+• Lindsay Assistant Coach lindsay.woolley@mso.umt.edu 243-5334
+• Emma List Assistant Coach emma.list@mso.umt.edu 243-5334
+• Kayla Assistant Coach kayla.anderson@mso.umt.edu 243-5334
+• Britt Cooper Assistant Coach / britt.cooper@mso.umt.edu 243-5334
+• Leia Beattie Assistant Coach / leia.beattie@mso.umt.edu 243-5334
+• Travis DeCuire Head Coach caleigh.cookson@mso.umt.edu 243-5334 @CoachDeCui
+• Chris Cobb Associate Head chris.cobb@mso.umt.edu 243-5334 @CoachCCobb
+• Jay Flores Assistant Coach jay.flores@mso.umt.edu 243-5334 @CoachFlo10
+• Rachi Wortham Assistant Coach rachi.wortham@mso.umt.edu 243-5334
+• Ryan Frazer Assistant Coach ryan.frazer@mso.umt.edu
+• Doug Fraley Head Coach douglas.fraley@mso.umt.edu 243-4657
+• Bobby Hauck Head Coach nathan.dellinger@mso.umt.edu 243-2969 @Coach_Ha
+• Brent Pease Offensive nathan.dellinger@mso.umt.edu 243-2969 @CoachPea
+• Rob Phenicie Asst. Head Coach / nathan.dellinger@mso.umt.edu 243-2969 @rphen85
+• Roger Cooper Co-DC / nathan.dellinger@mso.umt.edu 243-2969 @coachcoop
+• Tim Hauck Co-DC / Safeties nathan.dellinger@mso.umt.edu 243-2969 @CoachTim
+• Justin Green Recruiting nathan.dellinger@mso.umt.edu 243-6101 @GrizCoach
+• Kim McCloud Cornerbacks nathan.dellinger@mso.umt.edu 243-2969 @CoachKim
+• Mike Linehan Defensive Line nathan.dellinger@mso.umt.edu 243-2969 @CoachMLi
+• Cameron Offensive Line Cameron.Norcross@mso.umt.edu 243-2969 @CoachCNo
+• Dan Ryan Director of Football daniel.ryan@mso.umt.edu 243-2969 @coachdanr
+• Jimmy Mee Head Coach james.mee@mso.umt.edu 243-5348
+• Chris Citowicki Head Coach chris.citowicki@mso.umt.edu O: 243-6624; C: 203-505-5002
+• Ashley Assistant Coach ashley.herndon@mso.umt.edu 546-7926
+• Stef Ewing Head Coach stef.ewing@mso.umt.edu 880-5773
+• Megan Casper Assistant Coach megan.casper@mso.umt.edu 880-6933
+• Marc Kendrick Assistant Coach marc.kendrick@mso.umt.edu 370-6504
+• Steve Ascher Head Coach steven.ascher@mso.umt.edu 370-9436
+• Jason Brown Head Coach Jason.Brown@mso.umt.edu 243-5348
+• Doug Fraley Head Coach douglas.fraley@mso.umt.edu 243-4657
+• Allison Head Coach allison.lawrence@mso.umt.edu 546-5165
+• Ollie Nicholson Assistant Coach olivia.nicholson@mso.umt.edu
+• Sarah Birky Assistant Coach sarah.birky@mso.umt.edu

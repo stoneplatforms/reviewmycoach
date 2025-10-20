@@ -1,0 +1,437 @@
+COACH ENTRIES FOUND - 2025-09-27 05:46:00
+============================================================
+
+Total coaches found: 71
+
+PARSED ENTRIES:
+----------------------------------------
+1. Justin Serpone
+   Email: jserpone@amherst.edu
+   Username: jserpone
+   Original line: Justin Serpone Head Coach of Men's Soccer / Director of Amherst LEADS jserpone@amherst.edu 413-542-
+
+2. Carol Knerr
+   Email: crknerr@amherst.edu
+   Username: crknerr
+   Original line: Carol Knerr Head Coach of Field Hockey crknerr@amherst.edu 413-542-
+
+3. Chris Boyko
+   Email: cboyko@amherst.edu
+   Username: cboyko
+   Original line: Chris Boyko Head Strength & Conditioning Coach / Fitness Center Director cboyko@amherst.edu 413-542-
+
+4. J.P. Pyne
+   Email: jpyne@amherst.edu
+   Username: jpyne
+   Original line: J.P. Pyne Head Coach of Baseball jpyne@amherst.edu 413-542-
+
+5. Kevin Murphy
+   Email: kevmurphy@amherst.edu
+   Username: kevmurphy
+   Original line: Kevin Murphy Pitching Coach/Recruiting Coordinator kevmurphy@amherst.edu
+
+6. Jack Cooney
+   Email: jcooney@amherst.edu
+   Username: jcooney
+   Original line: Jack Cooney Assistant Coach, Baseball jcooney@amherst.edu
+
+7. Marlon Sears
+   Email: msears@amherst.edu
+   Username: msears
+   Original line: Marlon Sears Head Coach, Men's Basketball msears@amherst.edu 413-542-
+
+8. Casey Lane
+   Email: caseylane@amherst.edu
+   Username: caseylane
+   Original line: Casey Lane Assistant Coach, Men's Basketball caseylane@amherst.edu.
+
+9. Blake Waldron
+   Email: bwaldron@amherst.edu
+   Username: bwaldron
+   Original line: Blake Waldron Assistant Coach, Men's Basketball bwaldron@amherst.edu
+
+10. G.P. Gromacki
+   Email: ggromacki@amherst.edu
+   Username: ggromacki
+   Original line: G.P. Gromacki Head Coach of Women's Basketball ggromacki@amherst.edu 413-542-
+
+11. Kayla Madden
+   Email: kmadden@amherst.edu
+   Username: kmadden
+   Original line: Kayla Madden Assistant Coach, Women's Basketball kmadden@amherst.edu
+
+12. Kate Sullivan
+   Email: ksullivan21@amherst.edu
+   Username: ksullivan21
+   Original line: Kate Sullivan '21 Assistant Coach, Women's Basketball ksullivan21@amherst.edu 413-542-
+
+13. Hannah Chappell-Dick
+   Email: hchappelldick@amherst.edu
+   Username: hchappelldick
+   Original line: Hannah Chappell-Dick Head Coach, Cross Country / Assistant Coach, M&W Track & Field hchappelldick@amherst.edu 413-542-
+
+14. Chase Worthen
+   Email: cworthen@amherst.edu
+   Username: cworthen
+   Original line: Chase Worthen Assistant Coach, M&W Cross Country cworthen@amherst.edu
+
+15. Ian Dopp
+   Email: idopp24@amherst.edu
+   Username: idopp24
+   Original line: Ian Dopp '24 Assistant Coach, Cross Country idopp24@amherst.edu
+
+16. Hannah Chappell-Dick
+   Email: hchappelldick@amherst.edu
+   Username: hchappelldick
+   Original line: Hannah Chappell-Dick Head Coach, Cross Country / Assistant Coach, M&W Track & Field hchappelldick@amherst.edu 413-542-
+
+17. Chase Worthen
+   Email: cworthen@amherst.edu
+   Username: cworthen
+   Original line: Chase Worthen Assistant Coach, M&W Cross Country cworthen@amherst.edu
+
+18. Ian Dopp
+   Email: idopp24@amherst.edu
+   Username: idopp24
+   Original line: Ian Dopp '24 Assistant Coach, Cross Country idopp24@amherst.edu
+
+19. Carol Knerr
+   Email: crknerr@amherst.edu
+   Username: crknerr
+   Original line: Carol Knerr Head Coach of Field Hockey crknerr@amherst.edu 413-542-
+
+20. Kaeleigh Lord
+   Email: kaelord@amherst.edu
+   Username: kaelord
+   Original line: Kaeleigh Lord Assistant Coach of Field Hockey kaelord@amherst.edu
+
+21. Jennifer Staab
+   Email: jstaab@amherst.edu
+   Username: jstaab
+   Original line: Jennifer Staab Assistant Coach, Field Hockey jstaab@amherst.edu
+
+22. E.J. Mills
+   Email: ejmills@amherst.edu
+   Username: ejmills
+   Original line: E.J. Mills Head Coach of Football ejmills@amherst.edu 413-542-
+
+23. Luke Bussard
+   Email: jbussard@amherst.edu
+   Username: jbussard
+   Original line: Luke Bussard Defensive Coordinator / Linebackers Coach jbussard@amherst.edu 413-542-
+
+24. Eddy Augustin
+   Email: eaugustin@amherst.edu
+   Username: eaugustin
+   Original line: Eddy Augustin Special Teams Coordinator / Defensive Line Coach eaugustin@amherst.edu 413-542-
+
+25. Malik Grove
+   Email: mgrove@amherst.edu
+   Username: mgrove
+   Original line: Malik Grove Offensive Coordinator / Quarterbacks Coach mgrove@amherst.edu
+
+26. Turner Geenty
+   Email: tgeenty@amherst.edu
+   Username: tgeenty
+   Original line: Turner Geenty TE & RBs Coach/Recruiting Coordinator tgeenty@amherst.edu
+
+27. Antonio Young
+   Email: anyoung@amherst.edu
+   Username: anyoung
+   Original line: Antonio Young Wide Receivers Coach anyoung@amherst.edu
+
+28. Elizabeth Geene
+   Email: emdavis@amherst.edu
+   Username: emdavis
+   Original line: Elizabeth Geene Head Coach of Golf emdavis@amherst.edu 413-542-
+
+29. Meredith Mayes
+   Email: mmayes@amherst.edu
+   Username: mmayes
+   Original line: Meredith Mayes Assistant Coach of Golf mmayes@amherst.edu 413-542-
+
+30. Elizabeth Geene
+   Email: emdavis@amherst.edu
+   Username: emdavis
+   Original line: Elizabeth Geene Head Coach of Golf emdavis@amherst.edu 413-542-
+
+31. Meredith Mayes
+   Email: mmayes@amherst.edu
+   Username: mmayes
+   Original line: Meredith Mayes Assistant Coach of Golf mmayes@amherst.edu 413-542-
+
+32. Eddie Effinger
+   Email: eeffinger12@amherst.edu
+   Username: eeffinger12
+   Original line: Eddie Effinger '12 Head Coach of Men's Ice Hockey eeffinger12@amherst.edu 413-542-
+
+33. Mark Leach
+   Email: markleach@amherst.edu
+   Username: markleach
+   Original line: Mark Leach Assistant Coach, Men's Hockey markleach@amherst.edu
+
+34. Conor Tierney
+   Email: ctierney@amherst.edu
+   Username: ctierney
+   Original line: Conor Tierney Assistant Coach, Men's Hockey ctierney@amherst.edu
+
+35. Jeff Matthews
+   Email: jmatthews@amherst.edu
+   Username: jmatthews
+   Original line: Jeff Matthews Head Coach, Women's Ice Hockey jmatthews@amherst.edu 413-542-
+
+36. Kathryn Truban
+   Email: ktruban@amherst.edu
+   Username: ktruban
+   Original line: Kathryn Truban Assistant Coach, Women's Hockey ktruban@amherst.edu
+
+37. Sean Woods
+   Email: swoods@amherst.edu
+   Username: swoods
+   Original line: Sean Woods Head Men's Lacrosse Coach swoods@amherst.edu 413-542-
+
+38. Sam Horning
+   Email: shorning@amherst.edu
+   Username: shorning
+   Original line: Sam Horning Assistant Coach, Men's Lacrosse / Recruiting Coordinator shorning@amherst.edu
+
+39. Sean Thornton
+   Email: sthornton@amherst.edu
+   Username: sthornton
+   Original line: Sean Thornton Assistant Coach, Men's Lacrosse sthornton@amherst.edu
+
+40. Brooke Diamond
+   Email: bdobrien@amherst.edu
+   Username: bdobrien
+   Original line: Brooke Diamond O'Brien '03 Head Coach of Women's Lacrosse bdobrien@amherst.edu 413-542-
+
+41. Erica Erb
+   Email: eerb@amherst.edu
+   Username: eerb
+   Original line: Erica Erb Assistant Coach, Women's Lacrosse eerb@amherst.edu
+
+42. Serena Pisacano
+   Email: spisacano@amherst.edu
+   Username: spisacano
+   Original line: Serena Pisacano Assistant Coach, Women's Lacrosse spisacano@amherst.edu
+
+43. Justin Serpone
+   Email: jserpone@amherst.edu
+   Username: jserpone
+   Original line: Justin Serpone Head Coach of Men's Soccer / Director of Amherst LEADS jserpone@amherst.edu 413-542-
+
+44. Alex Ortega
+   Email: aortega@amherst.edu
+   Username: aortega
+   Original line: Alex Ortega Assistant Coach, Men's Soccer aortega@amherst.edu 413-542-
+
+45. Jen Hughes
+   Email: jhughes@amherst.edu
+   Username: jhughes
+   Original line: Jen Hughes Head Women's Soccer Coach jhughes@amherst.edu 413-542-
+
+46. Su DelGuercio
+   Email: sdelguercio@amherst.edu
+   Username: sdelguercio
+   Original line: Su DelGuercio Assistant Women's Soccer Coach sdelguercio@amherst.edu (413) 542-
+
+47. Diann Ramsey
+   Email: dramsey@amherst.edu
+   Username: dramsey
+   Original line: Diann Ramsey Head Coach of Softball dramsey@amherst.edu
+
+48. Katie Watts
+   Email: kwatts@amherst.edu
+   Username: kwatts
+   Original line: Katie Watts Assistant Coach, Softball kwatts@amherst.edu
+
+49. Sarah Harker
+   Email: sharker@amherst.edu
+   Username: sharker
+   Original line: Sarah Harker Assistant Coach, Softball sharker@amherst.edu
+
+50. Busani Xaba
+   Email: bxaba@amherst.edu
+   Username: bxaba
+   Original line: Busani Xaba Head Coach, Squash bxaba@amherst.edu 413-542-
+
+51. Busani Xaba
+   Email: bxaba@amherst.edu
+   Username: bxaba
+   Original line: Busani Xaba Head Coach, Squash bxaba@amherst.edu 413-542-
+
+52. Connor Beaulieu
+   Email: cbeaulieu14@amherst.edu
+   Username: cbeaulieu14
+   Original line: Connor Beaulieu '14 Head Coach, Swimming & Diving cbeaulieu14@amherst.edu 413-542-
+
+53. Lianne McCluskey
+   Email: lmccluskey@amherst.edu
+   Username: lmccluskey
+   Original line: Lianne McCluskey Assistant Swimming Coach lmccluskey@amherst.edu
+
+54. Connor Beaulieu
+   Email: cbeaulieu14@amherst.edu
+   Username: cbeaulieu14
+   Original line: Connor Beaulieu '14 Head Coach, Swimming & Diving cbeaulieu14@amherst.edu 413-542-
+
+55. Lianne McCluskey
+   Email: lmccluskey@amherst.edu
+   Username: lmccluskey
+   Original line: Lianne McCluskey Assistant Swimming Coach lmccluskey@amherst.edu
+
+56. Todd Doebler
+   Email: tdoebler@amherst.edu
+   Username: tdoebler
+   Original line: Todd Doebler Head Men's Tennis Coach tdoebler@amherst.edu 413-542-
+
+57. Kip Rogers
+   Email: krogers@amherst.edu
+   Username: krogers
+   Original line: Kip Rogers Assistant Coach, Men's Tennis krogers@amherst.edu
+
+58. Jackie Bagwell
+   Email: jkbagwell@amherst.edu
+   Username: jkbagwell
+   Original line: Jackie Bagwell Head Coach of Women's Tennis jkbagwell@amherst.edu 413-542-
+
+59. Ross Silverberg
+   Email: rsilverberg@amherst.edu
+   Username: rsilverberg
+   Original line: Ross Silverberg Assistant Coach/Recruiting Coordinator, Women's Tennis rsilverberg@amherst.edu
+
+60. Steve Rubin
+   Email: strubin@amherst.edu
+   Username: strubin
+   Original line: Steve Rubin Head Track & Field Coach strubin@amherst.edu 413-542-
+
+61. Hannah Chappell-Dick
+   Email: hchappelldick@amherst.edu
+   Username: hchappelldick
+   Original line: Hannah Chappell-Dick Head Coach, Cross Country / Assistant Coach, M&W Track & Field hchappelldick@amherst.edu 413-542-
+
+62. Jamie Carlson
+   Email: jcarlson@amherst.edu
+   Username: jcarlson
+   Original line: Jamie Carlson Assistant Coach, M&W Track & Field jcarlson@amherst.edu
+
+63. John Murphy
+   Email: jomurphy@amherst.edu
+   Username: jomurphy
+   Original line: John Murphy Assistant Coach, M&W Track & Field jomurphy@amherst.edu
+
+64. Andre Dubois
+   Email: adubois@amherst.edu
+   Username: adubois
+   Original line: Andre Dubois Assistant Coach, M&W Track & Field adubois@amherst.edu
+
+65. Steve Rubin
+   Email: strubin@amherst.edu
+   Username: strubin
+   Original line: Steve Rubin Head Track & Field Coach strubin@amherst.edu 413-542-
+
+66. Hannah Chappell-Dick
+   Email: hchappelldick@amherst.edu
+   Username: hchappelldick
+   Original line: Hannah Chappell-Dick Head Coach, Cross Country / Assistant Coach, M&W Track & Field hchappelldick@amherst.edu 413-542-
+
+67. Jamie Carlson
+   Email: jcarlson@amherst.edu
+   Username: jcarlson
+   Original line: Jamie Carlson Assistant Coach, M&W Track & Field jcarlson@amherst.edu
+
+68. John Murphy
+   Email: jomurphy@amherst.edu
+   Username: jomurphy
+   Original line: John Murphy Assistant Coach, M&W Track & Field jomurphy@amherst.edu
+
+69. Andre Dubois
+   Email: adubois@amherst.edu
+   Username: adubois
+   Original line: Andre Dubois Assistant Coach, M&W Track & Field adubois@amherst.edu
+
+70. Val Jones
+   Email: vjones@amherst.edu
+   Username: vjones
+   Original line: Val Jones Head Volleyball Coach vjones@amherst.edu 413-542-
+
+71. Carly Pry
+   Email: cpry@amherst.edu
+   Username: cpry
+   Original line: Carly Pry Assistant Coach, Volleyball cpry@amherst.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Justin Serpone Head Coach of Men's Soccer / Director of Amherst LEADS jserpone@amherst.edu 413-542-
+• Carol Knerr Head Coach of Field Hockey crknerr@amherst.edu 413-542-
+• Chris Boyko Head Strength & Conditioning Coach / Fitness Center Director cboyko@amherst.edu 413-542-
+• J.P. Pyne Head Coach of Baseball jpyne@amherst.edu 413-542-
+• Kevin Murphy Pitching Coach/Recruiting Coordinator kevmurphy@amherst.edu
+• Jack Cooney Assistant Coach, Baseball jcooney@amherst.edu
+• Marlon Sears Head Coach, Men's Basketball msears@amherst.edu 413-542-
+• Casey Lane Assistant Coach, Men's Basketball caseylane@amherst.edu.
+• Blake Waldron Assistant Coach, Men's Basketball bwaldron@amherst.edu
+• G.P. Gromacki Head Coach of Women's Basketball ggromacki@amherst.edu 413-542-
+• Kayla Madden Assistant Coach, Women's Basketball kmadden@amherst.edu
+• Kate Sullivan '21 Assistant Coach, Women's Basketball ksullivan21@amherst.edu 413-542-
+• Hannah Chappell-Dick Head Coach, Cross Country / Assistant Coach, M&W Track & Field hchappelldick@amherst.edu 413-542-
+• Chase Worthen Assistant Coach, M&W Cross Country cworthen@amherst.edu
+• Ian Dopp '24 Assistant Coach, Cross Country idopp24@amherst.edu
+• Hannah Chappell-Dick Head Coach, Cross Country / Assistant Coach, M&W Track & Field hchappelldick@amherst.edu 413-542-
+• Chase Worthen Assistant Coach, M&W Cross Country cworthen@amherst.edu
+• Ian Dopp '24 Assistant Coach, Cross Country idopp24@amherst.edu
+• Carol Knerr Head Coach of Field Hockey crknerr@amherst.edu 413-542-
+• Kaeleigh Lord Assistant Coach of Field Hockey kaelord@amherst.edu
+• Jennifer Staab Assistant Coach, Field Hockey jstaab@amherst.edu
+• E.J. Mills Head Coach of Football ejmills@amherst.edu 413-542-
+• Luke Bussard Defensive Coordinator / Linebackers Coach jbussard@amherst.edu 413-542-
+• Eddy Augustin Special Teams Coordinator / Defensive Line Coach eaugustin@amherst.edu 413-542-
+• Malik Grove Offensive Coordinator / Quarterbacks Coach mgrove@amherst.edu
+• Turner Geenty TE & RBs Coach/Recruiting Coordinator tgeenty@amherst.edu
+• Antonio Young Wide Receivers Coach anyoung@amherst.edu
+• Elizabeth Geene Head Coach of Golf emdavis@amherst.edu 413-542-
+• Meredith Mayes Assistant Coach of Golf mmayes@amherst.edu 413-542-
+• Elizabeth Geene Head Coach of Golf emdavis@amherst.edu 413-542-
+• Meredith Mayes Assistant Coach of Golf mmayes@amherst.edu 413-542-
+• Eddie Effinger '12 Head Coach of Men's Ice Hockey eeffinger12@amherst.edu 413-542-
+• Mark Leach Assistant Coach, Men's Hockey markleach@amherst.edu
+• Conor Tierney Assistant Coach, Men's Hockey ctierney@amherst.edu
+• Jeff Matthews Head Coach, Women's Ice Hockey jmatthews@amherst.edu 413-542-
+• Kathryn Truban Assistant Coach, Women's Hockey ktruban@amherst.edu
+• Sean Woods Head Men's Lacrosse Coach swoods@amherst.edu 413-542-
+• Sam Horning Assistant Coach, Men's Lacrosse / Recruiting Coordinator shorning@amherst.edu
+• Sean Thornton Assistant Coach, Men's Lacrosse sthornton@amherst.edu
+• Brooke Diamond O'Brien '03 Head Coach of Women's Lacrosse bdobrien@amherst.edu 413-542-
+• Erica Erb Assistant Coach, Women's Lacrosse eerb@amherst.edu
+• Serena Pisacano Assistant Coach, Women's Lacrosse spisacano@amherst.edu
+• Justin Serpone Head Coach of Men's Soccer / Director of Amherst LEADS jserpone@amherst.edu 413-542-
+• Alex Ortega Assistant Coach, Men's Soccer aortega@amherst.edu 413-542-
+• Jen Hughes Head Women's Soccer Coach jhughes@amherst.edu 413-542-
+• Su DelGuercio Assistant Women's Soccer Coach sdelguercio@amherst.edu (413) 542-
+• Diann Ramsey Head Coach of Softball dramsey@amherst.edu
+• Katie Watts Assistant Coach, Softball kwatts@amherst.edu
+• Sarah Harker Assistant Coach, Softball sharker@amherst.edu
+• Busani Xaba Head Coach, Squash bxaba@amherst.edu 413-542-
+• Busani Xaba Head Coach, Squash bxaba@amherst.edu 413-542-
+• Connor Beaulieu '14 Head Coach, Swimming & Diving cbeaulieu14@amherst.edu 413-542-
+• Lianne McCluskey Assistant Swimming Coach lmccluskey@amherst.edu
+• Connor Beaulieu '14 Head Coach, Swimming & Diving cbeaulieu14@amherst.edu 413-542-
+• Lianne McCluskey Assistant Swimming Coach lmccluskey@amherst.edu
+• Todd Doebler Head Men's Tennis Coach tdoebler@amherst.edu 413-542-
+• Kip Rogers Assistant Coach, Men's Tennis krogers@amherst.edu
+• Jackie Bagwell Head Coach of Women's Tennis jkbagwell@amherst.edu 413-542-
+• Ross Silverberg Assistant Coach/Recruiting Coordinator, Women's Tennis rsilverberg@amherst.edu
+• Steve Rubin Head Track & Field Coach strubin@amherst.edu 413-542-
+• Hannah Chappell-Dick Head Coach, Cross Country / Assistant Coach, M&W Track & Field hchappelldick@amherst.edu 413-542-
+• Jamie Carlson Assistant Coach, M&W Track & Field jcarlson@amherst.edu
+• John Murphy Assistant Coach, M&W Track & Field jomurphy@amherst.edu
+• Andre Dubois Assistant Coach, M&W Track & Field adubois@amherst.edu
+• Steve Rubin Head Track & Field Coach strubin@amherst.edu 413-542-
+• Hannah Chappell-Dick Head Coach, Cross Country / Assistant Coach, M&W Track & Field hchappelldick@amherst.edu 413-542-
+• Jamie Carlson Assistant Coach, M&W Track & Field jcarlson@amherst.edu
+• John Murphy Assistant Coach, M&W Track & Field jomurphy@amherst.edu
+• Andre Dubois Assistant Coach, M&W Track & Field adubois@amherst.edu
+• Val Jones Head Volleyball Coach vjones@amherst.edu 413-542-
+• Carly Pry Assistant Coach, Volleyball cpry@amherst.edu

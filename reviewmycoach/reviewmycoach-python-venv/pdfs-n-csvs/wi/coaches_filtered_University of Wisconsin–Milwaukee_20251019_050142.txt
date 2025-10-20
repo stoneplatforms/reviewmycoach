@@ -1,0 +1,281 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:42
+============================================================
+
+Total coaches found: 45
+
+PARSED ENTRIES:
+----------------------------------------
+1. Hayley Johnson
+   Email: mkecheer@gmail.com
+   Username: mkecheer
+   Original line: Hayley Johnson Cheerleading Coach mkecheer@gmail.com
+
+2. Isabella Pappalardo
+   Email: mkecheer@gmail.com
+   Username: mkecheer
+   Original line: Isabella Pappalardo Assistant Cheerleading Coach mkecheer@gmail.com
+
+3. Rachael Varin
+   Email: mkecheer@gmail.com
+   Username: mkecheer
+   Original line: Rachael Varin Assistant Cheerleading Coach mkecheer@gmail.com
+
+4. Angela de
+   Email: addeleon@uwm.edu
+   Username: addeleon
+   Original line: Angela de Leon-Belden Dance Team Coach addeleon@uwm.edu 414-229-
+
+5. Charlie Benforado
+   Email: benfora3@uwm.edu
+   Username: benfora3
+   Original line: Charlie Benforado Assistant Strength & Conditioning Coach (MSOC, WBB, T&F/XC) benfora3@uwm.edu
+
+6. Shaun Wegner
+   Email: sawegner@uwm.edu
+   Username: sawegner
+   Original line: Shaun Wegner Head Coach sawegner@uwm.edu 414-265-
+
+7. Cory Bigler
+   Email: cbigler@uwm.edu
+   Username: cbigler
+   Original line: Cory Bigler Assistant Coach cbigler@uwm.edu 414-229-
+
+8. Mike Porcaro
+   Email: jporcaro@uwm.edu
+   Username: jporcaro
+   Original line: Mike Porcaro Assistant Coach / Recruiting Coordinator jporcaro@uwm.edu
+
+9. Jack Sievers
+   Email: sieversj@uwm.edu
+   Username: sieversj
+   Original line: Jack Sievers Assistant Coach sieversj@uwm.edu
+
+10. Andy Bergholz
+   Email: berghola@uwm.edu
+   Username: berghola
+   Original line: Andy Bergholz Assistant Coach / Player Development berghola@uwm.edu
+
+11. Jake Williams
+   Email: williajw@uwm.edu
+   Username: williajw
+   Original line: Jake Williams Associate Head Coach / Recruiting Coordinator williajw@uwm.edu
+
+12. Ben Walker
+   Email: walkerbj@uwm.edu
+   Username: walkerbj
+   Original line: Ben Walker Associate Head Coach walkerbj@uwm.edu
+
+13. Jose Winston
+   Email: jwinston@uwm.edu
+   Username: jwinston
+   Original line: Jose Winston Associate Coach jwinston@uwm.edu
+
+14. Michael Cooper
+   Email: cooper57@uwm.edu
+   Username: cooper57
+   Original line: Michael Cooper Assistant Coach / Director of Player Development cooper57@uwm.edu
+
+15. Mike Winans
+   Email: winans@uwm.edu
+   Username: winans
+   Original line: Mike Winans Assistant Coach / General Manager winans@uwm.edu 414-251-
+
+16. Julian Swartz
+   Email: swartzjm@uwm.edu
+   Username: swartzjm
+   Original line: Julian Swartz Special Assistant to the Head Coach swartzjm@uwm.edu
+
+17. Kyle Rechlicz
+   Email: rechlick@uwm.edu
+   Username: rechlick
+   Original line: Kyle Rechlicz Head Coach rechlick@uwm.edu
+
+18. John Pfaffl
+   Email: pfaffl@uwm.edu
+   Username: pfaffl
+   Original line: John Pfaffl Associate Head Coach pfaffl@uwm.edu
+
+19. Fletcher Brown
+   Email: brownf@uwm.edu
+   Username: brownf
+   Original line: Fletcher Brown Assistant Coach brownf@uwm.edu
+
+20. Lanyce Williams
+   Email: will3527@uwm.edu
+   Username: will3527
+   Original line: Lanyce Williams Assistant Coach will3527@uwm.edu
+
+21. Hannah Whitish
+   Email: hwhitish@uwm.edu
+   Username: hwhitish
+   Original line: Hannah Whitish Assistant Coach hwhitish@uwm.edu
+
+22. AJ Ediger
+   Email: ajediger@uwm.edu
+   Username: ajediger
+   Original line: AJ Ediger Graduate Assistant Coach ajediger@uwm.edu
+
+23. Kris Kelderman
+   Email: kelderma@uwm.edu
+   Username: kelderma
+   Original line: Kris Kelderman Head Coach kelderma@uwm.edu 414-639-
+
+24. Greg Rosenthal
+   Email: gtr@uwm.edu
+   Username: gtr
+   Original line: Greg Rosenthal Assistant Coach gtr@uwm.edu
+
+25. Agustin Rey
+   Email: amrey@uwm.edu
+   Username: amrey
+   Original line: Agustin Rey Assistant Coach amrey@uwm.edu
+
+26. Kevin Boyd
+   Email: boydk@uwm.edu
+   Username: boydk
+   Original line: Kevin Boyd Head Coach boydk@uwm.edu
+
+27. Logan Langseth
+   Email: langseth@uwm.edu
+   Username: langseth
+   Original line: Logan Langseth Assistant Coach langseth@uwm.edu
+
+28. Jacob Dietrich
+   Email: dietricj@uwm.edu
+   Username: dietricj
+   Original line: Jacob Dietrich Assistant Coach dietricj@uwm.edu
+
+29. Steve Lucas
+   Email: lucassm@uwm.edu
+   Username: lucassm
+   Original line: Steve Lucas Assistant Coach lucassm@uwm.edu
+
+30. Kyle Clements
+   Email: clemenka@uwm.edu
+   Username: clemenka
+   Original line: Kyle Clements Head Coach clemenka@uwm.edu 414-750-
+
+31. Todd Hill
+   Email: hillt@uwm.edu
+   Username: hillt
+   Original line: Todd Hill Diving Coach hillt@uwm.edu 414-229-
+
+32. Alex Hallam
+   Email: akhallam@uwm.edu
+   Username: akhallam
+   Original line: Alex Hallam Associate Head Coach akhallam@uwm.edu 414-242-
+
+33. Mark Goldin
+   Email: magoldin@uwm.edu
+   Username: magoldin
+   Original line: Mark Goldin Head Coach magoldin@uwm.edu
+
+34. Andrew Basler
+   Email: basler@uwm.edu
+   Username: basler
+   Original line: Andrew Basler Head Coach basler@uwm.edu 951-224-
+
+35. Priscilla Schultz
+   Email: schultp@uwm.edu
+   Username: schultp
+   Original line: Priscilla Schultz Associate Head Coach (XC) / Assistant Coach (T&F) schultp@uwm.edu
+
+36. Andrew Hatch
+   Email: hatcha@uwm.edu
+   Username: hatcha
+   Original line: Andrew Hatch Assistant Coach hatcha@uwm.edu 262-989-
+
+37. Zachary Schmidt
+   Email: schmidzs@uwm.edu
+   Username: schmidzs
+   Original line: Zachary Schmidt Assistant Coach schmidzs@uwm.edu 414-807-
+
+38. Terrance Howard
+   Email: howard69@uwm.edu
+   Username: howard69
+   Original line: Terrance Howard Assistant Coach howard69@uwm.edu 952-454-
+
+39. Maddie Wood
+   Email: mmwood@uwm.edu
+   Username: mmwood
+   Original line: Maddie Wood Assistant Distance Coach mmwood@uwm.edu
+
+40. Caleb Rogalski
+   Email: rogalsk5@uwm.edu
+   Username: rogalsk5
+   Original line: Caleb Rogalski Assistant Throws Coach rogalsk5@uwm.edu
+
+41. Trevor Wenzel
+   Email: wenzeltm@uwm.edu
+   Username: wenzeltm
+   Original line: Trevor Wenzel Assistant Distance Coach wenzeltm@uwm.edu
+
+42. Susie Johnson
+   Email: sketchum@uwm.edu
+   Username: sketchum
+   Original line: Susie Johnson Head Coach sketchum@uwm.edu 414-750-
+
+43. Lindsey Vanden
+   Email: laspoden@uwm.edu
+   Username: laspoden
+   Original line: Lindsey Vanden Berg Associate Head Coach / Recruiting Coordinator laspoden@uwm.edu 414-416-
+
+44. Katie Adams
+   Email: adamskt@uwm.edu
+   Username: adamskt
+   Original line: Katie Adams Assistant Coach adamskt@uwm.edu
+
+45. Raina Terry
+   Email: terryr@uwm.edu
+   Username: terryr
+   Original line: Raina Terry Assistant Coach terryr@uwm.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Hayley Johnson Cheerleading Coach mkecheer@gmail.com
+• Isabella Pappalardo Assistant Cheerleading Coach mkecheer@gmail.com
+• Rachael Varin Assistant Cheerleading Coach mkecheer@gmail.com
+• Angela de Leon-Belden Dance Team Coach addeleon@uwm.edu 414-229-
+• Charlie Benforado Assistant Strength & Conditioning Coach (MSOC, WBB, T&F/XC) benfora3@uwm.edu
+• Shaun Wegner Head Coach sawegner@uwm.edu 414-265-
+• Cory Bigler Assistant Coach cbigler@uwm.edu 414-229-
+• Mike Porcaro Assistant Coach / Recruiting Coordinator jporcaro@uwm.edu
+• Jack Sievers Assistant Coach sieversj@uwm.edu
+• Andy Bergholz Assistant Coach / Player Development berghola@uwm.edu
+• Jake Williams Associate Head Coach / Recruiting Coordinator williajw@uwm.edu
+• Ben Walker Associate Head Coach walkerbj@uwm.edu
+• Jose Winston Associate Coach jwinston@uwm.edu
+• Michael Cooper Assistant Coach / Director of Player Development cooper57@uwm.edu
+• Mike Winans Assistant Coach / General Manager winans@uwm.edu 414-251-
+• Julian Swartz Special Assistant to the Head Coach swartzjm@uwm.edu
+• Kyle Rechlicz Head Coach rechlick@uwm.edu
+• John Pfaffl Associate Head Coach pfaffl@uwm.edu
+• Fletcher Brown Assistant Coach brownf@uwm.edu
+• Lanyce Williams Assistant Coach will3527@uwm.edu
+• Hannah Whitish Assistant Coach hwhitish@uwm.edu
+• AJ Ediger Graduate Assistant Coach ajediger@uwm.edu
+• Kris Kelderman Head Coach kelderma@uwm.edu 414-639-
+• Greg Rosenthal Assistant Coach gtr@uwm.edu
+• Agustin Rey Assistant Coach amrey@uwm.edu
+• Kevin Boyd Head Coach boydk@uwm.edu
+• Logan Langseth Assistant Coach langseth@uwm.edu
+• Jacob Dietrich Assistant Coach dietricj@uwm.edu
+• Steve Lucas Assistant Coach lucassm@uwm.edu
+• Kyle Clements Head Coach clemenka@uwm.edu 414-750-
+• Todd Hill Diving Coach hillt@uwm.edu 414-229-
+• Alex Hallam Associate Head Coach akhallam@uwm.edu 414-242-
+• Mark Goldin Head Coach magoldin@uwm.edu
+• Andrew Basler Head Coach basler@uwm.edu 951-224-
+• Priscilla Schultz Associate Head Coach (XC) / Assistant Coach (T&F) schultp@uwm.edu
+• Andrew Hatch Assistant Coach hatcha@uwm.edu 262-989-
+• Zachary Schmidt Assistant Coach schmidzs@uwm.edu 414-807-
+• Terrance Howard Assistant Coach howard69@uwm.edu 952-454-
+• Maddie Wood Assistant Distance Coach mmwood@uwm.edu
+• Caleb Rogalski Assistant Throws Coach rogalsk5@uwm.edu
+• Trevor Wenzel Assistant Distance Coach wenzeltm@uwm.edu
+• Susie Johnson Head Coach sketchum@uwm.edu 414-750-
+• Lindsey Vanden Berg Associate Head Coach / Recruiting Coordinator laspoden@uwm.edu 414-416-
+• Katie Adams Assistant Coach adamskt@uwm.edu
+• Raina Terry Assistant Coach terryr@uwm.edu

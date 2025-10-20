@@ -1,0 +1,17 @@
+Printing results: Success=25 Skipped=2 Errors=0
+
+Skipped/Failed links:
+- Cardinal Stritch University.pdf: https://stritchwolves.com/staff-directory -> HTTP 404 returned
+  tried: https://stritchwolves.com/staff-directory?print=true, https://stritchwolves.com/staff-directory/print, https://stritchwolves.com/staff-directory, https://stritchwolves.com/staff-directory/index?print=true, https://stritchwolves.com/staff-directory/index/print, https://stritchwolves.com/staff-directory/index
+- St. Norbert College.pdf: https://sncgreenknights.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://sncgreenknights.com/staff-directory/index
+Call log:
+  - navigating to "https://sncgreenknights.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://sncgreenknights.com/staff-directory?print=true, https://sncgreenknights.com/staff-directory/print, https://sncgreenknights.com/staff-directory, https://sncgreenknights.com/staff-directory/index?print=true, https://sncgreenknights.com/staff-directory/index/print, https://sncgreenknights.com/staff-directory/index
+
+PDFs with zero coaches detected:
+- Marquette University.pdf
+- Beloit College.pdf
+- Viterbo University.pdf
+- Concordia University Wisconsin.pdf
+- University of Wisconsin–Superior.pdf

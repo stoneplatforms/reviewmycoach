@@ -1,0 +1,4 @@
+Printing results: Success=6 Skipped=0 Errors=0
+
+PDFs with zero coaches detected:
+- New Mexico State University.pdf

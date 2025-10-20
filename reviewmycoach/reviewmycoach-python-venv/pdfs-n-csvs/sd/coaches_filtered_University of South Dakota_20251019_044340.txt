@@ -1,0 +1,233 @@
+COACH ENTRIES FOUND - 2025-10-19 04:43:40
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rebecca McNamara
+   Email: Rebecca.McNamara@usd.edu
+   Username: Rebecca.McNamara
+   Original line: Rebecca McNamara Dance Coach Rebecca.McNamara@usd.edu
+
+2. Matt Murken
+   Email: matthew.murken@usd.edu
+   Username: matthew.murken
+   Original line: Matt Murken Assistant Coach matthew.murken@usd.edu
+
+3. Brandon Ubel
+   Email: Brandon.Ubel@usd.edu
+   Username: Brandon.Ubel
+   Original line: Brandon Ubel Assistant Coach Brandon.Ubel@usd.edu
+
+4. Sean Smith
+   Email: sean.m.smith@usd.edu
+   Username: sean.m.smith
+   Original line: Sean Smith Assistant Coach sean.m.smith@usd.edu
+
+5. Michael Russell
+   Email: Michael.Russell@usd.edu
+   Username: Michael.Russell
+   Original line: Michael Russell Assistant Coach Michael.Russell@usd.edu
+
+6. Triston Simpson
+   Email: triston.simpson@usd.edu
+   Username: triston.simpson
+   Original line: Triston Simpson Assistant Coach triston.simpson@usd.edu
+
+7. Carrie Eighmey
+   Email: Carrie.Eighmey@usd.edu
+   Username: Carrie.Eighmey
+   Original line: Carrie Eighmey Head Coach Carrie.Eighmey@usd.edu
+
+8. Paul Fessler
+   Email: Paul.Fessler@usd.edu
+   Username: Paul.Fessler
+   Original line: Paul Fessler Assistant Coach Paul.Fessler@usd.edu
+
+9. Devin Eighmey
+   Email: Devin.Eighmey@usd.edu
+   Username: Devin.Eighmey
+   Original line: Devin Eighmey Assistant Coach Devin.Eighmey@usd.edu
+
+10. Bailey Morris
+   Email: Bailey.Morris@usd.edu
+   Username: Bailey.Morris
+   Original line: Bailey Morris Assistant Coach/Director of Operations Bailey.Morris@usd.edu
+
+11. Nolan Fife
+   Email: Nolan.Fife@usd.edu
+   Username: Nolan.Fife
+   Original line: Nolan Fife Head Cross Country Coach/Distance/Mid-Distance Nolan.Fife@usd.edu
+
+12. Bailey Johanson
+   Email: Bailey.Johanson@usd.edu
+   Username: Bailey.Johanson
+   Original line: Bailey Johanson Director of Operations/Assistant Coach/Jumps Bailey.Johanson@usd.edu
+
+13. Travis Johansen
+   Email: Travis.Johansen@usd.edu
+   Username: Travis.Johansen
+   Original line: Travis Johansen Head Coach Travis.Johansen@usd.edu
+
+14. Cody Fayette
+   Email: Cody.Fayette@usd.edu
+   Username: Cody.Fayette
+   Original line: Cody Fayette Assistant Offensive Line Coach / Video Coordinator Cody.Fayette@usd.edu
+
+15. Dennis Shorter
+   Email: Dennis.Shorter@usd.edu
+   Username: Dennis.Shorter
+   Original line: Dennis Shorter Assistant Safeties Coach Dennis.Shorter@usd.edu
+
+16. Kyle Taylor
+   Email: Kyle.Taylor@usd.edu
+   Username: Kyle.Taylor
+   Original line: Kyle Taylor Assistant Linebacker Coach Kyle.Taylor@usd.edu
+
+17. Grant Campbell
+   Email: Grant.O.Campbell@usd.edu
+   Username: Grant.O.Campbell
+   Original line: Grant Campbell Assistant Coach Grant.O.Campbell@usd.edu
+
+18. Brett Bennett
+   Email: Brett.Bennett@usd.edu
+   Username: Brett.Bennett
+   Original line: Brett Bennett Head Coach Brett.Bennett@usd.edu
+
+19. Michael Thomas
+   Email: Michael.K.Thomas@usd.edu
+   Username: Michael.K.Thomas
+   Original line: Michael Thomas Head Coach Michael.K.Thomas@usd.edu
+
+20. Maggie Sherman
+   Email: Maggie.Sherman@usd.edu
+   Username: Maggie.Sherman
+   Original line: Maggie Sherman Associate Head Coach Maggie.Sherman@usd.edu
+
+21. Alyssa Granno
+   Email: Alyssa.Granno@usd.edu
+   Username: Alyssa.Granno
+   Original line: Alyssa Granno Assistant Coach Alyssa.Granno@usd.edu
+
+22. Robert Wagner
+   Email: Robert.Wagner@usd.edu
+   Username: Robert.Wagner
+   Original line: Robert Wagner Head Coach Robert.Wagner@usd.edu
+
+23. Shannon Pivovar
+   Email: Shannon.Pivovar@usd.edu
+   Username: Shannon.Pivovar
+   Original line: Shannon Pivovar Associate Head Coach Shannon.Pivovar@usd.edu
+
+24. Clara Edwards
+   Email: Clara.Edwards@usd.edu
+   Username: Clara.Edwards
+   Original line: Clara Edwards Assistant Coach Clara.Edwards@usd.edu
+
+25. Jason Mahowald
+   Email: Jason.Mahowald@usd.edu
+   Username: Jason.Mahowald
+   Original line: Jason Mahowald Head Coach Jason.Mahowald@usd.edu
+
+26. Anthony Harris
+   Email: Anthony.Harris@usd.edu
+   Username: Anthony.Harris
+   Original line: Anthony Harris Associate Head Coach Anthony.Harris@usd.edu
+
+27. Jill Smolczyk
+   Email: Jill.Smolczyk@usd.edu
+   Username: Jill.Smolczyk
+   Original line: Jill Smolczyk Diving Coach Jill.Smolczyk@usd.edu
+
+28. Pasha Zinchenko
+   Email: Pavel.Zinchenko@usd.edu
+   Username: Pavel.Zinchenko
+   Original line: Pasha Zinchenko Head Coach Pavel.Zinchenko@usd.edu
+
+29. Nolan Fife
+   Email: Nolan.Fife@usd.edu
+   Username: Nolan.Fife
+   Original line: Nolan Fife Head Cross Country Coach/Distance/Mid-Distance Nolan.Fife@usd.edu
+
+30. Teivaskie Lewin
+   Email: Teivaskie.Lewin@usd.edu
+   Username: Teivaskie.Lewin
+   Original line: Teivaskie Lewin Assistant Coach/Sprints/Hurdles Teivaskie.Lewin@usd.edu
+
+31. Kyle Long
+   Email: Kyle.Long@usd.edu
+   Username: Kyle.Long
+   Original line: Kyle Long Assistant Coach/Throws Kyle.Long@usd.edu
+
+32. Bailey Johanson
+   Email: Bailey.Johanson@usd.edu
+   Username: Bailey.Johanson
+   Original line: Bailey Johanson Director of Operations/Assistant Coach/Jumps Bailey.Johanson@usd.edu
+
+33. Kyle Joplin
+   Email: Kyle.Joplin@usd.edu
+   Username: Kyle.Joplin
+   Original line: Kyle Joplin Head Coach Kyle.Joplin@usd.edu
+
+34. Leanne Williamson
+   Email: Leanne.Williamson@usd.edu
+   Username: Leanne.Williamson
+   Original line: Leanne Williamson Head Coach Leanne.Williamson@usd.edu
+
+35. Michael Runde
+   Email: Michael.Runde@usd.edu
+   Username: Michael.Runde
+   Original line: Michael Runde Associate Head Coach Michael.Runde@usd.edu
+
+36. Abby Hall
+   Email: abby.hall@usd.edu
+   Username: abby.hall
+   Original line: Abby Hall Assistant Coach abby.hall@usd.edu
+
+37. Barrett Power
+   Email: barrett.power@usd.edu
+   Username: barrett.power
+   Original line: Barrett Power Assistant Coach barrett.power@usd.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rebecca McNamara Dance Coach Rebecca.McNamara@usd.edu
+• Matt Murken Assistant Coach matthew.murken@usd.edu
+• Brandon Ubel Assistant Coach Brandon.Ubel@usd.edu
+• Sean Smith Assistant Coach sean.m.smith@usd.edu
+• Michael Russell Assistant Coach Michael.Russell@usd.edu
+• Triston Simpson Assistant Coach triston.simpson@usd.edu
+• Carrie Eighmey Head Coach Carrie.Eighmey@usd.edu
+• Paul Fessler Assistant Coach Paul.Fessler@usd.edu
+• Devin Eighmey Assistant Coach Devin.Eighmey@usd.edu
+• Bailey Morris Assistant Coach/Director of Operations Bailey.Morris@usd.edu
+• Nolan Fife Head Cross Country Coach/Distance/Mid-Distance Nolan.Fife@usd.edu
+• Bailey Johanson Director of Operations/Assistant Coach/Jumps Bailey.Johanson@usd.edu
+• Travis Johansen Head Coach Travis.Johansen@usd.edu
+• Cody Fayette Assistant Offensive Line Coach / Video Coordinator Cody.Fayette@usd.edu
+• Dennis Shorter Assistant Safeties Coach Dennis.Shorter@usd.edu
+• Kyle Taylor Assistant Linebacker Coach Kyle.Taylor@usd.edu
+• Grant Campbell Assistant Coach Grant.O.Campbell@usd.edu
+• Brett Bennett Head Coach Brett.Bennett@usd.edu
+• Michael Thomas Head Coach Michael.K.Thomas@usd.edu
+• Maggie Sherman Associate Head Coach Maggie.Sherman@usd.edu
+• Alyssa Granno Assistant Coach Alyssa.Granno@usd.edu
+• Robert Wagner Head Coach Robert.Wagner@usd.edu
+• Shannon Pivovar Associate Head Coach Shannon.Pivovar@usd.edu
+• Clara Edwards Assistant Coach Clara.Edwards@usd.edu
+• Jason Mahowald Head Coach Jason.Mahowald@usd.edu
+• Anthony Harris Associate Head Coach Anthony.Harris@usd.edu
+• Jill Smolczyk Diving Coach Jill.Smolczyk@usd.edu
+• Pasha Zinchenko Head Coach Pavel.Zinchenko@usd.edu
+• Nolan Fife Head Cross Country Coach/Distance/Mid-Distance Nolan.Fife@usd.edu
+• Teivaskie Lewin Assistant Coach/Sprints/Hurdles Teivaskie.Lewin@usd.edu
+• Kyle Long Assistant Coach/Throws Kyle.Long@usd.edu
+• Bailey Johanson Director of Operations/Assistant Coach/Jumps Bailey.Johanson@usd.edu
+• Kyle Joplin Head Coach Kyle.Joplin@usd.edu
+• Leanne Williamson Head Coach Leanne.Williamson@usd.edu
+• Michael Runde Associate Head Coach Michael.Runde@usd.edu
+• Abby Hall Assistant Coach abby.hall@usd.edu
+• Barrett Power Assistant Coach barrett.power@usd.edu

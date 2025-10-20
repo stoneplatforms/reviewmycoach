@@ -1,0 +1,47 @@
+COACH ENTRIES FOUND - 2025-10-06 18:38:10
+============================================================
+
+Total coaches found: 6
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kyle Brumett
+   Email: brumettk@wabash.edu
+   Username: brumettk
+   Original line: Kyle Brumett Head Basketball brumettk@wabash.edu 765- Coach_Brum
+
+2. Tyler McCreary
+   Email: mccreart@wabash.edu
+   Username: mccreart
+   Original line: Tyler McCreary Head Cross mccreart@wabash.edu 765- coach_mccreary
+
+3. Olmy Olmstead
+   Email: olmsteae@wabash.edu
+   Username: olmsteae
+   Original line: Olmy Olmstead Assistant olmsteae@wabash.edu 765- CoachOlmy
+
+4. Nate Webber
+   Email: webbern@wabash.edu
+   Username: webbern
+   Original line: Nate Webber Head Coach webbern@wabash.edu 765-
+
+5. Will Bernhardt
+   Email: bernharw@wabash.edu
+   Username: bernharw
+   Original line: Will Bernhardt Head Swimming bernharw@wabash.edu 765- SwimCoachWill @SwimCoachWill
+
+6. Tyler McCreary
+   Email: mccreart@wabash.edu
+   Username: mccreart
+   Original line: Tyler McCreary Head Cross mccreart@wabash.edu 765- coach_mccreary
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kyle Brumett Head Basketball brumettk@wabash.edu 765- Coach_Brum
+• Tyler McCreary Head Cross mccreart@wabash.edu 765- coach_mccreary
+• Olmy Olmstead Assistant olmsteae@wabash.edu 765- CoachOlmy
+• Nate Webber Head Coach webbern@wabash.edu 765-
+• Will Bernhardt Head Swimming bernharw@wabash.edu 765- SwimCoachWill @SwimCoachWill
+• Tyler McCreary Head Cross mccreart@wabash.edu 765- coach_mccreary

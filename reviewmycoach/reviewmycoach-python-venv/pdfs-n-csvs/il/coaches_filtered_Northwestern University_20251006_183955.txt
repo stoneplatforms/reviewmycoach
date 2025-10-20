@@ -1,0 +1,191 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:57
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Special Assistant
+   Email: bjames@northwestern.edu
+   Username: bjames
+   Original line: Special Assistant to the Head Coach bjames@northwestern.edu
+
+2. Assistant Coach
+   Email: christopher.lowery@northwestern.edu
+   Username: christopher.lowery
+   Original line: Assistant Coach christopher.lowery@northwestern.edu
+
+3. Assistant Coach
+   Email: maggielyon@northwestern.edu
+   Username: maggielyon
+   Original line: Assistant Coach maggielyon@northwestern.edu
+
+4. Assistant Coach
+   Email: brittany.johnson@northwestern.edu
+   Username: brittany.johnson
+   Original line: Assistant Coach brittany.johnson@northwestern.edu
+
+5. Head Coach
+   Email: zachary.moss@northwestern.edu
+   Username: zachary.moss
+   Original line: Head Coach zachary.moss@northwestern.edu
+
+6. Assistant Coach
+   Email: dennis.kolakowski@northwestern.edu
+   Username: dennis.kolakowski
+   Original line: Assistant Coach dennis.kolakowski@northwestern.edu
+
+7. Head Coach
+   Email: tfuchs@northwestern.edu
+   Username: tfuchs
+   Original line: Head Coach tfuchs@northwestern.edu
+
+8. Assistant Coach/Recruiting
+   Email: wbyrne@northwestern.edu
+   Username: wbyrne
+   Original line: Assistant Coach/Recruiting Coordinator wbyrne@northwestern.edu
+
+9. Head Coach
+   Email: d-inglis@northwestern.edu
+   Username: d-inglis
+   Original line: Head Coach d-inglis@northwestern.edu
+
+10. Head Coach
+   Email: emily-fletcher@northwestern.edu
+   Username: emily-fletcher
+   Original line: Head Coach emily-fletcher@northwestern.edu
+
+11. Assistant Coach
+   Email: beth-miller@northwestern.edu
+   Username: beth-miller
+   Original line: Assistant Coach beth-miller@northwestern.edu
+
+12. Combe Family
+   Email: h-amonte@northwestern.edu
+   Username: h-amonte
+   Original line: Combe Family Head Lacrosse Coach h-amonte@northwestern.edu
+
+13. Assistant Coach
+   Email: scott.hiller1@northwestern.edu
+   Username: scott.hiller1
+   Original line: Assistant Coach scott.hiller1@northwestern.edu
+
+14. Assistant Coach
+   Email: alexis.venechanos@northwestern.edu
+   Username: alexis.venechanos
+   Original line: Assistant Coach alexis.venechanos@northwestern.edu
+
+15. Assistant Coach
+   Email: rbouemboue@northwestern.edu
+   Username: rbouemboue
+   Original line: Assistant Coach rbouemboue@northwestern.edu
+
+16. Head Coach
+   Email: wsoccer@northwestern.edu
+   Username: wsoccer
+   Original line: Head Coach wsoccer@northwestern.edu
+
+17. Head Coach
+   Email: k-drohan@northwestern.edu
+   Username: k-drohan
+   Original line: Head Coach k-drohan@northwestern.edu
+
+18. Associate Head
+   Email: c-drohan@northwestern.edu
+   Username: c-drohan
+   Original line: Associate Head Coach c-drohan@northwestern.edu
+
+19. Assistant Coach
+   Email: m.gascoigne@northwestern.edu
+   Username: m.gascoigne
+   Original line: Assistant Coach m.gascoigne@northwestern.edu
+
+20. Diving Coach
+   Email: kris.jorgensen@northwestern.edu
+   Username: kris.jorgensen
+   Original line: Diving Coach kris.jorgensen@northwestern.edu
+
+21. Assistant Coach
+   Email: margaret.howe@northwestern.edu
+   Username: margaret.howe
+   Original line: Assistant Coach margaret.howe@northwestern.edu
+
+22. Assistant Coach
+   Email: jacob.siar@northwestern.edu
+   Username: jacob.siar
+   Original line: Assistant Coach jacob.siar@northwestern.edu
+
+23. Diving Coach
+   Email: kris.jorgensen@northwestern.edu
+   Username: kris.jorgensen
+   Original line: Diving Coach kris.jorgensen@northwestern.edu
+
+24. Assistant Coach
+   Email: margaret.howe@northwestern.edu
+   Username: margaret.howe
+   Original line: Assistant Coach margaret.howe@northwestern.edu
+
+25. Assistant Coach
+   Email: jacob.siar@northwestern.edu
+   Username: jacob.siar
+   Original line: Assistant Coach jacob.siar@northwestern.edu
+
+26. Head Coach
+   Email: a-swan@northwestern.edu
+   Username: a-swan
+   Original line: Head Coach a-swan@northwestern.edu
+
+27. Associate Head
+   Email: christopher.klingemann@northwestern.edu
+   Username: christopher.klingemann
+   Original line: Associate Head Coach christopher.klingemann@northwestern.edu
+
+28. Head Coach
+   Email: c-pollard@northwestern.edu
+   Username: c-pollard
+   Original line: Head Coach c-pollard@northwestern.edu
+
+29. Head Coach
+   Email: m-storniolo@northwestern.edu
+   Username: m-storniolo
+   Original line: Head Coach m-storniolo@northwestern.edu
+
+30. Assistant Coach
+   Email: justin.oliver@northwestern.edu
+   Username: justin.oliver
+   Original line: Assistant Coach justin.oliver@northwestern.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Special Assistant to the Head Coach bjames@northwestern.edu
+• Assistant Coach christopher.lowery@northwestern.edu
+• Assistant Coach maggielyon@northwestern.edu
+• Assistant Coach brittany.johnson@northwestern.edu
+• Head Coach zachary.moss@northwestern.edu
+• Assistant Coach dennis.kolakowski@northwestern.edu
+• Head Coach tfuchs@northwestern.edu
+• Assistant Coach/Recruiting Coordinator wbyrne@northwestern.edu
+• Head Coach d-inglis@northwestern.edu
+• Head Coach emily-fletcher@northwestern.edu
+• Assistant Coach beth-miller@northwestern.edu
+• Combe Family Head Lacrosse Coach h-amonte@northwestern.edu
+• Assistant Coach scott.hiller1@northwestern.edu
+• Assistant Coach alexis.venechanos@northwestern.edu
+• Assistant Coach rbouemboue@northwestern.edu
+• Head Coach wsoccer@northwestern.edu
+• Head Coach k-drohan@northwestern.edu
+• Associate Head Coach c-drohan@northwestern.edu
+• Assistant Coach m.gascoigne@northwestern.edu
+• Diving Coach kris.jorgensen@northwestern.edu
+• Assistant Coach margaret.howe@northwestern.edu
+• Assistant Coach jacob.siar@northwestern.edu
+• Diving Coach kris.jorgensen@northwestern.edu
+• Assistant Coach margaret.howe@northwestern.edu
+• Assistant Coach jacob.siar@northwestern.edu
+• Head Coach a-swan@northwestern.edu
+• Associate Head Coach christopher.klingemann@northwestern.edu
+• Head Coach c-pollard@northwestern.edu
+• Head Coach m-storniolo@northwestern.edu
+• Assistant Coach justin.oliver@northwestern.edu

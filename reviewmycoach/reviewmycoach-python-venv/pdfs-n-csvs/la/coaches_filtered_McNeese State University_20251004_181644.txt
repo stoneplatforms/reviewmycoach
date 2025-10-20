@@ -1,0 +1,174 @@
+COACH ENTRIES FOUND - 2025-10-04 18:16:45
+============================================================
+
+Total coaches found: 27
+
+PARSED ENTRIES:
+----------------------------------------
+1. Justin Hill
+   Email: jhill2@mcneese.edu
+   Username: jhill2
+   Original line: Justin Hill Head Coach jhill2@mcneese.edu JustinHill
+
+2. Yasmin Tan
+   Email: ytan@mcneese.edu
+   Username: ytan
+   Original line: Yasmin Tan Head Coach ytan@mcneese.edu 505-228-
+
+3. Tony Pecoraro
+   Email: apecoraro@mcneese.edu
+   Username: apecoraro
+   Original line: Tony Pecoraro Defensive Coordinator/Linebackers apecoraro@mcneese.edu CoachTonyPec
+
+4. Thomas Reese
+   Email: treese@mcneese.edu
+   Username: treese
+   Original line: Thomas Reese Special Teams Coordinator/Running Backs treese@mcneese.edu CoachTReese
+
+5. Michael Smith
+   Email: msmith124@mcneese.edu
+   Username: msmith124
+   Original line: Michael Smith Assistant Coach - Wide Receivers msmith124@mcneese.edu
+
+6. Raymond Donovan
+   Email: msu-rdonovan@mcneese.edu
+   Username: msu-rdonovan
+   Original line: Raymond Donovan Director of Football Technology msu-rdonovan@mcneese.edu 337-475- coachr_donovan
+
+7. Robi Coker
+   Email: rcoker@mcneese.edu
+   Username: rcoker
+   Original line: Robi Coker Assistant Coach rcoker@mcneese.edu
+
+8. LeBrent Walker
+   Email: lwalker15@mcneese.edu
+   Username: lwalker15
+   Original line: LeBrent Walker Assistant Coach lwalker15@mcneese.edu
+
+9. Nick Williams
+   Email: nwilliams19@mcneese.edu
+   Username: nwilliams19
+   Original line: Nick Williams Assistant Coach nwilliams19@mcneese.edu
+
+10. Peyton Prudhomme
+   Email: pprudhomme1@mcneese.edu
+   Username: pprudhomme1
+   Original line: Peyton Prudhomme Assistant Coach pprudhomme1@mcneese.edu
+
+11. Jeffery Armstrong
+   Email: jarmstrong4@mcneese.edu
+   Username: jarmstrong4
+   Original line: Jeffery Armstrong Assistant Coach jarmstrong4@mcneese.edu
+
+12. Juan Yepes
+   Email: jyepes@mcneese.edu
+   Username: jyepes
+   Original line: Juan Yepes Interim Head Coach jyepes@mcneese.edu
+
+13. James Landreneau
+   Email: jlandreneau@mcneese.edu
+   Username: jlandreneau
+   Original line: James Landreneau Head Coach jlandreneau@mcneese.edu 337-562- LandreneauJames
+
+14. Hope Trautwein-Valdespino
+   Email: htrautwein@mcneese.edu
+   Username: htrautwein
+   Original line: Hope Trautwein-Valdespino Assistant Coach (Pitching Coach, Scouting htrautwein@mcneese.edu
+
+15. Emily Phillips
+   Email: ephillips2@mcneese.edu
+   Username: ephillips2
+   Original line: Emily Phillips Assistant Coach (Recruiting Coordinator, ephillips2@mcneese.edu
+
+16. Brendon Gilroy
+   Email: bgilroy@mcneese.edu
+   Username: bgilroy
+   Original line: Brendon Gilroy Head Coach bgilroy@mcneese.edu 337-475- msucoachgilroy
+
+17. Alan Foolkes
+   Email: afoolkes@yahoo.com
+   Username: afoolkes
+   Original line: Alan Foolkes Assistant Coach for Cross Country afoolkes@yahoo.com
+
+18. Lathaniel Jeanlouis
+   Email: ljeanlouis@mcneese.edu
+   Username: ljeanlouis
+   Original line: Lathaniel Jeanlouis Assistant Coach - Sprints, Hurdles, Relays ljeanlouis@mcneese.edu
+
+19. Janell Fullerton
+   Email: jfullerton1@mcneese.edu
+   Username: jfullerton1
+   Original line: Janell Fullerton Assistant Coach - Throws jfullerton1@mcneese.edu
+
+20. Seth Andres
+   Email: sandres1@mcneese.edu
+   Username: sandres1
+   Original line: Seth Andres Assistant Coach - Jumps and Multis sandres1@mcneese.edu
+
+21. Sasha Karelov
+   Email: skarelov@mcneese.edu
+   Username: skarelov
+   Phone: 337.475.5474
+   Original line: Sasha Karelov Head Coach skarelov@mcneese.edu 337.475.5474
+
+22. Alexandra Allard
+   Email: aallard@mcneese.edu
+   Username: aallard
+   Original line: Alexandra Allard Assistant Coach aallard@mcneese.edu
+
+23. Ayla Guzzardo
+   Email: aguzzardo@mcneese.edu
+   Username: aguzzardo
+   Original line: Ayla Guzzardo Head Coach aguzzardo@mcneese.edu
+
+24. Kenneth Lee
+   Email: Klee29@mcneese.edu
+   Username: Klee29
+   Original line: Kenneth Lee Jr. Associate Head Coach/Defensive Klee29@mcneese.edu
+
+25. Ronneka Robertson
+   Email: rrobertson2@mcneese.edu
+   Username: rrobertson2
+   Original line: Ronneka Robertson Assistant Coach/Recruiting Coordinator rrobertson2@mcneese.edu
+
+26. Hailey Giaratano
+   Email: hgiaratano@mcneese.edu
+   Username: hgiaratano
+   Original line: Hailey Giaratano Assistant Coach/Director of Player hgiaratano@mcneese.edu
+
+27. Sonia Carlson
+   Email: Scarlson3@mcneese.edu
+   Username: Scarlson3
+   Original line: Sonia Carlson Head Coach Scarlson3@mcneese.edu 254-977-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Justin Hill Head Coach jhill2@mcneese.edu JustinHill
+• Yasmin Tan Head Coach ytan@mcneese.edu 505-228-
+• Tony Pecoraro Defensive Coordinator/Linebackers apecoraro@mcneese.edu CoachTonyPec
+• Thomas Reese Special Teams Coordinator/Running Backs treese@mcneese.edu CoachTReese
+• Michael Smith Assistant Coach - Wide Receivers msmith124@mcneese.edu
+• Raymond Donovan Director of Football Technology msu-rdonovan@mcneese.edu 337-475- coachr_donovan
+• Robi Coker Assistant Coach rcoker@mcneese.edu
+• LeBrent Walker Assistant Coach lwalker15@mcneese.edu
+• Nick Williams Assistant Coach nwilliams19@mcneese.edu
+• Peyton Prudhomme Assistant Coach pprudhomme1@mcneese.edu
+• Jeffery Armstrong Assistant Coach jarmstrong4@mcneese.edu
+• Juan Yepes Interim Head Coach jyepes@mcneese.edu
+• James Landreneau Head Coach jlandreneau@mcneese.edu 337-562- LandreneauJames
+• Hope Trautwein-Valdespino Assistant Coach (Pitching Coach, Scouting htrautwein@mcneese.edu
+• Emily Phillips Assistant Coach (Recruiting Coordinator, ephillips2@mcneese.edu
+• Brendon Gilroy Head Coach bgilroy@mcneese.edu 337-475- msucoachgilroy
+• Alan Foolkes Assistant Coach for Cross Country afoolkes@yahoo.com
+• Lathaniel Jeanlouis Assistant Coach - Sprints, Hurdles, Relays ljeanlouis@mcneese.edu
+• Janell Fullerton Assistant Coach - Throws jfullerton1@mcneese.edu
+• Seth Andres Assistant Coach - Jumps and Multis sandres1@mcneese.edu
+• Sasha Karelov Head Coach skarelov@mcneese.edu 337.475.5474
+• Alexandra Allard Assistant Coach aallard@mcneese.edu
+• Ayla Guzzardo Head Coach aguzzardo@mcneese.edu
+• Kenneth Lee Jr. Associate Head Coach/Defensive Klee29@mcneese.edu
+• Ronneka Robertson Assistant Coach/Recruiting Coordinator rrobertson2@mcneese.edu
+• Hailey Giaratano Assistant Coach/Director of Player hgiaratano@mcneese.edu
+• Sonia Carlson Head Coach Scarlson3@mcneese.edu 254-977-

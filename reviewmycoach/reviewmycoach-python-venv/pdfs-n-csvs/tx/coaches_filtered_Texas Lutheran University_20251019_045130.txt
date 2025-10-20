@@ -1,0 +1,331 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:30
+============================================================
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kyla Lockley
+   Email: kmlockley@tlu.edu
+   Username: kmlockley
+   Phone: (830) 372-6414
+   Original line: Kyla Lockley '18 Assistant Softball Coach / Athletics Facilities Director 830-372-6414 kmlockley@tlu.edu
+
+2. Phyllis Fowler
+   Email: pfowler@tlu.edu
+   Username: pfowler
+   Phone: (830) 372-8130
+   Original line: Phyllis Fowler Head Coach / Senior Women's Administrator 830-372-8130 pfowler@tlu.edu
+
+3. H.C. Tran
+   Email: htran@tlu.edu
+   Username: htran
+   Phone: (830) 372-8144
+   Original line: H.C. Tran '90 Head Coach for Men's & Women's Golf / Indoor Events Coordinator 830-372-8144 htran@tlu.edu
+
+4. Macie Searls
+   Email: msearls@tlu.edu
+   Username: msearls
+   Phone: (830) 372-6307
+   Original line: Macie Searls Head Coach 830-372-6307 msearls@tlu.edu
+
+5. Kyle Palmer
+   Email: krpalmer@tlu.edu
+   Username: krpalmer
+   Phone: (830) 372-6396
+   Original line: Kyle Palmer '09 Head Coach 830-372-6396 krpalmer@tlu.edu
+
+6. Colton Parrish
+   Email: cparrish@tlu.edu
+   Username: cparrish
+   Phone: (830) 372-6396
+   Original line: Colton Parrish Assistant Baseball Coach 830-372-6396 cparrish@tlu.edu
+
+7. Austin Falke
+   Email: afalke@tlu.edu
+   Username: afalke
+   Phone: (830) 372-6808
+   Original line: Austin Falke Head Coach 830-372-6808 afalke@tlu.edu
+
+8. Bryson Johnson
+   Email: bryjohnson@tlu.edu
+   Username: bryjohnson
+   Phone: (830) 372-6808
+   Original line: Bryson Johnson Assistant Coach 830-372-6808 bryjohnson@tlu.edu
+
+9. Troy Patterson
+   Email: tpatterson@tlu.edu
+   Username: tpatterson
+   Phone: (830) 372-6318
+   Original line: Troy Patterson Head Coach 830-372-6318 tpatterson@tlu.edu
+
+10. Krystal Schneider
+   Email: kschneider@tlu.edu
+   Username: kschneider
+   Phone: (830) 372-8125
+   Original line: Krystal Schneider Assistant Coach 830-372-8125 kschneider@tlu.edu
+
+11. Bri Ratliff
+   Email: bratliff@tlu.edu
+   Username: bratliff
+   Phone: (830) 372-6313
+   Original line: Bri Ratliff M/W Head Cross Country/Distance Coach 830-372-6313 bratliff@tlu.edu
+
+12. Ray Medrano
+   Email: ramedrano@tlu.edu
+   Username: ramedrano
+   Phone: (830) 372-6313
+   Original line: Ray Medrano Assistant Coach 830-372-6313 ramedrano@tlu.edu
+
+13. Bri Ratliff
+   Email: bratliff@tlu.edu
+   Username: bratliff
+   Phone: (830) 372-6313
+   Original line: Bri Ratliff M/W Head Cross Country/Distance Coach 830-372-6313 bratliff@tlu.edu
+
+14. Ray Medrano
+   Email: ramedrano@tlu.edu
+   Username: ramedrano
+   Phone: (830) 372-6313
+   Original line: Ray Medrano Assistant Coach 830-372-6313 ramedrano@tlu.edu
+
+15. Neal LaHue
+   Email: alahue@tlu.edu
+   Username: alahue
+   Original line: Neal LaHue Head Coach (830) 372- alahue@tlu.edu
+
+16. Matt Gustafson
+   Email: magustafson@tlu.edu
+   Username: magustafson
+   Original line: Matt Gustafson Assistant Head Coach / Running Backs (830) 372- magustafson@tlu.edu
+
+17. Julius Scott
+   Email: jscott@tlu.edu
+   Username: jscott
+   Original line: Julius Scott Assistant Coach / Co-Defensive Coordinator / Outside Linebackers (830) 372- jscott@tlu.edu
+
+18. Tommy Holmes
+   Email: tholmes@tlu.edu
+   Username: tholmes
+   Phone: (830) 372-6957
+   Original line: Tommy Holmes Assistant Coach / Co-Defensive Coordinator / Defensive Backs 830-372-6957 tholmes@tlu.edu
+
+19. Kendrick Marshall
+   Email: kmarshall@tlu.edu
+   Username: kmarshall
+   Original line: Kendrick Marshall Assistant Coach / Special Teams Coordinator / Defensive Line / Dir. of Football Ops (830) 372- kmarshall@tlu.edu
+
+20. Johnny Garcia
+   Email: johgarcia@tlu.edu
+   Username: johgarcia
+   Original line: Johnny Garcia '17 Assistant Coach / Offensive Line / Recruiting Coordinator (830) 372- johgarcia@tlu.edu
+
+21. Beau Grech
+   Email: bgrech@tlu.edu
+   Username: bgrech
+   Original line: Beau Grech Assistant Coach / Player Development Coordinator / Inside Linebackers (830) 372- bgrech@tlu.edu
+
+22. Bryce Samuels
+   Email: basamuels@tlu.edu
+   Username: basamuels
+   Original line: Bryce Samuels '22 Assistant Coach / Wide Receivers (830) 372- basamuels@tlu.edu
+
+23. Aaron Sotelo
+   Email: amsotelo@tlu.edu
+   Username: amsotelo
+   Original line: Aaron Sotelo '23 Assistant Coach / Tight Ends (830) 372- amsotelo@tlu.edu
+
+24. H.C. Tran
+   Email: htran@tlu.edu
+   Username: htran
+   Phone: (830) 372-8144
+   Original line: H.C. Tran '90 Head Coach for Men's & Women's Golf / Indoor Events Coordinator 830-372-8144 htran@tlu.edu
+
+25. Angela Hisey
+   Email: ahisey@tlu.edu
+   Username: ahisey
+   Phone: (830) 372-8144
+   Original line: Angela Hisey '10 Assistant Coach / SAAC Advisor 830-372-8144 ahisey@tlu.edu
+
+26. H.C. Tran
+   Email: htran@tlu.edu
+   Username: htran
+   Phone: (830) 372-8144
+   Original line: H.C. Tran '90 Head Coach for Men's & Women's Golf / Indoor Events Coordinator 830-372-8144 htran@tlu.edu
+
+27. Angela Hisey
+   Email: ahisey@tlu.edu
+   Username: ahisey
+   Phone: (830) 372-8144
+   Original line: Angela Hisey '10 Assistant Coach / SAAC Advisor 830-372-8144 ahisey@tlu.edu
+
+28. Eddie Salazar
+   Email: esalazar@tlu.edu
+   Username: esalazar
+   Phone: (830) 372-6807
+   Original line: Eddie Salazar '02 Head Coach 830-372-6807 esalazar@tlu.edu
+
+29. Jimmy Flores
+   Email: jrflores@tlu.edu
+   Username: jrflores
+   Phone: (830) 372-6807
+   Original line: Jimmy Flores '06 Assistant Coach 830-372-6807 jrflores@tlu.edu
+
+30. Kerwin Johnson
+   Email: kerjohnson@tlu.edu
+   Username: kerjohnson
+   Original line: Kerwin Johnson Head Coach (830) 372- kerjohnson@tlu.edu
+
+31. Wade Wilson
+   Email: rwilson@tlu.edu
+   Username: rwilson
+   Phone: (830) 372-8129
+   Original line: Wade Wilson Head Coach 830-372-8129 rwilson@tlu.edu
+
+32. Kyla Lockley
+   Email: kmlockley@tlu.edu
+   Username: kmlockley
+   Phone: (830) 372-6414
+   Original line: Kyla Lockley '18 Assistant Softball Coach / Athletics Facilities Director 830-372-6414 kmlockley@tlu.edu
+
+33. David Mueller
+   Email: dmueller@tlu.edu
+   Username: dmueller
+   Phone: (830) 372-8128
+   Original line: David Mueller Head Coach 830-372-8128 dmueller@tlu.edu
+
+34. Edwin Braun
+   Email: ebraun@tlu.edu
+   Username: ebraun
+   Phone: (830) 372-8128
+   Original line: Edwin Braun Assistant Coach 830-372-8128 ebraun@tlu.edu
+
+35. David Mueller
+   Email: dmueller@tlu.edu
+   Username: dmueller
+   Phone: (830) 372-8128
+   Original line: David Mueller Head Coach 830-372-8128 dmueller@tlu.edu
+
+36. Edwin Braun
+   Email: ebraun@tlu.edu
+   Username: ebraun
+   Phone: (830) 372-8128
+   Original line: Edwin Braun Assistant Coach 830-372-8128 ebraun@tlu.edu
+
+37. Ron McCown
+   Email: rmccown@tlu.edu
+   Username: rmccown
+   Phone: (830) 372-6578
+   Original line: Ron McCown Head Track & Field Coach 830-372-6578 rmccown@tlu.edu
+
+38. Bri Ratliff
+   Email: bratliff@tlu.edu
+   Username: bratliff
+   Phone: (830) 372-6313
+   Original line: Bri Ratliff M/W Head Cross Country/Distance Coach 830-372-6313 bratliff@tlu.edu
+
+39. Michael Brousseau
+   Email: mbrousseau@tlu.edu
+   Username: mbrousseau
+   Phone: (830) 372-6313
+   Original line: Michael Brousseau Assistant Coach - Throws 830-372-6313 mbrousseau@tlu.edu
+
+40. Ray Medrano
+   Email: ramedrano@tlu.edu
+   Username: ramedrano
+   Phone: (830) 372-6313
+   Original line: Ray Medrano Assistant Coach 830-372-6313 ramedrano@tlu.edu
+
+41. Ron McCown
+   Email: rmccown@tlu.edu
+   Username: rmccown
+   Phone: (830) 372-6578
+   Original line: Ron McCown Head Track & Field Coach 830-372-6578 rmccown@tlu.edu
+
+42. Bri Ratliff
+   Email: bratliff@tlu.edu
+   Username: bratliff
+   Phone: (830) 372-6313
+   Original line: Bri Ratliff M/W Head Cross Country/Distance Coach 830-372-6313 bratliff@tlu.edu
+
+43. Michael Brousseau
+   Email: mbrousseau@tlu.edu
+   Username: mbrousseau
+   Phone: (830) 372-6313
+   Original line: Michael Brousseau Assistant Coach - Throws 830-372-6313 mbrousseau@tlu.edu
+
+44. Ray Medrano
+   Email: ramedrano@tlu.edu
+   Username: ramedrano
+   Phone: (830) 372-6313
+   Original line: Ray Medrano Assistant Coach 830-372-6313 ramedrano@tlu.edu
+
+45. Phyllis Fowler
+   Email: pfowler@tlu.edu
+   Username: pfowler
+   Phone: (830) 372-8130
+   Original line: Phyllis Fowler Head Coach / Senior Women's Administrator 830-372-8130 pfowler@tlu.edu
+
+46. Kathy Taylor
+   Email: ktaylor@tlu.edu
+   Username: ktaylor
+   Phone: (830) 372-8130
+   Original line: Kathy Taylor Assistant Coach 830-372-8130 ktaylor@tlu.edu
+
+47. JoAnne Hultgren
+   Email: jhultgren@tlu.edu
+   Username: jhultgren
+   Phone: (830) 372-8130
+   Original line: JoAnne Hultgren Assistant Coach 830-372-8130 jhultgren@tlu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kyla Lockley '18 Assistant Softball Coach / Athletics Facilities Director 830-372-6414 kmlockley@tlu.edu
+• Phyllis Fowler Head Coach / Senior Women's Administrator 830-372-8130 pfowler@tlu.edu
+• H.C. Tran '90 Head Coach for Men's & Women's Golf / Indoor Events Coordinator 830-372-8144 htran@tlu.edu
+• Macie Searls Head Coach 830-372-6307 msearls@tlu.edu
+• Kyle Palmer '09 Head Coach 830-372-6396 krpalmer@tlu.edu
+• Colton Parrish Assistant Baseball Coach 830-372-6396 cparrish@tlu.edu
+• Austin Falke Head Coach 830-372-6808 afalke@tlu.edu
+• Bryson Johnson Assistant Coach 830-372-6808 bryjohnson@tlu.edu
+• Troy Patterson Head Coach 830-372-6318 tpatterson@tlu.edu
+• Krystal Schneider Assistant Coach 830-372-8125 kschneider@tlu.edu
+• Bri Ratliff M/W Head Cross Country/Distance Coach 830-372-6313 bratliff@tlu.edu
+• Ray Medrano Assistant Coach 830-372-6313 ramedrano@tlu.edu
+• Bri Ratliff M/W Head Cross Country/Distance Coach 830-372-6313 bratliff@tlu.edu
+• Ray Medrano Assistant Coach 830-372-6313 ramedrano@tlu.edu
+• Neal LaHue Head Coach (830) 372- alahue@tlu.edu
+• Matt Gustafson Assistant Head Coach / Running Backs (830) 372- magustafson@tlu.edu
+• Julius Scott Assistant Coach / Co-Defensive Coordinator / Outside Linebackers (830) 372- jscott@tlu.edu
+• Tommy Holmes Assistant Coach / Co-Defensive Coordinator / Defensive Backs 830-372-6957 tholmes@tlu.edu
+• Kendrick Marshall Assistant Coach / Special Teams Coordinator / Defensive Line / Dir. of Football Ops (830) 372- kmarshall@tlu.edu
+• Johnny Garcia '17 Assistant Coach / Offensive Line / Recruiting Coordinator (830) 372- johgarcia@tlu.edu
+• Beau Grech Assistant Coach / Player Development Coordinator / Inside Linebackers (830) 372- bgrech@tlu.edu
+• Bryce Samuels '22 Assistant Coach / Wide Receivers (830) 372- basamuels@tlu.edu
+• Aaron Sotelo '23 Assistant Coach / Tight Ends (830) 372- amsotelo@tlu.edu
+• H.C. Tran '90 Head Coach for Men's & Women's Golf / Indoor Events Coordinator 830-372-8144 htran@tlu.edu
+• Angela Hisey '10 Assistant Coach / SAAC Advisor 830-372-8144 ahisey@tlu.edu
+• H.C. Tran '90 Head Coach for Men's & Women's Golf / Indoor Events Coordinator 830-372-8144 htran@tlu.edu
+• Angela Hisey '10 Assistant Coach / SAAC Advisor 830-372-8144 ahisey@tlu.edu
+• Eddie Salazar '02 Head Coach 830-372-6807 esalazar@tlu.edu
+• Jimmy Flores '06 Assistant Coach 830-372-6807 jrflores@tlu.edu
+• Kerwin Johnson Head Coach (830) 372- kerjohnson@tlu.edu
+• Wade Wilson Head Coach 830-372-8129 rwilson@tlu.edu
+• Kyla Lockley '18 Assistant Softball Coach / Athletics Facilities Director 830-372-6414 kmlockley@tlu.edu
+• David Mueller Head Coach 830-372-8128 dmueller@tlu.edu
+• Edwin Braun Assistant Coach 830-372-8128 ebraun@tlu.edu
+• David Mueller Head Coach 830-372-8128 dmueller@tlu.edu
+• Edwin Braun Assistant Coach 830-372-8128 ebraun@tlu.edu
+• Ron McCown Head Track & Field Coach 830-372-6578 rmccown@tlu.edu
+• Bri Ratliff M/W Head Cross Country/Distance Coach 830-372-6313 bratliff@tlu.edu
+• Michael Brousseau Assistant Coach - Throws 830-372-6313 mbrousseau@tlu.edu
+• Ray Medrano Assistant Coach 830-372-6313 ramedrano@tlu.edu
+• Ron McCown Head Track & Field Coach 830-372-6578 rmccown@tlu.edu
+• Bri Ratliff M/W Head Cross Country/Distance Coach 830-372-6313 bratliff@tlu.edu
+• Michael Brousseau Assistant Coach - Throws 830-372-6313 mbrousseau@tlu.edu
+• Ray Medrano Assistant Coach 830-372-6313 ramedrano@tlu.edu
+• Phyllis Fowler Head Coach / Senior Women's Administrator 830-372-8130 pfowler@tlu.edu
+• Kathy Taylor Assistant Coach 830-372-8130 ktaylor@tlu.edu
+• JoAnne Hultgren Assistant Coach 830-372-8130 jhultgren@tlu.edu

@@ -1,0 +1,291 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:29
+============================================================
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Seth Kincaid
+   Email: sckincaid@fhsu.edu
+   Username: sckincaid
+   Phone: (785) 628-4785
+   Original line: Seth Kincaid Assistant Sports Information Director/Head Men's Golf Coach sckincaid@fhsu.edu (785) 628-4785
+
+2. Justin Wichert
+   Email: jkwichert@fhsu.edu
+   Username: jkwichert
+   Phone: (785) 628-4357
+   Original line: Justin Wichert Head Baseball Coach jkwichert@fhsu.edu (785) 628-4357
+
+3. Cade Lott
+   Email: cmlott@fhsu.edu
+   Username: cmlott
+   Phone: (785) 628-4724
+   Original line: Cade Lott Assistant Baseball Coach cmlott@fhsu.edu (785) 628-4724
+
+4. Jeremy Brown
+   Email: jabrown3@fhsu.edu
+   Username: jabrown3
+   Phone: (785) 628-4356
+   Original line: Jeremy Brown Associate Head Men's Basketball Coach jabrown3@fhsu.edu (785) 628-4356
+
+5. Rusty Grafel
+   Email: rkgrafel@fhsu.edu
+   Username: rkgrafel
+   Phone: (785) 628-4356
+   Original line: Rusty Grafel Assistant Men's Basketball Coach rkgrafel@fhsu.edu (785) 628-4356
+
+6. Talia Kahrs
+   Email: tmmiller3@fhsu.edu
+   Username: tmmiller3
+   Phone: (785) 628-4375
+   Original line: Talia Kahrs Head Women's Basketball Coach tmmiller3@fhsu.edu (785) 628-4375
+
+7. Paige Lunsford
+   Email: pnlunsford@fhsu.edu
+   Username: pnlunsford
+   Phone: (785) 628-4024
+   Original line: Paige Lunsford Assistant Women's Basketball Coach pnlunsford@fhsu.edu (785) 628-4024
+
+8. Taylor Vasa
+   Email: ttvasa@fhsu.edu
+   Username: ttvasa
+   Phone: (785) 628-4024
+   Original line: Taylor Vasa Assistant Women's Basketball Coach ttvasa@fhsu.edu (785) 628-4024
+
+9. Jason McCullough
+   Email: jmccullo@fhsu.edu
+   Username: jmccullo
+   Phone: (785) 628-4352
+   Original line: Dr. Jason McCullough Head Cross Country Coach/Track and Field Coach jmccullo@fhsu.edu (785) 628-4352
+
+10. Chris Brown
+   Email: cjbrown9@fhsu.edu
+   Username: cjbrown9
+   Phone: (785) 628-4399
+   Original line: Chris Brown Head Football Coach cjbrown9@fhsu.edu (785) 628-4399
+
+11. Al McCray
+   Email: a_mccray@fhsu.edu
+   Username: a_mccray
+   Phone: (785) 628-4679
+   Original line: Al McCray Assistant Head Football Coach/Wide Receivers a_mccray@fhsu.edu (785) 628-4679
+
+12. Cooper Harris
+   Email: acharris@fhsu.edu
+   Username: acharris
+   Phone: (785) 628-4397
+   Original line: Cooper Harris Assistant Football Coach/Defensive Coordinator acharris@fhsu.edu (785) 628-4397
+
+13. Tom Ross
+   Email: tjross2@fhsu.edu
+   Username: tjross2
+   Phone: (785) 628-5788
+   Original line: Tom Ross Assistant Football Coach/Offensive Coordinator tjross2@fhsu.edu (785) 628-5788
+
+14. Layton Hickel
+   Email: lrhickel@fhsu.edu
+   Username: lrhickel
+   Phone: (785) 628-4682
+   Original line: Layton Hickel Assistant Football Coach/Defensive Line lrhickel@fhsu.edu (785) 628-4682
+
+15. Amari Angram-Boldin
+   Email: a_angram@fhsu.edu
+   Username: a_angram
+   Phone: (785) 628-5791
+   Original line: Amari Angram-Boldin Assistant Football Coach/Offensive Line a_angram@fhsu.edu (785) 628-5791
+
+16. Kyle Murphy
+   Email: k_murphy3@fhsu.edu
+   Username: k_murphy3
+   Phone: (785) 628-5788
+   Original line: Kyle Murphy Assistant Football Coach/Tight Ends k_murphy3@fhsu.edu (785) 628-5788
+
+17. Doug Boucher
+   Email: dkboucher@fhsu.edu
+   Username: dkboucher
+   Phone: (785) 628-4730
+   Original line: Doug Boucher Strength & Conditioning Coach dkboucher@fhsu.edu (785) 628-4730
+
+18. Seth Kincaid
+   Email: sckincaid@fhsu.edu
+   Username: sckincaid
+   Phone: (785) 628-4785
+   Original line: Seth Kincaid Head Men's Golf Coach/Assistant Sports Information Director sckincaid@fhsu.edu (785) 628-4785
+
+19. Tom Johansen
+   Email: tcjohansen@fhsu.edu
+   Username: tcjohansen
+   Original line: Tom Johansen Volunteer Assistant Men's Golf Coach tcjohansen@fhsu.edu
+
+20. Kami Rosin
+   Email: k_rosin@fhsu.edu
+   Username: k_rosin
+   Phone: (785) 628-4050
+   Original line: Kami Rosin Head Women's Golf Coach k_rosin@fhsu.edu (785) 628-4050
+
+21. Alex Nichols
+   Email: ajnichols@fhsu.edu
+   Username: ajnichols
+   Phone: (785) 628-5471
+   Original line: Alex Nichols Head Men's Soccer Coach ajnichols@fhsu.edu (785) 628-5471
+
+22. Saad Mohacht
+   Email: s_mohacht@mail.fhsu.edu
+   Username: s_mohacht
+   Original line: Saad Mohacht Assistant Men's Soccer Coach s_mohacht@mail.fhsu.edu
+
+23. Tyson John
+   Email: tjjohn@fhsu.edu
+   Username: tjjohn
+   Phone: (785) 628-5690
+   Original line: Tyson John Head Women's Soccer Coach tjjohn@fhsu.edu (785) 628-5690
+
+24. Jose Macias
+   Email: j_maciasavalos@mail.fhsu.edu
+   Username: j_maciasavalos
+   Original line: Jose Macias Assistant Women's Soccer Coach j_maciasavalos@mail.fhsu.edu
+
+25. Livia Silva
+   Email: lssilva@mail.fhsu.edu
+   Username: lssilva
+   Original line: Livia Silva Assistant Women's Soccer Coach lssilva@mail.fhsu.edu
+
+26. Adrian Pilkington
+   Email: ammohr2@fhsu.edu
+   Username: ammohr2
+   Phone: (785) 628-5885
+   Original line: Adrian Pilkington Head Softball Coach ammohr2@fhsu.edu (785) 628-5885
+
+27. Lawren McKinney
+   Email: llmckinney@fhsu.edu
+   Username: llmckinney
+   Phone: (785) 628-4687
+   Original line: Lawren McKinney Assistant Softball Coach llmckinney@fhsu.edu (785) 628-4687
+
+28. Doug Boucher
+   Email: dkboucher@fhsu.edu
+   Username: dkboucher
+   Phone: (785) 628-4730
+   Original line: Doug Boucher Strength & Conditioning Coach dkboucher@fhsu.edu (785) 628-4730
+
+29. Kota Wakasa
+   Email: k_wakasa@fhsu.edu
+   Username: k_wakasa
+   Phone: (785) 628-4311
+   Original line: Kota Wakasa Assistant Strength and Conditioning Coach k_wakasa@fhsu.edu (785) 628-4311
+
+30. Brian Flax
+   Email: bflax@fhsu.edu
+   Username: bflax
+   Phone: (785) 628-5854
+   Original line: Brian Flax Head Women's Tennis Coach bflax@fhsu.edu (785) 628-5854
+
+31. Jason McCullough
+   Email: jmccullo@fhsu.edu
+   Username: jmccullo
+   Phone: (785) 628-4352
+   Original line: Dr. Jason McCullough Head Cross Country Coach/Track and Field Coach jmccullo@fhsu.edu (785) 628-4352
+
+32. Kelly Meyer
+   Email: kameyer3@fhsu.edu
+   Username: kameyer3
+   Phone: (785) 628-4390
+   Original line: Kelly Meyer Assistant Track and Field Coach kameyer3@fhsu.edu (785) 628-4390
+
+33. Jessica Wood-Atkins
+   Email: jmwoodatkins@fhsu.edu
+   Username: jmwoodatkins
+   Phone: (785) 628-4392
+   Original line: Jessica Wood-Atkins Head Volleyball Coach jmwoodatkins@fhsu.edu (785) 628-4392
+
+34. Carolynne Barbosa
+   Email: cdbarbosa@fhsu.edu
+   Username: cdbarbosa
+   Phone: (785) 628-4363
+   Original line: Carolynne Barbosa Assistant Volleyball Coach cdbarbosa@fhsu.edu (785) 628-4363
+
+35. Giovanna Kuntze
+   Email: g_bencardinokuntze@mail.fhsu.edu
+   Username: g_bencardinokuntze
+   Original line: Giovanna Kuntze Assistant Volleyball Coach g_bencardinokuntze@mail.fhsu.edu
+
+36. Erik Wince
+   Email: emwince@fhsu.edu
+   Username: emwince
+   Phone: (785) 628-5392
+   Original line: Erik Wince Head Men's Wrestling Coach emwince@fhsu.edu (785) 628-5392
+
+37. Colton McKiernan
+   Email: cjmckiernan@fhsu.edu
+   Username: cjmckiernan
+   Original line: Colton McKiernan Assistant Men's Wrestling Coach cjmckiernan@fhsu.edu
+
+38. Alijah Jeffery
+   Email: a_jeffery@fhsu.edu
+   Username: a_jeffery
+   Phone: (785) 628-5316
+   Original line: Alijah Jeffery Head Women's Wrestling Coach a_jeffery@fhsu.edu (785) 628-5316
+
+39. Victoria Gutierrez
+   Email: v_gutierrez3@mail.fhsu.edu
+   Username: v_gutierrez3
+   Original line: Victoria Gutierrez Assistant Women's Wrestling Coach v_gutierrez3@mail.fhsu.edu
+
+40. Courtney Bartling
+   Email: cabartling@fhsu.edu
+   Username: cabartling
+   Phone: (785) 259-3327
+   Original line: Courtney Bartling Cheerleading Coach cabartling@fhsu.edu (785) 259-3327
+
+41. Annika Carter-Powell
+   Email: abcarter3@fhsu.edu
+   Username: abcarter3
+   Phone: (720) 233-8849
+   Original line: Annika Carter-Powell Dance Coach abcarter3@fhsu.edu (720) 233-8849
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Seth Kincaid Assistant Sports Information Director/Head Men's Golf Coach sckincaid@fhsu.edu (785) 628-4785
+• Justin Wichert Head Baseball Coach jkwichert@fhsu.edu (785) 628-4357
+• Cade Lott Assistant Baseball Coach cmlott@fhsu.edu (785) 628-4724
+• Jeremy Brown Associate Head Men's Basketball Coach jabrown3@fhsu.edu (785) 628-4356
+• Rusty Grafel Assistant Men's Basketball Coach rkgrafel@fhsu.edu (785) 628-4356
+• Talia Kahrs Head Women's Basketball Coach tmmiller3@fhsu.edu (785) 628-4375
+• Paige Lunsford Assistant Women's Basketball Coach pnlunsford@fhsu.edu (785) 628-4024
+• Taylor Vasa Assistant Women's Basketball Coach ttvasa@fhsu.edu (785) 628-4024
+• Dr. Jason McCullough Head Cross Country Coach/Track and Field Coach jmccullo@fhsu.edu (785) 628-4352
+• Chris Brown Head Football Coach cjbrown9@fhsu.edu (785) 628-4399
+• Al McCray Assistant Head Football Coach/Wide Receivers a_mccray@fhsu.edu (785) 628-4679
+• Cooper Harris Assistant Football Coach/Defensive Coordinator acharris@fhsu.edu (785) 628-4397
+• Tom Ross Assistant Football Coach/Offensive Coordinator tjross2@fhsu.edu (785) 628-5788
+• Layton Hickel Assistant Football Coach/Defensive Line lrhickel@fhsu.edu (785) 628-4682
+• Amari Angram-Boldin Assistant Football Coach/Offensive Line a_angram@fhsu.edu (785) 628-5791
+• Kyle Murphy Assistant Football Coach/Tight Ends k_murphy3@fhsu.edu (785) 628-5788
+• Doug Boucher Strength & Conditioning Coach dkboucher@fhsu.edu (785) 628-4730
+• Seth Kincaid Head Men's Golf Coach/Assistant Sports Information Director sckincaid@fhsu.edu (785) 628-4785
+• Tom Johansen Volunteer Assistant Men's Golf Coach tcjohansen@fhsu.edu
+• Kami Rosin Head Women's Golf Coach k_rosin@fhsu.edu (785) 628-4050
+• Alex Nichols Head Men's Soccer Coach ajnichols@fhsu.edu (785) 628-5471
+• Saad Mohacht Assistant Men's Soccer Coach s_mohacht@mail.fhsu.edu
+• Tyson John Head Women's Soccer Coach tjjohn@fhsu.edu (785) 628-5690
+• Jose Macias Assistant Women's Soccer Coach j_maciasavalos@mail.fhsu.edu
+• Livia Silva Assistant Women's Soccer Coach lssilva@mail.fhsu.edu
+• Adrian Pilkington Head Softball Coach ammohr2@fhsu.edu (785) 628-5885
+• Lawren McKinney Assistant Softball Coach llmckinney@fhsu.edu (785) 628-4687
+• Doug Boucher Strength & Conditioning Coach dkboucher@fhsu.edu (785) 628-4730
+• Kota Wakasa Assistant Strength and Conditioning Coach k_wakasa@fhsu.edu (785) 628-4311
+• Brian Flax Head Women's Tennis Coach bflax@fhsu.edu (785) 628-5854
+• Dr. Jason McCullough Head Cross Country Coach/Track and Field Coach jmccullo@fhsu.edu (785) 628-4352
+• Kelly Meyer Assistant Track and Field Coach kameyer3@fhsu.edu (785) 628-4390
+• Jessica Wood-Atkins Head Volleyball Coach jmwoodatkins@fhsu.edu (785) 628-4392
+• Carolynne Barbosa Assistant Volleyball Coach cdbarbosa@fhsu.edu (785) 628-4363
+• Giovanna Kuntze Assistant Volleyball Coach g_bencardinokuntze@mail.fhsu.edu
+• Erik Wince Head Men's Wrestling Coach emwince@fhsu.edu (785) 628-5392
+• Colton McKiernan Assistant Men's Wrestling Coach cjmckiernan@fhsu.edu
+• Alijah Jeffery Head Women's Wrestling Coach a_jeffery@fhsu.edu (785) 628-5316
+• Victoria Gutierrez Assistant Women's Wrestling Coach v_gutierrez3@mail.fhsu.edu
+• Courtney Bartling Cheerleading Coach cabartling@fhsu.edu (785) 259-3327
+• Annika Carter-Powell Dance Coach abcarter3@fhsu.edu (720) 233-8849

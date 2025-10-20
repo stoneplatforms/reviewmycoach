@@ -1,0 +1,329 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:44
+============================================================
+
+Total coaches found: 53
+
+PARSED ENTRIES:
+----------------------------------------
+1. Joseph Kammerer
+   Email: jkammere@highpoint.edu
+   Username: jkammere
+   Original line: Joseph Kammerer Head Strength & Conditioning Coach (WBB, MGOLF) 336-841- jkammere@highpoint.edu
+
+2. Will Sullivan
+   Email: wsulliv1@highpoint.edu
+   Username: wsulliv1
+   Original line: Will Sullivan Assistant Strength & Conditioning Coach (MBB, WGOLF) (336) 841- wsulliv1@highpoint.edu
+
+3. Matt Price
+   Email: mprice3@highpoint.edu
+   Username: mprice3
+   Original line: Matt Price Assistant Strength & Conditioning Coach (MSOC, BSB, WLAX) mprice3@highpoint.edu
+
+4. Makena Ohlmaier
+   Email: mohlmaie@highpoint.edu
+   Username: mohlmaie
+   Original line: Makena Ohlmaier Assistant Strength & Conditioning Coach (WSOC, T&F, ROW) 336-841- mohlmaie@highpoint.edu
+
+5. Eric Weber
+   Email: eweber@highpoint.edu
+   Username: eweber
+   Original line: Eric Weber Assistant Strength & Conditioning Coach (VB, MLAX) eweber@highpoint.edu
+
+6. Joey Hammond
+   Email: jhammon1@highpoint.edu
+   Username: jhammon1
+   Original line: Joey Hammond Head Coach (336) 841- jhammon1@highpoint.edu
+
+7. Jerry Edwards
+   Email: jedward8@highpoint.edu
+   Username: jedward8
+   Original line: Jerry Edwards Associate Head Coach jedward8@highpoint.edu
+
+8. Derek Orndorff
+   Email: dorndorf@highpoint.edu
+   Username: dorndorf
+   Original line: Derek Orndorff Assistant Coach / Recruiting Coordinator dorndorf@highpoint.edu
+
+9. Chris Maness
+   Email: cmaness@highpoint.edu
+   Username: cmaness
+   Original line: Chris Maness Assistant Coach 336-841- cmaness@highpoint.edu
+
+10. Flynn Clayman
+   Email: fclayman@highpoint.edu
+   Username: fclayman
+   Original line: Flynn Clayman Head Coach 336-841- fclayman@highpoint.edu
+
+11. Ben Fletcher
+   Email: bfletch2@highpoint.edu
+   Username: bfletch2
+   Original line: Ben Fletcher Assistant Coach 336-841- bfletch2@highpoint.edu
+
+12. Corey Edwards
+   Email: cedward7@highpoint.edu
+   Username: cedward7
+   Original line: Corey Edwards Assistant Coach 336-841- cedward7@highpoint.edu
+
+13. Antoine Young
+   Email: ayoung7@highpoint.edu
+   Username: ayoung7
+   Original line: Antoine Young Assistant Coach 336-841- ayoung7@highpoint.edu
+
+14. Anderson Clarke
+   Email: aclarke2@highpoint.edu
+   Username: aclarke2
+   Original line: Anderson Clarke Assistant Coach 336-841- aclarke2@highpoint.edu
+
+15. Martynas Rubikas
+   Email: mrubika1@highpoint.edu
+   Username: mrubika1
+   Original line: Martynas Rubikas Assistant Coach mrubika1@highpoint.edu
+
+16. Delano Thomas
+   Email: dthoma10@highpoint.edu
+   Username: dthoma10
+   Original line: Delano Thomas Special Assistant to Head Coach dthoma10@highpoint.edu
+
+17. Chelsea Banbury
+   Email: cbanbury@highpoint.edu
+   Username: cbanbury
+   Original line: Chelsea Banbury Head Coach 336-841- cbanbury@highpoint.edu
+
+18. Katie Clayman
+   Email: kgruys@highpoint.edu
+   Username: kgruys
+   Original line: Katie Clayman Assistant Coach / Recruiting Coordinator 336-841- kgruys@highpoint.edu
+
+19. Brittany Brown
+   Email: bbrown3@highpoint.edu
+   Username: bbrown3
+   Original line: Brittany Brown Assistant Coach 336-841- bbrown3@highpoint.edu
+
+20. Brendan Quinlan-Huertas
+   Email: bquinla1@highpoint.edu
+   Username: bquinla1
+   Original line: Brendan Quinlan-Huertas Assistant Coach 336-841- bquinla1@highpoint.edu
+
+21. Callie Scheier
+   Email: cscheie1@highpoint.edu
+   Username: cscheie1
+   Original line: Callie Scheier Assistant Coach / Director of Player Development 336-841- cscheie1@highpoint.edu
+
+22. Mike Esposito
+   Email: mesposit@highpoint.edu
+   Username: mesposit
+   Original line: Mike Esposito Head Coach (336) 841- mesposit@highpoint.edu
+
+23. Remy Tamer
+   Email: rtamer@highpoint.edu
+   Username: rtamer
+   Original line: Remy Tamer Head Coach Women's Cross Country/Assistant Track & Field Coach (336) 841- rtamer@highpoint.edu
+
+24. Scott Hall
+   Email: shall1@highpoint.edu
+   Username: shall1
+   Original line: Dr. Scott Hall Associate Head Track & Field Coach (336) 841- shall1@highpoint.edu
+
+25. Scott Houston
+   Email: shouston@highpoint.edu
+   Username: shouston
+   Original line: Scott Houston Assistant Coach (336) 841- shouston@highpoint.edu
+
+26. Shamoya Pruitt
+   Email: spruitt@highpoint.edu
+   Username: spruitt
+   Original line: Shamoya Pruitt Assistant Coach (336) 841- spruitt@highpoint.edu
+
+27. Hillary Holmes
+   Email: hholmes@highpoint.edu
+   Username: hholmes
+   Original line: Dr. Hillary Holmes Assistant Coach 336-848- hholmes@highpoint.edu
+
+28. Collin Post
+   Email: cpost@highpoint.edu
+   Username: cpost
+   Original line: Collin Post Assistant Coach cpost@highpoint.edu
+
+29. Logan Davis
+   Email: ldavis17@highpoint.edu
+   Username: ldavis17
+   Original line: Logan Davis Head Coach ldavis17@highpoint.edu
+
+30. Lyndsey Hunnell
+   Email: lhunnell@highpoint.edu
+   Username: lhunnell
+   Original line: Lyndsey Hunnell Head Coach 336-841- lhunnell@highpoint.edu
+
+31. Anna Redding
+   Email: areddin1@highpoint.edu
+   Username: areddin1
+   Original line: Anna Redding Assistant Coach areddin1@highpoint.edu
+
+32. John Crawley
+   Email: jcrawley@highpoint.edu
+   Username: jcrawley
+   Original line: John Crawley Head Coach 336-841- jcrawley@highpoint.edu
+
+33. Alex Ready
+   Email: aready@highpoint.edu
+   Username: aready
+   Original line: Alex Ready Assistant Coach - Defensive Coordinator 336-841- aready@highpoint.edu
+
+34. Matthew Lintner
+   Email: mlintner@highpoint.edu
+   Username: mlintner
+   Original line: Matthew Lintner Assistant Coach mlintner@highpoint.edu
+
+35. Jack Posey
+   Email: jposey@highpoint.edu
+   Username: jposey
+   Original line: Jack Posey Assistant Coach jposey@highpoint.edu
+
+36. Lyndsey Boswell
+   Email: wlax@highpoint.edu
+   Username: wlax
+   Original line: Lyndsey Boswell Head Coach 336-841- wlax@highpoint.edu
+
+37. Hannah Wszalek
+   Email: hwszalek@highpoint.edu
+   Username: hwszalek
+   Original line: Hannah Wszalek Associate Head Coach hwszalek@highpoint.edu
+
+38. Taylor Moncman
+   Email: tmoncman@highpoint.edu
+   Username: tmoncman
+   Original line: Taylor Moncman Assistant Coach 336-841- tmoncman@highpoint.edu
+
+39. Caroline Davidson
+   Email: cdavids5@highpoint.edu
+   Username: cdavids5
+   Original line: Caroline Davidson Assistant Coach cdavids5@highpoint.edu
+
+40. Jessica Deitrick
+   Email: jdeitric@highpoint.edu
+   Username: jdeitric
+   Original line: Jessica Deitrick Head Coach 336-848- jdeitric@highpoint.edu
+
+41. Cory Conzemius
+   Email: cconzem1@highpoint.edu
+   Username: cconzem1
+   Original line: Cory Conzemius Assistant Coach 336-989- cconzem1@highpoint.edu
+
+42. Katie Ognovich
+   Email: kognovic@highpoint.edu
+   Username: kognovic
+   Original line: Katie Ognovich Assistant Coach 336-848- kognovic@highpoint.edu
+
+43. Zach Haines
+   Email: zhaines@highpoint.edu
+   Username: zhaines
+   Original line: Zach Haines Head Coach (336) 841- zhaines@highpoint.edu
+
+44. Josh Gillon
+   Email: jgillon@highpoint.edu
+   Username: jgillon
+   Original line: Josh Gillon Associate Head Coach (336) 841- jgillon@highpoint.edu
+
+45. Mason Marcey
+   Email: mmarcey1@highpoint.edu
+   Username: mmarcey1
+   Original line: Mason Marcey Assistant Coach mmarcey1@highpoint.edu
+
+46. Toney Anderson
+   Email: aander15@highpoint.edu
+   Username: aander15
+   Original line: Toney Anderson Assistant Coach aander15@highpoint.edu
+
+47. Aaron McGuiness
+   Email: wsoc@highpoint.edu
+   Username: wsoc
+   Original line: Aaron McGuiness Head Coach 336-841- wsoc@highpoint.edu
+
+48. Christina Wakefield
+   Email: wsoc@highpoint.edu
+   Username: wsoc
+   Original line: Christina Wakefield Assistant Coach wsoc@highpoint.edu
+
+49. Emily McGrath
+   Email: wsoc@highpoint.edu
+   Username: wsoc
+   Original line: Emily McGrath Assistant Coach wsoc@highpoint.edu
+
+50. Isaac Wong
+   Email: wsoc@highpoint.edu
+   Username: wsoc
+   Original line: Isaac Wong Assistant Coach wsoc@highpoint.edu
+
+51. Ryan Meek
+   Email: rmeek@highpoint.edu
+   Username: rmeek
+   Original line: Ryan Meek Head Coach 336-841- rmeek@highpoint.edu
+
+52. Kevin Berger
+   Email: kberger@highpoint.edu
+   Username: kberger
+   Original line: Kevin Berger Associate Head Coach 336-841- kberger@highpoint.edu
+
+53. Shelby Cooper
+   Email: scooper3@highpoint.edu
+   Username: scooper3
+   Original line: Shelby Cooper Assistant Coach - Recruiting Coordinator scooper3@highpoint.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Joseph Kammerer Head Strength & Conditioning Coach (WBB, MGOLF) 336-841- jkammere@highpoint.edu
+• Will Sullivan Assistant Strength & Conditioning Coach (MBB, WGOLF) (336) 841- wsulliv1@highpoint.edu
+• Matt Price Assistant Strength & Conditioning Coach (MSOC, BSB, WLAX) mprice3@highpoint.edu
+• Makena Ohlmaier Assistant Strength & Conditioning Coach (WSOC, T&F, ROW) 336-841- mohlmaie@highpoint.edu
+• Eric Weber Assistant Strength & Conditioning Coach (VB, MLAX) eweber@highpoint.edu
+• Joey Hammond Head Coach (336) 841- jhammon1@highpoint.edu
+• Jerry Edwards Associate Head Coach jedward8@highpoint.edu
+• Derek Orndorff Assistant Coach / Recruiting Coordinator dorndorf@highpoint.edu
+• Chris Maness Assistant Coach 336-841- cmaness@highpoint.edu
+• Flynn Clayman Head Coach 336-841- fclayman@highpoint.edu
+• Ben Fletcher Assistant Coach 336-841- bfletch2@highpoint.edu
+• Corey Edwards Assistant Coach 336-841- cedward7@highpoint.edu
+• Antoine Young Assistant Coach 336-841- ayoung7@highpoint.edu
+• Anderson Clarke Assistant Coach 336-841- aclarke2@highpoint.edu
+• Martynas Rubikas Assistant Coach mrubika1@highpoint.edu
+• Delano Thomas Special Assistant to Head Coach dthoma10@highpoint.edu
+• Chelsea Banbury Head Coach 336-841- cbanbury@highpoint.edu
+• Katie Clayman Assistant Coach / Recruiting Coordinator 336-841- kgruys@highpoint.edu
+• Brittany Brown Assistant Coach 336-841- bbrown3@highpoint.edu
+• Brendan Quinlan-Huertas Assistant Coach 336-841- bquinla1@highpoint.edu
+• Callie Scheier Assistant Coach / Director of Player Development 336-841- cscheie1@highpoint.edu
+• Mike Esposito Head Coach (336) 841- mesposit@highpoint.edu
+• Remy Tamer Head Coach Women's Cross Country/Assistant Track & Field Coach (336) 841- rtamer@highpoint.edu
+• Dr. Scott Hall Associate Head Track & Field Coach (336) 841- shall1@highpoint.edu
+• Scott Houston Assistant Coach (336) 841- shouston@highpoint.edu
+• Shamoya Pruitt Assistant Coach (336) 841- spruitt@highpoint.edu
+• Dr. Hillary Holmes Assistant Coach 336-848- hholmes@highpoint.edu
+• Collin Post Assistant Coach cpost@highpoint.edu
+• Logan Davis Head Coach ldavis17@highpoint.edu
+• Lyndsey Hunnell Head Coach 336-841- lhunnell@highpoint.edu
+• Anna Redding Assistant Coach areddin1@highpoint.edu
+• John Crawley Head Coach 336-841- jcrawley@highpoint.edu
+• Alex Ready Assistant Coach - Defensive Coordinator 336-841- aready@highpoint.edu
+• Matthew Lintner Assistant Coach mlintner@highpoint.edu
+• Jack Posey Assistant Coach jposey@highpoint.edu
+• Lyndsey Boswell Head Coach 336-841- wlax@highpoint.edu
+• Hannah Wszalek Associate Head Coach hwszalek@highpoint.edu
+• Taylor Moncman Assistant Coach 336-841- tmoncman@highpoint.edu
+• Caroline Davidson Assistant Coach cdavids5@highpoint.edu
+• Jessica Deitrick Head Coach 336-848- jdeitric@highpoint.edu
+• Cory Conzemius Assistant Coach 336-989- cconzem1@highpoint.edu
+• Katie Ognovich Assistant Coach 336-848- kognovic@highpoint.edu
+• Zach Haines Head Coach (336) 841- zhaines@highpoint.edu
+• Josh Gillon Associate Head Coach (336) 841- jgillon@highpoint.edu
+• Mason Marcey Assistant Coach mmarcey1@highpoint.edu
+• Toney Anderson Assistant Coach aander15@highpoint.edu
+• Aaron McGuiness Head Coach 336-841- wsoc@highpoint.edu
+• Christina Wakefield Assistant Coach wsoc@highpoint.edu
+• Emily McGrath Assistant Coach wsoc@highpoint.edu
+• Isaac Wong Assistant Coach wsoc@highpoint.edu
+• Ryan Meek Head Coach 336-841- rmeek@highpoint.edu
+• Kevin Berger Associate Head Coach 336-841- kberger@highpoint.edu
+• Shelby Cooper Assistant Coach - Recruiting Coordinator scooper3@highpoint.edu

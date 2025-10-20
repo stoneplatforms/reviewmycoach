@@ -1,0 +1,29 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:32
+============================================================
+
+Total coaches found: 3
+
+PARSED ENTRIES:
+----------------------------------------
+1. Frank Kellner
+   Email: fkellner@stmarytx.edu
+   Username: fkellner
+   Original line: Frank Kellner Head Baseball Coach fkellner@stmarytx.edu 210-
+
+2. Taylor Lira
+   Email: tlira@stmarytx.edu
+   Username: tlira
+   Original line: Taylor Lira Head Softball Coach tlira@stmarytx.edu 210-
+
+3. Jordan VanTimmeren
+   Email: jwaitparker@stmarytx.edu
+   Username: jwaitparker
+   Original line: Jordan VanTimmeren STUNT Head Coach jwaitparker@stmarytx.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Frank Kellner Head Baseball Coach fkellner@stmarytx.edu 210-
+• Taylor Lira Head Softball Coach tlira@stmarytx.edu 210-
+• Jordan VanTimmeren STUNT Head Coach jwaitparker@stmarytx.edu

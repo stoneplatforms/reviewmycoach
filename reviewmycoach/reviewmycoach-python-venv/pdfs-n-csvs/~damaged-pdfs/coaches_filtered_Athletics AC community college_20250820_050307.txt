@@ -1,0 +1,103 @@
+COACH ENTRIES FOUND - 2025-08-20 05:03:07
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: AC community college
+Organization: AC community college Athletics
+
+Total coaches found: 13
+
+PARSED ENTRIES:
+----------------------------------------
+1. Aragland 
+   Email: aragland@atlanticcape.edu
+   Username: aragland
+   Title: Coach
+   Original line: Coach aragland@atlanticcape.edu
+
+2. Jmiller 
+   Email: jmiller@atlanticcape.edu
+   Username: jmiller
+   Title: Coach
+   Original line: Coach jmiller@atlanticcape.edu
+
+3. Sritchie Head
+   Email: sritchie@atlanticcape.edu
+   Username: sritchie
+   Title: Coach
+   Original line: Head Coach sritchie@atlanticcape.edu
+
+4. Wraywood 
+   Email: wraywood@atlanticcape.edu
+   Username: wraywood
+   Title: Coach
+   Original line: Coach wraywood@atlanticcape.edu
+
+5. Kmaisto 
+   Email: kmaisto@atlanticcaGpeiv.eedu
+   Username: kmaisto
+   Title: Coach
+   Original line: Coach kmaisto@atlanticcaGpeiv.eedu
+
+6. chose athlete
+   Email: 
+   Username: chose.athlete
+   Title: Coach
+   Original line: “I chose Atlantic Cape to help me become a better student and a better athlete. Coach
+
+7.  
+   Email: 
+   Username: 
+   Title: Assistant Coach Edwards provided me with the opportunity to play basketball at the n
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach Edwards provided me with the opportunity to play basketball at the n
+
+8.  
+   Email: 
+   Username: 
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coaches
+
+9. Mbrault 
+   Email: mbrault@atlanticcape.edu
+   Username: mbrault
+   Title: Head Coach
+   Original line: Archery Head Coach John Repnicki mbrault@atlanticcape.edu
+
+10. Mlasasso 
+   Email: mlasasso@atlanticcape.edu
+   Username: mlasasso
+   Title: Head Coach
+   Original line: Baseball Head Coach Alex Tafaro mlasasso@atlanticcape.edu
+
+11. Atafaro 
+   Email: atafaro@atlanticcape.edu
+   Username: atafaro
+   Title: Head Coach
+   Original line: Esports Head Coach Orren Stewart atafaro@atlanticcape.edu
+
+12.  
+   Email: 
+   Username: 
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Men's Soccer Head Coach Luis Paz
+
+13.  
+   Email: 
+   Username: 
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Men's Volleyball Head Coach Karla Maisto
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Coach aragland@atlanticcape.edu
+• Coach jmiller@atlanticcape.edu
+• Head Coach sritchie@atlanticcape.edu
+• Coach wraywood@atlanticcape.edu
+• Coach kmaisto@atlanticcaGpeiv.eedu

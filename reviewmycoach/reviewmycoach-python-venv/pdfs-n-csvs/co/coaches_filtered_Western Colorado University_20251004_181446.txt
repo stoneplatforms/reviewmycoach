@@ -1,0 +1,143 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:47
+============================================================
+
+Total coaches found: 22
+
+PARSED ENTRIES:
+----------------------------------------
+1. Zac Claus
+   Email: zclaus@western.edu
+   Username: zclaus
+   Original line: Zac Claus Head Men's Basketball Coach zclaus@western.edu 970-943-
+
+2. Anna Porter
+   Email: annaporter@western.edu
+   Username: annaporter
+   Original line: Anna Porter Head Cheer Coach annaporter@western.edu
+
+3. Jennifer Michel
+   Email: jmichel@western.edu
+   Username: jmichel
+   Original line: Jennifer Michel Head Cross Country Coach jmichel@western.edu 970-943-
+
+4. Eddie Siuda
+   Email: edwin.siuda@western.edu
+   Username: edwin.siuda
+   Original line: Eddie Siuda Assistant Cross Country Coach edwin.siuda@western.edu
+
+5. Jas Bains
+   Email: jbains@western.edu
+   Username: jbains
+   Original line: Jas Bains Head Football Coach jbains@western.edu 970-943- Jas_Bains_12
+
+6. Todd Auer
+   Email: tauer@western.edu
+   Username: tauer
+   Original line: Todd Auer Assistant Football Coach - tauer@western.edu 970-943- CoachAuer34
+
+7. Joe McLain
+   Email: jmclain@western.edu
+   Username: jmclain
+   Original line: Joe McLain Assistant Football Coach - jmclain@western.edu 970-943- joemclain13
+
+8. Jake Van
+   Email: jvangroll@western.edu
+   Username: jvangroll
+   Original line: Jake Van Groll Assistant Football Coach - jvangroll@western.edu 970-943- jakevangroll
+
+9. John Roy
+   Email: jroy@western.edu
+   Username: jroy
+   Original line: John Roy Assistant Football Coach – jroy@western.edu 970-943- @
+
+10. Jeff Williamson
+   Email: jwilliamson@western.edu
+   Username: jwilliamson
+   Original line: Jeff Williamson Assistant Football Coach - jwilliamson@western.edu
+
+11. John Gonzales
+   Email: jogonzales@western.edu
+   Username: jogonzales
+   Original line: John Gonzales Assistant Football Coach - jogonzales@western.edu
+
+12. Jostein Clarke
+   Email: jclarke@western.edu
+   Username: jclarke
+   Original line: Jostein Clarke Assistant Football Coach - Wide jclarke@western.edu
+
+13. Joshua Alcala
+   Email: soccer@western.edu
+   Username: soccer
+   Original line: Joshua Alcala Head Women's Soccer Coach soccer@western.edu 970-943-
+
+14. Austin Billings
+   Email: abillings@western.edu
+   Username: abillings
+   Original line: Austin Billings Head Track & Field Coach abillings@western.edu 973-943-
+
+15. Jennifer Michel
+   Email: jmichel@western.edu
+   Username: jmichel
+   Original line: Jennifer Michel Head Cross Country Coach jmichel@western.edu 970-943-
+
+16. Connor Rohrbaugh
+   Email: crohrbaugh@western.edu
+   Username: crohrbaugh
+   Original line: Connor Rohrbaugh Assistant Coach (Throws) crohrbaugh@western.edu
+
+17. Dalton Yuest
+   Email: dyuest@western.edu
+   Username: dyuest
+   Original line: Dalton Yuest Assistant Track and Field Coach dyuest@western.edu
+
+18. Sonia Morales-Jones
+   Email: soniajones@western.edu
+   Username: soniajones
+   Original line: Sonia Morales-Jones Head Volleyball Coach soniajones@western.edu 970-943-
+
+19. Hailey White
+   Email: haileywhite@western.edu
+   Username: haileywhite
+   Original line: Hailey White Assistant Volleyball Coach haileywhite@western.edu 970-943-
+
+20. Charlie Pipher
+   Email: cpipher@western.edu
+   Username: cpipher
+   Original line: Charlie Pipher Head Wrestling Coach cpipher@western.edu 970-943- cpipher7723
+
+21. Donovan McMahill
+   Email: dmcmahill@western.edu
+   Username: dmcmahill
+   Original line: Donovan McMahill Assistant Wrestling Coach dmcmahill@western.edu 970-943- DonoMacMnteer
+
+22. Taylor Summers
+   Email: tdsummers@western.edu
+   Username: tdsummers
+   Original line: Taylor Summers Head Women's Wrestling Coach tdsummers@western.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Zac Claus Head Men's Basketball Coach zclaus@western.edu 970-943-
+• Anna Porter Head Cheer Coach annaporter@western.edu
+• Jennifer Michel Head Cross Country Coach jmichel@western.edu 970-943-
+• Eddie Siuda Assistant Cross Country Coach edwin.siuda@western.edu
+• Jas Bains Head Football Coach jbains@western.edu 970-943- Jas_Bains_12
+• Todd Auer Assistant Football Coach - tauer@western.edu 970-943- CoachAuer34
+• Joe McLain Assistant Football Coach - jmclain@western.edu 970-943- joemclain13
+• Jake Van Groll Assistant Football Coach - jvangroll@western.edu 970-943- jakevangroll
+• John Roy Assistant Football Coach – jroy@western.edu 970-943- @
+• Jeff Williamson Assistant Football Coach - jwilliamson@western.edu
+• John Gonzales Assistant Football Coach - jogonzales@western.edu
+• Jostein Clarke Assistant Football Coach - Wide jclarke@western.edu
+• Joshua Alcala Head Women's Soccer Coach soccer@western.edu 970-943-
+• Austin Billings Head Track & Field Coach abillings@western.edu 973-943-
+• Jennifer Michel Head Cross Country Coach jmichel@western.edu 970-943-
+• Connor Rohrbaugh Assistant Coach (Throws) crohrbaugh@western.edu
+• Dalton Yuest Assistant Track and Field Coach dyuest@western.edu
+• Sonia Morales-Jones Head Volleyball Coach soniajones@western.edu 970-943-
+• Hailey White Assistant Volleyball Coach haileywhite@western.edu 970-943-
+• Charlie Pipher Head Wrestling Coach cpipher@western.edu 970-943- cpipher7723
+• Donovan McMahill Assistant Wrestling Coach dmcmahill@western.edu 970-943- DonoMacMnteer
+• Taylor Summers Head Women's Wrestling Coach tdsummers@western.edu

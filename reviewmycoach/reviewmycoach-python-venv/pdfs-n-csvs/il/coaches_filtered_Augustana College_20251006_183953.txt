@@ -1,0 +1,299 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:54
+============================================================
+
+Total coaches found: 48
+
+PARSED ENTRIES:
+----------------------------------------
+1. Greg Wallace
+   Email: GregWallace@augustana.edu
+   Username: GregWallace
+   Original line: Greg Wallace Head Coach GregWallace@augustana.edu (309) 794-
+
+2. Justin Hauer
+   Email: justinhauer@augustana.edu
+   Username: justinhauer
+   Original line: Justin Hauer Associate Head Coach justinhauer@augustana.edu (309) 794-
+
+3. Tyler Nunez
+   Email: tylernunez@augustana.edu
+   Username: tylernunez
+   Original line: Tyler Nunez Assistant Coach tylernunez@augustana.edu
+
+4. Jordan Delp
+   Email: jordandelp@augustana.edu
+   Username: jordandelp
+   Original line: Jordan Delp Head Coach jordandelp@augustana.edu (309) 794-
+
+5. Malik Wildermuth
+   Email: malikwildermuth@augustana.edu
+   Username: malikwildermuth
+   Original line: Malik Wildermuth Assistant Coach malikwildermuth@augustana.edu (309) 794-
+
+6. Kyle LaMonte
+   Email: kylelamonte@augustana.edu
+   Username: kylelamonte
+   Original line: Kyle LaMonte Assistant Coach kylelamonte@augustana.edu
+
+7. Pat Doherty
+   Email: patrickdoherty@augustana.edu
+   Username: patrickdoherty
+   Original line: Pat Doherty Assistant Coach patrickdoherty@augustana.edu
+
+8. Ryan Dieckman
+   Email: ryandieckman@augustana.edu
+   Username: ryandieckman
+   Original line: Ryan Dieckman Assistant Coach ryandieckman@augustana.edu
+
+9. Dallas Duwa
+   Email: dallasduwa@augustana.edu
+   Username: dallasduwa
+   Original line: Dallas Duwa Assistant Coach dallasduwa@augustana.edu
+
+10. Mark Beinborn
+   Email: MarkBeinborn@augustana.edu
+   Username: MarkBeinborn
+   Original line: Mark Beinborn Head Coach MarkBeinborn@augustana.edu (309) 794-
+
+11. Marquisha Harris-Posso
+   Email: mharris-posso@augustana.edu
+   Username: mharris-posso
+   Original line: Marquisha Harris-Posso Assistant Coach mharris-posso@augustana.edu
+
+12. Eric Rowell
+   Email: ericrowell@augustana.edu
+   Username: ericrowell
+   Original line: Eric Rowell Assistant Coach ericrowell@augustana.edu (309) 794-
+
+13. Marty Resner
+   Email: martinresner@augustana.edu
+   Username: martinresner
+   Original line: Marty Resner Head Coach martinresner@augustana.edu (630) 479-
+
+14. Steve Bell
+   Email: stephenbell@augustana.edu
+   Username: stephenbell
+   Original line: Steve Bell Head Coach stephenbell@augustana.edu (309) 794-
+
+15. Dave Ragone
+   Email: davidragone@augustana.edu
+   Username: davidragone
+   Original line: Dave Ragone Associate Head Coach - Offensive Line davidragone@augustana.edu (309) 794-
+
+16. Aaron Call
+   Email: AaronCall@augustana.edu
+   Username: AaronCall
+   Original line: Aaron Call Assistant Coach - Defensive Line AaronCall@augustana.edu (309) 794-
+
+17. Jacob Wehr
+   Email: jacobwehr@augustana.edu
+   Username: jacobwehr
+   Original line: Jacob Wehr Assistant Coach - Quarterbacks jacobwehr@augustana.edu
+
+18. Wes Baskovic
+   Email: wesbaskovic@augustana.edu
+   Username: wesbaskovic
+   Original line: Wes Baskovic Assistant Coach – Linebackers wesbaskovic@augustana.edu (309) 716-
+
+19. Darry Thornton
+   Email: darrythornton@augustana.edu
+   Username: darrythornton
+   Original line: Darry Thornton Head Coach darrythornton@augustana.edu (309) 794-
+
+20. Jordan Tice
+   Email: jordantice@augustana.edu
+   Username: jordantice
+   Original line: Jordan Tice Head Coach jordantice@augustana.edu (630) 457-
+
+21. Courtney Veitch
+   Email: courtneyveitch@augustana.edu
+   Username: courtneyveitch
+   Original line: Courtney Veitch Assistant Coach courtneyveitch@augustana.edu
+
+22. Chad Flanders
+   Email: chadflanders@augustana.edu
+   Username: chadflanders
+   Original line: Chad Flanders Head Coach chadflanders@augustana.edu (309) 794-
+
+23. Brant Mueller
+   Email: brantmueller@augustana.edu
+   Username: brantmueller
+   Original line: Brant Mueller Assistant Coach brantmueller@augustana.edu
+
+24. Eric Stewart
+   Email: ericstewart@augustana.edu
+   Username: ericstewart
+   Original line: Eric Stewart Assistant Coach ericstewart@augustana.edu
+
+25. Scott Mejia
+   Email: scottmejia@augustana.edu
+   Username: scottmejia
+   Original line: Scott Mejia Gassman Family Endowed Head Coach scottmejia@augustana.edu (309) 794-
+
+26. John Nelson
+   Email: johnnelson@augustana.edu
+   Username: johnnelson
+   Original line: John Nelson Head Coach johnnelson@augustana.edu (309) 269-
+
+27. Ramsey Vens
+   Email: ramseyvens@augustana.edu
+   Username: ramseyvens
+   Original line: Ramsey Vens Head Coach ramseyvens@augustana.edu (563) 940-
+
+28. Amy Feltz
+   Email: amyfeltz@augustana.edu
+   Username: amyfeltz
+   Original line: Amy Feltz Assistant Coach amyfeltz@augustana.edu
+
+29. Dwight Swartz
+   Email: dwightswartz@augustana.edu
+   Username: dwightswartz
+   Original line: Dwight Swartz Diving Coach dwightswartz@augustana.edu
+
+30. David DeSimone
+   Email: daviddesimone@augustana.edu
+   Username: daviddesimone
+   Original line: David DeSimone Head Coach daviddesimone@augustana.edu (309) 794-
+
+31. Tom Jennings
+   Email: tomjennings@augustana.edu
+   Username: tomjennings
+   Original line: Tom Jennings Assistant Coach tomjennings@augustana.edu (515) 201-
+
+32. Isaac Smith
+   Email: isaacsmith@augustana.edu
+   Username: isaacsmith
+   Original line: Isaac Smith ('17) Associate Head Coach - Sprints/Hurdles | isaacsmith@augustana.edu (319) 361-
+
+33. Nick Swoger
+   Email: nickswoger@augustana.edu
+   Username: nickswoger
+   Original line: Nick Swoger Assistant Coach - Throws | Director of nickswoger@augustana.edu
+
+34. Doug Sand
+   Email: douglassand@augustana.edu
+   Username: douglassand
+   Original line: Doug Sand ('85) Assistant Coach - Distance douglassand@augustana.edu
+
+35. Chad Thomas
+   Email: teamthomassports@gmail.com
+   Username: teamthomassports
+   Original line: Chad Thomas Assistant Coach - Pole Vault teamthomassports@gmail.com
+
+36. Morgan McEnroe
+   Email: morganmcenroe@augustana.edu
+   Username: morganmcenroe
+   Original line: Morgan McEnroe ('19) Assistant Coach - Sprints | Digital Media morganmcenroe@augustana.edu
+
+37. Enyo Dewith
+   Email: enyodewith@augustana.edu
+   Username: enyodewith
+   Original line: Enyo Dewith ('76) Assistant Coach - Sprints enyodewith@augustana.edu
+
+38. Everett Schwer
+   Email: schwer.everett@gmail.com
+   Username: schwer.everett
+   Original line: Everett Schwer Assistant Coach - Combined Events, Javelin schwer.everett@gmail.com (608) 723-
+
+39. David Gonzalez
+   Email: davidgonzalez@augustana.edu
+   Username: davidgonzalez
+   Original line: David Gonzalez ('03) Assistant Coach - Throws davidgonzalez@augustana.edu
+
+40. Mike Ducey
+   Email: michaelducey@augustana.edu
+   Username: michaelducey
+   Original line: Mike Ducey Head Coach michaelducey@augustana.edu (309) 737-
+
+41. Taryn VanEarwage
+   Email: tarynvanearwage@augustana.edu
+   Username: tarynvanearwage
+   Original line: Taryn VanEarwage Assistant Coach tarynvanearwage@augustana.edu
+
+42. Kelly Bethke
+   Email: kellybethke@augustana.edu
+   Username: kellybethke
+   Original line: Kelly Bethke Gassman Family Endowed Head Coach kellybethke@augustana.edu (309) 794-
+
+43. Scott Nelson
+   Email: slkl.nelson@gmail.com
+   Username: slkl.nelson
+   Original line: Scott Nelson Assistant Coach slkl.nelson@gmail.com (309) 756-
+
+44. Ashley Awbrey
+   Email: ashleyawbrey21@augustana.edu
+   Username: ashleyawbrey21
+   Original line: Ashley Awbrey Assistant Coach ashleyawbrey21@augustana.edu
+
+45. Ryan Pryor
+   Email: ryanpryor@augustana.edu
+   Username: ryanpryor
+   Original line: Ryan Pryor Head Coach ryanpryor@augustana.edu
+
+46. Peter Ollis
+   Email: ollis.peter@gmail.com
+   Username: ollis.peter
+   Original line: Peter Ollis Assistant Coach ollis.peter@gmail.com
+
+47. Tony Willaert
+   Email: tonywillaert@augustana.edu
+   Username: tonywillaert
+   Original line: Tony Willaert Terry & Sandy Shockley Endowed Head Coach tonywillaert@augustana.edu (309) 794-
+
+48. Jeff Rose
+   Email: jeffreyrose@augustana.edu
+   Username: jeffreyrose
+   Original line: Jeff Rose Strength & Conditioning Coach jeffreyrose@augustana.edu (515) 971-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Greg Wallace Head Coach GregWallace@augustana.edu (309) 794-
+• Justin Hauer Associate Head Coach justinhauer@augustana.edu (309) 794-
+• Tyler Nunez Assistant Coach tylernunez@augustana.edu
+• Jordan Delp Head Coach jordandelp@augustana.edu (309) 794-
+• Malik Wildermuth Assistant Coach malikwildermuth@augustana.edu (309) 794-
+• Kyle LaMonte Assistant Coach kylelamonte@augustana.edu
+• Pat Doherty Assistant Coach patrickdoherty@augustana.edu
+• Ryan Dieckman Assistant Coach ryandieckman@augustana.edu
+• Dallas Duwa Assistant Coach dallasduwa@augustana.edu
+• Mark Beinborn Head Coach MarkBeinborn@augustana.edu (309) 794-
+• Marquisha Harris-Posso Assistant Coach mharris-posso@augustana.edu
+• Eric Rowell Assistant Coach ericrowell@augustana.edu (309) 794-
+• Marty Resner Head Coach martinresner@augustana.edu (630) 479-
+• Steve Bell Head Coach stephenbell@augustana.edu (309) 794-
+• Dave Ragone Associate Head Coach - Offensive Line davidragone@augustana.edu (309) 794-
+• Aaron Call Assistant Coach - Defensive Line AaronCall@augustana.edu (309) 794-
+• Jacob Wehr Assistant Coach - Quarterbacks jacobwehr@augustana.edu
+• Wes Baskovic Assistant Coach – Linebackers wesbaskovic@augustana.edu (309) 716-
+• Darry Thornton Head Coach darrythornton@augustana.edu (309) 794-
+• Jordan Tice Head Coach jordantice@augustana.edu (630) 457-
+• Courtney Veitch Assistant Coach courtneyveitch@augustana.edu
+• Chad Flanders Head Coach chadflanders@augustana.edu (309) 794-
+• Brant Mueller Assistant Coach brantmueller@augustana.edu
+• Eric Stewart Assistant Coach ericstewart@augustana.edu
+• Scott Mejia Gassman Family Endowed Head Coach scottmejia@augustana.edu (309) 794-
+• John Nelson Head Coach johnnelson@augustana.edu (309) 269-
+• Ramsey Vens Head Coach ramseyvens@augustana.edu (563) 940-
+• Amy Feltz Assistant Coach amyfeltz@augustana.edu
+• Dwight Swartz Diving Coach dwightswartz@augustana.edu
+• David DeSimone Head Coach daviddesimone@augustana.edu (309) 794-
+• Tom Jennings Assistant Coach tomjennings@augustana.edu (515) 201-
+• Isaac Smith ('17) Associate Head Coach - Sprints/Hurdles | isaacsmith@augustana.edu (319) 361-
+• Nick Swoger Assistant Coach - Throws | Director of nickswoger@augustana.edu
+• Doug Sand ('85) Assistant Coach - Distance douglassand@augustana.edu
+• Chad Thomas Assistant Coach - Pole Vault teamthomassports@gmail.com
+• Morgan McEnroe ('19) Assistant Coach - Sprints | Digital Media morganmcenroe@augustana.edu
+• Enyo Dewith ('76) Assistant Coach - Sprints enyodewith@augustana.edu
+• Everett Schwer Assistant Coach - Combined Events, Javelin schwer.everett@gmail.com (608) 723-
+• David Gonzalez ('03) Assistant Coach - Throws davidgonzalez@augustana.edu
+• Mike Ducey Head Coach michaelducey@augustana.edu (309) 737-
+• Taryn VanEarwage Assistant Coach tarynvanearwage@augustana.edu
+• Kelly Bethke Gassman Family Endowed Head Coach kellybethke@augustana.edu (309) 794-
+• Scott Nelson Assistant Coach slkl.nelson@gmail.com (309) 756-
+• Ashley Awbrey Assistant Coach ashleyawbrey21@augustana.edu
+• Ryan Pryor Head Coach ryanpryor@augustana.edu
+• Peter Ollis Assistant Coach ollis.peter@gmail.com
+• Tony Willaert Terry & Sandy Shockley Endowed Head Coach tonywillaert@augustana.edu (309) 794-
+• Jeff Rose Strength & Conditioning Coach jeffreyrose@augustana.edu (515) 971-

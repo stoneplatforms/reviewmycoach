@@ -1,0 +1,155 @@
+COACH ENTRIES FOUND - 2025-10-04 18:17:38
+============================================================
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Margret Skaftadottir
+   Email: skaftami@eckerd.edu
+   Username: skaftami
+   Original line: Dr. Margret Skaftadottir Academic Success Coach skaftami@eckerd.edu 727-864-
+
+2. Josh Beauregard
+   Email: beaurejm@eckerd.edu
+   Username: beaurejm
+   Original line: Josh Beauregard '03 Head Baseball Coach beaurejm@eckerd.edu 727-864-
+
+3. Connor Churchill
+   Email: churchillcj@eckerd.edu
+   Username: churchillcj
+   Original line: Connor Churchill Pitching Coach churchillcj@eckerd.edu
+
+4. Cam Lanzilli
+   Email: lanzillicp@eckerd.edu
+   Username: lanzillicp
+   Original line: Cam Lanzilli '19 Recruiting Coordinator/Pitching Coach lanzillicp@eckerd.edu
+
+5. Matthew Johnson
+   Email: johnsonmn@eckerd.edu
+   Username: johnsonmn
+   Original line: Matthew Johnson Assistant Baseball Coach/Camp Coordinator johnsonmn@eckerd.edu
+
+6. Bryan Galuski
+   Email: galuskbc@eckerd.edu
+   Username: galuskbc
+   Original line: Bryan Galuski '98 Head Men's Basketball Coach galuskbc@eckerd.edu 727-864-
+
+7. Jim Cantamessa
+   Email: cantamessajf@eckerd.edu
+   Username: cantamessajf
+   Original line: Jim Cantamessa Assistant Men's Basketball Coach cantamessajf@eckerd.edu
+
+8. Shawn Vanzant
+   Email: vanzantsv@eckerd.edu
+   Username: vanzantsv
+   Original line: Shawn Vanzant Assistant Coach vanzantsv@eckerd.edu
+
+9. Paul Honsinger
+   Email: honsinpf@eckerd.edu
+   Username: honsinpf
+   Original line: Paul Honsinger '98 Head Coach honsinpf@eckerd.edu 727-864-
+
+10. Maddie Sims
+   Email: simsme@eckerd.edu
+   Username: simsme
+   Original line: Maddie Sims Assistant Coach simsme@eckerd.edu
+
+11. Aaron King
+   Email: kingal@eckerd.edu
+   Username: kingal
+   Original line: Aaron King Head Men's and Women's Cross Country Coach kingal@eckerd.edu 727-864-
+
+12. David Woodrum
+   Email: woodrumdi@eckerd.edu
+   Username: woodrumdi
+   Original line: David Woodrum Head Men's and Women's Golf Coach woodrumdi@eckerd.edu 727-864-
+
+13. Bill Buttner
+   Email: wabuttner@aol.com
+   Username: wabuttner
+   Original line: Bill Buttner Assistant Men's and Women's Golf Coach wabuttner@aol.com 727-864-
+
+14. Ward Cromwell
+   Email: cromwellhe@eckerd.edu
+   Username: cromwellhe
+   Original line: Ward Cromwell Head Sailing Coach cromwellhe@eckerd.edu 727-864-
+
+15. Joe Ilett
+   Email: ilettjp1@eckerd.edu
+   Username: ilettjp1
+   Original line: Joe Ilett '10 Head Coach ilettjp1@eckerd.edu 727-864-
+
+16. Luke Sheekey
+   Email: sheekeyl@eckerd.edu
+   Username: sheekeyl
+   Original line: Luke Sheekey '10 Head Coach sheekeyl@eckerd.edu 727-864-
+
+17. Jason Navas
+   Email: navasjm@eckerd.edu
+   Username: navasjm
+   Original line: Jason Navas Assistant Coach | Recruiting Camp Coordinator navasjm@eckerd.edu
+
+18. Riley Casey
+   Email: caseyr@eckerd.edu
+   Username: caseyr
+   Original line: Riley Casey Assistant Coach caseyr@eckerd.edu
+
+19. Michelle Frew
+   Email: frewmr@eckerd.edu
+   Username: frewmr
+   Original line: Michelle Frew '91 Head Softball Coach frewmr@eckerd.edu 727-864-
+
+20. Steve Frew
+   Email: frewsm@eckerd.edu
+   Username: frewsm
+   Original line: Steve Frew '88 Assistant Softball Coach frewsm@eckerd.edu 727-864-
+
+21. Ben Maxwell
+   Email: maxwelbp@eckerd.edu
+   Username: maxwelbp
+   Original line: Ben Maxwell '11 Men's and Women's Tennis Head Coach maxwelbp@eckerd.edu 727-864-
+
+22. Michelle Piantadosi-Lima
+   Email: piantama@eckerd.edu
+   Username: piantama
+   Original line: Michelle Piantadosi-Lima Head Coach/Director of Volleyball piantama@eckerd.edu 727-864-
+
+23. Kali Boatwright
+   Email: boatwrkm@eckerd.edu
+   Username: boatwrkm
+   Original line: Kali Boatwright '18 Assistant Coach boatwrkm@eckerd.edu 727-864-
+
+24. Jade Hayes
+   Email: hayesnj@eckerd.edu
+   Username: hayesnj
+   Original line: Jade Hayes Antolik Head Coach hayesnj@eckerd.edu 727-864-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dr. Margret Skaftadottir Academic Success Coach skaftami@eckerd.edu 727-864-
+• Josh Beauregard '03 Head Baseball Coach beaurejm@eckerd.edu 727-864-
+• Connor Churchill Pitching Coach churchillcj@eckerd.edu
+• Cam Lanzilli '19 Recruiting Coordinator/Pitching Coach lanzillicp@eckerd.edu
+• Matthew Johnson Assistant Baseball Coach/Camp Coordinator johnsonmn@eckerd.edu
+• Bryan Galuski '98 Head Men's Basketball Coach galuskbc@eckerd.edu 727-864-
+• Jim Cantamessa Assistant Men's Basketball Coach cantamessajf@eckerd.edu
+• Shawn Vanzant Assistant Coach vanzantsv@eckerd.edu
+• Paul Honsinger '98 Head Coach honsinpf@eckerd.edu 727-864-
+• Maddie Sims Assistant Coach simsme@eckerd.edu
+• Aaron King Head Men's and Women's Cross Country Coach kingal@eckerd.edu 727-864-
+• David Woodrum Head Men's and Women's Golf Coach woodrumdi@eckerd.edu 727-864-
+• Bill Buttner Assistant Men's and Women's Golf Coach wabuttner@aol.com 727-864-
+• Ward Cromwell Head Sailing Coach cromwellhe@eckerd.edu 727-864-
+• Joe Ilett '10 Head Coach ilettjp1@eckerd.edu 727-864-
+• Luke Sheekey '10 Head Coach sheekeyl@eckerd.edu 727-864-
+• Jason Navas Assistant Coach | Recruiting Camp Coordinator navasjm@eckerd.edu
+• Riley Casey Assistant Coach caseyr@eckerd.edu
+• Michelle Frew '91 Head Softball Coach frewmr@eckerd.edu 727-864-
+• Steve Frew '88 Assistant Softball Coach frewsm@eckerd.edu 727-864-
+• Ben Maxwell '11 Men's and Women's Tennis Head Coach maxwelbp@eckerd.edu 727-864-
+• Michelle Piantadosi-Lima Head Coach/Director of Volleyball piantama@eckerd.edu 727-864-
+• Kali Boatwright '18 Assistant Coach boatwrkm@eckerd.edu 727-864-
+• Jade Hayes Antolik Head Coach hayesnj@eckerd.edu 727-864-

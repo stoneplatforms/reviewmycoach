@@ -1,0 +1,262 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:47
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Noah Evington
+   Email: noah.evington@uncp.edu
+   Username: noah.evington
+   Phone: 521-6307
+   Original line: Noah Evington Assistant Coach noah.evington@uncp.edu 521-6307
+
+2. Leon Eason,
+   Email: football@uncp.edu
+   Username: football
+   Original line: Leon Eason, Jr. Assistant Coach (Wide Receivers) football@uncp.edu
+
+3. Justice Ricketts
+   Email: justice.ricketts@uncp.edu
+   Username: justice.ricketts
+   Phone: 521-6307
+   Original line: Justice Ricketts Assistant Coach justice.ricketts@uncp.edu 521-6307
+
+4. Kristen Freeman
+   Email: kristen.freeman@uncp.edu
+   Username: kristen.freeman
+   Phone: 775-4436
+   Original line: Kristen Freeman Head Coach kristen.freeman@uncp.edu 775-4436
+
+5. Paul O'Neil
+   Email: paul.oneil@uncp.edu
+   Username: paul.oneil
+   Phone: 521-6810
+   Original line: Paul O'Neil Head Coach paul.oneil@uncp.edu 521-6810
+
+6. Daniel Britt
+   Email: daniel.britt@uncp.edu
+   Username: daniel.britt
+   Phone: 775-4241
+   Original line: Daniel Britt Assistant Coach daniel.britt@uncp.edu 775-4241
+
+7. Jaylen Guy
+   Email: jaylen.guy@uncp.edu
+   Username: jaylen.guy
+   Phone: 775-4241
+   Original line: Jaylen Guy Assistant Coach jaylen.guy@uncp.edu 775-4241
+
+8. Drew Richards
+   Email: drew.richards@uncp.edu
+   Username: drew.richards
+   Phone: 521-6343
+   Original line: Drew Richards Head Coach drew.richards@uncp.edu 521-6343
+
+9. Chris Sause
+   Email: christopher.sause@uncp.edu
+   Username: christopher.sause
+   Phone: 521-6344
+   Original line: Chris Sause Associate Head Coach christopher.sause@uncp.edu 521-6344
+
+10. Noah Katz
+   Email: noah.katz@uncp.edu
+   Username: noah.katz
+   Phone: 521-6344
+   Original line: Noah Katz Assistant Coach noah.katz@uncp.edu 521-6344
+
+11. Noah Diebel
+   Email: noah.diebel@uncp.edu
+   Username: noah.diebel
+   Original line: Noah Diebel Assistant Coach noah.diebel@uncp.edu
+
+12. Kendra Samuels-Eaton
+   Email: kendra.eaton@uncp.edu
+   Username: kendra.eaton
+   Phone: 521-6345
+   Original line: Dr. Kendra Samuels-Eaton Head Coach kendra.eaton@uncp.edu 521-6345
+
+13. Donald Bohannon
+   Email: donald.bohannon@uncp.edu
+   Username: donald.bohannon
+   Phone: 521-6313
+   Original line: Donald Bohannon Associate Head Coach donald.bohannon@uncp.edu 521-6313
+
+14. Zenzele Apesemaka-Vital
+   Email: zenzele@uncp.edu
+   Username: zenzele
+   Original line: Zenzele Apesemaka-Vital Assistant Coach/Recruiting Coordinator zenzele@uncp.edu
+
+15. Pardon Ndhlovu
+   Email: pardon.ndhlovu@uncp.edu
+   Username: pardon.ndhlovu
+   Phone: 521-6187
+   Original line: Pardon Ndhlovu Assistant Coach pardon.ndhlovu@uncp.edu 521-6187
+
+16. Tanner Smith
+   Email: tls075@bravemail.uncp.edu
+   Username: tls075
+   Phone: 521-6307
+   Original line: Tanner Smith Assistant Coach tls075@bravemail.uncp.edu 521-6307
+
+17. Colin Neely
+   Email: football@uncp.edu
+   Username: football
+   Phone: 775-4236
+   Original line: Colin Neely Assistant Head Coach (Defensive Coordinator/Defensive Line) football@uncp.edu 775-4236
+
+18. Brian Frierson
+   Email: football@uncp.edu
+   Username: football
+   Phone: 775-4236
+   Original line: Brian Frierson Assistant Coach (Special Teams Coordinator/Defensive Backs) football@uncp.edu 775-4236
+
+19. Cullen Casey
+   Email: football@uncp.edu
+   Username: football
+   Original line: Cullen Casey Assistant Coach (Offensive Line) football@uncp.edu
+
+20. Jayden Riley
+   Email: football@uncp.edu
+   Username: football
+   Phone: 775-4236
+   Original line: Jayden Riley Assistant Coach (Tight Ends) football@uncp.edu 775-4236
+
+21. Gilberto Ortiz
+   Email: football@uncp.edu
+   Username: football
+   Phone: 775-4236
+   Original line: Gilberto Ortiz Assistant Coach (Linebackers) football@uncp.edu 775-4236
+
+22. Bryce Witt
+   Email: football@uncp.edu
+   Username: football
+   Phone: 775-4232
+   Original line: Bryce Witt Assistant Coach (Quarterbacks) football@uncp.edu 775-4232
+
+23. Leon Eason,
+   Email: football@uncp.edu
+   Username: football
+   Original line: Leon Eason, Jr. Assistant Coach (Wide Receivers) football@uncp.edu
+
+24. Bryan Harris
+   Email: football@uncp.edu
+   Username: football
+   Phone: 775-4236
+   Original line: Bryan Harris Assistant Coach (Running Backs) football@uncp.edu 775-4236
+
+25. Shabre Judkins
+   Email: football@uncp.edu
+   Username: football
+   Original line: Shabre Judkins Assistant Coach (Cornerbacks/Specialists) football@uncp.edu
+
+26. Hannah Luckett
+   Email: hannah.luckett@uncp.edu
+   Username: hannah.luckett
+   Phone: 775-4113
+   Original line: Hannah Luckett Head Coach hannah.luckett@uncp.edu 775-4113
+
+27. Lars Andersson
+   Email: lars.andersson@uncp.edu
+   Username: lars.andersson
+   Phone: 521-6442
+   Original line: Lars Andersson Head Coach lars.andersson@uncp.edu 521-6442
+
+28. Zach Nipper
+   Email: zachary.nipper@uncp.edu
+   Username: zachary.nipper
+   Phone: 521-6294
+   Original line: Zach Nipper Assistant Coach zachary.nipper@uncp.edu 521-6294
+
+29. Stephanie Graziani
+   Email: stephanie.graziani@uncp.edu
+   Username: stephanie.graziani
+   Phone: 521-6348
+   Original line: Stephanie Graziani Head Coach stephanie.graziani@uncp.edu 521-6348
+
+30. Lauren Hawley
+   Email: lauren.hawley@uncp.edu
+   Username: lauren.hawley
+   Phone: 521-6308
+   Original line: Lauren Hawley Assistant Coach lauren.hawley@uncp.edu 521-6308
+
+31. Oscar Roverato
+   Email: oscar.roverato@uncp.edu
+   Username: oscar.roverato
+   Phone: 775-4629
+   Original line: Oscar Roverato Head Coach oscar.roverato@uncp.edu 775-4629
+
+32. Raffaele Piccinonno
+   Email: raffaele.piccinonno@uncp.edu
+   Username: raffaele.piccinonno
+   Original line: Raffaele Piccinonno Assistant Coach raffaele.piccinonno@uncp.edu
+
+33. Justice Ricketts
+   Email: justice.ricketts@uncp.edu
+   Username: justice.ricketts
+   Phone: 521-6307
+   Original line: Justice Ricketts Assistant Coach justice.ricketts@uncp.edu 521-6307
+
+34. Aly Artman
+   Email: alycia.artman@uncp.edu
+   Username: alycia.artman
+   Original line: Aly Artman Assistant Coach alycia.artman@uncp.edu
+
+35. Jaleesa Harper
+   Email: jaleesa.harper@uncp.edu
+   Username: jaleesa.harper
+   Phone: 775-4108
+   Original line: Jaleesa Harper Head Coach jaleesa.harper@uncp.edu 775-4108
+
+36. Sara Pasour
+   Email: sara.pasour@uncp.edu
+   Username: sara.pasour
+   Phone: 775-4117
+   Original line: Sara Pasour Assistant Coach sara.pasour@uncp.edu 775-4117
+
+37. Othello "O.T."
+   Email: othello.johnson@uncp.edu
+   Username: othello.johnson
+   Phone: 775-4116
+   Original line: Othello "O.T." Johnson Head Coach othello.johnson@uncp.edu 775-4116
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Noah Evington Assistant Coach noah.evington@uncp.edu 521-6307
+• Leon Eason, Jr. Assistant Coach (Wide Receivers) football@uncp.edu
+• Justice Ricketts Assistant Coach justice.ricketts@uncp.edu 521-6307
+• Kristen Freeman Head Coach kristen.freeman@uncp.edu 775-4436
+• Paul O'Neil Head Coach paul.oneil@uncp.edu 521-6810
+• Daniel Britt Assistant Coach daniel.britt@uncp.edu 775-4241
+• Jaylen Guy Assistant Coach jaylen.guy@uncp.edu 775-4241
+• Drew Richards Head Coach drew.richards@uncp.edu 521-6343
+• Chris Sause Associate Head Coach christopher.sause@uncp.edu 521-6344
+• Noah Katz Assistant Coach noah.katz@uncp.edu 521-6344
+• Noah Diebel Assistant Coach noah.diebel@uncp.edu
+• Dr. Kendra Samuels-Eaton Head Coach kendra.eaton@uncp.edu 521-6345
+• Donald Bohannon Associate Head Coach donald.bohannon@uncp.edu 521-6313
+• Zenzele Apesemaka-Vital Assistant Coach/Recruiting Coordinator zenzele@uncp.edu
+• Pardon Ndhlovu Assistant Coach pardon.ndhlovu@uncp.edu 521-6187
+• Tanner Smith Assistant Coach tls075@bravemail.uncp.edu 521-6307
+• Colin Neely Assistant Head Coach (Defensive Coordinator/Defensive Line) football@uncp.edu 775-4236
+• Brian Frierson Assistant Coach (Special Teams Coordinator/Defensive Backs) football@uncp.edu 775-4236
+• Cullen Casey Assistant Coach (Offensive Line) football@uncp.edu
+• Jayden Riley Assistant Coach (Tight Ends) football@uncp.edu 775-4236
+• Gilberto Ortiz Assistant Coach (Linebackers) football@uncp.edu 775-4236
+• Bryce Witt Assistant Coach (Quarterbacks) football@uncp.edu 775-4232
+• Leon Eason, Jr. Assistant Coach (Wide Receivers) football@uncp.edu
+• Bryan Harris Assistant Coach (Running Backs) football@uncp.edu 775-4236
+• Shabre Judkins Assistant Coach (Cornerbacks/Specialists) football@uncp.edu
+• Hannah Luckett Head Coach hannah.luckett@uncp.edu 775-4113
+• Lars Andersson Head Coach lars.andersson@uncp.edu 521-6442
+• Zach Nipper Assistant Coach zachary.nipper@uncp.edu 521-6294
+• Stephanie Graziani Head Coach stephanie.graziani@uncp.edu 521-6348
+• Lauren Hawley Assistant Coach lauren.hawley@uncp.edu 521-6308
+• Oscar Roverato Head Coach oscar.roverato@uncp.edu 775-4629
+• Raffaele Piccinonno Assistant Coach raffaele.piccinonno@uncp.edu
+• Justice Ricketts Assistant Coach justice.ricketts@uncp.edu 521-6307
+• Aly Artman Assistant Coach alycia.artman@uncp.edu
+• Jaleesa Harper Head Coach jaleesa.harper@uncp.edu 775-4108
+• Sara Pasour Assistant Coach sara.pasour@uncp.edu 775-4117
+• Othello "O.T." Johnson Head Coach othello.johnson@uncp.edu 775-4116

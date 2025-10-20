@@ -1,0 +1,128 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:43
+============================================================
+
+Total coaches found: 18
+
+PARSED ENTRIES:
+----------------------------------------
+1. Sahil Lakhani
+   Email: sahil.lakhani@alverno.edu
+   Username: sahil.lakhani
+   Phone: (414) 382-6404
+   Original line: Sahil Lakhani Head Coach sahil.lakhani@alverno.edu 414-382-6404 AF 216C
+
+2. Dom Hudson
+   Email: dominique.hudson@alverno.edu
+   Username: dominique.hudson
+   Phone: (414) 382-6114
+   Original line: Dom Hudson Head Coach dominique.hudson@alverno.edu (O) 414-382-6114 / (C) 702- AF 216E
+
+3. Imani Stingley
+   Email: imani.stingley@alverno.edu
+   Username: imani.stingley
+   Phone: (414) 588-7036
+   Original line: Imani Stingley Head Coach imani.stingley@alverno.edu 414-588-7036 AF 210
+
+4. Avery Maxwell
+   Email: maxwelaa@alverno.edu
+   Username: maxwelaa
+   Original line: Avery Maxwell Assistant Coach maxwelaa@alverno.edu
+
+5. Rachel Guidinger
+   Email: guidinrf@alverno.edu
+   Username: guidinrf
+   Original line: Rachel Guidinger Assistant Coach guidinrf@alverno.edu
+
+6. Sendi Jimenez
+   Email: sendi.jimenezgarcia@alverno.edu
+   Username: sendi.jimenezgarcia
+   Phone: (414) 382-6477
+   Original line: Sendi Jimenez Garcia Head Coach sendi.jimenezgarcia@alverno.edu 414-382-6477 AF 216D
+
+7. Elena Velasquez
+   Email: elena.velasquez@alverno.edu
+   Username: elena.velasquez
+   Original line: Elena Velasquez Assistant Coach elena.velasquez@alverno.edu
+
+8. Greg Springman
+   Email: gregory.springman@alverno.edu
+   Username: gregory.springman
+   Original line: Greg Springman Assistant Coach gregory.springman@alverno.edu
+
+9. Christian Cervantez
+   Email: christian.cervantez@alverno.edu
+   Username: christian.cervantez
+   Original line: Christian Cervantez Assistant Coach christian.cervantez@alverno.edu
+
+10. Jorge Alvarez
+   Email: jorge.alvarez@alverno.edu
+   Username: jorge.alvarez
+   Original line: Jorge Alvarez Assistant Coach jorge.alvarez@alverno.edu
+
+11. Shawn Grimm
+   Email: shawn.grimm@alverno.edu
+   Username: shawn.grimm
+   Phone: (414) 382-6512
+   Original line: Shawn Grimm Head Coach shawn.grimm@alverno.edu 414-382-6512 AF 210A
+
+12. Tony Hubli
+   Email: tony.hubli@alverno.edu
+   Username: tony.hubli
+   Phone: (262) 939-1819
+   Original line: Tony Hubli Assistant Coach tony.hubli@alverno.edu 262-939-1819
+
+13. Jason Otto
+   Email: jason.otto@alverno.edu
+   Username: jason.otto
+   Original line: Jason Otto Assistant Coach jason.otto@alverno.edu
+
+14. Natalie Stanula
+   Email: natalie.stanula@alverno.edu
+   Username: natalie.stanula
+   Phone: (414) 378-8641
+   Original line: Natalie Stanula Head Coach natalie.stanula@alverno.edu 414-378-8641 AF 210
+
+15. Neilee' Newton
+   Email: neilee.newton@alverno.edu
+   Username: neilee.newton
+   Phone: (414) 382-6553
+   Original line: Neilee' Newton Head Coach neilee.newton@alverno.edu 414-382-6553 AF 216B
+
+16. Imani Stingley
+   Email: imani.stingley@alverno.edu
+   Username: imani.stingley
+   Phone: (414) 382-6477
+   Original line: Imani Stingley Assistant Coach imani.stingley@alverno.edu 414-382-6477 AF 210
+
+17. Joshua Ruiz
+   Email: joshua.ruiz@alverno.edu
+   Username: joshua.ruiz
+   Original line: Joshua Ruiz Assistant Coach joshua.ruiz@alverno.edu
+
+18. Anthony Fluder
+   Email: anthony.fluder@alverno.edu
+   Username: anthony.fluder
+   Original line: Anthony Fluder Assistant Coach anthony.fluder@alverno.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Sahil Lakhani Head Coach sahil.lakhani@alverno.edu 414-382-6404 AF 216C
+• Dom Hudson Head Coach dominique.hudson@alverno.edu (O) 414-382-6114 / (C) 702- AF 216E
+• Imani Stingley Head Coach imani.stingley@alverno.edu 414-588-7036 AF 210
+• Avery Maxwell Assistant Coach maxwelaa@alverno.edu
+• Rachel Guidinger Assistant Coach guidinrf@alverno.edu
+• Sendi Jimenez Garcia Head Coach sendi.jimenezgarcia@alverno.edu 414-382-6477 AF 216D
+• Elena Velasquez Assistant Coach elena.velasquez@alverno.edu
+• Greg Springman Assistant Coach gregory.springman@alverno.edu
+• Christian Cervantez Assistant Coach christian.cervantez@alverno.edu
+• Jorge Alvarez Assistant Coach jorge.alvarez@alverno.edu
+• Shawn Grimm Head Coach shawn.grimm@alverno.edu 414-382-6512 AF 210A
+• Tony Hubli Assistant Coach tony.hubli@alverno.edu 262-939-1819
+• Jason Otto Assistant Coach jason.otto@alverno.edu
+• Natalie Stanula Head Coach natalie.stanula@alverno.edu 414-378-8641 AF 210
+• Neilee' Newton Head Coach neilee.newton@alverno.edu 414-382-6553 AF 216B
+• Imani Stingley Assistant Coach imani.stingley@alverno.edu 414-382-6477 AF 210
+• Joshua Ruiz Assistant Coach joshua.ruiz@alverno.edu
+• Anthony Fluder Assistant Coach anthony.fluder@alverno.edu

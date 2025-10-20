@@ -1,0 +1,185 @@
+COACH ENTRIES FOUND - 2025-09-27 16:44:09
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kendall Green
+   Email: kendall.green@aamu.edu
+   Username: kendall.green
+   Original line: Kendall Green Assistant Strength & Conditioning Coach (FB, MBB, VB) kendall.green@aamu.edu
+
+2. Louis Whitlow
+   Email: Louis.whitlow@aamu.edu
+   Username: Louis.whitlow
+   Original line: Louis Whitlow Head Coach (256) 372- Louis.whitlow@aamu.edu coachlou2442
+
+3. Mark Hernandez
+   Email: mark.hernandez@aamu.edu
+   Username: mark.hernandez
+   Original line: Mark Hernandez Pitching Coach / Recruiting Coordinator mark.hernandez@aamu.edu
+
+4. Kyle Jones
+   Email: kyle.jones@aamu.edu
+   Username: kyle.jones
+   Original line: Kyle Jones Associate Head Coach kyle.jones@aamu.edu CoachKJones_30
+
+5. Devarus Walker
+   Email: devarus.walker@aamu.edu
+   Username: devarus.walker
+   Original line: Devarus Walker Assistant Coach devarus.walker@aamu.edu CoachDWalker3
+
+6. Cameron Prather
+   Email: cameron.prather@aamu.edu
+   Username: cameron.prather
+   Original line: Cameron Prather Assistant Coach cameron.prather@aamu.edu
+
+7. Jerome Gray
+   Email: jerome.gray@aamu.edu
+   Username: jerome.gray
+   Original line: Jerome Gray Assistant Coach jerome.gray@aamu.edu
+
+8. Cal Cochran
+   Email: roosevelt.cochra@aamu.edu
+   Username: roosevelt.cochra
+   Original line: Cal Cochran Special Assistant to the Head Coach roosevelt.cochra@aamu.edu coachcalic
+
+9. Dawn E.
+   Email: dawn.brown@aamu.edu
+   Username: dawn.brown
+   Original line: Dawn E. Thornton Head Coach dawn.brown@aamu.edu divacoachaamu
+
+10. Briona Brown
+   Email: briona.brown@aamu.edu
+   Username: briona.brown
+   Original line: Briona Brown Assistant Coach/Director of Recruiting briona.brown@aamu.edu _CoachBri_UAPB
+
+11. Erika Sisk
+   Email: erika.sisk@aamu.edu
+   Username: erika.sisk
+   Original line: Erika Sisk Assistant Coach erika.sisk@aamu.edu ErikaSisk5
+
+12. James Moore
+   Email: james.moore@aamu.edu
+   Username: james.moore
+   Original line: James Moore Head Coach james.moore@aamu.edu
+
+13. Rasheba McGowan
+   Email: AAMUCheerCoach@Gmail.com
+   Username: AAMUCheerCoach
+   Original line: Rasheba McGowan Head Coach AAMUCheerCoach@Gmail.com
+
+14. Shawdee McKinney
+   Email: AAMUCheerCoach@Gmail.com
+   Username: AAMUCheerCoach
+   Original line: Shawdee McKinney Head Coach AAMUCheerCoach@Gmail.com
+
+15. Sam Shade
+   Email: football@aamu.edu
+   Username: football
+   Original line: Sam Shade Head Coach football@aamu.edu Coach_Sam_Shade
+
+16. Chris Shelling
+   Email: football@aamu.edu
+   Username: football
+   Original line: Chris Shelling Assistant Head Coach / Defensive Coordinator football@aamu.edu
+
+17. Richard Wilson
+   Email: football@aamu.edu
+   Username: football
+   Original line: Richard Wilson Kickers Coach (256) 372- football@aamu.edu
+
+18. Nathan Jones
+   Email: football@aamu.edu
+   Username: football
+   Original line: Nathan Jones Assistant Special Teams Coach football@aamu.edu
+
+19. Devins Jackson
+   Email: devins.jackson@aamu.edu
+   Username: devins.jackson
+   Original line: Devins Jackson Head Coach devins.jackson@aamu.edu
+
+20. Prince Borde
+   Email: prince.borde@aamu.edu
+   Username: prince.borde
+   Original line: Prince Borde Head Coach (256) 947- prince.borde@aamu.edu
+
+21. Kiara Snel
+   Email: kiara.snel@aamu.edu
+   Username: kiara.snel
+   Original line: Kiara Snel Assistant Coach kiara.snel@aamu.edu
+
+22. Brian Daley
+   Email: brian.daley@aamu.edu
+   Username: brian.daley
+   Original line: Brian Daley Head Coach brian.daley@aamu.edu
+
+23. Rebecca Hewitt
+   Email: Rebecca.Hewitt@aamu.edu
+   Username: Rebecca.Hewitt
+   Original line: Rebecca Hewitt Assistant Coach Rebecca.Hewitt@aamu.edu
+
+24. Michael Riches
+   Email: Michael.Riches@aamu.edu
+   Username: Michael.Riches
+   Original line: Michael Riches Assistant Coach Michael.Riches@aamu.edu
+
+25. Willis Mbandi
+   Email: willis.mbandi@aamu.edu
+   Username: willis.mbandi
+   Original line: Willis Mbandi Head Coach (256) 372- willis.mbandi@aamu.edu WillisMbandi
+
+26. Andrew Murphy
+   Email: andrew.murphy@aamu.edu
+   Username: andrew.murphy
+   Original line: Andrew Murphy Head Coach (256) 372- andrew.murphy@aamu.edu @coachmurphy1867
+
+27. Myra Hawkins
+   Email: myra.hawkins@aamu.edu
+   Username: myra.hawkins
+   Original line: Myra Hawkins Assistant Coach myra.hawkins@aamu.edu
+
+28. Brandon Reeves
+   Email: brandon.reeves@aamu.edu
+   Username: brandon.reeves
+   Original line: Dr. Brandon Reeves Head Coach (256) 372- brandon.reeves@aamu.edu blu_thunDErQuad
+
+29. Nakeyta Clair
+   Email: nakeyta.clair@aamu.edu
+   Username: nakeyta.clair
+   Original line: Nakeyta Clair Assistant Coach nakeyta.clair@aamu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kendall Green Assistant Strength & Conditioning Coach (FB, MBB, VB) kendall.green@aamu.edu
+• Louis Whitlow Head Coach (256) 372- Louis.whitlow@aamu.edu coachlou2442
+• Mark Hernandez Pitching Coach / Recruiting Coordinator mark.hernandez@aamu.edu
+• Kyle Jones Associate Head Coach kyle.jones@aamu.edu CoachKJones_30
+• Devarus Walker Assistant Coach devarus.walker@aamu.edu CoachDWalker3
+• Cameron Prather Assistant Coach cameron.prather@aamu.edu
+• Jerome Gray Assistant Coach jerome.gray@aamu.edu
+• Cal Cochran Special Assistant to the Head Coach roosevelt.cochra@aamu.edu coachcalic
+• Dawn E. Thornton Head Coach dawn.brown@aamu.edu divacoachaamu
+• Briona Brown Assistant Coach/Director of Recruiting briona.brown@aamu.edu _CoachBri_UAPB
+• Erika Sisk Assistant Coach erika.sisk@aamu.edu ErikaSisk5
+• James Moore Head Coach james.moore@aamu.edu
+• Rasheba McGowan Head Coach AAMUCheerCoach@Gmail.com
+• Shawdee McKinney Head Coach AAMUCheerCoach@Gmail.com
+• Sam Shade Head Coach football@aamu.edu Coach_Sam_Shade
+• Chris Shelling Assistant Head Coach / Defensive Coordinator football@aamu.edu
+• Richard Wilson Kickers Coach (256) 372- football@aamu.edu
+• Nathan Jones Assistant Special Teams Coach football@aamu.edu
+• Devins Jackson Head Coach devins.jackson@aamu.edu
+• Prince Borde Head Coach (256) 947- prince.borde@aamu.edu
+• Kiara Snel Assistant Coach kiara.snel@aamu.edu
+• Brian Daley Head Coach brian.daley@aamu.edu
+• Rebecca Hewitt Assistant Coach Rebecca.Hewitt@aamu.edu
+• Michael Riches Assistant Coach Michael.Riches@aamu.edu
+• Willis Mbandi Head Coach (256) 372- willis.mbandi@aamu.edu WillisMbandi
+• Andrew Murphy Head Coach (256) 372- andrew.murphy@aamu.edu @coachmurphy1867
+• Myra Hawkins Assistant Coach myra.hawkins@aamu.edu
+• Dr. Brandon Reeves Head Coach (256) 372- brandon.reeves@aamu.edu blu_thunDErQuad
+• Nakeyta Clair Assistant Coach nakeyta.clair@aamu.edu

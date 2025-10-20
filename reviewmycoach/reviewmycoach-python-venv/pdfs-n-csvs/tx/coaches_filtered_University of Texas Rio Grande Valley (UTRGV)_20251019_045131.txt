@@ -1,0 +1,359 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:31
+============================================================
+
+Total coaches found: 58
+
+PARSED ENTRIES:
+----------------------------------------
+1. Lucas Monroe
+   Email: lucas.monroe@utrgv.edu
+   Username: lucas.monroe
+   Original line: Lucas Monroe Head Strength & Conditioning Coach (MBB, lucas.monroe@utrgv.edu 956-665-
+
+2. Don Sommer
+   Email: don.sommer@utrgv.edu
+   Username: don.sommer
+   Original line: Don Sommer Head Football Strength & Conditioning Coach don.sommer@utrgv.edu
+
+3. Chase Haselhorst
+   Email: chase.haselhorst@utrgv.edu
+   Username: chase.haselhorst
+   Original line: Chase Haselhorst Assistant Strength & Conditioning Coach (BSB, chase.haselhorst@utrgv.edu
+
+4. Dan Park
+   Email: daniel.park@utrgv.edu
+   Username: daniel.park
+   Original line: Dan Park Assistant Strength & Conditioning Coach (WBB, daniel.park@utrgv.edu
+
+5. Elijah Piñon
+   Email: elijah.pinon@utrgv.edu
+   Username: elijah.pinon
+   Original line: Elijah Piñon Assistant Strength & Conditioning Coach (FB, elijah.pinon@utrgv.edu
+
+6. Nico Bodden
+   Email: nicolas.bodden01@utrgv.edu
+   Username: nicolas.bodden01
+   Original line: Nico Bodden Graduate Student Strength & Conditioning Coach nicolas.bodden01@utrgv.edu
+
+7. Derek Matlock
+   Email: derek.matlock@utrgv.edu
+   Username: derek.matlock
+   Original line: Derek Matlock Head Coach derek.matlock@utrgv.edu 956-665- Matlock_UTRGV
+
+8. Rob Martinez
+   Email: roberto.martinez@utrgv.edu
+   Username: roberto.martinez
+   Original line: Rob Martinez Associate Head Coach/Recruiting Coordinator roberto.martinez@utrgv.edu 956-665- RobMtz_UTRGV
+
+9. Ryan Jackson
+   Email: ryan.jackson01@utrgv.edu
+   Username: ryan.jackson01
+   Original line: Ryan Jackson Assistant Coach ryan.jackson01@utrgv.edu 956-665- ryan_jackson20
+
+10. Taylor Steen
+   Email: taylor.steen@utrgv.edu
+   Username: taylor.steen
+   Original line: Taylor Steen Assistant Coach/Recruiting Coordinator taylor.steen@utrgv.edu taylorsteen3
+
+11. Kahil Fennell
+   Email: kahil.fennell@utrgv.edu
+   Username: kahil.fennell
+   Original line: Kahil Fennell Head Coach kahil.fennell@utrgv.edu 956-665- KahilFennell
+
+12. Brock Erickson
+   Email: brock.erickson@utrgv.edu
+   Username: brock.erickson
+   Original line: Brock Erickson Associate Head Coach brock.erickson@utrgv.edu 956-665-
+
+13. Dustin Yoder
+   Email: dustin.yoder@utrgv.edu
+   Username: dustin.yoder
+   Original line: Dustin Yoder Assistant Coach dustin.yoder@utrgv.edu 956-665- Yodes_UTRGV
+
+14. Cam Clark
+   Email: cam.clark@utrgv.edu
+   Username: cam.clark
+   Original line: Cam Clark Assistant Coach cam.clark@utrgv.edu 956-665-
+
+15. Michael Provenzano
+   Email: michael.provenzano@utrgv.edu
+   Username: michael.provenzano
+   Original line: Michael Provenzano Assistant Coach michael.provenzano@utrgv.edu 956-665-
+
+16. Lane Lord
+   Email: lane.lord@utrgv.edu
+   Username: lane.lord
+   Original line: Lane Lord Head Coach lane.lord@utrgv.edu 956-665- UTRGVhoops
+
+17. Kevin Hackerott
+   Email: kevin.hackerott@utrgv.edu
+   Username: kevin.hackerott
+   Original line: Kevin Hackerott Associate Head Coach kevin.hackerott@utrgv.edu 956-665- hackhoops
+
+18. Ipek Turkyilmaz
+   Email: ipek.turkyilmaz@utrgv.edu
+   Username: ipek.turkyilmaz
+   Original line: Ipek Turkyilmaz Assistant Coach ipek.turkyilmaz@utrgv.edu 956-665- ipekturkyilmaz5
+
+19. Victoria Pena
+   Email: victoria.pena@utrgv.edu
+   Username: victoria.pena
+   Original line: Victoria Pena Assistant Coach victoria.pena@utrgv.edu 956-665- CoachV_
+
+20. Jurnee President
+   Email: jurnee.president01@utrgv.edu
+   Username: jurnee.president01
+   Original line: Jurnee President Graduate Assistant Coach jurnee.president01@utrgv.edu
+
+21. Brian Gamble
+   Email: brian.gamble@utrgv.edu
+   Username: brian.gamble
+   Original line: Brian Gamble Assistant Head Coach/Defensive brian.gamble@utrgv.edu CoachBGamble
+
+22. Jeff Bowen
+   Email: jeffrey.bowen@utrgv.edu
+   Username: jeffrey.bowen
+   Original line: Jeff Bowen Offensive Coordinator/Offensive Line Coach jeffrey.bowen@utrgv.edu CoachJeffBowen
+
+23. Adrian McDonald
+   Email: adrian.mcdonald@utrgv.edu
+   Username: adrian.mcdonald
+   Original line: Adrian McDonald Pass Game Coordinator/Safeties adrian.mcdonald@utrgv.edu CoachAdayMac11
+
+24. Marcus Coleman
+   Email: marcus.coleman@utrgv.edu
+   Username: marcus.coleman
+   Original line: Marcus Coleman Special Teams Coordinator/Cornerbacks Coach marcus.coleman@utrgv.edu CoachPatchmc42
+
+25. Mike Schultz
+   Email: michael.schultz@utrgv.edu
+   Username: michael.schultz
+   Original line: Mike Schultz Senior Offensive Assistant michael.schultz@utrgv.edu CoachMcSchultz
+
+26. Mike Barela
+   Email: michael.barela@utrgv.edu
+   Username: michael.barela
+   Original line: Mike Barela Tight Ends Coach michael.barela@utrgv.edu Coach_Barela
+
+27. James Lockhart
+   Email: james.lockhart@utrgv.edu
+   Username: james.lockhart
+   Original line: James Lockhart IV Outside Linebackers Coach james.lockhart@utrgv.edu COACH__LOCK
+
+28. Nate Langford
+   Email: nathan.langford@utrgv.edu
+   Username: nathan.langford
+   Original line: Nate Langford Defensive Line Coach nathan.langford@utrgv.edu coachlangford46
+
+29. Marco Regalado
+   Email: marco.regalado@utrgv.edu
+   Username: marco.regalado
+   Original line: Marco Regalado Running Backs Coach/Recruiting Coordinator marco.regalado@utrgv.edu CoachRegalado
+
+30. Gunnar Henderson
+   Email: gunnar.henderson01@utrgv.edu
+   Username: gunnar.henderson01
+   Original line: Gunnar Henderson Wide Receivers Coach gunnar.henderson01@utrgv.edu
+
+31. Micah Lopez
+   Email: mizah.lopez01@utrgv.edu
+   Username: mizah.lopez01
+   Original line: Micah Lopez Graduate Student Coach – Defense mizah.lopez01@utrgv.edu CoachMicahLopez
+
+32. Jack Meyer
+   Email: jack.meyer01@utrgv.edu
+   Username: jack.meyer01
+   Original line: Jack Meyer Graduate Student Coach – Offense jack.meyer01@utrgv.edu
+
+33. Mike Hudson
+   Email: gordon.hudson@utrgv.edu
+   Username: gordon.hudson
+   Original line: Mike Hudson Analyst gordon.hudson@utrgv.edu coachhudson55
+
+34. John Simmons
+   Email: john.simmons1@utrgv.edu
+   Username: john.simmons1
+   Original line: John Simmons Director of Football Operations & Administration john.simmons1@utrgv.edu coachjsimmons_
+
+35. Houston Moore
+   Email: houston.moore@utrgv.edu
+   Username: houston.moore
+   Original line: Houston Moore Director of Golf houston.moore@utrgv.edu 956-665- golfcoachmoore
+
+36. Joseph Kirk
+   Email: joseph.kirk@utrgv.edu
+   Username: joseph.kirk
+   Original line: Joseph Kirk Associate Head Coach joseph.kirk@utrgv.edu
+
+37. Houston Moore
+   Email: houston.moore@utrgv.edu
+   Username: houston.moore
+   Original line: Houston Moore Director of Golf houston.moore@utrgv.edu 956-665- golfcoachmoore
+
+38. Puthita Khuanrudee
+   Email: pang.khuanrudee@utrgv.edu
+   Username: pang.khuanrudee
+   Original line: Puthita Khuanrudee Associate Head Coach pang.khuanrudee@utrgv.edu 956-665-
+
+39. Bryheem Hancock
+   Email: bryheem.hancock@utrgv.edu
+   Username: bryheem.hancock
+   Original line: Bryheem Hancock Head Coach bryheem.hancock@utrgv.edu 956-665- BryheemHancock
+
+40. Sheldon Cipriani
+   Email: sheldon.cipriani@utrgv.edu
+   Username: sheldon.cipriani
+   Original line: Sheldon Cipriani Associate Head Coach sheldon.cipriani@utrgv.edu
+
+41. Jorge Diaz
+   Email: jorge.diaz@utrgv.edu
+   Username: jorge.diaz
+   Original line: Jorge Diaz Volunteer Assistant Coach jorge.diaz@utrgv.edu
+
+42. Mark Foster
+   Email: mark.foster@utrgv.edu
+   Username: mark.foster
+   Original line: Mark Foster Head Coach mark.foster@utrgv.edu 956-665- markfoster1981
+
+43. Audra Larson
+   Email: audra.larson@utrgv.edu
+   Username: audra.larson
+   Original line: Audra Larson Associate Head Coach audra.larson@utrgv.edu 956-665- A_Larson0
+
+44. Melanie Chandler
+   Email: melanie.chandler@utrgv.edu
+   Username: melanie.chandler
+   Original line: Melanie Chandler Assistant Coach melanie.chandler@utrgv.edu 956-665-
+
+45. Lana Spitler
+   Email: lana.spitler@utrgv.edu
+   Username: lana.spitler
+   Original line: Lana Spitler Assistant Coach lana.spitler@utrgv.edu
+
+46. Betsy Graham
+   Email: betsy.graham@utrgv.edu
+   Username: betsy.graham
+   Original line: Betsy Graham Head Coach betsy.graham@utrgv.edu
+
+47. Jennifer Mangum
+   Email: jenn.mangum@utrgv.edu
+   Username: jenn.mangum
+   Original line: Jennifer Mangum Diving Coach jenn.mangum@utrgv.edu jenndives
+
+48. Nathan Robinson
+   Email: nathan.robinson@utrgv.edu
+   Username: nathan.robinson
+   Original line: Nathan Robinson Head Coach nathan.robinson@utrgv.edu 956-665- NWR1987
+
+49. Ekaterina Vorobeva
+   Email: ekaterina.vorobeva@utrgv.edu
+   Username: ekaterina.vorobeva
+   Original line: Ekaterina Vorobeva Assistant Coach ekaterina.vorobeva@utrgv.edu
+
+50. West Nott
+   Email: west.nott@utrgv.edu
+   Username: west.nott
+   Original line: West Nott Head Coach west.nott@utrgv.edu 956-665- westnott
+
+51. Ekaterina Vorobeva
+   Email: ekaterina.vorobeva@utrgv.edu
+   Username: ekaterina.vorobeva
+   Original line: Ekaterina Vorobeva Assistant Coach ekaterina.vorobeva@utrgv.edu
+
+52. Shareese Hicks
+   Email: shareese.woodshicks@utrgv.edu
+   Username: shareese.woodshicks
+   Original line: Shareese Hicks Head Coach (Sprints/Hurdles/Jumps/Combined) shareese.woodshicks@utrgv.edu 956-665- shareese_woods
+
+53. Ricardo Mendoza
+   Email: ricardo.mendoza01@utrgv.edu
+   Username: ricardo.mendoza01
+   Original line: Ricardo Mendoza Assistant Coach (Distance) ricardo.mendoza01@utrgv.edu 956-665-
+
+54. Jakob Degenshein
+   Email: jakob.degenshein@utrgv.edu
+   Username: jakob.degenshein
+   Original line: Jakob Degenshein Assistant Coach (Throws) jakob.degenshein@utrgv.edu 956-665-
+
+55. Antwon Hicks
+   Email: antwon.hicks@utrgv.edu
+   Username: antwon.hicks
+   Original line: Antwon Hicks Assistant Coach (Sprints/Hurdles/Jumps) antwon.hicks@utrgv.edu antwon_hicks
+
+56. Todd Lowery
+   Email: todd.lowery@utrgv.edu
+   Username: todd.lowery
+   Original line: Todd Lowery Head Coach todd.lowery@utrgv.edu 956-665-
+
+57. Mayda Garcia
+   Email: mayda.garcia@utrgv.edu
+   Username: mayda.garcia
+   Original line: Mayda Garcia Assistant Coach mayda.garcia@utrgv.edu 956-665-
+
+58. Daniel Garcia
+   Email: daniel.r.garcia02@utrgv.edu
+   Username: daniel.r.garcia02
+   Original line: Daniel Garcia Assistant Coach daniel.r.garcia02@utrgv.edu 956-665-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Lucas Monroe Head Strength & Conditioning Coach (MBB, lucas.monroe@utrgv.edu 956-665-
+• Don Sommer Head Football Strength & Conditioning Coach don.sommer@utrgv.edu
+• Chase Haselhorst Assistant Strength & Conditioning Coach (BSB, chase.haselhorst@utrgv.edu
+• Dan Park Assistant Strength & Conditioning Coach (WBB, daniel.park@utrgv.edu
+• Elijah Piñon Assistant Strength & Conditioning Coach (FB, elijah.pinon@utrgv.edu
+• Nico Bodden Graduate Student Strength & Conditioning Coach nicolas.bodden01@utrgv.edu
+• Derek Matlock Head Coach derek.matlock@utrgv.edu 956-665- Matlock_UTRGV
+• Rob Martinez Associate Head Coach/Recruiting Coordinator roberto.martinez@utrgv.edu 956-665- RobMtz_UTRGV
+• Ryan Jackson Assistant Coach ryan.jackson01@utrgv.edu 956-665- ryan_jackson20
+• Taylor Steen Assistant Coach/Recruiting Coordinator taylor.steen@utrgv.edu taylorsteen3
+• Kahil Fennell Head Coach kahil.fennell@utrgv.edu 956-665- KahilFennell
+• Brock Erickson Associate Head Coach brock.erickson@utrgv.edu 956-665-
+• Dustin Yoder Assistant Coach dustin.yoder@utrgv.edu 956-665- Yodes_UTRGV
+• Cam Clark Assistant Coach cam.clark@utrgv.edu 956-665-
+• Michael Provenzano Assistant Coach michael.provenzano@utrgv.edu 956-665-
+• Lane Lord Head Coach lane.lord@utrgv.edu 956-665- UTRGVhoops
+• Kevin Hackerott Associate Head Coach kevin.hackerott@utrgv.edu 956-665- hackhoops
+• Ipek Turkyilmaz Assistant Coach ipek.turkyilmaz@utrgv.edu 956-665- ipekturkyilmaz5
+• Victoria Pena Assistant Coach victoria.pena@utrgv.edu 956-665- CoachV_
+• Jurnee President Graduate Assistant Coach jurnee.president01@utrgv.edu
+• Brian Gamble Assistant Head Coach/Defensive brian.gamble@utrgv.edu CoachBGamble
+• Jeff Bowen Offensive Coordinator/Offensive Line Coach jeffrey.bowen@utrgv.edu CoachJeffBowen
+• Adrian McDonald Pass Game Coordinator/Safeties adrian.mcdonald@utrgv.edu CoachAdayMac11
+• Marcus Coleman Special Teams Coordinator/Cornerbacks Coach marcus.coleman@utrgv.edu CoachPatchmc42
+• Mike Schultz Senior Offensive Assistant michael.schultz@utrgv.edu CoachMcSchultz
+• Mike Barela Tight Ends Coach michael.barela@utrgv.edu Coach_Barela
+• James Lockhart IV Outside Linebackers Coach james.lockhart@utrgv.edu COACH__LOCK
+• Nate Langford Defensive Line Coach nathan.langford@utrgv.edu coachlangford46
+• Marco Regalado Running Backs Coach/Recruiting Coordinator marco.regalado@utrgv.edu CoachRegalado
+• Gunnar Henderson Wide Receivers Coach gunnar.henderson01@utrgv.edu
+• Micah Lopez Graduate Student Coach – Defense mizah.lopez01@utrgv.edu CoachMicahLopez
+• Jack Meyer Graduate Student Coach – Offense jack.meyer01@utrgv.edu
+• Mike Hudson Analyst gordon.hudson@utrgv.edu coachhudson55
+• John Simmons Director of Football Operations & Administration john.simmons1@utrgv.edu coachjsimmons_
+• Houston Moore Director of Golf houston.moore@utrgv.edu 956-665- golfcoachmoore
+• Joseph Kirk Associate Head Coach joseph.kirk@utrgv.edu
+• Houston Moore Director of Golf houston.moore@utrgv.edu 956-665- golfcoachmoore
+• Puthita Khuanrudee Associate Head Coach pang.khuanrudee@utrgv.edu 956-665-
+• Bryheem Hancock Head Coach bryheem.hancock@utrgv.edu 956-665- BryheemHancock
+• Sheldon Cipriani Associate Head Coach sheldon.cipriani@utrgv.edu
+• Jorge Diaz Volunteer Assistant Coach jorge.diaz@utrgv.edu
+• Mark Foster Head Coach mark.foster@utrgv.edu 956-665- markfoster1981
+• Audra Larson Associate Head Coach audra.larson@utrgv.edu 956-665- A_Larson0
+• Melanie Chandler Assistant Coach melanie.chandler@utrgv.edu 956-665-
+• Lana Spitler Assistant Coach lana.spitler@utrgv.edu
+• Betsy Graham Head Coach betsy.graham@utrgv.edu
+• Jennifer Mangum Diving Coach jenn.mangum@utrgv.edu jenndives
+• Nathan Robinson Head Coach nathan.robinson@utrgv.edu 956-665- NWR1987
+• Ekaterina Vorobeva Assistant Coach ekaterina.vorobeva@utrgv.edu
+• West Nott Head Coach west.nott@utrgv.edu 956-665- westnott
+• Ekaterina Vorobeva Assistant Coach ekaterina.vorobeva@utrgv.edu
+• Shareese Hicks Head Coach (Sprints/Hurdles/Jumps/Combined) shareese.woodshicks@utrgv.edu 956-665- shareese_woods
+• Ricardo Mendoza Assistant Coach (Distance) ricardo.mendoza01@utrgv.edu 956-665-
+• Jakob Degenshein Assistant Coach (Throws) jakob.degenshein@utrgv.edu 956-665-
+• Antwon Hicks Assistant Coach (Sprints/Hurdles/Jumps) antwon.hicks@utrgv.edu antwon_hicks
+• Todd Lowery Head Coach todd.lowery@utrgv.edu 956-665-
+• Mayda Garcia Assistant Coach mayda.garcia@utrgv.edu 956-665-
+• Daniel Garcia Assistant Coach daniel.r.garcia02@utrgv.edu 956-665-

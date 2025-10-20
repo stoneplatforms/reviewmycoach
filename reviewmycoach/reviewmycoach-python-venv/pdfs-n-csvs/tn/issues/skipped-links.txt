@@ -1,0 +1,6 @@
+Martin Methodist College (now UT Southern).pdf :: https://utsouthernbanner.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://utsouthernbanner.com/staff-directory/index
+Call log:
+  - navigating to "https://utsouthernbanner.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://utsouthernbanner.com/staff-directory?print=true, https://utsouthernbanner.com/staff-directory/print, https://utsouthernbanner.com/staff-directory, https://utsouthernbanner.com/staff-directory/index?print=true, https://utsouthernbanner.com/staff-directory/index/print, https://utsouthernbanner.com/staff-directory/index
+

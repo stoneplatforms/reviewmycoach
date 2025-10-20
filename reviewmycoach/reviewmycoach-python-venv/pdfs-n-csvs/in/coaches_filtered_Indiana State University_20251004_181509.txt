@@ -1,0 +1,275 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:09
+============================================================
+
+Total coaches found: 44
+
+PARSED ENTRIES:
+----------------------------------------
+1. Logan Spung
+   Email: Logan.Spung@indstate.edu
+   Username: Logan.Spung
+   Original line: Logan Spung Head Coach For Sports Performance and Science 8068 Logan.Spung@indstate.edu
+
+2. Aaron Roelfs
+   Email: rroelfs@sycamores.indstate.edu
+   Username: rroelfs
+   Original line: Aaron Roelfs Head Coach for Sport Performance and Science rroelfs@sycamores.indstate.edu
+
+3. Tracy Archuleta
+   Email: Tracy.Archuleta@indstate.edu
+   Username: Tracy.Archuleta
+   Original line: Tracy Archuleta Head Coach Tracy.Archuleta@indstate.edu
+
+4. Nick Gobert
+   Email: Nick.Gobert@indstate.edu
+   Username: Nick.Gobert
+   Original line: Nick Gobert Hitting Coach/Recruiting Coordinator Nick.Gobert@indstate.edu
+
+5. Gordon Cardenas
+   Email: Gordon.Cardenas@indstate.edu
+   Username: Gordon.Cardenas
+   Original line: Gordon Cardenas Pitching Coach Gordon.Cardenas@indstate.edu
+
+6. Alex Archuleta
+   Email: Alex.Archuleta@indstate.edu
+   Username: Alex.Archuleta
+   Original line: Alex Archuleta Assistant Coach Alex.Archuleta@indstate.edu
+
+7. Bradley Feig
+   Email: bradley.feig@indstate.edu
+   Username: bradley.feig
+   Original line: Bradley Feig Assistant Coach bradley.feig@indstate.edu
+
+8. Marc Mitchell
+   Email: Marc.Mitchell@indstate.edu
+   Username: Marc.Mitchell
+   Original line: Marc Mitchell Head Coach 8233 Marc.Mitchell@indstate.edu
+
+9. Jason Pruitt
+   Email: Jason.Pruitt@indstate.edu
+   Username: Jason.Pruitt
+   Original line: Jason Pruitt Associate Head Coach 8375 Jason.Pruitt@indstate.edu
+
+10. Kietta Saunders
+   Email: Kietta.Saunders@indstate.edu
+   Username: Kietta.Saunders
+   Original line: Kietta Saunders Assistant Coach / Director of Player Development 4169 Kietta.Saunders@indstate.edu
+
+11. Mollie Williams
+   Email: Mollie.Williams@indstate.edu
+   Username: Mollie.Williams
+   Original line: Mollie Williams Assistant Coach 4170 Mollie.Williams@indstate.edu
+
+12. Angela Martin
+   Email: Angela.Martin@indstate.edu
+   Username: Angela.Martin
+   Original line: Angela Martin Program Director & Head Coach / Combined Events 4165 Angela.Martin@indstate.edu
+
+13. Jeff Martin
+   Email: Jeffrey.Martin@indstate.edu
+   Username: Jeffrey.Martin
+   Original line: Jeff Martin Associate Head Coach / Horizontal Jumps & Pole 4332 Jeffrey.Martin@indstate.edu
+
+14. Julian Harvey
+   Email: Julian.Harvey@indstate.edu
+   Username: Julian.Harvey
+   Original line: Julian Harvey Assistant Coach / Sprints 4164 Julian.Harvey@indstate.edu
+
+15. Brad Butler
+   Email: Brad.Butler@indstate.edu
+   Username: Brad.Butler
+   Original line: Brad Butler Head Cross Country Coach/Assistant Track & Field 4019 Brad.Butler@indstate.edu
+
+16. Brandan Bettenhausen
+   Email: Brandan.Bettenhausen@indstate.edu
+   Username: Brandan.Bettenhausen
+   Original line: Brandan Bettenhausen Assistant Coach / Throws 4044 Brandan.Bettenhausen@indstate.edu
+
+17. Erin Reese
+   Email: Erin.Reese@indstate.edu
+   Username: Erin.Reese
+   Original line: Erin Reese Assistant Coach / Throws Erin.Reese@indstate.edu
+
+18. John Gartland
+   Email: John.Gartland@indstate.edu
+   Username: John.Gartland
+   Original line: John Gartland Assistant Coach / High Jump 4178 John.Gartland@indstate.edu
+
+19. Trevor Thompson
+   Email: Trevor.Thompson@indstate.edu
+   Username: Trevor.Thompson
+   Original line: Trevor Thompson Assistant Coach / Combined Events Trevor.Thompson@indstate.edu
+
+20. Ethan Breen
+   Email: Ethan.Breen@indstate.edu
+   Username: Ethan.Breen
+   Original line: Ethan Breen Assistant Coach / Distance Ethan.Breen@indstate.edu
+
+21. Sophie Seward
+   Email: Sophie.Seward@indstate.edu
+   Username: Sophie.Seward
+   Original line: Sophie Seward Assistant Coach / Distance Sophie.Seward@indstate.edu
+
+22. Will Staggs
+   Email: Will.Staggs@indstate.edu
+   Username: Will.Staggs
+   Original line: Will Staggs Assistant Coach / Pole Vault Will.Staggs@indstate.edu
+
+23. Curt Mallory
+   Email: ISU-SycamoreFB@indstate.edu
+   Username: ISU-SycamoreFB
+   Original line: Curt Mallory Head Coach 4074 ISU-SycamoreFB@indstate.edu
+
+24. Darrell Funk
+   Email: ISU-SycamoreFB@indstate.edu
+   Username: ISU-SycamoreFB
+   Original line: Darrell Funk Assistant Head Coach / Run Game Coordinator / ISU-SycamoreFB@indstate.edu
+
+25. David Elson
+   Email: ISU-SycamoreFB@indstate.edu
+   Username: ISU-SycamoreFB
+   Original line: David Elson Assistant Coach / Defensive Coordinator / ISU-SycamoreFB@indstate.edu
+
+26. Brad Jarman
+   Email: ISU-SycamoreFB@indstate.edu
+   Username: ISU-SycamoreFB
+   Original line: Brad Jarman Assistant Coach / Special Teams Coordinator ISU-SycamoreFB@indstate.edu
+
+27. Logan Hale
+   Email: ISU-SycamoreFB@indstate.edu
+   Username: ISU-SycamoreFB
+   Original line: Logan Hale Assistant Coach / Tight Ends / Recruiting Coordinator 4074 ISU-SycamoreFB@indstate.edu
+
+28. JJ Henderson
+   Email: ISU-SycamoreFB@indstate.edu
+   Username: ISU-SycamoreFB
+   Original line: JJ Henderson Assistant Coach / Cornerbacks 4074 ISU-SycamoreFB@indstate.edu
+
+29. Austin Flyger
+   Email: ISU-SycamoreFB@indstate.edu
+   Username: ISU-SycamoreFB
+   Original line: Austin Flyger Assistant Coach / Defensive Line ISU-SycamoreFB@indstate.edu
+
+30. Edward Warinner
+   Email: ISU-SycamoreFB@indstate.edu
+   Username: ISU-SycamoreFB
+   Original line: Edward Warinner Assistant Coach / Safeties ISU-SycamoreFB@indstate.edu
+
+31. Greg Towne
+   Email: Gregory.Towne@indstate.edu
+   Username: Gregory.Towne
+   Original line: Greg Towne Head Coach 8219 Gregory.Towne@indstate.edu
+
+32. Paul Lawrence
+   Email: paul.lawrence@indstate.edu
+   Username: paul.lawrence
+   Original line: Paul Lawrence Head Coach 7738 paul.lawrence@indstate.edu
+
+33. Chris Gnehm
+   Email: Chris.Gnehm@indstate.edu
+   Username: Chris.Gnehm
+   Original line: Chris Gnehm Associate Head Coach Chris.Gnehm@indstate.edu
+
+34. Isabella Hunter
+   Email: ihunter3@sycamores.indstate.edu
+   Username: ihunter3
+   Original line: Isabella Hunter Assistant Coach ihunter3@sycamores.indstate.edu
+
+35. Ola Shogelola
+   Email: Ola.Shogelola@indstate.edu
+   Username: Ola.Shogelola
+   Original line: Ola Shogelola Assistant Coach / Performance Analyst Ola.Shogelola@indstate.edu
+
+36. Windy Thees
+   Email: Windy.Thees@indstate.edu
+   Username: Windy.Thees
+   Original line: Windy Thees Head Coach 4166 Windy.Thees@indstate.edu
+
+37. Nicole Bechtel
+   Email: Nicole.Bechtel@indstate.edu
+   Username: Nicole.Bechtel
+   Original line: Nicole Bechtel Assistant Women's Softball Coach Nicole.Bechtel@indstate.edu
+
+38. Emily Herren
+   Email: Emily.Herren@indstate.edu
+   Username: Emily.Herren
+   Original line: Emily Herren Assistant Women's Softball Coach Emily.Herren@indstate.edu
+
+39. Josh Christensen
+   Email: Joshua.Christensen@indstate.edu
+   Username: Joshua.Christensen
+   Original line: Josh Christensen Head Coach 8565 Joshua.Christensen@indstate.edu
+
+40. Sean Sullivan
+   Email: Sean.Sullivan@indstate.edu
+   Username: Sean.Sullivan
+   Original line: Sean Sullivan Associate Head Coach 8485 Sean.Sullivan@indstate.edu
+
+41. Teresa Hall
+   Email: Teresa.Hall@indstate.edu
+   Username: Teresa.Hall
+   Original line: Teresa Hall Diving Coach 8485 Teresa.Hall@indstate.edu
+
+42. Ashlee Pritchard
+   Email: Ashlee.Pritchard@indstate.edu
+   Username: Ashlee.Pritchard
+   Original line: Ashlee Pritchard Head Coach 4171 Ashlee.Pritchard@indstate.edu
+
+43. Justin Kean
+   Email: Justin.Kean@indstate.edu
+   Username: Justin.Kean
+   Original line: Justin Kean Assistant Coach 4631 Justin.Kean@indstate.edu
+
+44. Randi Garrett
+   Email: Randi.Garrett@indstate.edu
+   Username: Randi.Garrett
+   Original line: Randi Garrett Assistant Coach Randi.Garrett@indstate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Logan Spung Head Coach For Sports Performance and Science 8068 Logan.Spung@indstate.edu
+• Aaron Roelfs Head Coach for Sport Performance and Science rroelfs@sycamores.indstate.edu
+• Tracy Archuleta Head Coach Tracy.Archuleta@indstate.edu
+• Nick Gobert Hitting Coach/Recruiting Coordinator Nick.Gobert@indstate.edu
+• Gordon Cardenas Pitching Coach Gordon.Cardenas@indstate.edu
+• Alex Archuleta Assistant Coach Alex.Archuleta@indstate.edu
+• Bradley Feig Assistant Coach bradley.feig@indstate.edu
+• Marc Mitchell Head Coach 8233 Marc.Mitchell@indstate.edu
+• Jason Pruitt Associate Head Coach 8375 Jason.Pruitt@indstate.edu
+• Kietta Saunders Assistant Coach / Director of Player Development 4169 Kietta.Saunders@indstate.edu
+• Mollie Williams Assistant Coach 4170 Mollie.Williams@indstate.edu
+• Angela Martin Program Director & Head Coach / Combined Events 4165 Angela.Martin@indstate.edu
+• Jeff Martin Associate Head Coach / Horizontal Jumps & Pole 4332 Jeffrey.Martin@indstate.edu
+• Julian Harvey Assistant Coach / Sprints 4164 Julian.Harvey@indstate.edu
+• Brad Butler Head Cross Country Coach/Assistant Track & Field 4019 Brad.Butler@indstate.edu
+• Brandan Bettenhausen Assistant Coach / Throws 4044 Brandan.Bettenhausen@indstate.edu
+• Erin Reese Assistant Coach / Throws Erin.Reese@indstate.edu
+• John Gartland Assistant Coach / High Jump 4178 John.Gartland@indstate.edu
+• Trevor Thompson Assistant Coach / Combined Events Trevor.Thompson@indstate.edu
+• Ethan Breen Assistant Coach / Distance Ethan.Breen@indstate.edu
+• Sophie Seward Assistant Coach / Distance Sophie.Seward@indstate.edu
+• Will Staggs Assistant Coach / Pole Vault Will.Staggs@indstate.edu
+• Curt Mallory Head Coach 4074 ISU-SycamoreFB@indstate.edu
+• Darrell Funk Assistant Head Coach / Run Game Coordinator / ISU-SycamoreFB@indstate.edu
+• David Elson Assistant Coach / Defensive Coordinator / ISU-SycamoreFB@indstate.edu
+• Brad Jarman Assistant Coach / Special Teams Coordinator ISU-SycamoreFB@indstate.edu
+• Logan Hale Assistant Coach / Tight Ends / Recruiting Coordinator 4074 ISU-SycamoreFB@indstate.edu
+• JJ Henderson Assistant Coach / Cornerbacks 4074 ISU-SycamoreFB@indstate.edu
+• Austin Flyger Assistant Coach / Defensive Line ISU-SycamoreFB@indstate.edu
+• Edward Warinner Assistant Coach / Safeties ISU-SycamoreFB@indstate.edu
+• Greg Towne Head Coach 8219 Gregory.Towne@indstate.edu
+• Paul Lawrence Head Coach 7738 paul.lawrence@indstate.edu
+• Chris Gnehm Associate Head Coach Chris.Gnehm@indstate.edu
+• Isabella Hunter Assistant Coach ihunter3@sycamores.indstate.edu
+• Ola Shogelola Assistant Coach / Performance Analyst Ola.Shogelola@indstate.edu
+• Windy Thees Head Coach 4166 Windy.Thees@indstate.edu
+• Nicole Bechtel Assistant Women's Softball Coach Nicole.Bechtel@indstate.edu
+• Emily Herren Assistant Women's Softball Coach Emily.Herren@indstate.edu
+• Josh Christensen Head Coach 8565 Joshua.Christensen@indstate.edu
+• Sean Sullivan Associate Head Coach 8485 Sean.Sullivan@indstate.edu
+• Teresa Hall Diving Coach 8485 Teresa.Hall@indstate.edu
+• Ashlee Pritchard Head Coach 4171 Ashlee.Pritchard@indstate.edu
+• Justin Kean Assistant Coach 4631 Justin.Kean@indstate.edu
+• Randi Garrett Assistant Coach Randi.Garrett@indstate.edu

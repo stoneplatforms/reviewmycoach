@@ -1,0 +1,149 @@
+COACH ENTRIES FOUND - 2025-10-04 18:13:48
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kallen Miyataki
+   Email: kmiyatak@hawaii.edu
+   Username: kmiyatak
+   Original line: Kallen Miyataki Baseball Head Coach kmiyatak@hawaii.edu 808-932-
+
+2. Garett Yukumoto
+   Email: garetty@hawaii.edu
+   Username: garetty
+   Original line: Garett Yukumoto Baseball Associate Head Coach garetty@hawaii.edu
+
+3. Jensen Sato
+   Email: jsato6@hawaii.edu
+   Username: jsato6
+   Original line: Jensen Sato Baseball Assistant Coach jsato6@hawaii.edu
+
+4. Blayne Sato
+   Email: bsato4@hawaii.edu
+   Username: bsato4
+   Original line: Blayne Sato Baseball Assistant Coach bsato4@hawaii.edu
+
+5. Kaniela Aiona
+   Email: kkaiona@hawaii.edu
+   Username: kkaiona
+   Original line: Kaniela Aiona Men's Basketball Head Coach kkaiona@hawaii.edu 808-932-
+
+6. Anthony Haskett
+   Email: haskett@hawaii.edu
+   Username: haskett
+   Original line: Anthony Haskett Men's Basketball Assistant Coach haskett@hawaii.edu
+
+7. David Kaneshiro
+   Email: davidlhk@hawaii.edu
+   Username: davidlhk
+   Original line: David Kaneshiro Women's Basketball Head Coach davidlhk@hawaii.edu 808-932-
+
+8. Donn Kansako
+   Email: kansako@hawaii.edu
+   Username: kansako
+   Original line: Donn Kansako Women's Basketball Assistant Coach kansako@hawaii.edu
+
+9. Alan Ryan
+   Email: alanr@hawaii.edu
+   Username: alanr
+   Original line: Alan Ryan Women's Cross Country Head Coach alanr@hawaii.edu 808-932-
+
+10. Earl Tamiya
+   Email: tamiya@hawaii.edu
+   Username: tamiya
+   Original line: Earl Tamiya Men's Golf Head Coach tamiya@hawaii.edu 808-932-
+
+11. Kevin Ginoza
+   Email: kginoza7@hawaii.edu
+   Username: kginoza7
+   Original line: Kevin Ginoza Men's Golf Assistant Coach kginoza7@hawaii.edu
+
+12. Sean Maekawa
+   Email: smaekawa@hawaii.edu
+   Username: smaekawa
+   Original line: Sean Maekawa Men's Golf Assistant Coach smaekawa@hawaii.edu
+
+13. Shea Miyashiro
+   Email: sheamiya@hawaii.edu
+   Username: sheamiya
+   Original line: Shea Miyashiro Men's Golf Assistant Coach sheamiya@hawaii.edu
+
+14. Jim DeMello
+   Email: demello@hawaii.edu
+   Username: demello
+   Original line: Jim DeMello Women's Golf Head Coach demello@hawaii.edu 808-932-
+
+15. Diego Marroquin
+   Email: dmarr@hawaii.edu
+   Username: dmarr
+   Original line: Diego Marroquin Men's Soccer Head Coach dmarr@hawaii.edu 808-932-
+
+16. Terry Yamane
+   Email: terryy@hawaii.edu
+   Username: terryy
+   Original line: Terry Yamane Men's Soccer Assistant Coach terryy@hawaii.edu 808-932-
+
+17. Gene Okamura
+   Email: geneo@hawaii.edu
+   Username: geneo
+   Original line: Gene Okamura Women's Soccer Head Coach geneo@hawaii.edu 808-932-
+
+18. Aisha Sueda
+   Email: aishas@hawaii.edu
+   Username: aishas
+   Original line: Aisha Sueda Softball Head Coach aishas@hawaii.edu 808-932-
+
+19. Fred Entilla
+   Email: entilla@hawaii.edu
+   Username: entilla
+   Original line: Fred Entilla Softball Assistant Coach entilla@hawaii.edu 808-932-
+
+20. Joey Estrella
+   Email: josephe@hawaii.edu
+   Username: josephe
+   Original line: Joey Estrella Softball Assistant Coach josephe@hawaii.edu
+
+21. Leah Gonzales
+   Email: leahjgon@hawaii.edu
+   Username: leahjgon
+   Original line: Leah Gonzales Softball Assistant Coach leahjgon@hawaii.edu
+
+22. Reed Sunahara
+   Email: reed28@hawaii.edu
+   Username: reed28
+   Original line: Reed Sunahara Women's Volleyball Head Coach reed28@hawaii.edu 808-932-
+
+23. Emil Osorio
+   Email: eosorio@hawaii.edu
+   Username: eosorio
+   Original line: Emil Osorio Women's Volleyball Assistant Coach eosorio@hawaii.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kallen Miyataki Baseball Head Coach kmiyatak@hawaii.edu 808-932-
+• Garett Yukumoto Baseball Associate Head Coach garetty@hawaii.edu
+• Jensen Sato Baseball Assistant Coach jsato6@hawaii.edu
+• Blayne Sato Baseball Assistant Coach bsato4@hawaii.edu
+• Kaniela Aiona Men's Basketball Head Coach kkaiona@hawaii.edu 808-932-
+• Anthony Haskett Men's Basketball Assistant Coach haskett@hawaii.edu
+• David Kaneshiro Women's Basketball Head Coach davidlhk@hawaii.edu 808-932-
+• Donn Kansako Women's Basketball Assistant Coach kansako@hawaii.edu
+• Alan Ryan Women's Cross Country Head Coach alanr@hawaii.edu 808-932-
+• Earl Tamiya Men's Golf Head Coach tamiya@hawaii.edu 808-932-
+• Kevin Ginoza Men's Golf Assistant Coach kginoza7@hawaii.edu
+• Sean Maekawa Men's Golf Assistant Coach smaekawa@hawaii.edu
+• Shea Miyashiro Men's Golf Assistant Coach sheamiya@hawaii.edu
+• Jim DeMello Women's Golf Head Coach demello@hawaii.edu 808-932-
+• Diego Marroquin Men's Soccer Head Coach dmarr@hawaii.edu 808-932-
+• Terry Yamane Men's Soccer Assistant Coach terryy@hawaii.edu 808-932-
+• Gene Okamura Women's Soccer Head Coach geneo@hawaii.edu 808-932-
+• Aisha Sueda Softball Head Coach aishas@hawaii.edu 808-932-
+• Fred Entilla Softball Assistant Coach entilla@hawaii.edu 808-932-
+• Joey Estrella Softball Assistant Coach josephe@hawaii.edu
+• Leah Gonzales Softball Assistant Coach leahjgon@hawaii.edu
+• Reed Sunahara Women's Volleyball Head Coach reed28@hawaii.edu 808-932-
+• Emil Osorio Women's Volleyball Assistant Coach eosorio@hawaii.edu

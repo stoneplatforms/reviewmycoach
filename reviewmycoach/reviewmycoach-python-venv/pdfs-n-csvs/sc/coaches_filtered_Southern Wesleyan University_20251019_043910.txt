@@ -1,0 +1,167 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:10
+============================================================
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Lindsey Schneider
+   Email: lschneider@swu.edu
+   Username: lschneider
+   Original line: Lindsey Schneider Head Lacrosse Coach / Assistant Athletic Director / Senior Woman 864-644- lschneider@swu.edu
+
+2. Peyton Shedd
+   Email: pshedd@swu.edu
+   Username: pshedd
+   Original line: Peyton Shedd Athletic Operations and Facilities Management / Assistant Golf Coach pshedd@swu.edu
+
+3. Joe Wassink
+   Email: jwassink@swu.edu
+   Username: jwassink
+   Original line: Joe Wassink Strength & Conditioning Coach / Assistant Track & Field Coach jwassink@swu.edu
+
+4. Matthew Robinson
+   Email: mrobinson@swu.edu
+   Username: mrobinson
+   Original line: Matthew Robinson Head Coach 706-521- mrobinson@swu.edu
+
+5. Anthony Zurke
+   Email: azurke@swu.edu
+   Username: azurke
+   Original line: Anthony Zurke Pitching Coach azurke@swu.edu
+
+6. Andy Shover
+   Email: ashover@swu.edu
+   Username: ashover
+   Original line: Andy Shover Assistant Coach 847-385- ashover@swu.edu
+
+7. Joel Stites
+   Email: jstites@swu.edu
+   Username: jstites
+   Original line: Joel Stites Head Men's Basketball Coach 864-644- jstites@swu.edu
+
+8. JaVon Summers
+   Email: jsummers@swu.edu
+   Username: jsummers
+   Original line: JaVon Summers Assistant Coach jsummers@swu.edu
+
+9. James Garland
+   Email: jgarland@swu.edu
+   Username: jgarland
+   Original line: James Garland Assistant Coach jgarland@swu.edu
+
+10. John Davis
+   Email: jwdavis@swu.edu
+   Username: jwdavis
+   Original line: John Davis Head Coach 864-644- jwdavis@swu.edu
+
+11. Bryant Hedgeman
+   Email: bhedgeman@swu.edu
+   Username: bhedgeman
+   Original line: Bryant Hedgeman Assistant Coach bhedgeman@swu.edu
+
+12. Peyton Shelton
+   Email: pshelton@swu.edu
+   Username: pshelton
+   Original line: Peyton Shelton Cross Country and Track & Field Head Coach 812-657- pshelton@swu.edu
+
+13. Peyton Shedd
+   Email: pshedd@swu.edu
+   Username: pshedd
+   Original line: Peyton Shedd Athletic Operations and Facilities Management / Assistant Golf Coach pshedd@swu.edu
+
+14. Lindsey Schneider
+   Email: lschneider@swu.edu
+   Username: lschneider
+   Original line: Lindsey Schneider Head Lacrosse Coach / Assistant Athletic Director / Senior Woman 864-644- lschneider@swu.edu
+
+15. Josué Fernández
+   Email: jfernandez@swu.edu
+   Username: jfernandez
+   Original line: Josué Fernández Head Men's Soccer Coach 864-644- jfernandez@swu.edu
+
+16. Jon-Luke Rodriguez
+   Email: jrodriguez@swu.edu
+   Username: jrodriguez
+   Original line: Jon-Luke Rodriguez Assistant Coach 908-418- jrodriguez@swu.edu
+
+17. Adrian Guzman
+   Email: aguzman@swu.edu
+   Username: aguzman
+   Original line: Adrian Guzman Goalkeeper Coach aguzman@swu.edu
+
+18. Al Meneses
+   Email: ameneses@swu.edu
+   Username: ameneses
+   Original line: Al Meneses Head Coach 631-741- ameneses@swu.edu
+
+19. Adrian Guzman
+   Email: aguzman@swu.edu
+   Username: aguzman
+   Original line: Adrian Guzman Goalkeeper Coach aguzman@swu.edu
+
+20. Clay Ardeeser
+   Email: cardeeser@swu.edu
+   Username: cardeeser
+   Original line: Clay Ardeeser Head Coach 864-644- cardeeser@swu.edu
+
+21. Mallory Ardeeser
+   Email: mparson@swu.edu
+   Username: mparson
+   Original line: Mallory Ardeeser Assistant Coach mparson@swu.edu
+
+22. Peyton Shelton
+   Email: pshelton@swu.edu
+   Username: pshelton
+   Original line: Peyton Shelton Cross Country and Track & Field Head Coach 812-657- pshelton@swu.edu
+
+23. Joe Wassink
+   Email: jwassink@swu.edu
+   Username: jwassink
+   Original line: Joe Wassink Strength & Conditioning Coach / Assistant Track & Field Coach jwassink@swu.edu
+
+24. Marquasha Myers
+   Email: mmyers@swu.edu
+   Username: mmyers
+   Original line: Marquasha Myers Assistant Track & Field Coach / Recruiting Coordinator mmyers@swu.edu
+
+25. Anna Collins
+   Email: aheinz@swu.edu
+   Username: aheinz
+   Original line: Anna Collins Head Volleyball Coach 910-627- aheinz@swu.edu
+
+26. Sydney Bellamy
+   Email: sbellamy@swu.edu
+   Username: sbellamy
+   Original line: Sydney Bellamy Assistant Coach sbellamy@swu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Lindsey Schneider Head Lacrosse Coach / Assistant Athletic Director / Senior Woman 864-644- lschneider@swu.edu
+• Peyton Shedd Athletic Operations and Facilities Management / Assistant Golf Coach pshedd@swu.edu
+• Joe Wassink Strength & Conditioning Coach / Assistant Track & Field Coach jwassink@swu.edu
+• Matthew Robinson Head Coach 706-521- mrobinson@swu.edu
+• Anthony Zurke Pitching Coach azurke@swu.edu
+• Andy Shover Assistant Coach 847-385- ashover@swu.edu
+• Joel Stites Head Men's Basketball Coach 864-644- jstites@swu.edu
+• JaVon Summers Assistant Coach jsummers@swu.edu
+• James Garland Assistant Coach jgarland@swu.edu
+• John Davis Head Coach 864-644- jwdavis@swu.edu
+• Bryant Hedgeman Assistant Coach bhedgeman@swu.edu
+• Peyton Shelton Cross Country and Track & Field Head Coach 812-657- pshelton@swu.edu
+• Peyton Shedd Athletic Operations and Facilities Management / Assistant Golf Coach pshedd@swu.edu
+• Lindsey Schneider Head Lacrosse Coach / Assistant Athletic Director / Senior Woman 864-644- lschneider@swu.edu
+• Josué Fernández Head Men's Soccer Coach 864-644- jfernandez@swu.edu
+• Jon-Luke Rodriguez Assistant Coach 908-418- jrodriguez@swu.edu
+• Adrian Guzman Goalkeeper Coach aguzman@swu.edu
+• Al Meneses Head Coach 631-741- ameneses@swu.edu
+• Adrian Guzman Goalkeeper Coach aguzman@swu.edu
+• Clay Ardeeser Head Coach 864-644- cardeeser@swu.edu
+• Mallory Ardeeser Assistant Coach mparson@swu.edu
+• Peyton Shelton Cross Country and Track & Field Head Coach 812-657- pshelton@swu.edu
+• Joe Wassink Strength & Conditioning Coach / Assistant Track & Field Coach jwassink@swu.edu
+• Marquasha Myers Assistant Track & Field Coach / Recruiting Coordinator mmyers@swu.edu
+• Anna Collins Head Volleyball Coach 910-627- aheinz@swu.edu
+• Sydney Bellamy Assistant Coach sbellamy@swu.edu

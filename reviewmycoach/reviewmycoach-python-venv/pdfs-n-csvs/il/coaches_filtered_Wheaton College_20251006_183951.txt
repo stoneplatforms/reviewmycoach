@@ -1,0 +1,245 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:51
+============================================================
+
+Total coaches found: 39
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mike Schauer
+   Email: Mike.Schauer@wheaton.edu
+   Username: Mike.Schauer
+   Original line: Mike Schauer Athletic Director/Head Men's Basketball Coach Mike.Schauer@wheaton.edu 630-752-
+
+2. Kent Madsen
+   Email: Kent.Madsen@wheaton.edu
+   Username: Kent.Madsen
+   Original line: Kent Madsen Head Women's Basketball Coach/Assistant Kent.Madsen@wheaton.edu 630-752-
+
+3. Matt Husted
+   Email: matt.husted@wheaton.edu
+   Username: matt.husted
+   Original line: Matt Husted Head Baseball Coach matt.husted@wheaton.edu 630-752-
+
+4. Ben Weaver
+   Email: ben.weaver@wheaton.edu
+   Username: ben.weaver
+   Original line: Ben Weaver Assistant Baseball Coach ben.weaver@wheaton.edu
+
+5. Joe Klein
+   Email: joe.klein@wheaton.edu
+   Username: joe.klein
+   Original line: Joe Klein Assistant Baseball Coach joe.klein@wheaton.edu
+
+6. Mike Schauer
+   Email: Mike.Schauer@wheaton.edu
+   Username: Mike.Schauer
+   Original line: Mike Schauer Athletic Director/Head Men's Basketball Coach Mike.Schauer@wheaton.edu 630-752-
+
+7. Jon Panner
+   Email: jon.panner@wheaton.edu
+   Username: jon.panner
+   Original line: Jon Panner Associate Head Men's Basketball Coach jon.panner@wheaton.edu 630-752-
+
+8. Timothy Watts
+   Email: timothy.watts@wheaton.edu
+   Username: timothy.watts
+   Original line: Timothy Watts Assistant Men's Basketball Coach timothy.watts@wheaton.edu
+
+9. Kent Madsen
+   Email: Kent.Madsen@wheaton.edu
+   Username: Kent.Madsen
+   Original line: Kent Madsen Head Women's Basketball Coach/Assistant Kent.Madsen@wheaton.edu 630-752-
+
+10. Joanna Gutkowski
+   Email: joanna.gutkowski@wheaton.edu
+   Username: joanna.gutkowski
+   Original line: Joanna Gutkowski Assistant Women's Basketball Coach joanna.gutkowski@wheaton.edu
+
+11. Brianna Hawthorne
+   Email: brianna.hawthorne@wheaton.edu
+   Username: brianna.hawthorne
+   Original line: Brianna Hawthorne Assistant Cross Country/Track & Field Coach brianna.hawthorne@wheaton.edu
+
+12. Parker Nelson
+   Email: parker.nelson@wheaton.edu
+   Username: parker.nelson
+   Original line: Parker Nelson Assistant Cross Country/Track & Field Coach parker.nelson@wheaton.edu
+
+13. Jesse Scott
+   Email: jesse.scott@wheaton.edu
+   Username: jesse.scott
+   Original line: Jesse Scott Head Football Coach and Offensive Line coach jesse.scott@wheaton.edu 630-752- @Coach_JScott
+
+14. James Houck
+   Email: James.Houck@wheaton.edu
+   Username: James.Houck
+   Original line: James Houck Offensive Coordinator and Quarterbacks coach James.Houck@wheaton.edu @HouckCoach
+
+15. Mikey Swider
+   Email: Michael.swider.16@wheaton.edu
+   Username: Michael.swider.16
+   Original line: Mikey Swider Defensive Coordinator and Linebackers coach Michael.swider.16@wheaton.edu 630-752- @_CoachSwider
+
+16. Jeff Peltz
+   Email: Jeffrey.Peltz@wheaton.edu
+   Username: Jeffrey.Peltz
+   Original line: Jeff Peltz Assistant Football Coach (Defensive Line) and Jeffrey.Peltz@wheaton.edu 630-752-
+
+17. Ron Harris
+   Email: Ronald.Harris@wheaton.edu
+   Username: Ronald.Harris
+   Original line: Ron Harris Assistant Football Coach (Tight Ends) / Ronald.Harris@wheaton.edu
+
+18. Paul Craig
+   Email: paul.craig@wheaton.edu
+   Username: paul.craig
+   Original line: Paul Craig Head Men's and Women's Golf Coach paul.craig@wheaton.edu 630-752-
+
+19. Paul Craig
+   Email: paul.craig@wheaton.edu
+   Username: paul.craig
+   Original line: Paul Craig Head Men's and Women's Golf Coach paul.craig@wheaton.edu 630-752-
+
+20. Kelly Vazquez
+   Email: kelly.vazquez@wheaton.edu
+   Username: kelly.vazquez
+   Original line: Kelly Vazquez Assistant Women's Golf Coach kelly.vazquez@wheaton.edu
+
+21. Steve McCrath
+   Email: steve.mccrath@wheaton.edu
+   Username: steve.mccrath
+   Original line: Steve McCrath Head Men's Soccer Coach steve.mccrath@wheaton.edu 630-752-
+
+22. Andrew Wade
+   Email: andrew.wade@wheaton.edu
+   Username: andrew.wade
+   Original line: Andrew Wade Assistant Men's Soccer Coach andrew.wade@wheaton.edu
+
+23. Patrick Gilliam
+   Email: patrick.gilliam@wheaton.edu
+   Username: patrick.gilliam
+   Original line: Patrick Gilliam Head Women's Soccer Coach patrick.gilliam@wheaton.edu 630-752-
+
+24. Jeanne Nielson
+   Email: jeanne.nielson@wheaton.edu
+   Username: jeanne.nielson
+   Original line: Jeanne Nielson Assistant Women's Soccer Coach jeanne.nielson@wheaton.edu
+
+25. Amanda Fazzari
+   Email: amanda.fazzari@wheaton.edu
+   Username: amanda.fazzari
+   Original line: Amanda Fazzari Head Softball Coach amanda.fazzari@wheaton.edu
+
+26. Melissa Martineck
+   Email: melissa.martineck@wheaton.edu
+   Username: melissa.martineck
+   Original line: Melissa Martineck Assistant Softball Coach melissa.martineck@wheaton.edu
+
+27. Virginia McAndrews
+   Email: virginia.mcandrews@wheaton.edu
+   Username: virginia.mcandrews
+   Original line: Virginia McAndrews Assistant Softball Coach virginia.mcandrews@wheaton.edu
+
+28. Brittany Murphy
+   Email: brittany.murphy.01@wheaton.edu
+   Username: brittany.murphy.01
+   Original line: Brittany Murphy Assistant Softball Coach brittany.murphy.01@wheaton.edu
+
+29. Tatiana Paino
+   Email: tatiana.paino.01@wheaton.edu
+   Username: tatiana.paino.01
+   Original line: Tatiana Paino Assistant Softball Coach tatiana.paino.01@wheaton.edu
+
+30. Ethan Kile
+   Email: ethan.kile@wheaton.edu
+   Username: ethan.kile
+   Original line: Ethan Kile Assistant Men's and Women's Diving Coach ethan.kile@wheaton.edu
+
+31. Meghan Ayers
+   Email: meghan.ayers@wheaton.edu
+   Username: meghan.ayers
+   Original line: Meghan Ayers Head Women's Swimming & Diving Coach meghan.ayers@wheaton.edu 630-752-
+
+32. Ethan Kile
+   Email: ethan.kile@wheaton.edu
+   Username: ethan.kile
+   Original line: Ethan Kile Assistant Men's and Women's Diving Coach ethan.kile@wheaton.edu
+
+33. Brad Pihl
+   Email: Brad.Pihl@wheaton.edu
+   Username: Brad.Pihl
+   Original line: Brad Pihl Head Men's Tennis Coach Brad.Pihl@wheaton.edu 630-752-
+
+34. Jane Nelson
+   Email: Jane.Nelson@wheaton.edu
+   Username: Jane.Nelson
+   Original line: Jane Nelson Head Women's Tennis Coach Jane.Nelson@wheaton.edu 630-452-
+
+35. Brianna Hawthorne
+   Email: brianna.hawthorne@wheaton.edu
+   Username: brianna.hawthorne
+   Original line: Brianna Hawthorne Assistant Cross Country/Track & Field Coach brianna.hawthorne@wheaton.edu
+
+36. Ron Harris
+   Email: Ronald.Harris@wheaton.edu
+   Username: Ronald.Harris
+   Original line: Ron Harris Assistant Football Coach (Tight Ends) / Ronald.Harris@wheaton.edu
+
+37. Parker Nelson
+   Email: parker.nelson@wheaton.edu
+   Username: parker.nelson
+   Original line: Parker Nelson Assistant Cross Country/Track & Field Coach parker.nelson@wheaton.edu
+
+38. Eric Plunkett
+   Email: eric.plunkett@wheaton.edu
+   Username: eric.plunkett
+   Original line: Eric Plunkett Head Volleyball Coach eric.plunkett@wheaton.edu
+
+39. Jim Gruenwald
+   Email: James.Gruenwald@wheaton.edu
+   Username: James.Gruenwald
+   Original line: Jim Gruenwald Head Wrestling Coach/Strength Coach James.Gruenwald@wheaton.edu 630-752-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mike Schauer Athletic Director/Head Men's Basketball Coach Mike.Schauer@wheaton.edu 630-752-
+• Kent Madsen Head Women's Basketball Coach/Assistant Kent.Madsen@wheaton.edu 630-752-
+• Matt Husted Head Baseball Coach matt.husted@wheaton.edu 630-752-
+• Ben Weaver Assistant Baseball Coach ben.weaver@wheaton.edu
+• Joe Klein Assistant Baseball Coach joe.klein@wheaton.edu
+• Mike Schauer Athletic Director/Head Men's Basketball Coach Mike.Schauer@wheaton.edu 630-752-
+• Jon Panner Associate Head Men's Basketball Coach jon.panner@wheaton.edu 630-752-
+• Timothy Watts Assistant Men's Basketball Coach timothy.watts@wheaton.edu
+• Kent Madsen Head Women's Basketball Coach/Assistant Kent.Madsen@wheaton.edu 630-752-
+• Joanna Gutkowski Assistant Women's Basketball Coach joanna.gutkowski@wheaton.edu
+• Brianna Hawthorne Assistant Cross Country/Track & Field Coach brianna.hawthorne@wheaton.edu
+• Parker Nelson Assistant Cross Country/Track & Field Coach parker.nelson@wheaton.edu
+• Jesse Scott Head Football Coach and Offensive Line coach jesse.scott@wheaton.edu 630-752- @Coach_JScott
+• James Houck Offensive Coordinator and Quarterbacks coach James.Houck@wheaton.edu @HouckCoach
+• Mikey Swider Defensive Coordinator and Linebackers coach Michael.swider.16@wheaton.edu 630-752- @_CoachSwider
+• Jeff Peltz Assistant Football Coach (Defensive Line) and Jeffrey.Peltz@wheaton.edu 630-752-
+• Ron Harris Assistant Football Coach (Tight Ends) / Ronald.Harris@wheaton.edu
+• Paul Craig Head Men's and Women's Golf Coach paul.craig@wheaton.edu 630-752-
+• Paul Craig Head Men's and Women's Golf Coach paul.craig@wheaton.edu 630-752-
+• Kelly Vazquez Assistant Women's Golf Coach kelly.vazquez@wheaton.edu
+• Steve McCrath Head Men's Soccer Coach steve.mccrath@wheaton.edu 630-752-
+• Andrew Wade Assistant Men's Soccer Coach andrew.wade@wheaton.edu
+• Patrick Gilliam Head Women's Soccer Coach patrick.gilliam@wheaton.edu 630-752-
+• Jeanne Nielson Assistant Women's Soccer Coach jeanne.nielson@wheaton.edu
+• Amanda Fazzari Head Softball Coach amanda.fazzari@wheaton.edu
+• Melissa Martineck Assistant Softball Coach melissa.martineck@wheaton.edu
+• Virginia McAndrews Assistant Softball Coach virginia.mcandrews@wheaton.edu
+• Brittany Murphy Assistant Softball Coach brittany.murphy.01@wheaton.edu
+• Tatiana Paino Assistant Softball Coach tatiana.paino.01@wheaton.edu
+• Ethan Kile Assistant Men's and Women's Diving Coach ethan.kile@wheaton.edu
+• Meghan Ayers Head Women's Swimming & Diving Coach meghan.ayers@wheaton.edu 630-752-
+• Ethan Kile Assistant Men's and Women's Diving Coach ethan.kile@wheaton.edu
+• Brad Pihl Head Men's Tennis Coach Brad.Pihl@wheaton.edu 630-752-
+• Jane Nelson Head Women's Tennis Coach Jane.Nelson@wheaton.edu 630-452-
+• Brianna Hawthorne Assistant Cross Country/Track & Field Coach brianna.hawthorne@wheaton.edu
+• Ron Harris Assistant Football Coach (Tight Ends) / Ronald.Harris@wheaton.edu
+• Parker Nelson Assistant Cross Country/Track & Field Coach parker.nelson@wheaton.edu
+• Eric Plunkett Head Volleyball Coach eric.plunkett@wheaton.edu
+• Jim Gruenwald Head Wrestling Coach/Strength Coach James.Gruenwald@wheaton.edu 630-752-

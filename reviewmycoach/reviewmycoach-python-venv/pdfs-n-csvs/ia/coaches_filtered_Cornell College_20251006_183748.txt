@@ -1,0 +1,203 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:48
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jeff Meeker
+   Email: jmeeker@cornellcollege.edu
+   Username: jmeeker
+   Original line: Jeff Meeker Director of Athletics/Head Volleyball Coach 319-895- jmeeker@cornellcollege.edu
+
+2. Robbie Dombrowski
+   Email: rdombrowski@cornellcollege.edu
+   Username: rdombrowski
+   Original line: Robbie Dombrowski Head Coach rdombrowski@cornellcollege.edu
+
+3. Colin Konicek
+   Email: ckonicek@cornellcollege.edu
+   Username: ckonicek
+   Original line: Colin Konicek Assistant Coach ckonicek@cornellcollege.edu
+
+4. Frank Fishler
+   Email: ffishler@cornellcollege.edu
+   Username: ffishler
+   Original line: Frank Fishler Assistant Coach ffishler@cornellcollege.edu
+
+5. Josh Soper
+   Email: jsoper@cornellcollege.edu
+   Username: jsoper
+   Original line: Josh Soper Assistant Coach jsoper@cornellcollege.edu
+
+6. Dave Schlabaugh
+   Email: dschlabaugh@cornellcollege.edu
+   Username: dschlabaugh
+   Original line: Dave Schlabaugh Head Coach 319-530- dschlabaugh@cornellcollege.edu
+
+7. Zach Schlabaugh
+   Email: zschlabaugh@cornellcollege.edu
+   Username: zschlabaugh
+   Original line: Zach Schlabaugh Assistant Coach/Gameday Operations 319-530- zschlabaugh@cornellcollege.edu
+
+8. Brent Brase
+   Email: bbrase@cornellcollege.edu
+   Username: bbrase
+   Original line: Brent Brase Head Coach 319-895- bbrase@cornellcollege.edu
+
+9. Rose Shimaoka
+   Email: rshimaoka@cornellcollege.edu
+   Username: rshimaoka
+   Original line: Rose Shimaoka Assistant Coach rshimaoka@cornellcollege.edu
+
+10. Jerry Frawley
+   Email: jfrawley@cornellcollege.edu
+   Username: jfrawley
+   Original line: Jerry Frawley Head Coach 319-895- jfrawley@cornellcollege.edu
+
+11. Haley Harms-Frawley
+   Email: hharms@cornellcollege.edu
+   Username: hharms
+   Original line: Haley Harms-Frawley Assistant Coach/Social Media Coordinator hharms@cornellcollege.edu
+
+12. Curt Ritchie
+   Email: critchie@cornellcollege.edu
+   Username: critchie
+   Original line: Curt Ritchie Head Coach critchie@cornellcollege.edu
+
+13. Nate Grosse
+   Email: ngrosse@cornellcollege.edu
+   Username: ngrosse
+   Original line: Nate Grosse Head Coach 319-895- ngrosse@cornellcollege.edu
+
+14. Sarah Campbell
+   Email: scampbell@cornellcollege.edu
+   Username: scampbell
+   Original line: Sarah Campbell Head Coach/Compliance Coordinator 319-529- scampbell@cornellcollege.edu
+
+15. Robin Brand
+   Email: rbrand@cornellcollege.edu
+   Username: rbrand
+   Original line: Robin Brand Head Coach rbrand@cornellcollege.edu
+
+16. Hannah Kalnicky
+   Email: hkalnicky@cornellcollege.edu
+   Username: hkalnicky
+   Original line: Hannah Kalnicky Assistant Coach hkalnicky@cornellcollege.edu
+
+17. Trent Schneider
+   Email: tschneider@cornellcollege.edu
+   Username: tschneider
+   Original line: Trent Schneider Head Coach 319-895- tschneider@cornellcollege.edu
+
+18. Jerry Monner
+   Email: jmonner@cornellcollege.edu
+   Username: jmonner
+   Original line: Jerry Monner Head Coach 319-895- jmonner@cornellcollege.edu
+
+19. Jerry Frawley
+   Email: jfrawley@cornellcollege.edu
+   Username: jfrawley
+   Original line: Jerry Frawley Assistant Coach 319-895- jfrawley@cornellcollege.edu
+
+20. Haley Harms-Frawley
+   Email: hharms@cornellcollege.edu
+   Username: hharms
+   Original line: Haley Harms-Frawley Assistant Coach/Social Media Coordinator hharms@cornellcollege.edu
+
+21. Brent Hamm
+   Email: bhamm@cornellcollege.edu
+   Username: bhamm
+   Original line: Brent Hamm Head Coach 319-895- bhamm@cornellcollege.edu
+
+22. Carter Happel
+   Email: chappel@cornellcollege.edu
+   Username: chappel
+   Original line: Carter Happel Assistant Coach 319-895- chappel@cornellcollege.edu
+
+23. Jeff Meeker
+   Email: jmeeker@cornellcollege.edu
+   Username: jmeeker
+   Original line: Jeff Meeker Director of Athletics/Head Volleyball Coach 319-895- jmeeker@cornellcollege.edu
+
+24. Sydney Meeker
+   Email: smeeker@cornellcollege.edu
+   Username: smeeker
+   Original line: Sydney Meeker Assistant Coach 319-895- smeeker@cornellcollege.edu
+
+25. Paul Hageman
+   Email: phageman@cornellcollege.edu
+   Username: phageman
+   Original line: Paul Hageman Assistant Coach 319-895- phageman@cornellcollege.edu
+
+26. Robert Pousak
+   Email: rpousak@cornellcollege.edu
+   Username: rpousak
+   Original line: Robert Pousak Head Coach rpousak@cornellcollege.edu
+
+27. Meredith Meier
+   Email: mmeier@cornellcollege.edu
+   Username: mmeier
+   Original line: Meredith Meier Head Coach/Senior Woman Administrator 319-895- mmeier@cornellcollege.edu
+
+28. Lizzy Ott
+   Email: eott@cornellcollege.edu
+   Username: eott
+   Original line: Lizzy Ott Assistant Coach eott@cornellcollege.edu
+
+29. Boston Jacobs
+   Email: bjacobs@cornellcollege.edu
+   Username: bjacobs
+   Original line: Boston Jacobs Head Coach bjacobs@cornellcollege.edu
+
+30. Courtney Pennel
+   Email: cpennel@cornellcollege.edu
+   Username: cpennel
+   Original line: Courtney Pennel Head Coach cpennel@cornellcollege.edu
+
+31. Gabrielle McCoy
+   Email: gmccoy@cornellcollege.edu
+   Username: gmccoy
+   Original line: Gabrielle McCoy Head Coach gmccoy@cornellcollege.edu
+
+32. Paige Busick
+   Email: pbusick@cornellcollege.edu
+   Username: pbusick
+   Original line: Paige Busick Head Coach pbusick@cornellcollege.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jeff Meeker Director of Athletics/Head Volleyball Coach 319-895- jmeeker@cornellcollege.edu
+• Robbie Dombrowski Head Coach rdombrowski@cornellcollege.edu
+• Colin Konicek Assistant Coach ckonicek@cornellcollege.edu
+• Frank Fishler Assistant Coach ffishler@cornellcollege.edu
+• Josh Soper Assistant Coach jsoper@cornellcollege.edu
+• Dave Schlabaugh Head Coach 319-530- dschlabaugh@cornellcollege.edu
+• Zach Schlabaugh Assistant Coach/Gameday Operations 319-530- zschlabaugh@cornellcollege.edu
+• Brent Brase Head Coach 319-895- bbrase@cornellcollege.edu
+• Rose Shimaoka Assistant Coach rshimaoka@cornellcollege.edu
+• Jerry Frawley Head Coach 319-895- jfrawley@cornellcollege.edu
+• Haley Harms-Frawley Assistant Coach/Social Media Coordinator hharms@cornellcollege.edu
+• Curt Ritchie Head Coach critchie@cornellcollege.edu
+• Nate Grosse Head Coach 319-895- ngrosse@cornellcollege.edu
+• Sarah Campbell Head Coach/Compliance Coordinator 319-529- scampbell@cornellcollege.edu
+• Robin Brand Head Coach rbrand@cornellcollege.edu
+• Hannah Kalnicky Assistant Coach hkalnicky@cornellcollege.edu
+• Trent Schneider Head Coach 319-895- tschneider@cornellcollege.edu
+• Jerry Monner Head Coach 319-895- jmonner@cornellcollege.edu
+• Jerry Frawley Assistant Coach 319-895- jfrawley@cornellcollege.edu
+• Haley Harms-Frawley Assistant Coach/Social Media Coordinator hharms@cornellcollege.edu
+• Brent Hamm Head Coach 319-895- bhamm@cornellcollege.edu
+• Carter Happel Assistant Coach 319-895- chappel@cornellcollege.edu
+• Jeff Meeker Director of Athletics/Head Volleyball Coach 319-895- jmeeker@cornellcollege.edu
+• Sydney Meeker Assistant Coach 319-895- smeeker@cornellcollege.edu
+• Paul Hageman Assistant Coach 319-895- phageman@cornellcollege.edu
+• Robert Pousak Head Coach rpousak@cornellcollege.edu
+• Meredith Meier Head Coach/Senior Woman Administrator 319-895- mmeier@cornellcollege.edu
+• Lizzy Ott Assistant Coach eott@cornellcollege.edu
+• Boston Jacobs Head Coach bjacobs@cornellcollege.edu
+• Courtney Pennel Head Coach cpennel@cornellcollege.edu
+• Gabrielle McCoy Head Coach gmccoy@cornellcollege.edu
+• Paige Busick Head Coach pbusick@cornellcollege.edu

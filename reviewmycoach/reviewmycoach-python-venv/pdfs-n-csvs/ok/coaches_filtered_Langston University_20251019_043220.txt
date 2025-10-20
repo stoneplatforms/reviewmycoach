@@ -1,0 +1,113 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:20
+============================================================
+
+Total coaches found: 17
+
+PARSED ENTRIES:
+----------------------------------------
+1. Vince Connor
+   Email: aconnor@lincoln.edu
+   Username: aconnor
+   Original line: Vince Connor Head Baseball Coach aconnor@lincoln.edu 484-365-
+
+2. Ronald Harge
+   Email: rharge@lincoln.edu
+   Username: rharge
+   Original line: Ronald Harge Assistant Baseball Coach rharge@lincoln.edu
+
+3. Julius Hodge
+   Email: jhodge@lincoln.edu
+   Username: jhodge
+   Original line: Julius Hodge Head Men's Basketball Coach jhodge@lincoln.edu
+
+4. Kania Pollock
+   Email: kpollock@lincoln.edu
+   Username: kpollock
+   Original line: Kania Pollock Assistant Women's Basketball Coach, kpollock@lincoln.edu 484-365-
+
+5. Imani Alexander
+   Email: thelincolnuniversitycheer@gmail.com
+   Username: thelincolnuniversitycheer
+   Original line: Imani Alexander Head Cheerleading Coach thelincolnuniversitycheer@gmail.com 412-390-
+
+6. Frank Turner
+   Email: fturner@lincoln.edu
+   Username: fturner
+   Original line: Frank Turner Head Coach fturner@lincoln.edu 484-365-
+
+7. Keithen Degrate
+   Email: kdegrate@lincoln.edu
+   Username: kdegrate
+   Original line: Keithen Degrate Assistant Football Coach - Running Backs kdegrate@lincoln.edu
+
+8. Marcus Pettiford
+   Email: mpettiford@lincoln.edu
+   Username: mpettiford
+   Original line: Marcus Pettiford Assistant Football Coach - Offensive Line/ mpettiford@lincoln.edu
+
+9. Marcus Abner
+   Email: mabner@lincoln.edu
+   Username: mabner
+   Original line: Marcus Abner Assistant Football Coach - Corner mabner@lincoln.edu
+
+10. Alex Plasko
+   Email: aplasko@lincoln.edu
+   Username: aplasko
+   Original line: Alex Plasko Assistant Football Coach - Assistant aplasko@lincoln.edu
+
+11. Malik Jones
+   Email: mjones@lincoln.edu
+   Username: mjones
+   Original line: Malik Jones Assistant Football Coach - Special Teams mjones@lincoln.edu
+
+12. Fred Billy
+   Email: dbilly@lincoln.edu
+   Username: dbilly
+   Original line: Fred Billy Assistant Football Coach - Defensive dbilly@lincoln.edu
+
+13. Khalil Steward
+   Email: ksteward@lincoln.edu
+   Username: ksteward
+   Original line: Khalil Steward Assistant Football Coach - Wide ksteward@lincoln.edu
+
+14. Joel Hirsch
+   Email: jhirsch@lincoln.edu
+   Username: jhirsch
+   Original line: Joel Hirsch Assistant Football Coach - Offensive jhirsch@lincoln.edu
+
+15. Sal Minor
+   Email: sminor@lincoln.edu
+   Username: sminor
+   Original line: Sal Minor Head Women's Soccer Coach sminor@lincoln.edu 484-365-
+
+16. Zadaisha Waddell
+   Email: zwaddell@lincoln.edu
+   Username: zwaddell
+   Original line: Zadaisha Waddell Head Softball Coach/Assistant Volleyball zwaddell@lincoln.edu 484-365-
+
+17. Latifa Raheem
+   Email: lraheem@lincoln.edu
+   Username: lraheem
+   Original line: Latifa Raheem Head Volleyball Coach lraheem@lincoln.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Vince Connor Head Baseball Coach aconnor@lincoln.edu 484-365-
+• Ronald Harge Assistant Baseball Coach rharge@lincoln.edu
+• Julius Hodge Head Men's Basketball Coach jhodge@lincoln.edu
+• Kania Pollock Assistant Women's Basketball Coach, kpollock@lincoln.edu 484-365-
+• Imani Alexander Head Cheerleading Coach thelincolnuniversitycheer@gmail.com 412-390-
+• Frank Turner Head Coach fturner@lincoln.edu 484-365-
+• Keithen Degrate Assistant Football Coach - Running Backs kdegrate@lincoln.edu
+• Marcus Pettiford Assistant Football Coach - Offensive Line/ mpettiford@lincoln.edu
+• Marcus Abner Assistant Football Coach - Corner mabner@lincoln.edu
+• Alex Plasko Assistant Football Coach - Assistant aplasko@lincoln.edu
+• Malik Jones Assistant Football Coach - Special Teams mjones@lincoln.edu
+• Fred Billy Assistant Football Coach - Defensive dbilly@lincoln.edu
+• Khalil Steward Assistant Football Coach - Wide ksteward@lincoln.edu
+• Joel Hirsch Assistant Football Coach - Offensive jhirsch@lincoln.edu
+• Sal Minor Head Women's Soccer Coach sminor@lincoln.edu 484-365-
+• Zadaisha Waddell Head Softball Coach/Assistant Volleyball zwaddell@lincoln.edu 484-365-
+• Latifa Raheem Head Volleyball Coach lraheem@lincoln.edu

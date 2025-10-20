@@ -1,0 +1,155 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:14
+============================================================
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Strength
+   Email: brobbett@unca.edu
+   Username: brobbett
+   Original line: Head Strength and Conditioning Coach brobbett@unca.edu
+
+2. Assistant Strength
+   Email: jescalan@unca.edu
+   Username: jescalan
+   Original line: Assistant Strength and Conditioning Coach jescalan@unca.edu
+
+3. Interim Head
+   Email: araburn@unca.edu
+   Username: araburn
+   Original line: Interim Head Coach araburn@unca.edu
+
+4. Pitching Coach
+   Email: mgilber4@unca.edu
+   Username: mgilber4
+   Original line: Pitching Coach mgilber4@unca.edu
+
+5. Assistant Coach/Recruiting
+   Email: jodonnel@unca.edu
+   Username: jodonnel
+   Original line: Assistant Coach/Recruiting Coordinator jodonnel@unca.edu
+
+6. Assistant Coach
+   Email: broddey@unca.edu
+   Username: broddey
+   Original line: Assistant Coach broddey@unca.edu
+
+7. Associate Head
+   Email: wtaylor2@unca.edu
+   Username: wtaylor2
+   Original line: Associate Head Coach wtaylor2@unca.edu
+
+8. Assistant Coach
+   Email: jlevine2@unca.edu
+   Username: jlevine2
+   Original line: Assistant Coach jlevine2@unca.edu
+
+9. Assistant Coach
+   Email: agarci24@unca.edu
+   Username: agarci24
+   Original line: Assistant Coach agarci24@unca.edu
+
+10. Head Coach
+   Email: tlewis6@unca.edu
+   Username: tlewis6
+   Original line: Head Coach tlewis6@unca.edu
+
+11. Assistant Coach
+   Email: rwoodar2@unca.edu
+   Username: rwoodar2
+   Original line: Assistant Coach rwoodar2@unca.edu
+
+12. Assistant Coach
+   Email: qlee@unca.edu
+   Username: qlee
+   Original line: Assistant Coach qlee@unca.edu
+
+13. Assistant Coach/Recruiting
+   Email: mmoses@unca.edu
+   Username: mmoses
+   Original line: Assistant Coach/Recruiting Coordinator mmoses@unca.edu
+
+14. Head Coach
+   Email: rcash1@unca.edu
+   Username: rcash1
+   Original line: Head Coach rcash1@unca.edu
+
+15. Head Coach
+   Email: dfrid@unca.edu
+   Username: dfrid
+   Original line: Head Coach dfrid@unca.edu
+
+16. Assistant Coach
+   Email: dneidlin@unca.edu
+   Username: dneidlin
+   Original line: Assistant Coach dneidlin@unca.edu
+
+17. Head Coach
+   Email: amcnab@unca.edu
+   Username: amcnab
+   Original line: Head Coach amcnab@unca.edu
+
+18. Assistant Coach
+   Email: mireton@unca.edu
+   Username: mireton
+   Original line: Assistant Coach mireton@unca.edu
+
+19. Head Coach
+   Email: elykins@unca.edu
+   Username: elykins
+   Original line: Head Coach elykins@unca.edu
+
+20. Assistant Coach
+   Email: cmoody4@unca.edu
+   Username: cmoody4
+   Original line: Assistant Coach cmoody4@unca.edu
+
+21. Head Track
+   Email: jwilliam@unca.edu
+   Username: jwilliam
+   Original line: Head Track & Field Coach/Associate Cross Country Coach jwilliam@unca.edu
+
+22. Head Cross
+   Email: apuett@unca.edu
+   Username: apuett
+   Original line: Head Cross Country Coach/Associate Track & Field Coach apuett@unca.edu
+
+23. Assistant Track
+   Email: nyoung5@unca.edu
+   Username: nyoung5
+   Original line: Assistant Track & Field/Cross Country Coach nyoung5@unca.edu
+
+24. Head Coach
+   Email: dmarante@unca.edu
+   Username: dmarante
+   Original line: Head Coach dmarante@unca.edu / volleyball
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Strength and Conditioning Coach brobbett@unca.edu
+• Assistant Strength and Conditioning Coach jescalan@unca.edu
+• Interim Head Coach araburn@unca.edu
+• Pitching Coach mgilber4@unca.edu
+• Assistant Coach/Recruiting Coordinator jodonnel@unca.edu
+• Assistant Coach broddey@unca.edu
+• Associate Head Coach wtaylor2@unca.edu
+• Assistant Coach jlevine2@unca.edu
+• Assistant Coach agarci24@unca.edu
+• Head Coach tlewis6@unca.edu
+• Assistant Coach rwoodar2@unca.edu
+• Assistant Coach qlee@unca.edu
+• Assistant Coach/Recruiting Coordinator mmoses@unca.edu
+• Head Coach rcash1@unca.edu
+• Head Coach dfrid@unca.edu
+• Assistant Coach dneidlin@unca.edu
+• Head Coach amcnab@unca.edu
+• Assistant Coach mireton@unca.edu
+• Head Coach elykins@unca.edu
+• Assistant Coach cmoody4@unca.edu
+• Head Track & Field Coach/Associate Cross Country Coach jwilliam@unca.edu
+• Head Cross Country Coach/Associate Track & Field Coach apuett@unca.edu
+• Assistant Track & Field/Cross Country Coach nyoung5@unca.edu
+• Head Coach dmarante@unca.edu / volleyball

@@ -1,0 +1,179 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:35
+============================================================
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Gracie Shear
+   Email: gracie.shear@etamu.edu
+   Username: gracie.shear
+   Original line: Gracie Shear Graphic Design Coordinator / Head Cheer Coach gracie.shear@etamu.edu
+
+2. Gracie Shear
+   Email: gracie.shear@etamu.edu
+   Username: gracie.shear
+   Original line: Gracie Shear Graphic Design Coordinator / Head Cheer Coach gracie.shear@etamu.edu
+
+3. Ashley Rocke
+   Email: ashley.rocke@etamu.edu
+   Username: ashley.rocke
+   Original line: Ashley Rocke Head Coach ashley.rocke@etamu.edu (903) 886-
+
+4. Jaret von
+   Email: trey.conrod@etamu.edu
+   Username: trey.conrod
+   Original line: Jaret von Rosenberg Head Coach trey.conrod@etamu.edu (903) 886-
+
+5. Coleman Furst
+   Email: coleman.furst@etamu.edu
+   Username: coleman.furst
+   Original line: Coleman Furst Associate Head Coach coleman.furst@etamu.edu (903) 468-
+
+6. A.J. Holland
+   Email: aj.holland@etamu.edu
+   Username: aj.holland
+   Original line: A.J. Holland Assistant Coach aj.holland@etamu.edu (903) 468-
+
+7. Trey Conrod
+   Email: trey.conrod@etamu.edu
+   Username: trey.conrod
+   Original line: Trey Conrod Assistant Coach / Director of Basketball Operations trey.conrod@etamu.edu (903) 468-
+
+8. Jared Kortsen
+   Email: jared.kortsen@etamu.edu
+   Username: jared.kortsen
+   Original line: Jared Kortsen Assistant Coach jared.kortsen@etamu.edu (903) 468-
+
+9. Clif Carroll
+   Email: clifton.carroll@etamu.edu
+   Username: clifton.carroll
+   Original line: Clif Carroll Assistant Coach clifton.carroll@etamu.edu (903) 468-
+
+10. Valerie King
+   Email: valerie.king@etamu.edu
+   Username: valerie.king
+   Original line: Valerie King Head Coach valerie.king@etamu.edu (903) 886-
+
+11. Brechelle Beachum
+   Email: brechelle.beachum@etamu.edu
+   Username: brechelle.beachum
+   Original line: Brechelle Beachum Assistant Coach brechelle.beachum@etamu.edu (903) 468-
+
+12. Trevor Moyer
+   Email: trevor.moyer@etamu.edu
+   Username: trevor.moyer
+   Original line: Trevor Moyer Assistant Coach trevor.moyer@etamu.edu (903) 468-
+
+13. Jaedyn De
+   Email: jaedyn.delacerda@etamu.edu
+   Username: jaedyn.delacerda
+   Original line: Jaedyn De La Cerda Assistant Coach jaedyn.delacerda@etamu.edu (903) 468-
+
+14. George Pincock
+   Email: george.pincock@etamu.edu
+   Username: george.pincock
+   Original line: George Pincock Head Coach george.pincock@etamu.edu (903) 468-
+
+15. Natnael Amare
+   Email: natnael.amare@etamu.edu
+   Username: natnael.amare
+   Original line: Natnael Amare Assistant Coach natnael.amare@etamu.edu (903) 468-
+
+16. Peter Santo
+   Email: peter.santo@etamu.edu
+   Username: peter.santo
+   Original line: Peter Santo Assistant Coach peter.santo@etamu.edu
+
+17. Ashley Gordon
+   Email: ashley.gordon@etamu.edu
+   Username: ashley.gordon
+   Original line: Ashley Gordon Head Coach ashley.gordon@etamu.edu (903) 886-
+
+18. Luca Crivellari
+   Email: luca.crivellari@etamu.edu
+   Username: luca.crivellari
+   Original line: Luca Crivellari Assistant Coach luca.crivellari@etamu.edu (903) 886-
+
+19. Steven Cooney
+   Email: steven.cooney@etamu.edu
+   Username: steven.cooney
+   Original line: Steven Cooney Assistant Coach - Goalkeepers steven.cooney@etamu.edu (903) 886-
+
+20. Brittany Miller
+   Email: brittany.miller@etamu.edu
+   Username: brittany.miller
+   Original line: Brittany Miller Head Coach brittany.miller@etamu.edu (903) 468-
+
+21. Crystl Bustos
+   Email: crystl.bustos@etamu.edu
+   Username: crystl.bustos
+   Original line: Crystl Bustos Assistant Coach crystl.bustos@etamu.edu (903) 468-
+
+22. Josh Reeves
+   Email: josh.reeves@etamu.edu
+   Username: josh.reeves
+   Original line: Josh Reeves Assistant Coach josh.reeves@etamu.edu
+
+23. George Pincock
+   Email: george.pincock@etamu.edu
+   Username: george.pincock
+   Original line: George Pincock Head Coach george.pincock@etamu.edu (903) 468-
+
+24. Rock Light
+   Email: rock.light@etamu.edu
+   Username: rock.light
+   Original line: Rock Light Assistant Coach rock.light@etamu.edu (903) 468-
+
+25. Armani Smith
+   Email: armani.smith@etamu.edu
+   Username: armani.smith
+   Original line: Armani Smith Assistant Coach armani.smith@etamu.edu
+
+26. Natnael Amare
+   Email: natnael.amare@etamu.edu
+   Username: natnael.amare
+   Original line: Natnael Amare Assistant Coach natnael.amare@etamu.edu (903) 468-
+
+27. Joe Morales
+   Email: joe.morales@etamu.edu
+   Username: joe.morales
+   Original line: Joe Morales Head Coach joe.morales@etamu.edu (903) 886-
+
+28. Emily Witt
+   Email: emily.witt@etamu.edu
+   Username: emily.witt
+   Original line: Emily Witt Assistant Coach emily.witt@etamu.edu (903) 468-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Gracie Shear Graphic Design Coordinator / Head Cheer Coach gracie.shear@etamu.edu
+• Gracie Shear Graphic Design Coordinator / Head Cheer Coach gracie.shear@etamu.edu
+• Ashley Rocke Head Coach ashley.rocke@etamu.edu (903) 886-
+• Jaret von Rosenberg Head Coach trey.conrod@etamu.edu (903) 886-
+• Coleman Furst Associate Head Coach coleman.furst@etamu.edu (903) 468-
+• A.J. Holland Assistant Coach aj.holland@etamu.edu (903) 468-
+• Trey Conrod Assistant Coach / Director of Basketball Operations trey.conrod@etamu.edu (903) 468-
+• Jared Kortsen Assistant Coach jared.kortsen@etamu.edu (903) 468-
+• Clif Carroll Assistant Coach clifton.carroll@etamu.edu (903) 468-
+• Valerie King Head Coach valerie.king@etamu.edu (903) 886-
+• Brechelle Beachum Assistant Coach brechelle.beachum@etamu.edu (903) 468-
+• Trevor Moyer Assistant Coach trevor.moyer@etamu.edu (903) 468-
+• Jaedyn De La Cerda Assistant Coach jaedyn.delacerda@etamu.edu (903) 468-
+• George Pincock Head Coach george.pincock@etamu.edu (903) 468-
+• Natnael Amare Assistant Coach natnael.amare@etamu.edu (903) 468-
+• Peter Santo Assistant Coach peter.santo@etamu.edu
+• Ashley Gordon Head Coach ashley.gordon@etamu.edu (903) 886-
+• Luca Crivellari Assistant Coach luca.crivellari@etamu.edu (903) 886-
+• Steven Cooney Assistant Coach - Goalkeepers steven.cooney@etamu.edu (903) 886-
+• Brittany Miller Head Coach brittany.miller@etamu.edu (903) 468-
+• Crystl Bustos Assistant Coach crystl.bustos@etamu.edu (903) 468-
+• Josh Reeves Assistant Coach josh.reeves@etamu.edu
+• George Pincock Head Coach george.pincock@etamu.edu (903) 468-
+• Rock Light Assistant Coach rock.light@etamu.edu (903) 468-
+• Armani Smith Assistant Coach armani.smith@etamu.edu
+• Natnael Amare Assistant Coach natnael.amare@etamu.edu (903) 468-
+• Joe Morales Head Coach joe.morales@etamu.edu (903) 886-
+• Emily Witt Assistant Coach emily.witt@etamu.edu (903) 468-

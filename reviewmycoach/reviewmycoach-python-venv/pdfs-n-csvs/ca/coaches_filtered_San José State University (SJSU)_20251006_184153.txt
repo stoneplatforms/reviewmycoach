@@ -1,0 +1,342 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:53
+============================================================
+
+Total coaches found: 55
+
+PARSED ENTRIES:
+----------------------------------------
+1. Academic Coach
+   Email: danica.burge@sjsu.edu
+   Username: danica.burge
+   Original line: Academic Coach danica.burge@sjsu.edu
+
+2. Anna Johnson
+   Email: Anna.johnson01@sjsu.edu
+   Username: Anna.johnson01
+   Original line: Anna Johnson Academic Coach Anna.johnson01@sjsu.edu
+
+3. Academic Coach
+   Email: therren.wilburn@sjsu.edu
+   Username: therren.wilburn
+   Original line: Academic Coach therren.wilburn@sjsu.edu
+
+4. Brad Sanfilippo
+   Email: brad.sanfilippo@sjsu.edu
+   Username: brad.sanfilippo
+   Original line: Brad Sanfilippo Head Coach brad.sanfilippo@sjsu.edu
+
+5. Thomas Walker
+   Email: thomas.walker@sjsu.edu
+   Username: thomas.walker
+   Original line: Thomas Walker Assistant Coach thomas.walker@sjsu.edu
+
+6. Joshua Pike
+   Email: josh.pike@sjsu.edu
+   Username: josh.pike
+   Original line: Joshua Pike Assistant Coach josh.pike@sjsu.edu
+
+7. Jarron Silva
+   Email: jarron.silva@sjsu.edu
+   Username: jarron.silva
+   Original line: Jarron Silva Assistant coach jarron.silva@sjsu.edu
+
+8. Tim Marrion
+   Email: tim.marrion@sjsu.edu
+   Username: tim.marrion
+   Original line: Tim Marrion Assistant Coach/Director of Operations tim.marrion@sjsu.edu
+
+9. Assistant Coach
+   Email: damany.hendrix@sjsu.edu
+   Username: damany.hendrix
+   Original line: Assistant Coach damany.hendrix@sjsu.edu
+
+10. Jeff Strohm
+   Email: jeff.strohm@sjsu.edu
+   Username: jeff.strohm
+   Original line: Jeff Strohm Assistant Coach jeff.strohm@sjsu.edu
+
+11. Ed Gipson
+   Email: ed.gipson@sjsu.edu
+   Username: ed.gipson
+   Original line: Ed Gipson Assistant Coach ed.gipson@sjsu.edu
+
+12. Jack Townsend
+   Email: jack.townsend@sjsu.edu
+   Username: jack.townsend
+   Original line: Jack Townsend Assistant Coach/Video Coordinator jack.townsend@sjsu.edu
+
+13. Head Coach
+   Email: jonas.chatterton@sjsu.edu
+   Username: jonas.chatterton
+   Original line: Head Coach jonas.chatterton@sjsu.edu
+
+14. Emily Codding
+   Email: emily.codding@sjsu.edu
+   Username: emily.codding
+   Original line: Emily Codding Assistant Coach emily.codding@sjsu.edu
+
+15. Jaime Gluesing
+   Email: jaime.gluesing@sjsu.edu
+   Username: jaime.gluesing
+   Original line: Jaime Gluesing Assistant Coach jaime.gluesing@sjsu.edu
+
+16. Gary Hodge
+   Email: gary.hodge@sjsu.edu
+   Username: gary.hodge
+   Original line: Gary Hodge Head Coach gary.hodge@sjsu.edu
+
+17. Head Cheer
+   Email: heather.gallegos@sjsu.edu
+   Username: heather.gallegos
+   Original line: Head Cheer Coach heather.gallegos@sjsu.edu
+
+18. David Verburg
+   Email: david.verburg@sjsu.edu
+   Username: david.verburg
+   Original line: David Verburg Assistant Coach david.verburg@sjsu.edu
+
+19. Head Coach
+   Email: clesi.crochet@sjsu.edu
+   Username: clesi.crochet
+   Original line: Head Coach clesi.crochet@sjsu.edu
+
+20. Greg Burns
+   Email: gregory.burns@sjsu.edu
+   Username: gregory.burns
+   Original line: Greg Burns Cornerbacks Coach gregory.burns@sjsu.edu
+
+21. John Estes
+   Email: john.estes@sjsu.edu
+   Username: john.estes
+   Original line: John Estes Offensive Line Coach john.estes@sjsu.edu
+
+22. Josh Irvin
+   Email: joshua.irvin@sjsu.edu
+   Username: joshua.irvin
+   Original line: Josh Irvin Outside Linebackers Coach joshua.irvin@sjsu.edu
+
+23. Al Lapuaho
+   Email: al.lapuaho@sjsu.edu
+   Username: al.lapuaho
+   Original line: Al Lapuaho Defensive Line Coach al.lapuaho@sjsu.edu
+
+24. Michael Smith
+   Email: michael.smith@sjsu.edu
+   Username: michael.smith
+   Original line: Michael Smith Running Backs Coach michael.smith@sjsu.edu
+
+25. Wide Receivers
+   Email: billyray.stutzmann@sjsu.edu
+   Username: billyray.stutzmann
+   Original line: Wide Receivers Coach billyray.stutzmann@sjsu.edu
+
+26. John Kennaday
+   Email: john.kennaday@sjsu.edu
+   Username: john.kennaday
+   Phone: 924-1251
+   Original line: John Kennaday Head Coach john.kennaday@sjsu.edu 924-1251
+
+27. Dana Dormann
+   Email: dana.dormann@sjsu.edu
+   Username: dana.dormann
+   Original line: Dana Dormann Head Coach dana.dormann@sjsu.edu
+
+28. Lane Pulliam
+   Email: lane.pulliam@sjsu.edu
+   Username: lane.pulliam
+   Original line: Lane Pulliam Associate Head Coach lane.pulliam@sjsu.edu
+
+29. Joanne Bowers
+   Email: joanne.bowers@sjsu.edu
+   Username: joanne.bowers
+   Original line: Joanne Bowers Head Coach joanne.bowers@sjsu.edu
+
+30. Neal Gallant
+   Email: neal.gallant@sjsu.edu
+   Username: neal.gallant
+   Original line: Neal Gallant Assistant Coach neal.gallant@sjsu.edu
+
+31. Tucker McClure
+   Email: tucker.mcclure@sjsu.edu
+   Username: tucker.mcclure
+   Original line: Tucker McClure Assistant Coach tucker.mcclure@sjsu.edu
+
+32. Simon Tobin
+   Email: simon.tobin@sjsu.edu
+   Username: simon.tobin
+   Original line: Simon Tobin Head Coach simon.tobin@sjsu.edu
+
+33. Jesus Sanchez
+   Email: jesus.a.sanchez@sjsu.edu
+   Username: jesus.a.sanchez
+   Original line: Jesus Sanchez Assistant Coach jesus.a.sanchez@sjsu.edu
+
+34. Jamie Reid
+   Email: jamie.reid@sjsu.edu
+   Username: jamie.reid
+   Original line: Jamie Reid Assistant Coach jamie.reid@sjsu.edu
+
+35. Marcos Oliveira
+   Email: Marcos.oliveira@sjsu.edu
+   Username: Marcos.oliveira
+   Original line: Marcos Oliveira Assistant Coach Marcos.oliveira@sjsu.edu
+
+36. Sonia Curvelo
+   Email: sonia.curvelo@sjsu.edu
+   Username: sonia.curvelo
+   Original line: Sonia Curvelo Head Coach sonia.curvelo@sjsu.edu
+
+37. Oscar Mendoza
+   Email: oscar.mendoza@sjsu.edu
+   Username: oscar.mendoza
+   Original line: Oscar Mendoza Assistant Coach oscar.mendoza@sjsu.edu
+
+38. Assistant Coach
+   Email: darriell.franklin@sjsu.edu
+   Username: darriell.franklin
+   Original line: Assistant Coach darriell.franklin@sjsu.edu
+
+39. Interim Goalkeeping
+   Email: roberto.rodriguez@sjsu.edu
+   Username: roberto.rodriguez
+   Original line: Interim Goalkeeping Coach roberto.rodriguez@sjsu.edu
+
+40. Head Coach
+   Email: tammy.lohmann@sjsu.edu
+   Username: tammy.lohmann
+   Original line: Head Coach tammy.lohmann@sjsu.edu
+
+41. Aaron Moore
+   Email: aaron.moore@sjsu.edu
+   Username: aaron.moore
+   Original line: Aaron Moore Assistant Coach aaron.moore@sjsu.edu
+
+42. Sage Hopkins
+   Email: sage.hopkins@sjsu.edu
+   Username: sage.hopkins
+   Original line: Sage Hopkins Head Coach sage.hopkins@sjsu.edu
+
+43. Hailey Grotte
+   Email: hailey.grotte@sjsu.edu
+   Username: hailey.grotte
+   Original line: Hailey Grotte Assistant Coach hailey.grotte@sjsu.edu
+
+44. Chad Skorupka
+   Email: chad.skorupka@sjsu.edu
+   Username: chad.skorupka
+   Original line: Chad Skorupka Head Coach chad.skorupka@sjsu.edu
+
+45. Jovana Babic
+   Email: jovana.babic@sjsu.edu
+   Username: jovana.babic
+   Original line: Jovana Babic Graduate Assistant Coach jovana.babic@sjsu.edu
+
+46. Associate Head
+   Email: lamont.johnson@sjsu.edu
+   Username: lamont.johnson
+   Original line: Associate Head Coach lamont.johnson@sjsu.edu
+
+47. Tianna Madison
+   Email: tianna.madison@sjsu.edu
+   Username: tianna.madison
+   Original line: Tianna Madison Assistant Coach tianna.madison@sjsu.edu
+
+48. David Verburg
+   Email: david.verburg@sjsu.edu
+   Username: david.verburg
+   Original line: David Verburg Assistant Coach david.verburg@sjsu.edu
+
+49. Todd Kress
+   Email: todd.kress@sjsu.edu
+   Username: todd.kress
+   Original line: Todd Kress Head Volleyball Coach todd.kress@sjsu.edu
+
+50. Yazmin Pitpit
+   Email: yazmin.pitpit@sjsu.edu
+   Username: yazmin.pitpit
+   Original line: Yazmin Pitpit Assistant Coach/Recruiting Coordinator yazmin.pitpit@sjsu.edu
+
+51. Albert Ahedo
+   Email: albert.ahedo@sjsu.edu
+   Username: albert.ahedo
+   Original line: Albert Ahedo Associate Head Coach albert.ahedo@sjsu.edu
+
+52. Gabor Sarusi
+   Email: gabor.sarusi@sjsu.edu
+   Username: gabor.sarusi
+   Original line: Gabor Sarusi Head Coach gabor.sarusi@sjsu.edu
+
+53. Brad Fry
+   Email: brad.fry@sjsu.edu
+   Username: brad.fry
+   Original line: Brad Fry Assistant Coach brad.fry@sjsu.edu
+
+54. Beth Harberts
+   Email: beth.harberts@sjsu.edu
+   Username: beth.harberts
+   Original line: Beth Harberts Head Coach beth.harberts@sjsu.edu
+
+55. Cristian Tanase
+   Email: cristianmarian.tanase@sjsu.edu
+   Username: cristianmarian.tanase
+   Original line: Cristian Tanase Assistant Coach/Director of Operations cristianmarian.tanase@sjsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Academic Coach danica.burge@sjsu.edu
+• Anna Johnson Academic Coach Anna.johnson01@sjsu.edu
+• Academic Coach therren.wilburn@sjsu.edu
+• Brad Sanfilippo Head Coach brad.sanfilippo@sjsu.edu
+• Thomas Walker Assistant Coach thomas.walker@sjsu.edu
+• Joshua Pike Assistant Coach josh.pike@sjsu.edu
+• Jarron Silva Assistant coach jarron.silva@sjsu.edu
+• Tim Marrion Assistant Coach/Director of Operations tim.marrion@sjsu.edu
+• Assistant Coach damany.hendrix@sjsu.edu
+• Jeff Strohm Assistant Coach jeff.strohm@sjsu.edu
+• Ed Gipson Assistant Coach ed.gipson@sjsu.edu
+• Jack Townsend Assistant Coach/Video Coordinator jack.townsend@sjsu.edu
+• Head Coach jonas.chatterton@sjsu.edu
+• Emily Codding Assistant Coach emily.codding@sjsu.edu
+• Jaime Gluesing Assistant Coach jaime.gluesing@sjsu.edu
+• Gary Hodge Head Coach gary.hodge@sjsu.edu
+• Head Cheer Coach heather.gallegos@sjsu.edu
+• David Verburg Assistant Coach david.verburg@sjsu.edu
+• Head Coach clesi.crochet@sjsu.edu
+• Greg Burns Cornerbacks Coach gregory.burns@sjsu.edu
+• John Estes Offensive Line Coach john.estes@sjsu.edu
+• Josh Irvin Outside Linebackers Coach joshua.irvin@sjsu.edu
+• Al Lapuaho Defensive Line Coach al.lapuaho@sjsu.edu
+• Michael Smith Running Backs Coach michael.smith@sjsu.edu
+• Wide Receivers Coach billyray.stutzmann@sjsu.edu
+• John Kennaday Head Coach john.kennaday@sjsu.edu 924-1251
+• Dana Dormann Head Coach dana.dormann@sjsu.edu
+• Lane Pulliam Associate Head Coach lane.pulliam@sjsu.edu
+• Joanne Bowers Head Coach joanne.bowers@sjsu.edu
+• Neal Gallant Assistant Coach neal.gallant@sjsu.edu
+• Tucker McClure Assistant Coach tucker.mcclure@sjsu.edu
+• Simon Tobin Head Coach simon.tobin@sjsu.edu
+• Jesus Sanchez Assistant Coach jesus.a.sanchez@sjsu.edu
+• Jamie Reid Assistant Coach jamie.reid@sjsu.edu
+• Marcos Oliveira Assistant Coach Marcos.oliveira@sjsu.edu
+• Sonia Curvelo Head Coach sonia.curvelo@sjsu.edu
+• Oscar Mendoza Assistant Coach oscar.mendoza@sjsu.edu
+• Assistant Coach darriell.franklin@sjsu.edu
+• Interim Goalkeeping Coach roberto.rodriguez@sjsu.edu
+• Head Coach tammy.lohmann@sjsu.edu
+• Aaron Moore Assistant Coach aaron.moore@sjsu.edu
+• Sage Hopkins Head Coach sage.hopkins@sjsu.edu
+• Hailey Grotte Assistant Coach hailey.grotte@sjsu.edu
+• Chad Skorupka Head Coach chad.skorupka@sjsu.edu
+• Jovana Babic Graduate Assistant Coach jovana.babic@sjsu.edu
+• Associate Head Coach lamont.johnson@sjsu.edu
+• Tianna Madison Assistant Coach tianna.madison@sjsu.edu
+• David Verburg Assistant Coach david.verburg@sjsu.edu
+• Todd Kress Head Volleyball Coach todd.kress@sjsu.edu
+• Yazmin Pitpit Assistant Coach/Recruiting Coordinator yazmin.pitpit@sjsu.edu
+• Albert Ahedo Associate Head Coach albert.ahedo@sjsu.edu
+• Gabor Sarusi Head Coach gabor.sarusi@sjsu.edu
+• Brad Fry Assistant Coach brad.fry@sjsu.edu
+• Beth Harberts Head Coach beth.harberts@sjsu.edu
+• Cristian Tanase Assistant Coach/Director of Operations cristianmarian.tanase@sjsu.edu

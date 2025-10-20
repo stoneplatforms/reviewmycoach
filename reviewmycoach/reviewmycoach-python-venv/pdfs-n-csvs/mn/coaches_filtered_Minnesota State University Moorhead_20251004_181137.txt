@@ -1,0 +1,269 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:37
+============================================================
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Trevor Barry
+   Email: trevor.barry@mnstate.edu
+   Username: trevor.barry
+   Original line: Trevor Barry Assistant Coach -- Jumps and Sprints/Athletics Diversity & Inclusion trevor.barry@mnstate.edu
+
+2. Phil Herkenhoff
+   Email: philip.herkenhoff@mnstate.edu
+   Username: philip.herkenhoff
+   Original line: Phil Herkenhoff Sanford Head Strength and Conditioning Coach philip.herkenhoff@mnstate.edu
+
+3. Jason Kemp
+   Email: jason.kemp@mnstate.edu
+   Username: jason.kemp
+   Original line: Jason Kemp Head Men's Basketball Coach jason.kemp@mnstate.edu 218-477-
+
+4. Sean Suchomel
+   Email: sean.suchomel@mnstate.edu
+   Username: sean.suchomel
+   Original line: Sean Suchomel Assistant Coach sean.suchomel@mnstate.edu
+
+5. Jack Thompson
+   Email: john.thompson@mnstate.edu
+   Username: john.thompson
+   Original line: Jack Thompson Assistant Coach john.thompson@mnstate.edu
+
+6. Karla Nelson
+   Email: nelsnkar@mnstate.edu
+   Username: nelsnkar
+   Original line: Karla Nelson Head Women's Basketball Coach nelsnkar@mnstate.edu 218-477-
+
+7. Allison Swenson
+   Email: allison.swenson@mnstate.edu
+   Username: allison.swenson
+   Original line: Allison Swenson Associate Head Women's Basketball Coach allison.swenson@mnstate.edu 218-477-
+
+8. DJ Davis
+   Email: deja.davis@go.mnstate.edu
+   Username: deja.davis
+   Original line: DJ Davis Graduate Assistant Coach deja.davis@go.mnstate.edu
+
+9. Ryan Milner
+   Email: ryan.milner@mnstate.edu
+   Username: ryan.milner
+   Original line: Ryan Milner Head Track & Field/Cross Country Coach ryan.milner@mnstate.edu 218-477-
+
+10. Chris Needham
+   Email: needhamch@mnstate.edu
+   Username: needhamch
+   Original line: Chris Needham Assistant Head Coach/Director of Recruiting needhamch@mnstate.edu 701-893-
+
+11. Jesse Currier
+   Email: jesse.currier@mnstate.edu
+   Username: jesse.currier
+   Original line: Jesse Currier Defensive Coordinator/Defensive Line Coach jesse.currier@mnstate.edu
+
+12. Abe Roehrich
+   Email: roehrichab@mnstate.edu
+   Username: roehrichab
+   Original line: Abe Roehrich Defensive Backs Coach and Special Teams Coordinator roehrichab@mnstate.edu
+
+13. Taylor James
+   Email: taylor.james@mnstate.edu
+   Username: taylor.james
+   Original line: Taylor James Linebackers Coach taylor.james@mnstate.edu
+
+14. Justin Czech
+   Email: justin.czech@mnstate.edu
+   Username: justin.czech
+   Original line: Justin Czech Quarterbacks Coach justin.czech@mnstate.edu
+
+15. A.J. Scott
+   Email: ashton.scott@mnstate.edu
+   Username: ashton.scott
+   Original line: A.J. Scott Offensive Line and Tight Ends Coach ashton.scott@mnstate.edu
+
+16. Mark Martin
+   Email: mark.martin@mnstate.edu
+   Username: mark.martin
+   Original line: Mark Martin Wide Receivers Coach mark.martin@mnstate.edu
+
+17. Cody Cooper
+   Email: cody.cooper@mnstate.edu
+   Username: cody.cooper
+   Original line: Cody Cooper Assistant Defensive Backs Coach cody.cooper@mnstate.edu
+
+18. Eli Baasch
+   Email: elijah.baasch@go.mnstate.edu
+   Username: elijah.baasch
+   Original line: Eli Baasch Running Backs Coach elijah.baasch@go.mnstate.edu
+
+19. Phil Herkenhoff
+   Email: philip.herkenhoff@mnstate.edu
+   Username: philip.herkenhoff
+   Original line: Phil Herkenhoff Sanford Head Strength and Conditioning Coach philip.herkenhoff@mnstate.edu
+
+20. Brock Ellingson
+   Email: brock.ellingson@mnstate.edu
+   Username: brock.ellingson
+   Original line: Brock Ellingson Head Women's Golf Coach brock.ellingson@mnstate.edu
+
+21. Scott Forster
+   Email: scott.forster@mnstate.edu
+   Username: scott.forster
+   Original line: Scott Forster Head Soccer Coach scott.forster@mnstate.edu
+
+22. Richard Pearce
+   Email: richard.pearce@mnstate.edu
+   Username: richard.pearce
+   Original line: Richard Pearce Associate Head Soccer Coach richard.pearce@mnstate.edu
+
+23. Hallie Vervair
+   Email: hallie.vervair@mnstate.edu
+   Username: hallie.vervair
+   Original line: Hallie Vervair Assistant Soccer Coach hallie.vervair@mnstate.edu
+
+24. Vanessa Kellems
+   Email: vanessa.kellems@mnstate.edu
+   Username: vanessa.kellems
+   Original line: Vanessa Kellems Head Softball Coach vanessa.kellems@mnstate.edu
+
+25. Samantha Whitworth
+   Email: samantha.whitworth@mnstate.edu
+   Username: samantha.whitworth
+   Original line: Samantha Whitworth Assistant Coach samantha.whitworth@mnstate.edu
+
+26. John Lucero
+   Email: john.lucero@mnstate.edu
+   Username: john.lucero
+   Original line: John Lucero Assistant Softball Coach john.lucero@mnstate.edu
+
+27. Charlie King
+   Email: charles.king@mnstate.edu
+   Username: charles.king
+   Original line: Charlie King Head Swimming and Diving Coach charles.king@mnstate.edu 218-477-
+
+28. Beka Horejsi
+   Email: rebekah.stone@mnstate.edu
+   Username: rebekah.stone
+   Original line: Beka Horejsi Assistant Diving Coach rebekah.stone@mnstate.edu
+
+29. Natalie Bohnert
+   Email: natalie.bohnert@mnstate.edu
+   Username: natalie.bohnert
+   Original line: Natalie Bohnert Assistant Swimming Coach natalie.bohnert@mnstate.edu
+
+30. Damien O'Donnell
+   Email: damien.odonnell@mnstate.edu
+   Username: damien.odonnell
+   Original line: Damien O'Donnell Head Women's Tennis Coach damien.odonnell@mnstate.edu
+
+31. Ryan Milner
+   Email: ryan.milner@mnstate.edu
+   Username: ryan.milner
+   Original line: Ryan Milner Head Track & Field/Cross Country Coach ryan.milner@mnstate.edu 218-477-
+
+32. Trevor Barry
+   Email: trevor.barry@mnstate.edu
+   Username: trevor.barry
+   Original line: Trevor Barry Assistant Coach -- Jumps and Sprints/Athletics Diversity & Inclusion trevor.barry@mnstate.edu
+
+33. Anthony Spandl
+   Email: anthony.spandl@mnstate.edu
+   Username: anthony.spandl
+   Original line: Anthony Spandl Assistant Coach - Pole Vault anthony.spandl@mnstate.edu
+
+34. Payton Packer
+   Email: payton.packer@mnstate.edu
+   Username: payton.packer
+   Original line: Payton Packer Assistant Coach - Throws payton.packer@mnstate.edu
+
+35. Kari Thompson
+   Email: kari.thompson@mnstate.edu
+   Username: kari.thompson
+   Original line: Kari Thompson Head Volleyball Coach kari.thompson@mnstate.edu 218-477-
+
+36. Chloe Solum
+   Email: chloe.solum@mnstate.edu
+   Username: chloe.solum
+   Original line: Chloe Solum Assistant Volleyball Coach chloe.solum@mnstate.edu 218-477-
+
+37. Monica Vega
+   Email: monica.vega@mnstate.edu
+   Username: monica.vega
+   Original line: Monica Vega Assistant Volleyball Coach monica.vega@mnstate.edu
+
+38. Kennedy Geller
+   Email: kennedy.geller@mnstate.edu
+   Username: kennedy.geller
+   Original line: Kennedy Geller Volunteer Assistant Coach kennedy.geller@mnstate.edu
+
+39. Kris Nelson
+   Email: nelsonkris@mnstate.edu
+   Username: nelsonkris
+   Original line: Kris Nelson Head Wrestling Coach nelsonkris@mnstate.edu
+
+40. Caden Steffen
+   Email: caden.steffen@mnstate.edu
+   Username: caden.steffen
+   Original line: Caden Steffen Assistant Wrestling Coach caden.steffen@mnstate.edu
+
+41. Tommy Walton
+   Email: thomas.walton@go.mnstate.edu
+   Username: thomas.walton
+   Original line: Tommy Walton Assistant Wrestling Coach thomas.walton@go.mnstate.edu
+
+42. Justin Solberg
+   Email: justin.solberg@mnstate.edu
+   Username: justin.solberg
+   Original line: Justin Solberg Assistant Wrestling Coach justin.solberg@mnstate.edu
+
+43. Hillary Ehlen
+   Email: hillary.ehlen@mnstate.edu
+   Username: hillary.ehlen
+   Original line: Hillary Ehlen Head Dance Coach hillary.ehlen@mnstate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Trevor Barry Assistant Coach -- Jumps and Sprints/Athletics Diversity & Inclusion trevor.barry@mnstate.edu
+• Phil Herkenhoff Sanford Head Strength and Conditioning Coach philip.herkenhoff@mnstate.edu
+• Jason Kemp Head Men's Basketball Coach jason.kemp@mnstate.edu 218-477-
+• Sean Suchomel Assistant Coach sean.suchomel@mnstate.edu
+• Jack Thompson Assistant Coach john.thompson@mnstate.edu
+• Karla Nelson Head Women's Basketball Coach nelsnkar@mnstate.edu 218-477-
+• Allison Swenson Associate Head Women's Basketball Coach allison.swenson@mnstate.edu 218-477-
+• DJ Davis Graduate Assistant Coach deja.davis@go.mnstate.edu
+• Ryan Milner Head Track & Field/Cross Country Coach ryan.milner@mnstate.edu 218-477-
+• Chris Needham Assistant Head Coach/Director of Recruiting needhamch@mnstate.edu 701-893-
+• Jesse Currier Defensive Coordinator/Defensive Line Coach jesse.currier@mnstate.edu
+• Abe Roehrich Defensive Backs Coach and Special Teams Coordinator roehrichab@mnstate.edu
+• Taylor James Linebackers Coach taylor.james@mnstate.edu
+• Justin Czech Quarterbacks Coach justin.czech@mnstate.edu
+• A.J. Scott Offensive Line and Tight Ends Coach ashton.scott@mnstate.edu
+• Mark Martin Wide Receivers Coach mark.martin@mnstate.edu
+• Cody Cooper Assistant Defensive Backs Coach cody.cooper@mnstate.edu
+• Eli Baasch Running Backs Coach elijah.baasch@go.mnstate.edu
+• Phil Herkenhoff Sanford Head Strength and Conditioning Coach philip.herkenhoff@mnstate.edu
+• Brock Ellingson Head Women's Golf Coach brock.ellingson@mnstate.edu
+• Scott Forster Head Soccer Coach scott.forster@mnstate.edu
+• Richard Pearce Associate Head Soccer Coach richard.pearce@mnstate.edu
+• Hallie Vervair Assistant Soccer Coach hallie.vervair@mnstate.edu
+• Vanessa Kellems Head Softball Coach vanessa.kellems@mnstate.edu
+• Samantha Whitworth Assistant Coach samantha.whitworth@mnstate.edu
+• John Lucero Assistant Softball Coach john.lucero@mnstate.edu
+• Charlie King Head Swimming and Diving Coach charles.king@mnstate.edu 218-477-
+• Beka Horejsi Assistant Diving Coach rebekah.stone@mnstate.edu
+• Natalie Bohnert Assistant Swimming Coach natalie.bohnert@mnstate.edu
+• Damien O'Donnell Head Women's Tennis Coach damien.odonnell@mnstate.edu
+• Ryan Milner Head Track & Field/Cross Country Coach ryan.milner@mnstate.edu 218-477-
+• Trevor Barry Assistant Coach -- Jumps and Sprints/Athletics Diversity & Inclusion trevor.barry@mnstate.edu
+• Anthony Spandl Assistant Coach - Pole Vault anthony.spandl@mnstate.edu
+• Payton Packer Assistant Coach - Throws payton.packer@mnstate.edu
+• Kari Thompson Head Volleyball Coach kari.thompson@mnstate.edu 218-477-
+• Chloe Solum Assistant Volleyball Coach chloe.solum@mnstate.edu 218-477-
+• Monica Vega Assistant Volleyball Coach monica.vega@mnstate.edu
+• Kennedy Geller Volunteer Assistant Coach kennedy.geller@mnstate.edu
+• Kris Nelson Head Wrestling Coach nelsonkris@mnstate.edu
+• Caden Steffen Assistant Wrestling Coach caden.steffen@mnstate.edu
+• Tommy Walton Assistant Wrestling Coach thomas.walton@go.mnstate.edu
+• Justin Solberg Assistant Wrestling Coach justin.solberg@mnstate.edu
+• Hillary Ehlen Head Dance Coach hillary.ehlen@mnstate.edu

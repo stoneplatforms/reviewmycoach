@@ -1,0 +1,233 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:18
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Maggie Smith
+   Email: smithm17@nku.edu
+   Username: smithm17
+   Original line: Maggie Smith Assistant Strength & Conditioning Coach smithm17@nku.edu
+
+2. Dizzy Peyton
+   Email: nkubaseball@nku.edu
+   Username: nkubaseball
+   Original line: Dizzy Peyton Head Baseball Coach nkubaseball@nku.edu
+
+3. Steve Dintaman
+   Email: nkubaseball@nku.edu
+   Username: nkubaseball
+   Original line: Steve Dintaman Associate Head Baseball Coach/Recruiting nkubaseball@nku.edu (859) 572-
+
+4. Andrew Elliott
+   Email: nkubaseball@nku.edu
+   Username: nkubaseball
+   Original line: Andrew Elliott Assistant Baseball Coach nkubaseball@nku.edu
+
+5. Simon McCormack
+   Email: mccormacks1@nku.edu
+   Username: mccormacks1
+   Original line: Simon McCormack Assistant Men's Basketball Coach mccormacks1@nku.edu
+
+6. David Harris
+   Email: harrisd21@nku.edu
+   Username: harrisd21
+   Original line: David Harris Assistant Men's Basketball Coach harrisd21@nku.edu
+
+7. R.J. Evans
+   Email: evansr11@nku.edu
+   Username: evansr11
+   Original line: R.J. Evans Assistant Men's Basketball Coach evansr11@nku.edu
+
+8. Ryan Peterson
+   Email: petersonr4@nku.edu
+   Username: petersonr4
+   Original line: Ryan Peterson Assistant Coach/Player Development petersonr4@nku.edu
+
+9. Molly Bateman
+   Email: batemanm2@nku.edu
+   Username: batemanm2
+   Original line: Molly Bateman Assistant Women's Basketball Coach/Recruiting batemanm2@nku.edu
+
+10. Gabby Johnson
+   Email: johnsong6@nku.edu
+   Username: johnsong6
+   Original line: Gabby Johnson Assistant Women's Basketball Coach johnsong6@nku.edu
+
+11. Brenden Stowers
+   Email: stowersb@nku.edu
+   Username: stowersb
+   Original line: Brenden Stowers Assistant Women's Basketball Coach stowersb@nku.edu
+
+12. Steve Kruse
+   Email: kruses@nku.edu
+   Username: kruses
+   Original line: Steve Kruse Cross Country/Track & Field Head Coach kruses@nku.edu (859) 572-
+
+13. Paul Longano
+   Email: longanot1@nku.edu
+   Username: longanot1
+   Original line: Paul Longano Associate Head Coach longanot1@nku.edu
+
+14. Pamilla (P.J.)
+   Email: ballp1@nku.edu
+   Username: ballp1
+   Original line: Pamilla (P.J.) Ball XC/Track & Field Assistant Coach ballp1@nku.edu
+
+15. Brooks Rexroat
+   Email: rexroatb3@nku.edu
+   Username: rexroatb3
+   Original line: Brooks Rexroat Assistant Cross Country/Track & Field Coach rexroatb3@nku.edu
+
+16. Brooks Doughtie
+   Email: doughtieb1@nku.edu
+   Username: doughtieb1
+   Original line: Brooks Doughtie Men's and Women's Triathlon Head Coach doughtieb1@nku.edu 252-452-
+
+17. David Shearer
+   Email: shearerd@nku.edu
+   Username: shearerd
+   Original line: David Shearer Head Men's and Women's Golf Coach shearerd@nku.edu
+
+18. David Shearer
+   Email: shearerd@nku.edu
+   Username: shearerd
+   Original line: David Shearer Head Men's and Women's Golf Coach shearerd@nku.edu
+
+19. Melissa Yeazell
+   Email: yeazellm2@nku.edu
+   Username: yeazellm2
+   Original line: Melissa Yeazell Associate Head Coach yeazellm2@nku.edu
+
+20. Tom Poitras
+   Email: poitrast1@nku.edu
+   Username: poitrast1
+   Original line: Tom Poitras Head Men's Soccer Coach poitrast1@nku.edu (859) 448-
+
+21. Robby Frye
+   Email: fryer3@nku.edu
+   Username: fryer3
+   Original line: Robby Frye Assistant Coach fryer3@nku.edu
+
+22. Sergi Martinez
+   Email: martinezs7@nku.edu
+   Username: martinezs7
+   Original line: Sergi Martinez Assistant Coach martinezs7@nku.edu
+
+23. Bob Sheehan
+   Email: sheehanr@nku.edu
+   Username: sheehanr
+   Original line: Bob Sheehan Women's Soccer Head Coach sheehanr@nku.edu (859) 448-
+
+24. Morgan Gerak
+   Email: gerakm4@nku.edu
+   Username: gerakm4
+   Original line: Morgan Gerak Head Softball Coach gerakm4@nku.edu
+
+25. Maddie Lacer
+   Email: lacerm1@nku.edu
+   Username: lacerm1
+   Original line: Maddie Lacer Assistant Coach lacerm1@nku.edu
+
+26. Shayla Myles-Aaron
+   Email: myless@nku.edu
+   Username: myless
+   Original line: Shayla Myles-Aaron STUNT Head Coach myless@nku.edu 859-803-
+
+27. Brian Nester
+   Email: nesterb1@nku.edu
+   Username: nesterb1
+   Original line: Brian Nester Tennis Head Coach nesterb1@nku.edu
+
+28. Brandon Ponomarew
+   Email: ponomarewb2@nku.edu
+   Username: ponomarewb2
+   Original line: Brandon Ponomarew Assistant Men's Tennis Coach ponomarewb2@nku.edu
+
+29. Jim Palilonis
+   Email: palilonisj1@nku.edu
+   Username: palilonisj1
+   Original line: Jim Palilonis Men's Volleyball Head Coach palilonisj1@nku.edu (765) 517-
+
+30. Jordan Little
+   Email: littlej11@nku.edu
+   Username: littlej11
+   Original line: Jordan Little Assistant Men's Volleyball Coach littlej11@nku.edu
+
+31. Liz Hart
+   Email: harte5@nku.edu
+   Username: harte5
+   Original line: Liz Hart Women's Volleyball Head Coach harte5@nku.edu
+
+32. Jake Neiheisel
+   Email: neiheiselj2@nku.edu
+   Username: neiheiselj2
+   Original line: Jake Neiheisel Assistant Women's Volleyball Coach neiheiselj2@nku.edu
+
+33. Miranda Wucherer
+   Email: Wuchererm1@nku.edu
+   Username: Wuchererm1
+   Original line: Miranda Wucherer Assistant Women's Volleyball Coach Wuchererm1@nku.edu
+
+34. Kevin Woodhull-Smith
+   Email: woodhullsk1@nku.edu
+   Username: woodhullsk1
+   Original line: Kevin Woodhull-Smith Men's and Women's Swimming Head Coach woodhullsk1@nku.edu 919-218-
+
+35. Tatum Detwiler
+   Email: detwilert1@nku.edu
+   Username: detwilert1
+   Original line: Tatum Detwiler Assistant Men's & Women's Swimming Coach detwilert1@nku.edu
+
+36. Brooks Doughtie
+   Email: doughtieb1@nku.edu
+   Username: doughtieb1
+   Original line: Brooks Doughtie Men's and Women's Triathlon Head Coach doughtieb1@nku.edu 252-452-
+
+37. Shayla Myles-Aaron
+   Email: myless@nku.edu
+   Username: myless
+   Original line: Shayla Myles-Aaron Cheerleading Head Coach myless@nku.edu 859-803-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Maggie Smith Assistant Strength & Conditioning Coach smithm17@nku.edu
+• Dizzy Peyton Head Baseball Coach nkubaseball@nku.edu
+• Steve Dintaman Associate Head Baseball Coach/Recruiting nkubaseball@nku.edu (859) 572-
+• Andrew Elliott Assistant Baseball Coach nkubaseball@nku.edu
+• Simon McCormack Assistant Men's Basketball Coach mccormacks1@nku.edu
+• David Harris Assistant Men's Basketball Coach harrisd21@nku.edu
+• R.J. Evans Assistant Men's Basketball Coach evansr11@nku.edu
+• Ryan Peterson Assistant Coach/Player Development petersonr4@nku.edu
+• Molly Bateman Assistant Women's Basketball Coach/Recruiting batemanm2@nku.edu
+• Gabby Johnson Assistant Women's Basketball Coach johnsong6@nku.edu
+• Brenden Stowers Assistant Women's Basketball Coach stowersb@nku.edu
+• Steve Kruse Cross Country/Track & Field Head Coach kruses@nku.edu (859) 572-
+• Paul Longano Associate Head Coach longanot1@nku.edu
+• Pamilla (P.J.) Ball XC/Track & Field Assistant Coach ballp1@nku.edu
+• Brooks Rexroat Assistant Cross Country/Track & Field Coach rexroatb3@nku.edu
+• Brooks Doughtie Men's and Women's Triathlon Head Coach doughtieb1@nku.edu 252-452-
+• David Shearer Head Men's and Women's Golf Coach shearerd@nku.edu
+• David Shearer Head Men's and Women's Golf Coach shearerd@nku.edu
+• Melissa Yeazell Associate Head Coach yeazellm2@nku.edu
+• Tom Poitras Head Men's Soccer Coach poitrast1@nku.edu (859) 448-
+• Robby Frye Assistant Coach fryer3@nku.edu
+• Sergi Martinez Assistant Coach martinezs7@nku.edu
+• Bob Sheehan Women's Soccer Head Coach sheehanr@nku.edu (859) 448-
+• Morgan Gerak Head Softball Coach gerakm4@nku.edu
+• Maddie Lacer Assistant Coach lacerm1@nku.edu
+• Shayla Myles-Aaron STUNT Head Coach myless@nku.edu 859-803-
+• Brian Nester Tennis Head Coach nesterb1@nku.edu
+• Brandon Ponomarew Assistant Men's Tennis Coach ponomarewb2@nku.edu
+• Jim Palilonis Men's Volleyball Head Coach palilonisj1@nku.edu (765) 517-
+• Jordan Little Assistant Men's Volleyball Coach littlej11@nku.edu
+• Liz Hart Women's Volleyball Head Coach harte5@nku.edu
+• Jake Neiheisel Assistant Women's Volleyball Coach neiheiselj2@nku.edu
+• Miranda Wucherer Assistant Women's Volleyball Coach Wuchererm1@nku.edu
+• Kevin Woodhull-Smith Men's and Women's Swimming Head Coach woodhullsk1@nku.edu 919-218-
+• Tatum Detwiler Assistant Men's & Women's Swimming Coach detwilert1@nku.edu
+• Brooks Doughtie Men's and Women's Triathlon Head Coach doughtieb1@nku.edu 252-452-
+• Shayla Myles-Aaron Cheerleading Head Coach myless@nku.edu 859-803-

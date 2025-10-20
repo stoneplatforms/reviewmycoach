@@ -1,0 +1,587 @@
+COACH ENTRIES FOUND - 2025-09-27 06:14:41
+============================================================
+
+Total coaches found: 96
+
+PARSED ENTRIES:
+----------------------------------------
+1. Matthew Charest
+   Email: mchar17@mit.edu
+   Username: mchar17
+   Original line: Matthew Charest Assistant Swimming & Diving Coach/Athletics Communications Assistant mchar17@mit.edu 617-254-
+
+2. Steve Brennan
+   Email: brennan1@mit.edu
+   Username: brennan1
+   Original line: Steve Brennan Assistant Varsity Equipment Manager | Assistant Coach (Offensive Coordinator) brennan1@mit.edu 617-253-
+
+3. Andy Byron
+   Email: byrona@mit.edu
+   Username: byrona
+   Original line: Andy Byron Sports Performance Assistant | Assistant Coach (Defensive Line) byrona@mit.edu
+
+4. Chris Morris
+   Email: morrisch@mit.edu
+   Username: morrisch
+   Original line: Chris Morris Head Coach morrisch@mit.edu 617-258-
+
+5. Todd Carroll
+   Email: carroll@mit.edu
+   Username: carroll
+   Original line: Todd Carroll Pitching Coach/Recruiting Coordinator carroll@mit.edu
+
+6. Ryne Rametta
+   Email: ryne978@mit.edu
+   Username: ryne978
+   Original line: Ryne Rametta Assistant Coach ryne978@mit.edu
+
+7. Geoff Phillips
+   Email: geoff558@mit.edu
+   Username: geoff558
+   Original line: Geoff Phillips Assistant Coach geoff558@mit.edu
+
+8. B.J. Dunne
+   Email: bjdunne@mit.edu
+   Username: bjdunne
+   Original line: B.J. Dunne David H. Koch '62 Head Coach bjdunne@mit.edu 617-253-
+
+9. Joey Carroll
+   Email: joeycarr@mit.edu
+   Username: joeycarr
+   Original line: Joey Carroll Assistant Coach joeycarr@mit.edu
+
+10. Owen Carlson
+   Email: ocarlson@mit.edu
+   Username: ocarlson
+   Original line: Owen Carlson Assistant Coach ocarlson@mit.edu
+
+11. Indran Ratnathicam
+   Email: indran@alum.mit.edu
+   Username: indran
+   Original line: Indran Ratnathicam Assistant Coach (Leadership and Alumni Relations) indran@alum.mit.edu
+
+12. Lucia Robinson-Griggs
+   Email: luciarob@mit.edu
+   Username: luciarob
+   Original line: Lucia Robinson-Griggs Head Coach luciarob@mit.edu 617-253-
+
+13. Tony Kilbridge
+   Email: coachk@mit.edu
+   Username: coachk
+   Original line: Tony Kilbridge H.W. McCurdy, '22 Director of Rowing/Head Coach coachk@mit.edu 617-253-
+
+14. Evan Thews-Wassell
+   Email: etw@mit.edu
+   Username: etw
+   Original line: Evan Thews-Wassell Assistant Coach/Recruiting Coordinator etw@mit.edu 617-253-
+
+15. Will Oliver-Milchman
+   Email: w_oliver@mit.edu
+   Username: w_oliver
+   Original line: Will Oliver-Milchman Gerrit Zwart '62 Men's Varsity Lightweight Crew Coach w_oliver@mit.edu 617-253-
+
+16. Erika Sloan
+   Email: easloan@mit.edu
+   Username: easloan
+   Original line: Erika Sloan Richard J. Resch (1961) Assistant Men's Lightweight Coach easloan@mit.edu 617-253-
+
+17. Amelia Patton
+   Email: acbooth@mit.edu
+   Username: acbooth
+   Original line: Amelia Patton Head Coach acbooth@mit.edu 617-324-
+
+18. Kendall Chase
+   Email: k_chase@mit.edu
+   Username: k_chase
+   Original line: Kendall Chase Assistant Coach k_chase@mit.edu
+
+19. Bailey Hughes
+   Email: beehugs@mit.edu
+   Username: beehugs
+   Original line: Bailey Hughes Assistant Coach beehugs@mit.edu
+
+20. Kasey Shashaty
+   Email: kasey64@mit.edu
+   Username: kasey64
+   Original line: Kasey Shashaty Assistant Coach kasey64@mit.edu
+
+21. Holly Metcalf
+   Email: hmetcalf@mit.edu
+   Username: hmetcalf
+   Original line: Holly Metcalf Head Coach hmetcalf@mit.edu 617-258-
+
+22. Matthew Hanig
+   Email: mhanig@mit.edu
+   Username: mhanig
+   Original line: Matthew Hanig Assistant Coach/Recruiting Coordinator mhanig@mit.edu
+
+23. Claire Schnorr
+   Email: cschnorr@mit.edu
+   Username: cschnorr
+   Original line: Claire Schnorr Assistant Coach cschnorr@mit.edu
+
+24. Riley Macon
+   Email: rmacon@mit.edu
+   Username: rmacon
+   Original line: Riley Macon Cross Country Head Coach rmacon@mit.edu
+
+25. Julie Heyde
+   Email: heyde@mit.edu
+   Username: heyde
+   Original line: Julie Heyde Director of Track and Field and Cross Country; Track and Field Head Coach heyde@mit.edu
+
+26. Whitney Macon
+   Email: whitneym@mit.edu
+   Username: whitneym
+   Original line: Whitney Macon Assistant Coach - Distance whitneym@mit.edu
+
+27. Christina Crow
+   Email: ccrow@mit.edu
+   Username: ccrow
+   Original line: Christina Crow Assistant Coach ccrow@mit.edu
+
+28. Ziyad Hassan
+   Email: zhassan3@mit.edu
+   Username: zhassan3
+   Original line: Ziyad Hassan Assistant Coach zhassan3@mit.edu
+
+29. Ned Farrington
+   Email: nedfarri@mit.edu
+   Username: nedfarri
+   Original line: Ned Farrington Assistant Coach nedfarri@mit.edu
+
+30. Riley Macon
+   Email: rmacon@mit.edu
+   Username: rmacon
+   Original line: Riley Macon Cross Country Head Coach rmacon@mit.edu
+
+31. Julie Heyde
+   Email: heyde@mit.edu
+   Username: heyde
+   Original line: Julie Heyde Director of Track and Field and Cross Country; Track and Field Head Coach heyde@mit.edu
+
+32. Whitney Macon
+   Email: whitneym@mit.edu
+   Username: whitneym
+   Original line: Whitney Macon Assistant Coach - Distance whitneym@mit.edu
+
+33. Christina Crow
+   Email: ccrow@mit.edu
+   Username: ccrow
+   Original line: Christina Crow Assistant Coach ccrow@mit.edu
+
+34. Ziyad Hassan
+   Email: zhassan3@mit.edu
+   Username: zhassan3
+   Original line: Ziyad Hassan Assistant Coach zhassan3@mit.edu
+
+35. Ned Farrington
+   Email: nedfarri@mit.edu
+   Username: nedfarri
+   Original line: Ned Farrington Assistant Coach nedfarri@mit.edu
+
+36. Jarek Koniusz
+   Email: jarek@mit.edu
+   Username: jarek
+   Original line: Jarek Koniusz Head Coach jarek@mit.edu 617-258-
+
+37. Arpad Horvath
+   Email: arpika81@mit.edu
+   Username: arpika81
+   Original line: Arpad Horvath Interim Head Coach arpika81@mit.edu
+
+38. Jarek Koniusz
+   Email: jarek@mit.edu
+   Username: jarek
+   Original line: Jarek Koniusz Head Coach jarek@mit.edu 617-258-
+
+39. Arpad Horvath
+   Email: arpika81@mit.edu
+   Username: arpika81
+   Original line: Arpad Horvath Interim Head Coach arpika81@mit.edu
+
+40. Sarah Shute
+   Email: sshute@mit.edu
+   Username: sshute
+   Original line: Sarah Shute Head Coach sshute@mit.edu 617-253-
+
+41. Brian Bubna
+   Email: bbubna@mit.edu
+   Username: bbubna
+   Original line: Brian Bubna Head Coach bbubna@mit.edu 617-715-
+
+42. Steve Brennan
+   Email: brennan1@mit.edu
+   Username: brennan1
+   Original line: Steve Brennan Assistant Varsity Equipment Manager | Assistant Coach (Offensive Coordinator) brennan1@mit.edu 617-253-
+
+43. Al Pogarian
+   Email: alpo@mit.edu
+   Username: alpo
+   Original line: Al Pogarian Assistant Coach (Tight Ends) alpo@mit.edu
+
+44. Andy Byron
+   Email: byrona@mit.edu
+   Username: byrona
+   Original line: Andy Byron Sports Performance Assistant | Assistant Coach (Defensive Line) byrona@mit.edu
+
+45. Devone Williams
+   Email: devone41@mit.edu
+   Username: devone41
+   Original line: Devone Williams Assistant Coach (Defensive Backs/VR Coordinator) devone41@mit.edu
+
+46. Josh Angoff
+   Email: jangoff@mit.edu
+   Username: jangoff
+   Original line: Josh Angoff Assistant Coach (Special Teams Coordinator/Wide Receivers) jangoff@mit.edu
+
+47. Darrin Pearson
+   Email: darrinp@mit.edu
+   Username: darrinp
+   Original line: Darrin Pearson Assistant Coach (Running Backs) darrinp@mit.edu
+
+48. Steve Branch
+   Email: sbranch@mit.edu
+   Username: sbranch
+   Original line: Steve Branch Assistant Coach (Offensive Assistant) sbranch@mit.edu
+
+49. Matt Jung
+   Email: mjung6@mit.edu
+   Username: mjung6
+   Original line: Matt Jung Assistant Coach (Video Assistant) mjung6@mit.edu
+
+50. Tom Nalen
+   Email: tnalen66@mit.edu
+   Username: tnalen66
+   Original line: Tom Nalen Assistant Coach (Offensive Line) tnalen66@mit.edu
+
+51. Robert Ferrazzani
+   Email: rferra@mit.edu
+   Username: rferra
+   Original line: Robert Ferrazzani Assistant Coach (Defensive Quality Control) rferra@mit.edu
+
+52. Tyler O'Keefe
+   Email: okeefet@mit.edu
+   Username: okeefet
+   Original line: Tyler O'Keefe Walter Alessi Head Coach okeefet@mit.edu 617-258-
+
+53. Anne Versprille
+   Email: averspri@mit.edu
+   Username: averspri
+   Original line: Anne Versprille Head Coach averspri@mit.edu 617-715-
+
+54. Melissa Mulloy-Mecozzi
+   Email: m_mulloy@mit.edu
+   Username: m_mulloy
+   Original line: Melissa Mulloy-Mecozzi Head Coach m_mulloy@mit.edu 617-715-
+
+55. Michael Kalin
+   Email: mkalin@mit.edu
+   Username: mkalin
+   Original line: Michael Kalin Head Coach mkalin@mit.edu 617-253-
+
+56. Caroline Young
+   Email: youngcl@mit.edu
+   Username: youngcl
+   Original line: Caroline Young Head Coach youngcl@mit.edu
+
+57. Ken Bovell
+   Email: kbovell@mit.edu
+   Username: kbovell
+   Original line: Ken Bovell Head Coach kbovell@mit.edu 617-253-
+
+58. Gerard Miniaci
+   Email: gminiaci@mit.edu
+   Username: gminiaci
+   Original line: Gerard Miniaci Assistant Coach gminiaci@mit.edu
+
+59. Martin Desmarais
+   Email: mjd@mit.edu
+   Username: mjd
+   Original line: Martin Desmarais Head Coach mjd@mit.edu 617-715-
+
+60. Madison Trotman
+   Email: softball@mit.edu
+   Username: softball
+   Original line: Madison Trotman Head Coach softball@mit.edu
+
+61. Emily Kraytenberg
+   Email: softball@mit.edu
+   Username: softball
+   Original line: Emily Kraytenberg Assistant Coach softball@mit.edu
+
+62. Amanda Genovese
+   Email: softball@mit.edu
+   Username: softball
+   Original line: Amanda Genovese Assistant Coach softball@mit.edu
+
+63. Courtney Zambello
+   Email: softball@mit.edu
+   Username: softball
+   Original line: Courtney Zambello Assistant Coach softball@mit.edu
+
+64. Thierry Lincou
+   Email: tlincou@mit.edu
+   Username: tlincou
+   Original line: Thierry Lincou Head Coach tlincou@mit.edu 617-253-
+
+65. Meg Sisson
+   Email: frenchm@mit.edu
+   Username: frenchm
+   Original line: Meg Sisson French Mary Frances Wagley, '47 Head Coach frenchm@mit.edu 617-253-
+
+66. Matthew Charest
+   Email: mchar17@mit.edu
+   Username: mchar17
+   Original line: Matthew Charest Assistant Swimming & Diving Coach/Athletics Communications Assistant mchar17@mit.edu 617-254-
+
+67. Gabe Bamforth
+   Email: gabe_b@mit.edu
+   Username: gabe_b
+   Original line: Gabe Bamforth Head Diving Coach gabe_b@mit.edu 617-253-
+
+68. Meg Sisson
+   Email: frenchm@mit.edu
+   Username: frenchm
+   Original line: Meg Sisson French Mary Frances Wagley, '47 Head Coach frenchm@mit.edu 617-253-
+
+69. Matthew Charest
+   Email: mchar17@mit.edu
+   Username: mchar17
+   Original line: Matthew Charest Assistant Swimming & Diving Coach/Athletics Communications Assistant mchar17@mit.edu 617-254-
+
+70. Gabe Bamforth
+   Email: gabe_b@mit.edu
+   Username: gabe_b
+   Original line: Gabe Bamforth Head Diving Coach gabe_b@mit.edu 617-253-
+
+71. Dave Hagymas
+   Email: dhagymas@mit.edu
+   Username: dhagymas
+   Original line: Dave Hagymas Head Coach dhagymas@mit.edu 617-258-
+
+72. Carol Matsuzaki
+   Email: handy@mit.edu
+   Username: handy
+   Original line: Carol Matsuzaki Head Coach handy@mit.edu 617-253-
+
+73. Julie Heyde
+   Email: heyde@mit.edu
+   Username: heyde
+   Original line: Julie Heyde Director of Track and Field and Cross Country; Track and Field Head Coach heyde@mit.edu
+
+74. Todd Linder
+   Email: lindert@mit.edu
+   Username: lindert
+   Original line: Todd Linder Associate Head Coach lindert@mit.edu 617-253-
+
+75. Riley Macon
+   Email: rmacon@mit.edu
+   Username: rmacon
+   Original line: Riley Macon Cross Country Head Coach rmacon@mit.edu
+
+76. Liam Ackerman
+   Email: liamack@mit.edu
+   Username: liamack
+   Original line: Liam Ackerman Assistant Coach - Pole Vault liamack@mit.edu
+
+77. Whitney Macon
+   Email: whitneym@mit.edu
+   Username: whitneym
+   Original line: Whitney Macon Assistant Coach - Distance whitneym@mit.edu
+
+78. Christina Crow
+   Email: ccrow@mit.edu
+   Username: ccrow
+   Original line: Christina Crow Assistant Coach ccrow@mit.edu
+
+79. Ziyad Hassan
+   Email: zhassan3@mit.edu
+   Username: zhassan3
+   Original line: Ziyad Hassan Assistant Coach zhassan3@mit.edu
+
+80. Walter Truitt
+   Email: wtruitt@mit.edu
+   Username: wtruitt
+   Original line: Walter Truitt Assistant Coach wtruitt@mit.edu
+
+81. Olivia Dias
+   Email: omdias77@mit.edu
+   Username: omdias77
+   Original line: Olivia Dias Assistant Coach omdias77@mit.edu
+
+82. Julie Heyde
+   Email: heyde@mit.edu
+   Username: heyde
+   Original line: Julie Heyde Director of Track and Field and Cross Country; Track and Field Head Coach heyde@mit.edu
+
+83. Todd Linder
+   Email: lindert@mit.edu
+   Username: lindert
+   Original line: Todd Linder Associate Head Coach lindert@mit.edu 617-253-
+
+84. Riley Macon
+   Email: rmacon@mit.edu
+   Username: rmacon
+   Original line: Riley Macon Cross Country Head Coach rmacon@mit.edu
+
+85. Liam Ackerman
+   Email: liamack@mit.edu
+   Username: liamack
+   Original line: Liam Ackerman Assistant Coach - Pole Vault liamack@mit.edu
+
+86. Whitney Macon
+   Email: whitneym@mit.edu
+   Username: whitneym
+   Original line: Whitney Macon Assistant Coach - Distance whitneym@mit.edu
+
+87. Christina Crow
+   Email: ccrow@mit.edu
+   Username: ccrow
+   Original line: Christina Crow Assistant Coach ccrow@mit.edu
+
+88. Ziyad Hassan
+   Email: zhassan3@mit.edu
+   Username: zhassan3
+   Original line: Ziyad Hassan Assistant Coach zhassan3@mit.edu
+
+89. Walter Truitt
+   Email: wtruitt@mit.edu
+   Username: wtruitt
+   Original line: Walter Truitt Assistant Coach wtruitt@mit.edu
+
+90. Olivia Dias
+   Email: omdias77@mit.edu
+   Username: omdias77
+   Original line: Olivia Dias Assistant Coach omdias77@mit.edu
+
+91. Todd Elwell
+   Email: telwell@mit.edu
+   Username: telwell
+   Original line: Todd Elwell Head Coach telwell@mit.edu 617-258-
+
+92. Jake Gasparich
+   Email: jgaspari@mit.edu
+   Username: jgaspari
+   Original line: Jake Gasparich Assistant Coach jgaspari@mit.edu
+
+93. Jeremy Velazquez,
+   Email: jvquez@mit.edu
+   Username: jvquez
+   Original line: Jeremy Velazquez, PhD Assistant Coach jvquez@mit.edu
+
+94. Paul Dill
+   Email: pdill@mit.edu
+   Username: pdill
+   Original line: Paul Dill Head Coach pdill@mit.edu 617-258-
+
+95. Brooke Stanley
+   Email: stanleyb@mit.edu
+   Username: stanleyb
+   Original line: Brooke Stanley Assistant Coach stanleyb@mit.edu
+
+96. Alyssa Diacono
+   Email: adiacono@mit.edu
+   Username: adiacono
+   Original line: Alyssa Diacono Head Coach adiacono@mit.edu 949-874-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Matthew Charest Assistant Swimming & Diving Coach/Athletics Communications Assistant mchar17@mit.edu 617-254-
+• Steve Brennan Assistant Varsity Equipment Manager | Assistant Coach (Offensive Coordinator) brennan1@mit.edu 617-253-
+• Andy Byron Sports Performance Assistant | Assistant Coach (Defensive Line) byrona@mit.edu
+• Chris Morris Head Coach morrisch@mit.edu 617-258-
+• Todd Carroll Pitching Coach/Recruiting Coordinator carroll@mit.edu
+• Ryne Rametta Assistant Coach ryne978@mit.edu
+• Geoff Phillips Assistant Coach geoff558@mit.edu
+• B.J. Dunne David H. Koch '62 Head Coach bjdunne@mit.edu 617-253-
+• Joey Carroll Assistant Coach joeycarr@mit.edu
+• Owen Carlson Assistant Coach ocarlson@mit.edu
+• Indran Ratnathicam Assistant Coach (Leadership and Alumni Relations) indran@alum.mit.edu
+• Lucia Robinson-Griggs Head Coach luciarob@mit.edu 617-253-
+• Tony Kilbridge H.W. McCurdy, '22 Director of Rowing/Head Coach coachk@mit.edu 617-253-
+• Evan Thews-Wassell Assistant Coach/Recruiting Coordinator etw@mit.edu 617-253-
+• Will Oliver-Milchman Gerrit Zwart '62 Men's Varsity Lightweight Crew Coach w_oliver@mit.edu 617-253-
+• Erika Sloan Richard J. Resch (1961) Assistant Men's Lightweight Coach easloan@mit.edu 617-253-
+• Amelia Patton Head Coach acbooth@mit.edu 617-324-
+• Kendall Chase Assistant Coach k_chase@mit.edu
+• Bailey Hughes Assistant Coach beehugs@mit.edu
+• Kasey Shashaty Assistant Coach kasey64@mit.edu
+• Holly Metcalf Head Coach hmetcalf@mit.edu 617-258-
+• Matthew Hanig Assistant Coach/Recruiting Coordinator mhanig@mit.edu
+• Claire Schnorr Assistant Coach cschnorr@mit.edu
+• Riley Macon Cross Country Head Coach rmacon@mit.edu
+• Julie Heyde Director of Track and Field and Cross Country; Track and Field Head Coach heyde@mit.edu
+• Whitney Macon Assistant Coach - Distance whitneym@mit.edu
+• Christina Crow Assistant Coach ccrow@mit.edu
+• Ziyad Hassan Assistant Coach zhassan3@mit.edu
+• Ned Farrington Assistant Coach nedfarri@mit.edu
+• Riley Macon Cross Country Head Coach rmacon@mit.edu
+• Julie Heyde Director of Track and Field and Cross Country; Track and Field Head Coach heyde@mit.edu
+• Whitney Macon Assistant Coach - Distance whitneym@mit.edu
+• Christina Crow Assistant Coach ccrow@mit.edu
+• Ziyad Hassan Assistant Coach zhassan3@mit.edu
+• Ned Farrington Assistant Coach nedfarri@mit.edu
+• Jarek Koniusz Head Coach jarek@mit.edu 617-258-
+• Arpad Horvath Interim Head Coach arpika81@mit.edu
+• Jarek Koniusz Head Coach jarek@mit.edu 617-258-
+• Arpad Horvath Interim Head Coach arpika81@mit.edu
+• Sarah Shute Head Coach sshute@mit.edu 617-253-
+• Brian Bubna Head Coach bbubna@mit.edu 617-715-
+• Steve Brennan Assistant Varsity Equipment Manager | Assistant Coach (Offensive Coordinator) brennan1@mit.edu 617-253-
+• Al Pogarian Assistant Coach (Tight Ends) alpo@mit.edu
+• Andy Byron Sports Performance Assistant | Assistant Coach (Defensive Line) byrona@mit.edu
+• Devone Williams Assistant Coach (Defensive Backs/VR Coordinator) devone41@mit.edu
+• Josh Angoff Assistant Coach (Special Teams Coordinator/Wide Receivers) jangoff@mit.edu
+• Darrin Pearson Assistant Coach (Running Backs) darrinp@mit.edu
+• Steve Branch Assistant Coach (Offensive Assistant) sbranch@mit.edu
+• Matt Jung Assistant Coach (Video Assistant) mjung6@mit.edu
+• Tom Nalen Assistant Coach (Offensive Line) tnalen66@mit.edu
+• Robert Ferrazzani Assistant Coach (Defensive Quality Control) rferra@mit.edu
+• Tyler O'Keefe Walter Alessi Head Coach okeefet@mit.edu 617-258-
+• Anne Versprille Head Coach averspri@mit.edu 617-715-
+• Melissa Mulloy-Mecozzi Head Coach m_mulloy@mit.edu 617-715-
+• Michael Kalin Head Coach mkalin@mit.edu 617-253-
+• Caroline Young Head Coach youngcl@mit.edu
+• Ken Bovell Head Coach kbovell@mit.edu 617-253-
+• Gerard Miniaci Assistant Coach gminiaci@mit.edu
+• Martin Desmarais Head Coach mjd@mit.edu 617-715-
+• Madison Trotman Head Coach softball@mit.edu
+• Emily Kraytenberg Assistant Coach softball@mit.edu
+• Amanda Genovese Assistant Coach softball@mit.edu
+• Courtney Zambello Assistant Coach softball@mit.edu
+• Thierry Lincou Head Coach tlincou@mit.edu 617-253-
+• Meg Sisson French Mary Frances Wagley, '47 Head Coach frenchm@mit.edu 617-253-
+• Matthew Charest Assistant Swimming & Diving Coach/Athletics Communications Assistant mchar17@mit.edu 617-254-
+• Gabe Bamforth Head Diving Coach gabe_b@mit.edu 617-253-
+• Meg Sisson French Mary Frances Wagley, '47 Head Coach frenchm@mit.edu 617-253-
+• Matthew Charest Assistant Swimming & Diving Coach/Athletics Communications Assistant mchar17@mit.edu 617-254-
+• Gabe Bamforth Head Diving Coach gabe_b@mit.edu 617-253-
+• Dave Hagymas Head Coach dhagymas@mit.edu 617-258-
+• Carol Matsuzaki Head Coach handy@mit.edu 617-253-
+• Julie Heyde Director of Track and Field and Cross Country; Track and Field Head Coach heyde@mit.edu
+• Todd Linder Associate Head Coach lindert@mit.edu 617-253-
+• Riley Macon Cross Country Head Coach rmacon@mit.edu
+• Liam Ackerman Assistant Coach - Pole Vault liamack@mit.edu
+• Whitney Macon Assistant Coach - Distance whitneym@mit.edu
+• Christina Crow Assistant Coach ccrow@mit.edu
+• Ziyad Hassan Assistant Coach zhassan3@mit.edu
+• Walter Truitt Assistant Coach wtruitt@mit.edu
+• Olivia Dias Assistant Coach omdias77@mit.edu
+• Julie Heyde Director of Track and Field and Cross Country; Track and Field Head Coach heyde@mit.edu
+• Todd Linder Associate Head Coach lindert@mit.edu 617-253-
+• Riley Macon Cross Country Head Coach rmacon@mit.edu
+• Liam Ackerman Assistant Coach - Pole Vault liamack@mit.edu
+• Whitney Macon Assistant Coach - Distance whitneym@mit.edu
+• Christina Crow Assistant Coach ccrow@mit.edu
+• Ziyad Hassan Assistant Coach zhassan3@mit.edu
+• Walter Truitt Assistant Coach wtruitt@mit.edu
+• Olivia Dias Assistant Coach omdias77@mit.edu
+• Todd Elwell Head Coach telwell@mit.edu 617-258-
+• Jake Gasparich Assistant Coach jgaspari@mit.edu
+• Jeremy Velazquez, PhD Assistant Coach jvquez@mit.edu
+• Paul Dill Head Coach pdill@mit.edu 617-258-
+• Brooke Stanley Assistant Coach stanleyb@mit.edu
+• Alyssa Diacono Head Coach adiacono@mit.edu 949-874-

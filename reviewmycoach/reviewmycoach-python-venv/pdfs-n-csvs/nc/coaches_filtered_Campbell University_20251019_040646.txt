@@ -1,0 +1,299 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:46
+============================================================
+
+Total coaches found: 48
+
+PARSED ENTRIES:
+----------------------------------------
+1. Josh Riley
+   Email: jriley@campbell.edu
+   Username: jriley
+   Original line: Josh Riley Assistant Sports Performance Coach jriley@campbell.edu
+
+2. Colin Feikles
+   Email: cfeikles@campbell.edu
+   Username: cfeikles
+   Original line: Colin Feikles Assistant Sports Performance Coach cfeikles@campbell.edu
+
+3. Hector Ortiz
+   Email: hortiz@campbell.edu
+   Username: hortiz
+   Original line: Hector Ortiz Assistant Sports Performance Coach 910-893- hortiz@campbell.edu
+
+4. Tim Messina
+   Email: tmessina@campbell.edu
+   Username: tmessina
+   Original line: Tim Messina Assistant Sports Performance Coach tmessina@campbell.edu
+
+5. Matthew Morgan
+   Email: sportsperfga@campbell.edu
+   Username: sportsperfga
+   Original line: Matthew Morgan Graduate Assistant Sports Performance Coach sportsperfga@campbell.edu
+
+6. Chris Marx
+   Email: cmarx@campbell.edu
+   Username: cmarx
+   Original line: Chris Marx Head Coach 910-893- cmarx@campbell.edu
+
+7. Adam Wyse
+   Email: awyse@campbell.edu
+   Username: awyse
+   Original line: Adam Wyse Assistant Coach/Recruiting Coordinator 910-814- awyse@campbell.edu
+
+8. Travis Stone
+   Email: tstone@campbell.edu
+   Username: tstone
+   Original line: Travis Stone Assistant Coach tstone@campbell.edu
+
+9. Seth LaRue
+   Email: slarue@campbell.edu
+   Username: slarue
+   Original line: Seth LaRue Assistant Coach slarue@campbell.edu
+
+10. Landry Kosmalski
+   Email: lkosmalski@campbell.edu
+   Username: lkosmalski
+   Original line: Landry Kosmalski Associate Head Coach lkosmalski@campbell.edu
+
+11. Eddie Hill
+   Email: ehill@campbell.edu
+   Username: ehill
+   Original line: Eddie Hill Associate Head Coach ehill@campbell.edu
+
+12. Anthony Lorenzo
+   Email: alorenzo@campbell.edu
+   Username: alorenzo
+   Original line: Anthony Lorenzo Assistant Coach alorenzo@campbell.edu
+
+13. Austin Burnette
+   Email: kburnette@campbell.edu
+   Username: kburnette
+   Original line: Austin Burnette Assistant Coach kburnette@campbell.edu
+
+14. Joseph Yesufu
+   Email: yesufu@campbell.edu
+   Username: yesufu
+   Original line: Joseph Yesufu Assistant Coach yesufu@campbell.edu
+
+15. Ronny Fisher
+   Email: rfisher@campbell.edu
+   Username: rfisher
+   Original line: Ronny Fisher Head Coach 910-893- rfisher@campbell.edu
+
+16. Megan Hall
+   Email: hallm@campbell.edu
+   Username: hallm
+   Original line: Megan Hall Associate Head Coach 910-893- hallm@campbell.edu
+
+17. Shy Tuelle
+   Email: stuelle@campbell.edu
+   Username: stuelle
+   Original line: Shy Tuelle Assistant Coach stuelle@campbell.edu
+
+18. Blair Estarfaa
+   Email: bestarfaa@campbell.edu
+   Username: bestarfaa
+   Original line: Blair Estarfaa Assistant Coach bestarfaa@campbell.edu
+
+19. Stephanie Fox
+   Email: sfox@campbell.edu
+   Username: sfox
+   Original line: Stephanie Fox Head Coach 919-880- sfox@campbell.edu
+
+20. Nikita Griffin
+   Email: ngriffin@campbell.edu
+   Username: ngriffin
+   Original line: Nikita Griffin Assistant Coach 910-742- ngriffin@campbell.edu
+
+21. Ross Hornor
+   Email: rhornor@campbell.edu
+   Username: rhornor
+   Original line: Ross Hornor Associate Head Coach / Run Game Coordinator / rhornor@campbell.edu
+
+22. Matt Moot
+   Email: mmoot@campbell.edu
+   Username: mmoot
+   Original line: Matt Moot Head Men's Golf Coach 910-893- mmoot@campbell.edu
+
+23. John Crooks
+   Email: crooks@campbell.edu
+   Username: crooks
+   Original line: John Crooks Director of Golf | Head Women's Golf Coach 910-893- crooks@campbell.edu
+
+24. John Crooks
+   Email: crooks@campbell.edu
+   Username: crooks
+   Original line: John Crooks Director of Golf | Head Women's Golf Coach 910-893- crooks@campbell.edu
+
+25. Valeria Patino
+   Email: vpatino@campbell.edu
+   Username: vpatino
+   Original line: Valeria Patino Associate Head Coach 832-757- vpatino@campbell.edu
+
+26. Dawn Easley
+   Email: easley@campbell.edu
+   Username: easley
+   Original line: Dawn Easley Head Coach 910-814- easley@campbell.edu
+
+27. Daryl Coss
+   Email: dcoss@campbell.edu
+   Username: dcoss
+   Original line: Daryl Coss Assistant Coach dcoss@campbell.edu
+
+28. Sam Bischoff
+   Email: sbischoff@campbell.edu
+   Username: sbischoff
+   Original line: Sam Bischoff Assistant Coach sbischoff@campbell.edu
+
+29. Dustin Fonder
+   Email: fonder@campbell.edu
+   Username: fonder
+   Original line: Dustin Fonder Head Coach 910-893- fonder@campbell.edu
+
+30. Omar Asad
+   Email: oasad@campbell.edu
+   Username: oasad
+   Original line: Omar Asad Assistant Coach 910-814- oasad@campbell.edu
+
+31. Lucas Champenois
+   Email: champenois@campbell.edu
+   Username: champenois
+   Original line: Lucas Champenois Assistant Coach champenois@campbell.edu
+
+32. Jeff Gross
+   Email: wsoccer@campbell.edu
+   Username: wsoccer
+   Original line: Jeff Gross Head Coach 910-893- wsoccer@campbell.edu
+
+33. Todd Herman
+   Email: wsoccer@campbell.edu
+   Username: wsoccer
+   Original line: Todd Herman Assistant Coach 910-893- wsoccer@campbell.edu
+
+34. Hannah Davies
+   Email: wsoccer@campbell.edu
+   Username: wsoccer
+   Original line: Hannah Davies Assistant Coach wsoccer@campbell.edu
+
+35. Abby Taylor
+   Email: ataylor@campbell.edu
+   Username: ataylor
+   Original line: Abby Taylor Assistant Coach ataylor@campbell.edu
+
+36. Hunter Segars
+   Email: hsegars@campbell.edu
+   Username: hsegars
+   Original line: Hunter Segars Assistant Coach hsegars@campbell.edu
+
+37. Hannah Sparks
+   Email: hsparks@campbell.edu
+   Username: hsparks
+   Original line: Hannah Sparks Assistant Coach hsparks@campbell.edu
+
+38. Zachary Bagby
+   Email: zbagby@campbell.edu
+   Username: zbagby
+   Original line: Zachary Bagby Head Coach 910-814- zbagby@campbell.edu
+
+39. David Johnson
+   Email: johnsond@campbell.edu
+   Username: johnsond
+   Original line: David Johnson Head Coach 910-893- johnsond@campbell.edu
+
+40. Mike Stevens
+   Email: mstevens@campbell.edu
+   Username: mstevens
+   Original line: Mike Stevens Head Coach 910-893- mstevens@campbell.edu
+
+41. Evan Darm
+   Email: edarm@campbell.edu
+   Username: edarm
+   Original line: Evan Darm Head Coach edarm@campbell.edu
+
+42. Rob Gritzer
+   Email: rgritzer@campbell.edu
+   Username: rgritzer
+   Original line: Rob Gritzer Assistant Coach rgritzer@campbell.edu
+
+43. Greg Goral
+   Email: goral@campbell.edu
+   Username: goral
+   Original line: Greg Goral Head Coach 910-893- goral@campbell.edu
+
+44. Bekah Strange
+   Email: rstrange@campbell.edu
+   Username: rstrange
+   Original line: Bekah Strange Assistant Coach 910-814- rstrange@campbell.edu
+
+45. Nolan Schmidt
+   Email: nschmidt@campbell.edu
+   Username: nschmidt
+   Original line: Nolan Schmidt Assistant Coach nschmidt@campbell.edu
+
+46. TJ Dudley
+   Email: tdudley@campbell.edu
+   Username: tdudley
+   Original line: TJ Dudley Head Coach tdudley@campbell.edu
+
+47. Jake Patacsil
+   Email: apatacsil@campbell.edu
+   Username: apatacsil
+   Original line: Jake Patacsil Assistant Coach apatacsil@campbell.edu
+
+48. Fabian Gutierrez
+   Email: fgutierrez@campbell.edu
+   Username: fgutierrez
+   Original line: Fabian Gutierrez Assistant Coach fgutierrez@campbell.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Josh Riley Assistant Sports Performance Coach jriley@campbell.edu
+• Colin Feikles Assistant Sports Performance Coach cfeikles@campbell.edu
+• Hector Ortiz Assistant Sports Performance Coach 910-893- hortiz@campbell.edu
+• Tim Messina Assistant Sports Performance Coach tmessina@campbell.edu
+• Matthew Morgan Graduate Assistant Sports Performance Coach sportsperfga@campbell.edu
+• Chris Marx Head Coach 910-893- cmarx@campbell.edu
+• Adam Wyse Assistant Coach/Recruiting Coordinator 910-814- awyse@campbell.edu
+• Travis Stone Assistant Coach tstone@campbell.edu
+• Seth LaRue Assistant Coach slarue@campbell.edu
+• Landry Kosmalski Associate Head Coach lkosmalski@campbell.edu
+• Eddie Hill Associate Head Coach ehill@campbell.edu
+• Anthony Lorenzo Assistant Coach alorenzo@campbell.edu
+• Austin Burnette Assistant Coach kburnette@campbell.edu
+• Joseph Yesufu Assistant Coach yesufu@campbell.edu
+• Ronny Fisher Head Coach 910-893- rfisher@campbell.edu
+• Megan Hall Associate Head Coach 910-893- hallm@campbell.edu
+• Shy Tuelle Assistant Coach stuelle@campbell.edu
+• Blair Estarfaa Assistant Coach bestarfaa@campbell.edu
+• Stephanie Fox Head Coach 919-880- sfox@campbell.edu
+• Nikita Griffin Assistant Coach 910-742- ngriffin@campbell.edu
+• Ross Hornor Associate Head Coach / Run Game Coordinator / rhornor@campbell.edu
+• Matt Moot Head Men's Golf Coach 910-893- mmoot@campbell.edu
+• John Crooks Director of Golf | Head Women's Golf Coach 910-893- crooks@campbell.edu
+• John Crooks Director of Golf | Head Women's Golf Coach 910-893- crooks@campbell.edu
+• Valeria Patino Associate Head Coach 832-757- vpatino@campbell.edu
+• Dawn Easley Head Coach 910-814- easley@campbell.edu
+• Daryl Coss Assistant Coach dcoss@campbell.edu
+• Sam Bischoff Assistant Coach sbischoff@campbell.edu
+• Dustin Fonder Head Coach 910-893- fonder@campbell.edu
+• Omar Asad Assistant Coach 910-814- oasad@campbell.edu
+• Lucas Champenois Assistant Coach champenois@campbell.edu
+• Jeff Gross Head Coach 910-893- wsoccer@campbell.edu
+• Todd Herman Assistant Coach 910-893- wsoccer@campbell.edu
+• Hannah Davies Assistant Coach wsoccer@campbell.edu
+• Abby Taylor Assistant Coach ataylor@campbell.edu
+• Hunter Segars Assistant Coach hsegars@campbell.edu
+• Hannah Sparks Assistant Coach hsparks@campbell.edu
+• Zachary Bagby Head Coach 910-814- zbagby@campbell.edu
+• David Johnson Head Coach 910-893- johnsond@campbell.edu
+• Mike Stevens Head Coach 910-893- mstevens@campbell.edu
+• Evan Darm Head Coach edarm@campbell.edu
+• Rob Gritzer Assistant Coach rgritzer@campbell.edu
+• Greg Goral Head Coach 910-893- goral@campbell.edu
+• Bekah Strange Assistant Coach 910-814- rstrange@campbell.edu
+• Nolan Schmidt Assistant Coach nschmidt@campbell.edu
+• TJ Dudley Head Coach tdudley@campbell.edu
+• Jake Patacsil Assistant Coach apatacsil@campbell.edu
+• Fabian Gutierrez Assistant Coach fgutierrez@campbell.edu

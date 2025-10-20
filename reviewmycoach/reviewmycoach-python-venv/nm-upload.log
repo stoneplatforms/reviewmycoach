@@ -1,0 +1,112 @@
+Cannot set gray stroke color because /'P31' is an invalid float value
+Cannot set gray non-stroke color because /'P31' is an invalid float value
+Cannot set gray stroke color because /'P92' is an invalid float value
+Cannot set gray non-stroke color because /'P92' is an invalid float value
+Cannot set gray stroke color because /'P127' is an invalid float value
+Cannot set gray non-stroke color because /'P127' is an invalid float value
+-> Reading CSV: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/nm/New Mexico Athletics Directory.csv
+-> Output PDFs to: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/nm
+
+Printing completed in 64.9s
+Success: 6 | Skipped: 0 | Errors: 0
+
+Resolved URLs used:
+- University of the Southwest.pdf: https://uswathletics.com/staff-directory?print=true
+- University of New Mexico.pdf: https://golobos.com/staff-directory?print=true
+- New Mexico Highlands University.pdf: https://nmhuathletics.com/staff-directory?print=true
+- Eastern New Mexico University.pdf: https://goeasternathletics.com/staff-directory?print=true
+- Western New Mexico University.pdf: https://wnmumustangs.com/staff-directory?print=true
+- New Mexico State University.pdf: https://nmstatesports.com/staff-directory/print
+
+Parsing printed PDFs and preparing upload entries...
+✔ Total coach entries prepared: 85
+✔ Created unclaimed coach profile: Steve Appel (sappel@usw.edu) → coaches/sappel
+✔ Created unclaimed coach profile: Caden Ledbetter (cledbetter@usw.edu) → coaches/cledbetter
+✔ Created unclaimed coach profile: Steven Barker (sbarker@usw.edu) → coaches/sbarker
+✔ Created unclaimed coach profile: Will Osborn (wosborn@usw.edu) → coaches/wosborn
+✔ Created unclaimed coach profile: Shaye Smith (ssmith@usw.edu) → coaches/ssmith
+✔ Created unclaimed coach profile: Gabrielle Arsiaga (garsiaga@usw.edu) → coaches/garsiaga
+✔ Created unclaimed coach profile: RJ Lester (rlester@usw.edu) → coaches/rlester
+✔ Created unclaimed coach profile: Edrian Negrete (eenegrete@usw.edu) → coaches/eenegrete
+✔ Created unclaimed coach profile: Kayla Reynaud (kreynaud@usw.edu) → coaches/kreynaud
+✔ Created unclaimed coach profile: Chris Petroski (cpetroski@usw.edu) → coaches/cpetroski
+✔ Created unclaimed coach profile:  (cwilliams14@unm.edu) → coaches/cwilliams14
+✔ Created unclaimed coach profile: Tod Brown (todbrown21@unm.edu) → coaches/todbrown21
+✔ Created unclaimed coach profile: consent, it will be valid only in this domain. Denying consent may make related features unavailable. (mrisdon@unm.edu) → coaches/mrisdon
+✔ Created unclaimed coach profile: Justin Mitchell (jmitchell7@unm.edu) → coaches/jmitchell7
+✔ Created unclaimed coach profile: Mikey Howell (mjhowell@unm.edu) → coaches/mjhowell
+✔ Created unclaimed coach profile: consent, it will be valid only in this domain. Denying consent may make related features unavailable. (sstapleton1@unm.edu) → coaches/sstapleton1
+✔ Created unclaimed coach profile: Tom Tankelewicz (ttankelewicz@unm.edu) → coaches/ttankelewicz
+✔ Created unclaimed coach profile: Michael Wilder (mwilder2@unm.edu) → coaches/mwilder2
+✔ Created unclaimed coach profile: Mike Bradbury (loriann@unm.edu) → coaches/loriann
+✔ Created unclaimed coach profile: Keith Freeman (kfreeman1@unm.edu) → coaches/kfreeman1
+✔ Created unclaimed coach profile: Mackenzie Head (macnovak12@unm.edu) → coaches/macnovak12
+✔ Created unclaimed coach profile: Nike McClure (nmcclure@unm.edu) → coaches/nmcclure
+✔ Created unclaimed coach profile: Jason Eck (lobofb@unm.edu) → coaches/lobofb
+✔ Created unclaimed coach profile: Jake Harrington (jakeharrington@unm.edu) → coaches/jakeharrington
+✔ Created unclaimed coach profile: Jill Trujillo (jktpro@unm.edu) → coaches/jktpro
+✔ Created unclaimed coach profile: Hannah Ko (hko1@unm.edu) → coaches/hko1
+✔ Created unclaimed coach profile:  (karleyn@unm.edu) → coaches/karleyn
+✔ Created unclaimed coach profile: Paul Maestas (paulmaestas@unm.edu) → coaches/paulmaestas
+✔ Created unclaimed coach profile: Nicole Orgeron (ndickson@unm.edu) → coaches/ndickson
+✔ Created unclaimed coach profile: Morgan Spearman (mspearman1@unm.edu) → coaches/mspearman1
+✔ Created unclaimed coach profile: We (golobos.com) and selected third parties (9) collect personal information as specified in the privacy policy (rhathoot@unm.edu) → coaches/rhathoot
+✔ Created unclaimed coach profile: Rob Bareford (rbareford@unm.edu) → coaches/rbareford
+✔ Created unclaimed coach profile: Nico Acevedo (aceni1@unm.edu) → coaches/aceni1
+✔ Created unclaimed coach profile: Vicky Maes (maesv@unm.edu) → coaches/maesv
+✔ Created unclaimed coach profile: Jon Newman-Gonchar (jonnewman@unm.edu) → coaches/jonnewman
+✔ Created unclaimed coach profile: April Sanchez (sancapri@unm.edu) → coaches/sancapri
+✔ Created unclaimed coach profile:  (mattkuelpman9@unm.edu) → coaches/mattkuelpman9
+✔ Created unclaimed coach profile: your usage data for the following : personalised advertising and content, advertising and (bmaty1@unm.edu) → coaches/bmaty1
+✔ Created unclaimed coach profile: Jenna Schwartz (jschwartz0@unm.edu) → coaches/jschwartz0
+✔ Created unclaimed coach profile: Ryan Conan (rconan@unm.edu) → coaches/rconan
+✔ Created unclaimed coach profile: Kyra Mohns (kmohns@unm.edu) → coaches/kmohns
+✔ Created unclaimed coach profile: Jared Berryman (jberryman@unm.edu) → coaches/jberryman
+✔ Created unclaimed coach profile: Naya Higashĳima (naya@unm.edu) → coaches/naya
+✔ Created unclaimed coach profile: Steve Jones (smjones@nmhu.edu) → coaches/smjones
+✔ Created unclaimed coach profile: Austen King (aking17@live.nmhu.edu) → coaches/aking17
+✔ Created unclaimed coach profile: Zach Settembre (zach@nmhu.edu) → coaches/zach
+✔ Created unclaimed coach profile: Noah Breitenstein (noah.breitenstein@nmhu.edu) → coaches/noah.breitenstein
+✔ Created unclaimed coach profile: Lindsey Fearing (lfearing@nmhu.edu) → coaches/lfearing
+✔ Created unclaimed coach profile: Eric Benedick (ebenedick@nmhu.edu) → coaches/ebenedick
+✔ Created unclaimed coach profile: Bob DeVries (rdevries@nmhu.edu) → coaches/rdevries
+✔ Created unclaimed coach profile: Kurt Taufa'asau (kurt@nmhu.edu) → coaches/kurt
+✔ Created unclaimed coach profile: Robert Rodriguez (rjrodriguez@nmhu.edu) → coaches/rjrodriguez
+✔ Created unclaimed coach profile: Amanda Evans (amevans@nmhu.edu) → coaches/amevans
+✔ Created unclaimed coach profile: Anthony Evans (anthonyevans@nmhu.edu) → coaches/anthonyevans
+✔ Created unclaimed coach profile: Kali Pugh (kali@nmhu.edu) → coaches/kali
+✔ Created unclaimed coach profile: Alexis Fleischer (afleischer@nmhu.edu) → coaches/afleischer
+✔ Created unclaimed coach profile: Meg Grose (meggrose@nmhu.edu) → coaches/meggrose
+✔ Created unclaimed coach profile: Cody Cartisser (cody@nmhu.edu) → coaches/cody
+✔ Created unclaimed coach profile: Chris Freije (cfreije@nmhu.edu) → coaches/cfreije
+✔ Created unclaimed coach profile: Amanda Fefel (amanda.fefel@enmu.edu) → coaches/amanda.fefel
+✔ Created unclaimed coach profile: Riley Price (riley.price@enmu.edu) → coaches/riley.price
+✔ Created unclaimed coach profile: Casey Claflin (casey.claflin@enmu.edu) → coaches/casey.claflin
+✔ Created unclaimed coach profile: Sinclair Pitts (sinclair.pitts@enmu.edu) → coaches/sinclair.pitts
+✔ Created unclaimed coach profile: Kelley Lee (kelley.lee@enmu.edu) → coaches/kelley.lee
+✔ Created unclaimed coach profile: Garrett Casteel (garrett.casteel@enmu.edu) → coaches/garrett.casteel
+✔ Created unclaimed coach profile: Garrett Owens (garrett.owens@enmu.edu) → coaches/garrett.owens
+✔ Created unclaimed coach profile: John Sharp (john.w.sharp@enmu.edu) → coaches/john.w.sharp
+✔ Created unclaimed coach profile: Albert Flinn (albert.flinn@enmu.edu) → coaches/albert.flinn
+✔ Created unclaimed coach profile: Shacie Marr (shacie.marr@enmu.edu) → coaches/shacie.marr
+✔ Created unclaimed coach profile: Nona Borden (nona.borden@enmu.edu) → coaches/nona.borden
+✔ Created unclaimed coach profile: Shanna Smith (shanna.smith@enmu.edu) → coaches/shanna.smith
+✔ Created unclaimed coach profile: Karli Bustos (karli.bustos@enmu.edu) → coaches/karli.bustos
+✔ Created unclaimed coach profile: Jorge Araiza (jorge.araiza@enmu.edu) → coaches/jorge.araiza
+✔ Created unclaimed coach profile: Jen Whetten (jennifer.whetten@wnmu.edu) → coaches/jennifer.whetten
+✔ Created unclaimed coach profile: Mark Bunker (mark.bunker@wnmu.edu) → coaches/mark.bunker
+✔ Created unclaimed coach profile: Jacobe Julien (Jacobe.Julien@wnmu.edu) → coaches/Jacobe.Julien
+✔ Created unclaimed coach profile: Micaela Medina (medinam8@wnmu.edu) → coaches/medinam8
+✔ Created unclaimed coach profile: Macario Campos (teamelite@hotmail.com) → coaches/teamelite
+✔ Created unclaimed coach profile: Billy Hickman (William.Hickman@wnmu.edu) → coaches/William.Hickman
+✔ Created unclaimed coach profile: Harry O'Callaghan (wnmugolf@wnmu.edu) → coaches/wnmugolf
+✔ Created unclaimed coach profile: Ashley Hickman (ashley.hickman@wnmu.edu) → coaches/ashley.hickman | Phone: (575) 538-6091
+✔ Created unclaimed coach profile: Jeff Young (jeffery.young@wnmu.edu) → coaches/jeffery.young | Phone: (575) 538-6091
+✔ Created unclaimed coach profile: Jesus Baltazar (Jesus.Baltazar@wnmu.edu) → coaches/Jesus.Baltazar
+✔ Created unclaimed coach profile: Geno Frugoli (geno.frugoli@wnmu.edu) → coaches/geno.frugoli | Phone: (575) 538-6225
+✔ Created unclaimed coach profile: Jerry Hulla (Jerry.Hulla@wnmu.edu) → coaches/Jerry.Hulla
+
+📊 Upload Summary:
+✔ 85 coach profiles created/updated
+⏭️  0 profiles skipped (already claimed)
+📧 Coaches can now claim their profiles during onboarding using their email address

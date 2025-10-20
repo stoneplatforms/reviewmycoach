@@ -1,0 +1,231 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:51
+============================================================
+
+Total coaches found: 34
+
+PARSED ENTRIES:
+----------------------------------------
+1. Meade Smith
+   Email: brenden.smith@siu.edu
+   Username: brenden.smith
+   Phone: (618) 453-5454
+   Original line: Meade Smith Head Strength Coach 618-453-5454 brenden.smith@siu.edu
+
+2. Lance Rhodes
+   Email: salukibaseball@siu.edu
+   Username: salukibaseball
+   Phone: (618) 453-3794
+   Original line: Lance Rhodes Head Coach 618-453-3794 salukibaseball@siu.edu
+
+3. Jake Ryan
+   Email: jake.ryan@siu.edu
+   Username: jake.ryan
+   Phone: (618) 453-3794
+   Original line: Jake Ryan Catching Coach / 618-453-3794 jake.ryan@siu.edu
+
+4. Seth McLemore
+   Email: seth.mclemore@siu.edu
+   Username: seth.mclemore
+   Phone: (618) 453-3794
+   Original line: Seth McLemore Hitting Coach / 618-453-3794 seth.mclemore@siu.edu
+
+5. Ryan McClaran
+   Email: ryan.mcclaran@siu.edu
+   Username: ryan.mcclaran
+   Phone: (618) 453-3794
+   Original line: Ryan McClaran Pitching Coach 618-453-3794 ryan.mcclaran@siu.edu
+
+6. Scott Nagy
+   Email: siubball@siu.edu
+   Username: siubball
+   Original line: Scott Nagy Head Coach siubball@siu.edu
+
+7. Steve Hawkins
+   Email: stephen.hawkins@siu.edu
+   Username: stephen.hawkins
+   Original line: Steve Hawkins Associate Head Coach stephen.hawkins@siu.edu
+
+8. Will Veasley
+   Email: willie.veasley@siu.edu
+   Username: willie.veasley
+   Original line: Will Veasley Assistant Coach willie.veasley@siu.edu
+
+9. Jevon Mamon
+   Email: jevon.mamon@siu.edu
+   Username: jevon.mamon
+   Original line: Jevon Mamon Assistant Coach jevon.mamon@siu.edu
+
+10. Tae Gibbs
+   Email: tae.gibbs@siu.edu
+   Username: tae.gibbs
+   Original line: Tae Gibbs Assistant Coach tae.gibbs@siu.edu
+
+11. Darreon Assistant
+   Email: darreon.reddick@siu.edu
+   Username: darreon.reddick
+   Original line: Darreon Assistant Coach darreon.reddick@siu.edu
+
+12. Kelly Bond-
+   Email: salukihoopswbb@siu.edu
+   Username: salukihoopswbb
+   Phone: (618) 453-5464
+   Original line: Kelly Bond- Head Coach 618-453-5464 salukihoopswbb@siu.edu
+
+13. Chester Nichols
+   Email: chester.nichols@siu.edu
+   Username: chester.nichols
+   Phone: (618) 453-5485
+   Original line: Chester Nichols Associate Head Coach 618-453-5485 chester.nichols@siu.edu
+
+14. Marissa Webb
+   Email: marissa.webb@siu.edu
+   Username: marissa.webb
+   Original line: Marissa Webb Assistant Coach marissa.webb@siu.edu
+
+15. Nick Hill
+   Email: salukifootball@siu.edu
+   Username: salukifootball
+   Phone: (618) 453-3331
+   Original line: Nick Hill Head Coach 618-453-3331 salukifootball@siu.edu
+
+16. Meade Smith
+   Email: brenden.smith@siu.edu
+   Username: brenden.smith
+   Phone: (618) 453-5454
+   Original line: Meade Smith Head Strength Coach 618-453-5454 brenden.smith@siu.edu
+
+17. Graeme Orr
+   Email: graeme.orr@siu.edu
+   Username: graeme.orr
+   Phone: (618) 453-5462
+   Original line: Graeme Orr Head Coach 618-453-5462 graeme.orr@siu.edu
+
+18. Carley Kandel
+   Email: Carley.kandel@siu.edu
+   Username: Carley.kandel
+   Phone: (618) 453-4045
+   Original line: Carley Kandel Assistant Coach 618-453-4045 Carley.kandel@siu.edu
+
+19. Ash Phillips
+   Email: ashley.phillips@siu.edu
+   Username: ashley.phillips
+   Original line: Ash Phillips Assistant Coach ashley.phillips@siu.edu
+
+20. Jen Sewell
+   Email: siusoftball@siu.edu
+   Username: siusoftball
+   Original line: Jen Sewell Head Coach siusoftball@siu.edu
+
+21. Laurin Watts
+   Email: Laurin.watts@siu.edu
+   Username: Laurin.watts
+   Original line: Laurin Watts Assistant Coach - Laurin.watts@siu.edu
+
+22. AnnEilise Head
+   Email: anneilise.dunderdale@siu.edu
+   Username: anneilise.dunderdale
+   Phone: (618) 453-5478
+   Original line: AnnEilise Head Coach (Cheer) 618-453-5478 anneilise.dunderdale@siu.edu
+
+23. Peighton Young
+   Email: peighton.young@siu.edu
+   Username: peighton.young
+   Phone: (618) 453-5478
+   Original line: Peighton Young Head Coach (Shakers) 618-453-5478 peighton.young@siu.edu
+
+24. Geoff Hanson
+   Email: salukiswimanddive@siu.edu
+   Username: salukiswimanddive
+   Phone: (618) 453-7230
+   Original line: Geoff Hanson Head Coach 618-453-7230 salukiswimanddive@siu.edu
+
+25. Chunhua Zhao
+   Email: zhaoc@siu.edu
+   Username: zhaoc
+   Phone: (618) 453-5461
+   Original line: Chunhua Zhao Diving Coach 618-453-5461 zhaoc@siu.edu
+
+26. Jeneva Stevens
+   Email: jeneva.stevens@siu.edu
+   Username: jeneva.stevens
+   Original line: Jeneva Stevens Assistant Coach jeneva.stevens@siu.edu
+
+27. Elisia Lancaster
+   Email: elisia.lancaster@siu.edu
+   Username: elisia.lancaster
+   Original line: Elisia Lancaster Volunteer Coach elisia.lancaster@siu.edu
+
+28. A'Veun Moore-
+   Email: aveun.moore-jones@siu.edu
+   Username: aveun.moore-jones
+   Original line: A'Veun Moore- Volunteer Coach aveun.moore-jones@siu.edu
+
+29. Jake Brydson
+   Email: jacob.brydson@siu.edu
+   Username: jacob.brydson
+   Original line: Jake Brydson Assistant Coach jacob.brydson@siu.edu
+
+30. DeShawn Assistant
+   Email: Deshawn.Marshall@siu.edu
+   Username: Deshawn.Marshall
+   Original line: DeShawn Assistant Coach Deshawn.Marshall@siu.edu
+
+31. Brittany Harry
+   Email: salukivolleyball@siu.edu
+   Username: salukivolleyball
+   Phone: (618) 453-5473
+   Original line: Brittany Harry Head Coach 618-453-5473 salukivolleyball@siu.edu
+
+32. Chris Yates
+   Email: christopher.yates@siu.edu
+   Username: christopher.yates
+   Original line: Chris Yates Assistant Coach christopher.yates@siu.edu
+
+33. Bryleigh Assistant
+   Email: bryleigh.buchanan@siu.edu
+   Username: bryleigh.buchanan
+   Original line: Bryleigh Assistant Coach, bryleigh.buchanan@siu.edu
+
+34. Riley Rabedeaux
+   Email: riley.rabedeaux@siu.edu
+   Username: riley.rabedeaux
+   Original line: Riley Rabedeaux Assistant Coach riley.rabedeaux@siu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Meade Smith Head Strength Coach 618-453-5454 brenden.smith@siu.edu
+• Lance Rhodes Head Coach 618-453-3794 salukibaseball@siu.edu
+• Jake Ryan Catching Coach / 618-453-3794 jake.ryan@siu.edu
+• Seth McLemore Hitting Coach / 618-453-3794 seth.mclemore@siu.edu
+• Ryan McClaran Pitching Coach 618-453-3794 ryan.mcclaran@siu.edu
+• Scott Nagy Head Coach siubball@siu.edu
+• Steve Hawkins Associate Head Coach stephen.hawkins@siu.edu
+• Will Veasley Assistant Coach willie.veasley@siu.edu
+• Jevon Mamon Assistant Coach jevon.mamon@siu.edu
+• Tae Gibbs Assistant Coach tae.gibbs@siu.edu
+• Darreon Assistant Coach darreon.reddick@siu.edu
+• Kelly Bond- Head Coach 618-453-5464 salukihoopswbb@siu.edu
+• Chester Nichols Associate Head Coach 618-453-5485 chester.nichols@siu.edu
+• Marissa Webb Assistant Coach marissa.webb@siu.edu
+• Nick Hill Head Coach 618-453-3331 salukifootball@siu.edu
+• Meade Smith Head Strength Coach 618-453-5454 brenden.smith@siu.edu
+• Graeme Orr Head Coach 618-453-5462 graeme.orr@siu.edu
+• Carley Kandel Assistant Coach 618-453-4045 Carley.kandel@siu.edu
+• Ash Phillips Assistant Coach ashley.phillips@siu.edu
+• Jen Sewell Head Coach siusoftball@siu.edu
+• Laurin Watts Assistant Coach - Laurin.watts@siu.edu
+• AnnEilise Head Coach (Cheer) 618-453-5478 anneilise.dunderdale@siu.edu
+• Peighton Young Head Coach (Shakers) 618-453-5478 peighton.young@siu.edu
+• Geoff Hanson Head Coach 618-453-7230 salukiswimanddive@siu.edu
+• Chunhua Zhao Diving Coach 618-453-5461 zhaoc@siu.edu
+• Jeneva Stevens Assistant Coach jeneva.stevens@siu.edu
+• Elisia Lancaster Volunteer Coach elisia.lancaster@siu.edu
+• A'Veun Moore- Volunteer Coach aveun.moore-jones@siu.edu
+• Jake Brydson Assistant Coach jacob.brydson@siu.edu
+• DeShawn Assistant Coach Deshawn.Marshall@siu.edu
+• Brittany Harry Head Coach 618-453-5473 salukivolleyball@siu.edu
+• Chris Yates Assistant Coach christopher.yates@siu.edu
+• Bryleigh Assistant Coach, bryleigh.buchanan@siu.edu
+• Riley Rabedeaux Assistant Coach riley.rabedeaux@siu.edu

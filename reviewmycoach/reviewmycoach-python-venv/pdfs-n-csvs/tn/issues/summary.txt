@@ -1,0 +1,24 @@
+Printing results: Success=31 Skipped=1 Errors=0
+
+Skipped/Failed links:
+- Martin Methodist College (now UT Southern).pdf: https://utsouthernbanner.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://utsouthernbanner.com/staff-directory/index
+Call log:
+  - navigating to "https://utsouthernbanner.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://utsouthernbanner.com/staff-directory?print=true, https://utsouthernbanner.com/staff-directory/print, https://utsouthernbanner.com/staff-directory, https://utsouthernbanner.com/staff-directory/index?print=true, https://utsouthernbanner.com/staff-directory/index/print, https://utsouthernbanner.com/staff-directory/index
+
+PDFs with zero coaches detected:
+- Tusculum University.pdf
+- Fisk University.pdf
+- Carson-Newman University.pdf
+- University of Tennessee at Martin.pdf
+- Tennessee Technological University.pdf
+- Bethel University (TN).pdf
+- Freed-Hardeman University.pdf
+- University of Memphis.pdf
+- Tennessee Wesleyan University.pdf
+- Milligan University.pdf
+- University of Tennessee.pdf
+
+PDFs flagged as low-quality parsing:
+- Vanderbilt University.pdf

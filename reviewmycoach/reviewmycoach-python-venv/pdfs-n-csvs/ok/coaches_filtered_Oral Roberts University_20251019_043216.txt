@@ -1,0 +1,191 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:17
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ryan Folmar
+   Email: baseball@oru.edu
+   Username: baseball
+   Original line: Ryan Folmar Head Coach 918-495- baseball@oru.edu @ORUFolmar
+
+2. Ryan Neill
+   Email: jneill@oru.edu
+   Username: jneill
+   Original line: Ryan Neill Associate Head Coach 918-495- jneill@oru.edu @ORUcoachNeill
+
+3. Wes Davis
+   Email: wdavis@oru.edu
+   Username: wdavis
+   Original line: Wes Davis Assistant Coach 918-495- wdavis@oru.edu @WessonsWD
+
+4. Kory Alford
+   Email: kalford@oru.edu
+   Username: kalford
+   Original line: Kory Alford Associate Head Coach 918-495- kalford@oru.edu @KoryAlford
+
+5. Van Green
+   Email: vangreen@oru.edu
+   Username: vangreen
+   Original line: Van Green Assistant Coach 918-495- vangreen@oru.edu @VGreenBBall
+
+6. Donovan Williams
+   Email: dowilliams@oru.edu
+   Username: dowilliams
+   Original line: Donovan Williams Assistant Coach 918-495- dowilliams@oru.edu @CoachD_Williams
+
+7. Will Saxon
+   Email: wsaxon@oru.edu
+   Username: wsaxon
+   Original line: Will Saxon Assistant Coach 918-495- wsaxon@oru.edu @Will_Saxon
+
+8. Isaac Green
+   Email: igreen@oru.edu
+   Username: igreen
+   Original line: Isaac Green Assistant Coach/Chief of Staff 918-495- igreen@oru.edu @Isaac_Green_
+
+9. Cophie Anderson
+   Email: coanderson@oru.edu
+   Username: coanderson
+   Original line: Cophie Anderson Head Coach 918-495- coanderson@oru.edu @coachc_anderson
+
+10. Bill Annan
+   Email: wannan@oru.edu
+   Username: wannan
+   Original line: Bill Annan Associate Head Coach/Recruiting 918-495- wannan@oru.edu @BillAnnan
+
+11. Wayne Anderson
+   Email: wanderson@oru.edu
+   Username: wanderson
+   Original line: Wayne Anderson Assistant Coach/Director of Basketball 918-495- wanderson@oru.edu @coacha918
+
+12. Hayden Priddy
+   Email: hpriddy@oru.edu
+   Username: hpriddy
+   Original line: Hayden Priddy Assistant Coach/Director of Offense 918-495- hpriddy@oru.edu @HPriddy15
+
+13. P'hariz Watkins
+   Email: pwatkins@oru.edu
+   Username: pwatkins
+   Original line: P'hariz Watkins Assistant Coach/Director of Player Personnel 918-495- pwatkins@oru.edu PharizWatkins
+
+14. Alick Musukuma
+   Email: almusukuma@oru.edu
+   Username: almusukuma
+   Original line: Alick Musukuma Head Coach 918-495- almusukuma@oru.edu
+
+15. Tim Braaten
+   Email: tbraaten@oru.edu
+   Username: tbraaten
+   Original line: Tim Braaten Associate Head Coach 918-495- tbraaten@oru.edu
+
+16. Matt McCormick
+   Email: mmccormick@oru.edu
+   Username: mmccormick
+   Original line: Matt McCormick Assistant Coach 918-495- mmccormick@oru.edu
+
+17. Tim Braaten
+   Email: tbraaten@oru.edu
+   Username: tbraaten
+   Original line: Tim Braaten Associate Head Coach 918-495- tbraaten@oru.edu
+
+18. Matt McCormick
+   Email: mmccormick@oru.edu
+   Username: mmccormick
+   Original line: Matt McCormick Assistant Coach 918-495- mmccormick@oru.edu
+
+19. Ryan Bush
+   Email: rybush@oru.edu
+   Username: rybush
+   Original line: Ryan Bush Head Coach 918-495- rybush@oru.edu
+
+20. Saif Alsafeer
+   Email: salsafeer@oru.edu
+   Username: salsafeer
+   Original line: Saif Alsafeer Associate Head Coach salsafeer@oru.edu
+
+21. John Woodhead
+   Email: jrwoodhead@oru.edu
+   Username: jrwoodhead
+   Original line: John Woodhead Assistant Coach (918) 991- jrwoodhead@oru.edu
+
+22. Austin Risenhoover
+   Email: arisenhoover@oru.edu
+   Username: arisenhoover
+   Original line: Austin Risenhoover Head Coach 405-306- arisenhoover@oru.edu @Hoover25
+
+23. Dria Hampton
+   Email: alhampton@oru.edu
+   Username: alhampton
+   Original line: Dria Hampton Assistant Coach 405-315- alhampton@oru.edu
+
+24. Jacob Rogers
+   Email: jarogers@oru.edu
+   Username: jarogers
+   Original line: Jacob Rogers Assistant Coach/Goalkeeper Coach jarogers@oru.edu
+
+25. Alick Musukuma
+   Email: almusukuma@oru.edu
+   Username: almusukuma
+   Original line: Alick Musukuma Head Coach 918-495- almusukuma@oru.edu
+
+26. Jon Hughes
+   Email: jhughes@oru.edu
+   Username: jhughes
+   Original line: Jon Hughes Assistant Coach (Sprints, Hurdles, and 918-495- jhughes@oru.edu
+
+27. Tre Manning
+   Email: tmanning@oru.edu
+   Username: tmanning
+   Original line: Tre Manning Assistant Coach (Jumps) 918-495- tmanning@oru.edu
+
+28. Nolan Albrecht
+   Email: nalbrecht@oru.edu
+   Username: nalbrecht
+   Original line: Nolan Albrecht Head Coach nalbrecht@oru.edu
+
+29. Annika Moulder
+   Email: amoulder@oru.edu
+   Username: amoulder
+   Original line: Annika Moulder Assistant Coach 918-495- amoulder@oru.edu
+
+30. Katy Morrison
+   Email: kmorrison@oru.edu
+   Username: kmorrison
+   Original line: Katy Morrison Assistant Coach 918-495- kmorrison@oru.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ryan Folmar Head Coach 918-495- baseball@oru.edu @ORUFolmar
+• Ryan Neill Associate Head Coach 918-495- jneill@oru.edu @ORUcoachNeill
+• Wes Davis Assistant Coach 918-495- wdavis@oru.edu @WessonsWD
+• Kory Alford Associate Head Coach 918-495- kalford@oru.edu @KoryAlford
+• Van Green Assistant Coach 918-495- vangreen@oru.edu @VGreenBBall
+• Donovan Williams Assistant Coach 918-495- dowilliams@oru.edu @CoachD_Williams
+• Will Saxon Assistant Coach 918-495- wsaxon@oru.edu @Will_Saxon
+• Isaac Green Assistant Coach/Chief of Staff 918-495- igreen@oru.edu @Isaac_Green_
+• Cophie Anderson Head Coach 918-495- coanderson@oru.edu @coachc_anderson
+• Bill Annan Associate Head Coach/Recruiting 918-495- wannan@oru.edu @BillAnnan
+• Wayne Anderson Assistant Coach/Director of Basketball 918-495- wanderson@oru.edu @coacha918
+• Hayden Priddy Assistant Coach/Director of Offense 918-495- hpriddy@oru.edu @HPriddy15
+• P'hariz Watkins Assistant Coach/Director of Player Personnel 918-495- pwatkins@oru.edu PharizWatkins
+• Alick Musukuma Head Coach 918-495- almusukuma@oru.edu
+• Tim Braaten Associate Head Coach 918-495- tbraaten@oru.edu
+• Matt McCormick Assistant Coach 918-495- mmccormick@oru.edu
+• Tim Braaten Associate Head Coach 918-495- tbraaten@oru.edu
+• Matt McCormick Assistant Coach 918-495- mmccormick@oru.edu
+• Ryan Bush Head Coach 918-495- rybush@oru.edu
+• Saif Alsafeer Associate Head Coach salsafeer@oru.edu
+• John Woodhead Assistant Coach (918) 991- jrwoodhead@oru.edu
+• Austin Risenhoover Head Coach 405-306- arisenhoover@oru.edu @Hoover25
+• Dria Hampton Assistant Coach 405-315- alhampton@oru.edu
+• Jacob Rogers Assistant Coach/Goalkeeper Coach jarogers@oru.edu
+• Alick Musukuma Head Coach 918-495- almusukuma@oru.edu
+• Jon Hughes Assistant Coach (Sprints, Hurdles, and 918-495- jhughes@oru.edu
+• Tre Manning Assistant Coach (Jumps) 918-495- tmanning@oru.edu
+• Nolan Albrecht Head Coach nalbrecht@oru.edu
+• Annika Moulder Assistant Coach 918-495- amoulder@oru.edu
+• Katy Morrison Assistant Coach 918-495- kmorrison@oru.edu

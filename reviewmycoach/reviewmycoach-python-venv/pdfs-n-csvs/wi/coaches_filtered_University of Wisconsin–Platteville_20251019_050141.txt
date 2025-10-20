@@ -1,0 +1,298 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:41
+============================================================
+
+Total coaches found: 44
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kellen Bornbach
+   Email: bornbachke@uwplatt.edu
+   Username: bornbachke
+   Original line: Kellen Bornbach Associate Head Strength and Conditioning Coach bornbachke@uwplatt.edu
+
+2. Trevor Schier
+   Email: schiert@uwplatt.edu
+   Username: schiert
+   Original line: Trevor Schier Assistant Strength and Conditioning Coach (sponsored by schiert@uwplatt.edu
+
+3. Jeff Gard
+   Email: gardj@uwplatt.edu
+   Username: gardj
+   Phone: (608) 342-1278
+   Original line: Jeff Gard Head Men's Basketball Coach (608) 342-1278 gardj@uwplatt.edu
+
+4. Chad Harris
+   Email: harrischa@uwplatt.edu
+   Username: harrischa
+   Phone: (608) 342-1843
+   Original line: Chad Harris Head Coach (608) 342-1843 harrischa@uwplatt.edu
+
+5. Marshall Owens
+   Email: Owensjo@uwplatt.edu
+   Username: Owensjo
+   Original line: Marshall Owens Assistant Coach | Recruiting Coordinator Owensjo@uwplatt.edu
+
+6. Isaac Stanton
+   Email: stantoni@uwplatt.edu
+   Username: stantoni
+   Phone: (608) 342-7242
+   Original line: Isaac Stanton Assistant Coach (608) 342-7242 stantoni@uwplatt.edu
+
+7. Karsten Leigvold
+   Email: leigvoldk@uwplatt.edu
+   Username: leigvoldk
+   Original line: Karsten Leigvold Assistant Coach leigvoldk@uwplatt.edu
+
+8. Kellen Bornbach
+   Email: bornbachke@uwplatt.edu
+   Username: bornbachke
+   Original line: Kellen Bornbach Associate Head Strength and Conditioning Coach bornbachke@uwplatt.edu
+
+9. Jeff Gard
+   Email: gardj@uwplatt.edu
+   Username: gardj
+   Phone: (608) 342-1278
+   Original line: Jeff Gard Head Men's Basketball Coach (608) 342-1278 gardj@uwplatt.edu
+
+10. Kegan Schieve
+   Email: schievek@uwplatt.edu
+   Username: schievek
+   Phone: (608) 342-7671
+   Original line: Kegan Schieve Assistant Coach (608) 342-7671 schievek@uwplatt.edu
+
+11. Richie Rosenblum
+   Email: rosenblumr@uwplatt.edu
+   Username: rosenblumr
+   Phone: (608) 342-7671
+   Original line: Richie Rosenblum Assistant Coach (608) 342-7671 rosenblumr@uwplatt.edu
+
+12. Jim Lawinger
+   Email: louielaw67@gmail.com
+   Username: louielaw67
+   Phone: (262) 894-9578
+   Original line: Jim Lawinger Assistant Coach (262) 894-9578 louielaw67@gmail.com
+
+13. Kelly McNiff
+   Email: mcniffk@uwplatt.edu
+   Username: mcniffk
+   Phone: (608) 342-1856
+   Original line: Kelly McNiff Head Coach | Women's Leadership/Sharpen the Axe (608) 342-1856 mcniffk@uwplatt.edu
+
+14. Marissa Delsman
+   Email: delsmanm@uwplatt.edu
+   Username: delsmanm
+   Phone: (608) 342-1477
+   Original line: Marissa Delsman Assistant Women's Basketball Coach (608) 342-1477 delsmanm@uwplatt.edu
+
+15. James Akita
+   Email: akitaja@uwplatt.edu
+   Username: akitaja
+   Phone: (608) 342-1504
+   Original line: James Akita Head Cross Country Coach | Assistant Track & Field (608) 342-1504 akitaja@uwplatt.edu
+
+16. Ryan Munz
+   Email: munzr@uwplatt.edu
+   Username: munzr
+   Phone: (608) 342-1045
+   Original line: Ryan Munz Head Coach (608) 342-1045 munzr@uwplatt.edu
+
+17. Dan Bauder
+   Email: bauderd@uwplatt.edu
+   Username: bauderd
+   Original line: Dan Bauder Defensive Coordinator | Linebackers Coach bauderd@uwplatt.edu
+
+18. Brent Allen
+   Email: allenbren@uwplatt.edu
+   Username: allenbren
+   Original line: Brent Allen Offensive Coordinator | Offensive Line Coach allenbren@uwplatt.edu
+
+19. Ryley Bailey
+   Email: baileyryl@uwplatt.edu
+   Username: baileyryl
+   Original line: Ryley Bailey Passing Coordinator | Quarterbacks Coach baileyryl@uwplatt.edu
+
+20. Tyler Bacon
+   Email: bacont@uwplatt.edu
+   Username: bacont
+   Original line: Tyler Bacon Defensive Line Coach | Assistant Recruiting Coordinator bacont@uwplatt.edu
+
+21. Dan Arnold
+   Email: arnolddan@uwplatt.edu
+   Username: arnolddan
+   Original line: Dan Arnold Special Teams Coordinator | Tight Ends Coach arnolddan@uwplatt.edu
+
+22. Owen Riese
+   Email: rieseo@uwplatt.edu
+   Username: rieseo
+   Original line: Owen Riese Assistant Offensive Line Coach | NFL Liaison rieseo@uwplatt.edu
+
+23. Jason Weittenhiller
+   Email: weitteja@uwplatt.edu
+   Username: weitteja
+   Original line: Jason Weittenhiller Assistant Defensive Line Coach weitteja@uwplatt.edu
+
+24. Josh Anderson
+   Email: andersonjos@uwplatt.edu
+   Username: andersonjos
+   Original line: Josh Anderson Assistant Wide Receiver Coach andersonjos@uwplatt.edu
+
+25. Jon Rebholz
+   Email: rebholzj@uwplatt.edu
+   Username: rebholzj
+   Original line: Jon Rebholz Head Golf Coach rebholzj@uwplatt.edu
+
+26. Pete Reif
+   Email: reifp@uwplatt.edu
+   Username: reifp
+   Original line: Pete Reif Swing Coach reifp@uwplatt.edu
+
+27. Jesse Tinney
+   Email: tinneyje@uwplatt.edu
+   Username: tinneyje
+   Phone: (608) 342-6164
+   Original line: Jesse Tinney Men's Head Coach (608) 342-6164 tinneyje@uwplatt.edu
+
+28. Tom Corcoran
+   Email: corcoranth@uwplatt.edu
+   Username: corcoranth
+   Phone: (608)342-7366
+   Original line: Tom Corcoran Associate Head Soccer Coach (608)342-7366 corcoranth@uwplatt.edu
+
+29. Eliza Denmeade
+   Email: denmeadee@uwplatt.edu
+   Username: denmeadee
+   Phone: (608) 342-1160
+   Original line: Eliza Denmeade Women's Head Coach | Sports Performance Fellow (608) 342-1160 denmeadee@uwplatt.edu
+
+30. Tom Corcoran
+   Email: corcoranth@uwplatt.edu
+   Username: corcoranth
+   Phone: (608)342-7366
+   Original line: Tom Corcoran Associate Head Soccer Coach (608)342-7366 corcoranth@uwplatt.edu
+
+31. Colin Johnson
+   Email: johnsoncol@uwplatt.edu
+   Username: johnsoncol
+   Original line: Colin Johnson Assistant Coach (Goalkeepers) johnsoncol@uwplatt.edu
+
+32. Becca Runde
+   Email: lowere@uwplatt.edu
+   Username: lowere
+   Phone: (608) 342-1677
+   Original line: Becca Runde Head Coach (608) 342-1677 lowere@uwplatt.edu
+
+33. Riley Kelsch
+   Email: kelschr@uwplatt.edu
+   Username: kelschr
+   Phone: (608) 342-1778
+   Original line: Riley Kelsch Assistant Coach (608) 342-1778 kelschr@uwplatt.edu
+
+34. Robert Lowe
+   Email: coachrobertlowe@gmail.com
+   Username: coachrobertlowe
+   Original line: Robert Lowe Assistant Pitching and Catching Coach coachrobertlowe@gmail.com
+
+35. Chris Rotzenberg
+   Email: rotzenbergc@uwplatt.edu
+   Username: rotzenbergc
+   Phone: (608) 342-1008
+   Original line: Chris Rotzenberg Head Track and Field Coach (608) 342-1008 rotzenbergc@uwplatt.edu
+
+36. Andres Young
+   Email: youngan@uwplatt.edu
+   Username: youngan
+   Phone: (608) 342-1263
+   Original line: Andres Young Associate Head Coach (Pole Vault | Hurdles | Javelin) | (608) 342-1263 youngan@uwplatt.edu
+
+37. Lexus Lovan
+   Email: lovanl@uwplatt.edu
+   Username: lovanl
+   Phone: (608) 342-1522
+   Original line: Lexus Lovan Assistant Track and Field Coach (Sprints) | Recruiting Office: (608) 342-1522 | lovanl@uwplatt.edu
+
+38. Armando Payan
+   Email: payana@uwplatt.edu
+   Username: payana
+   Original line: Armando Payan Assistant Track and Field Coach (Sprints) payana@uwplatt.edu
+
+39. Steve "Spider"
+   Email: fromaders@uwplatt.edu
+   Username: fromaders
+   Original line: Steve "Spider" Fromader Assistant Coach (High Jump) fromaders@uwplatt.edu
+
+40. James Akita
+   Email: akitaja@uwplatt.edu
+   Username: akitaja
+   Phone: (608) 342-1504
+   Original line: James Akita Head Cross Country Coach | Assistant Track & Field (608) 342-1504 akitaja@uwplatt.edu
+
+41. Samantha Birkicht
+   Email: birkichts@uwplatt.edu
+   Username: birkichts
+   Phone: (608) 342-1578
+   Original line: Samantha Birkicht Head Coach (608) 342-1578 birkichts@uwplatt.edu
+
+42. Nick Pinnola
+   Email: pinnolan@uwplatt.edu
+   Username: pinnolan
+   Phone: (608) 342-1255
+   Original line: Nick Pinnola Associate Head Coach (608) 342-1255 pinnolan@uwplatt.edu
+
+43. Topher Carton
+   Email: cartonc@uwplatt.edu
+   Username: cartonc
+   Original line: Topher Carton Head Coach cartonc@uwplatt.edu
+
+44. Alex Friddle
+   Email: friddlea@uwplatt.edu
+   Username: friddlea
+   Original line: Alex Friddle Assistant Coach friddlea@uwplatt.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kellen Bornbach Associate Head Strength and Conditioning Coach bornbachke@uwplatt.edu
+• Trevor Schier Assistant Strength and Conditioning Coach (sponsored by schiert@uwplatt.edu
+• Jeff Gard Head Men's Basketball Coach (608) 342-1278 gardj@uwplatt.edu
+• Chad Harris Head Coach (608) 342-1843 harrischa@uwplatt.edu
+• Marshall Owens Assistant Coach | Recruiting Coordinator Owensjo@uwplatt.edu
+• Isaac Stanton Assistant Coach (608) 342-7242 stantoni@uwplatt.edu
+• Karsten Leigvold Assistant Coach leigvoldk@uwplatt.edu
+• Kellen Bornbach Associate Head Strength and Conditioning Coach bornbachke@uwplatt.edu
+• Jeff Gard Head Men's Basketball Coach (608) 342-1278 gardj@uwplatt.edu
+• Kegan Schieve Assistant Coach (608) 342-7671 schievek@uwplatt.edu
+• Richie Rosenblum Assistant Coach (608) 342-7671 rosenblumr@uwplatt.edu
+• Jim Lawinger Assistant Coach (262) 894-9578 louielaw67@gmail.com
+• Kelly McNiff Head Coach | Women's Leadership/Sharpen the Axe (608) 342-1856 mcniffk@uwplatt.edu
+• Marissa Delsman Assistant Women's Basketball Coach (608) 342-1477 delsmanm@uwplatt.edu
+• James Akita Head Cross Country Coach | Assistant Track & Field (608) 342-1504 akitaja@uwplatt.edu
+• Ryan Munz Head Coach (608) 342-1045 munzr@uwplatt.edu
+• Dan Bauder Defensive Coordinator | Linebackers Coach bauderd@uwplatt.edu
+• Brent Allen Offensive Coordinator | Offensive Line Coach allenbren@uwplatt.edu
+• Ryley Bailey Passing Coordinator | Quarterbacks Coach baileyryl@uwplatt.edu
+• Tyler Bacon Defensive Line Coach | Assistant Recruiting Coordinator bacont@uwplatt.edu
+• Dan Arnold Special Teams Coordinator | Tight Ends Coach arnolddan@uwplatt.edu
+• Owen Riese Assistant Offensive Line Coach | NFL Liaison rieseo@uwplatt.edu
+• Jason Weittenhiller Assistant Defensive Line Coach weitteja@uwplatt.edu
+• Josh Anderson Assistant Wide Receiver Coach andersonjos@uwplatt.edu
+• Jon Rebholz Head Golf Coach rebholzj@uwplatt.edu
+• Pete Reif Swing Coach reifp@uwplatt.edu
+• Jesse Tinney Men's Head Coach (608) 342-6164 tinneyje@uwplatt.edu
+• Tom Corcoran Associate Head Soccer Coach (608)342-7366 corcoranth@uwplatt.edu
+• Eliza Denmeade Women's Head Coach | Sports Performance Fellow (608) 342-1160 denmeadee@uwplatt.edu
+• Tom Corcoran Associate Head Soccer Coach (608)342-7366 corcoranth@uwplatt.edu
+• Colin Johnson Assistant Coach (Goalkeepers) johnsoncol@uwplatt.edu
+• Becca Runde Head Coach (608) 342-1677 lowere@uwplatt.edu
+• Riley Kelsch Assistant Coach (608) 342-1778 kelschr@uwplatt.edu
+• Robert Lowe Assistant Pitching and Catching Coach coachrobertlowe@gmail.com
+• Chris Rotzenberg Head Track and Field Coach (608) 342-1008 rotzenbergc@uwplatt.edu
+• Andres Young Associate Head Coach (Pole Vault | Hurdles | Javelin) | (608) 342-1263 youngan@uwplatt.edu
+• Lexus Lovan Assistant Track and Field Coach (Sprints) | Recruiting Office: (608) 342-1522 | lovanl@uwplatt.edu
+• Armando Payan Assistant Track and Field Coach (Sprints) payana@uwplatt.edu
+• Steve "Spider" Fromader Assistant Coach (High Jump) fromaders@uwplatt.edu
+• James Akita Head Cross Country Coach | Assistant Track & Field (608) 342-1504 akitaja@uwplatt.edu
+• Samantha Birkicht Head Coach (608) 342-1578 birkichts@uwplatt.edu
+• Nick Pinnola Associate Head Coach (608) 342-1255 pinnolan@uwplatt.edu
+• Topher Carton Head Coach cartonc@uwplatt.edu
+• Alex Friddle Assistant Coach friddlea@uwplatt.edu

@@ -1,0 +1,281 @@
+COACH ENTRIES FOUND - 2025-10-19 04:30:32
+============================================================
+
+Total coaches found: 45
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tammy Duursma
+   Email: Tammy.Duursma@ndsu.edu
+   Username: Tammy.Duursma
+   Original line: Tammy Duursma Cheer Team Coach Tammy.Duursma@ndsu.edu
+
+2. Stephanie Thompson
+   Email: Stephanie.H.Robinson@live.com
+   Username: Stephanie.H.Robinson
+   Original line: Stephanie Thompson Cheer Team Assistant Coach Stephanie.H.Robinson@live.com
+
+3. Corbin Green
+   Email: Corbin.Green@ndsu.edu
+   Username: Corbin.Green
+   Original line: Corbin Green Assistant Athletic Performance Coach Corbin.Green@ndsu.edu
+
+4. Adam Mead
+   Email: Adam.Mead@ndsu.edu
+   Username: Adam.Mead
+   Original line: Adam Mead Assistant Strength and Conditioning Coach Adam.Mead@ndsu.edu (701) 238-
+
+5. Tyler Oakes
+   Email: Tyler.Oakes@ndsu.edu
+   Username: Tyler.Oakes
+   Original line: Tyler Oakes Head Coach Tyler.Oakes@ndsu.edu
+
+6. Brandon Hunt
+   Email: Brandon.Hunt@ndsu.edu
+   Username: Brandon.Hunt
+   Original line: Brandon Hunt Assistant Coach/Recruiting Coordinator Brandon.Hunt@ndsu.edu
+
+7. Tanner Neale
+   Email: Tanner.Neale@ndsu.edu
+   Username: Tanner.Neale
+   Original line: Tanner Neale Assistant Coach Tanner.Neale@ndsu.edu
+
+8. Luke Strege
+   Email: Luke.Strege@ndsu.edu
+   Username: Luke.Strege
+   Original line: Luke Strege Assistant Coach Luke.Strege@ndsu.edu (701) 231-
+
+9. Joshua Jones
+   Email: Joshua.E.Jones@ndsu.edu
+   Username: Joshua.E.Jones
+   Original line: Joshua Jones Assistant Coach Joshua.E.Jones@ndsu.edu (701) 231-
+
+10. Spencer Wilker
+   Email: Spencer.Wilker@ndsu.edu
+   Username: Spencer.Wilker
+   Original line: Spencer Wilker ('19) Assistant Coach Spencer.Wilker@ndsu.edu (701) 231-
+
+11. Camron Greer
+   Email: Camron.Greer@ndsu.edu
+   Username: Camron.Greer
+   Original line: Camron Greer ('24) Assistant Coach Camron.Greer@ndsu.edu (701) 231-
+
+12. Jory Collins
+   Email: Jory.Collins@ndsu.edu
+   Username: Jory.Collins
+   Original line: Jory Collins Head Coach Jory.Collins@ndsu.edu
+
+13. Dylan Geissert
+   Email: Dylan.Geissert@ndsu.edu
+   Username: Dylan.Geissert
+   Original line: Dylan Geissert Associate Head Coach Dylan.Geissert@ndsu.edu
+
+14. Jaime Adams
+   Email: Jaime.L.Adams@ndsu.edu
+   Username: Jaime.L.Adams
+   Original line: Jaime Adams Assistant Coach Jaime.L.Adams@ndsu.edu
+
+15. Michaela Everett
+   Email: Michaela.Everett@ndsu.edu
+   Username: Michaela.Everett
+   Original line: Michaela Everett Assistant Coach Michaela.Everett@ndsu.edu
+
+16. Dennis Newell
+   Email: Dennis.Newell@ndsu.edu
+   Username: Dennis.Newell
+   Original line: Dennis Newell Head Cross Country Coach Dennis.Newell@ndsu.edu
+
+17. Lexi Roehl
+   Email: Alexis.Roehl@ndsu.edu
+   Username: Alexis.Roehl
+   Original line: Lexi Roehl Assistant Coach Alexis.Roehl@ndsu.edu
+
+18. Dennis Newell
+   Email: Dennis.Newell@ndsu.edu
+   Username: Dennis.Newell
+   Original line: Dennis Newell Head Cross Country Coach Dennis.Newell@ndsu.edu
+
+19. Lexi Roehl
+   Email: Alexis.Roehl@ndsu.edu
+   Username: Alexis.Roehl
+   Original line: Lexi Roehl Assistant Coach Alexis.Roehl@ndsu.edu
+
+20. Ekren Miller
+   Email: ekren.miller@ndsu.edu
+   Username: ekren.miller
+   Original line: Dr. Ekren Miller Head Coach ekren.miller@ndsu.edu
+
+21. Matt Johnson
+   Email: Matthew.O.Johnson@ndsu.edu
+   Username: Matthew.O.Johnson
+   Original line: Matt Johnson Head Coach Matthew.O.Johnson@ndsu.edu (701) 730-
+
+22. Mike Regan
+   Email: Michael.R.Regan@ndsu.edu
+   Username: Michael.R.Regan
+   Original line: Mike Regan Head Coach Michael.R.Regan@ndsu.edu
+
+23. Chris Higgins
+   Email: Chris.Higgins.1@ndsu.edu
+   Username: Chris.Higgins.1
+   Original line: Chris Higgins Associate Head Coach Chris.Higgins.1@ndsu.edu
+
+24. Ashley St.
+   Email: Ashley.Staubin@ndsu.edu
+   Username: Ashley.Staubin
+   Original line: Ashley St. Aubin Assistant Coach Ashley.Staubin@ndsu.edu
+
+25. Darren Mueller
+   Email: Darren.Mueller@ndsu.edu
+   Username: Darren.Mueller
+   Original line: Darren Mueller Head Coach Darren.Mueller@ndsu.edu
+
+26. Gerice Olson
+   Email: Gerice.Olson@ndsu.edu
+   Username: Gerice.Olson
+   Original line: Gerice Olson Associate Head Coach Gerice.Olson@ndsu.edu
+
+27. Ashley Schilling
+   Email: Ashley.Schilling.1@ndsu.edu
+   Username: Ashley.Schilling.1
+   Original line: Ashley Schilling Assistant Coach Ashley.Schilling.1@ndsu.edu
+
+28. Dennis Newell
+   Email: Dennis.Newell@ndsu.edu
+   Username: Dennis.Newell
+   Original line: Dennis Newell Head Cross Country Coach Dennis.Newell@ndsu.edu
+
+29. Clayton Pritchard
+   Email: Clayton.Pritchard@ndsu.edu
+   Username: Clayton.Pritchard
+   Original line: Clayton Pritchard Assistant Coach - Jumps Clayton.Pritchard@ndsu.edu
+
+30. Reece Vega
+   Email: Reece.Vega@ndsu.edu
+   Username: Reece.Vega
+   Original line: Reece Vega Assistant Coach - Sprints, Hurdles Reece.Vega@ndsu.edu
+
+31. Jackson Schepp
+   Email: Jackson.Schepp@ndsu.edu
+   Username: Jackson.Schepp
+   Original line: Jackson Schepp Assistant Coach - Multi-Events, Pole Vault Jackson.Schepp@ndsu.edu
+
+32. Drew Jones
+   Email: Drew.A.Jones@ndsu.edu
+   Username: Drew.A.Jones
+   Original line: Drew Jones Assistant Coach - Throws Drew.A.Jones@ndsu.edu
+
+33. Dennis Newell
+   Email: Dennis.Newell@ndsu.edu
+   Username: Dennis.Newell
+   Original line: Dennis Newell Head Cross Country Coach Dennis.Newell@ndsu.edu
+
+34. Clayton Pritchard
+   Email: Clayton.Pritchard@ndsu.edu
+   Username: Clayton.Pritchard
+   Original line: Clayton Pritchard Assistant Coach - Jumps Clayton.Pritchard@ndsu.edu
+
+35. Reece Vega
+   Email: Reece.Vega@ndsu.edu
+   Username: Reece.Vega
+   Original line: Reece Vega Assistant Coach - Sprints, Hurdles Reece.Vega@ndsu.edu
+
+36. Jackson Schepp
+   Email: Jackson.Schepp@ndsu.edu
+   Username: Jackson.Schepp
+   Original line: Jackson Schepp Assistant Coach - Multi-Events, Pole Vault Jackson.Schepp@ndsu.edu
+
+37. Drew Jones
+   Email: Drew.A.Jones@ndsu.edu
+   Username: Drew.A.Jones
+   Original line: Drew Jones Assistant Coach - Throws Drew.A.Jones@ndsu.edu
+
+38. Jennifer Lopez
+   Email: Jennifer.Lopez@ndsu.edu
+   Username: Jennifer.Lopez
+   Original line: Jennifer Lopez Head Coach Jennifer.Lopez@ndsu.edu
+
+39. Kelly Lopez
+   Email: Kelly.Lopez@ndsu.edu
+   Username: Kelly.Lopez
+   Original line: Kelly Lopez Assistant Coach Kelly.Lopez@ndsu.edu
+
+40. Kris Grunwald
+   Email: Kristopher.Grunwald@ndsu.edu
+   Username: Kristopher.Grunwald
+   Original line: Kris Grunwald Assistant Coach Kristopher.Grunwald@ndsu.edu
+
+41. Keegan Brumitt
+   Email: Keegan.Brumitt@ndsu.edu
+   Username: Keegan.Brumitt
+   Original line: Keegan Brumitt Assistant Coach Keegan.Brumitt@ndsu.edu
+
+42. Obenson Blanc
+   Email: Obenson.Blanc@ndsu.edu
+   Username: Obenson.Blanc
+   Original line: Obenson Blanc Head Coach Obenson.Blanc@ndsu.edu
+
+43. Scott Mattingly
+   Email: Scott.Mattingly@ndsu.edu
+   Username: Scott.Mattingly
+   Original line: Scott Mattingly Head Assistant Coach Scott.Mattingly@ndsu.edu
+
+44. Willie Miklus
+   Email: William.Miklus@ndsu.edu
+   Username: William.Miklus
+   Original line: Willie Miklus Assistant Coach William.Miklus@ndsu.edu 701-964-
+
+45. Collin Purinton
+   Email: Collin.Purinton@ndsu.edu
+   Username: Collin.Purinton
+   Original line: Collin Purinton Assistant Coach Collin.Purinton@ndsu.edu 503-213-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tammy Duursma Cheer Team Coach Tammy.Duursma@ndsu.edu
+• Stephanie Thompson Cheer Team Assistant Coach Stephanie.H.Robinson@live.com
+• Corbin Green Assistant Athletic Performance Coach Corbin.Green@ndsu.edu
+• Adam Mead Assistant Strength and Conditioning Coach Adam.Mead@ndsu.edu (701) 238-
+• Tyler Oakes Head Coach Tyler.Oakes@ndsu.edu
+• Brandon Hunt Assistant Coach/Recruiting Coordinator Brandon.Hunt@ndsu.edu
+• Tanner Neale Assistant Coach Tanner.Neale@ndsu.edu
+• Luke Strege Assistant Coach Luke.Strege@ndsu.edu (701) 231-
+• Joshua Jones Assistant Coach Joshua.E.Jones@ndsu.edu (701) 231-
+• Spencer Wilker ('19) Assistant Coach Spencer.Wilker@ndsu.edu (701) 231-
+• Camron Greer ('24) Assistant Coach Camron.Greer@ndsu.edu (701) 231-
+• Jory Collins Head Coach Jory.Collins@ndsu.edu
+• Dylan Geissert Associate Head Coach Dylan.Geissert@ndsu.edu
+• Jaime Adams Assistant Coach Jaime.L.Adams@ndsu.edu
+• Michaela Everett Assistant Coach Michaela.Everett@ndsu.edu
+• Dennis Newell Head Cross Country Coach Dennis.Newell@ndsu.edu
+• Lexi Roehl Assistant Coach Alexis.Roehl@ndsu.edu
+• Dennis Newell Head Cross Country Coach Dennis.Newell@ndsu.edu
+• Lexi Roehl Assistant Coach Alexis.Roehl@ndsu.edu
+• Dr. Ekren Miller Head Coach ekren.miller@ndsu.edu
+• Matt Johnson Head Coach Matthew.O.Johnson@ndsu.edu (701) 730-
+• Mike Regan Head Coach Michael.R.Regan@ndsu.edu
+• Chris Higgins Associate Head Coach Chris.Higgins.1@ndsu.edu
+• Ashley St. Aubin Assistant Coach Ashley.Staubin@ndsu.edu
+• Darren Mueller Head Coach Darren.Mueller@ndsu.edu
+• Gerice Olson Associate Head Coach Gerice.Olson@ndsu.edu
+• Ashley Schilling Assistant Coach Ashley.Schilling.1@ndsu.edu
+• Dennis Newell Head Cross Country Coach Dennis.Newell@ndsu.edu
+• Clayton Pritchard Assistant Coach - Jumps Clayton.Pritchard@ndsu.edu
+• Reece Vega Assistant Coach - Sprints, Hurdles Reece.Vega@ndsu.edu
+• Jackson Schepp Assistant Coach - Multi-Events, Pole Vault Jackson.Schepp@ndsu.edu
+• Drew Jones Assistant Coach - Throws Drew.A.Jones@ndsu.edu
+• Dennis Newell Head Cross Country Coach Dennis.Newell@ndsu.edu
+• Clayton Pritchard Assistant Coach - Jumps Clayton.Pritchard@ndsu.edu
+• Reece Vega Assistant Coach - Sprints, Hurdles Reece.Vega@ndsu.edu
+• Jackson Schepp Assistant Coach - Multi-Events, Pole Vault Jackson.Schepp@ndsu.edu
+• Drew Jones Assistant Coach - Throws Drew.A.Jones@ndsu.edu
+• Jennifer Lopez Head Coach Jennifer.Lopez@ndsu.edu
+• Kelly Lopez Assistant Coach Kelly.Lopez@ndsu.edu
+• Kris Grunwald Assistant Coach Kristopher.Grunwald@ndsu.edu
+• Keegan Brumitt Assistant Coach Keegan.Brumitt@ndsu.edu
+• Obenson Blanc Head Coach Obenson.Blanc@ndsu.edu
+• Scott Mattingly Head Assistant Coach Scott.Mattingly@ndsu.edu
+• Willie Miklus Assistant Coach William.Miklus@ndsu.edu 701-964-
+• Collin Purinton Assistant Coach Collin.Purinton@ndsu.edu 503-213-

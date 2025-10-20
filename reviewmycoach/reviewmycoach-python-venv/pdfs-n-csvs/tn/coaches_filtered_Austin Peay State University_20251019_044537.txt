@@ -1,0 +1,227 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:37
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Roland Fanning
+   Email: fanningr@apsu.edu
+   Username: fanningr
+   Original line: Roland Fanning Head Coach fanningr@apsu.edu DWN 221-
+
+2. Keirce Kimbel
+   Email: kimbelk@apsu.edu
+   Username: kimbelk
+   Original line: Keirce Kimbel Associate Head Coach kimbelk@apsu.edu DWN
+
+3. Jon Littell
+   Email: littellj@apsu.edu
+   Username: littellj
+   Original line: Jon Littell Associate Head Coach littellj@apsu.edu DWN
+
+4. Nolan Fanning
+   Email: fanningn@apsu.edu
+   Username: fanningn
+   Original line: Nolan Fanning Assistant Coach fanningn@apsu.edu DWN
+
+5. Rodney Hamilton
+   Email: hamiltonrk@apsu.edu
+   Username: hamiltonrk
+   Original line: Rodney Hamilton Associate Head Coach hamiltonrk@apsu.edu FMBA
+
+6. Tim Ward
+   Email: wardt@apsu.edu
+   Username: wardt
+   Original line: Tim Ward Associate Head Coach wardt@apsu.edu FMBA
+
+7. Dugan Lyne
+   Email: lynej@apsu.edu
+   Username: lynej
+   Original line: Dugan Lyne Assistant Coach lynej@apsu.edu FMBA
+
+8. Brittany Young
+   Email: youngb@apsu.edu
+   Username: youngb
+   Original line: Brittany Young Head Coach youngb@apsu.edu FMBA
+
+9. Peggy Knight
+   Email: knightp@apsu.edu
+   Username: knightp
+   Original line: Peggy Knight Assistant Coach knightp@apsu.edu FMBA
+
+10. Victoria Morris
+   Email: morrisv@apsu.edu
+   Username: morrisv
+   Original line: Victoria Morris Assistant Coach morrisv@apsu.edu FMBA
+
+11. Michael Hobson
+   Email: hobsonm@apsu.edu
+   Username: hobsonm
+   Original line: Michael Hobson Head Coach hobsonm@apsu.edu
+
+12. Sarah Riedell
+   Email: riedells@apsu.edu
+   Username: riedells
+   Original line: Sarah Riedell Assistant Coach riedells@apsu.edu
+
+13. George Quarles
+   Email: quarlesg@apsu.edu
+   Username: quarlesg
+   Original line: George Quarles Tight Ends Coach quarlesg@apsu.edu DU 227 221-
+
+14. DeOn’Tae Pannell
+   Email: pannelld@apsu.edu
+   Username: pannelld
+   Original line: DeOn’Tae Pannell Defensive Line Coach pannelld@apsu.edu DU 227 221-
+
+15. Michael Gehl
+   Email: gehlm@apsu.edu
+   Username: gehlm
+   Original line: Michael Gehl Offensive Line Coach gehlm@apsu.edu DU 227 221-
+
+16. Brandon Williams
+   Email: williamsbm@apsu.edu
+   Username: williamsbm
+   Original line: Brandon Williams Linebackers Coach williamsbm@apsu.edu DU 227 221-
+
+17. Rodney Saulsberry
+   Email: saulsberryr@apsu.edu
+   Username: saulsberryr
+   Original line: Rodney Saulsberry Jr. Cornerbacks Coach saulsberryr@apsu.edu DU 227 221-
+
+18. Ben Thaw
+   Email: thawb@apsu.edu
+   Username: thawb
+   Original line: Ben Thaw Safeties Coach thawb@apsu.edu DU 227 221-
+
+19. Easton Key
+   Email: keye@apsu.edu
+   Username: keye
+   Original line: Easton Key Head Coach keye@apsu.edu
+
+20. Jack Lindgren
+   Email: lindgrenj@apsu.edu
+   Username: lindgrenj
+   Original line: Jack Lindgren Assistant Coach lindgrenj@apsu.edu
+
+21. Jessica Combs
+   Email: combsj@apsu.edu
+   Username: combsj
+   Original line: Jessica Combs Head Coach combsj@apsu.edu DU 315 221-
+
+22. Maggie Glass
+   Email: glassmm@apsu.edu
+   Username: glassmm
+   Original line: Maggie Glass Assistant Coach glassmm@apsu.edu DU 315 221-
+
+23. Melissa Rausch
+   Email: rauschm@apsu.edu
+   Username: rauschm
+   Original line: Melissa Rausch Head Coach rauschm@apsu.edu 221-
+
+24. Grace Reinold
+   Email: reinoldg@apsu.edu
+   Username: reinoldg
+   Original line: Grace Reinold Assistant Coach reinoldg@apsu.edu
+
+25. Kim McGowan
+   Email: mcgowank@apsu.edu
+   Username: mcgowank
+   Original line: Kim McGowan Head Coach mcgowank@apsu.edu DU 307 221-
+
+26. Taylor Borman
+   Email: bormant@apsu.edu
+   Username: bormant
+   Original line: Taylor Borman Assistant Coach bormant@apsu.edu DU 307 221-
+
+27. Gustavo Gutierrez
+   Email: gutierrezg@apsu.edu
+   Username: gutierrezg
+   Original line: Gustavo Gutierrez Assistant Coach gutierrezg@apsu.edu DU 307
+
+28. Kassie Stanfill
+   Email: stanfillk@apsu.edu
+   Username: stanfillk
+   Original line: Kassie Stanfill Head Coach stanfillk@apsu.edu DU 176 221-
+
+29. Danielle Liermann
+   Email: liermannd@apsu.edu
+   Username: liermannd
+   Original line: Danielle Liermann Assistant Coach liermannd@apsu.edu
+
+30. Gabi Apiag
+   Email: apiagg@apsu.edu
+   Username: apiagg
+   Original line: Gabi Apiag Assistant Coach apiagg@apsu.edu DU 176
+
+31. Kurt Kujawa
+   Email: kujawak@apsu.edu
+   Username: kujawak
+   Original line: Kurt Kujawa Head Men's Tennis Coach kujawak@apsu.edu JFF 101
+
+32. Jasmine Sensabaugh
+   Email: sensabaughj@apsu.edu
+   Username: sensabaughj
+   Original line: Jasmine Sensabaugh Assistant Coach (Throws) sensabaughj@apsu.edu
+
+33. Vanisha Wilshire
+   Email: wilshirev@apsu.edu
+   Username: wilshirev
+   Original line: Vanisha Wilshire Assistant Coach (Jumps) wilshirev@apsu.edu
+
+34. Evan Amstutz
+   Email: amstutze@apsu.edu
+   Username: amstutze
+   Original line: Evan Amstutz Head Coach amstutze@apsu.edu
+
+35. Kristen Fritsche
+   Email: fritschek@apsu.edu
+   Username: fritschek
+   Original line: Kristen Fritsche Assistant Coach fritschek@apsu.edu
+
+36. Luke Van
+   Email: vanhandell@apsu.edu
+   Username: vanhandell
+   Original line: Luke Van Handel Assistant Coach vanhandell@apsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Roland Fanning Head Coach fanningr@apsu.edu DWN 221-
+• Keirce Kimbel Associate Head Coach kimbelk@apsu.edu DWN
+• Jon Littell Associate Head Coach littellj@apsu.edu DWN
+• Nolan Fanning Assistant Coach fanningn@apsu.edu DWN
+• Rodney Hamilton Associate Head Coach hamiltonrk@apsu.edu FMBA
+• Tim Ward Associate Head Coach wardt@apsu.edu FMBA
+• Dugan Lyne Assistant Coach lynej@apsu.edu FMBA
+• Brittany Young Head Coach youngb@apsu.edu FMBA
+• Peggy Knight Assistant Coach knightp@apsu.edu FMBA
+• Victoria Morris Assistant Coach morrisv@apsu.edu FMBA
+• Michael Hobson Head Coach hobsonm@apsu.edu
+• Sarah Riedell Assistant Coach riedells@apsu.edu
+• George Quarles Tight Ends Coach quarlesg@apsu.edu DU 227 221-
+• DeOn’Tae Pannell Defensive Line Coach pannelld@apsu.edu DU 227 221-
+• Michael Gehl Offensive Line Coach gehlm@apsu.edu DU 227 221-
+• Brandon Williams Linebackers Coach williamsbm@apsu.edu DU 227 221-
+• Rodney Saulsberry Jr. Cornerbacks Coach saulsberryr@apsu.edu DU 227 221-
+• Ben Thaw Safeties Coach thawb@apsu.edu DU 227 221-
+• Easton Key Head Coach keye@apsu.edu
+• Jack Lindgren Assistant Coach lindgrenj@apsu.edu
+• Jessica Combs Head Coach combsj@apsu.edu DU 315 221-
+• Maggie Glass Assistant Coach glassmm@apsu.edu DU 315 221-
+• Melissa Rausch Head Coach rauschm@apsu.edu 221-
+• Grace Reinold Assistant Coach reinoldg@apsu.edu
+• Kim McGowan Head Coach mcgowank@apsu.edu DU 307 221-
+• Taylor Borman Assistant Coach bormant@apsu.edu DU 307 221-
+• Gustavo Gutierrez Assistant Coach gutierrezg@apsu.edu DU 307
+• Kassie Stanfill Head Coach stanfillk@apsu.edu DU 176 221-
+• Danielle Liermann Assistant Coach liermannd@apsu.edu
+• Gabi Apiag Assistant Coach apiagg@apsu.edu DU 176
+• Kurt Kujawa Head Men's Tennis Coach kujawak@apsu.edu JFF 101
+• Jasmine Sensabaugh Assistant Coach (Throws) sensabaughj@apsu.edu
+• Vanisha Wilshire Assistant Coach (Jumps) wilshirev@apsu.edu
+• Evan Amstutz Head Coach amstutze@apsu.edu
+• Kristen Fritsche Assistant Coach fritschek@apsu.edu
+• Luke Van Handel Assistant Coach vanhandell@apsu.edu

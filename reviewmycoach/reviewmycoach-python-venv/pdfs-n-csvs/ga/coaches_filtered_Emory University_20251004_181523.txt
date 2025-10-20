@@ -1,0 +1,311 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:23
+============================================================
+
+Total coaches found: 50
+
+PARSED ENTRIES:
+----------------------------------------
+1. Drew Williams
+   Email: andrew.c.williams@emory.edu
+   Username: andrew.c.williams
+   Original line: Drew Williams Head Coach, Strength & Conditioning 404-712- andrew.c.williams@emory.edu
+
+2. Sonya McMillan
+   Email: sonya.a.mcmillan@emory.edu
+   Username: sonya.a.mcmillan
+   Original line: Sonya McMillan Assistant Coach, Strength & Conditioning sonya.a.mcmillan@emory.edu
+
+3. Bobby Perez
+   Email: rmperez@emory.edu
+   Username: rmperez
+   Original line: Bobby Perez Head Coach 404-712- rmperez@emory.edu
+
+4. Sam Carpenter
+   Email: spcarpe@emory.edu
+   Username: spcarpe
+   Original line: Sam Carpenter Pitching Coach spcarpe@emory.edu
+
+5. Trace Twardoski
+   Email: ttward2@emory.edu
+   Username: ttward2
+   Original line: Trace Twardoski Assistant Coach ttward2@emory.edu
+
+6. John Sjoberg
+   Email: jsjober@emory.edu
+   Username: jsjober
+   Original line: John Sjoberg Head Coach 404-712- jsjober@emory.edu
+
+7. Sarah Butler
+   Email: sarah.butler@emory.edu
+   Username: sarah.butler
+   Original line: Sarah Butler Assistant Coach sarah.butler@emory.edu
+
+8. Jason Zimmerman
+   Email: jzimme4@emory.edu
+   Username: jzimme4
+   Original line: Jason Zimmerman Head Coach 404-727- jzimme4@emory.edu
+
+9. Mak Krause
+   Email: mark.andres.krause@emory.edu
+   Username: mark.andres.krause
+   Original line: Mak Krause Assistant Coach mark.andres.krause@emory.edu
+
+10. Charlie Copp
+   Email: charles.copp@emory.edu
+   Username: charles.copp
+   Original line: Charlie Copp Assistant Coach charles.copp@emory.edu
+
+11. Cory Greiner
+   Email: cgreine@emory.edu
+   Username: cgreine
+   Original line: Cory Greiner Head Coach (404) 727- cgreine@emory.edu
+
+12. Clayton Schmitt
+   Email: ceschmi@emory.edu
+   Username: ceschmi
+   Original line: Clayton Schmitt Associate Head Coach (404) 727- ceschmi@emory.edu
+
+13. Jon Howell
+   Email: jphowel@emory.edu
+   Username: jphowel
+   Original line: Jon Howell Head Coach 404-727- jphowel@emory.edu
+
+14. Cindy Fontana
+   Email: cindy.fontana@emory.edu
+   Username: cindy.fontana
+   Original line: Cindy Fontana Associate Coach 404-727- cindy.fontana@emory.edu
+
+15. John Petroff
+   Email: jpetrof@emory.edu
+   Username: jpetrof
+   Original line: John Petroff Assistant Coach 404-727- jpetrof@emory.edu
+
+16. Bob Hackett
+   Email: robert.w.hackett.jr@emory.edu
+   Username: robert.w.hackett.jr
+   Original line: Bob Hackett Assistant Coach robert.w.hackett.jr@emory.edu
+
+17. Tomasz Rossa
+   Email: tomasz.rossa@emory.edu
+   Username: tomasz.rossa
+   Original line: Tomasz Rossa Diving Coach tomasz.rossa@emory.edu
+
+18. John Browning
+   Email: jbrow25@emory.edu
+   Username: jbrow25
+   Original line: John Browning Head Coach 404-727- jbrow25@emory.edu
+
+19. Ian Melnik
+   Email: ian.melnik@emory.edu
+   Username: ian.melnik
+   Original line: Ian Melnik Assistant Coach ian.melnik@emory.edu
+
+20. Linh Nguyen
+   Email: linh.nguyen@emory.edu
+   Username: linh.nguyen
+   Original line: Linh Nguyen Head Coach (Distance) 404-727- linh.nguyen@emory.edu
+
+21. Jessica Fritsche
+   Email: jfrits2@emory.edu
+   Username: jfrits2
+   Original line: Jessica Fritsche Assistant Coach (Horizontal & Vertical Jumps) jfrits2@emory.edu
+
+22. Karl Nyholm
+   Email: karl.nyholm@emory.edu
+   Username: karl.nyholm
+   Original line: Karl Nyholm Assistant Coach (Throws) karl.nyholm@emory.edu
+
+23. Jordan Anunike
+   Email: jordan.anunike@emory.edu
+   Username: jordan.anunike
+   Original line: Jordan Anunike Assistant Coach (Mid-Distance/Distance) jordan.anunike@emory.edu
+
+24. Emmanuel Phoulom-Smith
+   Email: ephoulo@emory.edu
+   Username: ephoulo
+   Original line: Emmanuel Phoulom-Smith Assistant Coach (Sprints) ephoulo@emory.edu
+
+25. Linh Nguyen
+   Email: linh.nguyen@emory.edu
+   Username: linh.nguyen
+   Original line: Linh Nguyen Head Coach (Distance) 404-727- linh.nguyen@emory.edu
+
+26. Jordan Anunike
+   Email: jordan.anunike@emory.edu
+   Username: jordan.anunike
+   Original line: Jordan Anunike Assistant Coach (Mid-Distance/Distance) jordan.anunike@emory.edu
+
+27. India Chiles
+   Email: ichiles@emory.edu
+   Username: ichiles
+   Original line: India Chiles Head Coach ichiles@emory.edu
+
+28. Katie Griffith
+   Email: kegrif8@emory.edu
+   Username: kegrif8
+   Original line: Katie Griffith Assistant Coach, Pitching kegrif8@emory.edu
+
+29. Misha Jackson
+   Email: misha.jackson@emory.edu
+   Username: misha.jackson
+   Original line: Misha Jackson Head Coach 404-712- misha.jackson@emory.edu
+
+30. Alex Berman
+   Email: alex.berman@emory.edu
+   Username: alex.berman
+   Original line: Alex Berman Assistant Coach 404-727- alex.berman@emory.edu
+
+31. Liz Fernandes
+   Email: elizabeth.fernandes@emory.edu
+   Username: elizabeth.fernandes
+   Original line: Liz Fernandes Head Coach elizabeth.fernandes@emory.edu
+
+32. Samantha Gardella
+   Email: samantha.gardella@emory.edu
+   Username: samantha.gardella
+   Original line: Samantha Gardella Assistant Coach samantha.gardella@emory.edu
+
+33. Sue Patberg
+   Email: spatber@emory.edu
+   Username: spatber
+   Original line: Sue Patberg Head Coach 404-727- spatber@emory.edu
+
+34. Catherine Whitehill
+   Email: crwhitehill@emory.edu
+   Username: crwhitehill
+   Original line: Catherine Whitehill Assistant Coach crwhitehill@emory.edu
+
+35. Jon Howell
+   Email: jphowel@emory.edu
+   Username: jphowel
+   Original line: Jon Howell Head Coach 404-727- jphowel@emory.edu
+
+36. Cindy Fontana
+   Email: cindy.fontana@emory.edu
+   Username: cindy.fontana
+   Original line: Cindy Fontana Associate Coach 404-727- cindy.fontana@emory.edu
+
+37. John Petroff
+   Email: jpetrof@emory.edu
+   Username: jpetrof
+   Original line: John Petroff Assistant Coach 404-727- jpetrof@emory.edu
+
+38. Bob Hackett
+   Email: robert.w.hackett.jr@emory.edu
+   Username: robert.w.hackett.jr
+   Original line: Bob Hackett Assistant Coach robert.w.hackett.jr@emory.edu
+
+39. Tomasz Rossa
+   Email: tomasz.rossa@emory.edu
+   Username: tomasz.rossa
+   Original line: Tomasz Rossa Diving Coach tomasz.rossa@emory.edu
+
+40. Bridget Disher
+   Email: bridget.harding@emory.edu
+   Username: bridget.harding
+   Original line: Bridget Disher Head Coach 631-245- bridget.harding@emory.edu
+
+41. Megan Kurey
+   Email: megan.elizabeth.kurey@emory.edu
+   Username: megan.elizabeth.kurey
+   Original line: Megan Kurey Assistant Coach megan.elizabeth.kurey@emory.edu
+
+42. Brianna Jones
+   Email: bjjone5@emory.edu
+   Username: bjjone5
+   Original line: Brianna Jones Head Coach bjjone5@emory.edu
+
+43. Leah Saunders
+   Email: leah.saunders@emory.edu
+   Username: leah.saunders
+   Original line: Leah Saunders Assistant Coach leah.saunders@emory.edu
+
+44. Linh Nguyen
+   Email: linh.nguyen@emory.edu
+   Username: linh.nguyen
+   Original line: Linh Nguyen Head Coach (Distance) 404-727- linh.nguyen@emory.edu
+
+45. Jessica Fritsche
+   Email: jfrits2@emory.edu
+   Username: jfrits2
+   Original line: Jessica Fritsche Assistant Coach (Horizontal & Vertical Jumps) jfrits2@emory.edu
+
+46. Karl Nyholm
+   Email: karl.nyholm@emory.edu
+   Username: karl.nyholm
+   Original line: Karl Nyholm Assistant Coach (Throws) karl.nyholm@emory.edu
+
+47. Jordan Anunike
+   Email: jordan.anunike@emory.edu
+   Username: jordan.anunike
+   Original line: Jordan Anunike Assistant Coach (Mid-Distance/Distance) jordan.anunike@emory.edu
+
+48. Emmanuel Phoulom-Smith
+   Email: ephoulo@emory.edu
+   Username: ephoulo
+   Original line: Emmanuel Phoulom-Smith Assistant Coach (Sprints) ephoulo@emory.edu
+
+49. Linh Nguyen
+   Email: linh.nguyen@emory.edu
+   Username: linh.nguyen
+   Original line: Linh Nguyen Head Coach (Distance) 404-727- linh.nguyen@emory.edu
+
+50. Jordan Anunike
+   Email: jordan.anunike@emory.edu
+   Username: jordan.anunike
+   Original line: Jordan Anunike Assistant Coach (Mid-Distance/Distance) jordan.anunike@emory.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Drew Williams Head Coach, Strength & Conditioning 404-712- andrew.c.williams@emory.edu
+• Sonya McMillan Assistant Coach, Strength & Conditioning sonya.a.mcmillan@emory.edu
+• Bobby Perez Head Coach 404-712- rmperez@emory.edu
+• Sam Carpenter Pitching Coach spcarpe@emory.edu
+• Trace Twardoski Assistant Coach ttward2@emory.edu
+• John Sjoberg Head Coach 404-712- jsjober@emory.edu
+• Sarah Butler Assistant Coach sarah.butler@emory.edu
+• Jason Zimmerman Head Coach 404-727- jzimme4@emory.edu
+• Mak Krause Assistant Coach mark.andres.krause@emory.edu
+• Charlie Copp Assistant Coach charles.copp@emory.edu
+• Cory Greiner Head Coach (404) 727- cgreine@emory.edu
+• Clayton Schmitt Associate Head Coach (404) 727- ceschmi@emory.edu
+• Jon Howell Head Coach 404-727- jphowel@emory.edu
+• Cindy Fontana Associate Coach 404-727- cindy.fontana@emory.edu
+• John Petroff Assistant Coach 404-727- jpetrof@emory.edu
+• Bob Hackett Assistant Coach robert.w.hackett.jr@emory.edu
+• Tomasz Rossa Diving Coach tomasz.rossa@emory.edu
+• John Browning Head Coach 404-727- jbrow25@emory.edu
+• Ian Melnik Assistant Coach ian.melnik@emory.edu
+• Linh Nguyen Head Coach (Distance) 404-727- linh.nguyen@emory.edu
+• Jessica Fritsche Assistant Coach (Horizontal & Vertical Jumps) jfrits2@emory.edu
+• Karl Nyholm Assistant Coach (Throws) karl.nyholm@emory.edu
+• Jordan Anunike Assistant Coach (Mid-Distance/Distance) jordan.anunike@emory.edu
+• Emmanuel Phoulom-Smith Assistant Coach (Sprints) ephoulo@emory.edu
+• Linh Nguyen Head Coach (Distance) 404-727- linh.nguyen@emory.edu
+• Jordan Anunike Assistant Coach (Mid-Distance/Distance) jordan.anunike@emory.edu
+• India Chiles Head Coach ichiles@emory.edu
+• Katie Griffith Assistant Coach, Pitching kegrif8@emory.edu
+• Misha Jackson Head Coach 404-712- misha.jackson@emory.edu
+• Alex Berman Assistant Coach 404-727- alex.berman@emory.edu
+• Liz Fernandes Head Coach elizabeth.fernandes@emory.edu
+• Samantha Gardella Assistant Coach samantha.gardella@emory.edu
+• Sue Patberg Head Coach 404-727- spatber@emory.edu
+• Catherine Whitehill Assistant Coach crwhitehill@emory.edu
+• Jon Howell Head Coach 404-727- jphowel@emory.edu
+• Cindy Fontana Associate Coach 404-727- cindy.fontana@emory.edu
+• John Petroff Assistant Coach 404-727- jpetrof@emory.edu
+• Bob Hackett Assistant Coach robert.w.hackett.jr@emory.edu
+• Tomasz Rossa Diving Coach tomasz.rossa@emory.edu
+• Bridget Disher Head Coach 631-245- bridget.harding@emory.edu
+• Megan Kurey Assistant Coach megan.elizabeth.kurey@emory.edu
+• Brianna Jones Head Coach bjjone5@emory.edu
+• Leah Saunders Assistant Coach leah.saunders@emory.edu
+• Linh Nguyen Head Coach (Distance) 404-727- linh.nguyen@emory.edu
+• Jessica Fritsche Assistant Coach (Horizontal & Vertical Jumps) jfrits2@emory.edu
+• Karl Nyholm Assistant Coach (Throws) karl.nyholm@emory.edu
+• Jordan Anunike Assistant Coach (Mid-Distance/Distance) jordan.anunike@emory.edu
+• Emmanuel Phoulom-Smith Assistant Coach (Sprints) ephoulo@emory.edu
+• Linh Nguyen Head Coach (Distance) 404-727- linh.nguyen@emory.edu
+• Jordan Anunike Assistant Coach (Mid-Distance/Distance) jordan.anunike@emory.edu

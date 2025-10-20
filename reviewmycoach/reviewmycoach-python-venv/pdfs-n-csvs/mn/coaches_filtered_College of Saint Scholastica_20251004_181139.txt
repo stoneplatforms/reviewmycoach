@@ -1,0 +1,221 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:39
+============================================================
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jason Schmitz
+   Email: jschmitz6@css.edu
+   Username: jschmitz6
+   Original line: Jason Schmitz Head Women's Basketball Coach/Athletics jschmitz6@css.edu 218- CoachJSchmitz
+
+2. Brooks Repking
+   Email: brepking@css.edu
+   Username: brepking
+   Original line: Brooks Repking Head Baseball Coach brepking@css.edu 715- @CoachRepking
+
+3. Blake Peterson
+   Email: bpeterson11@css.edu
+   Username: bpeterson11
+   Original line: Blake Peterson Assistant Baseball Coach/ Pitching Coach bpeterson11@css.edu 218- blakepete27
+
+4. Tim Anderson
+   Email: tanders5@css.edu
+   Username: tanders5
+   Original line: Tim Anderson Assistant Baseball Coach tanders5@css.edu
+
+5. Jared Drake
+   Email: jdrake2@css.edu
+   Username: jdrake2
+   Original line: Jared Drake Head Men's Basketball Coach jdrake2@css.edu
+
+6. Christian Butler
+   Email: Cbutler2@css.edu
+   Username: Cbutler2
+   Original line: Christian Butler Assistant Men's Basketball Coach Cbutler2@css.edu @c_butler10
+
+7. Jason Schmitz
+   Email: jschmitz6@css.edu
+   Username: jschmitz6
+   Original line: Jason Schmitz Head Women's Basketball Coach/Athletics jschmitz6@css.edu 218- CoachJSchmitz
+
+8. Madisyn Rogan
+   Email: mrogan@css.edu
+   Username: mrogan
+   Original line: Madisyn Rogan Assistant Women's Basketball Coach mrogan@css.edu
+
+9. Dyami Starks
+   Email: dstarks@css.edu
+   Username: dstarks
+   Original line: Dyami Starks Assistant Women's Basketball Coach dstarks@css.edu
+
+10. Chad Salmela
+   Email: csalmela@css.edu
+   Username: csalmela
+   Original line: Chad Salmela Head Cross Country Coach/Assistant Track & csalmela@css.edu 218- ChadSalmela
+
+11. Jeff Cottrell
+   Email: jcottrell@css.edu
+   Username: jcottrell
+   Original line: Jeff Cottrell Associate Head Coach Track & Field Coach - jcottrell@css.edu 218-
+
+12. Calvin Boone
+   Email: cboone@css.edu
+   Username: cboone
+   Original line: Calvin Boone Assistant Cross Country Coach cboone@css.edu
+
+13. Matt Bremer
+   Email: mbremer@css.edu
+   Username: mbremer
+   Original line: Matt Bremer Head Football Coach mbremer@css.edu 218- @CoachBremer
+
+14. CJ Butt
+   Email: cbutt@css.edu
+   Username: cbutt
+   Original line: CJ Butt Assistant Head Coach/Defensive cbutt@css.edu fbcoachbutt
+
+15. Justin Sinz
+   Email: jsinz@css.edu
+   Username: jsinz
+   Original line: Justin Sinz Offensive Coordinator/Offensive Line Coach jsinz@css.edu
+
+16. Jon Bolme
+   Email: jbolme@css.edu
+   Username: jbolme
+   Original line: Jon Bolme Defensive Backs Coach / Video Coordinator jbolme@css.edu @CoachBolme
+
+17. Luke Hietala
+   Email: lhietala@css.edu
+   Username: lhietala
+   Original line: Luke Hietala Running Backs Coach lhietala@css.edu 218-
+
+18. Dan Szymczak
+   Email: dszymcza@css.edu
+   Username: dszymcza
+   Original line: Dan Szymczak Head Golf Coach dszymcza@css.edu
+
+19. Dave Williams
+   Email: dwilliams@css.edu
+   Username: dwilliams
+   Original line: Dave Williams Head Men's Hockey Coach dwilliams@css.edu 218-
+
+20. Colin Bailey
+   Email: cbailey1@css.edu
+   Username: cbailey1
+   Original line: Colin Bailey Assistant Men's Hockey Coach cbailey1@css.edu
+
+21. Sydney Brodt
+   Email: sbrodt@css.edu
+   Username: sbrodt
+   Original line: Sydney Brodt Head Women's Hockey Coach sbrodt@css.edu @CSSWHockey
+
+22. McKenzie Revering
+   Email: mrevering@css.edu
+   Username: mrevering
+   Original line: McKenzie Revering Assistant Women's Hockey Coach mrevering@css.edu
+
+23. Jason Kask
+   Email: jkask@css.edu
+   Username: jkask
+   Original line: Jason Kask Head Nordic Skiing Coach jkask@css.edu
+
+24. Kallee Wilkins
+   Email: kwilkins@css.edu
+   Username: kwilkins
+   Original line: Kallee Wilkins Head Softball Coach kwilkins@css.edu
+
+25. Kiana Gibson
+   Email: kgibson3@css.edu
+   Username: kgibson3
+   Original line: Kiana Gibson Assistant Softball Coach kgibson3@css.edu
+
+26. Barry Chastey
+   Email: bchastey@css.edu
+   Username: bchastey
+   Original line: Barry Chastey Head Men's Soccer Coach bchastey@css.edu 218-
+
+27. Dave Robinson
+   Email: drobinson2@css.edu
+   Username: drobinson2
+   Original line: Dave Robinson Assistant Men's Soccer Coach drobinson2@css.edu 218-
+
+28. Dave Reyelts
+   Email: dreyelts@css.edu
+   Username: dreyelts
+   Original line: Dave Reyelts Head Women's Soccer Coach dreyelts@css.edu 218- dreyelts
+
+29. Breanna Nelson
+   Email: bnelson18@css.edu
+   Username: bnelson18
+   Original line: Breanna Nelson Assistant Women's Soccer Coach/Goalkeeper bnelson18@css.edu
+
+30. Wells Patten
+   Email: rpatten@css.edu
+   Username: rpatten
+   Original line: Wells Patten Head Tennis Coach rpatten@css.edu 218-
+
+31. Pat Greehan
+   Email: pgreehan@css.edu
+   Username: pgreehan
+   Original line: Pat Greehan Assistant Tennis Coach pgreehan@css.edu
+
+32. Todd Bouchie
+   Email: tbouchie@css.edu
+   Username: tbouchie
+   Original line: Todd Bouchie Head Track & Field Coach tbouchie@css.edu 218-
+
+33. Jeff Cottrell
+   Email: jcottrell@css.edu
+   Username: jcottrell
+   Original line: Jeff Cottrell Associate Head Coach Track & Field Coach - jcottrell@css.edu 218-
+
+34. Chad Salmela
+   Email: csalmela@css.edu
+   Username: csalmela
+   Original line: Chad Salmela Head Cross Country Coach/Assistant Track & csalmela@css.edu 218- ChadSalmela
+
+35. Chelsea Meierotto
+   Email: cmeierotto@css.edu
+   Username: cmeierotto
+   Original line: Chelsea Meierotto Head Volleyball Coach cmeierotto@css.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jason Schmitz Head Women's Basketball Coach/Athletics jschmitz6@css.edu 218- CoachJSchmitz
+• Brooks Repking Head Baseball Coach brepking@css.edu 715- @CoachRepking
+• Blake Peterson Assistant Baseball Coach/ Pitching Coach bpeterson11@css.edu 218- blakepete27
+• Tim Anderson Assistant Baseball Coach tanders5@css.edu
+• Jared Drake Head Men's Basketball Coach jdrake2@css.edu
+• Christian Butler Assistant Men's Basketball Coach Cbutler2@css.edu @c_butler10
+• Jason Schmitz Head Women's Basketball Coach/Athletics jschmitz6@css.edu 218- CoachJSchmitz
+• Madisyn Rogan Assistant Women's Basketball Coach mrogan@css.edu
+• Dyami Starks Assistant Women's Basketball Coach dstarks@css.edu
+• Chad Salmela Head Cross Country Coach/Assistant Track & csalmela@css.edu 218- ChadSalmela
+• Jeff Cottrell Associate Head Coach Track & Field Coach - jcottrell@css.edu 218-
+• Calvin Boone Assistant Cross Country Coach cboone@css.edu
+• Matt Bremer Head Football Coach mbremer@css.edu 218- @CoachBremer
+• CJ Butt Assistant Head Coach/Defensive cbutt@css.edu fbcoachbutt
+• Justin Sinz Offensive Coordinator/Offensive Line Coach jsinz@css.edu
+• Jon Bolme Defensive Backs Coach / Video Coordinator jbolme@css.edu @CoachBolme
+• Luke Hietala Running Backs Coach lhietala@css.edu 218-
+• Dan Szymczak Head Golf Coach dszymcza@css.edu
+• Dave Williams Head Men's Hockey Coach dwilliams@css.edu 218-
+• Colin Bailey Assistant Men's Hockey Coach cbailey1@css.edu
+• Sydney Brodt Head Women's Hockey Coach sbrodt@css.edu @CSSWHockey
+• McKenzie Revering Assistant Women's Hockey Coach mrevering@css.edu
+• Jason Kask Head Nordic Skiing Coach jkask@css.edu
+• Kallee Wilkins Head Softball Coach kwilkins@css.edu
+• Kiana Gibson Assistant Softball Coach kgibson3@css.edu
+• Barry Chastey Head Men's Soccer Coach bchastey@css.edu 218-
+• Dave Robinson Assistant Men's Soccer Coach drobinson2@css.edu 218-
+• Dave Reyelts Head Women's Soccer Coach dreyelts@css.edu 218- dreyelts
+• Breanna Nelson Assistant Women's Soccer Coach/Goalkeeper bnelson18@css.edu
+• Wells Patten Head Tennis Coach rpatten@css.edu 218-
+• Pat Greehan Assistant Tennis Coach pgreehan@css.edu
+• Todd Bouchie Head Track & Field Coach tbouchie@css.edu 218-
+• Jeff Cottrell Associate Head Coach Track & Field Coach - jcottrell@css.edu 218-
+• Chad Salmela Head Cross Country Coach/Assistant Track & csalmela@css.edu 218- ChadSalmela
+• Chelsea Meierotto Head Volleyball Coach cmeierotto@css.edu

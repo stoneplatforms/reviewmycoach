@@ -1,0 +1,149 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:38
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Michal Giboney
+   Email: michal.giboney@lcu.edu
+   Username: michal.giboney
+   Original line: Michal Giboney Assistant Volleyball Coach / 806- michal.giboney@lcu.edu
+
+2. Nathan Blackwood
+   Email: nathan.blackwood@lcu.edu
+   Username: nathan.blackwood
+   Original line: Nathan Blackwood Head Baseball Coach 806- nathan.blackwood@lcu.edu
+
+3. Jermaine Van
+   Email: jermaine.vanburen@lcu.edu
+   Username: jermaine.vanburen
+   Original line: Jermaine Van Buren Assistant Coach / Pitching 806- jermaine.vanburen@lcu.edu
+
+4. Brandon Walker
+   Email: brandon.walker@lcu.edu
+   Username: brandon.walker
+   Original line: Brandon Walker Assistant Coach / Hitting 806- brandon.walker@lcu.edu
+
+5. Todd Duncan
+   Email: todd.Duncan@lcu.edu
+   Username: todd.Duncan
+   Original line: Todd Duncan Head Coach 806- todd.Duncan@lcu.edu CoachDuncan323
+
+6. Jason Imes
+   Email: jason.imes@lcu.edu
+   Username: jason.imes
+   Original line: Jason Imes Assistant Coach 806- jason.imes@lcu.edu
+
+7. Steve Gomez
+   Email: steve.gomez@lcu.edu
+   Username: steve.gomez
+   Original line: Steve Gomez Head Coach 806- steve.gomez@lcu.edu
+
+8. Kaycie Wilson
+   Email: kaycie.wilson@lcu.edu
+   Username: kaycie.wilson
+   Original line: Kaycie Wilson Assistant Coach 806- kaycie.wilson@lcu.edu
+
+9. Landon Gomez
+   Email: landon.gomez@lcu.edu
+   Username: landon.gomez
+   Original line: Landon Gomez Assistant Coach 806- landon.gomez@lcu.edu
+
+10. Caden Gilbreath
+   Email: cgilbreath8599@lcu.edu
+   Username: cgilbreath8599
+   Original line: Caden Gilbreath Graduate Assistant Coach cgilbreath8599@lcu.edu
+
+11. Julio Pacheco
+   Email: julio.pacheco@lcu.edu
+   Username: julio.pacheco
+   Original line: Julio Pacheco Volunteer Assistant Coach julio.pacheco@lcu.edu
+
+12. Whitney Sales
+   Email: whitney.sales@lcu.edu
+   Username: whitney.sales
+   Original line: Whitney Sales Head Cheerleading Coach whitney.sales@lcu.edu
+
+13. Collin Cone
+   Email: Collin.Cone@lcu.edu
+   Username: Collin.Cone
+   Original line: Collin Cone Head Coach Collin.Cone@lcu.edu
+
+14. Duvan Canchila
+   Email: Duvan.Canchila@Lcu.edu
+   Username: Duvan.Canchila
+   Original line: Duvan Canchila Assistant Coach Duvan.Canchila@Lcu.edu
+
+15. Alistair Caldwell
+   Email: Alistair.caldwell@lcu.edu
+   Username: Alistair.caldwell
+   Original line: Alistair Caldwell Head Coach Alistair.caldwell@lcu.edu
+
+16. Houston Fralick
+   Email: Houston.Fralick@lcu.edu
+   Username: Houston.Fralick
+   Original line: Houston Fralick Assistant Coach Houston.Fralick@lcu.edu
+
+17. Daren Hays
+   Email: daren.hays@lcu.edu
+   Username: daren.hays
+   Original line: Daren Hays Head Coach 806- daren.hays@lcu.edu
+
+18. Brooke Makemson
+   Email: brooke.makemson@lcu.edu
+   Username: brooke.makemson
+   Original line: Brooke Makemson Assistant Coach brooke.makemson@lcu.edu
+
+19. Ken Wearden
+   Email: ken.wearden@lcu.edu
+   Username: ken.wearden
+   Original line: Ken Wearden Assistant Coach ken.wearden@lcu.edu
+
+20. Sofia Kostirko
+   Email: skostirko8537@lcu.edu
+   Username: skostirko8537
+   Original line: Sofia Kostirko Graduate Assistant Coach skostirko8537@lcu.edu
+
+21. Derek Drube
+   Email: Derek.Drube@lcu.edu
+   Username: Derek.Drube
+   Original line: Derek Drube Jumps Coach Derek.Drube@lcu.edu
+
+22. Keith Giboney
+   Email: keith.giboney@lcu.edu
+   Username: keith.giboney
+   Original line: Keith Giboney Head Volleyball Coach 806- keith.giboney@lcu.edu
+
+23. Michal Giboney
+   Email: michal.giboney@lcu.edu
+   Username: michal.giboney
+   Original line: Michal Giboney Assistant Volleyball Coach / 806- michal.giboney@lcu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Michal Giboney Assistant Volleyball Coach / 806- michal.giboney@lcu.edu
+• Nathan Blackwood Head Baseball Coach 806- nathan.blackwood@lcu.edu
+• Jermaine Van Buren Assistant Coach / Pitching 806- jermaine.vanburen@lcu.edu
+• Brandon Walker Assistant Coach / Hitting 806- brandon.walker@lcu.edu
+• Todd Duncan Head Coach 806- todd.Duncan@lcu.edu CoachDuncan323
+• Jason Imes Assistant Coach 806- jason.imes@lcu.edu
+• Steve Gomez Head Coach 806- steve.gomez@lcu.edu
+• Kaycie Wilson Assistant Coach 806- kaycie.wilson@lcu.edu
+• Landon Gomez Assistant Coach 806- landon.gomez@lcu.edu
+• Caden Gilbreath Graduate Assistant Coach cgilbreath8599@lcu.edu
+• Julio Pacheco Volunteer Assistant Coach julio.pacheco@lcu.edu
+• Whitney Sales Head Cheerleading Coach whitney.sales@lcu.edu
+• Collin Cone Head Coach Collin.Cone@lcu.edu
+• Duvan Canchila Assistant Coach Duvan.Canchila@Lcu.edu
+• Alistair Caldwell Head Coach Alistair.caldwell@lcu.edu
+• Houston Fralick Assistant Coach Houston.Fralick@lcu.edu
+• Daren Hays Head Coach 806- daren.hays@lcu.edu
+• Brooke Makemson Assistant Coach brooke.makemson@lcu.edu
+• Ken Wearden Assistant Coach ken.wearden@lcu.edu
+• Sofia Kostirko Graduate Assistant Coach skostirko8537@lcu.edu
+• Derek Drube Jumps Coach Derek.Drube@lcu.edu
+• Keith Giboney Head Volleyball Coach 806- keith.giboney@lcu.edu
+• Michal Giboney Assistant Volleyball Coach / 806- michal.giboney@lcu.edu

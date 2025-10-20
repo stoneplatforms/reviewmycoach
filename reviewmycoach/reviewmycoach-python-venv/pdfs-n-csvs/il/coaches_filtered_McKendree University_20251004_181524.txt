@@ -1,0 +1,542 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:24
+============================================================
+
+Total coaches found: 83
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nickie Sanlin
+   Email: nosanlin@mckendree.edu
+   Username: nosanlin
+   Phone: (618) 537-6438
+   Original line: Nickie Sanlin Director of Volleyball / Head Men’s Volleyball Coach / nosanlin@mckendree.edu 618-537-6438
+
+2. Brittany Hodge
+   Email: bjhodge@mckendree.edu
+   Username: bjhodge
+   Phone: (618) 537-4458
+   Original line: Brittany Hodge Assistant Athletic Performance Coach / Part-Time Sports bjhodge@mckendree.edu 618-537-4458
+
+3. Mawusi Amos
+   Email: mjamos@mckendree.edu
+   Username: mjamos
+   Phone: (618) 537-4458
+   Original line: Mawusi Amos Assistant Athletic Performance Coach mjamos@mckendree.edu 618-537-4458
+
+4. Brittany Hodge
+   Email: bjhodge@mckendree.edu
+   Username: bjhodge
+   Phone: (618) 537-4458
+   Original line: Brittany Hodge Assistant Athletic Performance Coach / Part-Time Sports bjhodge@mckendree.edu 618-537-4458
+
+5. Drew Quinlin
+   Email: andrew.quinlin25@mckendree.edu
+   Username: andrew.quinlin25
+   Phone: (618) 537-4458
+   Original line: Drew Quinlin Graduate Assistant Athletic Performance Coach andrew.quinlin25@mckendree.edu 618-537-4458
+
+6. Tim Gurnow
+   Email: tsgurnow@mckendree.edu
+   Username: tsgurnow
+   Phone: (618) 537-6906
+   Original line: Tim Gurnow Head Baseball Coach tsgurnow@mckendree.edu 618-537-6906
+
+7. Reid Hendrickson
+   Email: rhendrickson@mckendree.edu
+   Username: rhendrickson
+   Original line: Reid Hendrickson Baseball Pitching Coach rhendrickson@mckendree.edu
+
+8. Bob Vollmer
+   Email: rbvollmer@mckendree.edu
+   Username: rbvollmer
+   Original line: Bob Vollmer Head Beach Volleyball Coach rbvollmer@mckendree.edu
+
+9. George Suggs
+   Email: gksuggs@mckendree.edu
+   Username: gksuggs
+   Phone: (618) 537-6871
+   Original line: George Suggs Head Men's Basketball Coach gksuggs@mckendree.edu 618-537-6871
+
+10. Randy Baruth
+   Email: rsbaruth@mckendree.edu
+   Username: rsbaruth
+   Phone: (618) 537-2140
+   Original line: Randy Baruth Assistant Men's Basketball Coach rsbaruth@mckendree.edu 618-537-2140
+
+11. Korbin Farmer
+   Email: korbinfarmer@fca.org
+   Username: korbinfarmer
+   Original line: Korbin Farmer Assistant Men's Basketball Coach korbinfarmer@fca.org
+
+12. Kari Kerkhoff
+   Email: kakerkhoff@mckendree.edu
+   Username: kakerkhoff
+   Phone: (618) 537-6977
+   Original line: Kari Kerkhoff Head Women's Basketball Coach kakerkhoff@mckendree.edu 618-537-6977
+
+13. Terra Helm
+   Email: tfhelm@mckendree.edu
+   Username: tfhelm
+   Original line: Terra Helm Assistant Women's Basketball Coach tfhelm@mckendree.edu
+
+14. Jon Rinderer
+   Email: jarinderer@mckendree.edu
+   Username: jarinderer
+   Phone: (618) 541-2177
+   Original line: Jon Rinderer Head Bass Fishing Coach jarinderer@mckendree.edu 618-541-2177
+
+15. Dennis Knepper
+   Email: wdknepper@mckendree.edu
+   Username: wdknepper
+   Original line: Dennis Knepper Head Men's Bowling Coach wdknepper@mckendree.edu
+
+16. Shawn Bibee
+   Email: sjbibee@mckendree.edu
+   Username: sjbibee
+   Phone: (586) 557-1072
+   Original line: Shawn Bibee Head Women's Bowling Coach sjbibee@mckendree.edu (586) 557-1072
+
+17. Seth Hardwick
+   Email: srhardwick@mckendree.edu
+   Username: srhardwick
+   Original line: Seth Hardwick Head Men's and Women's Cross Country Coach / srhardwick@mckendree.edu
+
+18. Seth Hardwick
+   Email: srhardwick@mckendree.edu
+   Username: srhardwick
+   Original line: Seth Hardwick Head Men's and Women's Cross Country Coach / srhardwick@mckendree.edu
+
+19. Jason Rejfek
+   Email: jrejfek@mckendree.edu
+   Username: jrejfek
+   Phone: (847) 275-3832
+   Original line: Jason Rejfek Head Football Coach jrejfek@mckendree.edu 847-275-3832
+
+20. Nick Holeton
+   Email: njholeton@mckendree.edu
+   Username: njholeton
+   Phone: (618) 537-6505
+   Original line: Nick Holeton Assistant Football Coach – Offensive Coordinator / njholeton@mckendree.edu 618-537-6505
+
+21. Thomas Jenkins
+   Email: tmjenkins@mckendree.edu
+   Username: tmjenkins
+   Original line: Thomas Jenkins Assistant Football Coach – Co-Offensive Coordinator / tmjenkins@mckendree.edu
+
+22. Opetaia Tuiava
+   Email: oltuiava@mckendree.edu
+   Username: oltuiava
+   Phone: (618) 537-6945
+   Original line: Opetaia Tuiava Assistant Football Coach – Defensive Coordinator / oltuiava@mckendree.edu 618-537-6945
+
+23. Jackson Hall
+   Email: jbhall@mckendree.edu
+   Username: jbhall
+   Original line: Jackson Hall Assistant Football Coach – Special Teams Coordinator / jbhall@mckendree.edu
+
+24. Jerrell Taylor
+   Email: jjtaylor@mckendree.edu
+   Username: jjtaylor
+   Original line: Jerrell Taylor Assistant Football Coach – Recruiting Coordinator / jjtaylor@mckendree.edu
+
+25. D'Andre Hicks
+   Email: dthicks@mckendree.edu
+   Username: dthicks
+   Original line: D'Andre Hicks Assistant Football Coach – Running Backs dthicks@mckendree.edu
+
+26. Jake Crogan
+   Email: jjcrogan@mckendree.edu
+   Username: jjcrogan
+   Original line: Jake Crogan Assistant Football Coach – Tight Ends jjcrogan@mckendree.edu
+
+27. Andrew Sherry
+   Email: ajsherry@mckendree.edu
+   Username: ajsherry
+   Original line: Andrew Sherry Assistant Football Coach – Cornerbacks ajsherry@mckendree.edu
+
+28. Nick Zuckerman
+   Email: npzuckerman@mckendree.edu
+   Username: npzuckerman
+   Original line: Nick Zuckerman Assistant Football Coach / Wide Receivers npzuckerman@mckendree.edu
+
+29. Shirley Baugh
+   Email: sabaugh@mckendree.edu
+   Username: sabaugh
+   Original line: Shirley Baugh Assistant Women's Golf Coach sabaugh@mckendree.edu
+
+30. Brett DeNap
+   Email: badenap@mckendree.edu
+   Username: badenap
+   Phone: (618)537-4481
+   Original line: Brett DeNap Head M1 Men's Hockey Coach badenap@mckendree.edu (618)537-4481 Ext.
+
+31. Christian Blandina
+   Email: cmblandina@mckendree.edu
+   Username: cmblandina
+   Original line: Christian Blandina Head M3 Men's Hockey Coach / Assistant M1 Men's cmblandina@mckendree.edu
+
+32. Christian Blandina
+   Email: cmblandina@mckendree.edu
+   Username: cmblandina
+   Original line: Christian Blandina Head M3 Men's Hockey Coach / Assistant M1 Men's cmblandina@mckendree.edu
+
+33. Derek Pallardy
+   Email: dmpallardy@mckendree.edu
+   Username: dmpallardy
+   Phone: (314) 393-3326
+   Original line: Derek Pallardy Head W1 Women's Hockey Coach dmpallardy@mckendree.edu 314-393-3326
+
+34. Natalie Simpson
+   Email: nbsimpson@mckendree.edu
+   Username: nbsimpson
+   Phone: (618) 537-6289
+   Original line: Natalie Simpson Head Women's Lacrosse Coach nbsimpson@mckendree.edu 618-537-6289
+
+35. Briana Vorkink
+   Email: bavorkink@mckendree.edu
+   Username: bavorkink
+   Original line: Briana Vorkink Assistant Women's Lacrosse Coach bavorkink@mckendree.edu
+
+36. Brad Bechel
+   Email: bjbechel@mckendree.edu
+   Username: bjbechel
+   Phone: (618) 420-6602
+   Original line: Brad Bechel Head Men's and Women's Powerlifting Coach bjbechel@mckendree.edu 618-420-6602
+
+37. Brad Bechel
+   Email: bjbechel@mckendree.edu
+   Username: bjbechel
+   Phone: (618) 420-6602
+   Original line: Brad Bechel Head Men's and Women's Powerlifting Coach bjbechel@mckendree.edu 618-420-6602
+
+38. Cameron Wyper
+   Email: clwyper@mckendree.edu
+   Username: clwyper
+   Original line: Cameron Wyper Director of Rugby / Head Men's Rugby Coach / Assistant clwyper@mckendree.edu
+
+39. Daniel Jones
+   Email: dcjones@mckendree.edu
+   Username: dcjones
+   Original line: Daniel Jones Head Women's Rugby Coach / Assistant Men's Rugby dcjones@mckendree.edu
+
+40. Daniel Jones
+   Email: dcjones@mckendree.edu
+   Username: dcjones
+   Original line: Daniel Jones Head Women's Rugby Coach / Assistant Men's Rugby dcjones@mckendree.edu
+
+41. Cameron Wyper
+   Email: clwyper@mckendree.edu
+   Username: clwyper
+   Original line: Cameron Wyper Director of Rugby / Head Men's Rugby Coach / Assistant clwyper@mckendree.edu
+
+42. Scott Gyllenborg
+   Email: stgyllenborg@mckendree.edu
+   Username: stgyllenborg
+   Phone: (618) 537-6531
+   Original line: Scott Gyllenborg Head Men's Soccer Coach stgyllenborg@mckendree.edu 618-537-6531
+
+43. Erik Rajoy
+   Email: erik.rajoypujol23@mckendree.edu
+   Username: erik.rajoypujol23
+   Original line: Erik Rajoy Assistant Men's Soccer Coach erik.rajoypujol23@mckendree.edu
+
+44. Nic Fischer
+   Email: nfischer@mckendree.edu
+   Username: nfischer
+   Original line: Nic Fischer Men's and Women's Soccer Goalkeeper Coach nfischer@mckendree.edu
+
+45. Michael Hodgson
+   Email: michael.hodgson19@mckendree.edu
+   Username: michael.hodgson19
+   Original line: Michael Hodgson Assistant Men's Soccer Coach michael.hodgson19@mckendree.edu
+
+46. Tim Strange
+   Email: tstrange@mckendree.edu
+   Username: tstrange
+   Phone: (618) 537-6910
+   Original line: Tim Strange Head Women's Soccer Coach tstrange@mckendree.edu 618-537-6910
+
+47. Marc Hager
+   Email: mshager@mckendree.edu
+   Username: mshager
+   Original line: Marc Hager Assistant Women's Soccer Coach mshager@mckendree.edu
+
+48. Jamie Swanner
+   Email: tstrange@mckendree.edu
+   Username: tstrange
+   Phone: (618) 537-6910
+   Original line: Jamie Swanner Women's Soccer Goalkeeper Coach tstrange@mckendree.edu 618-537-6910
+
+49. Nic Fischer
+   Email: nfischer@mckendree.edu
+   Username: nfischer
+   Original line: Nic Fischer Men's and Women's Soccer Goalkeeper Coach nfischer@mckendree.edu
+
+50. Heather Tarter
+   Email: hmtarter@mckendree.edu
+   Username: hmtarter
+   Phone: (618) 537-6908
+   Original line: Heather Tarter Head Softball Coach hmtarter@mckendree.edu 618-537-6908
+
+51. Hannah Dow
+   Email: hldow@mckendree.edu
+   Username: hldow
+   Original line: Hannah Dow Softball Pitching Coach hldow@mckendree.edu
+
+52. Travis Foster
+   Email: twfoster@mckendree.edu
+   Username: twfoster
+   Original line: Travis Foster Assistant Softball Coach twfoster@mckendree.edu
+
+53. Jimmy Tierney
+   Email: jetierney@mckendree.edu
+   Username: jetierney
+   Phone: (847) 833-3358
+   Original line: Jimmy Tierney Head Men's and Women's Swimming & Diving Coach jetierney@mckendree.edu 847-833-3358
+
+54. Donnie Torres
+   Email: dktorres@mckendree.edu
+   Username: dktorres
+   Original line: Donnie Torres Head Men's and Women's Diving Coach dktorres@mckendree.edu
+
+55. Noah Javens
+   Email: ngjavens@mckendree.edu
+   Username: ngjavens
+   Phone: (765) 637-1190
+   Original line: Noah Javens Assistant Men's and Women's Swimming & Diving Coach ngjavens@mckendree.edu 765-637-1190
+
+56. Jimmy Tierney
+   Email: jetierney@mckendree.edu
+   Username: jetierney
+   Phone: (847) 833-3358
+   Original line: Jimmy Tierney Head Men's and Women's Swimming & Diving Coach jetierney@mckendree.edu 847-833-3358
+
+57. Donnie Torres
+   Email: dktorres@mckendree.edu
+   Username: dktorres
+   Original line: Donnie Torres Head Men's and Women's Diving Coach dktorres@mckendree.edu
+
+58. Noah Javens
+   Email: ngjavens@mckendree.edu
+   Username: ngjavens
+   Phone: (765) 637-1190
+   Original line: Noah Javens Assistant Men's and Women's Swimming & Diving Coach ngjavens@mckendree.edu 765-637-1190
+
+59. Chance Joost
+   Email: rcjoost@mckendree.edu
+   Username: rcjoost
+   Original line: Chance Joost Head Men's and Women's Tennis Coach rcjoost@mckendree.edu
+
+60. Chance Joost
+   Email: rcjoost@mckendree.edu
+   Username: rcjoost
+   Original line: Chance Joost Head Men's and Women's Tennis Coach rcjoost@mckendree.edu
+
+61. Barry Ford
+   Email: bmford@mckendree.edu
+   Username: bmford
+   Original line: Barry Ford Head Men's and Women's Track & Field Coach bmford@mckendree.edu
+
+62. Eddie Harris
+   Email: ekharris@mckendree.edu
+   Username: ekharris
+   Original line: Eddie Harris Assistant Men's and Women's Track & Field Coach ekharris@mckendree.edu
+
+63. Seth Hardwick
+   Email: srhardwick@mckendree.edu
+   Username: srhardwick
+   Original line: Seth Hardwick Head Men's and Women's Cross Country Coach / srhardwick@mckendree.edu
+
+64. Danee Jones
+   Email: djjones@mckendree.edu
+   Username: djjones
+   Original line: Danee Jones Assistant Men's and Women's Track & Field Coach djjones@mckendree.edu
+
+65. Serena Williams
+   Email: serena.williams24@mckendree.edu
+   Username: serena.williams24
+   Original line: Serena Williams Assistant Men's and Women's Track & Field Coach serena.williams24@mckendree.edu
+
+66. Barry Ford
+   Email: bmford@mckendree.edu
+   Username: bmford
+   Original line: Barry Ford Head Men's and Women's Track & Field Coach bmford@mckendree.edu
+
+67. Eddie Harris
+   Email: ekharris@mckendree.edu
+   Username: ekharris
+   Original line: Eddie Harris Assistant Men's and Women's Track & Field Coach ekharris@mckendree.edu
+
+68. Seth Hardwick
+   Email: srhardwick@mckendree.edu
+   Username: srhardwick
+   Original line: Seth Hardwick Head Men's and Women's Cross Country Coach / srhardwick@mckendree.edu
+
+69. Danee Jones
+   Email: djjones@mckendree.edu
+   Username: djjones
+   Original line: Danee Jones Assistant Men's and Women's Track & Field Coach djjones@mckendree.edu
+
+70. Serena Williams
+   Email: serena.williams24@mckendree.edu
+   Username: serena.williams24
+   Original line: Serena Williams Assistant Men's and Women's Track & Field Coach serena.williams24@mckendree.edu
+
+71. Nickie Sanlin
+   Email: nosanlin@mckendree.edu
+   Username: nosanlin
+   Phone: (618) 537-6438
+   Original line: Nickie Sanlin Director of Volleyball / Head Men’s Volleyball Coach / nosanlin@mckendree.edu 618-537-6438
+
+72. Miranda Rodriguez
+   Email: mlrodriguez@mckendree.edu
+   Username: mlrodriguez
+   Phone: (618) 537-6527
+   Original line: Miranda Rodriguez Head Women's Volleyball Coach / Assistant Men's mlrodriguez@mckendree.edu 618-537-6527
+
+73. Janeese VerVelde
+   Email: jmvervelde@mckendree.edu
+   Username: jmvervelde
+   Original line: Janeese VerVelde Assistant Men's and Women's Volleyball Coach jmvervelde@mckendree.edu
+
+74. Miranda Rodriguez
+   Email: mlrodriguez@mckendree.edu
+   Username: mlrodriguez
+   Phone: (618) 537-6527
+   Original line: Miranda Rodriguez Head Women's Volleyball Coach / Assistant Men's mlrodriguez@mckendree.edu 618-537-6527
+
+75. Janeese VerVelde
+   Email: jmvervelde@mckendree.edu
+   Username: jmvervelde
+   Original line: Janeese VerVelde Assistant Men's and Women's Volleyball Coach jmvervelde@mckendree.edu
+
+76. Miguel Figueras
+   Email: mlfigueras@mckendree.edu
+   Username: mlfigueras
+   Phone: (515) 371-3146
+   Original line: Miguel Figueras Head Men's Water Polo Coach mlfigueras@mckendree.edu 515-371-3146
+
+77. Alex Figueras
+   Email: ajfigueras@mckendree.edu
+   Username: ajfigueras
+   Original line: Alex Figueras Head Women's Water Polo Coach ajfigueras@mckendree.edu
+
+78. James Kisgen
+   Email: jjkisgen@mckendree.edu
+   Username: jjkisgen
+   Phone: (618) 537-6872
+   Original line: James Kisgen Head Men's Wrestling Coach jjkisgen@mckendree.edu 618-537-6872
+
+79. Nick Foster
+   Email: njfoster@mckendree.edu
+   Username: njfoster
+   Original line: Nick Foster Assistant Men's Wrestling Coach njfoster@mckendree.edu
+
+80. Alexio Garcia
+   Email: adgarcia@mckendree.edu
+   Username: adgarcia
+   Original line: Alexio Garcia Head Women's Wrestling Coach adgarcia@mckendree.edu
+
+81. Zach Mittman
+   Email: zdmittman@mckendree.edu
+   Username: zdmittman
+   Phone: (618) 537-6409
+   Original line: Zach Mittman Head Cheerleading Coach zdmittman@mckendree.edu 618-537-6409
+
+82. Kiana Dittman
+   Email: kiana.dittman18@mcekendree.edu
+   Username: kiana.dittman18
+   Original line: Kiana Dittman Assistant Cheerleading Coach kiana.dittman18@mcekendree.edu
+
+83. Regan Van
+   Email: rlvanwie@mckendree.edu
+   Username: rlvanwie
+   Original line: Regan Van Wie Head Dance Coach rlvanwie@mckendree.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Nickie Sanlin Director of Volleyball / Head Men’s Volleyball Coach / nosanlin@mckendree.edu 618-537-6438
+• Brittany Hodge Assistant Athletic Performance Coach / Part-Time Sports bjhodge@mckendree.edu 618-537-4458
+• Mawusi Amos Assistant Athletic Performance Coach mjamos@mckendree.edu 618-537-4458
+• Brittany Hodge Assistant Athletic Performance Coach / Part-Time Sports bjhodge@mckendree.edu 618-537-4458
+• Drew Quinlin Graduate Assistant Athletic Performance Coach andrew.quinlin25@mckendree.edu 618-537-4458
+• Tim Gurnow Head Baseball Coach tsgurnow@mckendree.edu 618-537-6906
+• Reid Hendrickson Baseball Pitching Coach rhendrickson@mckendree.edu
+• Bob Vollmer Head Beach Volleyball Coach rbvollmer@mckendree.edu
+• George Suggs Head Men's Basketball Coach gksuggs@mckendree.edu 618-537-6871
+• Randy Baruth Assistant Men's Basketball Coach rsbaruth@mckendree.edu 618-537-2140
+• Korbin Farmer Assistant Men's Basketball Coach korbinfarmer@fca.org
+• Kari Kerkhoff Head Women's Basketball Coach kakerkhoff@mckendree.edu 618-537-6977
+• Terra Helm Assistant Women's Basketball Coach tfhelm@mckendree.edu
+• Jon Rinderer Head Bass Fishing Coach jarinderer@mckendree.edu 618-541-2177
+• Dennis Knepper Head Men's Bowling Coach wdknepper@mckendree.edu
+• Shawn Bibee Head Women's Bowling Coach sjbibee@mckendree.edu (586) 557-1072
+• Seth Hardwick Head Men's and Women's Cross Country Coach / srhardwick@mckendree.edu
+• Seth Hardwick Head Men's and Women's Cross Country Coach / srhardwick@mckendree.edu
+• Jason Rejfek Head Football Coach jrejfek@mckendree.edu 847-275-3832
+• Nick Holeton Assistant Football Coach – Offensive Coordinator / njholeton@mckendree.edu 618-537-6505
+• Thomas Jenkins Assistant Football Coach – Co-Offensive Coordinator / tmjenkins@mckendree.edu
+• Opetaia Tuiava Assistant Football Coach – Defensive Coordinator / oltuiava@mckendree.edu 618-537-6945
+• Jackson Hall Assistant Football Coach – Special Teams Coordinator / jbhall@mckendree.edu
+• Jerrell Taylor Assistant Football Coach – Recruiting Coordinator / jjtaylor@mckendree.edu
+• D'Andre Hicks Assistant Football Coach – Running Backs dthicks@mckendree.edu
+• Jake Crogan Assistant Football Coach – Tight Ends jjcrogan@mckendree.edu
+• Andrew Sherry Assistant Football Coach – Cornerbacks ajsherry@mckendree.edu
+• Nick Zuckerman Assistant Football Coach / Wide Receivers npzuckerman@mckendree.edu
+• Shirley Baugh Assistant Women's Golf Coach sabaugh@mckendree.edu
+• Brett DeNap Head M1 Men's Hockey Coach badenap@mckendree.edu (618)537-4481 Ext.
+• Christian Blandina Head M3 Men's Hockey Coach / Assistant M1 Men's cmblandina@mckendree.edu
+• Christian Blandina Head M3 Men's Hockey Coach / Assistant M1 Men's cmblandina@mckendree.edu
+• Derek Pallardy Head W1 Women's Hockey Coach dmpallardy@mckendree.edu 314-393-3326
+• Natalie Simpson Head Women's Lacrosse Coach nbsimpson@mckendree.edu 618-537-6289
+• Briana Vorkink Assistant Women's Lacrosse Coach bavorkink@mckendree.edu
+• Brad Bechel Head Men's and Women's Powerlifting Coach bjbechel@mckendree.edu 618-420-6602
+• Brad Bechel Head Men's and Women's Powerlifting Coach bjbechel@mckendree.edu 618-420-6602
+• Cameron Wyper Director of Rugby / Head Men's Rugby Coach / Assistant clwyper@mckendree.edu
+• Daniel Jones Head Women's Rugby Coach / Assistant Men's Rugby dcjones@mckendree.edu
+• Daniel Jones Head Women's Rugby Coach / Assistant Men's Rugby dcjones@mckendree.edu
+• Cameron Wyper Director of Rugby / Head Men's Rugby Coach / Assistant clwyper@mckendree.edu
+• Scott Gyllenborg Head Men's Soccer Coach stgyllenborg@mckendree.edu 618-537-6531
+• Erik Rajoy Assistant Men's Soccer Coach erik.rajoypujol23@mckendree.edu
+• Nic Fischer Men's and Women's Soccer Goalkeeper Coach nfischer@mckendree.edu
+• Michael Hodgson Assistant Men's Soccer Coach michael.hodgson19@mckendree.edu
+• Tim Strange Head Women's Soccer Coach tstrange@mckendree.edu 618-537-6910
+• Marc Hager Assistant Women's Soccer Coach mshager@mckendree.edu
+• Jamie Swanner Women's Soccer Goalkeeper Coach tstrange@mckendree.edu 618-537-6910
+• Nic Fischer Men's and Women's Soccer Goalkeeper Coach nfischer@mckendree.edu
+• Heather Tarter Head Softball Coach hmtarter@mckendree.edu 618-537-6908
+• Hannah Dow Softball Pitching Coach hldow@mckendree.edu
+• Travis Foster Assistant Softball Coach twfoster@mckendree.edu
+• Jimmy Tierney Head Men's and Women's Swimming & Diving Coach jetierney@mckendree.edu 847-833-3358
+• Donnie Torres Head Men's and Women's Diving Coach dktorres@mckendree.edu
+• Noah Javens Assistant Men's and Women's Swimming & Diving Coach ngjavens@mckendree.edu 765-637-1190
+• Jimmy Tierney Head Men's and Women's Swimming & Diving Coach jetierney@mckendree.edu 847-833-3358
+• Donnie Torres Head Men's and Women's Diving Coach dktorres@mckendree.edu
+• Noah Javens Assistant Men's and Women's Swimming & Diving Coach ngjavens@mckendree.edu 765-637-1190
+• Chance Joost Head Men's and Women's Tennis Coach rcjoost@mckendree.edu
+• Chance Joost Head Men's and Women's Tennis Coach rcjoost@mckendree.edu
+• Barry Ford Head Men's and Women's Track & Field Coach bmford@mckendree.edu
+• Eddie Harris Assistant Men's and Women's Track & Field Coach ekharris@mckendree.edu
+• Seth Hardwick Head Men's and Women's Cross Country Coach / srhardwick@mckendree.edu
+• Danee Jones Assistant Men's and Women's Track & Field Coach djjones@mckendree.edu
+• Serena Williams Assistant Men's and Women's Track & Field Coach serena.williams24@mckendree.edu
+• Barry Ford Head Men's and Women's Track & Field Coach bmford@mckendree.edu
+• Eddie Harris Assistant Men's and Women's Track & Field Coach ekharris@mckendree.edu
+• Seth Hardwick Head Men's and Women's Cross Country Coach / srhardwick@mckendree.edu
+• Danee Jones Assistant Men's and Women's Track & Field Coach djjones@mckendree.edu
+• Serena Williams Assistant Men's and Women's Track & Field Coach serena.williams24@mckendree.edu
+• Nickie Sanlin Director of Volleyball / Head Men’s Volleyball Coach / nosanlin@mckendree.edu 618-537-6438
+• Miranda Rodriguez Head Women's Volleyball Coach / Assistant Men's mlrodriguez@mckendree.edu 618-537-6527
+• Janeese VerVelde Assistant Men's and Women's Volleyball Coach jmvervelde@mckendree.edu
+• Miranda Rodriguez Head Women's Volleyball Coach / Assistant Men's mlrodriguez@mckendree.edu 618-537-6527
+• Janeese VerVelde Assistant Men's and Women's Volleyball Coach jmvervelde@mckendree.edu
+• Miguel Figueras Head Men's Water Polo Coach mlfigueras@mckendree.edu 515-371-3146
+• Alex Figueras Head Women's Water Polo Coach ajfigueras@mckendree.edu
+• James Kisgen Head Men's Wrestling Coach jjkisgen@mckendree.edu 618-537-6872
+• Nick Foster Assistant Men's Wrestling Coach njfoster@mckendree.edu
+• Alexio Garcia Head Women's Wrestling Coach adgarcia@mckendree.edu
+• Zach Mittman Head Cheerleading Coach zdmittman@mckendree.edu 618-537-6409
+• Kiana Dittman Assistant Cheerleading Coach kiana.dittman18@mcekendree.edu
+• Regan Van Wie Head Dance Coach rlvanwie@mckendree.edu

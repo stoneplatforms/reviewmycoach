@@ -1,0 +1,71 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:32
+============================================================
+
+Total coaches found: 10
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: shirleybs@umkc.edu
+   Username: shirleybs
+   Original line: Head Coach shirleybs@umkc.edu
+
+2. Director of
+   Email: vandenbornj@umkc.edu
+   Username: vandenbornj
+   Original line: Director of Golf/Head Coach vandenbornj@umkc.edu
+
+3. Head Coach
+   Email: msoccer@umkc.edu
+   Username: msoccer
+   Original line: Head Coach msoccer@umkc.edu
+
+4. Associate Head
+   Email: rmb42@umkc.edu
+   Username: rmb42
+   Original line: Associate Head Coach rmb42@umkc.edu
+
+5. Head Coach
+   Email: jessicasmith@umkc.edu
+   Username: jessicasmith
+   Original line: Head Coach jessicasmith@umkc.edu
+
+6. Assistant Coach
+   Email: marksheldon@umkc.edu
+   Username: marksheldon
+   Original line: Assistant Coach marksheldon@umkc.edu
+
+7. Head Coach
+   Email: halekl@umkc.edu
+   Username: halekl
+   Original line: Head Coach halekl@umkc.edu
+
+8. Head Coach
+   Email: shirleybs@umkc.edu
+   Username: shirleybs
+   Original line: Head Coach shirleybs@umkc.edu
+
+9. Assistant Coach
+   Email: ajmitchell@umkc.edu
+   Username: ajmitchell
+   Original line: Assistant Coach ajmitchell@umkc.edu
+
+10. Head Coach
+   Email: poseyc@umkc.edu
+   Username: poseyc
+   Original line: Head Coach poseyc@umkc.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach shirleybs@umkc.edu
+• Director of Golf/Head Coach vandenbornj@umkc.edu
+• Head Coach msoccer@umkc.edu
+• Associate Head Coach rmb42@umkc.edu
+• Head Coach jessicasmith@umkc.edu
+• Assistant Coach marksheldon@umkc.edu
+• Head Coach halekl@umkc.edu
+• Head Coach shirleybs@umkc.edu
+• Assistant Coach ajmitchell@umkc.edu
+• Head Coach poseyc@umkc.edu

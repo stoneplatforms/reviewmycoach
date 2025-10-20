@@ -1,0 +1,239 @@
+COACH ENTRIES FOUND - 2025-09-27 16:44:08
+============================================================
+
+Total coaches found: 38
+
+PARSED ENTRIES:
+----------------------------------------
+1. Associate Head
+   Email: jjackson@ia.ua.edu
+   Username: jjackson
+   Original line: Associate Head Coach jjackson@ia.ua.edu
+
+2. Assistant Coach/Hitting
+   Email: apapio@ia.ua.edu
+   Username: apapio
+   Original line: Assistant Coach/Hitting Coach apapio@ia.ua.edu
+
+3. Assistant Coach
+   Email: mmorrison@ia.ua.edu
+   Username: mmorrison
+   Original line: Assistant Coach mmorrison@ia.ua.edu
+
+4. Special Assistant
+   Email: edudley@ia.ua.edu
+   Username: edudley
+   Original line: Special Assistant to Head Basketball Coach edudley@ia.ua.edu
+
+5. Assistant Coach
+   Email: rcurry@ia.ua.edu
+   Username: rcurry
+   Original line: Assistant Coach rcurry@ia.ua.edu
+
+6. Assistant Coach
+   Email: tadams@ia.ua.edu
+   Username: tadams
+   Original line: Assistant Coach tadams@ia.ua.edu
+
+7. Assistant Coach/Recruiting
+   Email: bdwilliams@ia.ua.edu
+   Username: bdwilliams
+   Original line: Assistant Coach/Recruiting Coordinator bdwilliams@ia.ua.edu
+
+8. Assistant Coach
+   Email: fschultz@ia.ua.edu
+   Username: fschultz
+   Original line: Assistant Coach fschultz@ia.ua.edu
+
+9. Assistant Coach
+   Email: srosenstiel@ia.ua.edu
+   Username: srosenstiel
+   Original line: Assistant Coach srosenstiel@ia.ua.edu
+
+10. Head Coach
+   Email: ashleyj@ia.ua.edu
+   Username: ashleyj
+   Original line: Head Coach ashleyj@ia.ua.edu
+
+11. Associate Head
+   Email: jspring@ia.ua.edu
+   Username: jspring
+   Original line: Associate Head Coach jspring@ia.ua.edu
+
+12. Assistant Coach
+   Email: ahundley@ia.ua.edu
+   Username: ahundley
+   Original line: Assistant Coach ahundley@ia.ua.edu
+
+13. Assistant Coach
+   Email: rothompson@ia.ua.edu
+   Username: rothompson
+   Original line: Assistant Coach rothompson@ia.ua.edu
+
+14. Assistant Coach
+   Email: barrington@ia.ua.edu
+   Username: barrington
+   Original line: Assistant Coach barrington@ia.ua.edu
+
+15. Assistant Coach
+   Email: zjohnson@ia.ua.edu
+   Username: zjohnson
+   Original line: Assistant Coach zjohnson@ia.ua.edu
+
+16. Assistant Coach
+   Email: ehayes@ia.ua.edu
+   Username: ehayes
+   Original line: Assistant Coach ehayes@ia.ua.edu
+
+17. Assistant Coach
+   Email: aball@ia.ua.edu
+   Username: aball
+   Original line: Assistant Coach aball@ia.ua.edu
+
+18. Associate Head
+   Email: mpiserchio@ia.ua.edu
+   Username: mpiserchio
+   Original line: Associate Head Coach mpiserchio@ia.ua.edu
+
+19. Assistant Coach/Recruiting
+   Email: jroh@ia.ua.edu
+   Username: jroh
+   Original line: Assistant Coach/Recruiting Coordinator jroh@ia.ua.edu
+
+20. Assistant Coach
+   Email: cnairn@ia.ua.edu
+   Username: cnairn
+   Original line: Assistant Coach cnairn@ia.ua.edu
+
+21. Assistant Coach
+   Email: aarbour@ia.ua.edu
+   Username: aarbour
+   Original line: Assistant Coach aarbour@ia.ua.edu
+
+22. Assistant Coach,
+   Email: bbunn@ia.ua.edu
+   Username: bbunn
+   Original line: Assistant Coach, Diving bbunn@ia.ua.edu
+
+23. Assistant Coach
+   Email: mwhite@ia.ua.edu
+   Username: mwhite
+   Original line: Assistant Coach mwhite@ia.ua.edu
+
+24. Assistant Coach
+   Email: rsalhus@ia.ua.edu
+   Username: rsalhus
+   Original line: Assistant Coach rsalhus@ia.ua.edu
+
+25. Assistant Coach
+   Email: cdeloof@ia.ua.edu
+   Username: cdeloof
+   Original line: Assistant Coach cdeloof@ia.ua.edu
+
+26. Head Coach
+   Email: ghusack@ia.ua.edu
+   Username: ghusack
+   Original line: Head Coach ghusack@ia.ua.edu
+
+27. Assistant Coach
+   Email: egils@ia.ua.edu
+   Username: egils
+   Original line: Assistant Coach egils@ia.ua.edu
+
+28. Head Coach
+   Email: jberhane@ia.ua.edu
+   Username: jberhane
+   Original line: Head Coach jberhane@ia.ua.edu
+
+29. Assistant Coach
+   Email: csanchez@ia.ua.edu
+   Username: csanchez
+   Original line: Assistant Coach csanchez@ia.ua.edu
+
+30. Head Coach
+   Email: dwaters@ia.ua.edu
+   Username: dwaters
+   Original line: Head Coach dwaters@ia.ua.edu
+
+31. Assistant Coach
+   Email: dyush@ia.ua.edu
+   Username: dyush
+   Original line: Assistant Coach (Throws) dyush@ia.ua.edu
+
+32. Assistant Coach
+   Email: bwiley@ia.ua.edu
+   Username: bwiley
+   Original line: Assistant Coach (Sprints/Hurdles) bwiley@ia.ua.edu
+
+33. Assistant Coach
+   Email: mpate@ia.ua.edu
+   Username: mpate
+   Original line: Assistant Coach (Jumps) mpate@ia.ua.edu
+
+34. Assistant Coach
+   Email: nstenuf@ia.ua.edu
+   Username: nstenuf
+   Original line: Assistant Coach (Distance/Cross Country) nstenuf@ia.ua.edu
+
+35. Assistant Coach
+   Email: tduckworth@ia.ua.edu
+   Username: tduckworth
+   Original line: Assistant Coach (Pole Vault/Multi Events) tduckworth@ia.ua.edu
+
+36. Assistant Coach
+   Email: jbarreau@ia.ua.edu
+   Username: jbarreau
+   Original line: Assistant Coach / Recruiting Coordinator jbarreau@ia.ua.edu
+
+37. Assistant Coach
+   Email: nmatthews@ia.ua.edu
+   Username: nmatthews
+   Original line: Assistant Coach nmatthews@ia.ua.edu
+
+38. Assistant Coach
+   Email: rlewis@ia.ua.edu
+   Username: rlewis
+   Original line: Assistant Coach rlewis@ia.ua.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Associate Head Coach jjackson@ia.ua.edu
+• Assistant Coach/Hitting Coach apapio@ia.ua.edu
+• Assistant Coach mmorrison@ia.ua.edu
+• Special Assistant to Head Basketball Coach edudley@ia.ua.edu
+• Assistant Coach rcurry@ia.ua.edu
+• Assistant Coach tadams@ia.ua.edu
+• Assistant Coach/Recruiting Coordinator bdwilliams@ia.ua.edu
+• Assistant Coach fschultz@ia.ua.edu
+• Assistant Coach srosenstiel@ia.ua.edu
+• Head Coach ashleyj@ia.ua.edu
+• Associate Head Coach jspring@ia.ua.edu
+• Assistant Coach ahundley@ia.ua.edu
+• Assistant Coach rothompson@ia.ua.edu
+• Assistant Coach barrington@ia.ua.edu
+• Assistant Coach zjohnson@ia.ua.edu
+• Assistant Coach ehayes@ia.ua.edu
+• Assistant Coach aball@ia.ua.edu
+• Associate Head Coach mpiserchio@ia.ua.edu
+• Assistant Coach/Recruiting Coordinator jroh@ia.ua.edu
+• Assistant Coach cnairn@ia.ua.edu
+• Assistant Coach aarbour@ia.ua.edu
+• Assistant Coach, Diving bbunn@ia.ua.edu
+• Assistant Coach mwhite@ia.ua.edu
+• Assistant Coach rsalhus@ia.ua.edu
+• Assistant Coach cdeloof@ia.ua.edu
+• Head Coach ghusack@ia.ua.edu
+• Assistant Coach egils@ia.ua.edu
+• Head Coach jberhane@ia.ua.edu
+• Assistant Coach csanchez@ia.ua.edu
+• Head Coach dwaters@ia.ua.edu
+• Assistant Coach (Throws) dyush@ia.ua.edu
+• Assistant Coach (Sprints/Hurdles) bwiley@ia.ua.edu
+• Assistant Coach (Jumps) mpate@ia.ua.edu
+• Assistant Coach (Distance/Cross Country) nstenuf@ia.ua.edu
+• Assistant Coach (Pole Vault/Multi Events) tduckworth@ia.ua.edu
+• Assistant Coach / Recruiting Coordinator jbarreau@ia.ua.edu
+• Assistant Coach nmatthews@ia.ua.edu
+• Assistant Coach rlewis@ia.ua.edu

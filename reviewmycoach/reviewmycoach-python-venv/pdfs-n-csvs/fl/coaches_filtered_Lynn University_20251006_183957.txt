@@ -1,0 +1,251 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:58
+============================================================
+
+Total coaches found: 40
+
+PARSED ENTRIES:
+----------------------------------------
+1. Michael Donellan
+   Email: MDonellan@lynn.edu
+   Username: MDonellan
+   Original line: Michael Donellan Director of Athletic Performance/Head Strength & Conditioning Coach (561) 237- MDonellan@lynn.edu
+
+2. Michael Donellan
+   Email: MDonellan@lynn.edu
+   Username: MDonellan
+   Original line: Michael Donellan Director of Athletic Performance/Head Strength & Conditioning Coach (561) 237- MDonellan@lynn.edu
+
+3. Matteo Sementa
+   Email: MSementa@lynn.edu
+   Username: MSementa
+   Original line: Matteo Sementa Assistant Coach, Strength and Conditioning (561) 237- MSementa@lynn.edu
+
+4. Rudy Garbalosa
+   Email: rgarbalosa@lynn.edu
+   Username: rgarbalosa
+   Original line: Rudy Garbalosa Head Baseball Coach (561) 237- rgarbalosa@lynn.edu
+
+5. Tristan McGinnis
+   Email: Tmcginnis@lynn.edu
+   Username: Tmcginnis
+   Original line: Tristan McGinnis Assistant Baseball Coach/Recruiting Coordinator Tmcginnis@lynn.edu
+
+6. Bill Morosco
+   Email: bmorosco@lynn.edu
+   Username: bmorosco
+   Original line: Bill Morosco Head Men's Basketball Coach (561) 237- bmorosco@lynn.edu
+
+7. Nick DeAtley
+   Email: NDeatley@Lynn.edu
+   Username: NDeatley
+   Original line: Nick DeAtley Head Assistant Men's Basketball Coach NDeatley@Lynn.edu
+
+8. Doug Venneri
+   Email: DVenneri@lynn.edu
+   Username: DVenneri
+   Original line: Doug Venneri Volunteer Assistant Men's Basketball Coach DVenneri@lynn.edu
+
+9. Julia Tucker
+   Email: jhtucker@lynn.edu
+   Username: jhtucker
+   Original line: Julia Tucker Head Women's Basketball Coach (561) 237- jhtucker@lynn.edu
+
+10. Uloma Enyogasi
+   Email: UJEnyogasi@lynn.edu
+   Username: UJEnyogasi
+   Original line: Uloma Enyogasi Assistant Women's Basketball Coach (561) 237- UJEnyogasi@lynn.edu
+
+11. Junior Cadet
+   Email: JuCadet@lynn.edu
+   Username: JuCadet
+   Original line: Junior Cadet Head Cross Country and Track Coach (561) 237- JuCadet@lynn.edu
+
+12. Robert Overby
+   Email: ROverby@lynn.edu
+   Username: ROverby
+   Original line: Robert Overby Assistant Track & Field / Cross Country Coach (561) 237- ROverby@lynn.edu
+
+13. Junior Cadet
+   Email: JuCadet@lynn.edu
+   Username: JuCadet
+   Original line: Junior Cadet Head Cross Country and Track Coach (561) 237- JuCadet@lynn.edu
+
+14. Robert Overby
+   Email: ROverby@lynn.edu
+   Username: ROverby
+   Original line: Robert Overby Assistant Track & Field / Cross Country Coach (561) 237- ROverby@lynn.edu
+
+15. Steve LeBrun
+   Email: SLeBrun@lynn.edu
+   Username: SLeBrun
+   Original line: Steve LeBrun Head Men's Golf Coach SLeBrun@lynn.edu
+
+16. Keith Larson
+   Email: klarson@lynn.edu
+   Username: klarson
+   Original line: Keith Larson Head Women's Golf Coach (561) 237- klarson@lynn.edu
+
+17. Mark Miller
+   Email: MaMiller@lynn.edu
+   Username: MaMiller
+   Original line: Mark Miller Head Men's Lacrosse Coach (561) 237- MaMiller@lynn.edu
+
+18. Mike Penna
+   Email: MiPenna@lynn.edu
+   Username: MiPenna
+   Original line: Mike Penna Assistant Men's Lacrosse Coach MiPenna@lynn.edu
+
+19. Mindy Richmond
+   Email: MiRichmond@lynn.edu
+   Username: MiRichmond
+   Original line: Mindy Richmond Head Women's Lacrosse Coach (561) 237- MiRichmond@lynn.edu
+
+20. Joe Tornetta
+   Email: JTornetta@lynn.edu
+   Username: JTornetta
+   Original line: Joe Tornetta Assistant Women's Lacrosse Coach (561) 237- JTornetta@lynn.edu
+
+21. John Rootes
+   Email: jrootes@lynn.edu
+   Username: jrootes
+   Original line: John Rootes Head Men's Soccer Coach (561) 237- jrootes@lynn.edu
+
+22. Anthony Desperito
+   Email: adesperito@lynn.edu
+   Username: adesperito
+   Original line: Anthony Desperito Assistant Coach (561) 237- adesperito@lynn.edu
+
+23. John Markey
+   Email: jmarkey@lynn.edu
+   Username: jmarkey
+   Original line: John Markey Head Women's Soccer Coach (561) 237- jmarkey@lynn.edu
+
+24. Sawyer Hall
+   Email: sahall@lynn.edu
+   Username: sahall
+   Original line: Sawyer Hall Assistant Women's Soccer Coach sahall@lynn.edu
+
+25. Cassi Pickett
+   Email: cpickett@lynn.edu
+   Username: cpickett
+   Original line: Cassi Pickett Head Softball Coach (561) 221- cpickett@lynn.edu
+
+26. Noelle McGuire
+   Email: nmcguire@lynn.edu
+   Username: nmcguire
+   Original line: Noelle McGuire Assistant Softball Coach (561) 609- nmcguire@lynn.edu
+
+27. Niki Alvarez
+   Email: nalvarez@lynn.edu
+   Username: nalvarez
+   Original line: Niki Alvarez Head Swimming Coach (561) 237- nalvarez@lynn.edu
+
+28. Mike Greisl
+   Email: MiGreisl@lynn.edu
+   Username: MiGreisl
+   Original line: Mike Greisl Assistant Swimming Coach MiGreisl@lynn.edu
+
+29. Niki Alvarez
+   Email: nalvarez@lynn.edu
+   Username: nalvarez
+   Original line: Niki Alvarez Head Swimming Coach (561) 237- nalvarez@lynn.edu
+
+30. Mike Greisl
+   Email: MiGreisl@lynn.edu
+   Username: MiGreisl
+   Original line: Mike Greisl Assistant Swimming Coach MiGreisl@lynn.edu
+
+31. Mike Perez
+   Email: mperez@lynn.edu
+   Username: mperez
+   Original line: Mike Perez Head Men's & Women's Tennis Coach (561) 237- mperez@lynn.edu
+
+32. Ana Pain
+   Email: APain@lynn.edu
+   Username: APain
+   Original line: Ana Pain Assistant Tennis Coach (561) 237- APain@lynn.edu
+
+33. Mike Perez
+   Email: mperez@lynn.edu
+   Username: mperez
+   Original line: Mike Perez Head Men's & Women's Tennis Coach (561) 237- mperez@lynn.edu
+
+34. Ana Pain
+   Email: APain@lynn.edu
+   Username: APain
+   Original line: Ana Pain Assistant Tennis Coach (561) 237- APain@lynn.edu
+
+35. Junior Cadet
+   Email: JuCadet@lynn.edu
+   Username: JuCadet
+   Original line: Junior Cadet Head Cross Country and Track Coach (561) 237- JuCadet@lynn.edu
+
+36. Robert Overby
+   Email: ROverby@lynn.edu
+   Username: ROverby
+   Original line: Robert Overby Assistant Track & Field / Cross Country Coach (561) 237- ROverby@lynn.edu
+
+37. Junior Cadet
+   Email: JuCadet@lynn.edu
+   Username: JuCadet
+   Original line: Junior Cadet Head Cross Country and Track Coach (561) 237- JuCadet@lynn.edu
+
+38. Robert Overby
+   Email: ROverby@lynn.edu
+   Username: ROverby
+   Original line: Robert Overby Assistant Track & Field / Cross Country Coach (561) 237- ROverby@lynn.edu
+
+39. Adam Milewski
+   Email: amilewski@lynn.edu
+   Username: amilewski
+   Original line: Adam Milewski Head Volleyball Coach (561) 237- amilewski@lynn.edu
+
+40. Travis Nichols
+   Email: tnnichols@lynn.edu
+   Username: tnnichols
+   Original line: Travis Nichols Assistant Volleyball Coach (561) 237- tnnichols@lynn.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Michael Donellan Director of Athletic Performance/Head Strength & Conditioning Coach (561) 237- MDonellan@lynn.edu
+• Michael Donellan Director of Athletic Performance/Head Strength & Conditioning Coach (561) 237- MDonellan@lynn.edu
+• Matteo Sementa Assistant Coach, Strength and Conditioning (561) 237- MSementa@lynn.edu
+• Rudy Garbalosa Head Baseball Coach (561) 237- rgarbalosa@lynn.edu
+• Tristan McGinnis Assistant Baseball Coach/Recruiting Coordinator Tmcginnis@lynn.edu
+• Bill Morosco Head Men's Basketball Coach (561) 237- bmorosco@lynn.edu
+• Nick DeAtley Head Assistant Men's Basketball Coach NDeatley@Lynn.edu
+• Doug Venneri Volunteer Assistant Men's Basketball Coach DVenneri@lynn.edu
+• Julia Tucker Head Women's Basketball Coach (561) 237- jhtucker@lynn.edu
+• Uloma Enyogasi Assistant Women's Basketball Coach (561) 237- UJEnyogasi@lynn.edu
+• Junior Cadet Head Cross Country and Track Coach (561) 237- JuCadet@lynn.edu
+• Robert Overby Assistant Track & Field / Cross Country Coach (561) 237- ROverby@lynn.edu
+• Junior Cadet Head Cross Country and Track Coach (561) 237- JuCadet@lynn.edu
+• Robert Overby Assistant Track & Field / Cross Country Coach (561) 237- ROverby@lynn.edu
+• Steve LeBrun Head Men's Golf Coach SLeBrun@lynn.edu
+• Keith Larson Head Women's Golf Coach (561) 237- klarson@lynn.edu
+• Mark Miller Head Men's Lacrosse Coach (561) 237- MaMiller@lynn.edu
+• Mike Penna Assistant Men's Lacrosse Coach MiPenna@lynn.edu
+• Mindy Richmond Head Women's Lacrosse Coach (561) 237- MiRichmond@lynn.edu
+• Joe Tornetta Assistant Women's Lacrosse Coach (561) 237- JTornetta@lynn.edu
+• John Rootes Head Men's Soccer Coach (561) 237- jrootes@lynn.edu
+• Anthony Desperito Assistant Coach (561) 237- adesperito@lynn.edu
+• John Markey Head Women's Soccer Coach (561) 237- jmarkey@lynn.edu
+• Sawyer Hall Assistant Women's Soccer Coach sahall@lynn.edu
+• Cassi Pickett Head Softball Coach (561) 221- cpickett@lynn.edu
+• Noelle McGuire Assistant Softball Coach (561) 609- nmcguire@lynn.edu
+• Niki Alvarez Head Swimming Coach (561) 237- nalvarez@lynn.edu
+• Mike Greisl Assistant Swimming Coach MiGreisl@lynn.edu
+• Niki Alvarez Head Swimming Coach (561) 237- nalvarez@lynn.edu
+• Mike Greisl Assistant Swimming Coach MiGreisl@lynn.edu
+• Mike Perez Head Men's & Women's Tennis Coach (561) 237- mperez@lynn.edu
+• Ana Pain Assistant Tennis Coach (561) 237- APain@lynn.edu
+• Mike Perez Head Men's & Women's Tennis Coach (561) 237- mperez@lynn.edu
+• Ana Pain Assistant Tennis Coach (561) 237- APain@lynn.edu
+• Junior Cadet Head Cross Country and Track Coach (561) 237- JuCadet@lynn.edu
+• Robert Overby Assistant Track & Field / Cross Country Coach (561) 237- ROverby@lynn.edu
+• Junior Cadet Head Cross Country and Track Coach (561) 237- JuCadet@lynn.edu
+• Robert Overby Assistant Track & Field / Cross Country Coach (561) 237- ROverby@lynn.edu
+• Adam Milewski Head Volleyball Coach (561) 237- amilewski@lynn.edu
+• Travis Nichols Assistant Volleyball Coach (561) 237- tnnichols@lynn.edu

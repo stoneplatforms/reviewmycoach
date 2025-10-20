@@ -1,0 +1,156 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:40
+============================================================
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Steve Gust
+   Email: sjgust@umn.edu
+   Username: sjgust
+   Original line: Steve Gust Head Baseball Coach sjgust@umn.edu 218-281- Sports Center 201
+
+2. Rich Loomis
+   Email: rloomis@crk.umn.edu
+   Username: rloomis
+   Original line: Rich Loomis Assistant Baseball Coach/Pitching Coach rloomis@crk.umn.edu Sports Center 162
+
+3. Clarke Peterson
+   Email: pet00183@umn.edu
+   Username: pet00183
+   Original line: Clarke Peterson Assistant Baseball Coach/Player Development pet00183@umn.edu 218-281- Sports Center 162
+
+4. Bryan Beamish
+   Email: bbeamish@crk.umn.edu
+   Username: bbeamish
+   Original line: Bryan Beamish Head Men's Basketball Coach bbeamish@crk.umn.edu 218-281- Sports Center 142
+
+5. Tim Lubke
+   Email: lubke008@umn.edu
+   Username: lubke008
+   Original line: Tim Lubke Assistant Men's Basketball Coach lubke008@umn.edu 218-281- Sports Center 142
+
+6. Kyle Hunt
+   Email: khunt@crk.umn.edu
+   Username: khunt
+   Original line: Kyle Hunt Assistant Men's Basketball Coach khunt@crk.umn.edu 218-281- Sports Center 142
+
+7. Natalie Moynihan
+   Email: nmoyniha@umn.edu
+   Username: nmoyniha
+   Original line: Natalie Moynihan Head Women's Basketball Coach nmoyniha@umn.edu 218-281- Sports Center 143
+
+8. Alyssa Limmer
+   Email: limme007@crk.umn.edu
+   Username: limme007
+   Original line: Alyssa Limmer Assistant Women's Basketball Coach limme007@crk.umn.edu 218-281- Sports Center 143
+
+9. Ryan Moynihan
+   Email: rmoyniha@crk.umn.edu
+   Username: rmoyniha
+   Original line: Ryan Moynihan Assistant Coach rmoyniha@crk.umn.edu 218-281- Sports Center 143
+
+10. Haley Pembroke
+   Email: hpembrok@umn.edu
+   Username: hpembrok
+   Original line: Haley Pembroke Head Equestrian Coach hpembrok@umn.edu UTOC 100A
+
+11. Brad Heppner
+   Email: b-hepp@umn.edu
+   Username: b-hepp
+   Original line: Brad Heppner Head Men's Golf Coach b-hepp@umn.edu 218-281- Sports Center 118-
+
+12. Brady Heppner
+   Email: bheppner@umn.edu
+   Username: bheppner
+   Original line: Brady Heppner Head Women's Golf Coach bheppner@umn.edu 218-289- Sports Center 118-
+
+13. Danny Burstein
+   Email: burstein@umn.edu
+   Username: burstein
+   Original line: Danny Burstein Head Soccer Coach burstein@umn.edu 218-281- Sports Center 118-
+
+14. Breezie Davis
+   Email: breezied@umn.edu
+   Username: breezied
+   Phone: (218) 281-8506
+   Original line: Breezie Davis Assistant Soccer Coach breezied@umn.edu (218) 281-8506
+
+15. Ashton Sangster
+   Email: asangste@crk.umn.edu
+   Username: asangste
+   Original line: Ashton Sangster Head Softball Coach asangste@crk.umn.edu 218-281- Sports Center 117
+
+16. Grace Clouser
+   Email: gclouser@crk.umn.edu
+   Username: gclouser
+   Original line: Grace Clouser Assistant Softball Coach gclouser@crk.umn.edu 218-281- Sports Center 118
+
+17. Josh Lunak
+   Email: lunak005@umn.edu
+   Username: lunak005
+   Original line: Josh Lunak Head Tennis Coach lunak005@umn.edu 218-281- Student Success
+
+18. Holly Mewes
+   Email: roep0029@crk.umn.edu
+   Username: roep0029
+   Original line: Holly Mewes Assistant Tennis Coach roep0029@crk.umn.edu
+
+19. Nick Meseck
+   Email: nmeseck@umn.edu
+   Username: nmeseck
+   Original line: Nick Meseck Head Volleyball Coach nmeseck@umn.edu 218-281- Sports Center 106
+
+20. Kia Kriener
+   Email: kkriener@crk.umn.edu
+   Username: kkriener
+   Original line: Kia Kriener Assistant Volleyball Coach kkriener@crk.umn.edu 218-280-
+
+21. Steven Krouse
+   Email: swkrouse@umn.edu
+   Username: swkrouse
+   Original line: Steven Krouse Head Cross Country Coach swkrouse@umn.edu 218-281- Sports Center 139-
+
+22. Anne Prudhomme
+   Email: aprudhom@umn.edu
+   Username: aprudhom
+   Original line: Anne Prudhomme Head Trap Coach aprudhom@umn.edu Sports Center 118
+
+23. Steve Johnson
+   Email: joh20122@crk.umn.edu
+   Username: joh20122
+   Original line: Steve Johnson Head Hockey Coach joh20122@crk.umn.edu 701-213- Crookston Sports
+
+24. Brady Heppner
+   Email: bheppner@umn.edu
+   Username: bheppner
+   Original line: Brady Heppner Assistant Hockey Coach/Recruiting Coordinator bheppner@umn.edu 218-289-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Steve Gust Head Baseball Coach sjgust@umn.edu 218-281- Sports Center 201
+• Rich Loomis Assistant Baseball Coach/Pitching Coach rloomis@crk.umn.edu Sports Center 162
+• Clarke Peterson Assistant Baseball Coach/Player Development pet00183@umn.edu 218-281- Sports Center 162
+• Bryan Beamish Head Men's Basketball Coach bbeamish@crk.umn.edu 218-281- Sports Center 142
+• Tim Lubke Assistant Men's Basketball Coach lubke008@umn.edu 218-281- Sports Center 142
+• Kyle Hunt Assistant Men's Basketball Coach khunt@crk.umn.edu 218-281- Sports Center 142
+• Natalie Moynihan Head Women's Basketball Coach nmoyniha@umn.edu 218-281- Sports Center 143
+• Alyssa Limmer Assistant Women's Basketball Coach limme007@crk.umn.edu 218-281- Sports Center 143
+• Ryan Moynihan Assistant Coach rmoyniha@crk.umn.edu 218-281- Sports Center 143
+• Haley Pembroke Head Equestrian Coach hpembrok@umn.edu UTOC 100A
+• Brad Heppner Head Men's Golf Coach b-hepp@umn.edu 218-281- Sports Center 118-
+• Brady Heppner Head Women's Golf Coach bheppner@umn.edu 218-289- Sports Center 118-
+• Danny Burstein Head Soccer Coach burstein@umn.edu 218-281- Sports Center 118-
+• Breezie Davis Assistant Soccer Coach breezied@umn.edu (218) 281-8506
+• Ashton Sangster Head Softball Coach asangste@crk.umn.edu 218-281- Sports Center 117
+• Grace Clouser Assistant Softball Coach gclouser@crk.umn.edu 218-281- Sports Center 118
+• Josh Lunak Head Tennis Coach lunak005@umn.edu 218-281- Student Success
+• Holly Mewes Assistant Tennis Coach roep0029@crk.umn.edu
+• Nick Meseck Head Volleyball Coach nmeseck@umn.edu 218-281- Sports Center 106
+• Kia Kriener Assistant Volleyball Coach kkriener@crk.umn.edu 218-280-
+• Steven Krouse Head Cross Country Coach swkrouse@umn.edu 218-281- Sports Center 139-
+• Anne Prudhomme Head Trap Coach aprudhom@umn.edu Sports Center 118
+• Steve Johnson Head Hockey Coach joh20122@crk.umn.edu 701-213- Crookston Sports
+• Brady Heppner Assistant Hockey Coach/Recruiting Coordinator bheppner@umn.edu 218-289-

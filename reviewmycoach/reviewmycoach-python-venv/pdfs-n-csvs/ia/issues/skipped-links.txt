@@ -1,0 +1,30 @@
+Dubuque, University of.pdf :: https://dbqspartanathletics.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://dbqspartanathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://dbqspartanathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://dbqspartanathletics.com/staff-directory?print=true, https://dbqspartanathletics.com/staff-directory/print, https://dbqspartanathletics.com/staff-directory, https://dbqspartanathletics.com/staff-directory/index?print=true, https://dbqspartanathletics.com/staff-directory/index/print, https://dbqspartanathletics.com/staff-directory/index
+
+Graceland University (IA).pdf :: https://guyellowjackets.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://guyellowjackets.com/staff-directory/index
+Call log:
+  - navigating to "https://guyellowjackets.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://guyellowjackets.com/staff-directory?print=true, https://guyellowjackets.com/staff-directory/print, https://guyellowjackets.com/staff-directory, https://guyellowjackets.com/staff-directory/index?print=true, https://guyellowjackets.com/staff-directory/index/print, https://guyellowjackets.com/staff-directory/index
+
+Iowa Wesleyan University.pdf :: https://iw.edu/athletics :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://iw.edu/athletics/index
+Call log:
+  - navigating to "https://iw.edu/athletics/index", waiting until "networkidle"
+
+  tried: https://iw.edu/athletics?print=true, https://iw.edu/athletics/print, https://iw.edu/athletics, https://iw.edu/athletics/index?print=true, https://iw.edu/athletics/index/print, https://iw.edu/athletics/index
+
+Mount Mercy University.pdf :: https://mountmercy.mustangsports.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mountmercy.mustangsports.com/staff-directory/index
+Call log:
+  - navigating to "https://mountmercy.mustangsports.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://mountmercy.mustangsports.com/staff-directory?print=true, https://mountmercy.mustangsports.com/staff-directory/print, https://mountmercy.mustangsports.com/staff-directory, https://mountmercy.mustangsports.com/staff-directory/index?print=true, https://mountmercy.mustangsports.com/staff-directory/index/print, https://mountmercy.mustangsports.com/staff-directory/index
+
+Dordt University.pdf :: https://dordtdefenders.com/staff-directory :: Navigation failed: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://dordtdefenders.com/staff-directory/index
+Call log:
+  - navigating to "https://dordtdefenders.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://dordtdefenders.com/staff-directory?print=true, https://dordtdefenders.com/staff-directory/print, https://dordtdefenders.com/staff-directory, https://dordtdefenders.com/staff-directory/index?print=true, https://dordtdefenders.com/staff-directory/index/print, https://dordtdefenders.com/staff-directory/index
+

@@ -1,0 +1,143 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:34
+============================================================
+
+Total coaches found: 22
+
+PARSED ENTRIES:
+----------------------------------------
+1. Taylor Merrill
+   Email: tmerrill@nwmissouri.edu
+   Username: tmerrill
+   Original line: Taylor Merrill Head Spirit Squads Coach tmerrill@nwmissouri.edu
+
+2. Tony Jandron
+   Email: jandron@nwmissouri.edu
+   Username: jandron
+   Original line: Tony Jandron Head Coach jandron@nwmissouri.edu
+
+3. Theo Bartolomeo
+   Email: theob@nwmissouri.edu
+   Username: theob
+   Original line: Theo Bartolomeo Assistant Coach theob@nwmissouri.edu
+
+4. Matt Keeley
+   Email: mkeeley@nwmissouri.edu
+   Username: mkeeley
+   Original line: Matt Keeley Head Coach mkeeley@nwmissouri.edu
+
+5. Cale Brubaker
+   Email: cbrubaker@nwmissouri.edu
+   Username: cbrubaker
+   Original line: Cale Brubaker Assistant Coach cbrubaker@nwmissouri.edu
+
+6. Braxton Williams
+   Email: braxtonw@nwmissouri.edu
+   Username: braxtonw
+   Original line: Braxton Williams Assistant Coach braxtonw@nwmissouri.edu
+
+7. Austin Meyer
+   Email: meyer@nwmissouri.edu
+   Username: meyer
+   Original line: Austin Meyer Head Coach meyer@nwmissouri.edu
+
+8. Daryle Tucker
+   Email: dtucker@nwmissouri.edu
+   Username: dtucker
+   Original line: Daryle Tucker Assistant Coach dtucker@nwmissouri.edu
+
+9. Taylor Merrill
+   Email: tmerrill@nwmissouri.edu
+   Username: tmerrill
+   Original line: Taylor Merrill Head Spirit Squads Coach tmerrill@nwmissouri.edu
+
+10. John McMenamin
+   Email: jmcmenamin@nwmissouri.edu
+   Username: jmcmenamin
+   Original line: John McMenamin Head Coach jmcmenamin@nwmissouri.edu (660) 562-
+
+11. Lathan Croy
+   Email: lcroy@nwmissouri.edu
+   Username: lcroy
+   Original line: Lathan Croy Head Coach lcroy@nwmissouri.edu
+
+12. Marc Gordon
+   Email: mgordon@nwmissouri.edu
+   Username: mgordon
+   Original line: Marc Gordon Head Coach mgordon@nwmissouri.edu
+
+13. Quaid Curtin
+   Email: qcurtin@nwmissouri.edu
+   Username: qcurtin
+   Original line: Quaid Curtin Assistant Coach qcurtin@nwmissouri.edu
+
+14. Naomi Tellez
+   Email: ntellez@nwmissouri.edu
+   Username: ntellez
+   Original line: Naomi Tellez Head Coach ntellez@nwmissouri.edu
+
+15. Mark Rosewell
+   Email: mrosewe@nwmissouri.edu
+   Username: mrosewe
+   Original line: Mark Rosewell Head Coach mrosewe@nwmissouri.edu
+
+16. Mason Meier
+   Email: mmeier@nwmissouri.edu
+   Username: mmeier
+   Original line: Mason Meier Assistant Coach mmeier@nwmissouri.edu
+
+17. Brandon Masters
+   Email: bmasters@nwmissouri.edu
+   Username: bmasters
+   Original line: Brandon Masters Head Coach bmasters@nwmissouri.edu
+
+18. Cody Ingold
+   Email: cingold@nwmissouri.edu
+   Username: cingold
+   Original line: Cody Ingold Assistant Coach cingold@nwmissouri.edu
+
+19. Wick Cunningham
+   Email: wickc@nwmissouri.edu
+   Username: wickc
+   Original line: Wick Cunningham Assistant Coach wickc@nwmissouri.edu
+
+20. Tanner Berg
+   Email: tberg@nwmissouri.edu
+   Username: tberg
+   Original line: Tanner Berg Assistant Coach tberg@nwmissouri.edu
+
+21. Amy Woerth
+   Email: aphelps@nwmissouri.edu
+   Username: aphelps
+   Original line: Amy Woerth Head Coach aphelps@nwmissouri.edu
+
+22. Nick Sepulveda
+   Email: nsepulveda@nwmissouri.edu
+   Username: nsepulveda
+   Original line: Nick Sepulveda Assistant Coach nsepulveda@nwmissouri.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Taylor Merrill Head Spirit Squads Coach tmerrill@nwmissouri.edu
+• Tony Jandron Head Coach jandron@nwmissouri.edu
+• Theo Bartolomeo Assistant Coach theob@nwmissouri.edu
+• Matt Keeley Head Coach mkeeley@nwmissouri.edu
+• Cale Brubaker Assistant Coach cbrubaker@nwmissouri.edu
+• Braxton Williams Assistant Coach braxtonw@nwmissouri.edu
+• Austin Meyer Head Coach meyer@nwmissouri.edu
+• Daryle Tucker Assistant Coach dtucker@nwmissouri.edu
+• Taylor Merrill Head Spirit Squads Coach tmerrill@nwmissouri.edu
+• John McMenamin Head Coach jmcmenamin@nwmissouri.edu (660) 562-
+• Lathan Croy Head Coach lcroy@nwmissouri.edu
+• Marc Gordon Head Coach mgordon@nwmissouri.edu
+• Quaid Curtin Assistant Coach qcurtin@nwmissouri.edu
+• Naomi Tellez Head Coach ntellez@nwmissouri.edu
+• Mark Rosewell Head Coach mrosewe@nwmissouri.edu
+• Mason Meier Assistant Coach mmeier@nwmissouri.edu
+• Brandon Masters Head Coach bmasters@nwmissouri.edu
+• Cody Ingold Assistant Coach cingold@nwmissouri.edu
+• Wick Cunningham Assistant Coach wickc@nwmissouri.edu
+• Tanner Berg Assistant Coach tberg@nwmissouri.edu
+• Amy Woerth Head Coach aphelps@nwmissouri.edu
+• Nick Sepulveda Assistant Coach nsepulveda@nwmissouri.edu

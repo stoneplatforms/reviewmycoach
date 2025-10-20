@@ -1,0 +1,12 @@
+Frontier).pdf :: https://uprovidenceathletics.com/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://uprovidenceathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://uprovidenceathletics.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://uprovidenceathletics.com/staff-directory?print=true, https://uprovidenceathletics.com/staff-directory/print, https://uprovidenceathletics.com/staff-directory, https://uprovidenceathletics.com/staff-directory/index?print=true, https://uprovidenceathletics.com/staff-directory/index/print, https://uprovidenceathletics.com/staff-directory/index
+
+Warner Pacific University (Portland, OR - competes regionally).pdf :: https://wpwarriors.com/staff-directory :: Navigation failed: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://wpwarriors.com/staff-directory/index
+Call log:
+  - navigating to "https://wpwarriors.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://wpwarriors.com/staff-directory?print=true, https://wpwarriors.com/staff-directory/print, https://wpwarriors.com/staff-directory, https://wpwarriors.com/staff-directory/index?print=true, https://wpwarriors.com/staff-directory/index/print, https://wpwarriors.com/staff-directory/index
+

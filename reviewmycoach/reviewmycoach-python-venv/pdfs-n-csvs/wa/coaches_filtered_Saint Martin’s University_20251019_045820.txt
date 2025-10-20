@@ -1,0 +1,137 @@
+COACH ENTRIES FOUND - 2025-10-19 04:58:21
+============================================================
+
+Total coaches found: 21
+
+PARSED ENTRIES:
+----------------------------------------
+1. Taylor Boster
+   Email: tboster@stmartin.edu
+   Username: tboster
+   Original line: Taylor Boster Director of Charneski Recreation Center / Assistant Baseball Coach tboster@stmartin.edu 360-688-
+
+2. Jacob Garsez
+   Email: jgarsez@stmartin.edu
+   Username: jgarsez
+   Original line: Jacob Garsez Head Baseball Coach jgarsez@stmartin.edu 360-688-
+
+3. Taylor Boster
+   Email: tboster@stmartin.edu
+   Username: tboster
+   Original line: Taylor Boster Director of Charneski Recreation Center / Assistant Baseball Coach tboster@stmartin.edu 360-688-
+
+4. Aaron Landon
+   Email: alandon@stmartin.edu
+   Username: alandon
+   Original line: Aaron Landon Head Men's Basketball Coach alandon@stmartin.edu 360-438-
+
+5. Tyler Velasquez
+   Email: tvelasquez@stmartin.edu
+   Username: tvelasquez
+   Original line: Tyler Velasquez Associate Head Men's Basketball Coach tvelasquez@stmartin.edu
+
+6. Natalie Marlowe
+   Email: nmarlowe@stmartin.edu
+   Username: nmarlowe
+   Original line: Natalie Marlowe Head Women's Basketball Coach nmarlowe@stmartin.edu 360-688-
+
+7. Noelle Mannen
+   Email: nmannen@stmartin.edu
+   Username: nmannen
+   Original line: Noelle Mannen Assistant Women's Basketball Coach nmannen@stmartin.edu
+
+8. Gabriel Trimbur
+   Email: gtrimbur@stmartin.edu
+   Username: gtrimbur
+   Original line: Gabriel Trimbur Head Cross Country Coach / Head Distance Coach gtrimbur@stmartin.edu 360-486-
+
+9. Nate Carlson
+   Email: nathan.carlson@stmartin.edu
+   Username: nathan.carlson
+   Original line: Nate Carlson Assistant Cross Country / Track & Field Coach nathan.carlson@stmartin.edu 808-594-
+
+10. Anne Bahr
+   Email: abahr@stmartin.edu
+   Username: abahr
+   Original line: Anne Bahr Head Golf Coach abahr@stmartin.edu 360-438-
+
+11. Rob Walker
+   Email: rwalker@stmartin.edu
+   Username: rwalker
+   Original line: Rob Walker Head Men's Soccer Coach rwalker@stmartin.edu 360-438-
+
+12. Iovani Rodriguez
+   Email: iovanirp@gmail.com
+   Username: iovanirp
+   Original line: Iovani Rodriguez Perez Assistant Men's Soccer Coach iovanirp@gmail.com
+
+13. Scott Ford
+   Email: sford@stmartin.edu
+   Username: sford
+   Original line: Scott Ford Head Women's Soccer Coach sford@stmartin.edu 253-335-
+
+14. Jim Peterson
+   Email: jpeterson@stmartin.edu
+   Username: jpeterson
+   Original line: Jim Peterson Head Softball Coach jpeterson@stmartin.edu 360-438-
+
+15. John Schultz
+   Email: jschultz@stmartin.edu
+   Username: jschultz
+   Original line: John Schultz Head Track & Field Coach jschultz@stmartin.edu 360-388-
+
+16. Gabriel Trimbur
+   Email: gtrimbur@stmartin.edu
+   Username: gtrimbur
+   Original line: Gabriel Trimbur Head Cross Country Coach / Head Distance Coach gtrimbur@stmartin.edu 360-486-
+
+17. Nate Carlson
+   Email: nathan.carlson@stmartin.edu
+   Username: nathan.carlson
+   Original line: Nate Carlson Assistant Cross Country / Track & Field Coach nathan.carlson@stmartin.edu 808-594-
+
+18. Steve Schultz
+   Email: stephen.schultz@stmartin.edu
+   Username: stephen.schultz
+   Original line: Steve Schultz Assistant Track & Field Coach stephen.schultz@stmartin.edu
+
+19. Haley Domeck
+   Email: hdomeck@stmartin.edu
+   Username: hdomeck
+   Original line: Haley Domeck Head Volleyball Coach hdomeck@stmartin.edu 360-907-
+
+20. Anne Bahr
+   Email: abahr@stmartin.edu
+   Username: abahr
+   Original line: Anne Bahr Head Golf Coach abahr@stmartin.edu 360-438-
+
+21. Ke'alohi Lani
+   Email: kvelascocosare@stmartin.edu
+   Username: kvelascocosare
+   Original line: Ke'alohi Lani Velasco-Cosare Head Cheer Coach kvelascocosare@stmartin.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Taylor Boster Director of Charneski Recreation Center / Assistant Baseball Coach tboster@stmartin.edu 360-688-
+• Jacob Garsez Head Baseball Coach jgarsez@stmartin.edu 360-688-
+• Taylor Boster Director of Charneski Recreation Center / Assistant Baseball Coach tboster@stmartin.edu 360-688-
+• Aaron Landon Head Men's Basketball Coach alandon@stmartin.edu 360-438-
+• Tyler Velasquez Associate Head Men's Basketball Coach tvelasquez@stmartin.edu
+• Natalie Marlowe Head Women's Basketball Coach nmarlowe@stmartin.edu 360-688-
+• Noelle Mannen Assistant Women's Basketball Coach nmannen@stmartin.edu
+• Gabriel Trimbur Head Cross Country Coach / Head Distance Coach gtrimbur@stmartin.edu 360-486-
+• Nate Carlson Assistant Cross Country / Track & Field Coach nathan.carlson@stmartin.edu 808-594-
+• Anne Bahr Head Golf Coach abahr@stmartin.edu 360-438-
+• Rob Walker Head Men's Soccer Coach rwalker@stmartin.edu 360-438-
+• Iovani Rodriguez Perez Assistant Men's Soccer Coach iovanirp@gmail.com
+• Scott Ford Head Women's Soccer Coach sford@stmartin.edu 253-335-
+• Jim Peterson Head Softball Coach jpeterson@stmartin.edu 360-438-
+• John Schultz Head Track & Field Coach jschultz@stmartin.edu 360-388-
+• Gabriel Trimbur Head Cross Country Coach / Head Distance Coach gtrimbur@stmartin.edu 360-486-
+• Nate Carlson Assistant Cross Country / Track & Field Coach nathan.carlson@stmartin.edu 808-594-
+• Steve Schultz Assistant Track & Field Coach stephen.schultz@stmartin.edu
+• Haley Domeck Head Volleyball Coach hdomeck@stmartin.edu 360-907-
+• Anne Bahr Head Golf Coach abahr@stmartin.edu 360-438-
+• Ke'alohi Lani Velasco-Cosare Head Cheer Coach kvelascocosare@stmartin.edu

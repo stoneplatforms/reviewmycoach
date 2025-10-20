@@ -1,0 +1,461 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:53
+============================================================
+
+Total coaches found: 75
+
+PARSED ENTRIES:
+----------------------------------------
+1. Alex Cost
+   Email: alcost@ucsd.edu
+   Username: alcost
+   Original line: Alex Cost Senior Performance Coach alcost@ucsd.edu
+
+2. Tayler Cullen
+   Email: tcullen@ucsd.edu
+   Username: tcullen
+   Original line: Tayler Cullen Performance Coach tcullen@ucsd.edu
+
+3. Patrick McLeroy
+   Email: pmcleroy@ucsd.edu
+   Username: pmcleroy
+   Original line: Patrick McLeroy Performance Coach pmcleroy@ucsd.edu
+
+4. Jonathon Scott
+   Email: joscott@ucsd.edu
+   Username: joscott
+   Original line: Jonathon Scott Performance Coach joscott@ucsd.edu
+
+5. Aysia Shellmire
+   Email: ashellmire@ucsd.edu
+   Username: ashellmire
+   Original line: Aysia Shellmire Performance Coach ashellmire@ucsd.edu
+
+6. Angelo Villano
+   Email: avillano@ucsd.edu
+   Username: avillano
+   Original line: Angelo Villano Performance Coach avillano@ucsd.edu
+
+7. Abbie Cooley
+   Email: abcooley@ucsd.edu
+   Username: abcooley
+   Original line: Abbie Cooley Assistant Performance Coach abcooley@ucsd.edu
+
+8. Deija James
+   Email: dmjames@ucsd.edu
+   Username: dmjames
+   Original line: Deija James Head Cheer Coach dmjames@ucsd.edu
+
+9. Eric Newman
+   Email: ecnewman@ucsd.edu
+   Username: ecnewman
+   Original line: Eric Newman Head Coach ecnewman@ucsd.edu 858-534-
+
+10. Matt Harvey
+   Email: mharvey@ucsd.edu
+   Username: mharvey
+   Original line: Matt Harvey Associate Head Coach mharvey@ucsd.edu 858-246-
+
+11. Justin Beck
+   Email: jrbeck@ucsd.edu
+   Username: jrbeck
+   Original line: Justin Beck '19 Assistant Coach jrbeck@ucsd.edu
+
+12. Tyler Nordgren
+   Email: tenordgren@ucsd.edu
+   Username: tenordgren
+   Original line: Tyler Nordgren Assistant Coach tenordgren@ucsd.edu
+
+13. Clint Allard
+   Email: mbball@ucsd.edu
+   Username: mbball
+   Original line: Clint Allard '08 Head Coach mbball@ucsd.edu 858-822-
+
+14. Steven Aldridge
+   Email: staldridge@ucsd.edu
+   Username: staldridge
+   Original line: Steven Aldridge Assistant Coach staldridge@ucsd.edu
+
+15. Daniel Eberhardt
+   Email: djeberhardt@ucsd.edu
+   Username: djeberhardt
+   Original line: Daniel Eberhardt Assistant Coach djeberhardt@ucsd.edu
+
+16. Skye Ettin
+   Email: settin@ucsd.edu
+   Username: settin
+   Original line: Skye Ettin Assistant Coach settin@ucsd.edu
+
+17. Rich Shayewitz
+   Email: rshayewitz@ucsd.edu
+   Username: rshayewitz
+   Original line: Rich Shayewitz Assistant Coach rshayewitz@ucsd.edu
+
+18. Alex Cost
+   Email: alcost@ucsd.edu
+   Username: alcost
+   Original line: Alex Cost Senior Performance Coach alcost@ucsd.edu
+
+19. Heidi VanDerveer
+   Email: hvanderveer@ucsd.edu
+   Username: hvanderveer
+   Original line: Heidi VanDerveer Head Coach hvanderveer@ucsd.edu 858-534-
+
+20. Vanessa Nygaard
+   Email: vnygaard@ucsd.edu
+   Username: vnygaard
+   Original line: Vanessa Nygaard Associate Head Coach vnygaard@ucsd.edu
+
+21. Britinee Yasukochi
+   Email: byasukochi@ucsd.edu
+   Username: byasukochi
+   Original line: Britinee Yasukochi Assistant Coach/Recruiting Coordinator byasukochi@ucsd.edu 858-534-
+
+22. PhyNique Allen
+   Email: pallen@ucsd.edu
+   Username: pallen
+   Original line: PhyNique Allen Assistant Coach pallen@ucsd.edu
+
+23. Alexandria Young
+   Email: ary004@ucsd.edu
+   Username: ary004
+   Original line: Alexandria Young Assistant Coach ary004@ucsd.edu
+
+24. Miranda Seto
+   Email: miseto@ucsd.edu
+   Username: miseto
+   Original line: Miranda Seto '15 Assistant Coach/Director of Basketball Operations miseto@ucsd.edu
+
+25. Nate Garcia
+   Email: ngarcia@ucsd.edu
+   Username: ngarcia
+   Original line: Nate Garcia '00 Head Coach ngarcia@ucsd.edu 858-534-
+
+26. Meriah Earle
+   Email: mmearle@ucsd.edu
+   Username: mmearle
+   Original line: Meriah Earle Assistant Coach mmearle@ucsd.edu
+
+27. Juan Ignacio
+   Email: jic330@ucsd.edu
+   Username: jic330
+   Original line: Juan Ignacio Calderon Head Coach jic330@ucsd.edu 858-705-
+
+28. Diego Calderon
+   Email: dcalderonbartolome@ucsd.edu
+   Username: dcalderonbartolome
+   Original line: Diego Calderon Assistant Coach dcalderonbartolome@ucsd.edu
+
+29. Konstantin Lokhanov
+   Email: klokhanov@ucsd.edu
+   Username: klokhanov
+   Original line: Konstantin Lokhanov Assistant Coach klokhanov@ucsd.edu
+
+30. Eric Lorenzo
+   Email: elorenzoalfonso@ucsd.edu
+   Username: elorenzoalfonso
+   Original line: Eric Lorenzo Alfonso Assistant Coach elorenzoalfonso@ucsd.edu
+
+31. Vladimir Prieto
+   Email: vprietocordova@ucsd.edu
+   Username: vprietocordova
+   Original line: Vladimir Prieto Cordova Assistant Coach vprietocordova@ucsd.edu
+
+32. Eduard Zilinsky
+   Email: edzilinskiy@ucsd.edu
+   Username: edzilinskiy
+   Original line: Eduard Zilinsky Assistant Coach edzilinskiy@ucsd.edu
+
+33. Fred Hanover
+   Email: fhanover@ucsd.edu
+   Username: fhanover
+   Original line: Fred Hanover Head Coach fhanover@ucsd.edu 760-855-
+
+34. Peter Simeone
+   Email: psimeone@ucsd.edu
+   Username: psimeone
+   Original line: Peter Simeone Head Coach psimeone@ucsd.edu
+
+35. Patrick Hurley
+   Email: pahurley@ucsd.edu
+   Username: pahurley
+   Original line: Patrick Hurley Assistant Coach pahurley@ucsd.edu
+
+36. Nicole Ahadian
+   Email: niahadian@ucsd.edu
+   Username: niahadian
+   Original line: Nicole Ahadian Assistant Coach niahadian@ucsd.edu
+
+37. Colin Truex
+   Email: ctruex@ucsd.edu
+   Username: ctruex
+   Original line: Colin Truex Head Coach ctruex@ucsd.edu 858-534-
+
+38. Kimberly Dale
+   Email: kdale@ucsd.edu
+   Username: kdale
+   Original line: Kimberly Dale Associate Head Coach/Recruiting Coordinator kdale@ucsd.edu 858-534-
+
+39. Toby Johnson
+   Email: toj004@ucsd.edu
+   Username: toj004
+   Original line: Toby Johnson Assistant Coach/Boathouse Manager toj004@ucsd.edu
+
+40. Jamie Press
+   Email: jspress@ucsd.edu
+   Username: jspress
+   Original line: Jamie Press Volunteer Assistant Coach jspress@ucsd.edu
+
+41. Jon Pascale
+   Email: jpascale@ucsd.edu
+   Username: jpascale
+   Original line: Jon Pascale Head Coach jpascale@ucsd.edu 858-534-
+
+42. Ryan Hernandez
+   Email: ryanhernandez@ucsd.edu
+   Username: ryanhernandez
+   Original line: Ryan Hernandez Associate Head Coach ryanhernandez@ucsd.edu 858-534-
+
+43. Michael D’Arrigo
+   Email: mdarrigo@ucsd.edu
+   Username: mdarrigo
+   Original line: Michael D’Arrigo Assistant Coach mdarrigo@ucsd.edu
+
+44. Brett Jones
+   Email: brj009@ucsd.edu
+   Username: brj009
+   Original line: Brett Jones Assistant Coach brj009@ucsd.edu
+
+45. Kristin Jones
+   Email: k3jones@ucsd.edu
+   Username: k3jones
+   Original line: Kristin Jones '04 Head Coach k3jones@ucsd.edu 858-534-
+
+46. Trent Painter
+   Email: tpainter@ucsd.edu
+   Username: tpainter
+   Original line: Trent Painter Assistant Coach tpainter@ucsd.edu 858-534-
+
+47. Nikki Palmer
+   Email: n2palmer@ucsd.edu
+   Username: n2palmer
+   Original line: Nikki Palmer Head Coach n2palmer@ucsd.edu
+
+48. Brittney Fernandez
+   Email: big001@ucsd.edu
+   Username: big001
+   Original line: Brittney Fernandez Assistant Coach big001@ucsd.edu
+
+49. Kiarra Crockett-Pope
+   Email: kcrockettpope@ucsd.edu
+   Username: kcrockettpope
+   Original line: Kiarra Crockett-Pope Assistant Coach kcrockettpope@ucsd.edu
+
+50. Marko Djordjevic
+   Email: marko@ucsd.edu
+   Username: marko
+   Original line: Marko Djordjevic Head Coach marko@ucsd.edu 858-534-
+
+51. Bobby Smith
+   Email: ros018@ucsd.edu
+   Username: ros018
+   Original line: Bobby Smith Assistant Coach ros018@ucsd.edu
+
+52. Cassie Phillips
+   Email: c8phillips@ucsd.edu
+   Username: c8phillips
+   Original line: Cassie Phillips Assistant Coach c8phillips@ucsd.edu
+
+53. Sophie Francis
+   Email: sofrancis@ucsd.edu
+   Username: sofrancis
+   Original line: Sophie Francis Assistant Coach sofrancis@ucsd.edu
+
+54. Timmer Willing
+   Email: twilling@ucsd.edu
+   Username: twilling
+   Original line: Timmer Willing Head Coach twilling@ucsd.edu 858-534-
+
+55. Jake De
+   Email: jadevries@ucsd.edu
+   Username: jadevries
+   Original line: Jake De Vries Assistant Coach jadevries@ucsd.edu
+
+56. Matthew Hollingworth
+   Email: mahollingworth@ucsd.edu
+   Username: mahollingworth
+   Original line: Matthew Hollingworth Assistant Coach mahollingworth@ucsd.edu
+
+57. Sebastian Bader
+   Email: sbader@ucsd.edu
+   Username: sbader
+   Original line: Sebastian Bader Head Coach sbader@ucsd.edu
+
+58. Paola Diaz
+   Email: Pdiazderegules@ucsd.edu
+   Username: Pdiazderegules
+   Original line: Paola Diaz de Regules Assistant Coach Pdiazderegules@ucsd.edu
+
+59. Jake De
+   Email: jadevries@ucsd.edu
+   Username: jadevries
+   Original line: Jake De Vries Assistant Coach jadevries@ucsd.edu
+
+60. Kim Graham-Miller
+   Email: kgrahammiller@ucsd.edu
+   Username: kgrahammiller
+   Original line: Kim Graham-Miller Head Coach kgrahammiller@ucsd.edu
+
+61. Nate Garcia
+   Email: ngarcia@ucsd.edu
+   Username: ngarcia
+   Original line: Nate Garcia '00 Assistant Coach ngarcia@ucsd.edu 858-534-
+
+62. Randy Bungard
+   Email: rbungard@ucsd.edu
+   Username: rbungard
+   Original line: Randy Bungard Assistant Coach rbungard@ucsd.edu
+
+63. Meriah Earle
+   Email: mmearle@ucsd.edu
+   Username: mmearle
+   Original line: Meriah Earle Assistant Coach mmearle@ucsd.edu
+
+64. Dylan Austin
+   Email: dyaustin@ucsd.edu
+   Username: dyaustin
+   Original line: Dylan Austin Assistant Coach - Pole Vault dyaustin@ucsd.edu
+
+65. Brad Rostratter
+   Email: brostratter@ucsd.edu
+   Username: brostratter
+   Original line: Brad Rostratter Head Coach brostratter@ucsd.edu
+
+66. Jorge Collazo
+   Email: jocollazo@ucsd.edu
+   Username: jocollazo
+   Original line: Jorge Collazo Assistant Coach jocollazo@ucsd.edu
+
+67. Noah Cotterman
+   Email: ncotterman@ucsd.edu
+   Username: ncotterman
+   Original line: Noah Cotterman Assistant Coach ncotterman@ucsd.edu
+
+68. Melanie Greene
+   Email: megreene@ucsd.edu
+   Username: megreene
+   Original line: Melanie Greene Head Coach megreene@ucsd.edu
+
+69. Rafael Asvolinsque
+   Email: rcamposasvolinsque@ucsd.edu
+   Username: rcamposasvolinsque
+   Original line: Rafael Asvolinsque Assistant Coach/Co-Recruiting Coordinator rcamposasvolinsque@ucsd.edu
+
+70. Kara Barkdoll
+   Email: kbarkdollcoy@ucsd.edu
+   Username: kbarkdollcoy
+   Original line: Kara Barkdoll Coy Assistant Coach/Co-Recruiting Coordinator kbarkdollcoy@ucsd.edu
+
+71. Colton Stone
+   Email: costone@ucsd.edu
+   Username: costone
+   Original line: Colton Stone Assistant Coach costone@ucsd.edu
+
+72. Matt Ustaszewski
+   Email: mustaszewski@ucsd.edu
+   Username: mustaszewski
+   Original line: Matt Ustaszewski '04 Head Coach mustaszewski@ucsd.edu 858-531-
+
+73. Arman Momdzhyan
+   Email: armomdzhyan@ucsd.edu
+   Username: armomdzhyan
+   Original line: Arman Momdzhyan '18 Associate Head Coach armomdzhyan@ucsd.edu
+
+74. Glenn Busch
+   Email: gjbusch@ucsd.edu
+   Username: gjbusch
+   Original line: Glenn Busch '01 Assistant Coach gjbusch@ucsd.edu 858-534-
+
+75. Sarah Lizotte
+   Email: salizotte@ucsd.edu
+   Username: salizotte
+   Original line: Sarah Lizotte Head Coach salizotte@ucsd.edu 858-822-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Alex Cost Senior Performance Coach alcost@ucsd.edu
+• Tayler Cullen Performance Coach tcullen@ucsd.edu
+• Patrick McLeroy Performance Coach pmcleroy@ucsd.edu
+• Jonathon Scott Performance Coach joscott@ucsd.edu
+• Aysia Shellmire Performance Coach ashellmire@ucsd.edu
+• Angelo Villano Performance Coach avillano@ucsd.edu
+• Abbie Cooley Assistant Performance Coach abcooley@ucsd.edu
+• Deija James Head Cheer Coach dmjames@ucsd.edu
+• Eric Newman Head Coach ecnewman@ucsd.edu 858-534-
+• Matt Harvey Associate Head Coach mharvey@ucsd.edu 858-246-
+• Justin Beck '19 Assistant Coach jrbeck@ucsd.edu
+• Tyler Nordgren Assistant Coach tenordgren@ucsd.edu
+• Clint Allard '08 Head Coach mbball@ucsd.edu 858-822-
+• Steven Aldridge Assistant Coach staldridge@ucsd.edu
+• Daniel Eberhardt Assistant Coach djeberhardt@ucsd.edu
+• Skye Ettin Assistant Coach settin@ucsd.edu
+• Rich Shayewitz Assistant Coach rshayewitz@ucsd.edu
+• Alex Cost Senior Performance Coach alcost@ucsd.edu
+• Heidi VanDerveer Head Coach hvanderveer@ucsd.edu 858-534-
+• Vanessa Nygaard Associate Head Coach vnygaard@ucsd.edu
+• Britinee Yasukochi Assistant Coach/Recruiting Coordinator byasukochi@ucsd.edu 858-534-
+• PhyNique Allen Assistant Coach pallen@ucsd.edu
+• Alexandria Young Assistant Coach ary004@ucsd.edu
+• Miranda Seto '15 Assistant Coach/Director of Basketball Operations miseto@ucsd.edu
+• Nate Garcia '00 Head Coach ngarcia@ucsd.edu 858-534-
+• Meriah Earle Assistant Coach mmearle@ucsd.edu
+• Juan Ignacio Calderon Head Coach jic330@ucsd.edu 858-705-
+• Diego Calderon Assistant Coach dcalderonbartolome@ucsd.edu
+• Konstantin Lokhanov Assistant Coach klokhanov@ucsd.edu
+• Eric Lorenzo Alfonso Assistant Coach elorenzoalfonso@ucsd.edu
+• Vladimir Prieto Cordova Assistant Coach vprietocordova@ucsd.edu
+• Eduard Zilinsky Assistant Coach edzilinskiy@ucsd.edu
+• Fred Hanover Head Coach fhanover@ucsd.edu 760-855-
+• Peter Simeone Head Coach psimeone@ucsd.edu
+• Patrick Hurley Assistant Coach pahurley@ucsd.edu
+• Nicole Ahadian Assistant Coach niahadian@ucsd.edu
+• Colin Truex Head Coach ctruex@ucsd.edu 858-534-
+• Kimberly Dale Associate Head Coach/Recruiting Coordinator kdale@ucsd.edu 858-534-
+• Toby Johnson Assistant Coach/Boathouse Manager toj004@ucsd.edu
+• Jamie Press Volunteer Assistant Coach jspress@ucsd.edu
+• Jon Pascale Head Coach jpascale@ucsd.edu 858-534-
+• Ryan Hernandez Associate Head Coach ryanhernandez@ucsd.edu 858-534-
+• Michael D’Arrigo Assistant Coach mdarrigo@ucsd.edu
+• Brett Jones Assistant Coach brj009@ucsd.edu
+• Kristin Jones '04 Head Coach k3jones@ucsd.edu 858-534-
+• Trent Painter Assistant Coach tpainter@ucsd.edu 858-534-
+• Nikki Palmer Head Coach n2palmer@ucsd.edu
+• Brittney Fernandez Assistant Coach big001@ucsd.edu
+• Kiarra Crockett-Pope Assistant Coach kcrockettpope@ucsd.edu
+• Marko Djordjevic Head Coach marko@ucsd.edu 858-534-
+• Bobby Smith Assistant Coach ros018@ucsd.edu
+• Cassie Phillips Assistant Coach c8phillips@ucsd.edu
+• Sophie Francis Assistant Coach sofrancis@ucsd.edu
+• Timmer Willing Head Coach twilling@ucsd.edu 858-534-
+• Jake De Vries Assistant Coach jadevries@ucsd.edu
+• Matthew Hollingworth Assistant Coach mahollingworth@ucsd.edu
+• Sebastian Bader Head Coach sbader@ucsd.edu
+• Paola Diaz de Regules Assistant Coach Pdiazderegules@ucsd.edu
+• Jake De Vries Assistant Coach jadevries@ucsd.edu
+• Kim Graham-Miller Head Coach kgrahammiller@ucsd.edu
+• Nate Garcia '00 Assistant Coach ngarcia@ucsd.edu 858-534-
+• Randy Bungard Assistant Coach rbungard@ucsd.edu
+• Meriah Earle Assistant Coach mmearle@ucsd.edu
+• Dylan Austin Assistant Coach - Pole Vault dyaustin@ucsd.edu
+• Brad Rostratter Head Coach brostratter@ucsd.edu
+• Jorge Collazo Assistant Coach jocollazo@ucsd.edu
+• Noah Cotterman Assistant Coach ncotterman@ucsd.edu
+• Melanie Greene Head Coach megreene@ucsd.edu
+• Rafael Asvolinsque Assistant Coach/Co-Recruiting Coordinator rcamposasvolinsque@ucsd.edu
+• Kara Barkdoll Coy Assistant Coach/Co-Recruiting Coordinator kbarkdollcoy@ucsd.edu
+• Colton Stone Assistant Coach costone@ucsd.edu
+• Matt Ustaszewski '04 Head Coach mustaszewski@ucsd.edu 858-531-
+• Arman Momdzhyan '18 Associate Head Coach armomdzhyan@ucsd.edu
+• Glenn Busch '01 Assistant Coach gjbusch@ucsd.edu 858-534-
+• Sarah Lizotte Head Coach salizotte@ucsd.edu 858-822-

@@ -1,0 +1,203 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:33
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Steven Trout
+   Email: st30@txstate.edu
+   Username: st30
+   Original line: Steven Trout Head Coach st30@txstate.edu @trouty16
+
+2. Josh Blakley
+   Email: jdb410@txstate.edu
+   Username: jdb410
+   Original line: Josh Blakley Associate Head Coach jdb410@txstate.edu
+
+3. Danny-David Linahan
+   Email: whh47@txstate.edu
+   Username: whh47
+   Original line: Danny-David Linahan Assistant Coach whh47@txstate.edu
+
+4. Terrence Johnson
+   Email: tjj51@txstate.edu
+   Username: tjj51
+   Original line: Terrence Johnson Head Coach tjj51@txstate.edu
+
+5. Bennie Seltzer
+   Email: seltzer1010@txstate.edu
+   Username: seltzer1010
+   Original line: Bennie Seltzer Associate Head Coach seltzer1010@txstate.edu
+
+6. Donte Mathis
+   Email: dmathis5@txstate.edu
+   Username: dmathis5
+   Original line: Donte Mathis Assistant Coach dmathis5@txstate.edu dontemathis_
+
+7. Jay Smith
+   Email: JGH139@txstate.edu
+   Username: JGH139
+   Original line: Jay Smith Assistant Coach JGH139@txstate.edu
+
+8. Dwight Thorne
+   Email: dthorne@txstate.edu
+   Username: dthorne
+   Original line: Dwight Thorne II Assistant Coach dthorne@txstate.edu
+
+9. Jericka Jenkins
+   Email: coachjericka@txstate.edu
+   Username: coachjericka
+   Original line: Jericka Jenkins Assistant coachjericka@txstate.edu coachjericka
+
+10. Paige Love
+   Email: coachpaige@txstate.edu
+   Username: coachpaige
+   Original line: Paige Love Assistant coachpaige@txstate.edu coachpaige
+
+11. Barbara Farris
+   Email: coachfarris@txstate.edu
+   Username: coachfarris
+   Original line: Barbara Farris Assistant Coach coachfarris@txstate.edu
+
+12. Octavia Barnes
+   Email: octaviab@txstate.edu
+   Username: octaviab
+   Original line: Octavia Barnes Assistant Coach octaviab@txstate.edu
+
+13. Bria Bethea
+   Email: coachbria@txstate.edu
+   Username: coachbria
+   Original line: Bria Bethea Graduate Assistant coachbria@txstate.edu
+
+14. Shane Howell
+   Email: mh74@txstate.edu
+   Username: mh74
+   Original line: Shane Howell Head Coach mh74@txstate.edu TxStateMGolf
+
+15. Par Nilsson
+   Email: Par.Nilsson@txstate.edu
+   Username: Par.Nilsson
+   Original line: Par Nilsson Head Coach Par.Nilsson@txstate.edu PartNilsson
+
+16. Maria Jose
+   Email: dtg67@txstate.edu
+   Username: dtg67
+   Original line: Maria Jose Martinez Assistant Coach dtg67@txstate.edu
+
+17. Steve Holeman
+   Email: soccer@txstate.edu
+   Username: soccer
+   Original line: Steve Holeman Head Coach soccer@txstate.edu
+
+18. Nathan Stockie
+   Email: nmstockie@txstate.edu
+   Username: nmstockie
+   Original line: Nathan Stockie Associate Head Coach nmstockie@txstate.edu
+
+19. Eszter Toth
+   Email: sdw179@txstate.edu
+   Username: sdw179
+   Original line: Eszter Toth Assistant Coach sdw179@txstate.edu
+
+20. Jonas Hunt
+   Email: janton@txstate.edu
+   Username: janton
+   Original line: Jonas Hunt Anton Assistant Coach janton@txstate.edu
+
+21. Ricci Woodard
+   Email: rw15@txstate.edu
+   Username: rw15
+   Original line: Ricci Woodard Head Coach rw15@txstate.edu
+
+22. Scott Woodard
+   Email: swoodard22@txstate.edu
+   Username: swoodard22
+   Original line: Scott Woodard Assistant Coach swoodard22@txstate.edu
+
+23. Josh Trevino
+   Email: jpt45@txstate.edu
+   Username: jpt45
+   Original line: Josh Trevino Assistant Coach jpt45@txstate.edu
+
+24. Peejay Brun
+   Email: pb21@txstate.edu
+   Username: pb21
+   Original line: Peejay Brun Assistant Coach pb21@txstate.edu
+
+25. Kendall Brooks
+   Email: kbrooks@txstate.edu
+   Username: kbrooks
+   Original line: Kendall Brooks Head Coach kbrooks@txstate.edu
+
+26. Kendall Gustafson
+   Email: kendallgustafson@txstate.edu
+   Username: kendallgustafson
+   Original line: Kendall Gustafson Filip Associate Head Coach kendallgustafson@txstate.edu
+
+27. Randal Grizzle
+   Email: randalgrizzle@txstate.edu
+   Username: randalgrizzle
+   Original line: Randal Grizzle Assistant Coach - randalgrizzle@txstate.edu
+
+28. Aries Merritt
+   Email: Aries_Merritt@txstate.edu
+   Username: Aries_Merritt
+   Original line: Aries Merritt Assistant Coach - Aries_Merritt@txstate.edu
+
+29. Calie Spencer
+   Email: calie.spencer@gmail.com
+   Username: calie.spencer
+   Original line: Calie Spencer Assistant Coach- Pole calie.spencer@gmail.com
+
+30. Sean Huiet
+   Email: sh48@txstate.edu
+   Username: sh48
+   Original line: Sean Huiet Head Coach sh48@txstate.edu shuiet8 Coach.SeanHuiet
+
+31. Keith Anderson
+   Email: keithanderson@txstate.edu
+   Username: keithanderson
+   Original line: Keith Anderson Associate Head Coach keithanderson@txstate.edu K3ith2 Coach.KeithAnderson
+
+32. Charli Fouts
+   Email: ekw38@txstate.edu
+   Username: ekw38
+   Original line: Charli Fouts Assistant Coach ekw38@txstate.edu CharliFouts_ Coach.CharliFouts
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Steven Trout Head Coach st30@txstate.edu @trouty16
+• Josh Blakley Associate Head Coach jdb410@txstate.edu
+• Danny-David Linahan Assistant Coach whh47@txstate.edu
+• Terrence Johnson Head Coach tjj51@txstate.edu
+• Bennie Seltzer Associate Head Coach seltzer1010@txstate.edu
+• Donte Mathis Assistant Coach dmathis5@txstate.edu dontemathis_
+• Jay Smith Assistant Coach JGH139@txstate.edu
+• Dwight Thorne II Assistant Coach dthorne@txstate.edu
+• Jericka Jenkins Assistant coachjericka@txstate.edu coachjericka
+• Paige Love Assistant coachpaige@txstate.edu coachpaige
+• Barbara Farris Assistant Coach coachfarris@txstate.edu
+• Octavia Barnes Assistant Coach octaviab@txstate.edu
+• Bria Bethea Graduate Assistant coachbria@txstate.edu
+• Shane Howell Head Coach mh74@txstate.edu TxStateMGolf
+• Par Nilsson Head Coach Par.Nilsson@txstate.edu PartNilsson
+• Maria Jose Martinez Assistant Coach dtg67@txstate.edu
+• Steve Holeman Head Coach soccer@txstate.edu
+• Nathan Stockie Associate Head Coach nmstockie@txstate.edu
+• Eszter Toth Assistant Coach sdw179@txstate.edu
+• Jonas Hunt Anton Assistant Coach janton@txstate.edu
+• Ricci Woodard Head Coach rw15@txstate.edu
+• Scott Woodard Assistant Coach swoodard22@txstate.edu
+• Josh Trevino Assistant Coach jpt45@txstate.edu
+• Peejay Brun Assistant Coach pb21@txstate.edu
+• Kendall Brooks Head Coach kbrooks@txstate.edu
+• Kendall Gustafson Filip Associate Head Coach kendallgustafson@txstate.edu
+• Randal Grizzle Assistant Coach - randalgrizzle@txstate.edu
+• Aries Merritt Assistant Coach - Aries_Merritt@txstate.edu
+• Calie Spencer Assistant Coach- Pole calie.spencer@gmail.com
+• Sean Huiet Head Coach sh48@txstate.edu shuiet8 Coach.SeanHuiet
+• Keith Anderson Associate Head Coach keithanderson@txstate.edu K3ith2 Coach.KeithAnderson
+• Charli Fouts Assistant Coach ekw38@txstate.edu CharliFouts_ Coach.CharliFouts

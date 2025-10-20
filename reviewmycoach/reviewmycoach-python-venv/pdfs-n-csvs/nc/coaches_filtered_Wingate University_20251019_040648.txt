@@ -1,0 +1,227 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:48
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Alexis Forbes
+   Email: al.forbes259@wingate.edu
+   Username: al.forbes259
+   Original line: Alexis Forbes Graduate Assistant Coach al.forbes259@wingate.edu
+
+2. Jeff Gregory
+   Email: jgregory@wingate.edu
+   Username: jgregory
+   Original line: Jeff Gregory Head Baseball Coach jgregory@wingate.edu 704-233- jfg_27
+
+3. David Nash
+   Email: d.nash@wingate.edu
+   Username: d.nash
+   Original line: David Nash Assistant Baseball Coach d.nash@wingate.edu
+
+4. Brandon Riley
+   Email: b.riley@wingate.edu
+   Username: b.riley
+   Original line: Brandon Riley Assistant Baseball Coach b.riley@wingate.edu
+
+5. Ann Hancock
+   Email: a.hancock@wingate.edu
+   Username: a.hancock
+   Original line: Ann Hancock Head Women's Basketball a.hancock@wingate.edu 704-233- CoachAnn15
+
+6. Allison Quinn
+   Email: al.quinn141@wingate.edu
+   Username: al.quinn141
+   Original line: Allison Quinn Graduate Assistant Coach al.quinn141@wingate.edu
+
+7. Hannah Givens
+   Email: h.givens@wingate.edu
+   Username: h.givens
+   Original line: Hannah Givens Head Beach Volleyball Coach h.givens@wingate.edu
+
+8. Kelly Sheppard
+   Email: cheer@wingate.edu
+   Username: cheer
+   Original line: Kelly Sheppard Head Cheerleading Coach cheer@wingate.edu 704-233-
+
+9. Pol Domenech
+   Email: p.domenech@wingate.edu
+   Username: p.domenech
+   Original line: Pol Domenech Head Coach Cross Country / p.domenech@wingate.edu
+
+10. Jackie Kirby
+   Email: j.kirby@wingate.edu
+   Username: j.kirby
+   Original line: Jackie Kirby Head Coach Track & j.kirby@wingate.edu
+
+11. Erasmo Ordonez
+   Email: e.ordonez@wingate.edu
+   Username: e.ordonez
+   Original line: Erasmo Ordonez Associate Head Coach - e.ordonez@wingate.edu
+
+12. Kat Lind
+   Email: k.lind@wingate.edu
+   Username: k.lind
+   Original line: Kat Lind Head Field Hockey Coach k.lind@wingate.edu 704-233-
+
+13. Joe Schlager
+   Email: j.schlager@wingate.edu
+   Username: j.schlager
+   Original line: Joe Schlager Head Flag Football Coach j.schlager@wingate.edu
+
+14. Rashaan Jordan
+   Email: r.jordan@wingate.edu
+   Username: r.jordan
+   Original line: Rashaan Jordan Head Football Coach r.jordan@wingate.edu 704-233- RockJordan15
+
+15. Mike Long
+   Email: mlong@wingate.edu
+   Username: mlong
+   Original line: Mike Long Offensive Coordinator/TE mlong@wingate.edu 704-233- Coach_Long51
+
+16. Travis Knight
+   Email: t.knight@wingate.edu
+   Username: t.knight
+   Original line: Travis Knight Defensive Coordinator/DL t.knight@wingate.edu 704-233- Coach_TKnight
+
+17. Nick Ulassin
+   Email: n.ulassin@wingate.edu
+   Username: n.ulassin
+   Original line: Nick Ulassin DB Coach/Recruiting n.ulassin@wingate.edu CoachUlassin
+
+18. Trey Kavanaugh
+   Email: t.kavanaugh@wingate.edu
+   Username: t.kavanaugh
+   Original line: Trey Kavanaugh QB Coach/Video Coordinator t.kavanaugh@wingate.edu
+
+19. Austin Proehl
+   Email: a.proehl@wingate.edu
+   Username: a.proehl
+   Original line: Austin Proehl WR Coach/Pro Liaison a.proehl@wingate.edu
+
+20. Roderick Ross
+   Email: ro.ross559@wingate.edu
+   Username: ro.ross559
+   Original line: Roderick Ross Graduate Assistant OL Coach ro.ross559@wingate.edu
+
+21. Vincent Johnson
+   Email: v.johnson@wingate.edu
+   Username: v.johnson
+   Original line: Vincent Johnson III OL Coach/Academic v.johnson@wingate.edu
+
+22. Robbie Wallace
+   Email: r.wallace@wingate.edu
+   Username: r.wallace
+   Original line: Robbie Wallace Assistant Linebackers Coach r.wallace@wingate.edu
+
+23. Tim Boyle
+   Email: t.boyle@wingate.edu
+   Username: t.boyle
+   Original line: Tim Boyle Head Men's Lacrosse Coach t.boyle@wingate.edu 704-233-
+
+24. Delaney Schappert
+   Email: d.schappert@wingate.edu
+   Username: d.schappert
+   Original line: Delaney Schappert Assistant Head Coach d.schappert@wingate.edu
+
+25. Peyton Harper
+   Email: pe.harper124@wingate.edu
+   Username: pe.harper124
+   Original line: Peyton Harper Student Assistant Coach pe.harper124@wingate.edu
+
+26. Frank McKinney
+   Email: mckinney@wingate.edu
+   Username: mckinney
+   Original line: Frank McKinney Head Rugby Coach mckinney@wingate.edu
+
+27. Makayla Bowman
+   Email: m.bowman@wingate.edu
+   Username: m.bowman
+   Original line: Makayla Bowman Assistant Softball Coach m.bowman@wingate.edu
+
+28. Sydney Lahners
+   Email: s.lahners@wingate.edu
+   Username: s.lahners
+   Original line: Sydney Lahners Head Softball Coach s.lahners@wingate.edu
+
+29. Jackie Kirby
+   Email: j.kirby@wingate.edu
+   Username: j.kirby
+   Original line: Jackie Kirby Head Coach Track & j.kirby@wingate.edu
+
+30. Pol Domenech
+   Email: p.domenech@wingate.edu
+   Username: p.domenech
+   Original line: Pol Domenech Head Coach Cross Country / p.domenech@wingate.edu
+
+31. Vanisha Wilshire
+   Email: v.wilshire@wingate.edu
+   Username: v.wilshire
+   Original line: Vanisha Wilshire Assistant Coach Track & v.wilshire@wingate.edu
+
+32. Danielle Crawford
+   Email: d.crawford@wingate.edu
+   Username: d.crawford
+   Original line: Danielle Crawford Assistant Coach Track & d.crawford@wingate.edu
+
+33. John Tillman
+   Email: j.tillman@wingate.edu
+   Username: j.tillman
+   Original line: John Tillman Assistant Coach Track & j.tillman@wingate.edu
+
+34. Erasmo Ordonez
+   Email: e.ordonez@wingate.edu
+   Username: e.ordonez
+   Original line: Erasmo Ordonez Associate Head Coach - e.ordonez@wingate.edu
+
+35. Lauren Tekavec
+   Email: l.tekavec@wingate.edu
+   Username: l.tekavec
+   Original line: Lauren Tekavec Head Volleyball Coach l.tekavec@wingate.edu 704-233-
+
+36. Lexie Laurendine
+   Email: l.laurendine@wingate.edu
+   Username: l.laurendine
+   Original line: Lexie Laurendine Assistant Volleyball Coach l.laurendine@wingate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Alexis Forbes Graduate Assistant Coach al.forbes259@wingate.edu
+• Jeff Gregory Head Baseball Coach jgregory@wingate.edu 704-233- jfg_27
+• David Nash Assistant Baseball Coach d.nash@wingate.edu
+• Brandon Riley Assistant Baseball Coach b.riley@wingate.edu
+• Ann Hancock Head Women's Basketball a.hancock@wingate.edu 704-233- CoachAnn15
+• Allison Quinn Graduate Assistant Coach al.quinn141@wingate.edu
+• Hannah Givens Head Beach Volleyball Coach h.givens@wingate.edu
+• Kelly Sheppard Head Cheerleading Coach cheer@wingate.edu 704-233-
+• Pol Domenech Head Coach Cross Country / p.domenech@wingate.edu
+• Jackie Kirby Head Coach Track & j.kirby@wingate.edu
+• Erasmo Ordonez Associate Head Coach - e.ordonez@wingate.edu
+• Kat Lind Head Field Hockey Coach k.lind@wingate.edu 704-233-
+• Joe Schlager Head Flag Football Coach j.schlager@wingate.edu
+• Rashaan Jordan Head Football Coach r.jordan@wingate.edu 704-233- RockJordan15
+• Mike Long Offensive Coordinator/TE mlong@wingate.edu 704-233- Coach_Long51
+• Travis Knight Defensive Coordinator/DL t.knight@wingate.edu 704-233- Coach_TKnight
+• Nick Ulassin DB Coach/Recruiting n.ulassin@wingate.edu CoachUlassin
+• Trey Kavanaugh QB Coach/Video Coordinator t.kavanaugh@wingate.edu
+• Austin Proehl WR Coach/Pro Liaison a.proehl@wingate.edu
+• Roderick Ross Graduate Assistant OL Coach ro.ross559@wingate.edu
+• Vincent Johnson III OL Coach/Academic v.johnson@wingate.edu
+• Robbie Wallace Assistant Linebackers Coach r.wallace@wingate.edu
+• Tim Boyle Head Men's Lacrosse Coach t.boyle@wingate.edu 704-233-
+• Delaney Schappert Assistant Head Coach d.schappert@wingate.edu
+• Peyton Harper Student Assistant Coach pe.harper124@wingate.edu
+• Frank McKinney Head Rugby Coach mckinney@wingate.edu
+• Makayla Bowman Assistant Softball Coach m.bowman@wingate.edu
+• Sydney Lahners Head Softball Coach s.lahners@wingate.edu
+• Jackie Kirby Head Coach Track & j.kirby@wingate.edu
+• Pol Domenech Head Coach Cross Country / p.domenech@wingate.edu
+• Vanisha Wilshire Assistant Coach Track & v.wilshire@wingate.edu
+• Danielle Crawford Assistant Coach Track & d.crawford@wingate.edu
+• John Tillman Assistant Coach Track & j.tillman@wingate.edu
+• Erasmo Ordonez Associate Head Coach - e.ordonez@wingate.edu
+• Lauren Tekavec Head Volleyball Coach l.tekavec@wingate.edu 704-233-
+• Lexie Laurendine Assistant Volleyball Coach l.laurendine@wingate.edu

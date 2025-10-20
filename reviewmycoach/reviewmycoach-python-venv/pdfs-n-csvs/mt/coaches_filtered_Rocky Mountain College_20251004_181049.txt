@@ -1,0 +1,161 @@
+COACH ENTRIES FOUND - 2025-10-04 18:10:50
+============================================================
+
+Total coaches found: 25
+
+PARSED ENTRIES:
+----------------------------------------
+1. Danny Neville
+   Email: daniel.neville@rocky.edu
+   Username: daniel.neville
+   Original line: Danny Neville Head Men's Basketball Coach daniel.neville@rocky.edu
+
+2. Garrett Duffin
+   Email: garrett.duffin@rocky.edu
+   Username: garrett.duffin
+   Original line: Garrett Duffin Assistant Coach garrett.duffin@rocky.edu
+
+3. Wes Keller
+   Email: wes.keller@rocky.edu
+   Username: wes.keller
+   Original line: Wes Keller Women's Basketball Head Coach wes.keller@rocky.edu 406-657-
+
+4. Latisha Demarais
+   Email: latisha.demarais@rocky.edu
+   Username: latisha.demarais
+   Original line: Latisha Demarais Head Cheer Coach latisha.demarais@rocky.edu
+
+5. Cislee Barth
+   Email: cislee.barth@rocky.edu
+   Username: cislee.barth
+   Original line: Cislee Barth Assistant Coach cislee.barth@rocky.edu
+
+6. Mike McLean
+   Email: mike.mclean@rocky.edu
+   Username: mike.mclean
+   Original line: Mike McLean Head XC Coach mike.mclean@rocky.edu 406-238-
+
+7. Alex Oddy
+   Email: alex.oddy@rocky.edu
+   Username: alex.oddy
+   Original line: Alex Oddy Head Track and Field Coach | alex.oddy@rocky.edu
+
+8. Elijah Barkell
+   Email: elijah.barkell@rocky.edu
+   Username: elijah.barkell
+   Original line: Elijah Barkell Assistant T/F Coach | Throws elijah.barkell@rocky.edu
+
+9. Chris Stutzriem
+   Email: chris.stutzriem@rocky.edu
+   Username: chris.stutzriem
+   Original line: Chris Stutzriem Head Football Coach chris.stutzriem@rocky.edu 406-657- @Coach_Stutz
+
+10. Joe Dunning
+   Email: joe.dunning@rocky.edu
+   Username: joe.dunning
+   Original line: Joe Dunning Assistant Head Coach | joe.dunning@rocky.edu @Coach_Dunning
+
+11. Teague Blome
+   Email: teague.blome@rocky.edu
+   Username: teague.blome
+   Original line: Teague Blome Offensive Coordinator | Wide teague.blome@rocky.edu @coachblome
+
+12. Lucas Olson
+   Email: lucas.olson@rocky.edu
+   Username: lucas.olson
+   Original line: Lucas Olson Defensive Backs Coach lucas.olson@rocky.edu @RealLukeOlson
+
+13. Dylan Beridon
+   Email: dylan.beridon@rocky.edu
+   Username: dylan.beridon
+   Original line: Dylan Beridon Defensive Line Coach | dylan.beridon@rocky.edu
+
+14. Keaton Huebner
+   Email: keaton.huebner@rocky.edu
+   Username: keaton.huebner
+   Original line: Keaton Huebner Tight Ends Coach keaton.huebner@rocky.edu
+
+15. Bryce Hornbeck
+   Email: bryce.hornbeck@rocky.edu
+   Username: bryce.hornbeck
+   Original line: Bryce Hornbeck Assistant Defensive Backs Coach bryce.hornbeck@rocky.edu
+
+16. Asa Spindler
+   Email: asa.spindler@rocky.edu
+   Username: asa.spindler
+   Original line: Asa Spindler Assistant Offensive Line Coach asa.spindler@rocky.edu
+
+17. Kiel Parkhurst
+   Email: kiel.parkhurst@rocky.edu
+   Username: kiel.parkhurst
+   Original line: Kiel Parkhurst Running Backs Coach kiel.parkhurst@rocky.edu
+
+18. Jerry Wolf
+   Email: wolfj@rocky.edu
+   Username: wolfj
+   Original line: Jerry Wolf Ski Racing Head Coach wolfj@rocky.edu 406-657-
+
+19. Milo Downey
+   Email: milo.downey@rocky.edu
+   Username: milo.downey
+   Original line: Milo Downey Head Men's Soccer Coach milo.downey@rocky.edu
+
+20. Jared Dickerson
+   Email: jared.dickerson@rocky.edu
+   Username: jared.dickerson
+   Original line: Jared Dickerson Assistant Men's Soccer Coach jared.dickerson@rocky.edu
+
+21. Richard Duffy
+   Email: duffyr@rocky.edu
+   Username: duffyr
+   Original line: Richard Duffy Head Women's Soccer Coach duffyr@rocky.edu 406-657-
+
+22. Aubrey Beaumont
+   Email: aubrey.beaumont@rocky.edu
+   Username: aubrey.beaumont
+   Original line: Aubrey Beaumont Head Volleyball Coach aubrey.beaumont@rocky.edu 406-657-
+
+23. Lauren Revering
+   Email: lauren.revering@rocky.edu
+   Username: lauren.revering
+   Original line: Lauren Revering Assistant Coach lauren.revering@rocky.edu
+
+24. Sydney Anderson
+   Email: sydney.anderson1@rocky.edu
+   Username: sydney.anderson1
+   Original line: Sydney Anderson Assistant Coach | Head JV sydney.anderson1@rocky.edu
+
+25. Briana Guse
+   Email: briana.guse@rocky.edu
+   Username: briana.guse
+   Original line: Briana Guse Assistant Strength Coach briana.guse@rocky.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Danny Neville Head Men's Basketball Coach daniel.neville@rocky.edu
+• Garrett Duffin Assistant Coach garrett.duffin@rocky.edu
+• Wes Keller Women's Basketball Head Coach wes.keller@rocky.edu 406-657-
+• Latisha Demarais Head Cheer Coach latisha.demarais@rocky.edu
+• Cislee Barth Assistant Coach cislee.barth@rocky.edu
+• Mike McLean Head XC Coach mike.mclean@rocky.edu 406-238-
+• Alex Oddy Head Track and Field Coach | alex.oddy@rocky.edu
+• Elijah Barkell Assistant T/F Coach | Throws elijah.barkell@rocky.edu
+• Chris Stutzriem Head Football Coach chris.stutzriem@rocky.edu 406-657- @Coach_Stutz
+• Joe Dunning Assistant Head Coach | joe.dunning@rocky.edu @Coach_Dunning
+• Teague Blome Offensive Coordinator | Wide teague.blome@rocky.edu @coachblome
+• Lucas Olson Defensive Backs Coach lucas.olson@rocky.edu @RealLukeOlson
+• Dylan Beridon Defensive Line Coach | dylan.beridon@rocky.edu
+• Keaton Huebner Tight Ends Coach keaton.huebner@rocky.edu
+• Bryce Hornbeck Assistant Defensive Backs Coach bryce.hornbeck@rocky.edu
+• Asa Spindler Assistant Offensive Line Coach asa.spindler@rocky.edu
+• Kiel Parkhurst Running Backs Coach kiel.parkhurst@rocky.edu
+• Jerry Wolf Ski Racing Head Coach wolfj@rocky.edu 406-657-
+• Milo Downey Head Men's Soccer Coach milo.downey@rocky.edu
+• Jared Dickerson Assistant Men's Soccer Coach jared.dickerson@rocky.edu
+• Richard Duffy Head Women's Soccer Coach duffyr@rocky.edu 406-657-
+• Aubrey Beaumont Head Volleyball Coach aubrey.beaumont@rocky.edu 406-657-
+• Lauren Revering Assistant Coach lauren.revering@rocky.edu
+• Sydney Anderson Assistant Coach | Head JV sydney.anderson1@rocky.edu
+• Briana Guse Assistant Strength Coach briana.guse@rocky.edu

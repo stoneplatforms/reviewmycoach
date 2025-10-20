@@ -1,0 +1,311 @@
+COACH ENTRIES FOUND - 2025-10-04 18:12:01
+============================================================
+
+Total coaches found: 50
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kelley Jacobs
+   Email: kelley.jacobs@wartburg.edu
+   Username: kelley.jacobs
+   Original line: Kelley Jacobs Assistant A.D. for Compliance/Assistant Women's Basketball Coach kelley.jacobs@wartburg.edu 319-352-
+
+2. Casey Klunder
+   Email: casey.klunder@wartburg.edu
+   Username: casey.klunder
+   Original line: Casey Klunder Head Baseball Coach casey.klunder@wartburg.edu 319-352-
+
+3. Tyler Willis
+   Email: tyler.willis@wartburg.edu
+   Username: tyler.willis
+   Original line: Tyler Willis Hitting/Infield Coach/Recruiting Coordinator tyler.willis@wartburg.edu
+
+4. Jared Pirkl
+   Email: jared.pirkl@wartburg.edu
+   Username: jared.pirkl
+   Original line: Jared Pirkl Outfield Coach jared.pirkl@wartburg.edu
+
+5. Matt Milewski
+   Email: matt.milewski@wartburg.edu
+   Username: matt.milewski
+   Original line: Matt Milewski Co-Pitching Coach matt.milewski@wartburg.edu
+
+6. Bob Amsberry
+   Email: bob.amsberry@wartburg.edu
+   Username: bob.amsberry
+   Original line: Bob Amsberry Head Women's Basketball Coach bob.amsberry@wartburg.edu 319-352-
+
+7. Kelley Jacobs
+   Email: kelley.jacobs@wartburg.edu
+   Username: kelley.jacobs
+   Original line: Kelley Jacobs Assistant A.D. for Compliance/Assistant Women's Basketball Coach kelley.jacobs@wartburg.edu 319-352-
+
+8. Justin Little
+   Email: justin.little@wartburg.edu
+   Username: justin.little
+   Original line: Justin Little Assistant Women's Basketball Coach justin.little@wartburg.edu
+
+9. Sam Leal
+   Email: sam.leal@wartburg.edu
+   Username: sam.leal
+   Original line: Sam Leal Head Men's Basketball Coach sam.leal@wartburg.edu 319-352-
+
+10. Kade Terrell
+   Email: kade.terrell@wartburg.edu
+   Username: kade.terrell
+   Original line: Kade Terrell Assistant Coach kade.terrell@wartburg.edu
+
+11. Alexis Neuer
+   Email: alexis.runk@wartburg.edu
+   Username: alexis.runk
+   Original line: Alexis Neuer Runk Head Bowling Coach alexis.runk@wartburg.edu 319-352-
+
+12. Brandon Runk
+   Email: brandon.runk@wartburg.edu
+   Username: brandon.runk
+   Original line: Brandon Runk Assistant Coach brandon.runk@wartburg.edu
+
+13. Tara Winter
+   Email: tara.winter@wartburg.edu
+   Username: tara.winter
+   Original line: Tara Winter Head Cheerleading Coach tara.winter@wartburg.edu 319-352-
+
+14. Bergan Blommers
+   Email: bergan.blommers@wartburg.edu
+   Username: bergan.blommers
+   Original line: Bergan Blommers Head Dance Coach bergan.blommers@wartburg.edu
+
+15. Russell Malterud
+   Email: russell.malterud@wartburg.edu
+   Username: russell.malterud
+   Original line: Russell Malterud Head Coach russell.malterud@wartburg.edu
+
+16. Ryan Chapman
+   Email: ryan.chapman@wartburg.edu
+   Username: ryan.chapman
+   Original line: Ryan Chapman Head Cross Country Coach ryan.chapman@wartburg.edu 319-352-
+
+17. Philip Spitzer
+   Email: philip.spitzer@wartburg.edu
+   Username: philip.spitzer
+   Original line: Philip Spitzer Assistant Cross Country and Track & Field Coach philip.spitzer@wartburg.edu
+
+18. Caleb Ferguson
+   Email: caleb.ferguson@wartburg.edu
+   Username: caleb.ferguson
+   Original line: Caleb Ferguson Assistant Coach caleb.ferguson@wartburg.edu
+
+19. Josh "Fisch"
+   Email: joshua.fischer@wartburg.edu
+   Username: joshua.fischer
+   Original line: Josh "Fisch" Fischer Head Esports Coach joshua.fischer@wartburg.edu 319-352-
+
+20. Chris Winter
+   Email: christopher.winter@wartburg.edu
+   Username: christopher.winter
+   Original line: Chris Winter Head Football Coach christopher.winter@wartburg.edu 319-352-
+
+21. Matt Wheeler
+   Email: matthew.wheeler@wartburg.edu
+   Username: matthew.wheeler
+   Original line: Matt Wheeler Assistant Head Coach/Offensive Coordinator/QBs matthew.wheeler@wartburg.edu 319-352-
+
+22. Luke Summers
+   Email: luke.summers@wartburg.edu
+   Username: luke.summers
+   Original line: Luke Summers Assistant Coach/Offensive Line luke.summers@wartburg.edu
+
+23. Ethan Lape
+   Email: ethan.lape@wartburg.edu
+   Username: ethan.lape
+   Original line: Ethan Lape Assistant Coach/Defensive Line ethan.lape@wartburg.edu
+
+24. Matt Buckner
+   Email: matt.buckner@wartburg.edu
+   Username: matt.buckner
+   Original line: Matt Buckner Assistant Coach/Wide Receivers matt.buckner@wartburg.edu
+
+25. Jawanza Holmes
+   Email: jawanza.holmes@wartburg.edu
+   Username: jawanza.holmes
+   Original line: Jawanza Holmes Assistant Coach/Running Backs jawanza.holmes@wartburg.edu
+
+26. John Thompson
+   Email: john.thompson@wartburg.edu
+   Username: john.thompson
+   Original line: John Thompson Head Women's Golf Coach john.thompson@wartburg.edu 319-464-
+
+27. Mick Angel
+   Email: mick.angel@wartburg.edu
+   Username: mick.angel
+   Original line: Mick Angel Assistant Women's Golf Coach mick.angel@wartburg.edu
+
+28. Jason Steege
+   Email: jason.steege@wartburg.edu
+   Username: jason.steege
+   Original line: Jason Steege Director of Golf/Head Men's Golf Coach jason.steege@wartburg.edu 319-352-
+
+29. Jason Steege
+   Email: jason.steege@wartburg.edu
+   Username: jason.steege
+   Original line: Jason Steege Director of Golf/Head Men's Golf Coach jason.steege@wartburg.edu 319-352-
+
+30. Emily Ryan
+   Email: emily.ryan@wartburg.edu
+   Username: emily.ryan
+   Original line: Emily Ryan Head Women's Soccer Coach emily.ryan@wartburg.edu 319-352-
+
+31. Cassie Nash
+   Email: cassie.nash@wartburg.edu
+   Username: cassie.nash
+   Original line: Cassie Nash Assistant Coach cassie.nash@wartburg.edu
+
+32. Mike Madigan
+   Email: michael.madigan@wartburg.edu
+   Username: michael.madigan
+   Original line: Mike Madigan Head Men's Soccer Coach michael.madigan@wartburg.edu 319-352-
+
+33. Christian Coridon
+   Email: christian.coridon@wartburg.edu
+   Username: christian.coridon
+   Original line: Christian Coridon Assistant Men's Soccer Coach christian.coridon@wartburg.edu
+
+34. Jamie Mueller
+   Email: jamie.mueller@wartburg.edu
+   Username: jamie.mueller
+   Original line: Jamie Mueller Head Softball Coach jamie.mueller@wartburg.edu 319-352-
+
+35. Taylor Dickson
+   Email: taylor.dickson@wartburg.edu
+   Username: taylor.dickson
+   Original line: Taylor Dickson Associate Head Coach taylor.dickson@wartburg.edu 319-352-
+
+36. Adrian Norris
+   Email: adrian.norris@wartburg.edu
+   Username: adrian.norris
+   Original line: Adrian Norris Assistant Coach adrian.norris@wartburg.edu
+
+37. Chris Gustas
+   Email: christopher.gustas@wartburg.edu
+   Username: christopher.gustas
+   Original line: Chris Gustas Head Tennis Coach christopher.gustas@wartburg.edu 319-310-
+
+38. Marissa Gustas
+   Email: marissa.gustas@wartburg.edu
+   Username: marissa.gustas
+   Original line: Marissa Gustas Assistant Tennis Coach marissa.gustas@wartburg.edu
+
+39. Ryan Chapman
+   Email: ryan.chapman@wartburg.edu
+   Username: ryan.chapman
+   Original line: Ryan Chapman Head Cross Country Coach ryan.chapman@wartburg.edu 319-352-
+
+40. Philip Spitzer
+   Email: philip.spitzer@wartburg.edu
+   Username: philip.spitzer
+   Original line: Philip Spitzer Assistant Cross Country and Track & Field Coach philip.spitzer@wartburg.edu
+
+41. Seth Roberson
+   Email: seth.roberson@wartburg.edu
+   Username: seth.roberson
+   Original line: Seth Roberson Assistant Track & Field Coach/Throws seth.roberson@wartburg.edu 319-352-
+
+42. Famiek Cook
+   Email: famiek.cook@wartburg.edu
+   Username: famiek.cook
+   Original line: Famiek Cook Assistant Track & Field Coach - Jumps famiek.cook@wartburg.edu
+
+43. Caleb Ferguson
+   Email: caleb.ferguson@wartburg.edu
+   Username: caleb.ferguson
+   Original line: Caleb Ferguson Assistant Coach caleb.ferguson@wartburg.edu
+
+44. DeAnn Akins
+   Email: deann.akins@wartburg.edu
+   Username: deann.akins
+   Original line: DeAnn Akins Head Volleyball Coach deann.akins@wartburg.edu
+
+45. Jennifer Walker
+   Email: jennifer.walker@wartburg.edu
+   Username: jennifer.walker
+   Original line: Jennifer Walker Assistant Volleyball Coach jennifer.walker@wartburg.edu 319-352-
+
+46. Eric Keller
+   Email: eric.keller@wartburg.edu
+   Username: eric.keller
+   Original line: Eric Keller Director of Wrestling/Head Men's Wrestling Coach eric.keller@wartburg.edu 319-352-
+
+47. Trevor Kittleson
+   Email: trevor.kittleson@wartburg.edu
+   Username: trevor.kittleson
+   Original line: Trevor Kittleson Assistant Coach trevor.kittleson@wartburg.edu
+
+48. Eric Keller
+   Email: eric.keller@wartburg.edu
+   Username: eric.keller
+   Original line: Eric Keller Director of Wrestling/Head Men's Wrestling Coach eric.keller@wartburg.edu 319-352-
+
+49. Brady Kyner
+   Email: brady.kyner@wartburg.edu
+   Username: brady.kyner
+   Original line: Brady Kyner Head Women's Wrestling Coach brady.kyner@wartburg.edu 319-352-
+
+50. Gunnar Wolfensperger
+   Email: g.wolfensperger@wartburg.edu
+   Username: g.wolfensperger
+   Original line: Gunnar Wolfensperger Assistant Coach g.wolfensperger@wartburg.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kelley Jacobs Assistant A.D. for Compliance/Assistant Women's Basketball Coach kelley.jacobs@wartburg.edu 319-352-
+• Casey Klunder Head Baseball Coach casey.klunder@wartburg.edu 319-352-
+• Tyler Willis Hitting/Infield Coach/Recruiting Coordinator tyler.willis@wartburg.edu
+• Jared Pirkl Outfield Coach jared.pirkl@wartburg.edu
+• Matt Milewski Co-Pitching Coach matt.milewski@wartburg.edu
+• Bob Amsberry Head Women's Basketball Coach bob.amsberry@wartburg.edu 319-352-
+• Kelley Jacobs Assistant A.D. for Compliance/Assistant Women's Basketball Coach kelley.jacobs@wartburg.edu 319-352-
+• Justin Little Assistant Women's Basketball Coach justin.little@wartburg.edu
+• Sam Leal Head Men's Basketball Coach sam.leal@wartburg.edu 319-352-
+• Kade Terrell Assistant Coach kade.terrell@wartburg.edu
+• Alexis Neuer Runk Head Bowling Coach alexis.runk@wartburg.edu 319-352-
+• Brandon Runk Assistant Coach brandon.runk@wartburg.edu
+• Tara Winter Head Cheerleading Coach tara.winter@wartburg.edu 319-352-
+• Bergan Blommers Head Dance Coach bergan.blommers@wartburg.edu
+• Russell Malterud Head Coach russell.malterud@wartburg.edu
+• Ryan Chapman Head Cross Country Coach ryan.chapman@wartburg.edu 319-352-
+• Philip Spitzer Assistant Cross Country and Track & Field Coach philip.spitzer@wartburg.edu
+• Caleb Ferguson Assistant Coach caleb.ferguson@wartburg.edu
+• Josh "Fisch" Fischer Head Esports Coach joshua.fischer@wartburg.edu 319-352-
+• Chris Winter Head Football Coach christopher.winter@wartburg.edu 319-352-
+• Matt Wheeler Assistant Head Coach/Offensive Coordinator/QBs matthew.wheeler@wartburg.edu 319-352-
+• Luke Summers Assistant Coach/Offensive Line luke.summers@wartburg.edu
+• Ethan Lape Assistant Coach/Defensive Line ethan.lape@wartburg.edu
+• Matt Buckner Assistant Coach/Wide Receivers matt.buckner@wartburg.edu
+• Jawanza Holmes Assistant Coach/Running Backs jawanza.holmes@wartburg.edu
+• John Thompson Head Women's Golf Coach john.thompson@wartburg.edu 319-464-
+• Mick Angel Assistant Women's Golf Coach mick.angel@wartburg.edu
+• Jason Steege Director of Golf/Head Men's Golf Coach jason.steege@wartburg.edu 319-352-
+• Jason Steege Director of Golf/Head Men's Golf Coach jason.steege@wartburg.edu 319-352-
+• Emily Ryan Head Women's Soccer Coach emily.ryan@wartburg.edu 319-352-
+• Cassie Nash Assistant Coach cassie.nash@wartburg.edu
+• Mike Madigan Head Men's Soccer Coach michael.madigan@wartburg.edu 319-352-
+• Christian Coridon Assistant Men's Soccer Coach christian.coridon@wartburg.edu
+• Jamie Mueller Head Softball Coach jamie.mueller@wartburg.edu 319-352-
+• Taylor Dickson Associate Head Coach taylor.dickson@wartburg.edu 319-352-
+• Adrian Norris Assistant Coach adrian.norris@wartburg.edu
+• Chris Gustas Head Tennis Coach christopher.gustas@wartburg.edu 319-310-
+• Marissa Gustas Assistant Tennis Coach marissa.gustas@wartburg.edu
+• Ryan Chapman Head Cross Country Coach ryan.chapman@wartburg.edu 319-352-
+• Philip Spitzer Assistant Cross Country and Track & Field Coach philip.spitzer@wartburg.edu
+• Seth Roberson Assistant Track & Field Coach/Throws seth.roberson@wartburg.edu 319-352-
+• Famiek Cook Assistant Track & Field Coach - Jumps famiek.cook@wartburg.edu
+• Caleb Ferguson Assistant Coach caleb.ferguson@wartburg.edu
+• DeAnn Akins Head Volleyball Coach deann.akins@wartburg.edu
+• Jennifer Walker Assistant Volleyball Coach jennifer.walker@wartburg.edu 319-352-
+• Eric Keller Director of Wrestling/Head Men's Wrestling Coach eric.keller@wartburg.edu 319-352-
+• Trevor Kittleson Assistant Coach trevor.kittleson@wartburg.edu
+• Eric Keller Director of Wrestling/Head Men's Wrestling Coach eric.keller@wartburg.edu 319-352-
+• Brady Kyner Head Women's Wrestling Coach brady.kyner@wartburg.edu 319-352-
+• Gunnar Wolfensperger Assistant Coach g.wolfensperger@wartburg.edu

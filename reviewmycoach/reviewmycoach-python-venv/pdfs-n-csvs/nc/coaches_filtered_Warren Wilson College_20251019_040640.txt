@@ -1,0 +1,176 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:40
+============================================================
+
+Total coaches found: 27
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jorge Marin
+   Email: jmarin@warren-wilson.edu
+   Username: jmarin
+   Original line: Jorge Marin Strength & Conditioning Coach jmarin@warren-wilson.edu
+
+2. Chris Horton
+   Email: chorton@warren-wilson.edu
+   Username: chorton
+   Original line: Chris Horton Head Men's Basketball Coach chorton@warren-wilson.edu
+
+3. Brent Western
+   Email: brent-western@warren-wilson.edu
+   Username: brent-western
+   Phone: (727) 515-8100
+   Original line: Brent Western Assistant Men's Basketball Coach brent-western@warren-wilson.edu 727-515-8100
+
+4. Kelii Fish
+   Email: kelii-fish@warren-wilson.edu
+   Username: kelii-fish
+   Original line: Kelii Fish Assistant Men's Basketball Coach kelii-fish@warren-wilson.edu
+
+5. Robert Palmer
+   Email: robert-palmer@warren-wilson.edu
+   Username: robert-palmer
+   Original line: Robert Palmer Assistant Men's Basketball Coach robert-palmer@warren-wilson.edu
+
+6. Robin Martin
+   Email: rmartin@warren-wilson.edu
+   Username: rmartin
+   Phone: (828) 771-3001
+   Original line: Robin Martin Head Women's Basketball Coach rmartin@warren-wilson.edu 828-771-3001
+
+7. Christopher Stroup
+   Email: cstroup@warren-wilson.edu
+   Username: cstroup
+   Original line: Christopher Stroup Men & Women's Cross Country / Track & Field Coach cstroup@warren-wilson.edu
+
+8. Christopher Stroup
+   Email: cstroup@warren-wilson.edu
+   Username: cstroup
+   Original line: Christopher Stroup Men & Women's Cross Country / Track & Field Coach cstroup@warren-wilson.edu
+
+9. Harris Wagner
+   Email: hwagner@warren-wilson.edu
+   Username: hwagner
+   Original line: Harris Wagner Head Cycling Coach hwagner@warren-wilson.edu
+
+10. Maximiliano Viera
+   Email: mviera@warren-wilson.edu
+   Username: mviera
+   Original line: Maximiliano Viera Head Men's & Women's Soccer Coach mviera@warren-wilson.edu
+
+11. Agustin Contreras
+   Email: acontrerasorsi@warren-wilson.edu
+   Username: acontrerasorsi
+   Original line: Agustin Contreras Men's & Women's Soccer Assistant Coach acontrerasorsi@warren-wilson.edu
+
+12. Maximiliano Viera
+   Email: mviera@warren-wilson.edu
+   Username: mviera
+   Original line: Maximiliano Viera Head Men's & Women's Soccer Coach mviera@warren-wilson.edu
+
+13. Max Segovia
+   Email: growafoodforest@gmail.com
+   Username: growafoodforest
+   Original line: Max Segovia Men's & Women's Soccer Assistant Coach growafoodforest@gmail.com
+
+14. Fabricio Diaz
+   Email: fabricio.diabel@gmail.com
+   Username: fabricio.diabel
+   Original line: Fabricio Diaz Women's Soccer Goalkeeper Coach fabricio.diabel@gmail.com
+
+15. Agustin Contreras
+   Email: acontrerasorsi@warren-wilson.edu
+   Username: acontrerasorsi
+   Original line: Agustin Contreras Men's & Women's Soccer Assistant Coach acontrerasorsi@warren-wilson.edu
+
+16. Jeffrey Woodside
+   Email: jwoodside@warren-wilson.edu
+   Username: jwoodside
+   Phone: (828) 771-3008
+   Original line: Jeffrey Woodside Head Men's Lacrosse Coach jwoodside@warren-wilson.edu 828-771-3008
+
+17. Jason Grau
+   Email: jasonwgrau@gmail.com
+   Username: jasonwgrau
+   Original line: Jason Grau Assistant Men's Lacrosse Coach jasonwgrau@gmail.com
+
+18. Casper Schichtle
+   Email: schichtle1622@gmail.com
+   Username: schichtle1622
+   Original line: Casper Schichtle Assistant Men's Lacrosse Coach schichtle1622@gmail.com
+
+19. Anne Ferry
+   Email: anne-ferry@warren-wilson.edu
+   Username: anne-ferry
+   Original line: Anne Ferry Head Women's Lacrosse Coach anne-ferry@warren-wilson.edu
+
+20. Kristy Kamer
+   Email: kkamer@warren-wilson.edu
+   Username: kkamer
+   Original line: Kristy Kamer Head Women's Volleyball Coach kkamer@warren-wilson.edu
+
+21. Issac LaFunor
+   Email: ilafunor@warren-wilson.edu
+   Username: ilafunor
+   Original line: Issac LaFunor Volleyball Coach ilafunor@warren-wilson.edu
+
+22. Bonnie Dotson
+   Email: bonniejdotson@gmail.com
+   Username: bonniejdotson
+   Original line: Bonnie Dotson Assistant Volleyball Coach bonniejdotson@gmail.com
+
+23. Christopher Stroup
+   Email: cstroup@warren-wilson.edu
+   Username: cstroup
+   Original line: Christopher Stroup Men & Women's Cross Country / Track & Field Coach cstroup@warren-wilson.edu
+
+24. Issac LaFunor
+   Email: ilafunor@warren-wilson.edu
+   Username: ilafunor
+   Original line: Issac LaFunor Volleyball Coach ilafunor@warren-wilson.edu
+
+25. Bonnie Dotson
+   Email: bonniejdotson@gmail.com
+   Username: bonniejdotson
+   Original line: Bonnie Dotson Assistant Volleyball Coach bonniejdotson@gmail.com
+
+26. Angelica Rodriguez
+   Email: arodriguez@warren-wilson.edu
+   Username: arodriguez
+   Original line: Angelica Rodriguez Head Women's Rugby Coach arodriguez@warren-wilson.edu
+
+27. Christopher Stroup
+   Email: cstroup@warren-wilson.edu
+   Username: cstroup
+   Original line: Christopher Stroup Men & Women's Cross Country / Track & Field Coach cstroup@warren-wilson.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jorge Marin Strength & Conditioning Coach jmarin@warren-wilson.edu
+• Chris Horton Head Men's Basketball Coach chorton@warren-wilson.edu
+• Brent Western Assistant Men's Basketball Coach brent-western@warren-wilson.edu 727-515-8100
+• Kelii Fish Assistant Men's Basketball Coach kelii-fish@warren-wilson.edu
+• Robert Palmer Assistant Men's Basketball Coach robert-palmer@warren-wilson.edu
+• Robin Martin Head Women's Basketball Coach rmartin@warren-wilson.edu 828-771-3001
+• Christopher Stroup Men & Women's Cross Country / Track & Field Coach cstroup@warren-wilson.edu
+• Christopher Stroup Men & Women's Cross Country / Track & Field Coach cstroup@warren-wilson.edu
+• Harris Wagner Head Cycling Coach hwagner@warren-wilson.edu
+• Maximiliano Viera Head Men's & Women's Soccer Coach mviera@warren-wilson.edu
+• Agustin Contreras Men's & Women's Soccer Assistant Coach acontrerasorsi@warren-wilson.edu
+• Maximiliano Viera Head Men's & Women's Soccer Coach mviera@warren-wilson.edu
+• Max Segovia Men's & Women's Soccer Assistant Coach growafoodforest@gmail.com
+• Fabricio Diaz Women's Soccer Goalkeeper Coach fabricio.diabel@gmail.com
+• Agustin Contreras Men's & Women's Soccer Assistant Coach acontrerasorsi@warren-wilson.edu
+• Jeffrey Woodside Head Men's Lacrosse Coach jwoodside@warren-wilson.edu 828-771-3008
+• Jason Grau Assistant Men's Lacrosse Coach jasonwgrau@gmail.com
+• Casper Schichtle Assistant Men's Lacrosse Coach schichtle1622@gmail.com
+• Anne Ferry Head Women's Lacrosse Coach anne-ferry@warren-wilson.edu
+• Kristy Kamer Head Women's Volleyball Coach kkamer@warren-wilson.edu
+• Issac LaFunor Volleyball Coach ilafunor@warren-wilson.edu
+• Bonnie Dotson Assistant Volleyball Coach bonniejdotson@gmail.com
+• Christopher Stroup Men & Women's Cross Country / Track & Field Coach cstroup@warren-wilson.edu
+• Issac LaFunor Volleyball Coach ilafunor@warren-wilson.edu
+• Bonnie Dotson Assistant Volleyball Coach bonniejdotson@gmail.com
+• Angelica Rodriguez Head Women's Rugby Coach arodriguez@warren-wilson.edu
+• Christopher Stroup Men & Women's Cross Country / Track & Field Coach cstroup@warren-wilson.edu

@@ -1,0 +1,88 @@
+COACH ENTRIES FOUND - 2025-10-04 18:12:00
+============================================================
+
+Total coaches found: 11
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kristy Duncan
+   Email: kristy.duncan@loras.edu
+   Username: kristy.duncan
+   Phone: 563.588.7459
+   Original line: Kristy Duncan Illinois Head Women's kristy.duncan@loras.edu 563.588.7459 CoachKDuncan
+
+2. Carl Tebon
+   Email: carl.tebon@loras.edu
+   Username: carl.tebon
+   Phone: 563.588.7732
+   Original line: Carl Tebon Mount Head Baseball Coach carl.tebon@loras.edu 563.588.7732 CTebon
+
+3. Steve Helminiak
+   Email: steven.helminiak@loras.edu
+   Username: steven.helminiak
+   Phone: 563.588.7406
+   Original line: Steve Helminiak Loras '91 Head Football Coach steven.helminiak@loras.edu 563.588.7406 CoachHLorasFB
+
+4. Jake Olsen
+   Email: jake.olsen@loras.edu
+   Username: jake.olsen
+   Phone: 563.588.7187
+   Original line: Jake Olsen Wartburg Associate Head Football jake.olsen@loras.edu 563.588.7187 FootballCoachO
+
+5. Greg Bower
+   Email: greg.bower@loras.edu
+   Username: greg.bower
+   Phone: 563.588.7124
+   Original line: Greg Bower Loras '93 Assistant Football greg.bower@loras.edu 563.588.7124 CoachGBower
+
+6. Jon Powers
+   Email: jonathan.powers@loras.edu
+   Username: jonathan.powers
+   Phone: 563.588.7580
+   Original line: Jon Powers Loras '17 Co-Special Teams jonathan.powers@loras.edu 563.588.7580 CoachJPWR
+
+7. Cody Hipp
+   Email: cody.hipp@loras.edu
+   Username: cody.hipp
+   Phone: 563.588.7220
+   Original line: Cody Hipp Assistant Coach - cody.hipp@loras.edu 563.588.7220
+
+8. Ashley Winter
+   Email: ashley.winter@loras.edu
+   Username: ashley.winter
+   Phone: 563.588.7159
+   Original line: Ashley Winter Wartburg Head Softball Coach ashley.winter@loras.edu 563.588.7159 LorasSoftball
+
+9. Nate Weber
+   Email: nathan.weber@loras.edu
+   Username: nathan.weber
+   Phone: 563.564.9916
+   Original line: Nate Weber Dubuque Assistant Softball Coach nathan.weber@loras.edu 563.564.9916 CoachNateWeber
+
+10. Josh Edwards
+   Email: joshua.edwards@loras.edu
+   Username: joshua.edwards
+   Phone: 563.588.7210
+   Original line: Josh Edwards Central Head Strength & joshua.edwards@loras.edu 563.588.7210 STRCoachEdwards
+
+11. Kristy Duncan
+   Email: kristy.duncan@loras.edu
+   Username: kristy.duncan
+   Phone: 563.588.7459
+   Original line: Kristy Duncan Illinois Head Women's kristy.duncan@loras.edu 563.588.7459 CoachKDuncan
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kristy Duncan Illinois Head Women's kristy.duncan@loras.edu 563.588.7459 CoachKDuncan
+• Carl Tebon Mount Head Baseball Coach carl.tebon@loras.edu 563.588.7732 CTebon
+• Steve Helminiak Loras '91 Head Football Coach steven.helminiak@loras.edu 563.588.7406 CoachHLorasFB
+• Jake Olsen Wartburg Associate Head Football jake.olsen@loras.edu 563.588.7187 FootballCoachO
+• Greg Bower Loras '93 Assistant Football greg.bower@loras.edu 563.588.7124 CoachGBower
+• Jon Powers Loras '17 Co-Special Teams jonathan.powers@loras.edu 563.588.7580 CoachJPWR
+• Cody Hipp Assistant Coach - cody.hipp@loras.edu 563.588.7220
+• Ashley Winter Wartburg Head Softball Coach ashley.winter@loras.edu 563.588.7159 LorasSoftball
+• Nate Weber Dubuque Assistant Softball Coach nathan.weber@loras.edu 563.564.9916 CoachNateWeber
+• Josh Edwards Central Head Strength & joshua.edwards@loras.edu 563.588.7210 STRCoachEdwards
+• Kristy Duncan Illinois Head Women's kristy.duncan@loras.edu 563.588.7459 CoachKDuncan

@@ -1,0 +1,205 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:04
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Bobby Halford
+   Email: bhalford@wmcarey.edu
+   Username: bhalford
+   Phone: (601) 318-6110
+   Original line: Bobby Halford Head Coach bhalford@wmcarey.edu 601-318-6110
+
+2. Eric Ebers
+   Email: eebers@wmcarey.edu
+   Username: eebers
+   Phone: (601) 318-6333
+   Original line: Eric Ebers Assistant Coach eebers@wmcarey.edu 601-318-6333
+
+3. Jamie McMahon
+   Email: jmcmahon@wmcarey.edu
+   Username: jmcmahon
+   Phone: (601) 318-6333
+   Original line: Jamie McMahon Assistant Coach jmcmahon@wmcarey.edu 601-318-6333
+
+4. Wendy Hogue
+   Email: whogue@wmcarey.edu
+   Username: whogue
+   Phone: (601) 318-6551
+   Original line: Wendy Hogue Head Coach whogue@wmcarey.edu 601-318-6551
+
+5. Craig Fletcher
+   Email: cfletcher@wmcarey.edu
+   Username: cfletcher
+   Phone: (601) 318-6617
+   Original line: Craig Fletcher Assistant Coach cfletcher@wmcarey.edu 601-318-6617
+
+6. Hannah Brister
+   Email: hbrister@wmcarey.edu
+   Username: hbrister
+   Phone: (601) 318-6617
+   Original line: Hannah Brister Assistant Coach hbrister@wmcarey.edu 601-318-6617
+
+7. Steve Knight
+   Email: sknight@wmcarey.edu
+   Username: sknight
+   Phone: (601) 318-6415
+   Original line: Steve Knight Head Coach sknight@wmcarey.edu 601-318-6415
+
+8. Phillip (PJ)
+   Email: pmccray@wmcarey.edu
+   Username: pmccray
+   Phone: (601) 318-6632
+   Original line: Phillip (PJ) McCray Assistant Coach pmccray@wmcarey.edu 601-318-6632
+
+9. Eric Burt
+   Email: eburt@wmcarey.edu
+   Username: eburt
+   Phone: (601) 318-6510
+   Original line: Eric Burt Assistant Coach eburt@wmcarey.edu 601-318-6510
+
+10. Jessica Garriga
+   Email: jgarriga@wmcarey.edu
+   Username: jgarriga
+   Phone: (601) 318-6567
+   Original line: Jessica Garriga Head Coach jgarriga@wmcarey.edu 601-318-6567
+
+11. Cotoria Blackmon
+   Email: tblackmon@wmcarey.edu
+   Username: tblackmon
+   Original line: Cotoria Blackmon Assistant Coach tblackmon@wmcarey.edu
+
+12. Jeff Mixon
+   Email: jmixon@wmcarey.edu
+   Username: jmixon
+   Phone: (601) 318-6597
+   Original line: Jeff Mixon Head Coach jmixon@wmcarey.edu 601-318-6597
+
+13. Jeff Mixon
+   Email: jmixon@wmcarey.edu
+   Username: jmixon
+   Phone: (601) 318-6597
+   Original line: Jeff Mixon Head Coach jmixon@wmcarey.edu 601-318-6597
+
+14. Barry Farrell
+   Email: bfarrell@wmcarey.edu
+   Username: bfarrell
+   Phone: (601) 318-6401
+   Original line: Barry Farrell Head Coach bfarrell@wmcarey.edu 601-318-6401
+
+15. Guilherme Avila
+   Email: gterra@wmcarey.edu
+   Username: gterra
+   Original line: Guilherme Avila Assistant Coach gterra@wmcarey.edu
+
+16. Danny Owens
+   Email: dowens@wmcarey.edu
+   Username: dowens
+   Phone: (601) 318-6589
+   Original line: Danny Owens Head Coach dowens@wmcarey.edu 601-318-6589
+
+17. Ryan Weir
+   Email: rweir@wmcarey.edu
+   Username: rweir
+   Phone: (601) 318-6589
+   Original line: Ryan Weir Associate Head Coach rweir@wmcarey.edu 601-318-6589
+
+18. Marc Lux
+   Email: mlux@wmcarey.edu
+   Username: mlux
+   Phone: (601) 318-6631
+   Original line: Marc Lux Head Coach mlux@wmcarey.edu 601-318-6631
+
+19. Marc Lux
+   Email: mlux@wmcarey.edu
+   Username: mlux
+   Phone: (601) 318-6631
+   Original line: Marc Lux Head Coach mlux@wmcarey.edu 601-318-6631
+
+20. Malcolm Dias
+   Email: mdias@wmcarey.edu
+   Username: mdias
+   Phone: (601) 318-6313
+   Original line: Malcolm Dias Associate Head Coach - Sprints & Hurdles mdias@wmcarey.edu 601-318-6313
+
+21. Malcolm Dias
+   Email: mdias@wmcarey.edu
+   Username: mdias
+   Phone: (601) 318-6313
+   Original line: Malcolm Dias Associate Head Coach - Sprints & Hurdles mdias@wmcarey.edu 601-318-6313
+
+22. Ronda Shirley
+   Email: rshirley@wmcarey.edu
+   Username: rshirley
+   Original line: Ronda Shirley Head Coach rshirley@wmcarey.edu
+
+23. Lauren Lanford
+   Email: llanford@wmcarey.edu
+   Username: llanford
+   Original line: Lauren Lanford Assistant Coach llanford@wmcarey.edu
+
+24. Ronda Shirley
+   Email: rshirley@wmcarey.edu
+   Username: rshirley
+   Original line: Ronda Shirley Head Coach rshirley@wmcarey.edu
+
+25. Lauren Lanford
+   Email: llanford@wmcarey.edu
+   Username: llanford
+   Original line: Lauren Lanford Assistant Coach llanford@wmcarey.edu
+
+26. Laura Lightsey
+   Email: llightsey@wmcarey.edu
+   Username: llightsey
+   Original line: Laura Lightsey Head Coach llightsey@wmcarey.edu
+
+27. Robert Gonzalez
+   Email: rgonzalez@wmcarey.edu
+   Username: rgonzalez
+   Original line: Robert Gonzalez Head Coach rgonzalez@wmcarey.edu
+
+28. Robert Gonzalez
+   Email: rgonzalez@wmcarey.edu
+   Username: rgonzalez
+   Original line: Robert Gonzalez Head Coach rgonzalez@wmcarey.edu
+
+29. Johnnie Stinson
+   Email: jstinson@wmcarey.edu
+   Username: jstinson
+   Phone: (601) 318-6349
+   Original line: Johnnie Stinson Head Coach jstinson@wmcarey.edu 601-318-6349
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Bobby Halford Head Coach bhalford@wmcarey.edu 601-318-6110
+• Eric Ebers Assistant Coach eebers@wmcarey.edu 601-318-6333
+• Jamie McMahon Assistant Coach jmcmahon@wmcarey.edu 601-318-6333
+• Wendy Hogue Head Coach whogue@wmcarey.edu 601-318-6551
+• Craig Fletcher Assistant Coach cfletcher@wmcarey.edu 601-318-6617
+• Hannah Brister Assistant Coach hbrister@wmcarey.edu 601-318-6617
+• Steve Knight Head Coach sknight@wmcarey.edu 601-318-6415
+• Phillip (PJ) McCray Assistant Coach pmccray@wmcarey.edu 601-318-6632
+• Eric Burt Assistant Coach eburt@wmcarey.edu 601-318-6510
+• Jessica Garriga Head Coach jgarriga@wmcarey.edu 601-318-6567
+• Cotoria Blackmon Assistant Coach tblackmon@wmcarey.edu
+• Jeff Mixon Head Coach jmixon@wmcarey.edu 601-318-6597
+• Jeff Mixon Head Coach jmixon@wmcarey.edu 601-318-6597
+• Barry Farrell Head Coach bfarrell@wmcarey.edu 601-318-6401
+• Guilherme Avila Assistant Coach gterra@wmcarey.edu
+• Danny Owens Head Coach dowens@wmcarey.edu 601-318-6589
+• Ryan Weir Associate Head Coach rweir@wmcarey.edu 601-318-6589
+• Marc Lux Head Coach mlux@wmcarey.edu 601-318-6631
+• Marc Lux Head Coach mlux@wmcarey.edu 601-318-6631
+• Malcolm Dias Associate Head Coach - Sprints & Hurdles mdias@wmcarey.edu 601-318-6313
+• Malcolm Dias Associate Head Coach - Sprints & Hurdles mdias@wmcarey.edu 601-318-6313
+• Ronda Shirley Head Coach rshirley@wmcarey.edu
+• Lauren Lanford Assistant Coach llanford@wmcarey.edu
+• Ronda Shirley Head Coach rshirley@wmcarey.edu
+• Lauren Lanford Assistant Coach llanford@wmcarey.edu
+• Laura Lightsey Head Coach llightsey@wmcarey.edu
+• Robert Gonzalez Head Coach rgonzalez@wmcarey.edu
+• Robert Gonzalez Head Coach rgonzalez@wmcarey.edu
+• Johnnie Stinson Head Coach jstinson@wmcarey.edu 601-318-6349

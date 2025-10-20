@@ -1,0 +1,257 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:43
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Micheal DeWitt
+   Email: mdewitt@methodist.edu
+   Username: mdewitt
+   Phone: 910.480.8494
+   Original line: Micheal DeWitt Head Strength and Conditioning Coach mdewitt@methodist.edu 910.480.8494
+
+2. Spencer Martin
+   Email: smartin@methodist.edu
+   Username: smartin
+   Phone: 910.630.7186
+   Original line: Spencer Martin Interim Head Baseball Coach smartin@methodist.edu 910.630.7186
+
+3. Zach Teem
+   Email: zteem@methodist.edu
+   Username: zteem
+   Phone: 910.630.7176
+   Original line: Zach Teem Assistant Baseball Coach zteem@methodist.edu 910.630.7176
+
+4. Aloysius Henry
+   Email: ahenry@methodist.edu
+   Username: ahenry
+   Phone: 910.630.7185
+   Original line: Aloysius Henry Head Men's Basketball Coach ahenry@methodist.edu 910.630.7185
+
+5. Cheryl McNair
+   Email: cmcnair@methodist.edu
+   Username: cmcnair
+   Phone: 910.630.7207
+   Original line: Cheryl McNair Head Women's Basketball Coach cmcnair@methodist.edu 910.630.7207
+
+6. Kayla Pless
+   Email: kpless@methodist.edu
+   Username: kpless
+   Original line: Kayla Pless '16 Assistant Women's Basketball Coach kpless@methodist.edu
+
+7. Angela Culver
+   Email: aculver@methodist.edu
+   Username: aculver
+   Phone: 910.630.7154
+   Original line: Angela Culver Head Cheerleading Coach aculver@methodist.edu 910.630.7154
+
+8. Lori Wickham
+   Email: lwickham@methodist.edu
+   Username: lwickham
+   Original line: Lori Wickham Assistant Cheerleading Coach lwickham@methodist.edu
+
+9. William Helms
+   Email: whelms@methodist.edu
+   Username: whelms
+   Phone: 910.630.7336
+   Original line: William Helms Head Cross Country Coach / Assistant Track and whelms@methodist.edu 910.630.7336
+
+10. Brian Slater
+   Email: bslater@methodist.edu
+   Username: bslater
+   Phone: 910.630.7375
+   Original line: Brian Slater Head Track and Field Coach / Assistant Cross bslater@methodist.edu 910.630.7375
+
+11. Keven Williams
+   Email: kgwilliams@methodist.edu
+   Username: kgwilliams
+   Phone: 910.630.7166
+   Original line: Keven Williams Head Coach kgwilliams@methodist.edu 910.630.7166
+
+12. Carl C.
+   Email: ccoleman@methodist.edu
+   Username: ccoleman
+   Phone: 910.630.7179
+   Original line: Carl C. Coleman Defensive Coordinator / Corners Coach ccoleman@methodist.edu 910.630.7179
+
+13. Adam Wattenbarger
+   Email: awattenbarger@methodist.edu
+   Username: awattenbarger
+   Phone: 910.480.8482
+   Original line: Adam Wattenbarger Pass Game Coordinator / Quarterbacks Coach awattenbarger@methodist.edu 910.480.8482
+
+14. Paul Williams
+   Email: pwilliams@methodist.edu
+   Username: pwilliams
+   Phone: 910.630.7178
+   Original line: Paul Williams Linebackers Coach pwilliams@methodist.edu 910.630.7178
+
+15. Travon Williams
+   Email: twilliams@methodist.edu
+   Username: twilliams
+   Phone: 910.630.7184
+   Original line: Travon Williams Wide Receivers Coach twilliams@methodist.edu 910.630.7184
+
+16. Stephen Hospital
+   Email: shospital@methodist.edu
+   Username: shospital
+   Phone: 910.480.8483
+   Original line: Stephen Hospital Offensive Line Coach shospital@methodist.edu 910.480.8483
+
+17. Blaine Phillips
+   Email: bphillips@methodist.edu
+   Username: bphillips
+   Phone: 910.480.8472
+   Original line: Blaine Phillips '24 Running Backs Coach bphillips@methodist.edu 910.480.8472
+
+18. Tyree Copeland
+   Email: tcopeland@methodist.edu
+   Username: tcopeland
+   Phone: 910.480.8522
+   Original line: Tyree Copeland '25 Tight Ends Coach tcopeland@methodist.edu 910.480.8522
+
+19. Steve Conley
+   Email: sconley@methodist.edu
+   Username: sconley
+   Phone: 910.630.7146
+   Original line: Steve Conley Head Men's Golf Coach sconley@methodist.edu 910.630.7146
+
+20. Kelsie Warren
+   Email: kcarralero@methodist.edu
+   Username: kcarralero
+   Phone: 910.630.7139
+   Original line: Kelsie Warren Head Women's Golf Coach kcarralero@methodist.edu 910.630.7139
+
+21. Chris Brown
+   Email: cbrown@methodist.edu
+   Username: cbrown
+   Original line: Chris Brown Assistant Women's Golf Coach cbrown@methodist.edu
+
+22. Ryan McKay
+   Email: rmckay@methodist.edu
+   Username: rmckay
+   Phone: 910.480.8450
+   Original line: Ryan McKay Head Men's Lacrosse Coach rmckay@methodist.edu 910.480.8450
+
+23. Nate Neal
+   Email: nneal@methodist.edu
+   Username: nneal
+   Original line: Nate Neal Assistant Men's Lacrosse Coach nneal@methodist.edu
+
+24. Kirsten McKay
+   Email: kmckay@methodist.edu
+   Username: kmckay
+   Phone: 910.630.7510
+   Original line: Kirsten McKay Head Women's Lacrosse Coach kmckay@methodist.edu 910.630.7510
+
+25. Maddy Winch
+   Email: mwinch@methodist.edu
+   Username: mwinch
+   Original line: Maddy Winch Assistant Women's Lacrosse Coach mwinch@methodist.edu
+
+26. Justin Terranova
+   Email: jterranova@methodist.edu
+   Username: jterranova
+   Phone: 910.630.7097
+   Original line: Justin Terranova Head Men's Soccer Coach jterranova@methodist.edu 910.630.7097
+
+27. Bryan Madej
+   Email: bmadej@methodist.edu
+   Username: bmadej
+   Phone: 910.630.7096
+   Original line: Bryan Madej Head Women's Soccer Coach bmadej@methodist.edu 910.630.7096
+
+28. Alexis Wickham
+   Email: awickham@methodist.edu
+   Username: awickham
+   Phone: 910.630.7290
+   Original line: Alexis Wickham Allaman Head Softball Coach awickham@methodist.edu 910.630.7290
+
+29. Scott Handback
+   Email: lhandback@methodist.edu
+   Username: lhandback
+   Phone: 910.630.7147
+   Original line: Scott Handback Head Men's Tennis Coach lhandback@methodist.edu 910.630.7147
+
+30. Brett Karpman
+   Email: bkarpman@methodist.edu
+   Username: bkarpman
+   Phone: 910.630.7239
+   Original line: Brett Karpman Assistant Men's and Women's Tennis Coach bkarpman@methodist.edu 910.630.7239
+
+31. Alicia Barto
+   Email: abarto@methodist.edu
+   Username: abarto
+   Phone: 910.630.7315
+   Original line: Alicia Barto Head Women's Tennis Coach abarto@methodist.edu 910.630.7315
+
+32. Brett Karpman
+   Email: bkarpman@methodist.edu
+   Username: bkarpman
+   Phone: 910.630.7239
+   Original line: Brett Karpman Assistant Men's and Women's Tennis Coach bkarpman@methodist.edu 910.630.7239
+
+33. Brian Slater
+   Email: bslater@methodist.edu
+   Username: bslater
+   Phone: 910.630.7375
+   Original line: Brian Slater Head Track and Field Coach / Assistant Cross bslater@methodist.edu 910.630.7375
+
+34. William Helms
+   Email: whelms@methodist.edu
+   Username: whelms
+   Phone: 910.630.7336
+   Original line: William Helms Head Cross Country Coach / Assistant Track and whelms@methodist.edu 910.630.7336
+
+35. Terry Wickham
+   Email: twickham@methodist.edu
+   Username: twickham
+   Original line: Terry Wickham Assistant Track & Field Coach (Sprints & Jumps) twickham@methodist.edu
+
+36. Eddie Matthews
+   Email: ematthews@methodist.edu
+   Username: ematthews
+   Phone: 910.630.7187
+   Original line: Eddie Matthews Head Volleyball Coach ematthews@methodist.edu 910.630.7187
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Micheal DeWitt Head Strength and Conditioning Coach mdewitt@methodist.edu 910.480.8494
+• Spencer Martin Interim Head Baseball Coach smartin@methodist.edu 910.630.7186
+• Zach Teem Assistant Baseball Coach zteem@methodist.edu 910.630.7176
+• Aloysius Henry Head Men's Basketball Coach ahenry@methodist.edu 910.630.7185
+• Cheryl McNair Head Women's Basketball Coach cmcnair@methodist.edu 910.630.7207
+• Kayla Pless '16 Assistant Women's Basketball Coach kpless@methodist.edu
+• Angela Culver Head Cheerleading Coach aculver@methodist.edu 910.630.7154
+• Lori Wickham Assistant Cheerleading Coach lwickham@methodist.edu
+• William Helms Head Cross Country Coach / Assistant Track and whelms@methodist.edu 910.630.7336
+• Brian Slater Head Track and Field Coach / Assistant Cross bslater@methodist.edu 910.630.7375
+• Keven Williams Head Coach kgwilliams@methodist.edu 910.630.7166
+• Carl C. Coleman Defensive Coordinator / Corners Coach ccoleman@methodist.edu 910.630.7179
+• Adam Wattenbarger Pass Game Coordinator / Quarterbacks Coach awattenbarger@methodist.edu 910.480.8482
+• Paul Williams Linebackers Coach pwilliams@methodist.edu 910.630.7178
+• Travon Williams Wide Receivers Coach twilliams@methodist.edu 910.630.7184
+• Stephen Hospital Offensive Line Coach shospital@methodist.edu 910.480.8483
+• Blaine Phillips '24 Running Backs Coach bphillips@methodist.edu 910.480.8472
+• Tyree Copeland '25 Tight Ends Coach tcopeland@methodist.edu 910.480.8522
+• Steve Conley Head Men's Golf Coach sconley@methodist.edu 910.630.7146
+• Kelsie Warren Head Women's Golf Coach kcarralero@methodist.edu 910.630.7139
+• Chris Brown Assistant Women's Golf Coach cbrown@methodist.edu
+• Ryan McKay Head Men's Lacrosse Coach rmckay@methodist.edu 910.480.8450
+• Nate Neal Assistant Men's Lacrosse Coach nneal@methodist.edu
+• Kirsten McKay Head Women's Lacrosse Coach kmckay@methodist.edu 910.630.7510
+• Maddy Winch Assistant Women's Lacrosse Coach mwinch@methodist.edu
+• Justin Terranova Head Men's Soccer Coach jterranova@methodist.edu 910.630.7097
+• Bryan Madej Head Women's Soccer Coach bmadej@methodist.edu 910.630.7096
+• Alexis Wickham Allaman Head Softball Coach awickham@methodist.edu 910.630.7290
+• Scott Handback Head Men's Tennis Coach lhandback@methodist.edu 910.630.7147
+• Brett Karpman Assistant Men's and Women's Tennis Coach bkarpman@methodist.edu 910.630.7239
+• Alicia Barto Head Women's Tennis Coach abarto@methodist.edu 910.630.7315
+• Brett Karpman Assistant Men's and Women's Tennis Coach bkarpman@methodist.edu 910.630.7239
+• Brian Slater Head Track and Field Coach / Assistant Cross bslater@methodist.edu 910.630.7375
+• William Helms Head Cross Country Coach / Assistant Track and whelms@methodist.edu 910.630.7336
+• Terry Wickham Assistant Track & Field Coach (Sprints & Jumps) twickham@methodist.edu
+• Eddie Matthews Head Volleyball Coach ematthews@methodist.edu 910.630.7187

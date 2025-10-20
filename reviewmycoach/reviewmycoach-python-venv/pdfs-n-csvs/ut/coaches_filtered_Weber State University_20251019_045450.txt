@@ -1,0 +1,175 @@
+COACH ENTRIES FOUND - 2025-10-19 04:54:51
+============================================================
+
+Total coaches found: 27
+
+PARSED ENTRIES:
+----------------------------------------
+1. Eric Duft
+   Email: ericduft@weber.edu
+   Username: ericduft
+   Original line: Eric Duft Head Coach ericduft@weber.edu
+
+2. Shaun Vandiver
+   Email: shaunvandiver@weber.edu
+   Username: shaunvandiver
+   Original line: Shaun Vandiver Assistant Coach shaunvandiver@weber.edu
+
+3. Jorge Ruiz
+   Email: jorgeruizii@weber.edu
+   Username: jorgeruizii
+   Original line: Jorge Ruiz Assistant Coach jorgeruizii@weber.edu
+
+4. Luke Spring
+   Email: lukespring@weber.edu
+   Username: lukespring
+   Original line: Luke Spring Assistant Coach / lukespring@weber.edu
+
+5. Jenteal Jackson
+   Email: jentealjackson1@weber.edu
+   Username: jentealjackson1
+   Original line: Jenteal Jackson Head Coach jentealjackson1@weber.edu
+
+6. Alli Winters
+   Email: alliwinters@weber.edu
+   Username: alliwinters
+   Original line: Alli Winters Assistant Coach alliwinters@weber.edu
+
+7. Mickey Mental
+   Email: michaelmental@weber.edu
+   Username: michaelmental
+   Original line: Mickey Mental Head Coach / michaelmental@weber.edu
+
+8. Keilan Benjamin
+   Email: keilanbenjamin@weber.edu
+   Username: keilanbenjamin
+   Original line: Keilan Benjamin Assistant Coach / keilanbenjamin@weber.edu
+
+9. Robert Conley
+   Email: robertconley@weber.edu
+   Username: robertconley
+   Original line: Robert Conley Assistant Coach / robertconley@weber.edu
+
+10. James Cowser
+   Email: jamescowser@weber.edu
+   Username: jamescowser
+   Original line: James Cowser Assistant Coach / jamescowser@weber.edu
+
+11. Brady Daigh
+   Email: bradendaigh@weber.edu
+   Username: bradendaigh
+   Original line: Brady Daigh Assistant Coach / bradendaigh@weber.edu
+
+12. Zach Larson
+   Email: zacharylarson1@weber.edu
+   Username: zacharylarson1
+   Original line: Zach Larson Assistant Coach / zacharylarson1@weber.edu
+
+13. Justin Mullgrav
+   Email: justinmullgrav@weber.edu
+   Username: justinmullgrav
+   Original line: Justin Mullgrav Assistant Coach / justinmullgrav@weber.edu
+
+14. Skyler Ridley
+   Email: skylerridley@weber.edu
+   Username: skylerridley
+   Original line: Skyler Ridley Assistant Coach / skylerridley@weber.edu
+
+15. Daniel Wright
+   Email: danielwright3@weber.edu
+   Username: danielwright3
+   Original line: Daniel Wright Jr. Assistant Coach / danielwright3@weber.edu
+
+16. Kyle Christensen
+   Email: kylechristensen1@weber.edu
+   Username: kylechristensen1
+   Original line: Kyle Christensen Head Coach kylechristensen1@weber.edu
+
+17. Mekell Moss
+   Email: mekellmoss@weber.edu
+   Username: mekellmoss
+   Original line: Mekell Moss Assistant Coach mekellmoss@weber.edu
+
+18. Colette Smith
+   Email: colettesmith2@weber.edu
+   Username: colettesmith2
+   Original line: Colette Smith Assistant Coach colettesmith2@weber.edu
+
+19. Kristin Head
+   Email: kdelahoussaye@weber.edu
+   Username: kdelahoussaye
+   Original line: Kristin Head Coach kdelahoussaye@weber.edu
+
+20. Lauren Hoe
+   Email: laurenhoe@weber.edu
+   Username: laurenhoe
+   Original line: Lauren Hoe Assistant Coach laurenhoe@weber.edu
+
+21. Addie Jensen
+   Email: addiejensen@weber.edu
+   Username: addiejensen
+   Original line: Addie Jensen Pitching Coach addiejensen@weber.edu
+
+22. Erica Jordan
+   Email: ericawilliams4@weber.edu
+   Username: ericawilliams4
+   Original line: Erica Jordan Dance coach ericawilliams4@weber.edu
+
+23. Brad Ferreira
+   Email: bradleyferreira@weber.edu
+   Username: bradleyferreira
+   Phone: (801) 560-8564
+   Original line: Brad Ferreira Head Men's Coach 801-560-8564 bradleyferreira@weber.edu
+
+24. Josh Aydlette
+   Email: joshuaaydlette@weber.edu
+   Username: joshuaaydlette
+   Original line: Josh Aydlette Assistant Coach / joshuaaydlette@weber.edu
+
+25. Tawnie Moore
+   Email: tawniemoore@weber.edu
+   Username: tawniemoore
+   Original line: Tawnie Moore Assistant Coach / tawniemoore@weber.edu
+
+26. Jeremiah Larsen
+   Email: jeremiahlarsen@weber.edu
+   Username: jeremiahlarsen
+   Phone: (801) 626-7091
+   Original line: Jeremiah Larsen Head Coach 801-626-7091 jeremiahlarsen@weber.edu
+
+27. Kate Payne
+   Email: kaitlynstandifird@weber.edu
+   Username: kaitlynstandifird
+   Original line: Kate Payne Assistant Coach kaitlynstandifird@weber.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Eric Duft Head Coach ericduft@weber.edu
+• Shaun Vandiver Assistant Coach shaunvandiver@weber.edu
+• Jorge Ruiz Assistant Coach jorgeruizii@weber.edu
+• Luke Spring Assistant Coach / lukespring@weber.edu
+• Jenteal Jackson Head Coach jentealjackson1@weber.edu
+• Alli Winters Assistant Coach alliwinters@weber.edu
+• Mickey Mental Head Coach / michaelmental@weber.edu
+• Keilan Benjamin Assistant Coach / keilanbenjamin@weber.edu
+• Robert Conley Assistant Coach / robertconley@weber.edu
+• James Cowser Assistant Coach / jamescowser@weber.edu
+• Brady Daigh Assistant Coach / bradendaigh@weber.edu
+• Zach Larson Assistant Coach / zacharylarson1@weber.edu
+• Justin Mullgrav Assistant Coach / justinmullgrav@weber.edu
+• Skyler Ridley Assistant Coach / skylerridley@weber.edu
+• Daniel Wright Jr. Assistant Coach / danielwright3@weber.edu
+• Kyle Christensen Head Coach kylechristensen1@weber.edu
+• Mekell Moss Assistant Coach mekellmoss@weber.edu
+• Colette Smith Assistant Coach colettesmith2@weber.edu
+• Kristin Head Coach kdelahoussaye@weber.edu
+• Lauren Hoe Assistant Coach laurenhoe@weber.edu
+• Addie Jensen Pitching Coach addiejensen@weber.edu
+• Erica Jordan Dance coach ericawilliams4@weber.edu
+• Brad Ferreira Head Men's Coach 801-560-8564 bradleyferreira@weber.edu
+• Josh Aydlette Assistant Coach / joshuaaydlette@weber.edu
+• Tawnie Moore Assistant Coach / tawniemoore@weber.edu
+• Jeremiah Larsen Head Coach 801-626-7091 jeremiahlarsen@weber.edu
+• Kate Payne Assistant Coach kaitlynstandifird@weber.edu

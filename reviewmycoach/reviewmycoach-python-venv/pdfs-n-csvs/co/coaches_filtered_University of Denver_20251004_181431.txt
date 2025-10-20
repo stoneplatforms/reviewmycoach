@@ -1,0 +1,354 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:33
+============================================================
+
+Total coaches found: 54
+
+PARSED ENTRIES:
+----------------------------------------
+1. Delia McNally
+   Email: Delia.McNally@du.edu
+   Username: Delia.McNally
+   Original line: Delia McNally Senior Sports Performance Coach Delia.McNally@du.edu
+
+2. Hayli Yetter
+   Email: Hayli.Yetter@du.edu
+   Username: Hayli.Yetter
+   Original line: Hayli Yetter Assistant Sports Performance Coach Hayli.Yetter@du.edu
+
+3. Evan Morton
+   Email: evan.j.morton@du.edu
+   Username: evan.j.morton
+   Original line: Evan Morton Assistant Sports Performance Coach evan.j.morton@du.edu
+
+4. Andy Holmes
+   Email: andy.holmes@du.edu
+   Username: andy.holmes
+   Original line: Andy Holmes Assistant Sports Performance Coach andy.holmes@du.edu
+
+5. Tim Bergstraser
+   Email: Timothy.Bergstraser@du.edu
+   Username: Timothy.Bergstraser
+   Original line: Tim Bergstraser Head Coach Timothy.Bergstraser@du.edu
+
+6. Spenser Bland
+   Email: Spenser.Bland@du.edu
+   Username: Spenser.Bland
+   Original line: Spenser Bland Associate Head Coach Spenser.Bland@du.edu
+
+7. Kyle Heikkinen
+   Email: Kyle.Heikkinen@du.edu
+   Username: Kyle.Heikkinen
+   Original line: Kyle Heikkinen Assistant Coach Kyle.Heikkinen@du.edu
+
+8. Abe Woldeslassie
+   Email: abraham.Woldeslassie@du.edu
+   Username: abraham.Woldeslassie
+   Original line: Abe Woldeslassie Assistant Coach abraham.Woldeslassie@du.edu
+
+9. Nihilo Ibarra
+   Email: Nihilo.Ibarra@du.edu
+   Username: Nihilo.Ibarra
+   Original line: Nihilo Ibarra Assistant Coach, Skill Instruction and Recruiting Nihilo.Ibarra@du.edu
+
+10. Doshia Woods
+   Email: doshia.woods@du.edu
+   Username: doshia.woods
+   Phone: (303) 871-3397
+   Original line: Doshia Woods Head Coach 303-871-3397 doshia.woods@du.edu
+
+11. Lindsay Werntz
+   Email: lindsay.werntz@du.edu
+   Username: lindsay.werntz
+   Phone: (303) 871-3397
+   Original line: Lindsay Werntz Associate Head Coach 303-871-3397 lindsay.werntz@du.edu
+
+12. Janet Butler
+   Email: Janet.j.butler@du.edu
+   Username: Janet.j.butler
+   Original line: Janet Butler Assistant Coach/Recruiting Coordinator Janet.j.butler@du.edu
+
+13. Alex Frazier
+   Email: Alexandra.Frazier@du.edu
+   Username: Alexandra.Frazier
+   Original line: Alex Frazier Assistant Coach Alexandra.Frazier@du.edu
+
+14. Gary Bissell
+   Email: gary.bissell@du.edu
+   Username: gary.bissell
+   Phone: (303) 871-2512
+   Original line: Gary Bissell Head Men's Golf Coach 303-871-2512 gary.bissell@du.edu
+
+15. Brett Meyer
+   Email: brett.j.meyer@du.edu
+   Username: brett.j.meyer
+   Original line: Brett Meyer Assistant Coach brett.j.meyer@du.edu
+
+16. Martha Richards
+   Email: martha.richards@du.edu
+   Username: martha.richards
+   Original line: Martha Richards Head Coach martha.richards@du.edu
+
+17. Jordan Koehler
+   Email: jordan.koehler@du.edu
+   Username: jordan.koehler
+   Original line: Jordan Koehler Assistant Coach jordan.koehler@du.edu
+
+18. Christine Chen
+   Email: Ching-Tzu.Chen@du.edu
+   Username: Ching-Tzu.Chen
+   Original line: Christine Chen Assistant Coach, Skill Instruction and Recruiting Ching-Tzu.Chen@du.edu
+
+19. Melissa Kutcher-Rinehart
+   Email: mkutcher@du.edu
+   Username: mkutcher
+   Phone: (303) 871-3395
+   Original line: Melissa Kutcher-Rinehart Joy S. Burns Head Women's Gymnastics Coach 303-871-3395 mkutcher@du.edu
+
+20. John Carney
+   Email: john.carneyIII@du.edu
+   Username: john.carneyIII
+   Phone: (303) 871-1111
+   Original line: John Carney Assistant Coach 303-871-1111 john.carneyIII@du.edu
+
+21. Megan Haught
+   Email: megan.haught@du.edu
+   Username: megan.haught
+   Phone: (303) 871-4658
+   Original line: Megan Haught Assistant Coach 303-871-4658 megan.haught@du.edu
+
+22. Mary Rice
+   Email: mary.m.rice@du.edu
+   Username: mary.m.rice
+   Phone: (303) 871-1111
+   Original line: Mary Rice Assistant Coach 303-871-1111 mary.m.rice@du.edu
+
+23. Matt Brown
+   Email: mtbrown@du.edu
+   Username: mtbrown
+   Phone: (303) 871-4347
+   Original line: Matt Brown William G. Tierney Head Men's Lacrosse Coach 303-871-4347 mtbrown@du.edu
+
+24. John Gallant
+   Email: john.gallant@du.edu
+   Username: john.gallant
+   Phone: (303) 871-4347
+   Original line: John Gallant Assistant Coach 303-871-4347 john.gallant@du.edu
+
+25. David Metzbower
+   Email: David.Metzbower@du.edu
+   Username: David.Metzbower
+   Original line: David Metzbower Assistant Coach David.Metzbower@du.edu
+
+26. Jack DiBenedetto
+   Email: Jack.dibenedetto@du.edu
+   Username: Jack.dibenedetto
+   Original line: Jack DiBenedetto Assistant Coach, Skill Instruction and Recruiting Jack.dibenedetto@du.edu
+
+27. Liza Kelly
+   Email: ekelly23@du.edu
+   Username: ekelly23
+   Phone: (303) 871-4703
+   Original line: Liza Kelly Head Coach 303-871-4703 ekelly23@du.edu
+
+28. Taylor VanThof
+   Email: taylor.vanthof@du.edu
+   Username: taylor.vanthof
+   Original line: Taylor VanThof Associate Head Coach | Offensive and Recruiting Coordinator taylor.vanthof@du.edu
+
+29. Lauren Spence
+   Email: Lauren.Spence@du.edu
+   Username: Lauren.Spence
+   Original line: Lauren Spence Assistant Coach Lauren.Spence@du.edu
+
+30. Joonas Rasanen
+   Email: Joonas.Rasanen@du.edu
+   Username: Joonas.Rasanen
+   Phone: (303) 325-1132
+   Original line: Joonas Rasanen Otto Tschudi Head Alpine Skiing Coach 303-325-1132 Joonas.Rasanen@du.edu
+
+31. Eliska Albrigtsen
+   Email: eliska.albrigtsen@du.edu
+   Username: eliska.albrigtsen
+   Phone: (303) 871-3182
+   Original line: Eliska Albrigtsen Head Nordic Skiing Coach 303-871-3182 eliska.albrigtsen@du.edu
+
+32. M.R. Hostetter
+   Email: MR.Hostetter@du.edu
+   Username: MR.Hostetter
+   Original line: M.R. Hostetter Associate Alpine Head Coach MR.Hostetter@du.edu
+
+33. Eric Houck
+   Email: eric.houck@du.edu
+   Username: eric.houck
+   Original line: Eric Houck Assistant Nordic Coach eric.houck@du.edu
+
+34. Jamie Franks
+   Email: denversoccer@du.edu
+   Username: denversoccer
+   Phone: (303) 871-4945
+   Original line: Jamie Franks Jack and Sheila Weinberg Head Men's Soccer Coach 303-871-4945 denversoccer@du.edu
+
+35. Brad Franks
+   Email: brad.franks@du.edu
+   Username: brad.franks
+   Original line: Brad Franks Associate Head Coach brad.franks@du.edu
+
+36. Jose Arenas
+   Email: jose.arenas@du.edu
+   Username: jose.arenas
+   Original line: Jose Arenas Assistant Coach jose.arenas@du.edu
+
+37. Jacob Lissek
+   Email: Jacob.Lissek@du.edu
+   Username: Jacob.Lissek
+   Original line: Jacob Lissek Goalkeeper Coach Jacob.Lissek@du.edu
+
+38. Julianne Sitch
+   Email: julianne.sitch@du.edu
+   Username: julianne.sitch
+   Original line: Julianne Sitch Head Coach julianne.sitch@du.edu
+
+39. Cassie Ulrich
+   Email: cassandra.ulrich@du.edu
+   Username: cassandra.ulrich
+   Phone: (303) 871-3154
+   Original line: Cassie Ulrich Assistant Coach 303-871-3154 cassandra.ulrich@du.edu
+
+40. Tom Poole
+   Email: tom.poole@du.edu
+   Username: tom.poole
+   Original line: Tom Poole Assistant Coach tom.poole@du.edu
+
+41. Aaron Manahan
+   Email: Aaron.Manahan@du.edu
+   Username: Aaron.Manahan
+   Original line: Aaron Manahan Assistant Coach, Skill Instruction and Recruiting Aaron.Manahan@du.edu
+
+42. Alicia Hicken-Franklin
+   Email: alicia.franklin@du.edu
+   Username: alicia.franklin
+   Phone: (303) 871-3906
+   Original line: Alicia Hicken-Franklin Head Coach 303-871-3906 alicia.franklin@du.edu
+
+43. Aaron D'Addario
+   Email: aaron.daddario@du.edu
+   Username: aaron.daddario
+   Phone: (303) 871-3921
+   Original line: Aaron D'Addario Head Diving Coach 303-871-3921 aaron.daddario@du.edu
+
+44. Mark Maguire
+   Email: mark.maguire@du.edu
+   Username: mark.maguire
+   Phone: (303) 871-4655
+   Original line: Mark Maguire Associate Head Coach 303-871-4655 mark.maguire@du.edu
+
+45. Lucas Baarlaer
+   Email: Lucas.Baarlaer@du.edu
+   Username: Lucas.Baarlaer
+   Original line: Lucas Baarlaer Assistant Swimming Coach Lucas.Baarlaer@du.edu
+
+46. Drew Eberly
+   Email: drew.eberly@du.edu
+   Username: drew.eberly
+   Phone: (847) 254-7001
+   Original line: Drew Eberly Head Coach 847-254-7001 drew.eberly@du.edu
+
+47. Anish Sriniketh
+   Email: anish.sriniketh@du.edu
+   Username: anish.sriniketh
+   Original line: Anish Sriniketh Assistant Coach anish.sriniketh@du.edu
+
+48. Paul Wardlaw
+   Email: paul.wardlaw@du.edu
+   Username: paul.wardlaw
+   Original line: Paul Wardlaw Head Coach paul.wardlaw@du.edu
+
+49. Kim Gidley
+   Email: kim.gidley@du.edu
+   Username: kim.gidley
+   Original line: Kim Gidley Assistant Coach kim.gidley@du.edu
+
+50. Maureen Kechriotis
+   Email: maureen.kechriotis@du.edu
+   Username: maureen.kechriotis
+   Original line: Maureen Kechriotis Assistant Coach, Skill Instruction and Recruiting maureen.kechriotis@du.edu
+
+51. Barbara Perkins
+   Email: Barbara.perkins@du.edu
+   Username: Barbara.perkins
+   Phone: (303) 871-3921
+   Original line: Barbara Perkins Head Coach 303-871-3921 Barbara.perkins@du.edu
+
+52. Megan Pendergast
+   Email: megan.pendergast@du.edu
+   Username: megan.pendergast
+   Original line: Megan Pendergast Head Coach megan.pendergast@du.edu
+
+53. Margaret Dean
+   Email: margaret.dean@du.edu
+   Username: margaret.dean
+   Original line: Margaret Dean Assistant Coach margaret.dean@du.edu
+
+54. Gianna Bartalo
+   Email: Gianna.Bartalo@du.edu
+   Username: Gianna.Bartalo
+   Original line: Gianna Bartalo Assistant Coach Gianna.Bartalo@du.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Delia McNally Senior Sports Performance Coach Delia.McNally@du.edu
+• Hayli Yetter Assistant Sports Performance Coach Hayli.Yetter@du.edu
+• Evan Morton Assistant Sports Performance Coach evan.j.morton@du.edu
+• Andy Holmes Assistant Sports Performance Coach andy.holmes@du.edu
+• Tim Bergstraser Head Coach Timothy.Bergstraser@du.edu
+• Spenser Bland Associate Head Coach Spenser.Bland@du.edu
+• Kyle Heikkinen Assistant Coach Kyle.Heikkinen@du.edu
+• Abe Woldeslassie Assistant Coach abraham.Woldeslassie@du.edu
+• Nihilo Ibarra Assistant Coach, Skill Instruction and Recruiting Nihilo.Ibarra@du.edu
+• Doshia Woods Head Coach 303-871-3397 doshia.woods@du.edu
+• Lindsay Werntz Associate Head Coach 303-871-3397 lindsay.werntz@du.edu
+• Janet Butler Assistant Coach/Recruiting Coordinator Janet.j.butler@du.edu
+• Alex Frazier Assistant Coach Alexandra.Frazier@du.edu
+• Gary Bissell Head Men's Golf Coach 303-871-2512 gary.bissell@du.edu
+• Brett Meyer Assistant Coach brett.j.meyer@du.edu
+• Martha Richards Head Coach martha.richards@du.edu
+• Jordan Koehler Assistant Coach jordan.koehler@du.edu
+• Christine Chen Assistant Coach, Skill Instruction and Recruiting Ching-Tzu.Chen@du.edu
+• Melissa Kutcher-Rinehart Joy S. Burns Head Women's Gymnastics Coach 303-871-3395 mkutcher@du.edu
+• John Carney Assistant Coach 303-871-1111 john.carneyIII@du.edu
+• Megan Haught Assistant Coach 303-871-4658 megan.haught@du.edu
+• Mary Rice Assistant Coach 303-871-1111 mary.m.rice@du.edu
+• Matt Brown William G. Tierney Head Men's Lacrosse Coach 303-871-4347 mtbrown@du.edu
+• John Gallant Assistant Coach 303-871-4347 john.gallant@du.edu
+• David Metzbower Assistant Coach David.Metzbower@du.edu
+• Jack DiBenedetto Assistant Coach, Skill Instruction and Recruiting Jack.dibenedetto@du.edu
+• Liza Kelly Head Coach 303-871-4703 ekelly23@du.edu
+• Taylor VanThof Associate Head Coach | Offensive and Recruiting Coordinator taylor.vanthof@du.edu
+• Lauren Spence Assistant Coach Lauren.Spence@du.edu
+• Joonas Rasanen Otto Tschudi Head Alpine Skiing Coach 303-325-1132 Joonas.Rasanen@du.edu
+• Eliska Albrigtsen Head Nordic Skiing Coach 303-871-3182 eliska.albrigtsen@du.edu
+• M.R. Hostetter Associate Alpine Head Coach MR.Hostetter@du.edu
+• Eric Houck Assistant Nordic Coach eric.houck@du.edu
+• Jamie Franks Jack and Sheila Weinberg Head Men's Soccer Coach 303-871-4945 denversoccer@du.edu
+• Brad Franks Associate Head Coach brad.franks@du.edu
+• Jose Arenas Assistant Coach jose.arenas@du.edu
+• Jacob Lissek Goalkeeper Coach Jacob.Lissek@du.edu
+• Julianne Sitch Head Coach julianne.sitch@du.edu
+• Cassie Ulrich Assistant Coach 303-871-3154 cassandra.ulrich@du.edu
+• Tom Poole Assistant Coach tom.poole@du.edu
+• Aaron Manahan Assistant Coach, Skill Instruction and Recruiting Aaron.Manahan@du.edu
+• Alicia Hicken-Franklin Head Coach 303-871-3906 alicia.franklin@du.edu
+• Aaron D'Addario Head Diving Coach 303-871-3921 aaron.daddario@du.edu
+• Mark Maguire Associate Head Coach 303-871-4655 mark.maguire@du.edu
+• Lucas Baarlaer Assistant Swimming Coach Lucas.Baarlaer@du.edu
+• Drew Eberly Head Coach 847-254-7001 drew.eberly@du.edu
+• Anish Sriniketh Assistant Coach anish.sriniketh@du.edu
+• Paul Wardlaw Head Coach paul.wardlaw@du.edu
+• Kim Gidley Assistant Coach kim.gidley@du.edu
+• Maureen Kechriotis Assistant Coach, Skill Instruction and Recruiting maureen.kechriotis@du.edu
+• Barbara Perkins Head Coach 303-871-3921 Barbara.perkins@du.edu
+• Megan Pendergast Head Coach megan.pendergast@du.edu
+• Margaret Dean Assistant Coach margaret.dean@du.edu
+• Gianna Bartalo Assistant Coach Gianna.Bartalo@du.edu

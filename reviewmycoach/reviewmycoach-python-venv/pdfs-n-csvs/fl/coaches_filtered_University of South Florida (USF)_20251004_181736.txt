@@ -1,0 +1,401 @@
+COACH ENTRIES FOUND - 2025-10-04 18:17:37
+============================================================
+
+Total coaches found: 65
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mitch Hannahs
+   Email: hannahsm@usf.edu
+   Username: hannahsm
+   Original line: Mitch Hannahs Head Coach hannahsm@usf.edu
+
+2. Blake Kangas
+   Email: bkangas@usf.edu
+   Username: bkangas
+   Original line: Blake Kangas Assistant Coach/Recruiting Coordinator bkangas@usf.edu
+
+3. Bryan Peters
+   Email: bpeters11@usf.edu
+   Username: bpeters11
+   Original line: Bryan Peters Assistant Coach bpeters11@usf.edu
+
+4. Daniel Schlereth
+   Email: danielschlereth@usf.edu
+   Username: danielschlereth
+   Original line: Daniel Schlereth Assistant Coach danielschlereth@usf.edu
+
+5. Tee Butters
+   Email: tbutters@usf.edu
+   Username: tbutters
+   Original line: Tee Butters Associate Head Coach (813) 396- tbutters@usf.edu
+
+6. Jamie Quarles
+   Email: jquarles@usf.edu
+   Username: jquarles
+   Original line: Jamie Quarles Assistant Coach (813) 396- jquarles@usf.edu
+
+7. Derek Rongstad
+   Email: drongstad@usf.edu
+   Username: drongstad
+   Original line: Derek Rongstad Assistant Coach (813) 396- drongstad@usf.edu
+
+8. Logan Ingram
+   Email: loganingram@usf.edu
+   Username: loganingram
+   Original line: Logan Ingram Assistant Coach (813) 396- loganingram@usf.edu
+
+9. Tobin Anderson
+   Email: tobinanderson@usf.edu
+   Username: tobinanderson
+   Original line: Tobin Anderson Special Assistant to the Head Coach (813) 396- tobinanderson@usf.edu
+
+10. Cody Dukquits
+   Email: cdukquits@usf.edu
+   Username: cdukquits
+   Original line: Cody Dukquits Strength & Conditioning Coach cdukquits@usf.edu
+
+11. Jose Fernandez
+   Email: josef@usf.edu
+   Username: josef
+   Original line: Jose Fernandez Head Coach (813) 974- josef@usf.edu
+
+12. Michele Woods-Baxter
+   Email: mwbaxter@usf.edu
+   Username: mwbaxter
+   Original line: Michele Woods-Baxter Associate Head Coach (813) 974- mwbaxter@usf.edu
+
+13. Bojan Jankovic
+   Email: bojanjankovic@usf.edu
+   Username: bojanjankovic
+   Original line: Bojan Jankovic Assistant Head Coach bojanjankovic@usf.edu
+
+14. Sheila Boykin
+   Email: sboykin@usf.edu
+   Username: sboykin
+   Original line: Sheila Boykin Assistant Coach/Recruiting Coordinator sboykin@usf.edu
+
+15. Gina Cerezuela
+   Email: gcerezuelarobuste@usf.edu
+   Username: gcerezuelarobuste
+   Original line: Gina Cerezuela Robuste Assistant Coach/Director of Global Recruiting gcerezuelarobuste@usf.edu
+
+16. Justin Keller
+   Email: jdkeller@usf.edu
+   Username: jdkeller
+   Original line: Justin Keller Assistant Coach/Video Coordinator jdkeller@usf.edu
+
+17. Pri Piantadosi-Lima
+   Email: prilima@usf.edu
+   Username: prilima
+   Original line: Pri Piantadosi-Lima Head Coach prilima@usf.edu
+
+18. Tony Nicolosi
+   Email: nicolosi@usf.edu
+   Username: nicolosi
+   Original line: Tony Nicolosi Assistant Coach nicolosi@usf.edu
+
+19. Kevin Patrick
+   Email: kmpatrick@usf.edu
+   Username: kmpatrick
+   Original line: Kevin Patrick Defensive Line Coach kmpatrick@usf.edu
+
+20. Parker Carmichael
+   Email: pcarmichael@usf.edu
+   Username: pcarmichael
+   Original line: Parker Carmichael Assistant Wide Receivers Coach pcarmichael@usf.edu
+
+21. Steve Bradley
+   Email: bradleys1@usf.edu
+   Username: bradleys1
+   Original line: Steve Bradley Head Coach (813) 309- bradleys1@usf.edu
+
+22. Payne Denman
+   Email: denman1@usf.edu
+   Username: denman1
+   Original line: Payne Denman Assistant Coach (931) 808- denman1@usf.edu
+
+23. AJ Newell
+   Email: ajnewell@usf.edu
+   Username: ajnewell
+   Original line: AJ Newell Head Coach ajnewell@usf.edu
+
+24. Noah Barth
+   Email: nbarth@usf.edu
+   Username: nbarth
+   Original line: Noah Barth Assistant Coach nbarth@usf.edu
+
+25. Mindy McCord
+   Email: ath-wlax@usf.edu
+   Username: ath-wlax
+   Original line: Mindy McCord Head Coach 813-974- ath-wlax@usf.edu
+
+26. Brittney Orashen
+   Email: borashen@usf.edu
+   Username: borashen
+   Original line: Brittney Orashen Associate Head Coach borashen@usf.edu
+
+27. Paul McCord
+   Email: mccordp@usf.edu
+   Username: mccordp
+   Original line: Paul McCord Assistant Coach mccordp@usf.edu
+
+28. Vincent Lodato
+   Email: vlodato@usf.edu
+   Username: vlodato
+   Original line: Vincent Lodato Assistant Coach (813) 974- vlodato@usf.edu
+
+29. Allison Jolly
+   Email: abjolly@usf.edu
+   Username: abjolly
+   Original line: Allison Jolly Head Coach (727) 560- abjolly@usf.edu
+
+30. Rachael Silverstein
+   Email: rssilver@usf.edu
+   Username: rssilver
+   Original line: Rachael Silverstein Assistant Coach rssilver@usf.edu
+
+31. Bob Butehorn
+   Email: msoccer@usf.edu
+   Username: msoccer
+   Original line: Bob Butehorn Head Coach (813) 974- msoccer@usf.edu
+
+32. Armante' Marshall
+   Email: msoccer@usf.edu
+   Username: msoccer
+   Original line: Armante' Marshall Associate Head Coach (813)-974- msoccer@usf.edu
+
+33. William Chiles
+   Email: msoccer@usf.edu
+   Username: msoccer
+   Original line: William Chiles Assistant Coach (813) 974- msoccer@usf.edu
+
+34. Luis Vega
+   Email: msoccer@usf.edu
+   Username: msoccer
+   Original line: Luis Vega Assistant Coach msoccer@usf.edu
+
+35. Chris Brown
+   Email: chrisbrown@usf.edu
+   Username: chrisbrown
+   Original line: Chris Brown Head Coach (813) 974- chrisbrown@usf.edu
+
+36. Brock Duckworth
+   Email: duckworthb@usf.edu
+   Username: duckworthb
+   Original line: Brock Duckworth Associate Head Coach (813) 462- duckworthb@usf.edu
+
+37. Ashley Meade
+   Email: ashleymeade@usf.edu
+   Username: ashleymeade
+   Original line: Ashley Meade Assistant Coach ashleymeade@usf.edu
+
+38. Kelsey Gerick
+   Email: kdossey@usf.edu
+   Username: kdossey
+   Original line: Kelsey Gerick Assistant Coach kdossey@usf.edu
+
+39. Ken Eriksen
+   Email: eriksen@usf.edu
+   Username: eriksen
+   Original line: Ken Eriksen Head Coach (813) 974- eriksen@usf.edu
+
+40. Karla Claudio
+   Email: karlaclaudio@usf.edu
+   Username: karlaclaudio
+   Original line: Karla Claudio Rivera Assistant Coach (813) 974- karlaclaudio@usf.edu
+
+41. Lisa Navas
+   Email: lmnavas@usf.edu
+   Username: lmnavas
+   Original line: Lisa Navas Assistant Coach lmnavas@usf.edu
+
+42. Jim Beitia
+   Email: beitia@usf.edu
+   Username: beitia
+   Original line: Jim Beitia Assistant Coach beitia@usf.edu
+
+43. Ashley Fisher
+   Email: ashleyfisher@usf.edu
+   Username: ashleyfisher
+   Original line: Ashley Fisher Head Coach (813) 955- ashleyfisher@usf.edu
+
+44. Jonathan Wolff
+   Email: jonathanwolff@usf.edu
+   Username: jonathanwolff
+   Original line: Jonathan Wolff Associate Head Coach jonathanwolff@usf.edu
+
+45. Cristina Moros
+   Email: moros1@usf.edu
+   Username: moros1
+   Original line: Cristina Moros Head Coach (813) 974- moros1@usf.edu
+
+46. Logan Burgess
+   Email: lburgesshayes@usf.edu
+   Username: lburgesshayes
+   Original line: Logan Burgess Hayes Associate Head Coach lburgesshayes@usf.edu
+
+47. Abigi Id-Deen
+   Email: aiddeen@usf.edu
+   Username: aiddeen
+   Original line: Abigi Id-Deen Associate Head Coach (813) 974- aiddeen@usf.edu
+
+48. Remuro Henry
+   Email: henryr2@usf.edu
+   Username: henryr2
+   Original line: Remuro Henry Assistant Coach & Recruiting Coordinator (813) 981- henryr2@usf.edu
+
+49. Mariami Kevkhishvili-Machavariani
+   Email: mariamik@usf.edu
+   Username: mariamik
+   Original line: Mariami Kevkhishvili-Machavariani Assistant Coach (813) 974- mariamik@usf.edu
+
+50. Don Marsh
+   Email: dmarsh@usf.edu
+   Username: dmarsh
+   Original line: Don Marsh Special Advisor to the Head Coach dmarsh@usf.edu
+
+51. Tony Nicolosi
+   Email: nicolosi@usf.edu
+   Username: nicolosi
+   Original line: Tony Nicolosi Assistant Coach nicolosi@usf.edu
+
+52. Jatavia Wright
+   Email: jataviawright@usf.edu
+   Username: jataviawright
+   Original line: Jatavia Wright Assistant Coach (Multis and High Jump) jataviawright@usf.edu
+
+53. Jolene Shepardson
+   Email: volleyball@usf.edu
+   Username: volleyball
+   Original line: Jolene Shepardson Head Coach volleyball@usf.edu
+
+54. Makayla Washington
+   Email: volleyball@usf.edu
+   Username: volleyball
+   Original line: Makayla Washington Assistant Coach volleyball@usf.edu
+
+55. Tyler Schnaible
+   Email: tylerschnaible@usf.edu
+   Username: tylerschnaible
+   Original line: Tyler Schnaible Assistant Coach tylerschnaible@usf.edu
+
+56. Walter Bell
+   Email: wbell@usf.edu
+   Username: wbell
+   Original line: Walter Bell Assistant Strength & Conditioning Coach (813) 974- wbell@usf.edu
+
+57. Bryce Karasiak
+   Email: bkarasiak@usf.edu
+   Username: bkarasiak
+   Original line: Bryce Karasiak Assistant Strength & Conditioning Coach (813) 974- bkarasiak@usf.edu
+
+58. Sean Tidmus
+   Email: seantidmus@usf.edu
+   Username: seantidmus
+   Original line: Sean Tidmus Assistant Strength & Conditioning Coach seantidmus@usf.edu
+
+59. Jon McNemar
+   Email: jmcnemar@usf.edu
+   Username: jmcnemar
+   Original line: Jon McNemar Assistant Strength & Conditioning Coach jmcnemar@usf.edu
+
+60. Shelby Suplee
+   Email: ssuplee@usf.edu
+   Username: ssuplee
+   Original line: Shelby Suplee Assistant Strength & Conditioning Coach ssuplee@usf.edu
+
+61. Cody Dukquits
+   Email: cdukquits@usf.edu
+   Username: cdukquits
+   Original line: Cody Dukquits Strength & Conditioning Coach cdukquits@usf.edu
+
+62. Sandy Clarke
+   Email: sveley@usf.edu
+   Username: sveley
+   Original line: Sandy Clarke Head Coach - All Girl Cheerleading sveley@usf.edu
+
+63. Ronnie Patrick
+   Email: rlpatrick@usf.edu
+   Username: rlpatrick
+   Original line: Ronnie Patrick Head Coach - Coed Cheerleading rlpatrick@usf.edu
+
+64. Taylor DelGreco
+   Email: delgreco@usf.edu
+   Username: delgreco
+   Original line: Taylor DelGreco Head Coach - SunDolls delgreco@usf.edu
+
+65. Erica Wehrle
+   Email: ericawehrle@usf.edu
+   Username: ericawehrle
+   Original line: Erica Wehrle Crisafulli Assistant Coach - SunDolls ericawehrle@usf.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mitch Hannahs Head Coach hannahsm@usf.edu
+• Blake Kangas Assistant Coach/Recruiting Coordinator bkangas@usf.edu
+• Bryan Peters Assistant Coach bpeters11@usf.edu
+• Daniel Schlereth Assistant Coach danielschlereth@usf.edu
+• Tee Butters Associate Head Coach (813) 396- tbutters@usf.edu
+• Jamie Quarles Assistant Coach (813) 396- jquarles@usf.edu
+• Derek Rongstad Assistant Coach (813) 396- drongstad@usf.edu
+• Logan Ingram Assistant Coach (813) 396- loganingram@usf.edu
+• Tobin Anderson Special Assistant to the Head Coach (813) 396- tobinanderson@usf.edu
+• Cody Dukquits Strength & Conditioning Coach cdukquits@usf.edu
+• Jose Fernandez Head Coach (813) 974- josef@usf.edu
+• Michele Woods-Baxter Associate Head Coach (813) 974- mwbaxter@usf.edu
+• Bojan Jankovic Assistant Head Coach bojanjankovic@usf.edu
+• Sheila Boykin Assistant Coach/Recruiting Coordinator sboykin@usf.edu
+• Gina Cerezuela Robuste Assistant Coach/Director of Global Recruiting gcerezuelarobuste@usf.edu
+• Justin Keller Assistant Coach/Video Coordinator jdkeller@usf.edu
+• Pri Piantadosi-Lima Head Coach prilima@usf.edu
+• Tony Nicolosi Assistant Coach nicolosi@usf.edu
+• Kevin Patrick Defensive Line Coach kmpatrick@usf.edu
+• Parker Carmichael Assistant Wide Receivers Coach pcarmichael@usf.edu
+• Steve Bradley Head Coach (813) 309- bradleys1@usf.edu
+• Payne Denman Assistant Coach (931) 808- denman1@usf.edu
+• AJ Newell Head Coach ajnewell@usf.edu
+• Noah Barth Assistant Coach nbarth@usf.edu
+• Mindy McCord Head Coach 813-974- ath-wlax@usf.edu
+• Brittney Orashen Associate Head Coach borashen@usf.edu
+• Paul McCord Assistant Coach mccordp@usf.edu
+• Vincent Lodato Assistant Coach (813) 974- vlodato@usf.edu
+• Allison Jolly Head Coach (727) 560- abjolly@usf.edu
+• Rachael Silverstein Assistant Coach rssilver@usf.edu
+• Bob Butehorn Head Coach (813) 974- msoccer@usf.edu
+• Armante' Marshall Associate Head Coach (813)-974- msoccer@usf.edu
+• William Chiles Assistant Coach (813) 974- msoccer@usf.edu
+• Luis Vega Assistant Coach msoccer@usf.edu
+• Chris Brown Head Coach (813) 974- chrisbrown@usf.edu
+• Brock Duckworth Associate Head Coach (813) 462- duckworthb@usf.edu
+• Ashley Meade Assistant Coach ashleymeade@usf.edu
+• Kelsey Gerick Assistant Coach kdossey@usf.edu
+• Ken Eriksen Head Coach (813) 974- eriksen@usf.edu
+• Karla Claudio Rivera Assistant Coach (813) 974- karlaclaudio@usf.edu
+• Lisa Navas Assistant Coach lmnavas@usf.edu
+• Jim Beitia Assistant Coach beitia@usf.edu
+• Ashley Fisher Head Coach (813) 955- ashleyfisher@usf.edu
+• Jonathan Wolff Associate Head Coach jonathanwolff@usf.edu
+• Cristina Moros Head Coach (813) 974- moros1@usf.edu
+• Logan Burgess Hayes Associate Head Coach lburgesshayes@usf.edu
+• Abigi Id-Deen Associate Head Coach (813) 974- aiddeen@usf.edu
+• Remuro Henry Assistant Coach & Recruiting Coordinator (813) 981- henryr2@usf.edu
+• Mariami Kevkhishvili-Machavariani Assistant Coach (813) 974- mariamik@usf.edu
+• Don Marsh Special Advisor to the Head Coach dmarsh@usf.edu
+• Tony Nicolosi Assistant Coach nicolosi@usf.edu
+• Jatavia Wright Assistant Coach (Multis and High Jump) jataviawright@usf.edu
+• Jolene Shepardson Head Coach volleyball@usf.edu
+• Makayla Washington Assistant Coach volleyball@usf.edu
+• Tyler Schnaible Assistant Coach tylerschnaible@usf.edu
+• Walter Bell Assistant Strength & Conditioning Coach (813) 974- wbell@usf.edu
+• Bryce Karasiak Assistant Strength & Conditioning Coach (813) 974- bkarasiak@usf.edu
+• Sean Tidmus Assistant Strength & Conditioning Coach seantidmus@usf.edu
+• Jon McNemar Assistant Strength & Conditioning Coach jmcnemar@usf.edu
+• Shelby Suplee Assistant Strength & Conditioning Coach ssuplee@usf.edu
+• Cody Dukquits Strength & Conditioning Coach cdukquits@usf.edu
+• Sandy Clarke Head Coach - All Girl Cheerleading sveley@usf.edu
+• Ronnie Patrick Head Coach - Coed Cheerleading rlpatrick@usf.edu
+• Taylor DelGreco Head Coach - SunDolls delgreco@usf.edu
+• Erica Wehrle Crisafulli Assistant Coach - SunDolls ericawehrle@usf.edu

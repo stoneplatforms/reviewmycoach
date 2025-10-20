@@ -1,0 +1,179 @@
+COACH ENTRIES FOUND - 2025-10-04 18:12:05
+============================================================
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kristen Coventon
+   Email: kmcoventon@okcu.edu
+   Username: kmcoventon
+   Original line: Kristen Coventon Head volleyball coach / Assistant Athletic Director of Compliance kmcoventon@okcu.edu (405) 208-
+
+2. Baleigh Garner
+   Email: baleigh.garner@okcu.edu
+   Username: baleigh.garner
+   Original line: Baleigh Garner Coordinator of Internal Affairs/Assistant volleyball coach baleigh.garner@okcu.edu (405) 208-
+
+3. Quentre Roberts
+   Email: qroberts@okcu.edu
+   Username: qroberts
+   Original line: Quentre Roberts Assistant Men's Basketball Coach, Coordinator of Athletics Operations qroberts@okcu.edu
+
+4. Keith Lytle
+   Email: klytle@okcu.edu
+   Username: klytle
+   Original line: Keith Lytle Head baseball coach klytle@okcu.edu (405) 208-
+
+5. Derek Snell
+   Email: dsnell27@hotmail.com
+   Username: dsnell27
+   Original line: Derek Snell Assistant baseball coach dsnell27@hotmail.com (405) 305-
+
+6. Tanner Schoeninger
+   Email: jtschoeninger@okcu.edu
+   Username: jtschoeninger
+   Original line: Tanner Schoeninger Assistant baseball coach jtschoeninger@okcu.edu (405) 208-
+
+7. Billy Easley
+   Email: beasley@okcu.edu
+   Username: beasley
+   Original line: Billy Easley Assistant baseball coach beasley@okcu.edu (405) 208-
+
+8. Sam Kohnke
+   Email: skohnke@okcu.edu
+   Username: skohnke
+   Original line: Sam Kohnke Head Men's Basketball Coach skohnke@okcu.edu
+
+9. Quentre Roberts
+   Email: qroberts@okcu.edu
+   Username: qroberts
+   Original line: Quentre Roberts Assistant Men's Basketball Coach, Coordinator of Athletics Operations qroberts@okcu.edu
+
+10. Mikey Malone
+   Email: michael.malone@okcu.edu
+   Username: michael.malone
+   Original line: Mikey Malone Assistant men's basketball coach michael.malone@okcu.edu
+
+11. Alexis Lawrence
+   Email: alawrence@okcu.edu
+   Username: alawrence
+   Original line: Alexis Lawrence Head Women's Basketball Coach alawrence@okcu.edu
+
+12. Alicia Bailey
+   Email: abailey@okcu.edu
+   Username: abailey
+   Original line: Alicia Bailey Head competitive cheer coach/Spirit coordinator abailey@okcu.edu (405) 208-
+
+13. Keyanna Salmon
+   Email: kssalmon@okcu.edu
+   Username: kssalmon
+   Original line: Keyanna Salmon Assistant competitive cheer coach kssalmon@okcu.edu (405) 208-
+
+14. Tasha Hinex
+   Email: lhinex@okcu.edu
+   Username: lhinex
+   Original line: Tasha Hinex Head competitive dance coach lhinex@okcu.edu (405) 208-
+
+15. Davion Scott
+   Email: dscott@okcu.edu
+   Username: dscott
+   Original line: Davion Scott Assistant Coach dscott@okcu.edu
+
+16. Blake Trimble
+   Email: btrimble@okcu.edu
+   Username: btrimble
+   Original line: Blake Trimble Head men's golf coach btrimble@okcu.edu (405) 208-
+
+17. Josh Gorzney
+   Email: jgorzney@okcu.edu
+   Username: jgorzney
+   Original line: Josh Gorzney Head women's golf coach jgorzney@okcu.edu (405) 208-
+
+18. Bryan Volpenhein
+   Email: bvolpenhein@okcu.edu
+   Username: bvolpenhein
+   Original line: Bryan Volpenhein Head Men's and Women's Rowing Coach bvolpenhein@okcu.edu
+
+19. Billy Martin
+   Email: wjmartin@okcu.edu
+   Username: wjmartin
+   Original line: Billy Martin Head men's and women's soccer coach wjmartin@okcu.edu (405) 208-
+
+20. Harvey Paul
+   Email: hlpaul1@okcu.edu
+   Username: hlpaul1
+   Original line: Harvey Paul Assistant men's and women's soccer coach hlpaul1@okcu.edu (405) 208-
+
+21. Phil McSpadden
+   Email: pmcspadden@okcu.edu
+   Username: pmcspadden
+   Original line: Phil McSpadden Head softball coach pmcspadden@okcu.edu (405) 208-
+
+22. Bobbi Bridges
+   Email: bbridges@okcu.edu
+   Username: bbridges
+   Original line: Bobbi Bridges Associate Head Coach bbridges@okcu.edu (405) 208-
+
+23. Kristen Coventon
+   Email: kmcoventon@okcu.edu
+   Username: kmcoventon
+   Original line: Kristen Coventon Head volleyball coach / Assistant Athletic Director of Compliance kmcoventon@okcu.edu (405) 208-
+
+24. Baleigh Garner
+   Email: baleigh.garner@okcu.edu
+   Username: baleigh.garner
+   Original line: Baleigh Garner Coordinator of Internal Affairs/Assistant volleyball coach baleigh.garner@okcu.edu (405) 208-
+
+25. Justin Ensign
+   Email: jpensign@okcu.edu
+   Username: jpensign
+   Original line: Justin Ensign Head men's wrestling coach jpensign@okcu.edu (405) 208-
+
+26. Josh Powell
+   Email: jjpowell@okcu.edu
+   Username: jjpowell
+   Original line: Josh Powell Assistant men's wrestling coach jjpowell@okcu.edu (405) 208-
+
+27. William McKinney
+   Email: rmckinney@okcu.edu
+   Username: rmckinney
+   Original line: William McKinney Head Women's Wrestling Coach rmckinney@okcu.edu
+
+28. Jack Pugh
+   Email: jpugh7@cox.net
+   Username: jpugh7
+   Original line: Jack Pugh Strength/conditioning coach jpugh7@cox.net
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kristen Coventon Head volleyball coach / Assistant Athletic Director of Compliance kmcoventon@okcu.edu (405) 208-
+• Baleigh Garner Coordinator of Internal Affairs/Assistant volleyball coach baleigh.garner@okcu.edu (405) 208-
+• Quentre Roberts Assistant Men's Basketball Coach, Coordinator of Athletics Operations qroberts@okcu.edu
+• Keith Lytle Head baseball coach klytle@okcu.edu (405) 208-
+• Derek Snell Assistant baseball coach dsnell27@hotmail.com (405) 305-
+• Tanner Schoeninger Assistant baseball coach jtschoeninger@okcu.edu (405) 208-
+• Billy Easley Assistant baseball coach beasley@okcu.edu (405) 208-
+• Sam Kohnke Head Men's Basketball Coach skohnke@okcu.edu
+• Quentre Roberts Assistant Men's Basketball Coach, Coordinator of Athletics Operations qroberts@okcu.edu
+• Mikey Malone Assistant men's basketball coach michael.malone@okcu.edu
+• Alexis Lawrence Head Women's Basketball Coach alawrence@okcu.edu
+• Alicia Bailey Head competitive cheer coach/Spirit coordinator abailey@okcu.edu (405) 208-
+• Keyanna Salmon Assistant competitive cheer coach kssalmon@okcu.edu (405) 208-
+• Tasha Hinex Head competitive dance coach lhinex@okcu.edu (405) 208-
+• Davion Scott Assistant Coach dscott@okcu.edu
+• Blake Trimble Head men's golf coach btrimble@okcu.edu (405) 208-
+• Josh Gorzney Head women's golf coach jgorzney@okcu.edu (405) 208-
+• Bryan Volpenhein Head Men's and Women's Rowing Coach bvolpenhein@okcu.edu
+• Billy Martin Head men's and women's soccer coach wjmartin@okcu.edu (405) 208-
+• Harvey Paul Assistant men's and women's soccer coach hlpaul1@okcu.edu (405) 208-
+• Phil McSpadden Head softball coach pmcspadden@okcu.edu (405) 208-
+• Bobbi Bridges Associate Head Coach bbridges@okcu.edu (405) 208-
+• Kristen Coventon Head volleyball coach / Assistant Athletic Director of Compliance kmcoventon@okcu.edu (405) 208-
+• Baleigh Garner Coordinator of Internal Affairs/Assistant volleyball coach baleigh.garner@okcu.edu (405) 208-
+• Justin Ensign Head men's wrestling coach jpensign@okcu.edu (405) 208-
+• Josh Powell Assistant men's wrestling coach jjpowell@okcu.edu (405) 208-
+• William McKinney Head Women's Wrestling Coach rmckinney@okcu.edu
+• Jack Pugh Strength/conditioning coach jpugh7@cox.net

@@ -1,0 +1,258 @@
+COACH ENTRIES FOUND - 2025-10-19 04:54:46
+============================================================
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kody Cooke
+   Email: kody.cooke@usu.edu
+   Username: kody.cooke
+   Original line: Kody Cooke Head Strength and Conditioning Coach for Footbll kody.cooke@usu.edu
+
+2. Stine Emrick
+   Email: stine.emrick@usu.edu
+   Username: stine.emrick
+   Original line: Stine Emrick Assistant Strength and Conditioning Coach for Football stine.emrick@usu.edu
+
+3. Kevin Griffin
+   Email: kevin.griffin@usu.edu
+   Username: kevin.griffin
+   Original line: Kevin Griffin Assistant Strength and Conditioning Coach for Football kevin.griffin@usu.edu
+
+4. Brandon Buskey
+   Email: brandon.buskey@usu.edu
+   Username: brandon.buskey
+   Original line: Brandon Buskey Head Olympic Sport Strength and Conditioning Coach brandon.buskey@usu.edu
+
+5. Cameron Davis
+   Email: cameron.davis@usu.edu
+   Username: cameron.davis
+   Original line: Cameron Davis Associate Olympic Sports Strength & Conditioning Coach cameron.davis@usu.edu
+
+6. Sharee Wood
+   Email: sharee.wood@usu.edu
+   Username: sharee.wood
+   Original line: Sharee Wood Assistant Olympic Sports Strength & Conditioning Coach sharee.wood@usu.edu
+
+7. Eric Haut
+   Email: eric.haut@usu.edu
+   Username: eric.haut
+   Original line: Eric Haut Associate Head Coach eric.haut@usu.edu
+
+8. Mantoris Robinson
+   Email: manny.robinson@usu.edu
+   Username: manny.robinson
+   Original line: Mantoris Robinson Assistant Coach manny.robinson@usu.edu
+
+9. Ben Asher
+   Email: ben.asher@usu.edu
+   Username: ben.asher
+   Original line: Ben Asher Assistant Coach ben.asher@usu.edu
+
+10. Johnny Hill
+   Email: jonathan.hill@usu.edu
+   Username: jonathan.hill
+   Original line: Johnny Hill Assistant Coach jonathan.hill@usu.edu
+
+11. Kailie Quinn
+   Email: kailie.quinn@usu.edu
+   Username: kailie.quinn
+   Original line: Kailie Quinn Assistant Coach/Offensive Coordinator kailie.quinn@usu.edu
+
+12. Quim Gomez
+   Email: quim.gomez@usu.edu
+   Username: quim.gomez
+   Original line: Quim Gomez Assistant Coach/Director of Player Development quim.gomez@usu.edu
+
+13. Dean Johansen
+   Email: dean.johansen@usu.edu
+   Username: dean.johansen
+   Phone: 753-6050
+   Original line: Dean Johansen Head Coach 753-6050 dean.johansen@usu.edu
+
+14. Erik Skinner
+   Email: erik.skinner@usu.edu
+   Username: erik.skinner
+   Original line: Erik Skinner Assistant Coach erik.skinner@usu.edu
+
+15. Kody Cooke
+   Email: kody.cooke@usu.edu
+   Username: kody.cooke
+   Original line: Kody Cooke Head Strength and Conditioning Coach for Footbll kody.cooke@usu.edu
+
+16. Stine Emrick
+   Email: stine.emrick@usu.edu
+   Username: stine.emrick
+   Original line: Stine Emrick Assistant Strength and Conditioning Coach for Football stine.emrick@usu.edu
+
+17. Kevin Griffin
+   Email: kevin.griffin@usu.edu
+   Username: kevin.griffin
+   Original line: Kevin Griffin Assistant Strength and Conditioning Coach for Football kevin.griffin@usu.edu
+
+18. Summer Tujague
+   Email: s.tujague@usu.edu
+   Username: s.tujague
+   Original line: Summer Tujague Head Coach Assistant 1870 s.tujague@usu.edu
+
+19. Kristin White
+   Email: kristin.white@usu.edu
+   Username: kristin.white
+   Original line: Kristin White Head Coach 405-802- kristin.white@usu.edu
+
+20. Robert Ladanyi
+   Email: robert.ladanyi@usu.edu
+   Username: robert.ladanyi
+   Original line: Robert Ladanyi Assistant Coach robert.ladanyi@usu.edu
+
+21. Olivia Trautman
+   Email: olivia.trautman@usu.edu
+   Username: olivia.trautman
+   Original line: Olivia Trautman Assistant Coach olivia.trautman@usu.edu
+
+22. Brianna Brooks
+   Email: brianna.brooks@usu.edu
+   Username: brianna.brooks
+   Original line: Brianna Brooks Assistant Coach brianna.brooks@usu.edu
+
+23. Manny Martins
+   Email: manny.martins@usu.edu
+   Username: manny.martins
+   Original line: Manny Martins Head Coach 0900 manny.martins@usu.edu
+
+24. Erin Carrillo-Bautista
+   Email: erin.carrillo@usu.edu
+   Username: erin.carrillo
+   Original line: Erin Carrillo-Bautista Associate Head Coach 503-320- erin.carrillo@usu.edu
+
+25. Mealii Odum
+   Email: mealii.odum@usu.edu
+   Username: mealii.odum
+   Original line: Mealii Odum Assistant Coach mealii.odum@usu.edu
+
+26. Todd Judge
+   Email: todd.judge@usu.edu
+   Username: todd.judge
+   Original line: Todd Judge Head Coach todd.judge@usu.edu
+
+27. Shelby Thompson
+   Email: shelby.thompson@usu.edu
+   Username: shelby.thompson
+   Original line: Shelby Thompson Assistant Coach shelby.thompson@usu.edu
+
+28. Jared McDonald
+   Email: jared.mcdonald@usu.edu
+   Username: jared.mcdonald
+   Original line: Jared McDonald Assistant Coach jared.mcdonald@usu.edu
+
+29. Aaron Paajanen
+   Email: aaron.paajanen@usu.edu
+   Username: aaron.paajanen
+   Original line: Aaron Paajanen Head Coach 8754 aaron.paajanen@usu.edu
+
+30. Petros Alex
+   Email: Petros.alex@usu.edu
+   Username: Petros.alex
+   Original line: Petros Alex Assistant Coach 763-954- Petros.alex@usu.edu
+
+31. Veronika Golanova
+   Email: veronika.golanova@usu.edu
+   Username: veronika.golanova
+   Original line: Veronika Golanova Head Coach veronika.golanova@usu.edu
+
+32. Colton Tegtmeier
+   Email: colt.tegtmeier@usu.edu
+   Username: colt.tegtmeier
+   Original line: Colton Tegtmeier Assistant Coach colt.tegtmeier@usu.edu
+
+33. Matt Ingebritsen
+   Email: matt.ingebritsen@usu.edu
+   Username: matt.ingebritsen
+   Original line: Matt Ingebritsen Associate Head Coach/Throwers Coach 2061 matt.ingebritsen@usu.edu
+
+34. Erik Rasmussen
+   Email: erik.rasmussen@usu.edu
+   Username: erik.rasmussen
+   Original line: Erik Rasmussen Multi-Events/Jumps Coach 9047 erik.rasmussen@usu.edu
+
+35. Rodney Burkes
+   Email: rodney.rodney@usu.edu
+   Username: rodney.rodney
+   Original line: Rodney Burkes Assistant Coach/Sprints Coach rodney.rodney@usu.edu
+
+36. Bailee Dierks
+   Email: bailee.dierks@usu.edu
+   Username: bailee.dierks
+   Original line: Bailee Dierks Assistant Coach bailee.dierks@usu.edu
+
+37. Brennan Benson
+   Email: brennan.benson@usu.edu
+   Username: brennan.benson
+   Original line: Brennan Benson Assistant Coach and Director of Operations brennan.benson@usu.edu
+
+38. Rob Neilson
+   Email: rob.neilson@usu.edu
+   Username: rob.neilson
+   Original line: Rob Neilson Head Coach rob.neilson@usu.edu
+
+39. Chloe Hirst
+   Email: chloe.hirst@usu.edu
+   Username: chloe.hirst
+   Original line: Chloe Hirst Associate Head Coach chloe.hirst@usu.edu
+
+40. Torre Glasker
+   Email: torre.glasker@usu.edu
+   Username: torre.glasker
+   Original line: Torre Glasker Assistant Coach torre.glasker@usu.edu
+
+41. Kennedi Hansen
+   Email: kennedi.boyd@usu.edu
+   Username: kennedi.boyd
+   Original line: Kennedi Hansen Assistant Coach/Director of Volleyball Operations kennedi.boyd@usu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kody Cooke Head Strength and Conditioning Coach for Footbll kody.cooke@usu.edu
+• Stine Emrick Assistant Strength and Conditioning Coach for Football stine.emrick@usu.edu
+• Kevin Griffin Assistant Strength and Conditioning Coach for Football kevin.griffin@usu.edu
+• Brandon Buskey Head Olympic Sport Strength and Conditioning Coach brandon.buskey@usu.edu
+• Cameron Davis Associate Olympic Sports Strength & Conditioning Coach cameron.davis@usu.edu
+• Sharee Wood Assistant Olympic Sports Strength & Conditioning Coach sharee.wood@usu.edu
+• Eric Haut Associate Head Coach eric.haut@usu.edu
+• Mantoris Robinson Assistant Coach manny.robinson@usu.edu
+• Ben Asher Assistant Coach ben.asher@usu.edu
+• Johnny Hill Assistant Coach jonathan.hill@usu.edu
+• Kailie Quinn Assistant Coach/Offensive Coordinator kailie.quinn@usu.edu
+• Quim Gomez Assistant Coach/Director of Player Development quim.gomez@usu.edu
+• Dean Johansen Head Coach 753-6050 dean.johansen@usu.edu
+• Erik Skinner Assistant Coach erik.skinner@usu.edu
+• Kody Cooke Head Strength and Conditioning Coach for Footbll kody.cooke@usu.edu
+• Stine Emrick Assistant Strength and Conditioning Coach for Football stine.emrick@usu.edu
+• Kevin Griffin Assistant Strength and Conditioning Coach for Football kevin.griffin@usu.edu
+• Summer Tujague Head Coach Assistant 1870 s.tujague@usu.edu
+• Kristin White Head Coach 405-802- kristin.white@usu.edu
+• Robert Ladanyi Assistant Coach robert.ladanyi@usu.edu
+• Olivia Trautman Assistant Coach olivia.trautman@usu.edu
+• Brianna Brooks Assistant Coach brianna.brooks@usu.edu
+• Manny Martins Head Coach 0900 manny.martins@usu.edu
+• Erin Carrillo-Bautista Associate Head Coach 503-320- erin.carrillo@usu.edu
+• Mealii Odum Assistant Coach mealii.odum@usu.edu
+• Todd Judge Head Coach todd.judge@usu.edu
+• Shelby Thompson Assistant Coach shelby.thompson@usu.edu
+• Jared McDonald Assistant Coach jared.mcdonald@usu.edu
+• Aaron Paajanen Head Coach 8754 aaron.paajanen@usu.edu
+• Petros Alex Assistant Coach 763-954- Petros.alex@usu.edu
+• Veronika Golanova Head Coach veronika.golanova@usu.edu
+• Colton Tegtmeier Assistant Coach colt.tegtmeier@usu.edu
+• Matt Ingebritsen Associate Head Coach/Throwers Coach 2061 matt.ingebritsen@usu.edu
+• Erik Rasmussen Multi-Events/Jumps Coach 9047 erik.rasmussen@usu.edu
+• Rodney Burkes Assistant Coach/Sprints Coach rodney.rodney@usu.edu
+• Bailee Dierks Assistant Coach bailee.dierks@usu.edu
+• Brennan Benson Assistant Coach and Director of Operations brennan.benson@usu.edu
+• Rob Neilson Head Coach rob.neilson@usu.edu
+• Chloe Hirst Associate Head Coach chloe.hirst@usu.edu
+• Torre Glasker Assistant Coach torre.glasker@usu.edu
+• Kennedi Hansen Assistant Coach/Director of Volleyball Operations kennedi.boyd@usu.edu

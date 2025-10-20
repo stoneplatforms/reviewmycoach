@@ -1,0 +1,305 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:07
+============================================================
+
+Total coaches found: 49
+
+PARSED ENTRIES:
+----------------------------------------
+1. Sam Keohane
+   Email: pairetst@cofc.edu
+   Username: pairetst
+   Original line: Sam Keohane Head Cheer Coach pairetst@cofc.edu
+
+2. Erica Slaughter
+   Email: eskibins@cofc.edu
+   Username: eskibins
+   Original line: Erica Slaughter Head Dance Coach eskibins@cofc.edu
+
+3. Kristina MacLure
+   Email: maclurek@cofc.edu
+   Username: maclurek
+   Original line: Kristina MacLure Assistant Sports Performance Coach maclurek@cofc.edu (843) 953- Johnson Center,
+
+4. Mike Martino
+   Email: martinom1@cofc.edu
+   Username: martinom1
+   Original line: Mike Martino Assistant Sports Performance Coach martinom1@cofc.edu (843) 953- Johnson Center,
+
+5. Chad Holbrook
+   Email: holbrookcc@cofc.edu
+   Username: holbrookcc
+   Original line: Chad Holbrook Head Coach holbrookcc@cofc.edu (843) 953-
+
+6. Will Dorton
+   Email: dortonww@cofc.edu
+   Username: dortonww
+   Original line: Will Dorton Associate Head Coach/Co-Recruiting Coordinator dortonww@cofc.edu
+
+7. Adam Brown
+   Email: brownad5@cofc.edu
+   Username: brownad5
+   Original line: Adam Brown Assistant Coach/Co-Recruiting Coordinator brownad5@cofc.edu
+
+8. Sawyer Bridges
+   Email: bridgess@cofc.edu
+   Username: bridgess
+   Original line: Sawyer Bridges Assistant Coach bridgess@cofc.edu
+
+9. Chris Mack
+   Email: perruccia@cofc.edu
+   Username: perruccia
+   Original line: Chris Mack Head Coach perruccia@cofc.edu (843) 953- TD Arena, 317
+
+10. Chris Harriman
+   Email: harrimanc@cofc.edu
+   Username: harrimanc
+   Original line: Chris Harriman Assistant Coach harrimanc@cofc.edu (843) 953- TD Arena, 316
+
+11. Jeremy Growe
+   Email: groweja@cofc.edu
+   Username: groweja
+   Original line: Jeremy Growe Assistant Coach groweja@cofc.edu (843) 953- TD Arena, 318
+
+12. Jeff McInnis
+   Email: mcinnisjl@cofc.edu
+   Username: mcinnisjl
+   Original line: Jeff McInnis Assistant Coach mcinnisjl@cofc.edu (843) 953- TD Arena, 319
+
+13. Christen Cunningham
+   Email: cunninghamc3@cofc.edu
+   Username: cunninghamc3
+   Original line: Christen Cunningham General Manager/Assistant Coach cunninghamc3@cofc.edu TD Arena, 314
+
+14. Robin Harmony
+   Email: harmonyrs@cofc.edu
+   Username: harmonyrs
+   Original line: Robin Harmony Head Coach harmonyrs@cofc.edu (843) 953- TD Arena, 305
+
+15. Randy Schneider
+   Email: schneiderrj@cofc.edu
+   Username: schneiderrj
+   Original line: Randy Schneider Associate Head Coach schneiderrj@cofc.edu (843) 953- TD Arena, 304
+
+16. Greg Long
+   Email: longg3@cofc.edu
+   Username: longg3
+   Original line: Greg Long Assistant Coach longg3@cofc.edu TD Arena, 320
+
+17. Chelsey Rhodes
+   Email: rhodesc4@cofc.edu
+   Username: rhodesc4
+   Original line: Chelsey Rhodes Assistant Coach/Recruiting Coordinator rhodesc4@cofc.edu TD Arena, 303
+
+18. Damian Elder
+   Email: elderdd@cofc.edu
+   Username: elderdd
+   Original line: Damian Elder Head Coach elderdd@cofc.edu (843) 953- TD Arena, 220
+
+19. Michael Tornifolio
+   Email: tornifoliomk@cofc.edu
+   Username: tornifoliomk
+   Original line: Michael Tornifolio Head Track & Field Coach (Sprints/Jumps/Multis) tornifoliomk@cofc.edu (843) 953- TD Arena, 223
+
+20. Chris Bailey
+   Email: crbailey@cofc.edu
+   Username: crbailey
+   Original line: Chris Bailey Head Cross Country Coach/Assistant Track and crbailey@cofc.edu (843) 469- TD Arena, 223
+
+21. Hayley McMahon
+   Email: mcmahonhj@cofc.edu
+   Username: mcmahonhj
+   Original line: Hayley McMahon Assistant Coach (Mid-Distance) mcmahonhj@cofc.edu (843) 953- TD Arena, 219
+
+22. Rachel Hamryka
+   Email: hamrykar@cofc.edu
+   Username: hamrykar
+   Original line: Rachel Hamryka Assistant Coach (Distance) hamrykar@cofc.edu (843) 953- TD Arena, 219
+
+23. Brayan Elias
+   Email: eliasb@cofc.edu
+   Username: eliasb
+   Original line: Brayan Elias Assistant Coach (Sprints/Hudles/Relays) eliasb@cofc.edu (843) 953- TD Arena, 219
+
+24. Natasha Vitkovic
+   Email: vitkovicn@cofc.edu
+   Username: vitkovicn
+   Original line: Natasha Vitkovic Head Coach vitkovicn@cofc.edu (843) 367- White Horses, LLC
+
+25. Hope King
+   Email: kinghc@cofc.edu
+   Username: kinghc
+   Original line: Hope King Assistant Coach kinghc@cofc.edu White Horses, LLC
+
+26. Andrea Attard
+   Email: attarda@cofc.edu
+   Username: attarda
+   Original line: Andrea Attard Assistant Coach attarda@cofc.edu White Horses, LLC
+
+27. Mitch Krywulycz
+   Email: krywulyczmj@cofc.edu
+   Username: krywulyczmj
+   Original line: Mitch Krywulycz Head Coach krywulyczmj@cofc.edu (706) 267- The Links at Stono
+
+28. Corbin Sebens
+   Email: sebensc@cofc.edu
+   Username: sebensc
+   Original line: Corbin Sebens Assistant Coach sebensc@cofc.edu (706) 267- The Links at Stono
+
+29. Jamie Futrell
+   Email: futrellj@cofc.edu
+   Username: futrellj
+   Original line: Jamie Futrell Head Coach futrellj@cofc.edu (843) 953- Silcox Center, 326
+
+30. Jodee Parrott
+   Email: tindaljr@cofc.edu
+   Username: tindaljr
+   Original line: Jodee Parrott Assistant Coach tindaljr@cofc.edu (843) 953-
+
+31. Conner Blouin
+   Email: blouinjc@cofc.edu
+   Username: blouinjc
+   Original line: Conner Blouin Head Coach blouinjc@cofc.edu (843) 216- J. Stewart Walker
+
+32. Ned Goss
+   Email: gossep@cofc.edu
+   Username: gossep
+   Original line: Ned Goss Assistant Coach/Dock Master gossep@cofc.edu (843) 216- J. Stewart Walker
+
+33. Annabel Carrington
+   Email: carringtonas@cofc.edu
+   Username: carringtonas
+   Original line: Annabel Carrington Assistant Coach carringtonas@cofc.edu (843) 216- J. Stewart Walker
+
+34. Ian Barrows
+   Email: barrowsi@cofc.edu
+   Username: barrowsi
+   Original line: Ian Barrows Assistant Coach barrowsi@cofc.edu (843) 216- J. Stewart Walker
+
+35. Keith Wiggans
+   Email: msoccer@cofc.edu
+   Username: msoccer
+   Original line: Keith Wiggans Head Coach msoccer@cofc.edu (843) 953- TD Arena, 211
+
+36. Rob Seaton
+   Email: msoccer@cofc.edu
+   Username: msoccer
+   Original line: Rob Seaton Associate Head Coach/Recruiting Coordinator msoccer@cofc.edu (843) 953- TD Arena, 210
+
+37. Christian Michner
+   Email: michnercm@cofc.edu
+   Username: michnercm
+   Original line: Christian Michner Head Coach michnercm@cofc.edu (843) 953 TD Arena, 213
+
+38. Shanna Caldwell
+   Email: caldwells@cofc.edu
+   Username: caldwells
+   Original line: Shanna Caldwell Associate Head Coach caldwells@cofc.edu (843) 953- TD Arena, 207
+
+39. Sharis Hanson
+   Email: WSOC@cofc.edu
+   Username: WSOC
+   Original line: Sharis Hanson Assistant Coach WSOC@cofc.edu
+
+40. Maggie Mrowka
+   Email: mrowkam@cofc.edu
+   Username: mrowkam
+   Original line: Maggie Mrowka Head Coach mrowkam@cofc.edu (843) 953- TD Arena, 226
+
+41. Jay Bruner
+   Email: brunerj@cofc.edu
+   Username: brunerj
+   Original line: Jay Bruner Head Coach brunerj@cofc.edu (843) 953- Turner Tennis
+
+42. Maxwell Giddens
+   Email: giddensm1@cofc.edu
+   Username: giddensm1
+   Original line: Maxwell Giddens Assistant Coach giddensm1@cofc.edu Turner Tennis
+
+43. Angelo Anastopoulo
+   Email: anastopouloa@cofc.edu
+   Username: anastopouloa
+   Original line: Angelo Anastopoulo Director of Tennis/Head Coach anastopouloa@cofc.edu (843) 953- Turner Tennis
+
+44. Maxwell Giddens
+   Email: giddensm1@cofc.edu
+   Username: giddensm1
+   Original line: Maxwell Giddens Assistant Coach giddensm1@cofc.edu Turner Tennis
+
+45. Billy Silcox
+   Email: silcoxwa@cofc.edu
+   Username: silcoxwa
+   Original line: Billy Silcox Assistant Coach silcoxwa@cofc.edu Turner Tennis
+
+46. Jason Kepner
+   Email: kepnerj@cofc.edu
+   Username: kepnerj
+   Original line: Jason Kepner Head Coach kepnerj@cofc.edu (843) 953- TD Arena, 218
+
+47. Justin Bass
+   Email: bassjm1@cofc.edu
+   Username: bassjm1
+   Original line: Justin Bass Assistant Coach bassjm1@cofc.edu (843) 953- TD Arena, 220
+
+48. Riley Taylor
+   Email: taylorrn@cofc.edu
+   Username: taylorrn
+   Original line: Riley Taylor Assistant Coach taylorrn@cofc.edu TD Arena, 221
+
+49. Jordan Harris
+   Email: bickettj2@cofc.edu
+   Username: bickettj2
+   Original line: Jordan Harris Assistant Coach bickettj2@cofc.edu TD Arena, 221
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Sam Keohane Head Cheer Coach pairetst@cofc.edu
+• Erica Slaughter Head Dance Coach eskibins@cofc.edu
+• Kristina MacLure Assistant Sports Performance Coach maclurek@cofc.edu (843) 953- Johnson Center,
+• Mike Martino Assistant Sports Performance Coach martinom1@cofc.edu (843) 953- Johnson Center,
+• Chad Holbrook Head Coach holbrookcc@cofc.edu (843) 953-
+• Will Dorton Associate Head Coach/Co-Recruiting Coordinator dortonww@cofc.edu
+• Adam Brown Assistant Coach/Co-Recruiting Coordinator brownad5@cofc.edu
+• Sawyer Bridges Assistant Coach bridgess@cofc.edu
+• Chris Mack Head Coach perruccia@cofc.edu (843) 953- TD Arena, 317
+• Chris Harriman Assistant Coach harrimanc@cofc.edu (843) 953- TD Arena, 316
+• Jeremy Growe Assistant Coach groweja@cofc.edu (843) 953- TD Arena, 318
+• Jeff McInnis Assistant Coach mcinnisjl@cofc.edu (843) 953- TD Arena, 319
+• Christen Cunningham General Manager/Assistant Coach cunninghamc3@cofc.edu TD Arena, 314
+• Robin Harmony Head Coach harmonyrs@cofc.edu (843) 953- TD Arena, 305
+• Randy Schneider Associate Head Coach schneiderrj@cofc.edu (843) 953- TD Arena, 304
+• Greg Long Assistant Coach longg3@cofc.edu TD Arena, 320
+• Chelsey Rhodes Assistant Coach/Recruiting Coordinator rhodesc4@cofc.edu TD Arena, 303
+• Damian Elder Head Coach elderdd@cofc.edu (843) 953- TD Arena, 220
+• Michael Tornifolio Head Track & Field Coach (Sprints/Jumps/Multis) tornifoliomk@cofc.edu (843) 953- TD Arena, 223
+• Chris Bailey Head Cross Country Coach/Assistant Track and crbailey@cofc.edu (843) 469- TD Arena, 223
+• Hayley McMahon Assistant Coach (Mid-Distance) mcmahonhj@cofc.edu (843) 953- TD Arena, 219
+• Rachel Hamryka Assistant Coach (Distance) hamrykar@cofc.edu (843) 953- TD Arena, 219
+• Brayan Elias Assistant Coach (Sprints/Hudles/Relays) eliasb@cofc.edu (843) 953- TD Arena, 219
+• Natasha Vitkovic Head Coach vitkovicn@cofc.edu (843) 367- White Horses, LLC
+• Hope King Assistant Coach kinghc@cofc.edu White Horses, LLC
+• Andrea Attard Assistant Coach attarda@cofc.edu White Horses, LLC
+• Mitch Krywulycz Head Coach krywulyczmj@cofc.edu (706) 267- The Links at Stono
+• Corbin Sebens Assistant Coach sebensc@cofc.edu (706) 267- The Links at Stono
+• Jamie Futrell Head Coach futrellj@cofc.edu (843) 953- Silcox Center, 326
+• Jodee Parrott Assistant Coach tindaljr@cofc.edu (843) 953-
+• Conner Blouin Head Coach blouinjc@cofc.edu (843) 216- J. Stewart Walker
+• Ned Goss Assistant Coach/Dock Master gossep@cofc.edu (843) 216- J. Stewart Walker
+• Annabel Carrington Assistant Coach carringtonas@cofc.edu (843) 216- J. Stewart Walker
+• Ian Barrows Assistant Coach barrowsi@cofc.edu (843) 216- J. Stewart Walker
+• Keith Wiggans Head Coach msoccer@cofc.edu (843) 953- TD Arena, 211
+• Rob Seaton Associate Head Coach/Recruiting Coordinator msoccer@cofc.edu (843) 953- TD Arena, 210
+• Christian Michner Head Coach michnercm@cofc.edu (843) 953 TD Arena, 213
+• Shanna Caldwell Associate Head Coach caldwells@cofc.edu (843) 953- TD Arena, 207
+• Sharis Hanson Assistant Coach WSOC@cofc.edu
+• Maggie Mrowka Head Coach mrowkam@cofc.edu (843) 953- TD Arena, 226
+• Jay Bruner Head Coach brunerj@cofc.edu (843) 953- Turner Tennis
+• Maxwell Giddens Assistant Coach giddensm1@cofc.edu Turner Tennis
+• Angelo Anastopoulo Director of Tennis/Head Coach anastopouloa@cofc.edu (843) 953- Turner Tennis
+• Maxwell Giddens Assistant Coach giddensm1@cofc.edu Turner Tennis
+• Billy Silcox Assistant Coach silcoxwa@cofc.edu Turner Tennis
+• Jason Kepner Head Coach kepnerj@cofc.edu (843) 953- TD Arena, 218
+• Justin Bass Assistant Coach bassjm1@cofc.edu (843) 953- TD Arena, 220
+• Riley Taylor Assistant Coach taylorrn@cofc.edu TD Arena, 221
+• Jordan Harris Assistant Coach bickettj2@cofc.edu TD Arena, 221

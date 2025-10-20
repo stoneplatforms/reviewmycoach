@@ -1,0 +1,347 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:45
+============================================================
+
+Total coaches found: 56
+
+PARSED ENTRIES:
+----------------------------------------
+1. Lori Hofmann
+   Email: hofmannl@queens.edu
+   Username: hofmannl
+   Original line: Lori Hofmann Assistant Sports Performance Coach hofmannl@queens.edu 704-688-
+
+2. Jake Hendrick
+   Email: hendrickj@queens.edu
+   Username: hendrickj
+   Original line: Jake Hendrick Head Baseball Coach hendrickj@queens.edu
+
+3. James Cullinane
+   Email: cullinanej@queens.edu
+   Username: cullinanej
+   Original line: James Cullinane Associate Head Coach/Recruiting cullinanej@queens.edu
+
+4. Luke Bay
+   Email: bayl@queens.edu
+   Username: bayl
+   Original line: Luke Bay Pitching Coach bayl@queens.edu
+
+5. Dan Bailey
+   Email: baileyd3@queens.edu
+   Username: baileyd3
+   Original line: Dan Bailey Assistant Men's Basketball Coach baileyd3@queens.edu
+
+6. Bobby Horodyski
+   Email: horodyskib@queens.edu
+   Username: horodyskib
+   Original line: Bobby Horodyski Assistant Men's Basketball Coach horodyskib@queens.edu
+
+7. Adam Short
+   Email: shorta@queens.edu
+   Username: shorta
+   Original line: Adam Short Assistant Men's Basketball Coach shorta@queens.edu
+
+8. Damian Dixon
+   Email: dixond2@queens.edu
+   Username: dixond2
+   Original line: Damian Dixon Assistant Men's Basketball Coach dixond2@queens.edu
+
+9. Amit Tailor
+   Email: tailora@queens.edu
+   Username: tailora
+   Original line: Amit Tailor Assistant Men's Basketball Coach tailora@queens.edu
+
+10. Katina Cole
+   Email: colek@queens.edu
+   Username: colek
+   Original line: Katina Cole Head Spirit Coach colek@queens.edu
+
+11. Katina Cole
+   Email: colek@queens.edu
+   Username: colek
+   Original line: Katina Cole Head Spirit Coach colek@queens.edu
+
+12. Jen Brown
+   Email: brownj16@queens.edu
+   Username: brownj16
+   Original line: Jen Brown Head Women's Basketball Coach brownj16@queens.edu 704-337-
+
+13. Toia Giggetts
+   Email: giggettst@queens.edu
+   Username: giggettst
+   Original line: Toia Giggetts Assistant Women's Basketball Coach giggettst@queens.edu
+
+14. Taylor Todd-Williams
+   Email: toddwilliamst@queens.edu
+   Username: toddwilliamst
+   Original line: Taylor Todd-Williams Assistant Women's Basketball Coach toddwilliamst@queens.edu
+
+15. Kasey Kidwell
+   Email: kidwellk@queens.edu
+   Username: kidwellk
+   Original line: Kasey Kidwell Assistant Women's Basketball Coach kidwellk@queens.edu
+
+16. Brandi Kist
+   Email: kistb@queens.edu
+   Username: kistb
+   Original line: Brandi Kist Head Field Hockey Coach kistb@queens.edu 704-971-
+
+17. Tarryn Morris
+   Email: morrist2@queens.edu
+   Username: morrist2
+   Original line: Tarryn Morris Associate Head Field Hockey Coach morrist2@queens.edu 704-971-
+
+18. Kealsie Reeb
+   Email: reebk@queens.edu
+   Username: reebk
+   Original line: Kealsie Reeb Assistant Field Hockey Coach reebk@queens.edu
+
+19. Lauren Martin
+   Email: martinl3@queens.edu
+   Username: martinl3
+   Original line: Lauren Martin Assistant Golf Coach martinl3@queens.edu
+
+20. Lauren Martin
+   Email: martinl3@queens.edu
+   Username: martinl3
+   Original line: Lauren Martin Assistant Golf Coach martinl3@queens.edu
+
+21. Nik Colpitts
+   Email: colpittsn@queens.edu
+   Username: colpittsn
+   Original line: Nik Colpitts Head Men's Lacrosse Coach colpittsn@queens.edu
+
+22. Joe Turner
+   Email: turnerj3@queens.edu
+   Username: turnerj3
+   Original line: Joe Turner Associate Head Men's Lacrosse Coach turnerj3@queens.edu
+
+23. PJ Peters
+   Email: petersp@queens.edu
+   Username: petersp
+   Original line: PJ Peters Assistant Men's Lacrosse Coach petersp@queens.edu
+
+24. Kelly McQuilkin
+   Email: mcquilkink@queens.edu
+   Username: mcquilkink
+   Original line: Kelly McQuilkin Head Women's Lacrosse Coach mcquilkink@queens.edu
+
+25. Sharn Muffett
+   Email: muffetts@queens.edu
+   Username: muffetts
+   Original line: Sharn Muffett Assistant Women's Lacrosse Coach muffetts@queens.edu
+
+26. Aryss Lindsey
+   Email: lindseya2@queens.edu
+   Username: lindseya2
+   Original line: Aryss Lindsey Assistant Women's Lacrosse Coach lindseya2@queens.edu
+
+27. Tyree Reed
+   Email: reedt2@queens.edu
+   Username: reedt2
+   Original line: Tyree Reed Head Men's Rugby Coach reedt2@queens.edu 704-971-
+
+28. Alston Burton
+   Email: burtona@queens.edu
+   Username: burtona
+   Original line: Alston Burton Assistant Men's Rugby Coach burtona@queens.edu
+
+29. Ethienne Reynecke
+   Email: reyneckee@queens.edu
+   Username: reyneckee
+   Original line: Ethienne Reynecke Assistant Men's Rugby Coach reyneckee@queens.edu
+
+30. Jake Tingom
+   Email: tingomj@queens.edu
+   Username: tingomj
+   Original line: Dr. Jake Tingom Assistant Men's Rugby Coach tingomj@queens.edu
+
+31. Danny Harlow
+   Email: harlowd@queens.edu
+   Username: harlowd
+   Original line: Danny Harlow Head Women's Rugby Coach harlowd@queens.edu
+
+32. Oliver Carias
+   Email: cariaso@queens.edu
+   Username: cariaso
+   Original line: Oliver Carias Head Men's Soccer Coach cariaso@queens.edu 704-337-
+
+33. Ömer Okyar
+   Email: okyaro@queens.edu
+   Username: okyaro
+   Original line: Ömer Okyar Assistant Men’s Soccer Coach okyaro@queens.edu
+
+34. Alvaro Anzola
+   Email: anzolazamudioa@queens.edu
+   Username: anzolazamudioa
+   Original line: Alvaro Anzola Assistant Coach/Goalkeeper Coach anzolazamudioa@queens.edu
+
+35. Filipe Mendonca
+   Email: mendoncaf@queens.edu
+   Username: mendoncaf
+   Original line: Filipe Mendonca Assistant Coach mendoncaf@queens.edu
+
+36. Shannon Neely
+   Email: womenssoccer@queens.edu
+   Username: womenssoccer
+   Original line: Shannon Neely Noel Head Women's Soccer Coach womenssoccer@queens.edu 704-337-
+
+37. Kella Armstrong
+   Email: goinst@queens.edu
+   Username: goinst
+   Original line: Kella Armstrong Head Softball Coach goinst@queens.edu 704-688-
+
+38. Sierra Vanzant-Cheek
+   Email: vanzants@queens.edu
+   Username: vanzants
+   Original line: Sierra Vanzant-Cheek Associate Softball Head Coach vanzants@queens.edu 704-688-
+
+39. Elliot Ptasnik
+   Email: ptasnike@queens.edu
+   Username: ptasnike
+   Original line: Elliot Ptasnik Associate Head Swimming Coach ptasnike@queens.edu
+
+40. Francesca Bains
+   Email: francescabains@aol.com
+   Username: francescabains
+   Original line: Francesca Bains Assistant Swimming Coach francescabains@aol.com
+
+41. Bradford Hancock
+   Email: hancockb@queens.edu
+   Username: hancockb
+   Original line: Bradford Hancock Associate Head Swimming Coach hancockb@queens.edu
+
+42. Elliot Ptasnik
+   Email: ptasnike@queens.edu
+   Username: ptasnike
+   Original line: Elliot Ptasnik Associate Head Swimming Coach ptasnike@queens.edu
+
+43. Francesca Bains
+   Email: francescabains@aol.com
+   Username: francescabains
+   Original line: Francesca Bains Assistant Swimming Coach francescabains@aol.com
+
+44. Bradford Hancock
+   Email: hancockb@queens.edu
+   Username: hancockb
+   Original line: Bradford Hancock Associate Head Swimming Coach hancockb@queens.edu
+
+45. Aleksandra Zlatarova
+   Email: Zlatarovaa@queens.edu
+   Username: Zlatarovaa
+   Original line: Aleksandra Zlatarova Graduate Assistant Women's Tennis Coach Zlatarovaa@queens.edu
+
+46. Bianca Knight
+   Email: knightb@queens.edu
+   Username: knightb
+   Original line: Bianca Knight Assistant Track & Field Coach (Sprints) knightb@queens.edu
+
+47. Evin McEntee
+   Email: mcenteee@queens.edu
+   Username: mcenteee
+   Original line: Evin McEntee Assistant Track and Field Coach (Jumps) mcenteee@queens.edu
+
+48. Bianca Knight
+   Email: knightb@queens.edu
+   Username: knightb
+   Original line: Bianca Knight Assistant Track & Field Coach (Sprints) knightb@queens.edu
+
+49. Evin McEntee
+   Email: mcenteee@queens.edu
+   Username: mcenteee
+   Original line: Evin McEntee Assistant Track and Field Coach (Jumps) mcenteee@queens.edu
+
+50. Jack DeWeerdt
+   Email: deweerdtj@queens.edu
+   Username: deweerdtj
+   Original line: Jack DeWeerdt Assistant Triathlon Coach deweerdtj@queens.edu
+
+51. Jack DeWeerdt
+   Email: deweerdtj@queens.edu
+   Username: deweerdtj
+   Original line: Jack DeWeerdt Assistant Triathlon Coach deweerdtj@queens.edu
+
+52. Roger Peluso
+   Email: pelusor@queens.edu
+   Username: pelusor
+   Original line: Roger Peluso Head Men's Volleyball Coach pelusor@queens.edu
+
+53. Matt Stolz
+   Email: stolzm@queens.edu
+   Username: stolzm
+   Original line: Matt Stolz Head Women's Volleyball Coach stolzm@queens.edu
+
+54. Savannah Moore
+   Email: moores5@queens.edu
+   Username: moores5
+   Original line: Savannah Moore Assistant Women's Volleyball Coach moores5@queens.edu
+
+55. Corey Sarubbi
+   Email: sarubbic@queens.edu
+   Username: sarubbic
+   Original line: Corey Sarubbi Assistant Women's Volleyball Coach sarubbic@queens.edu
+
+56. Hannah Jacobs
+   Email: jacobsh@queens.edu
+   Username: jacobsh
+   Original line: Hannah Jacobs Assistant Women's Volleyball Coach jacobsh@queens.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Lori Hofmann Assistant Sports Performance Coach hofmannl@queens.edu 704-688-
+• Jake Hendrick Head Baseball Coach hendrickj@queens.edu
+• James Cullinane Associate Head Coach/Recruiting cullinanej@queens.edu
+• Luke Bay Pitching Coach bayl@queens.edu
+• Dan Bailey Assistant Men's Basketball Coach baileyd3@queens.edu
+• Bobby Horodyski Assistant Men's Basketball Coach horodyskib@queens.edu
+• Adam Short Assistant Men's Basketball Coach shorta@queens.edu
+• Damian Dixon Assistant Men's Basketball Coach dixond2@queens.edu
+• Amit Tailor Assistant Men's Basketball Coach tailora@queens.edu
+• Katina Cole Head Spirit Coach colek@queens.edu
+• Katina Cole Head Spirit Coach colek@queens.edu
+• Jen Brown Head Women's Basketball Coach brownj16@queens.edu 704-337-
+• Toia Giggetts Assistant Women's Basketball Coach giggettst@queens.edu
+• Taylor Todd-Williams Assistant Women's Basketball Coach toddwilliamst@queens.edu
+• Kasey Kidwell Assistant Women's Basketball Coach kidwellk@queens.edu
+• Brandi Kist Head Field Hockey Coach kistb@queens.edu 704-971-
+• Tarryn Morris Associate Head Field Hockey Coach morrist2@queens.edu 704-971-
+• Kealsie Reeb Assistant Field Hockey Coach reebk@queens.edu
+• Lauren Martin Assistant Golf Coach martinl3@queens.edu
+• Lauren Martin Assistant Golf Coach martinl3@queens.edu
+• Nik Colpitts Head Men's Lacrosse Coach colpittsn@queens.edu
+• Joe Turner Associate Head Men's Lacrosse Coach turnerj3@queens.edu
+• PJ Peters Assistant Men's Lacrosse Coach petersp@queens.edu
+• Kelly McQuilkin Head Women's Lacrosse Coach mcquilkink@queens.edu
+• Sharn Muffett Assistant Women's Lacrosse Coach muffetts@queens.edu
+• Aryss Lindsey Assistant Women's Lacrosse Coach lindseya2@queens.edu
+• Tyree Reed Head Men's Rugby Coach reedt2@queens.edu 704-971-
+• Alston Burton Assistant Men's Rugby Coach burtona@queens.edu
+• Ethienne Reynecke Assistant Men's Rugby Coach reyneckee@queens.edu
+• Dr. Jake Tingom Assistant Men's Rugby Coach tingomj@queens.edu
+• Danny Harlow Head Women's Rugby Coach harlowd@queens.edu
+• Oliver Carias Head Men's Soccer Coach cariaso@queens.edu 704-337-
+• Ömer Okyar Assistant Men’s Soccer Coach okyaro@queens.edu
+• Alvaro Anzola Assistant Coach/Goalkeeper Coach anzolazamudioa@queens.edu
+• Filipe Mendonca Assistant Coach mendoncaf@queens.edu
+• Shannon Neely Noel Head Women's Soccer Coach womenssoccer@queens.edu 704-337-
+• Kella Armstrong Head Softball Coach goinst@queens.edu 704-688-
+• Sierra Vanzant-Cheek Associate Softball Head Coach vanzants@queens.edu 704-688-
+• Elliot Ptasnik Associate Head Swimming Coach ptasnike@queens.edu
+• Francesca Bains Assistant Swimming Coach francescabains@aol.com
+• Bradford Hancock Associate Head Swimming Coach hancockb@queens.edu
+• Elliot Ptasnik Associate Head Swimming Coach ptasnike@queens.edu
+• Francesca Bains Assistant Swimming Coach francescabains@aol.com
+• Bradford Hancock Associate Head Swimming Coach hancockb@queens.edu
+• Aleksandra Zlatarova Graduate Assistant Women's Tennis Coach Zlatarovaa@queens.edu
+• Bianca Knight Assistant Track & Field Coach (Sprints) knightb@queens.edu
+• Evin McEntee Assistant Track and Field Coach (Jumps) mcenteee@queens.edu
+• Bianca Knight Assistant Track & Field Coach (Sprints) knightb@queens.edu
+• Evin McEntee Assistant Track and Field Coach (Jumps) mcenteee@queens.edu
+• Jack DeWeerdt Assistant Triathlon Coach deweerdtj@queens.edu
+• Jack DeWeerdt Assistant Triathlon Coach deweerdtj@queens.edu
+• Roger Peluso Head Men's Volleyball Coach pelusor@queens.edu
+• Matt Stolz Head Women's Volleyball Coach stolzm@queens.edu
+• Savannah Moore Assistant Women's Volleyball Coach moores5@queens.edu
+• Corey Sarubbi Assistant Women's Volleyball Coach sarubbic@queens.edu
+• Hannah Jacobs Assistant Women's Volleyball Coach jacobsh@queens.edu

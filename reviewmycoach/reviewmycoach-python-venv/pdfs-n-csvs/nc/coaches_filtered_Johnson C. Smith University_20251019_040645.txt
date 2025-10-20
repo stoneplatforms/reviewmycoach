@@ -1,0 +1,143 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:45
+============================================================
+
+Total coaches found: 22
+
+PARSED ENTRIES:
+----------------------------------------
+1. Antwain Banks
+   Email: abanks@jcsu.edu
+   Username: abanks
+   Original line: Antwain Banks Head Coach, Men's Basketball abanks@jcsu.edu
+
+2. Trevin Parks
+   Email: tparks@jcsu.edu
+   Username: tparks
+   Original line: Trevin Parks Assistant Coach, Men's Basketball tparks@jcsu.edu 704-378-
+
+3. Joseph C.
+   Email: jmtoney@jcsu.edu
+   Username: jmtoney
+   Original line: Joseph C. Martin-Toney Assistant Coach, Men's Basketball jmtoney@jcsu.edu 704-378-
+
+4. Vanessa Taylor
+   Email: vtaylor@JCSU.EDU
+   Username: vtaylor
+   Original line: Vanessa Taylor Head Coach, Women's Basketball vtaylor@JCSU.EDU
+
+5. Taisha Murphy
+   Email: tmurphy@jcsu.edu
+   Username: tmurphy
+   Original line: Taisha Murphy Assistant Coach, Women's Basketball mailto:tmurphy@jcsu.edu 704-378-
+
+6. Caleb Thomas
+   Email: cthomas02@JCSU.EDU
+   Username: cthomas02
+   Original line: Caleb Thomas Assistant Coach, Women's Basketball cthomas02@JCSU.EDU
+
+7. Ke’Aira Wilson-Cox
+   Email: kwcox@jcsu.edu
+   Username: kwcox
+   Original line: Ke’Aira Wilson-Cox Head Coach, Bowling kwcox@jcsu.edu 704-378-
+
+8. Maurice Flowers
+   Email: maflowers@jcsu.edu
+   Username: maflowers
+   Original line: Maurice Flowers Head Coach, Football maflowers@jcsu.edu 704-378-
+
+9. Kevin Thompson
+   Email: kthompson@jcsu.edu
+   Username: kthompson
+   Original line: Kevin Thompson Associate Head Coach, Football (Offensive Line) kthompson@jcsu.edu 704-378-
+
+10. Barry Tripp
+   Email: btripp@jcsu.edu
+   Username: btripp
+   Original line: Barry Tripp Assistant Head Coach, Football (Defensive btripp@jcsu.edu 704-378-
+
+11. David Bowser
+   Email: dbowser@jcsu.edu
+   Username: dbowser
+   Original line: David Bowser Assistant Coach, Football (Linebackers/ Player dbowser@jcsu.edu 704-378-
+
+12. James Lott
+   Email: jlott@jcsu.edu
+   Username: jlott
+   Original line: James Lott Assistant Coach, Football (Special Teams jlott@jcsu.edu 704-378-
+
+13. Sadat Chambers
+   Email: Schambers@jcsu.edu
+   Username: Schambers
+   Original line: Sadat Chambers Assistant Coach, Football (Tight Ends) Schambers@jcsu.edu
+
+14. Ryan Heaston
+   Email: rheaston@jcsu.edu
+   Username: rheaston
+   Original line: Ryan Heaston Assistant Coach, Football (Wide Receiver) rheaston@jcsu.edu
+
+15. Chi-Emeke Worthington
+   Email: cworthington@jcsu.edu
+   Username: cworthington
+   Original line: Chi-Emeke Worthington Assistant Coach, Football (Safeties) cworthington@jcsu.edu 704-378-
+
+16. Darius Jackson
+   Email: Dtjackson@jcsu.edu
+   Username: Dtjackson
+   Original line: Darius Jackson Assistant Coach, Football (Quarterbacks) Dtjackson@jcsu.edu
+
+17. Freddie Brown
+   Email: Frbrownjr03@yahoo.com
+   Username: Frbrownjr03
+   Original line: Freddie Brown Assistant Coach, Football (Running back) Frbrownjr03@yahoo.com
+
+18. William Watkins
+   Email: golf@jcsu.edu
+   Username: golf
+   Original line: William Watkins Head Coach, Golf golf@jcsu.edu 704-378-
+
+19. Chris McKenzie
+   Email: cmckenzie@JCSU.EDU
+   Username: cmckenzie
+   Original line: Chris McKenzie Head Softball, Coach cmckenzie@JCSU.EDU
+
+20. Carol Lawrence
+   Email: clawrence@jcsu.edu
+   Username: clawrence
+   Original line: Carol Lawrence Head Coach, Track & Field/Cross Country clawrence@jcsu.edu 704-378-
+
+21. Da'Nesha Miller
+   Email: dmiller02@jcsu.edu
+   Username: dmiller02
+   Original line: Da'Nesha Miller Head Coach, Volleyball dmiller02@jcsu.edu 704-378-
+
+22. Peggy Lide
+   Email: plide@jcsu.edu
+   Username: plide
+   Original line: Peggy Lide Luv-A-Bulls Advisor & Coach / Athletic Events plide@jcsu.edu 704-378-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Antwain Banks Head Coach, Men's Basketball abanks@jcsu.edu
+• Trevin Parks Assistant Coach, Men's Basketball tparks@jcsu.edu 704-378-
+• Joseph C. Martin-Toney Assistant Coach, Men's Basketball jmtoney@jcsu.edu 704-378-
+• Vanessa Taylor Head Coach, Women's Basketball vtaylor@JCSU.EDU
+• Taisha Murphy Assistant Coach, Women's Basketball mailto:tmurphy@jcsu.edu 704-378-
+• Caleb Thomas Assistant Coach, Women's Basketball cthomas02@JCSU.EDU
+• Ke’Aira Wilson-Cox Head Coach, Bowling kwcox@jcsu.edu 704-378-
+• Maurice Flowers Head Coach, Football maflowers@jcsu.edu 704-378-
+• Kevin Thompson Associate Head Coach, Football (Offensive Line) kthompson@jcsu.edu 704-378-
+• Barry Tripp Assistant Head Coach, Football (Defensive btripp@jcsu.edu 704-378-
+• David Bowser Assistant Coach, Football (Linebackers/ Player dbowser@jcsu.edu 704-378-
+• James Lott Assistant Coach, Football (Special Teams jlott@jcsu.edu 704-378-
+• Sadat Chambers Assistant Coach, Football (Tight Ends) Schambers@jcsu.edu
+• Ryan Heaston Assistant Coach, Football (Wide Receiver) rheaston@jcsu.edu
+• Chi-Emeke Worthington Assistant Coach, Football (Safeties) cworthington@jcsu.edu 704-378-
+• Darius Jackson Assistant Coach, Football (Quarterbacks) Dtjackson@jcsu.edu
+• Freddie Brown Assistant Coach, Football (Running back) Frbrownjr03@yahoo.com
+• William Watkins Head Coach, Golf golf@jcsu.edu 704-378-
+• Chris McKenzie Head Softball, Coach cmckenzie@JCSU.EDU
+• Carol Lawrence Head Coach, Track & Field/Cross Country clawrence@jcsu.edu 704-378-
+• Da'Nesha Miller Head Coach, Volleyball dmiller02@jcsu.edu 704-378-
+• Peggy Lide Luv-A-Bulls Advisor & Coach / Athletic Events plide@jcsu.edu 704-378-

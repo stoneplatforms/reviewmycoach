@@ -1,0 +1,291 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:46
+============================================================
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tori Stille
+   Email: stillev@bvu.edu
+   Username: stillev
+   Original line: Tori Stille Assistant Dance Coach stillev@bvu.edu
+
+2. Emma Chase
+   Email: chasem@bvu.eduq
+   Username: chasem
+   Phone: 712.749.1154
+   Original line: Emma Chase Assistant Cheer & STUNT Coach 712.749.1154 chasem@bvu.eduq Siebens Forum 205G
+
+3. Steve Eddie
+   Email: EddieS@bvu.edu
+   Username: EddieS
+   Phone: 712.749.2298
+   Original line: Steve Eddie Head Baseball Coach/Assistant Director of Athletics 712.749.2298 EddieS@bvu.edu Siebens Fieldhouse - L-
+
+4. Nate Hanner
+   Email: hannern@bvu.edu
+   Username: hannern
+   Phone: 712.749.1297
+   Original line: Nate Hanner Assistant Baseball Coach 712.749.1297 hannern@bvu.edu Siebens Fieldhouse - L-
+
+5. Brayden Polzien
+   Email: polzienb@bvu.edu
+   Username: polzienb
+   Original line: Brayden Polzien Pitching Coach polzienb@bvu.edu
+
+6. Austin Dickinson
+   Email: dickinson2@bvu.edu
+   Username: dickinson2
+   Phone: 712.749.2255
+   Original line: Austin Dickinson Head Football Coach 712.749.2255 dickinson2@bvu.edu Siebens Fieldhouse - L
+
+7. Austin Bresnahan
+   Email: bresnahana@bvu.edu
+   Username: bresnahana
+   Phone: 712.749.2259
+   Original line: Austin Bresnahan Linebackers Coach 712.749.2259 bresnahana@bvu.edu Siebens Fieldhouse - L-
+
+8. John Alicea
+   Email: aliceaj@bvu.edu
+   Username: aliceaj
+   Phone: 712.749.2259
+   Original line: John Alicea Offensive Line Coach 712.749.2259 aliceaj@bvu.edu Siebens Fieldhouse - L-
+
+9. Trevor Berneking
+   Email: bernekingt@bvu.edu
+   Username: bernekingt
+   Phone: 712.749.1454
+   Original line: Trevor Berneking Tight Ends Coach 712.749.1454 bernekingt@bvu.edu Siebens Forum 305F
+
+10. Jeff Horner
+   Email: hornerj@bvu.edu
+   Username: hornerj
+   Phone: 712.749.2252
+   Original line: Jeff Horner Head Men's Basketball Coach 712.749.2252 hornerj@bvu.edu Siebens Fieldhouse - L-
+
+11. Vince Grier
+   Email: grierv@bvu.edu
+   Username: grierv
+   Phone: 712.749.2297
+   Original line: Vince Grier Assistant Men's Basketball Coach 712.749.2297 grierv@bvu.edu Siebens Fieldhouse - L-
+
+12. Paul Loos
+   Email: loos@bvu.edu
+   Username: loos
+   Original line: Paul Loos Assistant Men's Basketball Coach loos@bvu.edu
+
+13. Ben Clark
+   Email: clarkb@bvu.edu
+   Username: clarkb
+   Phone: 712.749.2221
+   Original line: Ben Clark Assistant Men's Basketball Coach 712.749.2221 clarkb@bvu.edu Dixon Eilers - 202D
+
+14. Aaron Poor
+   Email: poorbeara@bvu.edu
+   Username: poorbeara
+   Phone: 712.749.1811
+   Original line: Aaron Poor Bear Assistant Men's Basketball Coach 712.749.1811 poorbeara@bvu.edu Dixon Eilers
+
+15. Emily Hoesing
+   Email: hoesinge@bvu.edu
+   Username: hoesinge
+   Phone: 712.749.2355
+   Original line: Emily Hoesing Head Cross Country Coach / Assistant T&F Coach 712.749.2355 hoesinge@bvu.edu Lage B-17
+
+16. Annika Powell
+   Email: pattona@bvu.edu
+   Username: pattona
+   Phone: 712.749.2080
+   Original line: Annika Powell Assistant Golf Coach 712.749.2080 pattona@bvu.edu Admissions Office
+
+17. Kelsey Resnick
+   Email: resnickk@bvu.edu
+   Username: resnickk
+   Phone: 712.749.2352
+   Original line: Kelsey Resnick Head Men's Soccer Coach 712.749.2352 resnickk@bvu.edu Siebens Fieldhouse - L-
+
+18. Chase Stiner
+   Email: stinerc@bvu.edu
+   Username: stinerc
+   Phone: 712.749.2266
+   Original line: Chase Stiner Assistant Men's Soccer Coach 712.749.2266 stinerc@bvu.edu Siebens Fieldhouse - L-
+
+19. Brett Groen
+   Email: groenb@bvu.edu
+   Username: groenb
+   Phone: 712.749.2267
+   Original line: Brett Groen Head Men's Tennis Coach 712.749.2267 groenb@bvu.edu Siebens Fieldhouse - L-
+
+20. Ty Hoover
+   Email: hoovert@bvu.edu
+   Username: hoovert
+   Phone: 712.749.2631
+   Original line: Ty Hoover Head Women's and Men's Track & Field Coach 712.749.2631 hoovert@bvu.edu Lage
+
+21. Emily Hoesing
+   Email: hoesinge@bvu.edu
+   Username: hoesinge
+   Phone: 712.749.2355
+   Original line: Emily Hoesing Head Cross Country Coach / Assistant T&F Coach 712.749.2355 hoesinge@bvu.edu Lage B-17
+
+22. Bethany Martin
+   Email: martinb@bvu.edu
+   Username: martinb
+   Phone: 712.749.2287
+   Original line: Bethany Martin Assistant Track & Field Coach - Throws & Combined 712.749.2287 martinb@bvu.edu Lage B-16
+
+23. Tammy Utley
+   Email: utleyt@bvu.edu
+   Username: utleyt
+   Phone: 712.749.2020
+   Original line: Tammy Utley Head Softball Coach 712.749.2020 utleyt@bvu.edu Siebens Fieldhouse - L-
+
+24. Lauren Greif
+   Email: greifl@bvu.edu
+   Username: greifl
+   Phone: 712.749.2020
+   Original line: Lauren Greif Assistant Softball Coach 712.749.2020 greifl@bvu.edu Siebens Fieldhouse - L-
+
+25. Kylee Boettcher
+   Email: boettcherk@bvu.edu
+   Username: boettcherk
+   Phone: 712.749.2027
+   Original line: Kylee Boettcher Head Women's Basketball Coach 712.749.2027 boettcherk@bvu.edu Siebens Fieldhouse - L-
+
+26. Kyle Bernhoft
+   Email: BernhoftK@bvu.edu
+   Username: BernhoftK
+   Phone: 712.749.2244
+   Original line: Kyle Bernhoft Assistant Women's Basketball Coach 712.749.2244 BernhoftK@bvu.edu Siebens Fieldhouse - L-
+
+27. Emily Hoesing
+   Email: hoesinge@bvu.edu
+   Username: hoesinge
+   Phone: 712.749.2355
+   Original line: Emily Hoesing Head Cross Country Coach / Assistant T&F Coach 712.749.2355 hoesinge@bvu.edu Lage B-17
+
+28. Annika Powell
+   Email: pattona@bvu.edu
+   Username: pattona
+   Phone: 712.749.2080
+   Original line: Annika Powell Assistant Golf Coach 712.749.2080 pattona@bvu.edu Admissions Office
+
+29. Mauricio Lozada
+   Email: LozadaM@bvu.edu
+   Username: LozadaM
+   Phone: 712.749.2031
+   Original line: Mauricio Lozada Head Women's Soccer Coach 712.749.2031 LozadaM@bvu.edu Siebens Fieldhouse - L-
+
+30. Trisha Westphal
+   Email: westphalt@bvu.edu
+   Username: westphalt
+   Original line: Trisha Westphal Assistant Women's Soccer Coach westphalt@bvu.edu Siebens Fieldhouse - L-
+
+31. Dan Taylor
+   Email: taylord@bvu.edu
+   Username: taylord
+   Phone: 712.749.2247
+   Original line: Dan Taylor Head Women's Tennis Coach 712.749.2247 taylord@bvu.edu Siebens Fieldhouse - L-
+
+32. Ty Hoover
+   Email: hoovert@bvu.edu
+   Username: hoovert
+   Phone: 712.749.2631
+   Original line: Ty Hoover Head Women's and Men's Track & Field Coach 712.749.2631 hoovert@bvu.edu Lage
+
+33. Emily Hoesing
+   Email: hoesinge@bvu.edu
+   Username: hoesinge
+   Phone: 712.749.2355
+   Original line: Emily Hoesing Head Cross Country Coach / Assistant T&F Coach 712.749.2355 hoesinge@bvu.edu Lage B-17
+
+34. Bethany Martin
+   Email: martinb@bvu.edu
+   Username: martinb
+   Phone: 712.749.2287
+   Original line: Bethany Martin Assistant Track & Field Coach - Throws & Combined 712.749.2287 martinb@bvu.edu Lage B-16
+
+35. Will Baumann
+   Email: baumannw@bvu.edu
+   Username: baumannw
+   Phone: 712.749.2268
+   Original line: Will Baumann Head Volleyball Coach/Assistant Director of Athletics 712.749.2268 baumannw@bvu.edu Siebens Fieldhouse - L-
+
+36. Kaitie Laughlin
+   Email: serkizk@bvu.edu
+   Username: serkizk
+   Original line: Kaitie Laughlin Assistant Volleyball Coach serkizk@bvu.edu Siebens Fieldhouse - L-
+
+37. Sean White
+   Email: whites@bvu.edu
+   Username: whites
+   Phone: 712.749.2029
+   Original line: Sean White Head Men's Wrestling Coach 712.749.2029 whites@bvu.edu Lage B1A
+
+38. Michael Elliott
+   Email: elliottm@bvu.edu
+   Username: elliottm
+   Phone: 712.749.2028
+   Original line: Michael Elliott Assistant Men's Wrestling Coach 712.749.2028 elliottm@bvu.edu Lage B1A
+
+39. Tom Mashek
+   Email: mashekt@bvu.edu
+   Username: mashekt
+   Original line: Tom Mashek Assistant Men's Wrestling Coach mashekt@bvu.edu
+
+40. Paige Storm
+   Email: StormP@bvu.edu
+   Username: StormP
+   Phone: 712.749.2032
+   Original line: Paige Storm Head Women's Wrestling Coach 712.749.2032 StormP@bvu.edu Lage B1A
+
+41. Abby McIntyre
+   Email: mcintyrea@bvu.edu
+   Username: mcintyrea
+   Original line: Abby McIntyre Assistant Women's Wrestling Coach mcintyrea@bvu.edu Lage B1A
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tori Stille Assistant Dance Coach stillev@bvu.edu
+• Emma Chase Assistant Cheer & STUNT Coach 712.749.1154 chasem@bvu.eduq Siebens Forum 205G
+• Steve Eddie Head Baseball Coach/Assistant Director of Athletics 712.749.2298 EddieS@bvu.edu Siebens Fieldhouse - L-
+• Nate Hanner Assistant Baseball Coach 712.749.1297 hannern@bvu.edu Siebens Fieldhouse - L-
+• Brayden Polzien Pitching Coach polzienb@bvu.edu
+• Austin Dickinson Head Football Coach 712.749.2255 dickinson2@bvu.edu Siebens Fieldhouse - L
+• Austin Bresnahan Linebackers Coach 712.749.2259 bresnahana@bvu.edu Siebens Fieldhouse - L-
+• John Alicea Offensive Line Coach 712.749.2259 aliceaj@bvu.edu Siebens Fieldhouse - L-
+• Trevor Berneking Tight Ends Coach 712.749.1454 bernekingt@bvu.edu Siebens Forum 305F
+• Jeff Horner Head Men's Basketball Coach 712.749.2252 hornerj@bvu.edu Siebens Fieldhouse - L-
+• Vince Grier Assistant Men's Basketball Coach 712.749.2297 grierv@bvu.edu Siebens Fieldhouse - L-
+• Paul Loos Assistant Men's Basketball Coach loos@bvu.edu
+• Ben Clark Assistant Men's Basketball Coach 712.749.2221 clarkb@bvu.edu Dixon Eilers - 202D
+• Aaron Poor Bear Assistant Men's Basketball Coach 712.749.1811 poorbeara@bvu.edu Dixon Eilers
+• Emily Hoesing Head Cross Country Coach / Assistant T&F Coach 712.749.2355 hoesinge@bvu.edu Lage B-17
+• Annika Powell Assistant Golf Coach 712.749.2080 pattona@bvu.edu Admissions Office
+• Kelsey Resnick Head Men's Soccer Coach 712.749.2352 resnickk@bvu.edu Siebens Fieldhouse - L-
+• Chase Stiner Assistant Men's Soccer Coach 712.749.2266 stinerc@bvu.edu Siebens Fieldhouse - L-
+• Brett Groen Head Men's Tennis Coach 712.749.2267 groenb@bvu.edu Siebens Fieldhouse - L-
+• Ty Hoover Head Women's and Men's Track & Field Coach 712.749.2631 hoovert@bvu.edu Lage
+• Emily Hoesing Head Cross Country Coach / Assistant T&F Coach 712.749.2355 hoesinge@bvu.edu Lage B-17
+• Bethany Martin Assistant Track & Field Coach - Throws & Combined 712.749.2287 martinb@bvu.edu Lage B-16
+• Tammy Utley Head Softball Coach 712.749.2020 utleyt@bvu.edu Siebens Fieldhouse - L-
+• Lauren Greif Assistant Softball Coach 712.749.2020 greifl@bvu.edu Siebens Fieldhouse - L-
+• Kylee Boettcher Head Women's Basketball Coach 712.749.2027 boettcherk@bvu.edu Siebens Fieldhouse - L-
+• Kyle Bernhoft Assistant Women's Basketball Coach 712.749.2244 BernhoftK@bvu.edu Siebens Fieldhouse - L-
+• Emily Hoesing Head Cross Country Coach / Assistant T&F Coach 712.749.2355 hoesinge@bvu.edu Lage B-17
+• Annika Powell Assistant Golf Coach 712.749.2080 pattona@bvu.edu Admissions Office
+• Mauricio Lozada Head Women's Soccer Coach 712.749.2031 LozadaM@bvu.edu Siebens Fieldhouse - L-
+• Trisha Westphal Assistant Women's Soccer Coach westphalt@bvu.edu Siebens Fieldhouse - L-
+• Dan Taylor Head Women's Tennis Coach 712.749.2247 taylord@bvu.edu Siebens Fieldhouse - L-
+• Ty Hoover Head Women's and Men's Track & Field Coach 712.749.2631 hoovert@bvu.edu Lage
+• Emily Hoesing Head Cross Country Coach / Assistant T&F Coach 712.749.2355 hoesinge@bvu.edu Lage B-17
+• Bethany Martin Assistant Track & Field Coach - Throws & Combined 712.749.2287 martinb@bvu.edu Lage B-16
+• Will Baumann Head Volleyball Coach/Assistant Director of Athletics 712.749.2268 baumannw@bvu.edu Siebens Fieldhouse - L-
+• Kaitie Laughlin Assistant Volleyball Coach serkizk@bvu.edu Siebens Fieldhouse - L-
+• Sean White Head Men's Wrestling Coach 712.749.2029 whites@bvu.edu Lage B1A
+• Michael Elliott Assistant Men's Wrestling Coach 712.749.2028 elliottm@bvu.edu Lage B1A
+• Tom Mashek Assistant Men's Wrestling Coach mashekt@bvu.edu
+• Paige Storm Head Women's Wrestling Coach 712.749.2032 StormP@bvu.edu Lage B1A
+• Abby McIntyre Assistant Women's Wrestling Coach mcintyrea@bvu.edu Lage B1A

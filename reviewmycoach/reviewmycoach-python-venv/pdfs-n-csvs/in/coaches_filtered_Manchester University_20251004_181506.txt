@@ -1,0 +1,209 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:06
+============================================================
+
+Total coaches found: 33
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rick Espeset
+   Email: rbespeset@manchester.edu
+   Username: rbespeset
+   Original line: Rick Espeset Director of Athletics & Head Baseball Coach rbespeset@manchester.edu 260-982-
+
+2. Sara Emerich
+   Email: sjemerich@manchester.edu
+   Username: sjemerich
+   Original line: Sara Emerich Head Softball Coach, Senior Woman Administrator, & Assistant Athletic sjemerich@manchester.edu 260-982-
+
+3. Rick Espeset
+   Email: rbespeset@manchester.edu
+   Username: rbespeset
+   Original line: Rick Espeset Director of Athletics & Head Baseball Coach rbespeset@manchester.edu 260-982-
+
+4. Kyle Baker
+   Email: kabaker@manchester.edu
+   Username: kabaker
+   Original line: Kyle Baker Assistant Baseball Coach kabaker@manchester.edu 260-982-
+
+5. Josh Brock
+   Email: jgbrock@manchester.edu
+   Username: jgbrock
+   Original line: Josh Brock Assistant Baseball Coach jgbrock@manchester.edu 260-982-
+
+6. Tom Davidson
+   Email: davidsontom22@gmail.com
+   Username: davidsontom22
+   Original line: Tom Davidson Assistant Baseball Coach davidsontom22@gmail.com
+
+7. Shane Smith
+   Email: sesmith@manchester.edu
+   Username: sesmith
+   Original line: Shane Smith Assistant Baseball Coach sesmith@manchester.edu
+
+8. Sam Katon
+   Email: swkaton@manchester.edu
+   Username: swkaton
+   Original line: Sam Katon Assistant Cross Country and Track & Field Coach - Throws swkaton@manchester.edu 260-982-
+
+9. Andre White
+   Email: afwhite@manchester.edu
+   Username: afwhite
+   Original line: Andre White Assistant Cross Country and Track & Field Coach - Sprints & Jumps afwhite@manchester.edu 260-982-
+
+10. Blake Harris
+   Email: bmharris@manchester.edu
+   Username: bmharris
+   Original line: Blake Harris Assistant Cross Country and Track & Field Coach - Distance bmharris@manchester.edu 260-982-
+
+11. Vann Hunt
+   Email: vahunt@manchester.edu
+   Username: vahunt
+   Original line: Vann Hunt Head Football Coach vahunt@manchester.edu 260-982-
+
+12. Walter Raines
+   Email: wcraines@manchester.edu
+   Username: wcraines
+   Original line: Walter Raines Assistant Football Coach wcraines@manchester.edu
+
+13. Alan Bowen
+   Email: AMBowen@manchester.edu
+   Username: AMBowen
+   Original line: Alan Bowen Assistant Football Coach - Defensive Coordinator AMBowen@manchester.edu
+
+14. Aeneas Bell
+   Email: ajbell@manchester.edu
+   Username: ajbell
+   Original line: Aeneas Bell Assistant Football Coach ajbell@manchester.edu 260-982-
+
+15. Max Anderson
+   Email: mtanderson@manchester.edu
+   Username: mtanderson
+   Original line: Max Anderson Assistant Football Coach - Offensive Line mtanderson@manchester.edu 260-982-
+
+16. Warren Thomas
+   Email: wdthomas@manchester.edu
+   Username: wdthomas
+   Original line: Warren Thomas Assistant Football Coach - Deffensive Line wdthomas@manchester.edu 260-982-
+
+17. Brian Staats
+   Email: bdstaats@manchester.edu
+   Username: bdstaats
+   Original line: Brian Staats Assistant Football Coach - Offensive Coordinator & Quarterbacks bdstaats@manchester.edu 260-982-
+
+18. Cole Carder
+   Email: cjcarder@manchester.edu
+   Username: cjcarder
+   Original line: Cole Carder Assistant Men's Basketball Coach cjcarder@manchester.edu 260-982-
+
+19. Darren Ridenour
+   Email: dpridenour@manchester.edu
+   Username: dpridenour
+   Original line: Darren Ridenour Head Swimming & Diving Coach dpridenour@manchester.edu 260-982-
+
+20. Parker York
+   Email: pkyork@manchester.edu
+   Username: pkyork
+   Original line: Parker York Assistant Swimming & Diving Coach pkyork@manchester.edu 260-982-
+
+21. Olaoluwade Ladapo
+   Email: ooladapo@manchester.edu
+   Username: ooladapo
+   Original line: Olaoluwade Ladapo Head Men's Soccer Coach ooladapo@manchester.edu 260-982-
+
+22. Cory Mitchell
+   Email: wcmitchell@manchester.edu
+   Username: wcmitchell
+   Original line: Cory Mitchell Assistant Men's Soccer Coach wcmitchell@manchester.edu 260-982-
+
+23. Kyle Watson
+   Email: kdwatson@manchester.edu
+   Username: kdwatson
+   Original line: Kyle Watson Head Men's & Women's Tennis Coach kdwatson@manchester.edu 260-982-
+
+24. Sara Emerich
+   Email: sjemerich@manchester.edu
+   Username: sjemerich
+   Original line: Sara Emerich Head Softball Coach, Senior Woman Administrator, & Assistant Athletic sjemerich@manchester.edu 260-982-
+
+25. Rachel Oberholtzer
+   Email: rnoberholtzer@manchester.edu
+   Username: rnoberholtzer
+   Original line: Rachel Oberholtzer Assistant Softball Coach rnoberholtzer@manchester.edu 260-982-
+
+26. Scott Jennings
+   Email: sajennings@manchester.edu
+   Username: sajennings
+   Original line: Scott Jennings Assistant Coach, Women's Basketball sajennings@manchester.edu 260-982-
+
+27. Jamie Peters
+   Email: jpeters@manchester.edu
+   Username: jpeters
+   Original line: Jamie Peters Head Women's Soccer Coach jpeters@manchester.edu 260-982-
+
+28. Malia Velker
+   Email: mjvelker@manchester.edu
+   Username: mjvelker
+   Original line: Malia Velker Assistant Women's Soccer Coach mjvelker@manchester.edu 260-982-
+
+29. Ivan Matos
+   Email: ijmatos@manchester.edu
+   Username: ijmatos
+   Original line: Ivan Matos Head Volleyball Coach ijmatos@manchester.edu 260-982-
+
+30. Corinne Savage
+   Email: cmsavage@manchester.edu
+   Username: cmsavage
+   Original line: Corinne Savage Assistant Volleyball Coach cmsavage@manchester.edu 260-982-
+
+31. Trevor Young
+   Email: tkyoung@manchester.edu
+   Username: tkyoung
+   Original line: Trevor Young Associate Head Coach for Women’s Wrestling tkyoung@manchester.edu 260-982-
+
+32. JaVon Phillips
+   Email: jlphillips@manchester.edu
+   Username: jlphillips
+   Original line: JaVon Phillips Associate Head Coach For Men's Wrestling jlphillips@manchester.edu
+
+33. Mikka Hunt
+   Email: mjhunt@manchester.edu
+   Username: mjhunt
+   Original line: Mikka Hunt Head Cheerleading Coach - Sideline mjhunt@manchester.edu 260-982-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rick Espeset Director of Athletics & Head Baseball Coach rbespeset@manchester.edu 260-982-
+• Sara Emerich Head Softball Coach, Senior Woman Administrator, & Assistant Athletic sjemerich@manchester.edu 260-982-
+• Rick Espeset Director of Athletics & Head Baseball Coach rbespeset@manchester.edu 260-982-
+• Kyle Baker Assistant Baseball Coach kabaker@manchester.edu 260-982-
+• Josh Brock Assistant Baseball Coach jgbrock@manchester.edu 260-982-
+• Tom Davidson Assistant Baseball Coach davidsontom22@gmail.com
+• Shane Smith Assistant Baseball Coach sesmith@manchester.edu
+• Sam Katon Assistant Cross Country and Track & Field Coach - Throws swkaton@manchester.edu 260-982-
+• Andre White Assistant Cross Country and Track & Field Coach - Sprints & Jumps afwhite@manchester.edu 260-982-
+• Blake Harris Assistant Cross Country and Track & Field Coach - Distance bmharris@manchester.edu 260-982-
+• Vann Hunt Head Football Coach vahunt@manchester.edu 260-982-
+• Walter Raines Assistant Football Coach wcraines@manchester.edu
+• Alan Bowen Assistant Football Coach - Defensive Coordinator AMBowen@manchester.edu
+• Aeneas Bell Assistant Football Coach ajbell@manchester.edu 260-982-
+• Max Anderson Assistant Football Coach - Offensive Line mtanderson@manchester.edu 260-982-
+• Warren Thomas Assistant Football Coach - Deffensive Line wdthomas@manchester.edu 260-982-
+• Brian Staats Assistant Football Coach - Offensive Coordinator & Quarterbacks bdstaats@manchester.edu 260-982-
+• Cole Carder Assistant Men's Basketball Coach cjcarder@manchester.edu 260-982-
+• Darren Ridenour Head Swimming & Diving Coach dpridenour@manchester.edu 260-982-
+• Parker York Assistant Swimming & Diving Coach pkyork@manchester.edu 260-982-
+• Olaoluwade Ladapo Head Men's Soccer Coach ooladapo@manchester.edu 260-982-
+• Cory Mitchell Assistant Men's Soccer Coach wcmitchell@manchester.edu 260-982-
+• Kyle Watson Head Men's & Women's Tennis Coach kdwatson@manchester.edu 260-982-
+• Sara Emerich Head Softball Coach, Senior Woman Administrator, & Assistant Athletic sjemerich@manchester.edu 260-982-
+• Rachel Oberholtzer Assistant Softball Coach rnoberholtzer@manchester.edu 260-982-
+• Scott Jennings Assistant Coach, Women's Basketball sajennings@manchester.edu 260-982-
+• Jamie Peters Head Women's Soccer Coach jpeters@manchester.edu 260-982-
+• Malia Velker Assistant Women's Soccer Coach mjvelker@manchester.edu 260-982-
+• Ivan Matos Head Volleyball Coach ijmatos@manchester.edu 260-982-
+• Corinne Savage Assistant Volleyball Coach cmsavage@manchester.edu 260-982-
+• Trevor Young Associate Head Coach for Women’s Wrestling tkyoung@manchester.edu 260-982-
+• JaVon Phillips Associate Head Coach For Men's Wrestling jlphillips@manchester.edu
+• Mikka Hunt Head Cheerleading Coach - Sideline mjhunt@manchester.edu 260-982-

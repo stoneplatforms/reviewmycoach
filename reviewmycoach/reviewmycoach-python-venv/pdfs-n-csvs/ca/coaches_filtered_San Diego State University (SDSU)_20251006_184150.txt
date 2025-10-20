@@ -1,0 +1,292 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:51
+============================================================
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jennifer Long
+   Email: coachjenlong@aol.com
+   Username: coachjenlong
+   Original line: Jennifer Long Cheer Coach coachjenlong@aol.com
+
+2. Daniel Marshall
+   Email: dlmarshall@sdsu.edu
+   Username: dlmarshall
+   Phone: (619) 594-7779
+   Original line: Daniel Marshall Conditioning Coach (Men’s dlmarshall@sdsu.edu 619-594-7779
+
+3. Kevin Vance
+   Email: goaztecsbaseball@sdsu.edu
+   Username: goaztecsbaseball
+   Original line: Kevin Vance Head Coach goaztecsbaseball@sdsu.edu
+
+4. Tyler Holt
+   Email: taholt@sdsu.edu
+   Username: taholt
+   Original line: Tyler Holt Assistant Coach taholt@sdsu.edu
+
+5. Assistant Coach
+   Email: bpmcdonald@sdsu.edu
+   Username: bpmcdonald
+   Original line: Assistant Coach bpmcdonald@sdsu.edu
+
+6. Brian Dutcher
+   Email: headcoachdutcher@sdsu.edu
+   Username: headcoachdutcher
+   Original line: Brian Dutcher Head Coach headcoachdutcher@sdsu.edu
+
+7. Assistant Coach
+   Email: dvelasqu@sdsu.edu
+   Username: dvelasqu
+   Original line: Assistant Coach dvelasqu@sdsu.edu
+
+8. JayDee Luster
+   Email: jluster2@sdsu.edu
+   Username: jluster2
+   Original line: JayDee Luster Assistant Coach jluster2@sdsu.edu
+
+9. Ryan Badrtalei
+   Email: rbadrtalei@sdsu.edu
+   Username: rbadrtalei
+   Original line: Ryan Badrtalei Assistant Coach rbadrtalei@sdsu.edu
+
+10. Daniel Marshall
+   Email: dlmarshall@sdsu.edu
+   Username: dlmarshall
+   Phone: (619) 594-7779
+   Original line: Daniel Marshall Conditioning Coach (Men’s dlmarshall@sdsu.edu 619-594-7779
+
+11. Head Coach
+   Email: aztecwbb@sdsu.edu
+   Username: aztecwbb
+   Original line: Head Coach aztecwbb@sdsu.edu
+
+12. Kellie Lewis
+   Email: klewis5@sdsu.edu
+   Username: klewis5
+   Original line: Kellie Lewis Associate Head Coach klewis5@sdsu.edu
+
+13. Gregg Gottlieb
+   Email: ggottlieb@sdsu.edu
+   Username: ggottlieb
+   Original line: Gregg Gottlieb Assistant Coach ggottlieb@sdsu.edu
+
+14. Shelia Burrell
+   Email: sburrell@sdsu.edu
+   Username: sburrell
+   Phone: (619) 594-5514
+   Original line: Shelia Burrell Head Coach sburrell@sdsu.edu 619-594-5514
+
+15. Sean Lewis
+   Email: sdsufootball@sdsu.edu
+   Username: sdsufootball
+   Phone: (619) 594-7197
+   Original line: Sean Lewis Head Coach sdsufootball@sdsu.edu 619-594-7197
+
+16. Roy Manning
+   Email: sdsufootball@sdsu.edu
+   Username: sdsufootball
+   Phone: (619) 594-7197
+   Original line: Roy Manning Assistant Coach (EDGEs) sdsufootball@sdsu.edu 619-594-7197
+
+17. C.J. McGorisk
+   Email: sdsufootball@sdsu.edu
+   Username: sdsufootball
+   Phone: (619) 594-7197
+   Original line: C.J. McGorisk Assistant Coach (Safeties) sdsufootball@sdsu.edu 619-594-7197
+
+18. Josh Gliege
+   Email: jgliege@sdsu.edu
+   Username: jgliege
+   Phone: (619) 594-4334
+   Original line: Josh Gliege Assistant Coach jgliege@sdsu.edu 619-594-4334
+
+19. Head Coach
+   Email: ldobashi@sdsu.edu
+   Username: ldobashi
+   Phone: (619) 594-7665
+   Original line: Head Coach ldobashi@sdsu.edu 619-594-7665
+
+20. Sandy Choi
+   Email: hchoi3@sdsu.edu
+   Username: hchoi3
+   Phone: (619) 594-7665
+   Original line: Sandy Choi Assistant Coach hchoi3@sdsu.edu 619-594-7665
+
+21. Kylee White
+   Email: kylee.white@sdsu.edu
+   Username: kylee.white
+   Phone: (619) 594-6548
+   Original line: Kylee White Head Coach kylee.white@sdsu.edu 619-594-6548
+
+22. Brandi Padilla
+   Email: bjones@sdsu.edu
+   Username: bjones
+   Phone: (619) 594-6548
+   Original line: Brandi Padilla Associate Head Coach bjones@sdsu.edu 619-594-6548
+
+23. Rob Bray
+   Email: rbrayjr@sdsu.edu
+   Username: rbrayjr
+   Phone: (619) 594-6548
+   Original line: Rob Bray Assistant Coach rbrayjr@sdsu.edu 619-594-6548
+
+24. Ryan Hopkins
+   Email: aztecmenssoccer@sdsu.edu
+   Username: aztecmenssoccer
+   Original line: Ryan Hopkins Head Coach aztecmenssoccer@sdsu.edu
+
+25. Adrian Dubois
+   Email: adubois@sdsu.edu
+   Username: adubois
+   Phone: (619) 594-0463
+   Original line: Adrian Dubois Assistant Coach adubois@sdsu.edu 619-594-0463
+
+26. David Diaz
+   Email: dediaz@sdsu.edu
+   Username: dediaz
+   Original line: David Diaz Assistant Coach dediaz@sdsu.edu
+
+27. Mike Friesen
+   Email: wsoccer@sdsu.edu
+   Username: wsoccer
+   Phone: (619) 594-3749
+   Original line: Mike Friesen Head Coach wsoccer@sdsu.edu 619-594-3749
+
+28. Associate Head
+   Email: chassion.griggs@sdsu.edu
+   Username: chassion.griggs
+   Phone: (619) 594-1916
+   Original line: Associate Head Coach chassion.griggs@sdsu.edu 619-594-1916
+
+29. Louis Hunt
+   Email: lhunt@sdsu.edu
+   Username: lhunt
+   Original line: Louis Hunt Assistant Coach lhunt@sdsu.edu
+
+30. Sean Williams
+   Email: swilliams11@sdsu.edu
+   Username: swilliams11
+   Original line: Sean Williams Assistant Coach swilliams11@sdsu.edu
+
+31. Nuveman Head
+   Email: snuveman@sdsu.edu
+   Username: snuveman
+   Phone: (619) 594-5853
+   Original line: Nuveman Head Coach snuveman@sdsu.edu 619-594-5853
+
+32. Caitlin Grimes
+   Email: crgrimes@sdsu.edu
+   Username: crgrimes
+   Original line: Caitlin Grimes Assistant Coach crgrimes@sdsu.edu
+
+33. Nickles- Assistant
+   Email: mnickles@sdsu.edu
+   Username: mnickles
+   Original line: Nickles- Assistant Coach mnickles@sdsu.edu
+
+34. Mike Shrader
+   Email: mshrader@sdsu.edu
+   Username: mshrader
+   Phone: (619) 594-5883
+   Original line: Mike Shrader Head Coach mshrader@sdsu.edu 619-594-5883
+
+35. Joe Spahn
+   Email: jspahn@sdsu.edu
+   Username: jspahn
+   Original line: Joe Spahn Associate Head Coach jspahn@sdsu.edu
+
+36. Diving Coach
+   Email: rmcdonald@sdsu.edu
+   Username: rmcdonald
+   Phone: (619) 594-0395
+   Original line: Diving Coach rmcdonald@sdsu.edu 619-594-0395
+
+37. Gene Carswell
+   Email: carswell@sdsu.edu
+   Username: carswell
+   Phone: (619) 594-5084
+   Original line: Gene Carswell Head Coach carswell@sdsu.edu 619-594-5084
+
+38. Jeff Thomsen
+   Email: jthomsen@sdsu.edu
+   Username: jthomsen
+   Phone: (619) 594-5713
+   Original line: Jeff Thomsen Associate Head Coach jthomsen@sdsu.edu 619-594-5713
+
+39. Nicolas Vinel
+   Email: nvinel@sdsu.edu
+   Username: nvinel
+   Phone: (619) 594-5900
+   Original line: Nicolas Vinel Head Coach nvinel@sdsu.edu 619-594-5900
+
+40. Dylan Parsley
+   Email: dparsley@sdsu.edu
+   Username: dparsley
+   Original line: Dylan Parsley Assistant Coach dparsley@sdsu.edu
+
+41. Brent Hilliard
+   Email: bhilliard@sdsu.edu
+   Username: bhilliard
+   Phone: (619) 594-5064
+   Original line: Brent Hilliard Head Coach bhilliard@sdsu.edu 619-594-5064
+
+42. Assistant Coach
+   Email: stimmons2@sdsu.edu
+   Username: stimmons2
+   Original line: Assistant Coach stimmons2@sdsu.edu
+
+43. Dana Ochsner
+   Email: dochsner@sdsu.edu
+   Username: dochsner
+   Phone: (619) 594-0649
+   Original line: Dana Ochsner Head Coach dochsner@sdsu.edu 619-594-0649
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jennifer Long Cheer Coach coachjenlong@aol.com
+• Daniel Marshall Conditioning Coach (Men’s dlmarshall@sdsu.edu 619-594-7779
+• Kevin Vance Head Coach goaztecsbaseball@sdsu.edu
+• Tyler Holt Assistant Coach taholt@sdsu.edu
+• Assistant Coach bpmcdonald@sdsu.edu
+• Brian Dutcher Head Coach headcoachdutcher@sdsu.edu
+• Assistant Coach dvelasqu@sdsu.edu
+• JayDee Luster Assistant Coach jluster2@sdsu.edu
+• Ryan Badrtalei Assistant Coach rbadrtalei@sdsu.edu
+• Daniel Marshall Conditioning Coach (Men’s dlmarshall@sdsu.edu 619-594-7779
+• Head Coach aztecwbb@sdsu.edu
+• Kellie Lewis Associate Head Coach klewis5@sdsu.edu
+• Gregg Gottlieb Assistant Coach ggottlieb@sdsu.edu
+• Shelia Burrell Head Coach sburrell@sdsu.edu 619-594-5514
+• Sean Lewis Head Coach sdsufootball@sdsu.edu 619-594-7197
+• Roy Manning Assistant Coach (EDGEs) sdsufootball@sdsu.edu 619-594-7197
+• C.J. McGorisk Assistant Coach (Safeties) sdsufootball@sdsu.edu 619-594-7197
+• Josh Gliege Assistant Coach jgliege@sdsu.edu 619-594-4334
+• Head Coach ldobashi@sdsu.edu 619-594-7665
+• Sandy Choi Assistant Coach hchoi3@sdsu.edu 619-594-7665
+• Kylee White Head Coach kylee.white@sdsu.edu 619-594-6548
+• Brandi Padilla Associate Head Coach bjones@sdsu.edu 619-594-6548
+• Rob Bray Assistant Coach rbrayjr@sdsu.edu 619-594-6548
+• Ryan Hopkins Head Coach aztecmenssoccer@sdsu.edu
+• Adrian Dubois Assistant Coach adubois@sdsu.edu 619-594-0463
+• David Diaz Assistant Coach dediaz@sdsu.edu
+• Mike Friesen Head Coach wsoccer@sdsu.edu 619-594-3749
+• Associate Head Coach chassion.griggs@sdsu.edu 619-594-1916
+• Louis Hunt Assistant Coach lhunt@sdsu.edu
+• Sean Williams Assistant Coach swilliams11@sdsu.edu
+• Nuveman Head Coach snuveman@sdsu.edu 619-594-5853
+• Caitlin Grimes Assistant Coach crgrimes@sdsu.edu
+• Nickles- Assistant Coach mnickles@sdsu.edu
+• Mike Shrader Head Coach mshrader@sdsu.edu 619-594-5883
+• Joe Spahn Associate Head Coach jspahn@sdsu.edu
+• Diving Coach rmcdonald@sdsu.edu 619-594-0395
+• Gene Carswell Head Coach carswell@sdsu.edu 619-594-5084
+• Jeff Thomsen Associate Head Coach jthomsen@sdsu.edu 619-594-5713
+• Nicolas Vinel Head Coach nvinel@sdsu.edu 619-594-5900
+• Dylan Parsley Assistant Coach dparsley@sdsu.edu
+• Brent Hilliard Head Coach bhilliard@sdsu.edu 619-594-5064
+• Assistant Coach stimmons2@sdsu.edu
+• Dana Ochsner Head Coach dochsner@sdsu.edu 619-594-0649

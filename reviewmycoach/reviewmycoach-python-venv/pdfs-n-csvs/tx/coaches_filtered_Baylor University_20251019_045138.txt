@@ -1,0 +1,239 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:41
+============================================================
+
+Total coaches found: 38
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: Felecia_Mulkey@Baylor.edu
+   Username: Felecia_Mulkey
+   Original line: Head Coach Felecia_Mulkey@Baylor.edu
+
+2. Assistant Coach
+   Email: Kelsey_Rowell@Baylor.edu
+   Username: Kelsey_Rowell
+   Original line: Assistant Coach Kelsey_Rowell@Baylor.edu
+
+3. Head Coach
+   Email: Scott_Drew@Baylor.edu
+   Username: Scott_Drew
+   Original line: Head Coach Scott_Drew@Baylor.edu
+
+4. Associate Head
+   Email: Ronald_Sanchez@Baylor.edu
+   Username: Ronald_Sanchez
+   Original line: Associate Head Coach Ronald_Sanchez@Baylor.edu
+
+5. Assistant Coach
+   Email: Jared_Nuness@Baylor.edu
+   Username: Jared_Nuness
+   Original line: Assistant Coach Jared_Nuness@Baylor.edu
+
+6. Assistant Coach
+   Email: Tweety_Carter@Baylor.edu
+   Username: Tweety_Carter
+   Original line: Assistant Coach Tweety_Carter@Baylor.edu
+
+7. Assistant Coach
+   Email: Steve_M_Henson@Baylor.edu
+   Username: Steve_M_Henson
+   Original line: Assistant Coach Steve_M_Henson@Baylor.edu
+
+8. Assistant Coach
+   Email: Melvin_Hunt@Baylor.edu
+   Username: Melvin_Hunt
+   Original line: Assistant Coach Melvin_Hunt@Baylor.edu
+
+9. Associate Head
+   Email: Tony_Greene@Baylor.edu
+   Username: Tony_Greene
+   Original line: Associate Head Coach Tony_Greene@Baylor.edu
+
+10. Associate Head
+   Email: Johnnie_Harris@Baylor.edu
+   Username: Johnnie_Harris
+   Original line: Associate Head Coach Johnnie_Harris@Baylor.edu
+
+11. Assistant Coach
+   Email: Aaron_Sternecker@Baylor.edu
+   Username: Aaron_Sternecker
+   Original line: Assistant Coach Aaron_Sternecker@Baylor.edu
+
+12. Assistant Coach
+   Email: Jaelyn_RichardHarris@Baylor.edu
+   Username: Jaelyn_RichardHarris
+   Original line: Assistant Coach Jaelyn_RichardHarris@Baylor.edu
+
+13. Assistant Coach
+   Email: Tez_Dumars@Baylor.edu
+   Username: Tez_Dumars
+   Original line: Assistant Coach Tez_Dumars@Baylor.edu
+
+14. Head Coach
+   Email: Jeff_Grigus@Baylor.edu
+   Username: Jeff_Grigus
+   Original line: Head Coach Jeff_Grigus@Baylor.edu
+
+15. Associate Head
+   Email: Khenon_Hall@Baylor.edu
+   Username: Khenon_Hall
+   Original line: Associate Head Coach | Running Backs Khenon_Hall@Baylor.edu
+
+16. Assistant Coach
+   Email: Jarrett_Anderson@Baylor.edu
+   Username: Jarrett_Anderson
+   Original line: Assistant Coach | Tight Ends Jarrett_Anderson@Baylor.edu
+
+17. Assistant Coach
+   Email: Dallas_Baker@Baylor.edu
+   Username: Dallas_Baker
+   Original line: Assistant Coach | Wide Receivers Dallas_Baker@Baylor.edu
+
+18. Assistant Coach
+   Email: Inoke_Breckterfield@Baylor.edu
+   Username: Inoke_Breckterfield
+   Original line: Assistant Coach | Defensive Line Inoke_Breckterfield@Baylor.edu
+
+19. Assistant Coach
+   Email: Jamar_Chaney@Baylor.edu
+   Username: Jamar_Chaney
+   Original line: Assistant Coach | Inside Linebackers Jamar_Chaney@Baylor.edu
+
+20. Assistant Coach
+   Email: Carson_Hall@Baylor.edu
+   Username: Carson_Hall
+   Original line: Assistant Coach | Outside Linebackers Carson_Hall@Baylor.edu
+
+21. Assistant Coach
+   Email: Mason_Miller@Baylor.edu
+   Username: Mason_Miller
+   Original line: Assistant Coach | Offensive Line Mason_Miller@Baylor.edu
+
+22. Assistant Coach
+   Email: Rhett_Holcomb@Baylor.edu
+   Username: Rhett_Holcomb
+   Original line: Assistant Coach | Quarterbacks Rhett_Holcomb@Baylor.edu
+
+23. Assistant Coach
+   Email: Anthony_Marciano@Baylor.edu
+   Username: Anthony_Marciano
+   Original line: Assistant Coach | Linebackers Anthony_Marciano@Baylor.edu
+
+24. Head Coach
+   Email: Michael_J_McGraw@Baylor.edu
+   Username: Michael_J_McGraw
+   Original line: Head Coach Michael_J_McGraw@Baylor.edu
+
+25. Head Coach
+   Email: Jay_Goble@Baylor.edu
+   Username: Jay_Goble
+   Original line: Head Coach Jay_Goble@Baylor.edu
+
+26. Head Coach
+   Email: Glenn_Moore@Baylor.edu
+   Username: Glenn_Moore
+   Original line: Head Coach Glenn_Moore@Baylor.edu
+
+27. Associate Head
+   Email: Britni_Newman@Baylor.edu
+   Username: Britni_Newman
+   Original line: Associate Head Coach Britni_Newman@Baylor.edu
+
+28. Assistant Coach
+   Email: Steve_Johnigan@Baylor.edu
+   Username: Steve_Johnigan
+   Original line: Assistant Coach Steve_Johnigan@Baylor.edu
+
+29. Head Coach
+   Email: Michael_Woodson@Baylor.edu
+   Username: Michael_Woodson
+   Original line: Head Coach Michael_Woodson@Baylor.edu
+
+30. Associate Head
+   Email: Izak_VanderMerwe@Baylor.edu
+   Username: Izak_VanderMerwe
+   Original line: Associate Head Coach Izak_VanderMerwe@Baylor.edu
+
+31. Head Coach
+   Email: Joey_Scrivano@Baylor.edu
+   Username: Joey_Scrivano
+   Original line: Head Coach and Director of Women's Tennis Joey_Scrivano@Baylor.edu
+
+32. Head Coach
+   Email: Michael_Ford@Baylor.edu
+   Username: Michael_Ford
+   Original line: Head Coach Michael_Ford@Baylor.edu
+
+33. Track &
+   Email: Stacey_Smith@Baylor.edu
+   Username: Stacey_Smith
+   Original line: Track & Field Associate Head Coach Stacey_Smith@Baylor.edu
+
+34. Assistant Track
+   Email: B_Dalton@Baylor.edu
+   Username: B_Dalton
+   Original line: Assistant Track & Field Coach/Recruiting Coordinator B_Dalton@Baylor.edu
+
+35. Head Coach
+   Email: Ryan_McGuyre@Baylor.edu
+   Username: Ryan_McGuyre
+   Original line: Head Coach Ryan_McGuyre@Baylor.edu
+
+36. Associate Head
+   Email: Joshua_Walker@Baylor.edu
+   Username: Joshua_Walker
+   Original line: Associate Head Coach Joshua_Walker@Baylor.edu
+
+37. Assistant Coach
+   Email: Shelby_Livingstone@Baylor.edu
+   Username: Shelby_Livingstone
+   Original line: Assistant Coach Shelby_Livingstone@Baylor.edu
+
+38. Assistant Coach/Recruiting
+   Email: Jorge_Penate@Baylor.edu
+   Username: Jorge_Penate
+   Original line: Assistant Coach/Recruiting Coordinator Jorge_Penate@Baylor.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach Felecia_Mulkey@Baylor.edu
+• Assistant Coach Kelsey_Rowell@Baylor.edu
+• Head Coach Scott_Drew@Baylor.edu
+• Associate Head Coach Ronald_Sanchez@Baylor.edu
+• Assistant Coach Jared_Nuness@Baylor.edu
+• Assistant Coach Tweety_Carter@Baylor.edu
+• Assistant Coach Steve_M_Henson@Baylor.edu
+• Assistant Coach Melvin_Hunt@Baylor.edu
+• Associate Head Coach Tony_Greene@Baylor.edu
+• Associate Head Coach Johnnie_Harris@Baylor.edu
+• Assistant Coach Aaron_Sternecker@Baylor.edu
+• Assistant Coach Jaelyn_RichardHarris@Baylor.edu
+• Assistant Coach Tez_Dumars@Baylor.edu
+• Head Coach Jeff_Grigus@Baylor.edu
+• Associate Head Coach | Running Backs Khenon_Hall@Baylor.edu
+• Assistant Coach | Tight Ends Jarrett_Anderson@Baylor.edu
+• Assistant Coach | Wide Receivers Dallas_Baker@Baylor.edu
+• Assistant Coach | Defensive Line Inoke_Breckterfield@Baylor.edu
+• Assistant Coach | Inside Linebackers Jamar_Chaney@Baylor.edu
+• Assistant Coach | Outside Linebackers Carson_Hall@Baylor.edu
+• Assistant Coach | Offensive Line Mason_Miller@Baylor.edu
+• Assistant Coach | Quarterbacks Rhett_Holcomb@Baylor.edu
+• Assistant Coach | Linebackers Anthony_Marciano@Baylor.edu
+• Head Coach Michael_J_McGraw@Baylor.edu
+• Head Coach Jay_Goble@Baylor.edu
+• Head Coach Glenn_Moore@Baylor.edu
+• Associate Head Coach Britni_Newman@Baylor.edu
+• Assistant Coach Steve_Johnigan@Baylor.edu
+• Head Coach Michael_Woodson@Baylor.edu
+• Associate Head Coach Izak_VanderMerwe@Baylor.edu
+• Head Coach and Director of Women's Tennis Joey_Scrivano@Baylor.edu
+• Head Coach Michael_Ford@Baylor.edu
+• Track & Field Associate Head Coach Stacey_Smith@Baylor.edu
+• Assistant Track & Field Coach/Recruiting Coordinator B_Dalton@Baylor.edu
+• Head Coach Ryan_McGuyre@Baylor.edu
+• Associate Head Coach Joshua_Walker@Baylor.edu
+• Assistant Coach Shelby_Livingstone@Baylor.edu
+• Assistant Coach/Recruiting Coordinator Jorge_Penate@Baylor.edu

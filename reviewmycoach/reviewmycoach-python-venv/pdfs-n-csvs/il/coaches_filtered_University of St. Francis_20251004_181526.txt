@@ -1,0 +1,409 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:27
+============================================================
+
+Total coaches found: 57
+
+PARSED ENTRIES:
+----------------------------------------
+1. Cara Currier
+   Email: ccurrier@stfrancis.edu
+   Username: ccurrier
+   Phone: (815) 740-3407
+   Original line: Cara Currier Asst. Director of Athletics / Head Women's Volleyball Coach ccurrier@stfrancis.edu (815) 740-3407
+
+2. Rich Gardner
+   Email: rgardner@stfrancis.edu
+   Username: rgardner
+   Phone: (815) 740-3464
+   Original line: Rich Gardner Strength & Conditioning Coach rgardner@stfrancis.edu (815) 740-3464
+
+3. Brian Michalak
+   Email: bmichalak@stfrancis.edu
+   Username: bmichalak
+   Phone: (815) 740-3406
+   Original line: Brian Michalak Head Baseball Coach bmichalak@stfrancis.edu (815) 740-3406
+
+4. Leo Michalak
+   Email: lmichalak@stfrancis.edu
+   Username: lmichalak
+   Phone: (815) 740-3406
+   Original line: Leo Michalak Assistant Baseball Coach lmichalak@stfrancis.edu (815) 740-3406
+
+5. Sean Pierce
+   Email: spierce@stfrancis.edu
+   Username: spierce
+   Phone: (815) 740-3406
+   Original line: Sean Pierce Assistant Baseball Coach spierce@stfrancis.edu (815) 740-3406
+
+6. Luke Ketchum
+   Email: lukeketchum@stfrancis.edu
+   Username: lukeketchum
+   Phone: (815) 740-3406
+   Original line: Luke Ketchum Assistant Baseball Coach lukeketchum@stfrancis.edu (815) 740-3406
+
+7. Randy Bromberek
+   Email: rbromberek@stfrancis.edu
+   Username: rbromberek
+   Phone: (815) 740-3406
+   Original line: Randy Bromberek Assistant Baseball Coach rbromberek@stfrancis.edu (815) 740-3406
+
+8. Dan Holloway
+   Email: danielholloway@stfrancis.edu
+   Username: danielholloway
+   Phone: (815) 740-3406
+   Original line: Dan Holloway Graduate Assistant Baseball Coach danielholloway@stfrancis.edu (815) 740-3406
+
+9. Ryan Marks
+   Email: rmarks@stfrancis.edu
+   Username: rmarks
+   Phone: (815) 740-3409
+   Original line: Ryan Marks Head Men's Basketball Coach rmarks@stfrancis.edu (815) 740-3409
+
+10. Rock Allen
+   Email: rallen@stfrancis.edu
+   Username: rallen
+   Phone: (815) 740-3523
+   Original line: Rock Allen Assistant Men's Basketball Coach rallen@stfrancis.edu (815) 740-3523
+
+11. Tony Graves
+   Email: tgraves@stfrancis.edu
+   Username: tgraves
+   Phone: (815) 740-3409
+   Original line: Tony Graves Assistant Men's Basketball Coach tgraves@stfrancis.edu (815) 740-3409
+
+12. Jalen Reneau
+   Email: jalenreneau@stfrancis.edu
+   Username: jalenreneau
+   Phone: (815) 740-3409
+   Original line: Jalen Reneau Assistant Men's Basketball Coach jalenreneau@stfrancis.edu (815) 740-3409
+
+13. Rahmel Davis
+   Email: rahmeldavis@stfrancis.edu
+   Username: rahmeldavis
+   Phone: (815) 740-3409
+   Original line: Rahmel Davis Graduate Assistant Men's Basketball Coach rahmeldavis@stfrancis.edu (815) 740-3409
+
+14. John McGinty
+   Email: jmcginty@stfrancis.edu
+   Username: jmcginty
+   Phone: (815) 740-3651
+   Original line: John McGinty Head Women's Basketball Coach jmcginty@stfrancis.edu (815) 740-3651
+
+15. Jimmy Copenhaver
+   Email: jcopenhaver@stfrancis.edu
+   Username: jcopenhaver
+   Phone: (815) 740-3651
+   Original line: Jimmy Copenhaver Assistant Women's Basketball Coach jcopenhaver@stfrancis.edu (815) 740-3651
+
+16. Hannah Swiatek
+   Email: hannahswiatek@stfrancis.edu
+   Username: hannahswiatek
+   Phone: (815) 740-3651
+   Original line: Hannah Swiatek Graduate Assistant Women's Basketball Coach hannahswiatek@stfrancis.edu (815) 740-3651
+
+17. Tony Talley
+   Email: atalley@stfrancis.edu
+   Username: atalley
+   Phone: (815) 740-3464
+   Original line: Tony Talley Head Bowling Coach atalley@stfrancis.edu (815) 740-3464
+
+18. Tony Talley
+   Email: atalley@stfrancis.edu
+   Username: atalley
+   Phone: (815) 740-3464
+   Original line: Tony Talley Head Bowling Coach atalley@stfrancis.edu (815) 740-3464
+
+19. Trevor Howard
+   Email: TrevorHoward@stfrancis.edu
+   Username: TrevorHoward
+   Phone: (815) 740-3408
+   Original line: Trevor Howard Head Cross Country / Assistant Track & Field Coach TrevorHoward@stfrancis.edu (815) 740-3408
+
+20. Jeff Chiapello
+   Email: jchiapello@stfrancis.edu
+   Username: jchiapello
+   Phone: (815) 740-3408
+   Original line: Jeff Chiapello Assistant Cross Country / Track & Field Coach jchiapello@stfrancis.edu (815) 740-3408
+
+21. Ana Mendoza
+   Email: AnaMendozaPineda@stfrancis.edu
+   Username: AnaMendozaPineda
+   Phone: (815) 740-3408
+   Original line: Ana Mendoza Pineda Assistant Men's Cross Country Coach AnaMendozaPineda@stfrancis.edu (815) 740-3408
+
+22. Trevor Howard
+   Email: TrevorHoward@stfrancis.edu
+   Username: TrevorHoward
+   Phone: (815) 740-3408
+   Original line: Trevor Howard Head Cross Country / Assistant Track & Field Coach TrevorHoward@stfrancis.edu (815) 740-3408
+
+23. Jeff Chiapello
+   Email: jchiapello@stfrancis.edu
+   Username: jchiapello
+   Phone: (815) 740-3408
+   Original line: Jeff Chiapello Assistant Cross Country / Track & Field Coach jchiapello@stfrancis.edu (815) 740-3408
+
+24. Ana Mendoza
+   Email: AnaMendozaPineda@stfrancis.edu
+   Username: AnaMendozaPineda
+   Phone: (815) 740-3408
+   Original line: Ana Mendoza Pineda Assistant Women's Cross Country Coach AnaMendozaPineda@stfrancis.edu (815) 740-3408
+
+25. Joe Curry
+   Email: jcurry@stfrancis.edu
+   Username: jcurry
+   Phone: (815) 740-3410
+   Original line: Joe Curry Head Football Coach jcurry@stfrancis.edu (815) 740-3410
+
+26. Matt McCarthy
+   Email: mmccarthy@stfrancis.edu
+   Username: mmccarthy
+   Phone: (815) 740-3410
+   Original line: Matt McCarthy Assistant Head Coach / Offensive Coordinator mmccarthy@stfrancis.edu (815) 740-3410
+
+27. Thomas Miller
+   Email: tmiller@stfrancis.edu
+   Username: tmiller
+   Phone: (815) 740-3410
+   Original line: Thomas Miller Assistant Football Coach / Defensive Coordinator tmiller@stfrancis.edu (815) 740-3410
+
+28. Angel Mata
+   Email: AngelMata@stfrancis.edu
+   Username: AngelMata
+   Phone: (815) 740-3410
+   Original line: Angel Mata Assistant Football Coach AngelMata@stfrancis.edu (815) 740-3410
+
+29. Wes Welnack
+   Email: wwelnack@stfrancis.edu
+   Username: wwelnack
+   Phone: (815) 740-3410
+   Original line: Wes Welnack Assistant Football Coach wwelnack@stfrancis.edu (815) 740-3410
+
+30. Jared King
+   Email: JaredKing@stfrancis.edu
+   Username: JaredKing
+   Phone: (815) 740-3410
+   Original line: Jared King Graduate Assistant Football Coach JaredKing@stfrancis.edu (815) 740-3410
+
+31. Paul Downey
+   Email: pdowney@stfrancis.edu
+   Username: pdowney
+   Phone: (815) 768-8365
+   Original line: Paul Downey Head Men's Golf Coach pdowney@stfrancis.edu (815) 768-8365
+
+32. To Be
+   Email: dlaketa@stfrancis.edu
+   Username: dlaketa
+   Original line: To Be Announced Head Coach dlaketa@stfrancis.edu
+
+33. Nigel Dillard
+   Email: ndillard@stfrancis.edu
+   Username: ndillard
+   Phone: (815) 740-3879
+   Original line: Nigel Dillard Head Men's Soccer Coach ndillard@stfrancis.edu (815) 740-3879
+
+34. Sebastian Mireles
+   Email: smireles@stfrancis.edu
+   Username: smireles
+   Phone: (815) 740-5047
+   Original line: Sebastian Mireles Assistant Men's Soccer Coach smireles@stfrancis.edu (815) 740-5047
+
+35. Al Palar
+   Email: wpalar@stfrancis.edu
+   Username: wpalar
+   Phone: (815) 280-8801
+   Original line: Al Palar Head Women's Soccer Coach wpalar@stfrancis.edu (815) 280-8801
+
+36. Elliot Marroquin
+   Email: emarroquin@stfrancis.edu
+   Username: emarroquin
+   Phone: (815) 768-8366
+   Original line: Elliot Marroquin Assistant Women's Soccer Coach emarroquin@stfrancis.edu (815) 768-8366
+
+37. Katie Monterosso
+   Email: KathleenMonterosso@stfrancis.edu
+   Username: KathleenMonterosso
+   Phone: (815) 768-8366
+   Original line: Katie Monterosso Assistant Women's Soccer Coach KathleenMonterosso@stfrancis.edu (815) 768-8366
+
+38. Claudia Hernandez
+   Email: ClaudiaHernandez@stfrancis.edu
+   Username: ClaudiaHernandez
+   Phone: (815) 768-8366
+   Original line: Claudia Hernandez Assistant Women's Soccer Coach ClaudiaHernandez@stfrancis.edu (815) 768-8366
+
+39. Mia Perri
+   Email: miaperri@stfrancis.edu
+   Username: miaperri
+   Phone: (815) 768-8366
+   Original line: Mia Perri Assistant Women's Soccer Coach miaperri@stfrancis.edu (815) 768-8366
+
+40. Alyssa Moreno
+   Email: amoreno@stfrancis.edu
+   Username: amoreno
+   Phone: (815) 740-3614
+   Original line: Alyssa Moreno Head Softball Coach amoreno@stfrancis.edu (815) 740-3614
+
+41. Mary Bedinger
+   Email: mbedinger@stfrancis.edu
+   Username: mbedinger
+   Phone: (815) 740-3614
+   Original line: Mary Bedinger Assistant Softball Coach mbedinger@stfrancis.edu (815) 740-3614
+
+42. Dennis Jensen
+   Email: djensen@stfrancis.edu
+   Username: djensen
+   Phone: (815) 354-2927
+   Original line: Dennis Jensen Assistant Softball Coach djensen@stfrancis.edu (815) 354-2927
+
+43. Mark Ortega
+   Email: mortega@stfrancis.edu
+   Username: mortega
+   Phone: (815) 740-3464
+   Original line: Mark Ortega Head Tennis Coach mortega@stfrancis.edu (815) 740-3464
+
+44. Mark Ortega
+   Email: mortega@stfrancis.edu
+   Username: mortega
+   Phone: (815) 740-3464
+   Original line: Mark Ortega Head Tennis Coach mortega@stfrancis.edu (815) 740-3464
+
+45. Trevor Howard
+   Email: TrevorHoward@stfrancis.edu
+   Username: TrevorHoward
+   Phone: (815) 740-3408
+   Original line: Trevor Howard Head Cross Country / Assistant Track & Field Coach TrevorHoward@stfrancis.edu (815) 740-3408
+
+46. Jeff Chiapello
+   Email: jchiapello@stfrancis.edu
+   Username: jchiapello
+   Phone: (815) 740-3408
+   Original line: Jeff Chiapello Assistant Cross Country / Track & Field Coach jchiapello@stfrancis.edu (815) 740-3408
+
+47. Ana Mendoza
+   Email: AnaMendozaPineda@stfrancis.edu
+   Username: AnaMendozaPineda
+   Phone: (815) 740-3408
+   Original line: Ana Mendoza Pineda Assistant Men's Track & Field Coach AnaMendozaPineda@stfrancis.edu (815) 740-3408
+
+48. Arthur Stringham
+   Email: astringham@stfrancis.edu
+   Username: astringham
+   Phone: (815) 740-3408
+   Original line: Arthur Stringham Interim Men's Track & Field Coach astringham@stfrancis.edu (815) 740-3408
+
+49. Austin Hatcher
+   Email: AustinHatcher@stfrancis.edu
+   Username: AustinHatcher
+   Phone: (815) 740-3408
+   Original line: Austin Hatcher Assistant Men's Track & Field Coach AustinHatcher@stfrancis.edu (815) 740-3408
+
+50. Trevor Howard
+   Email: TrevorHoward@stfrancis.edu
+   Username: TrevorHoward
+   Phone: (815) 740-3408
+   Original line: Trevor Howard Head Cross Country / Assistant Track & Field Coach TrevorHoward@stfrancis.edu (815) 740-3408
+
+51. Jeff Chiapello
+   Email: jchiapello@stfrancis.edu
+   Username: jchiapello
+   Phone: (815) 740-3408
+   Original line: Jeff Chiapello Assistant Cross Country / Track & Field Coach jchiapello@stfrancis.edu (815) 740-3408
+
+52. Ana Mendoza
+   Email: AnaMendozaPineda@stfrancis.edu
+   Username: AnaMendozaPineda
+   Phone: (815) 740-3408
+   Original line: Ana Mendoza Pineda Assistant Women's Track & Field Coach AnaMendozaPineda@stfrancis.edu (815) 740-3408
+
+53. Arthur Stringham
+   Email: astringham@stfrancis.edu
+   Username: astringham
+   Phone: (815) 740-3408
+   Original line: Arthur Stringham Interim Women's Track & Field Coach astringham@stfrancis.edu (815) 740-3408
+
+54. Austin Hatcher
+   Email: AustinHatcher@stfrancis.edu
+   Username: AustinHatcher
+   Phone: (815) 740-3408
+   Original line: Austin Hatcher Assistant Women's Track & Field Coach AustinHatcher@stfrancis.edu (815) 740-3408
+
+55. Cara Currier
+   Email: ccurrier@stfrancis.edu
+   Username: ccurrier
+   Phone: (815) 740-3407
+   Original line: Cara Currier Asst. Director of Athletics / Head Women's Volleyball Coach ccurrier@stfrancis.edu (815) 740-3407
+
+56. Gerard Weik
+   Email: gweik@stfrancis.edu
+   Username: gweik
+   Phone: (815) 740-3407
+   Original line: Gerard Weik Assistant Women's Volleyball Coach gweik@stfrancis.edu (815) 740-3407
+
+57. Desiree Anderson
+   Email: DesireeAnderson@stfrancis.edu
+   Username: DesireeAnderson
+   Phone: (815) 740-3407
+   Original line: Desiree Anderson Graduate Assistant Volleyball Coach DesireeAnderson@stfrancis.edu (815) 740-3407
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Cara Currier Asst. Director of Athletics / Head Women's Volleyball Coach ccurrier@stfrancis.edu (815) 740-3407
+• Rich Gardner Strength & Conditioning Coach rgardner@stfrancis.edu (815) 740-3464
+• Brian Michalak Head Baseball Coach bmichalak@stfrancis.edu (815) 740-3406
+• Leo Michalak Assistant Baseball Coach lmichalak@stfrancis.edu (815) 740-3406
+• Sean Pierce Assistant Baseball Coach spierce@stfrancis.edu (815) 740-3406
+• Luke Ketchum Assistant Baseball Coach lukeketchum@stfrancis.edu (815) 740-3406
+• Randy Bromberek Assistant Baseball Coach rbromberek@stfrancis.edu (815) 740-3406
+• Dan Holloway Graduate Assistant Baseball Coach danielholloway@stfrancis.edu (815) 740-3406
+• Ryan Marks Head Men's Basketball Coach rmarks@stfrancis.edu (815) 740-3409
+• Rock Allen Assistant Men's Basketball Coach rallen@stfrancis.edu (815) 740-3523
+• Tony Graves Assistant Men's Basketball Coach tgraves@stfrancis.edu (815) 740-3409
+• Jalen Reneau Assistant Men's Basketball Coach jalenreneau@stfrancis.edu (815) 740-3409
+• Rahmel Davis Graduate Assistant Men's Basketball Coach rahmeldavis@stfrancis.edu (815) 740-3409
+• John McGinty Head Women's Basketball Coach jmcginty@stfrancis.edu (815) 740-3651
+• Jimmy Copenhaver Assistant Women's Basketball Coach jcopenhaver@stfrancis.edu (815) 740-3651
+• Hannah Swiatek Graduate Assistant Women's Basketball Coach hannahswiatek@stfrancis.edu (815) 740-3651
+• Tony Talley Head Bowling Coach atalley@stfrancis.edu (815) 740-3464
+• Tony Talley Head Bowling Coach atalley@stfrancis.edu (815) 740-3464
+• Trevor Howard Head Cross Country / Assistant Track & Field Coach TrevorHoward@stfrancis.edu (815) 740-3408
+• Jeff Chiapello Assistant Cross Country / Track & Field Coach jchiapello@stfrancis.edu (815) 740-3408
+• Ana Mendoza Pineda Assistant Men's Cross Country Coach AnaMendozaPineda@stfrancis.edu (815) 740-3408
+• Trevor Howard Head Cross Country / Assistant Track & Field Coach TrevorHoward@stfrancis.edu (815) 740-3408
+• Jeff Chiapello Assistant Cross Country / Track & Field Coach jchiapello@stfrancis.edu (815) 740-3408
+• Ana Mendoza Pineda Assistant Women's Cross Country Coach AnaMendozaPineda@stfrancis.edu (815) 740-3408
+• Joe Curry Head Football Coach jcurry@stfrancis.edu (815) 740-3410
+• Matt McCarthy Assistant Head Coach / Offensive Coordinator mmccarthy@stfrancis.edu (815) 740-3410
+• Thomas Miller Assistant Football Coach / Defensive Coordinator tmiller@stfrancis.edu (815) 740-3410
+• Angel Mata Assistant Football Coach AngelMata@stfrancis.edu (815) 740-3410
+• Wes Welnack Assistant Football Coach wwelnack@stfrancis.edu (815) 740-3410
+• Jared King Graduate Assistant Football Coach JaredKing@stfrancis.edu (815) 740-3410
+• Paul Downey Head Men's Golf Coach pdowney@stfrancis.edu (815) 768-8365
+• To Be Announced Head Coach dlaketa@stfrancis.edu
+• Nigel Dillard Head Men's Soccer Coach ndillard@stfrancis.edu (815) 740-3879
+• Sebastian Mireles Assistant Men's Soccer Coach smireles@stfrancis.edu (815) 740-5047
+• Al Palar Head Women's Soccer Coach wpalar@stfrancis.edu (815) 280-8801
+• Elliot Marroquin Assistant Women's Soccer Coach emarroquin@stfrancis.edu (815) 768-8366
+• Katie Monterosso Assistant Women's Soccer Coach KathleenMonterosso@stfrancis.edu (815) 768-8366
+• Claudia Hernandez Assistant Women's Soccer Coach ClaudiaHernandez@stfrancis.edu (815) 768-8366
+• Mia Perri Assistant Women's Soccer Coach miaperri@stfrancis.edu (815) 768-8366
+• Alyssa Moreno Head Softball Coach amoreno@stfrancis.edu (815) 740-3614
+• Mary Bedinger Assistant Softball Coach mbedinger@stfrancis.edu (815) 740-3614
+• Dennis Jensen Assistant Softball Coach djensen@stfrancis.edu (815) 354-2927
+• Mark Ortega Head Tennis Coach mortega@stfrancis.edu (815) 740-3464
+• Mark Ortega Head Tennis Coach mortega@stfrancis.edu (815) 740-3464
+• Trevor Howard Head Cross Country / Assistant Track & Field Coach TrevorHoward@stfrancis.edu (815) 740-3408
+• Jeff Chiapello Assistant Cross Country / Track & Field Coach jchiapello@stfrancis.edu (815) 740-3408
+• Ana Mendoza Pineda Assistant Men's Track & Field Coach AnaMendozaPineda@stfrancis.edu (815) 740-3408
+• Arthur Stringham Interim Men's Track & Field Coach astringham@stfrancis.edu (815) 740-3408
+• Austin Hatcher Assistant Men's Track & Field Coach AustinHatcher@stfrancis.edu (815) 740-3408
+• Trevor Howard Head Cross Country / Assistant Track & Field Coach TrevorHoward@stfrancis.edu (815) 740-3408
+• Jeff Chiapello Assistant Cross Country / Track & Field Coach jchiapello@stfrancis.edu (815) 740-3408
+• Ana Mendoza Pineda Assistant Women's Track & Field Coach AnaMendozaPineda@stfrancis.edu (815) 740-3408
+• Arthur Stringham Interim Women's Track & Field Coach astringham@stfrancis.edu (815) 740-3408
+• Austin Hatcher Assistant Women's Track & Field Coach AustinHatcher@stfrancis.edu (815) 740-3408
+• Cara Currier Asst. Director of Athletics / Head Women's Volleyball Coach ccurrier@stfrancis.edu (815) 740-3407
+• Gerard Weik Assistant Women's Volleyball Coach gweik@stfrancis.edu (815) 740-3407
+• Desiree Anderson Graduate Assistant Volleyball Coach DesireeAnderson@stfrancis.edu (815) 740-3407

@@ -1,0 +1,179 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:21
+============================================================
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kerry Harbor
+   Email: ktharbor@ncat.edu
+   Username: ktharbor
+   Original line: Kerry Harbor Head Strength & Conditioning Coach ktharbor@ncat.edu
+
+2. Yero Smith
+   Email: ycsmith@ncat.edu
+   Username: ycsmith
+   Original line: Yero Smith Assistant Strength Coach & Conditioning Coach ycsmith@ncat.edu (336) 398-
+
+3. Quantavious Thompkins
+   Email: qbthompkins@ncat.edu
+   Username: qbthompkins
+   Original line: Quantavious Thompkins Assistant Strength Coach & Conditioning Coach qbthompkins@ncat.edu (336) 398-
+
+4. DeVante Tipton
+   Email: djtipton@ncat.edu
+   Username: djtipton
+   Original line: DeVante Tipton Assistant Strength & Conditioning Coach djtipton@ncat.edu (336) 398-
+
+5. Ben Hall
+   Email: bdhall12@ncat.edu
+   Username: bdhall12
+   Original line: Ben Hall Head Coach bdhall12@ncat.edu 336-285-
+
+6. Billy Funk
+   Email: wsfunk@ncat.edu
+   Username: wsfunk
+   Original line: Billy Funk Assistant Coach/Recruiting Coordinator wsfunk@ncat.edu 336-285-
+
+7. Tyson Ellis
+   Email: Tcellis1@ncat.edu
+   Username: Tcellis1
+   Original line: Tyson Ellis Assistant Coach/Pitching Tcellis1@ncat.edu (336) 285-
+
+8. Nick DeTringo
+   Email: jndetringo@ncat.edu
+   Username: jndetringo
+   Original line: Nick DeTringo Assistant Coach jndetringo@ncat.edu
+
+9. Monté Ross
+   Email: Eross2@ncat.edu
+   Username: Eross2
+   Original line: Monté Ross Head Men's Basketball Coach Eross2@ncat.edu
+
+10. Ricky Moore
+   Email: rsmoore2@ncat.edu
+   Username: rsmoore2
+   Original line: Ricky Moore Associate Head Coach rsmoore2@ncat.edu 336-285-
+
+11. Dorian Long
+   Email: dllong1@ncat.edu
+   Username: dllong1
+   Original line: Dorian Long Assistant Coach dllong1@ncat.edu 336-285-
+
+12. Colin Daly
+   Email: cjdaly@ncat.edu
+   Username: cjdaly
+   Original line: Colin Daly Assistant Coach cjdaly@ncat.edu
+
+13. Tarrell Robinson
+   Email: erobinso@ncat.edu
+   Username: erobinso
+   Original line: Tarrell Robinson Head Coach erobinso@ncat.edu 336-256- @LadyAggiesHC
+
+14. Shavon Earp
+   Email: searp@ncat.edu
+   Username: searp
+   Original line: Shavon Earp Associate Head Coach searp@ncat.edu 336-285- @Coachsearp
+
+15. Chris Dunn
+   Email: cldunn@ncat.edu
+   Username: cldunn
+   Original line: Chris Dunn Assistant Coach cldunn@ncat.edu
+
+16. Kelly Mathis
+   Email: klmathis@ncat.edu
+   Username: klmathis
+   Original line: Kelly Mathis Assistant Coach klmathis@ncat.edu
+
+17. Kim Terrell-Kearney
+   Email: kmkearney@ncat.edu
+   Username: kmkearney
+   Original line: Kim Terrell-Kearney Head Coach kmkearney@ncat.edu 336-285-
+
+18. Quamel Prince
+   Email: qaprince@ncat.edu
+   Username: qaprince
+   Original line: Quamel Prince Cross Country/Distance Coach qaprince@ncat.edu
+
+19. Shawn Gibbs
+   Email: ssgibbs@ncat.edu
+   Username: ssgibbs
+   Original line: Shawn Gibbs Head Coach ssgibbs@ncat.edu
+
+20. Courtney Coard
+   Email: cscoard@ncat.edu
+   Username: cscoard
+   Original line: Courtney Coard Assistant Head Coach/Defensive Line cscoard@ncat.edu
+
+21. Jose Gonzalez
+   Email: jrgonzalez@ncat.edu
+   Username: jrgonzalez
+   Original line: Jose Gonzalez Jr. Head Softball Coach jrgonzalez@ncat.edu (336) 285-
+
+22. Dejon Bivens
+   Email: adbivens@ncat.edu
+   Username: adbivens
+   Original line: Dejon Bivens Head Coach adbivens@ncat.edu
+
+23. Dejon Bivens
+   Email: adbivens@ncat.edu
+   Username: adbivens
+   Original line: Dejon Bivens Head Coach adbivens@ncat.edu
+
+24. Amber Monroe
+   Email: anmonroe@ncat.edu
+   Username: anmonroe
+   Original line: Amber Monroe Throws Coach anmonroe@ncat.edu
+
+25. Quamel Prince
+   Email: qaprince@ncat.edu
+   Username: qaprince
+   Original line: Quamel Prince Cross Country/Distance Coach qaprince@ncat.edu
+
+26. Hal Clifton
+   Email: NCATVolleyball@ncat.edu
+   Username: NCATVolleyball
+   Original line: Hal Clifton Head Coach NCATVolleyball@ncat.edu 336-285- @HalClifton
+
+27. Blaine Tendler
+   Email: NCATVolleyball@ncat.edu
+   Username: NCATVolleyball
+   Original line: Blaine Tendler Associate Head Coach NCATVolleyball@ncat.edu 336-285- @NcatVolleyball
+
+28. Macenzie Richards
+   Email: NCATvolleyball@ncat.edu
+   Username: NCATvolleyball
+   Original line: Macenzie Richards Assistant Coach NCATvolleyball@ncat.edu 336-285-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kerry Harbor Head Strength & Conditioning Coach ktharbor@ncat.edu
+• Yero Smith Assistant Strength Coach & Conditioning Coach ycsmith@ncat.edu (336) 398-
+• Quantavious Thompkins Assistant Strength Coach & Conditioning Coach qbthompkins@ncat.edu (336) 398-
+• DeVante Tipton Assistant Strength & Conditioning Coach djtipton@ncat.edu (336) 398-
+• Ben Hall Head Coach bdhall12@ncat.edu 336-285-
+• Billy Funk Assistant Coach/Recruiting Coordinator wsfunk@ncat.edu 336-285-
+• Tyson Ellis Assistant Coach/Pitching Tcellis1@ncat.edu (336) 285-
+• Nick DeTringo Assistant Coach jndetringo@ncat.edu
+• Monté Ross Head Men's Basketball Coach Eross2@ncat.edu
+• Ricky Moore Associate Head Coach rsmoore2@ncat.edu 336-285-
+• Dorian Long Assistant Coach dllong1@ncat.edu 336-285-
+• Colin Daly Assistant Coach cjdaly@ncat.edu
+• Tarrell Robinson Head Coach erobinso@ncat.edu 336-256- @LadyAggiesHC
+• Shavon Earp Associate Head Coach searp@ncat.edu 336-285- @Coachsearp
+• Chris Dunn Assistant Coach cldunn@ncat.edu
+• Kelly Mathis Assistant Coach klmathis@ncat.edu
+• Kim Terrell-Kearney Head Coach kmkearney@ncat.edu 336-285-
+• Quamel Prince Cross Country/Distance Coach qaprince@ncat.edu
+• Shawn Gibbs Head Coach ssgibbs@ncat.edu
+• Courtney Coard Assistant Head Coach/Defensive Line cscoard@ncat.edu
+• Jose Gonzalez Jr. Head Softball Coach jrgonzalez@ncat.edu (336) 285-
+• Dejon Bivens Head Coach adbivens@ncat.edu
+• Dejon Bivens Head Coach adbivens@ncat.edu
+• Amber Monroe Throws Coach anmonroe@ncat.edu
+• Quamel Prince Cross Country/Distance Coach qaprince@ncat.edu
+• Hal Clifton Head Coach NCATVolleyball@ncat.edu 336-285- @HalClifton
+• Blaine Tendler Associate Head Coach NCATVolleyball@ncat.edu 336-285- @NcatVolleyball
+• Macenzie Richards Assistant Coach NCATvolleyball@ncat.edu 336-285-

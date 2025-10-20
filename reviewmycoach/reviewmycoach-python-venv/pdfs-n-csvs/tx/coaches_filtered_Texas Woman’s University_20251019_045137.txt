@@ -1,0 +1,149 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:38
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Courtney Griffith
+   Email: cgriffith1@twu.edu
+   Username: cgriffith1
+   Original line: Courtney Griffith Head Coach cgriffith1@twu.edu
+
+2. Beth Jillson
+   Email: BJillson@twu.edu
+   Username: BJillson
+   Original line: Beth Jillson Head Coach BJillson@twu.edu 940-898-
+
+3. Taylor Drake
+   Email: tdrake4@twu.edu
+   Username: tdrake4
+   Original line: Taylor Drake Assistant Coach tdrake4@twu.edu 940-898-
+
+4. Jake Stevens
+   Email: jstevens8@twu.edu
+   Username: jstevens8
+   Original line: Jake Stevens Assistant Coach jstevens8@twu.edu
+
+5. Evan Fortune
+   Email: efortune@twu.edu
+   Username: efortune
+   Original line: Evan Fortune Graduate Assistant Coach efortune@twu.edu
+
+6. Marisa Martin
+   Email: mmartin43@twu.edu
+   Username: mmartin43
+   Original line: Marisa Martin Head Coach mmartin43@twu.edu
+
+7. Jordana Bluitt-Collins
+   Email: jbluitt2@twu.edu
+   Username: jbluitt2
+   Original line: Jordana Bluitt-Collins Coach's Assistant jbluitt2@twu.edu
+
+8. Lisa Bowerman
+   Email: lbowerman@twu.edu
+   Username: lbowerman
+   Original line: Lisa Bowerman Head Coach lbowerman@twu.edu 940-898-
+
+9. Zan Jones
+   Email: jjones116@twu.edu
+   Username: jjones116
+   Original line: Zan Jones Assistant Coach jjones116@twu.edu 940-898-
+
+10. Kyana George
+   Email: kgeorge17@twu.edu
+   Username: kgeorge17
+   Original line: Kyana George Assistant Coach kgeorge17@twu.edu
+
+11. Kaitlyn Thomas
+   Email: khoiland@twu.edu
+   Username: khoiland
+   Original line: Kaitlyn Thomas Graduate Assistant Coach khoiland@twu.edu
+
+12. Babak Abouzar
+   Email: babouzar@twu.edu
+   Username: babouzar
+   Original line: Babak Abouzar Head Coach babouzar@twu.edu 940-898-
+
+13. Jazmine Navarro
+   Email: jnavarro5@twu.edu
+   Username: jnavarro5
+   Original line: Jazmine Navarro Assistant Coach jnavarro5@twu.edu 940-898-
+
+14. Jimmy Garcia
+   Email: jgarcia42@twu.edu
+   Username: jgarcia42
+   Original line: Jimmy Garcia Coach’s Assistant jgarcia42@twu.edu
+
+15. Gay McNutt
+   Email: rmcnutt@twu.edu
+   Username: rmcnutt
+   Original line: Gay McNutt Head Coach rmcnutt@twu.edu 940-898-
+
+16. Rone Robinson
+   Email: mrobinson28@twu.edu
+   Username: mrobinson28
+   Original line: Rone Robinson Assistant Coach mrobinson28@twu.edu
+
+17. Leslie Allen
+   Email: lallen28@twu.edu
+   Username: lallen28
+   Original line: Leslie Allen Head Coach lallen28@twu.edu 940-898-
+
+18. Ashlee LeCompte
+   Email: ahildeman@twu.edu
+   Username: ahildeman
+   Original line: Ashlee LeCompte Assistant Coach ahildeman@twu.edu
+
+19. Laurel Jones
+   Email: ljones61@twu.edu
+   Username: ljones61
+   Original line: Laurel Jones Graduate Assistant Coach ljones61@twu.edu
+
+20. Jessica Ransom
+   Email: jransom5@twu.edu
+   Username: jransom5
+   Original line: Jessica Ransom Head Coach jransom5@twu.edu 940-898-
+
+21. Veronika Webb
+   Email: vwebb2@twu.edu
+   Username: vwebb2
+   Original line: Veronika Webb Assistant Coach vwebb2@twu.edu 940-898-
+
+22. Mattison Dabovich
+   Email: mdabovich@twu.edu
+   Username: mdabovich
+   Original line: Mattison Dabovich Graduate Assistant Coach mdabovich@twu.edu 940-898-
+
+23. Randi Miller
+   Email: rmiller17@twu.edu
+   Username: rmiller17
+   Original line: Randi Miller Head Coach rmiller17@twu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Courtney Griffith Head Coach cgriffith1@twu.edu
+• Beth Jillson Head Coach BJillson@twu.edu 940-898-
+• Taylor Drake Assistant Coach tdrake4@twu.edu 940-898-
+• Jake Stevens Assistant Coach jstevens8@twu.edu
+• Evan Fortune Graduate Assistant Coach efortune@twu.edu
+• Marisa Martin Head Coach mmartin43@twu.edu
+• Jordana Bluitt-Collins Coach's Assistant jbluitt2@twu.edu
+• Lisa Bowerman Head Coach lbowerman@twu.edu 940-898-
+• Zan Jones Assistant Coach jjones116@twu.edu 940-898-
+• Kyana George Assistant Coach kgeorge17@twu.edu
+• Kaitlyn Thomas Graduate Assistant Coach khoiland@twu.edu
+• Babak Abouzar Head Coach babouzar@twu.edu 940-898-
+• Jazmine Navarro Assistant Coach jnavarro5@twu.edu 940-898-
+• Jimmy Garcia Coach’s Assistant jgarcia42@twu.edu
+• Gay McNutt Head Coach rmcnutt@twu.edu 940-898-
+• Rone Robinson Assistant Coach mrobinson28@twu.edu
+• Leslie Allen Head Coach lallen28@twu.edu 940-898-
+• Ashlee LeCompte Assistant Coach ahildeman@twu.edu
+• Laurel Jones Graduate Assistant Coach ljones61@twu.edu
+• Jessica Ransom Head Coach jransom5@twu.edu 940-898-
+• Veronika Webb Assistant Coach vwebb2@twu.edu 940-898-
+• Mattison Dabovich Graduate Assistant Coach mdabovich@twu.edu 940-898-
+• Randi Miller Head Coach rmiller17@twu.edu

@@ -1,0 +1,323 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:53
+============================================================
+
+Total coaches found: 52
+
+PARSED ENTRIES:
+----------------------------------------
+1. Norberto Lopez
+   Email: ucfbaseball@athletics.ucf.edu
+   Username: ucfbaseball
+   Original line: Norberto Lopez Assistant Coach/Recruiting Coordinator ucfbaseball@athletics.ucf.edu
+
+2. Drew Thomas
+   Email: ucfbaseball@athletics.ucf.edu
+   Username: ucfbaseball
+   Original line: Drew Thomas Pitching Coach ucfbaseball@athletics.ucf.edu
+
+3. Johnny Dawkins
+   Email: kpufko@athletics.ucf.edu
+   Username: kpufko
+   Original line: Johnny Dawkins Head Coach kpufko@athletics.ucf.edu
+
+4. Robbie Laing
+   Email: rlaing@athletics.ucf.edu
+   Username: rlaing
+   Original line: Robbie Laing Associate Head Coach rlaing@athletics.ucf.edu
+
+5. Tyson Waterman
+   Email: twaterman@athletics.ucf.edu
+   Username: twaterman
+   Original line: Tyson Waterman Assistant Coach/Recruiting Coordinator twaterman@athletics.ucf.edu
+
+6. Adam Hood
+   Email: ahood@athletics.ucf.edu
+   Username: ahood
+   Original line: Adam Hood Assistant Coach ahood@athletics.ucf.edu
+
+7. Charles Stephenson
+   Email: cstephenson@athletics.ucf.edu
+   Username: cstephenson
+   Original line: Charles Stephenson Head Strength Coach, Men's Basketball cstephenson@athletics.ucf.edu
+
+8. Sytia Messer
+   Email: ehorne@athletics.ucf.edu
+   Username: ehorne
+   Original line: Sytia Messer Head Coach ehorne@athletics.ucf.edu
+
+9. Walter Pitts
+   Email: wpitts@athletics.ucf.edu
+   Username: wpitts
+   Original line: Walter Pitts Assistant Coach / Director of Player Development wpitts@athletics.ucf.edu
+
+10. Steven Key
+   Email: skey@athletics.ucf.edu
+   Username: skey
+   Original line: Steven Key Assistant Coach skey@athletics.ucf.edu
+
+11. AnnMarie Gilbert
+   Email: agilbert@athletics.ucf.edu
+   Username: agilbert
+   Original line: AnnMarie Gilbert Assistant Coach agilbert@athletics.ucf.edu
+
+12. Linda Gooch
+   Email: lgooch@athletics.ucf.edu
+   Username: lgooch
+   Original line: Linda Gooch Head Coach, Spirit Program lgooch@athletics.ucf.edu
+
+13. Brian Cartier
+   Email: bcartier@athletics.ucf.edu
+   Username: bcartier
+   Original line: Brian Cartier Head Coach, Cheerleading bcartier@athletics.ucf.edu
+
+14. Bryan Harmon
+   Email: bharmon@athletics.ucf.edu
+   Username: bharmon
+   Original line: Bryan Harmon Assistant Coach - Distance bharmon@athletics.ucf.edu
+
+15. Dana Boone
+   Email: dboone@athletics.ucf.edu
+   Username: dboone
+   Original line: Dana Boone Head Coach dboone@athletics.ucf.edu
+
+16. Sean Beckton
+   Email: ucffbrecruiting@athletics.ucf.edu
+   Username: ucffbrecruiting
+   Original line: Sean Beckton Sr. Associate Head Coach/Wide Receivers ucffbrecruiting@athletics.ucf.edu
+
+17. Mike Dawson
+   Email: ucffbrecruiting@athletics.ucf.edu
+   Username: ucffbrecruiting
+   Original line: Mike Dawson Defensive Run Game Coordinator/Edge Coach ucffbrecruiting@athletics.ucf.edu
+
+18. Bryce Wallor
+   Email: bwallor@athletics.ucf.edu
+   Username: bwallor
+   Original line: Bryce Wallor Head Coach bwallor@athletics.ucf.edu
+
+19. Will Hurt
+   Email: whurt@athletics.ucf.edu
+   Username: whurt
+   Original line: Will Hurt Assistant Coach whurt@athletics.ucf.edu
+
+20. Emily Marron
+   Email: emarron@athletics.ucf.edu
+   Username: emarron
+   Original line: Emily Marron Head Coach emarron@athletics.ucf.edu
+
+21. Ellen Secor
+   Email: esecor@athletics.ucf.edu
+   Username: esecor
+   Original line: Ellen Secor Assistant Coach esecor@athletics.ucf.edu
+
+22. Mara Allen
+   Email: rowing@athletics.ucf.edu
+   Username: rowing
+   Original line: Mara Allen Head Coach rowing@athletics.ucf.edu
+
+23. Marten Martensson
+   Email: mmartensson@athletics.ucf.edu
+   Username: mmartensson
+   Original line: Marten Martensson Assistant Coach - Recruting Coordinator mmartensson@athletics.ucf.edu
+
+24. Lauren Roman
+   Email: lroman@athletics.ucf.edu
+   Username: lroman
+   Original line: Lauren Roman Assistant Coach lroman@athletics.ucf.edu
+
+25. Tess Thompson
+   Email: tthompson@athletics.ucf.edu
+   Username: tthompson
+   Original line: Tess Thompson Assistant Coach tthompson@athletics.ucf.edu
+
+26. Scott Calabrese
+   Email: soccer@athletics.ucf.edu
+   Username: soccer
+   Original line: Scott Calabrese Head Coach soccer@athletics.ucf.edu
+
+27. Paul Souders
+   Email: soccer@athletics.ucf.edu
+   Username: soccer
+   Original line: Paul Souders Associate Head Coach soccer@athletics.ucf.edu
+
+28. Austin Nyquist
+   Email: anyquist@athletics.ucf.edu
+   Username: anyquist
+   Original line: Austin Nyquist Assistant Coach/Recruiting Coordinator anyquist@athletics.ucf.edu
+
+29. Head Coach
+   Email: trsahaydak@athletics.ucf.edu
+   Username: trsahaydak
+   Original line: Head Coach trsahaydak@athletics.ucf.edu
+
+30. Tim Sahaydak
+   Email: tsahaydak@athletics.ucf.edu
+   Username: tsahaydak
+   Original line: Tim Sahaydak Associate Head Coach tsahaydak@athletics.ucf.edu
+
+31. Chris Cummings
+   Email: ccummings@athletics.ucf.edu
+   Username: ccummings
+   Original line: Chris Cummings Assistant Coach ccummings@athletics.ucf.edu
+
+32. Keisuke Ota
+   Email: Kota@ucfathletics.org
+   Username: Kota
+   Original line: Keisuke Ota Assistant Coach Kota@ucfathletics.org
+
+33. Noah Sanders
+   Email: nsanders@athletics.ucf.edu
+   Username: nsanders
+   Original line: Noah Sanders Assistant Coach nsanders@athletics.ucf.edu
+
+34. Stacie Pestrak
+   Email: spestrak@athletics.ucf.edu
+   Username: spestrak
+   Original line: Stacie Pestrak Assistant Coach spestrak@athletics.ucf.edu
+
+35. Head Coach
+   Email: lbburgess@athletics.ucf.edu
+   Username: lbburgess
+   Original line: Head Coach lbburgess@athletics.ucf.edu
+
+36. Kareem Allaf
+   Email: kallaf@athletics.ucf.edu
+   Username: kallaf
+   Original line: Kareem Allaf Assistant Coach kallaf@athletics.ucf.edu
+
+37. Bryan Koniecko
+   Email: bkoniecko@athletics.ucf.edu
+   Username: bkoniecko
+   Original line: Bryan Koniecko Director of Tennis/Head Coach bkoniecko@athletics.ucf.edu
+
+38. Assistant Coach
+   Email: fdilorenzo@athletics.ucf.edu
+   Username: fdilorenzo
+   Original line: Assistant Coach fdilorenzo@athletics.ucf.edu
+
+39. Dana Boone
+   Email: dboone@athletics.ucf.edu
+   Username: dboone
+   Original line: Dana Boone Head Coach dboone@athletics.ucf.edu
+
+40. Bryan Harmon
+   Email: bharmon@athletics.ucf.edu
+   Username: bharmon
+   Original line: Bryan Harmon Assistant Coach - Distance bharmon@athletics.ucf.edu
+
+41. Jasmyne Graham
+   Email: jgraham@athletics.ucf.edu
+   Username: jgraham
+   Original line: Jasmyne Graham Assistant Coach jgraham@athletics.ucf.edu
+
+42. Brody Honeycutt
+   Email: bhoneycutt@athletics.ucf.edu
+   Username: bhoneycutt
+   Original line: Brody Honeycutt Assistant Coach - Field Events bhoneycutt@athletics.ucf.edu
+
+43. Matt Botsford
+   Email: ucfvolleyball@athletics.ucf.edu
+   Username: ucfvolleyball
+   Original line: Matt Botsford Head Coach ucfvolleyball@athletics.ucf.edu
+
+44. Kate Morrell
+   Email: kmorrell@athletics.ucf.edu
+   Username: kmorrell
+   Original line: Kate Morrell Associate Head Coach kmorrell@athletics.ucf.edu
+
+45. Sean Kiracofe
+   Email: skiracofe@athletics.ucf.edu
+   Username: skiracofe
+   Original line: Sean Kiracofe Assistant Coach skiracofe@athletics.ucf.edu
+
+46. Trevor Kennan
+   Email: tkennan@athletics.ucf.edu
+   Username: tkennan
+   Original line: Trevor Kennan Assistant Coach tkennan@athletics.ucf.edu
+
+47. Derick Brown
+   Email: derick.brown@ucf.edu
+   Username: derick.brown
+   Original line: Derick Brown Associate Director, Academic Success Coach derick.brown@ucf.edu
+
+48. Holley Mackey
+   Email: holley.mackey@ucf.edu
+   Username: holley.mackey
+   Original line: Holley Mackey Senior Academic Success Coach holley.mackey@ucf.edu
+
+49. Juliette Rorke
+   Email: juliette.rorke@ucf.edu
+   Username: juliette.rorke
+   Original line: Juliette Rorke Assistant Director, Academic Success Coach juliette.rorke@ucf.edu
+
+50. Brennan Prusak
+   Email: brennan.prusak@ucf.edu
+   Username: brennan.prusak
+   Original line: Brennan Prusak Senior Academic Success Coach brennan.prusak@ucf.edu
+
+51. Abby Karalus
+   Email: abigail.karalus@ucf.edu
+   Username: abigail.karalus
+   Original line: Abby Karalus Senior Academic Success Coach abigail.karalus@ucf.edu
+
+52. Zoe Gonzales
+   Email: zoe.gonzales@ucf.edu
+   Username: zoe.gonzales
+   Original line: Zoe Gonzales Senior Academic Success Coach/Learning Specialist zoe.gonzales@ucf.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Norberto Lopez Assistant Coach/Recruiting Coordinator ucfbaseball@athletics.ucf.edu
+• Drew Thomas Pitching Coach ucfbaseball@athletics.ucf.edu
+• Johnny Dawkins Head Coach kpufko@athletics.ucf.edu
+• Robbie Laing Associate Head Coach rlaing@athletics.ucf.edu
+• Tyson Waterman Assistant Coach/Recruiting Coordinator twaterman@athletics.ucf.edu
+• Adam Hood Assistant Coach ahood@athletics.ucf.edu
+• Charles Stephenson Head Strength Coach, Men's Basketball cstephenson@athletics.ucf.edu
+• Sytia Messer Head Coach ehorne@athletics.ucf.edu
+• Walter Pitts Assistant Coach / Director of Player Development wpitts@athletics.ucf.edu
+• Steven Key Assistant Coach skey@athletics.ucf.edu
+• AnnMarie Gilbert Assistant Coach agilbert@athletics.ucf.edu
+• Linda Gooch Head Coach, Spirit Program lgooch@athletics.ucf.edu
+• Brian Cartier Head Coach, Cheerleading bcartier@athletics.ucf.edu
+• Bryan Harmon Assistant Coach - Distance bharmon@athletics.ucf.edu
+• Dana Boone Head Coach dboone@athletics.ucf.edu
+• Sean Beckton Sr. Associate Head Coach/Wide Receivers ucffbrecruiting@athletics.ucf.edu
+• Mike Dawson Defensive Run Game Coordinator/Edge Coach ucffbrecruiting@athletics.ucf.edu
+• Bryce Wallor Head Coach bwallor@athletics.ucf.edu
+• Will Hurt Assistant Coach whurt@athletics.ucf.edu
+• Emily Marron Head Coach emarron@athletics.ucf.edu
+• Ellen Secor Assistant Coach esecor@athletics.ucf.edu
+• Mara Allen Head Coach rowing@athletics.ucf.edu
+• Marten Martensson Assistant Coach - Recruting Coordinator mmartensson@athletics.ucf.edu
+• Lauren Roman Assistant Coach lroman@athletics.ucf.edu
+• Tess Thompson Assistant Coach tthompson@athletics.ucf.edu
+• Scott Calabrese Head Coach soccer@athletics.ucf.edu
+• Paul Souders Associate Head Coach soccer@athletics.ucf.edu
+• Austin Nyquist Assistant Coach/Recruiting Coordinator anyquist@athletics.ucf.edu
+• Head Coach trsahaydak@athletics.ucf.edu
+• Tim Sahaydak Associate Head Coach tsahaydak@athletics.ucf.edu
+• Chris Cummings Assistant Coach ccummings@athletics.ucf.edu
+• Keisuke Ota Assistant Coach Kota@ucfathletics.org
+• Noah Sanders Assistant Coach nsanders@athletics.ucf.edu
+• Stacie Pestrak Assistant Coach spestrak@athletics.ucf.edu
+• Head Coach lbburgess@athletics.ucf.edu
+• Kareem Allaf Assistant Coach kallaf@athletics.ucf.edu
+• Bryan Koniecko Director of Tennis/Head Coach bkoniecko@athletics.ucf.edu
+• Assistant Coach fdilorenzo@athletics.ucf.edu
+• Dana Boone Head Coach dboone@athletics.ucf.edu
+• Bryan Harmon Assistant Coach - Distance bharmon@athletics.ucf.edu
+• Jasmyne Graham Assistant Coach jgraham@athletics.ucf.edu
+• Brody Honeycutt Assistant Coach - Field Events bhoneycutt@athletics.ucf.edu
+• Matt Botsford Head Coach ucfvolleyball@athletics.ucf.edu
+• Kate Morrell Associate Head Coach kmorrell@athletics.ucf.edu
+• Sean Kiracofe Assistant Coach skiracofe@athletics.ucf.edu
+• Trevor Kennan Assistant Coach tkennan@athletics.ucf.edu
+• Derick Brown Associate Director, Academic Success Coach derick.brown@ucf.edu
+• Holley Mackey Senior Academic Success Coach holley.mackey@ucf.edu
+• Juliette Rorke Assistant Director, Academic Success Coach juliette.rorke@ucf.edu
+• Brennan Prusak Senior Academic Success Coach brennan.prusak@ucf.edu
+• Abby Karalus Senior Academic Success Coach abigail.karalus@ucf.edu
+• Zoe Gonzales Senior Academic Success Coach/Learning Specialist zoe.gonzales@ucf.edu

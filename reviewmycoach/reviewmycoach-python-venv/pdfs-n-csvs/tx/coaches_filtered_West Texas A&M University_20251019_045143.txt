@@ -1,0 +1,209 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:43
+============================================================
+
+Total coaches found: 33
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brandon Miller
+   Email: bmiller@wtamu.edu
+   Username: bmiller
+   Original line: Brandon Miller Assistant Athletic Performance Coach bmiller@wtamu.edu (MBB, SB, T&F)
+
+2. Cory Hall
+   Email: chall@wtamu.edu
+   Username: chall
+   Original line: Cory Hall Head Coach chall@wtamu.edu 806-651-
+
+3. Shawn Neale
+   Email: sneale@wtamu.edu
+   Username: sneale
+   Original line: Shawn Neale Associate Head Coach sneale@wtamu.edu 806-651-
+
+4. Ryan Cantrell
+   Email: rcantrell@wtamu.edu
+   Username: rcantrell
+   Original line: Ryan Cantrell Assistant Coach rcantrell@wtamu.edu 806-651-
+
+5. Tom Brown
+   Email: tbrown@wtamu.edu
+   Username: tbrown
+   Original line: Tom Brown Head Coach tbrown@wtamu.edu 806-651-
+
+6. Chris Gove
+   Email: cgove@wtamu.edu
+   Username: cgove
+   Original line: Chris Gove Associate Head Coach cgove@wtamu.edu 806-651-
+
+7. Zach Toussaint
+   Email: ztoussaint@wtamu.edu
+   Username: ztoussaint
+   Original line: Zach Toussaint Assistant Coach ztoussaint@wtamu.edu
+
+8. Josh Prock
+   Email: jprock@wtamu.edu
+   Username: jprock
+   Original line: Josh Prock Head Coach jprock@wtamu.edu 806-651-
+
+9. Will Sherman
+   Email: wsherman@wtamu.edu
+   Username: wsherman
+   Original line: Will Sherman Associate Head Coach wsherman@wtamu.edu 806-651-
+
+10. Shawna Monreal
+   Email: smonreal@wtamu.edu
+   Username: smonreal
+   Original line: Shawna Monreal Assistant Coach smonreal@wtamu.edu
+
+11. Zach Daniel
+   Email: zdaniel@wtamu.edu
+   Username: zdaniel
+   Original line: Zach Daniel Head Cross Country Coach / Distance zdaniel@wtamu.edu 806-651-
+
+12. Josh Lynn
+   Email: dlynn@wtamu.edu
+   Username: dlynn
+   Original line: Josh Lynn Head Coach dlynn@wtamu.edu 806-651-
+
+13. Shayne Shade
+   Email: sshade@wtamu.edu
+   Username: sshade
+   Original line: Shayne Shade Assistant Head Coach / Defensive Line / sshade@wtamu.edu 806-651-
+
+14. Justin Richter
+   Email: jrichter@wtamu.edu
+   Username: jrichter
+   Original line: Justin Richter Assistant Coach / Defensive Coordinator / jrichter@wtamu.edu 806-651-
+
+15. Justin Bane
+   Email: jbane@wtamu.edu
+   Username: jbane
+   Original line: Justin Bane Assistant Coach / Offensive Coordinator / jbane@wtamu.edu 806-651-
+
+16. Cody Russell
+   Email: crussell@wtamu.edu
+   Username: crussell
+   Original line: Cody Russell Assistant Coach / Special Teams Coordinator / crussell@wtamu.edu 806-651-
+
+17. Mike Bethea
+   Email: mbethea@wtamu.edu
+   Username: mbethea
+   Original line: Mike Bethea Assistant Coach / Linebackers mbethea@wtamu.edu 806-651-
+
+18. Adrian Duncan
+   Email: aduncan@wtamu.edu
+   Username: aduncan
+   Original line: Adrian Duncan Assistant Coach / Running Backs aduncan@wtamu.edu 806-651-
+
+19. Cole McDowell
+   Email: kmcdowell@wtamu.edu
+   Username: kmcdowell
+   Original line: Cole McDowell Assistant Coach / Tight Ends kmcdowell@wtamu.edu 806-651-
+
+20. Axel Ochoa
+   Email: aochoa@wtamu.edu
+   Username: aochoa
+   Original line: Axel Ochoa Head Coach aochoa@wtamu.edu 806-651-
+
+21. Meredith Jameson
+   Email: mjameson@wtamu.edu
+   Username: mjameson
+   Original line: Meredith Jameson Head Coach mjameson@wtamu.edu 806-651-
+
+22. Butch Lauffer
+   Email: robert.lauffer@wtamu.edu
+   Username: robert.lauffer
+   Original line: Butch Lauffer Head Coach robert.lauffer@wtamu.edu 806-651-
+
+23. James Crowder
+   Email: jcrowder@wtamu.edu
+   Username: jcrowder
+   Original line: James Crowder Associate Head Coach jcrowder@wtamu.edu 806-651-
+
+24. Turk Ozturk
+   Email: bozturk@wtamu.edu
+   Username: bozturk
+   Original line: Turk Ozturk Head Coach bozturk@wtamu.edu 806-651-
+
+25. Natasha Pendleton
+   Email: npendleton@wtamu.edu
+   Username: npendleton
+   Original line: Natasha Pendleton Flores Assistant Coach npendleton@wtamu.edu
+
+26. Michael Mook
+   Email: mmook@wtamu.edu
+   Username: mmook
+   Original line: Michael Mook Head Coach mmook@wtamu.edu 806-651-
+
+27. Jenelle Trautmann
+   Email: jtrautmann@wtamu.edu
+   Username: jtrautmann
+   Original line: Jenelle Trautmann Assistant Coach jtrautmann@wtamu.edu 806-651-
+
+28. Zach Daniel
+   Email: zdaniel@wtamu.edu
+   Username: zdaniel
+   Original line: Zach Daniel Head Cross Country Coach / Distance zdaniel@wtamu.edu 806-651-
+
+29. Ryan Gibson
+   Email: rgibson@wtamu.edu
+   Username: rgibson
+   Original line: Ryan Gibson Associate Head Track & Field Coach / Jumps & rgibson@wtamu.edu 806-651-
+
+30. Randy Denham
+   Email: rdenham@wtamu.edu
+   Username: rdenham
+   Original line: Randy Denham Assistant Coach / Throws rdenham@wtamu.edu 806-651-
+
+31. Terry Gamble
+   Email: tgamble@wtamu.edu
+   Username: tgamble
+   Original line: Terry Gamble Head Volleyball Coach tgamble@wtamu.edu 806-651-
+
+32. Tammy Butler
+   Email: tbutler@wtamu.edu
+   Username: tbutler
+   Original line: Tammy Butler Assistant Coach tbutler@wtamu.edu 806-651-
+
+33. Genevieve Hopkinson
+   Email: ghopkinson@wtamu.edu
+   Username: ghopkinson
+   Original line: Genevieve Hopkinson Assistant Coach ghopkinson@wtamu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brandon Miller Assistant Athletic Performance Coach bmiller@wtamu.edu (MBB, SB, T&F)
+• Cory Hall Head Coach chall@wtamu.edu 806-651-
+• Shawn Neale Associate Head Coach sneale@wtamu.edu 806-651-
+• Ryan Cantrell Assistant Coach rcantrell@wtamu.edu 806-651-
+• Tom Brown Head Coach tbrown@wtamu.edu 806-651-
+• Chris Gove Associate Head Coach cgove@wtamu.edu 806-651-
+• Zach Toussaint Assistant Coach ztoussaint@wtamu.edu
+• Josh Prock Head Coach jprock@wtamu.edu 806-651-
+• Will Sherman Associate Head Coach wsherman@wtamu.edu 806-651-
+• Shawna Monreal Assistant Coach smonreal@wtamu.edu
+• Zach Daniel Head Cross Country Coach / Distance zdaniel@wtamu.edu 806-651-
+• Josh Lynn Head Coach dlynn@wtamu.edu 806-651-
+• Shayne Shade Assistant Head Coach / Defensive Line / sshade@wtamu.edu 806-651-
+• Justin Richter Assistant Coach / Defensive Coordinator / jrichter@wtamu.edu 806-651-
+• Justin Bane Assistant Coach / Offensive Coordinator / jbane@wtamu.edu 806-651-
+• Cody Russell Assistant Coach / Special Teams Coordinator / crussell@wtamu.edu 806-651-
+• Mike Bethea Assistant Coach / Linebackers mbethea@wtamu.edu 806-651-
+• Adrian Duncan Assistant Coach / Running Backs aduncan@wtamu.edu 806-651-
+• Cole McDowell Assistant Coach / Tight Ends kmcdowell@wtamu.edu 806-651-
+• Axel Ochoa Head Coach aochoa@wtamu.edu 806-651-
+• Meredith Jameson Head Coach mjameson@wtamu.edu 806-651-
+• Butch Lauffer Head Coach robert.lauffer@wtamu.edu 806-651-
+• James Crowder Associate Head Coach jcrowder@wtamu.edu 806-651-
+• Turk Ozturk Head Coach bozturk@wtamu.edu 806-651-
+• Natasha Pendleton Flores Assistant Coach npendleton@wtamu.edu
+• Michael Mook Head Coach mmook@wtamu.edu 806-651-
+• Jenelle Trautmann Assistant Coach jtrautmann@wtamu.edu 806-651-
+• Zach Daniel Head Cross Country Coach / Distance zdaniel@wtamu.edu 806-651-
+• Ryan Gibson Associate Head Track & Field Coach / Jumps & rgibson@wtamu.edu 806-651-
+• Randy Denham Assistant Coach / Throws rdenham@wtamu.edu 806-651-
+• Terry Gamble Head Volleyball Coach tgamble@wtamu.edu 806-651-
+• Tammy Butler Assistant Coach tbutler@wtamu.edu 806-651-
+• Genevieve Hopkinson Assistant Coach ghopkinson@wtamu.edu

@@ -1,0 +1,286 @@
+COACH ENTRIES FOUND - 2025-10-06 18:36:56
+============================================================
+
+Total coaches found: 40
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dakota Coon
+   Email: dacoon1@wsc.edu
+   Username: dacoon1
+   Phone: (402) 375-7465
+   Original line: Dakota Coon Head Strength and Conditioning Coach dacoon1@wsc.edu 402-375-7465
+
+2. Devon Johns
+   Email: dejohns3@wsc.edu
+   Username: dejohns3
+   Phone: (402) 375-7465
+   Original line: Devon Johns Strength and Conditioning Coaching Assistant dejohns3@wsc.edu 402-375-7465
+
+3. Nick Krivanek
+   Email: nikriv01@wsc.edu
+   Username: nikriv01
+   Phone: (402) 375-7465
+   Original line: Nick Krivanek Graduate Assistant Strength and Conditioning Coach nikriv01@wsc.edu 402-375-7465
+
+4. Kim Endicott
+   Email: kiendi01@wsc.edu
+   Username: kiendi01
+   Phone: (402) 375-7520
+   Original line: Kim Endicott Cheerleading Coach kiendi01@wsc.edu 402-375-7520
+
+5. Taryn Thompson
+   Email: tawint01@wsc.edu
+   Username: tawint01
+   Original line: Taryn Thompson Head Dance Coach (Aristocats) tawint01@wsc.edu
+
+6. Josie Miller
+   Email: jomill10@wsc.edu
+   Username: jomill10
+   Original line: Josie Miller Dance Team Coaching Assistant (Aristocats) jomill10@wsc.edu
+
+7. Alex Koch
+   Email: alkoch1@wsc.edu
+   Username: alkoch1
+   Phone: (402) 375-7499
+   Original line: Alex Koch Head Baseball Coach alkoch1@wsc.edu 402-375-7499
+
+8. Tyler Vaughn
+   Email: tyvaugh1@wsc.edu
+   Username: tyvaugh1
+   Phone: (402) 375-7449
+   Original line: Tyler Vaughn Assistant Baseball Coach tyvaugh1@wsc.edu 402-375-7449
+
+9. Nick Geffre
+   Email: nigeffr1@wsc.edu
+   Username: nigeffr1
+   Phone: (402) 375-7449
+   Original line: Nick Geffre Graduate Assistant Baseball Coach nigeffr1@wsc.edu 402-375-7449
+
+10. Jeff Kaminsky
+   Email: jekamin1@wsc.edu
+   Username: jekamin1
+   Phone: (402) 375-7309
+   Original line: Jeff Kaminsky Head Men's Basketball Coach jekamin1@wsc.edu 402-375-7309
+
+11. Nathan Stover
+   Email: nastove1@wsc.edu
+   Username: nastove1
+   Phone: (402) 375-7728
+   Original line: Nathan Stover Assistant Men's Basketball Coach nastove1@wsc.edu 402-375-7728
+
+12. Sean Stokes
+   Email: sestok01@wsc.edu
+   Username: sestok01
+   Phone: (402) 375-7515
+   Original line: Sean Stokes Assistant Men's Basketball Coach sestok01@wsc.edu 402-375-7515
+
+13. Jay Saunders
+   Email: jasaun03@wsc.edu
+   Username: jasaun03
+   Original line: Jay Saunders Graduate Assistant Men's Basketball Coach jasaun03@wsc.edu
+
+14. Brian Ortmeier
+   Email: brortme1@wsc.edu
+   Username: brortme1
+   Phone: (402) 375-7311
+   Original line: Brian Ortmeier Head Women's Basketball Coach brortme1@wsc.edu 402-375-7311
+
+15. Kyle Entringer
+   Email: kyentri1@wsc.edu
+   Username: kyentri1
+   Phone: (402) 375-7122
+   Original line: Kyle Entringer Assistant Women's Basketball Coach kyentri1@wsc.edu 402-375-7122
+
+16. Brigid Boyle
+   Email: brboyl02@wsc.edu
+   Username: brboyl02
+   Original line: Brigid Boyle Graduate Assistant Women's Basketball Coach brboyl02@wsc.edu
+
+17. Scott Kneifl
+   Email: sckneif1@wsc.edu
+   Username: sckneif1
+   Phone: (402) 375-7303
+   Original line: Scott Kneifl Head Beach Volleyball Coach sckneif1@wsc.edu 402-375-7303
+
+18. Kim DePew
+   Email: kiedwar1@wsc.edu
+   Username: kiedwar1
+   Phone: (402) 375-7560
+   Original line: Kim DePew Assistant Beach Volleyball Coach kiedwar1@wsc.edu 402-375-7560
+
+19. Katie Morris
+   Email: kamorri2@wsc.edu
+   Username: kamorri2
+   Phone: (402) 375-7560
+   Original line: Katie Morris Assistant Beach Volleyball Coach kamorri2@wsc.edu 402-375-7560
+
+20. Marlon Brink
+   Email: mabrink1@wsc.edu
+   Username: mabrink1
+   Phone: (402) 375-7507
+   Original line: Marlon Brink Head Coach for Cross Country mabrink1@wsc.edu 402-375-7507
+
+21. Logan Masters
+   Email: lomaste1@wsc.edu
+   Username: lomaste1
+   Phone: (402) 375-7315
+   Original line: Logan Masters Head Football Coach lomaste1@wsc.edu 402-375-7315
+
+22. D'Mauria Martin
+   Email: dmarti1@wsc.edu
+   Username: dmarti1
+   Phone: (402) 375-7157
+   Original line: D'Mauria Martin Assistant Football Coach - Special Teams & Defensive Backs dmarti1@wsc.edu 402-375-7157
+
+23. Zach Morel
+   Email: zamorel1@wsc.edu
+   Username: zamorel1
+   Phone: (402) 375-7084
+   Original line: Zach Morel Assistant Football Coach - Running Backs zamorel1@wsc.edu 402-375-7084
+
+24. Will Anglin
+   Email: wiangli1@wsc.edu
+   Username: wiangli1
+   Phone: (402) 375-7703
+   Original line: Will Anglin Football Coaching Assistant - Defensive Line wiangli1@wsc.edu 402-375-7703
+
+25. Kaleb Gaster
+   Email: kagaste1@wsc.edu
+   Username: kagaste1
+   Phone: (402) 375-7720
+   Original line: Kaleb Gaster Coaching Assistant - Offensive Line kagaste1@wsc.edu 402-375-7720
+
+26. Tanner Johnson
+   Email: tajohns1@wsc.edu
+   Username: tajohns1
+   Phone: (402) 375-7077
+   Original line: Tanner Johnson Football Coaching Assistant - Tight Ends tajohns1@wsc.edu 402-375-7077
+
+27. Isaiah Powell-Major
+   Email: ispowe1@wsc.edu
+   Username: ispowe1
+   Phone: (402) 375-7313
+   Original line: Isaiah Powell-Major Graduate Assistant Football Coach - Defensive Backs ispowe1@wsc.edu 402-375-7313
+
+28. Christy Warnock
+   Email: chwarno1@wsc.edu
+   Username: chwarno1
+   Phone: (402) 375-7522
+   Original line: Christy Warnock Head Softball Coach chwarno1@wsc.edu 402-375-7522
+
+29. Noah Roberts
+   Email: norobe01@wsc.edu
+   Username: norobe01
+   Phone: (402) 375-7227
+   Original line: Noah Roberts Assistant Softball Coach norobe01@wsc.edu 402-375-7227
+
+30. Kim Vidlak
+   Email: kividl01@wsc.edu
+   Username: kividl01
+   Original line: Kim Vidlak Graduate Assistant Softball Coach kividl01@wsc.edu
+
+31. Nick Swaney
+   Email: niswan01@wsc.edu
+   Username: niswan01
+   Phone: (402) 375-7108
+   Original line: Nick Swaney Head Women's Golf Coach niswan01@wsc.edu 402-375-7108
+
+32. Emily Hester
+   Email: emheste1@wsc.edu
+   Username: emheste1
+   Phone: (402) 375-7733
+   Original line: Emily Hester Head Women's Soccer Coach emheste1@wsc.edu 402-375-7733
+
+33. Chris McNaughton
+   Email: chmcnau1@wsc.edu
+   Username: chmcnau1
+   Phone: (402) 375-7506
+   Original line: Chris McNaughton Assistant Women's Soccer Coach chmcnau1@wsc.edu 402-375-7506
+
+34. Marlon Brink
+   Email: mabrink1@wsc.edu
+   Username: mabrink1
+   Phone: (402) 375-7507
+   Original line: Marlon Brink Head Coach for Track and Field mabrink1@wsc.edu 402-375-7507
+
+35. Carly Fehringer
+   Email: cafehri1@wsc.edu
+   Username: cafehri1
+   Phone: (402) 375-7507
+   Original line: Carly Fehringer Assistant Track and Field Coach/Throws cafehri1@wsc.edu 402-375-7507
+
+36. Travis Kamm
+   Email: trkamm1@wsc.edu
+   Username: trkamm1
+   Phone: (402) 375-7507
+   Original line: Travis Kamm Assistant Track and Field Coach - Sprints/Hurdles/Jumps trkamm1@wsc.edu 402-375-7507
+
+37. Preston Davis
+   Email: prdavi01@wsc.edu
+   Username: prdavi01
+   Phone: (402) 375-7507
+   Original line: Preston Davis Coaching Assistant - Track and Field prdavi01@wsc.edu 402-375-7507
+
+38. Scott Kneifl
+   Email: sckneif1@wsc.edu
+   Username: sckneif1
+   Phone: (402) 375-7303
+   Original line: Scott Kneifl Head Volleyball Coach sckneif1@wsc.edu 402-375-7303
+
+39. Kim DePew
+   Email: kiedwar1@wsc.edu
+   Username: kiedwar1
+   Phone: (402) 375-7560
+   Original line: Kim DePew Assistant Volleyball Coach kiedwar1@wsc.edu 402-375-7560
+
+40. Katie Morris
+   Email: kamorri2@wsc.edu
+   Username: kamorri2
+   Phone: (402) 375-7560
+   Original line: Katie Morris Assistant Volleyball Coach kamorri2@wsc.edu 402-375-7560
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dakota Coon Head Strength and Conditioning Coach dacoon1@wsc.edu 402-375-7465
+• Devon Johns Strength and Conditioning Coaching Assistant dejohns3@wsc.edu 402-375-7465
+• Nick Krivanek Graduate Assistant Strength and Conditioning Coach nikriv01@wsc.edu 402-375-7465
+• Kim Endicott Cheerleading Coach kiendi01@wsc.edu 402-375-7520
+• Taryn Thompson Head Dance Coach (Aristocats) tawint01@wsc.edu
+• Josie Miller Dance Team Coaching Assistant (Aristocats) jomill10@wsc.edu
+• Alex Koch Head Baseball Coach alkoch1@wsc.edu 402-375-7499
+• Tyler Vaughn Assistant Baseball Coach tyvaugh1@wsc.edu 402-375-7449
+• Nick Geffre Graduate Assistant Baseball Coach nigeffr1@wsc.edu 402-375-7449
+• Jeff Kaminsky Head Men's Basketball Coach jekamin1@wsc.edu 402-375-7309
+• Nathan Stover Assistant Men's Basketball Coach nastove1@wsc.edu 402-375-7728
+• Sean Stokes Assistant Men's Basketball Coach sestok01@wsc.edu 402-375-7515
+• Jay Saunders Graduate Assistant Men's Basketball Coach jasaun03@wsc.edu
+• Brian Ortmeier Head Women's Basketball Coach brortme1@wsc.edu 402-375-7311
+• Kyle Entringer Assistant Women's Basketball Coach kyentri1@wsc.edu 402-375-7122
+• Brigid Boyle Graduate Assistant Women's Basketball Coach brboyl02@wsc.edu
+• Scott Kneifl Head Beach Volleyball Coach sckneif1@wsc.edu 402-375-7303
+• Kim DePew Assistant Beach Volleyball Coach kiedwar1@wsc.edu 402-375-7560
+• Katie Morris Assistant Beach Volleyball Coach kamorri2@wsc.edu 402-375-7560
+• Marlon Brink Head Coach for Cross Country mabrink1@wsc.edu 402-375-7507
+• Logan Masters Head Football Coach lomaste1@wsc.edu 402-375-7315
+• D'Mauria Martin Assistant Football Coach - Special Teams & Defensive Backs dmarti1@wsc.edu 402-375-7157
+• Zach Morel Assistant Football Coach - Running Backs zamorel1@wsc.edu 402-375-7084
+• Will Anglin Football Coaching Assistant - Defensive Line wiangli1@wsc.edu 402-375-7703
+• Kaleb Gaster Coaching Assistant - Offensive Line kagaste1@wsc.edu 402-375-7720
+• Tanner Johnson Football Coaching Assistant - Tight Ends tajohns1@wsc.edu 402-375-7077
+• Isaiah Powell-Major Graduate Assistant Football Coach - Defensive Backs ispowe1@wsc.edu 402-375-7313
+• Christy Warnock Head Softball Coach chwarno1@wsc.edu 402-375-7522
+• Noah Roberts Assistant Softball Coach norobe01@wsc.edu 402-375-7227
+• Kim Vidlak Graduate Assistant Softball Coach kividl01@wsc.edu
+• Nick Swaney Head Women's Golf Coach niswan01@wsc.edu 402-375-7108
+• Emily Hester Head Women's Soccer Coach emheste1@wsc.edu 402-375-7733
+• Chris McNaughton Assistant Women's Soccer Coach chmcnau1@wsc.edu 402-375-7506
+• Marlon Brink Head Coach for Track and Field mabrink1@wsc.edu 402-375-7507
+• Carly Fehringer Assistant Track and Field Coach/Throws cafehri1@wsc.edu 402-375-7507
+• Travis Kamm Assistant Track and Field Coach - Sprints/Hurdles/Jumps trkamm1@wsc.edu 402-375-7507
+• Preston Davis Coaching Assistant - Track and Field prdavi01@wsc.edu 402-375-7507
+• Scott Kneifl Head Volleyball Coach sckneif1@wsc.edu 402-375-7303
+• Kim DePew Assistant Volleyball Coach kiedwar1@wsc.edu 402-375-7560
+• Katie Morris Assistant Volleyball Coach kamorri2@wsc.edu 402-375-7560

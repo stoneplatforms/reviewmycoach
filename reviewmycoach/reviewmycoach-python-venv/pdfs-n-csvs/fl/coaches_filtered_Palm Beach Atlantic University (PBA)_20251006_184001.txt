@@ -1,0 +1,293 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:02
+============================================================
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. Elliott Walters
+   Email: elliott_walters@pba.edu
+   Username: elliott_walters
+   Original line: Elliott Walters Head Strength and Conditioning Coach elliott_walters@pba.edu 561-803-
+
+2. Talia Thompson
+   Email: talia_thompson@pba.edu
+   Username: talia_thompson
+   Original line: Talia Thompson Assistant Strength and Conditioning Coach talia_thompson@pba.edu 561-803-
+
+3. Kent Bottenfield
+   Email: kent_bottenfield@pba.edu
+   Username: kent_bottenfield
+   Original line: Kent Bottenfield Head Baseball Coach kent_bottenfield@pba.edu 561-803-
+
+4. Mitch Calandra
+   Email: mitchell_calandra@pba.edu
+   Username: mitchell_calandra
+   Original line: Mitch Calandra Assistant Head Baseball Coach mitchell_calandra@pba.edu 561-803-
+
+5. Simeon Davis
+   Email: simeon_davis@pba.edu
+   Username: simeon_davis
+   Original line: Simeon Davis Assistant Baseball Coach simeon_davis@pba.edu
+
+6. Cole Rose
+   Email: coleman_rose@pba.edu
+   Username: coleman_rose
+   Original line: Cole Rose Head Men's Basketball Coach coleman_rose@pba.edu 561-803-
+
+7. Bobby Hain
+   Email: robert_hain@pba.edu
+   Username: robert_hain
+   Original line: Bobby Hain Assistant Men's Basketball Coach robert_hain@pba.edu 561-803-
+
+8. Quay Kennedy
+   Email: quadrious_kennedy@pba.edu
+   Username: quadrious_kennedy
+   Original line: Quay Kennedy Assistant Men's Basketball Coach quadrious_kennedy@pba.edu
+
+9. Grahm Smith
+   Email: grahm_smith@pba.edu
+   Username: grahm_smith
+   Original line: Grahm Smith Head Women's Basketball Coach grahm_smith@pba.edu 561-803-
+
+10. Brooklyn Pannell
+   Email: brooklyn_pannell@pba.edu
+   Username: brooklyn_pannell
+   Original line: Brooklyn Pannell Assistant Women's Basketball Coach brooklyn_pannell@pba.edu 561-803-
+
+11. Jazz Schmidt
+   Email: jasmine_schmidt@pba.edu
+   Username: jasmine_schmidt
+   Original line: Jazz Schmidt Head Beach Volleyball Coach jasmine_schmidt@pba.edu 561-803-
+
+12. Lyndzey Brigham
+   Email: lyndzey_brigham@pba.edu
+   Username: lyndzey_brigham
+   Original line: Lyndzey Brigham Assistant Beach Volleyball Coach lyndzey_brigham@pba.edu
+
+13. Mark Rennix
+   Email: mark_rennix@pba.edu
+   Username: mark_rennix
+   Original line: Mark Rennix Head Cross Country/Track Coach mark_rennix@pba.edu 561-803-
+
+14. Allie Busch
+   Email: allie_busch@pba.edu
+   Username: allie_busch
+   Original line: Allie Busch Assistant Cross Country/Track Coach allie_busch@pba.edu
+
+15. Mark Rennix
+   Email: mark_rennix@pba.edu
+   Username: mark_rennix
+   Original line: Mark Rennix Head Cross Country/Track Coach mark_rennix@pba.edu 561-803-
+
+16. Allie Busch
+   Email: allie_busch@pba.edu
+   Username: allie_busch
+   Original line: Allie Busch Assistant Cross Country/Track Coach allie_busch@pba.edu
+
+17. Alex Sosa
+   Email: alexander_andradesosa@pba.edu
+   Username: alexander_andradesosa
+   Original line: Alex Sosa Assistant Cross Country/Track Coach alexander_andradesosa@pba.edu
+
+18. Anthony Monaco
+   Email: anthony_monaco@pba.edu
+   Username: anthony_monaco
+   Original line: Anthony Monaco Head Men's Golf Coach anthony_monaco@pba.edu 561-803-
+
+19. Mitchell Nolan
+   Email: mitchell_Nolan@pba.edu
+   Username: mitchell_Nolan
+   Original line: Mitchell Nolan Assistant Men's Golf Coach mitchell_Nolan@pba.edu
+
+20. Tim Graham
+   Email: timothy_graham@pba.edu
+   Username: timothy_graham
+   Original line: Tim Graham Head Women's Golf Coach timothy_graham@pba.edu 561-803-
+
+21. Maria Pardo
+   Email: maria_pardovictori@pba.edu
+   Username: maria_pardovictori
+   Original line: Maria Pardo Victori Assistant Women's Golf Coach maria_pardovictori@pba.edu
+
+22. Emme Lantis
+   Email: emme_lantis@pba.edu
+   Username: emme_lantis
+   Original line: Emme Lantis Assistant Women's Golf Coach emme_lantis@pba.edu
+
+23. Riley Hamilton
+   Email: riley_hamilton@pba.edu
+   Username: riley_hamilton
+   Original line: Riley Hamilton Assistant Women's Golf Coach riley_hamilton@pba.edu
+
+24. Dan Carson
+   Email: daniel_carson@pba.edu
+   Username: daniel_carson
+   Original line: Dan Carson Head Men's Lacrosse Coach daniel_carson@pba.edu 561-803-
+
+25. Gunner Gebelein
+   Email: gunner_gebelein@pba.edu
+   Username: gunner_gebelein
+   Original line: Gunner Gebelein Assistant Men's Lacrosse Coach gunner_gebelein@pba.edu
+
+26. Laurie Podmilsak
+   Email: laurie_podmilsak@pba.edu
+   Username: laurie_podmilsak
+   Original line: Laurie Podmilsak Head Women's Lacrosse Coach laurie_podmilsak@pba.edu 561-803-
+
+27. Lauren Dickson
+   Email: lauren_dickson@pba.edu
+   Username: lauren_dickson
+   Original line: Lauren Dickson Assistant Women's Lacrosse Coach lauren_dickson@pba.edu 561-803-
+
+28. Lucas Martorana
+   Email: lucas_martorana@pba.edu
+   Username: lucas_martorana
+   Original line: Lucas Martorana Head Men's Soccer Coach lucas_martorana@pba.edu 561-803-
+
+29. Pete Arnold
+   Email: peter_arnold@pba.edu
+   Username: peter_arnold
+   Original line: Pete Arnold Assistant Men's Soccer Coach peter_arnold@pba.edu
+
+30. Leo Jean-Jacques
+   Email: leonard_jean-jacques@pba.edu
+   Username: leonard_jean-jacques
+   Original line: Leo Jean-Jacques Assistant Men's Soccer Coach leonard_jean-jacques@pba.edu
+
+31. Jake Strachan
+   Email: jake_strachan@pba.edu
+   Username: jake_strachan
+   Original line: Jake Strachan Assistant Men's Soccer Coach jake_strachan@pba.edu
+
+32. Guillermo Falo
+   Email: guillermo_falo1@pba.edu
+   Username: guillermo_falo1
+   Original line: Guillermo Falo Assistant Men's Soccer Coach guillermo_falo1@pba.edu
+
+33. Stephanie Cradduck
+   Email: stephanie_cradduck@pba.edu
+   Username: stephanie_cradduck
+   Original line: Stephanie Cradduck Head Women's Soccer Coach stephanie_cradduck@pba.edu 561-803-
+
+34. Brandon Medina
+   Email: brandon_medina@pba.edu
+   Username: brandon_medina
+   Original line: Brandon Medina Assistant Women's Soccer Coach brandon_medina@pba.edu
+
+35. Kasey Cox
+   Email: kasey_cox@pba.edu
+   Username: kasey_cox
+   Original line: Kasey Cox Head Softball Coach kasey_cox@pba.edu 561-803-
+
+36. Isabella Hernandez
+   Email: isabella_hernandez@pba.edu
+   Username: isabella_hernandez
+   Original line: Isabella Hernandez Assistant Softball Coach isabella_hernandez@pba.edu
+
+37. Gabby Sacco
+   Email: gabriella_sacco@pba.edu
+   Username: gabriella_sacco
+   Original line: Gabby Sacco Assistant Softball Coach gabriella_sacco@pba.edu
+
+38. Marc Murray
+   Email: marc_murray@pba.edu
+   Username: marc_murray
+   Original line: Marc Murray Head Tennis Coach marc_murray@pba.edu 561-803-
+
+39. Andres Meneses
+   Email: andres_meneses@pba.edu
+   Username: andres_meneses
+   Original line: Andres Meneses Assistant Tennis Coach andres_meneses@pba.edu
+
+40. Frida Alsterhem
+   Email: frida_alsterhem@pba.edu
+   Username: frida_alsterhem
+   Original line: Frida Alsterhem Assistant Tennis Coach frida_alsterhem@pba.edu
+
+41. Marc Murray
+   Email: marc_murray@pba.edu
+   Username: marc_murray
+   Original line: Marc Murray Head Tennis Coach marc_murray@pba.edu 561-803-
+
+42. Andres Meneses
+   Email: andres_meneses@pba.edu
+   Username: andres_meneses
+   Original line: Andres Meneses Assistant Tennis Coach andres_meneses@pba.edu
+
+43. Frida Alsterhem
+   Email: frida_alsterhem@pba.edu
+   Username: frida_alsterhem
+   Original line: Frida Alsterhem Assistant Tennis Coach frida_alsterhem@pba.edu
+
+44. Jeff Huebner
+   Email: jeff_huebner@pba.edu
+   Username: jeff_huebner
+   Original line: Jeff Huebner Head Volleyball Coach jeff_huebner@pba.edu 561-803-
+
+45. Luiza Andrade
+   Email: luiza_andrade@pba.edu
+   Username: luiza_andrade
+   Original line: Luiza Andrade Associate Head Volleyball Coach luiza_andrade@pba.edu 561-803-
+
+46. Joshua Petree
+   Email: joshua_petree@pba.edu
+   Username: joshua_petree
+   Original line: Joshua Petree Head Esports Coach joshua_petree@pba.edu 561-803-
+
+47. Kirsten Delany
+   Email: kirsten_delany@pba.edu
+   Username: kirsten_delany
+   Original line: Kirsten Delany Head Sailing Coach kirsten_delany@pba.edu 561-803-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Elliott Walters Head Strength and Conditioning Coach elliott_walters@pba.edu 561-803-
+• Talia Thompson Assistant Strength and Conditioning Coach talia_thompson@pba.edu 561-803-
+• Kent Bottenfield Head Baseball Coach kent_bottenfield@pba.edu 561-803-
+• Mitch Calandra Assistant Head Baseball Coach mitchell_calandra@pba.edu 561-803-
+• Simeon Davis Assistant Baseball Coach simeon_davis@pba.edu
+• Cole Rose Head Men's Basketball Coach coleman_rose@pba.edu 561-803-
+• Bobby Hain Assistant Men's Basketball Coach robert_hain@pba.edu 561-803-
+• Quay Kennedy Assistant Men's Basketball Coach quadrious_kennedy@pba.edu
+• Grahm Smith Head Women's Basketball Coach grahm_smith@pba.edu 561-803-
+• Brooklyn Pannell Assistant Women's Basketball Coach brooklyn_pannell@pba.edu 561-803-
+• Jazz Schmidt Head Beach Volleyball Coach jasmine_schmidt@pba.edu 561-803-
+• Lyndzey Brigham Assistant Beach Volleyball Coach lyndzey_brigham@pba.edu
+• Mark Rennix Head Cross Country/Track Coach mark_rennix@pba.edu 561-803-
+• Allie Busch Assistant Cross Country/Track Coach allie_busch@pba.edu
+• Mark Rennix Head Cross Country/Track Coach mark_rennix@pba.edu 561-803-
+• Allie Busch Assistant Cross Country/Track Coach allie_busch@pba.edu
+• Alex Sosa Assistant Cross Country/Track Coach alexander_andradesosa@pba.edu
+• Anthony Monaco Head Men's Golf Coach anthony_monaco@pba.edu 561-803-
+• Mitchell Nolan Assistant Men's Golf Coach mitchell_Nolan@pba.edu
+• Tim Graham Head Women's Golf Coach timothy_graham@pba.edu 561-803-
+• Maria Pardo Victori Assistant Women's Golf Coach maria_pardovictori@pba.edu
+• Emme Lantis Assistant Women's Golf Coach emme_lantis@pba.edu
+• Riley Hamilton Assistant Women's Golf Coach riley_hamilton@pba.edu
+• Dan Carson Head Men's Lacrosse Coach daniel_carson@pba.edu 561-803-
+• Gunner Gebelein Assistant Men's Lacrosse Coach gunner_gebelein@pba.edu
+• Laurie Podmilsak Head Women's Lacrosse Coach laurie_podmilsak@pba.edu 561-803-
+• Lauren Dickson Assistant Women's Lacrosse Coach lauren_dickson@pba.edu 561-803-
+• Lucas Martorana Head Men's Soccer Coach lucas_martorana@pba.edu 561-803-
+• Pete Arnold Assistant Men's Soccer Coach peter_arnold@pba.edu
+• Leo Jean-Jacques Assistant Men's Soccer Coach leonard_jean-jacques@pba.edu
+• Jake Strachan Assistant Men's Soccer Coach jake_strachan@pba.edu
+• Guillermo Falo Assistant Men's Soccer Coach guillermo_falo1@pba.edu
+• Stephanie Cradduck Head Women's Soccer Coach stephanie_cradduck@pba.edu 561-803-
+• Brandon Medina Assistant Women's Soccer Coach brandon_medina@pba.edu
+• Kasey Cox Head Softball Coach kasey_cox@pba.edu 561-803-
+• Isabella Hernandez Assistant Softball Coach isabella_hernandez@pba.edu
+• Gabby Sacco Assistant Softball Coach gabriella_sacco@pba.edu
+• Marc Murray Head Tennis Coach marc_murray@pba.edu 561-803-
+• Andres Meneses Assistant Tennis Coach andres_meneses@pba.edu
+• Frida Alsterhem Assistant Tennis Coach frida_alsterhem@pba.edu
+• Marc Murray Head Tennis Coach marc_murray@pba.edu 561-803-
+• Andres Meneses Assistant Tennis Coach andres_meneses@pba.edu
+• Frida Alsterhem Assistant Tennis Coach frida_alsterhem@pba.edu
+• Jeff Huebner Head Volleyball Coach jeff_huebner@pba.edu 561-803-
+• Luiza Andrade Associate Head Volleyball Coach luiza_andrade@pba.edu 561-803-
+• Joshua Petree Head Esports Coach joshua_petree@pba.edu 561-803-
+• Kirsten Delany Head Sailing Coach kirsten_delany@pba.edu 561-803-

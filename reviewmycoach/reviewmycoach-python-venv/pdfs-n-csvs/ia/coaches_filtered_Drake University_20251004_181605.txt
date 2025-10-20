@@ -1,0 +1,245 @@
+COACH ENTRIES FOUND - 2025-10-04 18:16:05
+============================================================
+
+Total coaches found: 39
+
+PARSED ENTRIES:
+----------------------------------------
+1. Eric Henderson
+   Email: eric.henderson@drake.edu
+   Username: eric.henderson
+   Original line: Eric Henderson Head Coach eric.henderson@drake.edu
+
+2. Rob Klinkefus
+   Email: rob.klinkefus@drake.edu
+   Username: rob.klinkefus
+   Original line: Rob Klinkefus Assistant Coach rob.klinkefus@drake.edu
+
+3. Tramel Barnes
+   Email: tramel.barnes@drake.edu
+   Username: tramel.barnes
+   Original line: Tramel Barnes Assistant Coach tramel.barnes@drake.edu
+
+4. Billy Brown
+   Email: billy.brown@drake.edu
+   Username: billy.brown
+   Original line: Billy Brown Assistant Coach billy.brown@drake.edu
+
+5. Gavin Block
+   Email: gavin.block@drake.edu
+   Username: gavin.block
+   Original line: Gavin Block Assistant Coach gavin.block@drake.edu
+
+6. Warren Niles
+   Email: warren.niles@drake.edu
+   Username: warren.niles
+   Original line: Warren Niles Assistant Coach warren.niles@drake.edu
+
+7. Allison Pohlman
+   Email: allison.pohlman@drake.edu
+   Username: allison.pohlman
+   Original line: Allison Pohlman Suzie Glazer Burt Head allison.pohlman@drake.edu DrakeCoachAP coachap allison.pohlman.3
+
+8. Kelli Greenway
+   Email: kelli.greenway@drake.edu
+   Username: kelli.greenway
+   Original line: Kelli Greenway Assistant Coach kelli.greenway@drake.edu kelligreenway kelli.terrell
+
+9. Kristin Rotert
+   Email: kristin.rotert@drake.edu
+   Username: kristin.rotert
+   Original line: Kristin Rotert Assistant Coach kristin.rotert@drake.edu
+
+10. Whitney Moia
+   Email: whitney.moia@drake.edu
+   Username: whitney.moia
+   Original line: Whitney Moia Assistant Coach whitney.moia@drake.edu whitneymoia whitneymoia whitney.moia
+
+11. Lisa Carlsen
+   Email: lisa.carlsen@drake.edu
+   Username: lisa.carlsen
+   Original line: Lisa Carlsen Assistant Coach lisa.carlsen@drake.edu
+
+12. Becca Hittner
+   Email: rebecca.hittner@drake.edu
+   Username: rebecca.hittner
+   Original line: Becca Hittner Assistant Coach/Director rebecca.hittner@drake.edu becca_hittner becca_hittner rebecca.hittner.3
+
+13. Hannah Weiss
+   Email: hannah.weiss@drake.edu
+   Username: hannah.weiss
+   Original line: Hannah Weiss Assistant Coach - hannah.weiss@drake.edu
+
+14. Joe Woodley
+   Email: joe.woodley@drake.edu
+   Username: joe.woodley
+   Original line: Joe Woodley Head Coach joe.woodley@drake.edu
+
+15. Joe Evans
+   Email: joe.evans@drake.edu
+   Username: joe.evans
+   Original line: Joe Evans Defensive Line Coach joe.evans@drake.edu
+
+16. Quincy Griffith
+   Email: quincy.griffith@drake.edu
+   Username: quincy.griffith
+   Original line: Quincy Griffith Offensive Line Coach quincy.griffith@drake.edu
+
+17. Drew Adams
+   Email: andrew.adams@drake.edu
+   Username: andrew.adams
+   Original line: Drew Adams Wide Receivers Coach andrew.adams@drake.edu
+
+18. Bobby Cade
+   Email: robert.mornhinweg@drake.edu
+   Username: robert.mornhinweg
+   Original line: Bobby Cade Mornhinweg Tight Ends Coach robert.mornhinweg@drake.edu
+
+19. Cam Gardner
+   Email: cameron.gardner@drake.edu
+   Username: cameron.gardner
+   Original line: Cam Gardner Running Backs Coach cameron.gardner@drake.edu
+
+20. Matt Lewis
+   Email: matt.lewis@drake.edu
+   Username: matt.lewis
+   Original line: Matt Lewis Head Coach matt.lewis@drake.edu 271-
+
+21. Steve Smith
+   Email: steven.smith@drake.edu
+   Username: steven.smith
+   Original line: Steve Smith Head Coach steven.smith@drake.edu
+
+22. Charlie DiSilvestro
+   Email: charlie.disilvestro@drake.edu
+   Username: charlie.disilvestro
+   Original line: Charlie DiSilvestro Head Coach charlie.disilvestro@drake.edu 271-
+
+23. Laurna Atkins
+   Email: laurna.atkins@drake.edu
+   Username: laurna.atkins
+   Original line: Laurna Atkins Assistant Coach laurna.atkins@drake.edu
+
+24. Alana Rater
+   Email: alana.rater@drake.edu
+   Username: alana.rater
+   Original line: Alana Rater Assistant Coach alana.rater@drake.edu
+
+25. Pat Flinn
+   Email: patrick.flinn@drake.edu
+   Username: patrick.flinn
+   Original line: Pat Flinn Head Coach patrick.flinn@drake.edu
+
+26. Kyle Smith
+   Email: kyle.smith@drake.edu
+   Username: kyle.smith
+   Original line: Kyle Smith Associate Head Coach kyle.smith@drake.edu 271-
+
+27. Leroy Enzugusi
+   Email: leroy.enzugusi@drake.edu
+   Username: leroy.enzugusi
+   Original line: Leroy Enzugusi Assistant Coach leroy.enzugusi@drake.edu
+
+28. Lindsey Horner
+   Email: soccer@drake.edu
+   Username: soccer
+   Original line: Lindsey Horner Head Coach soccer@drake.edu 271-
+
+29. Kevin Brennan
+   Email: kevin.brennan@drake.edu
+   Username: kevin.brennan
+   Original line: Kevin Brennan Associate Head Coach kevin.brennan@drake.edu 271-
+
+30. Matt Tennyson
+   Email: matt.tennyson@drake.edu
+   Username: matt.tennyson
+   Original line: Matt Tennyson Assistant Coach matt.tennyson@drake.edu
+
+31. Lindsay Diehl
+   Email: lindsay.diehl@drake.edu
+   Username: lindsay.diehl
+   Original line: Lindsay Diehl Head Coach lindsay.diehl@drake.edu
+
+32. Jenn Marshall
+   Email: jenn.marshall@drake.edu
+   Username: jenn.marshall
+   Original line: Jenn Marshall Assistant Coach jenn.marshall@drake.edu
+
+33. Molly Jacobsen
+   Email: molly.jacobsen@drake.edu
+   Username: molly.jacobsen
+   Original line: Molly Jacobsen McCargar Pitching Coach molly.jacobsen@drake.edu
+
+34. Justin Stuckey
+   Email: justin.stuckey@drake.edu
+   Username: justin.stuckey
+   Original line: Justin Stuckey Head Coach justin.stuckey@drake.edu
+
+35. Calvin Song
+   Email: calvin.song@drake.edu
+   Username: calvin.song
+   Original line: Calvin Song Head Coach calvin.song@drake.edu
+
+36. Karen Barnes
+   Email: karen.barnes@drake.edu
+   Username: karen.barnes
+   Original line: Karen Barnes Assistant Coach karen.barnes@drake.edu
+
+37. Hannah Weiss
+   Email: hannah.weiss@drake.edu
+   Username: hannah.weiss
+   Original line: Hannah Weiss Assistant Coach - hannah.weiss@drake.edu
+
+38. Darrin McBroom
+   Email: darrin.mcbroom@drake.edu
+   Username: darrin.mcbroom
+   Original line: Darrin McBroom Head Coach darrin.mcbroom@drake.edu 271-
+
+39. Addison Barnes
+   Email: addison.barnes@drake.edu
+   Username: addison.barnes
+   Original line: Addison Barnes Assistant Coach addison.barnes@drake.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Eric Henderson Head Coach eric.henderson@drake.edu
+• Rob Klinkefus Assistant Coach rob.klinkefus@drake.edu
+• Tramel Barnes Assistant Coach tramel.barnes@drake.edu
+• Billy Brown Assistant Coach billy.brown@drake.edu
+• Gavin Block Assistant Coach gavin.block@drake.edu
+• Warren Niles Assistant Coach warren.niles@drake.edu
+• Allison Pohlman Suzie Glazer Burt Head allison.pohlman@drake.edu DrakeCoachAP coachap allison.pohlman.3
+• Kelli Greenway Assistant Coach kelli.greenway@drake.edu kelligreenway kelli.terrell
+• Kristin Rotert Assistant Coach kristin.rotert@drake.edu
+• Whitney Moia Assistant Coach whitney.moia@drake.edu whitneymoia whitneymoia whitney.moia
+• Lisa Carlsen Assistant Coach lisa.carlsen@drake.edu
+• Becca Hittner Assistant Coach/Director rebecca.hittner@drake.edu becca_hittner becca_hittner rebecca.hittner.3
+• Hannah Weiss Assistant Coach - hannah.weiss@drake.edu
+• Joe Woodley Head Coach joe.woodley@drake.edu
+• Joe Evans Defensive Line Coach joe.evans@drake.edu
+• Quincy Griffith Offensive Line Coach quincy.griffith@drake.edu
+• Drew Adams Wide Receivers Coach andrew.adams@drake.edu
+• Bobby Cade Mornhinweg Tight Ends Coach robert.mornhinweg@drake.edu
+• Cam Gardner Running Backs Coach cameron.gardner@drake.edu
+• Matt Lewis Head Coach matt.lewis@drake.edu 271-
+• Steve Smith Head Coach steven.smith@drake.edu
+• Charlie DiSilvestro Head Coach charlie.disilvestro@drake.edu 271-
+• Laurna Atkins Assistant Coach laurna.atkins@drake.edu
+• Alana Rater Assistant Coach alana.rater@drake.edu
+• Pat Flinn Head Coach patrick.flinn@drake.edu
+• Kyle Smith Associate Head Coach kyle.smith@drake.edu 271-
+• Leroy Enzugusi Assistant Coach leroy.enzugusi@drake.edu
+• Lindsey Horner Head Coach soccer@drake.edu 271-
+• Kevin Brennan Associate Head Coach kevin.brennan@drake.edu 271-
+• Matt Tennyson Assistant Coach matt.tennyson@drake.edu
+• Lindsay Diehl Head Coach lindsay.diehl@drake.edu
+• Jenn Marshall Assistant Coach jenn.marshall@drake.edu
+• Molly Jacobsen McCargar Pitching Coach molly.jacobsen@drake.edu
+• Justin Stuckey Head Coach justin.stuckey@drake.edu
+• Calvin Song Head Coach calvin.song@drake.edu
+• Karen Barnes Assistant Coach karen.barnes@drake.edu
+• Hannah Weiss Assistant Coach - hannah.weiss@drake.edu
+• Darrin McBroom Head Coach darrin.mcbroom@drake.edu 271-
+• Addison Barnes Assistant Coach addison.barnes@drake.edu

@@ -1,0 +1,155 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:43
+============================================================
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Joe Dreiling
+   Email: dreiling@uwp.edu
+   Username: dreiling
+   Original line: Joe Dreiling Head Coach - Strength and Conditioning dreiling@uwp.edu
+
+2. Lorenzo Tanner
+   Email: tanner@uwp.edu
+   Username: tanner
+   Original line: Lorenzo Tanner Basketball Strength & Conditioning Coach tanner@uwp.edu
+
+3. Zac Charbonneau
+   Email: charbonn@uwp.edu
+   Username: charbonn
+   Original line: Zac Charbonneau Head Coach - Baseball charbonn@uwp.edu
+
+4. Aaron Cusimano
+   Email: cusimano@uwp.edu
+   Username: cusimano
+   Original line: Aaron Cusimano Assistant Coach - Baseball cusimano@uwp.edu
+
+5. Luke Reigel
+   Email: reigel@uwp.edu
+   Username: reigel
+   Original line: Luke Reigel Head Coach - Men's Basketball reigel@uwp.edu @LukeReigel
+
+6. Rion Rayfield
+   Email: rayfield@uwp.edu
+   Username: rayfield
+   Original line: Rion Rayfield Assistant Coach - Men's Basketball rayfield@uwp.edu
+
+7. Jen Conely
+   Email: conely@uwp.edu
+   Username: conely
+   Original line: Jen Conely Head Coach - Women's Basketball conely@uwp.edu @conelyj
+
+8. Blair Arthur
+   Email: arthur@uwp.edu
+   Username: arthur
+   Original line: Blair Arthur Assistant Coach - Women's Basketball arthur@uwp.edu
+
+9. Nick Maas
+   Email: maas@uwp.edu
+   Username: maas
+   Original line: Nick Maas Director of Cross Country / Track & Field maas@uwp.edu @coach_nmaas
+
+10. James Halford
+   Email: halford@uwp.edu
+   Username: halford
+   Original line: James Halford Assistant Coach - Cross Country / Track & Field halford@uwp.edu
+
+11. Robert Boardman
+   Email: boardman@uwp.edu
+   Username: boardman
+   Original line: Robert Boardman Assistant Coach - Cross Country / Track & Field boardman@uwp.edu
+
+12. Mark Olsen
+   Email: olsenm2@uwp.edu
+   Username: olsenm2
+   Original line: Mark Olsen Volunteer Assistant Coach - Golf olsenm2@uwp.edu @UWParksideGolf
+
+13. Brittany Nikolic
+   Email: nikolic@uwp.edu
+   Username: nikolic
+   Original line: Brittany Nikolic Head Coach - Women's Soccer nikolic@uwp.edu @BrittNikolic
+
+14. Jason Zitzke
+   Email: zitzke@uwp.edu
+   Username: zitzke
+   Original line: Jason Zitzke Head Coach - Men's Soccer zitzke@uwp.edu @ParksideMSoc
+
+15. Matteo Quintero
+   Email: quintero@uwp.edu
+   Username: quintero
+   Original line: Matteo Quintero Assistant Coach - Men's Soccer quintero@uwp.edu
+
+16. Kristin Ortman
+   Email: ortman@uwp.edu
+   Username: ortman
+   Original line: Kristin Ortman Head Coach - Softball ortman@uwp.edu @UWP_Softball
+
+17. Gabby Vaughan
+   Email: vaughan@uwp.edu
+   Username: vaughan
+   Original line: Gabby Vaughan Assistant Coach - Softball vaughan@uwp.edu
+
+18. Jackie Schmit
+   Email: schmit@uwp.edu
+   Username: schmit
+   Original line: Jackie Schmit Volunteer Assistant Coach - Softball schmit@uwp.edu @UWP_Softball
+
+19. Nick Maas
+   Email: maas@uwp.edu
+   Username: maas
+   Original line: Nick Maas Director of Cross Country / Track & Field maas@uwp.edu @coach_nmaas
+
+20. James Halford
+   Email: halford@uwp.edu
+   Username: halford
+   Original line: James Halford Assistant Coach - Cross Country / Track & Field halford@uwp.edu
+
+21. Robert Boardman
+   Email: boardman@uwp.edu
+   Username: boardman
+   Original line: Robert Boardman Assistant Coach - Cross Country / Track & Field boardman@uwp.edu
+
+22. Leigh Barea
+   Email: barea@uwp.edu
+   Username: barea
+   Original line: Leigh Barea Head Coach - Volleyball barea@uwp.edu @BareaLeigh
+
+23. Dan Dresen
+   Email: dresend@uwp.edu
+   Username: dresend
+   Original line: Dan Dresen Assistant Coach - Volleyball dresend@uwp.edu @ParksideVB
+
+24. Nick Becker
+   Email: beckern@uwp.edu
+   Username: beckern
+   Original line: Nick Becker Head Coach - Wrestling beckern@uwp.edu @BeckerNick174
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Joe Dreiling Head Coach - Strength and Conditioning dreiling@uwp.edu
+• Lorenzo Tanner Basketball Strength & Conditioning Coach tanner@uwp.edu
+• Zac Charbonneau Head Coach - Baseball charbonn@uwp.edu
+• Aaron Cusimano Assistant Coach - Baseball cusimano@uwp.edu
+• Luke Reigel Head Coach - Men's Basketball reigel@uwp.edu @LukeReigel
+• Rion Rayfield Assistant Coach - Men's Basketball rayfield@uwp.edu
+• Jen Conely Head Coach - Women's Basketball conely@uwp.edu @conelyj
+• Blair Arthur Assistant Coach - Women's Basketball arthur@uwp.edu
+• Nick Maas Director of Cross Country / Track & Field maas@uwp.edu @coach_nmaas
+• James Halford Assistant Coach - Cross Country / Track & Field halford@uwp.edu
+• Robert Boardman Assistant Coach - Cross Country / Track & Field boardman@uwp.edu
+• Mark Olsen Volunteer Assistant Coach - Golf olsenm2@uwp.edu @UWParksideGolf
+• Brittany Nikolic Head Coach - Women's Soccer nikolic@uwp.edu @BrittNikolic
+• Jason Zitzke Head Coach - Men's Soccer zitzke@uwp.edu @ParksideMSoc
+• Matteo Quintero Assistant Coach - Men's Soccer quintero@uwp.edu
+• Kristin Ortman Head Coach - Softball ortman@uwp.edu @UWP_Softball
+• Gabby Vaughan Assistant Coach - Softball vaughan@uwp.edu
+• Jackie Schmit Volunteer Assistant Coach - Softball schmit@uwp.edu @UWP_Softball
+• Nick Maas Director of Cross Country / Track & Field maas@uwp.edu @coach_nmaas
+• James Halford Assistant Coach - Cross Country / Track & Field halford@uwp.edu
+• Robert Boardman Assistant Coach - Cross Country / Track & Field boardman@uwp.edu
+• Leigh Barea Head Coach - Volleyball barea@uwp.edu @BareaLeigh
+• Dan Dresen Assistant Coach - Volleyball dresend@uwp.edu @ParksideVB
+• Nick Becker Head Coach - Wrestling beckern@uwp.edu @BeckerNick174

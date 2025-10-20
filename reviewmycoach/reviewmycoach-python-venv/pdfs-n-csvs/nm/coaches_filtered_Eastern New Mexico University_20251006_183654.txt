@@ -1,0 +1,101 @@
+COACH ENTRIES FOUND - 2025-10-06 18:36:55
+============================================================
+
+Total coaches found: 15
+
+PARSED ENTRIES:
+----------------------------------------
+1. Amanda Fefel
+   Email: amanda.fefel@enmu.edu
+   Username: amanda.fefel
+   Original line: Amanda Fefel Head Softball Coach/SWA (575) 562- amanda.fefel@enmu.edu
+
+2. Riley Price
+   Email: riley.price@enmu.edu
+   Username: riley.price
+   Original line: Riley Price Head Baseball Coach (575) 562- riley.price@enmu.edu
+
+3. Casey Claflin
+   Email: casey.claflin@enmu.edu
+   Username: casey.claflin
+   Original line: Casey Claflin Assistant Baseball Coach casey.claflin@enmu.edu
+
+4. Sinclair Pitts
+   Email: sinclair.pitts@enmu.edu
+   Username: sinclair.pitts
+   Original line: Sinclair Pitts Assistant Track & Field Coach (575) 562- sinclair.pitts@enmu.edu
+
+5. Kelley Lee
+   Email: kelley.lee@enmu.edu
+   Username: kelley.lee
+   Original line: Kelley Lee Head Football Coach (575) 562- kelley.lee@enmu.edu @CoachKelleyLee
+
+6. Garrett Casteel
+   Email: garrett.casteel@enmu.edu
+   Username: garrett.casteel
+   Original line: Garrett Casteel Assistant Coach (Defensive (575) 562- garrett.casteel@enmu.edu
+
+7. Garrett Owens
+   Email: garrett.owens@enmu.edu
+   Username: garrett.owens
+   Original line: Garrett Owens Assistant Coach (Running (575) 562- garrett.owens@enmu.edu
+
+8. John Sharp
+   Email: john.w.sharp@enmu.edu
+   Username: john.w.sharp
+   Original line: John Sharp Head Rodeo Coach (575) 562- john.w.sharp@enmu.edu
+
+9. Albert Flinn
+   Email: albert.flinn@enmu.edu
+   Username: albert.flinn
+   Original line: Albert Flinn Assistant Coach (575) 562- albert.flinn@enmu.edu
+
+10. Shacie Marr
+   Email: shacie.marr@enmu.edu
+   Username: shacie.marr
+   Original line: Shacie Marr Assistant Coach shacie.marr@enmu.edu
+
+11. Nona Borden
+   Email: nona.borden@enmu.edu
+   Username: nona.borden
+   Original line: Nona Borden Head Women's Soccer Coach (575) 562- nona.borden@enmu.edu
+
+12. Amanda Fefel
+   Email: amanda.fefel@enmu.edu
+   Username: amanda.fefel
+   Original line: Amanda Fefel Head Softball Coach/SWA (575) 562- amanda.fefel@enmu.edu
+
+13. Shanna Smith
+   Email: shanna.smith@enmu.edu
+   Username: shanna.smith
+   Original line: Shanna Smith Assistant Softball Coach (575) 562- shanna.smith@enmu.edu
+
+14. Karli Bustos
+   Email: karli.bustos@enmu.edu
+   Username: karli.bustos
+   Original line: Karli Bustos Head Volleyball Coach (575) 562- karli.bustos@enmu.edu
+
+15. Jorge Araiza
+   Email: jorge.araiza@enmu.edu
+   Username: jorge.araiza
+   Original line: Jorge Araiza Assistant Volleyball Coach jorge.araiza@enmu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Amanda Fefel Head Softball Coach/SWA (575) 562- amanda.fefel@enmu.edu
+• Riley Price Head Baseball Coach (575) 562- riley.price@enmu.edu
+• Casey Claflin Assistant Baseball Coach casey.claflin@enmu.edu
+• Sinclair Pitts Assistant Track & Field Coach (575) 562- sinclair.pitts@enmu.edu
+• Kelley Lee Head Football Coach (575) 562- kelley.lee@enmu.edu @CoachKelleyLee
+• Garrett Casteel Assistant Coach (Defensive (575) 562- garrett.casteel@enmu.edu
+• Garrett Owens Assistant Coach (Running (575) 562- garrett.owens@enmu.edu
+• John Sharp Head Rodeo Coach (575) 562- john.w.sharp@enmu.edu
+• Albert Flinn Assistant Coach (575) 562- albert.flinn@enmu.edu
+• Shacie Marr Assistant Coach shacie.marr@enmu.edu
+• Nona Borden Head Women's Soccer Coach (575) 562- nona.borden@enmu.edu
+• Amanda Fefel Head Softball Coach/SWA (575) 562- amanda.fefel@enmu.edu
+• Shanna Smith Assistant Softball Coach (575) 562- shanna.smith@enmu.edu
+• Karli Bustos Head Volleyball Coach (575) 562- karli.bustos@enmu.edu
+• Jorge Araiza Assistant Volleyball Coach jorge.araiza@enmu.edu

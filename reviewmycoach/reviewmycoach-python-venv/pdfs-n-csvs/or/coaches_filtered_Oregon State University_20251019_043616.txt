@@ -1,0 +1,249 @@
+COACH ENTRIES FOUND - 2025-10-19 04:36:17
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rich Dorman
+   Email: richard.dorman@oregonstate.edu
+   Username: richard.dorman
+   Original line: Rich Dorman Assistant Coach richard.dorman@oregonstate.edu
+
+2. Ryan Gipson
+   Email: ryan.gipson@oregonstate.edu
+   Username: ryan.gipson
+   Original line: Ryan Gipson Assistant Coach ryan.gipson@oregonstate.edu
+
+3. Wayne Tinkle
+   Email: Wayne.Tinkle@oregonstate.edu
+   Username: Wayne.Tinkle
+   Phone: (541) 737-2076
+   Original line: Wayne Tinkle Head Coach 541-737-2076 Wayne.Tinkle@oregonstate.edu
+
+4. Marlon Stewart
+   Email: Marlon.Stewart@oregonstate.edu
+   Username: Marlon.Stewart
+   Phone: (541) 737-2076
+   Original line: Marlon Stewart Assistant Coach 541-737-2076 Marlon.Stewart@oregonstate.edu
+
+5. Stephen Assistant
+   Email: Stephen.Thompson2@oregonstate.edu
+   Username: Stephen.Thompson2
+   Phone: (541) 737-2076
+   Original line: Stephen Assistant Coach 541-737-2076 Stephen.Thompson2@oregonstate.edu
+
+6. Chris Haslam
+   Email: chris.haslam@oregonstate.edu
+   Username: chris.haslam
+   Phone: (541) 737-2076
+   Original line: Chris Haslam Assistant Coach 541-737-2076 chris.haslam@oregonstate.edu
+
+7. Scott Rueck
+   Email: scott.rueck@oregonstate.edu
+   Username: scott.rueck
+   Phone: (541) 737-2800
+   Original line: Scott Rueck Head Coach 541-737-2800 scott.rueck@oregonstate.edu
+
+8. Deven Hunter
+   Email: Deven.Hunter@oregonstate.edu
+   Username: Deven.Hunter
+   Original line: Deven Hunter Assistant Coach Deven.Hunter@oregonstate.edu
+
+9. Eric Ely
+   Email: eric.ely@oregonstate.edu
+   Username: eric.ely
+   Phone: (541) 737-2800
+   Original line: Eric Ely Assistant Coach 541-737-2800 eric.ely@oregonstate.edu
+
+10. Sydney Wiese
+   Email: sydney.wiese@oregonstate.edu
+   Username: sydney.wiese
+   Original line: Sydney Wiese Assistant Coach sydney.wiese@oregonstate.edu
+
+11. Louie Quintana
+   Email: Louie.Quintana@oregonstate.edu
+   Username: Louie.Quintana
+   Original line: Louie Quintana Head Coach Track Louie.Quintana@oregonstate.edu
+
+12. Courtney Jost
+   Email: courtney.jost@oregonstate.edu
+   Username: courtney.jost
+   Original line: Courtney Jost Assistant Coach courtney.jost@oregonstate.edu
+
+13. Connor Griffin
+   Email: connor.griffin@oregonstate.edu
+   Username: connor.griffin
+   Original line: Connor Griffin Assistant Coach connor.griffin@oregonstate.edu
+
+14. Ben Chretien
+   Email: ben.chretien@oregonstate.edu
+   Username: ben.chretien
+   Original line: Ben Chretien Assistant Coach ben.chretien@oregonstate.edu
+
+15. Jon Reehoorn
+   Email: jon.reehoorn@oregonstate.edu
+   Username: jon.reehoorn
+   Phone: (541) 207-5371
+   Original line: Jon Reehoorn Head Coach 541-207-5371 jon.reehoorn@oregonstate.edu
+
+16. Dawn Shockley
+   Email: womensgolf@oregonstate.edu
+   Username: womensgolf
+   Phone: (541) 257-7339
+   Original line: Dawn Shockley Head Coach 541-257-7339 womensgolf@oregonstate.edu
+
+17. Jessica Shepley
+   Email: womensgolf@oregonstate.edu
+   Username: womensgolf
+   Phone: (407) 625-6636
+   Original line: Jessica Shepley Assistant Coach 407-625-6636 womensgolf@oregonstate.edu
+
+18. Hogan Arey
+   Email: womensgolf@oregonstate.edu
+   Username: womensgolf
+   Phone: (541) 908-6592
+   Original line: Hogan Arey Assistant Coach 541-908-6592 womensgolf@oregonstate.edu
+
+19. Tanya Chaplin
+   Email: chaplint@oregonstate.edu
+   Username: chaplint
+   Phone: 230-0635
+   Original line: Tanya Chaplin Head Coach 230-0635 chaplint@oregonstate.edu
+
+20. Brian Carey
+   Email: brian.carey@oregonstate.edu
+   Username: brian.carey
+   Original line: Brian Carey Assistant Coach brian.carey@oregonstate.edu
+
+21. Kaytianna Kell
+   Email: kaytianna.kell@oregonstate.edu
+   Username: kaytianna.kell
+   Original line: Kaytianna Kell Assistant Coach kaytianna.kell@oregonstate.edu
+
+22. Abby Ernst
+   Email: abigail.ernst@oregonstate.edu
+   Username: abigail.ernst
+   Phone: (541) 231-4574
+   Original line: Abby Ernst Assistant Coach (541) 231-4574 abigail.ernst@oregonstate.edu
+
+23. Maddy Horridge
+   Email: Maddy.Horridge@oregonstate.edu
+   Username: Maddy.Horridge
+   Original line: Maddy Horridge Assistant Coach Maddy.Horridge@oregonstate.edu
+
+24. Clare Hunsberger
+   Email: clare.hunsberger@oregonstate.edu
+   Username: clare.hunsberger
+   Original line: Clare Hunsberger Assistant Coach clare.hunsberger@oregonstate.edu
+
+25. Adrian Molina-
+   Email: adrian.molinadiaz@oregonstate.edu
+   Username: adrian.molinadiaz
+   Original line: Adrian Molina- Assistant Coach adrian.molinadiaz@oregonstate.edu
+
+26. Matt Bersano
+   Email: matt.bersano@oregonstate.edu
+   Username: matt.bersano
+   Original line: Matt Bersano Assistant Coach matt.bersano@oregonstate.edu
+
+27. Alex Suprise
+   Email: alex.suprise@oregonstate.edu
+   Username: alex.suprise
+   Original line: Alex Suprise Assistant Coach alex.suprise@oregonstate.edu
+
+28. Caroline Kelly
+   Email: caroline.kelly@oregonstate.edu
+   Username: caroline.kelly
+   Original line: Caroline Kelly Head Coach caroline.kelly@oregonstate.edu
+
+29. Kwame Oduro
+   Email: kwame.oduro@oregonstate.edu
+   Username: kwame.oduro
+   Original line: Kwame Oduro Assistant Coach kwame.oduro@oregonstate.edu
+
+30. Paige Brandt
+   Email: paige.brandt@oregonstate.edu
+   Username: paige.brandt
+   Original line: Paige Brandt Assistant Coach paige.brandt@oregonstate.edu
+
+31. Laura Berg
+   Email: Laura.Berg@oregonstate.edu
+   Username: Laura.Berg
+   Phone: 737-2789
+   Original line: Laura Berg Head Coach 737-2789 Laura.Berg@oregonstate.edu
+
+32. Dominic Garcia
+   Email: dominic.garcia@oregonstate.edu
+   Username: dominic.garcia
+   Original line: Dominic Garcia Assistant Coach dominic.garcia@oregonstate.edu
+
+33. Lindsey Behonick
+   Email: volleyball@oregonstate.edu
+   Username: volleyball
+   Phone: (412) 370-5780
+   Original line: Lindsey Behonick Head Coach 412-370-5780 volleyball@oregonstate.edu
+
+34. Becca Holtgeerts
+   Email: rebecca.holtgeerts@oregonstate.edu
+   Username: rebecca.holtgeerts
+   Phone: (541) 243-4741
+   Original line: Becca Holtgeerts Assistant Coach 541-243-4741 rebecca.holtgeerts@oregonstate.edu
+
+35. Mitchel Assistant
+   Email: mitchel.worthington@oregonstate.edu
+   Username: mitchel.worthington
+   Phone: (541) 760-4873
+   Original line: Mitchel Assistant Coach 541-760-4873 mitchel.worthington@oregonstate.edu
+
+36. Chris Pendleton
+   Email: christopher.pendleton@oregonstate.edu
+   Username: christopher.pendleton
+   Original line: Chris Pendleton Head Coach christopher.pendleton@oregonstate.edu
+
+37. Cory Crooks
+   Email: crooksco@oregonstate.edu
+   Username: crooksco
+   Original line: Cory Crooks Assistant Coach crooksco@oregonstate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rich Dorman Assistant Coach richard.dorman@oregonstate.edu
+• Ryan Gipson Assistant Coach ryan.gipson@oregonstate.edu
+• Wayne Tinkle Head Coach 541-737-2076 Wayne.Tinkle@oregonstate.edu
+• Marlon Stewart Assistant Coach 541-737-2076 Marlon.Stewart@oregonstate.edu
+• Stephen Assistant Coach 541-737-2076 Stephen.Thompson2@oregonstate.edu
+• Chris Haslam Assistant Coach 541-737-2076 chris.haslam@oregonstate.edu
+• Scott Rueck Head Coach 541-737-2800 scott.rueck@oregonstate.edu
+• Deven Hunter Assistant Coach Deven.Hunter@oregonstate.edu
+• Eric Ely Assistant Coach 541-737-2800 eric.ely@oregonstate.edu
+• Sydney Wiese Assistant Coach sydney.wiese@oregonstate.edu
+• Louie Quintana Head Coach Track Louie.Quintana@oregonstate.edu
+• Courtney Jost Assistant Coach courtney.jost@oregonstate.edu
+• Connor Griffin Assistant Coach connor.griffin@oregonstate.edu
+• Ben Chretien Assistant Coach ben.chretien@oregonstate.edu
+• Jon Reehoorn Head Coach 541-207-5371 jon.reehoorn@oregonstate.edu
+• Dawn Shockley Head Coach 541-257-7339 womensgolf@oregonstate.edu
+• Jessica Shepley Assistant Coach 407-625-6636 womensgolf@oregonstate.edu
+• Hogan Arey Assistant Coach 541-908-6592 womensgolf@oregonstate.edu
+• Tanya Chaplin Head Coach 230-0635 chaplint@oregonstate.edu
+• Brian Carey Assistant Coach brian.carey@oregonstate.edu
+• Kaytianna Kell Assistant Coach kaytianna.kell@oregonstate.edu
+• Abby Ernst Assistant Coach (541) 231-4574 abigail.ernst@oregonstate.edu
+• Maddy Horridge Assistant Coach Maddy.Horridge@oregonstate.edu
+• Clare Hunsberger Assistant Coach clare.hunsberger@oregonstate.edu
+• Adrian Molina- Assistant Coach adrian.molinadiaz@oregonstate.edu
+• Matt Bersano Assistant Coach matt.bersano@oregonstate.edu
+• Alex Suprise Assistant Coach alex.suprise@oregonstate.edu
+• Caroline Kelly Head Coach caroline.kelly@oregonstate.edu
+• Kwame Oduro Assistant Coach kwame.oduro@oregonstate.edu
+• Paige Brandt Assistant Coach paige.brandt@oregonstate.edu
+• Laura Berg Head Coach 737-2789 Laura.Berg@oregonstate.edu
+• Dominic Garcia Assistant Coach dominic.garcia@oregonstate.edu
+• Lindsey Behonick Head Coach 412-370-5780 volleyball@oregonstate.edu
+• Becca Holtgeerts Assistant Coach 541-243-4741 rebecca.holtgeerts@oregonstate.edu
+• Mitchel Assistant Coach 541-760-4873 mitchel.worthington@oregonstate.edu
+• Chris Pendleton Head Coach christopher.pendleton@oregonstate.edu
+• Cory Crooks Assistant Coach crooksco@oregonstate.edu

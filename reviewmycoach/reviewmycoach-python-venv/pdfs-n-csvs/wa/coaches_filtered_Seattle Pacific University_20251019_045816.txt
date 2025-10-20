@@ -1,0 +1,154 @@
+COACH ENTRIES FOUND - 2025-10-19 04:58:16
+============================================================
+
+Total coaches found: 22
+
+PARSED ENTRIES:
+----------------------------------------
+1. Keffrey Fazio
+   Email: faziok@spu.edu
+   Username: faziok
+   Phone: (206) 281-2989
+   Original line: Keffrey Fazio Men's Basketball Head Coach faziok@spu.edu (206) 281-2989
+
+2. Donald Rollman
+   Email: rollmand@spu.edu
+   Username: rollmand
+   Original line: Donald Rollman Men's Basketball Lead Assistant Coach rollmand@spu.edu
+
+3. David Choi
+   Email: dchoi@spu.edu
+   Username: dchoi
+   Original line: David Choi Men's Basketball Assistant Coach dchoi@spu.edu
+
+4. George Parker
+   Email: parkeg@spu.edu
+   Username: parkeg
+   Original line: George Parker Men's Basketball Volunteer Assistant Coach parkeg@spu.edu
+
+5. Karen Byers
+   Email: byersk3@spu.edu
+   Username: byersk3
+   Original line: Karen Byers Women's Basketball Head Coach byersk3@spu.edu
+
+6. Ava Edmonds
+   Email: edmondsa1@spu.edu
+   Username: edmondsa1
+   Phone: (206) 281-2851
+   Original line: Ava Edmonds Women's Basketball Assistant Coach edmondsa1@spu.edu (206) 281-2851
+
+7. Karl Lerum
+   Email: lerumk@spu.edu
+   Username: lerumk
+   Phone: (206) 281-2897
+   Original line: Karl Lerum Cross Country / Track & Field Head Coach lerumk@spu.edu (206) 281-2897
+
+8. Eric Hansen
+   Email: erichansen@spu.edu
+   Username: erichansen
+   Original line: Eric Hansen Cross Country / Track & Field Assistant Coach erichansen@spu.edu
+
+9. Tyler Copp
+   Email: coppt@spu.edu
+   Username: coppt
+   Phone: (360) 977-1415
+   Original line: Tyler Copp Women's Golf Head Coach coppt@spu.edu (360) 977-1415
+
+10. Kenzie Waltar
+   Email: kwaltar@spu.edu
+   Username: kwaltar
+   Original line: Kenzie Waltar Women's Rowing Assistant Coach kwaltar@spu.edu
+
+11. Kevin Sakuda
+   Email: sakudak1@spu.edu
+   Username: sakudak1
+   Phone: (206) 281-2859
+   Original line: Kevin Sakuda Men's Soccer Head Coach sakudak1@spu.edu 206-281-2859
+
+12. Josh Swett
+   Email: swettj@spu.edu
+   Username: swettj
+   Phone: (206) 281-2969
+   Original line: Josh Swett Men's Soccer Assistant Coach swettj@spu.edu (206) 281-2969
+
+13. James Ward
+   Email: menssoccer@spu.edu
+   Username: menssoccer
+   Phone: (206) 281-2968
+   Original line: James Ward Men's Soccer Assistant Coach menssoccer@spu.edu (206) 281-2968
+
+14. Erik Skipper
+   Email: eskip@spu.edu
+   Username: eskip
+   Original line: Erik Skipper Men's Soccer Assistant Coach eskip@spu.edu
+
+15. Luke Sandblom
+   Email: sandbloml@spu.edu
+   Username: sandbloml
+   Original line: Luke Sandblom Men's Soccer Assistant Coach sandbloml@spu.edu
+
+16. Arby Busey
+   Email: buseyr@spu.edu
+   Username: buseyr
+   Phone: (206) 281-2865
+   Original line: Arby Busey Women's Soccer Head Coach buseyr@spu.edu (206) 281-2865
+
+17. Sydney Pluhacek
+   Email: pluhaceks@spu.edu
+   Username: pluhaceks
+   Original line: Sydney Pluhacek Women's Soccer Assistant Coach pluhaceks@spu.edu
+
+18. Karl Lerum
+   Email: lerumk@spu.edu
+   Username: lerumk
+   Phone: (206) 281-2897
+   Original line: Karl Lerum Cross Country / Track & Field Head Coach lerumk@spu.edu (206) 281-2897
+
+19. Kate Carlson
+   Email: kathrc@spu.edu
+   Username: kathrc
+   Phone: (206) 281-2734
+   Original line: Kate Carlson Cross Country / Track & Field Assistant Coach kathrc@spu.edu (206) 281-2734
+
+20. Eric Hansen
+   Email: erichansen@spu.edu
+   Username: erichansen
+   Original line: Eric Hansen Cross Country / Track & Field Assistant Coach erichansen@spu.edu
+
+21. Jason Rhine
+   Email: rhinej@spu.edu
+   Username: rhinej
+   Phone: (206) 281-2263
+   Original line: Jason Rhine Volleyball Head Coach rhinej@spu.edu (206) 281-2263
+
+22. Emma Shaddix
+   Email: shaddixe@spu.edu
+   Username: shaddixe
+   Original line: Emma Shaddix Assistant Volleyball Coach shaddixe@spu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Keffrey Fazio Men's Basketball Head Coach faziok@spu.edu (206) 281-2989
+• Donald Rollman Men's Basketball Lead Assistant Coach rollmand@spu.edu
+• David Choi Men's Basketball Assistant Coach dchoi@spu.edu
+• George Parker Men's Basketball Volunteer Assistant Coach parkeg@spu.edu
+• Karen Byers Women's Basketball Head Coach byersk3@spu.edu
+• Ava Edmonds Women's Basketball Assistant Coach edmondsa1@spu.edu (206) 281-2851
+• Karl Lerum Cross Country / Track & Field Head Coach lerumk@spu.edu (206) 281-2897
+• Eric Hansen Cross Country / Track & Field Assistant Coach erichansen@spu.edu
+• Tyler Copp Women's Golf Head Coach coppt@spu.edu (360) 977-1415
+• Kenzie Waltar Women's Rowing Assistant Coach kwaltar@spu.edu
+• Kevin Sakuda Men's Soccer Head Coach sakudak1@spu.edu 206-281-2859
+• Josh Swett Men's Soccer Assistant Coach swettj@spu.edu (206) 281-2969
+• James Ward Men's Soccer Assistant Coach menssoccer@spu.edu (206) 281-2968
+• Erik Skipper Men's Soccer Assistant Coach eskip@spu.edu
+• Luke Sandblom Men's Soccer Assistant Coach sandbloml@spu.edu
+• Arby Busey Women's Soccer Head Coach buseyr@spu.edu (206) 281-2865
+• Sydney Pluhacek Women's Soccer Assistant Coach pluhaceks@spu.edu
+• Karl Lerum Cross Country / Track & Field Head Coach lerumk@spu.edu (206) 281-2897
+• Kate Carlson Cross Country / Track & Field Assistant Coach kathrc@spu.edu (206) 281-2734
+• Eric Hansen Cross Country / Track & Field Assistant Coach erichansen@spu.edu
+• Jason Rhine Volleyball Head Coach rhinej@spu.edu (206) 281-2263
+• Emma Shaddix Assistant Volleyball Coach shaddixe@spu.edu

@@ -1,0 +1,242 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:03
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Barrett Serrato
+   Email: bserrato@purdue.edu
+   Username: bserrato
+   Original line: Barrett Serrato Baseball Assistant Coach bserrato@purdue.edu
+
+2. Josh Newman
+   Email: newmanjp@purdue.edu
+   Username: newmanjp
+   Original line: Josh Newman Baseball Assistant Coach newmanjp@purdue.edu
+
+3. Jimmy Brenneman
+   Email: brenneja@purdue.edu
+   Username: brenneja
+   Original line: Jimmy Brenneman Assistant Coach brenneja@purdue.edu
+
+4. Cornell Ford
+   Email: fbrecruit@purdue.edu
+   Username: fbrecruit
+   Phone: 494.3224
+   Original line: Cornell Ford Assistant Head Coach / Wide Receivers fbrecruit@purdue.edu 494.3224
+
+5. Cole Bradley
+   Email: bradle63@purdue.edu
+   Username: bradle63
+   Original line: Cole Bradley Assistant Men's Golf Coach bradle63@purdue.edu
+
+6. Zack Byrd
+   Email: zbyrd@purdue.edu
+   Username: zbyrd
+   Original line: Zack Byrd Director of Golf / Women's Golf Head Coach zbyrd@purdue.edu
+
+7. Lauren Guiao
+   Email: lguiao@purdue.edu
+   Username: lguiao
+   Original line: Lauren Guiao Women's Golf Assistant Coach lguiao@purdue.edu
+
+8. Jocelyn Stephens
+   Email: steph240@purdue.edu
+   Username: steph240
+   Original line: Jocelyn Stephens Head Cheerleading Coach / Spirit Coordinator steph240@purdue.edu
+
+9. Richard Moodie
+   Email: rmoodie@purdue.edu
+   Username: rmoodie
+   Phone: 496.3396
+   Original line: Richard Moodie Soccer Head Coach rmoodie@purdue.edu 496.3396
+
+10. Rob Ward
+   Email: robward@purdue.edu
+   Username: robward
+   Phone: 494.2445
+   Original line: Rob Ward Soccer Associate Head Coach robward@purdue.edu 494.2445
+
+11. Carson Hamner
+   Email: chamner@purdue.edu
+   Username: chamner
+   Original line: Carson Hamner Soccer Assistant Coach chamner@purdue.edu
+
+12. Eric Masters
+   Email: Esmaster@purdue.edu
+   Username: Esmaster
+   Original line: Eric Masters Soccer Assistant Coach Esmaster@purdue.edu
+
+13. Magali Frezzotti
+   Email: coachfrezzotti@purdue.edu
+   Username: coachfrezzotti
+   Original line: Magali Frezzotti Softball Head Coach coachfrezzotti@purdue.edu
+
+14. Jordan Richwood
+   Email: coachrichwood@purdue.edu
+   Username: coachrichwood
+   Original line: Jordan Richwood Softball Assistant Coach coachrichwood@purdue.edu
+
+15. Jordyn Rudd-Lee
+   Email: coachrudd@purdue.edu
+   Username: coachrudd
+   Original line: Jordyn Rudd-Lee Softball Assistant Coach coachrudd@purdue.edu
+
+16. Nicky Dawson
+   Email: coachdawson@purdue.edu
+   Username: coachdawson
+   Original line: Nicky Dawson Softball Assistant Coach coachdawson@purdue.edu
+
+17. Tony Webb
+   Email: coachwebb@purdue.edu
+   Username: coachwebb
+   Phone: 494.3224
+   Original line: Tony Webb Associate Director of Strength & Conditioning coachwebb@purdue.edu 494.3224
+
+18. Alex Jerden
+   Email: ajerden@purdue.edu
+   Username: ajerden
+   Phone: 494.5815
+   Original line: Alex Jerden Men's Swimming & Diving Head Coach ajerden@purdue.edu 494.5815
+
+19. David Boudia
+   Email: dboudia@purdue.edu
+   Username: dboudia
+   Original line: David Boudia Diving Head Coach dboudia@purdue.edu
+
+20. James Bretscher
+   Email: jrbretsc@purdue.edu
+   Username: jrbretsc
+   Original line: James Bretscher Men's Swimming Assistant Coach jrbretsc@purdue.edu
+
+21. Mark Bradshaw
+   Email: mdbradsh@purdue.edu
+   Username: mdbradsh
+   Original line: Mark Bradshaw Diving Associate Head Coach mdbradsh@purdue.edu
+
+22. John Klinge
+   Email: klinge@purdue.edu
+   Username: klinge
+   Phone: 494.8493
+   Original line: John Klinge Women's Swimming & Diving Head Coach klinge@purdue.edu 494.8493
+
+23. David Boudia
+   Email: dboudia@purdue.edu
+   Username: dboudia
+   Original line: David Boudia Diving Head Coach dboudia@purdue.edu
+
+24. Mark Bradshaw
+   Email: mdbradsh@purdue.edu
+   Username: mdbradsh
+   Original line: Mark Bradshaw Diving Associate Head Coach mdbradsh@purdue.edu
+
+25. Matic Špec
+   Email: mspec@purdue.edu
+   Username: mspec
+   Original line: Matic Špec Men's Tennis Assistant Coach mspec@purdue.edu
+
+26. Raquel Atawo
+   Email: ratawo@purdue.edu
+   Username: ratawo
+   Original line: Raquel Atawo Women's Tennis Head Coach ratawo@purdue.edu
+
+27. Tony Miller
+   Email: CoachMiller@Purdue.edu
+   Username: CoachMiller
+   Original line: Tony Miller Track & Field and Cross Country Head Coach CoachMiller@Purdue.edu
+
+28. Jamaal Barnes
+   Email: coachjbarnes@purdue.edu
+   Username: coachjbarnes
+   Original line: Jamaal Barnes Track & Field Assistant Coach - Sprints coachjbarnes@purdue.edu
+
+29. Rebecca Richtman
+   Email: rrichtma@purdue.edu
+   Username: rrichtma
+   Original line: Rebecca Richtman Track & Field and Cross Country Assistant Coach rrichtma@purdue.edu
+
+30. Paul Zalewski
+   Email: coachz@purdue.edu
+   Username: coachz
+   Original line: Paul Zalewski Track & Field Assistant Coach - Jumps coachz@purdue.edu
+
+31. Ricardo Page
+   Email: rtpage@purdue.edu
+   Username: rtpage
+   Original line: Ricardo Page Track & Field Assistant Coach - Throws rtpage@purdue.edu
+
+32. Pashen Williams
+   Email: williapj@purdue.edu
+   Username: williapj
+   Original line: Pashen Williams Track & Field Assistant Coach williapj@purdue.edu
+
+33. John Klanac
+   Email: Jklanac@purdue.edu
+   Username: Jklanac
+   Phone: 494.3204
+   Original line: John Klanac Volleyball Assistant Coach Jklanac@purdue.edu 494.3204
+
+34. Emily Hill
+   Email: Echill@purdue.edu
+   Username: Echill
+   Original line: Emily Hill Volleyball Assistant Coach Echill@purdue.edu
+
+35. Leroy Vega
+   Email: vega60@purdue.edu
+   Username: vega60
+   Phone: 494.3852
+   Original line: Leroy Vega Wrestling Head Assistant Coach vega60@purdue.edu 494.3852
+
+36. Jake Sueflohn
+   Email: jsuefloh@purdue.edu
+   Username: jsuefloh
+   Phone: 494.3203
+   Original line: Jake Sueflohn Wrestling Assistant Coach jsuefloh@purdue.edu 494.3203
+
+37. Matt Ramos
+   Email: ramos132@purdue.edu
+   Username: ramos132
+   Original line: Matt Ramos Wrestling Assistant Coach ramos132@purdue.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Barrett Serrato Baseball Assistant Coach bserrato@purdue.edu
+• Josh Newman Baseball Assistant Coach newmanjp@purdue.edu
+• Jimmy Brenneman Assistant Coach brenneja@purdue.edu
+• Cornell Ford Assistant Head Coach / Wide Receivers fbrecruit@purdue.edu 494.3224
+• Cole Bradley Assistant Men's Golf Coach bradle63@purdue.edu
+• Zack Byrd Director of Golf / Women's Golf Head Coach zbyrd@purdue.edu
+• Lauren Guiao Women's Golf Assistant Coach lguiao@purdue.edu
+• Jocelyn Stephens Head Cheerleading Coach / Spirit Coordinator steph240@purdue.edu
+• Richard Moodie Soccer Head Coach rmoodie@purdue.edu 496.3396
+• Rob Ward Soccer Associate Head Coach robward@purdue.edu 494.2445
+• Carson Hamner Soccer Assistant Coach chamner@purdue.edu
+• Eric Masters Soccer Assistant Coach Esmaster@purdue.edu
+• Magali Frezzotti Softball Head Coach coachfrezzotti@purdue.edu
+• Jordan Richwood Softball Assistant Coach coachrichwood@purdue.edu
+• Jordyn Rudd-Lee Softball Assistant Coach coachrudd@purdue.edu
+• Nicky Dawson Softball Assistant Coach coachdawson@purdue.edu
+• Tony Webb Associate Director of Strength & Conditioning coachwebb@purdue.edu 494.3224
+• Alex Jerden Men's Swimming & Diving Head Coach ajerden@purdue.edu 494.5815
+• David Boudia Diving Head Coach dboudia@purdue.edu
+• James Bretscher Men's Swimming Assistant Coach jrbretsc@purdue.edu
+• Mark Bradshaw Diving Associate Head Coach mdbradsh@purdue.edu
+• John Klinge Women's Swimming & Diving Head Coach klinge@purdue.edu 494.8493
+• David Boudia Diving Head Coach dboudia@purdue.edu
+• Mark Bradshaw Diving Associate Head Coach mdbradsh@purdue.edu
+• Matic Špec Men's Tennis Assistant Coach mspec@purdue.edu
+• Raquel Atawo Women's Tennis Head Coach ratawo@purdue.edu
+• Tony Miller Track & Field and Cross Country Head Coach CoachMiller@Purdue.edu
+• Jamaal Barnes Track & Field Assistant Coach - Sprints coachjbarnes@purdue.edu
+• Rebecca Richtman Track & Field and Cross Country Assistant Coach rrichtma@purdue.edu
+• Paul Zalewski Track & Field Assistant Coach - Jumps coachz@purdue.edu
+• Ricardo Page Track & Field Assistant Coach - Throws rtpage@purdue.edu
+• Pashen Williams Track & Field Assistant Coach williapj@purdue.edu
+• John Klanac Volleyball Assistant Coach Jklanac@purdue.edu 494.3204
+• Emily Hill Volleyball Assistant Coach Echill@purdue.edu
+• Leroy Vega Wrestling Head Assistant Coach vega60@purdue.edu 494.3852
+• Jake Sueflohn Wrestling Assistant Coach jsuefloh@purdue.edu 494.3203
+• Matt Ramos Wrestling Assistant Coach ramos132@purdue.edu

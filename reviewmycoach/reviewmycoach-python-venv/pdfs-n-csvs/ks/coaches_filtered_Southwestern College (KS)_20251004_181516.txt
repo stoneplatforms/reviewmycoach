@@ -1,0 +1,167 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:17
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mark "Carv"
+   Email: mark.carvalho@sckans.edu
+   Username: mark.carvalho
+   Phone: (620) 229-6247
+   Original line: Mark "Carv" Carvalho Head Coach 620-229-6247 mark.carvalho@sckans.edu
+
+2. Stephen McNett
+   Email: stephen.mcnett@sckans.edu
+   Username: stephen.mcnett
+   Phone: (620) 229-6077
+   Original line: Stephen McNett Assistant Coach/ Pitching Coach 620-229-6077 stephen.mcnett@sckans.edu
+
+3. Matt O'Brien
+   Email: matt.obrien@sckans.edu
+   Username: matt.obrien
+   Phone: (620) 229-6104
+   Original line: Matt O'Brien Head Coach 620-229-6104 matt.obrien@sckans.edu
+
+4. Jimmy McSorley
+   Email: james.mcsorley@sckans.edu
+   Username: james.mcsorley
+   Phone: (620) 229-6103
+   Original line: Jimmy McSorley Associate Head Coach 620-229-6103 james.mcsorley@sckans.edu
+
+5. Micah Gabler
+   Email: micah.gabler@sckans.edu
+   Username: micah.gabler
+   Phone: (620) 229-6103
+   Original line: Micah Gabler Assistant Coach 620-229-6103 micah.gabler@sckans.edu
+
+6. Josh Burt
+   Email: josh.burt@sckans.edu
+   Username: josh.burt
+   Phone: (620) 229-6064
+   Original line: Josh Burt Head Coach 620-229-6064 josh.burt@sckans.edu
+
+7. Alissa Sheppard
+   Email: alissa.sheppard@sckans.edu
+   Username: alissa.sheppard
+   Phone: (620) 229-6196
+   Original line: Alissa Sheppard Head Coach 620-229-6196 alissa.sheppard@sckans.edu
+
+8. Nate Lee
+   Email: Nate.Lee@sckans.edu
+   Username: Nate.Lee
+   Original line: Nate Lee Assistant Dance Coach Nate.Lee@sckans.edu
+
+9. Shane Brookshire
+   Email: shane.brookshire@sckans.edu
+   Username: shane.brookshire
+   Phone: (620) 229-6359
+   Original line: Shane Brookshire Head Coach Track/Cross Country 620-229-6359 shane.brookshire@sckans.edu
+
+10. Nathan Jones
+   Email: nathan.jones@sckans.edu
+   Username: nathan.jones
+   Original line: Nathan Jones Assistant XC/Distance Coach nathan.jones@sckans.edu
+
+11. Brad Griffin
+   Email: brad.griffin@sckans.edu
+   Username: brad.griffin
+   Phone: (620) 229-6222
+   Original line: Brad Griffin Head Coach 620-229-6222 brad.griffin@sckans.edu
+
+12. Layke Hoffman
+   Email: layke.hoffman@sckans.edu
+   Username: layke.hoffman
+   Phone: (620) 229-6222
+   Original line: Layke Hoffman Assistant Coach/ Tight Ends 620-229-6222 layke.hoffman@sckans.edu
+
+13. Lee Howarth
+   Email: lee.howarth@sckans.edu
+   Username: lee.howarth
+   Phone: (620) 229-6383
+   Original line: Lee Howarth Head Coach 620-229-6383 lee.howarth@sckans.edu
+
+14. Alejandro Ramos
+   Email: alejandro.ramos@sckans.edu
+   Username: alejandro.ramos
+   Original line: Alejandro Ramos Volunteer Assistant Coach alejandro.ramos@sckans.edu
+
+15. Harry Simpson
+   Email: harry.simpson@sckans.edu
+   Username: harry.simpson
+   Phone: (620) 229-6157
+   Original line: Harry Simpson Head Coach 620-229-6157 harry.simpson@sckans.edu
+
+16. Sarah McAninch
+   Email: sarah.mcaninch@sckans.edu
+   Username: sarah.mcaninch
+   Phone: (620) 229-6164
+   Original line: Sarah McAninch Head Coach 620-229-6164 sarah.mcaninch@sckans.edu
+
+17. Shane Brookshire
+   Email: shane.brookshire@sckans.edu
+   Username: shane.brookshire
+   Phone: (620) 229-6359
+   Original line: Shane Brookshire Head Coach Track/Cross Country 620-229-6359 shane.brookshire@sckans.edu
+
+18. Nathan Jones
+   Email: nathan.jones@sckans.edu
+   Username: nathan.jones
+   Original line: Nathan Jones Assistant XC/Distance Coach nathan.jones@sckans.edu
+
+19. Kathleen Percegona
+   Email: kathleen.percegona@sckans.edu
+   Username: kathleen.percegona
+   Phone: (620) 229-6311
+   Original line: Kathleen Percegona Head Men's & Women's Tennis Coach 620-229-6311 kathleen.percegona@sckans.edu
+
+20. Ken Brokaw
+   Email: ken.brokaw@sckans.edu
+   Username: ken.brokaw
+   Phone: (620) 229-6235
+   Original line: Ken Brokaw Head Volleyball Coach 620-229-6235 ken.brokaw@sckans.edu
+
+21. Noah Harris
+   Email: noah.harris@sckans.edu
+   Username: noah.harris
+   Original line: Noah Harris Head Coach noah.harris@sckans.edu
+
+22. Jackson Strohl
+   Email: jackson.strohl@sckans.edu
+   Username: jackson.strohl
+   Phone: (913) 633-6822
+   Original line: Jackson Strohl Head Coach (913) 633-6822 jackson.strohl@sckans.edu
+
+23. Jackson Strohl
+   Email: jackson.strohl@sckans.edu
+   Username: jackson.strohl
+   Phone: (913) 633-6822
+   Original line: Jackson Strohl Head Coach (913) 633-6822 jackson.strohl@sckans.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mark "Carv" Carvalho Head Coach 620-229-6247 mark.carvalho@sckans.edu
+• Stephen McNett Assistant Coach/ Pitching Coach 620-229-6077 stephen.mcnett@sckans.edu
+• Matt O'Brien Head Coach 620-229-6104 matt.obrien@sckans.edu
+• Jimmy McSorley Associate Head Coach 620-229-6103 james.mcsorley@sckans.edu
+• Micah Gabler Assistant Coach 620-229-6103 micah.gabler@sckans.edu
+• Josh Burt Head Coach 620-229-6064 josh.burt@sckans.edu
+• Alissa Sheppard Head Coach 620-229-6196 alissa.sheppard@sckans.edu
+• Nate Lee Assistant Dance Coach Nate.Lee@sckans.edu
+• Shane Brookshire Head Coach Track/Cross Country 620-229-6359 shane.brookshire@sckans.edu
+• Nathan Jones Assistant XC/Distance Coach nathan.jones@sckans.edu
+• Brad Griffin Head Coach 620-229-6222 brad.griffin@sckans.edu
+• Layke Hoffman Assistant Coach/ Tight Ends 620-229-6222 layke.hoffman@sckans.edu
+• Lee Howarth Head Coach 620-229-6383 lee.howarth@sckans.edu
+• Alejandro Ramos Volunteer Assistant Coach alejandro.ramos@sckans.edu
+• Harry Simpson Head Coach 620-229-6157 harry.simpson@sckans.edu
+• Sarah McAninch Head Coach 620-229-6164 sarah.mcaninch@sckans.edu
+• Shane Brookshire Head Coach Track/Cross Country 620-229-6359 shane.brookshire@sckans.edu
+• Nathan Jones Assistant XC/Distance Coach nathan.jones@sckans.edu
+• Kathleen Percegona Head Men's & Women's Tennis Coach 620-229-6311 kathleen.percegona@sckans.edu
+• Ken Brokaw Head Volleyball Coach 620-229-6235 ken.brokaw@sckans.edu
+• Noah Harris Head Coach noah.harris@sckans.edu
+• Jackson Strohl Head Coach (913) 633-6822 jackson.strohl@sckans.edu
+• Jackson Strohl Head Coach (913) 633-6822 jackson.strohl@sckans.edu

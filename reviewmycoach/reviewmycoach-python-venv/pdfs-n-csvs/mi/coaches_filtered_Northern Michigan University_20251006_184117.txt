@@ -1,0 +1,254 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:17
+============================================================
+
+Total coaches found: 40
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jenna Bruttomesso
+   Email: jebrutto@nmu.edu
+   Username: jebrutto
+   Original line: Jenna Bruttomesso Sports Performance Coach jebrutto@nmu.edu 509-339-
+
+2. Alex Morse
+   Email: alemorse@nmu.edu
+   Username: alemorse
+   Original line: Alex Morse Assistant Sports Performance Coach alemorse@nmu.edu
+
+3. Andy Bisek
+   Email: abisek@nmu.edu
+   Username: abisek
+   Original line: Andy Bisek NTS Head Greco-Roman Wrestling Coach abisek@nmu.edu 906-227-
+
+4. Parker Betts
+   Email: pbetts@nmu.edu
+   Username: pbetts
+   Original line: Parker Betts NTS Assistant Greco-Roman Wrestling Coach pbetts@nmu.edu 906-227-
+
+5. Matt Majkrzak
+   Email: mmajkrza@nmu.edu
+   Username: mmajkrza
+   Original line: Matt Majkrzak Head Coach mmajkrza@nmu.edu 906-227-
+
+6. John-Michael Hughes
+   Email: johhughe@nmu.edu
+   Username: johhughe
+   Original line: John-Michael Hughes Assistant Coach johhughe@nmu.edu
+
+7. Casey Thousand
+   Email: cthousan@nmu.edu
+   Username: cthousan
+   Original line: Casey Thousand Head Coach cthousan@nmu.edu 906-227-
+
+8. Jordan Sweeney
+   Email: jorsween@nmu.edu
+   Username: jorsween
+   Original line: Jordan Sweeney Associate Head Coach jorsween@nmu.edu 906-227-
+
+9. Emily Mueller
+   Email: emmuelle@nmu.educ
+   Username: emmuelle
+   Original line: Emily Mueller Assistant Coach emmuelle@nmu.educ
+
+10. Jenny Ryan
+   Email: jryan@nmu.edu
+   Username: jryan
+   Original line: Jenny Ryan Head Coach jryan@nmu.edu 906-458-
+
+11. Luke Pease
+   Email: lpease@nmu.edu
+   Username: lpease
+   Original line: Luke Pease Assistant Coach (Sprints and Throws) lpease@nmu.edu 517-231-
+
+12. Shane Richardson
+   Email: shanrich@nmu.edu
+   Username: shanrich
+   Original line: Shane Richardson Head Coach shanrich@nmu.edu 906-227-
+
+13. Billy Lindquist
+   Email: wlindqui@nmu.edu
+   Username: wlindqui
+   Original line: Billy Lindquist Associate Head Coach / Offensive Coordinator / Quarterbacks wlindqui@nmu.edu
+
+14. Mike DuFrane
+   Email: mdufrane@nmu.edu
+   Username: mdufrane
+   Original line: Mike DuFrane Assistant Coach / Defensive Coordinator / Defensive Line mdufrane@nmu.edu
+
+15. Joe Gatz
+   Email: jgatz@nmu.edu
+   Username: jgatz
+   Original line: Joe Gatz Assistant Coach / Offensive Line jgatz@nmu.edu 906-227-
+
+16. Elijah Fernandez
+   Email: efernand@nmu.edu
+   Username: efernand
+   Original line: Elijah Fernandez Assistant Coach / Running Backs / Recruiting Coordinator efernand@nmu.edu 906-227-
+
+17. Andrew Chau
+   Email: achau@nmu.edu
+   Username: achau
+   Original line: Andrew Chau Assistant Coach / Cornerbacks achau@nmu.edu
+
+18. Ben Johnson
+   Email: johnsben@nmu.edu
+   Username: johnsben
+   Original line: Ben Johnson Head Coach johnsben@nmu.edu 906-227-
+
+19. Dave Shyiak
+   Email: dshyiak@nmu.edu
+   Username: dshyiak
+   Original line: Dave Shyiak Head Coach dshyiak@nmu.edu
+
+20. Andy Contois
+   Email: acontois@nmu.edu
+   Username: acontois
+   Original line: Andy Contois Assistant Coach acontois@nmu.edu
+
+21. Phil Fox
+   Email: pfox@nmu.edu
+   Username: pfox
+   Original line: Phil Fox Assistant Coach pfox@nmu.edu
+
+22. Ben Russell
+   Email: berussel@nmu.edu
+   Username: berussel
+   Original line: Ben Russell Assistant Coach berussel@nmu.edu
+
+23. Lindsey (LeMay)
+   Email: llemay@nmu.edu
+   Username: llemay
+   Original line: Lindsey (LeMay) Majkrzak Head Coach llemay@nmu.edu 906-458-
+
+24. Quinn Crandall
+   Email: qcrandal@nmu.edu
+   Username: qcrandal
+   Original line: Quinn Crandall Assistant Coach qcrandal@nmu.edu
+
+25. Erik Lundteigen
+   Email: elundtei@nmu.edu
+   Username: elundtei
+   Original line: Erik Lundteigen Head Coach elundtei@nmu.edu 231-675-
+
+26. Andy Keller
+   Email: andkelle@nmu.edu
+   Username: andkelle
+   Original line: Andy Keller Head Coach andkelle@nmu.edu 612-590-
+
+27. Ruth Oppliger
+   Email: ropplige@nmu.edu
+   Username: ropplige
+   Original line: Ruth Oppliger Assistant Coach ropplige@nmu.edu 906-231-
+
+28. Alex Fatovic
+   Email: afatovic@nmu.edu
+   Username: afatovic
+   Original line: Alex Fatovic Head Coach afatovic@nmu.edu 906-227-
+
+29. Chance Vang
+   Email: cvang@nmu.edu
+   Username: cvang
+   Original line: Chance Vang Assistant Coach cvang@nmu.edu
+
+30. Erin Egolf
+   Email: eegolf@nmu.edu
+   Username: eegolf
+   Original line: Erin Egolf Head Coach eegolf@nmu.edu (217) 416-
+
+31. Nathan Phillips
+   Email: natphill@nmu.edu
+   Username: natphill
+   Original line: Nathan Phillips Assistant Coach natphill@nmu.edu (307) 689-
+
+32. Heidi Voigt
+   Email: hvoigt@nmu.edu
+   Username: hvoigt
+   Original line: Heidi Voigt Head Coach hvoigt@nmu.edu 906-227-
+
+33. Christopher Kelly
+   Email: chrkelly@nmu.edu
+   Username: chrkelly
+   Original line: Christopher Kelly Assistant Diving Coach chrkelly@nmu.edu 906-227-
+
+34. Jenny Ryan
+   Email: jryan@nmu.edu
+   Username: jryan
+   Original line: Jenny Ryan Head Coach (Mid-Distance and Distance) jryan@nmu.edu 906-458-
+
+35. Michael Dellemann
+   Email: mdellema@nmu.edu
+   Username: mdellema
+   Original line: Michael Dellemann Associate Head Coach (Jumps, Hurdles, Multi) mdellema@nmu.edu 715-340-
+
+36. Luke Pease
+   Email: lpease@nmu.edu
+   Username: lpease
+   Original line: Luke Pease Assistant Coach (Sprints and Throws) lpease@nmu.edu 517-231-
+
+37. Mike Lozier
+   Email: mlozier@nmu.edu
+   Username: mlozier
+   Phone: (906) 227-1173
+   Original line: Mike Lozier Head Coach mlozier@nmu.edu 906-227-1173
+
+38. Kamryn Duffield
+   Email: kduffiel@nmu.edu
+   Username: kduffiel
+   Phone: (906) 227-1173
+   Original line: Kamryn Duffield Assistant Coach kduffiel@nmu.edu 906-227-1173
+
+39. Lauren Van
+   Email: lvanremo@nmu.edu
+   Username: lvanremo
+   Phone: (906) 227-1173
+   Original line: Lauren Van Remortel Assistant Coach lvanremo@nmu.edu 906-227-1173
+
+40. Adam Wilson
+   Email: adawilso@nmu.edu
+   Username: adawilso
+   Original line: Adam Wilson Head Coach adawilso@nmu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jenna Bruttomesso Sports Performance Coach jebrutto@nmu.edu 509-339-
+• Alex Morse Assistant Sports Performance Coach alemorse@nmu.edu
+• Andy Bisek NTS Head Greco-Roman Wrestling Coach abisek@nmu.edu 906-227-
+• Parker Betts NTS Assistant Greco-Roman Wrestling Coach pbetts@nmu.edu 906-227-
+• Matt Majkrzak Head Coach mmajkrza@nmu.edu 906-227-
+• John-Michael Hughes Assistant Coach johhughe@nmu.edu
+• Casey Thousand Head Coach cthousan@nmu.edu 906-227-
+• Jordan Sweeney Associate Head Coach jorsween@nmu.edu 906-227-
+• Emily Mueller Assistant Coach emmuelle@nmu.educ
+• Jenny Ryan Head Coach jryan@nmu.edu 906-458-
+• Luke Pease Assistant Coach (Sprints and Throws) lpease@nmu.edu 517-231-
+• Shane Richardson Head Coach shanrich@nmu.edu 906-227-
+• Billy Lindquist Associate Head Coach / Offensive Coordinator / Quarterbacks wlindqui@nmu.edu
+• Mike DuFrane Assistant Coach / Defensive Coordinator / Defensive Line mdufrane@nmu.edu
+• Joe Gatz Assistant Coach / Offensive Line jgatz@nmu.edu 906-227-
+• Elijah Fernandez Assistant Coach / Running Backs / Recruiting Coordinator efernand@nmu.edu 906-227-
+• Andrew Chau Assistant Coach / Cornerbacks achau@nmu.edu
+• Ben Johnson Head Coach johnsben@nmu.edu 906-227-
+• Dave Shyiak Head Coach dshyiak@nmu.edu
+• Andy Contois Assistant Coach acontois@nmu.edu
+• Phil Fox Assistant Coach pfox@nmu.edu
+• Ben Russell Assistant Coach berussel@nmu.edu
+• Lindsey (LeMay) Majkrzak Head Coach llemay@nmu.edu 906-458-
+• Quinn Crandall Assistant Coach qcrandal@nmu.edu
+• Erik Lundteigen Head Coach elundtei@nmu.edu 231-675-
+• Andy Keller Head Coach andkelle@nmu.edu 612-590-
+• Ruth Oppliger Assistant Coach ropplige@nmu.edu 906-231-
+• Alex Fatovic Head Coach afatovic@nmu.edu 906-227-
+• Chance Vang Assistant Coach cvang@nmu.edu
+• Erin Egolf Head Coach eegolf@nmu.edu (217) 416-
+• Nathan Phillips Assistant Coach natphill@nmu.edu (307) 689-
+• Heidi Voigt Head Coach hvoigt@nmu.edu 906-227-
+• Christopher Kelly Assistant Diving Coach chrkelly@nmu.edu 906-227-
+• Jenny Ryan Head Coach (Mid-Distance and Distance) jryan@nmu.edu 906-458-
+• Michael Dellemann Associate Head Coach (Jumps, Hurdles, Multi) mdellema@nmu.edu 715-340-
+• Luke Pease Assistant Coach (Sprints and Throws) lpease@nmu.edu 517-231-
+• Mike Lozier Head Coach mlozier@nmu.edu 906-227-1173
+• Kamryn Duffield Assistant Coach kduffiel@nmu.edu 906-227-1173
+• Lauren Van Remortel Assistant Coach lvanremo@nmu.edu 906-227-1173
+• Adam Wilson Head Coach adawilso@nmu.edu

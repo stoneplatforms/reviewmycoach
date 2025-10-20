@@ -1,0 +1,287 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:09
+============================================================
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jenna Curtis
+   Email: jenna.curtis@lr.edu
+   Username: jenna.curtis
+   Original line: Jenna Curtis Assistant Strength & Conditioning Coach (VB, WSOC, SWIM, TRI, XC, jenna.curtis@lr.edu
+
+2. Adam Skonieczki
+   Email: adam.skonieczki@lr.edu
+   Username: adam.skonieczki
+   Original line: Adam Skonieczki Head Coach adam.skonieczki@lr.edu (828) 328-
+
+3. Micah Baumfeld
+   Email: micah.baumfeld@lr.edu
+   Username: micah.baumfeld
+   Original line: Micah Baumfeld Associate Head Coach micah.baumfeld@lr.edu
+
+4. Blake Bean
+   Email: Blake.Bean2@lr.edu
+   Username: Blake.Bean2
+   Original line: Blake Bean Assistant Coach Blake.Bean2@lr.edu
+
+5. Michael Allen
+   Email: Michael.Allen@my.lr.edu
+   Username: Michael.Allen
+   Original line: Michael Allen Volunteer Assistant Coach Michael.Allen@my.lr.edu
+
+6. Owen Blackledge
+   Email: Owen.Blackledge@my.lr.edu
+   Username: Owen.Blackledge
+   Original line: Owen Blackledge Volunteer Assistant Coach Owen.Blackledge@my.lr.edu
+
+7. Brent Owen
+   Email: brent.owen@lr.edu
+   Username: brent.owen
+   Original line: Brent Owen Head Men's Basketball Coach brent.owen@lr.edu
+
+8. Tyrone Grady
+   Email: kenneth.grady@lr.edu
+   Username: kenneth.grady
+   Original line: Tyrone Grady Assistant Coach kenneth.grady@lr.edu
+
+9. Cesar Lujan-Flores
+   Email: cesar.lujanflores@lr.edu
+   Username: cesar.lujanflores
+   Original line: Cesar Lujan-Flores Assistant Coach cesar.lujanflores@lr.edu
+
+10. Emry Tsitouris
+   Email: emry.tsitouris@lr.edu
+   Username: emry.tsitouris
+   Original line: Emry Tsitouris Head Women's Basketball Coach emry.tsitouris@lr.edu
+
+11. Clenzo Ross
+   Email: Clenzo.Ross@lr.edu
+   Username: Clenzo.Ross
+   Original line: Clenzo Ross Assistant Women's Basketball Coach Clenzo.Ross@lr.edu
+
+12. Maddie Gillie
+   Email: Madison.Gillie@my.lr.edu
+   Username: Madison.Gillie
+   Original line: Maddie Gillie Graduate Assistant Women's Basketball Coach Madison.Gillie@my.lr.edu
+
+13. Amanda Hilton
+   Email: Amanda.Hilton@lr.edu
+   Username: Amanda.Hilton
+   Original line: Amanda Hilton Growth Coach Amanda.Hilton@lr.edu
+
+14. Zach Cloud
+   Email: Zachary.Cloud@lr.edu
+   Username: Zachary.Cloud
+   Original line: Zach Cloud Assistant Coach (Men's Distance) Zachary.Cloud@lr.edu
+
+15. Erin Phelps
+   Email: Erin.Phelps@lr.edu
+   Username: Erin.Phelps
+   Original line: Erin Phelps Assistant Coach (Women's Distance) Erin.Phelps@lr.edu
+
+16. Doug Socha
+   Email: douglas.socha@lr.edu
+   Username: douglas.socha
+   Original line: Doug Socha Head Football Coach douglas.socha@lr.edu
+
+17. Nick Vagnone
+   Email: nicholas.vagnone@lr.edu
+   Username: nicholas.vagnone
+   Original line: Nick Vagnone Linebackers Coach / Recruiting Coordinator nicholas.vagnone@lr.edu
+
+18. Chris Young
+   Email: Christopher.Young@lr.edu
+   Username: Christopher.Young
+   Original line: Chris Young Wide Receivers Coach Christopher.Young@lr.edu
+
+19. Nate Mullen
+   Email: Nathan.Mullen@lr.edu
+   Username: Nathan.Mullen
+   Original line: Nate Mullen Running Backs Coach Nathan.Mullen@lr.edu
+
+20. Cade Socha
+   Email: Cade.Socha@lr.edu
+   Username: Cade.Socha
+   Original line: Cade Socha Tight Ends Coach Cade.Socha@lr.edu
+
+21. Shaw Pomianowski
+   Email: Shaw.Pomianowski@lr.edu
+   Username: Shaw.Pomianowski
+   Original line: Shaw Pomianowski Assistant Wide Receivers Coach Shaw.Pomianowski@lr.edu
+
+22. Chris Jones
+   Email: Christopher.Jones@lr.edu
+   Username: Christopher.Jones
+   Original line: Chris Jones Head Men's & Women's Golf Coach Christopher.Jones@lr.edu
+
+23. Greg Paradine
+   Email: greg.paradine@lr.edu
+   Username: greg.paradine
+   Original line: Greg Paradine Head Men's Lacrosse Coach greg.paradine@lr.edu (828) 328-
+
+24. Ned Kaish
+   Email: ned.kaish@lr.edu
+   Username: ned.kaish
+   Original line: Ned Kaish Assistant Coach ned.kaish@lr.edu
+
+25. Ryan Crompton
+   Email: ryan.crompton2@lr.edu
+   Username: ryan.crompton2
+   Original line: Ryan Crompton Assistant Coach ryan.crompton2@lr.edu (828) 328-
+
+26. Shannon McHale
+   Email: shannon.mchale@lr.edu
+   Username: shannon.mchale
+   Original line: Shannon McHale Head Women's Lacrosse Coach shannon.mchale@lr.edu
+
+27. Ellie Campbell
+   Email: Ellie.Campbell2@lr.edu
+   Username: Ellie.Campbell2
+   Original line: Ellie Campbell Assistant Women's Lacrosse Coach Ellie.Campbell2@lr.edu
+
+28. Carlos Rubio
+   Email: Carlos.Rubio@lr.edu
+   Username: Carlos.Rubio
+   Original line: Carlos Rubio Head Men's Soccer Coach Carlos.Rubio@lr.edu
+
+29. Jorge Morales
+   Email: jorge.morales@lr.edu
+   Username: jorge.morales
+   Original line: Jorge Morales Assistant Coach jorge.morales@lr.edu
+
+30. Will VanHoornbeek
+   Email: Will.VanHoornbeek@lr.edu
+   Username: Will.VanHoornbeek
+   Original line: Will VanHoornbeek Graduate Assistant/Goalkeeper Coach Will.VanHoornbeek@lr.edu
+
+31. Justin Maullin
+   Email: justin.maullin@lr.edu
+   Username: justin.maullin
+   Original line: Justin Maullin Head Women's Soccer Coach justin.maullin@lr.edu
+
+32. Holly Zador
+   Email: holly.zador@lr.edu
+   Username: holly.zador
+   Original line: Holly Zador Assistant Women's Soccer Coach holly.zador@lr.edu
+
+33. Will VanHoornbeek
+   Email: Will.VanHoornbeek@lr.edu
+   Username: Will.VanHoornbeek
+   Original line: Will VanHoornbeek Graduate Assistant/Goalkeeper Coach Will.VanHoornbeek@lr.edu
+
+34. Shena Hollar
+   Email: shena.hollar@lr.edu
+   Username: shena.hollar
+   Original line: Shena Hollar Head Softball Coach shena.hollar@lr.edu (828) 328-
+
+35. Emily Kenley
+   Email: emily.kenley2@lr.edu
+   Username: emily.kenley2
+   Original line: Emily Kenley Assistant Coach emily.kenley2@lr.edu
+
+36. Brandi Franklin
+   Email: Brandi.Franklin2@lr.edu
+   Username: Brandi.Franklin2
+   Original line: Brandi Franklin Head Coach Brandi.Franklin2@lr.edu (704) 883-
+
+37. Becky Bernardi
+   Email: Rebecca.Bernardi@lr.edu
+   Username: Rebecca.Bernardi
+   Original line: Becky Bernardi Volunteer Coach / Dance Rebecca.Bernardi@lr.edu
+
+38. Vic Riggs
+   Email: victor.riggs@lr.edu
+   Username: victor.riggs
+   Original line: Vic Riggs Head Men's & Women's Swim Coach victor.riggs@lr.edu
+
+39. Sam Clarke
+   Email: sam.clarke@lr.edu
+   Username: sam.clarke
+   Original line: Sam Clarke Head Men's and Women's Tennis Coach sam.clarke@lr.edu
+
+40. Zach Cloud
+   Email: Zachary.Cloud@lr.edu
+   Username: Zachary.Cloud
+   Original line: Zach Cloud Assistant Coach (Men's Distance) Zachary.Cloud@lr.edu
+
+41. Erin Phelps
+   Email: Erin.Phelps@lr.edu
+   Username: Erin.Phelps
+   Original line: Erin Phelps Assistant Coach (Women's Distance) Erin.Phelps@lr.edu
+
+42. Caleb Wisecarver
+   Email: Caleb.Wisecarver@lr.edu
+   Username: Caleb.Wisecarver
+   Original line: Caleb Wisecarver Assistant Coach (Jumps & Multis) Caleb.Wisecarver@lr.edu
+
+43. Eddie Mahana
+   Email: Edward.Mahana@lr.edu
+   Username: Edward.Mahana
+   Original line: Eddie Mahana Assistant Coach (Sprints & Hurdles) Edward.Mahana@lr.edu
+
+44. Harley Mason
+   Email: Harley.Mason@lr.edu
+   Username: Harley.Mason
+   Original line: Harley Mason Head Triathlon Coach Harley.Mason@lr.edu
+
+45. Nicole Barringer
+   Email: Nicole.Barringer@lr.edu
+   Username: Nicole.Barringer
+   Original line: Nicole Barringer Head Volleyball Coach Nicole.Barringer@lr.edu (828) 328-
+
+46. Mark Wimberley
+   Email: Mark.Wimberley@lr.edu
+   Username: Mark.Wimberley
+   Original line: Mark Wimberley Assistant Coach Mark.Wimberley@lr.edu (828) 328-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jenna Curtis Assistant Strength & Conditioning Coach (VB, WSOC, SWIM, TRI, XC, jenna.curtis@lr.edu
+• Adam Skonieczki Head Coach adam.skonieczki@lr.edu (828) 328-
+• Micah Baumfeld Associate Head Coach micah.baumfeld@lr.edu
+• Blake Bean Assistant Coach Blake.Bean2@lr.edu
+• Michael Allen Volunteer Assistant Coach Michael.Allen@my.lr.edu
+• Owen Blackledge Volunteer Assistant Coach Owen.Blackledge@my.lr.edu
+• Brent Owen Head Men's Basketball Coach brent.owen@lr.edu
+• Tyrone Grady Assistant Coach kenneth.grady@lr.edu
+• Cesar Lujan-Flores Assistant Coach cesar.lujanflores@lr.edu
+• Emry Tsitouris Head Women's Basketball Coach emry.tsitouris@lr.edu
+• Clenzo Ross Assistant Women's Basketball Coach Clenzo.Ross@lr.edu
+• Maddie Gillie Graduate Assistant Women's Basketball Coach Madison.Gillie@my.lr.edu
+• Amanda Hilton Growth Coach Amanda.Hilton@lr.edu
+• Zach Cloud Assistant Coach (Men's Distance) Zachary.Cloud@lr.edu
+• Erin Phelps Assistant Coach (Women's Distance) Erin.Phelps@lr.edu
+• Doug Socha Head Football Coach douglas.socha@lr.edu
+• Nick Vagnone Linebackers Coach / Recruiting Coordinator nicholas.vagnone@lr.edu
+• Chris Young Wide Receivers Coach Christopher.Young@lr.edu
+• Nate Mullen Running Backs Coach Nathan.Mullen@lr.edu
+• Cade Socha Tight Ends Coach Cade.Socha@lr.edu
+• Shaw Pomianowski Assistant Wide Receivers Coach Shaw.Pomianowski@lr.edu
+• Chris Jones Head Men's & Women's Golf Coach Christopher.Jones@lr.edu
+• Greg Paradine Head Men's Lacrosse Coach greg.paradine@lr.edu (828) 328-
+• Ned Kaish Assistant Coach ned.kaish@lr.edu
+• Ryan Crompton Assistant Coach ryan.crompton2@lr.edu (828) 328-
+• Shannon McHale Head Women's Lacrosse Coach shannon.mchale@lr.edu
+• Ellie Campbell Assistant Women's Lacrosse Coach Ellie.Campbell2@lr.edu
+• Carlos Rubio Head Men's Soccer Coach Carlos.Rubio@lr.edu
+• Jorge Morales Assistant Coach jorge.morales@lr.edu
+• Will VanHoornbeek Graduate Assistant/Goalkeeper Coach Will.VanHoornbeek@lr.edu
+• Justin Maullin Head Women's Soccer Coach justin.maullin@lr.edu
+• Holly Zador Assistant Women's Soccer Coach holly.zador@lr.edu
+• Will VanHoornbeek Graduate Assistant/Goalkeeper Coach Will.VanHoornbeek@lr.edu
+• Shena Hollar Head Softball Coach shena.hollar@lr.edu (828) 328-
+• Emily Kenley Assistant Coach emily.kenley2@lr.edu
+• Brandi Franklin Head Coach Brandi.Franklin2@lr.edu (704) 883-
+• Becky Bernardi Volunteer Coach / Dance Rebecca.Bernardi@lr.edu
+• Vic Riggs Head Men's & Women's Swim Coach victor.riggs@lr.edu
+• Sam Clarke Head Men's and Women's Tennis Coach sam.clarke@lr.edu
+• Zach Cloud Assistant Coach (Men's Distance) Zachary.Cloud@lr.edu
+• Erin Phelps Assistant Coach (Women's Distance) Erin.Phelps@lr.edu
+• Caleb Wisecarver Assistant Coach (Jumps & Multis) Caleb.Wisecarver@lr.edu
+• Eddie Mahana Assistant Coach (Sprints & Hurdles) Edward.Mahana@lr.edu
+• Harley Mason Head Triathlon Coach Harley.Mason@lr.edu
+• Nicole Barringer Head Volleyball Coach Nicole.Barringer@lr.edu (828) 328-
+• Mark Wimberley Assistant Coach Mark.Wimberley@lr.edu (828) 328-

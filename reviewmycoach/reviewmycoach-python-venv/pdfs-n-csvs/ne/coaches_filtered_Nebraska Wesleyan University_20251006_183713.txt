@@ -1,0 +1,281 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:13
+============================================================
+
+Total coaches found: 45
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jerod Peters
+   Email: jpeters6@nebrwesleyan.edu
+   Username: jpeters6
+   Original line: Jerod Peters Head Strength & Conditioning Coach jpeters6@nebrwesleyan.edu
+
+2. Jeff Christy
+   Email: jchristy@nebrwesleyan.edu
+   Username: jchristy
+   Original line: Jeff Christy Head Baseball Coach jchristy@nebrwesleyan.edu 402-465-
+
+3. Mitch Lawson
+   Email: mlawson2@nebrwesleyan.edu
+   Username: mlawson2
+   Original line: Mitch Lawson Assistant Baseball Coach mlawson2@nebrwesleyan.edu
+
+4. Mason Bennett
+   Email: mbennet2@nebrwesleyan.edu
+   Username: mbennet2
+   Original line: Mason Bennett Assistant Baseball Coach mbennet2@nebrwesleyan.edu
+
+5. Dale Wellman
+   Email: dwellman@nebrwesleyan.edu
+   Username: dwellman
+   Original line: Dale Wellman Head Men's Basketball Coach dwellman@nebrwesleyan.edu 402-465-
+
+6. Blake Bonin
+   Email: lbonin@nebrwesleyan.edu
+   Username: lbonin
+   Original line: Blake Bonin Assistant Men's Basketball Coach lbonin@nebrwesleyan.edu
+
+7. Patrick Monahan
+   Email: pmonaha2@nebrwesleyan.edu
+   Username: pmonaha2
+   Original line: Patrick Monahan Assistant Men's Basketball Coach pmonaha2@nebrwesleyan.edu 402-465-
+
+8. Jim Wiedie
+   Email: jwiedie@nebrwesleyan.edu
+   Username: jwiedie
+   Original line: Jim Wiedie Head Women's Basketball Coach jwiedie@nebrwesleyan.edu 402-465-
+
+9. Sydney Golladay
+   Email: sgollada@nebrwesleyan.edu
+   Username: sgollada
+   Original line: Sydney Golladay Assistant Women’s Basketball Coach sgollada@nebrwesleyan.edu 402-465-
+
+10. Chad Berens
+   Email: cberens@nebrwesleyan.edu
+   Username: cberens
+   Original line: Chad Berens Head Cross Country/Distance Coach cberens@nebrwesleyan.edu 402-465-
+
+11. Wes Ferguson
+   Email: wferguso@nebrwesleyan.edu
+   Username: wferguso
+   Original line: Wes Ferguson Assistant Coach wferguso@nebrwesleyan.edu
+
+12. Brian Keller
+   Email: bjk@nebrwesleyan.edu
+   Username: bjk
+   Original line: Brian Keller Head Football Coach bjk@nebrwesleyan.edu 402-465-
+
+13. Jordan Riebe
+   Email: jriebe@nebrwesleyan.edu
+   Username: jriebe
+   Original line: Jordan Riebe Assistant Football Coach jriebe@nebrwesleyan.edu
+
+14. Adam Posateri
+   Email: aposater@nebrwesleyan.edu
+   Username: aposater
+   Original line: Adam Posateri Wide Receivers Coach aposater@nebrwesleyan.edu
+
+15. Dave Watenpaugh
+   Email: cwatenpa@nebrwesleyan.edu
+   Username: cwatenpa
+   Original line: Dave Watenpaugh Tight Ends Coach cwatenpa@nebrwesleyan.edu
+
+16. Chip Lange
+   Email: dlange@nebrwesleyan.edu
+   Username: dlange
+   Original line: Chip Lange Running Backs Coach dlange@nebrwesleyan.edu 402-488-
+
+17. Ray Corona
+   Email: rcorona@nebrwesleyan.edu
+   Username: rcorona
+   Original line: Ray Corona Kickers/Punters Coach rcorona@nebrwesleyan.edu
+
+18. Kean Kontor
+   Email: kkontor2@nebrwesleyan.edu
+   Username: kkontor2
+   Original line: Kean Kontor Head Men's & Women's Golf Coach kkontor2@nebrwesleyan.edu
+
+19. Kean Kontor
+   Email: kkontor2@nebrwesleyan.edu
+   Username: kkontor2
+   Original line: Kean Kontor Head Men's & Women's Golf Coach kkontor2@nebrwesleyan.edu
+
+20. Brandon Bonilla
+   Email: bbonilla@nebrwesleyan.edu
+   Username: bbonilla
+   Original line: Brandon Bonilla Head Men's Soccer Coach bbonilla@nebrwesleyan.edu 402-465-
+
+21. Hunter Sowersby
+   Email: hsowersb@nebrwesleyan.edu
+   Username: hsowersb
+   Original line: Hunter Sowersby Assistant Men's Soccer Coach hsowersb@nebrwesleyan.edu 607-643-
+
+22. Steve Pointon
+   Email: spointon@nebrwesleyan.edu
+   Username: spointon
+   Original line: Steve Pointon Assistant Men's Soccer Coach/Recruiting spointon@nebrwesleyan.edu
+
+23. Mark Ladd
+   Email: mladd@nebrwesleyan.edu
+   Username: mladd
+   Original line: Mark Ladd Assistant Men's Soccer Coach mladd@nebrwesleyan.edu
+
+24. Robert Lynch
+   Email: rlynch@nebrwesleyan.edu
+   Username: rlynch
+   Original line: Robert Lynch Head Women's Soccer Coach rlynch@nebrwesleyan.edu
+
+25. Bailey Brennan
+   Email: bbrennan@nebrwesleyan.edu
+   Username: bbrennan
+   Original line: Bailey Brennan Assistant Women's Soccer Coach bbrennan@nebrwesleyan.edu
+
+26. Efren Flores
+   Email: efloresf@nebrwesleyan.edu
+   Username: efloresf
+   Original line: Efren Flores Fierro Assistant Women's Soccer Coach efloresf@nebrwesleyan.edu
+
+27. Casey Clements
+   Email: cclement@nebrwesleyan.edu
+   Username: cclement
+   Original line: Casey Clements Head Cheer & Dance Coach cclement@nebrwesleyan.edu 402-465-
+
+28. Kyle Hunt
+   Email: khunt2@nebrwesleyan.edu
+   Username: khunt2
+   Original line: Kyle Hunt Head Swimming Coach khunt2@nebrwesleyan.edu 402-465-
+
+29. Dannie Dilsaver
+   Email: ddilsave@nebrwesleyan.edu
+   Username: ddilsave
+   Original line: Dannie Dilsaver Assistant Swimming Coach ddilsave@nebrwesleyan.edu 402-465-
+
+30. Ryan Rieker
+   Email: rrieker@nebrwesleyan.edu
+   Username: rrieker
+   Original line: Ryan Rieker Assistant Swimming Coach rrieker@nebrwesleyan.edu
+
+31. Lee Steinbrook
+   Email: lsteinbr@nebrwesleyan.edu
+   Username: lsteinbr
+   Original line: Lee Steinbrook Head Tennis Coach lsteinbr@nebrwesleyan.edu 402-465-
+
+32. Lee Steinbrook
+   Email: lsteinbr@nebrwesleyan.edu
+   Username: lsteinbr
+   Original line: Lee Steinbrook Head Tennis Coach lsteinbr@nebrwesleyan.edu 402-465-
+
+33. Chad Berens
+   Email: cberens@nebrwesleyan.edu
+   Username: cberens
+   Original line: Chad Berens Head Cross Country/Distance Coach cberens@nebrwesleyan.edu 402-465-
+
+34. Derek Frese
+   Email: dfrese@nebrwesleyan.edu
+   Username: dfrese
+   Original line: Derek Frese Throws Coach dfrese@nebrwesleyan.edu 402-465-
+
+35. Kyle Dickinson
+   Email: kdickin2@nebrwesleyan.edu
+   Username: kdickin2
+   Original line: Kyle Dickinson Sprints Coach kdickin2@nebrwesleyan.edu
+
+36. Chris Baum
+   Email: cbaum@nebrwesleyan.edu
+   Username: cbaum
+   Original line: Chris Baum Vertical Jumps Coach cbaum@nebrwesleyan.edu
+
+37. Scott Etherton
+   Email: see@nebrwesleyan.edu
+   Username: see
+   Original line: Scott Etherton Hurdles Coach see@nebrwesleyan.edu
+
+38. Kurt Nielsen
+   Email: knielsen@nebrwesleyan.edu
+   Username: knielsen
+   Original line: Kurt Nielsen Volunteer Assistant Coach knielsen@nebrwesleyan.edu
+
+39. Derek Carson
+   Email: dcarson@nebrwesleyan.edu
+   Username: dcarson
+   Original line: Derek Carson Horizontal Jumps / Multi-Event Coach dcarson@nebrwesleyan.edu
+
+40. Jackie McKenzie
+   Email: jmckenzi@nebrwesleyan.edu
+   Username: jmckenzi
+   Original line: Jackie McKenzie Distance Coach jmckenzi@nebrwesleyan.edu 402-465-
+
+41. Wes Ferguson
+   Email: wferguso@nebrwesleyan.edu
+   Username: wferguso
+   Original line: Wes Ferguson Assistant Coach wferguso@nebrwesleyan.edu
+
+42. Rayna Cain
+   Email: rcain@nebrwesleyan.edu
+   Username: rcain
+   Original line: Rayna Cain Head Volleyball Coach rcain@nebrwesleyan.edu 402-465-
+
+43. Nick Erdman
+   Email: nerdman@nebrwesleyan.edu
+   Username: nerdman
+   Original line: Nick Erdman Assistant Volleyball Coach / Recruiting nerdman@nebrwesleyan.edu
+
+44. CJ Roberts
+   Email: crobert3@nebrwesleyan.edu
+   Username: crobert3
+   Original line: CJ Roberts Assistant Volleyball Coach crobert3@nebrwesleyan.edu
+
+45. Colton McCrystal
+   Email: cmccryst@nebrwesleyan.edu
+   Username: cmccryst
+   Original line: Colton McCrystal Head Wrestling Coach cmccryst@nebrwesleyan.edu 402-465-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jerod Peters Head Strength & Conditioning Coach jpeters6@nebrwesleyan.edu
+• Jeff Christy Head Baseball Coach jchristy@nebrwesleyan.edu 402-465-
+• Mitch Lawson Assistant Baseball Coach mlawson2@nebrwesleyan.edu
+• Mason Bennett Assistant Baseball Coach mbennet2@nebrwesleyan.edu
+• Dale Wellman Head Men's Basketball Coach dwellman@nebrwesleyan.edu 402-465-
+• Blake Bonin Assistant Men's Basketball Coach lbonin@nebrwesleyan.edu
+• Patrick Monahan Assistant Men's Basketball Coach pmonaha2@nebrwesleyan.edu 402-465-
+• Jim Wiedie Head Women's Basketball Coach jwiedie@nebrwesleyan.edu 402-465-
+• Sydney Golladay Assistant Women’s Basketball Coach sgollada@nebrwesleyan.edu 402-465-
+• Chad Berens Head Cross Country/Distance Coach cberens@nebrwesleyan.edu 402-465-
+• Wes Ferguson Assistant Coach wferguso@nebrwesleyan.edu
+• Brian Keller Head Football Coach bjk@nebrwesleyan.edu 402-465-
+• Jordan Riebe Assistant Football Coach jriebe@nebrwesleyan.edu
+• Adam Posateri Wide Receivers Coach aposater@nebrwesleyan.edu
+• Dave Watenpaugh Tight Ends Coach cwatenpa@nebrwesleyan.edu
+• Chip Lange Running Backs Coach dlange@nebrwesleyan.edu 402-488-
+• Ray Corona Kickers/Punters Coach rcorona@nebrwesleyan.edu
+• Kean Kontor Head Men's & Women's Golf Coach kkontor2@nebrwesleyan.edu
+• Kean Kontor Head Men's & Women's Golf Coach kkontor2@nebrwesleyan.edu
+• Brandon Bonilla Head Men's Soccer Coach bbonilla@nebrwesleyan.edu 402-465-
+• Hunter Sowersby Assistant Men's Soccer Coach hsowersb@nebrwesleyan.edu 607-643-
+• Steve Pointon Assistant Men's Soccer Coach/Recruiting spointon@nebrwesleyan.edu
+• Mark Ladd Assistant Men's Soccer Coach mladd@nebrwesleyan.edu
+• Robert Lynch Head Women's Soccer Coach rlynch@nebrwesleyan.edu
+• Bailey Brennan Assistant Women's Soccer Coach bbrennan@nebrwesleyan.edu
+• Efren Flores Fierro Assistant Women's Soccer Coach efloresf@nebrwesleyan.edu
+• Casey Clements Head Cheer & Dance Coach cclement@nebrwesleyan.edu 402-465-
+• Kyle Hunt Head Swimming Coach khunt2@nebrwesleyan.edu 402-465-
+• Dannie Dilsaver Assistant Swimming Coach ddilsave@nebrwesleyan.edu 402-465-
+• Ryan Rieker Assistant Swimming Coach rrieker@nebrwesleyan.edu
+• Lee Steinbrook Head Tennis Coach lsteinbr@nebrwesleyan.edu 402-465-
+• Lee Steinbrook Head Tennis Coach lsteinbr@nebrwesleyan.edu 402-465-
+• Chad Berens Head Cross Country/Distance Coach cberens@nebrwesleyan.edu 402-465-
+• Derek Frese Throws Coach dfrese@nebrwesleyan.edu 402-465-
+• Kyle Dickinson Sprints Coach kdickin2@nebrwesleyan.edu
+• Chris Baum Vertical Jumps Coach cbaum@nebrwesleyan.edu
+• Scott Etherton Hurdles Coach see@nebrwesleyan.edu
+• Kurt Nielsen Volunteer Assistant Coach knielsen@nebrwesleyan.edu
+• Derek Carson Horizontal Jumps / Multi-Event Coach dcarson@nebrwesleyan.edu
+• Jackie McKenzie Distance Coach jmckenzi@nebrwesleyan.edu 402-465-
+• Wes Ferguson Assistant Coach wferguso@nebrwesleyan.edu
+• Rayna Cain Head Volleyball Coach rcain@nebrwesleyan.edu 402-465-
+• Nick Erdman Assistant Volleyball Coach / Recruiting nerdman@nebrwesleyan.edu
+• CJ Roberts Assistant Volleyball Coach crobert3@nebrwesleyan.edu
+• Colton McCrystal Head Wrestling Coach cmccryst@nebrwesleyan.edu 402-465-

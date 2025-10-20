@@ -1,0 +1,227 @@
+COACH ENTRIES FOUND - 2025-10-04 18:12:02
+============================================================
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Corby McGlauflin
+   Email: Corby.McGlauflin@briarcliff.edu
+   Username: Corby.McGlauflin
+   Original line: Corby McGlauflin Head Coach / Assistant Athletic Director for Corby.McGlauflin@briarcliff.edu 712-490-
+
+2. Darrian Stickney
+   Email: Darrian.Stickney@briarcliff.edu
+   Username: Darrian.Stickney
+   Original line: Darrian Stickney Head Strength and Conditioning Coach Darrian.Stickney@briarcliff.edu 712-279-
+
+3. Corby McGlauflin
+   Email: Corby.McGlauflin@briarcliff.edu
+   Username: Corby.McGlauflin
+   Original line: Corby McGlauflin Head Coach / Assistant Athletic Director for Corby.McGlauflin@briarcliff.edu 712-490-
+
+4. Joshua Culliver
+   Email: Joshua.Culliver@briarcliff.edu
+   Username: Joshua.Culliver
+   Original line: Joshua Culliver Assistant/Pitching Coach Joshua.Culliver@briarcliff.edu
+
+5. Cyler Melvin
+   Email: cyler.melvin@briarcliff.edu
+   Username: cyler.melvin
+   Original line: Cyler Melvin Assistant Coach cyler.melvin@briarcliff.edu
+
+6. Mark Svagera
+   Email: Mark.Svagera@briarcliff.edu
+   Username: Mark.Svagera
+   Original line: Mark Svagera Head Coach Mark.Svagera@briarcliff.edu 712-279-
+
+7. Adam Schumacher
+   Email: Adam.Schumacher@briarcliff.edu
+   Username: Adam.Schumacher
+   Original line: Adam Schumacher Assistant Coach Adam.Schumacher@briarcliff.edu 712-279-
+
+8. Connor Sonius
+   Email: connor.sonius@briarcliff.edu
+   Username: connor.sonius
+   Original line: Connor Sonius Head Coach connor.sonius@briarcliff.edu 712-279-
+
+9. Grant Hopkins
+   Email: Grant.Hopkins@briarcliff.edu
+   Username: Grant.Hopkins
+   Original line: Grant Hopkins Assistant Coach Grant.Hopkins@briarcliff.edu
+
+10. Madison Mahr
+   Email: Madison.Mahr@briarcliff.edu
+   Username: Madison.Mahr
+   Original line: Madison Mahr Head Coach Madison.Mahr@briarcliff.edu 712-635-
+
+11. Riley Miessner
+   Email: Riley.Miessner@briarcliff.edu
+   Username: Riley.Miessner
+   Original line: Riley Miessner Head Track & Field and Cross-Country Coach Riley.Miessner@briarcliff.edu
+
+12. Riley Miessner
+   Email: Riley.Miessner@briarcliff.edu
+   Username: Riley.Miessner
+   Original line: Riley Miessner Head Track & Field and Cross-Country Coach Riley.Miessner@briarcliff.edu
+
+13. Jack Moehrke
+   Email: jack.moehrke@briarcliff.edu
+   Username: jack.moehrke
+   Original line: Jack Moehrke Head Coach jack.moehrke@briarcliff.edu 712-279-
+
+14. Shane LaDage
+   Email: Shane.LaDage@briarcliff.edu
+   Username: Shane.LaDage
+   Original line: Shane LaDage Head Coach Shane.LaDage@briarcliff.edu 712-279- @CoachLaDage
+
+15. Nathan Koziol
+   Email: Nathan.Koziol@briarcliff.edu
+   Username: Nathan.Koziol
+   Original line: Nathan Koziol Associate Head Coach / Defensive Coordinator Nathan.Koziol@briarcliff.edu 712-279- @CoachKoziol
+
+16. Ryan Sayre
+   Email: Ryan.Sayre@briarcliff.edu
+   Username: Ryan.Sayre
+   Original line: Ryan Sayre Offensive Coordinator / Quarterbacks Coach Ryan.Sayre@briarcliff.edu
+
+17. Ryan Ross
+   Email: ryan.ross@briarcliff.edu
+   Username: ryan.ross
+   Original line: Ryan Ross Offensive Line Coach / Recruiting Coordinator ryan.ross@briarcliff.edu @Coach_RRoss
+
+18. Connor Durdan
+   Email: Connor.Durdan@briarcliff.edu
+   Username: Connor.Durdan
+   Original line: Connor Durdan Running Backs / Tight Ends Coach Connor.Durdan@briarcliff.edu @coachdurdan
+
+19. Aydan Prieto
+   Email: Aydan.Prieto@briarcliff.edu
+   Username: Aydan.Prieto
+   Original line: Aydan Prieto Defensive Line Coach Aydan.Prieto@briarcliff.edu
+
+20. Ben Irlbeck
+   Email: Ben.Irlbeck@briarcliff.edu
+   Username: Ben.Irlbeck
+   Original line: Ben Irlbeck Head Coach Ben.Irlbeck@briarcliff.edu 712-279-
+
+21. Ben Irlbeck
+   Email: Ben.Irlbeck@briarcliff.edu
+   Username: Ben.Irlbeck
+   Original line: Ben Irlbeck Head Coach Ben.Irlbeck@briarcliff.edu 712-279-
+
+22. Luis de
+   Email: luis.delafuentecastro@briarcliff.edu
+   Username: luis.delafuentecastro
+   Original line: Luis de la Fuente Head Coach luis.delafuentecastro@briarcliff.edu
+
+23. Yan Rosado
+   Email: Yan.Rosado@briarcliff.edu
+   Username: Yan.Rosado
+   Original line: Yan Rosado Assistant Coach Yan.Rosado@briarcliff.edu
+
+24. Hugo Mariage
+   Email: Hugo.Mariage@briarcliff.edu
+   Username: Hugo.Mariage
+   Original line: Hugo Mariage Assistant Coach Hugo.Mariage@briarcliff.edu
+
+25. Liam Brandso
+   Email: Liam.Brandso@briarcliff.edu
+   Username: Liam.Brandso
+   Original line: Liam Brandso Assistant Coach Liam.Brandso@briarcliff.edu
+
+26. Ernesto Hidalgo
+   Email: Ernesto.Hidalgo@briarcliff.edu
+   Username: Ernesto.Hidalgo
+   Original line: Ernesto Hidalgo Head Coach Ernesto.Hidalgo@briarcliff.edu
+
+27. TJ Eadus
+   Email: TJ.Eadus@briarcliff.edu
+   Username: TJ.Eadus
+   Original line: TJ Eadus Head Coach TJ.Eadus@briarcliff.edu 520-861-
+
+28. Makensey Pankers
+   Email: Makensey.Pankers@briarcliff.edu
+   Username: Makensey.Pankers
+   Original line: Makensey Pankers Assistant Coach Makensey.Pankers@briarcliff.edu
+
+29. Mike Leapley
+   Email: Mike.Leapley@briarcliff.edu
+   Username: Mike.Leapley
+   Original line: Mike Leapley Assistant Coach Mike.Leapley@briarcliff.edu
+
+30. Riley Miessner
+   Email: Riley.Miessner@briarcliff.edu
+   Username: Riley.Miessner
+   Original line: Riley Miessner Head Track & Field and Cross-Country Coach Riley.Miessner@briarcliff.edu
+
+31. Riley Miessner
+   Email: Riley.Miessner@briarcliff.edu
+   Username: Riley.Miessner
+   Original line: Riley Miessner Head Track & Field and Cross-Country Coach Riley.Miessner@briarcliff.edu
+
+32. Lauren Boatman
+   Email: Lauren.Boatman@briarcliff.edu
+   Username: Lauren.Boatman
+   Original line: Lauren Boatman Head Coach Lauren.Boatman@briarcliff.edu
+
+33. Brady Van
+   Email: Brady.VanDusen@briarcliff.edu
+   Username: Brady.VanDusen
+   Original line: Brady Van Dusen Assistant Coach Brady.VanDusen@briarcliff.edu
+
+34. Donaco Watts
+   Email: Donaco.Watts@briarcliff.edu
+   Username: Donaco.Watts
+   Original line: Donaco Watts Head Coach Donaco.Watts@briarcliff.edu 712-279-
+
+35. Josh Rogers
+   Email: Josh.Rogers@briarcliff.edu
+   Username: Josh.Rogers
+   Original line: Josh Rogers Assistant Coach Josh.Rogers@briarcliff.edu
+
+36. Drew West
+   Email: Drew.West@briarcliff.edu
+   Username: Drew.West
+   Original line: Drew West Assistant Coach Drew.West@briarcliff.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Corby McGlauflin Head Coach / Assistant Athletic Director for Corby.McGlauflin@briarcliff.edu 712-490-
+• Darrian Stickney Head Strength and Conditioning Coach Darrian.Stickney@briarcliff.edu 712-279-
+• Corby McGlauflin Head Coach / Assistant Athletic Director for Corby.McGlauflin@briarcliff.edu 712-490-
+• Joshua Culliver Assistant/Pitching Coach Joshua.Culliver@briarcliff.edu
+• Cyler Melvin Assistant Coach cyler.melvin@briarcliff.edu
+• Mark Svagera Head Coach Mark.Svagera@briarcliff.edu 712-279-
+• Adam Schumacher Assistant Coach Adam.Schumacher@briarcliff.edu 712-279-
+• Connor Sonius Head Coach connor.sonius@briarcliff.edu 712-279-
+• Grant Hopkins Assistant Coach Grant.Hopkins@briarcliff.edu
+• Madison Mahr Head Coach Madison.Mahr@briarcliff.edu 712-635-
+• Riley Miessner Head Track & Field and Cross-Country Coach Riley.Miessner@briarcliff.edu
+• Riley Miessner Head Track & Field and Cross-Country Coach Riley.Miessner@briarcliff.edu
+• Jack Moehrke Head Coach jack.moehrke@briarcliff.edu 712-279-
+• Shane LaDage Head Coach Shane.LaDage@briarcliff.edu 712-279- @CoachLaDage
+• Nathan Koziol Associate Head Coach / Defensive Coordinator Nathan.Koziol@briarcliff.edu 712-279- @CoachKoziol
+• Ryan Sayre Offensive Coordinator / Quarterbacks Coach Ryan.Sayre@briarcliff.edu
+• Ryan Ross Offensive Line Coach / Recruiting Coordinator ryan.ross@briarcliff.edu @Coach_RRoss
+• Connor Durdan Running Backs / Tight Ends Coach Connor.Durdan@briarcliff.edu @coachdurdan
+• Aydan Prieto Defensive Line Coach Aydan.Prieto@briarcliff.edu
+• Ben Irlbeck Head Coach Ben.Irlbeck@briarcliff.edu 712-279-
+• Ben Irlbeck Head Coach Ben.Irlbeck@briarcliff.edu 712-279-
+• Luis de la Fuente Head Coach luis.delafuentecastro@briarcliff.edu
+• Yan Rosado Assistant Coach Yan.Rosado@briarcliff.edu
+• Hugo Mariage Assistant Coach Hugo.Mariage@briarcliff.edu
+• Liam Brandso Assistant Coach Liam.Brandso@briarcliff.edu
+• Ernesto Hidalgo Head Coach Ernesto.Hidalgo@briarcliff.edu
+• TJ Eadus Head Coach TJ.Eadus@briarcliff.edu 520-861-
+• Makensey Pankers Assistant Coach Makensey.Pankers@briarcliff.edu
+• Mike Leapley Assistant Coach Mike.Leapley@briarcliff.edu
+• Riley Miessner Head Track & Field and Cross-Country Coach Riley.Miessner@briarcliff.edu
+• Riley Miessner Head Track & Field and Cross-Country Coach Riley.Miessner@briarcliff.edu
+• Lauren Boatman Head Coach Lauren.Boatman@briarcliff.edu
+• Brady Van Dusen Assistant Coach Brady.VanDusen@briarcliff.edu
+• Donaco Watts Head Coach Donaco.Watts@briarcliff.edu 712-279-
+• Josh Rogers Assistant Coach Josh.Rogers@briarcliff.edu
+• Drew West Assistant Coach Drew.West@briarcliff.edu

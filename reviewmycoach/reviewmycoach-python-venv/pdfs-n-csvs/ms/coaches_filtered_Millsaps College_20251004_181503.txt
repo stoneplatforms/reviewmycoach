@@ -1,0 +1,209 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:03
+============================================================
+
+Total coaches found: 33
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dallas Creamer
+   Email: creamdj@millsaps.edu
+   Username: creamdj
+   Original line: Dallas Creamer Head Strength and Conditioning Coach & Director of Hall creamdj@millsaps.edu 601-974-
+
+2. Dallas Creamer
+   Email: creamdj@millsaps.edu
+   Username: creamdj
+   Original line: Dallas Creamer Head Strength and Conditioning Coach & Director of Hall creamdj@millsaps.edu 601-974-
+
+3. Jim Page
+   Email: pagejj@millsaps.edu
+   Username: pagejj
+   Original line: Jim Page Head Baseball Coach pagejj@millsaps.edu 601-974-
+
+4. Jackson Hailey
+   Email: hailepj@millsaps.edu
+   Username: hailepj
+   Original line: Jackson Hailey Assistant Baseball Coach hailepj@millsaps.edu 601-974-
+
+5. Case Page
+   Email: pagecj@millsaps.edu
+   Username: pagecj
+   Original line: Case Page Assistant Baseball Coach pagecj@millsaps.edu
+
+6. Nathan Chilton
+   Email: chiltnc@millsaps.edu
+   Username: chiltnc
+   Original line: Nathan Chilton Assistant Baseball Coach chiltnc@millsaps.edu
+
+7. Connor Kuykendall
+   Email: kuykecd@millsaps.edu
+   Username: kuykecd
+   Original line: Connor Kuykendall Head Men's Basketball Coach kuykecd@millsaps.edu 601-974-
+
+8. Griffin Levine
+   Email: levinga@millsaps.edu
+   Username: levinga
+   Original line: Griffin Levine Assistant Men's Basketball Coach levinga@millsaps.edu
+
+9. Jeff Wilbur
+   Email: wilbujd@millsaps.edu
+   Username: wilbujd
+   Original line: Jeff Wilbur Head Women's Basketball Coach wilbujd@millsaps.edu 601-974-
+
+10. Ciara Jackson
+   Email: jackscd@millsaps.edu
+   Username: jackscd
+   Original line: Ciara Jackson Assistant Women's Basketball Coach jackscd@millsaps.edu
+
+11. Lauren Brown
+   Email: laubrown@jackson.k12.ms.us
+   Username: laubrown
+   Original line: Lauren Brown Cheerleading Coach laubrown@jackson.k12.ms.us
+
+12. Derrick Jordan
+   Email: jordadk@millsaps.edu
+   Username: jordadk
+   Original line: Derrick Jordan Assistant Cross Country and Track & Field Coach jordadk@millsaps.edu 601-974-
+
+13. Brandon Lechtenberg
+   Email: lechtb@millsaps.edu
+   Username: lechtb
+   Original line: Brandon Lechtenberg Head Football Coach lechtb@millsaps.edu 601-974-
+
+14. Taylor Martin
+   Email: martitd1@millsaps.edu
+   Username: martitd1
+   Original line: Taylor Martin Safeties Coach / Co-Special Teams Coordinator martitd1@millsaps.edu
+
+15. Chris Corrado
+   Email: corracc@millsaps.edu
+   Username: corracc
+   Original line: Chris Corrado Offensive Line Coach corracc@millsaps.edu
+
+16. Ridge Murphy
+   Email: murphra@millsaps.edu
+   Username: murphra
+   Original line: Ridge Murphy Running Backs / Tight Ends / Assistant Head Coach & Co- murphra@millsaps.edu
+
+17. Master Davis
+   Email: davismb1@millsaps.edu
+   Username: davismb1
+   Original line: Master Davis Linebackers Coach davismb1@millsaps.edu
+
+18. Roderick Gordon
+   Email: gordorl@millsaps.edu
+   Username: gordorl
+   Original line: Roderick Gordon III Wide Receivers Coach gordorl@millsaps.edu
+
+19. Gentry Johnson
+   Email: johnsgl@millsaps.edu
+   Username: johnsgl
+   Original line: Gentry Johnson Head Men's Soccer Coach johnsgl@millsaps.edu 601-974-
+
+20. Stephen Roberson
+   Email: roberse1@millsaps.edu
+   Username: roberse1
+   Original line: Stephen Roberson Assistant Men's Soccer Coach roberse1@millsaps.edu
+
+21. Jeramey Anderson
+   Email: anderjd@millsaps.edu
+   Username: anderjd
+   Original line: Jeramey Anderson Assistant Men's Soccer Coach anderjd@millsaps.edu
+
+22. Luke Schwarz
+   Email: schwalj@millsaps.edu
+   Username: schwalj
+   Original line: Luke Schwarz Head Women's Soccer Coach schwalj@millsaps.edu 601-974-
+
+23. Lauren Samford
+   Email: samfolo@millsaps.edu
+   Username: samfolo
+   Original line: Lauren Samford Assistant Women's Soccer Coach samfolo@millsaps.edu 601-974-
+
+24. Mary Ranager
+   Email: ranagmc@millsaps.edu
+   Username: ranagmc
+   Original line: Mary Ranager Assistant Women's Soccer Coach ranagmc@millsaps.edu
+
+25. Jeff Gillespie
+   Email: gillejd@millsaps.edu
+   Username: gillejd
+   Original line: Jeff Gillespie Head Softball Coach gillejd@millsaps.edu 601-974-
+
+26. Lindsey Coffey
+   Email: coffeld@millsaps.edu
+   Username: coffeld
+   Original line: Lindsey Coffey Assistant Softball Coach / Director of Recruiting coffeld@millsaps.edu
+
+27. Andrew Foltz
+   Email: foltzar@millsaps.edu
+   Username: foltzar
+   Original line: Andrew Foltz Head Men's and Women's Swimming and Diving Coach foltzar@millsaps.edu 601-974-
+
+28. Madeline McCloskey
+   Email: mcclomm@millsaps.edu
+   Username: mcclomm
+   Original line: Madeline McCloskey Assistant Men's and Women's Swimming and Diving Coach mcclomm@millsaps.edu
+
+29. Agnes Gee
+   Email: geeam@millsaps.edu
+   Username: geeam
+   Original line: Agnes Gee Head Men's and Women's Tennis Coach geeam@millsaps.edu 601-974-
+
+30. Fernanda Cota
+   Email: cotaf@millsaps.edu
+   Username: cotaf
+   Original line: Fernanda Cota Assistant Men's and Women's Tennis Coach cotaf@millsaps.edu
+
+31. Derrick Jordan
+   Email: jordadk@millsaps.edu
+   Username: jordadk
+   Original line: Derrick Jordan Assistant Cross Country and Track & Field Coach jordadk@millsaps.edu 601-974-
+
+32. Hannah Lingold
+   Email: lingohr@millsaps.edu
+   Username: lingohr
+   Original line: Hannah Lingold Assistant Volleyball Coach / Track & Field Throws Coach lingohr@millsaps.edu 601-974-
+
+33. Hannah Lingold
+   Email: lingohr@millsaps.edu
+   Username: lingohr
+   Original line: Hannah Lingold Assistant Volleyball Coach / Track & Field Throws Coach lingohr@millsaps.edu 601-974-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dallas Creamer Head Strength and Conditioning Coach & Director of Hall creamdj@millsaps.edu 601-974-
+• Dallas Creamer Head Strength and Conditioning Coach & Director of Hall creamdj@millsaps.edu 601-974-
+• Jim Page Head Baseball Coach pagejj@millsaps.edu 601-974-
+• Jackson Hailey Assistant Baseball Coach hailepj@millsaps.edu 601-974-
+• Case Page Assistant Baseball Coach pagecj@millsaps.edu
+• Nathan Chilton Assistant Baseball Coach chiltnc@millsaps.edu
+• Connor Kuykendall Head Men's Basketball Coach kuykecd@millsaps.edu 601-974-
+• Griffin Levine Assistant Men's Basketball Coach levinga@millsaps.edu
+• Jeff Wilbur Head Women's Basketball Coach wilbujd@millsaps.edu 601-974-
+• Ciara Jackson Assistant Women's Basketball Coach jackscd@millsaps.edu
+• Lauren Brown Cheerleading Coach laubrown@jackson.k12.ms.us
+• Derrick Jordan Assistant Cross Country and Track & Field Coach jordadk@millsaps.edu 601-974-
+• Brandon Lechtenberg Head Football Coach lechtb@millsaps.edu 601-974-
+• Taylor Martin Safeties Coach / Co-Special Teams Coordinator martitd1@millsaps.edu
+• Chris Corrado Offensive Line Coach corracc@millsaps.edu
+• Ridge Murphy Running Backs / Tight Ends / Assistant Head Coach & Co- murphra@millsaps.edu
+• Master Davis Linebackers Coach davismb1@millsaps.edu
+• Roderick Gordon III Wide Receivers Coach gordorl@millsaps.edu
+• Gentry Johnson Head Men's Soccer Coach johnsgl@millsaps.edu 601-974-
+• Stephen Roberson Assistant Men's Soccer Coach roberse1@millsaps.edu
+• Jeramey Anderson Assistant Men's Soccer Coach anderjd@millsaps.edu
+• Luke Schwarz Head Women's Soccer Coach schwalj@millsaps.edu 601-974-
+• Lauren Samford Assistant Women's Soccer Coach samfolo@millsaps.edu 601-974-
+• Mary Ranager Assistant Women's Soccer Coach ranagmc@millsaps.edu
+• Jeff Gillespie Head Softball Coach gillejd@millsaps.edu 601-974-
+• Lindsey Coffey Assistant Softball Coach / Director of Recruiting coffeld@millsaps.edu
+• Andrew Foltz Head Men's and Women's Swimming and Diving Coach foltzar@millsaps.edu 601-974-
+• Madeline McCloskey Assistant Men's and Women's Swimming and Diving Coach mcclomm@millsaps.edu
+• Agnes Gee Head Men's and Women's Tennis Coach geeam@millsaps.edu 601-974-
+• Fernanda Cota Assistant Men's and Women's Tennis Coach cotaf@millsaps.edu
+• Derrick Jordan Assistant Cross Country and Track & Field Coach jordadk@millsaps.edu 601-974-
+• Hannah Lingold Assistant Volleyball Coach / Track & Field Throws Coach lingohr@millsaps.edu 601-974-
+• Hannah Lingold Assistant Volleyball Coach / Track & Field Throws Coach lingohr@millsaps.edu 601-974-

@@ -1,0 +1,1819 @@
+-> Reading CSV: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/ca/California College Athletics.csv
+-> Output PDFs to: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/ca
+
+Printing completed in 396.9s
+Success: 62 | Skipped: 7 | Errors: 0
+
+Resolved URLs used:
+- Saint Mary’s College of California.pdf: https://smcgaels.com/staff-directory?print=true
+- University of California, Berkeley (Cal).pdf: https://calbears.com/staff-directory?print=true
+- Stanford University.pdf: https://gostanford.com/staff-directory?print=true
+- Cal State Northridge (CSUN).pdf: https://gomatadors.com/staff-directory/print
+- Concordia University Irvine.pdf: https://cuieagles.com/staff-directory?print=true
+- Azusa Pacific University.pdf: https://athletics.apu.edu/staff-directory?print=true
+- Claremont-Mudd-Scripps (CMS) Athletics.pdf: https://cmsathletics.org/staff-directory?print=true
+- Pacific Union College.pdf: https://pioneersathletics.com/staff-directory?print=true
+- UC Davis.pdf: https://ucdavisaggies.com/staff-directory?print=true
+- Santa Clara University.pdf: https://santaclarabroncos.com/staff-directory?print=true
+- Cal State Bakersfield (CSUB).pdf: https://gorunners.com/staff-directory?print=true
+- California State University, Chico (Chico State).pdf: https://chicowildcats.com/staff-directory/print
+- Academy of Art University.pdf: https://artuathletics.com/staff-directory?print=true
+- Life Pacific University.pdf: https://liferunningeagles.com/staff-directory/print
+- Menlo College.pdf: https://menloathletics.com/staff-directory?print=true
+- UC Irvine.pdf: https://ucirvinesports.com/staff-directory?print=true
+- Sacramento State.pdf: https://hornetsports.com/staff-directory?print=true
+- University of San Diego (USD).pdf: https://usdtoreros.com/staff-directory?print=true
+- California State University, Dominguez Hills.pdf: https://gotoros.com/staff-directory?print=true
+- California State University, Humboldt (Cal Poly Humboldt).pdf: https://humboldtathletics.com/staff-directory/print
+- Biola University.pdf: https://athletics.biola.edu/staff-directory/print
+- Westmont College.pdf: https://athletics.westmont.edu/staff-directory?print=true
+- San Francisco State University.pdf: https://sfstategators.com/staff-directory?print=true
+- University of Redlands.pdf: https://goredlands.com/staff-directory?print=true
+- Cal Maritime (CSU Maritime Academy).pdf: https://www.csum.edu/athletics?print=true
+- UC Riverside.pdf: https://gohighlanders.com/staff-directory?print=true
+- San Diego State University (SDSU).pdf: https://goaztecs.com/staff-directory?print=true
+- University of San Francisco (USF).pdf: https://usfdons.com/staff-directory?print=true
+- Sonoma State University.pdf: https://sonomaseawolves.com/staff-directory?print=true
+- California State University, East Bay.pdf: https://eastbaypioneers.com/staff-directory?print=true
+- Caltech (California Institute of Technology).pdf: https://gocaltech.com/staff-directory?print=true
+- Simpson University.pdf: https://simpsonredhawks.com/staff-directory?print=true
+- UC San Diego.pdf: https://ucsdtritons.com/staff-directory?print=true
+- San José State University (SJSU).pdf: https://sjsuspartans.com/staff-directory?print=true
+- Dominican University of California.pdf: https://dominicanathletics.com/staff-directory?print=true
+- UC Santa Cruz.pdf: https://goslugs.com/staff-directory?print=true
+- UC Santa Barbara.pdf: https://ucsbgauchos.com/staff-directory?print=true
+- University of the Pacific.pdf: https://pacifictigers.com/staff-directory/print
+- California State University, Monterey Bay.pdf: https://otterathletics.com/staff-directory/print
+- California Baptist University (CBU).pdf: https://cbulancers.com/staff-directory?print=true
+- California State University, San Bernardino.pdf: https://csusbathletics.com/staff-directory?print=true
+- Fresno Pacific University.pdf: https://fpuathletics.com/staff-directory?print=true
+- The Master’s University.pdf: https://gomustangs.com/staff-directory?print=true
+- Chapman University.pdf: https://chapmanathletics.com/staff-directory?print=true
+- UCLA (University of California, Los Angeles).pdf: https://uclabruins.com/staff-directory?print=true
+- Pepperdine University.pdf: https://pepperdinewaves.com/staff-directory?print=true
+- California State University, San Marcos.pdf: https://csusmcougars.com/staff-directory?print=true
+- Fresno State (California State University, Fresno).pdf: https://gobulldogs.com/staff-directory/print
+- Long Beach State (CSULB).pdf: https://longbeachstate.com/staff-directory/print
+- Occidental College.pdf: https://oxyathletics.com/staff-directory?print=true
+- Vanguard University.pdf: https://vanguardlions.com/staff-directory?print=true
+- Soka University of America.pdf: https://sokaathletics.com/staff-directory?print=true
+- California State University, Stanislaus (Stanislaus State).pdf: https://warriorathletics.com/staff-directory/print
+- Point Loma Nazarene University (PLNU).pdf: https://plnusealions.com/staff-directory/print
+- Loyola Marymount University (LMU).pdf: https://lmulions.com/staff-directory?print=true
+- USC (University of Southern California).pdf: https://usctrojans.com/staff-directory/print
+- Cal State Fullerton (CSUF).pdf: https://fullertontitans.com/staff-directory/print
+- Pomona-Pitzer Colleges.pdf: https://sagehens.com/staff-directory?print=true
+- Hope International University (HIU).pdf: https://athletics.hiu.edu/staff-directory?print=true
+- UC Merced.pdf: https://ucmercedbobcats.com/staff-directory?print=true
+- Cal Poly (San Luis Obispo).pdf: https://gopoly.com/staff-directory/print
+- California State Polytechnic University, Pomona (Cal Poly Pomona).pdf: https://broncoathletics.com/staff-directory/print
+
+Skipped:
+- https://laverneleopards.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://laverneleopards.com/staff-directory/index
+Call log:
+  - navigating to "https://laverneleopards.com/staff-directory/index", waiting until "networkidle"
+ (tried: https://laverneleopards.com/staff-directory?print=true, https://laverneleopards.com/staff-directory/print, https://laverneleopards.com/staff-directory, https://laverneleopards.com/staff-directory/index?print=true, https://laverneleopards.com/staff-directory/index/print, https://laverneleopards.com/staff-directory/index)
+- https://athletics.westcliff.edu/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://athletics.westcliff.edu/staff-directory/index
+Call log:
+  - navigating to "https://athletics.westcliff.edu/staff-directory/index", waiting until "networkidle"
+ (tried: https://athletics.westcliff.edu/staff-directory?print=true, https://athletics.westcliff.edu/staff-directory/print, https://athletics.westcliff.edu/staff-directory, https://athletics.westcliff.edu/staff-directory/index?print=true, https://athletics.westcliff.edu/staff-directory/index/print, https://athletics.westcliff.edu/staff-directory/index)
+- https://gopoets.com/staff-directory -> HTTP 404 returned (tried: https://gopoets.com/staff-directory?print=true, https://gopoets.com/staff-directory/print, https://gopoets.com/staff-directory, https://gopoets.com/staff-directory/index?print=true, https://gopoets.com/staff-directory/index/print, https://gopoets.com/staff-directory/index)
+- https://cluathletics.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://cluathletics.com/staff-directory/index
+Call log:
+  - navigating to "https://cluathletics.com/staff-directory/index", waiting until "networkidle"
+ (tried: https://cluathletics.com/staff-directory?print=true, https://cluathletics.com/staff-directory/print, https://cluathletics.com/staff-directory, https://cluathletics.com/staff-directory/index?print=true, https://cluathletics.com/staff-directory/index/print, https://cluathletics.com/staff-directory/index)
+- https://sdcchawks.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://sdcchawks.com/staff-directory/index
+Call log:
+  - navigating to "https://sdcchawks.com/staff-directory/index", waiting until "networkidle"
+ (tried: https://sdcchawks.com/staff-directory?print=true, https://sdcchawks.com/staff-directory/print, https://sdcchawks.com/staff-directory, https://sdcchawks.com/staff-directory/index?print=true, https://sdcchawks.com/staff-directory/index/print, https://sdcchawks.com/staff-directory/index)Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray stroke color because /'P77' is an invalid float value
+Cannot set gray non-stroke color because /'P77' is an invalid float value
+Cannot set gray stroke color because /'P78' is an invalid float value
+Cannot set gray non-stroke color because /'P78' is an invalid float value
+Cannot set gray stroke color because /'P59' is an invalid float value
+Cannot set gray non-stroke color because /'P59' is an invalid float value
+Cannot set gray stroke color because /'P80' is an invalid float value
+Cannot set gray non-stroke color because /'P80' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray stroke color because /'P18' is an invalid float value
+Cannot set gray non-stroke color because /'P18' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray stroke color because /'P69' is an invalid float value
+Cannot set gray non-stroke color because /'P69' is an invalid float value
+Cannot set gray stroke color because /'P78' is an invalid float value
+Cannot set gray non-stroke color because /'P78' is an invalid float value
+Cannot set gray stroke color because /'P83' is an invalid float value
+Cannot set gray non-stroke color because /'P83' is an invalid float value
+Cannot set gray stroke color because /'P88' is an invalid float value
+Cannot set gray non-stroke color because /'P88' is an invalid float value
+Cannot set gray stroke color because /'P104' is an invalid float value
+Cannot set gray non-stroke color because /'P104' is an invalid float value
+Cannot set gray stroke color because /'P109' is an invalid float value
+Cannot set gray non-stroke color because /'P109' is an invalid float value
+Cannot set gray stroke color because /'P114' is an invalid float value
+Cannot set gray non-stroke color because /'P114' is an invalid float value
+Cannot set gray stroke color because /'P119' is an invalid float value
+Cannot set gray non-stroke color because /'P119' is an invalid float value
+Cannot set gray stroke color because /'P124' is an invalid float value
+Cannot set gray non-stroke color because /'P124' is an invalid float value
+Cannot set gray stroke color because /'P136' is an invalid float value
+Cannot set gray non-stroke color because /'P136' is an invalid float value
+Cannot set gray stroke color because /'P149' is an invalid float value
+Cannot set gray non-stroke color because /'P149' is an invalid float value
+Cannot set gray stroke color because /'P161' is an invalid float value
+Cannot set gray non-stroke color because /'P161' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+
+- https://lsuagoldeneagles.com/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://lsuagoldeneagles.com/staff-directory/index
+Call log:
+  - navigating to "https://lsuagoldeneagles.com/staff-directory/index", waiting until "networkidle"
+ (tried: https://lsuagoldeneagles.com/staff-directory?print=true, https://lsuagoldeneagles.com/staff-directory/print, https://lsuagoldeneagles.com/staff-directory, https://lsuagoldeneagles.com/staff-directory/index?print=true, https://lsuagoldeneagles.com/staff-directory/index/print, https://lsuagoldeneagles.com/staff-directory/index)
+- https://gccathletics.com/staff-directory -> Navigation failed: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://gccathletics.com/staff-directory/index", waiting until "networkidle"
+ (tried: https://gccathletics.com/staff-directory?print=true, https://gccathletics.com/staff-directory/print, https://gccathletics.com/staff-directory, https://gccathletics.com/staff-directory/index?print=true, https://gccathletics.com/staff-directory/index/print, https://gccathletics.com/staff-directory/index)
+
+Parsing printed PDFs and preparing upload entries...
+✔ Total coach entries prepared: 1573
+✔ Created unclaimed coach profile: Eric Valenzuela (emv5@stmarys-ca.edu) → coaches/emv5 | Phone: (925) 631-4637
+✔ Created unclaimed coach profile: Daniel Costanza (djc7@stmarys-ca.edu) → coaches/djc7 | Phone: (925) 631-4658
+✔ Created unclaimed coach profile: Jack Meggs (jwm11@stmarys-ca.edu) → coaches/jwm11
+✔ Created unclaimed coach profile: Daniel Molinari (dm81@stmarys-ca.edu) → coaches/dm81
+✔ Created unclaimed coach profile: Joe Rahon (jsr6@stmarys-ca.edu) → coaches/jsr6
+✔ Created unclaimed coach profile: EJ Rowland (ejr23@stmarys-ca.edu) → coaches/ejr23
+✔ Created unclaimed coach profile: Dan Sheets (dks7@stmarys-ca.edu) → coaches/dks7
+✔ Created unclaimed coach profile: Trey Touchet (tat1@stmarys-ca.edu) → coaches/tat1
+✔ Created unclaimed coach profile: Jeff Cammon (jjc28@stmarys-ca.edu) → coaches/jjc28
+✔ Created unclaimed coach profile: Kevin Adams (kwa2@stmarys-ca.edu) → coaches/kwa2
+✔ Created unclaimed coach profile: Lexi Petersen (amp38@stmarys-ca.edu) → coaches/amp38
+✔ Created unclaimed coach profile: Brendan Wheeler (bw16@stmarys-ca.edu) → coaches/bw16
+✔ Created unclaimed coach profile: Brittany Boyd-Jones (bb36@stmarys-ca.edu) → coaches/bb36
+✔ Created unclaimed coach profile: Marty Kinsey (mmk1@stmarys-ca.edu) → coaches/mmk1 | Phone: (925) 878-9423
+✔ Created unclaimed coach profile: Harlan Lopez (hl11@stmarys-ca.edu) → coaches/hl11
+✔ Created unclaimed coach profile: Marc Kaiser (mhk1@stmarys-ca.edu) → coaches/mhk1
+✔ Created unclaimed coach profile: Matt Giusto (mjg26@stmarys-ca.edu) → coaches/mjg26
+✔ Created unclaimed coach profile: Scott Hardy (shardy@stmarys-ca.edu) → coaches/shardy | Phone: (925) 631-4954
+✔ Created unclaimed coach profile: Brian Ebke (be6@stmarys-ca.edu) → coaches/be6
+✔ Created unclaimed coach profile: Ilyana Achziger (iva1@stmarys-ca.edu) → coaches/iva1
+✔ Created unclaimed coach profile: Hannah Rosa (hkr3@stmarys-ca.edu) → coaches/hkr3
+✔ Created unclaimed coach profile: Adam Cooper (acooper@stmarys-ca.edu) → coaches/acooper | Phone: (925) 631-4657
+✔ Created unclaimed coach profile: Shawn Nicklaw (srn6@stmarys-ca.edu) → coaches/srn6
+✔ Created unclaimed coach profile: Remi Prieur (rdp2@stmarys-ca.edu) → coaches/rdp2
+✔ Created unclaimed coach profile: Theresa Romagnolo (romagnolo@stmarys-ca.edu) → coaches/romagnolo
+🔄 Updating unclaimed profile for wsoccer@stmarys-ca.edu
+✔ Updated unclaimed coach profile: Emily Kruger (wsoccer@stmarys-ca.edu) → coaches/wsoccer
+✔ Created unclaimed coach profile: Sophie Elam (sae7@stmarys-ca.edu) → coaches/sae7
+✔ Created unclaimed coach profile: Sonja Garnett (smg25@stmarys-ca.edu) → coaches/smg25 | Phone: (925) 631-8184
+✔ Created unclaimed coach profile: Angelica Terrel (at60@stmarys-ca.edu) → coaches/at60
+✔ Created unclaimed coach profile: Frankie Hammoude (fah4@stmarys-ca.edu) → coaches/fah4
+✔ Created unclaimed coach profile: Juju Sargent (js122@stmarys-ca.edu) → coaches/js122
+✔ Created unclaimed coach profile: Dan Cardiff (dhc1@stmarys-ca.edu) → coaches/dhc1
+✔ Created unclaimed coach profile: Marcus Ferreira (mwf5@stmarys-ca.edu) → coaches/mwf5
+✔ Created unclaimed coach profile: Katharina Winterhalter (kfw1@stmarys-ca.edu) → coaches/kfw1
+✔ Created unclaimed coach profile: Claudia de (cd48@stmarys-ca.edu) → coaches/cd48
+✔ Created unclaimed coach profile: Lisa Alipaz (lalipaz@stmarys-ca.edu) → coaches/lalipaz
+✔ Created unclaimed coach profile: Tyler Hildebrand (th29@stmarys-ca.edu) → coaches/th29
+✔ Created unclaimed coach profile: Brian Cook (brc8@stmarys-ca.edu) → coaches/brc8
+✔ Created unclaimed coach profile: Colin Hassoun (czh4@stmarys-ca.edu) → coaches/czh4
+✔ Created unclaimed coach profile: Paige McLeod (pkm4@stmarys-ca.edu) → coaches/pkm4
+✔ Created unclaimed coach profile: Janice Harrer (jmh33@stmarys-ca.edu) → coaches/jmh33
+✔ Created unclaimed coach profile: Taylor Crabb (tkc5@stmarys-ca.edu) → coaches/tkc5
+✔ Created unclaimed coach profile: Scott Standring (ses15@stmarys-ca.edu) → coaches/ses15
+✔ Created unclaimed coach profile: Associate Head (hb59@berkeley.edu) → coaches/hb59
+✔ Created unclaimed coach profile: Head Athletic (sebastian.hernandez@berkeley.edu) → coaches/sebastian.hernandez
+✔ Created unclaimed coach profile: Head Cheer (crsmtoler@berkeley.edu) → coaches/crsmtoler
+✔ Created unclaimed coach profile: Head Coach (mneu@berkeley.edu) → coaches/mneu
+✔ Created unclaimed coach profile: Assistant Coach (cbodishbaugh@berkeley.edu) → coaches/cbodishbaugh
+✔ Created unclaimed coach profile: Associate Head (adammazarei@berkeley.edu) → coaches/adammazarei
+✔ Created unclaimed coach profile: Assistant Coach (jjackson1@berkeley.edu) → coaches/jjackson1
+✔ Created unclaimed coach profile: Assistant Coach (ken.moses@berkeley.edu) → coaches/ken.moses
+✔ Created unclaimed coach profile: Assistant Coach (mscherb2@berkeley.edu) → coaches/mscherb2
+✔ Created unclaimed coach profile: Assistant Coach (isaiahwilkins@berkeley.edu) → coaches/isaiahwilkins
+✔ Created unclaimed coach profile: Head Coach (charminsmith@berkeley.edu) → coaches/charminsmith
+✔ Created unclaimed coach profile: Associate Head (heintz@berkeley.edu) → coaches/heintz
+✔ Created unclaimed coach profile: Assistant Coach (trabryant@berkeley.edu) → coaches/trabryant
+✔ Created unclaimed coach profile: Assistant Coach (jjhuth@berkeley.edu) → coaches/jjhuth
+✔ Created unclaimed coach profile: Assistant Coach (pierreeliza@berkeley.edu) → coaches/pierreeliza
+✔ Created unclaimed coach profile: Head Coach (mschmitt@berkeley.edu) → coaches/mschmitt
+✔ Created unclaimed coach profile: Associate Head (jmayer@berkeley.edu) → coaches/jmayer
+✔ Created unclaimed coach profile: Head Coach (bobby.lockhart@berkeley.edu) → coaches/bobby.lockhart
+✔ Created unclaimed coach profile: Assistant Coach (nmatysik@berkeley.edu) → coaches/nmatysik
+✔ Created unclaimed coach profile: Assistant Coach (carrickdenker@berkeley.edu) → coaches/carrickdenker
+✔ Created unclaimed coach profile: Assistant Coach (k.carter@berkeley.edu) → coaches/k.carter
+✔ Created unclaimed coach profile: Assistant Coach (kminton@berkeley.edu) → coaches/kminton
+🔄 Updating unclaimed profile for football@berkeley.edu
+✔ Updated unclaimed coach profile: Travers Family (football@berkeley.edu) → coaches/football
+✔ Created unclaimed coach profile: Co-Defensive Coordinator/Outside (vicsooto@berkeley.edu) → coaches/vicsooto
+✔ Created unclaimed coach profile: Defensive Line/Run (abrowning@berkeley.edu) → coaches/abrowning
+✔ Created unclaimed coach profile: Director, Career (coachcoach@berkeley.edu) → coaches/coachcoach
+✔ Created unclaimed coach profile: Executive Assistant (dschram@berkeley.edu) → coaches/dschram
+✔ Created unclaimed coach profile: Inside Linebackers (mbruno@berkeley.edu) → coaches/mbruno
+✔ Created unclaimed coach profile: Alex and (michaelwilson@berkeley.edu) → coaches/michaelwilson
+✔ Created unclaimed coach profile: Assistant Coach (pireland@berkeley.edu) → coaches/pireland
+✔ Created unclaimed coach profile: Head Coach (saagaard@berkeley.edu) → coaches/saagaard
+✔ Created unclaimed coach profile: Associate Head (bvatana@berkeley.edu) → coaches/bvatana
+✔ Created unclaimed coach profile: Head Coach (bryandelcastillo@berkeley.edu) → coaches/bryandelcastillo
+✔ Created unclaimed coach profile: Head Coach (gstackea@berkeley.edu) → coaches/gstackea
+✔ Created unclaimed coach profile: Associate Head (rstenger@berkeley.edu) → coaches/rstenger
+✔ Created unclaimed coach profile: Assistant Coach (shelland@berkeley.edu) → coaches/shelland
+✔ Created unclaimed coach profile: Assistant Coach (bemcclure@berkeley.edu) → coaches/bemcclure
+✔ Created unclaimed coach profile: Head Coach (jenniferwong1@berkeley.edu) → coaches/jenniferwong1
+✔ Created unclaimed coach profile: Assistant Coach (odm224@berkeley.edu) → coaches/odm224
+✔ Created unclaimed coach profile: Assistant Coach (slarson1@berkeley.edu) → coaches/slarson1
+✔ Created unclaimed coach profile: Associate Head (sambaum@berkeley.edu) → coaches/sambaum
+✔ Created unclaimed coach profile: Assistant Coach (brandonshald@berkeley.edu) → coaches/brandonshald
+✔ Created unclaimed coach profile: Assistant Coach (michaelchandler@berkeley.edu) → coaches/michaelchandler
+✔ Created unclaimed coach profile: Head Coach (alacosta@berkeley.edu) → coaches/alacosta
+✔ Created unclaimed coach profile: Assistant Coach (kgirard@berkeley.edu) → coaches/kgirard
+✔ Created unclaimed coach profile: Assistant Coach (kendallbrewer@berkeley.edu) → coaches/kendallbrewer
+✔ Created unclaimed coach profile: Assistant Coach (p.mansfeld@berkeley.edu) → coaches/p.mansfeld
+✔ Created unclaimed coach profile: Head Coach (clarkj@berkeley.edu) → coaches/clarkj
+✔ Created unclaimed coach profile: Associate Head (tbillups@berkeley.edu) → coaches/tbillups
+✔ Created unclaimed coach profile: Head Coach (calsoccer@berkeley.edu) → coaches/calsoccer
+✔ Created unclaimed coach profile: Assistant Coach (ricardo.gutierrez@berkeley.edu) → coaches/ricardo.gutierrez
+✔ Created unclaimed coach profile: Assistant Coach (jake.wilson@berkeley.edu) → coaches/jake.wilson
+🔄 Updating unclaimed profile for nmcguire@berkeley.edu
+✔ Updated unclaimed coach profile: Head Coach (nmcguire@berkeley.edu) → coaches/nmcguire
+✔ Created unclaimed coach profile: Associate Head (corialexander@berkeley.edu) → coaches/corialexander
+✔ Created unclaimed coach profile: Assistant Coach (alec.sundly@berkeley.edu) → coaches/alec.sundly
+✔ Created unclaimed coach profile: Head Coach (singleton@berkeley.edu) → coaches/singleton
+✔ Created unclaimed coach profile: Assistant Coach (daniellegwhorton@berkeley.edu) → coaches/daniellegwhorton
+✔ Created unclaimed coach profile: Assistant Coach (ccorona@berkeley.edu) → coaches/ccorona
+✔ Created unclaimed coach profile: Assistant Coach (crex@berkeley.edu) → coaches/crex
+✔ Created unclaimed coach profile: Associate Head (marshswim@berkeley.edu) → coaches/marshswim
+✔ Created unclaimed coach profile: Associate Head (jhuger@berkeley.edu) → coaches/jhuger
+✔ Created unclaimed coach profile: Diving Coach (linp19@berkeley.edu) → coaches/linp19
+✔ Created unclaimed coach profile: Associate Head (andreacaligiana@berkeley.edu) → coaches/andreacaligiana
+✔ Created unclaimed coach profile: Assistant Coach (theo_dean@berkeley.edu) → coaches/theo_dean
+✔ Created unclaimed coach profile: Interim Head (kkwinta@berkeley.edu) → coaches/kkwinta
+✔ Created unclaimed coach profile: Assistant Coach (stephkwallace@berkeley.edu) → coaches/stephkwallace
+✔ Created unclaimed coach profile: Assistant Coach (lozano.jean@berkeley.edu) → coaches/lozano.jean
+✔ Created unclaimed coach profile: Assistant Coach (burdorff@berkeley.edu) → coaches/burdorff
+✔ Created unclaimed coach profile: Assistant Coach (dlefever@berkeley.edu) → coaches/dlefever
+✔ Created unclaimed coach profile: Assistant Coach (rharrison24@berkeley.edu) → coaches/rharrison24
+✔ Created unclaimed coach profile: Head Coach (jmalcom@berkeley.edu) → coaches/jmalcom
+✔ Created unclaimed coach profile: Assistant Coach (Sato27@berkeley.edu) → coaches/Sato27
+✔ Created unclaimed coach profile: Assistant Coach (Cole.Murray@berkeley.edu) → coaches/Cole.Murray
+✔ Created unclaimed coach profile: Assistant Coach/Recruiting (Aandreno@berkeley.edu) → coaches/Aandreno
+✔ Created unclaimed coach profile: Assistant Coach (jbelamaric@berkeley.edu) → coaches/jbelamaric
+✔ Created unclaimed coach profile: Head Coach (coralie.simmons@berkeley.edu) → coaches/coralie.simmons
+✔ Created unclaimed coach profile: Assistant Coach (heather.petri@berkeley.edu) → coaches/heather.petri
+✔ Created unclaimed coach profile: Assistant Coach (lmorriso@berkeley.edu) → coaches/lmorriso
+✔ Created unclaimed coach profile: Tarik Hakmi (thakmi@stanford.edu) → coaches/thakmi
+✔ Created unclaimed coach profile: Ethan Stokes (ejstokes@stanford.edu) → coaches/ejstokes
+✔ Created unclaimed coach profile: Sarah Levine (sblevine@stanford.edu) → coaches/sblevine
+✔ Created unclaimed coach profile: Assistant Coach (smrodriguez@stanford.edu) → coaches/smrodriguez
+✔ Created unclaimed coach profile: Assistant Coach (amercurio@stanford.edu) → coaches/amercurio
+✔ Created unclaimed coach profile: Assistant Coach (Wayne.hunter@stanford.edu) → coaches/Wayne.hunter
+✔ Created unclaimed coach profile: Assistant Coach (harden1@stanford.edu) → coaches/harden1
+✔ Created unclaimed coach profile: Assistant Coach (bmac10@stanford.edu) → coaches/bmac10
+✔ Created unclaimed coach profile: Erica McCall (emccall@stanford.edu) → coaches/emccall | Phone: 650.723.0284
+✔ Created unclaimed coach profile: Assistant Coach (jfpohlen@stanford.edu) → coaches/jfpohlen | Phone: 650.723.0284
+✔ Created unclaimed coach profile: Andrew Fuller (abfuller@stanford.edu) → coaches/abfuller | Phone: 650.930.0207
+✔ Created unclaimed coach profile: Jo Kremer (jokremer@stanford.edu) → coaches/jokremer
+✔ Created unclaimed coach profile: Billy Allen (billyall@stanford.edu) → coaches/billyall
+✔ Created unclaimed coach profile: Assistant Coach (stefanol@stanford.edu) → coaches/stefanol
+✔ Created unclaimed coach profile: Thom Glielmi (glielmi@stanford.edu) → coaches/glielmi | Phone: 650.723.9591
+✔ Created unclaimed coach profile: Assistant Coach (rubenlm@stanford.edu) → coaches/rubenlm
+✔ Created unclaimed coach profile: Caleb Rickard (cdr2@stanford.edu) → coaches/cdr2 | Phone: 650.519.8908
+✔ Created unclaimed coach profile: Brian Kelly (bdk26@stanford.edu) → coaches/bdk26
+✔ Created unclaimed coach profile: John Pojednic (pojednic@stanford.edu) → coaches/pojednic
+✔ Created unclaimed coach profile: Assistant Coach (antkug@stanford.edu) → coaches/antkug | Phone: 650.779.7028
+✔ Created unclaimed coach profile: Assistant Coach (esprig@stanford.edu) → coaches/esprig
+✔ Created unclaimed coach profile: Chris Klevan (ctklevan@stanford.edu) → coaches/ctklevan | Phone: 757.434.5232
+✔ Created unclaimed coach profile: Assistant Coach (wsh33@stanford.edu) → coaches/wsh33 | Phone: 305.495.0130
+✔ Created unclaimed coach profile: Assistant Coach (lachmcg@stanford.edu) → coaches/lachmcg | Phone: 412.660.4468
+✔ Created unclaimed coach profile: Assistant Coach (smsoccer@stanford.edu) → coaches/smsoccer | Phone: 650.643.7961
+✔ Created unclaimed coach profile: Assistant Coach (daisysan@stanford.edu) → coaches/daisysan
+✔ Created unclaimed coach profile: Assistant Coach (bvisalli@stanford.edu) → coaches/bvisalli
+✔ Created unclaimed coach profile: Assistant Coach (dotoole@stanford.edu) → coaches/dotoole
+✔ Created unclaimed coach profile: Mark Talbott (mtalbott@stanford.edu) → coaches/mtalbott | Phone: 650.725.8699
+✔ Created unclaimed coach profile: Nick Talbott (ntalbott@stanford.edu) → coaches/ntalbott | Phone: 650.815.1677
+✔ Created unclaimed coach profile: Head Coach (mazebu@stanford.edu) → coaches/mazebu | Phone: 650.725.0128
+✔ Created unclaimed coach profile: Assistant Coach (elvirak@stanford.edu) → coaches/elvirak | Phone: 650.724.2395
+✔ Created unclaimed coach profile: Head Diving (pjeffrey@stanford.edu) → coaches/pjeffrey | Phone: 650.723.9159
+✔ Created unclaimed coach profile: Assistant Coach (marcusg2@stanford.edu) → coaches/marcusg2
+✔ Created unclaimed coach profile: Mike Johnson (mjohns2@stanford.edu) → coaches/mjohns2 | Phone: 650.250.2240
+✔ Created unclaimed coach profile: Assistant Coach (lambillo@stanford.edu) → coaches/lambillo
+✔ Created unclaimed coach profile: Assistant Coach (rneapole@stanford.edu) → coaches/rneapole
+✔ Created unclaimed coach profile: Sean Gray (sgray141@stanford.edu) → coaches/sgray141
+✔ Created unclaimed coach profile: Assistant Coach (hhidlay@stanford.edu) → coaches/hhidlay
+✔ Created unclaimed coach profile: Danny Baladi (danny.baladi@cui.edu) → coaches/danny.baladi
+✔ Created unclaimed coach profile: Joe Turgeon (joe.turgeon@cui.edu) → coaches/joe.turgeon
+✔ Created unclaimed coach profile: Matt Fahey (matthew.fahey@cui.edu) → coaches/matthew.fahey
+✔ Created unclaimed coach profile: Ken Ammann (ken.ammann@cui.edu) → coaches/ken.ammann
+✔ Created unclaimed coach profile: Christine Collins-Kiernan (christine.collins@cui.edu) → coaches/christine.collins
+✔ Created unclaimed coach profile: Jenny Griffith (jennifer.griffith@cui.edu) → coaches/jennifer.griffith
+✔ Created unclaimed coach profile: Elaini Kollias (elaini.kollias@cui.edu) → coaches/elaini.kollias
+✔ Created unclaimed coach profile: Keegan Bloomfield (keegan.bloomfield@cui.edu) → coaches/keegan.bloomfield
+✔ Created unclaimed coach profile: Jesse Foss (jesse.foss@cui.edu) → coaches/jesse.foss
+✔ Created unclaimed coach profile: Dylan Miles (dylan.miles@cui.edu) → coaches/dylan.miles
+✔ Created unclaimed coach profile: Chris Gould (chris.gould@cui.edu) → coaches/chris.gould
+✔ Created unclaimed coach profile: Miguel Mendoza (Miguel.Mendoza1@cui.edu) → coaches/Miguel.Mendoza1
+✔ Created unclaimed coach profile: Rose Imbriano (rose.imbriano@cui.edu) → coaches/rose.imbriano
+✔ Created unclaimed coach profile: Karli Shutt (karli.shutt@eagles.cui.edu) → coaches/karli.shutt
+✔ Created unclaimed coach profile: Janae Magpale (janae.magpale@cui.edu) → coaches/janae.magpale
+✔ Created unclaimed coach profile: John Brunk (john.brunk@cui.edu) → coaches/john.brunk
+✔ Created unclaimed coach profile: Matthew-Jonathan Seawright (matthew-jonathan.seawright@cui.edu) → coaches/matthew-jonathan.seawright
+✔ Created unclaimed coach profile: Jon Girten (jonathan.girten@cui.edu) → coaches/jonathan.girten
+✔ Created unclaimed coach profile: Eric Vallely (eric.vallely@eagles.cui.edu) → coaches/eric.vallely
+✔ Created unclaimed coach profile: Eryn Leja-Martin (eryn.leja@cui.edu) → coaches/eryn.leja
+✔ Created unclaimed coach profile: Alex Leja (alex.leja@cui.edu) → coaches/alex.leja
+✔ Created unclaimed coach profile: Payton Spoja (payton.spoja@cui.edu) → coaches/payton.spoja
+✔ Created unclaimed coach profile: Casey Greenawalt (casey.greenawalt@cui.edu) → coaches/casey.greenawalt
+✔ Created unclaimed coach profile: Justin Johnson (Justin.johnson2@cui.edu) → coaches/Justin.johnson2
+✔ Created unclaimed coach profile: Nate Nasca (nnasca@apu.edu) → coaches/nnasca | Phone: (626) 815-5355
+✔ Created unclaimed coach profile: Reigh Lea (rmoore@apu.edu) → coaches/rmoore | Phone: (626) 815-4630
+✔ Created unclaimed coach profile: Abbigale Abramson (aabramson@apu.edu) → coaches/aabramson
+✔ Created unclaimed coach profile: Kirk Nieuwenhuis (knieuwenhuis@apu.edu) → coaches/knieuwenhuis | Phone: (626) 815-2181
+✔ Created unclaimed coach profile: Jerry Peña (gpena@apu.edu) → coaches/gpena | Phone: (626) 815-4596
+🔄 Updating unclaimed profile for rporter@apu.edu
+✔ Updated unclaimed coach profile: B.J. Porter (rporter@apu.edu) → coaches/rporter
+✔ Created unclaimed coach profile: Dan Ploog (dploog@apu.edu) → coaches/dploog
+✔ Created unclaimed coach profile: Paige Uyehara (puyehara@apu.edu) → coaches/puyehara
+🔄 Updating unclaimed profile for jharris@apu.edu
+✔ Updated unclaimed coach profile: Jebreh Harris (jharris@apu.edu) → coaches/jharris
+✔ Created unclaimed coach profile: A.J. Parnell (aparnell@apu.edu) → coaches/aparnell | Phone: (626) 815-4645
+✔ Created unclaimed coach profile: Dave Blomquist (dblomquist@apu.edu) → coaches/dblomquist | Phone: (626) 815-4529
+✔ Created unclaimed coach profile: Sergio Orozco (sdorozco@apu.edu) → coaches/sdorozco
+✔ Created unclaimed coach profile: Brooke Lincoln (blincoln@apu.edu) → coaches/blincoln | Phone: (626) 815-5370
+✔ Created unclaimed coach profile: Adam James (ajames@apu.edu) → coaches/ajames
+✔ Created unclaimed coach profile: Carrie Webber (cwebber@apu.edu) → coaches/cwebber | Phone: (626) 815-5443
+✔ Created unclaimed coach profile: Sarah Parten (sparten@apu.edu) → coaches/sparten
+✔ Created unclaimed coach profile: Tim Kyle (tkyle@apu.edu) → coaches/tkyle | Phone: (626) 815-5024
+✔ Created unclaimed coach profile: Jodi Lepp (jlepp@apu.edu) → coaches/jlepp
+✔ Created unclaimed coach profile: Eric Barnard (ebarnard@apu.edu) → coaches/ebarnard
+✔ Created unclaimed coach profile: Chris Keife (apuvolleyball@apu.edu) → coaches/apuvolleyball | Phone: (626) 815-5332
+✔ Created unclaimed coach profile: Priscilla Gomez (pmgomez@apu.edu) → coaches/pmgomez
+✔ Created unclaimed coach profile: Alba Espinar (aespinargomez@apu.edu) → coaches/aespinargomez
+✔ Created unclaimed coach profile: Lucille Flores (lflores@apu.edu) → coaches/lflores
+✔ Created unclaimed coach profile: Andrew Ram (andrew.ram@cms.claremont.edu) → coaches/andrew.ram
+✔ Created unclaimed coach profile: Chanel Murchison (chanel.murchison@cms.claremont.edu) → coaches/chanel.murchison
+✔ Created unclaimed coach profile: Paul Settles (paul.settles@cms.claremont.edu) → coaches/paul.settles
+✔ Created unclaimed coach profile: Bill Walkenbach (bill.walkenbach@cms.claremont.edu) → coaches/bill.walkenbach
+✔ Created unclaimed coach profile: Quinn Heiner (quinn.heiner@cms.claremont.edu) → coaches/quinn.heiner
+✔ Created unclaimed coach profile: David Higuera (david.higuera@cms.claremont.edu) → coaches/david.higuera
+✔ Created unclaimed coach profile: Keith Walker (keith.walker@cms.claremont.edu) → coaches/keith.walker
+✔ Created unclaimed coach profile: Ken Scalmanini (ken.scalmanini@cms.claremont.edu) → coaches/ken.scalmanini
+✔ Created unclaimed coach profile: Michael Wells (michael.wells@cms.claremont.edu) → coaches/michael.wells
+✔ Created unclaimed coach profile: Jim Hennacy (james.hennacy@cms.claremont.edu) → coaches/james.hennacy
+✔ Created unclaimed coach profile: Mollie Williams (mollie.williams@cms.claremont.edu) → coaches/mollie.williams
+✔ Created unclaimed coach profile: Andre McLean (andre.mclean@cms.claremont.edu) → coaches/andre.mclean
+✔ Created unclaimed coach profile: Myron Jacobs (myron.jacobs@cms.claremont.edu) → coaches/myron.jacobs
+✔ Created unclaimed coach profile: Mike Anderson (Michael.Anderson@cms.claremont.edu) → coaches/Michael.Anderson
+✔ Created unclaimed coach profile: Jordan Oster (jordan.oster@cms.claremont.edu) → coaches/jordan.oster
+✔ Created unclaimed coach profile: Sidney Smith (sidney.smith@cms.claremont.edu) → coaches/sidney.smith
+✔ Created unclaimed coach profile: Marina Muncan (marina.muncan@cms.claremont.edu) → coaches/marina.muncan
+✔ Created unclaimed coach profile: Bailey Rockholt (bailey.rockholt@cms.claremont.edu) → coaches/bailey.rockholt
+✔ Created unclaimed coach profile: Nicolas Acosta (Nicolas.Acosta@cms.claremont.edu) → coaches/Nicolas.Acosta
+✔ Created unclaimed coach profile: Alexandra Lambros (alexandra.lambros@cms.claremont.edu) → coaches/alexandra.lambros
+✔ Created unclaimed coach profile: Kyle Sweeney (kyle.sweeney@cms.claremont.edu) → coaches/kyle.sweeney
+✔ Created unclaimed coach profile: Mitchell Fedorka (Mitchell.Fedorka@cms.claremont.edu) → coaches/Mitchell.Fedorka
+✔ Created unclaimed coach profile: Alec Spencer (Alec.Spencer@cms.claremont.edu) → coaches/Alec.Spencer
+✔ Created unclaimed coach profile: Peter Bonilla (Peter.Bonilla@cms.claremont.edu) → coaches/Peter.Bonilla
+✔ Created unclaimed coach profile: Keilee Bessho (keilee.bessho@cms.claremont.edu) → coaches/keilee.bessho
+✔ Created unclaimed coach profile: Lauren Uhr (lauren.uhr@cms.claremont.edu) → coaches/lauren.uhr
+✔ Created unclaimed coach profile: Ashley Herrick (ashley.herrick@cms.claremont.edu) → coaches/ashley.herrick
+✔ Created unclaimed coach profile: Edward Cartee (edward.cartee@cms.claremont.edu) → coaches/edward.cartee
+✔ Created unclaimed coach profile: Parker Roberson (parker.roberson@cms.claremont.edu) → coaches/parker.roberson
+✔ Created unclaimed coach profile: Julian Ortega (julian.ortega@cms.claremont.edu) → coaches/julian.ortega
+✔ Created unclaimed coach profile: David Nolan (david.nolan@cms.claremont.edu) → coaches/david.nolan
+✔ Created unclaimed coach profile: Michael O'Connor (Connor@cms.claremont.edu) → coaches/Connor
+✔ Created unclaimed coach profile: Julia Gomez (Julia.Gomez@cms.claremont.edu) → coaches/Julia.Gomez
+✔ Created unclaimed coach profile: Caelyn Smith (caelyn.smith@cms.claremont.edu) → coaches/caelyn.smith
+✔ Created unclaimed coach profile: Skania Valencia (skania.valencia@cms.claremont.edu) → coaches/skania.valencia
+✔ Created unclaimed coach profile: Bella Rocco (isabel.rocco@cms.claremont.edu) → coaches/isabel.rocco
+✔ Created unclaimed coach profile: Ralph Navarro (ralph.navarro@cms.claremont.edu) → coaches/ralph.navarro
+✔ Created unclaimed coach profile: Bert Alderete (bert.alderete@cms.claremont.edu) → coaches/bert.alderete
+✔ Created unclaimed coach profile: Charlie Griffiths (charles.griffiths@cms.claremont.edu) → coaches/charles.griffiths
+✔ Created unclaimed coach profile: Ahmed Elsayed (ahmed.elsayed@cms.claremont.edu) → coaches/ahmed.elsayed
+✔ Created unclaimed coach profile: Sam Baron (Samantha.Baron@cms.claremont.edu) → coaches/Samantha.Baron
+✔ Created unclaimed coach profile: David Schwarz (david.schwarz@cms.claremont.edu) → coaches/david.schwarz
+✔ Created unclaimed coach profile: Emily Orlove (emily.orlove@cms.claremont.edu) → coaches/emily.orlove
+✔ Created unclaimed coach profile: Angela Kulikov (Angela.kulikov@cms.claremont.edu) → coaches/Angela.kulikov
+✔ Created unclaimed coach profile: Lindsay Brown (Lindsay.Brown@cms.claremont.edu) → coaches/Lindsay.Brown
+✔ Created unclaimed coach profile: Glenn Stewart (glenn.stewart@cms.claremont.edu) → coaches/glenn.stewart
+✔ Created unclaimed coach profile: Veronica Bell (Veronica.Amarasekara@cms.claremont.edu) → coaches/Veronica.Amarasekara
+✔ Created unclaimed coach profile: Jeff Venglass (Jeff.Venglass@cms.claremont.edu) → coaches/Jeff.Venglass
+✔ Created unclaimed coach profile: Emily Ramey-Root (emily.root@cms.claremont.edu) → coaches/emily.root
+✔ Created unclaimed coach profile: Kurt Vlasich (kurt.vlasich@cms.claremont.edu) → coaches/kurt.vlasich
+✔ Created unclaimed coach profile: Megan Kronschnabel (Megan.Kronschnabel@ClaremontMcKenna.edu) → coaches/Megan.Kronschnabel
+✔ Created unclaimed coach profile: Kylie Thomas (kylie.thomas@cms.claremont.edu) → coaches/kylie.thomas
+✔ Created unclaimed coach profile: Xenia Villagomez (Xenia.Villagomez@cms.claremont.edu) → coaches/Xenia.Villagomez
+✔ Created unclaimed coach profile: Greg Lonzo (greg.lonzo@cms.claremont.edu) → coaches/greg.lonzo
+✔ Created unclaimed coach profile: Dave Merryman (david.merryman@cms.claremont.edu) → coaches/david.merryman
+✔ Created unclaimed coach profile: Dominic Vicino (Dominic.Vicino@cms.claremont.edu) → coaches/Dominic.Vicino
+✔ Created unclaimed coach profile: William Thomas (william.thomas@cms.claremont.edu) → coaches/william.thomas
+✔ Created unclaimed coach profile: Vanessa Kitley (vckitley@ucdavis.edu) → coaches/vckitley
+✔ Created unclaimed coach profile: Chris Peterson (cfpeterson@ucdavis.edu) → coaches/cfpeterson
+✔ Created unclaimed coach profile: Brena Videll (bmvidell@ucdavis.edu) → coaches/bmvidell
+✔ Created unclaimed coach profile: Darren Caradine (ddcaradine@ucdavis.edu) → coaches/ddcaradine
+✔ Created unclaimed coach profile: Tommy Nicholson (tnicholson@ucdavis.edu) → coaches/tnicholson
+✔ Created unclaimed coach profile: Andrew Ayers (agayers@ucdavis.edu) → coaches/agayers
+✔ Created unclaimed coach profile: Zack Thornton (zjthornton@ucdavis.edu) → coaches/zjthornton
+✔ Created unclaimed coach profile: Sky Valenzuela (srkvalenzuela@ucdavis.edu) → coaches/srkvalenzuela
+✔ Created unclaimed coach profile: Jim Les (aggiebasketball@ucdavis.edu) → coaches/aggiebasketball
+✔ Created unclaimed coach profile: Kevin Nosek (knosek@ucdavis.edu) → coaches/knosek
+✔ Created unclaimed coach profile: Kyle Vogt (ktvogt@ucdavis.edu) → coaches/ktvogt
+✔ Created unclaimed coach profile: Jonathan Metzger-Jones (jgmjones@ucdavis.edu) → coaches/jgmjones
+✔ Created unclaimed coach profile: Mike Kosich (mkosich@ucdavis.edu) → coaches/mkosich
+✔ Created unclaimed coach profile: Fortune Solomon (fusolomon@ucdavis.edu) → coaches/fusolomon
+✔ Created unclaimed coach profile: Jennifer Gross (jrgross@ucdavis.edu) → coaches/jrgross
+✔ Created unclaimed coach profile: Joe Teramoto (jteramoto@ucdavis.edu) → coaches/jteramoto
+✔ Created unclaimed coach profile: Matt Klemin (mtklemin@ucdavis.edu) → coaches/mtklemin
+✔ Created unclaimed coach profile: Vicki Baugh (vabaugh@ucdavis.edu) → coaches/vabaugh
+🔄 Updating unclaimed profile for mgallo@ucdavis.edu
+✔ Updated unclaimed coach profile: Mia Gallo (mgallo@ucdavis.edu) → coaches/mgallo
+✔ Created unclaimed coach profile: Dejza James (dujames@ucdavis.edu) → coaches/dujames
+✔ Created unclaimed coach profile: Ari Homayun (ahomayun@ucdavis.edu) → coaches/ahomayun
+✔ Created unclaimed coach profile: Jill Humphrey (jchhumphrey@ucdavis.edu) → coaches/jchhumphrey
+✔ Created unclaimed coach profile: Kendal Scheiner (kscheiner@ucdavis.edu) → coaches/kscheiner
+✔ Created unclaimed coach profile: Emily Maul (emaul@ucavis.edu) → coaches/emaul
+✔ Created unclaimed coach profile: Austin Pile (aspile@ucdavis.edu) → coaches/aspile
+✔ Created unclaimed coach profile: Rachel Stauffer (rhstauffer@ucdavis.edu) → coaches/rhstauffer
+✔ Created unclaimed coach profile: Izzy Porco (ikporco@ucdavis.edu) → coaches/ikporco
+✔ Created unclaimed coach profile: Cy Williams (cywilliams@ucdavis.edu) → coaches/cywilliams
+✔ Created unclaimed coach profile: Bill Montigel (brmontigel@ucdavis.edu) → coaches/brmontigel
+✔ Created unclaimed coach profile: Amelia Hicks-Beltran (aehhicks@ucdavis.edu) → coaches/aehhicks
+✔ Created unclaimed coach profile: Kevin Estrella (ksestrella@ucdavis.edu) → coaches/ksestrella
+✔ Created unclaimed coach profile: Tanya Ho (teho@ucdavis.edu) → coaches/teho
+✔ Created unclaimed coach profile: David Seiler (daseiler@ucdavis.edu) → coaches/daseiler
+✔ Created unclaimed coach profile: Rebekah Hill (rlhill@ucdavis.edu) → coaches/rlhill
+✔ Created unclaimed coach profile: Athena Koehler (arkoehler@ucdavis.edu) → coaches/arkoehler
+✔ Created unclaimed coach profile: Suzanne Isidor (swisidor@ucdavis.edu) → coaches/swisidor
+✔ Created unclaimed coach profile: Victoria Tucci (vtucci@ucdavis.edu) → coaches/vtucci
+✔ Created unclaimed coach profile: Anna Belenis (akbelenis@ucdavis.edu) → coaches/akbelenis
+✔ Created unclaimed coach profile: Dwayne Shaffer (ucdavissoccer@ucdavis.edu) → coaches/ucdavissoccer
+✔ Created unclaimed coach profile: Jason Hotaling (jmhotaling@ucdavis.edu) → coaches/jmhotaling
+✔ Created unclaimed coach profile: Kat Mertz (kmertz@ucdavis.edu) → coaches/kmertz
+✔ Created unclaimed coach profile: Emilee Tominovich (etominovich@ucdavis.edu) → coaches/etominovich
+✔ Created unclaimed coach profile: Abbie Faingold (afaingold@ucdavis.edu) → coaches/afaingold
+🔄 Updating unclaimed profile for softball@ucdavis.edu
+✔ Updated unclaimed coach profile: Erin Thorpe (softball@ucdavis.edu) → coaches/softball
+✔ Created unclaimed coach profile: Amy Klyse (anklyse@ucdavis.edu) → coaches/anklyse
+✔ Created unclaimed coach profile: Jake Lively (jlively@ucdavis.edu) → coaches/jlively
+✔ Created unclaimed coach profile: Matt Macedo (mmacedo@ucdavis.edu) → coaches/mmacedo
+✔ Created unclaimed coach profile: Phil Tonne (divecal@aol.com) → coaches/divecal
+✔ Created unclaimed coach profile: Carl Weigley (crweigley@ucdavis.edu) → coaches/crweigley
+✔ Created unclaimed coach profile: Laurel Abernethy (labernethy@ucdavis.edu) → coaches/labernethy
+✔ Created unclaimed coach profile: Eric Steidlmayer (esteidlm@ucdavis.edu) → coaches/esteidlm
+✔ Created unclaimed coach profile: Sara Jackson (slmorenc@ucdavis.edu) → coaches/slmorenc
+✔ Created unclaimed coach profile: Ngoni Makusha (nemakusha@ucdavis.edu) → coaches/nemakusha
+✔ Created unclaimed coach profile: Brandon Hierholzer (Bhierholzer@ucdavis.edu) → coaches/Bhierholzer
+✔ Created unclaimed coach profile: KP Padda (kamsingh@ucdavis.edu) → coaches/kamsingh
+✔ Created unclaimed coach profile: Dan Conners (dconners@ucdavis.edu) → coaches/dconners
+✔ Created unclaimed coach profile: Danielle (Dee) (deedavis@ucdavis.edu) → coaches/deedavis
+✔ Created unclaimed coach profile: Prima Glorioso (pglorioso@ucdavis.edu) → coaches/pglorioso
+✔ Created unclaimed coach profile: Lana Radakovic (lkradakovic@ucdavis.edu) → coaches/lkradakovic
+✔ Created unclaimed coach profile: Nick Alden (nalden@ucdavis.edu) → coaches/nalden
+✔ Created unclaimed coach profile: Joey Frantz (jhfrantz@ucdavis.edu) → coaches/jhfrantz
+✔ Created unclaimed coach profile: Dakotah Sturla (dlsturla@ucdavis.edu) → coaches/dlsturla
+✔ Created unclaimed coach profile: Jenn DaRosa (jdarosa@scu.edu) → coaches/jdarosa
+✔ Created unclaimed coach profile: Rusty Filter (rfilter@scu.edu) → coaches/rfilter
+✔ Created unclaimed coach profile: Jay Brossman (jbrossman@scu.edu) → coaches/jbrossman
+✔ Created unclaimed coach profile: Chris Perry (cperry@scu.edu) → coaches/cperry
+✔ Created unclaimed coach profile: Jason Dicochea (jdicochea@scu.edu) → coaches/jdicochea
+✔ Created unclaimed coach profile: Jason Ludwig (jludwig@scu.edu) → coaches/jludwig
+✔ Created unclaimed coach profile: Ryan Madry (cmadry@scu.edu) → coaches/cmadry
+✔ Created unclaimed coach profile: Will Burkett (wburkett@scu.edu) → coaches/wburkett
+✔ Created unclaimed coach profile: Jackson Gion (jgion@scu.edu) → coaches/jgion
+✔ Created unclaimed coach profile: Mitch Smith (mlsmith@scu.edu) → coaches/mlsmith
+✔ Created unclaimed coach profile: Loree Payne (lpayne@scu.edu) → coaches/lpayne
+✔ Created unclaimed coach profile: TJ Harris (tharris3@scu.edu) → coaches/tharris3
+✔ Created unclaimed coach profile: Kellee Barney (kbarney@scu.edu) → coaches/kbarney
+✔ Created unclaimed coach profile: Ryan Freeman (rfreeman2@scu.edu) → coaches/rfreeman2
+✔ Created unclaimed coach profile: Des Abeyta (dabeyta@scu.edu) → coaches/dabeyta
+✔ Created unclaimed coach profile: Felipe Montoro (mmontoro@scu.edu) → coaches/mmontoro
+✔ Created unclaimed coach profile: Meron Simon (msimon2@scu.edu) → coaches/msimon2
+✔ Created unclaimed coach profile: Alex Miley (amiley@scu.edu) → coaches/amiley
+✔ Created unclaimed coach profile: Pete Cushman (pcushman@scu.edu) → coaches/pcushman
+✔ Created unclaimed coach profile: Luisa Westley (lwestley@scu.edu) → coaches/lwestley
+✔ Created unclaimed coach profile: Andrew Larkin (alarkin@scu.edu) → coaches/alarkin
+✔ Created unclaimed coach profile: John McCord (jmccord2@scu.edu) → coaches/jmccord2
+✔ Created unclaimed coach profile: Krystal Kelly (knkelly@scu.edu) → coaches/knkelly
+✔ Created unclaimed coach profile: Jett Isoda (jisoda@scu.edu) → coaches/jisoda
+✔ Created unclaimed coach profile: Marjorie Setchko (msetchko@scu.edu) → coaches/msetchko
+✔ Created unclaimed coach profile: Michael Brewer (m2brewer@scu.edu) → coaches/m2brewer
+✔ Created unclaimed coach profile: Brittany Kleiman (bkleiman@scu.edu) → coaches/bkleiman
+🔄 Updating unclaimed profile for msoccer@scu.edu
+✔ Updated unclaimed coach profile: Cameron Rast (msoccer@scu.edu) → coaches/msoccer
+✔ Created unclaimed coach profile: Jerry Smith (jsmith@scu.edu) → coaches/jsmith
+✔ Created unclaimed coach profile: Gregg Murphy (gmurphy@scu.edu) → coaches/gmurphy
+✔ Created unclaimed coach profile: Curtis McAlister (cmcalister@scu.edu) → coaches/cmcalister
+✔ Created unclaimed coach profile: Lizzy Johnson (ljohnson4@scu.edu) → coaches/ljohnson4
+✔ Created unclaimed coach profile: Gina Carbonatto (gcarbonatto@scu.edu) → coaches/gcarbonatto
+✔ Created unclaimed coach profile: Kaitlyn Guevara (kguevara@scu.edu) → coaches/kguevara
+✔ Created unclaimed coach profile: Maddi Hackbarth (mhackbarth@scu.edu) → coaches/mhackbarth
+✔ Created unclaimed coach profile: Niall Angus (nangus@scu.edu) → coaches/nangus
+🔄 Updating unclaimed profile for jpage@scu.edu
+✔ Updated unclaimed coach profile: Josh Page (jpage@scu.edu) → coaches/jpage
+✔ Created unclaimed coach profile: Allie Will-Van (awill@scu.edu) → coaches/awill
+✔ Created unclaimed coach profile: Connor Van (cvanalstyne@scu.edu) → coaches/cvanalstyne
+✔ Created unclaimed coach profile: Erin Lindsey (elindsey@scu.edu) → coaches/elindsey
+✔ Created unclaimed coach profile: Ganna Khrystenko (gkhrystenko@scu.edu) → coaches/gkhrystenko
+✔ Created unclaimed coach profile: Gretchen Reinert (greinert@scu.edu) → coaches/greinert
+✔ Created unclaimed coach profile: Jeff Alzina (jalzina@scu.edu) → coaches/jalzina
+✔ Created unclaimed coach profile: Lance Muret (lmuret@scu.edu) → coaches/lmuret
+✔ Created unclaimed coach profile: Julia Kallen (jkallen@scu.edu) → coaches/jkallen
+✔ Created unclaimed coach profile: Keith Wilbur (kwilbur@scu.edu) → coaches/kwilbur
+🔄 Updating unclaimed profile for wgrant@scu.edu
+✔ Updated unclaimed coach profile: Will Grant (wgrant@scu.edu) → coaches/wgrant
+✔ Created unclaimed coach profile: Claire Linney (clinney@scu.edu) → coaches/clinney
+✔ Created unclaimed coach profile: Emily Diacono (ediacono@scu.edu) → coaches/ediacono
+✔ Created unclaimed coach profile: Head Dance (cwitt2@csub.edu) → coaches/cwitt2
+✔ Created unclaimed coach profile: Acting Head (mscott23@csub.edu) → coaches/mscott23
+✔ Created unclaimed coach profile: Assistant Coach (mcomnos@csub.edu) → coaches/mcomnos
+✔ Created unclaimed coach profile: Assistant Coach (bbarnes5@csub.edu) → coaches/bbarnes5
+✔ Created unclaimed coach profile: Assistant Coach (bwrapp@csub.edu) → coaches/bwrapp
+✔ Created unclaimed coach profile: Head Coach (awideman@csub.edu) → coaches/awideman
+✔ Created unclaimed coach profile: Associate Head (ralvarado26@csub.edu) → coaches/ralvarado26
+✔ Created unclaimed coach profile: Assistant Coach (fhafoka@csub.edu) → coaches/fhafoka
+✔ Created unclaimed coach profile: Assistant Coach/Director (ewarren5@csub.edu) → coaches/ewarren5
+✔ Created unclaimed coach profile: Assistant Coach/Recruiting (mglover2@csub.edu) → coaches/mglover2
+✔ Created unclaimed coach profile: Head Coach (kbaxter@csub.edu) → coaches/kbaxter
+✔ Created unclaimed coach profile: Head Coach (agrant8@csub.edu) → coaches/agrant8
+✔ Created unclaimed coach profile: Assistant Coach (ekeogh1@csub.edu) → coaches/ekeogh1
+✔ Created unclaimed coach profile: Assistant Coach (carmendariz-flores@csub.edu) → coaches/carmendariz-flores
+✔ Created unclaimed coach profile: Head Coach (wpitalo@csub.edu) → coaches/wpitalo
+✔ Created unclaimed coach profile: Assistant Coach (mnavarro28@csub.edu) → coaches/mnavarro28
+✔ Created unclaimed coach profile: Assistant Coach (avalentine2@csub.edu) → coaches/avalentine2
+✔ Created unclaimed coach profile: Graduate Assistant (yyoggerst@csub.edu) → coaches/yyoggerst
+✔ Created unclaimed coach profile: Head Coach (LOlivarez@csub.edu) → coaches/LOlivarez
+✔ Created unclaimed coach profile: Diving Coach (sheyn@csub.edu) → coaches/sheyn
+✔ Created unclaimed coach profile: Head Coach (afulenwider@csub.edu) → coaches/afulenwider
+✔ Created unclaimed coach profile: Co-Interim Head (fnogueira@csub.edu) → coaches/fnogueira
+✔ Created unclaimed coach profile: Co-Interim Head (csilva-angus@csub.edu) → coaches/csilva-angus
+✔ Created unclaimed coach profile: Head Coach (lsmith82@csub.edu) → coaches/lsmith82
+✔ Created unclaimed coach profile: Assistant Coach (ejames@csub.edu) → coaches/ejames
+🔄 Updating unclaimed profile for swaterman@academyart.edu
+✔ Updated unclaimed coach profile: Scott Waterman (swaterman@academyart.edu) → coaches/swaterman
+✔ Created unclaimed coach profile: Booker Harris (bharris@academyart.edu) → coaches/bharris
+✔ Created unclaimed coach profile: Jesse Clark (jclark@academyart.edu) → coaches/jclark
+✔ Created unclaimed coach profile: Danny Kirkland (dkirkland@academyart.edu) → coaches/dkirkland
+🔄 Updating unclaimed profile for mmcneill@academyart.edu
+✔ Updated unclaimed coach profile: Mike McNeill (mmcneill@academyart.edu) → coaches/mmcneill
+✔ Created unclaimed coach profile: Lauren Nadler (lnadler@academyart.edu) → coaches/lnadler
+✔ Created unclaimed coach profile: Kaylyn Toyama (ktoyama@academyart.edu) → coaches/ktoyama
+✔ Created unclaimed coach profile: Mike Gomez (mgomez@academyart.edu) → coaches/mgomez
+✔ Created unclaimed coach profile: Nick Monroe (nmonroe@academyart.edu) → coaches/nmonroe
+✔ Created unclaimed coach profile: Geena Garabedian (ggarabedian@academyart.edu) → coaches/ggarabedian
+✔ Created unclaimed coach profile: Dominique Humphrey (dhumphrey@academyart.edu) → coaches/dhumphrey
+✔ Created unclaimed coach profile: Joe Dolby (jdolby@academyart.edu) → coaches/jdolby
+✔ Created unclaimed coach profile: Beth Allen (beallen@academyart.edu) → coaches/beallen
+✔ Created unclaimed coach profile: Nicole Briceño (nbriceno@academyart.edu) → coaches/nbriceno
+🔄 Updating unclaimed profile for bwilson@academyart.edu
+✔ Updated unclaimed coach profile: Bobby Wilson (bwilson@academyart.edu) → coaches/bwilson
+✔ Created unclaimed coach profile: Akil Gipson (agipson@academyart.edu) → coaches/agipson
+✔ Created unclaimed coach profile: Nkosinza Balumbu (nkbalumbu@academyart.edu) → coaches/nkbalumbu
+✔ Created unclaimed coach profile: Cole Marmor (cole.marmor@menlo.edu) → coaches/cole.marmor
+✔ Created unclaimed coach profile: Kevin Handshoe (kevin.handshoe@menlo.edu) → coaches/kevin.handshoe | Phone: (650) 543-3747
+✔ Created unclaimed coach profile: Caroline Howard (caroline.howard@menlo.edu) → coaches/caroline.howard
+✔ Created unclaimed coach profile: Tatum Abram (tatum.abram@menlo.edu) → coaches/tatum.abram
+✔ Created unclaimed coach profile: Brian Arellano (brian.aguilar@menlo.edu) → coaches/brian.aguilar
+✔ Created unclaimed coach profile: James Surovcik (james.surovcik@menlo.edu) → coaches/james.surovcik
+✔ Created unclaimed coach profile: Shane May-Suzuki (shane.may-suzuki@menlo.edu) → coaches/shane.may-suzuki
+✔ Created unclaimed coach profile: Mike Givens (mike.givens@menlo.edu) → coaches/mike.givens | Phone: (650) 543-3762
+✔ Created unclaimed coach profile: Anthony Masetti (anthony.masetti@menlo.edu) → coaches/anthony.masetti | Phone: (650) 543-4197
+✔ Created unclaimed coach profile: BJ Boyd (bijon.boyd@menlo.edu) → coaches/bijon.boyd
+✔ Created unclaimed coach profile: PJ Fuentes (pj.fuentes@menlo.edu) → coaches/pj.fuentes
+✔ Created unclaimed coach profile: Jamison Montgomery (jamison.montgomery@menlo.edu) → coaches/jamison.montgomery | Phone: (650) 543-3777
+✔ Created unclaimed coach profile: Jackson Cascio (jackson.cascio@menlo.edu) → coaches/jackson.cascio
+✔ Created unclaimed coach profile: Richard Fujii (richard.fujii@menlo.edu) → coaches/richard.fujii
+✔ Created unclaimed coach profile: Keith Lambert (keith.lambert@menlo.edu) → coaches/keith.lambert | Phone: (650) 543-3815
+✔ Created unclaimed coach profile: Matt Tudor (matthew.tudor@menlo.edu) → coaches/matthew.tudor
+✔ Created unclaimed coach profile: Sebastian Lopez (sebastian.lopez@menlo.edu) → coaches/sebastian.lopez
+✔ Created unclaimed coach profile: Panico Koutsoudis (panico.koutsoudis@menlo.edu) → coaches/panico.koutsoudis
+✔ Created unclaimed coach profile: Ian Wright (ian.wright@menlo.edu) → coaches/ian.wright
+✔ Created unclaimed coach profile: Shane Stent (shane.stent@menlo.edu) → coaches/shane.stent
+✔ Created unclaimed coach profile: Eric Ballelos (eric.ballelos@menlo.edu) → coaches/eric.ballelos
+🔄 Updating unclaimed profile for jmartinez@menlo.edu
+✔ Updated unclaimed coach profile: Joey Martinez (jmartinez@menlo.edu) → coaches/jmartinez | Phone: (650) 543-3778
+✔ Created unclaimed coach profile: Greg Hagan (gregory.hagan@menlo.edu) → coaches/gregory.hagan | Phone: (513) 803-9235
+✔ Created unclaimed coach profile: Jacob Palomino (jacob.palomino@menlo.edu) → coaches/jacob.palomino
+✔ Created unclaimed coach profile: Brock Timmons (brock.timmons@menlo.edu) → coaches/brock.timmons
+✔ Created unclaimed coach profile: Joe Dolby (joseph.dolby@menlo.edu) → coaches/joseph.dolby
+✔ Created unclaimed coach profile: Rudy Abitago (rudy.abitago@menlo.edu) → coaches/rudy.abitago
+✔ Created unclaimed coach profile: Brendan Kelleher (brendan.kelleher@menlo.edu) → coaches/brendan.kelleher
+✔ Created unclaimed coach profile: Franziska Niederle (franziska.niederle@menlo.edu) → coaches/franziska.niederle
+✔ Created unclaimed coach profile: Bruno Barrueto-Deza (bruno.barruetodeza@menlo.edu) → coaches/bruno.barruetodeza
+✔ Created unclaimed coach profile: McKinsey Thorpe (mckinsey.thorpe@menlo.edu) → coaches/mckinsey.thorpe | Phone: (650) 543-3774
+✔ Created unclaimed coach profile: Megan Massa (megan.massa@menlo.edu) → coaches/megan.massa
+✔ Created unclaimed coach profile: Caroline Evans (caroline.evans@menlo.edu) → coaches/caroline.evans
+✔ Created unclaimed coach profile: Desiree Albert (desiree.albert@menlo.edu) → coaches/desiree.albert
+✔ Created unclaimed coach profile: Shannon Spataro (sspataro@menlo.edu) → coaches/sspataro | Phone: (650) 543-3770
+✔ Created unclaimed coach profile: Jessica Rogers (jessica.rogers@menlo.edu) → coaches/jessica.rogers
+✔ Created unclaimed coach profile: Mira Love-Sangco (mira.love-sangco@menlo.edu) → coaches/mira.love-sangco
+✔ Created unclaimed coach profile: Jordyn Rosette (jordyn.rosette@menlo.edu) → coaches/jordyn.rosette
+✔ Created unclaimed coach profile: Matthew Kemp (matthew.kemp@menlo.edu) → coaches/matthew.kemp
+✔ Created unclaimed coach profile: Jacob Pickard (jacob.pickard@menlo.edu) → coaches/jacob.pickard
+✔ Created unclaimed coach profile: Robyn Rowley (robyn.rowley@menlo.edu) → coaches/robyn.rowley
+✔ Created unclaimed coach profile: Lesli Akeo (lesli.akeo@menlo.edu) → coaches/lesli.akeo | Phone: (650) 543-3802
+✔ Created unclaimed coach profile: Koala Matsuoka (koala.matsuoka@menlo.edu) → coaches/koala.matsuoka
+✔ Created unclaimed coach profile: Ellison Weaver (ellison.weaver@menlo.edu) → coaches/ellison.weaver
+✔ Created unclaimed coach profile: Paul Niederle (paul.niederle@menlo.edu) → coaches/paul.niederle
+✔ Created unclaimed coach profile: Michael Ayala (michael.ayala@menlo.edu) → coaches/michael.ayala | Phone: (650) 543-3729
+✔ Created unclaimed coach profile: Louisa Schwab (louisa.schwab@menlo.edu) → coaches/louisa.schwab
+✔ Created unclaimed coach profile: Nikita Dhaliwal (nikita.dhaliwal@menlo.edu) → coaches/nikita.dhaliwal
+✔ Created unclaimed coach profile: Tavia Heidelberg-Tillotson (tavia.heidelberg@menlo.edu) → coaches/tavia.heidelberg
+✔ Created unclaimed coach profile: Alexandria Glaudé (alexandria.glaude@menlo.edu) → coaches/alexandria.glaude
+✔ Created unclaimed coach profile: Alejandra Corral (alejandra.corral@menlo.edu) → coaches/alejandra.corral
+✔ Created unclaimed coach profile: Ajayzee Zaballos (a.zaballos@menlo.edu) → coaches/a.zaballos
+✔ Created unclaimed coach profile: Ashley Whetzal (ashley.whetzal@menlo.edu) → coaches/ashley.whetzal
+✔ Created unclaimed coach profile: Richard Kiel (richard.kiel@menlo.edu) → coaches/richard.kiel
+✔ Created unclaimed coach profile: Kevin Doherty (kevin.doherty@menlo.edu) → coaches/kevin.doherty
+✔ Created unclaimed coach profile: Julissa Taitano (julissa.taitano@menlo.edu) → coaches/julissa.taitano | Phone: (408) 613-3770
+✔ Created unclaimed coach profile: Emily Sanchez (emily.sanchez@menlo.edu) → coaches/emily.sanchez
+✔ Created unclaimed coach profile: Jared Ambrosio (jared.ambrosio@menlo.edu) → coaches/jared.ambrosio
+✔ Created unclaimed coach profile: Rysan Leong (rysan.leong@menlo.edu) → coaches/rysan.leong
+✔ Created unclaimed coach profile: Autumn Pacheco (autumn.pacheco@menlo.edu) → coaches/autumn.pacheco
+✔ Created unclaimed coach profile: Cheyenne Lewis (cheyenne.lewis@menlo.edu) → coaches/cheyenne.lewis | Phone: (510) 978-7389
+✔ Created unclaimed coach profile: Jae Sung (jaesung.lee@menlo.edu) → coaches/jaesung.lee | Phone: (650) 521-1510
+✔ Created unclaimed coach profile: Christy Mecxin (cmecxin@uci.edu) → coaches/cmecxin
+✔ Created unclaimed coach profile: Samantha Price (saprice@uci.edu) → coaches/saprice
+✔ Created unclaimed coach profile: Summer Williams (summew1@uci.edu) → coaches/summew1
+✔ Created unclaimed coach profile: Holly Bosley (hbosley@uci.edu) → coaches/hbosley
+✔ Created unclaimed coach profile: Ben Orloff (borloff@uci.edu) → coaches/borloff
+✔ Created unclaimed coach profile: Daniel Bibona (dbibona@uci.edu) → coaches/dbibona
+✔ Created unclaimed coach profile: J.T. Bloodworth (jbloodwo@uci.edu) → coaches/jbloodwo
+✔ Created unclaimed coach profile: Ryan Johnston (rjohnst1@uci.edu) → coaches/rjohnst1
+✔ Created unclaimed coach profile: Russell Turner (UCIMBB@uci.edu) → coaches/UCIMBB
+✔ Created unclaimed coach profile: Ali Ton (tonac@uci.edu) → coaches/tonac
+✔ Created unclaimed coach profile: Nick Booker (nbooker@uci.edu) → coaches/nbooker
+✔ Created unclaimed coach profile: Julius Smith (julius1@uci.edu) → coaches/julius1
+✔ Created unclaimed coach profile: Patrick Scully (pscully@uci.edu) → coaches/pscully
+✔ Created unclaimed coach profile: Brady Boznanski (bboznans@uci.edu) → coaches/bboznans
+✔ Created unclaimed coach profile: Tamara Inoue (t.inoue@uci.edu) → coaches/t.inoue
+✔ Created unclaimed coach profile: Cecilia Russell-Nava (c.nava@uci.edu) → coaches/c.nava
+✔ Created unclaimed coach profile: Derek Wynn (dwynn@uci.edu) → coaches/dwynn
+✔ Created unclaimed coach profile: Tyler Ellis (tylere1@uci.edu) → coaches/tylere1
+✔ Created unclaimed coach profile: Lauren Saiki (lsaiki@uci.edu) → coaches/lsaiki
+✔ Created unclaimed coach profile: Paul Smolinski (psmolins@uci.edu) → coaches/psmolins
+✔ Created unclaimed coach profile: Margo Dionisio (mcdionis@uci.edu) → coaches/mcdionis
+✔ Created unclaimed coach profile: Yossi Raz (yraz@uci.edu) → coaches/yraz
+✔ Created unclaimed coach profile: Cale Rodriguez (caler@uci.edu) → coaches/caler
+✔ Created unclaimed coach profile: Yonha Adrabi (yadrabi@uci.edu) → coaches/yadrabi
+✔ Created unclaimed coach profile: Scott Juniper (sjuniper@uci.edu) → coaches/sjuniper
+✔ Created unclaimed coach profile: P.J. Woolridge (pwoolrid@uci.edu) → coaches/pwoolrid
+✔ Created unclaimed coach profile: Danielle de (ddeserie@uci.edu) → coaches/ddeserie
+✔ Created unclaimed coach profile: Mike Saunders (michaes@uci.edu) → coaches/michaes
+✔ Created unclaimed coach profile: Eric Quade (equade@uci.edu) → coaches/equade
+✔ Created unclaimed coach profile: Elizabeth Ferris (ferrise@uci.edu) → coaches/ferrise
+✔ Created unclaimed coach profile: Jeff Perkins (jperkins@uci.edu) → coaches/jperkins
+✔ Created unclaimed coach profile: Katelyn Ciarelli (kciarell@uci.edu) → coaches/kciarell
+✔ Created unclaimed coach profile: Casey Kear (kearc@uci.edu) → coaches/kearc
+✔ Created unclaimed coach profile: Sean Brown (browns3@uci.edu) → coaches/browns3
+✔ Created unclaimed coach profile: Calla Nelson (callaln@uci.edu) → coaches/callaln
+✔ Created unclaimed coach profile: Tony Ciarelli (aciarell@uci.edu) → coaches/aciarell
+✔ Created unclaimed coach profile: Hannah Chau (hechau@uci.edu) → coaches/hechau
+✔ Created unclaimed coach profile: Vince O'Boyle (vboboyle@uci.edu) → coaches/vboboyle
+✔ Created unclaimed coach profile: David Kniffin (dkniffin@uci.edu) → coaches/dkniffin
+✔ Created unclaimed coach profile: Ashlie Hain (ahain@uci.edu) → coaches/ahain
+✔ Created unclaimed coach profile: Brandon Thich (bthich@uci.edu) → coaches/bthich
+✔ Created unclaimed coach profile: Kylie Miller (kyliemm3@uci.edu) → coaches/kyliemm3
+✔ Created unclaimed coach profile: Dan Klatt (dklatt@uci.edu) → coaches/dklatt
+✔ Created unclaimed coach profile: Andrew Rowe (ajrowe@uci.edu) → coaches/ajrowe
+✔ Created unclaimed coach profile: Jake Liechty (jliechty@uci.edu) → coaches/jliechty
+✔ Created unclaimed coach profile: Alys Moore (alysw@uci.edu) → coaches/alysw
+✔ Created unclaimed coach profile: Maggie Sutliff (sacstatecheer@gmail.com) → coaches/sacstatecheer
+✔ Created unclaimed coach profile: Reggie Christiansen (christra@csus.edu) → coaches/christra
+✔ Created unclaimed coach profile: David Flores (d.flores@csus.edu) → coaches/d.flores
+✔ Created unclaimed coach profile: Grant Kukuk (g.kukuk@csus.edu) → coaches/g.kukuk
+✔ Created unclaimed coach profile: Matt Smith (matthewsmith@csus.edu) → coaches/matthewsmith
+✔ Created unclaimed coach profile: Mike Bibby (m.bibby@csus.edu) → coaches/m.bibby
+✔ Created unclaimed coach profile: Michael Bibby (michael.bibby@csus.edu) → coaches/michael.bibby
+✔ Created unclaimed coach profile: Raymond Walcott (r.walcott@csus.edu) → coaches/r.walcott
+✔ Created unclaimed coach profile: Jason Fraser (jason.fraser@csus.edu) → coaches/jason.fraser
+✔ Created unclaimed coach profile: Greg Moody (g.moody@csus.edu) → coaches/g.moody
+✔ Created unclaimed coach profile: August Mendes (august.mendes@csus.edu) → coaches/august.mendes
+✔ Created unclaimed coach profile: Aaron Kallhoff (kallhoff@csus.edu) → coaches/kallhoff
+✔ Created unclaimed coach profile: De'Audra Brown (d.brown@csus.edu) → coaches/d.brown
+✔ Created unclaimed coach profile: Michael Floyd (m.floyd@csus.edu) → coaches/m.floyd
+✔ Created unclaimed coach profile: Jodi Page (j.page@csus.edu) → coaches/j.page
+✔ Created unclaimed coach profile: Angela Lewis (a.lewis@csus.edu) → coaches/a.lewis
+✔ Created unclaimed coach profile: Ruben Volta (rvolta@csus.edu) → coaches/rvolta
+🔄 Updating unclaimed profile for volleyball@csus.edu
+✔ Updated unclaimed coach profile: Matt Torrez (volleyball@csus.edu) → coaches/volleyball
+🔄 Updating unclaimed profile for footballrecruiting@csus.edu
+✔ Updated unclaimed coach profile: Brennan Marion (footballrecruiting@csus.edu) → coaches/footballrecruiting
+✔ Created unclaimed coach profile: Kamden Brakel (kamden.brakel@csus.edu) → coaches/kamden.brakel
+✔ Created unclaimed coach profile: David Sutherland (dsutherl@csus.edu) → coaches/dsutherl
+✔ Created unclaimed coach profile: Cindy Mah-Lyford (c.mah-lyford@csus.edu) → coaches/c.mah-lyford
+✔ Created unclaimed coach profile: Melissa Genovese (genovese@csus.edu) → coaches/genovese
+✔ Created unclaimed coach profile: Nicole Brandt (nicole.meiller@csus.edu) → coaches/nicole.meiller
+✔ Created unclaimed coach profile: Megan Kyle (megan.kyle@csus.edu) → coaches/megan.kyle
+✔ Created unclaimed coach profile: Amber Koeth (akoeth@csus.edu) → coaches/akoeth
+✔ Created unclaimed coach profile: Mike Connors (connors@csus.edu) → coaches/connors
+✔ Created unclaimed coach profile: Sarah Puddicombe (sarah.puddicombe@csus.edu) → coaches/sarah.puddicombe
+✔ Created unclaimed coach profile: Kieran Edwards (kedwards2@csus.edu) → coaches/kedwards2
+✔ Created unclaimed coach profile: Erika Mitchell (erikajas@aol.com) → coaches/erikajas
+✔ Created unclaimed coach profile: Anne Shaneen (ammekshaneen@gmail.com) → coaches/ammekshaneen
+✔ Created unclaimed coach profile: Michael Linenberger (bergs@csus.edu) → coaches/bergs
+✔ Created unclaimed coach profile: Matt McDougall (mmcdougall@csus.edu) → coaches/mmcdougall
+✔ Created unclaimed coach profile: Hector "Keko" (h.grajeda@csus.edu) → coaches/h.grajeda
+✔ Created unclaimed coach profile: Randy Dedini (rdedini@csus.edu) → coaches/rdedini
+✔ Created unclaimed coach profile: Chris Malenab (chris.malenab@csus.edu) → coaches/chris.malenab
+✔ Created unclaimed coach profile: Danielle Davis (ddavis4@csus.edu) → coaches/ddavis4
+✔ Created unclaimed coach profile: Janae Braun (janae.braun@csus.edu) → coaches/janae.braun
+✔ Created unclaimed coach profile: Lori Perez (lori.perez@csus.edu) → coaches/lori.perez
+✔ Created unclaimed coach profile: Vicky Rios (victoria.rios@csus.edu) → coaches/victoria.rios
+✔ Created unclaimed coach profile: Marina Demore (m.demore@csus.edu) → coaches/m.demore
+✔ Created unclaimed coach profile: Lewa Day (lewaday@csus.edu) → coaches/lewaday
+✔ Created unclaimed coach profile: Mikus Losbergs (mikus.losbergs@csus.edu) → coaches/mikus.losbergs
+✔ Created unclaimed coach profile: Sophie Breault (sophie.breault@csus.edu) → coaches/sophie.breault
+✔ Created unclaimed coach profile: Sonia Smagina (sofia.smagina@csus.edu) → coaches/sofia.smagina
+✔ Created unclaimed coach profile: Enrique Alcacer (enriquealcacer@csus.edu) → coaches/enriquealcacer
+✔ Created unclaimed coach profile: Carl Caughell (carl.caughell@csus.edu) → coaches/carl.caughell
+✔ Created unclaimed coach profile: Cade Burks (cade.burks@csus.edu) → coaches/cade.burks
+✔ Created unclaimed coach profile: Kyra Jefferson (k.jefferson@csus.edu) → coaches/k.jefferson
+✔ Created unclaimed coach profile: Kyle Peterson (k.peterson@csus.edu) → coaches/k.peterson
+✔ Created unclaimed coach profile: John Fluette (j.fluette@csus.edu) → coaches/j.fluette
+✔ Created unclaimed coach profile: Michaela Ebben (ebben@csus.edu) → coaches/ebben
+✔ Created unclaimed coach profile: Sarah Chlebana (schleban@csus.edu) → coaches/schleban
+✔ Created unclaimed coach profile: Rob Bauer (bauerr@sandiego.edu) → coaches/bauerr
+✔ Created unclaimed coach profile: Brock Ungricht (bungricht@sandiego.edu) → coaches/bungricht
+✔ Created unclaimed coach profile: Mitch Holland (mitchellholland@sandiego.edu) → coaches/mitchellholland
+✔ Created unclaimed coach profile: Grady Miller (gradymiller@sandiego.edu) → coaches/gradymiller
+✔ Created unclaimed coach profile: Josh Nicoloff (jnicoloff@sandiego.edu) → coaches/jnicoloff
+✔ Created unclaimed coach profile: Blanche Alverson (valverson@sandiego.edu) → coaches/valverson
+✔ Created unclaimed coach profile: Samantha Guastella (sguastella@sandiego.edu) → coaches/sguastella
+✔ Created unclaimed coach profile: Jon Silver (jonathansilver@sandiego.edu) → coaches/jonathansilver
+✔ Created unclaimed coach profile: Jualeah Woods (jualeahwoods@sandiego.edu) → coaches/jualeahwoods
+✔ Created unclaimed coach profile: Bart Thompson (bartthompson@sandiego.edu) → coaches/bartthompson
+✔ Created unclaimed coach profile: Jordan Irving (jirving@sandiego.edu) → coaches/jirving
+✔ Created unclaimed coach profile: Charlotte Smith (charlottesmith@sandiego.edu) → coaches/charlottesmith
+✔ Created unclaimed coach profile: Will Guarino (wguarino@sandiego.edu) → coaches/wguarino
+✔ Created unclaimed coach profile: Brandon Moore (usdfootball@sandiego.edu) → coaches/usdfootball
+✔ Created unclaimed coach profile: Evan Emerick (eemerick@sandiego.edu) → coaches/eemerick
+✔ Created unclaimed coach profile: Sam Foust (sfoust@sandiego.edu) → coaches/sfoust
+✔ Created unclaimed coach profile: Brian Quinn (brianq@sandiego.edu) → coaches/brianq
+✔ Created unclaimed coach profile: Mike "Nico" (michaelnicholson@sandiego.edu) → coaches/michaelnicholson
+✔ Created unclaimed coach profile: Frankie Sanfilippo (fsanfilippo@sandiego.edu) → coaches/fsanfilippo
+✔ Created unclaimed coach profile: Greg LaPorte (glaporte@sandiego.edu) → coaches/glaporte
+✔ Created unclaimed coach profile: Matt Hall (mihall@sandiego.edu) → coaches/mihall
+✔ Created unclaimed coach profile: Jackie Altschuld (jaltschuld@sandiego.edu) → coaches/jaltschuld
+✔ Created unclaimed coach profile: MJ Knighten (mknighten@sandiego.edu) → coaches/mknighten
+✔ Created unclaimed coach profile: Shay Knighten (marshayleeknighten@sandiego.edu) → coaches/marshayleeknighten
+✔ Created unclaimed coach profile: KC Hellenkamp (khellenkamp@sandiego.edu) → coaches/khellenkamp
+✔ Created unclaimed coach profile: Mike Keeler (mkeeler@sandiego.edu) → coaches/mkeeler
+✔ Created unclaimed coach profile: Shawna Ghausi (sghausi@sandiego.edu) → coaches/sghausi
+✔ Created unclaimed coach profile: Amy Alexander (aalexander@sandiego.edu) → coaches/aalexander
+✔ Created unclaimed coach profile: Ryan Keckley (ryankeckley@sandiego.edu) → coaches/ryankeckley
+✔ Created unclaimed coach profile: Alex Funkhouser (jfunkhouser@sandiego.edu) → coaches/jfunkhouser
+✔ Created unclaimed coach profile: Carlos Bracho (cbracho@sandiego.edu) → coaches/cbracho
+✔ Created unclaimed coach profile: Nadia Abdala (nabdala@sandiego.edu) → coaches/nabdala
+✔ Created unclaimed coach profile: Jordan Angus (jangus@sandiego.edu) → coaches/jangus
+✔ Created unclaimed coach profile: Jennifer Petrie (jenniferpetrie@sandiego.edu) → coaches/jenniferpetrie
+✔ Created unclaimed coach profile: Carlos Moreno (carlosmoreno@sandiego.edu) → coaches/carlosmoreno
+✔ Created unclaimed coach profile: John Dunn (johndunn@sandiego.edu) → coaches/johndunn
+✔ Created unclaimed coach profile: Casey Schoenlein (cschoenlein@sandiego.edu) → coaches/cschoenlein
+✔ Created unclaimed coach profile: Lauren Chow (lchow@csudh.edu) → coaches/lchow | Phone: (310) 243-3480
+✔ Created unclaimed coach profile: Joon Hyuk (jolee@csudh.edu) → coaches/jolee
+✔ Created unclaimed coach profile: Tyler Wright (twright@csudh.edu) → coaches/twright | Phone: (310) 243-3759
+✔ Created unclaimed coach profile: Greg Humbert (ghumbert1@csudh.edu) → coaches/ghumbert1
+✔ Created unclaimed coach profile: Esteban Contreras (econtreras@csudh.edu) → coaches/econtreras | Phone: (213) 808-2408
+✔ Created unclaimed coach profile: Steve Becker (sbecker@csudh.edu) → coaches/sbecker | Phone: (310) 243-3891
+✔ Created unclaimed coach profile: John Peterson (jopeterson@csudh.edu) → coaches/jopeterson
+✔ Created unclaimed coach profile: Nautica Morrow (nmorrow3@csudh.edu) → coaches/nmorrow3 | Phone: (310) 243-2211
+✔ Created unclaimed coach profile: Tyler Frierson (tfriersonnelson@csudh.edu) → coaches/tfriersonnelson
+✔ Created unclaimed coach profile: Kandice Henderson (kahenderson@csudh.edu) → coaches/kahenderson
+✔ Created unclaimed coach profile: Ebony Morrison (emorrison@csudh.edu) → coaches/emorrison
+✔ Created unclaimed coach profile: Cilecia Foster (cifoster@csudh.edu) → coaches/cifoster
+✔ Created unclaimed coach profile: Ron Eastman (reastman@csudh.edu) → coaches/reastman | Phone: (562) 301-6970
+✔ Created unclaimed coach profile: Eddie Soto (esoto@csudh.edu) → coaches/esoto | Phone: (310) 243-2221
+✔ Created unclaimed coach profile: Patryk Tenorio (ptenorio@csudh.edu) → coaches/ptenorio | Phone: (310) 243-2836
+✔ Created unclaimed coach profile: Hunter Stewart (hstewart@csudh.edu) → coaches/hstewart
+✔ Created unclaimed coach profile: Adriana Valdez (avaldezlopez@csudh.edu) → coaches/avaldezlopez
+✔ Created unclaimed coach profile: Michael Beigarten (mbeigarten@csudh.edu) → coaches/mbeigarten
+✔ Created unclaimed coach profile: Katie Garcia (klgarcia@csudh.edu) → coaches/klgarcia | Phone: (310) 243-3889
+✔ Created unclaimed coach profile: Stephanie Jimenez (sjimenez52@csudh.edu) → coaches/sjimenez52 | Phone: (310) 243-3889
+✔ Created unclaimed coach profile: Jared Maier (jmaier2@csudh.edu) → coaches/jmaier2
+✔ Created unclaimed coach profile: Lekeisha Moore (lemoore@csudh.edu) → coaches/lemoore
+✔ Created unclaimed coach profile: Ryan Pitts (rpitts14@csudh.edu) → coaches/rpitts14
+✔ Created unclaimed coach profile: Teddi Esko (tesko@csudh.edu) → coaches/tesko | Phone: (310) 243-3172
+✔ Created unclaimed coach profile: Victor De (vdelacruzsierra@csudh.edu) → coaches/vdelacruzsierra
+✔ Created unclaimed coach profile: Ivy Chew (ichew@csudh.edu) → coaches/ichew
+✔ Created unclaimed coach profile: Natalie Magallon (nmagallon2@csudh.edu) → coaches/nmagallon2
+✔ Created unclaimed coach profile: Kirsten Moore (kirstenmoore@westmont.edu) → coaches/kirstenmoore
+✔ Created unclaimed coach profile: Jill Heckman (jheckman@westmont.edu) → coaches/jheckman
+✔ Created unclaimed coach profile: Erik Hansen (erikhansen@westmont.edu) → coaches/erikhansen
+✔ Created unclaimed coach profile: Paul Svagdis (psvagdis@westmont.edu) → coaches/psvagdis
+✔ Created unclaimed coach profile: Bailey Reid (bareid@westmont.edu) → coaches/bareid
+🔄 Updating unclaimed profile for baseball@westmont.edu
+✔ Updated unclaimed coach profile: Gregory Venzor (baseball@westmont.edu) → coaches/baseball
+✔ Created unclaimed coach profile: Will Barring (wbarring@westmont.edu) → coaches/wbarring
+✔ Created unclaimed coach profile: Justin Leslie (jleslie@westmont.edu) → coaches/jleslie
+✔ Created unclaimed coach profile: Kalen Eddings (keddings@westmont.edu) → coaches/keddings
+✔ Created unclaimed coach profile: Olivia Luu (oluu@westmont.edu) → coaches/oluu
+✔ Created unclaimed coach profile: Stefanie Berberabe (sberberabe@westmont.edu) → coaches/sberberabe
+✔ Created unclaimed coach profile: Russell Smelley (smelley@westmont.edu) → coaches/smelley
+✔ Created unclaimed coach profile: Lindsey Connolly (lconnoll@westmont.edu) → coaches/lconnoll
+✔ Created unclaimed coach profile: Chris Hanessian (chanessian@westmont.edu) → coaches/chanessian
+✔ Created unclaimed coach profile: Derek Masterson (dmasterson@westmont.edu) → coaches/dmasterson
+✔ Created unclaimed coach profile: Leo Maes (lmaes@westmont.edu) → coaches/lmaes
+✔ Created unclaimed coach profile: Harley Richardson (hrichardson@westmont.edu) → coaches/hrichardson
+🔄 Updating unclaimed profile for menssoccer@westmont.edu
+✔ Updated unclaimed coach profile: Morgan Cathey (menssoccer@westmont.edu) → coaches/menssoccer
+🔄 Updating unclaimed profile for womenssoccer@westmont.edu
+✔ Updated unclaimed coach profile: Lauren Matthias (womenssoccer@westmont.edu) → coaches/womenssoccer
+✔ Created unclaimed coach profile: Jill Lin (jijones@westmont.edu) → coaches/jijones
+✔ Created unclaimed coach profile: Bailey Lemmon (blemmon@westmont.edu) → coaches/blemmon
+✔ Created unclaimed coach profile: Chris Elwood (celwood@westmont.edu) → coaches/celwood
+✔ Created unclaimed coach profile: Ethan Ha (eha@westmont.edu) → coaches/eha
+✔ Created unclaimed coach profile: Ryan Warner (rwarner@westmont.edu) → coaches/rwarner
+✔ Created unclaimed coach profile: Ruth McGolpin (rmcgolpin@westmont.edu) → coaches/rmcgolpin
+✔ Created unclaimed coach profile: Hannah Caddow (hcaddow@westmont.edu) → coaches/hcaddow
+✔ Created unclaimed coach profile: Chelsey Garman, (cgarman@sfsu.edu) → coaches/cgarman
+✔ Created unclaimed coach profile: Vince Inglima (inglima@sfsu.edu) → coaches/inglima
+✔ Created unclaimed coach profile: Alex Gilat (agilat@sfsu.edu) → coaches/agilat
+✔ Created unclaimed coach profile: Moné Peoples (coachmo@sfsu.edu) → coaches/coachmo
+✔ Created unclaimed coach profile: Daron Sims (dsims@sfsu.edu) → coaches/dsims
+✔ Created unclaimed coach profile: John DeMartini (jdemartini@sfsu.edu) → coaches/jdemartini
+✔ Created unclaimed coach profile: Domenique Kastl (dkastl@sfsu.edu) → coaches/dkastl
+✔ Created unclaimed coach profile: Alicia Reid (aliciareid@sfsu.edu) → coaches/aliciareid
+✔ Created unclaimed coach profile: Kai DeLeon (kdeleon4@sfsu.edu) → coaches/kdeleon4
+✔ Created unclaimed coach profile: Nia Trinidad (ntrinidad@sfsu.edu) → coaches/ntrinidad
+✔ Created unclaimed coach profile: Matt Hoffman (hoffmanm@sfsu.edu) → coaches/hoffmanm
+✔ Created unclaimed coach profile: Izzy Issak (iissak@sfsu.edu) → coaches/iissak
+✔ Created unclaimed coach profile: Jason Welch (jasonwelch@sfsu.edu) → coaches/jasonwelch
+✔ Created unclaimed coach profile: Anthony Mancini (amancini184@sfsu.edu) → coaches/amancini184
+✔ Created unclaimed coach profile: Will Daniels (will_daniels@redlands.edu) → coaches/will_daniels
+✔ Created unclaimed coach profile: Aaron Holley (aaron_holley@redlands.edu) → coaches/aaron_holley
+✔ Created unclaimed coach profile: Chris Hernandez (chris_hernandez@redlands.edu) → coaches/chris_hernandez
+✔ Created unclaimed coach profile: Eric Bridgeland (BulldogMensBasketball@redlands.edu) → coaches/BulldogMensBasketball
+✔ Created unclaimed coach profile: Sean O'Donnell (sean_odonnell@redlands.edu) → coaches/sean_odonnell
+✔ Created unclaimed coach profile: Jalen Kellams (jalen_kellams@redlands.edu) → coaches/jalen_kellams
+✔ Created unclaimed coach profile: Rich Murphy (rich_murphy@redlands.edu) → coaches/rich_murphy
+✔ Created unclaimed coach profile: Alyssa Downs (alyssa_downs@redlands.edu) → coaches/alyssa_downs
+✔ Created unclaimed coach profile: Blaire Camarda (blaire_camarda@redlands.edu) → coaches/blaire_camarda
+✔ Created unclaimed coach profile: Mike Schmidt (bulldogXCTF@redlands.edu) → coaches/bulldogXCTF
+✔ Created unclaimed coach profile: Dominic Lopez (dominic_lopez@redlands.edu) → coaches/dominic_lopez
+✔ Created unclaimed coach profile: Greta Unger (greta_unger@redlands.edu) → coaches/greta_unger
+✔ Created unclaimed coach profile: Courtney O'Neal (courtney_oneal@redlands.edu) → coaches/courtney_oneal
+✔ Created unclaimed coach profile: Jim Good (jim_good@redlands.edu) → coaches/jim_good
+✔ Created unclaimed coach profile: Joey Mariani (joey_mariani@redlands.edu) → coaches/joey_mariani
+✔ Created unclaimed coach profile: Craig Robbins (craig_robbins@redlands.edu) → coaches/craig_robbins
+✔ Created unclaimed coach profile: Brandyn Alvarez (brandyn_alvarez@redlands.edu) → coaches/brandyn_alvarez
+✔ Created unclaimed coach profile: Joe Bennett (joseph_bennett@redlands.edu) → coaches/joseph_bennett
+✔ Created unclaimed coach profile: Terrell Davis (terrell_davis@redlands.edu) → coaches/terrell_davis
+✔ Created unclaimed coach profile: Tamoi Hicks (tamoi_hicks@redlands.edu) → coaches/tamoi_hicks
+✔ Created unclaimed coach profile: Nathan Martinez (nathan_martinez@redlands.edu) → coaches/nathan_martinez
+✔ Created unclaimed coach profile: Mike McFarland (mike_mcfarland@redlands.edu) → coaches/mike_mcfarland
+✔ Created unclaimed coach profile: Cole Smith (cole_smith@redlands.edu) → coaches/cole_smith
+✔ Created unclaimed coach profile: Jacob Barlage (jacob_barlage@redlands.edu) → coaches/jacob_barlage
+✔ Created unclaimed coach profile: Tatum Etchegoyen-Springer (tatum_springer@redlands.edu) → coaches/tatum_springer
+✔ Created unclaimed coach profile: Jamie Zantua (jamie_zantua@redlands.edu) → coaches/jamie_zantua
+✔ Created unclaimed coach profile: Mark Hopson (mark_hopson@redlands.edu) → coaches/mark_hopson
+✔ Created unclaimed coach profile: Tayler Muchmore (tayler_muchmore@redlands.edu) → coaches/tayler_muchmore
+✔ Created unclaimed coach profile: Sean Hansen (sean_hansen@redlands.edu) → coaches/sean_hansen
+✔ Created unclaimed coach profile: Alexis Parker (alexis_parker@redlands.edu) → coaches/alexis_parker
+✔ Created unclaimed coach profile: Lacey Douglass (lacey_bjorndal@redlands.edu) → coaches/lacey_bjorndal
+✔ Created unclaimed coach profile: Ralph Perez (ralph_perez@redlands.edu) → coaches/ralph_perez
+✔ Created unclaimed coach profile: Cody Carlson (cody_carlson@redlands.edu) → coaches/cody_carlson
+✔ Created unclaimed coach profile: Suzette Soboti (suzette_soboti@redlands.edu) → coaches/suzette_soboti
+✔ Created unclaimed coach profile: Breann Miller (breann_miller@redlands.edu) → coaches/breann_miller
+✔ Created unclaimed coach profile: Jose Ortega (jose_ortega@redlands.edu) → coaches/jose_ortega
+✔ Created unclaimed coach profile: Kaitlyn Hooper-Bell (kaitlyn_hooper-bell@redlands.edu) → coaches/kaitlyn_hooper-bell
+✔ Created unclaimed coach profile: Andrew Aguilera (andrew_aguilera@redlands.edu) → coaches/andrew_aguilera
+✔ Created unclaimed coach profile: Cassandra Mittman (cassandra_mittman@redlands.edu) → coaches/cassandra_mittman
+✔ Created unclaimed coach profile: Craig Mallery (craig_mallery@redlands.edu) → coaches/craig_mallery
+✔ Created unclaimed coach profile: Kaitlyn Reny (kaitlyn_reny@redlands.edu) → coaches/kaitlyn_reny
+✔ Created unclaimed coach profile: John Holbeck (john_holbreck@redlands.edu) → coaches/john_holbreck
+✔ Created unclaimed coach profile: Mike Longanecker (mike_longanecker@redlands.edu) → coaches/mike_longanecker
+✔ Created unclaimed coach profile: Michael Harmon (michael_harmon@redlands.edu) → coaches/michael_harmon
+✔ Created unclaimed coach profile: Erik Lundblad (erik_lundblad@redlands.edu) → coaches/erik_lundblad
+✔ Created unclaimed coach profile: Andrew Clarey (andrew_clarey@redlands.edu) → coaches/andrew_clarey
+✔ Created unclaimed coach profile: Leslie Sernaque-Falcon (leslie_sernaquefalco@redlands.edu) → coaches/leslie_sernaquefalco
+✔ Created unclaimed coach profile: Savannah Cox (savannah_cox@redlands.edu) → coaches/savannah_cox
+✔ Created unclaimed coach profile: Cydney Bolasky (cydney_bolasky@redlands.edu) → coaches/cydney_bolasky
+✔ Created unclaimed coach profile: Ryan Hall (ryan_hall@redlands.edu) → coaches/ryan_hall
+✔ Created unclaimed coach profile: Leo Yuno (leo.yuno5@gmail.com) → coaches/leo.yuno5
+✔ Created unclaimed coach profile: Carlos Heredia (carlosherediaviteri@gmail.com) → coaches/carlosherediaviteri
+✔ Created unclaimed coach profile: Tamara Perea (tamara_perea@redlands.edu) → coaches/tamara_perea
+✔ Created unclaimed coach profile: Dominic Rios (dominic_rios@redlands.edu) → coaches/dominic_rios
+🔄 Updating unclaimed profile for justin.johnson@ucr.edu
+✔ Updated unclaimed coach profile: Justin Johnson (justin.johnson@ucr.edu) → coaches/justin.johnson
+✔ Created unclaimed coach profile: Lloyd Acosta (lloyd.acosta@ucr.edu) → coaches/lloyd.acosta
+✔ Created unclaimed coach profile: Zach Newsom (zachary.newsom@ucr.edu) → coaches/zachary.newsom
+✔ Created unclaimed coach profile: Gus Argenal (agustin.argenal@ucr.edu) → coaches/agustin.argenal
+✔ Created unclaimed coach profile: Tim Bross (timothy.bross@ucr.edu) → coaches/timothy.bross
+✔ Created unclaimed coach profile: Blake Wetherington (blake.wetherington@ucr.edu) → coaches/blake.wetherington
+✔ Created unclaimed coach profile: Reuben Williams (reubenw@ucr.edu) → coaches/reubenw
+✔ Created unclaimed coach profile: Matthew Musselman (matthew.musselman@ucr.edu) → coaches/matthew.musselman
+✔ Created unclaimed coach profile: Tim Cupello (tim.cupello@ucr.edu) → coaches/tim.cupello
+✔ Created unclaimed coach profile: Chris Volk (cvolk@ucr.edu) → coaches/cvolk
+✔ Created unclaimed coach profile: Romario Lomeli (romario.lomeli@ucr.edu) → coaches/romario.lomeli
+✔ Created unclaimed coach profile: Tony Huerta (jose.a.huerta@ucr.edu) → coaches/jose.a.huerta
+✔ Created unclaimed coach profile: Robert Pearson (robert.pearson@ucr.edu) → coaches/robert.pearson
+✔ Created unclaimed coach profile: Bobby Kielty (robert.kielty@ucr.edu) → coaches/robert.kielty
+✔ Created unclaimed coach profile: Eric Fremd (eric.fremd@ucr.edu) → coaches/eric.fremd
+✔ Created unclaimed coach profile: Fatimat Yusuf-Olukoju (fatimat.yusufolukoju2@ucr.edu) → coaches/fatimat.yusufolukoju2
+✔ Created unclaimed coach profile: Brittney Matta (brittney.matta@ucr.edu) → coaches/brittney.matta
+✔ Created unclaimed coach profile: Nick Sanchez (nicholas.sanchez@ucr.edu) → coaches/nicholas.sanchez
+✔ Created unclaimed coach profile: Brad Langston (john.langston@ucr.edu) → coaches/john.langston
+✔ Created unclaimed coach profile: Jewelyn Huth (jewelyn.huth@ucr.edu) → coaches/jewelyn.huth
+✔ Created unclaimed coach profile: Najé Murray (naje.murray@ucr.edu) → coaches/naje.murray
+✔ Created unclaimed coach profile: Natasha Smith (natasha.smith@ucr.edu) → coaches/natasha.smith
+✔ Created unclaimed coach profile: Mike Dibbini (mike.dibbini@ucr.edu) → coaches/mike.dibbini
+✔ Created unclaimed coach profile: Gerardo Hidalgo (gerardo.hidalgo@ucr.edu) → coaches/gerardo.hidalgo
+✔ Created unclaimed coach profile: Branden Higa (branden.higa@ucr.edu) → coaches/branden.higa
+✔ Created unclaimed coach profile: Desiree Sukhov (desiree.sukhov@ucr.edu) → coaches/desiree.sukhov
+✔ Created unclaimed coach profile: Maurice Torres (maurice.torres@ucr.edu) → coaches/maurice.torres
+✔ Created unclaimed coach profile: Jennifer Long (coachjenlong@aol.com) → coaches/coachjenlong
+✔ Created unclaimed coach profile: Daniel Marshall (dlmarshall@sdsu.edu) → coaches/dlmarshall | Phone: (619) 594-7779
+✔ Created unclaimed coach profile: Kevin Vance (goaztecsbaseball@sdsu.edu) → coaches/goaztecsbaseball
+✔ Created unclaimed coach profile: Tyler Holt (taholt@sdsu.edu) → coaches/taholt
+✔ Created unclaimed coach profile: Assistant Coach (bpmcdonald@sdsu.edu) → coaches/bpmcdonald
+✔ Created unclaimed coach profile: Brian Dutcher (headcoachdutcher@sdsu.edu) → coaches/headcoachdutcher
+✔ Created unclaimed coach profile: Assistant Coach (dvelasqu@sdsu.edu) → coaches/dvelasqu
+✔ Created unclaimed coach profile: JayDee Luster (jluster2@sdsu.edu) → coaches/jluster2
+✔ Created unclaimed coach profile: Ryan Badrtalei (rbadrtalei@sdsu.edu) → coaches/rbadrtalei
+✔ Created unclaimed coach profile: Head Coach (aztecwbb@sdsu.edu) → coaches/aztecwbb
+✔ Created unclaimed coach profile: Kellie Lewis (klewis5@sdsu.edu) → coaches/klewis5
+✔ Created unclaimed coach profile: Gregg Gottlieb (ggottlieb@sdsu.edu) → coaches/ggottlieb
+🔄 Updating unclaimed profile for sburrell@sdsu.edu
+✔ Updated unclaimed coach profile: Shelia Burrell (sburrell@sdsu.edu) → coaches/sburrell | Phone: (619) 594-5514
+✔ Created unclaimed coach profile: Sean Lewis (sdsufootball@sdsu.edu) → coaches/sdsufootball | Phone: (619) 594-7197
+✔ Created unclaimed coach profile: Josh Gliege (jgliege@sdsu.edu) → coaches/jgliege | Phone: (619) 594-4334
+✔ Created unclaimed coach profile: Head Coach (ldobashi@sdsu.edu) → coaches/ldobashi | Phone: (619) 594-7665
+✔ Created unclaimed coach profile: Sandy Choi (hchoi3@sdsu.edu) → coaches/hchoi3 | Phone: (619) 594-7665
+✔ Created unclaimed coach profile: Kylee White (kylee.white@sdsu.edu) → coaches/kylee.white | Phone: (619) 594-6548
+🔄 Updating unclaimed profile for bjones@sdsu.edu
+✔ Updated unclaimed coach profile: Brandi Padilla (bjones@sdsu.edu) → coaches/bjones | Phone: (619) 594-6548
+✔ Created unclaimed coach profile: Rob Bray (rbrayjr@sdsu.edu) → coaches/rbrayjr | Phone: (619) 594-6548
+✔ Created unclaimed coach profile: Ryan Hopkins (aztecmenssoccer@sdsu.edu) → coaches/aztecmenssoccer
+🔄 Updating unclaimed profile for adubois@sdsu.edu
+✔ Updated unclaimed coach profile: Adrian Dubois (adubois@sdsu.edu) → coaches/adubois | Phone: (619) 594-0463
+✔ Created unclaimed coach profile: David Diaz (dediaz@sdsu.edu) → coaches/dediaz
+✔ Created unclaimed coach profile: Associate Head (chassion.griggs@sdsu.edu) → coaches/chassion.griggs | Phone: (619) 594-1916
+✔ Created unclaimed coach profile: Louis Hunt (lhunt@sdsu.edu) → coaches/lhunt
+✔ Created unclaimed coach profile: Sean Williams (swilliams11@sdsu.edu) → coaches/swilliams11
+✔ Created unclaimed coach profile: Nuveman Head (snuveman@sdsu.edu) → coaches/snuveman | Phone: (619) 594-5853
+✔ Created unclaimed coach profile: Caitlin Grimes (crgrimes@sdsu.edu) → coaches/crgrimes
+✔ Created unclaimed coach profile: Nickles- Assistant (mnickles@sdsu.edu) → coaches/mnickles
+✔ Created unclaimed coach profile: Mike Shrader (mshrader@sdsu.edu) → coaches/mshrader | Phone: (619) 594-5883
+✔ Created unclaimed coach profile: Joe Spahn (jspahn@sdsu.edu) → coaches/jspahn
+✔ Created unclaimed coach profile: Diving Coach (rmcdonald@sdsu.edu) → coaches/rmcdonald | Phone: (619) 594-0395
+✔ Created unclaimed coach profile: Gene Carswell (carswell@sdsu.edu) → coaches/carswell | Phone: (619) 594-5084
+✔ Created unclaimed coach profile: Jeff Thomsen (jthomsen@sdsu.edu) → coaches/jthomsen | Phone: (619) 594-5713
+✔ Created unclaimed coach profile: Nicolas Vinel (nvinel@sdsu.edu) → coaches/nvinel | Phone: (619) 594-5900
+✔ Created unclaimed coach profile: Dylan Parsley (dparsley@sdsu.edu) → coaches/dparsley
+✔ Created unclaimed coach profile: Brent Hilliard (bhilliard@sdsu.edu) → coaches/bhilliard | Phone: (619) 594-5064
+✔ Created unclaimed coach profile: Assistant Coach (stimmons2@sdsu.edu) → coaches/stimmons2
+✔ Created unclaimed coach profile: Dana Ochsner (dochsner@sdsu.edu) → coaches/dochsner | Phone: (619) 594-0649
+✔ Created unclaimed coach profile: Brooke Enners (benners@usfca.edu) → coaches/benners
+✔ Created unclaimed coach profile: Jackson Shumway (jshumway@usfca.edu) → coaches/jshumway
+✔ Created unclaimed coach profile: Bryan Fink (bfink2@usfca.edu) → coaches/bfink2
+✔ Created unclaimed coach profile: Nathan Culbreath (nculbreath@usfca.edu) → coaches/nculbreath
+✔ Created unclaimed coach profile: Major Arcangel-Corpuz (mbarcangelcorpuz@usfca.edu) → coaches/mbarcangelcorpuz
+✔ Created unclaimed coach profile: Michael Plank (mplank@usfca.edu) → coaches/mplank
+✔ Created unclaimed coach profile: Jay Duncan (jduncan3@usfca.edu) → coaches/jduncan3
+✔ Created unclaimed coach profile: Kyle Bankhead (kbankhead@usfca.edu) → coaches/kbankhead
+✔ Created unclaimed coach profile: Frankie Ferrari (fferrari@usfca.edu) → coaches/fferrari
+✔ Created unclaimed coach profile: Molly Goodenbour (mcgoodenbour@usfca.edu) → coaches/mcgoodenbour
+✔ Created unclaimed coach profile: Janell Jones (jjones15@usfca.edu) → coaches/jjones15
+✔ Created unclaimed coach profile: Isaac Lu (slu27@usfca.edu) → coaches/slu27
+✔ Created unclaimed coach profile: Ryan Yablonsky (ryablonsky@usfca.edu) → coaches/ryablonsky
+✔ Created unclaimed coach profile: Rob DiToma (rditoma@usfca.edu) → coaches/rditoma
+✔ Created unclaimed coach profile: Erik Supplee (esupplee@usfca.edu) → coaches/esupplee
+✔ Created unclaimed coach profile: Jon Garvey (jgarvey5@usfca.edu) → coaches/jgarvey5
+✔ Created unclaimed coach profile: Cameron Rowland (crowland@usfca.edu) → coaches/crowland
+✔ Created unclaimed coach profile: Emily Cook (ecook3@usfca.edu) → coaches/ecook3
+✔ Created unclaimed coach profile: John Castillo (jcastillo17@usfca.edu) → coaches/jcastillo17
+✔ Created unclaimed coach profile: Jordan Carpenter (jcarpenter6@usfca.edu) → coaches/jcarpenter6
+✔ Created unclaimed coach profile: Sierra Brill (sbrill2@usfca.edu) → coaches/sbrill2
+✔ Created unclaimed coach profile: Rich Marcello (rmarcello@usfca.edu) → coaches/rmarcello
+✔ Created unclaimed coach profile: Jalen Griffin (jrgriffin2@usfca.edu) → coaches/jrgriffin2
+✔ Created unclaimed coach profile: Michael Farley (mfarley2@usfca.edu) → coaches/mfarley2
+✔ Created unclaimed coach profile: Sara Doell (sdoell@usfca.edu) → coaches/sdoell
+✔ Created unclaimed coach profile: Chris Brown (cbrown14@usfca.edu) → coaches/cbrown14
+✔ Created unclaimed coach profile: Sam Reynolds (sreynolds1@usfca.edu) → coaches/sreynolds1
+✔ Created unclaimed coach profile: Robbie Rix (rrix@usfca.edu) → coaches/rrix
+✔ Created unclaimed coach profile: Shane Watkins (swatkins@usfca.edu) → coaches/swatkins
+✔ Created unclaimed coach profile: Pinder Nijjar (pnijjar@usfca.edu) → coaches/pnijjar
+✔ Created unclaimed coach profile: Alexis Mata (amata4@usfca.edu) → coaches/amata4
+✔ Created unclaimed coach profile: Halle Bissin (hrbissin1@usfca.edu) → coaches/hrbissin1
+✔ Created unclaimed coach profile: Lauren Frohan (lbfrohan@usfca.edu) → coaches/lbfrohan
+✔ Created unclaimed coach profile: Gina Kehr (gkehr@usfca.edu) → coaches/gkehr
+✔ Created unclaimed coach profile: Diogo Silva (dsilva7@usfca.edu) → coaches/dsilva7
+✔ Created unclaimed coach profile: Jocelyn Garcia (jgarcia73@usfca.edu) → coaches/jgarcia73
+✔ Created unclaimed coach profile: Kelly Luz (kaluz@dons.usfca.edu) → coaches/kaluz
+✔ Created unclaimed coach profile: Hugo Gomes (handrademontenegrogo@usfca.edu) → coaches/handrademontenegrogo
+✔ Created unclaimed coach profile: Alex Lopez, (alex.lopez@csueastbay.edu) → coaches/alex.lopez
+✔ Created unclaimed coach profile: Mike Cummins (mike.cummins@csueastbay.edu) → coaches/mike.cummins
+✔ Created unclaimed coach profile: Matt Page (matt.page@csueastbay.edu) → coaches/matt.page
+✔ Created unclaimed coach profile: Cole Coffey (cole.coffey@csueastbay.edu) → coaches/cole.coffey
+✔ Created unclaimed coach profile: Enrique Nunez (enrique.nunez@csueastbay.edu) → coaches/enrique.nunez
+✔ Created unclaimed coach profile: Bryan Rooney (bryan.rooney@csueastbay.edu) → coaches/bryan.rooney
+✔ Created unclaimed coach profile: Mikey Eggleton (michael.eggleton@csueastbay.edu) → coaches/michael.eggleton
+✔ Created unclaimed coach profile: Russell Payne (russell.payne@csueastbay.edu) → coaches/russell.payne
+✔ Created unclaimed coach profile: Craig Ashmore (craig.ashmore@csueastbay.edu) → coaches/craig.ashmore
+✔ Created unclaimed coach profile: Bryce Duncan (bryce.duncan@csueastbay.edu) → coaches/bryce.duncan
+✔ Created unclaimed coach profile: Jenny Thigpin (jenny.thigpin@csueastbay.edu) → coaches/jenny.thigpin
+✔ Created unclaimed coach profile: Miles Brookins (miles.brookins@csueastbay.edu) → coaches/miles.brookins
+✔ Created unclaimed coach profile: Naomi Hunt (naomi.hunt@csueastbay.edu) → coaches/naomi.hunt
+✔ Created unclaimed coach profile: Deborah Ayres (deborah.ayres@csueastbay.edu) → coaches/deborah.ayres
+✔ Created unclaimed coach profile: Norm Alston (norman.alston@csueastbay.edu) → coaches/norman.alston
+✔ Created unclaimed coach profile: Ayla Granados (ayla.granados@csueastbay.edu) → coaches/ayla.granados
+✔ Created unclaimed coach profile: Alan Sue (alan.sue@csueastbay.edu) → coaches/alan.sue
+✔ Created unclaimed coach profile: Chris Oetinger (christopher.oetinger@csueastbay.edu) → coaches/christopher.oetinger
+✔ Created unclaimed coach profile: Arrianna Custodio (arrianna.custodio@csueastbay.edu) → coaches/arrianna.custodio
+✔ Created unclaimed coach profile: Michael Haswell (michael.haswell@csueastbay.edu) → coaches/michael.haswell
+✔ Created unclaimed coach profile: Michael Hannon (michael.hannon2@csueastbay.edu) → coaches/michael.hannon2
+✔ Created unclaimed coach profile: Kevin Esquivel (kevin.esquivel@csueastbay.edu) → coaches/kevin.esquivel
+✔ Created unclaimed coach profile: Evan Sanchez (evan.guidicisanchez@csueastbay.edu) → coaches/evan.guidicisanchez
+✔ Created unclaimed coach profile: Dannylo Ayllon (dannylo.ayllon@csueastbay.edu) → coaches/dannylo.ayllon
+✔ Created unclaimed coach profile: Anne Whipple (anne.whipple@csueastbay.edu) → coaches/anne.whipple
+✔ Created unclaimed coach profile: Jessica Clinton (jessica.clinton@csueastbay.edu) → coaches/jessica.clinton
+✔ Created unclaimed coach profile: Claire Sua-Amundson (claire.amundson@csueastbay.edu) → coaches/claire.amundson
+✔ Created unclaimed coach profile: Abby Greer (abby.greer@csueastbay.edu) → coaches/abby.greer
+✔ Created unclaimed coach profile: Steve Rianda (steve.rianda@csueastbay.edu) → coaches/steve.rianda
+✔ Created unclaimed coach profile: Shane Pelton (shane.pelton@csueastbay.edu) → coaches/shane.pelton
+✔ Created unclaimed coach profile: Erin Sanchez (erin.sanchez@csueastbay.edu) → coaches/erin.sanchez
+🔄 Updating unclaimed profile for kimberly.lambert@csueastbay.edu
+✔ Updated unclaimed coach profile: Kimberly Lambert (kimberly.lambert@csueastbay.edu) → coaches/kimberly.lambert
+✔ Created unclaimed coach profile: Ashia Joseph (ashia.joseph@csueastbay.edu) → coaches/ashia.joseph
+✔ Created unclaimed coach profile: MacKenzie Draper (mackenzie.draper@csueastbay.edu) → coaches/mackenzie.draper
+✔ Created unclaimed coach profile: Frank Craska (fcraska@caltech.edu) → coaches/fcraska | Phone: (626) 395-3263
+✔ Created unclaimed coach profile: Oliver Eslinger (hoopitup@caltech.edu) → coaches/hoopitup | Phone: (626) 395-3264
+✔ Created unclaimed coach profile: Seamus McKiernan (seamusm@caltech.edu) → coaches/seamusm
+✔ Created unclaimed coach profile: Annie Tarakchian (atarakch@caltech.edu) → coaches/atarakch | Phone: (626) 395-3674
+✔ Created unclaimed coach profile: Madison Quan (mquan@caltech.edu) → coaches/mquan
+✔ Created unclaimed coach profile: Kelli Blake (krblake@caltech.edu) → coaches/krblake | Phone: (626) 395-3260
+✔ Created unclaimed coach profile: Chelsea Groves (cgroves@caltech.edu) → coaches/cgroves
+✔ Created unclaimed coach profile: Duncan Gillis (dgillis@caltech.edu) → coaches/dgillis | Phone: (626) 395-3266
+✔ Created unclaimed coach profile: Rockne DeCoster (rockne@caltech.edu) → coaches/rockne
+✔ Created unclaimed coach profile: Scott Wilson (sdwilson@caltech.edu) → coaches/sdwilson | Phone: (626) 395-1296
+✔ Created unclaimed coach profile: Andrew Brabson (abrabson@caltech.edu) → coaches/abrabson | Phone: (626) 395-6853
+✔ Created unclaimed coach profile: Frances Jobes (fjobes@caltech.edu) → coaches/fjobes
+✔ Created unclaimed coach profile: Alys Lindsay (alindsay@caltech.edu) → coaches/alindsay
+✔ Created unclaimed coach profile: Adam Clark (aclark2@caltech.edu) → coaches/aclark2 | Phone: (626) 395-3247
+✔ Created unclaimed coach profile: Cedric Hill (chill@caltech.edu) → coaches/chill
+🔄 Updating unclaimed profile for tgardner@caltech.edu
+✔ Updated unclaimed coach profile: Tom Gardner (tgardner@caltech.edu) → coaches/tgardner | Phone: (626) 395-4375
+✔ Created unclaimed coach profile: Matt Delotto (mdelotto@caltech.edu) → coaches/mdelotto
+✔ Created unclaimed coach profile: Jon Bonafede (bonafede@caltech.edu) → coaches/bonafede | Phone: (626) 395-3261
+✔ Created unclaimed coach profile: Rayne Lopez (rnlopez@caltech.edu) → coaches/rnlopez
+✔ Created unclaimed coach profile: Robin Frohlich (rfrohlich@simpsonu.edu) → coaches/rfrohlich
+✔ Created unclaimed coach profile: Wilson Kessel (wkessel@simpsonu.edu) → coaches/wkessel | Phone: (206) 799-1423
+✔ Created unclaimed coach profile: Dan Tating (dtating@simpsonu.edu) → coaches/dtating | Phone: (530) 226-4184
+✔ Created unclaimed coach profile: Paul Barrington (pbarrington@simpsonu.edu) → coaches/pbarrington
+✔ Created unclaimed coach profile: David Cone (dcone@simpsonu.edu) → coaches/dcone | Phone: (530) 226-4185
+✔ Created unclaimed coach profile: Jordan Spaschak (jspaschak@simpsonu.edu) → coaches/jspaschak
+✔ Created unclaimed coach profile: Matt Doyon (ddoyon@simpsonu.edu) → coaches/ddoyon
+🔄 Updating unclaimed profile for ataylor@simpsonu.edu
+✔ Updated unclaimed coach profile: Anthony Taylor (ataylor@simpsonu.edu) → coaches/ataylor
+✔ Created unclaimed coach profile: Michael Bray (mbray@simpsonu.edu) → coaches/mbray
+✔ Created unclaimed coach profile: Lance Jacobs (ljacobs@simpsonu.edu) → coaches/ljacobs
+✔ Created unclaimed coach profile: Niki Burbank (nburbank@simpsonu.edu) → coaches/nburbank
+✔ Created unclaimed coach profile: Jonathan Hall (jhall@simpsonu.edu) → coaches/jhall
+✔ Created unclaimed coach profile: Hayden Barnhurst (hbarnhurst@simpsonu.edu) → coaches/hbarnhurst
+✔ Created unclaimed coach profile: Shawn Daniel (sdaniel@simpsonu.edu) → coaches/sdaniel | Phone: (530) 226-4505
+✔ Created unclaimed coach profile: Garrett Sandow (gsandow@simpsonu.edu) → coaches/gsandow
+✔ Created unclaimed coach profile: Andrew Motuapuaka (amotuapuaka@simpsonu.edu) → coaches/amotuapuaka
+✔ Created unclaimed coach profile: Trevor Utter (tutter@simpsonu.edu) → coaches/tutter | Phone: (406) 291-1154
+✔ Created unclaimed coach profile: Manny Casados (coachcasadossu@gmail.com) → coaches/coachcasadossu | Phone: (530) 526-0189
+✔ Created unclaimed coach profile: Jason Deaver (jdeaver@simpsonu.edu) → coaches/jdeaver | Phone: (530)524-9090
+✔ Created unclaimed coach profile: Wayne Stower (wstower@simpsonu.edu) → coaches/wstower | Phone: (530) 226-4530
+✔ Created unclaimed coach profile: Tom Ackernecht (tackernect@simpsonu.edu) → coaches/tackernect
+✔ Created unclaimed coach profile: Raegan Breedlove (rbreedlove2020@yahoo.com) → coaches/rbreedlove2020 | Phone: (530)510-1792
+✔ Created unclaimed coach profile: Gary Weaver (Gweaver@simpsonu.edu) → coaches/Gweaver | Phone: (530) 226-4509
+✔ Created unclaimed coach profile: Daniel Morales (dmorales@simpsonu.edu) → coaches/dmorales | Phone: (307) 321-4581
+✔ Created unclaimed coach profile: Milton Carrera (mcarrera@simpsonu.edu) → coaches/mcarrera | Phone: (530) 366-4410
+✔ Created unclaimed coach profile: Victor Torres (victort_70@yahoo.com) → coaches/victort_70 | Phone: (530)941-8833
+✔ Created unclaimed coach profile: Felix Moreno (fmoreno@simpsonu.edu) → coaches/fmoreno | Phone: (530)933-1490
+✔ Created unclaimed coach profile: Steven Brasher (sbrasher@simpsonu.edu) → coaches/sbrasher | Phone: (916) 837-1553
+✔ Created unclaimed coach profile: Rodney Forseth (rforseth@simpsonu.edu) → coaches/rforseth | Phone: (530) 524-5833
+🔄 Updating unclaimed profile for dwilliams@simpsonu.edu
+✔ Updated unclaimed coach profile: Don Williams (dwilliams@simpsonu.edu) → coaches/dwilliams
+✔ Created unclaimed coach profile: Erin Razo (erazo@simpsonu.edu) → coaches/erazo
+✔ Created unclaimed coach profile: Alex Cost (alcost@ucsd.edu) → coaches/alcost
+✔ Created unclaimed coach profile: Tayler Cullen (tcullen@ucsd.edu) → coaches/tcullen
+✔ Created unclaimed coach profile: Patrick McLeroy (pmcleroy@ucsd.edu) → coaches/pmcleroy
+✔ Created unclaimed coach profile: Jonathon Scott (joscott@ucsd.edu) → coaches/joscott
+✔ Created unclaimed coach profile: Aysia Shellmire (ashellmire@ucsd.edu) → coaches/ashellmire
+✔ Created unclaimed coach profile: Angelo Villano (avillano@ucsd.edu) → coaches/avillano
+✔ Created unclaimed coach profile: Abbie Cooley (abcooley@ucsd.edu) → coaches/abcooley
+✔ Created unclaimed coach profile: Deija James (dmjames@ucsd.edu) → coaches/dmjames
+✔ Created unclaimed coach profile: Eric Newman (ecnewman@ucsd.edu) → coaches/ecnewman
+✔ Created unclaimed coach profile: Matt Harvey (mharvey@ucsd.edu) → coaches/mharvey
+✔ Created unclaimed coach profile: Justin Beck (jrbeck@ucsd.edu) → coaches/jrbeck
+✔ Created unclaimed coach profile: Tyler Nordgren (tenordgren@ucsd.edu) → coaches/tenordgren
+✔ Created unclaimed coach profile: Clint Allard (mbball@ucsd.edu) → coaches/mbball
+✔ Created unclaimed coach profile: Steven Aldridge (staldridge@ucsd.edu) → coaches/staldridge
+✔ Created unclaimed coach profile: Daniel Eberhardt (djeberhardt@ucsd.edu) → coaches/djeberhardt
+✔ Created unclaimed coach profile: Skye Ettin (settin@ucsd.edu) → coaches/settin
+✔ Created unclaimed coach profile: Rich Shayewitz (rshayewitz@ucsd.edu) → coaches/rshayewitz
+✔ Created unclaimed coach profile: Heidi VanDerveer (hvanderveer@ucsd.edu) → coaches/hvanderveer
+✔ Created unclaimed coach profile: Vanessa Nygaard (vnygaard@ucsd.edu) → coaches/vnygaard
+✔ Created unclaimed coach profile: Britinee Yasukochi (byasukochi@ucsd.edu) → coaches/byasukochi
+✔ Created unclaimed coach profile: PhyNique Allen (pallen@ucsd.edu) → coaches/pallen
+✔ Created unclaimed coach profile: Alexandria Young (ary004@ucsd.edu) → coaches/ary004
+✔ Created unclaimed coach profile: Miranda Seto (miseto@ucsd.edu) → coaches/miseto
+✔ Created unclaimed coach profile: Nate Garcia (ngarcia@ucsd.edu) → coaches/ngarcia
+✔ Created unclaimed coach profile: Meriah Earle (mmearle@ucsd.edu) → coaches/mmearle
+✔ Created unclaimed coach profile: Juan Ignacio (jic330@ucsd.edu) → coaches/jic330
+✔ Created unclaimed coach profile: Diego Calderon (dcalderonbartolome@ucsd.edu) → coaches/dcalderonbartolome
+✔ Created unclaimed coach profile: Konstantin Lokhanov (klokhanov@ucsd.edu) → coaches/klokhanov
+✔ Created unclaimed coach profile: Eric Lorenzo (elorenzoalfonso@ucsd.edu) → coaches/elorenzoalfonso
+✔ Created unclaimed coach profile: Vladimir Prieto (vprietocordova@ucsd.edu) → coaches/vprietocordova
+✔ Created unclaimed coach profile: Eduard Zilinsky (edzilinskiy@ucsd.edu) → coaches/edzilinskiy
+✔ Created unclaimed coach profile: Fred Hanover (fhanover@ucsd.edu) → coaches/fhanover
+✔ Created unclaimed coach profile: Peter Simeone (psimeone@ucsd.edu) → coaches/psimeone
+✔ Created unclaimed coach profile: Patrick Hurley (pahurley@ucsd.edu) → coaches/pahurley
+✔ Created unclaimed coach profile: Nicole Ahadian (niahadian@ucsd.edu) → coaches/niahadian
+✔ Created unclaimed coach profile: Colin Truex (ctruex@ucsd.edu) → coaches/ctruex
+✔ Created unclaimed coach profile: Kimberly Dale (kdale@ucsd.edu) → coaches/kdale
+✔ Created unclaimed coach profile: Toby Johnson (toj004@ucsd.edu) → coaches/toj004
+✔ Created unclaimed coach profile: Jamie Press (jspress@ucsd.edu) → coaches/jspress
+✔ Created unclaimed coach profile: Jon Pascale (jpascale@ucsd.edu) → coaches/jpascale
+✔ Created unclaimed coach profile: Ryan Hernandez (ryanhernandez@ucsd.edu) → coaches/ryanhernandez
+✔ Created unclaimed coach profile: Michael D’Arrigo (mdarrigo@ucsd.edu) → coaches/mdarrigo
+✔ Created unclaimed coach profile: Brett Jones (brj009@ucsd.edu) → coaches/brj009
+✔ Created unclaimed coach profile: Kristin Jones (k3jones@ucsd.edu) → coaches/k3jones
+✔ Created unclaimed coach profile: Trent Painter (tpainter@ucsd.edu) → coaches/tpainter
+✔ Created unclaimed coach profile: Nikki Palmer (n2palmer@ucsd.edu) → coaches/n2palmer
+✔ Created unclaimed coach profile: Brittney Fernandez (big001@ucsd.edu) → coaches/big001
+✔ Created unclaimed coach profile: Kiarra Crockett-Pope (kcrockettpope@ucsd.edu) → coaches/kcrockettpope
+✔ Created unclaimed coach profile: Marko Djordjevic (marko@ucsd.edu) → coaches/marko
+✔ Created unclaimed coach profile: Bobby Smith (ros018@ucsd.edu) → coaches/ros018
+✔ Created unclaimed coach profile: Cassie Phillips (c8phillips@ucsd.edu) → coaches/c8phillips
+✔ Created unclaimed coach profile: Sophie Francis (sofrancis@ucsd.edu) → coaches/sofrancis
+✔ Created unclaimed coach profile: Timmer Willing (twilling@ucsd.edu) → coaches/twilling
+✔ Created unclaimed coach profile: Jake De (jadevries@ucsd.edu) → coaches/jadevries
+✔ Created unclaimed coach profile: Matthew Hollingworth (mahollingworth@ucsd.edu) → coaches/mahollingworth
+✔ Created unclaimed coach profile: Sebastian Bader (sbader@ucsd.edu) → coaches/sbader
+✔ Created unclaimed coach profile: Paola Diaz (Pdiazderegules@ucsd.edu) → coaches/Pdiazderegules
+✔ Created unclaimed coach profile: Kim Graham-Miller (kgrahammiller@ucsd.edu) → coaches/kgrahammiller
+✔ Created unclaimed coach profile: Randy Bungard (rbungard@ucsd.edu) → coaches/rbungard
+✔ Created unclaimed coach profile: Dylan Austin (dyaustin@ucsd.edu) → coaches/dyaustin
+✔ Created unclaimed coach profile: Brad Rostratter (brostratter@ucsd.edu) → coaches/brostratter
+✔ Created unclaimed coach profile: Jorge Collazo (jocollazo@ucsd.edu) → coaches/jocollazo
+✔ Created unclaimed coach profile: Noah Cotterman (ncotterman@ucsd.edu) → coaches/ncotterman
+✔ Created unclaimed coach profile: Melanie Greene (megreene@ucsd.edu) → coaches/megreene
+✔ Created unclaimed coach profile: Rafael Asvolinsque (rcamposasvolinsque@ucsd.edu) → coaches/rcamposasvolinsque
+✔ Created unclaimed coach profile: Kara Barkdoll (kbarkdollcoy@ucsd.edu) → coaches/kbarkdollcoy
+✔ Created unclaimed coach profile: Colton Stone (costone@ucsd.edu) → coaches/costone
+✔ Created unclaimed coach profile: Matt Ustaszewski (mustaszewski@ucsd.edu) → coaches/mustaszewski
+✔ Created unclaimed coach profile: Arman Momdzhyan (armomdzhyan@ucsd.edu) → coaches/armomdzhyan
+✔ Created unclaimed coach profile: Glenn Busch (gjbusch@ucsd.edu) → coaches/gjbusch
+✔ Created unclaimed coach profile: Sarah Lizotte (salizotte@ucsd.edu) → coaches/salizotte
+✔ Created unclaimed coach profile: Academic Coach (danica.burge@sjsu.edu) → coaches/danica.burge
+✔ Created unclaimed coach profile: Anna Johnson (Anna.johnson01@sjsu.edu) → coaches/Anna.johnson01
+✔ Created unclaimed coach profile: Academic Coach (therren.wilburn@sjsu.edu) → coaches/therren.wilburn
+✔ Created unclaimed coach profile: Brad Sanfilippo (brad.sanfilippo@sjsu.edu) → coaches/brad.sanfilippo
+✔ Created unclaimed coach profile: Thomas Walker (thomas.walker@sjsu.edu) → coaches/thomas.walker
+✔ Created unclaimed coach profile: Joshua Pike (josh.pike@sjsu.edu) → coaches/josh.pike
+✔ Created unclaimed coach profile: Jarron Silva (jarron.silva@sjsu.edu) → coaches/jarron.silva
+✔ Created unclaimed coach profile: Tim Marrion (tim.marrion@sjsu.edu) → coaches/tim.marrion
+✔ Created unclaimed coach profile: Assistant Coach (damany.hendrix@sjsu.edu) → coaches/damany.hendrix
+✔ Created unclaimed coach profile: Jeff Strohm (jeff.strohm@sjsu.edu) → coaches/jeff.strohm
+✔ Created unclaimed coach profile: Ed Gipson (ed.gipson@sjsu.edu) → coaches/ed.gipson
+✔ Created unclaimed coach profile: Jack Townsend (jack.townsend@sjsu.edu) → coaches/jack.townsend
+✔ Created unclaimed coach profile: Head Coach (jonas.chatterton@sjsu.edu) → coaches/jonas.chatterton
+✔ Created unclaimed coach profile: Emily Codding (emily.codding@sjsu.edu) → coaches/emily.codding
+✔ Created unclaimed coach profile: Jaime Gluesing (jaime.gluesing@sjsu.edu) → coaches/jaime.gluesing
+✔ Created unclaimed coach profile: Gary Hodge (gary.hodge@sjsu.edu) → coaches/gary.hodge
+✔ Created unclaimed coach profile: Head Cheer (heather.gallegos@sjsu.edu) → coaches/heather.gallegos
+✔ Created unclaimed coach profile: David Verburg (david.verburg@sjsu.edu) → coaches/david.verburg
+✔ Created unclaimed coach profile: Head Coach (clesi.crochet@sjsu.edu) → coaches/clesi.crochet
+✔ Created unclaimed coach profile: Greg Burns (gregory.burns@sjsu.edu) → coaches/gregory.burns
+✔ Created unclaimed coach profile: John Estes (john.estes@sjsu.edu) → coaches/john.estes
+✔ Created unclaimed coach profile: Josh Irvin (joshua.irvin@sjsu.edu) → coaches/joshua.irvin
+✔ Created unclaimed coach profile: Al Lapuaho (al.lapuaho@sjsu.edu) → coaches/al.lapuaho
+✔ Created unclaimed coach profile: Michael Smith (michael.smith@sjsu.edu) → coaches/michael.smith
+✔ Created unclaimed coach profile: Wide Receivers (billyray.stutzmann@sjsu.edu) → coaches/billyray.stutzmann
+✔ Created unclaimed coach profile: John Kennaday (john.kennaday@sjsu.edu) → coaches/john.kennaday | Phone: 924-1251
+✔ Created unclaimed coach profile: Dana Dormann (dana.dormann@sjsu.edu) → coaches/dana.dormann
+✔ Created unclaimed coach profile: Lane Pulliam (lane.pulliam@sjsu.edu) → coaches/lane.pulliam
+✔ Created unclaimed coach profile: Joanne Bowers (joanne.bowers@sjsu.edu) → coaches/joanne.bowers
+✔ Created unclaimed coach profile: Neal Gallant (neal.gallant@sjsu.edu) → coaches/neal.gallant
+✔ Created unclaimed coach profile: Tucker McClure (tucker.mcclure@sjsu.edu) → coaches/tucker.mcclure
+✔ Created unclaimed coach profile: Simon Tobin (simon.tobin@sjsu.edu) → coaches/simon.tobin
+✔ Created unclaimed coach profile: Jesus Sanchez (jesus.a.sanchez@sjsu.edu) → coaches/jesus.a.sanchez
+✔ Created unclaimed coach profile: Jamie Reid (jamie.reid@sjsu.edu) → coaches/jamie.reid
+✔ Created unclaimed coach profile: Marcos Oliveira (Marcos.oliveira@sjsu.edu) → coaches/Marcos.oliveira
+✔ Created unclaimed coach profile: Sonia Curvelo (sonia.curvelo@sjsu.edu) → coaches/sonia.curvelo
+✔ Created unclaimed coach profile: Oscar Mendoza (oscar.mendoza@sjsu.edu) → coaches/oscar.mendoza
+✔ Created unclaimed coach profile: Assistant Coach (darriell.franklin@sjsu.edu) → coaches/darriell.franklin
+✔ Created unclaimed coach profile: Interim Goalkeeping (roberto.rodriguez@sjsu.edu) → coaches/roberto.rodriguez
+✔ Created unclaimed coach profile: Head Coach (tammy.lohmann@sjsu.edu) → coaches/tammy.lohmann
+✔ Created unclaimed coach profile: Aaron Moore (aaron.moore@sjsu.edu) → coaches/aaron.moore
+✔ Created unclaimed coach profile: Sage Hopkins (sage.hopkins@sjsu.edu) → coaches/sage.hopkins
+✔ Created unclaimed coach profile: Hailey Grotte (hailey.grotte@sjsu.edu) → coaches/hailey.grotte
+✔ Created unclaimed coach profile: Chad Skorupka (chad.skorupka@sjsu.edu) → coaches/chad.skorupka
+✔ Created unclaimed coach profile: Jovana Babic (jovana.babic@sjsu.edu) → coaches/jovana.babic
+✔ Created unclaimed coach profile: Associate Head (lamont.johnson@sjsu.edu) → coaches/lamont.johnson
+✔ Created unclaimed coach profile: Tianna Madison (tianna.madison@sjsu.edu) → coaches/tianna.madison
+✔ Created unclaimed coach profile: Todd Kress (todd.kress@sjsu.edu) → coaches/todd.kress
+✔ Created unclaimed coach profile: Yazmin Pitpit (yazmin.pitpit@sjsu.edu) → coaches/yazmin.pitpit
+✔ Created unclaimed coach profile: Albert Ahedo (albert.ahedo@sjsu.edu) → coaches/albert.ahedo
+✔ Created unclaimed coach profile: Gabor Sarusi (gabor.sarusi@sjsu.edu) → coaches/gabor.sarusi
+✔ Created unclaimed coach profile: Brad Fry (brad.fry@sjsu.edu) → coaches/brad.fry
+✔ Created unclaimed coach profile: Beth Harberts (beth.harberts@sjsu.edu) → coaches/beth.harberts
+✔ Created unclaimed coach profile: Cristian Tanase (cristianmarian.tanase@sjsu.edu) → coaches/cristianmarian.tanase
+✔ Created unclaimed coach profile: Justin Argenal (justin.argenal@dominican.edu) → coaches/justin.argenal
+✔ Created unclaimed coach profile: Tim LaKose (tim.lakose@dominican.edu) → coaches/tim.lakose
+✔ Created unclaimed coach profile: Mark Lubamersky (mark.lubamersky@dominican.edu) → coaches/mark.lubamersky
+✔ Created unclaimed coach profile: Josh Ault (joshua.ault@dominican.edu) → coaches/joshua.ault
+✔ Created unclaimed coach profile: Josh Morris (josh.morris@dominican.edu) → coaches/josh.morris
+✔ Created unclaimed coach profile: Bobby Grove (robert.grove@dominican.edu) → coaches/robert.grove
+✔ Created unclaimed coach profile: Ricardo Martin (ricardo.martin@dominican.edu) → coaches/ricardo.martin
+✔ Created unclaimed coach profile: Kelly Coffey (kelly.coffey@dominican.edu) → coaches/kelly.coffey
+✔ Created unclaimed coach profile: Juliana Santos (juliana.santos@dominican.edu) → coaches/juliana.santos
+✔ Created unclaimed coach profile: Bob Perales (bob.perales@dominican.edu) → coaches/bob.perales
+✔ Created unclaimed coach profile: Cristina Visico (cristina.visico@dominican.edu) → coaches/cristina.visico
+✔ Created unclaimed coach profile: Tim Loesch (tim.loesch@dominican.edu) → coaches/tim.loesch
+✔ Created unclaimed coach profile: Jacob Murray (jmurray6@ucsc.edu) → coaches/jmurray6
+✔ Created unclaimed coach profile: Matt Malone (marimalo@ucsc.edu) → coaches/marimalo
+✔ Created unclaimed coach profile: Trevis Jackson (trajacks@ucsc.edu) → coaches/trajacks
+✔ Created unclaimed coach profile: Monica Armstrong (mtarmstr@ucsc.edu) → coaches/mtarmstr
+✔ Created unclaimed coach profile: Ahmad Senegal (asenegal@ucsc.edu) → coaches/asenegal
+✔ Created unclaimed coach profile: David Klech (dklech@ucsc.edu) → coaches/dklech
+✔ Created unclaimed coach profile: Delia Mack (delmack@ucsc.edu) → coaches/delmack
+✔ Created unclaimed coach profile: Davis Kepon (dkepon@ucsc.edu) → coaches/dkepon
+✔ Created unclaimed coach profile: Paulette Pera (ppera@ucsc.edu) → coaches/ppera
+✔ Created unclaimed coach profile: Michael Runeare (mnsoccer@ucsc.edu) → coaches/mnsoccer
+✔ Created unclaimed coach profile: David Kamau (dkamau@ucsc.edu) → coaches/dkamau
+✔ Created unclaimed coach profile: Lilia Dosalmas (ldosalma@ucsc.edu) → coaches/ldosalma
+✔ Created unclaimed coach profile: Matthew Crawford (thmcrawf@ucsc.edu) → coaches/thmcrawf
+✔ Created unclaimed coach profile: Hailey Garlich (hgarlich@ucsc.edu) → coaches/hgarlich
+✔ Created unclaimed coach profile: Ariel Rittenhouse (arittenh@ucsc.edu) → coaches/arittenh
+✔ Created unclaimed coach profile: Giovanni Wenzler (gwenzler@ucsc.edu) → coaches/gwenzler
+✔ Created unclaimed coach profile: Ross Pytko (rpytko@ucsc.edu) → coaches/rpytko
+✔ Created unclaimed coach profile: Nyssa Peele (npeele@ucsc.edu) → coaches/npeele
+✔ Created unclaimed coach profile: Savana McDowell (srmcdowe@ucsc.edu) → coaches/srmcdowe
+✔ Created unclaimed coach profile: Chad Koenegstein (ckoenegs@ucsc.edu) → coaches/ckoenegs
+✔ Created unclaimed coach profile: Sam Wittert (swittert@ucsc.edu) → coaches/swittert
+✔ Created unclaimed coach profile: Jake Landel (jlandel@ucsc.edu) → coaches/jlandel
+✔ Created unclaimed coach profile: Trevor Jackson (tpjackso@ucsc.edu) → coaches/tpjackso
+✔ Created unclaimed coach profile: Sam Smith (Samuel.Smith@athletics.ucsb.edu) → coaches/Samuel.Smith
+✔ Created unclaimed coach profile: Spencer Afshari (spencer.afshari@athletics.ucsb.edu) → coaches/spencer.afshari
+✔ Created unclaimed coach profile: Gloria Scipioni (gloria.scipioni@athletics.ucsb.edu) → coaches/gloria.scipioni
+✔ Created unclaimed coach profile: Andrew Checketts (andrew.checketts@athletics.ucsb.edu) → coaches/andrew.checketts
+✔ Created unclaimed coach profile: Matt Fonteno (Matt.Fonteno@athletics.ucsb.edu) → coaches/Matt.Fonteno
+✔ Created unclaimed coach profile: Dylan Jones (Dylan.Jones@athletics.ucsb.edu) → coaches/Dylan.Jones
+✔ Created unclaimed coach profile: Kyle Hunt (kyle.hunt@athletics.ucsb.edu) → coaches/kyle.hunt
+✔ Created unclaimed coach profile: Joe Pasternack (Joe.Pasternack@athletics.ucsb.edu) → coaches/Joe.Pasternack
+✔ Created unclaimed coach profile: Brandon Cyrus (Brandon.Cyrus@athletics.ucsb.edu) → coaches/Brandon.Cyrus
+✔ Created unclaimed coach profile: Brian Eskildsen (brian.eskildsen@athletics.ucsb.edu) → coaches/brian.eskildsen
+✔ Created unclaimed coach profile: Derek Glasser (Derek.Glasser@athletics.ucsb.edu) → coaches/Derek.Glasser
+✔ Created unclaimed coach profile: Brandon Rosenthal (brandon.rosenthal@athletics.ucsb.edu) → coaches/brandon.rosenthal
+✔ Created unclaimed coach profile: Chris Massoletti (Chris.Massoletti@athletics.ucsb.edu) → coaches/Chris.Massoletti
+✔ Created unclaimed coach profile: Jaclyn Rosen (jaclyn.rosen@athletics.ucsb.edu) → coaches/jaclyn.rosen
+✔ Created unclaimed coach profile: Justin Wright (justin.wright@athletics.ucsb.edu) → coaches/justin.wright
+✔ Created unclaimed coach profile: Matthew Harder (matt.harder@athletics.ucsb.edu) → coaches/matt.harder
+✔ Created unclaimed coach profile: Blake Muller (blake.muller@athletics.ucsb.edu) → coaches/blake.muller
+✔ Created unclaimed coach profile: Ryan Brown (ryan.brown@athletics.ucsb.edu) → coaches/ryan.brown
+✔ Created unclaimed coach profile: Geoff Crosby (geoff.crosby@athletics.ucsb.edu) → coaches/geoff.crosby
+✔ Created unclaimed coach profile: PattiSue Plumer (pattisue.plumer@athletics.ucsb.edu) → coaches/pattisue.plumer
+✔ Created unclaimed coach profile: Mitch Modin (mitch.modin@athletics.ucsb.edu) → coaches/mitch.modin
+✔ Created unclaimed coach profile: Charlie Vernoy-Ging (charlie.vernoy@athletics.ucsb.edu) → coaches/charlie.vernoy
+✔ Created unclaimed coach profile: Bill Whitaker (william.whitaker@athletics.ucsb.edu) → coaches/william.whitaker
+✔ Created unclaimed coach profile: Rick McLaughlin (RMcLaughlin@athletics.ucsb.edu) → coaches/RMcLaughlin
+✔ Created unclaimed coach profile: Blaine Nielsen (Blaine.Nielsen@athletics.ucsb.edu) → coaches/Blaine.Nielsen
+✔ Created unclaimed coach profile: Randy DeWeese (randy.deweese@athletics.ucsb.edu) → coaches/randy.deweese
+✔ Created unclaimed coach profile: Jonah Seif (Jonah.Seif@athletics.ucsb.edu) → coaches/Jonah.Seif
+✔ Created unclaimed coach profile: Wolf Wigo (Wolf.Wigo@athletics.ucsb.edu) → coaches/Wolf.Wigo
+✔ Created unclaimed coach profile: James Wolff (james.wolff@athletics.ucsb.edu) → coaches/james.wolff
+✔ Created unclaimed coach profile: Renee Jimenez (reneejimenez@ucsb.edu) → coaches/reneejimenez
+✔ Created unclaimed coach profile: Chelsea Carlisle (chelseacarlisle@ucsb.edu) → coaches/chelseacarlisle
+✔ Created unclaimed coach profile: Dario Frias (dfrias@ucsb.edu) → coaches/dfrias
+✔ Created unclaimed coach profile: Kelsey Forrester (kelseyforrester@ucsb.edu) → coaches/kelseyforrester
+✔ Created unclaimed coach profile: Tina Samaniego (tina.samaniego@athletics.ucsb.edu) → coaches/tina.samaniego
+✔ Created unclaimed coach profile: Paul Stumpf (Paul.Stumpf@athletics.ucsb.edu) → coaches/Paul.Stumpf
+✔ Created unclaimed coach profile: Andrew Montenegro (andrew.montenegro@athletics.ucsb.edu) → coaches/andrew.montenegro
+✔ Created unclaimed coach profile: Patrick Mahon (patrick.mahon@athletics.ucsb.edu) → coaches/patrick.mahon
+✔ Created unclaimed coach profile: Jo Evans (jo.evans@athletics.ucsb.edu) → coaches/jo.evans
+✔ Created unclaimed coach profile: Amy Hayes (amy.hayes@athletics.ucsb.edu) → coaches/amy.hayes
+✔ Created unclaimed coach profile: Rachel Huggins (rachel.huggins@athletics.ucsb.edu) → coaches/rachel.huggins
+✔ Created unclaimed coach profile: Joy Jackson (joy.jackson@athletics.ucsb.edu) → coaches/joy.jackson
+✔ Created unclaimed coach profile: Simon Thibodeau (Simon.Thibodeau@athletics.ucsb.edu) → coaches/Simon.Thibodeau
+✔ Created unclaimed coach profile: Camille Kiss (camillekiss@ucsb.edu) → coaches/camillekiss
+✔ Created unclaimed coach profile: Matt Jones (Matt.Jones@athletics.ucsb.edu) → coaches/Matt.Jones
+✔ Created unclaimed coach profile: Chad Gatzlaff (Chad.Gatzlaff@athletics.ucsb.edu) → coaches/Chad.Gatzlaff
+✔ Created unclaimed coach profile: Kat Chen (kat.chen@athletics.ucsb.edu) → coaches/kat.chen
+✔ Created unclaimed coach profile: Kaeden Noble (knoble@ucsb.edu) → coaches/knoble
+✔ Created unclaimed coach profile: Emma Myall (emma.myall@athletics.ucsb.edu) → coaches/emma.myall
+✔ Created unclaimed coach profile: Jenna Olson (jennaolson@ucsb.edu) → coaches/jennaolson
+✔ Created unclaimed coach profile: Director of (kcallister@calbaptist.edu) → coaches/kcallister
+✔ Created unclaimed coach profile: Head Baseball (cbubaseball@calbaptist.edu) → coaches/cbubaseball
+✔ Created unclaimed coach profile: Assistant Coach (msilberman@calbaptist.edu) → coaches/msilberman
+✔ Created unclaimed coach profile: Assistant Baseball (jaboites@calbaptist.edu) → coaches/jaboites
+✔ Created unclaimed coach profile: Assistant Baseball (mmobbs@calbaptist.edu) → coaches/mmobbs
+✔ Created unclaimed coach profile: Head Men’s (rcroy@calbaptist.edu) → coaches/rcroy
+✔ Created unclaimed coach profile: Associate Head (hasprilla@calbaptist.edu) → coaches/hasprilla
+✔ Created unclaimed coach profile: Assistant Men’s (rwellman@calbaptist.edu) → coaches/rwellman
+✔ Created unclaimed coach profile: Assistant Men’s (rhoward@calbaptist.edu) → coaches/rhoward
+✔ Created unclaimed coach profile: Assistant Men’s (dlippi@calbaptist.edu) → coaches/dlippi
+✔ Created unclaimed coach profile: Assistant Men’s (scclark@calbaptist.edu) → coaches/scclark
+✔ Created unclaimed coach profile: Head Women’s (jrolson@calbaptist.edu) → coaches/jrolson
+🔄 Updating unclaimed profile for bchambers@calbaptist.edu
+✔ Updated unclaimed coach profile: Associate Head (bchambers@calbaptist.edu) → coaches/bchambers
+✔ Created unclaimed coach profile: Assistant Women’s (kgouveia@calbaptist.edu) → coaches/kgouveia
+✔ Created unclaimed coach profile: Assistant Women’s (kkeizer@calbaptist.edu) → coaches/kkeizer
+✔ Created unclaimed coach profile: Creative Content (gblake@calbaptist.edu) → coaches/gblake
+🔄 Updating unclaimed profile for jryan@calbaptist.edu
+✔ Updated unclaimed coach profile: Assistant Women’s (jryan@calbaptist.edu) → coaches/jryan
+✔ Created unclaimed coach profile: Head Cheer (oquick@calbaptist.edu) → coaches/oquick
+✔ Created unclaimed coach profile: Assistant Cheer (sowilliams@calbaptist.edu) → coaches/sowilliams
+✔ Created unclaimed coach profile: Director of (kkanemapes@calbaptist.edu) → coaches/kkanemapes
+🔄 Updating unclaimed profile for sesmith@calbaptist.edu
+✔ Updated unclaimed coach profile: Head Cross-Country/Track (sesmith@calbaptist.edu) → coaches/sesmith
+✔ Created unclaimed coach profile: Assistant Men’s (zkirk@calbaptist.edu) → coaches/zkirk
+✔ Created unclaimed coach profile: Assistant Men’s (scroy@calbaptist.edu) → coaches/scroy
+✔ Created unclaimed coach profile: Head Men’s (tbrown@calbaptist.edu) → coaches/tbrown
+✔ Created unclaimed coach profile: Head Women’s (mmachado@calbaptist.edu) → coaches/mmachado
+✔ Created unclaimed coach profile: Associate Head (stmarshall@calbaptist.edu) → coaches/stmarshall
+✔ Created unclaimed coach profile: Assistant Men’s (aapodaca@calbaptist.edu) → coaches/aapodaca
+✔ Created unclaimed coach profile: Head Women’s (kstclair@calbaptist.edu) → coaches/kstclair
+✔ Created unclaimed coach profile: Assistant Coach (daparker@calbaptist.edu) → coaches/daparker
+🔄 Updating unclaimed profile for tmartin@calbaptist.edu
+✔ Updated unclaimed coach profile: Assistant Women’s (tmartin@calbaptist.edu) → coaches/tmartin
+✔ Created unclaimed coach profile: Head Softball (btelesco@calbaptist.edu) → coaches/btelesco
+✔ Created unclaimed coach profile: Assistant Softball (kecastillo@calbaptist.edu) → coaches/kecastillo
+✔ Created unclaimed coach profile: Assistant Softball (harcher@calbaptist.edu) → coaches/harcher
+✔ Created unclaimed coach profile: Assistant Softball (tmalauulu@calbaptist.edu) → coaches/tmalauulu
+✔ Created unclaimed coach profile: Head STUNT (bseagondollar@calbaptist.edu) → coaches/bseagondollar
+✔ Created unclaimed coach profile: Assistant STUNT (erichard@calbaptist.edu) → coaches/erichard
+✔ Created unclaimed coach profile: Head Swim (jbossert@calbaptist.edu) → coaches/jbossert
+✔ Created unclaimed coach profile: Associate Head (lsiregar@calbaptist.edu) → coaches/lsiregar
+✔ Created unclaimed coach profile: Head Men’s (miking@calbaptist.edu) → coaches/miking
+🔄 Updating unclaimed profile for tjohnson@calbaptist.edu
+✔ Updated unclaimed coach profile: Head Women’s (tjohnson@calbaptist.edu) → coaches/tjohnson
+✔ Created unclaimed coach profile: Assistant Women’s (jlundgren@calbaptist.edu) → coaches/jlundgren
+✔ Created unclaimed coach profile: Assistant Women’s (bkelly@calbaptist.edu) → coaches/bkelly
+✔ Created unclaimed coach profile: Assistant Women’s (kdeboer@calbaptist.edu) → coaches/kdeboer
+✔ Created unclaimed coach profile: Head Men’s (krosa@calbaptist.edu) → coaches/krosa
+✔ Created unclaimed coach profile: Assistant Men’s (zlowery@calbaptist.edu) → coaches/zlowery
+✔ Created unclaimed coach profile: Head Women’s (jsnodgrass@calbaptist.edu) → coaches/jsnodgrass
+✔ Created unclaimed coach profile: Assistant Women’s (cshortall@calbaptist.edu) → coaches/cshortall
+✔ Created unclaimed coach profile: Head Wrestling (dmoore@calbaptist.edu) → coaches/dmoore
+✔ Created unclaimed coach profile: Assistant Wrestling (emorrill@calbaptist.edu) → coaches/emorrill
+✔ Created unclaimed coach profile: Kyle Louey (kyle.louey@csusb.edu) → coaches/kyle.louey
+✔ Created unclaimed coach profile: Mike Nadeau (michael.nadeau@csusb.edu) → coaches/michael.nadeau
+✔ Created unclaimed coach profile: Jeff James (jeffrey.james@csusb.edu) → coaches/jeffrey.james
+✔ Created unclaimed coach profile: Chris Tifft (christopher.tifft@csusb.edu) → coaches/christopher.tifft
+✔ Created unclaimed coach profile: Brandon Billups (brandon.billups@csusb.edu) → coaches/brandon.billups
+✔ Created unclaimed coach profile: Dylan Painter (dylan.painter@csusb.edu) → coaches/dylan.painter
+✔ Created unclaimed coach profile: Alex Fodor (alexander.fodor@csusb.edu) → coaches/alexander.fodor
+✔ Created unclaimed coach profile: Casandra Renno (casandra.renno@csusb.edu) → coaches/casandra.renno
+✔ Created unclaimed coach profile: Lauren Ervin (lauren.ervin@csusb.edu) → coaches/lauren.ervin
+✔ Created unclaimed coach profile: Markus Black (markus.black@csusb.edu) → coaches/markus.black
+✔ Created unclaimed coach profile: Nicole McDonald (nicole.chesnut@csusb.edu) → coaches/nicole.chesnut
+✔ Created unclaimed coach profile: Kyle Emerson (kyle.emerson@csusb.edu) → coaches/kyle.emerson
+✔ Created unclaimed coach profile: Troy Nielsen (Troy.Nielsen@csusb.edu) → coaches/Troy.Nielsen
+✔ Created unclaimed coach profile: Josh Hill (joshua.hill@csusb.edu) → coaches/joshua.hill
+✔ Created unclaimed coach profile: Edwin Diaz (ediaz3@csusb.edu) → coaches/ediaz3
+✔ Created unclaimed coach profile: Alex Renderos (alex.renderos@csusb.edu) → coaches/alex.renderos
+✔ Created unclaimed coach profile: Mike Ditta (michael.ditta@csusb.edu) → coaches/michael.ditta
+✔ Created unclaimed coach profile: Mark Peters (mpeters@csusb.edu) → coaches/mpeters
+✔ Created unclaimed coach profile: David Massuere (David.Massuere@csusb.edu) → coaches/David.Massuere
+✔ Created unclaimed coach profile: Salvador Regla (salvador.regla@csusb.edu) → coaches/salvador.regla
+✔ Created unclaimed coach profile: Jonathan Frisby (jonathan.frisby@csusb.edu) → coaches/jonathan.frisby
+✔ Created unclaimed coach profile: Dee Payan (diana.payan@csusb.edu) → coaches/diana.payan
+✔ Created unclaimed coach profile: Jessica Millsap (jessica.millsap@csusb.edu) → coaches/jessica.millsap
+✔ Created unclaimed coach profile: Julia Esparza (julia.esparza@csusb.edu) → coaches/julia.esparza
+✔ Created unclaimed coach profile: Kim Cherniss (kcherniss@csusb.edu) → coaches/kcherniss
+🔄 Updating unclaimed profile for dscott@csusb.edu
+✔ Updated unclaimed coach profile: Danny Scott (dscott@csusb.edu) → coaches/dscott
+✔ Created unclaimed coach profile: Kelcie Tolan (kelcie.tolan@csusb.edu) → coaches/kelcie.tolan
+✔ Created unclaimed coach profile: Spencer Moe (spencer.moe@csusb.edu) → coaches/spencer.moe
+✔ Created unclaimed coach profile: Damien Smith (damien.smith@csusb.edu) → coaches/damien.smith
+✔ Created unclaimed coach profile: Kyndahl Carter (kyndahl.carter@csusb.edu) → coaches/kyndahl.carter
+✔ Created unclaimed coach profile: Gregory Magee (gregory.magee@csusb.edu) → coaches/gregory.magee
+✔ Created unclaimed coach profile: Michael Sun (michael.sun@fresno.edu) → coaches/michael.sun
+✔ Created unclaimed coach profile: Oscar Hirschkorn (oscar.hirschkorn@fresno.edu) → coaches/oscar.hirschkorn
+✔ Created unclaimed coach profile: Tim Culver (timothy.culver@fresno.edu) → coaches/timothy.culver
+✔ Created unclaimed coach profile: Nate McClurg (nate.mcclurg@fresno.edu) → coaches/nate.mcclurg
+✔ Created unclaimed coach profile: Tim Beauregard (tim.beauregard@fresno.edu) → coaches/tim.beauregard
+✔ Created unclaimed coach profile: Santino Reynolds (santino.reynolds@fresno.edu) → coaches/santino.reynolds
+✔ Created unclaimed coach profile: Katie Menton (Katie.Menton@fresno.edu) → coaches/Katie.Menton
+✔ Created unclaimed coach profile: Jim Connolly (James.Connolly@fresno.edu) → coaches/James.Connolly
+✔ Created unclaimed coach profile: Julie Ramirez (Julie.Ramirez@fresno.edu) → coaches/Julie.Ramirez
+✔ Created unclaimed coach profile: Rayna Harris (rayna.harris@fresno.edu) → coaches/rayna.harris
+✔ Created unclaimed coach profile: Landon Miller (landon.miller@fresno.edu) → coaches/landon.miller
+✔ Created unclaimed coach profile: Cameron Shahrokhi (cameron.shahrokhi@fresno.edu) → coaches/cameron.shahrokhi
+✔ Created unclaimed coach profile: Roberto Hernandez (fpuwsoccer@fresno.edu) → coaches/fpuwsoccer
+✔ Created unclaimed coach profile: Alyssa Troutt (alyssa.troutt@fresno.edu) → coaches/alyssa.troutt
+✔ Created unclaimed coach profile: Raymond Eggert (raymond.eggert@fresno.edu) → coaches/raymond.eggert
+✔ Created unclaimed coach profile: Rebeca Bribiesca (rebeca.bribiesca@fresno.edu) → coaches/rebeca.bribiesca
+✔ Created unclaimed coach profile: Sam Gaeddert (samuel.gaeddert@fresno.edu) → coaches/samuel.gaeddert
+✔ Created unclaimed coach profile: Robert Foster (robert.foster@fresno.edu) → coaches/robert.foster
+✔ Created unclaimed coach profile: Kelsee Montagna (kelsee.montagna@fresno.edu) → coaches/kelsee.montagna
+✔ Created unclaimed coach profile: Jonathan Miller (jonathan.miller@fresno.edu) → coaches/jonathan.miller
+✔ Created unclaimed coach profile: Bryan Suhovy (bryan.suhovy@fresno.edu) → coaches/bryan.suhovy
+✔ Created unclaimed coach profile: Jim Rickard (jrickard@masters.edu) → coaches/jrickard | Phone: (661) 362-2781
+✔ Created unclaimed coach profile: Annett Davis (adavis@masters.edu) → coaches/adavis | Phone: (661) 362-2765
+✔ Created unclaimed coach profile: Jared Goldberg (jgoldberg@masters.edu) → coaches/jgoldberg | Phone: (661) 362-2768
+✔ Created unclaimed coach profile: Monte Brooks (mbrooks@masters.edu) → coaches/mbrooks | Phone: (661) 362-2776
+✔ Created unclaimed coach profile: Rob Winslow (rwinslow@masters.edu) → coaches/rwinslow
+✔ Created unclaimed coach profile: Sean Harris (johnfifteen.16@gmail.com) → coaches/johnfifteen.16 | Phone: (503) 705-2582
+✔ Created unclaimed coach profile: Kelvin Starr (kstarr@masters.edu) → coaches/kstarr | Phone: (661) 362-2766
+✔ Created unclaimed coach profile: Troy Leaf (tleaf@masters.edu) → coaches/tleaf
+✔ Created unclaimed coach profile: Jordan Starr (jstarr@masters.edu) → coaches/jstarr
+✔ Created unclaimed coach profile: Thomas Lowery (tlowery@masters.edu) → coaches/tlowery
+✔ Created unclaimed coach profile: Fonda Wilson (fwilson@masters.edu) → coaches/fwilson | Phone: (661) 362-2772
+🔄 Updating unclaimed profile for jwilson@masters.edu
+✔ Updated unclaimed coach profile: Jaelyn Wilson (jwilson@masters.edu) → coaches/jwilson
+✔ Created unclaimed coach profile: Dylan Flannery (dflannery@masters.edu) → coaches/dflannery
+✔ Created unclaimed coach profile: Daniel Rush (drush@masters.edu) → coaches/drush | Phone: (661) 362-2774
+✔ Created unclaimed coach profile: Micaiah Scott (mscott@masters.edu) → coaches/mscott
+✔ Created unclaimed coach profile: Caleb Pouliot (pouliotcj@masters.edu) → coaches/pouliotcj
+✔ Created unclaimed coach profile: Josh Nunez (nunezjb@masters.edu) → coaches/nunezjb
+✔ Created unclaimed coach profile: Luke Brueckner (lbrueckner@masters.edu) → coaches/lbrueckner | Phone: (661) 362-2758
+✔ Created unclaimed coach profile: Craig DeSpain (cdespain@masters.edu) → coaches/cdespain
+✔ Created unclaimed coach profile: Humphrey Mahowa (hmahowa@masters.edu) → coaches/hmahowa
+✔ Created unclaimed coach profile: Jose Villafan (jvillafan@gemcorp.com) → coaches/jvillafan
+✔ Created unclaimed coach profile: Kian Bensend (bensendka@masters.edu) → coaches/bensendka
+✔ Created unclaimed coach profile: Esteban Chavez (echavez@masters.edu) → coaches/echavez | Phone: (626) 379-4497
+✔ Created unclaimed coach profile: Kate Merical (kmerical@masters.edu) → coaches/kmerical
+✔ Created unclaimed coach profile: Jack Craig (jcraig@masters.edu) → coaches/jcraig | Phone: (805) 479-8989
+✔ Created unclaimed coach profile: Curren Bates (cbates@masters.edu) → coaches/cbates | Phone: (661) 362-2779
+✔ Created unclaimed coach profile: Zachary Mayer (zmayer@masters.edu) → coaches/zmayer
+✔ Created unclaimed coach profile: McKenna Hafner (mhafner@masters.edu) → coaches/mhafner
+✔ Created unclaimed coach profile: Johnny Buchanan (JBuchanan@masters.edu) → coaches/JBuchanan
+✔ Created unclaimed coach profile: Ruby Duncan (RDuncan@masters.edu) → coaches/RDuncan
+✔ Created unclaimed coach profile: Michael Goodrich (migo88345@chapman.edu) → coaches/migo88345
+🔄 Updating unclaimed profile for mbb@chapman.edu
+✔ Updated unclaimed coach profile: Dan Krikorian (mbb@chapman.edu) → coaches/mbb
+✔ Created unclaimed coach profile: Kyle Milligan (kmilligan@chapman.edu) → coaches/kmilligan
+✔ Created unclaimed coach profile: Mike Molina (mimolina@chapman.edu) → coaches/mimolina
+✔ Created unclaimed coach profile: Carol Jue (jue@chapman.edu) → coaches/jue
+✔ Created unclaimed coach profile: Jennifer Lieu (watanabe@chapman.edu) → coaches/watanabe
+✔ Created unclaimed coach profile: Tony Veney (veney@chapman.edu) → coaches/veney
+✔ Created unclaimed coach profile: Mircea Bogdan (mbogdan@chapman.edu) → coaches/mbogdan
+✔ Created unclaimed coach profile: Casey Shine (shine@chapman.edu) → coaches/shine
+✔ Created unclaimed coach profile: David Bishop (dbishop@chapman.edu) → coaches/dbishop
+✔ Created unclaimed coach profile: Ming Lao (lao@chapman.edu) → coaches/lao
+✔ Created unclaimed coach profile: Kristen Lee (krilee@chapman.edu) → coaches/krilee
+✔ Created unclaimed coach profile: Delaney Benson (debenson@chapman.edu) → coaches/debenson
+✔ Created unclaimed coach profile: Larkin McDermott (lmcdermott@chapman.edu) → coaches/lmcdermott
+✔ Created unclaimed coach profile: Eddie Carrillo (carrillo@chapman.edu) → coaches/carrillo
+✔ Created unclaimed coach profile: Romeo Aguinaldo (aguinald@chapman.edu) → coaches/aguinald
+✔ Created unclaimed coach profile: Stephen Teal (steal@chapman.edu) → coaches/steal
+✔ Created unclaimed coach profile: TJ Perez (typerez@chapman.edu) → coaches/typerez
+✔ Created unclaimed coach profile: Breanna Carrillo (bcarrillo@chapman.edu) → coaches/bcarrillo
+✔ Created unclaimed coach profile: Reanna Gibbs (regibbs@chapman.edu) → coaches/regibbs
+✔ Created unclaimed coach profile: Janet Lloyd (jlloyd@chapman.edu) → coaches/jlloyd
+✔ Created unclaimed coach profile: Juliet Suess (suess@chapman.edu) → coaches/suess
+🔄 Updating unclaimed profile for swimdive@chapman.edu
+✔ Updated unclaimed coach profile: Curt Wilson (swimdive@chapman.edu) → coaches/swimdive
+✔ Created unclaimed coach profile: Jason Willman (jwillman@chapman.edu) → coaches/jwillman
+✔ Created unclaimed coach profile: Evan Parry (parry@chapman.edu) → coaches/parry
+✔ Created unclaimed coach profile: Kevin Springer (kspringer@chapman.edu) → coaches/kspringer
+✔ Created unclaimed coach profile: Keeley Arendt (kear95177@chapman.edu) → coaches/kear95177
+✔ Created unclaimed coach profile: Corrine Blaine (ostrovsky@chapman.edu) → coaches/ostrovsky
+✔ Created unclaimed coach profile: Eric Ploessel (ploessel@chapman.edu) → coaches/ploessel
+✔ Created unclaimed coach profile: Jesse McMillan (jmcmillan@chapman.edu) → coaches/jmcmillan
+✔ Created unclaimed coach profile: Robyn McGillis (romc79801@chapman.edu) → coaches/romc79801
+✔ Created unclaimed coach profile: Jake Palmer (jpalmer@athletics.ucla.edu) → coaches/jpalmer
+✔ Created unclaimed coach profile: Soh Matsuura (smatsuura@athletics.ucla.edu) → coaches/smatsuura
+✔ Created unclaimed coach profile: Michaela Assistant (monyenwere@athletics.ucla.edu) → coaches/monyenwere
+✔ Created unclaimed coach profile: Armen Head (akirakossian@athletics.ucla.edu) → coaches/akirakossian
+✔ Created unclaimed coach profile: Mason Banger (mbanger@athletics.ucla.edu) → coaches/mbanger
+✔ Created unclaimed coach profile: Alicia Um (aum@athletics.ucla.edu) → coaches/aum
+✔ Created unclaimed coach profile: Erynne Yoo (eyoo@athletics.ucla.edu) → coaches/eyoo
+✔ Created unclaimed coach profile: Lacy Dagen (ldagen@athletics.ucla.edu) → coaches/ldagen
+✔ Created unclaimed coach profile: Mark Freeman (markfreeman@athletics.ucla.edu) → coaches/markfreeman
+✔ Created unclaimed coach profile: Dameon Engblom (dengblom@athletics.ucla.edu) → coaches/dengblom
+✔ Created unclaimed coach profile: Summit Gillespie (sgillespie@athletics.ucla.edu) → coaches/sgillespie
+✔ Created unclaimed coach profile: Guillermo Lemus (coachg@athletics.ucla.edu) → coaches/coachg
+✔ Created unclaimed coach profile: Sergi Nus (snus@athletics.ucla.edu) → coaches/snus
+✔ Created unclaimed coach profile: Mysha Sataraka (msataraka@athletics.ucla.edu) → coaches/msataraka
+✔ Created unclaimed coach profile: Rob Schweyer (rschweyer@athletics.ucla.edu) → coaches/rschweyer
+✔ Created unclaimed coach profile: Jordan Cordry (jcordry@athletics.ucla.edu) → coaches/jcordry
+✔ Created unclaimed coach profile: Tom Stebbins (tstebbins@athletics.ucla.edu) → coaches/tstebbins
+✔ Created unclaimed coach profile: Graham Assistant (gcarpenter@athletics.ucla.edu) → coaches/gcarpenter
+✔ Created unclaimed coach profile: Billy Martin (bmartin@athletics.ucla.edu) → coaches/bmartin
+✔ Created unclaimed coach profile: Wil Martin (wmartin@athletics.ucla.edu) → coaches/wmartin
+✔ Created unclaimed coach profile: Stella Sampras (ssampras@athletics.ucla.edu) → coaches/ssampras
+✔ Created unclaimed coach profile: Giancarlo "G.C." (gcava@athletics.ucla.edu) → coaches/gcava
+✔ Created unclaimed coach profile: Tate Curran (tcurran@athletics.ucla.edu) → coaches/tcurran
+✔ Created unclaimed coach profile: Sean Denard (sdenard@athletics.ucla.edu) → coaches/sdenard
+✔ Created unclaimed coach profile: Andrew Ferris (aferris@athletics.ucla.edu) → coaches/aferris
+✔ Created unclaimed coach profile: Arman Hall (ghall@athletics.ucla.edu) → coaches/ghall
+✔ Created unclaimed coach profile: Mecca Assistant (mmcglaston@athletics.ucla.edu) → coaches/mmcglaston
+✔ Created unclaimed coach profile: Nick Newman (coachnicknewman@athletics.ucla.edu) → coaches/coachnicknewman
+✔ Created unclaimed coach profile: Wellington Zaza (wzaza@athletics.ucla.edu) → coaches/wzaza
+✔ Created unclaimed coach profile: Jenny Johnson (jjohnsonjordan@athletics.ucla.edu) → coaches/jjohnsonjordan
+✔ Created unclaimed coach profile: Theo Brunner (tbrunner@athletics.ucla.edu) → coaches/tbrunner
+🔄 Updating unclaimed profile for kreeves@athletics.ucla.edu
+✔ Updated unclaimed coach profile: Kelly Reeves (kreeves@athletics.ucla.edu) → coaches/kreeves
+✔ Created unclaimed coach profile: Alex Knight (aknight@athletics.ucla.edu) → coaches/aknight
+✔ Created unclaimed coach profile: Alfee Reft (uclawvb@athletics.ucla.edu) → coaches/uclawvb
+✔ Created unclaimed coach profile: Noah Casaquit (ncasaquit@athletics.ucla.edu) → coaches/ncasaquit
+✔ Created unclaimed coach profile: Adam Wright (awright@athletics.ucla.edu) → coaches/awright
+✔ Created unclaimed coach profile: Matt Kubeck (mkubeck@athletics.ucla.edu) → coaches/mkubeck
+✔ Created unclaimed coach profile: Nico Tierney (ntierney@athletics.ucla.edu) → coaches/ntierney
+🔄 Updating unclaimed profile for cheer@pepperdine.edu
+✔ Updated unclaimed coach profile: Madeline Massingill (cheer@pepperdine.edu) → coaches/cheer
+✔ Created unclaimed coach profile: Chris Gilbert (christopher.gilbert@pepperdine.edu) → coaches/christopher.gilbert
+✔ Created unclaimed coach profile: Jackie Keenan (jacqueline.keenan@pepperdine.edu) → coaches/jacqueline.keenan
+✔ Created unclaimed coach profile: Glenn Rivera (glenn.rivera@pepperdine.edu) → coaches/glenn.rivera
+✔ Created unclaimed coach profile: Tyler LaTorre (tyler.latorre@pepperdine.edu) → coaches/tyler.latorre
+✔ Created unclaimed coach profile: Logan Robbins (logan.robbins@pepperdine.edu) → coaches/logan.robbins
+✔ Created unclaimed coach profile: Dane Stankiewicz (dane.stankiewicz@pepperdine.edu) → coaches/dane.stankiewicz
+✔ Created unclaimed coach profile: Ed Schilling (edmund.schilling@pepperdine.edu) → coaches/edmund.schilling
+✔ Created unclaimed coach profile: Scott Rigot (scott.rigot@pepperdine.edu) → coaches/scott.rigot
+✔ Created unclaimed coach profile: Tyus Edney (tyus.edney@pepperdine.edu) → coaches/tyus.edney
+✔ Created unclaimed coach profile: Josh Calbert (joshua.calbert@pepperdine.edu) → coaches/joshua.calbert
+✔ Created unclaimed coach profile: Mike Doig (michael.doig@pepperdine.edu) → coaches/michael.doig
+✔ Created unclaimed coach profile: Jeremy Grubbs (jeremy.grubbs@pepperdine.edu) → coaches/jeremy.grubbs
+✔ Created unclaimed coach profile: Katie Faulkner (katie.faulkner@pepperdine.edu) → coaches/katie.faulkner
+✔ Created unclaimed coach profile: Erika Bean (erika.bean@pepperdine.edu) → coaches/erika.bean
+✔ Created unclaimed coach profile: Makena Mastora (makena.mastora@pepperdine.edu) → coaches/makena.mastora
+✔ Created unclaimed coach profile: Brian Porth (brian.porth@pepperdine.edu) → coaches/brian.porth
+✔ Created unclaimed coach profile: Kamran Sufi (kamran.sufi@pepperdine.edu) → coaches/kamran.sufi
+✔ Created unclaimed coach profile: Lauren Floris (XCTrack@Pepperdine.edu) → coaches/XCTrack
+✔ Created unclaimed coach profile: Michael Beard (michael.beard@pepperdine.edu) → coaches/michael.beard
+✔ Created unclaimed coach profile: Nick Robinson (Nickolas.Robinson@pepperdine.edu) → coaches/Nickolas.Robinson
+✔ Created unclaimed coach profile: Laurie Gibbs (laurie.gibbs@pepperdine.edu) → coaches/laurie.gibbs
+✔ Created unclaimed coach profile: Kacey Dalpes (kacey.dalpes@pepperdine.edu) → coaches/kacey.dalpes
+✔ Created unclaimed coach profile: Tim Ward (pepperdinesoccer@pepperdine.edu) → coaches/pepperdinesoccer
+✔ Created unclaimed coach profile: Kevin Arellano (kevin.arellano@pepperdine.edu) → coaches/kevin.arellano
+✔ Created unclaimed coach profile: Amber Marshall (amber.marshall@pepperdine.edu) → coaches/amber.marshall
+✔ Created unclaimed coach profile: Ellie Monobe (ellie.monobe@pepperdine.edu) → coaches/ellie.monobe
+✔ Created unclaimed coach profile: Monique Demaisip (monique.demaisip@pepperdine.edu) → coaches/monique.demaisip
+✔ Created unclaimed coach profile: Dan Marella (daniel.marella@pepperdine.edu) → coaches/daniel.marella
+✔ Created unclaimed coach profile: Adam Schaechterle (adam.schaechterle@pepperdine.edu) → coaches/adam.schaechterle
+✔ Created unclaimed coach profile: Kazuki Matsuno (kazuki.matsuno@pepperdine.edu) → coaches/kazuki.matsuno
+✔ Created unclaimed coach profile: Diego Castillo (diego.castillo@pepperdine.edu) → coaches/diego.castillo
+✔ Created unclaimed coach profile: Tassilo Schmid (tassilo.schmid@pepperdine.edu) → coaches/tassilo.schmid
+✔ Created unclaimed coach profile: Ben Beekman (Ben.beekman@pepperdine.edu) → coaches/Ben.beekman
+✔ Created unclaimed coach profile: Sami Ozzor (sami.ozzor@pepperdine.edu) → coaches/sami.ozzor
+✔ Created unclaimed coach profile: Jonathan Winder (jonathan.winder@pepperdine.edu) → coaches/jonathan.winder
+✔ Created unclaimed coach profile: Matthew Pollock (matthew.pollock@pepperdine.edu) → coaches/matthew.pollock
+✔ Created unclaimed coach profile: Luke Reynolds (luke.reynolds@pepperdine.edu) → coaches/luke.reynolds
+✔ Created unclaimed coach profile: Will Craft (will.craft@pepperdine.edu) → coaches/will.craft
+✔ Created unclaimed coach profile: Marv Dunphy (marv.dunphy@pepperdine.edu) → coaches/marv.dunphy
+✔ Created unclaimed coach profile: Marcio Sicoli (marcio.sicoli@pepperdine.edu) → coaches/marcio.sicoli
+✔ Created unclaimed coach profile: Noelle Rooke (noelle.rooke@pepperdine.edu) → coaches/noelle.rooke
+✔ Created unclaimed coach profile: Scott Wong (scott.wong@pepperdine.edu) → coaches/scott.wong
+✔ Created unclaimed coach profile: Hillary Hurley (hillary.hurley@pepperdine.edu) → coaches/hillary.hurley
+✔ Created unclaimed coach profile: Michael Wexter (michael.wexter@pepperdine.edu) → coaches/michael.wexter
+✔ Created unclaimed coach profile: Jeremiah Burden (jeremiah.burden@pepperdine.edu) → coaches/jeremiah.burden
+✔ Created unclaimed coach profile: Merrill Moses (merrill.moses@pepperdine.edu) → coaches/merrill.moses
+✔ Created unclaimed coach profile: Mike Tragitt (michael.tragitt@pepperdine.edu) → coaches/michael.tragitt
+✔ Created unclaimed coach profile: Spencer Hamby (spencer.hamby@pepperdine.edu) → coaches/spencer.hamby
+✔ Created unclaimed coach profile: Sam Snyder (ssnyder@csusm.edu) → coaches/ssnyder
+✔ Created unclaimed coach profile: Jose Garcia (jogarcia@csusm.edu) → coaches/jogarcia
+✔ Created unclaimed coach profile: Mark Lindsay (mlindsay@csusm.edu) → coaches/mlindsay
+✔ Created unclaimed coach profile: Brady Bergeson (bbergeson@csusm.edu) → coaches/bbergeson
+✔ Created unclaimed coach profile: Cory Coombe (ccoombe@csusm.edu) → coaches/ccoombe
+✔ Created unclaimed coach profile: Jana Pearson (jpearson@csusm.edu) → coaches/jpearson
+✔ Created unclaimed coach profile: Alyssa Fisher (afisher@csusm.edu) → coaches/afisher
+✔ Created unclaimed coach profile: Torrey Olson (tolson@csusm.edu) → coaches/tolson
+✔ Created unclaimed coach profile: Anthony Heredia (aheredia@csusm.edu) → coaches/aheredia
+🔄 Updating unclaimed profile for tthompson@csusm.edu
+✔ Updated unclaimed coach profile: Tracy Thompson (tthompson@csusm.edu) → coaches/tthompson
+✔ Created unclaimed coach profile: David Pleitez (dpleitez@csusm.edu) → coaches/dpleitez
+✔ Created unclaimed coach profile: Greg Hutton (ghutton@csusm.edu) → coaches/ghutton
+✔ Created unclaimed coach profile: Brook Brand (bbrand@csusm.edu) → coaches/bbrand
+✔ Created unclaimed coach profile: Ron Pulvers (rpulvers@csusm.edu) → coaches/rpulvers
+✔ Created unclaimed coach profile: Matt Aldama (maldama@csusm.edu) → coaches/maldama
+✔ Created unclaimed coach profile: Bobby Renneisen (brenneis@csusm.edu) → coaches/brenneis
+✔ Created unclaimed coach profile: Ryan Morissey (rmorissey@csusm.edu) → coaches/rmorissey
+✔ Created unclaimed coach profile: A.J. Robinson (arobinson@csusm.edu) → coaches/arobinson
+✔ Created unclaimed coach profile: Alyssa Razo (arazo@csusm.edu) → coaches/arazo
+✔ Created unclaimed coach profile: Andrea Leonard (aleonard@csusm.edu) → coaches/aleonard
+✔ Created unclaimed coach profile: Dak Sivertson (dsivertson@csusm.edu) → coaches/dsivertson
+✔ Created unclaimed coach profile: Anahit Aladzhanyan (aaladzhanyan@oxy.edu) → coaches/aaladzhanyan
+✔ Created unclaimed coach profile: Robert Bartlett (rbartlett@oxy.edu) → coaches/rbartlett
+✔ Created unclaimed coach profile: Colm McFeely (cmcfeely@oxy.edu) → coaches/cmcfeely
+✔ Created unclaimed coach profile: Will Morris (wmorris@oxy.edu) → coaches/wmorris
+✔ Created unclaimed coach profile: Diego Ramirez (dramirez6@oxy.edu) → coaches/dramirez6
+✔ Created unclaimed coach profile: Tyler Yamaguchi (tyamaguchi@oxy.edu) → coaches/tyamaguchi
+✔ Created unclaimed coach profile: David Foley (foley@oxy.edu) → coaches/foley
+✔ Created unclaimed coach profile: Kebu Stewart (kstewart2@oxy.edu) → coaches/kstewart2
+✔ Created unclaimed coach profile: Sierra Slack (slacks@oxy.edu) → coaches/slacks
+✔ Created unclaimed coach profile: Chris Hipa (hipa@oxy.edu) → coaches/hipa
+🔄 Updating unclaimed profile for ephillips2@oxy.edu
+✔ Updated unclaimed coach profile: Eric Phillips (ephillips2@oxy.edu) → coaches/ephillips2
+✔ Created unclaimed coach profile: Ryan Zaffino (zaffino@oxy.edu) → coaches/zaffino
+✔ Created unclaimed coach profile: Jacob Murray (jmurray2@oxy.edu) → coaches/jmurray2
+✔ Created unclaimed coach profile: Luke Wetmore (wetmorel@oxy.edu) → coaches/wetmorel
+✔ Created unclaimed coach profile: Cameron McMullen (cmcmullen@oxy.edu) → coaches/cmcmullen
+✔ Created unclaimed coach profile: Brian Newhall (bnewhall@oxy.edu) → coaches/bnewhall
+✔ Created unclaimed coach profile: Dominic Maynes (maynes@oxy.edu) → coaches/maynes
+✔ Created unclaimed coach profile: Isaiah Flowers (gatewoodflow@oxy.edu) → coaches/gatewoodflow
+✔ Created unclaimed coach profile: Alma Garcia (agarcia4@oxy.edu) → coaches/agarcia4
+✔ Created unclaimed coach profile: Amanda Foster (afoster2@oxy.edu) → coaches/afoster2
+✔ Created unclaimed coach profile: Joe Cano (jcano@oxy.edu) → coaches/jcano
+✔ Created unclaimed coach profile: Boz Crowther (crowther@oxy.edu) → coaches/crowther
+✔ Created unclaimed coach profile: Rod Lafaurie (lafaurie@oxy.edu) → coaches/lafaurie
+✔ Created unclaimed coach profile: Brian Wright (bwright2@oxy.edu) → coaches/bwright2
+✔ Created unclaimed coach profile: Fabien Segalini (fsegalini@oxy.edu) → coaches/fsegalini
+✔ Created unclaimed coach profile: Christian Chavarria (cchavarria@oxy.edu) → coaches/cchavarria
+✔ Created unclaimed coach profile: Jaime Acuna (jacuna@oxy.edu) → coaches/jacuna
+✔ Created unclaimed coach profile: Roy Johnson (rjohnson2@oxy.edu) → coaches/rjohnson2
+✔ Created unclaimed coach profile: Haley Meryl (hmeryl@oxy.edu) → coaches/hmeryl
+✔ Created unclaimed coach profile: Beau Brauer (brauerb@oxy.edu) → coaches/brauerb
+🔄 Updating unclaimed profile for sperkins@oxy.edu
+✔ Updated unclaimed coach profile: Stephen Perkins (sperkins@oxy.edu) → coaches/sperkins
+✔ Created unclaimed coach profile: Jackson Frons (frons@oxy.edu) → coaches/frons
+✔ Created unclaimed coach profile: Andy Steben (steben@oxy.edu) → coaches/steben
+✔ Created unclaimed coach profile: Emily Foster (efoster2@oxy.edu) → coaches/efoster2
+✔ Created unclaimed coach profile: Stephen Bernabe (bernabe@oxy.edu) → coaches/bernabe
+✔ Created unclaimed coach profile: Lindsey Garcia (lgarcia5@oxy.edu) → coaches/lgarcia5
+✔ Created unclaimed coach profile: Tatiana Cava (cava@oxy.edu) → coaches/cava
+✔ Created unclaimed coach profile: Martin Ortega (ortegajennison@oxy.edu) → coaches/ortegajennison
+✔ Created unclaimed coach profile: Rhett Soliday (rhett.soliday@vanguard.edu) → coaches/rhett.soliday
+✔ Created unclaimed coach profile: Joey Rodriguez (joseph.e.rodriguez@vanguard.edu) → coaches/joseph.e.rodriguez
+✔ Created unclaimed coach profile: Rob Pegg (robert.pegg@vanguard.edu) → coaches/robert.pegg
+✔ Created unclaimed coach profile: Kris Dorn (kris.dorn@vanguard.edu) → coaches/kris.dorn
+✔ Created unclaimed coach profile: Morgan Nash (morgan.nash@vanguard.edu) → coaches/morgan.nash
+🔄 Updating unclaimed profile for mbasketball@vanguard.edu
+✔ Updated unclaimed coach profile: Taylor Kelly (mbasketball@vanguard.edu) → coaches/mbasketball
+🔄 Updating unclaimed profile for wbasketball@vanguard.edu
+✔ Updated unclaimed coach profile: Russ Davis (wbasketball@vanguard.edu) → coaches/wbasketball
+🔄 Updating unclaimed profile for bwilkins@vanguard.edu
+✔ Updated unclaimed coach profile: Bryan Wilkins (bwilkins@vanguard.edu) → coaches/bwilkins
+✔ Created unclaimed coach profile: Josh Cagwin (josh.cagwin@vanguard.edu) → coaches/josh.cagwin
+✔ Created unclaimed coach profile: Madison Dimino (madison.dimino@vanguard.edu) → coaches/madison.dimino
+✔ Created unclaimed coach profile: Jeff Anderson (jeff.anderson@vanguard.edu) → coaches/jeff.anderson
+✔ Created unclaimed coach profile: Claire Shubin (claire.shubin@vanguard.edu) → coaches/claire.shubin
+✔ Created unclaimed coach profile: Nicole Thomas (nicole.thomas@vanguard.edu) → coaches/nicole.thomas
+✔ Created unclaimed coach profile: Katy Hurley (katy.hurley@vanguard.edu) → coaches/katy.hurley
+✔ Created unclaimed coach profile: Salonia Harper (salonia.harper@vanguard.edu) → coaches/salonia.harper
+🔄 Updating unclaimed profile for wvolleyball@vanguard.edu
+✔ Updated unclaimed coach profile: Jennifer Dorn (wvolleyball@vanguard.edu) → coaches/wvolleyball
+✔ Created unclaimed coach profile: Brian Rofer (brian.rofer@vanguard.edu) → coaches/brian.rofer
+✔ Created unclaimed coach profile: Matthew Compos (matthew.compos@vanguard.edu) → coaches/matthew.compos
+✔ Created unclaimed coach profile: Caleb Flores (mwrestling@vanguard.edu) → coaches/mwrestling
+✔ Created unclaimed coach profile: Ginter Reis (reis.ginter@vanguard.edu) → coaches/reis.ginter
+✔ Created unclaimed coach profile: Joe Evano (wwrestling@vanguard.edu) → coaches/wwrestling
+✔ Created unclaimed coach profile: Ashley Southard (ashley.southard@vanguard.edu) → coaches/ashley.southard
+✔ Created unclaimed coach profile: Shawn Beyer (sbeyer@soka.edu) → coaches/sbeyer
+✔ Created unclaimed coach profile: Alex Zotinca (azotinca@soka.edu) → coaches/azotinca
+✔ Created unclaimed coach profile: Wendy Espejel (wespejel@soka.edu) → coaches/wespejel
+✔ Created unclaimed coach profile: Liam Delury (ldelury@soka.edu) → coaches/ldelury
+✔ Created unclaimed coach profile: Adam Crossen (acrossen@soka.edu) → coaches/acrossen
+✔ Created unclaimed coach profile: Andrew Crowell (acrowell@soka.edu) → coaches/acrowell
+✔ Created unclaimed coach profile: Patrick Boivin (pboivin@soka.edu) → coaches/pboivin
+✔ Created unclaimed coach profile: Ryan Sanders (rsanders@soka.edu) → coaches/rsanders
+✔ Created unclaimed coach profile: Curtis Robinson (curobinson@soka.edu) → coaches/curobinson
+✔ Created unclaimed coach profile: Ciera Robinson (cirobinson@soka.edu) → coaches/cirobinson
+✔ Created unclaimed coach profile: Taylor Kushner (tkushner@soka.edu) → coaches/tkushner
+✔ Created unclaimed coach profile: Patrick Villanueva (pvillanueva@soka.edu) → coaches/pvillanueva
+✔ Created unclaimed coach profile: Dan Cox (dan.cox@lmu.edu) → coaches/dan.cox
+✔ Created unclaimed coach profile: Sean Isaac (sean.isaac@lmu.edu) → coaches/sean.isaac
+✔ Created unclaimed coach profile: Ricky Muench (Richard.Muench@lmu.edu) → coaches/Richard.Muench
+✔ Created unclaimed coach profile: Aarika Hughes (Aarika.Hughes@lmu.edu) → coaches/Aarika.Hughes
+✔ Created unclaimed coach profile: Jody Burrows (Jody.Burrows@lmu.edu) → coaches/Jody.Burrows
+✔ Created unclaimed coach profile: Brad Johnson (Brad.Johnson@lmu.edu) → coaches/Brad.Johnson
+✔ Created unclaimed coach profile: Lauren Unger (Lauren.Unger@lmu.edu) → coaches/Lauren.Unger
+✔ Created unclaimed coach profile: Amanda Delgado (amanda.delgado@lmu.edu) → coaches/amanda.delgado
+✔ Created unclaimed coach profile: Brooke Atkinson (brooke.atkinson@lmu.edu) → coaches/brooke.atkinson
+✔ Created unclaimed coach profile: John Mayer (John.Mayer@lmu.edu) → coaches/John.Mayer
+✔ Created unclaimed coach profile: Angela White (Angela.White@lmu.edu) → coaches/Angela.White
+✔ Created unclaimed coach profile: Jacinda Ramirez (Jacinda.Ramirez@lmu.edu) → coaches/Jacinda.Ramirez
+✔ Created unclaimed coach profile: Chloe Curtis (Chloe.Curtis@lmu.edu) → coaches/Chloe.Curtis
+✔ Created unclaimed coach profile: John Pickhaver (john.pickhaver@lmu.edu) → coaches/john.pickhaver
+✔ Created unclaimed coach profile: Tom Ronan (tom.ronan@lmu.edu) → coaches/tom.ronan
+✔ Created unclaimed coach profile: Jason D'Amore (amore@lmu.edu) → coaches/amore
+✔ Created unclaimed coach profile: Michael McCabe (Michael.McCabe@lmu.edu) → coaches/Michael.McCabe
+✔ Created unclaimed coach profile: Roberto Loera (lmusoccer@lmu.edu) → coaches/lmusoccer
+✔ Created unclaimed coach profile: Tom Lloyd (thomas.lloyd@lmu.edu) → coaches/thomas.lloyd
+✔ Created unclaimed coach profile: Alex Moreno (alejandro.morenofigueroa@lmu.edu) → coaches/alejandro.morenofigueroa
+✔ Created unclaimed coach profile: Agustin Moreno (agustin.moreno@lmu.edu) → coaches/agustin.moreno
+✔ Created unclaimed coach profile: Becca Weissmann (Rebecca.weissmann@lmu.edu) → coaches/Rebecca.weissmann
+✔ Created unclaimed coach profile: Kolby O'Donnell (donnell@lmu.edu) → coaches/donnell
+✔ Created unclaimed coach profile: Jillian Hadder (jillian.hadder@lmu.edu) → coaches/jillian.hadder
+✔ Created unclaimed coach profile: Chris Seiffert (chris.seiffert@lmu.edu) → coaches/chris.seiffert
+✔ Created unclaimed coach profile: David Carrasco (David.CarrascoMadridano@lmu.edu) → coaches/David.CarrascoMadridano
+✔ Created unclaimed coach profile: Raul Morales (Raul.rossettomorales@lmu.edu) → coaches/Raul.rossettomorales
+✔ Created unclaimed coach profile: Ikaika Aki (Andrew.aki@lmu.edu) → coaches/Andrew.aki
+✔ Created unclaimed coach profile: Sarah Kreiser (Sarah.Kreiser@lmu.edu) → coaches/Sarah.Kreiser
+✔ Created unclaimed coach profile: Valerie Townsend (vgc04747@pomona.edu) → coaches/vgc04747
+✔ Created unclaimed coach profile: Greg Hook (gregory.hook@pomona.edu) → coaches/gregory.hook
+✔ Created unclaimed coach profile: Michael Surina (Michael.Surina@pomona.edu) → coaches/Michael.Surina
+✔ Created unclaimed coach profile: Jason Staub (Jason.Staub@Pomona.edu) → coaches/Jason.Staub
+✔ Created unclaimed coach profile: Anthony Lim (Anthony.Lim@Pomona.edu) → coaches/Anthony.Lim
+✔ Created unclaimed coach profile: Thomas Thongmee (tthongme@pitzer.edu) → coaches/tthongme
+✔ Created unclaimed coach profile: Alaina Woo (alaina.woo@pomona.edu) → coaches/alaina.woo
+✔ Created unclaimed coach profile: Margeaux Gupilan (margeaux.gupilan@pomona.edu) → coaches/margeaux.gupilan
+✔ Created unclaimed coach profile: Raquel Viramontes (raquel.viramontes@pomona.edu) → coaches/raquel.viramontes
+✔ Created unclaimed coach profile: Charles Katsiaficas (charles.katsiaficas@pomona.edu) → coaches/charles.katsiaficas
+✔ Created unclaimed coach profile: Shawn Lokar (Shawn.Lokar@pomona.edu) → coaches/Shawn.Lokar
+✔ Created unclaimed coach profile: John Walsh (john.walsh@pomona.edu) → coaches/john.walsh
+✔ Created unclaimed coach profile: Jon Hart (jhartcoach@hotmail.com) → coaches/jhartcoach
+✔ Created unclaimed coach profile: Kevin Cummings (KCummings@pennylane.org) → coaches/KCummings
+✔ Created unclaimed coach profile: RJ Maki (Robert.maki@pomona.edu) → coaches/Robert.maki
+✔ Created unclaimed coach profile: Vaishnav Siddapureddy (vrsa2018@pomona.edu) → coaches/vrsa2018
+✔ Created unclaimed coach profile: Dennis Hester (Dennis.Hester@Pomona.edu) → coaches/Dennis.Hester
+✔ Created unclaimed coach profile: John Wurzer (John.Wurzer@pomona.edu) → coaches/John.Wurzer
+✔ Created unclaimed coach profile: Sarah Queener (sarah.queener@pomona.edu) → coaches/sarah.queener
+✔ Created unclaimed coach profile: Brian Eisenberg (Brian.Eisenberg@pomona.edu) → coaches/Brian.Eisenberg
+✔ Created unclaimed coach profile: Sylvia Queener (Sylvia.queener@pomona.edu) → coaches/Sylvia.queener
+✔ Created unclaimed coach profile: Jennifer Scanlon (jennifer.scanlon@pomona.edu) → coaches/jennifer.scanlon
+✔ Created unclaimed coach profile: Miranda Armstrong (ppsoccer@pomona.edu) → coaches/ppsoccer
+✔ Created unclaimed coach profile: Clint Moore (Clint.Moore@Pomona.edu) → coaches/Clint.Moore
+✔ Created unclaimed coach profile: Jen Clark (jennifer.clark@pomona.edu) → coaches/jennifer.clark
+✔ Created unclaimed coach profile: Jorge Guillen (jorge.guillen-lopez@pomona.edu) → coaches/jorge.guillen-lopez
+✔ Created unclaimed coach profile: JoAnne Ferguson (joanne.ferguson@pomona.edu) → coaches/joanne.ferguson
+✔ Created unclaimed coach profile: Julie Smith (Julie.Smith@Pomona.edu) → coaches/Julie.Smith
+✔ Created unclaimed coach profile: Liz Rodarte (Elizabeth.Rodarte@Pomona.edu) → coaches/Elizabeth.Rodarte
+✔ Created unclaimed coach profile: Mike Morgan (Michael.Morgan@pomona.edu) → coaches/Michael.Morgan
+✔ Created unclaimed coach profile: Steve Bickham (steve.bickham@pomona.edu) → coaches/steve.bickham
+✔ Created unclaimed coach profile: Matthew Feng (matthew.feng@pomona.edu) → coaches/matthew.feng
+✔ Created unclaimed coach profile: Kirk Reynolds (kreynolds@pomona.edu) → coaches/kreynolds
+✔ Created unclaimed coach profile: Emma DeLira (Emmanuelle.DeLira@pomona.edu) → coaches/Emmanuelle.DeLira
+✔ Created unclaimed coach profile: Christian Mora (Christian.Mora@pomona.edu) → coaches/Christian.Mora
+✔ Created unclaimed coach profile: Adam Alnazer (Ahmad.Alnazer@pomona.edu) → coaches/Ahmad.Alnazer
+✔ Created unclaimed coach profile: Amber Williams (Amber.Williams@Pomona.edu) → coaches/Amber.Williams
+✔ Created unclaimed coach profile: Bob Ramsey (Robert.Ramsey2@pomona.edu) → coaches/Robert.Ramsey2
+✔ Created unclaimed coach profile: Cassidy Gonzales (PPVB@pomona.edu) → coaches/PPVB
+✔ Created unclaimed coach profile: Alecza Abary (aanb2024@pomona.edu) → coaches/aanb2024
+✔ Created unclaimed coach profile: Jean-Paul Gowdy (Jean-Paul.Gowdy@pomona.edu) → coaches/Jean-Paul.Gowdy
+✔ Created unclaimed coach profile: Jenel Day (jlag2021@pomona.edu) → coaches/jlag2021
+✔ Created unclaimed coach profile: Chris Depew (chris.depew@pomona.edu) → coaches/chris.depew
+✔ Created unclaimed coach profile: Cara Wong (cara.wong@cgu.edu) → coaches/cara.wong
+✔ Created unclaimed coach profile: Anna Haaksma (Anna.Haaksma@pomona.edu) → coaches/Anna.Haaksma
+✔ Created unclaimed coach profile: Paige Tattersall (paige.tattersall@pomona.edu) → coaches/paige.tattersall
+✔ Created unclaimed coach profile: Miguel Rodriguez (mar02003@mymail.pomona.edu) → coaches/mar02003
+✔ Created unclaimed coach profile: Alex Rodriguez (alexander.rodriguez@pomona.edu) → coaches/alexander.rodriguez
+✔ Created unclaimed coach profile: Alex La (alex.la@pomona.edu) → coaches/alex.la
+✔ Created unclaimed coach profile: Guillermo Ocasio (Guillermo.ocasio@pomona.edu) → coaches/Guillermo.ocasio
+✔ Created unclaimed coach profile: Mary Brooks (Mary.Brooks@Pomona.edu) → coaches/Mary.Brooks
+✔ Created unclaimed coach profile: Brian Heider (brian.heider@pomona.edu) → coaches/brian.heider
+✔ Created unclaimed coach profile: Roger Caron (roger.caron@pomona.edu) → coaches/roger.caron
+✔ Created unclaimed coach profile: Ann Lebedeff (alebedeff@pomona.edu) → coaches/alebedeff
+✔ Created unclaimed coach profile: Kathy Connell (drktc52@charter.net) → coaches/drktc52
+✔ Created unclaimed coach profile: Moses Oceguera (loceguera@ucmerced.edu) → coaches/loceguera | Phone: (209) 228-2306
+✔ Created unclaimed coach profile: Jaylen Wiltz (jwiltz2@ucmerced.edu) → coaches/jwiltz2
+✔ Created unclaimed coach profile: Kellie Bernard (kbernard3@ucmerced.edu) → coaches/kbernard3 | Phone: (209) 228-2307
+✔ Created unclaimed coach profile: Jasmine Washington (jwashington10@ucmerced.edu) → coaches/jwashington10
+✔ Created unclaimed coach profile: Vicente Velarde (vvelarde2@ucmerced.edu) → coaches/vvelarde2 | Phone: (209) 386-2841
+✔ Created unclaimed coach profile: Albert Martins (amartins@ucmerced.edu) → coaches/amartins | Phone: (209) 228-2305
+✔ Created unclaimed coach profile: Roman DuChateau (rduchateau@ucmerced.edu) → coaches/rduchateau | Phone: (209) 228-2949
+✔ Created unclaimed coach profile: Chris Carter (chriscarter@ucmerced.edu) → coaches/chriscarter
+✔ Created unclaimed coach profile: Ken Shaw (kennethshaw@ucmerced.edu) → coaches/kennethshaw
+✔ Created unclaimed coach profile: Ai Prachumsri (sprachumsri@ucmerced.edu) → coaches/sprachumsri | Phone: (209) 228-2236
+✔ Created unclaimed coach profile: Caroline Mack (cmack2@ucmerced.edu) → coaches/cmack2 | Phone: (209) 228-2236
+✔ Created unclaimed coach profile: Hannah Ellett (hellett@ucmerced.edu) → coaches/hellett
+✔ Created unclaimed coach profile: Marko Ilic (markoilic@ucmerced.edu) → coaches/markoilic | Phone: (805) 331-7398
+✔ Created unclaimed coach profile: Britt Connell (brittconnell@ucmerced.edu) → coaches/brittconnell
+
+📊 Upload Summary:
+✔ 1573 coach profiles created/updated
+⏭️  0 profiles skipped (already claimed)
+📧 Coaches can now claim their profiles during onboarding using their email address

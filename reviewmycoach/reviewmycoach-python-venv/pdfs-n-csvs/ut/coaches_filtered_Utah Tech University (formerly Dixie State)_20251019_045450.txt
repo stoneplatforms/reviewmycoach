@@ -1,0 +1,293 @@
+COACH ENTRIES FOUND - 2025-10-19 04:54:50
+============================================================
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. Cole Joachim
+   Email: cole.joachim@utahtech.edu
+   Username: cole.joachim
+   Original line: Cole Joachim Assistant Coach cole.joachim@utahtech.edu 435-879-
+
+2. Chris Pfatenhauer
+   Email: chris.pfatenhauer@utahtech.edu
+   Username: chris.pfatenhauer
+   Original line: Chris Pfatenhauer Head Coach chris.pfatenhauer@utahtech.edu 435-652-
+
+3. Quentin McGrath
+   Email: quentin.mcgrath@utahtech.edu
+   Username: quentin.mcgrath
+   Original line: Quentin McGrath Pitching Coach quentin.mcgrath@utahtech.edu 435-652- qmcgrath30
+
+4. Tyler Malone
+   Email: tyler.malone@utahtech.edu
+   Username: tyler.malone
+   Original line: Tyler Malone Assistant Coach tyler.malone@utahtech.edu 435-652-
+
+5. Jon Judkins
+   Email: jon.judkins@utahtech.edu
+   Username: jon.judkins
+   Original line: Jon Judkins Head Coach jon.judkins@utahtech.edu 435-652- @JonJudkins1
+
+6. Jake Schroeder
+   Email: jake.schroeder@utahtech.edu
+   Username: jake.schroeder
+   Original line: Jake Schroeder Associate Head Coach jake.schroeder@utahtech.edu 435-652- @CoachJSchroed15
+
+7. Anthony Morris
+   Email: anthony.morris@utahtech.edu
+   Username: anthony.morris
+   Original line: Anthony Morris Assistant Coach anthony.morris@utahtech.edu 435-652- @tonyy_morris
+
+8. Elliott De
+   Email: elliott.de.wit@utahtech.edu
+   Username: elliott.de.wit
+   Original line: Elliott De Wit Assistant Coach elliott.de.wit@utahtech.edu
+
+9. Brock Staheli
+   Email: brock.staheli@utahtech.edu
+   Username: brock.staheli
+   Original line: Brock Staheli Assistant Coach brock.staheli@utahtech.edu 435-652- @BrockStaheli
+
+10. Alan Nakamura
+   Email: alan.nakamura@utahtech.edu
+   Username: alan.nakamura
+   Original line: Alan Nakamura Assistant Coach alan.nakamura@utahtech.edu 435-652-
+
+11. Breaunna Gillen
+   Email: breaunna.gillen@utahtech.edu
+   Username: breaunna.gillen
+   Original line: Breaunna Gillen Assistant Coach breaunna.gillen@utahtech.edu 435-652-
+
+12. Emily Chamberlain
+   Email: emily.isaacson@utahtech.edu
+   Username: emily.isaacson
+   Original line: Emily Chamberlain Assistant Coach emily.isaacson@utahtech.edu 435-879-
+
+13. Taylia Stimpson
+   Email: taylia.stimpson@utahtech.edu
+   Username: taylia.stimpson
+   Original line: Taylia Stimpson Assistant Coach taylia.stimpson@utahtech.edu
+
+14. Ross Decker
+   Email: ross.decker@utahtech.edu
+   Username: ross.decker
+   Original line: Ross Decker Assistant Coach ross.decker@utahtech.edu
+
+15. Olivia Hoj-Simister
+   Email: olivia.simister@utahtech.edu
+   Username: olivia.simister
+   Original line: Olivia Hoj-Simister Assistant Coach olivia.simister@utahtech.edu
+
+16. Lance Anderson
+   Email: lance.anderson@utahtech.edu
+   Username: lance.anderson
+   Original line: Lance Anderson Head Coach lance.anderson@utahtech.edu 435-652- @CoachL_Anderson
+
+17. Greg Stevens
+   Email: greg.stevens@utahtech.edu
+   Username: greg.stevens
+   Original line: Greg Stevens Offensive greg.stevens@utahtech.edu 435-652- @Coach_GStevens
+
+18. Patrick Moynahan
+   Email: patrick.moynahan@utahtech.edu
+   Username: patrick.moynahan
+   Original line: Patrick Moynahan Defensive patrick.moynahan@utahtech.edu 435-652- @coach_moynahan
+
+19. Jamison Clark
+   Email: jamison.clark@utahtech.edu
+   Username: jamison.clark
+   Original line: Jamison Clark Running Backs Coach / jamison.clark@utahtech.edu 435-652- @CoachClarkJ
+
+20. De'Vante Cross
+   Email: devante.cross@utahtech.edu
+   Username: devante.cross
+   Original line: De'Vante Cross Defensive Backs Coach devante.cross@utahtech.edu
+
+21. Nolan Givan
+   Email: nolan.givan@utahtech.edu
+   Username: nolan.givan
+   Original line: Nolan Givan Tight Ends Coach nolan.givan@utahtech.edu 435-652- @CoachNolanGivan
+
+22. Ron Hudson
+   Email: ron.hudson@utahtech.edu
+   Username: ron.hudson
+   Original line: Ron Hudson Offensive Line Coach ron.hudson@utahtech.edu
+
+23. Ben Robertson
+   Email: ben.robertson@utahtech.edu
+   Username: ben.robertson
+   Original line: Ben Robertson Defensive Line Coach ben.robertson@utahtech.edu 435-652-
+
+24. CJ Turner
+   Email: cj.turner@utahtech.edu
+   Username: cj.turner
+   Original line: CJ Turner Wide Receivers Coach cj.turner@utahtech.edu 435-652-
+
+25. Brad Sutterfield
+   Email: brad.sutterfield@utahtech.edu
+   Username: brad.sutterfield
+   Original line: Brad Sutterfield Head Coach brad.sutterfield@utahtech.edu 435-669- @bradsutterfield
+
+26. Spencer Wallace
+   Email: spencer.wallace@utahtech.edu
+   Username: spencer.wallace
+   Original line: Spencer Wallace Assistant Coach spencer.wallace@utahtech.edu
+
+27. Lindsey Orth
+   Email: lindsey.orth@utahtech.edu
+   Username: lindsey.orth
+   Original line: Lindsey Orth Head Coach lindsey.orth@utahtech.edu 435-216-
+
+28. Zac Hales
+   Email: zac.hales@utahtech.edu
+   Username: zac.hales
+   Original line: Zac Hales Assistant Coach zac.hales@utahtech.edu 435-652-
+
+29. Lexi Brown
+   Email: lexi.brown1@utahtech.edu
+   Username: lexi.brown1
+   Original line: Lexi Brown Head Coach lexi.brown1@utahtech.edu
+
+30. Tyler Brown
+   Email: tyler.brown5@utahtech.edu
+   Username: tyler.brown5
+   Original line: Tyler Brown Assistant Coach tyler.brown5@utahtech.edu
+
+31. Juli Nield
+   Email: juli.nield@utahtech.edu
+   Username: juli.nield
+   Original line: Juli Nield Assistant Coach juli.nield@utahtech.edu
+
+32. Lauren Towne
+   Email: lauren.towne@utahtech.edu
+   Username: lauren.towne
+   Original line: Lauren Towne Assistant Coach lauren.towne@utahtech.edu
+
+33. Randy Simkins
+   Email: randy.simkins@utahtech.edu
+   Username: randy.simkins
+   Original line: Randy Simkins Head Coach randy.simkins@utahtech.edu 435-652-
+
+34. Alex Flores
+   Email: alex.flores@utahtech.edu
+   Username: alex.flores
+   Original line: Alex Flores Assistant Coach alex.flores@utahtech.edu (435)652-
+
+35. Jared Anderson
+   Email: jared.anderson@utahtech.edu
+   Username: jared.anderson
+   Original line: Jared Anderson Assistant Coach jared.anderson@utahtech.edu
+
+36. Chris Norris
+   Email: chris.norris@utahtech.edu
+   Username: chris.norris
+   Original line: Chris Norris Assistant Coach chris.norris@utahtech.edu
+
+37. Shawn King
+   Email: shawn.king@utahtech.edu
+   Username: shawn.king
+   Original line: Shawn King Head Coach shawn.king@utahtech.edu 435-879-
+
+38. Colby Clark
+   Email: colby.clark@utahtech.edu
+   Username: colby.clark
+   Original line: Colby Clark Assistant Coach colby.clark@utahtech.edu 435-879-
+
+39. Eric Pelton
+   Email: eric.pelton@utahtech.edu
+   Username: eric.pelton
+   Original line: Eric Pelton Head Coach eric.pelton@utahtech.edu 435-773-
+
+40. Laura Perry
+   Email: laura.perry@utahtech.edu
+   Username: laura.perry
+   Original line: Laura Perry Assistant Coach laura.perry@utahtech.edu 801-750-
+
+41. Holly Haguewood
+   Email: holly.haguewood@utahtech.edu
+   Username: holly.haguewood
+   Original line: Holly Haguewood Sprints/Hurdles Coach holly.haguewood@utahtech.edu
+
+42. Camilla Hafoka
+   Email: camilla.hafoka@utahtech.edu
+   Username: camilla.hafoka
+   Original line: Camilla Hafoka Head Coach camilla.hafoka@utahtech.edu 435-652-
+
+43. Shairone Thompson
+   Email: shairone.thompson@utahtech.edu
+   Username: shairone.thompson
+   Original line: Shairone Thompson Associate Head Coach shairone.thompson@utahtech.edu 435-652-
+
+44. Whitnee Tupe
+   Email: whitnee.tupe@utahtech.edu
+   Username: whitnee.tupe
+   Original line: Whitnee Tupe Assistant Coach whitnee.tupe@utahtech.edu 435-652-
+
+45. Marcie Sharp
+   Email: marcie.sharp@utahtech.edu
+   Username: marcie.sharp
+   Original line: Marcie Sharp Head Coach marcie.sharp@utahtech.edu 801-895-
+
+46. Jessica Hatch
+   Email: jessicaannadams@hotmail.com
+   Username: jessicaannadams
+   Original line: Jessica Hatch Assistant Coach jessicaannadams@hotmail.com (208)
+
+47. Kori Esplin
+   Email: kori.esplin@utahtech.edu
+   Username: kori.esplin
+   Original line: Kori Esplin Head Coach kori.esplin@utahtech.edu 435-619-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Cole Joachim Assistant Coach cole.joachim@utahtech.edu 435-879-
+• Chris Pfatenhauer Head Coach chris.pfatenhauer@utahtech.edu 435-652-
+• Quentin McGrath Pitching Coach quentin.mcgrath@utahtech.edu 435-652- qmcgrath30
+• Tyler Malone Assistant Coach tyler.malone@utahtech.edu 435-652-
+• Jon Judkins Head Coach jon.judkins@utahtech.edu 435-652- @JonJudkins1
+• Jake Schroeder Associate Head Coach jake.schroeder@utahtech.edu 435-652- @CoachJSchroed15
+• Anthony Morris Assistant Coach anthony.morris@utahtech.edu 435-652- @tonyy_morris
+• Elliott De Wit Assistant Coach elliott.de.wit@utahtech.edu
+• Brock Staheli Assistant Coach brock.staheli@utahtech.edu 435-652- @BrockStaheli
+• Alan Nakamura Assistant Coach alan.nakamura@utahtech.edu 435-652-
+• Breaunna Gillen Assistant Coach breaunna.gillen@utahtech.edu 435-652-
+• Emily Chamberlain Assistant Coach emily.isaacson@utahtech.edu 435-879-
+• Taylia Stimpson Assistant Coach taylia.stimpson@utahtech.edu
+• Ross Decker Assistant Coach ross.decker@utahtech.edu
+• Olivia Hoj-Simister Assistant Coach olivia.simister@utahtech.edu
+• Lance Anderson Head Coach lance.anderson@utahtech.edu 435-652- @CoachL_Anderson
+• Greg Stevens Offensive greg.stevens@utahtech.edu 435-652- @Coach_GStevens
+• Patrick Moynahan Defensive patrick.moynahan@utahtech.edu 435-652- @coach_moynahan
+• Jamison Clark Running Backs Coach / jamison.clark@utahtech.edu 435-652- @CoachClarkJ
+• De'Vante Cross Defensive Backs Coach devante.cross@utahtech.edu
+• Nolan Givan Tight Ends Coach nolan.givan@utahtech.edu 435-652- @CoachNolanGivan
+• Ron Hudson Offensive Line Coach ron.hudson@utahtech.edu
+• Ben Robertson Defensive Line Coach ben.robertson@utahtech.edu 435-652-
+• CJ Turner Wide Receivers Coach cj.turner@utahtech.edu 435-652-
+• Brad Sutterfield Head Coach brad.sutterfield@utahtech.edu 435-669- @bradsutterfield
+• Spencer Wallace Assistant Coach spencer.wallace@utahtech.edu
+• Lindsey Orth Head Coach lindsey.orth@utahtech.edu 435-216-
+• Zac Hales Assistant Coach zac.hales@utahtech.edu 435-652-
+• Lexi Brown Head Coach lexi.brown1@utahtech.edu
+• Tyler Brown Assistant Coach tyler.brown5@utahtech.edu
+• Juli Nield Assistant Coach juli.nield@utahtech.edu
+• Lauren Towne Assistant Coach lauren.towne@utahtech.edu
+• Randy Simkins Head Coach randy.simkins@utahtech.edu 435-652-
+• Alex Flores Assistant Coach alex.flores@utahtech.edu (435)652-
+• Jared Anderson Assistant Coach jared.anderson@utahtech.edu
+• Chris Norris Assistant Coach chris.norris@utahtech.edu
+• Shawn King Head Coach shawn.king@utahtech.edu 435-879-
+• Colby Clark Assistant Coach colby.clark@utahtech.edu 435-879-
+• Eric Pelton Head Coach eric.pelton@utahtech.edu 435-773-
+• Laura Perry Assistant Coach laura.perry@utahtech.edu 801-750-
+• Holly Haguewood Sprints/Hurdles Coach holly.haguewood@utahtech.edu
+• Camilla Hafoka Head Coach camilla.hafoka@utahtech.edu 435-652-
+• Shairone Thompson Associate Head Coach shairone.thompson@utahtech.edu 435-652-
+• Whitnee Tupe Assistant Coach whitnee.tupe@utahtech.edu 435-652-
+• Marcie Sharp Head Coach marcie.sharp@utahtech.edu 801-895-
+• Jessica Hatch Assistant Coach jessicaannadams@hotmail.com (208)
+• Kori Esplin Head Coach kori.esplin@utahtech.edu 435-619-

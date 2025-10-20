@@ -1,0 +1,175 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:17
+============================================================
+
+Total coaches found: 27
+
+PARSED ENTRIES:
+----------------------------------------
+1. Josh Collins
+   Email: josh.collins@swosu.edu
+   Username: josh.collins
+   Original line: Josh Collins Head Volleyball Coach / Assistant Athletic Director for Gameday 580-774- josh.collins@swosu.edu
+
+2. Kait Bagwell
+   Email: kaitlyn.bagwell@swosu.edu
+   Username: kaitlyn.bagwell
+   Original line: Kait Bagwell Assistant Volleyball Coach / Compliance Coordinator 580-774- kaitlyn.bagwell@swosu.edu
+
+3. Josh Collins
+   Email: josh.collins@swosu.edu
+   Username: josh.collins
+   Original line: Josh Collins Head Volleyball Coach / Assistant Athletic Director for Gameday 580-774- josh.collins@swosu.edu
+
+4. Alex Baxter
+   Email: alexander.baxter@swosu.edu
+   Username: alexander.baxter
+   Phone: 580.774.3213
+   Original line: Alex Baxter Head Strength & Conditioning Coach 580.774.3213 alexander.baxter@swosu.edu
+
+5. JR Head
+   Email: larry.head@swosu.edu
+   Username: larry.head
+   Original line: JR Head Head Baseball Coach 580-774- larry.head@swosu.edu
+
+6. Brett Weiberg
+   Email: brett.weiberg@swosu.edu
+   Username: brett.weiberg
+   Original line: Brett Weiberg Head Men's Basketball Coach 580-774- brett.weiberg@swosu.edu
+
+7. Dan O'Dowd
+   Email: daniel.odowd@swosu.edu
+   Username: daniel.odowd
+   Original line: Dan O'Dowd Assistant Men's Basketball Coach 580-774- daniel.odowd@swosu.edu
+
+8. Jeff Zinn
+   Email: jeff.zinn@swosu.edu
+   Username: jeff.zinn
+   Original line: Jeff Zinn Head Women's Basketball Coach 580-774- jeff.zinn@swosu.edu
+
+9. James Bagwell
+   Email: james.bagwell@swosu.edu
+   Username: james.bagwell
+   Original line: James Bagwell Assistant Women's Basketball Coach 580-774- james.bagwell@swosu.edu
+
+10. McKenzie Pshigoda
+   Email: mckenzie.pshigoda@swosu.edu
+   Username: mckenzie.pshigoda
+   Original line: McKenzie Pshigoda Head Cheer & Mascot Coach 580-331- mckenzie.pshigoda@swosu.edu
+
+11. Jennifer Johnson
+   Email: jennifer.johnson@swosu.edu
+   Username: jennifer.johnson
+   Original line: Jennifer Johnson Head Cross Country / Track & Field Coach 580-774- jennifer.johnson@swosu.edu
+
+12. Andrew Rice
+   Email: andrew.rice@swosu.edu
+   Username: andrew.rice
+   Phone: (580) 774-7118
+   Original line: Andrew Rice Head Football Coach 580-774-7118 andrew.rice@swosu.edu
+
+13. Mike Lucas
+   Email: michael.lucas@swosu.edu
+   Username: michael.lucas
+   Original line: Mike Lucas Assistant Football Coach / Defensive Coordinator, Linebackers 580-774- michael.lucas@swosu.edu
+
+14. Boone Feldt
+   Email: boone.feldt@swosu.edu
+   Username: boone.feldt
+   Original line: Boone Feldt Assistant Football Coach / Offensive Coordinator, Recruiting 580-774- boone.feldt@swosu.edu
+
+15. Adam Carr
+   Email: adam.carr@swosu.edu
+   Username: adam.carr
+   Original line: Adam Carr Assistant Football Coach / Quarterbacks 580-774- adam.carr@swosu.edu
+
+16. Marquise Cunningham
+   Email: marquise.cunningham@swosu.edu
+   Username: marquise.cunningham
+   Original line: Marquise Cunningham Assistant Football Coach / Defensive Line 580-774- marquise.cunningham@swosu.edu
+
+17. Aaron Matthews
+   Email: aaron.matthews@swosu.edu
+   Username: aaron.matthews
+   Original line: Aaron Matthews Assistant Football Coach / Secondary 580-774- aaron.matthews@swosu.edu
+
+18. Collin Leyden
+   Email: collin.leyden@swosu.edu
+   Username: collin.leyden
+   Original line: Collin Leyden Assistant Football Coach / Special Teams Coordinator 580-774- collin.leyden@swosu.edu
+
+19. Brad Fleetwood
+   Email: brad.fleetwood@swosu.edu
+   Username: brad.fleetwood
+   Original line: Brad Fleetwood Head Men's & Women's Golf Coach 580-774- brad.fleetwood@swosu.edu
+
+20. Mike Visnieski
+   Email: michael.visnieski@swosu.edu
+   Username: michael.visnieski
+   Original line: Mike Visnieski Head Rodeo Coach 580-774- michael.visnieski@swosu.edu
+
+21. Sierra Heinert
+   Email: sierra.smith@swosu.edu
+   Username: sierra.smith
+   Original line: Sierra Heinert Assistant Rodeo Coach sierra.smith@swosu.edu
+
+22. Mark Persson
+   Email: mark.persson@swosu.edu
+   Username: mark.persson
+   Original line: Mark Persson Head Soccer Coach 580-774- mark.persson@swosu.edu
+
+23. Cheyenne Mahy
+   Email: cheyenne.mahy@swosu.edu
+   Username: cheyenne.mahy
+   Original line: Cheyenne Mahy Head Softball Coach 580-774- cheyenne.mahy@swosu.edu
+
+24. Rebeca Fajardo
+   Email: fajardor@student.swosu.edu
+   Username: fajardor
+   Original line: Rebeca Fajardo Assistant Softball Coach fajardor@student.swosu.edu
+
+25. Madison Heinle
+   Email: heinlem@student.swosu.edu
+   Username: heinlem
+   Original line: Madison Heinle Assistant Softball Coach heinlem@student.swosu.edu
+
+26. Josh Collins
+   Email: josh.collins@swosu.edu
+   Username: josh.collins
+   Original line: Josh Collins Head Volleyball Coach / Assistant Athletic Director for Gameday 580-774- josh.collins@swosu.edu
+
+27. Kait Bagwell
+   Email: kaitlyn.bagwell@swosu.edu
+   Username: kaitlyn.bagwell
+   Original line: Kait Bagwell Assistant Volleyball Coach / Compliance Coordinator 580-774- kaitlyn.bagwell@swosu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Josh Collins Head Volleyball Coach / Assistant Athletic Director for Gameday 580-774- josh.collins@swosu.edu
+• Kait Bagwell Assistant Volleyball Coach / Compliance Coordinator 580-774- kaitlyn.bagwell@swosu.edu
+• Josh Collins Head Volleyball Coach / Assistant Athletic Director for Gameday 580-774- josh.collins@swosu.edu
+• Alex Baxter Head Strength & Conditioning Coach 580.774.3213 alexander.baxter@swosu.edu
+• JR Head Head Baseball Coach 580-774- larry.head@swosu.edu
+• Brett Weiberg Head Men's Basketball Coach 580-774- brett.weiberg@swosu.edu
+• Dan O'Dowd Assistant Men's Basketball Coach 580-774- daniel.odowd@swosu.edu
+• Jeff Zinn Head Women's Basketball Coach 580-774- jeff.zinn@swosu.edu
+• James Bagwell Assistant Women's Basketball Coach 580-774- james.bagwell@swosu.edu
+• McKenzie Pshigoda Head Cheer & Mascot Coach 580-331- mckenzie.pshigoda@swosu.edu
+• Jennifer Johnson Head Cross Country / Track & Field Coach 580-774- jennifer.johnson@swosu.edu
+• Andrew Rice Head Football Coach 580-774-7118 andrew.rice@swosu.edu
+• Mike Lucas Assistant Football Coach / Defensive Coordinator, Linebackers 580-774- michael.lucas@swosu.edu
+• Boone Feldt Assistant Football Coach / Offensive Coordinator, Recruiting 580-774- boone.feldt@swosu.edu
+• Adam Carr Assistant Football Coach / Quarterbacks 580-774- adam.carr@swosu.edu
+• Marquise Cunningham Assistant Football Coach / Defensive Line 580-774- marquise.cunningham@swosu.edu
+• Aaron Matthews Assistant Football Coach / Secondary 580-774- aaron.matthews@swosu.edu
+• Collin Leyden Assistant Football Coach / Special Teams Coordinator 580-774- collin.leyden@swosu.edu
+• Brad Fleetwood Head Men's & Women's Golf Coach 580-774- brad.fleetwood@swosu.edu
+• Mike Visnieski Head Rodeo Coach 580-774- michael.visnieski@swosu.edu
+• Sierra Heinert Assistant Rodeo Coach sierra.smith@swosu.edu
+• Mark Persson Head Soccer Coach 580-774- mark.persson@swosu.edu
+• Cheyenne Mahy Head Softball Coach 580-774- cheyenne.mahy@swosu.edu
+• Rebeca Fajardo Assistant Softball Coach fajardor@student.swosu.edu
+• Madison Heinle Assistant Softball Coach heinlem@student.swosu.edu
+• Josh Collins Head Volleyball Coach / Assistant Athletic Director for Gameday 580-774- josh.collins@swosu.edu
+• Kait Bagwell Assistant Volleyball Coach / Compliance Coordinator 580-774- kaitlyn.bagwell@swosu.edu

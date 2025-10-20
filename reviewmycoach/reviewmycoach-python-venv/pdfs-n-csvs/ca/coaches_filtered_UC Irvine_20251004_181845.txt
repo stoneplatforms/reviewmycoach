@@ -1,0 +1,299 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:46
+============================================================
+
+Total coaches found: 48
+
+PARSED ENTRIES:
+----------------------------------------
+1. Christy Mecxin
+   Email: cmecxin@uci.edu
+   Username: cmecxin
+   Original line: Christy Mecxin Head Coach Spirit Squad cmecxin@uci.edu
+
+2. Samantha Price
+   Email: saprice@uci.edu
+   Username: saprice
+   Original line: Samantha Price Volunteer Assistant Coach Spirit Squad saprice@uci.edu
+
+3. Summer Williams
+   Email: summew1@uci.edu
+   Username: summew1
+   Original line: Summer Williams Assistant Coach 1255C-CH (949) 824 - summew1@uci.edu
+
+4. Holly Bosley
+   Email: hbosley@uci.edu
+   Username: hbosley
+   Original line: Holly Bosley Assistant Coach 1255C-CH hbosley@uci.edu
+
+5. Ben Orloff
+   Email: borloff@uci.edu
+   Username: borloff
+   Original line: Ben Orloff Head Coach Newkirk (949) 824 - borloff@uci.edu
+
+6. Daniel Bibona
+   Email: dbibona@uci.edu
+   Username: dbibona
+   Original line: Daniel Bibona Assistant Coach Newkirk (949) 824 - dbibona@uci.edu
+
+7. J.T. Bloodworth
+   Email: jbloodwo@uci.edu
+   Username: jbloodwo
+   Original line: J.T. Bloodworth Assistant Coach Newkirk (214) 762 - jbloodwo@uci.edu
+
+8. Ryan Johnston
+   Email: rjohnst1@uci.edu
+   Username: rjohnst1
+   Original line: Ryan Johnston Volunteer Assistant Coach Newkirk rjohnst1@uci.edu
+
+9. Russell Turner
+   Email: UCIMBB@uci.edu
+   Username: UCIMBB
+   Original line: Russell Turner Head Coach 223-IAB (949) 824 - UCIMBB@uci.edu
+
+10. Ali Ton
+   Email: tonac@uci.edu
+   Username: tonac
+   Original line: Ali Ton Assistant Coach 221-IAB (949) 824 - tonac@uci.edu
+
+11. Nick Booker
+   Email: nbooker@uci.edu
+   Username: nbooker
+   Original line: Nick Booker Assistant Coach 210-IAB (949) 824 - nbooker@uci.edu
+
+12. Julius Smith
+   Email: julius1@uci.edu
+   Username: julius1
+   Original line: Julius Smith Assistant Coach 210-IAB (949) 824 - julius1@uci.edu
+
+13. Patrick Scully
+   Email: pscully@uci.edu
+   Username: pscully
+   Original line: Patrick Scully Assistant Coach 221-IAB (949) 824 - pscully@uci.edu
+
+14. Brady Boznanski
+   Email: bboznans@uci.edu
+   Username: bboznans
+   Original line: Brady Boznanski Assistant Coach 210-IAB (949) 824 - bboznans@uci.edu
+
+15. Tamara Inoue
+   Email: t.inoue@uci.edu
+   Username: t.inoue
+   Original line: Tamara Inoue Head Coach 219-IAB (949) 824 - t.inoue@uci.edu
+
+16. Cecilia Russell-Nava
+   Email: c.nava@uci.edu
+   Username: c.nava
+   Original line: Cecilia Russell-Nava Associate Head Coach 207-IAB (949) 824 - c.nava@uci.edu
+
+17. Derek Wynn
+   Email: dwynn@uci.edu
+   Username: dwynn
+   Original line: Derek Wynn Assistant Coach 208-IAB (949) 824 - dwynn@uci.edu
+
+18. Tyler Ellis
+   Email: tylere1@uci.edu
+   Username: tylere1
+   Original line: Tyler Ellis Assistant Coach 209-IAB (949) 824 - tylere1@uci.edu
+
+19. Lauren Saiki
+   Email: lsaiki@uci.edu
+   Username: lsaiki
+   Original line: Lauren Saiki Assistant Coach 208-IAB (949) 824 - lsaiki@uci.edu
+
+20. Paul Smolinski
+   Email: psmolins@uci.edu
+   Username: psmolins
+   Original line: Paul Smolinski Head Coach 111-IAB (949) 824 - psmolins@uci.edu
+
+21. Margo Dionisio
+   Email: mcdionis@uci.edu
+   Username: mcdionis
+   Original line: Margo Dionisio Head Coach 112-IAB (949) 697 - mcdionis@uci.edu
+
+22. Yossi Raz
+   Email: yraz@uci.edu
+   Username: yraz
+   Original line: Yossi Raz Head Coach 104-IAB (949) 824 - yraz@uci.edu
+
+23. Cale Rodriguez
+   Email: caler@uci.edu
+   Username: caler
+   Original line: Cale Rodriguez Associate Head Coach 105-IAB (949) 824 - caler@uci.edu
+
+24. Yonha Adrabi
+   Email: yadrabi@uci.edu
+   Username: yadrabi
+   Original line: Yonha Adrabi Assistant Coach 105-IAB (949) 824 - yadrabi@uci.edu
+
+25. Scott Juniper
+   Email: sjuniper@uci.edu
+   Username: sjuniper
+   Original line: Scott Juniper Head Coach 114-IAB (949) 824 - sjuniper@uci.edu
+
+26. P.J. Woolridge
+   Email: pwoolrid@uci.edu
+   Username: pwoolrid
+   Original line: P.J. Woolridge Associate Head Coach 113-IAB (949) 824 - pwoolrid@uci.edu
+
+27. Danielle de
+   Email: ddeserie@uci.edu
+   Username: ddeserie
+   Original line: Danielle de Seriere Assistant Coach 113-IAB (949) 824 - ddeserie@uci.edu
+
+28. Mike Saunders
+   Email: michaes@uci.edu
+   Username: michaes
+   Original line: Mike Saunders Head Coach 116-IAB (949) 824 - michaes@uci.edu
+
+29. Eric Quade
+   Email: equade@uci.edu
+   Username: equade
+   Original line: Eric Quade Volunteer Assistant Coach 116-IAB (949) 824 - equade@uci.edu
+
+30. Elizabeth Ferris
+   Email: ferrise@uci.edu
+   Username: ferrise
+   Original line: Elizabeth Ferris Smith Head Coach 115-IAB (949) 824 - ferrise@uci.edu
+
+31. Jeff Perkins
+   Email: jperkins@uci.edu
+   Username: jperkins
+   Original line: Jeff Perkins Director / Head Coach 101-IAB (949) 824 - jperkins@uci.edu
+
+32. Katelyn Ciarelli
+   Email: kciarell@uci.edu
+   Username: kciarell
+   Original line: Katelyn Ciarelli Associate Head Coach 102-IAB (949) 824 - kciarell@uci.edu
+
+33. Casey Kear
+   Email: kearc@uci.edu
+   Username: kearc
+   Original line: Casey Kear Assistant Coach 102-IAB (949) 824 - kearc@uci.edu
+
+34. Sean Brown
+   Email: browns3@uci.edu
+   Username: browns3
+   Original line: Sean Brown Assistant Coach 102-IAB (949) 824 - browns3@uci.edu
+
+35. Calla Nelson
+   Email: callaln@uci.edu
+   Username: callaln
+   Original line: Calla Nelson Volunteer Assistant Coach 102-IAB (949) 824 - callaln@uci.edu
+
+36. Tony Ciarelli
+   Email: aciarell@uci.edu
+   Username: aciarell
+   Original line: Tony Ciarelli Volunteer Assistant Coach 102-IAB (949) 824 - aciarell@uci.edu
+
+37. Hannah Chau
+   Email: hechau@uci.edu
+   Username: hechau
+   Original line: Hannah Chau Volunteer Assistant Coach 102-IAB (949) 824 - hechau@uci.edu
+
+38. Vince O'Boyle
+   Email: vboboyle@uci.edu
+   Username: vboboyle
+   Original line: Vince O'Boyle Coach Emeritus vboboyle@uci.edu
+
+39. David Kniffin
+   Email: dkniffin@uci.edu
+   Username: dkniffin
+   Original line: David Kniffin Head Coach 122-IAB Please Email dkniffin@uci.edu
+
+40. Ashlie Hain
+   Email: ahain@uci.edu
+   Username: ahain
+   Original line: Ashlie Hain Head Coach 121-IAB (949) 824 - ahain@uci.edu
+
+41. Brandon Thich
+   Email: bthich@uci.edu
+   Username: bthich
+   Original line: Brandon Thich Assistant Coach 119-IAB (949) 824 - bthich@uci.edu
+
+42. Kylie Miller
+   Email: kyliemm3@uci.edu
+   Username: kyliemm3
+   Original line: Kylie Miller Assistant Coach 119-IAB (949) 824 - kyliemm3@uci.edu
+
+43. Dan Klatt
+   Email: dklatt@uci.edu
+   Username: dklatt
+   Original line: Dan Klatt Head Coach, Director of Water Polo 107-IAB (949) 824 - dklatt@uci.edu
+
+44. Andrew Rowe
+   Email: ajrowe@uci.edu
+   Username: ajrowe
+   Original line: Andrew Rowe Associate Head Coach 117-IAB (949) 824 - ajrowe@uci.edu
+
+45. Jake Liechty
+   Email: jliechty@uci.edu
+   Username: jliechty
+   Original line: Jake Liechty Assistant Coach 106-IAB (949) 824 - jliechty@uci.edu
+
+46. Dan Klatt
+   Email: dklatt@uci.edu
+   Username: dklatt
+   Original line: Dan Klatt Head Coach, Director of Water Polo 107-IAB (949) 824 - dklatt@uci.edu
+
+47. Andrew Rowe
+   Email: ajrowe@uci.edu
+   Username: ajrowe
+   Original line: Andrew Rowe Associate Head Coach 117-IAB (949) 824 - ajrowe@uci.edu
+
+48. Alys Moore
+   Email: alysw@uci.edu
+   Username: alysw
+   Original line: Alys Moore Assistant Coach 117-IAB (949) 824 - alysw@uci.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Christy Mecxin Head Coach Spirit Squad cmecxin@uci.edu
+• Samantha Price Volunteer Assistant Coach Spirit Squad saprice@uci.edu
+• Summer Williams Assistant Coach 1255C-CH (949) 824 - summew1@uci.edu
+• Holly Bosley Assistant Coach 1255C-CH hbosley@uci.edu
+• Ben Orloff Head Coach Newkirk (949) 824 - borloff@uci.edu
+• Daniel Bibona Assistant Coach Newkirk (949) 824 - dbibona@uci.edu
+• J.T. Bloodworth Assistant Coach Newkirk (214) 762 - jbloodwo@uci.edu
+• Ryan Johnston Volunteer Assistant Coach Newkirk rjohnst1@uci.edu
+• Russell Turner Head Coach 223-IAB (949) 824 - UCIMBB@uci.edu
+• Ali Ton Assistant Coach 221-IAB (949) 824 - tonac@uci.edu
+• Nick Booker Assistant Coach 210-IAB (949) 824 - nbooker@uci.edu
+• Julius Smith Assistant Coach 210-IAB (949) 824 - julius1@uci.edu
+• Patrick Scully Assistant Coach 221-IAB (949) 824 - pscully@uci.edu
+• Brady Boznanski Assistant Coach 210-IAB (949) 824 - bboznans@uci.edu
+• Tamara Inoue Head Coach 219-IAB (949) 824 - t.inoue@uci.edu
+• Cecilia Russell-Nava Associate Head Coach 207-IAB (949) 824 - c.nava@uci.edu
+• Derek Wynn Assistant Coach 208-IAB (949) 824 - dwynn@uci.edu
+• Tyler Ellis Assistant Coach 209-IAB (949) 824 - tylere1@uci.edu
+• Lauren Saiki Assistant Coach 208-IAB (949) 824 - lsaiki@uci.edu
+• Paul Smolinski Head Coach 111-IAB (949) 824 - psmolins@uci.edu
+• Margo Dionisio Head Coach 112-IAB (949) 697 - mcdionis@uci.edu
+• Yossi Raz Head Coach 104-IAB (949) 824 - yraz@uci.edu
+• Cale Rodriguez Associate Head Coach 105-IAB (949) 824 - caler@uci.edu
+• Yonha Adrabi Assistant Coach 105-IAB (949) 824 - yadrabi@uci.edu
+• Scott Juniper Head Coach 114-IAB (949) 824 - sjuniper@uci.edu
+• P.J. Woolridge Associate Head Coach 113-IAB (949) 824 - pwoolrid@uci.edu
+• Danielle de Seriere Assistant Coach 113-IAB (949) 824 - ddeserie@uci.edu
+• Mike Saunders Head Coach 116-IAB (949) 824 - michaes@uci.edu
+• Eric Quade Volunteer Assistant Coach 116-IAB (949) 824 - equade@uci.edu
+• Elizabeth Ferris Smith Head Coach 115-IAB (949) 824 - ferrise@uci.edu
+• Jeff Perkins Director / Head Coach 101-IAB (949) 824 - jperkins@uci.edu
+• Katelyn Ciarelli Associate Head Coach 102-IAB (949) 824 - kciarell@uci.edu
+• Casey Kear Assistant Coach 102-IAB (949) 824 - kearc@uci.edu
+• Sean Brown Assistant Coach 102-IAB (949) 824 - browns3@uci.edu
+• Calla Nelson Volunteer Assistant Coach 102-IAB (949) 824 - callaln@uci.edu
+• Tony Ciarelli Volunteer Assistant Coach 102-IAB (949) 824 - aciarell@uci.edu
+• Hannah Chau Volunteer Assistant Coach 102-IAB (949) 824 - hechau@uci.edu
+• Vince O'Boyle Coach Emeritus vboboyle@uci.edu
+• David Kniffin Head Coach 122-IAB Please Email dkniffin@uci.edu
+• Ashlie Hain Head Coach 121-IAB (949) 824 - ahain@uci.edu
+• Brandon Thich Assistant Coach 119-IAB (949) 824 - bthich@uci.edu
+• Kylie Miller Assistant Coach 119-IAB (949) 824 - kyliemm3@uci.edu
+• Dan Klatt Head Coach, Director of Water Polo 107-IAB (949) 824 - dklatt@uci.edu
+• Andrew Rowe Associate Head Coach 117-IAB (949) 824 - ajrowe@uci.edu
+• Jake Liechty Assistant Coach 106-IAB (949) 824 - jliechty@uci.edu
+• Dan Klatt Head Coach, Director of Water Polo 107-IAB (949) 824 - dklatt@uci.edu
+• Andrew Rowe Associate Head Coach 117-IAB (949) 824 - ajrowe@uci.edu
+• Alys Moore Assistant Coach 117-IAB (949) 824 - alysw@uci.edu

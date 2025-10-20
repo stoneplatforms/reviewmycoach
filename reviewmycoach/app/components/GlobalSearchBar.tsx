@@ -8,6 +8,7 @@ interface GlobalSearchBarProps {
   placeholder?: string;
   className?: string;
   showSuggestions?: boolean;
+  inputClassName?: string;
 }
 
 interface SearchSuggestion {
@@ -20,7 +21,8 @@ interface SearchSuggestion {
 export default function GlobalSearchBar({ 
   placeholder = "Search coaches, sports, or locations...",
   className = "",
-  showSuggestions = true 
+  showSuggestions = true,
+  inputClassName = ""
 }: GlobalSearchBarProps) {
   const [searchTerm, setSearchTerm] = useState('');
   const [isOpen, setIsOpen] = useState(false);
@@ -154,9 +156,11 @@ export default function GlobalSearchBar({
       {/* Search Input */}
       <div className="relative">
         <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-          <svg className="w-5 h-5 text-neutral-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-          </svg>
+          <div className="w-8 h-8 rounded-full bg-neutral-800/90 flex items-center justify-center">
+            <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+            </svg>
+          </div>
         </div>
         <input
           ref={inputRef}
@@ -166,7 +170,7 @@ export default function GlobalSearchBar({
           onFocus={() => setIsOpen(true)}
           onKeyDown={handleKeyDown}
           placeholder={placeholder}
-          className="w-full pl-10 pr-5 py-3 border border-gray-300 rounded-full focus:ring-2 focus:ring-red-200 focus:border-red-300 placeholder-gray-500 transition-all duration-200 shadow-sm hover:shadow-md focus:shadow-md text-base"
+          className={`w-full pl-14 pr-5 py-3 border border-gray-300 rounded-full focus:ring-2 focus:ring-red-200 focus:border-red-300 placeholder-gray-500 transition-all duration-200 shadow-sm hover:shadow-md focus:shadow-md text-base ${inputClassName}`}
           autoComplete="off"
         />
         {loading && (

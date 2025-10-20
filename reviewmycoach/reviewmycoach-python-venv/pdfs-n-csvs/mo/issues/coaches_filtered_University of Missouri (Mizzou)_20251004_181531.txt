@@ -1,0 +1,352 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:34
+============================================================
+
+Total coaches found: 68
+
+PARSED ENTRIES:
+----------------------------------------
+1.  
+   Email: timberlakecs@missouri.edu
+   Username: timberlakecs
+   Original line: Cheerleading Coach & Mascot Coordinator timberlakecs@missouri.edu
+
+2.  
+   Email: bdebord@missouri.edu
+   Username: bdebord
+   Original line: Golden Girls Coach bdebord@missouri.edu
+
+3. Full Bio
+   Email: jbrzk@missouri.edu
+   Username: jbrzk
+   Original line: Full Bio Pitching Coach jbrzk@missouri.edu
+
+4.  
+   Email: jamiesont@missouri.edu
+   Username: jamiesont
+   Original line: Assistant Coach jamiesont@missouri.edu
+
+5.  
+   Email: bjlf22@missouri.edu
+   Username: bjlf22
+   Original line: Assistant Coach bjlf22@missouri.edu
+
+6.  
+   Email: carballoj@missouri.edu
+   Username: carballoj
+   Original line: Assistant Coach carballoj@missouri.edu
+
+7. Full Bio
+   Email: smithpetersk@missouri.edu
+   Username: smithpetersk
+   Original line: Full Bio Whitten Family Men's Basketball Head Coach smithpetersk@missouri.edu
+
+8.  
+   Email: r.sharbaugh@missouri.edu
+   Username: r.sharbaugh
+   Original line: Associate Head Coach r.sharbaugh@missouri.edu
+
+9.  
+   Email: mcline@missouri.edu
+   Username: mcline
+   Original line: Assistant Coach mcline@missouri.edu
+
+10.  
+   Email: steven.wright@missouri.edu
+   Username: steven.wright
+   Original line: Assistant Coach steven.wright@missouri.edu
+
+11.  
+   Email: dnutt@missouri.edu
+   Username: dnutt
+   Original line: Assistant Coach dnutt@missouri.edu
+
+12. Full Bio
+   Email: hhall@missouri.edu
+   Username: hhall
+   Original line: Full Bio Assistant Coach hhall@missouri.edu
+
+13.  
+   Email: tanneranderson@missouri.edu
+   Username: tanneranderson
+   Original line: Assistant Coach / Distance, Middle Distance tanneranderson@missouri.edu
+
+14.  
+   Email: paigeduca@missouri.edu
+   Username: paigeduca
+   Phone: (573) 882-2214
+   Original line: Assistant Coach / Distance, Middle Distance paigeduca@missouri.edu
+
+15. Full Bio
+   Email: fbrecruiting@missouri.edu
+   Username: fbrecruiting
+   Original line: Full Bio Head Coach fbrecruiting@missouri.edu
+
+16.  
+   Email: fbrecruiting@missouri.edu
+   Username: fbrecruiting
+   Original line: Assistant Head Coach / Cornerbacks fbrecruiting@missouri.edu
+
+17.  
+   Email: fbrecruiting@missouri.edu
+   Username: fbrecruiting
+   Original line: Assistant Coach / Defensive Tackles fbrecruiting@missouri.edu
+
+18.  
+   Email: fbrecruiting@missouri.edu
+   Username: fbrecruiting
+   Original line: Assistant Coach / Tight Ends fbrecruiting@missouri.edu
+
+19.  
+   Email: fbrecruiting@missouri.edu
+   Username: fbrecruiting
+   Original line: Assistant Coach / Edges fbrecruiting@missouri.edu
+
+20.  
+   Email: fbrecruiting@missouri.edu
+   Username: fbrecruiting
+   Original line: Assistant Coach / Quarterbacks fbrecruiting@missouri.edu
+
+21.  
+   Email: fbrecruiting@missouri.edu
+   Username: fbrecruiting
+   Original line: Assistant Coach / Offensive Line fbrecruiting@missouri.edu
+
+22.  
+   Email: fbrecruiting@missouri.edu
+   Username: fbrecruiting
+   Original line: Assistant Coach / Running Backs fbrecruiting@missouri.edu
+
+23.  
+   Email: fbrecruiting@missouri.edu
+   Username: fbrecruiting
+   Original line: Assistant Coach / Linebackers fbrecruiting@missouri.edu
+
+24.  
+   Email: fbrecruiting@missouri.edu
+   Username: fbrecruiting
+   Original line: Assistant Coach / Wide Receivers / Recruiting Coordinator fbrecruiting@missouri.edu
+
+25.  
+   Email: fbrecruiting@missouri.edu
+   Username: fbrecruiting
+   Original line: Assistant Coach / Safeties fbrecruiting@missouri.edu
+
+26.  
+   Email: m.hardy@missouri.edu
+   Username: m.hardy
+   Original line: Special Assistant to Head Coach m.hardy@missouri.edu
+
+27.  
+   Email: jgreen@missouri.edu
+   Username: jgreen
+   Original line: Director of Coaches' Video Operations jgreen@missouri.edu
+
+28.  
+   Email: cordesv@missouri.edu
+   Username: cordesv
+   Original line: Assistant Director of Coaches' Video Operations cordesv@missouri.edu
+
+29.  
+   Email: seancarlon@missouri.edu
+   Username: seancarlon
+   Original line: Head Coach seancarlon@missouri.edu
+
+30.  
+   Email: cwestrup@missouri.edu
+   Username: cwestrup
+   Original line: Assistant Coach cwestrup@missouri.edu
+
+31.  
+   Email: fguarnericampbell@missouri.edu
+   Username: fguarnericampbell
+   Original line: Head Coach fguarnericampbell@missouri.edu
+
+32.  
+   Email: welkers@missouri.edu
+   Username: welkers
+   Original line: Assistant Coach welkers@missouri.edu
+
+33.  
+   Email: WLSnowden@missouri.edu
+   Username: WLSnowden
+   Original line: Head Coach WLSnowden@missouri.edu
+
+34.  
+   Email: Lacey.rubin@missouri.edu
+   Username: Lacey.rubin
+   Original line: Associate Head Coach Lacey.rubin@missouri.edu
+
+35.  
+   Email: jterpak@missouri.edu
+   Username: jterpak
+   Original line: Assistant Coach jterpak@missouri.edu
+
+36.  
+   Email: mncgt3@missouri.edu
+   Username: mncgt3
+   Original line: Assistant Coach mncgt3@missouri.edu
+
+37.  
+   Email: kwys@missouri.edu
+   Username: kwys
+   Original line: Head Coach kwys@missouri.edu
+
+38. Full Bio
+   Email: apkqn@missouri.edu
+   Username: apkqn
+   Original line: Full Bio Associate Head Coach apkqn@missouri.edu
+
+39.  
+   Email: mkuhbacher@missouri.edu
+   Username: mkuhbacher
+   Original line: Assistant Coach mkuhbacher@missouri.edu
+
+40.  
+   Email: jgtbx@missouri.edu
+   Username: jgtbx
+   Original line: Head Coach jgtbx@missouri.edu
+
+41.  
+   Email: inry3@missouri.edu
+   Username: inry3
+   Original line: Assistant Softball Coach, Recruiting Coordinator inry3@missouri.edu
+
+42.  
+   Email: jepstein@missouri.edu
+   Username: jepstein
+   Original line: Assistant Coach jepstein@missouri.edu
+
+43.  
+   Email: twdr7m@missouri.edu
+   Username: twdr7m
+   Original line: Assistant Softball Coach, Hitting Coordinator twdr7m@missouri.edu
+
+44.  
+   Email: kbogner@missouri.edu
+   Username: kbogner
+   Original line: Head Coach kbogner@missouri.edu
+
+45.  
+   Email: akhayden@missouri.edu
+   Username: akhayden
+   Original line: Head Diving Coach akhayden@missouri.edu
+
+46.  
+   Email: mbanic@missouri.edu
+   Username: mbanic
+   Original line: Associate Head Coach mbanic@missouri.edu
+
+47.  
+   Email: AJSYTC@MISSOURI.EDU
+   Username: AJSYTC
+   Original line: Assistant Coach AJSYTC@MISSOURI.EDU
+
+48.  
+   Email: mih24@missouri.edu
+   Username: mih24
+   Original line: Assistant Coach mih24@missouri.edu
+
+49.  
+   Email: katemccarville@missouri.edu
+   Username: katemccarville
+   Original line: Assistant Diving Coach katemccarville@missouri.edu
+
+50.  
+   Email: scd9f@missouri.edu
+   Username: scd9f
+   Original line: Assistant Coach scd9f@missouri.edu
+
+51.  
+   Email: cd5bn@missouri.edu
+   Username: cd5bn
+   Original line: Interim Head Coach cd5bn@missouri.edu
+
+52.  
+   Email: cg4r9@health.missouri.edu
+   Username: cg4r9
+   Original line: Assistant Coach cg4r9@health.missouri.edu
+
+53.  
+   Email: wicka@missouri.edu
+   Username: wicka
+   Original line: Assistant Coach wicka@missouri.edu
+
+54.  
+   Email: RWEIR@MISSOURI.EDU
+   Username: RWEIR
+   Original line: Head Coach / Javelin RWEIR@MISSOURI.EDU
+
+55.  
+   Email: jandreassen@missouri.edu
+   Username: jandreassen
+   Original line: Assistant Coach / Throws jandreassen@missouri.edu
+
+56.  
+   Email: ebray@missouri.edu
+   Username: ebray
+   Original line: Assistant Coach - Sprints / Hurdles / Multis ebray@missouri.edu
+
+57.  
+   Email: tj.harris@missouri.edu
+   Username: tj.harris
+   Original line: Assistant Coach - Pole Vault tj.harris@missouri.edu
+
+58.  
+   Email: klevermore@missouri.edu
+   Username: klevermore
+   Original line: Assistant Coach - Horizontal Jumps, High Jump klevermore@missouri.edu
+
+59.  
+   Email: tanneranderson@missouri.edu
+   Username: tanneranderson
+   Original line: Assistant Coach / Distance, Middle Distance tanneranderson@missouri.edu
+
+60.  
+   Email: paigeduca@missouri.edu
+   Username: paigeduca
+   Original line: Assistant Coach / Distance, Middle Distance paigeduca@missouri.edu
+
+61.  
+   Email: mnrqb4@missouri.edu
+   Username: mnrqb4
+   Original line: Assistant Coach / Distance, Middle Distance mnrqb4@missouri.edu
+
+62.  
+   Email: walvescamargo@missouri.edu
+   Username: walvescamargo
+   Original line: Head Coach walvescamargo@missouri.edu
+
+63.  
+   Email: cullenirons@missouri.edu
+   Username: cullenirons
+   Original line: Associate Head Coach cullenirons@missouri.edu
+
+64.  
+   Email: jsg9h3@missouri.edu
+   Username: jsg9h3
+   Original line: Assistant Coach jsg9h3@missouri.edu
+
+65.  
+   Email: emilysiefken@missouri.edu
+   Username: emilysiefken
+   Original line: Assistant Coach emilysiefken@missouri.edu
+
+66.  
+   Email: kmaple@missouri.edu
+   Username: kmaple
+   Original line: Head Coach kmaple@missouri.edu
+
+67.  
+   Email: ddb7x9@mizzou.edu
+   Username: ddb7x9
+   Original line: Associate Head Coach ddb7x9@mizzou.edu
+
+68. Full Bio
+   Email: jkhagerty@missouri.edu
+   Username: jkhagerty
+   Original line: Full Bio Assistant Coach jkhagerty@missouri.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

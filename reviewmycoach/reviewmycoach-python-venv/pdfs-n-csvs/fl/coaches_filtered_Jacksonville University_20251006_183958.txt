@@ -1,0 +1,341 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:58
+============================================================
+
+Total coaches found: 55
+
+PARSED ENTRIES:
+----------------------------------------
+1. Derek Mann
+   Email: dmann3@ju.edu
+   Username: dmann3
+   Original line: Dr. Derek Mann Mental Performance Coach (904) 256- dmann3@ju.edu
+
+2. Ellen Gooch
+   Email: egooch@ju.edu
+   Username: egooch
+   Original line: Ellen Gooch Assistant Sports Performance Coach egooch@ju.edu
+
+3. Matthew Micoliczyk
+   Email: mmicoli@jacksonville.edu
+   Username: mmicoli
+   Original line: Matthew Micoliczyk Assistant Sports Performance Coach mmicoli@jacksonville.edu
+
+4. Sean Wooleyhand
+   Email: swooley@jacksonville.edu
+   Username: swooley
+   Original line: Sean Wooleyhand Graduate Assistant Strength & Conditioning Coach swooley@jacksonville.edu
+
+5. Gabby Little
+   Email: glittle3@jacksonville.edu
+   Username: glittle3
+   Original line: Gabby Little Graduate Assistant Strength and Conditioning Coach glittle3@jacksonville.edu
+
+6. Chris Hayes
+   Email: chayes1@ju.edu
+   Username: chayes1
+   Original line: Chris Hayes Head Coach (904) 256- chayes1@ju.edu
+
+7. Colby Bortles
+   Email: cbortle@ju.edu
+   Username: cbortle
+   Original line: Colby Bortles Assistant Coach cbortle@ju.edu
+
+8. Dylan Hough
+   Email: dhough@ju.edu
+   Username: dhough
+   Original line: Dylan Hough Head Coach dhough@ju.edu
+
+9. Emily Kubicsko
+   Email: ekubics@jacksonville.edu
+   Username: ekubics
+   Original line: Emily Kubicsko Assistant Coach ekubics@jacksonville.edu
+
+10. Sean Wooleyhand
+   Email: swooley@jacksonville.edu
+   Username: swooley
+   Original line: Sean Wooleyhand Graduate Assistant Strength & Conditioning Coach swooley@jacksonville.edu
+
+11. Diego Torres
+   Email: dtorres7@ju.edu
+   Username: dtorres7
+   Original line: Diego Torres Assistant Coach dtorres7@ju.edu
+
+12. Gabby Little
+   Email: glittle3@jacksonville.edu
+   Username: glittle3
+   Original line: Gabby Little Graduate Assistant Strength and Conditioning Coach glittle3@jacksonville.edu
+
+13. Troy Pierce
+   Email: tpierce@ju.edu
+   Username: tpierce
+   Original line: Troy Pierce Associate Head Coach tpierce@ju.edu
+
+14. Timothy Peete
+   Email: tpeete@ju.edu
+   Username: tpeete
+   Original line: Timothy Peete Assistant Coach tpeete@ju.edu
+
+15. Jordon Garman
+   Email: jgarman1@ju.edu
+   Username: jgarman1
+   Original line: Jordon Garman XC Head Coach/T&F Distance Coach jgarman1@ju.edu
+
+16. Samantha Wood
+   Email: swood16@ju.edu
+   Username: swood16
+   Original line: Samantha Wood Assistant Coach swood16@ju.edu
+
+17. Sean Wooleyhand
+   Email: swooley@jacksonville.edu
+   Username: swooley
+   Original line: Sean Wooleyhand Graduate Assistant Strength & Conditioning Coach swooley@jacksonville.edu
+
+18. Jordon Garman
+   Email: jgarman1@ju.edu
+   Username: jgarman1
+   Original line: Jordon Garman XC Head Coach/T&F Distance Coach jgarman1@ju.edu
+
+19. Sean Wooleyhand
+   Email: swooley@jacksonville.edu
+   Username: swooley
+   Original line: Sean Wooleyhand Graduate Assistant Strength & Conditioning Coach swooley@jacksonville.edu
+
+20. Samantha Wood
+   Email: swood16@ju.edu
+   Username: swood16
+   Original line: Samantha Wood Assistant Coach swood16@ju.edu
+
+21. Mike Blackburn
+   Email: wblackb@ju.edu
+   Username: wblackb
+   Original line: Mike Blackburn Head Coach wblackb@ju.edu
+
+22. Kathryn Dougan
+   Email: kdougan1@ju.edu
+   Username: kdougan1
+   Original line: Kathryn Dougan Head Coach (904) 256- kdougan1@ju.edu
+
+23. Chris Perzinski
+   Email: cperzin@ju.edu
+   Username: cperzin
+   Original line: Chris Perzinski Associate Head Coach/Recruiting Coordinator cperzin@ju.edu
+
+24. JT Giles-Harris
+   Email: jgilesh@ju.edu
+   Username: jgilesh
+   Original line: JT Giles-Harris Assistant Coach jgilesh@ju.edu
+
+25. Matthew Micoliczyk
+   Email: mmicoli@jacksonville.edu
+   Username: mmicoli
+   Original line: Matthew Micoliczyk Assistant Sports Performance Coach mmicoli@jacksonville.edu
+
+26. Tara Singleton
+   Email: tsingle8@ju.edu
+   Username: tsingle8
+   Original line: Tara Singleton Head Coach tsingle8@ju.edu
+
+27. Haley Warden
+   Email: hwarden@ju.edu
+   Username: hwarden
+   Original line: Haley Warden Associate Head Coach hwarden@ju.edu
+
+28. Kacey Knobloch
+   Email: kknoblo@ju.edu
+   Username: kknoblo
+   Original line: Kacey Knobloch Assistant Coach kknoblo@ju.edu
+
+29. Preston Weinard
+   Email: pweinar@ju.edu
+   Username: pweinar
+   Original line: Preston Weinard Head Coach (904) 256- pweinar@ju.edu
+
+30. Allison Sobiech
+   Email: asobiec@ju.edu
+   Username: asobiec
+   Original line: Allison Sobiech Assistant Coach asobiec@ju.edu
+
+31. Matthew Micoliczyk
+   Email: mmicoli@jacksonville.edu
+   Username: mmicoli
+   Original line: Matthew Micoliczyk Assistant Sports Performance Coach mmicoli@jacksonville.edu
+
+32. Mike Lane
+   Email: mlane5@ju.edu
+   Username: mlane5
+   Original line: Mike Lane Head Women's Coach (904) 256- mlane5@ju.edu
+
+33. Ellen Gooch
+   Email: egooch@ju.edu
+   Username: egooch
+   Original line: Ellen Gooch Assistant Sports Performance Coach egooch@ju.edu
+
+34. Ameerah Aly
+   Email: aaly1@ju.edu
+   Username: aaly1
+   Original line: Ameerah Aly Assistant Coach, Recruiting Coordinator aaly1@ju.edu
+
+35. Erica Ayers
+   Email: eayers1@ju.edu
+   Username: eayers1
+   Original line: Erica Ayers Head Coach (904) 256- eayers1@ju.edu
+
+36. Jake Sidwell
+   Email: jsidwel@ju.edu
+   Username: jsidwel
+   Original line: Jake Sidwell Associate Head Coach jsidwel@ju.edu
+
+37. Holli Mitchell
+   Email: hmitche4@ju.edu
+   Username: hmitche4
+   Original line: Holli Mitchell Assistant Coach / Pitching Coach hmitche4@ju.edu
+
+38. Blakely Cheek
+   Email: bburch2@ju.edu
+   Username: bburch2
+   Original line: Blakely Cheek Assistant Coach bburch2@ju.edu
+
+39. Ellen Gooch
+   Email: egooch@ju.edu
+   Username: egooch
+   Original line: Ellen Gooch Assistant Sports Performance Coach egooch@ju.edu
+
+40. Ali Simmons
+   Email: asimmon17@ju.edu
+   Username: asimmon17
+   Original line: Ali Simmons Head Coach asimmon17@ju.edu
+
+41. Thomas Buckner
+   Email: tbuckne@ju.edu
+   Username: tbuckne
+   Original line: Thomas Buckner Associate Head Coach (904) 725- tbuckne@ju.edu
+
+42. Josh Moreira
+   Email: jmoreir@jacksonville.edu
+   Username: jmoreir
+   Original line: Josh Moreira Assistant Coach jmoreir@jacksonville.edu
+
+43. Michael Garrihy
+   Email: mgarrih@jacksonville.edu
+   Username: mgarrih
+   Original line: Michael Garrihy Assistant Coach mgarrih@jacksonville.edu
+
+44. Ellen Gooch
+   Email: egooch@ju.edu
+   Username: egooch
+   Original line: Ellen Gooch Assistant Sports Performance Coach egooch@ju.edu
+
+45. Ryan Moon
+   Email: rmoon2@ju.edu
+   Username: rmoon2
+   Original line: Ryan Moon Head Coach rmoon2@ju.edu
+
+46. Gary Ogilvie
+   Email: gogilvi@ju.edu
+   Username: gogilvi
+   Original line: Gary Ogilvie Associate Head Coach gogilvi@ju.edu
+
+47. Olivia Thompson
+   Email: othomps2@ju.edu
+   Username: othomps2
+   Original line: Olivia Thompson Assistant Coach othomps2@ju.edu
+
+48. Teresa Moon
+   Email: tmoon@ju.edu
+   Username: tmoon
+   Original line: Teresa Moon Volunteer Assistant Coach tmoon@ju.edu
+
+49. Diego Vela
+   Email: dvela@ju.edu
+   Username: dvela
+   Original line: Diego Vela Track and Field Head Coach (904) 256- dvela@ju.edu
+
+50. Jordon Garman
+   Email: jgarman1@ju.edu
+   Username: jgarman1
+   Original line: Jordon Garman XC Head Coach/T&F Distance Coach jgarman1@ju.edu
+
+51. Sean Wooleyhand
+   Email: swooley@jacksonville.edu
+   Username: swooley
+   Original line: Sean Wooleyhand Graduate Assistant Strength & Conditioning Coach swooley@jacksonville.edu
+
+52. Alicia Manguiat
+   Email: volleyball@ju.edu
+   Username: volleyball
+   Original line: Alicia Manguiat (Roth) Head Coach volleyball@ju.edu
+
+53. Peter Manguiat
+   Email: pmangui@ju.edu
+   Username: pmangui
+   Original line: Peter Manguiat Associate Head Coach pmangui@ju.edu
+
+54. Andrew Diaz
+   Email: adiazde@ju.edu
+   Username: adiazde
+   Original line: Andrew Diaz De Padilla Assistant Coach adiazde@ju.edu
+
+55. Christin Norris
+   Email: cnorris12@ju.edu
+   Username: cnorris12
+   Original line: Christin Norris Head Coach cnorris12@ju.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dr. Derek Mann Mental Performance Coach (904) 256- dmann3@ju.edu
+• Ellen Gooch Assistant Sports Performance Coach egooch@ju.edu
+• Matthew Micoliczyk Assistant Sports Performance Coach mmicoli@jacksonville.edu
+• Sean Wooleyhand Graduate Assistant Strength & Conditioning Coach swooley@jacksonville.edu
+• Gabby Little Graduate Assistant Strength and Conditioning Coach glittle3@jacksonville.edu
+• Chris Hayes Head Coach (904) 256- chayes1@ju.edu
+• Colby Bortles Assistant Coach cbortle@ju.edu
+• Dylan Hough Head Coach dhough@ju.edu
+• Emily Kubicsko Assistant Coach ekubics@jacksonville.edu
+• Sean Wooleyhand Graduate Assistant Strength & Conditioning Coach swooley@jacksonville.edu
+• Diego Torres Assistant Coach dtorres7@ju.edu
+• Gabby Little Graduate Assistant Strength and Conditioning Coach glittle3@jacksonville.edu
+• Troy Pierce Associate Head Coach tpierce@ju.edu
+• Timothy Peete Assistant Coach tpeete@ju.edu
+• Jordon Garman XC Head Coach/T&F Distance Coach jgarman1@ju.edu
+• Samantha Wood Assistant Coach swood16@ju.edu
+• Sean Wooleyhand Graduate Assistant Strength & Conditioning Coach swooley@jacksonville.edu
+• Jordon Garman XC Head Coach/T&F Distance Coach jgarman1@ju.edu
+• Sean Wooleyhand Graduate Assistant Strength & Conditioning Coach swooley@jacksonville.edu
+• Samantha Wood Assistant Coach swood16@ju.edu
+• Mike Blackburn Head Coach wblackb@ju.edu
+• Kathryn Dougan Head Coach (904) 256- kdougan1@ju.edu
+• Chris Perzinski Associate Head Coach/Recruiting Coordinator cperzin@ju.edu
+• JT Giles-Harris Assistant Coach jgilesh@ju.edu
+• Matthew Micoliczyk Assistant Sports Performance Coach mmicoli@jacksonville.edu
+• Tara Singleton Head Coach tsingle8@ju.edu
+• Haley Warden Associate Head Coach hwarden@ju.edu
+• Kacey Knobloch Assistant Coach kknoblo@ju.edu
+• Preston Weinard Head Coach (904) 256- pweinar@ju.edu
+• Allison Sobiech Assistant Coach asobiec@ju.edu
+• Matthew Micoliczyk Assistant Sports Performance Coach mmicoli@jacksonville.edu
+• Mike Lane Head Women's Coach (904) 256- mlane5@ju.edu
+• Ellen Gooch Assistant Sports Performance Coach egooch@ju.edu
+• Ameerah Aly Assistant Coach, Recruiting Coordinator aaly1@ju.edu
+• Erica Ayers Head Coach (904) 256- eayers1@ju.edu
+• Jake Sidwell Associate Head Coach jsidwel@ju.edu
+• Holli Mitchell Assistant Coach / Pitching Coach hmitche4@ju.edu
+• Blakely Cheek Assistant Coach bburch2@ju.edu
+• Ellen Gooch Assistant Sports Performance Coach egooch@ju.edu
+• Ali Simmons Head Coach asimmon17@ju.edu
+• Thomas Buckner Associate Head Coach (904) 725- tbuckne@ju.edu
+• Josh Moreira Assistant Coach jmoreir@jacksonville.edu
+• Michael Garrihy Assistant Coach mgarrih@jacksonville.edu
+• Ellen Gooch Assistant Sports Performance Coach egooch@ju.edu
+• Ryan Moon Head Coach rmoon2@ju.edu
+• Gary Ogilvie Associate Head Coach gogilvi@ju.edu
+• Olivia Thompson Assistant Coach othomps2@ju.edu
+• Teresa Moon Volunteer Assistant Coach tmoon@ju.edu
+• Diego Vela Track and Field Head Coach (904) 256- dvela@ju.edu
+• Jordon Garman XC Head Coach/T&F Distance Coach jgarman1@ju.edu
+• Sean Wooleyhand Graduate Assistant Strength & Conditioning Coach swooley@jacksonville.edu
+• Alicia Manguiat (Roth) Head Coach volleyball@ju.edu
+• Peter Manguiat Associate Head Coach pmangui@ju.edu
+• Andrew Diaz De Padilla Assistant Coach adiazde@ju.edu
+• Christin Norris Head Coach cnorris12@ju.edu

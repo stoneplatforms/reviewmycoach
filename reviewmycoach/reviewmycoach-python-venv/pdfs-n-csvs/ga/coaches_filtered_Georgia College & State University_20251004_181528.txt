@@ -1,0 +1,95 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:28
+============================================================
+
+Total coaches found: 14
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jeff Pelkey
+   Email: jeffrey.pelkey@gcsu.edu
+   Username: jeffrey.pelkey
+   Original line: Jeff Pelkey Head Coach (478) 445- jeffrey.pelkey@gcsu.edu
+
+2. Jaiden Warde
+   Email: jaiden.warde@gcsu.edu
+   Username: jaiden.warde
+   Original line: Jaiden Warde Assistant Coach jaiden.warde@gcsu.edu
+
+3. Ryan Aquino
+   Email: ryan.aquino@gcsu.edu
+   Username: ryan.aquino
+   Original line: Ryan Aquino Head Coach (478) 445- ryan.aquino@gcsu.edu
+
+4. Jake Rios
+   Email: jake.rios@gcsu.edu
+   Username: jake.rios
+   Original line: Jake Rios Assistant Coach (478) 445- jake.rios@gcsu.edu
+
+5. Catrina Green
+   Email: catrina.green@gcsu.edu
+   Username: catrina.green
+   Original line: Catrina Green Interim Head Coach (478) 445- catrina.green@gcsu.edu
+
+6. Alexander Bruno
+   Email: alexander.bruno@gcsu.edu
+   Username: alexander.bruno
+   Original line: Alexander Bruno Head Coach (478) 445- alexander.bruno@gcsu.edu
+
+7. Alexander Bruno
+   Email: alexander.bruno@gcsu.edu
+   Username: alexander.bruno
+   Original line: Alexander Bruno Head Coach (478) 445- alexander.bruno@gcsu.edu
+
+8. Jack Marchant
+   Email: jack.marchant@gcsu.edu
+   Username: jack.marchant
+   Original line: Jack Marchant Head Coach (478) 445- jack.marchant@gcsu.edu
+
+9. Joanne Spalding
+   Email: joanne.spalding@gcsu.edu
+   Username: joanne.spalding
+   Original line: Dr. Joanne Spalding Assistant Coach joanne.spalding@gcsu.edu
+
+10. Ben English
+   Email: benjamin.english@gcsu.edu
+   Username: benjamin.english
+   Original line: Ben English Head Coach (478) 445- benjamin.english@gcsu.edu
+
+11. Brittany Johnson
+   Email: brittany.johnson1@gcsu.edu
+   Username: brittany.johnson1
+   Original line: Brittany Johnson Head Coach (478) 445- brittany.johnson1@gcsu.edu
+
+12. Brigette Soza
+   Email: karla.soza@gcsu.edu
+   Username: karla.soza
+   Original line: Brigette Soza Assistant Coach (478) 445- karla.soza@gcsu.edu
+
+13. Abigail King
+   Email: abigail.king@gcsu.edu
+   Username: abigail.king
+   Original line: Abigail King Head Coach (478) 445- abigail.king@gcsu.edu
+
+14. Joanne Spalding
+   Email: joanne.spalding@gcsu.edu
+   Username: joanne.spalding
+   Original line: Dr. Joanne Spalding Assistant Coach joanne.spalding@gcsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jeff Pelkey Head Coach (478) 445- jeffrey.pelkey@gcsu.edu
+• Jaiden Warde Assistant Coach jaiden.warde@gcsu.edu
+• Ryan Aquino Head Coach (478) 445- ryan.aquino@gcsu.edu
+• Jake Rios Assistant Coach (478) 445- jake.rios@gcsu.edu
+• Catrina Green Interim Head Coach (478) 445- catrina.green@gcsu.edu
+• Alexander Bruno Head Coach (478) 445- alexander.bruno@gcsu.edu
+• Alexander Bruno Head Coach (478) 445- alexander.bruno@gcsu.edu
+• Jack Marchant Head Coach (478) 445- jack.marchant@gcsu.edu
+• Dr. Joanne Spalding Assistant Coach joanne.spalding@gcsu.edu
+• Ben English Head Coach (478) 445- benjamin.english@gcsu.edu
+• Brittany Johnson Head Coach (478) 445- brittany.johnson1@gcsu.edu
+• Brigette Soza Assistant Coach (478) 445- karla.soza@gcsu.edu
+• Abigail King Head Coach (478) 445- abigail.king@gcsu.edu
+• Dr. Joanne Spalding Assistant Coach joanne.spalding@gcsu.edu

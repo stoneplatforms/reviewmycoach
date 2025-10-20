@@ -1,0 +1,221 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:03
+============================================================
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: crolean@stthomas.edu
+   Username: crolean
+   Original line: Head Coach crolean@stthomas.edu
+
+2. Assistant Coach/Director
+   Email: tanner.vavra@stthomas.edu
+   Username: tanner.vavra
+   Original line: Assistant Coach/Director of Operations tanner.vavra@stthomas.edu
+
+3. Pitching Coach
+   Email: Neal.Kunik@stthomas.edu
+   Username: Neal.Kunik
+   Original line: Pitching Coach Neal.Kunik@stthomas.edu
+
+4. Head Coach
+   Email: tauer@stthomas.edu
+   Username: tauer
+   Original line: Head Coach tauer@stthomas.edu
+
+5. Associate Head
+   Email: mike.maker@stthomas.edu
+   Username: mike.maker
+   Original line: Associate Head Coach mike.maker@stthomas.edu
+
+6. Assistant Coach
+   Email: cameron.rundles@stthomas.edu
+   Username: cameron.rundles
+   Original line: Assistant Coach cameron.rundles@stthomas.edu
+
+7. Assistant Coach
+   Email: lowek@stthomas.edu
+   Username: lowek
+   Original line: Assistant Coach lowek@stthomas.edu
+
+8. Head Coach
+   Email: rasinn@stthomas.edu
+   Username: rasinn
+   Original line: Head Coach rasinn@stthomas.edu
+
+9. Assistant Coach
+   Email: mcke4600@stthomas.edu
+   Username: mcke4600
+   Original line: Assistant Coach mcke4600@stthomas.edu
+
+10. Assistant Coach
+   Email: mast2726@stthomas.edu
+   Username: mast2726
+   Original line: Assistant Coach mast2726@stthomas.edu
+
+11. Men's CC
+   Email: pjwareham@stthomas.edu
+   Username: pjwareham
+   Original line: Men's CC Head Coach/Track & Field Head Coach pjwareham@stthomas.edu
+
+12. Women's CC
+   Email: ashley.lucas@stthomas.edu
+   Username: ashley.lucas
+   Original line: Women's CC Head Coach/Track & Field Head Coach ashley.lucas@stthomas.edu
+
+13. Head Coach
+   Email: football@stthomas.edu
+   Username: football
+   Original line: Head Coach football@stthomas.edu
+
+14. Student Assistant
+   Email: football@stthomas.edu
+   Username: football
+   Original line: Student Assistant Coach football@stthomas.edu
+
+15. Head Coach
+   Email: matt.rachey@stthomas.edu
+   Username: matt.rachey
+   Original line: Head Coach matt.rachey@stthomas.edu
+
+16. Head Coach
+   Email: hann7247@stthomas.edu
+   Username: hann7247
+   Original line: Head Coach hann7247@stthomas.edu
+
+17. Head Coach
+   Email: ecblasi@stthomas.edu
+   Username: ecblasi
+   Original line: Head Coach ecblasi@stthomas.edu
+
+18. Assistant Coach
+   Email: lhayward@stthomas.edu
+   Username: lhayward
+   Original line: Assistant Coach lhayward@stthomas.edu
+
+19. Assistant Coach
+   Email: cory.laylin@stthomas.edu
+   Username: cory.laylin
+   Original line: Assistant Coach cory.laylin@stthomas.edu
+
+20. Head Coach
+   Email: bbrausen@stthomas.edu
+   Username: bbrausen
+   Original line: Head Coach bbrausen@stthomas.edu
+
+21. Assistant Coach
+   Email: martin.sertich@stthomas.edu
+   Username: martin.sertich
+   Original line: Assistant Coach martin.sertich@stthomas.edu
+
+22. Assistant Coach
+   Email: alli.borgstrom@stthomas.edu
+   Username: alli.borgstrom
+   Original line: Assistant Coach alli.borgstrom@stthomas.edu
+
+23. Head Coach
+   Email: menssoccer@stthomas.edu
+   Username: menssoccer
+   Original line: Head Coach menssoccer@stthomas.edu
+
+24. Head Coach
+   Email: scmcgill@stthomas.edu
+   Username: scmcgill
+   Original line: Head Coach scmcgill@stthomas.edu
+
+25. Head Coach
+   Email: jbtrotter@stthomas.edu
+   Username: jbtrotter
+   Original line: Head Coach jbtrotter@stthomas.edu
+
+26. Assistant Coach
+   Email: jen.walter@stthomas.edu
+   Username: jen.walter
+   Original line: Assistant Coach jen.walter@stthomas.edu
+
+27. Head Coach
+   Email: matt.bos@stthomas.edu
+   Username: matt.bos
+   Original line: Head Coach matt.bos@stthomas.edu
+
+28. Men's CC
+   Email: pjwareham@stthomas.edu
+   Username: pjwareham
+   Original line: Men's CC Head Coach/Track & Field Head Coach pjwareham@stthomas.edu
+
+29. Assistant Coach
+   Email: connor.oneill@stthomas.edu
+   Username: connor.oneill
+   Original line: Assistant Coach (Hurdles, Vertical Jumps, Multis) connor.oneill@stthomas.edu
+
+30. Assistant Coach
+   Email: raske@stthomas.edu
+   Username: raske
+   Original line: Assistant Coach (Sprints, Horizontal Jumps) raske@stthomas.edu
+
+31. Women's CC
+   Email: ashley.lucas@stthomas.edu
+   Username: ashley.lucas
+   Original line: Women's CC Head Coach/Track & Field Head Coach ashley.lucas@stthomas.edu
+
+32. Assistant Coach
+   Email: connor.oneill@stthomas.edu
+   Username: connor.oneill
+   Original line: Assistant Coach (Hurdles, Vertical Jumps, Multis) connor.oneill@stthomas.edu
+
+33. Assistant Coach
+   Email: raske@stthomas.edu
+   Username: raske
+   Original line: Assistant Coach (Sprints, Horizontal Jumps) raske@stthomas.edu
+
+34. Head Coach
+   Email: volleyball@stthomas.edu
+   Username: volleyball
+   Original line: Head Coach volleyball@stthomas.edu
+
+35. Assistant Coach/Director
+   Email: malissa.leclaire@stthomas.edu
+   Username: malissa.leclaire
+   Original line: Assistant Coach/Director of Operations malissa.leclaire@stthomas.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach crolean@stthomas.edu
+• Assistant Coach/Director of Operations tanner.vavra@stthomas.edu
+• Pitching Coach Neal.Kunik@stthomas.edu
+• Head Coach tauer@stthomas.edu
+• Associate Head Coach mike.maker@stthomas.edu
+• Assistant Coach cameron.rundles@stthomas.edu
+• Assistant Coach lowek@stthomas.edu
+• Head Coach rasinn@stthomas.edu
+• Assistant Coach mcke4600@stthomas.edu
+• Assistant Coach mast2726@stthomas.edu
+• Men's CC Head Coach/Track & Field Head Coach pjwareham@stthomas.edu
+• Women's CC Head Coach/Track & Field Head Coach ashley.lucas@stthomas.edu
+• Head Coach football@stthomas.edu
+• Student Assistant Coach football@stthomas.edu
+• Head Coach matt.rachey@stthomas.edu
+• Head Coach hann7247@stthomas.edu
+• Head Coach ecblasi@stthomas.edu
+• Assistant Coach lhayward@stthomas.edu
+• Assistant Coach cory.laylin@stthomas.edu
+• Head Coach bbrausen@stthomas.edu
+• Assistant Coach martin.sertich@stthomas.edu
+• Assistant Coach alli.borgstrom@stthomas.edu
+• Head Coach menssoccer@stthomas.edu
+• Head Coach scmcgill@stthomas.edu
+• Head Coach jbtrotter@stthomas.edu
+• Assistant Coach jen.walter@stthomas.edu
+• Head Coach matt.bos@stthomas.edu
+• Men's CC Head Coach/Track & Field Head Coach pjwareham@stthomas.edu
+• Assistant Coach (Hurdles, Vertical Jumps, Multis) connor.oneill@stthomas.edu
+• Assistant Coach (Sprints, Horizontal Jumps) raske@stthomas.edu
+• Women's CC Head Coach/Track & Field Head Coach ashley.lucas@stthomas.edu
+• Assistant Coach (Hurdles, Vertical Jumps, Multis) connor.oneill@stthomas.edu
+• Assistant Coach (Sprints, Horizontal Jumps) raske@stthomas.edu
+• Head Coach volleyball@stthomas.edu
+• Assistant Coach/Director of Operations malissa.leclaire@stthomas.edu

@@ -1,0 +1,179 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:46
+============================================================
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ryan McDaniel
+   Email: rmcdaniel001@regis.edu
+   Username: rmcdaniel001
+   Original line: Ryan McDaniel Assistant Strength and Conditioning Coach (WBB, BSB, MSOC) rmcdaniel001@regis.edu
+
+2. Pat Jolley
+   Email: pjolley@regis.edu
+   Username: pjolley
+   Original line: Pat Jolley Head Baseball Coach pjolley@regis.edu
+
+3. Mike Newton
+   Email: m10newton@gmail.com
+   Username: m10newton
+   Original line: Mike Newton Assistant Baseball Coach m10newton@gmail.com 303-817-
+
+4. Matt Lautz
+   Email: rlautz@regis.edu
+   Username: rlautz
+   Original line: Matt Lautz Assistant Baseball Coach rlautz@regis.edu 925-437-
+
+5. Rex Walters
+   Email: rwalters001@regis.edu
+   Username: rwalters001
+   Original line: Rex Walters Head Men's Basketball Coach rwalters001@regis.edu 303-964-
+
+6. Jason Kohler
+   Email: jkohler@regis.edu
+   Username: jkohler
+   Original line: Jason Kohler Assistant Women's Basketball Coach jkohler@regis.edu
+
+7. Landon Lopez
+   Email: llopez017@regis.edu
+   Username: llopez017
+   Original line: Landon Lopez Assistant Women's Basketball Coach llopez017@regis.edu
+
+8. Willie Moore
+   Email: wmoore002@regis.edu
+   Username: wmoore002
+   Original line: Willie Moore Head Cross Country/Track & Field Coach wmoore002@regis.edu 303-964-
+
+9. Chris Powers
+   Email: cpowers001@regis.edu
+   Username: cpowers001
+   Original line: Chris Powers Assistant Cross Country / Track & Field Coach cpowers001@regis.edu
+
+10. Willie Moore
+   Email: wmoore002@regis.edu
+   Username: wmoore002
+   Original line: Willie Moore Head Cross Country/Track & Field Coach wmoore002@regis.edu 303-964-
+
+11. Chris Powers
+   Email: cpowers001@regis.edu
+   Username: cpowers001
+   Original line: Chris Powers Assistant Cross Country / Track & Field Coach cpowers001@regis.edu
+
+12. Sarah Kellner
+   Email: saverson@regis.edu
+   Username: saverson
+   Original line: Sarah Kellner Head Women's Lacrosse Coach saverson@regis.edu 303-964-
+
+13. Alexis Riasati
+   Email: apetrarca@regis.edu
+   Username: apetrarca
+   Original line: Alexis Riasati Assistant Women's Lacrosse Coach apetrarca@regis.edu 303-458-
+
+14. Taylor Diem
+   Email: tdiem@regis.edu
+   Username: tdiem
+   Original line: Taylor Diem Head Men's Soccer Coach tdiem@regis.edu 303-458-
+
+15. Richard Ainscough
+   Email: rainscough@regis.edu
+   Username: rainscough
+   Original line: Richard Ainscough Assistant Men's Soccer Coach & Recruiting Coordinator rainscough@regis.edu
+
+16. Steven Cahill
+   Email: msoccer@regis.edu
+   Username: msoccer
+   Original line: Steven Cahill Assistant Men's Soccer Coach msoccer@regis.edu
+
+17. Jeff Frykholm
+   Email: jfrykholm@regis.edu
+   Username: jfrykholm
+   Original line: Jeff Frykholm Head Women's Soccer Coach jfrykholm@regis.edu
+
+18. Luke Meadows
+   Email: lmeadows@regis.edu
+   Username: lmeadows
+   Original line: Luke Meadows Assistant Women's Soccer Coach lmeadows@regis.edu (203) 606-
+
+19. Candi Letts
+   Email: cletts@regis.edu
+   Username: cletts
+   Original line: Candi Letts Head Softball Coach cletts@regis.edu 303-964-
+
+20. Breeana Martinez
+   Email: bmartinez021@regis.edu
+   Username: bmartinez021
+   Original line: Breeana Martinez Assistant Softball Coach bmartinez021@regis.edu 916-218-
+
+21. Willie Moore
+   Email: wmoore002@regis.edu
+   Username: wmoore002
+   Original line: Willie Moore Head Cross Country/Track & Field Coach wmoore002@regis.edu 303-964-
+
+22. Chris Powers
+   Email: cpowers001@regis.edu
+   Username: cpowers001
+   Original line: Chris Powers Assistant Cross Country / Track & Field Coach cpowers001@regis.edu
+
+23. Willie Moore
+   Email: wmoore002@regis.edu
+   Username: wmoore002
+   Original line: Willie Moore Head Cross Country/Track & Field Coach wmoore002@regis.edu 303-964-
+
+24. Chris Powers
+   Email: cpowers001@regis.edu
+   Username: cpowers001
+   Original line: Chris Powers Assistant Cross Country / Track & Field Coach cpowers001@regis.edu
+
+25. Joel List
+   Email: jlist@regis.edu
+   Username: jlist
+   Original line: Joel List Head Volleyball Coach jlist@regis.edu 303-458-
+
+26. Amy Watanabe
+   Email: awatanabe@regis.edu
+   Username: awatanabe
+   Original line: Amy Watanabe Assistant Volleyball Coach awatanabe@regis.edu 303-964-
+
+27. Cheyenne Bellarosa
+   Email: cbellarosa@regis.edu
+   Username: cbellarosa
+   Original line: Cheyenne Bellarosa Head Dance Coach cbellarosa@regis.edu
+
+28. Laura Boulay
+   Email: lboulay@regis.edu
+   Username: lboulay
+   Original line: Laura Boulay Head Cheer Coach lboulay@regis.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ryan McDaniel Assistant Strength and Conditioning Coach (WBB, BSB, MSOC) rmcdaniel001@regis.edu
+• Pat Jolley Head Baseball Coach pjolley@regis.edu
+• Mike Newton Assistant Baseball Coach m10newton@gmail.com 303-817-
+• Matt Lautz Assistant Baseball Coach rlautz@regis.edu 925-437-
+• Rex Walters Head Men's Basketball Coach rwalters001@regis.edu 303-964-
+• Jason Kohler Assistant Women's Basketball Coach jkohler@regis.edu
+• Landon Lopez Assistant Women's Basketball Coach llopez017@regis.edu
+• Willie Moore Head Cross Country/Track & Field Coach wmoore002@regis.edu 303-964-
+• Chris Powers Assistant Cross Country / Track & Field Coach cpowers001@regis.edu
+• Willie Moore Head Cross Country/Track & Field Coach wmoore002@regis.edu 303-964-
+• Chris Powers Assistant Cross Country / Track & Field Coach cpowers001@regis.edu
+• Sarah Kellner Head Women's Lacrosse Coach saverson@regis.edu 303-964-
+• Alexis Riasati Assistant Women's Lacrosse Coach apetrarca@regis.edu 303-458-
+• Taylor Diem Head Men's Soccer Coach tdiem@regis.edu 303-458-
+• Richard Ainscough Assistant Men's Soccer Coach & Recruiting Coordinator rainscough@regis.edu
+• Steven Cahill Assistant Men's Soccer Coach msoccer@regis.edu
+• Jeff Frykholm Head Women's Soccer Coach jfrykholm@regis.edu
+• Luke Meadows Assistant Women's Soccer Coach lmeadows@regis.edu (203) 606-
+• Candi Letts Head Softball Coach cletts@regis.edu 303-964-
+• Breeana Martinez Assistant Softball Coach bmartinez021@regis.edu 916-218-
+• Willie Moore Head Cross Country/Track & Field Coach wmoore002@regis.edu 303-964-
+• Chris Powers Assistant Cross Country / Track & Field Coach cpowers001@regis.edu
+• Willie Moore Head Cross Country/Track & Field Coach wmoore002@regis.edu 303-964-
+• Chris Powers Assistant Cross Country / Track & Field Coach cpowers001@regis.edu
+• Joel List Head Volleyball Coach jlist@regis.edu 303-458-
+• Amy Watanabe Assistant Volleyball Coach awatanabe@regis.edu 303-964-
+• Cheyenne Bellarosa Head Dance Coach cbellarosa@regis.edu
+• Laura Boulay Head Cheer Coach lboulay@regis.edu

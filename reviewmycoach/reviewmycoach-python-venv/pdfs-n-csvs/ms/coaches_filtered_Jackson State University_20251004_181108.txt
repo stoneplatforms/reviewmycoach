@@ -1,0 +1,213 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:09
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Omar Johnson
+   Email: omar.k.johnson@jsums.edu
+   Username: omar.k.johnson
+   Phone: (601) 979-3930
+   Original line: Omar Johnson Head Coach omar.k.johnson@jsums.edu 601-979-3930
+
+2. Chris Stamps
+   Email: christopher.b.stamps@jsums.edu
+   Username: christopher.b.stamps
+   Phone: (601) 979-2291
+   Original line: Chris Stamps Assistant Coach christopher.b.stamps@jsums.edu 601-979-2291
+
+3. Justin Thomas
+   Email: justin.d.thomas@jsums.edu
+   Username: justin.d.thomas
+   Original line: Justin Thomas Pitching Coach justin.d.thomas@jsums.edu
+
+4. Mo Williams
+   Email: maurice.r.williams@jsums.edu
+   Username: maurice.r.williams
+   Original line: Mo Williams Head Coach maurice.r.williams@jsums.edu
+
+5. Trey Johnson
+   Email: clinton.f.johnson@jsums.edu
+   Username: clinton.f.johnson
+   Phone: (601) 622-7370
+   Original line: Trey Johnson Associate Head Coach clinton.f.johnson@jsums.edu 601-622-7370
+
+6. Tyler Adams
+   Email: tyler.l.adams@jsums.edu
+   Username: tyler.l.adams
+   Phone: (769) 348-9908
+   Original line: Tyler Adams Assistant Coach tyler.l.adams@jsums.edu 769-348-9908
+
+7. Keith Williams
+   Email: keith.l.williams@jsums.edu
+   Username: keith.l.williams
+   Phone: (501) 920-2215
+   Original line: Keith Williams Assistant Coach keith.l.williams@jsums.edu 501-920-2215
+
+8. Khalill Spencer
+   Email: khalil.b.spencer@jsums.edu
+   Username: khalil.b.spencer
+   Original line: Khalill Spencer Assistant Coach khalil.b.spencer@jsums.edu
+
+9. Kydarrius Williams
+   Email: j00840349@students.jsums.edu
+   Username: j00840349
+   Phone: (769) 216-9401
+   Original line: Kydarrius Williams Assistant Coach j00840349@students.jsums.edu 769-216-9401
+
+10. Margaret Richards
+   Email: margaret.m.richards@jsums.edu
+   Username: margaret.m.richards
+   Phone: (601) 979-2818
+   Original line: Margaret Richards Head Coach margaret.m.richards@jsums.edu 601-979-2818
+
+11. Dylan Howard
+   Email: dylan.r.howard@jsums.edu
+   Username: dylan.r.howard
+   Phone: (601) 979-2418
+   Original line: Dylan Howard Associate Head Coach dylan.r.howard@jsums.edu 601-979-2418
+
+12. Alexus Holt
+   Email: alexus.c.holt@jsums.edu
+   Username: alexus.c.holt
+   Phone: (601) 979-2819
+   Original line: Alexus Holt Assistant Coach alexus.c.holt@jsums.edu 601-979-2819
+
+13. Michael Morgan
+   Email: michael.p.morgan@jsums.edu
+   Username: michael.p.morgan
+   Phone: (601) 979-0642
+   Original line: Michael Morgan Assistant Coach michael.p.morgan@jsums.edu 601-979-0642
+
+14. Patrick Richardson
+   Email: patrick.richardson@jsums.edu
+   Username: patrick.richardson
+   Phone: (601) 979-2291
+   Original line: Patrick Richardson Assistant Coach patrick.richardson@jsums.edu 601-979-2291
+
+15. Michael Boykins
+   Email: michael.l.boykins@jsums.edu
+   Username: michael.l.boykins
+   Phone: (601) 979-3932
+   Original line: Dr. Michael Boykins Head Coach michael.l.boykins@jsums.edu 601-979-3932
+
+16. Danielle Mickens
+   Email: danielle.n.mickens@jsums.edu
+   Username: danielle.n.mickens
+   Phone: (601) 979-1179
+   Original line: Danielle Mickens Head Coach danielle.n.mickens@jsums.edu 601-979-1179
+
+17. Jonathan Harris
+   Email: jonathan.harris@jsums.edu
+   Username: jonathan.harris
+   Phone: (601) 979-0341
+   Original line: Jonathan Harris Associate Head Coach jonathan.harris@jsums.edu 601-979-0341
+
+18. Mark Spooner
+   Email: mark.c.spooner@jsums.edu
+   Username: mark.c.spooner
+   Phone: (601) 979-2291
+   Original line: Mark Spooner Assistant Coach mark.c.spooner@jsums.edu 601-979-2291
+
+19. T.C. Taylor
+   Email: footballoperations@jsums.edu
+   Username: footballoperations
+   Phone: (601) 979-0375
+   Original line: T.C. Taylor Head Coach footballoperations@jsums.edu 601-979-0375
+
+20. Otis Riddley
+   Email: footballrecruit@jsums.edu
+   Username: footballrecruit
+   Phone: (601) 979-2759
+   Original line: Otis Riddley Associate Head Coach/TE/General Manager footballrecruit@jsums.edu 601-979-2759
+
+21. Eric Gallon
+   Email: footballoperations@jsums.edu
+   Username: footballoperations
+   Phone: (601) 979-0375
+   Original line: Eric Gallon Assistant Head Coach/Running Backs footballoperations@jsums.edu 601-979-0375
+
+22. Rob Ford
+   Email: robert.ford@jsums.edu
+   Username: robert.ford
+   Original line: Rob Ford II Head Coach robert.ford@jsums.edu
+
+23. Trinity Ahing
+   Email: trinity.a.ahing@jsums.edu
+   Username: trinity.a.ahing
+   Original line: Trinity Ahing Assistant Coach trinity.a.ahing@jsums.edu
+
+24. Ted Flogaites
+   Email: theodore.j.flogaites@jsums.edu
+   Username: theodore.j.flogaites
+   Phone: (601) 979-2291
+   Original line: Dr. Ted Flogaites Head Coach theodore.j.flogaites@jsums.edu 601-979-2291
+
+25. Kevin Montgomery
+   Email: kevin.t.montgomery@jsums.edu
+   Username: kevin.t.montgomery
+   Phone: (601) 979-3929
+   Original line: Kevin Montgomery Head Coach kevin.t.montgomery@jsums.edu 601-979-3929
+
+26. Zoey Keyes
+   Email: zoey.keyes@jsums.edu
+   Username: zoey.keyes
+   Original line: Zoey Keyes Assistant Coach zoey.keyes@jsums.edu
+
+27. Hernan Geria
+   Email: hernan.geria_reines@jsums.edu
+   Username: hernan.geria_reines
+   Original line: Hernan Geria Head Coach hernan.geria_reines@jsums.edu
+
+28. Pablo Geria
+   Email: pablo.geria_reines@jsums.edu
+   Username: pablo.geria_reines
+   Original line: Pablo Geria Strength and Conditioning Coach pablo.geria_reines@jsums.edu
+
+29. Marcus Hereford
+   Email: marcus.l.hereford@jsums.edu
+   Username: marcus.l.hereford
+   Phone: (601) 979-2430
+   Original line: Marcus Hereford Head Coach marcus.l.hereford@jsums.edu 601-979-2430
+
+30. Verita White
+   Email: verita.n.white@jsums.edu
+   Username: verita.n.white
+   Phone: 601.979.1097
+   Original line: Verita White Assistant Coach verita.n.white@jsums.edu 601.979.1097
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Omar Johnson Head Coach omar.k.johnson@jsums.edu 601-979-3930
+• Chris Stamps Assistant Coach christopher.b.stamps@jsums.edu 601-979-2291
+• Justin Thomas Pitching Coach justin.d.thomas@jsums.edu
+• Mo Williams Head Coach maurice.r.williams@jsums.edu
+• Trey Johnson Associate Head Coach clinton.f.johnson@jsums.edu 601-622-7370
+• Tyler Adams Assistant Coach tyler.l.adams@jsums.edu 769-348-9908
+• Keith Williams Assistant Coach keith.l.williams@jsums.edu 501-920-2215
+• Khalill Spencer Assistant Coach khalil.b.spencer@jsums.edu
+• Kydarrius Williams Assistant Coach j00840349@students.jsums.edu 769-216-9401
+• Margaret Richards Head Coach margaret.m.richards@jsums.edu 601-979-2818
+• Dylan Howard Associate Head Coach dylan.r.howard@jsums.edu 601-979-2418
+• Alexus Holt Assistant Coach alexus.c.holt@jsums.edu 601-979-2819
+• Michael Morgan Assistant Coach michael.p.morgan@jsums.edu 601-979-0642
+• Patrick Richardson Assistant Coach patrick.richardson@jsums.edu 601-979-2291
+• Dr. Michael Boykins Head Coach michael.l.boykins@jsums.edu 601-979-3932
+• Danielle Mickens Head Coach danielle.n.mickens@jsums.edu 601-979-1179
+• Jonathan Harris Associate Head Coach jonathan.harris@jsums.edu 601-979-0341
+• Mark Spooner Assistant Coach mark.c.spooner@jsums.edu 601-979-2291
+• T.C. Taylor Head Coach footballoperations@jsums.edu 601-979-0375
+• Otis Riddley Associate Head Coach/TE/General Manager footballrecruit@jsums.edu 601-979-2759
+• Eric Gallon Assistant Head Coach/Running Backs footballoperations@jsums.edu 601-979-0375
+• Rob Ford II Head Coach robert.ford@jsums.edu
+• Trinity Ahing Assistant Coach trinity.a.ahing@jsums.edu
+• Dr. Ted Flogaites Head Coach theodore.j.flogaites@jsums.edu 601-979-2291
+• Kevin Montgomery Head Coach kevin.t.montgomery@jsums.edu 601-979-3929
+• Zoey Keyes Assistant Coach zoey.keyes@jsums.edu
+• Hernan Geria Head Coach hernan.geria_reines@jsums.edu
+• Pablo Geria Strength and Conditioning Coach pablo.geria_reines@jsums.edu
+• Marcus Hereford Head Coach marcus.l.hereford@jsums.edu 601-979-2430
+• Verita White Assistant Coach verita.n.white@jsums.edu 601.979.1097

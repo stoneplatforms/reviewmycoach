@@ -1,0 +1,119 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:32
+============================================================
+
+Total coaches found: 18
+
+PARSED ENTRIES:
+----------------------------------------
+1. Assistant Coach
+   Email: mbb@depaul.edu
+   Username: mbb
+   Original line: Assistant Coach mbb@depaul.edu
+
+2. Head Coach
+   Email: jill.pizzotti@depaul.edu
+   Username: jill.pizzotti
+   Original line: Head Coach jill.pizzotti@depaul.edu
+
+3. Associate Head
+   Email: tevans33@depaul.edu
+   Username: tevans33
+   Original line: Associate Head Coach tevans33@depaul.edu
+
+4. Assistant Coach/General
+   Email: bbruno2@depaul.edu
+   Username: bbruno2
+   Original line: Assistant Coach/General Manager bbruno2@depaul.edu
+
+5. Assistant Coach/Recruiting
+   Email: kathleen.doyle@depaul.edu
+   Username: kathleen.doyle
+   Original line: Assistant Coach/Recruiting Coordinator kathleen.doyle@depaul.edu
+
+6. Assistant Coach/Director
+   Email: amillend@depaul.edu
+   Username: amillend
+   Original line: Assistant Coach/Director of Player Development amillend@depaul.edu
+
+7. Assistant Coach
+   Email: jjanuary@depaul.edu
+   Username: jjanuary
+   Original line: Assistant Coach jjanuary@depaul.edu
+
+8. Special Assistant
+   Email: jturnerm@depaul.edu
+   Username: jturnerm
+   Original line: Special Assistant to the Head Coach jturnerm@depaul.edu
+
+9. Head Cross
+   Email: gwayton@depaul.edu
+   Username: gwayton
+   Original line: Head Cross Country Coach / Assistant Track & Field Coach gwayton@depaul.edu
+
+10. Head Coach
+   Email: mplotkin@depaul.edu
+   Username: mplotkin
+   Original line: Head Coach mplotkin@depaul.edu
+
+11. Assistant Coach
+   Email: malba9@depaul.edu
+   Username: malba9
+   Original line: Assistant Coach malba9@depaul.edu
+
+12. Assistant Coach
+   Email: arami152@depaul.edu
+   Username: arami152
+   Original line: Assistant Coach arami152@depaul.edu
+
+13. Head Coach
+   Email: MBROTHE1@depaul.edu
+   Username: MBROTHE1
+   Original line: Head Coach MBROTHE1@depaul.edu
+
+14. Head Coach
+   Email: marce6@depaul.edu
+   Username: marce6
+   Original line: Head Coach marce6@depaul.edu
+
+15. Head Cross
+   Email: gwayton@depaul.edu
+   Username: gwayton
+   Original line: Head Cross Country Coach / Assistant Track & Field Coach gwayton@depaul.edu
+
+16. Assistant Coach
+   Email: bmurer@depaul.edu
+   Username: bmurer
+   Original line: Assistant Coach bmurer@depaul.edu
+
+17. Head Coach
+   Email: mzidek@depaul.edu
+   Username: mzidek
+   Original line: Head Coach mzidek@depaul.edu
+
+18. Associate Head
+   Email: adesouz1@depaul.edu
+   Username: adesouz1
+   Original line: Associate Head Coach adesouz1@depaul.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Assistant Coach mbb@depaul.edu
+• Head Coach jill.pizzotti@depaul.edu
+• Associate Head Coach tevans33@depaul.edu
+• Assistant Coach/General Manager bbruno2@depaul.edu
+• Assistant Coach/Recruiting Coordinator kathleen.doyle@depaul.edu
+• Assistant Coach/Director of Player Development amillend@depaul.edu
+• Assistant Coach jjanuary@depaul.edu
+• Special Assistant to the Head Coach jturnerm@depaul.edu
+• Head Cross Country Coach / Assistant Track & Field Coach gwayton@depaul.edu
+• Head Coach mplotkin@depaul.edu
+• Assistant Coach malba9@depaul.edu
+• Assistant Coach arami152@depaul.edu
+• Head Coach MBROTHE1@depaul.edu
+• Head Coach marce6@depaul.edu
+• Head Cross Country Coach / Assistant Track & Field Coach gwayton@depaul.edu
+• Assistant Coach bmurer@depaul.edu
+• Head Coach mzidek@depaul.edu
+• Associate Head Coach adesouz1@depaul.edu

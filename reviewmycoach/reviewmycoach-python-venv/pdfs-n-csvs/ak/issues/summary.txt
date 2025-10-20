@@ -1,0 +1,8 @@
+Printing results: Success=1 Skipped=1 Errors=0
+
+Skipped/Failed links:
+- University of Alaska Fairbanks (UAF).pdf: https://alaska.nanooks.org/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://alaska.nanooks.org/staff-directory/index
+Call log:
+  - navigating to "https://alaska.nanooks.org/staff-directory/index", waiting until "networkidle"
+
+  tried: https://alaska.nanooks.org/staff-directory?print=true, https://alaska.nanooks.org/staff-directory/print, https://alaska.nanooks.org/staff-directory, https://alaska.nanooks.org/staff-directory/index?print=true, https://alaska.nanooks.org/staff-directory/index/print, https://alaska.nanooks.org/staff-directory/index

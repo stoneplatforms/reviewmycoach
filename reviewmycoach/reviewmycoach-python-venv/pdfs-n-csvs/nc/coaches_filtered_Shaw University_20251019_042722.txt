@@ -1,0 +1,155 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:22
+============================================================
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Wayne Hall
+   Email: whall@shawu.edu
+   Username: whall
+   Original line: Wayne Hall Strength and Conditioning Coach (919) 716- whall@shawu.edu
+
+2. Bobby Collins
+   Email: bobby.collins@shawu.edu
+   Username: bobby.collins
+   Original line: Bobby Collins Head Men's Basketball Coach (919) 719- bobby.collins@shawu.edu
+
+3. Ken Spencer
+   Email: kevin.spencer@shawu.edu
+   Username: kevin.spencer
+   Original line: Ken Spencer Associate Head Men's Basketball Coach (919) 899- kevin.spencer@shawu.edu
+
+4. Wykevin Bazemore
+   Email: wykevin.bazemore@shawu.edu
+   Username: wykevin.bazemore
+   Original line: Wykevin Bazemore Assistant Men's Basketball Coach (919) 646- wykevin.bazemore@shawu.edu
+
+5. Lou Hamilton
+   Email: lou.hamilton@shawu.edu
+   Username: lou.hamilton
+   Original line: Lou Hamilton Interim Head Coach Women's Basketball lou.hamilton@shawu.edu
+
+6. Jessica Hawkins
+   Email: jhawkins@shawu.edu
+   Username: jhawkins
+   Original line: Jessica Hawkins Assistant Women's Basketball Coach (919) 743- jhawkins@shawu.edu
+
+7. Tyreek Dupree
+   Email: tyreek.dupree@shawu.edu
+   Username: tyreek.dupree
+   Original line: Tyreek Dupree Assistant Women's Basketball Coach/ Director of tyreek.dupree@shawu.edu
+
+8. Lamar Manigo
+   Email: lmanigo@shawu.edu
+   Username: lmanigo
+   Original line: Lamar Manigo Head Football Coach lmanigo@shawu.edu
+
+9. Lawrence Kershaw
+   Email: lawrence.kershaw@shawu.edu
+   Username: lawrence.kershaw
+   Original line: Lawrence Kershaw Offensive Line Coach/ Run Game Coordinator lawrence.kershaw@shawu.edu
+
+10. Coleman Blackston
+   Email: coleman.blackstone@shawu.edu
+   Username: coleman.blackstone
+   Original line: Coleman Blackston Running Backs Coach/ Video Coordinator coleman.blackstone@shawu.edu
+
+11. Daniel Bender
+   Email: daniel.bender@shawu.edu
+   Username: daniel.bender
+   Original line: Daniel Bender Wide Receivers Coach/ Special Teams Assistant daniel.bender@shawu.edu
+
+12. Wayne Hall
+   Email: whall@shawu.edu
+   Username: whall
+   Original line: Wayne Hall Strength and Conditioning Coach (919) 716- whall@shawu.edu
+
+13. Jailynn Hunt
+   Email: jailynn.hunt@shawu.edu
+   Username: jailynn.hunt
+   Original line: Jailynn Hunt Head Volleyball Coach 919-719- jailynn.hunt@shawu.edu
+
+14. Emma Celentano
+   Email: emma.celentano@shawu.edu
+   Username: emma.celentano
+   Original line: Emma Celentano Assistant Volleyball Coach emma.celentano@shawu.edu
+
+15. Kevin Howell,
+   Email: kevin.howell@shawu.edu
+   Username: kevin.howell
+   Original line: Kevin Howell, Sr. Head Coach Cross Country & Outdoor Track and kevin.howell@shawu.edu
+
+16. Kevin Howell,
+   Email: kevin.howell@shawu.edu
+   Username: kevin.howell
+   Original line: Kevin Howell, Sr. Head Coach Cross Country & Outdoor Track and kevin.howell@shawu.edu
+
+17. Kevin Howell,
+   Email: kevin.howell@shawu.edu
+   Username: kevin.howell
+   Original line: Kevin Howell, Sr. Head Coach Cross Country & Outdoor Track and kevin.howell@shawu.edu
+
+18. Sunday Enitan
+   Email: senitan@shawu.edu
+   Username: senitan
+   Original line: Sunday Enitan Head Tennis Coach (919) 546- senitan@shawu.edu
+
+19. Sunday Enitan
+   Email: senitan@shawu.edu
+   Username: senitan
+   Original line: Sunday Enitan Head Tennis Coach (919) 546- senitan@shawu.edu
+
+20. Reginald Cooper
+   Email: rcooper@shawu.edu
+   Username: rcooper
+   Original line: Reginald Cooper Interim Head Softball Coach (919) 633- rcooper@shawu.edu
+
+21. Randy McClure
+   Email: randy.mcclure@shawu.edu
+   Username: randy.mcclure
+   Original line: Randy McClure Head Men's & Women's Soccer Coach (321) 720- randy.mcclure@shawu.edu
+
+22. Randy McClure
+   Email: randy.mcclure@shawu.edu
+   Username: randy.mcclure
+   Original line: Randy McClure Head Men's & Women's Soccer Coach (321) 720- randy.mcclure@shawu.edu
+
+23. Joe Williams
+   Email: jowilliams@shawu.edu
+   Username: jowilliams
+   Original line: Joe Williams Head Bowling Coach jowilliams@shawu.edu
+
+24. Tia Long
+   Email: tia.long@shawu.edu
+   Username: tia.long
+   Original line: Tia Long Head Cheerleading Coach (919) 719- tia.long@shawu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Wayne Hall Strength and Conditioning Coach (919) 716- whall@shawu.edu
+• Bobby Collins Head Men's Basketball Coach (919) 719- bobby.collins@shawu.edu
+• Ken Spencer Associate Head Men's Basketball Coach (919) 899- kevin.spencer@shawu.edu
+• Wykevin Bazemore Assistant Men's Basketball Coach (919) 646- wykevin.bazemore@shawu.edu
+• Lou Hamilton Interim Head Coach Women's Basketball lou.hamilton@shawu.edu
+• Jessica Hawkins Assistant Women's Basketball Coach (919) 743- jhawkins@shawu.edu
+• Tyreek Dupree Assistant Women's Basketball Coach/ Director of tyreek.dupree@shawu.edu
+• Lamar Manigo Head Football Coach lmanigo@shawu.edu
+• Lawrence Kershaw Offensive Line Coach/ Run Game Coordinator lawrence.kershaw@shawu.edu
+• Coleman Blackston Running Backs Coach/ Video Coordinator coleman.blackstone@shawu.edu
+• Daniel Bender Wide Receivers Coach/ Special Teams Assistant daniel.bender@shawu.edu
+• Wayne Hall Strength and Conditioning Coach (919) 716- whall@shawu.edu
+• Jailynn Hunt Head Volleyball Coach 919-719- jailynn.hunt@shawu.edu
+• Emma Celentano Assistant Volleyball Coach emma.celentano@shawu.edu
+• Kevin Howell, Sr. Head Coach Cross Country & Outdoor Track and kevin.howell@shawu.edu
+• Kevin Howell, Sr. Head Coach Cross Country & Outdoor Track and kevin.howell@shawu.edu
+• Kevin Howell, Sr. Head Coach Cross Country & Outdoor Track and kevin.howell@shawu.edu
+• Sunday Enitan Head Tennis Coach (919) 546- senitan@shawu.edu
+• Sunday Enitan Head Tennis Coach (919) 546- senitan@shawu.edu
+• Reginald Cooper Interim Head Softball Coach (919) 633- rcooper@shawu.edu
+• Randy McClure Head Men's & Women's Soccer Coach (321) 720- randy.mcclure@shawu.edu
+• Randy McClure Head Men's & Women's Soccer Coach (321) 720- randy.mcclure@shawu.edu
+• Joe Williams Head Bowling Coach jowilliams@shawu.edu
+• Tia Long Head Cheerleading Coach (919) 719- tia.long@shawu.edu

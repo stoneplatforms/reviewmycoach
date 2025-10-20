@@ -1,0 +1,251 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:27
+============================================================
+
+Total coaches found: 40
+
+PARSED ENTRIES:
+----------------------------------------
+1. Markus Guegler
+   Email: mguegle@siue.edu
+   Username: mguegle
+   Original line: Markus Guegler Athletic Performance Graduate Assistant Coach mguegle@siue.edu
+
+2. Sean Lyons
+   Email: sealyon@siue.edu
+   Username: sealyon
+   Original line: Sean Lyons Head Coach sealyon@siue.edu Sean5Lyons
+
+3. Justin Paulsen
+   Email: jupauls@siue.edu
+   Username: jupauls
+   Original line: Justin Paulsen Assistant Coach jupauls@siue.edu
+
+4. Ethan Westphal
+   Email: ewestph@siue.edu
+   Username: ewestph
+   Original line: Ethan Westphal Assistant Coach ewestph@siue.edu
+
+5. Brian Barone
+   Email: coachbbarone@siue.edu
+   Username: coachbbarone
+   Original line: Brian Barone Head Coach coachbbarone@siue.edu baronecoach
+
+6. Colin Schneider
+   Email: colschn@siue.edu
+   Username: colschn
+   Original line: Colin Schneider Associate Head Coach colschn@siue.edu
+
+7. Ryan Hellenthal
+   Email: rhellen@siue.edu
+   Username: rhellen
+   Original line: Ryan Hellenthal Assistant Coach rhellen@siue.edu
+
+8. Garret Covington
+   Email: gcoving@siue.edu
+   Username: gcoving
+   Original line: Garret Covington Assistant Coach gcoving@siue.edu Gxc31
+
+9. Rob Holloway
+   Email: robholl@siue.edu
+   Username: robholl
+   Original line: Rob Holloway Assistant Coach robholl@siue.edu
+
+10. Mike Waldo
+   Email: mwaldo@siue.edu
+   Username: mwaldo
+   Original line: Mike Waldo Special Assistant to the Head Coach mwaldo@siue.edu
+
+11. Samantha Quigley
+   Email: CoachSam@siue.edu
+   Username: CoachSam
+   Original line: Samantha Quigley Smith Head Coach CoachSam@siue.edu CoachSQuigley
+
+12. Liz Doran
+   Email: edoran@siue.edu
+   Username: edoran
+   Original line: Liz Doran Assistant Coach edoran@siue.edu
+
+13. Eric Gruber
+   Email: egruber@siue.edu
+   Username: egruber
+   Original line: Eric Gruber Assistant Coach egruber@siue.edu EricGruber23
+
+14. Tierney Lockett
+   Email: tlocket@siue.edu
+   Username: tlocket
+   Original line: Tierney Lockett Assistant Coach tlocket@siue.edu
+
+15. Marcus Evans
+   Email: marevan@siue.edu
+   Username: marevan
+   Original line: Marcus Evans Head Coach marevan@siue.edu CoachMgEvans
+
+16. Josh Wolfe
+   Email: jowolfe@siue.edu
+   Username: jowolfe
+   Original line: Josh Wolfe Assistant Coach jowolfe@siue.edu baronsunburst
+
+17. Marcus Evans
+   Email: marevan@siue.edu
+   Username: marevan
+   Original line: Marcus Evans Head Coach marevan@siue.edu CoachMgEvans
+
+18. Josh Wolfe
+   Email: jowolfe@siue.edu
+   Username: jowolfe
+   Original line: Josh Wolfe Assistant Coach jowolfe@siue.edu baronsunburst
+
+19. Derrick Brown
+   Email: derbrow@siue.edu
+   Username: derbrow
+   Original line: Derrick Brown Head Golf Coach derbrow@siue.edu CoachDBrownSIUE
+
+20. Cale Wassermann
+   Email: cawasse@siue.edu
+   Username: cawasse
+   Original line: Cale Wassermann Head Coach cawasse@siue.edu CoachWassermann
+
+21. Jordan Grant
+   Email: jordagr@siue.edu
+   Username: jordagr
+   Original line: Jordan Grant Assistant Coach jordagr@siue.edu
+
+22. Drew Romig
+   Email: dromig@siue.edu
+   Username: dromig
+   Original line: Drew Romig Assistant Coach/Goalkeeping dromig@siue.edu
+
+23. Derek Burton
+   Email: deburto@siue.edu
+   Username: deburto
+   Original line: Derek Burton Head Coach deburto@siue.edu
+
+24. Alyssa Krause
+   Email: alykrau@siue.edu
+   Username: alykrau
+   Original line: Alyssa Krause Associate Head Coach alykrau@siue.edu
+
+25. Nick Luciani
+   Email: nilucia@siue.edu
+   Username: nilucia
+   Original line: Nick Luciani Assistant Coach nilucia@siue.edu
+
+26. Ben Sorden
+   Email: bsorden@siue.edu
+   Username: bsorden
+   Original line: Ben Sorden Head Coach bsorden@siue.edu coachsorden
+
+27. Caitlin Wnek
+   Email: cwnek@siue.edu
+   Username: cwnek
+   Original line: Caitlin Wnek Assistant Coach cwnek@siue.edu
+
+28. Lynn Anderson
+   Email: lynande@siue.edu
+   Username: lynande
+   Original line: Lynn Anderson Assistant Coach lynande@siue.edu
+
+29. Adam Albertsen
+   Email: adalber@siue.edu
+   Username: adalber
+   Original line: Adam Albertsen Head Coach adalber@siue.edu AdamAlbertsen
+
+30. Marcus Evans
+   Email: marevan@siue.edu
+   Username: marevan
+   Original line: Marcus Evans Head Coach marevan@siue.edu CoachMgEvans
+
+31. Erin Wykoff
+   Email: ewykoff@siue.edu
+   Username: ewykoff
+   Original line: Erin Wykoff Assistant Coach ewykoff@siue.edu CoachEWykoff
+
+32. Josh Wolfe
+   Email: jowolfe@siue.edu
+   Username: jowolfe
+   Original line: Josh Wolfe Assistant Coach jowolfe@siue.edu baronsunburst
+
+33. Marcus Evans
+   Email: marevan@siue.edu
+   Username: marevan
+   Original line: Marcus Evans Head Coach marevan@siue.edu CoachMgEvans
+
+34. Erin Wykoff
+   Email: ewykoff@siue.edu
+   Username: ewykoff
+   Original line: Erin Wykoff Assistant Coach ewykoff@siue.edu CoachEWykoff
+
+35. Josh Wolfe
+   Email: jowolfe@siue.edu
+   Username: jowolfe
+   Original line: Josh Wolfe Assistant Coach jowolfe@siue.edu baronsunburst
+
+36. Kendall Paulus
+   Email: kpaulus@siue.edu
+   Username: kpaulus
+   Original line: Kendall Paulus Head Coach kpaulus@siue.edu SIUEvolleyball
+
+37. Josh Comer
+   Email: jocomer@siue.edu
+   Username: jocomer
+   Original line: Josh Comer Assistant Coach jocomer@siue.edu
+
+38. Jeremy Spates
+   Email: jspates@siue.edu
+   Username: jspates
+   Original line: Jeremy Spates Head Coach jspates@siue.edu aceofspates
+
+39. Daryl Thomas
+   Email: dthomak@siue.edu
+   Username: dthomak
+   Original line: Daryl Thomas Associate Head Coach dthomak@siue.edu
+
+40. Jake McKiernan
+   Email: jmckier@siue.edu
+   Username: jmckier
+   Original line: Jake McKiernan Assistant Coach jmckier@siue.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Markus Guegler Athletic Performance Graduate Assistant Coach mguegle@siue.edu
+• Sean Lyons Head Coach sealyon@siue.edu Sean5Lyons
+• Justin Paulsen Assistant Coach jupauls@siue.edu
+• Ethan Westphal Assistant Coach ewestph@siue.edu
+• Brian Barone Head Coach coachbbarone@siue.edu baronecoach
+• Colin Schneider Associate Head Coach colschn@siue.edu
+• Ryan Hellenthal Assistant Coach rhellen@siue.edu
+• Garret Covington Assistant Coach gcoving@siue.edu Gxc31
+• Rob Holloway Assistant Coach robholl@siue.edu
+• Mike Waldo Special Assistant to the Head Coach mwaldo@siue.edu
+• Samantha Quigley Smith Head Coach CoachSam@siue.edu CoachSQuigley
+• Liz Doran Assistant Coach edoran@siue.edu
+• Eric Gruber Assistant Coach egruber@siue.edu EricGruber23
+• Tierney Lockett Assistant Coach tlocket@siue.edu
+• Marcus Evans Head Coach marevan@siue.edu CoachMgEvans
+• Josh Wolfe Assistant Coach jowolfe@siue.edu baronsunburst
+• Marcus Evans Head Coach marevan@siue.edu CoachMgEvans
+• Josh Wolfe Assistant Coach jowolfe@siue.edu baronsunburst
+• Derrick Brown Head Golf Coach derbrow@siue.edu CoachDBrownSIUE
+• Cale Wassermann Head Coach cawasse@siue.edu CoachWassermann
+• Jordan Grant Assistant Coach jordagr@siue.edu
+• Drew Romig Assistant Coach/Goalkeeping dromig@siue.edu
+• Derek Burton Head Coach deburto@siue.edu
+• Alyssa Krause Associate Head Coach alykrau@siue.edu
+• Nick Luciani Assistant Coach nilucia@siue.edu
+• Ben Sorden Head Coach bsorden@siue.edu coachsorden
+• Caitlin Wnek Assistant Coach cwnek@siue.edu
+• Lynn Anderson Assistant Coach lynande@siue.edu
+• Adam Albertsen Head Coach adalber@siue.edu AdamAlbertsen
+• Marcus Evans Head Coach marevan@siue.edu CoachMgEvans
+• Erin Wykoff Assistant Coach ewykoff@siue.edu CoachEWykoff
+• Josh Wolfe Assistant Coach jowolfe@siue.edu baronsunburst
+• Marcus Evans Head Coach marevan@siue.edu CoachMgEvans
+• Erin Wykoff Assistant Coach ewykoff@siue.edu CoachEWykoff
+• Josh Wolfe Assistant Coach jowolfe@siue.edu baronsunburst
+• Kendall Paulus Head Coach kpaulus@siue.edu SIUEvolleyball
+• Josh Comer Assistant Coach jocomer@siue.edu
+• Jeremy Spates Head Coach jspates@siue.edu aceofspates
+• Daryl Thomas Associate Head Coach dthomak@siue.edu
+• Jake McKiernan Assistant Coach jmckier@siue.edu

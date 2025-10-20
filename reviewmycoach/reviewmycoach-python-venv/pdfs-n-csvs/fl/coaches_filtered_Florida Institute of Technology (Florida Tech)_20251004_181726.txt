@@ -1,0 +1,197 @@
+COACH ENTRIES FOUND - 2025-10-04 18:17:26
+============================================================
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jeff Tam
+   Email: jtam@fit.edu
+   Username: jtam
+   Original line: Jeff Tam Head Coach 321- jtam@fit.edu
+
+2. Alex Carpenter
+   Email: acarpenter2019@fit.edu
+   Username: acarpenter2019
+   Original line: Alex Carpenter Assistant Coach acarpenter2019@fit.edu
+
+3. Walker Hennon
+   Email: rhennon@fit.edu
+   Username: rhennon
+   Original line: Walker Hennon Assistant Coach rhennon@fit.edu
+
+4. Jacob Guthrie
+   Email: jguthrie@fit.edu
+   Username: jguthrie
+   Original line: Jacob Guthrie Assistant Coach jguthrie@fit.edu
+
+5. Joe Rapp
+   Email: jrapp@fit.edu
+   Username: jrapp
+   Original line: Joe Rapp Assistant Coach jrapp@fit.edu
+
+6. Will Murphy
+   Email: wmurphy@fit.edu
+   Username: wmurphy
+   Original line: Will Murphy Head Coach 321- wmurphy@fit.edu
+
+7. Zack Freesman
+   Email: zfreesman@fit.edu
+   Username: zfreesman
+   Original line: Zack Freesman Associate Head Coach 321- zfreesman@fit.edu
+
+8. Cecil Avant
+   Email: Cavant@fit.edu
+   Username: Cavant
+   Original line: Cecil Avant Assistant Coach Cavant@fit.edu
+
+9. Ashley Raley-Ross
+   Email: araleyross@fit.edu
+   Username: araleyross
+   Original line: Ashley Raley-Ross Head Coach 321- araleyross@fit.edu
+
+10. Tia McMillian
+   Email: tmcmillian@fit.edu
+   Username: tmcmillian
+   Original line: Tia McMillian Assistant Coach 321- tmcmillian@fit.edu
+
+11. Berfrantz Charles
+   Email: bcharles@fit.edu
+   Username: bcharles
+   Original line: Berfrantz Charles Associate Head Coach (321) bcharles@fit.edu
+
+12. Brad MacArthur
+   Email: bmacarthur@fit.edu
+   Username: bmacarthur
+   Original line: Brad MacArthur Head Coach 321- bmacarthur@fit.edu
+
+13. Zach Wynne
+   Email: zwynne2014@fit.edu
+   Username: zwynne2014
+   Original line: Zach Wynne Assistant Coach zwynne2014@fit.edu
+
+14. Chris Hawley
+   Email: chawley@fit.edu
+   Username: chawley
+   Original line: Chris Hawley Assistant Coach chawley@fit.edu
+
+15. Kelsey Richardson
+   Email: krichardson@fit.edu
+   Username: krichardson
+   Original line: Kelsey Richardson Head Coach (321) krichardson@fit.edu
+
+16. Hanna Hilcoff
+   Email: HHilcoff@fit.edu
+   Username: HHilcoff
+   Original line: Hanna Hilcoff Assistant Coach (321) HHilcoff@fit.edu
+
+17. Adam Thorstad
+   Email: athorsta@fit.edu
+   Username: athorsta
+   Original line: Adam Thorstad Head Coach (321) athorsta@fit.edu
+
+18. Catherine Davie
+   Email: cdavie@fit.edu
+   Username: cdavie
+   Original line: Catherine Davie Assistant Coach cdavie@fit.edu
+
+19. Nick Robinson
+   Email: nrobinson@fit.edu
+   Username: nrobinson
+   Original line: Nick Robinson Head Coach (321) nrobinson@fit.edu
+
+20. Robin Chan
+   Email: rchan@fit.edu
+   Username: rchan
+   Original line: Robin Chan Associate Head Coach (321) rchan@fit.edu
+
+21. Chris Callaghan
+   Email: ccallaghan@my.fit.edu
+   Username: ccallaghan
+   Original line: Chris Callaghan Assistant Coach ccallaghan@my.fit.edu
+
+22. Katy Freels
+   Email: kfreels@fit.edu
+   Username: kfreels
+   Original line: Katy Freels Head Coach (321) kfreels@fit.edu
+
+23. Scott Wilson
+   Email: swilson@fit.edu
+   Username: swilson
+   Original line: Scott Wilson Assistant Coach swilson@fit.edu
+
+24. Val Silvestrini
+   Email: vsilvestrini@fit.edu
+   Username: vsilvestrini
+   Original line: Val Silvestrini Head Coach (321) vsilvestrini@fit.edu
+
+25. Shanysse Emerenciana
+   Email: semerenciana2017@fit.edu
+   Username: semerenciana2017
+   Original line: Shanysse Emerenciana Assistant Coach 321- semerenciana2017@fit.edu
+
+26. Xiarysse Emerenciana
+   Email: xemerenciana2017@my.fit.edu
+   Username: xemerenciana2017
+   Original line: Xiarysse Emerenciana Assistant Coach xemerenciana2017@my.fit.edu
+
+27. Tim Stockton
+   Email: tstockton@my.fit.edu
+   Username: tstockton
+   Original line: Tim Stockton Assistant Coach tstockton@my.fit.edu
+
+28. Tony Marleneanu
+   Email: tmarleneanu@fit.edu
+   Username: tmarleneanu
+   Original line: Tony Marleneanu Head Coach 321- tmarleneanu@fit.edu
+
+29. Berfrantz Charles
+   Email: bcharles@fit.edu
+   Username: bcharles
+   Original line: Berfrantz Charles Associate Head Coach (321) bcharles@fit.edu
+
+30. Jordan Willis
+   Email: jwillis@fit.edu
+   Username: jwillis
+   Original line: Jordan Willis Head Coach 321- jwillis@fit.edu
+
+31. PuaLehua Keola
+   Email: pkeola@fit.edu
+   Username: pkeola
+   Original line: PuaLehua Keola Assistant Coach 321- pkeola@fit.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jeff Tam Head Coach 321- jtam@fit.edu
+• Alex Carpenter Assistant Coach acarpenter2019@fit.edu
+• Walker Hennon Assistant Coach rhennon@fit.edu
+• Jacob Guthrie Assistant Coach jguthrie@fit.edu
+• Joe Rapp Assistant Coach jrapp@fit.edu
+• Will Murphy Head Coach 321- wmurphy@fit.edu
+• Zack Freesman Associate Head Coach 321- zfreesman@fit.edu
+• Cecil Avant Assistant Coach Cavant@fit.edu
+• Ashley Raley-Ross Head Coach 321- araleyross@fit.edu
+• Tia McMillian Assistant Coach 321- tmcmillian@fit.edu
+• Berfrantz Charles Associate Head Coach (321) bcharles@fit.edu
+• Brad MacArthur Head Coach 321- bmacarthur@fit.edu
+• Zach Wynne Assistant Coach zwynne2014@fit.edu
+• Chris Hawley Assistant Coach chawley@fit.edu
+• Kelsey Richardson Head Coach (321) krichardson@fit.edu
+• Hanna Hilcoff Assistant Coach (321) HHilcoff@fit.edu
+• Adam Thorstad Head Coach (321) athorsta@fit.edu
+• Catherine Davie Assistant Coach cdavie@fit.edu
+• Nick Robinson Head Coach (321) nrobinson@fit.edu
+• Robin Chan Associate Head Coach (321) rchan@fit.edu
+• Chris Callaghan Assistant Coach ccallaghan@my.fit.edu
+• Katy Freels Head Coach (321) kfreels@fit.edu
+• Scott Wilson Assistant Coach swilson@fit.edu
+• Val Silvestrini Head Coach (321) vsilvestrini@fit.edu
+• Shanysse Emerenciana Assistant Coach 321- semerenciana2017@fit.edu
+• Xiarysse Emerenciana Assistant Coach xemerenciana2017@my.fit.edu
+• Tim Stockton Assistant Coach tstockton@my.fit.edu
+• Tony Marleneanu Head Coach 321- tmarleneanu@fit.edu
+• Berfrantz Charles Associate Head Coach (321) bcharles@fit.edu
+• Jordan Willis Head Coach 321- jwillis@fit.edu
+• PuaLehua Keola Assistant Coach 321- pkeola@fit.edu

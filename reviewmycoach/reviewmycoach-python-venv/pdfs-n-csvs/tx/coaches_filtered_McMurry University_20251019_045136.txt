@@ -1,0 +1,191 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:36
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Larry Dockery
+   Email: dockery.larry@mcm.edu
+   Username: dockery.larry
+   Original line: Larry Dockery Director of Athletics dockery.larry@mcm.edu (325) @CoachDockeryMCM
+
+2. Caroline Cleveland
+   Email: cleveland.caroline@mcm.edu
+   Username: cleveland.caroline
+   Original line: Caroline Cleveland Head Volleyball Coach / Senior cleveland.caroline@mcm.edu (325)
+
+3. Josh Lee
+   Email: lee.josh@mcm.edu
+   Username: lee.josh
+   Original line: Josh Lee Head Baseball Coach lee.josh@mcm.edu (325)
+
+4. Boardman Adams
+   Email: adams.roderick@mcm.edu
+   Username: adams.roderick
+   Original line: Boardman Adams Assistant Baseball Coach, adams.roderick@mcm.edu (325)
+
+5. Matt Bolton
+   Email: bolton.matt@mcm.edu
+   Username: bolton.matt
+   Original line: Matt Bolton Men's Basketball Head Coach bolton.matt@mcm.edu (325)
+
+6. Jack Johnson
+   Email: johnson.jack@mcm.edu
+   Username: johnson.jack
+   Original line: Jack Johnson Assistant Coach johnson.jack@mcm.edu (325)
+
+7. Jordan Neal
+   Email: neal.jordan@mcm.edu
+   Username: neal.jordan
+   Original line: Jordan Neal Head Football Coach / neal.jordan@mcm.edu (325) @CoachNealMCM
+
+8. KJ Kelley
+   Email: kelley.kj@mcm.edu
+   Username: kelley.kj
+   Original line: KJ Kelley Assistant Coach / Defensive kelley.kj@mcm.edu
+
+9. Leo Brownfield
+   Email: brownfield.leo@mcm.edu
+   Username: brownfield.leo
+   Original line: Leo Brownfield Assistant Coach / Running brownfield.leo@mcm.edu
+
+10. Rode McElreath
+   Email: mcelreath.rode@mcm.edu
+   Username: mcelreath.rode
+   Original line: Rode McElreath Head Golf Coach mcelreath.rode@mcm.edu (325)
+
+11. Rode McElreath
+   Email: mcelreath.rode@mcm.edu
+   Username: mcelreath.rode
+   Original line: Rode McElreath Head Golf Coach mcelreath.rode@mcm.edu (325)
+
+12. Lorenzo Segura
+   Email: segura.lorenzo@mcm.edu
+   Username: segura.lorenzo
+   Original line: Lorenzo Segura Head Men's Soccer Coach segura.lorenzo@mcm.edu (325)
+
+13. Madelyn Wilson
+   Email: wilson.madelyn@mcm.edu
+   Username: wilson.madelyn
+   Original line: Madelyn Wilson Interim Head Coach wilson.madelyn@mcm.edu (325)
+
+14. David McNally
+   Email: mcnally.david@mcm.edu
+   Username: mcnally.david
+   Original line: David McNally Head Softball Coach mcnally.david@mcm.edu (325)
+
+15. Mark Jedow
+   Email: jedow.mark@mcm.edu
+   Username: jedow.mark
+   Original line: Mark Jedow Head Coach jedow.mark@mcm.edu 325-793-
+
+16. Samuel Willstrop
+   Email: willstrop.samuel@mcm.edu
+   Username: willstrop.samuel
+   Original line: Samuel Willstrop Assistant Swimming Coach willstrop.samuel@mcm.edu (325)
+
+17. Mark Jedow
+   Email: jedow.mark@mcm.edu
+   Username: jedow.mark
+   Original line: Mark Jedow Head Coach jedow.mark@mcm.edu 325-793-
+
+18. Samuel Willstrop
+   Email: willstrop.samuel@mcm.edu
+   Username: willstrop.samuel
+   Original line: Samuel Willstrop Assistant Swimming Coach willstrop.samuel@mcm.edu (325)
+
+19. Chris Breaux
+   Email: breaux.chris@mcm.edu
+   Username: breaux.chris
+   Original line: Chris Breaux Head Tennis Coach breaux.chris@mcm.edu (325)
+
+20. Aubrey Irwin
+   Email: irwin.aubrey@mcm.edu
+   Username: irwin.aubrey
+   Original line: Aubrey Irwin Assistant Tennis Coach irwin.aubrey@mcm.edu
+
+21. Chris Breaux
+   Email: breaux.chris@mcm.edu
+   Username: breaux.chris
+   Original line: Chris Breaux Head Tennis Coach breaux.chris@mcm.edu (325)
+
+22. Aubrey Irwin
+   Email: irwin.aubrey@mcm.edu
+   Username: irwin.aubrey
+   Original line: Aubrey Irwin Assistant Tennis Coach irwin.aubrey@mcm.edu
+
+23. Cody Knight
+   Email: knight.cody@mcm.edu
+   Username: knight.cody
+   Original line: Cody Knight Head Track & Field Coach knight.cody@mcm.edu (325)
+
+24. Michael McCarroll
+   Email: mccarroll.michael@mcm.edu
+   Username: mccarroll.michael
+   Original line: Michael McCarroll Volunteer Track & Field Coach / mccarroll.michael@mcm.edu
+
+25. Cody Knight
+   Email: knight.cody@mcm.edu
+   Username: knight.cody
+   Original line: Cody Knight Head Track & Field Coach knight.cody@mcm.edu (325)
+
+26. Michael McCarroll
+   Email: mccarroll.michael@mcm.edu
+   Username: mccarroll.michael
+   Original line: Michael McCarroll Volunteer Track & Field Coach / mccarroll.michael@mcm.edu
+
+27. Caroline Cleveland
+   Email: cleveland.caroline@mcm.edu
+   Username: cleveland.caroline
+   Original line: Caroline Cleveland Head Volleyball Coach / Senior cleveland.caroline@mcm.edu (325)
+
+28. Lance Brown
+   Email: brown.lance@mcm.edu
+   Username: brown.lance
+   Original line: Lance Brown Head Wrestling Coach brown.lance@mcm.edu (325)
+
+29. Lance Brown
+   Email: brown.lance@mcm.edu
+   Username: brown.lance
+   Original line: Lance Brown Head Wrestling Coach brown.lance@mcm.edu (325)
+
+30. Matt Tarpley
+   Email: tarpley.matt@mcm.edu
+   Username: tarpley.matt
+   Original line: Matt Tarpley Head Esports Coach tarpley.matt@mcm.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Larry Dockery Director of Athletics dockery.larry@mcm.edu (325) @CoachDockeryMCM
+• Caroline Cleveland Head Volleyball Coach / Senior cleveland.caroline@mcm.edu (325)
+• Josh Lee Head Baseball Coach lee.josh@mcm.edu (325)
+• Boardman Adams Assistant Baseball Coach, adams.roderick@mcm.edu (325)
+• Matt Bolton Men's Basketball Head Coach bolton.matt@mcm.edu (325)
+• Jack Johnson Assistant Coach johnson.jack@mcm.edu (325)
+• Jordan Neal Head Football Coach / neal.jordan@mcm.edu (325) @CoachNealMCM
+• KJ Kelley Assistant Coach / Defensive kelley.kj@mcm.edu
+• Leo Brownfield Assistant Coach / Running brownfield.leo@mcm.edu
+• Rode McElreath Head Golf Coach mcelreath.rode@mcm.edu (325)
+• Rode McElreath Head Golf Coach mcelreath.rode@mcm.edu (325)
+• Lorenzo Segura Head Men's Soccer Coach segura.lorenzo@mcm.edu (325)
+• Madelyn Wilson Interim Head Coach wilson.madelyn@mcm.edu (325)
+• David McNally Head Softball Coach mcnally.david@mcm.edu (325)
+• Mark Jedow Head Coach jedow.mark@mcm.edu 325-793-
+• Samuel Willstrop Assistant Swimming Coach willstrop.samuel@mcm.edu (325)
+• Mark Jedow Head Coach jedow.mark@mcm.edu 325-793-
+• Samuel Willstrop Assistant Swimming Coach willstrop.samuel@mcm.edu (325)
+• Chris Breaux Head Tennis Coach breaux.chris@mcm.edu (325)
+• Aubrey Irwin Assistant Tennis Coach irwin.aubrey@mcm.edu
+• Chris Breaux Head Tennis Coach breaux.chris@mcm.edu (325)
+• Aubrey Irwin Assistant Tennis Coach irwin.aubrey@mcm.edu
+• Cody Knight Head Track & Field Coach knight.cody@mcm.edu (325)
+• Michael McCarroll Volunteer Track & Field Coach / mccarroll.michael@mcm.edu
+• Cody Knight Head Track & Field Coach knight.cody@mcm.edu (325)
+• Michael McCarroll Volunteer Track & Field Coach / mccarroll.michael@mcm.edu
+• Caroline Cleveland Head Volleyball Coach / Senior cleveland.caroline@mcm.edu (325)
+• Lance Brown Head Wrestling Coach brown.lance@mcm.edu (325)
+• Lance Brown Head Wrestling Coach brown.lance@mcm.edu (325)
+• Matt Tarpley Head Esports Coach tarpley.matt@mcm.edu

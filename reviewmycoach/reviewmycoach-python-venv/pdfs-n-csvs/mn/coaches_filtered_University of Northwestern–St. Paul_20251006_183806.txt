@@ -1,0 +1,179 @@
+COACH ENTRIES FOUND - 2025-10-06 18:38:06
+============================================================
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Adam Maronde
+   Email: armaronde@unwsp.edu
+   Username: armaronde
+   Original line: Adam Maronde Strength & Conditioning Coach armaronde@unwsp.edu
+
+2. Adam Maronde
+   Email: armaronde@unwsp.edu
+   Username: armaronde
+   Original line: Adam Maronde Strength & Conditioning Coach armaronde@unwsp.edu
+
+3. Jesse Eikum
+   Email: jaeikum@unwsp.edu
+   Username: jaeikum
+   Original line: Jesse Eikum Head Coach jaeikum@unwsp.edu 651-628-
+
+4. Aaron Kahl
+   Email: arkahl@unwsp.edu
+   Username: arkahl
+   Original line: Aaron Kahl Head Coach arkahl@unwsp.edu 651-628-
+
+5. Megan McGeough
+   Email: mgmcgeough@unwsp.edu
+   Username: mgmcgeough
+   Original line: Megan McGeough Assistant Coach mgmcgeough@unwsp.edu
+
+6. Tim Grosz
+   Email: tsgrosz@unwsp.edu
+   Username: tsgrosz
+   Original line: Tim Grosz Head Coach tsgrosz@unwsp.edu 651-631-
+
+7. Billy Aune
+   Email: wjaune@unwsp.edu
+   Username: wjaune
+   Original line: Billy Aune Associate Head Coach wjaune@unwsp.edu 651-628-
+
+8. Kyle Krecklow
+   Email: kylekrecklow1@gmail.com
+   Username: kylekrecklow1
+   Original line: Kyle Krecklow Assistant Coach kylekrecklow1@gmail.com 651-238-
+
+9. Patrick Fitzgerald
+   Email: pjfitzgerald@unwsp.edu
+   Username: pjfitzgerald
+   Original line: Patrick Fitzgerald Head Coach pjfitzgerald@unwsp.edu
+
+10. Patrick Fitzgerald
+   Email: pjfitzgerald@unwsp.edu
+   Username: pjfitzgerald
+   Original line: Patrick Fitzgerald Head Coach pjfitzgerald@unwsp.edu
+
+11. Matt Moore
+   Email: mdmoore@unwsp.edu
+   Username: mdmoore
+   Original line: Matt Moore Head Coach mdmoore@unwsp.edu 651-628-
+
+12. Scott Hvistendahl
+   Email: smhvistendahl@unwsp.edu
+   Username: smhvistendahl
+   Original line: Scott Hvistendahl Wide Receivers Coach smhvistendahl@unwsp.edu
+
+13. George Palke
+   Email: gpalke@aol.com
+   Username: gpalke
+   Original line: George Palke Kickers & Punters Coach gpalke@aol.com 651-587-
+
+14. Billy Aune
+   Email: wjaune@unwsp.edu
+   Username: wjaune
+   Original line: Billy Aune Head Coach wjaune@unwsp.edu 651-628-
+
+15. Perry Tuseth
+   Email: ptuseth@comcast.net
+   Username: ptuseth
+   Original line: Perry Tuseth Assistant Coach ptuseth@comcast.net 651-263-
+
+16. Billy Aune
+   Email: wjaune@unwsp.edu
+   Username: wjaune
+   Original line: Billy Aune Head Coach wjaune@unwsp.edu 651-628-
+
+17. Perry Tuseth
+   Email: ptuseth@comcast.net
+   Username: ptuseth
+   Original line: Perry Tuseth Assistant Coach ptuseth@comcast.net 651-263-
+
+18. Danny Brandt
+   Email: drbrandt@unwsp.edu
+   Username: drbrandt
+   Original line: Danny Brandt Head Coach drbrandt@unwsp.edu
+
+19. Josh Niedermayer
+   Email: janiedermayer@unwsp.edu
+   Username: janiedermayer
+   Original line: Josh Niedermayer Assistant Coach janiedermayer@unwsp.edu 262-490-
+
+20. Greg Wheaton
+   Email: gdwheaton@unwsp.edu
+   Username: gdwheaton
+   Original line: Greg Wheaton Head Coach gdwheaton@unwsp.edu 651-324-
+
+21. Brad Wildman
+   Email: btwildman@unwsp.edu
+   Username: btwildman
+   Original line: Brad Wildman Assistant Coach / Recruiting Coordinator btwildman@unwsp.edu 651-755-
+
+22. Alicia du'Monceaux
+   Email: amdumonceaux@unwsp.edu
+   Username: amdumonceaux
+   Original line: Alicia du'Monceaux Head Coach amdumonceaux@unwsp.edu 651-631-
+
+23. Matt Swigart
+   Email: mjswigart@unwsp.edu
+   Username: mjswigart
+   Original line: Matt Swigart Head Coach mjswigart@unwsp.edu 651-335-
+
+24. Matt Swigart
+   Email: mjswigart@unwsp.edu
+   Username: mjswigart
+   Original line: Matt Swigart Head Coach mjswigart@unwsp.edu 651-335-
+
+25. Patrick Fitzgerald
+   Email: pjfitzgerald@unwsp.edu
+   Username: pjfitzgerald
+   Original line: Patrick Fitzgerald Head Coach pjfitzgerald@unwsp.edu
+
+26. Patrick Fitzgerald
+   Email: pjfitzgerald@unwsp.edu
+   Username: pjfitzgerald
+   Original line: Patrick Fitzgerald Head Coach pjfitzgerald@unwsp.edu
+
+27. Beth Wilmeth
+   Email: bkwilmeth@unwsp.edu
+   Username: bkwilmeth
+   Original line: Beth Wilmeth Head Coach bkwilmeth@unwsp.edu 651-286-
+
+28. John Barnes
+   Email: jdbarnes@unwsp.edu
+   Username: jdbarnes
+   Original line: John Barnes Assistant Coach jdbarnes@unwsp.edu 651-717-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Adam Maronde Strength & Conditioning Coach armaronde@unwsp.edu
+• Adam Maronde Strength & Conditioning Coach armaronde@unwsp.edu
+• Jesse Eikum Head Coach jaeikum@unwsp.edu 651-628-
+• Aaron Kahl Head Coach arkahl@unwsp.edu 651-628-
+• Megan McGeough Assistant Coach mgmcgeough@unwsp.edu
+• Tim Grosz Head Coach tsgrosz@unwsp.edu 651-631-
+• Billy Aune Associate Head Coach wjaune@unwsp.edu 651-628-
+• Kyle Krecklow Assistant Coach kylekrecklow1@gmail.com 651-238-
+• Patrick Fitzgerald Head Coach pjfitzgerald@unwsp.edu
+• Patrick Fitzgerald Head Coach pjfitzgerald@unwsp.edu
+• Matt Moore Head Coach mdmoore@unwsp.edu 651-628-
+• Scott Hvistendahl Wide Receivers Coach smhvistendahl@unwsp.edu
+• George Palke Kickers & Punters Coach gpalke@aol.com 651-587-
+• Billy Aune Head Coach wjaune@unwsp.edu 651-628-
+• Perry Tuseth Assistant Coach ptuseth@comcast.net 651-263-
+• Billy Aune Head Coach wjaune@unwsp.edu 651-628-
+• Perry Tuseth Assistant Coach ptuseth@comcast.net 651-263-
+• Danny Brandt Head Coach drbrandt@unwsp.edu
+• Josh Niedermayer Assistant Coach janiedermayer@unwsp.edu 262-490-
+• Greg Wheaton Head Coach gdwheaton@unwsp.edu 651-324-
+• Brad Wildman Assistant Coach / Recruiting Coordinator btwildman@unwsp.edu 651-755-
+• Alicia du'Monceaux Head Coach amdumonceaux@unwsp.edu 651-631-
+• Matt Swigart Head Coach mjswigart@unwsp.edu 651-335-
+• Matt Swigart Head Coach mjswigart@unwsp.edu 651-335-
+• Patrick Fitzgerald Head Coach pjfitzgerald@unwsp.edu
+• Patrick Fitzgerald Head Coach pjfitzgerald@unwsp.edu
+• Beth Wilmeth Head Coach bkwilmeth@unwsp.edu 651-286-
+• John Barnes Assistant Coach jdbarnes@unwsp.edu 651-717-

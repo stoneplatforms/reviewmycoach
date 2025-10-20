@@ -1,0 +1,263 @@
+COACH ENTRIES FOUND - 2025-10-04 18:13:59
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jake Angier
+   Email: jangier@nmsu.edu
+   Username: jangier
+   Original line: Jake Angier Head Baseball Coach jangier@nmsu.edu
+
+2. David Bellamy
+   Email: dbellamy@nmsu.edu
+   Username: dbellamy
+   Original line: David Bellamy Assistant Coach dbellamy@nmsu.edu
+
+3. Dillon Leveille
+   Email: dillonpl@nmsu.edu
+   Username: dillonpl
+   Original line: Dillon Leveille Assistant Coach dillonpl@nmsu.edu
+
+4. Camden Duzenack
+   Email: camduz@nmsu.edu
+   Username: camduz
+   Original line: Camden Duzenack Assistant Coach camduz@nmsu.edu
+
+5. Jason Hooten
+   Email: beckv@nmsu.edu
+   Username: beckv
+   Original line: Jason Hooten Head Coach beckv@nmsu.edu (575) 646-
+
+6. Preston Laird
+   Email: Plaird31@nmsu.edu
+   Username: Plaird31
+   Original line: Preston Laird Assistant Coach Plaird31@nmsu.edu
+
+7. Terryonte Thomas
+   Email: tkthomas@nmsu.edu
+   Username: tkthomas
+   Original line: Terryonte Thomas Assistant Coach tkthomas@nmsu.edu (575) 646-
+
+8. Nick Matson
+   Email: Nmatson@nmsu.edu
+   Username: Nmatson
+   Original line: Nick Matson Assistant Coach Nmatson@nmsu.edu
+
+9. Shunn Buchanan
+   Email: Mlbuchan@nmsu.edu
+   Username: Mlbuchan
+   Original line: Shunn Buchanan Assistant Coach Mlbuchan@nmsu.edu
+
+10. Jonathan Thompson
+   Email: jt828@nmsu.edu
+   Username: jt828
+   Original line: Jonathan Thompson Assistant Strength & Conditioning Coach jt828@nmsu.edu
+
+11. Jody Adams
+   Email: beckv@nmsu.edu
+   Username: beckv
+   Original line: Jody Adams Head Coach beckv@nmsu.edu (575) 646-
+
+12. James Frey
+   Email: Freyj@nmsu.edu
+   Username: Freyj
+   Original line: James Frey Associate Head Coach Freyj@nmsu.edu (575) 646-
+
+13. Preston Planells
+   Email: planells@nmsu.edu
+   Username: planells
+   Original line: Preston Planells Assistant Coach planells@nmsu.edu (575) 646-
+
+14. Kayla Tucker
+   Email: ktucker@nmsu.edu
+   Username: ktucker
+   Original line: Kayla Tucker Assistant Coach ktucker@nmsu.edu (575) 646-
+
+15. Myron Brown
+   Email: mybrown@nmsu.edu
+   Username: mybrown
+   Original line: Myron Brown Assistant Coach mybrown@nmsu.edu
+
+16. Jessica Covington
+   Email: jessifra@nmsu.edu
+   Username: jessifra
+   Original line: Jessica Covington Head Coach jessifra@nmsu.edu
+
+17. Karah Tooley
+   Email: ktooley@nmsu.edu
+   Username: ktooley
+   Original line: Karah Tooley Assistant Coach/Mascot/Appearances ktooley@nmsu.edu
+
+18. Tommy Escudero
+   Email: thomase@nmsu.edu
+   Username: thomase
+   Original line: Tommy Escudero Assistant Coach thomase@nmsu.edu
+
+19. David Cobb
+   Email: dcobb@nmsu.edu
+   Username: dcobb
+   Original line: David Cobb Assistant Head Coach/General Manager/Running Backs dcobb@nmsu.edu (575) 646-
+
+20. Mike Dirks
+   Email: mdirks@nmsu.edu
+   Username: mdirks
+   Original line: Mike Dirks Head Coach mdirks@nmsu.edu (575) 646-
+
+21. Mike McGilton
+   Email: mcgilton@nmsu.edu
+   Username: mcgilton
+   Original line: Mike McGilton Assistant Coach mcgilton@nmsu.edu
+
+22. Danny Bowen
+   Email: dbowen@nmsu.edu
+   Username: dbowen
+   Original line: Danny Bowen Head Coach dbowen@nmsu.edu
+
+23. Valentina Origel
+   Email: valeol@nmsu.edu
+   Username: valeol
+   Original line: Valentina Origel Assistant Coach valeol@nmsu.edu
+
+24. Rob Baarts
+   Email: baarts@nmsu.edu
+   Username: baarts
+   Original line: Rob Baarts Head Coach baarts@nmsu.edu
+
+25. D'Angelo Garcia
+   Email: dvgarcia@nmsu.edu
+   Username: dvgarcia
+   Original line: D'Angelo Garcia Assistant Coach dvgarcia@nmsu.edu
+
+26. Stacie Owers
+   Email: owers@nmsu.edu
+   Username: owers
+   Original line: Stacie Owers Associate Head Coach owers@nmsu.edu
+
+27. Kathy Rodolph
+   Email: aggiesb@nmsu.edu
+   Username: aggiesb
+   Original line: Kathy Rodolph Head Coach aggiesb@nmsu.edu (575) 646-
+
+28. Cat Heifner
+   Email: aggiesb@nmsu.edu
+   Username: aggiesb
+   Original line: Cat Heifner Associate Head Coach aggiesb@nmsu.edu (575) 646-
+
+29. Benet Higgs
+   Email: bhiggs@nmsu.edu
+   Username: bhiggs
+   Original line: Benet Higgs Assistant Coach bhiggs@nmsu.edu
+
+30. Andrew Feild
+   Email: afeild@nmsu.edu
+   Username: afeild
+   Original line: Andrew Feild Assistant Strength & Conditioning Coach afeild@nmsu.edu
+
+31. Luis Rodriguez
+   Email: luisrod1@nmsu.edu
+   Username: luisrod1
+   Original line: Luis Rodriguez Castellano Assistant Strength & Conditioning Coach luisrod1@nmsu.edu
+
+32. Tyler Moore
+   Email: mooret@nmsu.edu
+   Username: mooret
+   Original line: Tyler Moore Assistant Strength & Conditioning Coach mooret@nmsu.edu
+
+33. Jonathan Thompson
+   Email: jt828@nmsu.edu
+   Username: jt828
+   Original line: Jonathan Thompson Assistant Strength & Conditioning Coach jt828@nmsu.edu
+
+34. Rick Pratt
+   Email: rpratt@nmsu.edu
+   Username: rpratt
+   Original line: Rick Pratt Head Coach rpratt@nmsu.edu (575) 646-
+
+35. Carlos Vargas
+   Email: carvarga@nmsu.edu
+   Username: carvarga
+   Original line: Carlos Vargas Head Coach carvarga@nmsu.edu (575) 646-
+
+36. Emily Wang
+   Email: ecwang@nmsu.edu
+   Username: ecwang
+   Original line: Emily Wang Head Coach ecwang@nmsu.edu (575) 646-
+
+37. Joseph Rath
+   Email: rath@nmsu.edu
+   Username: rath
+   Original line: Joseph Rath Head Coach rath@nmsu.edu (575) 646-
+
+38. Patrick Larrison
+   Email: throws@nmsu.edu
+   Username: throws
+   Original line: Patrick Larrison Throws Coach throws@nmsu.edu
+
+39. Mike Jordan
+   Email: micjorda@nmsu.edu
+   Username: micjorda
+   Original line: Mike Jordan Head Coach micjorda@nmsu.edu (575) 646-
+
+40. Chris Hertel
+   Email: chertel@nmsu.edu
+   Username: chertel
+   Original line: Chris Hertel Associate Head Coach chertel@nmsu.edu (575) 646-
+
+41. Chelsea Rose
+   Email: chelsear@nmsu.edu
+   Username: chelsear
+   Original line: Chelsea Rose Assistant Coach chelsear@nmsu.edu (575) 646-
+
+42. Lia Mosher
+   Email: liamosh@nmsu.edu
+   Username: liamosh
+   Original line: Lia Mosher Assistant Coach liamosh@nmsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jake Angier Head Baseball Coach jangier@nmsu.edu
+• David Bellamy Assistant Coach dbellamy@nmsu.edu
+• Dillon Leveille Assistant Coach dillonpl@nmsu.edu
+• Camden Duzenack Assistant Coach camduz@nmsu.edu
+• Jason Hooten Head Coach beckv@nmsu.edu (575) 646-
+• Preston Laird Assistant Coach Plaird31@nmsu.edu
+• Terryonte Thomas Assistant Coach tkthomas@nmsu.edu (575) 646-
+• Nick Matson Assistant Coach Nmatson@nmsu.edu
+• Shunn Buchanan Assistant Coach Mlbuchan@nmsu.edu
+• Jonathan Thompson Assistant Strength & Conditioning Coach jt828@nmsu.edu
+• Jody Adams Head Coach beckv@nmsu.edu (575) 646-
+• James Frey Associate Head Coach Freyj@nmsu.edu (575) 646-
+• Preston Planells Assistant Coach planells@nmsu.edu (575) 646-
+• Kayla Tucker Assistant Coach ktucker@nmsu.edu (575) 646-
+• Myron Brown Assistant Coach mybrown@nmsu.edu
+• Jessica Covington Head Coach jessifra@nmsu.edu
+• Karah Tooley Assistant Coach/Mascot/Appearances ktooley@nmsu.edu
+• Tommy Escudero Assistant Coach thomase@nmsu.edu
+• David Cobb Assistant Head Coach/General Manager/Running Backs dcobb@nmsu.edu (575) 646-
+• Mike Dirks Head Coach mdirks@nmsu.edu (575) 646-
+• Mike McGilton Assistant Coach mcgilton@nmsu.edu
+• Danny Bowen Head Coach dbowen@nmsu.edu
+• Valentina Origel Assistant Coach valeol@nmsu.edu
+• Rob Baarts Head Coach baarts@nmsu.edu
+• D'Angelo Garcia Assistant Coach dvgarcia@nmsu.edu
+• Stacie Owers Associate Head Coach owers@nmsu.edu
+• Kathy Rodolph Head Coach aggiesb@nmsu.edu (575) 646-
+• Cat Heifner Associate Head Coach aggiesb@nmsu.edu (575) 646-
+• Benet Higgs Assistant Coach bhiggs@nmsu.edu
+• Andrew Feild Assistant Strength & Conditioning Coach afeild@nmsu.edu
+• Luis Rodriguez Castellano Assistant Strength & Conditioning Coach luisrod1@nmsu.edu
+• Tyler Moore Assistant Strength & Conditioning Coach mooret@nmsu.edu
+• Jonathan Thompson Assistant Strength & Conditioning Coach jt828@nmsu.edu
+• Rick Pratt Head Coach rpratt@nmsu.edu (575) 646-
+• Carlos Vargas Head Coach carvarga@nmsu.edu (575) 646-
+• Emily Wang Head Coach ecwang@nmsu.edu (575) 646-
+• Joseph Rath Head Coach rath@nmsu.edu (575) 646-
+• Patrick Larrison Throws Coach throws@nmsu.edu
+• Mike Jordan Head Coach micjorda@nmsu.edu (575) 646-
+• Chris Hertel Associate Head Coach chertel@nmsu.edu (575) 646-
+• Chelsea Rose Assistant Coach chelsear@nmsu.edu (575) 646-
+• Lia Mosher Assistant Coach liamosh@nmsu.edu

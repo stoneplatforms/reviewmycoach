@@ -1,0 +1,263 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:27
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Joe Golding
+   Email: lambriz2@utep.edu
+   Username: lambriz2
+   Original line: Joe Golding Head Coach 915-747- lambriz2@utep.edu
+
+2. Jeremy Cox
+   Email: jlcox@utep.edu
+   Username: jlcox
+   Original line: Jeremy Cox Associate Head Coach 915-747- jlcox@utep.edu
+
+3. Steve Green
+   Email: skgreen@utep.edu
+   Username: skgreen
+   Original line: Steve Green Assistant Coach 915-747- skgreen@utep.edu
+
+4. Hunter Jenkins
+   Email: hrjenkins@utep.edu
+   Username: hrjenkins
+   Original line: Hunter Jenkins Assistant Coach 915-747- hrjenkins@utep.edu
+
+5. Reggie Miller
+   Email: rjmiller@utep.edu
+   Username: rjmiller
+   Original line: Reggie Miller Assistant Coach 915-747- rjmiller@utep.edu
+
+6. Bryen Spriggs
+   Email: bkspriggs@utep.edu
+   Username: bkspriggs
+   Original line: Bryen Spriggs Assistant Coach 915-747- bkspriggs@utep.edu
+
+7. Keitha Adams
+   Email: kradams@utep.edu
+   Username: kradams
+   Original line: Keitha Adams Head Coach 915-747- kradams@utep.edu
+
+8. Ewa Laskowska
+   Email: laskowska@utep.edu
+   Username: laskowska
+   Original line: Ewa Laskowska Associate Head Coach 915-747- laskowska@utep.edu
+
+9. Jareica Hughes
+   Email: jrhughes3@utep.edu
+   Username: jrhughes3
+   Original line: Jareica Hughes Assistant Coach 915-747- jrhughes3@utep.edu
+
+10. Lulu McKinney
+   Email: amckinney@utep.edu
+   Username: amckinney
+   Original line: Lulu McKinney Assistant Coach 915-747- amckinney@utep.edu
+
+11. Daniel Foo
+   Email: dwfoo@utep.edu
+   Username: dwfoo
+   Original line: Daniel Foo Head Coach dwfoo@utep.edu
+
+12. Katie Martin
+   Email: krmartin@miners.utep.edu
+   Username: krmartin
+   Original line: Katie Martin Assistant Coach krmartin@miners.utep.edu
+
+13. Francesca Green
+   Email: fegreen@utep.edu
+   Username: fegreen
+   Original line: Francesca Green Head Coach 915-747- fegreen@utep.edu
+
+14. Justin Herbert
+   Email: jaherbert@utep.edu
+   Username: jaherbert
+   Original line: Justin Herbert Assistant Coach - XC/Distance jaherbert@utep.edu
+
+15. Abby Walls
+   Email: arwalls@utep.edu
+   Username: arwalls
+   Original line: Abby Walls Assistant Coach - Operations & Jumps/Multis arwalls@utep.edu
+
+16. Scotty Walden
+   Email: nposada@utep.edu
+   Username: nposada
+   Original line: Scotty Walden Head Coach 915-747- nposada@utep.edu
+
+17. Norma Posada
+   Email: nposada@utep.edu
+   Username: nposada
+   Original line: Norma Posada Special Assistant to the Head Coach 915-747- nposada@utep.edu
+
+18. Aaron Puetz
+   Email: ampuetz@utep.edu
+   Username: ampuetz
+   Original line: Aaron Puetz Head Coach 915-747- ampuetz@utep.edu
+
+19. Greg Yellin
+   Email: ghyellin@utep.edu
+   Username: ghyellin
+   Original line: Greg Yellin Assistant Coach ghyellin@utep.edu
+
+20. Steve Sims
+   Email: spsims@utep.edu
+   Username: spsims
+   Original line: Steve Sims Head Coach 915-747- spsims@utep.edu
+
+21. Greg Yellin
+   Email: ghyellin@utep.edu
+   Username: ghyellin
+   Original line: Greg Yellin Assistant Coach ghyellin@utep.edu
+
+22. Andrea Palafox
+   Email: apalafoxlopez2@utep.edu
+   Username: apalafoxlopez2
+   Original line: Andrea Palafox Head Coach apalafoxlopez2@utep.edu
+
+23. Gibbs Keeton
+   Email: gckeeton@utep.edu
+   Username: gckeeton
+   Original line: Gibbs Keeton Head Coach (915) 201- gckeeton@utep.edu
+
+24. Morgan McDougal
+   Email: mlmcdougal@utep.edu
+   Username: mlmcdougal
+   Original line: Morgan McDougal Assistant Coach mlmcdougal@utep.edu
+
+25. Jared Hallman
+   Email: jahallman@utep.edu
+   Username: jahallman
+   Original line: Jared Hallman Assistant Coach jahallman@utep.edu
+
+26. T.J. Hubbard
+   Email: UTEPSoftball@utep.edu
+   Username: UTEPSoftball
+   Original line: T.J. Hubbard Head Coach 915-747- UTEPSoftball@utep.edu
+
+27. Alexis Bandin
+   Email: UTEPSoftball@utep.edu
+   Username: UTEPSoftball
+   Original line: Alexis Bandin Assistant Coach UTEPSoftball@utep.edu
+
+28. Cesar Romero
+   Email: UTEPSoftball@utep.edu
+   Username: UTEPSoftball
+   Original line: Cesar Romero Assistant Coach 915-747- UTEPSoftball@utep.edu
+
+29. Zaylie Calderon
+   Email: UTEPSoftball@utep.edu
+   Username: UTEPSoftball
+   Original line: Zaylie Calderon Director of Softball Operations/Assistant Coach 915-747- UTEPSoftball@utep.edu
+
+30. Alexis Bandin
+   Email: utepsoftball@utep.edu
+   Username: utepsoftball
+   Original line: Alexis Bandin Assistant Coach 915-747- utepsoftball@utep.edu
+
+31. Bianca Marquez
+   Email: Bmarquez6@utep.edu
+   Username: Bmarquez6
+   Original line: Bianca Marquez Director of Spirit Operations/Head Cheerleading Coach 915-747- Bmarquez6@utep.edu
+
+32. Caesar Cubillos
+   Email: bccubillos@utep.edu
+   Username: bccubillos
+   Original line: Caesar Cubillos Assistant Cheerleading Coach and Mascot Advisor 915-494- bccubillos@utep.edu
+
+33. Crystal Ortiz
+   Email: cmortiz6@utep.edu
+   Username: cmortiz6
+   Original line: Crystal Ortiz Dance Team Coach cmortiz6@utep.edu
+
+34. Kimberly Francis
+   Email: kafrancis@utep.edu
+   Username: kafrancis
+   Original line: Kimberly Francis Assistant Coach - Hurdles/Sprints/Relays 915-747- kafrancis@utep.edu
+
+35. Elijah Barnes
+   Email: elbarnes@utep.edu
+   Username: elbarnes
+   Original line: Elijah Barnes Assistant Coach - Throws elbarnes@utep.edu
+
+36. Justin Herbert
+   Email: jaherbert@utep.edu
+   Username: jaherbert
+   Original line: Justin Herbert Assistant Coach - XC/Distance jaherbert@utep.edu
+
+37. Abby Walls
+   Email: arwalls@utep.edu
+   Username: arwalls
+   Original line: Abby Walls Assistant Coach - Operations & Jumps/Multis arwalls@utep.edu
+
+38. Ben Wallis
+   Email: bkwallis@utep.edu
+   Username: bkwallis
+   Original line: Ben Wallis Head Coach 915-747- bkwallis@utep.edu
+
+39. Nick Petrovic
+   Email: npetrovic@utep.edu
+   Username: npetrovic
+   Original line: Nick Petrovic Assistant Coach / International Recruiting Coordinator 915-747- npetrovic@utep.edu
+
+40. Courtney Johnson
+   Email: cnjohnson3@utep.edu
+   Username: cnjohnson3
+   Original line: Courtney Johnson Assistant Coach / Domestic Recruiting Coordinator 915-747- cnjohnson3@utep.edu
+
+41. Lexie Torres
+   Email: antorres12@utep.edu
+   Username: antorres12
+   Original line: Lexie Torres Assistant Coach 915-747- antorres12@utep.edu
+
+42. Alex Gantt
+   Email: acgantt@miners.utep.edu
+   Username: acgantt
+   Original line: Alex Gantt Graduate Assistant Coach 915-747- acgantt@miners.utep.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Joe Golding Head Coach 915-747- lambriz2@utep.edu
+• Jeremy Cox Associate Head Coach 915-747- jlcox@utep.edu
+• Steve Green Assistant Coach 915-747- skgreen@utep.edu
+• Hunter Jenkins Assistant Coach 915-747- hrjenkins@utep.edu
+• Reggie Miller Assistant Coach 915-747- rjmiller@utep.edu
+• Bryen Spriggs Assistant Coach 915-747- bkspriggs@utep.edu
+• Keitha Adams Head Coach 915-747- kradams@utep.edu
+• Ewa Laskowska Associate Head Coach 915-747- laskowska@utep.edu
+• Jareica Hughes Assistant Coach 915-747- jrhughes3@utep.edu
+• Lulu McKinney Assistant Coach 915-747- amckinney@utep.edu
+• Daniel Foo Head Coach dwfoo@utep.edu
+• Katie Martin Assistant Coach krmartin@miners.utep.edu
+• Francesca Green Head Coach 915-747- fegreen@utep.edu
+• Justin Herbert Assistant Coach - XC/Distance jaherbert@utep.edu
+• Abby Walls Assistant Coach - Operations & Jumps/Multis arwalls@utep.edu
+• Scotty Walden Head Coach 915-747- nposada@utep.edu
+• Norma Posada Special Assistant to the Head Coach 915-747- nposada@utep.edu
+• Aaron Puetz Head Coach 915-747- ampuetz@utep.edu
+• Greg Yellin Assistant Coach ghyellin@utep.edu
+• Steve Sims Head Coach 915-747- spsims@utep.edu
+• Greg Yellin Assistant Coach ghyellin@utep.edu
+• Andrea Palafox Head Coach apalafoxlopez2@utep.edu
+• Gibbs Keeton Head Coach (915) 201- gckeeton@utep.edu
+• Morgan McDougal Assistant Coach mlmcdougal@utep.edu
+• Jared Hallman Assistant Coach jahallman@utep.edu
+• T.J. Hubbard Head Coach 915-747- UTEPSoftball@utep.edu
+• Alexis Bandin Assistant Coach UTEPSoftball@utep.edu
+• Cesar Romero Assistant Coach 915-747- UTEPSoftball@utep.edu
+• Zaylie Calderon Director of Softball Operations/Assistant Coach 915-747- UTEPSoftball@utep.edu
+• Alexis Bandin Assistant Coach 915-747- utepsoftball@utep.edu
+• Bianca Marquez Director of Spirit Operations/Head Cheerleading Coach 915-747- Bmarquez6@utep.edu
+• Caesar Cubillos Assistant Cheerleading Coach and Mascot Advisor 915-494- bccubillos@utep.edu
+• Crystal Ortiz Dance Team Coach cmortiz6@utep.edu
+• Kimberly Francis Assistant Coach - Hurdles/Sprints/Relays 915-747- kafrancis@utep.edu
+• Elijah Barnes Assistant Coach - Throws elbarnes@utep.edu
+• Justin Herbert Assistant Coach - XC/Distance jaherbert@utep.edu
+• Abby Walls Assistant Coach - Operations & Jumps/Multis arwalls@utep.edu
+• Ben Wallis Head Coach 915-747- bkwallis@utep.edu
+• Nick Petrovic Assistant Coach / International Recruiting Coordinator 915-747- npetrovic@utep.edu
+• Courtney Johnson Assistant Coach / Domestic Recruiting Coordinator 915-747- cnjohnson3@utep.edu
+• Lexie Torres Assistant Coach 915-747- antorres12@utep.edu
+• Alex Gantt Graduate Assistant Coach 915-747- acgantt@miners.utep.edu

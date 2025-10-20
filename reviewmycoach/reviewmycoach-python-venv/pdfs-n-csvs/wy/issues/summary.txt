@@ -1,0 +1,15 @@
+Printing results: Success=6 Skipped=1 Errors=0
+
+Skipped/Failed links:
+- Western Wyoming Community College.pdf: https://wwcc.wy.edu/athletics/staff-directory -> Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://wwcc.wy.edu/athletics/staff-directory/index
+Call log:
+  - navigating to "https://wwcc.wy.edu/athletics/staff-directory/index", waiting until "networkidle"
+
+  tried: https://wwcc.wy.edu/athletics/staff-directory?print=true, https://wwcc.wy.edu/athletics/staff-directory/print, https://wwcc.wy.edu/athletics/staff-directory, https://wwcc.wy.edu/athletics/staff-directory/index?print=true, https://wwcc.wy.edu/athletics/staff-directory/index/print, https://wwcc.wy.edu/athletics/staff-directory/index
+
+PDFs with zero coaches detected:
+- Sheridan College.pdf
+- Laramie County Community College.pdf
+- Casper College.pdf
+- Eastern Wyoming College.pdf
+- Northwest College (Powell).pdf

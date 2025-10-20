@@ -1,0 +1,299 @@
+COACH ENTRIES FOUND - 2025-10-19 04:39:03
+============================================================
+
+Total coaches found: 48
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jordan Jacobs
+   Email: jjacobs@lander.edu
+   Username: jjacobs
+   Original line: Jordan Jacobs Head Strength & Conditioning Coach (MBB, M/W jjacobs@lander.edu FH2 105
+
+2. Chase Luckett
+   Email: sluckett@lander.edu
+   Username: sluckett
+   Original line: Chase Luckett Assistant Strength and Conditioning Coach (Baseball, sluckett@lander.edu
+
+3. Curt Beccue
+   Email: cbeccue@lander.edu
+   Username: cbeccue
+   Original line: Curt Beccue Assistant Strength and Conditioning Coach (Acro, cbeccue@lander.edu
+
+4. Sarah DiSpaltro
+   Email: sdispaltro@lander.edu
+   Username: sdispaltro
+   Original line: Sarah DiSpaltro Head Acrobatics & Tumbling Coach sdispaltro@lander.edu AC 106
+
+5. Jason Burke
+   Email: jburke1@lander.edu
+   Username: jburke1
+   Original line: Jason Burke Head Baseball Coach 864-388- jburke1@lander.edu FH1 108
+
+6. Nicholas Popp
+   Email: npopp@lander.edu
+   Username: npopp
+   Original line: Nicholas Popp Associate Head Coach npopp@lander.edu
+
+7. Alex Moore
+   Email: amoore3@lander.edu
+   Username: amoore3
+   Original line: Alex Moore Assistant Coach/Pitching Coach/Recruiting amoore3@lander.edu
+
+8. Mike Fitschen
+   Email: mfitschen@lander.edu
+   Username: mfitschen
+   Original line: Mike Fitschen Assistant Coach mfitschen@lander.edu
+
+9. Omar Wattad
+   Email: owattad@lander.edu
+   Username: owattad
+   Original line: Omar Wattad Head Coach 864-388- owattad@lander.edu AC 109
+
+10. Alex Dahling
+   Email: adahling@lander.edu
+   Username: adahling
+   Original line: Alex Dahling Assistant Coach adahling@lander.edu
+
+11. Nicole "Colie"
+   Email: nshelwick@lander.edu
+   Username: nshelwick
+   Original line: Nicole "Colie" Shelwick Head Coach nshelwick@lander.edu
+
+12. Michael Morrison
+   Email: mmorrison@lander.edu
+   Username: mmorrison
+   Original line: Michael Morrison Assistant Coach mmorrison@lander.edu
+
+13. Kim Schoolfield
+   Email: kschoolfield@lander.edu
+   Username: kschoolfield
+   Original line: Kim Schoolfield Cheer/Dance Coach 864-388- kschoolfield@lander.edu PEES
+
+14. Deegan Green
+   Email: dgreen@lander.edu
+   Username: dgreen
+   Original line: Deegan Green Assistant Cheer Coach dgreen@lander.edu
+
+15. Tydarius Floyd
+   Email: tfloyd@lander.edu
+   Username: tfloyd
+   Original line: Tydarius Floyd Head Track and Field/Cross Country Coach 864-388- tfloyd@lander.edu
+
+16. Colin Lamb
+   Email: clamb@lander.edu
+   Username: clamb
+   Original line: Colin Lamb Director of Distance Running/Associate Head Coach clamb@lander.edu
+
+17. Amy Cobb
+   Email: acobb1@lander.edu
+   Username: acobb1
+   Original line: Amy Cobb Head Coach acobb1@lander.edu
+
+18. Robbert Schenk
+   Email: rschenk@lander.edu
+   Username: rschenk
+   Original line: Robbert Schenk Head Field Hockey Coach 984-215- rschenk@lander.edu AC 102
+
+19. Liam Worley
+   Email: lworley@lander.edu
+   Username: lworley
+   Original line: Liam Worley Head Coach 803-747- lworley@lander.edu
+
+20. Mark Riddle
+   Email: mriddle@lander.edu
+   Username: mriddle
+   Original line: Mark Riddle Head Golf Coach 864-388- mriddle@lander.edu AC 104
+
+21. Anna Parramore
+   Email: aparramore@lander.edu
+   Username: aparramore
+   Original line: Anna Parramore Assistant Golf Coach aparramore@lander.edu
+
+22. Mark Riddle
+   Email: mriddle@lander.edu
+   Username: mriddle
+   Original line: Mark Riddle Head Golf Coach 864-388- mriddle@lander.edu AC 104
+
+23. Anna Parramore
+   Email: aparramore@lander.edu
+   Username: aparramore
+   Original line: Anna Parramore Assistant Golf Coach aparramore@lander.edu
+
+24. Anthony LePore
+   Email: alepore@lander.edu
+   Username: alepore
+   Original line: Anthony LePore Head Men's Lacrosse Coach alepore@lander.edu FH2 104
+
+25. Alex Williams
+   Email: awilliams4@lander.edu
+   Username: awilliams4
+   Original line: Alex Williams Associate Head Coach awilliams4@lander.edu
+
+26. Bob Dachille
+   Email: rdachille@lander.edu
+   Username: rdachille
+   Original line: Bob Dachille Head Women's Lacrosse Coach 410-804- rdachille@lander.edu FH2 103
+
+27. Raven Thomas
+   Email: rthomas1@lander.edu
+   Username: rthomas1
+   Original line: Raven Thomas Assistant Coach rthomas1@lander.edu
+
+28. Buck Billings
+   Email: bbillings@lander.edu
+   Username: bbillings
+   Original line: Buck Billings Head Men's Rugby Coach 864-388- bbillings@lander.edu AC 112
+
+29. Makayla Lowe
+   Email: mlowe@lander.edu
+   Username: mlowe
+   Original line: Makayla Lowe Richesin Head Women's Rugby Coach mlowe@lander.edu
+
+30. Dale Parker
+   Email: dparker@lander.edu
+   Username: dparker
+   Original line: Dale Parker Head Coach 864-388- dparker@lander.edu FH II
+
+31. Trey Morris
+   Email: lmorris@lander.edu
+   Username: lmorris
+   Original line: Trey Morris Assistant Men's Soccer Coach lmorris@lander.edu FH II
+
+32. Rashawn Kellman
+   Email: rkellman@lander.edu
+   Username: rkellman
+   Original line: Rashawn Kellman Assistant Coach rkellman@lander.edu
+
+33. Chris Ayer
+   Email: cayer@lander.edu
+   Username: cayer
+   Original line: Chris Ayer Head Women's Soccer Coach 864-388- cayer@lander.edu FH1 106
+
+34. Jason Madvig
+   Email: cmadvig@lander.edu
+   Username: cmadvig
+   Original line: Jason Madvig Associate Head Coach cmadvig@lander.edu FH2 115
+
+35. Maddie Gibbs
+   Email: mevans@lander.edu
+   Username: mevans
+   Original line: Maddie Gibbs Head Softball Coach 864-388- mevans@lander.edu FH2 115
+
+36. Bailee Glover
+   Email: bglover@lander.edu
+   Username: bglover
+   Original line: Bailee Glover Assistant Coach bglover@lander.edu FH2 115
+
+37. Barbara Cook
+   Email: bcook@lander.edu
+   Username: bcook
+   Original line: Barbara Cook Assistant Coach bcook@lander.edu
+
+38. Brett Simpson
+   Email: bsimpson@lander.edu
+   Username: bsimpson
+   Original line: Brett Simpson Head Men's Tennis Coach 864-388- bsimpson@lander.edu FH1 104
+
+39. Joe Cabri
+   Email: jcabri@nctv.com
+   Username: jcabri
+   Original line: Joe Cabri Head Tennis Coach Emeritus 864-993- jcabri@nctv.com
+
+40. Alan Ferguson
+   Email: aferguson@lander.edu
+   Username: aferguson
+   Original line: Alan Ferguson Head Coach aferguson@lander.edu
+
+41. Tydarius Floyd
+   Email: tfloyd@lander.edu
+   Username: tfloyd
+   Original line: Tydarius Floyd Head Track and Field/Cross Country Coach 864-388- tfloyd@lander.edu
+
+42. Colin Lamb
+   Email: clamb@lander.edu
+   Username: clamb
+   Original line: Colin Lamb Director of Distance Running/Associate Head Coach clamb@lander.edu
+
+43. Kathryn Settle
+   Email: ksizemore@lander.edu
+   Username: ksizemore
+   Original line: Kathryn Settle Head Volleyball Coach 864-388- ksizemore@lander.edu AC 135
+
+44. Meredith Hollinger
+   Email: mhollinger@lander.edu
+   Username: mhollinger
+   Original line: Meredith Hollinger Assistant Volleyball Coach mhollinger@lander.edu
+
+45. R.C. LaHaye
+   Email: rlahaye@lander.edu
+   Username: rlahaye
+   Original line: R.C. LaHaye Head Wrestling Coach 602-909- rlahaye@lander.edu FH2 102
+
+46. Logan Hall
+   Email: ehall@lander.edu
+   Username: ehall
+   Original line: Logan Hall Assistant Coach 541-821- ehall@lander.edu
+
+47. Zeth Brower
+   Email: zbrower@lander.edu
+   Username: zbrower
+   Original line: Zeth Brower Assistant Coach 216-356- zbrower@lander.edu
+
+48. Billy Howard
+   Email: bhoward@lander.edu
+   Username: bhoward
+   Original line: Billy Howard Esports Head Coach 864-388- bhoward@lander.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jordan Jacobs Head Strength & Conditioning Coach (MBB, M/W jjacobs@lander.edu FH2 105
+• Chase Luckett Assistant Strength and Conditioning Coach (Baseball, sluckett@lander.edu
+• Curt Beccue Assistant Strength and Conditioning Coach (Acro, cbeccue@lander.edu
+• Sarah DiSpaltro Head Acrobatics & Tumbling Coach sdispaltro@lander.edu AC 106
+• Jason Burke Head Baseball Coach 864-388- jburke1@lander.edu FH1 108
+• Nicholas Popp Associate Head Coach npopp@lander.edu
+• Alex Moore Assistant Coach/Pitching Coach/Recruiting amoore3@lander.edu
+• Mike Fitschen Assistant Coach mfitschen@lander.edu
+• Omar Wattad Head Coach 864-388- owattad@lander.edu AC 109
+• Alex Dahling Assistant Coach adahling@lander.edu
+• Nicole "Colie" Shelwick Head Coach nshelwick@lander.edu
+• Michael Morrison Assistant Coach mmorrison@lander.edu
+• Kim Schoolfield Cheer/Dance Coach 864-388- kschoolfield@lander.edu PEES
+• Deegan Green Assistant Cheer Coach dgreen@lander.edu
+• Tydarius Floyd Head Track and Field/Cross Country Coach 864-388- tfloyd@lander.edu
+• Colin Lamb Director of Distance Running/Associate Head Coach clamb@lander.edu
+• Amy Cobb Head Coach acobb1@lander.edu
+• Robbert Schenk Head Field Hockey Coach 984-215- rschenk@lander.edu AC 102
+• Liam Worley Head Coach 803-747- lworley@lander.edu
+• Mark Riddle Head Golf Coach 864-388- mriddle@lander.edu AC 104
+• Anna Parramore Assistant Golf Coach aparramore@lander.edu
+• Mark Riddle Head Golf Coach 864-388- mriddle@lander.edu AC 104
+• Anna Parramore Assistant Golf Coach aparramore@lander.edu
+• Anthony LePore Head Men's Lacrosse Coach alepore@lander.edu FH2 104
+• Alex Williams Associate Head Coach awilliams4@lander.edu
+• Bob Dachille Head Women's Lacrosse Coach 410-804- rdachille@lander.edu FH2 103
+• Raven Thomas Assistant Coach rthomas1@lander.edu
+• Buck Billings Head Men's Rugby Coach 864-388- bbillings@lander.edu AC 112
+• Makayla Lowe Richesin Head Women's Rugby Coach mlowe@lander.edu
+• Dale Parker Head Coach 864-388- dparker@lander.edu FH II
+• Trey Morris Assistant Men's Soccer Coach lmorris@lander.edu FH II
+• Rashawn Kellman Assistant Coach rkellman@lander.edu
+• Chris Ayer Head Women's Soccer Coach 864-388- cayer@lander.edu FH1 106
+• Jason Madvig Associate Head Coach cmadvig@lander.edu FH2 115
+• Maddie Gibbs Head Softball Coach 864-388- mevans@lander.edu FH2 115
+• Bailee Glover Assistant Coach bglover@lander.edu FH2 115
+• Barbara Cook Assistant Coach bcook@lander.edu
+• Brett Simpson Head Men's Tennis Coach 864-388- bsimpson@lander.edu FH1 104
+• Joe Cabri Head Tennis Coach Emeritus 864-993- jcabri@nctv.com
+• Alan Ferguson Head Coach aferguson@lander.edu
+• Tydarius Floyd Head Track and Field/Cross Country Coach 864-388- tfloyd@lander.edu
+• Colin Lamb Director of Distance Running/Associate Head Coach clamb@lander.edu
+• Kathryn Settle Head Volleyball Coach 864-388- ksizemore@lander.edu AC 135
+• Meredith Hollinger Assistant Volleyball Coach mhollinger@lander.edu
+• R.C. LaHaye Head Wrestling Coach 602-909- rlahaye@lander.edu FH2 102
+• Logan Hall Assistant Coach 541-821- ehall@lander.edu
+• Zeth Brower Assistant Coach 216-356- zbrower@lander.edu
+• Billy Howard Esports Head Coach 864-388- bhoward@lander.edu

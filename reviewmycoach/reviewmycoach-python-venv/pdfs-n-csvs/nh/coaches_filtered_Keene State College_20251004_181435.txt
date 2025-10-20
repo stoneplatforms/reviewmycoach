@@ -1,0 +1,341 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:36
+============================================================
+
+Total coaches found: 55
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jodi Mercier
+   Email: jodi.mercier@keene.edu
+   Username: jodi.mercier
+   Original line: Jodi Mercier '25 Assistant Coach | Strength & Conditioning jodi.mercier@keene.edu Keene State
+
+2. Tyler Dill
+   Email: Tyler.Dill@keene.edu
+   Username: Tyler.Dill
+   Original line: Tyler Dill '23 Assistant Coach | Strength & Conditioning Tyler.Dill@keene.edu Keene State
+
+3. Dylan Hannaford
+   Email: Dylan.Hannaford@keene.edu
+   Username: Dylan.Hannaford
+   Original line: Dylan Hannaford Intramural Coordinator | Assistant Coach 603-358- Dylan.Hannaford@keene.edu Oneonta
+
+4. Justin Blood
+   Email: Justin.Blood@keene.edu
+   Username: Justin.Blood
+   Original line: Justin Blood Head Coach 603-358- Justin.Blood@keene.edu Franklin Pierce
+
+5. Tim Lunn
+   Email: timothy.d.lunn@keene.edu
+   Username: timothy.d.lunn
+   Original line: Tim Lunn Assistant Coach timothy.d.lunn@keene.edu New Hampshire
+
+6. Noah Plantamuro
+   Email: noah.plantamuro@keene.edu
+   Username: noah.plantamuro
+   Original line: Noah Plantamuro Assistant Coach | Sub-Varsity Head Coach 860-881- noah.plantamuro@keene.edu Eastern
+
+7. Shaun McKenna
+   Email: Shaun.McKenna@keene.edu
+   Username: Shaun.McKenna
+   Original line: Shaun McKenna Assistant Coach Shaun.McKenna@keene.edu Southern Maine
+
+8. Gillian Lawrence
+   Email: Gillian.Lawrence@keene.edu
+   Username: Gillian.Lawrence
+   Original line: Gillian Lawrence Head Coach Gillian.Lawrence@keene.edu
+
+9. Travis Wyant
+   Email: Travis.Wyant@keene.edu
+   Username: Travis.Wyant
+   Original line: Travis Wyant Head Coach (Women's Lacrosse) | Assistant 603-358- Travis.Wyant@keene.edu Mary Washington
+
+10. Jackie Brown
+   Email: jaclyn.brown@keene.edu
+   Username: jaclyn.brown
+   Original line: Jackie Brown Assistant Coach jaclyn.brown@keene.edu New England
+
+11. Steven Enright
+   Email: Steven.Enright@keene.edu
+   Username: Steven.Enright
+   Original line: Steven Enright Head Coach 603-358- Steven.Enright@keene.edu Mount Ida
+
+12. TC Thacker
+   Email: tc.thacker@keene.edu
+   Username: tc.thacker
+   Original line: TC Thacker Assistant Coach tc.thacker@keene.edu Lynchburg
+
+13. Tyler Dill
+   Email: Tyler.Dill@keene.edu
+   Username: Tyler.Dill
+   Original line: Tyler Dill '23 Assistant Coach | Strength & Conditioning Tyler.Dill@keene.edu Keene State
+
+14. Jeff Timmer
+   Email: jtimmer@keene.edu
+   Username: jtimmer
+   Original line: Jeff Timmer Head Coach 603-358- jtimmer@keene.edu Calvin
+
+15. Bobby Rodrigue
+   Email: Robert.Rodrigue@keene.edu
+   Username: Robert.Rodrigue
+   Original line: Bobby Rodrigue '00 Head Coach 603-358- Robert.Rodrigue@keene.edu Keene State
+
+16. Mike Romeo
+   Email: michael.romeo@keene.edu
+   Username: michael.romeo
+   Original line: Mike Romeo '09 Assistant Coach 603-358- michael.romeo@keene.edu Keene State
+
+17. Joe Nutting
+   Email: joseph.nutting@keene.edu
+   Username: joseph.nutting
+   Original line: Joe Nutting '22 Assistant Coach/Men's Lacrosse Offensive 603-358- joseph.nutting@keene.edu Keene State
+
+18. Carlin Testa
+   Email: carlin.testa@keene.edu
+   Username: carlin.testa
+   Original line: Carlin Testa '20 Goaltending Coach 603-358- carlin.testa@keene.edu Keene State
+
+19. Mark Theriault
+   Email: mtheriault@keene.edu
+   Username: mtheriault
+   Original line: Mark Theriault Head Coach 603-358- mtheriault@keene.edu Springfield
+
+20. Joe Nutting
+   Email: joseph.nutting@keene.edu
+   Username: joseph.nutting
+   Original line: Joe Nutting '22 Assistant Coach/Men's Lacrosse Offensive 603-358- joseph.nutting@keene.edu Keene State
+
+21. Fred Ulbrick
+   Email: Fred.Ulbrick@keene.edu
+   Username: Fred.Ulbrick
+   Original line: Fred Ulbrick Assistant Coach/Defensive Coordinator 203-450- Fred.Ulbrick@keene.edu Bates
+
+22. Matt Schmidt
+   Email: Matthew.Schmidt@keene.edu
+   Username: Matthew.Schmidt
+   Original line: Matt Schmidt Head Coach 603-358- Matthew.Schmidt@keene.edu Central Florida
+
+23. Matt Caron
+   Email: Matthew.Caron@keene.edu
+   Username: Matthew.Caron
+   Original line: Matt Caron '06 Associate Head Coach/Program & Recruiting 603-785- Matthew.Caron@keene.edu Keene State
+
+24. James McCully
+   Email: James.Mccully@keene.edu
+   Username: James.Mccully
+   Original line: James McCully '23 Assistant Coach James.Mccully@keene.edu Keene State
+
+25. Declan Coughlin
+   Email: declan.pietro.coughlin@keene.edu
+   Username: declan.pietro.coughlin
+   Original line: Declan Coughlin '24 Assistant Coach declan.pietro.coughlin@keene.edu Keene State
+
+26. Chris Woolridge
+   Email: Christopher.Woolridge@keene.edu
+   Username: Christopher.Woolridge
+   Original line: Chris Woolridge '04 Head Coach 603-358- Christopher.Woolridge@keene.edu Keene State
+
+27. Dan Roark
+   Email: Daniel.Roark@keene.edu
+   Username: Daniel.Roark
+   Original line: Dan Roark Head Coach 603-358- Daniel.Roark@keene.edu St. Joseph's (Pa.)
+
+28. Bill Edson
+   Email: William.edson@keene.edu
+   Username: William.edson
+   Original line: Bill Edson Assistant Coach - Throws William.edson@keene.edu Johnson State
+
+29. Aaron Thompson
+   Email: DrAaron.Thompson@keene.edu
+   Username: DrAaron.Thompson
+   Original line: Aaron Thompson Volunteer Assistant Coach 603-358- DrAaron.Thompson@keene.edu UNC Pembroke
+
+30. Dylan Flewelling
+   Email: dylan.flewelling@keene.edu
+   Username: dylan.flewelling
+   Original line: Dylan Flewelling Assistant Coach - Distance dylan.flewelling@keene.edu Plymouth State
+
+31. Dan Roark
+   Email: Daniel.Roark@keene.edu
+   Username: Daniel.Roark
+   Original line: Dan Roark Head Coach 603-358- Daniel.Roark@keene.edu St. Joseph's (Pa.)
+
+32. Dylan Flewelling
+   Email: dylan.flewelling@keene.edu
+   Username: dylan.flewelling
+   Original line: Dylan Flewelling Assistant Coach - Distance dylan.flewelling@keene.edu Plymouth State
+
+33. Haley Chandler
+   Email: Haley.Chandler@keene.edu
+   Username: Haley.Chandler
+   Original line: Haley Chandler '13 Head Coach 603-358- Haley.Chandler@keene.edu Keene State
+
+34. Jared Walsh
+   Email: jared.walsh@keene.edu
+   Username: jared.walsh
+   Original line: Jared Walsh Assistant Coach jared.walsh@keene.edu Westfield State
+
+35. Keith Boucher
+   Email: kboucher@keene.edu
+   Username: kboucher
+   Original line: Keith Boucher Head Coach 603-358- kboucher@keene.edu Plymouth State
+
+36. Dylan Hannaford
+   Email: Dylan.Hannaford@keene.edu
+   Username: Dylan.Hannaford
+   Original line: Dylan Hannaford Intramural Coordinator | Assistant Coach 603-358- Dylan.Hannaford@keene.edu Oneonta
+
+37. Jeff Timmer
+   Email: jtimmer@keene.edu
+   Username: jtimmer
+   Original line: Jeff Timmer Head Coach 603-358- jtimmer@keene.edu Calvin
+
+38. Rob Morgan
+   Email: robert.morgan1@keene.edu
+   Username: robert.morgan1
+   Original line: Rob Morgan Head Coach robert.morgan1@keene.edu Alberta
+
+39. Ainsley King
+   Email: Ainsley.King@keene.edu
+   Username: Ainsley.King
+   Original line: Ainsley King Assistant Coach Ainsley.King@keene.edu Stevenson
+
+40. Jodi Mercier
+   Email: jodi.mercier@keene.edu
+   Username: jodi.mercier
+   Original line: Jodi Mercier '25 Assistant Coach | Strength & Conditioning jodi.mercier@keene.edu Keene State
+
+41. Travis Wyant
+   Email: Travis.Wyant@keene.edu
+   Username: Travis.Wyant
+   Original line: Travis Wyant Head Coach (Women's Lacrosse) | Assistant 603-358- Travis.Wyant@keene.edu Mary Washington
+
+42. Sarah Testo
+   Email: stesto@keene.edu
+   Username: stesto
+   Original line: Sarah Testo '00 Head Coach 603-358- stesto@keene.edu Keene State
+
+43. Ike McMillan
+   Email: Isaac.McMillan@keene.edu
+   Username: Isaac.McMillan
+   Original line: Ike McMillan Assistant Coach/Goalkeeping Coach Isaac.McMillan@keene.edu Truman State
+
+44. Chris Woolridge
+   Email: Christopher.Woolridge@keene.edu
+   Username: Christopher.Woolridge
+   Original line: Chris Woolridge '04 Head Coach 603-358- Christopher.Woolridge@keene.edu Keene State
+
+45. Dan Roark
+   Email: Daniel.Roark@keene.edu
+   Username: Daniel.Roark
+   Original line: Dan Roark Head Coach 603-358- Daniel.Roark@keene.edu St. Joseph's (Pa.)
+
+46. Bill Edson
+   Email: William.edson@keene.edu
+   Username: William.edson
+   Original line: Bill Edson Assistant Coach - Throws William.edson@keene.edu Johnson State
+
+47. Aaron Thompson
+   Email: DrAaron.Thompson@keene.edu
+   Username: DrAaron.Thompson
+   Original line: Aaron Thompson Volunteer Assistant Coach 603-358- DrAaron.Thompson@keene.edu UNC Pembroke
+
+48. Dylan Flewelling
+   Email: dylan.flewelling@keene.edu
+   Username: dylan.flewelling
+   Original line: Dylan Flewelling Assistant Coach - Distance dylan.flewelling@keene.edu Plymouth State
+
+49. Jacob Girard
+   Email: Jacob.Girard@keene.edu
+   Username: Jacob.Girard
+   Original line: Jacob Girard Head Coach 603-358- Jacob.Girard@keene.edu UMass-
+
+50. Noah Drouin
+   Email: Noah.Drouin@keene.edu
+   Username: Noah.Drouin
+   Original line: Noah Drouin '20 Head Coach 603-358- Noah.Drouin@keene.edu Keene State
+
+51. Kevin McDermot
+   Email: Kevin.McDermot@keene.edu
+   Username: Kevin.McDermot
+   Original line: Kevin McDermot Assistant Coach Kevin.McDermot@keene.edu UMass Lowell
+
+52. Thomas LaPointe
+   Email: Thomas.LaPointe@keene.edu
+   Username: Thomas.LaPointe
+   Original line: Thomas LaPointe Assistant Coach Thomas.LaPointe@keene.edu
+
+53. Mike Godzik
+   Email: Mike.Godzik@keene.edu
+   Username: Mike.Godzik
+   Original line: Mike Godzik '20 Assistant Coach Mike.Godzik@keene.edu Keene State
+
+54. Aleksey Wirth
+   Email: Aleksey.Wirth@keene.edu
+   Username: Aleksey.Wirth
+   Original line: Aleksey Wirth '23 Assistant Coach Aleksey.Wirth@keene.edu Keene State
+
+55. Tim Shaw
+   Email: tim.shaw@keene.edu
+   Username: tim.shaw
+   Original line: Tim Shaw Assistant Coach tim.shaw@keene.edu Virginia
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jodi Mercier '25 Assistant Coach | Strength & Conditioning jodi.mercier@keene.edu Keene State
+• Tyler Dill '23 Assistant Coach | Strength & Conditioning Tyler.Dill@keene.edu Keene State
+• Dylan Hannaford Intramural Coordinator | Assistant Coach 603-358- Dylan.Hannaford@keene.edu Oneonta
+• Justin Blood Head Coach 603-358- Justin.Blood@keene.edu Franklin Pierce
+• Tim Lunn Assistant Coach timothy.d.lunn@keene.edu New Hampshire
+• Noah Plantamuro Assistant Coach | Sub-Varsity Head Coach 860-881- noah.plantamuro@keene.edu Eastern
+• Shaun McKenna Assistant Coach Shaun.McKenna@keene.edu Southern Maine
+• Gillian Lawrence Head Coach Gillian.Lawrence@keene.edu
+• Travis Wyant Head Coach (Women's Lacrosse) | Assistant 603-358- Travis.Wyant@keene.edu Mary Washington
+• Jackie Brown Assistant Coach jaclyn.brown@keene.edu New England
+• Steven Enright Head Coach 603-358- Steven.Enright@keene.edu Mount Ida
+• TC Thacker Assistant Coach tc.thacker@keene.edu Lynchburg
+• Tyler Dill '23 Assistant Coach | Strength & Conditioning Tyler.Dill@keene.edu Keene State
+• Jeff Timmer Head Coach 603-358- jtimmer@keene.edu Calvin
+• Bobby Rodrigue '00 Head Coach 603-358- Robert.Rodrigue@keene.edu Keene State
+• Mike Romeo '09 Assistant Coach 603-358- michael.romeo@keene.edu Keene State
+• Joe Nutting '22 Assistant Coach/Men's Lacrosse Offensive 603-358- joseph.nutting@keene.edu Keene State
+• Carlin Testa '20 Goaltending Coach 603-358- carlin.testa@keene.edu Keene State
+• Mark Theriault Head Coach 603-358- mtheriault@keene.edu Springfield
+• Joe Nutting '22 Assistant Coach/Men's Lacrosse Offensive 603-358- joseph.nutting@keene.edu Keene State
+• Fred Ulbrick Assistant Coach/Defensive Coordinator 203-450- Fred.Ulbrick@keene.edu Bates
+• Matt Schmidt Head Coach 603-358- Matthew.Schmidt@keene.edu Central Florida
+• Matt Caron '06 Associate Head Coach/Program & Recruiting 603-785- Matthew.Caron@keene.edu Keene State
+• James McCully '23 Assistant Coach James.Mccully@keene.edu Keene State
+• Declan Coughlin '24 Assistant Coach declan.pietro.coughlin@keene.edu Keene State
+• Chris Woolridge '04 Head Coach 603-358- Christopher.Woolridge@keene.edu Keene State
+• Dan Roark Head Coach 603-358- Daniel.Roark@keene.edu St. Joseph's (Pa.)
+• Bill Edson Assistant Coach - Throws William.edson@keene.edu Johnson State
+• Aaron Thompson Volunteer Assistant Coach 603-358- DrAaron.Thompson@keene.edu UNC Pembroke
+• Dylan Flewelling Assistant Coach - Distance dylan.flewelling@keene.edu Plymouth State
+• Dan Roark Head Coach 603-358- Daniel.Roark@keene.edu St. Joseph's (Pa.)
+• Dylan Flewelling Assistant Coach - Distance dylan.flewelling@keene.edu Plymouth State
+• Haley Chandler '13 Head Coach 603-358- Haley.Chandler@keene.edu Keene State
+• Jared Walsh Assistant Coach jared.walsh@keene.edu Westfield State
+• Keith Boucher Head Coach 603-358- kboucher@keene.edu Plymouth State
+• Dylan Hannaford Intramural Coordinator | Assistant Coach 603-358- Dylan.Hannaford@keene.edu Oneonta
+• Jeff Timmer Head Coach 603-358- jtimmer@keene.edu Calvin
+• Rob Morgan Head Coach robert.morgan1@keene.edu Alberta
+• Ainsley King Assistant Coach Ainsley.King@keene.edu Stevenson
+• Jodi Mercier '25 Assistant Coach | Strength & Conditioning jodi.mercier@keene.edu Keene State
+• Travis Wyant Head Coach (Women's Lacrosse) | Assistant 603-358- Travis.Wyant@keene.edu Mary Washington
+• Sarah Testo '00 Head Coach 603-358- stesto@keene.edu Keene State
+• Ike McMillan Assistant Coach/Goalkeeping Coach Isaac.McMillan@keene.edu Truman State
+• Chris Woolridge '04 Head Coach 603-358- Christopher.Woolridge@keene.edu Keene State
+• Dan Roark Head Coach 603-358- Daniel.Roark@keene.edu St. Joseph's (Pa.)
+• Bill Edson Assistant Coach - Throws William.edson@keene.edu Johnson State
+• Aaron Thompson Volunteer Assistant Coach 603-358- DrAaron.Thompson@keene.edu UNC Pembroke
+• Dylan Flewelling Assistant Coach - Distance dylan.flewelling@keene.edu Plymouth State
+• Jacob Girard Head Coach 603-358- Jacob.Girard@keene.edu UMass-
+• Noah Drouin '20 Head Coach 603-358- Noah.Drouin@keene.edu Keene State
+• Kevin McDermot Assistant Coach Kevin.McDermot@keene.edu UMass Lowell
+• Thomas LaPointe Assistant Coach Thomas.LaPointe@keene.edu
+• Mike Godzik '20 Assistant Coach Mike.Godzik@keene.edu Keene State
+• Aleksey Wirth '23 Assistant Coach Aleksey.Wirth@keene.edu Keene State
+• Tim Shaw Assistant Coach tim.shaw@keene.edu Virginia

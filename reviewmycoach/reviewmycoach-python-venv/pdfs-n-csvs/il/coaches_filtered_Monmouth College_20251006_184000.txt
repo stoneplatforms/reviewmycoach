@@ -1,0 +1,211 @@
+COACH ENTRIES FOUND - 2025-10-06 18:40:00
+============================================================
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Heather Turnquist
+   Email: hturnquist@monmouthcollege.edu
+   Username: hturnquist
+   Phone: (309) 457-2176
+   Original line: Heather Turnquist '99 Head Softball Coach and Senior Women’s hturnquist@monmouthcollege.edu 309-457-2176
+
+2. Neil Mecagni
+   Email: nmecagni@monmouthcollege.edu
+   Username: nmecagni
+   Phone: (309) 457-2169
+   Original line: Neil Mecagni '11 Equipment Manager/Assistant Baseball Coach nmecagni@monmouthcollege.edu 309-457-2169
+
+3. Alan Betourne
+   Email: abetourne@monmouthcollege.edu
+   Username: abetourne
+   Phone: (309) 457-2435
+   Original line: Alan Betourne '05 Baseball Head Coach abetourne@monmouthcollege.edu 309-457-2435
+
+4. Neil Mecagni
+   Email: nmecagni@monmouthcollege.edu
+   Username: nmecagni
+   Phone: (309) 457-2169
+   Original line: Neil Mecagni '11 Equipment Manager/Assistant Baseball Coach nmecagni@monmouthcollege.edu 309-457-2169
+
+5. Todd Skrivseth
+   Email: tskrivseth@monmouthcollege.edu
+   Username: tskrivseth
+   Phone: (309) 457-2228
+   Original line: Todd Skrivseth Head Men's Basketball Coach tskrivseth@monmouthcollege.edu 309-457-2228
+
+6. Michelle DeCoud
+   Email: MDECOUD@monmouthcollege.edu
+   Username: MDECOUD
+   Phone: (309) 457-2174
+   Original line: Michelle DeCoud Head Coach - Women's Basketball MDECOUD@monmouthcollege.edu 309-457-2174
+
+7. Jim Cole
+   Email: jrcole@monmouthcollege.edu
+   Username: jrcole
+   Original line: Jim Cole '88 Assistant Coach jrcole@monmouthcollege.edu
+
+8. Cooper Pauley
+   Email: cpauley@monmouthcollege.edu
+   Username: cpauley
+   Phone: (815) 499-7272
+   Original line: Cooper Pauley '18 Head Cross County Coach/Assistant Track & Field cpauley@monmouthcollege.edu 815-499-7272
+
+9. Chad Braun
+   Email: chbraun@monmouthcollege.edu
+   Username: chbraun
+   Phone: (309) 457-2163
+   Original line: Chad Braun Football Head Coach, Defensive Coordinator chbraun@monmouthcollege.edu 309-457-2163
+
+10. Joe Freitag
+   Email: jfreitag@monmouthcollege.edu
+   Username: jfreitag
+   Phone: (309) 457-2175
+   Original line: Joe Freitag '07 Offensive Coordinator, Quarterbacks Coach jfreitag@monmouthcollege.edu 309-457-2175
+
+11. Cooper Gosch
+   Email: CGOSCH@monmouthcollege.edu
+   Username: CGOSCH
+   Phone: (417) 598-7138
+   Original line: Cooper Gosch Assistant Coach, Defensive Line, Special Teams CGOSCH@monmouthcollege.edu (417) 598-7138
+
+12. Will Hampton
+   Email: whampton@monmouthcollege.edu
+   Username: whampton
+   Original line: Will Hampton Assistant Coach, Linebackers whampton@monmouthcollege.edu
+
+13. Nate Graham
+   Email: ngraham@monmouthcollege.edu
+   Username: ngraham
+   Phone: (217) 972-3835
+   Original line: Nate Graham '21 Assistant Coach, Wide Receivers ngraham@monmouthcollege.edu 217-972-3835
+
+14. Derek Brown
+   Email: dabrown@monmouthcollege.edu
+   Username: dabrown
+   Original line: Derek Brown '23 Assistant Coach - Offensive Line dabrown@monmouthcollege.edu
+
+15. Cory Bizarri
+   Email: cbizarri@monmouthcollege.edu
+   Username: cbizarri
+   Phone: (309) 457-2176
+   Original line: Cory Bizarri Men's and Womens Golf Coach cbizarri@monmouthcollege.edu 309-457-2176 / cell 309-
+
+16. Cory Bizarri
+   Email: cbizarri@monmouthcollege.edu
+   Username: cbizarri
+   Phone: (309) 457-2176
+   Original line: Cory Bizarri Men's and Womens Golf Coach cbizarri@monmouthcollege.edu 309-457-2176 / cell 309-
+
+17. Ian Hatleli
+   Email: ihatleli@monmouthcollege.edu
+   Username: ihatleli
+   Phone: (309) 457-2405
+   Original line: Ian Hatleli Men's Soccer Head Coach ihatleli@monmouthcollege.edu 309-457-2405 (o); 317-313-
+
+18. Rhys Lewis
+   Email: rlewis@monmouthcollege.edu
+   Username: rlewis
+   Phone: (206) 307-5800
+   Original line: Rhys Lewis Soccer Assistant Coach (Men & Women) rlewis@monmouthcollege.edu 206-307-5800
+
+19. Lucas Henderson
+   Email: lmhenderson@monmouthcollege.edu
+   Username: lmhenderson
+   Phone: (309) 457-2438
+   Original line: Lucas Henderson Women's Soccer Head Coach lmhenderson@monmouthcollege.edu 309-457-2438 Cell: 920-
+
+20. Rhys Lewis
+   Email: rlewis@monmouthcollege.edu
+   Username: rlewis
+   Phone: (206) 307-5800
+   Original line: Rhys Lewis Soccer Assistant Coach (Men & Women) rlewis@monmouthcollege.edu 206-307-5800
+
+21. Addy Williams
+   Email: Awilliams2@monmouthcollege.edu
+   Username: Awilliams2
+   Phone: (309) 457-2041
+   Original line: Addy Williams Assistant Softball Coach Awilliams2@monmouthcollege.edu 309-457-2041
+
+22. Heather Turnquist
+   Email: hturnquist@monmouthcollege.edu
+   Username: hturnquist
+   Phone: (309) 457-2176
+   Original line: Heather Turnquist '99 Head Softball Coach and Senior Women’s hturnquist@monmouthcollege.edu 309-457-2176
+
+23. Jake Dacus
+   Email: jdacus@monmouthcollege.edu
+   Username: jdacus
+   Phone: (206) 251-3269
+   Original line: Jake Dacus Men's and Women's Swimming & Diving Head Coach jdacus@monmouthcollege.edu 206-251-3269
+
+24. Brian Dahlstrom
+   Email: bdahlstrom@monmouthcollege.edu
+   Username: bdahlstrom
+   Phone: (309) 457-2280
+   Original line: Brian Dahlstrom Head Tennis Coach bdahlstrom@monmouthcollege.edu 309-457-2280 office - 309-
+
+25. Brian Dahlstrom
+   Email: bdahlstrom@monmouthcollege.edu
+   Username: bdahlstrom
+   Phone: (309) 457-2280
+   Original line: Brian Dahlstrom Head Tennis Coach bdahlstrom@monmouthcollege.edu 309-457-2280 office - 309-
+
+26. Kenzie Hyett
+   Email: MBAKER1@monmouthcollege.edu
+   Username: MBAKER1
+   Phone: (309) 457-2265
+   Original line: Kenzie Hyett '21 Assistant Track and Field Coach MBAKER1@monmouthcollege.edu 309-457-2265
+
+27. Tanner Johnson
+   Email: tgjohnson@monmouthcollege.edu
+   Username: tgjohnson
+   Phone: (660) 591-5885
+   Original line: Tanner Johnson Assistant Track & Field Coach (Jumps) tgjohnson@monmouthcollege.edu 660-591-5885
+
+28. Cooper Pauley
+   Email: cpauley@monmouthcollege.edu
+   Username: cpauley
+   Phone: (815) 499-7272
+   Original line: Cooper Pauley '18 Head Cross County Coach/Assistant Track & Field cpauley@monmouthcollege.edu 815-499-7272
+
+29. Hope Neargarder
+   Email: hneargarder@monmouthcollege.edu
+   Username: hneargarder
+   Phone: (937) 621-4655
+   Original line: Hope Neargarder Head Volleyball Coach hneargarder@monmouthcollege.edu 937-621-4655
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Heather Turnquist '99 Head Softball Coach and Senior Women’s hturnquist@monmouthcollege.edu 309-457-2176
+• Neil Mecagni '11 Equipment Manager/Assistant Baseball Coach nmecagni@monmouthcollege.edu 309-457-2169
+• Alan Betourne '05 Baseball Head Coach abetourne@monmouthcollege.edu 309-457-2435
+• Neil Mecagni '11 Equipment Manager/Assistant Baseball Coach nmecagni@monmouthcollege.edu 309-457-2169
+• Todd Skrivseth Head Men's Basketball Coach tskrivseth@monmouthcollege.edu 309-457-2228
+• Michelle DeCoud Head Coach - Women's Basketball MDECOUD@monmouthcollege.edu 309-457-2174
+• Jim Cole '88 Assistant Coach jrcole@monmouthcollege.edu
+• Cooper Pauley '18 Head Cross County Coach/Assistant Track & Field cpauley@monmouthcollege.edu 815-499-7272
+• Chad Braun Football Head Coach, Defensive Coordinator chbraun@monmouthcollege.edu 309-457-2163
+• Joe Freitag '07 Offensive Coordinator, Quarterbacks Coach jfreitag@monmouthcollege.edu 309-457-2175
+• Cooper Gosch Assistant Coach, Defensive Line, Special Teams CGOSCH@monmouthcollege.edu (417) 598-7138
+• Will Hampton Assistant Coach, Linebackers whampton@monmouthcollege.edu
+• Nate Graham '21 Assistant Coach, Wide Receivers ngraham@monmouthcollege.edu 217-972-3835
+• Derek Brown '23 Assistant Coach - Offensive Line dabrown@monmouthcollege.edu
+• Cory Bizarri Men's and Womens Golf Coach cbizarri@monmouthcollege.edu 309-457-2176 / cell 309-
+• Cory Bizarri Men's and Womens Golf Coach cbizarri@monmouthcollege.edu 309-457-2176 / cell 309-
+• Ian Hatleli Men's Soccer Head Coach ihatleli@monmouthcollege.edu 309-457-2405 (o); 317-313-
+• Rhys Lewis Soccer Assistant Coach (Men & Women) rlewis@monmouthcollege.edu 206-307-5800
+• Lucas Henderson Women's Soccer Head Coach lmhenderson@monmouthcollege.edu 309-457-2438 Cell: 920-
+• Rhys Lewis Soccer Assistant Coach (Men & Women) rlewis@monmouthcollege.edu 206-307-5800
+• Addy Williams Assistant Softball Coach Awilliams2@monmouthcollege.edu 309-457-2041
+• Heather Turnquist '99 Head Softball Coach and Senior Women’s hturnquist@monmouthcollege.edu 309-457-2176
+• Jake Dacus Men's and Women's Swimming & Diving Head Coach jdacus@monmouthcollege.edu 206-251-3269
+• Brian Dahlstrom Head Tennis Coach bdahlstrom@monmouthcollege.edu 309-457-2280 office - 309-
+• Brian Dahlstrom Head Tennis Coach bdahlstrom@monmouthcollege.edu 309-457-2280 office - 309-
+• Kenzie Hyett '21 Assistant Track and Field Coach MBAKER1@monmouthcollege.edu 309-457-2265
+• Tanner Johnson Assistant Track & Field Coach (Jumps) tgjohnson@monmouthcollege.edu 660-591-5885
+• Cooper Pauley '18 Head Cross County Coach/Assistant Track & Field cpauley@monmouthcollege.edu 815-499-7272
+• Hope Neargarder Head Volleyball Coach hneargarder@monmouthcollege.edu 937-621-4655

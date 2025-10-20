@@ -1,0 +1,258 @@
+COACH ENTRIES FOUND - 2025-09-27 16:44:10
+============================================================
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Will Wright
+   Email: wcwright@jsu.edu
+   Username: wcwright
+   Original line: Dr. Will Wright Head Strength and Conditioning Coach wcwright@jsu.edu
+
+2. Caylor May
+   Email: cjmay@jsu.edu
+   Username: cjmay
+   Original line: Caylor May Assistant Strength and Conditioning Coach cjmay@jsu.edu
+
+3. Ricky Rutledge
+   Email: rutledge@jsu.edu
+   Username: rutledge
+   Original line: Ricky Rutledge Assistant Strength and Conditioning Coach rutledge@jsu.edu 256-782-
+
+4. Chris Wallace
+   Email: clwallace@jsu.edu
+   Username: clwallace
+   Original line: Chris Wallace Assistant Strength and Conditioning Coach clwallace@jsu.edu
+
+5. Cam Williams
+   Email: camwilliams@jsu.edu
+   Username: camwilliams
+   Original line: Cam Williams Assistant Strength and Conditioning Coach camwilliams@jsu.edu
+
+6. Chris Zodda
+   Email: czodda@jsu.edu
+   Username: czodda
+   Original line: Chris Zodda Assistant Strength and Conditioning Coach czodda@jsu.edu
+
+7. Steve Bieser
+   Email: sbieser@jsu.edu
+   Username: sbieser
+   Original line: Steve Bieser Head Baseball Coach sbieser@jsu.edu 256-782-
+
+8. Tyler Packanik
+   Email: tpackanik@jsu.edu
+   Username: tpackanik
+   Original line: Tyler Packanik Associate Head Coach/Recruiting Coordinator tpackanik@jsu.edu TBA
+
+9. Anthony Silkwood
+   Email: asilkwood@jsu.edu
+   Username: asilkwood
+   Original line: Anthony Silkwood Assistant Baseball Coach/Pitching asilkwood@jsu.edu TBA
+
+10. Ari Adut
+   Email: aadut@jsu.edu
+   Username: aadut
+   Original line: Ari Adut Assistant Baseball Coach/Hitting aadut@jsu.edu TBA
+
+11. Cam Williams
+   Email: camwilliams@jsu.edu
+   Username: camwilliams
+   Original line: Cam Williams Assistant Strength and Conditioning Coach camwilliams@jsu.edu
+
+12. Ray Harper
+   Email: harper@jsu.edu
+   Username: harper
+   Original line: Ray Harper Head Men's Basketball Coach harper@jsu.edu 256-782-
+
+13. Dennan Morrow
+   Email: dtmorrow@jsu.edu
+   Username: dtmorrow
+   Original line: Dennan Morrow Associate Head Men's Basketball Coach dtmorrow@jsu.edu 256-782-
+
+14. Kevin Jones
+   Email: kdjones@jsu.edu
+   Username: kdjones
+   Original line: Kevin Jones Assistant Men's Basketball Coach kdjones@jsu.edu 256-782-
+
+15. Patrick Moynihan
+   Email: pmoynihan@jsu.edu
+   Username: pmoynihan
+   Original line: Patrick Moynihan Assistant Men's Basketball Coach pmoynihan@jsu.edu 256-782-
+
+16. Rusty Elmore
+   Email: welmore@jsu.edu
+   Username: welmore
+   Original line: Rusty Elmore Assistant Men's Basketball Coach welmore@jsu.edu
+
+17. Rick Pietri
+   Email: rpietri@jsu.edu
+   Username: rpietri
+   Original line: Rick Pietri Head Women's Basketball Coach rpietri@jsu.edu 256-782-
+
+18. Eric Wise
+   Email: ewise@jsu.edu
+   Username: ewise
+   Original line: Eric Wise Assistant Women's Basketball Coach ewise@jsu.edu 256-782-
+
+19. Harley Cook
+   Email: mcook15@jsu.edu
+   Username: mcook15
+   Original line: Harley Cook Assistant Women's Basketball Coach mcook15@jsu.edu
+
+20. Shannon O'Keefe
+   Email: sokeefe@jsu.edu
+   Username: sokeefe
+   Original line: Shannon O'Keefe Bowling Head Coach sokeefe@jsu.edu TBA
+
+21. Erin McFry
+   Email: emcfry@jsu.edu
+   Username: emcfry
+   Phone: 256.782.8020
+   Original line: Erin McFry Executive Assistant to the Head Coach emcfry@jsu.edu 256.782.8020
+
+22. Will Wright
+   Email: wcwright@jsu.edu
+   Username: wcwright
+   Original line: Dr. Will Wright Head Strength and Conditioning Coach wcwright@jsu.edu
+
+23. Chris Wallace
+   Email: clwallace@jsu.edu
+   Username: clwallace
+   Original line: Chris Wallace Assistant Strength and Conditioning Coach clwallace@jsu.edu
+
+24. Sylas Elliott
+   Email: elliott@jsu.edu
+   Username: elliott
+   Original line: Sylas Elliott Head Men's Golf Coach elliott@jsu.edu 256-782-
+
+25. Robbie Fields
+   Email: rafields@jsu.edu
+   Username: rafields
+   Original line: Robbie Fields Women's Golf Head Coach rafields@jsu.edu 256-782-
+
+26. Ron Frost
+   Email: rfrost@jsu.edu
+   Username: rfrost
+   Original line: Ron Frost Head Rifle Coach rfrost@jsu.edu 256-689-
+
+27. Corey Smith
+   Email: coreysmith@jsu.edu
+   Username: coreysmith
+   Original line: Corey Smith Head Soccer Coach coreysmith@jsu.edu 256-782-
+
+28. Lettie Lundy
+   Email: llundy@jsu.edu
+   Username: llundy
+   Original line: Lettie Lundy Assistant Soccer Coach llundy@jsu.edu
+
+29. Julie Boland
+   Email: jboland@jsu.edu
+   Username: jboland
+   Original line: Julie Boland Head Softball Coach jboland@jsu.edu 256-782-
+
+30. Hayley Sims
+   Email: hasims@jsu.edu
+   Username: hasims
+   Original line: Hayley Sims Assistant Softball Coach hasims@jsu.edu 256-782-
+
+31. Garrett Skelton
+   Email: gskelton@jsu.edu
+   Username: gskelton
+   Original line: Garrett Skelton Assistant Softball Coach gskelton@jsu.edu 256-782-
+
+32. Michael Helms
+   Email: mchelms@jsu.edu
+   Username: mchelms
+   Original line: Michael Helms Director of Tennis - Head Coach mchelms@jsu.edu
+
+33. Martina Zarza
+   Email: mzarza@jsu.edu
+   Username: mzarza
+   Original line: Martina Zarza Assistant Tennis Coach mzarza@jsu.edu
+
+34. Michael Helms
+   Email: mchelms@jsu.edu
+   Username: mchelms
+   Original line: Michael Helms Director of Tennis - Head Coach mchelms@jsu.edu
+
+35. Martina Zarza
+   Email: mzarza@jsu.edu
+   Username: mzarza
+   Original line: Martina Zarza Assistant Tennis Coach mzarza@jsu.edu
+
+36. Jeremy Provence
+   Email: jprovence@jsu.edu
+   Username: jprovence
+   Original line: Jeremy Provence Cross Country and Track & Field Head Coach jprovence@jsu.edu 256-782-
+
+37. Kevin Kean
+   Email: kakean@jsu.edu
+   Username: kakean
+   Original line: Kevin Kean Track & Field / Cross Country Assistant Coach kakean@jsu.edu
+
+38. Noah Osborne
+   Email: nosborne@jsu.edu
+   Username: nosborne
+   Original line: Noah Osborne Track & Field / Cross Country Assistant Coach nosborne@jsu.edu
+
+39. Derek Schroeder
+   Email: dschroeder@jsu.edu
+   Username: dschroeder
+   Original line: Derek Schroeder Head Volleyball Coach dschroeder@jsu.edu 256-782-
+
+40. Derrick Trent
+   Email: dtrent@jsu.edu
+   Username: dtrent
+   Original line: Derrick Trent Assistant Volleyball Coach and Recruiting Coordinator dtrent@jsu.edu
+
+41. Kat Raschilla
+   Email: kraschilla@jsu.edu
+   Username: kraschilla
+   Original line: Kat Raschilla Assistant Volleyball Coach kraschilla@jsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dr. Will Wright Head Strength and Conditioning Coach wcwright@jsu.edu
+• Caylor May Assistant Strength and Conditioning Coach cjmay@jsu.edu
+• Ricky Rutledge Assistant Strength and Conditioning Coach rutledge@jsu.edu 256-782-
+• Chris Wallace Assistant Strength and Conditioning Coach clwallace@jsu.edu
+• Cam Williams Assistant Strength and Conditioning Coach camwilliams@jsu.edu
+• Chris Zodda Assistant Strength and Conditioning Coach czodda@jsu.edu
+• Steve Bieser Head Baseball Coach sbieser@jsu.edu 256-782-
+• Tyler Packanik Associate Head Coach/Recruiting Coordinator tpackanik@jsu.edu TBA
+• Anthony Silkwood Assistant Baseball Coach/Pitching asilkwood@jsu.edu TBA
+• Ari Adut Assistant Baseball Coach/Hitting aadut@jsu.edu TBA
+• Cam Williams Assistant Strength and Conditioning Coach camwilliams@jsu.edu
+• Ray Harper Head Men's Basketball Coach harper@jsu.edu 256-782-
+• Dennan Morrow Associate Head Men's Basketball Coach dtmorrow@jsu.edu 256-782-
+• Kevin Jones Assistant Men's Basketball Coach kdjones@jsu.edu 256-782-
+• Patrick Moynihan Assistant Men's Basketball Coach pmoynihan@jsu.edu 256-782-
+• Rusty Elmore Assistant Men's Basketball Coach welmore@jsu.edu
+• Rick Pietri Head Women's Basketball Coach rpietri@jsu.edu 256-782-
+• Eric Wise Assistant Women's Basketball Coach ewise@jsu.edu 256-782-
+• Harley Cook Assistant Women's Basketball Coach mcook15@jsu.edu
+• Shannon O'Keefe Bowling Head Coach sokeefe@jsu.edu TBA
+• Erin McFry Executive Assistant to the Head Coach emcfry@jsu.edu 256.782.8020
+• Dr. Will Wright Head Strength and Conditioning Coach wcwright@jsu.edu
+• Chris Wallace Assistant Strength and Conditioning Coach clwallace@jsu.edu
+• Sylas Elliott Head Men's Golf Coach elliott@jsu.edu 256-782-
+• Robbie Fields Women's Golf Head Coach rafields@jsu.edu 256-782-
+• Ron Frost Head Rifle Coach rfrost@jsu.edu 256-689-
+• Corey Smith Head Soccer Coach coreysmith@jsu.edu 256-782-
+• Lettie Lundy Assistant Soccer Coach llundy@jsu.edu
+• Julie Boland Head Softball Coach jboland@jsu.edu 256-782-
+• Hayley Sims Assistant Softball Coach hasims@jsu.edu 256-782-
+• Garrett Skelton Assistant Softball Coach gskelton@jsu.edu 256-782-
+• Michael Helms Director of Tennis - Head Coach mchelms@jsu.edu
+• Martina Zarza Assistant Tennis Coach mzarza@jsu.edu
+• Michael Helms Director of Tennis - Head Coach mchelms@jsu.edu
+• Martina Zarza Assistant Tennis Coach mzarza@jsu.edu
+• Jeremy Provence Cross Country and Track & Field Head Coach jprovence@jsu.edu 256-782-
+• Kevin Kean Track & Field / Cross Country Assistant Coach kakean@jsu.edu
+• Noah Osborne Track & Field / Cross Country Assistant Coach nosborne@jsu.edu
+• Derek Schroeder Head Volleyball Coach dschroeder@jsu.edu 256-782-
+• Derrick Trent Assistant Volleyball Coach and Recruiting Coordinator dtrent@jsu.edu
+• Kat Raschilla Assistant Volleyball Coach kraschilla@jsu.edu

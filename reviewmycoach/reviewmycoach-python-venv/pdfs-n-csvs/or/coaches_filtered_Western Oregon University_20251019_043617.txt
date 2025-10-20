@@ -1,0 +1,214 @@
+COACH ENTRIES FOUND - 2025-10-19 04:36:17
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Josie Boucher
+   Email: boucherj@wou.edu
+   Username: boucherj
+   Original line: Josie Boucher Assistant Sports Performance Coach boucherj@wou.edu
+
+2. Kellen Walker
+   Email: walkerk@wou.edu
+   Username: walkerk
+   Phone: (503) 838-8448
+   Original line: Kellen Walker Head Baseball Coach 503-838-8448 walkerk@wou.edu
+
+3. Trevor Podratz
+   Email: podratzt@wou.edu
+   Username: podratzt
+   Phone: (503) 838-9235
+   Original line: Trevor Podratz Recruiting Coordinator/Hitting Coach 503-838-9235 podratzt@wou.edu
+
+4. Ryan Orton
+   Email: ortonr@wou.edu
+   Username: ortonr
+   Phone: (503) 751-4030
+   Original line: Ryan Orton Head Men's Basketball Coach 503-751-4030 ortonr@wou.edu
+
+5. Chris Reeves
+   Email: reevesc@wou.edu
+   Username: reevesc
+   Phone: (503) 838-9489
+   Original line: Chris Reeves Assistant Coach 503-838-9489 reevesc@wou.edu
+
+6. Jessica Peatross
+   Email: peatrossj@wou.edu
+   Username: peatrossj
+   Phone: (503) 751-4083
+   Original line: Jessica Peatross Head Women's Basketball Coach 503-751-4083 peatrossj@wou.edu
+
+7. DJ Marlow
+   Email: marlowd@wou.edu
+   Username: marlowd
+   Original line: DJ Marlow Associate Head Coach & Recruiting Coordinator marlowd@wou.edu
+
+8. Zach Holloway
+   Email: hollowayz@wou.edu
+   Username: hollowayz
+   Phone: (503) 838-9389
+   Original line: Zach Holloway Head Cross Country Coach/Interim Head Track & Field Coach 503-838-9389 hollowayz@wou.edu
+
+9. Emily Vala-Haynes
+   Email: valahaynese@wou.edu
+   Username: valahaynese
+   Original line: Emily Vala-Haynes Assistant Coach - Distance valahaynese@wou.edu
+
+10. Arne Ferguson
+   Email: fergusa@wou.edu
+   Username: fergusa
+   Original line: Arne Ferguson Head Football Coach fergusa@wou.edu
+
+11. Josh Manning
+   Email: manningj@wou.edu
+   Username: manningj
+   Original line: Josh Manning Recruiting Coordinator/Offensive Line Coach manningj@wou.edu
+
+12. Matt Overlin
+   Email: overlinm@wou.edu
+   Username: overlinm
+   Original line: Matt Overlin Special Teams Coordinator/Linebackers Coach overlinm@wou.edu
+
+13. Paul Revis
+   Email: previs13@wou.edu
+   Username: previs13
+   Original line: Paul Revis Wide Receivers Coach previs13@wou.edu
+
+14. Gannon Winker
+   Email: gwinker19@wou.edu
+   Username: gwinker19
+   Original line: Gannon Winker Quarterbacks Coach gwinker19@wou.edu
+
+15. Noa Aluesi
+   Email: aluesie@wou.edu
+   Username: aluesie
+   Original line: Noa Aluesi Defensive Line Coach aluesie@wou.edu
+
+16. Justin Marshall
+   Email: marshallj@wou.edu
+   Username: marshallj
+   Original line: Justin Marshall Running Backs Coach marshallj@wou.edu
+
+17. Zach Zumwalt
+   Email: zzumwalt20@wou.edu
+   Username: zzumwalt20
+   Original line: Zach Zumwalt Tight Ends Coach zzumwalt20@wou.edu
+
+18. London Smalley
+   Email: lsmalley20@wou.edu
+   Username: lsmalley20
+   Original line: London Smalley Defensive Backs Coach lsmalley20@wou.edu
+
+19. Michael Behonick
+   Email: behonickm@wou.edu
+   Username: behonickm
+   Phone: (503) 751-4084
+   Original line: Michael Behonick Head Coach 503-751-4084 behonickm@wou.edu
+
+20. Pandelis Popgeorgiev
+   Email: popgeorgievp@wou.edu
+   Username: popgeorgievp
+   Original line: Pandelis Popgeorgiev Assistant Coach popgeorgievp@wou.edu
+
+21. Kacey Bingham
+   Email: binghamk@wou.edu
+   Username: binghamk
+   Phone: (503) 838-8295
+   Original line: Kacey Bingham Head Coach 503-838-8295 binghamk@wou.edu
+
+22. Emma Barrow
+   Email: barrowe@wou.edu
+   Username: barrowe
+   Original line: Emma Barrow Assistant Coach barrowe@wou.edu
+
+23. Aly Boytz
+   Email: boytza@wou.edu
+   Username: boytza
+   Phone: (503) 838-9479
+   Original line: Aly Boytz Head Coach 503-838-9479 boytza@wou.edu
+
+24. Tyler Smith
+   Email: smithtj@wou.edu
+   Username: smithtj
+   Original line: Tyler Smith Assistant Coach smithtj@wou.edu
+
+25. Zach Holloway
+   Email: hollowayz@wou.edu
+   Username: hollowayz
+   Phone: (503) 838-9389
+   Original line: Zach Holloway Head Cross Country Coach/Interim Head Track & Field Coach 503-838-9389 hollowayz@wou.edu
+
+26. Emily Vala-Haynes
+   Email: valahaynese@wou.edu
+   Username: valahaynese
+   Original line: Emily Vala-Haynes Assistant Coach - Distance valahaynese@wou.edu
+
+27. Cody Warner
+   Email: cwarner14@wou.edu
+   Username: cwarner14
+   Original line: Cody Warner Assistant Coach - Sprints cwarner14@wou.edu
+
+28. Darren Flynt
+   Email: flyntd@mail.wou.edu
+   Username: flyntd
+   Original line: Darren Flynt Assistant Coach - Throws flyntd@mail.wou.edu
+
+29. Kaiao Nahale-a
+   Email: nahaleak@wou.edu
+   Username: nahaleak
+   Phone: (503) 838-8384
+   Original line: Kaiao Nahale-a Head Volleyball Coach 503-838-8384 nahaleak@wou.edu
+
+30. Kellen Takatsuka
+   Email: takatsukak@wou.edu
+   Username: takatsukak
+   Original line: Kellen Takatsuka Associate Head Coach takatsukak@wou.edu
+
+31. Caitlin Masterson
+   Email: cmasterson11@wou.edu
+   Username: cmasterson11
+   Original line: Caitlin Masterson Head Cheer Coach cmasterson11@wou.edu
+
+32. Emilie Sass
+   Email: esass17@wou.edu
+   Username: esass17
+   Original line: Emilie Sass Assistant Cheer Coach esass17@wou.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Josie Boucher Assistant Sports Performance Coach boucherj@wou.edu
+• Kellen Walker Head Baseball Coach 503-838-8448 walkerk@wou.edu
+• Trevor Podratz Recruiting Coordinator/Hitting Coach 503-838-9235 podratzt@wou.edu
+• Ryan Orton Head Men's Basketball Coach 503-751-4030 ortonr@wou.edu
+• Chris Reeves Assistant Coach 503-838-9489 reevesc@wou.edu
+• Jessica Peatross Head Women's Basketball Coach 503-751-4083 peatrossj@wou.edu
+• DJ Marlow Associate Head Coach & Recruiting Coordinator marlowd@wou.edu
+• Zach Holloway Head Cross Country Coach/Interim Head Track & Field Coach 503-838-9389 hollowayz@wou.edu
+• Emily Vala-Haynes Assistant Coach - Distance valahaynese@wou.edu
+• Arne Ferguson Head Football Coach fergusa@wou.edu
+• Josh Manning Recruiting Coordinator/Offensive Line Coach manningj@wou.edu
+• Matt Overlin Special Teams Coordinator/Linebackers Coach overlinm@wou.edu
+• Paul Revis Wide Receivers Coach previs13@wou.edu
+• Gannon Winker Quarterbacks Coach gwinker19@wou.edu
+• Noa Aluesi Defensive Line Coach aluesie@wou.edu
+• Justin Marshall Running Backs Coach marshallj@wou.edu
+• Zach Zumwalt Tight Ends Coach zzumwalt20@wou.edu
+• London Smalley Defensive Backs Coach lsmalley20@wou.edu
+• Michael Behonick Head Coach 503-751-4084 behonickm@wou.edu
+• Pandelis Popgeorgiev Assistant Coach popgeorgievp@wou.edu
+• Kacey Bingham Head Coach 503-838-8295 binghamk@wou.edu
+• Emma Barrow Assistant Coach barrowe@wou.edu
+• Aly Boytz Head Coach 503-838-9479 boytza@wou.edu
+• Tyler Smith Assistant Coach smithtj@wou.edu
+• Zach Holloway Head Cross Country Coach/Interim Head Track & Field Coach 503-838-9389 hollowayz@wou.edu
+• Emily Vala-Haynes Assistant Coach - Distance valahaynese@wou.edu
+• Cody Warner Assistant Coach - Sprints cwarner14@wou.edu
+• Darren Flynt Assistant Coach - Throws flyntd@mail.wou.edu
+• Kaiao Nahale-a Head Volleyball Coach 503-838-8384 nahaleak@wou.edu
+• Kellen Takatsuka Associate Head Coach takatsukak@wou.edu
+• Caitlin Masterson Head Cheer Coach cmasterson11@wou.edu
+• Emilie Sass Assistant Cheer Coach esass17@wou.edu

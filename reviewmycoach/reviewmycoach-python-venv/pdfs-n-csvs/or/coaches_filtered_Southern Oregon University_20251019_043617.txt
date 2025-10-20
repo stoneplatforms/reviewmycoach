@@ -1,0 +1,293 @@
+COACH ENTRIES FOUND - 2025-10-19 04:36:17
+============================================================
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. Josh Rohlfing
+   Email: RohlfingJ@sou.edu
+   Username: RohlfingJ
+   Original line: Josh Rohlfing Head Volleyball Coach/Compliance Officer RohlfingJ@sou.edu 541-552-
+
+2. Jenni Rosenberg
+   Email: rosenberj@sou.edu
+   Username: rosenberj
+   Original line: Jenni Rosenberg Head Women's Soccer Coach/Senior Woman Administrator rosenberj@sou.edu 541-552-
+
+3. Cheyenne Bricker
+   Email: brickerc@sou.edu
+   Username: brickerc
+   Original line: Cheyenne Bricker Assistant Softball Coach/Athletics Eligibility Coordinator brickerc@sou.edu
+
+4. Matt Zosel
+   Email: zoselm@sou.edu
+   Username: zoselm
+   Original line: Matt Zosel Head Men's Basketball Coach zoselm@sou.edu
+
+5. Josh Meyer
+   Email: meyerj5@sou.edu
+   Username: meyerj5
+   Original line: Josh Meyer Assistant Men's Basketball Coach meyerj5@sou.edu
+
+6. Carlotta Kloppenburg-Pruitt
+   Email: kloppenbc@sou.edu
+   Username: kloppenbc
+   Original line: Carlotta Kloppenburg-Pruitt Head Women's Basketball Coach kloppenbc@sou.edu 541-552-
+
+7. Richard Vasey
+   Email: vaseyr@sou.edu
+   Username: vaseyr
+   Original line: Richard Vasey Assistant Women's Basketball Coach vaseyr@sou.edu
+
+8. Sierra Scheppele
+   Email: scheppeles@sou.edu
+   Username: scheppeles
+   Original line: Sierra Scheppele Assistant Women's Basketball Coach scheppeles@sou.edu
+
+9. Tyler Myerly
+   Email: myerlyt@sou.edu
+   Username: myerlyt
+   Original line: Tyler Myerly Head Cheer & Dance Coach myerlyt@sou.edu
+
+10. Berk Brown
+   Email: brownb2@sou.edu
+   Username: brownb2
+   Original line: Berk Brown Head Football Coach brownb2@sou.edu
+
+11. Tyler Stinn
+   Email: stinnt@sou.edu
+   Username: stinnt
+   Original line: Tyler Stinn Defensive Coordinator/Safeties Coach stinnt@sou.edu
+
+12. Josh Winfield
+   Email: winfieldj@sou.edu
+   Username: winfieldj
+   Original line: Josh Winfield Linebackers Coach/Special Teams Coordinator winfieldj@sou.edu
+
+13. Antione Perry
+   Email: perrya@sou.edu
+   Username: perrya
+   Original line: Antione Perry Slot Receivers Coach perrya@sou.edu
+
+14. James Wheeler
+   Email: wheelerj@sou.edu
+   Username: wheelerj
+   Original line: James Wheeler Cornerbacks Coach wheelerj@sou.edu
+
+15. Jon'Mae Wafford
+   Email: thompsoj9@sou.edu
+   Username: thompsoj9
+   Original line: Jon'Mae Wafford Defensive Line Coach thompsoj9@sou.edu
+
+16. Tim Souza
+   Email: souzat@sou.edu
+   Username: souzat
+   Original line: Tim Souza Run-Game Coordinator/Offensive Line Coach souzat@sou.edu
+
+17. Matt Lawson
+   Email: lawsonm@sou.edu
+   Username: lawsonm
+   Original line: Matt Lawson Tight Ends Coach lawsonm@sou.edu
+
+18. Rayden Kaneshiro
+   Email: kaneshirr@sou.edu
+   Username: kaneshirr
+   Original line: Rayden Kaneshiro Wide Receivers Coach/Equipment Coordinator kaneshirr@sou.edu
+
+19. Blake Eaton
+   Email: eatonb2@sou.edu
+   Username: eatonb2
+   Original line: Blake Eaton Running Backs Coach eatonb2@sou.edu
+
+20. Noah Horstman
+   Email: horstmann@sou.edu
+   Username: horstmann
+   Original line: Noah Horstman Head Golf Coach horstmann@sou.edu
+
+21. Matt Preston
+   Email: prestonm@sou.edu
+   Username: prestonm
+   Original line: Matt Preston Assistant Golf Coach prestonm@sou.edu
+
+22. Haley Brown
+   Email: brownh1@sou.edu
+   Username: brownh1
+   Original line: Haley Brown Assistant Golf Coach brownh1@sou.edu
+
+23. Davie Carmichael
+   Email: carmichad@sou.edu
+   Username: carmichad
+   Original line: Davie Carmichael Head Men's Soccer Coach carmichad@sou.edu 541-552-
+
+24. Alejandro Velazquez
+   Email: velazquea@sou.edu
+   Username: velazquea
+   Original line: Alejandro Velazquez Assistant Men's Soccer Coach velazquea@sou.edu
+
+25. Omar Ramirez
+   Email: ramirezmo@sou.edu
+   Username: ramirezmo
+   Original line: Omar Ramirez Assistant Men's Soccer Coach ramirezmo@sou.edu
+
+26. Jenni Rosenberg
+   Email: rosenberj@sou.edu
+   Username: rosenberj
+   Original line: Jenni Rosenberg Head Women's Soccer Coach/Senior Woman Administrator rosenberj@sou.edu 541-552-
+
+27. Gavin Wilmott
+   Email: wilmottg@sou.edu
+   Username: wilmottg
+   Original line: Gavin Wilmott Assistant Women's Soccer Coach wilmottg@sou.edu
+
+28. Jessica Pistole
+   Email: softball@sou.edu
+   Username: softball
+   Original line: Jessica Pistole Head Softball Coach softball@sou.edu
+
+29. Cheyenne Bricker
+   Email: brickerc@sou.edu
+   Username: brickerc
+   Original line: Cheyenne Bricker Assistant Softball Coach/Athletics Eligibility Coordinator brickerc@sou.edu
+
+30. Bill Rowe
+   Email: rowew@sou.edu
+   Username: rowew
+   Original line: Bill Rowe Assistant Softball Coach rowew@sou.edu
+
+31. Hannah Clavelle
+   Email: clavelleh@sou.edu
+   Username: clavelleh
+   Original line: Hannah Clavelle Assistant Softball Coach clavelleh@sou.edu
+
+32. Grier Gatlin
+   Email: gatling@sou.edu
+   Username: gatling
+   Original line: Grier Gatlin Head Cross Country/Track and Field Coach gatling@sou.edu 541-552-
+
+33. Joseph Dotson
+   Email: dotsonj@sou.edu
+   Username: dotsonj
+   Original line: Joseph Dotson Multi-Events Coach dotsonj@sou.edu 541-999-
+
+34. Thomas Hoak
+   Email: hoakt@sou.edu
+   Username: hoakt
+   Original line: Thomas Hoak Pole Vault Coach hoakt@sou.edu
+
+35. Josh Rohlfing
+   Email: RohlfingJ@sou.edu
+   Username: RohlfingJ
+   Original line: Josh Rohlfing Head Volleyball Coach/Compliance Officer RohlfingJ@sou.edu 541-552-
+
+36. Kori Iverson
+   Email: iversonk1@sou.edu
+   Username: iversonk1
+   Original line: Kori Iverson Assistant Volleyball Coach iversonk1@sou.edu
+
+37. Malcolm Munson
+   Email: munsonm@sou.edu
+   Username: munsonm
+   Original line: Malcolm Munson Assistant Volleyball Coach munsonm@sou.edu
+
+38. Megan Perry
+   Email: perrym2@sou.edu
+   Username: perrym2
+   Original line: Megan Perry Assistant Volleyball Coach perrym2@sou.edu
+
+39. Vitoria Mattos
+   Email: ferreiramattosv@sou.edu
+   Username: ferreiramattosv
+   Original line: Vitoria Mattos Assistant Volleyball Coach ferreiramattosv@sou.edu
+
+40. Paul Elliott
+   Email: elliottp@sou.edu
+   Username: elliottp
+   Original line: Paul Elliott Head Beach Volleyball Coach elliottp@sou.edu
+
+41. Jill Carrigan-Britt
+   Email: brittjill@sou.edu
+   Username: brittjill
+   Original line: Jill Carrigan-Britt Assistant Beach Volleyball Coach brittjill@sou.edu
+
+42. Joel Gibson
+   Email: gibsonj@sou.edu
+   Username: gibsonj
+   Original line: Joel Gibson Head Men's Wrestling Coach gibsonj@sou.edu 541-552-
+
+43. Tucker VanMatre
+   Email: vanmatret@sou.edu
+   Username: vanmatret
+   Original line: Tucker VanMatre Assistant Wrestling Coach vanmatret@sou.edu
+
+44. Katlyn Monroe
+   Email: monroek@sou.edu
+   Username: monroek
+   Original line: Katlyn Monroe Head Women's Wrestling Coach monroek@sou.edu
+
+45. Emma Baertlein
+   Email: baertleie@sou.edu
+   Username: baertleie
+   Original line: Emma Baertlein Assistant Women's Wrestling Coach baertleie@sou.edu
+
+46. Marissa Kurtz
+   Email: kurtzm1@sou.edu
+   Username: kurtzm1
+   Original line: Marissa Kurtz Assistant Women's Wrestling Coach kurtzm1@sou.edu
+
+47. Carolina Moreno
+   Email: morenoc2@sou.edu
+   Username: morenoc2
+   Original line: Carolina Moreno Assistant Women's Wrestling Coach morenoc2@sou.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Josh Rohlfing Head Volleyball Coach/Compliance Officer RohlfingJ@sou.edu 541-552-
+• Jenni Rosenberg Head Women's Soccer Coach/Senior Woman Administrator rosenberj@sou.edu 541-552-
+• Cheyenne Bricker Assistant Softball Coach/Athletics Eligibility Coordinator brickerc@sou.edu
+• Matt Zosel Head Men's Basketball Coach zoselm@sou.edu
+• Josh Meyer Assistant Men's Basketball Coach meyerj5@sou.edu
+• Carlotta Kloppenburg-Pruitt Head Women's Basketball Coach kloppenbc@sou.edu 541-552-
+• Richard Vasey Assistant Women's Basketball Coach vaseyr@sou.edu
+• Sierra Scheppele Assistant Women's Basketball Coach scheppeles@sou.edu
+• Tyler Myerly Head Cheer & Dance Coach myerlyt@sou.edu
+• Berk Brown Head Football Coach brownb2@sou.edu
+• Tyler Stinn Defensive Coordinator/Safeties Coach stinnt@sou.edu
+• Josh Winfield Linebackers Coach/Special Teams Coordinator winfieldj@sou.edu
+• Antione Perry Slot Receivers Coach perrya@sou.edu
+• James Wheeler Cornerbacks Coach wheelerj@sou.edu
+• Jon'Mae Wafford Defensive Line Coach thompsoj9@sou.edu
+• Tim Souza Run-Game Coordinator/Offensive Line Coach souzat@sou.edu
+• Matt Lawson Tight Ends Coach lawsonm@sou.edu
+• Rayden Kaneshiro Wide Receivers Coach/Equipment Coordinator kaneshirr@sou.edu
+• Blake Eaton Running Backs Coach eatonb2@sou.edu
+• Noah Horstman Head Golf Coach horstmann@sou.edu
+• Matt Preston Assistant Golf Coach prestonm@sou.edu
+• Haley Brown Assistant Golf Coach brownh1@sou.edu
+• Davie Carmichael Head Men's Soccer Coach carmichad@sou.edu 541-552-
+• Alejandro Velazquez Assistant Men's Soccer Coach velazquea@sou.edu
+• Omar Ramirez Assistant Men's Soccer Coach ramirezmo@sou.edu
+• Jenni Rosenberg Head Women's Soccer Coach/Senior Woman Administrator rosenberj@sou.edu 541-552-
+• Gavin Wilmott Assistant Women's Soccer Coach wilmottg@sou.edu
+• Jessica Pistole Head Softball Coach softball@sou.edu
+• Cheyenne Bricker Assistant Softball Coach/Athletics Eligibility Coordinator brickerc@sou.edu
+• Bill Rowe Assistant Softball Coach rowew@sou.edu
+• Hannah Clavelle Assistant Softball Coach clavelleh@sou.edu
+• Grier Gatlin Head Cross Country/Track and Field Coach gatling@sou.edu 541-552-
+• Joseph Dotson Multi-Events Coach dotsonj@sou.edu 541-999-
+• Thomas Hoak Pole Vault Coach hoakt@sou.edu
+• Josh Rohlfing Head Volleyball Coach/Compliance Officer RohlfingJ@sou.edu 541-552-
+• Kori Iverson Assistant Volleyball Coach iversonk1@sou.edu
+• Malcolm Munson Assistant Volleyball Coach munsonm@sou.edu
+• Megan Perry Assistant Volleyball Coach perrym2@sou.edu
+• Vitoria Mattos Assistant Volleyball Coach ferreiramattosv@sou.edu
+• Paul Elliott Head Beach Volleyball Coach elliottp@sou.edu
+• Jill Carrigan-Britt Assistant Beach Volleyball Coach brittjill@sou.edu
+• Joel Gibson Head Men's Wrestling Coach gibsonj@sou.edu 541-552-
+• Tucker VanMatre Assistant Wrestling Coach vanmatret@sou.edu
+• Katlyn Monroe Head Women's Wrestling Coach monroek@sou.edu
+• Emma Baertlein Assistant Women's Wrestling Coach baertleie@sou.edu
+• Marissa Kurtz Assistant Women's Wrestling Coach kurtzm1@sou.edu
+• Carolina Moreno Assistant Women's Wrestling Coach morenoc2@sou.edu

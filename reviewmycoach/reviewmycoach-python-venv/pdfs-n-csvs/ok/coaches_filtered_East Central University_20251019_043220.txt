@@ -1,0 +1,202 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:20
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Denton Ross
+   Email: flodros@email.ecok.edu
+   Username: flodros
+   Original line: Denton Ross Strength & Conditioning Graduate Assistant / Powerlifting Coach (BSB, FB) flodros@email.ecok.edu
+
+2. Kevin Paxson
+   Email: kevjpax@ecok.edu
+   Username: kevjpax
+   Phone: (580) 559-5787
+   Original line: Kevin Paxson Head Baseball Coach kevjpax@ecok.edu 580-559-5787
+
+3. Landon Lord
+   Email: wlord@ecok.edu
+   Username: wlord
+   Original line: Landon Lord Assistant Coach wlord@ecok.edu
+
+4. Mason Glowacki
+   Email: masjglo@email.ecok.edu
+   Username: masjglo
+   Original line: Mason Glowacki Graduate Assistant Coach masjglo@email.ecok.edu
+
+5. Daniel Wheeler
+   Email: lwheeler@ecok.edu
+   Username: lwheeler
+   Phone: (580) 559-5567
+   Original line: Daniel Wheeler Head Men's Basketball Coach lwheeler@ecok.edu (580) 559-5567
+
+6. Sam Kearns
+   Email: skearns@ecok.edu
+   Username: skearns
+   Original line: Sam Kearns Assistant Men's Basketball Coach skearns@ecok.edu
+
+7. Reese Glover
+   Email: reeglo@email.ecok.edu
+   Username: reeglo
+   Original line: Reese Glover Graduate Assistant Coach reeglo@email.ecok.edu
+
+8. Heather Hurt
+   Email: hhurt@ecok.edu
+   Username: hhurt
+   Phone: (580) 559-5789
+   Original line: Heather Hurt Head Women's Basketball Coach hhurt@ecok.edu (580) 559-5789
+
+9. Kaitlyn Hodgins
+   Email: kaishod@ecok.edu
+   Username: kaishod
+   Original line: Kaitlyn Hodgins Assistant Women's Basketball Coach kaishod@ecok.edu
+
+10. Jeff McGaha
+   Email: jmcgaha@ecok.edu
+   Username: jmcgaha
+   Phone: (580) 559-5585
+   Original line: Jeff McGaha Assistant Coach jmcgaha@ecok.edu 580-559-5585
+
+11. Alissa Brewer
+   Email: alibre@email.ecok.edu
+   Username: alibre
+   Original line: Alissa Brewer Graduate Assistant Coach alibre@email.ecok.edu
+
+12. Steve Sawyer
+   Email: ssawyer@ecok.edu
+   Username: ssawyer
+   Phone: (580) 559-5386
+   Original line: Steve Sawyer Head Cross Country / Track & Field Coach ssawyer@ecok.edu (580) 559-5386
+
+13. Grant Duncan
+   Email: graldun@ecok.edu
+   Username: graldun
+   Original line: Grant Duncan Assistant Cross Country / Track & Field Coach graldun@ecok.edu
+
+14. John Litrenta
+   Email: jlitrenta@ecok.edu
+   Username: jlitrenta
+   Phone: (580) 559-5360
+   Original line: John Litrenta Head Football Coach jlitrenta@ecok.edu (580) 559-5360
+
+15. Rich Stammetti
+   Email: rstammetti@ecok.edu
+   Username: rstammetti
+   Original line: Rich Stammetti Quarterback Coach rstammetti@ecok.edu
+
+16. Christopher Bolden
+   Email: cbolden@ecok.edu
+   Username: cbolden
+   Original line: Christopher Bolden Offensive Coordinator / Running Backs Coach cbolden@ecok.edu
+
+17. Broderic Odom
+   Email: brovodo@email.ecok.edu
+   Username: brovodo
+   Original line: Broderic Odom Inside Linebackers Coach brovodo@email.ecok.edu
+
+18. Jack Mitchell
+   Email: jaclmit@email.ecok.edu
+   Username: jaclmit
+   Phone: (580) 475-4828
+   Original line: Jack Mitchell Tight Ends / Fullbacks Coach & Co-Recruiting Coordinator jaclmit@email.ecok.edu 580-475-4828
+
+19. Rodrick Weaver
+   Email: roddwea@email.ecok.edu
+   Username: roddwea
+   Original line: Rodrick Weaver Jr. Assistant Defensive Line Coach roddwea@email.ecok.edu (972) 336 1537
+
+20. Todd Selders
+   Email: tselders@ecok.edu
+   Username: tselders
+   Phone: (580) 559-5893
+   Original line: Todd Selders Head Golf Coach tselders@ecok.edu (580) 559-5893
+
+21. Julia Kabala
+   Email: julkkab@email.ecok.edu
+   Username: julkkab
+   Original line: Julia Kabala Graduate Assistant Coach julkkab@email.ecok.edu
+
+22. Alyssa Taramona
+   Email: ataramona@ecok.edu
+   Username: ataramona
+   Phone: (580) 559-5747
+   Original line: Alyssa Taramona Head Soccer Coach ataramona@ecok.edu 580-559-5747
+
+23. Joseph Quiray
+   Email: jquiray@ecok.edu
+   Username: jquiray
+   Original line: Joseph Quiray Assistant Soccer Coach jquiray@ecok.edu
+
+24. Autumn Wyatt
+   Email: autnsuy@ecok.edu
+   Username: autnsuy
+   Phone: (580) 559-5363
+   Original line: Autumn Wyatt Head Softball Coach autnsuy@ecok.edu 580-559-5363
+
+25. Karlie Milburn
+   Email: karnmil1@ecok.edu
+   Username: karnmil1
+   Original line: Karlie Milburn Assistant Softball Coach karnmil1@ecok.edu
+
+26. Josi Goodman
+   Email: josjgoo@email.ecok.edu
+   Username: josjgoo
+   Original line: Josi Goodman Graduate Assistant Coach josjgoo@email.ecok.edu
+
+27. Erin Williams
+   Email: eriwil@email.ecok.edu
+   Username: eriwil
+   Original line: Erin Williams Graduate Assistant Coach eriwil@email.ecok.edu
+
+28. Danielle Essix
+   Email: dansess@ecok.edu
+   Username: dansess
+   Phone: (590) 559-5790
+   Original line: Danielle Essix Head Volleyball Coach dansess@ecok.edu 590-559-5790
+
+29. Odalys Gonzalez
+   Email: odamgon@ecok.edu
+   Username: odamgon
+   Original line: Odalys Gonzalez Assistant Volleyball Coach odamgon@ecok.edu
+
+30. Courtney Crownover
+   Email: coucro@email.ecok.edu
+   Username: coucro
+   Original line: Courtney Crownover Graduate Assistant Coach coucro@email.ecok.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Denton Ross Strength & Conditioning Graduate Assistant / Powerlifting Coach (BSB, FB) flodros@email.ecok.edu
+• Kevin Paxson Head Baseball Coach kevjpax@ecok.edu 580-559-5787
+• Landon Lord Assistant Coach wlord@ecok.edu
+• Mason Glowacki Graduate Assistant Coach masjglo@email.ecok.edu
+• Daniel Wheeler Head Men's Basketball Coach lwheeler@ecok.edu (580) 559-5567
+• Sam Kearns Assistant Men's Basketball Coach skearns@ecok.edu
+• Reese Glover Graduate Assistant Coach reeglo@email.ecok.edu
+• Heather Hurt Head Women's Basketball Coach hhurt@ecok.edu (580) 559-5789
+• Kaitlyn Hodgins Assistant Women's Basketball Coach kaishod@ecok.edu
+• Jeff McGaha Assistant Coach jmcgaha@ecok.edu 580-559-5585
+• Alissa Brewer Graduate Assistant Coach alibre@email.ecok.edu
+• Steve Sawyer Head Cross Country / Track & Field Coach ssawyer@ecok.edu (580) 559-5386
+• Grant Duncan Assistant Cross Country / Track & Field Coach graldun@ecok.edu
+• John Litrenta Head Football Coach jlitrenta@ecok.edu (580) 559-5360
+• Rich Stammetti Quarterback Coach rstammetti@ecok.edu
+• Christopher Bolden Offensive Coordinator / Running Backs Coach cbolden@ecok.edu
+• Broderic Odom Inside Linebackers Coach brovodo@email.ecok.edu
+• Jack Mitchell Tight Ends / Fullbacks Coach & Co-Recruiting Coordinator jaclmit@email.ecok.edu 580-475-4828
+• Rodrick Weaver Jr. Assistant Defensive Line Coach roddwea@email.ecok.edu (972) 336 1537
+• Todd Selders Head Golf Coach tselders@ecok.edu (580) 559-5893
+• Julia Kabala Graduate Assistant Coach julkkab@email.ecok.edu
+• Alyssa Taramona Head Soccer Coach ataramona@ecok.edu 580-559-5747
+• Joseph Quiray Assistant Soccer Coach jquiray@ecok.edu
+• Autumn Wyatt Head Softball Coach autnsuy@ecok.edu 580-559-5363
+• Karlie Milburn Assistant Softball Coach karnmil1@ecok.edu
+• Josi Goodman Graduate Assistant Coach josjgoo@email.ecok.edu
+• Erin Williams Graduate Assistant Coach eriwil@email.ecok.edu
+• Danielle Essix Head Volleyball Coach dansess@ecok.edu 590-559-5790
+• Odalys Gonzalez Assistant Volleyball Coach odamgon@ecok.edu
+• Courtney Crownover Graduate Assistant Coach coucro@email.ecok.edu

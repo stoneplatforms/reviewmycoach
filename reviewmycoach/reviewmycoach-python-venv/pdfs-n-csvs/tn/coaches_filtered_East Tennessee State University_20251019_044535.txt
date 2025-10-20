@@ -1,0 +1,263 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:36
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Alex Borgs
+   Email: borgsa@etsu.edu
+   Username: borgsa
+   Original line: Alex Borgs Lead Performance Coach for Olympic Sports borgsa@etsu.edu
+
+2. Alp Uysal
+   Email: usyala@etsu.edu
+   Username: usyala
+   Original line: Alp Uysal Sport Performance Coach usyala@etsu.edu
+
+3. Joe Pennucci
+   Email: baseball@etsu.edu
+   Username: baseball
+   Original line: Joe Pennucci Head Coach baseball@etsu.edu (423) 439-
+
+4. Jamie Pinzino
+   Email: baseball@etsu.edu
+   Username: baseball
+   Original line: Jamie Pinzino Assistant Coach (Pitching) baseball@etsu.edu
+
+5. Chad Marshall
+   Email: baseball@etsu.edu
+   Username: baseball
+   Original line: Chad Marshall Assistant Coach (Hitting) baseball@etsu.edu
+
+6. Morgan Little
+   Email: baseball@etsu.edu
+   Username: baseball
+   Original line: Morgan Little Volunteer Coach baseball@etsu.edu
+
+7. Canyon McWilliams
+   Email: baseball@etsu.edu
+   Username: baseball
+   Original line: Canyon McWilliams Volunteer Coach baseball@etsu.edu
+
+8. JD Yakubinis
+   Email: baseball@etsu.edu
+   Username: baseball
+   Original line: JD Yakubinis Volunteer Coach baseball@etsu.edu
+
+9. Brooks Savage
+   Email: etsubasketball@etsu.edu
+   Username: etsubasketball
+   Original line: Brooks Savage Head Coach etsubasketball@etsu.edu
+
+10. Kris Arkenberg
+   Email: etsubasketball@etsu.edu
+   Username: etsubasketball
+   Original line: Kris Arkenberg Assistant Coach etsubasketball@etsu.edu
+
+11. Marcus Belcher
+   Email: etsubasketball@etsu.edu
+   Username: etsubasketball
+   Original line: Marcus Belcher Assistant Coach etsubasketball@etsu.edu
+
+12. Cory Dixon
+   Email: etsubasketball@etsu.edu
+   Username: etsubasketball
+   Original line: Cory Dixon Assistant Coach etsubasketball@etsu.edu
+
+13. Miles Lester
+   Email: etsubasketball@etsu.edu
+   Username: etsubasketball
+   Original line: Miles Lester Assistant Coach etsubasketball@etsu.edu
+
+14. Blake Sexton
+   Email: sextonbh@etsu.edu
+   Username: sextonbh
+   Original line: Blake Sexton Assistant Coach sextonbh@etsu.edu
+
+15. Honey Brown
+   Email: brownhl2@etsu.edu
+   Username: brownhl2
+   Original line: Honey Brown Assistant Coach brownhl2@etsu.edu
+
+16. Joe Silvestri
+   Email: silvestrij@etsu.edu
+   Username: silvestrij
+   Original line: Joe Silvestri Assistant Coach (Recruiting Coordinator) silvestrij@etsu.edu
+
+17. Eric Gracia
+   Email: graciae@etsu.edu
+   Username: graciae
+   Original line: Eric Gracia Assistant Coach graciae@etsu.edu
+
+18. Nadiria Evans
+   Email: evansns@etsu.edu
+   Username: evansns
+   Original line: Nadiria Evans Assistant Coach (Director of Player Development) evansns@etsu.edu
+
+19. Alp Uysal
+   Email: usyala@etsu.edu
+   Username: usyala
+   Original line: Alp Uysal Sport Performance Coach usyala@etsu.edu
+
+20. Will Healy
+   Email: football@etsu.edu
+   Username: football
+   Original line: Will Healy Head Coach football@etsu.edu
+
+21. Brian Blackmon
+   Email: football@etsu.edu
+   Username: football
+   Original line: Brian Blackmon Assistant Head Coach/Tight Ends Coach football@etsu.edu
+
+22. Randall McCray
+   Email: football@etsu.edu
+   Username: football
+   Original line: Randall McCray Special Teams Coordinator/Safeties Coach football@etsu.edu
+
+23. Patrick Covington
+   Email: football@etsu.edu
+   Username: football
+   Original line: Patrick Covington Offensive Line Coach/Run Game Coordinator football@etsu.edu
+
+24. Travis Cunningham
+   Email: football@etsu.edu
+   Username: football
+   Original line: Travis Cunningham Linebackers Coach football@etsu.edu
+
+25. Jamere Hogue
+   Email: football@etsu.edu
+   Username: football
+   Original line: Jamere Hogue Defensive Line Coach football@etsu.edu
+
+26. Kerryon Johnson
+   Email: football@etsu.edu
+   Username: football
+   Original line: Kerryon Johnson Running Backs Coach football@etsu.edu
+
+27. Michael Mosah
+   Email: football@etsu.edu
+   Username: football
+   Original line: Michael Mosah Cornerbacks Coach football@etsu.edu
+
+28. Isaac Vance
+   Email: football@etsu.edu
+   Username: football
+   Original line: Isaac Vance Wide Receivers Coach football@etsu.edu
+
+29. Aaron O'Callaghan
+   Email: ocallaghan@etsu.edu
+   Username: ocallaghan
+   Original line: Aaron O'Callaghan Head Coach ocallaghan@etsu.edu
+
+30. Eric Bae
+   Email: baes01@etsu.edu
+   Username: baes01
+   Original line: Eric Bae Assistant Coach (Men's Golf) baes01@etsu.edu
+
+31. Stefanie Shelton
+   Email: reynolsd@etsu.edu
+   Username: reynolsd
+   Original line: Stefanie Shelton Head Coach reynolsd@etsu.edu
+
+32. Allen Vital
+   Email: vitala1@etsu.edu
+   Username: vitala1
+   Original line: Allen Vital Head Coach vitala1@etsu.edu
+
+33. Serge Gomis
+   Email: gomiss@etsu.edu
+   Username: gomiss
+   Original line: Serge Gomis Assistant Coach gomiss@etsu.edu
+
+34. Jean-Pierre Vital
+   Email: elyzevitalj@etsu.edu
+   Username: elyzevitalj
+   Original line: Jean-Pierre Vital Assistant Coach elyzevitalj@etsu.edu
+
+35. Matt Yelton
+   Email: zmby1@etsu.edu
+   Username: zmby1
+   Original line: Matt Yelton Assistant Coach zmby1@etsu.edu
+
+36. Cheryl Milligan
+   Email: softball@etsu.edu
+   Username: softball
+   Original line: Cheryl Milligan Head Coach softball@etsu.edu
+
+37. Van VanEaton
+   Email: vaneatonv@etsu.edu
+   Username: vaneatonv
+   Original line: Van VanEaton Buc Spirit Coach vaneatonv@etsu.edu
+
+38. Sterling Jones
+   Email: jonessp6@etsu.edu
+   Username: jonessp6
+   Original line: Sterling Jones Assistant Coach jonessp6@etsu.edu
+
+39. Marco Duca
+   Email: ducam2@etsu.edu
+   Username: ducam2
+   Original line: Dr. Marco Duca Throws Coach ducam2@etsu.edu (423) 439-
+
+40. Allie Nicosia
+   Email: nicosia@etsu.edu
+   Username: nicosia
+   Original line: Allie Nicosia Head Coach nicosia@etsu.edu
+
+41. Emily Arnold
+   Email: arnolder1@etsu.edu
+   Username: arnolder1
+   Original line: Emily Arnold Assistant Coach arnolder1@etsu.edu
+
+42. Aaron Giorgi
+   Email: giorgi@etsu.edu
+   Username: giorgi
+   Original line: Aaron Giorgi Assistant Coach giorgi@etsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Alex Borgs Lead Performance Coach for Olympic Sports borgsa@etsu.edu
+• Alp Uysal Sport Performance Coach usyala@etsu.edu
+• Joe Pennucci Head Coach baseball@etsu.edu (423) 439-
+• Jamie Pinzino Assistant Coach (Pitching) baseball@etsu.edu
+• Chad Marshall Assistant Coach (Hitting) baseball@etsu.edu
+• Morgan Little Volunteer Coach baseball@etsu.edu
+• Canyon McWilliams Volunteer Coach baseball@etsu.edu
+• JD Yakubinis Volunteer Coach baseball@etsu.edu
+• Brooks Savage Head Coach etsubasketball@etsu.edu
+• Kris Arkenberg Assistant Coach etsubasketball@etsu.edu
+• Marcus Belcher Assistant Coach etsubasketball@etsu.edu
+• Cory Dixon Assistant Coach etsubasketball@etsu.edu
+• Miles Lester Assistant Coach etsubasketball@etsu.edu
+• Blake Sexton Assistant Coach sextonbh@etsu.edu
+• Honey Brown Assistant Coach brownhl2@etsu.edu
+• Joe Silvestri Assistant Coach (Recruiting Coordinator) silvestrij@etsu.edu
+• Eric Gracia Assistant Coach graciae@etsu.edu
+• Nadiria Evans Assistant Coach (Director of Player Development) evansns@etsu.edu
+• Alp Uysal Sport Performance Coach usyala@etsu.edu
+• Will Healy Head Coach football@etsu.edu
+• Brian Blackmon Assistant Head Coach/Tight Ends Coach football@etsu.edu
+• Randall McCray Special Teams Coordinator/Safeties Coach football@etsu.edu
+• Patrick Covington Offensive Line Coach/Run Game Coordinator football@etsu.edu
+• Travis Cunningham Linebackers Coach football@etsu.edu
+• Jamere Hogue Defensive Line Coach football@etsu.edu
+• Kerryon Johnson Running Backs Coach football@etsu.edu
+• Michael Mosah Cornerbacks Coach football@etsu.edu
+• Isaac Vance Wide Receivers Coach football@etsu.edu
+• Aaron O'Callaghan Head Coach ocallaghan@etsu.edu
+• Eric Bae Assistant Coach (Men's Golf) baes01@etsu.edu
+• Stefanie Shelton Head Coach reynolsd@etsu.edu
+• Allen Vital Head Coach vitala1@etsu.edu
+• Serge Gomis Assistant Coach gomiss@etsu.edu
+• Jean-Pierre Vital Assistant Coach elyzevitalj@etsu.edu
+• Matt Yelton Assistant Coach zmby1@etsu.edu
+• Cheryl Milligan Head Coach softball@etsu.edu
+• Van VanEaton Buc Spirit Coach vaneatonv@etsu.edu
+• Sterling Jones Assistant Coach jonessp6@etsu.edu
+• Dr. Marco Duca Throws Coach ducam2@etsu.edu (423) 439-
+• Allie Nicosia Head Coach nicosia@etsu.edu
+• Emily Arnold Assistant Coach arnolder1@etsu.edu
+• Aaron Giorgi Assistant Coach giorgi@etsu.edu

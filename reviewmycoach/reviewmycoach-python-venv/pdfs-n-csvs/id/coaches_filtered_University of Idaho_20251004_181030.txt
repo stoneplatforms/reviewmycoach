@@ -1,0 +1,203 @@
+COACH ENTRIES FOUND - 2025-10-04 18:10:34
+============================================================
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jamel Cooper
+   Email: rjcooper@uidaho.edu
+   Username: rjcooper
+   Original line: Jamel Cooper Head Strength and Conditioning Coach rjcooper@uidaho.edu
+
+2. Brandon Laird
+   Email: blaird@uidaho.edu
+   Username: blaird
+   Original line: Brandon Laird Associate Head Coach blaird@uidaho.edu @CoachBLaird
+
+3. Matt Jones
+   Email: mattjjones@uidaho.edu
+   Username: mattjjones
+   Original line: Matt Jones Assistant Coach/Recruiting Coordinator mattjjones@uidaho.edu @MattJones2418
+
+4. Adam Ellis
+   Email: acellis@uidaho.edu
+   Username: acellis
+   Original line: Adam Ellis Assistant Coach acellis@uidaho.edu @CoachAEllis
+
+5. Luke Chavez
+   Email: lucaschavez@uidaho.edu
+   Username: lucaschavez
+   Original line: Luke Chavez Graduate Assistant Coach lucaschavez@uidaho.edu
+
+6. Arthur Moreira
+   Email: arthurb@uidaho.edu
+   Username: arthurb
+   Original line: Arthur Moreira Head Coach arthurb@uidaho.edu @artmoreira3
+
+7. Drew Muscatell
+   Email: muscatell@uidaho.edu
+   Username: muscatell
+   Original line: Drew Muscatell Associate Head Coach muscatell@uidaho.edu @DrewMuscatell
+
+8. Lindsey Foster
+   Email: lindseyfoster@uidaho.edu
+   Username: lindseyfoster
+   Original line: Lindsey Foster Assistant Coach lindseyfoster@uidaho.edu lindseymfoster
+
+9. Derek Saich
+   Email: dereksaich@uidaho.edu
+   Username: dereksaich
+   Original line: Derek Saich Assistant Coach dereksaich@uidaho.edu dereksaich12
+
+10. Nathan Stark
+   Email: njstark@uidaho.edu
+   Username: njstark
+   Original line: Nathan Stark Assistant Coach njstark@uidaho.edu
+
+11. David Nuhn
+   Email: dnuhn@uidaho.edu
+   Username: dnuhn
+   Original line: David Nuhn Head Coach dnuhn@uidaho.edu
+
+12. Allyssa Loesch
+   Email: aloesch@uidaho.edu
+   Username: aloesch
+   Original line: Allyssa Loesch Assistant Coach aloesch@uidaho.edu
+
+13. Jeremy Clevenger
+   Email: jclevenger@uidaho.edu
+   Username: jclevenger
+   Original line: Jeremy Clevenger Head Coach jclevenger@uidaho.edu
+
+14. Ashley Heidelberger
+   Email: ashleyh@uidaho.edu
+   Username: ashleyh
+   Original line: Ashley Heidelberger Assistant Coach ashleyh@uidaho.edu
+
+15. Mark Sowa
+   Email: msowa@uidaho.edu
+   Username: msowa
+   Original line: Dr. Mark Sowa Head Coach msowa@uidaho.edu
+
+16. Wei Wei
+   Email: wwei@uidaho.edu
+   Username: wwei
+   Original line: Wei Wei Head Diving Coach wwei@uidaho.edu
+
+17. Elizabeth Levy
+   Email: elevy@uidaho.edu
+   Username: elevy
+   Original line: Elizabeth Levy Assistant Coach elevy@uidaho.edu
+
+18. Raleigh Grossbaum
+   Email: raleigh@uidaho.edu
+   Username: raleigh
+   Original line: Raleigh Grossbaum Head Coach raleigh@uidaho.edu
+
+19. Jesse Lemon
+   Email: jdlemon@uidaho.edu
+   Username: jdlemon
+   Original line: Jesse Lemon Assistant Coach jdlemon@uidaho.edu
+
+20. Sanne Louwers
+   Email: louwers@uidaho.edu
+   Username: louwers
+   Original line: Sanne Louwers Head Coach louwers@uidaho.edu
+
+21. Fangyuan Li
+   Email: fangyuan@uidaho.edu
+   Username: fangyuan
+   Original line: Fangyuan Li Assistant Coach fangyuan@uidaho.edu
+
+22. Angelica De
+   Email: adevincenzis@uidaho.edu
+   Username: adevincenzis
+   Original line: Angelica De Vincenzis Assistant Coach adevincenzis@uidaho.edu
+
+23. Nathan Stark
+   Email: njstark@uidaho.edu
+   Username: njstark
+   Original line: Nathan Stark Assistant Coach njstark@uidaho.edu
+
+24. Brad Gamble
+   Email: bgamble@uidaho.edu
+   Username: bgamble
+   Original line: Brad Gamble Assistant Coach - Jumps/Multis bgamble@uidaho.edu
+
+25. Julie Taylor
+   Email: jtaylor@uidaho.edu
+   Username: jtaylor
+   Original line: Julie Taylor Assistant Coach - Throws jtaylor@uidaho.edu
+
+26. Tyler Sheehan
+   Email: tsheehan@uidaho.edu
+   Username: tsheehan
+   Original line: Tyler Sheehan Assistant Coach - Sprints/Hurdles/Relays tsheehan@uidaho.edu
+
+27. Romana Redondo
+   Email: romanark@uidaho.edu
+   Username: romanark
+   Original line: Romana Redondo Kriskova Head Coach romanark@uidaho.edu
+
+28. Ben Kasun
+   Email: bkasun@uidaho.edu
+   Username: bkasun
+   Original line: Ben Kasun Assistant Coach bkasun@uidaho.edu
+
+29. Maria Jacobus
+   Email: mjacobus@uidaho.edu
+   Username: mjacobus
+   Original line: Maria Jacobus Assistant Coach mjacobus@uidaho.edu
+
+30. Katie Doman
+   Email: kdoman@uidaho.edu
+   Username: kdoman
+   Original line: Katie Doman Head Spirit Coach kdoman@uidaho.edu
+
+31. Jordan French
+   Email: jsfrench@uidaho.edu
+   Username: jsfrench
+   Original line: Jordan French Assistant Spirit Coach jsfrench@uidaho.edu
+
+32. Dawson Murphy
+   Email: ddmurphy@uidaho.edu
+   Username: ddmurphy
+   Original line: Dawson Murphy Assistant Spirit Coach ddmurphy@uidaho.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jamel Cooper Head Strength and Conditioning Coach rjcooper@uidaho.edu
+• Brandon Laird Associate Head Coach blaird@uidaho.edu @CoachBLaird
+• Matt Jones Assistant Coach/Recruiting Coordinator mattjjones@uidaho.edu @MattJones2418
+• Adam Ellis Assistant Coach acellis@uidaho.edu @CoachAEllis
+• Luke Chavez Graduate Assistant Coach lucaschavez@uidaho.edu
+• Arthur Moreira Head Coach arthurb@uidaho.edu @artmoreira3
+• Drew Muscatell Associate Head Coach muscatell@uidaho.edu @DrewMuscatell
+• Lindsey Foster Assistant Coach lindseyfoster@uidaho.edu lindseymfoster
+• Derek Saich Assistant Coach dereksaich@uidaho.edu dereksaich12
+• Nathan Stark Assistant Coach njstark@uidaho.edu
+• David Nuhn Head Coach dnuhn@uidaho.edu
+• Allyssa Loesch Assistant Coach aloesch@uidaho.edu
+• Jeremy Clevenger Head Coach jclevenger@uidaho.edu
+• Ashley Heidelberger Assistant Coach ashleyh@uidaho.edu
+• Dr. Mark Sowa Head Coach msowa@uidaho.edu
+• Wei Wei Head Diving Coach wwei@uidaho.edu
+• Elizabeth Levy Assistant Coach elevy@uidaho.edu
+• Raleigh Grossbaum Head Coach raleigh@uidaho.edu
+• Jesse Lemon Assistant Coach jdlemon@uidaho.edu
+• Sanne Louwers Head Coach louwers@uidaho.edu
+• Fangyuan Li Assistant Coach fangyuan@uidaho.edu
+• Angelica De Vincenzis Assistant Coach adevincenzis@uidaho.edu
+• Nathan Stark Assistant Coach njstark@uidaho.edu
+• Brad Gamble Assistant Coach - Jumps/Multis bgamble@uidaho.edu
+• Julie Taylor Assistant Coach - Throws jtaylor@uidaho.edu
+• Tyler Sheehan Assistant Coach - Sprints/Hurdles/Relays tsheehan@uidaho.edu
+• Romana Redondo Kriskova Head Coach romanark@uidaho.edu
+• Ben Kasun Assistant Coach bkasun@uidaho.edu
+• Maria Jacobus Assistant Coach mjacobus@uidaho.edu
+• Katie Doman Head Spirit Coach kdoman@uidaho.edu
+• Jordan French Assistant Spirit Coach jsfrench@uidaho.edu
+• Dawson Murphy Assistant Spirit Coach ddmurphy@uidaho.edu

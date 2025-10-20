@@ -1,0 +1,279 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:26
+============================================================
+
+Total coaches found: 40
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ryan Marken
+   Email: ryan.marken@arbor.edu
+   Username: ryan.marken
+   Phone: (517) 750-6713
+   Original line: Ryan Marken Head Coach ryan.marken@arbor.edu 517-750-6713
+
+2. Joe Myers
+   Email: joseph.myers@arbor.edu
+   Username: joseph.myers
+   Phone: (517) 750-6713
+   Original line: Joe Myers Associate Head Coach joseph.myers@arbor.edu 517-750-6713
+
+3. Jon Schaible
+   Email: jon.schaible@arbor.edu
+   Username: jon.schaible
+   Original line: Jon Schaible Assistant Coach jon.schaible@arbor.edu
+
+4. Ryan Cottingham
+   Email: ryan.cottingham@arbor.edu
+   Username: ryan.cottingham
+   Phone: (517) 750-6505
+   Original line: Ryan Cottingham Head Coach ryan.cottingham@arbor.edu 517-750-6505
+
+5. Ted Stowe
+   Email: ted.stowe@arbor.edu
+   Username: ted.stowe
+   Phone: (517) 750-6505
+   Original line: Ted Stowe Associate Head Coach ted.stowe@arbor.edu 517-750-6505
+
+6. John Williams
+   Email: john.williams2@arbor.edu
+   Username: john.williams2
+   Phone: (517) 262-4469
+   Original line: John Williams Head Coach john.williams2@arbor.edu 517-262-4469
+
+7. Alex Scott
+   Email: alexandria.scott@arbor.edu
+   Username: alexandria.scott
+   Original line: Alex Scott Assistant Coach alexandria.scott@arbor.edu
+
+8. Terrence Willis
+   Email: terrence.willis@arbor.edu
+   Username: terrence.willis
+   Original line: Terrence Willis Assistant Coach terrence.willis@arbor.edu
+
+9. Gerry Lobdell
+   Email: gerry.lobdell@arbor.edu
+   Username: gerry.lobdell
+   Phone: (517) 750-6763
+   Original line: Gerry Lobdell Head Coach gerry.lobdell@arbor.edu 517-750-6763
+
+10. Rich Bradley
+   Email: richard.bradley@arbor.edu
+   Username: richard.bradley
+   Original line: Rich Bradley Assistant Coach richard.bradley@arbor.edu
+
+11. Andy Schnebelt
+   Email: andrew.schnebelt@arbor.edu
+   Username: andrew.schnebelt
+   Original line: Andy Schnebelt Assistant Coach andrew.schnebelt@arbor.edu
+
+12. Gerry Lobdell
+   Email: gerry.lobdell@arbor.edu
+   Username: gerry.lobdell
+   Phone: (517) 750-6763
+   Original line: Gerry Lobdell Head Coach gerry.lobdell@arbor.edu 517-750-6763
+
+13. Rich Bradley
+   Email: richard.bradley@arbor.edu
+   Username: richard.bradley
+   Original line: Rich Bradley Assistant Coach richard.bradley@arbor.edu
+
+14. Andy Schnebelt
+   Email: andrew.schnebelt@arbor.edu
+   Username: andrew.schnebelt
+   Original line: Andy Schnebelt Assistant Coach andrew.schnebelt@arbor.edu
+
+15. Hannah Philson
+   Email: hannah.philson@arbor.edu
+   Username: hannah.philson
+   Phone: (989) 576-1475
+   Original line: Hannah Philson Head Coach hannah.philson@arbor.edu 989-576-1475
+
+16. Chad Philson
+   Email: chad.philson@arbor.edu
+   Username: chad.philson
+   Original line: Chad Philson Volunteer Assistant Coach chad.philson@arbor.edu
+
+17. Bryan Burk
+   Email: bryan.burk@arbor.edu
+   Username: bryan.burk
+   Phone: (517) 750-6573
+   Original line: Bryan Burk Head Coach bryan.burk@arbor.edu 517-750-6573
+
+18. Kameron Mills
+   Email: kameron.mills@arbor.edu
+   Username: kameron.mills
+   Phone: (517) 750-6788
+   Original line: Kameron Mills Assistant Coach kameron.mills@arbor.edu 517-750-6788
+
+19. Bryan Burk
+   Email: bryan.burk@arbor.edu
+   Username: bryan.burk
+   Phone: (517) 750-6573
+   Original line: Bryan Burk Head Coach bryan.burk@arbor.edu 517-750-6573
+
+20. Kameron Mills
+   Email: kameron.mills@arbor.edu
+   Username: kameron.mills
+   Phone: (517) 750-6788
+   Original line: Kameron Mills Assistant Coach kameron.mills@arbor.edu 517-750-6788
+
+21. Micah Ottolini
+   Email: micah.ottolini@arbor.edu
+   Username: micah.ottolini
+   Phone: (517) 750-6461
+   Original line: Micah Ottolini Head Coach micah.ottolini@arbor.edu 517-750-6461
+
+22. Anil Joseph
+   Email: anil.joseph@arbor.edu
+   Username: anil.joseph
+   Phone: (517) 750-6511
+   Original line: Anil Joseph Head Coach anil.joseph@arbor.edu 517-750-6511
+
+23. Anil Joseph
+   Email: anil.joseph@arbor.edu
+   Username: anil.joseph
+   Phone: (517) 750-6511
+   Original line: Anil Joseph Head Coach anil.joseph@arbor.edu 517-750-6511
+
+24. Marco Bernardini
+   Email: marco.bernardini@arbor.edu
+   Username: marco.bernardini
+   Phone: (517) 750-6776
+   Original line: Marco Bernardini Head Coach marco.bernardini@arbor.edu 517-750-6776
+
+25. Cole Russell
+   Email: cole.russell@arbor.edu
+   Username: cole.russell
+   Phone: (517) 750-6776
+   Original line: Cole Russell Assistant Coach cole.russell@arbor.edu 517-750-6776
+
+26. Shannon Andringa
+   Email: shannon.andringa@arbor.edu
+   Username: shannon.andringa
+   Phone: (517) 750-6379
+   Original line: Shannon Andringa Head Coach shannon.andringa@arbor.edu 517-750-6379
+
+27. Sam Ulstad
+   Email: samuel.ulstad@arbor.edu
+   Username: samuel.ulstad
+   Original line: Sam Ulstad Assistant Coach samuel.ulstad@arbor.edu
+
+28. Kevin Bristol
+   Email: kevin.bristol@arbor.edu
+   Username: kevin.bristol
+   Original line: Kevin Bristol Assistant Coach kevin.bristol@arbor.edu
+
+29. Nikki Olanda
+   Email: nikki.olanda@arbor.edu
+   Username: nikki.olanda
+   Original line: Nikki Olanda Assistant Coach nikki.olanda@arbor.edu
+
+30. Deb Thompson
+   Email: deb.thompson@arbor.edu
+   Username: deb.thompson
+   Phone: (517) 750-6507
+   Original line: Deb Thompson Head Coach deb.thompson@arbor.edu 517-750-6507
+
+31. David Darling
+   Email: david.darling@arbor.edu
+   Username: david.darling
+   Phone: (517) 750-6514
+   Original line: David Darling Director of Tennis / Head Coach david.darling@arbor.edu 517-750-6514
+
+32. Terry Darling
+   Email: terry.darling@arbor.edu
+   Username: terry.darling
+   Phone: (517) 750-6514
+   Original line: Terry Darling Assistant Coach terry.darling@arbor.edu 517-750-6514
+
+33. David Darling
+   Email: david.darling@arbor.edu
+   Username: david.darling
+   Phone: (517) 750-6514
+   Original line: David Darling Director of Tennis / Head Coach david.darling@arbor.edu 517-750-6514
+
+34. Christie Myers
+   Email: christie.myers@arbor.edu
+   Username: christie.myers
+   Phone: (517) 750-6514
+   Original line: Christie Myers Assistant Coach christie.myers@arbor.edu 517-750-6514
+
+35. Kameron Mills
+   Email: kameron.mills@arbor.edu
+   Username: kameron.mills
+   Phone: (517) 750-6788
+   Original line: Kameron Mills Head Coach kameron.mills@arbor.edu 517-750-6788
+
+36. Bryan Burk
+   Email: bryan.burk@arbor.edu
+   Username: bryan.burk
+   Phone: (517) 750-6573
+   Original line: Bryan Burk Assistant Coach bryan.burk@arbor.edu 517-750-6573
+
+37. Kameron Mills
+   Email: kameron.mills@arbor.edu
+   Username: kameron.mills
+   Phone: (517) 750-6788
+   Original line: Kameron Mills Head Coach kameron.mills@arbor.edu 517-750-6788
+
+38. Bryan Burk
+   Email: bryan.burk@arbor.edu
+   Username: bryan.burk
+   Phone: (517) 750-6573
+   Original line: Bryan Burk Assistant Coach bryan.burk@arbor.edu 517-750-6573
+
+39. Betsy Martinez
+   Email: elizabeth.martinez2@arbor.edu
+   Username: elizabeth.martinez2
+   Phone: (517) 750-6523
+   Original line: Betsy Martinez Head Coach elizabeth.martinez2@arbor.edu 517-750-6523
+
+40. Kasey Barber
+   Email: kasey.barber@arbor.edu
+   Username: kasey.barber
+   Original line: Kasey Barber Assistant Coach kasey.barber@arbor.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ryan Marken Head Coach ryan.marken@arbor.edu 517-750-6713
+• Joe Myers Associate Head Coach joseph.myers@arbor.edu 517-750-6713
+• Jon Schaible Assistant Coach jon.schaible@arbor.edu
+• Ryan Cottingham Head Coach ryan.cottingham@arbor.edu 517-750-6505
+• Ted Stowe Associate Head Coach ted.stowe@arbor.edu 517-750-6505
+• John Williams Head Coach john.williams2@arbor.edu 517-262-4469
+• Alex Scott Assistant Coach alexandria.scott@arbor.edu
+• Terrence Willis Assistant Coach terrence.willis@arbor.edu
+• Gerry Lobdell Head Coach gerry.lobdell@arbor.edu 517-750-6763
+• Rich Bradley Assistant Coach richard.bradley@arbor.edu
+• Andy Schnebelt Assistant Coach andrew.schnebelt@arbor.edu
+• Gerry Lobdell Head Coach gerry.lobdell@arbor.edu 517-750-6763
+• Rich Bradley Assistant Coach richard.bradley@arbor.edu
+• Andy Schnebelt Assistant Coach andrew.schnebelt@arbor.edu
+• Hannah Philson Head Coach hannah.philson@arbor.edu 989-576-1475
+• Chad Philson Volunteer Assistant Coach chad.philson@arbor.edu
+• Bryan Burk Head Coach bryan.burk@arbor.edu 517-750-6573
+• Kameron Mills Assistant Coach kameron.mills@arbor.edu 517-750-6788
+• Bryan Burk Head Coach bryan.burk@arbor.edu 517-750-6573
+• Kameron Mills Assistant Coach kameron.mills@arbor.edu 517-750-6788
+• Micah Ottolini Head Coach micah.ottolini@arbor.edu 517-750-6461
+• Anil Joseph Head Coach anil.joseph@arbor.edu 517-750-6511
+• Anil Joseph Head Coach anil.joseph@arbor.edu 517-750-6511
+• Marco Bernardini Head Coach marco.bernardini@arbor.edu 517-750-6776
+• Cole Russell Assistant Coach cole.russell@arbor.edu 517-750-6776
+• Shannon Andringa Head Coach shannon.andringa@arbor.edu 517-750-6379
+• Sam Ulstad Assistant Coach samuel.ulstad@arbor.edu
+• Kevin Bristol Assistant Coach kevin.bristol@arbor.edu
+• Nikki Olanda Assistant Coach nikki.olanda@arbor.edu
+• Deb Thompson Head Coach deb.thompson@arbor.edu 517-750-6507
+• David Darling Director of Tennis / Head Coach david.darling@arbor.edu 517-750-6514
+• Terry Darling Assistant Coach terry.darling@arbor.edu 517-750-6514
+• David Darling Director of Tennis / Head Coach david.darling@arbor.edu 517-750-6514
+• Christie Myers Assistant Coach christie.myers@arbor.edu 517-750-6514
+• Kameron Mills Head Coach kameron.mills@arbor.edu 517-750-6788
+• Bryan Burk Assistant Coach bryan.burk@arbor.edu 517-750-6573
+• Kameron Mills Head Coach kameron.mills@arbor.edu 517-750-6788
+• Bryan Burk Assistant Coach bryan.burk@arbor.edu 517-750-6573
+• Betsy Martinez Head Coach elizabeth.martinez2@arbor.edu 517-750-6523
+• Kasey Barber Assistant Coach kasey.barber@arbor.edu

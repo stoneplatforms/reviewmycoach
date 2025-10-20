@@ -1,0 +1,191 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:36
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chuck Waddington
+   Email: cwaddington@angelo.edu
+   Username: cwaddington
+   Original line: Chuck Waddington Head Volleyball Coach | Assistant cwaddington@angelo.edu 325-486-
+
+2. Kevin Brooks
+   Email: kevin.brooks@angelo.edu
+   Username: kevin.brooks
+   Original line: Kevin Brooks Head Coach kevin.brooks@angelo.edu 325-486- @KBrooks15
+
+3. Adam Foster
+   Email: adam.foster@angelo.edu
+   Username: adam.foster
+   Original line: Adam Foster Assistant Coach adam.foster@angelo.edu 325-486-
+
+4. Sam Mote
+   Email: sam.mote@angelo.edu
+   Username: sam.mote
+   Original line: Sam Mote Assistant Coach sam.mote@angelo.edu 325-942-
+
+5. Tom Dibbern
+   Email: tdibbern@angelo.edu
+   Username: tdibbern
+   Original line: Tom Dibbern Head Coach (Sprints, Horizontals, tdibbern@angelo.edu 325-486-
+
+6. Jonathan Matsumura
+   Email: jonathan.matsumura@angelo.edu
+   Username: jonathan.matsumura
+   Original line: Jonathan Matsumura Assistant Coach (Distance, High jonathan.matsumura@angelo.edu 325-486-
+
+7. Jeff Girsch
+   Email: jeffrey.girsch@angelo.edu
+   Username: jeffrey.girsch
+   Original line: Jeff Girsch Head Coach jeffrey.girsch@angelo.edu 325-486-
+
+8. Kevin Kilmer
+   Email: Kevin.kilmer@angelo.edu
+   Username: Kevin.kilmer
+   Original line: Kevin Kilmer Assistant Coach (Offensive Kevin.kilmer@angelo.edu 325-486-
+
+9. Gary Salgado
+   Email: gsalgado@angelo.edu
+   Username: gsalgado
+   Original line: Gary Salgado Assistant Coach (Defensive gsalgado@angelo.edu 325-642-
+
+10. Jason Johnson
+   Email: jason.johnson@angelo.edu
+   Username: jason.johnson
+   Original line: Jason Johnson Assistant Coach (WR) / Recruiting jason.johnson@angelo.edu 325-486-
+
+11. Tyler O'Bryan
+   Email: bryan@angelo.edu
+   Username: bryan
+   Original line: Tyler O'Bryan Assistant Coach (Linebackers) tyler.o'bryan@angelo.edu 325-486-
+
+12. Del Howard
+   Email: del.howard@angelo.edu
+   Username: del.howard
+   Original line: Del Howard Assistant Coach (Defensive Backs) del.howard@angelo.edu 325-486-
+
+13. Bill Weber
+   Email: bweber5@angelo.edu
+   Username: bweber5
+   Original line: Bill Weber Assistant Coach (Offensive Line) bweber5@angelo.edu 325-486-
+
+14. Barb Odale
+   Email: barb.odale@angelo.edu
+   Username: barb.odale
+   Original line: Barb Odale Head Coach barb.odale@angelo.edu 325-942-
+
+15. Vinay Patel
+   Email: vinay.patel@angelo.edu
+   Username: vinay.patel
+   Original line: Vinay Patel Head Coach vinay.patel@angelo.edu 325-486-
+
+16. Connor Moore
+   Email: connor.moore@angelo.edu
+   Username: connor.moore
+   Original line: Connor Moore Assistant Coach connor.moore@angelo.edu 325-942-
+
+17. Cole Rabedeaux
+   Email: cole.rabedeaux@angelo.edu
+   Username: cole.rabedeaux
+   Original line: Cole Rabedeaux Assistant Coach cole.rabedeaux@angelo.edu 325-486-
+
+18. Travis McCorkle
+   Email: tmccorkle@angelo.edu
+   Username: tmccorkle
+   Original line: Travis McCorkle Head Coach tmccorkle@angelo.edu 325-486- @BellesSoccer
+
+19. Harold Muñoz
+   Email: harold.munoz@angelo.edu
+   Username: harold.munoz
+   Original line: Harold Muñoz Assistant Coach harold.munoz@angelo.edu 325-486-
+
+20. Travis Scott
+   Email: travis.scott@angelo.edu
+   Username: travis.scott
+   Original line: Travis Scott Head Coach travis.scott@angelo.edu 325-486-
+
+21. Katie Scott
+   Email: katie.scott@angelo.edu
+   Username: katie.scott
+   Original line: Katie Scott Associate Head Coach katie.scott@angelo.edu 325-486-
+
+22. Tom Dibbern
+   Email: tdibbern@angelo.edu
+   Username: tdibbern
+   Original line: Tom Dibbern Head Coach (Sprints, Horizontals, tdibbern@angelo.edu 325-486-
+
+23. Kyle Lumpkins
+   Email: klumpkins2@angelo.edu
+   Username: klumpkins2
+   Original line: Kyle Lumpkins Assistant Coach (Hurdles, Pole klumpkins2@angelo.edu 325-486-
+
+24. Jonathan Matsumura
+   Email: jonathan.matsumura@angelo.edu
+   Username: jonathan.matsumura
+   Original line: Jonathan Matsumura Assistant Coach (Distance, High jonathan.matsumura@angelo.edu 325-486-
+
+25. Chuck Waddington
+   Email: cwaddington@angelo.edu
+   Username: cwaddington
+   Original line: Chuck Waddington Head Volleyball Coach | Assistant cwaddington@angelo.edu 325-486-
+
+26. Ashley Gasaway
+   Email: ashley.gasaway@angelo.edu
+   Username: ashley.gasaway
+   Original line: Ashley Gasaway Assistant Coach ashley.gasaway@angelo.edu 325-486-
+
+27. Alesha Ellis
+   Email: alesha.ellis@angelo.edu
+   Username: alesha.ellis
+   Original line: Alesha Ellis Head Coach alesha.ellis@angelo.edu 325-486-
+
+28. Andy Ellis
+   Email: andrew.ellis@angelo.edu
+   Username: andrew.ellis
+   Original line: Andy Ellis Assistant Coach andrew.ellis@angelo.edu 325-486-
+
+29. Stephanie Ruiz
+   Email: sruiz25@angelo.edu
+   Username: sruiz25
+   Original line: Stephanie Ruiz Assistant Coach sruiz25@angelo.edu 325-486-
+
+30. Jason Potthoff
+   Email: jason.potthoff@angelo.edu
+   Username: jason.potthoff
+   Original line: Jason Potthoff Head Coach jason.potthoff@angelo.edu 325-486-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chuck Waddington Head Volleyball Coach | Assistant cwaddington@angelo.edu 325-486-
+• Kevin Brooks Head Coach kevin.brooks@angelo.edu 325-486- @KBrooks15
+• Adam Foster Assistant Coach adam.foster@angelo.edu 325-486-
+• Sam Mote Assistant Coach sam.mote@angelo.edu 325-942-
+• Tom Dibbern Head Coach (Sprints, Horizontals, tdibbern@angelo.edu 325-486-
+• Jonathan Matsumura Assistant Coach (Distance, High jonathan.matsumura@angelo.edu 325-486-
+• Jeff Girsch Head Coach jeffrey.girsch@angelo.edu 325-486-
+• Kevin Kilmer Assistant Coach (Offensive Kevin.kilmer@angelo.edu 325-486-
+• Gary Salgado Assistant Coach (Defensive gsalgado@angelo.edu 325-642-
+• Jason Johnson Assistant Coach (WR) / Recruiting jason.johnson@angelo.edu 325-486-
+• Tyler O'Bryan Assistant Coach (Linebackers) tyler.o'bryan@angelo.edu 325-486-
+• Del Howard Assistant Coach (Defensive Backs) del.howard@angelo.edu 325-486-
+• Bill Weber Assistant Coach (Offensive Line) bweber5@angelo.edu 325-486-
+• Barb Odale Head Coach barb.odale@angelo.edu 325-942-
+• Vinay Patel Head Coach vinay.patel@angelo.edu 325-486-
+• Connor Moore Assistant Coach connor.moore@angelo.edu 325-942-
+• Cole Rabedeaux Assistant Coach cole.rabedeaux@angelo.edu 325-486-
+• Travis McCorkle Head Coach tmccorkle@angelo.edu 325-486- @BellesSoccer
+• Harold Muñoz Assistant Coach harold.munoz@angelo.edu 325-486-
+• Travis Scott Head Coach travis.scott@angelo.edu 325-486-
+• Katie Scott Associate Head Coach katie.scott@angelo.edu 325-486-
+• Tom Dibbern Head Coach (Sprints, Horizontals, tdibbern@angelo.edu 325-486-
+• Kyle Lumpkins Assistant Coach (Hurdles, Pole klumpkins2@angelo.edu 325-486-
+• Jonathan Matsumura Assistant Coach (Distance, High jonathan.matsumura@angelo.edu 325-486-
+• Chuck Waddington Head Volleyball Coach | Assistant cwaddington@angelo.edu 325-486-
+• Ashley Gasaway Assistant Coach ashley.gasaway@angelo.edu 325-486-
+• Alesha Ellis Head Coach alesha.ellis@angelo.edu 325-486-
+• Andy Ellis Assistant Coach andrew.ellis@angelo.edu 325-486-
+• Stephanie Ruiz Assistant Coach sruiz25@angelo.edu 325-486-
+• Jason Potthoff Head Coach jason.potthoff@angelo.edu 325-486-

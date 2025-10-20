@@ -1,0 +1,113 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:15
+============================================================
+
+Total coaches found: 17
+
+PARSED ENTRIES:
+----------------------------------------
+1. J.D. Hulse
+   Email: jhulse@valdosta.edu
+   Username: jhulse
+   Original line: J.D. Hulse Head Baseball Coach jhulse@valdosta.edu (229)
+
+2. Geoff Bramblett
+   Email: gbramblett@valdosta.edu
+   Username: gbramblett
+   Original line: Geoff Bramblett Assistant Coach gbramblett@valdosta.edu (229)
+
+3. Jared Cantu
+   Email: jcantu@valdosta.edu
+   Username: jcantu
+   Original line: Jared Cantu Assistant Coach jcantu@valdosta.edu (229)
+
+4. Mike Helfer
+   Email: mrhelfer@valdosta.edu
+   Username: mrhelfer
+   Original line: Mike Helfer Head Men's Basketball Coach mrhelfer@valdosta.edu (229) CoachMikeHelfer
+
+5. Nate Nowicki
+   Email: njnowicki@valdosta.edu
+   Username: njnowicki
+   Original line: Nate Nowicki Associate Head Coach njnowicki@valdosta.edu (229)
+
+6. Chandler Merkerson
+   Email: cgmerkerson@valdosta.edu
+   Username: cgmerkerson
+   Original line: Chandler Merkerson Head Women's Basketball Coach cgmerkerson@valdosta.edu (229)
+
+7. Tyler Vaundry
+   Email: tvaundry@valdosta.edu
+   Username: tvaundry
+   Original line: Tyler Vaundry Assistant Coach tvaundry@valdosta.edu (229)
+
+8. Todd Smoot
+   Email: tlsmoot@valdosta.edu
+   Username: tlsmoot
+   Original line: Todd Smoot Head Cross Country Coach tlsmoot@valdosta.edu (229)
+
+9. Graham Craig
+   Email: gacraig@valdosta.edu
+   Username: gacraig
+   Original line: Graham Craig Head Coach gacraig@valdosta.edu (229)
+
+10. Jared Purvis
+   Email: jpurvis@valdosta.edu
+   Username: jpurvis
+   Original line: Jared Purvis Head Golf Coach jpurvis@valdosta.edu (229)
+
+11. Stephen Andrew
+   Email: sandrew@valdosta.edu
+   Username: sandrew
+   Original line: Stephen Andrew Head Women's Soccer Coach sandrew@valdosta.edu (229)
+
+12. Thomas Macera
+   Email: tjmacera@valdosta.edu
+   Username: tjmacera
+   Original line: Thomas Macera Head Softball Coach tjmacera@valdosta.edu (229)
+
+13. John Hansen
+   Email: jhansen@valdosta.edu
+   Username: jhansen
+   Original line: John Hansen Head Tennis Coach jhansen@valdosta.edu (229)
+
+14. Kaleigh Zoucha
+   Email: kzoucha@valdosta.edu
+   Username: kzoucha
+   Original line: Kaleigh Zoucha Head Volleyball Coach kzoucha@valdosta.edu (229)
+
+15. Rami Mullen
+   Email: ramullen@valdosta.edu
+   Username: ramullen
+   Original line: Rami Mullen Assistant Volleyball Coach ramullen@valdosta.edu (229)
+
+16. Desiree Hagan
+   Email: dhagan@valdosta.edu
+   Username: dhagan
+   Original line: Desiree Hagan Head Cheerleading Coach dhagan@valdosta.edu (229)
+
+17. Kelli Fields
+   Email: kmhollan@valdosta.edu
+   Username: kmhollan
+   Original line: Kelli Fields Red Hots Head Coach kmhollan@valdosta.edu (229) VSURedHots
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• J.D. Hulse Head Baseball Coach jhulse@valdosta.edu (229)
+• Geoff Bramblett Assistant Coach gbramblett@valdosta.edu (229)
+• Jared Cantu Assistant Coach jcantu@valdosta.edu (229)
+• Mike Helfer Head Men's Basketball Coach mrhelfer@valdosta.edu (229) CoachMikeHelfer
+• Nate Nowicki Associate Head Coach njnowicki@valdosta.edu (229)
+• Chandler Merkerson Head Women's Basketball Coach cgmerkerson@valdosta.edu (229)
+• Tyler Vaundry Assistant Coach tvaundry@valdosta.edu (229)
+• Todd Smoot Head Cross Country Coach tlsmoot@valdosta.edu (229)
+• Graham Craig Head Coach gacraig@valdosta.edu (229)
+• Jared Purvis Head Golf Coach jpurvis@valdosta.edu (229)
+• Stephen Andrew Head Women's Soccer Coach sandrew@valdosta.edu (229)
+• Thomas Macera Head Softball Coach tjmacera@valdosta.edu (229)
+• John Hansen Head Tennis Coach jhansen@valdosta.edu (229)
+• Kaleigh Zoucha Head Volleyball Coach kzoucha@valdosta.edu (229)
+• Rami Mullen Assistant Volleyball Coach ramullen@valdosta.edu (229)
+• Desiree Hagan Head Cheerleading Coach dhagan@valdosta.edu (229)
+• Kelli Fields Red Hots Head Coach kmhollan@valdosta.edu (229) VSURedHots

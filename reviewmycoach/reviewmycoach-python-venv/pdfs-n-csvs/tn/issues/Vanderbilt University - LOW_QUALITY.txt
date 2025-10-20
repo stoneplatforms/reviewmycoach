@@ -1,0 +1,7 @@
+Low-quality parsing detected in Vanderbilt University.pdf.
+Sample problematic entries (5):
+- Head Coach haley.kramer@vanderbilt.edu
+- Assistant Coach tom.bossung@vumc.org
+- Associate Strength Coach (Volleyball, Men’s darren.l.edgington@vanderbilt.edu
+- Strength and Conditioning Coach (Baseball) football_recruiting@vanderbilt.edu
+- Strength and Conditioning Coach (Baseball) football_recruiting@vanderbilt.edu

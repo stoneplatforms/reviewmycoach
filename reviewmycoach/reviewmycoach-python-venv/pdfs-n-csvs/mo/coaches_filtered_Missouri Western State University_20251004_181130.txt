@@ -1,0 +1,287 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:30
+============================================================
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Zach Fears
+   Email: zfears@missouriwestern.edu
+   Username: zfears
+   Original line: Dr. Zach Fears Assistant Director of Athletics / Sports zfears@missouriwestern.edu 816-271- Coachfearsmwsu
+
+2. Zach Fears
+   Email: zfears@missouriwestern.edu
+   Username: zfears
+   Original line: Dr. Zach Fears Assistant Director of Athletics / Sports zfears@missouriwestern.edu 816-271- Coachfearsmwsu
+
+3. Emily Hanenberg
+   Email: ehanenberg@missouriwestern.edu
+   Username: ehanenberg
+   Original line: Emily Hanenberg Sports Performance Coach ehanenberg@missouriwestern.edu
+
+4. Alec Huhman
+   Email: ahuhman@missouriwestern.edu
+   Username: ahuhman
+   Original line: Alec Huhman Sports Performance Coach ahuhman@missouriwestern.edu
+
+5. Michael Keeran
+   Email: mkeeran@missouriwestern.edu
+   Username: mkeeran
+   Original line: Michael Keeran Head Coach mkeeran@missouriwestern.edu
+
+6. Connery O'Donnell-Smith
+   Email: codonnellsmith@missouriwestern.edu
+   Username: codonnellsmith
+   Original line: Connery O'Donnell-Smith Assistant Baseball Coach codonnellsmith@missouriwestern.edu
+
+7. Christopher Monroe
+   Email: cmonroe1@missouriwestern.edu
+   Username: cmonroe1
+   Original line: Christopher Monroe Assistant Baseball Coach cmonroe1@missouriwestern.edu
+
+8. Brooks McKowen
+   Email: bmckowen@missouriwestern.edu
+   Username: bmckowen
+   Original line: Brooks McKowen Head Coach bmckowen@missouriwestern.edu 816-271-
+
+9. Joel Hanson
+   Email: jhanson4@missouriwestern.edu
+   Username: jhanson4
+   Original line: Joel Hanson Assistant Coach jhanson4@missouriwestern.edu
+
+10. Danny Tabaska
+   Email: dtabaska@missouriwestern.edu
+   Username: dtabaska
+   Original line: Danny Tabaska Assistant Coach dtabaska@missouriwestern.edu
+
+11. Luke Scheidecker
+   Email: lscheidecker@missouriwestern.edu
+   Username: lscheidecker
+   Original line: Luke Scheidecker Head Coach lscheidecker@missouriwestern.edu 816-271-
+
+12. Darvin Gill
+   Email: dgill2@missouriwestern.edu
+   Username: dgill2
+   Original line: Darvin Gill Assistant Coach dgill2@missouriwestern.edu
+
+13. Olivia Nelson
+   Email: onelson3@missouriwestern.edu
+   Username: onelson3
+   Original line: Olivia Nelson Assistant Coach onelson3@missouriwestern.edu
+
+14. Sean Gosewisch
+   Email: sgosewisch@missouriwestern.edu
+   Username: sgosewisch
+   Original line: Sean Gosewisch Interim Head Coach sgosewisch@missouriwestern.edu
+
+15. Jana Shawver
+   Email: jshawver@missouriwestern.edu
+   Username: jshawver
+   Original line: Jana Shawver Assistant Coach jshawver@missouriwestern.edu 816-271-
+
+16. Tyler Fenwick
+   Email: tfenwick@missouriwestern.edu
+   Username: tfenwick
+   Original line: Tyler Fenwick Head Coach tfenwick@missouriwestern.edu 816-271- TylerFenwick2
+
+17. Erik Johnson
+   Email: ejohnson27@missouriwestern.edu
+   Username: ejohnson27
+   Original line: Erik Johnson Assistant Coach - Defensive Coordinator ejohnson27@missouriwestern.edu 816-271-
+
+18. Todd Throckmorton
+   Email: tthrock@missouriwestern.edu
+   Username: tthrock
+   Original line: Todd Throckmorton Assistant Coach - Offensive Coordinator tthrock@missouriwestern.edu 816-271-
+
+19. Michael Gallo
+   Email: mgallo@missouriwestern.edu
+   Username: mgallo
+   Original line: Michael Gallo Assistant Coach - Defensive Line mgallo@missouriwestern.edu 816-271-
+
+20. Patrick St.
+   Email: pstlouis@missouriwestern.edu
+   Username: pstlouis
+   Original line: Patrick St. Louis Assistant Coach - Running Backs pstlouis@missouriwestern.edu 816-271- CoachStLouis
+
+21. Aaron Bell
+   Email: abell4@missouriwestern.edu
+   Username: abell4
+   Original line: Aaron Bell Assistant Coach - Wide Receivers abell4@missouriwestern.edu 816-271-
+
+22. Colin McQuillan
+   Email: cmcquillan@missouriwestern.edu
+   Username: cmcquillan
+   Original line: Colin McQuillan Assistant Coach - Outside Linebackers / cmcquillan@missouriwestern.edu coachmcquillan
+
+23. Brandon Sanders
+   Email: bsanders7@missouriwestern.edu
+   Username: bsanders7
+   Original line: Brandon Sanders Assistant Coach - Kickers & Punters / bsanders7@missouriwestern.edu
+
+24. Ace Ventura
+   Email: aventura@missouriwestern.edu
+   Username: aventura
+   Original line: Ace Ventura Assistant Coach - Tight Ends aventura@missouriwestern.edu
+
+25. Matthew Winter
+   Email: mwinter2@missouriwestern.edu
+   Username: mwinter2
+   Original line: Matthew Winter Assistant Coach - Quarterbacks mwinter2@missouriwestern.edu
+
+26. Dominic Anderson
+   Email: danderson32@missouriwestern.edu
+   Username: danderson32
+   Original line: Dominic Anderson Assistant Coach - Defensive Backs danderson32@missouriwestern.edu
+
+27. Victor Vera
+   Email: vvera@missouriwestern.edu
+   Username: vvera
+   Original line: Victor Vera Assistant Defensive Backs Coach vvera@missouriwestern.edu
+
+28. Matt Thrasher
+   Email: mthrasher1@missouriwestern.edu
+   Username: mthrasher1
+   Original line: Matt Thrasher Head Coach mthrasher1@missouriwestern.edu 816-271- Matt_Thrasher
+
+29. Brad Nurski
+   Email: bnurski@missouriwestern.edu
+   Username: bnurski
+   Original line: Brad Nurski Assistant Coach bnurski@missouriwestern.edu
+
+30. Tom Buffington
+   Email: tbuffington@missouriwestern.edu
+   Username: tbuffington
+   Original line: Tom Buffington Assistant Coach tbuffington@missouriwestern.edu
+
+31. Jake Mikesch
+   Email: jmikesch@missouriwestern.edu
+   Username: jmikesch
+   Original line: Jake Mikesch Assistant Coach jmikesch@missouriwestern.edu
+
+32. Mike Habermehl
+   Email: mhabermehl@missouriwestern.edu
+   Username: mhabermehl
+   Original line: Mike Habermehl Assistant Coach mhabermehl@missouriwestern.edu
+
+33. Jessica Berg
+   Email: jberg2@missouriwestern.edu
+   Username: jberg2
+   Original line: Jessica Berg Head Coach jberg2@missouriwestern.edu 816-271-
+
+34. Felicia Dixon
+   Email: fdixon@missouriwestern.edu
+   Username: fdixon
+   Original line: Felicia Dixon Assistant Coach fdixon@missouriwestern.edu 816-271-
+
+35. Jacob Plocher
+   Email: jplocher@missouriwestern.edu
+   Username: jplocher
+   Original line: Jacob Plocher Head Coach jplocher@missouriwestern.edu 816-271- CoachPlocher
+
+36. Madalyn Graham
+   Email: mgraham10@missouriwestern.edu
+   Username: mgraham10
+   Original line: Madalyn Graham Assistant Coach mgraham10@missouriwestern.edu
+
+37. Kyle Schumann
+   Email: kschumann@missouriwestern.edu
+   Username: kschumann
+   Original line: Kyle Schumann Assistant Coach kschumann@missouriwestern.edu
+
+38. Nicole Thompson
+   Email: nthompson3@missouriwestern.edu
+   Username: nthompson3
+   Original line: Nicole Thompson Head Softball Coach nthompson3@missouriwestern.edu
+
+39. Steffany Dickerson
+   Email: sdickerson1@missouriwestern.edu
+   Username: sdickerson1
+   Original line: Steffany Dickerson Assistant Softball Coach sdickerson1@missouriwestern.edu
+
+40. Alejandro de
+   Email: adelatorre@missouriwestern.edu
+   Username: adelatorre
+   Original line: Alejandro de la Torre Head Coach adelatorre@missouriwestern.edu 816-752-
+
+41. Sean Gosewisch
+   Email: sgosewisch@missouriwestern.edu
+   Username: sgosewisch
+   Original line: Sean Gosewisch Interim Head Coach sgosewisch@missouriwestern.edu
+
+42. Jana Shawver
+   Email: jshawver@missouriwestern.edu
+   Username: jshawver
+   Original line: Jana Shawver Assistant Coach jshawver@missouriwestern.edu 816-271-
+
+43. Jordan Garr
+   Email: jgarr1@missouriwestern.edu
+   Username: jgarr1
+   Original line: Jordan Garr Assistant Coach - Throws jgarr1@missouriwestern.edu
+
+44. Jessica Fey
+   Email: jfey@missouriwestern.edu
+   Username: jfey
+   Original line: Jessica Fey Head Coach jfey@missouriwestern.edu 816-271-
+
+45. Kayla Ruff
+   Email: kruff@missouriwestern.edu
+   Username: kruff
+   Original line: Kayla Ruff Assistant Volleyball Coach kruff@missouriwestern.edu
+
+46. Emily Jensen
+   Email: ejensen2@missouriwestern.edu
+   Username: ejensen2
+   Original line: Emily Jensen Head Coach ejensen2@missouriwestern.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dr. Zach Fears Assistant Director of Athletics / Sports zfears@missouriwestern.edu 816-271- Coachfearsmwsu
+• Dr. Zach Fears Assistant Director of Athletics / Sports zfears@missouriwestern.edu 816-271- Coachfearsmwsu
+• Emily Hanenberg Sports Performance Coach ehanenberg@missouriwestern.edu
+• Alec Huhman Sports Performance Coach ahuhman@missouriwestern.edu
+• Michael Keeran Head Coach mkeeran@missouriwestern.edu
+• Connery O'Donnell-Smith Assistant Baseball Coach codonnellsmith@missouriwestern.edu
+• Christopher Monroe Assistant Baseball Coach cmonroe1@missouriwestern.edu
+• Brooks McKowen Head Coach bmckowen@missouriwestern.edu 816-271-
+• Joel Hanson Assistant Coach jhanson4@missouriwestern.edu
+• Danny Tabaska Assistant Coach dtabaska@missouriwestern.edu
+• Luke Scheidecker Head Coach lscheidecker@missouriwestern.edu 816-271-
+• Darvin Gill Assistant Coach dgill2@missouriwestern.edu
+• Olivia Nelson Assistant Coach onelson3@missouriwestern.edu
+• Sean Gosewisch Interim Head Coach sgosewisch@missouriwestern.edu
+• Jana Shawver Assistant Coach jshawver@missouriwestern.edu 816-271-
+• Tyler Fenwick Head Coach tfenwick@missouriwestern.edu 816-271- TylerFenwick2
+• Erik Johnson Assistant Coach - Defensive Coordinator ejohnson27@missouriwestern.edu 816-271-
+• Todd Throckmorton Assistant Coach - Offensive Coordinator tthrock@missouriwestern.edu 816-271-
+• Michael Gallo Assistant Coach - Defensive Line mgallo@missouriwestern.edu 816-271-
+• Patrick St. Louis Assistant Coach - Running Backs pstlouis@missouriwestern.edu 816-271- CoachStLouis
+• Aaron Bell Assistant Coach - Wide Receivers abell4@missouriwestern.edu 816-271-
+• Colin McQuillan Assistant Coach - Outside Linebackers / cmcquillan@missouriwestern.edu coachmcquillan
+• Brandon Sanders Assistant Coach - Kickers & Punters / bsanders7@missouriwestern.edu
+• Ace Ventura Assistant Coach - Tight Ends aventura@missouriwestern.edu
+• Matthew Winter Assistant Coach - Quarterbacks mwinter2@missouriwestern.edu
+• Dominic Anderson Assistant Coach - Defensive Backs danderson32@missouriwestern.edu
+• Victor Vera Assistant Defensive Backs Coach vvera@missouriwestern.edu
+• Matt Thrasher Head Coach mthrasher1@missouriwestern.edu 816-271- Matt_Thrasher
+• Brad Nurski Assistant Coach bnurski@missouriwestern.edu
+• Tom Buffington Assistant Coach tbuffington@missouriwestern.edu
+• Jake Mikesch Assistant Coach jmikesch@missouriwestern.edu
+• Mike Habermehl Assistant Coach mhabermehl@missouriwestern.edu
+• Jessica Berg Head Coach jberg2@missouriwestern.edu 816-271-
+• Felicia Dixon Assistant Coach fdixon@missouriwestern.edu 816-271-
+• Jacob Plocher Head Coach jplocher@missouriwestern.edu 816-271- CoachPlocher
+• Madalyn Graham Assistant Coach mgraham10@missouriwestern.edu
+• Kyle Schumann Assistant Coach kschumann@missouriwestern.edu
+• Nicole Thompson Head Softball Coach nthompson3@missouriwestern.edu
+• Steffany Dickerson Assistant Softball Coach sdickerson1@missouriwestern.edu
+• Alejandro de la Torre Head Coach adelatorre@missouriwestern.edu 816-752-
+• Sean Gosewisch Interim Head Coach sgosewisch@missouriwestern.edu
+• Jana Shawver Assistant Coach jshawver@missouriwestern.edu 816-271-
+• Jordan Garr Assistant Coach - Throws jgarr1@missouriwestern.edu
+• Jessica Fey Head Coach jfey@missouriwestern.edu 816-271-
+• Kayla Ruff Assistant Volleyball Coach kruff@missouriwestern.edu
+• Emily Jensen Head Coach ejensen2@missouriwestern.edu

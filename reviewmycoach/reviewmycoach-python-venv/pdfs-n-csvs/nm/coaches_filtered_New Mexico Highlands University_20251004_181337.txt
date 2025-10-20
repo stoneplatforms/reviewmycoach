@@ -1,0 +1,113 @@
+COACH ENTRIES FOUND - 2025-10-04 18:13:40
+============================================================
+
+Total coaches found: 17
+
+PARSED ENTRIES:
+----------------------------------------
+1. Steve Jones
+   Email: smjones@nmhu.edu
+   Username: smjones
+   Original line: Steve Jones Head Baseball Coach smjones@nmhu.edu
+
+2. Austen King
+   Email: aking17@live.nmhu.edu
+   Username: aking17
+   Original line: Austen King Assistant Baseball Coach aking17@live.nmhu.edu
+
+3. Zach Settembre
+   Email: zach@nmhu.edu
+   Username: zach
+   Original line: Zach Settembre Head Men's Basketball Coach zach@nmhu.edu
+
+4. Noah Breitenstein
+   Email: noah.breitenstein@nmhu.edu
+   Username: noah.breitenstein
+   Original line: Noah Breitenstein Assistant Men's Basketball Coach noah.breitenstein@nmhu.edu
+
+5. Lindsey Fearing
+   Email: lfearing@nmhu.edu
+   Username: lfearing
+   Original line: Lindsey Fearing Head Women's Basketball Coach lfearing@nmhu.edu
+
+6. Eric Benedick
+   Email: ebenedick@nmhu.edu
+   Username: ebenedick
+   Original line: Eric Benedick Assistant Women's Basketball Coach ebenedick@nmhu.edu
+
+7. Bob DeVries
+   Email: rdevries@nmhu.edu
+   Username: rdevries
+   Original line: Bob DeVries Head Cross Country and Track Coach rdevries@nmhu.edu (505) 454-
+
+8. Kurt Taufa'asau
+   Email: kurt@nmhu.edu
+   Username: kurt
+   Original line: Kurt Taufa'asau Head Football Coach/ Defensive Coordinator / kurt@nmhu.edu
+
+9. Robert Rodriguez
+   Email: rjrodriguez@nmhu.edu
+   Username: rjrodriguez
+   Original line: Robert Rodriguez Assistant Head Coach/Offensive Line rjrodriguez@nmhu.edu
+
+10. Amanda Evans
+   Email: amevans@nmhu.edu
+   Username: amevans
+   Original line: Amanda Evans Head Women's Soccer Coach amevans@nmhu.edu
+
+11. Anthony Evans
+   Email: anthonyevans@nmhu.edu
+   Username: anthonyevans
+   Original line: Anthony Evans Assistant Soccer Coach anthonyevans@nmhu.edu
+
+12. Kali Pugh
+   Email: kali@nmhu.edu
+   Username: kali
+   Original line: Kali Pugh Head Softball Coach kali@nmhu.edu
+
+13. Alexis Fleischer
+   Email: afleischer@nmhu.edu
+   Username: afleischer
+   Original line: Alexis Fleischer Assistant Softball Coach afleischer@nmhu.edu
+
+14. Bob DeVries
+   Email: rdevries@nmhu.edu
+   Username: rdevries
+   Original line: Bob DeVries Head Cross Country and Track Coach rdevries@nmhu.edu (505) 454-
+
+15. Meg Grose
+   Email: meggrose@nmhu.edu
+   Username: meggrose
+   Original line: Meg Grose Head Volleyball Coach meggrose@nmhu.edu
+
+16. Cody Cartisser
+   Email: cody@nmhu.edu
+   Username: cody
+   Original line: Cody Cartisser Assistant Volleyball Coach cody@nmhu.edu
+
+17. Chris Freije
+   Email: cfreije@nmhu.edu
+   Username: cfreije
+   Original line: Chris Freije Head Wrestling Coach cfreije@nmhu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Steve Jones Head Baseball Coach smjones@nmhu.edu
+• Austen King Assistant Baseball Coach aking17@live.nmhu.edu
+• Zach Settembre Head Men's Basketball Coach zach@nmhu.edu
+• Noah Breitenstein Assistant Men's Basketball Coach noah.breitenstein@nmhu.edu
+• Lindsey Fearing Head Women's Basketball Coach lfearing@nmhu.edu
+• Eric Benedick Assistant Women's Basketball Coach ebenedick@nmhu.edu
+• Bob DeVries Head Cross Country and Track Coach rdevries@nmhu.edu (505) 454-
+• Kurt Taufa'asau Head Football Coach/ Defensive Coordinator / kurt@nmhu.edu
+• Robert Rodriguez Assistant Head Coach/Offensive Line rjrodriguez@nmhu.edu
+• Amanda Evans Head Women's Soccer Coach amevans@nmhu.edu
+• Anthony Evans Assistant Soccer Coach anthonyevans@nmhu.edu
+• Kali Pugh Head Softball Coach kali@nmhu.edu
+• Alexis Fleischer Assistant Softball Coach afleischer@nmhu.edu
+• Bob DeVries Head Cross Country and Track Coach rdevries@nmhu.edu (505) 454-
+• Meg Grose Head Volleyball Coach meggrose@nmhu.edu
+• Cody Cartisser Assistant Volleyball Coach cody@nmhu.edu
+• Chris Freije Head Wrestling Coach cfreije@nmhu.edu

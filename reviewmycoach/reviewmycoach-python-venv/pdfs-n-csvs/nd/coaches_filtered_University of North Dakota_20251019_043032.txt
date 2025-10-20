@@ -1,0 +1,314 @@
+COACH ENTRIES FOUND - 2025-10-19 04:30:32
+============================================================
+
+Total coaches found: 44
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tariq Beach
+   Email: tariq.beach@und.edu
+   Username: tariq.beach
+   Original line: Tariq Beach Strength & Conditioning Graduate Assistant Coach tariq.beach@und.edu
+
+2. Paul Sather
+   Email: paul.sather@und.edu
+   Username: paul.sather
+   Phone: 701.777.3478
+   Original line: Paul Sather Head Coach 701.777.3478 paul.sather@und.edu
+
+3. Jamie Stevens
+   Email: james.t.stevens@und.edu
+   Username: james.t.stevens
+   Phone: 701.777.2976
+   Original line: Jamie Stevens Assistant Coach 701.777.2976 james.t.stevens@und.edu
+
+4. Ty Danielson
+   Email: Tyler.joe.danielson@und.edu
+   Username: Tyler.joe.danielson
+   Original line: Ty Danielson Assistant Coach 701-317- Tyler.joe.danielson@und.edu
+
+5. Estevan Sandoval
+   Email: estevan.sandoval@und.edu
+   Username: estevan.sandoval
+   Phone: 701.777.3492
+   Original line: Estevan Sandoval Assistant Coach 701.777.3492 estevan.sandoval@und.edu
+
+6. Dennis Hutter
+   Email: dennis.hutter@und.edu
+   Username: dennis.hutter
+   Phone: 701.430.9018
+   Original line: Dennis Hutter Head Coach 701.430.9018 dennis.hutter@und.edu
+
+7. Alex Kladis
+   Email: alex.kladis@und.edu
+   Username: alex.kladis
+   Phone: 701.777.3253
+   Original line: Alex Kladis Assistant Coach 701.777.3253 alex.kladis@und.edu
+
+8. Andi Gayner
+   Email: andi.gayner@und.edu
+   Username: andi.gayner
+   Phone: 701.213.0678
+   Original line: Andi Gayner Assistant Coach 701.213.0678 andi.gayner@und.edu
+
+9. Claire Canahuate
+   Email: claire.canahuate@und.edu
+   Username: claire.canahuate
+   Original line: Claire Canahuate Assistant Coach 701-864- claire.canahuate@und.edu
+
+10. Eric Schmidt
+   Email: eric.schmidt@und.edu
+   Username: eric.schmidt
+   Phone: 701.777.3176
+   Original line: Eric Schmidt Head Coach 701.777.3176 eric.schmidt@und.edu
+
+11. Isaac Fruechte
+   Email: isaac.fruechte@und.edu
+   Username: isaac.fruechte
+   Phone: 701.777.3176
+   Original line: Isaac Fruechte Assistant Coach/Offensive Coordinator/Quarterbacks 701.777.3176 isaac.fruechte@und.edu
+
+12. Gordie Haug
+   Email: gordie.haug@und.edu
+   Username: gordie.haug
+   Phone: 701.777.3176
+   Original line: Gordie Haug Assistant Head Coach/Tight Ends 701.777.3176 gordie.haug@und.edu
+
+13. Shawn Kostich
+   Email: shawn.kostich@und.edu
+   Username: shawn.kostich
+   Phone: 701.777.3176
+   Original line: Shawn Kostich Assistant Coach/Special Teams Coordinator/Nickels 701.777.3176 shawn.kostich@und.edu
+
+14. Trevor Olson
+   Email: trevor.d.olson@und.edu
+   Username: trevor.d.olson
+   Phone: 701.777.3176
+   Original line: Trevor Olson Assistant Coach/Offensive Line 701.777.3176 trevor.d.olson@und.edu
+
+15. Travis Stepps
+   Email: travis.stepps@und.edu
+   Username: travis.stepps
+   Phone: 701.777.3176
+   Original line: Travis Stepps Assistant Coach/Defensive Backs 701.777.3176 travis.stepps@und.edu
+
+16. Jon Anderson
+   Email: jon.d.anderson@und.edu
+   Username: jon.d.anderson
+   Phone: 701.777.3176
+   Original line: Jon Anderson Assistant Coach/Edges 701.777.3176 jon.d.anderson@und.edu
+
+17. Keaton Wilkerson
+   Email: keaton.wilkerson@und.edu
+   Username: keaton.wilkerson
+   Phone: 701.777.3176
+   Original line: Keaton Wilkerson Assistant Coach/Safeties 701.777.3176 keaton.wilkerson@und.edu
+
+18. Malik Bradshaw
+   Email: malik.bradshaw@und.edu
+   Username: malik.bradshaw
+   Phone: 701.777.3176
+   Original line: Malik Bradshaw Assistant Coach/Wide Receivers 701.777.3176 malik.bradshaw@und.edu
+
+19. Ben Watkins
+   Email: benjamin.m.watkins@und.edu
+   Username: benjamin.m.watkins
+   Phone: 701.777.3176
+   Original line: Ben Watkins Assistant Coach/Linebackers 701.777.3176 benjamin.m.watkins@und.edu
+
+20. Tyson Maeva
+   Email: tyson.maeva@und.edu
+   Username: tyson.maeva
+   Phone: 701.777.3176
+   Original line: Tyson Maeva Assistant Coach/Defensive Line 701.777.3176 tyson.maeva@und.edu
+
+21. D.J. Davis
+   Email: dalphon.davis@und.edu
+   Username: dalphon.davis
+   Phone: 701.777.3176
+   Original line: D.J. Davis Assistant Coach/Running Backs 701.777.3176 dalphon.davis@und.edu
+
+22. Todd Schaefer
+   Email: todd.schaefer@und.edu
+   Username: todd.schaefer
+   Phone: 701.317.1120
+   Original line: Todd Schaefer Head Men's Coach 701.317.1120 todd.schaefer@und.edu
+
+23. Kris Kroetsch
+   Email: kristoffer.kroetsch@und.edu
+   Username: kristoffer.kroetsch
+   Phone: 701.314.9584
+   Original line: Kris Kroetsch Head Women's Coach 701.314.9584 kristoffer.kroetsch@und.edu
+
+24. Dane Jackson
+   Email: dane.jackson@und.edu
+   Username: dane.jackson
+   Phone: 701.777.3103
+   Original line: Dane Jackson Head Coach 701.777.3103 dane.jackson@und.edu
+
+25. Matt Smaby
+   Email: matthew.smaby@und.edu
+   Username: matthew.smaby
+   Phone: 701.777.3103
+   Original line: Matt Smaby Associate Head Coach 701.777.3103 matthew.smaby@und.edu
+
+26. Dillon Simpson
+   Email: dillon.simpson@und.edu
+   Username: dillon.simpson
+   Phone: 701.777.3103
+   Original line: Dillon Simpson Assistant Coach 701.777.3103 dillon.simpson@und.edu
+
+27. Henrik Sohn
+   Email: henrik.sohn@und.edu
+   Username: henrik.sohn
+   Phone: 701.777.2987
+   Original line: Henrik Sohn Head Coach 701.777.2987 henrik.sohn@und.edu
+
+28. Nicole Randall
+   Email: nicole.randall@und.edu
+   Username: nicole.randall
+   Phone: 701.777.3684
+   Original line: Nicole Randall Associate Head Coach 701.777.3684 nicole.randall@und.edu
+
+29. Cameron Hunter
+   Email: cameron.c.hunter@und.edu
+   Username: cameron.c.hunter
+   Phone: 701.777.3684
+   Original line: Cameron Hunter Assistant Coach 701.777.3684 cameron.c.hunter@und.edu
+
+30. Jordan Stevens
+   Email: jordan.a.stevens@und.edu
+   Username: jordan.a.stevens
+   Phone: 701.777.4952
+   Original line: Jordan Stevens Head Coach 701.777.4952 jordan.a.stevens@und.edu
+
+31. Michaela Paper
+   Email: michaela.paper@und.edu
+   Username: michaela.paper
+   Phone: 701.317.2566
+   Original line: Michaela Paper Assistant Coach 701.317.2566 michaela.paper@und.edu
+
+32. Madison Pederson
+   Email: madison.pederson@und.edu
+   Username: madison.pederson
+   Phone: 701.317.2656
+   Original line: Madison Pederson Assistant Coach 701.317.2656 madison.pederson@und.edu
+
+33. Dani Thompson
+   Email: danielle.thompson@und.edu
+   Username: danielle.thompson
+   Phone: 701.777.3037
+   Original line: Dani Thompson Cheer Team, Head Coach 701.777.3037 danielle.thompson@und.edu
+
+34. Katelin Madsen
+   Email: madsenkatelin@gmail.com
+   Username: madsenkatelin
+   Original line: Katelin Madsen Dance Team, Head Coach madsenkatelin@gmail.com
+
+35. Amanda Lilleberg
+   Email: amandalilleberg.j@gmail.com
+   Username: amandalilleberg.j
+   Original line: Amanda Lilleberg Head Hockey Cheer Coach amandalilleberg.j@gmail.com
+
+36. Tom Boysen
+   Email: thomas.boysen@und.edu
+   Username: thomas.boysen
+   Phone: 615.310.2535
+   Original line: Tom Boysen Head Coach 615.310.2535 thomas.boysen@und.edu
+
+37. Kyle Anderson
+   Email: kyle.c.anderson@und.edu
+   Username: kyle.c.anderson
+   Phone: 701.777.2234
+   Original line: Kyle Anderson Associate Head Coach 701.777.2234 kyle.c.anderson@und.edu
+
+38. Jim Vahrenkamp
+   Email: james.vahrenkamp@und.edu
+   Username: james.vahrenkamp
+   Phone: 701.777.2361
+   Original line: Jim Vahrenkamp Head Coach - Track & Field 701.777.2361 james.vahrenkamp@und.edu
+
+39. Tom Scott
+   Email: Thomas.Scott.1@und.edu
+   Username: Thomas.Scott.1
+   Phone: 419.302.3249
+   Original line: Tom Scott Head Coach - Cross Country/Assistant Coach - 419.302.3249 Thomas.Scott.1@und.edu
+
+40. Elijah Talk
+   Email: elijah.talk@und.edu
+   Username: elijah.talk
+   Phone: 701.777.0446
+   Original line: Elijah Talk Assistant Coach - Throws 701.777.0446 elijah.talk@und.edu
+
+41. Molly Jones
+   Email: molly.vahrenkamp@und.edu
+   Username: molly.vahrenkamp
+   Phone: 701.777.2973
+   Original line: Molly Jones Vahrenkamp Assistant Coach - Sprints/Jumps 701.777.2973 molly.vahrenkamp@und.edu
+
+42. Jesse Tupac
+   Email: Jesse.tupac@und.edu
+   Username: Jesse.tupac
+   Phone: 701.777.2351
+   Original line: Jesse Tupac Head Coach 701.777.2351 Jesse.tupac@und.edu
+
+43. Kristen Tupac
+   Email: kristen.tupac@und.edu
+   Username: kristen.tupac
+   Phone: 701.777.4577
+   Original line: Kristen Tupac Assistant Coach/Recruiting Coordinator 701.777.4577 kristen.tupac@und.edu
+
+44. Matt Breitbarth
+   Email: matthew.breitbarth@und.edu
+   Username: matthew.breitbarth
+   Phone: 708.380.0185
+   Original line: Matt Breitbarth Assistant Coach 708.380.0185 matthew.breitbarth@und.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tariq Beach Strength & Conditioning Graduate Assistant Coach tariq.beach@und.edu
+• Paul Sather Head Coach 701.777.3478 paul.sather@und.edu
+• Jamie Stevens Assistant Coach 701.777.2976 james.t.stevens@und.edu
+• Ty Danielson Assistant Coach 701-317- Tyler.joe.danielson@und.edu
+• Estevan Sandoval Assistant Coach 701.777.3492 estevan.sandoval@und.edu
+• Dennis Hutter Head Coach 701.430.9018 dennis.hutter@und.edu
+• Alex Kladis Assistant Coach 701.777.3253 alex.kladis@und.edu
+• Andi Gayner Assistant Coach 701.213.0678 andi.gayner@und.edu
+• Claire Canahuate Assistant Coach 701-864- claire.canahuate@und.edu
+• Eric Schmidt Head Coach 701.777.3176 eric.schmidt@und.edu
+• Isaac Fruechte Assistant Coach/Offensive Coordinator/Quarterbacks 701.777.3176 isaac.fruechte@und.edu
+• Gordie Haug Assistant Head Coach/Tight Ends 701.777.3176 gordie.haug@und.edu
+• Shawn Kostich Assistant Coach/Special Teams Coordinator/Nickels 701.777.3176 shawn.kostich@und.edu
+• Trevor Olson Assistant Coach/Offensive Line 701.777.3176 trevor.d.olson@und.edu
+• Travis Stepps Assistant Coach/Defensive Backs 701.777.3176 travis.stepps@und.edu
+• Jon Anderson Assistant Coach/Edges 701.777.3176 jon.d.anderson@und.edu
+• Keaton Wilkerson Assistant Coach/Safeties 701.777.3176 keaton.wilkerson@und.edu
+• Malik Bradshaw Assistant Coach/Wide Receivers 701.777.3176 malik.bradshaw@und.edu
+• Ben Watkins Assistant Coach/Linebackers 701.777.3176 benjamin.m.watkins@und.edu
+• Tyson Maeva Assistant Coach/Defensive Line 701.777.3176 tyson.maeva@und.edu
+• D.J. Davis Assistant Coach/Running Backs 701.777.3176 dalphon.davis@und.edu
+• Todd Schaefer Head Men's Coach 701.317.1120 todd.schaefer@und.edu
+• Kris Kroetsch Head Women's Coach 701.314.9584 kristoffer.kroetsch@und.edu
+• Dane Jackson Head Coach 701.777.3103 dane.jackson@und.edu
+• Matt Smaby Associate Head Coach 701.777.3103 matthew.smaby@und.edu
+• Dillon Simpson Assistant Coach 701.777.3103 dillon.simpson@und.edu
+• Henrik Sohn Head Coach 701.777.2987 henrik.sohn@und.edu
+• Nicole Randall Associate Head Coach 701.777.3684 nicole.randall@und.edu
+• Cameron Hunter Assistant Coach 701.777.3684 cameron.c.hunter@und.edu
+• Jordan Stevens Head Coach 701.777.4952 jordan.a.stevens@und.edu
+• Michaela Paper Assistant Coach 701.317.2566 michaela.paper@und.edu
+• Madison Pederson Assistant Coach 701.317.2656 madison.pederson@und.edu
+• Dani Thompson Cheer Team, Head Coach 701.777.3037 danielle.thompson@und.edu
+• Katelin Madsen Dance Team, Head Coach madsenkatelin@gmail.com
+• Amanda Lilleberg Head Hockey Cheer Coach amandalilleberg.j@gmail.com
+• Tom Boysen Head Coach 615.310.2535 thomas.boysen@und.edu
+• Kyle Anderson Associate Head Coach 701.777.2234 kyle.c.anderson@und.edu
+• Jim Vahrenkamp Head Coach - Track & Field 701.777.2361 james.vahrenkamp@und.edu
+• Tom Scott Head Coach - Cross Country/Assistant Coach - 419.302.3249 Thomas.Scott.1@und.edu
+• Elijah Talk Assistant Coach - Throws 701.777.0446 elijah.talk@und.edu
+• Molly Jones Vahrenkamp Assistant Coach - Sprints/Jumps 701.777.2973 molly.vahrenkamp@und.edu
+• Jesse Tupac Head Coach 701.777.2351 Jesse.tupac@und.edu
+• Kristen Tupac Assistant Coach/Recruiting Coordinator 701.777.4577 kristen.tupac@und.edu
+• Matt Breitbarth Assistant Coach 708.380.0185 matthew.breitbarth@und.edu

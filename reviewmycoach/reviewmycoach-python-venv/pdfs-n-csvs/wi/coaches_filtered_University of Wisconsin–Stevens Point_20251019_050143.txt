@@ -1,0 +1,239 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:43
+============================================================
+
+Total coaches found: 38
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nat Richter
+   Email: nrichter@uwsp.edu
+   Username: nrichter
+   Original line: Nat Richter Head Baseball Coach nrichter@uwsp.edu 920-471-
+
+2. Corey Opper
+   Email: Corey.Opper@uwsp.edu
+   Username: Corey.Opper
+   Original line: Corey Opper Assistant Coach/Recruiting Corey.Opper@uwsp.edu
+
+3. Zack Haupt
+   Email: zhaupt@uwsp.edu
+   Username: zhaupt
+   Original line: Zack Haupt Assistant Coach/Recruiting zhaupt@uwsp.edu
+
+4. Kent Dernbach
+   Email: kent.dernbach@uwsp.edu
+   Username: kent.dernbach
+   Original line: Kent Dernbach Head Men's Basketball Coach kent.dernbach@uwsp.edu
+
+5. Paul Combs
+   Email: pcombs@uwsp.edu
+   Username: pcombs
+   Original line: Paul Combs Assistant Coach pcombs@uwsp.edu
+
+6. Eddie Goldston
+   Email: egoldsto@uwsp.edu
+   Username: egoldsto
+   Original line: Eddie Goldston Assistant Coach egoldsto@uwsp.edu
+
+7. Matt Hockett
+   Email: mhockett@uwsp.edu
+   Username: mhockett
+   Original line: Matt Hockett Head Women's Basketball Coach mhockett@uwsp.edu
+
+8. Leah Earnest
+   Email: learnest@uwsp.edu
+   Username: learnest
+   Original line: Leah Earnest Assistant Coach learnest@uwsp.edu
+
+9. Bruce Williams
+   Email: brwillia@uwsp.edu
+   Username: brwillia
+   Original line: Bruce Williams Assistant Coach brwillia@uwsp.edu
+
+10. Thomas Bambach
+   Email: tbambach@uwsp.edu
+   Username: tbambach
+   Original line: Thomas Bambach Head Cross Country Coach tbambach@uwsp.edu
+
+11. Luke Venne
+   Email: lvenne@uwsp.edu
+   Username: lvenne
+   Original line: Luke Venne Head Football Coach lvenne@uwsp.edu 920-410- @CoachVenne
+
+12. Austin Archer
+   Email: aarcher@uwsp.edu
+   Username: aarcher
+   Original line: Austin Archer Assistant Coach (OC) aarcher@uwsp.edu 740-973- @CoachAArcher
+
+13. Trent LaCombe
+   Email: tlacombe@uwsp.edu
+   Username: tlacombe
+   Original line: Trent LaCombe Assistant Coach (S) tlacombe@uwsp.edu 920-609- @coach_lacombe
+
+14. Shaun Behrend
+   Email: sbehrend@uwsp.edu
+   Username: sbehrend
+   Original line: Shaun Behrend Assistant Coach sbehrend@uwsp.edu
+
+15. Tyler Krueger
+   Email: Tyler.Krueger@uwsp.edu
+   Username: Tyler.Krueger
+   Original line: Tyler Krueger Men's Hockey Head Coach Tyler.Krueger@uwsp.edu 715-346-
+
+16. Joey Haydock
+   Email: jhaydock@uwsp.edu
+   Username: jhaydock
+   Original line: Joey Haydock Assistant Coach jhaydock@uwsp.edu
+
+17. Ann Ninnemann
+   Email: aninnema@uwsp.edu
+   Username: aninnema
+   Original line: Ann Ninnemann Head Women's Hockey Coach aninnema@uwsp.edu 715-346- UWSPWHockey
+
+18. Craig Dakins
+   Email: cdakins@uwsp.edu
+   Username: cdakins
+   Original line: Craig Dakins Assistant Women's Hockey Coach cdakins@uwsp.edu
+
+19. Katie Lindsley
+   Email: klindsle@uwsp.edu
+   Username: klindsle
+   Original line: Katie Lindsley Assistant Women's Hockey Coach klindsle@uwsp.edu
+
+20. Katie Lindsley
+   Email: klindsle@uwsp.edu
+   Username: klindsle
+   Original line: Katie Lindsley Head Women's Lacrosse Coach klindsle@uwsp.edu
+
+21. Jordan Kayser
+   Email: jkayser@uwsp.edu
+   Username: jkayser
+   Original line: Jordan Kayser Head Men's Soccer Coach jkayser@uwsp.edu 715-346-
+
+22. Dawn Crow
+   Email: Dawn.Crow@uwsp.edu
+   Username: Dawn.Crow
+   Original line: Dawn Crow Head Women's Soccer Coach Dawn.Crow@uwsp.edu 972-838- UWSPsoccer
+
+23. Cory Bougie
+   Email: cbougie@uwsp.edu
+   Username: cbougie
+   Original line: Cory Bougie Assistant Coach/Equipment Manager cbougie@uwsp.edu
+
+24. Ryan Konitzer
+   Email: Ryan.Konitzer@uwsp.edu
+   Username: Ryan.Konitzer
+   Original line: Ryan Konitzer Head Softball Coach Ryan.Konitzer@uwsp.edu 920-680-
+
+25. Elizabeth Malarski
+   Email: emalarsk@uwsp.edu
+   Username: emalarsk
+   Original line: Elizabeth Malarski Assistant Coach emalarsk@uwsp.edu
+
+26. Beckett McGraw
+   Email: bmcgraw@uwsp.edu
+   Username: bmcgraw
+   Original line: Beckett McGraw Assistant Coach bmcgraw@uwsp.edu
+
+27. Sara Schierl
+   Email: sschierl@uwsp.edu
+   Username: sschierl
+   Original line: Sara Schierl Head Diving Coach sschierl@uwsp.edu
+
+28. Brett Witt
+   Email: Brett.Witt@uwsp.edu
+   Username: Brett.Witt
+   Original line: Brett Witt Head Track & Field Coach Brett.Witt@uwsp.edu UWSPtrackXC
+
+29. Matt Sonnenberg
+   Email: msonnenb@uwsp.edu
+   Username: msonnenb
+   Original line: Matt Sonnenberg Assistant Coach - Throws msonnenb@uwsp.edu
+
+30. Aaron Wickman
+   Email: aaronrwickman@gmail.com
+   Username: aaronrwickman
+   Original line: Aaron Wickman Assistant Coach aaronrwickman@gmail.com
+
+31. Bryce Bierman
+   Email: bbierman@uwsp.edu
+   Username: bbierman
+   Original line: Bryce Bierman Assistant Coach (High Jump) bbierman@uwsp.edu
+
+32. Cade Ellenbecker
+   Email: cellenbe@uwsp.edu
+   Username: cellenbe
+   Original line: Cade Ellenbecker Assistant Coach (Pole Vault) cellenbe@uwsp.edu
+
+33. Philippe Abiad
+   Email: pabiad@uwsp.edu
+   Username: pabiad
+   Original line: Philippe Abiad Head Men's Volleyball Coach pabiad@uwsp.edu 715-346-
+
+34. Gabby Johnson
+   Email: gajohnso@uwsp.edu
+   Username: gajohnso
+   Original line: Gabby Johnson Assistant Coach gajohnso@uwsp.edu
+
+35. Lyndsay Klapper
+   Email: LKlapper@uwsp.edu
+   Username: LKlapper
+   Original line: Lyndsay Klapper Head Volleyball Coach LKlapper@uwsp.edu 715-346-
+
+36. Molly Stock
+   Email: mstock@uwsp.edu
+   Username: mstock
+   Original line: Molly Stock Assistant Coach mstock@uwsp.edu
+
+37. Jake Wozniak
+   Email: Jake.Wozniak@uwsp.edu
+   Username: Jake.Wozniak
+   Original line: Jake Wozniak Head Women's Coach/Associate Jake.Wozniak@uwsp.edu 715-346-
+
+38. Jake Wozniak
+   Email: Jake.Wozniak@uwsp.edu
+   Username: Jake.Wozniak
+   Original line: Jake Wozniak Head Women's Coach/Associate Jake.Wozniak@uwsp.edu 715-346-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Nat Richter Head Baseball Coach nrichter@uwsp.edu 920-471-
+• Corey Opper Assistant Coach/Recruiting Corey.Opper@uwsp.edu
+• Zack Haupt Assistant Coach/Recruiting zhaupt@uwsp.edu
+• Kent Dernbach Head Men's Basketball Coach kent.dernbach@uwsp.edu
+• Paul Combs Assistant Coach pcombs@uwsp.edu
+• Eddie Goldston Assistant Coach egoldsto@uwsp.edu
+• Matt Hockett Head Women's Basketball Coach mhockett@uwsp.edu
+• Leah Earnest Assistant Coach learnest@uwsp.edu
+• Bruce Williams Assistant Coach brwillia@uwsp.edu
+• Thomas Bambach Head Cross Country Coach tbambach@uwsp.edu
+• Luke Venne Head Football Coach lvenne@uwsp.edu 920-410- @CoachVenne
+• Austin Archer Assistant Coach (OC) aarcher@uwsp.edu 740-973- @CoachAArcher
+• Trent LaCombe Assistant Coach (S) tlacombe@uwsp.edu 920-609- @coach_lacombe
+• Shaun Behrend Assistant Coach sbehrend@uwsp.edu
+• Tyler Krueger Men's Hockey Head Coach Tyler.Krueger@uwsp.edu 715-346-
+• Joey Haydock Assistant Coach jhaydock@uwsp.edu
+• Ann Ninnemann Head Women's Hockey Coach aninnema@uwsp.edu 715-346- UWSPWHockey
+• Craig Dakins Assistant Women's Hockey Coach cdakins@uwsp.edu
+• Katie Lindsley Assistant Women's Hockey Coach klindsle@uwsp.edu
+• Katie Lindsley Head Women's Lacrosse Coach klindsle@uwsp.edu
+• Jordan Kayser Head Men's Soccer Coach jkayser@uwsp.edu 715-346-
+• Dawn Crow Head Women's Soccer Coach Dawn.Crow@uwsp.edu 972-838- UWSPsoccer
+• Cory Bougie Assistant Coach/Equipment Manager cbougie@uwsp.edu
+• Ryan Konitzer Head Softball Coach Ryan.Konitzer@uwsp.edu 920-680-
+• Elizabeth Malarski Assistant Coach emalarsk@uwsp.edu
+• Beckett McGraw Assistant Coach bmcgraw@uwsp.edu
+• Sara Schierl Head Diving Coach sschierl@uwsp.edu
+• Brett Witt Head Track & Field Coach Brett.Witt@uwsp.edu UWSPtrackXC
+• Matt Sonnenberg Assistant Coach - Throws msonnenb@uwsp.edu
+• Aaron Wickman Assistant Coach aaronrwickman@gmail.com
+• Bryce Bierman Assistant Coach (High Jump) bbierman@uwsp.edu
+• Cade Ellenbecker Assistant Coach (Pole Vault) cellenbe@uwsp.edu
+• Philippe Abiad Head Men's Volleyball Coach pabiad@uwsp.edu 715-346-
+• Gabby Johnson Assistant Coach gajohnso@uwsp.edu
+• Lyndsay Klapper Head Volleyball Coach LKlapper@uwsp.edu 715-346-
+• Molly Stock Assistant Coach mstock@uwsp.edu
+• Jake Wozniak Head Women's Coach/Associate Jake.Wozniak@uwsp.edu 715-346-
+• Jake Wozniak Head Women's Coach/Associate Jake.Wozniak@uwsp.edu 715-346-

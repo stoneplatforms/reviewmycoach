@@ -1,0 +1,347 @@
+COACH ENTRIES FOUND - 2025-10-04 18:13:51
+============================================================
+
+Total coaches found: 56
+
+PARSED ENTRIES:
+----------------------------------------
+1. Michelle McCarty
+   Email: m.mccarty@snhu.edu
+   Username: m.mccarty
+   Original line: Michelle McCarty Head Cheerleading Coach & Marketing Director m.mccarty@snhu.edu (603) 645-
+
+2. Dan Geist
+   Email: d.geist@snhu.edu
+   Username: d.geist
+   Original line: Dan Geist Head Strength and Conditioning Coach d.geist@snhu.edu
+
+3. Will Schoolcraft
+   Email: w.schoolcraft@snhu.edu
+   Username: w.schoolcraft
+   Original line: Will Schoolcraft Assistant Strength and Conditioning Coach w.schoolcraft@snhu.edu
+
+4. Chris Shank
+   Email: c.shank1@snhu.edu
+   Username: c.shank1
+   Original line: Chris Shank Head Baseball Coach c.shank1@snhu.edu (603) 645-
+
+5. Pat Austin
+   Email: p.austin@snhu.edu
+   Username: p.austin
+   Original line: Pat Austin Associate Head Baseball Coach p.austin@snhu.edu (603) 645-
+
+6. Charlie Fletcher
+   Email: c.fletcher2@snhu.edu
+   Username: c.fletcher2
+   Original line: Charlie Fletcher Baseball Pitching Coach c.fletcher2@snhu.edu
+
+7. Karen Pinkos
+   Email: k.pinkos@snhu.edu
+   Username: k.pinkos
+   Original line: Karen Pinkos Head Women's Basketball Coach k.pinkos@snhu.edu (603) 645-
+
+8. Josh Clemens
+   Email: j.clemens@snhu.edu
+   Username: j.clemens
+   Original line: Josh Clemens Assistant Women's Basketball Coach j.clemens@snhu.edu (603) 769-
+
+9. Elissa Chojnicki
+   Email: e.chojnicki@snhu.edu
+   Username: e.chojnicki
+   Original line: Elissa Chojnicki Assistant Women's Basketball Coach e.chojnicki@snhu.edu
+
+10. Jack Perri
+   Email: j.perri@snhu.edu
+   Username: j.perri
+   Original line: Jack Perri Head Men's Basketball Coach j.perri@snhu.edu (603) 645-
+
+11. David Steckel
+   Email: d.steckel@snhu.edu
+   Username: d.steckel
+   Original line: David Steckel Assistant Men's Basketball Coach d.steckel@snhu.edu (603) 626-
+
+12. Michelle McCarty
+   Email: m.mccarty@snhu.edu
+   Username: m.mccarty
+   Original line: Michelle McCarty Head Cheerleading Coach & Marketing Director m.mccarty@snhu.edu (603) 645-
+
+13. Ben King
+   Email: b.king4@snhu.edu
+   Username: b.king4
+   Original line: Ben King Assistant Cheerleading Coach b.king4@snhu.edu
+
+14. Destyne Greenwood
+   Email: d.greenwood1@snhu.edu
+   Username: d.greenwood1
+   Original line: Destyne Greenwood Assistant Cheerleading Coach d.greenwood1@snhu.edu
+
+15. Kelly Vincent
+   Email: k.vincent@snhu.edu
+   Username: k.vincent
+   Original line: Kelly Vincent Head Coach Cross Country/ Assistant Coach Women’s Track and Field k.vincent@snhu.edu
+
+16. Tasha Becker
+   Email: t.becker1@snhu.edu
+   Username: t.becker1
+   Original line: Tasha Becker Assistant Cross Country and Track & Field Coach t.becker1@snhu.edu
+
+17. Aaron Brown
+   Email: a.brown5@snhu.edu
+   Username: a.brown5
+   Original line: Aaron Brown Rocket League Coach a.brown5@snhu.edu
+
+18. Robert Wiemer
+   Email: r.wiemer@snhu.edu
+   Username: r.wiemer
+   Original line: Robert Wiemer Content Manager/Coach r.wiemer@snhu.edu
+
+19. Tim Duffy
+   Email: t.duffy@snhu.edu
+   Username: t.duffy
+   Original line: Tim Duffy Esports Coach t.duffy@snhu.edu
+
+20. Josh Williams
+   Email: j.williams26@snhu.edu
+   Username: j.williams26
+   Original line: Josh Williams Esports Coach j.williams26@snhu.edu
+
+21. Ethan Bennikutty
+   Email: e.bennikutty@snhu.edu
+   Username: e.bennikutty
+   Original line: Ethan Bennikutty Esports Coach e.bennikutty@snhu.edu
+
+22. Harrison Greer
+   Email: h.greer@snhu.edu
+   Username: h.greer
+   Original line: Harrison Greer Esports Coach h.greer@snhu.edu
+
+23. Julie Munson
+   Email: j.munson@snhu.edu
+   Username: j.munson
+   Original line: Julie Munson Head Field Hockey Coach j.munson@snhu.edu (603) 645-
+
+24. Jenna Tanguay
+   Email: j.deschaine@snhu.edu
+   Username: j.deschaine
+   Original line: Jenna Tanguay Assistant Field Hockey Coach j.deschaine@snhu.edu
+
+25. Megan Bozek
+   Email: m.bozek@snhu.edu
+   Username: m.bozek
+   Original line: Megan Bozek Cuthbertson Assistant Field Hockey Coach m.bozek@snhu.edu
+
+26. Cam Whelan
+   Email: c.whelan1@snhu.edu
+   Username: c.whelan1
+   Original line: Cam Whelan Assistant Field Hockey Coach c.whelan1@snhu.edu
+
+27. Matt Arvanitis
+   Email: m.arvanitis@snhu.edu
+   Username: m.arvanitis
+   Original line: Matt Arvanitis Head Men's Golf Coach m.arvanitis@snhu.edu (603) 785-
+
+28. Travis Scheyd
+   Email: t.scheyd@snhu.edu
+   Username: t.scheyd
+   Original line: Travis Scheyd Assistant Men's Golf Coach t.scheyd@snhu.edu
+
+29. Sean Walsh
+   Email: s.walsh3@snhu.edu
+   Username: s.walsh3
+   Original line: Sean Walsh Head Ice Hockey Coach s.walsh3@snhu.edu (603) 645-
+
+30. Matt Osgood
+   Email: m.osgood@snhu.edu
+   Username: m.osgood
+   Original line: Matt Osgood Assistant Ice Hockey Coach m.osgood@snhu.edu
+
+31. Chris Moquin
+   Email: c.moquin@snhu.edu
+   Username: c.moquin
+   Original line: Chris Moquin Assistant Ice Hockey Coach c.moquin@snhu.edu
+
+32. Shawn Olsten
+   Email: s.olsten@snhu.edu
+   Username: s.olsten
+   Original line: Shawn Olsten Assistant Ice Hockey Coach s.olsten@snhu.edu
+
+33. Carissa Medeiros
+   Email: c.medeiros1@snhu.edu
+   Username: c.medeiros1
+   Original line: Carissa Medeiros Head Women's Lacrosse Coach c.medeiros1@snhu.edu (603) 567-
+
+34. Katie Crowther
+   Email: kathleen.crowther@snhu.edu
+   Username: kathleen.crowther
+   Original line: Katie Crowther Assistant Women's Lacrosse Coach kathleen.crowther@snhu.edu
+
+35. Lexi Knapton
+   Email: a.knapton@snhu.edu
+   Username: a.knapton
+   Original line: Lexi Knapton Assistant Women's Lacrosse Coach a.knapton@snhu.edu
+
+36. Paul Calkins
+   Email: p.calkins@snhu.edu
+   Username: p.calkins
+   Original line: Paul Calkins Head Men's Lacrosse Coach p.calkins@snhu.edu (603) 645-
+
+37. Mike Forgione
+   Email: m.forgione@snhu.edu
+   Username: m.forgione
+   Original line: Mike Forgione Men's Lacrosse Goalie/Face-off Coach m.forgione@snhu.edu
+
+38. Elie Monteiro
+   Email: e.monteiro@snhu.edu
+   Username: e.monteiro
+   Original line: Elie Monteiro Head Women's Soccer Coach e.monteiro@snhu.edu (603) 645-
+
+39. Jamie Williams
+   Email: v.williams@snhu.edu
+   Username: v.williams
+   Original line: Jamie Williams Assistant Women's Soccer Coach v.williams@snhu.edu (603) 645-
+
+40. Shae Roys
+   Email: s.roys@snhu.edu
+   Username: s.roys
+   Original line: Shae Roys Assistant Women's Soccer Coach s.roys@snhu.edu
+
+41. Josh Taylor
+   Email: joshua.taylor@snhu.edu
+   Username: joshua.taylor
+   Original line: Josh Taylor Head Men's Soccer Coach joshua.taylor@snhu.edu (603) 645-
+
+42. Alex Satrustegui
+   Email: a.satrustegui@snhu.edu
+   Username: a.satrustegui
+   Original line: Alex Satrustegui Assistant Men's Soccer Coach a.satrustegui@snhu.edu
+
+43. Phil Tuttle
+   Email: p.tuttle2@snhu.edu
+   Username: p.tuttle2
+   Original line: Phil Tuttle Assistant Men's Soccer Coach p.tuttle2@snhu.edu (603) 314-
+
+44. Cooper Ribaudo
+   Email: c.ribaudo@snhu.edu
+   Username: c.ribaudo
+   Original line: Cooper Ribaudo Assistant Men's Soccer Coach c.ribaudo@snhu.edu
+
+45. Deb Robitaille
+   Email: d.robitaille@snhu.edu
+   Username: d.robitaille
+   Original line: Deb Robitaille Head Softball Coach d.robitaille@snhu.edu (603) 645-
+
+46. Morgan Fraitzl
+   Email: m.fraitzl@snhu.edu
+   Username: m.fraitzl
+   Original line: Morgan Fraitzl Assistant Softball Coach m.fraitzl@snhu.edu
+
+47. Kelsey Smith
+   Email: k.smith17@snhu.edu
+   Username: k.smith17
+   Original line: Kelsey Smith Assistant Softball Coach k.smith17@snhu.edu
+
+48. Greg Coache
+   Email: g.coache@snhu.edu
+   Username: g.coache
+   Original line: Greg Coache Head Men's/Women's Tennis Coach g.coache@snhu.edu (603) 645-
+
+49. Frank Campolo
+   Email: f.campolo@snhu.edu
+   Username: f.campolo
+   Original line: Frank Campolo Assistant Tennis Coach f.campolo@snhu.edu (603) 645-
+
+50. Marty Morrissey
+   Email: m.morrissey1@snhu.edu
+   Username: m.morrissey1
+   Original line: Marty Morrissey Assistant Tennis Coach m.morrissey1@snhu.edu
+
+51. Lynne Corson
+   Email: l.corson@snhu.edu
+   Username: l.corson
+   Original line: Lynne Corson Assistant Tennis Coach l.corson@snhu.edu
+
+52. Kelly Vincent
+   Email: k.vincent@snhu.edu
+   Username: k.vincent
+   Original line: Kelly Vincent Head Coach Cross Country/ Assistant Coach Women’s Track and Field k.vincent@snhu.edu
+
+53. Tasha Becker
+   Email: t.becker1@snhu.edu
+   Username: t.becker1
+   Original line: Tasha Becker Assistant Cross Country and Track & Field Coach t.becker1@snhu.edu
+
+54. Braden Zamore
+   Email: b.zamore@snhu.edu
+   Username: b.zamore
+   Original line: Braden Zamore Head Women's Volleyball Coach b.zamore@snhu.edu (603) 645-
+
+55. James Keane
+   Email: j.keane@snhu.edu
+   Username: j.keane
+   Original line: James Keane Assistant Women's Volleyball Coach j.keane@snhu.edu
+
+56. Caroline Belmontez
+   Email: c.belmontez@snhu.edu
+   Username: c.belmontez
+   Original line: Caroline Belmontez Assistant Women's Volleyball Coach c.belmontez@snhu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Michelle McCarty Head Cheerleading Coach & Marketing Director m.mccarty@snhu.edu (603) 645-
+• Dan Geist Head Strength and Conditioning Coach d.geist@snhu.edu
+• Will Schoolcraft Assistant Strength and Conditioning Coach w.schoolcraft@snhu.edu
+• Chris Shank Head Baseball Coach c.shank1@snhu.edu (603) 645-
+• Pat Austin Associate Head Baseball Coach p.austin@snhu.edu (603) 645-
+• Charlie Fletcher Baseball Pitching Coach c.fletcher2@snhu.edu
+• Karen Pinkos Head Women's Basketball Coach k.pinkos@snhu.edu (603) 645-
+• Josh Clemens Assistant Women's Basketball Coach j.clemens@snhu.edu (603) 769-
+• Elissa Chojnicki Assistant Women's Basketball Coach e.chojnicki@snhu.edu
+• Jack Perri Head Men's Basketball Coach j.perri@snhu.edu (603) 645-
+• David Steckel Assistant Men's Basketball Coach d.steckel@snhu.edu (603) 626-
+• Michelle McCarty Head Cheerleading Coach & Marketing Director m.mccarty@snhu.edu (603) 645-
+• Ben King Assistant Cheerleading Coach b.king4@snhu.edu
+• Destyne Greenwood Assistant Cheerleading Coach d.greenwood1@snhu.edu
+• Kelly Vincent Head Coach Cross Country/ Assistant Coach Women’s Track and Field k.vincent@snhu.edu
+• Tasha Becker Assistant Cross Country and Track & Field Coach t.becker1@snhu.edu
+• Aaron Brown Rocket League Coach a.brown5@snhu.edu
+• Robert Wiemer Content Manager/Coach r.wiemer@snhu.edu
+• Tim Duffy Esports Coach t.duffy@snhu.edu
+• Josh Williams Esports Coach j.williams26@snhu.edu
+• Ethan Bennikutty Esports Coach e.bennikutty@snhu.edu
+• Harrison Greer Esports Coach h.greer@snhu.edu
+• Julie Munson Head Field Hockey Coach j.munson@snhu.edu (603) 645-
+• Jenna Tanguay Assistant Field Hockey Coach j.deschaine@snhu.edu
+• Megan Bozek Cuthbertson Assistant Field Hockey Coach m.bozek@snhu.edu
+• Cam Whelan Assistant Field Hockey Coach c.whelan1@snhu.edu
+• Matt Arvanitis Head Men's Golf Coach m.arvanitis@snhu.edu (603) 785-
+• Travis Scheyd Assistant Men's Golf Coach t.scheyd@snhu.edu
+• Sean Walsh Head Ice Hockey Coach s.walsh3@snhu.edu (603) 645-
+• Matt Osgood Assistant Ice Hockey Coach m.osgood@snhu.edu
+• Chris Moquin Assistant Ice Hockey Coach c.moquin@snhu.edu
+• Shawn Olsten Assistant Ice Hockey Coach s.olsten@snhu.edu
+• Carissa Medeiros Head Women's Lacrosse Coach c.medeiros1@snhu.edu (603) 567-
+• Katie Crowther Assistant Women's Lacrosse Coach kathleen.crowther@snhu.edu
+• Lexi Knapton Assistant Women's Lacrosse Coach a.knapton@snhu.edu
+• Paul Calkins Head Men's Lacrosse Coach p.calkins@snhu.edu (603) 645-
+• Mike Forgione Men's Lacrosse Goalie/Face-off Coach m.forgione@snhu.edu
+• Elie Monteiro Head Women's Soccer Coach e.monteiro@snhu.edu (603) 645-
+• Jamie Williams Assistant Women's Soccer Coach v.williams@snhu.edu (603) 645-
+• Shae Roys Assistant Women's Soccer Coach s.roys@snhu.edu
+• Josh Taylor Head Men's Soccer Coach joshua.taylor@snhu.edu (603) 645-
+• Alex Satrustegui Assistant Men's Soccer Coach a.satrustegui@snhu.edu
+• Phil Tuttle Assistant Men's Soccer Coach p.tuttle2@snhu.edu (603) 314-
+• Cooper Ribaudo Assistant Men's Soccer Coach c.ribaudo@snhu.edu
+• Deb Robitaille Head Softball Coach d.robitaille@snhu.edu (603) 645-
+• Morgan Fraitzl Assistant Softball Coach m.fraitzl@snhu.edu
+• Kelsey Smith Assistant Softball Coach k.smith17@snhu.edu
+• Greg Coache Head Men's/Women's Tennis Coach g.coache@snhu.edu (603) 645-
+• Frank Campolo Assistant Tennis Coach f.campolo@snhu.edu (603) 645-
+• Marty Morrissey Assistant Tennis Coach m.morrissey1@snhu.edu
+• Lynne Corson Assistant Tennis Coach l.corson@snhu.edu
+• Kelly Vincent Head Coach Cross Country/ Assistant Coach Women’s Track and Field k.vincent@snhu.edu
+• Tasha Becker Assistant Cross Country and Track & Field Coach t.becker1@snhu.edu
+• Braden Zamore Head Women's Volleyball Coach b.zamore@snhu.edu (603) 645-
+• James Keane Assistant Women's Volleyball Coach j.keane@snhu.edu
+• Caroline Belmontez Assistant Women's Volleyball Coach c.belmontez@snhu.edu

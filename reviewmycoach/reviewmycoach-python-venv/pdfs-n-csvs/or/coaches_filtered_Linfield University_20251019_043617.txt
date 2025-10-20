@@ -1,0 +1,317 @@
+COACH ENTRIES FOUND - 2025-10-19 04:36:17
+============================================================
+
+Total coaches found: 51
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kristen Regalado
+   Email: kregalado@linfield.edu
+   Username: kregalado
+   Original line: Kristen Regalado Cheer Coach 503-883- kregalado@linfield.edu
+
+2. Gina Regalado
+   Email: rregala@linfield.edu
+   Username: rregala
+   Original line: Gina Regalado Dance Coach 503-883- rregala@linfield.edu
+
+3. Jordan Harlow
+   Email: jharlow@linfield.edu
+   Username: jharlow
+   Original line: Jordan Harlow Head Coach 503-883- jharlow@linfield.edu
+
+4. Jake Hoskins
+   Email: jhoskins@linfield.edu
+   Username: jhoskins
+   Original line: Jake Hoskins Assistant Coach 503-883- jhoskins@linfield.edu
+
+5. Bryn Card
+   Email: bcard@linfield.edu
+   Username: bcard
+   Original line: Bryn Card Assistant Coach bcard@linfield.edu
+
+6. Matt Fishback
+   Email: mfishback@linfield.edu
+   Username: mfishback
+   Original line: Matt Fishback Assistant Coach mfishback@linfield.edu
+
+7. Elijah Gurash
+   Email: egurash@linfield.edu
+   Username: egurash
+   Original line: Elijah Gurash Head Coach 919-389- egurash@linfield.edu
+
+8. Jesse Bender
+   Email: jbender2@linfield.edu
+   Username: jbender2
+   Original line: Jesse Bender Assistant Coach jbender2@linfield.edu
+
+9. Matt Gehrke
+   Email: mgehrke@linfield.edu
+   Username: mgehrke
+   Original line: Matt Gehrke Assistant Coach mgehrke@linfield.edu
+
+10. Casey Bunn-Wilson
+   Email: cabunn@linfield.edu
+   Username: cabunn
+   Original line: Casey Bunn-Wilson Head Coach 503-883- cabunn@linfield.edu
+
+11. Jeremy Vandenboer
+   Email: coachv79@gmail.com
+   Username: coachv79
+   Original line: Jeremy Vandenboer Assistant Coach 406-539- coachv79@gmail.com
+
+12. Chris McIsaac
+   Email: cmcisaa@linfield.edu
+   Username: cmcisaa
+   Original line: Chris McIsaac Head Coach 360-359- cmcisaa@linfield.edu
+
+13. Katie Higinbotham
+   Email: khiginbo@linfield.edu
+   Username: khiginbo
+   Original line: Katie Higinbotham Assistant Coach khiginbo@linfield.edu
+
+14. Joseph Smith
+   Email: joesmith@linfield.edu
+   Username: joesmith
+   Original line: Joseph Smith Head Coach 503-883- joesmith@linfield.edu
+
+15. Jackson Vaughan
+   Email: jvaughan@linfield.edu
+   Username: jvaughan
+   Original line: Jackson Vaughan Defensive Coordinator/Defensive Line Coach 503-883- jvaughan@linfield.edu
+
+16. Nicholas Kernaghan
+   Email: nkernaghan@linfield.edu
+   Username: nkernaghan
+   Original line: Nicholas Kernaghan Assistant Coach - Linebackers 503-883- nkernaghan@linfield.edu
+
+17. Mitch Malot
+   Email: mmalot@linfield.edu
+   Username: mmalot
+   Original line: Mitch Malot Assistant Coach - Offensive Line, Run Game Coordinator 541-261- mmalot@linfield.edu
+
+18. Greg McAnally
+   Email: gmcanall@linfield.edu
+   Username: gmcanall
+   Original line: Greg McAnally Assistant Coach - Running Backs 503-883- gmcanall@linfield.edu
+
+19. Ad Rutschman
+   Email: arutsch@linfield.edu
+   Username: arutsch
+   Original line: Ad Rutschman Assistant Coach - Kickoff Return 503-883- arutsch@linfield.edu
+
+20. Colton Smith
+   Email: csmith10@linfield.edu
+   Username: csmith10
+   Original line: Colton Smith Assistant Coach - Receivers csmith10@linfield.edu
+
+21. Lucas Jepson
+   Email: ljepson@linfield.edu
+   Username: ljepson
+   Original line: Lucas Jepson Assistant Coach - Defensive Backs ljepson@linfield.edu
+
+22. Jett Searle
+   Email: jsearle@linfield.edu
+   Username: jsearle
+   Original line: Jett Searle Assistant Coach - Cornerbacks jsearle@linfield.edu
+
+23. Mitch Wilson
+   Email: mwilson2@linfield.edu
+   Username: mwilson2
+   Original line: Mitch Wilson Director of Golf, Men's Head Coach, Women's Co-Head 541-543- mwilson2@linfield.edu
+
+24. Tina Kelley
+   Email: tkelley2@linfield.edu
+   Username: tkelley2
+   Original line: Tina Kelley Assistant Coach 971-237- tkelley2@linfield.edu
+
+25. Mitch Wilson
+   Email: mwilson2@linfield.edu
+   Username: mwilson2
+   Original line: Mitch Wilson Director of Golf, Men's Head Coach, Women's Co-Head 541-543- mwilson2@linfield.edu
+
+26. Tina Kelley
+   Email: tkelley2@linfield.edu
+   Username: tkelley2
+   Original line: Tina Kelley Co-Head Coach 971-237- tkelley2@linfield.edu
+
+27. Monica Potter
+   Email: mpotter2@linfield.edu
+   Username: mpotter2
+   Original line: Monica Potter Women's Lacrosse Head Coach 719-464- mpotter2@linfield.edu
+
+28. Andrew Duvall
+   Email: aduvall@linfield.edu
+   Username: aduvall
+   Original line: Andrew Duvall Head Coach 503-505- aduvall@linfield.edu
+
+29. Alex Ponce
+   Email: aponce@linfield.edu
+   Username: aponce
+   Original line: Alex Ponce Assistant Coach 503-883- aponce@linfield.edu
+
+30. Steve Simmons
+   Email: ssimmons2@linfield.edu
+   Username: ssimmons2
+   Original line: Steve Simmons Director of Soccer, Head Women’s Soccer Coach 503-883- ssimmons2@linfield.edu
+
+31. Madi Reimer
+   Email: mreimer@linfield.edu
+   Username: mreimer
+   Original line: Madi Reimer Assistant Coach 503-883- mreimer@linfield.edu
+
+32. Carole Thomas
+   Email: cthomas2@linfield.edu
+   Username: cthomas2
+   Original line: Carole Thomas Assistant Coach cthomas2@linfield.edu
+
+33. Jackson Vaughan
+   Email: jvaughan@linfield.edu
+   Username: jvaughan
+   Original line: Jackson Vaughan Head Coach 503-883- jvaughan@linfield.edu
+
+34. Amanda Knopf
+   Email: aknopf@linfield.edu
+   Username: aknopf
+   Original line: Amanda Knopf Pitching Coach 503-883- aknopf@linfield.edu
+
+35. Emily Allen
+   Email: emallen@linfield.edu
+   Username: emallen
+   Original line: Emily Allen Assistant Coach 503-883- emallen@linfield.edu
+
+36. Jamie Vasas
+   Email: jvasas@linfield.edu
+   Username: jvasas
+   Original line: Jamie Vasas Assistant Coach jvasas@linfield.edu
+
+37. Jordan Bennett
+   Email: jbennett3@linfield.edu
+   Username: jbennett3
+   Original line: Jordan Bennett Assistant Coach jbennett3@linfield.edu
+
+38. Kyle Kimball
+   Email: kkimball@linfield.edu
+   Username: kkimball
+   Original line: Kyle Kimball Head Coach 503-883- kkimball@linfield.edu
+
+39. Alec Webster
+   Email: awebster@linfield.edu
+   Username: awebster
+   Original line: Alec Webster Assistant Coach 503-883- awebster@linfield.edu
+
+40. Todd Mansfield
+   Email: tmansfield@linfield.edu
+   Username: tmansfield
+   Original line: Todd Mansfield Head Coach 503-568- tmansfield@linfield.edu
+
+41. Phil Whitehead
+   Email: jwhitehead@linfield.edu
+   Username: jwhitehead
+   Original line: Phil Whitehead Head Coach 503-453- jwhitehead@linfield.edu
+
+42. Tramaine Payne
+   Email: trpayne@linfield.edu
+   Username: trpayne
+   Original line: Tramaine Payne Assistant Coach 503-883- trpayne@linfield.edu
+
+43. Dayson Tiogangco
+   Email: dtiogan@linfield.edu
+   Username: dtiogan
+   Original line: Dayson Tiogangco Assistant Coach 503-883- dtiogan@linfield.edu
+
+44. Megan Johnson
+   Email: mjohnson6@linfield.edu
+   Username: mjohnson6
+   Original line: Megan Johnson Assistant Coach 503-883- mjohnson6@linfield.edu
+
+45. Morgan Slonaker
+   Email: mslonaker@linfield.edu
+   Username: mslonaker
+   Original line: Morgan Slonaker Assistant Coach mslonaker@linfield.edu
+
+46. Katie Higinbotham
+   Email: khiginbo@linfield.edu
+   Username: khiginbo
+   Original line: Katie Higinbotham Assistant Coach khiginbo@linfield.edu
+
+47. Jenna Street
+   Email: jstreet@linfield.edu
+   Username: jstreet
+   Original line: Jenna Street Head Coach 503-381- jstreet@linfield.edu
+
+48. Dale Agbayani
+   Email: dagbayani@linfield.edu
+   Username: dagbayani
+   Original line: Dale Agbayani Assistant Coach, Recruiting Coordinator dagbayani@linfield.edu
+
+49. Chon Clayton
+   Email: cclayton@linfield.edu
+   Username: cclayton
+   Original line: Chon Clayton Assistant Coach cclayton@linfield.edu
+
+50. Frank Johnson
+   Email: fjohnson@linfield.edu
+   Username: fjohnson
+   Original line: Frank Johnson Head Coach 503-734- fjohnson@linfield.edu
+
+51. Frank Johnson
+   Email: fjohnson@linfield.edu
+   Username: fjohnson
+   Original line: Frank Johnson Head Coach 503-734- fjohnson@linfield.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kristen Regalado Cheer Coach 503-883- kregalado@linfield.edu
+• Gina Regalado Dance Coach 503-883- rregala@linfield.edu
+• Jordan Harlow Head Coach 503-883- jharlow@linfield.edu
+• Jake Hoskins Assistant Coach 503-883- jhoskins@linfield.edu
+• Bryn Card Assistant Coach bcard@linfield.edu
+• Matt Fishback Assistant Coach mfishback@linfield.edu
+• Elijah Gurash Head Coach 919-389- egurash@linfield.edu
+• Jesse Bender Assistant Coach jbender2@linfield.edu
+• Matt Gehrke Assistant Coach mgehrke@linfield.edu
+• Casey Bunn-Wilson Head Coach 503-883- cabunn@linfield.edu
+• Jeremy Vandenboer Assistant Coach 406-539- coachv79@gmail.com
+• Chris McIsaac Head Coach 360-359- cmcisaa@linfield.edu
+• Katie Higinbotham Assistant Coach khiginbo@linfield.edu
+• Joseph Smith Head Coach 503-883- joesmith@linfield.edu
+• Jackson Vaughan Defensive Coordinator/Defensive Line Coach 503-883- jvaughan@linfield.edu
+• Nicholas Kernaghan Assistant Coach - Linebackers 503-883- nkernaghan@linfield.edu
+• Mitch Malot Assistant Coach - Offensive Line, Run Game Coordinator 541-261- mmalot@linfield.edu
+• Greg McAnally Assistant Coach - Running Backs 503-883- gmcanall@linfield.edu
+• Ad Rutschman Assistant Coach - Kickoff Return 503-883- arutsch@linfield.edu
+• Colton Smith Assistant Coach - Receivers csmith10@linfield.edu
+• Lucas Jepson Assistant Coach - Defensive Backs ljepson@linfield.edu
+• Jett Searle Assistant Coach - Cornerbacks jsearle@linfield.edu
+• Mitch Wilson Director of Golf, Men's Head Coach, Women's Co-Head 541-543- mwilson2@linfield.edu
+• Tina Kelley Assistant Coach 971-237- tkelley2@linfield.edu
+• Mitch Wilson Director of Golf, Men's Head Coach, Women's Co-Head 541-543- mwilson2@linfield.edu
+• Tina Kelley Co-Head Coach 971-237- tkelley2@linfield.edu
+• Monica Potter Women's Lacrosse Head Coach 719-464- mpotter2@linfield.edu
+• Andrew Duvall Head Coach 503-505- aduvall@linfield.edu
+• Alex Ponce Assistant Coach 503-883- aponce@linfield.edu
+• Steve Simmons Director of Soccer, Head Women’s Soccer Coach 503-883- ssimmons2@linfield.edu
+• Madi Reimer Assistant Coach 503-883- mreimer@linfield.edu
+• Carole Thomas Assistant Coach cthomas2@linfield.edu
+• Jackson Vaughan Head Coach 503-883- jvaughan@linfield.edu
+• Amanda Knopf Pitching Coach 503-883- aknopf@linfield.edu
+• Emily Allen Assistant Coach 503-883- emallen@linfield.edu
+• Jamie Vasas Assistant Coach jvasas@linfield.edu
+• Jordan Bennett Assistant Coach jbennett3@linfield.edu
+• Kyle Kimball Head Coach 503-883- kkimball@linfield.edu
+• Alec Webster Assistant Coach 503-883- awebster@linfield.edu
+• Todd Mansfield Head Coach 503-568- tmansfield@linfield.edu
+• Phil Whitehead Head Coach 503-453- jwhitehead@linfield.edu
+• Tramaine Payne Assistant Coach 503-883- trpayne@linfield.edu
+• Dayson Tiogangco Assistant Coach 503-883- dtiogan@linfield.edu
+• Megan Johnson Assistant Coach 503-883- mjohnson6@linfield.edu
+• Morgan Slonaker Assistant Coach mslonaker@linfield.edu
+• Katie Higinbotham Assistant Coach khiginbo@linfield.edu
+• Jenna Street Head Coach 503-381- jstreet@linfield.edu
+• Dale Agbayani Assistant Coach, Recruiting Coordinator dagbayani@linfield.edu
+• Chon Clayton Assistant Coach cclayton@linfield.edu
+• Frank Johnson Head Coach 503-734- fjohnson@linfield.edu
+• Frank Johnson Head Coach 503-734- fjohnson@linfield.edu

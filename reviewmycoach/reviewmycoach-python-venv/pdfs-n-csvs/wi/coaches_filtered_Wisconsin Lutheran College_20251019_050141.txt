@@ -1,0 +1,320 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:42
+============================================================
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Errick Brooks
+   Email: errick.brooks@wlc.edu
+   Username: errick.brooks
+   Original line: Errick Brooks Wisconsin Lutheran Strength & Conditioning Coach errick.brooks@wlc.edu
+
+2. Andy Schwall
+   Email: andrew.schwall@wlc.edu
+   Username: andrew.schwall
+   Phone: 414.443.8990
+   Original line: Andy Schwall Wisconsin Lutheran Head Coach andrew.schwall@wlc.edu 414.443.8990
+
+3. Mason Cox
+   Email: mason.cox@mail.wlc.edu
+   Username: mason.cox
+   Phone: 507.766.0293
+   Original line: Mason Cox Martin Luther College 2024 Assistant Coach mason.cox@mail.wlc.edu 507.766.0293
+
+4. Julian Skosey-LaLonde
+   Email: julian.skoseylaLonde@mail.wlc.edu
+   Username: julian.skoseylaLonde
+   Phone: 312.909.2862
+   Original line: Julian Skosey-LaLonde Cornell College 2025 Assistant Coach julian.skoseylaLonde@mail.wlc.edu 312.909.2862
+
+5. Aaron Aanonsen
+   Email: aaron.aanonsen@wlc.edu
+   Username: aaron.aanonsen
+   Phone: 414.443.8598
+   Original line: Aaron Aanonsen UW-La Crosse 2005 Head Coach aaron.aanonsen@wlc.edu 414.443.8598
+
+6. Andrew Bruggink
+   Email: andrew.bruggink@mail.wlc.edu
+   Username: andrew.bruggink
+   Original line: Andrew Bruggink Wisconsin Lutheran Assistant Coach andrew.bruggink@mail.wlc.edu
+
+7. Klay Knueppel
+   Email: klay.knueppel@wlc.edu
+   Username: klay.knueppel
+   Phone: 414.443.8869
+   Original line: Klay Knueppel Head Coach klay.knueppel@wlc.edu 414.443.8869
+
+8. Julie Langebartels
+   Email: julie.langebartels@wlc.edu
+   Username: julie.langebartels
+   Phone: 414.443.8806
+   Original line: Julie Langebartels Wisconsin Lutheran Assistant Coach julie.langebartels@wlc.edu 414.443.8806
+
+9. Brook Smith
+   Email: brook.smith@wlc.edu
+   Username: brook.smith
+   Phone: 414.443.8571
+   Original line: Brook Smith Wisconsin Lutheran Assistant Coach brook.smith@wlc.edu 414.443.8571
+
+10. Mikayla Dogs
+   Email: mikayla.dogs@wlc.edu
+   Username: mikayla.dogs
+   Phone: 262.483.1021
+   Original line: Mikayla Dogs Milwaukee School of Assistant Coach mikayla.dogs@wlc.edu 262.483.1021
+
+11. Steve Travis
+   Email: steve.travis@wlc.edu
+   Username: steve.travis
+   Phone: 414.443.8872
+   Original line: Steve Travis UW-Whitewater 1993 Head Coach steve.travis@wlc.edu 414.443.8872
+
+12. Cameron Ausen
+   Email: cameron.ausen@wlc.edu
+   Username: cameron.ausen
+   Original line: Cameron Ausen Wisconsin Lutheran Associate Head Coach cameron.ausen@wlc.edu
+
+13. Allison Endsley
+   Email: allison.endsley@mail.wlc.edu
+   Username: allison.endsley
+   Phone: 414.690.2449
+   Original line: Allison Endsley Wisconsin Lutheran Assistant Coach allison.endsley@mail.wlc.edu 414.690.2449
+
+14. Steve Travis
+   Email: steve.travis@wlc.edu
+   Username: steve.travis
+   Phone: 414.443.8872
+   Original line: Steve Travis UW-Whitewater 1993 Head Coach steve.travis@wlc.edu 414.443.8872
+
+15. Cameron Ausen
+   Email: cameron.ausen@wlc.edu
+   Username: cameron.ausen
+   Original line: Cameron Ausen Wisconsin Lutheran Associate Head Coach cameron.ausen@wlc.edu
+
+16. Allison Endsley
+   Email: allison.endsley@mail.wlc.edu
+   Username: allison.endsley
+   Phone: 414.690.2449
+   Original line: Allison Endsley Wisconsin Lutheran Assistant Coach allison.endsley@mail.wlc.edu 414.690.2449
+
+17. Austen Eppen
+   Email: austen.eppen@wlc.edu
+   Username: austen.eppen
+   Phone: 224.944.1542
+   Original line: Austen Eppen Wisconsin Lutheran Head Coach austen.eppen@wlc.edu 224.944.1542
+
+18. Eric Treske
+   Email: eric.treske@wlc.edu
+   Username: eric.treske
+   Phone: 414.443.8853
+   Original line: Eric Treske Wisconsin Lutheran Head Coach eric.treske@wlc.edu 414.443.8853
+
+19. Nolan Winkler
+   Email: nolan.winkler@mail.wlc.edu
+   Username: nolan.winkler
+   Phone: 414.248.7596
+   Original line: Nolan Winkler Wisconsin Lutheran Running Backs Coach nolan.winkler@mail.wlc.edu 414.248.7596
+
+20. Kyle Kubacki
+   Email: kyle.kubacki@mail.wlc.edu
+   Username: kyle.kubacki
+   Original line: Kyle Kubacki Wisconsin Lutheran Defensive Line Coach kyle.kubacki@mail.wlc.edu
+
+21. Angel Lopez
+   Email: coachlopez720@gmail.com
+   Username: coachlopez720
+   Original line: Angel Lopez Community Outreach coachlopez720@gmail.com
+
+22. Adam Volbrecht
+   Email: adam.volbrecht@wlc.edu
+   Username: adam.volbrecht
+   Phone: 414.443.8689
+   Original line: Adam Volbrecht Wisconsin Lutheran Head Coach adam.volbrecht@wlc.edu 414.443.8689
+
+23. Kurt Seeger
+   Email: kurtis.seeger@wlc.edu
+   Username: kurtis.seeger
+   Original line: Kurt Seeger Dr. Martin Luther College Assistant Coach kurtis.seeger@wlc.edu
+
+24. Julie Langebartels
+   Email: julie.langebartels@wlc.edu
+   Username: julie.langebartels
+   Phone: 414.443.8806
+   Original line: Julie Langebartels Wisconsin Lutheran Head Coach julie.langebartels@wlc.edu 414.443.8806
+
+25. Joe Luedke
+   Email: joseph.luedke@wlc.edu
+   Username: joseph.luedke
+   Phone: 414.443.8716
+   Original line: Joe Luedke UW-Milwaukee 2001 Head Coach joseph.luedke@wlc.edu 414.443.8716
+
+26. Ben Meaux
+   Email: benjamin.meaux@mail.wlc.edu
+   Username: benjamin.meaux
+   Original line: Ben Meaux Wisconsin Lutheran Assistant Coach benjamin.meaux@mail.wlc.edu
+
+27. Stu Sain
+   Email: stuart.sain@wlc.edu
+   Username: stuart.sain
+   Original line: Stu Sain UW-Milwaukee 2024 Assistant Coach stuart.sain@wlc.edu
+
+28. Matt Eisold
+   Email: matthew.eisold@wlc.edu
+   Username: matthew.eisold
+   Phone: 414.443.8889
+   Original line: Matt Eisold Wisconsin Lutheran Head Coach matthew.eisold@wlc.edu 414.443.8889
+
+29. James Flegel
+   Email: james.flegel@wlc.edu
+   Username: james.flegel
+   Phone: 414.339.0394
+   Original line: James Flegel Wisconsin Lutheran Head Coach james.flegel@wlc.edu 414.339.0394
+
+30. Brook Smith
+   Email: brook.smith@wlc.edu
+   Username: brook.smith
+   Phone: 414.443.8571
+   Original line: Brook Smith Wisconsin Lutheran Assistant Coach brook.smith@wlc.edu 414.443.8571
+
+31. Jay Massart
+   Email: jay.massart@wlc.edu
+   Username: jay.massart
+   Phone: 414.443.8845
+   Original line: Jay Massart University of San Diego Head Coach jay.massart@wlc.edu 414.443.8845
+
+32. Jay Massart
+   Email: jay.massart@wlc.edu
+   Username: jay.massart
+   Phone: 414.443.8845
+   Original line: Jay Massart University of San Diego Head Coach jay.massart@wlc.edu 414.443.8845
+
+33. Ken Woodall
+   Email: charles.woodall@wlc.edu
+   Username: charles.woodall
+   Phone: 414.443.8589
+   Original line: Ken Woodall UW-Milwaukee 1993 Head Coach charles.woodall@wlc.edu 414.443.8589
+
+34. Steve Travis
+   Email: steve.travis@wlc.edu
+   Username: steve.travis
+   Phone: 414.443.8872
+   Original line: Steve Travis UW-Whitewater 1993 Assistant Coach - Distance steve.travis@wlc.edu 414.443.8872
+
+35. Cameron Ausen
+   Email: cameron.ausen@wlc.edu
+   Username: cameron.ausen
+   Original line: Cameron Ausen Wisconsin Lutheran Assistant Coach - Distance cameron.ausen@wlc.edu
+
+36. Emily Herried
+   Email: emily.herried@mail.wlc.edu
+   Username: emily.herried
+   Original line: Emily Herried Wisconsin Lutheran Assistant Coach - Distance emily.herried@mail.wlc.edu
+
+37. Allison Endsley
+   Email: allison.endsley@mail.wlc.edu
+   Username: allison.endsley
+   Phone: 414.690.2449
+   Original line: Allison Endsley Wisconsin Lutheran Assistant Coach - Distance allison.endsley@mail.wlc.edu 414.690.2449
+
+38. Ken Woodall
+   Email: charles.woodall@wlc.edu
+   Username: charles.woodall
+   Phone: 414.443.8589
+   Original line: Ken Woodall UW-Milwaukee 1993 Head Coach charles.woodall@wlc.edu 414.443.8589
+
+39. Steve Travis
+   Email: steve.travis@wlc.edu
+   Username: steve.travis
+   Phone: 414.443.8872
+   Original line: Steve Travis UW-Whitewater 1993 Assistant Coach - Distance steve.travis@wlc.edu 414.443.8872
+
+40. Cameron Ausen
+   Email: cameron.ausen@wlc.edu
+   Username: cameron.ausen
+   Original line: Cameron Ausen Wisconsin Lutheran Assistant Coach - Distance cameron.ausen@wlc.edu
+
+41. Emily Herried
+   Email: emily.herried@mail.wlc.edu
+   Username: emily.herried
+   Original line: Emily Herried Wisconsin Lutheran Assistant Coach - Distance emily.herried@mail.wlc.edu
+
+42. Allison Endsley
+   Email: allison.endsley@mail.wlc.edu
+   Username: allison.endsley
+   Phone: 414.690.2449
+   Original line: Allison Endsley Wisconsin Lutheran Assistant Coach - Distance allison.endsley@mail.wlc.edu 414.690.2449
+
+43. Mike Endsley
+   Email: michael.endsley@wlc.edu
+   Username: michael.endsley
+   Phone: 414.443.8526
+   Original line: Mike Endsley UW-Stevens Point 2003 Head Coach michael.endsley@wlc.edu 414.443.8526
+
+44. Jason Bowles
+   Email: jason.bowles@mail.wlc.edu
+   Username: jason.bowles
+   Phone: 630.340.8909
+   Original line: Jason Bowles Cardinal Stritch University Assistant Coach jason.bowles@mail.wlc.edu 630.340.8909
+
+45. Jenilee Voss
+   Email: jenilee.voss@wlc.edu
+   Username: jenilee.voss
+   Phone: 414.443.8960
+   Original line: Jenilee Voss Michigan State University Head Coach jenilee.voss@wlc.edu 414.443.8960
+
+46. Kaitlyn Merrill
+   Email: kaitlyn.merrill@mail.wlc.edu
+   Username: kaitlyn.merrill
+   Phone: 414.240.4339
+   Original line: Kaitlyn Merrill Marian University 2024 Assistant Coach kaitlyn.merrill@mail.wlc.edu 414.240.4339
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Errick Brooks Wisconsin Lutheran Strength & Conditioning Coach errick.brooks@wlc.edu
+• Andy Schwall Wisconsin Lutheran Head Coach andrew.schwall@wlc.edu 414.443.8990
+• Mason Cox Martin Luther College 2024 Assistant Coach mason.cox@mail.wlc.edu 507.766.0293
+• Julian Skosey-LaLonde Cornell College 2025 Assistant Coach julian.skoseylaLonde@mail.wlc.edu 312.909.2862
+• Aaron Aanonsen UW-La Crosse 2005 Head Coach aaron.aanonsen@wlc.edu 414.443.8598
+• Andrew Bruggink Wisconsin Lutheran Assistant Coach andrew.bruggink@mail.wlc.edu
+• Klay Knueppel Head Coach klay.knueppel@wlc.edu 414.443.8869
+• Julie Langebartels Wisconsin Lutheran Assistant Coach julie.langebartels@wlc.edu 414.443.8806
+• Brook Smith Wisconsin Lutheran Assistant Coach brook.smith@wlc.edu 414.443.8571
+• Mikayla Dogs Milwaukee School of Assistant Coach mikayla.dogs@wlc.edu 262.483.1021
+• Steve Travis UW-Whitewater 1993 Head Coach steve.travis@wlc.edu 414.443.8872
+• Cameron Ausen Wisconsin Lutheran Associate Head Coach cameron.ausen@wlc.edu
+• Allison Endsley Wisconsin Lutheran Assistant Coach allison.endsley@mail.wlc.edu 414.690.2449
+• Steve Travis UW-Whitewater 1993 Head Coach steve.travis@wlc.edu 414.443.8872
+• Cameron Ausen Wisconsin Lutheran Associate Head Coach cameron.ausen@wlc.edu
+• Allison Endsley Wisconsin Lutheran Assistant Coach allison.endsley@mail.wlc.edu 414.690.2449
+• Austen Eppen Wisconsin Lutheran Head Coach austen.eppen@wlc.edu 224.944.1542
+• Eric Treske Wisconsin Lutheran Head Coach eric.treske@wlc.edu 414.443.8853
+• Nolan Winkler Wisconsin Lutheran Running Backs Coach nolan.winkler@mail.wlc.edu 414.248.7596
+• Kyle Kubacki Wisconsin Lutheran Defensive Line Coach kyle.kubacki@mail.wlc.edu
+• Angel Lopez Community Outreach coachlopez720@gmail.com
+• Adam Volbrecht Wisconsin Lutheran Head Coach adam.volbrecht@wlc.edu 414.443.8689
+• Kurt Seeger Dr. Martin Luther College Assistant Coach kurtis.seeger@wlc.edu
+• Julie Langebartels Wisconsin Lutheran Head Coach julie.langebartels@wlc.edu 414.443.8806
+• Joe Luedke UW-Milwaukee 2001 Head Coach joseph.luedke@wlc.edu 414.443.8716
+• Ben Meaux Wisconsin Lutheran Assistant Coach benjamin.meaux@mail.wlc.edu
+• Stu Sain UW-Milwaukee 2024 Assistant Coach stuart.sain@wlc.edu
+• Matt Eisold Wisconsin Lutheran Head Coach matthew.eisold@wlc.edu 414.443.8889
+• James Flegel Wisconsin Lutheran Head Coach james.flegel@wlc.edu 414.339.0394
+• Brook Smith Wisconsin Lutheran Assistant Coach brook.smith@wlc.edu 414.443.8571
+• Jay Massart University of San Diego Head Coach jay.massart@wlc.edu 414.443.8845
+• Jay Massart University of San Diego Head Coach jay.massart@wlc.edu 414.443.8845
+• Ken Woodall UW-Milwaukee 1993 Head Coach charles.woodall@wlc.edu 414.443.8589
+• Steve Travis UW-Whitewater 1993 Assistant Coach - Distance steve.travis@wlc.edu 414.443.8872
+• Cameron Ausen Wisconsin Lutheran Assistant Coach - Distance cameron.ausen@wlc.edu
+• Emily Herried Wisconsin Lutheran Assistant Coach - Distance emily.herried@mail.wlc.edu
+• Allison Endsley Wisconsin Lutheran Assistant Coach - Distance allison.endsley@mail.wlc.edu 414.690.2449
+• Ken Woodall UW-Milwaukee 1993 Head Coach charles.woodall@wlc.edu 414.443.8589
+• Steve Travis UW-Whitewater 1993 Assistant Coach - Distance steve.travis@wlc.edu 414.443.8872
+• Cameron Ausen Wisconsin Lutheran Assistant Coach - Distance cameron.ausen@wlc.edu
+• Emily Herried Wisconsin Lutheran Assistant Coach - Distance emily.herried@mail.wlc.edu
+• Allison Endsley Wisconsin Lutheran Assistant Coach - Distance allison.endsley@mail.wlc.edu 414.690.2449
+• Mike Endsley UW-Stevens Point 2003 Head Coach michael.endsley@wlc.edu 414.443.8526
+• Jason Bowles Cardinal Stritch University Assistant Coach jason.bowles@mail.wlc.edu 630.340.8909
+• Jenilee Voss Michigan State University Head Coach jenilee.voss@wlc.edu 414.443.8960
+• Kaitlyn Merrill Marian University 2024 Assistant Coach kaitlyn.merrill@mail.wlc.edu 414.240.4339

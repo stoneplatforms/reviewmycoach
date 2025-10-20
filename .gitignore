@@ -1,5 +1,5 @@
 # Ignore Python virtual envs and caches
-reviewmycoach/reviewmycoach-python-venv/
+reviewmycoach/reviewmycoach-python-venv/lib/
 **/__pycache__/
 **/*.py[cod]
 **/*.pyo

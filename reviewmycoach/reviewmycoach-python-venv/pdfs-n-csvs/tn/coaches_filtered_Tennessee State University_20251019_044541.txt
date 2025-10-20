@@ -1,0 +1,95 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:41
+============================================================
+
+Total coaches found: 14
+
+PARSED ENTRIES:
+----------------------------------------
+1. William Jackson
+   Email: wjacks15@tnstate.edu
+   Username: wjacks15
+   Original line: William Jackson Assistant Sports Performance Coach wjacks15@tnstate.edu
+
+2. DuJuan Sharp
+   Email: dsharpjr@tnstate.edu
+   Username: dsharpjr
+   Original line: DuJuan Sharp II Assistant Sports Performance Coach dsharpjr@tnstate.edu
+
+3. Brandon Lockridge
+   Email: wlockridge01@tnstate.edu
+   Username: wlockridge01
+   Original line: Brandon Lockridge Assistant Coach wlockridge01@tnstate.edu 615-963-
+
+4. Sam Pearson
+   Email: spearso9@tnstate.edu
+   Username: spearso9
+   Original line: Sam Pearson Assistant Coach & Director of Player Development spearso9@tnstate.edu
+
+5. Jermaine Brown
+   Email: jbrow404@tnstate.edu
+   Username: jbrow404
+   Original line: Jermaine Brown Recruiting Coordinator/Director of Basketball Operations/Assistant Coach jbrow404@tnstate.edu
+
+6. David Rachel
+   Email: drachel@tnstate.edu
+   Username: drachel
+   Original line: David Rachel Assistant Coach drachel@tnstate.edu
+
+7. Duanté Abercrombie
+   Email: dabercr2@tnstate.edu
+   Username: dabercr2
+   Original line: Duanté Abercrombie Head Coach dabercr2@tnstate.edu 615-963- GC 348
+
+8. Genee McRath
+   Email: rmcrath@tnstate.edu
+   Username: rmcrath
+   Original line: Genee McRath Head Coach rmcrath@tnstate.edu 615-963-
+
+9. Renae Spears
+   Email: rspears5@tnstate.edu
+   Username: rspears5
+   Original line: Renae Spears Volunteer Assistant Coach rspears5@tnstate.edu
+
+10. David Rachel
+   Email: drachel@tnstate.edu
+   Username: drachel
+   Original line: David Rachel Assistant Coach drachel@tnstate.edu
+
+11. Michael Lockhart
+   Email: mlockha1@tnstate.edu
+   Username: mlockha1
+   Original line: Michael Lockhart Assistant Coach mlockha1@tnstate.edu
+
+12. Donika Sutton
+   Email: dsutton2@tnstate.edu
+   Username: dsutton2
+   Original line: Donika Sutton Head Coach dsutton2@tnstate.edu 615-963- HH 216
+
+13. Vicmari Cockrill
+   Email: vprospero@tnstate.edu
+   Username: vprospero
+   Original line: Vicmari Cockrill Assistant Coach vprospero@tnstate.edu HH 214
+
+14. Dwight Pope
+   Email: tsucheer@gmail.com
+   Username: tsucheer
+   Original line: Dwight Pope Head Cheerleading Coach tsucheer@gmail.com 615-963-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• William Jackson Assistant Sports Performance Coach wjacks15@tnstate.edu
+• DuJuan Sharp II Assistant Sports Performance Coach dsharpjr@tnstate.edu
+• Brandon Lockridge Assistant Coach wlockridge01@tnstate.edu 615-963-
+• Sam Pearson Assistant Coach & Director of Player Development spearso9@tnstate.edu
+• Jermaine Brown Recruiting Coordinator/Director of Basketball Operations/Assistant Coach jbrow404@tnstate.edu
+• David Rachel Assistant Coach drachel@tnstate.edu
+• Duanté Abercrombie Head Coach dabercr2@tnstate.edu 615-963- GC 348
+• Genee McRath Head Coach rmcrath@tnstate.edu 615-963-
+• Renae Spears Volunteer Assistant Coach rspears5@tnstate.edu
+• David Rachel Assistant Coach drachel@tnstate.edu
+• Michael Lockhart Assistant Coach mlockha1@tnstate.edu
+• Donika Sutton Head Coach dsutton2@tnstate.edu 615-963- HH 216
+• Vicmari Cockrill Assistant Coach vprospero@tnstate.edu HH 214
+• Dwight Pope Head Cheerleading Coach tsucheer@gmail.com 615-963-

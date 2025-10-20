@@ -1,0 +1,311 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:22
+============================================================
+
+Total coaches found: 50
+
+PARSED ENTRIES:
+----------------------------------------
+1. Billy Gernon
+   Email: billy.gernon@wmich.edu
+   Username: billy.gernon
+   Original line: Billy Gernon Head Coach (269) 276- billy.gernon@wmich.edu
+
+2. Josh Rebandt
+   Email: joshua.rebandt@wmich.edu
+   Username: joshua.rebandt
+   Original line: Josh Rebandt Assistant Coach / Recruiting Coordinator joshua.rebandt@wmich.edu
+
+3. Zach Putnam
+   Email: steven.putnam@wmich.edu
+   Username: steven.putnam
+   Original line: Zach Putnam Assistant Coach steven.putnam@wmich.edu
+
+4. Glenn Miller
+   Email: glenn.miller@wmich.edu
+   Username: glenn.miller
+   Original line: Glenn Miller Assistant Coach glenn.miller@wmich.edu
+
+5. Jeff Rutter
+   Email: jeffrey.rutter@wmich.edu
+   Username: jeffrey.rutter
+   Original line: Jeff Rutter Assistant Coach jeffrey.rutter@wmich.edu
+
+6. Manny Dosanjh
+   Email: mankanwar.dosanjh@wmich.edu
+   Username: mankanwar.dosanjh
+   Original line: Manny Dosanjh Assistant Coach mankanwar.dosanjh@wmich.edu
+
+7. Tyler Kelly
+   Email: tyler.kelly@wmich.edu
+   Username: tyler.kelly
+   Original line: Tyler Kelly Assistant Coach tyler.kelly@wmich.edu
+
+8. Thomas Kithier
+   Email: thomas.kithier@wmich.edu
+   Username: thomas.kithier
+   Original line: Thomas Kithier Assistant Coach thomas.kithier@wmich.edu
+
+9. Sam Little
+   Email: samuel.little@wmich.edu
+   Username: samuel.little
+   Original line: Sam Little Assistant Coach/Video Coordinator samuel.little@wmich.edu
+
+10. Adam Tandez
+   Email: adam.tandez@wmich.edu
+   Username: adam.tandez
+   Original line: Adam Tandez Associate Head Coach adam.tandez@wmich.edu
+
+11. Andrea Cecil
+   Email: andrea.cecil@wmich.edu
+   Username: andrea.cecil
+   Original line: Andrea Cecil Assistant Coach andrea.cecil@wmich.edu
+
+12. Aurielle Anderson
+   Email: aurielle.t.anderson@wmich.edu
+   Username: aurielle.t.anderson
+   Original line: Aurielle Anderson Assistant Coach aurielle.t.anderson@wmich.edu
+
+13. Audra Emmerson
+   Email: audra.emmerson@wmich.edu
+   Username: audra.emmerson
+   Original line: Audra Emmerson Assistant Coach audra.emmerson@wmich.edu
+
+14. Courtney Michalka
+   Email: wmu-cheer@wmich.edu
+   Username: wmu-cheer
+   Original line: Courtney Michalka Head Cheerleading Coach wmu-cheer@wmich.edu
+
+15. Susan Scheve
+   Email: wmudtcoachsusan@gmail.com
+   Username: wmudtcoachsusan
+   Original line: Susan Scheve Head Dance Coach wmudtcoachsusan@gmail.com
+
+16. Serenity Collins
+   Email: serenity.n.collins@wmich.edu
+   Username: serenity.n.collins
+   Original line: Serenity Collins Assistant Coach - Cheerleading serenity.n.collins@wmich.edu
+
+17. Paige Robbins
+   Email: paige.m.robbins@wmich.edu
+   Username: paige.m.robbins
+   Original line: Paige Robbins Chief of Staff/Assistant to the Head Coach paige.m.robbins@wmich.edu
+
+18. Matt Zedrick
+   Email: matthew.zedrick@wmich.edu
+   Username: matthew.zedrick
+   Original line: Matt Zedrick Head Coach matthew.zedrick@wmich.edu
+
+19. Kendall Turner
+   Email: kendall.turner@wmich.edu
+   Username: kendall.turner
+   Original line: Kendall Turner Assistant Coach kendall.turner@wmich.edu
+
+20. Penny Jernigan
+   Email: penelope.jernigan@wmich.edu
+   Username: penelope.jernigan
+   Original line: Penny Jernigan Head Coach penelope.jernigan@wmich.edu
+
+21. Al Scharns
+   Email: alan.scharns@wmich.edu
+   Username: alan.scharns
+   Original line: Al Scharns Associate Head Coach alan.scharns@wmich.edu
+
+22. Don Houlton
+   Email: donald.houlton@wmich.edu
+   Username: donald.houlton
+   Original line: Don Houlton Assistant Coach donald.houlton@wmich.edu
+
+23. Pat Ferschweiler
+   Email: pat.ferschweiler@wmich.edu
+   Username: pat.ferschweiler
+   Original line: Pat Ferschweiler Head Coach pat.ferschweiler@wmich.edu
+
+24. Jason Herter
+   Email: jason.herter@wmich.edu
+   Username: jason.herter
+   Original line: Jason Herter Associate Head Coach jason.herter@wmich.edu
+
+25. J.J. Crew
+   Email: justin.j.crew@wmich.edu
+   Username: justin.j.crew
+   Original line: J.J. Crew Assistant Coach justin.j.crew@wmich.edu
+
+26. Chad Wiseman
+   Email: chad.wiseman@wmich.edu
+   Username: chad.wiseman
+   Original line: Chad Wiseman Head Coach (269) 276- chad.wiseman@wmich.edu
+
+27. Shane Lyons
+   Email: shane.e.lyons@wmich.edu
+   Username: shane.e.lyons
+   Original line: Shane Lyons Assistant Coach (269) 276- shane.e.lyons@wmich.edu
+
+28. Josh Oakley
+   Email: joshua.oakley@wmich.edu
+   Username: joshua.oakley
+   Original line: Josh Oakley Assistant Coach (517) 242- joshua.oakley@wmich.edu
+
+29. Sam Biek
+   Email: samuel.biek@wmich.edu
+   Username: samuel.biek
+   Original line: Sam Biek Assistant Coach (574) 399- samuel.biek@wmich.edu
+
+30. Lewis Robinson
+   Email: lewis.robinson@wmich.edu
+   Username: lewis.robinson
+   Original line: Lewis Robinson Head Coach lewis.robinson@wmich.edu
+
+31. Paige Eli
+   Email: paige.eli@wmich.edu
+   Username: paige.eli
+   Original line: Paige Eli Assistant Coach paige.eli@wmich.edu
+
+32. Nate Van
+   Email: nathan.vanryn@wmich.edu
+   Username: nathan.vanryn
+   Original line: Nate Van Ryn Assistant Coach nathan.vanryn@wmich.edu
+
+33. James DeCosemo
+   Email: james.decosemo@wmich.edu
+   Username: james.decosemo
+   Original line: James DeCosemo Assistant Coach james.decosemo@wmich.edu
+
+34. Marlee Wilson
+   Email: marlee.l.wilson@wmich.edu
+   Username: marlee.l.wilson
+   Original line: Marlee Wilson Head Coach marlee.l.wilson@wmich.edu
+
+35. Morgan VanderBor
+   Email: morgan.h.vanderbor@wmich.edu
+   Username: morgan.h.vanderbor
+   Original line: Morgan VanderBor Assistant Coach morgan.h.vanderbor@wmich.edu
+
+36. Erika Kloosterman
+   Email: erika.k.whittington@wmich.edu
+   Username: erika.k.whittington
+   Original line: Erika Kloosterman Assistant Coach erika.k.whittington@wmich.edu
+
+37. Dave Morin
+   Email: david.morin@wmich.edu
+   Username: david.morin
+   Original line: Dave Morin Head Coach david.morin@wmich.edu
+
+38. David Anderton
+   Email: david.anderton@wmich.edu
+   Username: david.anderton
+   Original line: David Anderton Associate Head Coach david.anderton@wmich.edu
+
+39. Tim Herrmann
+   Email: tim.herrmann@wmich.edu
+   Username: tim.herrmann
+   Original line: Tim Herrmann Strength & Conditioning Coach (269) 806- tim.herrmann@wmich.edu
+
+40. John Deal
+   Email: john.deal@wmich.edu
+   Username: john.deal
+   Original line: John Deal Strength & Conditioning Coach john.deal@wmich.edu
+
+41. Alysia Cole
+   Email: alysia.cole@wmich.edu
+   Username: alysia.cole
+   Original line: Alysia Cole Strength & Conditioning Coach alysia.cole@wmich.edu
+
+42. Joelle Kissell
+   Email: joelle.kissell@wmich.edu
+   Username: joelle.kissell
+   Original line: Joelle Kissell Head Coach joelle.kissell@wmich.edu
+
+43. Chad Kissell
+   Email: chad.kissell@wmich.edu
+   Username: chad.kissell
+   Original line: Chad Kissell Assistant Coach chad.kissell@wmich.edu
+
+44. Stephen Payne
+   Email: stephen.k.payne@wmich.edu
+   Username: stephen.k.payne
+   Original line: Stephen Payne Interim Head Coach stephen.k.payne@wmich.edu
+
+45. Kevin Cataldo
+   Email: kevin.cataldo@wmich.edu
+   Username: kevin.cataldo
+   Original line: Kevin Cataldo Head Coach kevin.cataldo@wmich.edu
+
+46. Josiah Norville
+   Email: josiah.norville@wmich.edu
+   Username: josiah.norville
+   Original line: Josiah Norville Associate Head Coach josiah.norville@wmich.edu
+
+47. Kayleigh Conlon
+   Email: kayleigh.conlon@wmich.edu
+   Username: kayleigh.conlon
+   Original line: Kayleigh Conlon Assistant Coach kayleigh.conlon@wmich.edu
+
+48. Reagan Justice
+   Email: reagan.justice@wmich.edu
+   Username: reagan.justice
+   Original line: Reagan Justice Graduate Assistant Coach reagan.justice@wmich.edu
+
+49. Colleen Munson
+   Email: ATHL-VBALLRecruiting@wmich.edu
+   Username: ATHL-VBALLRecruiting
+   Original line: Colleen Munson Head Coach ATHL-VBALLRecruiting@wmich.edu
+
+50. Ryan Manning
+   Email: ryan.manning@wmich.edu
+   Username: ryan.manning
+   Original line: Ryan Manning Senior Associate Head Coach / Recruiting Coordinator ryan.manning@wmich.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Billy Gernon Head Coach (269) 276- billy.gernon@wmich.edu
+• Josh Rebandt Assistant Coach / Recruiting Coordinator joshua.rebandt@wmich.edu
+• Zach Putnam Assistant Coach steven.putnam@wmich.edu
+• Glenn Miller Assistant Coach glenn.miller@wmich.edu
+• Jeff Rutter Assistant Coach jeffrey.rutter@wmich.edu
+• Manny Dosanjh Assistant Coach mankanwar.dosanjh@wmich.edu
+• Tyler Kelly Assistant Coach tyler.kelly@wmich.edu
+• Thomas Kithier Assistant Coach thomas.kithier@wmich.edu
+• Sam Little Assistant Coach/Video Coordinator samuel.little@wmich.edu
+• Adam Tandez Associate Head Coach adam.tandez@wmich.edu
+• Andrea Cecil Assistant Coach andrea.cecil@wmich.edu
+• Aurielle Anderson Assistant Coach aurielle.t.anderson@wmich.edu
+• Audra Emmerson Assistant Coach audra.emmerson@wmich.edu
+• Courtney Michalka Head Cheerleading Coach wmu-cheer@wmich.edu
+• Susan Scheve Head Dance Coach wmudtcoachsusan@gmail.com
+• Serenity Collins Assistant Coach - Cheerleading serenity.n.collins@wmich.edu
+• Paige Robbins Chief of Staff/Assistant to the Head Coach paige.m.robbins@wmich.edu
+• Matt Zedrick Head Coach matthew.zedrick@wmich.edu
+• Kendall Turner Assistant Coach kendall.turner@wmich.edu
+• Penny Jernigan Head Coach penelope.jernigan@wmich.edu
+• Al Scharns Associate Head Coach alan.scharns@wmich.edu
+• Don Houlton Assistant Coach donald.houlton@wmich.edu
+• Pat Ferschweiler Head Coach pat.ferschweiler@wmich.edu
+• Jason Herter Associate Head Coach jason.herter@wmich.edu
+• J.J. Crew Assistant Coach justin.j.crew@wmich.edu
+• Chad Wiseman Head Coach (269) 276- chad.wiseman@wmich.edu
+• Shane Lyons Assistant Coach (269) 276- shane.e.lyons@wmich.edu
+• Josh Oakley Assistant Coach (517) 242- joshua.oakley@wmich.edu
+• Sam Biek Assistant Coach (574) 399- samuel.biek@wmich.edu
+• Lewis Robinson Head Coach lewis.robinson@wmich.edu
+• Paige Eli Assistant Coach paige.eli@wmich.edu
+• Nate Van Ryn Assistant Coach nathan.vanryn@wmich.edu
+• James DeCosemo Assistant Coach james.decosemo@wmich.edu
+• Marlee Wilson Head Coach marlee.l.wilson@wmich.edu
+• Morgan VanderBor Assistant Coach morgan.h.vanderbor@wmich.edu
+• Erika Kloosterman Assistant Coach erika.k.whittington@wmich.edu
+• Dave Morin Head Coach david.morin@wmich.edu
+• David Anderton Associate Head Coach david.anderton@wmich.edu
+• Tim Herrmann Strength & Conditioning Coach (269) 806- tim.herrmann@wmich.edu
+• John Deal Strength & Conditioning Coach john.deal@wmich.edu
+• Alysia Cole Strength & Conditioning Coach alysia.cole@wmich.edu
+• Joelle Kissell Head Coach joelle.kissell@wmich.edu
+• Chad Kissell Assistant Coach chad.kissell@wmich.edu
+• Stephen Payne Interim Head Coach stephen.k.payne@wmich.edu
+• Kevin Cataldo Head Coach kevin.cataldo@wmich.edu
+• Josiah Norville Associate Head Coach josiah.norville@wmich.edu
+• Kayleigh Conlon Assistant Coach kayleigh.conlon@wmich.edu
+• Reagan Justice Graduate Assistant Coach reagan.justice@wmich.edu
+• Colleen Munson Head Coach ATHL-VBALLRecruiting@wmich.edu
+• Ryan Manning Senior Associate Head Coach / Recruiting Coordinator ryan.manning@wmich.edu

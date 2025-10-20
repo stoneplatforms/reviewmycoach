@@ -1,0 +1,179 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:44
+============================================================
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Darren Munns
+   Email: ddmunns@ccis.edu
+   Username: ddmunns
+   Original line: Darren Munns Head Baseball Coach ddmunns@ccis.edu 573-875-
+
+2. Craig "Boomer"
+   Email: cemcandrews@ccis.edu
+   Username: cemcandrews
+   Original line: Craig "Boomer" McAndrews Associate Head Coach cemcandrews@ccis.edu 573-875-
+
+3. Zach Bishop
+   Email: zbishop@ccis.edu
+   Username: zbishop
+   Original line: Zach Bishop Assistant Coach zbishop@ccis.edu 573-875-
+
+4. Tomas Brock
+   Email: thbrock@ccis.edu
+   Username: thbrock
+   Original line: Tomas Brock Head Men's Basketball Coach thbrock@ccis.edu 573-875-
+
+5. Matt Woodcock
+   Email: mrwoodcock1@ccis.edu
+   Username: mrwoodcock1
+   Original line: Matt Woodcock Assistant Coach mrwoodcock1@ccis.edu 573-875-
+
+6. Makiah Wade
+   Email: mwade@ccis.edu
+   Username: mwade
+   Original line: Makiah Wade Assistant Coach mwade@ccis.edu
+
+7. Matt Moore
+   Email: mmoore31@ccis.edu
+   Username: mmoore31
+   Original line: Matt Moore Head Women's Basketball Coach mmoore31@ccis.edu 573-875-
+
+8. Allison Helsel
+   Email: arhelsel@ccis.edu
+   Username: arhelsel
+   Original line: Allison Helsel Assistant Coach arhelsel@ccis.edu
+
+9. Damon Helgevold
+   Email: dhelgevold@ccis.edu
+   Username: dhelgevold
+   Original line: Damon Helgevold Head Coach dhelgevold@ccis.edu 573-875-
+
+10. Danniele Liles
+   Email: drliles1@ccis.edu
+   Username: drliles1
+   Original line: Danniele Liles Director of Spirit/Head Cheer Coach drliles1@ccis.edu 573-875-
+
+11. Amanda Roberts
+   Email: aroberts@ccis.edu
+   Username: aroberts
+   Original line: Amanda Roberts Head Dance Coach aroberts@ccis.edu 573-875-
+
+12. Mason McCaleb
+   Email: mdmccaleb1@ccis.edu
+   Username: mdmccaleb1
+   Original line: Mason McCaleb Assistant Coach - Throws mdmccaleb1@ccis.edu 573-875-
+
+13. Ryan Bontz
+   Email: rbontz@ccis.edu
+   Username: rbontz
+   Original line: Ryan Bontz Assistant Coach rbontz@ccis.edu 573-875-
+
+14. Nadia Fanjul
+   Email: nfanjulsanchezp1@cougars.ccis.edu
+   Username: nfanjulsanchezp1
+   Original line: Nadia Fanjul Sanchez-Porro Graduate Assistant Coach - Sprints/Jumps nfanjulsanchezp1@cougars.ccis.edu 573-205-
+
+15. Lindsay Zeiter
+   Email: lzeiter@ccis.edu
+   Username: lzeiter
+   Original line: Dr. Lindsay Zeiter Assistant Coach lzeiter@ccis.edu 573-875-
+
+16. Noah Wilson
+   Email: ndwilson4@ccis.edu
+   Username: ndwilson4
+   Original line: Noah Wilson Head Men's & Women's Golf Coach ndwilson4@ccis.edu 573-875-
+
+17. Carson Hall
+   Email: crhall4@ccis.edu
+   Username: crhall4
+   Original line: Carson Hall Assistant Coach crhall4@ccis.edu 573-875-
+
+18. Barry Doty
+   Email: bdoty@ccis.edu
+   Username: bdoty
+   Original line: Barry Doty Assistant Coach bdoty@ccis.edu 573-875-
+
+19. Billy Dineen
+   Email: wtdineen@ccis.edu
+   Username: wtdineen
+   Original line: Billy Dineen Head Coach wtdineen@ccis.edu 573-875-
+
+20. Cooper Bryant
+   Email: cebryant1@ccis.edu
+   Username: cebryant1
+   Original line: Cooper Bryant Assistant Coach cebryant1@ccis.edu
+
+21. Nathan Mason
+   Email: ntmason@ccis.edu
+   Username: ntmason
+   Original line: Nathan Mason Head Men's Soccer Coach ntmason@ccis.edu 573-875-
+
+22. Jackson Schrum
+   Email: jrschrum1@ccis.edu
+   Username: jrschrum1
+   Original line: Jackson Schrum Assistant Coach jrschrum1@ccis.edu
+
+23. Lauren Robb
+   Email: lrobb@ccis.edu
+   Username: lrobb
+   Original line: Lauren Robb Head Women's Soccer Coach lrobb@ccis.edu 573-875-
+
+24. Kevin Roderique
+   Email: klroderique@ccis.edu
+   Username: klroderique
+   Original line: Kevin Roderique Assistant Coach klroderique@ccis.edu 573-875-
+
+25. Wendy Spratt
+   Email: wsspratt@ccis.edu
+   Username: wsspratt
+   Original line: Wendy Spratt Head Softball Coach wsspratt@ccis.edu 573-875-
+
+26. Jordan Logan
+   Email: jclogan1@ccis.edu
+   Username: jclogan1
+   Original line: Jordan Logan Assistant Coach jclogan1@ccis.edu
+
+27. Allison Jones-Olson
+   Email: ajonesolson@ccis.edu
+   Username: ajonesolson
+   Original line: Allison Jones-Olson Head Volleyball Coach ajonesolson@ccis.edu 573-875-
+
+28. Annabelle Maassen
+   Email: ammaassen@ccis.edu
+   Username: ammaassen
+   Original line: Annabelle Maassen Assistant Coach ammaassen@ccis.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Darren Munns Head Baseball Coach ddmunns@ccis.edu 573-875-
+• Craig "Boomer" McAndrews Associate Head Coach cemcandrews@ccis.edu 573-875-
+• Zach Bishop Assistant Coach zbishop@ccis.edu 573-875-
+• Tomas Brock Head Men's Basketball Coach thbrock@ccis.edu 573-875-
+• Matt Woodcock Assistant Coach mrwoodcock1@ccis.edu 573-875-
+• Makiah Wade Assistant Coach mwade@ccis.edu
+• Matt Moore Head Women's Basketball Coach mmoore31@ccis.edu 573-875-
+• Allison Helsel Assistant Coach arhelsel@ccis.edu
+• Damon Helgevold Head Coach dhelgevold@ccis.edu 573-875-
+• Danniele Liles Director of Spirit/Head Cheer Coach drliles1@ccis.edu 573-875-
+• Amanda Roberts Head Dance Coach aroberts@ccis.edu 573-875-
+• Mason McCaleb Assistant Coach - Throws mdmccaleb1@ccis.edu 573-875-
+• Ryan Bontz Assistant Coach rbontz@ccis.edu 573-875-
+• Nadia Fanjul Sanchez-Porro Graduate Assistant Coach - Sprints/Jumps nfanjulsanchezp1@cougars.ccis.edu 573-205-
+• Dr. Lindsay Zeiter Assistant Coach lzeiter@ccis.edu 573-875-
+• Noah Wilson Head Men's & Women's Golf Coach ndwilson4@ccis.edu 573-875-
+• Carson Hall Assistant Coach crhall4@ccis.edu 573-875-
+• Barry Doty Assistant Coach bdoty@ccis.edu 573-875-
+• Billy Dineen Head Coach wtdineen@ccis.edu 573-875-
+• Cooper Bryant Assistant Coach cebryant1@ccis.edu
+• Nathan Mason Head Men's Soccer Coach ntmason@ccis.edu 573-875-
+• Jackson Schrum Assistant Coach jrschrum1@ccis.edu
+• Lauren Robb Head Women's Soccer Coach lrobb@ccis.edu 573-875-
+• Kevin Roderique Assistant Coach klroderique@ccis.edu 573-875-
+• Wendy Spratt Head Softball Coach wsspratt@ccis.edu 573-875-
+• Jordan Logan Assistant Coach jclogan1@ccis.edu
+• Allison Jones-Olson Head Volleyball Coach ajonesolson@ccis.edu 573-875-
+• Annabelle Maassen Assistant Coach ammaassen@ccis.edu

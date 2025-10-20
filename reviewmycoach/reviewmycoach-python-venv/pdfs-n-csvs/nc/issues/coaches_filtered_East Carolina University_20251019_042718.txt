@@ -1,0 +1,16 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:19
+============================================================
+
+Total coaches found: 1
+
+PARSED ENTRIES:
+----------------------------------------
+1.  
+   Email: AthleticsCompliance@ecu.edu
+   Username: AthleticsCompliance
+   Original line: Morgan Moseley Graduate Assistant Coach AthleticsCompliance@ecu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

@@ -1,0 +1,163 @@
+COACH ENTRIES FOUND - 2025-10-19 04:36:18
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Shane McCarroll
+   Email: smccarroll@eou.edu
+   Username: smccarroll
+   Original line: Shane McCarroll Interim Head Baseball Coach smccarroll@eou.edu
+
+2. Ben Welch
+   Email: ben.welch@eou.edu
+   Username: ben.welch
+   Phone: (541) 962-3851
+   Original line: Ben Welch Head Cross Country/Track & Field Coach ben.welch@eou.edu 541-962-3851
+
+3. Connor Bracken
+   Email: cbracken@eou.edu
+   Username: cbracken
+   Original line: Connor Bracken Assistant Track & Field Coach / Sprints, Hurdles, Multi- cbracken@eou.edu (503) 724 - 2484
+
+4. Dirk Bortz
+   Email: bortzd@eou.edu
+   Username: bortzd
+   Original line: Dirk Bortz Assistant Track & Field Coach / Throws bortzd@eou.edu
+
+5. Bob Heitstuman
+   Email: bheitstuman@eou.edu
+   Username: bheitstuman
+   Original line: Bob Heitstuman Assistant Track & Field Coach / Pole Vault bheitstuman@eou.edu
+
+6. Tim Camp
+   Email: tim.camp@eou.edu
+   Username: tim.camp
+   Phone: (541) 962-3396
+   Original line: Tim Camp Head Football Coach / Running Backs tim.camp@eou.edu 541-962-3396
+
+7. Wade Green
+   Email: greenw@eou.edu
+   Username: greenw
+   Phone: (541) 962-3346
+   Original line: Wade Green Assistant Coach - Defensive Line greenw@eou.edu 541-962-3346
+
+8. Willie Camp
+   Email: wcamp@eou.edu
+   Username: wcamp
+   Phone: (541) 805-4205
+   Original line: Willie Camp Assistant Coach - Wide Receivers wcamp@eou.edu 541-805-4205
+
+9. Karson Brown
+   Email: krbrown1@eou.edu
+   Username: krbrown1
+   Phone: (541) 212-4247
+   Original line: Karson Brown Graduate Assistant Coach - Offensive Line krbrown1@eou.edu 541-212-4247
+
+10. Ryan Piper
+   Email: rpiper@eou.edu
+   Username: rpiper
+   Original line: Ryan Piper Graduate Assistant Coach - Linebackers rpiper@eou.edu
+
+11. Chris Kemp
+   Email: ckemp@eou.edu
+   Username: ckemp
+   Phone: (541) 962-3333
+   Original line: Chris Kemp Head Men's Basketball Coach ckemp@eou.edu 541-962-3333
+
+12. Jessy Watson
+   Email: watsonja@eou.edu
+   Username: watsonja
+   Phone: (541) 910-6447
+   Original line: Jessy Watson Head Men's Soccer Coach watsonja@eou.edu 541-910-6447
+
+13. Oscar Alegria
+   Email: oalegria@eou.edu
+   Username: oalegria
+   Phone: (818) 277-6198
+   Original line: Oscar Alegria Assistant Coach oalegria@eou.edu (818) 277-6198
+
+14. Dustyn Azure
+   Email: dazure@eou.edu
+   Username: dazure
+   Phone: (541) 962-3106
+   Original line: Dustyn Azure Head Men's Wrestling Coach dazure@eou.edu 541-962-3106
+
+15. Austin Schoen
+   Email: austin@warriorsportswellness.com
+   Username: austin
+   Original line: Austin Schoen Men's Wrestling Strength and Conditioning Coach austin@warriorsportswellness.com
+
+16. Nicole Christian
+   Email: christn@eou.edu
+   Username: christn
+   Phone: (541) 962-3808
+   Original line: Nicole Christian Head Softball Coach christn@eou.edu 541-962-3808
+
+17. Kaki McLean
+   Email: kaki.mclean@eou.edu
+   Username: kaki.mclean
+   Phone: (541) 962-3687
+   Original line: Kaki McLean Morehead Head Volleyball Coach kaki.mclean@eou.edu 541-962-3687
+
+18. Anji Weissenfluh
+   Email: anji.weissenfluh@eou.edu
+   Username: anji.weissenfluh
+   Phone: (541) 962-3236
+   Original line: Anji Weissenfluh Head Women's Basketball Coach anji.weissenfluh@eou.edu 541-962-3236
+
+19. Tiffanie Ulmer
+   Email: ulmert@eou.edu
+   Username: ulmert
+   Original line: Tiffanie Ulmer Assistant Women's Basketball Coach ulmert@eou.edu
+
+20. Josh Goodman
+   Email: jgoodman@eou.edu
+   Username: jgoodman
+   Original line: Josh Goodman Head Women's Soccer Coach jgoodman@eou.edu (541) 962 - 3850
+
+21. Oscar Alegria
+   Email: oalegria@eou.edu
+   Username: oalegria
+   Phone: (818) 277-6198
+   Original line: Oscar Alegria Assistant Coach oalegria@eou.edu (818) 277-6198
+
+22. Mhar Caballa
+   Email: mcaballa@eou.edu
+   Username: mcaballa
+   Phone: (541) 962-3324
+   Original line: Mhar Caballa Head Women's Wrestling Coach mcaballa@eou.edu (541) 962-3324
+
+23. Erin Redford
+   Email: eredford@eou.edu
+   Username: eredford
+   Original line: Erin Redford Volunteer Assistant Women's Wrestling Coach eredford@eou.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Shane McCarroll Interim Head Baseball Coach smccarroll@eou.edu
+• Ben Welch Head Cross Country/Track & Field Coach ben.welch@eou.edu 541-962-3851
+• Connor Bracken Assistant Track & Field Coach / Sprints, Hurdles, Multi- cbracken@eou.edu (503) 724 - 2484
+• Dirk Bortz Assistant Track & Field Coach / Throws bortzd@eou.edu
+• Bob Heitstuman Assistant Track & Field Coach / Pole Vault bheitstuman@eou.edu
+• Tim Camp Head Football Coach / Running Backs tim.camp@eou.edu 541-962-3396
+• Wade Green Assistant Coach - Defensive Line greenw@eou.edu 541-962-3346
+• Willie Camp Assistant Coach - Wide Receivers wcamp@eou.edu 541-805-4205
+• Karson Brown Graduate Assistant Coach - Offensive Line krbrown1@eou.edu 541-212-4247
+• Ryan Piper Graduate Assistant Coach - Linebackers rpiper@eou.edu
+• Chris Kemp Head Men's Basketball Coach ckemp@eou.edu 541-962-3333
+• Jessy Watson Head Men's Soccer Coach watsonja@eou.edu 541-910-6447
+• Oscar Alegria Assistant Coach oalegria@eou.edu (818) 277-6198
+• Dustyn Azure Head Men's Wrestling Coach dazure@eou.edu 541-962-3106
+• Austin Schoen Men's Wrestling Strength and Conditioning Coach austin@warriorsportswellness.com
+• Nicole Christian Head Softball Coach christn@eou.edu 541-962-3808
+• Kaki McLean Morehead Head Volleyball Coach kaki.mclean@eou.edu 541-962-3687
+• Anji Weissenfluh Head Women's Basketball Coach anji.weissenfluh@eou.edu 541-962-3236
+• Tiffanie Ulmer Assistant Women's Basketball Coach ulmert@eou.edu
+• Josh Goodman Head Women's Soccer Coach jgoodman@eou.edu (541) 962 - 3850
+• Oscar Alegria Assistant Coach oalegria@eou.edu (818) 277-6198
+• Mhar Caballa Head Women's Wrestling Coach mcaballa@eou.edu (541) 962-3324
+• Erin Redford Volunteer Assistant Women's Wrestling Coach eredford@eou.edu

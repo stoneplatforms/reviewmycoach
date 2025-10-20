@@ -1,0 +1,287 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:22
+============================================================
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kwadwo Aikins
+   Email: kaikins@lewisu.edu
+   Username: kaikins
+   Original line: Kwadwo Aikins Strength and Conditioning Coach kaikins@lewisu.edu
+
+2. Sean Dwyer
+   Email: sdwyer1@lewisu.edu
+   Username: sdwyer1
+   Original line: Sean Dwyer Success Coach – Athletics Specialist sdwyer1@lewisu.edu 815-836-
+
+3. Mike Vucsko
+   Email: vucskomi@lewisu.edu
+   Username: vucskomi
+   Original line: Mike Vucsko Head Coach vucskomi@lewisu.edu 815-836-
+
+4. Jake Lotz
+   Email: jlotz@lewisu.edu
+   Username: jlotz
+   Original line: Jake Lotz Assistant Coach/Recruiting Coordinator jlotz@lewisu.edu 815-836-
+
+5. Nick Rocco
+   Email: nrocco@lewisu.edu
+   Username: nrocco
+   Original line: Nick Rocco Head Coach nrocco@lewisu.edu 815-836-
+
+6. Laurynas Motuzis
+   Email: lmotuzis@lewisu.edu
+   Username: lmotuzis
+   Original line: Laurynas Motuzis Assistant Coach lmotuzis@lewisu.edu 815-836-
+
+7. Dodie Dunson
+   Email: ddunson@lewisu.edu
+   Username: ddunson
+   Original line: Dodie Dunson Jr. Head Coach ddunson@lewisu.edu 815-836-
+
+8. Ana Haklicka
+   Email: anahaklicka@lewisu.edu
+   Username: anahaklicka
+   Original line: Ana Haklicka Graduate Assistant Coach anahaklicka@lewisu.edu
+
+9. James Kearney
+   Email: kearneja@lewisu.edu
+   Username: kearneja
+   Original line: James Kearney Head Coach kearneja@lewisu.edu 815-836-
+
+10. Evan Jamrozy
+   Email: ejamrozy@lewisu.edu
+   Username: ejamrozy
+   Original line: Evan Jamrozy Assistant Coach ejamrozy@lewisu.edu
+
+11. Trevor Swanson
+   Email: tswanson2@lewisu.edu
+   Username: tswanson2
+   Original line: Trevor Swanson Assistant Coach tswanson2@lewisu.edu
+
+12. Greg Baresel
+   Email: gbaresel@lewisu.edu
+   Username: gbaresel
+   Original line: Greg Baresel Head Coach gbaresel@lewisu.edu 815-836-
+
+13. Caswell Bloomquist
+   Email: cbloomquist@lewisu.edu
+   Username: cbloomquist
+   Original line: Caswell Bloomquist Assistant Coach cbloomquist@lewisu.edu 815-836-
+
+14. Joe Perruzzi
+   Email: jperruzzi@lewisu.edu
+   Username: jperruzzi
+   Original line: Joe Perruzzi Head Coach jperruzzi@lewisu.edu 815-836-
+
+15. Brendan Kearney
+   Email: bkearney@lewisu.edu
+   Username: bkearney
+   Original line: Brendan Kearney Assistant Coach bkearney@lewisu.edu 815-836-
+
+16. Trent Siggins
+   Email: tsiggins@lewisu.edu
+   Username: tsiggins
+   Original line: Trent Siggins Assistant Coach tsiggins@lewisu.edu 815-690-
+
+17. Mariah Smith
+   Email: msmith59@lewisu.edu
+   Username: msmith59
+   Original line: Mariah Smith Head Coach msmith59@lewisu.edu 815-836-
+
+18. Claire Rosenberg
+   Email: crosenberg@lewisu.edu
+   Username: crosenberg
+   Original line: Claire Rosenberg Assistant Coach crosenberg@lewisu.edu
+
+19. Evan Fiffles
+   Email: fiffleev@lewisu.edu
+   Username: fiffleev
+   Original line: Evan Fiffles Head Coach fiffleev@lewisu.edu 815-836-
+
+20. Charlie Bucio
+   Email: carlosbucio@lewisu.edu
+   Username: carlosbucio
+   Original line: Charlie Bucio Assistant Coach carlosbucio@lewisu.edu 815-836-
+
+21. George Martinez
+   Email: gmartinez16@lewisu.edu
+   Username: gmartinez16
+   Original line: George Martinez Assistant Coach gmartinez16@lewisu.edu 815-836-
+
+22. Chris Koenig
+   Email: koenigch@lewisu.edu
+   Username: koenigch
+   Original line: Chris Koenig Head Coach koenigch@lewisu.edu 815-836-
+
+23. Grant Sicard
+   Email: gsicard@lewisu.edu
+   Username: gsicard
+   Original line: Grant Sicard Assistant Coach gsicard@lewisu.edu 815-836-
+
+24. Becky Pearl
+   Email: pearlbe@lewisu.edu
+   Username: pearlbe
+   Original line: Becky Pearl Head Coach pearlbe@lewisu.edu 815-836-
+
+25. Cierra Taylor
+   Email: ctaylor9@lewisu.edu
+   Username: ctaylor9
+   Original line: Cierra Taylor Assistant Coach ctaylor9@lewisu.edu 815-836-
+
+26. Molly Ryan
+   Email: mryan11@lewisu.edu
+   Username: mryan11
+   Original line: Molly Ryan Assistant Coach mryan11@lewisu.edu 815-836-
+
+27. Kaitlyn VanHekken
+   Email: kvanhekken@lewisu.edu
+   Username: kvanhekken
+   Original line: Kaitlyn VanHekken Head Coach kvanhekken@lewisu.edu (815)
+
+28. Ian Disteldorf
+   Email: idisteldorf@lewisu.edu
+   Username: idisteldorf
+   Original line: Ian Disteldorf Head Coach idisteldorf@lewisu.edu 815-836-
+
+29. Zuzanna Malinowska
+   Email: zmalinowska@lewisu.edu
+   Username: zmalinowska
+   Original line: Zuzanna Malinowska Assistant Coach zmalinowska@lewisu.edu 815-836-
+
+30. Arthur Virturi
+   Email: aviturimarques@lewisu.edu
+   Username: aviturimarques
+   Original line: Arthur Virturi Marques Assistant Coach aviturimarques@lewisu.edu 815-836-
+
+31. Dana Schwarting
+   Email: schwarda@lewisu.edu
+   Username: schwarda
+   Original line: Dana Schwarting Head Coach schwarda@lewisu.edu 815-836-
+
+32. James Kearney
+   Email: kearneja@lewisu.edu
+   Username: kearneja
+   Original line: James Kearney Associate Head Coach / Recruiting Coordinator kearneja@lewisu.edu 815-836-
+
+33. Brent Graham
+   Email: bgraham3@lewisu.edu
+   Username: bgraham3
+   Original line: Brent Graham Assistant Coach - Throws bgraham3@lewisu.edu 815-836-
+
+34. Duane Chappell
+   Email: duanegchappell@lewisu.edu
+   Username: duanegchappell
+   Original line: Duane Chappell Assistant Coach - Vault duanegchappell@lewisu.edu 815-836-
+
+35. Forrest Donnell
+   Email: fdonnell@lewisu.edu
+   Username: fdonnell
+   Original line: Forrest Donnell Assistant Coach - Multis Jumps Sprints fdonnell@lewisu.edu
+
+36. Evan Jamrozy
+   Email: ejamrozy@lewisu.edu
+   Username: ejamrozy
+   Original line: Evan Jamrozy Assistant Coach - Distance ejamrozy@lewisu.edu
+
+37. Trevor Swanson
+   Email: tswanson2@lewisu.edu
+   Username: tswanson2
+   Original line: Trevor Swanson Assistant Coach - Distance tswanson2@lewisu.edu
+
+38. Dan Friend
+   Email: friendda@lewisu.edu
+   Username: friendda
+   Original line: Dan Friend Head Coach friendda@lewisu.edu 815-836-
+
+39. Jake Walenga
+   Email: jwalenga@lewisu.edu
+   Username: jwalenga
+   Original line: Jake Walenga Assistant Coach jwalenga@lewisu.edu 815-836-
+
+40. Matthew McCarthy
+   Email: mccartmw@lewisu.edu
+   Username: mccartmw
+   Original line: Matthew McCarthy Assistant Coach mccartmw@lewisu.edu 815-836-
+
+41. Kaden Dolbee
+   Email: kdolbee@lewisu.edu
+   Username: kdolbee
+   Original line: Kaden Dolbee Assistant Coach kdolbee@lewisu.edu
+
+42. Lorelee Smith
+   Email: smithlo@lewisu.edu
+   Username: smithlo
+   Original line: Lorelee Smith Head Coach smithlo@lewisu.edu 815-836-
+
+43. Dylan Riley
+   Email: jriley6@lewisu.edu
+   Username: jriley6
+   Original line: Dylan Riley Assistant Coach jriley6@lewisu.edu 815-836-
+
+44. Hannah Alvey
+   Email: halvey@lewisu.edu
+   Username: halvey
+   Original line: Hannah Alvey Assistant Coach halvey@lewisu.edu
+
+45. Francisco Leija-Duque
+   Email: fleijaduque@lewisu.edu
+   Username: fleijaduque
+   Original line: Francisco Leija-Duque Head Coach fleijaduque@lewisu.edu 815-836-
+
+46. Francisco Leija-Duque
+   Email: fleijaduque@lewisu.edu
+   Username: fleijaduque
+   Original line: Francisco Leija-Duque Head Coach fleijaduque@lewisu.edu 815-836-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kwadwo Aikins Strength and Conditioning Coach kaikins@lewisu.edu
+• Sean Dwyer Success Coach – Athletics Specialist sdwyer1@lewisu.edu 815-836-
+• Mike Vucsko Head Coach vucskomi@lewisu.edu 815-836-
+• Jake Lotz Assistant Coach/Recruiting Coordinator jlotz@lewisu.edu 815-836-
+• Nick Rocco Head Coach nrocco@lewisu.edu 815-836-
+• Laurynas Motuzis Assistant Coach lmotuzis@lewisu.edu 815-836-
+• Dodie Dunson Jr. Head Coach ddunson@lewisu.edu 815-836-
+• Ana Haklicka Graduate Assistant Coach anahaklicka@lewisu.edu
+• James Kearney Head Coach kearneja@lewisu.edu 815-836-
+• Evan Jamrozy Assistant Coach ejamrozy@lewisu.edu
+• Trevor Swanson Assistant Coach tswanson2@lewisu.edu
+• Greg Baresel Head Coach gbaresel@lewisu.edu 815-836-
+• Caswell Bloomquist Assistant Coach cbloomquist@lewisu.edu 815-836-
+• Joe Perruzzi Head Coach jperruzzi@lewisu.edu 815-836-
+• Brendan Kearney Assistant Coach bkearney@lewisu.edu 815-836-
+• Trent Siggins Assistant Coach tsiggins@lewisu.edu 815-690-
+• Mariah Smith Head Coach msmith59@lewisu.edu 815-836-
+• Claire Rosenberg Assistant Coach crosenberg@lewisu.edu
+• Evan Fiffles Head Coach fiffleev@lewisu.edu 815-836-
+• Charlie Bucio Assistant Coach carlosbucio@lewisu.edu 815-836-
+• George Martinez Assistant Coach gmartinez16@lewisu.edu 815-836-
+• Chris Koenig Head Coach koenigch@lewisu.edu 815-836-
+• Grant Sicard Assistant Coach gsicard@lewisu.edu 815-836-
+• Becky Pearl Head Coach pearlbe@lewisu.edu 815-836-
+• Cierra Taylor Assistant Coach ctaylor9@lewisu.edu 815-836-
+• Molly Ryan Assistant Coach mryan11@lewisu.edu 815-836-
+• Kaitlyn VanHekken Head Coach kvanhekken@lewisu.edu (815)
+• Ian Disteldorf Head Coach idisteldorf@lewisu.edu 815-836-
+• Zuzanna Malinowska Assistant Coach zmalinowska@lewisu.edu 815-836-
+• Arthur Virturi Marques Assistant Coach aviturimarques@lewisu.edu 815-836-
+• Dana Schwarting Head Coach schwarda@lewisu.edu 815-836-
+• James Kearney Associate Head Coach / Recruiting Coordinator kearneja@lewisu.edu 815-836-
+• Brent Graham Assistant Coach - Throws bgraham3@lewisu.edu 815-836-
+• Duane Chappell Assistant Coach - Vault duanegchappell@lewisu.edu 815-836-
+• Forrest Donnell Assistant Coach - Multis Jumps Sprints fdonnell@lewisu.edu
+• Evan Jamrozy Assistant Coach - Distance ejamrozy@lewisu.edu
+• Trevor Swanson Assistant Coach - Distance tswanson2@lewisu.edu
+• Dan Friend Head Coach friendda@lewisu.edu 815-836-
+• Jake Walenga Assistant Coach jwalenga@lewisu.edu 815-836-
+• Matthew McCarthy Assistant Coach mccartmw@lewisu.edu 815-836-
+• Kaden Dolbee Assistant Coach kdolbee@lewisu.edu
+• Lorelee Smith Head Coach smithlo@lewisu.edu 815-836-
+• Dylan Riley Assistant Coach jriley6@lewisu.edu 815-836-
+• Hannah Alvey Assistant Coach halvey@lewisu.edu
+• Francisco Leija-Duque Head Coach fleijaduque@lewisu.edu 815-836-
+• Francisco Leija-Duque Head Coach fleijaduque@lewisu.edu 815-836-

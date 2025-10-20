@@ -1,0 +1,107 @@
+COACH ENTRIES FOUND - 2025-10-19 04:36:17
+============================================================
+
+Total coaches found: 16
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ryan Harris
+   Email: rharris@corban.edu
+   Username: rharris
+   Original line: Ryan Harris Head Baseball Coach, rharris@corban.edu (815) corbanbaseball CorbanBaseball
+
+2. Drew DeMasi
+   Email: ddemasi@corban.edu
+   Username: ddemasi
+   Original line: Drew DeMasi Assistant Coach ddemasi@corban.edu
+
+3. Jolinn Daviscourt
+   Email: jolinndaviscourt@corban.edu
+   Username: jolinndaviscourt
+   Original line: Jolinn Daviscourt Assistant Coach jolinndaviscourt@corban.edu
+
+4. Jeff Covalt
+   Email: jcovalt@corban.edu
+   Username: jcovalt
+   Original line: Jeff Covalt Head Softball Coach, jcovalt@corban.edu (503) corbansoftball CorbanSoftball
+
+5. Ryan Harris
+   Email: rharris@corban.edu
+   Username: rharris
+   Original line: Ryan Harris Head Baseball Coach, rharris@corban.edu (815) corbanbaseball CorbanBaseball
+
+6. Charlie Marshall
+   Email: cmarshall@corban.edu
+   Username: cmarshall
+   Original line: Charlie Marshall Head Golf Coach, Golf cmarshall@corban.edu (503) corbanmgolf CorbanMGolf
+
+7. Stuart Eagon
+   Email: seagon@corban.edu
+   Username: seagon
+   Original line: Stuart Eagon Associate Head Coach - seagon@corban.edu (608)
+
+8. Charlie Marshall
+   Email: cmarshall@corban.edu
+   Username: cmarshall
+   Original line: Charlie Marshall Head Golf Coach, Golf cmarshall@corban.edu (503) corbanmgolf CorbanMGolf
+
+9. Tim Kagey
+   Email: tkagey@corban.edu
+   Username: tkagey
+   Original line: Tim Kagey Head Men's Soccer Coach tkagey@corban.edu (503) corbanmsoc CorbanMSOC
+
+10. Darren Martin
+   Email: dmartin@corban.edu
+   Username: dmartin
+   Original line: Darren Martin Assistant Coach dmartin@corban.edu
+
+11. Benny Flores
+   Email: bennyfflores@yahoo.com
+   Username: bennyfflores
+   Original line: Benny Flores Assistant Coach bennyfflores@yahoo.com
+
+12. Brent Seidler
+   Email: bseidler@corban.edu
+   Username: bseidler
+   Original line: Brent Seidler Associate Head Coach - bseidler@corban.edu
+
+13. Stuart Eagon
+   Email: seagon@corban.edu
+   Username: seagon
+   Original line: Stuart Eagon Associate Head Coach - seagon@corban.edu (608)
+
+14. Kary Hadden
+   Email: khadden@corban.edu
+   Username: khadden
+   Original line: Kary Hadden Assistant Coach khadden@corban.edu (503)
+
+15. Jeff Covalt
+   Email: jcovalt@corban.edu
+   Username: jcovalt
+   Original line: Jeff Covalt Head Softball Coach, jcovalt@corban.edu (503) corbansoftball CorbanSoftball
+
+16. Dick McLain
+   Email: dmclain@corban.edu
+   Username: dmclain
+   Original line: Dick McLain Assistant Coach/Recruiting dmclain@corban.edu (541)
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ryan Harris Head Baseball Coach, rharris@corban.edu (815) corbanbaseball CorbanBaseball
+• Drew DeMasi Assistant Coach ddemasi@corban.edu
+• Jolinn Daviscourt Assistant Coach jolinndaviscourt@corban.edu
+• Jeff Covalt Head Softball Coach, jcovalt@corban.edu (503) corbansoftball CorbanSoftball
+• Ryan Harris Head Baseball Coach, rharris@corban.edu (815) corbanbaseball CorbanBaseball
+• Charlie Marshall Head Golf Coach, Golf cmarshall@corban.edu (503) corbanmgolf CorbanMGolf
+• Stuart Eagon Associate Head Coach - seagon@corban.edu (608)
+• Charlie Marshall Head Golf Coach, Golf cmarshall@corban.edu (503) corbanmgolf CorbanMGolf
+• Tim Kagey Head Men's Soccer Coach tkagey@corban.edu (503) corbanmsoc CorbanMSOC
+• Darren Martin Assistant Coach dmartin@corban.edu
+• Benny Flores Assistant Coach bennyfflores@yahoo.com
+• Brent Seidler Associate Head Coach - bseidler@corban.edu
+• Stuart Eagon Associate Head Coach - seagon@corban.edu (608)
+• Kary Hadden Assistant Coach khadden@corban.edu (503)
+• Jeff Covalt Head Softball Coach, jcovalt@corban.edu (503) corbansoftball CorbanSoftball
+• Dick McLain Assistant Coach/Recruiting dmclain@corban.edu (541)

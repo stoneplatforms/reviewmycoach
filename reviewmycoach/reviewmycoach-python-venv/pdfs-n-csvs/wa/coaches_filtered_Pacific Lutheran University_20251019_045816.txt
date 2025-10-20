@@ -1,0 +1,143 @@
+COACH ENTRIES FOUND - 2025-10-19 04:58:16
+============================================================
+
+Total coaches found: 22
+
+PARSED ENTRIES:
+----------------------------------------
+1. Zack Losack
+   Email: losackz@plu.edu
+   Username: losackz
+   Original line: Zack Losack Director of Strength & Conditioning/Head Coach losackz@plu.edu
+
+2. Nolan Soete
+   Email: soetenp@plu.edu
+   Username: soetenp
+   Original line: Nolan Soete Head Coach soetenp@plu.edu 253-535-
+
+3. Chad Murray
+   Email: murraycg@plu.edu
+   Username: murraycg
+   Original line: Chad Murray Head Coach murraycg@plu.edu 253-535-
+
+4. Lee Aduddell
+   Email: lee.aduddell@plu.edu
+   Username: lee.aduddell
+   Original line: Lee Aduddell Head Coach lee.aduddell@plu.edu 253-535-
+
+5. Francis Reynolds
+   Email: freynolds@plu.edu
+   Username: freynolds
+   Original line: Francis Reynolds Interim Head Coach freynolds@plu.edu
+
+6. Brant McAdams
+   Email: mcadambw@plu.edu
+   Username: mcadambw
+   Original line: Brant McAdams Head Coach mcadambw@plu.edu 253-535-
+
+7. Ketner Kupp
+   Email: kkupp@plu.edu
+   Username: kkupp
+   Original line: Ketner Kupp Defensive Coordinator/Linebackers Coach kkupp@plu.edu 253-535-
+
+8. Graydon Kulick
+   Email: gkulick@plu.edu
+   Username: gkulick
+   Original line: Graydon Kulick Quarterbacks Coach/Passing Game Coordinator/Camp gkulick@plu.edu
+
+9. Al Patterson
+   Email: apatterson@plu.edu
+   Username: apatterson
+   Original line: Al Patterson Head Coach apatterson@plu.edu
+
+10. Melanie Rizzotti
+   Email: melanie.rizzotti@plu.edu
+   Username: melanie.rizzotti
+   Original line: Melanie Rizzotti Head Coach melanie.rizzotti@plu.edu
+
+11. Matt Oclander
+   Email: oclanderm@plu.edu
+   Username: oclanderm
+   Original line: Matt Oclander Head Coach oclanderm@plu.edu 253-535-
+
+12. John Yorke
+   Email: yorkejh@plu.edu
+   Username: yorkejh
+   Original line: John Yorke Head Coach yorkejh@plu.edu 253-334-
+
+13. Jamie Bloomstine
+   Email: bloomsjc@plu.edu
+   Username: bloomsjc
+   Original line: Jamie Bloomstine Assistant Coach bloomsjc@plu.edu
+
+14. Peter Voiles
+   Email: voilespg@plu.edu
+   Username: voilespg
+   Original line: Peter Voiles Assistant Coach voilespg@plu.edu
+
+15. Seth Spidahl
+   Email: spidahsj@plu.edu
+   Username: spidahsj
+   Original line: Seth Spidahl Head Coach spidahsj@plu.edu 253-376-
+
+16. Traci Barrett
+   Email: barrettj@plu.edu
+   Username: barrettj
+   Original line: Traci Barrett Head Coach barrettj@plu.edu 253-208-
+
+17. Ron Balmer
+   Email: balmerrb@plu.edu
+   Username: balmerrb
+   Original line: Ron Balmer Assistant Coach balmerrb@plu.edu
+
+18. Anna Nickel
+   Email: anna.nickel@plu.edu
+   Username: anna.nickel
+   Original line: Anna Nickel Pitching Coach anna.nickel@plu.edu
+
+19. Norm Force
+   Email: Norm.force@plu.edu
+   Username: Norm.force
+   Original line: Norm Force Assistant Coach Norm.force@plu.edu
+
+20. Andrew Lum
+   Email: alum@plu.edu
+   Username: alum
+   Original line: Andrew Lum Head Coach alum@plu.edu 253-535-
+
+21. Trey Henderson
+   Email: hendertc@plu.edu
+   Username: hendertc
+   Original line: Trey Henderson Head Coach (Throws) hendertc@plu.edu 253-535-
+
+22. Kevin Aoki
+   Email: aokika@plu.edu
+   Username: aokika
+   Original line: Kevin Aoki Head Coach aokika@plu.edu 253-536-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Zack Losack Director of Strength & Conditioning/Head Coach losackz@plu.edu
+• Nolan Soete Head Coach soetenp@plu.edu 253-535-
+• Chad Murray Head Coach murraycg@plu.edu 253-535-
+• Lee Aduddell Head Coach lee.aduddell@plu.edu 253-535-
+• Francis Reynolds Interim Head Coach freynolds@plu.edu
+• Brant McAdams Head Coach mcadambw@plu.edu 253-535-
+• Ketner Kupp Defensive Coordinator/Linebackers Coach kkupp@plu.edu 253-535-
+• Graydon Kulick Quarterbacks Coach/Passing Game Coordinator/Camp gkulick@plu.edu
+• Al Patterson Head Coach apatterson@plu.edu
+• Melanie Rizzotti Head Coach melanie.rizzotti@plu.edu
+• Matt Oclander Head Coach oclanderm@plu.edu 253-535-
+• John Yorke Head Coach yorkejh@plu.edu 253-334-
+• Jamie Bloomstine Assistant Coach bloomsjc@plu.edu
+• Peter Voiles Assistant Coach voilespg@plu.edu
+• Seth Spidahl Head Coach spidahsj@plu.edu 253-376-
+• Traci Barrett Head Coach barrettj@plu.edu 253-208-
+• Ron Balmer Assistant Coach balmerrb@plu.edu
+• Anna Nickel Pitching Coach anna.nickel@plu.edu
+• Norm Force Assistant Coach Norm.force@plu.edu
+• Andrew Lum Head Coach alum@plu.edu 253-535-
+• Trey Henderson Head Coach (Throws) hendertc@plu.edu 253-535-
+• Kevin Aoki Head Coach aokika@plu.edu 253-536-

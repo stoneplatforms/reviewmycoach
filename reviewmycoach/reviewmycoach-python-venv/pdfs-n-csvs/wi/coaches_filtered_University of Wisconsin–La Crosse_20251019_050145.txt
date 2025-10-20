@@ -1,0 +1,434 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:45
+============================================================
+
+Total coaches found: 78
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kyle Cluppert
+   Email: kcluppert@uwlax.edu
+   Username: kcluppert
+   Original line: Kyle Cluppert Assistant Sports Performance Coach kcluppert@uwlax.edu
+
+2. Aaron Schmitz
+   Email: aschmitz2@uwlax.edu
+   Username: aschmitz2
+   Original line: Aaron Schmitz Assistant Sports Performance Coach aschmitz2@uwlax.edu
+
+3. Barbara Gibson
+   Email: bgibson@eagle.uwlax.edu
+   Username: bgibson
+   Original line: Barbara Gibson Emeritus Gymnastics Coach bgibson@eagle.uwlax.edu
+
+4. Pat Healy
+   Email: phealy@eagle.uwlax.edu
+   Username: phealy
+   Original line: Pat Healy Emeritus Women's Cross Country/Track & Field Coach phealy@eagle.uwlax.edu
+
+5. Barry Schockmel
+   Email: bschockmel@eagle.uwlax.edu
+   Username: bschockmel
+   Original line: Barry Schockmel Emeritus Diving Coach bschockmel@eagle.uwlax.edu
+
+6. Chris Schwarz
+   Email: cschwarz@uwlax.edu
+   Username: cschwarz
+   Phone: (608) 785-6540
+   Original line: Chris Schwarz Head Baseball Coach cschwarz@uwlax.edu
+
+7. Scott Gillitzer
+   Email: sgillitzer@uwlax.edu
+   Username: sgillitzer
+   Phone: (608) 785-5161
+   Original line: Scott Gillitzer Assistant Head Coach/Hitting Instructor/Recruiting Coordinator sgillitzer@uwlax.edu
+
+8. Matt Zieba
+   Email: mzieba@uwlax.edu
+   Username: mzieba
+   Original line: Matt Zieba Assistant Baseball Coach/Outfield Instructor mzieba@uwlax.edu
+
+9. Travis Hendrickson
+   Email: thendrickson@uwlax.edu
+   Username: thendrickson
+   Phone: (608) 785-8218
+   Original line: Travis Hendrickson Assistant Baseball Coach thendrickson@uwlax.edu
+
+10. Matt Janus
+   Email: mjanus@uwlax.edu
+   Username: mjanus
+   Phone: (608) 785-5173
+   Original line: Matt Janus Head Football Coach mjanus@uwlax.edu
+
+11. Michael Zweifel
+   Email: mzweifel@uwlax.edu
+   Username: mzweifel
+   Original line: Michael Zweifel Assistant Football Coach/Defensive Coordinator/Defensive Backs mzweifel@uwlax.edu
+
+12. Andrew McGlenn
+   Email: amcglenn@uwlax.edu
+   Username: amcglenn
+   Phone: (608) 785-5174
+   Original line: Andrew McGlenn Assistant Football Coach/Off. Line/Recruiting Coord. amcglenn@uwlax.edu
+
+13. Mike Anderson
+   Email: manderson2@uwlax.edu
+   Username: manderson2
+   Phone: (608) 785-5171
+   Original line: Mike Anderson Associate Head Football Coach/Asst. Offensive Linemen manderson2@uwlax.edu
+
+14. Frank Tierney
+   Email: ftierney@uwlax.edu
+   Username: ftierney
+   Original line: Frank Tierney Assistant Football Coach/Wide Receivers ftierney@uwlax.edu
+
+15. Jake White
+   Email: jwhite3@uwlax.edu
+   Username: jwhite3
+   Original line: Jake White Assistant Football Coach/Linebackers jwhite3@uwlax.edu
+
+16. Jake Krause
+   Email: krause0928@uwlax.edu
+   Username: krause0928
+   Original line: Jake Krause Student Assistant Coach/Wide Receivers krause0928@uwlax.edu
+
+17. Aaron Schmitz
+   Email: aschmitz2@uwlax.edu
+   Username: aschmitz2
+   Original line: Aaron Schmitz Assistant Sports Performance Coach aschmitz2@uwlax.edu
+
+18. Peyton Kleinheinz
+   Email: kleinheinz3277@uwlax.edu
+   Username: kleinheinz3277
+   Original line: Peyton Kleinheinz Student Assistant Coach/Quarterbacks kleinheinz3277@uwlax.edu
+
+19. Gavin Seefeldt
+   Email: seefeldt8539@uwlax.edu
+   Username: seefeldt8539
+   Original line: Gavin Seefeldt Student Assistant Coach/Defensive Line seefeldt8539@uwlax.edu
+
+20. JT Gritzmacher
+   Email: jgritzmacher@uwlax.edu
+   Username: jgritzmacher
+   Phone: (608) 785-8819
+   Original line: JT Gritzmacher Head Men's Basketball Coach jgritzmacher@uwlax.edu
+
+21. Kenny Desrosiers
+   Email: kdesrosie@uwlax.edu
+   Username: kdesrosie
+   Phone: (608) 785-5168
+   Original line: Kenny Desrosiers Assistant Men's Basketball Coach kdesrosie@uwlax.edu
+
+22.  
+   Email: pnycz@uwlax.edu
+   Username: pnycz
+   Phone: (608) 785-5169
+   Original line: Assistant Men's Bas (cid:0) ketball(cid:0) Coach Women's Cross Country Football (cid:0) pnycz@uwlax.edu
+
+23. Derek Stanley
+   Email: dstanley@uwlax.edu
+   Username: dstanley
+   Original line: Derek Stanley Head Women's and Men's Cross Country Coach dstanley@uwlax.edu
+
+24. Hannah Beilke
+   Email: hbeilke@uwlax.edu
+   Username: hbeilke
+   Original line: Hannah Beilke Assistant Cross Country/Track & Field Coach hbeilke@uwlax.edu
+
+25. Sierra Rabe
+   Email: srabe@uwlax.edu
+   Username: srabe
+   Original line: Sierra Rabe Assistant Coach/Recruitment Coordinator srabe@uwlax.edu
+
+26.  
+   Email: jcamerota@uwlax.edu
+   Username: jcamerota
+   Original line: Assistant Tennis Coach jcamerota@uwlax.edu
+
+27. Steve Mohs
+   Email: smohs@uwlax.edu
+   Username: smohs
+   Phone: (608) 785-8179
+   Original line: Steve Mohs Head Swimming & Diving Coach smohs@uwlax.edu
+
+28. Jack Englehardt
+   Email: jenglehardt@uwlax.edu
+   Username: jenglehardt
+   Phone: (608) 785-6453
+   Original line: Jack Englehardt Assistant Swimming & Diving Coach/Recruiting Coordinator jenglehardt@uwlax.edu
+
+29. Jeremiah Jackson
+   Email: jjackson@uwlax.edu
+   Username: jjackson
+   Original line: Jeremiah Jackson Diving Coach jjackson@uwlax.edu
+
+30. Josh Buchholtz
+   Email: jbuchholtz@uwlax.edu
+   Username: jbuchholtz
+   Phone: (608) 785-8622
+   Original line: Josh Buchholtz Head Men's Track & Field Coach jbuchholtz@uwlax.edu
+
+31. Derek Stanley
+   Email: dstanley@uwlax.edu
+   Username: dstanley
+   Original line: Derek Stanley Assistant Coach (Distance) dstanley@uwlax.edu
+
+32. Matt Gordy
+   Email: mgordy@uwlax.edu
+   Username: mgordy
+   Original line: Matt Gordy Assistant Coach (Sprints) mgordy@uwlax.edu
+
+33. Garrett Carlson
+   Email: carlson.garr@uwlax.edu
+   Username: carlson.garr
+   Original line: Garrett Carlson Assistant Coach (Multi) carlson.garr@uwlax.edu
+
+34. Doug Geiwitz
+   Email: dgeiwitz@uwlax.edu
+   Username: dgeiwitz
+   Original line: Doug Geiwitz Assistant Coach (Pole Vault) dgeiwitz@uwlax.edu
+
+35. Tommy Knoche
+   Email: tknoche@uwlax.edu
+   Username: tknoche
+   Original line: Tommy Knoche Assistant Coach (Pole Vault) tknoche@uwlax.edu
+
+36. Gunnar Block
+   Email: gunnarblock15@gmail.com
+   Username: gunnarblock15
+   Original line: Gunnar Block Assistant Coach (Multis) gunnarblock15@gmail.com
+
+37. Jakob Tordsen
+   Email: jtordsen@uwlax.edu
+   Username: jtordsen
+   Original line: Jakob Tordsen Assistant Coach (Multis) jtordsen@uwlax.edu
+
+38. Nick Kohl
+   Email: nkohl@uwlax.edu
+   Username: nkohl
+   Phone: (608) 785-8615
+   Original line: Nick Kohl Assistant Coach (Jumps) nkohl@uwlax.edu
+
+39. Sierra Rabe
+   Email: srabe@uwlax.edu
+   Username: srabe
+   Original line: Sierra Rabe Assistant Coach srabe@uwlax.edu
+
+40. Dave Malecek
+   Email: dmalecek@uwlax.edu
+   Username: dmalecek
+   Phone: (608) 785-8184
+   Original line: Dave Malecek Head Wrestling Coach dmalecek@uwlax.edu
+
+41. Zach Cook
+   Email: zcook@uwlax.edu
+   Username: zcook
+   Original line: Zach Cook Assistant Wrestling Coach zcook@uwlax.edu
+
+42. Josh Passe
+   Email: passe.josh@uwlax.edu
+   Username: passe.josh
+   Original line: Josh Passe Assistant Wrestling Coach passe.josh@uwlax.edu
+
+43. Mason Kauffman
+   Email: kauffman5568@uwlax.edu
+   Username: kauffman5568
+   Original line: Mason Kauffman Assistant Wrestling Coach kauffman5568@uwlax.edu
+
+44.  
+   Email: kcrawford@uwlax.edu
+   Username: kcrawford
+   Phone: (608) 785-5176
+   Original line: Head Gymnastics Coach kcrawford@uwlax.edu
+
+45. Kelsey Foss
+   Email: kfoss@uwlax.edu
+   Username: kfoss
+   Phone: (608) 785-6527
+   Original line: Kelsey Foss Assistant Gymnastics Coach/Recruiting Coordinator kfoss@uwlax.edu
+
+46. Moran Lonning
+   Email: mlonning@uwlax.edu
+   Username: mlonning
+   Phone: (608) 785-8618
+   Original line: Moran Lonning Head Women's Basketball Coach mlonning@uwlax.edu
+
+47. Angel Allen
+   Email: aallen@uwlax.edu
+   Username: aallen
+   Phone: (608) 785-5160
+   Original line: Angel Allen Assistant Women's Basketball Coach aallen@uwlax.edu
+
+48.  
+   Email: dwilliams3@uwlax.edu
+   Username: dwilliams3
+   Phone: (608) 785-8190
+   Original line: Assistant Women's Basketball Coach dwilliams3@uwlax.edu
+
+49. Wesley Quintana
+   Email: wquintana@uwlax.edu
+   Username: wquintana
+   Original line: Wesley Quintana Assistant Women's Basketball Coach wquintana@uwlax.edu
+
+50. Derek Stanley
+   Email: dstanley@uwlax.edu
+   Username: dstanley
+   Original line: Derek Stanley Head Women's and Men's Cross Country Coach dstanley@uwlax.edu
+
+51. Hannah Beilke
+   Email: hbeilke@uwlax.edu
+   Username: hbeilke
+   Original line: Hannah Beilke Assistant Cross Country/Track & Field Coach hbeilke@uwlax.edu
+
+52. Sierra Rabe
+   Email: srabe@uwlax.edu
+   Username: srabe
+   Original line: Sierra Rabe Assistant Coach/Recruitment Coordinator srabe@uwlax.edu
+
+53.  
+   Email: dtaebel@uwlax.edu
+   Username: dtaebel
+   Original line: Head Women's Golf Coach dtaebel@uwlax.edu
+
+54. Courtney Zangl
+   Email: czangl@uwlax.edu
+   Username: czangl
+   Original line: Courtney Zangl Assistant Coach czangl@uwlax.edu
+
+55. Bill Stobb
+   Email: bstobb@uwlax.edu
+   Username: bstobb
+   Original line: Bill Stobb Assistant Coach bstobb@uwlax.edu
+
+56. Nick Anagnostis
+   Email: nanagnostis@uwlax.edu
+   Username: nanagnostis
+   Phone: (608) 785-5192
+   Original line: Nick Anagnostis Head Lacrosse Coach nanagnostis@uwlax.edu
+
+57. Hannah Shaw
+   Email: hshaw@uwlax.edu
+   Username: hshaw
+   Phone: (608) 785-5167
+   Original line: Hannah Shaw Assistant Lacrosse Coach hshaw@uwlax.edu
+
+58. Steve Mohs
+   Email: smohs@uwlax.edu
+   Username: smohs
+   Phone: (608) 785-8179
+   Original line: Steve Mohs Head Swimming & Diving Coach smohs@uwlax.edu
+
+59. Jack Englehardt
+   Email: jenglehardt@uwlax.edu
+   Username: jenglehardt
+   Phone: (608) 785-6453
+   Original line: Jack Englehardt Assistant Swimming & Diving Coach/Recruiting Coordinator jenglehardt@uwlax.edu
+
+60. Jeremiah Jackson
+   Email: jjackson@uwlax.edu
+   Username: jjackson
+   Original line: Jeremiah Jackson Diving Coach jjackson@uwlax.edu
+
+61. Bill Hehli
+   Email: whehli@uwlax.edu
+   Username: whehli
+   Phone: (608) 785-8676
+   Original line: Bill Hehli Head Women's and Men's Tennis Coach whehli@uwlax.edu
+
+62.  
+   Email: jcamerota@uwlax.edu
+   Username: jcamerota
+   Original line: Assistant Tennis Coach jcamerota@uwlax.edu
+
+63. Nickolas Davis
+   Email: ndavis@uwlax.edu
+   Username: ndavis
+   Phone: (608) 785-6531
+   Original line: Nickolas Davis Women's Track & Field Head Coach (Jumps/Multis) ndavis@uwlax.edu
+
+64. Katie Wagner
+   Email: kwagner@uwlax.edu
+   Username: kwagner
+   Phone: (608) 785-6546
+   Original line: Katie Wagner Assistant Coach (Sprints/Hurdles/Relays) kwagner@uwlax.edu
+
+65. Derek Stanley
+   Email: dstanley@uwlax.edu
+   Username: dstanley
+   Original line: Derek Stanley Assistant Coach (Distance) dstanley@uwlax.edu
+
+66.  
+   Email: dgeiwitz@uwlax.edu
+   Username: dgeiwitz
+   Original line: Assistant Coach (Pole Vault) dgeiwitz@uwlax.edu
+
+67. Julianne Merkes
+   Email: merkes.juli@uwlax.edu
+   Username: merkes.juli
+   Original line: Julianne Merkes Assistant Coach (Throws/Professional Development Coordinator) merkes.juli@uwlax.edu
+
+68. Jenna Starck
+   Email: jstarck@uwlax.edu
+   Username: jstarck
+   Original line: Jenna Starck Assistant Women's Track & Field Coach jstarck@uwlax.edu
+
+69. Hannah Beilke
+   Email: hbeilke@uwlax.edu
+   Username: hbeilke
+   Original line: Hannah Beilke Assistant Cross Country/Track & Field Coach hbeilke@uwlax.edu
+
+70. Sierra Rabe
+   Email: srabe@uwlax.edu
+   Username: srabe
+   Original line: Sierra Rabe Assistant Coach srabe@uwlax.edu
+
+71. Jakob Tordsen
+   Email: jtordsen@uwlax.edu
+   Username: jtordsen
+   Original line: Jakob Tordsen Assistant Coach (Multis) jtordsen@uwlax.edu
+
+72.  
+   Email: skorn@uwlax.edu
+   Username: skorn
+   Phone: (608) 785-6536
+   Original line: Head Softball Coach skorn@uwlax.edu
+
+73. Brittany Baldwin
+   Email: bbaldwin@uwlax.edu
+   Username: bbaldwin
+   Phone: (608) 785-5162
+   Original line: Brittany Baldwin Assistant Softball Coach bbaldwin@uwlax.edu
+
+74. Jason Murphy
+   Email: jmurphy@uwlax.edu
+   Username: jmurphy
+   Phone: (608) 785-5175
+   Original line: Jason Murphy Head Soccer Coach jmurphy@uwlax.edu
+
+75. Ellie Arndt
+   Email: earndt@uwlax.edu
+   Username: earndt
+   Phone: (608) 785-5166
+   Original line: Ellie Arndt Assistant Soccer Coach earndt@uwlax.edu
+
+76. Ryan Raufus
+   Email: rraufus@uwlax.edu
+   Username: rraufus
+   Phone: (608) 785-5191
+   Original line: Ryan Raufus Assistant Soccer Coach rraufus@uwlax.edu
+
+77.  
+   Email: dsazama@uwlax.edu
+   Username: dsazama
+   Phone: (608) 785-8183
+   Original line: Head Volleyball Coach dsazama@uwlax.edu
+
+78. Nellie George
+   Email: ngeorge@uwlax.edu
+   Username: ngeorge
+   Phone: (608) 785-8191
+   Original line: Nellie George Assistant Volleyball Coach ngeorge@uwlax.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

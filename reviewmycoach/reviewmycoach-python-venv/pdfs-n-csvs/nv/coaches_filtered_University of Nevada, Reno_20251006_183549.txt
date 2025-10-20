@@ -1,0 +1,269 @@
+COACH ENTRIES FOUND - 2025-10-06 18:36:15
+============================================================
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jake McKinley
+   Email: baseball@unr.edu
+   Username: baseball
+   Original line: Jake McKinley baseball@unr.edu Head Coach
+
+2. Jordan Getzelman
+   Email: baseball@unr.edu
+   Username: baseball
+   Original line: Jordan Getzelman baseball@unr.edu Hitting Coach/Recruiting
+
+3. Noah Shackles
+   Email: baseball@unr.edu
+   Username: baseball
+   Original line: Noah Shackles baseball@unr.edu Assistant Coach
+
+4. Craig Neal
+   Email: Craign@unr.edu
+   Username: Craign
+   Original line: Craig Neal Craign@unr.edu Associate Head Coach
+
+5. Bil Duany
+   Email: bduany@unr.edu
+   Username: bduany
+   Original line: Bil Duany bduany@unr.edu Assistant Coach
+
+6. Kyle Guy
+   Email: kguy@unr.edu
+   Username: kguy
+   Original line: Kyle Guy kguy@unr.edu Assistant Coach
+
+7. Lo Leath
+   Email: lleath@unr.edu
+   Username: lleath
+   Original line: Lo Leath lleath@unr.edu Assistant Coach
+
+8. Michael Furlong
+   Email: mfurlong@unr.edu
+   Username: mfurlong
+   Original line: Michael Furlong mfurlong@unr.edu Assistant Coach
+
+9. Amanda Levens
+   Email: levens@unr.edu
+   Username: levens
+   Original line: Amanda Levens levens@unr.edu (775) 682- Head Coach Coach11S
+
+10. Laura Gonsalves
+   Email: lgonsalves@unr.edu
+   Username: lgonsalves
+   Original line: Laura Gonsalves lgonsalves@unr.edu (775) 682- Assistant Coach WolfpackcoachG
+
+11. Ashley Elliott
+   Email: ashleyelliott@unr.edu
+   Username: ashleyelliott
+   Original line: Ashley Elliott ashleyelliott@unr.edu (775) 682- Assistant Coach CoachAshNV
+
+12. Halie Bergman
+   Email: hbergman@unr.edu
+   Username: hbergman
+   Original line: Halie Bergman hbergman@unr.edu (775) 682- Assistant Coach
+
+13. Lavaris Duncan
+   Email: lavarisd@unr.edu
+   Username: lavarisd
+   Original line: Lavaris Duncan lavarisd@unr.edu (775) 682- Assistant Coach
+
+14. Ula Motuga
+   Email: umotuga@unr.edu
+   Username: umotuga
+   Original line: Ula Motuga umotuga@unr.edu Assistant Coach
+
+15. Logan Stahl
+   Email: loganstahl@unr.edu
+   Username: loganstahl
+   Original line: Logan Stahl loganstahl@unr.edu 916-759- Assistant Coach - Cross @Loganjstahl
+
+16. Hayley Canfield
+   Email: hcanfield@unr.edu
+   Username: hcanfield
+   Original line: Hayley Canfield hcanfield@unr.edu 775-881- Cheer Coach
+
+17. Dennis Green
+   Email: dennisgreen@unr.edu
+   Username: dennisgreen
+   Original line: Dennis Green dennisgreen@unr.edu Mascot Coach
+
+18. Trake Carpenter
+   Email: trakec@unr.edu
+   Username: trakec
+   Original line: Trake Carpenter trakec@unr.edu Head Coach
+
+19. Kathleen Takaishi
+   Email: ktakaishi@unr.edu
+   Username: ktakaishi
+   Original line: Kathleen Takaishi ktakaishi@unr.edu (775) 682- Head Coach CoachTakaishi
+
+20. Jenny Haddox
+   Email: jennyhaddox@unr.edu
+   Username: jennyhaddox
+   Original line: Jenny Haddox jennyhaddox@unr.edu Assistant Coach
+
+21. Cameron Smith
+   Email: csmith3@unr.edu
+   Username: csmith3
+   Original line: Cameron Smith csmith3@unr.edu Head Coach
+
+22. Nico Monforte
+   Email: nmonforte@unr.edu
+   Username: nmonforte
+   Original line: Nico Monforte nmonforte@unr.edu Assistant Coach
+
+23. Vanessa Valentine
+   Email: vanessavalentine@unr.edu
+   Username: vanessavalentine
+   Original line: Vanessa Valentine vanessavalentine@unr.edu (775) 682- Head Coach
+
+24. Brad Leonard
+   Email: bradleonard@unr.edu
+   Username: bradleonard
+   Original line: Brad Leonard bradleonard@unr.edu 618-973- Assistant Coach
+
+25. Jenn Kovisto
+   Email: jkovisto@unr.edu
+   Username: jkovisto
+   Original line: Jenn Kovisto jkovisto@unr.edu (925) 337- Assistant Coach
+
+26. Victoria Hayward
+   Email: softball@unr.edu
+   Username: softball
+   Original line: Victoria Hayward softball@unr.edu Head Coach
+
+27. Delanie Wisz
+   Email: softball@unr.edu
+   Username: softball
+   Original line: Delanie Wisz softball@unr.edu Assistant Coach
+
+28. Jillian Celis
+   Email: softball@unr.edu
+   Username: softball
+   Original line: Jillian Celis softball@unr.edu Assistant Coach
+
+29. Carli Cutler
+   Email: softball@unr.edu
+   Username: softball
+   Original line: Carli Cutler softball@unr.edu Assistant Coach
+
+30. Brendon Bray
+   Email: brendonb@unr.edu
+   Username: brendonb
+   Original line: Brendon Bray brendonb@unr.edu (775) 682- Head Swimming & Diving nevadacoachbray
+
+31. Jian Li
+   Email: jiany@unr.edu
+   Username: jiany
+   Original line: Jian Li You jiany@unr.edu (775) 682- Volunteer Diving Coach
+
+32. Sylvain Malroux
+   Email: malroux@unr.edu
+   Username: malroux
+   Original line: Sylvain Malroux malroux@unr.edu (775) 682- Head Men's Tennis Coach
+
+33. Brad Tulenko
+   Email: btulenko@unr.edu
+   Username: btulenko
+   Original line: Brad Tulenko btulenko@unr.edu Assistant Coach
+
+34. Guillaume Tonelli
+   Email: guillaumet@unr.edu
+   Username: guillaumet
+   Original line: Guillaume Tonelli guillaumet@unr.edu (775) 682- Women's Tennis Head Coach
+
+35. Natalia Campbell
+   Email: nataliacampbell@unr.edu
+   Username: nataliacampbell
+   Original line: Natalia Campbell nataliacampbell@unr.edu Assistant Coach
+
+36. Scott Williamson
+   Email: scottwilliamson@unr.edu
+   Username: scottwilliamson
+   Original line: Scott Williamson scottwilliamson@unr.edu (775) 682- Women's Track & Field @CoachScott79
+
+37. Logan Stahl
+   Email: loganstahl@unr.edu
+   Username: loganstahl
+   Original line: Logan Stahl loganstahl@unr.edu 916-759- Assistant Coach - Cross @Loganjstahl
+
+38. Sarah Marske
+   Email: smarske@unr.edu
+   Username: smarske
+   Original line: Sarah Marske smarske@unr.edu Assistant Coach
+
+39. Carolyn Ross
+   Email: carolynross@unr.edu
+   Username: carolynross
+   Original line: Carolyn Ross carolynross@unr.edu Graduate Assistant Coach
+
+40. Shannon Wyckoff-McNeal
+   Email: shannonmcneal@unr.edu
+   Username: shannonmcneal
+   Original line: Shannon Wyckoff-McNeal shannonmcneal@unr.edu Head Volleyball Coach
+
+41. Norene Iosia
+   Email: niosia@unr.edu
+   Username: niosia
+   Original line: Norene Iosia niosia@unr.edu Assistant Coach, Volleyball
+
+42. Jason Sterrett
+   Email: jasonsterrett@unr.edu
+   Username: jasonsterrett
+   Original line: Jason Sterrett jasonsterrett@unr.edu Assistant Coach, Volleyball
+
+43. Steven Nicholas
+   Email: stevenn@unr.edu
+   Username: stevenn
+   Original line: Steven Nicholas stevenn@unr.edu (775) 335- Coaching Consultant (Ed. D.,
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jake McKinley baseball@unr.edu Head Coach
+• Jordan Getzelman baseball@unr.edu Hitting Coach/Recruiting
+• Noah Shackles baseball@unr.edu Assistant Coach
+• Craig Neal Craign@unr.edu Associate Head Coach
+• Bil Duany bduany@unr.edu Assistant Coach
+• Kyle Guy kguy@unr.edu Assistant Coach
+• Lo Leath lleath@unr.edu Assistant Coach
+• Michael Furlong mfurlong@unr.edu Assistant Coach
+• Amanda Levens levens@unr.edu (775) 682- Head Coach Coach11S
+• Laura Gonsalves lgonsalves@unr.edu (775) 682- Assistant Coach WolfpackcoachG
+• Ashley Elliott ashleyelliott@unr.edu (775) 682- Assistant Coach CoachAshNV
+• Halie Bergman hbergman@unr.edu (775) 682- Assistant Coach
+• Lavaris Duncan lavarisd@unr.edu (775) 682- Assistant Coach
+• Ula Motuga umotuga@unr.edu Assistant Coach
+• Logan Stahl loganstahl@unr.edu 916-759- Assistant Coach - Cross @Loganjstahl
+• Hayley Canfield hcanfield@unr.edu 775-881- Cheer Coach
+• Dennis Green dennisgreen@unr.edu Mascot Coach
+• Trake Carpenter trakec@unr.edu Head Coach
+• Kathleen Takaishi ktakaishi@unr.edu (775) 682- Head Coach CoachTakaishi
+• Jenny Haddox jennyhaddox@unr.edu Assistant Coach
+• Cameron Smith csmith3@unr.edu Head Coach
+• Nico Monforte nmonforte@unr.edu Assistant Coach
+• Vanessa Valentine vanessavalentine@unr.edu (775) 682- Head Coach
+• Brad Leonard bradleonard@unr.edu 618-973- Assistant Coach
+• Jenn Kovisto jkovisto@unr.edu (925) 337- Assistant Coach
+• Victoria Hayward softball@unr.edu Head Coach
+• Delanie Wisz softball@unr.edu Assistant Coach
+• Jillian Celis softball@unr.edu Assistant Coach
+• Carli Cutler softball@unr.edu Assistant Coach
+• Brendon Bray brendonb@unr.edu (775) 682- Head Swimming & Diving nevadacoachbray
+• Jian Li You jiany@unr.edu (775) 682- Volunteer Diving Coach
+• Sylvain Malroux malroux@unr.edu (775) 682- Head Men's Tennis Coach
+• Brad Tulenko btulenko@unr.edu Assistant Coach
+• Guillaume Tonelli guillaumet@unr.edu (775) 682- Women's Tennis Head Coach
+• Natalia Campbell nataliacampbell@unr.edu Assistant Coach
+• Scott Williamson scottwilliamson@unr.edu (775) 682- Women's Track & Field @CoachScott79
+• Logan Stahl loganstahl@unr.edu 916-759- Assistant Coach - Cross @Loganjstahl
+• Sarah Marske smarske@unr.edu Assistant Coach
+• Carolyn Ross carolynross@unr.edu Graduate Assistant Coach
+• Shannon Wyckoff-McNeal shannonmcneal@unr.edu Head Volleyball Coach
+• Norene Iosia niosia@unr.edu Assistant Coach, Volleyball
+• Jason Sterrett jasonsterrett@unr.edu Assistant Coach, Volleyball
+• Steven Nicholas stevenn@unr.edu (775) 335- Coaching Consultant (Ed. D.,

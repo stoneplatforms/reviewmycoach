@@ -1,0 +1,83 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:58
+============================================================
+
+Total coaches found: 12
+
+PARSED ENTRIES:
+----------------------------------------
+1. Terrell Buckley
+   Email: terrell.buckley@mvsu.edu
+   Username: terrell.buckley
+   Original line: Terrell Buckley Head Coach terrell.buckley@mvsu.edu 954-408-
+
+2. Deondri Clark
+   Email: deondril.clark@mvsu.edu
+   Username: deondril.clark
+   Original line: Deondri Clark Assistant Head Coach / Defensive Line deondril.clark@mvsu.edu
+
+3. Khalid Campbell
+   Email: khalid.campbell@mvsu.edu
+   Username: khalid.campbell
+   Original line: Khalid Campbell Assistant Coach khalid.campbell@mvsu.edu (662) 254-
+
+4. Antonio Sanders
+   Email: antonio.sanders@mvsu.edu
+   Username: antonio.sanders
+   Original line: Antonio Sanders Assistant Coach antonio.sanders@mvsu.edu
+
+5. Clinton Young
+   Email: clinton.young@mvsu.edu
+   Username: clinton.young
+   Original line: Clinton Young Assistant Coach clinton.young@mvsu.edu
+
+6. Jason James
+   Email: Jason.James@mvsu.edu
+   Username: Jason.James
+   Original line: Jason James Head Coach Jason.James@mvsu.edu 662-254-
+
+7. Ashley Shields
+   Email: ashley.shields@mvsu.edu
+   Username: ashley.shields
+   Original line: Ashley Shields Associate Head Coach ashley.shields@mvsu.edu 662-254-
+
+8. Jada Terry
+   Email: jada.terry@mvsu.edu
+   Username: jada.terry
+   Original line: Jada Terry Assistant Coach jada.terry@mvsu.edu 662-254-
+
+9. Riley Murry
+   Email: rdmurry@mvsu.edu
+   Username: rdmurry
+   Original line: Riley Murry Head Coach rdmurry@mvsu.edu 662-254-
+
+10. Alexandra Roberts
+   Email: Alexandra.roberts@mvsu.edu
+   Username: Alexandra.roberts
+   Original line: Alexandra Roberts Head Coach Alexandra.roberts@mvsu.edu
+
+11. Jaquarius Wilson
+   Email: jaquarius.wilson@mvsu.edu
+   Username: jaquarius.wilson
+   Original line: Jaquarius Wilson Assistant Coach jaquarius.wilson@mvsu.edu
+
+12. Kimberly Wade
+   Email: kimberly.wade@mvsu.edu
+   Username: kimberly.wade
+   Original line: Kimberly Wade Head Coach kimberly.wade@mvsu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Terrell Buckley Head Coach terrell.buckley@mvsu.edu 954-408-
+• Deondri Clark Assistant Head Coach / Defensive Line deondril.clark@mvsu.edu
+• Khalid Campbell Assistant Coach khalid.campbell@mvsu.edu (662) 254-
+• Antonio Sanders Assistant Coach antonio.sanders@mvsu.edu
+• Clinton Young Assistant Coach clinton.young@mvsu.edu
+• Jason James Head Coach Jason.James@mvsu.edu 662-254-
+• Ashley Shields Associate Head Coach ashley.shields@mvsu.edu 662-254-
+• Jada Terry Assistant Coach jada.terry@mvsu.edu 662-254-
+• Riley Murry Head Coach rdmurry@mvsu.edu 662-254-
+• Alexandra Roberts Head Coach Alexandra.roberts@mvsu.edu
+• Jaquarius Wilson Assistant Coach jaquarius.wilson@mvsu.edu
+• Kimberly Wade Head Coach kimberly.wade@mvsu.edu

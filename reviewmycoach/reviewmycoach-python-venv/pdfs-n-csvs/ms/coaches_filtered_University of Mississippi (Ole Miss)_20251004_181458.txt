@@ -1,0 +1,425 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:02
+============================================================
+
+Total coaches found: 69
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Football
+   Email: nrsavage@olemiss.edu
+   Username: nrsavage
+   Original line: Head Football Strength and Conditioning Coach nrsavage@olemiss.edu
+
+2. Associate Head
+   Email: zdakenbe@olemiss.edu
+   Username: zdakenbe
+   Original line: Associate Head Football Strength and Conditioning Coach zdakenbe@olemiss.edu
+
+3. Head Women's
+   Email: tboeni@olemiss.edu
+   Username: tboeni
+   Original line: Head Women's Basketball Strength & Conditioning Coach tboeni@olemiss.edu
+
+4. Head Baseball
+   Email: jvcarell@olemiss.edu
+   Username: jvcarell
+   Original line: Head Baseball Strength and Conditioning Coach jvcarell@olemiss.edu
+
+5. Strength and
+   Email: jpreilly@olemiss.edu
+   Username: jpreilly
+   Original line: Strength and Conditioning Coach - Men's Basketball jpreilly@olemiss.edu
+
+6. Assistant Football
+   Email: jasims1@olemiss.edu
+   Username: jasims1
+   Original line: Assistant Football Strength and Conditioning Coach jasims1@olemiss.edu
+
+7. Director of
+   Email: levetzow@olemiss.edu
+   Username: levetzow
+   Original line: Director of Spirit Squads/Rebelettes Head Coach levetzow@olemiss.edu
+
+8. Coordinator of
+   Email: sbcasey@olemiss.edu
+   Username: sbcasey
+   Original line: Coordinator of Spirit Squads/Head Cheer Coach sbcasey@olemiss.edu
+
+9. Head Coach
+   Email: cbgoudor@olemiss.edu
+   Username: cbgoudor
+   Original line: Head Coach cbgoudor@olemiss.edu
+
+10. Assistant Coach
+   Email: clement@olemiss.edu
+   Username: clement
+   Original line: Assistant Coach clement@olemiss.edu
+
+11. Assistant Coach
+   Email: wclaffer@olemiss.edu
+   Username: wclaffer
+   Original line: Assistant Coach wclaffer@olemiss.edu
+
+12. Assistant Coach
+   Email: jtmangr1@olemiss.edu
+   Username: jtmangr1
+   Original line: Assistant Coach jtmangr1@olemiss.edu
+
+13. Assistant Coach
+   Email: waflanig@olemiss.edu
+   Username: waflanig
+   Original line: Assistant Coach waflanig@olemiss.edu
+
+14. Assistant Coach
+   Email: apinkins@olemiss.edu
+   Username: apinkins
+   Original line: Assistant Coach apinkins@olemiss.edu
+
+15. Assistant Coach
+   Email: baburg@olemiss.edu
+   Username: baburg
+   Original line: Assistant Coach baburg@olemiss.edu
+
+16. Strength and
+   Email: jpreilly@olemiss.edu
+   Username: jpreilly
+   Original line: Strength and Conditioning Coach - Men's Basketball jpreilly@olemiss.edu
+
+17. Associate Head
+   Email: qjhillsm@olemiss.edu
+   Username: qjhillsm
+   Original line: Associate Head Coach qjhillsm@olemiss.edu
+
+18. Associate Coach
+   Email: coachemp@olemiss.edu
+   Username: coachemp
+   Original line: Associate Coach coachemp@olemiss.edu
+
+19. Associate Coach
+   Email: jksmit14@olemiss.edu
+   Username: jksmit14
+   Original line: Associate Coach jksmit14@olemiss.edu
+
+20. Assistant Coach/Recruiting
+   Email: ktgordo2@olemiss.edu
+   Username: ktgordo2
+   Original line: Assistant Coach/Recruiting Coordinator ktgordo2@olemiss.edu
+
+21. Assistant Coach/Coordinator
+   Email: jawhiteh@olemiss.edu
+   Username: jawhiteh
+   Original line: Assistant Coach/Coordinator of Video Services jawhiteh@olemiss.edu
+
+22. Special Assistant
+   Email: dcforres@olemiss.edu
+   Username: dcforres
+   Original line: Special Assistant to the Head Coach dcforres@olemiss.edu
+
+23. Head Coach
+   Email: rebelfootball@olemiss.edu
+   Username: rebelfootball
+   Original line: Head Coach rebelfootball@olemiss.edu
+
+24. Assistant Coach/Co-Defensive
+   Email: rebelfootball@olemiss.edu
+   Username: rebelfootball
+   Original line: Assistant Coach/Co-Defensive Coordinator/Secondary rebelfootball@olemiss.edu
+
+25. Assistant Coach/Co-Offensive
+   Email: rebelfootball@olemiss.edu
+   Username: rebelfootball
+   Original line: Assistant Coach/Co-Offensive Coordinator/Tight Ends rebelfootball@olemiss.edu
+
+26. Assistant Coach/Offensive
+   Email: rebelfootball@olemiss.edu
+   Username: rebelfootball
+   Original line: Assistant Coach/Offensive Line rebelfootball@olemiss.edu
+
+27. Assistant Coach/Defensive
+   Email: rebelfootball@olemiss.edu
+   Username: rebelfootball
+   Original line: Assistant Coach/Defensive Coordinator rebelfootball@olemiss.edu
+
+28. Assistant Coach/Defensive
+   Email: rebelfootball@olemiss.edu
+   Username: rebelfootball
+   Original line: Assistant Coach/Defensive Line rebelfootball@olemiss.edu
+
+29. Assistant Coach/Quarterbacks
+   Email: rebelfootball@olemiss.edu
+   Username: rebelfootball
+   Original line: Assistant Coach/Quarterbacks rebelfootball@olemiss.edu
+
+30. Assistant Coach/Linebackers
+   Email: rebelfootball@olemiss.edu
+   Username: rebelfootball
+   Original line: Assistant Coach/Linebackers rebelfootball@olemiss.edu
+
+31. Assistant Coach/Passing
+   Email: rebelfootball@olemiss.edu
+   Username: rebelfootball
+   Original line: Assistant Coach/Passing Game Coordinator/Wide Receivers rebelfootball@olemiss.edu
+
+32. Assistant Coach/Safeties
+   Email: rebelfootball@olemiss.edu
+   Username: rebelfootball
+   Original line: Assistant Coach/Safeties rebelfootball@olemiss.edu
+
+33. Assistant Head
+   Email: rebelfootball@olemiss.edu
+   Username: rebelfootball
+   Original line: Assistant Head Coach/Special Teams Coordinator/Nickelbacks rebelfootball@olemiss.edu
+
+34. Assistant Coach/Running
+   Email: rebelfootball@olemiss.edu
+   Username: rebelfootball
+   Original line: Assistant Coach/Running Backs rebelfootball@olemiss.edu
+
+35. Assistant Coach/Offensive
+   Email: rebelfootball@olemiss.edu
+   Username: rebelfootball
+   Original line: Assistant Coach/Offensive Coordinator/Quarterbacks rebelfootball@olemiss.edu
+
+36. Assistant to
+   Email: megan@olemiss.edu
+   Username: megan
+   Original line: Assistant to the Head Coach megan@olemiss.edu
+
+37. Head Football
+   Email: nrsavage@olemiss.edu
+   Username: nrsavage
+   Original line: Head Football Strength and Conditioning Coach nrsavage@olemiss.edu
+
+38. Associate Head
+   Email: zdakenbe@olemiss.edu
+   Username: zdakenbe
+   Original line: Associate Head Football Strength and Conditioning Coach zdakenbe@olemiss.edu
+
+39. Assistant Football
+   Email: rahende2@olemiss.edu
+   Username: rahende2
+   Original line: Assistant Football Strength and Conditioning Coach rahende2@olemiss.edu
+
+40. Assistant Football
+   Email: jasims1@olemiss.edu
+   Username: jasims1
+   Original line: Assistant Football Strength and Conditioning Coach jasims1@olemiss.edu
+
+41. Assistant Football
+   Email: dewilso2@olemiss.edu
+   Username: dewilso2
+   Original line: Assistant Football Strength and Conditioning Coach dewilso2@olemiss.edu
+
+42. Head Coach
+   Email: cjmalloy@olemiss.edu
+   Username: cjmalloy
+   Original line: Head Coach cjmalloy@olemiss.edu
+
+43. Assistant Coach
+   Email: ejnewsom@olemiss.edu
+   Username: ejnewsom
+   Original line: Assistant Coach ejnewsom@olemiss.edu
+
+44. Head Coach
+   Email: kthenkes@olemiss.edu
+   Username: kthenkes
+   Original line: Head Coach kthenkes@olemiss.edu
+
+45. Associate Head
+   Email: zhsiefer@olemiss.edu
+   Username: zhsiefer
+   Original line: Associate Head Coach zhsiefer@olemiss.edu
+
+46. Head Coach
+   Email: wbshaner@olemiss.edu
+   Username: wbshaner
+   Original line: Head Coach wbshaner@olemiss.edu
+
+47. Assistant Coach
+   Email: kvtedesc@olemiss.edu
+   Username: kvtedesc
+   Original line: Assistant Coach kvtedesc@olemiss.edu
+
+48. Head Coach
+   Email: mmrouse1@olemiss.edu
+   Username: mmrouse1
+   Original line: Head Coach mmrouse1@olemiss.edu
+
+49. Associate Head
+   Email: rthomps3@olemiss.edu
+   Username: rthomps3
+   Original line: Associate Head Coach rthomps3@olemiss.edu
+
+50. Assistant Coach
+   Email: klcook3@olemiss.edu
+   Username: klcook3
+   Original line: Assistant Coach klcook3@olemiss.edu
+
+51. Assistant Coach
+   Email: mepezzin@olemiss.edu
+   Username: mepezzin
+   Original line: Assistant Coach mepezzin@olemiss.edu
+
+52. Head Coach
+   Email: softball@olemiss.edu
+   Username: softball
+   Original line: Head Coach softball@olemiss.edu
+
+53. Assistant Coach
+   Email: bobbyb@olemiss.edu
+   Username: bobbyb
+   Original line: Assistant Coach bobbyb@olemiss.edu
+
+54. Head Coach
+   Email: grantwt@olemiss.edu
+   Username: grantwt
+   Original line: Head Coach grantwt@olemiss.edu
+
+55. Head Coach
+   Email: jgjacoby@olemiss.edu
+   Username: jgjacoby
+   Original line: Head Coach jgjacoby@olemiss.edu
+
+56. Assistant Coach
+   Email: jtkros@olemiss.edu
+   Username: jtkros
+   Original line: Assistant Coach jtkros@olemiss.edu
+
+57. Assistant Coach
+   Email: vaorland@olemiss.edu
+   Username: vaorland
+   Original line: Assistant Coach vaorland@olemiss.edu
+
+58. Head Coach
+   Email: cmprices@olemiss.edu
+   Username: cmprices
+   Original line: Head Coach cmprices@olemiss.edu
+
+59. Associate Head
+   Email: adscott@olemiss.edu
+   Username: adscott
+   Original line: Associate Head Track & Field Coach - Jumps, Women's Multi adscott@olemiss.edu
+
+60. Associate Head
+   Email: ajsmit18@olemiss.edu
+   Username: ajsmit18
+   Original line: Associate Head Cross Country Coach / Assistant Track Coach - Distance ajsmit18@olemiss.edu
+
+61. Assistant Coach
+   Email: bporter@olemiss.edu
+   Username: bporter
+   Original line: Assistant Coach - Pole Vault, Javelin, Men's Multis bporter@olemiss.edu
+
+62. Assistant Coach
+   Email: aaanusau@olemiss.edu
+   Username: aaanusau
+   Original line: Assistant Coach - Cross Country/Distance aaanusau@olemiss.edu
+
+63. Assistant Coach
+   Email: jjsmith4@olemiss.edu
+   Username: jjsmith4
+   Original line: Assistant Coach - Throws jjsmith4@olemiss.edu
+
+64. Assistant Coach
+   Email: mdturne6@olemiss.edu
+   Username: mdturne6
+   Original line: Assistant Coach - Sprints, Hurdles mdturne6@olemiss.edu
+
+65. Assistant Coach
+   Email: dempsey@olemiss.edu
+   Username: dempsey
+   Original line: Assistant Coach - Throws dempsey@olemiss.edu
+
+66. Head Coach
+   Email: brehenry@olemiss.edu
+   Username: brehenry
+   Original line: Head Coach brehenry@olemiss.edu
+
+67. Associate Head
+   Email: gregoryt@olemiss.edu
+   Username: gregoryt
+   Original line: Associate Head Coach gregoryt@olemiss.edu
+
+68. Assistant Coach
+   Email: bradleyc@olemiss.edu
+   Username: bradleyc
+   Original line: Assistant Coach bradleyc@olemiss.edu
+
+69. Assistant Coach
+   Email: slrennie@olemiss.edu
+   Username: slrennie
+   Original line: Assistant Coach slrennie@olemiss.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Football Strength and Conditioning Coach nrsavage@olemiss.edu
+• Associate Head Football Strength and Conditioning Coach zdakenbe@olemiss.edu
+• Head Women's Basketball Strength & Conditioning Coach tboeni@olemiss.edu
+• Head Baseball Strength and Conditioning Coach jvcarell@olemiss.edu
+• Strength and Conditioning Coach - Men's Basketball jpreilly@olemiss.edu
+• Assistant Football Strength and Conditioning Coach jasims1@olemiss.edu
+• Director of Spirit Squads/Rebelettes Head Coach levetzow@olemiss.edu
+• Coordinator of Spirit Squads/Head Cheer Coach sbcasey@olemiss.edu
+• Head Coach cbgoudor@olemiss.edu
+• Assistant Coach clement@olemiss.edu
+• Assistant Coach wclaffer@olemiss.edu
+• Assistant Coach jtmangr1@olemiss.edu
+• Assistant Coach waflanig@olemiss.edu
+• Assistant Coach apinkins@olemiss.edu
+• Assistant Coach baburg@olemiss.edu
+• Strength and Conditioning Coach - Men's Basketball jpreilly@olemiss.edu
+• Associate Head Coach qjhillsm@olemiss.edu
+• Associate Coach coachemp@olemiss.edu
+• Associate Coach jksmit14@olemiss.edu
+• Assistant Coach/Recruiting Coordinator ktgordo2@olemiss.edu
+• Assistant Coach/Coordinator of Video Services jawhiteh@olemiss.edu
+• Special Assistant to the Head Coach dcforres@olemiss.edu
+• Head Coach rebelfootball@olemiss.edu
+• Assistant Coach/Co-Defensive Coordinator/Secondary rebelfootball@olemiss.edu
+• Assistant Coach/Co-Offensive Coordinator/Tight Ends rebelfootball@olemiss.edu
+• Assistant Coach/Offensive Line rebelfootball@olemiss.edu
+• Assistant Coach/Defensive Coordinator rebelfootball@olemiss.edu
+• Assistant Coach/Defensive Line rebelfootball@olemiss.edu
+• Assistant Coach/Quarterbacks rebelfootball@olemiss.edu
+• Assistant Coach/Linebackers rebelfootball@olemiss.edu
+• Assistant Coach/Passing Game Coordinator/Wide Receivers rebelfootball@olemiss.edu
+• Assistant Coach/Safeties rebelfootball@olemiss.edu
+• Assistant Head Coach/Special Teams Coordinator/Nickelbacks rebelfootball@olemiss.edu
+• Assistant Coach/Running Backs rebelfootball@olemiss.edu
+• Assistant Coach/Offensive Coordinator/Quarterbacks rebelfootball@olemiss.edu
+• Assistant to the Head Coach megan@olemiss.edu
+• Head Football Strength and Conditioning Coach nrsavage@olemiss.edu
+• Associate Head Football Strength and Conditioning Coach zdakenbe@olemiss.edu
+• Assistant Football Strength and Conditioning Coach rahende2@olemiss.edu
+• Assistant Football Strength and Conditioning Coach jasims1@olemiss.edu
+• Assistant Football Strength and Conditioning Coach dewilso2@olemiss.edu
+• Head Coach cjmalloy@olemiss.edu
+• Assistant Coach ejnewsom@olemiss.edu
+• Head Coach kthenkes@olemiss.edu
+• Associate Head Coach zhsiefer@olemiss.edu
+• Head Coach wbshaner@olemiss.edu
+• Assistant Coach kvtedesc@olemiss.edu
+• Head Coach mmrouse1@olemiss.edu
+• Associate Head Coach rthomps3@olemiss.edu
+• Assistant Coach klcook3@olemiss.edu
+• Assistant Coach mepezzin@olemiss.edu
+• Head Coach softball@olemiss.edu
+• Assistant Coach bobbyb@olemiss.edu
+• Head Coach grantwt@olemiss.edu
+• Head Coach jgjacoby@olemiss.edu
+• Assistant Coach jtkros@olemiss.edu
+• Assistant Coach vaorland@olemiss.edu
+• Head Coach cmprices@olemiss.edu
+• Associate Head Track & Field Coach - Jumps, Women's Multi adscott@olemiss.edu
+• Associate Head Cross Country Coach / Assistant Track Coach - Distance ajsmit18@olemiss.edu
+• Assistant Coach - Pole Vault, Javelin, Men's Multis bporter@olemiss.edu
+• Assistant Coach - Cross Country/Distance aaanusau@olemiss.edu
+• Assistant Coach - Throws jjsmith4@olemiss.edu
+• Assistant Coach - Sprints, Hurdles mdturne6@olemiss.edu
+• Assistant Coach - Throws dempsey@olemiss.edu
+• Head Coach brehenry@olemiss.edu
+• Associate Head Coach gregoryt@olemiss.edu
+• Assistant Coach bradleyc@olemiss.edu
+• Assistant Coach slrennie@olemiss.edu

@@ -1,0 +1,251 @@
+COACH ENTRIES FOUND - 2025-10-04 18:18:29
+============================================================
+
+Total coaches found: 40
+
+PARSED ENTRIES:
+----------------------------------------
+1. D.J. Rehberg
+   Email: drehberg@albion.edu
+   Username: drehberg
+   Original line: D.J. Rehberg Defensive Line Coach/Assistant drehberg@albion.edu
+
+2. Matt Rix
+   Email: mrix@albion.edu
+   Username: mrix
+   Original line: Matt Rix Head Coach mrix@albion.edu 517/629- BritonsBaseball
+
+3. Gordie Theisen
+   Email: gtheisen@albion.edu
+   Username: gtheisen
+   Original line: Gordie Theisen Assistant Coach gtheisen@albion.edu gordietheisen
+
+4. Jody May
+   Email: jmay@albion.edu
+   Username: jmay
+   Original line: Jody May Head Coach jmay@albion.edu 517/629- AlbionMBB
+
+5. Nate Frisbie
+   Email: nfrisbie@albion.edu
+   Username: nfrisbie
+   Original line: Nate Frisbie Assistant Coach nfrisbie@albion.edu 517/629- Nate_Frisbie
+
+6. Robert Ryan
+   Email: rryan@albion.edu
+   Username: rryan
+   Original line: Robert Ryan Assistant Coach rryan@albion.edu 517-629-
+
+7. Doreen Carden
+   Email: dcarden@albion.edu
+   Username: dcarden
+   Original line: Doreen Carden Head Coach dcarden@albion.edu 517/629- CoachdCarden
+
+8. Evan Metz
+   Email: emetz@albion.edu
+   Username: emetz
+   Original line: Evan Metz Assistant Coach emetz@albion.edu CoachEvanMetz
+
+9. Rick Saldana
+   Email: rsaldana@albion.edu
+   Username: rsaldana
+   Original line: Rick Saldana Assistant Coach rsaldana@albion.edu coachsaldana517
+
+10. Mercedes Pace
+   Email: mpace@albion.edu
+   Username: mpace
+   Original line: Mercedes Pace Head Coach mpace@albion.edu
+
+11. Breanna Ferguson
+   Email: bferguson@albion.edu
+   Username: bferguson
+   Original line: Breanna Ferguson Assistant Coach (Distance) bferguson@albion.edu
+
+12. Trevor Knowles
+   Email: tknowles@albion.edu
+   Username: tknowles
+   Original line: Trevor Knowles Assistant Coach (Jumps) tknowles@albion.edu
+
+13. Jared Conklin
+   Email: jconklin@albion.edu
+   Username: jconklin
+   Original line: Jared Conklin Assistant Coach (Throws) jconklin@albion.edu
+
+14. Nichole McColley
+   Email: nmccolley@albion.edu
+   Username: nmccolley
+   Original line: Nichole McColley Western Coach nmccolley@albion.edu
+
+15. Travis Rundle
+   Email: trundle@albion.edu
+   Username: trundle
+   Original line: Travis Rundle Head Coach/Defensive trundle@albion.edu 517/629- rundle_albion
+
+16. Stephen Wasil
+   Email: swasil@albion.edu
+   Username: swasil
+   Original line: Stephen Wasil Offensive swasil@albion.edu 517/629- coachwasil4
+
+17. Rico Wallace
+   Email: rwallace@albion.edu
+   Username: rwallace
+   Original line: Rico Wallace Wide Receivers Coach/Pass rwallace@albion.edu 517/629- rico_wallace
+
+18. Kyle Avaloy
+   Email: kavaloy@albion.edu
+   Username: kavaloy
+   Original line: Kyle Avaloy Offensive Line Coach/Run Game kavaloy@albion.edu coachavaloy
+
+19. D.J. Rehberg
+   Email: drehberg@albion.edu
+   Username: drehberg
+   Original line: D.J. Rehberg Defensive Line Coach/Assistant drehberg@albion.edu
+
+20. Bryan Sander
+   Email: bsander@albion.edu
+   Username: bsander
+   Original line: Bryan Sander Special Teams bsander@albion.edu CoachSander25
+
+21. Karl Featherstone
+   Email: kfeatherstone@albion.edu
+   Username: kfeatherstone
+   Original line: Karl Featherstone Defensive Backs Coach kfeatherstone@albion.edu 517/629- stoneyrock64
+
+22. James Bloomfield
+   Email: jbb10@albion.edu
+   Username: jbb10
+   Original line: James Bloomfield Safeties Coach jbb10@albion.edu Bloomiej24
+
+23. Jake Maas
+   Email: wmaas@albion.edu
+   Username: wmaas
+   Original line: Jake Maas Head Coach / Golf Center Director wmaas@albion.edu 517/629-
+
+24. Nate Eberle
+   Email: neberle@albion.edu
+   Username: neberle
+   Original line: Nate Eberle Assistant Coach neberle@albion.edu
+
+25. Jacob DeCola
+   Email: jdecola@albion.edu
+   Username: jdecola
+   Original line: Jacob DeCola Head Coach jdecola@albion.edu 517/629-
+
+26. Emily DiRado
+   Email: edewaters@albion.edu
+   Username: edewaters
+   Original line: Emily DiRado Head Coach edewaters@albion.edu 517/629-
+
+27. Wytse Molenaar
+   Email: wmolenaar@albion.edu
+   Username: wmolenaar
+   Original line: Wytse Molenaar Head Coach wmolenaar@albion.edu 517/629-
+
+28. Rhys Moller
+   Email: rmoller@albion.edu
+   Username: rmoller
+   Original line: Rhys Moller Assistant Coach rmoller@albion.edu
+
+29. Ron Rainey
+   Email: rrainey@albion.edu
+   Username: rrainey
+   Original line: Ron Rainey Head Coach rrainey@albion.edu 517-629-
+
+30. Justin Dacey
+   Email: jdacey@albion.edu
+   Username: jdacey
+   Original line: Justin Dacey Assistant Coach jdacey@albion.edu
+
+31. Leigh Ann
+   Email: llafave@albion.edu
+   Username: llafave
+   Original line: Leigh Ann LaFave Head Coach llafave@albion.edu 517/629-
+
+32. Eric Murray
+   Email: emurray@albion.edu
+   Username: emurray
+   Original line: Eric Murray Head Coach emurray@albion.edu
+
+33. Maggie Kayt
+   Email: mfranks@albion.edu
+   Username: mfranks
+   Original line: Maggie Kayt Franks Assistant Swim Coach mfranks@albion.edu
+
+34. Emily Magyar
+   Email: emagyar@albion.edu
+   Username: emagyar
+   Original line: Emily Magyar Diving Coach emagyar@albion.edu
+
+35. Alex Dowley
+   Email: adowley@albion.edu
+   Username: adowley
+   Original line: Alex Dowley Assistant Coach adowley@albion.edu 517/629-
+
+36. Nathan Lee
+   Email: nmlee@albion.edu
+   Username: nmlee
+   Original line: Nathan Lee Assistant Coach nmlee@albion.edu
+
+37. Tom Hall
+   Email: thall@albion.edu
+   Username: thall
+   Original line: Tom Hall Head Men's Wrestling Coach thall@albion.edu
+
+38. Owen McDaniel
+   Email: omcdaniel@albion.edu
+   Username: omcdaniel
+   Original line: Owen McDaniel Assistant Coach omcdaniel@albion.edu
+
+39. Jolynn Harris
+   Email: jharris@albion.edu
+   Username: jharris
+   Original line: Jolynn Harris Head Women's Wrestling Coach jharris@albion.edu
+
+40. Owen McDaniel
+   Email: omcdaniel@albion.edu
+   Username: omcdaniel
+   Original line: Owen McDaniel Assistant Coach omcdaniel@albion.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• D.J. Rehberg Defensive Line Coach/Assistant drehberg@albion.edu
+• Matt Rix Head Coach mrix@albion.edu 517/629- BritonsBaseball
+• Gordie Theisen Assistant Coach gtheisen@albion.edu gordietheisen
+• Jody May Head Coach jmay@albion.edu 517/629- AlbionMBB
+• Nate Frisbie Assistant Coach nfrisbie@albion.edu 517/629- Nate_Frisbie
+• Robert Ryan Assistant Coach rryan@albion.edu 517-629-
+• Doreen Carden Head Coach dcarden@albion.edu 517/629- CoachdCarden
+• Evan Metz Assistant Coach emetz@albion.edu CoachEvanMetz
+• Rick Saldana Assistant Coach rsaldana@albion.edu coachsaldana517
+• Mercedes Pace Head Coach mpace@albion.edu
+• Breanna Ferguson Assistant Coach (Distance) bferguson@albion.edu
+• Trevor Knowles Assistant Coach (Jumps) tknowles@albion.edu
+• Jared Conklin Assistant Coach (Throws) jconklin@albion.edu
+• Nichole McColley Western Coach nmccolley@albion.edu
+• Travis Rundle Head Coach/Defensive trundle@albion.edu 517/629- rundle_albion
+• Stephen Wasil Offensive swasil@albion.edu 517/629- coachwasil4
+• Rico Wallace Wide Receivers Coach/Pass rwallace@albion.edu 517/629- rico_wallace
+• Kyle Avaloy Offensive Line Coach/Run Game kavaloy@albion.edu coachavaloy
+• D.J. Rehberg Defensive Line Coach/Assistant drehberg@albion.edu
+• Bryan Sander Special Teams bsander@albion.edu CoachSander25
+• Karl Featherstone Defensive Backs Coach kfeatherstone@albion.edu 517/629- stoneyrock64
+• James Bloomfield Safeties Coach jbb10@albion.edu Bloomiej24
+• Jake Maas Head Coach / Golf Center Director wmaas@albion.edu 517/629-
+• Nate Eberle Assistant Coach neberle@albion.edu
+• Jacob DeCola Head Coach jdecola@albion.edu 517/629-
+• Emily DiRado Head Coach edewaters@albion.edu 517/629-
+• Wytse Molenaar Head Coach wmolenaar@albion.edu 517/629-
+• Rhys Moller Assistant Coach rmoller@albion.edu
+• Ron Rainey Head Coach rrainey@albion.edu 517-629-
+• Justin Dacey Assistant Coach jdacey@albion.edu
+• Leigh Ann LaFave Head Coach llafave@albion.edu 517/629-
+• Eric Murray Head Coach emurray@albion.edu
+• Maggie Kayt Franks Assistant Swim Coach mfranks@albion.edu
+• Emily Magyar Diving Coach emagyar@albion.edu
+• Alex Dowley Assistant Coach adowley@albion.edu 517/629-
+• Nathan Lee Assistant Coach nmlee@albion.edu
+• Tom Hall Head Men's Wrestling Coach thall@albion.edu
+• Owen McDaniel Assistant Coach omcdaniel@albion.edu
+• Jolynn Harris Head Women's Wrestling Coach jharris@albion.edu
+• Owen McDaniel Assistant Coach omcdaniel@albion.edu

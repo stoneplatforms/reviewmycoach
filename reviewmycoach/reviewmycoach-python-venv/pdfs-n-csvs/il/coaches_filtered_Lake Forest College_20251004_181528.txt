@@ -1,0 +1,389 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:28
+============================================================
+
+Total coaches found: 63
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brian Bruha
+   Email: bruha@lakeforest.edu
+   Username: bruha
+   Original line: Brian Bruha '02 Head Men's Golf Coach/Associate Director of Athletics - Facilities and bruha@lakeforest.edu 847-735-
+
+2. Maya DeGeorge
+   Email: mdegeorge@lakeforest.edu
+   Username: mdegeorge
+   Original line: Maya DeGeorge Assistant Women's Lacrosse Coach/Administrative Assistant mdegeorge@lakeforest.edu
+
+3. Brian Bruha
+   Email: bruha@lakeforest.edu
+   Username: bruha
+   Original line: Brian Bruha '02 Head Men's Golf Coach/Associate Director of Athletics - Facilities and bruha@lakeforest.edu 847-735-
+
+4. Cory Anderson
+   Email: canderson@lakeforest.edu
+   Username: canderson
+   Original line: Cory Anderson Assistant Men's Hockey Coach/Facilities Assistant canderson@lakeforest.edu
+
+5. Bill Lund
+   Email: wlund@lakeforest.edu
+   Username: wlund
+   Original line: Bill Lund Head Strength & Conditioning Coach wlund@lakeforest.edu
+
+6. Cassidy Price
+   Email: cprice@lakeforest.edu
+   Username: cprice
+   Original line: Cassidy Price Strength & Conditioning Coach/Assistant Women's Soccer Coach cprice@lakeforest.edu
+
+7. Stephen Bourbon
+   Email: sbourbon@lakeforest.edu
+   Username: sbourbon
+   Original line: Stephen Bourbon Quarterbacks Coach/Assistant Sports Information Director sbourbon@lakeforest.edu
+
+8. Matt Griggs
+   Email: mgriggs@lakeforest.edu
+   Username: mgriggs
+   Original line: Matt Griggs Head Men's Basketball Coach mgriggs@lakeforest.edu 847-735-
+
+9. Shea Cupples
+   Email: scupples@lakeforest.edu
+   Username: scupples
+   Original line: Shea Cupples Assistant Men's Basketball Coach scupples@lakeforest.edu
+
+10. Cliff Paul
+   Email: cpauljr@lakeforest.edu
+   Username: cpauljr
+   Original line: Cliff Paul Assistant Men's Basketball Coach cpauljr@lakeforest.edu
+
+11. Tamlyn Tills
+   Email: tills@lakeforest.edu
+   Username: tills
+   Original line: Tamlyn Tills Head Women's Basketball Coach tills@lakeforest.edu 847-735-
+
+12. Trish Betthauser
+   Email: tbetthauser@lakeforest.edu
+   Username: tbetthauser
+   Original line: Trish Betthauser Assistant Women's Basketball Coach tbetthauser@lakeforest.edu
+
+13. Jodi Marver
+   Email: jmarver@lakeforest.edu
+   Username: jmarver
+   Original line: Jodi Marver Assistant Women's Basketball Coach jmarver@lakeforest.edu
+
+14. Patrick Austin
+   Email: paustin@lakeforest.edu
+   Username: paustin
+   Original line: Patrick Austin Head Cross Country Coach paustin@lakeforest.edu 847-735-
+
+15. Jill Wilkerson
+   Email: jhumecke@lakeforest.edu
+   Username: jhumecke
+   Original line: Jill Wilkerson Associate Head Cross Country Coach jhumecke@lakeforest.edu
+
+16. Jim Catanzaro
+   Email: catanzaro@lakeforest.edu
+   Username: catanzaro
+   Original line: Jim Catanzaro Head Football Coach/Offensive Coordinator catanzaro@lakeforest.edu 847-735-
+
+17. Matt Williamson
+   Email: mwilliamson@lakeforest.edu
+   Username: mwilliamson
+   Original line: Matt Williamson Defensive Coordinator/Linebackers Coach mwilliamson@lakeforest.edu
+
+18. Jackson Joyce
+   Email: jjoyce@lakeforest.edu
+   Username: jjoyce
+   Original line: Jackson Joyce Offensive Line Coach jjoyce@lakeforest.edu
+
+19. Keith Woodson
+   Email: kwoodson@lakeforest.edu
+   Username: kwoodson
+   Original line: Keith Woodson Defensive Backs Coach kwoodson@lakeforest.edu
+
+20. Mark Gorogianis
+   Email: mgorogianis@lakeforest.edu
+   Username: mgorogianis
+   Original line: Mark Gorogianis Wide Receivers Coach/Recruiting Coordinator mgorogianis@lakeforest.edu
+
+21. Stephen Bourbon
+   Email: sbourbon@lakeforest.edu
+   Username: sbourbon
+   Original line: Stephen Bourbon Quarterbacks Coach/Assistant Sports Information Director sbourbon@lakeforest.edu
+
+22. Karl Crawford
+   Email: kcrawford@lakeforest.edu
+   Username: kcrawford
+   Original line: Karl Crawford Defensive Line Coach kcrawford@lakeforest.edu
+
+23. Mike Dau
+   Email: dau@lakeforest.edu
+   Username: dau
+   Original line: Mike Dau '58 Kickers/Punters Coach dau@lakeforest.edu 847-735-
+
+24. Jaron Eanes
+   Email: jeanes@lakeforest.edu
+   Username: jeanes
+   Original line: Jaron Eanes '10 Defensive Line Coach jeanes@lakeforest.edu
+
+25. Albert Greene
+   Email: greene@lakeforest.edu
+   Username: greene
+   Original line: Albert Greene Defensive Backs Coach greene@lakeforest.edu
+
+26. Chris Cappellini
+   Email: cappellinicst@lakeforest.edu
+   Username: cappellinicst
+   Original line: Chris Cappellini '26 Student Assistant Football Coach cappellinicst@lakeforest.edu
+
+27. Christian Perez
+   Email: perezce@lakeforest.edu
+   Username: perezce
+   Original line: Christian Perez '26 Student Assistant Football Coach perezce@lakeforest.edu
+
+28. Brian Bruha
+   Email: bruha@lakeforest.edu
+   Username: bruha
+   Original line: Brian Bruha '02 Head Men's Golf Coach/Associate Director of Athletics - Facilities and bruha@lakeforest.edu 847-735-
+
+29. Tamlyn Tills
+   Email: tills@lakeforest.edu
+   Username: tills
+   Original line: Tamlyn Tills Head Women's Golf Coach tills@lakeforest.edu 847-735-
+
+30. Trish Betthauser
+   Email: tbetthauser@lakeforest.edu
+   Username: tbetthauser
+   Original line: Trish Betthauser Assistant Women's Golf Coach tbetthauser@lakeforest.edu
+
+31. Mike Dau
+   Email: dau@lakeforest.edu
+   Username: dau
+   Original line: Mike Dau '58 Head Handball Coach dau@lakeforest.edu 847-735-
+
+32. Chris Roberts
+   Email: cmroberts@lakeforest.edu
+   Username: cmroberts
+   Original line: Chris Roberts '83 Assistant Handball Coach cmroberts@lakeforest.edu
+
+33. Sean O'Malley
+   Email: omalley@lakeforest.edu
+   Username: omalley
+   Original line: Sean O'Malley Head Men's Hockey Coach omalley@lakeforest.edu 847-735-
+
+34. Cory Anderson
+   Email: canderson@lakeforest.edu
+   Username: canderson
+   Original line: Cory Anderson Assistant Men's Hockey Coach/Facilities Assistant canderson@lakeforest.edu
+
+35. Amy Budde
+   Email: abudde@lakeforest.edu
+   Username: abudde
+   Original line: Amy Budde '19 Head Women's Hockey Coach abudde@lakeforest.edu 847-735-
+
+36. Phil Dodson
+   Email: pdodson@lakeforest.edu
+   Username: pdodson
+   Original line: Phil Dodson Head Men's Lacrosse Coach pdodson@lakeforest.edu 847-735-
+
+37. Casey Ryan
+   Email: cryan@lakeforest.edu
+   Username: cryan
+   Original line: Casey Ryan Head Women's Lacrosse Coach cryan@lakeforest.edu 847-735-
+
+38. Maya DeGeorge
+   Email: mdegeorge@lakeforest.edu
+   Username: mdegeorge
+   Original line: Maya DeGeorge Assistant Women's Lacrosse Coach/Administrative Assistant mdegeorge@lakeforest.edu
+
+39. Dan Andrews
+   Email: andrews@lakeforest.edu
+   Username: andrews
+   Original line: Dan Andrews Head Men's Soccer Coach andrews@lakeforest.edu 847-735-
+
+40. Sean Avila
+   Email: avila@lakeforest.edu
+   Username: avila
+   Original line: Sean Avila Men's Soccer Goalkeeping Coach avila@lakeforest.edu
+
+41. Kyle Jones
+   Email: kyjones@lakeforest.edu
+   Username: kyjones
+   Original line: Kyle Jones Associate Head Men's Soccer Coach kyjones@lakeforest.edu
+
+42. T.R. Bell
+   Email: tbell@lakeforest.edu
+   Username: tbell
+   Original line: T.R. Bell '96 Head Women's Soccer Coach tbell@lakeforest.edu 847-735-
+
+43. Hiwa Brown
+   Email: hbrown@lakeforest.edu
+   Username: hbrown
+   Original line: Hiwa Brown '22 Assistant Women's Soccer Coach hbrown@lakeforest.edu
+
+44. Cassidy Price
+   Email: cprice@lakeforest.edu
+   Username: cprice
+   Original line: Cassidy Price Strength & Conditioning Coach/Assistant Women's Soccer Coach cprice@lakeforest.edu
+
+45. Rob Samuels
+   Email: rsamuels@lakeforest.edu
+   Username: rsamuels
+   Original line: Rob Samuels '96 Assistant Women's Soccer Coach rsamuels@lakeforest.edu
+
+46. Mary Tudor
+   Email: mtudor@lakeforest.edu
+   Username: mtudor
+   Original line: Mary Tudor Women's Soccer Goalkeeping Coach mtudor@lakeforest.edu
+
+47. Joe Kinsella
+   Email: kinsella@lakeforest.edu
+   Username: kinsella
+   Original line: Joe Kinsella Head Softball Coach kinsella@lakeforest.edu 847-735-
+
+48. Rachele Belletini
+   Email: rbelletini@lakeforest.edu
+   Username: rbelletini
+   Original line: Rachele Belletini Assistant Softball Coach rbelletini@lakeforest.edu
+
+49. Laura Fillipp
+   Email: fillipp@lakeforest.edu
+   Username: fillipp
+   Original line: Laura Fillipp Assistant Softball Coach/Pitching Coach fillipp@lakeforest.edu
+
+50. Andrew Lind
+   Email: alind@lakeforest.edu
+   Username: alind
+   Original line: Andrew Lind Head Swimming & Diving Coach alind@lakeforest.edu 847-735-
+
+51. Zoe Rebol
+   Email: zrebol@lakeforest.edu
+   Username: zrebol
+   Original line: Zoe Rebol Assistant Swimming & Diving Coach zrebol@lakeforest.edu
+
+52. Jon Roby
+   Email: jroby@lakeforest.edu
+   Username: jroby
+   Original line: Jon Roby Diving Coach jroby@lakeforest.edu
+
+53. Scot Reinhart
+   Email: reinhart@lakeforest.edu
+   Username: reinhart
+   Original line: Scot Reinhart Head Men's Tennis Coach reinhart@lakeforest.edu 847-735-
+
+54. Dan Lek
+   Email: dlek@lakeforest.edu
+   Username: dlek
+   Original line: Dan Lek Assistant Men's Tennis Coach dlek@lakeforest.edu
+
+55. Scot Reinhart
+   Email: reinhart@lakeforest.edu
+   Username: reinhart
+   Original line: Scot Reinhart Head Women's Tennis Coach reinhart@lakeforest.edu 847-735-
+
+56. Dan Lek
+   Email: dlek@lakeforest.edu
+   Username: dlek
+   Original line: Dan Lek Assistant Women's Tennis Coach dlek@lakeforest.edu
+
+57. Patrick Austin
+   Email: paustin@lakeforest.edu
+   Username: paustin
+   Original line: Patrick Austin Head Track & Field Coach paustin@lakeforest.edu 847-735-
+
+58. Jill Wilkerson
+   Email: jhumecke@lakeforest.edu
+   Username: jhumecke
+   Original line: Jill Wilkerson Associate Head Track & Field Coach jhumecke@lakeforest.edu
+
+59. Albert Greene
+   Email: greene@lakeforest.edu
+   Username: greene
+   Original line: Albert Greene Assistant Track & Field Coach greene@lakeforest.edu
+
+60. Daniel Coates
+   Email: dcoates@lakeforest.edu
+   Username: dcoates
+   Original line: Daniel Coates Head Men's Volleyball Coach dcoates@lakeforest.edu
+
+61. Melanie Hughes
+   Email: mhughes@lakeforest.edu
+   Username: mhughes
+   Original line: Melanie Hughes Head Women's Volleyball Coach mhughes@lakeforest.edu 847-735-
+
+62. Justin McCartney
+   Email: jmccartney@lakeforest.edu
+   Username: jmccartney
+   Original line: Justin McCartney Assistant Women's Volleyball Coach jmccartney@lakeforest.edu
+
+63. Samantha Taylor
+   Email: staylor@lakeforest.edu
+   Username: staylor
+   Original line: Samantha Taylor Assistant Women's Volleyball Coach staylor@lakeforest.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brian Bruha '02 Head Men's Golf Coach/Associate Director of Athletics - Facilities and bruha@lakeforest.edu 847-735-
+• Maya DeGeorge Assistant Women's Lacrosse Coach/Administrative Assistant mdegeorge@lakeforest.edu
+• Brian Bruha '02 Head Men's Golf Coach/Associate Director of Athletics - Facilities and bruha@lakeforest.edu 847-735-
+• Cory Anderson Assistant Men's Hockey Coach/Facilities Assistant canderson@lakeforest.edu
+• Bill Lund Head Strength & Conditioning Coach wlund@lakeforest.edu
+• Cassidy Price Strength & Conditioning Coach/Assistant Women's Soccer Coach cprice@lakeforest.edu
+• Stephen Bourbon Quarterbacks Coach/Assistant Sports Information Director sbourbon@lakeforest.edu
+• Matt Griggs Head Men's Basketball Coach mgriggs@lakeforest.edu 847-735-
+• Shea Cupples Assistant Men's Basketball Coach scupples@lakeforest.edu
+• Cliff Paul Assistant Men's Basketball Coach cpauljr@lakeforest.edu
+• Tamlyn Tills Head Women's Basketball Coach tills@lakeforest.edu 847-735-
+• Trish Betthauser Assistant Women's Basketball Coach tbetthauser@lakeforest.edu
+• Jodi Marver Assistant Women's Basketball Coach jmarver@lakeforest.edu
+• Patrick Austin Head Cross Country Coach paustin@lakeforest.edu 847-735-
+• Jill Wilkerson Associate Head Cross Country Coach jhumecke@lakeforest.edu
+• Jim Catanzaro Head Football Coach/Offensive Coordinator catanzaro@lakeforest.edu 847-735-
+• Matt Williamson Defensive Coordinator/Linebackers Coach mwilliamson@lakeforest.edu
+• Jackson Joyce Offensive Line Coach jjoyce@lakeforest.edu
+• Keith Woodson Defensive Backs Coach kwoodson@lakeforest.edu
+• Mark Gorogianis Wide Receivers Coach/Recruiting Coordinator mgorogianis@lakeforest.edu
+• Stephen Bourbon Quarterbacks Coach/Assistant Sports Information Director sbourbon@lakeforest.edu
+• Karl Crawford Defensive Line Coach kcrawford@lakeforest.edu
+• Mike Dau '58 Kickers/Punters Coach dau@lakeforest.edu 847-735-
+• Jaron Eanes '10 Defensive Line Coach jeanes@lakeforest.edu
+• Albert Greene Defensive Backs Coach greene@lakeforest.edu
+• Chris Cappellini '26 Student Assistant Football Coach cappellinicst@lakeforest.edu
+• Christian Perez '26 Student Assistant Football Coach perezce@lakeforest.edu
+• Brian Bruha '02 Head Men's Golf Coach/Associate Director of Athletics - Facilities and bruha@lakeforest.edu 847-735-
+• Tamlyn Tills Head Women's Golf Coach tills@lakeforest.edu 847-735-
+• Trish Betthauser Assistant Women's Golf Coach tbetthauser@lakeforest.edu
+• Mike Dau '58 Head Handball Coach dau@lakeforest.edu 847-735-
+• Chris Roberts '83 Assistant Handball Coach cmroberts@lakeforest.edu
+• Sean O'Malley Head Men's Hockey Coach omalley@lakeforest.edu 847-735-
+• Cory Anderson Assistant Men's Hockey Coach/Facilities Assistant canderson@lakeforest.edu
+• Amy Budde '19 Head Women's Hockey Coach abudde@lakeforest.edu 847-735-
+• Phil Dodson Head Men's Lacrosse Coach pdodson@lakeforest.edu 847-735-
+• Casey Ryan Head Women's Lacrosse Coach cryan@lakeforest.edu 847-735-
+• Maya DeGeorge Assistant Women's Lacrosse Coach/Administrative Assistant mdegeorge@lakeforest.edu
+• Dan Andrews Head Men's Soccer Coach andrews@lakeforest.edu 847-735-
+• Sean Avila Men's Soccer Goalkeeping Coach avila@lakeforest.edu
+• Kyle Jones Associate Head Men's Soccer Coach kyjones@lakeforest.edu
+• T.R. Bell '96 Head Women's Soccer Coach tbell@lakeforest.edu 847-735-
+• Hiwa Brown '22 Assistant Women's Soccer Coach hbrown@lakeforest.edu
+• Cassidy Price Strength & Conditioning Coach/Assistant Women's Soccer Coach cprice@lakeforest.edu
+• Rob Samuels '96 Assistant Women's Soccer Coach rsamuels@lakeforest.edu
+• Mary Tudor Women's Soccer Goalkeeping Coach mtudor@lakeforest.edu
+• Joe Kinsella Head Softball Coach kinsella@lakeforest.edu 847-735-
+• Rachele Belletini Assistant Softball Coach rbelletini@lakeforest.edu
+• Laura Fillipp Assistant Softball Coach/Pitching Coach fillipp@lakeforest.edu
+• Andrew Lind Head Swimming & Diving Coach alind@lakeforest.edu 847-735-
+• Zoe Rebol Assistant Swimming & Diving Coach zrebol@lakeforest.edu
+• Jon Roby Diving Coach jroby@lakeforest.edu
+• Scot Reinhart Head Men's Tennis Coach reinhart@lakeforest.edu 847-735-
+• Dan Lek Assistant Men's Tennis Coach dlek@lakeforest.edu
+• Scot Reinhart Head Women's Tennis Coach reinhart@lakeforest.edu 847-735-
+• Dan Lek Assistant Women's Tennis Coach dlek@lakeforest.edu
+• Patrick Austin Head Track & Field Coach paustin@lakeforest.edu 847-735-
+• Jill Wilkerson Associate Head Track & Field Coach jhumecke@lakeforest.edu
+• Albert Greene Assistant Track & Field Coach greene@lakeforest.edu
+• Daniel Coates Head Men's Volleyball Coach dcoates@lakeforest.edu
+• Melanie Hughes Head Women's Volleyball Coach mhughes@lakeforest.edu 847-735-
+• Justin McCartney Assistant Women's Volleyball Coach jmccartney@lakeforest.edu
+• Samantha Taylor Assistant Women's Volleyball Coach staylor@lakeforest.edu

@@ -1,0 +1,581 @@
+COACH ENTRIES FOUND - 2025-10-19 05:01:44
+============================================================
+
+Total coaches found: 95
+
+PARSED ENTRIES:
+----------------------------------------
+1. Zac Ruch
+   Email: ruchzj@uwec.edu
+   Username: ruchzj
+   Original line: Zac Ruch Head Strength & Sports Performance Coach ruchzj@uwec.edu (715) Seventh year
+
+2. Gabe Champeau
+   Email: champegj@uwec.edu
+   Username: champegj
+   Original line: Gabe Champeau Assistant Strength and Sports Performance Coach champegj@uwec.edu (715) Second year
+
+3. Patrick Reilly
+   Email: reillypr@uwec.edu
+   Username: reillypr
+   Original line: Patrick Reilly Head Baseball Coach reillypr@uwec.edu (715) Third year
+
+4. Rob Erickson
+   Email: ericksre@uwec.edu
+   Username: ericksre
+   Original line: Rob Erickson Head Football Coach ericksre@uwec.edu (715) Third year
+
+5. Ricky Lang
+   Email: langrw@uwec.edu
+   Username: langrw
+   Original line: Ricky Lang Assistant Coach - Defensive Line langrw@uwec.edu Third year
+
+6. Deavon Puck
+   Email: puckdm@uwec.edu
+   Username: puckdm
+   Original line: Deavon Puck Assistant Coach - Wide Receivers puckdm@uwec.edu Third year
+
+7. Harrison Tsimouris
+   Email: tsimouhe@uwec.edu
+   Username: tsimouhe
+   Original line: Harrison Tsimouris Assistant Coach - Running Backs tsimouhe@uwec.edu Third year
+
+8. Tim Hoover
+   Email: hoovertj@uwec.edu
+   Username: hoovertj
+   Original line: Tim Hoover Assistant Coach - Linebackers hoovertj@uwec.edu Third year
+
+9. Matt Perotti
+   Email: perottmm@uwec.edu
+   Username: perottmm
+   Original line: Matt Perotti Assistant Coach - Tight Ends perottmm@uwec.edu First year
+
+10. Zach Malvik
+   Email: malvikzj@uwec.edu
+   Username: malvikzj
+   Original line: Zach Malvik Head Men's Basketball Coach malvikzj@uwec.edu (715) Second year
+
+11. Adam Smith
+   Email: smitadam@uwec.edu
+   Username: smitadam
+   Original line: Adam Smith Assistant Men's Basketball Coach smitadam@uwec.edu 715-836- Second year
+
+12. Brady Vest
+   Email: vestba@uwec.edu
+   Username: vestba
+   Original line: Brady Vest Assistant Men's Basketball Coach vestba@uwec.edu First year
+
+13. Dan Schwamberger
+   Email: schwamdj@uwec.edu
+   Username: schwamdj
+   Original line: Dan Schwamberger Head Cross Country Coach/Assistant T&F Coach schwamdj@uwec.edu (715) 19th year
+
+14. Chip Schneider
+   Email: schnechi@uwec.edu
+   Username: schnechi
+   Original line: Chip Schneider Track & Field Head Coach (Multi/Hurdles/400-800) schnechi@uwec.edu (715) 23rd year
+
+15. Marcie Schwamberger
+   Email: fisherma@uwec.edu
+   Username: fisherma
+   Original line: Marcie Schwamberger Assistant Coach (CC/Distance) fisherma@uwec.edu 19th year
+
+16. Connor Dolan
+   Email: dolancc@uwec.edu
+   Username: dolancc
+   Original line: Connor Dolan Assistant Coach dolancc@uwec.edu Second year
+
+17. Jeff Walk
+   Email: walkjj@uwec.edu
+   Username: walkjj
+   Original line: Jeff Walk Assistant Men's and Women's Golf Coach walkjj@uwec.edu Second Year
+
+18. Matt Loen
+   Email: loenmj@uwec.edu
+   Username: loenmj
+   Original line: Matt Loen Head Men's Hockey Coach loenmj@uwec.edu (715) 19th year
+
+19. Mike Janda
+   Email: jandame@uwec.edu
+   Username: jandame
+   Original line: Mike Janda Associate Head Coach jandame@uwec.edu Second year
+
+20. Bob Thorp
+   Email: thorprs@uwec.edu
+   Username: thorprs
+   Original line: Bob Thorp Volunteer Assistant Coach thorprs@uwec.edu 18th Year
+
+21. Casey Holm
+   Email: holmc@uwec.edu
+   Username: holmc
+   Original line: Casey Holm Head Men's Soccer Coach holmc@uwec.edu (715) Fifth year
+
+22. Dan Nettleton
+   Email: nettledj@uwec.edu
+   Username: nettledj
+   Original line: Dan Nettleton Assistant Coach nettledj@uwec.edu Fourth year
+
+23. Annie Ryder
+   Email: ryderam@uwec.edu
+   Username: ryderam
+   Original line: Annie Ryder Head Swimming and Diving Coach ryderam@uwec.edu (715) 12th year
+
+24. Sara Bates
+   Email: batessm@uwec.edu
+   Username: batessm
+   Original line: Sara Bates Assistant Coach-Diving batessm@uwec.edu Ninth Year
+
+25. Sam Ryf
+   Email: ryfs@uwec.edu
+   Username: ryfs
+   Original line: Sam Ryf Assistant Coach ryfs@uwec.edu Second year
+
+26. Matt Boughton
+   Email: boughtmw@uwec.edu
+   Username: boughtmw
+   Original line: Matt Boughton Head Coach boughtmw@uwec.edu Second year
+
+27. Chip Schneider
+   Email: schnechi@uwec.edu
+   Username: schnechi
+   Original line: Chip Schneider Track & Field Head Coach (Multi/Hurdles/400-800) schnechi@uwec.edu (715) 23rd year
+
+28. Dan Schwamberger
+   Email: schwamdj@uwec.edu
+   Username: schwamdj
+   Original line: Dan Schwamberger Head Cross Country Coach/Assistant T&F Coach schwamdj@uwec.edu (715) 19th year
+
+29. Marcie Schwamberger
+   Email: fisherma@uwec.edu
+   Username: fisherma
+   Original line: Marcie Schwamberger Assistant Coach (CC/Distance) fisherma@uwec.edu 19th year
+
+30. Paul Conlin
+   Email: conlinpl@uwec.edu
+   Username: conlinpl
+   Original line: Paul Conlin Assistant Coach (Throws) conlinpl@uwec.edu 30th Year
+
+31. Seth Hoyer
+   Email: hoyersa@uwec.edu
+   Username: hoyersa
+   Original line: Seth Hoyer Assistant Coach (Sprints) hoyersa@uwec.edu 20th Year
+
+32. Will LaJeunesse
+   Email: lajeunws@uwec.edu
+   Username: lajeunws
+   Original line: Will LaJeunesse Assistant Coach (Long Sprints) lajeunws@uwec.edu Eighth Year
+
+33. Cory White
+   Email: whiteca@uwec.edu
+   Username: whiteca
+   Original line: Cory White Assistant Coach (High Jump) whiteca@uwec.edu 10th Year
+
+34. Shawn McMahon
+   Email: mcmahosp@uwec.edu
+   Username: mcmahosp
+   Original line: Shawn McMahon Assistant Coach (Long/Triple Jump) mcmahosp@uwec.edu 12th Year
+
+35. Roger Steen
+   Email: steenrr@uwec.edu
+   Username: steenrr
+   Original line: Roger Steen Assistant Coach (Throws) steenrr@uwec.edu 11th year
+
+36. Connor Dolan
+   Email: dolancc@uwec.edu
+   Username: dolancc
+   Original line: Connor Dolan Assistant Coach dolancc@uwec.edu Second year
+
+37. Chip Schneider
+   Email: schnechi@uwec.edu
+   Username: schnechi
+   Original line: Chip Schneider Track & Field Head Coach (Multi/Hurdles/400-800) schnechi@uwec.edu (715) 23rd year
+
+38. Dan Schwamberger
+   Email: schwamdj@uwec.edu
+   Username: schwamdj
+   Original line: Dan Schwamberger Head Cross Country Coach/Assistant T&F Coach schwamdj@uwec.edu (715) 19th year
+
+39. Marcie Schwamberger
+   Email: fisherma@uwec.edu
+   Username: fisherma
+   Original line: Marcie Schwamberger Assistant Coach (CC/Distance) fisherma@uwec.edu 19th year
+
+40. Paul Conlin
+   Email: conlinpl@uwec.edu
+   Username: conlinpl
+   Original line: Paul Conlin Assistant Coach (Throws) conlinpl@uwec.edu 30th Year
+
+41. Seth Hoyer
+   Email: hoyersa@uwec.edu
+   Username: hoyersa
+   Original line: Seth Hoyer Assistant Coach (Sprints) hoyersa@uwec.edu 20th Year
+
+42. Will LaJeunesse
+   Email: lajeunws@uwec.edu
+   Username: lajeunws
+   Original line: Will LaJeunesse Assistant Coach (Long Sprints) lajeunws@uwec.edu Eighth Year
+
+43. Cory White
+   Email: whiteca@uwec.edu
+   Username: whiteca
+   Original line: Cory White Assistant Coach (High Jump) whiteca@uwec.edu 10th Year
+
+44. Shawn McMahon
+   Email: mcmahosp@uwec.edu
+   Username: mcmahosp
+   Original line: Shawn McMahon Assistant Coach (Long/Triple Jump) mcmahosp@uwec.edu 12th Year
+
+45. Roger Steen
+   Email: steenrr@uwec.edu
+   Username: steenrr
+   Original line: Roger Steen Assistant Coach (Throws) steenrr@uwec.edu 11th year
+
+46. Connor Dolan
+   Email: dolancc@uwec.edu
+   Username: dolancc
+   Original line: Connor Dolan Assistant Coach dolancc@uwec.edu Second year
+
+47. Tim Fader
+   Email: faderta@uwec.edu
+   Username: faderta
+   Original line: Tim Fader Head Wrestling Coach faderta@uwec.edu (715) 11th year
+
+48. Brandon Carroll
+   Email: carrolba@uwec.edu
+   Username: carrolba
+   Original line: Brandon Carroll Head Assistant Coach carrolba@uwec.edu (715) Fourth year
+
+49. David Kurker
+   Email: kurkerdw@uwec.edu
+   Username: kurkerdw
+   Original line: David Kurker Assistant Coach kurkerdw@uwec.edu First Year
+
+50. James Huntley
+   Email: huntlejk1084@uwec.edu
+   Username: huntlejk1084
+   Original line: James Huntley Assistant Coach huntlejk1084@uwec.edu Fifth year
+
+51. Justin Karkula
+   Email: karkulja@uwec.edu
+   Username: karkulja
+   Original line: Justin Karkula Assistant Coach karkulja@uwec.edu Ninth Year
+
+52. Tonja Englund
+   Email: engluntj@uwec.edu
+   Username: engluntj
+   Original line: Tonja Englund Head Women's Basketball Coach engluntj@uwec.edu (715) 26th year
+
+53. Jackson Noll
+   Email: nolljc@uwec.edu
+   Username: nolljc
+   Original line: Jackson Noll Assistant Coach nolljc@uwec.edu Second Year
+
+54. Nikki Seibel
+   Email: seibelnl@uwec.edu
+   Username: seibelnl
+   Original line: Nikki Seibel Assistant Coach seibelnl@uwec.edu Second year
+
+55. Dan Schwamberger
+   Email: schwamdj@uwec.edu
+   Username: schwamdj
+   Original line: Dan Schwamberger Head Cross Country Coach/Assistant T&F Coach schwamdj@uwec.edu (715) 19th year
+
+56. Chip Schneider
+   Email: schnechi@uwec.edu
+   Username: schnechi
+   Original line: Chip Schneider Track & Field Head Coach (Multi/Hurdles/400-800) schnechi@uwec.edu (715) 23rd year
+
+57. Marcie Schwamberger
+   Email: fisherma@uwec.edu
+   Username: fisherma
+   Original line: Marcie Schwamberger Assistant Coach (CC/Distance) fisherma@uwec.edu 19th year
+
+58. Connor Dolan
+   Email: dolancc@uwec.edu
+   Username: dolancc
+   Original line: Connor Dolan Assistant Coach dolancc@uwec.edu Second year
+
+59. Jeff Walk
+   Email: walkjj@uwec.edu
+   Username: walkjj
+   Original line: Jeff Walk Assistant Men's and Women's Golf Coach walkjj@uwec.edu Second Year
+
+60. Jessie DeZiel
+   Email: dezieljr@uwec.edu
+   Username: dezieljr
+   Original line: Jessie DeZiel Head Gymnastics Coach dezieljr@uwec.edu Fifth year
+
+61. Jarrad Vroman
+   Email: vromanja@uwec.edu
+   Username: vromanja
+   Original line: Jarrad Vroman Head Women's Hockey Coach vromanja@uwec.edu (715) First Year
+
+62. Courtney Puhl
+   Email: puhlcj@uwec.edu
+   Username: puhlcj
+   Original line: Courtney Puhl Head Women's Lacrosse Coach puhlcj@uwec.edu First year
+
+63. Sean Yengo
+   Email: yengosp@uwec.edu
+   Username: yengosp
+   Original line: Sean Yengo Head Women's Soccer Coach yengosp@uwec.edu (715) 29th year
+
+64. JD Jones
+   Email: jdjones@uwec.edu
+   Username: jdjones
+   Original line: JD Jones Associate Head Coach jdjones@uwec.edu Eighth year
+
+65. Shamus Funk
+   Email: funksr@uwec.edu
+   Username: funksr
+   Original line: Shamus Funk Goalkeepers Coach funksr@uwec.edu 14th Year
+
+66. Leslie Huntington
+   Email: huntinla@uwec.edu
+   Username: huntinla
+   Original line: Leslie Huntington Head Softball Coach huntinla@uwec.edu (715) 25th year
+
+67. Abigail Place
+   Email: placean9272@uwec.edu
+   Username: placean9272
+   Original line: Abigail Place Assistant Coach placean9272@uwec.edu (715) Fifth year
+
+68. Robin Baker
+   Email: bakerrk@uwec.edu
+   Username: bakerrk
+   Original line: Robin Baker Volunteer Assistant Softball Coach bakerrk@uwec.edu 24th Year
+
+69. Annie Ryder
+   Email: ryderam@uwec.edu
+   Username: ryderam
+   Original line: Annie Ryder Head Swimming and Diving Coach ryderam@uwec.edu (715) 12th year
+
+70. Sara Bates
+   Email: batessm@uwec.edu
+   Username: batessm
+   Original line: Sara Bates Assistant Coach-Diving batessm@uwec.edu Ninth Year
+
+71. Sam Ryf
+   Email: ryfs@uwec.edu
+   Username: ryfs
+   Original line: Sam Ryf Assistant Coach ryfs@uwec.edu Second year
+
+72. Chip Schneider
+   Email: schnechi@uwec.edu
+   Username: schnechi
+   Original line: Chip Schneider Track & Field Head Coach (Multi/Hurdles/400-800) schnechi@uwec.edu (715) 23rd year
+
+73. Dan Schwamberger
+   Email: schwamdj@uwec.edu
+   Username: schwamdj
+   Original line: Dan Schwamberger Head Cross Country Coach/Assistant T&F Coach schwamdj@uwec.edu (715) 19th year
+
+74. Marcie Schwamberger
+   Email: fisherma@uwec.edu
+   Username: fisherma
+   Original line: Marcie Schwamberger Assistant Coach (CC/Distance) fisherma@uwec.edu 19th year
+
+75. Seth Hoyer
+   Email: hoyersa@uwec.edu
+   Username: hoyersa
+   Original line: Seth Hoyer Assistant Coach (Sprints) hoyersa@uwec.edu 20th Year
+
+76. Will LaJeunesse
+   Email: lajeunws@uwec.edu
+   Username: lajeunws
+   Original line: Will LaJeunesse Assistant Coach (Long Sprints) lajeunws@uwec.edu Eighth Year
+
+77. Cory White
+   Email: whiteca@uwec.edu
+   Username: whiteca
+   Original line: Cory White Assistant Coach (High Jump) whiteca@uwec.edu 10th Year
+
+78. Shawn McMahon
+   Email: mcmahosp@uwec.edu
+   Username: mcmahosp
+   Original line: Shawn McMahon Assistant Coach (Long/Triple Jump) mcmahosp@uwec.edu 12th Year
+
+79. Paul Conlin
+   Email: conlinpl@uwec.edu
+   Username: conlinpl
+   Original line: Paul Conlin Assistant Coach (Throws) conlinpl@uwec.edu 30th Year
+
+80. Roger Steen
+   Email: steenrr@uwec.edu
+   Username: steenrr
+   Original line: Roger Steen Assistant Coach (Throws) steenrr@uwec.edu 11th year
+
+81. Connor Dolan
+   Email: dolancc@uwec.edu
+   Username: dolancc
+   Original line: Connor Dolan Assistant Coach dolancc@uwec.edu Second year
+
+82. Chip Schneider
+   Email: schnechi@uwec.edu
+   Username: schnechi
+   Original line: Chip Schneider Track & Field Head Coach (Multi/Hurdles/400-800) schnechi@uwec.edu (715) 23rd year
+
+83. Dan Schwamberger
+   Email: schwamdj@uwec.edu
+   Username: schwamdj
+   Original line: Dan Schwamberger Head Cross Country Coach/Assistant T&F Coach schwamdj@uwec.edu (715) 19th year
+
+84. Marcie Schwamberger
+   Email: fisherma@uwec.edu
+   Username: fisherma
+   Original line: Marcie Schwamberger Assistant Coach (CC/Distance) fisherma@uwec.edu 19th year
+
+85. Seth Hoyer
+   Email: hoyersa@uwec.edu
+   Username: hoyersa
+   Original line: Seth Hoyer Assistant Coach (Sprints) hoyersa@uwec.edu 20th Year
+
+86. Will LaJeunesse
+   Email: lajeunws@uwec.edu
+   Username: lajeunws
+   Original line: Will LaJeunesse Assistant Coach (Long Sprints) lajeunws@uwec.edu Eighth Year
+
+87. Cory White
+   Email: whiteca@uwec.edu
+   Username: whiteca
+   Original line: Cory White Assistant Coach (High Jump) whiteca@uwec.edu 10th Year
+
+88. Shawn McMahon
+   Email: mcmahosp@uwec.edu
+   Username: mcmahosp
+   Original line: Shawn McMahon Assistant Coach (Long/Triple Jump) mcmahosp@uwec.edu 12th Year
+
+89. Paul Conlin
+   Email: conlinpl@uwec.edu
+   Username: conlinpl
+   Original line: Paul Conlin Assistant Coach (Throws) conlinpl@uwec.edu 30th Year
+
+90. Roger Steen
+   Email: steenrr@uwec.edu
+   Username: steenrr
+   Original line: Roger Steen Assistant Coach (Throws) steenrr@uwec.edu 11th year
+
+91. Connor Dolan
+   Email: dolancc@uwec.edu
+   Username: dolancc
+   Original line: Connor Dolan Assistant Coach dolancc@uwec.edu Second year
+
+92. Kim Wudi
+   Email: wudikm@uwec.edu
+   Username: wudikm
+   Original line: Kim Wudi Head Volleyball Coach wudikm@uwec.edu (715) 19th year
+
+93. Alex Berger
+   Email: bergeral@uwec.edu
+   Username: bergeral
+   Original line: Alex Berger Assistant Coach bergeral@uwec.edu (715) Eighth year
+
+94. Jodi Risen
+   Email: risenja@uwec.edu
+   Username: risenja
+   Original line: Jodi Risen Assistant Coach risenja@uwec.edu 17th year
+
+95. Dylan Graber
+   Email: graberdd@uwec.edu
+   Username: graberdd
+   Original line: Dylan Graber Assistant Coach/Technical Coordinator graberdd@uwec.edu Fifth Year
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Zac Ruch Head Strength & Sports Performance Coach ruchzj@uwec.edu (715) Seventh year
+• Gabe Champeau Assistant Strength and Sports Performance Coach champegj@uwec.edu (715) Second year
+• Patrick Reilly Head Baseball Coach reillypr@uwec.edu (715) Third year
+• Rob Erickson Head Football Coach ericksre@uwec.edu (715) Third year
+• Ricky Lang Assistant Coach - Defensive Line langrw@uwec.edu Third year
+• Deavon Puck Assistant Coach - Wide Receivers puckdm@uwec.edu Third year
+• Harrison Tsimouris Assistant Coach - Running Backs tsimouhe@uwec.edu Third year
+• Tim Hoover Assistant Coach - Linebackers hoovertj@uwec.edu Third year
+• Matt Perotti Assistant Coach - Tight Ends perottmm@uwec.edu First year
+• Zach Malvik Head Men's Basketball Coach malvikzj@uwec.edu (715) Second year
+• Adam Smith Assistant Men's Basketball Coach smitadam@uwec.edu 715-836- Second year
+• Brady Vest Assistant Men's Basketball Coach vestba@uwec.edu First year
+• Dan Schwamberger Head Cross Country Coach/Assistant T&F Coach schwamdj@uwec.edu (715) 19th year
+• Chip Schneider Track & Field Head Coach (Multi/Hurdles/400-800) schnechi@uwec.edu (715) 23rd year
+• Marcie Schwamberger Assistant Coach (CC/Distance) fisherma@uwec.edu 19th year
+• Connor Dolan Assistant Coach dolancc@uwec.edu Second year
+• Jeff Walk Assistant Men's and Women's Golf Coach walkjj@uwec.edu Second Year
+• Matt Loen Head Men's Hockey Coach loenmj@uwec.edu (715) 19th year
+• Mike Janda Associate Head Coach jandame@uwec.edu Second year
+• Bob Thorp Volunteer Assistant Coach thorprs@uwec.edu 18th Year
+• Casey Holm Head Men's Soccer Coach holmc@uwec.edu (715) Fifth year
+• Dan Nettleton Assistant Coach nettledj@uwec.edu Fourth year
+• Annie Ryder Head Swimming and Diving Coach ryderam@uwec.edu (715) 12th year
+• Sara Bates Assistant Coach-Diving batessm@uwec.edu Ninth Year
+• Sam Ryf Assistant Coach ryfs@uwec.edu Second year
+• Matt Boughton Head Coach boughtmw@uwec.edu Second year
+• Chip Schneider Track & Field Head Coach (Multi/Hurdles/400-800) schnechi@uwec.edu (715) 23rd year
+• Dan Schwamberger Head Cross Country Coach/Assistant T&F Coach schwamdj@uwec.edu (715) 19th year
+• Marcie Schwamberger Assistant Coach (CC/Distance) fisherma@uwec.edu 19th year
+• Paul Conlin Assistant Coach (Throws) conlinpl@uwec.edu 30th Year
+• Seth Hoyer Assistant Coach (Sprints) hoyersa@uwec.edu 20th Year
+• Will LaJeunesse Assistant Coach (Long Sprints) lajeunws@uwec.edu Eighth Year
+• Cory White Assistant Coach (High Jump) whiteca@uwec.edu 10th Year
+• Shawn McMahon Assistant Coach (Long/Triple Jump) mcmahosp@uwec.edu 12th Year
+• Roger Steen Assistant Coach (Throws) steenrr@uwec.edu 11th year
+• Connor Dolan Assistant Coach dolancc@uwec.edu Second year
+• Chip Schneider Track & Field Head Coach (Multi/Hurdles/400-800) schnechi@uwec.edu (715) 23rd year
+• Dan Schwamberger Head Cross Country Coach/Assistant T&F Coach schwamdj@uwec.edu (715) 19th year
+• Marcie Schwamberger Assistant Coach (CC/Distance) fisherma@uwec.edu 19th year
+• Paul Conlin Assistant Coach (Throws) conlinpl@uwec.edu 30th Year
+• Seth Hoyer Assistant Coach (Sprints) hoyersa@uwec.edu 20th Year
+• Will LaJeunesse Assistant Coach (Long Sprints) lajeunws@uwec.edu Eighth Year
+• Cory White Assistant Coach (High Jump) whiteca@uwec.edu 10th Year
+• Shawn McMahon Assistant Coach (Long/Triple Jump) mcmahosp@uwec.edu 12th Year
+• Roger Steen Assistant Coach (Throws) steenrr@uwec.edu 11th year
+• Connor Dolan Assistant Coach dolancc@uwec.edu Second year
+• Tim Fader Head Wrestling Coach faderta@uwec.edu (715) 11th year
+• Brandon Carroll Head Assistant Coach carrolba@uwec.edu (715) Fourth year
+• David Kurker Assistant Coach kurkerdw@uwec.edu First Year
+• James Huntley Assistant Coach huntlejk1084@uwec.edu Fifth year
+• Justin Karkula Assistant Coach karkulja@uwec.edu Ninth Year
+• Tonja Englund Head Women's Basketball Coach engluntj@uwec.edu (715) 26th year
+• Jackson Noll Assistant Coach nolljc@uwec.edu Second Year
+• Nikki Seibel Assistant Coach seibelnl@uwec.edu Second year
+• Dan Schwamberger Head Cross Country Coach/Assistant T&F Coach schwamdj@uwec.edu (715) 19th year
+• Chip Schneider Track & Field Head Coach (Multi/Hurdles/400-800) schnechi@uwec.edu (715) 23rd year
+• Marcie Schwamberger Assistant Coach (CC/Distance) fisherma@uwec.edu 19th year
+• Connor Dolan Assistant Coach dolancc@uwec.edu Second year
+• Jeff Walk Assistant Men's and Women's Golf Coach walkjj@uwec.edu Second Year
+• Jessie DeZiel Head Gymnastics Coach dezieljr@uwec.edu Fifth year
+• Jarrad Vroman Head Women's Hockey Coach vromanja@uwec.edu (715) First Year
+• Courtney Puhl Head Women's Lacrosse Coach puhlcj@uwec.edu First year
+• Sean Yengo Head Women's Soccer Coach yengosp@uwec.edu (715) 29th year
+• JD Jones Associate Head Coach jdjones@uwec.edu Eighth year
+• Shamus Funk Goalkeepers Coach funksr@uwec.edu 14th Year
+• Leslie Huntington Head Softball Coach huntinla@uwec.edu (715) 25th year
+• Abigail Place Assistant Coach placean9272@uwec.edu (715) Fifth year
+• Robin Baker Volunteer Assistant Softball Coach bakerrk@uwec.edu 24th Year
+• Annie Ryder Head Swimming and Diving Coach ryderam@uwec.edu (715) 12th year
+• Sara Bates Assistant Coach-Diving batessm@uwec.edu Ninth Year
+• Sam Ryf Assistant Coach ryfs@uwec.edu Second year
+• Chip Schneider Track & Field Head Coach (Multi/Hurdles/400-800) schnechi@uwec.edu (715) 23rd year
+• Dan Schwamberger Head Cross Country Coach/Assistant T&F Coach schwamdj@uwec.edu (715) 19th year
+• Marcie Schwamberger Assistant Coach (CC/Distance) fisherma@uwec.edu 19th year
+• Seth Hoyer Assistant Coach (Sprints) hoyersa@uwec.edu 20th Year
+• Will LaJeunesse Assistant Coach (Long Sprints) lajeunws@uwec.edu Eighth Year
+• Cory White Assistant Coach (High Jump) whiteca@uwec.edu 10th Year
+• Shawn McMahon Assistant Coach (Long/Triple Jump) mcmahosp@uwec.edu 12th Year
+• Paul Conlin Assistant Coach (Throws) conlinpl@uwec.edu 30th Year
+• Roger Steen Assistant Coach (Throws) steenrr@uwec.edu 11th year
+• Connor Dolan Assistant Coach dolancc@uwec.edu Second year
+• Chip Schneider Track & Field Head Coach (Multi/Hurdles/400-800) schnechi@uwec.edu (715) 23rd year
+• Dan Schwamberger Head Cross Country Coach/Assistant T&F Coach schwamdj@uwec.edu (715) 19th year
+• Marcie Schwamberger Assistant Coach (CC/Distance) fisherma@uwec.edu 19th year
+• Seth Hoyer Assistant Coach (Sprints) hoyersa@uwec.edu 20th Year
+• Will LaJeunesse Assistant Coach (Long Sprints) lajeunws@uwec.edu Eighth Year
+• Cory White Assistant Coach (High Jump) whiteca@uwec.edu 10th Year
+• Shawn McMahon Assistant Coach (Long/Triple Jump) mcmahosp@uwec.edu 12th Year
+• Paul Conlin Assistant Coach (Throws) conlinpl@uwec.edu 30th Year
+• Roger Steen Assistant Coach (Throws) steenrr@uwec.edu 11th year
+• Connor Dolan Assistant Coach dolancc@uwec.edu Second year
+• Kim Wudi Head Volleyball Coach wudikm@uwec.edu (715) 19th year
+• Alex Berger Assistant Coach bergeral@uwec.edu (715) Eighth year
+• Jodi Risen Assistant Coach risenja@uwec.edu 17th year
+• Dylan Graber Assistant Coach/Technical Coordinator graberdd@uwec.edu Fifth Year

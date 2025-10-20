@@ -1,0 +1,206 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:34
+============================================================
+
+Total coaches found: 39
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jared Kaaiohelo
+   Email: jared.kaaiohelo@utsa.edu
+   Username: jared.kaaiohelo
+   Original line: Jared Kaaiohelo Associate Sports Performance Coach jared.kaaiohelo@utsa.edu
+
+2. Tyler McCulloch
+   Email: tyler.mcculloch@utsa.edu
+   Username: tyler.mcculloch
+   Original line: Tyler McCulloch Associate Sports Performance Coach tyler.mcculloch@utsa.edu
+
+3. Carl Austin III
+   Email: carl.austin@utsa.edu
+   Username: carl.austin
+   Original line: Carl Austin III Assistant Sports Performance Coach carl.austin@utsa.edu
+
+4. Tyler Blanchard
+   Email: tyler.blanchard@utsa.edu
+   Username: tyler.blanchard
+   Original line: Tyler Blanchard Assistant Sports Performance Coach tyler.blanchard@utsa.edu
+
+5. Devon Turner
+   Email: devon.turner@utsa.edu
+   Username: devon.turner
+   Original line: Devon Turner Assistant Sports Performance Coach devon.turner@utsa.edu
+
+6. Waylan Washington
+   Email: waylan.washington@utsa.edu
+   Username: waylan.washington
+   Original line: Waylan Washington Assistant Sports Performance Coach waylan.washington@utsa.edu
+
+7.  
+   Email: amanda.esparza2@utsa.edu
+   Username: amanda.esparza2
+   Original line: Assistant Sports Performance Coach Intern amanda.esparza2@utsa.edu
+
+8. Zach Butler
+   Email: zachary.butler@utsa.edu
+   Username: zachary.butler
+   Original line: Zach Butler Assistant Coach zachary.butler@utsa.edu
+
+9. Michael Cavazos
+   Email: michael.cavazos@utsa.edu
+   Username: michael.cavazos
+   Original line: Michael Cavazos Assistant Coach michael.cavazos@utsa.edu
+
+10. Nick Bowman
+   Email: nicholas.bowman@utsa.edu
+   Username: nicholas.bowman
+   Original line: Nick Bowman Assistant Coach nicholas.bowman@utsa.edu
+
+11. Karen Aston
+   Email: karen.aston@utsa.edu
+   Username: karen.aston
+   Original line: Karen Aston Head Coach karen.aston@utsa.edu
+
+12. Chantel Govan
+   Email: chantel.govan@utsa.edu
+   Username: chantel.govan
+   Original line: Chantel Govan Assistant Coach / Recruiting Coordinator chantel.govan@utsa.edu
+
+13.  
+   Email: kyra.white@utsa.edu
+   Username: kyra.white
+   Original line: Assistant Coach kyra.white@utsa.edu
+
+14. Angel Almaguer
+   Email: miguel.almaguer@utsa.edu
+   Username: miguel.almaguer
+   Original line: Angel Almaguer Assistant Coach miguel.almaguer@utsa.edu
+
+15.  
+   Email: football.recruiting@utsa.edu
+   Username: football.recruiting
+   Original line: Assistant Head Coach/Cornerbacks football.recruiting@utsa.edu
+
+16. Joe Price III
+   Email: football.recruiting@utsa.edu
+   Username: football.recruiting
+   Original line: Joe Price III Associate Head Coach/Pass Game Coordinator/Wide Receivers football.recruiting@utsa.edu
+
+17. Hunter Rittimann
+   Email: football.recruiting@utsa.edu
+   Username: football.recruiting
+   Original line: Hunter Rittimann Associate Head Coach for Offense/Tight Ends football.recruiting@utsa.edu
+
+18. Corey Jordan
+   Email: football.recruiting@utsa.edu
+   Username: football.recruiting
+   Original line: Corey Jordan Safeties Coach football.recruiting@utsa.edu
+
+19. Pavit Patel
+   Email: football.recruiting@utsa.edu
+   Username: football.recruiting
+   Original line: Dr. Pavit Patel Pass Game Specialist/Quarterbacks Coach football.recruiting@utsa.edu
+
+20. Peter Gray
+   Email: football.recruiting@utsa.edu
+   Username: football.recruiting
+   Original line: Peter Gray Assistant Offensive Line Coach football.recruiting@utsa.edu
+
+21. Bonner Bordelon
+   Email: football.recruiting@utsa.edu
+   Username: football.recruiting
+   Original line: Bonner Bordelon Specialists Coach/Assistant Special Teams Coordinator football.recruiting@utsa.edu
+
+22. Luke Turner
+   Email: football.recruiting@utsa.edu
+   Username: football.recruiting
+   Original line: Luke Turner Assistant Wide Receivers Coach football.recruiting@utsa.edu
+
+23. Matt Wernecke
+   Email: matthew.wernecke@utsa.edu
+   Username: matthew.wernecke
+   Original line: Matt Wernecke Head Coach matthew.wernecke@utsa.edu
+
+24. Joey Ashley
+   Email: joey.ashley@utsa.edu
+   Username: joey.ashley
+   Original line: Joey Ashley Assistant Coach joey.ashley@utsa.edu
+
+25. Taryn Torgerson
+   Email: taryn.torgerson@utsa.edu
+   Username: taryn.torgerson
+   Original line: Taryn Torgerson Assistant Coach taryn.torgerson@utsa.edu
+
+26. Derek Pittman
+   Email: derek.pittman@utsa.edu
+   Username: derek.pittman
+   Original line: Derek Pittman Head Coach derek.pittman@utsa.edu
+
+27. Rob McGann
+   Email: rob.mcgann@utsa.edu
+   Username: rob.mcgann
+   Original line: Rob McGann Assistant Coach (Recruiting Coordinator) rob.mcgann@utsa.edu
+
+28. Colleen Pitts
+   Email: colleen.pitts@utsa.edu
+   Username: colleen.pitts
+   Original line: Colleen Pitts Assistant Coach (Goalkeepers Coach) colleen.pitts@utsa.edu
+
+29. Vann Stuedeman
+   Email: vann.stuedeman@utsa.edu
+   Username: vann.stuedeman
+   Original line: Vann Stuedeman Head Coach vann.stuedeman@utsa.edu
+
+30. Mac Morgan
+   Email: mackenzie.morgan@utsa.edu
+   Username: mackenzie.morgan
+   Original line: Mac Morgan Pitching Coach mackenzie.morgan@utsa.edu
+
+31. Heather Ruiz
+   Email: lizann.ruiz@utsa.edu
+   Username: lizann.ruiz
+   Original line: Heather Ruiz Assistant Coach lizann.ruiz@utsa.edu
+
+32. Ashley Johnson
+   Email: ashley.johnson@utsa.edu
+   Username: ashley.johnson
+   Original line: Ashley Johnson Head Coach ashley.johnson@utsa.edu
+
+33. Sasha Gozun
+   Email: alexandru.gozun@utsa.edu
+   Username: alexandru.gozun
+   Original line: Sasha Gozun Head Coach alexandru.gozun@utsa.edu
+
+34. Kareem Streete-Thompson
+   Email: kareem.streete-thompson@utsa.edu
+   Username: kareem.streete-thompson
+   Original line: Kareem Streete-Thompson Associate Head Coach (Sprints/Jumps/Relays) kareem.streete-thompson@utsa.edu
+
+35.  
+   Email: chris.adams@utsa.edu
+   Username: chris.adams
+   Original line: Assistant Coach (Throws) chris.adams@utsa.edu
+
+36. Harrison Tillman
+   Email: harrison.tillman@utsa.edu
+   Username: harrison.tillman
+   Original line: Harrison Tillman Assistant Coach (Cross Country/Distances) harrison.tillman@utsa.edu
+
+37. Carol Price-Torok
+   Email: carol.torok@utsa.edu
+   Username: carol.torok
+   Original line: Carol Price-Torok Head Coach carol.torok@utsa.edu
+
+38. Emily DeWalt
+   Email: emily.dewalt@utsa.edu
+   Username: emily.dewalt
+   Original line: Emily DeWalt Assistant Coach emily.dewalt@utsa.edu
+
+39. Ayden Bartlett
+   Email: ayden.bartlett@utsa.edu
+   Username: ayden.bartlett
+   Original line: Ayden Bartlett Assistant Coach ayden.bartlett@utsa.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

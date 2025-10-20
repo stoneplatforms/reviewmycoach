@@ -1,0 +1,351 @@
+Cannot set gray stroke color because /'P14' is an invalid float value
+Cannot set gray non-stroke color because /'P14' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray stroke color because /'P26' is an invalid float value
+Cannot set gray non-stroke color because /'P26' is an invalid float value
+Cannot set gray stroke color because /'P32' is an invalid float value
+Cannot set gray non-stroke color because /'P32' is an invalid float value
+Cannot set gray stroke color because /'P37' is an invalid float value
+Cannot set gray non-stroke color because /'P37' is an invalid float value
+Cannot set gray stroke color because /'P42' is an invalid float value
+Cannot set gray non-stroke color because /'P42' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray stroke color because /'P1936' is an invalid float value
+Cannot set gray non-stroke color because /'P1936' is an invalid float value
+Cannot set gray stroke color because /'P10' is an invalid float value
+Cannot set gray non-stroke color because /'P10' is an invalid float value
+Cannot set gray stroke color because /'P11' is an invalid float value
+Cannot set gray non-stroke color because /'P11' is an invalid float value
+Cannot set gray stroke color because /'P12' is an invalid float value
+Cannot set gray non-stroke color because /'P12' is an invalid float value
+Cannot set gray stroke color because /'P61' is an invalid float value
+Cannot set gray non-stroke color because /'P61' is an invalid float value
+Cannot set gray stroke color because /'P65' is an invalid float value
+Cannot set gray non-stroke color because /'P65' is an invalid float value
+Cannot set gray stroke color because /'P66' is an invalid float value
+Cannot set gray non-stroke color because /'P66' is an invalid float value
+Cannot set gray stroke color because /'P92' is an invalid float value
+Cannot set gray non-stroke color because /'P92' is an invalid float value
+Cannot set gray stroke color because /'P93' is an invalid float value
+Cannot set gray non-stroke color because /'P93' is an invalid float value
+Cannot set gray stroke color because /'P93' is an invalid float value
+Cannot set gray non-stroke color because /'P93' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+-> Reading CSV: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/la/Louisiana Data.csv
+-> Output PDFs to: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/la
+
+Printing completed in 246.2s
+Success: 18 | Skipped: 1 | Errors: 0
+
+Resolved URLs used:
+- Louisiana Tech University.pdf: https://latechsports.com/staff-directory?print=true
+- University of New Orleans.pdf: https://unoprivateers.com/staff-directory?print=true
+- Louisiana Christian University (formerly Louisiana College).pdf: https://lcwildcats.net/staff-directory?print=true
+- Louisiana State University (LSU).pdf: https://lsusports.net/staff-directory?print=true
+- Grambling State University.pdf: https://gsutigers.com/staff-directory?print=true
+- Dillard University.pdf: https://dillardbleudevils.com/staff-directory?print=true
+- Centenary College of Louisiana.pdf: https://gocentenary.com/staff-directory?print=true
+- Tulane University.pdf: https://tulanegreenwave.com/staff-directory?print=true
+- Louisiana State University Alexandria (LSUA).pdf: https://www.lsuagenerals.com/staff-directory?print=true
+- Southern University.pdf: https://gojagsports.com/staff-directory?print=true
+- Nicholls State University.pdf: https://geauxcolonels.com/staff-directory?print=true
+- Louisiana State University Shreveport (LSUS).pdf: https://lsusathletics.com/staff-directory?print=true
+- Loyola University New Orleans.pdf: https://loyolawolfpack.com/staff-directory?print=true
+- McNeese State University.pdf: https://mcneesesports.com/staff-directory?print=true
+- University of Louisiana at Monroe.pdf: https://ulmwarhawks.com/staff-directory?print=true
+- Southeastern Louisiana University.pdf: https://lionsports.net/staff-directory?print=true
+- Xavier University of Louisiana.pdf: https://xulagold.com/staff-directory?print=true
+- University of Louisiana at Lafayette.pdf: https://ragincajuns.com/staff-directory/print
+
+Skipped:
+- https://suno.edu/athletics -> Navigation failed: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://suno.edu/athletics/index
+Call log:
+  - navigating to "https://suno.edu/athletics/index", waiting until "networkidle"
+ (tried: https://suno.edu/athletics?print=true, https://suno.edu/athletics/print, https://suno.edu/athletics, https://suno.edu/athletics/index?print=true, https://suno.edu/athletics/index/print, https://suno.edu/athletics/index)
+
+Parsing printed PDFs and preparing upload entries...
+✔ Total coach entries prepared: 245
+✔ Created unclaimed coach profile: Andrew Gipson (bgipson@uno.edu) → coaches/bgipson
+✔ Created unclaimed coach profile: Stacy Hollowell (shollowe@uno.edu) → coaches/shollowe
+✔ Created unclaimed coach profile: Silvey Dominguez (sdoming1@uno.edu) → coaches/sdoming1
+✔ Created unclaimed coach profile: Javan Felix (jfelix1@uno.edu) → coaches/jfelix1
+✔ Created unclaimed coach profile: Trelanne Powell (tpowell2@uno.edu) → coaches/tpowell2
+✔ Created unclaimed coach profile: Brittany White (bwhite5@uno.edu) → coaches/bwhite5
+✔ Created unclaimed coach profile: Lonnika Thompson (lthomps5@uno.edu) → coaches/lthomps5
+✔ Created unclaimed coach profile: Ryan Havice (rhavice@uno.edu) → coaches/rhavice
+✔ Created unclaimed coach profile: Jeff Lorio (jlorio2@uno.edu) → coaches/jlorio2
+✔ Created unclaimed coach profile: Burzis Kanga (bkanga@uno.edu) → coaches/bkanga
+✔ Created unclaimed coach profile: Clayton O'Callaghan (cocalla1@uno.edu) → coaches/cocalla1
+✔ Created unclaimed coach profile: Teagan Symons (trsymons@my.uno.edu) → coaches/trsymons
+✔ Created unclaimed coach profile: Reni Mason (reni.mason@lcuniversity.edu) → coaches/reni.mason
+✔ Created unclaimed coach profile: Mike Byrnes (michael.byrnes@lcuniversity.edu) → coaches/michael.byrnes
+✔ Created unclaimed coach profile: Cody Laprarie (cody.laprarie@lcuniversity.edu) → coaches/cody.laprarie
+✔ Created unclaimed coach profile: Anna Phillips (anna.phillips@lcuniversity.edu) → coaches/anna.phillips
+✔ Created unclaimed coach profile: Stephanie Graham (stephanie.graham@lcuniversity.edu) → coaches/stephanie.graham
+✔ Created unclaimed coach profile: Ben McLaughlin (ben.mclaughlin@lcuniversity.edu) → coaches/ben.mclaughlin
+✔ Created unclaimed coach profile: Josh Graham (joshua.graham@lcuniversity.edu) → coaches/joshua.graham
+✔ Created unclaimed coach profile: Eric Morris (eric.morris@lcuniversity.edu) → coaches/eric.morris
+✔ Created unclaimed coach profile: Jarod Freeman (jarod.freeman@lcuniversity.edu) → coaches/jarod.freeman
+✔ Created unclaimed coach profile: Tyren Young (tyren.young@lcuniversity.edu) → coaches/tyren.young
+✔ Created unclaimed coach profile: Max Parden (max.parden@lcuniversity.edu) → coaches/max.parden
+✔ Created unclaimed coach profile: Noah Ylagan (noah.ylagan@lcuniversity.edu) → coaches/noah.ylagan
+✔ Created unclaimed coach profile: Joe Campanele (joe.campanele@lcuniversity.edu) → coaches/joe.campanele
+✔ Created unclaimed coach profile: Brody Page (brody.page@lcuniversity.edu) → coaches/brody.page
+✔ Created unclaimed coach profile: Arick Lassiter (arick.lassiter@lcuniversity.edu) → coaches/arick.lassiter
+✔ Created unclaimed coach profile: Mattie Stine (mattie.stine@lcuniversity.edu) → coaches/mattie.stine
+✔ Created unclaimed coach profile: Paige Hightower (paige.hightower@lcuniversity.edu) → coaches/paige.hightower
+✔ Created unclaimed coach profile: Alexandra Starkova (alexandra.starkova@lcuniversity.edu) → coaches/alexandra.starkova
+✔ Created unclaimed coach profile: Davin Pierre (pierred@gram.edu) → coaches/pierred | Phone: 318.274.2416
+✔ Created unclaimed coach profile: Perez Knowles (knowlesp@gram.edu) → coaches/knowlesp
+✔ Created unclaimed coach profile: Justin Wagar (wagarj@gram.edu) → coaches/wagarj
+✔ Created unclaimed coach profile: Omar Anderson (Andersono@gram.edu) → coaches/Andersono
+✔ Created unclaimed coach profile: LaMonte Vaughn (vaughnl@gram.edu) → coaches/vaughnl | Phone: 318.274.6387
+✔ Created unclaimed coach profile: Paige Phillips (phillipsp@gram.edu) → coaches/phillipsp
+✔ Created unclaimed coach profile: Assistant Coach, (drickaby@tulane.edu) → coaches/drickaby
+✔ Created unclaimed coach profile: Associate Head (aizzio@tulane.edu) → coaches/aizzio
+✔ Created unclaimed coach profile: Associate Head (hmccallum@tulane.edu) → coaches/hmccallum
+✔ Created unclaimed coach profile: Assistant Coach (cpardue@tulane.edu) → coaches/cpardue
+✔ Created unclaimed coach profile: Assistant Coach/Director, (smock1@tulane.edu) → coaches/smock1
+✔ Created unclaimed coach profile: Head Coach (ezimet@tulane.edu) → coaches/ezimet
+✔ Created unclaimed coach profile: Head Coach (hbeavis@tulane.edu) → coaches/hbeavis
+✔ Created unclaimed coach profile: Associate Director, (hrichards@tulane.edu) → coaches/hrichards
+✔ Created unclaimed coach profile: Head Coach (akaelin@tulane.edu) → coaches/akaelin
+✔ Created unclaimed coach profile: Head Coach (chiggins1@tulane.edu) → coaches/chiggins1
+✔ Created unclaimed coach profile: Assistant Coach (jrovniak@tulane.edu) → coaches/jrovniak
+✔ Created unclaimed coach profile: Head Coach (acaldwell2@tulane.edu) → coaches/acaldwell2
+✔ Created unclaimed coach profile: Assistant Coach, (ccampbell6@tulane.edu) → coaches/ccampbell6
+✔ Created unclaimed coach profile: Dive Coach (jmoser1@tulane.edu) → coaches/jmoser1
+✔ Created unclaimed coach profile: Head Coach/Director, (mbooras@tulane.edu) → coaches/mbooras
+✔ Created unclaimed coach profile: Head Coach (mbritopena@tulane.edu) → coaches/mbritopena
+✔ Created unclaimed coach profile: Assistant Coach (kwong6@tulane.edu) → coaches/kwong6
+✔ Created unclaimed coach profile: Associate Head (aeggerth@tulane.edu) → coaches/aeggerth
+✔ Created unclaimed coach profile: Assistant Coach, (dsilversmith@tulane.edu) → coaches/dsilversmith
+✔ Created unclaimed coach profile: Head Coach (coachprice@tulane.edu) → coaches/coachprice
+✔ Created unclaimed coach profile: Mackenzie Young (mackenziey@lsua.edu) → coaches/mackenziey | Phone: (318) 427-4467
+✔ Created unclaimed coach profile: Kody Gautreaux (kgautreaux@lsua.edu) → coaches/kgautreaux | Phone: (318) 427-4451
+✔ Created unclaimed coach profile: Jordan Ardoin (jordana@lsua.edu) → coaches/jordana
+✔ Created unclaimed coach profile: Dimario Jackson (djackson@lsua.edu) → coaches/djackson | Phone: (318) 619-2968
+✔ Created unclaimed coach profile: Keelin Foley (keelin.foley@yahoo.com) → coaches/keelin.foley
+✔ Created unclaimed coach profile: Marcus Vinicius (mlima001@lsua.edu) → coaches/mlima001
+✔ Created unclaimed coach profile: Trent Partridge (rpartridge@lsua.edu) → coaches/rpartridge | Phone: (318) 473-6486
+✔ Created unclaimed coach profile: Brannin Hagan (Bhagan@lsua.edu) → coaches/Bhagan
+✔ Created unclaimed coach profile: Billy Perkins (billyp@lsua.edu) → coaches/billyp | Phone: (318) 473-6467
+✔ Created unclaimed coach profile: Celesta Perkins (celestap@lsua.edu) → coaches/celestap | Phone: (318) 473-6467
+✔ Created unclaimed coach profile: Mark Hammond (mhammond@lsua.edu) → coaches/mhammond | Phone: (318) 473-6599
+🔄 Updating unclaimed profile for btillotson@lsua.edu
+✔ Updated unclaimed coach profile: Bailey Tillotson (btillotson@lsua.edu) → coaches/btillotson | Phone: (318) 473-6408
+✔ Created unclaimed coach profile: Melinda Descant (mdescant@lsua.edu) → coaches/mdescant | Phone: (318) 452-4754
+✔ Created unclaimed coach profile: Annemart Kleijn (akleijn001@lsua.edu) → coaches/akleijn001 | Phone: (318) 452-4754
+✔ Created unclaimed coach profile: Chris Crenshaw (christopher_crenshaw@subr.edu) → coaches/christopher_crenshaw
+✔ Created unclaimed coach profile: TJ Perkins (theodore_perkins@subr.edu) → coaches/theodore_perkins
+✔ Created unclaimed coach profile: Brock Bond (brock.bond@sus.edu) → coaches/brock.bond
+✔ Created unclaimed coach profile: Jethro Hillman (jethro_hillman@subr.edu) → coaches/jethro_hillman
+✔ Created unclaimed coach profile: Carlos Funchess (carlos_funchess@subr.edu) → coaches/carlos_funchess
+✔ Created unclaimed coach profile: Jeremy Bonin (jeremy_bonin@subr.edu) → coaches/jeremy_bonin
+✔ Created unclaimed coach profile: Patrece Carter (patrece.carter@sus.edu) → coaches/patrece.carter
+✔ Created unclaimed coach profile: TJ Pugh (thomas_pugh@subr.edu) → coaches/thomas_pugh
+✔ Created unclaimed coach profile: Barry Doyle (barry.doyle@subr.edu) → coaches/barry.doyle
+✔ Created unclaimed coach profile: Teremine White (teremine_white@subr.edu) → coaches/teremine_white
+✔ Created unclaimed coach profile: Courtney Ware (courtney_ware@subr.edu) → coaches/courtney_ware
+✔ Created unclaimed coach profile: Freddie Glover (freddie_glover@subr.edu) → coaches/freddie_glover
+✔ Created unclaimed coach profile: Terrence Graves (terrence_graves@subr.edu) → coaches/terrence_graves
+✔ Created unclaimed coach profile: Henry Miller (henry.miller@subr.edu) → coaches/henry.miller
+✔ Created unclaimed coach profile: Damon Nivens (damon.nivens@subr.edu) → coaches/damon.nivens
+✔ Created unclaimed coach profile: Lemuel Stinson (lemuel.stinson@sus.edu) → coaches/lemuel.stinson
+✔ Created unclaimed coach profile: Damarcus Miller (damarcus.miller@subr.edu) → coaches/damarcus.miller
+✔ Created unclaimed coach profile: Jeremy Fontenot (jeremy_fontenot@subr.edu) → coaches/jeremy_fontenot
+✔ Created unclaimed coach profile: Sheneaka Wright (sheneaka.wright@sus.edu) → coaches/sheneaka.wright
+✔ Created unclaimed coach profile: Gian McCann (gian.mccann@sus.edu) → coaches/gian.mccann
+✔ Created unclaimed coach profile: Brittney Williams (brittney.williams01@sus.edu) → coaches/brittney.williams01
+✔ Created unclaimed coach profile: Jessie Watts (jessie.watts@sus.edu) → coaches/jessie.watts
+✔ Created unclaimed coach profile: Joshua Sanford (joshua.sanford@sus.edu) → coaches/joshua.sanford
+✔ Created unclaimed coach profile: Jeffrey Conyers (jeffrey_conyers@subr.edu) → coaches/jeffrey_conyers
+✔ Created unclaimed coach profile: Esau Lois (esau_lolis@subr.edu) → coaches/esau_lolis
+✔ Created unclaimed coach profile: Dawn Barnes (dawn.barnes@sus.edu) → coaches/dawn.barnes
+✔ Created unclaimed coach profile: Jeremiah Estes (jeremiah.estes@sus.edu) → coaches/jeremiah.estes
+✔ Created unclaimed coach profile: Floyd Sias (floyd.sias@subr.edu) → coaches/floyd.sias
+✔ Created unclaimed coach profile: Bobby Pope (bobby.pope@sus.edu) → coaches/bobby.pope
+✔ Created unclaimed coach profile: Phil Smith (philsmithbr@gmail.com) → coaches/philsmithbr
+✔ Created unclaimed coach profile: Jordy Champagne (jordy.champagne@nicholls.edu) → coaches/jordy.champagne
+✔ Created unclaimed coach profile: Justin Payne (justin.payne@nicholls.edu) → coaches/justin.payne
+✔ Created unclaimed coach profile: Nicholas Graham (nick.graham@nicholls.edu) → coaches/nick.graham
+✔ Created unclaimed coach profile: Tykeria Williams (tykeria.williams@nicholls.edu) → coaches/tykeria.williams
+🔄 Updating unclaimed profile for jada.terry@nicholls.edu
+✔ Updated unclaimed coach profile: Jada Terry (jada.terry@nicholls.edu) → coaches/jada.terry
+✔ Created unclaimed coach profile: James Schilling (james.schilling@nicholls.edu) → coaches/james.schilling
+✔ Created unclaimed coach profile: Kristy Helmers (kristy.helmers@nicholls.edu) → coaches/kristy.helmers
+✔ Created unclaimed coach profile: Brady Schlesman (brady.schlesman@nicholls.edu) → coaches/brady.schlesman
+✔ Created unclaimed coach profile: Ron Frost (ron.frost@nicholls.edu) → coaches/ron.frost
+✔ Created unclaimed coach profile: Nicole Pinney (nicole.pinney@nicholls.edu) → coaches/nicole.pinney
+✔ Created unclaimed coach profile: Apdiel Vazquez (apdiel.vazquez@nicholls.edu) → coaches/apdiel.vazquez
+✔ Created unclaimed coach profile: Kaitlin Canzoneri (kaitlin.canzoneri@nicholls.edu) → coaches/kaitlin.canzoneri
+✔ Created unclaimed coach profile: Stefanie Slekis (stefanie.slekis@nicholls.edu) → coaches/stefanie.slekis
+✔ Created unclaimed coach profile: Dustin Wager (dwager@nicholls.edu) → coaches/dwager
+✔ Created unclaimed coach profile: Jonea Rima (jonea.rima@nicholls.edu) → coaches/jonea.rima
+✔ Created unclaimed coach profile: Isabel Almendarez (isabel.almendarez@nicholls.edu) → coaches/isabel.almendarez
+✔ Created unclaimed coach profile: Robert Pitre (rlpitre@loyno.edu) → coaches/rlpitre
+✔ Created unclaimed coach profile: Jenna Ibieta (jeibieta@loyno.edu) → coaches/jeibieta
+✔ Created unclaimed coach profile: Jeremy Kennedy (jjkennedy@loyno.edu) → coaches/jjkennedy | Phone: (504) 864-7392
+✔ Created unclaimed coach profile: Steven Bruce (sdbruce@loyno.edu) → coaches/sdbruce | Phone: (504) 864-7392
+✔ Created unclaimed coach profile: Courtney Cadore (clcadore@loyno.edu) → coaches/clcadore | Phone: (504) 864-7366
+✔ Created unclaimed coach profile: Gavanne Davis (gjdavis@loyno.edu) → coaches/gjdavis
+✔ Created unclaimed coach profile: Lumen Vera (lmvera@loyno.edu) → coaches/lmvera
+✔ Created unclaimed coach profile: Trey Lindsey (cllindse@loyno.edu) → coaches/cllindse | Phone: (504) 864-7398
+✔ Created unclaimed coach profile: Daniel Venzant (dtvenzan@loyno.edu) → coaches/dtvenzan | Phone: (504) 864-7398
+✔ Created unclaimed coach profile: Geoff Masanet (gtmasane@loyno.edu) → coaches/gtmasane | Phone: (504) 864-7396
+✔ Created unclaimed coach profile: Crystal Pettigrew (cjpettig@loyno.edu) → coaches/cjpettig | Phone: (601) 480-7282
+✔ Created unclaimed coach profile: Dalton Stiegler (dtstiegl@loyno.edu) → coaches/dtstiegl
+✔ Created unclaimed coach profile: Thomas Natal (tanatal@loyno.edu) → coaches/tanatal | Phone: (504) 864-7375
+✔ Created unclaimed coach profile: Matt Llewellyn (mtllewel@loyno.edu) → coaches/mtllewel | Phone: (504) 864-7067
+✔ Created unclaimed coach profile: Kellie Kennedy (kkennedy@loyno.edu) → coaches/kkennedy | Phone: (504) 864-7577
+✔ Created unclaimed coach profile: Presley Wascom (pjwascom@loyno.edu) → coaches/pjwascom | Phone: (504) 864-7333
+✔ Created unclaimed coach profile: Camry Gassaway (cjgassaw@loyno.edu) → coaches/cjgassaw
+✔ Created unclaimed coach profile: Justin Hill (jhill2@mcneese.edu) → coaches/jhill2
+✔ Created unclaimed coach profile: Yasmin Tan (ytan@mcneese.edu) → coaches/ytan
+✔ Created unclaimed coach profile: Tony Pecoraro (apecoraro@mcneese.edu) → coaches/apecoraro
+✔ Created unclaimed coach profile: Thomas Reese (treese@mcneese.edu) → coaches/treese
+✔ Created unclaimed coach profile: Michael Smith (msmith124@mcneese.edu) → coaches/msmith124
+✔ Created unclaimed coach profile: Raymond Donovan (msu-rdonovan@mcneese.edu) → coaches/msu-rdonovan
+✔ Created unclaimed coach profile: Robi Coker (rcoker@mcneese.edu) → coaches/rcoker
+✔ Created unclaimed coach profile: LeBrent Walker (lwalker15@mcneese.edu) → coaches/lwalker15
+✔ Created unclaimed coach profile: Nick Williams (nwilliams19@mcneese.edu) → coaches/nwilliams19
+✔ Created unclaimed coach profile: Peyton Prudhomme (pprudhomme1@mcneese.edu) → coaches/pprudhomme1
+✔ Created unclaimed coach profile: Jeffery Armstrong (jarmstrong4@mcneese.edu) → coaches/jarmstrong4
+✔ Created unclaimed coach profile: Juan Yepes (jyepes@mcneese.edu) → coaches/jyepes
+✔ Created unclaimed coach profile: James Landreneau (jlandreneau@mcneese.edu) → coaches/jlandreneau
+✔ Created unclaimed coach profile: Hope Trautwein-Valdespino (htrautwein@mcneese.edu) → coaches/htrautwein
+✔ Created unclaimed coach profile: Emily Phillips (ephillips2@mcneese.edu) → coaches/ephillips2
+✔ Created unclaimed coach profile: Brendon Gilroy (bgilroy@mcneese.edu) → coaches/bgilroy
+✔ Created unclaimed coach profile: Alan Foolkes (afoolkes@yahoo.com) → coaches/afoolkes
+✔ Created unclaimed coach profile: Lathaniel Jeanlouis (ljeanlouis@mcneese.edu) → coaches/ljeanlouis
+✔ Created unclaimed coach profile: Janell Fullerton (jfullerton1@mcneese.edu) → coaches/jfullerton1
+✔ Created unclaimed coach profile: Seth Andres (sandres1@mcneese.edu) → coaches/sandres1
+✔ Created unclaimed coach profile: Sasha Karelov (skarelov@mcneese.edu) → coaches/skarelov | Phone: 337.475.5474
+✔ Created unclaimed coach profile: Alexandra Allard (aallard@mcneese.edu) → coaches/aallard
+✔ Created unclaimed coach profile: Ayla Guzzardo (aguzzardo@mcneese.edu) → coaches/aguzzardo
+✔ Created unclaimed coach profile: Kenneth Lee (Klee29@mcneese.edu) → coaches/Klee29
+✔ Created unclaimed coach profile: Ronneka Robertson (rrobertson2@mcneese.edu) → coaches/rrobertson2
+✔ Created unclaimed coach profile: Hailey Giaratano (hgiaratano@mcneese.edu) → coaches/hgiaratano
+✔ Created unclaimed coach profile: Sonia Carlson (Scarlson3@mcneese.edu) → coaches/Scarlson3
+✔ Created unclaimed coach profile: Bella Golden (Igolden@ulm.edu) → coaches/Igolden
+🔄 Updating unclaimed profile for baseball@ulm.edu
+✔ Updated unclaimed coach profile: Ford Pemberton (baseball@ulm.edu) → coaches/baseball
+✔ Created unclaimed coach profile: Brady Cox (brcox@ulm.edu) → coaches/brcox
+✔ Created unclaimed coach profile: Henri Lartigue (lartigue@ulm.edu) → coaches/lartigue
+✔ Created unclaimed coach profile: Ryan Shotzberger (shotzberger@ulm.edu) → coaches/shotzberger
+✔ Created unclaimed coach profile: Phil Cunningham (pcunningham@ulm.edu) → coaches/pcunningham
+✔ Created unclaimed coach profile: Baylee Young (byoung@ulm.edu) → coaches/byoung
+✔ Created unclaimed coach profile: Bryant Vincent (vincent@ulm.edu) → coaches/vincent | Phone: (318) 342-7015
+✔ Created unclaimed coach profile: Hindley Brigham (brigham@ulm.edu) → coaches/brigham
+✔ Created unclaimed coach profile: Taylor Dupuis (dupuis@ulm.edu) → coaches/dupuis | Phone: (318) 342-7015
+✔ Created unclaimed coach profile: Sammy Joseph (sajoseph@ulm.edu) → coaches/sajoseph | Phone: (318) 342-7015
+✔ Created unclaimed coach profile: Kishawn McClain (kmcclain@ulm.edu) → coaches/kmcclain
+✔ Created unclaimed coach profile: Troy Reffett (reffett@ulm.edu) → coaches/reffett | Phone: (318) 342-7015
+✔ Created unclaimed coach profile: Brady Vincent (bvincent@ulm.edu) → coaches/bvincent | Phone: (318) 342-7015
+✔ Created unclaimed coach profile: Davern Williams (dawilliams@ulm.edu) → coaches/dawilliams | Phone: (318) 342-7015
+✔ Created unclaimed coach profile: Cody Wells (wells@ulm.edu) → coaches/wells
+✔ Created unclaimed coach profile: Nathan Weant (weant@ulm.edu) → coaches/weant
+✔ Created unclaimed coach profile: Rachel Pollock (pollock@ulm.edu) → coaches/pollock | Phone: (318) 342-5531
+✔ Created unclaimed coach profile: Olivia Schmidt (oschmidt@ulm.edu) → coaches/oschmidt
+✔ Created unclaimed coach profile: Will Roberts (wroberts@ulm.edu) → coaches/wroberts | Phone: (318) 342-3598
+✔ Created unclaimed coach profile: Matthew Caley (caley@ulm.edu) → coaches/caley
+✔ Created unclaimed coach profile: Molly Fichtner (fichtner@ulm.edu) → coaches/fichtner | Phone: (318) 342-5412
+✔ Created unclaimed coach profile: Lea Wodach (wodach@ulm.edu) → coaches/wodach | Phone: (318) 342-5408
+✔ Created unclaimed coach profile: Daniel Shipley (shipley@ulm.edu) → coaches/shipley
+✔ Created unclaimed coach profile: Paul Miklovic (miklovicpr@warhawks.ulm.edu) → coaches/miklovicpr
+✔ Created unclaimed coach profile: J.D. Malone (malone@ulm.edu) → coaches/malone | Phone: (318) 342-5390
+✔ Created unclaimed coach profile: Nate Baker (nbaker@ulm.edu) → coaches/nbaker
+✔ Created unclaimed coach profile: Christopher Manuele (manuele@ulm.edu) → coaches/manuele
+✔ Created unclaimed coach profile: Ben Lamb (blamb@ulm.edu) → coaches/blamb
+✔ Created unclaimed coach profile: Reid Gann (rgann@ulm.edu) → coaches/rgann
+✔ Created unclaimed coach profile: Daniel Shaver (daniel.shaver@southeastern.edu) → coaches/daniel.shaver
+✔ Created unclaimed coach profile: Bobby Barbier (bobby.barbier@southeastern.edu) → coaches/bobby.barbier | Phone: (985) 549-5130
+✔ Created unclaimed coach profile: Taylor Dugas (taylor.dugas-2@southeastern.edu) → coaches/taylor.dugas-2 | Phone: (985) 549-5130
+✔ Created unclaimed coach profile: Evan Bush (evan.bush@southeastern.edu) → coaches/evan.bush | Phone: (985) 549-5130
+✔ Created unclaimed coach profile: Spencer Goodwin (spencer.goodwin@southeastern.edu) → coaches/spencer.goodwin | Phone: (985) 549-5130
+✔ Created unclaimed coach profile: David Kiefer (david.kiefer@southeastern.edu) → coaches/david.kiefer | Phone: (985) 549-5849
+✔ Created unclaimed coach profile: Kyle Roane (kyle.roane@southeastern.edu) → coaches/kyle.roane | Phone: (985) 549-3471
+✔ Created unclaimed coach profile: Cody McCoy (cody.mccoy@southeastern.edu) → coaches/cody.mccoy
+✔ Created unclaimed coach profile: Drew Riley (andrew.riley@southeastern.edu) → coaches/andrew.riley
+✔ Created unclaimed coach profile: Jeff Dow (jeffrey.dow@southeastern.edu) → coaches/jeffrey.dow
+✔ Created unclaimed coach profile: Ross Rix (roderic.rix@southeastern.edu) → coaches/roderic.rix
+✔ Created unclaimed coach profile: Keanna Keys (keanna.keys@southeastern.edu) → coaches/keanna.keys
+✔ Created unclaimed coach profile: Regan Bolton (regan.bolton@southeastern.edu) → coaches/regan.bolton
+✔ Created unclaimed coach profile: Hannah Volpi (hannah.volpi-2@southeastern.edu) → coaches/hannah.volpi-2
+✔ Created unclaimed coach profile: Frank Scelfo (frank.scelfo@southeastern.edu) → coaches/frank.scelfo
+✔ Created unclaimed coach profile: Ross Jenkins (ross.jenkins@southeastern.edu) → coaches/ross.jenkins
+✔ Created unclaimed coach profile: Lawrence Allan (lawrencerobert.allan@southeastern.edu) → coaches/lawrencerobert.allan
+✔ Created unclaimed coach profile: Nathan Gillespie (nathan.gillespie@southeastern.edu) → coaches/nathan.gillespie
+✔ Created unclaimed coach profile: Jack Hartley (jack.hartley@southeastern.edu) → coaches/jack.hartley
+✔ Created unclaimed coach profile: Pedro Santolaya (pedro.santolaya@southeastern.edu) → coaches/pedro.santolaya
+✔ Created unclaimed coach profile: Rick Fremin (rick.fremin@southeastern.edu) → coaches/rick.fremin | Phone: (985) 549-5192
+✔ Created unclaimed coach profile: Matt Uhle (mattuhle@yahoo.com) → coaches/mattuhle
+✔ Created unclaimed coach profile: Alana Fremin (alana.fremin@southeastern.edu) → coaches/alana.fremin
+✔ Created unclaimed coach profile: Sarah Kate (sarah.thompson-5@southeastern.edu) → coaches/sarah.thompson-5
+✔ Created unclaimed coach profile: Jason Hayes (jhayes@southeastern.edu) → coaches/jhayes | Phone: (985) 549-5193
+✔ Created unclaimed coach profile: Michael Rheams (michael.rheams@southeastern.edu) → coaches/michael.rheams | Phone: (985) 549-5187
+✔ Created unclaimed coach profile: Damion Jeanpiere (damion.jeanpiere-2@southeastern.edu) → coaches/damion.jeanpiere-2
+✔ Created unclaimed coach profile: Destinee Jeanpiere (destinee.jeanpiere@southeastern.edu) → coaches/destinee.jeanpiere
+✔ Created unclaimed coach profile: Kibwé Johnson (kibwe.johnson@southeastern.edu) → coaches/kibwe.johnson
+✔ Created unclaimed coach profile: Louden Boudreaux (lsboudreaux55@gmail.com) → coaches/lsboudreaux55
+✔ Created unclaimed coach profile: Lee McBride (lee.mcbride@southeastern.edu) → coaches/lee.mcbride
+✔ Created unclaimed coach profile: Allison Byler (allison.byler@southeastern.edu) → coaches/allison.byler
+✔ Created unclaimed coach profile: Patrick Gary (pgary@xula.edu) → coaches/pgary | Phone: (504) 520-7510
+✔ Created unclaimed coach profile: Xavier Paul (xpaul@xula.edu) → coaches/xpaul | Phone: (504) 520-7262
+✔ Created unclaimed coach profile: Kent Evans (kevans25@xula.edu) → coaches/kevans25 | Phone: (504) 520-7313
+✔ Created unclaimed coach profile: Alfred Williams (awilli39@xula.edu) → coaches/awilli39 | Phone: (504) 520-5448
+✔ Created unclaimed coach profile: Tyrone Mitchell (tmitch17@xula.edu) → coaches/tmitch17 | Phone: (504) 520-6778
+✔ Created unclaimed coach profile: Jeff Dixon (jdixon8@xula.edu) → coaches/jdixon8
+✔ Created unclaimed coach profile: Bo Browder (rbrowder@xula.edu) → coaches/rbrowder | Phone: (504) 520-7333
+✔ Created unclaimed coach profile: Whitney Kelley (wgathrig@xula.edu) → coaches/wgathrig | Phone: (504) 520-7513
+✔ Created unclaimed coach profile: Glenn Caston (gcaston@xula.edu) → coaches/gcaston | Phone: (504) 520-7156
+✔ Created unclaimed coach profile: Alexis Hart (xulacheer@xula.edu) → coaches/xulacheer
+✔ Created unclaimed coach profile: Yhann Plummer (yplummer@xula.edu) → coaches/yplummer | Phone: (504) 520-5007
+✔ Created unclaimed coach profile: Andrew Kidd (akidd3@xula.edu) → coaches/akidd3 | Phone: (504) 520-5007
+✔ Created unclaimed coach profile: Tamara Clayton (tclayto4@xula.edu) → coaches/tclayto4 | Phone: (504) 520-7446
+✔ Created unclaimed coach profile: Lucas Cordeiro (lcordeir@xula.edu) → coaches/lcordeir | Phone: (504) 520-7362
+✔ Created unclaimed coach profile: Will Rodrigues (wrodrigu@xula.edu) → coaches/wrodrigu
+✔ Created unclaimed coach profile: Ashley Cordeiro (acordeir@xula.edu) → coaches/acordeir | Phone: (504) 520-7328
+✔ Created unclaimed coach profile: Daniel Cordeiro (dcordeir@xula.edu) → coaches/dcordeir | Phone: (504) 520-5344
+✔ Created unclaimed coach profile: Kailey Anderson (kander35@xula.edu) → coaches/kander35 | Phone: (504) 520-7160
+✔ Created unclaimed coach profile: Ambria Dorsey (adorsey6@xula.edu) → coaches/adorsey6 | Phone: (504) 520-5313
+✔ Created unclaimed coach profile: A.D. Brown (coach.ad@aol.com) → coaches/coach.ad | Phone: (504) 444-5532
+✔ Created unclaimed coach profile: Alan Green (amgreen@xula.edu) → coaches/amgreen | Phone: (504) 520-5008
+✔ Created unclaimed coach profile: Sebastian Perez (jperez3@xula.edu) → coaches/jperez3
+✔ Created unclaimed coach profile: Gabby Waden (gwaden@xula.edu) → coaches/gwaden | Phone: (504) 520-7255
+
+📊 Upload Summary:
+✔ 245 coach profiles created/updated
+⏭️  0 profiles skipped (already claimed)
+📧 Coaches can now claim their profiles during onboarding using their email address

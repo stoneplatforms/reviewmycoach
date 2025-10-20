@@ -1,0 +1,167 @@
+COACH ENTRIES FOUND - 2025-10-06 18:37:45
+============================================================
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Zach Watkins
+   Email: zach.watkins@washburn.edu
+   Username: zach.watkins
+   Original line: Zach Watkins zach.watkins@washburn.edu Head Coach 785-670- Washburn Zach_Watkins
+
+2. Kaleb Koch
+   Email: kaleb.koch@washburn.edu
+   Username: kaleb.koch
+   Original line: Kaleb Koch kaleb.koch@washburn.edu Defensive Coordinator / 785-670- Washburn CoachKoch_WU
+
+3. Jarvis Harrod
+   Email: jarvis.harrod@washburn.edu
+   Username: jarvis.harrod
+   Original line: Jarvis Harrod jarvis.harrod@washburn.edu Defensive Backs / Special 785-670- Washburn CoachJarvis3
+
+4. Julian Mendez
+   Email: julian.mendez@washburn.edu
+   Username: julian.mendez
+   Original line: Julian Mendez julian.mendez@washburn.edu Offensive Line / Run 785-670- Ottawa (bs, CoachJulianM
+
+5. Nelson Vazquez
+   Email: nelly.vazquez@washburn.edu
+   Username: nelly.vazquez
+   Original line: Nelson Vazquez nelly.vazquez@washburn.edu Wide Receivers / Passing 785-670- Fort Hays CoachNellyV
+
+6. Ross Sharp
+   Email: ross.sharp@washburn.edu
+   Username: ross.sharp
+   Original line: Ross Sharp ross.sharp@washburn.edu Director of Player 785-670- Northwest CoachSharpWU
+
+7. Jacob Glendinning
+   Email: jacob.glendinning@washburn.edu
+   Username: jacob.glendinning
+   Original line: Jacob Glendinning jacob.glendinning@washburn.edu Assistant Offensive Line Washburn CoachJGlen
+
+8. Chris Herron
+   Email: chris.herron@washburn.edu
+   Username: chris.herron
+   Original line: Chris Herron chris.herron@washburn.edu Head Volleyball Coach 785-670- College of caherron1
+
+9. Jessica Hillebert
+   Email: jessica.hillebert@washburn.edu
+   Username: jessica.hillebert
+   Original line: Jessica Hillebert jessica.hillebert@washburn.edu Assistant Coach 785-670- Baker (bs, jesshillebert
+
+10. Walker Farrar
+   Email: walker.farrar@washburn.edu
+   Username: walker.farrar
+   Original line: Walker Farrar walker.farrar@washburn.edu Assistant Coach Rogers State
+
+11. Colby Yates
+   Email: colby.yates@washburn.edu
+   Username: colby.yates
+   Original line: Colby Yates colby.yates@washburn.edu Assistant Golf Coach 785-670- Missouri-St.
+
+12. Brett Ballard
+   Email: brett.ballard@washburn.edu
+   Username: brett.ballard
+   Original line: Brett Ballard brett.ballard@washburn.edu Head Men's Basketball 785-670- Kansas (b. CoachBBallard
+
+13. Nick Jones
+   Email: nick.jones@washburn.edu
+   Username: nick.jones
+   Original line: Nick Jones nick.jones@washburn.edu Assistant Basketball 785-670- Kansas State coachnickjones_
+
+14. Jordan Vincent
+   Email: jordan.vincent@washburn.edu
+   Username: jordan.vincent
+   Original line: Jordan Vincent jordan.vincent@washburn.edu Assistant Coach 7856701356 Washburn CoachJVincent
+
+15. Jake Schadegg
+   Email: jake.schadegg@washburn.edu
+   Username: jake.schadegg
+   Original line: Jake Schadegg jake.schadegg@washburn.edu Assistant Coach
+
+16. Nick Ferrarini
+   Email: nick.ferrarini@washburn.edu
+   Username: nick.ferrarini
+   Original line: Nick Ferrarini nick.ferrarini@washburn.edu Assistant Coach nickferrarini3
+
+17. Katie Dalton
+   Email: katie.dalton@washburn.edu
+   Username: katie.dalton
+   Original line: Katie Dalton katie.dalton@washburn.edu Assistant Coach Western
+
+18. Robin Stahl
+   Email: robin.stahl@washburn.edu
+   Username: robin.stahl
+   Original line: Robin Stahl robin.stahl@washburn.edu Assistant Coach Malone (bs,
+
+19. Harley Douglas
+   Email: harley.douglas@washburn.edu
+   Username: harley.douglas
+   Original line: Harley Douglas harley.douglas@washburn.edu Head Baseball Coach 785-670- Washburn HarleyDouglas17
+
+20. Connor Crimmins
+   Email: connor.crimmins@washburn.edu
+   Username: connor.crimmins
+   Original line: Connor Crimmins connor.crimmins@washburn.edu Assistant Coach 785-670- Washburn ccrimm4
+
+21. Rane Pfeifer
+   Email: rane.pfeifer@washburn.edu
+   Username: rane.pfeifer
+   Original line: Rane Pfeifer rane.pfeifer@washburn.edu Assistant Coach Washburn
+
+22. Brenda Holaday
+   Email: brenda.holaday@washburn.edu
+   Username: brenda.holaday
+   Original line: Brenda Holaday brenda.holaday@washburn.edu Head Softball Coach 785-670- Kansas State BrendaHoladay
+
+23. Taylor Zordel
+   Email: taylor.zordel@washburn.edu
+   Username: taylor.zordel
+   Original line: Taylor Zordel taylor.zordel@washburn.edu Assistant Coach Emporia tzordel
+
+24. Andi Wehrli
+   Email: andi.anti@washburn.edu
+   Username: andi.anti
+   Original line: Andi Wehrli andi.anti@washburn.edu Assistant Coach
+
+25. Jaycee Ginter
+   Email: jaycee.ginter@washburn.edu
+   Username: jaycee.ginter
+   Original line: Jaycee Ginter jaycee.ginter@washburn.edu Assistant Coach
+
+26. Andrew Ashmore
+   Email: andrew.ashmore@washburn.edu
+   Username: andrew.ashmore
+   Original line: Andrew Ashmore andrew.ashmore@washburn.edu Assistant Coach Harding (bs,
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Zach Watkins zach.watkins@washburn.edu Head Coach 785-670- Washburn Zach_Watkins
+• Kaleb Koch kaleb.koch@washburn.edu Defensive Coordinator / 785-670- Washburn CoachKoch_WU
+• Jarvis Harrod jarvis.harrod@washburn.edu Defensive Backs / Special 785-670- Washburn CoachJarvis3
+• Julian Mendez julian.mendez@washburn.edu Offensive Line / Run 785-670- Ottawa (bs, CoachJulianM
+• Nelson Vazquez nelly.vazquez@washburn.edu Wide Receivers / Passing 785-670- Fort Hays CoachNellyV
+• Ross Sharp ross.sharp@washburn.edu Director of Player 785-670- Northwest CoachSharpWU
+• Jacob Glendinning jacob.glendinning@washburn.edu Assistant Offensive Line Washburn CoachJGlen
+• Chris Herron chris.herron@washburn.edu Head Volleyball Coach 785-670- College of caherron1
+• Jessica Hillebert jessica.hillebert@washburn.edu Assistant Coach 785-670- Baker (bs, jesshillebert
+• Walker Farrar walker.farrar@washburn.edu Assistant Coach Rogers State
+• Colby Yates colby.yates@washburn.edu Assistant Golf Coach 785-670- Missouri-St.
+• Brett Ballard brett.ballard@washburn.edu Head Men's Basketball 785-670- Kansas (b. CoachBBallard
+• Nick Jones nick.jones@washburn.edu Assistant Basketball 785-670- Kansas State coachnickjones_
+• Jordan Vincent jordan.vincent@washburn.edu Assistant Coach 7856701356 Washburn CoachJVincent
+• Jake Schadegg jake.schadegg@washburn.edu Assistant Coach
+• Nick Ferrarini nick.ferrarini@washburn.edu Assistant Coach nickferrarini3
+• Katie Dalton katie.dalton@washburn.edu Assistant Coach Western
+• Robin Stahl robin.stahl@washburn.edu Assistant Coach Malone (bs,
+• Harley Douglas harley.douglas@washburn.edu Head Baseball Coach 785-670- Washburn HarleyDouglas17
+• Connor Crimmins connor.crimmins@washburn.edu Assistant Coach 785-670- Washburn ccrimm4
+• Rane Pfeifer rane.pfeifer@washburn.edu Assistant Coach Washburn
+• Brenda Holaday brenda.holaday@washburn.edu Head Softball Coach 785-670- Kansas State BrendaHoladay
+• Taylor Zordel taylor.zordel@washburn.edu Assistant Coach Emporia tzordel
+• Andi Wehrli andi.anti@washburn.edu Assistant Coach
+• Jaycee Ginter jaycee.ginter@washburn.edu Assistant Coach
+• Andrew Ashmore andrew.ashmore@washburn.edu Assistant Coach Harding (bs,

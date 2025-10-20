@@ -1,0 +1,299 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:39
+============================================================
+
+Total coaches found: 48
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ann Michael
+   Email: merrittam@lipscomb.edu
+   Username: merrittam
+   Original line: Ann Michael Graves Assistant Coach merrittam@lipscomb.edu
+
+2. Sean Johnson
+   Email: sean.johnson@lipscomb.edu
+   Username: sean.johnson
+   Original line: Sean Johnson Strength and Conditioning Coach sean.johnson@lipscomb.edu (615) 966-
+
+3. Byron Sanford
+   Email: bsanford@lipscomb.edu
+   Username: bsanford
+   Original line: Byron Sanford Strength & Conditioning Coach bsanford@lipscomb.edu
+
+4. Jeff Forehand
+   Email: jeff.forehand@lipscomb.edu
+   Username: jeff.forehand
+   Original line: Jeff Forehand Head Coach jeff.forehand@lipscomb.edu (615) 966-
+
+5. Robert Zeigler
+   Email: rzeigler@lipscomb.edu
+   Username: rzeigler
+   Original line: Robert Zeigler Assistant Coach - Pitching rzeigler@lipscomb.edu @RZeigler35
+
+6. Johnny Cardenas
+   Email: jrcardenas@lipscomb.edu
+   Username: jrcardenas
+   Original line: Johnny Cardenas Assistant Coach jrcardenas@lipscomb.edu CoachJCardenas
+
+7. Brian Ryman
+   Email: brian.ryman@lipscomb.edu
+   Username: brian.ryman
+   Original line: Brian Ryman Director of Operations brian.ryman@lipscomb.edu (615) 966- @coachryman
+
+8. Vic Sfera
+   Email: vpsfera@lipscomb.edu
+   Username: vpsfera
+   Original line: Vic Sfera Assistant Coach vpsfera@lipscomb.edu
+
+9. Scott Cherry
+   Email: scherry2@lipscomb.edu
+   Username: scherry2
+   Original line: Scott Cherry Assistant Coach scherry2@lipscomb.edu
+
+10. Derek Brooks
+   Email: dbrooks@lipscomb.edu
+   Username: dbrooks
+   Original line: Derek Brooks Assistant Coach dbrooks@lipscomb.edu
+
+11. Jack McMahon
+   Email: jamcmahon@lipscomb.edu
+   Username: jamcmahon
+   Original line: Jack McMahon Assistant Coach jamcmahon@lipscomb.edu
+
+12. Jarrett Tole
+   Email: jtole@lipscomb.edu
+   Username: jtole
+   Original line: Jarrett Tole Special Assistant to the Head Coach jtole@lipscomb.edu
+
+13. Byron Sanford
+   Email: bsanford@lipscomb.edu
+   Username: bsanford
+   Original line: Byron Sanford Strength & Conditioning Coach bsanford@lipscomb.edu
+
+14. Chris Sumski
+   Email: chris.sumski@lipscomb.edu
+   Username: chris.sumski
+   Original line: Chris Sumski Associate Head Coach chris.sumski@lipscomb.edu @CSumski31
+
+15. Sydney Shelton
+   Email: slshelton@lipscomb.edu
+   Username: slshelton
+   Original line: Sydney Shelton Assistant Coach/Recruiting Coordinator slshelton@lipscomb.edu @Sydshelt
+
+16. Jacob Ogle
+   Email: wjogle@lipscomb.edu
+   Username: wjogle
+   Original line: Jacob Ogle Assistant Coach/Director of Operations wjogle@lipscomb.edu
+
+17. Grace Franke
+   Email: Anna.Oetting@Lipscomb.edu
+   Username: Anna.Oetting
+   Original line: Grace Franke Assistant Coach (Distance) Anna.Oetting@Lipscomb.edu 615-966-
+
+18. Brodey Hasty
+   Email: bvhasty@lipscomb.edu
+   Username: bvhasty
+   Original line: Brodey Hasty Assistant Coach bvhasty@lipscomb.edu
+
+19. Brodey Hasty
+   Email: bvhasty@lipscomb.edu
+   Username: bvhasty
+   Original line: Brodey Hasty Assistant Coach bvhasty@lipscomb.edu
+
+20. Grace Franke
+   Email: Anna.Oetting@Lipscomb.edu
+   Username: Anna.Oetting
+   Original line: Grace Franke Assistant Coach (Distance) Anna.Oetting@Lipscomb.edu 615-966-
+
+21. Brodey Hasty
+   Email: bvhasty@lipscomb.edu
+   Username: bvhasty
+   Original line: Brodey Hasty Assistant Coach bvhasty@lipscomb.edu
+
+22. Brodey Hasty
+   Email: bvhasty@lipscomb.edu
+   Username: bvhasty
+   Original line: Brodey Hasty Assistant Coach bvhasty@lipscomb.edu
+
+23. Stoney Crouch
+   Email: stoney.crouch@lipscomb.edu
+   Username: stoney.crouch
+   Original line: Stoney Crouch Assistant Coach stoney.crouch@lipscomb.edu
+
+24. Shannon O'Brien
+   Email: brien@lipscomb.edu
+   Username: brien
+   Original line: Shannon O'Brien Head Coach shannon.o'brien@lipscomb.edu (615) 497-
+
+25. Charles Morrow
+   Email: charles.morrow@lipscomb.edu
+   Username: charles.morrow
+   Original line: Charles Morrow Head Coach charles.morrow@lipscomb.edu (615) 966-
+
+26. Matt Horth
+   Email: mdhorth@lipscomb.edu
+   Username: mdhorth
+   Original line: Matt Horth Assistant Coach mdhorth@lipscomb.edu
+
+27. Sean Johnson
+   Email: sean.johnson@lipscomb.edu
+   Username: sean.johnson
+   Original line: Sean Johnson Strength and Conditioning Coach sean.johnson@lipscomb.edu (615) 966-
+
+28. Daniel Gagliardi
+   Email: dmgagliardi@mail.lipscomb.edu
+   Username: dmgagliardi
+   Original line: Daniel Gagliardi Goalkeeper Coach dmgagliardi@mail.lipscomb.edu
+
+29. Julian Lucumi
+   Email: jmlucumivillegas@lipscomb.edu
+   Username: jmlucumivillegas
+   Original line: Julian Lucumi Assistant Coach jmlucumivillegas@lipscomb.edu
+
+30. Kevin O'Brien
+   Email: womenssoccer@lipscomb.edu
+   Username: womenssoccer
+   Original line: Kevin O'Brien Head Coach womenssoccer@lipscomb.edu
+
+31. Emma Webb
+   Email: ewebb@lipscomb.edu
+   Username: ewebb
+   Original line: Emma Webb Associate Head Coach ewebb@lipscomb.edu
+
+32. Pritchard Ndaira
+   Email: pritchard.ndaira@lipscomb.edu
+   Username: pritchard.ndaira
+   Original line: Pritchard Ndaira Associate Head Coach pritchard.ndaira@lipscomb.edu
+
+33. Elisa Swanson
+   Email: elisa.swanson@lipscomb.edu
+   Username: elisa.swanson
+   Original line: Elisa Swanson Assistant Coach elisa.swanson@lipscomb.edu
+
+34. Kristin Ryman
+   Email: kristin.ryman@lipscomb.edu
+   Username: kristin.ryman
+   Original line: Kristin Ryman Head Coach kristin.ryman@lipscomb.edu (615) 966-
+
+35. Bailey Dickey
+   Email: bailey.vannoy@lipscomb.edu
+   Username: bailey.vannoy
+   Original line: Bailey Dickey Assistant Coach bailey.vannoy@lipscomb.edu
+
+36. Ally Ivey
+   Email: ally.ivey@lipscomb.edu
+   Username: ally.ivey
+   Original line: Ally Ivey Assistant Coach - Pitching ally.ivey@lipscomb.edu
+
+37. Lauren Higginbotham
+   Email: Lhigginbotham@lipscomb.edu
+   Username: Lhigginbotham
+   Original line: Lauren Higginbotham Assistant Coach Lhigginbotham@lipscomb.edu
+
+38. Ben Roeser
+   Email: broeser@lipscomb.edu
+   Username: broeser
+   Original line: Ben Roeser Head Coach broeser@lipscomb.edu (615) 966-
+
+39. Jamie Aid
+   Email: jamie.aid@lipscomb.edu
+   Username: jamie.aid
+   Original line: Jamie Aid Head Coach jamie.aid@lipscomb.edu (615) 966-
+
+40. Dwight Dale
+   Email: dadale@lipscomb.edu
+   Username: dadale
+   Original line: Dwight Dale Associate Head Coach dadale@lipscomb.edu (615)-966-
+
+41. Jake Alexander
+   Email: jalexander1@lipscomb.edu
+   Username: jalexander1
+   Original line: Jake Alexander Assistant Track and Field Coach (Sprints, Jumps, jalexander1@lipscomb.edu (615)-966-
+
+42. Grace Franke
+   Email: Anna.Oetting@Lipscomb.edu
+   Username: Anna.Oetting
+   Original line: Grace Franke Assistant Coach (Distance) Anna.Oetting@Lipscomb.edu 615-966-
+
+43. Jake Alexander
+   Email: jalexander1@lipscomb.edu
+   Username: jalexander1
+   Original line: Jake Alexander Assistant Track and Field Coach (Sprints, Jumps, jalexander1@lipscomb.edu (615)-966-
+
+44. Grace Franke
+   Email: Anna.Oetting@Lipscomb.edu
+   Username: Anna.Oetting
+   Original line: Grace Franke Assistant Coach (Distance) Anna.Oetting@Lipscomb.edu 615-966-
+
+45. Brandon Rosenthal
+   Email: brandon.rosenthal@lipscomb.edu
+   Username: brandon.rosenthal
+   Original line: Brandon Rosenthal Head Coach brandon.rosenthal@lipscomb.edu (615) 479-
+
+46. Sarah Baldwin
+   Email: sarah.baldwin@lipscomb.edu
+   Username: sarah.baldwin
+   Original line: Sarah Baldwin Assistant Coach, Recruiting Coordinator sarah.baldwin@lipscomb.edu (808) 779-
+
+47. Lauren Deaton
+   Email: ldeaton@lipscomb.edu
+   Username: ldeaton
+   Original line: Lauren Deaton Assistant Coach ldeaton@lipscomb.edu
+
+48. Sean Johnson
+   Email: sean.johnson@lipscomb.edu
+   Username: sean.johnson
+   Original line: Sean Johnson Strength and Conditioning Coach sean.johnson@lipscomb.edu (615) 966-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ann Michael Graves Assistant Coach merrittam@lipscomb.edu
+• Sean Johnson Strength and Conditioning Coach sean.johnson@lipscomb.edu (615) 966-
+• Byron Sanford Strength & Conditioning Coach bsanford@lipscomb.edu
+• Jeff Forehand Head Coach jeff.forehand@lipscomb.edu (615) 966-
+• Robert Zeigler Assistant Coach - Pitching rzeigler@lipscomb.edu @RZeigler35
+• Johnny Cardenas Assistant Coach jrcardenas@lipscomb.edu CoachJCardenas
+• Brian Ryman Director of Operations brian.ryman@lipscomb.edu (615) 966- @coachryman
+• Vic Sfera Assistant Coach vpsfera@lipscomb.edu
+• Scott Cherry Assistant Coach scherry2@lipscomb.edu
+• Derek Brooks Assistant Coach dbrooks@lipscomb.edu
+• Jack McMahon Assistant Coach jamcmahon@lipscomb.edu
+• Jarrett Tole Special Assistant to the Head Coach jtole@lipscomb.edu
+• Byron Sanford Strength & Conditioning Coach bsanford@lipscomb.edu
+• Chris Sumski Associate Head Coach chris.sumski@lipscomb.edu @CSumski31
+• Sydney Shelton Assistant Coach/Recruiting Coordinator slshelton@lipscomb.edu @Sydshelt
+• Jacob Ogle Assistant Coach/Director of Operations wjogle@lipscomb.edu
+• Grace Franke Assistant Coach (Distance) Anna.Oetting@Lipscomb.edu 615-966-
+• Brodey Hasty Assistant Coach bvhasty@lipscomb.edu
+• Brodey Hasty Assistant Coach bvhasty@lipscomb.edu
+• Grace Franke Assistant Coach (Distance) Anna.Oetting@Lipscomb.edu 615-966-
+• Brodey Hasty Assistant Coach bvhasty@lipscomb.edu
+• Brodey Hasty Assistant Coach bvhasty@lipscomb.edu
+• Stoney Crouch Assistant Coach stoney.crouch@lipscomb.edu
+• Shannon O'Brien Head Coach shannon.o'brien@lipscomb.edu (615) 497-
+• Charles Morrow Head Coach charles.morrow@lipscomb.edu (615) 966-
+• Matt Horth Assistant Coach mdhorth@lipscomb.edu
+• Sean Johnson Strength and Conditioning Coach sean.johnson@lipscomb.edu (615) 966-
+• Daniel Gagliardi Goalkeeper Coach dmgagliardi@mail.lipscomb.edu
+• Julian Lucumi Assistant Coach jmlucumivillegas@lipscomb.edu
+• Kevin O'Brien Head Coach womenssoccer@lipscomb.edu
+• Emma Webb Associate Head Coach ewebb@lipscomb.edu
+• Pritchard Ndaira Associate Head Coach pritchard.ndaira@lipscomb.edu
+• Elisa Swanson Assistant Coach elisa.swanson@lipscomb.edu
+• Kristin Ryman Head Coach kristin.ryman@lipscomb.edu (615) 966-
+• Bailey Dickey Assistant Coach bailey.vannoy@lipscomb.edu
+• Ally Ivey Assistant Coach - Pitching ally.ivey@lipscomb.edu
+• Lauren Higginbotham Assistant Coach Lhigginbotham@lipscomb.edu
+• Ben Roeser Head Coach broeser@lipscomb.edu (615) 966-
+• Jamie Aid Head Coach jamie.aid@lipscomb.edu (615) 966-
+• Dwight Dale Associate Head Coach dadale@lipscomb.edu (615)-966-
+• Jake Alexander Assistant Track and Field Coach (Sprints, Jumps, jalexander1@lipscomb.edu (615)-966-
+• Grace Franke Assistant Coach (Distance) Anna.Oetting@Lipscomb.edu 615-966-
+• Jake Alexander Assistant Track and Field Coach (Sprints, Jumps, jalexander1@lipscomb.edu (615)-966-
+• Grace Franke Assistant Coach (Distance) Anna.Oetting@Lipscomb.edu 615-966-
+• Brandon Rosenthal Head Coach brandon.rosenthal@lipscomb.edu (615) 479-
+• Sarah Baldwin Assistant Coach, Recruiting Coordinator sarah.baldwin@lipscomb.edu (808) 779-
+• Lauren Deaton Assistant Coach ldeaton@lipscomb.edu
+• Sean Johnson Strength and Conditioning Coach sean.johnson@lipscomb.edu (615) 966-

@@ -1,0 +1,16 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:01
+============================================================
+
+Total coaches found: 1
+
+PARSED ENTRIES:
+----------------------------------------
+1.  
+   Email: football@iu.edu
+   Username: football
+   Original line: Sasha Elliott Assistant Coach football@iu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

@@ -1,0 +1,239 @@
+COACH ENTRIES FOUND - 2025-10-04 18:15:25
+============================================================
+
+Total coaches found: 38
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: rcopeland@niu.edu
+   Username: rcopeland
+   Original line: Head Coach Ryan Copeland rcopeland@niu.edu
+
+2. Associate Head
+   Email: jkelch@niu.edu
+   Username: jkelch
+   Original line: Associate Head Coach/Recruiting Coordinator Joe Kelch jkelch@niu.edu
+
+3. Assistant Coach
+   Email: cpeacock@niu.edu
+   Username: cpeacock
+   Original line: Assistant Coach Calvin Peacock cpeacock@niu.edu
+
+4. Assistant Coach
+   Email: jkurtz@niu.edu
+   Username: jkurtz
+   Original line: Assistant Coach Jacob Kurtz jkurtz@niu.edu
+
+5. Head Coach
+   Email: jbrooks2@niu.edu
+   Username: jbrooks2
+   Original line: Head Coach Jacey Brooks jbrooks2@niu.edu @Coach_JBrooks
+
+6. Assistant Coach
+   Email: ehill1@niu.edu
+   Username: ehill1
+   Original line: Assistant Coach E.C. Hill ehill1@niu.edu @Hill23EC
+
+7. Assistant Coach
+   Email: bpatrick@niu.edu
+   Username: bpatrick
+   Original line: Assistant Coach Brittney Patrick bpatrick@niu.edu @BjPatrick10
+
+8. Assistant Coach
+   Email: aclark10@niu.edu
+   Username: aclark10
+   Original line: Assistant Coach Audra Clark aclark10@niu.edu @CoachAudraClark
+
+9. Assistant Coach
+   Email: mschwitzgable@niu.edu
+   Username: mschwitzgable
+   Original line: Assistant Coach Mark Schwitzgable mschwitzgable@niu.edu @schwitzgable
+
+10. Director of
+   Email: tbattle@niu.edu
+   Username: tbattle
+   Original line: Director of Operations/Assistant Coach Ty Battle tbattle@niu.edu @Ty_battle33
+
+11. Head Coach
+   Email: jcarrillojimenez@niu.edu
+   Username: jcarrillojimenez
+   Original line: Head Coach (Cross Country)/Assistant Coach Juan Carrillo jcarrillojimenez@niu.edu
+
+12. Head Coach
+   Email: fbrecruiting@niu.edu
+   Username: fbrecruiting
+   Original line: Head Coach Thomas Hammock fbrecruiting@niu.edu @NIUCoachHammock
+
+13. Head Coach
+   Email: jcarlson6@niu.edu
+   Username: jcarlson6
+   Original line: Head Coach John Carlson jcarlson6@niu.edu (815) @coachjcarlson
+
+14. Assistant Coach
+   Email: gstefko@niu.edu
+   Username: gstefko
+   Original line: Assistant Coach Ryan Stefko gstefko@niu.edu
+
+15. Head Coach
+   Email: kkester@niu.edu
+   Username: kkester
+   Original line: Head Coach Kim Kester kkester@niu.edu (815) @kimkester
+
+16. Assistant Coach
+   Email: gstefko@niu.edu
+   Username: gstefko
+   Original line: Assistant Coach Ryan Stefko gstefko@niu.edu
+
+17. Head Coach
+   Email: nteague@niu.edu
+   Username: nteague
+   Original line: Head Coach Dawnita "Nita" Teague nteague@niu.edu (815)
+
+18. Assistant Coach
+   Email: cweiss@niu.edu
+   Username: cweiss
+   Original line: Assistant Coach Chris Weiss cweiss@niu.edu (815)
+
+19. Head Coach
+   Email: rswan@niu.edu
+   Username: rswan
+   Original line: Head Coach Ryan Swan rswan@niu.edu (815) @rdswan10
+
+20. Assistant Coach
+   Email: nroman@niu.edu
+   Username: nroman
+   Original line: Assistant Coach Nick Roman nroman@niu.edu
+
+21. Assistant Coach
+   Email: rblair@niu.edu
+   Username: rblair
+   Original line: Assistant Coach Ryan Blair rblair@niu.edu
+
+22. Head Coach
+   Email: moneill1@niu.edu
+   Username: moneill1
+   Original line: Head Coach Michael O'Neill moneill1@niu.edu (815)
+
+23. Assistant Coach
+   Email: jaspinallstanton@niu.edu
+   Username: jaspinallstanton
+   Original line: Assistant Coach Luke Aspinall-Stanton jaspinallstanton@niu.edu
+
+24. Assistant Coach
+   Email: gmcalpine@niu.edu
+   Username: gmcalpine
+   Original line: Assistant Coach Gabi McAlpine gmcalpine@niu.edu
+
+25. Head Coach
+   Email: kgleason1@niu.edu
+   Username: kgleason1
+   Original line: Head Coach Kathryn Gleason kgleason1@niu.edu
+
+26. Assistant Coach
+   Email: bpasquale@niu.edu
+   Username: bpasquale
+   Original line: Assistant Coach Brie Pasquale bpasquale@niu.edu
+
+27. Assistant Coach
+   Email: jtaylor23@niu.edu
+   Username: jtaylor23
+   Original line: Assistant Coach Jordan Taylor jtaylor23@niu.edu
+
+28. Head Coach
+   Email: rvidal@niu.edu
+   Username: rvidal
+   Original line: Head Coach René Vidal rvidal@niu.edu 815-753-
+
+29. Graduate Assistant
+   Email: vcipriani1@niu.edu
+   Username: vcipriani1
+   Original line: Graduate Assistant Coach Viola Cipriani vcipriani1@niu.edu
+
+30. Head Coach
+   Email: eburns5@niu.edu
+   Username: eburns5
+   Original line: Head Coach Eric Burns eburns5@niu.edu (815)
+
+31. Director of
+   Email: cteaberry@niu.edu
+   Username: cteaberry
+   Original line: Director of Track and Field and Cross Country Connie Teaberry cteaberry@niu.edu (815) @CoachTeaberry
+
+32. Head Coach
+   Email: jcarrillojimenez@niu.edu
+   Username: jcarrillojimenez
+   Original line: Head Coach (Cross Country)/Assistant Coach Juan Carrillo jcarrillojimenez@niu.edu
+
+33. Head Coach
+   Email: sparys@niu.edu
+   Username: sparys
+   Original line: Head Coach Sondra D'Amore sparys@niu.edu (815)
+
+34. Assistant Coach
+   Email: r.kessler@niu.edu
+   Username: r.kessler
+   Original line: Assistant Coach Ross Kessler r.kessler@niu.edu (815)
+
+35. Assistant Coach
+   Email: mrombach@niu.edu
+   Username: mrombach
+   Original line: Assistant Coach Mackenzie Rombach mrombach@niu.edu (815)
+
+36. Head Coach
+   Email: rludwig@niu.edu
+   Username: rludwig
+   Original line: Head Coach Ryan Ludwig rludwig@niu.edu (815) @RyanLudwigNIU
+
+37. Associate Head
+   Email: kspringer1@niu.edu
+   Username: kspringer1
+   Original line: Associate Head Coach Kyle Springer kspringer1@niu.edu
+
+38. Assistant Coach
+   Email: mmidkiff@niu.edu
+   Username: mmidkiff
+   Original line: Assistant Coach McGwire Midkiff mmidkiff@niu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach Ryan Copeland rcopeland@niu.edu
+• Associate Head Coach/Recruiting Coordinator Joe Kelch jkelch@niu.edu
+• Assistant Coach Calvin Peacock cpeacock@niu.edu
+• Assistant Coach Jacob Kurtz jkurtz@niu.edu
+• Head Coach Jacey Brooks jbrooks2@niu.edu @Coach_JBrooks
+• Assistant Coach E.C. Hill ehill1@niu.edu @Hill23EC
+• Assistant Coach Brittney Patrick bpatrick@niu.edu @BjPatrick10
+• Assistant Coach Audra Clark aclark10@niu.edu @CoachAudraClark
+• Assistant Coach Mark Schwitzgable mschwitzgable@niu.edu @schwitzgable
+• Director of Operations/Assistant Coach Ty Battle tbattle@niu.edu @Ty_battle33
+• Head Coach (Cross Country)/Assistant Coach Juan Carrillo jcarrillojimenez@niu.edu
+• Head Coach Thomas Hammock fbrecruiting@niu.edu @NIUCoachHammock
+• Head Coach John Carlson jcarlson6@niu.edu (815) @coachjcarlson
+• Assistant Coach Ryan Stefko gstefko@niu.edu
+• Head Coach Kim Kester kkester@niu.edu (815) @kimkester
+• Assistant Coach Ryan Stefko gstefko@niu.edu
+• Head Coach Dawnita "Nita" Teague nteague@niu.edu (815)
+• Assistant Coach Chris Weiss cweiss@niu.edu (815)
+• Head Coach Ryan Swan rswan@niu.edu (815) @rdswan10
+• Assistant Coach Nick Roman nroman@niu.edu
+• Assistant Coach Ryan Blair rblair@niu.edu
+• Head Coach Michael O'Neill moneill1@niu.edu (815)
+• Assistant Coach Luke Aspinall-Stanton jaspinallstanton@niu.edu
+• Assistant Coach Gabi McAlpine gmcalpine@niu.edu
+• Head Coach Kathryn Gleason kgleason1@niu.edu
+• Assistant Coach Brie Pasquale bpasquale@niu.edu
+• Assistant Coach Jordan Taylor jtaylor23@niu.edu
+• Head Coach René Vidal rvidal@niu.edu 815-753-
+• Graduate Assistant Coach Viola Cipriani vcipriani1@niu.edu
+• Head Coach Eric Burns eburns5@niu.edu (815)
+• Director of Track and Field and Cross Country Connie Teaberry cteaberry@niu.edu (815) @CoachTeaberry
+• Head Coach (Cross Country)/Assistant Coach Juan Carrillo jcarrillojimenez@niu.edu
+• Head Coach Sondra D'Amore sparys@niu.edu (815)
+• Assistant Coach Ross Kessler r.kessler@niu.edu (815)
+• Assistant Coach Mackenzie Rombach mrombach@niu.edu (815)
+• Head Coach Ryan Ludwig rludwig@niu.edu (815) @RyanLudwigNIU
+• Associate Head Coach Kyle Springer kspringer1@niu.edu
+• Assistant Coach McGwire Midkiff mmidkiff@niu.edu

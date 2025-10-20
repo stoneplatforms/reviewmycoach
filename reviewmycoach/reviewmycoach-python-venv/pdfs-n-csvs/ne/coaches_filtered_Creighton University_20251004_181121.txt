@@ -1,0 +1,125 @@
+COACH ENTRIES FOUND - 2025-10-04 18:11:23
+============================================================
+
+Total coaches found: 19
+
+PARSED ENTRIES:
+----------------------------------------
+1. Head Coach
+   Email: gjm52@creighton.edu
+   Username: gjm52
+   Original line: Head Coach gjm52@creighton.edu
+
+2. Associate Head
+   Email: alanhuss@creighton.edu
+   Username: alanhuss
+   Original line: Associate Head Coach alanhuss@creighton.edu
+
+3. Assistant Coach
+   Email: dkkellogg@creighton.edu
+   Username: dkkellogg
+   Original line: Assistant Coach dkkellogg@creighton.edu
+
+4. Assistant Coach
+   Email: treyzeigler@creighton.edu
+   Username: treyzeigler
+   Original line: Assistant Coach treyzeigler@creighton.edu
+
+5. Assistant Coach
+   Email: mikenesbitt@creighton.edu
+   Username: mikenesbitt
+   Original line: Assistant Coach mikenesbitt@creighton.edu
+
+6. Head Coach
+   Email: flan@creighton.edu
+   Username: flan
+   Original line: Head Coach flan@creighton.edu
+
+7. Assistant Coach
+   Email: carlitritz@creighton.edu
+   Username: carlitritz
+   Original line: Assistant Coach carlitritz@creighton.edu
+
+8. Head Athletic
+   Email: bradschmidt@creighton.edu
+   Username: bradschmidt
+   Original line: Head Athletic Performance Coach (WVB & WBB) bradschmidt@creighton.edu
+
+9. Head Coach
+   Email: dmcbluejayGolf@aol.com
+   Username: dmcbluejayGolf
+   Original line: Head Coach dmcbluejayGolf@aol.com
+
+10. Head Coach
+   Email: danielchipps@creighton.edu
+   Username: danielchipps
+   Original line: Head Coach danielchipps@creighton.edu
+
+11. Associate Head
+   Email: joydobrauc@creighton.edu
+   Username: joydobrauc
+   Original line: Associate Head Coach joydobrauc@creighton.edu
+
+12. Head Coach
+   Email: creightonsocceracademy@creighton.edu
+   Username: creightonsocceracademy
+   Original line: Head Coach creightonsocceracademy@creighton.edu
+
+13. Head Coach
+   Email: thomaslilly@creighton.edu
+   Username: thomaslilly
+   Original line: Head Coach thomaslilly@creighton.edu
+
+14. Head Coach
+   Email: BrianRosen@creighton.edu
+   Username: BrianRosen
+   Original line: Head Coach BrianRosen@creighton.edu
+
+15. Associate Head
+   Email: angieoxley@creighton.edu
+   Username: angieoxley
+   Original line: Associate Head Coach angieoxley@creighton.edu
+
+16. Head Athletic
+   Email: bradschmidt@creighton.edu
+   Username: bradschmidt
+   Original line: Head Athletic Performance Coach (WVB & WBB) bradschmidt@creighton.edu
+
+17. Associate Head
+   Email: danbailey@creighton.edu
+   Username: danbailey
+   Original line: Associate Head Coach (BSB, SB, WG) danbailey@creighton.edu
+
+18. Assistant Coach,
+   Email: ScottBankers@creighton.edu
+   Username: ScottBankers
+   Original line: Assistant Coach, Athletic Performance (MSOC, WSOC, MG) ScottBankers@creighton.edu
+
+19. Head Coach
+   Email: jeremyanderson@creighton.edu
+   Username: jeremyanderson
+   Original line: Head Coach of Athletic Performance - Men's Basketball jeremyanderson@creighton.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach gjm52@creighton.edu
+• Associate Head Coach alanhuss@creighton.edu
+• Assistant Coach dkkellogg@creighton.edu
+• Assistant Coach treyzeigler@creighton.edu
+• Assistant Coach mikenesbitt@creighton.edu
+• Head Coach flan@creighton.edu
+• Assistant Coach carlitritz@creighton.edu
+• Head Athletic Performance Coach (WVB & WBB) bradschmidt@creighton.edu
+• Head Coach dmcbluejayGolf@aol.com
+• Head Coach danielchipps@creighton.edu
+• Associate Head Coach joydobrauc@creighton.edu
+• Head Coach creightonsocceracademy@creighton.edu
+• Head Coach thomaslilly@creighton.edu
+• Head Coach BrianRosen@creighton.edu
+• Associate Head Coach angieoxley@creighton.edu
+• Head Athletic Performance Coach (WVB & WBB) bradschmidt@creighton.edu
+• Associate Head Coach (BSB, SB, WG) danbailey@creighton.edu
+• Assistant Coach, Athletic Performance (MSOC, WSOC, MG) ScottBankers@creighton.edu
+• Head Coach of Athletic Performance - Men's Basketball jeremyanderson@creighton.edu

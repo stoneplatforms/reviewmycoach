@@ -1,0 +1,263 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:42
+============================================================
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Evan Porter
+   Email: etporter@omavs.com
+   Username: etporter
+   Original line: Evan Porter Head Coach etporter@omavs.com
+
+2. Kyan Brown
+   Email: kyanbrown@omavs.com
+   Username: kyanbrown
+   Original line: Kyan Brown Associate Head Coach kyanbrown@omavs.com
+
+3. Brandt Danals
+   Email: bdanals@omavs.com
+   Username: bdanals
+   Original line: Brandt Danals Assistant Coach - Director of Operations bdanals@omavs.com
+
+4. Keenan Holdman
+   Email: kholdman@omavs.com
+   Username: kholdman
+   Original line: Keenan Holdman Assistant Coach kholdman@omavs.com
+
+5. J.R. Reynolds
+   Email: jreynolds24@omavs.com
+   Username: jreynolds24
+   Original line: J.R. Reynolds Assistant Coach jreynolds24@omavs.com
+
+6. Josh Crutchfield
+   Email: jcrutchfield@omavs.com
+   Username: jcrutchfield
+   Original line: Josh Crutchfield Assistant Coach - Player Personnel jcrutchfield@omavs.com
+
+7. Joey Baldwin
+   Email: joeybaldwin@omavs.com
+   Username: joeybaldwin
+   Original line: Joey Baldwin Head Coach 402-369- joeybaldwin@omavs.com
+
+8. Steve Buroker
+   Email: steveburoker@omavs.com
+   Username: steveburoker
+   Original line: Steve Buroker Assistant Coach steveburoker@omavs.com
+
+9. Mike Gabinet
+   Email: mgabinet@omavs.com
+   Username: mgabinet
+   Original line: Mike Gabinet Head Coach mgabinet@omavs.com
+
+10. Dave Noel-Bernier
+   Email: dnoelbernier@omavs.com
+   Username: dnoelbernier
+   Original line: Dave Noel-Bernier Associate Head Coach 231-750- dnoelbernier@omavs.com
+
+11. Jamie Huffman
+   Email: jamiehuffman@omavs.com
+   Username: jamiehuffman
+   Original line: Jamie Huffman Assistant Coach/Director of Recruiting jamiehuffman@omavs.com
+
+12. Bennett Hambrook
+   Email: bhambrook@omavs.com
+   Username: bhambrook
+   Original line: Bennett Hambrook Assistant Coach 315-228- bhambrook@omavs.com
+
+13. Donovan Dowling
+   Email: ddowling@omavs.com
+   Username: ddowling
+   Original line: Donovan Dowling Head Coach ddowling@omavs.com
+
+14. Josh McReynolds
+   Email: jmcreynolds@omavs.com
+   Username: jmcreynolds
+   Original line: Josh McReynolds Associate Head Coach jmcreynolds@omavs.com
+
+15. Ed Gordon
+   Email: ergordon@omavs.com
+   Username: ergordon
+   Original line: Ed Gordon Assistant Coach ergordon@omavs.com
+
+16. Hunter Clark
+   Email: hunterclark@omavs.com
+   Username: hunterclark
+   Original line: Hunter Clark Head Coach 804-337- hunterclark@omavs.com
+
+17. Jamie Carey
+   Email: jamiecarey@omavs.com
+   Username: jamiecarey
+   Original line: Jamie Carey Head Coach jamiecarey@omavs.com
+
+18. Leah Szabla
+   Email: lszabla@omavs.com
+   Username: lszabla
+   Original line: Leah Szabla Assistant Coach lszabla@omavs.com
+
+19. Claire Gritt
+   Email: cgritt@omavs.com
+   Username: cgritt
+   Original line: Claire Gritt Assistant Coach cgritt@omavs.com
+
+20. Madi Townley
+   Email: madisontownley@omavs.com
+   Username: madisontownley
+   Original line: Madi Townley Assistant Coach madisontownley@omavs.com
+
+21. Dan Levine
+   Email: daniellevine@omavs.com
+   Username: daniellevine
+   Original line: Dan Levine Assistant Coach - Director of Operations daniellevine@omavs.com
+
+22. Cliff Cisar
+   Email: ccisar@omavs.com
+   Username: ccisar
+   Original line: Cliff Cisar Head Coach 402-740- ccisar@omavs.com
+
+23. Saskia Pingpank
+   Email: spingpank@omavs.com
+   Username: spingpank
+   Original line: Saskia Pingpank Assistant Coach 859-979- spingpank@omavs.com
+
+24. Victoria Grasso
+   Email: vgrasso@omavs.com
+   Username: vgrasso
+   Original line: Victoria Grasso Head Coach vgrasso@omavs.com
+
+25. Tim Walters
+   Email: twaltersii@omavs.com
+   Username: twaltersii
+   Original line: Tim Walters Head Coach 402-619- twaltersii@omavs.com
+
+26. Ashley Holland
+   Email: ashleyholland@omavs.com
+   Username: ashleyholland
+   Original line: Ashley Holland Assistant Coach ashleyholland@omavs.com
+
+27. Andrei Gotsmanov
+   Email: agotsmanov@omavs.com
+   Username: agotsmanov
+   Original line: Andrei Gotsmanov Assistant Coach agotsmanov@omavs.com
+
+28. Mike Heard
+   Email: mikeheard@omavs.com
+   Username: mikeheard
+   Original line: Mike Heard Head Coach mikeheard@omavs.com
+
+29. Jen Brauer
+   Email: jendaro@omavs.com
+   Username: jendaro
+   Original line: Jen Brauer Assistant Coach jendaro@omavs.com
+
+30. Brooke Dumont
+   Email: bdumont@omavs.com
+   Username: bdumont
+   Original line: Brooke Dumont Assistant Coach bdumont@omavs.com
+
+31. Jessica Hessel
+   Email: jhessel@omavs.com
+   Username: jhessel
+   Original line: Jessica Hessel Head Coach jhessel@omavs.com
+
+32. Eric Sprague
+   Email: esprague@omavs.com
+   Username: esprague
+   Original line: Eric Sprague Diving Coach esprague@omavs.com
+
+33. Bryce Hartman
+   Email: brycehartman@omavs.com
+   Username: brycehartman
+   Original line: Bryce Hartman Assistant Coach brycehartman@omavs.com
+
+34. Adam Summitt
+   Email: asummitt@omavs.com
+   Username: asummitt
+   Original line: Adam Summitt Head Coach 515-681- asummitt@omavs.com
+
+35. Cliff Cisar
+   Email: ccisar@omavs.com
+   Username: ccisar
+   Original line: Cliff Cisar Head Coach 402-740- ccisar@omavs.com
+
+36. Saskia Pingpank
+   Email: spingpank@omavs.com
+   Username: spingpank
+   Original line: Saskia Pingpank Assistant Coach 859-979- spingpank@omavs.com
+
+37. Thomas Stopak
+   Email: tstopak@omavs.com
+   Username: tstopak
+   Original line: Thomas Stopak Assistant Coach 402-415- tstopak@omavs.com
+
+38. Matt Buttermore
+   Email: mbuttermore@omavs.com
+   Username: mbuttermore
+   Original line: Matt Buttermore Head Coach 402-730- mbuttermore@omavs.com
+
+39. Kyle Breitbarth
+   Email: kbreitbarth@omavs.com
+   Username: kbreitbarth
+   Original line: Kyle Breitbarth Assistant Coach/Recruiting Coordinator kbreitbarth@omavs.com
+
+40. Ashley Petak
+   Email: apetak@omavs.com
+   Username: apetak
+   Original line: Ashley Petak Assistant Coach apetak@omavs.com
+
+41. Mo Klug
+   Email: mmarmesh@omavs.com
+   Username: mmarmesh
+   Original line: Mo Klug Dance Team Coach mmarmesh@omavs.com
+
+42. Samara Phillips
+   Email: sgphillips@omavs.com
+   Username: sgphillips
+   Original line: Samara Phillips Cheer Team Coach sgphillips@omavs.com
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Evan Porter Head Coach etporter@omavs.com
+• Kyan Brown Associate Head Coach kyanbrown@omavs.com
+• Brandt Danals Assistant Coach - Director of Operations bdanals@omavs.com
+• Keenan Holdman Assistant Coach kholdman@omavs.com
+• J.R. Reynolds Assistant Coach jreynolds24@omavs.com
+• Josh Crutchfield Assistant Coach - Player Personnel jcrutchfield@omavs.com
+• Joey Baldwin Head Coach 402-369- joeybaldwin@omavs.com
+• Steve Buroker Assistant Coach steveburoker@omavs.com
+• Mike Gabinet Head Coach mgabinet@omavs.com
+• Dave Noel-Bernier Associate Head Coach 231-750- dnoelbernier@omavs.com
+• Jamie Huffman Assistant Coach/Director of Recruiting jamiehuffman@omavs.com
+• Bennett Hambrook Assistant Coach 315-228- bhambrook@omavs.com
+• Donovan Dowling Head Coach ddowling@omavs.com
+• Josh McReynolds Associate Head Coach jmcreynolds@omavs.com
+• Ed Gordon Assistant Coach ergordon@omavs.com
+• Hunter Clark Head Coach 804-337- hunterclark@omavs.com
+• Jamie Carey Head Coach jamiecarey@omavs.com
+• Leah Szabla Assistant Coach lszabla@omavs.com
+• Claire Gritt Assistant Coach cgritt@omavs.com
+• Madi Townley Assistant Coach madisontownley@omavs.com
+• Dan Levine Assistant Coach - Director of Operations daniellevine@omavs.com
+• Cliff Cisar Head Coach 402-740- ccisar@omavs.com
+• Saskia Pingpank Assistant Coach 859-979- spingpank@omavs.com
+• Victoria Grasso Head Coach vgrasso@omavs.com
+• Tim Walters Head Coach 402-619- twaltersii@omavs.com
+• Ashley Holland Assistant Coach ashleyholland@omavs.com
+• Andrei Gotsmanov Assistant Coach agotsmanov@omavs.com
+• Mike Heard Head Coach mikeheard@omavs.com
+• Jen Brauer Assistant Coach jendaro@omavs.com
+• Brooke Dumont Assistant Coach bdumont@omavs.com
+• Jessica Hessel Head Coach jhessel@omavs.com
+• Eric Sprague Diving Coach esprague@omavs.com
+• Bryce Hartman Assistant Coach brycehartman@omavs.com
+• Adam Summitt Head Coach 515-681- asummitt@omavs.com
+• Cliff Cisar Head Coach 402-740- ccisar@omavs.com
+• Saskia Pingpank Assistant Coach 859-979- spingpank@omavs.com
+• Thomas Stopak Assistant Coach 402-415- tstopak@omavs.com
+• Matt Buttermore Head Coach 402-730- mbuttermore@omavs.com
+• Kyle Breitbarth Assistant Coach/Recruiting Coordinator kbreitbarth@omavs.com
+• Ashley Petak Assistant Coach apetak@omavs.com
+• Mo Klug Dance Team Coach mmarmesh@omavs.com
+• Samara Phillips Cheer Team Coach sgphillips@omavs.com

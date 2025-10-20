@@ -1,0 +1,192 @@
+COACH ENTRIES FOUND - 2025-10-19 04:43:40
+============================================================
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Max Ouzts
+   Email: maxwell.ouzts@dsu.edu
+   Username: maxwell.ouzts
+   Phone: (605) 256-5229
+   Original line: Max Ouzts Head Strength & Conditioning Coach maxwell.ouzts@dsu.edu 605-256-5229
+
+2. Sarah Wilensky
+   Email: sarah.wilensky@dsu.edu
+   Username: sarah.wilensky
+   Phone: (605) 256-5229
+   Original line: Sarah Wilensky Assistant Strength & Conditioning Coach sarah.wilensky@dsu.edu 605-256-5229
+
+3. Derrion Hardie
+   Email: derrion.hardie@dsu.edu
+   Username: derrion.hardie
+   Phone: (605) 212-5615
+   Original line: Derrion Hardie Head Baseball Coach derrion.hardie@dsu.edu 605-212-5615
+
+4. Dan Rutan
+   Email: daniel.rutan@dsu.edu
+   Username: daniel.rutan
+   Phone: (614) 746-7201
+   Original line: Dan Rutan Assistant Baseball Coach daniel.rutan@dsu.edu 614-746-7201
+
+5. Quentin Evers
+   Email: quentin.evers@dsu.edu
+   Username: quentin.evers
+   Phone: (605) 254-8813
+   Original line: Quentin Evers Assistant Baseball Coach quentin.evers@dsu.edu 605-254-8813
+
+6. Kevin Williamson
+   Email: kevin.williamson@dsu.edu
+   Username: kevin.williamson
+   Phone: (605) 256-5229
+   Original line: Kevin Williamson Head Men's Basketball Coach kevin.williamson@dsu.edu 605-256-5229
+
+7. Taymon Klinkefus
+   Email: taymon.klinkefus@dsu.edu
+   Username: taymon.klinkefus
+   Phone: (605) 256-5529
+   Original line: Taymon Klinkefus Assistant Men's Basketball Coach taymon.klinkefus@dsu.edu 605-256-5529
+
+8. David Moe
+   Email: david.moe@dsu.edu
+   Username: david.moe
+   Phone: (701) 261-5627
+   Original line: David Moe Head Women's Basketball Coach david.moe@dsu.edu 701-261-5627
+
+9. Jacob Strand
+   Email: jacob.strand@dsu.edu
+   Username: jacob.strand
+   Phone: (605) 256-5229
+   Original line: Jacob Strand Assistant Women's Basketball Coach jacob.strand@dsu.edu 605-256-5229
+
+10. Alex Glover
+   Email: alex.glover@dsu.edu
+   Username: alex.glover
+   Phone: (605) 690-6611
+   Original line: Alex Glover Head Cross Country and Track & Field Coach alex.glover@dsu.edu 605-690-6611
+
+11. Andy Roland
+   Email: andy.roland@dsu.edu
+   Username: andy.roland
+   Phone: (817) 454-8485
+   Original line: Andy Roland Head Esports Coach (VAL, LOL, RL, CS2, OW) andy.roland@dsu.edu 817-454-8485
+
+12. Evan Lawson
+   Email: Evan.Lawson@.dsu.edu
+   Username: Evan.Lawson
+   Original line: Evan Lawson Assistant Esports Coach Evan.Lawson@.dsu.edu
+
+13. Josh Anderson
+   Email: josh.anderson@dsu.edu
+   Username: josh.anderson
+   Phone: (605) 291-9181
+   Original line: Josh Anderson Head Football Coach josh.anderson@dsu.edu 605-291-9181
+
+14. Daidrick Kibbie
+   Email: daidrick.kibbie@dsu.edu
+   Username: daidrick.kibbie
+   Phone: (605) 291-2127
+   Original line: Daidrick Kibbie Assistant Football Coach daidrick.kibbie@dsu.edu 605-291-2127
+
+15. Logan Levy
+   Email: logan.levy@dsu.edu
+   Username: logan.levy
+   Phone: (605) 256-5229
+   Original line: Logan Levy Assistant Football Coach logan.levy@dsu.edu 605-256-5229
+
+16. Deonte Randle
+   Email: deonte.randle@dsu.edu
+   Username: deonte.randle
+   Phone: (562) 204-5676
+   Original line: Deonte Randle Assistant Football Coach deonte.randle@dsu.edu 562-204-5676
+
+17. Devonte Murphy
+   Email: devonte.murphy@dsu.edu
+   Username: devonte.murphy
+   Phone: (605) 256-5229
+   Original line: Devonte Murphy Assistant Football Coach devonte.murphy@dsu.edu 605-256-5229
+
+18. Todd Stank
+   Email: todd.stank@dsu.edu
+   Username: todd.stank
+   Phone: (810) 300-2518
+   Original line: Todd Stank Head Women's Soccer Coach todd.stank@dsu.edu 810-300-2518
+
+19. Alec Rathje
+   Email: alec.rathje@dsu.edu
+   Username: alec.rathje
+   Phone: (605) 256-5229
+   Original line: Alec Rathje Assistant Women's Soccer Coach alec.rathje@dsu.edu 605-256-5229
+
+20. Hunter Lambdin
+   Email: hunter.lambdin@dsu.edu
+   Username: hunter.lambdin
+   Phone: (605) 256-5229
+   Original line: Hunter Lambdin Head Softball Coach hunter.lambdin@dsu.edu 605-256-5229
+
+21. Jade Laviolette
+   Email: jade.laviolette@dsu.edu
+   Username: jade.laviolette
+   Phone: (605) 256-5229
+   Original line: Jade Laviolette Assistant Softball Coach jade.laviolette@dsu.edu 605-256-5229
+
+22. Alex Glover
+   Email: alex.glover@dsu.edu
+   Username: alex.glover
+   Phone: (605) 690-6611
+   Original line: Alex Glover Head Cross Country and Track & Field Coach alex.glover@dsu.edu 605-690-6611
+
+23. D'Artist Williams
+   Email: dartist.williams@dsu.edu
+   Username: dartist.williams
+   Phone: (605) 256-5229
+   Original line: D'Artist Williams Assistant Track & Field Coach dartist.williams@dsu.edu 605-256-5229
+
+24. Shandon Reitzell
+   Email: shandon.reitzell@dsu.edu
+   Username: shandon.reitzell
+   Phone: (605) 256-5229
+   Original line: Shandon Reitzell Assistant Track & Field Coach shandon.reitzell@dsu.edu 605-256-5229
+
+25. Amy Veenhof
+   Email: amy.veenhof@dsu.edu
+   Username: amy.veenhof
+   Phone: (605) 256-5689
+   Original line: Amy Veenhof Head Volleyball Coach amy.veenhof@dsu.edu 605-256-5689
+
+26. Alaina Harkins
+   Email: alaina.harkins@dsu.edu
+   Username: alaina.harkins
+   Phone: (605) 256-5229
+   Original line: Alaina Harkins Assistant Volleyball Coach alaina.harkins@dsu.edu 605-256-5229
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Max Ouzts Head Strength & Conditioning Coach maxwell.ouzts@dsu.edu 605-256-5229
+• Sarah Wilensky Assistant Strength & Conditioning Coach sarah.wilensky@dsu.edu 605-256-5229
+• Derrion Hardie Head Baseball Coach derrion.hardie@dsu.edu 605-212-5615
+• Dan Rutan Assistant Baseball Coach daniel.rutan@dsu.edu 614-746-7201
+• Quentin Evers Assistant Baseball Coach quentin.evers@dsu.edu 605-254-8813
+• Kevin Williamson Head Men's Basketball Coach kevin.williamson@dsu.edu 605-256-5229
+• Taymon Klinkefus Assistant Men's Basketball Coach taymon.klinkefus@dsu.edu 605-256-5529
+• David Moe Head Women's Basketball Coach david.moe@dsu.edu 701-261-5627
+• Jacob Strand Assistant Women's Basketball Coach jacob.strand@dsu.edu 605-256-5229
+• Alex Glover Head Cross Country and Track & Field Coach alex.glover@dsu.edu 605-690-6611
+• Andy Roland Head Esports Coach (VAL, LOL, RL, CS2, OW) andy.roland@dsu.edu 817-454-8485
+• Evan Lawson Assistant Esports Coach Evan.Lawson@.dsu.edu
+• Josh Anderson Head Football Coach josh.anderson@dsu.edu 605-291-9181
+• Daidrick Kibbie Assistant Football Coach daidrick.kibbie@dsu.edu 605-291-2127
+• Logan Levy Assistant Football Coach logan.levy@dsu.edu 605-256-5229
+• Deonte Randle Assistant Football Coach deonte.randle@dsu.edu 562-204-5676
+• Devonte Murphy Assistant Football Coach devonte.murphy@dsu.edu 605-256-5229
+• Todd Stank Head Women's Soccer Coach todd.stank@dsu.edu 810-300-2518
+• Alec Rathje Assistant Women's Soccer Coach alec.rathje@dsu.edu 605-256-5229
+• Hunter Lambdin Head Softball Coach hunter.lambdin@dsu.edu 605-256-5229
+• Jade Laviolette Assistant Softball Coach jade.laviolette@dsu.edu 605-256-5229
+• Alex Glover Head Cross Country and Track & Field Coach alex.glover@dsu.edu 605-690-6611
+• D'Artist Williams Assistant Track & Field Coach dartist.williams@dsu.edu 605-256-5229
+• Shandon Reitzell Assistant Track & Field Coach shandon.reitzell@dsu.edu 605-256-5229
+• Amy Veenhof Head Volleyball Coach amy.veenhof@dsu.edu 605-256-5689
+• Alaina Harkins Assistant Volleyball Coach alaina.harkins@dsu.edu 605-256-5229

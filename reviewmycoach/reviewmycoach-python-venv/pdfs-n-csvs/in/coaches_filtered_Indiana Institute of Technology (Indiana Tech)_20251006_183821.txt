@@ -1,0 +1,311 @@
+COACH ENTRIES FOUND - 2025-10-06 18:38:21
+============================================================
+
+Total coaches found: 50
+
+PARSED ENTRIES:
+----------------------------------------
+1. Lauren Tait
+   Email: lntait@indianatech.edu
+   Username: lntait
+   Original line: Lauren Tait Peak Performance Coach lntait@indianatech.edu
+
+2. Dominic Greenman
+   Email: dmgreenman@indianatech.edu
+   Username: dmgreenman
+   Original line: Dominic Greenman Head Coach dmgreenman@indianatech.edu 260-344-
+
+3. Dominic Greenman
+   Email: dmgreenman@indianatech.edu
+   Username: dmgreenman
+   Original line: Dominic Greenman Head Coach dmgreenman@indianatech.edu 260-344-
+
+4. Dominic Greenman
+   Email: dmgreenman@indianatech.edu
+   Username: dmgreenman
+   Original line: Dominic Greenman Head Coach dmgreenman@indianatech.edu 260-344-
+
+5. Kip McWilliams
+   Email: kdmcwilliams@indianatech.edu
+   Username: kdmcwilliams
+   Original line: Kip McWilliams Head Coach kdmcwilliams@indianatech.edu 260-344-
+
+6. Brent Alwine
+   Email: bjalwine@indianatech.edu
+   Username: bjalwine
+   Original line: Brent Alwine Associate Head Coach bjalwine@indianatech.edu 260-222-
+
+7. Gordon Turner
+   Email: grturner@indianatech.edu
+   Username: grturner
+   Original line: Gordon Turner Assistant Coach grturner@indianatech.edu 765-623-
+
+8. Tyler DeJonge
+   Email: tjdejonge@indianatech.edu
+   Username: tjdejonge
+   Original line: Tyler DeJonge Head Coach tjdejonge@indianatech.edu 260-344-
+
+9. Doug Cutler
+   Email: dacutler@indianatech.edu
+   Username: dacutler
+   Original line: Doug Cutler Assistant Coach dacutler@indianatech.edu
+
+10. Alex Kluchki
+   Email: arkluchki@indianatech.edu
+   Username: arkluchki
+   Original line: Alex Kluchki Head Coach arkluchki@indianatech.edu 260-344-
+
+11. Brandon Bronzan
+   Email: bjbronzan@indianatech.edu
+   Username: bjbronzan
+   Original line: Brandon Bronzan Assistant Coach (Distance) bjbronzan@indianatech.edu
+
+12. Jake Middleton
+   Email: JDMiddleton@indianatech.edu
+   Username: JDMiddleton
+   Original line: Jake Middleton Head Coach JDMiddleton@indianatech.edu 260-344-
+
+13. Mark Beneke
+   Email: mwbeneke@indianatech.edu
+   Username: mwbeneke
+   Original line: Mark Beneke Head Coach mwbeneke@indianatech.edu 260-344-
+
+14. Jessica Steward
+   Email: jjsteward@indiantech.edu
+   Username: jjsteward
+   Original line: Jessica Steward Assistant Coach jjsteward@indiantech.edu 260-422-
+
+15. Ted Albert
+   Email: tcalbert@indianatech.edu
+   Username: tcalbert
+   Original line: Ted Albert Head Coach tcalbert@indianatech.edu 260-267-
+
+16. Javante Wilson
+   Email: jjwilson-young@indianatech.edu
+   Username: jjwilson-young
+   Original line: Javante Wilson Assistant Coach jjwilson-young@indianatech.edu
+
+17. Frank DiCristofaro
+   Email: fpdicristofaro@indianatech.edu
+   Username: fpdicristofaro
+   Original line: Frank DiCristofaro Head Coach fpdicristofaro@indianatech.edu 260-344-
+
+18. Bryan Seaman
+   Email: bcseaman@indianatech.edu
+   Username: bcseaman
+   Original line: Bryan Seaman Head Coach bcseaman@indianatech.edu 260-344-
+
+19. Sam DiFilippo
+   Email: sjdifilippo@indianatech.edu
+   Username: sjdifilippo
+   Original line: Sam DiFilippo Head Coach sjdifilippo@indianatech.edu 260-344-
+
+20. Anansa Harris
+   Email: ARHarris@indianatech.edu
+   Username: ARHarris
+   Original line: Anansa Harris Assistant Coach ARHarris@indianatech.edu
+
+21. Keelan Barker
+   Email: krbarker@indianatech.edu
+   Username: krbarker
+   Original line: Keelan Barker Head Coach krbarker@indianatech.edu 260-344-
+
+22. Jack Rose
+   Email: jsrose@indianatech.edu
+   Username: jsrose
+   Original line: Jack Rose Assistant Coach jsrose@indianatech.edu
+
+23. Jordan Rosenberg
+   Email: JXRosenberg@indianatech.edu
+   Username: JXRosenberg
+   Original line: Jordan Rosenberg Head Coach JXRosenberg@indianatech.edu 260-344-
+
+24. Byron VonGunten
+   Email: bcvongunten@indianatech.edu
+   Username: bcvongunten
+   Original line: Byron VonGunten Assistant Coach bcvongunten@indianatech.edu
+
+25. Thomas Pompei
+   Email: tapompei@indianatech.edu
+   Username: tapompei
+   Original line: Thomas Pompei Head Coach tapompei@indianatech.edu 260-344-
+
+26. Travis Barroquillo
+   Email: trbarroquillo@indianatech.edu
+   Username: trbarroquillo
+   Original line: Travis Barroquillo Assistant Coach trbarroquillo@indianatech.edu 260-336-
+
+27. Wade McClurg
+   Email: wtmcclurg@indianatech.edu
+   Username: wtmcclurg
+   Original line: Wade McClurg Assistant Coach wtmcclurg@indianatech.edu 317-501-
+
+28. Chase Wilson
+   Email: cawilson@indianatech.edu
+   Username: cawilson
+   Original line: Chase Wilson Assistant Coach cawilson@indianatech.edu 765-469-
+
+29. Stephanie Zimny
+   Email: smzimny@indianatech.edu
+   Username: smzimny
+   Original line: Stephanie Zimny Head Coach smzimny@indianatech.edu 260-344-
+
+30. Doug Edgar
+   Email: djedgar@indianatech.edu
+   Username: djedgar
+   Original line: Doug Edgar Head Coach djedgar@indianatech.edu 260-344-
+
+31. Alex Kluchki
+   Email: arkluchki@indianatech.edu
+   Username: arkluchki
+   Original line: Alex Kluchki Assistant Coach arkluchki@indianatech.edu 260-344-
+
+32. Wes Wheeler
+   Email: wmwheeler@indianatech.edu
+   Username: wmwheeler
+   Original line: Wes Wheeler Assistant Coach wmwheeler@indianatech.edu
+
+33. Chauntiel Smith
+   Email: cns01@indianatech.edu
+   Username: cns01
+   Original line: Chauntiel Smith Assistant Coach cns01@indianatech.edu
+
+34. Brandon Bronzan
+   Email: bjbronzan@indianatech.edu
+   Username: bjbronzan
+   Original line: Brandon Bronzan Assistant Coach (Distance) bjbronzan@indianatech.edu
+
+35. JW Maierle
+   Email: jtmaierle@indianatech.edu
+   Username: jtmaierle
+   Original line: JW Maierle Assistant Coach jtmaierle@indianatech.edu 574-377-
+
+36. Jessie Biggs
+   Email: jnbiggs@indianatech.edu
+   Username: jnbiggs
+   Original line: Jessie Biggs Head Coach jnbiggs@indianatech.edu 260-399-
+
+37. Kylene Biggs
+   Email: kmbiggs@indianatech.edu
+   Username: kmbiggs
+   Original line: Kylene Biggs Associate Head Coach kmbiggs@indianatech.edu 260-344-
+
+38. Ed DePrey
+   Email: ecdeprey@indianatech.edu
+   Username: ecdeprey
+   Original line: Ed DePrey Assistant Coach ecdeprey@indianatech.edu 260-740-
+
+39. DeAnn Kauffman
+   Email: dmhuber@indianatech.edu
+   Username: dmhuber
+   Original line: DeAnn Kauffman Assistant Coach dmhuber@indianatech.edu
+
+40. Liam Ross
+   Email: sfross@indianatech.edu
+   Username: sfross
+   Original line: Liam Ross Head Coach sfross@indianatech.edu 260-344-
+
+41. Alexis DiGiovanni
+   Email: akdigiovanni@indianatech.edu
+   Username: akdigiovanni
+   Original line: Alexis DiGiovanni Head Coach akdigiovanni@indianatech.edu 260-344-
+
+42. Amanda Belote
+   Email: ambelote@indianatech.edu
+   Username: ambelote
+   Original line: Amanda Belote Assistant Coach ambelote@indianatech.edu
+
+43. MiKayla Virden
+   Email: dmvirden@indianatech.edu
+   Username: dmvirden
+   Original line: MiKayla Virden Assistant Coach dmvirden@indianatech.edu
+
+44. Andrea Gorton
+   Email: AMGorton@indianatech.edu
+   Username: AMGorton
+   Original line: Andrea Gorton Head Coach AMGorton@indianatech.edu 260-344-
+
+45. Chloe Smithley
+   Email: casmithley@indianatech.edu
+   Username: casmithley
+   Original line: Chloe Smithley Assistant Coach/Operations Manager casmithley@indianatech.edu 260-344-
+
+46. Matt Fishman
+   Email: mrfishman@indianatech.edu
+   Username: mrfishman
+   Original line: Matt Fishman Head Women's Volleyball Coach mrfishman@indianatech.edu 260-344-
+
+47. Robert Ochoa
+   Email: rlochoa@indianatech.edu
+   Username: rlochoa
+   Original line: Robert Ochoa Assistant Coach rlochoa@indianatech.edu 260-710-
+
+48. Nyssa Baker
+   Email: ncbaker@indianatech.edu
+   Username: ncbaker
+   Original line: Nyssa Baker Graduate Assistant Coach ncbaker@indianatech.edu
+
+49. Paul Rademacher
+   Email: pdrademacher@indianatech.edu
+   Username: pdrademacher
+   Original line: Paul Rademacher Head Coach pdrademacher@indianatech.edu 260-344-
+
+50. Zachary Brown
+   Email: ztbrown@indianatech.edu
+   Username: ztbrown
+   Original line: Zachary Brown Assistant Coach ztbrown@indianatech.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Lauren Tait Peak Performance Coach lntait@indianatech.edu
+• Dominic Greenman Head Coach dmgreenman@indianatech.edu 260-344-
+• Dominic Greenman Head Coach dmgreenman@indianatech.edu 260-344-
+• Dominic Greenman Head Coach dmgreenman@indianatech.edu 260-344-
+• Kip McWilliams Head Coach kdmcwilliams@indianatech.edu 260-344-
+• Brent Alwine Associate Head Coach bjalwine@indianatech.edu 260-222-
+• Gordon Turner Assistant Coach grturner@indianatech.edu 765-623-
+• Tyler DeJonge Head Coach tjdejonge@indianatech.edu 260-344-
+• Doug Cutler Assistant Coach dacutler@indianatech.edu
+• Alex Kluchki Head Coach arkluchki@indianatech.edu 260-344-
+• Brandon Bronzan Assistant Coach (Distance) bjbronzan@indianatech.edu
+• Jake Middleton Head Coach JDMiddleton@indianatech.edu 260-344-
+• Mark Beneke Head Coach mwbeneke@indianatech.edu 260-344-
+• Jessica Steward Assistant Coach jjsteward@indiantech.edu 260-422-
+• Ted Albert Head Coach tcalbert@indianatech.edu 260-267-
+• Javante Wilson Assistant Coach jjwilson-young@indianatech.edu
+• Frank DiCristofaro Head Coach fpdicristofaro@indianatech.edu 260-344-
+• Bryan Seaman Head Coach bcseaman@indianatech.edu 260-344-
+• Sam DiFilippo Head Coach sjdifilippo@indianatech.edu 260-344-
+• Anansa Harris Assistant Coach ARHarris@indianatech.edu
+• Keelan Barker Head Coach krbarker@indianatech.edu 260-344-
+• Jack Rose Assistant Coach jsrose@indianatech.edu
+• Jordan Rosenberg Head Coach JXRosenberg@indianatech.edu 260-344-
+• Byron VonGunten Assistant Coach bcvongunten@indianatech.edu
+• Thomas Pompei Head Coach tapompei@indianatech.edu 260-344-
+• Travis Barroquillo Assistant Coach trbarroquillo@indianatech.edu 260-336-
+• Wade McClurg Assistant Coach wtmcclurg@indianatech.edu 317-501-
+• Chase Wilson Assistant Coach cawilson@indianatech.edu 765-469-
+• Stephanie Zimny Head Coach smzimny@indianatech.edu 260-344-
+• Doug Edgar Head Coach djedgar@indianatech.edu 260-344-
+• Alex Kluchki Assistant Coach arkluchki@indianatech.edu 260-344-
+• Wes Wheeler Assistant Coach wmwheeler@indianatech.edu
+• Chauntiel Smith Assistant Coach cns01@indianatech.edu
+• Brandon Bronzan Assistant Coach (Distance) bjbronzan@indianatech.edu
+• JW Maierle Assistant Coach jtmaierle@indianatech.edu 574-377-
+• Jessie Biggs Head Coach jnbiggs@indianatech.edu 260-399-
+• Kylene Biggs Associate Head Coach kmbiggs@indianatech.edu 260-344-
+• Ed DePrey Assistant Coach ecdeprey@indianatech.edu 260-740-
+• DeAnn Kauffman Assistant Coach dmhuber@indianatech.edu
+• Liam Ross Head Coach sfross@indianatech.edu 260-344-
+• Alexis DiGiovanni Head Coach akdigiovanni@indianatech.edu 260-344-
+• Amanda Belote Assistant Coach ambelote@indianatech.edu
+• MiKayla Virden Assistant Coach dmvirden@indianatech.edu
+• Andrea Gorton Head Coach AMGorton@indianatech.edu 260-344-
+• Chloe Smithley Assistant Coach/Operations Manager casmithley@indianatech.edu 260-344-
+• Matt Fishman Head Women's Volleyball Coach mrfishman@indianatech.edu 260-344-
+• Robert Ochoa Assistant Coach rlochoa@indianatech.edu 260-710-
+• Nyssa Baker Graduate Assistant Coach ncbaker@indianatech.edu
+• Paul Rademacher Head Coach pdrademacher@indianatech.edu 260-344-
+• Zachary Brown Assistant Coach ztbrown@indianatech.edu

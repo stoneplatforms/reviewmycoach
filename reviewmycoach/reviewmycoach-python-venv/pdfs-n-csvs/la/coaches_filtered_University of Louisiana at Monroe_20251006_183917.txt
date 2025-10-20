@@ -1,0 +1,202 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:17
+============================================================
+
+Total coaches found: 30
+
+PARSED ENTRIES:
+----------------------------------------
+1. Bella Golden
+   Email: Igolden@ulm.edu
+   Username: Igolden
+   Original line: Bella Golden Strength & Conditioning Coach Igolden@ulm.edu
+
+2. Ford Pemberton
+   Email: baseball@ulm.edu
+   Username: baseball
+   Original line: Ford Pemberton Head Baseball Coach baseball@ulm.edu FordPemberton
+
+3. Brady Cox
+   Email: brcox@ulm.edu
+   Username: brcox
+   Original line: Brady Cox Assistant Baseball Coach - brcox@ulm.edu
+
+4. Henri Lartigue
+   Email: lartigue@ulm.edu
+   Username: lartigue
+   Original line: Henri Lartigue Assistant Baseball Coach - lartigue@ulm.edu
+
+5. Ryan Shotzberger
+   Email: shotzberger@ulm.edu
+   Username: shotzberger
+   Original line: Ryan Shotzberger Assistant Baseball Coach shotzberger@ulm.edu
+
+6. Phil Cunningham
+   Email: pcunningham@ulm.edu
+   Username: pcunningham
+   Original line: Phil Cunningham Head Men's Basketball Coach pcunningham@ulm.edu
+
+7. Baylee Young
+   Email: byoung@ulm.edu
+   Username: byoung
+   Original line: Baylee Young Head Beach Volleyball Coach byoung@ulm.edu
+
+8. Bryant Vincent
+   Email: vincent@ulm.edu
+   Username: vincent
+   Phone: (318) 342-7015
+   Original line: Bryant Vincent Head Football Coach 318-342-7015 vincent@ulm.edu bryantvincent44
+
+9. Hindley Brigham
+   Email: brigham@ulm.edu
+   Username: brigham
+   Original line: Hindley Brigham Assistant Coach - Running brigham@ulm.edu
+
+10. Taylor Dupuis
+   Email: dupuis@ulm.edu
+   Username: dupuis
+   Phone: (318) 342-7015
+   Original line: Taylor Dupuis Assistant Coach - Quarterbacks 318-342-7015 dupuis@ulm.edu
+
+11. Sammy Joseph
+   Email: sajoseph@ulm.edu
+   Username: sajoseph
+   Phone: (318) 342-7015
+   Original line: Sammy Joseph Assistant Coach - Nickels 318-342-7015 sajoseph@ulm.edu
+
+12. Kishawn McClain
+   Email: kmcclain@ulm.edu
+   Username: kmcclain
+   Original line: Kishawn McClain Assistant Coach - Wide kmcclain@ulm.edu
+
+13. Troy Reffett
+   Email: reffett@ulm.edu
+   Username: reffett
+   Phone: (318) 342-7015
+   Original line: Troy Reffett Assistant Coach - Inside 318-342-7015 reffett@ulm.edu
+
+14. Brady Vincent
+   Email: bvincent@ulm.edu
+   Username: bvincent
+   Phone: (318) 342-7015
+   Original line: Brady Vincent Assistant Coach - Tight Ends 318-342-7015 bvincent@ulm.edu
+
+15. Davern Williams
+   Email: dawilliams@ulm.edu
+   Username: dawilliams
+   Phone: (318) 342-7015
+   Original line: Davern Williams Assistant Coach - Defensive 318-342-7015 dawilliams@ulm.edu
+
+16. Cody Wells
+   Email: wells@ulm.edu
+   Username: wells
+   Original line: Cody Wells Offensive Assistant Coach wells@ulm.edu
+
+17. Nathan Weant
+   Email: weant@ulm.edu
+   Username: weant
+   Original line: Nathan Weant Head Men's Golf Coach weant@ulm.edu
+
+18. Rachel Pollock
+   Email: pollock@ulm.edu
+   Username: pollock
+   Phone: (318) 342-5531
+   Original line: Rachel Pollock Head Women's Golf Coach 318-342-5531 pollock@ulm.edu
+
+19. Olivia Schmidt
+   Email: oschmidt@ulm.edu
+   Username: oschmidt
+   Original line: Olivia Schmidt Assistant Women's Golf Coach oschmidt@ulm.edu
+
+20. Will Roberts
+   Email: wroberts@ulm.edu
+   Username: wroberts
+   Phone: (318) 342-3598
+   Original line: Will Roberts Head Soccer Coach 318-342-3598 wroberts@ulm.edu
+
+21. Matthew Caley
+   Email: caley@ulm.edu
+   Username: caley
+   Original line: Matthew Caley Associate Head Coach caley@ulm.edu
+
+22. Molly Fichtner
+   Email: fichtner@ulm.edu
+   Username: fichtner
+   Phone: (318) 342-5412
+   Original line: Molly Fichtner Head Softball Coach 318-342-5412 fichtner@ulm.edu
+
+23. Lea Wodach
+   Email: wodach@ulm.edu
+   Username: wodach
+   Phone: (318) 342-5408
+   Original line: Lea Wodach Associate Head Softball Coach 318-342-5408 wodach@ulm.edu
+
+24. Daniel Shipley
+   Email: shipley@ulm.edu
+   Username: shipley
+   Original line: Daniel Shipley Assistant Softball Coach shipley@ulm.edu
+
+25. Paul Miklovic
+   Email: miklovicpr@warhawks.ulm.edu
+   Username: miklovicpr
+   Original line: Paul Miklovic Assistant Softball Coach miklovicpr@warhawks.ulm.edu
+
+26. J.D. Malone
+   Email: malone@ulm.edu
+   Username: malone
+   Phone: (318) 342-5390
+   Original line: J.D. Malone Head Coach 318-342-5390 malone@ulm.edu
+
+27. Nate Baker
+   Email: nbaker@ulm.edu
+   Username: nbaker
+   Original line: Nate Baker Assistant Track and Field Coach nbaker@ulm.edu
+
+28. Christopher Manuele
+   Email: manuele@ulm.edu
+   Username: manuele
+   Original line: Christopher Manuele Assistant Track and Field Coach manuele@ulm.edu
+
+29. Ben Lamb
+   Email: blamb@ulm.edu
+   Username: blamb
+   Original line: Ben Lamb Assistant Cross Country Coach blamb@ulm.edu
+
+30. Reid Gann
+   Email: rgann@ulm.edu
+   Username: rgann
+   Original line: Reid Gann Head Indoor Volleyball Coach rgann@ulm.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Bella Golden Strength & Conditioning Coach Igolden@ulm.edu
+• Ford Pemberton Head Baseball Coach baseball@ulm.edu FordPemberton
+• Brady Cox Assistant Baseball Coach - brcox@ulm.edu
+• Henri Lartigue Assistant Baseball Coach - lartigue@ulm.edu
+• Ryan Shotzberger Assistant Baseball Coach shotzberger@ulm.edu
+• Phil Cunningham Head Men's Basketball Coach pcunningham@ulm.edu
+• Baylee Young Head Beach Volleyball Coach byoung@ulm.edu
+• Bryant Vincent Head Football Coach 318-342-7015 vincent@ulm.edu bryantvincent44
+• Hindley Brigham Assistant Coach - Running brigham@ulm.edu
+• Taylor Dupuis Assistant Coach - Quarterbacks 318-342-7015 dupuis@ulm.edu
+• Sammy Joseph Assistant Coach - Nickels 318-342-7015 sajoseph@ulm.edu
+• Kishawn McClain Assistant Coach - Wide kmcclain@ulm.edu
+• Troy Reffett Assistant Coach - Inside 318-342-7015 reffett@ulm.edu
+• Brady Vincent Assistant Coach - Tight Ends 318-342-7015 bvincent@ulm.edu
+• Davern Williams Assistant Coach - Defensive 318-342-7015 dawilliams@ulm.edu
+• Cody Wells Offensive Assistant Coach wells@ulm.edu
+• Nathan Weant Head Men's Golf Coach weant@ulm.edu
+• Rachel Pollock Head Women's Golf Coach 318-342-5531 pollock@ulm.edu
+• Olivia Schmidt Assistant Women's Golf Coach oschmidt@ulm.edu
+• Will Roberts Head Soccer Coach 318-342-3598 wroberts@ulm.edu
+• Matthew Caley Associate Head Coach caley@ulm.edu
+• Molly Fichtner Head Softball Coach 318-342-5412 fichtner@ulm.edu
+• Lea Wodach Associate Head Softball Coach 318-342-5408 wodach@ulm.edu
+• Daniel Shipley Assistant Softball Coach shipley@ulm.edu
+• Paul Miklovic Assistant Softball Coach miklovicpr@warhawks.ulm.edu
+• J.D. Malone Head Coach 318-342-5390 malone@ulm.edu
+• Nate Baker Assistant Track and Field Coach nbaker@ulm.edu
+• Christopher Manuele Assistant Track and Field Coach manuele@ulm.edu
+• Ben Lamb Assistant Cross Country Coach blamb@ulm.edu
+• Reid Gann Head Indoor Volleyball Coach rgann@ulm.edu

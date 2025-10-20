@@ -1,0 +1,74 @@
+COACH ENTRIES FOUND - 2025-10-19 04:32:21
+============================================================
+
+Total coaches found: 9
+
+PARSED ENTRIES:
+----------------------------------------
+1. Victor Esparza
+   Email: coachvic@opsu.edu
+   Username: coachvic
+   Phone: 580.349.1406
+   Original line: Victor Esparza Athletics Director coachvic@opsu.edu 580.349.1406 @coach_esparza
+
+2. Rebekah Wiech
+   Email: rwiech@opsu.edu
+   Username: rwiech
+   Phone: 580.349.1330
+   Original line: Rebekah Wiech Head Cheer Coach / rwiech@opsu.edu 580.349.1330
+
+3. Jared Mayeda
+   Email: jmayeda@opsu.edu
+   Username: jmayeda
+   Phone: 580.349.1337
+   Original line: Jared Mayeda Head Baseball Coach jmayeda@opsu.edu 580.349.1337 @Jared_Mayeda
+
+4. Rebekah Wiech
+   Email: rwiech@opsu.edu
+   Username: rwiech
+   Phone: 580.349.1330
+   Original line: Rebekah Wiech Head Cheer Coach / rwiech@opsu.edu 580.349.1330
+
+5. Cory Miller
+   Email: corbett.miller@opsu.edu
+   Username: corbett.miller
+   Phone: 580.349.1332
+   Original line: Cory Miller Head Football Coach corbett.miller@opsu.edu 580.349.1332
+
+6. Brandon Ebelhar
+   Email: brandon.ebelhar@opsu.edu
+   Username: brandon.ebelhar
+   Phone: 580.349.1335
+   Original line: Brandon Ebelhar Offensive Line Coach/ brandon.ebelhar@opsu.edu 580.349.1335
+
+7. Shelbie Rose
+   Email: shelbie.weeder@opsu.edu
+   Username: shelbie.weeder
+   Phone: 580.349.1349
+   Original line: Shelbie Rose Head Rodeo Coach shelbie.weeder@opsu.edu 580.349.1349
+
+8. Jim Walker
+   Email: jim.walker10@opsu.edu
+   Username: jim.walker10
+   Phone: 580.349.1322
+   Original line: Jim Walker Head Softball Coach jim.walker10@opsu.edu 580.349.1322
+
+9. Brandon Ebelhar
+   Email: brandon.ebelhar@opsu.edu
+   Username: brandon.ebelhar
+   Phone: 580.349.1335
+   Original line: Brandon Ebelhar Offensive Line Coach/ brandon.ebelhar@opsu.edu 580.349.1335
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Victor Esparza Athletics Director coachvic@opsu.edu 580.349.1406 @coach_esparza
+• Rebekah Wiech Head Cheer Coach / rwiech@opsu.edu 580.349.1330
+• Jared Mayeda Head Baseball Coach jmayeda@opsu.edu 580.349.1337 @Jared_Mayeda
+• Rebekah Wiech Head Cheer Coach / rwiech@opsu.edu 580.349.1330
+• Cory Miller Head Football Coach corbett.miller@opsu.edu 580.349.1332
+• Brandon Ebelhar Offensive Line Coach/ brandon.ebelhar@opsu.edu 580.349.1335
+• Shelbie Rose Head Rodeo Coach shelbie.weeder@opsu.edu 580.349.1349
+• Jim Walker Head Softball Coach jim.walker10@opsu.edu 580.349.1322
+• Brandon Ebelhar Offensive Line Coach/ brandon.ebelhar@opsu.edu 580.349.1335

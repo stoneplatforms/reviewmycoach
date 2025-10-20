@@ -1,0 +1,131 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:15
+============================================================
+
+Total coaches found: 20
+
+PARSED ENTRIES:
+----------------------------------------
+1. Assistant Coach,
+   Email: drickaby@tulane.edu
+   Username: drickaby
+   Original line: Assistant Coach, Strength & Conditioning (MBB) drickaby@tulane.edu
+
+2. Associate Head
+   Email: aizzio@tulane.edu
+   Username: aizzio
+   Original line: Associate Head Coach / Pitching Coach aizzio@tulane.edu
+
+3. Associate Head
+   Email: hmccallum@tulane.edu
+   Username: hmccallum
+   Original line: Associate Head Coach hmccallum@tulane.edu
+
+4. Assistant Coach
+   Email: cpardue@tulane.edu
+   Username: cpardue
+   Original line: Assistant Coach cpardue@tulane.edu
+
+5. Assistant Coach/Director,
+   Email: smock1@tulane.edu
+   Username: smock1
+   Original line: Assistant Coach/Director, Recruiting smock1@tulane.edu
+
+6. Head Coach
+   Email: ezimet@tulane.edu
+   Username: ezimet
+   Original line: Head Coach ezimet@tulane.edu
+
+7. Head Coach
+   Email: hbeavis@tulane.edu
+   Username: hbeavis
+   Original line: Head Coach hbeavis@tulane.edu
+
+8. Associate Director,
+   Email: hrichards@tulane.edu
+   Username: hrichards
+   Original line: Associate Director, Player Relations/Asst. to Head Coach hrichards@tulane.edu
+
+9. Head Coach
+   Email: akaelin@tulane.edu
+   Username: akaelin
+   Original line: Head Coach akaelin@tulane.edu
+
+10. Head Coach
+   Email: chiggins1@tulane.edu
+   Username: chiggins1
+   Original line: Head Coach chiggins1@tulane.edu
+
+11. Assistant Coach
+   Email: jrovniak@tulane.edu
+   Username: jrovniak
+   Original line: Assistant Coach jrovniak@tulane.edu
+
+12. Head Coach
+   Email: acaldwell2@tulane.edu
+   Username: acaldwell2
+   Original line: Head Coach acaldwell2@tulane.edu
+
+13. Assistant Coach,
+   Email: ccampbell6@tulane.edu
+   Username: ccampbell6
+   Original line: Assistant Coach, Women's Swimming ccampbell6@tulane.edu
+
+14. Dive Coach
+   Email: jmoser1@tulane.edu
+   Username: jmoser1
+   Original line: Dive Coach jmoser1@tulane.edu
+
+15. Head Coach/Director,
+   Email: mbooras@tulane.edu
+   Username: mbooras
+   Original line: Head Coach/Director, Tennis mbooras@tulane.edu
+
+16. Head Coach
+   Email: mbritopena@tulane.edu
+   Username: mbritopena
+   Original line: Head Coach mbritopena@tulane.edu
+
+17. Assistant Coach
+   Email: kwong6@tulane.edu
+   Username: kwong6
+   Original line: Assistant Coach kwong6@tulane.edu
+
+18. Associate Head
+   Email: aeggerth@tulane.edu
+   Username: aeggerth
+   Original line: Associate Head Coach, Track & Field aeggerth@tulane.edu
+
+19. Assistant Coach,
+   Email: dsilversmith@tulane.edu
+   Username: dsilversmith
+   Original line: Assistant Coach, Cross Country / Track & Field dsilversmith@tulane.edu
+
+20. Head Coach
+   Email: coachprice@tulane.edu
+   Username: coachprice
+   Original line: Head Coach coachprice@tulane.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Assistant Coach, Strength & Conditioning (MBB) drickaby@tulane.edu
+• Associate Head Coach / Pitching Coach aizzio@tulane.edu
+• Associate Head Coach hmccallum@tulane.edu
+• Assistant Coach cpardue@tulane.edu
+• Assistant Coach/Director, Recruiting smock1@tulane.edu
+• Head Coach ezimet@tulane.edu
+• Head Coach hbeavis@tulane.edu
+• Associate Director, Player Relations/Asst. to Head Coach hrichards@tulane.edu
+• Head Coach akaelin@tulane.edu
+• Head Coach chiggins1@tulane.edu
+• Assistant Coach jrovniak@tulane.edu
+• Head Coach acaldwell2@tulane.edu
+• Assistant Coach, Women's Swimming ccampbell6@tulane.edu
+• Dive Coach jmoser1@tulane.edu
+• Head Coach/Director, Tennis mbooras@tulane.edu
+• Head Coach mbritopena@tulane.edu
+• Assistant Coach kwong6@tulane.edu
+• Associate Head Coach, Track & Field aeggerth@tulane.edu
+• Assistant Coach, Cross Country / Track & Field dsilversmith@tulane.edu
+• Head Coach coachprice@tulane.edu

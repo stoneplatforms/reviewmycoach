@@ -1,0 +1,122 @@
+COACH ENTRIES FOUND - 2025-10-19 04:58:21
+============================================================
+
+Total coaches found: 17
+
+PARSED ENTRIES:
+----------------------------------------
+1. Joey August
+   Email: joey.august@wallawalla.edu
+   Username: joey.august
+   Phone: (509) 540-0846
+   Original line: Joey August Strength & Conditioning Coach joey.august@wallawalla.edu (509) 540-0846
+
+2. Brandon Broome
+   Email: brandon.broome@wallawalla.edu
+   Username: brandon.broome
+   Phone: (509) 527-2159
+   Original line: Brandon Broome Head Coach brandon.broome@wallawalla.edu (509) 527-2159
+
+3. Makana Stone
+   Email: makana.stone@wallawalla.edu
+   Username: makana.stone
+   Original line: Makana Stone Head Coach makana.stone@wallawalla.edu
+
+4. Brady Svilich
+   Email: brady.svilich@wallawalla.edu
+   Username: brady.svilich
+   Original line: Brady Svilich Head Coach brady.svilich@wallawalla.edu
+
+5. Jennifer Goodwin
+   Email: jennifer.goodwin@wallawalla.edu
+   Username: jennifer.goodwin
+   Phone: (509) 876-7051
+   Original line: Jennifer Goodwin Assistant Coach jennifer.goodwin@wallawalla.edu (509) 876-7051
+
+6. Mason Palmer
+   Email: mason.palmer@wallawalla.edu
+   Username: mason.palmer
+   Original line: Mason Palmer Head Coach mason.palmer@wallawalla.edu
+
+7. Mike Kearbey
+   Email: mike.kearbey@wallawalla.edu
+   Username: mike.kearbey
+   Original line: Mike Kearbey Assistant Coach mike.kearbey@wallawalla.edu
+
+8. Nestor Osorio
+   Email: nestor.osorio@wallawalla.edu
+   Username: nestor.osorio
+   Phone: (509) 956-5913
+   Original line: Nestor Osorio Assistant Coach nestor.osorio@wallawalla.edu (509) 956-5913
+
+9. Greg Dodds
+   Email: greg.dodds@wallawalla.edu
+   Username: greg.dodds
+   Original line: Greg Dodds Assistant Golf Coach greg.dodds@wallawalla.edu
+
+10. Jose Garcia
+   Email: jose.garcia@wallawalla.edu
+   Username: jose.garcia
+   Phone: (541) 861-0611
+   Original line: Jose Garcia Head Coach jose.garcia@wallawalla.edu (541) 861-0611
+
+11. Andy Myers
+   Email: andrew.myers@wallawalla.edu
+   Username: andrew.myers
+   Original line: Andy Myers Assistant Coach andrew.myers@wallawalla.edu
+
+12. Cameron Perron
+   Email: cameron.perron@wallawalla.edu
+   Username: cameron.perron
+   Original line: Cameron Perron Goalkeeper Coach cameron.perron@wallawalla.edu
+
+13. Cameron Perron
+   Email: cameron.perron@wallawalla.edu
+   Username: cameron.perron
+   Original line: Cameron Perron Head Coach cameron.perron@wallawalla.edu
+
+14. Kiana Krumm
+   Email: kiana.krumm@wallawalla.edu
+   Username: kiana.krumm
+   Phone: (951) 977-6447
+   Original line: Kiana Krumm Women's Volleyball Head Coach, Men's Volleyball Assistant Coach kiana.krumm@wallawalla.edu (951) 977-6447
+
+15. Danel Calvente
+   Email: danel.calvente@wallawalla.edu
+   Username: danel.calvente
+   Phone: (951) 573-9948
+   Original line: Danel Calvente Men's Volleyball Head Coach, Women's Volleyball Assistant Coach danel.calvente@wallawalla.edu (951) 573-9948
+
+16. Danel Calvente
+   Email: danel.calvente@wallawalla.edu
+   Username: danel.calvente
+   Phone: (951) 573-9948
+   Original line: Danel Calvente Men's Volleyball Head Coach, Women's Volleyball Assistant Coach danel.calvente@wallawalla.edu (951) 573-9948
+
+17. Kiana Krumm
+   Email: kiana.krumm@wallawalla.edu
+   Username: kiana.krumm
+   Phone: (951) 977-6447
+   Original line: Kiana Krumm Women's Volleyball Head Coach, Men's Volleyball Assistant Coach kiana.krumm@wallawalla.edu (951) 977-6447
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Joey August Strength & Conditioning Coach joey.august@wallawalla.edu (509) 540-0846
+• Brandon Broome Head Coach brandon.broome@wallawalla.edu (509) 527-2159
+• Makana Stone Head Coach makana.stone@wallawalla.edu
+• Brady Svilich Head Coach brady.svilich@wallawalla.edu
+• Jennifer Goodwin Assistant Coach jennifer.goodwin@wallawalla.edu (509) 876-7051
+• Mason Palmer Head Coach mason.palmer@wallawalla.edu
+• Mike Kearbey Assistant Coach mike.kearbey@wallawalla.edu
+• Nestor Osorio Assistant Coach nestor.osorio@wallawalla.edu (509) 956-5913
+• Greg Dodds Assistant Golf Coach greg.dodds@wallawalla.edu
+• Jose Garcia Head Coach jose.garcia@wallawalla.edu (541) 861-0611
+• Andy Myers Assistant Coach andrew.myers@wallawalla.edu
+• Cameron Perron Goalkeeper Coach cameron.perron@wallawalla.edu
+• Cameron Perron Head Coach cameron.perron@wallawalla.edu
+• Kiana Krumm Women's Volleyball Head Coach, Men's Volleyball Assistant Coach kiana.krumm@wallawalla.edu (951) 977-6447
+• Danel Calvente Men's Volleyball Head Coach, Women's Volleyball Assistant Coach danel.calvente@wallawalla.edu (951) 573-9948
+• Danel Calvente Men's Volleyball Head Coach, Women's Volleyball Assistant Coach danel.calvente@wallawalla.edu (951) 573-9948
+• Kiana Krumm Women's Volleyball Head Coach, Men's Volleyball Assistant Coach kiana.krumm@wallawalla.edu (951) 977-6447

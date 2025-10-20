@@ -1,0 +1,158 @@
+COACH ENTRIES FOUND - 2025-10-04 18:10:34
+============================================================
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rachelle Sayers
+   Email: rsayers@carroll.edu
+   Username: rsayers
+   Original line: Rachelle Sayers Head Women's Basketball Coach / Assistant AD - Senior Women's rsayers@carroll.edu (406) 447-
+
+2. Shannon Flynn
+   Email: sflynn@carroll.edu
+   Username: sflynn
+   Original line: Shannon Flynn Head Coach - Cross Country; Assistant Coach - Track & Field; Eligibility sflynn@carroll.edu
+
+3. Shannon Flynn
+   Email: sflynn@carroll.edu
+   Username: sflynn
+   Original line: Shannon Flynn Head Coach - Cross Country; Assistant Coach - Track & Field; Eligibility sflynn@carroll.edu
+
+4. Troy Purcell
+   Email: tpurcell@carroll.edu
+   Username: tpurcell
+   Phone: (406) 447-4485
+   Original line: Troy Purcell Head Football Coach tpurcell@carroll.edu 406-447-4485
+
+5. Alex Pfannenstiel
+   Email: apfannenstiel@carroll.edu
+   Username: apfannenstiel
+   Phone: (406) 447-4485
+   Original line: Alex Pfannenstiel Assistant Coach -Offensive Coordinator/Recruiting Coordinator/Wide apfannenstiel@carroll.edu 406-447-4485
+
+6. Randy Bandelow
+   Email: rbandelow@carroll.edu
+   Username: rbandelow
+   Phone: (406) 447-5193
+   Original line: Randy Bandelow Assistant Coach - Defensive Coordinator/Linebackers rbandelow@carroll.edu 406-447-5193
+
+7. Dan Pearson
+   Email: dpearson@carroll.edu
+   Username: dpearson
+   Original line: Dan Pearson Head Coach - Men's Basketball dpearson@carroll.edu (406) 447-
+
+8. Brad Schmit
+   Email: bschmit@carroll.edu
+   Username: bschmit
+   Original line: Brad Schmit Lead Assistant Coach - Men's Basketball bschmit@carroll.edu
+
+9. Rachelle Sayers
+   Email: rsayers@carroll.edu
+   Username: rsayers
+   Original line: Rachelle Sayers Head Women's Basketball Coach / Assistant AD - Senior Women's rsayers@carroll.edu (406) 447-
+
+10. Harry Clark
+   Email: hclark@carroll.edu
+   Username: hclark
+   Phone: (406) 447-4486
+   Original line: Harry Clark Head Coach - Track and Field hclark@carroll.edu 406-447-4486
+
+11. Shannon Flynn
+   Email: sflynn@carroll.edu
+   Username: sflynn
+   Original line: Shannon Flynn Head Coach - Cross Country; Assistant Coach - Track & Field; Eligibility sflynn@carroll.edu
+
+12. Jimmy Stanton
+   Email: jstanton@carroll.edu
+   Username: jstanton
+   Phone: (406) 447-4486
+   Original line: Jimmy Stanton Assistant Coach - Track and Field, Throwing jstanton@carroll.edu 406-447-4486
+
+13. Shannon Flynn
+   Email: sflynn@carroll.edu
+   Username: sflynn
+   Original line: Shannon Flynn Head Coach - Cross Country; Assistant Coach - Track & Field; Eligibility sflynn@carroll.edu
+
+14. Bennett MacIntyre
+   Email: bmacintyre@carroll.edu
+   Username: bmacintyre
+   Phone: (406)447-4374
+   Original line: Bennett MacIntyre Head Golf Coach bmacintyre@carroll.edu (406)447-4374
+
+15. Shawna Juarez
+   Email: sjuarez@carroll.edu
+   Username: sjuarez
+   Original line: Shawna Juarez Head Coach - Softball sjuarez@carroll.edu
+
+16. Maureen Boyle
+   Email: mboyle@carroll.edu
+   Username: mboyle
+   Phone: (406)447-4487
+   Original line: Maureen Boyle Head Volleyball Coach mboyle@carroll.edu (406)447-4487
+
+17. David Thorvilson
+   Email: dthorvil@carroll.edu
+   Username: dthorvil
+   Phone: (406)447-5518
+   Original line: David Thorvilson Head Women's Soccer Coach dthorvil@carroll.edu (406)447-5518
+
+18. Meghan O'Connell
+   Email: moconnell@carroll.edu
+   Username: moconnell
+   Original line: Meghan O'Connell Assistant Coach - Women's Soccer moconnell@carroll.edu
+
+19. Austin Shick
+   Email: ashick@carroll.edu
+   Username: ashick
+   Phone: (406) 447-5456
+   Original line: Austin Shick Head Coach - Men's Soccer / Facility Usage Liaison ashick@carroll.edu 406-447-5456
+
+20. Rich Donofrio
+   Email: rdonofrio@carroll.edu
+   Username: rdonofrio
+   Original line: Rich Donofrio Assistant Coach - Men's Soccer rdonofrio@carroll.edu
+
+21. Wayne Gardella
+   Email: wgardella@carroll.edu
+   Username: wgardella
+   Original line: Wayne Gardella Assistant Coach - Men's Soccer wgardella@carroll.edu
+
+22. Brooklyn Purcell
+   Email: bpurcell@carroll.edu
+   Username: bpurcell
+   Original line: Brooklyn Purcell Head Coach - Competitive Cheer bpurcell@carroll.edu
+
+23. Faith Edmister
+   Email: fedmister@carroll.edu
+   Username: fedmister
+   Original line: Faith Edmister Head Coach - Competitive Dance fedmister@carroll.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rachelle Sayers Head Women's Basketball Coach / Assistant AD - Senior Women's rsayers@carroll.edu (406) 447-
+• Shannon Flynn Head Coach - Cross Country; Assistant Coach - Track & Field; Eligibility sflynn@carroll.edu
+• Shannon Flynn Head Coach - Cross Country; Assistant Coach - Track & Field; Eligibility sflynn@carroll.edu
+• Troy Purcell Head Football Coach tpurcell@carroll.edu 406-447-4485
+• Alex Pfannenstiel Assistant Coach -Offensive Coordinator/Recruiting Coordinator/Wide apfannenstiel@carroll.edu 406-447-4485
+• Randy Bandelow Assistant Coach - Defensive Coordinator/Linebackers rbandelow@carroll.edu 406-447-5193
+• Dan Pearson Head Coach - Men's Basketball dpearson@carroll.edu (406) 447-
+• Brad Schmit Lead Assistant Coach - Men's Basketball bschmit@carroll.edu
+• Rachelle Sayers Head Women's Basketball Coach / Assistant AD - Senior Women's rsayers@carroll.edu (406) 447-
+• Harry Clark Head Coach - Track and Field hclark@carroll.edu 406-447-4486
+• Shannon Flynn Head Coach - Cross Country; Assistant Coach - Track & Field; Eligibility sflynn@carroll.edu
+• Jimmy Stanton Assistant Coach - Track and Field, Throwing jstanton@carroll.edu 406-447-4486
+• Shannon Flynn Head Coach - Cross Country; Assistant Coach - Track & Field; Eligibility sflynn@carroll.edu
+• Bennett MacIntyre Head Golf Coach bmacintyre@carroll.edu (406)447-4374
+• Shawna Juarez Head Coach - Softball sjuarez@carroll.edu
+• Maureen Boyle Head Volleyball Coach mboyle@carroll.edu (406)447-4487
+• David Thorvilson Head Women's Soccer Coach dthorvil@carroll.edu (406)447-5518
+• Meghan O'Connell Assistant Coach - Women's Soccer moconnell@carroll.edu
+• Austin Shick Head Coach - Men's Soccer / Facility Usage Liaison ashick@carroll.edu 406-447-5456
+• Rich Donofrio Assistant Coach - Men's Soccer rdonofrio@carroll.edu
+• Wayne Gardella Assistant Coach - Men's Soccer wgardella@carroll.edu
+• Brooklyn Purcell Head Coach - Competitive Cheer bpurcell@carroll.edu
+• Faith Edmister Head Coach - Competitive Dance fedmister@carroll.edu

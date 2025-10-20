@@ -1,0 +1,95 @@
+COACH ENTRIES FOUND - 2025-10-06 18:42:00
+============================================================
+
+Total coaches found: 14
+
+PARSED ENTRIES:
+----------------------------------------
+1. Shawn Beyer
+   Email: sbeyer@soka.edu
+   Username: sbeyer
+   Original line: Shawn Beyer Head Coach, Men's Soccer sbeyer@soka.edu (949) 480-
+
+2. Alex Zotinca
+   Email: azotinca@soka.edu
+   Username: azotinca
+   Original line: Alex Zotinca Assistant Coach and Recruiting Coordinator, Men's Soccer azotinca@soka.edu (949) 269-
+
+3. Wendy Espejel
+   Email: wespejel@soka.edu
+   Username: wespejel
+   Original line: Wendy Espejel Head Coach, Women's Soccer wespejel@soka.edu (949) 480-
+
+4. Liam Delury
+   Email: ldelury@soka.edu
+   Username: ldelury
+   Original line: Liam Delury Assistant Coach and Recruiting Coordinator, Women's Soccer ldelury@soka.edu (949) 269-
+
+5. Adam Crossen
+   Email: acrossen@soka.edu
+   Username: acrossen
+   Original line: Adam Crossen Head Coach, Swimming & Diving acrossen@soka.edu (949) 480-
+
+6. Andrew Crowell
+   Email: acrowell@soka.edu
+   Username: acrowell
+   Original line: Andrew Crowell Assistant Coach and Recruiting Coordinator, Swimming & Diving acrowell@soka.edu (949) 480-
+
+7. Patrick Boivin
+   Email: pboivin@soka.edu
+   Username: pboivin
+   Original line: Patrick Boivin Head Coach, Cross Country / Track & Field pboivin@soka.edu (949) 480-
+
+8. Ryan Sanders
+   Email: rsanders@soka.edu
+   Username: rsanders
+   Original line: Ryan Sanders Assistant Coach and Recruiting Coordinator, Cross Country/ Track & Field rsanders@soka.edu (949) 480-
+
+9. Curtis Robinson
+   Email: curobinson@soka.edu
+   Username: curobinson
+   Original line: Curtis Robinson Head Coach, Golf curobinson@soka.edu (949) 269-
+
+10. Ciera Robinson
+   Email: cirobinson@soka.edu
+   Username: cirobinson
+   Original line: Ciera Robinson Assistant Coach and Recruiting Coordinator, Golf cirobinson@soka.edu (949)-269-
+
+11. Patrick Boivin
+   Email: pboivin@soka.edu
+   Username: pboivin
+   Original line: Patrick Boivin Head Coach, Cross Country / Track & Field pboivin@soka.edu (949) 480-
+
+12. Ryan Sanders
+   Email: rsanders@soka.edu
+   Username: rsanders
+   Original line: Ryan Sanders Assistant Coach and Recruiting Coordinator, Cross Country/ Track & Field rsanders@soka.edu (949) 480-
+
+13. Taylor Kushner
+   Email: tkushner@soka.edu
+   Username: tkushner
+   Original line: Taylor Kushner Head Coach, Volleyball tkushner@soka.edu (949)-269-
+
+14. Patrick Villanueva
+   Email: pvillanueva@soka.edu
+   Username: pvillanueva
+   Original line: Patrick Villanueva Assistant Coach and Recruiting Coordinator, Volleyball pvillanueva@soka.edu (949)-269-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Shawn Beyer Head Coach, Men's Soccer sbeyer@soka.edu (949) 480-
+• Alex Zotinca Assistant Coach and Recruiting Coordinator, Men's Soccer azotinca@soka.edu (949) 269-
+• Wendy Espejel Head Coach, Women's Soccer wespejel@soka.edu (949) 480-
+• Liam Delury Assistant Coach and Recruiting Coordinator, Women's Soccer ldelury@soka.edu (949) 269-
+• Adam Crossen Head Coach, Swimming & Diving acrossen@soka.edu (949) 480-
+• Andrew Crowell Assistant Coach and Recruiting Coordinator, Swimming & Diving acrowell@soka.edu (949) 480-
+• Patrick Boivin Head Coach, Cross Country / Track & Field pboivin@soka.edu (949) 480-
+• Ryan Sanders Assistant Coach and Recruiting Coordinator, Cross Country/ Track & Field rsanders@soka.edu (949) 480-
+• Curtis Robinson Head Coach, Golf curobinson@soka.edu (949) 269-
+• Ciera Robinson Assistant Coach and Recruiting Coordinator, Golf cirobinson@soka.edu (949)-269-
+• Patrick Boivin Head Coach, Cross Country / Track & Field pboivin@soka.edu (949) 480-
+• Ryan Sanders Assistant Coach and Recruiting Coordinator, Cross Country/ Track & Field rsanders@soka.edu (949) 480-
+• Taylor Kushner Head Coach, Volleyball tkushner@soka.edu (949)-269-
+• Patrick Villanueva Assistant Coach and Recruiting Coordinator, Volleyball pvillanueva@soka.edu (949)-269-

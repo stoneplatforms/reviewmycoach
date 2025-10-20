@@ -1,0 +1,106 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:42
+============================================================
+
+Total coaches found: 15
+
+PARSED ENTRIES:
+----------------------------------------
+1. Raheem Shabazz
+   Email: rshabazz@lanecollege.edu
+   Username: rshabazz
+   Original line: Raheem Shabazz Strength and Conditioning Coach rshabazz@lanecollege.edu
+
+2. Jeff De
+   Email: JDeLaConcha@lanecollege.edu
+   Username: JDeLaConcha
+   Phone: (727) 504-6262
+   Original line: Jeff De La Concha Head Coach JDeLaConcha@lanecollege.edu (727) 504-6262
+
+3. Harold Rayford
+   Email: hrayford@lanecollege.edu
+   Username: hrayford
+   Phone: (731) 410-6708
+   Original line: Harold Rayford Head Men's Basketball Coach hrayford@lanecollege.edu 731-410-6708
+
+4. Surina Dixon
+   Email: sdixon@lanecollege.edu
+   Username: sdixon
+   Phone: (731) 426-7568
+   Original line: Surina Dixon Head Women’s Basketball Coach / Senior Woman Administrator sdixon@lanecollege.edu 731-426-7568
+
+5. Harold Dixon
+   Email: hdixon@lanecollege.edu
+   Username: hdixon
+   Original line: Harold Dixon Associate Head Coach hdixon@lanecollege.edu
+
+6. Jerry Dover
+   Email: jdover@lanecollege.edu
+   Username: jdover
+   Original line: Jerry Dover Assistant Coach jdover@lanecollege.edu
+
+7. Carl Bowie
+   Email: cbowie@lanecollege.edu
+   Username: cbowie
+   Phone: (731) 426-7568
+   Original line: Carl Bowie Head Coach cbowie@lanecollege.edu 731-426-7568
+
+8. Stanley Conner
+   Email: sconner@lanecollege.edu
+   Username: sconner
+   Phone: (731) 421-7109
+   Original line: Stanley Conner Head Coach sconner@lanecollege.edu 731-421-7109
+
+9. PeeJay Jack
+   Email: pjack@lanecollege.edu
+   Username: pjack
+   Original line: PeeJay Jack Quarterbacks Coach pjack@lanecollege.edu
+
+10. Joseph Carter
+   Email: jlcarter@lanecollege.edu
+   Username: jlcarter
+   Original line: Joseph Carter Assistant Head Coach/ Safety Coach jlcarter@lanecollege.edu
+
+11. Antonio Wallace
+   Email: awallace@lanecollege.edu
+   Username: awallace
+   Original line: Antonio Wallace Running Backs Coach awallace@lanecollege.edu
+
+12. Christopher Thomas
+   Email: cthomas@lanecollege.edu
+   Username: cthomas
+   Original line: Christopher Thomas Wide Receiver Coach cthomas@lanecollege.edu
+
+13. Larry Behling
+   Email: lbehling@lanecollege.edu
+   Username: lbehling
+   Original line: Larry Behling Corner Back Coach lbehling@lanecollege.edu
+
+14. Jamar Harp
+   Email: jharp@lanecollege.edu
+   Username: jharp
+   Original line: Jamar Harp Offensive Line Coach jharp@lanecollege.edu
+
+15. Jeannette Williams
+   Email: jwilliams@lanecollege.edu
+   Username: jwilliams
+   Original line: Jeannette Williams Head Volleyball Coach jwilliams@lanecollege.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Raheem Shabazz Strength and Conditioning Coach rshabazz@lanecollege.edu
+• Jeff De La Concha Head Coach JDeLaConcha@lanecollege.edu (727) 504-6262
+• Harold Rayford Head Men's Basketball Coach hrayford@lanecollege.edu 731-410-6708
+• Surina Dixon Head Women’s Basketball Coach / Senior Woman Administrator sdixon@lanecollege.edu 731-426-7568
+• Harold Dixon Associate Head Coach hdixon@lanecollege.edu
+• Jerry Dover Assistant Coach jdover@lanecollege.edu
+• Carl Bowie Head Coach cbowie@lanecollege.edu 731-426-7568
+• Stanley Conner Head Coach sconner@lanecollege.edu 731-421-7109
+• PeeJay Jack Quarterbacks Coach pjack@lanecollege.edu
+• Joseph Carter Assistant Head Coach/ Safety Coach jlcarter@lanecollege.edu
+• Antonio Wallace Running Backs Coach awallace@lanecollege.edu
+• Christopher Thomas Wide Receiver Coach cthomas@lanecollege.edu
+• Larry Behling Corner Back Coach lbehling@lanecollege.edu
+• Jamar Harp Offensive Line Coach jharp@lanecollege.edu
+• Jeannette Williams Head Volleyball Coach jwilliams@lanecollege.edu

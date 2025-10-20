@@ -1,0 +1,328 @@
+COACH ENTRIES FOUND - 2025-10-06 18:38:05
+============================================================
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. Matt Magers
+   Email: mathew.magers@mnsu.edu
+   Username: mathew.magers
+   Phone: 507.389.2413
+   Original line: Matt Magers Head Coach, Baseball mathew.magers@mnsu.edu 507.389.2413
+
+2. P.J. McIntee
+   Email: patrick.mcintee@mnsu.edu
+   Username: patrick.mcintee
+   Original line: P.J. McIntee Associate Head Coach, patrick.mcintee@mnsu.edu 507-389-
+
+3. Packy Casey
+   Email: patrick.casey.2@mnsu.edu
+   Username: patrick.casey.2
+   Original line: Packy Casey Assistant Coach, Director patrick.casey.2@mnsu.edu
+
+4. Matt Margenthaler
+   Email: matthew.margenthaler@mnsu.edu
+   Username: matthew.margenthaler
+   Phone: 507.389.2311
+   Original line: Matt Margenthaler Head Coach, Men's matthew.margenthaler@mnsu.edu 507.389.2311 @mthaler
+
+5. Mike Schott
+   Email: michael.schott@mnsu.edu
+   Username: michael.schott
+   Phone: 507.389.2624
+   Original line: Mike Schott Associate Head Coach, michael.schott@mnsu.edu 507.389.2624 @CoachSchott
+
+6. Karson Arrenholz
+   Email: karson.arrenholz.2@mnsu.edu
+   Username: karson.arrenholz.2
+   Phone: 507.389.5724
+   Original line: Karson Arrenholz Assistant Coach, Men's karson.arrenholz.2@mnsu.edu 507.389.5724 @arrenholz22
+
+7. Emilee Thiesse
+   Email: emilee.thiesse@mnsu.edu
+   Username: emilee.thiesse
+   Phone: 507.389.2678
+   Original line: Emilee Thiesse Head Coach, Women's emilee.thiesse@mnsu.edu 507.389.2678 @Coach_Thiesse
+
+8. Amy Sander
+   Email: amy.sander@mnsu.edu
+   Username: amy.sander
+   Phone: 507.389.1458
+   Original line: Amy Sander Associate Head Coach, amy.sander@mnsu.edu 507.389.1458 @asander40
+
+9. Janay Morton
+   Email: janay.morton@mnsu.edu
+   Username: janay.morton
+   Phone: 507.389.3289
+   Original line: Janay Morton Assistant Coach, janay.morton@mnsu.edu 507.389.3289
+
+10. Claire Levendoski
+   Email: claire.levendoski.2@mnsu.edu
+   Username: claire.levendoski.2
+   Original line: Claire Levendoski Assistant Coach, claire.levendoski.2@mnsu.edu
+
+11. Todd Hoffner
+   Email: todd.hoffner@mnsu.edu
+   Username: todd.hoffner
+   Phone: 507.389.1339
+   Original line: Todd Hoffner Head Football Coach, todd.hoffner@mnsu.edu 507.389.1339 @hoffner_todd
+
+12. Ryan Schlichte
+   Email: ryan.schlichte.2@mnsu.edu
+   Username: ryan.schlichte.2
+   Phone: 507.389.1072
+   Original line: Ryan Schlichte Offensive Coordinator, ryan.schlichte.2@mnsu.edu 507.389.1072 @CoachSchlichte
+
+13. Chad Henning
+   Email: chad.henning@mnsu.edu
+   Username: chad.henning
+   Phone: 507.389.2703
+   Original line: Chad Henning Run Game Coordinator, chad.henning@mnsu.edu 507.389.2703 @CoachHenning75
+
+14. Graham Hevel
+   Email: graham.hevel@mnsu.edu
+   Username: graham.hevel
+   Phone: 507.389.2512
+   Original line: Graham Hevel Co-Defensive graham.hevel@mnsu.edu 507.389.2512 @CoachHevel50
+
+15. Mitchell Collicott
+   Email: mitchell.collicott@mnsu.edu
+   Username: mitchell.collicott
+   Phone: 507.389.1072
+   Original line: Mitchell Collicott Special Teams mitchell.collicott@mnsu.edu 507.389.1072 @CoachCollicott
+
+16. Chance Bowen
+   Email: james.bowen.2@mnsu.edu
+   Username: james.bowen.2
+   Original line: Chance Bowen Cornerbacks james.bowen.2@mnsu.edu @CoachBowen98
+
+17. Isaiah Ramsey
+   Email: isaiah.ramsey@mnsu.edu
+   Username: isaiah.ramsey
+   Original line: Isaiah Ramsey Wide Receivers isaiah.ramsey@mnsu.edu @CoachIsaiahR
+
+18. Malcolm Henry
+   Email: malcolm.henry@mnsu.edu
+   Username: malcolm.henry
+   Original line: Malcolm Henry Running Backs Coach malcolm.henry@mnsu.edu @CoachMalc_4
+
+19. Colby Hartig
+   Email: colby.hartig.2@mnsu.edu
+   Username: colby.hartig.2
+   Original line: Colby Hartig Tight Ends colby.hartig.2@mnsu.edu @CoachHartig
+
+20. Brady Schlaeger
+   Email: brady.schlaeger.2@mnsu.edu
+   Username: brady.schlaeger.2
+   Original line: Brady Schlaeger Defensive Tackles brady.schlaeger.2@mnsu.edu @CoachBSchlaeger
+
+21. Alex Schmitz
+   Email: alex.schmitz@mnsu.edu
+   Username: alex.schmitz
+   Phone: 507.389.5178
+   Original line: Alex Schmitz Head Coach, Men's & alex.schmitz@mnsu.edu 507.389.5178
+
+22. Todd Pfingsten
+   Email: todd.pfingsten@mnsu.edu
+   Username: todd.pfingsten
+   Phone: 507.389.2500
+   Original line: Todd Pfingsten Assistant Coach, Men's & todd.pfingsten@mnsu.edu 507.389.2500
+
+23. Luke Strand
+   Email: luke.strand@mnsu.edu
+   Username: luke.strand
+   Phone: 507.389.5196
+   Original line: Luke Strand Head Coach, Men's luke.strand@mnsu.edu 507.389.5196
+
+24. Troy G.
+   Email: troy.ward@mnsu.edu
+   Username: troy.ward
+   Phone: 507.389.1015
+   Original line: Troy G. Ward Associate Head Coach, troy.ward@mnsu.edu 507.389.1015
+
+25. Keith Paulsen
+   Email: keith.paulsen@mnsu.edu
+   Username: keith.paulsen
+   Phone: 507.389.1015
+   Original line: Keith Paulsen Assistant Coach, Men's keith.paulsen@mnsu.edu 507.389.1015
+
+26. Cory McCracken
+   Email: cory.mccracken@mnsu.edu
+   Username: cory.mccracken
+   Phone: 507.389.1015
+   Original line: Cory McCracken Assistant Coach, Men's cory.mccracken@mnsu.edu 507.389.1015
+
+27. Shari Dickerman
+   Email: shari.vogt@mnsu.edu
+   Username: shari.vogt
+   Phone: 507.389.3213
+   Original line: Shari Dickerman Head Coach, Women's shari.vogt@mnsu.edu 507.389.3213 @vogt30dickerman
+
+28. Jeff Giesen
+   Email: jeffrey.giesen@mnsu.edu
+   Username: jeffrey.giesen
+   Phone: 507.389.3214
+   Original line: Jeff Giesen Associate Head Coach, jeffrey.giesen@mnsu.edu 507.389.3214
+
+29. Mackenzie Bruch
+   Email: mackenzie.bruch@mnsu.edu
+   Username: mackenzie.bruch
+   Phone: 507.389.3217
+   Original line: Mackenzie Bruch Assistant Coach, mackenzie.bruch@mnsu.edu 507.389.3217
+
+30. Emily Antony
+   Email: emily.antony.2@mnsu.edu
+   Username: emily.antony.2
+   Phone: 507.389.3217
+   Original line: Emily Antony Assistant Coach, emily.antony.2@mnsu.edu 507.389.3217
+
+31. Brian Bahl
+   Email: brian.bahl@mnsu.edu
+   Username: brian.bahl
+   Original line: Brian Bahl Head Coach, Soccer brian.bahl@mnsu.edu 507-389- @BrianBahl
+
+32. Aaron Tilsen
+   Email: aaron.tilsen@mnsu.edu
+   Username: aaron.tilsen
+   Original line: Aaron Tilsen Associate Head Coach & aaron.tilsen@mnsu.edu 507-389- @tilsensoccer
+
+33. Lizzy Vetter
+   Email: elizabeth.vetter.2@mnsu.edu
+   Username: elizabeth.vetter.2
+   Phone: 507.389.2619
+   Original line: Lizzy Vetter Assistant Coach & elizabeth.vetter.2@mnsu.edu 507.389.2619
+
+34. Kristle Wolcott
+   Email: kristle.wolcott@mnsu.edu
+   Username: kristle.wolcott
+   Phone: 507.389.1520
+   Original line: Kristle Wolcott Head Coach, Softball kristle.wolcott@mnsu.edu 507.389.1520
+
+35. Coley Ries
+   Email: coley.rieswelter.2@mnsu.edu
+   Username: coley.rieswelter.2
+   Phone: 507.389.1844
+   Original line: Coley Ries Welter Assistant Coach, Softball coley.rieswelter.2@mnsu.edu 507.389.1844
+
+36. Nathan Owens
+   Email: nathan.owens@mnsu.edu
+   Username: nathan.owens
+   Phone: 507.389.6326
+   Original line: Nathan Owens Head Coach, Swimming & nathan.owens@mnsu.edu 507.389.6326 @MavsSwimDive
+
+37. Sophie Kannmacher
+   Email: sophie.kannmacher@mnsu.edu
+   Username: sophie.kannmacher
+   Phone: 507.389.2538
+   Original line: Sophie Kannmacher Associate Head Coach, sophie.kannmacher@mnsu.edu 507.389.2538 @sophi3kaeter
+
+38. Hailey Stack
+   Email: hailey.stack@mnsu.edu
+   Username: hailey.stack
+   Original line: Hailey Stack Diving Coach, Swimming hailey.stack@mnsu.edu
+
+39. Drew Hawthorne
+   Email: drew.hawthorne.2@mnsu.edu
+   Username: drew.hawthorne.2
+   Phone: (507) 389-6111
+   Original line: Drew Hawthorne Head Coach, Tennis drew.hawthorne.2@mnsu.edu 507-389-6111
+
+40. Mike Turgeon
+   Email: mike.turgeon@mnsu.edu
+   Username: mike.turgeon
+   Phone: 507.389.5486
+   Original line: Mike Turgeon Director of Track & mike.turgeon@mnsu.edu 507.389.5486 @CoachTurgeonMSU
+
+41. Brian Sebera
+   Email: brian.sebera@mnsu.edu
+   Username: brian.sebera
+   Phone: 507.389.1117
+   Original line: Brian Sebera Associate Head Coach, brian.sebera@mnsu.edu 507.389.1117
+
+42. Jen Blue
+   Email: jennifer.blue@mnsu.edu
+   Username: jennifer.blue
+   Phone: 507.389.6415
+   Original line: Jen Blue Head Coach, Women’s jennifer.blue@mnsu.edu 507.389.6415
+
+43. Ben Held
+   Email: benjamin.held@mnsu.edu
+   Username: benjamin.held
+   Phone: 507.389.2890
+   Original line: Ben Held Head Coach, Men’s Cross benjamin.held@mnsu.edu 507.389.2890 @CoachHeldMSU
+
+44. Jeremy Essler
+   Email: jeremy.essler@mnsu.edu
+   Username: jeremy.essler
+   Original line: Jeremy Essler Assistant Coach, Men's jeremy.essler@mnsu.edu (507) 382-
+
+45. Corey Phelps
+   Email: corey.phelps@mnsu.edu
+   Username: corey.phelps
+   Phone: 507.389.2673
+   Original line: Corey Phelps Head Coach, Volleyball corey.phelps@mnsu.edu 507.389.2673
+
+46. Megan Bezdicek
+   Email: megan.bezdicek.2@mnsu.edu
+   Username: megan.bezdicek.2
+   Phone: 507.389.5339
+   Original line: Megan Bezdicek Associate Head Coach, megan.bezdicek.2@mnsu.edu 507.389.5339
+
+47. Jim Makovsky
+   Email: james.makovsky@mnsu.edu
+   Username: james.makovsky
+   Phone: 507.389.6521
+   Original line: Jim Makovsky Head Coach, Wrestling james.makovsky@mnsu.edu 507.389.6521
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Matt Magers Head Coach, Baseball mathew.magers@mnsu.edu 507.389.2413
+• P.J. McIntee Associate Head Coach, patrick.mcintee@mnsu.edu 507-389-
+• Packy Casey Assistant Coach, Director patrick.casey.2@mnsu.edu
+• Matt Margenthaler Head Coach, Men's matthew.margenthaler@mnsu.edu 507.389.2311 @mthaler
+• Mike Schott Associate Head Coach, michael.schott@mnsu.edu 507.389.2624 @CoachSchott
+• Karson Arrenholz Assistant Coach, Men's karson.arrenholz.2@mnsu.edu 507.389.5724 @arrenholz22
+• Emilee Thiesse Head Coach, Women's emilee.thiesse@mnsu.edu 507.389.2678 @Coach_Thiesse
+• Amy Sander Associate Head Coach, amy.sander@mnsu.edu 507.389.1458 @asander40
+• Janay Morton Assistant Coach, janay.morton@mnsu.edu 507.389.3289
+• Claire Levendoski Assistant Coach, claire.levendoski.2@mnsu.edu
+• Todd Hoffner Head Football Coach, todd.hoffner@mnsu.edu 507.389.1339 @hoffner_todd
+• Ryan Schlichte Offensive Coordinator, ryan.schlichte.2@mnsu.edu 507.389.1072 @CoachSchlichte
+• Chad Henning Run Game Coordinator, chad.henning@mnsu.edu 507.389.2703 @CoachHenning75
+• Graham Hevel Co-Defensive graham.hevel@mnsu.edu 507.389.2512 @CoachHevel50
+• Mitchell Collicott Special Teams mitchell.collicott@mnsu.edu 507.389.1072 @CoachCollicott
+• Chance Bowen Cornerbacks james.bowen.2@mnsu.edu @CoachBowen98
+• Isaiah Ramsey Wide Receivers isaiah.ramsey@mnsu.edu @CoachIsaiahR
+• Malcolm Henry Running Backs Coach malcolm.henry@mnsu.edu @CoachMalc_4
+• Colby Hartig Tight Ends colby.hartig.2@mnsu.edu @CoachHartig
+• Brady Schlaeger Defensive Tackles brady.schlaeger.2@mnsu.edu @CoachBSchlaeger
+• Alex Schmitz Head Coach, Men's & alex.schmitz@mnsu.edu 507.389.5178
+• Todd Pfingsten Assistant Coach, Men's & todd.pfingsten@mnsu.edu 507.389.2500
+• Luke Strand Head Coach, Men's luke.strand@mnsu.edu 507.389.5196
+• Troy G. Ward Associate Head Coach, troy.ward@mnsu.edu 507.389.1015
+• Keith Paulsen Assistant Coach, Men's keith.paulsen@mnsu.edu 507.389.1015
+• Cory McCracken Assistant Coach, Men's cory.mccracken@mnsu.edu 507.389.1015
+• Shari Dickerman Head Coach, Women's shari.vogt@mnsu.edu 507.389.3213 @vogt30dickerman
+• Jeff Giesen Associate Head Coach, jeffrey.giesen@mnsu.edu 507.389.3214
+• Mackenzie Bruch Assistant Coach, mackenzie.bruch@mnsu.edu 507.389.3217
+• Emily Antony Assistant Coach, emily.antony.2@mnsu.edu 507.389.3217
+• Brian Bahl Head Coach, Soccer brian.bahl@mnsu.edu 507-389- @BrianBahl
+• Aaron Tilsen Associate Head Coach & aaron.tilsen@mnsu.edu 507-389- @tilsensoccer
+• Lizzy Vetter Assistant Coach & elizabeth.vetter.2@mnsu.edu 507.389.2619
+• Kristle Wolcott Head Coach, Softball kristle.wolcott@mnsu.edu 507.389.1520
+• Coley Ries Welter Assistant Coach, Softball coley.rieswelter.2@mnsu.edu 507.389.1844
+• Nathan Owens Head Coach, Swimming & nathan.owens@mnsu.edu 507.389.6326 @MavsSwimDive
+• Sophie Kannmacher Associate Head Coach, sophie.kannmacher@mnsu.edu 507.389.2538 @sophi3kaeter
+• Hailey Stack Diving Coach, Swimming hailey.stack@mnsu.edu
+• Drew Hawthorne Head Coach, Tennis drew.hawthorne.2@mnsu.edu 507-389-6111
+• Mike Turgeon Director of Track & mike.turgeon@mnsu.edu 507.389.5486 @CoachTurgeonMSU
+• Brian Sebera Associate Head Coach, brian.sebera@mnsu.edu 507.389.1117
+• Jen Blue Head Coach, Women’s jennifer.blue@mnsu.edu 507.389.6415
+• Ben Held Head Coach, Men’s Cross benjamin.held@mnsu.edu 507.389.2890 @CoachHeldMSU
+• Jeremy Essler Assistant Coach, Men's jeremy.essler@mnsu.edu (507) 382-
+• Corey Phelps Head Coach, Volleyball corey.phelps@mnsu.edu 507.389.2673
+• Megan Bezdicek Associate Head Coach, megan.bezdicek.2@mnsu.edu 507.389.5339
+• Jim Makovsky Head Coach, Wrestling james.makovsky@mnsu.edu 507.389.6521

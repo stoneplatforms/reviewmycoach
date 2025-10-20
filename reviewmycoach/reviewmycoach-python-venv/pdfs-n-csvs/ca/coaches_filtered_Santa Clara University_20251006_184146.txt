@@ -1,0 +1,341 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:47
+============================================================
+
+Total coaches found: 55
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jenn DaRosa
+   Email: jdarosa@scu.edu
+   Username: jdarosa
+   Original line: Jenn DaRosa Head Dance Coach jdarosa@scu.edu
+
+2. Rusty Filter
+   Email: rfilter@scu.edu
+   Username: rfilter
+   Original line: Rusty Filter Head Coach rfilter@scu.edu 408-554-
+
+3. Jay Brossman
+   Email: jbrossman@scu.edu
+   Username: jbrossman
+   Original line: Jay Brossman Assistant Coach jbrossman@scu.edu 408-554-
+
+4. Chris Perry
+   Email: cperry@scu.edu
+   Username: cperry
+   Original line: Chris Perry Assistant Coach cperry@scu.edu
+
+5. Jason Dicochea
+   Email: jdicochea@scu.edu
+   Username: jdicochea
+   Original line: Jason Dicochea Assistant Coach jdicochea@scu.edu 408-554-
+
+6. Jason Ludwig
+   Email: jludwig@scu.edu
+   Username: jludwig
+   Original line: Jason Ludwig Associate Head Coach jludwig@scu.edu 408-554-
+
+7. Ryan Madry
+   Email: cmadry@scu.edu
+   Username: cmadry
+   Original line: Ryan Madry Associate Head Coach cmadry@scu.edu 408-554-
+
+8. Will Burkett
+   Email: wburkett@scu.edu
+   Username: wburkett
+   Original line: Will Burkett Assistant Coach wburkett@scu.edu 408-554-
+
+9. Jackson Gion
+   Email: jgion@scu.edu
+   Username: jgion
+   Original line: Jackson Gion Assistant Coach jgion@scu.edu 408-554-
+
+10. Mitch Smith
+   Email: mlsmith@scu.edu
+   Username: mlsmith
+   Original line: Mitch Smith Assistant Coach mlsmith@scu.edu
+
+11. Loree Payne
+   Email: lpayne@scu.edu
+   Username: lpayne
+   Original line: Loree Payne Head Coach lpayne@scu.edu 408-554-
+
+12. TJ Harris
+   Email: tharris3@scu.edu
+   Username: tharris3
+   Original line: TJ Harris Associate Head Coach tharris3@scu.edu 408-554-
+
+13. Kellee Barney
+   Email: kbarney@scu.edu
+   Username: kbarney
+   Original line: Kellee Barney Assistant Coach kbarney@scu.edu 408-554-
+
+14. Ryan Freeman
+   Email: rfreeman2@scu.edu
+   Username: rfreeman2
+   Original line: Ryan Freeman Assistant Coach rfreeman2@scu.edu 408-551-
+
+15. Des Abeyta
+   Email: dabeyta@scu.edu
+   Username: dabeyta
+   Original line: Des Abeyta Assistant Coach dabeyta@scu.edu 408-554-
+
+16. Felipe Montoro
+   Email: mmontoro@scu.edu
+   Username: mmontoro
+   Original line: Felipe Montoro Head Men's Coach mmontoro@scu.edu 408-554-
+
+17. Meron Simon
+   Email: msimon2@scu.edu
+   Username: msimon2
+   Original line: Meron Simon Assistant Coach msimon2@scu.edu 408-551-
+
+18. Alex Miley
+   Email: amiley@scu.edu
+   Username: amiley
+   Original line: Alex Miley Volunteer Assistant Coach amiley@scu.edu
+
+19. Pete Cushman
+   Email: pcushman@scu.edu
+   Username: pcushman
+   Original line: Pete Cushman Head Women's Coach pcushman@scu.edu 408-554-
+
+20. Luisa Westley
+   Email: lwestley@scu.edu
+   Username: lwestley
+   Original line: Luisa Westley Assistant Coach lwestley@scu.edu 408-551-
+
+21. Andrew Larkin
+   Email: alarkin@scu.edu
+   Username: alarkin
+   Original line: Andrew Larkin Head Coach alarkin@scu.edu 408-554-
+
+22. John McCord
+   Email: jmccord2@scu.edu
+   Username: jmccord2
+   Original line: John McCord Assistant Coach jmccord2@scu.edu
+
+23. Krystal Kelly
+   Email: knkelly@scu.edu
+   Username: knkelly
+   Original line: Krystal Kelly Head Coach knkelly@scu.edu 408-554-
+
+24. Jett Isoda
+   Email: jisoda@scu.edu
+   Username: jisoda
+   Original line: Jett Isoda Assistant Coach jisoda@scu.edu 408-551-
+
+25. Marjorie Setchko
+   Email: msetchko@scu.edu
+   Username: msetchko
+   Original line: Marjorie Setchko Associate Head Coach/Women's Recruiting Coordinator msetchko@scu.edu 408-551-
+
+26. Michael Brewer
+   Email: m2brewer@scu.edu
+   Username: m2brewer
+   Original line: Michael Brewer Assistant Coach m2brewer@scu.edu 408-551-
+
+27. Brittany Kleiman
+   Email: bkleiman@scu.edu
+   Username: bkleiman
+   Original line: Brittany Kleiman Assistant Coach bkleiman@scu.edu
+
+28. Marjorie Setchko
+   Email: msetchko@scu.edu
+   Username: msetchko
+   Original line: Marjorie Setchko Associate Head Coach/Women's Recruiting Coordinator msetchko@scu.edu 408-551-
+
+29. Michael Brewer
+   Email: m2brewer@scu.edu
+   Username: m2brewer
+   Original line: Michael Brewer Assistant Coach m2brewer@scu.edu 408-551-
+
+30. Brittany Kleiman
+   Email: bkleiman@scu.edu
+   Username: bkleiman
+   Original line: Brittany Kleiman Assistant Coach bkleiman@scu.edu
+
+31. Cameron Rast
+   Email: msoccer@scu.edu
+   Username: msoccer
+   Original line: Cameron Rast Head Coach msoccer@scu.edu 408-554-
+
+32. Eric Yamamoto
+   Email: msoccer@scu.edu
+   Username: msoccer
+   Original line: Eric Yamamoto Associate Head Coach msoccer@scu.edu 408-551-
+
+33. Riley Hanley
+   Email: msoccer@scu.edu
+   Username: msoccer
+   Original line: Riley Hanley Assistant Coach msoccer@scu.edu 408-554-
+
+34. Jack Murphy
+   Email: msoccer@scu.edu
+   Username: msoccer
+   Original line: Jack Murphy Assistant Coach/Director of Operations msoccer@scu.edu 408-551-
+
+35. Jerry Smith
+   Email: jsmith@scu.edu
+   Username: jsmith
+   Original line: Jerry Smith Head Coach jsmith@scu.edu 408-554-
+
+36. Gregg Murphy
+   Email: gmurphy@scu.edu
+   Username: gmurphy
+   Original line: Gregg Murphy Associate Head Coach gmurphy@scu.edu 408-554-
+
+37. Curtis McAlister
+   Email: cmcalister@scu.edu
+   Username: cmcalister
+   Original line: Curtis McAlister Assistant Coach cmcalister@scu.edu 408-554-
+
+38. Lizzy Johnson
+   Email: ljohnson4@scu.edu
+   Username: ljohnson4
+   Original line: Lizzy Johnson Assistant Coach ljohnson4@scu.edu 408-551-
+
+39. Gina Carbonatto
+   Email: gcarbonatto@scu.edu
+   Username: gcarbonatto
+   Original line: Gina Carbonatto Head Coach gcarbonatto@scu.edu 408-554-
+
+40. Kaitlyn Guevara
+   Email: kguevara@scu.edu
+   Username: kguevara
+   Original line: Kaitlyn Guevara Assistant Coach kguevara@scu.edu 408-554-
+
+41. Maddi Hackbarth
+   Email: mhackbarth@scu.edu
+   Username: mhackbarth
+   Original line: Maddi Hackbarth Assistant Coach mhackbarth@scu.edu 408-554-
+
+42. Niall Angus
+   Email: nangus@scu.edu
+   Username: nangus
+   Original line: Niall Angus Head Coach nangus@scu.edu 408-554-
+
+43. Josh Page
+   Email: jpage@scu.edu
+   Username: jpage
+   Original line: Josh Page Assistant Coach jpage@scu.edu 408-551-
+
+44. Allie Will-Van
+   Email: awill@scu.edu
+   Username: awill
+   Original line: Allie Will-Van Alstyne Head Coach awill@scu.edu 408-554-
+
+45. Connor Van
+   Email: cvanalstyne@scu.edu
+   Username: cvanalstyne
+   Original line: Connor Van Alstyne Assistant Coach cvanalstyne@scu.edu 408-551-
+
+46. Erin Lindsey
+   Email: elindsey@scu.edu
+   Username: elindsey
+   Original line: Erin Lindsey Head Coach elindsey@scu.edu 408-554-
+
+47. Ganna Khrystenko
+   Email: gkhrystenko@scu.edu
+   Username: gkhrystenko
+   Original line: Ganna Khrystenko Assistant Coach gkhrystenko@scu.edu 408-554-
+
+48. Gretchen Reinert
+   Email: greinert@scu.edu
+   Username: greinert
+   Original line: Gretchen Reinert Assistant Coach/Recruiting Coordinator greinert@scu.edu 408-551-
+
+49. Jeff Alzina
+   Email: jalzina@scu.edu
+   Username: jalzina
+   Original line: Jeff Alzina Head Coach jalzina@scu.edu 408-554-
+
+50. Lance Muret
+   Email: lmuret@scu.edu
+   Username: lmuret
+   Original line: Lance Muret Assistant Coach lmuret@scu.edu
+
+51. Julia Kallen
+   Email: jkallen@scu.edu
+   Username: jkallen
+   Original line: Julia Kallen Assistant Coach (GA) jkallen@scu.edu
+
+52. Keith Wilbur
+   Email: kwilbur@scu.edu
+   Username: kwilbur
+   Original line: Keith Wilbur Head Coach kwilbur@scu.edu 408-554-
+
+53. Will Grant
+   Email: wgrant@scu.edu
+   Username: wgrant
+   Original line: Will Grant Assistant Coach wgrant@scu.edu 408-551-
+
+54. Claire Linney
+   Email: clinney@scu.edu
+   Username: clinney
+   Original line: Claire Linney Head Coach clinney@scu.edu 408-551-
+
+55. Emily Diacono
+   Email: ediacono@scu.edu
+   Username: ediacono
+   Original line: Emily Diacono Assistant Coach ediacono@scu.edu 408-554-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jenn DaRosa Head Dance Coach jdarosa@scu.edu
+• Rusty Filter Head Coach rfilter@scu.edu 408-554-
+• Jay Brossman Assistant Coach jbrossman@scu.edu 408-554-
+• Chris Perry Assistant Coach cperry@scu.edu
+• Jason Dicochea Assistant Coach jdicochea@scu.edu 408-554-
+• Jason Ludwig Associate Head Coach jludwig@scu.edu 408-554-
+• Ryan Madry Associate Head Coach cmadry@scu.edu 408-554-
+• Will Burkett Assistant Coach wburkett@scu.edu 408-554-
+• Jackson Gion Assistant Coach jgion@scu.edu 408-554-
+• Mitch Smith Assistant Coach mlsmith@scu.edu
+• Loree Payne Head Coach lpayne@scu.edu 408-554-
+• TJ Harris Associate Head Coach tharris3@scu.edu 408-554-
+• Kellee Barney Assistant Coach kbarney@scu.edu 408-554-
+• Ryan Freeman Assistant Coach rfreeman2@scu.edu 408-551-
+• Des Abeyta Assistant Coach dabeyta@scu.edu 408-554-
+• Felipe Montoro Head Men's Coach mmontoro@scu.edu 408-554-
+• Meron Simon Assistant Coach msimon2@scu.edu 408-551-
+• Alex Miley Volunteer Assistant Coach amiley@scu.edu
+• Pete Cushman Head Women's Coach pcushman@scu.edu 408-554-
+• Luisa Westley Assistant Coach lwestley@scu.edu 408-551-
+• Andrew Larkin Head Coach alarkin@scu.edu 408-554-
+• John McCord Assistant Coach jmccord2@scu.edu
+• Krystal Kelly Head Coach knkelly@scu.edu 408-554-
+• Jett Isoda Assistant Coach jisoda@scu.edu 408-551-
+• Marjorie Setchko Associate Head Coach/Women's Recruiting Coordinator msetchko@scu.edu 408-551-
+• Michael Brewer Assistant Coach m2brewer@scu.edu 408-551-
+• Brittany Kleiman Assistant Coach bkleiman@scu.edu
+• Marjorie Setchko Associate Head Coach/Women's Recruiting Coordinator msetchko@scu.edu 408-551-
+• Michael Brewer Assistant Coach m2brewer@scu.edu 408-551-
+• Brittany Kleiman Assistant Coach bkleiman@scu.edu
+• Cameron Rast Head Coach msoccer@scu.edu 408-554-
+• Eric Yamamoto Associate Head Coach msoccer@scu.edu 408-551-
+• Riley Hanley Assistant Coach msoccer@scu.edu 408-554-
+• Jack Murphy Assistant Coach/Director of Operations msoccer@scu.edu 408-551-
+• Jerry Smith Head Coach jsmith@scu.edu 408-554-
+• Gregg Murphy Associate Head Coach gmurphy@scu.edu 408-554-
+• Curtis McAlister Assistant Coach cmcalister@scu.edu 408-554-
+• Lizzy Johnson Assistant Coach ljohnson4@scu.edu 408-551-
+• Gina Carbonatto Head Coach gcarbonatto@scu.edu 408-554-
+• Kaitlyn Guevara Assistant Coach kguevara@scu.edu 408-554-
+• Maddi Hackbarth Assistant Coach mhackbarth@scu.edu 408-554-
+• Niall Angus Head Coach nangus@scu.edu 408-554-
+• Josh Page Assistant Coach jpage@scu.edu 408-551-
+• Allie Will-Van Alstyne Head Coach awill@scu.edu 408-554-
+• Connor Van Alstyne Assistant Coach cvanalstyne@scu.edu 408-551-
+• Erin Lindsey Head Coach elindsey@scu.edu 408-554-
+• Ganna Khrystenko Assistant Coach gkhrystenko@scu.edu 408-554-
+• Gretchen Reinert Assistant Coach/Recruiting Coordinator greinert@scu.edu 408-551-
+• Jeff Alzina Head Coach jalzina@scu.edu 408-554-
+• Lance Muret Assistant Coach lmuret@scu.edu
+• Julia Kallen Assistant Coach (GA) jkallen@scu.edu
+• Keith Wilbur Head Coach kwilbur@scu.edu 408-554-
+• Will Grant Assistant Coach wgrant@scu.edu 408-551-
+• Claire Linney Head Coach clinney@scu.edu 408-551-
+• Emily Diacono Assistant Coach ediacono@scu.edu 408-554-

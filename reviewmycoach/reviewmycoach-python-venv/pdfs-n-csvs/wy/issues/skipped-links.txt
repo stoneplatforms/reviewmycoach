@@ -1,0 +1,6 @@
+Western Wyoming Community College.pdf :: https://wwcc.wy.edu/athletics/staff-directory :: Navigation failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://wwcc.wy.edu/athletics/staff-directory/index
+Call log:
+  - navigating to "https://wwcc.wy.edu/athletics/staff-directory/index", waiting until "networkidle"
+
+  tried: https://wwcc.wy.edu/athletics/staff-directory?print=true, https://wwcc.wy.edu/athletics/staff-directory/print, https://wwcc.wy.edu/athletics/staff-directory, https://wwcc.wy.edu/athletics/staff-directory/index?print=true, https://wwcc.wy.edu/athletics/staff-directory/index/print, https://wwcc.wy.edu/athletics/staff-directory/index
+

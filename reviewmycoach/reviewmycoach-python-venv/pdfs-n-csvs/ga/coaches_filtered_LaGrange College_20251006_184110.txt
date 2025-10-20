@@ -1,0 +1,125 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:10
+============================================================
+
+Total coaches found: 19
+
+PARSED ENTRIES:
+----------------------------------------
+1. David Kelton
+   Email: dkelton@lagrange.edu
+   Username: dkelton
+   Original line: David Kelton Head Baseball Coach dkelton@lagrange.edu 706-880-
+
+2. Adam Dorn
+   Email: adorn@lagrange.edu
+   Username: adorn
+   Original line: Adam Dorn Assistant Coach adorn@lagrange.edu
+
+3. Kendal Wallace
+   Email: kwallace@lagrange.edu
+   Username: kwallace
+   Original line: Kendal Wallace Head Men's Basketball Coach kwallace@lagrange.edu 706-880-
+
+4. Steve Kenner
+   Email: skenner@lagrange.edu
+   Username: skenner
+   Original line: Steve Kenner Head Women's Basketball Coach skenner@lagrange.edu
+
+5. Brittany Hasty
+   Email: bhasty@lagrange.edu
+   Username: bhasty
+   Original line: Brittany Hasty Assistant Women's Basketball Coach bhasty@lagrange.edu
+
+6. Nicole Joseph
+   Email: najoseph@lagrange.edu
+   Username: najoseph
+   Original line: Nicole Joseph Head Cheerleading Coach najoseph@lagrange.edu 706-977-
+
+7. Wes Dodson
+   Email: footballrecruiting@lagrange.edu
+   Username: footballrecruiting
+   Original line: Wes Dodson Head Football Coach footballrecruiting@lagrange.edu 706-880-
+
+8. Tony Talbert
+   Email: footballrecruiting@lagrange.edu
+   Username: footballrecruiting
+   Original line: Tony Talbert Assistant Football Coach - Defensive Coordinator/Recruiting footballrecruiting@lagrange.edu 706-880-
+
+9. Michael McCarty
+   Email: footballrecruiting@lagrange.edu
+   Username: footballrecruiting
+   Original line: Michael McCarty Assistant Football Coach - Offensive Coordinator footballrecruiting@lagrange.edu 706-880-
+
+10. Chuck Ehret
+   Email: footballrecruiting@lagrange.edu
+   Username: footballrecruiting
+   Original line: Chuck Ehret Assistant Football Coach - Offensive Line footballrecruiting@lagrange.edu 706-880-
+
+11. Chris Jerry
+   Email: footballrecruiting@lagrange.edu
+   Username: footballrecruiting
+   Original line: Chris Jerry Assistant Football Coach - Defensive Backs footballrecruiting@lagrange.edu
+
+12. Breana Sumpter
+   Email: bsumpter@lagrange.edu
+   Username: bsumpter
+   Original line: Breana Sumpter Head Women's Flag Football Coach bsumpter@lagrange.edu 706-880-
+
+13. Aaron Feyes
+   Email: afeyes@lagrange.edu
+   Username: afeyes
+   Original line: Aaron Feyes Head Men's and Women's Golf Coach afeyes@lagrange.edu 706-880-
+
+14. Ryan Dickson
+   Email: rdickso1@lagrange.edu
+   Username: rdickso1
+   Original line: Ryan Dickson Head Men's Soccer Coach rdickso1@lagrange.edu 706-880-
+
+15. Kaine Baker
+   Email: mbaker3@lagrange.edu
+   Username: mbaker3
+   Original line: Kaine Baker Head Women's Soccer Coach mbaker3@lagrange.edu 404-277-
+
+16. Melanie Rushing
+   Email: mrushing@lagrange.edu
+   Username: mrushing
+   Original line: Melanie Rushing Head Softball Coach mrushing@lagrange.edu 706-880-
+
+17. Cire Campbell
+   Email: ecampbell1@lagrange.edu
+   Username: ecampbell1
+   Original line: Cire Campbell Head Track & Cross Country Coach ecampbell1@lagrange.edu
+
+18. Drew Cantrell
+   Email: dtcantrell@lagrange.edu
+   Username: dtcantrell
+   Original line: Drew Cantrell Head Men's Tennis Coach dtcantrell@lagrange.edu 478-244-
+
+19. Daniel Schulte
+   Email: dschulte@lagrange.edu
+   Username: dschulte
+   Original line: Daniel Schulte Head Volleyball Coach dschulte@lagrange.edu 706-880-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• David Kelton Head Baseball Coach dkelton@lagrange.edu 706-880-
+• Adam Dorn Assistant Coach adorn@lagrange.edu
+• Kendal Wallace Head Men's Basketball Coach kwallace@lagrange.edu 706-880-
+• Steve Kenner Head Women's Basketball Coach skenner@lagrange.edu
+• Brittany Hasty Assistant Women's Basketball Coach bhasty@lagrange.edu
+• Nicole Joseph Head Cheerleading Coach najoseph@lagrange.edu 706-977-
+• Wes Dodson Head Football Coach footballrecruiting@lagrange.edu 706-880-
+• Tony Talbert Assistant Football Coach - Defensive Coordinator/Recruiting footballrecruiting@lagrange.edu 706-880-
+• Michael McCarty Assistant Football Coach - Offensive Coordinator footballrecruiting@lagrange.edu 706-880-
+• Chuck Ehret Assistant Football Coach - Offensive Line footballrecruiting@lagrange.edu 706-880-
+• Chris Jerry Assistant Football Coach - Defensive Backs footballrecruiting@lagrange.edu
+• Breana Sumpter Head Women's Flag Football Coach bsumpter@lagrange.edu 706-880-
+• Aaron Feyes Head Men's and Women's Golf Coach afeyes@lagrange.edu 706-880-
+• Ryan Dickson Head Men's Soccer Coach rdickso1@lagrange.edu 706-880-
+• Kaine Baker Head Women's Soccer Coach mbaker3@lagrange.edu 404-277-
+• Melanie Rushing Head Softball Coach mrushing@lagrange.edu 706-880-
+• Cire Campbell Head Track & Cross Country Coach ecampbell1@lagrange.edu
+• Drew Cantrell Head Men's Tennis Coach dtcantrell@lagrange.edu 478-244-
+• Daniel Schulte Head Volleyball Coach dschulte@lagrange.edu 706-880-

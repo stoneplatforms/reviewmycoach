@@ -1,0 +1,256 @@
+COACH ENTRIES FOUND - 2025-10-04 18:14:42
+============================================================
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jeff Conarroe
+   Email: jconarroe@coloradocollege.edu
+   Username: jconarroe
+   Phone: 719.389.6482
+   Original line: Jeff Conarroe Head Coach, Men's Basketball jconarroe@coloradocollege.edu 719.389.6482
+
+2. Cam McKinney
+   Email: cmckinney2025@coloradocollege.edu
+   Username: cmckinney2025
+   Original line: Cam McKinney Assistant Coach, Men's Basketball cmckinney2025@coloradocollege.edu
+
+3. Derrick Rodgers
+   Email: drodgers2024@coloradocollege.edu
+   Username: drodgers2024
+   Original line: Derrick Rodgers Assistant Coach, Men's Basketball drodgers2024@coloradocollege.edu
+
+4. Katherine Auguste
+   Email: katherine.menendez@coloradocollege.edu
+   Username: katherine.menendez
+   Phone: 719.389.6478
+   Original line: Katherine Auguste Head Coach, Women's Basketball katherine.menendez@coloradocollege.edu 719.389.6478
+
+5. Drew Mitchell
+   Email: dmitchell2024@coloradocollege.edu
+   Username: dmitchell2024
+   Original line: Drew Mitchell Assistant Coach, Women's Basketball dmitchell2024@coloradocollege.edu
+
+6. Lisa Guhl
+   Email: lguhl@coloradocollege.edu
+   Username: lguhl
+   Original line: Lisa Guhl Assistant Coach, Women's Basketball lguhl@coloradocollege.edu
+
+7. Alex Nichols
+   Email: anichols@coloradocollege.edu
+   Username: anichols
+   Phone: 719.389.6483
+   Original line: Alex Nichols Head Coach, Cross Country / Assistant anichols@coloradocollege.edu 719.389.6483
+
+8. Katie Bretscher
+   Email: kbretscher@coloradocollege.edu
+   Username: kbretscher
+   Phone: 719.389.6410
+   Original line: Katie Bretscher Head Track & Field Coach - kbretscher@coloradocollege.edu 719.389.6410
+
+9. Mitch Black
+   Email: mblack@coloradocollege.edu
+   Username: mblack
+   Phone: 719.389.6874
+   Original line: Mitch Black Assistant Coach, Cross Country / Track & mblack@coloradocollege.edu 719.389.6874
+
+10. Elliot Singer
+   Email: esinger2025@coloradocollege.edu
+   Username: esinger2025
+   Original line: Elliot Singer Volunteer Assistant Coach, Cross Country esinger2025@coloradocollege.edu
+
+11. Kris Mayotte
+   Email: kmayotte@coloradocollege.edu
+   Username: kmayotte
+   Phone: 719.389.6480
+   Original line: Kris Mayotte Head Coach, Hockey kmayotte@coloradocollege.edu 719.389.6480
+
+12. Paul Pooley
+   Email: ppooley2025@coloradocollege.edu
+   Username: ppooley2025
+   Original line: Paul Pooley Associate Head Coach - Hockey ppooley2025@coloradocollege.edu
+
+13. John Lidgett
+   Email: jlidgett@coloradocollege.edu
+   Username: jlidgett
+   Phone: 719.389.6479
+   Original line: John Lidgett Assistant Coach, Hockey jlidgett@coloradocollege.edu 719.389.6479
+
+14. Jordy Murray
+   Email: jmurray2025@coloradocollege.edu
+   Username: jmurray2025
+   Original line: Jordy Murray Assistant Coach, Hockey jmurray2025@coloradocollege.edu
+
+15. Mike Horowitz
+   Email: mhorowitz@coloradocollege.edu
+   Username: mhorowitz
+   Phone: 719.389.6808
+   Original line: Mike Horowitz Head Coach, Men's Lacrosse mhorowitz@coloradocollege.edu 719.389.6808
+
+16. Joe Lopopolo
+   Email: jlopopolo2023@coloradocollege.edu
+   Username: jlopopolo2023
+   Phone: 719.389.6309
+   Original line: Joe Lopopolo Assistant Coach, Men's Lacrosse jlopopolo2023@coloradocollege.edu 719.389.6309
+
+17. Logan Buckley
+   Email: lbuckley2023@coloradocollege.edu
+   Username: lbuckley2023
+   Original line: Logan Buckley Assistant Coach, Men's Lacrosse lbuckley2023@coloradocollege.edu
+
+18. Ashley Johnson
+   Email: ajohnson@coloradocollege.edu
+   Username: ajohnson
+   Phone: 719.389.7133
+   Original line: Ashley Johnson Head Coach, Women's Lacrosse ajohnson@coloradocollege.edu 719.389.7133
+
+19. Regan Cook
+   Email: rcook2023@coloradocollege.edu
+   Username: rcook2023
+   Original line: Regan Cook Assistant Coach, Women's Lacrosse rcook2023@coloradocollege.edu
+
+20. Scott Palguta
+   Email: spalguta@coloradocollege.edu
+   Username: spalguta
+   Phone: 719.389.6517
+   Original line: Scott Palguta Head Coach, Men's Soccer spalguta@coloradocollege.edu 719.389.6517
+
+21. Kevin Doyle
+   Email: kdoyle2025@coloradocollege.edu
+   Username: kdoyle2025
+   Original line: Kevin Doyle Assistant Coach, Men's Soccer kdoyle2025@coloradocollege.edu
+
+22. Tomas Martinez
+   Email: tmartinez@ColoradoCollege.ed
+   Username: tmartinez
+   Original line: Tomas Martinez Assistant Coach, Men's Soccer tmartinez@ColoradoCollege.ed
+
+23. Dan Highstead
+   Email: dhighstead@coloradocollege.edu
+   Username: dhighstead
+   Original line: Dan Highstead Assistant Coach, Men's Soccer dhighstead@coloradocollege.edu
+
+24. Keri Sanchez
+   Email: ksanchez@coloradocollege.edu
+   Username: ksanchez
+   Phone: 719.389.6492
+   Original line: Keri Sanchez Head Coach, Women's Soccer ksanchez@coloradocollege.edu 719.389.6492
+
+25. Chris Dodd
+   Email: cdodd@coloradocollege.edu
+   Username: cdodd
+   Phone: 719.389.6496
+   Original line: Chris Dodd Assistant Coach, Women's Soccer cdodd@coloradocollege.edu 719.389.6496
+
+26. Kelsey Brouwer
+   Email: kbrouwer@coloradocollege.edu
+   Username: kbrouwer
+   Phone: 719.389.6481
+   Original line: Kelsey Brouwer Assistant Coach, Women's Soccer kbrouwer@coloradocollege.edu 719.389.6481
+
+27. Frankie LaManna
+   Email: flamanna2024@coloradocollege.edu
+   Username: flamanna2024
+   Original line: Frankie LaManna Assistant Coach, Women's Soccer flamanna2024@coloradocollege.edu
+
+28. Jen Buffin
+   Email: jbuffin@coloradocollege.edu
+   Username: jbuffin
+   Phone: 719.389.6018
+   Original line: Jen Buffin Head Coach, Swimming and Diving jbuffin@coloradocollege.edu 719.389.6018
+
+29. Ellen Walker
+   Email: ellen.walker@coloradocollege.edu
+   Username: ellen.walker
+   Phone: 719.389.6486
+   Original line: Ellen Walker Diving Coach ellen.walker@coloradocollege.edu 719.389.6486
+
+30. Adric Arndt
+   Email: aarndt@coloradocollege.edu
+   Username: aarndt
+   Original line: Adric Arndt Assistant Coach, Swimming and Diving aarndt@coloradocollege.edu
+
+31. Anthony Weber
+   Email: anthony.weber@coloradocollege.edu
+   Username: anthony.weber
+   Phone: 719.389.6840
+   Original line: Anthony Weber Head Coach, Men's and Women's Tennis anthony.weber@coloradocollege.edu 719.389.6840
+
+32. Ilona Wilson
+   Email: ilona.wilson@coloradocollege.edu
+   Username: ilona.wilson
+   Phone: 603.568.5789
+   Original line: Ilona Wilson Assistant Coach, Men's and Women's ilona.wilson@coloradocollege.edu 603.568.5789
+
+33. Katie Bretscher
+   Email: kbretscher@coloradocollege.edu
+   Username: kbretscher
+   Phone: 719.389.6410
+   Original line: Katie Bretscher Head Track & Field Coach - kbretscher@coloradocollege.edu 719.389.6410
+
+34. Alex Nichols
+   Email: anichols@coloradocollege.edu
+   Username: anichols
+   Phone: 719.389.6483
+   Original line: Alex Nichols Head Coach, Cross Country / Assistant anichols@coloradocollege.edu 719.389.6483
+
+35. Mitch Black
+   Email: mblack@coloradocollege.edu
+   Username: mblack
+   Phone: 719.389.6874
+   Original line: Mitch Black Assistant Coach, Cross Country / Track & mblack@coloradocollege.edu 719.389.6874
+
+36. Sharon Dingman
+   Email: sdingman@coloradocollege.edu
+   Username: sdingman
+   Phone: 719.389.6485
+   Original line: Sharon Dingman Head Coach, Volleyball sdingman@coloradocollege.edu 719.389.6485
+
+37. Nikki Binetti
+   Email: nbinetti2025@coloradocollege.edu
+   Username: nbinetti2025
+   Phone: 719.389.7314
+   Original line: Nikki Binetti Assistant Coach, Volleyball nbinetti2025@coloradocollege.edu 719.389.7314
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jeff Conarroe Head Coach, Men's Basketball jconarroe@coloradocollege.edu 719.389.6482
+• Cam McKinney Assistant Coach, Men's Basketball cmckinney2025@coloradocollege.edu
+• Derrick Rodgers Assistant Coach, Men's Basketball drodgers2024@coloradocollege.edu
+• Katherine Auguste Head Coach, Women's Basketball katherine.menendez@coloradocollege.edu 719.389.6478
+• Drew Mitchell Assistant Coach, Women's Basketball dmitchell2024@coloradocollege.edu
+• Lisa Guhl Assistant Coach, Women's Basketball lguhl@coloradocollege.edu
+• Alex Nichols Head Coach, Cross Country / Assistant anichols@coloradocollege.edu 719.389.6483
+• Katie Bretscher Head Track & Field Coach - kbretscher@coloradocollege.edu 719.389.6410
+• Mitch Black Assistant Coach, Cross Country / Track & mblack@coloradocollege.edu 719.389.6874
+• Elliot Singer Volunteer Assistant Coach, Cross Country esinger2025@coloradocollege.edu
+• Kris Mayotte Head Coach, Hockey kmayotte@coloradocollege.edu 719.389.6480
+• Paul Pooley Associate Head Coach - Hockey ppooley2025@coloradocollege.edu
+• John Lidgett Assistant Coach, Hockey jlidgett@coloradocollege.edu 719.389.6479
+• Jordy Murray Assistant Coach, Hockey jmurray2025@coloradocollege.edu
+• Mike Horowitz Head Coach, Men's Lacrosse mhorowitz@coloradocollege.edu 719.389.6808
+• Joe Lopopolo Assistant Coach, Men's Lacrosse jlopopolo2023@coloradocollege.edu 719.389.6309
+• Logan Buckley Assistant Coach, Men's Lacrosse lbuckley2023@coloradocollege.edu
+• Ashley Johnson Head Coach, Women's Lacrosse ajohnson@coloradocollege.edu 719.389.7133
+• Regan Cook Assistant Coach, Women's Lacrosse rcook2023@coloradocollege.edu
+• Scott Palguta Head Coach, Men's Soccer spalguta@coloradocollege.edu 719.389.6517
+• Kevin Doyle Assistant Coach, Men's Soccer kdoyle2025@coloradocollege.edu
+• Tomas Martinez Assistant Coach, Men's Soccer tmartinez@ColoradoCollege.ed
+• Dan Highstead Assistant Coach, Men's Soccer dhighstead@coloradocollege.edu
+• Keri Sanchez Head Coach, Women's Soccer ksanchez@coloradocollege.edu 719.389.6492
+• Chris Dodd Assistant Coach, Women's Soccer cdodd@coloradocollege.edu 719.389.6496
+• Kelsey Brouwer Assistant Coach, Women's Soccer kbrouwer@coloradocollege.edu 719.389.6481
+• Frankie LaManna Assistant Coach, Women's Soccer flamanna2024@coloradocollege.edu
+• Jen Buffin Head Coach, Swimming and Diving jbuffin@coloradocollege.edu 719.389.6018
+• Ellen Walker Diving Coach ellen.walker@coloradocollege.edu 719.389.6486
+• Adric Arndt Assistant Coach, Swimming and Diving aarndt@coloradocollege.edu
+• Anthony Weber Head Coach, Men's and Women's Tennis anthony.weber@coloradocollege.edu 719.389.6840
+• Ilona Wilson Assistant Coach, Men's and Women's ilona.wilson@coloradocollege.edu 603.568.5789
+• Katie Bretscher Head Track & Field Coach - kbretscher@coloradocollege.edu 719.389.6410
+• Alex Nichols Head Coach, Cross Country / Assistant anichols@coloradocollege.edu 719.389.6483
+• Mitch Black Assistant Coach, Cross Country / Track & mblack@coloradocollege.edu 719.389.6874
+• Sharon Dingman Head Coach, Volleyball sdingman@coloradocollege.edu 719.389.6485
+• Nikki Binetti Assistant Coach, Volleyball nbinetti2025@coloradocollege.edu 719.389.7314

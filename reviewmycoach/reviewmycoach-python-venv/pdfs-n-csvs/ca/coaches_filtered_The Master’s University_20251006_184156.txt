@@ -1,0 +1,304 @@
+COACH ENTRIES FOUND - 2025-10-06 18:41:56
+============================================================
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jim Rickard
+   Email: jrickard@masters.edu
+   Username: jrickard
+   Phone: (661) 362-2781
+   Original line: Jim Rickard Athletic Director, Men's Soccer Head Coach jrickard@masters.edu 661-362-2781 The Master's
+
+2. Annett Davis
+   Email: adavis@masters.edu
+   Username: adavis
+   Phone: (661) 362-2765
+   Original line: Annett Davis Beach Volleyball Head Coach, Senior Women's adavis@masters.edu 661-362-2765 UCLA '95
+
+3. Jared Goldberg
+   Email: jgoldberg@masters.edu
+   Username: jgoldberg
+   Phone: (661) 362-2768
+   Original line: Jared Goldberg Men's Volleyball Head Coach, Compliance jgoldberg@masters.edu 661-362-2768 Grand Canyon
+
+4. Monte Brooks
+   Email: mbrooks@masters.edu
+   Username: mbrooks
+   Phone: (661) 362-2776
+   Original line: Monte Brooks Head Coach mbrooks@masters.edu 661-362-2776 San Jose State
+
+5. Rob Winslow
+   Email: rwinslow@masters.edu
+   Username: rwinslow
+   Original line: Rob Winslow Pitching Coach rwinslow@masters.edu The Master's
+
+6. Sean Harris
+   Email: johnfifteen.16@gmail.com
+   Username: johnfifteen.16
+   Phone: (503) 705-2582
+   Original line: Sean Harris Assistant Coach, Recruiting Coordinator johnfifteen.16@gmail.com 503-705-2582
+
+7. Kelvin Starr
+   Email: kstarr@masters.edu
+   Username: kstarr
+   Phone: (661) 362-2766
+   Original line: Kelvin Starr Head Coach kstarr@masters.edu 661-362-2766 Christian Heritage
+
+8. Troy Leaf
+   Email: tleaf@masters.edu
+   Username: tleaf
+   Original line: Troy Leaf Associate Head Coach tleaf@masters.edu Azusa Pacific
+
+9. Jordan Starr
+   Email: jstarr@masters.edu
+   Username: jstarr
+   Original line: Jordan Starr Assistant Coach jstarr@masters.edu The Master's
+
+10. Thomas Lowery
+   Email: tlowery@masters.edu
+   Username: tlowery
+   Original line: Thomas Lowery Assistant Coach tlowery@masters.edu Christian Heritage
+
+11. Fonda Wilson
+   Email: fwilson@masters.edu
+   Username: fwilson
+   Phone: (661) 362-2772
+   Original line: Fonda Wilson Head Coach fwilson@masters.edu 661-362-2772 Grand Canyon
+
+12. Jaelyn Wilson
+   Email: jwilson@masters.edu
+   Username: jwilson
+   Original line: Jaelyn Wilson Assistant Coach jwilson@masters.edu Grand Canyon
+
+13. Dylan Flannery
+   Email: dflannery@masters.edu
+   Username: dflannery
+   Original line: Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+
+14. Daniel Rush
+   Email: drush@masters.edu
+   Username: drush
+   Phone: (661) 362-2774
+   Original line: Daniel Rush Head Coach drush@masters.edu 661-362-2774
+
+15. Micaiah Scott
+   Email: mscott@masters.edu
+   Username: mscott
+   Original line: Micaiah Scott Assistant Coach mscott@masters.edu The Master's
+
+16. Caleb Pouliot
+   Email: pouliotcj@masters.edu
+   Username: pouliotcj
+   Original line: Caleb Pouliot Assistant Coach pouliotcj@masters.edu The Master's
+
+17. Josh Nunez
+   Email: nunezjb@masters.edu
+   Username: nunezjb
+   Original line: Josh Nunez Assistant Coach - Distance nunezjb@masters.edu The Master's
+
+18. Dylan Flannery
+   Email: dflannery@masters.edu
+   Username: dflannery
+   Original line: Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+
+19. Luke Brueckner
+   Email: lbrueckner@masters.edu
+   Username: lbrueckner
+   Phone: (661) 362-2758
+   Original line: Luke Brueckner Head Coach Men's & Women's Golf lbrueckner@masters.edu 661-362-2758 The Master's
+
+20. Craig DeSpain
+   Email: cdespain@masters.edu
+   Username: cdespain
+   Original line: Craig DeSpain Assistant Coach cdespain@masters.edu
+
+21. Jim Rickard
+   Email: jrickard@masters.edu
+   Username: jrickard
+   Phone: (661) 362-2781
+   Original line: Jim Rickard Athletic Director, Men's Soccer Head Coach jrickard@masters.edu 661-362-2781 The Master's
+
+22. Humphrey Mahowa
+   Email: hmahowa@masters.edu
+   Username: hmahowa
+   Original line: Humphrey Mahowa Assistant Coach hmahowa@masters.edu The Master's
+
+23. Jose Villafan
+   Email: jvillafan@gemcorp.com
+   Username: jvillafan
+   Original line: Jose Villafan Assistant Coach jvillafan@gemcorp.com Fresno State '09
+
+24. Kian Bensend
+   Email: bensendka@masters.edu
+   Username: bensendka
+   Original line: Kian Bensend Assistant Coach - Goalkeepers bensendka@masters.edu The Master's
+
+25. Dylan Flannery
+   Email: dflannery@masters.edu
+   Username: dflannery
+   Original line: Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+
+26. Esteban Chavez
+   Email: echavez@masters.edu
+   Username: echavez
+   Phone: (626) 379-4497
+   Original line: Esteban Chavez Head Coach echavez@masters.edu 626-379-4497 Cal State-LA '97
+
+27. Kate Merical
+   Email: kmerical@masters.edu
+   Username: kmerical
+   Original line: Kate Merical Assistant Coach kmerical@masters.edu The Master's
+
+28. Jack Craig
+   Email: jcraig@masters.edu
+   Username: jcraig
+   Phone: (805) 479-8989
+   Original line: Jack Craig Assistant Coach/Recruiting Coordinator jcraig@masters.edu 805-479-8989
+
+29. Dylan Flannery
+   Email: dflannery@masters.edu
+   Username: dflannery
+   Original line: Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+
+30. Curren Bates
+   Email: cbates@masters.edu
+   Username: cbates
+   Phone: (661) 362-2779
+   Original line: Curren Bates Head Coach cbates@masters.edu 661-362-2779 The Master's
+
+31. Dylan Flannery
+   Email: dflannery@masters.edu
+   Username: dflannery
+   Original line: Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+
+32. Daniel Rush
+   Email: drush@masters.edu
+   Username: drush
+   Phone: (661) 362-2774
+   Original line: Daniel Rush Head Coach drush@masters.edu 661-362-2774
+
+33. Micaiah Scott
+   Email: mscott@masters.edu
+   Username: mscott
+   Original line: Micaiah Scott Assistant Coach mscott@masters.edu The Master's
+
+34. Caleb Pouliot
+   Email: pouliotcj@masters.edu
+   Username: pouliotcj
+   Original line: Caleb Pouliot Assistant Coach pouliotcj@masters.edu The Master's
+
+35. Josh Nunez
+   Email: nunezjb@masters.edu
+   Username: nunezjb
+   Original line: Josh Nunez Assistant Coach - Distance nunezjb@masters.edu The Master's
+
+36. Dylan Flannery
+   Email: dflannery@masters.edu
+   Username: dflannery
+   Original line: Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+
+37. Jared Goldberg
+   Email: jgoldberg@masters.edu
+   Username: jgoldberg
+   Phone: (661) 362-2768
+   Original line: Jared Goldberg Men's Volleyball Head Coach, Compliance jgoldberg@masters.edu 661-362-2768 Grand Canyon
+
+38. Zachary Mayer
+   Email: zmayer@masters.edu
+   Username: zmayer
+   Original line: Zachary Mayer Assistant Coach zmayer@masters.edu
+
+39. Dylan Flannery
+   Email: dflannery@masters.edu
+   Username: dflannery
+   Original line: Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+
+40. McKenna Hafner
+   Email: mhafner@masters.edu
+   Username: mhafner
+   Original line: McKenna Hafner Women's Volleyball Head Coach mhafner@masters.edu The Master's
+
+41. Dylan Flannery
+   Email: dflannery@masters.edu
+   Username: dflannery
+   Original line: Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+
+42. Johnny Buchanan
+   Email: JBuchanan@masters.edu
+   Username: JBuchanan
+   Original line: Johnny Buchanan Assistant Coach/Recruiting Coordinator JBuchanan@masters.edu
+
+43. Ruby Duncan
+   Email: RDuncan@masters.edu
+   Username: RDuncan
+   Original line: Ruby Duncan Assistant Coach RDuncan@masters.edu The Master's
+
+44. Annett Davis
+   Email: adavis@masters.edu
+   Username: adavis
+   Phone: (661) 362-2765
+   Original line: Annett Davis Beach Volleyball Head Coach, Senior Women's adavis@masters.edu 661-362-2765 UCLA '95
+
+45. Luke Brueckner
+   Email: lbrueckner@masters.edu
+   Username: lbrueckner
+   Phone: (661) 362-2758
+   Original line: Luke Brueckner Head Coach Men's & Women's Golf lbrueckner@masters.edu 661-362-2758 The Master's
+
+46. Craig DeSpain
+   Email: cdespain@masters.edu
+   Username: cdespain
+   Original line: Craig DeSpain Assistant Coach cdespain@masters.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jim Rickard Athletic Director, Men's Soccer Head Coach jrickard@masters.edu 661-362-2781 The Master's
+• Annett Davis Beach Volleyball Head Coach, Senior Women's adavis@masters.edu 661-362-2765 UCLA '95
+• Jared Goldberg Men's Volleyball Head Coach, Compliance jgoldberg@masters.edu 661-362-2768 Grand Canyon
+• Monte Brooks Head Coach mbrooks@masters.edu 661-362-2776 San Jose State
+• Rob Winslow Pitching Coach rwinslow@masters.edu The Master's
+• Sean Harris Assistant Coach, Recruiting Coordinator johnfifteen.16@gmail.com 503-705-2582
+• Kelvin Starr Head Coach kstarr@masters.edu 661-362-2766 Christian Heritage
+• Troy Leaf Associate Head Coach tleaf@masters.edu Azusa Pacific
+• Jordan Starr Assistant Coach jstarr@masters.edu The Master's
+• Thomas Lowery Assistant Coach tlowery@masters.edu Christian Heritage
+• Fonda Wilson Head Coach fwilson@masters.edu 661-362-2772 Grand Canyon
+• Jaelyn Wilson Assistant Coach jwilson@masters.edu Grand Canyon
+• Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+• Daniel Rush Head Coach drush@masters.edu 661-362-2774
+• Micaiah Scott Assistant Coach mscott@masters.edu The Master's
+• Caleb Pouliot Assistant Coach pouliotcj@masters.edu The Master's
+• Josh Nunez Assistant Coach - Distance nunezjb@masters.edu The Master's
+• Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+• Luke Brueckner Head Coach Men's & Women's Golf lbrueckner@masters.edu 661-362-2758 The Master's
+• Craig DeSpain Assistant Coach cdespain@masters.edu
+• Jim Rickard Athletic Director, Men's Soccer Head Coach jrickard@masters.edu 661-362-2781 The Master's
+• Humphrey Mahowa Assistant Coach hmahowa@masters.edu The Master's
+• Jose Villafan Assistant Coach jvillafan@gemcorp.com Fresno State '09
+• Kian Bensend Assistant Coach - Goalkeepers bensendka@masters.edu The Master's
+• Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+• Esteban Chavez Head Coach echavez@masters.edu 626-379-4497 Cal State-LA '97
+• Kate Merical Assistant Coach kmerical@masters.edu The Master's
+• Jack Craig Assistant Coach/Recruiting Coordinator jcraig@masters.edu 805-479-8989
+• Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+• Curren Bates Head Coach cbates@masters.edu 661-362-2779 The Master's
+• Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+• Daniel Rush Head Coach drush@masters.edu 661-362-2774
+• Micaiah Scott Assistant Coach mscott@masters.edu The Master's
+• Caleb Pouliot Assistant Coach pouliotcj@masters.edu The Master's
+• Josh Nunez Assistant Coach - Distance nunezjb@masters.edu The Master's
+• Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+• Jared Goldberg Men's Volleyball Head Coach, Compliance jgoldberg@masters.edu 661-362-2768 Grand Canyon
+• Zachary Mayer Assistant Coach zmayer@masters.edu
+• Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+• McKenna Hafner Women's Volleyball Head Coach mhafner@masters.edu The Master's
+• Dylan Flannery Strength & Conditioning Coach - M&W Soccer, dflannery@masters.edu Adams State
+• Johnny Buchanan Assistant Coach/Recruiting Coordinator JBuchanan@masters.edu
+• Ruby Duncan Assistant Coach RDuncan@masters.edu The Master's
+• Annett Davis Beach Volleyball Head Coach, Senior Women's adavis@masters.edu 661-362-2765 UCLA '95
+• Luke Brueckner Head Coach Men's & Women's Golf lbrueckner@masters.edu 661-362-2758 The Master's
+• Craig DeSpain Assistant Coach cdespain@masters.edu

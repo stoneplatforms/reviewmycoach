@@ -1,0 +1,245 @@
+COACH ENTRIES FOUND - 2025-10-19 04:27:22
+============================================================
+
+Total coaches found: 39
+
+PARSED ENTRIES:
+----------------------------------------
+1. Thomas Carroll
+   Email: tcarrol8@nccu.edu
+   Username: tcarrol8
+   Original line: Thomas Carroll Head Strength & Conditioning Coach tcarrol8@nccu.edu (919)
+
+2. Jason Beaulieu
+   Email: jason.beaulieu@nccu.edu
+   Username: jason.beaulieu
+   Original line: Jason Beaulieu Strength & Conditioning Coach jason.beaulieu@nccu.edu (919)
+
+3. Demario Johnson
+   Email: djohn191@nccu.edu
+   Username: djohn191
+   Original line: Demario Johnson Jr. Strength and Conditioning Coach djohn191@nccu.edu (919)
+
+4. LeVelle Moton
+   Email: lmoton@nccu.edu
+   Username: lmoton
+   Original line: LeVelle Moton Head Coach, Men's Basketball lmoton@nccu.edu (919) McDougald-McLendon
+
+5. Reggie Sharp
+   Email: rosharp@nccu.edu
+   Username: rosharp
+   Original line: Reggie Sharp Assistant Coach, Men's Basketball rosharp@nccu.edu (919)
+
+6. Nigel Thomas
+   Email: nthomas44@nccu.edu
+   Username: nthomas44
+   Original line: Nigel Thomas Assistant Coach, Men's Basketball nthomas44@nccu.edu (919)
+
+7. Wes Pifer
+   Email: wpifer@nccu.edu
+   Username: wpifer
+   Original line: Wes Pifer Assistant Coach, Men's Basketball wpifer@nccu.edu (919)
+
+8. Jason Beaulieu
+   Email: jason.beaulieu@nccu.edu
+   Username: jason.beaulieu
+   Original line: Jason Beaulieu Strength & Conditioning Coach jason.beaulieu@nccu.edu (919)
+
+9. Terrence Baxter
+   Email: tbaxter9@nccu.edu
+   Username: tbaxter9
+   Original line: Terrence Baxter Head Coach, Women's Basketball tbaxter9@nccu.edu (919)
+
+10. Timothy Valentine
+   Email: tvalent7@nccu.edu
+   Username: tvalent7
+   Original line: Timothy Valentine Assistant Coach, Women's Basketball tvalent7@nccu.edu
+
+11. Cassie King
+   Email: cking21@nccu.edu
+   Username: cking21
+   Original line: Cassie King Assistant Women's Basketball Coach cking21@nccu.edu
+
+12. Paris Kea
+   Email: pkea@nccu.edu
+   Username: pkea
+   Original line: Paris Kea Assistant Women's Basketball Coach pkea@nccu.edu
+
+13. Demario Johnson
+   Email: djohn191@nccu.edu
+   Username: djohn191
+   Original line: Demario Johnson Jr. Strength and Conditioning Coach djohn191@nccu.edu (919)
+
+14. Trei Oliver
+   Email: trei.oliver@nccu.edu
+   Username: trei.oliver
+   Original line: Trei Oliver Head Coach, Football trei.oliver@nccu.edu (919)
+
+15. Matt Leone
+   Email: mleone@nccu.edu
+   Username: mleone
+   Original line: Matt Leone Assistant Head Coach, Football (Offensive mleone@nccu.edu (919)
+
+16. Jesse Thompson
+   Email: Jthom339@nccu.edu
+   Username: Jthom339
+   Original line: Jesse Thompson Assistant Coach, Football (Defensive Jthom339@nccu.edu (919)
+
+17. Claude Clayborne
+   Email: cclaybo2@nccu.edu
+   Username: cclaybo2
+   Original line: Claude Clayborne Assistant Coach, Football (Linebackers) cclaybo2@nccu.edu (919)
+
+18. Tony Spencer
+   Email: aspenc42@nccu.edu
+   Username: aspenc42
+   Original line: Tony Spencer Assistant Coach, Football (Tight Ends) aspenc42@nccu.edu (919)
+
+19. Erik Highsmith
+   Email: ehighsm3@nccu.edu
+   Username: ehighsm3
+   Original line: Erik Highsmith Assistant Coach, Football (Wide ehighsm3@nccu.edu (919)
+
+20. Michael Sewell
+   Email: msewell3@nccu.edu
+   Username: msewell3
+   Original line: Michael Sewell Assistant Coach, Football (Recruiting msewell3@nccu.edu (919)
+
+21. Charles Bankins
+   Email: cbankins@nccu.edu
+   Username: cbankins
+   Original line: Charles Bankins Assistant Coach, Football (Running Backs) cbankins@nccu.edu (919)
+
+22. Tim Cross
+   Email: tcross7@nccu.edu
+   Username: tcross7
+   Original line: Tim Cross Assistant Coach, Football (Defensive Line) tcross7@nccu.edu (919)
+
+23. Macander Dieudonne
+   Email: mdieudon@nccu.edu
+   Username: mdieudon
+   Original line: Macander Dieudonne Assistant Coach, Football (Offensive Line) mdieudon@nccu.edu (919)
+
+24. Davius Richard
+   Email: dricha77@nccu.edu
+   Username: dricha77
+   Original line: Davius Richard Assistant Coach, Football (Quarterbacks) dricha77@nccu.edu
+
+25. Thomas Carroll
+   Email: tcarrol8@nccu.edu
+   Username: tcarrol8
+   Original line: Thomas Carroll Head Strength & Conditioning Coach tcarrol8@nccu.edu (919)
+
+26. Demario Johnson
+   Email: djohn191@nccu.edu
+   Username: djohn191
+   Original line: Demario Johnson Jr. Strength and Conditioning Coach djohn191@nccu.edu (919)
+
+27. Kendall Wallace
+   Email: awalla49@nccu.edu
+   Username: awalla49
+   Original line: Kendall Wallace Head Coach, Men's & Women's Golf awalla49@nccu.edu
+
+28. Now-Allah James
+   Email: njames44@nccu.edu
+   Username: njames44
+   Original line: Now-Allah James Head Coach, Softball njames44@nccu.edu (919)
+
+29. John McLean
+   Email: tennispro48@hotmail.com
+   Username: tennispro48
+   Original line: John McLean IV Assistant Coach, Men's Tennis tennispro48@hotmail.com (919) Taylor Education
+
+30. Gabriel Cucalon
+   Email: gcucalon@nccu.edu
+   Username: gcucalon
+   Original line: Gabriel Cucalon Graduate Assistant Coach, Men's Tennis gcucalon@nccu.edu (919)
+
+31. Sofia Rachi
+   Email: mrachi@nccu.edu
+   Username: mrachi
+   Original line: Sofia Rachi Cucalon Head Coach, Women's Tennis mrachi@nccu.edu (919)
+
+32. Rachelle Starreveld
+   Email: rstarrev@eagles.nccu.edu
+   Username: rstarrev
+   Original line: Rachelle Starreveld Graduate Assistant Coach, Women's rstarrev@eagles.nccu.edu
+
+33. Marino Drake
+   Email: mdrake@nccu.edu
+   Username: mdrake
+   Original line: Marino Drake Assistant Coach, Track & Field - Jumps mdrake@nccu.edu (919) McDougald-McLendon
+
+34. Reggie Barnes
+   Email: rbarne41@nccu.edu
+   Username: rbarne41
+   Original line: Reggie Barnes Assistant Coach, Track & Field - rbarne41@nccu.edu McDougald-McLendon
+
+35. Curtis Pittman
+   Email: cpittm22@nccu.edu
+   Username: cpittm22
+   Original line: Curtis Pittman Assistant Coach, Track & Field/Cross cpittm22@nccu.edu (919) McDougald-McLendon
+
+36. Jonathan Paulk
+   Email: jpaulk1@NCCU.EDU
+   Username: jpaulk1
+   Original line: Jonathan Paulk Head Women's Volleyball Coach jpaulk1@NCCU.EDU (919) McDougald-McLendon
+
+37. Jon Garner
+   Email: jgarne27@nccu.edu
+   Username: jgarne27
+   Original line: Jon Garner Assistant Volleyball Coach jgarne27@nccu.edu McDougald-McLendon
+
+38. Kamille Patrick
+   Email: kpatri11@nccu.edu
+   Username: kpatri11
+   Original line: Kamille Patrick Assistant Volleyball Coach kpatri11@nccu.edu McDougald-McLendon
+
+39. La'Tasha Bynum
+   Email: lmbynum@nccu.edu
+   Username: lmbynum
+   Original line: La'Tasha Bynum Head Coach, Cheerleading lmbynum@nccu.edu (919)
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Thomas Carroll Head Strength & Conditioning Coach tcarrol8@nccu.edu (919)
+• Jason Beaulieu Strength & Conditioning Coach jason.beaulieu@nccu.edu (919)
+• Demario Johnson Jr. Strength and Conditioning Coach djohn191@nccu.edu (919)
+• LeVelle Moton Head Coach, Men's Basketball lmoton@nccu.edu (919) McDougald-McLendon
+• Reggie Sharp Assistant Coach, Men's Basketball rosharp@nccu.edu (919)
+• Nigel Thomas Assistant Coach, Men's Basketball nthomas44@nccu.edu (919)
+• Wes Pifer Assistant Coach, Men's Basketball wpifer@nccu.edu (919)
+• Jason Beaulieu Strength & Conditioning Coach jason.beaulieu@nccu.edu (919)
+• Terrence Baxter Head Coach, Women's Basketball tbaxter9@nccu.edu (919)
+• Timothy Valentine Assistant Coach, Women's Basketball tvalent7@nccu.edu
+• Cassie King Assistant Women's Basketball Coach cking21@nccu.edu
+• Paris Kea Assistant Women's Basketball Coach pkea@nccu.edu
+• Demario Johnson Jr. Strength and Conditioning Coach djohn191@nccu.edu (919)
+• Trei Oliver Head Coach, Football trei.oliver@nccu.edu (919)
+• Matt Leone Assistant Head Coach, Football (Offensive mleone@nccu.edu (919)
+• Jesse Thompson Assistant Coach, Football (Defensive Jthom339@nccu.edu (919)
+• Claude Clayborne Assistant Coach, Football (Linebackers) cclaybo2@nccu.edu (919)
+• Tony Spencer Assistant Coach, Football (Tight Ends) aspenc42@nccu.edu (919)
+• Erik Highsmith Assistant Coach, Football (Wide ehighsm3@nccu.edu (919)
+• Michael Sewell Assistant Coach, Football (Recruiting msewell3@nccu.edu (919)
+• Charles Bankins Assistant Coach, Football (Running Backs) cbankins@nccu.edu (919)
+• Tim Cross Assistant Coach, Football (Defensive Line) tcross7@nccu.edu (919)
+• Macander Dieudonne Assistant Coach, Football (Offensive Line) mdieudon@nccu.edu (919)
+• Davius Richard Assistant Coach, Football (Quarterbacks) dricha77@nccu.edu
+• Thomas Carroll Head Strength & Conditioning Coach tcarrol8@nccu.edu (919)
+• Demario Johnson Jr. Strength and Conditioning Coach djohn191@nccu.edu (919)
+• Kendall Wallace Head Coach, Men's & Women's Golf awalla49@nccu.edu
+• Now-Allah James Head Coach, Softball njames44@nccu.edu (919)
+• John McLean IV Assistant Coach, Men's Tennis tennispro48@hotmail.com (919) Taylor Education
+• Gabriel Cucalon Graduate Assistant Coach, Men's Tennis gcucalon@nccu.edu (919)
+• Sofia Rachi Cucalon Head Coach, Women's Tennis mrachi@nccu.edu (919)
+• Rachelle Starreveld Graduate Assistant Coach, Women's rstarrev@eagles.nccu.edu
+• Marino Drake Assistant Coach, Track & Field - Jumps mdrake@nccu.edu (919) McDougald-McLendon
+• Reggie Barnes Assistant Coach, Track & Field - rbarne41@nccu.edu McDougald-McLendon
+• Curtis Pittman Assistant Coach, Track & Field/Cross cpittm22@nccu.edu (919) McDougald-McLendon
+• Jonathan Paulk Head Women's Volleyball Coach jpaulk1@NCCU.EDU (919) McDougald-McLendon
+• Jon Garner Assistant Volleyball Coach jgarne27@nccu.edu McDougald-McLendon
+• Kamille Patrick Assistant Volleyball Coach kpatri11@nccu.edu McDougald-McLendon
+• La'Tasha Bynum Head Coach, Cheerleading lmbynum@nccu.edu (919)

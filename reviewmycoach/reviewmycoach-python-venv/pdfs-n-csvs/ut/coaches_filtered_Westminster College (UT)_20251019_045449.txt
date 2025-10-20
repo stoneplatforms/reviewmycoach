@@ -1,0 +1,240 @@
+COACH ENTRIES FOUND - 2025-10-19 04:54:50
+============================================================
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kasey Janes
+   Email: kjanes@westminsteru.edu
+   Username: kjanes
+   Phone: 801.832.2446
+   Original line: Kasey Janes Wellness Performance Coach - Return to Sport 801.832.2446 Payne kjanes@westminsteru.edu
+
+2. Chris Hendrickson
+   Email: chendrickson@westminsteru.edu
+   Username: chendrickson
+   Phone: 801.832.2349
+   Original line: Chris Hendrickson Head Coach Men's & Women's Alpine Skiing 801.832.2349 Payne chendrickson@westminsteru.edu
+
+3. Norm Parrish
+   Email: nparrish@westminsteru.edu
+   Username: nparrish
+   Phone: 801.832.2336
+   Original line: Norm Parrish Head Coach Men's Basketball 801.832.2336 HWAC 128 nparrish@westminsteru.edu
+
+4. Trevor Van
+   Email: tvantassel@westminsteru.edu
+   Username: tvantassel
+   Phone: 801.832.2342
+   Original line: Trevor Van Tassel Assistant Coach Men's Basketball 801.832.2342 HWAC 131 tvantassel@westminsteru.edu
+
+5. Asami Morita
+   Email: amorita@westminsteru.edu
+   Username: amorita
+   Phone: 801.832.2340
+   Original line: Asami Morita Women's Basketball Head Coach 801.832.2340 HWAC 109 amorita@westminsteru.edu
+
+6. Marquessa Gilson
+   Email: mgilson@westminsteru.edu
+   Username: mgilson
+   Original line: Marquessa Gilson Assistant Coach Women's Basketball HWAC 108 mgilson@westminsteru.edu
+
+7. Megan Vera
+   Email: mvera@westminsteru.edu
+   Username: mvera
+   Original line: Megan Vera Assistant Women's Basketball Coach (Volunteer) mvera@westminsteru.edu
+
+8. Kenzie Newton
+   Email: mnewton@westminsteru.edu
+   Username: mnewton
+   Original line: Kenzie Newton Assistant Women's Basketball Coach (Volunteer) mnewton@westminsteru.edu
+
+9. Janelle Branch
+   Email: jbranch@westminsteru.edu
+   Username: jbranch
+   Phone: 801.832.2354
+   Original line: Janelle Branch Head Coach Men's & Women's Cross Country and 801.832.2354 Payne jbranch@westminsteru.edu
+
+10. Grant Brobeck
+   Email: gbrobeck@westminsteru.edu
+   Username: gbrobeck
+   Phone: 801.832.2334
+   Original line: Grant Brobeck Assistant Coach Men's & Women's Track & Field 801.832.2334 Payne gbrobeck@westminsteru.edu
+
+11. Alec Williams
+   Email: awilliams1@westminsteru.edu
+   Username: awilliams1
+   Original line: Alec Williams Assistant Coach Men's Golf HWAC awilliams1@westminsteru.edu
+
+12. Erika Bell
+   Email: ebell@westminsteru.edu
+   Username: ebell
+   Original line: Erika Bell Assistant Coach Women's Golf ebell@westminsteru.edu
+
+13. Brad Lavoie
+   Email: blavoie@westminsteru.edu
+   Username: blavoie
+   Phone: 801.832.2363
+   Original line: Brad Lavoie Head Coach Men's Lacrosse 801.832.2363 Payne 107 blavoie@westminsteru.edu
+
+14. Nic Mastergeorge
+   Email: nmastergeorge@westminsteru.edu
+   Username: nmastergeorge
+   Phone: 801.832.2359
+   Original line: Nic Mastergeorge Assistant Coach Men's Lacrosse 801.832.2359 Payne 107 nmastergeorge@westminsteru.edu
+
+15. Steve Ricci
+   Email: sricci@westminsteru.edu
+   Username: sricci
+   Phone: 801.832.2359
+   Original line: Steve Ricci Assistant Coach Men's Lacrosse 801.832.2359 Payne 107 sricci@westminsteru.edu
+
+16. Kyle Cord
+   Email: kcord@westminsteru.edu
+   Username: kcord
+   Phone: 801.832.2359
+   Original line: Kyle Cord Assistant Coach Men's Lacrosse (Volunteer) 801.832.2359 Payne 107 kcord@westminsteru.edu
+
+17. Ashley Tack
+   Email: atack@westminsteru.edu
+   Username: atack
+   Phone: 801.832.2350
+   Original line: Ashley Tack Head Coach Women's Lacrosse 801.832.2350 Payne atack@westminsteru.edu
+
+18. Keely Carolan
+   Email: kcarolan-pratt@westminsteru.edu
+   Username: kcarolan-pratt
+   Original line: Keely Carolan Head Coach Men’s and Women’s Climbing kcarolan-pratt@westminsteru.edu
+
+19. Nic Sims
+   Email: nsims@westminsteru.edu
+   Username: nsims
+   Original line: Nic Sims Head Coach Men’s and Women’s Mountain Biking nsims@westminsteru.edu
+
+20. Jackson Kelley
+   Email: jkelley@westminsteru.edu
+   Username: jkelley
+   Original line: Jackson Kelley Head Coach Snowboard Shaw 100 jkelley@westminsteru.edu
+
+21. Ben Bogart
+   Email: bbogart@westminsteru.edu
+   Username: bbogart
+   Original line: Ben Bogart Assistant Coach Snowboard Shaw 100 bbogart@westminsteru.edu
+
+22. Addie Gardner
+   Email: agardner@westminsteru.edu
+   Username: agardner
+   Original line: Addie Gardner Assistant Coach Snowboard Shaw 100 agardner@westminsteru.edu
+
+23. Eric Nicholson
+   Email: enicholson@westminsteru.edu
+   Username: enicholson
+   Original line: Eric Nicholson Head Coach Freeski Shaw 100 enicholson@westminsteru.edu
+
+24. Kiley Matthews
+   Email: kmatthews@westminsteru.edu
+   Username: kmatthews
+   Original line: Kiley Matthews Assistant Coach Freeski Shaw 100 kmatthews@westminsteru.edu
+
+25. Luke O'Brien
+   Email: lobrien@westminsteru.edu
+   Username: lobrien
+   Original line: Luke O'Brien Assistant Coach Freeski Shaw 100 lobrien@westminsteru.edu
+
+26. Josh Pittman
+   Email: jpittman@westminsteru.edu
+   Username: jpittman
+   Phone: 801.832.2364
+   Original line: Josh Pittman Head Coach Men's Soccer 801.832.2364 Payne jpittman@westminsteru.edu
+
+27. Eric Stephens
+   Email: estephens@westminsteru.edu
+   Username: estephens
+   Phone: 801.832.2364
+   Original line: Eric Stephens Assistant Coach Men's Soccer 801.832.2364 Payne estephens@westminsteru.edu
+
+28. Spencer Jackson
+   Email: sjackson@westminsteru.edu
+   Username: sjackson
+   Original line: Spencer Jackson Assistant Coach Men's Soccer sjackson@westminsteru.edu
+
+29. Tony LeBlanc
+   Email: tleblanc@westminsteru.edu
+   Username: tleblanc
+   Phone: 801.832.2328
+   Original line: Tony LeBlanc Head Coach Women's Soccer 801.832.2328 Payne 108 tleblanc@westminsteru.edu
+
+30. Justine Jones
+   Email: jnjones@westminsteru.edu
+   Username: jnjones
+   Phone: 801.832.2328
+   Original line: Justine Jones Assistant Coach Women's Soccer 801.832.2328 Payne 108 jnjones@westminsteru.edu
+
+31. Noah Larkin
+   Email: Nlarkin@westminsteru.edu
+   Username: Nlarkin
+   Original line: Noah Larkin Women's Soccer Goalkeeper Coach Nlarkin@westminsteru.edu
+
+32. Janelle Branch
+   Email: jbranch@westminsteru.edu
+   Username: jbranch
+   Phone: 801.832.2354
+   Original line: Janelle Branch Head Coach Men's & Women's Cross Country and 801.832.2354 Payne jbranch@westminsteru.edu
+
+33. Grant Brobeck
+   Email: gbrobeck@westminsteru.edu
+   Username: gbrobeck
+   Phone: 801.832.2334
+   Original line: Grant Brobeck Assistant Coach Men's & Women's Track & Field 801.832.2334 Payne gbrobeck@westminsteru.edu
+
+34. Sue Dulaney
+   Email: sdulaney@westminsteru.edu
+   Username: sdulaney
+   Phone: 801.832.2343
+   Original line: Sue Dulaney Head Coach Women's Volleyball 801.832.2343 HWAC 110 sdulaney@westminsteru.edu
+
+35. Zanea Spencer
+   Email: zspencer@westminsteru.edu
+   Username: zspencer
+   Original line: Zanea Spencer Assistant Coach Volleyball HWAC zspencer@westminsteru.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kasey Janes Wellness Performance Coach - Return to Sport 801.832.2446 Payne kjanes@westminsteru.edu
+• Chris Hendrickson Head Coach Men's & Women's Alpine Skiing 801.832.2349 Payne chendrickson@westminsteru.edu
+• Norm Parrish Head Coach Men's Basketball 801.832.2336 HWAC 128 nparrish@westminsteru.edu
+• Trevor Van Tassel Assistant Coach Men's Basketball 801.832.2342 HWAC 131 tvantassel@westminsteru.edu
+• Asami Morita Women's Basketball Head Coach 801.832.2340 HWAC 109 amorita@westminsteru.edu
+• Marquessa Gilson Assistant Coach Women's Basketball HWAC 108 mgilson@westminsteru.edu
+• Megan Vera Assistant Women's Basketball Coach (Volunteer) mvera@westminsteru.edu
+• Kenzie Newton Assistant Women's Basketball Coach (Volunteer) mnewton@westminsteru.edu
+• Janelle Branch Head Coach Men's & Women's Cross Country and 801.832.2354 Payne jbranch@westminsteru.edu
+• Grant Brobeck Assistant Coach Men's & Women's Track & Field 801.832.2334 Payne gbrobeck@westminsteru.edu
+• Alec Williams Assistant Coach Men's Golf HWAC awilliams1@westminsteru.edu
+• Erika Bell Assistant Coach Women's Golf ebell@westminsteru.edu
+• Brad Lavoie Head Coach Men's Lacrosse 801.832.2363 Payne 107 blavoie@westminsteru.edu
+• Nic Mastergeorge Assistant Coach Men's Lacrosse 801.832.2359 Payne 107 nmastergeorge@westminsteru.edu
+• Steve Ricci Assistant Coach Men's Lacrosse 801.832.2359 Payne 107 sricci@westminsteru.edu
+• Kyle Cord Assistant Coach Men's Lacrosse (Volunteer) 801.832.2359 Payne 107 kcord@westminsteru.edu
+• Ashley Tack Head Coach Women's Lacrosse 801.832.2350 Payne atack@westminsteru.edu
+• Keely Carolan Head Coach Men’s and Women’s Climbing kcarolan-pratt@westminsteru.edu
+• Nic Sims Head Coach Men’s and Women’s Mountain Biking nsims@westminsteru.edu
+• Jackson Kelley Head Coach Snowboard Shaw 100 jkelley@westminsteru.edu
+• Ben Bogart Assistant Coach Snowboard Shaw 100 bbogart@westminsteru.edu
+• Addie Gardner Assistant Coach Snowboard Shaw 100 agardner@westminsteru.edu
+• Eric Nicholson Head Coach Freeski Shaw 100 enicholson@westminsteru.edu
+• Kiley Matthews Assistant Coach Freeski Shaw 100 kmatthews@westminsteru.edu
+• Luke O'Brien Assistant Coach Freeski Shaw 100 lobrien@westminsteru.edu
+• Josh Pittman Head Coach Men's Soccer 801.832.2364 Payne jpittman@westminsteru.edu
+• Eric Stephens Assistant Coach Men's Soccer 801.832.2364 Payne estephens@westminsteru.edu
+• Spencer Jackson Assistant Coach Men's Soccer sjackson@westminsteru.edu
+• Tony LeBlanc Head Coach Women's Soccer 801.832.2328 Payne 108 tleblanc@westminsteru.edu
+• Justine Jones Assistant Coach Women's Soccer 801.832.2328 Payne 108 jnjones@westminsteru.edu
+• Noah Larkin Women's Soccer Goalkeeper Coach Nlarkin@westminsteru.edu
+• Janelle Branch Head Coach Men's & Women's Cross Country and 801.832.2354 Payne jbranch@westminsteru.edu
+• Grant Brobeck Assistant Coach Men's & Women's Track & Field 801.832.2334 Payne gbrobeck@westminsteru.edu
+• Sue Dulaney Head Coach Women's Volleyball 801.832.2343 HWAC 110 sdulaney@westminsteru.edu
+• Zanea Spencer Assistant Coach Volleyball HWAC zspencer@westminsteru.edu

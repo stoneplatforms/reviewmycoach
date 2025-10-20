@@ -1,0 +1,138 @@
+COACH ENTRIES FOUND - 2025-10-19 04:45:43
+============================================================
+
+Total coaches found: 21
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jessica Day
+   Email: jessica.day@bryan.edu
+   Username: jessica.day
+   Original line: Jessica Day Head Women's Volleyball Coach, Assistant Athletic Director for Sports jessica.day@bryan.edu 423-775-
+
+2. Jordan Day
+   Email: jordan.day@bryan.edu
+   Username: jordan.day
+   Original line: Jordan Day Head Baseball Coach jordan.day@bryan.edu 423-775-
+
+3. Cody Rhinehart
+   Email: cody.rhinehart@bryan.edu
+   Username: cody.rhinehart
+   Phone: 423-4680
+   Original line: Cody Rhinehart Recruiting Coordinator & Assistant Coach cody.rhinehart@bryan.edu 423-4680-
+
+4. Corey Rhinehart
+   Email: corey.rhinehart@bryan.edu
+   Username: corey.rhinehart
+   Original line: Corey Rhinehart Assistant Baseball Coach corey.rhinehart@bryan.edu
+
+5. Collin Ledbetter
+   Email: cledbette5319@bryan.edu
+   Username: cledbette5319
+   Original line: Collin Ledbetter Assistant Baseball Coach cledbette5319@bryan.edu
+
+6. Jason Laatsch
+   Email: jlaatsch3902@bryan.edu
+   Username: jlaatsch3902
+   Original line: Jason Laatsch Head Coach jlaatsch3902@bryan.edu
+
+7. Josh Muncey
+   Email: jmuncey1038@bryan.edu
+   Username: jmuncey1038
+   Original line: Josh Muncey Assistant Basketball Coach jmuncey1038@bryan.edu
+
+8. Matt Bollant
+   Email: mbollant6347@bryan.edu
+   Username: mbollant6347
+   Original line: Matt Bollant Head Coach mbollant6347@bryan.edu 217-649-
+
+9. Brittany Daoust
+   Email: bdaoust7629@bryan.edu
+   Username: bdaoust7629
+   Original line: Brittany Daoust Head Coach bdaoust7629@bryan.edu
+
+10. Jasper Wilson
+   Email: jwilson0828@bryan.edu
+   Username: jwilson0828
+   Original line: Jasper Wilson Head Coach jwilson0828@bryan.edu (423)208-
+
+11. Dustin Henderson
+   Email: dhenderso0998@bryan.edu
+   Username: dhenderso0998
+   Original line: Dustin Henderson Head Coach dhenderso0998@bryan.edu
+
+12. Jake Goins
+   Email: jake.goins@bryan.edu
+   Username: jake.goins
+   Original line: Jake Goins Head Coach jake.goins@bryan.edu 423-775-
+
+13. Taylor Lindsey
+   Email: tlindsey5450@bryan.edu
+   Username: tlindsey5450
+   Original line: Taylor Lindsey Assistant Golf Coach tlindsey5450@bryan.edu
+
+14. Tracy Davidson
+   Email: tdavidson9797@bryan.edu
+   Username: tdavidson9797
+   Original line: Tracy Davidson Pickleball Head Coach tdavidson9797@bryan.edu
+
+15. Jeremy Davidson
+   Email: jeremy.davidson@bryan.edu
+   Username: jeremy.davidson
+   Original line: Jeremy Davidson Head Coach jeremy.davidson@bryan.edu 423-775-
+
+16. Felipe Arias
+   Email: felipe.arias@bryan.edu
+   Username: felipe.arias
+   Original line: Felipe Arias Assistant Coach felipe.arias@bryan.edu
+
+17. Jake Warren
+   Email: jwarren4541@bryan.edu
+   Username: jwarren4541
+   Original line: Jake Warren Head Women's Soccer Coach jwarren4541@bryan.edu
+
+18. Leah Thompson
+   Email: lthompson0546@bryan.edu
+   Username: lthompson0546
+   Original line: Leah Thompson Head Softball Coach lthompson0546@bryan.edu 423-775-
+
+19. Nathan Thompson
+   Email: nthompson2388@bryan.edu
+   Username: nthompson2388
+   Original line: Nathan Thompson Assistant Softball Coach nthompson2388@bryan.edu
+
+20. Jasper Wilson
+   Email: jwilson0828@bryan.edu
+   Username: jwilson0828
+   Original line: Jasper Wilson Head Coach jwilson0828@bryan.edu (423)208-
+
+21. Jessica Day
+   Email: jessica.day@bryan.edu
+   Username: jessica.day
+   Original line: Jessica Day Head Women's Volleyball Coach, Assistant Athletic Director for Sports jessica.day@bryan.edu 423-775-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jessica Day Head Women's Volleyball Coach, Assistant Athletic Director for Sports jessica.day@bryan.edu 423-775-
+• Jordan Day Head Baseball Coach jordan.day@bryan.edu 423-775-
+• Cody Rhinehart Recruiting Coordinator & Assistant Coach cody.rhinehart@bryan.edu 423-4680-
+• Corey Rhinehart Assistant Baseball Coach corey.rhinehart@bryan.edu
+• Collin Ledbetter Assistant Baseball Coach cledbette5319@bryan.edu
+• Jason Laatsch Head Coach jlaatsch3902@bryan.edu
+• Josh Muncey Assistant Basketball Coach jmuncey1038@bryan.edu
+• Matt Bollant Head Coach mbollant6347@bryan.edu 217-649-
+• Brittany Daoust Head Coach bdaoust7629@bryan.edu
+• Jasper Wilson Head Coach jwilson0828@bryan.edu (423)208-
+• Dustin Henderson Head Coach dhenderso0998@bryan.edu
+• Jake Goins Head Coach jake.goins@bryan.edu 423-775-
+• Taylor Lindsey Assistant Golf Coach tlindsey5450@bryan.edu
+• Tracy Davidson Pickleball Head Coach tdavidson9797@bryan.edu
+• Jeremy Davidson Head Coach jeremy.davidson@bryan.edu 423-775-
+• Felipe Arias Assistant Coach felipe.arias@bryan.edu
+• Jake Warren Head Women's Soccer Coach jwarren4541@bryan.edu
+• Leah Thompson Head Softball Coach lthompson0546@bryan.edu 423-775-
+• Nathan Thompson Assistant Softball Coach nthompson2388@bryan.edu
+• Jasper Wilson Head Coach jwilson0828@bryan.edu (423)208-
+• Jessica Day Head Women's Volleyball Coach, Assistant Athletic Director for Sports jessica.day@bryan.edu 423-775-

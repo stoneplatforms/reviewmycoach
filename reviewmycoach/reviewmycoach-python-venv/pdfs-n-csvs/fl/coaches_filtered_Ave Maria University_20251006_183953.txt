@@ -1,0 +1,275 @@
+COACH ENTRIES FOUND - 2025-10-06 18:39:54
+============================================================
+
+Total coaches found: 44
+
+PARSED ENTRIES:
+----------------------------------------
+1. Camryn Olive
+   Email: Camryn.E.Olive@avemaria.edu
+   Username: Camryn.E.Olive
+   Original line: Camryn Olive Color Guard Coach Camryn.E.Olive@avemaria.edu
+
+2. Rob Cooper
+   Email: Robert.Cooper@avemaria.edu
+   Username: Robert.Cooper
+   Original line: Rob Cooper Head Baseball Coach Robert.Cooper@avemaria.edu
+
+3. Nate Marko
+   Email: Nate.Marko@avemaria.edu
+   Username: Nate.Marko
+   Original line: Nate Marko Assistant Coach / Hitting Coach Nate.Marko@avemaria.edu
+
+4. Jamon Copeland
+   Email: Jamon.Copeland@avemaria.edu
+   Username: Jamon.Copeland
+   Original line: Jamon Copeland Head Men's Basketball Coach Jamon.Copeland@avemaria.edu (239)
+
+5. Paul Matthews
+   Email: Bernard.Matthews@avemaria.edu
+   Username: Bernard.Matthews
+   Original line: Paul Matthews Assistant Coach Bernard.Matthews@avemaria.edu (239)
+
+6. Frank O'Brien
+   Email: Frank.OBrien@avemaria.edu
+   Username: Frank.OBrien
+   Original line: Frank O'Brien Assistant Coach Frank.OBrien@avemaria.edu
+
+7. Jelani Akil
+   Email: Jelani.Akil@avemaria.edu
+   Username: Jelani.Akil
+   Original line: Jelani Akil Head Women's Basketball Coach Jelani.Akil@avemaria.edu (239)
+
+8. Teigan McCormick
+   Email: Teigan.McCormick@avemaria.edu
+   Username: Teigan.McCormick
+   Original line: Teigan McCormick Head Volleyball Coach Teigan.McCormick@avemaria.edu
+
+9. Mallory Griffin
+   Email: Mallory.Griffin@avemaria.edu
+   Username: Mallory.Griffin
+   Original line: Mallory Griffin Assistant Coach Mallory.Griffin@avemaria.edu
+
+10. Camryn Olive
+   Email: Camryn.E.Olive@avemaria.edu
+   Username: Camryn.E.Olive
+   Original line: Camryn Olive Head Coach Camryn.E.Olive@avemaria.edu
+
+11. Alan Webb
+   Email: Alan.Webb@avemaria.edu
+   Username: Alan.Webb
+   Original line: Alan Webb Head Cross Country & Track Coach Alan.Webb@avemaria.edu
+
+12. Jacob King
+   Email: Jacob.M.King@avemaria.edu
+   Username: Jacob.M.King
+   Original line: Jacob King Assistant Coach Jacob.M.King@avemaria.edu
+
+13. Julia Webb
+   Email: Julia.Webb@avemaria.edu
+   Username: Julia.Webb
+   Original line: Julia Webb Assistant Coach Julia.Webb@avemaria.edu
+
+14. Bryan Viera
+   Email: Bryan.Viera@my.avemaria.edu
+   Username: Bryan.Viera
+   Original line: Bryan Viera Student Coach Bryan.Viera@my.avemaria.edu
+
+15. Joe Patterson
+   Email: Joseph.Patterson@avemaria.edu
+   Username: Joseph.Patterson
+   Original line: Joe Patterson Head Football Coach Joseph.Patterson@avemaria.edu
+
+16. John Klacik
+   Email: John.Klacik@avemaria.edu
+   Username: John.Klacik
+   Original line: John Klacik Offensive Line/Assistant Head Coach John.Klacik@avemaria.edu
+
+17. Kristian Marks
+   Email: Kristian.A.Marks@avemaria.edu
+   Username: Kristian.A.Marks
+   Original line: Kristian Marks Quarterbacks Coach Kristian.A.Marks@avemaria.edu
+
+18. Thomas Nargi
+   Email: Thomas.Nargi@my.avemaria.edu
+   Username: Thomas.Nargi
+   Original line: Thomas Nargi Student Coach - Quarterbacks Thomas.Nargi@my.avemaria.edu
+
+19. Joe Klucik
+   Email: Joseph.Klucik@my.avemaria.edu
+   Username: Joseph.Klucik
+   Original line: Joe Klucik Student Coach - Wide Recievers Joseph.Klucik@my.avemaria.edu
+
+20. Will Hampton
+   Email: William.Hampton2@my.avemaria.edu
+   Username: William.Hampton2
+   Original line: Will Hampton Student Coach - Offensive Line William.Hampton2@my.avemaria.edu
+
+21. Tommy Patterson
+   Email: Thomas.Patterson@my.avemaria.edu
+   Username: Thomas.Patterson
+   Original line: Tommy Patterson Student Coach - Defensive Backs Thomas.Patterson@my.avemaria.edu
+
+22. Nate Rumrill
+   Email: Nathan.Rumrill@my.avemaria.edu
+   Username: Nathan.Rumrill
+   Original line: Nate Rumrill Student Coach - Offensive Line Nathan.Rumrill@my.avemaria.edu
+
+23. Patrick Sams
+   Email: Patrick.Sams@avemaria.edu
+   Username: Patrick.Sams
+   Original line: Patrick Sams Head Men's Golf Coach Patrick.Sams@avemaria.edu
+
+24. Kate Sams
+   Email: Katherine.Sams@avemaria.edu
+   Username: Katherine.Sams
+   Original line: Kate Sams Head Women's Golf Coach Katherine.Sams@avemaria.edu
+
+25. AJ Cherubini
+   Email: AJ.J.Cherubini@avemaria.edu
+   Username: AJ.J.Cherubini
+   Original line: AJ Cherubini Assistant Coach AJ.J.Cherubini@avemaria.edu
+
+26. Katelyn Sherman
+   Email: Katelyn.J.Sherman@avemaria.edu
+   Username: Katelyn.J.Sherman
+   Original line: Katelyn Sherman Head Lacrosse Coach Katelyn.J.Sherman@avemaria.edu
+
+27. Abby Castro-Rivera
+   Email: Abby.Rivera@avemaria.edu
+   Username: Abby.Rivera
+   Original line: Abby Castro-Rivera Assistant Coach Abby.Rivera@avemaria.edu
+
+28. Stephanie Hilker
+   Email: Stephanie.C.Hiker@avemaria.edu
+   Username: Stephanie.C.Hiker
+   Original line: Stephanie Hilker Assistant Coach Stephanie.C.Hiker@avemaria.edu
+
+29. Jim Ferguson
+   Email: Jim.Ferguson@avemaria.edu
+   Username: Jim.Ferguson
+   Original line: Jim Ferguson Assistant Coach Jim.Ferguson@avemaria.edu
+
+30. Dariel Collazo
+   Email: Dariel.Collazo@avemaria.edu
+   Username: Dariel.Collazo
+   Original line: Dariel Collazo Head Coach Dariel.Collazo@avemaria.edu
+
+31. Tyler Rosser
+   Email: Tyler.Rosser@avemaria.edu
+   Username: Tyler.Rosser
+   Original line: Tyler Rosser Head Women's Soccer Coach Tyler.Rosser@avemaria.edu (239)
+
+32. Rachel Atherley
+   Email: Rachel.C.Atherley@avemaria.edu
+   Username: Rachel.C.Atherley
+   Original line: Rachel Atherley Assistant Coach Rachel.C.Atherley@avemaria.edu
+
+33. Trinity Medina
+   Email: Trinity.E.Medina@avemaria.edu
+   Username: Trinity.E.Medina
+   Original line: Trinity Medina Head Coach Trinity.E.Medina@avemaria.edu
+
+34. Giordan Harris
+   Email: Giordan.Harris@avemaria.edu
+   Username: Giordan.Harris
+   Original line: Giordan Harris Head Swimming Coach Giordan.Harris@avemaria.edu
+
+35. Josh Harriott
+   Email: Joshua.Harriott@avemaria.edu
+   Username: Joshua.Harriott
+   Original line: Josh Harriott Assistant Coach Joshua.Harriott@avemaria.edu
+
+36. Jeanne Craft
+   Email: jcraft@strengthsprep.org
+   Username: jcraft
+   Original line: Jeanne Craft Assistant Coach jcraft@strengthsprep.org
+
+37. Alan Webb
+   Email: Alan.Webb@avemaria.edu
+   Username: Alan.Webb
+   Original line: Alan Webb Head Cross Country & Track Coach Alan.Webb@avemaria.edu
+
+38. Jacob King
+   Email: Jacob.M.King@avemaria.edu
+   Username: Jacob.M.King
+   Original line: Jacob King Assistant Coach Jacob.M.King@avemaria.edu
+
+39. Julia Webb
+   Email: Julia.Webb@avemaria.edu
+   Username: Julia.Webb
+   Original line: Julia Webb Assistant Coach Julia.Webb@avemaria.edu
+
+40. William Mier
+   Email: William.Mier@avemaria.edu
+   Username: William.Mier
+   Original line: William Mier Assistant Coach - Sprints & Jumps William.Mier@avemaria.edu
+
+41. Michael Middendorf
+   Email: Michael.T.Middendorf@avemaria.edu
+   Username: Michael.T.Middendorf
+   Original line: Michael Middendorf Head Coach Michael.T.Middendorf@avemaria.edu
+
+42. Teigan McCormick
+   Email: Teigan.McCormick@avemaria.edu
+   Username: Teigan.McCormick
+   Original line: Teigan McCormick Head Volleyball Coach Teigan.McCormick@avemaria.edu
+
+43. Mallory Griffin
+   Email: Mallory.Griffin@avemaria.edu
+   Username: Mallory.Griffin
+   Original line: Mallory Griffin Assistant Coach Mallory.Griffin@avemaria.edu
+
+44. Adriana Bravo
+   Email: Adriana.Bravo@my.avemaria.edu
+   Username: Adriana.Bravo
+   Original line: Adriana Bravo Assistant Coach - Reserves Adriana.Bravo@my.avemaria.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Camryn Olive Color Guard Coach Camryn.E.Olive@avemaria.edu
+• Rob Cooper Head Baseball Coach Robert.Cooper@avemaria.edu
+• Nate Marko Assistant Coach / Hitting Coach Nate.Marko@avemaria.edu
+• Jamon Copeland Head Men's Basketball Coach Jamon.Copeland@avemaria.edu (239)
+• Paul Matthews Assistant Coach Bernard.Matthews@avemaria.edu (239)
+• Frank O'Brien Assistant Coach Frank.OBrien@avemaria.edu
+• Jelani Akil Head Women's Basketball Coach Jelani.Akil@avemaria.edu (239)
+• Teigan McCormick Head Volleyball Coach Teigan.McCormick@avemaria.edu
+• Mallory Griffin Assistant Coach Mallory.Griffin@avemaria.edu
+• Camryn Olive Head Coach Camryn.E.Olive@avemaria.edu
+• Alan Webb Head Cross Country & Track Coach Alan.Webb@avemaria.edu
+• Jacob King Assistant Coach Jacob.M.King@avemaria.edu
+• Julia Webb Assistant Coach Julia.Webb@avemaria.edu
+• Bryan Viera Student Coach Bryan.Viera@my.avemaria.edu
+• Joe Patterson Head Football Coach Joseph.Patterson@avemaria.edu
+• John Klacik Offensive Line/Assistant Head Coach John.Klacik@avemaria.edu
+• Kristian Marks Quarterbacks Coach Kristian.A.Marks@avemaria.edu
+• Thomas Nargi Student Coach - Quarterbacks Thomas.Nargi@my.avemaria.edu
+• Joe Klucik Student Coach - Wide Recievers Joseph.Klucik@my.avemaria.edu
+• Will Hampton Student Coach - Offensive Line William.Hampton2@my.avemaria.edu
+• Tommy Patterson Student Coach - Defensive Backs Thomas.Patterson@my.avemaria.edu
+• Nate Rumrill Student Coach - Offensive Line Nathan.Rumrill@my.avemaria.edu
+• Patrick Sams Head Men's Golf Coach Patrick.Sams@avemaria.edu
+• Kate Sams Head Women's Golf Coach Katherine.Sams@avemaria.edu
+• AJ Cherubini Assistant Coach AJ.J.Cherubini@avemaria.edu
+• Katelyn Sherman Head Lacrosse Coach Katelyn.J.Sherman@avemaria.edu
+• Abby Castro-Rivera Assistant Coach Abby.Rivera@avemaria.edu
+• Stephanie Hilker Assistant Coach Stephanie.C.Hiker@avemaria.edu
+• Jim Ferguson Assistant Coach Jim.Ferguson@avemaria.edu
+• Dariel Collazo Head Coach Dariel.Collazo@avemaria.edu
+• Tyler Rosser Head Women's Soccer Coach Tyler.Rosser@avemaria.edu (239)
+• Rachel Atherley Assistant Coach Rachel.C.Atherley@avemaria.edu
+• Trinity Medina Head Coach Trinity.E.Medina@avemaria.edu
+• Giordan Harris Head Swimming Coach Giordan.Harris@avemaria.edu
+• Josh Harriott Assistant Coach Joshua.Harriott@avemaria.edu
+• Jeanne Craft Assistant Coach jcraft@strengthsprep.org
+• Alan Webb Head Cross Country & Track Coach Alan.Webb@avemaria.edu
+• Jacob King Assistant Coach Jacob.M.King@avemaria.edu
+• Julia Webb Assistant Coach Julia.Webb@avemaria.edu
+• William Mier Assistant Coach - Sprints & Jumps William.Mier@avemaria.edu
+• Michael Middendorf Head Coach Michael.T.Middendorf@avemaria.edu
+• Teigan McCormick Head Volleyball Coach Teigan.McCormick@avemaria.edu
+• Mallory Griffin Assistant Coach Mallory.Griffin@avemaria.edu
+• Adriana Bravo Assistant Coach - Reserves Adriana.Bravo@my.avemaria.edu

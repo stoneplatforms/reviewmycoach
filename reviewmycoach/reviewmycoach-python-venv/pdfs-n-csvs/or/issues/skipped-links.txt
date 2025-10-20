@@ -1,0 +1,12 @@
+Willamette University.pdf :: https://willamettebearcats.com/staff-directory :: Navigation failed: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://willamettebearcats.com/staff-directory/index
+Call log:
+  - navigating to "https://willamettebearcats.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://willamettebearcats.com/staff-directory?print=true, https://willamettebearcats.com/staff-directory/print, https://willamettebearcats.com/staff-directory, https://willamettebearcats.com/staff-directory/index?print=true, https://willamettebearcats.com/staff-directory/index/print, https://willamettebearcats.com/staff-directory/index
+
+Warner Pacific University.pdf :: https://wpwarriors.com/staff-directory :: Navigation failed: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://wpwarriors.com/staff-directory/index
+Call log:
+  - navigating to "https://wpwarriors.com/staff-directory/index", waiting until "networkidle"
+
+  tried: https://wpwarriors.com/staff-directory?print=true, https://wpwarriors.com/staff-directory/print, https://wpwarriors.com/staff-directory, https://wpwarriors.com/staff-directory/index?print=true, https://wpwarriors.com/staff-directory/index/print, https://wpwarriors.com/staff-directory/index
+

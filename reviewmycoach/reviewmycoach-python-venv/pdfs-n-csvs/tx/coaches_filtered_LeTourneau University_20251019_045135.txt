@@ -1,0 +1,224 @@
+COACH ENTRIES FOUND - 2025-10-19 04:51:35
+============================================================
+
+Total coaches found: 33
+
+PARSED ENTRIES:
+----------------------------------------
+1. Paul Phillips
+   Email: paulphillips@letu.edu
+   Username: paulphillips
+   Phone: 903.233.3721
+   Original line: Paul Phillips Head Coach 903.233.3721 paulphillips@letu.edu
+
+2. Ross Skipper
+   Email: rossskipper@letu.edu
+   Username: rossskipper
+   Phone: 903.233.3741
+   Original line: Ross Skipper Pitching Coach & Recruiting Coordinator 903.233.3741 rossskipper@letu.edu
+
+3. Harrison Adelgren
+   Email: harrisonadelgren@letu.edu
+   Username: harrisonadelgren
+   Original line: Harrison Adelgren Outfield Coach harrisonadelgren@letu.edu
+
+4. Jordan Schools
+   Email: jordanschools@letu.edu
+   Username: jordanschools
+   Original line: Dr. Jordan Schools Mental Performance Coach jordanschools@letu.edu
+
+5. Joel "J"
+   Email: joelwallace@letu.edu
+   Username: joelwallace
+   Phone: 903.233.3749
+   Original line: Joel "J" Wallace Associate Head Coach & Recruiting Coordinator 903.233.3749 joelwallace@letu.edu
+
+6. Cody Ripato
+   Email: codyripato@letu.edu
+   Username: codyripato
+   Original line: Cody Ripato Player Development Coach - Assistant Coach codyripato@letu.edu
+
+7. Walker Blaine
+   Email: walkerblaine@letu.edu
+   Username: walkerblaine
+   Original line: Walker Blaine Assistant Coach walkerblaine@letu.edu
+
+8. Chris Grotemat
+   Email: chrisgrotemat@letu.edu
+   Username: chrisgrotemat
+   Original line: Chris Grotemat Assistant Coach chrisgrotemat@letu.edu
+
+9. Scot MacAllister
+   Email: scotmacallister@letu.edu
+   Username: scotmacallister
+   Phone: 903.233.3724
+   Original line: Scot MacAllister Head Coach 903.233.3724 scotmacallister@letu.edu
+
+10. Samantha Tan
+   Email: samanthatan@letu.edu
+   Username: samanthatan
+   Phone: 903.233.3738
+   Original line: Samantha Tan Assistant Coach & Recruiting Coordinator 903.233.3738 samanthatan@letu.edu
+
+11. Mikayla Jones
+   Email: mikaylajones@letu.edu
+   Username: mikaylajones
+   Original line: Mikayla Jones Assistant Coach mikaylajones@letu.edu
+
+12. Kevin Gideon
+   Email: kevingideon@letu.edu
+   Username: kevingideon
+   Phone: 903.233.3747
+   Original line: Kevin Gideon Head Coach 903.233.3747 kevingideon@letu.edu
+
+13. James Cain
+   Email: jamescain@letu.edu
+   Username: jamescain
+   Original line: James Cain Assistant Coach jamescain@letu.edu
+
+14. J. Paul
+   Email: paulleslie@letu.edu
+   Username: paulleslie
+   Phone: 903.233.3731
+   Original line: J. Paul Leslie III Head Coach 903.233.3731 / paulleslie@letu.edu
+
+15. Marta Bollinger
+   Email: martabollinger@letu.edu
+   Username: martabollinger
+   Original line: Marta Bollinger Assistant Coach martabollinger@letu.edu
+
+16. Macey Mize
+   Email: maceymize@letu.edu
+   Username: maceymize
+   Phone: 903.233.3737
+   Original line: Macey Mize Head Coach 903.233.3737 maceymize@letu.edu
+
+17. Whitney Hubeek
+   Email: whitneyhubeek@letu.edu
+   Username: whitneyhubeek
+   Phone: 903.233.3737
+   Original line: Whitney Hubeek Assistant Coach 903.233.3737 whitneyhubeek@letu.edu
+
+18. Jodi De
+   Email: jodidehart@letu.edu
+   Username: jodidehart
+   Original line: Jodi De Hart Assistant Coach jodidehart@letu.edu
+
+19. Dave Mizell
+   Email: davidmizell@letu.edu
+   Username: davidmizell
+   Original line: Dave Mizell Assistant Coach davidmizell@letu.edu
+
+20. TJ Milby
+   Email: tjmilby@letu.edu
+   Username: tjmilby
+   Phone: 903.233.3725
+   Original line: TJ Milby Head Coach 903.233.3725 tjmilby@letu.edu
+
+21. Timothy Lee
+   Email: timothylee@letu.edu
+   Username: timothylee
+   Original line: Timothy Lee Assistant Coach timothylee@letu.edu
+
+22. Karrigan Falber
+   Email: letuwsoccer@letu.edu
+   Username: letuwsoccer
+   Phone: 903.233.3726
+   Original line: Karrigan Falber Head Coach 903.233.3726 letuwsoccer@letu.edu
+
+23. Nicole Graubard
+   Email: letuwsoccer@letu.edu
+   Username: letuwsoccer
+   Original line: Nicole Graubard Assistant Coach letuwsoccer@letu.edu
+
+24. Callie McKinney
+   Email: letuwsoccer@letu.edu
+   Username: letuwsoccer
+   Original line: Callie McKinney Assistant Coach letuwsoccer@letu.edu
+
+25. Miguel Cabrera
+   Email: letuwsoccer@letu.edu
+   Username: letuwsoccer
+   Original line: Miguel Cabrera Goalkeeper Coach letuwsoccer@letu.edu
+
+26. Jordan Oberbillig
+   Email: jordanoberbillig@letu.edu
+   Username: jordanoberbillig
+   Original line: Jordan Oberbillig Assistant Coach jordanoberbillig@letu.edu
+
+27. Alex Barrero
+   Email: alejandrobarreroosun@letu.edu
+   Username: alejandrobarreroosun
+   Original line: Alex Barrero Assistant Coach alejandrobarreroosun@letu.edu
+
+28. Kevin Gideon
+   Email: kevingideon@letu.edu
+   Username: kevingideon
+   Phone: 903.233.3747
+   Original line: Kevin Gideon Assistant Coach 903.233.3747 kevingideon@letu.edu
+
+29. Whitney Grubb
+   Email: whitneygrubb@letu.edu
+   Username: whitneygrubb
+   Phone: 903.233.3732
+   Original line: Whitney Grubb Assistant Coach 903.233.3732 whitneygrubb@letu.edu
+
+30. Hannah May
+   Email: hannahmay@letu.edu
+   Username: hannahmay
+   Original line: Hannah May Assistant Coach hannahmay@letu.edu
+
+31. James Cain
+   Email: jamescain@letu.edu
+   Username: jamescain
+   Original line: James Cain Assistant Coach jamescain@letu.edu
+
+32. Alison Williams
+   Email: alisonwilliams@letu.edu
+   Username: alisonwilliams
+   Phone: 903.233.3727
+   Original line: Alison Williams Head Coach 903.233.3727 alisonwilliams@letu.edu
+
+33. Natalie Rosinbaum
+   Email: natalierosinbaum@letu.edu
+   Username: natalierosinbaum
+   Phone: 903.233.3752
+   Original line: Natalie Rosinbaum Assistant Coach 903.233.3752 natalierosinbaum@letu.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Paul Phillips Head Coach 903.233.3721 paulphillips@letu.edu
+• Ross Skipper Pitching Coach & Recruiting Coordinator 903.233.3741 rossskipper@letu.edu
+• Harrison Adelgren Outfield Coach harrisonadelgren@letu.edu
+• Dr. Jordan Schools Mental Performance Coach jordanschools@letu.edu
+• Joel "J" Wallace Associate Head Coach & Recruiting Coordinator 903.233.3749 joelwallace@letu.edu
+• Cody Ripato Player Development Coach - Assistant Coach codyripato@letu.edu
+• Walker Blaine Assistant Coach walkerblaine@letu.edu
+• Chris Grotemat Assistant Coach chrisgrotemat@letu.edu
+• Scot MacAllister Head Coach 903.233.3724 scotmacallister@letu.edu
+• Samantha Tan Assistant Coach & Recruiting Coordinator 903.233.3738 samanthatan@letu.edu
+• Mikayla Jones Assistant Coach mikaylajones@letu.edu
+• Kevin Gideon Head Coach 903.233.3747 kevingideon@letu.edu
+• James Cain Assistant Coach jamescain@letu.edu
+• J. Paul Leslie III Head Coach 903.233.3731 / paulleslie@letu.edu
+• Marta Bollinger Assistant Coach martabollinger@letu.edu
+• Macey Mize Head Coach 903.233.3737 maceymize@letu.edu
+• Whitney Hubeek Assistant Coach 903.233.3737 whitneyhubeek@letu.edu
+• Jodi De Hart Assistant Coach jodidehart@letu.edu
+• Dave Mizell Assistant Coach davidmizell@letu.edu
+• TJ Milby Head Coach 903.233.3725 tjmilby@letu.edu
+• Timothy Lee Assistant Coach timothylee@letu.edu
+• Karrigan Falber Head Coach 903.233.3726 letuwsoccer@letu.edu
+• Nicole Graubard Assistant Coach letuwsoccer@letu.edu
+• Callie McKinney Assistant Coach letuwsoccer@letu.edu
+• Miguel Cabrera Goalkeeper Coach letuwsoccer@letu.edu
+• Jordan Oberbillig Assistant Coach jordanoberbillig@letu.edu
+• Alex Barrero Assistant Coach alejandrobarreroosun@letu.edu
+• Kevin Gideon Assistant Coach 903.233.3747 kevingideon@letu.edu
+• Whitney Grubb Assistant Coach 903.233.3732 whitneygrubb@letu.edu
+• Hannah May Assistant Coach hannahmay@letu.edu
+• James Cain Assistant Coach jamescain@letu.edu
+• Alison Williams Head Coach 903.233.3727 alisonwilliams@letu.edu
+• Natalie Rosinbaum Assistant Coach 903.233.3752 natalierosinbaum@letu.edu

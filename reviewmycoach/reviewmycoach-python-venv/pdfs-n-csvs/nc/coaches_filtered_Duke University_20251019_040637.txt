@@ -1,0 +1,463 @@
+COACH ENTRIES FOUND - 2025-10-19 04:06:38
+============================================================
+
+Total coaches found: 72
+
+PARSED ENTRIES:
+----------------------------------------
+1. Corey Muscara
+   Email: corey.muscara@duke.edu
+   Username: corey.muscara
+   Original line: Corey Muscara Head Coach corey.muscara@duke.edu
+
+2. Scott Loiseau
+   Email: scott.loiseau@duke.edu
+   Username: scott.loiseau
+   Original line: Scott Loiseau Associate Head Coach scott.loiseau@duke.edu
+
+3. Matt Wessinger
+   Email: matt.wessinger@duke.edu
+   Username: matt.wessinger
+   Original line: Matt Wessinger Hitting Coach matt.wessinger@duke.edu
+
+4. Tyler Thornton
+   Email: lahoward@duke.edu
+   Username: lahoward
+   Phone: (919) 613-7500
+   Original line: Tyler Thornton Assistant Coach lahoward@duke.edu (919) 613-7500
+
+5. Kara Lawson
+   Email: ali.hoesly@duke.edu
+   Username: ali.hoesly
+   Original line: Kara Lawson Head Coach ali.hoesly@duke.edu
+
+6. Tia Jackson
+   Email: tia.jackson@duke.edu
+   Username: tia.jackson
+   Original line: Tia Jackson Associate Head Coach tia.jackson@duke.edu
+
+7. Kyra Elzy
+   Email: kyra.elzy@duke.edu
+   Username: kyra.elzy
+   Original line: Kyra Elzy Assistant Coach kyra.elzy@duke.edu
+
+8. Karen Lange
+   Email: karen.lange@duke.edu
+   Username: karen.lange
+   Original line: Karen Lange Assistant Coach karen.lange@duke.edu
+
+9. Karen Middleton
+   Email: karen.middleton@duke.edu
+   Username: karen.middleton
+   Original line: Karen Middleton Assistant Coach karen.middleton@duke.edu
+
+10. Pierre Miller
+   Email: pierre.miller@duke.edu
+   Username: pierre.miller
+   Original line: Pierre Miller Assistant Coach pierre.miller@duke.edu
+
+11. Kenyetta Iyevbele
+   Email: kenyetta.iyevbele@duke.edu
+   Username: kenyetta.iyevbele
+   Original line: Kenyetta Iyevbele Assistant Coach kenyetta.iyevbele@duke.edu
+
+12. Sean-Patrick Assistant
+   Email: sean-patrick.oswald@duke.edu
+   Username: sean-patrick.oswald
+   Original line: Sean-Patrick Assistant Coach sean-patrick.oswald@duke.edu
+
+13. Omar Elgeziry
+   Email: omar.elgeziry@duke.edu
+   Username: omar.elgeziry
+   Original line: Omar Elgeziry Head Coach omar.elgeziry@duke.edu
+
+14. Ahmed Abdallah
+   Email: ahmed.abdallah@duke.edu
+   Username: ahmed.abdallah
+   Original line: Ahmed Abdallah Assistant Coach ahmed.abdallah@duke.edu
+
+15. Shaimaa Elgammal
+   Email: shaimaa.elgammal@duke.edu
+   Username: shaimaa.elgammal
+   Phone: (919) 681-2583
+   Original line: Shaimaa Elgammal Assistant Coach shaimaa.elgammal@duke.edu (919) 681-2583
+
+16. Jacek Huchwajda
+   Email: jacek.huchwajda@duke.edu
+   Username: jacek.huchwajda
+   Phone: (919) 613-7521
+   Original line: Jacek Huchwajda Assistant Coach jacek.huchwajda@duke.edu (919) 613-7521
+
+17. Pam Bustin
+   Email: pb95@duke.edu
+   Username: pb95
+   Phone: (919) 684-4116
+   Original line: Pam Bustin Head Coach pb95@duke.edu (919) 684-4116
+
+18. Ralph Boersma
+   Email: ralph.boersma@duke.edu
+   Username: ralph.boersma
+   Phone: (919) 433-7917
+   Original line: Ralph Boersma Associate Head Coach ralph.boersma@duke.edu (919) 433-7917
+
+19. Jess Jecko
+   Email: jess.jecko@duke.edu
+   Username: jess.jecko
+   Original line: Jess Jecko Assistant Coach jess.jecko@duke.edu
+
+20. Daniel Bowden
+   Email: daniel.bowden@duke.edu
+   Username: daniel.bowden
+   Original line: Daniel Bowden Assistant Coach daniel.bowden@duke.edu
+
+21. John Danowski
+   Email: estephenson@duaa.duke.edu
+   Username: estephenson
+   Phone: (919) 668-5791
+   Original line: John Danowski Head Coach estephenson@duaa.duke.edu (919) 668-5791
+
+22. Matt Danowski
+   Email: matthew.danowski@duke.edu
+   Username: matthew.danowski
+   Phone: (919) 668-5791
+   Original line: Matt Danowski Associate Head Coach matthew.danowski@duke.edu (919) 668-5791
+
+23. Ron Caputo
+   Email: ronald.caputo@duke.edu
+   Username: ronald.caputo
+   Phone: (919) 668-5791
+   Original line: Ron Caputo Assistant Coach ronald.caputo@duke.edu (919) 668-5791
+
+24. Kevin Unterstein
+   Email: kevin.unterstein@duke.edu
+   Username: kevin.unterstein
+   Original line: Kevin Unterstein Assistant Coach kevin.unterstein@duke.edu
+
+25. Kerstin Kimel
+   Email: kmkimel@duke.edu
+   Username: kmkimel
+   Phone: (919) 684-4166
+   Original line: Kerstin Kimel Head Coach kmkimel@duke.edu (919) 684-4166
+
+26. Nick Williams
+   Email: nick.williams@duke.edu
+   Username: nick.williams
+   Original line: Nick Williams Associate Head Coach nick.williams@duke.edu
+
+27. Brooke Bailey
+   Email: brooke.griffin@duke.edu
+   Username: brooke.griffin
+   Phone: (919) 668-5758
+   Original line: Brooke Bailey Assistant Coach brooke.griffin@duke.edu (919) 668-5758
+
+28. Sarah Cooper
+   Email: sarah.l.cooper@duke.edu
+   Username: sarah.l.cooper
+   Original line: Sarah Cooper Assistant Coach sarah.l.cooper@duke.edu
+
+29. Adrian Spracklen
+   Email: adrian.spracklen@duke.edu
+   Username: adrian.spracklen
+   Original line: Adrian Spracklen Head Coach adrian.spracklen@duke.edu
+
+30. Carly Abarbanel
+   Email: carly.abarbanel@duke.edu
+   Username: carly.abarbanel
+   Original line: Carly Abarbanel Assistant Coach and carly.abarbanel@duke.edu
+
+31. Wendy Davis
+   Email: wendy.davis@duke.edu
+   Username: wendy.davis
+   Original line: Wendy Davis Associate Head Coach wendy.davis@duke.edu
+
+32. Emilie Gross
+   Email: emilie.gross@duke.edu
+   Username: emilie.gross
+   Original line: Emilie Gross Assistant Coach emilie.gross@duke.edu
+
+33. John Kerr
+   Email: jjk21@duke.edu
+   Username: jjk21
+   Phone: (919) 668-5734
+   Original line: John Kerr Head Coach jjk21@duke.edu (919) 668-5734
+
+34. Michael Brady
+   Email: michael.brady@duke.edu
+   Username: michael.brady
+   Phone: (919) 668-5733
+   Original line: Michael Brady Associate Head Coach michael.brady@duke.edu (919) 668-5733
+
+35. Kyle Johnston
+   Email: kyle.johnston@duke.edu
+   Username: kyle.johnston
+   Original line: Kyle Johnston Assistant Coach kyle.johnston@duke.edu
+
+36. Tristan Wierbonski
+   Email: tristan.wierbonski@duke.edu
+   Username: tristan.wierbonski
+   Original line: Tristan Wierbonski Assistant Coach tristan.wierbonski@duke.edu
+
+37. Kieran Hall
+   Email: wsoccer@duke.edu
+   Username: wsoccer
+   Original line: Kieran Hall Head Coach wsoccer@duke.edu
+
+38. Carla Overbeck
+   Email: wsoccer@duke.edu
+   Username: wsoccer
+   Original line: Carla Overbeck Associate Head Coach wsoccer@duke.edu
+
+39. Evan Gaffney
+   Email: wsoccer@duke.edu
+   Username: wsoccer
+   Original line: Evan Gaffney Assistant Coach wsoccer@duke.edu
+
+40. Hanna Gardner
+   Email: wsoccer@duke.edu
+   Username: wsoccer
+   Original line: Hanna Gardner Assistant Coach wsoccer@duke.edu
+
+41. Marissa Young
+   Email: marissa.young@duke.edu
+   Username: marissa.young
+   Phone: (919) 684-0805
+   Original line: Marissa Young Head Coach marissa.young@duke.edu (919) 684-0805
+
+42. Olivia Watkins
+   Email: olivia.watkins@duke.edu
+   Username: olivia.watkins
+   Original line: Olivia Watkins Associate Head Coach olivia.watkins@duke.edu
+
+43. Taylor Wike
+   Email: taylor.wike@duke.edu
+   Username: taylor.wike
+   Original line: Taylor Wike Associate Head Coach taylor.wike@duke.edu
+
+44. Jala Wright
+   Email: jala.wright@duke.edu
+   Username: jala.wright
+   Original line: Jala Wright Assistant Coach jala.wright@duke.edu
+
+45. Alexis Brown
+   Email: alexis.o.brown@duke.edu
+   Username: alexis.o.brown
+   Original line: Alexis Brown Assistant Cheer Coach alexis.o.brown@duke.edu
+
+46. Larissa Liles
+   Email: larissa.liles@duke.edu
+   Username: larissa.liles
+   Original line: Larissa Liles Dance Coach larissa.liles@duke.edu
+
+47. Nunzio Esposto
+   Email: nunzio.esposto@duke.edu
+   Username: nunzio.esposto
+   Original line: Nunzio Esposto Head Diving Coach nunzio.esposto@duke.edu
+
+48. Riley Boulden
+   Email: riley.boulden@duke.edu
+   Username: riley.boulden
+   Original line: Riley Boulden Associate Head Coach riley.boulden@duke.edu
+
+49. Daniel Graber
+   Email: daniel.graber@duke.edu
+   Username: daniel.graber
+   Original line: Daniel Graber Assistant Coach daniel.graber@duke.edu
+
+50. Kate Moore
+   Email: kate.moore@duke.edu
+   Username: kate.moore
+   Original line: Kate Moore Associate Head Coach kate.moore@duke.edu
+
+51. Ramsey Smith
+   Email: rgs7@duke.edu
+   Username: rgs7
+   Original line: Ramsey Smith Head Coach rgs7@duke.edu
+
+52. TJ Pura
+   Email: tj.pura@duke.edu
+   Username: tj.pura
+   Original line: TJ Pura Assistant Coach tj.pura@duke.edu
+
+53. Jamie Ashworth
+   Email: ashworth@duke.edu
+   Username: ashworth
+   Phone: (919) 668-0345
+   Original line: Jamie Ashworth Head Coach ashworth@duke.edu (919) 668-0345
+
+54. Gerhard Assistant
+   Email: gerhard.gruindelingh@duke.edu
+   Username: gerhard.gruindelingh
+   Original line: Gerhard Assistant Coach gerhard.gruindelingh@duke.edu
+
+55. Daniel Leitner
+   Email: daniel.leitner@duke.edu
+   Username: daniel.leitner
+   Original line: Daniel Leitner Associate Head Coach daniel.leitner@duke.edu
+
+56. Mark Mueller
+   Email: mark.b.mueller@duke.edu
+   Username: mark.b.mueller
+   Original line: Mark Mueller Associate Head Coach mark.b.mueller@duke.edu
+
+57. Kenyetta Iyevbele
+   Email: kenyetta.iyevbele@duke.edu
+   Username: kenyetta.iyevbele
+   Original line: Kenyetta Iyevbele Assistant Coach kenyetta.iyevbele@duke.edu
+
+58. Tatijana Jacobson
+   Email: tatijana.jacobson@duke.edu
+   Username: tatijana.jacobson
+   Original line: Tatijana Jacobson Assistant Coach (Jumps) tatijana.jacobson@duke.edu
+
+59. Elena Brown-Soler
+   Email: ebs@duke.edu
+   Username: ebs
+   Original line: Elena Brown-Soler Assistant Coach ebs@duke.edu
+
+60. Madison Daniel
+   Email: madison.daniel@duke.edu
+   Username: madison.daniel
+   Original line: Madison Daniel Assistant Coach madison.daniel@duke.edu
+
+61. Erick Duffy
+   Email: erick.duffy@duke.edu
+   Username: erick.duffy
+   Original line: Erick Duffy Assistant Coach erick.duffy@duke.edu
+
+62. Sean-Patrick Assistant
+   Email: sean-patrick.oswald@duke.edu
+   Username: sean-patrick.oswald
+   Original line: Sean-Patrick Assistant Coach sean-patrick.oswald@duke.edu
+
+63. Michael Terwilliger
+   Email: michael.terwilliger@duke.edu
+   Username: michael.terwilliger
+   Original line: Michael Terwilliger Assistant Coach michael.terwilliger@duke.edu
+
+64. Jolene Nagel
+   Email: volleyball@duke.edu
+   Username: volleyball
+   Phone: (919) 684-2778
+   Original line: Jolene Nagel Head Coach volleyball@duke.edu (919) 684-2778
+
+65. Kellie Catanach
+   Email: kellie.catanach@duke.edu
+   Username: kellie.catanach
+   Phone: (919) 684-4834
+   Original line: Kellie Catanach Associate Head Coach kellie.catanach@duke.edu (919) 684-4834
+
+66. Maddie Bryant
+   Email: Maddie.bryant@duke.edu
+   Username: Maddie.bryant
+   Original line: Maddie Bryant Assistant Coach Maddie.bryant@duke.edu
+
+67. Aaron DeKalb
+   Email: volleyball@duke.edu
+   Username: volleyball
+   Original line: Aaron DeKalb Assistant Coach volleyball@duke.edu
+
+68. Glen Lanham
+   Email: glen.lanham@duke.edu
+   Username: glen.lanham
+   Phone: (919) 613-6370
+   Original line: Glen Lanham Head Coach glen.lanham@duke.edu (919) 613-6370
+
+69. Corey Bell
+   Email: coreybell@duaa.duke.edu
+   Username: coreybell
+   Phone: (919) 681-0249
+   Original line: Corey Bell Assistant Coach coreybell@duaa.duke.edu (919) 681-0249
+
+70. Tom Erikson
+   Email: thomas.erikson@duke.edu
+   Username: thomas.erikson
+   Phone: (919) 681-0249
+   Original line: Tom Erikson Assistant Coach thomas.erikson@duke.edu (919) 681-0249
+
+71. Ethan Ramos
+   Email: ethan.ramos@duke.edu
+   Username: ethan.ramos
+   Phone: (919) 681-0249
+   Original line: Ethan Ramos Assistant Coach ethan.ramos@duke.edu (919) 681-0249
+
+72. Codi Russell
+   Email: codi.russell@duke.edu
+   Username: codi.russell
+   Original line: Codi Russell Assistant Coach codi.russell@duke.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Corey Muscara Head Coach corey.muscara@duke.edu
+• Scott Loiseau Associate Head Coach scott.loiseau@duke.edu
+• Matt Wessinger Hitting Coach matt.wessinger@duke.edu
+• Tyler Thornton Assistant Coach lahoward@duke.edu (919) 613-7500
+• Kara Lawson Head Coach ali.hoesly@duke.edu
+• Tia Jackson Associate Head Coach tia.jackson@duke.edu
+• Kyra Elzy Assistant Coach kyra.elzy@duke.edu
+• Karen Lange Assistant Coach karen.lange@duke.edu
+• Karen Middleton Assistant Coach karen.middleton@duke.edu
+• Pierre Miller Assistant Coach pierre.miller@duke.edu
+• Kenyetta Iyevbele Assistant Coach kenyetta.iyevbele@duke.edu
+• Sean-Patrick Assistant Coach sean-patrick.oswald@duke.edu
+• Omar Elgeziry Head Coach omar.elgeziry@duke.edu
+• Ahmed Abdallah Assistant Coach ahmed.abdallah@duke.edu
+• Shaimaa Elgammal Assistant Coach shaimaa.elgammal@duke.edu (919) 681-2583
+• Jacek Huchwajda Assistant Coach jacek.huchwajda@duke.edu (919) 613-7521
+• Pam Bustin Head Coach pb95@duke.edu (919) 684-4116
+• Ralph Boersma Associate Head Coach ralph.boersma@duke.edu (919) 433-7917
+• Jess Jecko Assistant Coach jess.jecko@duke.edu
+• Daniel Bowden Assistant Coach daniel.bowden@duke.edu
+• John Danowski Head Coach estephenson@duaa.duke.edu (919) 668-5791
+• Matt Danowski Associate Head Coach matthew.danowski@duke.edu (919) 668-5791
+• Ron Caputo Assistant Coach ronald.caputo@duke.edu (919) 668-5791
+• Kevin Unterstein Assistant Coach kevin.unterstein@duke.edu
+• Kerstin Kimel Head Coach kmkimel@duke.edu (919) 684-4166
+• Nick Williams Associate Head Coach nick.williams@duke.edu
+• Brooke Bailey Assistant Coach brooke.griffin@duke.edu (919) 668-5758
+• Sarah Cooper Assistant Coach sarah.l.cooper@duke.edu
+• Adrian Spracklen Head Coach adrian.spracklen@duke.edu
+• Carly Abarbanel Assistant Coach and carly.abarbanel@duke.edu
+• Wendy Davis Associate Head Coach wendy.davis@duke.edu
+• Emilie Gross Assistant Coach emilie.gross@duke.edu
+• John Kerr Head Coach jjk21@duke.edu (919) 668-5734
+• Michael Brady Associate Head Coach michael.brady@duke.edu (919) 668-5733
+• Kyle Johnston Assistant Coach kyle.johnston@duke.edu
+• Tristan Wierbonski Assistant Coach tristan.wierbonski@duke.edu
+• Kieran Hall Head Coach wsoccer@duke.edu
+• Carla Overbeck Associate Head Coach wsoccer@duke.edu
+• Evan Gaffney Assistant Coach wsoccer@duke.edu
+• Hanna Gardner Assistant Coach wsoccer@duke.edu
+• Marissa Young Head Coach marissa.young@duke.edu (919) 684-0805
+• Olivia Watkins Associate Head Coach olivia.watkins@duke.edu
+• Taylor Wike Associate Head Coach taylor.wike@duke.edu
+• Jala Wright Assistant Coach jala.wright@duke.edu
+• Alexis Brown Assistant Cheer Coach alexis.o.brown@duke.edu
+• Larissa Liles Dance Coach larissa.liles@duke.edu
+• Nunzio Esposto Head Diving Coach nunzio.esposto@duke.edu
+• Riley Boulden Associate Head Coach riley.boulden@duke.edu
+• Daniel Graber Assistant Coach daniel.graber@duke.edu
+• Kate Moore Associate Head Coach kate.moore@duke.edu
+• Ramsey Smith Head Coach rgs7@duke.edu
+• TJ Pura Assistant Coach tj.pura@duke.edu
+• Jamie Ashworth Head Coach ashworth@duke.edu (919) 668-0345
+• Gerhard Assistant Coach gerhard.gruindelingh@duke.edu
+• Daniel Leitner Associate Head Coach daniel.leitner@duke.edu
+• Mark Mueller Associate Head Coach mark.b.mueller@duke.edu
+• Kenyetta Iyevbele Assistant Coach kenyetta.iyevbele@duke.edu
+• Tatijana Jacobson Assistant Coach (Jumps) tatijana.jacobson@duke.edu
+• Elena Brown-Soler Assistant Coach ebs@duke.edu
+• Madison Daniel Assistant Coach madison.daniel@duke.edu
+• Erick Duffy Assistant Coach erick.duffy@duke.edu
+• Sean-Patrick Assistant Coach sean-patrick.oswald@duke.edu
+• Michael Terwilliger Assistant Coach michael.terwilliger@duke.edu
+• Jolene Nagel Head Coach volleyball@duke.edu (919) 684-2778
+• Kellie Catanach Associate Head Coach kellie.catanach@duke.edu (919) 684-4834
+• Maddie Bryant Assistant Coach Maddie.bryant@duke.edu
+• Aaron DeKalb Assistant Coach volleyball@duke.edu
+• Glen Lanham Head Coach glen.lanham@duke.edu (919) 613-6370
+• Corey Bell Assistant Coach coreybell@duaa.duke.edu (919) 681-0249
+• Tom Erikson Assistant Coach thomas.erikson@duke.edu (919) 681-0249
+• Ethan Ramos Assistant Coach ethan.ramos@duke.edu (919) 681-0249
+• Codi Russell Assistant Coach codi.russell@duke.edu

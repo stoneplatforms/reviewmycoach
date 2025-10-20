@@ -1,0 +1,103 @@
+-> Reading CSV: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/nv/Nevada College Athletics.csv
+-> Output PDFs to: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs-n-csvs/nv
+
+Printing completed in 44.8s
+Success: 2 | Skipped: 0 | Errors: 0
+
+Resolved URLs used:
+- University of Nevada, Reno.pdf: https://nevadawolfpack.com/staff-directory?print=true
+- University of Nevada, Las Vegas (UNLV).pdf: https://unlvrebels.com/staff-directory?print=true
+
+Parsing printed PDFs and preparing upload entries...
+✔ Total coach entries prepared: 84
+🔄 Updating unclaimed profile for baseball@unr.edu
+✔ Updated unclaimed coach profile: Jake McKinley (baseball@unr.edu) → coaches/baseball
+✔ Created unclaimed coach profile: Craig Neal (Craign@unr.edu) → coaches/Craign
+✔ Created unclaimed coach profile: Bil Duany (bduany@unr.edu) → coaches/bduany
+✔ Created unclaimed coach profile: Kyle Guy (kguy@unr.edu) → coaches/kguy
+✔ Created unclaimed coach profile: Lo Leath (lleath@unr.edu) → coaches/lleath
+✔ Created unclaimed coach profile: Michael Furlong (mfurlong@unr.edu) → coaches/mfurlong
+✔ Created unclaimed coach profile: Amanda Levens (levens@unr.edu) → coaches/levens
+✔ Created unclaimed coach profile: Laura Gonsalves (lgonsalves@unr.edu) → coaches/lgonsalves
+✔ Created unclaimed coach profile: Ashley Elliott (ashleyelliott@unr.edu) → coaches/ashleyelliott
+✔ Created unclaimed coach profile: Halie Bergman (hbergman@unr.edu) → coaches/hbergman
+✔ Created unclaimed coach profile: Lavaris Duncan (lavarisd@unr.edu) → coaches/lavarisd
+✔ Created unclaimed coach profile: Ula Motuga (umotuga@unr.edu) → coaches/umotuga
+✔ Created unclaimed coach profile: Logan Stahl (loganstahl@unr.edu) → coaches/loganstahl
+✔ Created unclaimed coach profile: Hayley Canfield (hcanfield@unr.edu) → coaches/hcanfield
+✔ Created unclaimed coach profile: Dennis Green (dennisgreen@unr.edu) → coaches/dennisgreen
+✔ Created unclaimed coach profile: Trake Carpenter (trakec@unr.edu) → coaches/trakec
+✔ Created unclaimed coach profile: Kathleen Takaishi (ktakaishi@unr.edu) → coaches/ktakaishi
+✔ Created unclaimed coach profile: Jenny Haddox (jennyhaddox@unr.edu) → coaches/jennyhaddox
+✔ Created unclaimed coach profile: Cameron Smith (csmith3@unr.edu) → coaches/csmith3
+✔ Created unclaimed coach profile: Nico Monforte (nmonforte@unr.edu) → coaches/nmonforte
+✔ Created unclaimed coach profile: Vanessa Valentine (vanessavalentine@unr.edu) → coaches/vanessavalentine
+✔ Created unclaimed coach profile: Brad Leonard (bradleonard@unr.edu) → coaches/bradleonard
+✔ Created unclaimed coach profile: Jenn Kovisto (jkovisto@unr.edu) → coaches/jkovisto
+🔄 Updating unclaimed profile for softball@unr.edu
+✔ Updated unclaimed coach profile: Victoria Hayward (softball@unr.edu) → coaches/softball
+✔ Created unclaimed coach profile: Brendon Bray (brendonb@unr.edu) → coaches/brendonb
+✔ Created unclaimed coach profile: Jian Li (jiany@unr.edu) → coaches/jiany
+✔ Created unclaimed coach profile: Sylvain Malroux (malroux@unr.edu) → coaches/malroux
+✔ Created unclaimed coach profile: Brad Tulenko (btulenko@unr.edu) → coaches/btulenko
+✔ Created unclaimed coach profile: Guillaume Tonelli (guillaumet@unr.edu) → coaches/guillaumet
+✔ Created unclaimed coach profile: Natalia Campbell (nataliacampbell@unr.edu) → coaches/nataliacampbell
+✔ Created unclaimed coach profile: Scott Williamson (scottwilliamson@unr.edu) → coaches/scottwilliamson
+✔ Created unclaimed coach profile: Sarah Marske (smarske@unr.edu) → coaches/smarske
+✔ Created unclaimed coach profile: Carolyn Ross (carolynross@unr.edu) → coaches/carolynross
+✔ Created unclaimed coach profile: Shannon Wyckoff-McNeal (shannonmcneal@unr.edu) → coaches/shannonmcneal
+✔ Created unclaimed coach profile: Norene Iosia (niosia@unr.edu) → coaches/niosia
+✔ Created unclaimed coach profile: Jason Sterrett (jasonsterrett@unr.edu) → coaches/jasonsterrett
+✔ Created unclaimed coach profile: Steven Nicholas (stevenn@unr.edu) → coaches/stevenn
+✔ Created unclaimed coach profile: Stan Stolte (stan.stolte@unlv.edu) → coaches/stan.stolte | Phone: (702) 895-3402
+✔ Created unclaimed coach profile: Cory Vanderhook (cory.vanderhook@unlv.edu) → coaches/cory.vanderhook
+✔ Created unclaimed coach profile: Jeff Opalewski (jeffrey.opalewski@unlv.edu) → coaches/jeffrey.opalewski
+✔ Created unclaimed coach profile: Nick Rush (nicholas.rush@unlv.edu) → coaches/nicholas.rush
+✔ Created unclaimed coach profile: Josh Pastner (joshua.pastner@unlv.edu) → coaches/joshua.pastner
+✔ Created unclaimed coach profile: Jozee Dean (josephine.decunzo@unlv.edu) → coaches/josephine.decunzo | Phone: (702) 895-3295
+✔ Created unclaimed coach profile: Scott Garson (scott.garson@unlv.edu) → coaches/scott.garson
+✔ Created unclaimed coach profile: Anthony Wilkins (anthony.wilkins@unlv.edu) → coaches/anthony.wilkins
+✔ Created unclaimed coach profile: Justin Hawkins (justin.hawkinsyoung@unlv.edu) → coaches/justin.hawkinsyoung
+✔ Created unclaimed coach profile: Jon Wall (jonathan.wall@unlv.edu) → coaches/jonathan.wall
+✔ Created unclaimed coach profile: Roman Owen (roman.owen@unlv.edu) → coaches/roman.owen | Phone: (702) 895-1174
+✔ Created unclaimed coach profile: Mia Bell (mia.bell@unlv.edu) → coaches/mia.bell | Phone: (702) 895-4138
+✔ Created unclaimed coach profile: Joslyn Tinkle (Joslyn.tinkle@unlv.edu) → coaches/Joslyn.tinkle
+✔ Created unclaimed coach profile: Del Alexander (delvaughn.alexander@unlv.edu) → coaches/delvaughn.alexander | Phone: (702) 895-3538
+✔ Created unclaimed coach profile: Jean-Paul Hebert (jean-paul.hebert@unlv.edu) → coaches/jean-paul.hebert | Phone: (702) 895-3714
+✔ Created unclaimed coach profile: Spencer Dunaway (spencer.dunaway@unlv.edu) → coaches/spencer.dunaway | Phone: (702) 895-3714
+✔ Created unclaimed coach profile: Amy Bush-Herzer (amy.bush@unlv.edu) → coaches/amy.bush | Phone: (702) 895-2091
+✔ Created unclaimed coach profile: Luka Mudde (luka.vandermerwe@unlv.edu) → coaches/luka.vandermerwe
+✔ Created unclaimed coach profile: BJ Craig (bj.craig@unlv.edu) → coaches/bj.craig | Phone: (702) 895-1033
+✔ Created unclaimed coach profile: David Casper (david.casper@unlv.edu) → coaches/david.casper
+✔ Created unclaimed coach profile: Micah Craig (micah.craig@unlv.edu) → coaches/micah.craig
+✔ Created unclaimed coach profile: Jenny Williams (jennifer.williams@unlv.edu) → coaches/jennifer.williams
+✔ Created unclaimed coach profile: Jenna Olson (jenna.olson@unlv.edu) → coaches/jenna.olson
+✔ Created unclaimed coach profile: Casey Collins (casey.collins@unlv.edu) → coaches/casey.collins
+✔ Created unclaimed coach profile: Kristie Fox (kristie.Jarvis@unlv.edu) → coaches/kristie.Jarvis | Phone: (702) 895-3916
+✔ Created unclaimed coach profile: Andy Jarvis (andrew.jarvis@unlv.edu) → coaches/andrew.jarvis | Phone: (702) 895-4773
+✔ Created unclaimed coach profile: Anthony Aresco (anthony.aresco@unlv.edu) → coaches/anthony.aresco | Phone: (702) 895-4018
+✔ Created unclaimed coach profile: Maddie Schmidt (madeline.schmidt@unlv.edu) → coaches/madeline.schmidt
+✔ Created unclaimed coach profile: Marca Decastroverde (marca.decastroverde@unlv.edu) → coaches/marca.decastroverde
+✔ Created unclaimed coach profile: Brandi Slade (brandi-lynn.slade@unlv.edu) → coaches/brandi-lynn.slade
+✔ Created unclaimed coach profile: Kaitlyn Curtis (kaitlyn.curtis@unlv.edu) → coaches/kaitlyn.curtis
+✔ Created unclaimed coach profile: Ashton Gammarano (ashton.gammarano@unlv.edu) → coaches/ashton.gammarano
+✔ Created unclaimed coach profile: Pat Ota (pat.ota@unlv.edu) → coaches/pat.ota | Phone: (702) 895-3636
+✔ Created unclaimed coach profile: Julia Fehervari (julia.fehervari@unlv.edu) → coaches/julia.fehervari | Phone: (702) 895-3765
+✔ Created unclaimed coach profile: Pieter Ritz (pieter.ritz@unlv.edu) → coaches/pieter.ritz | Phone: (702) 895-3765
+✔ Created unclaimed coach profile: Dan Carrington (dan.carrington@unlv.edu) → coaches/dan.carrington
+✔ Created unclaimed coach profile: Andy Jackson (andy.jackson@unlv.edu) → coaches/andy.jackson | Phone: (702) 895-4489
+✔ Created unclaimed coach profile: Denys Pume (denys.pume@unlv.edu) → coaches/denys.pume
+✔ Created unclaimed coach profile: Tetiana Luzhanska (tetiana.luzhanska@unlv.edu) → coaches/tetiana.luzhanska
+✔ Created unclaimed coach profile: Jose Bendeck (jose.bendeck@unlv.edu) → coaches/jose.bendeck | Phone: (702) 895-3009
+✔ Created unclaimed coach profile: Carmelita Jeter (carmelita.jeter@unlv.edu) → coaches/carmelita.jeter | Phone: (702) 895-3256
+✔ Created unclaimed coach profile: Jordan Roach (jordan.roach@unlv.edu) → coaches/jordan.roach
+✔ Created unclaimed coach profile: Adrain Mann (adrain.mann@unlv.edu) → coaches/adrain.mann
+✔ Created unclaimed coach profile: Brooke Koblitz (brooke.koblitz@unlv.edu) → coaches/brooke.koblitz
+✔ Created unclaimed coach profile: Deja Harris (deja.harris@unlv.edu) → coaches/deja.harris
+✔ Created unclaimed coach profile: Brian Magbitang (brian.magbitang@unlv.edu) → coaches/brian.magbitang
+✔ Created unclaimed coach profile: Ken Ko (ken.ko@unlv.edu) → coaches/ken.ko
+
+📊 Upload Summary:
+✔ 84 coach profiles created/updated
+⏭️  0 profiles skipped (already claimed)
+📧 Coaches can now claim their profiles during onboarding using their email address

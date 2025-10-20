@@ -1,0 +1,239 @@
+COACH ENTRIES FOUND - 2025-10-19 04:30:33
+============================================================
+
+Total coaches found: 38
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chelsea Stoltenberg
+   Email: Chelsea.Stoltenberg@bemidjistate.edu
+   Username: Chelsea.Stoltenberg
+   Original line: Chelsea Stoltenberg Senior Women's Administrator | Head Coach Chelsea.Stoltenberg@bemidjistate.edu (218) 755-
+
+2. Jordan Sorensen
+   Email: jordan.sorensen@bemidjistate.edu
+   Username: jordan.sorensen
+   Original line: Jordan Sorensen Head Strength and Conditioning Coach jordan.sorensen@bemidjistate.edu
+
+3. Jack Feye
+   Email: jack.feye@bemidjistate.edu
+   Username: jack.feye
+   Original line: Jack Feye Strength and Conditioning Coach jack.feye@bemidjistate.edu
+
+4. Matt Ellinghuysen
+   Email: matthew.ellinghuysen@bemidjistate.edu
+   Username: matthew.ellinghuysen
+   Original line: Matt Ellinghuysen Head Coach matthew.ellinghuysen@bemidjistate.edu (218) 755-
+
+5. Davis Schaefer
+   Email: davis.schaefer@bemidjistate.edu
+   Username: davis.schaefer
+   Original line: Davis Schaefer Assistant Coach davis.schaefer@bemidjistate.edu
+
+6. Mike Boschee
+   Email: Michael.Boschee@bemidjistate.edu
+   Username: Michael.Boschee
+   Original line: Mike Boschee Head Coach Michael.Boschee@bemidjistate.edu (218) 755-
+
+7. Jake Masek
+   Email: jacob.masek@bemidjistate.edu
+   Username: jacob.masek
+   Original line: Jake Masek Assistant Coach jacob.masek@bemidjistate.edu 218-755-
+
+8. Tristan Thompson
+   Email: tristan.thompson@bemidjistate.edu
+   Username: tristan.thompson
+   Original line: Tristan Thompson Assistant Coach tristan.thompson@bemidjistate.edu
+
+9. Chelsea Stoltenberg
+   Email: Chelsea.Stoltenberg@bemidjistate.edu
+   Username: Chelsea.Stoltenberg
+   Original line: Chelsea Stoltenberg Senior Women's Administrator | Head Coach Chelsea.Stoltenberg@bemidjistate.edu (218) 755-
+
+10. Erica Gartner
+   Email: erica.gartner@bemidjistate.edu
+   Username: erica.gartner
+   Original line: Erica Gartner Head Women's Golf Coach | Assistant erica.gartner@bemidjistate.edu (218) 755-
+
+11. Sean Daniels
+   Email: sean.daniels@bemidjistate.edu
+   Username: sean.daniels
+   Original line: Sean Daniels Assistant Coach sean.daniels@bemidjistate.edu (218) 755-
+
+12. Mike Lynch
+   Email: michael.lynch@bemidjistate.edu
+   Username: michael.lynch
+   Original line: Mike Lynch Head Coach michael.lynch@bemidjistate.edu (218) 755-
+
+13. Benjamin Baird
+   Email: Benjamin.Baird@bemidjistate.edu
+   Username: Benjamin.Baird
+   Original line: Benjamin Baird Assistant Coach Benjamin.Baird@bemidjistate.edu (218) 755-
+
+14. Jordan Fisk
+   Email: Jordan.Fisk@bemidjistate.edu
+   Username: Jordan.Fisk
+   Original line: Jordan Fisk Assistant Coach Jordan.Fisk@bemidjistate.edu
+
+15. Brent Bolte
+   Email: Brent.Bolte@bemidjistate.edu
+   Username: Brent.Bolte
+   Original line: Brent Bolte Head Coach/Linebackers Brent.Bolte@bemidjistate.edu (218) 755- CoachBolte
+
+16. Joe Ford
+   Email: joseph.ford@bemidjistate.edu
+   Username: joseph.ford
+   Original line: Joe Ford Defensive Coordinator/Safeties joseph.ford@bemidjistate.edu (218) 755- CoachFord_DC
+
+17. Jordan Hein
+   Email: jordan.hein@bemidjistate.edu
+   Username: jordan.hein
+   Original line: Jordan Hein Offensive Coordinator/Quarterbacks jordan.hein@bemidjistate.edu (218) 755- CoachHeinBSU
+
+18. Austin Brown
+   Email: austin.brown@bemidjistate.edu
+   Username: austin.brown
+   Original line: Austin Brown Pass Game Coord./Co-Special Teams austin.brown@bemidjistate.edu coachabrown1
+
+19. Shevin Smith
+   Email: shevin.smith@bemidjistate.edu
+   Username: shevin.smith
+   Original line: Shevin Smith Jr. Co-Special Teams Coordinator/Cornerbacks shevin.smith@bemidjistate.edu CoachShev
+
+20. Brady Bartz
+   Email: brady.bartz@bemidjistate.edu
+   Username: brady.bartz
+   Original line: Brady Bartz Tight Ends/Fullbacks brady.bartz@bemidjistate.edu CoachBBartz
+
+21. Ivory Kelly-Martin
+   Email: ivory.kellymartin@bemidjistate.edu
+   Username: ivory.kellymartin
+   Original line: Ivory Kelly-Martin Running Backs ivory.kellymartin@bemidjistate.edu CoachKMivo
+
+22. Brendan Hopkins
+   Email: brendan.hopkins@bemidjistate.edu
+   Username: brendan.hopkins
+   Original line: Brendan Hopkins Defensive Ends brendan.hopkins@bemidjistate.edu CoachBHopkins
+
+23. Ben Corbid
+   Email: benedict.corbid@bemidjistate.edu
+   Username: benedict.corbid
+   Original line: Ben Corbid Head Coach benedict.corbid@bemidjistate.edu
+
+24. Erica Gartner
+   Email: erica.gartner@bemidjistate.edu
+   Username: erica.gartner
+   Original line: Erica Gartner Head Women's Golf Coach | Assistant erica.gartner@bemidjistate.edu (218) 755-
+
+25. Tom Serratore
+   Email: Thomas.Serratore@bemidjistate.edu
+   Username: Thomas.Serratore
+   Original line: Tom Serratore Head Coach Thomas.Serratore@bemidjistate.edu (218) 755-
+
+26. Travis Winter
+   Email: Travis.Winter@bemidjistate.edu
+   Username: Travis.Winter
+   Original line: Travis Winter Associate Head Coach Travis.Winter@bemidjistate.edu (218) 755-
+
+27. Joe Wegwerth
+   Email: joseph.wegwerth@bemidjistate.edu
+   Username: joseph.wegwerth
+   Original line: Joe Wegwerth Assistant Coach joseph.wegwerth@bemidjistate.edu (218) 755-
+
+28. Jackson Keane
+   Email: jackson.keane@bemidjistate.edu
+   Username: jackson.keane
+   Original line: Jackson Keane Assistant Coach jackson.keane@bemidjistate.edu
+
+29. Amber Fryklund
+   Email: Amber.Fryklund@bemidjistate.edu
+   Username: Amber.Fryklund
+   Original line: Amber Fryklund Head Coach Amber.Fryklund@bemidjistate.edu (218) 755-
+
+30. Emma Sobieck
+   Email: emma.sobieck@bemidjistate.edu
+   Username: emma.sobieck
+   Original line: Emma Sobieck Assistant Coach emma.sobieck@bemidjistate.edu (218) 755-
+
+31. Sarah Bobrowski-Laird
+   Email: sarah.bobrowski@bemidjistate.edu
+   Username: sarah.bobrowski
+   Original line: Sarah Bobrowski-Laird Assistant Coach sarah.bobrowski@bemidjistate.edu (218) 755-
+
+32. Jess Strack
+   Email: jessica.strack@bemidjistate.edu
+   Username: jessica.strack
+   Original line: Jess Strack Assistant Coach (WSF VanDerveer Fellow) jessica.strack@bemidjistate.edu (218) 755-
+
+33. Jim Stone
+   Email: James.Stone@bemidjistate.edu
+   Username: James.Stone
+   Original line: Jim Stone Head Coach James.Stone@bemidjistate.edu (218) 755-
+
+34. Matthias Steen
+   Email: matthias.steen@bemidjistate.edu
+   Username: matthias.steen
+   Original line: Matthias Steen Assistant Coach | Director of Operations matthias.steen@bemidjistate.edu
+
+35. Jordan Petersen
+   Email: Jordan.Petersen@Bemidjistate.edu
+   Username: Jordan.Petersen
+   Original line: Jordan Petersen Head Coach Jordan.Petersen@Bemidjistate.edu (218) 755-
+
+36. Kyle Fodness
+   Email: kyle.fodness@bemidjistate.edu
+   Username: kyle.fodness
+   Original line: Kyle Fodness Head Coach kyle.fodness@bemidjistate.edu (218) 755-
+
+37. Erika Bute
+   Email: erika.bute@bemidjistate.edu
+   Username: erika.bute
+   Original line: Erika Bute Head Coach erika.bute@bemidjistate.edu
+
+38. Hahni Johnson
+   Email: hahni.johnson@bemidjistate.edu
+   Username: hahni.johnson
+   Original line: Hahni Johnson Assistant Coach hahni.johnson@bemidjistate.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chelsea Stoltenberg Senior Women's Administrator | Head Coach Chelsea.Stoltenberg@bemidjistate.edu (218) 755-
+• Jordan Sorensen Head Strength and Conditioning Coach jordan.sorensen@bemidjistate.edu
+• Jack Feye Strength and Conditioning Coach jack.feye@bemidjistate.edu
+• Matt Ellinghuysen Head Coach matthew.ellinghuysen@bemidjistate.edu (218) 755-
+• Davis Schaefer Assistant Coach davis.schaefer@bemidjistate.edu
+• Mike Boschee Head Coach Michael.Boschee@bemidjistate.edu (218) 755-
+• Jake Masek Assistant Coach jacob.masek@bemidjistate.edu 218-755-
+• Tristan Thompson Assistant Coach tristan.thompson@bemidjistate.edu
+• Chelsea Stoltenberg Senior Women's Administrator | Head Coach Chelsea.Stoltenberg@bemidjistate.edu (218) 755-
+• Erica Gartner Head Women's Golf Coach | Assistant erica.gartner@bemidjistate.edu (218) 755-
+• Sean Daniels Assistant Coach sean.daniels@bemidjistate.edu (218) 755-
+• Mike Lynch Head Coach michael.lynch@bemidjistate.edu (218) 755-
+• Benjamin Baird Assistant Coach Benjamin.Baird@bemidjistate.edu (218) 755-
+• Jordan Fisk Assistant Coach Jordan.Fisk@bemidjistate.edu
+• Brent Bolte Head Coach/Linebackers Brent.Bolte@bemidjistate.edu (218) 755- CoachBolte
+• Joe Ford Defensive Coordinator/Safeties joseph.ford@bemidjistate.edu (218) 755- CoachFord_DC
+• Jordan Hein Offensive Coordinator/Quarterbacks jordan.hein@bemidjistate.edu (218) 755- CoachHeinBSU
+• Austin Brown Pass Game Coord./Co-Special Teams austin.brown@bemidjistate.edu coachabrown1
+• Shevin Smith Jr. Co-Special Teams Coordinator/Cornerbacks shevin.smith@bemidjistate.edu CoachShev
+• Brady Bartz Tight Ends/Fullbacks brady.bartz@bemidjistate.edu CoachBBartz
+• Ivory Kelly-Martin Running Backs ivory.kellymartin@bemidjistate.edu CoachKMivo
+• Brendan Hopkins Defensive Ends brendan.hopkins@bemidjistate.edu CoachBHopkins
+• Ben Corbid Head Coach benedict.corbid@bemidjistate.edu
+• Erica Gartner Head Women's Golf Coach | Assistant erica.gartner@bemidjistate.edu (218) 755-
+• Tom Serratore Head Coach Thomas.Serratore@bemidjistate.edu (218) 755-
+• Travis Winter Associate Head Coach Travis.Winter@bemidjistate.edu (218) 755-
+• Joe Wegwerth Assistant Coach joseph.wegwerth@bemidjistate.edu (218) 755-
+• Jackson Keane Assistant Coach jackson.keane@bemidjistate.edu
+• Amber Fryklund Head Coach Amber.Fryklund@bemidjistate.edu (218) 755-
+• Emma Sobieck Assistant Coach emma.sobieck@bemidjistate.edu (218) 755-
+• Sarah Bobrowski-Laird Assistant Coach sarah.bobrowski@bemidjistate.edu (218) 755-
+• Jess Strack Assistant Coach (WSF VanDerveer Fellow) jessica.strack@bemidjistate.edu (218) 755-
+• Jim Stone Head Coach James.Stone@bemidjistate.edu (218) 755-
+• Matthias Steen Assistant Coach | Director of Operations matthias.steen@bemidjistate.edu
+• Jordan Petersen Head Coach Jordan.Petersen@Bemidjistate.edu (218) 755-
+• Kyle Fodness Head Coach kyle.fodness@bemidjistate.edu (218) 755-
+• Erika Bute Head Coach erika.bute@bemidjistate.edu
+• Hahni Johnson Assistant Coach hahni.johnson@bemidjistate.edu
