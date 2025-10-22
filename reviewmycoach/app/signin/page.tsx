@@ -225,9 +225,4 @@ export default function SignIn() {
   );
 } 
 
-export const metadata = {
-  title: 'Sign In | ReviewMyCoach',
-  description: 'Access your ReviewMyCoach account to manage your profile, reviews, and bookings.',
-  robots: { index: false, follow: false },
-  alternates: { canonical: '/signin' },
-};
+// Metadata cannot be exported from a client component; handled at a parent layout/route.

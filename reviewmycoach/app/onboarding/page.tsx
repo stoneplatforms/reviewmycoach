@@ -996,9 +996,4 @@ export default function Onboarding() {
   );
 } 
 
-export const metadata = {
-  title: 'Onboarding | ReviewMyCoach',
-  description: 'Set up your account to start finding or managing coaches on ReviewMyCoach.',
-  robots: { index: false, follow: false },
-  alternates: { canonical: '/onboarding' },
-};
+// Metadata cannot be exported from a client component; handled at a parent layout/route.

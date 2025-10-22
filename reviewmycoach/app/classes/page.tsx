@@ -424,8 +424,4 @@ export default function ClassesPage() {
   );
 }
 
-export const metadata = {
-  title: 'Classes | ReviewMyCoach',
-  description: 'Find virtual and in-person sports classes from expert coaches. Filter by sport, level, price, and more.',
-  alternates: { canonical: '/classes' },
-};
+// Metadata cannot be exported from a client component; handled at a parent layout/route.

@@ -616,9 +616,4 @@ export default function ProfilePage() {
   );
 } 
 
-export const metadata = {
-  title: 'Profile Settings | ReviewMyCoach',
-  description: 'Manage your account settings, profile visibility, and credentials.',
-  robots: { index: false, follow: false },
-  alternates: { canonical: '/profile' },
-};
+// Metadata cannot be exported from a client component; handled at a parent layout/route.

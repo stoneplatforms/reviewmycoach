@@ -988,9 +988,4 @@ export default function CoachOnboarding() {
   );
 } 
 
-export const metadata = {
-  title: 'Admin • Coach Onboarding | ReviewMyCoach',
-  description: 'Create and manage coach profiles as an administrator.',
-  robots: { index: false, follow: false },
-  alternates: { canonical: '/admin/coach-onboarding' },
-};
+// Metadata cannot be exported from a client component; handled at a parent layout/route.

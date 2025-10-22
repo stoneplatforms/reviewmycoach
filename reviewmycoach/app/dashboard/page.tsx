@@ -328,9 +328,4 @@ export default function Dashboard() {
   );
 } 
 
-export const metadata = {
-  title: 'Dashboard | ReviewMyCoach',
-  description: 'Manage your profile, reviews, and activity on ReviewMyCoach.',
-  robots: { index: false, follow: false },
-  alternates: { canonical: '/dashboard' },
-};
+// Metadata cannot be exported from a client component; handled at a parent layout/route.

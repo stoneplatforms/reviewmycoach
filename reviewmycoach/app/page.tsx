@@ -3,7 +3,7 @@ import Image from "next/image";
 import GlobalSearchBar from "./components/GlobalSearchBar";
 import HeroCoachCarousel from "./components/HeroCoachCarousel";
 import OurCoachesSection from "./components/OurCoachesSection";
-import SportsIconGrid from "./components/SportsIconGrid";
+import CoachProPromoSection from "./components/CoachProPromoSection";
 // DynamicSportsMosaic removed
 
 export default function Home() {
@@ -76,89 +76,9 @@ export default function Home() {
         {/* Our Coaches rail (new design) */}
         <OurCoachesSection />
 
-      {/* Sports Icons Grid */}
-      <SportsIconGrid />
+      {/* Sports Icons Grid removed per request */}
 
-      {/* Coach Pro Subscription Section */}
-      <div className="bg-white py-20">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
-            <div className="inline-flex items-center px-6 py-3 bg-gray-100 border border-gray-200 text-gray-700 rounded-full text-sm font-medium mb-8">Exclusive for Coaches</div>
-            <h2 className="text-5xl font-bold text-gray-900 mb-6 tracking-tight">
-              Supercharge Your
-              <br />
-              <span className="bg-gradient-to-r from-gray-900 via-gray-700 to-gray-900 bg-clip-text text-transparent">
-                Coaching Business
-              </span>
-            </h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-12">
-              Join ReviewMyCoach Pro and unlock premium features to grow your coaching business, connect with more athletes, and maximize your impact.
-            </p>
-          </div>
-          
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-16">
-            {/* Feature 1 */}
-            <div className="bg-white rounded-2xl p-8 border border-gray-200 shadow-sm">
-              <div className="w-12 h-12 bg-gray-100 rounded-xl flex items-center justify-center mb-6">
-                <svg className="w-6 h-6 text-gray-800" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
-                </svg>
-                  </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-4">Priority Placement</h3>
-              <p className="text-gray-600 mb-6">Get featured in search results and increase your visibility to potential clients by up to 300%.</p>
-              <div className="flex items-center text-gray-600 text-sm font-medium">
-                <span className="w-2 h-2 bg-gray-400 rounded-full mr-2"></span>
-                3x More Visibility
-                </div>
-            </div>
-
-            {/* Feature 2 */}
-            <div className="bg-white rounded-2xl p-8 border border-gray-200 shadow-sm">
-              <div className="w-12 h-12 bg-gray-100 rounded-xl flex items-center justify-center mb-6">
-                <svg className="w-6 h-6 text-gray-800" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v4a2 2 0 01-2 2h-2a2 2 0 00-2-2z" />
-                </svg>
-                  </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-4">Advanced Analytics</h3>
-              <p className="text-gray-600 mb-6">Track your performance with detailed insights on profile views, bookings, and client engagement.</p>
-              <div className="flex items-center text-gray-600 text-sm font-medium">
-                <span className="w-2 h-2 bg-gray-400 rounded-full mr-2"></span>
-                Deep Insights
-                  </div>
-                </div>
-
-            {/* Feature 3 */}
-            <div className="bg-white rounded-2xl p-8 border border-gray-200 shadow-sm">
-              <div className="w-12 h-12 bg-gray-100 rounded-xl flex items-center justify-center mb-6">
-                <svg className="w-6 h-6 text-gray-800" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1" />
-                        </svg>
-                      </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-4">Direct Payments</h3>
-              <p className="text-gray-600 mb-6">Accept payments directly through the platform with integrated Stripe processing and automated invoicing.</p>
-              <div className="flex items-center text-gray-600 text-sm font-medium">
-                <span className="w-2 h-2 bg-gray-400 rounded-full mr-2"></span>
-                Seamless Transactions
-              </div>
-                    </div>
-                </div>
-
-          <div className="text-center">
-            <Link 
-              href="/subscription"
-              className="inline-flex items-center px-8 py-4 rounded-xl font-bold text-lg transition-all duration-300 transform hover:scale-105 shadow-sm btn-brand"
-                >
-              Upgrade to Pro
-              <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
-              </svg>
-                </Link>
-            <p className="text-gray-500 mt-4 text-sm">
-              Start your 14-day free trial • No commitment required
-                </p>
-              </div>
-            </div>
-          </div>
+      {/* Coach Pro Subscription Section removed per request */}
 
       {/* How It Works Section */}
       <div className="py-20">
@@ -206,6 +126,9 @@ export default function Home() {
           </div>
         </div>
       </div>
+
+      {/* Coach Pro Promo */}
+      <CoachProPromoSection />
 
       {/* CTA Section */}
       <div className="bg-white py-20">

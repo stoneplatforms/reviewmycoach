@@ -583,8 +583,4 @@ export default function CoachesMarketplace() {
   );
 } 
 
-export const metadata = {
-  title: 'Find Coaches | ReviewMyCoach',
-  description: 'Browse verified coaches, jobs, services, and courses across sports. Compare ratings, pricing, and availability.',
-  alternates: { canonical: '/coaches' },
-};
+// Metadata cannot be exported from a client component; handled at a parent layout/route.

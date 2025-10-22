@@ -407,9 +407,4 @@ export default function AdminDashboard() {
   );
 } 
 
-export const metadata = {
-  title: 'Admin | ReviewMyCoach',
-  description: 'Administration panel for content moderation and coach management.',
-  robots: { index: false, follow: false },
-  alternates: { canonical: '/admin' },
-};
+// Metadata cannot be exported from a client component; handled at a parent layout/route.
