@@ -41,8 +41,7 @@ export default function OurCoachesSection() {
             averageRating: 4.6,
             totalReviews: 120,
             isVerified: false,
-            role: 'Head Assistant Coach',
-            profileImage: '/hero/coach.png'
+            role: 'Head Assistant Coach'
           },
           {
             id: 'demo-2',
@@ -51,8 +50,7 @@ export default function OurCoachesSection() {
             averageRating: 5,
             totalReviews: 80,
             isVerified: false,
-            role: 'Assistant Coach',
-            profileImage: '/hero/coach.png'
+            role: 'Assistant Coach'
           }
         ]);
       }
@@ -109,18 +107,29 @@ export default function OurCoachesSection() {
 
                   {/* Portrait */}
                   <div className="absolute inset-0 flex items-end justify-center">
-                    <div className="relative w-[75%] h-[75%]">
-                      <Image
-                        src={coach.profileImage || '/hero/coach.png'}
-                        alt={coach.displayName}
-                        fill
-                        className="object-contain object-bottom drop-shadow-[0_12px_40px_rgba(0,0,0,0.8)]"
-                      />
+                    <div className="relative w-full h-full">
+                      {coach.profileImage ? (
+                        <Image
+                          src={coach.profileImage}
+                          alt={coach.displayName}
+                          fill
+                          className="object-contain object-bottom drop-shadow-[0_12px_40px_rgba(0,0,0,0.8)]"
+                        />
+                      ) : (
+                        <div className="absolute inset-0 flex items-center justify-center">
+                          <div className="w-24 h-24 rounded-full bg-neutral-800 border border-neutral-700 flex items-center justify-center text-neutral-500">
+                            No Photo
+                          </div>
+                        </div>
+                      )}
                     </div>
                   </div>
 
+                  {/* Inner bottom inset shadow overlay (above image, below text) */}
+                  <div className="pointer-events-none absolute inset-0 z-10 rounded-2xl" style={{ boxShadow: 'inset 0 -160px 180px -20px rgba(0,0,0,0.9)' }} />
+
                   {/* Info footer */}
-                  <div className="relative z-10">
+                  <div className="relative z-20">
                     {coach.role && (
                       <div className="text-[11px] text-neutral-400 mb-1">{coach.role}</div>
                     )}

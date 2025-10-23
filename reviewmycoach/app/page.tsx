@@ -14,7 +14,7 @@ export default function Home() {
         {/* Background image */}
         <div className="absolute inset-0 -z-10">
           <Image
-            src="/hero/bg.jpg"
+            src="/hero/bg.png"
             alt="Campus walkway background"
             fill
             priority
@@ -35,32 +35,34 @@ export default function Home() {
         </div>
 
         {/* Center card with coach image and rating */}
-        <div className="relative mx-auto mt-8 sm:mt-10 max-w-3xl px-4">
+        <div className="relative mx-auto mt-8 sm:mt-10 max-w-lg sm:max-w-xl md:max-w-2xl px-4">
           {/* Gradient 2px border wrapper */}
-          <div className="relative mx-auto rounded-3xl p-[2px] bg-gradient-to-br from-white via-white/70 to-black/80 shadow-[0_10px_40px_rgba(0,0,0,0.5)]">
-            <div className="relative h-[440px] sm:h-[520px] rounded-3xl bg-black/40 backdrop-blur-md overflow-hidden flex items-center justify-center">
-            {/* Coach image */}
+          <div className="relative mx-auto rounded-3xl p-[2px] bg-gradient-to-br from-white to-black shadow-[0_10px_40px_rgba(0,0,0,0.5)]">
+            <div className="relative h-[440px] sm:h-[520px] rounded-3xl bg-black backdrop-blur-md overflow-hidden flex items-center justify-center" style={{ boxShadow: 'inset 0 -220px 200px -40px rgba(0,0,0,0.95)' }}>
+            {/* Coach image - use profileImage from bubbles when available in the future; keep decorative image for hero */}
             <Image
               src="/hero/coach.png"
               alt="Coach portrait"
               width={460}
               height={600}
               className="h-[360px] sm:h-[420px] w-auto object-contain drop-shadow-[0_8px_30px_rgba(0,0,0,0.6)]"
+              priority
             />
-
             {/* Rating badge */}
             <div className="absolute top-4 right-6 flex items-center gap-2">
               <svg className="w-5 h-5 text-yellow-300" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.802 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.802-2.034a1 1 0 00-1.176 0l-2.802 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81H7.03a1 1 0 00.95-.69l1.07-3.292z"/></svg>
               <span className="text-white text-xl font-semibold">4.9</span>
             </div>
 
-            {/* Message bubbles */}
-            <div className="absolute -left-6 sm:-left-10 top-6">
+            {/* Inner bottom inset shadow overlay (above image) */}
+            <div className="pointer-events-none absolute inset-0 z-50 rounded-3xl" style={{ boxShadow: 'inset 0 -260px 260px 0 rgba(0,0,0,0.98)' }} />
+            </div>
+            {/* Message bubbles INSIDE the card wrapper, positioned with transforms */}
+            <div className="pointer-events-none absolute left-0 top-0 z-20" style={{ transform: 'translate3d(-7rem, 2rem, 0)', willChange: 'transform' }}>
               <Image src="/hero/msg-left.png" alt="message bubble" width={280} height={120} className="w-56 sm:w-72 h-auto opacity-90" />
             </div>
-            <div className="absolute -right-6 sm:-right-12 -bottom-6">
+            <div className="pointer-events-none absolute right-0 bottom-0 z-20" style={{ transform: 'translate3d(8.5rem, -11rem, 0)', willChange: 'transform' }}>
               <Image src="/hero/msg-right.png" alt="message bubble" width={300} height={120} className="w-60 sm:w-72 h-auto opacity-90" />
-            </div>
             </div>
           </div>
         </div>

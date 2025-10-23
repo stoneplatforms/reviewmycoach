@@ -3,7 +3,8 @@
 import { useState, useEffect, useCallback } from 'react';
 import { User } from 'firebase/auth';
 import { doc, getDoc, setDoc } from 'firebase/firestore';
-import { auth, db } from '../../../../lib/firebase-client';
+import { ref as storageRef, uploadBytes, getDownloadURL } from 'firebase/storage';
+import { auth, db, storage } from '../../../../lib/firebase-client';
 import { useRouter } from 'next/navigation';
 
 interface CoachProfile {
@@ -77,6 +78,8 @@ export default function EditCoachProfile() {
   });
   const [newCertification, setNewCertification] = useState('');
   const [newSpecialty, setNewSpecialty] = useState('');
+  const [uploading, setUploading] = useState(false);
+  const [localPreview, setLocalPreview] = useState<string | null>(null);
   const router = useRouter();
 
   const loadCoachProfile = useCallback(async (userId: string) => {
@@ -139,6 +142,69 @@ export default function EditCoachProfile() {
         ...prev,
         [name]: value
       }));
+    }
+  };
+
+  // Simple client-side image compression using Canvas
+  const compressImage = (file: File, maxDim: number, quality: number): Promise<Blob> => {
+    return new Promise((resolve, reject) => {
+      const img = new Image();
+      img.onload = () => {
+        const scale = Math.min(1, maxDim / Math.max(img.width, img.height));
+        const canvas = document.createElement('canvas');
+        canvas.width = Math.max(1, Math.round(img.width * scale));
+        canvas.height = Math.max(1, Math.round(img.height * scale));
+        const ctx = canvas.getContext('2d');
+        if (!ctx) return reject(new Error('Canvas not supported'));
+        ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+        canvas.toBlob(
+          (blob) => {
+            if (!blob) return reject(new Error('Compression failed'));
+            resolve(blob);
+          },
+          'image/jpeg',
+          quality
+        );
+      };
+      img.onerror = reject;
+      img.src = URL.createObjectURL(file);
+    });
+  };
+
+  // Handle profile image upload with compression and Firebase Storage
+  const handleProfileImageChange = async (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file || !user) return;
+    try {
+      setUploading(true);
+      // Basic client-side validation
+      if (!file.type.startsWith('image/')) {
+        alert('Please upload an image file');
+        return;
+      }
+
+      // Compress image on client
+      const compressedBlob = await compressImage(file, 1200, 0.8);
+
+      // Upload to Firebase Storage under coaches/{userId}/profile.jpg
+      const objectRef = storageRef(storage, `coaches/${user.uid}/profile.jpg`);
+      const uploadRes = await uploadBytes(objectRef, compressedBlob, { contentType: 'image/jpeg' });
+      const url = await getDownloadURL(uploadRes.ref);
+
+      // Update local preview immediately
+      setLocalPreview(url);
+
+      // Save URL on coach document
+      const coachRef = doc(db, 'coaches', user.uid);
+      await setDoc(coachRef, { profileImage: url, updatedAt: new Date() }, { merge: true });
+
+      // Reflect in form state
+      setFormData(prev => ({ ...prev, profileImage: url }));
+    } catch (err) {
+      console.error('Image upload failed:', err);
+      alert('Failed to upload image. Please try a different file.');
+    } finally {
+      setUploading(false);
     }
   };
 
@@ -247,6 +313,24 @@ export default function EditCoachProfile() {
           <h2 className="text-xl font-semibold text-gray-900 mb-6">Basic Information</h2>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {/* Profile photo uploader */}
+            <div>
+              <label className="block text-sm font-medium text-white mb-2">Profile Photo</label>
+              <div className="flex items-start gap-4">
+                <div className="relative w-24 h-24 rounded-full overflow-hidden bg-gray-800 border border-gray-700">
+                  {localPreview || formData.profileImage ? (
+                    <img src={(localPreview || formData.profileImage)!} alt="preview" className="w-full h-full object-cover" />
+                  ) : (
+                    <div className="w-full h-full flex items-center justify-center text-gray-500">No photo</div>
+                  )}
+                </div>
+                <div>
+                  <input type="file" accept="image/*" onChange={handleProfileImageChange} className="block text-sm text-white" />
+                  <p className="text-xs text-gray-400 mt-2">JPG/PNG, auto-compressed before upload.</p>
+                  {uploading && <p className="text-xs text-gray-300 mt-1">Uploading...</p>}
+                </div>
+              </div>
+            </div>
             <div>
               <label className="block text-sm font-medium text-white mb-2">
                 Display Name

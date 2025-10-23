@@ -75,9 +75,7 @@ export default function CoachCard({ coach }: CoachCardProps) {
                   className="w-full h-full object-cover"
                 />
               ) : (
-                <svg className="w-8 h-8 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                  <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
-                </svg>
+                <div className="w-full h-full flex items-center justify-center text-gray-400 text-xs">No Photo</div>
               )}
             </div>
             {coach.isVerified && (
