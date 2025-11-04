@@ -116,9 +116,6 @@ export default function RootLayout({
                 <Link href="/terms" className="text-gray-300 hover:text-orange-400 transition-colors">
                   Terms
                 </Link>
-                <Link href="/contact" className="text-gray-300 hover:text-orange-400 transition-colors">
-                  Contact
-                </Link>
               </div>
 
               {/* Social Links */}
