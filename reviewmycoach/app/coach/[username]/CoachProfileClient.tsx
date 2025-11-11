@@ -5,6 +5,7 @@ import { User } from 'firebase/auth';
 import { auth } from '../../lib/firebase-client';
 import Image from 'next/image';
 import { useRealtimeReviews, useRealtimeCoach } from '../../lib/hooks/useRealtimeReviews';
+import { useCoachXP } from '../../lib/hooks/useCoachXP';
 import RealtimeReviewModal from '../../components/RealtimeReviewModal';
 import BookingModal from '../../components/BookingModal';
 import MessagingModal from '../../components/MessagingModal';
@@ -92,6 +93,9 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
   const { 
     coach: realtimeCoach
   } = useRealtimeCoach(initialCoach.id);
+
+  // Fetch XP data
+  const { xpData, loading: xpLoading } = useCoachXP(initialCoach.id, initialCoach.userId);
 
   // Use real-time data if available, fallback to initial props
   const coach = realtimeCoach || initialCoach;
@@ -214,11 +218,22 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
 
           {/* Coach Info */}
           <div className="flex-1">
-            <div className="flex items-center gap-3 mb-2">
+            <div className="flex items-center gap-3 mb-2 flex-wrap">
               <h1 className="text-3xl font-bold text-gray-900 tracking-tight">{coach.displayName}</h1>
               {coach.isVerified && (
                 <span className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-emerald-50 text-emerald-700 border border-emerald-200">
                   Verified Coach
+                </span>
+              )}
+              {xpData && (
+                <span className={`inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold ${
+                  xpData.tier_number === 5 ? 'bg-purple-100 text-purple-700 border border-purple-200' :
+                  xpData.tier_number === 4 ? 'bg-blue-100 text-blue-700 border border-blue-200' :
+                  xpData.tier_number === 3 ? 'bg-green-100 text-green-700 border border-green-200' :
+                  xpData.tier_number === 2 ? 'bg-yellow-100 text-yellow-700 border border-yellow-200' :
+                  'bg-gray-100 text-gray-700 border border-gray-200'
+                }`}>
+                  {xpData.tier} • {xpData.xp.toLocaleString()} XP
                 </span>
               )}
             </div>
@@ -551,6 +566,86 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
 
         {/* Sidebar */}
         <div className="space-y-6">
+          {/* XP & Tier Display */}
+          {xpLoading ? (
+            <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
+              <div className="animate-pulse">
+                <div className="h-6 bg-gray-200 rounded w-1/3 mb-4"></div>
+                <div className="h-8 bg-gray-200 rounded w-1/2 mb-2"></div>
+                <div className="h-4 bg-gray-200 rounded w-2/3"></div>
+              </div>
+            </div>
+          ) : xpData ? (
+            <div className={`bg-white border rounded-2xl p-6 shadow-sm ${
+              xpData.tier_number === 5 ? 'border-purple-200 bg-gradient-to-br from-purple-50 to-white' :
+              xpData.tier_number === 4 ? 'border-blue-200 bg-gradient-to-br from-blue-50 to-white' :
+              xpData.tier_number === 3 ? 'border-green-200 bg-gradient-to-br from-green-50 to-white' :
+              xpData.tier_number === 2 ? 'border-yellow-200 bg-gradient-to-br from-yellow-50 to-white' :
+              'border-gray-200'
+            }`}>
+              <div className="flex items-center justify-between mb-4">
+                <h3 className="text-lg font-semibold text-gray-900">Coach XP</h3>
+                <svg className="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+                </svg>
+              </div>
+              <div className="mb-4">
+                <div className={`text-4xl font-bold mb-1 ${
+                  xpData.tier_number === 5 ? 'text-purple-600' :
+                  xpData.tier_number === 4 ? 'text-blue-600' :
+                  xpData.tier_number === 3 ? 'text-green-600' :
+                  xpData.tier_number === 2 ? 'text-yellow-600' :
+                  'text-gray-600'
+                }`}>
+                  {xpData.xp.toLocaleString()}
+                </div>
+                <div className="text-sm text-gray-600">Total XP</div>
+              </div>
+              <div className={`inline-flex items-center px-3 py-1.5 rounded-full text-sm font-semibold mb-4 ${
+                xpData.tier_number === 5 ? 'bg-purple-100 text-purple-700' :
+                xpData.tier_number === 4 ? 'bg-blue-100 text-blue-700' :
+                xpData.tier_number === 3 ? 'bg-green-100 text-green-700' :
+                xpData.tier_number === 2 ? 'bg-yellow-100 text-yellow-700' :
+                'bg-gray-100 text-gray-700'
+              }`}>
+                {xpData.tier}
+              </div>
+              <div className="pt-4 border-t border-gray-200 space-y-2">
+                <div className="text-xs font-medium text-gray-700 mb-2">XP Breakdown</div>
+                <div className="space-y-1.5 text-xs">
+                  <div className="flex justify-between text-gray-600">
+                    <span>Subscription:</span>
+                    <span className="font-medium text-gray-900">+{xpData.breakdown.base_xp.toLocaleString()}</span>
+                  </div>
+                  <div className="flex justify-between text-gray-600">
+                    <span>Platform:</span>
+                    <span className="font-medium text-gray-900">+{xpData.breakdown.platform_xp.toLocaleString()}</span>
+                  </div>
+                  <div className="flex justify-between text-gray-600">
+                    <span>Career:</span>
+                    <span className="font-medium text-gray-900">+{xpData.breakdown.career_xp.toLocaleString()}</span>
+                  </div>
+                  <div className="flex justify-between text-gray-600">
+                    <span>Courses:</span>
+                    <span className="font-medium text-gray-900">+{xpData.breakdown.course_xp.toLocaleString()}</span>
+                  </div>
+                  <div className="flex justify-between text-gray-600">
+                    <span>Jobs:</span>
+                    <span className="font-medium text-gray-900">+{xpData.breakdown.job_xp.toLocaleString()}</span>
+                  </div>
+                  <div className="flex justify-between text-gray-600">
+                    <span>Reviews:</span>
+                    <span className="font-medium text-gray-900">+{xpData.breakdown.review_bonus.toLocaleString()}</span>
+                  </div>
+                  <div className="flex justify-between text-gray-600 pt-2 border-t border-gray-200">
+                    <span>Multiplier:</span>
+                    <span className="font-medium text-gray-900">{xpData.breakdown.consistency_multiplier.toFixed(2)}x</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          ) : null}
+
           {/* Quick Info */}
           <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
             <h3 className="text-lg font-semibold text-gray-900 mb-4">Quick Info</h3>
