@@ -1,6 +1,6 @@
 'use client';
 
-import { useCoachXP } from '../../lib/hooks/useCoachXP';
+import { useCoachXP } from '../lib/hooks/useCoachXP';
 
 /**
  * Example component demonstrating XP display
