@@ -1,9 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
-import { User } from 'firebase/auth';
-import { auth } from '../lib/firebase-client';
-import { useRouter } from 'next/navigation';
+import { useAuth } from '../lib/hooks/useAuth';
 import AuthGuard from '../components/AuthGuard';
 
 interface DashboardLayoutProps {
@@ -11,22 +8,7 @@ interface DashboardLayoutProps {
 }
 
 export default function DashboardLayout({ children }: DashboardLayoutProps) {
-  const [user, setUser] = useState<User | null>(null);
-  const [loading, setLoading] = useState(true);
-  const router = useRouter();
-
-  useEffect(() => {
-    const unsubscribe = auth.onAuthStateChanged((user) => {
-      if (user) {
-        setUser(user);
-      } else {
-        router.push('/signin');
-      }
-      setLoading(false);
-    });
-
-    return () => unsubscribe();
-  }, [router]);
+  const { user, loading } = useAuth();
 
   if (loading) {
     return (
@@ -37,7 +19,7 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
   }
 
   if (!user) {
-    return null; // Will redirect via useEffect
+    return null; // AuthGuard will handle redirect
   }
 
   return (

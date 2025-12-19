@@ -6,15 +6,17 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "migrate:firestore-to-postgres": "tsx scripts/migrate-firestore-to-postgres.ts"
   },
   "dependencies": {
     "@stripe/react-stripe-js": "^3.7.0",
     "@stripe/stripe-js": "^7.4.0",
     "@types/react-google-recaptcha": "^2.1.9",
     "@vercel/postgres": "^0.10.0",
+    "dotenv": "^17.2.3",
     "firebase": "^11.9.0",
-    "firebase-admin": "^13.4.0",
+    "firebase-admin": "^13.6.0",
     "next": "15.3.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -35,6 +37,7 @@
     "eslint-config-next": "15.3.3",
     "firebase-tools": "^14.10.1",
     "tailwindcss": "^4",
+    "tsx": "^4.7.0",
     "typescript": "^5"
   }
 }

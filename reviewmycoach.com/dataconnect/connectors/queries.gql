@@ -1,0 +1,451 @@
+# Combined queries for ReviewMyCoach Data Connect
+# Using camelCase for all field names
+
+# ============================================
+# User Queries
+# ============================================
+
+query GetUser($id: String!) @auth(level: USER) {
+  user(id: $id) {
+    id
+    userId
+    email
+    displayName
+    username
+    firstName
+    lastName
+    role
+    onboardingCompleted
+    isVerified
+    createdAt
+    updatedAt
+  }
+}
+
+query GetUserByEmail($email: String!) @auth(level: USER) {
+  users(where: {email: {eq: $email}}) {
+    id
+    userId
+    email
+    displayName
+    username
+    role
+    onboardingCompleted
+    isVerified
+  }
+}
+
+query GetUserByUsername($username: String!) @auth(level: PUBLIC) {
+  users(where: {username: {eq: $username}}) {
+    id
+    username
+    displayName
+  }
+}
+
+query CheckUsernameAvailability($username: String!) @auth(level: PUBLIC) {
+  users(where: {username: {eq: $username}}) {
+    id
+    username
+  }
+}
+
+# ============================================
+# Coach Queries
+# ============================================
+
+query GetCoach($id: String!) @auth(level: PUBLIC) {
+  coach(id: $id) {
+    id
+    username
+    userId
+    displayName
+    email
+    bio
+    sports
+    location
+    hourlyRate
+    averageRating
+    totalReviews
+    profileImage
+    isClaimed
+    subscriptionStatus
+  }
+}
+
+query GetCoachByUsername($username: String!) @auth(level: PUBLIC, insecureReason: "Public coach profiles are a core feature") {
+  coaches(where: {username: {eq: $username}}) {
+    id
+    username
+    userId
+    displayName
+    email
+    phoneNumber
+    bio
+    sports
+    specialties
+    certifications
+    location
+    organization
+    role
+    gender
+    ageGroup
+    availability
+    languages
+    website
+    socialMedia
+    hourlyRate
+    experience
+    averageRating
+    totalReviews
+    profileImage
+    isVerified
+    sourceUrl
+    subscriptionTier
+    longevityPlatformYears
+    careerYears
+    coursesCreated
+    jobsCompleted
+    consistencyMultiplier
+    activeCardId
+    activeCardImageUrl
+    createdAt
+    updatedAt
+  }
+}
+
+query GetClaimableCoaches($email: String!) @auth(level: PUBLIC, insecureReason: "Email is verified in API route before calling this query") {
+  coaches(where: {
+    email: {eq: $email}
+    isClaimed: {eq: false}
+  }) {
+    id
+    username
+    displayName
+    email
+    organization
+    sports
+  }
+}
+
+query CheckCoachUsernameAvailability($username: String!) @auth(level: PUBLIC) {
+  coaches(where: {username: {eq: $username}}) {
+    id
+    username
+  }
+}
+
+query SearchCoaches($sport: String, $location: String, $limit: Int) @auth(level: PUBLIC) {
+  coaches(
+    where: {
+      isPublic: {eq: true}
+    }
+    orderBy: {averageRating: DESC}
+    limit: $limit
+  ) {
+    id
+    username
+    displayName
+    bio
+    sports
+    location
+    hourlyRate
+    averageRating
+    totalReviews
+    profileImage
+  }
+}
+
+# Advanced search query with pagination and filtering
+# Default sort: highest rating (averageRating DESC)
+# NOTE: Not filtering by isPublic to show all coaches
+query SearchCoachesAdvanced(
+  $searchTerm: String
+  $sport: String
+  $location: String
+  $gender: String
+  $organization: String
+  $minRating: Float
+  $maxRate: Float
+  $isVerified: Boolean
+  $offset: Int
+  $limit: Int
+) @auth(level: PUBLIC, insecureReason: "Public coach search is a core feature of the application") {
+  coaches(
+    orderBy: [
+      {averageRating: DESC},
+      {totalReviews: DESC},
+      {displayName: ASC}
+    ]
+    offset: $offset
+    limit: $limit
+  ) {
+    id
+    username
+    userId
+    displayName
+    bio
+    sports
+    specialties
+    certifications
+    location
+    organization
+    role
+    gender
+    ageGroup
+    sourceUrl
+    hourlyRate
+    averageRating
+    totalReviews
+    profileImage
+    isVerified
+    hasActiveServices
+    createdAt
+    updatedAt
+  }
+}
+
+# Get all public coaches with pagination for the Our Coaches section
+query GetPublicCoaches($limit: Int, $offset: Int) @auth(level: PUBLIC, insecureReason: "Public coach listing is a core feature of the application") {
+  coaches(
+    orderBy: {averageRating: DESC}
+    offset: $offset
+    limit: $limit
+  ) {
+    id
+    username
+    userId
+    displayName
+    bio
+    sports
+    specialties
+    location
+    organization
+    role
+    hourlyRate
+    averageRating
+    totalReviews
+    profileImage
+    isVerified
+    hasActiveServices
+    # XP calculation fields
+    subscriptionTier
+    longevityPlatformYears
+    careerYears
+    coursesCreated
+    jobsCompleted
+    consistencyMultiplier
+    isClaimed
+    createdAt
+    updatedAt
+  }
+}
+
+# ============================================
+# Review Queries
+# ============================================
+
+query GetCoachReviews($coachId: String!, $limit: Int) @auth(level: PUBLIC, insecureReason: "Public reviews are a core feature") {
+  reviews(
+    where: {coachId: {eq: $coachId}}
+    orderBy: {createdAt: DESC}
+    limit: $limit
+  ) {
+    id
+    coachId
+    coachUsername
+    userId
+    studentName
+    rating
+    reviewText
+    sport
+    createdAt
+    updatedAt
+  }
+}
+
+query GetRecentReviews($limit: Int) @auth(level: PUBLIC, insecureReason: "Public reviews are a core feature") {
+  reviews(
+    orderBy: {createdAt: DESC}
+    limit: $limit
+  ) {
+    id
+    coachId
+    coachUsername
+    userId
+    studentName
+    rating
+    reviewText
+    sport
+    createdAt
+  }
+}
+
+# Get all reviews for a coach with offset for pagination
+query GetCoachReviewsPaginated($coachId: String!, $offset: Int, $limit: Int) @auth(level: PUBLIC, insecureReason: "Public reviews are a core feature") {
+  reviews(
+    where: {coachId: {eq: $coachId}}
+    orderBy: {createdAt: DESC}
+    offset: $offset
+    limit: $limit
+  ) {
+    id
+    coachId
+    coachUsername
+    userId
+    studentName
+    rating
+    reviewText
+    sport
+    createdAt
+    updatedAt
+  }
+}
+
+# Count total coaches using SQL for performance
+# Note: This returns all coach IDs, we count them in code
+# A proper COUNT(*) would be better but Data Connect doesn't support aggregations yet
+query CountAllCoaches @auth(level: PUBLIC, insecureReason: "Count needed for pagination") {
+  coaches {
+    id
+  }
+}
+
+# ============================================
+# Card Queries
+# ============================================
+
+# Get all tier cards
+query GetTierCards @auth(level: PUBLIC, insecureReason: "Tier cards are public info") {
+  tierCards(
+    where: {isActive: {eq: true}}
+    orderBy: {requiredXp: ASC}
+  ) {
+    id
+    tierNumber
+    tierName
+    requiredXp
+    imageUrl
+    description
+  }
+}
+
+# Get tier cards that a user qualifies for based on XP
+query GetEligibleTierCards($requiredXp: Int!) @auth(level: PUBLIC, insecureReason: "Used for tier card unlock logic, auth verified in API route") {
+  tierCards(
+    where: {
+      isActive: {eq: true}
+      requiredXp: {le: $requiredXp}
+    }
+    orderBy: {requiredXp: ASC}
+  ) {
+    id
+    tierNumber
+    tierName
+    requiredXp
+    imageUrl
+    description
+    isActive
+  }
+}
+
+# Get all active marketplace cards
+query GetMarketplaceCards($category: String, $tier: String, $limit: Int, $offset: Int) @auth(level: PUBLIC, insecureReason: "Public marketplace cards available to all users") {
+  marketplaceCards(
+    where: {
+      isActive: {eq: true}
+    }
+    orderBy: [
+      {isFeatured: DESC},
+      {sortOrder: ASC},
+      {createdAt: DESC}
+    ]
+    offset: $offset
+    limit: $limit
+  ) {
+    id
+    name
+    description
+    imageUrl
+    category
+    tier
+    rarity
+    price
+    isFeatured
+    totalPurchases
+    createdAt
+  }
+}
+
+# Get a specific marketplace card
+query GetMarketplaceCard($id: String!) @auth(level: PUBLIC, insecureReason: "Marketplace cards are publicly browsable") {
+  marketplaceCard(id: $id) {
+    id
+    name
+    description
+    imageUrl
+    category
+    tier
+    rarity
+    price
+    stripePriceId
+    stripeProductId
+    isActive
+    isFeatured
+    totalPurchases
+    createdAt
+    updatedAt
+  }
+}
+
+# Get cards owned by a user
+query GetUserCards($userId: String!) @auth(level: USER, insecureReason: "User can view their own cards, auth verification in API route ensures userId matches token") {
+  userCards(
+    where: {userId: {eq: $userId}}
+    orderBy: {createdAt: DESC}
+  ) {
+    id
+    userId
+    coachUsername
+    cardId
+    cardType
+    cardName
+    cardImageUrl
+    isActive
+    unlockedAt
+    purchasedAt
+    createdAt
+  }
+}
+
+# Get cards owned by a coach by username
+query GetCoachCards($coachUsername: String!) @auth(level: PUBLIC, insecureReason: "Coach cards are publicly visible on profiles") {
+  userCards(
+    where: {coachUsername: {eq: $coachUsername}}
+    orderBy: {purchasedAt: DESC}
+  ) {
+    id
+    cardId
+    cardName
+    cardImageUrl
+    isActive
+    purchasedAt
+  }
+}
+
+# Get the active card for a coach
+query GetCoachActiveCard($coachUsername: String!) @auth(level: PUBLIC, insecureReason: "Active coach cards are displayed on public profiles") {
+  userCards(
+    where: {
+      coachUsername: {eq: $coachUsername}
+      isActive: {eq: true}
+    }
+    limit: 1
+  ) {
+    id
+    cardId
+    cardName
+    cardImageUrl
+    isActive
+  }
+}

@@ -1,18 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-
-// Function to get Firebase instances
-async function getFirebaseInstances() {
-  try {
-    const firebaseAdminModule = await import('../../lib/firebase-admin');
-    return {
-      auth: firebaseAdminModule.auth,
-      db: firebaseAdminModule.db
-    };
-  } catch (error) {
-    console.error('Failed to load Firebase Admin in classes route:', error);
-    return { auth: null, db: null };
-  }
-}
+import { adminDb, verifyFirebaseToken } from '../../lib/firebase-admin-server';
 
 interface ClassData {
   title: string;
@@ -20,20 +7,20 @@ interface ClassData {
   sport: string;
   type: 'virtual' | 'physical';
   location?: string;
-  zoomLink?: string;
-  maxParticipants: number;
+  zoom_link?: string;
+  max_participants: number;
   price: number;
   currency: string;
   duration: number; // in minutes
   schedules: {
     date: string;
-    startTime: string;
-    endTime: string;
+    start_time: string;
+    end_time: string;
   }[];
-  recurringPattern?: {
+  recurring_pattern?: {
     type: 'daily' | 'weekly' | 'monthly';
     interval: number;
-    endDate?: string;
+    end_date?: string;
   };
   requirements?: string[];
   equipment?: string[];
@@ -41,19 +28,10 @@ interface ClassData {
   tags?: string[];
 }
 
+// Use Firebase token verification (already exported from firebase-admin-server)
+
 // GET - Fetch classes
 export async function GET(req: NextRequest) {
-  const { db } = await getFirebaseInstances();
-  
-  if (!db) {
-    console.error('Firebase not initialized - returning empty classes list');
-    return NextResponse.json({
-      classes: [],
-      error: 'Firebase connection not available',
-      fallback: true
-    });
-  }
-
   try {
     const { searchParams } = new URL(req.url);
     const coachId = searchParams.get('coachId');
@@ -61,29 +39,29 @@ export async function GET(req: NextRequest) {
     const type = searchParams.get('type');
     const limit = parseInt(searchParams.get('limit') || '20');
 
-    let query: any = db.collection('classes');
+    let query = adminDb.collection('classes').orderBy('createdAt', 'desc').limit(limit);
 
     // Apply filters
     if (coachId) {
-      query = query.where('coachId', '==', coachId);
+      query = query.where('coachId', '==', coachId) as any;
     }
     if (sport) {
-      query = query.where('sport', '==', sport);
+      query = query.where('sport', '==', sport) as any;
     }
     if (type) {
-      query = query.where('type', '==', type);
+      query = query.where('type', '==', type) as any;
     }
 
-    // Order by creation date and limit results
-    query = query.orderBy('createdAt', 'desc').limit(limit);
-
     const snapshot = await query.get();
-    const classes = snapshot.docs.map((doc: any) => ({
-      id: doc.id,
-      ...doc.data(),
-      createdAt: doc.data().createdAt?.toDate().toISOString(),
-      updatedAt: doc.data().updatedAt?.toDate().toISOString(),
-    }));
+    const classes = snapshot.docs.map(doc => {
+      const data = doc.data();
+      return {
+        id: doc.id,
+        ...data,
+        createdAt: data.createdAt?.toDate?.()?.toISOString() || data.createdAt,
+        updatedAt: data.updatedAt?.toDate?.()?.toISOString() || data.updatedAt,
+      };
+    });
 
     return NextResponse.json({ classes });
   } catch (error) {
@@ -97,13 +75,10 @@ export async function GET(req: NextRequest) {
 
 // POST - Create new class
 export async function POST(req: NextRequest) {
-  const { auth, db } = await getFirebaseInstances();
-  
-  if (!db || !auth) {
-    console.error('Firebase not initialized - cannot create class');
+  if (!supabaseAdmin) {
     return NextResponse.json({
       error: 'Service temporarily unavailable. Please try again later.',
-      details: 'Firebase connection not available'
+      details: 'Supabase connection not available'
     }, { status: 503 });
   }
 
@@ -113,43 +88,55 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'No authentication token provided' }, { status: 401 });
     }
 
-    const decodedToken = await auth.verifyIdToken(token);
+    const decodedToken = await verifyFirebaseToken(token);
+    if (!decodedToken) {
+      return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
+    }
     const userId = decodedToken.uid;
 
     // Get user profile to find username
-    const userDoc = await db.collection('users').doc(userId).get();
-    if (!userDoc.exists) {
+    const { data: userData, error: userError } = await supabaseAdmin
+      .from('users')
+      .select('username')
+      .eq('id', userId)
+      .single();
+
+    if (userError || !userData) {
       return NextResponse.json({ error: 'User profile not found' }, { status: 404 });
     }
 
-    const userData = userDoc.data();
-    const username = userData?.username;
+    const username = userData.username;
     
     // Try to get coach profile - first by username, then by userId
-    let coachDoc;
+    let coachData = null;
     if (username) {
-      coachDoc = await db.collection('coaches').doc(username.toLowerCase()).get();
+      const { data: coachByUsername } = await supabaseAdmin
+        .from('coaches')
+        .select('*')
+        .eq('username', username.toLowerCase())
+        .single();
+      coachData = coachByUsername;
     }
     
     // If no coach found with username, try userId
-    if (!coachDoc?.exists) {
-      coachDoc = await db.collection('coaches').doc(userId).get();
+    if (!coachData) {
+      const { data: coachByUserId } = await supabaseAdmin
+        .from('coaches')
+        .select('*')
+        .eq('user_id', userId)
+        .single();
+      coachData = coachByUserId;
     }
     
-    if (!coachDoc.exists) {
+    if (!coachData) {
       return NextResponse.json({ 
         error: 'Coach profile not found',
         message: 'Please complete your coach profile setup first'
       }, { status: 404 });
     }
 
-    const coachData = coachDoc.data();
-    if (!coachData) {
-      return NextResponse.json({ error: 'Coach data not found' }, { status: 404 });
-    }
-
     // Check if coach has Stripe Connect account
-    if (!coachData.stripeAccountId) {
+    if (!coachData.stripe_account_id) {
       return NextResponse.json({
         error: 'Stripe Connect account required',
         message: 'Please connect your Stripe account before creating classes'
@@ -167,7 +154,7 @@ export async function POST(req: NextRequest) {
     }
 
     // Validate virtual class requirements
-    if (classData.type === 'virtual' && !classData.zoomLink) {
+    if (classData.type === 'virtual' && !classData.zoom_link) {
       return NextResponse.json({
         error: 'Zoom link required for virtual classes'
       }, { status: 400 });
@@ -192,12 +179,12 @@ export async function POST(req: NextRequest) {
           description: classData.description,
           metadata: {
             type: 'class',
-            coachId: username || userId, // Use username if available, otherwise userId
+            coachId: username || userId,
             sport: classData.sport,
             classType: classData.type
           }
         }, {
-          stripeAccount: coachData.stripeAccountId
+          stripeAccount: coachData.stripe_account_id
         });
 
         const price = await stripe.stripe.prices.create({
@@ -208,7 +195,7 @@ export async function POST(req: NextRequest) {
             type: 'class_booking'
           }
         }, {
-          stripeAccount: coachData.stripeAccountId
+          stripeAccount: coachData.stripe_account_id
         });
 
         stripeProductId = product.id;
@@ -224,26 +211,55 @@ export async function POST(req: NextRequest) {
 
     // Create class document
     const newClass = {
-      ...classData,
-      coachId: username || userId, // Use username if available, otherwise userId
-      coachName: coachData.displayName,
-      stripeAccountId: coachData.stripeAccountId,
-      stripeProductId,
-      stripePriceId,
+      title: classData.title,
+      description: classData.description,
+      sport: classData.sport,
+      type: classData.type,
+      location: classData.location || null,
+      zoom_link: classData.zoom_link || null,
+      max_participants: classData.max_participants,
+      price: classData.price,
+      currency: classData.currency || 'usd',
+      duration: classData.duration,
+      schedules: classData.schedules,
+      recurring_pattern: classData.recurring_pattern || null,
+      requirements: classData.requirements || [],
+      equipment: classData.equipment || [],
+      level: classData.level,
+      tags: classData.tags || [],
+      coach_id: username || userId,
+      coach_name: coachData.display_name,
+      stripe_account_id: coachData.stripe_account_id,
+      stripe_product_id: stripeProductId,
+      stripe_price_id: stripePriceId,
       participants: [],
-      currentParticipants: 0,
+      current_participants: 0,
       status: 'active',
-      createdAt: new Date(),
-      updatedAt: new Date()
+      created_at: new Date().toISOString(),
+      updated_at: new Date().toISOString()
     };
 
-    const docRef = await db.collection('classes').add(newClass);
+    const { data: insertedClass, error: insertError } = await supabaseAdmin
+      .from('classes')
+      .insert(newClass)
+      .select()
+      .single();
+
+    if (insertError) {
+      console.error('Error inserting class:', insertError);
+      return NextResponse.json({
+        error: 'Failed to create class',
+        details: insertError.message
+      }, { status: 500 });
+    }
 
     return NextResponse.json({
-      id: docRef.id,
-      ...newClass,
-      createdAt: newClass.createdAt.toISOString(),
-      updatedAt: newClass.updatedAt.toISOString()
+      id: insertedClass.id,
+      ...insertedClass,
+      createdAt: insertedClass.created_at,
+      updatedAt: insertedClass.updated_at,
+      zoomLink: insertedClass.zoom_link,
+      maxParticipants: insertedClass.max_participants,
     }, { status: 201 });
 
   } catch (error) {
@@ -257,9 +273,7 @@ export async function POST(req: NextRequest) {
 
 // PUT - Update class
 export async function PUT(req: NextRequest) {
-  const { auth, db } = await getFirebaseInstances();
-  
-  if (!db || !auth) {
+  if (!supabaseAdmin) {
     return NextResponse.json({
       error: 'Service temporarily unavailable'
     }, { status: 503 });
@@ -271,16 +285,19 @@ export async function PUT(req: NextRequest) {
       return NextResponse.json({ error: 'No authentication token provided' }, { status: 401 });
     }
 
-    const decodedToken = await auth.verifyIdToken(token);
+    const decodedToken = await verifyFirebaseToken(token);
+    if (!decodedToken) {
+      return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
+    }
     const userId = decodedToken.uid;
 
     // Get user profile to find username
-    const userDoc = await db.collection('users').doc(userId).get();
-    if (!userDoc.exists) {
-      return NextResponse.json({ error: 'User profile not found' }, { status: 404 });
-    }
+    const { data: userData } = await supabaseAdmin
+      .from('users')
+      .select('username')
+      .eq('id', userId)
+      .single();
 
-    const userData = userDoc.data();
     const username = userData?.username;
 
     const { searchParams } = new URL(req.url);
@@ -291,32 +308,71 @@ export async function PUT(req: NextRequest) {
     }
 
     // Check if user owns this class
-    const classDoc = await db.collection('classes').doc(classId).get();
-    if (!classDoc.exists) {
+    const { data: classData, error: classError } = await supabaseAdmin
+      .from('classes')
+      .select('*')
+      .eq('id', classId)
+      .single();
+
+    if (classError || !classData) {
       return NextResponse.json({ error: 'Class not found' }, { status: 404 });
     }
 
-    const classData = classDoc.data();
     // Check ownership using both username and userId patterns
-    const isOwner = classData && (
-      (username && classData.coachId === username) || 
-      classData.coachId === userId
-    );
+    const isOwner = (username && classData.coach_id === username) || 
+                    classData.coach_id === userId;
     
     if (!isOwner) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 403 });
     }
 
     const updateData = await req.json();
-    updateData.updatedAt = new Date();
+    // Convert camelCase to snake_case for database
+    const updateDataSnakeCase: any = {
+      updated_at: new Date().toISOString()
+    };
 
-    await db.collection('classes').doc(classId).update(updateData);
+    // Map camelCase fields to snake_case
+    if (updateData.title !== undefined) updateDataSnakeCase.title = updateData.title;
+    if (updateData.description !== undefined) updateDataSnakeCase.description = updateData.description;
+    if (updateData.sport !== undefined) updateDataSnakeCase.sport = updateData.sport;
+    if (updateData.type !== undefined) updateDataSnakeCase.type = updateData.type;
+    if (updateData.location !== undefined) updateDataSnakeCase.location = updateData.location;
+    if (updateData.zoomLink !== undefined) updateDataSnakeCase.zoom_link = updateData.zoomLink;
+    if (updateData.maxParticipants !== undefined) updateDataSnakeCase.max_participants = updateData.maxParticipants;
+    if (updateData.price !== undefined) updateDataSnakeCase.price = updateData.price;
+    if (updateData.currency !== undefined) updateDataSnakeCase.currency = updateData.currency;
+    if (updateData.duration !== undefined) updateDataSnakeCase.duration = updateData.duration;
+    if (updateData.schedules !== undefined) updateDataSnakeCase.schedules = updateData.schedules;
+    if (updateData.recurringPattern !== undefined) updateDataSnakeCase.recurring_pattern = updateData.recurringPattern;
+    if (updateData.requirements !== undefined) updateDataSnakeCase.requirements = updateData.requirements;
+    if (updateData.equipment !== undefined) updateDataSnakeCase.equipment = updateData.equipment;
+    if (updateData.level !== undefined) updateDataSnakeCase.level = updateData.level;
+    if (updateData.tags !== undefined) updateDataSnakeCase.tags = updateData.tags;
+    if (updateData.status !== undefined) updateDataSnakeCase.status = updateData.status;
+
+    const { data: updatedClass, error: updateError } = await supabaseAdmin
+      .from('classes')
+      .update(updateDataSnakeCase)
+      .eq('id', classId)
+      .select()
+      .single();
+
+    if (updateError) {
+      console.error('Error updating class:', updateError);
+      return NextResponse.json({
+        error: 'Failed to update class',
+        details: updateError.message
+      }, { status: 500 });
+    }
 
     return NextResponse.json({
-      id: classId,
-      ...classData,
-      ...updateData,
-      updatedAt: updateData.updatedAt.toISOString()
+      id: updatedClass.id,
+      ...updatedClass,
+      createdAt: updatedClass.created_at,
+      updatedAt: updatedClass.updated_at,
+      zoomLink: updatedClass.zoom_link,
+      maxParticipants: updatedClass.max_participants,
     });
 
   } catch (error) {
@@ -330,9 +386,7 @@ export async function PUT(req: NextRequest) {
 
 // DELETE - Delete class
 export async function DELETE(req: NextRequest) {
-  const { auth, db } = await getFirebaseInstances();
-  
-  if (!db || !auth) {
+  if (!supabaseAdmin) {
     return NextResponse.json({
       error: 'Service temporarily unavailable'
     }, { status: 503 });
@@ -344,16 +398,19 @@ export async function DELETE(req: NextRequest) {
       return NextResponse.json({ error: 'No authentication token provided' }, { status: 401 });
     }
 
-    const decodedToken = await auth.verifyIdToken(token);
+    const decodedToken = await verifyFirebaseToken(token);
+    if (!decodedToken) {
+      return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
+    }
     const userId = decodedToken.uid;
 
     // Get user profile to find username
-    const userDoc = await db.collection('users').doc(userId).get();
-    if (!userDoc.exists) {
-      return NextResponse.json({ error: 'User profile not found' }, { status: 404 });
-    }
+    const { data: userData } = await supabaseAdmin
+      .from('users')
+      .select('username')
+      .eq('id', userId)
+      .single();
 
-    const userData = userDoc.data();
     const username = userData?.username;
 
     const { searchParams } = new URL(req.url);
@@ -364,31 +421,44 @@ export async function DELETE(req: NextRequest) {
     }
 
     // Check if user owns this class
-    const classDoc = await db.collection('classes').doc(classId).get();
-    if (!classDoc.exists) {
+    const { data: classData, error: classError } = await supabaseAdmin
+      .from('classes')
+      .select('*')
+      .eq('id', classId)
+      .single();
+
+    if (classError || !classData) {
       return NextResponse.json({ error: 'Class not found' }, { status: 404 });
     }
 
-    const classData = classDoc.data();
     // Check ownership using both username and userId patterns
-    const isOwner = classData && (
-      (username && classData.coachId === username) || 
-      classData.coachId === userId
-    );
+    const isOwner = (username && classData.coach_id === username) || 
+                    classData.coach_id === userId;
     
     if (!isOwner) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 403 });
     }
 
     // Check if class has participants
-    if (classData.currentParticipants > 0) {
+    if (classData.current_participants > 0) {
       return NextResponse.json({
         error: 'Cannot delete class with active participants',
         message: 'Please cancel all bookings before deleting the class'
       }, { status: 400 });
     }
 
-    await db.collection('classes').doc(classId).delete();
+    const { error: deleteError } = await supabaseAdmin
+      .from('classes')
+      .delete()
+      .eq('id', classId);
+
+    if (deleteError) {
+      console.error('Error deleting class:', deleteError);
+      return NextResponse.json({
+        error: 'Failed to delete class',
+        details: deleteError.message
+      }, { status: 500 });
+    }
 
     return NextResponse.json({ message: 'Class deleted successfully' });
 

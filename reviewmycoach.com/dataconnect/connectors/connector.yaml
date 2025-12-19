@@ -1,0 +1,6 @@
+connectorId: 'reviewmycoach'
+generate:
+  javascriptSdk:
+    outputDir: '../app/lib/dataconnect'
+    package: '@reviewmycoach/dataconnect'
+

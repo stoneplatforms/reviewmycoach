@@ -1,8 +1,9 @@
 import { Suspense } from 'react';
-import { collection, query, where, limit, getDocs, orderBy } from 'firebase/firestore';
-import { db } from '../../lib/firebase-client';
 import { notFound } from 'next/navigation';
 import CoachProfileClient from './CoachProfileClient';
+import { initializeApp, getApps } from 'firebase/app';
+import { getDataConnect } from 'firebase/data-connect';
+import { getCoachByUsername as getCoachByUsernameQuery, getCoachReviews as getCoachReviewsQuery } from '../../lib/dataconnect';
 
 // =====================================
 // TYPE DEFINITIONS
@@ -39,6 +40,14 @@ interface CoachProfile {
     twitter?: string;
     linkedin?: string;
   };
+  activeCardImageUrl?: string;
+  // XP calculation fields
+  subscriptionTier?: number;
+  longevityPlatformYears?: number;
+  careerYears?: number;
+  coursesCreated?: number;
+  jobsCompleted?: number;
+  consistencyMultiplier?: number;
 }
 
 interface Review {
@@ -55,61 +64,122 @@ interface Review {
 // DATA FETCHING FUNCTIONS
 // =====================================
 
+// Initialize Firebase client for Data Connect
+let clientApp;
+if (getApps().length === 0) {
+  clientApp = initializeApp({
+    apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+    authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+    projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+    storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
+    messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+    appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
+  });
+} else {
+  clientApp = getApps()[0];
+}
+
+const dataConnect = getDataConnect(clientApp, {
+  connector: 'reviewmycoach',
+  location: 'us-east4',
+  service: 'review-my-coach-service'
+});
+
 async function getCoachByUsername(username: string): Promise<CoachProfile | null> {
   try {
-    // Query coaches by username (case-insensitive)
-    const usernameQuery = query(
-      collection(db, 'coaches'),
-      where('username', '==', username.toLowerCase()),
-      limit(1)
-    );
+    // Query from Firebase Data Connect
+    // Try both lowercase and original case since usernames in DB are mixed case
+    let result = await getCoachByUsernameQuery(dataConnect, { 
+      username: username.toLowerCase() 
+    });
     
-    const usernameSnapshot = await getDocs(usernameQuery);
+    let coach = result.data.coaches?.[0];
     
-    if (usernameSnapshot.empty) {
+    // If not found with lowercase, try with original case
+    if (!coach) {
+      result = await getCoachByUsernameQuery(dataConnect, { 
+        username: username 
+      });
+      coach = result.data.coaches?.[0];
+    }
+    
+    // If still not found, try uppercase first letter
+    if (!coach) {
+      const capitalized = username.charAt(0).toUpperCase() + username.slice(1).toLowerCase();
+      result = await getCoachByUsernameQuery(dataConnect, { 
+        username: capitalized 
+      });
+      coach = result.data.coaches?.[0];
+    }
+    
+    if (!coach) {
       return null;
     }
-
-    const coachDoc = usernameSnapshot.docs[0];
-    const data = coachDoc.data();
     
-    // Convert Firestore timestamps to ISO strings for serialization
-    const serializedData = {
-      ...data,
-      createdAt: data.createdAt?.toDate().toISOString() || null,
-      updatedAt: data.updatedAt?.toDate().toISOString() || null,
+    // Map the Data Connect response to CoachProfile
+    return {
+      id: coach.id,
+      userId: coach.userId || '',
+      username: coach.username || '',
+      displayName: coach.displayName || '',
+      email: coach.email,
+      bio: coach.bio || '',
+      sports: coach.sports || [],
+      experience: coach.experience || 0,
+      certifications: coach.certifications || [],
+      hourlyRate: coach.hourlyRate || 0,
+      location: coach.location || '',
+      availability: coach.availability || [],
+      specialties: coach.specialties || [],
+      languages: coach.languages || [],
+      averageRating: coach.averageRating || 0,
+      totalReviews: coach.totalReviews || 0,
+      profileImage: coach.profileImage,
+      phoneNumber: coach.phoneNumber,
+      website: coach.website,
+      isVerified: coach.isVerified || false,
+      organization: coach.organization,
+      role: coach.role,
+      gender: coach.gender,
+      ageGroup: coach.ageGroup || [],
+      sourceUrl: coach.sourceUrl,
+      socialMedia: coach.socialMedia,
+      activeCardImageUrl: coach.activeCardImageUrl,
+      // XP calculation fields from database
+      subscriptionTier: coach.subscriptionTier || 0,
+      longevityPlatformYears: coach.longevityPlatformYears || 0,
+      careerYears: coach.careerYears || 0,
+      coursesCreated: coach.coursesCreated || 0,
+      jobsCompleted: coach.jobsCompleted || 0,
+      consistencyMultiplier: coach.consistencyMultiplier || 1.0,
     };
-    
-    return { id: coachDoc.id, ...serializedData } as unknown as CoachProfile;
   } catch (error) {
-    console.error('Error fetching coach by username:', error);
+    console.error('Error fetching coach by username from Data Connect:', error);
     return null;
   }
 }
 
 async function getCoachReviews(coachId: string): Promise<Review[]> {
   try {
-    const reviewsRef = collection(db, 'coaches', coachId, 'reviews');
-    const reviewsQuery = query(
-      reviewsRef,
-      orderBy('createdAt', 'desc'),
-      limit(20)
-    );
-    const reviewsSnapshot = await getDocs(reviewsQuery);
-    
-    const reviews: Review[] = [];
-    reviewsSnapshot.forEach((doc) => {
-      const data = doc.data();
-      reviews.push({
-        id: doc.id,
-        ...data,
-        createdAt: data.createdAt?.toDate().toISOString() || null,
-      } as Review);
+    // Fetch reviews from Data Connect
+    const result = await getCoachReviewsQuery(dataConnect, {
+      coachId,
+      limit: 20
     });
     
-    return reviews;
+    const reviews = result.data.reviews || [];
+    
+    return reviews.map(review => ({
+      id: review.id,
+      studentId: review.userId || '',
+      studentName: review.studentName || 'Anonymous',
+      rating: review.rating || 0,
+      reviewText: review.reviewText || '',
+      createdAt: review.createdAt || null,
+      sport: review.sport,
+    }));
   } catch (error) {
-    console.error('Error fetching coach reviews:', error);
+    console.error('Error fetching coach reviews from Data Connect:', error);
     return [];
   }
 }

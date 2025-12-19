@@ -34,6 +34,10 @@ export async function POST(req: NextRequest) {
         await handlePaymentIntentFailed(event.data.object as Stripe.PaymentIntent);
         break;
       
+      case 'checkout.session.completed':
+        await handleCheckoutSessionCompleted(event.data.object as Stripe.Checkout.Session);
+        break;
+      
       case 'account.updated':
         await handleAccountUpdated(event.data.object as Stripe.Account);
         break;
@@ -174,5 +178,66 @@ async function handleTransferCreated(transfer: Stripe.Transfer) {
     
   } catch (error) {
     console.error('Error handling transfer created:', error);
+  }
+}
+
+async function handleCheckoutSessionCompleted(session: Stripe.Checkout.Session) {
+  try {
+    // Handle card purchase completion
+    if (session.metadata?.type === 'card_purchase') {
+      const { userId, cardId } = session.metadata;
+      
+      if (!userId || !cardId) {
+        console.error('Missing userId or cardId in checkout session metadata');
+        return;
+      }
+
+      const { supabaseAdmin } = await import('../../../lib/supabase');
+      if (!supabaseAdmin) {
+        console.error('Supabase admin not configured');
+        return;
+      }
+
+      // Get card data from marketplace
+      const { data: cardData, error: cardError } = await supabaseAdmin
+        .from('marketplace_cards')
+        .select('*')
+        .eq('id', cardId)
+        .single();
+      
+      if (cardError || !cardData) {
+        console.error('Card not found in marketplace:', cardId);
+        return;
+      }
+      
+      // Add card to user's collection (using upsert to handle duplicates)
+      const { error: insertError } = await supabaseAdmin
+        .from('user_cards')
+        .upsert({
+          user_id: userId,
+          card_id: cardId,
+          card_type: 'marketplace',
+          purchased_at: new Date().toISOString(),
+          stripe_session_id: session.id,
+          is_active: true,
+          updated_at: new Date().toISOString(),
+        }, {
+          onConflict: 'user_id,card_id,card_type',
+          ignoreDuplicates: false, // Update if exists (e.g., if webhook fires twice)
+        });
+
+      if (insertError) {
+        // If it's a duplicate (unique violation), that's okay - card already exists
+        if (insertError.code === '23505') {
+          console.log(`Card ${cardId} already exists for user ${userId} (duplicate webhook)`);
+        } else {
+          console.error('Error adding card to user collection:', insertError);
+        }
+      } else {
+        console.log(`Card ${cardId} added to user ${userId}'s collection`);
+      }
+    }
+  } catch (error) {
+    console.error('Error handling checkout session completed:', error);
   }
 } 

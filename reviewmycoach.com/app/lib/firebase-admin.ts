@@ -1,62 +1,33 @@
-import { initializeApp, getApps, cert } from 'firebase-admin/app';
-import { getAuth } from 'firebase-admin/auth';
-import { getFirestore } from 'firebase-admin/firestore';
+/**
+ * Firebase Admin SDK Compatibility Wrapper
+ * 
+ * This re-exports Firebase Admin SDK for backward compatibility
+ */
 
-// Check if required environment variables are set
-const requiredVars = {
-  projectId: process.env.FIREBASE_ADMIN_PROJECT_ID,
-  clientEmail: process.env.FIREBASE_ADMIN_CLIENT_EMAIL,
-  privateKey: process.env.FIREBASE_ADMIN_PRIVATE_KEY,
+import { adminAuth, adminDb } from './firebase-admin-server';
+
+// Re-export Firebase Admin auth
+export const auth = {
+  verifyIdToken: async (token: string) => {
+    const decodedToken = await adminAuth.verifyIdToken(token);
+    return {
+      uid: decodedToken.uid,
+      email: decodedToken.email,
+    };
+  },
 };
 
-// Fix malformed private key if needed
-if (requiredVars.privateKey && !requiredVars.privateKey.startsWith('-----BEGIN')) {
-  const beginIndex = requiredVars.privateKey.indexOf('-----BEGIN');
-  if (beginIndex > 0) {
-    requiredVars.privateKey = requiredVars.privateKey.substring(beginIndex);
-  }
-}
+// Re-export Firebase Admin Firestore
+export const db = adminDb;
 
-const missingVars = Object.entries(requiredVars)
-  .filter(([, value]) => !value)
-  .map(([key]) => key);
-
-if (missingVars.length > 0) {
-  console.error('Missing Firebase Admin environment variables:', missingVars);
-  throw new Error(`Missing Firebase Admin environment variables: ${missingVars.join(', ')}`);
-}
-
-// Initialize Firebase Admin
-const firebaseAdminConfig = {
-  credential: cert({
-    projectId: requiredVars.projectId,
-    clientEmail: requiredVars.clientEmail,
-    privateKey: requiredVars.privateKey?.replace(/\\n/g, '\n'),
-  }),
-};
-
-const app = !getApps().length ? initializeApp(firebaseAdminConfig) : getApps()[0];
-const auth = getAuth(app);
-const db = getFirestore(app);
+export const app = null;
 
 /**
  * Helper function to find a coach profile by userId
- * Since coaches are stored by username (not userId), we need to query by the userId field
+ * @deprecated Use Data Connect instead
  */
 export async function findCoachByUserId(userId: string) {
-  const coachesRef = db.collection('coaches');
-  const coachQuery = await coachesRef.where('userId', '==', userId).get();
-  
-  if (coachQuery.empty) {
-    return null;
-  }
-
-  const coachDoc = coachQuery.docs[0];
-  return {
-    doc: coachDoc,
-    data: coachDoc.data(),
-    ref: coachDoc.ref
-  };
+  // This is a legacy function - should migrate to Data Connect
+  console.warn('findCoachByUserId called - should migrate to Data Connect');
+  return null;
 }
-
-export { app, auth, db };

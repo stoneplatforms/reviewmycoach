@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { collection, query, orderBy, limit, getDocs } from 'firebase/firestore';
-import { db } from '../../../lib/firebase-client';
+import { searchCoachesWithFilters } from '../../../lib/firebase-dataconnect-server';
 
 interface SearchSuggestion {
   type: 'coach' | 'sport' | 'location';
@@ -21,41 +20,63 @@ export async function GET(request: NextRequest) {
     const suggestions: SearchSuggestion[] = [];
     const searchTermLower = searchTerm.toLowerCase();
 
-    // Search for coaches
+    // Search for coaches using Firebase Data Connect
     try {
-      const coachesQuery = query(
-        collection(db, 'coaches'),
-        orderBy('averageRating', 'desc'),
-        limit(5)
-      );
-      
-      const coachesSnapshot = await getDocs(coachesQuery);
-      
-      coachesSnapshot.docs.forEach(doc => {
-        const data = doc.data();
-        const displayName = data.displayName || '';
-        const bio = data.bio || '';
-        const sports = data.sports || [];
-        const location = data.location || '';
-        
-        // Check if search term matches coach name, bio, sports, or location
-        if (
-          displayName.toLowerCase().includes(searchTermLower) ||
-          bio.toLowerCase().includes(searchTermLower) ||
-          sports.some((sport: string) => sport.toLowerCase().includes(searchTermLower)) ||
-          location.toLowerCase().includes(searchTermLower)
-        ) {
-          // Only include coaches that have usernames AND public profiles
-          if (data.username && data.isPublic !== false) {
-            suggestions.push({
-              type: 'coach',
-              text: displayName,
-              subtitle: `${location} • ${sports.slice(0, 2).join(', ')} • ${data.averageRating?.toFixed(1) || '0.0'} stars`,
-              href: `/coach/${data.username}`
-            });
-          }
-        }
+      const coaches = await searchCoachesWithFilters({
+        searchTerm: searchTerm,
+        limit: 10, // Will fetch more and filter, then return top 10
+        page: 1
       });
+      
+      if (coaches && Array.isArray(coaches)) {
+        // Filter to only include coaches with usernames (required for profile URLs)
+        const coachesWithUsernames = coaches.filter((coach: any) => 
+          coach.username && coach.username.trim() !== ''
+        );
+        
+        // Take top 5 coaches for suggestions
+        coachesWithUsernames.slice(0, 5).forEach((coach: any) => {
+          const displayName = coach.displayName || 'Unnamed Coach';
+          const username = coach.username || '';
+          const sports = Array.isArray(coach.sports) ? coach.sports : [];
+          const location = coach.location || '';
+          
+          // Check if username or displayName was matched (prioritize these)
+          const usernameMatch = username.toLowerCase().includes(searchTermLower);
+          const displayNameMatch = displayName.toLowerCase().includes(searchTermLower);
+          
+          // Create subtitle with relevant info
+          let subtitle = '';
+          if (usernameMatch) {
+            subtitle = `@${username}`;
+          } else if (displayNameMatch) {
+            subtitle = displayName;
+          }
+          
+          if (location) {
+            subtitle += subtitle ? ` • ${location}` : location;
+          }
+          
+          if (sports.length > 0) {
+            subtitle += subtitle ? ` • ${sports.slice(0, 2).join(', ')}` : sports.slice(0, 2).join(', ');
+          }
+          
+          if (coach.averageRating) {
+            subtitle += ` • ${coach.averageRating.toFixed(1)} stars`;
+          }
+          
+          if (!subtitle) {
+            subtitle = 'Coach';
+          }
+          
+          suggestions.push({
+            type: 'coach',
+            text: displayName,
+            subtitle: subtitle,
+            href: `/coach/${username.toLowerCase()}`
+          });
+        });
+      }
     } catch (error) {
       console.error('Error fetching coach suggestions:', error);
     }

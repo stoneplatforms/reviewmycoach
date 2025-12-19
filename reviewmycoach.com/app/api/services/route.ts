@@ -211,12 +211,16 @@ export async function GET(req: NextRequest) {
     query = query.limit(limit);
 
     const snapshot = await query.get();
-    const services = snapshot.docs.map((doc: any) => ({
-      id: doc.id,
-      ...doc.data(),
-      createdAt: doc.data().createdAt?.toDate().toISOString(),
-      updatedAt: doc.data().updatedAt?.toDate().toISOString(),
-    }));
+    const services = snapshot.docs.map((doc: any) => {
+      const data = doc.data();
+      return {
+        id: doc.id,
+        ...data,
+        // Handle timestamps - they're already strings in Supabase
+        createdAt: typeof data.createdAt === 'string' ? data.createdAt : data.createdAt?.toDate?.().toISOString(),
+        updatedAt: typeof data.updatedAt === 'string' ? data.updatedAt : data.updatedAt?.toDate?.().toISOString(),
+      };
+    });
 
     return NextResponse.json({ services });
 

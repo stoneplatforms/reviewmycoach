@@ -1,0 +1,291 @@
+# Combined mutations for ReviewMyCoach Data Connect
+# Using camelCase for all field names
+
+# ============================================
+# User Mutations
+# ============================================
+
+mutation CreateUser(
+  $id: String!
+  $email: String!
+  $displayName: String
+  $username: String
+  $firstName: String
+  $lastName: String
+  $role: String
+) @auth(level: PUBLIC) {
+  user_insert(data: {
+    id: $id
+    userId: $id
+    email: $email
+    displayName: $displayName
+    username: $username
+    firstName: $firstName
+    lastName: $lastName
+    role: $role
+    onboardingCompleted: false
+    isVerified: false
+  })
+}
+
+mutation UpdateUser(
+  $id: String!
+  $displayName: String
+  $username: String
+  $firstName: String
+  $lastName: String
+  $onboardingCompleted: Boolean
+) @auth(level: PUBLIC) {
+  user_update(
+    id: $id
+    data: {
+      displayName: $displayName
+      username: $username
+      firstName: $firstName
+      lastName: $lastName
+      onboardingCompleted: $onboardingCompleted
+    }
+  )
+}
+
+mutation CompleteOnboarding($id: String!) @auth(level: PUBLIC) {
+  user_update(
+    id: $id
+    data: {
+      onboardingCompleted: true
+    }
+  )
+}
+
+# ============================================
+# Coach Mutations
+# ============================================
+
+mutation CreateCoach(
+  $id: String!
+  $username: String!
+  $userId: String!
+  $displayName: String!
+  $email: String!
+) @auth(level: PUBLIC, insecureReason: "New users creating coach profiles during onboarding, auth verified in API route") {
+  coach_insert(data: {
+    id: $id
+    username: $username
+    userId: $userId
+    displayName: $displayName
+    email: $email
+    isClaimed: true
+    profileCompleted: false
+    isPublic: true
+    subscriptionTier: 1
+    longevityPlatformYears: 0
+    careerYears: 0
+    coursesCreated: 0
+    jobsCompleted: 0
+    averageRating: 0
+    totalReviews: 0
+    consistencyMultiplier: 1.0
+  })
+}
+
+mutation UpdateCoach(
+  $id: String!
+  $bio: String
+  $sports: Any
+  $location: String
+  $hourlyRate: Float
+  $profileImage: String
+  $isPublic: Boolean
+  $activeCardId: String
+  $activeCardImageUrl: String
+) @auth(level: PUBLIC) {
+  coach_update(
+    id: $id
+    data: {
+      bio: $bio
+      sports: $sports
+      location: $location
+      hourlyRate: $hourlyRate
+      profileImage: $profileImage
+      isPublic: $isPublic
+      activeCardId: $activeCardId
+      activeCardImageUrl: $activeCardImageUrl
+    }
+  )
+}
+
+mutation ClaimCoach(
+  $id: String!
+  $userId: String!
+) @auth(level: PUBLIC) {
+  coach_update(
+    id: $id
+    data: {
+      userId: $userId
+      isClaimed: true
+    }
+  )
+}
+
+# ============================================
+# Review Mutations
+# ============================================
+
+mutation CreateReview(
+  $id: String!
+  $coachId: String!
+  $coachUsername: String!
+  $userId: String
+  $email: String
+  $studentName: String!
+  $rating: Float!
+  $reviewText: String!
+  $sport: String!
+) @auth(level: PUBLIC, insecureReason: "Users need to create reviews") {
+  review_insert(data: {
+    id: $id
+    coachId: $coachId
+    coachUsername: $coachUsername
+    userId: $userId
+    email: $email
+    studentName: $studentName
+    rating: $rating
+    reviewText: $reviewText
+    sport: $sport
+  })
+}
+
+mutation UpdateCoachRatingStats(
+  $coachId: String!
+  $averageRating: Float!
+  $totalReviews: Int!
+) @auth(level: PUBLIC, insecureReason: "System needs to update rating stats") {
+  coach_update(
+    id: $coachId
+    data: {
+      averageRating: $averageRating
+      totalReviews: $totalReviews
+    }
+  )
+}
+
+# ============================================
+# Card Mutations
+# ============================================
+
+# Create a new marketplace card (admin only, but set to PUBLIC for API validation)
+mutation CreateMarketplaceCard(
+  $id: String!
+  $name: String!
+  $description: String!
+  $imageUrl: String!
+  $category: String
+  $tier: String
+  $rarity: String
+  $price: Float!
+  $stripePriceId: String
+  $stripeProductId: String
+  $isFeatured: Boolean
+  $sortOrder: Int
+) @auth(level: PUBLIC, insecureReason: "Admin-only operation, auth verified in API route") {
+  marketplaceCard_insert(data: {
+    id: $id
+    name: $name
+    description: $description
+    imageUrl: $imageUrl
+    category: $category
+    tier: $tier
+    rarity: $rarity
+    price: $price
+    stripePriceId: $stripePriceId
+    stripeProductId: $stripeProductId
+    isActive: true
+    isFeatured: $isFeatured
+    sortOrder: $sortOrder
+    totalPurchases: 0
+  })
+}
+
+# Update marketplace card
+mutation UpdateMarketplaceCard(
+  $id: String!
+  $name: String
+  $description: String
+  $imageUrl: String
+  $price: Float
+  $isActive: Boolean
+  $isFeatured: Boolean
+  $sortOrder: Int
+) @auth(level: PUBLIC, insecureReason: "Admin-only operation, auth verified in API route") {
+  marketplaceCard_update(
+    id: $id
+    data: {
+      name: $name
+      description: $description
+      imageUrl: $imageUrl
+      price: $price
+      isActive: $isActive
+      isFeatured: $isFeatured
+      sortOrder: $sortOrder
+    }
+  )
+}
+
+# Purchase a card (add to user's collection)
+mutation PurchaseCard(
+  $id: String!
+  $userId: String!
+  $coachUsername: String!
+  $cardId: String!
+  $cardName: String!
+  $cardImageUrl: String!
+  $stripePaymentId: String
+) @auth(level: PUBLIC, insecureReason: "Users need to purchase cards after payment") {
+  userCard_insert(data: {
+    id: $id
+    userId: $userId
+    coachUsername: $coachUsername
+    cardId: $cardId
+    cardType: "marketplace"
+    cardName: $cardName
+    cardImageUrl: $cardImageUrl
+    isActive: false
+    stripePaymentId: $stripePaymentId
+  })
+}
+
+# Unlock a tier card (add to user's collection)
+mutation UnlockTierCard(
+  $id: String!
+  $userId: String!
+  $coachUsername: String!
+  $cardId: String!
+  $cardName: String!
+  $cardImageUrl: String!
+) @auth(level: PUBLIC, insecureReason: "System needs to unlock tier cards based on XP") {
+  userCard_insert(data: {
+    id: $id
+    userId: $userId
+    coachUsername: $coachUsername
+    cardId: $cardId
+    cardType: "tier"
+    cardName: $cardName
+    cardImageUrl: $cardImageUrl
+    isActive: false
+  })
+}
+
+# Update coach with active card info
+mutation UpdateCoachActiveCard(
+  $coachId: String!
+  $activeCardId: String
+  $activeCardImageUrl: String
+) @auth(level: PUBLIC, insecureReason: "Auth token verified in API route to ensure user owns the coach profile") {
+  coach_update(
+    id: $coachId
+    data: {
+      activeCardId: $activeCardId
+      activeCardImageUrl: $activeCardImageUrl
+    }
+  )
+}

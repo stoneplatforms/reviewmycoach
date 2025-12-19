@@ -6,6 +6,8 @@ import { doc, getDoc, setDoc } from 'firebase/firestore';
 import { ref as storageRef, uploadBytes, getDownloadURL } from 'firebase/storage';
 import { auth, db, storage } from '../../../../lib/firebase-client';
 import { useRouter } from 'next/navigation';
+import NextImage from 'next/image';
+import Link from 'next/link';
 
 interface CoachProfile {
   userId: string;
@@ -80,6 +82,9 @@ export default function EditCoachProfile() {
   const [newSpecialty, setNewSpecialty] = useState('');
   const [uploading, setUploading] = useState(false);
   const [localPreview, setLocalPreview] = useState<string | null>(null);
+  const [userCards, setUserCards] = useState<any[]>([]);
+  const [activeCardId, setActiveCardId] = useState<string | null>(null);
+  const [loadingCards, setLoadingCards] = useState(false);
   const router = useRouter();
 
   const loadCoachProfile = useCallback(async (userId: string) => {
@@ -91,6 +96,12 @@ export default function EditCoachProfile() {
         const data = coachSnap.data() as CoachProfile;
         setFormData({
           ...data,
+          sports: data.sports || [],
+          certifications: data.certifications || [],
+          availability: data.availability || [],
+          specialties: data.specialties || [],
+          languages: data.languages || [],
+          ageGroup: data.ageGroup || [],
           socialMedia: data.socialMedia || {}
         });
       } else {
@@ -111,6 +122,7 @@ export default function EditCoachProfile() {
       setUser(user);
       if (user) {
         await loadCoachProfile(user.uid);
+        await loadUserCards(user.uid);
       } else {
         router.push('/signin');
       }
@@ -119,6 +131,64 @@ export default function EditCoachProfile() {
 
     return () => unsubscribe();
   }, [router, loadCoachProfile]);
+
+  const loadUserCards = async (userId: string) => {
+    const currentUser = auth.currentUser;
+    if (!currentUser) return;
+    setLoadingCards(true);
+    try {
+      const idToken = await currentUser.getIdToken();
+      const response = await fetch(
+        `/api/cards/user?userId=${userId}&idToken=${encodeURIComponent(idToken)}`
+      );
+      if (response.ok) {
+        const data = await response.json();
+        setUserCards(data.cards || []);
+        
+        // Get active card from user profile
+        const userRef = doc(db, 'users', userId);
+        const userSnap = await getDoc(userRef);
+        if (userSnap.exists()) {
+          const userData = userSnap.data();
+          setActiveCardId(userData?.activeProfileCard || null);
+        }
+      }
+    } catch (error) {
+      console.error('Error loading user cards:', error);
+    } finally {
+      setLoadingCards(false);
+    }
+  };
+
+  const handleSetActiveCard = async (cardId: string) => {
+    if (!user) return;
+    
+    try {
+      const idToken = await user.getIdToken();
+      const response = await fetch('/api/cards/user', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          userId: user.uid,
+          cardId,
+          idToken,
+        }),
+      });
+
+      if (response.ok) {
+        setActiveCardId(cardId);
+        alert('Active card updated successfully!');
+      } else {
+        const data = await response.json();
+        alert(data.error || 'Failed to update active card');
+      }
+    } catch (error) {
+      console.error('Error setting active card:', error);
+      alert('Error updating active card. Please try again.');
+    }
+  };
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
     const { name, value, type } = e.target;
@@ -194,9 +264,29 @@ export default function EditCoachProfile() {
       // Update local preview immediately
       setLocalPreview(url);
 
-      // Save URL on coach document
-      const coachRef = doc(db, 'coaches', user.uid);
-      await setDoc(coachRef, { profileImage: url, updatedAt: new Date() }, { merge: true });
+      // Save URL to Data Connect via API
+      const token = await user.getIdToken();
+      const username = user.displayName?.toLowerCase().replace(/\s+/g, '_') || user.uid;
+      
+      // Try to get coach username from Firestore first
+      const userRef = doc(db, 'users', user.uid);
+      const userSnap = await getDoc(userRef);
+      const coachUsername = userSnap.data()?.username || username;
+      
+      const updateResponse = await fetch(`/api/coaches/by-username/${coachUsername}`, {
+        method: 'PUT',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`
+        },
+        body: JSON.stringify({
+          profileImage: url
+        })
+      });
+
+      if (!updateResponse.ok) {
+        throw new Error('Failed to save profile image to database');
+      }
 
       // Reflect in form state
       setFormData(prev => ({ ...prev, profileImage: url }));
@@ -209,28 +299,35 @@ export default function EditCoachProfile() {
   };
 
   const handleSportToggle = (sport: string) => {
-    setFormData(prev => ({
-      ...prev,
-      sports: prev.sports.includes(sport)
-        ? prev.sports.filter(s => s !== sport)
-        : [...prev.sports, sport]
-    }));
+    setFormData(prev => {
+      const currentSports = prev.sports || [];
+      return {
+        ...prev,
+        sports: currentSports.includes(sport)
+          ? currentSports.filter(s => s !== sport)
+          : [...currentSports, sport]
+      };
+    });
   };
 
   const handleAvailabilityToggle = (slot: string) => {
-    setFormData(prev => ({
-      ...prev,
-      availability: prev.availability.includes(slot)
-        ? prev.availability.filter(s => s !== slot)
-        : [...prev.availability, slot]
-    }));
+    setFormData(prev => {
+      const currentAvailability = prev.availability || [];
+      return {
+        ...prev,
+        availability: currentAvailability.includes(slot)
+          ? currentAvailability.filter(s => s !== slot)
+          : [...currentAvailability, slot]
+      };
+    });
   };
 
   const addCertification = () => {
-    if (newCertification.trim() && !formData.certifications.includes(newCertification.trim())) {
+    const currentCerts = formData.certifications || [];
+    if (newCertification.trim() && !currentCerts.includes(newCertification.trim())) {
       setFormData(prev => ({
         ...prev,
-        certifications: [...prev.certifications, newCertification.trim()]
+        certifications: [...currentCerts, newCertification.trim()]
       }));
       setNewCertification('');
     }
@@ -239,15 +336,16 @@ export default function EditCoachProfile() {
   const removeCertification = (certification: string) => {
     setFormData(prev => ({
       ...prev,
-      certifications: prev.certifications.filter(c => c !== certification)
+      certifications: (prev.certifications || []).filter(c => c !== certification)
     }));
   };
 
   const addSpecialty = () => {
-    if (newSpecialty.trim() && !formData.specialties.includes(newSpecialty.trim())) {
+    const currentSpecialties = formData.specialties || [];
+    if (newSpecialty.trim() && !currentSpecialties.includes(newSpecialty.trim())) {
       setFormData(prev => ({
         ...prev,
-        specialties: [...prev.specialties, newSpecialty.trim()]
+        specialties: [...currentSpecialties, newSpecialty.trim()]
       }));
       setNewSpecialty('');
     }
@@ -256,7 +354,7 @@ export default function EditCoachProfile() {
   const removeSpecialty = (specialty: string) => {
     setFormData(prev => ({
       ...prev,
-      specialties: prev.specialties.filter(s => s !== specialty)
+      specialties: (prev.specialties || []).filter(s => s !== specialty)
     }));
   };
 
@@ -266,16 +364,39 @@ export default function EditCoachProfile() {
 
     setSaving(true);
     try {
-      const coachRef = doc(db, 'coaches', user.uid);
-      await setDoc(coachRef, {
-        ...formData,
-        userId: user.uid,
-        updatedAt: new Date(),
-        // Set initial rating data if not exists
-        averageRating: 0,
-        totalReviews: 0,
-        isVerified: false
-      }, { merge: true });
+      // Get coach username from Firestore
+      const userRef = doc(db, 'users', user.uid);
+      const userSnap = await getDoc(userRef);
+      const coachUsername = userSnap.data()?.username;
+      
+      if (!coachUsername) {
+        alert('Coach username not found. Please complete onboarding first.');
+        setSaving(false);
+        return;
+      }
+
+      // Save to Data Connect via API
+      const token = await user.getIdToken();
+      const updateResponse = await fetch(`/api/coaches/by-username/${coachUsername}`, {
+        method: 'PUT',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`
+        },
+        body: JSON.stringify({
+          displayName: formData.displayName,
+          bio: formData.bio,
+          location: formData.location,
+          hourlyRate: formData.hourlyRate,
+          phoneNumber: formData.phoneNumber,
+          profileImage: formData.profileImage || localPreview,
+        })
+      });
+
+      if (!updateResponse.ok) {
+        const error = await updateResponse.json();
+        throw new Error(error.error || 'Failed to save profile');
+      }
 
       router.push('/dashboard/coach');
     } catch (error) {
@@ -417,7 +538,7 @@ export default function EditCoachProfile() {
                 <label key={sport} className="flex items-center">
                   <input
                     type="checkbox"
-                    checked={formData.sports.includes(sport)}
+                    checked={(formData.sports || []).includes(sport)}
                     onChange={() => handleSportToggle(sport)}
                     className="mr-2 h-4 w-4 text-white focus:ring-gray-500 border-gray-300 rounded"
                   />
@@ -690,7 +811,133 @@ export default function EditCoachProfile() {
           </div>
         </div>
 
+        {/* Profile Cards */}
+        <div className="bg-neutral-900 rounded-lg shadow p-6">
+          <div className="flex items-center justify-between mb-6">
+            <div>
+              <h2 className="text-xl font-semibold text-gray-900">Profile Cards</h2>
+              <p className="text-sm text-gray-500 mt-1">
+                Customize your coach profile with unique profile cards
+              </p>
+            </div>
+            <Link
+              href="/cards-marketplace"
+              className="px-4 py-2 bg-red-600 text-white rounded-full hover:bg-red-700 transition-colors text-sm font-medium"
+            >
+              Browse Marketplace
+            </Link>
+          </div>
 
+          {loadingCards ? (
+            <div className="flex items-center justify-center py-8">
+              <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-gray-300"></div>
+            </div>
+          ) : userCards.length > 0 ? (
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+              {userCards.map((card) => {
+                const isActive = activeCardId === card.cardId;
+                return (
+                  <div
+                    key={card.id}
+                    className={`relative border-2 rounded-xl overflow-hidden transition-all ${
+                      isActive
+                        ? 'border-red-600 ring-2 ring-red-200'
+                        : 'border-gray-300 hover:border-gray-400'
+                    }`}
+                  >
+                    {/* Card Image with Profile Picture Behind */}
+                    <div className="relative w-full aspect-[4/5] bg-gray-100 overflow-hidden">
+                      {/* Profile Picture (Behind - Static/Relative) */}
+                      {formData.profileImage ? (
+                        <div className="relative w-full h-full">
+                          <NextImage
+                            src={formData.profileImage}
+                            alt="Profile"
+                            fill
+                            className="object-cover"
+                          />
+                        </div>
+                      ) : (
+                        <div className="relative w-full h-full bg-gray-200 flex items-center justify-center">
+                          <svg className="w-12 h-12 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
+                          </svg>
+                        </div>
+                      )}
+                      {/* Card Image (On Top - Absolute Position) */}
+                      {card.imageUrl ? (
+                        <div className="absolute inset-0 z-10">
+                          <NextImage
+                            src={card.imageUrl}
+                            alt={card.name}
+                            fill
+                            className="object-cover"
+                          />
+                        </div>
+                      ) : (
+                        <div className="absolute inset-0 z-10 bg-black bg-opacity-50 flex items-center justify-center text-white text-xs">
+                          No Card Image
+                        </div>
+                      )}
+                      {isActive && (
+                        <div className="absolute top-2 right-2 bg-red-600 text-white px-2 py-1 rounded-full text-xs font-medium z-20">
+                          Active
+                        </div>
+                      )}
+                    </div>
+
+                    {/* Card Info */}
+                    <div className="p-3 bg-white">
+                      <h4 className="text-sm font-medium text-gray-900 truncate mb-1">
+                        {card.name}
+                      </h4>
+                      {!isActive && (
+                        <button
+                          type="button"
+                          onClick={() => handleSetActiveCard(card.cardId)}
+                          className="w-full px-3 py-1.5 bg-gray-900 text-white rounded-md hover:bg-black transition-colors text-xs font-medium"
+                        >
+                          Set as Active
+                        </button>
+                      )}
+                      {isActive && (
+                        <div className="w-full px-3 py-1.5 bg-red-600 text-white rounded-md text-xs font-medium text-center">
+                          Currently Active
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          ) : (
+            <div className="text-center py-8 bg-gray-50 border border-gray-200 rounded-xl">
+              <svg
+                className="mx-auto h-12 w-12 text-gray-400"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
+                />
+              </svg>
+              <h3 className="mt-4 text-sm font-medium text-gray-900">No cards yet</h3>
+              <p className="mt-2 text-sm text-gray-600">
+                Visit the marketplace to purchase your first profile card!
+              </p>
+              <Link
+                href="/cards-marketplace"
+                className="mt-4 inline-block px-4 py-2 bg-red-600 text-white rounded-full hover:bg-red-700 transition-colors text-sm font-medium"
+              >
+                Browse Marketplace
+              </Link>
+            </div>
+          )}
+        </div>
 
         {/* Submit Buttons */}
         <div className="flex justify-end space-x-4">

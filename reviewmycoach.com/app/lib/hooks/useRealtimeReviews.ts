@@ -1,6 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import { collection, query, orderBy, onSnapshot, doc, updateDoc } from 'firebase/firestore';
-import { db } from '../firebase-client';
+import { fetchCoachReviews, calculateRatingStats, updateCoachStats } from '../reviews-dataconnect';
 
 interface Review {
   id: string;
@@ -36,52 +35,45 @@ export function useRealtimeReviews(coachId: string): UseRealtimeReviewsReturn {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  // Calculate rating statistics from reviews
-  const calculateRatingStats = useCallback((reviewsData: Review[]): RatingStats => {
-    if (reviewsData.length === 0) {
-      return {
-        averageRating: 0,
-        totalReviews: 0,
-        ratingDistribution: { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0 }
-      };
-    }
-
-    const totalReviews = reviewsData.length;
-    const ratingDistribution = { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0 };
-    let totalRating = 0;
-
-    reviewsData.forEach(review => {
-      totalRating += review.rating;
-      const ratingKey = Math.floor(review.rating) as keyof typeof ratingDistribution;
-      if (ratingKey >= 1 && ratingKey <= 5) {
-        ratingDistribution[ratingKey]++;
-      }
-    });
-
-    const averageRating = totalRating / totalReviews;
-
-    return {
-      averageRating: Math.round(averageRating * 10) / 10, // Round to 1 decimal place
-      totalReviews,
-      ratingDistribution
-    };
-  }, []);
-
-  // Update coach document with new rating stats
-  const updateCoachRatingStats = useCallback(async (stats: RatingStats) => {
+  // Load reviews from Data Connect
+  const loadReviews = useCallback(async () => {
     try {
-      const coachRef = doc(db, 'coaches', coachId);
-      await updateDoc(coachRef, {
-        averageRating: stats.averageRating,
-        totalReviews: stats.totalReviews,
-        updatedAt: new Date()
-      });
-    } catch (error) {
-      console.error('Error updating coach rating stats:', error);
+      setLoading(true);
+      const reviewsData = await fetchCoachReviews(coachId, 100);
+      
+      // Convert to Review format
+      const formattedReviews: Review[] = reviewsData.map((review: any) => ({
+        id: review.id,
+        studentId: review.userId || review.studentId || '',
+        studentName: review.studentName,
+        rating: review.rating,
+        reviewText: review.reviewText,
+        createdAt: review.createdAt || null,
+        sport: review.sport,
+      }));
+
+      // Calculate new rating stats
+      const newStats = calculateRatingStats(formattedReviews);
+      
+      // Update state
+      setReviews(formattedReviews);
+      setRatingStats(newStats);
+      
+      // Update coach stats in Data Connect
+      if (newStats.totalReviews > 0) {
+        await updateCoachStats(coachId, newStats.averageRating, newStats.totalReviews);
+      }
+      
+      setLoading(false);
+      setError(null);
+    } catch (err) {
+      console.error('Error loading reviews:', err);
+      setError('Failed to load reviews');
+      setLoading(false);
     }
   }, [coachId]);
 
-  // Set up real-time listener
+  // Load reviews on mount and set up polling for updates
   useEffect(() => {
     if (!coachId) {
       setError('Coach ID is required');
@@ -89,68 +81,21 @@ export function useRealtimeReviews(coachId: string): UseRealtimeReviewsReturn {
       return;
     }
 
-    setLoading(true);
-    setError(null);
+    // Initial load
+    loadReviews();
 
-    const reviewsRef = collection(db, 'coaches', coachId, 'reviews');
-    const reviewsQuery = query(reviewsRef, orderBy('createdAt', 'desc'));
+    // Poll for updates every 30 seconds (Data Connect doesn't have real-time subscriptions)
+    const interval = setInterval(() => {
+      loadReviews();
+    }, 30000);
 
-    const unsubscribe = onSnapshot(
-      reviewsQuery,
-      (snapshot) => {
-        try {
-          const reviewsData: Review[] = [];
-          
-          snapshot.forEach((doc) => {
-            const data = doc.data();
-            reviewsData.push({
-              id: doc.id,
-              studentId: data.studentId,
-              studentName: data.studentName,
-              rating: data.rating,
-              reviewText: data.reviewText,
-              createdAt: data.createdAt?.toDate().toISOString() || null,
-              sport: data.sport
-            });
-          });
-
-          // Calculate new rating stats
-          const newStats = calculateRatingStats(reviewsData);
-          
-          // Update state
-          setReviews(reviewsData);
-          setRatingStats(newStats);
-          
-          // Update coach document with new stats
-          updateCoachRatingStats(newStats);
-          
-          setLoading(false);
-          setError(null);
-        } catch (err) {
-          console.error('Error processing reviews snapshot:', err);
-          setError('Failed to load reviews');
-          setLoading(false);
-        }
-      },
-      (err) => {
-        console.error('Error listening to reviews:', err);
-        setError('Failed to connect to reviews');
-        setLoading(false);
-      }
-    );
-
-    // Cleanup function
-    return () => {
-      unsubscribe();
-    };
-  }, [coachId, calculateRatingStats, updateCoachRatingStats]);
+    return () => clearInterval(interval);
+  }, [coachId, loadReviews]);
 
   // Manual refresh function
   const refreshReviews = useCallback(() => {
-    setLoading(true);
-    setError(null);
-    // The real-time listener will automatically refresh when this is called
-  }, []);
+    loadReviews();
+  }, [loadReviews]);
 
   return {
     reviews,
@@ -161,7 +106,7 @@ export function useRealtimeReviews(coachId: string): UseRealtimeReviewsReturn {
   };
 }
 
-// Hook for real-time coach profile updates
+// Hook for real-time coach profile updates (using Firestore for real-time)
 interface CoachProfile {
   id: string;
   userId: string;
@@ -212,40 +157,32 @@ export function useRealtimeCoach(coachId: string) {
     setLoading(true);
     setError(null);
 
-    const coachRef = doc(db, 'coaches', coachId);
-
-    const unsubscribe = onSnapshot(
-      coachRef,
-      (snapshot) => {
-        try {
-          if (snapshot.exists()) {
-            const data = snapshot.data();
-            setCoach({
-              id: snapshot.id,
-              ...data,
-              createdAt: data.createdAt?.toDate().toISOString() || null,
-              updatedAt: data.updatedAt?.toDate().toISOString() || null,
-            } as CoachProfile);
-          } else {
-            setCoach(null);
-            setError('Coach not found');
-          }
-          setLoading(false);
-        } catch (err) {
-          console.error('Error processing coach snapshot:', err);
-          setError('Failed to load coach profile');
-          setLoading(false);
+    // Fetch coach from Data Connect (poll every 30 seconds)
+    const loadCoach = async () => {
+      try {
+        // For now, we'll fetch from the API which uses Data Connect
+        const response = await fetch(`/api/coaches/${coachId}`);
+        if (response.ok) {
+          const data = await response.json();
+          setCoach(data);
+        } else {
+          setError('Coach not found');
         }
-      },
-      (err) => {
-        console.error('Error listening to coach:', err);
-        setError('Failed to connect to coach profile');
+        setLoading(false);
+      } catch (err) {
+        console.error('Error loading coach:', err);
+        setError('Failed to load coach profile');
         setLoading(false);
       }
-    );
+    };
 
-    return () => unsubscribe();
+    loadCoach();
+
+    // Poll for updates every 30 seconds
+    const interval = setInterval(loadCoach, 30000);
+
+    return () => clearInterval(interval);
   }, [coachId]);
 
   return { coach, loading, error };
-} 
+}

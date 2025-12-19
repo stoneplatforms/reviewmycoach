@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useCallback } from 'react';
-import { doc, getDoc, setDoc } from 'firebase/firestore';
+import { doc as firestoreDoc, getDoc, setDoc } from 'firebase/firestore';
 import { db } from '../lib/firebase-client';
 import { useRouter } from 'next/navigation';
 import { useAuth } from '../lib/hooks/useAuth';
@@ -38,39 +38,46 @@ export default function ProfilePage() {
 
   const loadCoachProfile = useCallback(async (userId: string) => {
     try {
-      // First, get username from users collection (same approach as coach dashboard)
-      const userDocRef = doc(db, 'users', userId);
-      const userDoc = await getDoc(userDocRef);
-      const usernameFromUsers = userDoc.exists() ? (userDoc.data() as any)?.username : null;
+      // First, get username from users collection in Firestore
+      const userRef = firestoreDoc(db, 'users', userId);
+      const userSnap = await getDoc(userRef);
+      const usernameFromUsers = userSnap.exists() ? (userSnap.data() as any)?.username : null;
       
-      // Try to load by username document id if present, else by userId doc
-      const coachDocId = usernameFromUsers ? String(usernameFromUsers).toLowerCase() : userId;
-      const coachRef = doc(db, 'coaches', coachDocId);
-      const coachSnap = await getDoc(coachRef);
-      
-      if (coachSnap.exists()) {
-        const data = coachSnap.data() as UserProfile;
-        setFormData({
-          ...data,
-          displayName: data.displayName || user?.displayName || '',
-          username: (data as any).username || usernameFromUsers || '',
-          phoneNumber: data.phoneNumber || '',
-          email: data.email || user?.email || '',
-          emailVerified: data.emailVerified || false,
-          isPublic: data.isPublic !== undefined ? data.isPublic : true
-        });
-      } else {
-        // Initialize with user data if profile does not exist
-        setFormData(prev => ({
-          ...prev,
-          userId: userId,
-          displayName: user?.displayName || '',
-          username: usernameFromUsers || '',
-          email: user?.email || '',
-          emailVerified: false,
-          isPublic: true
-        }));
+      // Fetch coach profile from Data Connect API if username exists
+      if (usernameFromUsers) {
+        try {
+          const response = await fetch(`/api/coaches/by-username/${usernameFromUsers.toLowerCase()}`);
+          if (response.ok) {
+            const data = await response.json();
+            if (data.coach) {
+              setFormData({
+                userId: userId,
+                displayName: data.coach.displayName || user?.displayName || '',
+                username: data.coach.username || usernameFromUsers || '',
+                phoneNumber: data.coach.phoneNumber || '',
+                email: data.coach.email || user?.email || '',
+                emailVerified: user?.emailVerified || false,
+                isPublic: true // Data Connect coaches are public by default
+              });
+              return;
+            }
+          }
+        } catch (error) {
+          console.error('Error fetching coach from Data Connect:', error);
+        }
       }
+      
+      // Fallback: Initialize with user data from Firestore
+      const userData = userSnap.exists() ? userSnap.data() : null;
+      setFormData(prev => ({
+        ...prev,
+        userId: userId,
+        displayName: userData?.displayName || user?.displayName || '',
+        username: userData?.username || usernameFromUsers || '',
+        email: user?.email || '',
+        emailVerified: user?.emailVerified || false,
+        isPublic: true
+      }));
     } catch (error) {
       console.error('Error loading coach profile:', error);
     }
@@ -156,16 +163,38 @@ export default function ProfilePage() {
 
     setSaving(true);
     try {
-      // Determine coach document id: prefer username (lowercased), fallback to uid
-      const docId = formData.username?.trim() ? formData.username.trim().toLowerCase() : user.uid;
-      const coachRef = doc(db, 'coaches', docId);
-      await setDoc(coachRef, {
+      // Update user document in Firestore
+      const userRef = firestoreDoc(db, 'users', user.uid);
+      await setDoc(userRef, {
         displayName: formData.displayName,
         username: formData.username?.trim() || null,
         phoneNumber: formData.phoneNumber,
-        userId: user.uid,
         updatedAt: new Date(),
       }, { merge: true });
+
+      // If user has a coach profile, update it via API
+      if (formData.username) {
+        try {
+          const token = await user.getIdToken();
+          const response = await fetch('/api/coaches/by-username/' + formData.username.toLowerCase(), {
+            method: 'PUT',
+            headers: {
+              'Content-Type': 'application/json',
+              'Authorization': `Bearer ${token}`
+            },
+            body: JSON.stringify({
+              displayName: formData.displayName,
+              phoneNumber: formData.phoneNumber,
+            })
+          });
+          
+          if (!response.ok) {
+            console.warn('Could not update coach profile, but user profile was saved');
+          }
+        } catch (error) {
+          console.warn('Error updating coach profile:', error);
+        }
+      }
 
       alert('Profile saved successfully!');
     } catch (error) {

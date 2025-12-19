@@ -11,7 +11,7 @@ export default function CoachProPromoSection() {
   const canSubscribe = isSignedIn && isCoach;
 
   return (
-    <div className="w-screen left-1/2 right-1/2 -ml-[50vw] -mr-[50vw] relative overflow-hidden bg-black">
+    <div className="w-full relative overflow-hidden bg-black">
       <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 min-h-[80vh] border-t border-b border-white/10">
         {/* Left: information */}
         <div className="relative flex flex-col justify-center px-6 sm:px-10 py-14">
@@ -20,7 +20,7 @@ export default function CoachProPromoSection() {
             Built for elite coaches
           </div>
           <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-white mb-4">
-            Elevate your coaching brand
+            Elevate Your Coaching Brand
           </h2>
           <p className="text-white/80 text-base sm:text-lg mb-6 max-w-xl">
             Get premium placement, enable bookings, and access pro analytics to grow faster.

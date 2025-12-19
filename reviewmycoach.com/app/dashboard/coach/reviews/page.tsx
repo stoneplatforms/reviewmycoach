@@ -3,8 +3,9 @@
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
-import { auth, db } from '../../../lib/firebase-client';
-import { doc, getDoc, collection, getDocs, orderBy, query } from 'firebase/firestore';
+import { useAuth } from '../../../lib/hooks/useAuth';
+import { doc as firestoreDoc, getDoc } from 'firebase/firestore';
+import { db } from '../../../lib/firebase-client';
 
 interface Review {
   id: string;
@@ -12,7 +13,7 @@ interface Review {
   studentName: string;
   rating: number;
   reviewText: string;
-  createdAt?: { toDate: () => Date };
+  createdAt?: string;
 }
 
 export default function CoachReviewsPage() {
@@ -20,22 +21,27 @@ export default function CoachReviewsPage() {
   const [loading, setLoading] = useState(true);
   const [reviews, setReviews] = useState<Review[]>([]);
   const [coachDocId, setCoachDocId] = useState<string | null>(null);
+  
+  // Use Firebase Auth
+  const { user, loading: authLoading } = useAuth();
 
   useEffect(() => {
-    const unsubscribe = auth.onAuthStateChanged(async (user) => {
-      if (!user) {
-        router.push('/signin');
-        return;
-      }
+    if (authLoading) return;
+    
+    if (!user) {
+      router.push('/signin');
+      return;
+    }
 
+    const fetchReviews = async () => {
       try {
-        // Resolve coach doc id using username if available, otherwise fallback to UID
-        const userRef = doc(db, 'users', user.uid);
+        // Get username from Firestore
+        const userRef = firestoreDoc(db, 'users', user.uid);
         const userSnap = await getDoc(userRef);
 
         let resolvedCoachDocId: string = user.uid;
         if (userSnap.exists()) {
-          const data = userSnap.data() as any;
+          const data = userSnap.data();
           if (data.role !== 'coach') {
             router.push('/dashboard');
             return;
@@ -47,22 +53,28 @@ export default function CoachReviewsPage() {
 
         setCoachDocId(resolvedCoachDocId);
 
-        // Fetch all reviews for this coach (most recent first)
-        const reviewsRef = collection(db, 'coaches', resolvedCoachDocId, 'reviews');
-        const reviewsQuery = query(reviewsRef, orderBy('createdAt', 'desc'));
-        const snap = await getDocs(reviewsQuery);
-        const rows: Review[] = [];
-        snap.forEach((d) => rows.push({ id: d.id, ...(d.data() as any) }));
-        setReviews(rows);
+        // Fetch reviews from Data Connect API
+        const response = await fetch(`/api/reviews?coachUsername=${resolvedCoachDocId}`);
+        if (response.ok) {
+          const data = await response.json();
+          setReviews((data.reviews || []).map((r: any) => ({
+            id: r.id,
+            studentId: r.userId,
+            studentName: r.studentName,
+            rating: r.rating,
+            reviewText: r.reviewText,
+            createdAt: r.createdAt
+          })));
+        }
       } catch (err) {
         console.error('Failed to load reviews:', err);
       } finally {
         setLoading(false);
       }
-    });
+    };
 
-    return () => unsubscribe();
-  }, [router]);
+    fetchReviews();
+  }, [user, authLoading, router]);
 
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -111,7 +123,7 @@ export default function CoachReviewsPage() {
                   <p className="text-sm text-neutral-400">By: {r.studentName || 'Student'}</p>
                   {r.createdAt && (
                     <p className="text-xs text-neutral-500 mt-1">
-                      {new Date(r.createdAt.toDate()).toLocaleDateString()}
+                      {new Date(r.createdAt).toLocaleDateString()}
                     </p>
                   )}
                 </div>

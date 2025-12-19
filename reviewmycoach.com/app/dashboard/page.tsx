@@ -1,9 +1,9 @@
 'use client';
 
 import { useState, useEffect, useCallback } from 'react';
-import { User } from 'firebase/auth';
-import { collection, query, where, getDocs, orderBy, doc, getDoc } from 'firebase/firestore';
-import { auth, db } from '../lib/firebase-client';
+import { useAuth } from '../lib/hooks/useAuth';
+import { doc as firestoreDoc, getDoc } from 'firebase/firestore';
+import { db } from '../lib/firebase-client';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 
@@ -15,61 +15,38 @@ interface Review {
 }
 
 export default function Dashboard() {
-  const [user, setUser] = useState<User | null>(null);
   const [userRole, setUserRole] = useState<'student' | 'coach' | 'admin' | null>(null);
   const [userReviews, setUserReviews] = useState<Review[]>([]);
 
   const [loadingReviews, setLoadingReviews] = useState(false);
-  const [loading, setLoading] = useState(true);
   const router = useRouter();
+  
+  // Use Firebase Auth
+  const { user, loading } = useAuth();
 
-  const checkUserRole = useCallback(async (user: User) => {
+  const checkUserRole = useCallback(async (userId: string) => {
     try {
-      const userRef = doc(db, 'users', user.uid);
+      const userRef = firestoreDoc(db, 'users', userId);
       const userSnap = await getDoc(userRef);
       
       if (userSnap.exists()) {
         const userData = userSnap.data();
-        if (!userData.onboardingCompleted) {
-          // Add a small delay to prevent rapid redirects
-          setTimeout(() => router.push('/onboarding'), 100);
-          return;
-        }
-        
-        // Redirect coaches to their specific dashboard (unless they're admin)
-        if (userData.role === 'coach' && userData.role !== 'admin') {
-          setTimeout(() => router.push('/dashboard/coach'), 100);
-          return;
-        }
-        
-        setUserRole(userData.role);
-      } else {
-        // Add a small delay to prevent rapid redirects
-        setTimeout(() => router.push('/onboarding'), 100);
+        setUserRole(userData.role || null);
       }
     } catch (error) {
       console.error('Error checking user role:', error);
     }
-  }, [router]);
+  }, []);
 
   const fetchUserReviews = useCallback(async (email: string) => {
     setLoadingReviews(true);
     try {
-      const reviewsRef = collection(db, 'reviews');
-      const q = query(
-        reviewsRef,
-        where('email', '==', email),
-        orderBy('createdAt', 'desc')
-      );
-      const querySnapshot = await getDocs(q);
-      const reviews: Review[] = [];
-      querySnapshot.forEach((doc) => {
-        reviews.push({
-          id: doc.id,
-          ...doc.data()
-        } as Review);
-      });
-      setUserReviews(reviews);
+      // Fetch reviews from Data Connect API
+      const response = await fetch(`/api/reviews?email=${encodeURIComponent(email)}`);
+      if (response.ok) {
+        const data = await response.json();
+        setUserReviews(data.reviews || []);
+      }
     } catch (error) {
       console.error('Error fetching reviews:', error);
     } finally {
@@ -78,22 +55,15 @@ export default function Dashboard() {
   }, []);
 
   useEffect(() => {
-    const unsubscribe = auth.onAuthStateChanged(async (user) => {
-      setUser(user);
-      if (user) {
-        await checkUserRole(user);
-        if (user.email) {
-          fetchUserReviews(user.email);
-        }
-      } else {
-        // Redirect unauthenticated users to signin
-        setTimeout(() => router.push('/signin'), 100);
+    if (!loading && user) {
+      checkUserRole(user.uid);
+      if (user.email) {
+        fetchUserReviews(user.email);
       }
-      setLoading(false);
-    });
-
-    return () => unsubscribe();
-  }, [router, checkUserRole, fetchUserReviews]);
+    } else if (!loading && !user) {
+      router.push('/signin');
+    }
+  }, [user, loading, router, checkUserRole, fetchUserReviews]);
 
   const [stats, setStats] = useState([
     {

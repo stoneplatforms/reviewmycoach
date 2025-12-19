@@ -165,7 +165,7 @@ export default function HeroCoachCarousel() {
       {/* Scrolling container */}
       <div className="flex space-x-4 animate-scroll-left px-4">
         {duplicatedCoaches.map((coach, index) => {
-          const profileUrl = coach.username ? `/coach/${coach.username}` : `/coach/${coach.id}`;
+          const profileUrl = coach.username ? `/coach/${coach.username.toLowerCase()}` : `/coach/${coach.id}`;
           
           return (
             <Link

@@ -1,21 +1,21 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { User } from 'firebase/auth';
-import { collection, query, where, getDocs, orderBy, doc, getDoc, updateDoc, deleteDoc } from 'firebase/firestore';
-import { auth, db } from '../lib/firebase-client';
+import { useAuth } from '../lib/hooks/useAuth';
+import { doc as firestoreDoc, getDoc, updateDoc, deleteDoc, collection, query as firestoreQuery, where as firestoreWhere, orderBy as firestoreOrderBy, getDocs } from 'firebase/firestore';
+import { db } from '../lib/firebase-client';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 
 interface Report {
   id: string;
-  reporterId: string;
-  reportedItemType: 'review' | 'coach';
-  reportedItemId: string;
+  reporter_id: string;
+  reported_item_type: 'review' | 'coach';
+  reported_item_id: string;
   reason: string;
   description: string;
   status: 'pending' | 'approved' | 'rejected';
-  createdAt: { toDate: () => Date };
+  created_at: string;
   reviewData?: {
     studentName: string;
     coachName: string;
@@ -31,30 +31,29 @@ interface UserData {
 }
 
 export default function AdminDashboard() {
-  const [user, setUser] = useState<User | null>(null);
   const [userRole, setUserRole] = useState<string | null>(null);
   const [reports, setReports] = useState<Report[]>([]);
   const [loading, setLoading] = useState(true);
   const [actionLoading, setActionLoading] = useState<string | null>(null);
   const router = useRouter();
+  
+  // Use Firebase Auth
+  const { user, loading: authLoading } = useAuth();
 
   useEffect(() => {
-    const unsubscribe = auth.onAuthStateChanged(async (user) => {
-      if (user) {
-        setUser(user);
-        await checkAdminAccess(user);
-      } else {
-        router.push('/signin');
-      }
-    });
+    if (authLoading) return;
+    
+    if (!user) {
+      router.push('/signin');
+      return;
+    }
 
-    return () => unsubscribe();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [router]);
+    checkAdminAccess(user.uid);
+  }, [user, authLoading, router]);
 
-  const checkAdminAccess = async (user: User) => {
+  const checkAdminAccess = async (userId: string) => {
     try {
-      const userRef = doc(db, 'users', user.uid);
+      const userRef = firestoreDoc(db, 'users', userId);
       const userSnap = await getDoc(userRef);
       
       if (userSnap.exists()) {
@@ -78,53 +77,48 @@ export default function AdminDashboard() {
 
   const fetchReports = async () => {
     try {
+      // Fetch reports from Firestore
       const reportsRef = collection(db, 'reports');
-      const q = query(
+      const q = firestoreQuery(
         reportsRef,
-        where('status', '==', 'pending'),
-        orderBy('createdAt', 'desc')
+        firestoreWhere('status', '==', 'pending'),
+        firestoreOrderBy('createdAt', 'desc')
       );
       const querySnapshot = await getDocs(q);
       const reportsData: Report[] = [];
 
       for (const docSnapshot of querySnapshot.docs) {
-        const reportData = { id: docSnapshot.id, ...docSnapshot.data() } as Report;
+        const data = docSnapshot.data();
+        const reportData: Report = {
+          id: docSnapshot.id,
+          reporter_id: data.reporterId || data.reporter_id,
+          reported_item_type: data.reportedItemType || data.reported_item_type,
+          reported_item_id: data.reportedItemId || data.reported_item_id,
+          reason: data.reason,
+          description: data.description,
+          status: data.status,
+          created_at: data.createdAt || data.created_at,
+        };
         
         // Fetch additional review data if it's a review report
-        if (reportData.reportedItemType === 'review') {
+        if (reportData.reported_item_type === 'review') {
           try {
-            // Try to find the review in coaches collection
-            const coachesSnapshot = await getDocs(collection(db, 'coaches'));
-            let reviewFound = false;
-
-            for (const coachDoc of coachesSnapshot.docs) {
-              const reviewRef = doc(db, 'coaches', coachDoc.id, 'reviews', reportData.reportedItemId);
-              const reviewSnap = await getDoc(reviewRef);
-              
-              if (reviewSnap.exists()) {
-                const reviewData = reviewSnap.data();
+            // Fetch review from Data Connect API
+            const reviewResponse = await fetch(`/api/reviews?id=${reportData.reported_item_id}`);
+            if (reviewResponse.ok) {
+              const reviewData = await reviewResponse.json();
+              if (reviewData.review) {
+                // Fetch coach name
+                const coachResponse = await fetch(`/api/coaches/by-username/${reviewData.review.coachUsername}`);
+                const coachName = coachResponse.ok 
+                  ? (await coachResponse.json()).coach?.displayName || 'Unknown Coach'
+                  : 'Unknown Coach';
+                
                 reportData.reviewData = {
-                  studentName: reviewData.studentName,
-                  coachName: coachDoc.data().displayName,
-                  rating: reviewData.rating,
-                  reviewText: reviewData.reviewText
-                };
-                reviewFound = true;
-                break;
-              }
-            }
-            
-            if (!reviewFound) {
-              // Try global reviews collection
-              const globalReviewRef = doc(db, 'reviews', reportData.reportedItemId);
-              const globalReviewSnap = await getDoc(globalReviewRef);
-              if (globalReviewSnap.exists()) {
-                const reviewData = globalReviewSnap.data();
-                reportData.reviewData = {
-                  studentName: reviewData.studentName || 'Anonymous',
-                  coachName: reviewData.coachName || 'Unknown Coach',
-                  rating: reviewData.rating,
-                  reviewText: reviewData.reviewText || reviewData.reviews
+                  studentName: reviewData.review.studentName || 'Anonymous',
+                  coachName: coachName,
+                  rating: reviewData.review.rating,
+                  reviewText: reviewData.review.reviewText
                 };
               }
             }
@@ -143,45 +137,31 @@ export default function AdminDashboard() {
   };
 
   const handleReportAction = async (reportId: string, action: 'approve' | 'reject', shouldDeleteReview = false) => {
+    if (!user) return;
+    
     setActionLoading(reportId);
     try {
-      const reportRef = doc(db, 'reports', reportId);
+      const reportRef = firestoreDoc(db, 'reports', reportId);
       await updateDoc(reportRef, {
         status: action === 'approve' ? 'approved' : 'rejected',
         reviewedAt: new Date(),
-        reviewedBy: user?.uid
+        reviewedBy: user.uid
       });
 
       if (action === 'approve' && shouldDeleteReview) {
         const report = reports.find(r => r.id === reportId);
-        if (report && report.reportedItemType === 'review') {
-          // Try to delete from coaches subcollection first
-          const coachesSnapshot = await getDocs(collection(db, 'coaches'));
-          let deleted = false;
-
-          for (const coachDoc of coachesSnapshot.docs) {
-            try {
-              const reviewRef = doc(db, 'coaches', coachDoc.id, 'reviews', report.reportedItemId);
-              const reviewSnap = await getDoc(reviewRef);
-              
-              if (reviewSnap.exists()) {
-                await deleteDoc(reviewRef);
-                deleted = true;
-                break;
+        if (report && report.reported_item_type === 'review') {
+          // Delete review via API
+          try {
+            const token = await user.getIdToken();
+            await fetch(`/api/reviews/${report.reported_item_id}`, {
+              method: 'DELETE',
+              headers: {
+                'Authorization': `Bearer ${token}`
               }
-            } catch (error) {
-              console.error('Error deleting from coach subcollection:', error);
-            }
-          }
-
-          // Try global reviews collection if not found in coaches
-          if (!deleted) {
-            try {
-              const globalReviewRef = doc(db, 'reviews', report.reportedItemId);
-              await deleteDoc(globalReviewRef);
-            } catch (error) {
-              console.error('Error deleting from global reviews:', error);
-            }
+            });
+          } catch (error) {
+            console.error('Error deleting review:', error);
           }
         }
       }
@@ -196,7 +176,7 @@ export default function AdminDashboard() {
     }
   };
 
-  if (loading) {
+  if (loading || authLoading) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gray-50">
         <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"></div>
@@ -226,6 +206,12 @@ export default function AdminDashboard() {
               <p className="text-sm text-gray-600">ReviewMyCoach Administration Panel</p>
             </div>
             <div className="flex space-x-4">
+              <Link
+                href="/admin/cards"
+                className="bg-purple-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-purple-700"
+              >
+                Manage Cards
+              </Link>
               <Link
                 href="/admin/coach-onboarding"
                 className="bg-blue-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-blue-700"
@@ -375,7 +361,7 @@ export default function AdminDashboard() {
                           <span className="font-medium">Reason:</span> {report.description}
                         </p>
                         <p className="text-xs text-gray-500 mt-1">
-                          Reported on {report.createdAt.toDate().toLocaleDateString()}
+                          Reported on {new Date(report.created_at).toLocaleDateString()}
                         </p>
                       </div>
                     </div>

@@ -1,184 +1,95 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { verifyFirebaseToken, adminDb } from '../../../lib/firebase-admin-server';
+import { initializeApp, getApps } from 'firebase/app';
+import { getDataConnect } from 'firebase/data-connect';
+import { claimCoach } from '../../../lib/dataconnect';
 
-// Function to get Firebase instances
-async function getFirebaseInstances() {
-  try {
-    const firebaseAdminModule = await import('../../../lib/firebase-admin');
-    return {
-      auth: firebaseAdminModule.auth,
-      db: firebaseAdminModule.db
-    };
-  } catch (error) {
-    console.error('Failed to load Firebase Admin in coaches claim route:', error);
-    return { auth: null, db: null };
-  }
+// Initialize Firebase Client for Data Connect
+let clientApp;
+if (getApps().length === 0) {
+  clientApp = initializeApp({
+    apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+    authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+    projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+    storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
+    messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+    appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
+  });
+} else {
+  clientApp = getApps()[0];
 }
 
-// GET - Find claimable coach profiles by email
-export async function GET(req: NextRequest) {
-  const { auth, db } = await getFirebaseInstances();
-  
-  if (!db || !auth) {
-    return NextResponse.json({
-      error: 'Service temporarily unavailable'
-    }, { status: 503 });
-  }
-
-  try {
-    const { searchParams } = new URL(req.url);
-    const email = searchParams.get('email');
-
-    if (!email) {
-      return NextResponse.json({ error: 'Email parameter required' }, { status: 400 });
-    }
-
-    // Find unclaimed coach profiles with matching email
-    const coachesQuery = await db.collection('coaches')
-      .where('email', '==', email)
-      .where('isClaimed', '==', false)
-      .get();
-
-    const claimableProfiles = coachesQuery.docs.map((doc: any) => ({
-      id: doc.id,
-      username: doc.data().username,
-      displayName: doc.data().displayName,
-      email: doc.data().email,
-      organization: doc.data().organization,
-      role: doc.data().role,
-      sports: doc.data().sports,
-      phoneNumber: doc.data().phoneNumber,
-      sourceUrl: doc.data().sourceUrl,
-      verificationStatus: doc.data().verificationStatus
-    }));
-
-    return NextResponse.json({ 
-      claimableProfiles,
-      count: claimableProfiles.length 
-    });
-
-  } catch (error) {
-    console.error('Error finding claimable profiles:', error);
-    return NextResponse.json({
-      error: 'Failed to find claimable profiles',
-      details: error instanceof Error ? error.message : 'Unknown error'
-    }, { status: 500 });
-  }
-}
+const dataConnect = getDataConnect(clientApp, {
+  connector: 'reviewmycoach',
+  location: 'us-east4',
+  service: 'review-my-coach-service'
+});
 
 // POST - Claim a coach profile
 export async function POST(req: NextRequest) {
-  const { auth, db } = await getFirebaseInstances();
-  
-  if (!db || !auth) {
-    return NextResponse.json({
-      error: 'Service temporarily unavailable'  
-    }, { status: 503 });
-  }
-
   try {
+    // Verify Firebase token
     const token = req.headers.get('authorization')?.replace('Bearer ', '');
     if (!token) {
-      return NextResponse.json({ error: 'No authentication token provided' }, { status: 401 });
+      return NextResponse.json({ error: 'No authentication token' }, { status: 401 });
     }
 
-    const decodedToken = await auth.verifyIdToken(token);
+    const decodedToken = await verifyFirebaseToken(token);
+    if (!decodedToken) {
+      return NextResponse.json({ error: 'Invalid token' }, { status: 401 });
+    }
+
     const userId = decodedToken.uid;
     const userEmail = decodedToken.email;
-    const emailVerified = Boolean((decodedToken as any).email_verified);
+    const emailVerified = decodedToken.email_verified || false;
 
-    const { coachUsername, verificationData } = await req.json();
+    const { coachId } = await req.json();
 
-    if (!coachUsername) {
-      return NextResponse.json({ error: 'Coach username required' }, { status: 400 });
+    if (!coachId) {
+      return NextResponse.json({ error: 'Coach ID required' }, { status: 400 });
     }
 
-    // Get the coach profile to claim
-    const coachRef = db.collection('coaches').doc(coachUsername);
-    const coachDoc = await coachRef.get();
-
-    if (!coachDoc.exists) {
-      return NextResponse.json({ error: 'Coach profile not found' }, { status: 404 });
-    }
-
-    const coachData = coachDoc.data();
-
-    // Verify profile is claimable
-    if (!coachData || coachData.isClaimed) {
+    // Verify email is verified before claiming
+    if (!emailVerified) {
       return NextResponse.json({ 
-        error: 'Profile already claimed',
-        message: 'This coach profile has already been claimed by another user'
+        error: 'Email not verified',
+        message: 'Please verify your email before claiming a coach profile'
       }, { status: 400 });
     }
 
-    // Verify email matches
-    if (coachData.email !== userEmail) {
+    // Claim the coach profile in Data Connect
+    await claimCoach(dataConnect, {
+      id: coachId,
+      userId: userId
+    });
+
+    // Update user role in Firestore
+    const userRef = adminDb.collection('users').doc(userId);
+    await userRef.set({
+      role: 'coach',
+      onboardingCompleted: true,
+      updatedAt: new Date()
+    }, { merge: true });
+
+    return NextResponse.json({
+      success: true,
+      message: 'Profile claimed successfully',
+      coachId: coachId
+    });
+
+  } catch (error: any) {
+    console.error('Error claiming coach profile:', error);
+    
+    if (error.message?.includes('Email mismatch')) {
       return NextResponse.json({ 
         error: 'Email mismatch',
         message: 'Your email does not match the coach profile email'
       }, { status: 400 });
     }
 
-    // Require the user's email to be verified (school email control)
-    if (!emailVerified) {
-      return NextResponse.json({ 
-        error: 'Email not verified',
-        message: 'Please verify your school email before claiming this profile'
-      }, { status: 400 });
-    }
-
-    // Update the coach profile to mark as claimed and verified via email
-    await coachRef.update({
-      userId: userId,
-      isClaimed: true,
-      claimedAt: new Date(),
-      verificationStatus: 'verified',
-      verificationMethod: 'email',
-      updatedAt: new Date()
-    });
-
-    // Update user document to set role as coach
-    const userRef = db.collection('users').doc(userId);
-    await userRef.update({
-      role: 'coach',
-      claimedCoachProfile: coachUsername,
-      onboardingCompleted: true,
-      updatedAt: new Date()
-    });
-
-    // Store verification data if provided
-    if (verificationData) {
-      const verificationRef = db.collection('identity_verifications').doc(userId);
-      await verificationRef.set({
-        userId: userId,
-        coachUsername: coachUsername,
-        verificationData: verificationData,
-        status: 'submitted',
-        submittedAt: new Date(),
-        reviewedAt: null,
-        reviewedBy: null,
-        notes: ''
-      });
-    }
-
-    return NextResponse.json({
-      success: true,
-      message: 'Profile claimed successfully',
-      coachProfile: {
-        id: coachDoc.id,
-        username: coachData.username,
-        displayName: coachData.displayName,
-        email: coachData.email,
-        sports: coachData.sports,
-        organization: coachData.organization,
-        role: coachData.role
-      }
-    });
-
-  } catch (error) {
-    console.error('Error claiming coach profile:', error);
     return NextResponse.json({
       error: 'Failed to claim profile',
-      details: error instanceof Error ? error.message : 'Unknown error'
+      details: error.message || 'Unknown error'
     }, { status: 500 });
   }
 }

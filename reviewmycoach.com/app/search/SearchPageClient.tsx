@@ -54,7 +54,72 @@ interface SearchResponse {
   fallback?: boolean;
 }
 
-const ITEMS_PER_PAGE = 12;
+const ITEMS_PER_PAGE = 24; // Increased from 12 for better UX
+
+// Client-side cache configuration
+const CACHE_DURATION = 5 * 60 * 1000; // 5 minutes
+const CACHE_KEY_PREFIX = 'coach_search_cache_';
+
+// Cache utility functions
+const getCacheKey = (params: URLSearchParams): string => {
+  return `${CACHE_KEY_PREFIX}${params.toString()}`;
+};
+
+const getCachedData = (key: string): SearchResponse | null => {
+  if (typeof window === 'undefined') return null;
+  
+  try {
+    const cached = sessionStorage.getItem(key);
+    if (!cached) return null;
+    
+    const { data, timestamp } = JSON.parse(cached);
+    if (Date.now() - timestamp > CACHE_DURATION) {
+      sessionStorage.removeItem(key);
+      return null;
+    }
+    
+    return data;
+  } catch (error) {
+    console.error('Error reading cache:', error);
+    return null;
+  }
+};
+
+const setCachedData = (key: string, data: SearchResponse): void => {
+  if (typeof window === 'undefined') return;
+  
+  try {
+    sessionStorage.setItem(key, JSON.stringify({
+      data,
+      timestamp: Date.now(),
+    }));
+    
+    // Clean up old cache entries (keep max 50 entries)
+    const cacheKeys = Object.keys(sessionStorage).filter(k => k.startsWith(CACHE_KEY_PREFIX));
+    if (cacheKeys.length > 50) {
+      // Remove oldest entries
+      const entries = cacheKeys.map(key => ({
+        key,
+        timestamp: JSON.parse(sessionStorage.getItem(key) || '{}').timestamp || 0,
+      })).sort((a, b) => a.timestamp - b.timestamp);
+      
+      // Remove oldest 10 entries
+      entries.slice(0, 10).forEach(entry => {
+        sessionStorage.removeItem(entry.key);
+      });
+    }
+  } catch (error) {
+    console.error('Error writing cache:', error);
+    // If storage is full, try to clear old entries
+    try {
+      const cacheKeys = Object.keys(sessionStorage).filter(k => k.startsWith(CACHE_KEY_PREFIX));
+      cacheKeys.slice(0, 20).forEach(key => sessionStorage.removeItem(key));
+      sessionStorage.setItem(key, JSON.stringify({ data, timestamp: Date.now() }));
+    } catch (e) {
+      console.error('Failed to write cache after cleanup:', e);
+    }
+  }
+};
 
 export default function SearchPageClient() {
   const searchParams = useSearchParams();
@@ -150,9 +215,21 @@ export default function SearchPageClient() {
       params.set('page', page.toString());
       params.set('limit', ITEMS_PER_PAGE.toString());
 
-      const response = await fetch(`/api/search/coaches?${params.toString()}`);
+      // Check cache first
+      const cacheKey = getCacheKey(params);
+      const cachedData = getCachedData(cacheKey);
       
-      const data: SearchResponse = await response.json();
+      if (cachedData) {
+        console.log('📦 Using cached search results');
+        setResults(cachedData);
+        setLoading(false);
+        return;
+      }
+
+      // Fetch results only (count is too slow for 30k coaches)
+      const resultsResponse = await fetch(`/api/search/coaches?${params.toString()}`);
+      
+      const data: SearchResponse = await resultsResponse.json();
       
       // Handle fallback case when Firebase isn't initialized
       if (data.fallback) {
@@ -162,10 +239,16 @@ export default function SearchPageClient() {
         return;
       }
       
-      if (!response.ok) {
+      if (!resultsResponse.ok) {
         throw new Error(data.error || 'Failed to fetch search results');
       }
 
+      // Cache the results
+      setCachedData(cacheKey, data);
+      console.log('💾 Cached search results');
+
+      // Use smart estimation for total count (PostgreSQL COUNT(*) would be slow on 30k rows)
+      // Show actual count from API response
       setResults(data);
     } catch (err) {
       console.error('Search error:', err);

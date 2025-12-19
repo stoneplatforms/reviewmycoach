@@ -1,0 +1,288 @@
+# ReviewMyCoach GraphQL Schema for Firebase Data Connect
+# All field names use camelCase as required by Firebase Data Connect
+
+# Users table
+type User @table(name: "users") {
+  id: String! @col(name: "id")
+  userId: String @col(name: "user_id")
+  email: String @col(name: "email")
+  displayName: String @col(name: "display_name")
+  username: String @col(name: "username")
+  firstName: String @col(name: "first_name")
+  lastName: String @col(name: "last_name")
+  role: String @col(name: "role")
+  onboardingCompleted: Boolean @col(name: "onboarding_completed")
+  isVerified: Boolean @col(name: "is_verified")
+  createdAt: Timestamp @col(name: "created_at")
+  updatedAt: Timestamp @col(name: "updated_at")
+  data: Any @col(name: "data")
+}
+
+# Coaches table
+type Coach @table(name: "coaches") {
+  id: String! @col(name: "id")
+  username: String @col(name: "username")
+  userId: String @col(name: "user_id")
+  displayName: String @col(name: "display_name")
+  email: String @col(name: "email")
+  phoneNumber: String @col(name: "phone_number")
+  bio: String @col(name: "bio")
+  sports: Any @col(name: "sports")
+  specialties: Any @col(name: "specialties")
+  certifications: Any @col(name: "certifications")
+  location: String @col(name: "location")
+  organization: String @col(name: "organization")
+  role: String @col(name: "role")
+  gender: String @col(name: "gender")
+  ageGroup: Any @col(name: "age_group")
+  availability: Any @col(name: "availability")
+  languages: Any @col(name: "languages")
+  website: String @col(name: "website")
+  socialMedia: Any @col(name: "social_media")
+  profileCompleted: Boolean @col(name: "profile_completed")
+  importedFromPdf: Boolean @col(name: "imported_from_pdf")
+  sourceUrl: String @col(name: "source_url")
+  hasActiveServices: Boolean @col(name: "has_active_services")
+  isPublic: Boolean @col(name: "is_public")
+  hourlyRate: Float @col(name: "hourly_rate")
+  averageRating: Float @col(name: "average_rating")
+  totalReviews: Int @col(name: "total_reviews")
+  experience: Int @col(name: "experience")
+  profileImage: String @col(name: "profile_image")
+  activeCardId: String @col(name: "active_card_id")
+  activeCardImageUrl: String @col(name: "active_card_image_url")
+  isClaimed: Boolean @col(name: "is_claimed")
+  isVerified: Boolean @col(name: "is_verified")
+  verificationStatus: String @col(name: "verification_status")
+  subscriptionStatus: String @col(name: "subscription_status")
+  subscriptionTier: Int @col(name: "subscription_tier")
+  longevityPlatformYears: Float @col(name: "longevity_platform_years")
+  careerYears: Float @col(name: "career_years")
+  coursesCreated: Int @col(name: "courses_created")
+  jobsCompleted: Int @col(name: "jobs_completed")
+  consistencyMultiplier: Float @col(name: "consistency_multiplier")
+  claimedAt: Timestamp @col(name: "claimed_at")
+  createdAt: Timestamp @col(name: "created_at")
+  updatedAt: Timestamp @col(name: "updated_at")
+  data: Any @col(name: "data")
+}
+
+# Reviews table
+type Review @table(name: "reviews") {
+  id: String! @col(name: "id")
+  coachId: String @col(name: "coach_id")
+  coachUsername: String @col(name: "coach_username")
+  userId: String @col(name: "user_id")
+  email: String @col(name: "email")
+  studentName: String @col(name: "student_name")
+  rating: Float @col(name: "rating")
+  reviewText: String @col(name: "review_text")
+  sport: String @col(name: "sport")
+  createdAt: Timestamp @col(name: "created_at")
+  updatedAt: Timestamp @col(name: "updated_at")
+  data: Any @col(name: "data")
+}
+
+# Classes table
+type Class @table(name: "classes") {
+  id: String! @col(name: "id")
+  coachId: String @col(name: "coach_id")
+  coachUsername: String @col(name: "coach_username")
+  title: String @col(name: "title")
+  description: String @col(name: "description")
+  sport: String @col(name: "sport")
+  price: Float @col(name: "price")
+  duration: Int @col(name: "duration")
+  maxStudents: Int @col(name: "max_students")
+  isActive: Boolean @col(name: "is_active")
+  createdAt: Timestamp @col(name: "created_at")
+  updatedAt: Timestamp @col(name: "updated_at")
+  data: Any @col(name: "data")
+}
+
+# Services table
+type Service @table(name: "services") {
+  id: String! @col(name: "id")
+  coachId: String @col(name: "coach_id")
+  coachUsername: String @col(name: "coach_username")
+  title: String @col(name: "title")
+  description: String @col(name: "description")
+  price: Float @col(name: "price")
+  duration: Int @col(name: "duration")
+  isActive: Boolean @col(name: "is_active")
+  totalBookings: Int @col(name: "total_bookings")
+  createdAt: Timestamp @col(name: "created_at")
+  updatedAt: Timestamp @col(name: "updated_at")
+  data: Any @col(name: "data")
+}
+
+# Jobs table
+type Job @table(name: "jobs") {
+  id: String! @col(name: "id")
+  title: String @col(name: "title")
+  description: String @col(name: "description")
+  sport: String @col(name: "sport")
+  location: String @col(name: "location")
+  organization: String @col(name: "organization")
+  status: String @col(name: "status")
+  createdAt: Timestamp @col(name: "created_at")
+  updatedAt: Timestamp @col(name: "updated_at")
+  data: Any @col(name: "data")
+}
+
+# Job Applications table
+type JobApplication @table(name: "job_applications") {
+  id: String! @col(name: "id")
+  jobId: String @col(name: "job_id")
+  coachId: String @col(name: "coach_id")
+  userId: String @col(name: "user_id")
+  status: String @col(name: "status")
+  createdAt: Timestamp @col(name: "created_at")
+  updatedAt: Timestamp @col(name: "updated_at")
+  data: Any @col(name: "data")
+}
+
+# Bookings table
+type Booking @table(name: "bookings") {
+  id: String! @col(name: "id")
+  coachId: String @col(name: "coach_id")
+  userId: String @col(name: "user_id")
+  serviceId: String @col(name: "service_id")
+  classId: String @col(name: "class_id")
+  status: String @col(name: "status")
+  bookingDate: Timestamp @col(name: "booking_date")
+  createdAt: Timestamp @col(name: "created_at")
+  updatedAt: Timestamp @col(name: "updated_at")
+  data: Any @col(name: "data")
+}
+
+# Conversations table
+type Conversation @table(name: "conversations") {
+  id: String! @col(name: "id")
+  participants: Any @col(name: "participants")
+  lastMessageAt: Timestamp @col(name: "last_message_at")
+  createdAt: Timestamp @col(name: "created_at")
+  updatedAt: Timestamp @col(name: "updated_at")
+  data: Any @col(name: "data")
+}
+
+# Messages table
+type Message @table(name: "messages") {
+  id: String! @col(name: "id")
+  conversationId: String @col(name: "conversation_id")
+  senderId: String @col(name: "sender_id")
+  receiverId: String @col(name: "receiver_id")
+  content: String @col(name: "content")
+  isRead: Boolean @col(name: "is_read")
+  createdAt: Timestamp @col(name: "created_at")
+  data: Any @col(name: "data")
+}
+
+# Tier Cards table (earned through XP milestones)
+type TierCard @table(name: "tier_cards") {
+  id: String! @col(name: "id")
+  tierNumber: Int @col(name: "tier_number")
+  tierName: String @col(name: "tier_name")
+  requiredXp: Int @col(name: "required_xp")
+  imageUrl: String @col(name: "image_url")
+  description: String @col(name: "description")
+  isActive: Boolean @col(name: "is_active")
+  createdAt: Timestamp @col(name: "created_at")
+  updatedAt: Timestamp @col(name: "updated_at")
+  data: Any @col(name: "data")
+}
+
+# Marketplace Cards table
+type MarketplaceCard @table(name: "marketplace_cards") {
+  id: String! @col(name: "id")
+  name: String @col(name: "name")
+  description: String @col(name: "description")
+  imageUrl: String @col(name: "image_url")
+  category: String @col(name: "category")
+  tier: String @col(name: "tier")
+  rarity: String @col(name: "rarity")
+  price: Float @col(name: "price")
+  stripePriceId: String @col(name: "stripe_price_id")
+  stripeProductId: String @col(name: "stripe_product_id")
+  isActive: Boolean @col(name: "is_active")
+  isFeatured: Boolean @col(name: "is_featured")
+  sortOrder: Int @col(name: "sort_order")
+  totalPurchases: Int @col(name: "total_purchases")
+  createdAt: Timestamp @col(name: "created_at")
+  updatedAt: Timestamp @col(name: "updated_at")
+  data: Any @col(name: "data")
+}
+
+# User Cards table (cards owned by users/coaches)
+type UserCard @table(name: "user_cards") {
+  id: String! @col(name: "id")
+  userId: String @col(name: "user_id")
+  coachUsername: String @col(name: "coach_username")
+  cardId: String @col(name: "card_id")
+  cardType: String @col(name: "card_type")
+  cardName: String @col(name: "card_name")
+  cardImageUrl: String @col(name: "card_image_url")
+  isActive: Boolean @col(name: "is_active")
+  unlockedAt: Timestamp @col(name: "unlocked_at")
+  purchasedAt: Timestamp @col(name: "purchased_at")
+  stripePaymentId: String @col(name: "stripe_payment_id")
+  createdAt: Timestamp @col(name: "created_at")
+  data: Any @col(name: "data")
+}
+
+# Reports table
+type Report @table(name: "reports") {
+  id: String! @col(name: "id")
+  reviewId: String @col(name: "review_id")
+  reporterId: String @col(name: "reporter_id")
+  reason: String @col(name: "reason")
+  status: String @col(name: "status")
+  createdAt: Timestamp @col(name: "created_at")
+  updatedAt: Timestamp @col(name: "updated_at")
+  data: Any @col(name: "data")
+}
+
+# Sports table
+type Sport @table(name: "sports") {
+  id: String! @col(name: "id")
+  name: String @col(name: "name")
+  iconUrl: String @col(name: "icon_url")
+  createdAt: Timestamp @col(name: "created_at")
+  data: Any @col(name: "data")
+}
+
+# Tags table
+type Tag @table(name: "tags") {
+  id: String! @col(name: "id")
+  name: String @col(name: "name")
+  category: String @col(name: "category")
+  createdAt: Timestamp @col(name: "created_at")
+  data: Any @col(name: "data")
+}
+
+# Bookmarks table
+type Bookmark @table(name: "bookmarks") {
+  id: String! @col(name: "id")
+  userId: String @col(name: "user_id")
+  coachId: String @col(name: "coach_id")
+  createdAt: Timestamp @col(name: "created_at")
+  data: Any @col(name: "data")
+}
+
+# Identity Verifications table
+type IdentityVerification @table(name: "identity_verifications") {
+  id: String! @col(name: "id")
+  userId: String @col(name: "user_id")
+  userEmail: String @col(name: "user_email")
+  coachUsername: String @col(name: "coach_username")
+  status: String @col(name: "status")
+  submittedAt: Timestamp @col(name: "submitted_at")
+  reviewedAt: Timestamp @col(name: "reviewed_at")
+  reviewedBy: String @col(name: "reviewed_by")
+  reviewNotes: String @col(name: "review_notes")
+  personalInfo: Any @col(name: "personal_info")
+  driversLicense: Any @col(name: "drivers_license")
+  createdAt: Timestamp @col(name: "created_at")
+  updatedAt: Timestamp @col(name: "updated_at")
+  data: Any @col(name: "data")
+}

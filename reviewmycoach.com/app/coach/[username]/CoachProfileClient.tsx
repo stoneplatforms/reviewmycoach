@@ -1,11 +1,11 @@
 'use client';
 
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useMemo } from 'react';
 import { User } from 'firebase/auth';
 import { auth } from '../../lib/firebase-client';
 import Image from 'next/image';
 import { useRealtimeReviews, useRealtimeCoach } from '../../lib/hooks/useRealtimeReviews';
-import { useCoachXP } from '../../lib/hooks/useCoachXP';
+import { calculateCoachXP, getCoachTier, formatXPBreakdown, type XPCalculationInputs } from '../../lib/xp-calculator';
 import RealtimeReviewModal from '../../components/RealtimeReviewModal';
 import BookingModal from '../../components/BookingModal';
 import MessagingModal from '../../components/MessagingModal';
@@ -44,6 +44,15 @@ interface CoachProfile {
     twitter?: string;
     linkedin?: string;
   };
+  activeCardImageUrl?: string; // Tier card background
+  username?: string;
+  // XP calculation fields from database
+  subscriptionTier?: number;
+  longevityPlatformYears?: number;
+  careerYears?: number;
+  coursesCreated?: number;
+  jobsCompleted?: number;
+  consistencyMultiplier?: number;
 }
 
 interface Review {
@@ -94,12 +103,62 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
     coach: realtimeCoach
   } = useRealtimeCoach(initialCoach.id);
 
-  // Fetch XP data
-  const { xpData, loading: xpLoading } = useCoachXP(initialCoach.id, initialCoach.userId);
-
   // Use real-time data if available, fallback to initial props
   const coach = realtimeCoach || initialCoach;
   const reviews = realtimeReviews.length > 0 ? realtimeReviews : initialReviews;
+
+  // Calculate XP in real-time from coach data
+  const xpData = useMemo(() => {
+    if (!coach.userId) return null;
+
+    try {
+      const subscription_tier = coach.subscriptionTier || 0;
+      const longevity_platform_years = coach.longevityPlatformYears || 0;
+      const career_years = coach.careerYears || 0;
+      const courses_created = coach.coursesCreated || 0;
+      const jobs_completed = coach.jobsCompleted || 0;
+      const review_score = coach.averageRating || 0;
+      const consistency_multiplier = coach.consistencyMultiplier || 1.0;
+
+      const inputs: XPCalculationInputs = {
+        subscription_tier,
+        longevity_platform_years,
+        career_years,
+        courses_created,
+        jobs_completed,
+        review_score,
+        consistency_multiplier,
+      };
+
+      const xpResult = calculateCoachXP(inputs);
+      const breakdownText = formatXPBreakdown(xpResult.breakdown);
+
+      return {
+        coachId: coach.userId,
+        coachName: coach.displayName,
+        xp: xpResult.total_xp,
+        tier: xpResult.tier,
+        tier_number: xpResult.tier_number,
+        breakdown: xpResult.breakdown,
+        breakdown_text: breakdownText,
+        inputs: {
+          subscription_tier,
+          subscription_status: coach.subscriptionTier === 3 ? 'elite' : coach.subscriptionTier === 2 ? 'pro' : 'basic',
+          longevity_platform_years,
+          career_years,
+          courses_created,
+          jobs_completed,
+          review_score,
+          consistency_multiplier,
+        },
+      };
+    } catch (error) {
+      console.error('Error calculating XP:', error);
+      return null;
+    }
+  }, [coach]);
+
+  const xpLoading = false; // No loading since we calculate locally
 
   const fetchServices = useCallback(async () => {
     try {
@@ -148,7 +207,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
           </svg>
         ))}
         <span className={`ml-2 text-gray-600 ${size === 'sm' ? 'text-xs' : size === 'lg' ? 'text-base' : 'text-sm'}`}>
-          {rating.toFixed(1)}
+          {(rating || 0).toFixed(1)}
         </span>
       </div>
     );
@@ -174,23 +233,52 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
       {/* Hero Section */}
       <div className="bg-white border border-gray-200 rounded-2xl p-8 mb-10 shadow-sm">
         <div className="flex flex-col md:flex-row items-start md:items-center gap-8">
-          {/* Profile Image */}
+          {/* Profile Image with Tier Card Background */}
           <div className="relative">
-            <div className="w-32 h-32 bg-gray-100 rounded-full flex items-center justify-center overflow-hidden ring-2 ring-gray-200">
-              {coach.profileImage ? (
-                <Image
-                  src={coach.profileImage}
-                  alt={coach.displayName}
-                  width={128}
-                  height={128}
-                  className="w-full h-full object-cover"
+            {coach.activeCardImageUrl ? (
+              // Container: 4:5 aspect ratio (192x240px) to match tier card (1080x1350)
+              <div className="relative w-48 h-60 overflow-hidden rounded-lg" style={{ width: '192px', height: '240px' }}>
+                {/* Profile Photo fills entire container - constrained to container size */}
+                {coach.profileImage ? (
+                  <img
+                    src={coach.profileImage}
+                    alt={coach.displayName}
+                    className="absolute inset-0 w-full h-full object-cover"
+                    style={{ width: '192px', height: '240px' }}
+                  />
+                ) : (
+                  <div className="absolute inset-0 w-full h-full bg-gray-100 flex items-center justify-center">
+                    <svg className="w-24 h-24 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
+                    </svg>
+                  </div>
+                )}
+                {/* Tier Card Frame: absolute, full size of container */}
+                <img
+                  src={coach.activeCardImageUrl}
+                  alt="Tier Card"
+                  className="absolute inset-0 w-full h-full object-contain z-10 pointer-events-none"
+                  style={{ width: '192px', height: '240px' }}
                 />
-              ) : (
-                <svg className="w-16 h-16 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                  <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
-                </svg>
-              )}
-            </div>
+              </div>
+            ) : (
+              // Default without card
+              <div className="w-32 h-32 bg-gray-100 rounded-full flex items-center justify-center overflow-hidden ring-2 ring-gray-200">
+                {coach.profileImage ? (
+                  <Image
+                    src={coach.profileImage}
+                    alt={coach.displayName}
+                    width={128}
+                    height={128}
+                    className="w-full h-full object-cover"
+                  />
+                ) : (
+                  <svg className="w-16 h-16 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
+                  </svg>
+                )}
+              </div>
+            )}
             {coach.isVerified && (
               <div className="absolute -bottom-1 -right-1 bg-emerald-500 rounded-full p-1">
                 <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
@@ -200,20 +288,12 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
             )}
           </div>
 
-          {/* Big Rating Score next to profile image */}
-          <div className="flex items-end gap-4">
-            <div>
-              <div className="text-6xl md:text-8xl font-extrabold leading-none tracking-tight text-black">
-                {(ratingStats.averageRating || coach.averageRating).toFixed(1)}
-              </div>
-              <div className="mt-2 text-sm text-gray-500">Average rating</div>
+          {/* Big Rating Score */}
+          <div>
+            <div className="text-6xl md:text-8xl font-extrabold leading-none tracking-tight text-black">
+              {(ratingStats.averageRating || coach.averageRating || 0).toFixed(1)}
             </div>
-            <button
-              onClick={handleWriteReview}
-              className="self-center md:self-end rounded-full px-5 py-2 text-sm font-medium bg-red-600 text-white hover:bg-red-700 transition-colors"
-            >
-              Write a review
-            </button>
+            <div className="mt-2 text-sm text-gray-500">Average rating</div>
           </div>
 
           {/* Coach Info */}
@@ -470,7 +550,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                  </h2>
                  <div className="flex items-center gap-2">
                  <div className="text-3xl font-bold text-black">
-                     {(ratingStats.averageRating || coach.averageRating).toFixed(1)}
+                     {(ratingStats.averageRating || coach.averageRating || 0).toFixed(1)}
                    </div>
                  <div className="text-sm text-gray-600">
                      <div>{renderStarRating(ratingStats.averageRating || coach.averageRating, 'sm')}</div>
@@ -639,7 +719,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                   </div>
                   <div className="flex justify-between text-gray-600 pt-2 border-t border-gray-200">
                     <span>Multiplier:</span>
-                    <span className="font-medium text-gray-900">{xpData.breakdown.consistency_multiplier.toFixed(2)}x</span>
+                    <span className="font-medium text-gray-900">{(xpData.breakdown.consistency_multiplier || 1).toFixed(2)}x</span>
                   </div>
                 </div>
               </div>

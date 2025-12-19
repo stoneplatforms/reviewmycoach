@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist, Geist_Mono, Racing_Sans_One } from "next/font/google";
 import "./globals.css";
 import Navbar from "./components/Navbar";
 import JsonLd from "./components/JsonLd";
@@ -12,6 +12,12 @@ const geistSans = Geist({
 
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
+  subsets: ["latin"],
+});
+
+const racingSansOne = Racing_Sans_One({
+  weight: "400",
+  variable: "--font-racing",
   subsets: ["latin"],
 });
 
@@ -77,13 +83,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" className="overflow-x-hidden">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} ${racingSansOne.variable} antialiased overflow-x-hidden`}
       >
         <JsonLd />
         <Navbar />
-        <main className="min-h-screen">
+        <main className="min-h-screen overflow-x-hidden pt-14">
         {children}
         </main>
         

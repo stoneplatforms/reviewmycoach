@@ -1,15 +1,13 @@
 import { NextRequest, NextResponse } from 'next/server';
-
-// Function to get Firebase instance
-async function getFirebaseDb() {
-  try {
-    const firebaseAdminModule = await import('../../lib/firebase-admin');
-    return firebaseAdminModule.db || null;
-  } catch (error) {
-    console.error('Failed to load Firebase Admin in coaches route:', error);
-    return null;
-  }
-}
+import { fetchPublicCoaches, filterCoaches } from '../../lib/firebase-dataconnect-server';
+import { verifyFirebaseToken } from '../../lib/firebase-admin-server';
+import { initializeApp, getApps } from 'firebase/app';
+import { getDataConnect } from 'firebase/data-connect';
+import { createCoach } from '../../lib/dataconnect';
+import {
+  calculateCoachXP,
+  type XPCalculationInputs,
+} from '../../lib/xp-calculator';
 
 interface CoachData {
   id: string;
@@ -24,132 +22,226 @@ interface CoachData {
   gender?: string;
   ageGroup?: string[];
   sourceUrl?: string;
+  userId?: string;
+  username?: string;
+  averageRating?: number;
+  totalReviews?: number;
+  profileImage?: string;
+  isVerified?: boolean;
+  hasActiveServices?: boolean;
   createdAt?: string | null;
   updatedAt?: string | null;
+  xp?: number;
   [key: string]: any;
 }
 
+// Initialize Firebase Client for Data Connect
+let clientApp;
+if (getApps().length === 0) {
+  clientApp = initializeApp({
+    apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+    authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+    projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+    storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
+    messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+    appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
+  });
+} else {
+  clientApp = getApps()[0];
+}
+
+const dataConnect = getDataConnect(clientApp, {
+  connector: 'reviewmycoach',
+  location: 'us-east4',
+  service: 'review-my-coach-service'
+});
+
 // GET - Fetch coaches with filtering and pagination
 export async function GET(request: NextRequest) {
-  const db = await getFirebaseDb();
-  
-  // Early return if Firebase isn't initialized
-  if (!db) {
-    console.error('Firebase not initialized - returning empty coaches list');
-    return NextResponse.json({ 
-      coaches: [],
-      count: 0,
-      page: 1,
-      limit: 20,
-      hasMore: false,
-      error: 'Firebase connection not available'
-    });
-  }
-
   try {
     const { searchParams } = new URL(request.url);
     
     // Parse query parameters
-    const limitParam = parseInt(searchParams.get('limit') || '20', 10);
-    const pageParam = searchParams.get('page') || '1';
-    const sportsParam = searchParams.get('sports');
-    const locationParam = searchParams.get('location');
-    const minRatingParam = searchParams.get('minRating');
-    const maxRateParam = searchParams.get('maxRate');
-    const isVerifiedParam = searchParams.get('isVerified');
+    const limitParam = Math.min(parseInt(searchParams.get('limit') || '20', 10), 100);
+    const pageParam = parseInt(searchParams.get('page') || '1', 10);
     const searchTermParam = searchParams.get('search');
-    const genderParam = searchParams.get('gender');
     const organizationParam = searchParams.get('organization');
-    const roleParam = searchParams.get('role');
     const ageGroupParam = searchParams.get('ageGroup');
-    const sortByParam = searchParams.get('sortBy') || 'averageRating'; // averageRating, hourlyRate, experience
-    const sortOrderParam = searchParams.get('sortOrder') || 'desc';
+    const sortByXP = searchParams.get('sortByXP') === 'true';
 
-    // Build base query
-    let baseQuery: any = db.collection('coaches');
-
-    // Add filters
-    if (sportsParam) {
-      const sports = sportsParam.split(',');
-      baseQuery = baseQuery.where('sports', 'array-contains-any', sports);
+    // Fetch coaches from Firebase Data Connect
+    // If sorting by XP, fetch ALL coaches (no limit) to ensure we get the top ones after sorting
+    // Then we'll sort by XP and limit to the requested amount
+    const fetchLimit = sortByXP ? null : limitParam; // null = fetch all coaches
+    
+    let coaches: any[];
+    try {
+      coaches = await fetchPublicCoaches({
+        page: pageParam,
+        limit: fetchLimit,
+      });
+      
+      // Debug: Check if XP fields are present and if kevinvera7 is in the list
+      if (sortByXP && coaches.length > 0) {
+        console.log(`📊 Fetched ${coaches.length} coaches from Data Connect`);
+        
+        // Check if kevinvera7 is in the fetched coaches
+        const kevinvera7 = coaches.find((c: any) => 
+          c.username?.toLowerCase() === 'kevinvera7' || 
+          c.displayName?.toLowerCase().includes('kevin vera')
+        );
+        
+        if (kevinvera7) {
+          console.log('✅ Found kevinvera7 in fetched coaches:', {
+            username: kevinvera7.username,
+            displayName: kevinvera7.displayName,
+            subscriptionTier: kevinvera7.subscriptionTier,
+            longevityPlatformYears: kevinvera7.longevityPlatformYears,
+            careerYears: kevinvera7.careerYears,
+            coursesCreated: kevinvera7.coursesCreated,
+            jobsCompleted: kevinvera7.jobsCompleted,
+            consistencyMultiplier: kevinvera7.consistencyMultiplier,
+            averageRating: kevinvera7.averageRating,
+          });
+        } else {
+          console.log('❌ kevinvera7 NOT found in first', coaches.length, 'coaches');
+          console.log('📋 All coach usernames:', coaches.map((c: any) => c.username).sort());
+        }
+        
+        const sampleCoach = coaches[0];
+        console.log('🔍 Sample coach XP fields:', {
+          username: sampleCoach.username,
+          subscriptionTier: sampleCoach.subscriptionTier,
+          longevityPlatformYears: sampleCoach.longevityPlatformYears,
+          careerYears: sampleCoach.careerYears,
+        });
+      }
+    } catch (error) {
+      console.error('Error fetching coaches from Data Connect:', error);
+      
+      // Return fallback response
+      return NextResponse.json({ 
+        coaches: [],
+        count: 0,
+        page: 1,
+        limit: 20,
+        hasMore: false,
+        error: 'Coach service temporarily unavailable'
+      });
     }
 
-    if (locationParam) {
-      baseQuery = baseQuery.where('location', '==', locationParam);
+    // Apply client-side filtering for complex searches
+    let filteredCoaches = coaches;
+    if (searchTermParam || organizationParam || ageGroupParam) {
+      filteredCoaches = filterCoaches(
+        coaches,
+        searchTermParam || undefined,
+        organizationParam || undefined,
+        ageGroupParam || undefined
+      );
     }
 
-    if (minRatingParam) {
-      const minRating = parseFloat(minRatingParam);
-      baseQuery = baseQuery.where('averageRating', '>=', minRating);
-    }
+    // Convert to API response format and calculate XP
+    let formattedCoaches: CoachData[] = filteredCoaches.map((coach: any) => {
+      // Calculate XP for each coach
+      let xp = 0;
+      if (coach.userId && coach.username) {
+        try {
+          const subscription_tier = coach.subscriptionTier ?? 0;
+          const longevity_platform_years = coach.longevityPlatformYears ?? 0;
+          const career_years = coach.careerYears ?? 0;
+          const courses_created = coach.coursesCreated ?? 0;
+          const jobs_completed = coach.jobsCompleted ?? 0;
+          const review_score = coach.averageRating ?? 0;
+          const consistency_multiplier = coach.consistencyMultiplier ?? 1.0;
 
-    if (isVerifiedParam === 'true') {
-      baseQuery = baseQuery.where('isVerified', '==', true);
-    }
+          const inputs: XPCalculationInputs = {
+            subscription_tier: Number(subscription_tier) || 0,
+            longevity_platform_years: Number(longevity_platform_years) || 0,
+            career_years: Number(career_years) || 0,
+            courses_created: Number(courses_created) || 0,
+            jobs_completed: Number(jobs_completed) || 0,
+            review_score: Number(review_score) || 0,
+            consistency_multiplier: Number(consistency_multiplier) || 1.0,
+          };
 
-    if (genderParam) {
-      baseQuery = baseQuery.where('gender', '==', genderParam);
-    }
+          const xpResult = calculateCoachXP(inputs);
+          xp = xpResult.total_xp;
+          
+          // Debug logging for kevinvera7
+          if (coach.username === 'kevinvera7' || coach.username?.toLowerCase() === 'kevinvera7') {
+            console.log('🔍 kevinvera7 XP calculation:', {
+              username: coach.username,
+              subscription_tier: inputs.subscription_tier,
+              longevity_platform_years: inputs.longevity_platform_years,
+              career_years: inputs.career_years,
+              courses_created: inputs.courses_created,
+              jobs_completed: inputs.jobs_completed,
+              review_score: inputs.review_score,
+              consistency_multiplier: inputs.consistency_multiplier,
+              calculated_xp: xp,
+            });
+          }
+        } catch (error) {
+          console.error(`Error calculating XP for coach ${coach.username || coach.id}:`, error);
+          xp = 0;
+        }
+      }
 
-    if (roleParam) {
-      baseQuery = baseQuery.where('role', '==', roleParam);
-    }
-
-    // Add sorting
-    const sortOrder = sortOrderParam === 'asc' ? 'asc' : 'desc';
-    baseQuery = baseQuery.orderBy(sortByParam, sortOrder);
-
-    // Add limit
-    baseQuery = baseQuery.limit(limitParam);
-
-    // Execute query
-    const querySnapshot = await baseQuery.get();
-
-    let coaches = querySnapshot.docs.map((doc: any) => {
-      const data = doc.data();
       return {
-        id: doc.id,
-        ...data,
-        createdAt: data.createdAt?.toDate().toISOString() || null,
-        updatedAt: data.updatedAt?.toDate().toISOString() || null,
+        id: coach.id,
+        displayName: coach.displayName,
+        email: coach.email,
+        bio: coach.bio,
+        specialties: coach.specialties || [],
+        sports: coach.sports || [],
+        hourlyRate: coach.hourlyRate,
+        organization: coach.organization,
+        role: coach.role,
+        gender: coach.gender,
+        ageGroup: coach.ageGroup || [],
+        sourceUrl: coach.sourceUrl,
+        userId: coach.userId,
+        username: coach.username,
+        averageRating: coach.averageRating,
+        totalReviews: coach.totalReviews,
+        profileImage: coach.profileImage,
+        isVerified: coach.isVerified,
+        hasActiveServices: coach.hasActiveServices,
+        createdAt: coach.createdAt,
+        updatedAt: coach.updatedAt,
+        xp,
       };
     });
 
-    // Client-side filtering for more complex searches
-    if (searchTermParam) {
-      const searchTerm = searchTermParam.toLowerCase();
-      coaches = coaches.filter((coach: CoachData) => 
-        coach.displayName?.toLowerCase().includes(searchTerm) ||
-        coach.bio?.toLowerCase().includes(searchTerm) ||
-        coach.specialties?.some((s: string) => s.toLowerCase().includes(searchTerm)) ||
-        coach.sports?.some((s: string) => s.toLowerCase().includes(searchTerm)) ||
-        coach.organization?.toLowerCase().includes(searchTerm)
-      );
+    // Sort by XP if requested (highest first)
+    if (sortByXP) {
+      formattedCoaches.sort((a, b) => {
+        const xpA = a.xp || 0;
+        const xpB = b.xp || 0;
+        return xpB - xpA; // Highest first
+      });
+      
+      // Debug: Log top 5 coaches by XP
+      console.log('🏆 Top 5 coaches by XP:', formattedCoaches.slice(0, 5).map(c => ({
+        username: c.username,
+        displayName: c.displayName,
+        xp: c.xp
+      })));
+      
+      // Limit to requested number after sorting
+      formattedCoaches = formattedCoaches.slice(0, limitParam);
     }
 
-    if (organizationParam) {
-      coaches = coaches.filter((coach: CoachData) => 
-        coach.organization?.toLowerCase().includes(organizationParam.toLowerCase())
-      );
-    }
-
-    if (ageGroupParam) {
-      coaches = coaches.filter((coach: CoachData) => 
-        coach.ageGroup?.some((age: string) => age.toLowerCase().includes(ageGroupParam.toLowerCase()))
-      );
-    }
-
-    if (maxRateParam) {
-      const maxRate = parseFloat(maxRateParam);
-      coaches = coaches.filter((coach: CoachData) => coach.hourlyRate && coach.hourlyRate <= maxRate);
-    }
+    const count = formattedCoaches.length;
+    const hasMore = formattedCoaches.length === limitParam && coaches.length >= fetchLimit;
 
     return NextResponse.json({
-      coaches,
-      count: coaches.length,
-      page: parseInt(pageParam, 10),
+      coaches: formattedCoaches,
+      count,
+      page: pageParam,
       limit: limitParam,
-      hasMore: querySnapshot.docs.length === limitParam
+      hasMore
     });
 
   } catch (error) {
@@ -158,56 +250,95 @@ export async function GET(request: NextRequest) {
   }
 }
 
-// POST - Create a new coach profile
+// POST - Create a new coach profile in Firebase Data Connect
 export async function POST(request: NextRequest) {
   try {
+    // Verify Firebase token
     const token = request.headers.get('authorization')?.replace('Bearer ', '');
-    
     if (!token) {
-      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+      console.error('❌ No auth token provided');
+      return NextResponse.json({ error: 'No authentication token' }, { status: 401 });
     }
 
-    // Note: For production, you'd want to use firebase-admin here
-    // This is simplified for the example
-    
+    const decodedToken = await verifyFirebaseToken(token);
+    if (!decodedToken) {
+      console.error('❌ Invalid token');
+      return NextResponse.json({ error: 'Invalid token' }, { status: 401 });
+    }
+
+    const userId = decodedToken.uid;
+    const userEmail = decodedToken.email;
+
     const body = await request.json();
     
+    console.log('📝 Creating coach profile with data:', {
+      userId,
+      userEmail,
+      username: body.username,
+      displayName: body.displayName
+    });
+    
+    // Generate coach ID and username
+    const coachId = body.id || `coach_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`;
+    const username = (body.username || body.displayName?.toLowerCase().replace(/\s+/g, '_') || coachId).toLowerCase();
+
     // Validate required fields
-    const requiredFields = ['displayName', 'bio', 'sports', 'experience'];
-    for (const field of requiredFields) {
-      if (!body[field]) {
-        return NextResponse.json({ 
-          error: `${field} is required` 
-        }, { status: 400 });
-      }
+    if (!body.displayName) {
+      console.error('❌ Display name is missing');
+      return NextResponse.json({ error: 'Display name is required' }, { status: 400 });
     }
 
-    // Validate field types and values
-    if (!Array.isArray(body.sports) || body.sports.length === 0) {
-      return NextResponse.json({ 
-        error: 'At least one sport must be selected' 
-      }, { status: 400 });
+    if (!username) {
+      console.error('❌ Username is missing');
+      return NextResponse.json({ error: 'Username is required' }, { status: 400 });
     }
 
-    if (typeof body.experience !== 'number' || body.experience < 0 || body.experience > 50) {
-      return NextResponse.json({ 
-        error: 'Experience must be a number between 0 and 50' 
-      }, { status: 400 });
-    }
+    console.log('✅ Creating coach in Data Connect:', {
+      id: coachId,
+      username: username,
+      userId: userId,
+      displayName: body.displayName,
+      email: userEmail || body.email || ''
+    });
 
-    if (body.hourlyRate && (body.hourlyRate < 0 || body.hourlyRate > 1000)) {
+    // Create coach in Data Connect
+    const result = await createCoach(dataConnect, {
+      id: coachId,
+      username: username,
+      userId: userId,
+      displayName: body.displayName,
+      email: userEmail || body.email || '',
+    });
+
+    console.log('✅ Coach created successfully in Data Connect:', result);
+
+    return NextResponse.json({ 
+      success: true,
+      coachId: coachId,
+      username: username,
+      message: 'Coach profile created successfully'
+    });
+
+  } catch (error: any) {
+    console.error('❌ Error creating coach profile:', error);
+    console.error('Error details:', {
+      message: error.message,
+      code: error.code,
+      stack: error.stack
+    });
+    
+    // Check if coach already exists
+    if (error.message?.includes('ALREADY_EXISTS') || error.message?.includes('already exists') || error.message?.includes('unique constraint')) {
       return NextResponse.json({ 
-        error: 'Hourly rate must be between 0 and 1000' 
-      }, { status: 400 });
+        error: 'Coach profile already exists',
+        message: 'A coach profile already exists for this user'
+      }, { status: 409 });
     }
 
     return NextResponse.json({ 
-      success: true, 
-      message: 'Coach profile creation endpoint ready. Implement with proper authentication.' 
-    });
-
-  } catch (error) {
-    console.error('Error creating coach profile:', error);
-    return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
+      error: 'Failed to create coach profile',
+      details: error.message || 'Unknown error',
+      fullError: process.env.NODE_ENV === 'development' ? error.toString() : undefined
+    }, { status: 500 });
   }
-} 
+}

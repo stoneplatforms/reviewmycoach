@@ -1,8 +1,9 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { collection, query, where, getDocs, orderBy, doc, getDoc, limit } from 'firebase/firestore';
-import { auth, db } from '../../lib/firebase-client';
+import { useAuth } from '../../lib/hooks/useAuth';
+import { doc as firestoreDoc, getDoc } from 'firebase/firestore';
+import { db } from '../../lib/firebase-client';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import MessagingModal from '../../components/MessagingModal';
@@ -65,124 +66,115 @@ export default function CoachDashboard() {
   const [recipientId, setRecipientId] = useState<string | null>(null);
   const [recipientName, setRecipientName] = useState<string>('');
   const router = useRouter();
+  
+  // Use Firebase Auth
+  const { user, loading: authLoading } = useAuth();
 
   useEffect(() => {
-    const unsubscribe = auth.onAuthStateChanged(async (user) => {
+    if (!authLoading) {
       if (user) {
-        await fetchCoachData(user.uid);
-        await fetchConversations(user.uid);
+        fetchCoachData(user.uid);
+        fetchConversations(user.uid);
       } else {
-        router.push('/signin');
+        router.push('/signin?redirect=/dashboard/coach');
       }
       setLoading(false);
-    });
-
-    return () => unsubscribe();
-  }, [router]);
+    }
+  }, [user, authLoading, router]);
 
   const fetchCoachData = async (userId: string) => {
     setStatsLoading(true);
+    console.log('🔍 Fetching coach data for user:', userId);
+    
     try {
-      // First, get the user's username from their user profile
-      const userRef = doc(db, 'users', userId);
+      // First, get the user's username from their user profile in Firestore
+      const userRef = firestoreDoc(db, 'users', userId);
       const userSnap = await getDoc(userRef);
       let username = null;
+      
+      console.log('📄 User document exists:', userSnap.exists());
       
       if (userSnap.exists()) {
         const userData = userSnap.data();
         username = userData.username;
+        console.log('👤 Username from Firestore:', username);
+        console.log('📋 Full user data:', userData);
         
         if (username) {
-          console.log('Found username:', username, '- fetching coach profile...');
-          // Fetch coach profile using username as document ID
-          const coachRef = doc(db, 'coaches', username.toLowerCase());
-          const coachSnap = await getDoc(coachRef);
+          console.log('🔍 Fetching coach profile from Data Connect for username:', username);
           
-          if (coachSnap.exists()) {
-            console.log('✅ Coach profile found with username:', username);
-            // Explicitly include the username in the coach profile
-            setCoachProfile({ 
-              id: coachSnap.id, 
-              username: username, // ✨ Fix: Explicitly set the username
-              ...coachSnap.data() 
-            } as CoachProfile);
-          } else {
-            // Try fallback - search by userId instead of username
-            console.log('Coach profile not found with username, trying userId...');
-            const coachByUserIdRef = doc(db, 'coaches', userId);
-            const coachByUserIdSnap = await getDoc(coachByUserIdRef);
+          // Fetch coach profile from Data Connect via API
+          try {
+            const response = await fetch(`/api/coaches/by-username/${username.toLowerCase()}`);
+            console.log('📡 API response status:', response.status);
             
-            if (coachByUserIdSnap.exists()) {
-              console.log('✅ Coach profile found with userId fallback');
-              setCoachProfile({ 
-                id: coachByUserIdSnap.id, 
-                username: username, // Use the username from user profile
-                ...coachByUserIdSnap.data() 
-              } as CoachProfile);
+            if (response.ok) {
+              const data = await response.json();
+              console.log('📦 Coach data received:', data);
+              
+              if (data.coach) {
+                console.log('✅ Coach profile found, setting state');
+                setCoachProfile({
+                  id: data.coach.id,
+                  username: username,
+                  displayName: data.coach.displayName,
+                  bio: data.coach.bio,
+                  sports: data.coach.sports || [],
+                  experience: data.coach.experience || 0,
+                  certifications: data.coach.certifications || [],
+                  hourlyRate: data.coach.hourlyRate || 0,
+                  averageRating: data.coach.averageRating || 0,
+                  totalReviews: data.coach.totalReviews || 0,
+                  profileImage: data.coach.profileImage,
+                  isVerified: data.coach.isVerified || false,
+                  organization: data.coach.organization,
+                  role: data.coach.role,
+                  gender: data.coach.gender,
+                  ageGroup: data.coach.ageGroup || [],
+                  sourceUrl: data.coach.sourceUrl,
+                });
+              } else {
+                console.warn('⚠️ No coach data in API response');
+              }
             } else {
-              console.log('❌ No coach profile found with username or userId');
+              console.warn('⚠️ API call failed with status:', response.status);
+              const errorText = await response.text();
+              console.error('Error response:', errorText);
             }
+          } catch (error) {
+            console.error('❌ Error fetching coach profile:', error);
           }
         } else {
-          console.log('No username found for user');
-          // Try to fetch coach profile directly by userId as fallback
-          const coachByUserIdRef = doc(db, 'coaches', userId);
-          const coachByUserIdSnap = await getDoc(coachByUserIdRef);
-          
-          if (coachByUserIdSnap.exists()) {
-            console.log('✅ Coach profile found without username in user profile');
-            const coachData = coachByUserIdSnap.data();
-            setCoachProfile({ 
-              id: coachByUserIdSnap.id, 
-              username: coachData.username || null, // Use username from coach document if available
-              ...coachData 
-            } as CoachProfile);
-          } else {
-            console.log('❌ No coach profile found at all');
-          }
+          console.warn('⚠️ No username found in Firestore user data');
         }
       } else {
-        console.log('User profile not found');
+        console.error('❌ User profile not found in Firestore');
       }
 
-      // Fetch reviews and classes if we have coach data
-      const coachDocId = username ? username.toLowerCase() : userId;
-      
-      try {
-        // Fetch recent reviews using coach document ID
-        const reviewsRef = collection(db, 'coaches', coachDocId, 'reviews');
-        const reviewsQuery = query(
-          reviewsRef,
-          orderBy('createdAt', 'desc'),
-          limit(5)
-        );
-        const reviewsSnapshot = await getDocs(reviewsQuery);
-        const reviewsData: Review[] = [];
-        reviewsSnapshot.forEach((doc) => {
-          reviewsData.push({ id: doc.id, ...doc.data() } as Review);
-        });
-        setReviews(reviewsData);
-      } catch (reviewError) {
-        console.log('No reviews found or error fetching reviews:', reviewError);
+      // Fetch reviews from Data Connect
+      if (username) {
+        try {
+          const reviewsResponse = await fetch(`/api/reviews?coachUsername=${username.toLowerCase()}&limit=5`);
+          if (reviewsResponse.ok) {
+            const reviewsData = await reviewsResponse.json();
+            if (reviewsData.reviews) {
+              setReviews(reviewsData.reviews.map((r: any) => ({
+                id: r.id,
+                studentId: r.userId,
+                studentName: r.studentName,
+                rating: r.rating,
+                reviewText: r.reviewText,
+                createdAt: r.createdAt ? { toDate: () => new Date(r.createdAt) } : undefined,
+              })));
+            }
+          }
+        } catch (reviewError) {
+          console.log('No reviews found or error fetching reviews:', reviewError);
+        }
       }
 
-      try {
-        // Fetch active classes - try both coachId patterns
-        const classesRef = collection(db, 'classes');
-        const classesQuery = query(
-          classesRef,
-          where('coachId', '==', username || userId),
-          where('status', '==', 'active')
-        );
-        const classesSnapshot = await getDocs(classesQuery);
-        const classesData: Class[] = [];
-        classesSnapshot.forEach((doc) => {
-          classesData.push({ id: doc.id, ...doc.data() } as Class);
-        });
-        setClasses(classesData);
-      } catch (classError) {
-        console.log('No classes found or error fetching classes:', classError);
-      }
+      // Classes - keeping empty for now as they're not in Data Connect yet
+      setClasses([]);
 
     } catch (error) {
       console.error('Error fetching coach data:', error);
@@ -204,31 +196,21 @@ export default function CoachDashboard() {
   };
 
   const resolveDisplayName = async (targetUserId: string): Promise<string> => {
-    // Try user profile first
+    // Try user profile first from Firestore
     try {
-      const userRef = doc(db, 'users', targetUserId);
+      const userRef = firestoreDoc(db, 'users', targetUserId);
       const userSnap = await getDoc(userRef);
       if (userSnap.exists()) {
         const u = userSnap.data() as any;
         return u.displayName || u.username || u.email || 'User';
       }
     } catch {}
-    // Then try coaches by userId
-    try {
-      const coachesRef = collection(db, 'coaches');
-      const q = query(coachesRef, where('userId', '==', targetUserId));
-      const snap = await getDocs(q);
-      if (!snap.empty) {
-        const c = snap.docs[0].data() as any;
-        return c.displayName || c.username || 'User';
-      }
-    } catch {}
     return 'User';
   };
 
   const openConversationModal = async (conversation: Conversation) => {
-    const currentUserId = auth.currentUser?.uid;
-    if (!currentUserId) return;
+    if (!user) return;
+    const currentUserId = user.uid;
     const otherId = conversation.participants.find((p) => p !== currentUserId) || '';
     setRecipientId(otherId);
     setRecipientName(await resolveDisplayName(otherId));
@@ -257,18 +239,59 @@ export default function CoachDashboard() {
     );
   };
 
-  if (loading) {
+  if (loading || authLoading) {
     return (
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="flex items-center justify-center h-64">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-600"></div>
+      <div className="min-h-screen bg-white flex items-center justify-center">
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-900 mx-auto mb-4"></div>
+          <p className="text-gray-600">Loading your dashboard...</p>
+        </div>
+      </div>
+    );
+  }
+
+  if (!user) {
+    return (
+      <div className="min-h-screen bg-white flex items-center justify-center">
+        <div className="text-center">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4">Not authenticated</h2>
+          <p className="text-gray-600 mb-4">Please sign in to view your dashboard.</p>
+          <a href="/signin" className="text-red-600 hover:text-red-700 font-medium">
+            Go to Sign In →
+          </a>
+        </div>
+      </div>
+    );
+  }
+
+  if (!coachProfile && !statsLoading) {
+    return (
+      <div className="min-h-screen bg-white flex items-center justify-center">
+        <div className="text-center max-w-md">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4">No Coach Profile Found</h2>
+          <p className="text-gray-600 mb-4">
+            We couldn't find your coach profile. This might be because:
+          </p>
+          <ul className="text-left text-sm text-gray-600 mb-6 space-y-2">
+            <li>• Your profile is still being set up</li>
+            <li>• You haven't completed onboarding</li>
+            <li>• There was an issue creating your profile</li>
+          </ul>
+          <div className="space-x-4">
+            <a href="/onboarding" className="inline-block px-6 py-3 bg-red-600 text-white rounded-lg hover:bg-red-700 font-medium">
+              Complete Onboarding
+            </a>
+            <a href="/" className="inline-block px-6 py-3 bg-gray-200 text-gray-900 rounded-lg hover:bg-gray-300 font-medium">
+              Go Home
+            </a>
+          </div>
         </div>
       </div>
     );
   }
 
   // Generate profile URL using username if available, fallback to UID
-  const profileUrl = coachProfile?.username ? `/coach/${coachProfile.username}` : null;
+  const profileUrl = coachProfile?.username ? `/coach/${coachProfile.username.toLowerCase()}` : null;
   const fullProfileUrl = profileUrl && typeof window !== 'undefined' ? `${window.location.origin}${profileUrl}` : null;
 
   const stats = [
@@ -338,7 +361,7 @@ export default function CoachDashboard() {
           </div>
           <div className="flex space-x-3">
             <Link
-              href="/profile"
+              href="/dashboard/coach/profile/edit"
               className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium text-gray-900 bg-white border border-gray-300 hover:bg-gray-50"
             >
               <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -663,6 +686,26 @@ export default function CoachDashboard() {
             </Link>
 
             <Link
+              href="/dashboard/coach/cards"
+              className="flex items-center p-3 border border-gray-200 rounded-xl hover:bg-gray-50 transition-colors"
+            >
+              <div className="flex-shrink-0">
+                <svg className="w-6 h-6 text-neutral-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5.121 17.804A13.937 13.937 0 0112 16c2.5 0 4.847.655 6.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zm6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+              </div>
+              <div className="ml-3 flex-1">
+                <h4 className="text-sm font-medium text-gray-900">Profile Cards</h4>
+                <p className="text-xs text-gray-600">Unlock tier cards & browse marketplace</p>
+              </div>
+              <div className="ml-auto">
+                <svg className="w-4 h-4 text-neutral-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                </svg>
+              </div>
+            </Link>
+
+            <Link
               href="/dashboard/coach/jobs"
               className="flex items-center p-3 border border-gray-200 rounded-xl hover:bg-gray-50 transition-colors"
             >
@@ -717,8 +760,8 @@ export default function CoachDashboard() {
             {conversations.length > 0 ? (
               <div className="divide-y divide-gray-200">
                 {conversations.slice(0, 6).map((c) => {
-                  const unread = c.unreadCount?.[auth.currentUser?.uid || ''] || 0;
-                  const other = c.participants.find((p) => p !== auth.currentUser?.uid) || 'Conversation';
+                  const unread = c.unreadCount?.[user?.uid || ''] || 0;
+                  const other = c.participants.find((p) => p !== user?.uid) || 'Conversation';
                   return (
                     <button
                       key={c.id}
@@ -753,7 +796,7 @@ export default function CoachDashboard() {
         onClose={() => setMessagesOpen(false)}
         recipientId={recipientId || ''}
         recipientName={recipientName}
-        user={auth.currentUser}
+        user={user}
       />
     </div>
   );

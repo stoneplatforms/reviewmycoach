@@ -15,6 +15,7 @@ interface Coach {
   averageRating: number;
   totalReviews: number;
   profileImage?: string;
+  activeCardImageUrl?: string;
   isVerified: boolean;
   specialties?: string[];
   hasActiveServices?: boolean;
@@ -53,7 +54,7 @@ export default function CoachCard({ coach }: CoachCardProps) {
   };
 
   // Use username for URL if available, fallback to ID-based route for backward compatibility
-  const profileUrl = coach.username ? `/coach/${coach.username}` : `/coach/${coach.id}`;
+  const profileUrl = coach.username ? `/coach/${coach.username.toLowerCase()}` : `/coach/${coach.id}`;
 
   return (
     <Link
@@ -63,9 +64,22 @@ export default function CoachCard({ coach }: CoachCardProps) {
       <div className="p-6 flex flex-col h-full">
         {/* Header */}
         <div className="flex items-start space-x-4 mb-4">
-          {/* Profile Image */}
+          {/* Profile Image with Card Background */}
           <div className="relative flex-shrink-0">
-            <div className="w-16 h-16 bg-gray-100 border border-gray-200 flex items-center justify-center overflow-hidden rounded-md">
+            {/* Card Background */}
+            {coach.activeCardImageUrl && (
+              <div className="absolute inset-0 w-20 h-20 -left-2 -top-2 z-0">
+                <Image
+                  src={coach.activeCardImageUrl}
+                  alt="Profile Card"
+                  width={80}
+                  height={80}
+                  className="w-full h-full object-cover rounded-lg opacity-90"
+                />
+              </div>
+            )}
+            {/* Profile Image */}
+            <div className="relative z-10 w-16 h-16 bg-gray-100 border-2 border-white flex items-center justify-center overflow-hidden rounded-md shadow-sm">
               {coach.profileImage ? (
                 <Image
                   src={coach.profileImage}
@@ -79,7 +93,7 @@ export default function CoachCard({ coach }: CoachCardProps) {
               )}
             </div>
             {coach.isVerified && (
-              <div className="absolute -bottom-1 -right-1 bg-white border border-red-200 p-1 rounded-full">
+              <div className="absolute -bottom-1 -right-1 z-20 bg-white border border-red-200 p-1 rounded-full">
                 <svg className="w-3 h-3 text-red-600" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
@@ -91,7 +105,7 @@ export default function CoachCard({ coach }: CoachCardProps) {
           <div className="flex-1 min-w-0">
             <div className="flex items-center gap-2 mb-1">
               <h3 className="text-lg font-medium text-gray-900 truncate transition-colors">
-                {coach.displayName}
+                {coach.displayName || coach.username || 'Unnamed Coach'}
               </h3>
               {coach.isVerified && (
                 <span className="inline-flex items-center px-2 py-1 text-xs font-medium bg-red-50 text-red-700 border border-red-200 rounded-full">

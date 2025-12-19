@@ -1,0 +1,13 @@
+specVersion: 'v1alpha'
+serviceId: 'review-my-coach-service'
+location: 'us-east4'
+schema:
+  source: './schema'
+  datasource:
+    postgresql:
+      database: 'review-my-coach-database'
+      cloudSql:
+        instanceId: 'review-my-coach-instance'
+connectorDirs:
+  - './connectors'
+

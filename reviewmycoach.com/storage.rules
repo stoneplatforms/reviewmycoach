@@ -1,0 +1,28 @@
+rules_version = '2';
+
+service firebase.storage {
+  match /b/{bucket}/o {
+    
+    // Allow authenticated users to read any file (for public profile images)
+    match /{allPaths=**} {
+      allow read: if request.auth != null;
+    }
+    
+    // Coaches can upload/update their own profile image
+    match /coaches/{userId}/{fileName} {
+      allow write: if request.auth != null && request.auth.uid == userId;
+      allow read: if true; // Public read for profile images
+    }
+    
+    // Allow authenticated users to upload to their own user folder
+    match /users/{userId}/{allPaths=**} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+    
+    // Deny everything else
+    match /{allPaths=**} {
+      allow read, write: if false;
+    }
+  }
+}
+

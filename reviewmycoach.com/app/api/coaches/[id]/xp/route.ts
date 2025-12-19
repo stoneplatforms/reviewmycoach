@@ -1,14 +1,34 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { db, findCoachByUserId } from '../../../../lib/firebase-admin';
+import { initializeApp, getApps } from 'firebase/app';
+import { getDataConnect } from 'firebase/data-connect';
+import { getCoachByUsername } from '../../../../lib/dataconnect';
 import {
   calculateCoachXP,
-  mapSubscriptionToTier,
-  calculateYearsBetween,
-  calculateConsistencyMultiplier,
   formatXPBreakdown,
   type XPCalculationInputs,
   type XPResult,
 } from '../../../../lib/xp-calculator';
+
+// Initialize Firebase Client for Data Connect
+let clientApp;
+if (getApps().length === 0) {
+  clientApp = initializeApp({
+    apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+    authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+    projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+    storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
+    messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+    appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
+  });
+} else {
+  clientApp = getApps()[0];
+}
+
+const dataConnect = getDataConnect(clientApp, {
+  connector: 'reviewmycoach',
+  location: 'us-east4',
+  service: 'review-my-coach-service'
+});
 
 /**
  * GET /api/coaches/[id]/xp
@@ -28,109 +48,43 @@ export async function GET(
     const { searchParams } = new URL(request.url);
     const userIdParam = searchParams.get('userId');
 
-    let coachDoc;
     let coachData;
 
-    // If userId is provided, search by userId
-    if (userIdParam) {
-      const coachProfile = await findCoachByUserId(userIdParam);
-      if (!coachProfile) {
-        return NextResponse.json({ error: 'Coach not found' }, { status: 404 });
-      }
-      coachDoc = coachProfile.doc;
-      coachData = coachProfile.data;
-    } else {
-      // Otherwise, search by coach ID (username)
-      const coachRef = db.doc(`coaches/${coachId}`);
-      const coachSnap = await coachRef.get();
-
-      if (!coachSnap.exists) {
-        return NextResponse.json({ error: 'Coach not found' }, { status: 404 });
-      }
-
-      coachData = coachSnap.data();
-      if (!coachData) {
-        return NextResponse.json({ error: 'Coach data not found' }, { status: 404 });
-      }
-    }
-
-    // Get subscription tier
-    const subscriptionStatus = coachData.subscriptionStatus || 'inactive';
-    const subscriptionPlan = coachData.subscriptionPlan || null;
-    const subscription_tier = mapSubscriptionToTier(subscriptionStatus, subscriptionPlan);
-
-    // Calculate platform longevity (years since joining RMC)
-    const createdAt = coachData.createdAt?.toDate?.() || coachData.createdAt || null;
-    const subscriptionStartDate = coachData.subscriptionStartDate?.toDate?.() || coachData.subscriptionStartDate || null;
+    // Fetch coach from Data Connect (by username, which is the coachId)
+    const username = coachId.toLowerCase();
+    const coachResult = await getCoachByUsername(dataConnect, { username });
     
-    // Use subscription start date if available, otherwise use createdAt
-    const platformStartDate = subscriptionStartDate || createdAt;
-    const longevity_platform_years = calculateYearsBetween(platformStartDate);
-
-    // Get career years (from experience field or careerYears)
-    const career_years = coachData.experience || coachData.careerYears || 0;
-
-    // Count courses created
-    let courses_created = 0;
-    try {
-      const coursesQuery = db.collection('courses')
-        .where('coachId', '==', coachData.userId || coachId)
-        .where('isActive', '==', true);
-      const coursesSnapshot = await coursesQuery.get();
-      courses_created = coursesSnapshot.size;
-    } catch (error) {
-      console.error('Error fetching courses:', error);
-      // Use cached value if available
-      courses_created = coachData.totalCourses || 0;
+    if (!coachResult.data.coaches || coachResult.data.coaches.length === 0) {
+      return NextResponse.json({ error: 'Coach not found' }, { status: 404 });
     }
 
-    // Count jobs completed (from bookings and job applications)
-    let jobs_completed = 0;
-    try {
-      // Count completed bookings
-      const bookingsQuery = db.collection('bookings')
-        .where('coachId', '==', coachData.userId || coachId)
-        .where('status', '==', 'completed');
-      const bookingsSnapshot = await bookingsQuery.get();
-      const completedBookings = bookingsSnapshot.size;
+    const coach = coachResult.data.coaches[0];
+    
+    // Map Data Connect fields to the format expected by XP calculator
+    coachData = {
+      userId: coach.userId,
+      username: coach.username,
+      displayName: coach.displayName,
+      email: coach.email,
+      subscriptionTier: coach.subscriptionTier || 0,
+      longevityPlatformYears: coach.longevityPlatformYears || 0,
+      careerYears: coach.careerYears || 0,
+      coursesCreated: coach.coursesCreated || 0,
+      jobsCompleted: coach.jobsCompleted || 0,
+      averageRating: coach.averageRating || 0,
+      totalReviews: coach.totalReviews || 0,
+      consistencyMultiplier: coach.consistencyMultiplier || 1.0,
+      createdAt: coach.createdAt ? new Date(coach.createdAt) : new Date(),
+    };
 
-      // Count accepted/completed job applications
-      const applicationsQuery = db.collection('job_applications')
-        .where('coachId', '==', coachData.userId || coachId)
-        .where('status', 'in', ['accepted', 'completed']);
-      const applicationsSnapshot = await applicationsQuery.get();
-      const completedApplications = applicationsSnapshot.size;
-
-      jobs_completed = completedBookings + completedApplications;
-    } catch (error) {
-      console.error('Error fetching jobs/completed bookings:', error);
-      // Use cached value if available
-      jobs_completed = coachData.jobsCompleted || coachData.totalJobsCompleted || 0;
-    }
-
-    // Get review score
-    const review_score = coachData.averageRating || 0;
-
-    // Calculate consistency multiplier
-    // This is a simplified version - you may want to enhance this based on actual session data
-    let consistency_multiplier = 1.0;
-    try {
-      // Get total bookings (completed + confirmed) to calculate consistency
-      const allBookingsQuery = db.collection('bookings')
-        .where('coachId', '==', coachData.userId || coachId)
-        .where('status', 'in', ['confirmed', 'completed']);
-      const allBookingsSnapshot = await allBookingsQuery.get();
-      const totalSessions = allBookingsSnapshot.size;
-
-      // Calculate months active
-      const monthsActive = Math.max(1, longevity_platform_years * 12);
-
-      consistency_multiplier = calculateConsistencyMultiplier(totalSessions, monthsActive);
-    } catch (error) {
-      console.error('Error calculating consistency multiplier:', error);
-      // Default to 1.0 if calculation fails
-      consistency_multiplier = 1.0;
-    }
+    // Use XP fields directly from Data Connect (they're already stored there)
+    const subscription_tier = coachData.subscriptionTier;
+    const longevity_platform_years = coachData.longevityPlatformYears;
+    const career_years = coachData.careerYears;
+    const courses_created = coachData.coursesCreated;
+    const jobs_completed = coachData.jobsCompleted;
+    const review_score = coachData.averageRating;
+    const consistency_multiplier = coachData.consistencyMultiplier;
 
     // Prepare inputs for XP calculation
     const inputs: XPCalculationInputs = {
@@ -149,11 +103,29 @@ export async function GET(
     // Format breakdown for display
     const breakdownText = formatXPBreakdown(xpResult.breakdown);
 
+    // Auto-unlock tier cards if XP qualifies (fire and forget)
+    if (xpResult.total_xp > 0 && userIdParam && coachData.username) {
+      // Trigger tier card unlock in background (don't await)
+      fetch(`${request.nextUrl.origin}/api/cards/tier/direct`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ 
+          userId: userIdParam,
+          username: coachData.username,
+          totalXP: xpResult.total_xp
+        })
+      }).catch(err => {
+        // Log error but don't fail the XP calculation
+        console.error('Failed to auto-unlock tier cards:', err);
+      });
+    }
+
     // Return result
     return NextResponse.json({
       coachId: userIdParam ? coachData.userId : coachId,
       coachUsername: coachData.username || coachId,
       coachName: coachData.displayName || 'Unknown Coach',
+      total_xp: xpResult.total_xp,
       xp: xpResult.total_xp,
       tier: xpResult.tier,
       tier_number: xpResult.tier_number,
@@ -161,7 +133,6 @@ export async function GET(
       breakdown_text: breakdownText,
       inputs: {
         subscription_tier,
-        subscription_status: subscriptionStatus,
         longevity_platform_years: Math.round(longevity_platform_years * 100) / 100,
         career_years,
         courses_created,

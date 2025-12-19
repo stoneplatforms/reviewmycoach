@@ -458,7 +458,7 @@ export default function BookingModal({ isOpen, onClose, coach, services, user }:
           {/* How it Works Info */}
           {step === 1 && (
             <div className="mt-8 p-4 bg-blue-50 rounded-lg">
-              <h4 className="text-sm font-medium text-blue-900 mb-2">How it works:</h4>
+              <h4 className="text-sm font-medium text-blue-900 mb-2">How It Works:</h4>
               <ol className="text-sm text-blue-800 space-y-1 list-decimal list-inside">
                 <li>Choose and book a service</li>
                 <li>Provide your contact details and preferences</li>

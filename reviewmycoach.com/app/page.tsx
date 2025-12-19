@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="min-h-screen">
       {/* Hero Section - Photo backdrop with centered card/bubbles */}
-      <div className="relative overflow-hidden text-neutral-200">
+      <div className="relative text-neutral-200 w-full">
         {/* Background image */}
         <div className="absolute inset-0 -z-10">
           <Image
@@ -27,7 +27,7 @@ export default function Home() {
         {/* Title */}
         <div className="pt-20 sm:pt-28 text-center px-4">
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-wide text-white">
-            review your coach, anonymously.
+            Review Your Coach, Anonymously.
           </h1>
           <p className="mt-3 text-base sm:text-lg text-neutral-300">
             Leave a review, show how you did.
@@ -35,18 +35,15 @@ export default function Home() {
         </div>
 
         {/* Center card with coach image and rating */}
-        <div className="relative mx-auto mt-8 sm:mt-10 max-w-lg sm:max-w-xl md:max-w-2xl px-4">
+        <div className="relative mx-auto mt-4 sm:mt-6 max-w-sm sm:max-w-md md:max-w-lg px-4 z-10">
           {/* Gradient 2px border wrapper */}
           <div className="relative mx-auto rounded-3xl p-[2px] bg-gradient-to-br from-white to-black shadow-[0_10px_40px_rgba(0,0,0,0.5)]">
-            <div className="relative h-[440px] sm:h-[520px] rounded-3xl bg-black backdrop-blur-md overflow-hidden flex items-center justify-center" style={{ boxShadow: 'inset 0 -220px 200px -40px rgba(0,0,0,0.95)' }}>
+            <div className="relative h-[480px] sm:h-[580px] rounded-3xl bg-black backdrop-blur-md flex items-end justify-center pb-4" style={{ boxShadow: 'inset 0 -220px 200px -40px rgba(0,0,0,0.95)' }}>
             {/* Coach image - use profileImage from bubbles when available in the future; keep decorative image for hero */}
-            <Image
+            <img
               src="/hero/coach.png"
               alt="Coach portrait"
-              width={460}
-              height={600}
-              className="h-[360px] sm:h-[420px] w-auto object-contain drop-shadow-[0_8px_30px_rgba(0,0,0,0.6)]"
-              priority
+              className="hero-coach-image w-auto object-contain drop-shadow-[0_8px_30px_rgba(0,0,0,0.6)]"
             />
             {/* Rating badge */}
             <div className="absolute top-4 right-6 flex items-center gap-2">
@@ -58,18 +55,18 @@ export default function Home() {
             <div className="pointer-events-none absolute inset-0 z-50 rounded-3xl" style={{ boxShadow: 'inset 0 -260px 260px 0 rgba(0,0,0,0.98)' }} />
             </div>
             {/* Message bubbles INSIDE the card wrapper, positioned with transforms */}
-            <div className="pointer-events-none absolute left-0 top-0 z-20" style={{ transform: 'translate3d(-7rem, 2rem, 0)', willChange: 'transform' }}>
-              <Image src="/hero/msg-left.png" alt="message bubble" width={280} height={120} className="w-56 sm:w-72 h-auto opacity-90" />
+            <div className="pointer-events-none absolute left-0 top-0 z-20 hidden sm:block" style={{ transform: 'translate3d(-9rem, 6rem, 0)', willChange: 'transform' }}>
+              <Image src="/hero/msg-left.png" alt="message bubble" width={280} height={120} className="w-56 sm:w-72 h-auto opacity-90 max-w-none" />
             </div>
-            <div className="pointer-events-none absolute right-0 bottom-0 z-20" style={{ transform: 'translate3d(8.5rem, -11rem, 0)', willChange: 'transform' }}>
-              <Image src="/hero/msg-right.png" alt="message bubble" width={300} height={120} className="w-60 sm:w-72 h-auto opacity-90" />
+            <div className="pointer-events-none absolute right-0 bottom-0 z-20 hidden sm:block" style={{ transform: 'translate3d(8.5rem, -11rem, 0)', willChange: 'transform' }}>
+              <Image src="/hero/msg-right.png" alt="message bubble" width={300} height={120} className="w-60 sm:w-72 h-auto opacity-90 max-w-none" />
             </div>
           </div>
         </div>
 
-        {/* Search input overlapping slightly so the card appears to fade behind */}
-        <div className="relative -mt-8 sm:-mt-10 pb-20 px-4 z-20">
-          <div className="max-w-4xl mx-auto">
+        {/* Search input overlapping bottom of card to create rising effect */}
+        <div className="relative -mt-8 sm:-mt-10 pb-20 px-4 z-30">
+          <div className="max-w-2xl mx-auto">
             <GlobalSearchBar placeholder="Enter your school to start" inputClassName="py-4 text-lg" />
           </div>
         </div>
@@ -128,6 +125,58 @@ export default function Home() {
           </div>
         </div>
       </div>
+
+      {/* About Henry Kang Section */}
+      <section className="relative w-full min-h-[900px]">
+        {/* Black background base */}
+        <div className="absolute inset-0 bg-black"></div>
+        
+        {/* Blue diagonal section */}
+        <div 
+          className="absolute inset-0 bg-blue-600"
+          style={{
+            clipPath: 'polygon(0 50%, 100% 0, 100% 100%, 0 100%)'
+          }}
+        />
+
+        {/* Content container */}
+        <div className="relative z-10 w-full px-4 sm:px-6 lg:px-8 pt-20 pb-32 min-h-[900px] flex items-end justify-center">
+          <div className="flex flex-col lg:flex-row lg:items-end w-full max-w-7xl lg:gap-0">
+            {/* Left side - Text content */}
+            <div className="relative z-20 max-w-2xl lg:mr-8 mx-auto lg:mx-0">
+              <h2 className="text-4xl sm:text-5xl font-bold text-white mb-8">About Henry Kang</h2>
+              <div className="space-y-5 text-white/90 leading-relaxed text-lg">
+                <p>
+                  Henry Kang created ReviewMyCoach after seeing how difficult it was for athletes and
+                  parents to evaluate coaching options. Information was scattered, reviews were hard to
+                  trust, and great coaches were often hidden.
+                </p>
+                <p>
+                  Inspired by the simplicity of platforms like Rate My Professors, Henry set out to build
+                  a space where coaches could be discovered for their expertise and where athletes could
+                  share real experiences—good or bad—to help others.
+                </p>
+                <p>
+                  ReviewMyCoach is Henry's ongoing effort to bring clarity, fairness, and opportunity to
+                  the coaching world, elevating both athletes and the coaches who help them grow.
+                </p>
+              </div>
+            </div>
+
+            {/* Right side - Profile image */}
+            <div className="relative flex items-center justify-center lg:justify-end lg:ml-0 mt-8 lg:mt-0">
+              <div className="relative w-full max-w-xl lg:max-w-2xl xl:max-w-3xl">
+                <div className="bg-gray-200 rounded-xl flex flex-col items-center justify-center p-24 lg:p-28 xl:p-32 border-4 border-white shadow-2xl">
+                  <svg className="w-56 h-56 lg:w-64 lg:h-64 xl:w-72 xl:h-72 mb-6 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+                  </svg>
+                  <p className="text-gray-900 font-semibold text-2xl lg:text-3xl xl:text-4xl">Henry Kang</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
       {/* Coach Pro Promo */}
       <CoachProPromoSection />

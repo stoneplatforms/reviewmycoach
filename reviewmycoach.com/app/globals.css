@@ -58,6 +58,12 @@
   --color-sport-secondary: var(--sport-secondary);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-sporty: var(--font-racing), sans-serif;
+}
+
+html {
+  overflow-x: hidden;
+  max-width: 100vw;
 }
 
 body {
@@ -66,6 +72,43 @@ body {
   font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
   line-height: 1.6;
   color-scheme: dark;
+  overflow-x: hidden;
+  max-width: 100vw;
+  position: relative;
+}
+
+/* Apply sporty font to all headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-racing) !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.05em !important;
+  line-height: 1.1 !important;
+  text-transform: uppercase !important;
+}
+
+/* Prevent horizontal overflow globally */
+main, section {
+  overflow-x: hidden;
+}
+
+/* Ensure images and media don't overflow */
+/* Only apply max-width to prevent horizontal overflow */
+/* Don't set height: auto globally as it overrides Tailwind height classes */
+img, video, iframe {
+  max-width: 100%;
+}
+
+/* Hero coach image styling */
+img.hero-coach-image {
+  height: 440px;
+  max-width: none;
+  width: auto;
+}
+
+@media (min-width: 640px) {
+  img.hero-coach-image {
+    height: 520px;
+  }
 }
 
 /* Custom scrollbar for dark theme */
