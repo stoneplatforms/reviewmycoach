@@ -61,6 +61,7 @@ type Coach @table(name: "coaches") {
   coursesCreated: Int @col(name: "courses_created")
   jobsCompleted: Int @col(name: "jobs_completed")
   consistencyMultiplier: Float @col(name: "consistency_multiplier")
+  totalXp: Int @col(name: "total_xp")
   claimedAt: Timestamp @col(name: "claimed_at")
   createdAt: Timestamp @col(name: "created_at")
   updatedAt: Timestamp @col(name: "updated_at")

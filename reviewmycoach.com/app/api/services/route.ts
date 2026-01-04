@@ -226,9 +226,11 @@ export async function GET(req: NextRequest) {
 
   } catch (error) {
     console.error('Error fetching services:', error);
-    return NextResponse.json(
-      { error: 'Failed to fetch services' },
-      { status: 500 }
-    );
+    // Return empty array instead of error so page can still load
+    return NextResponse.json({
+      services: [],
+      error: 'Services temporarily unavailable',
+      fallback: true
+    });
   }
 } 

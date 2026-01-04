@@ -61,15 +61,40 @@ query GetCoach($id: String!) @auth(level: PUBLIC) {
     userId
     displayName
     email
+    phoneNumber
     bio
     sports
+    specialties
+    certifications
     location
+    organization
+    role
+    gender
+    ageGroup
+    availability
+    languages
+    website
+    socialMedia
     hourlyRate
+    experience
     averageRating
     totalReviews
     profileImage
+    isVerified
     isClaimed
+    sourceUrl
     subscriptionStatus
+    subscriptionTier
+    longevityPlatformYears
+    careerYears
+    coursesCreated
+    jobsCompleted
+    consistencyMultiplier
+    totalXp
+    activeCardId
+    activeCardImageUrl
+    createdAt
+    updatedAt
   }
 }
 
@@ -107,6 +132,7 @@ query GetCoachByUsername($username: String!) @auth(level: PUBLIC, insecureReason
     coursesCreated
     jobsCompleted
     consistencyMultiplier
+    totalXp
     activeCardId
     activeCardImageUrl
     createdAt
@@ -236,6 +262,35 @@ query GetPublicCoaches($limit: Int, $offset: Int) @auth(level: PUBLIC, insecureR
     jobsCompleted
     consistencyMultiplier
     isClaimed
+    createdAt
+    updatedAt
+  }
+}
+
+# Get top coaches by XP (pre-calculated totalXp field)
+query GetTopCoachesByXP($limit: Int) @auth(level: PUBLIC, insecureReason: "Public coach listing for homepage") {
+  coaches(
+    orderBy: {totalXp: DESC}
+    limit: $limit
+  ) {
+    id
+    username
+    userId
+    displayName
+    bio
+    sports
+    specialties
+    location
+    organization
+    role
+    hourlyRate
+    averageRating
+    totalReviews
+    profileImage
+    isVerified
+    hasActiveServices
+    isClaimed
+    totalXp
     createdAt
     updatedAt
   }

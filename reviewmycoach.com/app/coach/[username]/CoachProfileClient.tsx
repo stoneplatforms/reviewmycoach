@@ -5,7 +5,7 @@ import { User } from 'firebase/auth';
 import { auth } from '../../lib/firebase-client';
 import Image from 'next/image';
 import { useRealtimeReviews, useRealtimeCoach } from '../../lib/hooks/useRealtimeReviews';
-import { calculateCoachXP, getCoachTier, formatXPBreakdown, type XPCalculationInputs } from '../../lib/xp-calculator';
+import { getCoachTier } from '../../lib/xp-calculator';
 import RealtimeReviewModal from '../../components/RealtimeReviewModal';
 import BookingModal from '../../components/BookingModal';
 import MessagingModal from '../../components/MessagingModal';
@@ -20,20 +20,20 @@ interface CoachProfile {
   displayName: string;
   email?: string;
   bio: string;
-  sports: string[];
-  experience: number;
-  certifications: string[];
-  hourlyRate: number;
-  location: string;
-  availability: string[];
-  specialties: string[];
-  languages: string[];
-  averageRating: number;
-  totalReviews: number;
+  sports?: string[];
+  experience?: number;
+  certifications?: string[];
+  hourlyRate?: number;
+  location?: string;
+  availability?: string[];
+  specialties?: string[];
+  languages?: string[];
+  averageRating?: number;
+  totalReviews?: number;
   profileImage?: string;
   phoneNumber?: string;
   website?: string;
-  isVerified: boolean;
+  isVerified?: boolean;
   organization?: string;
   role?: string;
   gender?: string;
@@ -44,15 +44,16 @@ interface CoachProfile {
     twitter?: string;
     linkedin?: string;
   };
-  activeCardImageUrl?: string; // Tier card background
+  activeCardId?: string;
+  activeCardImageUrl?: string;
   username?: string;
-  // XP calculation fields from database
   subscriptionTier?: number;
   longevityPlatformYears?: number;
   careerYears?: number;
   coursesCreated?: number;
   jobsCompleted?: number;
   consistencyMultiplier?: number;
+  totalXp?: number;
 }
 
 interface Review {
@@ -82,6 +83,171 @@ interface Props {
 }
 
 // =====================================
+// HELPER FUNCTIONS
+// =====================================
+
+function safeArray<T>(arr: T[] | undefined | null): T[] {
+  return Array.isArray(arr) ? arr : [];
+}
+
+function safeNumber(num: number | undefined | null, defaultVal = 0): number {
+  return typeof num === 'number' ? num : defaultVal;
+}
+
+function safeString(str: string | undefined | null, defaultVal = ''): string {
+  return typeof str === 'string' ? str : defaultVal;
+}
+
+// =====================================
+// SUB-COMPONENTS
+// =====================================
+
+function StarRating({ rating, size = 'md' }: { rating: number; size?: 'sm' | 'md' | 'lg' }) {
+  const sizeClasses = { sm: 'w-3 h-3', md: 'w-4 h-4', lg: 'w-5 h-5' };
+  const textSizes = { sm: 'text-xs', md: 'text-sm', lg: 'text-base' };
+
+  return (
+    <div className="flex items-center">
+      {[1, 2, 3, 4, 5].map((star) => (
+        <svg
+          key={star}
+          className={`${sizeClasses[size]} ${star <= rating ? 'text-black' : 'text-gray-300'}`}
+          fill="currentColor"
+          viewBox="0 0 20 20"
+        >
+          <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
+        </svg>
+      ))}
+      <span className={`ml-2 text-gray-600 ${textSizes[size]}`}>
+        {safeNumber(rating).toFixed(1)}
+      </span>
+    </div>
+  );
+}
+
+function ProfilePhoto({ coach, showCard }: { coach: CoachProfile; showCard: boolean }) {
+  const hasCard = showCard && coach.activeCardImageUrl;
+
+  if (hasCard) {
+    return (
+      <div className="relative w-48 h-60 overflow-hidden rounded-lg" style={{ width: '192px', height: '240px' }}>
+        {coach.profileImage ? (
+          <img
+            src={coach.profileImage}
+            alt={coach.displayName}
+            className="absolute inset-0 w-full h-full object-cover"
+          />
+        ) : (
+          <div className="absolute inset-0 w-full h-full bg-gray-100 flex items-center justify-center">
+            <svg className="w-24 h-24 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+              <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
+            </svg>
+          </div>
+        )}
+        <img
+          src={coach.activeCardImageUrl}
+          alt="Tier Card"
+          className="absolute inset-0 w-full h-full object-contain z-10 pointer-events-none"
+        />
+      </div>
+    );
+  }
+
+  return (
+    <div className="w-32 h-32 bg-gray-100 rounded-full flex items-center justify-center overflow-hidden ring-2 ring-gray-200">
+      {coach.profileImage ? (
+        <Image
+          src={coach.profileImage}
+          alt={coach.displayName}
+          width={128}
+          height={128}
+          className="w-full h-full object-cover"
+        />
+      ) : (
+        <svg className="w-16 h-16 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+          <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
+        </svg>
+      )}
+    </div>
+  );
+}
+
+function XPDisplay({ xpData }: { xpData: { xp: number; tier: string; tier_number: number } | null }) {
+  if (!xpData || xpData.xp === 0) return null;
+
+  const tierColors: Record<number, { bg: string; text: string; border: string; gradient: string }> = {
+    5: { bg: 'bg-purple-100', text: 'text-purple-700', border: 'border-purple-200', gradient: 'from-purple-50' },
+    4: { bg: 'bg-blue-100', text: 'text-blue-700', border: 'border-blue-200', gradient: 'from-blue-50' },
+    3: { bg: 'bg-green-100', text: 'text-green-700', border: 'border-green-200', gradient: 'from-green-50' },
+    2: { bg: 'bg-yellow-100', text: 'text-yellow-700', border: 'border-yellow-200', gradient: 'from-yellow-50' },
+    1: { bg: 'bg-gray-100', text: 'text-gray-700', border: 'border-gray-200', gradient: 'from-gray-50' },
+  };
+
+  const colors = tierColors[xpData.tier_number] || tierColors[1];
+
+  // XP thresholds for tier progress
+  const tierThresholds = [
+    { tier: 1, min: 0, max: 3000 },
+    { tier: 2, min: 3000, max: 7000 },
+    { tier: 3, min: 7000, max: 12000 },
+    { tier: 4, min: 12000, max: 20000 },
+    { tier: 5, min: 20000, max: 50000 },
+  ];
+
+  const currentTierInfo = tierThresholds.find(t => t.tier === xpData.tier_number) || tierThresholds[0];
+  const nextTierInfo = tierThresholds.find(t => t.tier === xpData.tier_number + 1);
+  const xpInTier = xpData.xp - currentTierInfo.min;
+  const tierRange = currentTierInfo.max - currentTierInfo.min;
+  const progressPercent = Math.min(100, Math.round((xpInTier / tierRange) * 100));
+  const xpToNext = nextTierInfo ? nextTierInfo.min - xpData.xp : 0;
+
+  return (
+    <div className={`bg-white border ${colors.border} rounded-2xl p-6 shadow-sm bg-gradient-to-br ${colors.gradient} to-white`}>
+      <div className="flex items-center justify-between mb-4">
+        <h3 className="text-lg font-semibold text-gray-900">Coach XP</h3>
+        <svg className="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+        </svg>
+      </div>
+
+      <div className="mb-4">
+        <div className={`text-4xl font-bold mb-1 ${colors.text}`}>
+          {xpData.xp.toLocaleString()}
+        </div>
+        <div className="text-sm text-gray-600">Total XP</div>
+      </div>
+
+      <div className={`inline-flex items-center px-3 py-1.5 rounded-full text-sm font-semibold mb-4 ${colors.bg} ${colors.text}`}>
+        {xpData.tier}
+      </div>
+
+      {/* Progress to next tier */}
+      {nextTierInfo && (
+        <div className="pt-4 border-t border-gray-200">
+          <div className="flex justify-between text-xs text-gray-600 mb-2">
+            <span>Progress to next tier</span>
+            <span>{xpToNext.toLocaleString()} XP to go</span>
+          </div>
+          <div className="w-full bg-gray-200 rounded-full h-2">
+            <div
+              className={`h-2 rounded-full transition-all duration-300 ${colors.bg.replace('100', '500')}`}
+              style={{ width: `${progressPercent}%` }}
+            ></div>
+          </div>
+          <div className="text-xs text-gray-500 mt-1 text-center">{progressPercent}%</div>
+        </div>
+      )}
+
+      {!nextTierInfo && (
+        <div className="pt-4 border-t border-gray-200 text-center">
+          <div className="text-xs text-gray-600">Maximum tier reached!</div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+// =====================================
 // MAIN COMPONENT
 // =====================================
 
@@ -93,73 +259,42 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
   const [services, setServices] = useState<Service[]>([]);
 
   // Use real-time hooks
-  const { 
-    reviews: realtimeReviews, 
-    ratingStats, 
-    loading: reviewsLoading
-  } = useRealtimeReviews(initialCoach.id);
-  
-  const { 
-    coach: realtimeCoach
-  } = useRealtimeCoach(initialCoach.id);
+  const { reviews: realtimeReviews, ratingStats, loading: reviewsLoading } = useRealtimeReviews(initialCoach.id);
+  const { coach: realtimeCoach } = useRealtimeCoach(initialCoach.id);
 
-  // Use real-time data if available, fallback to initial props
-  const coach = realtimeCoach || initialCoach;
+  // Merge real-time data with initial data (real-time takes priority, but fall back to initial for missing fields)
+  const coach = useMemo(() => {
+    if (!realtimeCoach) return initialCoach;
+    return {
+      ...initialCoach,
+      ...realtimeCoach,
+      // Ensure arrays are always arrays
+      sports: safeArray(realtimeCoach.sports || initialCoach.sports),
+      specialties: safeArray(realtimeCoach.specialties || initialCoach.specialties),
+      certifications: safeArray(realtimeCoach.certifications || initialCoach.certifications),
+      availability: safeArray(realtimeCoach.availability || initialCoach.availability),
+      languages: safeArray(realtimeCoach.languages || initialCoach.languages),
+      ageGroup: safeArray(realtimeCoach.ageGroup || initialCoach.ageGroup),
+    };
+  }, [initialCoach, realtimeCoach]);
+
   const reviews = realtimeReviews.length > 0 ? realtimeReviews : initialReviews;
 
-  // Calculate XP in real-time from coach data
+  // Get XP from stored value (pre-calculated in database)
   const xpData = useMemo(() => {
-    if (!coach.userId) return null;
+    const totalXp = safeNumber(coach.totalXp);
+    if (totalXp === 0 && !coach.userId) return null;
 
-    try {
-      const subscription_tier = coach.subscriptionTier || 0;
-      const longevity_platform_years = coach.longevityPlatformYears || 0;
-      const career_years = coach.careerYears || 0;
-      const courses_created = coach.coursesCreated || 0;
-      const jobs_completed = coach.jobsCompleted || 0;
-      const review_score = coach.averageRating || 0;
-      const consistency_multiplier = coach.consistencyMultiplier || 1.0;
+    const { tier, tier_number } = getCoachTier(totalXp);
 
-      const inputs: XPCalculationInputs = {
-        subscription_tier,
-        longevity_platform_years,
-        career_years,
-        courses_created,
-        jobs_completed,
-        review_score,
-        consistency_multiplier,
-      };
+    return {
+      xp: totalXp,
+      tier,
+      tier_number,
+    };
+  }, [coach.totalXp, coach.userId]);
 
-      const xpResult = calculateCoachXP(inputs);
-      const breakdownText = formatXPBreakdown(xpResult.breakdown);
-
-      return {
-        coachId: coach.userId,
-        coachName: coach.displayName,
-        xp: xpResult.total_xp,
-        tier: xpResult.tier,
-        tier_number: xpResult.tier_number,
-        breakdown: xpResult.breakdown,
-        breakdown_text: breakdownText,
-        inputs: {
-          subscription_tier,
-          subscription_status: coach.subscriptionTier === 3 ? 'elite' : coach.subscriptionTier === 2 ? 'pro' : 'basic',
-          longevity_platform_years,
-          career_years,
-          courses_created,
-          jobs_completed,
-          review_score,
-          consistency_multiplier,
-        },
-      };
-    } catch (error) {
-      console.error('Error calculating XP:', error);
-      return null;
-    }
-  }, [coach]);
-
-  const xpLoading = false; // No loading since we calculate locally
-
+  // Fetch services
   const fetchServices = useCallback(async () => {
     try {
       const response = await fetch(`/api/services?coachId=${coach.id}&isActive=true`);
@@ -169,15 +304,11 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
       }
     } catch (error) {
       console.error('Error fetching services:', error);
-    } finally {
-      // Loading complete
     }
   }, [coach.id]);
 
   useEffect(() => {
-    const unsubscribe = auth.onAuthStateChanged((user) => {
-      setUser(user);
-    });
+    const unsubscribe = auth.onAuthStateChanged(setUser);
     return () => unsubscribe();
   }, []);
 
@@ -185,100 +316,29 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
     fetchServices();
   }, [fetchServices]);
 
-  const renderStarRating = (rating: number, size: 'sm' | 'md' | 'lg' = 'md') => {
-    const sizeClasses = {
-      sm: 'w-3 h-3',
-      md: 'w-4 h-4',
-      lg: 'w-5 h-5'
-    };
-
-    return (
-      <div className="flex items-center">
-        {[1, 2, 3, 4, 5].map((star) => (
-          <svg
-            key={star}
-            className={`${sizeClasses[size]} ${
-              star <= rating ? 'text-black' : 'text-gray-300'
-            }`}
-            fill="currentColor"
-            viewBox="0 0 20 20"
-          >
-            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
-          </svg>
-        ))}
-        <span className={`ml-2 text-gray-600 ${size === 'sm' ? 'text-xs' : size === 'lg' ? 'text-base' : 'text-sm'}`}>
-          {(rating || 0).toFixed(1)}
-        </span>
-      </div>
-    );
-  };
-
-  const handleBookSession = () => {
-    // Allow anyone to attempt booking (modal will handle contact info)
-    setShowBookingModal(true);
-  };
-
-  const handleWriteReview = () => {
-    // Allow anyone to write reviews, even if not logged in
-    setShowReviewModal(true);
-  };
-
   const formatDate = (timestamp: string | null) => {
     if (!timestamp) return 'Unknown date';
     return new Date(timestamp).toLocaleDateString();
   };
+
+  const avgRating = safeNumber(ratingStats.averageRating || coach.averageRating);
+  const totalReviewCount = safeNumber(ratingStats.totalReviews || coach.totalReviews);
+  const sports = safeArray(coach.sports);
+  const specialties = safeArray(coach.specialties);
+  const certifications = safeArray(coach.certifications);
+  const availability = safeArray(coach.availability);
+  const languages = safeArray(coach.languages);
+  const experience = safeNumber(coach.experience);
+  const hourlyRate = safeNumber(coach.hourlyRate);
 
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10 bg-white text-gray-900 min-h-screen">
       {/* Hero Section */}
       <div className="bg-white border border-gray-200 rounded-2xl p-8 mb-10 shadow-sm">
         <div className="flex flex-col md:flex-row items-start md:items-center gap-8">
-          {/* Profile Image with Tier Card Background */}
+          {/* Profile Image */}
           <div className="relative">
-            {coach.activeCardImageUrl ? (
-              // Container: 4:5 aspect ratio (192x240px) to match tier card (1080x1350)
-              <div className="relative w-48 h-60 overflow-hidden rounded-lg" style={{ width: '192px', height: '240px' }}>
-                {/* Profile Photo fills entire container - constrained to container size */}
-                {coach.profileImage ? (
-                  <img
-                    src={coach.profileImage}
-                    alt={coach.displayName}
-                    className="absolute inset-0 w-full h-full object-cover"
-                    style={{ width: '192px', height: '240px' }}
-                  />
-                ) : (
-                  <div className="absolute inset-0 w-full h-full bg-gray-100 flex items-center justify-center">
-                    <svg className="w-24 h-24 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                      <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
-                    </svg>
-                  </div>
-                )}
-                {/* Tier Card Frame: absolute, full size of container */}
-                <img
-                  src={coach.activeCardImageUrl}
-                  alt="Tier Card"
-                  className="absolute inset-0 w-full h-full object-contain z-10 pointer-events-none"
-                  style={{ width: '192px', height: '240px' }}
-                />
-              </div>
-            ) : (
-              // Default without card
-              <div className="w-32 h-32 bg-gray-100 rounded-full flex items-center justify-center overflow-hidden ring-2 ring-gray-200">
-                {coach.profileImage ? (
-                  <Image
-                    src={coach.profileImage}
-                    alt={coach.displayName}
-                    width={128}
-                    height={128}
-                    className="w-full h-full object-cover"
-                  />
-                ) : (
-                  <svg className="w-16 h-16 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                    <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
-                  </svg>
-                )}
-              </div>
-            )}
+            <ProfilePhoto coach={coach} showCard={!!coach.activeCardImageUrl} />
             {coach.isVerified && (
               <div className="absolute -bottom-1 -right-1 bg-emerald-500 rounded-full p-1">
                 <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
@@ -291,7 +351,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
           {/* Big Rating Score */}
           <div>
             <div className="text-6xl md:text-8xl font-extrabold leading-none tracking-tight text-black">
-              {(ratingStats.averageRating || coach.averageRating || 0).toFixed(1)}
+              {avgRating.toFixed(1)}
             </div>
             <div className="mt-2 text-sm text-gray-500">Average rating</div>
           </div>
@@ -313,20 +373,20 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                   xpData.tier_number === 2 ? 'bg-yellow-100 text-yellow-700 border border-yellow-200' :
                   'bg-gray-100 text-gray-700 border border-gray-200'
                 }`}>
-                  {xpData.tier} • {xpData.xp.toLocaleString()} XP
+                  {xpData.tier} - {xpData.xp.toLocaleString()} XP
                 </span>
               )}
             </div>
-            
+
             <div className="flex items-center gap-4 mb-4">
-              {renderStarRating(ratingStats.averageRating || coach.averageRating, 'lg')}
+              <StarRating rating={avgRating} size="lg" />
               <button
-                onClick={handleWriteReview}
+                onClick={() => setShowReviewModal(true)}
                 className="px-4 py-1.5 bg-gray-900 text-white rounded-full hover:bg-black transition-colors border border-gray-900 text-sm"
               >
                 Write a review
               </button>
-              <span className="text-gray-500">({ratingStats.totalReviews || coach.totalReviews})</span>
+              <span className="text-gray-500">({totalReviewCount})</span>
               {reviewsLoading && (
                 <div className="flex items-center text-gray-500">
                   <svg className="animate-spin w-4 h-4 mr-1" fill="none" viewBox="0 0 24 24">
@@ -350,7 +410,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
               {coach.organization && (
                 <div className="flex items-center">
                   <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-4m-5 0H3m2 0h2M7 7h10M7 11h4m6.938 0A2.5 2.5 0 0119 13.5v6.5" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-4m-5 0H3m2 0h2M7 7h10M7 11h4" />
                   </svg>
                   {coach.organization}
                 </div>
@@ -374,45 +434,48 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                   {coach.location}
                 </div>
               )}
-              <div className="flex items-center">
-                <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                </svg>
-                {coach.experience} years experience
-              </div>
-              {coach.hourlyRate > 0 && (
+              {experience > 0 && (
+                <div className="flex items-center">
+                  <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  </svg>
+                  {experience} years experience
+                </div>
+              )}
+              {hourlyRate > 0 && (
                 <div className="flex items-center font-semibold text-emerald-600">
                   <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1" />
                   </svg>
-                  ${coach.hourlyRate}/hour
+                  ${hourlyRate}/hour
                 </div>
               )}
             </div>
 
             {/* Sports Tags */}
-            <div className="flex flex-wrap gap-2.5 mb-6">
-              {coach.sports.map((sport: string) => (
-                <span
-                  key={sport}
-                  className="inline-flex items-center px-3 py-1.5 rounded-full text-xs font-medium bg-gray-100 text-gray-800 border border-gray-200 shadow-inner"
-                >
-                  {sport}
-                </span>
-              ))}
-            </div>
+            {sports.length > 0 && (
+              <div className="flex flex-wrap gap-2.5 mb-6">
+                {sports.map((sport) => (
+                  <span
+                    key={sport}
+                    className="inline-flex items-center px-3 py-1.5 rounded-full text-xs font-medium bg-gray-100 text-gray-800 border border-gray-200"
+                  >
+                    {sport}
+                  </span>
+                ))}
+              </div>
+            )}
 
             {/* Action Buttons */}
             <div className="flex flex-wrap gap-3">
               {services.length > 0 && (
                 <button
-                  onClick={handleBookSession}
+                  onClick={() => setShowBookingModal(true)}
                   className="px-6 py-2 bg-neutral-100 text-neutral-900 rounded-full hover:bg-white transition-colors font-semibold"
                 >
                   Hire Coach
                 </button>
               )}
-              {/* Only show Message Coach button if viewing someone else's profile */}
               {user?.uid !== coach.userId && (
                 <button
                   onClick={() => setShowMessagingModal(true)}
@@ -422,7 +485,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                 </button>
               )}
               <button
-                onClick={handleWriteReview}
+                onClick={() => setShowReviewModal(true)}
                 className="px-6 py-2 bg-white text-gray-900 rounded-full hover:bg-gray-50 transition-colors border border-gray-300"
               >
                 Write Review
@@ -447,16 +510,16 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
           <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
             <h2 className="text-xl font-semibold text-gray-900 mb-4">About</h2>
             <p className="text-gray-700 leading-relaxed">
-              {coach.bio || "This coach hasn't added a bio yet."}
+              {safeString(coach.bio, "This coach hasn't added a bio yet.")}
             </p>
           </div>
 
           {/* Specialties */}
-          {coach.specialties.length > 0 && (
+          {specialties.length > 0 && (
             <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
               <h2 className="text-xl font-semibold text-gray-900 mb-4">Specialties</h2>
               <div className="flex flex-wrap gap-2">
-                {coach.specialties.map((specialty: string) => (
+                {specialties.map((specialty) => (
                   <span
                     key={specialty}
                     className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-800 border border-gray-200"
@@ -487,13 +550,13 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                     <p className="text-gray-600 text-sm mb-3">{service.description}</p>
                     <div className="flex items-center justify-between text-sm text-gray-500 mb-3">
                       <span>{service.duration} minutes</span>
-                      <span className="capitalize">{service.category.replace('-', ' ')}</span>
+                      <span className="capitalize">{safeString(service.category).replace('-', ' ')}</span>
                     </div>
-                    {service.deliverables.length > 0 && (
+                    {safeArray(service.deliverables).length > 0 && (
                       <div className="mb-3">
                         <h4 className="text-xs font-medium text-gray-700 mb-1">What you get:</h4>
                         <ul className="text-xs text-gray-600 space-y-0.5">
-                          {service.deliverables.slice(0, 3).map((deliverable, index) => (
+                          {safeArray(service.deliverables).slice(0, 3).map((deliverable, index) => (
                             <li key={index} className="flex items-start">
                               <svg className="w-3 h-3 text-gray-600 mr-1 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
@@ -501,14 +564,14 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                               {deliverable}
                             </li>
                           ))}
-                          {service.deliverables.length > 3 && (
-                            <li className="text-gray-500">+{service.deliverables.length - 3} more...</li>
+                          {safeArray(service.deliverables).length > 3 && (
+                            <li className="text-gray-500">+{safeArray(service.deliverables).length - 3} more...</li>
                           )}
                         </ul>
                       </div>
                     )}
                     <button
-                      onClick={handleBookSession}
+                      onClick={() => setShowBookingModal(true)}
                       className="w-full px-4 py-2 bg-gray-900 text-white text-sm rounded-md hover:bg-black transition-colors"
                     >
                       Book This Service
@@ -520,7 +583,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
           )}
 
           {/* Certifications */}
-          {coach.certifications.length > 0 && (
+          {certifications.length > 0 && (
             <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
               <h2 className="text-xl font-semibold text-gray-900 mb-4 flex items-center">
                 <svg className="w-5 h-5 text-gray-600 mr-2" fill="currentColor" viewBox="0 0 20 20">
@@ -529,37 +592,33 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                 Certifications & Credentials
               </h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                {coach.certifications.map((cert: string, index: number) => (
+                {certifications.map((cert, index) => (
                   <div key={index} className="flex items-center p-3 bg-gray-50 rounded-lg border border-gray-200">
                     <svg className="w-5 h-5 text-gray-600 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                       <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
-                     </svg>
+                      <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                    </svg>
                     <span className="text-gray-800 font-medium">{cert}</span>
-                   </div>
-                 ))}
-               </div>
+                  </div>
+                ))}
+              </div>
             </div>
           )}
 
-          {/* Enhanced Reviews Section */}
+          {/* Reviews Section */}
           <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
             <div className="flex items-center justify-between mb-6">
-                             <div className="flex items-center gap-4">
-               <h2 className="text-xl font-semibold text-gray-900">
-                   Reviews & Ratings
-                 </h2>
-                 <div className="flex items-center gap-2">
-                 <div className="text-3xl font-bold text-black">
-                     {(ratingStats.averageRating || coach.averageRating || 0).toFixed(1)}
-                   </div>
-                 <div className="text-sm text-gray-600">
-                     <div>{renderStarRating(ratingStats.averageRating || coach.averageRating, 'sm')}</div>
-                     <div>({ratingStats.totalReviews || coach.totalReviews} reviews)</div>
-                   </div>
-                 </div>
-               </div>
+              <div className="flex items-center gap-4">
+                <h2 className="text-xl font-semibold text-gray-900">Reviews & Ratings</h2>
+                <div className="flex items-center gap-2">
+                  <div className="text-3xl font-bold text-black">{avgRating.toFixed(1)}</div>
+                  <div className="text-sm text-gray-600">
+                    <StarRating rating={avgRating} size="sm" />
+                    <div>({totalReviewCount} reviews)</div>
+                  </div>
+                </div>
+              </div>
               <button
-                onClick={handleWriteReview}
+                onClick={() => setShowReviewModal(true)}
                 className="text-gray-700 hover:text-gray-900 text-sm font-medium flex items-center gap-1"
               >
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -569,31 +628,31 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
               </button>
             </div>
 
-                         {/* Rating Distribution */}
-             {ratingStats.totalReviews > 0 && (
-             <div className="mb-6 p-4 bg-gray-50 rounded-xl border border-gray-200">
-               <h3 className="text-sm font-medium text-gray-700 mb-3">Rating Distribution</h3>
-                 {[5, 4, 3, 2, 1].map(rating => {
-                   const count = ratingStats.ratingDistribution[rating] || 0;
-                   const percentage = ratingStats.totalReviews > 0 ? (count / ratingStats.totalReviews) * 100 : 0;
-                   return (
-                     <div key={rating} className="flex items-center gap-2 mb-1">
+            {/* Rating Distribution */}
+            {totalReviewCount > 0 && (
+              <div className="mb-6 p-4 bg-gray-50 rounded-xl border border-gray-200">
+                <h3 className="text-sm font-medium text-gray-700 mb-3">Rating Distribution</h3>
+                {[5, 4, 3, 2, 1].map(rating => {
+                  const count = ratingStats.ratingDistribution[rating] || 0;
+                  const percentage = totalReviewCount > 0 ? (count / totalReviewCount) * 100 : 0;
+                  return (
+                    <div key={rating} className="flex items-center gap-2 mb-1">
                       <span className="text-sm text-gray-600 w-3">{rating}</span>
                       <svg className="w-3 h-3 text-black" fill="currentColor" viewBox="0 0 20 20">
-                         <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
-                       </svg>
+                        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
+                      </svg>
                       <div className="flex-1 bg-gray-200 rounded-full h-2">
-                        <div 
+                        <div
                           className="bg-gray-900 h-2 rounded-full transition-all duration-300"
-                           style={{ width: `${percentage}%` }}
-                         ></div>
-                       </div>
+                          style={{ width: `${percentage}%` }}
+                        ></div>
+                      </div>
                       <span className="text-xs text-gray-600 w-8">{count}</span>
-                     </div>
-                   );
-                 })}
-               </div>
-             )}
+                    </div>
+                  );
+                })}
+              </div>
+            )}
 
             {reviews.length > 0 ? (
               <div className="space-y-6">
@@ -603,7 +662,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                       <div className="flex items-center gap-3">
                         <div className="w-10 h-10 bg-gray-200 rounded-full flex items-center justify-center">
                           <span className="text-gray-700 font-medium text-sm">
-                            {review.studentName.charAt(0).toUpperCase()}
+                            {safeString(review.studentName, '?').charAt(0).toUpperCase()}
                           </span>
                         </div>
                         <div>
@@ -615,12 +674,10 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                               </span>
                             )}
                           </div>
-                          {renderStarRating(review.rating, 'sm')}
+                          <StarRating rating={review.rating} size="sm" />
                         </div>
                       </div>
-                      <span className="text-sm text-gray-600">
-                        {formatDate(review.createdAt)}
-                      </span>
+                      <span className="text-sm text-gray-600">{formatDate(review.createdAt)}</span>
                     </div>
                     <p className="text-gray-700 leading-relaxed pl-13">{review.reviewText}</p>
                   </div>
@@ -632,9 +689,9 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
                 </svg>
                 <h3 className="text-lg font-medium text-gray-900 mb-2">No reviews yet</h3>
-                <p className="text-gray-600 mb-4">Be the first to review this coach and help others make informed decisions!</p>
+                <p className="text-gray-600 mb-4">Be the first to review this coach!</p>
                 <button
-                  onClick={handleWriteReview}
+                  onClick={() => setShowReviewModal(true)}
                   className="inline-flex items-center px-4 py-2 bg-gray-900 text-white rounded-md hover:bg-black transition-colors"
                 >
                   Write the first review
@@ -646,113 +703,40 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
 
         {/* Sidebar */}
         <div className="space-y-6">
-          {/* XP & Tier Display */}
-          {xpLoading ? (
-            <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
-              <div className="animate-pulse">
-                <div className="h-6 bg-gray-200 rounded w-1/3 mb-4"></div>
-                <div className="h-8 bg-gray-200 rounded w-1/2 mb-2"></div>
-                <div className="h-4 bg-gray-200 rounded w-2/3"></div>
-              </div>
-            </div>
-          ) : xpData ? (
-            <div className={`bg-white border rounded-2xl p-6 shadow-sm ${
-              xpData.tier_number === 5 ? 'border-purple-200 bg-gradient-to-br from-purple-50 to-white' :
-              xpData.tier_number === 4 ? 'border-blue-200 bg-gradient-to-br from-blue-50 to-white' :
-              xpData.tier_number === 3 ? 'border-green-200 bg-gradient-to-br from-green-50 to-white' :
-              xpData.tier_number === 2 ? 'border-yellow-200 bg-gradient-to-br from-yellow-50 to-white' :
-              'border-gray-200'
-            }`}>
-              <div className="flex items-center justify-between mb-4">
-                <h3 className="text-lg font-semibold text-gray-900">Coach XP</h3>
-                <svg className="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
-                </svg>
-              </div>
-              <div className="mb-4">
-                <div className={`text-4xl font-bold mb-1 ${
-                  xpData.tier_number === 5 ? 'text-purple-600' :
-                  xpData.tier_number === 4 ? 'text-blue-600' :
-                  xpData.tier_number === 3 ? 'text-green-600' :
-                  xpData.tier_number === 2 ? 'text-yellow-600' :
-                  'text-gray-600'
-                }`}>
-                  {xpData.xp.toLocaleString()}
-                </div>
-                <div className="text-sm text-gray-600">Total XP</div>
-              </div>
-              <div className={`inline-flex items-center px-3 py-1.5 rounded-full text-sm font-semibold mb-4 ${
-                xpData.tier_number === 5 ? 'bg-purple-100 text-purple-700' :
-                xpData.tier_number === 4 ? 'bg-blue-100 text-blue-700' :
-                xpData.tier_number === 3 ? 'bg-green-100 text-green-700' :
-                xpData.tier_number === 2 ? 'bg-yellow-100 text-yellow-700' :
-                'bg-gray-100 text-gray-700'
-              }`}>
-                {xpData.tier}
-              </div>
-              <div className="pt-4 border-t border-gray-200 space-y-2">
-                <div className="text-xs font-medium text-gray-700 mb-2">XP Breakdown</div>
-                <div className="space-y-1.5 text-xs">
-                  <div className="flex justify-between text-gray-600">
-                    <span>Subscription:</span>
-                    <span className="font-medium text-gray-900">+{xpData.breakdown.base_xp.toLocaleString()}</span>
-                  </div>
-                  <div className="flex justify-between text-gray-600">
-                    <span>Platform:</span>
-                    <span className="font-medium text-gray-900">+{xpData.breakdown.platform_xp.toLocaleString()}</span>
-                  </div>
-                  <div className="flex justify-between text-gray-600">
-                    <span>Career:</span>
-                    <span className="font-medium text-gray-900">+{xpData.breakdown.career_xp.toLocaleString()}</span>
-                  </div>
-                  <div className="flex justify-between text-gray-600">
-                    <span>Courses:</span>
-                    <span className="font-medium text-gray-900">+{xpData.breakdown.course_xp.toLocaleString()}</span>
-                  </div>
-                  <div className="flex justify-between text-gray-600">
-                    <span>Jobs:</span>
-                    <span className="font-medium text-gray-900">+{xpData.breakdown.job_xp.toLocaleString()}</span>
-                  </div>
-                  <div className="flex justify-between text-gray-600">
-                    <span>Reviews:</span>
-                    <span className="font-medium text-gray-900">+{xpData.breakdown.review_bonus.toLocaleString()}</span>
-                  </div>
-                  <div className="flex justify-between text-gray-600 pt-2 border-t border-gray-200">
-                    <span>Multiplier:</span>
-                    <span className="font-medium text-gray-900">{(xpData.breakdown.consistency_multiplier || 1).toFixed(2)}x</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          ) : null}
+          {/* XP Display */}
+          <XPDisplay xpData={xpData} />
 
           {/* Quick Info */}
           <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
             <h3 className="text-lg font-semibold text-gray-900 mb-4">Quick Info</h3>
             <div className="space-y-3">
-              <div className="flex justify-between">
-                <span className="text-gray-600">Experience:</span>
-                <span className="font-medium text-gray-900">{coach.experience} years</span>
-              </div>
-              {coach.hourlyRate > 0 && (
+              {experience > 0 && (
                 <div className="flex justify-between">
-                  <span className="text-gray-600">Rate:</span>
-                  <span className="font-medium text-gray-900">${coach.hourlyRate}/hour</span>
+                  <span className="text-gray-600">Experience:</span>
+                  <span className="font-medium text-gray-900">{experience} years</span>
                 </div>
               )}
-              <div className="flex justify-between">
-                <span className="text-gray-600">Languages:</span>
-                <span className="font-medium text-gray-900">{coach.languages.join(', ')}</span>
-              </div>
+              {hourlyRate > 0 && (
+                <div className="flex justify-between">
+                  <span className="text-gray-600">Rate:</span>
+                  <span className="font-medium text-gray-900">${hourlyRate}/hour</span>
+                </div>
+              )}
+              {languages.length > 0 && (
+                <div className="flex justify-between">
+                  <span className="text-gray-600">Languages:</span>
+                  <span className="font-medium text-gray-900">{languages.join(', ')}</span>
+                </div>
+              )}
             </div>
           </div>
 
           {/* Availability */}
-          {coach.availability.length > 0 && (
+          {availability.length > 0 && (
             <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
               <h3 className="text-lg font-semibold text-gray-900 mb-4">Availability</h3>
               <div className="space-y-2">
-                {coach.availability.map((slot: string) => (
+                {availability.map((slot) => (
                   <div key={slot} className="flex items-center">
                     <div className="w-2 h-2 bg-gray-400 rounded-full mr-2"></div>
                     <span className="text-sm text-gray-700">{slot}</span>
@@ -761,45 +745,34 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
               </div>
             </div>
           )}
-
-          {/* Connect section removed per request */}
         </div>
       </div>
 
-      {/* Booking Modal */}
+      {/* Modals */}
       <BookingModal
         isOpen={showBookingModal}
         onClose={() => setShowBookingModal(false)}
-        coach={{
-          id: coach.id,
-          displayName: coach.displayName,
-          profileImage: coach.profileImage,
-        }}
+        coach={{ id: coach.id, displayName: coach.displayName, profileImage: coach.profileImage }}
         services={services}
         user={user}
       />
 
-             {/* Real-time Review Modal */}
-       <RealtimeReviewModal
-         isOpen={showReviewModal}
-         onClose={() => setShowReviewModal(false)}
-         coachId={coach.id}
-         coachName={coach.displayName}
-         user={user}
-         onReviewSubmitted={() => {
-           // The real-time hook will automatically update the reviews
-           console.log('Review submitted - real-time updates will handle the rest!');
-         }}
-       />
+      <RealtimeReviewModal
+        isOpen={showReviewModal}
+        onClose={() => setShowReviewModal(false)}
+        coachId={coach.id}
+        coachName={coach.displayName}
+        user={user}
+        onReviewSubmitted={() => console.log('Review submitted')}
+      />
 
-       {/* Messaging Modal */}
-       <MessagingModal
-         isOpen={showMessagingModal}
-         onClose={() => setShowMessagingModal(false)}
-         recipientId={coach.userId}
-         recipientName={coach.displayName}
-         user={user}
-       />
-     </div>
-   );
- } 
+      <MessagingModal
+        isOpen={showMessagingModal}
+        onClose={() => setShowMessagingModal(false)}
+        recipientId={coach.userId}
+        recipientName={coach.displayName}
+        user={user}
+      />
+    </div>
+  );
+}

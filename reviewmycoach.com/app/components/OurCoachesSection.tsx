@@ -39,7 +39,7 @@ export default function OurCoachesSection() {
     const fetchCoaches = async () => {
       try {
         // Fetch coaches sorted by XP (highest first) from Firebase Data Connect
-        const response = await fetch('/api/coaches?limit=24&sortByXP=true');
+        const response = await fetch('/api/coaches?sortByXP=true');
         if (response.ok) {
           const data = await response.json();
           

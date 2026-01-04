@@ -1,8 +1,9 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { initializeApp, getApps } from 'firebase/app';
 import { getDataConnect } from 'firebase/data-connect';
-import { getCoachByUsername, updateCoach } from '../../../../lib/dataconnect';
+import { getCoachByUsername, updateCoach, updateCoachTotalXP } from '../../../../lib/dataconnect';
 import { verifyFirebaseToken } from '../../../../lib/firebase-admin-server';
+import { hasXpAffectingChanges, calculateXpFromCoach } from '../../../../lib/xp-service';
 
 // Initialize Firebase Client for Data Connect
 let clientApp;
@@ -69,6 +70,14 @@ export async function GET(
           sourceUrl: coach.sourceUrl,
           activeCardId: coach.activeCardId,
           activeCardImageUrl: coach.activeCardImageUrl,
+          // XP fields
+          subscriptionTier: coach.subscriptionTier,
+          longevityPlatformYears: coach.longevityPlatformYears,
+          careerYears: coach.careerYears,
+          coursesCreated: coach.coursesCreated,
+          jobsCompleted: coach.jobsCompleted,
+          consistencyMultiplier: coach.consistencyMultiplier,
+          totalXp: coach.totalXp,
           createdAt: coach.createdAt,
           updatedAt: coach.updatedAt,
         }
@@ -116,19 +125,47 @@ export async function PUT(
     // Update coach profile via Data Connect (handles both profile edits AND card activation)
     await updateCoach(dataConnect, {
       id: coach.id,
-      displayName: body.displayName,
-      phoneNumber: body.phoneNumber,
       bio: body.bio,
+      sports: body.sports,
       location: body.location,
       hourlyRate: body.hourlyRate,
       profileImage: body.profileImage,
+      isPublic: body.isPublic,
       activeCardId: body.activeCardId,
       activeCardImageUrl: body.activeCardImageUrl,
     });
 
+    // If XP-affecting fields changed, trigger XP recalculation
+    if (hasXpAffectingChanges(body)) {
+      // Merge updated fields with existing coach data
+      const updatedCoach = { ...coach, ...body };
+      const newTotalXp = calculateXpFromCoach(updatedCoach);
+
+      try {
+        await updateCoachTotalXP(dataConnect, {
+          id: coach.id,
+          totalXp: newTotalXp,
+        });
+        console.log(`📊 Updated XP for ${username}: ${newTotalXp}`);
+
+        // Trigger card unlock check in background
+        fetch(`${request.nextUrl.origin}/api/coaches/${coach.id}/update-xp`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            coach: updatedCoach,
+            userId: coach.userId,
+            username: coach.username,
+          }),
+        }).catch(err => console.error('Background XP update failed:', err));
+      } catch (xpErr) {
+        console.error('Failed to update XP:', xpErr);
+      }
+    }
+
     console.log(`✅ Coach updated for ${username}`);
-    return NextResponse.json({ 
-      success: true, 
+    return NextResponse.json({
+      success: true,
       message: body.activeCardId ? 'Active card updated successfully' : 'Coach profile updated'
     });
   } catch (error) {

@@ -106,39 +106,51 @@ export function useRealtimeReviews(coachId: string): UseRealtimeReviewsReturn {
   };
 }
 
-// Hook for real-time coach profile updates (using Firestore for real-time)
+// Hook for real-time coach profile updates
 interface CoachProfile {
   id: string;
+  username?: string;
   userId: string;
   displayName: string;
   email?: string;
+  phoneNumber?: string;
   bio: string;
   sports: string[];
-  experience: number;
-  certifications: string[];
-  hourlyRate: number;
-  location: string;
-  availability: string[];
   specialties: string[];
-  languages: string[];
-  averageRating: number;
-  totalReviews: number;
-  profileImage?: string;
-  phoneNumber?: string;
-  website?: string;
-  isVerified: boolean;
+  certifications: string[];
+  location: string;
   organization?: string;
   role?: string;
   gender?: string;
   ageGroup?: string[];
-  sourceUrl?: string;
-  createdAt?: string | null;
-  updatedAt?: string | null;
+  availability: string[];
+  languages: string[];
+  website?: string;
   socialMedia?: {
     instagram?: string;
     twitter?: string;
     linkedin?: string;
   };
+  hourlyRate: number;
+  experience: number;
+  averageRating: number;
+  totalReviews: number;
+  profileImage?: string;
+  isVerified: boolean;
+  isClaimed?: boolean;
+  sourceUrl?: string;
+  subscriptionStatus?: string;
+  subscriptionTier?: number;
+  longevityPlatformYears?: number;
+  careerYears?: number;
+  coursesCreated?: number;
+  jobsCompleted?: number;
+  consistencyMultiplier?: number;
+  totalXp?: number;
+  activeCardId?: string;
+  activeCardImageUrl?: string;
+  createdAt?: string | null;
+  updatedAt?: string | null;
   [key: string]: unknown;
 }
 

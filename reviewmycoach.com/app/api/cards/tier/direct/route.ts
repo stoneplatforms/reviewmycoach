@@ -3,6 +3,7 @@ import { initializeApp, getApps } from 'firebase/app';
 import { getDataConnect } from 'firebase/data-connect';
 import { v4 as uuidv4 } from 'uuid';
 import { getCoachCards, unlockTierCard } from '../../../../lib/dataconnect';
+import { TIER_CARDS, getEligibleTierCards } from '../../../../lib/xp-service';
 
 // Initialize Firebase Client
 let clientApp;
@@ -25,15 +26,6 @@ const dataConnect = getDataConnect(clientApp, {
   service: 'review-my-coach-service'
 });
 
-interface TierCard {
-  id: string;
-  tierNumber: number;
-  tierName: string;
-  requiredXp: number;
-  imageUrl: string;
-  description: string;
-}
-
 /**
  * GET /api/cards/tier/direct?userId=xxx&username=xxx&xp=14250
  * Fetch user's unlocked tier cards from database
@@ -53,14 +45,8 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // Hardcoded tier cards (since they're static)
-    const tierCards: TierCard[] = [
-      { id: 'tier-1', tierNumber: 1, tierName: 'Rookie Coach', requiredXp: 0, imageUrl: '/api/cards/tier/images/1', description: 'Starting tier for all new coaches' },
-      { id: 'tier-2', tierNumber: 2, tierName: 'Professional Coach', requiredXp: 3000, imageUrl: '/api/cards/tier/images/2', description: 'Earned at 3,000 XP' },
-      { id: 'tier-3', tierNumber: 3, tierName: 'Elite Coach', requiredXp: 7000, imageUrl: '/api/cards/tier/images/3', description: 'Earned at 7,000 XP' },
-      { id: 'tier-4', tierNumber: 4, tierName: 'Veteran Coach', requiredXp: 12000, imageUrl: '/api/cards/tier/images/4', description: 'Earned at 12,000 XP' },
-      { id: 'tier-5', tierNumber: 5, tierName: 'Legendary Coach', requiredXp: 20000, imageUrl: '/api/cards/tier/images/5', description: 'Earned at 20,000 XP' },
-    ];
+    // Use centralized tier cards from xp-service
+    const tierCards = TIER_CARDS;
 
     // Get tier card IDs for filtering
     const tierCardIds = new Set(tierCards.map(tc => tc.id));
@@ -174,16 +160,9 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    const tierCards: TierCard[] = [
-      { id: 'tier-1', tierNumber: 1, tierName: 'Rookie Coach', requiredXp: 0, imageUrl: '/api/cards/tier/images/1', description: 'Starting tier for all new coaches' },
-      { id: 'tier-2', tierNumber: 2, tierName: 'Professional Coach', requiredXp: 3000, imageUrl: '/api/cards/tier/images/2', description: 'Earned at 3,000 XP' },
-      { id: 'tier-3', tierNumber: 3, tierName: 'Elite Coach', requiredXp: 7000, imageUrl: '/api/cards/tier/images/3', description: 'Earned at 7,000 XP' },
-      { id: 'tier-4', tierNumber: 4, tierName: 'Veteran Coach', requiredXp: 12000, imageUrl: '/api/cards/tier/images/4', description: 'Earned at 12,000 XP' },
-      { id: 'tier-5', tierNumber: 5, tierName: 'Legendary Coach', requiredXp: 20000, imageUrl: '/api/cards/tier/images/5', description: 'Earned at 20,000 XP' },
-    ];
-
-    // Get eligible cards based on XP
-    const eligibleCards = tierCards.filter(card => card.requiredXp <= totalXP);
+    // Use centralized tier cards and eligibility check from xp-service
+    const tierCards = TIER_CARDS;
+    const eligibleCards = getEligibleTierCards(totalXP);
 
     if (eligibleCards.length === 0) {
       return NextResponse.json({

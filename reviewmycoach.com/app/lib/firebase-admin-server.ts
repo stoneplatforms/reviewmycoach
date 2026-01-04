@@ -12,6 +12,27 @@ let adminApp: App;
 let adminAuth: Auth;
 let adminDb: Firestore;
 
+function formatPrivateKey(key: string): string {
+  // Remove surrounding quotes
+  key = key.replace(/^["']+|["']+$/g, '');
+
+  // Replace literal \n with actual newlines
+  key = key.replace(/\\n/g, '\n');
+
+  // Trim whitespace
+  key = key.trim();
+
+  // Ensure proper PEM format
+  if (!key.startsWith('-----BEGIN')) {
+    key = '-----BEGIN PRIVATE KEY-----\n' + key;
+  }
+  if (!key.endsWith('-----')) {
+    key = key + '\n-----END PRIVATE KEY-----';
+  }
+
+  return key;
+}
+
 function initializeFirebaseAdmin() {
   if (getApps().length > 0) {
     adminApp = getApps()[0];
@@ -23,31 +44,27 @@ function initializeFirebaseAdmin() {
   try {
     // Try to use service account file first
     const serviceAccountPath = process.env.GOOGLE_APPLICATION_CREDENTIALS;
-    
+
     if (serviceAccountPath) {
       adminApp = initializeApp({
         credential: cert(serviceAccountPath),
       });
     } else if (process.env.FIREBASE_ADMIN_PRIVATE_KEY) {
       // Use environment variables
-      let privateKey = process.env.FIREBASE_ADMIN_PRIVATE_KEY;
-      
-      // Remove ALL surrounding quotes (single, double, or multiple)
-      privateKey = privateKey.replace(/^["']+|["']+$/g, '');
-      
-      // Handle escaped newlines
-      if (!privateKey.includes('\n') && privateKey.includes('\\n')) {
-        privateKey = privateKey.replace(/\\n/g, '\n');
+      const privateKey = formatPrivateKey(process.env.FIREBASE_ADMIN_PRIVATE_KEY);
+
+      const projectId = process.env.FIREBASE_ADMIN_PROJECT_ID || process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID;
+      const clientEmail = process.env.FIREBASE_ADMIN_CLIENT_EMAIL;
+
+      if (!projectId || !clientEmail) {
+        throw new Error('Missing FIREBASE_ADMIN_PROJECT_ID or FIREBASE_ADMIN_CLIENT_EMAIL');
       }
-      
-      // Additional cleanup for common issues
-      privateKey = privateKey.trim();
-      
+
       adminApp = initializeApp({
         credential: cert({
-          projectId: process.env.FIREBASE_ADMIN_PROJECT_ID || process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
-          clientEmail: process.env.FIREBASE_ADMIN_CLIENT_EMAIL,
-          privateKey: privateKey,
+          projectId,
+          clientEmail,
+          privateKey,
         }),
       });
     } else {
@@ -57,7 +74,7 @@ function initializeFirebaseAdmin() {
 
     adminAuth = getAuth(adminApp);
     adminDb = getFirestore(adminApp);
-    
+
     return { app: adminApp, auth: adminAuth, db: adminDb };
   } catch (error) {
     console.error('Error initializing Firebase Admin:', error);

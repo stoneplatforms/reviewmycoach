@@ -221,9 +221,11 @@ export async function searchCoachesWithFilters(params: {
  */
 export async function fetchPublicCoaches(params: {
   page?: number;
-  limit?: number;
+  limit?: number | null;
 }) {
-  const limit = params.limit || 24;
+  // If limit is null, fetch all coaches (use a very large number)
+  // If limit is undefined, use default of 24
+  const limit = params.limit === null ? 100000 : (params.limit || 24);
   const page = params.page || 1;
   const offset = (page - 1) * limit;
 

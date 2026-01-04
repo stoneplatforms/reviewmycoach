@@ -127,6 +127,18 @@ mutation ClaimCoach(
   )
 }
 
+mutation UpdateCoachTotalXP(
+  $id: String!
+  $totalXp: Int!
+) @auth(level: PUBLIC, insecureReason: "System updates XP on coach actions") {
+  coach_update(
+    id: $id
+    data: {
+      totalXp: $totalXp
+    }
+  )
+}
+
 # ============================================
 # Review Mutations
 # ============================================

@@ -1,35 +1,86 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { db } from '../../../lib/firebase-admin';
-import { auth } from '../../../lib/firebase-admin';
+import { initializeApp, getApps } from 'firebase/app';
+import { getDataConnect } from 'firebase/data-connect';
+import { getCoach, updateCoach } from '../../../lib/dataconnect';
+import { verifyFirebaseToken } from '../../../lib/firebase-admin-server';
 
-// GET - Fetch coach profile
+// Initialize Firebase Client for Data Connect
+let clientApp;
+if (getApps().length === 0) {
+  clientApp = initializeApp({
+    apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+    authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+    projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+    storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
+    messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+    appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
+  });
+} else {
+  clientApp = getApps()[0];
+}
+
+const dataConnect = getDataConnect(clientApp, {
+  connector: 'reviewmycoach',
+  location: 'us-east4',
+  service: 'review-my-coach-service'
+});
+
+// GET - Fetch coach profile by ID using Data Connect
 export async function GET(
   request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ) {
   try {
     const { id: coachId } = await params;
-    
-    const coachRef = db.doc(`coaches/${coachId}`);
-    const coachSnap = await coachRef.get();
-    
-    if (!coachSnap.exists) {
+
+    // Fetch coach from Data Connect
+    const result = await getCoach(dataConnect, { id: coachId });
+    const coach = result.data.coach;
+
+    if (!coach) {
       return NextResponse.json({ error: 'Coach not found' }, { status: 404 });
     }
 
-    const data = coachSnap.data();
-    if (!data) {
-      return NextResponse.json({ error: 'Coach data not found' }, { status: 404 });
-    }
-    const serializedData = {
-      ...data,
-      createdAt: data.createdAt?.toDate().toISOString() || null,
-      updatedAt: data.updatedAt?.toDate().toISOString() || null,
-    };
-
     return NextResponse.json({
-      id: coachSnap.id,
-      ...serializedData
+      id: coach.id,
+      username: coach.username,
+      userId: coach.userId,
+      displayName: coach.displayName,
+      email: coach.email,
+      phoneNumber: coach.phoneNumber,
+      bio: coach.bio,
+      sports: coach.sports || [],
+      specialties: coach.specialties || [],
+      certifications: coach.certifications || [],
+      location: coach.location,
+      organization: coach.organization,
+      role: coach.role,
+      gender: coach.gender,
+      ageGroup: coach.ageGroup || [],
+      availability: coach.availability || [],
+      languages: coach.languages || [],
+      website: coach.website,
+      socialMedia: coach.socialMedia,
+      hourlyRate: coach.hourlyRate || 0,
+      experience: coach.experience || 0,
+      averageRating: coach.averageRating || 0,
+      totalReviews: coach.totalReviews || 0,
+      profileImage: coach.profileImage,
+      isVerified: coach.isVerified || false,
+      isClaimed: coach.isClaimed,
+      sourceUrl: coach.sourceUrl,
+      subscriptionStatus: coach.subscriptionStatus,
+      subscriptionTier: coach.subscriptionTier || 0,
+      longevityPlatformYears: coach.longevityPlatformYears || 0,
+      careerYears: coach.careerYears || 0,
+      coursesCreated: coach.coursesCreated || 0,
+      jobsCompleted: coach.jobsCompleted || 0,
+      consistencyMultiplier: coach.consistencyMultiplier || 1.0,
+      totalXp: coach.totalXp || 0,
+      activeCardId: coach.activeCardId,
+      activeCardImageUrl: coach.activeCardImageUrl,
+      createdAt: coach.createdAt,
+      updatedAt: coach.updatedAt,
     });
 
   } catch (error) {
@@ -46,74 +97,57 @@ export async function PUT(
   try {
     const { id: coachId } = await params;
     const token = request.headers.get('authorization')?.replace('Bearer ', '');
-    
+
     if (!token) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
 
     // Verify the token
-    const decodedToken = await auth.verifyIdToken(token);
+    const decodedToken = await verifyFirebaseToken(token);
+    if (!decodedToken) {
+      return NextResponse.json({ error: 'Invalid token' }, { status: 401 });
+    }
     const userId = decodedToken.uid;
 
-    // Check if user owns this coach profile
-    const coachRef = db.doc(`coaches/${coachId}`);
-    const coachSnap = await coachRef.get();
-    
-    if (!coachSnap.exists) {
+    // Fetch coach to verify ownership
+    const result = await getCoach(dataConnect, { id: coachId });
+    const coach = result.data.coach;
+
+    if (!coach) {
       return NextResponse.json({ error: 'Coach not found' }, { status: 404 });
     }
 
-    const coachData = coachSnap.data();
-    if (!coachData) {
-      return NextResponse.json({ error: 'Coach data not found' }, { status: 404 });
-    }
-    if (coachData.userId !== userId) {
+    if (coach.userId !== userId) {
       return NextResponse.json({ error: 'Forbidden' }, { status: 403 });
     }
 
     const updates = await request.json();
-    
-    // Validate and sanitize updates
-    const allowedFields = [
-      'displayName', 'bio', 'sports', 'experience', 'certifications',
-      'hourlyRate', 'location', 'availability', 'specialties', 'languages',
-      'profileImage', 'phoneNumber', 'website', 'socialMedia', 'organization',
-      'role', 'gender', 'ageGroup', 'sourceUrl'
-    ];
-
-    const sanitizedUpdates: Record<string, any> = {};
-    for (const [key, value] of Object.entries(updates)) {
-      if (allowedFields.includes(key)) {
-        sanitizedUpdates[key] = value;
-      }
-    }
-
-    // Add update timestamp
-    sanitizedUpdates.updatedAt = new Date();
 
     // Validate specific fields
-    if (sanitizedUpdates.hourlyRate && (sanitizedUpdates.hourlyRate < 0 || sanitizedUpdates.hourlyRate > 1000)) {
+    if (updates.hourlyRate && (updates.hourlyRate < 0 || updates.hourlyRate > 1000)) {
       return NextResponse.json({ error: 'Hourly rate must be between 0 and 1000' }, { status: 400 });
     }
 
-    if (sanitizedUpdates.experience && (sanitizedUpdates.experience < 0 || sanitizedUpdates.experience > 50)) {
-      return NextResponse.json({ error: 'Experience must be between 0 and 50 years' }, { status: 400 });
-    }
+    // Update via Data Connect
+    await updateCoach(dataConnect, {
+      id: coachId,
+      bio: updates.bio,
+      sports: updates.sports,
+      location: updates.location,
+      hourlyRate: updates.hourlyRate,
+      profileImage: updates.profileImage,
+      isPublic: updates.isPublic,
+      activeCardId: updates.activeCardId,
+      activeCardImageUrl: updates.activeCardImageUrl,
+    });
 
-    if (sanitizedUpdates.sports && (!Array.isArray(sanitizedUpdates.sports) || sanitizedUpdates.sports.length === 0)) {
-      return NextResponse.json({ error: 'At least one sport must be selected' }, { status: 400 });
-    }
-
-    // Update the document
-    await coachRef.update(sanitizedUpdates);
-
-    return NextResponse.json({ 
-      success: true, 
-      message: 'Coach profile updated successfully' 
+    return NextResponse.json({
+      success: true,
+      message: 'Coach profile updated successfully'
     });
 
   } catch (error) {
     console.error('Error updating coach:', error);
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
   }
-} 
+}

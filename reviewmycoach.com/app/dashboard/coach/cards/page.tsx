@@ -6,6 +6,31 @@ import { useRouter } from 'next/navigation';
 import LoadingSpinner from '../../../components/LoadingSpinner';
 import Link from 'next/link';
 
+// Tier card thresholds - matches xp-service.ts
+const TIER_THRESHOLDS = [
+  { tier: 1, name: 'Rookie Coach', requiredXp: 0 },
+  { tier: 2, name: 'Professional Coach', requiredXp: 3000 },
+  { tier: 3, name: 'Elite Coach', requiredXp: 7000 },
+  { tier: 4, name: 'Veteran Coach', requiredXp: 12000 },
+  { tier: 5, name: 'Legendary Coach', requiredXp: 20000 },
+];
+
+function getXpProgress(totalXp: number) {
+  const currentTier = TIER_THRESHOLDS.filter(t => totalXp >= t.requiredXp).pop() || TIER_THRESHOLDS[0];
+  const nextTier = TIER_THRESHOLDS.find(t => t.requiredXp > totalXp);
+
+  if (!nextTier) {
+    return { currentTier, nextTier: null, xpToNext: 0, progressPercent: 100 };
+  }
+
+  const xpToNext = nextTier.requiredXp - totalXp;
+  const tierRange = nextTier.requiredXp - currentTier.requiredXp;
+  const xpInTier = totalXp - currentTier.requiredXp;
+  const progressPercent = Math.min(100, Math.round((xpInTier / tierRange) * 100));
+
+  return { currentTier, nextTier, xpToNext, progressPercent };
+}
+
 interface MarketplaceCard {
   id: string;
   name: string;
@@ -67,30 +92,30 @@ export default function CoachCardsPage() {
 
   const loadData = async () => {
     if (!user) return;
-    
+
     try {
-      // Get coach username from Firestore
+      // Get coach username from user role
       const userResponse = await fetch(`/api/auth/user-role?userId=${user.uid}`);
       if (userResponse.ok) {
         const userData = await userResponse.json();
         if (userData.role === 'coach') {
-          // Fetch coach username
           const username = userData.username;
           setCoachUsername(username);
           setCoachId(user.uid);
-          
-          // Fetch XP first
-          const xpResponse = await fetch(`/api/coaches/${username}/xp?userId=${user.uid}`);
+
+          // Fetch coach profile to get stored totalXp (no separate XP calculation needed!)
+          const coachResponse = await fetch(`/api/coaches/by-username/${username}`);
           let xp = 0;
-          if (xpResponse.ok) {
-            const xpData = await xpResponse.json();
-            xp = xpData.total_xp || xpData.xp || 0;
+          if (coachResponse.ok) {
+            const coachData = await coachResponse.json();
+            xp = coachData.coach?.totalXp || 0;
             setTotalXP(xp);
+            setActiveCardId(coachData.coach?.activeCardId || null);
           }
-          
+
           // Fetch user's cards (includes auto-unlocked tier cards)
           await loadMyCards(user.uid, username, xp);
-          
+
           // Fetch marketplace
           await loadMarketplace();
         } else {
@@ -264,6 +289,44 @@ export default function CoachCardsPage() {
             Customize your profile with unique cards that appear with your profile picture
           </p>
         </div>
+
+        {/* XP Progress Card */}
+        {totalXP > 0 && (() => {
+          const progress = getXpProgress(totalXP);
+          return (
+            <div className="mb-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl p-6 text-white shadow-lg">
+              <div className="flex items-center justify-between mb-4">
+                <div>
+                  <div className="text-sm opacity-80">Current Tier</div>
+                  <div className="text-2xl font-bold">{progress.currentTier.name}</div>
+                </div>
+                <div className="text-right">
+                  <div className="text-3xl font-bold">{totalXP.toLocaleString()}</div>
+                  <div className="text-sm opacity-80">Total XP</div>
+                </div>
+              </div>
+
+              {progress.nextTier ? (
+                <>
+                  <div className="relative h-3 bg-white/20 rounded-full overflow-hidden mb-2">
+                    <div
+                      className="absolute h-full bg-white rounded-full transition-all duration-500"
+                      style={{ width: `${progress.progressPercent}%` }}
+                    />
+                  </div>
+                  <div className="flex justify-between text-sm">
+                    <span>{progress.progressPercent}% to next tier</span>
+                    <span>{progress.xpToNext.toLocaleString()} XP to {progress.nextTier.name}</span>
+                  </div>
+                </>
+              ) : (
+                <div className="text-center py-2 bg-white/20 rounded-lg">
+                  🏆 Maximum tier achieved!
+                </div>
+              )}
+            </div>
+          );
+        })()}
 
         {/* Tabs */}
         <div className="border-b border-gray-200 mb-8">
