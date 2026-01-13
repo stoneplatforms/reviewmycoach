@@ -5,7 +5,6 @@
  * for use in API routes and server components.
  */
 
-import { initializeApp, getApps, cert } from 'firebase-admin/app';
 import { initializeApp as initializeClientApp, getApps as getClientApps } from 'firebase/app';
 import { getDataConnect } from 'firebase/data-connect';
 import {
@@ -15,36 +14,9 @@ import {
   type GetPublicCoachesVariables,
 } from './dataconnect';
 
-// Initialize Firebase Admin (for auth verification)
-if (getApps().length === 0) {
-  try {
-    // Try to use service account if available
-    const serviceAccountPath = process.env.GOOGLE_APPLICATION_CREDENTIALS;
-    if (serviceAccountPath) {
-      initializeApp({
-        credential: cert(serviceAccountPath),
-      });
-    } else if (process.env.FIREBASE_ADMIN_PRIVATE_KEY) {
-      // Use environment variables
-      let privateKey = process.env.FIREBASE_ADMIN_PRIVATE_KEY;
-      
-      // Handle escaped newlines
-      if (!privateKey.includes('\n') && privateKey.includes('\\n')) {
-        privateKey = privateKey.replace(/\\n/g, '\n');
-      }
-      
-      initializeApp({
-        credential: cert({
-          projectId: process.env.FIREBASE_ADMIN_PROJECT_ID || process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
-          clientEmail: process.env.FIREBASE_ADMIN_CLIENT_EMAIL,
-          privateKey: privateKey,
-        }),
-      });
-    }
-  } catch (error) {
-    console.warn('Firebase Admin initialization skipped:', error);
-  }
-}
+// Note: Firebase Admin is NOT needed for DataConnect operations
+// DataConnect uses the client SDK, not Admin SDK
+// Admin SDK initialization is handled separately in firebase-admin-server.ts when needed
 
 // Initialize Firebase Client App for Data Connect
 let clientApp;
