@@ -6,30 +6,43 @@ import { verifyFirebaseToken } from '../../../lib/firebase-admin-server';
 import { v4 as uuidv4 } from 'uuid';
 import Stripe from 'stripe';
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
-  apiVersion: '2025-05-28.basil',
-});
-
-// Initialize Firebase Client for Data Connect
-let clientApp;
-if (getApps().length === 0) {
-  clientApp = initializeApp({
-    apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
-    authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
-    projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
-    storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
-    messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
-    appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
+// Lazy initialization function for Stripe
+function getStripeInstance() {
+  if (!process.env.STRIPE_SECRET_KEY) {
+    throw new Error('STRIPE_SECRET_KEY is not configured');
+  }
+  return new Stripe(process.env.STRIPE_SECRET_KEY, {
+    apiVersion: '2025-05-28.basil',
   });
-} else {
-  clientApp = getApps()[0];
 }
 
-const dataConnect = getDataConnect(clientApp, {
-  connector: 'reviewmycoach',
-  location: 'us-east4',
-  service: 'review-my-coach-service'
-});
+// Lazy initialization function for DataConnect
+function getDataConnectInstance() {
+  // Check if required environment variables are available
+  if (!process.env.NEXT_PUBLIC_FIREBASE_API_KEY || !process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID) {
+    throw new Error('Firebase configuration is not available');
+  }
+
+  let clientApp;
+  if (getApps().length === 0) {
+    clientApp = initializeApp({
+      apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+      authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+      projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+      storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
+      messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+      appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
+    });
+  } else {
+    clientApp = getApps()[0];
+  }
+
+  return getDataConnect(clientApp, {
+    connector: 'reviewmycoach',
+    location: 'us-east4',
+    service: 'review-my-coach-service'
+  });
+}
 
 /**
  * POST /api/cards/purchase
@@ -57,6 +70,9 @@ export async function POST(request: NextRequest) {
       );
     }
 
+    // Get DataConnect instance
+    const dataConnect = getDataConnectInstance();
+
     // Get the marketplace card
     const cardResult = await getMarketplaceCard(dataConnect, { id: cardId });
     if (!cardResult.data.marketplaceCard) {
@@ -64,6 +80,9 @@ export async function POST(request: NextRequest) {
     }
 
     const card = cardResult.data.marketplaceCard;
+
+    // Get Stripe instance
+    const stripe = getStripeInstance();
 
     // Create Stripe payment intent
     const paymentIntent = await stripe.paymentIntents.create({
