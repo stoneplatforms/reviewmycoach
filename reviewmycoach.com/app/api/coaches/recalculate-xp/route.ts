@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { initializeApp, getApps } from 'firebase/app';
 import { getDataConnect } from 'firebase/data-connect';
-import { getPublicCoaches, updateCoachTotalXP } from '../../../lib/dataconnect';
+import { getPublicCoaches, updateCoachTotalXp } from '../../../lib/dataconnect';
 import { calculateCoachXP, type XPCalculationInputs } from '../../../lib/xp-calculator';
 
 // Initialize Firebase Client for Data Connect
@@ -26,7 +26,7 @@ const dataConnect = getDataConnect(clientApp, {
 });
 
 const BATCH_SIZE = 100; // Process 100 coaches at a time
-const CONCURRENT_UPDATES = 10; // Update 10 coaches in parallel
+const CONCURRENT_UPDATES = 10; // Update 10 coaches in parallel (avoid Firebase 503)
 
 /**
  * Process a batch of coaches in parallel
@@ -53,7 +53,7 @@ async function processBatch(coaches: any[]): Promise<{ updated: number; errors: 
 
         const xpResult = calculateCoachXP(inputs);
 
-        await updateCoachTotalXP(dataConnect, {
+        await updateCoachTotalXp(dataConnect, {
           id: coach.id,
           totalXp: xpResult.total_xp,
         });

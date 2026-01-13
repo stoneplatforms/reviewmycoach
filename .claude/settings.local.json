@@ -1,7 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npx tsx:*)"
+      "Bash(npx tsx:*)",
+      "Bash(firebase dataconnect:sdk:generate:*)",
+      "Bash(ls:*)",
+      "Bash(curl:*)",
+      "Bash(npm install:*)",
+      "Bash(DATABASE_URL=\"postgresql://postgres:78900@35.245.162.116:5432/postgres\" npx tsx:*)",
+      "Bash(firebase deploy:*)"
     ]
   }
 }

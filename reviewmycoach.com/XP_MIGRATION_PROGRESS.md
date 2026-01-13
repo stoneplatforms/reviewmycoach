@@ -53,24 +53,54 @@ But it's NOT exported from the generated dataconnect SDK (`app/lib/dataconnect/`
 
 ## Next Steps
 
-### 1. Regenerate DataConnect SDK
-Run this command to regenerate the SDK with the new mutation:
+### ✅ 1. Regenerate DataConnect SDK - DONE
+~~Run this command to regenerate the SDK with the new mutation:~~
 ```bash
 cd reviewmycoach.com
 firebase dataconnect:sdk:generate
 ```
 
-This should create the `updateCoachTotalXP` function in `app/lib/dataconnect/`.
+**Status**: ✅ Completed (Jan 4, 2026)
+- SDK regenerated successfully
+- `updateCoachTotalXp` (camelCase) is now exported
+- SDK copied from `dataconnect/app/lib/dataconnect` to `app/lib/dataconnect`
+- Fixed import in `app/api/coaches/recalculate-xp/route.ts` from `updateCoachTotalXP` to `updateCoachTotalXp`
 
-### 2. Run XP Recalculation
-After SDK is regenerated:
+### ⚠️ 2. Run XP Recalculation - IN PROGRESS
+**Current Status**: Partial completion with timeout issues
+
+**What Worked**:
+- First batch of 2000 coaches processed successfully in 36.13 seconds
+- Average rate: 55.6 coaches/second
+- No errors in first batch
+
+**What Went Wrong**:
+- Timeout errors on subsequent batches (2000+ coaches)
+- Fetch timeout exceeded (36+ seconds per batch is too long)
+- Default fetch timeout is ~30 seconds
+
+**Solutions**:
+
+Option A: Run with smaller batches (recommended for local):
 ```bash
-npx tsx scripts/recalculate-all-xp.ts
+# Process in smaller chunks to avoid timeouts
+for i in {0..50}; do
+  offset=$((i * 500))
+  echo "Processing offset $offset..."
+  curl -X POST "http://localhost:3000/api/coaches/recalculate-xp?offset=$offset&limit=500"
+  sleep 2
+done
 ```
 
-Or for production:
+Option B: Run against production (better timeout handling):
 ```bash
 BASE_URL=https://reviewmycoach.com npx tsx scripts/recalculate-all-xp.ts
+```
+
+Option C: Update script batch size from 2000 to 500:
+Edit `scripts/recalculate-all-xp.ts` line 11:
+```typescript
+const BATCH_SIZE = 500; // Changed from 2000
 ```
 
 ### 3. Verify It Works
@@ -78,6 +108,8 @@ Visit a coach profile and check:
 - XP displays correctly in sidebar
 - Tier card shows and doesn't disappear
 - No console errors
+
+**Test URL**: `http://localhost:3000/coach/DJR255` (or any coach username)
 
 ---
 

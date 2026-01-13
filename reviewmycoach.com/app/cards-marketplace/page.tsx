@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { User } from 'firebase/auth';
 import { auth, db } from '../lib/firebase-client';
 import { doc, getDoc } from 'firebase/firestore';
@@ -25,7 +25,7 @@ interface UserCard {
   purchasedAt: any;
 }
 
-export default function CardsMarketplace() {
+function CardsMarketplaceContent() {
   const [user, setUser] = useState<User | null>(null);
   const [loading, setLoading] = useState(true);
   const [purchasing, setPurchasing] = useState<string | null>(null);
@@ -288,6 +288,14 @@ export default function CardsMarketplace() {
         </div>
       )}
     </div>
+  );
+}
+
+export default function CardsMarketplace() {
+  return (
+    <Suspense fallback={<div className="min-h-screen flex items-center justify-center"><div className="text-xl">Loading...</div></div>}>
+      <CardsMarketplaceContent />
+    </Suspense>
   );
 }
 

@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { initializeApp, getApps } from 'firebase/app';
 import { getDataConnect } from 'firebase/data-connect';
-import { getCoachByUsername, updateCoach, updateCoachTotalXP } from '../../../../lib/dataconnect';
+import { getCoachByUsername, updateCoach, updateCoachTotalXp } from '../../../../lib/dataconnect';
 import { verifyFirebaseToken } from '../../../../lib/firebase-admin-server';
 import { hasXpAffectingChanges, calculateXpFromCoach } from '../../../../lib/xp-service';
 
@@ -142,7 +142,7 @@ export async function PUT(
       const newTotalXp = calculateXpFromCoach(updatedCoach);
 
       try {
-        await updateCoachTotalXP(dataConnect, {
+        await updateCoachTotalXp(dataConnect, {
           id: coach.id,
           totalXp: newTotalXp,
         });

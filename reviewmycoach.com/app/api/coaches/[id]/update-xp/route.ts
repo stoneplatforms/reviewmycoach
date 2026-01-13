@@ -5,7 +5,7 @@ import {
   getCoachByUsername,
   getUserCards,
   unlockTierCard,
-  updateCoachTotalXP,
+  updateCoachTotalXp,
 } from '../../../../lib/dataconnect';
 import {
   calculateXpFromCoach,
@@ -81,7 +81,7 @@ export async function POST(
     const previousXp = coach.totalXp || 0;
 
     // Update totalXp in database
-    await updateCoachTotalXP(dataConnect, {
+    await updateCoachTotalXp(dataConnect, {
       id: coachId,
       totalXp: totalXp,
     });

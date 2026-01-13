@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, Suspense } from 'react';
 import { User } from 'firebase/auth';
 import { doc, setDoc, getDoc } from 'firebase/firestore';
 import { db } from '../lib/firebase-client';
@@ -9,7 +9,7 @@ import { useAuth } from '../lib/hooks/useAuth';
 
 type OnboardingStep = 'claim_account' | 'username' | 'role' | 'coach_options' | 'claim_check' | 'claim_profile' | 'no_profiles_found' | 'identity_verify' | 'loading';
 
-export default function Onboarding() {
+function OnboardingContent() {
   const [currentStep, setCurrentStep] = useState<OnboardingStep>('loading');
   const [username, setUsername] = useState('');
   const [usernameError, setUsernameError] = useState('');
@@ -519,6 +519,14 @@ export default function Onboarding() {
         )}
       </div>
     </div>
+  );
+}
+
+export default function Onboarding() {
+  return (
+    <Suspense fallback={<div className="min-h-screen flex items-center justify-center"><div className="text-xl">Loading...</div></div>}>
+      <OnboardingContent />
+    </Suspense>
   );
 }
 

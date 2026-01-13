@@ -234,7 +234,7 @@ export async function GET(request: NextRequest) {
     }
 
     const count = formattedCoaches.length;
-    const hasMore = formattedCoaches.length === limitParam && coaches.length >= fetchLimit;
+    const hasMore = formattedCoaches.length === limitParam && coaches.length >= (fetchLimit || 0);
 
     return NextResponse.json({
       coaches: formattedCoaches,

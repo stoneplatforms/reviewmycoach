@@ -130,12 +130,13 @@ export default function Home() {
       <section className="relative w-full min-h-[900px]">
         {/* Black background base */}
         <div className="absolute inset-0 bg-black"></div>
-        
-        {/* Blue diagonal section */}
-        <div 
-          className="absolute inset-0 bg-blue-600"
+
+        {/* Dark grey diagonal section */}
+        <div
+          className="absolute inset-0"
           style={{
-            clipPath: 'polygon(0 50%, 100% 0, 100% 100%, 0 100%)'
+            clipPath: 'polygon(0 50%, 100% 0, 100% 100%, 0 100%)',
+            backgroundColor: '#191919'
           }}
         />
 
@@ -182,12 +183,12 @@ export default function Home() {
       <CoachProPromoSection />
 
       {/* CTA Section */}
-      <div className="bg-white py-20">
+      <div className="py-20" style={{ backgroundColor: '#191919' }}>
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-4xl font-bold text-gray-900 mb-6">
+          <h2 className="text-4xl font-bold text-white mb-6">
             Ready to Level Up Your Game?
           </h2>
-          <p className="text-xl text-gray-600 mb-12">
+          <p className="text-xl text-gray-300 mb-12">
             Join thousands of athletes who have found their perfect coach on ReviewMyCoach.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -202,7 +203,7 @@ export default function Home() {
             </Link>
             <Link
               href="/signup"
-              className="inline-flex items-center justify-center px-8 py-4 border-2 border-gray-700 text-gray-200 rounded-xl font-bold text-lg hover:bg-gray-800 hover:text-gray-200 transition-all duration-300"
+              className="inline-flex items-center justify-center px-8 py-4 border-2 border-gray-300 text-gray-200 rounded-xl font-bold text-lg hover:bg-gray-700 hover:text-white transition-all duration-300"
             >
               Join as Coach
               <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">

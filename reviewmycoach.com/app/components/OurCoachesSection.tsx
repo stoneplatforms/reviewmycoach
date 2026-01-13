@@ -36,13 +36,32 @@ export default function OurCoachesSection() {
   }, []);
 
   useEffect(() => {
+    const CACHE_KEY = 'our_coaches_cache';
+    const CACHE_DURATION = 10 * 60 * 1000; // 10 minutes in milliseconds
+
     const fetchCoaches = async () => {
       try {
+        // Check if we have cached data
+        const cachedData = localStorage.getItem(CACHE_KEY);
+        if (cachedData) {
+          const { data: cachedCoaches, timestamp } = JSON.parse(cachedData);
+          const now = Date.now();
+
+          // If cache is still valid, use it
+          if (now - timestamp < CACHE_DURATION) {
+            console.log('📦 Using cached coaches data');
+            setCoaches(cachedCoaches);
+            return;
+          } else {
+            console.log('⏰ Cache expired, fetching fresh data');
+          }
+        }
+
         // Fetch coaches sorted by XP (highest first) from Firebase Data Connect
         const response = await fetch('/api/coaches?sortByXP=true');
         if (response.ok) {
           const data = await response.json();
-          
+
           // Debug: Log the response
           console.log('📊 Coaches API Response:', {
             total: data.coaches?.length,
@@ -52,13 +71,13 @@ export default function OurCoachesSection() {
               xp: c.xp
             }))
           });
-          
+
           // Fetch active cards for all coaches in parallel
           const coachesWithCards = await Promise.all(
             (data.coaches || []).map(async (coach: Coach) => {
               // XP is already included in the API response and sorted
               let coachWithCard = { ...coach };
-              
+
               // Fetch active profile card for this coach
               // Only fetch if userId is a valid Firebase UID (not starting with "coach_")
               if (coach.userId && !coach.userId.startsWith('coach_')) {
@@ -78,21 +97,29 @@ export default function OurCoachesSection() {
               return coachWithCard;
             })
           );
-          
+
           // Double-check sorting by XP (in case API didn't sort correctly)
           coachesWithCards.sort((a, b) => (b.xp || 0) - (a.xp || 0));
-          
+
           console.log('✅ Final sorted coaches:', coachesWithCards.slice(0, 4).map(c => ({
             username: c.username,
             displayName: c.displayName,
             xp: c.xp
           })));
-          
+
+          // Save to cache
+          localStorage.setItem(CACHE_KEY, JSON.stringify({
+            data: coachesWithCards,
+            timestamp: Date.now()
+          }));
+          console.log('💾 Coaches data cached');
+
           setCoaches(coachesWithCards);
         } else {
           console.error('❌ Failed to fetch coaches:', response.status, response.statusText);
         }
       } catch (err) {
+        console.error('❌ Error fetching coaches:', err);
         // Fallback demo data
         setCoaches([
           {
@@ -165,7 +192,7 @@ export default function OurCoachesSection() {
                   </div>
 
                   {/* Tier Card Frame (On Top - overlays profile picture, like profile page) */}
-                  {hasCard ? (
+                  {hasCard && coach.activeProfileCardImageUrl && (
                     <div className="absolute inset-0 z-10 pointer-events-none overflow-hidden rounded-2xl">
                       <Image
                         src={coach.activeProfileCardImageUrl}
@@ -175,7 +202,7 @@ export default function OurCoachesSection() {
                         style={{ width: '100%', height: '100%' }}
                       />
                     </div>
-                  ) : null}
+                  )}
 
                   {/* Inner bottom inset shadow overlay (above image, below text) - only show if no card */}
                   {!hasCard && (
@@ -218,8 +245,8 @@ export default function OurCoachesSection() {
 
       {/* See More Coaches Button */}
       <div className="mt-8 px-4 sm:px-6 lg:px-8 flex justify-center">
-        <Link 
-          href="/coaches" 
+        <Link
+          href="/search"
           className="inline-flex items-center justify-center px-6 py-3 bg-white/10 hover:bg-white/20 border border-white/20 rounded-lg text-white font-medium transition-colors gap-2"
         >
           See More Coaches

@@ -7,7 +7,7 @@ import { v4 as uuidv4 } from 'uuid';
 import Stripe from 'stripe';
 
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
-  apiVersion: '2024-11-20.acacia',
+  apiVersion: '2025-05-28.basil',
 });
 
 // Initialize Firebase Client for Data Connect
@@ -67,7 +67,7 @@ export async function POST(request: NextRequest) {
 
     // Create Stripe payment intent
     const paymentIntent = await stripe.paymentIntents.create({
-      amount: Math.round(card.price * 100), // Convert to cents
+      amount: Math.round((card.price || 0) * 100), // Convert to cents
       currency: 'usd',
       payment_method: paymentMethodId,
       confirm: true,
@@ -96,8 +96,8 @@ export async function POST(request: NextRequest) {
       userId: decodedToken.uid,
       coachUsername: coachUsername,
       cardId: cardId,
-      cardName: card.name,
-      cardImageUrl: card.imageUrl,
+      cardName: card.name || '',
+      cardImageUrl: card.imageUrl || '',
       stripePaymentId: paymentIntent.id,
     });
 

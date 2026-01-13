@@ -226,8 +226,34 @@ export default function GlobalSearchBar({
               )}
             </>
           ) : searchTerm.length >= 2 ? (
-            <div className="px-4 py-3 text-sm text-gray-400">
-              {loading ? 'Searching...' : 'No suggestions found'}
+            <div>
+              <div className="px-4 py-3 text-sm text-gray-400">
+                {loading ? 'Searching...' : 'No coaches found'}
+              </div>
+              {!loading && (
+                <>
+                  <div className="border-t border-gray-800"></div>
+                  <button
+                    onClick={() => {
+                      router.push(`/add-coach?name=${encodeURIComponent(searchTerm)}`);
+                      setIsOpen(false);
+                    }}
+                    className="w-full px-4 py-2.5 text-left hover:bg-gray-800 flex items-center space-x-3 transition-colors text-gray-300"
+                  >
+                    <svg className="w-4 h-4 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2.5}>
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M12 4v16m8-8H4" />
+                    </svg>
+                    <div className="flex-1">
+                      <div className="text-sm font-medium text-white">
+                        Can&apos;t find a coach?
+                      </div>
+                      <div className="text-xs text-gray-400">
+                        You can add one to review here
+                      </div>
+                    </div>
+                  </button>
+                </>
+              )}
             </div>
           ) : (
             <div className="px-4 py-3 text-sm text-gray-400">

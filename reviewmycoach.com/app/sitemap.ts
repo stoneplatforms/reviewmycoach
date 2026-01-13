@@ -15,19 +15,24 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   ];
 
   // Dynamic coach profile URLs
-  const coachDocs = await db.collection('coaches').select('username', 'updatedAt').limit(5000).get();
-  const coachRoutes: MetadataRoute.Sitemap = [];
-  coachDocs.forEach((doc) => {
-    const data = doc.data() as { username?: string; updatedAt?: { toDate: () => Date } };
-    const username = data.username || doc.id;
-    if (!username) return;
-    coachRoutes.push({
-      url: `${baseUrl}/coach/${encodeURIComponent(String(username))}`,
-      lastModified: data.updatedAt ? data.updatedAt.toDate() : undefined,
-      changeFrequency: 'weekly',
-      priority: 0.7,
+  let coachRoutes: MetadataRoute.Sitemap = [];
+  try {
+    const coachDocs = await db.collection('coaches').select('username', 'updatedAt').limit(5000).get();
+    coachDocs.forEach((doc) => {
+      const data = doc.data() as { username?: string; updatedAt?: { toDate: () => Date } };
+      const username = data.username || doc.id;
+      if (!username) return;
+      coachRoutes.push({
+        url: `${baseUrl}/coach/${encodeURIComponent(String(username))}`,
+        lastModified: data.updatedAt ? data.updatedAt.toDate() : undefined,
+        changeFrequency: 'weekly',
+        priority: 0.7,
+      });
     });
-  });
+  } catch (error) {
+    // If Firebase fails during build (e.g., missing credentials), just return static routes
+    console.warn('Failed to fetch coach profiles for sitemap:', error);
+  }
 
   return [...staticRoutes, ...coachRoutes];
 }

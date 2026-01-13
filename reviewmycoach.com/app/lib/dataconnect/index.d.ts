@@ -10,6 +10,16 @@ export type DateString = string;
 
 
 
+export interface ApproveCoachRequestData {
+  coachRequest_update?: CoachRequest_Key | null;
+}
+
+export interface ApproveCoachRequestVariables {
+  id: string;
+  reviewedByUserId: string;
+  createdCoachId: string;
+}
+
 export interface Booking_Key {
   id: string;
   __typename?: 'Booking_Key';
@@ -56,6 +66,11 @@ export interface Class_Key {
   __typename?: 'Class_Key';
 }
 
+export interface CoachRequest_Key {
+  id: string;
+  __typename?: 'CoachRequest_Key';
+}
+
 export interface Coach_Key {
   id: string;
   __typename?: 'Coach_Key';
@@ -82,6 +97,19 @@ export interface CountAllCoachesData {
 
 export interface CreateCoachData {
   coach_insert: Coach_Key;
+}
+
+export interface CreateCoachRequestData {
+  coachRequest_insert: CoachRequest_Key;
+}
+
+export interface CreateCoachRequestVariables {
+  id: string;
+  submittedByUserId?: string | null;
+  submittedByName?: string | null;
+  coachName: string;
+  school: string;
+  sport: string;
 }
 
 export interface CreateCoachVariables {
@@ -139,6 +167,36 @@ export interface CreateUserVariables {
   firstName?: string | null;
   lastName?: string | null;
   role?: string | null;
+}
+
+export interface DeleteCoachData {
+  coach_delete?: Coach_Key | null;
+}
+
+export interface DeleteCoachVariables {
+  id: string;
+}
+
+export interface GetActiveCoachServicesByIdData {
+  services: ({
+    id: string;
+    coachId?: string | null;
+    coachUsername?: string | null;
+    title?: string | null;
+    description?: string | null;
+    price?: number | null;
+    duration?: number | null;
+    isActive?: boolean | null;
+    totalBookings?: number | null;
+    createdAt?: TimestampString | null;
+    updatedAt?: TimestampString | null;
+  } & Service_Key)[];
+}
+
+export interface GetActiveCoachServicesByIdVariables {
+  coachId: string;
+  limit?: number | null;
+  offset?: number | null;
 }
 
 export interface GetClaimableCoachesData {
@@ -204,6 +262,7 @@ export interface GetCoachByUsernameData {
     coursesCreated?: number | null;
     jobsCompleted?: number | null;
     consistencyMultiplier?: number | null;
+    totalXp?: number | null;
     activeCardId?: string | null;
     activeCardImageUrl?: string | null;
     createdAt?: TimestampString | null;
@@ -237,16 +296,85 @@ export interface GetCoachData {
     userId?: string | null;
     displayName?: string | null;
     email?: string | null;
+    phoneNumber?: string | null;
     bio?: string | null;
     sports?: unknown | null;
+    specialties?: unknown | null;
+    certifications?: unknown | null;
     location?: string | null;
+    organization?: string | null;
+    role?: string | null;
+    gender?: string | null;
+    ageGroup?: unknown | null;
+    availability?: unknown | null;
+    languages?: unknown | null;
+    website?: string | null;
+    socialMedia?: unknown | null;
     hourlyRate?: number | null;
+    experience?: number | null;
     averageRating?: number | null;
     totalReviews?: number | null;
     profileImage?: string | null;
+    isVerified?: boolean | null;
     isClaimed?: boolean | null;
+    sourceUrl?: string | null;
     subscriptionStatus?: string | null;
+    subscriptionTier?: number | null;
+    longevityPlatformYears?: number | null;
+    careerYears?: number | null;
+    coursesCreated?: number | null;
+    jobsCompleted?: number | null;
+    consistencyMultiplier?: number | null;
+    totalXp?: number | null;
+    activeCardId?: string | null;
+    activeCardImageUrl?: string | null;
+    createdAt?: TimestampString | null;
+    updatedAt?: TimestampString | null;
   } & Coach_Key;
+}
+
+export interface GetCoachRequestData {
+  coachRequest?: {
+    id: string;
+    submittedByUserId?: string | null;
+    submittedByName?: string | null;
+    coachName?: string | null;
+    school?: string | null;
+    sport?: string | null;
+    status?: string | null;
+    reviewedByUserId?: string | null;
+    reviewedAt?: TimestampString | null;
+    rejectionReason?: string | null;
+    createdCoachId?: string | null;
+    createdAt?: TimestampString | null;
+    updatedAt?: TimestampString | null;
+  } & CoachRequest_Key;
+}
+
+export interface GetCoachRequestVariables {
+  id: string;
+}
+
+export interface GetCoachRequestsData {
+  coachRequests: ({
+    id: string;
+    submittedByUserId?: string | null;
+    submittedByName?: string | null;
+    coachName?: string | null;
+    school?: string | null;
+    sport?: string | null;
+    status?: string | null;
+    reviewedByUserId?: string | null;
+    reviewedAt?: TimestampString | null;
+    rejectionReason?: string | null;
+    createdCoachId?: string | null;
+    createdAt?: TimestampString | null;
+    updatedAt?: TimestampString | null;
+  } & CoachRequest_Key)[];
+}
+
+export interface GetCoachRequestsVariables {
+  status?: string | null;
 }
 
 export interface GetCoachReviewsData {
@@ -288,6 +416,50 @@ export interface GetCoachReviewsPaginatedVariables {
 export interface GetCoachReviewsVariables {
   coachId: string;
   limit?: number | null;
+}
+
+export interface GetCoachServicesByIdData {
+  services: ({
+    id: string;
+    coachId?: string | null;
+    coachUsername?: string | null;
+    title?: string | null;
+    description?: string | null;
+    price?: number | null;
+    duration?: number | null;
+    isActive?: boolean | null;
+    totalBookings?: number | null;
+    createdAt?: TimestampString | null;
+    updatedAt?: TimestampString | null;
+  } & Service_Key)[];
+}
+
+export interface GetCoachServicesByIdVariables {
+  coachId: string;
+  limit?: number | null;
+  offset?: number | null;
+}
+
+export interface GetCoachServicesByUsernameData {
+  services: ({
+    id: string;
+    coachId?: string | null;
+    coachUsername?: string | null;
+    title?: string | null;
+    description?: string | null;
+    price?: number | null;
+    duration?: number | null;
+    isActive?: boolean | null;
+    totalBookings?: number | null;
+    createdAt?: TimestampString | null;
+    updatedAt?: TimestampString | null;
+  } & Service_Key)[];
+}
+
+export interface GetCoachServicesByUsernameVariables {
+  coachUsername: string;
+  limit?: number | null;
+  offset?: number | null;
 }
 
 export interface GetCoachVariables {
@@ -357,6 +529,19 @@ export interface GetMarketplaceCardsVariables {
   offset?: number | null;
 }
 
+export interface GetPendingCoachRequestsData {
+  coachRequests: ({
+    id: string;
+    submittedByUserId?: string | null;
+    submittedByName?: string | null;
+    coachName?: string | null;
+    school?: string | null;
+    sport?: string | null;
+    status?: string | null;
+    createdAt?: TimestampString | null;
+  } & CoachRequest_Key)[];
+}
+
 export interface GetPublicCoachesData {
   coaches: ({
     id: string;
@@ -375,6 +560,16 @@ export interface GetPublicCoachesData {
     profileImage?: string | null;
     isVerified?: boolean | null;
     hasActiveServices?: boolean | null;
+    subscriptionTier?: number | null;
+    longevityPlatformYears?: number | null;
+    careerYears?: number | null;
+    coursesCreated?: number | null;
+    jobsCompleted?: number | null;
+    consistencyMultiplier?: number | null;
+    totalXp?: number | null;
+    isClaimed?: boolean | null;
+    createdAt?: TimestampString | null;
+    updatedAt?: TimestampString | null;
   } & Coach_Key)[];
 }
 
@@ -410,6 +605,35 @@ export interface GetTierCardsData {
     imageUrl?: string | null;
     description?: string | null;
   } & TierCard_Key)[];
+}
+
+export interface GetTopCoachesByXpData {
+  coaches: ({
+    id: string;
+    username?: string | null;
+    userId?: string | null;
+    displayName?: string | null;
+    bio?: string | null;
+    sports?: unknown | null;
+    specialties?: unknown | null;
+    location?: string | null;
+    organization?: string | null;
+    role?: string | null;
+    hourlyRate?: number | null;
+    averageRating?: number | null;
+    totalReviews?: number | null;
+    profileImage?: string | null;
+    isVerified?: boolean | null;
+    hasActiveServices?: boolean | null;
+    isClaimed?: boolean | null;
+    totalXp?: number | null;
+    createdAt?: TimestampString | null;
+    updatedAt?: TimestampString | null;
+  } & Coach_Key)[];
+}
+
+export interface GetTopCoachesByXpVariables {
+  limit?: number | null;
 }
 
 export interface GetUserByEmailData {
@@ -519,6 +743,16 @@ export interface PurchaseCardVariables {
   cardName: string;
   cardImageUrl: string;
   stripePaymentId?: string | null;
+}
+
+export interface RejectCoachRequestData {
+  coachRequest_update?: CoachRequest_Key | null;
+}
+
+export interface RejectCoachRequestVariables {
+  id: string;
+  reviewedByUserId: string;
+  rejectionReason?: string | null;
 }
 
 export interface Report_Key {
@@ -649,6 +883,15 @@ export interface UpdateCoachRatingStatsVariables {
   totalReviews: number;
 }
 
+export interface UpdateCoachTotalXpData {
+  coach_update?: Coach_Key | null;
+}
+
+export interface UpdateCoachTotalXpVariables {
+  id: string;
+  totalXp: number;
+}
+
 export interface UpdateCoachVariables {
   id: string;
   bio?: string | null;
@@ -771,6 +1014,30 @@ export const claimCoachRef: ClaimCoachRef;
 export function claimCoach(vars: ClaimCoachVariables): MutationPromise<ClaimCoachData, ClaimCoachVariables>;
 export function claimCoach(dc: DataConnect, vars: ClaimCoachVariables): MutationPromise<ClaimCoachData, ClaimCoachVariables>;
 
+interface UpdateCoachTotalXpRef {
+  /* Allow users to create refs without passing in DataConnect */
+  (vars: UpdateCoachTotalXpVariables): MutationRef<UpdateCoachTotalXpData, UpdateCoachTotalXpVariables>;
+  /* Allow users to pass in custom DataConnect instances */
+  (dc: DataConnect, vars: UpdateCoachTotalXpVariables): MutationRef<UpdateCoachTotalXpData, UpdateCoachTotalXpVariables>;
+  operationName: string;
+}
+export const updateCoachTotalXpRef: UpdateCoachTotalXpRef;
+
+export function updateCoachTotalXp(vars: UpdateCoachTotalXpVariables): MutationPromise<UpdateCoachTotalXpData, UpdateCoachTotalXpVariables>;
+export function updateCoachTotalXp(dc: DataConnect, vars: UpdateCoachTotalXpVariables): MutationPromise<UpdateCoachTotalXpData, UpdateCoachTotalXpVariables>;
+
+interface DeleteCoachRef {
+  /* Allow users to create refs without passing in DataConnect */
+  (vars: DeleteCoachVariables): MutationRef<DeleteCoachData, DeleteCoachVariables>;
+  /* Allow users to pass in custom DataConnect instances */
+  (dc: DataConnect, vars: DeleteCoachVariables): MutationRef<DeleteCoachData, DeleteCoachVariables>;
+  operationName: string;
+}
+export const deleteCoachRef: DeleteCoachRef;
+
+export function deleteCoach(vars: DeleteCoachVariables): MutationPromise<DeleteCoachData, DeleteCoachVariables>;
+export function deleteCoach(dc: DataConnect, vars: DeleteCoachVariables): MutationPromise<DeleteCoachData, DeleteCoachVariables>;
+
 interface CreateReviewRef {
   /* Allow users to create refs without passing in DataConnect */
   (vars: CreateReviewVariables): MutationRef<CreateReviewData, CreateReviewVariables>;
@@ -854,6 +1121,42 @@ export const updateCoachActiveCardRef: UpdateCoachActiveCardRef;
 
 export function updateCoachActiveCard(vars: UpdateCoachActiveCardVariables): MutationPromise<UpdateCoachActiveCardData, UpdateCoachActiveCardVariables>;
 export function updateCoachActiveCard(dc: DataConnect, vars: UpdateCoachActiveCardVariables): MutationPromise<UpdateCoachActiveCardData, UpdateCoachActiveCardVariables>;
+
+interface CreateCoachRequestRef {
+  /* Allow users to create refs without passing in DataConnect */
+  (vars: CreateCoachRequestVariables): MutationRef<CreateCoachRequestData, CreateCoachRequestVariables>;
+  /* Allow users to pass in custom DataConnect instances */
+  (dc: DataConnect, vars: CreateCoachRequestVariables): MutationRef<CreateCoachRequestData, CreateCoachRequestVariables>;
+  operationName: string;
+}
+export const createCoachRequestRef: CreateCoachRequestRef;
+
+export function createCoachRequest(vars: CreateCoachRequestVariables): MutationPromise<CreateCoachRequestData, CreateCoachRequestVariables>;
+export function createCoachRequest(dc: DataConnect, vars: CreateCoachRequestVariables): MutationPromise<CreateCoachRequestData, CreateCoachRequestVariables>;
+
+interface ApproveCoachRequestRef {
+  /* Allow users to create refs without passing in DataConnect */
+  (vars: ApproveCoachRequestVariables): MutationRef<ApproveCoachRequestData, ApproveCoachRequestVariables>;
+  /* Allow users to pass in custom DataConnect instances */
+  (dc: DataConnect, vars: ApproveCoachRequestVariables): MutationRef<ApproveCoachRequestData, ApproveCoachRequestVariables>;
+  operationName: string;
+}
+export const approveCoachRequestRef: ApproveCoachRequestRef;
+
+export function approveCoachRequest(vars: ApproveCoachRequestVariables): MutationPromise<ApproveCoachRequestData, ApproveCoachRequestVariables>;
+export function approveCoachRequest(dc: DataConnect, vars: ApproveCoachRequestVariables): MutationPromise<ApproveCoachRequestData, ApproveCoachRequestVariables>;
+
+interface RejectCoachRequestRef {
+  /* Allow users to create refs without passing in DataConnect */
+  (vars: RejectCoachRequestVariables): MutationRef<RejectCoachRequestData, RejectCoachRequestVariables>;
+  /* Allow users to pass in custom DataConnect instances */
+  (dc: DataConnect, vars: RejectCoachRequestVariables): MutationRef<RejectCoachRequestData, RejectCoachRequestVariables>;
+  operationName: string;
+}
+export const rejectCoachRequestRef: RejectCoachRequestRef;
+
+export function rejectCoachRequest(vars: RejectCoachRequestVariables): MutationPromise<RejectCoachRequestData, RejectCoachRequestVariables>;
+export function rejectCoachRequest(dc: DataConnect, vars: RejectCoachRequestVariables): MutationPromise<RejectCoachRequestData, RejectCoachRequestVariables>;
 
 interface GetUserRef {
   /* Allow users to create refs without passing in DataConnect */
@@ -987,6 +1290,18 @@ export const getPublicCoachesRef: GetPublicCoachesRef;
 export function getPublicCoaches(vars?: GetPublicCoachesVariables): QueryPromise<GetPublicCoachesData, GetPublicCoachesVariables>;
 export function getPublicCoaches(dc: DataConnect, vars?: GetPublicCoachesVariables): QueryPromise<GetPublicCoachesData, GetPublicCoachesVariables>;
 
+interface GetTopCoachesByXpRef {
+  /* Allow users to create refs without passing in DataConnect */
+  (vars?: GetTopCoachesByXpVariables): QueryRef<GetTopCoachesByXpData, GetTopCoachesByXpVariables>;
+  /* Allow users to pass in custom DataConnect instances */
+  (dc: DataConnect, vars?: GetTopCoachesByXpVariables): QueryRef<GetTopCoachesByXpData, GetTopCoachesByXpVariables>;
+  operationName: string;
+}
+export const getTopCoachesByXpRef: GetTopCoachesByXpRef;
+
+export function getTopCoachesByXp(vars?: GetTopCoachesByXpVariables): QueryPromise<GetTopCoachesByXpData, GetTopCoachesByXpVariables>;
+export function getTopCoachesByXp(dc: DataConnect, vars?: GetTopCoachesByXpVariables): QueryPromise<GetTopCoachesByXpData, GetTopCoachesByXpVariables>;
+
 interface GetCoachReviewsRef {
   /* Allow users to create refs without passing in DataConnect */
   (vars: GetCoachReviewsVariables): QueryRef<GetCoachReviewsData, GetCoachReviewsVariables>;
@@ -1118,4 +1433,76 @@ export const getCoachActiveCardRef: GetCoachActiveCardRef;
 
 export function getCoachActiveCard(vars: GetCoachActiveCardVariables): QueryPromise<GetCoachActiveCardData, GetCoachActiveCardVariables>;
 export function getCoachActiveCard(dc: DataConnect, vars: GetCoachActiveCardVariables): QueryPromise<GetCoachActiveCardData, GetCoachActiveCardVariables>;
+
+interface GetCoachServicesByIdRef {
+  /* Allow users to create refs without passing in DataConnect */
+  (vars: GetCoachServicesByIdVariables): QueryRef<GetCoachServicesByIdData, GetCoachServicesByIdVariables>;
+  /* Allow users to pass in custom DataConnect instances */
+  (dc: DataConnect, vars: GetCoachServicesByIdVariables): QueryRef<GetCoachServicesByIdData, GetCoachServicesByIdVariables>;
+  operationName: string;
+}
+export const getCoachServicesByIdRef: GetCoachServicesByIdRef;
+
+export function getCoachServicesById(vars: GetCoachServicesByIdVariables): QueryPromise<GetCoachServicesByIdData, GetCoachServicesByIdVariables>;
+export function getCoachServicesById(dc: DataConnect, vars: GetCoachServicesByIdVariables): QueryPromise<GetCoachServicesByIdData, GetCoachServicesByIdVariables>;
+
+interface GetCoachServicesByUsernameRef {
+  /* Allow users to create refs without passing in DataConnect */
+  (vars: GetCoachServicesByUsernameVariables): QueryRef<GetCoachServicesByUsernameData, GetCoachServicesByUsernameVariables>;
+  /* Allow users to pass in custom DataConnect instances */
+  (dc: DataConnect, vars: GetCoachServicesByUsernameVariables): QueryRef<GetCoachServicesByUsernameData, GetCoachServicesByUsernameVariables>;
+  operationName: string;
+}
+export const getCoachServicesByUsernameRef: GetCoachServicesByUsernameRef;
+
+export function getCoachServicesByUsername(vars: GetCoachServicesByUsernameVariables): QueryPromise<GetCoachServicesByUsernameData, GetCoachServicesByUsernameVariables>;
+export function getCoachServicesByUsername(dc: DataConnect, vars: GetCoachServicesByUsernameVariables): QueryPromise<GetCoachServicesByUsernameData, GetCoachServicesByUsernameVariables>;
+
+interface GetActiveCoachServicesByIdRef {
+  /* Allow users to create refs without passing in DataConnect */
+  (vars: GetActiveCoachServicesByIdVariables): QueryRef<GetActiveCoachServicesByIdData, GetActiveCoachServicesByIdVariables>;
+  /* Allow users to pass in custom DataConnect instances */
+  (dc: DataConnect, vars: GetActiveCoachServicesByIdVariables): QueryRef<GetActiveCoachServicesByIdData, GetActiveCoachServicesByIdVariables>;
+  operationName: string;
+}
+export const getActiveCoachServicesByIdRef: GetActiveCoachServicesByIdRef;
+
+export function getActiveCoachServicesById(vars: GetActiveCoachServicesByIdVariables): QueryPromise<GetActiveCoachServicesByIdData, GetActiveCoachServicesByIdVariables>;
+export function getActiveCoachServicesById(dc: DataConnect, vars: GetActiveCoachServicesByIdVariables): QueryPromise<GetActiveCoachServicesByIdData, GetActiveCoachServicesByIdVariables>;
+
+interface GetPendingCoachRequestsRef {
+  /* Allow users to create refs without passing in DataConnect */
+  (): QueryRef<GetPendingCoachRequestsData, undefined>;
+  /* Allow users to pass in custom DataConnect instances */
+  (dc: DataConnect): QueryRef<GetPendingCoachRequestsData, undefined>;
+  operationName: string;
+}
+export const getPendingCoachRequestsRef: GetPendingCoachRequestsRef;
+
+export function getPendingCoachRequests(): QueryPromise<GetPendingCoachRequestsData, undefined>;
+export function getPendingCoachRequests(dc: DataConnect): QueryPromise<GetPendingCoachRequestsData, undefined>;
+
+interface GetCoachRequestsRef {
+  /* Allow users to create refs without passing in DataConnect */
+  (vars?: GetCoachRequestsVariables): QueryRef<GetCoachRequestsData, GetCoachRequestsVariables>;
+  /* Allow users to pass in custom DataConnect instances */
+  (dc: DataConnect, vars?: GetCoachRequestsVariables): QueryRef<GetCoachRequestsData, GetCoachRequestsVariables>;
+  operationName: string;
+}
+export const getCoachRequestsRef: GetCoachRequestsRef;
+
+export function getCoachRequests(vars?: GetCoachRequestsVariables): QueryPromise<GetCoachRequestsData, GetCoachRequestsVariables>;
+export function getCoachRequests(dc: DataConnect, vars?: GetCoachRequestsVariables): QueryPromise<GetCoachRequestsData, GetCoachRequestsVariables>;
+
+interface GetCoachRequestRef {
+  /* Allow users to create refs without passing in DataConnect */
+  (vars: GetCoachRequestVariables): QueryRef<GetCoachRequestData, GetCoachRequestVariables>;
+  /* Allow users to pass in custom DataConnect instances */
+  (dc: DataConnect, vars: GetCoachRequestVariables): QueryRef<GetCoachRequestData, GetCoachRequestVariables>;
+  operationName: string;
+}
+export const getCoachRequestRef: GetCoachRequestRef;
+
+export function getCoachRequest(vars: GetCoachRequestVariables): QueryPromise<GetCoachRequestData, GetCoachRequestVariables>;
+export function getCoachRequest(dc: DataConnect, vars: GetCoachRequestVariables): QueryPromise<GetCoachRequestData, GetCoachRequestVariables>;
 

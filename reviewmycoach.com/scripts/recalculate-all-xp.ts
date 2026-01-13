@@ -8,8 +8,10 @@
  */
 
 const BASE_URL = process.env.BASE_URL || 'http://localhost:3000';
-const BATCH_SIZE = 2000; // Coaches per API call
-const DELAY_BETWEEN_BATCHES = 1000; // 1 second delay between batches
+const BATCH_SIZE = 200; // Coaches per API call (avoid Firebase 503)
+const DELAY_BETWEEN_BATCHES = 5000; // 5 second delay to avoid rate limits
+const FETCH_TIMEOUT = 120000; // 2 minute timeout per batch
+const START_OFFSET = 3000; // Start from offset 3000 (first 3000 already done)
 
 async function sleep(ms: number) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -19,9 +21,10 @@ async function recalculateAllXP() {
   console.log('🚀 Starting XP recalculation for all coaches...');
   console.log(`📡 API: ${BASE_URL}`);
   console.log(`📦 Batch size: ${BATCH_SIZE}`);
+  console.log(`🔄 Starting from offset: ${START_OFFSET}`);
   console.log('');
 
-  let offset = 0;
+  let offset = START_OFFSET;
   let totalProcessed = 0;
   let totalUpdated = 0;
   let totalErrors = 0;
@@ -35,10 +38,18 @@ async function recalculateAllXP() {
     console.log(`\n📊 Batch ${batchNumber}: Processing offset ${offset}...`);
 
     try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), FETCH_TIMEOUT);
+
       const response = await fetch(
         `${BASE_URL}/api/coaches/recalculate-xp?offset=${offset}&limit=${BATCH_SIZE}`,
-        { method: 'POST' }
+        {
+          method: 'POST',
+          signal: controller.signal
+        }
       );
+
+      clearTimeout(timeoutId);
 
       if (!response.ok) {
         const error = await response.text();
@@ -74,7 +85,11 @@ async function recalculateAllXP() {
       }
 
     } catch (error) {
-      console.error(`❌ Batch ${batchNumber} error:`, error);
+      if (error instanceof Error && error.name === 'AbortError') {
+        console.error(`❌ Batch ${batchNumber} timeout after ${FETCH_TIMEOUT/1000} seconds`);
+      } else {
+        console.error(`❌ Batch ${batchNumber} error:`, error);
+      }
       console.log('⏳ Waiting 10 seconds before retry...');
       await sleep(10000);
     }

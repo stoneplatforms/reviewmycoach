@@ -269,6 +269,44 @@ export default function CoachCardsPage() {
     alert('Purchase functionality coming soon! This will integrate with Stripe.');
   };
 
+  const unlockTierCards = async () => {
+    if (!user || !coachUsername) return;
+
+    setUnlockingTiers(true);
+    try {
+      const response = await fetch('/api/cards/tier/direct', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          userId: user.uid,
+          username: coachUsername,
+          totalXP: totalXP,
+        }),
+      });
+
+      if (response.ok) {
+        const data = await response.json();
+        if (data.unlockedCards && data.unlockedCards.length > 0) {
+          alert(`🎉 ${data.message}`);
+          // Reload cards to show newly unlocked tier cards
+          await loadMyCards(user.uid, coachUsername, totalXP);
+        } else {
+          alert(data.message || 'All eligible tier cards already unlocked!');
+        }
+      } else {
+        const error = await response.json();
+        alert(`Failed to check for new tier cards: ${error.error || 'Unknown error'}`);
+      }
+    } catch (error) {
+      console.error('Error unlocking tier cards:', error);
+      alert('Failed to check for new tier cards. Please try again.');
+    } finally {
+      setUnlockingTiers(false);
+    }
+  };
+
   if (authLoading || loading) {
     return <LoadingSpinner fullScreen />;
   }

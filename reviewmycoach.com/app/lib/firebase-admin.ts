@@ -6,7 +6,7 @@
 
 import { adminAuth, adminDb } from './firebase-admin-server';
 
-// Re-export Firebase Admin auth
+// Re-export Firebase Admin auth with all methods
 export const auth = {
   verifyIdToken: async (token: string) => {
     const decodedToken = await adminAuth.verifyIdToken(token);
@@ -15,6 +15,11 @@ export const auth = {
       email: decodedToken.email,
     };
   },
+  getUser: (uid: string) => adminAuth.getUser(uid),
+  updateUser: (uid: string, properties: any) => adminAuth.updateUser(uid, properties),
+  deleteUser: (uid: string) => adminAuth.deleteUser(uid),
+  generateEmailVerificationLink: (email: string) => adminAuth.generateEmailVerificationLink(email),
+  generatePasswordResetLink: (email: string) => adminAuth.generatePasswordResetLink(email),
 };
 
 // Re-export Firebase Admin Firestore

@@ -7,17 +7,27 @@
     "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider next build",
     "start": "cross-env NODE_OPTIONS=--openssl-legacy-provider next start",
     "lint": "next lint",
-    "migrate:firestore-to-postgres": "tsx scripts/migrate-firestore-to-postgres.ts"
+    "migrate:firestore-to-postgres": "tsx scripts/migrate-firestore-to-postgres.ts",
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:run": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "test:watch": "vitest --watch",
+    "test:unit": "vitest run app/lib",
+    "test:integration": "vitest run app/api",
+    "validate:xp": "tsx scripts/validate-all-xp.ts"
   },
   "dependencies": {
     "@stripe/react-stripe-js": "^3.7.0",
     "@stripe/stripe-js": "^7.4.0",
+    "@types/pg": "^8.16.0",
     "@types/react-google-recaptcha": "^2.1.9",
     "@vercel/postgres": "^0.10.0",
     "dotenv": "^17.2.3",
     "firebase": "^11.9.0",
     "firebase-admin": "^13.6.0",
     "next": "15.5.9",
+    "pg": "^8.16.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-firebase-hooks": "^5.1.1",
@@ -30,15 +40,23 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.1",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@vitest/coverage-v8": "^4.0.16",
+    "@vitest/ui": "^4.0.16",
     "cross-env": "^7.0.3",
     "eslint": "^9",
     "eslint-config-next": "15.5.9",
     "firebase-tools": "^14.10.1",
+    "happy-dom": "^20.1.0",
+    "msw": "^2.12.7",
     "tailwindcss": "^4",
     "tsx": "^4.7.0",
-    "typescript": "^5"
+    "typescript": "^5",
+    "vitest": "^4.0.16",
+    "vitest-mock-extended": "^3.1.0"
   }
 }

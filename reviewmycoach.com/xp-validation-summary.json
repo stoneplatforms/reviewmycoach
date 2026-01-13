@@ -1,0 +1,11 @@
+{
+  "totalCoaches": 29892,
+  "passed": 0,
+  "failed": 29892,
+  "errors": 0,
+  "maxDifference": 34600,
+  "avgDifference": 1003.1346179579821,
+  "tierMismatches": 4,
+  "durationSeconds": 149.92,
+  "passRate": 0
+}

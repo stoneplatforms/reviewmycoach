@@ -7,7 +7,7 @@
 
 import { initializeApp, getApps } from 'firebase/app';
 import { getDataConnect } from 'firebase/data-connect';
-import { countPublicCoaches } from '../app/lib/dataconnect';
+import { getPublicCoaches } from '../app/lib/dataconnect';
 import { db as firestoreDb } from '../app/lib/firebase-client';
 import { collection, getDocs, limit, query } from 'firebase/firestore';
 
@@ -31,9 +31,9 @@ const dataConnect = getDataConnect(getApps()[0], {
 
 async function checkDataConnect() {
   console.log('🔍 Checking Firebase Data Connect...\n');
-  
+
   try {
-    const result = await countPublicCoaches(dataConnect);
+    const result = await getPublicCoaches(dataConnect, { offset: 0, limit: 1000 });
     const coaches = result.data.coaches || [];
     console.log(`✅ Firebase Data Connect: ${coaches.length} coaches found`);
     

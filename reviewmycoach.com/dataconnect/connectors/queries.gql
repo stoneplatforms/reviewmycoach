@@ -261,6 +261,7 @@ query GetPublicCoaches($limit: Int, $offset: Int) @auth(level: PUBLIC, insecureR
     coursesCreated
     jobsCompleted
     consistencyMultiplier
+    totalXp
     isClaimed
     createdAt
     updatedAt
@@ -502,5 +503,143 @@ query GetCoachActiveCard($coachUsername: String!) @auth(level: PUBLIC, insecureR
     cardName
     cardImageUrl
     isActive
+  }
+}
+
+# ============================================
+# Service Queries
+# ============================================
+
+# Get services for a coach by coachId
+query GetCoachServicesById($coachId: String!, $limit: Int, $offset: Int) @auth(level: PUBLIC, insecureReason: "Services are publicly visible on coach profiles") {
+  services(
+    where: {
+      coachId: {eq: $coachId}
+    }
+    orderBy: {createdAt: DESC}
+    offset: $offset
+    limit: $limit
+  ) {
+    id
+    coachId
+    coachUsername
+    title
+    description
+    price
+    duration
+    isActive
+    totalBookings
+    createdAt
+    updatedAt
+  }
+}
+
+# Get services for a coach by username
+query GetCoachServicesByUsername($coachUsername: String!, $limit: Int, $offset: Int) @auth(level: PUBLIC, insecureReason: "Services are publicly visible on coach profiles") {
+  services(
+    where: {
+      coachUsername: {eq: $coachUsername}
+    }
+    orderBy: {createdAt: DESC}
+    offset: $offset
+    limit: $limit
+  ) {
+    id
+    coachId
+    coachUsername
+    title
+    description
+    price
+    duration
+    isActive
+    totalBookings
+    createdAt
+    updatedAt
+  }
+}
+
+# Get active services for a coach by coachId
+query GetActiveCoachServicesById($coachId: String!, $limit: Int, $offset: Int) @auth(level: PUBLIC, insecureReason: "Services are publicly visible on coach profiles") {
+  services(
+    where: {
+      coachId: {eq: $coachId}
+      isActive: {eq: true}
+    }
+    orderBy: {createdAt: DESC}
+    offset: $offset
+    limit: $limit
+  ) {
+    id
+    coachId
+    coachUsername
+    title
+    description
+    price
+    duration
+    isActive
+    totalBookings
+    createdAt
+    updatedAt
+  }
+}
+
+# ============================================
+# Coach Request Queries
+# ============================================
+
+# Get all pending coach requests (admin only)
+query GetPendingCoachRequests @auth(level: PUBLIC, insecureReason: "Admin operation, auth verified in API route") {
+  coachRequests(
+    where: {status: {eq: "pending"}}
+    orderBy: {createdAt: DESC}
+  ) {
+    id
+    submittedByUserId
+    submittedByName
+    coachName
+    school
+    sport
+    status
+    createdAt
+  }
+}
+
+# Get all coach requests with optional status filter (admin only)
+query GetCoachRequests($status: String) @auth(level: PUBLIC, insecureReason: "Admin operation, auth verified in API route") {
+  coachRequests(
+    orderBy: {createdAt: DESC}
+  ) {
+    id
+    submittedByUserId
+    submittedByName
+    coachName
+    school
+    sport
+    status
+    reviewedByUserId
+    reviewedAt
+    rejectionReason
+    createdCoachId
+    createdAt
+    updatedAt
+  }
+}
+
+# Get a specific coach request by ID
+query GetCoachRequest($id: String!) @auth(level: PUBLIC, insecureReason: "Used for admin review, auth verified in API route") {
+  coachRequest(id: $id) {
+    id
+    submittedByUserId
+    submittedByName
+    coachName
+    school
+    sport
+    status
+    reviewedByUserId
+    reviewedAt
+    rejectionReason
+    createdCoachId
+    createdAt
+    updatedAt
   }
 }

@@ -88,31 +88,39 @@ const dataConnect = getDataConnect(clientApp, {
 async function getCoachByUsername(username: string): Promise<CoachProfile | null> {
   try {
     // Query from Firebase Data Connect
-    // Try both lowercase and original case since usernames in DB are mixed case
-    let result = await getCoachByUsernameQuery(dataConnect, { 
-      username: username.toLowerCase() 
-    });
-    
-    let coach = result.data.coaches?.[0];
-    
-    // If not found with lowercase, try with original case
-    if (!coach) {
-      result = await getCoachByUsernameQuery(dataConnect, { 
-        username: username 
+    // Try multiple case variations since usernames in DB are mixed case
+
+    // Generate different case variations
+    const variations = [
+      username.toLowerCase(), // aarika.hughes
+      username, // Original case from URL
+      username.charAt(0).toUpperCase() + username.slice(1).toLowerCase(), // Aarika.hughes
+    ];
+
+    // For usernames with periods, also try capitalizing after periods
+    if (username.includes('.')) {
+      const parts = username.toLowerCase().split('.');
+      const capitalizedParts = parts.map(part =>
+        part.charAt(0).toUpperCase() + part.slice(1)
+      ).join('.');
+      variations.push(capitalizedParts); // Aarika.Hughes
+    }
+
+    // Try each variation
+    let coach = null;
+    for (const variant of variations) {
+      const result = await getCoachByUsernameQuery(dataConnect, {
+        username: variant
       });
       coach = result.data.coaches?.[0];
+      if (coach) {
+        console.log(`✅ Found coach with username variant: ${variant}`);
+        break;
+      }
     }
-    
-    // If still not found, try uppercase first letter
+
     if (!coach) {
-      const capitalized = username.charAt(0).toUpperCase() + username.slice(1).toLowerCase();
-      result = await getCoachByUsernameQuery(dataConnect, { 
-        username: capitalized 
-      });
-      coach = result.data.coaches?.[0];
-    }
-    
-    if (!coach) {
+      console.log(`❌ Coach not found with username: ${username} (tried ${variations.length} variations)`);
       return null;
     }
     
@@ -122,29 +130,29 @@ async function getCoachByUsername(username: string): Promise<CoachProfile | null
       userId: coach.userId || '',
       username: coach.username || '',
       displayName: coach.displayName || '',
-      email: coach.email,
+      email: coach.email || undefined,
       bio: coach.bio || '',
-      sports: coach.sports || [],
+      sports: Array.isArray(coach.sports) ? coach.sports : [],
       experience: coach.experience || 0,
-      certifications: coach.certifications || [],
+      certifications: Array.isArray(coach.certifications) ? coach.certifications : [],
       hourlyRate: coach.hourlyRate || 0,
       location: coach.location || '',
-      availability: coach.availability || [],
-      specialties: coach.specialties || [],
-      languages: coach.languages || [],
+      availability: Array.isArray(coach.availability) ? coach.availability : [],
+      specialties: Array.isArray(coach.specialties) ? coach.specialties : [],
+      languages: Array.isArray(coach.languages) ? coach.languages : [],
       averageRating: coach.averageRating || 0,
       totalReviews: coach.totalReviews || 0,
-      profileImage: coach.profileImage,
-      phoneNumber: coach.phoneNumber,
-      website: coach.website,
+      profileImage: coach.profileImage || undefined,
+      phoneNumber: coach.phoneNumber || undefined,
+      website: coach.website || undefined,
       isVerified: coach.isVerified || false,
-      organization: coach.organization,
-      role: coach.role,
-      gender: coach.gender,
-      ageGroup: coach.ageGroup || [],
-      sourceUrl: coach.sourceUrl,
-      socialMedia: coach.socialMedia,
-      activeCardImageUrl: coach.activeCardImageUrl,
+      organization: coach.organization || undefined,
+      role: coach.role || undefined,
+      gender: coach.gender || undefined,
+      ageGroup: Array.isArray(coach.ageGroup) ? coach.ageGroup : [],
+      sourceUrl: coach.sourceUrl || undefined,
+      socialMedia: coach.socialMedia || undefined,
+      activeCardImageUrl: coach.activeCardImageUrl || undefined,
       // XP calculation fields from database
       subscriptionTier: coach.subscriptionTier || 0,
       longevityPlatformYears: coach.longevityPlatformYears || 0,
@@ -176,7 +184,7 @@ async function getCoachReviews(coachId: string): Promise<Review[]> {
       rating: review.rating || 0,
       reviewText: review.reviewText || '',
       createdAt: review.createdAt || null,
-      sport: review.sport,
+      sport: review.sport || undefined,
     }));
   } catch (error) {
     console.error('Error fetching coach reviews from Data Connect:', error);

@@ -287,3 +287,21 @@ type IdentityVerification @table(name: "identity_verifications") {
   updatedAt: Timestamp @col(name: "updated_at")
   data: Any @col(name: "data")
 }
+
+# Coach Requests table (user-submitted requests to add new coaches)
+type CoachRequest @table(name: "coach_requests") {
+  id: String! @col(name: "id")
+  submittedByUserId: String @col(name: "submitted_by_user_id")
+  submittedByName: String @col(name: "submitted_by_name")
+  coachName: String @col(name: "coach_name")
+  school: String @col(name: "school")
+  sport: String @col(name: "sport")
+  status: String @col(name: "status")
+  reviewedByUserId: String @col(name: "reviewed_by_user_id")
+  reviewedAt: Timestamp @col(name: "reviewed_at")
+  rejectionReason: String @col(name: "rejection_reason")
+  createdCoachId: String @col(name: "created_coach_id")
+  createdAt: Timestamp @col(name: "created_at")
+  updatedAt: Timestamp @col(name: "updated_at")
+  data: Any @col(name: "data")
+}

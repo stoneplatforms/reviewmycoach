@@ -14,23 +14,22 @@ export { sql };
  * Get a document by ID from a collection
  */
 export async function getDoc(collection: string, docId: string) {
-  const tableName = collection.replace(/-/g, '_');
-  
-  const result = await sql`
-    SELECT * FROM ${sql(tableName)}
-    WHERE id = ${docId}
-    LIMIT 1
-  `;
-  
+  // Sanitize table name (only allow alphanumeric and underscores)
+  const tableName = collection.replace(/-/g, '_').replace(/[^a-zA-Z0-9_]/g, '');
+
+  // Use template literal for table name (safe after sanitization)
+  const query = `SELECT * FROM ${tableName} WHERE id = $1 LIMIT 1`;
+  const result = await sql.query(query, [docId]);
+
   if (result.rows.length === 0) {
     return null;
   }
-  
+
   const row = result.rows[0];
   // Merge data JSONB with individual columns
   const docData = { ...row.data, ...row };
   delete docData.data; // Remove the data column itself
-  
+
   return {
     id: row.id,
     exists: true,
@@ -42,34 +41,36 @@ export async function getDoc(collection: string, docId: string) {
  * Set a document (create or update)
  */
 export async function setDoc(collection: string, docId: string, data: any) {
-  const tableName = collection.replace(/-/g, '_');
-  
+  // Sanitize table name (only allow alphanumeric and underscores)
+  const tableName = collection.replace(/-/g, '_').replace(/[^a-zA-Z0-9_]/g, '');
+
   // Convert data to PostgreSQL-compatible format
   const convertedData: any = {};
   const updates: string[] = [];
   const values: any[] = [];
   let paramIndex = 1;
-  
+
   for (const [key, value] of Object.entries(data)) {
     convertedData[key] = value;
     const columnName = key.replace(/[^a-zA-Z0-9_]/g, '_').toLowerCase();
-    
+
     // Try to update individual column if it exists
     updates.push(`${columnName} = $${paramIndex}`);
     values.push(value);
     paramIndex++;
   }
-  
+
   // Insert or update with JSONB
-  await sql`
-    INSERT INTO ${sql(tableName)} (id, data, updated_at)
-    VALUES (${docId}, ${JSON.stringify(convertedData)}::jsonb, NOW())
-    ON CONFLICT (id) 
-    DO UPDATE SET 
+  const insertQuery = `
+    INSERT INTO ${tableName} (id, data, updated_at)
+    VALUES ($1, $2::jsonb, NOW())
+    ON CONFLICT (id)
+    DO UPDATE SET
       data = EXCLUDED.data,
       updated_at = NOW()
   `;
-  
+  await sql.query(insertQuery, [docId, JSON.stringify(convertedData)]);
+
   // Try to update individual columns
   if (updates.length > 0) {
     try {
@@ -97,12 +98,11 @@ export async function updateDoc(collection: string, docId: string, data: any) {
  * Delete a document
  */
 export async function deleteDoc(collection: string, docId: string) {
-  const tableName = collection.replace(/-/g, '_');
-  
-  await sql`
-    DELETE FROM ${sql(tableName)}
-    WHERE id = ${docId}
-  `;
+  // Sanitize table name (only allow alphanumeric and underscores)
+  const tableName = collection.replace(/-/g, '_').replace(/[^a-zA-Z0-9_]/g, '');
+
+  const query = `DELETE FROM ${tableName} WHERE id = $1`;
+  await sql.query(query, [docId]);
 }
 
 /**

@@ -24,14 +24,11 @@ const SUBSCRIPTION_PLANS = {
     priceId: process.env.NEXT_PUBLIC_COACH_PRO_MONTHLY_PRICE_ID || 'price_monthly_default',
     interval: 'month',
     features: [
-      'Apply to unlimited job listings',
-      'Priority placement in search results',
-      'Advanced analytics dashboard',
-      'Direct messaging with potential clients',
-      'Custom profile themes',
-      'Email marketing tools',
-      'Calendar integration',
-      'Priority customer support'
+      'Access to job board and unlimited job applications',
+      'Featured placement on coaches page',
+      'Earn 2x XP (2000 XP vs 1000 XP per subscription tier)',
+      'Unlock higher tier profile cards faster',
+      'Support platform development'
     ]
   },
   yearly: {
@@ -42,14 +39,11 @@ const SUBSCRIPTION_PLANS = {
     savings: 24,
     monthlyEquivalent: 8,
     features: [
-      'Apply to unlimited job listings',
-      'Priority placement in search results',
-      'Advanced analytics dashboard',
-      'Direct messaging with potential clients',
-      'Custom profile themes',
-      'Email marketing tools',
-      'Calendar integration',
-      'Priority customer support',
+      'Access to job board and unlimited job applications',
+      'Featured placement on coaches page',
+      'Earn 2x XP (2000 XP vs 1000 XP per subscription tier)',
+      'Unlock higher tier profile cards faster',
+      'Support platform development',
       'Save $24 annually'
     ]
   }
@@ -378,7 +372,7 @@ export default function SubscriptionPage() {
                 What's the difference between Coach Pro and regular coaching?
               </h3>
               <p className="text-neutral-400 leading-relaxed">
-                Coach Pro gives you access to premium features like unlimited job applications, priority search placement, and advanced analytics to help grow your coaching business.
+                Coach Pro gives you access to the job board for unlimited applications, featured placement on the coaches page, and 2x XP to help you level up and unlock higher tier profile cards faster.
               </p>
             </div>
             

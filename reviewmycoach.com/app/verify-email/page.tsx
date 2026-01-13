@@ -1,13 +1,13 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { applyActionCode, sendEmailVerification } from 'firebase/auth';
 import { auth } from '../lib/firebase-client';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { setAuthToken } from '../lib/auth-cookie';
 import Link from 'next/link';
 
-export default function VerifyEmailPage() {
+function VerifyEmailContent() {
   const [email, setEmail] = useState<string>('');
   const [verified, setVerified] = useState(false);
   const [checking, setChecking] = useState(true);
@@ -235,5 +235,13 @@ export default function VerifyEmailPage() {
         </div>
       </div>
     </div>
+  );
+}
+
+export default function VerifyEmailPage() {
+  return (
+    <Suspense fallback={<div className="min-h-screen flex items-center justify-center"><div className="text-xl">Loading...</div></div>}>
+      <VerifyEmailContent />
+    </Suspense>
   );
 }

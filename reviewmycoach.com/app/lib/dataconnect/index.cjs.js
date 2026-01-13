@@ -79,6 +79,30 @@ exports.claimCoach = function claimCoach(dcOrVars, vars) {
   return executeMutation(claimCoachRef(dcOrVars, vars));
 };
 
+const updateCoachTotalXpRef = (dcOrVars, vars) => {
+  const { dc: dcInstance, vars: inputVars} = validateArgs(connectorConfig, dcOrVars, vars, true);
+  dcInstance._useGeneratedSdk();
+  return mutationRef(dcInstance, 'UpdateCoachTotalXP', inputVars);
+}
+updateCoachTotalXpRef.operationName = 'UpdateCoachTotalXP';
+exports.updateCoachTotalXpRef = updateCoachTotalXpRef;
+
+exports.updateCoachTotalXp = function updateCoachTotalXp(dcOrVars, vars) {
+  return executeMutation(updateCoachTotalXpRef(dcOrVars, vars));
+};
+
+const deleteCoachRef = (dcOrVars, vars) => {
+  const { dc: dcInstance, vars: inputVars} = validateArgs(connectorConfig, dcOrVars, vars, true);
+  dcInstance._useGeneratedSdk();
+  return mutationRef(dcInstance, 'DeleteCoach', inputVars);
+}
+deleteCoachRef.operationName = 'DeleteCoach';
+exports.deleteCoachRef = deleteCoachRef;
+
+exports.deleteCoach = function deleteCoach(dcOrVars, vars) {
+  return executeMutation(deleteCoachRef(dcOrVars, vars));
+};
+
 const createReviewRef = (dcOrVars, vars) => {
   const { dc: dcInstance, vars: inputVars} = validateArgs(connectorConfig, dcOrVars, vars, true);
   dcInstance._useGeneratedSdk();
@@ -161,6 +185,42 @@ exports.updateCoachActiveCardRef = updateCoachActiveCardRef;
 
 exports.updateCoachActiveCard = function updateCoachActiveCard(dcOrVars, vars) {
   return executeMutation(updateCoachActiveCardRef(dcOrVars, vars));
+};
+
+const createCoachRequestRef = (dcOrVars, vars) => {
+  const { dc: dcInstance, vars: inputVars} = validateArgs(connectorConfig, dcOrVars, vars, true);
+  dcInstance._useGeneratedSdk();
+  return mutationRef(dcInstance, 'CreateCoachRequest', inputVars);
+}
+createCoachRequestRef.operationName = 'CreateCoachRequest';
+exports.createCoachRequestRef = createCoachRequestRef;
+
+exports.createCoachRequest = function createCoachRequest(dcOrVars, vars) {
+  return executeMutation(createCoachRequestRef(dcOrVars, vars));
+};
+
+const approveCoachRequestRef = (dcOrVars, vars) => {
+  const { dc: dcInstance, vars: inputVars} = validateArgs(connectorConfig, dcOrVars, vars, true);
+  dcInstance._useGeneratedSdk();
+  return mutationRef(dcInstance, 'ApproveCoachRequest', inputVars);
+}
+approveCoachRequestRef.operationName = 'ApproveCoachRequest';
+exports.approveCoachRequestRef = approveCoachRequestRef;
+
+exports.approveCoachRequest = function approveCoachRequest(dcOrVars, vars) {
+  return executeMutation(approveCoachRequestRef(dcOrVars, vars));
+};
+
+const rejectCoachRequestRef = (dcOrVars, vars) => {
+  const { dc: dcInstance, vars: inputVars} = validateArgs(connectorConfig, dcOrVars, vars, true);
+  dcInstance._useGeneratedSdk();
+  return mutationRef(dcInstance, 'RejectCoachRequest', inputVars);
+}
+rejectCoachRequestRef.operationName = 'RejectCoachRequest';
+exports.rejectCoachRequestRef = rejectCoachRequestRef;
+
+exports.rejectCoachRequest = function rejectCoachRequest(dcOrVars, vars) {
+  return executeMutation(rejectCoachRequestRef(dcOrVars, vars));
 };
 
 const getUserRef = (dcOrVars, vars) => {
@@ -295,6 +355,18 @@ exports.getPublicCoaches = function getPublicCoaches(dcOrVars, vars) {
   return executeQuery(getPublicCoachesRef(dcOrVars, vars));
 };
 
+const getTopCoachesByXpRef = (dcOrVars, vars) => {
+  const { dc: dcInstance, vars: inputVars} = validateArgs(connectorConfig, dcOrVars, vars);
+  dcInstance._useGeneratedSdk();
+  return queryRef(dcInstance, 'GetTopCoachesByXP', inputVars);
+}
+getTopCoachesByXpRef.operationName = 'GetTopCoachesByXP';
+exports.getTopCoachesByXpRef = getTopCoachesByXpRef;
+
+exports.getTopCoachesByXp = function getTopCoachesByXp(dcOrVars, vars) {
+  return executeQuery(getTopCoachesByXpRef(dcOrVars, vars));
+};
+
 const getCoachReviewsRef = (dcOrVars, vars) => {
   const { dc: dcInstance, vars: inputVars} = validateArgs(connectorConfig, dcOrVars, vars, true);
   dcInstance._useGeneratedSdk();
@@ -425,4 +497,76 @@ exports.getCoachActiveCardRef = getCoachActiveCardRef;
 
 exports.getCoachActiveCard = function getCoachActiveCard(dcOrVars, vars) {
   return executeQuery(getCoachActiveCardRef(dcOrVars, vars));
+};
+
+const getCoachServicesByIdRef = (dcOrVars, vars) => {
+  const { dc: dcInstance, vars: inputVars} = validateArgs(connectorConfig, dcOrVars, vars, true);
+  dcInstance._useGeneratedSdk();
+  return queryRef(dcInstance, 'GetCoachServicesById', inputVars);
+}
+getCoachServicesByIdRef.operationName = 'GetCoachServicesById';
+exports.getCoachServicesByIdRef = getCoachServicesByIdRef;
+
+exports.getCoachServicesById = function getCoachServicesById(dcOrVars, vars) {
+  return executeQuery(getCoachServicesByIdRef(dcOrVars, vars));
+};
+
+const getCoachServicesByUsernameRef = (dcOrVars, vars) => {
+  const { dc: dcInstance, vars: inputVars} = validateArgs(connectorConfig, dcOrVars, vars, true);
+  dcInstance._useGeneratedSdk();
+  return queryRef(dcInstance, 'GetCoachServicesByUsername', inputVars);
+}
+getCoachServicesByUsernameRef.operationName = 'GetCoachServicesByUsername';
+exports.getCoachServicesByUsernameRef = getCoachServicesByUsernameRef;
+
+exports.getCoachServicesByUsername = function getCoachServicesByUsername(dcOrVars, vars) {
+  return executeQuery(getCoachServicesByUsernameRef(dcOrVars, vars));
+};
+
+const getActiveCoachServicesByIdRef = (dcOrVars, vars) => {
+  const { dc: dcInstance, vars: inputVars} = validateArgs(connectorConfig, dcOrVars, vars, true);
+  dcInstance._useGeneratedSdk();
+  return queryRef(dcInstance, 'GetActiveCoachServicesById', inputVars);
+}
+getActiveCoachServicesByIdRef.operationName = 'GetActiveCoachServicesById';
+exports.getActiveCoachServicesByIdRef = getActiveCoachServicesByIdRef;
+
+exports.getActiveCoachServicesById = function getActiveCoachServicesById(dcOrVars, vars) {
+  return executeQuery(getActiveCoachServicesByIdRef(dcOrVars, vars));
+};
+
+const getPendingCoachRequestsRef = (dc) => {
+  const { dc: dcInstance} = validateArgs(connectorConfig, dc, undefined);
+  dcInstance._useGeneratedSdk();
+  return queryRef(dcInstance, 'GetPendingCoachRequests');
+}
+getPendingCoachRequestsRef.operationName = 'GetPendingCoachRequests';
+exports.getPendingCoachRequestsRef = getPendingCoachRequestsRef;
+
+exports.getPendingCoachRequests = function getPendingCoachRequests(dc) {
+  return executeQuery(getPendingCoachRequestsRef(dc));
+};
+
+const getCoachRequestsRef = (dcOrVars, vars) => {
+  const { dc: dcInstance, vars: inputVars} = validateArgs(connectorConfig, dcOrVars, vars);
+  dcInstance._useGeneratedSdk();
+  return queryRef(dcInstance, 'GetCoachRequests', inputVars);
+}
+getCoachRequestsRef.operationName = 'GetCoachRequests';
+exports.getCoachRequestsRef = getCoachRequestsRef;
+
+exports.getCoachRequests = function getCoachRequests(dcOrVars, vars) {
+  return executeQuery(getCoachRequestsRef(dcOrVars, vars));
+};
+
+const getCoachRequestRef = (dcOrVars, vars) => {
+  const { dc: dcInstance, vars: inputVars} = validateArgs(connectorConfig, dcOrVars, vars, true);
+  dcInstance._useGeneratedSdk();
+  return queryRef(dcInstance, 'GetCoachRequest', inputVars);
+}
+getCoachRequestRef.operationName = 'GetCoachRequest';
+exports.getCoachRequestRef = getCoachRequestRef;
+
+exports.getCoachRequest = function getCoachRequest(dcOrVars, vars) {
+  return executeQuery(getCoachRequestRef(dcOrVars, vars));
 };

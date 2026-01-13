@@ -139,6 +139,12 @@ mutation UpdateCoachTotalXP(
   )
 }
 
+mutation DeleteCoach(
+  $id: String!
+) @auth(level: PUBLIC, insecureReason: "Admin operation for deleting test accounts, auth verified in API route") {
+  coach_delete(id: $id)
+}
+
 # ============================================
 # Review Mutations
 # ============================================
@@ -298,6 +304,62 @@ mutation UpdateCoachActiveCard(
     data: {
       activeCardId: $activeCardId
       activeCardImageUrl: $activeCardImageUrl
+    }
+  )
+}
+
+# ============================================
+# Coach Request Mutations
+# ============================================
+
+# Create a new coach request
+mutation CreateCoachRequest(
+  $id: String!
+  $submittedByUserId: String
+  $submittedByName: String
+  $coachName: String!
+  $school: String!
+  $sport: String!
+) @auth(level: PUBLIC, insecureReason: "Users can submit coach requests") {
+  coachRequest_insert(data: {
+    id: $id
+    submittedByUserId: $submittedByUserId
+    submittedByName: $submittedByName
+    coachName: $coachName
+    school: $school
+    sport: $sport
+    status: "pending"
+  })
+}
+
+# Approve a coach request and link to created coach
+mutation ApproveCoachRequest(
+  $id: String!
+  $reviewedByUserId: String!
+  $createdCoachId: String!
+) @auth(level: PUBLIC, insecureReason: "Admin operation, auth verified in API route") {
+  coachRequest_update(
+    id: $id
+    data: {
+      status: "approved"
+      reviewedByUserId: $reviewedByUserId
+      createdCoachId: $createdCoachId
+    }
+  )
+}
+
+# Reject a coach request
+mutation RejectCoachRequest(
+  $id: String!
+  $reviewedByUserId: String!
+  $rejectionReason: String
+) @auth(level: PUBLIC, insecureReason: "Admin operation, auth verified in API route") {
+  coachRequest_update(
+    id: $id
+    data: {
+      status: "rejected"
+      reviewedByUserId: $reviewedByUserId
+      rejectionReason: $rejectionReason
     }
   )
 }
