@@ -772,6 +772,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
         onClose={() => setShowReviewModal(false)}
         coachId={coach.id}
         coachName={coach.displayName}
+        coachUsername={coach.username}
         user={user}
         onReviewSubmitted={() => console.log('Review submitted')}
       />

@@ -2,6 +2,30 @@ import { NextRequest, NextResponse } from 'next/server';
 import { fetchCoachReviews, addReview, calculateRatingStats, updateCoachStats } from '../../../../lib/reviews-dataconnect';
 import { verifyFirebaseToken } from '../../../../lib/firebase-admin-server';
 import { adminDb } from '../../../../lib/firebase-admin-server';
+import { initializeApp, getApps } from 'firebase/app';
+import { getDataConnect } from 'firebase/data-connect';
+import { getCoach } from '../../../../lib/dataconnect';
+
+// Initialize Firebase Client for Data Connect
+let clientApp;
+if (getApps().length === 0) {
+  clientApp = initializeApp({
+    apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+    authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+    projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+    storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
+    messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+    appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
+  });
+} else {
+  clientApp = getApps()[0];
+}
+
+const dataConnect = getDataConnect(clientApp, {
+  connector: 'reviewmycoach',
+  location: 'us-east4',
+  service: 'review-my-coach-service'
+});
 
 interface ReviewData {
   studentId: string;
@@ -53,8 +77,19 @@ export async function POST(
       return NextResponse.json({ error: 'Review text is required' }, { status: 400 });
     }
 
-    if (!coachUsername) {
-      return NextResponse.json({ error: 'Coach username is required' }, { status: 400 });
+    // Look up coach username from coachId if not provided in body
+    let resolvedCoachUsername = coachUsername;
+    if (!resolvedCoachUsername) {
+      try {
+        const coachResult = await getCoach(dataConnect, { id: coachId });
+        resolvedCoachUsername = coachResult.data.coach?.username;
+      } catch (err) {
+        console.error('Error looking up coach username:', err);
+      }
+    }
+
+    if (!resolvedCoachUsername) {
+      return NextResponse.json({ error: 'Could not resolve coach username' }, { status: 400 });
     }
 
     // Get user's display name if authenticated
@@ -78,7 +113,7 @@ export async function POST(
     await addReview({
       id: reviewId,
       coachId: coachId,
-      coachUsername: coachUsername,
+      coachUsername: resolvedCoachUsername,
       userId: effectiveUserId,
       email: userEmail || undefined,
       studentName: studentName,
