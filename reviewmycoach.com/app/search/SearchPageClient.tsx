@@ -21,6 +21,7 @@ interface Coach {
   location: string;
   gender?: string;
   organization?: string;
+  school?: string;
   availability: string[];
   specialties: string[];
   languages: string[];

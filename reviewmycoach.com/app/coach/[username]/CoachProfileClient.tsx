@@ -35,6 +35,7 @@ interface CoachProfile {
   website?: string;
   isVerified?: boolean;
   organization?: string;
+  school?: string;
   role?: string;
   gender?: string;
   ageGroup?: string[];
@@ -413,6 +414,15 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-4m-5 0H3m2 0h2M7 7h10M7 11h4" />
                   </svg>
                   {coach.organization}
+                </div>
+              )}
+              {coach.school && (
+                <div className="flex items-center">
+                  <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 14l9-5-9-5-9 5 9 5z" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
+                  </svg>
+                  {coach.school}
                 </div>
               )}
               {coach.email && (

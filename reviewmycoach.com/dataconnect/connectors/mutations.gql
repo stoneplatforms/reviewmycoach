@@ -98,6 +98,7 @@ mutation UpdateCoach(
   $isPublic: Boolean
   $activeCardId: String
   $activeCardImageUrl: String
+  $school: String
 ) @auth(level: PUBLIC) {
   coach_update(
     id: $id
@@ -110,6 +111,7 @@ mutation UpdateCoach(
       isPublic: $isPublic
       activeCardId: $activeCardId
       activeCardImageUrl: $activeCardImageUrl
+      school: $school
     }
   )
 }

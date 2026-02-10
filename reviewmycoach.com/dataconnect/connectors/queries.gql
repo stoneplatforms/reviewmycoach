@@ -68,6 +68,7 @@ query GetCoach($id: String!) @auth(level: PUBLIC) {
     certifications
     location
     organization
+    school
     role
     gender
     ageGroup
@@ -112,6 +113,7 @@ query GetCoachByUsername($username: String!) @auth(level: PUBLIC, insecureReason
     certifications
     location
     organization
+    school
     role
     gender
     ageGroup
@@ -210,12 +212,14 @@ query SearchCoachesAdvanced(
     username
     userId
     displayName
+    email
     bio
     sports
     specialties
     certifications
     location
     organization
+    school
     role
     gender
     ageGroup
@@ -247,6 +251,7 @@ query GetPublicCoaches($limit: Int, $offset: Int) @auth(level: PUBLIC, insecureR
     specialties
     location
     organization
+    school
     role
     hourlyRate
     averageRating
@@ -283,6 +288,7 @@ query GetTopCoachesByXP($limit: Int) @auth(level: PUBLIC, insecureReason: "Publi
     specialties
     location
     organization
+    school
     role
     hourlyRate
     averageRating

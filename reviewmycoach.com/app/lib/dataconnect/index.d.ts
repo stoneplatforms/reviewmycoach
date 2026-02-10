@@ -206,6 +206,7 @@ export interface GetClaimableCoachesData {
     displayName?: string | null;
     email?: string | null;
     organization?: string | null;
+    school?: string | null;
     sports?: unknown | null;
   } & Coach_Key)[];
 }
@@ -242,6 +243,7 @@ export interface GetCoachByUsernameData {
     certifications?: unknown | null;
     location?: string | null;
     organization?: string | null;
+    school?: string | null;
     role?: string | null;
     gender?: string | null;
     ageGroup?: unknown | null;
@@ -303,6 +305,7 @@ export interface GetCoachData {
     certifications?: unknown | null;
     location?: string | null;
     organization?: string | null;
+    school?: string | null;
     role?: string | null;
     gender?: string | null;
     ageGroup?: unknown | null;
@@ -553,6 +556,7 @@ export interface GetPublicCoachesData {
     specialties?: unknown | null;
     location?: string | null;
     organization?: string | null;
+    school?: string | null;
     role?: string | null;
     hourlyRate?: number | null;
     averageRating?: number | null;
@@ -618,6 +622,7 @@ export interface GetTopCoachesByXpData {
     specialties?: unknown | null;
     location?: string | null;
     organization?: string | null;
+    school?: string | null;
     role?: string | null;
     hourlyRate?: number | null;
     averageRating?: number | null;
@@ -771,12 +776,14 @@ export interface SearchCoachesAdvancedData {
     username?: string | null;
     userId?: string | null;
     displayName?: string | null;
+    email?: string | null;
     bio?: string | null;
     sports?: unknown | null;
     specialties?: unknown | null;
     certifications?: unknown | null;
     location?: string | null;
     organization?: string | null;
+    school?: string | null;
     role?: string | null;
     gender?: string | null;
     ageGroup?: unknown | null;
@@ -902,6 +909,7 @@ export interface UpdateCoachVariables {
   isPublic?: boolean | null;
   activeCardId?: string | null;
   activeCardImageUrl?: string | null;
+  school?: string | null;
 }
 
 export interface UpdateMarketplaceCardData {

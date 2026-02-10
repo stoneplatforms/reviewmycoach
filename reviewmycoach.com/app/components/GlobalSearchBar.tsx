@@ -12,7 +12,7 @@ interface GlobalSearchBarProps {
 }
 
 interface SearchSuggestion {
-  type: 'coach' | 'sport' | 'location';
+  type: 'coach' | 'sport' | 'location' | 'school';
   text: string;
   subtitle?: string;
   href: string;
@@ -81,7 +81,10 @@ export default function GlobalSearchBar({
     }
   };
 
-  // Fetch search suggestions
+  // Track whether the debounce is still pending (user typed but fetch hasn't started)
+  const isDebouncing = showSuggestions && searchTerm.trim().length >= 2 && searchTerm !== debouncedSearchTerm;
+
+  // Fetch search suggestions with AbortController to prevent race conditions
   useEffect(() => {
     if (!showSuggestions || !debouncedSearchTerm.trim() || debouncedSearchTerm.length < 2) {
       setSuggestions([]);
@@ -89,23 +92,37 @@ export default function GlobalSearchBar({
       return;
     }
 
+    const controller = new AbortController();
+
     const fetchSuggestions = async () => {
       setLoading(true);
       try {
-        const response = await fetch(`/api/search/suggestions?q=${encodeURIComponent(debouncedSearchTerm)}`);
+        const response = await fetch(
+          `/api/search/suggestions?q=${encodeURIComponent(debouncedSearchTerm)}`,
+          { signal: controller.signal }
+        );
         if (response.ok) {
           const data = await response.json();
           setSuggestions(data.suggestions || []);
         }
-      } catch (error) {
+      } catch (error: any) {
+        // Don't update state if the request was aborted (stale request)
+        if (error?.name === 'AbortError') return;
         console.error('Error fetching suggestions:', error);
         setSuggestions([]);
       } finally {
-        setLoading(false);
+        if (!controller.signal.aborted) {
+          setLoading(false);
+        }
       }
     };
 
     fetchSuggestions();
+
+    // Abort this request if debouncedSearchTerm changes before it completes
+    return () => {
+      controller.abort();
+    };
   }, [debouncedSearchTerm, showSuggestions]);
 
   // Handle clicking outside to close suggestions
@@ -127,6 +144,14 @@ export default function GlobalSearchBar({
         return (
           <svg className="w-4 h-4 text-[var(--brand-red)]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+          </svg>
+        );
+      case 'school':
+        return (
+          <svg className="w-4 h-4 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 14l9-5-9-5-9 5 9 5z" />
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222" />
           </svg>
         );
       case 'sport':
@@ -171,7 +196,7 @@ export default function GlobalSearchBar({
           className={`w-full pl-10 pr-10 py-2 bg-gray-900/50 border border-gray-800 rounded-sm focus:ring-2 focus:ring-red-500/50 focus:border-red-500/50 placeholder-gray-500 transition-all duration-200 text-sm text-white hover:bg-gray-900/70 focus:bg-gray-900 ${inputClassName}`}
           autoComplete="off"
         />
-        {loading && (
+        {(loading || isDebouncing) && (
           <div className="absolute inset-y-0 right-0 pr-3 flex items-center">
             <svg className="animate-spin w-4 h-4 text-gray-400" fill="none" viewBox="0 0 24 24">
               <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
@@ -228,9 +253,9 @@ export default function GlobalSearchBar({
           ) : searchTerm.length >= 2 ? (
             <div>
               <div className="px-4 py-3 text-sm text-gray-400">
-                {loading ? 'Searching...' : 'No coaches found'}
+                {loading || isDebouncing ? 'Searching...' : 'No coaches found'}
               </div>
-              {!loading && (
+              {!loading && !isDebouncing && (
                 <>
                   <div className="border-t border-gray-800"></div>
                   <button

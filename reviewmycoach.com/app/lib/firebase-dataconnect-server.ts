@@ -104,7 +104,11 @@ export async function searchCoachesWithFilters(params: {
           const specialties = Array.isArray(coach.specialties) ? coach.specialties.map((s: string) => s?.toLowerCase()) : [];
           const location = (coach.location || '').toLowerCase();
           const organization = (coach.organization || '').toLowerCase();
-          
+          const school = (coach.school || '').toLowerCase();
+          // Extract email domain (part after @) for school/university matching
+          const email = (coach.email || '').toLowerCase();
+          const emailDomain = email.includes('@') ? email.split('@')[1] : '';
+
           // Prioritize username and displayName matches
           return (
             username.includes(term) ||
@@ -113,7 +117,9 @@ export async function searchCoachesWithFilters(params: {
             sports.some((s: string) => s?.includes(term)) ||
             specialties.some((s: string) => s?.includes(term)) ||
             location.includes(term) ||
-            organization.includes(term)
+            organization.includes(term) ||
+            school.includes(term) ||
+            emailDomain.includes(term)
           );
         });
         
@@ -231,7 +237,11 @@ export function filterCoaches(coaches: any[], searchTerm?: string, organization?
       const sports = Array.isArray(coach.sports) ? coach.sports.map((s: string) => s?.toLowerCase()) : [];
       const specialties = Array.isArray(coach.specialties) ? coach.specialties.map((s: string) => s?.toLowerCase()) : [];
       const organization = (coach.organization || '').toLowerCase();
-      
+      const school = (coach.school || '').toLowerCase();
+      // Extract email domain (part after @) for school/university matching
+      const email = (coach.email || '').toLowerCase();
+      const emailDomain = email.includes('@') ? email.split('@')[1] : '';
+
       // Prioritize username and displayName matches
       return (
         username.includes(term) ||
@@ -239,7 +249,9 @@ export function filterCoaches(coaches: any[], searchTerm?: string, organization?
         bio.includes(term) ||
         sports.some((s: string) => s?.includes(term)) ||
         specialties.some((s: string) => s?.includes(term)) ||
-        organization.includes(term)
+        organization.includes(term) ||
+        school.includes(term) ||
+        emailDomain.includes(term)
       );
     });
     

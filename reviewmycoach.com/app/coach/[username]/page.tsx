@@ -31,6 +31,7 @@ interface CoachProfile {
   website?: string;
   isVerified: boolean;
   organization?: string;
+  school?: string;
   role?: string;
   gender?: string;
   ageGroup?: string[];
@@ -147,6 +148,7 @@ async function getCoachByUsername(username: string): Promise<CoachProfile | null
       website: coach.website || undefined,
       isVerified: coach.isVerified || false,
       organization: coach.organization || undefined,
+      school: coach.school || undefined,
       role: coach.role || undefined,
       gender: coach.gender || undefined,
       ageGroup: Array.isArray(coach.ageGroup) ? coach.ageGroup : [],

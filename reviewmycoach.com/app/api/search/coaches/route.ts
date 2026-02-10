@@ -32,6 +32,7 @@ interface CoachData {
   location?: string;
   hourlyRate?: number;
   organization?: string;
+  school?: string;
   role?: string;
   gender?: string;
   ageGroup?: string[];
@@ -137,6 +138,7 @@ export async function GET(request: NextRequest) {
       location: coach.location,
       hourlyRate: coach.hourlyRate ? parseFloat(coach.hourlyRate.toString()) : undefined,
       organization: coach.organization,
+      school: coach.school,
       role: coach.role,
       gender: coach.gender,
       ageGroup: coach.ageGroup || [],

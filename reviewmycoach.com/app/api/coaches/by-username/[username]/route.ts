@@ -54,6 +54,7 @@ export async function GET(
           certifications: coach.certifications,
           location: coach.location,
           organization: coach.organization,
+          school: coach.school,
           role: coach.role,
           gender: coach.gender,
           ageGroup: coach.ageGroup,
@@ -133,6 +134,7 @@ export async function PUT(
       isPublic: body.isPublic,
       activeCardId: body.activeCardId,
       activeCardImageUrl: body.activeCardImageUrl,
+      school: body.school,
     });
 
     // If XP-affecting fields changed, trigger XP recalculation

@@ -22,6 +22,7 @@ interface CoachProfile {
   specialties: string[];
   languages: string[];
   organization?: string;
+  school?: string;
   role?: string;
   gender?: string;
   ageGroup?: string[];
@@ -72,6 +73,7 @@ export default function EditCoachProfile() {
     specialties: [],
     languages: ['English'],
     organization: '',
+    school: '',
     role: '',
     gender: '',
     ageGroup: [],
@@ -390,6 +392,7 @@ export default function EditCoachProfile() {
           hourlyRate: formData.hourlyRate,
           phoneNumber: formData.phoneNumber,
           profileImage: formData.profileImage || localPreview,
+          school: formData.school,
         })
       });
 
@@ -653,14 +656,28 @@ export default function EditCoachProfile() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div>
               <label className="block text-sm font-medium text-white mb-2">
-                Organization / School / Club
+                Organization / Club
               </label>
               <input
                 type="text"
                 name="organization"
                 value={formData.organization || ''}
                 onChange={handleInputChange}
-                placeholder="e.g. XYZ High School, ABC Athletic Club"
+                placeholder="e.g. ABC Athletic Club, Local YMCA"
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
+              />
+            </div>
+
+            <div>
+              <label className="block text-sm font-medium text-white mb-2">
+                School / University
+              </label>
+              <input
+                type="text"
+                name="school"
+                value={formData.school || ''}
+                onChange={handleInputChange}
+                placeholder="e.g. Princeton University, XYZ High School"
                 className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               />
             </div>

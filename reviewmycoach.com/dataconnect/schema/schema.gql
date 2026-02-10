@@ -32,6 +32,7 @@ type Coach @table(name: "coaches") {
   certifications: Any @col(name: "certifications")
   location: String @col(name: "location")
   organization: String @col(name: "organization")
+  school: String @col(name: "school")
   role: String @col(name: "role")
   gender: String @col(name: "gender")
   ageGroup: Any @col(name: "age_group")
